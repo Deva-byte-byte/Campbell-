@@ -1,0 +1,42 @@
+@page {
+  size: A4 portrait;
+  margin: 18mm 18mm 18mm 20mm;
+  @top-left {
+    content: "Chapter 163 — Focal Therapy of Prostate Cancer";
+    font-family: Carlito, "DejaVu Sans", sans-serif; font-size: 8.5pt; color: #000;
+    vertical-align: bottom; padding-bottom: 2pt; border-bottom: 0.3pt solid #000; width: 60%;
+  }
+  @top-right {
+    content: string(secA);
+    font-family: Carlito, "DejaVu Sans", sans-serif; font-size: 8.5pt; color: #000; text-align: right;
+    vertical-align: bottom; padding-bottom: 2pt; border-bottom: 0.3pt solid #000; width: 40%;
+  }
+  @bottom-center {
+    content: "page " counter(page) " of " counter(pages);
+    font-family: Carlito, "DejaVu Sans", sans-serif; font-size: 9pt; color: #000;
+  }
+}
+html { font-family: Carlito, "DejaVu Sans", sans-serif; font-size: 11pt; line-height: 1.4; color: #000; background: #fff; }
+body { margin: 0; text-align: left; hyphens: manual; -weasy-hyphens: manual; orphans: 2; widows: 2; }
+h1, h2, h3, h4 { break-after: avoid; page-break-after: avoid; color: #000; text-align: left; }
+h1 { font-size: 20pt; font-weight: 700; margin: 0 0 10pt; padding-bottom: 4pt; border-bottom: 1.5pt solid #000; line-height: 1.15; }
+h1 .sub { display: block; font-size: 11pt; font-weight: 400; font-style: italic; margin-top: 3pt; }
+h2 { font-size: 14pt; font-weight: 700; text-transform: uppercase; margin: 14pt 0 5pt; padding-bottom: 2pt; border-bottom: 1pt solid #000; string-set: secA content(); line-height: 1.2; }
+h3 { font-size: 12.5pt; font-weight: 700; margin: 10pt 0 3pt; line-height: 1.25; }
+h4 { font-size: 11.5pt; font-weight: 700; margin: 7pt 0 2pt; line-height: 1.25; }
+.d { font-style: italic; font-weight: 400; }
+ul, ol { margin: 2pt 0 4pt; padding-left: 14pt; }
+li { margin: 0 0 2.5pt; }
+li > ul, li > ol { margin-top: 2pt; }
+p { margin: 3pt 0; }
+.concept { font-style: italic; margin: 5pt 0 6pt; break-before: avoid; page-break-before: avoid; }
+table { width: 100%; border-collapse: collapse; font-size: 10pt; line-height: 1.3; margin: 3pt 0 4pt; border-top: 1pt solid #000; border-bottom: 1pt solid #000; }
+thead { display: table-header-group; }
+th { text-align: left; font-weight: 700; vertical-align: bottom; padding: 2pt 4pt; border-bottom: 0.5pt solid #000; }
+td { vertical-align: top; padding: 2pt 4pt; }
+tbody tr:nth-child(even) td { background: #f2f2f2; }
+tr { break-inside: avoid; page-break-inside: avoid; }
+.tt { font-weight: 700; text-transform: uppercase; font-size: 10pt; margin: 9pt 0 1pt; break-after: avoid; page-break-after: avoid; }
+.tt .cap { text-transform: none; }
+.src { font-size: 10pt; margin: 0 0 3pt; }
+.legend { font-weight: 700; font-size: 11pt; margin: 6pt 0 1pt; break-after: avoid; }
