@@ -1,18 +1,17 @@
 
 ### UROGENITAL TUBERCULOSIS
 
-#### Chapter preamble
 
-- **Tuberculosis (TB) can involve any organ**, including the urogenital (UG) tract. Untreated UG TB causes **irreversible tissue destruction**, ending in **renal failure and infertility**, so TB belongs in the differential diagnosis of UG disorders.
+- **Tuberculosis (TB) can involve any organ**, including the urogenital (UG) tract. Untreated UG TB causes **irreversible tissue destruction** (**renal failure, infertility**), so belongs in the differential of UG disorders.
 - **TB is the second "great imitator"** (after syphilis); mimicking other diseases delays diagnosis and treatment.
-- **As TB becomes rarer in industrialised nations, diagnosis depends on clinical suspicion**: clinicians see it less, so must think of it deliberately.
+- **As TB becomes rarer in industrialised nations, diagnosis depends on deliberate clinical suspicion.**
 - **Terminology:** "urogenital TB" is preferred over "genitourinary TB" because the **urinary tract is involved far more often than the genital tract**.
 
 #### History
 
 - **Mycobacterium tuberculosis has co-evolved with humans.** A progenitor (*M. prototuberculosis*) may have infected early hominids > 3 million years ago; a *Homo erectus* skeleton about 500,000 years old has TB-consistent bony lesions.
 - **Oldest microbiological confirmation:** Mycobacterium tuberculosis complex DNA in **9000-year-old Neolithic skeletons** (Eastern Mediterranean). Tubercle bacilli shown microscopically and molecularly in **Egyptian mummies (c. 3000 BCE)**.
-- **Written descriptions** come from ancient East Asia, the pre-Columbian Americas and classical Greece and Rome, continuing through modern history.
+- **Written descriptions:** ancient East Asia, pre-Columbian Americas, classical Greece and Rome, through modern history.
 - **Epidemic peak: 18th and 19th centuries** in Europe and North America; "consumption" caused up to **one-quarter of deaths in the Industrial Age**.
 - **Turning point, 24 March 1882:** **Robert Koch** presented the first isolation and identification of the tubercle bacillus; **24 March is World Tuberculosis Day**.
 
@@ -31,7 +30,7 @@
 - **Commonest human isolate worldwide: *M. tuberculosis*, then *M. bovis*.** Regionally, **in West Africa *M. africanum*** causes a large share.
 - **"M. tuberculosis" is often used, inaccurately, for the whole complex.**
 - **The species are clinically indistinguishable but differ in drug susceptibility**: classically, ***M. bovis* is innately resistant to pyrazinamide**, a first-line agent.
-- The table sorts species by host. The trap is assuming uniform drug susceptibility: **species matters for treatment, not for the clinical picture** — directly relevant to bacille Calmette–Guérin (BCG, derived from *M. bovis*) infection after intravesical therapy.
+- The table sorts species by host. The trap is assuming uniform susceptibility: **species matters for treatment, not clinical picture** — relevant to bacille Calmette–Guérin (BCG, derived from *M. bovis*) infection after intravesical therapy.
 
 *Concept —* **the complex is one disease clinically but several organisms pharmacologically**: identify the species because it changes the drug regimen, not because it changes the presentation.
 
@@ -39,9 +38,9 @@
 
 - **Global (World Health Organization, WHO):** **one-quarter of the world's population has latent MTBC infection**. 2021: about **10.6 million new active cases and 1.6 million deaths**. Deaths have fallen steadily since 2000; **TB mortality down 45% since 1990**.
 - **Obstacles to control:** the **human immunodeficiency virus (HIV) epidemic in sub-Saharan Africa**, **global rise in obesity and diabetes**, and **multidrug and extensive drug resistance**.
-- **United States:** about **8300 active cases in 2022 (2.5 per 100,000)**, declining steadily since the **1980s resurgence (peak 1992)**. Reported cases fell during COVID-19 in 2020 and were back to pre-pandemic levels by 2022.
+- **United States:** about **8300 active cases in 2022 (2.5 per 100,000)**, declining steadily since the **1980s resurgence (peak 1992)**. Cases fell during COVID-19 (2020), back to pre-pandemic levels by 2022.
   - **Disproportionate burden in people born outside the United States:** incidence **16 times** that of US-born people.
-- **The proportion of pulmonary TB patients with UG disease depends on setting:**
+- **UG involvement in pulmonary TB depends on setting:**
 
 **UROGENITAL TB BY SETTING**
 
@@ -59,7 +58,7 @@
 
 - **Entry is by inhalation of cough-generated aerosols** (direct soft-tissue inoculation is rare) → **alveolar macrophages phagocytose the bacilli**, with three possible outcomes:
   - **Cleared:** macrophages kill the bacilli; **no infection and no adaptive immune response**.
-  - **Established:** bacilli escape killing and replicate in macrophages. **Up to 12 weeks may pass before a cellular immune response is detectable**; meanwhile bacilli spread **via lymphatics to the hilar nodes, then via the bloodstream to distant organs** — this is how the kidney and epididymis are seeded.
+  - **Established:** bacilli escape killing and replicate in macrophages. **A cellular immune response may take up to 12 weeks to appear**; meanwhile bacilli spread **via lymphatics to the hilar nodes, then via the bloodstream to distant organs** — this is how the kidney and epididymis are seeded.
 - **Granuloma formation is how the host contains infection:**
   - **Infected macrophages secrete cytokines**: interleukin-6 (IL-6), IL-12, IL-1β, tumour necrosis factor-α (TNF-α).
   - **Structure:** a **centre of foamy macrophages, epithelioid cells and multinucleated (Langhans) giant cells** within a **lymphocyte cuff**.
@@ -76,7 +75,7 @@
 | **Infectious?** | No | **Pulmonary disease: yes** (respiratory aerosols to close contacts) |
 
 - **Reactivation triggers (balance shifts towards the pathogen):** old age, renal failure, diabetes mellitus, malnutrition, HIV infection, other immunosuppression.
-- **Isolated extrapulmonary disease, including UG TB, is generally not infectious**, except by **direct skin inoculation or aerosol-generating procedures on infected fluids or tissues** — relevant in theatre.
+- **Isolated extrapulmonary (including UG) TB is generally not infectious**, except by **direct skin inoculation or aerosol-generating procedures on infected fluids or tissues** — relevant in theatre.
 - **The latent/active split is a simplification.** TB is a **dynamic spectrum** — contained infection → subclinical disease → progressively infectious disease — and a person can **move in either direction** as host immunity (comorbidity) or the bacilli (treatment of latent infection) change.
 
 *Concept —* **TB outcome is a balance between host and pathogen, and the granuloma is where that balance is held.** Latency, reactivation and the whole spectrum are the granuloma holding, failing or re-forming as host immunity changes, and IFN-γ is the cytokine that holds it.
@@ -92,7 +91,7 @@
 | **3. Contiguous spread** | Rare | TB **ignores anatomical boundaries**: **spine → psoas → kidney**; gastrointestinal (GI) TB → **enterorenal and enterovesical fistulae** |
 | **4. Direct inoculation** | Exceedingly rare | **Self-inoculation** of external genitalia from infected stool or urine; **person-to-person genital inoculation** from infected genital or oral lesions |
 
-- **Haematogenous disease may appear soon after seeding or after long latency**, typically **decades, up to 46 years** — hence UG TB often presents long after, or without any history of, pulmonary disease.
+- **Haematogenous disease may appear soon after seeding or after latency of decades (up to 46 years)** — hence UG TB often presents long after, or without, pulmonary disease.
 
 *Concept —* **UG TB is usually a blood-borne disease that lands in the two best-perfused UG organs, the kidney and the epididymis, and spreads from there.** The distribution of disease in the rest of the tract follows from those two starting points.
 
@@ -100,9 +99,9 @@
 
 #### Clinical Manifestations and Pathological Features
 
-- **Presentation is non-specific**: patients are often **treated repeatedly for bacterial infection or investigated for malignancy** before TB is considered.
+- **Presentation is non-specific**: patients are often **repeatedly treated for bacterial infection or investigated for malignancy** first.
 - **Symptoms depend on site and severity.** **Renal TB can be destructive yet silent until it reaches the bladder.**
-- **Asymptomatic** in a small minority (about 8%) in developed countries, where patients present earlier.
+- **Asymptomatic** in about 8% in developed countries (earlier presentation).
 - **Constitutional symptoms (fever, weight loss, night sweats, malaise) in < 20%**; their absence does not exclude UG TB.
 - **Lower urinary tract symptoms dominate:** up to **half dysuria alone**, about **half storage symptoms**, about **one-third haematuria and flank pain**.
 - **Renal colic in < 10%**, from passage of **necrotic papillae, clot, stones or caseous debris** in severe pyelonephritis.
@@ -123,16 +122,16 @@
 | **Urethra** | **1.9–4.5% (relatively resistant)** | Usually with prostatic disease | **Urethroscrotal fistula** |
 | **Penis** | Exceedingly rare | Primary, autoinoculation or haematogenous | Ulcerating papule or plaque → cavernosal nodules |
 
-- **What the table is for:** frequency follows route. **Haematogenous landing sites (kidney, epididymis) are commonest**; organs reached by descent or contiguity next; **urethra and penis rare**.
+- **What the table is for:** frequency follows route — **haematogenous landing sites (kidney, epididymis) commonest**, descent or contiguity next, **urethra and penis rare**.
 - **The trap:** the **epididymis, not the prostate, is the commonest genital site**, and the urethra is relatively spared despite constant exposure to infected urine.
 
 ##### Kidney
 
-- **Renal disease is progressive and highly destructive**; pathology varies with severity.
+- **Renal disease is progressive and highly destructive**, pathology varying with severity.
 - **Kidney as collateral damage of pulmonary or systemic TB (no UG imaging changes):**
-  - **TB granulomatous interstitial nephritis:** pulmonary TB with renal failure, ± pyuria, normal UG imaging; biopsy shows granulomas, sometimes caseating. **Treatment can reverse the renal impairment.**
+  - **TB granulomatous interstitial nephritis:** pulmonary TB + renal failure, ± pyuria, normal UG imaging; biopsy: granulomas, sometimes caseating. **Treatment can reverse the renal impairment.**
   - **Immune-complex glomerulonephritis** and **secondary amyloidosis**.
-- **Miliary TB (widely disseminated):** a heavy haematogenous bacillary load gives **innumerable pale granulomas about 3 mm across, like millet seeds**, studding cortex and medulla. **High mortality**, but the renal "milia" **usually spare renal function**.
+- **Miliary TB (widely disseminated):** heavy haematogenous load gives **innumerable pale granulomas about 3 mm across, like millet seeds**, studding cortex and medulla. **High mortality**, but the renal "milia" **usually spare renal function**.
 - **Localised renal TB sequence:** bacilli lodge in **periglomerular capillaries** → parenchymal granulomas **coalesce** → **caseation forms cavities** → abscess, chronic pyelonephritis, **parenchymal and papillary necrosis** → **flank sinus tracts**.
   - Examination: **costovertebral angle tenderness**.
   - With advancing disease the **calyces become inflamed, then calcify**, causing calyceal **distortion, dilatation and stenosis**.
@@ -153,17 +152,17 @@
 - **Ureteric TB descends from the kidney:** urinary bacilli form **mural granulomas**, and **infected calculi can descend and impact**.
 - **Inflammation → scarring → stricture**, **commonest distally at the vesicoureteric junction**; pan-ureteric strictures give a **"beaded corkscrew"** ureter.
 - **A scarred, distorted ureter can both obstruct and reflux.** **Stricture-related obstruction is an important cause of renal failure in UG TB.**
-- **Spontaneous ureteric perforation** proximal to a vesicoureteric junction stricture (single case) needed stenting, medical treatment and reconstruction.
+- **Spontaneous ureteric perforation** above a vesicoureteric junction stricture (single case): stenting, medical treatment, reconstruction.
 
 ##### Bladder
 
-- **Bladder TB is descending infection, beginning around the ureteric orifices and spreading along lymphatics.** Urothelial implantation causes **patchy cystitis**; **ulcers** form where large granulomas coalesce.
+- **Bladder TB descends, beginning around the ureteric orifices and spreading along lymphatics.** Urothelial implantation causes **patchy cystitis**; **ulcers** form where large granulomas coalesce.
 - **The dome is most affected; trigone and bladder neck usually spared.** Mucosal inflammation, friability and haematuria follow.
 - **After about a year of chronic inflammation and scarring, the bladder contracts:**
   - Capacity **< 100 mL** → **prominent frequency, urgency, pain and dysuria**.
   - **"Thimble" bladder**: capacity **< 20 mL**.
 - **Contracture is late** and **commoner in the developing world** (about 12% vs 4% of UG cases) because diagnosis there is made later.
-- **Rare: acute abdomen from spontaneous bladder perforation**, often recognised only at operation, before TB is considered.
+- **Rare: acute abdomen from spontaneous bladder perforation**, often recognised only at operation, before TB is suspected.
 
 ##### Epididymis, Vas Deferens, Testes and Scrotum
 
@@ -171,7 +170,7 @@
 - **Disease begins in the more vascular globus minor:** epithelial granulomas → fibrosis and **luminal obliteration** → large caseous granulomas → **nodular epididymis**, **swollen or hard** on examination.
 - **Granulomas can adhere to the skin and ulcerate**, forming the posterior scrotal sinus.
 - **Vas deferens:** thickened and beaded from **nodular scarring**.
-- **Testis:** more often than isolated disease, epididymal TB **extends into the testis**; granulomas replace seminiferous epithelium and connective tissue with fibrosis, producing the tumour-like mass.
+- **Testis:** **isolated epididymal or testicular TB is rare**; epididymal TB usually **extends into the testis**, granulomas replacing seminiferous epithelium and connective tissue with fibrosis to produce the tumour-like mass.
 
 ##### Prostate and Seminal Vesicles
 
@@ -185,7 +184,7 @@
 | **Asymptomatic** → calcification, hard gland | **Resembles bacterial prostatitis** |
 
 - **Examination:** nodules or fluctuance.
-- **Suspect TB in chronic prostatitis persisting despite antibiotics.** **Quinolones are active against MTBC**, but the **short courses for bacterial prostatitis are inadequate**, so symptoms fail to resolve or **recur quickly** — the partial response is the clue.
+- **Suspect TB in chronic prostatitis persisting despite antibiotics.** **Quinolones are active against MTBC**, but the **short courses for bacterial prostatitis are inadequate**, so symptoms persist or **recur quickly** — the partial response is the clue.
 - **Prostatic abscess is rare**, particularly in **acquired immunodeficiency syndrome (AIDS)**.
 - **Seminal vesicles:**
   - Routes: via the **vas** (from epididymal or testicular TB), or via the **urethra and ejaculatory ducts** (from renal, bladder or prostatic TB).
@@ -218,7 +217,7 @@
 
 #### Diagnosis
 
-- **In developed countries the primary goal is to isolate MTBC in culture for drug-susceptibility testing.** Order of evidence:
+- **In developed countries the goal is MTBC culture for drug-susceptibility testing.** Order of evidence:
   - Culture or DNA positive → **diagnosis**.
   - Negative → **caseating granulomas on tissue** in the right clinical context support TB.
   - Also absent → **compatible clinical picture + probable exposure + response to empirical treatment**.
@@ -246,13 +245,13 @@
 ##### Nucleic Acid Amplification Tests
 
 - **Nucleic acid amplification tests (NAATs) give results in 1–2 days** and detect MTBC when **bacillary load is too low** for culture.
-- **Urine contains natural amplification inhibitors**, lowering sensitivity in non-respiratory specimens; sensitivity also depends on specimen, target sequence and protocol.
+- **Natural amplification inhibitors in urine** lower sensitivity in non-respiratory specimens; sensitivity also varies with specimen, target sequence and protocol.
 - **GeneXpert MTB/RIF (marketed since 2010):** self-contained, automated (sputum processing → DNA extraction → amplification); **detects MTBC and rifampicin resistance simultaneously**.
   - **Rifampicin resistance is a surrogate for multidrug-resistant TB (MDR-TB)**, as **> 90% of rifampicin-resistant strains are also isoniazid (INH)-resistant**.
   - **MDR-TB = resistance to both INH and rifampicin.**
-- **Performance in urine:** systematic reviews show **good sensitivity and specificity for GeneXpert against urine AFB culture**, but the underlying studies are small and heterogeneous, so estimates are imprecise. NAAT on **epididymal biopsy tissue** performed well in a single study.
+- **Performance in urine:** systematic reviews show **good sensitivity and specificity for GeneXpert against urine AFB culture**, but small, heterogeneous studies make estimates imprecise. NAAT on **epididymal biopsy tissue** performed well in a single study.
 - **Role of NAAT:**
-  - **United States: adjunct only.** It **does not replace culture**, and a **negative NAAT does not exclude extrapulmonary TB**, for lack of high-quality sensitivity data.
+  - **United States: adjunct only**; it **does not replace culture**, and lacking high-quality sensitivity data, a **negative NAAT does not exclude extrapulmonary TB**.
   - **WHO: GeneXpert MTB/RIF is part of the initial work-up of all patients with TB**; **cost and equipment** are the barriers in developing countries.
   - **NAATs cannot monitor treatment response:** **dead organisms still shed nucleic acid**, so the test stays positive despite adequate treatment. **Culture is used for monitoring.**
 
@@ -264,7 +263,7 @@
   - **PLHIV with TB symptoms**
   - **People with advanced HIV disease who are unwell**
   - **PLHIV with a CD4 count < 200 cells/mm³**
-- **United States:** broad access to other diagnostics limits LF-LAM mainly to academic centres.
+- **United States:** broad access to other diagnostics confines LF-LAM mainly to academic centres.
 
 ##### Histopathology
 
@@ -276,7 +275,7 @@
 ##### Screening Tests
 
 - **The tuberculin skin test (TST) and interferon-γ release assays (IGRAs) cannot distinguish latent infection from active disease.**
-  - Both are approved by the United States Food and Drug Administration (FDA) and widely used but have **limited value for active disease**: **a positive test does not rule TB disease in; a negative test does not rule it out.**
+  - Both are United States Food and Drug Administration (FDA)-approved and widely used but of **limited value for active disease**: **a positive test does not rule TB disease in; a negative test does not rule it out.**
   - **Their proper use is screening for TB infection.**
 - **Preferred screening test:** **IGRA** for persons **≥ 5 years born in TB-endemic countries**; **TST remains acceptable**.
 
@@ -305,8 +304,8 @@
 
 ###### Interferon-γ Release Assays
 
-- **Principle:** a blood test measuring **IFN-γ released by sensitised T cells in response to MTBC-specific antigens** — in effect an **in vitro, MTBC-specific TST**.
-- **Its antigens are absent from all BCG strains and most non-tuberculous mycobacteria**, so **BCG causes no false positive** — the key advantage over TST.
+- **Principle:** blood test measuring **IFN-γ released by sensitised T cells to MTBC-specific antigens** — an **in vitro, MTBC-specific TST**.
+- **Its antigens are absent from all BCG strains and most non-tuberculous mycobacteria**, so **no BCG false positive** — the key advantage over TST.
 
 **TST VS IGRA**
 
@@ -336,7 +335,7 @@
 
 ##### Radiography
 
-- **Imaging is often the first test to suggest TB** in a UG disorder. **Choose modality by site and clinical picture.**
+- **Imaging often first suggests TB** in a UG disorder. **Choose modality by site and clinical picture.**
 
 ###### Plain Radiography (Kidney–Ureter–Bladder Film)
 
@@ -362,7 +361,7 @@
 
 ###### Intravenous Urography
 
-- **Intravenous urography (IVU) was the former gold standard for early renal TB**, source of most classic signs. Still sometimes called the preferred first test in some regions, it has been **essentially replaced by computed tomography (CT), CT urography, magnetic resonance imaging (MRI) and ultrasound (US)**.
+- **Intravenous urography (IVU), the former gold standard for early renal TB**, gave most classic signs. Still called the preferred first test in some regions, it is **essentially replaced by computed tomography (CT), CT urography, magnetic resonance imaging (MRI) and ultrasound (US)**.
 - **Early signs:** **loss of sharpness, irregular urothelial margins**; **"moth-eaten" calyces**.
 - **Filling defects** from a **tuberculoma rupturing into a calyx** or **papillary necrosis**; **medullary cavities communicating with the collecting system**.
 - **"Phantom calyx":** a stenosed calyx or infundibulum excretes no contrast, so the calyx is **absent where it should be**.
@@ -385,8 +384,7 @@
 
 ###### Computed Tomography With Urography
 
-- **CT urography is the most used modality in developed countries**, replacing IVU there.
-- **It shows the KUB and IVU features (calcification, scarring, obstruction) more sensitively:**
+- **CT urography, the most used modality in developed countries, has replaced IVU there**, showing KUB and IVU features (calcification, scarring, obstruction) **more sensitively:**
   - **More sensitive than KUB for calcification** and **collecting-system wall thickening**.
   - Multidetector scanners detect **3–4 mm lesions**.
   - **Intravenous contrast assesses function** across excretory phases.
@@ -402,7 +400,7 @@
 
 ###### Retrograde and Antegrade Pyelography
 
-- **Both replaced by CT urography**, but useful **when IVU or CT is impossible (renal insufficiency, contrast allergy)** to delineate distorted anatomy.
+- **Both replaced by CT urography**; useful **when IVU or CT is impossible (renal insufficiency, contrast allergy)** to delineate distorted anatomy.
 - **With IVU, they show whether cavities are obstructive and whether they communicate with the collecting system.**
 
 ##### Ultrasonography
@@ -419,7 +417,7 @@
 
 ##### Magnetic Resonance Imaging
 
-- **MRI is used less than contrast CT.** Radiation-free, so **useful in children and pregnancy**. Findings are much as on CT, but **better tissue resolution** can show **a single granuloma**.
+- **MRI is used less than contrast CT**; radiation-free, so **useful in children and pregnancy**. Findings resemble CT, but **better tissue resolution** can show **a single granuloma**.
 - **Signal characteristics:**
   - **Small lesions:** **hypointense on T1 and T2**.
   - **Larger lesions:** **centrally T2-hyperintense** from central cellularity.
@@ -450,7 +448,7 @@
   - **Ulcers can mimic malignancy.**
 - **A "golf-hole" ureteric orifice suggests TB** → **image or scope the upper tract**.
 - **Biopsy when possible, especially if malignancy is possible.**
-- **Why biopsy though urine culture is diagnostic:** culture results **may come too slowly**, and in **culture-negative patients bladder biopsy has moderate yield** (19–52% sensitivity).
+- **Why biopsy though urine culture is diagnostic:** culture **may be too slow**, and in **culture-negative patients bladder biopsy has moderate yield** (19–52% sensitivity).
 
 **FIG. 31.7** Endoscopic and gross appearances of UG TB:
 - (A) Extensive TB of the kidney and ureter with calcification and stricture
@@ -483,8 +481,8 @@
   - **Combination therapy prevents emergence of resistance.**
 - **Start with four drugs: INH, rifampicin, pyrazinamide and ethambutol (RIPE)**; first-line combination gives the **best cure rate in the shortest time**.
 - **Baseline tests:** **platelet count, liver and renal function**; **HIV test**; where appropriate, **hepatitis B and C and diabetes screening**.
-- **Tailor the regimen to susceptibility results.** **Directly observed therapy (DOT)** secures adherence and prevents resistance.
-- **Second-line agents for three situations:** **intolerance**, **resistance** or **failure** of first-line treatment; they vary in tolerability and ease of administration.
+- **Tailor regimen to susceptibility.** **Directly observed therapy (DOT)** secures adherence and prevents resistance.
+- **Second-line agents:** for **intolerance**, **resistance** or **failure** of first-line treatment; variable tolerability and ease of administration.
   - **Recent additions:**
     - **Fluoroquinolones and linezolid**, originally developed for other bacterial infections.
     - **Bedaquiline**, the **first new drug in 40 years developed specifically for TB**.
@@ -550,7 +548,7 @@
 
 - **First-line drugs suit UG TB:** **high urinary concentrations** and **good activity in acidic conditions**.
 - **The new 4-month regimen** (daily rifapentine, INH, pyrazinamide, moxifloxacin) for drug-susceptible TB is **not recommended for extrapulmonary TB** and **must not be used for UG TB**.
-- **Prolonged treatment:** duration depends on clinical disease and drugs used.
+- **Prolonged treatment** (duration depends on disease and drugs):
   - **Complicated UG TB** (abscesses, severe scarring, extensive disease) and UG TB's **higher relapse rate than pulmonary TB** lead some to treat **12–24 months**, or **≥ 6 months after surgery**.
   - **Discuss any departure from the standard short course with a TB specialist.**
 - **Monitoring during therapy:**
@@ -561,7 +559,7 @@
 
 ##### Corticosteroids
 
-- **Adjunctive steroids' role is not fully established.** Rationale: **limit excessive immune-mediated destruction and scarring**.
+- **Adjunctive steroids: role not fully established.** Rationale: **limit excessive immune-mediated destruction and scarring**.
 - **Uses:**
   - **TB meningitis:** **mortality benefit; strongly recommended**.
   - **Selected cases:** **severe pulmonary TB with paradoxical worsening on treatment**; **TB pericarditis** (to prevent constriction).
@@ -570,7 +568,7 @@
 
 ##### Surgical Therapy
 
-- **About half (55%) of UG TB patients need surgery at some point**, rising with disease stage.
+- **About half (55%) of UG TB patients need surgery**, rising with stage.
 - **Indications:**
   - Relieve obstruction and drain infected material
   - Remove a **non-functioning, infected kidney** that resists cure
@@ -587,7 +585,7 @@
 - **Escalation:**
   - **Retrograde double-J stent (preferred)** → succeeds in **under half (41%)**.
   - Fails → **antegrade stent**, internalised or externalised, via percutaneous puncture.
-  - Fails → **PCN until definitive treatment**; more than one may be needed because strictures and scarring cause loculation.
+  - Fails → **PCN until definitive treatment**; loculation from strictures and scarring may need more than one.
 - **PCN must be followed by correcting the cause**; removal without correction risks a **tuberculous cutaneous fistula** (less likely with effective concurrent chemotherapy).
 - **Unsalvageable kidney → nephrectomy.**
 - **Avoid high contrast-injection pressures** during stent or PCN placement, which could **disseminate infection**.
@@ -604,14 +602,14 @@
 | **Non-functioning kidney + TB recalcitrant or recurring despite optimal therapy.** Relapse after nephrectomy with short-course therapy **< 1%** | **Non-functioning kidney without recalcitrant disease or hypertension**. Some advocate removal, but **no supporting evidence**; studies showing bacilli in removed kidneys **predate modern chemotherapy** |
 | **Non-functioning kidney + medically resistant hypertension.** Hypertension improves in **about two-thirds (65%)** | |
 
-- **Nephrectomy is performed in about one-quarter (27%) of UG TB patients**, similarly in developed and developing countries.
+- **Nephrectomy in about one-quarter (27%) of UG TB patients**, similar in developed and developing countries.
 - **Open technique:**
   - **Oblique retroperitoneal incision**, extendable dorsally or ventrally, because of dense fibrosis.
   - **Remove granulomatous or caseous perinephric tissue with the specimen.**
   - **Ligate renal artery and vein separately** to avoid a late **arteriovenous fistula**.
   - **The ureter is usually left.**
   - Minimise lymphatic disruption; **avoid entering pleura and peritoneum**.
-- **Laparoscopic nephrectomy is increasingly preferred** despite early concern about fibrosis: **less blood loss, faster recovery**, and in experienced hands only **modestly longer** (about half an hour more) than for other indications.
+- **Laparoscopic nephrectomy increasingly preferred** despite early fibrosis concerns: **less blood loss, faster recovery**; in experienced hands only **modestly longer** (about half an hour) than other indications.
 
 ###### Ureteropelvic and Ureteral Surgery
 
@@ -625,7 +623,7 @@
 - **TB strictures have mucosal ischaemia and dense fibrosis**, so success rates for other strictures **do not transfer**.
 - **Best results:** **short stricture, residual lumen, good renal function**.
 - **Strictures forming during chemotherapy and stented early (double-J) can stabilise without further treatment.**
-- **Balloon dilatation** (retrograde or antegrade) has been used for ureter, PUJ, vesicoureteric junction and calyceal infundibula, usually leaving a stent. **High failure rates; repeat procedures common.**
+- **Balloon dilatation** (retrograde or antegrade): ureter, PUJ, vesicoureteric junction, calyceal infundibula; stent usually left. **High failure rates; repeat procedures common.**
 - **Every ureteric stricture needs follow-up imaging (US or IVU)**, especially after endoscopic treatment, because **strictures can worsen as they heal**.
   - **Deterioration** → consider adding **corticosteroids**.
   - **No improvement or progression after 6 weeks of chemotherapy** → **open surgery**.
@@ -666,7 +664,7 @@
 
 - **Usual rules for bowel in the urinary tract apply:** assess **renal function**, reconfigure bowel into a **low-pressure reservoir**, **educate the patient**, ensure **long-term follow-up**.
 - **Complications:** **mucus, electrolyte disturbance, secondary bacterial infection**.
-- **Laparoscopic and robot-assisted augmentation** increasingly used, with good results.
+- **Laparoscopic and robot-assisted augmentation**: increasing use, good results.
 
 ###### Urethral Procedures
 
@@ -718,8 +716,7 @@
 - **Frequency:**
   - **Worldwide:** MDR-TB in about **3.6% of new** and **20% of previously treated cases**; **one-fifth of MDR-TB has additional resistance.**
   - **United States:** **< 1.5%** at first diagnosis, stable over 20 years.
-- **BPaL (bedaquiline + pretomanid + linezolid)**, approved **since 2019**: **all-oral, 6–9-month** regimen for MDR-TB, used successfully in XDR-TB **without bedaquiline or linezolid resistance**.
-  - **Not yet approved for extrapulmonary TB; role in UG TB not established.**
+- **BPaL (bedaquiline + pretomanid + linezolid)**, approved **since 2019**: **all-oral** MDR-TB regimen (duration and extrapulmonary status in table below), used successfully in XDR-TB **without bedaquiline or linezolid resistance**; **role in UG TB not established.**
 
 ##### Pregnancy and Lactation
 
@@ -736,7 +733,7 @@
 
 ##### Human Immunodeficiency Virus Infection
 
-- **HIV raises active-TB risk 15- to 20-fold**, and each infection **accelerates the other**. **Test every TB patient for HIV.**
+- **HIV raises active-TB risk 15- to 20-fold**; each infection **accelerates the other**. **Test every TB patient for HIV.**
 - **TB causes > 30% of deaths among PLHIV worldwide**, reminiscent of 18th- and 19th-century Europe.
 - **Extrapulmonary and UG TB are commoner in HIV**; UG TB was common at autopsy in AIDS in a small Indian study.
 
@@ -759,7 +756,7 @@
 
 ##### Renal Transplant Recipients
 
-- **Allograft TB is rare**, usually **within 6 months** of transplantation but up to **7 years** later. Early onset reflects **immunosuppression or TB already in the donor kidney**.
+- **Allograft TB is rare**: usually **within 6 months** of transplantation, up to **7 years**. Early onset reflects **immunosuppression or TB already in the donor kidney**.
 - **Diagnosis is difficult:**
   - Early disease, so **imaging usually normal**.
   - Immunosuppression **blunts the usual pathology**.
