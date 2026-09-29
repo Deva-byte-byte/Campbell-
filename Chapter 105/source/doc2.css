@@ -1,0 +1,58 @@
+@page {
+  size: A4;
+  margin: 18mm 18mm 18mm 20mm;
+  @top-left {
+    content: string(chap);
+    font-family: Carlito, "DejaVu Sans", sans-serif;
+    font-size: 8.5pt; color: #000;
+    width: 60%;
+    vertical-align: bottom;
+    padding-bottom: 2pt;
+    border-bottom: 0.3pt solid #000;
+  }
+  @top-right {
+    content: string(secA);
+    font-family: Carlito, "DejaVu Sans", sans-serif;
+    font-size: 8.5pt; color: #000;
+    width: 40%;
+    text-align: right;
+    vertical-align: bottom;
+    padding-bottom: 2pt;
+    border-bottom: 0.3pt solid #000;
+  }
+  @bottom-center {
+    content: "page " counter(page) " of " counter(pages);
+    font-family: Carlito, "DejaVu Sans", sans-serif;
+    font-size: 9pt; color: #000;
+  }
+}
+html { font-family: Carlito, "DejaVu Sans", sans-serif; font-size: 11pt; line-height: 1.4; color: #000; }
+body { margin: 0; color: #000; background: #fff; }
+* { hyphens: manual; -weasy-hyphens: manual; }
+p, li { text-align: left; orphans: 2; widows: 2; }
+h1, h2, h3, h4, .tcap { break-after: avoid; page-break-after: avoid; color: #000; }
+h1 { font-size: 20pt; font-weight: 700; margin: 0 0 10pt; padding-bottom: 4pt; border-bottom: 1.5pt solid #000; line-height: 1.2; string-set: chap attr(data-run); }
+h1 .sub { display: block; }
+h2 { font-size: 14pt; font-weight: 700; text-transform: uppercase; margin: 16pt 0 6pt; padding-bottom: 2pt; border-bottom: 1pt solid #000; line-height: 1.25; string-set: secA attr(data-run); }
+h3 { font-size: 12.5pt; font-weight: 700; margin: 11pt 0 4pt; line-height: 1.25; }
+h4 { font-size: 11.5pt; font-weight: 700; margin: 8pt 0 3pt; line-height: 1.25; }
+.d { font-style: italic; font-weight: 400; }
+ul { margin: 2pt 0 4pt; padding-left: 14pt; }
+ol { margin: 2pt 0 4pt; padding-left: 16pt; }
+li { margin: 0 0 2.5pt; }
+li ul { margin-top: 2pt; }
+p { margin: 3pt 0; }
+.seq { margin: 3pt 0 4pt; }
+.concept { font-style: italic; margin: 5pt 0 4pt; break-before: avoid; page-break-before: avoid; }
+.concept b { font-style: italic; }
+.tcap { font-weight: 700; text-transform: uppercase; font-size: 10pt; margin: 9pt 0 2pt; line-height: 1.3; }
+table { width: 100%; border-collapse: collapse; font-size: 10pt; line-height: 1.3; border-top: 1pt solid #000; border-bottom: 1pt solid #000; margin: 0 0 3pt; }
+thead { display: table-header-group; }
+th { text-align: left; font-weight: 700; border-bottom: 0.5pt solid #000; padding: 2.5pt 4pt; vertical-align: bottom; }
+td { padding: 2.5pt 4pt; vertical-align: top; }
+tbody tr:nth-child(even) td { background: #f2f2f2; }
+tr { break-inside: avoid; page-break-inside: avoid; }
+.src { font-size: 9pt; margin: 0 0 4pt; }
+.kp { border: 0.75pt solid #000; padding: 6pt; margin: 8pt 0; }
+.kp .kt { font-weight: 700; text-transform: uppercase; margin: 0 0 3pt; }
+.kp ul { margin: 0; }
