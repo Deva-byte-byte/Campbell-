@@ -1,8 +1,8 @@
 @page {
   size: A4;
   margin: 18mm 18mm 18mm 20mm;
-  @top-left { content: "Chapter 162 — Radiation Therapy for Prostate Cancer"; font-family: Carlito, "DejaVu Sans"; font-size: 8.5pt; color:#000; border-bottom: 0.3pt solid #000; vertical-align: bottom; padding-bottom: 2pt; width: 60%; }
-  @top-right { content: string(section, start); font-family: Carlito, "DejaVu Sans"; font-size: 8.5pt; color:#000; border-bottom: 0.3pt solid #000; vertical-align: bottom; padding-bottom: 2pt; text-align: right; width: 40%; }
+  @top-left { content: "Chapter 162 — Radiation Therapy for Prostate Cancer"; font-family: Carlito, "DejaVu Sans"; font-size: 8.5pt; color:#000; border-bottom: 0.3pt solid #000; vertical-align: bottom; padding-bottom: 2pt; width: 48%; }
+  @top-right { content: string(section, start); font-family: Carlito, "DejaVu Sans"; font-size: 8.5pt; color:#000; border-bottom: 0.3pt solid #000; vertical-align: bottom; padding-bottom: 2pt; text-align: right; width: 52%; }
   @bottom-center { content: "page " counter(page) " of " counter(pages); font-family: Carlito, "DejaVu Sans"; font-size: 9pt; color:#000; }
 }
 html { font-family: Carlito, "DejaVu Sans", sans-serif; font-size: 11pt; line-height: 1.4; color: #000; }
@@ -30,4 +30,4 @@ td { text-align: left; vertical-align: top; padding: 2pt 4pt; }
 tbody tr:nth-child(even) td { background: #f2f2f2; }
 tr { break-inside: avoid; }
 .seq { margin: 2pt 0 4pt 0; }
-@page :first { @top-right { content: string(section, first); font-family: Carlito, "DejaVu Sans"; font-size: 8.5pt; color:#000; border-bottom: 0.3pt solid #000; vertical-align: bottom; padding-bottom: 2pt; text-align: right; width: 40%; } }
+@page :first { @top-right { content: string(section, first); font-family: Carlito, "DejaVu Sans"; font-size: 8.5pt; color:#000; border-bottom: 0.3pt solid #000; vertical-align: bottom; padding-bottom: 2pt; text-align: right; width: 52%; } }
