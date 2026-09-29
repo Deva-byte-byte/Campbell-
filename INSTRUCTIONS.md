@@ -70,7 +70,7 @@ Depth must not decay across an instalment. The last section gets the same treatm
 
 Never compress by dropping. If length is a problem, tighten phrasing; the set of facts covered does not shrink. (This applies to the session and to Document 2. Document 1 is deliberately selective — see DOCUMENT 1.)
 
-Reading-time budget. Chapter Notes (Document 2) run to no more than about 450 words per source page, so that a 20-page chapter reads in about 60 minutes at 150 words per minute. A chapter that exceeds this is brought back by tightening phrasing and removing duplication between tables and prose — each fact stated once, in the table where one carries it — never by dropping facts. Full sentences for reasoning and mechanism, the post-table notes and the conceptual takeaways are not cut to meet the budget.
+Reading-time budget. Chapter Notes (Document 2) run to no more than about 360 words per source page, so that a 20-page chapter reads in about 60 minutes at 120 words per minute (my measured speed on dense technique pages, read cold). A chapter that exceeds this is brought back by tightening phrasing and removing duplication between tables and prose — each fact stated once, in the table where one carries it — never by dropping facts. Full sentences for reasoning and mechanism, the post-table notes and the conceptual takeaways are not cut to meet the budget. Completeness and understanding outrank the cap: the notes must let me understand why each fact is true, not merely memorise it, so the reasoning that connects facts is never stripped to save words. If a chapter cannot meet the cap without losing a fact or the reasoning behind it, exceed the cap and say so in the delivery report, with the overrun.
 
 ## ORDER OF OUTPUT
 
@@ -247,7 +247,7 @@ For printing and reading on paper. The body notes, flowing as proper study notes
 - Report on delivery:
   - The page count of both documents.
   - The word count of Document 1.
-  - For Document 2: the source page count, the notes word count and the estimated reading time at 150 words per minute.
+  - For Document 2: the source page count, the notes word count and the estimated reading time at 120 words per minute, and whether the cap was exceeded and by how much.
 
 ---
 
@@ -260,6 +260,11 @@ For printing and reading on paper. The body notes, flowing as proper study notes
 ## Changelog
 
 ### Current revision
+
+- **DENSITY DISCIPLINE:** reading-time budget recalibrated to a measured 120 words per minute: cap lowered from about 450 to about 360 words per source page (still about 60 minutes for 20 pages). Completeness and understanding now explicitly outrank the cap — if the cap cannot be met without losing a fact or its reasoning, the cap is exceeded and the overrun reported.
+- **RENDERING:** delivery report gives reading time at 120 words per minute and states any overrun of the cap.
+
+### Previous revision
 
 - **SUMMARY STYLE:** a new paragraph drops author–year citations for studies that aren't landmark. Landmark trials such as MMAS, PCPT and REINVENT keep their names. The attribution printed with a numbered table or figure is still retained, so this rule doesn't conflict with the TABLES or legend rules.
 - **DENSITY DISCIPLINE:** a new reading-time budget of about 450 words per source page, which is about 60 minutes for 20 pages. A chapter over budget is fixed only by tightening phrasing and removing duplication, never by dropping facts. It also protects the reasoning sentences, the post-table notes and the conceptual takeaways from being cut.
