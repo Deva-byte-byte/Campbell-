@@ -1,0 +1,702 @@
+# Chapter 40 — Clinical and Urodynamic Evaluation of Lower Urinary Tract Dysfunction in Children
+
+- **Evaluation is tailored to the individual child.** Presentations, underlying causes and phenotypes vary widely, and **age and timing of presentation** change what testing is needed.
+- **Most lower urinary tract (LUT) pathology can now be diagnosed from history, examination and non-invasive tests**, avoiding invasive, complex and costly studies.
+- **Testing serves four purposes:** diagnostic work-up, screening, surveillance, and follow-up after a procedure.
+
+## CLINICAL EVALUATION
+
+### History
+
+- **Take the history from the child where possible**, pitched to age and to the maturation of voluntary bladder and bowel control.
+- **Diagnostic sequence:** exclude an **anatomical or neurological cause** → if both are excluded, define the **type of bladder (and/or bowel) dysfunction**.
+- **Components:** symptoms; voiding frequency; bowel function; previous urinary tract infections (UTIs); family history; maternal prenatal history, including screening ultrasonography; birth history; developmental milestones, including toilet training; neuropsychiatric conditions; past medical and surgical history; social history; diet; review of systems.
+
+#### Storage Symptoms
+
+- **Ask about urgency, frequency and incontinence.** Characterise incontinence as **continuous vs intermittent** and **day vs night**, and record how often it happens.
+- **The history can suggest increased or decreased bladder capacity.** Confirm it with directed work-up.
+- **Secondary enuresis** means new incontinence **after at least 6 months of dryness**. Explore new stressors at home or school.
+- **Caffeinated drinks are bladder irritants** (soda, tea, coffee, sports and energy drinks) and directly cause urgency.
+
+#### Voiding Symptoms
+
+- **Males:** ask about a deviated or narrowed stream, prolonged voiding, incomplete emptying, straining, dysuria and post-void dribbling.
+- **Females: toilet posture matters.** Sitting with the legs held together, slouching, perching, hovering, or dangling feet activates the pelvic floor. This **raises outlet resistance** → higher voiding pressures → dysuria and incomplete emptying → bladder dysfunction and UTI.
+    - **Correct it with a footstool**, or by sitting **"backwards" facing the cistern**, which forces the legs apart.
+- **Holding manoeuvres** (the "potty dance", leg-crossing, grabbing the perineum, squatting) postpone voiding against urge or **detrusor overactivity (DO)**.
+    - Raised perineal pressure **inhibits detrusor contraction through the sacral reflex arc**, probably through the **gate control theory**: large-fibre afferent input suppresses small-fibre transmission in the dorsal horn.
+    - **The same mechanism is proposed for neuromodulation:** transcutaneous electrical nerve stimulation (TENS), posterior tibial nerve stimulation (PTNS) and sacral neuromodulation.
+
+<p class="concept"><b>Concept —</b> <b>Posture and holding manoeuvres work through one lever, pelvic floor activation, in opposite directions.</b> Deliberate activation suppresses the detrusor. Inadvertent activation on the toilet obstructs voiding. Treatment in both cases is control of the pelvic floor.</p>
+
+#### Bowel Function
+
+- **Bowel and bladder dysfunction coexist through shared sacral innervation (S2–S4).** Bowel dysfunction may be **the sole cause** of the urinary symptoms.
+- **"Is your child constipated?" is not enough.** Ask specifically about **stool frequency, faecal incontinence, abdominal pain, stool size and consistency.**
+- **Bristol Stool Scale** (University of Bristol, 1997; the UK "Meyers scale"): seven forms, from **1 (separate hard pellets)** to **7 (watery)**. It is a communication aid for setting targets and **titrating fibre or laxatives**.
+- **Target: a soft, smooth, daily stool passed without pain, Bristol 3–4.**
+- **Rome IV (2016)** gives the consensus definition (Table 40.1). The definition of bowel dysfunction **remains controversial**, and the specific questions above usually suffice.
+
+**TABLE 40.1 Rome IV Criteria for Functional Constipation in Children** <span class="src">(Modified from Rasquin et al., 2006; Drossman, 2016)</span>
+
+| | Functional constipation | Functional non-retentive faecal incontinence |
+|---|---|---|
+| **Applies to** | Developmental age **≥4 years**, **insufficient criteria for irritable bowel syndrome**; symptoms for **at least 1 month** | Developmental age **≥4 years** |
+| **Rule** | **Two or more** of the criteria below | **All** of the criteria below |
+| **Criteria** | **≤2 defecations per week**; **≥1 faecal incontinence episode per week**; **retentive posturing** or volitional retention; **painful or hard stools**; **large rectal faecal mass**; **large stools that obstruct the toilet** | **Defecation in socially inappropriate places ≥ once a month**; **no inflammatory, anatomical, metabolic or neoplastic process**; **no faecal retention** |
+
+- **What the table is for:** a symptom-based, **two-of-six** definition that makes "constipation" objective in the LUT clinic.
+- **Pattern:** constipation is **retentive** (infrequent, hard, large stools; a rectal mass). Non-retentive faecal incontinence is **soiling without retention**.
+- **Trap:** the two are **mutually exclusive on retention**. A child with a rectal faecal mass cannot have non-retentive faecal incontinence.
+
+**FIG. 40.3 Algorithm for Functional Constipation (FC) and Lower Urinary Tract Symptoms (LUTS)** <span class="src">(Modified from Burgers et al., 2013, International Children's Continence Society)</span>
+
+- **Sequence:** history and examination → apply **Rome IV** → **7-day bowel diary (with Bristol score) + urinalysis (± culture) + pelvic ultrasound** → treat any positive finding.
+- **Ultrasound triggers:**
+    - **raised post-void residual (PVR)** → treat accordingly;
+    - **rectal diameter >30 mm** → treat FC;
+    - **bladder wall >6 mm empty and >3 mm full** → treat LUTS.
+
+**FIG. 40.3 BRANCHES — RESPONSE TO FIRST-LINE TREATMENT**
+
+| Response | Next step |
+|---|---|
+| **Both improve** | **Maintenance for at least 3–6 months** |
+| **FC improves, LUTS persist** | **Uroflow with electromyography (EMG)** → escalate: urotherapy → anticholinergics → β3 agonists → botulinum toxin → biofeedback → transcutaneous electrical neuromodulation |
+| **LUTS improve, FC persists** | **Check adherence ± intensify toilet training** → escalate: polyethylene glycol (PEG) ± enemas → biofeedback → transcutaneous neuromodulation → if no improvement, **paediatric gastroenterology referral** (colonic transit, spinal magnetic resonance imaging (MRI), defecography, anorectal and colonic manometry) |
+
+- **Treat the bowel first and the two in parallel.** Whichever component persists decides the next investigation.
+
+#### Clinical Aids
+
+**COMPARISON — BLADDER DIARY VS FREQUENCY-VOLUME CHART**
+
+| | 7-day bowel and bladder diary | 48-hour frequency-volume chart |
+|---|---|---|
+| **Best for** | **Elimination habits**; objective evidence of **constipation** | A primary complaint of **voiding dysfunction** |
+| **Records** | Timing of voids and stools, **Bristol type**, urinary and faecal incontinence by day and night; **removes recall bias** | **Volumes of intake and output**, incontinence; measured with a "hat" or cylinder, ideally over a **normal weekend**; days **need not be consecutive**, but **each covers 24 hours** |
+| **Yields** | The bladder and bowel together | **Functional or maximum capacity**, **polyuria**, effect of **drink type and volume** (caffeine, fluids before bed) |
+
+- **A frequency-volume chart is mandatory in spontaneous voiders who fail first-line conservative therapy.** It is useful in any bowel and bladder dysfunction (BBD).
+- **Diaries are cheap and simple, and they expose habits** that families do not notice.
+- **Functional capacity is compared with expected bladder capacity (EBC):** **infants ≤1 year = weight (kg) × 7 mL**; **older children = (age in years + 2) × 30 mL**.
+
+#### Urinary Tract Infections
+
+- **Establish whether infections were febrile and/or symptomatic.** **Asymptomatic bacteriuria is uncommon**, and much rarer in boys.
+- **A bagged specimen is unreliable unless negative.**
+- **A febrile, culture-proven UTI suggests incomplete emptying or stasis.**
+- **Separate non-specific LUTS from undocumented "UTIs"**, especially when cultures were negative. The family may need re-education.
+
+#### Neurologic Function
+
+- **Screen for occult neurological disease:** perineal numbness, change in gait, altered limb sensation, new problems with balance or coordination.
+- **These are most worrying when new in a previously well child** presenting with **secondary enuresis** or new LUT problems.
+
+#### Validated Questionnaires
+
+- **Validated patient-reported outcomes objectively measure symptoms, quality of life and emotional impact.** The best are tested for reproducibility and validity in the target condition and population.
+
+**COMPARISON — PAEDIATRIC LUT QUESTIONNAIRES**
+
+| Instrument | Domain | Items (scoring) | Max | Cut-off | Completed by | Distinguishing feature |
+|---|---|---|---|---|---|---|
+| **Dysfunctional Voiding Symptom Score (DVSS)**, 2000 | Symptoms: storage, voiding, **posturing, bowel** | **10** (0–3, past month) | **30** | — | Child or parent | **Adapted from the American Urological Association Symptom Index**; **best at detecting change with treatment** |
+| **Dysfunctional Voiding and Incontinence Scoring System (DVISS)** | Symptoms + **1 quality-of-life item** | **14**, mostly yes/no | 35 + 3 | **9** (both sexes) | Child or parent | **Best discrimination for diagnosis** |
+| **Paediatric Urinary Incontinence Quality of Life Score (PinQ)** | **Quality of life** | **20** (0–4); internalising and externalising subscores | **80** | Higher = worse | Child; validated **parent proxy** | Unaffected by comorbidity; cross-cultural; **does not track treatment response** |
+| **Incontinence Symptom Index–Paediatric (ISI-P)**, 2007 | Symptoms | **11** | **44** | **9** (both sexes) | **The child, aged 11–17** | **Adolescent self-report** |
+
+- **Symptom scores (DVSS, DVISS, ISI-P) diagnose and track treatment. PinQ measures burden.** DVSS and PinQ are complementary.
+- <i class="d">Choosing an instrument.</i> **In a head-to-head comparison, DVISS discriminated diagnosis best; DVSS, DVISS and ISI-P all tracked subjective recovery; PinQ did not.**
+    - **Why PinQ may not move:** therapy may not reach the domains it measures; emotional states are less malleable; emotional change lags behind symptom relief; or relief does not produce emotional change.
+- <i class="d">Psychological screening.</i> **Behavioural and emotional comorbidity is common** and rises from nocturnal enuresis → daytime incontinence → **faecal incontinence (highest)**. **Screen for it as routinely as organic causes are excluded.**
+
+**COMPARISON — CBCL VS SSIPPE**
+
+| | Child Behavior Checklist (CBCL) | Short Screening Instrument for Psychological Problems in Enuresis (SSIPPE) |
+|---|---|---|
+| **Role** | **Full assessment** | **Short screen** |
+| **Content** | **100+ Likert items**: internalising (anxiety, depression) and externalising (aggression, hyperactivity) | **7 internalising items from the CBCL + 6 externalising items** from the Attention Deficit Hyperactivity Disorder scale |
+| **Ages** | **18 months–18 years** (versions for 18 months–5 years and 6–18 years) | Children with enuresis |
+
+- **Screening sequence:** SSIPPE → **≥2 positive items in either section** → full CBCL → disturbance confirmed → **child psychology referral**. Parents complete both.
+
+<p class="concept"><b>Concept —</b> <b>A questionnaire answers only the question it was built for.</b> Symptom scores diagnose and follow treatment. Quality-of-life and behaviour scores measure the burden on the child, not the response to treatment.</p>
+
+### Physical Examination
+
+- **Examine every child comprehensively**, with emphasis on **vital signs and the neurological, abdominal and genitourinary systems**.
+
+#### Vital Signs
+
+- **Record height, weight, temperature, heart rate and blood pressure at every visit.** Being **under- or overweight** is associated with higher LUTS scores.
+
+**COMPARISON — BMI VS TRI-PONDERAL MASS INDEX**
+
+| | Body mass index (BMI) | Tri-ponderal mass index (TMI) |
+|---|---|---|
+| **Formula** | **kg/m²** | **kg/m³** |
+| **In children** | Adult-validated (19th century); **inaccurate** unless converted to **z-scores**, which is cumbersome | **Classifies healthy vs overweight better, with fewer false "overweight" labels** |
+| **Thresholds** | Percentile-based | **Overweight ≥16.0 (M) / 16.8 (F); obese ≥18.8 (M) / 19.7 (F) kg/m³** |
+
+- **Raised blood pressure** (on an **age-, sex- and height-specific nomogram**) may indicate **renal disease**, which often follows LUT pathology.
+    - **Sequence:** repeat to confirm, ideally at separate visits → **renal and bladder ultrasound** + **urinalysis, serum creatinine and/or cystatin C**.
+
+#### Neurologic Examination
+
+- **Assess reflexes, strength, coordination and sensation in all limbs.**
+    - Upper limb function says nothing about the LUT, but **fine motor control, sensation and handedness decide whether self-catheterisation is feasible.**
+- **Document mobility aids** (wheelchair, walker, crutches, **ankle-foot orthosis**).
+- **The Centers for Disease Control and Prevention (CDC) National Spina Bifida Patient Registry** records **functional neurological level** and **mobility** separately, because **they do not correlate.**
+
+**TABLE 40.2 Objective Classification of Lower Extremity Function in Terms of Functional Neurologic Level and Ambulation Phenotype (Age 2 or Older) — (A) Functional Neurological Level**
+
+| Functional neurological level | Lowest preserved function |
+|---|---|
+| **Thoracic** | **None: flaccid lower limbs** |
+| **High lumbar** | **Hip flexion** |
+| **Mid lumbar** | **Knee extension** |
+| **Low lumbar** | **Foot dorsiflexion** |
+| **Sacral** | **Foot plantar flexion** |
+
+**TABLE 40.2 (B) AMBULATORY PHENOTYPE OR MOBILITY STATUS**
+
+| Ambulatory phenotype | Walking | Wheelchair |
+|---|---|---|
+| **Perfect ambulator** | Walks, runs and jumps everywhere, **unassisted** | None |
+| **Community ambulator** | Indoors and outdoors for most activities; may use aids | **Long trips out of the community** |
+| **Household ambulator** | **Indoors only**, with aids; transfers with little help | Some indoor activities; **all community activities** |
+| **Non-functional ambulator** | **Only in therapy sessions** | **At all other times** |
+| **Non-ambulator** | Never | **Always**; can transfer chair ↔ bed |
+
+- **What the table is for:** a standard vocabulary for spina bifida registries, from age 2 upwards.
+- **Pattern:** level descends hip → knee → dorsiflexion → plantar flexion. Mobility steps down by **where** the child can walk.
+- **Trap:** **level and mobility do not correlate.** A low lesion does not guarantee walking.
+
+- **Assess deep tendon reflexes, gait, perineal sensation and anal tone.**
+
+**COMPARISON — SACRAL REFLEXES**
+
+| | Anocutaneous reflex ("anal wink") | Bulbocavernosus (Osinski) reflex |
+|---|---|---|
+| **Stimulus** | **Stroking the perianal skin** | **Squeezing the glans penis or clitoris** |
+| **Response** | External anal sphincter contracts | External anal sphincter contracts |
+| **Absent =** | **Interruption of the sacral reflex arc (S2–S4)**, which also controls bladder and bowel | Same |
+
+- **Inspect and palpate the spine for occult spinal dysraphism.** Most spines are normal.
+    - **Midline stigmata in healthy neonates rarely signify an occult lesion.**
+    - **A simple sacral dimple has not been associated with dysraphism.**
+
+**COMPARISON — SPINAL CUTANEOUS STIGMATA BY RISK**
+
+| Risk | Cutaneous stigmata | Imaging |
+|---|---|---|
+| **Low** | **Simple sacral dimple <2.5 cm from the anus** | **Spinal ultrasound, up to 6 months of age** |
+| **Intermediate** | Deviated gluteal cleft; dermal sinus tract | Not specified |
+| **High** | **Vascular malformation; lipoma or mass; hair tuft; multiple stigmata; VACTERL** features (vertebral, anal, cardiac, tracheo-oesophageal, renal, limb) | **MRI of the lumbar and sacral spine** |
+
+**COMPARISON — SPINAL ULTRASOUND VS MRI**
+
+| | Spinal ultrasound | Spinal MRI |
+|---|---|---|
+| **Use** | **Low-risk lesions** | **High-risk lesions** |
+| **Age** | **≤6 months**; the spine **ossifies by 10–12 months** | Any age |
+| **Trade-off** | Cheap, **avoids general anaesthesia**; **reduced sensitivity** | Definitive; often needs anaesthesia |
+
+#### Abdominal Examination
+
+- **Inspect** for asymmetry or distension (gas, faecal retention).
+- **Palpate all four quadrants** for enlarged kidneys or bladder, masses, and **stool**. Stool is palpable **only in severe constipation**, more easily in small children.
+- **Suprapubic fullness or tenderness** suggests **retention**.
+
+#### Genital Examination
+
+- **Look for damp underwear and genital irritation** as signs of incontinence.
+
+**COMPARISON — GENITAL FINDINGS BY SEX**
+
+| | Male | Female |
+|---|---|---|
+| **Look for** | Circumcision status; **balanitis**; **meatal stenosis** | **Urine pooling**; inflammation; **labial fusion**; **ectopic ureteric orifice**; **ventral meatal web** |
+| **Key lesion** | **Meatal stenosis, which occurs in circumcised boys:** irritation of the exposed meatus → epithelialisation → **ventral web** | **Labial fusion**: common **<2 years, in nappies**; **rarely obstructs** |
+| **When it matters** | **Only with significant stream deviation or narrowing**. Counsel that concurrent symptoms **may not be due to it or improve after surgery**. | Pooling → **stasis, colonisation, UTI** |
+| **Management** | Meatal inspection may suffice; the preferred method is **to watch the stream** | Labial fusion resolves by **puberty** as oestrogens rise; **topical oestrogen if concern persists, about 10% recur** |
+| **Continuous incontinence** | — | **Look for an ectopic ureteric orifice** |
+
+- **Female meatal anomalies are associated with voiding dysfunction.** Not all are symptomatic, so **evidence for surgical correction is minimal.**
+
+<p class="concept"><b>Concept —</b> <b>The examination hunts for what history cannot exclude:</b> a neurological lesion (sacral reflexes, spinal stigmata, limb function), an anatomical outlet problem (meatus, labia, ectopic orifice) and retained stool. <b>The lower back is where occult neurology hides.</b></p>
+
+<div class="kp" markdown="1">
+<p class="kpt">KEY POINTS</p>
+
+- **History and examination establish whether the disorder is primarily one of storage or of emptying**, and work-up and treatment are tailored to that.
+- **The complete history** covers symptoms, frequency, bowel function, UTIs, family, prenatal, birth and developmental history, neuropsychiatric, medical, surgical and social history, diet and review of systems.
+- **Seven-day bowel and bladder diaries and 48-hour frequency-volume charts are invaluable.**
+- **Questionnaires:** symptoms (**DVSS, DVISS, ISI-P**); quality of life (**PinQ**); behaviour (**CBCL, SSIPPE**).
+- **Lower back:** **inspect** (dimples, deviated cleft, hair tufts, dermal sinuses, vascular malformations) and **palpate** (sacrum present, no mass).
+</div>
+
+## LABORATORY TESTING
+
+### Urinalysis
+
+- **Dipstick urinalysis detects glycosuria, proteinuria, haematuria, leucocyturia and bacteriuria**, and records specific gravity.
+
+**URINALYSIS FINDINGS AND ACTIONS**
+
+| Finding | Meaning | Action |
+|---|---|---|
+| **Glycosuria** | **Diabetes** → **polyuria** | Investigate for diabetes |
+| **Proteinuria** | May be **isolated** | **Repeat on a separate occasion** or perform a **24-hour urine protein**. **Persistent → serum creatinine** |
+| **White cells** | Inflammation or infection | Interpret with symptoms |
+| **Microscopic haematuria** | Common with infection; **may occur alone in BBD** | **Isolated asymptomatic haematuria rarely needs work-up** |
+| **Leucocyte esterase, nitrite, bacteria** | Infection | Suspicious → **culture and/or empirical antibiotics** |
+
+- **Perform urinalysis ± culture for irritative symptoms** (dysuria, urgency, frequency).
+- **A negative urinalysis in LUTS is reassuring.** The test is cheap and simple.
+
+### Urine Culture
+
+- **Do not culture routinely.** It causes **over-testing, false positives and over-treatment**, especially in **colonised** bladders.
+- **Children on clean intermittent self-catheterisation (CIC) are at high risk of colonisation.** Culture **only with a high pre-test probability:**
+    - fever;
+    - abdominal or suprapubic pain;
+    - malaise;
+    - **new or worse incontinence**;
+    - **new or worse bladder spasm**.
+
+### Additional Testing
+
+- **Blood tests are rarely indicated.** Use them **only if kidney disease or its risk factors are suspected** (e.g. persistent proteinuria → creatinine ± 24-hour protein).
+
+<div class="kp" markdown="1">
+<p class="kpt">KEY POINTS</p>
+
+- **Children with LUTS should have urinalysis:** specific gravity, protein, glucose, white cells, red cells, bacteria.
+- **Isolated malodorous urine lacks sensitivity and specificity** for a positive culture.
+- **Blood testing is not recommended** unless upper tract disease is suspected.
+</div>
+
+<p class="concept"><b>Concept —</b> <b>Laboratory testing is driven by pre-test probability.</b> Urinalysis is universal because it is cheap and a negative result reassures. Culture and blood tests wait for symptoms or signs, because in colonised bladders a positive result without symptoms only leads to over-treatment.</p>
+
+## URODYNAMIC EVALUATION
+
+- **Urodynamics spans non-invasive tests** (uroflowmetry, pelvic ultrasound, patch EMG) **and invasive cystometry**. All need one vocabulary.
+- **The International Children's Continence Society (ICCS) standardised terminology** (1998 → 2006 → **2014 update**) codifies how results are described, so that studies compare like with like. **It is essential reading.**
+
+### Noninvasive Testing
+
+#### Uroflowmetry
+
+- **Uroflowmetry measures flow over time** as the child voids into a flowmeter. It is widely available.
+    - **Most important variables: voided volume, maximum flow rate (Qmax) and pattern.** It also gives the average flow rate (Qavg).
+- **It can be combined with perineal patch EMG** of the pelvic floor and external sphincter.
+
+**COMPARISON — ICCS UROFLOW PATTERNS**
+
+| Pattern | Shape | Suggests |
+|---|---|---|
+| **Bell** | Smooth, symmetrical | **Normal** at any age, sex or volume |
+| **Tower** | **High, peaked, short** | **Overactive bladder**: sudden, forceful detrusor contraction (not present in every case) |
+| **Staccato** | Irregular, **never reaches zero** | **Intermittent sphincter over-activity** / incomplete pelvic floor relaxation; **BBD** |
+| **Interrupted** | Irregular, **with zero-flow segments** | **Underactive detrusor with Valsalva voiding**, or **detrusor-sphincter dyssynergia (DSD)**; **EMG distinguishes them** |
+| **Plateau** | **Flat, low, prolonged** | **Obstruction** (outlet, **posterior urethral valves, stricture**) or an **underactive bladder** |
+
+- **Staccato vs interrupted: does flow reach zero?** Staccato = outlet activity during a continuous detrusor contraction. Interrupted = an inadequate detrusor, so flow stops between strains.
+- **Tower vs plateau:** a strong detrusor against a free outlet vs normal effort against a resistant outlet.
+- <i class="d">Standardisation.</i> **Qmax is the most relevant variable. Record it only if the peak lasts ≥2 seconds**, because spikes are often artefact.
+    - **The flow index** comes from a large healthy population across ages. It corrects for **total capacity (voided volume + PVR)**, because flow falls with **under- and over-distension**, and gives **one ratio of actual to expected flow.**
+    - **It cannot classify staccato or interrupted curves.** It proposes smooth, staccato and interrupted as sub-types of three primary patterns.
+- <i class="d">Caveats.</i> A flow is interpretable only if:
+    - the child is **toilet-trained**;
+    - it is read as **emptying information only, with nothing about storage**;
+    - **voided volume is ≥50% of EBC** (the flow index is valid down to **50 mL**; the pattern needs about **50–100 mL**);
+    - **more than one curve** is obtained.
+
+<p class="concept"><b>Concept —</b> <b>A flow curve's shape reflects the balance between detrusor and outlet.</b> Too much detrusor gives a tower. Too much outlet gives a plateau. Outlet activity that comes and goes gives staccato; detrusor effort that comes and goes gives an interrupted curve. <b>EMG decides which side is at fault.</b></p>
+
+#### Pelvic Ultrasound
+
+- **Ultrasound is a mainstay**, either formal (renal and bladder) or **pre- and post-void in clinic**. It is quick, painless, **non-ionising**, and shows **bladder and rectum**.
+- **It triages who needs invasive urodynamics.** In voiding dysfunction, enuresis and recurrent UTI, volume and wall measurements predict urodynamic abnormality.
+- **In spina bifida, a thicker bladder wall correlates with higher pressure and lower compliance**, which threatens the upper tracts.
+
+**COMPARISON — PELVIC ULTRASOUND PARAMETERS**
+
+| Parameter | Abnormal | Meaning |
+|---|---|---|
+| **Bladder wall thickness** | **>3 mm full**; **>5 mm empty** (**>6 mm** in the ICCS constipation algorithm, a different source study) | **Increased detrusor workload**; associated with voiding dysfunction, DO and pelvic floor over-activity. **Thickness varies inversely with filling.** |
+| **Bladder volume wall index (BVWI)** (volume : wall ratio, % of expected) | **<70% = thick-walled, small bladder**; **>130% = thin-walled, large bladder** | **A normal BVWI strongly predicts normal voiding.** **In enuresis, a normal BVWI predicts better response to desmopressin.** |
+| **Rectal diameter** | **>30 mm** without an urge to defecate | **Bowel dysfunction** / stercoral bolus; correlate clinically |
+| **Urinary debris** | Present | Usually **stasis**; associated with a positive culture, **specific but insensitive** (evidence from largely asymptomatic screening cultures) |
+
+- <i class="d">Post-void residual.</i> **Urine remaining after voiding or catheterisation.** It is **highly variable** within one individual and **distorted by over-distension**, so repeat it. **Abnormal PVR can be as low as >20 mL on repeat voids.**
+
+**POST-VOID RESIDUAL CUT-OFFS BY AGE**
+
+| Age | Single PVR abnormal if… (bladder capacity = voided volume + PVR) |
+|---|---|
+| **4–6 years** | **>30 mL or >21% of bladder capacity** |
+| **7–12 years** | **>20 mL or >15% of bladder capacity** |
+
+- **Valid only if** the bladder is **neither under-distended (<50% EBC) nor over-distended (>115% EBC)** and PVR is measured **<5 minutes after voiding**.
+- **The allowance shrinks with age.** **A late or over-distended PVR is invalid, not abnormal.**
+
+#### Patch Electromyography
+
+- **Patch EMG is often paired with uroflow but is not universal.** Perineal or perianal electrodes record pelvic floor activity, which **should fall silent during voiding.**
+- **Lag time** = from **the start of pelvic floor relaxation** → **the start of flow**.
+
+**EMG LAG TIME**
+
+| Lag time | Meaning |
+|---|---|
+| **<2 s** | **DO**; urgency and frequency |
+| **2–6 s** | **Normal** (full bladder) |
+| **>6 s** | **Primary bladder neck dysfunction** |
+
+- **EMG shows non-invasively whether voiding is synergic or dyssynergic.**
+- <i class="d">Normal coordination (Fig. 40.9, after Blaivas, 1985).</i> Command to void → **sphincter EMG silent, sphincter opens** → **bladder neck opens** → detrusor pressure rises → flow. At "stop" → **the sphincter contracts** → flow ceases.
+
+#### Other Measures
+
+- **Functional bladder capacity** (total bladder capacity) is the **working day-to-day capacity**. It is taken as the **largest diary void** or **voided volume + PVR**. **Normal: about 70–115% of EBC (up to 130% in some studies).**
+
+<div class="kp" markdown="1">
+<p class="kpt">KEY POINTS</p>
+
+- **Non-invasive urodynamics** = uroflowmetry, patch EMG, pelvic ultrasound.
+- **Uroflow gives flow characteristics and pattern. Qmax is the most relevant quantitative variable.**
+- **Ultrasound gives PVR, wall thickness, rectal diameter and debris.**
+- **EMG shows synergic vs dyssynergic voiding**, and gives lag time with uroflow.
+</div>
+
+<p class="concept"><b>Concept —</b> <b>Non-invasive testing rebuilds the urodynamic picture piece by piece</b>: outlet from uroflow; capacity, residual, wall and rectum from ultrasound; coordination from EMG. <b>Each value is valid only under normative conditions</b>, so the skill lies as much in rejecting an invalid study as in reading a valid one.</p>
+
+### Formal Urodynamics
+
+- **Paediatric urodynamics measures** filling, **compliance, capacity, pressures, DSD, DO and PVR**. **With fluoroscopy** it also shows **vesicoureteric reflux (VUR)** and bladder, bladder neck and urethral anomalies.
+- **There are no formal paediatric indications**, and practice varies. **Established uses:**
+    - **congenital or acquired neurological deficit**;
+    - **severe obstructive uropathy**;
+    - possible neurogenic bladder, **especially with new LUTS**.
+
+**CONDITIONS REQUIRING FORMAL URODYNAMICS**
+
+| Neurogenic causes | Severe obstructive causes |
+|---|---|
+| **Spinal dysraphism, sacrococcygeal teratoma, sacral agenesis, transverse myelitis, spinal cord injury** | **Posterior urethral valves, urethral atresia, large ectopic ureteroceles** |
+
+- **In non-neuropathic LUTS, urodynamics rarely justifies itself.**
+- **Uses:** baseline or surveillance; **re-baselining before, and re-assessment after, medical or surgical therapy**; ruling specific dysfunction in or out. **Congenital conditions change over time**, so studies are repeated.
+- **Rule: perform formal urodynamics only when a new or abnormal result will change management.**
+
+#### Unique Considerations in Pediatric Patients
+
+- <i class="d">Setting.</i> **Experienced staff and a "kind, understanding and relaxed atmosphere"** are essential, because many children arrive anxious. **Parents stay throughout**; **distract with television, games or tablets**; **standardise the technique**.
+- <i class="d">Expectations.</i> **Counsel the family beforehand.** Families often believe urodynamics will **confirm or exclude neurogenic bladder**. It **describes function, not the underlying disease**, and **an office study may not reflect daily physiology.**
+- <i class="d">Pain and anxiety.</i> **Pain is usually mild, but a minority report moderate pain.**
+    - **Predictors:** **high pre-test anxiety, sensory-motor alteration of the lower limbs, difficult catheterisation**.
+    - **Anxiety peaks at catheter placement.** With very difficult catheterisation, **place the catheters under general anaesthesia in theatre and study the child once awake.**
+- <i class="d">Infection screening.</i> **Routine pre-study culture has low yield.**
+    - **Post-urodynamic UTI is rare (1.4%)**, even though bacteriuria is common in at-risk children.
+    - **Replacing routine cultures with targeted ones did not raise the infection rate.**
+    - **Risk factors:** **intermittent or overnight catheterisation, recent UTI, immunosuppression, symptoms on the day.**
+    - **Universal screening or prophylaxis → over-treatment.** **Select by new LUTS on or before the day.** Data on prophylaxis for high-risk children are inconclusive.
+- <i class="d">Sedation.</i> **Sedation may alter detrusor function** (general anaesthesia reduces contractions in animals).
+    - **General anaesthesia is not recommended; avoid sedation.**
+    - **If needed, sedate only for catheter insertion, done in advance.**
+    - **During cystometry, ketamine is preferred to midazolam**: faster onset and recovery, better effect, possibly safer.
+    - **One small, unrepeated same-patient comparison found no change with sedation.**
+
+<i class="d">Technique — the sequence.</i>
+
+1. **Empty the bladder** first, or drain it via the catheter.
+2. **Lidocaine gel** → **bladder and rectal catheters**, using **the smallest size, typically 6 Fr dual-lumen**.
+3. **EMG patches symmetrically at 3 and 9 o'clock perianally**, on skin prepared with **alcohol and fine abrasive paper**, and **secured**.
+4. **Sample at >1000 Hz** to separate movement artefact from sphincter activity.
+
+- **Sitting vs supine makes no difference.**
+- **Use surface patches, not needle electrodes.** Needles are painful and give no better accuracy.
+
+**CATHETER ROUTES IN ALTERED ANATOMY**
+
+| Situation | Vesical (Pves) catheter | Abdominal (Pabd) catheter |
+|---|---|---|
+| **Vesicostomy** | **Foley, balloon inflated, on gentle traction** to occlude | Rectal |
+| **Catheterisable channel, bladder neck open** | **Channel or native urethra** | Rectal |
+| **Colostomy** | Urethral | **Via the colostomy** |
+| **Females (option)** | Urethral | **Vaginal** (comparable) |
+
+**COMPARISON — CONVENTIONAL VS NATURAL-FILL CYSTOMETRY**
+
+| | Conventional cystometry | Ambulatory (natural-fill) cystometry |
+|---|---|---|
+| **Filling** | **Artificial infusion** | **Physiological diuresis** |
+| **Environment** | Laboratory | **Natural**; less **Hawthorne effect** and stress |
+| **Relative findings** | **Larger capacity, larger filling Pdet rise, lower voiding pressure** | **Smaller capacity, smaller filling Pdet rise, higher voiding pressure** |
+| **Drawbacks** | Artefact from fill rate | **Time and effort; no standard paediatric protocol** |
+| **Paediatric set-up** | Urethral catheters | **Suprapubic 6 Fr dual-lumen + rectal 5 Fr balloon catheter, placed about 24 h before** |
+
+- <i class="d">Filling.</i> **EBC ranges from 30–50 mL (newborn) to 400–500 mL (young adult).** **Too fast a fill creates artefact**, so the fill rate is scaled: **5–10% of EBC per minute**.
+- **Infusate between room and body temperature, never cold.** In a randomised trial, room vs body temperature did not change leak point pressures, voiding pressures or PVR. **Room temperature gave slightly higher capacity and pressure, which was not clinically significant.**
+- **Stop filling at any of:**
+    - **strong urge**;
+    - **discomfort**;
+    - **micturition**;
+    - **leakage > fill rate**;
+    - **Pdet consistently >40 cm H₂O**;
+    - **volume >150% of EBC**.
+
+**COMPARISON — FIRST VS REPEAT FILLING CYCLES**
+
+| Repeat fills | First fill | Later fills |
+|---|---|---|
+| **Maximum Pdet, detrusor leak point pressure** | **Highest** | Fall |
+| **DO contractions** | Most | Fewer |
+| **Capacity, compliance, PVR** | Comparable | Comparable |
+| **Presence of DO** | **Reproducible in most** | Reproducible in most |
+
+- **ICCS changed its guidance:** it previously recommended **≥2 cycles**; since **2015** repeat cycles are **at the provider's discretion**.
+- **Which fill to report is unspecified.** Interpreting the **first, usually worst, fill** is conservative and protects the upper tracts.
+- **Differences between fills are attributed to bladder viscoelasticity.** Weigh the marginal gain against a longer test and more anxiety.
+
+<i class="d">Video urodynamics.</i> **Urodynamics + imaging, with contrast in place of saline.** It adds **bladder shape and trabeculation, VUR, diverticula, and bladder neck configuration (open vs closed)**, and **times reflux or leakage against volume.**
+
+**COMPARISON — FLUOROSCOPIC VS CONTRAST-ENHANCED ULTRASOUND VIDEO URODYNAMICS**
+
+| | Fluoroscopic | Contrast-enhanced ultrasound |
+|---|---|---|
+| **Contrast** | Radio-opaque | **Ultrasound agent**, compatible with the equipment |
+| **Radiation** | **Ionising** | **None** |
+| **Status** | Established | **Recent innovation**; **strongly preferred by parents, judged more comfortable** |
+| **Accuracy** | **No head-to-head comparison** | — |
+
+<p class="concept"><b>Concept —</b> <b>Every paediatric modification serves one aim: making an artificial test reproduce the child's natural bladder.</b> Fill slowly in proportion to EBC. Use warm infusate. Avoid sedation. Keep the child calm. Stop at physiological limits. Each artefact distorts the pressures the study exists to measure.</p>
+
+#### Interpretation of Studies
+
+- **Interpretation belongs to a trained paediatric urologist, advanced practice provider or urodynamicist.**
+- **Objective parameters are measured reliably**, but **subjective interpretation of paediatric studies agrees poorly**, even between colleagues trained together. **No standard reporting criteria exist.**
+- **Urologic Management to Preserve Initial Renal Function (UMPIRE) study** (multicentre, myelomeningocele): **central review agreed with local risk categorisation in only about 50%.**
+    - **Open questions:** leak vs void; when to stop; how far above EBC to fill; interpretation with **high-grade VUR**.
+- **A modified Delphi consensus (North American experts, 2024)** defined an **eight-section report:**
+    1. indications
+    2. study conditions
+    3. procedural details
+    4. filling phase
+    5. radiological findings
+    6. incontinence and leak point pressures
+    7. voiding phase
+    8. summary
+    - It uses discrete options, calculated and conditional fields, and CPT (billing) codes, and is intended for **electronic records with decision support**.
+
+<i class="d">Storage phase.</i>
+
+- **Pves** (bladder catheter) and **Pabd** (rectal catheter) are **zeroed to atmospheric pressure at the pubic symphysis.** **Pdet = Pves − Pabd.**
+- **Normal filling: a flat Pdet, unchanged by cough, laugh or Valsalva.**
+
+**COMPARISON — DETRUSOR OVERACTIVITY VS UNDERACTIVITY**
+
+| | Detrusor overactivity (DO) | Detrusor underactivity |
+|---|---|---|
+| **Filling** | **Phasic Pdet rises**; **neurogenic vs idiopathic** | **Large capacity, low pressure, no contractions** |
+| **Voiding** | — | **No sustained contraction; cannot empty; Valsalva voiding (large Pabd rises)** |
+| **Pitfalls** | **Exclude provoked rises** (cough, Valsalva); **often unsensed**; with an intact sphincter, **guarding EMG rises** | **Not visible on Pdet**; inferred from the combination of findings |
+
+- <i class="d">Compliance.</i> **ΔV (mL) / ΔPdet (cm H₂O)**, the ability to accommodate volume with little pressure rise. **Calculate it in every patient.** It **cannot be inferred from Pdet alone.**
+
+**COMPLIANCE GRADING**
+
+| Compliance (mL/cm H₂O) | Grade |
+|---|---|
+| **>20** | **Normal** |
+| **10–20** | **Moderately impaired** |
+| **<10** | **Severely impaired** |
+
+- **Small, contracted bladders are a trap:** absolute Pdet may stay **<30–40 cm H₂O** while calculated compliance looks **abnormal (<20)**. **Here absolute pressure is the better guide to upper-tract safety.**
+- **An early Pdet rise = early loss of compliance**: the child spends most of the day at high pressure, which carries a worse prognosis.
+- **Check the zeroing.** Errors hide poor compliance or give a falsely low Pdet.
+- **Marked DO can make compliance unquantifiable.** The **ICCS recommends using the most linear portion** of the volume–pressure curve, ideally the whole fill.
+
+**COMPARISON — DETRUSOR VS ABDOMINAL LEAK POINT PRESSURE**
+
+| | Detrusor leak point pressure (DLPP) | Abdominal leak point pressure (ALPP) |
+|---|---|---|
+| **Leak occurs** | **Without** an abdominal pressure rise **or** a detrusor contraction | **With** an abdominal pressure rise (cough, Valsalva), no detrusor contraction |
+| **Read from** | Pdet | **Traditionally Pves** |
+| **Reflects** | **The bladder's "pop-off" point** | **Outlet (bladder neck and sphincter) resistance** |
+| **Emphasis** | **Upper-tract protection: the main paediatric measure** | Outlet function only |
+| **Thresholds** | **<40 cm H₂O safe; >40, or no leak despite high pressure, = upper-tract risk** | **No paediatric norms.** Adult female: **<60 intrinsic sphincter deficiency (ISD); 60–90 equivocal; >90 normal** |
+| **Bad result** | **High** | **Low** |
+
+- **McGuire, 1981 (myelodysplasia, landmark):** a leak pressure **>40 cm H₂O** was followed by **hydronephrosis or secondary VUR in 85%**. **40 cm H₂O is the accepted upper limit**, and the aim is **the lowest achievable pressure.**
+
+<i class="d">Capacity.</i>
+
+- **Maximum cystometric capacity** = volume instilled, **confounded by heavy leakage.** Distinguish it from **EBC** (formula) and **functional capacity** (daily volume, **best from a diary**).
+- **Abnormal capacity:** the ICCS defines **small as <65% of EBC and large as >150%**; some studies use **>130%**.
+- **Abnormal capacity alone is not alarming.** It usually accompanies another finding: **large + infrequent voiding**, or **small + high Pdet or poor compliance**.
+
+<i class="d">Voiding phase (pressure-flow study).</i>
+
+- **A pressure-flow study = uroflow + pressures.** It is valid only if the child voids **≥50–100 mL** and **≥50% of functional capacity**.
+- **Record:** Qmax or Qavg, pattern, **Pdet at Qmax**, and **PVR**.
+- **High Pdet + low Qmax = obstruction.**
+
+**COMPARISON — ANATOMICAL VS FUNCTIONAL OBSTRUCTION**
+
+| | Anatomical obstruction | Functional obstruction (DSD) |
+|---|---|---|
+| **Examples** | **Urethral valves, stricture** | Detrusor contracts **against a non-relaxing** pelvic floor and sphincter |
+| **Coordination** | **Appropriate relaxation** | **No relaxation** |
+| **Flow / Pdet** | Plateau; high Pdet | **Intermittent or staccato; Pdet higher than expected** |
+| **EMG** | **Quiet** | **Active** |
+
+- **To separate them, read flow, Pdet and EMG together.**
+- **Normal Pdet at Qmax:** **boys 66, girls 57 cm H₂O** (similar to adults). With a catheter in situ, healthy **infant boys reach up to 118** and **infant girls up to 75 cm H₂O**. **High infant voiding pressures are physiological.**
+
+**COMPARISON — FINDINGS THAT RAISE CONCERN FOR UPPER-TRACT INJURY**
+
+1. **Impaired compliance** (<10 severe; 10–20 moderate)
+2. **DSD with poor emptying, inability to void or high voiding pressure**
+3. **Sustained raised Pdet during filling**
+4. **DLPP >40 cm H₂O**
+5. **High voiding pressure with poor flow**
+
+<p class="concept"><b>Concept —</b> <b>Interpretation is organised around one question: how much pressure do the kidneys see, and for how long?</b> Compliance, DLPP, the timing of the pressure rise, DSD and voiding pressure all measure that exposure. <b>40 cm H₂O is the line</b>, because above it pressure is transmitted up the ureters.</p>
+
+#### Frequency of Testing
+
+- **The UMPIRE protocol** (CDC National Spina Bifida Patient Registry, 2016) is a **research protocol, not a guideline.**
+    - **Baseline at about 3 months** → repeat at **1, 2 and 3 years** → **yearly to 5** if there is **VUR or a "hostile" bladder**.
+
+**COMPARISON — ROUTINE VS EVENT-DRIVEN SURVEILLANCE**
+
+| | Routine surveillance | Event-driven testing |
+|---|---|---|
+| **Strategy** | **Annual urodynamics ± video** | Test on **clinical change**: new UTI, new or worse incontinence or hydronephrosis |
+| **Argument for** | **Hydronephrosis is an insensitive marker.** In a large spina bifida series, hydronephrosis improved with more drainage while **poor compliance did not**, and a minority needed surgery. | **Cost**; many studies needed to detect an actionable change |
+
+- **Home bladder-pressure monitoring on CIC is investigational.**
+- **Minimum consensus: regular follow-up of every neurogenic bladder**, for safe upper tracts, adequate emptying and low UTI risk. **Any change → investigate.**
+
+<div class="kp" markdown="1">
+<p class="kpt">KEY POINTS</p>
+
+- **Urodynamics is the gold standard** for evaluating LUT dysfunction.
+- **Universal prophylaxis or culture before urodynamics does not prevent post-procedure UTI (1.4%).**
+- **Paediatric considerations:** **sedation** and **fill rate scaled to EBC**.
+- **Master:** capacity, Pves, Pabd, Pdet, compliance and **timing of its loss**, DLPP, ALPP, Pdet at Qmax, DSD, PVR.
+- **DLPP and ALPP differ. DLPP dominates in paediatrics** because it relates to the upper tracts.
+</div>
+
+<p class="concept"><b>Concept —</b> <b>Surveillance trades test sensitivity against cost.</b> Hydronephrosis is cheap but late, and urodynamics is sensitive but costly. That is why protocols front-load studies in infancy, when bladder behaviour is least predictable, and then space them out unless the bladder is hostile.</p>
+
+## EVALUATION STRATEGIES FOR SPECIFIC CLINICAL ENTITIES
+
+### Non-neurogenic Lower Urinary Tract Dysfunction
+
+- **This group includes:**
+    - **BBD** (overactive bladder, underactive bladder, voiding postponement);
+    - **non-monosymptomatic enuresis** (daytime symptoms + nocturnal enuresis);
+    - **primary monosymptomatic nocturnal enuresis**.
+- **Presentation:** urgency, frequency, day or night incontinence; storage- or emptying-predominant. **UTIs are more common and can confound the diagnosis.**
+- **Most are diagnosed and treated without invasive tests:** history and examination → **selective non-invasive testing** → **behavioural and dietary change** → **medication** (anticholinergics, α-blockers, β3-agonists).
+- **Routine urodynamics is low-yield and rarely changes therapy.** **European Bladder Dysfunction Study (2008, prospective): urodynamic findings did not correlate with treatment outcome.**
+- **Exception: failure of second- and third-line therapy** raises the chance of **actionable urodynamic findings.**
+
+### Spinal Dysraphism
+
+- **Myelomeningocele = 90% of open spinal dysraphism.** These children need **lifelong study and aggressive treatment**, because LUT dynamics change with time.
+- **Occult dysraphism (e.g. tethered cord) is harder.** Signs are subtle, and **the urinary tract may be the only system to change.**
+- **Goals, whatever the cause:**
+    1. **normal bladder volume**;
+    2. **low storage pressure (normal compliance)**;
+    3. **complete emptying**;
+    4. **upper-tract protection**.
+- **Repeat urodynamics before any surgery** to confirm the planned procedure is correct.
+
+**UMPIRE REVISED RISK STRATIFICATION (SPINAL DYSRAPHISM)**
+
+| UMPIRE revised risk | DLPP or end-fill pressure |
+|---|---|
+| **Low** | **<25 cm H₂O** |
+| **Intermediate** | **25–39 cm H₂O, or DO** |
+| **High** | **≥40 cm H₂O** |
+
+- **DSD was removed from the scheme** because the study team **could not agree who truly had it**. This reflects poor agreement, not that DSD is benign.
+
+### Sacral Agenesis
+
+- **Partial or complete absence of the sacrum**, with abnormal nerve formation. **The radiographic level does not predict the clinical picture.**
+- **Nearly one-third are diagnosed late**, with incontinence, failure to toilet-train or UTI.
+- **Signs:** **flattened buttocks, short gluteal cleft, absent sacrum or coccyx on palpation.** **Diagnosis is by plain radiograph**, sometimes incidentally.
+- **Urodynamics if voiding is dysfunctional:** either an **areflexic bladder with little sphincter function** or **DO with DSD**.
+
+### Anorectal Malformations
+
+- **Anorectal malformations (including cloaca) are commonly associated with tethered cord.**
+- **Tethered cord:** the **conus medullaris is fixed abnormally low (below its normal L1–L2 level)**. With axial growth, the cord comes under traction → gait change, altered leg and perineal sensation, **LUT dysfunction**.
+- **Symptoms may be absent at birth.** **Most recommend baseline urodynamics even without a cord abnormality, especially after repair**, at **about 1 year after repair**. **Any change → repeat the study.**
+
+### Posterior Urethral Valves
+
+- **Posterior urethral valves are the commonest cause of LUT obstruction in boys.** **About 15% develop "valve bladder syndrome"**, with **progressive hydronephrosis and chronic kidney disease.**
+- **Natural history: DO → loss of compliance → myogenic failure.**
+- **Polyuria from nephrogenic diabetes insipidus** makes bladder emptying harder to optimise.
+- **Dynamics change with time**, so follow-up is long-term; **clinical change → further study.**
+
+### Pelvic Tumors Requiring Extirpation
+
+- **Resection of sacrococcygeal teratoma** (a rare neonatal germ cell tumour) causes **LUT dysfunction in up to 50%**, through **sacral plexus injury**.
+- **Symptoms may be hidden in the newborn period.** **Keep a high index of suspicion.**
+- **Urodynamics shows DO, DSD or areflexia.**
+
+### Cerebral Palsy
+
+- **Voiding dysfunction affects up to one-third.** The lesion is **upper motor neuron**, and **storage symptoms outnumber voiding symptoms**.
+- **Work-up is stepwise:** evaluation → conservative therapy → **urodynamics only if the response is poor.**
+- **Findings:** **increased capacity**, incontinence, **under- or overactivity**, and **DSD only rarely.**
+- **Spastic quadriplegia or moderate-to-severe impairment → higher risk of deterioration**, so monitor closely.
+
+### Spinal Cord Injury
+
+- **Acute phase: spinal shock → retention → start a drainage programme.** The chronic phase shows **varied phenotypes.**
+- **Higher lesions (cervical, thoracic) → more DSD** than lumbar lesions.
+- **UK guidance:**
+    - **baseline video urodynamics 3–6 months after injury**;
+    - **surveillance** for deterioration, changed goals, or previously **"unsafe" findings** (e.g. poor compliance).
+
+### Transverse Myelitis and Other Central Nervous System Disorders
+
+- **An inflammatory myelopathy** with the same **spinal-shock → chronic** course as spinal cord injury.
+- **Motor recovery and bladder recovery are dissociated.** About half regain motor function, but **most retain voiding and bowel dysfunction.** Neither motor recovery nor spasticity predicts the bladder.
+- **Initial urodynamics, commonest first:**
+    1. **DO**
+    2. loss of compliance
+    3. DSD
+    4. DLPP >40 cm H₂O
+- **In early retention, preserved reflexes predict bladder recovery.**
+- **Recommendation: early ultrasound and urodynamics + CIC** to protect the upper tracts.
+
+**COMPARISON — SPECIFIC CLINICAL ENTITIES**
+
+| Entity | Mechanism | Typical urodynamics | When to study |
+|---|---|---|---|
+| **Non-neurogenic LUTD** | Functional | Rarely changes management | **Only if refractory** |
+| **Spinal dysraphism** | Neural tube defect; tethering | Graded by DLPP or end-fill pressure | **Baseline, serial, before surgery** |
+| **Sacral agenesis** | Absent sacral segments | **Areflexia + weak sphincter, or DO + DSD** | If voiding dysfunction |
+| **Anorectal malformation** | **Associated tethered cord** | Variable | **Baseline about 1 year after repair**; on change |
+| **Posterior urethral valves** | Obstruction → remodelling | **DO → poor compliance → myogenic failure** | Serial; on change |
+| **Sacrococcygeal teratoma** | **Sacral plexus injury** | **DO, DSD, areflexia** | Surveillance |
+| **Cerebral palsy** | **Upper motor neuron** | **Large capacity; DO or underactivity; DSD rare** | **Only if refractory** |
+| **Spinal cord injury** | Shock → chronic | **Higher lesion → more DSD** | **Video urodynamics 3–6 months after injury**; surveillance |
+| **Transverse myelitis** | Inflammatory | **DO > poor compliance > DSD > DLPP >40** | **Early, with CIC** |
+
+- **Pattern:** urodynamics is **serial and mandatory** for **structural or progressive** lesions (dysraphism, tethering, valves, cord injury, myelitis). It is **reserved for treatment failure** in **functional or static** conditions (non-neurogenic LUTD, cerebral palsy).
+- **Trap:** **motor recovery or a normal newborn does not predict the bladder.**
+
+<p class="concept"><b>Concept —</b> <b>The decision to perform urodynamics depends on whether the bladder faces a lesion that changes over time.</b> Progressive or occult neurology and obstruction can damage the bladder silently, so they need a baseline and serial studies. Functional and static conditions are managed clinically, and urodynamics is kept for treatment failure.</p>

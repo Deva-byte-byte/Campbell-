@@ -1,0 +1,36 @@
+@page {
+  size: A4 portrait;
+  margin: 18mm 18mm 18mm 20mm;
+  @top-left { content: "Chapter 54 — Management of Paediatric Kidney Stone Disease"; font: 8.5pt Carlito, "DejaVu Sans"; color: #000; vertical-align: bottom; padding-bottom: 1.5mm; border-bottom: 0.3pt solid #000; width: 48%; }
+  @top-right { content: string(section, start); font: 8.5pt Carlito, "DejaVu Sans"; color: #000; vertical-align: bottom; padding-bottom: 1.5mm; border-bottom: 0.3pt solid #000; width: 52%; text-align: right; }
+  @bottom-center { content: "page " counter(page) " of " counter(pages); font: 9pt Carlito, "DejaVu Sans"; color: #000; }
+}
+html { font-family: Carlito, "DejaVu Sans", sans-serif; font-size: 11pt; line-height: 1.4; color: #000; }
+body { margin: 0; color: #000; hyphens: manual; text-align: left; orphans: 2; widows: 2; }
+h1, h2, h3, h4 { color: #000; break-after: avoid; page-break-after: avoid; line-height: 1.2; }
+h1 { string-set: section "Epidemiology of Early-Onset Kidney Stone Disease"; font-size: 20pt; font-weight: bold; margin: 0 0 3mm; padding-bottom: 2mm; border-bottom: 1.5pt solid #000; }
+.sub { font-size: 11pt; margin: 0 0 4mm; }
+h2 { font-size: 14pt; font-weight: bold; text-transform: uppercase; margin: 12pt 0 4pt; padding-bottom: 1.5pt; border-bottom: 1pt solid #000; string-set: section content(text); }
+h3 { font-size: 12.5pt; font-weight: bold; margin: 8pt 0 3pt; }
+h4 { font-size: 11.5pt; font-weight: bold; margin: 6pt 0 2pt; }
+.d { font-style: italic; font-weight: normal; }
+p { margin: 2pt 0 3pt; }
+ul, ol { margin: 2pt 0 3pt; padding-left: 5mm; }
+li { margin: 0 0 2.5pt; }
+li > ul { margin-top: 2pt; }
+.seq { margin: 3pt 0; }
+table { width: 100%; border-collapse: collapse; border-top: 1pt solid #000; border-bottom: 1pt solid #000; margin: 4pt 0 3pt; font-size: 10pt; line-height: 1.3; }
+thead { display: table-header-group; }
+th { text-align: left; vertical-align: bottom; border-bottom: 0.5pt solid #000; padding: 2pt 4pt; font-weight: bold; }
+td { vertical-align: top; padding: 2pt 4pt; }
+tbody tr:nth-child(even) td { background: #f2f2f2; }
+tr { break-inside: avoid; }
+.tt { font-weight: bold; text-transform: uppercase; font-size: 10pt; margin: 8pt 0 0; break-after: avoid; }
+.tt + table { margin-top: 2pt; }
+.src { font-size: 10pt; margin: 1pt 0 3pt; }
+.kp { border: 0.75pt solid #000; padding: 6pt; margin: 6pt 0; }
+.kp .kt { font-weight: bold; text-transform: uppercase; margin: 0 0 3pt; break-after: avoid; }
+.kp ul { margin: 0; }
+.concept { font-style: italic; margin: 4pt 0 6pt; break-before: avoid; page-break-before: avoid; }
+.concept b { font-style: normal; }
+.fig { margin: 3pt 0; }

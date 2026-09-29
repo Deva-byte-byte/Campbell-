@@ -1,0 +1,41 @@
+/* Document 2 — Chapter Notes. Black-and-white A4; nothing depends on colour. */
+@page {
+  size: A4 portrait;
+  margin: 18mm 18mm 18mm 20mm;
+  @top-left { content: string(chaptitle); font: 8.5pt Carlito, "DejaVu Sans", sans-serif; color: #000;
+              border-bottom: 0.3pt solid #000; vertical-align: bottom; padding-bottom: 2pt; }
+  @top-right { content: string(section); font: 8.5pt Carlito, "DejaVu Sans", sans-serif; color: #000;
+               border-bottom: 0.3pt solid #000; vertical-align: bottom; padding-bottom: 2pt; }
+  @bottom-center { content: "page " counter(page) " of " counter(pages);
+                   font: 9pt Carlito, "DejaVu Sans", sans-serif; color: #000; }
+}
+html { font-family: Carlito, "DejaVu Sans", sans-serif; font-size: 11pt; line-height: 1.4; color: #000; }
+body { margin: 0; background: #fff; text-align: left; hyphens: manual; orphans: 2; widows: 2; }
+h1, h2, h3, h4 { color: #000; break-after: avoid; page-break-after: avoid; line-height: 1.2; }
+h1 { font-size: 20pt; font-weight: bold; margin: 0 0 10pt; padding-bottom: 4pt;
+     border-bottom: 1.5pt solid #000; string-set: chaptitle attr(data-short); }
+h2 { font-size: 14pt; font-weight: bold; text-transform: uppercase; margin: 14pt 0 5pt;
+     padding-bottom: 2pt; border-bottom: 1pt solid #000; string-set: section content(); }
+h3 { font-size: 12.5pt; font-weight: bold; margin: 9pt 0 3pt; }
+h4 { font-size: 11.5pt; font-weight: bold; margin: 7pt 0 2pt; }
+.rd { font-style: italic; font-weight: normal; }
+p { margin: 3pt 0; }
+ul { margin: 2pt 0 4pt; padding-left: 14pt; }
+li { margin: 0 0 2.5pt; }
+ol.seq { margin: 2pt 0 4pt; padding-left: 18pt; }
+ol.seq li { margin-bottom: 2.5pt; }
+.concept { font-style: italic; margin: 5pt 0 6pt; break-before: avoid; page-break-before: avoid; }
+.concept b:first-child { font-style: normal; }
+.keypoints { border: 0.75pt solid #000; padding: 6pt; margin: 7pt 0; }
+.keypoints .kt { font-weight: bold; text-transform: uppercase; margin: 0 0 3pt; }
+.keypoints ul { margin: 0; }
+table { width: 100%; border-collapse: collapse; font-size: 10pt; line-height: 1.3; margin: 4pt 0 4pt;
+        border-top: 1pt solid #000; border-bottom: 1pt solid #000; }
+caption { caption-side: top; text-align: left; font-weight: bold; text-transform: uppercase;
+          font-size: 10.5pt; padding: 6pt 0 3pt; }
+thead { display: table-header-group; }
+th { text-align: left; vertical-align: bottom; font-weight: bold; border-bottom: 0.5pt solid #000; padding: 3pt 4pt; }
+td { vertical-align: top; padding: 2.5pt 4pt; }
+tbody tr:nth-child(even) td { background: #f2f2f2; }
+tr { break-inside: avoid; }
+.src { font-size: 10pt; margin: 1pt 0 3pt; }
