@@ -1,0 +1,12 @@
+@page { size: A4; margin: 12mm 13mm 12mm 13mm;
+  @bottom-center { content: counter(page); font: 8pt "Carlito","DejaVu Sans"; color:#000; } }
+html { font-family: "Carlito","DejaVu Sans"; font-size: 9.4pt; line-height: 1.25; color:#000; hyphens: manual; }
+body { margin:0; text-align:left; orphans:2; widows:2; }
+.cols { column-count: 2; column-gap: 7mm; }
+h1 { font-size: 14pt; font-weight: bold; margin: 0 0 5pt; padding-bottom: 3pt; border-bottom: 1pt solid #000; column-span: all; break-after: avoid; line-height: 1.2; }
+h2 { font-size: 10.4pt; font-weight: bold; text-transform: uppercase; margin: 6pt 0 2pt; padding-bottom: 1pt; border-bottom: 0.5pt solid #000; break-after: avoid; line-height: 1.2; }
+ul { margin: 0 0 2pt; padding-left: 10pt; }
+li { margin: 0 0 1pt; }
+.nothing { border: 1pt solid #000; padding: 4pt 6pt; margin: 0 0 6pt; column-span: all; }
+.nothing .t, .traps .t { font-weight: bold; text-transform: uppercase; margin: 0 0 2pt; break-after: avoid; }
+.traps { background: #ececec; border-left: 5pt double #000; padding: 4pt 6pt; margin: 6pt 0 0; }
