@@ -1,0 +1,33 @@
+@page {
+  size: A4 portrait;
+  margin: 18mm 18mm 18mm 20mm;
+  @top-left { content: "Chapter 43 — Exstrophy-Epispadias Complex"; font: 8.5pt Carlito, "DejaVu Sans", sans-serif; color: #000; border-bottom: 0.3pt solid #000; vertical-align: bottom; padding-bottom: 2pt; }
+  @top-right { content: string(sectA); font: 8.5pt Carlito, "DejaVu Sans", sans-serif; color: #000; border-bottom: 0.3pt solid #000; vertical-align: bottom; padding-bottom: 2pt; }
+  @bottom-center { content: "page " counter(page) " of " counter(pages); font: 9pt Carlito, "DejaVu Sans", sans-serif; color: #000; }
+}
+@page :first { @top-left { content: none; border: none; } @top-right { content: none; border: none; } }
+html { font-family: Carlito, "DejaVu Sans", sans-serif; font-size: 11pt; line-height: 1.4; color: #000; background: #fff; hyphens: manual; text-align: left; }
+body { margin: 0; orphans: 2; widows: 2; }
+h1, h2, h3, h4 { color: #000; break-after: avoid; page-break-after: avoid; }
+h1 { font-size: 20pt; font-weight: 700; margin: 0 0 10pt; padding-bottom: 4pt; border-bottom: 1.5pt solid #000; }
+h2 { font-size: 14pt; font-weight: 700; text-transform: uppercase; margin: 14pt 0 5pt; padding-bottom: 2pt; border-bottom: 1pt solid #000; string-set: sectA content(); }
+h3 { font-size: 12.5pt; font-weight: 700; margin: 9pt 0 3pt; }
+h4 { font-size: 11.5pt; font-weight: 700; margin: 7pt 0 2pt; }
+p { margin: 3pt 0; }
+ul, ol { margin: 2pt 0 4pt; padding-left: 14pt; }
+li { margin: 0 0 2.5pt; }
+li > ul { margin-top: 2pt; }
+.d { font-style: italic; }
+.concept { font-style: italic; margin: 4pt 0 6pt; break-before: avoid; page-break-before: avoid; }
+.concept b { font-style: normal; }
+.kp { border: 0.75pt solid #000; padding: 6pt; margin: 6pt 0; }
+.kp .t { font-weight: 700; text-transform: uppercase; margin: 0 0 2pt; }
+.kp ul { margin-bottom: 0; }
+table { width: 100%; border-collapse: collapse; margin: 5pt 0 3pt; font-size: 10pt; line-height: 1.3; border-top: 1pt solid #000; border-bottom: 1pt solid #000; }
+caption { caption-side: top; text-align: left; font-weight: 700; text-transform: uppercase; font-size: 10pt; padding-bottom: 3pt; }
+thead th { border-bottom: 0.5pt solid #000; text-align: left; vertical-align: bottom; font-weight: 700; padding: 2pt 4pt; }
+td { padding: 2pt 4pt; vertical-align: top; }
+tbody tr:nth-child(even) { background: #f2f2f2; }
+tr { break-inside: avoid; }
+.src { font-size: 10pt; margin: 0 0 3pt; }
+.seq { margin: 2pt 0 4pt; }
