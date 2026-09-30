@@ -1,0 +1,998 @@
+# Chapter 49 — Anomalies of the Kidney and Collecting System
+
+## ANOMALIES OF RENAL NUMBER
+
+- **Adequate renal reserve** (two kidneys) is nature's protection against renal injury; this section covers congenital absence of one or both kidneys and supernumerary kidneys.
+- **Agenesis** = congenital absence of an organ from failure of development, owing to absence of primordial tissue.
+- **A congenital solitary kidney from early involution of a multicystic dysplastic kidney (MCDK) is not strictly renal agenesis**: the second kidney formed and then regressed.
+
+### Bilateral Renal Agenesis
+
+- **Bilateral renal agenesis (BRA)** has the most profound fetal effect of all upper-tract anomalies and is **almost always incompatible with life**.
+- Syndrome recognised by **Potter's description of the associated defects**. Normal renal development needs many complex molecular events, so there is **probably no single aetiology**.
+
+#### Incidence
+
+- **Exceedingly rare: about 1 in 4800–5000 births**. Population estimates vary widely, from about 3.5 per 100,000 to higher rates in prenatally screened cohorts.
+- **About 75% of cases are male.** Increasing maternal age may be a risk factor. **Maternal diabetes and complications of pregnancy do not influence incidence.**
+- **Inheritance is uncertain**: autosomal recessive has been proposed, as has autosomal dominant with variable penetrance.
+- **First-degree relatives of an index case carry a risk about 1000 times the population risk.** Among relatives, unilateral renal agenesis (URA) is about 4.5% and BRA about 3.5%.
+- **Families of a congenital solitary kidney proband**: offspring about 7%, parents 4% and siblings 2.5% have renal anomalies, probably an underestimate. BRA in their offspring is about 1%: above the population risk but below BRA families.
+- **Screen parents and siblings by ultrasound** when an infant is born with URA, BRA or renal dysgenesis. Offer **prenatal and/or postnatal ultrasound when a parent or other first-degree relative has a congenital solitary kidney**.
+- **Syndromic associations**: oesophageal atresia, cryptophthalmos, **Fraser syndrome** (syndactyly, renal and genital anomalies, cryptophthalmos), Klinefelter syndrome and Kallmann syndrome.
+
+#### Relevant Renal Embryology and Possible Aetiology
+
+- **Renal and genital development are integrated**, so renal anomalies travel with genital malformations in both sexes.
+- **Mesonephros regresses, leaving the mesonephric tubules**:
+  - in the male, the **efferent ductules**, which link the gonad to wolffian duct (WD) derivatives (body and tail of epididymis, vas deferens);
+  - in the female, the tubules link the ovary, via the fimbriated end of the fallopian tube, to the reproductive tract.
+- **Definitive kidney = metanephric blastema** (metanephric mesenchyme, MM, a specialised region of intermediate mesoderm).
+- **Reciprocal induction is essential**. The sequence runs:
+  1. blastema signals the WD;
+  2. the **ureteric bud (UB) arises from the caudal WD at 5–7 weeks**;
+  3. the UB invades the blastema and branches to form the collecting system;
+  4. the UB tips induce nephrons in the adjacent mesenchyme, forming the metanephros.
+- **Absent nephrogenic ridge or failure of UB formation → ipsilateral agenesis.** **BRA therefore needs a molecular alteration or mutation acting on both sides of the midline.**
+
+#### Gross Pathological Findings in the Retroperitoneum
+
+- **Kidneys completely absent**; renal vessels completely absent in about a quarter of cases.
+- **Ureters**: complete atresia in most cases, partial absence in a minority. A rudimentary kidney is rarely found when the ureter is completely absent.
+- **Adrenal usually present and orthotopic but flattened: the "lying down" sign** — flattened, elongated and lying along the spine on ultrasound (Figs 49.1 and 49.2).
+  - The adrenal is expected to be normally placed because the **cortex arises from mesoderm medial to the urogenital ridge** and the **medulla from neural crest ectoderm**, both independent of the kidney. The metanephros is intermediate mesoderm.
+  - **Fused or horseshoe adrenals** are seen on prenatal ultrasound, often with **spinal anomalies**.
+- **Absent gonads (rare) imply an insult before the fifth week**, affecting the whole urogenital ridge.
+- **Bladder**: completely absent in about half of cases with complete ureteral atresia; otherwise hypoplastic (a muscular tube with a minute lumen, no ureteric orifices). The urachus is closed.
+- **Why the bladder fails** — two theories:
+
+<p class="tcap">Why the bladder fails in BRA — two theories</p>
+
+| Theory | Mechanism | Supporting observation |
+|---|---|---|
+| **Lack of urine** | No fetal urine (production starts 10–12 weeks) → no bladder stimulation | — |
+| **Lack of UB/WD structures** (favoured) | UB and WD entering the ventral cloaca are needed to initiate bladder development | **Exstrophy bladders (never filled) often function after closure alone**, whereas **bilateral single ectopic ureters (below the bladder neck) almost always need augmentation** |
+
+#### Phenotypic Features
+
+- **Low birth weight** (1000–2500 g) and **intrauterine growth restriction (IUGR)**, partly from low hepatic iron stores.
+- **Potter facies** — a **sine qua non of absent amniotic fluid**:
+  - prematurely senile look;
+  - **prominent semicircular skin fold from over each eye, around the inner canthus, onto the cheek**;
+  - **blunted nose**, and a **depression between lower lip and chin**;
+  - **ears appear low set**: the lobes are broad and drawn forward, but the **canals are normally sited**. Periauricular pits and tags may occur.
+- **Skin and limbs**: dry, loose skin; **large claw-like hands**; bowed, clubbed legs with excess hip and knee flexion; occasionally **sirenomelia** (fused lower limbs).
+- **Other anomalies**: lumbar meningocele ± Arnold–Chiari malformation and hydrocephalus. **Gastrointestinal anomalies in about 60%.**
+- **Male genitalia**:
+  - scrotum may be absent;
+  - penis usually normal, rarely absent or rudimentary; hypospadias rare;
+  - **testes undescended in 43%**, testicular agenesis in about 10%;
+  - **vas usually normal**, implying the insult acted on the UB only after a complete WD formed, or on MM induction.
+- **Female genitalia**:
+  - clitoral hypertrophy;
+  - **frequent müllerian duct (MD) and ovarian anomalies**: ovaries hypoplastic or absent, uterus rudimentary or bicornuate (occasionally absent), vagina a short blind pouch or absent.
+
+#### Amniotic Fluid and Fetal Pulmonary Development
+
+- **Face and limb features are deformations** (loss of amniotic "cushioning"), **not malformations**. Proof: in **monoamniotic twins, a BRA twin sharing a normal-volume sac lacked Potter facies**.
+- **Fetal urine is >90% of amniotic fluid volume by the third trimester.**
+- **Pulmonary hypoplasia and a bell-shaped chest** accompany BRA.
+- **Lung development stages**:
+  - **pseudoglandular phase from week 5** (branching to terminal bronchioles);
+  - **airway branching at 12–26 weeks**;
+  - **canalicular phase at 16–26 weeks**: terminal bronchioles → respiratory bronchioles → alveolar ducts. This is the **amniotic-fluid-dependent window**.
+- **Reduced branching and acini in BRA** imply interference **before 16 weeks**, which is earlier than amniotic fluid alone explains.
+- **Two competing explanations, reconciled by the Peters two-step model:**
+
+<p class="tcap">Pulmonary hypoplasia — renal factor vs amniotic fluid (Peters two-step model)</p>
+
+| | **Renal factor (early)** | **Amniotic fluid volume (late)** |
+|---|---|---|
+| Proposed mechanism | **Kidney-derived proline** (with ornithine → polyamines regulating gene expression, protein synthesis, angiogenesis) needed for bronchiolar collagen: a "renal growth factor" | Oligohydramnios during the **canalicular phase** limits lung growth |
+| Evidence for | Normal lungs despite prolonged amniotic leak; in an anuric knockout model, **lung hypoplasia preceded oligohydramnios** | Obstruction-induced oligohydramnios in fetal sheep with initially normal renal function → hypoplasia; **amnioinfusion improves lung volume and neonatal lung function** |
+| Timing | Early gestation | Later gestation |
+
+- **Restoring amniotic fluid only partly restores lung growth.** For **uropathy (obstruction)**, pulmonary hypoplasia is **predominantly due to oligohydramnios in the canalicular phase** rather than renal dysfunction.
+
+#### Prenatal and Postnatal Diagnosis
+
+- **Prenatal ultrasound (second or third trimester)**: severe oligohydramnios, no renal parenchyma, small lungs and chest, abnormal adrenal appearance.
+- **Potter facies with oligohydramnios is pathognomonic.**
+- **Amnion nodosum** (white keratinised nodules on the amnion) is a placental hallmark of severe oligohydramnios but **not pathognomonic**.
+- **Essentially every neonate voids within 24 hours, whatever the gestation.** **Anuria beyond 24 hours without bladder distension strongly suggests BRA.**
+
+#### Postnatal Radiographic Evaluation
+
+- **Renal ultrasound first**: kidney and bladder morphology, and urine production.
+- **Power Doppler** accurately shows the status of the renal arteries, even in the fetus.
+- **A flattened orthotopic adrenal supports an absent ipsilateral kidney.**
+- **Inconclusive ultrasound → technetium-99m dimercaptosuccinic acid (<sup>99m</sup>Tc-DMSA) scan**, which can be done at any time after birth. **No uptake in either renal fossa or any ectopic site confirms BRA.**
+
+#### Prognosis
+
+- **About 40% stillborn.** Most liveborn infants **die within 24–48 hours of respiratory failure** from profoundly hypoplastic lungs.
+- **Serial amnioinfusion** has produced rare **"pulmonary survivors"**: infants with functioning lungs but **end-stage renal disease (ESRD)**. Early reports ended in death on dialysis, from dialysis failure or sepsis.
+- **Renal Anhydramnios Fetal Therapy (RAFT) trial** — landmark, nonrandomised, multicentre:
+  - population: isolated fetal BRA with anhydramnios; **serial percutaneous isotonic amnioinfusions started before 26 weeks**;
+  - **94% live births**, median delivery **32 weeks**;
+  - primary endpoint (**survival ≥14 days with dialysis access placed**) met in **82%** of liveborn infants;
+  - only **35% survived to hospital discharge on peritoneal dialysis**;
+  - **stopped early** for neonatal morbidity and mortality beyond the primary endpoint.
+- **What RAFT showed**: amnioinfusion before 26 weeks **mitigates lethal pulmonary hypoplasia**. Later survival depends strongly on **gestational age and birth weight** — **mortality independent of lung function**.
+- **Status now**: amnioinfusion for BRA is **experimental**. It needs **institutional review board (IRB) oversight**, full disclosure, and multidisciplinary counselling (including palliative care) in centres able to provide neonatal intensive care and kidney replacement therapy, within research.
+
+*Concept —* **BRA is lethal through the lungs, not the kidneys.** The kidney drives lung development twice, early by a renal factor and later through amniotic fluid. Amnioinfusion replaces only the second, so the RAFT trial converted pulmonary deaths into neonatal ESRD.
+{: .concept}
+
+### Unilateral Renal Agenesis
+
+- **URA** = a non-ectopic **solitary functioning kidney (SFK)** with failure of the contralateral kidney to develop. It occurs in **1 in 1200 live births**.
+- **Usually sporadic and isolated**. It is sometimes chromosomal or part of an association:
+  - **VATER** (vertebral, anorectal, tracheo-oesophageal, renal);
+  - **MURCS** (müllerian duct aplasia, renal aplasia, cervicothoracic somite dysplasia).
+- **Not detectable on examination**: usually an incidental imaging finding, or found through an associated genital anomaly.
+- **Isolated single umbilical artery does not raise the incidence of URA.**
+- **Prenatal ultrasound (since the mid-1990s) detects more URA.** A **substantial number of apparent URAs are MCDKs or dysplastic kidneys that involuted before birth**:
+  - **MCDK incidence is 1 in 4300**;
+  - **renal aplasia** (a rudimentary parenchyma plus ureter; about 1 in 1300, similar to agenesis) **may be the commonest cause of congenital solitary kidney**. It arises from early UB regression, altered metanephric differentiation, or failed reciprocal induction.
+- **Clues to an involuted MCDK rather than true agenesis**:
+  - **curvilinear calcification** on plain film or computed tomography (CT);
+  - **splenic or hepatic flexure in its normal place, not in the empty renal fossa**, suggesting a kidney once occupied the fossa.
+- **Pitfall at the 20-week scan**: a **flattened adrenal, or the spleen (on the left), can be mistaken for a kidney**.
+
+#### Incidence
+
+- Autopsy about 1 in 1100; ultrasound screening of schoolchildren about 1 in 1200.
+- **Male predominance is much weaker than in BRA: male-to-female 1.8:1.**
+- **Left side slightly more often.**
+- **Familial: autosomal dominant with 50–90% penetrance.** Screening recommendations are as for BRA.
+
+#### Genetic, Syndromic and Other Associations
+
+- **Chromosomal deletions**: 8q13.3 and 22q11 (DiGeorge). **Kallmann syndrome**, X-linked and sporadic.
+- **Syndromes**: Turner, Poland, Fraser, **branchio-oto-renal (BOR)** and DiGeorge.
+- **Maternal diabetes triples the risk of agenesis and dysplasia.** High glucose disrupts UB and metanephric morphogenesis and reduces nephron number.
+- **About 30% of VACTERL patients have URA.** VACTERL = vertebral, anal (imperforate anus), cardiac, tracheo-oesophageal, renal and limb.
+- **Minor ear anomalies**: supernumerary nipples, congenital hearing loss and preauricular pits were suspected associations. **Studies show no significant link between isolated preauricular pits or tags and URA.**
+- **When to image**:
+
+<p class="tcap">Renal imaging in children with extrarenal anomalies</p>
+
+| Clinical situation | Imaging |
+|---|---|
+| Isolated preauricular pit or tag | **None routinely** |
+| Ear anomaly **plus another malformation** | Renal ultrasound |
+| **More than one congenital anomaly** (e.g., ventricular septal defect with undescended testis) | Renal ultrasound is prudent |
+| **Recognised complex** (e.g., VACTERL) | **Comprehensive imaging of all organ systems, including the spine — mandatory** |
+
+#### Embryology
+
+- **Primary defect is in UB formation or function.** It is supported by **RET mutations** in human agenesis.
+- **The metanephros is rarely the primary fault**: the **ipsilateral gonad** (from adjacent mesenchyme) is **rarely absent, malpositioned or non-functioning**.
+- **Absent or malformed proximal WD structures (male) and MD anomalies (female)** place the insult **no later than 4–5 weeks**, when the UB forms and the WD begins forming the ejaculatory duct, seminal vesicle and vas.
+- **MD migrates medially and crosses the WD in week 6**, forming the tube, uterine horn and body, and proximal vagina. **The MD depends on contact with the WD to elongate and fuse.**
+- **Magee embryological classification (URA with müllerian anomalies; Fig. 49.3)** — timing of the insult determines the phenotype:
+
+<p class="tcap">Magee classification of URA with müllerian anomalies</p>
+
+| Magee type | Timing of insult | Structures affected | Genital result |
+|---|---|---|---|
+| **Type I** | **Before week 4** | Whole urogenital ridge (MD and WD not differentiated) | **Unicornuate uterus** with contralateral agenesis |
+| **Type II** | **Early week 4** | **WD and UB** → failed MD elongation, contact with the urogenital sinus and fusion | **Didelphys uterus with an obstructed horn and vagina on the agenesis side** |
+| **Type III** | **After week 4** | **UB and metanephric blastema only**; WD and MD normal | **Isolated URA**, normal genitalia |
+
+#### Associated Genitourinary and Adrenal Anomalies
+
+- **Usually asymptomatic.** Now identified prenatally; historically found at autopsy.
+- **Commonest associated urological problem in both sexes: vesicoureteric reflux (VUR)**, plus müllerian anomalies in females.
+- **Ipsilateral ureter absent in about 60%**; occasionally only a distal ureteric segment persists.
+- **Trigone**:
+  - with complete ureteral absence there is no ipsilateral orifice and the hemitrigone appears undeveloped;
+  - cell-lineage work shows the **trigone derives from the urogenital sinus** and should form normally. It is simply **indistinct without an intramural ureter**;
+  - so **"hemitrigone" (complete ureteral agenesis) and "asymmetrical trigone" (partial ureter) are probable misnomers**.
+- **Contralateral kidney**: anomalies are infrequent apart from ectopia and malrotation. **Contralateral ureter** anomalies are **not uncommon**:
+  - **pelviureteric junction (PUJ) obstruction about 11%** (ureteropelvic junction in US usage);
+  - **vesicoureteric junction (VUJ) obstruction about 7%**;
+  - **VUR about 30%**.
+- **Adrenal**: may be flattened. **Adrenal agenesis <10%** (up to 17% on CT series).
+- **Genital anomalies are far commoner than adrenal**:
+  - overall **reproductive tract malformation 20–40%**;
+  - **females 25–50%**, **males 10–15%**, even though URA is commoner in males;
+  - **gonads are usually normal in both sexes**.
+- **Two phenotypes**: a **primary urogenital ridge defect** (rare: gonadal or adrenal agenesis) versus a **primary UB/WD defect** (common: WD and MD derivative anomalies).
+
+#### Anomalies in the Male and in the Female
+
+<p class="tcap">URA — genital anomalies in the male vs the female</p>
+
+| | **Male (WD derivatives)** | **Female (MD derivatives)** |
+|---|---|---|
+| Always present | **Testis and head of epididymis** (efferent ductules = mesonephric tubules) | **Fimbriated end of fallopian tube** (analogue of the epididymal head) |
+| Frequency of anomaly | **WD derivatives absent in almost 50%** of males with URA (body and tail of epididymis, vas, seminal vesicle, ampulla, ejaculatory duct) | **About one-quarter to one-third** of females with URA; conversely **43% of females with internal genital anomalies have URA** |
+| Commonest anomaly | **Absent vas**: **79% of men with an absent vas have an absent ipsilateral kidney** (left predominance 3.5:1); bilateral absence possible | **Unicornuate uterus** (ipsilateral horn and tube absent) or **bicornuate** with rudimentary horn; didelphys or septate uterus; vaginal duplication, atresia or absence |
+| Named syndrome | **Zinner syndrome**: **seminal vesicle cyst** (ejaculatory duct atresia) with ipsilateral agenesis. The ureter may insert into the prostatic urethra or seminal vesicle | **Obstructed hemivagina and ipsilateral renal anomaly (OHVIRA)**, formerly **Herlyn–Werner–Wunderlich**: pubertal unilateral haematocolpos or hydrocolpos, pelvic mass, pain; may mimic a large or infected Gartner duct cyst |
+| Other | Cryptorchidism rare; **cystic dysplasia of the rete testis** (benign, may regress; managed conservatively) | **Gartner duct cyst** with a blind or rudimentary-kidney ectopic ureter; **infertility in up to one-third** with agenesis plus unicornuate uterus |
+| When to suspect URA | **Impalpable vas or epididymal body/tail** in infertility work-up; vasal or epididymal anomaly seen at scrotal ultrasound, herniotomy or orchidopexy | Uterine anomaly on ultrasound or magnetic resonance imaging (MRI) → image the urinary tract |
+| Screening | Pelvic ultrasound or MRI may show a seminal vesicle cyst | **Pelvic ultrasound after thelarche but before menarche** to detect müllerian anomalies |
+
+- **Mayer–Rokitansky–Küster–Hauser (MRKH) syndrome**: **1 in 4500 newborn females**; upper vaginal atresia to total müllerian agenesis in a phenotypically normal 46,XX female.
+
+<p class="tcap">MRKH type I vs type II</p>
+
+| | **MRKH type I (typical)** | **MRKH type II (atypical)** |
+|---|---|---|
+| Frequency | Less common | **More common** |
+| Müllerian remnants | **Symmetrical** muscular buds, normal tubes | **Asymmetrical** hypoplasia of one or two buds ± tubal dysplasia |
+| Renal anomalies | Uncommon | **Common, 40–60%**: URA, ectopia, horseshoe |
+
+- **MURCS association** (most severe end): **müllerian duct aplasia**, **renal aplasia or ectopia** and **cervicothoracic somite dysplasia** (anomalous vertebrae C5–T1).
+
+#### Anomalies of Other Organ Systems
+
+- **Non-genitourinary anomalies are frequent with congenital solitary kidney**: cardiovascular most often, then gastrointestinal, haematological and neurological.
+
+#### Diagnosis and Radiographic Evaluation
+
+- **Compensatory hypertrophy begins in utero from 20 weeks** in about 90% of kidneys opposite URA or MCDK.
+- **Postnatal ultrasound with colour Doppler**: absent kidney and absent ipsilateral renal vessels.
+- **DMSA confirms** absent uptake on one side, often with contralateral hypertrophy. It **also finds an ectopic (usually pelvic) or crossed ectopic kidney** missed on ultrasound.
+- **Pitfalls**:
+  - a **small dysplastic kidney or MCDK may be misdiagnosed as URA**;
+  - **crossed fused ectopia** can be hard to tell from a hypertrophied solitary kidney or a solitary complete duplication.
+- **Fetal MRI** confirms absence when other anomalies prompt MRI.
+- **Voiding cystourethrogram (VCUG)**:
+  - considered because of a **28% incidence of contralateral VUR**;
+  - but **screening VCUG in URA/MCDK may not benefit the patient**: a cohort study found **no significant reduction in febrile urinary tract infection (UTI)**;
+  - a meta-analysis advises **shared decision-making** with caregivers.
+
+#### Special Considerations — Sport
+
+- **Commonest parental question: will one kidney restrict activity?**
+- **Renal trauma comes more from motor vehicle accidents (as passenger or pedestrian) than from sport.** Among sports, cycling, sledging, skiing or snowboarding and horse riding cause most renal injuries.
+- **These sports carry more than fivefold the risk of head injury compared with renal injury**, yet children are not barred for having "only one head".
+- **American Academy of Pediatrics** guidance: **individual assessment per sport**; **protective padding** allows most sports.
+- **High-school injury surveillance**: across millions of athlete-exposures, **kidney injuries were very rare, none catastrophic or requiring surgery**.
+- **Bottom line: a solitary kidney does not preclude safe sport.**
+
+#### Prognosis
+
+- **Congenital SFK ≠ donor or Wilms nephrectomy.** Congenital SFK may reflect genetic or environmental events affecting **both** kidneys throughout life. **Living donors have lower ESRD rates** than the general population or childhood tumour nephrectomy patients.
+
+#### Current Concepts Regarding Prognosis in Adults With Unilateral Renal Agenesis
+
+- **Brenner hyperfiltration hypothesis**: reduced nephron mass → hyperfiltration → altered sodium balance → **glomerular hypertension** → albuminuria and **glomerulosclerosis**. The risk is greatest when the SFK is itself affected by congenital anomalies of the kidney and urinary tract (CAKUT).
+- **CAKUT spectrum**: agenesis, hypoplasia or dysplasia, MCDK, PUJ obstruction, megaureter, posterior urethral valves (PUV) and VUR.
+  - About **1 in 600 births**; present in **20% of chromosomal abnormalities**.
+  - About 10% have affected close relatives, mostly asymptomatic.
+- **Subtle UB branching defects → low nephron number → later renal disease.**
+- **Normal nephron number varies eightfold (200,000 to 1.8 million).** The low end carries more risk of renal insufficiency from any cause.
+- **Clinical surrogates of low nephron number**: low birth weight, preterm birth, short stature, small kidney volume on ultrasound, low renal mass on scintigraphy, glomerulomegaly on biopsy, **PAX2 and RET** polymorphisms, and infants of diabetic mothers.
+- **Prenatal nephrotoxic exposures**: angiotensin-converting enzyme (ACE) inhibitors, dexamethasone, antiepileptics, aminoglycosides, IUGR and maternal diabetes.
+- **Outcome studies of solitary kidney**:
+
+<p class="tcap">Prognosis of the solitary kidney — outcome studies compared</p>
+
+| Study (design) | Population | Key finding | Caveat |
+|---|---|---|---|
+| **Single-centre CAKUT cohort, up to 20 years' follow-up** | CAKUT with a defect of number or size (isolated VUR and duplication excluded) | By 30 years **about one-fifth were on dialysis** (mostly PUV, bilateral hypoplasia, URA). **A solitary kidney carried about a 50% probability of dialysis by age 30** | Most URA diagnosed in adolescence with normal creatinine |
+| **KIMONO (Kidney of Monofunctional Origin)**, retrospective | Primary SFK (URA or MCDK) and secondary SFK (after nephrectomy) | **About one-third had renal injury** (hypertension, albuminuria or renoprotective medication) by a mean age of about 10 years. glomerular filtration rate (GFR) fell from about 9 years; microalbuminuria from about 16 years. **Ipsilateral CAKUT (about 30%) → more injury** | Selection bias; likely **overestimates** ESRD |
+| **Israeli national adolescent cohort (over 1 million)**, population-based, linked to the ESRD registry | Childhood CAKUT, pyelonephritis or glomerular disease, well in adolescence | **About 1% developed ESRD over 30 years**, but **about 4× the risk** of those without such history; the CAKUT risk equals other childhood renal disease | Population-based, least biased |
+
+- **Verdict**: the SFK carries a **lifelong risk of chronic kidney disease (CKD)**. Identify those at risk, educate families, and ensure long-term follow-up.
+- **Surveillance of the child with SFK** (GFR in mL/min/1.73 m²):
+
+<p class="tcap">Surveillance of the child with a solitary functioning kidney</p>
+
+| Situation | Blood pressure and first-morning urinary albumin | Creatinine | Ultrasound |
+|---|---|---|---|
+| **SFK without CAKUT** | **Annually** | **Every 5 years if GFR >60 and on no medication** | Periodic, to confirm compensatory hypertrophy and growth into adolescence |
+| **SFK with CAKUT** | **Twice yearly** | As indicated | Periodic, especially with CAKUT |
+| **GFR <60 or on antihypertensive or antiproteinuric therapy** | **Blood pressure, albumin and creatinine 2–4 times per year** | 2–4 times per year | — |
+
+- **Hallmarks of progressive GFR decline: hypertension and microalbuminuria (>30 mg/24 h).**
+- **Treatment**: **ACE inhibitor** may slow progression. Age-appropriate **salt limitation** and **avoidance of excess protein**.
+
+### Supernumerary Kidney
+
+- **A true accessory organ**: its **own collecting system, own blood supply and a distinct encapsulated parenchymal mass**. It is usually smaller than the main kidneys, which are normal, equal and orthotopic.
+- It may be **completely separate** from the ipsilateral kidney or **loosely attached by areolar tissue**; ipsilateral ureters may be bifid or completely duplicated.
+
+<p class="tcap">Supernumerary kidney vs duplex kidney</p>
+
+| | **Supernumerary kidney** | **Duplex kidney** |
+|---|---|---|
+| Parenchyma | **Separate, encapsulated mass** | One parenchymal mass |
+| Capsule | Own capsule | **Single capsule** |
+| Blood supply | **Separate (required for the definition)** | Shared |
+| Collecting system | Own | Two collecting systems drain portions of one kidney |
+
+#### Incidence
+
+- **True incidence unknown** (case reports only). **Males = females**; **left-sided predilection**; bilateral cases are exceptional.
+
+#### Embryology and Molecular Mechanisms
+
+- **Sequence**: a **second UB, or a branch of the first**, forms → the nephrogenic anlage divides into two metanephric tails → each separates fully when induced by the separate or bifid UBs.
+- **Normal single-UB control**: **glial cell line-derived neurotrophic factor (GDNF)** from the MM induces one UB. **Posterior restriction of GDNF expression** fixes its position.
+- **SLIT2/ROBO2 signalling** restricts GDNF expression. **Mice lacking SLIT2 or ROBO2 form supernumerary UBs**, with persistent anterior GDNF.
+
+#### Description and Associated Anomalies
+
+- **About 60% lie caudal to the dominant kidney.** **With a separate ureter it is more often cranial** (though caudal to the adrenal).
+- **Almost half have a severely dilated system with thin parenchyma**, suggesting obstruction. Fusion anomalies are only case reports.
+- **Ureteral patterns** (N'Guessan and Stephens, 1983; Figs 49.4 and 49.5):
+
+<p class="tcap">Supernumerary kidney — ureteral drainage patterns</p>
+
+| Pattern | Frequency | Implication |
+|---|---|---|
+| **Converging ureters → common stem, single orifice** | **About 50%** | "**A bud off a bud**" |
+| **Two completely separate ureters and orifices** | **About 50%** | **Weigert–Meyer rule usually obeyed.** In about 10% the caudal kidney's ureter breaks the rule, entering the trigone below the ipsilateral orifice |
+
+- Rare variants: **calyceal communication** between the kidneys, or the dominant ureter joining the supernumerary pelvis to form a single distal ureter.
+- **Blood supply is anomalous and position-dependent, but must be separate to qualify as a true supernumerary kidney** (Fig. 49.6: pelvic supernumerary kidney supplied by the right internal iliac artery, draining to the inferior vena cava).
+
+#### Associated Symptoms
+
+- **Rarely symptomatic.** When symptoms occur, usually in **early adulthood**: pain, fever, hypertension, palpable mass.
+- Presentation is driven mainly by **infection and/or obstruction**. **Ectopic-ureter incontinence is extremely rare**; carcinoma is reported.
+- **About a quarter are found only at autopsy.**
+
+#### Diagnosis
+
+- **Usually incidental.** A normal, distant, caudal supernumerary kidney does not displace the main kidney; a close one displaces it slightly.
+- **Symptomatic cases** arise from stone or infection. Ultrasound may show distortion of the ipsilateral kidney or ureter.
+- **Bifid system → the dominant kidney shares the disease process.** **Separate ureters → the ipsilateral kidney may merely show secondary effects.**
+- **Magnetic resonance urography (MRU) and retrograde pyelography** delineate the anatomy; **radionuclide imaging** gives relative function.
+- **Cystoscopy**: one or two ipsilateral orifices, depending on duplication; ureteral ectopia in or outside the bladder.
+- **May mimic a duplication**; sometimes diagnosed only at surgery or autopsy.
+
+<div class="kp" markdown="1">
+**KEY POINTS: ANOMALIES OF RENAL NUMBER**
+
+- **BRA**: about 1 in 5000 births; almost always fatal from pulmonary hypoplasia.
+- **URA**: 1 in 1200; male and left-sided predominance.
+- **Female URA → müllerian anomalies in 25–50%**, versus **WD anomalies in 10–15% of males**.
+- **Solitary kidney = lifelong CKD risk**; educate about surveillance.
+- **Supernumerary kidney**: own blood supply and capsule; variable ureteral relationships.
+</div>
+
+*Concept —* **Every anomaly of number is a failure of UB–metanephric induction; its timing and extent set the phenotype.** A later, bilateral or UB-only insult removes kidneys. An earlier insult drags the WD and MD with it (hence the genital anomalies). Duplicated UB signalling adds a kidney.
+{: .concept}
+
+## ANOMALIES OF RENAL ASCENT
+
+### Simple Renal Ectopia
+
+- **Normal ascent sequence**:
+  1. UB from the WD at the **end of week 4**;
+  2. UB acquires a metanephric cap by **week 5**;
+  3. the unit **migrates cephalad while rotating medially**;
+  4. **ascent is complete between 6 and 9 weeks**, placing the kidney in the lumbar retroperitoneum below the adrenal.
+- **Mechanism of ascent unknown.** Postulated causes of ectopia: UB maldevelopment, defective metanephric tissue, genetic factors, maternal illness or teratogens.
+- **The "vascular barrier" theory is rejected**: persistence of an early fetal blood supply does not prevent ascent, and **the aberrant supply is a consequence, not a cause, of ectopia**.
+- **Ectopia** (Greek *ek* "out" + *topos* "place" = "out of place"). Sites: **pelvic, iliac (lumbar), abdominal, thoracic, and contralateral (crossed)**.
+
+#### Incidence
+
+- **Autopsy about 1 in 900** (range 1 in 500 to 1 in 1200). **No sex difference; left slightly favoured.**
+- **Solitary ectopic kidney 1 in 22,000 autopsies.**
+- **Screening**: about 1 in 4000 schoolchildren. A much higher rate in one African population raised the question of a shared teratogen or genetic factor.
+- **Bilateral ectopia is rare, about 10%** of cases of ectopia.
+
+#### Description and Associated Anomalies
+
+<p class="tcap">Simple renal ectopia — positions</p>
+
+| Type | Position (Fig. 49.7) |
+|---|---|
+| **Pelvic** (**commonest**) | **Opposite the sacrum, below the aortic bifurcation** |
+| **Lumbar (iliac)** | Near the sacral promontory, in the iliac fossa, **anterior to the iliac vessels** |
+| **Abdominal** | **Above the iliac crest, beside L2** |
+
+- **Ectopic kidney is smaller**, often **persistently fetally lobulated**, and **incompletely rotated**:
+  - **pelvis anterior rather than medial**;
+  - axis vertical or up to 90° lateral (horizontal).
+- **Hydronephrosis is common.** Causes in one series:
+  - **about half obstruction** — **PUJ (about 70%) > VUJ (about 30%)**;
+  - **a quarter VUR grade III or higher**;
+  - **a quarter malrotation alone** (non-obstructive).
+- **VUR in 30–50%** of children with ectopia on cystography, into the ectopic **or the orthotopic** kidney. **When reflux accompanies unilateral ectopia it is usually into the orthotopic kidney.**
+- **Ectopic ureter usually enters the bladder on its own side, orifice normal** (ectopic ureters excepted).
+- **Vasculature is anomalous and position-dependent**:
+  - one or two main arteries from the **distal aorta or bifurcation**, ± aberrant arteries from the **common or external iliac, or inferior mesenteric**;
+  - sometimes entirely multiple anomalous branches.
+  - **Map with CT, MRI or angiography before surgery.**
+- **Contralateral kidney** usually normal; may show agenesis, ectopia or VUR.
+- **Adrenal normal in position**: ascent does not affect adrenal development.
+- **Reproductive anomalies common, overall 15–45%**:
+  - **females 20–66%**: bicornuate or unicornuate uterus with an atretic horn, rudimentary or absent uterus and vagina, vaginal duplication;
+  - **males**: hypospadias and undescended testis, each about 5%. Older series report 10–20% (including urethral duplication).
+- **Other systems**: mostly **skeletal and cardiac**. **About 14% of cloacal malformations have an ectopic kidney.**
+
+#### Diagnosis
+
+- **Increasingly incidental**; prenatal ultrasound finds pelvic and even thoracic kidneys.
+- **Diagnosis**: an **empty renal fossa with reniform tissue in the lower abdomen or pelvis** (Fig. 49.8).
+- **Mostly asymptomatic.** Presentations: vague abdominal pain, colic from obstruction, haematuria, UTI, palpable mass.
+- **Continuous incontinence in a girl with normal voiding → look for an ectopic ureter.** An apparent **solitary kidney** may be an **ectopic kidney with an ectopically draining ureter**.
+- **A small or dysplastic, non-functioning ectopic kidney can be misread as URA → DMSA and/or MRU.**
+- **Cystoscopy**: orifices normal unless ectopic.
+
+#### Prognosis
+
+- **No more disease-prone than an orthotopic kidney, except for hydronephrosis and stones.** Causes: anterior pelvis and malrotation, a **high ureteric insertion**, and anomalous vessels obstructing a calyx or the upper ureter.
+- **More vulnerable to blunt trauma** (unprotected by the ribs).
+- **Childhood blood pressure and global renal function are normal**, but **the ectopic kidney usually shows reduced differential function on DMSA** (Fig. 49.8: pelvic kidney 27% vs orthotopic 73%).
+- **Pregnancy**: no excess maternal or fetal complications. **Dystocia from a pelvic kidney is rare but may need caesarean section.**
+- **Historical warning**: solitary pelvic kidneys have been removed as presumed pelvic malignancies.
+
+### Cephalad Renal Ectopia
+
+- **Subdiaphragmatic, more cranial than normal, near T10.**
+- **Classic setting: omphalocele.** The liver herniates with the bowel, so the kidneys ascend until the **diaphragm** stops them. It also occurs **without abdominal wall defects**.
+- **Ureters long but normal.** Colour Doppler or magnetic resonance angiography (MRA) shows **cephalad renal artery origins** (Fig. 49.9).
+- **Asymptomatic; drainage unimpaired.**
+- A kidney seen in the normal fossa **may migrate cranially in the first 3 months of life** (case series confirmed on MRI).
+
+### Thoracic Kidney
+
+- **Partial or complete protrusion of the kidney above the diaphragm into the posterior mediastinum.**
+
+#### Incidence
+
+- **<5% of ectopic kidneys; about 1 in 13,000 autopsies.** Bilateral cases are reported.
+- **Left 1.5:1; male 2:1.**
+- Seen prenatally and at all ages, but **most often found in adults on chest radiography**.
+
+#### Embryology
+
+- **Kidney normally in place by week 8, when the pleuroperitoneal membrane forms** the diaphragm.
+- **Two mechanisms**: **delayed diaphragmatic closure** allowing protracted ascent, **or accelerated ascent** overshooting before closure.
+- **Delayed mesonephric involution** is the favoured cause, because **thoracic kidneys occur in only 0.25% of diaphragmatic hernias**.
+- **Renal artery origin normal or more cranial** (Fig. 49.10).
+
+#### Description
+
+- **Posterior mediastinum; rotation usually complete; contour and collecting system normal.**
+- **Four categories**: (1) true ectopia; (2) diaphragmatic eventration; (3) diaphragmatic hernia; (4) traumatic diaphragmatic injury.
+- **Usually lies in the foramen of Bochdalek**, covered by a thin membrane, so it is **not within the pleural space**. The vessels and ureter pass through the foramen.
+- **The adjacent lower lobe may be hypoplastic** from compression.
+
+#### Associated Anomalies
+
+- **Ureter elongated.** Adrenal usually normal (ectopic adrenal reported). Contralateral kidney normal. **No consistent anomalies of other systems.**
+
+#### Symptoms
+
+- **Vast majority asymptomatic; renal function normal.** Rare presentations: flank pain (PUJ obstruction) or respiratory symptoms.
+
+#### Diagnosis
+
+- **Chest radiograph**: slightly raised hemidiaphragm, with a smooth rounded mass near the midline (anteroposterior view) and posteriorly on the diaphragmatic leaflet (lateral view).
+- **Imaging of choice: CT or MRU.** Thoracotomy for a presumed mediastinal tumour should no longer happen.
+
+#### Prognosis
+
+- **No inevitable urinary or pulmonary complications.**
+- **Operate only for respiratory distress.** Incidental cases are managed **non-operatively** with normal function and no late bowel herniation.
+
+<div class="kp" markdown="1">
+**KEY POINTS: ANOMALIES OF RENAL ASCENT**
+
+- **Left side affected slightly more often than right.**
+- **Hydronephrosis common**: PUJ or VUJ obstruction, high-grade VUR, or malrotation alone.
+- **VUR in 30–50%**, into the ectopic or the contralateral kidney.
+- **Genital anomalies about 15%.**
+- **Most ectopic kidneys asymptomatic**; differential function often reduced on nuclear scan.
+</div>
+
+*Concept —* **Ascent and rotation are one process, so arrest of ascent leaves an unrotated kidney with an anterior pelvis and a fetal blood supply.** Every clinical consequence of ectopia, from hydronephrosis and stones to reduced differential function and surgical vascular risk, follows from that frozen fetal anatomy. Otherwise the ectopic kidney behaves like a normal one.
+{: .concept}
+
+## ANOMALIES OF RENAL FORM AND FUSION
+
+### Crossed Renal Ectopia With and Without Fusion
+
+- **Crossed ectopia**: the **kidney lies on the side opposite to where its ureter enters the bladder**.
+- **90% of crossed ectopic kidneys are fused to their mate.** It is the **second commonest fusion anomaly after horseshoe kidney**.
+- **Fusion anomalies present**: in **children** with multiple malformations, **young adults** investigated for **delayed menarche**, and the **elderly** incidentally.
+- **McDonald and McClellan (1957) classification — four types** (Fig. 49.11):
+
+<p class="tcap">Crossed renal ectopia — McDonald and McClellan types</p>
+
+| Type | Features | Relative frequency |
+|---|---|---|
+| **Crossed ectopia with fusion** | Crossed kidney fused to its mate | **About 90%** of crossed ectopia |
+| **Crossed ectopia without fusion** | Separate kidneys, each in its own Gerota fascia | **About 10%** |
+| **Solitary crossed ectopia** | Single kidney on the side opposite its orifice; the other kidney absent | Rare |
+| **Bilaterally crossed ectopia** | Both kidneys crossed | **Rarest** |
+
+- **Six forms of crossed fused ectopia** (Fig. 49.12):
+
+<p class="tcap">Crossed fused ectopia — the six forms</p>
+
+| Form | Anatomy | Timing and orientation |
+|---|---|---|
+| **Unilateral fused, inferior ectopia** | Crossed kidney's upper pole fused to the lower pole of the normal kidney | **Commonest (about two-thirds)**; both pelves anterior → **early fusion** (Fig. 49.14) |
+| **Sigmoid (S-shaped)** | Crossed kidney inferior; fused at adjacent poles; pelves face opposite directions | **Second commonest**; **late fusion, after full rotation** |
+| **Lump (cake)** | Irregular, lobulated mass; usually no higher than the sacral promontory, often in the true pelvis; anterior blood supply from above, ureters leave below (Fig. 49.15) | Relatively rare; solitary ureter draining both moieties reported; associated unicornuate uterus or absent vas |
+| **L-shaped (tandem)** | Crossed kidney transverse, attached to the normal lower pole, midline or paramedian anterior to **L4** | Inverted or reversed pelvis; **each ureter enters on its own side** |
+| **Disc (pancake, shield, doughnut)** | Complete medial fusion **without an intervening septum**; lateral contours preserved | **Less fusion than lump**, so reniform shape better kept; separate systems (rarely a single pelvis and ureter) |
+| **Unilateral fused, superior ectopia** | Crossed kidney's lower pole fused to the upper pole of the normal kidney | **Least common**; both pelves anterior → **very early fusion** |
+
+#### Incidence
+
+- **Crossed fused ectopia about 1 in 1000 live births** (clinical estimate). **Autopsy about 1 in 2000.** Slight male predominance (3:2).
+- **Crossed non-fused**: male 2:1.
+- **Left-to-right crossover about 3× as common as right-to-left** — this holds with and without fusion.
+- **Solitary crossed ectopia**: male 2:1. It is usually **left kidney crossing to the right with the right kidney absent** (about 2:1), and **usually fails to ascend or rotate fully**.
+
+#### Embryology
+
+- **Cause unknown.** Theories:
+  - **malalignment of the caudal embryo** (vertebral column curled to one side), so the cloaca and WD lie off-centre and **one ureter crosses into the opposite blastema**, or the kidney is transplanted across during ascent;
+  - **teratogens** (given the associated anomalies);
+  - **genetic** (familial cases).
+- **Fusion occurs in the true pelvis at or before the start of ascent, or late in ascent**; its extent depends on how close the anlagen lie.
+- **Once fused, midline structures block further ascent**: the aortic bifurcation, inferior mesenteric artery (IMA) and root of the small-bowel mesentery.
+- **Final shape depends on when fusion occurs, how extensive it is, and how far rotation has progressed. No further rotation occurs after fusion.**
+- **Pelvic orientation times the fusion**:
+
+<p class="tcap">Pelvic orientation and the timing of fusion</p>
+
+| **Anterior pelvis** | **Medial pelvis** |
+|---|---|
+| **Early fusion**, before rotation | **Late fusion**, after rotation completed |
+
+#### Description
+
+- **Both kidneys probably start migrating together, but the crossed kidney lags (crossover time).** So the **crossed kidney's upper pole usually joins the lower aspect of the normal kidney**. Ascent continues until the uncrossed kidney reaches its fossa or a midline structure intervenes.
+- **Without fusion**: the uncrossed kidney is orthotopic and normally oriented. The crossed kidney is inferior, diagonal or horizontal, with an anterior pelvis. **The crossed ureter always crosses the midline at the pelvic brim** to enter the contralateral bladder (Fig. 49.13).
+- **Solitary crossed ectopia**: kidney somewhat low in the opposite fossa (**L1–L3**), anteriorly oriented, incompletely rotated. If pelvic or low lumbar, it lies horizontal with an anterior pelvis. **Ureter crosses the midline above S2.** A contralateral ureter, if present, is rudimentary.
+- **Bilateral crossed ectopia**: kidneys and pelves may look normal. **Ureters cross at the lower lumbar level.**
+- **Vascular supply** (all types): variable.
+  - crossed kidney: one or more branches of the **aorta or common iliac artery**;
+  - the normal kidney often has multiple arteries at various aortic levels;
+  - **solitary crossed kidney**: aorta or iliac artery **on the side where it lies**.
+
+#### Associated Anomalies
+
+- **Ureteral orifices usually orthotopic; trigone normal.** **Ectopic orifice from the crossed unit about 3%.** The uncrossed ureter occasionally has an ectopic orifice or ureterocele.
+- **VUR: about 20% in crossed ectopia, 71% in bilateral crossed ectopia** (Fig. 49.16).
+- **Midline fusion with a single ureter dividing into two pelves across the midline** is associated with **imperforate anus and vertebral anomalies**.
+- **Renal tumours of various histologies** are reported in fusion anomalies.
+- **Genital anomalies** (with or without fusion): cryptorchidism, hypospadias, absent vas or testis, vaginal atresia, unilateral uterine anomaly.
+- **Solitary crossed ectopia: imperforate anus in about 20%**, plus skeletal and genital anomalies.
+- **Otherwise (excluding solitary crossed ectopia), non-urological anomalies are infrequent**: imperforate anus about 4%, orthopaedic about 4%, skeletal, and cardiac septal defects.
+
+#### Symptoms
+
+- **Mostly asymptomatic**: found at autopsy, on perinatal ultrasound or on imaging for other reasons.
+- **Symptoms, when they occur, arise in the third or fourth decade**: vague lower abdominal pain, pyuria, haematuria, UTI. **Abnormal position and vessels impede drainage → UTI and stones**. Fig. 49.17: a stone in a left-to-right crossed fused kidney, stented via the **left** orifice across the midline.
+- **Pain lateralisation** — the observation points to **ureteral rather than renal migration** as the mechanism:
+
+<p class="tcap">Crossed ectopia — lateralisation of pain</p>
+
+| **Stone in the crossed ureter** | **Pyelonephritis or PUJ obstruction of the crossed kidney** |
+|---|---|
+| Pain on the **anephric side** (the ureter's embryonic side) | Pain on the **side where the kidneys lie** |
+
+- **Asymptomatic abdominal mass in one-third.** Hypertension work-up may reveal the anomaly.
+
+#### Diagnosis
+
+- **Ultrasound**: first line in children; also screening in syndromes.
+- **Nuclear scan**: function; **diuretic renography** shows drainage.
+- **Multidetector 3-D CT urography**: excellent anatomy of parenchyma, collecting system, ureters and vessels, but **radiation**, a problem in children, pregnancy and repeat studies.
+- **MRU and MRA before major surgery in children** (information without radiation).
+- **Cystoscopy and retrograde pyelography** when MRU is insufficient.
+
+#### Prognosis
+
+- **Normal longevity for most.** An **obstructive-appearing system** predisposes to UTI and stones.
+- **Malignancy outcome depends on stage and histology**, as in orthotopic kidneys.
+
+<div class="kp" markdown="1">
+**KEY POINTS: CROSSED RENAL ECTOPIA WITH AND WITHOUT FUSION**
+
+- **Crossed ectopia**: kidney on the side opposite its ureteric insertion.
+- **90% fused**; the ectopic upper pole usually joins the lower pole of the normal kidney.
+</div>
+
+### Horseshoe Kidney
+
+- **Commonest fusion anomaly.** **Two renal masses on either side of the midline joined at their lower poles by a parenchymal or fibrous isthmus** crossing the midline.
+
+#### Incidence
+
+- **About 0.25% (1 in 400)**; imaging series give 1 in 474 to 1 in 666.
+- **Male slightly >2:1.**
+- **Twins and siblings reported**: a specific genetic predisposition is doubtful, though low-penetrance genetic expression is possible.
+- **Often part of multiple anomalies**, some incompatible with long-term survival.
+
+#### Description
+
+- **Lower-pole fusion in 95%**, occurring **before rotation**. Upper-pole isthmus is a small subset.
+- **Fusion is midline in about 40%**, **lateral in the remainder** (left more often than right). The moieties may be asymmetrical.
+- **Pelves and ureters anterior, crossing ventral to the isthmus.** Rarely anteromedial (fusion after some rotation).
+- **Ascent incomplete: the IMA is thought to block ascent.**
+- **Isthmus**:
+  - usually **bulky parenchyma with its own blood supply**, occasionally a thin fibrous band;
+  - at **L3/L4, just below the IMA origin**;
+  - **usually anterior to the aorta and inferior vena cava (IVC)**; rarely between them or behind both.
+  - The whole kidney may lie anterior to the sacral promontory or in the true pelvis.
+- **Calyces normal in number but atypically oriented**:
+  - they **point posteriorly** because rotation fails;
+  - each pelvic axis is vertical or obliquely lateral;
+  - the lowest calyces point caudally or medially to drain the isthmus and may overlie the spine.
+- **Ureter**: **high insertion** on the pelvis, lateral; bends characteristically as it **crosses anterior to the isthmus**. Lower ureter normal. Retrocaval ureter, ectopia and duplication reported.
+- **Blood supply is highly variable**:
+  - **a single artery and vein to each moiety is the exception** (a small minority on CT);
+  - the isthmus and lower poles take branches from each main renal artery, from the **aorta above or below the isthmus**, or from the **IMA, common or external iliac, or sacral arteries**.
+
+#### Associated Anomalies
+
+- **Extrarenal anomalies or syndromes in about half** of children and young adults; **gastrointestinal and vertebral commonest**. Commoner in infants dying early than in adults, so horseshoe kidney **tracks with serious anomalies**.
+- **Neural tube defects: 3%** have horseshoe kidney. **Anorectal malformations** (VATER).
+- **Turner syndrome: about 60% have horseshoe kidney.** **Turner is the commonest syndrome**, followed by **caudal regression**.
+- **Genital**: hypospadias and undescended testis (about 4% of males); bicornuate uterus or septate vagina (about 7% of females).
+- **VUR 8–32%** — managed as in normal kidneys; most resolves spontaneously.
+- **Hydronephrosis common**, often non-obstructive. **PUJ obstruction in 13–34%**, from:
+  - (1) **high ureteric insertion**;
+  - (2) **ureter's course anterior to the isthmus**;
+  - (3) **extrinsic compression by anomalous vessels**, alone or together.
+- **Modern incidental hydronephrosis is usually non-obstructed on renography.** Horseshoe kidney may be spotted on a **<sup>99m</sup>Tc bone scan**.
+- **Cystic disease**: MCDK of one moiety's upper pole; autosomal dominant polycystic kidney disease (ADPKD).
+- **Asymmetrical moiety function on DMSA in about two-thirds.**
+- **Stones**: about one-third of adults (meta-analysis).
+  - **Calcium stones predominate.**
+  - **Metabolic defects — hypovolaemia, hypercalciuria, hypocitraturia — are as common as in other stone formers.** Stasis is added to, not substituted for, metabolic risk.
+
+#### Diagnosis and Radiographic Appearance
+
+- **Plain film**: low kidneys close to the spine with a **vertical or outward axis; lower poles more medial than normal**.
+- **Prenatal ultrasound detects most.** **Postnatal ultrasound shows the isthmus** unless it is a thin fibrous band (Figs 49.18 and 49.19).
+- **Radionuclide scan**: abnormal axis; **a continuous band across the midline if the isthmus is functioning parenchyma**.
+- **CT or MRU** characterise the isthmus and hydronephrosis; **MRA maps vessels preoperatively**.
+
+#### Symptoms
+
+- **At least 50% asymptomatic**; most found incidentally, including at autopsy.
+- **Symptoms from hydronephrosis, infection, tumour or stones.** The **commonest symptom is vague abdominal pain radiating to the lower lumbar region**.
+- **UTI about 30%; calculi 20–80%.** It may present as a **palpable mass**.
+
+#### Prognosis
+
+- **Not "almost always diseased"**: on long follow-up most stay asymptomatic, and **most patients with fusion anomalies develop no new symptoms**. Minorities develop persistent infection or pain, or recurrent stones.
+- **Tumours**:
+  - **renal cell carcinoma (RCC)** is about half of tumours, but **incidence is not above the general population**. Bilateral tumours reported.
+  - **Renal pelvic tumours exceed the general-population rate**, attributed to chronic infection, obstruction and stones.
+  - **Wilms tumour**: **1.76–7.93× the expected rate**. Mostly left-sided, rarely in the isthmus, almost all **favourable histology**. **Over a third were initially inoperable**, but **preoperative chemotherapy salvaged most, preserving about 75% of renal parenchyma** (National Wilms Tumor Study).
+  - **Apart from renal pelvic tumours, a surprisingly high share of cancers arise in the isthmus.**
+  - **Survival depends on tumour stage and pathology, not the anomaly.**
+- **Pregnancy and delivery unaffected** (the kidney lies above the pelvic inlet).
+- **ADPKD in a horseshoe kidney: no greater risk of renal failure.**
+- **Transplantation**: donate **en bloc or divided for two recipients**, depending on vessels and collecting systems; **about 80% graft survival at 5 years**.
+
+<div class="kp" markdown="1">
+**KEY POINTS: HORSESHOE KIDNEY**
+
+- **0.25% (1 in 400).**
+- **Most asymptomatic.**
+- **Calyces normal in number, point posteriorly** (failed rotation); pelvic axis vertical or obliquely lateral.
+- **Frequent association with other anomalies and syndromes.**
+- **Variable blood supply → image before surgery.**
+- **PUJ obstruction in up to one-third**, from an atypical ureteral course or crossing vessel.
+- **Wilms tumour commoner than in the general population.**
+</div>
+
+<p class="tcap">TABLE 49.1 Summary of Major Anomalies of Renal Number and Position</p>
+
+| Pattern | Definition | Incidence | Clinical issues | Associations | Comment |
+|---|---|---|---|---|---|
+| **Bilateral renal agenesis** | No renal tissue; ureter or lower tract absent in about half | **1:5000** | **Lethal in nearly all (pulmonary hypoplasia)** | Oligohydramnios, Potter facies, club feet | Table: "single case report of long-term survivor"; **body text (RAFT): 35% of liveborn survived to discharge on dialysis** |
+| **Unilateral renal agenesis** | Unilateral absence; **ipsilateral ureter absent in 60%** | **1:1200** | Usually asymptomatic; **long-term CKD in about 30%** (reduced nephron mass) | **Contralateral VUR up to 30%, PUJ obstruction about 10%**; reproductive anomalies 20–40%; **30% of VACTERL** | Hard to distinguish from a prenatally involuted MCDK |
+| **Supernumerary kidney** | Accessory organ: own collecting system, blood supply, capsule | **Very rare** | Usually asymptomatic | — | **Mostly caudal to the orthotopic kidney** |
+| **Simple renal ectopia** | Incompletely ascended, on the **same** side as its ureteric insertion | **1:900** | **Hydronephrosis common** (ascent and rotation anomaly) | **Reproductive anomalies about 15%** | Hydronephrosis from obstruction and/or VUR |
+| **Thoracic kidney** | Above the diaphragm in the posterior mediastinum | **1:13,000** | Usually asymptomatic | — | Found incidentally on thoracic imaging |
+| **Crossed renal ectopia** | Kidney **opposite** to its ureteric insertion | **1:2000** (autopsy); **body text: crossed fused about 1:1000 live births** | Hydronephrosis, stones | Anorectal and genitourinary malformations | **90% fused to their mate** |
+| **Horseshoe kidney** | Lower-pole fusion, low in the abdomen | **1:400** | Hydronephrosis, stones | Anorectal and genitourinary malformations, **Turner syndrome** | **Increased tumour risk postulated but unproven** (body text: Wilms and renal pelvic tumours are increased) |
+
+- **What the table is for**: a one-line **incidence ladder**. Horseshoe 1:400 > ectopia 1:900 > URA 1:1200 > crossed ectopia 1:2000 > BRA 1:5000 > thoracic 1:13,000.
+- **Pattern**: the **ascent and fusion anomalies share one clinical signature (hydronephrosis and stones)**. The **number anomalies are about associated genital and CKD risk**.
+- **Traps**:
+  - **ectopia is same-side, crossed is opposite-side**;
+  - **the crossed ectopia incidence differs by source** (autopsy 1:2000 vs clinical 1:1000);
+  - **the table's BRA "single survivor" and "tumour risk unproven" statements are superseded by the body text**: RAFT survivors, and raised Wilms and renal pelvic tumour risk.
+
+*Concept —* **Fusion freezes the kidneys at the moment they meet.** How far they have risen and rotated at that moment fixes the shape, and midline structures (IMA, aortic bifurcation) then block further ascent. Hydronephrosis, stones and vascular variability all follow from that.
+{: .concept}
+
+## ANOMALIES OF RENAL ROTATION
+
+- **Normal final orientation: calyces point laterally, pelvis faces medially.** Imperfect alignment = **malrotation**.
+- It usually **accompanies ectopia or fusion**, but can occur in an **orthotopic** kidney (this section).
+
+### Incidence
+
+- **About 1 in 939 autopsies** (1 in 390 hospital admissions in another series). **Frequent in Turner syndrome.**
+- **Males 2:1; no side predilection.**
+
+### Description
+
+- **Rotation accompanies ascent**: it begins in **week 6** as the kidney leaves the pelvis and is complete with ascent at the **end of week 9**. The kidney and pelvis rotate **90° ventromedially**.
+- **Weyrauch classification** — by position of the renal pelvis (Fig. 49.20, Gray and Skandalakis):
+
+<p class="tcap">Malrotation — Weyrauch positions</p>
+
+| Position | Rotation | Pelvis | Calyces | Vessels |
+|---|---|---|---|---|
+| **Ventral** | **None** (primitive position) | Ventral | **Point dorsally** | — (**commonest malrotation**) |
+| **Ventromedial** | **Incomplete**; arrest about week 7 | Faces ventromedially | Point dorsolaterally | — |
+| **Dorsal** | **Hyper-rotation, 180°** | **Dorsal** to the parenchyma | — | **Pass behind the kidney** to the hilum (**rarest**) |
+| **Lateral** | **Hyper-rotation 180–360°**, or **reverse rotation up to 180°** | Faces **laterally**, parenchyma medial | — | **Ventral course** to a lateral hilum → **reverse**; **dorsal course** → **excessive ventral** rotation |
+
+- **The vascular course is the only clue to the direction and degree of rotation.**
+- **Features of isolated malrotation**:
+  - kidney discoid, elongated, oval or triangular, with flattened surfaces;
+  - **exaggerated fetal lobulation**;
+  - **dense hilar fibrous tissue** encasing and distorting the pelvis, PUJ and upper ureter;
+  - upper ureter courses laterally; pelvis long and narrow; superior calyx stretched;
+  - blood supply variable (single vessel ± branches, or polar artery).
+
+### Symptoms
+
+- **No specific symptoms from malrotation itself.** **Hilar fibrosis, vascular compression or distortion of the PUJ** → hydronephrosis and **intermittent obstruction**.
+
+### Diagnosis
+
+- **Suspect when a stone is in an unusual position.** Confirm with ultrasound, CT, MRU or retrograde pyelography.
+- **Findings**: abnormal pelvicalyceal orientation; flattened elongated pelvis; stretched superior calyx with blunting of the others; **laterally displaced upper third of the ureter**.
+- **Bilateral malrotation can mimic horseshoe kidney**: look for an **isthmus** and the **lower-pole outline** (Fig. 49.21).
+
+### Prognosis
+
+- **Malrotation does not impair renal function.** Hydronephrosis → infection and stones.
+
+<div class="kp" markdown="1">
+**KEY POINTS: ANOMALIES OF RENAL ROTATION**
+
+- **Normal rotation is 90° ventromedial during ascent**, leaving calyces lateral and pelvis medial; deviation is malrotation.
+- **Malrotation is frequently associated with Turner syndrome.**
+</div>
+
+*Concept —* **The vessels are fixed before rotation finishes, so their path around the kidney records which way it turned.** The pelvis alone cannot distinguish lateral hyper-rotation from reverse rotation; the vessels can.
+{: .concept}
+
+## ANOMALIES OF RENAL VASCULATURE
+
+### Aberrant, Accessory or Multiple Vessels
+
+#### Description
+
+- **Segmental end-arteries**: each segment is supplied by a single end branch, normally from one main renal artery.
+- **Terminology** — examinable definitions:
+
+<p class="tcap">Renal vessels — terminology</p>
+
+| Term | Definition |
+|---|---|
+| **Multiple renal arteries** | **Preferred term: any kidney supplied by more than one vessel arising from the aorta** |
+| **Aberrant (anomalous) vessels** | Arteries arising **from vessels other than the aorta or main renal artery** |
+| **Accessory vessels** | **Two or more branches supplying the same renal segment** |
+
+- **Five vascular segments: apical, upper, middle, lower, posterior.**
+- **Main artery → anterior and posterior divisions**:
+  - **anterior** almost always supplies the **upper, middle and lower** segments;
+  - **posterior** invariably supplies the **posterior and lower** segments.
+- **Apical segmental artery is the most variable**: from the anterior division (commonest), the anterior–posterior junction, the mainstem or aorta, or the posterior division. Rarely a totally separate branch.
+- **Perihilar branching**: highly variable but patterned. A "**fork**" pattern with a common branching point is commonest, which matters to the transplant surgeon.
+- **Lower segment often has an accessory vessel**: the most proximal branch of the main artery or its anterior division. It may instead arise from the aorta, or be aberrant from the gonadal vessel.
+- **Veins**: the **inferior tributary of the main renal vein is closely related to the anterior–inferior renal pelvis in about 40%**.
+
+#### Incidence
+
+- **Single renal artery in 71–85%**, slightly more often on the right.
+- **True aberrant vessels are rare except in ectopia (with or without fusion) and horseshoe kidney.**
+
+#### Embryology
+
+- **Three groups of primitive vessels** coalesce:
+  - **cranial** (two pairs, dorsal to the suprarenal) → **phrenic artery**;
+  - **middle** (three pairs, through the suprarenal) → **adrenal artery**;
+  - **caudal** (four pairs, ventral to the suprarenal) → **main renal artery**, sometimes joined by the lowest middle pair.
+- **During migration the network selectively degenerates until one pair dominates**, depending on final position.
+- **Polar or multiple arteries = failure of complete degeneration.** **The multiple vessels of ectopia are an arrested embryonic state for that position.**
+
+#### Symptoms
+
+- **Due to extrinsic compression of the collecting system**: an infundibulum, major calyx or the PUJ. Result: pain and haematuria from hydronephrosis, UTI or stones.
+
+#### Diagnosis
+
+- **3-D power Doppler ultrasound, CT or MRI** resolve vascular variants precisely (Fig. 49.22: two left renal arteries in a living donor).
+
+#### Prognosis
+
+- **Hydronephrosis from a lower-pole crossing vessel is very rare** relative to how common vascular variants are.
+- **Crossing vessels are present in about a fifth to a quarter of normal, unobstructed PUJs** (CT and endoluminal ultrasound). **A crossing vessel alone does not prove causation.**
+- **Hypertension is no commoner with multiple renal arteries.**
+
+### Renal Artery Aneurysm
+
+- **Renal artery aneurysm (RAA) is rare: about 0.09% (about 0.1%) of the population.**
+- **Abeshouse classification**:
+
+<p class="tcap">Renal artery aneurysm — Abeshouse classification</p>
+
+| Type | Features |
+|---|---|
+| **Saccular** | Localised outpouching with a narrow or wide neck; **commonest (about 93%)** |
+| **Fusiform** | At the **bifurcation of the main renal artery** or distal branch points → **considered congenital** (similar aneurysms at branch points elsewhere) |
+| **Dissecting** | — |
+| **Arteriovenous** | — |
+
+- **Congenital vs acquired**: acquired aneurysms can be anywhere (inflammatory, traumatic, degenerative).
+- **A true aneurysm**: a localised defect in the internal elastica and media, with the wall containing most arterial layers.
+- **Size and side**: 1–10 cm, but **90% <2 cm**. **Right more often; bilateral up to 15%.**
+- **Presentation**:
+  - **three-quarters asymptomatic**, especially children;
+  - symptoms: pain (6–15%), haematuria (5–30%), **hypertension (10–55%)** — **renin-mediated from relative ischaemia**;
+  - adjacent aneurysm can cause hydronephrosis.
+- **Found by**: work-up of **uncontrolled hypertension (about a third)**, or incidental angiography (about a quarter).
+- **Signs**: pulsatile hilar mass or **abdominal bruit**. **Wreath-like calcification (about 30%) is highly suggestive.**
+- **Imaging**: colour Doppler, spiral CT, 3-D MRA, digital subtraction angiography.
+- **Rupture**: **spontaneous rupture risk very low overall (about 0.3%)**. **All ruptures were in RAAs >3 cm**, where the rupture rate was about 18%.
+- **Treat RAA if** (open or endovascular; **elective when high risk**):
+  - **rupture**;
+  - **high rupture risk**: **rapid expansion**, or **pregnancy or planned pregnancy** (rupture in pregnancy is reported);
+  - **size >2.0 cm**;
+  - **symptoms**: uncontrolled hypertension (renal artery stenosis), flank pain, haematuria, **renal ischaemia or infarction from embolisation**.
+- **Otherwise observe**: small, asymptomatic, stable aneurysms. **Indications remain controversial.**
+
+### Renal Arteriovenous Fistula
+
+- **Two types, congenital and acquired.** **Acquired** (trauma, inflammation, surgery, **percutaneous biopsy**) accounts for the rising incidence. **Congenital is <25% of all** arteriovenous fistulas (AVFs); only small numbers are reported.
+- **Congenital AVF = cirsoid**: multiple communications between main or segmental arteries and veins. It is present at birth, or from a congenital aneurysm eroding into a vein.
+- **Presents in the third or fourth decade despite being congenital. Females 3:1; right slightly more often.**
+- **Site**: **upper pole about 45%**, mid 30%, lower 25%.
+- **Clinical picture follows the shunt**:
+  - **loud bruit in about 75%**;
+  - **renin-mediated hypertension about 50%** (distal ischaemia);
+  - **increased venous return and high output → left ventricular hypertrophy and high-output cardiac failure in about 50%**;
+  - **haematuria >75%** (proximity to the collecting system);
+  - pain possible; **mass rarely palpable (about 10%)**.
+- **Diagnosis**:
+  - 3-D Doppler and MRA are accurate and non-invasive;
+  - **selective renal arteriography or digital subtraction angiography is definitive**;
+  - **pathognomonic of arteriovenous malformation (AVM)**: **cirsoid, tortuous channels, prompt venous filling, enlarged renal (± gonadal) vein**.
+
+<p class="tcap">Congenital vs acquired renal arteriovenous fistula</p>
+
+| | **Congenital AVF** | **Acquired AVF** |
+|---|---|---|
+| Share | <25% | Majority, rising |
+| Cause | Present at birth or aneurysm erosion | Biopsy, trauma, surgery, inflammation |
+| Natural history | **Rarely resolves**; progressive cardiovascular effects | **May disappear spontaneously within months** |
+| Management | **Usually intervene**: nephrectomy, partial nephrectomy, ligation, **selective embolisation**, balloon occlusion | Often observe |
+
+<div class="kp" markdown="1">
+**KEY POINTS: ANOMALIES OF RENAL VASCULATURE**
+
+- **RAA incidence about 0.1%.**
+- **Most RAAs silent**, especially in children; often found during evaluation of hypertension.
+- **Treat RAA if ruptured or at high rupture risk**: rapid expansion, **>2 cm**, pregnancy or planned pregnancy.
+- **Congenital renal AVMs are rare**, but need treatment when cardiovascular effects (high-output failure) develop.
+</div>
+
+*Concept —* **Renal vascular anomalies matter through two mechanisms only**: **extrinsic compression of the collecting system** (multiple, aberrant and crossing vessels) and **haemodynamic effects** (renin-mediated hypertension from distal ischaemia, and high-output failure from shunting). Treatment is driven by rupture risk and cardiovascular consequence, not by the anatomy alone.
+{: .concept}
+
+## ANOMALIES OF THE RENAL COLLECTING SYSTEM
+
+### Bifid Pelvis
+
+- **About 10% of normal pelves are bifid**: the pelvis divides into two major calyces at, or just inside, the renal sinus. It is a **normal variant**. **Triplication is extremely rare** (Fig. 49.23: split sinus echo; VUR into bifid pelves).
+
+### Calyceal Diverticulum
+
+- **Cystic intrarenal cavity lined by transitional epithelium, communicating with a calyx (or less often the pelvis) through a narrow isthmus.**
+- **About 4.5 per 1000**; **same in children and adults** → **congenital** origin favoured. No side or sex preference.
+
+<p class="tcap">Calyceal diverticulum — type I vs type II</p>
+
+| | **Type I** | **Type II** |
+|---|---|---|
+| Frequency | **Commoner** | Less common |
+| Communicates with | **Calyx (upper, occasionally lower pole)** | **Renal pelvis** |
+| Size and symptoms | Small, usually asymptomatic | **Larger, tend to be symptomatic** |
+
+- **Aetiology**:
+  - **congenital**: **persistence of third- and fourth-generation ureteral branches** (normally degenerating) at the **5-mm stage**;
+  - **acquired**: cortical abscess draining into a calyx (calyceal tubular backflow of infected urine); obstruction by stone or infection; infundibular stenosis with fibrosis; trauma; achalasia or spasm of a putative minor-calyx sphincter; VUR.
+- **Natural history**: small ones are incidental. **Trapped urine → progressive enlargement → stasis complications**: infection, **milk of calcium**, true stones.
+- **Stones in almost 40%** → haematuria, pain, UTI.
+- **Diagnosis**:
+  - suggested by ultrasound; **confirmed by CT or MRU** (delayed images show **contrast pooling** in the cavity);
+  - **Ultrasound of milk of calcium** shows **layering** — clear fluid above, echodense non-shadowing debris below — that **shifts with position**;
+  - retrograde pyelography maps anatomy before intervention (Fig. 49.24).
+- **Management**:
+  - **asymptomatic → no treatment; periodic ultrasound**;
+  - **a substantial minority come to treatment**, typically after **febrile UTI**.
+- **Operate if**: **enlargement with pain or infection, abscess, urosepsis, symptomatic stones.**
+
+<p class="tcap">Calyceal diverticulum — interventional options</p>
+
+| Approach | Technique | Note |
+|---|---|---|
+| **Ureteroscopic** | Enlarge the diverticular neck and remove stones; or ablate the cavity | Ablation lowers recurrence |
+| **Percutaneous** | Ablate the communication and **fulgurate the lining** | Favourable long-term results |
+| **Laparoscopic** | **Marsupialise and fulgurate the epithelium** | Increasingly used as paediatric equipment has improved |
+
+### Hydrocalycosis
+
+- **Rare cystic dilation of a major calyx *with* a demonstrable connection to the pelvis.**
+- **Causes**:
+  - **upper infundibular obstruction by vessels or stenosis**;
+  - infundibular cicatrisation (infection, trauma, idiopathic);
+  - **achalasia of a muscular ring** at the infundibulopelvic junction (functional obstruction).
+- **Mild upper-calyceal dilation from partial obstruction is common and usually asymptomatic.**
+- **Presents with**: upper abdominal or flank pain (commonest), prenatal detection, mass, or stasis (haematuria, UTI).
+- **Differential diagnosis**: generalised calyceal dilation from ureteric obstruction; calyceal clubbing from recurrent pyelonephritis or papillary necrosis; **tuberculosis**; large calyceal diverticulum; **megacalycosis**.
+
+### Megacalycosis
+
+- **Non-obstructive enlargement of calyces due to malformed renal papillae** (Fig. 49.25).
+- **Anatomy**:
+  - calyces dilated, malformed, often **increased in number (12–20)**;
+  - **pelvis not dilated or thickened; PUJ normally funnelled**;
+  - **cortex normal thickness; medulla underdeveloped — falciform (crescentic) rather than pyramidal**;
+  - **collecting tubules not dilated but short, and oriented transversely**.
+- **Function**: **mild concentrating defect only**. Acid excretion, GFR, renal plasma flow and isotope uptake are normal. **Diuretic renogram normal (uptake and washout).**
+- **Congenital (diagnosed prenatally). Male 6:1; reported only in White patients.**
+- **Laterality differs by sex**: **bilateral almost exclusively in males**; **segmental unilateral only in females**.
+- Increased calyceal number may be **an aborted UB branching response to obstruction**.
+- **Presentation**: children via UTI or other anomalies; **adults via haematuria from stones**.
+- **Pitfall**: may coexist with **segmental dilation of the distal third of the ureter** (separated by normal-calibre ureter). **It mimics PUJ or VUJ obstruction or infundibular stenosis.**
+- **Non-progressive; function preserved on long-term follow-up** → no surgery.
+
+### Infundibulopelvic Stenosis
+
+- **Probably the link between cystic dysplasia and the grossly hydronephrotic kidney.** It spans dysmorphic kidneys with infundibular or infundibulopelvic stenosis ± **dysplasia** (Fig. 49.26). It reflects **extensive pyelocalyceal dysgenesis with preserved function** (Fig. 49.26: severe calyceal dilation without pelvic dilation; small, atrophic contralateral pelvis).
+- **Usually bilateral; commonly with VUR** → an abnormality of the **whole UB**.
+- **Presentation**: UTI, hypertension, flank pain, or an asymptomatic child with multiple anomalies. **Can occur opposite an MCDK.**
+- **Function normal or slightly reduced despite gross dysmorphism.**
+- **Longest follow-up series**:
+  - **nearly all had bilateral disease**: bilateral stenosis, contralateral dysplasia or contralateral URA;
+  - **over a third developed renal insufficiency or ESRD, all with bilateral anomalies**;
+  - biopsies showed **dysplasia proximal to the stenoses plus glomerulosclerosis elsewhere** → **hyperfiltration injury** from reduced functional mass.
+- **Management**:
+  - **monitor**: baseline and **yearly creatinine, estimated GFR and urinalysis**;
+  - **prevent hyperfiltration when function declines**: **ACE inhibitors, calcium channel blockers, dietary protein restriction**;
+  - **surgery only when obstruction is shown to harm function**. Consider endoscopic or percutaneous surgery for increasing hydronephrosis. Open options include calicocalicostomy and lower-pole ureterocalicostomy, **planned with 3-D MRU modelling**.
+
+<p class="tcap">Collecting-system anomalies compared</p>
+
+| | **Calyceal diverticulum** | **Hydrocalycosis** | **Megacalycosis** | **Infundibulopelvic stenosis** |
+|---|---|---|---|---|
+| Lesion | Transitional-lined cavity via a narrow neck | Dilated major calyx | Dilated, **increased** calyces | Stenotic infundibula ± pelvis |
+| Obstruction | Stasis in the cavity | **Yes (infundibular)** | **No** | Variable; ± dysplasia |
+| Pelvis | Normal | Normal | **Normal, not dilated** | Small or atrophic |
+| Laterality and sex | No preference | — | **Male 6:1**; bilateral in males | **Usually bilateral** |
+| Function | Normal | Normal | **Normal renogram** | Normal early; **ESRD risk if bilateral** |
+| Key investigation | **CT or MRU (delayed pooling)** | Imaging with connection shown | **Diuretic renogram normal** | Serial creatinine and GFR |
+| Treat | Symptoms or stones | Symptoms | **None** | Only if obstruction impairs function |
+
+<div class="kp" markdown="1">
+**KEY POINTS: ANOMALIES OF THE RENAL COLLECTING SYSTEM**
+
+- **Calyceal diverticulum**: transitional-lined intrarenal cavity joined to a calyx (less often the pelvis) by a narrow isthmus.
+- **Best diagnosed by CT or MRU.**
+- **Endoscopic and laparoscopic treatment are both effective** for symptomatic diverticula.
+- **Megacalycosis**: congenital, **non-obstructive** calyceal enlargement from malformed papillae.
+- **Infundibulopelvic stenosis**: usually **bilateral**; function normal or only slightly affected despite dysmorphism.
+</div>
+
+*Concept —* **The collecting-system anomalies divide on one question: is there obstruction?** Dilatation without obstruction (bifid pelvis, megacalycosis) needs no treatment. Stasis or obstruction (diverticulum, hydrocalycosis) causes stones and infection and is treated for symptoms. Infundibulopelvic stenosis threatens function only through bilateral dysplasia and hyperfiltration.
+{: .concept}
