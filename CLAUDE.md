@@ -29,10 +29,11 @@ Each question is answered in this structure:
 > - 3–4 short one-line points (numbers, eponyms, trials)
 ```
 
-- **Length: "half length".** Body (excluding key points box): **LAQ ≈ 650–750 words, SAQ ≈ 260–300 words.** The user reads at about 40–45 words a minute, so keep to these budgets.
+- **Length: "half length".** Whole answer including heading and key points box: **LAQ ≈ 650–700 words, SAQ ≈ 270–300 words**; a 4-paper set ≈ 2,900–3,000 words per paper so that answers + revision sheets fit about 5 hours. The user reads at about 40–45 words a minute, so keep to these budgets.
 - **Clear sentences where needed.** Use short, plain sentences wherever a bare bullet would be cryptic. No chains of arrows/slashes/symbols. Arrows only in flowcharts or simple cause → effect.
 - **Keep all major subheadings** an examiner expects for the topic.
 - **Keep the concepts.** Briefly explain mechanisms, principles and rationale (why/how), so the candidate can write from understanding. Cut trivia (minor history dates, brand names, secondary trials, rare causes), not concepts.
+- **Touch on everything relevant (user requirement).** For each question, every subtopic in the matching reference chapter(s) that is relevant to the question must appear at least as a brief mention. Core items get a short explanation; secondary items get a one-phrase mention (e.g. an "**Also know:** a; b; c" line). Only pure trivia may be omitted.
 - **Exam-oriented content only**: what a candidate would write and an examiner would mark: definitions, classifications/grading, key cut-offs and doses, indications/contraindications, management steps, main complications, 1–3 landmark trials, current guideline position, 2–3 recent advances.
 - **Acronyms**: spell out every acronym in full at its first use in EACH answer, e.g. "GFR (glomerular filtration rate)". Common units (mL, mg, mmHg, Fr, °C) need no expansion.
 - Separate questions with `---`. Start each paper file with `# <Paper title>` and a numbered contents list.
