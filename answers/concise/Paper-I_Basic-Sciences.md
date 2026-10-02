@@ -16,12 +16,12 @@
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- Formation = glomerular filtration → tubular reabsorption → secretion → concentration/dilution. Transport = active peristalsis of pelvis/ureter → low-pressure, compliant bladder.
+- Formation = filtration → reabsorption → secretion → concentration/dilution; transport = active pelvi-ureteric peristalsis → compliant bladder.
 
 ### A. Renal blood flow (RBF)
 - RBF ≈ **20–25% of cardiac output (CO)** (~1–1.2 L/min); renal plasma flow (RPF) ~600 mL/min; cortex ~90%, medulla <10% (protects gradient; hypoxia-prone).
 - **Autoregulation** keeps RBF and GFR (glomerular filtration rate) constant over mean arterial pressure **80–180 mmHg**:
-  - Myogenic – afferent contracts on stretch.
+  - Myogenic – afferent stretch → contraction.
   - **Tubuloglomerular feedback (TGF)** – ↑NaCl at macula densa → adenosine → afferent constriction (↓renin).
 - Constrictors: sympathetic, angiotensin II (Ang II; efferent > afferent), endothelin, thromboxane. Dilators: prostaglandins (PGs), nitric oxide (NO), atrial natriuretic peptide (ANP). Non-steroidal anti-inflammatory drugs (NSAIDs) remove PG protection in low flow.
 
@@ -271,6 +271,7 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, throm
 | 1877–79 | Nitze | Cystoscope with distal illumination, lens system |
 | **1901** | **Kelling** | Insufflated abdomen of a **dog** |
 | **1910** | **Jacobaeus** | First human series; coined "laparoscopy" |
+| 1911 | Bernheim | First in USA ("organoscopy") |
 | 1924 | Zollikofer | CO₂ insufflation |
 | **1938** | **Veress** | Spring-loaded needle |
 | 1950s | **Hopkins** | **Rod-lens** (with Storz cold light) |
