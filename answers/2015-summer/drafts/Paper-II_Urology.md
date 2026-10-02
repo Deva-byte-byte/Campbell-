@@ -22,12 +22,12 @@
 ### Evaluation
 - **IPSS (International Prostate Symptom Score)** 0–35: mild 0–7, moderate 8–19, severe 20–35.
 - DRE (digital rectal examination), urinalysis, **PSA (prostate-specific antigen)**, frequency-volume chart, Qmax (maximum flow), PVR (post-void residual); PVR >300 mL is managed as chronic retention.
-- Measure prostate volume before surgery; it decides the modality (AUA (American Urological Association)). Pressure-flow study if unclear.
+- Measure prostate volume before surgery (AUA (American Urological Association)); pressure-flow study if unclear.
 
 ### Medical management
 | Option | Key facts |
 |---|---|
-| **Watchful waiting** | Mild or non-bothersome LUTS; lifestyle advice |
+| **Watchful waiting** | Mild LUTS; lifestyle advice |
 | **α1-blockers** (tamsulosin 0.4 mg, alfuzosin 10 mg, silodosin 8 mg) | First line; act within days; no effect on gland size, AUR (acute urinary retention) or surgery. Silodosin causes most anejaculation |
 | **5-ARIs (5α-reductase inhibitors)** (finasteride 5 mg, dutasteride 0.5 mg) | For glands >30–40 mL or PSA >1.5 ng/mL. Shrink the gland about 18–25% (maximal at 6 months), halve PSA. PLESS (Proscar Long-Term Efficacy and Safety Study): AUR or surgery down 51% |
 | **Combination** | For high-risk men. The α-blocker gives early relief; the 5-ARI prevents hard events |
@@ -37,7 +37,7 @@
 
 - **MTOPS (Medical Therapy of Prostatic Symptoms)**: progression fell 39% (doxazosin), 34% (finasteride) and **66% (combination)**; only finasteride or combination reduced AUR and surgery.
 - **CombAT (Combination of Avodart and Tamsulosin)**: combination cut AUR or surgery by about 66% versus tamsulosin.
-- **Side effects**: α-blockers cause dizziness and **IFIS (intraoperative floppy iris syndrome)**, which persists after stopping, so defer them before cataract surgery. 5-ARIs: low libido, ED, gynaecomastia.
+- **Side effects**: α-blockers cause dizziness and **IFIS (intraoperative floppy iris syndrome)**, which persists after stopping, so avoid starting them before planned cataract surgery. 5-ARIs: low libido, ED, gynaecomastia.
 - **AUR**: catheterise, then TWOC (trial without catheter) on an α-blocker (ALFAUR (Alfuzosin in Acute Urinary Retention): success 62% vs 48%).
 - **Also know:** phytotherapy (saw palmetto) not recommended by guidelines; α-blocker withdrawable after 6 months of combination (SMART (Symptoms Management After Reducing Therapy) trial).
 
@@ -55,8 +55,9 @@
 | **PUL (prostatic urethral lift), Rezūm (water vapour)** | 30–80 mL (PUL: no median lobe) | Preserve sexual function; higher retreatment |
 
 - **TUR syndrome** (monopolar TURP): hypo-osmolar glycine or water is absorbed through open sinuses, causing dilutional hyponatraemia, fluid overload and confusion. Risk rises with gland >45 mL and resection >90 minutes. Treat with diuretics and, if severe, 3% saline, correcting slowly. **Bipolar TURP** uses saline and eliminates it.
+- **Complications**: bleeding, stricture, bladder neck contracture, retreatment.
 - **GOLIATH**: 180 W PVP non-inferior to TURP. **WATER (Waterjet Ablation Therapy for Endoscopic Resection)**: Aquablation non-inferior, with less retrograde ejaculation (10% vs 36%).
-- **Also know:** TUVP (vaporization); iTind temporary implant (25–75 mL); TUMT (microwave) dropped as legacy; PAE (prostate artery embolisation); Optilume paclitaxel-coated balloon (2023).
+- **Also know:** TUVP (transurethral vaporization); iTind temporary implant (25–75 mL); TUMT (transurethral microwave therapy) dropped as legacy; PAE (prostate artery embolisation); Optilume paclitaxel-coated balloon (2023).
 
 ### Follow-up
 - Reassess at 4–12 weeks (α-blocker), 3–6 months (5-ARI), then yearly.
@@ -74,7 +75,7 @@
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- Urolithiasis is a chronic metabolic disease; up to 50% recur within 5–10 years without prevention. ROKS (Recurrence of Kidney Stone) nomogram estimates individual risk.
+- A chronic metabolic disease: up to 50% recur within 5–10 years. The ROKS (Recurrence of Kidney Stone) nomogram estimates individual risk.
 
 ### Physicochemical basis
 - Stones form from **supersaturated** urine: nucleation, growth, aggregation and retention (often on **Randall plaque**).
@@ -85,11 +86,11 @@
 - **Screening evaluation** for every first-time former (AUA (American Urological Association), EAU (European Association of Urology)); **24-h urine** for high-risk and recurrent formers: children, family history, solitary kidney, uric acid, cystine or infection stones, GI (gastrointestinal) disease or bypass, hyperparathyroidism, RTA (renal tubular acidosis), sarcoidosis, gout, metabolic syndrome.
 
 ### Screening evaluation
-- **History**: diet, bowel disease, lithogenic drugs (calcium, vitamins C and D, acetazolamide, topiramate, steroids, triamterene, indinavir).
+- **History**: diet, bowel disease, drugs (calcium, vitamins C and D, acetazolamide, topiramate, triamterene, indinavir).
 - **NCCT (non-contrast computed tomography)**: burden; uric acid usually <500 HU (Hounsfield units).
 - **Serum**: creatinine, electrolytes, calcium, uric acid, bicarbonate; PTH (parathyroid hormone) if calcium is high-normal.
 - **Urine**: pH, crystals (hexagonal = cystine), culture.
-- **Stone analysis** (infrared, X-ray diffraction): uric acid, cystine and struvite each point to a cause.
+- **Stone analysis** (infrared, X-ray diffraction).
 
 ### 24-h urine
 - One or two collections on usual diet, ≥4 weeks after the episode, stone-free and infection-free; adequacy by creatinine (men ~20–25, women ~15–20 mg/kg/day).
@@ -97,7 +98,7 @@
 | Parameter | Desirable per day | Abnormality and causes |
 |---|---|---|
 | Volume | **>2.5 L** | Low volume: commonest |
-| Calcium | <250 mg women, <300 mg men, or <4 mg/kg | **Hypercalciuria** (commonest): absorptive (PTH suppressed), renal leak (PTH high, serum calcium normal), resorptive (primary hyperparathyroidism) |
+| Calcium | <250 mg women, <300 mg men, or <4 mg/kg | **Hypercalciuria**: absorptive (PTH suppressed), renal leak (PTH high, serum calcium normal), resorptive (primary hyperparathyroidism) |
 | Oxalate | **<40 mg** | Dietary; **enteric** (fat malabsorption, gastric bypass: fat binds calcium, freeing oxalate; often 60–70 mg); **primary** (hepatic, often >100 mg, childhood) |
 | Citrate | **>320 mg** | Distal RTA, diarrhoea, hypokalaemia, high animal protein |
 | Uric acid | <600 mg (labs: <750 women, <800 men) | Hyperuricosuria promotes calcium oxalate stones |
@@ -126,7 +127,7 @@ Stone episode → screening evaluation
 | Primary hyperparathyroidism | **Parathyroidectomy** |
 | Hypocitraturia, distal RTA | **Potassium citrate** 30–60 mEq/day |
 | Enteric hyperoxaluria | Low fat and oxalate; **calcium with meals**; magnesium |
-| Primary hyperoxaluria type 1 | Pyridoxine, **lumasiran** (RNAi (RNA interference)); liver ± kidney transplant |
+| Primary hyperoxaluria type 1 | Pyridoxine, **lumasiran** (RNAi (ribonucleic acid interference)); liver ± kidney transplant |
 | Hyperuricosuria | **Allopurinol** 300 mg/day |
 | Uric acid stones | **Potassium citrate** to pH 6.0–6.5 |
 | Cystinuria | Urine ≥3 L/day; pH **7.0–7.5**; **tiopronin** |
@@ -136,7 +137,7 @@ Stone episode → screening evaluation
 
 ### Special groups and follow-up
 - **Children**: all evaluated (spot ratios if not toilet-trained; consider Dent disease, monogenic causes). **Pregnancy**: defer 24-h urine (physiological hypercalciuria).
-- Repeat 24-h urine within 6 months, then yearly; re-analyse new stones. Adherence is poor; citrus juices are only adjuncts.
+- Follow-up as in the flowchart; re-analyse new stones. Adherence is poor; citrus juices are only adjuncts.
 
 **Diagram to draw:** Supersaturation zones; evaluation algorithm.
 
@@ -153,11 +154,11 @@ Stone episode → screening evaluation
 ### Definition and classification
 - Full or partial erection **≥4 hours** beyond, or unrelated to, sexual stimulation (AUA/SMSNA (American Urological Association/Sexual Medicine Society of North America)).
 - **Ischaemic** (95%; veno-occlusive, rigid, painful, **emergency**); **non-ischaemic** (arterial fistula after trauma, partly rigid, painless); **stuttering** (recurrent ischaemic episodes, typically SCD (sickle cell disease)).
-- **Causes**: ICI (intracavernosal injection), SCD (29–42% of affected males), α-blockers, trazodone and antipsychotics, cocaine, leukaemia, metastases.
+- **Causes**: ICI (intracavernosal injection), SCD (29–42% of males), α-blockers, trazodone, antipsychotics, cocaine, leukaemia, metastases.
 
 ### Diagnosis
 - **Corporal blood gas**: ischaemic is dark, pO2 <30 mmHg, pCO2 >60 mmHg, pH <7.25; non-ischaemic resembles arterial blood.
-- Colour Doppler if equivocal; blood count, haemoglobin electrophoresis, toxicology.
+- Colour Doppler if equivocal; blood count, haemoglobin electrophoresis.
 
 ### Ischaemic priapism
 ```
@@ -170,7 +171,7 @@ Penile block → aspiration ± irrigation
 - **Distal shunts**: Winter, Ebbehoj, T-shunt, Al-Ghorab; corporal snake **tunnelling**. **Proximal**: Quackels, Grayhack; penoscrotal decompression.
 - **Duration predicts ED (erectile dysfunction)**: 0% ≤12 h, 22% at 12–24 h, 56% at 24–36 h, 100% >36 h.
 - **Early prosthesis** gives less shortening than delayed insertion.
-- Oral agents, hydration and exchange transfusion are adjuncts only.
+- Oral agents and hydration are adjuncts only.
 
 ### Non-ischaemic priapism
 - Observe (about 60% resolve); reassess at 4 weeks. Then **selective embolisation**; repeat it, rather than surgery, for recurrence.
@@ -178,7 +179,7 @@ Penile block → aspiration ± irrigation
 ### Stuttering priapism
 - Prophylaxis: daily PDE5i (phosphodiesterase-5 inhibitor, which resets PDE5 regulation), pseudoephedrine, self-injected phenylephrine; hormonal agents (GnRH (gonadotropin-releasing hormone) agonists, antiandrogens) at the cost of libido.
 
-**Diagram to draw:** Penile cross-section with distal and proximal shunts.
+**Diagram to draw:** Distal and proximal shunt sites.
 
 > **Key points to remember:**
 > - Ischaemic: pO2 <30, pCO2 >60, pH <7.25; phenylephrine 1 mL q3–5 min up to 1 h.
@@ -202,23 +203,23 @@ Penile block → aspiration ± irrigation
 | Potassium | Low | Low | **High** |
 | Urine citrate | **Profoundly low** | Near normal | – |
 | Stones | **Up to 70%; calcium phosphate, nephrocalcinosis** | Uncommon | Uncommon |
-| Causes | Sjögren, lupus, inherited | Fanconi syndrome | Diabetic nephropathy, obstruction |
+| Causes | Sjögren, lupus, inherited | Fanconi | Diabetes, obstruction |
 | Treatment | **Potassium citrate** | High-dose alkali plus potassium | Fludrocortisone |
 
 - **Why distal RTA forms stones**: fixed alkaline urine, profound hypocitraturia (acidosis increases citrate reabsorption) and hypercalciuria from bone buffering.
-- **Incomplete distal RTA**: normal serum bicarbonate, but urine cannot be acidified below 5.5 after an acid load.
+- **Incomplete distal RTA**: normal bicarbonate, but urine cannot be acidified below 5.5.
 
 ### Diagnosis
 - **UAG (urine anion gap) = (Na + K) – Cl** reflects urinary ammonium: negative in GI (gastrointestinal) loss, positive in renal causes.
 - **Ammonium chloride load**: urine pH fails to fall below 5.5 in distal RTA.
 
 ### Urological relevance
-- Obstruction causes hyperkalaemic distal RTA, reversible after relief.
+- Obstruction causes hyperkalaemic distal RTA, reversible by relief.
 - Topiramate and acetazolamide mimic RTA (alkaline urine, low citrate, calcium phosphate stones).
 - Potassium citrate beats sodium alkali, which raises calcium excretion.
-- **Also know:** CKD (chronic kidney disease) acidosis; amiloride and trimethoprim cause hyperkalaemic distal RTA; mixed type (carbonic anhydrase II deficiency); medullary sponge kidney link; laxative abuse gives ammonium urate stones; inherited forms (recessive with deafness); growth failure in children.
+- **Also know:** CKD (chronic kidney disease) acidosis; amiloride and trimethoprim cause hyperkalaemic distal RTA; mixed type (carbonic anhydrase II deficiency); medullary sponge kidney; laxative abuse (ammonium urate stones); inherited forms (recessive with deafness); growth failure in children.
 
-**Diagram to draw:** Nephron with defect sites for types 1, 2 and 4.
+**Diagram to draw:** Nephron with defect sites.
 
 > **Key points to remember:**
 > - Type 1: urine pH >6, hypokalaemia, hypocitraturia, calcium phosphate stones (up to 70%).
@@ -231,11 +232,11 @@ Penile block → aspiration ± irrigation
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **Retropubic extravesical simple prostatectomy** (Millin, 1945): the adenoma is enucleated through a transverse anterior capsulotomy without opening the bladder. The plane is the surgical capsule (compressed peripheral zone).
+- **Retropubic extravesical simple prostatectomy** (Millin, 1945): enucleation through a transverse anterior capsulotomy without opening the bladder. The plane is the surgical capsule (compressed peripheral zone).
 
 ### Indications and work-up
 - LUTS (lower urinary tract symptoms) or obstructive complications with gland **>80–100 g**, or when lithotomy is impossible. Prefer suprapubic (Freyer) for a large median lobe, diverticulum or stones.
-- Work-up: exclude cancer (PSA (prostate-specific antigen), MRI), TRUS (transrectal ultrasound) volume, cystoscopy, urodynamics if needed.
+- Work-up: exclude cancer (PSA (prostate-specific antigen), MRI (magnetic resonance imaging)), TRUS (transrectal ultrasound) volume, cystoscopy, ± urodynamics.
 
 ### Steps
 1. Extraperitoneal approach to the **space of Retzius**; control the dorsal venous complex.
@@ -247,10 +248,10 @@ Penile block → aspiration ± irrigation
 7. 22 Fr three-way catheter, **watertight capsule closure**, drain.
 
 ### Millin versus Freyer
-- Millin: bladder intact, apex divided under vision, but venous bleeding and poor intravesical access. Freyer: bladder opened, ideal for intravesical disease.
+- Millin: bladder intact, apex under vision, but venous bleeding and poor intravesical access. Freyer: bladder opened, suits intravesical disease.
 
 ### Complications
-- Haemorrhage (transfusion <5%), urine leak, infection, ureteric injury, bladder neck contracture (2–6%), thromboembolism.
+- Bleeding (transfusion <5%), urine leak, infection, ureteric injury, bladder neck contracture (2–6%), thromboembolism.
 - Retrograde ejaculation 80–90%; ED (erectile dysfunction) 3–5%; incontinence rare.
 - **Also know:** bleeding control by catheter traction, Malament purse-string or O'Conor capsular plication; vesicocapsular variant; versus TURP (transurethral resection of prostate): lower retreatment, no TUR syndrome, longer stay.
 
@@ -270,7 +271,7 @@ Penile block → aspiration ± irrigation
 **Type:** SAQ (10 marks)
 
 ### Principles
-- Devices cut, coagulate and seal by denaturing protein. Electrosurgery uses ~500 kHz radiofrequency current, too fast to stimulate nerve or muscle.
+- Devices seal by denaturing protein. Electrosurgery uses ~500 kHz current, too fast to stimulate nerve or muscle.
 - **Cut**: continuous low-voltage waveform boils cell water. **Coagulation**: interrupted high-voltage waveform desiccates, spreading deeper. Also blend and spray (fulguration).
 
 ### Types
@@ -286,13 +287,12 @@ Penile block → aspiration ± irrigation
 - **Also know:** lasers (CO2, KTP (potassium titanyl phosphate), holmium), now rarely used; laparoscopic RFA (radiofrequency ablation, target 60 °C) and cryoablation (below −40 °C, two freeze–thaw cycles) for small renal masses.
 
 ### Electrosurgical injury
-- Unseen injuries present late as bowel perforation.
+- Unseen injuries present late as perforation.
 1. **Insulation failure**.
 2. **Direct coupling**: active electrode touches another metal instrument.
 3. **Capacitive coupling**: current induced through intact insulation; avoid hybrid trocars (metal cannula, plastic anchor).
 4. **Thermal spread** to ureter, nerves or bowel.
-5. **Return pad burns** when contact shrinks.
-6. **Surgical fire**: oxidiser, fuel and ignition together.
+5. **Return pad burns**; 6. **surgical fire**.
 
 ### Safety
 - **AEM (active electrode monitoring)** detects insulation failure and capacitive coupling; **REM (return electrode monitoring)** detects poor pad contact.
@@ -318,14 +318,14 @@ Penile block → aspiration ± irrigation
 |---|---|---|---|
 | **Autologous vein** | Saphenous, gonadal | Resists infection; small vessels | Limited length |
 | **Autologous artery** | Internal iliac, Carrel aortic patch | Renal arteries | Limited supply |
-| **Biological** | Bovine pericardium, cadaveric vessel | Pliable patch | Cost |
+| **Biological** | Bovine pericardium | Pliable patch | Cost |
 | **Synthetic** | **PTFE (polytetrafluoroethylene)**, Dacron | Off-the-shelf, large calibre | Infection; venous grafts thrombose |
 
 ### Applications
 1. **Renal transplantation**: multiple arteries (18–43%) joined by Carrel patch or bench reconstruction, preserving the lower pole artery (supplies the ureter). Short right renal vein extended with donor IVC (inferior vena cava), external iliac or spiral gonadal vein. Transplant artery stenosis: angioplasty first, graft if it fails.
 2. **RCC (renal cell carcinoma) with IVC thrombus**: patch cavoplasty if residual lumen would be <50%; **PTFE replacement (16–20 mm)** if the wall is invaded circumferentially.
 3. **Post-chemotherapy RPLND (retroperitoneal lymph node dissection)**: IVC: repair if narrowing <25%, patch or graft if more; ligation tolerated with collaterals. Aorta: about 1% need PTFE or Dacron replacement; never ligated.
-4. **Renovascular surgery**: aortorenal bypass with saphenous vein or internal iliac artery.
+4. **Renovascular surgery**: aortorenal bypass (saphenous vein, internal iliac artery).
 5. **Dialysis access**: PTFE AV (arteriovenous) graft.
 - **Also know:** retroperitoneal sarcoma caval resection; superior mesenteric vein injury (vein graft); bland infrarenal thrombus (filter or caval interruption).
 
@@ -335,7 +335,7 @@ Penile block → aspiration ± irrigation
 ### Complications
 - Thrombosis (caval grafts 10–40%), stenosis, infection (often needing removal), enteric or urinary fistula.
 
-**Diagram to draw:** Bench renal artery reconstruction.
+**Diagram to draw:** Bench arterial reconstruction.
 
 > **Key points to remember:**
 > - Autologous for small vessels/contaminated fields; PTFE/Dacron for IVC/aorta.
@@ -348,8 +348,8 @@ Penile block → aspiration ± irrigation
 **Type:** SAQ (10 marks)
 
 ### Physics and technique
-- Piezoelectric crystals convert electricity to sound and back; higher frequency gives better resolution, less penetration.
-- **6–10 MHz** end-fire, side-fire or biplane probes; left lateral position, DRE (digital rectal examination) first, transverse and sagittal scans.
+- Piezoelectric crystals; higher frequency gives better resolution, less penetration.
+- **6–10 MHz** end-fire, side-fire or biplane probes; left lateral position after DRE (digital rectal examination).
 
 ### Sonographic anatomy
 - Zones are not seen separately: the posterior **peripheral zone** (~70% of cancers) is homogeneous and echogenic; the **transition zone** (BPH (benign prostatic hyperplasia)) heterogeneous. Seminal vesicles are about 4.5–5.5 × 2 cm.
@@ -363,19 +363,19 @@ Penile block → aspiration ± irrigation
 - **Cysts**: midline Müllerian; off-midline ejaculatory duct cyst (azoospermia).
 
 ### Indications
-- Biopsy guidance; volume before BPH surgery or brachytherapy; azoospermia work-up; abscess drainage.
+- Biopsy; volume before BPH surgery or brachytherapy; azoospermia; abscess drainage.
 
 ### TRUS (transrectal ultrasound)-guided biopsy
 - **12-core** systematic biopsy (sextant is inadequate) under periprostatic lidocaine block.
-- Contraindications: coagulopathy, acute prostatitis, severe immunosuppression. Continue low-dose aspirin; stop warfarin or clopidogrel 5–7 days before.
+- Contraindications: coagulopathy, acute prostatitis, severe immunosuppression. Continue low-dose aspirin; stop warfarin or clopidogrel 5–7 days.
 - Complications: haematuria, haematospermia, rectal bleeding, **sepsis** (0.3–3%) from FQ (fluoroquinolone)-resistant E. coli; targeted or augmented prophylaxis.
 
 ### Current shift
 - **Transperineal biopsy** preferred by EAU (European Association of Urology) for lower infection risk.
-- **MRI-first pathway**: PROMIS (2017): mpMRI (multiparametric MRI) sensitivity 93% versus 48% for TRUS biopsy. PRECISION (2018): MRI-targeted biopsy found more significant cancer (38% vs 26%). Targeting by cognitive, software fusion or in-bore methods.
+- **MRI (magnetic resonance imaging)-first pathway**: PROMIS (2017): mpMRI (multiparametric MRI) sensitivity 93% versus 48% for TRUS biopsy. PRECISION (2018): MRI-targeted biopsy found more significant cancer (38% vs 26%). Targeting: cognitive, fusion or in-bore.
 - **Also know:** colour Doppler, contrast-enhanced TRUS, elastography; micro-ultrasound (29 MHz) comparable to mpMRI; saturation biopsy after negative biopsies; treated glands become diffusely hypoechoic.
 
-**Diagram to draw:** Transverse and sagittal views; 12-core template.
+**Diagram to draw:** 12-core biopsy template.
 
 > **Key points to remember:**
 > - Probe 6–10 MHz; volume = 0.52 × T × AP × L; PSAD >0.15 suspicious.
