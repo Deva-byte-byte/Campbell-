@@ -3,6 +3,31 @@
 Uploaded chapter notes (Campbell-Walsh-Wein based). Text extracts in `text/` for searching.
 
 
+## Chapter 01 - Personal and Professional Development of the Urologist - Chapter Notes
+- PDF: `Chapter 01 - Personal and Professional Development of the Urologist - Chapter Notes.pdf`
+- Sections: Personal Development; Fig. 1.1 Cellular Model Of Life — The Cycles; Phases Of The Urology Career Cycle; Burnout Prevention Strategies; Development Of Professional Skills, Knowledge And Behaviours; The Four Domains Of Learning; Fig. 1.2 Bloom'S Taxonomy — Cognitive Domain (2001); Fig. 1.3 Understanding Technical Skills Acquisition; Fig. 1.4 Teamstepps Concepts; Krathwohl'S Taxonomy Of The Affective Domain; Who Ensures A Urologist'S Competence; Organisational Support Of Professionalism; Patient Versus Coworker Reporting Systems
+
+
+## Chapter 02 - Evaluation of the Urologic Patient - Chapter Notes
+- PDF: `Chapter 02 - Evaluation of the Urologic Patient - Chapter Notes.pdf`
+- Sections: History; Obstructive Versus Parenchymal Pain; Renal Versus Intraperitoneal Pain; Timing Of Haematuria Within The Stream; Risk-Stratified Evaluation Of Microscopic Haematuria (Aua); Table 2.1 International Prostate Symptom Score; Categories Of Urinary Incontinence; Definitions Of Premature Ejaculation; Table 2.2 Drugs Associated With Urologic Side Effects; Half-Lives Of Common Antithrombotics (Brown Et Al., 2015); Bleeding-Risk Categories Of Urological Procedures; Key Points; Physical Examination; Stigmata Of Systemic Disease On Inspection; Obesity Classes (Centers For Disease Control And Prevention); Terminology; Patient Privacy And Confidentiality; Telemedicine Opportunities And Limitations; Conclusion
+
+
+## Chapter 03 - Indications and Interpretation of Laboratory Testing - Chapter Notes
+- PDF: `Chapter 03 - Indications and Interpretation of Laboratory Testing - Chapter Notes.pdf`
+- Sections: Urinalysis; Paediatric Collection Methods Compared; Table 3.1 Common Causes Of Abnormal Urine Colour; Phosphaturia Versus Pyuria; Biochemical Examination Of Urine (Urine Dipstick); Dipstick Interferences (Consolidated From The Chapter); Specific Gravity: Causes Of Decrease Versus Increase; Renal Tubular Acidosis: Type I Versus Type Ii; Red Urine: Haematuria Versus Pigmenturia; Glomerular Versus Non-Glomerular Haematuria; Table 3.2 Glomerular Disorders In Patients With Glomerular Hematuria; (Ana); Non-Glomerular Medical Haematuria — History Clue To Cause; Glomerular, Tubular And Overflow Proteinuria; Dipstick Versus Sulfosalicylic Acid; Proteinuria By Timing; Conjugated Versus Unconjugated Bilirubin; Leukocyte Esterase And Nitrite Tests; Leucocyte Esterase Versus Nitrite; Low Power Versus High Power; Circular Versus Dysmorphic Erythrocytes; Old Versus Fresh Leucocytes; Epithelial Cells Compared; Casts And Their Significance; Crystals By Urine Ph (With Fig. 3.16 Shapes); Uti.; Urinary Parasites; Key Points; Tumor Markers; Testis Tumour Markers; Adrenal Functional Testing; Qmax Interpretation; Mri.; Summary
+
+
+## Chapter 04 - Basic Principles of Urologic Ultrasonography - Chapter Notes
+- PDF: `Chapter 04 - Basic Principles of Urologic Ultrasonography - Chapter Notes.pdf`
+- Sections: Brief History Of Ultrasound In Urology; Milestones In Urological Ultrasound; Physical Principles; Wave Nomenclature; Axial Versus Lateral Resolution; Mechanisms Of Attenuation; Artifacts; Modes Of Ultrasound; Normal Echogenicity Of Structures; Colour, Spectral And Power Doppler; Real-Time Versus Shear Wave Elastography; Multiparametric Ultrasound Versus Mri; (Adc); Contrast Agents In Ultrasound; Intravenous Versus Intraurinary Contrast; Solid Organ Evaluation; Assessment Of Collecting System And Urinary Space; Documentation And Image Storage; Echogenicity Nomenclature (Liver As The Conventional Benchmark); Patient Safety; Biological Effects Of Diagnostic Ultrasound; Clinical Urologic Ultrasound; Transducer Selection By Application; Cortical Versus Parenchymal Thickness; Volume Formulas; Penile Duplex Doppler After Pharmacostimulation; Young Versus Older Prostate On Trus; Therapeutic Ultrasound Modalities; (Bwl).; Practice Accreditation; Acr Versus Aium Accreditation Areas; Board Certification Versus Practice Accreditation; Key Points
+
+
+## Chapter 05 - Principles of CT and Radiographic Imaging - Chapter Notes
+- PDF: `Chapter 05 - Principles of CT and Radiographic Imaging - Chapter Notes.pdf`
+- Sections: Radiation Biology And Safety; Deterministic Versus Stochastic Effects (Fig. 5.3); Radiation Dose Quantities; Key Points: Radiation Biology And Safety; Radiographic Studies; Key Points: Radiographic Studies; Fluoroscopy; Peak Kilovoltage Versus Tube Current; Guidelines: Imaging After Febrile Uti In Children; Box 5.1 Age-Dependent Bladder Capacity Formulas; Retrograde Urethrogram Versus Vcug; Fluoroscopic Renal Access Techniques; Key Points: Fluoroscopy Studies; Key Points: Fluoroscopy Safety; Computed Tomography; Ct Windows (Fig. 5.12); Effective Doses Cited In This Chapter; Table 5.1 Comparison Of Ct Reconstruction Techniques; Guidelines: First Imaging In Suspected Urolithiasis; Contrast Phases; Adrenal Washout; Renal Mass Enhancement Thresholds; Table 5.3 2019 Bosniak Classification Of Renal Cystic Tumours; Ct Urography Techniques; Extraperitoneal Versus Intraperitoneal Bladder Rupture; Key Points: Computed Tomography; Contrast Media; Hypersensitivity Reactions To Iodinated Contrast; Box 5.2 Premedication In Preparation For Contrast Administration; Contrast-Associated Versus Contrast-Induced Acute Kidney Injury; Key Points: Contrast Media; Artificial Intelligence
+
+
 ## Chapter 06 - Magnetic Resonance Imaging - Chapter Notes
 - PDF: `Chapter 06 - Magnetic Resonance Imaging - Chapter Notes.pdf`
 - Sections: Introduction; Adrenal Magnetic Resonance Imaging; Renal Magnetic Resonance Imaging; Table 6.2 Mri Characteristics Of Renal Masses (Rebuilt); (Tcc); Upper Tract And Lower Tract Mri For Transitional Cell Carcinoma; Prostate Magnetic Resonance Imaging; Dynamic Contrast-Enhanced Time–Intensity Curves (Fig. 6.13); Multiparametric Versus Biparametric Mri; Table 6.3 Pi-Qual Scoring Sheet; Key Points

@@ -1,0 +1,895 @@
+Chapter 3 — Indications and Interpretation of Laboratory Testing
+
+Chapter 3 — Indications and Interpretation of Laboratory
+Testing
+ • Serum, urinary and radiological studies complement examination; knowing when to order each from the
+   history and findings identifies pathology.
+ • Urinalysis is among the commonest laboratory studies, sometimes performed in the office. Dipsticks
+   persist in small clinics and as backup; most urine now runs on semi-automated systems using the same
+   reagents.
+
+URINALYSIS
+ • Fundamental, non-invasive test for almost all patients with urinary symptoms; clues to infection,
+   metabolic derangement, hydration and wide-ranging disease.
+ • A complete urinalysis has three parts: gross examination → biochemical analysis → microscopic analysis
+   of the urinary sediment.
+ • Microscopy of the sediment is indicated for: an abnormal dipstick (e.g., microscopic haematuria);
+   suspected or known nephrolithiasis; acute kidney injury (AKI); the initial evaluation of chronic kidney
+   disease (CKD).
+
+Collection of Urinary Specimens
+ • Wash hands → cleanse genitalia → midstream specimen into a sterile, dry container.
+ • Examine within 2 hours at room temperature, else refrigerate at 2–8 °C and rewarm before examination.
+   Delay causes bacterial overgrowth, pH change and disintegration of red blood cell (RBC) and white
+   blood cell (WBC) casts; refrigeration causes crystal precipitation that may not redissolve.
+Males
+ • Midstream clean catch: retract foreskin → cleanse glans and meatus → start voiding into toilet → collect
+   midstream in a wide-mouth sterile container.
+Females
+ • Routine: separate labia → cleanse introitus and meatus → midstream. When sterility matters, consider a
+   catheterised specimen.
+Neonates, Infants and Children
+ • Depends on toilet training: trained children give a clean voided specimen; otherwise clean-catch void,
+   adhesive sterile bag, transurethral catheterisation or suprapubic aspiration (SPA).
+PAEDIATRIC COLLECTION METHODS COMPARED
+
+Method                     Contamination Practicalities                                  Use for culture
+Suprapubic aspiration Lowest                  Less successful; more invasive and painful Yes
+Transurethral              Intermediate       More successful than SPA; less invasive,   Yes
+catheterisation                               less painful — often preferred
+Sterile urine bag          Highest            Non-invasive                               No — not routinely; may have a
+                                                                                         role for biochemistry only
+
+ • For biochemical analysis alone, catheterisation and SPA remain preferred, but a bag may avoid a more
+   invasive collection.
+Concept — Every collection decision trades contamination against invasiveness; the purpose of the sample
+(culture versus chemistry) sets how much contamination can be tolerated.
+
+                                                               page 1 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                                                           URINALYSIS
+Gross Examination of Urine
+ • Visual and physical examination: colour, turbidity and odour.
+Colour
+ • Pale yellow from urochrome; concentration is the commonest cause of variation, then foods, drugs,
+   metabolites, infection.
+ • Bright red/pink → possibly active bleeding; purple/brown → old haemorrhage or retained clot; brown/
+   cola → glomerular disease.
+TABLE 3.1 COMMON CAUSES OF ABNORMAL URINE COLOUR
+
+Colour        Physiological / pathological                         Foods                Drugs and agents
+Colourless Very dilute urine; overhydration                        —                    —
+Cloudy /      Phosphaturia; pyuria; chyluria; funguria             —                    —
+milky
+Red           Haematuria; haemoglobinuria /           Anthocyanin                       Phenolphthalein (bowel evacuants);
+              myoglobinuria; chronic lead and mercury (beetroot,                        phenothiazines (e.g., prochlorperazine
+              poisoning                               blackberries)                     [Compazine]); rifampicin
+Orange        Dehydration                                          —                    Phenazopyridine (Pyridium); sulfasalazine
+                                                                                        (Azulfidine)
+Yellow        Normal                                               —                    Phenacetin; riboflavin
+Green-blue Biliverdin; indicanuria (tryptophan indole —                                 Amitriptyline; indigo carmine; methylene
+           metabolites)                                                                 blue; phenols (intravenous [IV] cimetidine,
+                                                                                        IV promethazine); resorcinol; triamterene
+Brown         Urobilinogen; porphyria                              Aloe, fava beans,    Chloroquine, primaquine; furazolidone;
+                                                                   rhubarb              metronidazole; nitrofurantoin
+Brown-        Alkaptonuria (homogentisic acid);                    —                    Cascara, senna (laxatives); methocarbamol;
+black         haemorrhage; melanin; tyrosinosis                                         methyldopa; sorbitol
+              (hydroxyphenylpyruvic acid)
+
+From Hanno PM, Wein AJ: A Clinical Manual of Urology, 1987.
+ • Purpose and trap: red or dark urine is not synonymous with blood — pigments, foods and drugs mimic
+   haematuria, so colour prompts microscopy; the same agents also disturb dipstick colour development.
+Turbidity
+ • Commonest cause of cloudy urine: phosphaturia — benign phosphate precipitation in alkaline urine;
+   intermittent, post-prandial, asymptomatic. Pyuria is the other common cause.
+ • With indwelling catheters or nephrostomy tubes, smell and turbidity may influence the decision to treat
+   presumed infection.
+ • Rare causes: chyluria (abnormal lymphatic–urinary communication, lymph mixed with urine), lipiduria,
+   hyperoxaluria, hyperuricosuria.
+PHOSPHATURIA VERSUS PYURIA
+
+Test                      Phosphaturia                                                 Pyuria
+Add acetic acid           Immediate clearing                                           No clearing
+Odour                     Not offensive                                                Characteristic pungent odour
+Dipstick / microscopy Large amounts of amorphous phosphate crystals Leucocyte esterase positive; leucocytes seen
+
+
+
+
+                                                               page 2 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing              BIOCHEMICAL EXAMINATION OF URINE (URINE DIPSTICK)
+Odour
+ • Malodour does not reliably correlate with infection, though ammonia from some urinary tract infections
+   (UTIs) gives an acrid smell.
+ • Sweet or fruity → ketones; maple syrup → maple syrup urine disease; musty or mousy →
+   phenylketonuria.
+Concept — Gross examination only generates hypotheses: every abnormal colour, turbidity or odour has a
+benign mimic, so the visual finding is always confirmed chemically or microscopically.
+
+BIOCHEMICAL EXAMINATION OF URINE (URINE DIPSTICK)
+ • Reagent pads give a colorimetric change; quick, cheap. Dwell time and urine volume vary by
+   manufacturer. Semi-automated analysers standardise timing and colour reading, and share every
+   interference.
+ • Pads: specific gravity, pH, blood, protein, glucose, ketones, urobilinogen, bilirubin, leucocyte esterase,
+   nitrite.
+ • Technique: fully immerse pads in fresh, uncentrifuged urine → remove quickly, drawing the edge along
+   the container rim to shed excess → hold horizontally for the reaction time → compare each pad with its
+   colour chart. Excess urine or vertical holding lets reagents run between pads → faulty results.
+ • Outdated or exposed strips are a common cause of false results; pad discoloration before immersion
+   gives them away.
+DIPSTICK INTERFERENCES (CONSOLIDATED FROM THE CHAPTER)
+
+Interferent                             False negative                           False positive / other
+Ascorbic acid (vitamin C)               Glucose, bilirubin, blood (inhibits      —
+                                        peroxidase reaction), leucocyte
+                                        esterase
+Phenazopyridine; other                  Leucocyte esterase                       Nitrite, bilirubin (phenazopyridine); ketones
+colouring agents
+Highly buffered alkaline urine          Protein                                  Falsely low specific gravity
+High specific gravity                   Leucocyte esterase; reduced glucose      Blood (first-voided urine); ketones (if also
+                                        sensitivity                              acidic)
+Dilute urine                            Protein                                  RBC lysis impairs RBC assessment
+Semen; menstruation;                    —                                        Blood
+dehydration; vigorous exercise
+Glycosuria, proteinuria,                Leucocyte esterase                       —
+urobilinogen
+Levodopa metabolites, mesna,            —                                        Ketones
+sulfhydryl compounds
+Specimen contamination                  —                                        Leucocyte esterase and nitrite — the major
+                                                                                 cause of false positives for both
+
+Specific Gravity and Osmolality
+ • Range 1.001–1.035; tracks osmolality; reflects hydration, renal function, solute load and concentrating
+   ability.
+ • <1.008 dilute; >1.020 concentrated; fixed at about 1.010 in acute or chronic renal insufficiency.
+
+
+
+
+                                                               page 3 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                 BIOCHEMICAL EXAMINATION OF URINE (URINE DIPSTICK)
+SPECIFIC GRAVITY: CAUSES OF DECREASE VERSUS INCREASE
+
+Decreased                                           Increased
+Diuretics; increased fluid intake; diabetes Glycosuria (uncontrolled diabetes mellitus); syndrome of inappropriate
+insipidus; reduced renal concentrating      antidiuretic hormone secretion; dehydration; IV iodinated contrast and
+ability                                     dextran (can exceed 1.035)
+
+ • Osmolality (dissolved particles) 50–1200 mOsm/L, same influences; abnormal → test renal function.
+ • Very dilute urine (below 308 mOsm) lyses RBCs, precluding reliable assessment.
+
+pH
+ • Physiological 4.5–8.0, average 5.5–6.5; methyl red + bromothymol blue read pH 5–9. <5.5 acidic; >6.5
+   alkaline.
+ • Urine pH mirrors serum pH by renal compensation (acidosis → acidic urine); renal tubular acidosis (RTA)
+   is the exception — acidic serum, alkaline urine.
+RENAL TUBULAR ACIDOSIS: TYPE I VERSUS TYPE II
+
+Feature                                    Type I                                           Type II
+Defect                                     Impaired tubular hydrogen ion excretion          Impaired bicarbonate reabsorption
+Urine in severe metabolic acidosis         Always alkaline                                  May become acidic
+
+ • Diagnosis of RTA: inability to acidify urine below pH 5.5 after an acid load; low urine ammonium with
+   high urine pH suggests RTA; risk of calcium phosphate stones.
+ • Presumed UTI with pH >7.5 → urea-splitting organism, commonly Proteus: urease splits urea →
+   ammonia → ammonium, raising pH → precipitation of magnesium ammonium phosphate (struvite) with
+   calcium phosphate → rapid growth → staghorn calculi.
+ • Uric acid and cystine stones form in acidic urine; urinary alkalinisation is central to therapy, with frequent
+   pH monitoring to confirm adequacy.
+Concept — Urine pH normally follows serum pH; its diagnostic value lies in dissociation — alkaline urine
+despite acidaemia (RTA) or alkaline urine generated by bacterial chemistry (urease).
+
+Blood/Haematuria
+ • Normal: <3 erythrocytes per high-power field (HPF). A haem-positive pad means haematuria,
+   haemoglobinuria or myoglobinuria — it suggests but never confirms RBCs.
+ • Chemistry: peroxidase-like activity of haem oxidises a chromogen, colour proportional to haemoglobin.
+ • Free haemoglobin/myoglobin → uniform field colour change; intact RBCs lyse on the pad → speckled
+   dots; more intact cells, more dots. Detects as few as 5 RBC/µL; dots coalesce above about 250 RBC/µL.
+RED URINE: HAEMATURIA VERSUS PIGMENTURIA
+
+Condition                                  Centrifuged pellet          Supernatant      Dipstick of supernatant        Plasma
+Haematuria                                 Red; many RBCs              Not red          —                              —
+Haemoglobinuria                            No RBCs                     Red              Haem positive                  Red
+Myoglobinuria                              No RBCs                     Red              Haem positive                  Clear
+Drugs, foods, dyes, porphyria              No RBCs                     Red              Haem negative                  —
+
+ • Why plasma differs: haemoglobin is large, haptoglobin-bound and relatively insoluble, so it is poorly
+   filtered and appears in urine only once haptoglobin is saturated — plasma stays red. Myoglobin is small,
+   water-soluble and not haptoglobin-bound, so it is filtered immediately — plasma stays clear.
+
+
+
+                                                                page 4 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing              BIOCHEMICAL EXAMINATION OF URINE (URINE DIPSTICK)
+    • Against microscopy (microhaematuria ≥3 RBC/HPF), dipstick sensitivity is high but specificity lower —
+      more false positives.
+    • False positives (table above): note exercise causes real but transient, benign haematuria. False negatives
+      are rare; ascorbate-oxidising strips counter ascorbic acid.
+    • Screening efficacy is controversial. Confirm a haem-positive dipstick by microscopy before imaging or
+      endoscopy; the American Urological Association (AUA) / Society of Urodynamics, Female Pelvic Medicine
+      and Urogenital Reconstruction (SUFU) Microhematuria Guideline (2020) and others agree a dipstick alone
+      is inadequate to diagnose haematuria.
+
+Differential Diagnosis and Evaluation of Haematuria
+    • First step: nephrological versus urological, glomerular versus non-glomerular — this decides further
+      tests. Nephrological haematuria: often casts, almost always significant proteinuria.
+    • Urological bleeding, even gross, rarely raises urinary protein to 100–300 mg/dL (2+ to 3+); proteinuria of
+      this magnitude almost always means glomerular or tubulointerstitial disease → nephrology consultation.
+    • Morphology: glomerular RBCs are dysmorphic; tubulointerstitial and urological RBCs are uniformly round
+      — they may lose haemoglobin ("ghost cells") but the shape stays round.
+GLOMERULAR VERSUS NON-GLOMERULAR HAEMATURIA
+
+Feature                Glomerular        Non-glomerular — medical (renal)        Non-glomerular — surgical (urological)
+RBC morphology         Dysmorphic        Circular                                Circular
+RBC casts              Present           Absent                                  Absent
+Proteinuria            Significant       Frequently significant                  Minimal, even with heavy bleeding
+Colour clue            Brown / cola      —                                       —
+
+Glomerular Haematuria
+ • Suggested by dysmorphic RBCs, RBC casts, proteinuria and brown/cola urine. However, a minority of
+   biopsy-proven glomerulonephritis (GN) shows haematuria alone, without casts or proteinuria.
+TABLE 3.2 GLOMERULAR DISORDERS IN PATIENTS WITH GLOMERULAR HEMATURIA
+
+Rank            Disorder                                                                                 Group
+1               Immunoglobulin A (IgA) nephropathy (Berger disease) — about one-third of                 Primary GN
+                cases
+2–3             Mesangioproliferative GN; focal segmental proliferative GN                               Primary GN
+4               Familial nephritis (e.g., Alport syndrome)                                               Hereditary
+5–7             Membranous GN; mesangiocapillary GN; focal segmental sclerosis                           Primary GN
+Less            Systemic lupus erythematosus (SLE); postinfectious GN; subacute bacterial                Secondary /
+common          endocarditis                                                                             systemic
+—               Unclassifiable; others                                                                   —
+
+Modified from Fassett RG, Horgan BA, Mathew TH. Lancet, 1982.
+    • Pattern: IgA nephropathy leads by a wide margin; primary GNs dominate; hereditary nephritis ranks high
+      (take a family history). Trap: systemic causes are dramatic but uncommon.
+FIG. 3.1 EVALUATION OF GLOMERULAR HAEMATURIA — CLINICAL CLUE TO DIAGNOSIS
+
+History                              Key test / finding                              Diagnosis
+Family history of haematuria         + deafness                                      Familial nephritis → Alport nephritis
+or abnormal urinalysis
+
+
+
+                                                               page 5 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing              BIOCHEMICAL EXAMINATION OF URINE (URINE DIPSTICK)
+
+History                              Key test / finding                              Diagnosis
+Rash, arthritis                      Low C3, C4; positive antinuclear antibody       SLE
+                                     (ANA)
+Haemoptysis, bleeding                Microcytic anaemia                              Goodpasture syndrome
+tendency
+Recent upper respiratory or          Raised antistreptolysin O (ASO) titre, low C3 Poststreptococcal GN
+skin infection / rash
+Related to exercise                  Normal ASO and C3 → renal biopsy for IgA,       IgA nephropathy
+                                     IgG, β1c-globulin
+No other symptoms or signs           Serum creatinine, creatinine clearance, 24-     Mesangioproliferative,
+                                     hour urinary protein → renal biopsy             mesangiocapillary or membranous GN
+
+ • Young male with low-grade fever and erythematous rash → IgA nephropathy; child after streptococcal
+   throat or skin infection → poststreptococcal GN.
+ • Creatinine, clearance and 24-hour protein/albumin quantify dysfunction; further tests separate immune
+   from non-immune causes; renal biopsy (light, immunofluorescence, electron microscopy) when it will
+   change treatment.
+IgA nephropathy (Berger disease)
+  • Commonest cause of glomerular haematuria. Children and young adults, male predominance.
+ • Haematuria after upper respiratory tract infection or exercise; most have no systemic symptoms; gross
+   haematuria intermittent, microscopic may be constant.
+ • Chronic; prognosis mostly excellent, but a minority progress to renal insufficiency.
+ • Poor prognosis: older age at onset, abnormal initial renal function, persistent proteinuria, hypertension.
+ • Pathology: focal or segmental mesangial proliferation; IgA, IgG and β1c-globulin deposits (mesangial IgA/
+   IgG also occurs in other GNs). Role of IgA uncertain; viral trigger suspected, unproven; exercise link
+   unexplained.
+ • Mimics: Henoch–Schönlein purpura, SLE, bacterial endocarditis, Goodpasture syndrome.
+ • RBC casts establish glomerular origin; without casts, a urological evaluation excludes a urinary tract
+   source and confirms bilateral renal origin.
+ • Confirmed by renal biopsy. Once established, repeat haematuria evaluations are generally not indicated.
+ • No curative treatment; management is supportive (renin–angiotensin blockade), and renal function
+   remains stable in most.
+Concept — Glomerular bleeding announces itself by what crosses a damaged filter — dysmorphic cells, casts
+and protein — and each clinical clue points to the immune process causing the damage.
+Nonglomerular Haematuria
+Medical/nonsurgical
+ • Renal-origin causes are tubulointerstitial, renovascular or systemic. Urinalysis: circular RBCs, no RBC
+   casts, frequently significant proteinuria — which separates these nephrological diseases from urological
+   disease.
+NON-GLOMERULAR MEDICAL HAEMATURIA — HISTORY CLUE TO CAUSE
+
+Clue                                                  Consider                                        Next step
+Family history of haematuria or bleeding              Blood dyscrasia                                 Investigate further
+tendency
+
+
+
+
+                                                               page 6 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                BIOCHEMICAL EXAMINATION OF URINE (URINE DIPSTICK)
+
+Clue                                                  Consider                                          Next step
+Family history of urolithiasis + intermittent         Inherited stone disease                           Serum and urine
+haematuria                                                                                              calcium, uric acid
+Family history of renal cystic disease                Medullary sponge kidney; adult polycystic         Imaging
+                                                      kidney disease
+Diabetes; Black patients (sickle cell disease         Papillary necrosis                                —
+or trait); heavy analgesic use
+Supratherapeutic anticoagulation                      Drug-induced haematuria                           Full work-up
+                                                                                                        nonetheless
+Vigorous or long-distance exercise                    Exercise-induced haematuria                       Repeat after rest
+Severe hypertension, flank/abdominal bruit, Renal artery embolism/thrombosis;                           Renal vascular
+atrial fibrillation                         arteriovenous fistula; renal vein thrombosis                evaluation
+Pelvic congestion                                     Nutcracker syndrome                               —
+
+ • Therapeutic anticoagulation does not predispose to haematuria; urological disease is found as often as
+   in controls. Never attribute haematuria to the anticoagulant — full work-up.
+ • Exercise-induced: runners (>10 km); at end of run, clears rapidly with rest; renal (dysmorphic cells in
+   some) or bladder (punctate haemorrhagic lesions at cystoscopy); may be the first sign of IgA
+   nephropathy.
+Surgical
+ • Collecting-system pathology: urological tumours, stones, benign prostatic hyperplasia (BPH), UTIs.
+ • Circular RBCs, no casts; "essential" haematuria suggested by absent significant proteinuria — though
+   renal disease may also lack proteinuria.
+ • Asymptomatic microscopic haematuria (AMH) = ≥3 RBC/HPF on a properly collected specimen in the
+   absence of an obvious benign cause (AUA/SUFU 2020). The guideline covers diagnosis, initial evaluation,
+   risk stratification, follow-up and an algorithm.
+Concept — Once glomerular disease is excluded, proteinuria is the discriminator between renal-parenchymal
+and collecting-system bleeding: heavy bleeding from the urinary tract barely raises urinary protein.
+
+Proteinuria
+ • Normal 80–150 mg/day; concentration seldom >20 mg/dL (dilute urine can hide significant proteinuria
+   below this).
+ • First sign of renovascular, glomerular or tubulointerstitial disease, or overflow (multiple myeloma); also
+   non-renal and physiological (strenuous exercise).
+ • Normal mix: ~30% albumin, 30% globulins, 40% tissue proteins (chiefly Tamm–Horsfall); electrophoresis
+   of the shifted profile points to the cause.
+
+
+
+
+                                                               page 7 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing               BIOCHEMICAL EXAMINATION OF URINE (URINE DIPSTICK)
+Pathophysiology
+GLOMERULAR, TUBULAR AND OVERFLOW PROTEINURIA
+
+Type              Mechanism                 24-hour quantity           Main protein          Causes
+Glomerular        Increased                 Suspect >1 g; almost       Albumin ≈ 70%         Primary GN (e.g., IgA); diabetes
+(commonest)       glomerular capillary      certain >3 g;                                    mellitus (commonest without
+                  permeability              algorithm: >2 g,                                 haematuria); amyloidosis;
+                                            albumin-                                         arteriolar nephrosclerosis
+                                            predominant,
+                                            diagnostic
+Tubular           Failure to reabsorb       Seldom >2–3 g;             Low-molecular-weight Fanconi syndrome (glycosuria,
+                  normally filtered         algorithm 300–2000         globulins; albumin   aminoaciduria, phosphaturia,
+                  low-molecular-            mg                         only 10–20%          uricosuria); drug / heavy-metal
+                  weight proteins                                                           intoxication; Balkan
+                                                                                            nephropathy; sarcoidosis
+Overflow          No renal disease:         300–2000 mg                Abnormal proteins — Multiple myeloma
+                  raised plasma             (algorithm)                immunoglobulin light (commonest); haemoglobinuria;
+                  abnormal proteins                                    chains (Bence Jones) myoglobinuria
+                  exceed tubular
+                  reabsorption
+
+ • Two glomerular thresholds coexist in the chapter: >1 g (suspicion) and >3 g (near-certainty) index the
+   likelihood of glomerular disease; >2 g with albumin predominance is the operational cut-off in the
+   evaluation algorithm (Fig. 3.2). They answer different questions and are not in conflict.
+Detection
+DIPSTICK VERSUS SULFOSALICYLIC ACID
+
+                                                                                              3% sulfosalicylic acid
+Feature            Dipstick                                                                   precipitation
+Principle          Tetrabromophenol blue; pH-dependent colour shift, yellow →                 Strong-acid precipitation of
+                   shades of green                                                            protein
+Detection limit 20–30 mg/dL                                                                   15 mg/dL
+Protein            Mainly albumin                                                             Albumin and other proteins
+detected
+False negatives Alkaline urine; dilute urine; non-albumin protein                             —
+
+ • Heavy proteinuria (>1 g/24 h) is seldom missed. Dipstick negative, sulfosalicylic acid strongly positive →
+   suspect myeloma → Bence Jones testing.
+ • Positive → quantify by 24-hour collection → characterise: electrophoresis separates glomerular from
+   tubular; immunoassay and electrophoresis/immunofixation are methods of choice for Bence Jones
+   protein.
+
+
+
+
+                                                               page 8 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing              BIOCHEMICAL EXAMINATION OF URINE (URINE DIPSTICK)
+Evaluation
+PROTEINURIA BY TIMING
+
+Timing              Features                                                           Action
+Transient           Common, especially in children; resolves within days; fever,       Repeat urinalysis; non-renal cause +
+                    exercise, emotional stress; congestive heart failure in older      negative repeat → no further
+                    patients                                                           evaluation; persistent → evaluate
+Intermittent —      Young males; upright position only; seldom >1 g/day; normal Normal renal function → no further
+orthostatic         when recumbent; attributed to raised renal vein pressure on evaluation; not position-related →
+                    standing; often resolves spontaneously; no morbidity        evaluate as persistent
+Persistent          Mostly glomerular                                                  24-hour quantitation + qualitative
+                                                                                       protein analysis
+
+Fig. 3.2 Evaluation of proteinuria (persistent arm): 24-hour protein + qualitative evaluation →
+ • >2000 mg, mainly albumin → glomerular → with dysmorphic RBCs and casts → Fig. 3.1 pathway; with
+   little haematuria → diabetes mellitus (commonest) and other causes in the table.
+ • 300–2000 mg, mainly globulins → immunofixation → normal proteins = tubular; abnormal = overflow
+   (Bence Jones = myeloma; haemoglobin; myoglobin).
+Concept — Proteinuria is classified in two passes: timing decides whether to investigate at all, then quantity
+and composition identify the leak — glomerular filter, tubular reabsorption or plasma overload.
+
+Glucose and Ketones
+ • Diabetes screen. Filtered glucose is reabsorbed proximally up to the renal threshold ≈ serum glucose 180
+   mg/dL.
+ • Chemistry (double sequential reaction): glucose + glucose oxidase → gluconic acid + hydrogen peroxide →
+   peroxidase oxidises chromogen → colour. Specific for glucose; no cross-reaction with other sugars.
+ • Sensitivity falls with rising specific gravity and temperature.
+ • Drug-induced glycosuria: sodium–glucose cotransporter 2 (SGLT2) inhibitors (gliflozins).
+ • Ketones appear when carbohydrate reserves are depleted and fat is broken down: diabetic ketoacidosis,
+   pregnancy, starvation, rapid weight loss. Acetoacetic acid, acetone and β-hydroxybutyric acid are
+   excreted; ketones appear in urine before blood.
+ • Dipstick: sodium nitroprusside + acetoacetic acid → purple; detects acetoacetate at 5–10 mg/dL but not
+   acetone or β-hydroxybutyrate. Laboratory analysers quantify β-hydroxybutyrate down to 0.05 mmol/L.
+ • Glucose-positive dipstick → test ketones; diabetes suggested.
+
+Bilirubin and Urobilinogen
+ • Normal urine: no bilirubin, small amounts of urobilinogen.
+
+
+
+
+                                                               page 9 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                               LEUKOCYTE ESTERASE AND NITRITE TESTS
+CONJUGATED VERSUS UNCONJUGATED BILIRUBIN
+
+Feature           Conjugated (direct)                                          Unconjugated (indirect)
+Origin            Hepatocyte — conjugated with glucuronic acid                 Haem metabolism
+Solubility /      Water-soluble; low molecular weight                          Water-insoluble; albumin-bound, higher molecular
+size                                                                           weight
+In urine          Only with intrinsic hepatic disease or bile duct             Never, even in disease
+                  obstruction
+Diazo             Reacts without accelerant ("direct")                         Needs accelerant
+reaction
+
+ • Urobilinogen = end product of bilirubin metabolism: gut bacteria convert conjugated bilirubin; about half
+   excreted in stool, half reabsorbed enterohepatically; 1–4 mg/day escapes to urine.
+ • Raised urinary urobilinogen: haemolysis, hepatocellular disease. Reduced: bile duct obstruction or
+   antibiotics altering gut flora (serum conjugated bilirubin rises).
+ • Dipstick: diazonium salt reaction; phenazopyridine mimics it (turns red in acid).
+Concept — The dipstick is a sensitive screen with known chemical blind spots: every positive that would
+trigger investigation needs microscopic or quantitative confirmation, and every negative is read against the
+interferents present.
+
+LEUKOCYTE ESTERASE AND NITRITE TESTS
+ • Leucocyte esterase → WBCs; nitrite → bacteriuria; both are used to screen for UTI.
+ • Most accurate diagnosis of infection: sediment microscopy for pyuria + urine culture.
+ • A "directed" urinalysis that reflexes to culture when abnormal reduces unnecessary cultures and avoids
+   missing specimens that need one.
+ • Leucocyte esterase positive, nitrite negative → consider non-infectious inflammation; obtain microscopy
+   and culture before any empirical antibiotic.
+LEUCOCYTE ESTERASE VERSUS NITRITE
+
+Feature              Leucocyte esterase                                        Nitrite
+Detects              Host response — WBCs                                      Organism — bacteriuria
+Chemistry            Esterase from lysed neutrophils and                       Nitrate reductase (gram-negatives, especially
+                     macrophages hydrolyses indoxyl carbonic acid              Enterobacteriaceae) converts nitrate → nitrite →
+                     ester → indoxyl → oxidises diazonium                      diazotisation → red azo dye
+                     chromogen
+Reading              At 5 minutes; sensitivity then falls as leucocytes        —
+                     lyse
+Performance          Negative when bacteriuria lacks significant pyuria High specificity, low and variable sensitivity; less
+                                                                        accurate below 105 organisms/mL
+Characteristic       Glycosuria, proteinuria, certain infections               Enterococci (few have nitrate reductase)
+miss
+Commonest            Contamination                                             Contamination
+false positive
+
+ • Leucocyte esterase screening must always be paired with nitrite testing.
+Fig. 3.3 Protocol for deciding the need for sediment microscopy in an asymptomatic population: urine
+sample → assess visual appearance → cloudy → send to laboratory; clear → dipstick for nitrite and
+
+
+
+                                                               page 10 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                            LEUKOCYTE ESTERASE AND NITRITE TESTS
+leucocytes → nitrite positive and/or leucocytes +, ++ or +++ → send to laboratory; nitrite negative and
+leucocytes negative or trace → discard. (From Flanagan PG et al. Lancet, 1989.)
+ • This older protocol detected most infected specimens and cut microscopy, but other studies found the
+   dipstick no replacement for microscopy. Automated urinalysis, reflex culture and requisition quality-
+   improvement now reduce unnecessary tests.
+ • A dipstick positive for only one of leucocyte esterase or nitrite → confirm with microscopy and culture
+   before antibiotics. Dipstick testing has not been shown to replace sediment microscopy.
+Concept — Leucocyte esterase and nitrite are complementary halves: esterase reads the host response
+(sensitive, non-specific), nitrite reads the organism's chemistry (specific, insensitive) — neither, nor both
+together, replaces microscopy and culture.
+
+Urinary Sediment
+Obtaining and Preparing the Specimen
+ • Clean-catch midstream; harder in women (introital leucocytes and bacteria).
+ • Catheterised sample for culture when findings are equivocal for true UTI, when contamination is
+   expected or hard to avoid, or when concerning results are at odds with a benign clinical picture.
+ • First-voided specimen is the specimen of choice; examine within 1 hour.
+Preparation: centrifuge 10–15 mL for 5 minutes at 3000 rpm → pour off supernatant → resuspend sediment
+in 0.3 mL saline by tapping the tube → pipette the residual fluid onto the slide (pouring deposits excess) →
+ideal volume 0.01–0.02 mL → lower the coverslip edge first so fluid rises by capillary action and air is
+expelled. Dropping the coverslip flat disperses urine and traps bubbles that distort examination.
+Microscopy Technique
+ • Low (×100) and high (×400) power; ≥10–20 fields; vary fine focus; oil immersion seldom needed. Scan
+   the whole coverslip at low power, especially the edges, where casts concentrate.
+LOW POWER VERSUS HIGH POWER
+
+Low power (×100) — sufficient for                                                High power (×400) — necessary for
+Erythrocytes, leucocytes, casts, cystine crystals, oval fat macrophages,         Circular versus dysmorphic erythrocytes;
+parasites (Trichomonas vaginalis, Schistosoma haematobium)                       other crystal types; bacteria and yeast
+
+ • Polarised light and phase-contrast microscopy help define formed elements and crystals.
+ • Automated analyser microscopy saves time and cost, but manual microscopy performs better in
+   pathological states such as AKI.
+ • Examine for six elements: cells, casts, crystals, bacteria, yeast, parasites.
+Cells
+ • RBC morphology at high power; routine brightfield usually suffices. Condenser at lowest aperture dims
+   background → phase-like effect, membranes stand out.
+CIRCULAR VERSUS DYSMORPHIC ERYTHROCYTES
+
+Circular (non-glomerular)                                            Dysmorphic (glomerular)
+Even haemoglobin distribution; round, crenated or                    Irregular shape; minimal haemoglobin; irregular
+biconcave-disc contour                                               cytoplasmic distribution
+
+ • Automated erythrocyte typing (e.g., Coulter counter) is accurate but not accepted into routine urological
+   practice and probably unnecessary.
+ • Erythrocyte mimics: yeast (distinguished by budding) and fat droplets (highly refractile).
+
+
+
+                                                               page 11 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                              LEUKOCYTE ESTERASE AND NITRITE TESTS
+ • Leucocytes: identified at low power, confirmed at high power. Neutrophils commonest (granular
+   cytoplasm, multilobed nuclei); eosinophils raise concern for acute interstitial nephritis.
+ • Normal: 1–2 WBC/HPF in men; up to 5/HPF in women (vaginal contamination); more indicates infection
+   or inflammation.
+OLD VERSUS FRESH LEUCOCYTES
+
+Old leucocytes                                Fresh leucocytes
+Small, wrinkled; common in vaginal            Larger, rounder; indicate urinary tract pathology; at specific gravity <1.019
+secretions of normal women                    cytoplasmic granules show glitter-like movement — "glitter cells"
+
+EPITHELIAL CELLS COMPARED
+
+Feature        Squamous                                      Transitional                            Renal tubular
+Origin         Lower urethra, trigone of                     Remainder of the urinary tract          Renal tubules
+               postpubertal females, vagina;
+               frequent in female specimens
+Appearance Large; small central nucleus about                Smaller than squamous; larger nucleus; Slightly larger than
+           the size of an erythrocyte; irregular,            prominent perinuclear granules         leucocytes; hard to
+           finely granular cytoplasm                                                                distinguish from them
+Significance Contamination                                   Malignant cells: altered nuclear size   Least common, most
+                                                             and morphology — Papanicolaou           significant: always
+                                                             staining or automated flow cytometry    indicates renal pathology
+
+Casts
+ • Cast = cylindrical protein coagulum formed in the tubular lumen, trapping luminal contents. Favoured by
+   low urine flow, high concentration, low pH.
+ • Tamm–Horsfall mucoprotein is the basic matrix of all casts; secreted by tubular epithelium and always
+   present in urine. Casts are named by their contents.
+CASTS AND THEIR SIGNIFICANCE
+
+Cast                                          Significance
+Hyaline (mucoprotein only)                    May be non-pathological — after exercise or heat exposure; also
+                                              pyelonephritis, chronic renal disease
+RBC                                           Diagnostic of glomerular bleeding — usually GN; sometimes acute interstitial
+                                              nephritis
+WBC                                           Acute GN; acute pyelonephritis; acute tubulointerstitial nephritis
+Cellular (sloughed renal tubular              Non-specific renal damage
+epithelial cells)
+Granular, waxy                                Further degeneration of cellular elements
+Haem-granular ("muddy brown")                 Acute tubular necrosis
+Fatty                                         Nephrotic syndrome; lipiduria; hypothyroidism
+
+Crystals
+ • Particularly useful in stone disease to suggest aetiology; crystals occur in both normal and pathological
+   states.
+ • Cystine crystals establish the diagnosis of cystinuria — the one crystal that is never normal.
+
+
+
+
+                                                               page 12 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                               LEUKOCYTE ESTERASE AND NITRITE TESTS
+CRYSTALS BY URINE PH (WITH FIG. 3.16 SHAPES)
+
+Urine pH           Crystals                                             Appearance (Fig. 3.16)
+Acidic             Uric acid; cystine                                   Uric acid: rhomboid / lemon-shaped plates; cystine:
+                                                                        hexagonal plates
+Alkaline           Calcium phosphate; triple phosphate                  Struvite: coffin-lid prisms
+                   (struvite)
+Acidic or          Calcium oxalate                                      Envelope (octahedral) shape
+alkaline
+Unrelated to       Cholesterol — rare; in lipiduria, remains in         —
+pH                 droplet form
+
+Bacteria
+ • Normally absent (asymptomatic bacteriuria rises with age); in a fresh uncontaminated specimen, suggest
+   UTI.
+ • Each HPF views 1/20,000–1/50,000 mL, so 1 bacterium/HPF ≈ >30,000/mL and 5 bacteria/HPF ≈ 100,000
+   (105)/mL — the standard UTI threshold in a clean-catch specimen.
+ • That threshold applies mainly to women (frequent contamination); any bacteria in a properly collected
+   male midstream specimen → culture.
+ • High-power morphology: gram-negative rods — bacillary; streptococci — beaded chains; staphylococci
+   — clumps.
+Yeast
+ • Candida albicans is commonest; oval biconcave shape mimics erythrocytes and calcium oxalate crystals
+   — distinguished by budding and hyphae.
+ • Seen in diabetes mellitus, chronic illness, indwelling catheters, or as contaminants in vaginal candidiasis.
+Parasites
+URINARY PARASITES
+
+Feature         Trichomonas vaginalis                                     Schistosoma haematobium
+Disease         Frequent cause of vaginitis; occasionally                 Urinary tract pathogen
+                urethritis in men
+Geography       —                                                         Not in the United States; common in the Middle East
+                                                                          and North Africa
+Identification Low power, clean-catch; large cells with rapidly           Ova with a terminal spike
+               moving flagella
+
+Expressed Prostatic Secretions
+ • Not strictly sediment, but examine in any man with suspected prostatitis.
+ • Normal fluid: few if any leucocytes; increased or clumped leucocytes → prostatitis; oval fat macrophages
+   → post-infection prostatic fluid.
+ • Normal secretory granules resemble leucocytes but lack nuclei.
+Figure legends
+ • Circular RBCs (Figs. 3.4–3.6): epithelial origin, bladder tumour, interstitial cystitis. Dysmorphic RBCs (3.7–
+   3.8): Berger disease; granulomatosis with polyangiitis (Wegener) — dense deposits around the
+   membrane.
+
+
+
+
+                                                               page 13 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                                  TUMOR MARKERS
+ • Old leucocytes with Proteus staghorn (3.10); RBC cast with distinct hyaline border (3.13); Escherichia coli
+   (3.17); oval fat macrophage with doubly refractile fat (3.22).
+Concept — Every sediment element is read for its site of origin: casts and tubular cells place the lesion in the
+kidney, dysmorphic cells in the glomerulus, squamous cells signal contamination — microscopy localises
+where the dipstick cannot.
+
+ KEY POINTS
+   • A complete urinalysis includes gross examination, dipstick chemical analysis and microscopic analysis of
+     the urinary sediment.
+   • A dipstick alone is inadequate for the diagnosis of microscopic haematuria.
+   • AMH is defined as ≥3 erythrocytes/HPF on a properly collected specimen in the absence of an obvious
+     benign cause.
+   • Haematuria should be stratified into glomerular, non-glomerular, medical and surgical causes.
+   • A dipstick positive for only leucocyte esterase or nitrite, but not both, should be confirmed with
+     microscopy and urine culture.
+   • A catheterised specimen should be considered when uncontaminated voided specimens are difficult to
+     obtain.
+
+
+Serum Laboratory Studies
+ • Electrolytes, creatinine and estimated glomerular filtration rate (GFR) define renal function in obstruction
+   and medical renal disease.
+ • Urgency of intervention for obstruction is determined by renal function (and subsequent imaging).
+   Check electrolytes in postobstructive diuresis.
+ • Presence or history of renal disease informs evaluation of haematuria, proteinuria and anatomical
+   pathology.
+ • Serum potassium, carbon dioxide (bicarbonate) and liver transaminases assist evaluation of malignancy or
+   multi-system metabolic derangement.
+ • Albumin: non-specific marker of debility and postoperative recoverability; as an acute-phase reactant it is
+   artificially low early in infection or systemic inflammation.
+ • Complete blood count (CBC: RBC, WBC ± differential, haemoglobin, haematocrit, platelets): perioperative,
+   malignancy follow-up, infection work-up; haemoglobin assesses anaemia in ongoing haematuria.
+
+TUMOR MARKERS
+
+Prostate-Specific Antigen
+ • Important, controversial; interpret with digital rectal examination.
+ • Prostate-specific antigen (PSA) = human kallikrein peptidase 3 (hK3), a serine protease of the kallikrein
+   family, produced by prostatic luminal epithelial cells; highly specific for the prostate gland (organ, not
+   cancer).
+ • Sensitive for prostatic pathology → useful in BPH and prostatitis; correlates with prostate volume and
+   prostatic inflammation.
+ • One of the most reliable tests for following prostate cancer after treatment — radiation, radical
+   prostatectomy, hormonal therapy or immunotherapy.
+
+
+
+
+                                                               page 14 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                                                       TUMOR MARKERS
+Testis Tumor Markers
+ • α-fetoprotein (AFP), beta-human chorionic gonadotropin (βhCG) and lactate dehydrogenase (LDH),
+   ordered for a scrotal or testicular mass found on examination or ultrasonography.
+ • Measure at diagnosis → after radical orchidectomy → during chemotherapy (response) → after
+   treatment (relapse).
+TESTIS TUMOUR MARKERS
+
+       Half-
+Marker life         Raised in                     Never raised in              Non-testicular causes
+AFP       5–7       Embryonal; yolk sac           Pure seminoma; pure          Liver disease (cirrhosis, hepatitis); liver, pancreatic,
+          days                                    choriocarcinoma              gastric cancer; infants <1 year (physiological)
+βhCG      24–36     Embryonal;                    —                            Marijuana; hyperthyroidism; hypergonadotropic
+          hours     choriocarcinoma;                                           hypogonadism (luteinising hormone cross-
+                    seminoma                                                   reacts); liver, pancreatic, gastric cancer
+LDH       24        Most commonly                 —                            Kidney, liver and heart disease; other cancers;
+          hours     elevated, but non-                                         anaemia; infections. Isolated LDH rise usually not
+                    specific                                                   a reason to treat
+
+Concept — Each marker is read against its tissue of origin: AFP maps to yolk-sac and embryonal elements
+and is therefore never made by pure seminoma or choriocarcinoma; βhCG maps to trophoblastic and
+seminomatous elements; LDH is abundant but histologically non-specific.
+
+Urinary Markers in Bladder Cancer
+ • Cytology, formerly standard screening for urothelial cell carcinoma (UCC), is no longer recommended for
+   screening or initial AMH evaluation (AUA/SUFU 2020).
+ • Uses: surveillance of known UCC; persistent microhaematuria after a negative initial evaluation;
+   suspicious radiological abnormalities; suspected high-grade malignancy.
+ • Highly sensitive for high-grade UCC; sensitivity falls markedly for low-grade; highly specific for high-
+   grade disease.
+ • Nuclear matrix protein 22 (NMP22), bladder tumour antigen (BTA) stat, ImmunoCyt and UroVysion
+   fluorescence in situ hybridisation (FISH) are available but not recommended for routine use or screening;
+   used in selected cases, generally not at initial evaluation.
+
+Nephrolithiasis
+ • AUA medical management of kidney stones guideline (2014; validity confirmed 2019): every newly
+   diagnosed renal or ureteric stone patient → screening evaluation: medical and dietary history + serum
+   chemistries (basic metabolic panel, calcium; possibly intact parathyroid hormone [PTH] and uric acid) +
+   urinalysis; stone analysis at least once.
+ • High-risk or interested first-time stone formers → 24-hour urine on usual diet: at least volume, pH,
+   calcium, oxalate, uric acid, citrate, sodium, potassium, creatinine; ± cystine screening, magnesium, sulfate,
+   urea nitrogen.
+ • Fast and calcium-load testing are no longer routine — subtyping hypercalciuria does not change
+   treatment.
+
+Adrenal Disorders and Lesions
+ • Cushing syndrome, Conn syndrome and phaeochromocytoma meet urology via rising incidentalomas.
+   Every adrenal incidentaloma is tested for function: cortisol and catecholamine excess in all; aldosterone
+   in hypertensive patients.
+
+
+                                                               page 15 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                                           TUMOR MARKERS
+ADRENAL FUNCTIONAL TESTING
+
+Condition                Tests                                                                       Tested in
+Hypercortisolism         Overnight low-dose dexamethasone suppression; late-night salivary cortisol; All
+                         24-hour urinary cortisol
+Catecholamine            Plasma free fractionated metanephrines; 24-hour urinary fractionated        All
+excess                   metanephrines and catecholamines
+Primary                  Serum aldosterone >15 ng/dL + morning aldosterone-to-renin ratio >20 →      Hypertensive
+aldosteronism            adrenal vein sampling to lateralise                                         patients
+
+Infertility, Hypogonadism, and Erectile Dysfunction
+ • Suspected hypogonadism: total and free testosterone, luteinising hormone, follicle-stimulating hormone,
+   prolactin, thyroid-stimulating hormone, oestradiol.
+ • Semen analysis is central to assessing male fertility concerns.
+
+ KEY POINTS
+   • Serum creatinine and GFR should be ordered when renal obstruction is suspected.
+   • PSA is a very sensitive test for prostate conditions such as BPH and prostatitis and correlates most
+     often with prostate volume.
+   • Urine cytology is not recommended during initial evaluation and screening for AMH; it is quite specific
+     for high-grade urothelial carcinoma.
+   • AFP, βhCG and LDH should be obtained whenever testicular malignancy is suspected.
+   • A 24-hour urine collection is indicated in high-risk kidney stone formers.
+   • The functional status of all adrenal masses should be biochemically assessed for hypercortisolism,
+     hyperaldosteronism and phaeochromocytoma.
+
+
+Office Diagnostic Procedures
+Uroflowmetry and Ultrasound for Postvoid Residual
+ • Uroflowmetry (standing or seated): maximum flow rate (Qmax), mean flow, voided volume, curve —
+   assesses bladder outlet obstruction (BOO) in suspected BPH.
+QMAX INTERPRETATION
+
+Qmax (mL/s)              Interpretation
+>20                      Low probability of BOO
+15–20                    Low probability; significant symptoms may still warrant work-up
+10–15                    Equivocal
+<10                      Often BOO, urethral stricture or detrusor impairment
+
+ • Interpret low flows with caution if voided volume is <100 mL.
+ • Postvoid residual (PVR): handheld bladder scanner; otherwise sterile catheter (invasive — discomfort,
+   trauma, infection). Thresholds poorly defined, but <100 mL generally acceptable, especially in older men.
+ • High PVR: BOO, BPH, detrusor hypocontractility, neurogenic bladder, bladder diverticula, urethral
+   stricture. Further testing follows the complete examination.
+Concept — Free flow reflects both detrusor contraction and outlet resistance, so a low Qmax cannot by itself
+separate obstruction from detrusor impairment — that is the job of pressure–flow studies.
+
+
+
+
+                                                               page 16 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                                          TUMOR MARKERS
+Cystometrography and Multichannel Urodynamic Studies
+ • Urodynamics = study of transport, storage and evacuation of urine; indicated when storage or voiding
+   dysfunction is not diagnosed by history and examination.
+ • Performed in the office; ambulatory studies in selected cases. Components: cystometrography,
+   electromyography, urethral pressure profile, pressure–flow studies.
+Cystourethroscopy
+ • Flexible cystoscopy is better tolerated; rigid optional in women. Diagnostic, screening, some treatments.
+ • Commonest indications: lower urinary tract malignancy, urinary obstruction, assisting urethral catheter
+   insertion.
+ • Looposcopy of an ileal conduit with a flexible cystoscope; generally well tolerated, mild discomfort with
+   significant pressure and reflux into the upper tracts.
+ • Antimicrobial prophylaxis is no longer recommended for simple diagnostic cystourethroscopy without
+   manipulation in patients without infectious risk factors (Table 3.3).
+TABLE 3.3 RISK FACTORS ASSOCIATED WITH INCREASED RISK FOR INFECTION FOLLOWING UROLOGIC PROCEDURE
+
+Domain                   Risk factors
+Host                     Advanced age; poor nutritional status; smoking; chronic corticosteroid use; immunodeficiency
+Urinary tract /          Anatomical anomalies of the urinary tract; externalised catheters; colonised endogenous or
+devices                  exogenous material
+Systemic / hospital      Distant coexistent infection; prolonged hospitalisation
+
+Lightner et al., 2020.
+ • Purpose: defines who still needs prophylaxis for simple office procedures. Trap: prophylaxis is not routine
+   for every cystoscopy — only in the presence of these factors.
+
+ KEY POINTS
+   • Uroflowmetry and assessment of PVR should be ordered when lower urinary tract obstruction is
+     suspected.
+   • Urodynamic studies provide information on disorders of storage and voiding.
+   • Routine antimicrobial prophylaxis is not recommended for routine office cystourethroscopy,
+     urodynamics or cystography in the patient without risk factors.
+
+
+Radiologic Imaging
+ • Basic imaging in the office; computed tomography (CT), magnetic resonance imaging (MRI) and nuclear
+   imaging at a radiology facility.
+Ultrasonography
+ • Renal ultrasonography: size, shape, hydronephrosis, cysts and masses, echogenicity, vasculature;
+   increasingly performed by urologists in the office.
+ • Cortical echogenicity greater than liver or spleen → medical renal disease.
+ • Stone history or flank pain → ultrasonography for obstruction, weighing CT detail against convenience.
+ • Renal ultrasonography alone is not sufficient for the haematuria work-up — cross-sectional imaging is
+   needed.
+ • Bladder ultrasonography rarely ordered diagnostically; assesses large masses, large stones and volume,
+   with limited information.
+
+
+
+                                                               page 17 of 18
+Chapter 3 — Indications and Interpretation of Laboratory Testing                                        SUMMARY
+ • Ureteric ultrasonography is very difficult — do not use it to diagnose ureteric stones or malignancy; it
+   may detect severe hydroureter.
+ • Prostate ultrasonography: mostly with biopsy; increasingly with MRI — software fusion in real time or
+   cognitive fusion — for lesion targeting; also volume in BPH/obstruction.
+ • Seminal vesicles and ejaculatory duct: full seminal vesicles with a dilated ejaculatory duct inform further
+   testing or treatment in ejaculatory and fertility disorders.
+Computed Tomography and Magnetic Resonance Imaging
+ • Cross-sectional abdominopelvic imaging, with or without contrast, for suspected upper tract and bladder
+   conditions.
+ • Haematuria (microscopic or gross): contrast CT, or MRI if iodinated contrast is significantly
+   contraindicated.
+ • Non-contrast CT is the most sensitive test and gold standard for urinary stones; stone history + flank
+   pain → non-contrast CT abdomen and pelvis.
+ • MRI is not useful for diagnosis or follow-up of stones; it excels in soft tissue — renal malignancy, tumour
+   thrombus, adrenal pathology, cystic lesions, other abdominal, pelvic and retroperitoneal soft-tissue
+   disease.
+Intravenous Pyelogram and Plain Radiographs
+ • Intravenous pyelogram (IVP) and plain films are largely eclipsed by CT (including low-dose protocols) and
+   MRI.
+ • IVP when dynamic imaging of upper tract excretion and obstruction is needed and contrast CT is
+   unavailable.
+ • Plain radiograph of kidneys, ureters and bladder (KUB): initial evaluation and follow-up of non-emergent
+   ureteric or renal stones; more than 70% of stones are radio-opaque.
+ • Sequence: non-emergent ureteric stone → initial KUB → stone visible → follow up with KUB rather than
+   CT. Non-obstructing renal stones on surveillance can be followed by KUB; symptoms decide when more
+   complex imaging is needed.
+
+ KEY POINTS
+   • Renal ultrasonography can provide basic screening information on hydronephrosis and medical renal
+     disease but is not an adequate stand-alone study for the work-up of haematuria.
+   • CT without contrast of the abdomen and pelvis is the gold standard for detecting urinary stones.
+   • A KUB is a useful and easy test for the follow-up of existing non-emergent radio-opaque urinary stones.
+
+Concept — Imaging is chosen by the question, not the organ: calcium is best seen by CT and followed by
+plain film, soft tissue by MRI, and ultrasonography screens but never completes a haematuria work-up.
+
+SUMMARY
+ • Laboratory testing is critical to the initial evaluation and subsequent management of urological patients;
+   understanding when to order each test enables efficient care.
+ • History + examination + a properly collected urinalysis build the differential diagnosis, direct further
+   laboratory tests, office procedures and imaging, and guide treatment.
+
+
+
+
+                                                               page 18 of 18
+

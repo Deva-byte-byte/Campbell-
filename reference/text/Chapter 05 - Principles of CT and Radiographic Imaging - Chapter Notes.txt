@@ -1,0 +1,911 @@
+Ch 5 — Principles of CT and Radiographic Imaging                                                                   Introduction
+
+Chapter 5 — Principles of CT and Radiographic Imaging
+ • 1895 — Wilhelm Röntgen discovered x-rays incidentally while experimenting with cathode rays; the first
+   radiograph, of his wife's hand with a ring (Fig. 5.1), was published in 1896, and diagnostic radiology began
+   at once.
+ • Radiographs moved from hard-copy film stored in file rooms to digital acquisition: images are now
+   processed to improve quality and reduce noise, stored electronically and viewed by several physicians at
+   once.
+ • Fluoroscopy moved from continuous exposure with poor images to low-dose pulsed technology with
+   last image hold, giving better images at lower dose.
+ • Computer image processing produced computed tomography (CT); artificial intelligence (AI) is the next
+   expected advance.
+
+RADIATION BIOLOGY AND SAFETY
+ • The hazard was not recognised at first. Clarence Dally, an employee of Thomas Edison, repeatedly placed
+   his hand in the beam while developing the fluoroscope → erythema, ulceration, hair loss → carcinoma →
+   amputation of the left arm and four fingers of the right hand → death from metastatic cancer in 1904,
+   aged 39: the first known death from radiation exposure. Edison afterwards declared himself afraid of x-
+   rays.
+ • Governing principle: ALARA — as low as reasonably achievable.
+Mechanism of injury.
+ • Absorbed ionising radiation damages cells by direct DNA ionisation or indirect damage from free
+   radicals; depending on degree and site, the cell undergoes apoptosis or attempts DNA repair.
+DETERMINISTIC VERSUS STOCHASTIC EFFECTS (FIG. 5.3)
+
+                         Deterministic                                    Stochastic
+ Threshold               Yes — no effect below it                         None — linear no-threshold model
+ What rises with         Severity                                         Probability of disease, cumulatively
+ dose
+ Mechanism               Sufficient cellular damage (cell loss)           Mutation in a proto-oncogene or tumour
+                                                                          suppressor gene
+ Examples                Erythema, depilation, sterility, anaemia,        Cancer
+                         cataract
+ Safe dose               Below the threshold                              No safe dose; every exposure adds risk
+
+Evidence of harm.
+ • Hiroshima survivors (high dose): radiation burns and increased leukaemia and solid cancers — bladder,
+   breast, lung, brain, ovary and thyroid, among others.
+ • Diagnostic doses are far lower, yet medical diagnostic radiation is estimated to cause 1.5–2% of cancers
+   in the United States.
+ • Health care workers: radiologists have more leukaemia than other specialists; physicians using
+   fluoroscopy have more brain tumours. Other effects: cardiovascular disease, thyroid disease,
+   inflammatory conditions and cataract — interventional cardiologists have a markedly raised risk of
+   posterior lens opacity.
+
+
+
+
+                                                           page 1 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                         Radiographic Studies
+Dose units.
+RADIATION DOSE QUANTITIES
+
+ Quantity         Unit         Definition                                               Use
+ Absorbed         Gray         Ionising energy absorbed by tissue                       Physical dose
+ dose             (Gy)
+ Equivalent       Sievert      Absorbed dose × radiation weighting factor; factor = 1   Adjusts for radiation type
+ dose             (Sv)         for medical x-rays, so equivalent = absorbed
+ Effective        Sievert      Equivalent dose × tissue weighting factors (tissue       Annual exposure limits and
+ dose             (Sv)         susceptibility)                                          occupational monitoring
+
+ • Imaging use keeps rising despite low-dose developments, so a risk–benefit analysis precedes every
+   ionising study. ALARA in practice: low-dose protocols, alternative studies, avoiding ionising radiation
+   where possible — reducing the patient's cumulative dose and often the surgeon's and staff's.
+
+ KEY POINTS: RADIATION BIOLOGY AND SAFETY
+   • Radiography, fluoroscopy and CT use high-energy photons, which cause deterministic and stochastic
+     effects.
+   • Under the linear no-threshold model, stochastic risk is proportional to dose and no amount is risk-free.
+   • Follow ALARA: use only the radiation necessary for diagnosis and management.
+
+Concept — Deterministic effects have a threshold and scale in severity; stochastic effects have no threshold
+and scale in probability. Because cancer risk follows the linear no-threshold model, there is no safe dose, and
+ALARA follows directly from that.
+
+RADIOGRAPHIC STUDIES
+
+Radiographic Radiation Physics
+ • Diagnostic x-rays lie at 1016–1020 Hz in the electromagnetic spectrum — enough energy to ionise, hence
+   "ionising radiation".
+ • High frequency lets x-rays pass through tissue; differential absorption between tissues creates contrast,
+   which is the basis of the image.
+ • Generation: vacuum tube → potential difference across cathode and anode → electrons accelerate from
+   cathode to anode → strike the anode plate, usually tungsten → x-ray emission.
+ • Film detection: x-rays strike an intensifying screen exposing the film → developed → black where
+   photons arrive, white where radio-opaque material attenuates.
+ • Digital detection — indirect: x-rays stimulate a photoluminescent material whose fluorescence is read by
+   a digital receiver; direct: a material excited directly by x-ray photons, no fluorescent step. Both yield an
+   electrical charge read like a digital camera sensor.
+
+Chest Radiography
+ • Chest x-ray (CXR) is the commonest radiograph in hospital: respiratory and cardiac disease; preoperative
+   clearance (not always needed); high sensitivity for haemothorax, pneumothorax, atelectasis, effusion,
+   infiltrates, infection and trauma; oncological staging and surveillance; position of lines and tubes (chest
+   drain, endotracheal and gastric tubes, central venous lines).
+ • Dose: 0.07 mSv.
+
+
+
+                                                          page 2 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                 Radiographic Studies
+ • Technique: posteroanterior, upright, full inspiration; hands on hips to move the scapulae laterally;
+   remove lines and tubes from the lung field where possible; lateral, oblique and expiratory views as
+   adjuncts; portable film if immobile.
+ • Limitations: poor positioning, motion, rotation or altered exposure impair reading; subtle day-to-day
+   change is easily missed; false positives prompt unnecessary intervention and false negatives miss disease
+   — CXR augments, never replaces, history and examination.
+
+Plain Abdominal Radiography
+ • The kidney–ureter–bladder (KUB) film (Fig. 5.4: kidneys, psoas shadows, liver tip, spleen, gastric gas):
+   diagnosis and follow-up of radio-opaque stones; before shock-wave lithotripsy (SWL); pre- and post-
+   contrast film; postoperative ileus, obstruction and free air; confirms line, tube, stent and drain position;
+   foreign bodies; vertebral and pelvic fractures in trauma.
+ • Dose: 0.7 mSv per film; 1.4 mSv for a standard two-view abdomen.
+ • Technique: supine anteroposterior (AP) film from the upper renal margin to the inferior pubic rami;
+   obliques separate overlapping structures; upright film is most sensitive for free intraperitoneal air.
+ • Limitations: cheap and low dose but largely supplanted by CT, which gives the same information more
+   accurately. KUB is two-dimensional, so overlying structures hide pathology: its sensitivity for stones, the
+   acute abdomen and bowel obstruction is poor and variable, whereas CT is three-dimensional (3D) and
+   detects >95% of stones.
+
+Static Cystography
+ • Contrast instilled into the bladder shows extravasation, filling defects (stone, foreign body, haematoma,
+   tumour), reflux, neurogenic bladder, diverticula, fistulas and leaks.
+ • Trauma: for suspected bladder injury the American Urological Association (AUA) recommends plain or
+   CT cystography; CT cystography is used more often, but static cystography has similar sensitivity.
+ • Postoperative check of genitourinary (GU) anastomotic integrity.
+ • After radical prostatectomy: bladder neck–to–pubic symphysis (BNPS) ratio = distance from the superior
+   border of the symphysis to the bladder neck ÷ total symphyseal height. A lower ratio predicts better
+   continence (Fig. 5.5: continent patient 0.36; incontinent patient with a low-lying bladder neck 1.1).
+ • Technique: supine scout film → Foley catheter if not indwelling → at least 300–350 mL dilute contrast by
+   gravity → clamp → AP film of full bladder → obliques (posterior diverticula, fistulas, leaks) → drain →
+   postdrainage film (extravasation hidden behind dense contrast).
+ • Limitations: two-dimensional; sensitivity depends on volume instilled and operator skill; active infection
+   risks pyelonephritis or sepsis.
+
+ KEY POINTS: RADIOGRAPHIC STUDIES
+   • X-rays are generated by accelerating electrons into an anode metal.
+   • KUB detects radio-opaque stones, bowel complications and stent and drain position.
+   • Plain films cost less and deliver less radiation than conventional CT.
+   • Static cystography needs baseline, filling and postdrainage films and assesses bladder, urethral and
+     anastomotic integrity.
+
+Concept — Every plain study trades information for dose and cost against CT: projection loses depth and
+hides overlying pathology, so plain films survive where a narrow question (stone follow-up, device position, a
+leak) does not justify CT.
+
+
+
+                                                   page 3 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                         Fluoroscopy
+
+FLUOROSCOPY
+ • Live x-ray imaging for procedures needing real-time feedback: renal access for stones, nephrostomy and
+   ureteric stent placement, InterStim (sacral neuromodulation) implantation, retrograde pyelography,
+   cystography and voiding cystourethrography (VCUG).
+ • Intraoperatively the surgeon takes part in choosing machine settings to keep dose to ALARA.
+
+Fluoroscopy Physics
+ • X-ray production is as in radiography; detection differs. Early systems used a fluorescent screen; modern
+   systems use an image intensifier or a flat panel detector.
+ • Flat panel detector — works like a conventional digital radiography detector.
+ • Image intensifier — x-rays strike the input phosphor (converts to a wavelength suited to the
+   photocathode) → photocathode releases electrons → electrons accelerated across a vacuum by an
+   applied potential → strike the output phosphor at the anode → converted back to light and recorded.
+ • Brightness gain has two sources: electron acceleration (energy gain) and focusing electrons onto a
+   smaller area.
+
+Effect of Machine Settings
+PEAK KILOVOLTAGE VERSUS TUBE CURRENT
+
+                                                                                   Tube current (milliamperes,
+                   Peak kilovoltage (kVp)                                          mA)
+ Changes           Photon energy — maximum energy in kiloelectron volts (keV)      Photon number
+                   proportional to kVp
+ Dose              Rises exponentially (other factors constant)                    Rises linearly
+ Penetration       Increased (higher frequency)                                    Unchanged
+ Image             Decreased                                                       Increased
+ contrast
+
+Retrograde Pyelography
+ • Fluoroscopic study of the upper tract. A CT urogram gives much of the same information, but the
+   retrograde pyelogram is convenient intraoperatively: maps the collecting system for retrograde intrarenal
+   surgery and aids percutaneous access.
+ • Chosen when intravenous (IV) contrast is hazardous: contrast allergy or renal dysfunction.
+ • Evaluates haematuria, obstruction, trauma and tumour; detects extravasation (Fig. 5.6: calyceal leak at a
+   partial nephrectomy site); shows peristalsis, which a CT urogram cannot; performed and read in real time
+   by the surgeon.
+ • Technique: dorsal lithotomy → cystoscopy identifies the ureteric orifice → catheterise → gentle injection
+   of dilute contrast (often 50%) — over-opacification hides small filling defects → fluoroscopic monitoring
+   and mapping.
+ • Air instead of contrast reduces radiation but impairs later ultrasound and, very rarely, causes air
+   embolism if injected under high pressure.
+ • Limitations: usually needs anaesthesia and an operating theatre (cost, complexity); more invasive than CT
+   urography; risk of iatrogenic ureteric injury; over-pressurisation causes backflow — pyelovenous,
+   pyelotubular, pyelosinus, pyelolymphatic (Fig. 5.7) → bacteraemia and sepsis.
+
+
+
+
+                                                        page 4 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                               Fluoroscopy
+
+Voiding Cystourethrography
+ • Static cystography plus voiding-phase fluoroscopy: sphincter and urethral function and competence of
+   the ureterovesical junction.
+ • Gold standard for vesicoureteral reflux (VUR) and recurrent urinary tract infection (UTI). Also: posterior
+   urethra (posterior urethral valves, diverticula), bladder (diverticula, tumours, leaks), ureters (ureterocele,
+   diverticula), kidneys (when reflux present); neurogenic bladder, incontinence, bladder outlet obstruction,
+   voiding difficulty.
+GUIDELINES: IMAGING AFTER FEBRILE UTI IN CHILDREN
+
+ Body                                Population                First test      VCUG
+ European Association of             Children with             Renal–bladder   If ultrasound abnormal or age <12
+ Urology (EAU)                       febrile UTI               ultrasound      months
+ American Academy of                 Age 2–24 months           Renal–bladder   Withheld unless ultrasound suggests
+ Pediatrics (AAP)                                              ultrasound      increased VUR risk
+
+ • Technique: supine scout → catheter by size — infants 5 French (Fr) feeding tube; young children 6–8 Fr;
+   adults 14–16 Fr → fill by gravity, imaging early filling → fill to age-appropriate capacity (Box 5.1) →
+   bilateral obliques (vesicoureteral junctions, prostatic urethra) → remove catheter → void under live
+   fluoroscopy → postvoid film. Repeat fill–void cycles increase sensitivity in high-risk patients.
+BOX 5.1 AGE-DEPENDENT BLADDER CAPACITY FORMULAS
+
+ Age (years)                                       Capacity (mL)
+ <2                                                Weight (kg) × 7
+ 2–14                                              (Age in years × 30) + 30
+ >14                                               300–500
+
+Data modified from ACR–SPR (American College of Radiology–Society for Pediatric Radiology) Practice Parameter, American
+College of Radiology, 2019.
+ • Purpose: the target fill volume for VCUG. Pattern: infants by weight, children by age, adolescents a fixed
+   adult range. Trap: the age formula applies only from 2 to 14 years.
+ • Limitations: invasive → distress for patient and family; a substantial share of outpatient orders are never
+   completed; sterile urine required (risk of seeding the upper tract); impossible without catheterisation
+   (meatal or urethral stenosis, false passage, urethral disruption); spinal cord injury above T6 → autonomic
+   dysreflexia on distension, may need anaesthesia; children are more radiosensitive and have longer life
+   expectancy for cancer to develop.
+
+Retrograde Urethrography
+ • Evaluates the anterior urethra: strictures, suspected trauma, postoperative setting; also diverticula,
+   tumours, fistulas, foreign bodies. Alone or combined with cystography or VCUG; performed before
+   urethral stricture repair; shows distal anatomy other modalities miss.
+ • Technique: 45° oblique, right shoulder down → scout → flushed catheter inserted about 2 cm into the
+   fossa navicularis → balloon inflated with about 2 mL sterile water (occludes; overinflation injures the
+   urethra) → penis on traction to straighten the urethra → gentle contrast → anterior urethra filled to the
+   external sphincter → further injection passes the sphincter into the prostatic urethra and bladder. Adult
+   volume about 20–30 mL. With a Foley already in place, a 5 Fr feeding tube alongside it in the fossa gives
+   a pericatheter urethrogram.
+ • The prostatic urethra does not normally distend on retrograde injection — not to be read as stricture.
+
+
+
+
+                                                               page 5 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                                Fluoroscopy
+ • Limitations: the posterior urethra is inadequately shown → add cystography or VCUG in the same
+   session; catheter-related limitations as for VCUG.
+RETROGRADE URETHROGRAM VERSUS VCUG
+
+                                     Retrograde urethrogram               VCUG
+ Segment shown best                  Anterior urethra                     Posterior urethra, bladder, reflux
+ Direction of contrast               Retrograde from meatus               Antegrade during voiding
+ Classic use                         Stricture mapping, trauma            VUR, posterior urethral valves
+
+Loopography
+ • Retrograde contrast via the stoma into the bowel segment of a urinary diversion → assesses diversion
+   and upper tracts.
+ • Refluxing uretero-intestinal anastomosis → contrast ascends the ureters → filling defects, obstruction.
+   Non-refluxing → upper tracts not shown; an antegrade study is needed.
+ • Indications: haematuria, recurrent infection, pain, declining renal function; surveillance of upper tract
+   neoplasia; anastomotic stricture; diversion patency.
+ • Safe in mild–moderate contrast allergy or renal impairment — minimal systemic absorption from bowel.
+ • Technique: supine scout → catheter through stoma into the loop → instil contrast → films during and
+   after filling → obliques to show the whole upper tract → postdrainage film for obstruction.
+ • Limitations: balloon overinflation in a small-bowel segment can disrupt mucosa; overlapping loops;
+   excessive pressure → pyelonephritis; non-refluxing anastomoses → no upper tract; continent pouches —
+   small tumours missed (irregular walls, large contrast volume).
+
+Fluoroscopic Renal Access
+ • Access to the collecting system for drainage in infection or obstruction (mostly by interventional
+   radiology) and before stone surgery.
+ • For percutaneous nephrolithotomy (PCNL), ultrasound-guided access is increasing but is harder for upper
+   pole access (ribs), obesity and staghorn calculi; fluoroscopy remains the commonest technique.
+FLUOROSCOPIC RENAL ACCESS TECHNIQUES
+
+ Technique                   Sequence                                                     Distinguishing feature
+ Bull's-eye                  Identify target calyx → image intensifier 15–30° towards  Needle kept parallel to the
+                             surgeon → needle end-on as a dot over the calyx → advance beam
+                             under continuous fluoroscopy → rotate C-arm away from
+                             surgeon to judge depth → advance to loss of resistance
+                             (collecting system) or stone resistance
+ Laser direct alignment Bull's-eye positioning with pulsed fluoroscopy → laser on         With endoscopic combined
+ radiation reduction    image intensifier or flat panel aligned with needle →             intrarenal surgery, radiation
+ technique (DARRT)      insertion under laser guidance and intermittent pulsed            cut substantially versus
+                        images                                                            conventional access
+ Triangulation               C-arm at 0° to locate calyx → skin puncture medial to the    Two views triangulate depth
+                             posterior axillary line (prone) → C-arm 30° caudal for upper
+                             pole, 30° cranial for lower pole → needle aimed at the third
+                             corner (calyx) → alternate C-arm positions for depth and
+                             trajectory
+
+ • Robotic, electromagnetic-guidance and fusion access are in development but not yet common.
+
+
+
+
+                                                         page 6 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                        Fluoroscopy
+
+Specialty Fluoroscopy
+ • Cavernosography (corporal leak in erectile dysfunction or trauma), vasography (vas cannulated, contrast
+   maps the system and checks patency), and sacral nerve stimulator placement.
+
+Special Fluoroscopic Considerations
+Three-Dimensional Fluoroscopy (Cone Beam Computerised Tomography)
+ • Surgeons normally rebuild 3D anatomy mentally from two-dimensional images (cognitive fusion). Cone
+   beam CT: C-arm rotates (continuous or pulsed) → many images → filtered back projection reconstruction
+   as in CT; needs a specialised table for circumferential imaging.
+ • Uses: planning and guiding needle access; intraoperative detection of residual stones → immediate
+   improvement of stone-free rate.
+ • CT scanners with a fluoroscopy mode: poorer surgeon access, harder sterile field, higher dose.
+
+ KEY POINTS: FLUOROSCOPY STUDIES
+   • Fluoroscopy gives real-time anatomy during diagnostic and therapeutic procedures.
+   • Retrograde pyelography maps the upper tract intraoperatively and is usually safe with contrast allergy
+     and renal failure.
+   • VCUG captures voiding-phase images and is the standard test for VUR.
+   • Retrograde urethrography evaluates the anterior urethra for stricture, leak, diverticulum and fistula.
+   • Loopography evaluates the urinary tract after diversion.
+   • Fluoroscopy establishes renal access for drainage or before stone treatment.
+
+Concept — Every retrograde contrast study carries the same two liabilities — catheterisation and
+pressurised contrast into a possibly infected system — so sterile urine, gentle low-pressure filling and
+choosing the direction (retrograde for the anterior urethra, voiding for the posterior) recur across all of them.
+
+Fluoroscopic Radiation Reduction Techniques
+ • Fluoroscopy use varies widely between institutions, machines and surgeons; dose reduction benefits
+   patients and staff. The United States Food and Drug Administration issued a white paper urging reduction.
+   Summary of measures (Fig. 5.8): lead gloves, curtain, vest, glasses, thyroid shield and cap; instruments
+   out of the field; collimation; source below the patient; low-dose setting and lower pulse rate; distance
+   from the source; last image hold; recording fluoroscopy time.
+
+Fluoroscope Adjustments
+ • Time. Dose is proportional to fluoroscopy time. Avoid unnecessary images and studies; use last image
+   hold with intermittent spot images; prefer direct endoscopic vision. Ureteroscopy and PCNL have been
+   performed with no radiation, using visual and tactile cues, direct vision and ultrasound. Every activation
+   must be justified.
+ • Collimation. Narrowing the aperture to the region of interest; halving the aperture diameter reduces the
+   exposed area fourfold. Excluding radiodense areas lowers patient dose and improves contrast and image
+   quality.
+ • Low-dose mode. Roughly halves the current (mA), and dose falls by a similar amount; contrast falls but
+   images remain adequate for most urology.
+ • Pulsed fluoroscopy. Continuous fluoroscopy = 30 pulses per second (pps). Theoretical reduction at 8, 4
+   and 1 pps = 73%, 87% and 97%; the real saving is smaller because of the ramp and tail effect of each
+   pulse (Fig. 5.9: modern pulsed units have shorter ramp and tail than conventional pulsed units).
+
+
+                                                   page 7 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                             Computed Tomography
+ • Dose tracking and reporting. Recording fluoroscopy time builds awareness, sets goals and measures
+   reduction strategies; surgeon feedback alone reduces fluoroscopy time. Surgeons should wear
+   dosimeters.
+
+Shielding
+ • Lead aprons, usually 0.25–0.50 mm lead equivalent, absorb most incident radiation; add a thyroid shield.
+ • Standard shielding leaves head, face, neck, arms and legs exposed. With the source below the patient,
+   the surgeon's legs receive the most scatter. Lymphocytes circulating through unshielded areas can show
+   DNA damage after a single endovascular case.
+
+Environmental Factors
+ • Distance. Inverse square law: doubling the distance cuts dose to one quarter — one step back from the
+   table matters. All staff should maximise distance.
+ • C-arm placement. Adjust table height so the detector is close to the patient and the source far → lower
+   patient dose → less scatter. Source below the patient protects the surgeon's chest and abdomen.
+ • Instruments. In automatic exposure control mode the machine raises mA and kVp to hold image quality
+   when radiodense objects enter the beam — instruments, cords, and especially the table's lateral support
+   beam. Keep them out of the field.
+
+ KEY POINTS: FLUOROSCOPY SAFETY
+   • Patients, surgeons and staff can receive substantial doses from fluoroscopic procedures.
+   • Use collimation and shielding whenever possible.
+   • Low-dose and pulsed modes give large reductions with adequate images.
+   • Track fluoroscopy time and keep dose ALARA.
+   • Core measures: less time, shielding, more distance.
+
+Concept — The surgeon's dose is mostly scatter from the patient, so every measure that lowers patient dose
+— collimation, low-dose and pulsed modes, detector close and source below — also protects the team; time,
+distance and shielding act on top of that.
+
+COMPUTED TOMOGRAPHY
+
+Introduction
+ • Introduced in the early 1970s; Sir Godfrey Hounsfield and Allan M. Cormack — 1979 Nobel Prize in
+   Physiology or Medicine (Fig. 5.10). First clinical scan 1971, a brain tumour (Fig. 5.11).
+ • First scan: over 5 minutes to acquire, about 2.5 hours to reconstruct; now abdomen and pelvis in 5–7
+   seconds and the heart in a single beat. Principles are unchanged.
+ • 3D information gives high sensitivity and specificity in benign disease, urological cancer and urogenital
+   trauma.
+
+Computed Tomography Physics
+ • X-rays are produced circumferentially; detectors opposite the source record attenuation at many angles;
+   each angle has a unique profile, and the profiles are computationally reconstructed into a 3D volumetric
+   dataset that can be reformatted in any plane.
+
+
+
+
+                                                   page 8 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                      Computed Tomography
+ • Voxel = small 3D cube of tissue carrying its attenuation value as a CT number. CT numbers are not
+   absolute — they vary between machines and within one machine — but remain useful; shown as
+   greyscale and usually viewed as sequential two-dimensional slices.
+ • Attenuation coefficients are converted to Hounsfield units (HU):
+    HU = [(μtissue − μwater) ÷ μwater] × 1000, where μ = linear attenuation coefficient.
+
+ • Water = 0 HU; less dense tissue negative, denser positive. Air: μ ≈ 0 → −1000 HU. Range −1000 to +3000
+   HU; low HU displays black, high HU white.
+ • The eye cannot separate small HU differences across the full range, so a window selects an HU range and
+   rescales it, each grey step covering a smaller span.
+CT WINDOWS (FIG. 5.12)
+
+ Window             Optimised for             Consequence
+ Soft tissue        Soft-tissue HU            Lung appears completely black
+ Lung               Low HU                    Lung parenchyma discernible
+ Bone               High HU                   Bone and urinary stones; subtle stones best seen here
+
+Image Quality
+ • Image noise: unwanted variation in pixel values → grainy image, poorer contrast resolution. Measured by
+   the signal-to-noise ratio (SNR); higher SNR = less noise.
+ • Noise determinants: tube current–time product (mAs) — more dose, less noise; slice thickness — thicker
+   slices collect more photons, less noise; patient size — larger patients absorb and scatter more, fewer
+   photons reach the detector, more noise; reconstruction algorithm.
+ • Beam hardening: low-energy photons are absorbed preferentially, leaving high-energy photons →
+   artificially low HU centrally or streaks by dense objects. Metal artefact from prostheses: dark bands
+   between two metal objects, light or dark streaks from one (Fig. 5.13: bilateral hip implants). Photon-
+   counting detectors sort photons into energy bins; high-energy data reduce beam hardening and metal
+   artefact.
+ • Partial volume averaging: a voxel too large contains two tissues and shows their average. Key
+   consequence: pseudoenhancement of small renal cysts from adjacent parenchyma, especially on
+   contrast images → cyst misread as enhancing tumour → overtreatment. Fig. 5.14: cyst 16 HU
+   unenhanced, 39 HU nephrographic — a 23 HU rise, above the 20 HU threshold, yet a benign cyst.
+   Minimise with narrow collimation, thin slices and a central region of interest; ultra-high-resolution CT
+   may reduce it.
+ • Slice thickness governs cross-plane resolution and precision of organ measurement; thinner
+   reconstructed slices increase noise, which the operator offsets by raising mAs (dose).
+
+Low-Dose and Ultra-Low–Dose CT
+ • CT is among the most frequent urological investigations and may account for up to 2% of newly
+   diagnosed cancers in the United States — hence the drive to cut dose while keeping image quality.
+
+
+
+
+                                                          page 9 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                     Computed Tomography
+EFFECTIVE DOSES CITED IN THIS CHAPTER
+
+ Study                                             Effective dose
+ Chest x-ray                                       0.07 mSv
+ KUB, single film / two-view                       0.7 mSv / 1.4 mSv
+ Ultra-low–dose CT abdomen/pelvis                  1–2 mSv (about 1 mSv with deep learning reconstruction)
+ Low-dose CT abdomen/pelvis                        <3–4 mSv
+ Conventional CT abdomen/pelvis                    10–20 mSv
+
+ • Dose is cut by lowering tube current (mAs) — the commonest method — or tube voltage. Low-dose and
+   ultra-low–dose protocols are routine for stone diagnosis and follow-up and spreading to other
+   indications.
+ • Tube current should be adjusted to patient size; tube potential and rotation speed are usually fixed per
+   protocol. Faster rotation → less blurring; lower tube potential → more contrast but more noise. Modern
+   scanners modulate dose in real time along the absorption profile.
+
+Image Cross-Sections
+ • Axial = horizontal slices; coronal = vertical slices separating front from back; sagittal = vertical slices
+   separating right from left (Fig. 5.15).
+ • Maximum intensity projection combines slices, placing voxels above an intensity threshold into one
+   image → 3D models; used routinely in CT angiography (Fig. 5.16: donor work-up showing three right renal
+   arteries and one left, so the left kidney was taken). Post-processing can strip lower-density parenchyma to
+   display a stone in 3D.
+
+Image Reconstruction
+ • Ideal reconstruction is fast, low-dose and high-quality; most techniques compromise on at least one.
+ • SNR compares signal power with the noise corrupting it; contrast-to-noise ratio (CNR) compares mean
+   signal in a tissue of interest with background. Lower SNR and CNR mean poorer images.
+ • Filtered back projection (FBP) — since the 1980s; reconstructs in seconds; low SNR and CNR, higher
+   dose.
+ • Model-based iterative reconstruction (MBIR) — computationally heavy: solve for the image → forward-
+   project the attenuation it would produce → compare with measured data → update → repeat until the
+   image fits. High SNR; about half the dose of FBP with better images (Fig. 5.17: superior depiction of
+   retroperitoneal fascia and corticomedullary tissue, most obvious at ultra-low dose). Slow — limits acute
+   use — and gives a waxy, plastic appearance.
+ • Hybrid iterative reconstruction (HIR) — commonly used; vendor-proprietary; statistical modelling with
+   forward projection, faster than MBIR, but SNR low like FBP, waxy image, moderate dose.
+ • Deep learning reconstruction (DLR) — AI trained on thousands of matched low-dose/high-dose image
+   pairs through millions of iterations learns to turn noisy images into high-quality ones; meets all three
+   goals. Ultra-low–dose DLR images look natural at a dose close to a plain radiograph; fast enough for
+   acute settings; supports metal artefact reduction software. Needs close work with the manufacturer's
+   application specialists and the local medical physicist. Fig. 5.18: the same patient at 6.3 mSv with HIR and
+   about 1 mSv with DLR plus metal artefact reduction, artefact markedly reduced — below a two-view KUB.
+TABLE 5.1 COMPARISON OF CT RECONSTRUCTION TECHNIQUES
+
+
+
+
+                                                         page 10 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                        Computed Tomography
+
+ Technique Strengths                                  Weaknesses                                 Vendor examples
+ FBP           Reconstruction speed; control of     Image noise; artefact-prone (streaking);     —
+               image characteristics (e.g. kernel); negligible dose reduction; poor
+               image texture; robust image metrics depiction of low-contrast objects
+ MBIR          Noise reduction strong; low-           Slow; less control of image                VEO (GE), FIRST (Canon),
+               contrast resolution moderate; dose     characteristics; oversmoothing; altered    IMR (Philips), ADMIRE
+               reduction strong; artefact reduction   texture; less robust metrics               (Siemens)
+               strong
+ HIR           Noise, low-contrast resolution, dose Speed; control of image characteristics;     ASIR/ASIR-V (GE), AIDR
+               and artefact reduction all moderate oversmoothing; altered texture; less          3D (Canon), iDose
+                                                    robust metrics                               (Philips), SAFIRE
+                                                                                                 (Siemens)
+ DLR           Noise reduction, low-contrast          Needs large training datasets and           AiCE (Canon),
+               resolution, spatial resolution and     accurate selection of training data; slight TrueFidelity (GE)
+               artefact reduction all strong          loss of fine-detail sharpness; less robust
+                                                      metrics
+
+From Agostini A, Borgheresi A, Granata V, et al., Eur Rev Med Pharmacol Sci, 2022.
+ • Purpose: the trade-off between speed, noise and dose. Pattern: FBP is fast but noisy and dose-hungry;
+   iterative methods cut noise and dose at the price of speed and a plastic texture; DLR is strongest across
+   the board. Trap: HIR is faster than MBIR but does not share MBIR's high SNR.
+
+Dual-Energy CT Scan
+ • Dual-energy CT (DECT) acquires two energy levels simultaneously (e.g. 80 and 140 kVp) and compares
+   attenuation pixel by pixel → material behaviour at each energy, iodine extraction (better iodine detection
+   on low-energy images) and virtual unenhanced images, which also sidestep motion and breathing
+   artefact between phases.
+ • Uses: hyperattenuating cyst versus enhancing renal mass; adrenal nodules; fewer CT urogram phases
+   (virtual unenhanced replaces the true noncontrast phase); stone composition — uric acid versus non–
+   uric acid with near-perfect accuracy at low dose.
+ • Fig. 5.19: after right radical nephrectomy for T1a clear cell RCC, a small hyperdense left lesion was
+   indeterminate on arterial and nephrographic phases; virtual unenhanced images confirmed hyperdensity,
+   and 40 keV monoenergetic images and an iodine map showed no enhancement → hyperdense cyst.
+ • Limitations: motion and beam hardening artefact persist; limited field of view (obesity); more radiation
+   than low-dose and ultra-low–dose CT; longer reconstruction; twice as many images → radiologist
+   workload.
+
+Noncontrast CT
+ • Noncontrast CT (NCCT) uses: diagnosis and follow-up of stones; first phase of renal-protocol CT and CT
+   urography (baseline HU); trauma, to delineate extravasation or active haemorrhage on later phases; renal
+   impairment — hydronephrosis, lymphadenopathy, larger soft-tissue masses.
+
+Noncontrast CT for Kidney Stones
+ • Stones attenuate more than parenchyma and urine, so no IV contrast is needed. NCCT is the gold-
+   standard imaging for urolithiasis (values in Table 5.2).
+ • All stones are visible except protease inhibitor stones (e.g. indinavir).
+ • Gives size, location and indirect signs of obstruction (stranding, hydronephrosis), and composition from
+   density: uric acid 200–400 HU; calcium oxalate 600–1200 HU.
+
+
+
+                                                        page 11 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                          Computed Tomography
+ • View stones on bone window — especially residual fragments after PCNL, where a nephrostomy tube or
+   double-J stent of similar density hides them (Fig. 5.21: bone window separates denser stent coils from an
+   encrusting stone).
+ • Emergency department NCCT use for stones rose several-fold between 1992 and 2009. Against
+   ultrasound, NCCT has higher sensitivity and specificity but costs about twice as much and carries
+   substantial radiation.
+GUIDELINES: FIRST IMAGING IN SUSPECTED UROLITHIASIS
+
+ Body                                      Recommendation
+ AUA Technology Assessment                 CT first in adults with symptoms of urolithiasis; standard-dose CT if body mass
+ Committee                                 index (BMI) >30
+ EAU                                       Ultrasound first; CT only if ultrasound inconclusive
+ AUA surgical guideline                    NCCT before PCNL or SWL
+
+ • A prospective randomised trial supports the EAU approach: starting with point-of-care or formal
+   ultrasound reduced radiation with no difference in outcomes.
+ • Limitations: standard NCCT abdomen/pelvis delivers 10–20 mSv; 10 mSv carries an estimated 1 in 1000
+   chance of cancer — a concern in young, recurrent stone formers.
+
+Low-Dose and Ultra-Low–Dose CT for Kidney Stones
+ • Reducing tube current by up to 95% preserves sensitivity, specificity, stone size and HU measurement.
+TABLE 5.2 COMPARISONS BETWEEN IMAGING MODALITIES FOR THE EVALUATION OF KIDNEY STONES
+
+ Modality                                     Sensitivity (%)   Specificity (%)   Dose (mSv)      Time (min)   Cost (× KUB)
+ CT                                           95                98                10.0            10           10
+ Low-dose CT                                  95                97                ≈3.0            10           10
+ Ultra-low–dose CT                            94                95                ≈1.0            10           10
+ Ultrasound                                   84                53                None            20–30        5
+ KUB                                          57                76                0.7–1.4         <1           1
+ Magnetic resonance imaging (MRI)             82                98                None            60           30
+
+Modified from Brisbane W, Bailey MR, Sorensen MD, Nat Rev Urol, 2016.
+ • Purpose: accuracy against dose, time and cost. Pattern: the three CT tiers are equally accurate while
+   dose falls tenfold; ultrasound avoids radiation but has poor specificity; KUB is cheapest but least
+   sensitive; MRI avoids radiation but is slowest and costliest.
+ • The table gives conventional CT as 10 mSv; the text gives 10–20 mSv. The table carries a single
+   representative value from a review, the text the usual range.
+ • Trap: ultra-low–dose CT (about 1 mSv) delivers less than a two-view KUB (1.4 mSv).
+ • Obesity: low-dose protocols struggle; hence standard CT above BMI 30.
+ • Body habitus: ultra-low–dose protocols (7.5 mAs) detect ureteric stones well at average weight, but very
+   large and very thin patients lose accuracy, which low-dose protocols (15 and 30 mAs) preserve. In thin
+   patients the ureter is hard to trace and phleboliths are confused with ureteric stones.
+ • Also avoid ultra-low–dose CT with metal hardware (degraded image) and suspected infected stones —
+   missing a 1–2 mm ureteric stone is riskier than the radiation of a conventional scan. DLR may rescue ultra-
+   low–dose quality in these groups.
+
+
+
+
+                                                           page 12 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                          Computed Tomography
+
+CT With Intravenous Contrast
+ • Contrast-enhanced abdominal CT is the commonest modality for detecting and characterising cystic and
+   solid renal tumours; contrast improves depiction of organs, lesions and soft tissue.
+ • Phase = time point after injection; protocol = the set and order of phases for a given question. Protocols
+   vary by institution but share the basic phases.
+CONTRAST PHASES
+
+ Phase                         Timing       What is enhanced                       Use
+ Early arterial                20–30 s      Systemic arteries after pulmonary      Renal arteries, variants, active arterial
+                                            transit                                bleeding, stenosis, aneurysm
+ Corticomedullary (late        30–70 s      Cortex, not medulla; arteries and      Cortical and hypervascular masses;
+ arterial)                                  veins                                  renal arterial anatomy
+ Hepatic portal (portal        70–90 s      Portal vein, liver parenchyma, veins   Routine abdomen CT; liver, lymph
+ venous)                                                                           nodes, soft tissue
+ Nephrographic                 90–120 s Tubules and medulla;                       Renal masses — some small medullary
+                                        corticomedullary differentiation lost      masses seen only here
+ Delayed (excretory)           7–10 min Collecting system and ureters              Filling defects, masses, extravasation
+
+ • Enhancement = increase in density with contrast; its extent and timing distinguish pathology, e.g. RCC
+   subtype. Washout = decrease against a prior phase, reflecting how fast contrast clears.
+
+Routine Abdomen and Pelvis CT With Intravenous Contrast
+ • Emergency acute abdomen, ± chest CT; always includes the hepatic portal phase (soft tissue, bowel,
+   lymphadenopathy). Staging and surveillance of urological cancers, including testicular; combined with
+   other phases for bladder and kidney cancer; postoperative bowel obstruction, urine leak and collections;
+   ± oral or rectal contrast.
+ • High-risk prostate cancer nodal staging: positivity thresholds range 0.5–2 cm, but 10 mm is the widely
+   accepted cut-off; sensitivity is poor, so prostate-specific membrane antigen (PSMA) positron emission
+   tomography (PET)–CT is displacing it.
+ • Testicular germ cell tumour after orchidectomy: abdomen–pelvis CT for retroperitoneal nodes;
+   surveillance means repeated scans and cumulative dose; low-dose contrast CT is as effective as standard
+   dose in stage 1 (prospective study).
+
+CT Angiogram
+ • Uses the early arterial phase: renal artery aneurysm, stenosis, occlusion; living kidney donor work-up for
+   accessory or aberrant vessels, often as a four-phase CT (noncontrast, arterial, nephrographic,
+   excretory); acute mesenteric ischaemia; active arterial bleeding as extravasation in haematoma or
+   trauma.
+ • Suspected renal trauma protocol: noncontrast + arterial + nephrographic (parenchyma) + delayed
+   (collecting system integrity).
+
+Adrenal Mass Protocol
+ • Three phases: noncontrast, portal venous, and delayed at 15 minutes for washout.
+ • Lipid-rich adenoma: <10 HU unenhanced → benign. Lipid-poor adenomas need washout calculation;
+   adenomas wash out faster than other adrenal lesions.
+
+
+
+
+                                                           page 13 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                      Computed Tomography
+ADRENAL WASHOUT
+
+               Formula                                                                                 Favours adenoma
+ Absolute (HU portal venous − HU delayed 15 min) ÷ (HU portal venous − HU unenhanced) × 100            >60%
+ Relative      (HU portal venous − HU delayed 15 min) ÷ HU portal venous × 100                         >40%
+
+     • The two share a numerator; the denominator differs — absolute washout needs the unenhanced value.
+
+Renal Mass Protocol
+     • More CT for any abdominal symptom → more incidental RCC; an incidental renal mass is found on a
+       substantial minority of abdominal CT scans.
+     • Phases: noncontrast, corticomedullary, nephrographic, ± delayed (Fig. 5.22: a small RCC barely visible
+       unenhanced, vague in corticomedullary, clear in nephrographic and delayed). The noncontrast phase
+       gives baseline density.
+RENAL MASS ENHANCEMENT THRESHOLDS
+
+ Change in attenuation after contrast                        Interpretation
+ ≥20 HU                                                      Enhancing — vascularised solid tumour
+ 10–20 HU                                                    Equivocal
+ <10 HU                                                      Non-enhancing — cyst
+
+     • Trap: cystic lesions under 10–15 mm may falsely enhance through volume averaging.
+     • Nephrographic phase is the most sensitive for detecting renal tumours, because nearly all masses
+       enhance less than normal parenchyma; it also confirms enhancement and shows tumour thrombus
+       extent into the inferior vena cava.
+     • Corticomedullary phase: cortical masses, clear cell RCC (ccRCC) versus other subtypes, arterial anatomy,
+       renal vein involvement.
+     • Subtype: ccRCC enhances early and avidly; papillary, chromophobe and oncocytoma enhance later. BMI
+       and cardiac output distort enhancement; an aorta-corrected attenuation (tumour HU × ratio of cohort
+       mean aortic HU to the patient's aortic HU) improves discrimination in the corticomedullary phase.
+     • Angiomyolipoma (AML): macroscopic fat ≤ −10 HU on NCCT → diagnostic (Fig. 5.24: 8 cm left upper-pole
+       AML with fat matching retroperitoneal and subcutaneous fat, plus vascular and smooth-muscle
+       components). Fat-poor AML: hyperdense on NCCT with rapid enhancement and washout supports the
+       diagnosis.
+     • Cystic masses are classified by the 2019 Bosniak classification (Table 5.3, Fig. 5.23).
+TABLE 5.3 2019 BOSNIAK CLASSIFICATION OF RENAL CYSTIC TUMOURS
+
+                                                                                               Malignancy /
+ Class CT findings                                                                             management
+ I         Well defined, homogeneous simple fluid −9 to 20 HU; smooth thin wall (≤2 mm),       Benign simple cyst — no
+           may enhance; no septa, no calcification                                             follow-up
+ II        (a) Cystic mass, smooth thin wall, few (1–3) thin (≤2 mm) septa, wall/septa may     Benign or highly likely
+           enhance, calcification of any type; or homogeneous masses: (b) ≥70 HU on            benign — no follow-up
+           noncontrast CT; (c) non-enhancing >20 HU at renal-mass protocol, calcification of
+           any type; (d) −9 to 20 HU on noncontrast CT; (e) 21–30 HU on portal-phase
+           contrast CT; (f) hypodense, too small to characterise. A cystic mass has <about 25%
+           enhancing tissue on visual inspection
+
+
+
+
+                                                        page 14 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                         Computed Tomography
+
+                                                                                                 Malignancy /
+ Class CT findings                                                                               management
+ IIF     Smooth minimally thickened (3 mm) enhancing wall or septa, or many (≥4)                 Likely benign, malignancy
+         smooth thin enhancing septa                                                             <10% — follow-up at 6
+                                                                                                 and 12 months, then
+                                                                                                 annually for 5 years
+ III     ≥1 thick (≥4 mm) enhancing wall/septum, or irregular wall/septa: ≤3 mm convex           Intermediate, about 50%
+         protrusion with obtuse margins                                                          — refer to urologist
+ IV      ≥1 enhancing nodule: convex protrusion of any size with acute margins, or ≥4 mm Often malignant, about
+         with obtuse margins                                                             90% — refer to urologist
+
+Measurements on contrast-enhanced CT, perpendicular to the wall or septum, excluding it. From Tsili AC, Varkarakis I,
+Pasoglou V, et al., Eur J Radiol, 2023.
+  • Purpose: triage of cystic masses into ignore, follow, or refer. Pattern: wall and septal thickness climbs 2 →
+    3 → ≥4 mm; septal number climbs 1–3 → ≥4; the protrusion rule separates III from IV.
+  • Trap: a ≤3 mm obtuse protrusion is irregularity (III); ≥4 mm obtuse or any acute-angled protrusion is a
+    nodule (IV). Calcification of any type is compatible with class II.
+
+CT Urography
+  • CT urogram (CTU) images kidneys, ureters and bladder with thin slices and always includes a delayed
+    excretory phase.
+CT UROGRAPHY TECHNIQUES
+
+ Technique         Acquisition                                   Trade-off
+ Single-bolus      Noncontrast (stones, baseline HU) →           Most phases, most radiation
+ (standard)        corticomedullary → nephrographic →
+                   excretory
+ Split-bolus       Two injections → one combined                 Less radiation, but lower sensitivity for subtle
+                   nephrographic–excretory phase                 urothelial lesions and small RCC, possible understaging;
+                                                                 may need more contrast → acute tubular necrosis risk
+ DECT              Virtual unenhanced phase from contrast       Least radiation for full information
+                   phases; with split-bolus → all phases in one
+                   acquisition (Fig. 5.25)
+
+  • Upper tract urothelial carcinoma (UTUC): CTU is the routine diagnostic test, with high sensitivity and
+    specificity in meta-analysis. Appearance: soft-tissue density on noncontrast images, lower attenuation
+    than stone or clot; early moderate enhancement; filling defect in the excretory phase (Fig. 5.26).
+  • Distal ureters often fail to opacify even when normal. Aids: IV diuretic, oral or IV hydration, prone
+    position, abdominal compression — hydration is the simplest and most effective.
+  • Bladder cancer: CTU recommended for multiple or high-risk tumours or trigonal involvement. Tumour
+    enhances more than normal wall: polypoid mass, broad-based plaque-like thickening, or diffuse
+    infiltration (Fig. 5.27). High sensitivity and specificity for primary and recurrent tumour, provided the
+    bladder is well distended and the wall is read on axial plus coronal and sagittal reformats.
+  • Local staging: macroscopic perivesical fat invasion (T3b) and adjacent organs (T4); accuracy rises with
+    stage. Perivesical invasion: irregular tumour–fat interface, often with stranding. Perform CT before
+    transurethral resection of bladder tumour (TURBT), because post-resection change mimics invasion.
+  • CT cannot reliably separate muscle-invasive from non-muscle-invasive disease; bladder wall retraction
+    and hydronephrosis are indirect signs of invasion.
+
+
+
+
+                                                        page 15 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                      Computed Tomography
+ • Nodes in bladder cancer: moderate accuracy; pathological if short axis >8 mm pelvic, >10 mm
+   abdominal.
+ • Ureteric injury (traumatic or iatrogenic): delayed-phase extravasation locates it. Laceration →
+   extravasation with distal ureter opacified; transection → distal ureter not opacified (Fig. 5.28: mid-
+   ureteric leak after colostomy takedown). Excretion begins 3–4 minutes after injection and lasts over an
+   hour; with obstruction (e.g. pelviureteric junction obstruction) it is delayed, so add later excretory
+   images.
+
+CT Cystography
+ • Modality of choice for traumatic, iatrogenic and other bladder pathology; trauma patients already
+   having abdomen–pelvis CT get it in the same sitting; used less often in isolation for fistulas and leaks.
+ • Technique: exclude urethral injury → at least 300–350 mL dilute contrast via catheter. Passive filling by
+   excreted contrast is inadequate; retrograde filling is required (Fig. 5.29: passive filling missed an
+   extraperitoneal rupture that retrograde filling showed). No postdrainage images needed, unlike
+   conventional cystography.
+ • Done properly, conventional and CT cystography are both highly accurate.
+EXTRAPERITONEAL VERSUS INTRAPERITONEAL BLADDER RUPTURE
+
+ Extraperitoneal                                                      Intraperitoneal
+ Flame-shaped or molar tooth collection around the bladder in         Contrast in the peritoneal cavity outlining bowel
+ the space of Retzius; if the urogenital diaphragm is disrupted,      loops and surrounding liver and/or spleen (Fig.
+ contrast extends into the scrotum                                    5.30: dome rupture)
+
+ • Pitfalls: a large pelvic haematoma can hide extravasation from a dome rupture; diverticula mimic
+   extravasation; a large extraperitoneal rupture prevents distension and so hides a coexisting
+   intraperitoneal rupture.
+
+Positron Emission Tomography CT
+ • PET-CT images biochemical processes (e.g. glucose metabolism). Radioisotopes emitting positrons are
+   coupled to ligands (e.g. glucose) taken up avidly by tumour → positron meets electron → annihilation →
+   two 511 keV photons in opposite directions → detected → 3D map of isotope distribution overlaid on CT
+   (Fig. 5.31).
+ • PSMA PET-CT in prostate cancer: tracers gallium-68 (68Ga)–PSMA and fluorine-18 (18F)–PSMA; uptake
+   quantified as the standardised uptake value (SUV), which accounts for injected activity, body weight and
+   injection-to-imaging time.
+ • Better detection of locoregional and metastatic disease (Fig. 5.32: thoracic and abdominal nodes).
+   Biochemical recurrence (BCR) detected earlier: positivity rises with prostate-specific antigen (PSA) level,
+   detection is useful even at PSA <0.5 ng/mL, with very high specificity; 18F-PSMA outperforms 68Ga-
+    PSMA for BCR.
+ • Metastatic detection: PSMA PET-CT is more sensitive than MRI, choline PET and bone scan, and has the
+   highest sensitivity and specificity for skeletal metastases.
+ • RCC: carbonic anhydrase IX is expressed on almost all ccRCC; zirconium-89 (89Zr)–girentuximab PET-CT
+   (antibody to carbonic anhydrase IX) diagnoses localised ccRCC and may separate ccRCC from non-ccRCC in
+   metastatic disease.
+
+ KEY POINTS: COMPUTED TOMOGRAPHY
+   • A rotating x-ray tube acquires data that are reconstructed into slices of 3D anatomy.
+
+
+                                                      page 16 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                         Contrast Media
+     • NCCT is highly sensitive for urinary stones and is the first phase of several protocols.
+     • Low-dose and ultra-low–dose CT diagnose stones effectively and reduce dose by up to 95%.
+     • Contrast improves tissue differentiation; timing of enhancement and washout identifies pathology.
+     • CTU uses IV contrast and thin slices in the excretory phase to image the urinary tract.
+     • PET-CT uses labelled molecules taken up by metabolically active tissue to highlight possible neoplasia.
+
+Concept — CT answers two questions in sequence: baseline HU says what a lesion is made of (fat, fluid,
+stone, blood), and the change in HU across timed phases says what it does (enhances, washes out, excretes,
+leaks). Each protocol is simply the set of phases that answers a given question at the lowest dose.
+
+CONTRAST MEDIA
+ • Contrast improves differentiation of adjacent structures; agents are safe for most patients, but clinicians
+   and staff must recognise and treat reactions, with drugs and equipment at hand.
+ • Severe allergic reactions to intravascular iodinated contrast are rare.
+HYPERSENSITIVITY REACTIONS TO IODINATED CONTRAST
+
+ Immediate                                                                  Nonimmediate (delayed)
+ Within the first hours: erythema, urticaria, angio-oedema, hypotension,    Hours to days, generally milder:
+ dyspnoea, nausea, vomiting; anaphylaxis if severe                          maculopapular rash, urticaria
+
+ • Observe for at least 30 minutes after iodinated contrast.
+ • Management: stop contrast → anaphylaxis: intramuscular (IM) adrenaline (epinephrine) 0.3–0.5 mg
+   every 5–15 minutes, to a maximum of 1 mg → oxygen and β2-agonist (salbutamol/albuterol) 2 puffs of
+     90 µg, repeatable up to 3 times → mild reactions (pruritus): observation or H1-antagonist, with close
+     monitoring because they can progress → later, drug provocation and skin tests to confirm contrast as the
+     cause → careful risk–benefit analysis before any further iodinated contrast.
+ • Premedicate high-risk patients: previous contrast reaction, asthma, atopy, severe cardiovascular disease,
+   drug allergy, female sex. Breakthrough reactions still occur, and benefit against rare severe reactions is
+   debated, but premedication remains recommended.
+BOX 5.2 PREMEDICATION IN PREPARATION FOR CONTRAST ADMINISTRATION
+
+ Regimen            Medication                     Dose                         Timing before contrast
+ 1                  Prednisone                     50 mg orally (PO)            13 h, 7 h and 1 h
+                    Diphenhydramine                50 mg PO or IM               1h
+ 2                  Methylprednisolone             32 mg PO                     12 h and 2 h
+                    Diphenhydramine                50 mg PO or IM               1h
+
+Modified from ACR Committee on Drugs and Contrast Media, 2023.
+ • Purpose: two interchangeable steroid regimens, each with an antihistamine 1 hour before. Trap:
+   prednisone is three doses (13–7–1), methylprednisolone two (12–2).
+
+
+
+
+                                                     page 17 of 18
+Ch 5 — Principles of CT and Radiographic Imaging                                                      Artificial Intelligence
+CONTRAST-ASSOCIATED VERSUS CONTRAST-INDUCED ACUTE KIDNEY INJURY
+
+ Contrast-associated AKI (CA-AKI)                                     Contrast-induced AKI (CI-AKI)
+ Formerly postcontrast AKI                                            Formerly contrast-induced nephropathy
+ AKI within 48 hours of contrast, whether or not contrast caused it   Subset in which contrast is the causative agent
+
+ • Kidney Disease: Improving Global Outcomes (KDIGO) definition of acute kidney injury (AKI), any one of:
+   serum creatinine rise ≥0.3 mg/dL (≥26.5 µmol/L) within 48 hours; rise ≥50% (≥1.5 × baseline) within 7
+   days; urine output <0.5 mL/kg/hour for ≥6 hours.
+ • Some evidence suggests modern agents do not significantly raise AKI risk; the American College of
+   Radiology (ACR) Committee on Drugs and Contrast Media holds that CI-AKI is rare but real.
+ • Prevention: noncontrast study where possible; IV fluids for high-risk patients; iso-osmolar or low-
+   osmolar contrast; kVp lowered to 80 so iodine attenuates optimally and less contrast is needed; weight-
+   based dosing.
+
+ KEY POINTS: CONTRAST MEDIA
+   • Contrast aids tissue differentiation but carries rare adverse reactions.
+   • Give adrenaline for severe immediate reactions; add oxygen and β2-agonists for bronchospasm.
+
+   • Observe mild reactions or give H1-antagonists, with close monitoring.
+
+   • Premedicate patients at high risk of allergic reaction.
+   • For patients at risk of CI-AKI, give IV fluids and reduce contrast dose.
+
+Concept — Contrast carries two unrelated risks: hypersensitivity, which is idiosyncratic and handled by
+premedication and adrenaline, and nephrotoxicity, which is dose-related and handled by hydration and less
+contrast. Prophylaxis for one does nothing for the other.
+
+ARTIFICIAL INTELLIGENCE
+ • Models used: machine learning, artificial neural networks and convolutional neural networks (CNNs) —
+   the commonest in diagnostic imaging. CNNs detect stones on CT with very high sensitivity; artificial
+   neural networks detect renal tumours with good accuracy.
+ • Main advantage: processing big data rapidly. Growing electronic records supply training data; pattern
+   recognition improves the systems.
+ • AI may speed interpretation and improve accuracy, but replacing radiologists is distant; its role in imaging
+   will grow.
+
+
+
+
+                                                     page 18 of 18
+

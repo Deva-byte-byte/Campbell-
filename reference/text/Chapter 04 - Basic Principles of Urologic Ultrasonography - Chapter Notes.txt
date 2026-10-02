@@ -1,0 +1,902 @@
+Chapter 4 — Basic Principles of Urologic Ultrasonography
+
+Chapter 4 — Urinary Tract Imaging: Basic Principles of
+Urologic Ultrasonography
+ • The “urologist’s stethoscope”: much of the genitourinary tract cannot be examined clinically, and
+   ultrasound often gives superior and faster diagnostic information than plain radiography, computed
+   tomography (CT) or magnetic resonance imaging (MRI).
+ • Excellent safety profile, low cost and portability make it a natural first-line point-of-care tool in the clinic,
+   the ward and the operating room.
+ • Its multiple modes and live imaging assess fluid and flow dynamics, which is why it suits urology in
+   particular.
+ • The same physician performs and interprets the study, fusing technical and anatomical expertise; this is
+   its defining advantage over radiology-performed imaging.
+ • Full use requires three competencies: the physical principles, the technical skill to image each organ, and
+   the expected normal appearances of the major structures.
+
+BRIEF HISTORY OF ULTRASOUND IN UROLOGY
+MILESTONES IN UROLOGICAL ULTRASOUND
+
+ Year    Investigators         Advance
+ 1955 Wild and Reid            Transrectal ultrasound attempted; images uninterpretable
+ 1963 Takahashi and            Credited by the chapter as the first ultrasonic examination of the prostate; images
+      Ouchi                    uninterpretable, little clinical utility
+ 1971 Goldberg and             A-mode “nephrosonography”: first to distinguish solid, cystic and complex renal masses,
+      Pollack                  where intravenous pyelography (IVP) could not separate benign from malignant; high
+                               accuracy
+ 1974 Watanabe et al.          Radial transrectal scanning via the “Magician’s Chair”; first adequate imaging of prostatic
+                               and bladder pathology
+ 1974 Holm and                 Transurethral ultrasonic probe, interchangeable with cystoscope optics
+      Northeved
+ 1976 Perri et al.             First use of Doppler as a sonic stethoscope, in the acute scrotum
+ 1976 Watanabe et al.          Doppler identification of renal arteries, non-invasively
+ 1981 Greene et al.            Doppler separates stenotic from normal renal arteries
+ 1982 Arima et al.             Doppler separates acute from chronic renal transplant rejection
+ 1993 Madersbacher et First report of safety and efficacy of high-intensity focused ultrasound (HIFU) in
+      al.             symptomatic benign prostatic hyperplasia (BPH)
+
+ • Watanabe’s chair: modelled on a museum sculpture; the patient sat on a chair with a central hole
+   through which the transducer tube passed into the rectum. BPH appeared as circumscribed symmetrical
+   echogenicity; cancer as asymmetrical hyperechogenicity; resolution was poor and contrast extreme.
+ • Biplane, high-frequency probes later raised resolution and made transrectal ultrasound the standard for
+   diagnosing prostatic disease.
+ • A-mode patterns (Goldberg and Pollack): cystic — two spikes only (front wall, back wall), even at high
+   gain; complex — additional internal spikes; solid — multiple spikes, becoming continuous at high gain.
+   More internal complexity → more returning spikes.
+
+
+
+
+                                                           page 1 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                Brief History of Ultrasound in Urology
+ • Holm and Northeved aimed to stage depth of bladder tumour penetration, measure prostatic volume,
+   follow prostatic tumour progression and assist transurethral resection of the prostate.
+ • Perri et al.: epididymitis and torsion of the appendix testis showed increased flow; spermatic cord torsion
+   showed absent flow; but torsion could give a false negative from increased flow due to reactive
+   hyperaemia.
+ • Arima et al.: acute rejection = loss of the diastolic phase; its reappearance signals recovery; Doppler
+   proposed as an index to guide steroid therapy.
+ • HIFU was subsequently explored in testicular cancer, early and recurrent prostate cancer, and renal cell
+   carcinoma (RCC) — transcutaneously and laparoscopically — after earlier reports of histological change.
+ • Later novel uses: transrectal ultrasound-guided botulinum toxin injection into the external sphincter in
+   detrusor–external sphincter dyssynergia; perineal ultrasound video-urodynamics to diagnose bladder
+   outlet obstruction (BOO) non-invasively.
+ • Evolution continues with contrast agents and sonoelastography.
+Concept — Each milestone applied one physical principle — echo timing, Doppler shift or focused energy — to
+a question that existing imaging could not answer; the reactive-hyperaemia false negative in torsion is the
+oldest Doppler trap in urology and still stands.
+
+PHYSICAL PRINCIPLES
+ • Every ultrasound image is the product of sound interacting with tissue.
+ • Sequence of generation: short bursts of alternating current → crystals in the transducer → piezoelectric
+   expansion and contraction → mechanical wave → coupling medium → skin → body → partial reflection →
+   transducer “listens” and reconverts mechanical to electrical energy.
+ • The waves are longitudinal: particle motion is in the direction of propagation, creating alternating
+   compression and rarefaction of tissue.
+ • The transducer needs direct, secure contact to transmit and receive.
+ • Repeated transmission and reception at short intervals give a real-time image. Urological imaging uses
+   3.5–20 MHz.
+WAVE NOMENCLATURE
+
+ Term                  Definition
+ Wavelength (λ)        Distance from one peak (of compression) to the next
+ Cycle                 The complete path from one peak to the next
+ Hertz (Hz)            One cycle per second
+ Period                Time taken for one complete cycle
+ Amplitude             Maximal excursion from baseline; represents pressure difference and mechanical energy
+
+ • Amplitude sets pixel brightness on the grey-scale image: greater amplitude → brighter pixel.
+
+Ultrasound Image Generation
+ • The transducer is both sender and receiver; pulses are partly reflected and returned echoes are
+   converted to electrical signal. It acts as a receiver for more than 99% of the time.
+ • Signal chain: master clock → pulse generator → transducer → echoes analysed for amplitude and transit
+   time → time-gain compensation (TGC) → amplifier → scan converter → monitor. The image is a series of
+   vertical lines continuously refreshed.
+
+
+
+
+                                                           page 2 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                                        Physical Principles
+Resolution
+ • Resolution is the ability to discriminate two objects close together.
+AXIAL VERSUS LATERAL RESOLUTION
+
+                       Axial                                    Lateral
+ Separates             Along the beam (one behind the           Equidistant from the transducer (side by side)
+ objects               other)
+ Determined by         Frequency                                Beam width at that depth (a transducer characteristic)
+ Improved by           Higher frequency                         Placing the focal zone (narrowest beam) at the depth of
+                                                                interest
+
+ • The focal zone is operator-adjustable and marked on screen by a caret; the example places it on the
+   medial renal cortex. Modern transducers add beam steering, multiple foci and azimuthal-plane focusing.
+ • Velocity = frequency × wavelength. Average velocity in soft tissue is 1540 m/s; being constant, frequency
+   and wavelength vary inversely.
+ • The resolution–penetration trade-off: 7–18 MHz gives excellent resolution for superficial structures
+   (testis, paediatric kidney); deeper structures need lower frequency and therefore have poorer axial
+   resolution.
+
+Mechanisms of Attenuation
+MECHANISMS OF ATTENUATION
+
+ Mechanism       What happens                                                  Consequence
+ Reflection      Wave strikes an object, surface or interface between          The source of all returning image
+                 unlike tissues; amount depends on object shape, size,         information
+                 angle of incidence and impedance difference
+ Scattering      Wave strikes a small or irregular object; spherical waves     Energy dispersal; generates interference
+                 overlap those of neighbouring scatterers
+ Interference Waves in phase enhance, out of phase diminish                    Organ echo texture; “speckle” in organs
+              amplitude                                                        with fine internal reflectors, e.g. the finely
+                                                                               granular homogeneous testis
+ Absorption      Mechanical energy → heat; directly proportional to            Higher frequency → more heating, faster
+                 frequency                                                     attenuation, shallower penetration
+
+ • Impedance is a property governed by tissue stiffness and density; it is the difference in impedance across
+   an interface that makes the interface visible.
+TABLE 4.1 DENSITY AND IMPEDANCE OF TISSUES ENCOUNTERED DURING UROLOGIC ULTRASOUND
+
+ Group                         Tissue                               Density (kg/m³)        Impedance (×10⁶ kg/m²·s)
+ Gas                           Air and other gases                  1.2                    0.0004
+ Soft tissue and fluid         Fat                                  952                    1.38
+                               Water and clear liquids              1000                   1.48
+                               Kidney (average soft tissue)         1060                   1.63
+                               Liver                                1060                   1.64
+                               Muscle                               1080                   1.70
+
+
+
+
+                                                           page 3 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                                      Physical Principles
+
+ Group                         Tissue                                Density (kg/m³)        Impedance (×10⁶ kg/m²·s)
+ Calcified                     Bone and calcified objects            1912                   7.80
+
+ • What the table is for: soft tissues and fluids cluster within a narrow impedance band, so their interfaces
+   reflect modestly and remain visible; gas and calcification sit at the extremes, so their interfaces reflect
+   almost everything — hence coupling gel, bowel-gas artifact and stone shadowing.
+ • Pattern: kidney and liver share the same density and near-identical impedance → the hepatorenal
+   interface is hard to see, especially with little perinephric fat; the kidney–perinephric fat interface is
+   sharp.
+ • Trap: reflection depends on impedance difference, not density; a large difference (urine–stone) causes
+   strong reflection and acoustic shadowing distal to the interface.
+
+Artifacts
+ • Artifacts are images not reflecting true anatomy; they mislead if unrecognised but aid diagnosis if
+   recognised.
+ARTIFACTS
+
+ Artifact                   Mechanism                       Appearance and classic site                 Mitigation
+ Acoustic shadowing         Strong attenuation or           Anechoic/hypoechoic shadow distal to        Change angle of
+                            reflection at an interface      stone; three-dimensional stones appear      insonation,
+                                                            crescentic → inaccurate measurement;        transducer
+                                                            pathology behind may be missed              frequency or focal
+                                                                                                        zone
+ Increased through          Structure attenuates less       Tissue behind a simple renal cyst           Change angle; adjust
+ transmission (distal       than surrounding tissue         appears hyperechoic though                  TGC
+ enhancement)                                               histologically identical
+ Edging (critical-angle) Wave strikes a curved              Hypoechoic shadow; upper-pole tunica        Change angle of
+                         surface at the critical angle      albuginea; lateral prostatic lobes          insonation
+                         → refracted along the              meeting at the urethra on transrectal
+                         interface, not reflected           imaging
+ Reverberation              Wave bounces between        Repeated echoes at equal intervals,             —
+                            two strongly reflective     progressively less echoic; second echo
+                            interfaces (large impedance read at twice the depth
+                            difference)
+ Comet tail                 Series of small reflectors,     Hyperechoic tail distal to bowel, fading;   —
+ (reverberation             e.g. gas–fluid mixture in       may obscure the lower pole of the
+ variant)                   bowel                           kidney
+
+ • Pattern: shadowing and enhancement are opposite ends of the same variable — attenuation relative to
+   neighbours — which is why a shadow implies stone or calcification and enhancement implies fluid.
+Concept — The whole section reduces to two relationships: frequency trades resolution against penetration
+because velocity is fixed and absorption rises with frequency, and impedance mismatch decides what
+reflects; every artifact is one of these relationships made visible.
+
+MODES OF ULTRASOUND
+Gray-Scale Ultrasound
+ • B-mode is the most commonly used mode: pulsed wave, real-time, two-dimensional (2D), in shades of
+   grey.
+
+
+
+                                                            page 4 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                                       Modes of Ultrasound
+ • Pixel brightness = echo amplitude; pixel position = round-trip time; data lines displayed sequentially give
+   a continuous image.
+NORMAL ECHOGENICITY OF STRUCTURES
+
+ Brighter (hyperechoic)             Darker (hypoechoic)
+ Bone, cartilage, tendons,          Fluid-filled cavities (vessels, cysts, bladder), muscle, some solid organs (liver, spleen);
+ fascial layers, fat                air-filled cavities (lung, bowel) are dark beyond a bright reflective surface
+
+Doppler Ultrasound
+ • Principle: a wave striking a moving object is shifted in frequency according to the object’s direction and
+   velocity and the angle of insonation; mostly used for blood, also for urine flow.
+ • Resistive index (RI) = (peak systolic velocity [PSV] − end-diastolic velocity [EDV]) / PSV; reflects
+   peripheral vascular resistance; used in renal artery stenosis, ureteral obstruction and penile arterial
+   insufficiency.
+COLOUR, SPECTRAL AND POWER DOPPLER
+
+                                                               Colour flow with spectral
+               Colour Doppler                                  display                       Power Doppler
+ Displays      Velocity and direction: commonly blue           Flow at a sampled point as Amplitude of frequency shift; no
+               away, red toward the transducer;                a continuous waveform      velocity or direction
+               brighter = faster
+ Sensitivity Baseline                                          —                             Three to five times colour; less
+                                                                                             angle-dependent
+ Uses          Flow presence in kidney, testis, penis,         Intrarenal and penile         Perfusion; testicular torsion;
+               prostate; ureteric jets                         vessels; RI                   hypervascular intraprostatic
+                                                                                             lesions
+
+ • Power Doppler example: a hypoechoic prostatic lesion that is hypervascular on power Doppler proved to
+   be Gleason 4+4 cancer.
+ • Trap: the red/blue assignment is a convention, not a law — colour encodes direction relative to the
+   transducer, not artery versus vein.
+
+Harmonic Scanning
+ • Principle: waves propagating through tissue undergo non-linear distortion, generating harmonic
+   frequencies at multiples of the transmitted (fundamental) frequency; the transducer selectively receives
+   the harmonic to build the image.
+ • Harmonics are less affected by noise and artifact → clearer image, better contrast resolution; improves
+   small structures and reduces tissue clutter. A cyst with a mural nodule shows less spurious internal and
+   distal echo.
+ • Used in contrast-enhanced ultrasound to improve visualisation of contrast agents.
+
+Spatial Compounding
+ • The direction of insonation is altered electronically and a composite image generated → less artifact and
+   noise. Urological uses: Peyronie plaques and renal cysts.
+
+Sonoelastography
+ • Ultrasound “palpation”: hard lesions are often pathological; elastography maps tissue elasticity
+   (compressibility and displacement) in colour. It needs a compressing mechanical wave within the tissue.
+
+
+
+
+                                                            page 5 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                                         Modes of Ultrasound
+ • Principle: the same force gives a larger displacement in softer tissue; measuring displacement estimates
+   hardness and separates benign (soft) from malignant (hard).
+ • Young’s modulus: E = σ / ε (stress / strain); E is higher in hard tissue.
+ • Common sequence: stress induced (manual compression in real-time elastography [RTE]; machine-
+   generated low-frequency vibration in shear wave elastography [SWE]) → tissue imaged to analyse strain
+   → stiffness parameters defined.
+REAL-TIME VERSUS SHEAR WAVE ELASTOGRAPHY
+
+                   Real-time elastography                  Shear wave elastography
+ Stress            Manual pressure with the                Automatic low-frequency pulses (~100 Hz), in one area or a vertical
+ source            transducer                              plane by altering focal depth
+ Wave              Compression wave, ~1540 m/s             Shear wave (tangential “sliding” between layers), 1–10 m/s
+ Output            Relative elasticity only (stress        Quantitative: E = 3ρc² (ρ density, c shear-wave speed)
+                   not measurable); qualitative
+ Strengths         High spatial resolution; real-          Absolute stiffness; less operator-dependent
+                   time; no hardware modification
+ Weaknesses Highly user-dependent; cannot                  Shear waves weak (propagate a few millimetres); detection needs
+            measure absolute stiffness                     pulse repetition frequency >5000 Hz, limiting area — overcome by
+                                                           newer systems
+
+ • Spatial resolution encompasses both axial and lateral resolution.
+ • Colour coding is set by the manufacturer or user — always read the colour bar, as with colour Doppler.
+ • Testicular examples: a 4-mm hypoechoic nodule with internal flow was hard on RTE yet stable on 3-
+   monthly surveillance → “probably benign”; small hypoechoic vascular lesions soft on SWE → Sertoli cell
+   nodule; a larger heterogeneous lesion diffusely hard → non-seminomatous germ cell tumour.
+ • Trap: hard is not synonymous with malignant.
+
+Three-Dimensional Scanning
+ • Widely used in obstetrics and gynaecology, limited in urology. A composite dataset is manipulated to
+   generate new views (e.g. testicular flow on power Doppler).
+ • Roles: procedural planning, precise volumetry, and recognition of tissue patterns inapparent on 2D.
+
+Multiparametric Ultrasound
+ • Multiparametric ultrasound (mpUS) combines grey-scale, Doppler, elastography, contrast enhancement
+   and computer-enhanced imaging.
+ • It parallels multiparametric MRI (mpMRI) — T2 anatomy, diffusion, contrast vascularity — but in real
+   time; established in transrectal prostate imaging and spreading beyond.
+MULTIPARAMETRIC ULTRASOUND VERSUS MRI
+
+ Attribute                    Ultrasound                                      MRI
+ Anatomical resolution        2.3 mm (7.5 MHz)                                1 mm
+ Vascularity                  Microbubbles; safe in renal                     Gadolinium; nephrogenic systemic fibrosis (NSF)
+                              insufficiency                                   risk
+ Tissue structure             Elastography (strain, shear)                    Water diffusion / apparent diffusion coefficient
+                                                                              (ADC)
+ Chemical                     —                                               Choline / spectroscopy
+ characteristics
+
+
+
+
+                                                               page 6 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                                    Modes of Ultrasound
+
+ Attribute                    Ultrasound                                  MRI
+ Biopsy access                Real-time, unlimited flexibility            Fusion techniques or in-bore
+
+Concept — Every mode extracts a different physical property from the same returning echo — amplitude (B-
+mode), frequency shift (Doppler), non-linear harmonics, displacement under stress (elastography) — and
+multiparametric ultrasound simply stacks them, as mpMRI stacks sequences.
+
+CONTRAST AGENTS IN ULTRASOUND
+ • Perflutren microspheres (Definity, Optison): highly echogenic microbubbles producing strong echoes
+   with harmonics.
+INTRAVENOUS VERSUS INTRAURINARY CONTRAST
+
+                Intravenous                                                                      Direct into urinary tract
+ Purpose        Characterise solid-organ vascular and tissue anatomy                             Opacify the collecting
+                                                                                                 system
+ Elimination Lungs — broken down and exhaled                                                     Urinary drainage
+ Safety         Generally safe; contraindicated in certain cardiovascular or respiratory         No adverse effects
+                conditions                                                                       reported
+
+
+SOLID ORGAN EVALUATION
+Renal Masses
+ • Contrast-enhanced ultrasound (CEUS) enhances the acoustic signal of blood flow within a mass, helping
+   characterise solid renal tumours.
+ • Sequence: small intravenous bolus → systemic circulation → renal perfusion → real-time imaging of
+   enhancing flow in the mass → mass distinguished from normal parenchyma.
+ • Less accurate than CT or MRI for initial work-up, but useful for tumour vascular architecture, live
+   intraoperative assessment during cryoablation, and solid-tumour surveillance; it detects recurrent RCC
+   in chronic renal insufficiency, where nephrotoxic contrast is best avoided.
+
+ASSESSMENT OF COLLECTING SYSTEM AND URINARY SPACE
+ • Contrast injected directly into the urinary space shows collecting system anatomy and urinary patency.
+ • Intravenous microspheres never opacify the collecting system — they are too large to cross the
+   glomerular filtration barrier.
+ • Viewed in B-mode or harmonic mode; harmonic mode delineates contrast from debris better but
+   sacrifices refresh rate.
+ • Applications: vesicoureteral reflux in children (contrast-enhanced voiding urosonography); ureteric
+   patency after percutaneous nephrolithotomy; fidelity of retrograde renal access during ultrasound-
+   guided stent placement; experimentally, rete testis injection of germ cells for autotransplantation.
+Concept — Route determines compartment: intravenous microbubbles stay intravascular and characterise
+perfusion; to image urine, the contrast must be placed in urine.
+
+DOCUMENTATION AND IMAGE STORAGE
+ • A permanent record comprises the report and the acquired images (American Institute of Ultrasound in
+   Medicine [AIUM] standard); it must be retrievable and meet local, state and federal requirements.
+
+
+                                                           page 7 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                      Documentation and Image Storage
+Report
+ • Contents: patient identification, date, measurement parameters, description of findings; ideally
+   transducer, machine and settings (usually carried on the stored image).
+ • Signed by the physician who performed the study, with the indications prominently at the top.
+ECHOGENICITY NOMENCLATURE (LIVER AS THE CONVENTIONAL BENCHMARK)
+
+ Term                    Meaning                                                       Example / determinant
+ Hypoechoic              Darker than surrounding tissue                                High water content
+ Hyperechoic             Brighter (whiter) than surrounding tissue                     High fat content
+ Isoechoic               Similar to the reference                                      —
+ Anechoic                Black, no echoes                                              Simple cyst interior
+
+Images
+ • Each image carries patient identification, date and time, and clear orientation; measurements identified;
+   anatomy and abnormalities labelled; interpretable by any trained sonographer; attached to or accessible
+   from the report.
+ • Orientation convention: superior to the left of the screen, inferior to the right. For paired organs, right
+   or left must be labelled — without the label a sagittal testis image cannot be sided. Equipment icons
+   show patient position and plane.
+ • Number of images: as many as needed to document a systematic, complete examination and the
+   relevant pathology.
+
+Report and Image Storage
+ • Electronic records ease documentation but complicate archiving: images are storage-heavy and contain
+   protected health information, so storage must meet regulation; cloud storage brings opportunity and
+   security challenges, answered by validated systems for practices of any size.
+
+PATIENT SAFETY
+BIOLOGICAL EFFECTS OF DIAGNOSTIC ULTRASOUND
+
+                            Mechanical                                           Thermal
+ Nature                     Torque, streaming, cavitation — small gas bubbles Tissue heating from absorbed energy
+                            form and collapse, releasing energy that may
+                            damage tissue
+ Determinants / sites       Most likely around gas-containing structures: lung   Beam focusing, frequency, exposure
+                            and bowel                                            time, scanning mode, tissue density
+ Index (output display Mechanical index (MI) — probability of cavitation         Thermal index (TI) — probability of a
+ standard)                                                                       1 °C rise in the field
+ Thresholds                 MI ≤ 0.7: low cavitation risk where no stabilised    TI < 2 for most urological studies; rises up
+                            gas; limit scan time if MI > 0.4 next to lung or     to 6 °C unlikely to harm unless exposure
+                            intestine                                            > 60 s
+
+ • MI and TI are calculated estimates (from mode, frequency, power and insonation time), displayed on the
+   monitor — they are not safety limits.
+ • No confirmed bioeffects of heating in non-fetal scanning unless sustained; no basis for adverse non-
+   thermal effects in gas-free soft tissue within U.S. Food and Drug Administration (FDA) output limits.
+   Urologist-performed ultrasound is low risk with standard protocols.
+
+
+
+                                                           page 8 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                                          Patient Safety
+ • ALARA — As Low As Reasonably Achievable: limits total energy delivered, by (1) low power output, (2)
+   appropriate mode, (3) limited examination time, (4) adjusted focus and frequency, (5) the cine function
+   for documentation.
+ • The most important factor in ultrasound safety is the informed operator: limited examinations,
+   consistent technique, specific indications, maintained equipment.
+Concept — Mechanical risk follows gas; thermal risk follows absorbed energy, and absorbed energy follows
+frequency and time — so ALARA is simply the practical control of both.
+
+CLINICAL UROLOGIC ULTRASOUND
+ • Ultrasound is the mainstay of prostatic diagnosis and increasingly used for clinic diagnosis, interventional
+   management and longitudinal follow-up.
+TRANSDUCER SELECTION BY APPLICATION
+
+ Application                                       Transducer                                 Frequency
+ Renal, transcutaneous                             Curvilinear abdominal                      3.5–5.0 MHz (higher in
+                                                                                              children)
+ Renal, intraoperative laparoscopic/               Linear array                               6–10 MHz
+ robotic
+ Transabdominal pelvic                             Curved array                               3.5–5 MHz (higher in children)
+ Scrotal                                           Linear array, 4–7.5 cm wide                7–18 MHz
+ Penile and urethral                               Linear array                               12–18 MHz
+ Translabial                                       Curved array                               5 MHz
+ Transrectal prostate                              Biplane or single-plane (end-fire, side-   7.5–10 MHz
+                                                   fire)
+ Microultrasound                                   Transrectal                                ~29 MHz
+
+Renal Ultrasound
+ • Comprehensive studies remain standardised radiology examinations, but a focused point-of-care
+   examination by the urologist is highly useful.
+
+Technique
+ • Best viewed through the flank, supine, prone or flank position.
+ • Sequence: probe longitudinal on the midaxillary line just below the costal margin, parallel to the body
+   axis, cranial end on screen left → slide or rock cranio-caudally to centre the kidney → rotate parallel to
+   the ribs to remove rib shadow → if not found, move medially and cephalad → rotate for transverse views
+   of hilum and collecting system.
+ • B-mode first: gain set so the collecting system is nearly black and parenchyma grey; depth set to
+   maximise kidney size; colour Doppler for hilar and intraparenchymal vessels and RI.
+ • Left versus right: technique identical, but the left kidney is slightly more cephalad, has no liver window
+   and may be obscured by the splenic flexure → reposition or breath-hold after inspiration.
+
+Indications
+ • Renal and perirenal masses; transplant health; hydronephrosis; urolithiasis; haematuria when CT or MRI
+   with intravenous contrast is not possible; point-of-care detection of bladder clot as a cause of retention;
+   guidance for percutaneous access, biopsy, cyst aspiration or renal mass ablation.
+
+
+
+
+                                                             page 9 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                   Clinical Urologic Ultrasound
+Normal Findings
+ • Sagittal view: entire cortex pole to pole; central hyperechoic band = perihilar fat and vessels.
+ • Adult kidney: 10–12 cm long, 4–5 cm wide; use nomograms (age, height, weight) in children; volume
+   may be appropriate in severe renal impairment.
+ • Measure in the midsagittal and midtransverse planes — off-axis planes give spuriously low values.
+ • Echogenicity: adult cortex slightly hypoechoic to liver and much more hypoechoic than retroperitoneal
+   and perihilar fat; infant cortex relatively hyperechoic with a smaller central band; chronic medical renal
+   disease → thinned cortex, iso- or hyperechoic to liver. The capsule may appear as a bright thin line.
+ • Pyramids are hypoechoic, prominent in children, and mistaken for calyces; distinguish by position:
+   pyramids lie outside the hilar fat, the collecting system inside it.
+ • Randall’s plaques: bright spots or lines at the tip of each calyx.
+CORTICAL VERSUS PARENCHYMAL THICKNESS
+
+                        Cortical thickness                                    Parenchymal thickness
+ Measured from          Outer margin of the medullary pyramid to capsule      Central echo band to capsule
+ Normal adult           > 7 mm                                                > 15 mm
+
+ • No universal standard; midlateral parenchyma on the sagittal view is the usual site.
+ • Colour Doppler: well-perfused parenchyma, strongest signal at the hilum, interlobar waveforms; normal
+   RI 0.47–0.70, higher values suggest pathology.
+
+Interventional Ultrasound Applications
+Percutaneous renal access.
+ • Increasingly the urologist’s modality of choice for percutaneous nephrolithotomy (PCNL) access:
+   continuous imaging of kidney and needle without radiation to patient or surgeon, and visualisation of
+   liver, spleen, colon and lung (invisible on fluoroscopy) → widens the usable access window.
+ • Access from longitudinal or transverse views after removing rib shadow: longitudinal — shift the target
+   calyx toward the side of needle entry; transverse — centre it.
+ • Plan puncture from above, below or beside the probe according to position (prone, flank, modified
+   lithotomy) for maximal freedom; the angle must keep the needle hub clear of iliac crest, ribs and table;
+   adjust the probe dynamically to hold the target.
+ • Longitudinal in-plane sequence: puncture a set distance from the probe end, bisecting probe width, at
+   an angle approximating the target → keep the tip aligned with the probe midline → visualise the tip
+   throughout its trajectory (either approach).
+ • Dilation under fluoroscopy or ultrasound; under ultrasound, keep the wire visible across the parenchyma.
+   Coaxial and wrapped wires are echogenic; hydrophilic wires are poorly visible. Polyurethane dilators
+   obscure the wire — its disappearance marks dilator depth.
+Limitations of ultrasound-guided access.
+ • Patient: long skin-to-stone distance, no hydronephrosis, staghorn stones, poor tissue echogenicity.
+   Anaesthetic: respiratory rate, tidal volume, depth of relaxation.
+ • Learning curve short for access, significantly longer for ultrasound-guided dilation.
+
+Percutaneous Renal Biopsy
+ • Office ultrasound-guided biopsy under local anaesthesia has been safe and effective for two decades.
+ • Bottom lines: more passes did not raise complications; severe hypertension did; outpatient and
+   inpatient complication rates are equivalent; in large series intervention for bleeding is rare, minor
+
+
+
+                                                           page 10 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                 Clinical Urologic Ultrasound
+   haematoma and self-limiting macrohaematuria are uncommon, haemodynamically irrelevant
+   arteriovenous fistula is not rare on Doppler, and adequate tissue is almost always obtained.
+ • Six-hour observation is comparable to 24-hour admission: the chief complication, gross haematuria,
+   always appeared within 6 hours.
+ • Safe in children and the elderly.
+
+Limitations
+ • Obesity, bowel gas and deformity impede complete evaluation.
+ • Poor sensitivity for renal masses < 2 cm.
+ • No tumour-type specificity except angiomyolipoma (AML), which is distinctively highly echoic — but
+   some small RCCs are indistinguishable from AML.
+Concept — Renal ultrasound is read against two landmarks — the liver for echogenicity and the hilar fat for
+anatomy — and its weakness is small or hyperechoic masses, where only cross-sectional imaging can decide.
+
+Transabdominal Pelvic Ultrasound
+ • Non-invasive assessment of the lower urinary tract and prostate in men and bladder in women;
+   automated bladder scanners for volume or post-void residual (PVR) only.
+
+Technique
+ • Patient supine, sonographer on the patient’s right; warm room, draping for privacy, roll beneath hips if
+   needed; moderately full bladder.
+ • Sagittal and transverse scanning, angling beneath the pubis; prostate size and morphology shown, though
+   at lower resolution than transrectal imaging.
+ • Transvaginal or transrectal routes for obese or otherwise unsuitable patients.
+
+Indications
+ • Bladder volume or PVR; prostate size and morphology; secondary signs of BOO; bladder wall
+   configuration and thickness; haematuria of lower-tract origin; ureteroceles; ureteric obstruction;
+   perivesical collections; clot retention; catheter position; retained catheter removal; suprapubic tube
+   guidance; volume before and after flow-rate study.
+
+Normal Findings
+ • Assess lumen, wall configuration and thickness; document stones or tumours; assess distal ureters,
+   prostate, uterus and ovaries (uterus lies posterior to the bladder).
+ • Ureteric jets are demonstrable, but their clinical value is questioned; up to 10 minutes of continuous
+   observation may be needed to confirm absence.
+ • Bladder volume = width × height (transverse) × length (midsagittal) × 0.625; accurate to within 10–20%
+   for 100–500 mL.
+ • Bladder wall thickness varies with volume and site; measured posteriorly near the midline (trabeculation
+   visible); it predicts BOO better than free uroflowmetry, PVR or prostate volume.
+ • Transabdominal prostate sequence: angle beneath the pubis → fan transverse probe inferiorly to the
+   largest transverse diameter → measure width and height → rotate 90° clockwise → fan to the midline,
+   identified by the V-shaped bladder-neck indentation (with hyperechoic trigone) → measure length from
+   bladder neck to apex, using the hypoechoic urethra to find the apex. The “V” varies with hypertrophy
+   and middle lobe.
+ • Intravesical prostatic protrusion (IPP): perpendicular distance from the bladder-base line to the greatest
+   intravesical protrusion on sagittal view; correlates well with urodynamic BOO.
+
+
+
+                                                           page 11 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                  Clinical Urologic Ultrasound
+ • Also defines prostatic urethral length, middle lobe size and configuration and BOO physiology — valuable
+   for treatment planning.
+VOLUME FORMULAS
+
+ Organ                                                     Formula
+ Bladder                                                   W × H × L × 0.625
+ Prostate (ellipsoid)                                      W × H × L × 0.523 (cm → mL)
+
+Procedural Applications
+ • Suprapubic bladder aspiration with or without catheter (neonates, children, adults); treatment of
+   bladder stones; peritoneal drainage after bladder perforation.
+
+Limitations
+ • Empty bladder limits the study: distal ureteric obstruction, stones and tumours need a full bladder;
+   prostate assessment is easier when full. Protuberant abdomen or panniculus impedes.
+ • Automated bladder volume measurement uses ultrasound but is not an imaging study → inaccurate
+   PVR in obesity, clot retention, ascites, bladder diverticulum, or perivesical collections (urinoma,
+   lymphocele).
+Concept — The full bladder is the acoustic window: every pelvic finding depends on urine as the medium,
+and the automated scanner fails precisely where fluid outside the bladder mimics urine inside it.
+
+Ultrasonography of the Scrotum
+ • No area suits ultrasound better: superficial contents allow high-frequency, detailed anatomical and
+   physiological imaging correlated with examination findings.
+
+Technique
+ • Quiet, warm room; supine, scrotum supported on a towel or thighs; penis draped out of the field.
+ • Copious gel — scrotal hair traps air and creates artifact.
+ • Complete but gentle contact: pressure moves or compresses the testis, altering echogenicity, obscuring
+   detail and distorting volume.
+ • Linear array 7–18 MHz; a 4-cm transducer is more manoeuvrable, a 7.5-cm one images the whole testis in
+   one sagittal view.
+ • Systematic sequence: sagittal from midline → medial → lateral; transverse from mid-testis → upper pole
+   → lower pole; then epididymis and all scrotal contents.
+
+Indications
+ • Scrotal or testicular mass; pain; trauma; infertility; follow-up after scrotal surgery; empty or abnormal
+   scrotum.
+
+Normal Findings
+ • Document size (and volume) and echo architecture: homogeneous, finely granular.
+ • Always compare both testes side by side: diffuse infiltration (lymphoma, leukaemia) gives a diffusely
+   hypoechoic, homogeneous testis, possibly unilateral, visible only against its mate; the bilateral view also
+   documents two testes.
+ • Paratesticular fluid helps identify the epididymis, appendix testis and appendix epididymis.
+ • Intratesticular flow is low velocity: mean PSV < 10 cm/s; supplied by the testicular artery dividing into
+   septal branches.
+
+
+
+
+                                                               page 12 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                  Clinical Urologic Ultrasound
+ • Mediastinum testis: hyperechoic linear structure on sagittal view where fibrous septa coalesce —
+   normal, not a lesion.
+ • Spectral Doppler: intratesticular RI > 0.6 suggests impaired spermatogenesis.
+ • Increased, irregular flow with hypoechoic areas of reduced vascularity was seen in necrotising vasculitis.
+
+Procedural Applications
+ • Non-palpable lesions localised for needle biopsy or dye injection to guide open biopsy.
+ • Guidance for percutaneous testicular and epididymal sperm aspiration; future spermatogonial stem cell
+   transfer after gonadotoxic therapy.
+
+Sonoelastography
+ • Rationale: malignant lesions are stiffer (higher vessel and cell density).
+ • Bottom lines: RTE showed high positive and negative predictive value and accuracy for malignant versus
+   benign testicular lesions; non-obstructive azoospermia has different testicular elasticity from obstructive
+   azoospermia and normal controls.
+ • Not yet sufficient to forgo surgery on its findings.
+
+Limitations
+ • Hallmark of torsion: absent intratesticular flow. Paratesticular flow in epididymal collaterals may appear
+   within hours and mislead.
+ • Compare with the contralateral testis to confirm the study is technically capable of showing
+   intratesticular flow.
+ • Ultrasound cannot diagnose torsion — only the surgeon (or pathologist) can.
+Concept — Scrotal ultrasound is an exercise in comparison: the contralateral testis is the control for
+echogenicity, for flow and for the technical adequacy of the study itself.
+
+Ultrasonography of the Penis and Male Urethra
+ • Exquisite anatomical detail; can often replace studies using ionising radiation.
+
+Technique
+ • Linear array 12–18 MHz; longitudinal and transverse planes; dorsal and ventral surfaces; warm, quiet
+   room with draping.
+ • Systematic from base to glans; proximal urethra and corpora through the scrotum or perineum.
+ • Sonourethrography for stricture: retrograde saline or sterile gel distends the urethra, showing urethral
+   and spongiosal anatomy. Versus fluoroscopic retrograde urethrography: no radiation, and can be done in
+   lithotomy during urethroplasty without repositioning.
+
+Indications
+ • Penile vascular dysfunction; corporal fibrosis; foreign body; urethral stricture; urethral diverticulum;
+   penile trauma or pain.
+
+Normal Findings
+ • Scan dorsally or ventrally; the ventral approach compresses the urethra and spongiosum even with
+   minimal pressure.
+ • Transverse: paired corpora cavernosa dorsally, corpus spongiosum and urethra ventrally in the midline.
+ • Sagittal: cavernosal artery as a hyperechoic double line within the corpus cavernosum; corpus
+   spongiosum iso- to slightly hypoechoic, containing the coapted urethra.
+
+
+
+
+                                                           page 13 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                     Clinical Urologic Ultrasound
+ • The urethra is collapsed except during voiding. Calcifications (between the corpora, or in the cavernosal
+   artery wall) cast posterior shadows.
+
+Perineal Ultrasound
+ • Transducer on the perineum shows the proximal urethra and corpora: bulbar urethra with the bulbar
+   artery, proximal cavernosal bodies with the cavernosal artery.
+ • The internal pudendal artery gives the bulbourethral, dorsal and cavernosal arteries; the most proximal
+   cavernosal artery is best seen perineally.
+ • Bulbospongiosus (bulbocavernosus) muscle (BCM) cross-sectional area: novel marker of androgen
+   receptor sensitivity, inversely related to cytosine–adenine–guanine (CAG) repeat number and directly
+   related to total and free testosterone and dual-energy x-ray absorptiometry (DEXA) bone density.
+
+Transperineal Ultrasound
+ • Transperineal and translabial ultrasound assess the pelvic floor diagnostically and after procedures;
+   unlike transvaginal imaging they are non-invasive and do not distort anatomy.
+ • Compartments: anterior — bladder and urethra; apical (central) — vagina and uterus; posterior —
+   rectum; 2D and 3D.
+ • Translabial: 5-MHz curved array between the labia majora; shows urethral diverticula, tumours, foreign
+   bodies; real-time bladder–urethra–pelvic floor relationships in stress urinary incontinence and pelvic
+   organ prolapse.
+ • Synthetic slings and meshes are echogenic → locate a midurethral sling in failure, erosion or de novo
+   voiding dysfunction.
+
+Procedural Applications
+ • Commonest penile use: erectile dysfunction (ED) and penile curvature. Pharmacostimulation
+   (intracavernosal vasoactive injection) quantifies cavernosal artery flow velocity.
+PENILE DUPLEX DOPPLER AFTER PHARMACOSTIMULATION
+
+ Parameter                         Threshold                                                Meaning
+ PSV in healthy volunteers         35–47 cm/s                                               Normal range
+ PSV                               ≥ 35 cm/s                                                Arterial sufficiency
+ PSV                               25–35 cm/s                                               Equivocal
+ PSV                               < 25 cm/s                                                Arteriogenic ED
+                                                                                            (primary criterion)
+ Cavernosal artery dilation        < 75%                                                    Arteriogenic ED
+                                                                                            (primary criterion)
+ Acceleration time                 > 110 ms                                                 Arteriogenic ED
+                                                                                            (primary criterion)
+ Supporting findings in the        Side-to-side PSV asymmetry > 10 cm/s; focal cavernosal   Support arterial
+ equivocal range                   artery stenosis; cavernosal–spongiosal flow reversal     insufficiency
+ Cavernosal artery internal        < 1 mm                                                   Often first sign of
+ diameter                                                                                   vascular disease
+
+ • PSV is the most accurate measure of arterial disease as the cause of ED.
+ • Arteriogenic ED correlates with systemic cardiovascular, coronary and peripheral vascular disease → a
+   window of opportunity to detect and modify progressive systemic disease.
+ • Curvature: palpation plus ultrasound of the stimulated phallus; plaques may be impalpable and invisible
+   on B-mode and Doppler — elastography can localise them for treatment (Peyronie disease).
+
+
+                                                           page 14 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                              Clinical Urologic Ultrasound
+Limitations
+ • Complete study needs dorsal or ventral scanning plus a perineal approach, especially for the bulbar
+   urethra and proximal corpora.
+ • ED evaluation needs flow measurements before and after intracavernosal injection.
+Concept — Penile duplex is a stress test of the cavernosal arteries: only after pharmacostimulation does PSV
+separate arterial sufficiency from insufficiency, and a failed test is read as a marker of systemic vascular
+disease.
+
+Transrectal Ultrasonography of the Prostate
+ • Transrectal ultrasonography (TRUS) is the ultrasound study most commonly performed by urologists:
+   minimally invasive, exquisite prostatic and periprostatic detail, real-time information.
+
+Technique
+ • High-frequency 7.5–10 MHz, biplane or single-plane (end-fire or side-fire).
+ • Sequence: digital rectal examination (DRE) before probe insertion — pain, tenderness, rectal stricture,
+   mass or bleeding may preclude TRUS → survey scan base to apex, including seminal vesicles and rectal
+   wall → seminal vesicles in transverse for symmetry of echogenicity, seminal vesicle height and ampulla
+   (vas) diameter → midsagittal and transverse prostate for anteroposterior, height and length → machine
+   calculates volume, predicted prostate-specific antigen (PSA) and PSA density (PSAD) → colour Doppler
+   as needed.
+ • Rectal wall thickness and findings must be documented; rectal cancer, polyps or inflammation require
+   evaluation or referral.
+
+Indications
+ • Prostate volume for PSAD; abnormal DRE; ultrasound-guided biopsy; cysts; prostatic abscess (evaluation
+   and aspiration); suspected congenital anomaly; lower urinary tract symptoms; pelvic pain; prostatitis/
+   prostatodynia; haematospermia.
+ • Infertility (e.g. azoospermia): low-volume or poorly motile ejaculate, cysts, hypoplastic or dilated seminal
+   vesicles, impaired motility, antisperm antibodies.
+
+Normal Findings
+ • Assess echogenicity by comparing left and right. The “sonographic capsule” reflects the prostate–fat
+   impedance difference; the urethra is prominent because urethral muscle reflects poorly.
+ • Base: superior, contiguous with the bladder base. Apex: inferior, continuous with the striated urethral
+   sphincter.
+YOUNG VERSUS OLDER PROSTATE ON TRUS
+
+ Young (often imaged for subfertility)                                 Older
+ Homogeneous; zones hard to see                                        Glandular and stromal elements enlarge
+ Peripheral zone often hyperreflective to central and                  Transition zone enlarges (occasionally peripheral
+ transition zones                                                      zone) and is seen distinctly
+ Central and transition zones indistinguishable; fibromuscular         Central zone hard to see
+ stroma anterior to urethra
+
+Procedural Applications
+ • TRUS-guided biopsy for PSA elevation or change or abnormal DRE; high-grade prostatic intraepithelial
+   neoplasia (HGPIN) and atypical small acinar proliferation (ASAP) on initial biopsy are considered by some
+   to warrant repeat biopsy.
+
+
+
+                                                           page 15 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                              Clinical Urologic Ultrasound
+ • Rising PSA after radical prostatectomy: imaging and biopsy of the prostatic fossa and vesicourethral
+   anastomosis for local recurrence; after radiotherapy or cryotherapy: biopsy for local failure.
+ • Prostatic cyst aspiration (office procedure) for a large midline cyst obstructing the ejaculatory duct
+   (dilated ejaculatory ducts or seminal vesicles); refilling is common.
+
+Limitations
+ • Bowel preparation sometimes needed; habitus may hamper imaging of base, seminal vesicles and
+   bladder; conventional TRUS is limited to anatomical anomalies.
+
+Microultrasound
+ • ~29 MHz versus 3.5–12 MHz conventionally → much higher resolution, less penetration; detects very
+   small tumours.
+ • First described in 2003 (animal model, Japan); now widely used for prostate evaluation and biopsy
+   guidance.
+ • Detection rates and negative predictive value comparable to mpMRI at much lower cost.
+ • Example: a tumour invisible at 9 MHz appeared at 29 MHz as a mottled hypoechoic area scored PRI-MUS
+   4 (Prostate Risk Identification using Micro-Ultrasound) — Gleason 4+3 cancer.
+
+Special Considerations
+Paediatrics.
+ • Preferred modality in paediatric urology: safety, low cost, no ionising radiation, and small body size
+   allows imaging of deep structures not usually seen in adults.
+ • Diagnoses and monitors congenital anomalies, urinary tract infection, obstructive uropathy and
+   vesicoureteral reflux.
+ • Smaller probes in newborns and infants; examinations take longer owing to size and movement —
+   distraction or gentle restraint.
+Pregnancy.
+ • Ionising radiation is relatively contraindicated → ultrasound is first-line, with minimal fetal risk and safe
+   in all trimesters.
+ • Hydronephrosis with possible ureteric stone needs a multidisciplinary approach; grey-scale sensitivity for
+   ureteric stones is poor.
+ • Adjuncts: transvaginal ultrasound for distal ureteric stones, RI and ureteric jets on Doppler; ultrasound-
+   guided stent exchange reduces fetal radiation.
+
+Therapeutic Ultrasound Technologies in Urology
+THERAPEUTIC ULTRASOUND MODALITIES
+
+                                                             Acoustic wave therapy
+                 HIFU                                        (AWT)                           Burst wave lithotripsy (BWL)
+ Intensity /     High intensity, focused → heat              Low intensity; stimulates       Short bursts; pressure wave
+ action          ablation (magnifying-glass principle)       stem cell division and          fractures and dislodges stones
+                                                             angiogenesis (mechanism         by disrupting surrounding fluid
+                                                             unclear)
+ Uses            Localised prostate cancer; fibroids,        ED (some supporting             Stone fragmentation and
+                 liver tumours                               evidence); chronic pain,        relocation (emerging)
+                                                             tendinitis, plantar fasciitis
+
+
+
+
+                                                           page 16 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                               Clinical Urologic Ultrasound
+
+                                                               Acoustic wave therapy
+                 HIFU                                          (AWT)                         Burst wave lithotripsy (BWL)
+ Guidance /      Operating room under anaesthesia;             —                             Ultrasound or x-ray; non-
+ setting         transrectal probe; MRI fusion for                                           invasive
+                 ultrasound-invisible lesions
+ Safety          Haematuria, haematospermia for                Generally safe                Minimal periprocedural pain
+                 weeks; rectal or urethral injury;
+                 delayed rectourethral fistula up to
+                 years later
+
+ • HIFU sequence for prostate: rectal probe inserted → lesions identified and demarcated → serial slices
+   outlined on a grid → device ablates along the grid → treated zone appears as well-defined hypoechoic
+   tissue.
+Concept — Therapeutic ultrasound is the diagnostic safety physics turned on purpose: focus and intensity
+convert the same energy that ALARA minimises into ablation (HIFU), stimulation (AWT) or fragmentation
+(BWL).
+
+PRACTICE ACCREDITATION
+ • Why: quality assurance, patient expectations and third-party payer requirements. Few laws regulate
+   ultrasound — any licensed physician may buy a machine and perform and interpret studies.
+ • Two accrediting agencies: American College of Radiology (ACR) and AIUM. They began developing
+   programmes in 1995 and accredited the first practices in 1996; both accredit urology practices.
+ • American Urological Association (AUA)–AIUM partnership: accreditation pathway recognised by
+   regulators and payers, plus training guidelines and practice parameters for urologists.
+ACR VERSUS AIUM ACCREDITATION AREAS
+
+ ACR                                       AIUM
+ Breast, general, gynaecological,          Abdominal/general, breast, musculoskeletal, thyroid/parathyroid, gynaecological,
+ obstetric, vascular                       fetal echocardiography, obstetric, and urological
+
+BOARD CERTIFICATION VERSUS PRACTICE ACCREDITATION
+
+ Certification                                 Accreditation
+ Granted to an individual for                  Granted to a practice (may be a solo practitioner)
+ demonstrated knowledge
+ Maintained by meeting ongoing                 Covers all personnel, policies, procedures, equipment and maintenance;
+ requirements                                  compliance re-demonstrated at regular intervals
+ Portable — travels with the                   Not portable — services at another facility are not accredited
+ individual
+
+ • Challenge: urologists view imaging as a stethoscope-like tool; accreditation demands resources.
+ • Benefit: organises the examination, markedly improves quality, diagnostic yield and patient satisfaction.
+Concept — Certification attaches to the person, accreditation to the practice; because no law governs who
+may scan, accreditation is the mechanism by which quality is demonstrated to patients and payers.
+
+ KEY POINTS
+   • An ultrasound wave is a mechanical wave producing alternating compression and rarefaction.
+   • Axial resolution improves, and penetration falls, with increasing frequency; optimal imaging trades
+     resolution against depth.
+
+
+                                                            page 17 of 18
+Chapter 4 — Basic Principles of Urologic Ultrasonography                                    Practice Accreditation
+   • Artifacts may aid diagnosis.
+   • Capture as many images as needed to document a systematic, complete examination and relevant
+     pathology.
+   • MI and TI are not safety limits; ALARA limits total energy delivered; the informed operator is the most
+     important safety factor.
+   • AML is characteristically hyperechoic, but some RCCs are too.
+   • Automated bladder volume measurement is not an imaging study.
+   • Sonoelastography extends ultrasound to lesion “hardness”.
+   • Torsion hallmark: absent intratesticular flow — yet ultrasound cannot diagnose torsion; only the
+     surgeon or pathologist can.
+
+
+
+
+                                                           page 18 of 18
+
