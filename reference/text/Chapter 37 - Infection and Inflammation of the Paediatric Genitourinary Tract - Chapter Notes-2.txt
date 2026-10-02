@@ -1,0 +1,1236 @@
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract
+
+
+ Chapter 37 — Infection and Inflammation of the
+ Paediatric Genitourinary Tract
+   • Lifetime childhood incidence: about 1% of boys and 3–5% of girls have at least one urinary tract
+     infection (UTI); 30–50% of these recur.
+   • Burden (United States): about 1.1 million outpatient visits and 50,000 hospitalisations each year, with
+     hospital charges above $520 million.
+   • Paradigm shift: UTI has been over-credited for scarring; earlier guidelines (American Academy of
+     Pediatrics [AAP] 1999 and others) assumed damage came from UTI alone and overlooked congenital
+     dysplasia.
+ THE GOVERNING CONTRAST — OLD VERSUS CURRENT PARADIGM
+                                           Earlier guidelines                       Current understanding
+  Cause of scarring, hypertension,         Recurrent febrile UTI, especially with Congenital anomalies and renal
+  chronic kidney disease                   vesicoureteral reflux (VUR)            dysplasia play the larger role
+  Strategy                                 Aggressive treatment and imaging         Selective imaging; prompt treatment;
+                                           to find VUR and scars                    prophylaxis for the high-risk child
+
+ Concept — The whole chapter is written against the older assumption that every UTI threatens the kidney;
+ each later section (imaging, prophylaxis, long-term sequelae) is a retreat from blanket intervention
+ towards risk-targeted care.
+
+ EVALUATION AND MANAGEMENT OF A CHILD WITH A FEVER
+   • Clinically significant fever: rectal temperature ≥38 °C (100.4 °F); in a previously healthy child aged 3–36
+     months, ≥38 °C warrants evaluation.
+   • Most fevers are viral; 7–13% of children with no clear source have occult bacteraemia or serious
+     bacterial infection (bacteraemia, bacterial gastroenteritis, cellulitis, meningitis, osteomyelitis,
+     pneumonia, septic arthritis, UTI).
+   • Age gradient: serious bacterial infection is commoner below 90 days and especially below 29 days.
+   • Goal: do not miss serious infection; start treatment quickly.
+   • “Toxic” appearance carries a higher rate of serious infection: cyanosis, decreased activity, hyper- or
+     hypoventilation, inability to interact with parents, irritability, lethargy, poor tone, poor perfusion,
+     tachycardia, poor eye contact.
+   • Predictors of bacteraemia — toxic appearance, age <30 days, rectal temperature ≥39.4 °C — are
+     strongly predictive, but none guarantees detection and their absence does not exclude serious
+     infection.
+   • UTI is the commonest bacterial infection in children: about 7% of febrile infants and 7.8% of febrile
+     children older than 24 months.
+ SYMPTOMS AND SIGNS PREDICTING UTI IN THE FEBRILE CHILD, BY AGE
+  Birth to 24 months                                              Older than 24 months (verbal)
+  Useful: fever >40 °C, previous UTI, suprapubic                  Classic symptoms predictive: abdominal pain, back pain,
+  tenderness, uncircumcised penis                                 dysuria, frequency, new-onset incontinence
+  Not useful (neither sensitive nor specific): vomiting,
+  diarrhoea, poor feeding, irritability
+
+
+
+
+                                                              page 1 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract EVALUATION AND MANAGEMENT OF A CHILD WITH A FEVER
+
+   KEY POINTS: DIAGNOSIS OF URINARY TRACT INFECTION IN A CHILD
+    • Signs and symptoms in young children may be nonspecific.
+    • UTI is the commonest bacterial infection in a child presenting with fever.
+    • A child who appears “toxic” needs close evaluation: serious infection is likely.
+
+
+ Definition of a Urinary Tract Infection
+   • What counts as a “significant” UTI is controversial; historically bacteria in urine defined infection
+     because urine was thought sterile.
+   • Urine is not sterile: a urinary microbiome exists from as early as 2 weeks of age, revealed by
+     expanded quantitative urine culture (EQUC) and 16S ribosomal RNA gene sequencing; its role is not
+     yet understood.
+   • AAP, age 2–24 months: diagnosis must rest on urine from suprapubic aspiration (SPA) or
+     catheterisation.
+   • Bag specimen pathway: bag urine for urinalysis only → if suggestive (positive leukocyte esterase or
+     nitrite, or leucocytes or bacteria on microscopy) → culture must come from SPA or catheter.
+   • Reason: a positive culture from a bagged specimen has a false-positive rate of up to 75%.
+
+ Pathogenesis of Urinary Tract Infection Development in Children
+   • Host, bacterial and immune factors interact and are in constant flux in children — immunity and gut
+     colonisation of a newborn differ completely from those of a 6-month-old.
+ Figure 37.1 — the ascending sequence: uncomplicated versus complicated UTI (Flores-Mireles et al.,
+ Nature Reviews Microbiology 2015)
+  Uncomplicated (A)                                             Complicated (B)
+  Gut uropathogen colonises urethra (1) → migrates to           Same steps 1–2, but infection requires a compromised
+  bladder (2) → colonises and invades umbrella cells via        bladder — commonest cause an indwelling catheter →
+  pili and adhesins (3) → innate inflammatory clearance         catheter-induced inflammation with fibrinogen
+  begins (4) → evaders multiply (5) → biofilm (6) → toxins      accumulation on the catheter (3) → attachment of
+  and proteases damage host cells (7) → ascent to               uropathogens expressing fibrinogen-binding proteins →
+  kidneys (8) → renal colonisation (9) → tissue damage          neutrophil infiltration (4) → multiplication (5), biofilm
+  (10) → bacteraemia by crossing the tubular epithelial         (6), epithelial damage (7) → renal seeding (8–9), tissue
+  barrier (11)                                                  damage (10), bacteraemia (11)
+
+ Bacterial Factors Leading to Paediatric Urinary Tract Infections
+  Commensal bacteria                      Virulent (uropathogenic) bacteria
+  Lack virulence traits to subvert        Possess adaptations and fitness factors that subvert or hijack host defences
+  host defences; can still cause UTI      and let them live where they normally would not; cause the majority of UTIs
+
+   • Virulence (Latin virulentus, “full of poison”): the ability of an organism to cause disease in a host.
+   • Sequence of virulence: attach to urogenital mucosa → trigger signalling and immunological cascades →
+     invade the bladder.
+   • Uropathogenic Escherichia coli (UPEC) is the most studied and by far the commonest pathogen; most
+     E. coli UTIs are caused by UPEC rather than commensal strains — evidence that virulence factors
+     matter.
+   • Four classes of virulence factor: adherence to uroepithelium; nourishment in adverse environments;
+     protection from host immunity; toxins enabling invasion.
+
+
+
+
+                                                         page 2 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract EVALUATION AND MANAGEMENT OF A CHILD WITH A FEVER
+
+ Figure 37.2 — E. coli features relevant to pathogenicity (Johnson, Clinical Microbiology Reviews 1991)
+   • Surface: fimbriae, flagellum, capsule (K antigen), lipopolysaccharide (LPS; endotoxin, O antigen) on the
+     outer membrane.
+   • Secreted and membrane-bound: exotoxins (α-haemolysin), membrane-bound toxins, siderophore–iron
+     complexes; membrane proteins for transport and serum resistance.
+ UROPATHOGENIC E. COLI VIRULENCE FACTORS COMPARED
+  Factor                       Class           Mechanism                                   Clinical association
+  Type 1 fimbriae              Adherence       FimH tip binds uroplakins; triggers         Cystitis, asymptomatic
+                                               entry                                       bacteriuria
+  P fimbriae                   Adherence       Bind Galα1–4Galβ digalactoside              Pyelonephritis
+  Aerobactin                   Nourishment     Siderophore strips iron from host           Growth in low-iron serum and
+                                               proteins                                    dilute urine
+  α-Haemolysin                 Toxin           Lyses bladder and renal cells; cytokine     Inflammation
+                                               release
+  Cytotoxic necrotising        Toxin           Cytoskeletal disruption; aids binding       Invasion
+  factor 1                                     and invasion
+  Capsule (K antigen)          Immune          Resists phagocytosis;                       Pyelonephritis rather than
+                               evasion         anticomplementary                           cystitis
+  Biofilm                      Persistence     Barrier to immunity and antibiotics         Recurrence
+  Flagella                     Motility        Escape and nutrient seeking                 Ascent bladder → kidney
+
+   • Pattern: type 1 fimbriae mark bladder strains; P fimbriae, capsule and flagella mark upper-tract
+     strains.
+ Bacterial Fimbriae
+  • Adherence is the first step of UTI pathogenesis and the best-studied virulence trait; mediated by
+    adhesins (pili, F antigens) — filamentous appendages projecting from the cell.
+   • Chaperone–usher pathway (CUP) pili are expressed by many gram-negative pathogens (E. coli,
+     Klebsiella, Proteus, Pseudomonas, Haemophilus, Salmonella, Yersinia); a single UPEC strain can encode
+     many distinct CUP pili.
+   • Type 1 and P pili are the best characterised; type 1 pili are essential for bladder colonisation and
+     invasion.
+                 Type 1 pili                                            P (pyelonephritis-associated) pili
+  Mannose        Mannose-sensitive (the commoner class);                Mannose-resistant
+                 blocked by D-mannose and concanavalin A
+  Structure /    Major rod subunit FimA; minor subunits FimC,           Agglutinate P blood group erythrocytes; receptor
+  receptor       D, F, G, H; FimH tip adhesin binds uroplakins          Galα1–4Galβ digalactoside in neutral
+                 on umbrella cells → stimulates bacterial entry;        glycosphingolipids of epithelium and red cells;
+                 older studies placed receptors in bladder              receptor phenotypes common in the population;
+                 muscle layers rather than epithelium                   binding sites in kidney and bladder
+  Clinical       Strains with mannose-sensitive adhesins alone          Found in most strains causing pyelonephritis
+                 → cystitis and asymptomatic bacteriuria, not
+                 pyelonephritis
+
+  Step 1 — adhesion, signalling, activation                        Step 2 — effector phase
+  Bacterial attachment to epithelial receptors → innate            Epithelial cytokines recruit inflammatory cells that kill
+  activation. Without step 1: host not alerted, mucosa inert       bacteria. Without step 2: exaggerated inflammation
+  → asymptomatic carrier state                                     with tissue destruction
+
+
+
+
+                                                         page 3 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract EVALUATION AND MANAGEMENT OF A CHILD WITH A FEVER
+
+ Figure 37.3 — the two steps of pathogenesis (Bergsten, Wullt and Svanborg, International Journal of
+ Medical Microbiology 2005)
+   • Step 1 signalling is Toll-like receptor 4 (TLR4)-dependent → cytokine secretion and receptor expression.
+   • P and type 1 fimbriae use different receptors and different TLR4 pathways: P fimbriae bind Galα1–4Galβ
+     on glycosphingolipids (ceramide-anchored); type 1 fimbriae bind α-mannose residues on glycoproteins and
+     also signal through TLR4.
+   • Intracellular cycle: adherence → signal transduction → uptake into umbrella cells → intracellular
+     bacterial communities (IBCs): growth slows until the IBC fills the cytoplasm → bacteria flux out and
+     spread → re-enter epithelium → quiescent intracellular reservoir (QIR) in underlying transitional cells.
+   • QIR: a handful of non-replicating bacteria, viable for months; reactivated during urothelial turnover,
+     they seed the lumen and reinitiate UTI.
+   • TLR4-dependent expulsion normally defends the urothelium: LPS on TLR4 → adenylyl cyclase → cyclic
+     adenosine monophosphate → exocytic expulsion of UPEC from umbrella cells.
+   • Intracellular invasion lets UPEC evade host defences and some antibiotics.
+ Figure 37.4 — intracellular bacterial communities versus biofilm on inert surfaces (Kau, Hunstad and
+ Hultgren, Current Opinion in Microbiology 2005)
+  UPEC on urothelium (A)                                                  Biofilm on inert surface, e.g. catheter (B)
+  Colonisation and invasion → early IBC, rapid intracellular growth       Attachment and extracellular polymeric
+  → mid IBC, biofilm-like properties → late IBC, fluxing out and          substance production → early development →
+  filamentation → reservoir and recurrence                                maturation → dispersion
+
+ Concept — The intracellular bacterial community is a biofilm built inside a host cell; that shared
+ architecture explains why both catheter infections and recurrent cystitis resist clearance.
+ Aerobactin
+  • Iron is essential to E. coli (oxygen storage and transport, DNA synthesis, electron transport, peroxide
+    metabolism).
+   • Host withholds iron during infection: reduced intestinal absorption, more iron-binding proteins, shift
+     of plasma iron into intracellular stores.
+   • Aerobactin, a siderophore, extracts iron from host binding proteins and delivers it to bacterial iron
+     centres.
+ Toxins
+  • UPEC toxins: α-haemolysin (hlyA), cytotoxic necrotising factor 1 (CNF1), autotransporter toxins —
+    they alter host-cell function or shape, arrest the cell cycle or lyse cells.
+   • α-Haemolysin is produced by about half of UPEC strains; CNF1 by a minority.
+ Capsular Polysaccharide
+  • More than 80 capsular types in E. coli: linear polymers coating the cell, hindering antigen detection.
+   • UPEC surface = LPS covered by capsular K antigens; both help escape host immunity.
+   • Encapsulated K strains are less phagocytosed and anticomplementary → impaired clearance;
+     impairment proportional to the amount of polysaccharide.
+ Biofilm Formation and Flagella
+  • Biofilm scaffold: extracellular DNA, exopolysaccharides, pili, flagella and other adhesins → multicellular
+    community protected from immunity and antimicrobials, with a physical barrier to antibiotic entry.
+   • Biofilm-like IBCs inside urothelial cells protect UPEC from neutrophils, antibiotics and stress.
+   • Flagella also act at several stages of biofilm development.
+
+
+                                                         page 4 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract EVALUATION AND MANAGEMENT OF A CHILD WITH A FEVER
+
+   KEY POINTS: BACTERIAL FACTORS
+    • UTI bacteria are commensal or virulent; both cause UTI, but virulent organisms cause the majority.
+    • Virulent bacteria carry adaptations that subvert or hijack host defences and let them live where
+      they normally would not.
+    • Virulence factors improve adherence, allow nourishment, protect against immunity and supply
+      toxins for invasion.
+
+ Concept — Each virulence factor solves one obstacle to infection — attach, feed, hide, damage, persist,
+ ascend — and the factors a strain carries predict whether it stays in the bladder or reaches the kidney.
+
+ Host Risk Factors Leading to Paediatric Urinary Tract Infections
+   • Host determinants: age, genetics, sex, race, and anatomical, functional and behavioural features.
+ Sex and Age
+  • Boys exceed girls only below 1 year of age; at every other age, including old age, females
+    predominate.
+   • Febrile children: UTI incidence 3–5%; girls carry the higher risk after 2 months; at 2 months to 2 years,
+     a febrile girl has about 2.3 times the risk of a febrile boy.
+  Age band                                                                            Boys                        Girls
+  First year of life                                                                  3.7% (higher)               2%
+  After the first year (incidence)                                                    0.03–0.2%                   3%
+  Cumulative by age 6 years                                                           2%                          7%
+  Older children and sexually active teenagers                                        1%                          3%
+
+ Race
+  • UTI is commoner in White girls than in girls of other races.
+   • Non-Black children carry a several-fold higher risk of UTI and of recurrent UTI than Black children in
+     meta-analysis, most marked in studies at low risk of bias.
+ Genetics
+  • No specific gene identified, but a genetic component is suggested by: UTI persisting after VUR
+    resolves; more bacteriuria in sisters of children with recurrent UTI; age at first infection and a mother
+    with UTI as the two greatest risk factors for recurrent UTI in women aged 18–30; familial clustering of
+    pyelonephritis in pedigree studies.
+  Blood group
+  system                Association
+  P1 (P fimbrial        Over-represented in girls with recurrent pyelonephritis
+  receptor)
+  Lewis                 Women with Le(a−b−) and Le(a+b+) have three times the recurrent UTI risk of Le(a−b+);
+                        Le(a−b−) also increased in children with UTI
+  Secretor (ABH         Non-secretor phenotype associated with renal scars on dimercaptosuccinic acid scan in
+  antigens)             children with VUR and UTI
+
+ Circumcision
+  • Circumcision reduces UTI in the first 6 months of life by almost tenfold, matching a period of heavy
+    uropathogen colonisation of the prepuce that declines and resolves by 5 years.
+   • Wiswell and Roscelli 1986 (landmark; more than 200,000 boys, United States Army hospitals 1974–
+     1983; UTI proven by catheter or SPA): circumcised 0.11%, uncircumcised 1.12%, girls 0.57%.
+
+
+                                                         page 5 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract EVALUATION AND MANAGEMENT OF A CHILD WITH A FEVER
+
+   • AAP Task Force on Circumcision 2012: benefits of newborn circumcision outweigh risks; routine
+     circumcision of all boys not justified, but benefits justify access for families who choose it and third-
+     party payment.
+   • Benefit beyond infancy remains debated; case-control data show reduction before and after 1 year;
+     the size of benefit depends on baseline risk.
+   • Antenatal hydronephrosis (meta-analysis): circumcision protective, including in the VUR subgroup.
+  Group (meta-analysis)           UTI risk               Number needed to circumcise to prevent one UTI
+  Normal healthy boys             0.5–1%                 111
+  Recurrent UTI                   10% recurrence         11
+  High-grade VUR                  30% recurrence         4
+
+ Faecal and Perineal Bacterial Colonisation
+  • Faecal–perineal–urethral route: most UTI bacteria colonise gut, perineum and periurethral area, then
+    ascend retrogradely.
+   • Recurrent UTI in women: most reinfections are the same UPEC strain persisting in faecal flora for ≥12
+     months, cycling through faecal and vaginal reservoirs.
+   • Loss of protective vaginal lactobacilli → enteric colonisation of vagina and periurethra → more E. coli;
+     antibiotics, especially trimethoprim–sulfamethoxazole (TMP-SMX), eradicate lactobacilli.
+   • Children: mechanism unproven, but antibiotic treatment of schoolgirls for non-urological infections
+     (usually otitis media) produced colonisation and bacteriuria with uropathogenic organisms.
+   • Urinary microbiome from 2 weeks of age (16S sequencing, EQUC): in girls it changes through
+     childhood until the postpubertal adult pattern; in boys it changes less.
+   • Presumed role: symbiotic — metabolic and trophic functions and a protective barrier against
+     uropathogens; in adult women the microbiome differs in urge urinary incontinence, implying a role in
+     common urinary symptoms.
+ Anatomic Abnormalities
+  • Malformation-associated UTIs usually appear before 5 years; detection matters because many are
+    surgically correctable and persistence causes renal damage and recurrence.
+   • Abnormalities: hydronephrosis, pelviureteric or vesicoureteric junction obstruction, VUR, infection
+     stones, infected non-functioning renal segments, infected necrotic papillae.
+   • AAP: renal and bladder ultrasound (RBUS) in every child aged 2–24 months after the first febrile UTI.
+ Vesicoureteral Reflux
+  • VUR: 1–2% of newborns, 25–40% of children after a first UTI.
+   • Most pyelonephritis occurs without VUR (only a minority of scan-proven pyelonephritis has VUR); but
+     kidneys with grade III–IV reflux were twice as likely to show pyelonephritic change.
+   • Modifiers: reflux grade, distal ureteric diameter, early onset of reflux during filling, age, sex, and
+     bladder and bowel dysfunction. Detail in Chapter 41.
+ Sexual Activity
+  • Sexually active girls have more UTIs; UTI has been proposed as a marker of teenage sexual activity,
+    but the relationship remains poorly defined.
+ Bladder and Bowel Dysfunction
+  • Bladder and bowel dysfunction (BBD) = dysfunctional elimination syndrome: infrequent voiding,
+    incomplete emptying, constipation and/or bladder overactivity; contributes to UTI and VUR.
+
+
+
+                                                         page 6 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract EVALUATION AND MANAGEMENT OF A CHILD WITH A FEVER
+
+   • Presentations: recurrent UTI (febrile or afebrile), day or night incontinence, urgency, frequency,
+     constipation, encopresis.
+   • Lower urinary tract dysfunction (LUTD) affects about 20% of children; among children with LUTD, UTI
+     is far commoner in girls than in boys, mostly with urinary stasis, detrusor underutilisation and voiding
+     dysfunction.
+  Overactive bladder                                          Dysfunctional voiding
+  Urgency with or without urge incontinence, usually          Neurologically normal child with increased pelvic floor
+  with frequency and nocturia                                 activity during voiding
+  Treatment: anticholinergics → VUR resolution or             Treatment: biofeedback → VUR resolution in over half and
+  improvement in many                                         grade improvement at 1 year
+
+   • Treating BBD reduces recurrent UTI and improves VUR resolution.
+   • Constipation treatment: relief of constipation → daytime incontinence largely disappears, enuresis
+     often resolves, and UTIs disappear in children without anatomical abnormality; UTIs were commoner
+     in constipated girls than boys.
+ Neurogenic Bladder
+  • UTI is the commonest infection in neurogenic bladder (spina bifida, spinal cord injury) — about 2.5
+    UTIs per year; in spina bifida, UTI is the commonest reason for emergency attendance; brings higher
+    morbidity, mortality and end-stage renal disease.
+   • Cause is not only mechanical (poor emptying, stasis, stones): a dysfunctional bladder immune
+     response also contributes.
+   • Clean intermittent catheterisation (CIC): chronic bacteriuria and/or pyuria in 40–80%, mostly
+     asymptomatic and harmless.
+   • Without VUR, asymptomatic bacteriuria (ASB) on CIC is not a significant risk for renal damage and
+     needs no antibiotics.
+   • Stopping prophylaxis in spina bifida reduces bacterial resistance; most children can undergo
+     urodynamics without prophylactic antibiotics.
+   • Daily prophylaxis with CIC may delay bacteriuria briefly but gives no long-term benefit and breeds
+     resistance.
+   • Catheter type makes no difference: sterile versus non-sterile, single-use versus reusable, lubricated
+     versus non-lubricated.
+   • In a catheterisation cohort, risk factors are high catheterisation volume in females and low
+     catheterisation frequency in males; prophylaxis gave less bacteriuria but more clinical UTIs → timely,
+     scheduled catheterisation prevents UTI.
+ Figure 37.5 — multifactorial causes of UTI in neurogenic bladder (McKibben et al., Urologic Clinics of North
+ America 2015)
+   • Better uropathogen access: perineal and urethral colonisation, altered protective flora, direct inoculation
+     by catheterisation.
+   • Compromised ability to fight infection: immunodeficiency, bladder ischaemia.
+   • Better adherence: defective glycosaminoglycan (GAG) layer, impaired secretory immunoglobulin A
+     response, defective apoptosis.
+   • Compromised washout: inefficient voiding and post-void residual urine, hydrokinetic factors, deficient
+     mechanical cleansing by voiding.
+
+
+
+
+                                                         page 7 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract CLASSIFICATION OF PAEDIATRIC URINARY TRACT INFECTIONS
+
+ Iatrogenic Factors
+   • Catheter-associated UTI (CAUTI) is the commonest nosocomial infection — more than 1 million cases
+     yearly in United States hospitals and nursing homes.
+   • Risk rises with catheter duration: bacteriuria about 3–10% per day.
+   • Children: nosocomial UTIs make up 6–18% of paediatric nosocomial infections; each adds about one
+     hospital day and more than $1000 per case.
+   • Prevention works: CAUTI incidence and mortality in catheterised adults fell over 2001–2010 as
+     prevention became a target.
+   • Paediatric risk factors: duration of catheterisation, contact precautions, prior catheterisation.
+   • Prevention: judicious use and removal as soon as no longer necessary; Healthcare Infection Control
+     Practices Advisory Committee (HICPAC): catheters for necessity, not convenience; consider external
+     (condom) catheters and intermittent catheterisation.
+ Immune Status
+  • UTI in young healthy women is benign; in young children and the elderly it is more complicated —
+    immunity is diminished at both ends of life.
+   • First few months of life = greatest risk: serum immunoglobulin G lowest at 1–3 months; serum
+     immunoglobulin A low and absent or nearly absent on the urothelium in early months.
+   • Obesity: inflammation, altered adipokine signalling, metabolic and epigenetic change → immune
+     dysregulation; associated with UTI in febrile children under 2 years and with acute pyelonephritis.
+
+   KEY POINTS: HOST RISK FACTORS
+     • A multitude of host factors increase UTI susceptibility.
+     • UTI is commoner in boys than girls only below 1 year.
+     • Circumcision reduces UTI in the first 6 months almost tenfold.
+     • Dysfunctional elimination syndrome is important; treating bladder and bowel reduces recurrence
+       and improves VUR resolution.
+     • Without VUR, ASB on CIC is not a significant risk for renal damage and needs no antibiotics.
+     • CAUTI is the commonest nosocomial infection; most are preventable by judicious catheter use.
+
+ Concept — Every host risk factor either raises inoculum and exposure time (prepuce, faecal colonisation,
+ stasis, constipation, catheter) or lowers defence (immature immunity, obesity, receptor-bearing blood
+ groups); prevention means reversing whichever applies.
+
+ CLASSIFICATION OF PAEDIATRIC URINARY TRACT INFECTIONS
+   • Three axes: complicated versus uncomplicated; upper (pyelonephritis) versus lower (cystitis); first
+     versus recurrent.
+   • Complicated UTI: anatomical or functional abnormality, or a foreign body (ureteric stent, indwelling
+     catheter); neonatal and infant UTIs are presumed complicated because anomalies are common and
+     morbidity high.
+
+
+
+
+                                                           page 8 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract CLASSIFICATION OF PAEDIATRIC URINARY TRACT INFECTIONS
+
+  Presumed pyelonephritis                    Presumed cystitis
+  High fever, nausea, vomiting, flank        Afebrile, lower tract symptoms only: urgency, frequency, dysuria,
+  pain, lethargy                             malodorous urine, suprapubic tenderness
+
+   • Clinical localisation is not accurate: dimercaptosuccinic acid (DMSA) scan is the gold standard for
+     pyelonephritis; only 50–66% of children with fever and systemic features show acute DMSA changes; a
+     small subset of afebrile “lower” UTIs have acute pyelonephritis (APN) on DMSA.
+   • Infants under 90 days give hard-to-interpret signs: failure to thrive, diarrhoea, irritability, lethargy,
+     malodorous urine, asymptomatic jaundice, oliguria, polyuria.
+ RECURRENT UTI — THREE MECHANISMS COMPARED
+                      Unresolved bacteriuria                        Bacterial persistence                      Reinfection
+  Urine sterile       No                                            Yes                                        Yes
+  between
+  episodes?
+  Cause               Inadequate therapy: non-compliance,           Nidus not eradicated, shielded from        New infection
+                      malabsorption, suboptimal                     antibiotics: anomaly, calculus,            after cure
+                      metabolism, resistant organism                necrotic papilla, catheter, stent
+  Organism            Same                                          Same organism each episode                 Usually
+                                                                                                               different
+  Remedy              Culture-directed retreatment                  Find and remove the nidus                  Prevention
+
+ Biofilms
+   • Biofilm: structured microbial community in a self-made polymeric matrix, adherent to a living or inert
+     surface; drives bacterial persistence.
+   • Why antibiotics fail: (1) incomplete penetration; (2) slow growth resists agents needing active growth;
+     (3) low expression of antimicrobial-binding proteins; (4) activated genes alter envelope, targets and
+     susceptibility; (5) survival at 1000–1500 times the usual killing concentration.
+   • Renal biofilms: bacteria adhere as thin biofilms to urothelium and papillae before invading
+     parenchyma, and are less susceptible to antibiotics there.
+   • Foreign bodies: catheters, ureteric stents, calculi.
+  Extraluminal catheter colonisation                                   Intraluminal catheter colonisation
+  From gastrointestinal tract or perineum                              From exogenous sources
+
+   • Stents colonise far more often than urine shows bacteriuria — a sterile urine does not mean a sterile
+     stent.
+
+ Asymptomatic Bacteriuria
+   • Kass definition: two consecutive cultures ≥105 colony-forming units (CFU)/mL of the same
+     uropathogen in a patient free of infective symptoms.
+   • E. coli is the commonest organism, as in symptomatic UTI; likely less virulent strains → colonisation
+     rather than infection.
+   • “Asymptomatic” can mislead: some women later became symptomatic and needed treatment, and
+     most schoolgirls with ASB admitted lower urinary tract symptoms and incontinence on careful
+     questioning.
+   • Screening is not cost-effective: given test performance and prevalence, screening yields many false
+     positives, and treatment prevents no long-term harm.
+
+
+
+
+                                                           page 9 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract CLASSIFICATION OF PAEDIATRIC URINARY TRACT INFECTIONS
+
+  Age group       Prevalence           Action
+  Full-term       <1%                  Treat and obtain RBUS — may be the only sign of infection and a marker of
+  infants                              underlying genitourinary disease; consider voiding cystourethrogram (VCUG) in
+  Premature       3%                   the premature infant with UTI and abnormal ultrasound (VUR incidence rises
+  infants                              with each month of age)
+
+  Preschool       Girls 0.8%; boys     No antibiotics if no VUR or genitourinary anomaly — no risk of recurrence, renal
+                  fewer                damage or impaired growth
+  School-age      1–2% per year;       No routine treatment: spontaneous clearance is common but bacteriuria recurs;
+  girls           about 5% by age      treatment rarely gives lasting cure; very low risk of renal decline or hypertension;
+                  15                   prophylaxis alters microbiota and breeds resistance
+
+ Bacterial Nephritis
+   • Acute bacterial nephritis: infection spreads through the kidney as an increasingly suppurative process
+     with heavier leucocytic infiltrate and focal necrosis.
+   • Generalised form = acute bacterial nephritis; localised form = acute focal bacterial nephritis (AFBN),
+     focal pyelonephritis, lobar nephronia; clinical features of septicaemia often present.
+   • Computed tomography (CT): global renal enlargement, perirenal fat inflammation, thickened Gerota
+     fascia; on contrast, ill-defined, non-homogeneous, wedge-shaped decreased enhancement (Figure
+     37.6: CT of acute focal pyelonephritis, lobar nephronia).
+
+ Pyonephrosis
+   • Purulent exudate from APN accumulating in a dilated collecting system, typically a hydronephrotic
+     kidney with obstructed outflow; CT: enlarged kidney, grossly dilated system with higher-than-usual
+     fluid attenuation.
+
+ Acute Renal Abscess
+   • Presents like pyelonephritis, but urine culture is negative in up to 20% → diagnosis is radiological.
+   • Ultrasound: detects abscesses ≥1 cm as sonolucent areas with low-amplitude echoes.
+   • CT is most sensitive and specific: early — well-defined low attenuation or decreased enhancement, or
+     a striated wedge-shaped zone; later — coalescence into a well-defined mass of homogeneous fluid
+     attenuation (pus).
+ SPECTRUM OF RENAL PARENCHYMAL INFECTION COMPARED
+  Entity                           Defining feature               Imaging                                Treatment
+  Acute focal bacterial            Localised suppurative          Wedge-shaped                 Antibiotics ≥3 weeks
+  nephritis                        nephritis                      hypoenhancement; may mimic a
+                                                                  mass
+  Acute bacterial nephritis        Generalised form               Global enlargement, perirenal          Antibiotics
+                                                                  change
+  Pyonephrosis                     Pus in an obstructed           Dilated system, raised fluid           Drainage plus
+                                   dilated system                 attenuation                            antibiotics
+  Renal abscess                    Liquefied collection;          Well-defined mass of fluid             Antibiotics; drain if
+                                   culture negative in up to      attenuation                            no response
+                                   20%
+  Xanthogranulomatous              Chronic, obstructive,          Mass with perinephric                  Nephrectomy
+  pyelonephritis                   Proteus or E. coli             extension, calculi                     (diffuse)
+
+   KEY POINTS: CLASSIFICATION
+     • UTIs may be classified in several ways.
+
+
+                                                           page 10 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract   DIAGNOSIS OF PAEDIATRIC URINARY TRACT INFECTION
+     • Pyelonephritis is usually diagnosed clinically (fever, flank pain, nausea, vomiting), yet only 50–66%
+       of such children show acute DMSA changes.
+     • ASB in 0.8% of preschool girls (fewer boys); without VUR or anomaly they need no antibiotics.
+
+ Concept — In children symptoms do not localise infection and bacteriuria does not equal infection;
+ classification therefore rests on imaging (DMSA) and on whether bacteriuria is causing harm, not on the
+ culture alone.
+
+ DIAGNOSIS OF PAEDIATRIC URINARY TRACT INFECTION
+   • No consensus definition: international guidelines — AAP, National Institute for Health and Care
+     Excellence (NICE), Italian Society of Pediatric Nephrology (ISPN), Royal Children’s Hospital (RCH)
+     Melbourne — differ significantly.
+   • UTI = invasion of the urinary tract causing pathological change, by the organism or by the host
+     response.
+   • Proof requires two things: the organism in urine (culture) and evidence it is pathogenic (symptoms, or
+     an immune response in urine or blood).
+
+ Symptoms
+   • Classic adult symptoms (dysuria, frequency, urgency, suprapubic or flank pain) become harder to
+     identify with decreasing age.
+   • Infants: fever, irritability, poor feeding, jaundice, failure to thrive, vomiting, diarrhoea, abdominal
+     distension, foul-smelling urine.
+   • After the neonatal period fever is the primary symptom: UTI prevalence about 5% in febrile infants
+     without another source; fever ≥38 °C for more than 2 days without source has a positive likelihood
+     ratio of 3.6 for occult UTI, rising with duration and height of fever.
+   • Fever does not localise: cystitis can be febrile.
+   • Older children: dysuria, incontinence, changed voiding, enuresis, flank or abdominal pain — still
+     nonspecific (UTI in only a minority of such children); mimics include BBD and vulvovaginitis.
+   • High prevalence means UTI must stay on the differential; clinical probability tools combine symptoms,
+     signs and laboratory results to decide when to test.
+   • Risk factors to elicit: previous UTI (children under 6 years recur at about 12% per year), genitourinary
+     anomaly, abnormal prenatal or postnatal ultrasound, family history, prior genitourinary or
+     gastrointestinal surgery.
+   • Adolescent urethritis: consider sexually transmitted infection — Neisseria gonorrhoeae, Chlamydia
+     trachomatis, Ureaplasma urealyticum — as well as routine uropathogens.
+   • DUTY study (Diagnosis of Urinary Tract infection in Young children; United Kingdom primary care,
+     children under 5): predictors for collecting urine — pain or crying on voiding, smelly urine, previous
+     UTI, absence of severe cough, impression of severe illness; adding dipstick leucocytes, nitrite and/or
+     blood predicted need for antibiotics; the derived points score outperformed clinical impression.
+
+ Physical Examination
+   • Specific findings are rare in young children (fever, lethargy).
+   • Another source does not exclude UTI: an alternative focus (otitis, upper respiratory infection,
+     gastroenteritis) only about halves the UTI risk; clinicians wrongly attributed most febrile UTIs to
+     another source.
+
+
+
+                                                              page 11 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract    DIAGNOSIS OF PAEDIATRIC URINARY TRACT INFECTION
+   • Classic history: recurrent “otitis” before the first diagnosed UTI, then DMSA scars — earlier
+     pyelonephritis misdiagnosed.
+   • Abdomen: palpable bladder (distension) or flank mass (hydronephrosis); suprapubic, abdominal or
+     flank tenderness; costovertebral angle tenderness suggests pyelonephritis.
+   • Genitalia: trauma, irritation, meatal stenosis, discharge, phimosis, foreign body, anomalies; boys —
+     testicular tenderness (epididymo-orchitis); girls — introital discharge, irritation, ectopic ureter,
+     prolapsing ureterocele.
+   • Back and neurology: prominent fat pad, asymmetric gluteal cleft, sacral dimple (spina bifida occulta)
+     plus neurological examination → neurogenic bladder dysfunction.
+
+ Laboratories
+ Urine Collection Methods
+  • Collect urine before antibiotics unless the delay would compromise a seriously ill child (NICE).
+   • Earlier AAP guidance required pyuria to separate true UTI from ASB or contamination.
+   • Contamination rises as invasiveness falls.
+ URINE COLLECTION METHODS COMPARED
+  Method                 Contamination                   Performance and role
+  Bag                    50–60% (perineal and            Reliable only when normal; never for culture
+                         rectal flora, extraneous
+                         leucocytes)
+  Clean catch            About 26%                       Against SPA: sensitivity 75–100%, specificity 57–100%; lower
+  (midstream)                                            sensitivity risks missed or delayed diagnosis; more reliable in older
+                                                         girls, circumcised boys, boys who retract the foreskin; preferred by
+                                                         NICE, ISPN, RCH when possible
+  Catheterisation        About 10–15%                    Against SPA: sensitivity 95%, specificity 99%; recommended in non-
+                                                         toilet-trained children under 2
+  Suprapubic             <1% — reference                 Invasive; trauma or infection; not always feasible in primary care
+  aspiration             standard
+
+   • Catheterisation technique: sterile technique → intraurethral and/or topical lidocaine (reduces
+     discomfort) → in girls, two-person technique: each labium majus drawn gently outward and slightly
+     laterally to expose the recessed meatus (excessive lateral pull hurts and makes the attempt traumatic)
+     → insert → discard the first drops (urethral contamination).
+   • SPA technique: skin preparation → 22-gauge needle 1–2 cm above the pubic bone → aspirate into a
+     sterile syringe; blind success 45–65%, rising to 80–90% with ultrasound confirmation and guidance;
+     local anaesthetic optional, benefit unproven.
+ Urinalysis
+  • Urinalysis (UA) = dipstick plus microscopy; examine within 1 hour at room temperature or 4 hours
+    refrigerated.
+   • Culture is the gold standard but needs ≥18 hours for growth and 2–3 days for the final result and
+     susceptibilities; UA gives a rapid probability to guide empirical treatment.
+   • Urine concentration alters the likelihood ratios of dipstick and microscopy results, although thresholds
+     are not adjusted for specific gravity.
+ Urine dipstick tests
+   • Leukocyte esterase (LE): released from lysed leucocytes → marker of pyuria; sensitive but less
+     specific; false positives from other inflammation; 2+ raises probability more than 1+.
+
+
+                                                              page 12 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract    DIAGNOSIS OF PAEDIATRIC URINARY TRACT INFECTION
+   • Pyuria and LE are commoner with E. coli than with Klebsiella or Enterococcus → culture a suspected
+     UTI even without pyuria.
+   • LE misses a fraction of UTIs, but its absence helps separate ASB from true UTI because true UTI
+     without pyuria is rare.
+   • Nitrite: dietary nitrate reduced by gram-negative enterics over several hours → first-morning urine is
+     best.
+   • Nitrite false negatives: frequent voiding in infants, dilute urine, gram-positive organisms; hence low
+     sensitivity but very high specificity — a positive nitrite is very likely a true UTI.
+ RAPID URINE TESTS COMPARED
+  Test                                     Sensitivity                 Specificity Use
+  Leukocyte esterase                       ~79%                        ~87%       Negative helps rule out
+  Nitrite                                  ~50%                        ~98%       Positive rules in
+  LE or nitrite positive                   88%                         79%        Screening
+  LE or nitrite or microscopy              99.8%                       70%        Best rule-out combination
+  positive
+  LE and nitrite both negative             Negative likelihood ratio 0.22         UTI much less likely, but continue
+                                                                                  antibiotics if clinical picture demands
+  LE, nitrite, blood, protein all          Rule-out sensitivity about 97%         Four-parameter rule-out
+  negative
+  LE + nitrite + blood                     Specificity about 97%                  Best rule-in combination
+  Microscopic pyuria ≥5 white              ~74%                        ~86%       No advantage over LE
+  cells/high-power field
+  Bacteria, uncentrifuged fresh            ~88% (unstained),           92–96%     Most reliable rapid test
+  urine                                    ~91% (Gram)
+
+ Urine microscopic examination
+   • Pyuria threshold: traditionally 5 white blood cells per high-power field (WBC/HPF) on centrifuged
+     urine; 10 WBC/HPF is more reliable under 2 years (NICE, ISPN, RCH) with fewer false positives; 20–50
+     WBC/HPF or more markedly raises post-test probability.
+   • Microscopy for leucocytes adds nothing over LE; its additive value to the dipstick is questionable.
+   • Microscopic bacteria on uncentrifuged fresh urine = most reliable rapid test; Gram stain improves
+     accuracy but routine Gram stain does not enhance diagnosis in children having UA.
+ Urine Culture
+  • A positive culture is essential for diagnosis; culture is generally unnecessary if UA is normal (negative
+    nitrite and LE, no pyuria or bacteriuria).
+   • Threshold trade-off: lower threshold → false positives and overtreatment; higher → undertreatment.
+   • Historical Kass threshold ≥105 CFU/mL came from morning-voided urine of adult women and may not
+     suit children; frequent voiding and high output lower counts.
+ CULTURE THRESHOLDS BY GUIDELINE BODY
+  Body                                     Specimen                                Threshold
+  Historical (Kass)                        Voided                                  ≥105 CFU/mL
+  AAP 2011 (2–24 months)                   Catheter or SPA                         ≥50,000 CFU/mL plus pyuria on UA
+  European Association of Urology Clean catch, midstream or catheter 103–104 CFU/mL if a monoculture
+
+  RCH Melbourne                            SPA / catheter                          Any gram-negative growth / >103 CFU/mL
+
+
+                                                              page 13 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract   DIAGNOSIS OF PAEDIATRIC URINARY TRACT INFECTION
+
+  Body                                     Specimen                              Threshold
+  ISPN                                     Catheter / midstream                  >104 / >105 CFU/mL
+
+   • Pattern: the more invasive the specimen, the lower the accepted count; the trap is applying the adult
+     105 figure to a catheter or SPA sample.
+   • Contamination is more likely with low colony counts, heavy mixed growth (but a true UTI plus
+     contamination remains possible) and non-pathogens: Lactobacillus, coagulase-negative staphylococci,
+     Corynebacterium, α-haemolytic streptococci, Candida.
+ Serum Tests
+  • Renal invasion → Toll-like receptor signalling → cytokines and chemokines; urinary interleukin (IL)-6,
+    IL-8, transforming growth factor-β1 may rise.
+   • Systemic response: fever, white cell count, erythrocyte sedimentation rate (ESR), C-reactive protein
+     (CRP), procalcitonin (PCT).
+   • Renal biomarkers combined — neutrophil gelatinase-associated lipocalin (NGAL), kidney injury
+     molecule-1 (KIM-1), urinary creatinine — improve prediction of renal scars in children with VUR.
+  Marker                           Localises upper tract?
+  Fever, ESR, peripheral           No — do not reliably separate upper from lower UTI
+  white count
+  CRP                              Reasonable sensitivity, low specificity
+  Procalcitonin (rises with        More robust than CRP or white count for early APN and later DMSA scarring (meta-
+  bacterial endotoxin)             analysis); cut-off ≥0.5 ng/mL, accuracy only moderate — best combined with other
+                                   data to guide imaging
+
+   KEY POINTS: SYMPTOMS AND LABORATORY ANALYSIS
+     • Symptoms in infants and young children are typically nonspecific.
+     • Another source of fever does not exclude a concurrent UTI.
+     • Bag urine is reliable only when normal because contamination is frequent.
+     • Diagnostic criteria for UTI vary between guidelines.
+     • LE: high sensitivity, lower specificity; nitrite: high specificity, lower sensitivity.
+
+ Concept — Every step of diagnosis is a sensitivity–specificity trade: collection method trades invasiveness
+ for contamination, LE and nitrite trade in opposite directions, and culture thresholds fall as the specimen
+ becomes cleaner.
+
+ Radiographic Imaging
+ Controversies With Imaging Strategies
+  • No evidence that routine imaging prevents scarring, hypertension or renal failure.
+   • Traditional work-up = ultrasound plus VCUG; VUR is found in more than 30% of febrile UTIs, but
+     prophylaxis is unproven in low-grade VUR → routine VCUG after every first UTI questioned.
+   • NICE: ultrasound routinely under 6 months; above 6 months only for recurrent or atypical UTI (atypical
+     defined under Table 37.1).
+   • AAP 2011 guideline is now defunct.
+   • AAP Section on Urology: VCUG remains an accepted option — children with higher-grade VUR benefit
+     from early detection and treatment; the Randomized Intervention for Vesicoureteral Reflux (RIVUR)
+     trial showed prophylaxis halved febrile or symptomatic UTI over 2 years.
+
+
+                                                              page 14 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract     DIAGNOSIS OF PAEDIATRIC URINARY TRACT INFECTION
+   • Yield: NICE and AAP protocols would miss about half or more of grade III–V VUR and most or all renal
+     scars; NICE performs worse in boys (negative predictive value).
+   • Counter-argument: most children without high-grade VUR are spared the trauma, radiation and cost
+     of VCUG and DMSA; high-grade VUR declares itself at the recurrent UTI, and prompt treatment of that
+     recurrence keeps renal risk low.
+   • Top-down approach (TDA): DMSA after the first febrile UTI, VCUG only if DMSA abnormal → misses
+     only 15–30% of dilating VUR, but lower specificity.
+   • Late DMSA: NICE — 4–6 months after acute infection for children under 3 with atypical or recurrent
+     UTI and over 3 with recurrent UTI; AAP — no routine DMSA.
+   • Bottom line: no strategy tests only the children who will benefit; if a result will not alter management,
+     the test should not be ordered.
+ TABLE 37.1 SUMMARY OF THE FIVE IMAGING RECOMMENDATIONS
+  Guideline            Ultrasound                             Voiding cystourethrogram                  Late DMSA
+  RCH                  If <3 months or seriously              No                                        No
+  Melbourne            unwell
+  NICE <6              Yes                                    Atypical / recurrent*                     Atypical / recurrent
+  months
+  NICE >6              Atypical / recurrent*                  No                                        Atypical / recurrent*
+  months
+  TDA                  No                                     If acute DMSA positive                    If acute DMSA
+                                                                                                        positive
+  AAP                  Yes                                    If ultrasound positive                    No
+  ISPN <1 year         Yes                                    If ultrasound positive and/or risk        Yes
+                                                              factors†
+  ISPN 1–5 years       Yes                                    If ultrasound or DMSA positive            Yes
+  ISPN >5 years        Yes                                    If ultrasound positive                    If ultrasound positive
+
+ *Atypical UTI: seriously ill, poor urine flow, abdominal or bladder mass, raised creatinine, septicaemia, failure to
+ respond to correct antibiotic within 48 hours, non-E. coli infection.
+ †ISPN risk factors: abnormal prenatal urinary tract ultrasound, family history of VUR, septicaemia, renal failure, male
+ infant under 6 months, likely family non-compliance, abnormal bladder emptying, no response to correct antibiotic
+ within 72 hours, non-E. coli infection.
+ Data from La Scola et al., Pediatrics 2013; Zhu et al., BMJ Open 2022.
+   • What the table is for: the bodies agree on ultrasound (except TDA) and disagree on what triggers
+     VCUG — ultrasound-driven (AAP, ISPN), clinical-course-driven (NICE: atypical or recurrent), DMSA-
+     driven (TDA), or never routinely (RCH).
+   • Traps: the TDA uses no ultrasound; RCH images least; NICE omits VCUG over 6 months; ISPN is the
+     only body using age bands up to and beyond 5 years and the most imaging-intensive.
+ Ultrasound
+  • Non-invasive, radiation-free, widely available → routine use widely accepted; usually the first study.
+   • Yield after first febrile UTI: abnormal in about 15%; only 1–2% need further evaluation or treatment.
+   • Relative indications in older children: recurrent febrile UTI, poor response to antibiotics, hypertension,
+     family history of renal or urological disease.
+   • Shows: size, shape and presence of both kidneys; congenital anomalies, obstruction, hydronephrosis,
+     stones, pyonephrosis, renal or perirenal abscess → obtain urgently if unusually ill or not responding.
+
+
+
+                                                              page 15 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract   DIAGNOSIS OF PAEDIATRIC URINARY TRACT INFECTION
+   • Acute-phase pitfalls: oedema overestimates renal size; lobar nephronia mimics a mass or tumour; E.
+     coli endotoxin dilates the renal pelvis, mimicking hydronephrosis.
+   • Relative renal volume correlates with relative function on scintigraphy, but ultrasound misses more
+     than 10% of scars; useful to select children for DMSA.
+   • NICE: no ultrasound at 6 months–3 years after a first febrile UTI unless atypical; high-resolution
+     ultrasound has improved detection of acute renal involvement.
+   • Very low sensitivity for VUR, even high grade; in children under 24 months ultrasound missed most of
+     those needing surgical or medical intervention; a normal ultrasound does not lower the risk of
+     recurrent pyelonephritis.
+ Voiding Cystourethrogram
+  • Contrast (fluoroscopic) or radionuclide (99mTc-pertechnetate) cystography; contrast VCUG is the gold
+     standard for detecting and grading VUR.
+   • Contrast VCUG first (better anatomy); radionuclide cystogram for follow-up.
+   • Added information: bladder size, shape, trabeculation, diverticula; voiding images (essential) —
+     sphincter function and urethral obstruction; stool pattern (constipation); spinal defect (spina bifida
+     occulta, possible tethered cord).
+   • Timing: as soon as urine is sterile, the child is asymptomatic and voiding normally.
+   • A negative VCUG does not exclude VUR: about a third with previous VUR and one negative nuclear
+     study were positive a year later.
+   • Cyclic VCUG (fill → void → refill → void) increases sensitivity for VUR and ectopic ureter.
+   • AAP standard protocol (Sections of Urology and Radiology): gravity filling from 100 cm above the
+     table, at least two fill–void cycles, and record the volume at onset of VUR — an independent
+     predictor of resolution and breakthrough UTI.
+   • Contrast-enhanced voiding urosonography (ceVUS): real-time, radiation-free, high sensitivity against
+     VCUG; some guidelines advise it for first evaluation of VUR in girls and for follow-up.
+ 99m
+      Tc-Dimercaptosuccinic Acid
+   • DMSA with single-photon emission computed tomography (SPECT) = gold standard for renal
+     parenchymal lesions.
+   • Mechanism: intravenous → bound to proximal tubular cells → excreted very slowly → stable cortical
+     images, acquired 2–4 hours after injection; radiation about 1 millisievert (mSv); CT detects some APN
+     lesions DMSA misses, but CT has major drawbacks in children.
+   • Timing is everything: sensitivity for APN is maximal within 1 week of symptoms and falls markedly by
+     1 month.
+   • Acute DMSA: cortical uptake defects; kidney may look enlarged (inflammation, oedema).
+   • Scar assessment no earlier than 6 months after APN (some wait 1–2 years for reversible defects to
+     resolve); most acute lesions are transient, about 15% scar.
+   • Scars = cortical areas of decreased uptake, indistinguishable from congenital dysplasia (often
+     associated with VUR).
+   • Abnormal DMSA is commoner with dilating VUR; scarring is worse with higher grade; an abnormal
+     DMSA lowers spontaneous VUR resolution independent of grade; older children show more defects
+     (scars are cumulative).
+
+
+
+
+                                                              page 16 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract   MANAGEMENT OF PAEDIATRIC URINARY TRACT INFECTION
+   • 99mTc-mercaptoacetyltriglycine (MAG3): less cortical detail but images the collecting system
+     (obstruction); reduces DMSA false positives in a very hydronephrotic kidney; faster excretion →
+     shorter study and lower dose to bladder and gonads.
+ Computed Tomography
+  • Detailed anatomy and excellent sensitivity for renal infection, but high radiation (10–15 mSv for a
+    paediatric abdomen and pelvis) and contrast risks limit use.
+   • Exceptions: non-contrast CT for suspected urolithiasis not seen on ultrasound; distinguishing
+     inflammation from tumour when acute ultrasound suggests a mass.
+   • Findings: cortical hypoattenuation, wedge-shaped defects, loss of corticomedullary differentiation,
+     striations; abscess and AFBN may look alike acutely → delayed scans may be needed.
+ Magnetic Resonance Imaging
+  • Excellent anatomical and functional imaging, limited by cost, need for sedation or anaesthesia and
+    availability; gadolinium risks nephrogenic systemic fibrosis in impaired renal function.
+ IMAGING MODALITIES COMPARED
+  Modality                  Radiation                      Answers                          Key limitation
+  Ultrasound                None                           Anatomy, obstruction,            Poor for VUR; misses scars
+                                                           collections
+  Contrast VCUG             Fluoroscopic                   VUR grade, bladder, urethra      Catheterisation; negative study
+                                                                                            does not exclude VUR
+  ceVUS /                   None / low                     VUR detection, follow-up         Less anatomical detail
+  radionuclide
+  cystogram
+  DMSA (± SPECT)            ~1 mSv                         Acute APN, scars, relative       Timing-dependent; scar ≈
+                                                           function                         dysplasia
+  MAG3                      Lower than DMSA to             Cortex plus drainage/            Less cortical detail
+                            bladder and gonads             obstruction
+  CT                        10–15 mSv                      Infection extent, stones,        Radiation, contrast
+                                                           mass versus inflammation
+  MRI                       None                           Anatomy and function             Sedation, cost; gadolinium and
+                                                                                            nephrogenic systemic fibrosis
+
+   KEY POINTS: RADIOGRAPHIC IMAGING
+     • Imaging guidelines conflict and all fall short of testing only the children who will benefit.
+     • Ultrasound is non-invasive, radiation-free and available, but unreliable for VUR and misses some
+       scars.
+     • VCUG is the most reliable method to detect and grade VUR and image bladder and urethra.
+     • DMSA is the gold standard for renal cortical imaging and gives relative renal function.
+
+ Concept — Each study answers one question — ultrasound anatomy, VCUG reflux and outlet, DMSA
+ parenchyma — and none substitutes for another; the guideline controversy is only about which children
+ need the second and third question asked.
+
+ MANAGEMENT OF PAEDIATRIC URINARY TRACT INFECTION
+ Antibiotic Treatment
+   • Goals: eradicate infection, prevent renal scarring, relieve symptoms.
+
+
+                                                              page 17 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract   MANAGEMENT OF PAEDIATRIC URINARY TRACT INFECTION
+   • Urine is usually sterile within 24 hours of effective therapy.
+   • Each new febrile UTI raises scar incidence (about 2.8% per episode).
+   • Early treatment limits renal involvement and scarring: starting antibiotics at day 3 rather than day 2
+     sharply increased acute scintigraphic lesions, and scar formation rose steeply as the start slipped
+     towards day 6.
+   • Anti-inflammatory steroids (dexamethasone, methylprednisolone) to limit scarring: results vary —
+     investigational.
+   • Empirical start is routine (nonspecific symptoms; culture takes 2–3 days) — ideally based on UA and
+     adjusted to culture; in practice UA and culture are often omitted → overtreatment of non-UTIs or
+     undertreatment of resistant UTIs; indiscriminate broad-spectrum use → side effects and resistance.
+ Inpatient Versus Outpatient Management
+   • Decision factors: likely uropathogen, clinical status, family reliability; fewer than 1% of outpatients
+     evaluated for UTI need admission.
+   • Outpatient: infants older than 2 months and non-toxic children with suspected pyelonephritis, if oral
+     antibiotics are tolerated and compliance assured.
+   • Oral equals intravenous for time to improvement and scar prevention in randomised trials — urinary
+     antibiotic levels far exceed serum.
+   • Newborns and young infants → admit and give parenteral antibiotics: more urosepsis, positive blood
+     cultures in about 20%, hyponatraemia and hyperkalaemia.
+   • Admission indications: age under 1 month (some say under 2 or even 6 months), toxic appearance or
+     dehydration, oral intolerance, doubtful compliance.
+   • Neonatal pathway: admit → full septic evaluation → parenteral antibiotics → culture confirms and
+     symptoms improve → switch to oral; defervescence takes at least 24 hours; ≤2 days intravenous then
+     oral is safe in young infants.
+   • Most children (90%) are afebrile within 48 hours; not improving at 48 hours → RBUS and, if culture
+     not back, broaden cover.
+ Antibiotic Duration
+  Infection                                Duration                  Notes
+  Febrile UTI                              7–14 days                 Shorter courses proven inferior
+  Afebrile cystitis                        2–4 days                  Fewer recurrences than single-dose or 1-day; equivalent
+                                                                     to 7–14 days
+  Focal pyelonephritis (lobar              At least 3 weeks          Sufficient in most
+  nephronia)
+  Renal abscess                            Antibiotics often         Drain if no clinical response or resolution
+                                           suffice
+  Obstructive uropathy with UTI            —                         Temporary tube or stent drainage
+
+ Antibiotic Selection
+  • Gram stain, if available, guides the initial empirical choice.
+   • E. coli is the commonest paediatric uropathogen; TMP-SMX and amoxicillin are used in about half of
+     outpatient UTIs but are poor empirical choices (high E. coli resistance).
+   • Nitrofurantoin or a first-generation cephalosporin = appropriate narrow-spectrum choice for many,
+     adjusted for age and comorbidity.
+
+
+
+
+                                                              page 18 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract   MANAGEMENT OF PAEDIATRIC URINARY TRACT INFECTION
+   • Susceptibility reports use serum breakpoints, yet urinary levels may exceed serum more than 100-
+     fold → narrow agents such as cephalexin may be wrongly excluded in favour of an overly broad third-
+     generation cephalosporin (resistance, Clostridioides difficile).
+   • Prevalence and resistance vary by sex, setting and prior antibiotics → empirical therapy from local or
+     regional antibiograms, revised annually.
+   • Other uropathogens: gram-negative — Klebsiella, Proteus, Enterobacter, Citrobacter; gram-positive —
+     Staphylococcus saprophyticus, Enterococcus, rarely S. aureus.
+   • Neonates and young infants: cover Enterococcus (commoner in early infancy); it is usually ampicillin-
+     sensitive and intrinsically resistant to cephalosporins.
+   • Safe empirical parenteral regimen in neonates and young infants: ampicillin plus a third-generation
+     cephalosporin or an aminoglycoside.
+   • Aminoglycosides: once-daily dosing; consider when Pseudomonas risk (recent antibiotics, urinary tract
+     abnormality).
+   • Intravenous → oral in most after several days, guided by culture and defervescence.
+   • Empirical broad-spectrum cover for children at risk of resistance: previous UTI, recent antibiotics,
+     recent hospitalisation, genitourinary anomaly. Broad-spectrum = antipseudomonal and β-lactam/β-
+     lactamase-inhibitor penicillins, macrolides, fluoroquinolones, second- to fourth-generation
+     cephalosporins, lincosamides, carbapenems.
+   • Fluoroquinolones: highly effective but resistance rising → not first line; reserve for resistant organisms
+     such as Pseudomonas aeruginosa; toxicity (cartilage, tendinitis, tendon rupture, arthropathy) similar to
+     adults; United States Food and Drug Administration (FDA) restricts paediatric urological use to
+     complicated UTI including pyelonephritis.
+ TABLE 37.2 UROPATHOGEN PREVALENCE BY SEX AND CLINICAL SETTING
+  Organism                           Boys — outpatient         Boys — inpatient      Girls — outpatient    Girls — inpatient
+  Escherichia coli                   50%                       37%                   83%                   64%
+  Enterococcus                       17%                       27%                   5%                    13%
+  Klebsiella                         10%                       12%                   4%                    10%
+  Proteus mirabilis                  11%                       5%                    4%                    2%
+  Pseudomonas aeruginosa             7%                        10%                   2%                    6%
+  Enterobacter                       5%                        10%                   1%                    4%
+
+ National data, The Surveillance Network; prevalence varies by region. Data from Edlin et al., Journal of Urology 2013.
+   • Pattern: E. coli dominates outpatient girls and falls in boys and inpatients; Enterococcus, Klebsiella,
+     Pseudomonas and Enterobacter rise in inpatients; Proteus is a boys’ organism.
+   • Trap: “E. coli causes more than 80% of paediatric UTIs” is true only of outpatient girls — an inpatient
+     boy has barely one chance in three.
+ TABLE 37.3 DETAILS OF COMMON ANTIBIOTIC DOSING
+  Agent                 Dose                  Common side effects               Restrictions / comments
+  Oral
+  Amoxicillin–          20–40 mg/kg/          Diarrhoea, nausea,
+  clavulanate           day in 3 doses        vomiting, rash
+  TMP-SMX               6–12 mg/kg/           Diarrhoea, nausea,                Contraindicated <6 weeks
+                        day of TMP in 2       vomiting, photosensitivity,
+                        doses                 rash
+
+
+
+
+                                                              page 19 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract            MANAGEMENT AFTER URINARY TRACT INFECTION
+
+  Agent                 Dose                   Common side effects               Restrictions / comments
+  Cefixime              8 mg/kg/day in         Abdominal pain, diarrhoea,
+                        1 dose                 flatulence, rash
+  Cefpodoxime           10 mg/kg/day           Abdominal pain, diarrhoea,
+                        in 2 doses             nausea, rash
+  Cefprozil             30 mg/kg/day           Abdominal pain, diarrhoea,
+                        in 2 doses             raised liver enzymes,
+                                               nausea
+  Cephalexin            50–100 mg/kg/          Diarrhoea, headache,
+                        day in 4 doses         nausea, vomiting, rash
+  Nitrofurantoin        3–5 mg/kg/day          Nausea, vomiting, bad taste       Contraindicated <3 months, glomerular
+                        in 2 doses                                               filtration rate <50%, glucose-6-phosphate
+                                                                                 dehydrogenase (G6PD) deficiency
+  Parenteral
+  Ceftriaxone           75 mg/kg/day                                             Single daily dosing acceptable
+                        in 1 dose
+  Cefotaxime            150 mg/kg/day
+                        divided 6–8-
+                        hourly
+  Ceftazidime           100–150 mg/                                              Antipseudomonal
+                        kg/day divided
+                        8-hourly
+  Gentamicin            7.5 mg/kg/day                                            Single daily dosing acceptable alternative
+                        divided 8-hourly
+  Tobramycin            5 mg/kg/day
+                        divided 8-hourly
+  Piperacillin          300 mg/kg/day                                            Antipseudomonal
+                        divided 6–8-
+                        hourly
+
+   • Pattern: once-daily agents are ceftriaxone, cefixime and (as an alternative) gentamicin; the age
+     restrictions sit on TMP-SMX and nitrofurantoin — the two cheapest agents.
+ AGE AND SAFETY RESTRICTIONS ON ANTIMICROBIALS
+  Agent                          Restriction                                    Reason
+  Nitrofurantoin                 Under 3 months; G6PD deficiency;               Haemolytic anaemia; low serum and tissue
+                                 febrile UTI                                    levels
+  Trimethoprim / TMP-            Premature infants and under 6                  Sulfonamides displace bilirubin from albumin →
+  SMX                            weeks                                          kernicterus
+  Fluoroquinolones               FDA: complicated UTI and                       Cartilage, tendon, joint toxicity; resistance
+                                 pyelonephritis only
+  Fluconazole                    Under 6 months (per chapter)                   —
+
+ Concept — Choose the narrowest agent the local antibiogram allows, reading susceptibility in the light of
+ urinary, not serum, concentrations; age decides both the setting (admit the neonate) and which drugs are
+ excluded.
+
+ MANAGEMENT AFTER URINARY TRACT INFECTION
+   • Aim: prevent recurrence. Repeat culture is unnecessary after treatment chosen on susceptibilities.
+
+
+
+                                                              page 20 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract         MANAGEMENT AFTER URINARY TRACT INFECTION
+   • 10–30% develop at least one recurrence; risk is highest in the first 3–6 months, and the more
+     recurrences, the more likely the next.
+   • Counsel parents to seek prompt evaluation of later febrile illness — early treatment limits renal
+     damage.
+   • Monitor height, weight and blood pressure after any febrile UTI.
+  Recurrence after first UTI                              Index UTI <1 year                   Index UTI >1 year
+  Boys                                                    18%                                 32%
+  Girls                                                   26%                                 40%
+
+  Pyelonephritic episode                                        1st             2nd     3rd          4th          5th
+  Renal scarring risk                                           5%              10%     20%          40%          60%
+
+   • Infection model: UTI follows increased inoculum and exposure time (stasis, constipation) and
+     compromised local or systemic immunity (infrequent voiding, retention, high pressures from
+     dysfunctional voiding or obstruction); surgical correction of obstruction reduces stasis; a recent UTI
+     itself predisposes; when risk factors cannot be found or modified, non-specific prevention is used.
+
+ Prophylactic Antibiotics
+   • Efficacy questioned by small randomised series including low-grade VUR.
+   • Neither AAP nor NICE recommends routine prophylaxis after a first UTI.
+   • Benefit is demonstrable in high-risk groups, e.g. girls with dilating VUR (grade ≥III) (Swedish Reflux
+     Trial and other randomised trials).
+   • Low-risk features (benefit hard to show): circumcised boy, no BBD, no recent UTI, normal ultrasound
+     or DMSA, no anatomical abnormality, no dilating VUR.
+   • Resistance: prior exposure makes later UTIs more likely to be resistant to the same agent (faecal flora
+     become resistant) — roughly threefold; so the prophylactic agent should differ from the treatment
+     agent.
+   • Ideal prophylactic: covers most uropathogens, easy and well tolerated, high urinary and low serum
+     levels, minimal effect on flora and resistance.
+   • Dose: about one-quarter of the therapeutic dose, given at bedtime in toilet-trained children to
+     prolong bladder exposure.
+   • Unanswered: which patients benefit, ideal dose and schedule, alternating agents; non-compliance is
+     common.
+ LANDMARK TRIAL — RIVUR (RANDOMIZED INTERVENTION FOR VESICOURETERAL REFLUX)
+  Element                      Detail
+  Design                       Prospective; TMP-SMX prophylaxis versus placebo; 607 children, grade I–IV VUR, mostly
+                               after a first UTI, median age 12 months; included BBD
+  Recurrent febrile or         Risk roughly halved (reported as a 50% reduction over 2 years); the chapter also gives
+  symptomatic UTI              25.5% versus 37.4%, relative risk 0.68 — a different denominator or endpoint definition;
+                               the gap widened over time
+  Number needed to             8 children for 2 years to prevent one febrile or symptomatic UTI; 5 in high-risk versus 18
+  treat                        in low-risk children
+  Renal scarring               No significant difference
+  Greatest benefit             BBD at baseline, febrile index UTI, higher-grade VUR
+
+
+
+
+                                                              page 21 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract                        NONANTIBIOTIC PROPHYLAXIS
+ PROPHYLACTIC AGENTS COMPARED
+  Agent                   Strength                 Limitation
+  TMP-SMX                 Traditional choice       Rising E. coli resistance; sulfonamides displace bilirubin → kernicterus
+                                                   — avoid first 6 weeks
+  Trimethoprim            Alternative to           Avoid in premature and under 6 weeks
+                          combination
+  Nitrofurantoin          Minimal effect on        Low serum levels → not for APN or urosepsis; haemolysis in G6PD
+                          faecal flora;            deficiency (about 10% of Black, Sardinian, non-Ashkenazi Jewish, Greek,
+                          resistance low           Eti Turk and Thai populations; oxidises haemoglobin to
+                                                   methaemoglobin); rare pulmonary fibrosis with long-term use
+  First-generation        Narrow spectrum          —
+  cephalosporin
+
+ Concept — Prophylaxis prevents recurrences, not scars, and its benefit scales with baseline risk while its
+ cost (resistance) does not — hence prophylaxis for the high-risk child only.
+
+ NONANTIBIOTIC PROPHYLAXIS
+ NONANTIBIOTIC PREVENTION COMPARED
+  Measure                  Mechanism                      Evidence                                  Verdict
+  Cranberry                Impedes adherence;             Mixed-age meta-analysis: no benefit;      Not recommended
+                           alters virulence factors       paediatric-only review: comparable to     routinely; tolerability
+                                                          antibiotics, better than placebo; no      limits
+                                                          benefit in neurogenic bladder
+  Probiotics               Restore protective flora       No benefit as monotherapy; modest         Adjunct only
+  (Lactobacillus)                                         benefit as adjuvant to antibiotics
+  D-mannose                Mimics receptor →              Fewer recurrences than observation and Unproven in children
+                           competitively blocks           fewer side effects than nitrofurantoin —
+                           type 1 fimbrial                adult women only, limited quality
+                           attachment
+  Circumcision             Removes preputial              Reduces UTI in infants and toddlers;      Considered a medical
+                           colonisation                   greatest in recurrent UTI and dilating    indication in high-risk
+                                                          VUR; protective in antenatal              boys — controversial
+                                                          hydronephrosis
+  Topical steroid for      Allows retraction and          Significantly fewer recurrences in boys   Reasonable
+  physiological            hygiene                        with prior UTI
+  phimosis
+
+   • High-risk boys for whom circumcision is proposed: recurrent febrile UTI, obstructive uropathy, high-
+     grade hydronephrosis, hydroureteronephrosis, high-grade VUR.
+
+ Bladder and Bowel Dysfunction
+   • Assess for BBD in every child with UTI; bladder dysfunction predisposes to recurrent UTI and renal
+     injury.
+   • Incomplete emptying (dysfunctional voiding, underactive bladder) raises colonisation and UTI risk.
+   • BBD and VUR: voiding against a closed sphincter raises bladder pressure and may cause and
+     perpetuate VUR; treating overactive bladder improves spontaneous VUR resolution — suggesting a
+     causal role.
+   • Bowel and bladder are linked: constipation accompanies 30–88% of bladder dysfunction → BBD /
+     dysfunctional elimination syndrome (DES).
+
+
+
+                                                              page 22 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract   SEQUELAE OF PAEDIATRIC URINARY TRACT INFECTIONS
+   • VUR plus BBD = highest risk of recurrent pyelonephritis: recurrence about 45% versus 15% without
+     BBD.
+   • Treating constipation significantly reduces recurrent UTI and improves bladder function. Detail in
+     Chapter 47.
+   • Treatment ladder: timed voiding and constipation treatment → if failing, directed therapy:
+     pharmacotherapy, biofeedback, electrical stimulation, surgery, CIC, or combinations.
+   • Neurogenic bladder on CIC: increasing catheterisation frequency reduces recurrent UTI.
+
+ Management of Vesicoureteral Reflux
+   • VUR is a risk factor for recurrent pyelonephritis and scarring; risk rises with grade and becomes
+     significant with dilating VUR (grade ≥III).
+   • The dogma that every child with febrile UTI and VUR benefits from diagnosis and treatment
+     (continuous prophylaxis or surgery) has been challenged; management is increasingly complex —
+     detail in Chapter 41.
+ Concept — The most effective non-antibiotic prevention is correcting the host factor — emptying,
+ constipation, the foreskin — because those, rather than the organism, determine who recurs.
+
+ SEQUELAE OF PAEDIATRIC URINARY TRACT INFECTIONS
+ Renal Scarring
+   • Pyelonephritic scars favour the renal poles, where compound papillae permit intrarenal reflux.
+   • Risk rises with VUR grade.
+   • Imaging: parenchymal thinning over the calyces; calyces blunted and deformed.
+   • Scar versus dysplasia is hard or impossible to distinguish; a small kidney with diffusely decreased
+     uptake and low differential function is usually considered dysplasia.
+   • Prompt treatment and preventing further pyelonephritis reduce permanent damage.
+   • Delay matters: odds of new scarring rise with every hour of delay and double when antibiotics start
+     after 72 hours rather than within 48 hours.
+   • Severity gradient: scar risk rises from APN → AFBN → renal abscess.
+   • Steroids: no consistent benefit → not recommended routinely; vitamin A may reduce scars in girls
+     with APN — investigational.
+
+ Xanthogranulomatous Pyelonephritis
+   • Xanthogranulomatous pyelonephritis (XGP): rare chronic inflammatory renal disease in children,
+     usually with obstruction and Proteus or E. coli.
+   • Presentation: vague — fever, abdominal or flank pain or mass, weight loss, failure to thrive; laboratory
+     — leucocytosis, anaemia, pyuria.
+   • Imaging: mass lesion, focal or diffuse, with perinephric extension → mimics malignancy; CT — poorly
+     enhancing low-attenuation areas and dilated calyces; calculi in 38–70%.
+   • Treatment: diffuse → nephrectomy; focal → partial nephrectomy or medical therapy.
+   • Surgery is difficult: the process encases psoas and even the great vessels, destroying planes.
+
+ Long-Term Sequelae
+   • Hypertension, pre-eclampsia and chronic kidney disease (CKD) are hard to predict after childhood UTI.
+   • Management was built on preventing recurrence and finding VUR; recent work questions the UTI/
+     VUR → scar → hypertension → end-stage disease chain and implicates congenital dysplasia.
+
+
+                                                              page 23 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract   UNCOMMON PAEDIATRIC URINARY TRACT INFECTIONS
+   • Registry and literature review: recurrent childhood UTI accounts for less than 1% of CKD; a child with
+     normal kidneys is not at significant CKD risk from recurrent UTI.
+   • Weak causal link:; risk of end-stage kidney disease after a childhood UTI about 1 in 10,000.
+   • Most children with febrile UTI have no long-term sequelae (systematic review), especially with normal
+     kidneys at birth; decline in function is rare — consistent with the International Reflux Study in
+     Children and long adult follow-up.
+   • Bilateral scars lower glomerular filtration rate (GFR) over decades; unilateral scars do not; mean
+     ambulatory blood pressure was not different in that cohort.
+   • Hypertension is more prevalent in scarred patients on long-term follow-up and rises with scar
+     severity; hypertension in first pregnancies is commoner with severe scarring.
+   • Follow-up: children with significant bilateral scars or reduced function need long-term monitoring of
+     blood pressure, renal function and proteinuria; proteinuria may hasten CKD; renin–angiotensin
+     blockade may slow progression.
+   • Large historical cohort: adolescents with a history of congenital kidney and urinary tract anomalies,
+     pyelonephritis or glomerular disease but normal adolescent function and no proteinuria still carried
+     about a fourfold hazard of later end-stage renal disease.
+
+   KEY POINTS: MANAGEMENT AND SEQUELAE
+     • Delay in treating febrile UTI increases parenchymal involvement and scarring.
+     • Hospitalise newborns and young infants — urosepsis is commoner.
+     • Febrile UTI 7–14 days; afebrile cystitis 2–4 days.
+     • Empirical choice from local antibiograms.
+     • Nitrofurantoin must not be used for febrile UTI or pyelonephritis.
+     • 10–30% have at least one recurrence.
+     • Prophylaxis reduces recurrence in high-risk groups such as girls with dilating reflux.
+     • BBD raises recurrence risk and should be evaluated and treated in every child with UTI.
+     • Long-term risk is low, but bilateral scars or reduced function warrant long-term follow-up of blood
+       pressure, renal function and proteinuria.
+
+ Concept — Long-term harm comes from the kidney the child was born with and from delayed treatment,
+ not from UTI as such; so the priorities are prompt treatment and follow-up of the child with bilateral scars
+ or dysplasia.
+
+ UNCOMMON PAEDIATRIC URINARY TRACT INFECTIONS
+ Viral Cystitis
+   • Acute haemorrhagic cystitis is occasionally due to adenovirus type 11 (also type 21); E. coli is found in
+     some, but most have no identifiable cause.
+   • Common after bone marrow transplantation and in other immunosuppressed children; untreated
+     severe viral haemorrhagic cystitis carries 50–80% mortality in these children.
+   • BK virus (DNA polyomavirus): frequent in urine of immunosuppressed and bone marrow transplant
+     patients; 90% of adults seropositive after asymptomatic childhood infection; latent in the kidney,
+     reactivates with immune impairment → viraemia.
+   • Treatment: intravenous and intravesical cidofovir.
+
+
+
+
+                                                              page 24 of 25
+Chapter 37 — Infection and Inflammation of the Paediatric Genitourinary Tract   UNCOMMON PAEDIATRIC URINARY TRACT INFECTIONS
+ Funguria
+   • Increasing; linked to recent antibiotics and indwelling catheters; a tenfold rise over a decade in one
+     neonatal intensive care unit.
+   • Predisposing factors: antibiotics, prematurity, intravenous and umbilical artery catheters, parenteral
+     nutrition, immunocompromise.
+   • Urinary tract is both portal and site of dissemination; in disseminated candidiasis the kidney is the
+     organ most often involved.
+   • Candida is the commonest cause: C. albicans first, then C. glabrata (formerly Torulopsis glabrata) —
+     often fluconazole-resistant.
+   • Fungal bezoars in the renal pelvis can obstruct → ultrasound if funguria persists.
+   • Fungus ball management: urinary alkalinisation + oral antifungal (may dissolve) → if obstructed,
+     percutaneous or surgical removal; percutaneous drainage also allows local antifungal (amphotericin B
+     local or systemic, and/or oral fluconazole) → if persistent, endoscopic or open removal.
+   • Catheter-related asymptomatic funguria: progression to candidaemia is rare; timing of treatment
+     debated; treat when repeated cultures exceed 10,000–15,000 CFU/mL.
+   • Adjuncts: stop antibiotics, change or remove catheters, alkalinise urine — helpful but not always
+     curative; bladder irrigation with amphotericin B and oral fluconazole both clear funguria.
+   • Fluconazole has been used successfully in children, but the chapter lists it as contraindicated under 6
+     months.
+
+
+
+
+                                                              page 25 of 25
+

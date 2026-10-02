@@ -1,0 +1,896 @@
+Chapter 38 — Core Principles of Perioperative
+Management in Children
+Sherry S. Ross and Janey R. Phelps
+
+PAEDIATRIC ANAESTHESIA
+Perioperative Home
+ • The American Academy of Pediatrics (AAP) defined the patient/family-centred medical home over 20
+   years ago: accessible, family-centred, continuous, comprehensive, culturally sensitive care.
+ • This led to the perioperative surgical home (PSH), defined by the American Society of Anesthesiologists
+   (ASA) as a patient-centred continuity-of-care model built on shared decision making, improving
+   experience and outcomes while controlling cost.
+ • Driver: the Patient Protection and Affordable Care Act (PPACA) 2010, which introduced accountable
+   care organisations (ACOs) — providers jointly accountable for quality targets and cost reduction.
+ • Care is divided into preoperative → intraoperative → postoperative → postdischarge groups;
+   multidisciplinary members of each build standardised evidence-based pathways.
+ • These include enhanced recovery after surgery (ERAS): early mobilisation, multimodal analgesia with
+   less opioid, early drain removal, early diet, shorter stay.
+ • A paediatric PSH led jointly by surgeons and anaesthesiologists improves resource use and patient and
+   provider satisfaction.
+
+Anaesthesia and Potential Neurocognitive Effects
+ • US Food and Drug Administration (FDA) statement, 14 December 2016: repeated or lengthy general
+   anaesthesia or sedation in children under 3 years or third-trimester pregnancy may affect brain
+   development.
+ • Basis: animal studies showing neuroapoptosis and cognitive deficit, extrapolated to the third-trimester
+   fetus, newborn and child up to 3 years.
+ • Many operations cannot be deferred; for non-emergent surgery weigh risk and benefit, especially if
+   longer than 3 hours or multiple procedures are needed.
+ • Smart TOTs: FDA and International Anesthesia Research Society partnership conducting long-term
+   human studies.
+
+HUMAN STUDIES OF EARLY ANAESTHETIC EXPOSURE
+Study                         Design                   Population and exposure                Verdict
+GAS (General Anesthesia       International            Infants under 60 weeks, born after     No difference in
+compared to Spinal            multicentre              26 weeks, inguinal hernia repair;      cognitive scores at 2
+anesthesia; 2016, 2019)       randomised               awake-regional vs sevoflurane;         and 5 years
+                              controlled trial         anaesthesia under 1 h
+PANDA (Pediatric Anesthesia   Sibling-matched          Healthy children, single exposure      No difference in
+NeuroDevelopment              observational cohort     under 3; intelligence quotient (IQ),   mean IQ; prolonged
+Assessment; 2016)                                      neurocognition and behaviour at 8–     or repeated exposure
+                                                       15 years                               not assessed
+MASK (Mayo Anesthesia         Cohort, 998 children     Anaesthesia before 3; duration not     Negligible deficit
+Safety in Kids; 2018)                                  reported                               after single exposure
+
+
+
+
+                                                     page 1 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children                                PAEDIATRIC ANAESTHESIA
+
+  Study                               Design                    Population and exposure           Verdict
+  Large registry comparison           Exposed vs                Exposure before 4; duration not   Slightly lower school
+                                      unexposed                 reported                          grades and IQ
+
+   • Pattern: randomised and sibling-matched studies are negative; the only positive signal is observational
+     and lacks exposure duration.
+   • Bottom line: the warning rests on preclinical data; risk from routine short procedures in early life is
+     negligible, if it exists at all.
+   • Stay current; many children's hospitals issue an institutional statement for families.
+   • In non-elective surgery, address each concern: a single exposure under 1 hour has not been shown to
+     cause neurocognitive dysfunction, and children deserve high-quality anaesthesia and analgesia —
+     inadequate analgesia itself increases morbidity.
+
+   KEY POINTS
+    • The FDA warns that repeated or lengthy (more than 3 hours) general anaesthesia or sedation in
+      children under 3 or in third-trimester pregnancy may affect brain development.
+    • Inform families of FDA recommendations while reassuring them that human studies show no
+      difference in neurocognitive deficit.
+
+ Concept — The FDA warning is animal-derived and framed around repeated or lengthy exposure under
+ age 3; the human landmark studies address single short exposures and are reassuring. Counselling holds
+ both without conflating them.
+
+ PREOPERATIVE ASSESSMENT AND PREPARATION FOR SURGERY
+ Anaesthesia Risk
+   • Risk-raising conditions: upper respiratory infection, asthma exacerbation, dehydration, uncontrolled
+     diabetes, prematurity, febrile illness, comorbidities.
+   • Strict adherence to ASA nil per os (NPO) guidelines reduces aspiration.
+   • Common risks: postoperative nausea and vomiting, bronchospasm, laryngospasm, stridor, emergence
+     delirium, maladaptive behaviour. Rare and severe: drug allergy, anaphylaxis, malignant hyperthermia,
+     death.
+   • The anaesthesia team usually counsels, but the paediatric urologist must be well versed.
+
+ Preoperative Setting
+   • Preparation is the foundation of safety, good outcome and family satisfaction.
+   • Pain is shaped by expectation: give realistic expectations in age-appropriate language for a better
+     emotional and physical outcome.
+   • Certified child life specialists (CCLSs) help children and families through anxiety-provoking care; use
+     preoperatively where possible.
+   • Information technology devices (computers, smartphones, handheld games) are accessible, cheap and
+     reduce distress.
+   • Virtual reality-guided theatre tours reduce anxiety and improve compliance at induction.
+   • Preoperative anxiety affects up to half of children and predicts higher pain scores, slower recovery
+     after discharge and emergence delirium (agitation, crying, thrashing in recovery).
+
+
+
+
+                                                             page 2 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children        PREOPERATIVE ASSESSMENT AND PREPARATION FOR SURGERY
+   • New maladaptive behaviours — anxiety, night crying, enuresis, separation anxiety, tantrums — occur
+     in up to half after surgery; most improve, some persist.
+ Concept — Preoperative anxiety is an upstream causal variable: it drives pain, emergence delirium and
+ later behaviour, so reducing child and parental anxiety is a clinical intervention, not a courtesy.
+
+ Special Preoperative Considerations
+ Jehovah's Witness
+  • Belief: life resides in blood, and transfusion compromises the soul; parents may refuse on the child's
+    behalf.
+   • The physician's legal and ethical obligation is to the child, not the parents.
+   • AAP (2013): respect religion and avoid unnecessary polarisation — but a child will not be allowed to
+     die for lack of blood.
+   • Authors' institution: separate consent that refusal is overridden in life-threatening instances, with an
+     automatic court order. Know state law and institutional policy.
+   • Blood-sparing optimisation: correct anaemia and coagulopathy; stop bleeding-promoting drugs and
+     herbal supplements → less morbidity, mortality and transfusion.
+ Department of Social Services
+  • Children in custody need consent from a court-ordered guardian or designee; obtain it beforehand or
+    ensure availability on the day.
+
+ Pain Assessment Tools
+   • International Association for the Study of Pain (IASP): pain is an unpleasant sensory and emotional
+     experience associated with actual or potential tissue damage — harder to assess in children with
+     limited cognition and communication.
+   • Self-report is the gold standard, but is impossible under 3 years.
+   • Common self-report scales: Wong-Baker FACES and the numeric rating scale.
+
+ OBJECTIVE PAIN SCALES BY POPULATION
+  Population                          Scale
+  Premature infants                   PIPP — Premature Infant Pain Profile
+  Neonates                            NIPS — Neonatal Infant Pain Scale; CRIES — crying, oxygenation, vital signs,
+                                      expression, sleeplessness
+  Nonverbal and cognitively           FLACC — Face, Legs, Activity, Cry, Consolability; CHEOPS — Children's Hospital of
+  impaired                            Eastern Ontario Pain Scale
+
+   • FLACC, the usual choice here, is confounded by emergence delirium in the immediate postoperative
+     period.
+   • Characterise pain beyond intensity: location, duration, quality, aggravating and relieving factors. It
+     may not be at the surgical site, and cannot be treated until located.
+ Figure legends
+  • Fig. 38.1 Age-based self-assessment pain tools validated in children (data from Coté and Lerman, A
+    Practice of Anesthesia for Infants and Children, 5th ed., 2013): usability rises with age in the order
+    Pieces of Hurt → FACES → visual analogue → numerical rating scales.
+
+
+
+
+                                                             page 3 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children        PREOPERATIVE ASSESSMENT AND PREPARATION FOR SURGERY
+   • Fig. 38.2 Numeric scale for patients' rating of pain intensity (Wong-Baker FACES Foundation, 2016): 0–
+     10 scale (no pain, moderate, worst possible) aligned with FACES in steps of two: 0 no hurt, 2 hurts little
+     bit, 4 hurts little more, 6 hurts even more, 8 hurts whole lot, 10 hurts worst.
+ Concept — The tool follows developmental capacity: self-report where the child can give it, observation
+ where the child cannot — and an observational score measures behaviour, which delirium can imitate.
+
+ NPO Status
+ Fasting Times
+  • Established by the ASA (2017), Canadian Anesthesiologists' Society and European Society of
+    Anaesthesiology.
+
+ TABLE 38.1 American Society of Anesthesiologists NPO Guidelines
+  Minimum fast                        Ingested material
+  2h                                  Clear liquids
+  4h                                  Breast milk
+  6h                                  Infant formula; nonhuman milk; light meal
+  8h                                  Regular meal
+ In emergencies, weigh the need for surgery against aspiration risk when NPO status is unknown or unmet. Modified
+ from ASA practice guidelines for preoperative fasting, Anesthesiology 2017.
+   • The table tracks gastric emptying: clear fluid → breast milk → formula, nonhuman milk, light meal →
+     regular meal.
+   • Trap: breast milk (4 h) is not formula (6 h); nonhuman milk counts as a light meal.
+
+ CLEAR-LIQUID FASTING: GUIDELINE BODIES COMPARED
+  Body                                                  Clear liquids
+  ASA 2023 modular update                               2 h — no evidence found to support 1 h
+  European guideline (2022)                             1h
+  Canadian guideline (2022)                             1h
+
+   • Prolonged fasting causes hunger, thirst, anxiety, nausea, vomiting, pain, hypoglycaemia, electrolyte
+     imbalance, dehydration and hypotension at induction.
+   • Children have greater potential for fluid loss than adults.
+   • Simple or complex carbohydrate drinks reduce thirst, hunger and irritability → allow up to 2 hours
+     before anaesthesia.
+   • Outpatients: deficits are minimal when rules are followed, but non-adherence prolongs fasting →
+     schedule younger children earliest and educate parents.
+   • Inpatients: maintenance intravenous fluid during the fast prevents dehydration.
+   • Emergencies: gastric aspiration → pneumonitis; rapid-sequence induction and intubation protects the
+     full-stomach airway.
+ Special NPO Situations
+ Ketogenic diet
+  • Commonest indication epilepsy; explored in autism, amyotrophic lateral sclerosis, multiple sclerosis,
+    Parkinson disease.
+   • Stay on the diet, avoid prolonged fasting; standard NPO (light meal 6 h, clears 2 h).
+   • Avoid carbohydrate-containing suspensions; check every drug for dextrose, carbohydrate or
+     gluconeogenesis induction — mannitol, nitroglycerin, dexamethasone.
+
+
+                                                             page 4 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children        PREOPERATIVE ASSESSMENT AND PREPARATION FOR SURGERY
+   • Consider complete blood count (CBC), electrolytes, albumin, prealbumin; intraoperative glucose and
+     electrolytes if surgery exceeds 3 hours.
+   • Baseline glucose 50–80 mg/dL; treat only if below 40 mg/dL or symptomatic.
+   • Blood products contain variable carbohydrate — avoid where possible.
+ Enteral tube feeds
+  • Stop formula 6 hours before induction; Pedialyte to 2 hours.
+   • Postpyloric feeds carry less reflux and pneumonia risk and some continue them for non-abdominal
+     surgery; the authors apply standard NPO regardless, as tube position is uncertain and aspiration
+     morbidity high.
+ Diabetes and metabolic disorders
+  • Fasting volume depletion plus withdrawn diabetic drugs → preoperative hyperglycaemia.
+   • Type 1 diabetes affects about 1 in 300 US children.
+   • Delay elective surgery until glycaemic control is optimised: no ketonuria, normal electrolytes, glycated
+     haemoglobin (HbA1c) near the age-appropriate range; first-start case.
+   • Admission is not required; some advise it for major surgery.
+   • Never induce without a blood glucose; if surgery is delayed, monitor frequently.
+
+ DIABETIC MEDICATION MANAGEMENT
+  Agent or situation              Instruction                                Reason or note
+  Metformin                       Stop 24 h before                           Long half-life; lactic acidosis with dehydration,
+                                                                             hypoxaemia, poor perfusion
+  Sulfonylureas,                  Stop morning of surgery                    —
+  thiazolidinediones
+  Insulin injections              Normal doses the day before                Authors: half the long-acting dose the night
+                                                                             before
+  Pump — short minor              Continue pump                              Plan with anaesthesiologist or endocrinologist
+  procedure
+  Pump — longer                   Intravenous insulin infusion or            Protocol-dependent
+  procedure                       subcutaneous glargine
+  Emergency surgery               Intravenous insulin infusion               Frequent glucose checks
+
+   • Consider a preoperative anaesthesia consultation in metabolic and mitochondrial disorders.
+   • Mitochondrial disorders: propofol and lactated Ringer solution can exacerbate disease → avoided.
+   • Glycogen storage and urea cycle disorders impair glucose metabolism; consider preoperative
+     admission for glucose management.
+
+ GLUCOSE STRATEGY WHILE FASTING — THE GOVERNING CONTRAST
+  Condition                                 Glucose strategy
+  Ketogenic diet                            Withhold carbohydrate (drugs, suspensions, blood)
+  Glycogen storage, urea cycle              Cannot tolerate glucose-free periods → glucose-containing fluids throughout
+  disorders                                 the fast
+  Type 1 diabetes                           Glucose measured before induction; insulin adjusted, not stopped
+
+ Medication administration
+  • Medicines may be taken with a clear fluid 2 hours or more before surgery; consult an anaesthesiologist
+    if unsure.
+
+
+
+
+                                                             page 5 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children        PREOPERATIVE ASSESSMENT AND PREPARATION FOR SURGERY
+ MORNING-OF-SURGERY MEDICINES
+  Take                                                                                 Do not take
+  Antiseizure; gastro-oesophageal reflux; antihypertensives except                     Warfarin and aspirin — stop 7–10
+  angiotensin-converting enzyme (ACE) inhibitors; chronic pain; behaviour              days before; herbal medicines; ACE
+  and mood; asthma                                                                     inhibitors
+  Never stop abruptly without supervision: drugs with dangerous rebound, e.g. clonidine
+
+ Concept — NPO rules balance aspiration against dehydration and hypoglycaemia; each special situation
+ changes where the glucose and fluid come from, never whether the stomach is protected.
+
+ Preoperative Studies
+ Laboratory Tests
+  • Routine bloods are not indicated in healthy children for low-risk procedures: low yield, anxiety-
+    provoking, not cost-effective.
+   • Reserve for complex procedures with haemodynamic shifts or major blood loss, and for premature
+     infants, metabolic disorders, personal or family bleeding history, complex conditions.
+   • Bleeding screens: HEMSTOP and the International Society on Thrombosis and Haemostasis (ISTH)
+     Bleeding Assessment Tool.
+   • Pregnancy testing: ASA — offer to females of childbearing age and whenever the result alters
+     management; authors test all females of menstrual age with urine human chorionic gonadotrophin
+     (hCG).
+   • Trap: false-positive urine hCG after augmentation cystoplasty.
+ Chest Radiographs and Electrocardiogram
+  • Not routine. A murmur alone does not warrant an electrocardiogram (ECG); pathological murmurs or
+    cardiopulmonary symptoms → cardiology.
+   • Endocarditis prophylaxis guidance changes often — know and apply the current version.
+   • Chest radiograph for lung disease or conditions affecting lung function.
+   • Screen all adolescents for vaping: suspected e-cigarette, or vaping, product use-associated lung injury
+     (EVALI) → chest radiograph, computed tomography (CT) and/or pulmonology.
+ Pulmonary Function Testing
+  • No evidence for routine testing to predict respiratory events; a baseline helps in severe respiratory
+    disease and severe scoliosis to allow optimisation.
+ Urine Evaluation
+  • Evaluate urinary symptoms before any urological procedure; suspected infection → urinalysis and
+    culture.
+   • When the urinary tract is opened, infection risk rises → preoperative culture guides antibiotic choice.
+   • Risk factors for a positive intraoperative culture: neurogenic bladder, prior positive culture, female sex,
+     constipation, urolithiasis.
+   • Treat positive cultures before elective surgery.
+   • Asymptomatic bacteriuria matters in endourology (mucosal injury) → treat with culture-specific
+     antibiotics.
+ Concept — Preoperative testing is indication-driven, not routine: each test must answer a question that
+ changes management.
+
+
+
+
+                                                             page 6 of 18
+Chapter 38 — Core Principles of Perioperative Management in             COMORBIDITIES: PERIOPERATIVE PLANNING AND POSTOPERATIVE
+Children                                                                                                        CONSIDERATIONS
+
+ COMORBIDITIES: PERIOPERATIVE PLANNING AND POSTOPERATIVE
+ CONSIDERATIONS
+ Premature Infants
+   • Premature: born before 37 weeks; micro-preemie: before 26 weeks or under 800 g. Immature organs
+     raise anaesthetic risk.
+   • Surfactant deficiency, especially below 34 weeks → respiratory distress syndrome; also
+     bronchopulmonary dysplasia (BPD) and chronic lung disease.
+   • Anaesthesia → low lung volumes and ventilation/perfusion mismatch → hypoxia, oxygen toxicity,
+     barotrauma.
+   • Postoperative apnoea peaks in the first 12–23 hours and can be fatal.
+
+ 23-HOUR OBSERVATION FOR POSTOPERATIVE APNOEA
+  Preterm infant                                                                        Term infant
+  Under 50–60 weeks' postgestational age, with cardiorespiratory                        Under 44 weeks' postgestational
+  monitoring                                                                            age
+
+   • Cardiovascular: poor diastolic function, low left ventricular compliance; small blood volume → small
+     losses cause hypotension and shock.
+   • Retinopathy of prematurity (especially under 28 weeks) is worsened by hyperoxia → accept saturation
+     in the low 90s.
+   • Hypothermia: immature skin, little brown fat, high surface-area ratio → warm environment
+     mandatory.
+   • Large fluid losses from skin and wound evaporation and poor urinary concentration.
+   • Surgery in preterm infants is linked to reduced white matter on magnetic resonance imaging (MRI)
+     and lower scores at 2 years → operate only when urgent or emergent.
+ Concept — Every organ system in the preterm infant has less reserve — lungs, heart, blood volume, skin,
+ kidneys, retina and brain — so each hazard is amplified and elective surgery is best deferred.
+
+ Asthma and Pulmonary Disease
+   • Asthma and BPD are the common paediatric lung disorders.
+   • Optimise control before elective surgery; continue home medicines on the day.
+   • Lung disease raises the risk of bronchospasm, laryngospasm and airway collapse.
+   • Inhaled β2 agonist improves lung function and reduces respiratory adverse events.
+   • Perioperative steroids are safe but kept for severe disease (wound infection, poor healing); stress-dose
+     steroids if systemic steroids have been needed or inhaled steroids are daily.
+   • Induction and emergence are the most dangerous times (mechanical stimulation) → do not examine
+     or stimulate the patient then.
+
+ Cardiovascular Anomalies
+   • Congenital heart disease (CHD), the commonest congenital anomaly (about 1% of newborns), carries
+     high perioperative arrest, morbidity and mortality.
+   • The Pediatric Perioperative Cardiac Arrest (POCA) Registry is the best risk-stratification source.
+   • Highest risk: functional single ventricle, pulmonary hypertension, left ventricular outflow tract
+     obstruction, dilated cardiomyopathy.
+
+
+
+
+                                                              page 7 of 18
+Chapter 38 — Core Principles of Perioperative Management in             COMORBIDITIES: PERIOPERATIVE PLANNING AND POSTOPERATIVE
+Children                                                                                                        CONSIDERATIONS
+   • Adverse events associated with higher ASA class, emergency, surgery within 30 days, inotropes,
+     preoperative cardiopulmonary resuscitation, kidney injury, mechanical ventilation. Critically evaluate
+     surgical need.
+
+ Renal Abnormalities
+   • Rare in children but a significant cause of morbidity and mortality.
+   • Under 6 years, developmental abnormalities are the commonest cause, then hereditary
+     nephropathies; older children mostly have acquired disease.
+   • Chronic kidney disease (CKD) predisposes to acute kidney injury (AKI).
+   • Haematological: anaemia (less oxygen delivery; may need transfusion); uraemic platelet dysfunction
+     → bleeding; uraemia also impairs nutrition and gastric emptying.
+   • Contrast: protein-losing nephropathy is hypercoagulable → thrombosis.
+   • Cardiac: cardiomyopathy, heart failure, pulmonary oedema. Urine output may be normal, polyuric,
+     oliguric or anuric.
+   • Electrolytes: hyponatraemia, hyperkalaemia, hypocalcaemia, hyperphosphataemia, metabolic acidosis;
+     hyperkalaemia → arrhythmia.
+   • Work-up: CBC, chemistry, coagulation; chest radiograph and echocardiogram for effusions if heart or
+     lung disease suspected; ECG for left ventricular hypertrophy if hypertensive.
+   • Continue antihypertensives and immunosuppressants unless advised otherwise.
+   • Dialysis preoperatively if indicated; avoid surgery for 4–6 hours after haemodialysis.
+   • Analgesia: regional blocks and epidurals if no coagulopathy.
+
+ ANALGESIA BY CKD STAGE
+  Stage Renal function                           Analgesia
+  1        Normal                                Nonsteroidal anti-inflammatory drugs (NSAIDs), opioids, tramadol
+  2        Mild impairment; drugs still          No dose adjustment; watch for deterioration and NSAID effect
+           excreted
+  3–4      Moderate to severe impairment Avoid NSAIDs; dose by glomerular filtration rate (GFR), interval by stage;
+                                         watch sedation
+
+ Haematological Disorders
+   • Haemoglobinopathies are commonly inherited: α- and β-thalassaemia and structural variants (HbS,
+     sickle cell disease); also von Willebrand disease, factor deficiencies, platelet disorders.
+   • Take a thorough family and personal bleeding history; positive family history of excessive bleeding →
+     haematology.
+   • Sickle cell disease: haemolysis and vaso-occlusion from irreversible sickling; chronic anaemia, pain
+     crisis, acute chest syndrome, stroke, splenic sequestration, cardiomyopathy, heart failure, renal disease.
+   • Assess end-organ damage; surgeon–anaesthesiologist–haematologist planning; preoperative
+     transfusion is controversial; hydroxyurea may help some.
+   • Acute chest syndrome is the main cause of death under anaesthesia and may occur postoperatively.
+   • Most important single factor: avoid dehydration, especially during NPO → first case, intravenous fluid
+     during the fast.
+   • Intraoperative: normothermia, hydration, analgesia, no hypoxia or acidosis; avoid tourniquets.
+
+
+
+
+                                                              page 8 of 18
+Chapter 38 — Core Principles of Perioperative Management in             COMORBIDITIES: PERIOPERATIVE PLANNING AND POSTOPERATIVE
+Children                                                                                                        CONSIDERATIONS
+   • Postoperative: intravenous fluid until drinking; avoid hypoxia, hypothermia, acidosis, infection;
+     analgesia; early ambulation.
+ Concept — Sickle cell management is trigger avoidance: dehydration, hypoxia, acidosis, cold and stasis
+ each promote sickling, and every perioperative measure removes one of them.
+
+ Oncological Disorders
+ Chemotherapy and Perioperative Considerations
+  • Toxicity affects heart, liver, kidneys, gut, lungs, marrow and nervous system.
+   • Surgery may fall at any point in treatment → take a detailed history of the regimen, side effects and
+     radiation; testing depends on regimen, symptoms and timing.
+
+ CHEMOTHERAPY TOXICITIES RELEVANT TO ANAESTHESIA
+  Agent or class            Toxicity                                                       Implication
+  Bleomycin                 Dose-dependent interstitial pneumonitis → fibrosis;            Oxygen restriction may be
+                            hypersensitivity pneumonitis, acute chest pain                 unnecessary; fluid balance better
+                            syndrome, pulmonary veno-occlusive disease,                    predicts pulmonary morbidity
+                            bronchiolitis obliterans
+  Cardiotoxic agents        Arrhythmia, blood pressure lability, cardiomyopathy,           Cardiac assessment
+  (common)                  heart failure, myocarditis, fibrosis
+  Nephrotoxic agents        Impaired renal function                                        Renal assessment
+  Myelosuppressive          Pancytopenia                                                   Poor oxygenation, haemorrhage,
+  agents                                                                                   sepsis
+  Tyrosine kinase           Variable by agent                                              Agent-specific review
+  inhibitors
+
+ Pheochromocytoma
+  • Rare adrenal medullary neuroendocrine tumours storing noradrenaline and adrenaline.
+   • Manipulation or induction → catecholamine storm: hypertensive crisis, arrhythmia, myocardial
+     ischaemia, pulmonary oedema, stroke.
+   • Pathophysiology: low blood volume with hypertension; high catecholamines → cardiomyopathy. Blood
+     pressure control and fluid support are essential.
+   • Target blood pressure below the 50th percentile for age and height, with an α-adrenergic antagonist
+     before β-blockade to avoid crisis from unopposed α stimulation.
+   • Admission for 24 to 26 hours to optimise hydration and blood pressure.
+   • Postoperative hypoglycaemia: catecholamine fall → rebound hyperinsulinaemia and peripheral glucose
+     uptake → monitor glucose.
+ Concept — Pheochromocytoma care follows catecholamine physiology: α-blockade before β-blockade,
+ volume before induction, and glucose surveillance once the catecholamine source is removed.
+
+ Spina Bifida
+   • Neurological, anatomical and comorbid challenges all shape planning.
+   • 80–90% have or develop hydrocephalus; the ventriculoperitoneal (VP) shunt is the gold standard, or
+     endoscopic third ventriculostomy.
+   • Shunt function must be adequate; suspected malfunction → reschedule elective surgery.
+   • Scoliosis in about half reduces thoracic capacity; lung disease may be silent → preoperative respiratory
+     testing helps.
+
+
+
+
+                                                              page 9 of 18
+Chapter 38 — Core Principles of Perioperative Management in             COMORBIDITIES: PERIOPERATIVE PLANNING AND POSTOPERATIVE
+Children                                                                                                        CONSIDERATIONS
+   • Overweight and obesity are common → metabolic syndrome: diabetes, dyslipidaemia, hypertension,
+     cardiovascular disease, sleep apnoea, osteoporosis, poor skin integrity.
+   • Theatre: know the skeletal anatomy, pad pressure points, position carefully; air mattress for severe
+     deformity with long admission.
+   • Autonomic dysreflexia: lesions at T6 and above; noxious stimuli or bladder distension trigger
+     dysregulated sympathetic discharge → uncontrolled hypertension, bradycardia, stroke, death.
+   • Anaphylactic latex allergy: bronchoconstriction, vasodilatation and hypotension, capillary leak,
+     coronary vasoconstriction, myocardial depression; fatal without immediate treatment.
+   • Analgesia is difficult, especially with shunted hydrocephalus: epidural catheters are safe and effective
+     in selected patients; peripheral regional catheters reduce opioid use without raising pain scores after
+     major surgery; alternatives patient-controlled analgesia (PCA) and intravenous drugs.
+
+ Congenital Adrenal Hyperplasia
+   • Congenital adrenal hyperplasia (CAH): inherited inability to make cortisol; 90–99% from 21-hydroxylase
+     deficiency (CYP21A2 mutations).
+   • Cortisol deficiency ± aldosterone deficiency, plus androgen excess; salt-losing vs non-salt-losing.
+   • Salt-wasting: renal hyponatraemia, hyperkalaemia, acidosis, shock if untreated. Cortisol deficiency →
+     poor contractility, low vascular tone.
+   • Classic CAH cannot mount a stress cortisol response → stress-dose steroids, preferably intravenous
+     with intravenous fluids; dose differs for minor and major surgery.
+   • Adrenaline and cortisol deficiency → fasting hypoglycaemia → glucose-containing fluids and
+     monitoring.
+
+   KEY POINTS
+    • Anaesthesia risks include postoperative nausea and vomiting, bronchospasm, laryngospasm, stridor,
+      emergence delirium and maladaptive behaviours.
+    • NPO violation significantly increases the risk of gastric aspiration and pneumonitis.
+    • Children are at increased risk of dehydration, so families need NPO education.
+    • Premature infants have significantly increased perioperative risk.
+    • Spina bifida patients have multiple comorbidities to consider perioperatively.
+    • Autonomic dysreflexia is life threatening; paediatric urologists should know its signs and treatment.
+
+
+ Acute Preoperative Events
+ Sepsis
+  • A leading cause of paediatric morbidity, mortality and cost; mortality varies widely with severity, risk
+    factors and geography.
+   • Most deaths are from shock or multiple organ dysfunction within 48–72 hours → early recognition
+     and aggressive resuscitation.
+   • Infection, especially urosepsis, is a common cause.
+   • Empirical antimicrobials within 1 hour of recognising septic shock, chosen by history and site.
+   • Rapid aggressive fluids ± vasopressors; airway support; oxygen titrated to continuous central venous
+     oxygen saturation (ScvO2) in the first hours.
+
+   • If surgery is needed: crossmatch, adequate vascular access, chemistry, CBC, coagulation; septic shock
+     → intensive care postoperatively.
+
+
+                                                              page 10 of 18
+Chapter 38 — Core Principles of Perioperative Management in             COMORBIDITIES: PERIOPERATIVE PLANNING AND POSTOPERATIVE
+Children                                                                                                        CONSIDERATIONS
+ REGIONAL TECHNIQUES IN SHOCK
+  Peripheral nerve blocks                                        Spinal and epidural anaesthesia
+  Effective; avoid systemic opioid effects in an unstable Generally avoided — haemodynamic effects, possible
+  patient                                                 coagulopathy
+
+ Trauma
+  • Trauma kills more children aged 1–18 than all other causes combined.
+   • In high-impact blunt trauma the kidney is injured more often than spleen, liver, pancreas or bowel;
+     renal injury is usually conservative, but other injuries may force exploration.
+   • Focused history and examination; imaging must not delay lifesaving intervention; focused abdominal
+     sonography for trauma (FAST) may help.
+   • Bloods can be drawn in theatre. Trauma panel: CBC, metabolic panel, coagulation, amylase, lipase, type
+     and screen, urinalysis, β-hCG in females of reproductive age.
+   • Always a full stomach; rapid-sequence induction is the gold standard.
+   • Keep theatre warm: hypothermia → vasoconstriction, low flow, acidosis, consumptive coagulopathy,
+     worse outcomes.
+   • Untreated pain has lasting psychological and physiological effects: acetaminophen (oral, rectal,
+     intravenous), ibuprofen; strong opioids for severe pain unless contraindicated.
+ Upper Respiratory Tract Infection
+  • Upper respiratory tract infection (URTI) is the commonest non-preventable cause of cancellation; the
+    COLDS score grades its severity.
+   • A prospective study of children 1–5 years having ilioinguinal surgery with a laryngeal mask airway:
+     respiratory adverse events stayed frequent; risk factors were passive smoking and severe URTI in the
+     preceding 15 days.
+   • Other independent risk factors: endotracheal tube, age under 5, prematurity, asthma, airway surgery.
+   • Inflammation leaves a hyperreactive airway for 6–8 weeks → laryngospasm, stridor, bronchospasm,
+     cough, breath-holding, desaturation, bradycardia, atelectasis, pneumonia.
+   • Laryngeal mask airway (LMA) causes fewer complications than an endotracheal tube.
+
+ TIMING OF SURGERY AFTER URTI
+  Study protocol                                          Authors' institution
+  Severe URTI delayed 15 days — shown                     Postpone at least 4 weeks, preferably 6, to regain respiratory
+  insufficient                                            baseline
+
+   • Surgeon and anaesthesiologist decide whether to postpone or proceed; if proceeding → experienced
+     paediatric anaesthesia team.
+   • COVID-19 positive: delay all elective surgery; emergencies in a negative-pressure room.
+ Urinary Tract Infection
+  • A best-practice statement advises urinalysis, microscopy and culture before any urological procedure
+    when urinary tract infection (UTI) is suspected.
+   • American Urological Association (AUA) guidelines (2018): eradicate infection before urological
+     manipulation with a culture-directed course.
+   • Unrecognised bacteriuria → sepsis and surgical site infection (SSI). Risk factors for a positive culture are
+     as under Urine Evaluation.
+   • UTI or bacteraemia → antibiotics and reschedule until urine is sterile.
+
+
+
+
+                                                              page 11 of 18
+Chapter 38 — Core Principles of Perioperative Management in             COMORBIDITIES: PERIOPERATIVE PLANNING AND POSTOPERATIVE
+Children                                                                                                        CONSIDERATIONS
+   • Where sterilisation is impossible (indwelling catheter, infected stones, emergency) → perioperative
+     culture guides treatment if infection follows.
+   • Neurogenic bladder: always obtain a preoperative culture and treat by sensitivity; paediatric
+     guidelines are still needed.
+ Nonspecific Fever
+  • Usually infective, typically URTI — viral in about 95%; allergy and rhinitis contribute.
+   • Post-transfusion fever up to 1 week; also drug allergy, autoimmune disease, malignancy, other
+     comorbidities.
+   • Surgeon and anaesthesiologist decide whether to cancel; physical examination is central.
+
+   KEY POINTS
+    • Antibiotics are the mainstay of sepsis treatment and should be given as soon as possible; obtain
+      cultures if possible.
+    • Obtain urine cultures preoperatively when indicated and treat positives according to sensitivities.
+
+ Concept — Acute events divide into two decisions: in sepsis and trauma surgery cannot wait, so physiology
+ is supported around it; in URTI, UTI and fever surgery can wait, so the question is how long the risk persists.
+
+ ERAS PROTOCOLS
+   • ERAS is patient-centred multimodal care that optimises recovery and preserves the preoperative
+     physical and metabolic state.
+   • Paediatric elements: enhanced counselling, shorter starvation, judicious intravenous fluid, no routine
+     tubes or drains, adjunctive analgesia.
+   • Paediatric urology studies all report at least one benefit — shorter operative time and stay, earlier
+     feeding and bowel function — with no rise in complications (some fewer) or readmissions.
+   • Poor analgesia prolongs stay; regional anaesthesia adds theatre time but improves pain and shortens
+     stay.
+   • Barriers: cultural, racial and health-system variation, lack of consensus, need for administrative support
+     → impaired standardisation and evaluation.
+ Concept — Every ERAS element minimises disturbance of the child's baseline — less starvation, less fluid
+ excess, fewer tubes, fewer opioids — and recovery follows from what is not disturbed.
+
+ INTRAOPERATIVE CONSIDERATIONS
+ Preoperative Antibiotics
+   • SSIs cause morbidity, mortality, readmission and prolonged stay.
+   • Principle (AUA 2018): prophylaxis is justified by host defence, likelihood of bacterial invasion and
+     morbidity of infection — benefit must outweigh antibiotic risk.
+   • Paediatric practice is extrapolated from adults; AUA gives procedure-specific advice; paediatric urology
+     data are limited and practice is changing.
+   • Timing for adequate tissue levels: within 60 minutes of incision; vancomycin and fluoroquinolones
+     within 120 minutes (long infusion).
+
+
+
+
+                                                              page 12 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children                          INTRAOPERATIVE CONSIDERATIONS
+ TABLE 38.2 Common Antimicrobials Used for Surgical Prophylaxis
+                                                                                                               Redose
+  Class                 Agent                                      Paediatric dose                             (h)
+  Penicillins           Ampicillin; ampicillin–sulbactam           50 mg/kg                                    2
+                        (ampicillin component)
+  Penicillins           Piperacillin–tazobactam                    2–9 months 80 mg/kg; over 9 months and up   2
+                                                                   to 40 kg 100 mg/kg (piperacillin)
+  Cephalosporins        Cefazolin                                  30 mg/kg                                    4
+  Cephalosporins        Cefuroxime; cefotaxime                     50 mg/kg                                    4; 3
+  Cephalosporins        Cefoxitin; cefotetan                       40 mg/kg                                    2; 6
+  Cephalosporins        Ceftriaxone                                50–75 mg/kg                                 —
+  Monobactam            Aztreonam                                  30 mg/kg                                    4
+  Carbapenem            Ertapenem                                  15 mg/kg                                    —
+  Fluoroquinolones Ciprofloxacin, levofloxacin,                    10 mg/kg                                    —
+                   moxifloxacin
+  Aminoglycoside        Gentamicin                                 2.5 mg/kg                                   —
+  Glycopeptide          Vancomycin                                 15 mg/kg                                    —
+  Lincosamide           Clindamycin                                10 mg/kg                                    6
+  Nitroimidazole        Metronidazole                              15 mg/kg; neonates under 1200 g 7.5 mg/kg   —
+  Azole antifungal      Fluconazole                                6 mg/kg                                     —
+ — = no intraoperative redosing interval. Side effects: allergy including anaphylaxis, gastrointestinal upset, Clostridium
+ difficile infection, resistance; renal or hepatic insufficiency may need dose adjustment. Modified from Bratzler et al.,
+ Clinical practice guidelines for antimicrobial prophylaxis in surgery (American Society of Health-System Pharmacists,
+ Infectious Diseases Society of America, Surgical Infection Society, Society for Healthcare Epidemiology of America),
+ Surg Infect 2013.
+   • Pattern: short half-life β-lactams redose every 2 hours; cefazolin, cefuroxime and aztreonam every 4;
+     long half-life agents (ceftriaxone, ertapenem, vancomycin, gentamicin, fluoroquinolones) are not
+     redosed.
+   • Traps: cefazolin 30 mg/kg every 4 hours; vancomycin and fluoroquinolones start earlier (120 minutes),
+     not later.
+
+ Intraoperative and Perioperative Fluid Management
+   • Both restrictive and liberal regimens cause complications → tailor to deficit, maintenance and losses;
+     deficit reflects NPO time and any bowel preparation.
+   • 4-2-1 rule (Holliday and Segar, 1957): 4 mL/kg/h for the first 10 kg, 2 mL/kg/h for the next 10 kg, 1
+     mL/kg/h per kg above 20 kg; 22 kg → 62 mL/h.
+   • No definitive crystalloid or colloid preference; some argue lactated Ringer solution beats normal saline
+     (NS), which can cause dilutional acidosis.
+   • Caveats: dextrose-containing maintenance under 2–4 months (immature liver); no lactate in
+     mitochondrial disease; no potassium in dialysed patients.
+   • Continue maintenance until oral intake is adequate.
+
+ POSTOPERATIVE MAINTENANCE FLUID
+  Historical                                Current
+  Hypotonic, e.g. 0.45% NS                  Isotonic — 0.9% NS or lactated Ringer — with dextrose
+
+   • Hyponatraemia (below 135 mmol/L) is uncommon, but postoperative risk is higher.
+
+
+                                                            page 13 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children                            INTRAOPERATIVE CONSIDERATIONS
+   • Mechanism: stress raises antidiuretic hormone (ADH) — made in the hypothalamus, released from the
+     posterior pituitary, inserting aquaporin-2 in the collecting duct → water reabsorption. Normally
+     osmolality-driven, but nausea, pain and hypoxia also release it.
+   • Potassium in NS: 10 mEq/L under 10 kg; 20 mEq/L over 10 kg.
+   • Premature kidneys cannot handle large solute loads → tailor maintenance.
+
+ Anaphylaxis
+   • Commoner in adults than children; mainly within minutes of induction; latex now a less common
+     cause.
+   • Presentation: cardiovascular collapse — tachycardia, hypotension, severe bronchospasm, hives.
+   • Management: stop the culprit, 100% oxygen, Trendelenburg, aggressive fluids, albuterol, adrenaline.
+
+ Malignant Hyperthermia
+   • Malignant hyperthermia (MH): rare, potentially fatal hypermetabolic disorder.
+   • Early signs: unexplained hypercarbia, sinus tachycardia, masseter spasm, hyperthermia. Late signs:
+     severe metabolic acidosis, peaked T waves (hyperkalaemia), generalised rigidity, rhabdomyolysis.
+   • Susceptible patient → first-start case; activated charcoal filters cut machine preparation from 20–104
+     minutes to 90 seconds.
+ Suspected event: stop triggers → call for backup → obtain dantrolene → disconnect until a clean machine
+ replaces the old → arterial line and Foley catheter → MH hotline (800-644-9737) → treat hyperkalaemia
+ and arrest aggressively → admit 24–48 hours (recrudescence) → report to the MH registry (Malignant
+ Hyperthermia Association of the United States, MHAUS).
+   • Use a cognitive aid. Mortality has fallen to about 5%, but morbidity remains significant → rapid
+     recognition, aggressive treatment.
+
+ ANAPHYLAXIS VS MALIGNANT HYPERTHERMIA
+                            Anaphylaxis                                     Malignant hyperthermia
+  Nature                    Immune reaction                                 Hypermetabolic muscle disorder
+  Triggers                  Neuromuscular blockers, β-lactams, latex        Succinylcholine, volatile agents (not nitrous
+                                                                            oxide)
+  First sign                Collapse within minutes of induction            Unexplained hypercarbia
+  Specific treatment        Adrenaline                                      Dantrolene
+  Marker and follow-        Tryptase during the event; postpone             Admit 24–48 h; report to registry
+  up                        surgery
+
+ Concept — Both are drug-triggered intraoperative crises, but anaphylaxis is immune and immediate
+ (tryptase, adrenaline) whereas malignant hyperthermia is a muscle hypermetabolic state that announces
+ itself through carbon dioxide first (dantrolene).
+
+ LAPAROSCOPIC PROCEDURES
+   • Introduced to paediatric urology in 1976 as diagnostic laparoscopy for nonpalpable testes; use has
+     grown; well tolerated, but paediatric physiology differs.
+   • Respiratory: children have high chest wall compliance and low functional residual capacity (FRC);
+     insufflation elevates the diaphragm → lower FRC and lung compliance, higher airway resistance,
+     ventilation/perfusion mismatch and dead space.
+   • Cardiovascular: little effect with a normal heart, but bradyarrhythmias (bradycardia, atrioventricular
+     dissociation, nodal rhythm, asystole) at port placement and insufflation.
+
+
+                                                            page 14 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children                                  LAPAROSCOPIC PROCEDURES
+   • Renal: no proven harm to renal or cerebral perfusion, but pneumoperitoneum compresses parenchyma
+     and vessels → higher renovascular resistance, lower renal vein flow → transient oliguria; with impaired
+     renal function give generous volume before and during pressure rises.
+   • Positioning: pad pressure points; axillary roll in lateral decubitus (brachial plexus); neutral neck;
+     dependent leg flexed with a cushion between the knees.
+   • Analgesia: multimodal (NSAIDs plus opioids) speeds recovery; consider regional or neuraxial blocks;
+     pneumoperitoneum causes diffuse abdominal and shoulder pain.
+   • Carbon dioxide (CO2) embolism: large-volume CO2 enters veins during insufflation → right ventricular
+     outflow obstruction → sudden desaturation and collapse.
+   • Classic: falling end-tidal CO2 with a mill-wheel murmur. Treatment: left lateral decubitus (right side
+     up) and Trendelenburg; aspirate via a central line if present.
+
+ Robotic Procedures
+   • Robotic pyeloplasty is the commonest; others: heminephrectomy, ureteroureterostomy, ureteral
+     reimplantation, urachal cyst excision, bladder diverticulectomy, bladder reconstruction.
+   • All laparoscopic considerations apply.
+   • Robot location: often in shared adult theatres, away from paediatric experts, equipment and monitors
+     → routine simulation; two anaesthesia physicians at induction for high-risk patients.
+
+ Intraoperative Pain Management
+   • Agree the plan with the anaesthesiologist; it depends on patient, surgery and anaesthesiologist
+     comfort.
+   • Epidural analgesia suits open surgery with large incisions; safe from 2 kg in experienced hands.
+   • Regional and neuraxial blocks under general anaesthesia are safe and standard.
+   • Peripheral: penile ring, dorsal penile nerve blocks. Neuraxial: spinal, caudal, site-specific epidural.
+
+ CAUDAL VS PUDENDAL BLOCK
+  Caudal block                                            Ultrasound-guided pudendal block
+  No overall consensus on superiority in                  For hypospadias repair: shorter stay, lower pain, less opioid,
+  paediatric urology                                      greater satisfaction
+
+   • Spinal anaesthesia for infants in short procedures (under 90 minutes): growing interest, but favoured
+     by only a minority of paediatric urologists.
+   • Regional and neuraxial analgesia reduce intraoperative opioid use.
+   • Multimodal: preoperative acetaminophen, a cyclo-oxygenase-2 (COX-2) inhibitor and gabapentin in
+     selected patients; intravenous acetaminophen preferred over rectal (unpredictable absorption).
+   • Intravenous lidocaine: beneficial, sometimes continued 24 hours; in most ERAS protocols; count it in
+     the total local anaesthetic dose.
+   • Ketamine and dexmedetomidine infusions reduce opioid need; dexmedetomidine is neuroprotective
+     in animal models.
+   • Intravenous ketorolac: used safely under 6 months, but usually reserved for 6 months and older with
+     normal renal function.
+
+   KEY POINTS
+    • Antibiotics are the mainstay of SSI prevention; choose by site and likely source of infection.
+
+
+
+
+                                                            page 15 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children                                  LAPAROSCOPIC PROCEDURES
+    • Multimodal pain management should be a mainstay of treatment.
+
+ Concept — Intraoperative analgesia is opioid-sparing by construction: every block and adjunct is chosen
+ for the opioid it replaces.
+
+ POSTOPERATIVE MANAGEMENT
+ Immediate Postoperative Management
+   • Focus on respiratory and cardiovascular status.
+   • Respiratory events: hypoxia, obstruction, laryngospasm, bronchospasm, post-obstructive pulmonary
+     oedema, aspiration — more frequent if intubated, ASA 3–4, under 1 year, respiratory disease,
+     prematurity, current or recent upper respiratory infection.
+   • Multiple intubation attempts → airway oedema → stridor.
+ Laryngospasm: positive-pressure ventilation → propofol to relax the cords → reintubation if these fail.
+ Bronchospasm: albuterol/ipratropium nebulisers → if severe, adrenaline, steroids, magnesium,
+ continuous albuterol; admit if needed.
+   • CHD raises cardiac event risk. Postoperative arrest in non-cardiac children is rare — fewer than 1 per
+     100,000 anaesthetics; most occur under 5 years and most are preventable → constant vigilance in the
+     postanaesthesia care unit (PACU).
+ Emergence delirium
+  • Especially at 2–8 years: restlessness, agitation, combativeness, inconsolability; incidence varies widely.
+   • Usually within 30 minutes and self-limited, but distressing and dangerous — self-injury, dislodged
+     catheters and lines, wound damage.
+   • Exclude pain and normal behaviour (tantrum); the Pediatric Anesthesia Emergence Delirium (PAED)
+     scale helps.
+   • High preoperative anxiety raises risk.
+   • Treatment: low-dose propofol, watching the airway; dexmedetomidine, fentanyl, clonidine. Warn
+     parents preoperatively; treat pre-emptively in high-risk children.
+
+ EMERGENCE DELIRIUM VS PAIN
+  Emergence delirium                                               Pain
+  Child does not recognise parents or surroundings;                Child recognises parents; localises complaint; responds to
+  inconsolable                                                     analgesia
+
+ Postanaesthesia Care Unit and Pain Management
+   • The anaesthesiologist stays until a pain plan is in place; titrate opioids and non-opioids to the
+     institutional scale.
+   • PCA works as well as in adults; safe from 4 years if cognitively appropriate.
+   • PCA by proxy (parent or nurse): set maximum doses, assess pain properly, monitor for respiratory
+     depression and sedation.
+   • Confirm regional or neuraxial blocks work; no PACU discharge until pain is controlled.
+   • Discharge at baseline function with normal haemodynamics, using the Aldrete score and Post-
+     Anesthetic Discharge Scoring System (PADSS).
+   • Postanaesthesia note (respiratory, cardiovascular, mental status, temperature, pain, nausea, vomiting,
+     hydration) required by the Centers for Medicare & Medicaid Services within 48 hours.
+
+
+
+                                                            page 16 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children                                POSTOPERATIVE MANAGEMENT
+ Inpatient and Outpatient Postoperative Pain Management
+   • Most surgical patients have postoperative pain, often moderate to severe; in children it is often
+     undertreated (hard to assess, fear of opioids).
+   • Poor control → complications, slower recovery, morbidity, mortality, anxiety and fear.
+   • Discuss expected pain preoperatively.
+   • Multimodal: weight-based acetaminophen plus NSAID is the base and substantially reduces opioid
+     use.
+   • Ketorolac is routine; a Cochrane review found low-quality evidence on its safety and efficacy; bleeding
+     remains a concern.
+   • Intranasal, rectal and transdermal routes help where venous access is difficult.
+   • Opioids for breakthrough pain; side effects nausea, pruritus, constipation, respiratory depression.
+   • Codeine: regulators warn against use in children; absolutely contraindicated after tonsillectomy for
+     obstructive sleep apnoea.
+   • Start with a scheduled regimen; as-needed dosing is inadequate.
+
+ TABLE 38.3 Pediatric Pain Medication Dosages and Intervals — opioids
+  Drug                 Oral                Intravenous                 Frequency             PCA
+  Morphine             0.15–0.3 mg/        0.05–0.1 mg/kg;             3–4-hourly;           0.01–0.02 mg/kg every 10 min
+                       kg                  neonate 0.025–0.05          neonate 6-hourly      ± basal 0.01–0.02 mg/kg/h
+  Hydromorphone 0.04 mg/kg                 0.01 mg/kg                  3–4-hourly            0.004 mg/kg every 10 min ±
+                                                                                             basal 0.002–0.004 mg/kg/h
+  Fentanyl             —                   0.5–1 mcg/kg;               30–60-minutely        0.5–1 mcg/kg every 6 min ±
+                                           intranasal 1–2 mcg/kg                             basal 0.5–1 mcg/kg/h
+  Oxycodone            0.1 mg/kg           —                           4-hourly              —
+  Codeine              Not recommended
+  Methadone            0.1–0.2 mg/kg       0.1 mg/kg (max 2–4          12–24-hourly          —
+                       (max 5 mg)          mg)
+
+ TABLE 38.3 Pediatric Pain Medication Dosages and Intervals — non-opioids
+  Drug                 Dose                                       Frequency Limits and notes
+  Acetaminophen Oral 15 mg/kg; intravenous 15 mg/                 6-hourly    Intravenous FDA-approved from 2 years;
+                kg from 2 years                                               lower doses used under 2 — consult
+                                                                              paediatric anaesthesia
+  Ibuprofen            Oral 10 mg/kg                              8-hourly    Not under 6 months
+  Ketorolac            Intravenous 0.5 mg/kg (max 30 mg); 8-hourly            Limit to 72–96 h (renal toxicity); not under 6
+                       loading 1 mg/kg (max 30 mg) once                       months
+  Celecoxib            Oral 2–4 mg/kg                             12-hourly   Max 200 mg twice daily; FDA-approved only
+                                                                              for juvenile idiopathic/rheumatoid arthritis, 2
+                                                                              years and 10 kg or over
+  Naproxen             Oral 5 mg/kg                               12-hourly   Max 500 mg twice daily; 2 years and over only
+  Gabapentin           Start 2 mg/kg at night → 5 mg/kg/          8-hourly    Neuropathic pain; drowsiness — titrate every
+                       day, titrate to max 35 mg/kg/day,                      2–3 days
+                       three times daily
+  Pregabalin           1.5 mg/kg/day (max 6 mg/kg/day)            12-hourly   Neuropathic pain after gabapentin failure
+ Fentanyl: short half-life — for brief acute or procedural pain, not sustained pain. Codeine: black box warning — poor
+ metabolisers get no analgesia; ultrarapid metabolisers convert a lethal amount to morphine. Methadone: long half-
+
+
+
+
+                                                            page 17 of 18
+Chapter 38 — Core Principles of Perioperative Management in Children                     POSTOPERATIVE MANAGEMENT
+ life, accumulates → respiratory depression, death, and cardiovascular events in prolonged QT syndrome — ECG
+ required; consider pain consultation first.
+   • Pattern: PCA boluses are small fractions of the intravenous bolus with short lockouts; NSAIDs are age-
+     limited (not under 6 months; naproxen and celecoxib from 2 years) and ketorolac is duration-limited by
+     renal toxicity.
+   • Traps: codeine is genotype-dependent — useless or lethal; methadone needs an ECG; intravenous
+     acetaminophen approval starts at 2 years.
+
+ OPIOID USE IN CHILDREN
+   • Overdose and misuse risk is high in children, adolescents and young adults: access to unused
+     medicines and developing reward and habit-formation centres.
+   • No standard paediatric urology prescribing guidelines → overprescription and leftover household
+     opioids.
+   • Yet untreated pain has lasting psychological and physiological consequences.
+   • Prescribing errors above the maximum daily dose occur, concentrated in the youngest → check dosing
+     carefully.
+   • Major surgery needing opioids: limited discharge supply, e.g. 3–5 days.
+   • Teach dose, frequency, storage and disposal: poor storage and undisposed excess are the main sources
+     of accidental poisoning in young children and recreational overdose in adolescents; disposal guidance
+     on the FDA website.
+
+   KEY POINTS
+    • Perioperative complications most often occur in the immediate postoperative period.
+    • Team members should know the potential postoperative complications and monitor for them.
+    • Postoperative pain control is important for optimal outcomes; a multimodal drug approach is
+      recommended.
+    • Proper administration and disposal of unused narcotics prevent overdose.
+
+ Concept — The same drug must be given adequately in hospital and removed from the household after
+ discharge: undertreatment and leftover supply are the twin failures of paediatric opioid practice.
+
+
+
+
+                                                            page 18 of 18
+

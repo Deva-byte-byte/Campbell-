@@ -1,0 +1,868 @@
+Chapter 36 — Pediatric Urogenital Imaging                                                                Technique
+
+
+Chapter 36 — Pediatric Urogenital Imaging
+ • Age-specific differences: studies routine and tolerable in adults may need anaesthesia/sedation or
+   specially trained technicians in children; doses must be adjusted and equipment sized for the smaller
+   patient — the urologist must know these differences to order and interpret tests.
+ • Weighing the decision to image: radiation dose per study, likelihood of interval follow-up (further
+   exposure), need for contrast and need for sedation → set against the anticipated clinical benefit.
+ • ALARA ("as low as reasonably achievable") principle is the consensus standard (International
+   Commission on Radiological Protection, ICRP). Individual radiosensitivity cannot be predicted, so every
+   patient is treated as radiation sensitive — especially in pregnancy, fetal life and childhood.
+ • Guidelines on imaging selection come from the American Academy of Pediatrics (AAP), National Institute
+   for Health and Care Excellence (NICE), Italian Society of Pediatric Nephrology, Canadian Paediatric Society
+   (CPS), Polish Society of Pediatric Nephrology (PSPN) and European Association of Urology/European
+   Society for Paediatric Urology (EAU/ESPU) — all driven by the aim of reducing unnecessary invasive
+   testing, built on best available data plus expert opinion.
+ • American College of Radiology (ACR) Appropriateness Criteria — Haematuria–Child (2018) and Urinary
+   Tract Infection–Child (2024): balance radiation exposure against diagnostic yield, based on the
+   prevalence of findings in specific clinical scenarios.
+ • Organising frame of the chapter: non-ionising then ionising modalities; for each, three levels (kidney/
+   ureter; bladder/urethra; scrotum/testes/internal genitalia) and five indications (obstruction → cysts/
+   masses → infection → other congenital malformations → trauma).
+
+TECHNIQUE
+
+Non-ionising
+ • Sonography is the archetypal minimally invasive study — hence its widespread use.
+ • Magnetic resonance (MR) is not minimally invasive in practice: long acquisition times mean many
+   children need sedation or anaesthesia.
+ • Sedation/anaesthesia risk usually exceeds contrast risk: it is typically higher than the risk of nephrogenic
+   systemic fibrosis from gadolinium (poor renal function, or immature neonatal renal function) and of
+   iodinated-contrast nephropathy in poor renal function.
+ • Allergic reaction: both contrast classes carry a higher (but still very small) risk.
+ • Radiofrequency heating: MR radiofrequency pulses can cause patient heating → must be monitored;
+   hyperthermia reported rarely.
+ • Long-term MR safety questioned because magnetic-field exposure alters gene expression experimentally;
+   no human data, but fetal MR is avoided in the first trimester.
+ • Ultrasonography has shown no gene-expression changes → regarded as safe at all ages and all stages of
+   gestation.
+
+Ionising Radiation
+ • More harmful in children than adults because of (1) greater radiosensitivity of developing tissues and
+   (2) potential for higher cumulative lifetime dose.
+ • Stochastic effects of repeated exposure (internal cell injury) → radiation-induced malignancy after a long
+   latent period.
+
+
+
+
+                                                     page 1 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                         Ultrasonography
+
+ • Reading the risk literature: determine whether risk is estimated, modelled or measured; measured
+   studies are confounded by technique, age, size and intervening studies over long intervals.
+ • Despite these limits, there is reasonable evidence of a dose-related risk in children and even in utero.
+ • Responses: dose reduction per test while preserving diagnostic accuracy; better decision making; non-
+   ionising alternatives.
+Concept — Every paediatric imaging choice is a trade between three harms — ionising radiation, sedation
+and contrast — against diagnostic yield; the child's long remaining lifespan is what tips the balance toward
+sonography and ALARA.
+
+ULTRASONOGRAPHY
+
+Fundamentals of Sonography in the Fetus and Child
+ • Prenatal sonography can diagnose many urological conditions with near certainty by assessing: presence
+   and quality of renal cortex → laterality → kidney position and relation to other organs → amniotic fluid
+   volume and urine in the bladder.
+ • Amniotic fluid origin: before 8–10 weeks it is a dialysate of fetal blood across permeable fetal skin; fetal
+   urine production begins at 10–12 weeks; by 20 weeks sonography detects most urological abnormalities.
+ • Normal urinary tract: two kidneys in the renal fossae; cortex isoechoic or slightly hypoechoic to liver;
+   discrete corticomedullary interfaces; no cortical cysts, masses, or dilatation of collecting system or
+   bladder.
+ • Fetal bladder should be visible in all fetuses by 10–12 weeks; cycling may be seen with patience; it never
+   empties completely (small residual always present).
+ • Umbilical cord placement and anterior abdominal wall integrity must be checked — abnormalities are
+   highly associated with bladder exstrophy and cloacal exstrophy.
+ • Newborn kidney trap: distinct corticomedullary differentiation (hypoechoic pyramids) plus slightly
+   hyperechoic parenchyma can be mistaken for hydronephrosis.
+ • Hydronephrosis is underestimated on an early postnatal scan (up to 2 days after birth) and in
+   dehydration.
+ • Prenatal sonography limitations: low amniotic fluid, maternal habitus, maternal bowel gas, maternal
+   pelvic bones, fetal position — in these respects MRI is superior.
+Figure 36.1 — Newborn versus older-child kidney. High-contrast corticomedullary differentiation of the
+neonatal kidney mimics dilated calyces; compare with the less differentiated older-child kidney.
+
+Kidney/Ureter
+Obstruction
+Hydronephrosis versus cystic renal diseases.
+ • Commonest prenatal sonographic findings: collecting-system dilatation and parenchymal cysts.
+ • Differential: hydronephrosis (obstructive and non-obstructive), multicystic dysplastic kidney (MCDK),
+   polycystic kidney disease (autosomal recessive and autosomal dominant), cystic nephroma.
+ • Reporting is not standardised across specialties. The Society for Fetal Urology (SFU) classification is most
+   used by paediatric urologists — based on calyceal dilatation, minor-calyx involvement and parenchymal
+   thinning. Others use renal pelvic anteroposterior diameter or combined systems.
+ • Because reporting varies, the clinician must review the actual images before deciding.
+
+
+
+
+                                                  page 2 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                          Ultrasonography
+
+ • Natural history: most hydronephrosis is benign and improves or resolves. Profound developmental
+   abnormalities present as moderate–severe hydronephrosis from high-grade obstruction; the transition
+   from dilated to non-dilated tract localises the obstruction — ureteropelvic junction (UPJ), ureterovesical
+   junction (UVJ) or urethra.
+
+FIGURE 36.2 — SOCIETY FOR FETAL UROLOGY GRADING (POSTNATAL SONOGRAPHY)
+ SFU grade                   Sonographic criterion
+ 0                           No central renal dilatation
+ 1                           Renal pelvis only visible
+ 2                           Major calyces identified
+ 3                           Major and minor calyces identified
+ 4                           Grade 3 features plus parenchymal thinning
+
+ • Grade 3 is heterogeneous: many degrees of collecting-system dilatation satisfy its criteria — a reason to
+   look at the images, not the grade.
+ • Grade 3 → 4 step is defined by the parenchyma, not by further dilatation.
+Dilated ureters.
+ • Usually a hallmark of obstruction, but ureteric dilatation also occurs without obstruction, e.g.
+   vesicoureteral reflux (VUR).
+ • Megaureter and ureterocele have obstructive and non-obstructive variants → distinguish with a
+   functional drainage test (diuresis renography or MR urography).
+Functional interpretation of sonography of the kidney.
+ • Standard ultrasound is anatomic; function is only inferred.
+ • Key clinical question in hydronephrosis: obstruction vs VUR vs normal variant (neither).
+ • Bilateral hydroureteronephrosis + thickened bladder + poor emptying → voiding cystourethrogram
+   (VCUG) to exclude posterior urethral valve (PUV).
+ • Otherwise, diuretic renography is the gold standard for evaluating hydronephrosis.
+ • Emerging: computer-aided shape analysis and ultrasound elastography (parenchymal/pelvic tension as
+   indirect measure of obstruction) — if validated, could greatly reduce ionising functional studies.
+Figure 36.3 — Posterior urethral valve on sonography.
+ • Renal signs: echogenic parenchyma, moderate–severe hydronephrosis, renal cortical cyst (renal
+   dysplasia); bladder view: marked bilateral distal hydroureter.
+
+Cysts/Masses/Stones
+Renal cysts. Cysts can mimic hydronephrosis but are distinguished because cysts do not communicate,
+whereas dilated calyces communicate with the renal pelvis.
+
+COMPARISON — CYSTIC RENAL LESIONS ON SONOGRAPHY
+ Lesion                               Laterality     Sonographic hallmark                       Age / note
+ MCDK                                 Unilateral     Non-communicating cysts of varying size,   Prenatal/
+                                                     randomly distributed; scant hyperechoic    neonatal
+                                                     parenchyma
+ Autosomal recessive polycystic Bilateral            Enlarged, homogeneously hyperechoic        Prenatal
+ kidney disease (ARPKD)                              parenchyma (dilated collecting tubules)
+
+
+
+
+                                                           page 3 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                                  Ultrasonography
+
+ Lesion                               Laterality   Sonographic hallmark                                Age / note
+ Autosomal dominant                   Bilateral    Enlarged kidneys, parenchyma almost replaced by     —
+ polycystic kidney disease                         cysts
+ (ADPKD)
+ Multilocular cystic nephroma         Usually      Non-communicating cysts of varying size, more       Benign; tumour
+                                      unilateral   parenchyma than MCDK                                of infancy
+ Cystic Wilms tumour                  Usually      Shares features with MCDK and cystic nephroma       2–4 years
+                                      unilateral
+
+ • Laterality is the first discriminator: unilateral random cysts → MCDK; bilateral → think polycystic disease.
+ • Trap: ARPKD appears as large, bright kidneys rather than discrete cysts — the echogenicity comes from
+   dilated collecting tubules.
+ • Age separates cystic nephroma (infancy) from cystic Wilms (toddler).
+Renal and abdominal solid masses.
+ • Differential: neuroblastoma, congenital mesoblastic nephroma, Wilms tumour, renal vein thrombosis,
+   renal artery thrombosis, adrenal haemorrhage, rare solid tumours (rhabdoid, clear cell, angiomyolipoma).
+ • Sonographic hallmarks + age + presentation usually suggest the diagnosis, but contrast-enhanced
+   computed tomography (CT) commonly follows.
+
+FIGURE 36.5 — RENAL "ENLARGEMENT": DIAGNOSIS SUGGESTED BY CLINICAL PRESENTATION
+ Age          Presentation                                             Diagnosis
+ 1 month      Prenatally detected renal mass                           Congenital mesoblastic nephroma (confirmed at
+                                                                       nephrectomy)
+ 17           Lower-pole mass on examination                           Wilms tumour
+ months
+ 4 days       Acute kidney injury + hypertension, diffuse renal        Renal vein thrombosis
+              enlargement
+ 1 week       Prenatal suprarenal mass                                 Adrenal haemorrhage
+
+ • Pattern: neonatal solid renal mass → mesoblastic nephroma; toddler → Wilms; neonate with diffuse
+   enlargement, AKI and hypertension → vascular (renal vein thrombosis) rather than tumour.
+Renal stones.
+ • Stone-forming children face a lifetime of imaging → minimise radiation; inform parent and older child so
+   they can advocate for this plan at unfamiliar emergency facilities.
+ • Sonography may suffice for initial screening and follow-up in most children with acute renal colic, rather
+   than reflex CT or kidney–ureter–bladder (KUB) radiograph.
+ • Ideal for hydronephrosis/hydroureter, directs further imaging if the stone is not seen; reliably detects
+   intraparenchymal calculi and nephrocalcinosis.
+ • Calculus = echogenic with acoustic shadowing vs parapelvic fat = echogenic without shadowing.
+ • "Twinkling" artefact on colour Doppler distinguishes calculi from other hyperechoic foci.
+Ureteral stones.
+ • Proximal ureter may or may not be dilated, depending on the degree of obstruction.
+ • Distal/pelvic ureteric stones are easier to image in children than adults (shorter distance to the stone);
+   twinkling also seen.
+
+
+
+
+                                                        page 4 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                                   Ultrasonography
+
+Infection
+  • Role: initial screening for obvious anatomical abnormality; not routine at onset of treatment, but failure
+    to improve or worsening on antibiotics → sonography.
+ • Sensitive for significant renal abnormality, but much less for uncomplicated VUR, duplication anomalies,
+   acute pyelonephritis (APN) and focal scarring. Alone, rarely useful in most febrile and non-febrile urinary
+   tract infection (UTI) → often combined with VCUG when a urological abnormality is suspected.
+ • Imaging algorithms are mostly applied after treatment, to identify risk factors for recurrence and
+   anomalies predisposing to complicated UTI and renal injury.
+ • Hospitalised child: screening sonography before discharge to exclude obstruction; otherwise imaging is
+   deferred until after discharge.
+ • Hydronephrosis without VUR → diuresis renography; the combination reliably localises the obstruction.
+ • Grey-scale sonography is inferior to technetium-99m dimercaptosuccinic acid (99mTc-DMSA) for APN
+   and scarring.
+ • A normal sonogram neither risk-stratifies a child with APN nor predicts VUR.
+Contrast-enhanced urosonography (CEUS).
+ • Agent: gas-containing sulfur hexafluoride lipid-type A microspheres (Lumason/SonoVue); US Food and
+   Drug Administration (FDA)-approved for intravenous or intravesical use.
+ • Contrast-enhanced voiding urosonography (CeVUS) — commonest application: VUR detection, with a
+   five-point grading system analogous to VCUG.
+ • Cost: initially higher (time-consuming), offset by being a non-ionising method for detecting and
+   monitoring VUR.
+ • Single-centre retrospective paired comparison with VCUG: moderate sensitivity and specificity for VUR,
+   with identical performance between two readers (good inter-rater reliability).
+ • Systematic review/meta-analysis (Table 36.1): first- and second-generation agents equally accurate,
+   overall false-negative rate 3% → authors recommend CeVUS for VUR detection without reservation.
+ • CeVUS may also replace contrast cystography for VUR after renal transplantation and during video-
+   urodynamics.
+
+TABLE 36.1 ACCURACY OF CEVUS FOR THE DETECTION OF VUR: A SYSTEMATIC REVIEW OF 2768 CHILDREN
+FROM 36 STUDIES
+ Contrast agent                    AUC (95% CI)            Sensitivity (95% CI)             Specificity (95% CI)
+ First generation                  0.97 (0.95–0.98)        0.92 (0.86–0.96)                 0.94
+ Second generation                 0.97 (0.95–0.98)        0.93 (0.86–0.97)                 0.91 (0.86–0.95)
+
+Yousefifard M, Toloui A, Rafiei Alavi SN, et al. J Pediatr Urol 2022;18(1):61–74. AUC, area under the receiver-operating-
+characteristic curve; CI, confidence interval.
+ • What the table is for: VCUG is the reference standard; CeVUS matches it (AUC 0.97) whichever agent
+   generation is used.
+ • Pattern: the newer agent does not buy accuracy — both generations perform the same.
+ • Trap: "non-ionising = less accurate" — here it does not; the limitation is cost/time and grading
+   comparability, not detection.
+Intrarenal reflux (IRR) on CeVUS.
+ • IRR marks renal regions at risk of injury from APN; applying CeVUS to the "top-down" approach is
+   attractive.
+
+
+
+                                                       page 5 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                         Ultrasonography
+
+ • Bottom lines from recent series: CeVUS detects IRR in a minority of renal units, with excellent
+   concordance with VCUG; dilating VUR and IRR are both commoner in males; IRR is seen mostly during
+   voiding, most often in the lower pole, rises with each VUR grade and is associated with renal scarring.
+ • Polar distribution of IRR on CeVUS mirrors the distribution of acute and chronic DMSA lesions — IRR is
+   the anatomical substrate of pyelonephritic scarring.
+
+Trauma
+ • Sonography compares favourably with contrast-enhanced CT for the initial evaluation of renal injury in
+   acute paediatric trauma.
+ • Contrast-enhanced sonography is as sensitive as contrast-enhanced CT for paediatric blunt abdominal
+   trauma.
+
+Bladder and Urethra
+Obstruction
+ • Anatomical detection: ureteroceles, large diverticula, bladder calculi, debris, suspicious masses (Figure
+   36.7: ureterocele, diverticulum, calculi with twinkling).
+ • Bladder wall thickness varies with volume and age; volume-indexed standards are too complex/variable
+   for wide use — but a grossly thickened bladder with a voiding-dysfunction picture is suspicious.
+ • Basic function: emptying quantified by prevoid and postvoid volumes.
+ • "Keyhole sign" = thickened bladder + dilated posterior urethra → highly suggestive of PUV (Figure 36.8:
+   prenatal bilateral hydroureteronephrosis + thick bladder + keyhole = bladder outlet obstruction).
+
+Cysts/Masses
+Midline pelvic cysts.
+ • Differential: hydrometrocolpos (urogenital sinus anomalies), ovarian cyst, distended bladder, urinary
+   ascites, dilated prostatic utricle.
+ • Hydrometrocolpos = uterus and vagina distended with mucus or blood, from vaginal obstruction
+   (imperforate hymen, vaginal atresia, transverse vaginal septum) or retrograde urine flow in urogenital
+   sinus and cloacal malformations.
+ • Dilated prostatic utricle = remnant of the müllerian duct opening → fluid-filled midline structure
+   posterior to the bladder in males.
+Figure 36.9 — Cloacal anomaly.
+ • Oligohydramnios + dual pelvic cysts below a dilated bladder (34-week female fetus) → postnatal
+   sonography shows hemivaginas → contrast via the single perineal opening opacifies both hemivaginas,
+   bladder and distal colon = cloaca.
+Bladder tumours.
+ • Bladder as full as possible to assess contents and wall.
+ • Masses: clot, benign and malignant tumours, foreign bodies, pseudotumours.
+ • Clot vs tumour (child with gross haematuria): image supine then prone → clot moves, tumour stays
+   fixed.
+ • Wall tumours arise from urothelium, mesenchyme, neuroendocrine cells or in response to viral infection;
+   sonography does not discriminate histology → further clinical assessment.
+
+Infection
+  • Viral cystitis: thickened bladder wall, sometimes enough to mimic a mass; clinical triad → viral upper
+    respiratory prodrome + gross total haematuria + marked urgency/frequency.
+
+
+                                                  page 6 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                               Ultrasonography
+
+Other Congenital Malformations
+Abdominal wall defects. Bladder exstrophy and prune belly syndrome — abdominal wall formation defects
+with urogenital anomalies.
+
+COMPARISON — PRENATAL SONOGRAPHIC CLUES: CLASSIC BLADDER EXSTROPHY VS PRUNE BELLY SYNDROME
+VS POSTERIOR URETHRAL VALVE (WITH FIGURE 36.10)
+ Feature                Classic bladder exstrophy         Prune belly syndrome             Posterior urethral valve
+ Bladder                Not visualised                    Distended, wall not thickened    Thickened wall + keyhole
+                                                                                           sign
+ Upper tracts           Normal kidneys, no hydroureter Hydronephrosis/hydroureter          Hydronephrosis/
+                                                                                           hydroureter
+ Abdominal wall /       Irregular lower wall; low cord    —                                —
+ cord                   insertion
+ Genitalia              Short phallus                     Testes absent from scrotum       —
+ Amniotic fluid         —                                 May be high (raised amniotic fluid —
+                                                          index)
+
+ • Trap: prune belly and PUV share hydroureteronephrosis — the thick bladder/keyhole points to PUV, the
+   empty scrotum to prune belly.
+
+Trauma
+ • No bladder/urethral sonographic trauma content is given under this heading; lower-tract trauma is
+   imaged with contrast studies (see VCUG and CT sections).
+
+Scrotum/Testes/Internal Genitalia
+Acute Scrotum
+ • Genital imaging covers four conditions: acute/enlarged scrotum, testicular/paratesticular masses,
+   cryptorchidism, ambiguous genitalia. Ultrasonography is always the initial and usually the only modality.
+ • Overuse is widespread — most scrotal problems are diagnosed by history and examination; avoid over-
+   interpreting imaging that contradicts the clinical examination.
+ • Colour Doppler helps when the examination is equivocal for torsion; never delay exploration for imaging
+   if torsion is suspected and delay threatens salvage.
+ • "Whirlpool sign" — high-resolution imaging of the twisted spermatic cord itself, developed because
+   colour Doppler gives false negatives; raises sensitivity to about 96% (from about 76% with colour
+   Doppler), specificity about 99%.
+ • Salvageability is hard to predict except: no arterial flow + parenchymal heterogeneity → all testes non-
+   viable at exploration.
+ • Epididymo-orchitis: hyperaemia of epididymis and/or testis — but must be correlated clinically because
+   recent spontaneous detorsion also gives hyperaemia.
+ • Torsion of testicular/epididymal appendage: upper-pole/epididymal hypoechoic avascular nodule with
+   surrounding hyperaemia (skilled operator).
+ • Acute idiopathic scrotal oedema: "fountain sign" — hyperaemia of a thickened scrotal wall with none of
+   the above diagnoses.
+Figure 36.11 — Torsion. Whirlpool sign in the right cord with absent Doppler flow vs ample flow on the non-
+torsed left side (19-year-old; incidental left varicocele).
+
+Cysts/Masses
+ • Interpret with age and full clinical picture; generally well characterised by ultrasound.
+
+
+                                                         page 7 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                 Magnetic Resonance Imaging
+
+ • Commonest prepubertal primary testicular tumour = benign teratoma — heterogeneous: solid + cystic +
+   calcified components.
+ • Yolk sac tumour — homogeneous, well-vascularised mass (Figure 36.13: enlarged testis in a 2-year-old).
+ • Epidermoid cyst — alternating hyper/hypoechoic "onion rings" with no internal flow.
+ • Congenital adrenal hyperplasia: bilateral hypoechoic, hyperaemic, heterogeneous testicular adrenal
+   rests with inadequate steroid replacement or poor compliance.
+
+Undescended Testis
+ • Do not image routine cryptorchidism (American Urological Association "Choosing Wisely") — poor
+   sensitivity for detecting/localising the testis and it does not change management.
+ • Reasonable exception: a difficult-to-examine obese child, where finding an inguinal testis simplifies the
+   surgical approach.
+ • Primary modality in ambiguous genitalia or severe hypospadias with non-palpable gonads → detects
+   müllerian structures to guide work-up.
+
+Differences of Sex Development
+ • Sonography is the basis for identifying internal genital structures in differences of sex development (DSD)
+   — hypospadias with unilateral/bilateral non-palpable testes, or female genital anomalies.
+Concept — Sonography is first-line at every level because it is safe, repeatable and anatomic; its weakness is
+function (obstruction, reflux, pyelonephritis), and the rest of the chapter is essentially about which test fills
+that functional gap at the least cost in radiation and sedation.
+
+MAGNETIC RESONANCE IMAGING
+
+Fundamentals of MRI in the Fetus and Child
+ • Used to characterise complex congenital anomalies when sonography lacks detail; not helpful for
+   infection, stones or trauma.
+ • Precontrast series may suffice for ectopic ureters, duplication anomalies, renal cysts, calyceal diverticula.
+ • Limits: cost, access, sedation in young children.
+ • Fetal MRI is performed alongside a third-level obstetric ultrasound after about 20 weeks; any anatomy
+   visible on ultrasound is more easily appreciated on MRI.
+
+Protocol
+ • MR urography (MRU) gives anatomy and function. Sequence: intravenous normal-saline hydration +
+   Foley catheter → furosemide (before or during) → T2-weighted fast spin echo (FSE) sequences (rapid
+   single-shot for anatomy; longer 2D/3D FSE for resolution; 3D reconstructable) → contrast → dynamic T1-
+   weighted gradient-recalled echo (vasculature, parenchymal enhancement, excretion) → delayed images
+   for ureteric course.
+ • Hydration + diuretic → faster, better distension and fewer artefacts on contrast imaging.
+ • Patlak method — graphic analysis using linear regression of tracer clearance — is the usual functional
+   analysis of dynamic data.
+Sedation in the child.
+ • Standard protocol takes up to 1 hour; a shortened ~30-minute format exists but needs larger validation.
+ • Propofol conscious sedation or general anaesthesia is often needed under 6 years.
+ • Avoiding sedation: respiratory-triggered (breath-hold) sequences — at the cost of longer studies; child
+   life specialists (preparation and coping techniques).
+
+
+                                                   page 8 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                              Magnetic Resonance Imaging
+
+Kidney/Ureter
+Hydronephrosis/Obstruction
+ • MRU is a plausible alternative to diuretic renography: far better anatomical resolution, no radiation;
+   pinpoints anomaly, gives differential function and drainage for surgical planning.
+ • Protocols resemble mercaptoacetyltriglycine (MAG3) diuretic renography; gadolinium-based contrast;
+   well hydrated; furosemide 1 mg/kg (max 20 mg); timing of furosemide, catheterisation and positioning
+   vary by protocol.
+ • Sequence: precontrast T2 → 3D T2 fat-saturated, 1-mm slices → slow contrast injection → T1 fat-
+   saturated dynamic scan until contrast fills the ureters.
+ • Barrier to adoption: complex post-processing by a specialised clinician; free software (e.g. "chop-fmru",
+   ImageJ from the National Institutes of Health) assists.
+ • Status: promising, but equivalence to diuretic renography unproven and interpretation training still
+   needed.
+
+Cysts/Masses/Stones
+ • Poor for stones; useful for complex renal cysts and renal masses.
+ • MRI vs CT for paediatric renal tumours: similar for capsular penetration and lymph node metastasis;
+   MRI better for synchronous contralateral lesions.
+
+Infection
+  • Gadolinium-enhanced MRI images APN with accuracy similar to DMSA, single-photon emission CT
+    (SPECT) and contrast CT, but is impractical (long sedation) and rarely changes care.
+
+Other Congenital Malformations
+ • Complex anatomy → MRU gives helpful anatomical detail.
+
+Bladder/Urethra
+ • Rarely more sensitive than a well-performed sonogram for the lower tract, but extremely useful for
+   bladder masses, especially rhabdomyosarcoma.
+ • Sequences: coronal wide-field short tau inversion recovery (STIR); diffusion-weighted imaging (b = 0, 100
+   or 600 s/mm²); non-enhanced and gadolinium-enhanced pelvis; 3D volumetric T1; axial and sagittal T2
+   fat-saturated.
+ • Urine masks T2-hyperintense lesions → acquire non-enhanced T1 and fast sequences before gadolinium
+   accumulates in tissue.
+ • Rhabdomyosarcoma: uniformly low T1; heterogeneous high T2 and on contrast-enhanced T1 fat-
+   saturated images (heterogeneity attributed to necrosis).
+ • Useful for staging, but no MRI feature predicts subtype.
+
+Scrotum/Testes/Internal Genitalia
+Acute Scrotum
+ • MRI has no role.
+
+Cysts/Masses
+ • No role in characterising scrotal cysts/masses; may be considered for staging testicular cancer — MR
+   gives information predictably similar to the historical contrast CT of chest and abdomen.
+ • Paediatric renal tumours: MRI preferred for locoregional staging; CT preferred by some for distant
+   metastasis.
+
+
+
+                                                 page 9 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                   Conventional Radiography
+
+Undescended Testis
+ • MR is marginally better at best than sonography for internal structures and gonadal detection.
+
+Differences of Sex Development
+ • Sonography + urogenitography usually suffice for diagnosis and surgical planning; MRI adds anatomical
+   information only in a few very complex cases.
+Concept — MRI is the non-ionising problem-solver for complex anatomy, tumour staging and (potentially)
+functional obstruction studies; its ceiling is set not by image quality but by sedation, cost and post-processing
+expertise.
+
+CONVENTIONAL RADIOGRAPHY
+
+Plain Abdominal Radiography
+ • KUB used for radiopaque stones and for constipation in children with voiding dysfunction.
+ • Few data support its accuracy for diagnosing or monitoring constipation, but it gives persuasive visual
+   evidence to sceptical parents.
+
+Intravenous Pyelography
+ • Intravenous pyelography (IVP) has fallen out of favour, replaced by high-resolution anatomical and
+   reproducible functional studies.
+ • Technique: sequential radiographs through excretion and drainage, in different focal planes.
+ • A good study localises obstructive lesions and radiopaque stones; drainage time assessed, but less
+   precisely than diuretic renography.
+
+Retrograde Pyelography
+ • Contrast injected into the ureteric orifice — needs anaesthesia in a child; best for intraoperative
+   localisation of a lesion already found on other studies.
+ • Trap: free retrograde flow ≠ unobstructed antegrade flow (and vice versa), especially after prior repair —
+   e.g. small postsurgical tissue flaps obstruct antegrade flow yet look unobstructed retrogradely.
+Concept — Conventional radiography survives only where it answers a question nothing safer does;
+retrograde flow is a valve-direction test, so it cannot prove antegrade patency.
+
+VOIDING CYSTOURETHROGRAPHY/MICTURATING CYSTOURETHROGRAM
+
+Fundamentals of VCUG
+ • Assesses lower urinary tract function; routinely done without sedation, though invasive → pain/anxiety
+   mitigation protocols exist.
+ • After UTI: defer until the child has had several days of antibiotics and is clinically improving.
+ • Catheter check: brief fluoroscopic image confirms tip in bladder and not too much catheter advanced.
+ • Catheter not midline → malposition: e.g. utricle/posterior urethral abnormality in males, entry into an
+   ectopic ureter in females.
+ • Too much catheter → knotting.
+
+
+
+
+                                                   page 10 of 17
+Chapter 36 — Pediatric Urogenital Imaging                          Voiding Cystourethrography/Micturating Cystourethrogram
+
+Kidney/Ureter
+Obstruction
+ • Routine VCUG for all hydronephrosis has been challenged; most algorithms reserve it for hydronephrosis
+   with dilated ureter(s).
+
+Cysts/Masses
+ • No renal cystic disease or mass is specifically evaluated by VCUG.
+
+Infection
+  • Historical 4–6-week delay after UTI (fear that trigonal inflammation causes transient VUR) is unnecessary
+    — clinically significant VUR rarely disappears after treatment.
+ • Early VCUG during febrile UTI: endotoxin-induced ureteric dilatation may overestimate the VUR grade.
+
+Other Congenital Malformations
+ • Only UVJ anomalies among upper-tract malformations benefit from VCUG.
+
+Trauma
+ • No renal or ureteric trauma is specifically evaluated by VCUG.
+
+Bladder/Urethra
+Obstruction
+ • Excellent high-resolution anatomical study: bladder wall (trabeculation, ureterocele, diverticula, bladder-
+   neck hypertrophy, tumours), urethra (PUV, stricture, diverticulum), bladder stones, rupture, foreign
+   bodies; assesses emptying.
+ • Scout film can reveal many spinal abnormalities.
+Figure 36.15 — VCUG findings.
+ • Highly trabeculated bladder; ureterocele seen within the bladder and then everting; large diverticulum
+   with elongated posterior urethra in PUV; PUV with bilateral grade 5 VUR; short distal bulbar stricture.
+
+Cysts/Masses
+ • Dilatations/masses seen: urachal diverticula, bladder diverticula, dilated utricles, fibroepithelial polyps.
+
+Infection
+  • Single or few non-febrile UTIs (cystitis/urethritis) → VCUG adds little; with increasing severity or
+    recurrence, some obtain VCUG to exclude anatomical risk factors.
+ • Circumcised males: UTI risk so low that any UTI may merit evaluation.
+
+Other Congenital Malformations
+Occult VUR.
+ • Evidence for "occult" VUR: new contralateral VUR appears in 7–33% of unilateral VUR; VCUG finds VUR in
+   only about 40% of DMSA-proven APN.
+ • Mechanisms: variation between voiding cycles; infection-induced UVJ dysfunction.
+ • Positional instillation of contrast (PIC) cystography: cystoscopically directed stream of contrast, hung 1 m
+   above the bladder, aimed at the ureteric orifice to challenge it.
+ • Indication: negative VCUG + recurrent febrile UTIs; identifies occult VUR in up to 39% with unilateral
+   VUR and 59% with negative VCUG + abnormal DMSA.
+ • Debate: critics — mostly low-grade and transient; proponents (with concomitant endoscopic treatment)
+   cite a 58% reduction in recurrent UTI.
+
+
+
+                                                   page 11 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                    Computed Tomography
+
+Trauma
+ • Pelvic trauma, especially with blood at the meatus and/or difficulty voiding → contrast imaging of
+   bladder and urethra; urethral injury most likely; prompt intervention mandatory.
+ • Blood at meatus → retrograde urethrogram before any catheterisation → urethra cleared → advance
+   catheter → fill bladder by gravity until distended.
+ • Expected bladder capacity (mL) = (age in years + 2) × 30, maximum 400 mL.
+Figure 36.16 — Bladder injury with pelvic fracture. Screening CT suggests injury → contrast cystography
+confirms: extreme elevation of the bladder neck ("pie-in-the-sky") and contrast collecting in the
+retroperitoneal (extraperitoneal) space.
+
+Scrotum/Testes/Internal Genitalia
+ • Not useful for routine genital anomalies, except urethral, bladder and internal genital anatomy in cloaca,
+   urogenital sinus and DSD.
+ • Males with ectopic ureters or dilated utricles may have recurrent UTI (epididymitis, febrile/symptomatic
+   UTI) → best evaluated with VCUG.
+
+Differences of Sex Development
+ • Urogenitography is essential for surgical planning and classification.
+ • Technique: catheter in the single perineal opening → contrast under fluoroscopy → define the
+   confluence of urethra and vagina and orientation; alternatively Foley balloon inflated and pressed to the
+   perineum for retrograde filling.
+ • Classified by Shopfner's classification.
+Figure 36.18 — Genitogram, 46,XX ovotesticular DSD. Low confluence of urethra and vagina with reflux into
+the right fallopian tube → Shopfner type III.
+Concept — VCUG is the anatomical reference test for the bladder outlet and urethra; its limits are that it is
+invasive, ionising and a snapshot — which is why reflux can be "occult" and why its timing after infection and
+its trigger criteria have been narrowed.
+
+COMPUTED TOMOGRAPHY
+
+Fundamentals of CT Imaging in Children
+ • CT's paediatric role rests on availability and speed, not superior diagnosis — best realised in blunt
+   abdominal trauma and polytrauma; its need is dwindling as sonography and MR advance.
+
+Kidney/Ureter
+Obstruction
+ • Little role in hydronephrosis — little advantage over ultrasound, plus radiation.
+ • With IV contrast and delayed images, a delayed nephrogram and ureteric drainage vs the contralateral
+   side signals obstruction, but is hard to quantify.
+ • Helpful anatomy in complex anomalies (ectopic kidney, ectopic ureter, megaureter, duplication,
+   renovascular anomalies) when sonography or MR are inconclusive or unavailable.
+
+Cysts/Masses
+ • Contrast-enhanced CT for paediatric renal tumours is commonplace.
+
+Infection
+  • Limited role; reserved for when non-ionising modalities are inconclusive.
+
+
+                                                  page 12 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                              DMSA Renal Cortical Scintigraphy
+
+ • CT and MR help in renal abscess, extraurinary fistulisation, postoperative complications, or infection
+   secondary to obstruction.
+Figure 36.17 — Renal abscess. 6-year-old: abdominal pain, raised erythrocyte sedimentation rate and C-
+reactive protein, inability to stand erect → Doppler sonography shows heterogeneous lower-pole collection
+→ CT confirms abscess.
+
+Calculus Disease
+ • CT's most obvious advantage — better than sonography at detecting and quantifying stone burden, but
+   the extra accuracy is seldom clinically impactful.
+ • Apply ALARA, especially in stone-formers facing lifelong repeated imaging.
+
+Trauma
+ • CT with and without IV contrast is routine in paediatric abdominal trauma.
+ • Timing trap: images taken only in the arterial phase enhance cortex alone → show contusion/laceration
+   but miss collecting-system and ureteric injuries → delayed (excretory) images are required.
+
+Bladder/Urethra
+ • Little role in lower-tract obstruction, infection or malformation; may image bladder masses, but MR
+   preferred for soft-tissue resolution.
+
+Trauma
+ • Lower-tract CT reserved for bladder or pelvic trauma.
+ • CT cystography: antegrade/delayed filling or retrograde catheter filling → detects bladder or augment
+   rupture.
+ • Advantage over conventional cystography: better anatomy and immediate classification as
+   intraperitoneal vs extraperitoneal, which determines management.
+
+Scrotum/Testes/Internal Genitalia
+ • No role in acute scrotum, genital cysts/masses, undescended testis or DSD; part of staging for testicular/
+   paratesticular malignancy (metastases).
+Concept — In children CT is chosen for speed, not superiority; outside trauma and tumour staging almost
+every CT question is answerable by sonography or MR without radiation — and when CT is used, phase
+timing decides whether the collecting system is actually seen.
+
+DMSA RENAL CORTICAL SCINTIGRAPHY
+ • Mechanism: DMSA is taken up by proximal tubular cells, a process dependent on renal blood flow; APN
+   reduces focal blood flow → photon-deficient areas.
+ • Lesions may be focal, multifocal or diffuse; distinguishing acute from chronic is difficult when APN is
+   superimposed on old scars.
+ • Validation (piglet autopsy model, histopathological reference): sensitivity 87%, specificity 100% for APN;
+   SPECT gives slightly higher sensitivity, lower specificity, equivalent accuracy to planar (pinhole) imaging.
+
+COMPARISON — ACUTE PYELONEPHRITIS VS RENAL SCAR ON DMSA
+ Feature         Acute pyelonephritis                                     Renal scar
+ Uptake          Decreased peripheral uptake (photopenia)                 Decreased uptake
+ Renal           Reniform contour preserved                               Volume loss → contour interrupted,
+ contour                                                                  concavity
+
+
+
+                                                    page 13 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                              MAG-3 Diuresis–Induced Renal Scintigraphy
+
+ Feature         Acute pyelonephritis                                               Renal scar
+ Timing          Seen reliably within days of the episode; resolves gradually       Any lesion still present at 6 months ≈
+                 over ~5 months                                                     fixed scar
+
+ • Timing follows the question: scan early (days) to document APN; scan at ≥6 months to document
+   permanent scarring.
+ • Acute lesions persist (i.e. become scars) in 36–52% of kidneys.
+Figure 36.19 — DMSA evolution. Photopenic APN with preserved contour → either scar formation (contour
+lost) or complete resolution by 6 months.
+Concept — DMSA images tubular perfusion, so inflammation and scar look alike on uptake; contour and
+time are what separate a reversible lesion from permanent damage.
+
+MAG-3 DIURESIS–INDUCED RENAL SCINTIGRAPHY
+ • Diuretic renography is the gold standard for distinguishing obstructive from non-obstructive
+   hydronephrosis/hydroureter; tracer 99mTc-diethylenetriamine pentaacetic acid (DTPA) or, more
+   commonly, 99mTc-MAG3.
+ • Strict protocol required for reproducibility (the "well-tempered" diuretic renogram).
+
+COMPARISON — THE FOUR KEY ELEMENTS OF A DIURETIC RENOGRAM
+ Element                       How                                             Why / pitfall
+ 1. Hydration                  IV line for hydration + encourage oral fluids   Dehydrated patient responds poorly to
+                               before arrival                                  diuresis → false obstruction
+ 2. Region of interest         Tight ROI round renal cortex (differential      Wrong portion of tract in ROI → spurious
+ (ROI) and background          function) or round dilated collecting system    values
+ subtraction                   (drainage); background ROI equally careful
+ 3. Bladder drainage           Urethral catheter                               Removes effect of bladder filling on upper-
+                                                                               tract drainage, confusion from VUR, and
+                                                                               gonadal radiation from radioactive urine
+ 4. Timing of diuretic         IV furosemide 1 mg/kg when the dilated          Early diuretic → drainage measured before
+                               system is maximally filled — not before         system full
+
+ • Outputs: differential renal function, washout curves, washout half-times (T½).
+ • Predictors of progression beyond T½: biphasic curve (prompt drainage that stops) and poor gravity-
+   assisted (upright) drainage → more likely to progress to high-grade obstruction.
+ • Decide on: age + renal function + diuresis T½ + curve shape + upright clearance — and review the actual
+   images, ROIs and curves.
+ • No established paediatric T½ cut-off defines obstructed vs unobstructed → repeat scans during follow-up
+   are often required.
+ • Intermittent obstruction: raised intrapelvic pressure lowers renal blood flow → cortical retention of
+   tracer (akin to an obstructed nephrogram on IVP), visible up to 48 hours after the episode even when
+   Dietl's crisis (nausea/vomiting + flank/abdominal pain) has resolved.
+ • Versus sonography: properly performed renography is more reproducible and quantifiable.
+Figure 36.20 — Hydration. Child fasted overnight for sedation after bilateral pyeloplasty: despite fluid
+resuscitation, little urine → poor cortical transit and poor drainage bilaterally; repeated without fasting and
+with more aggressive hydration → brisk diuresis and improved drainage half-times.
+
+
+
+
+                                                          page 14 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                          Radionuclide Cystography
+
+Figure 36.21 — ROI and half-time calculation.
+ • If T½ is timed from tracer injection (furosemide at 30 min), it wrongly includes cortical transit, secretion
+   and accumulation time.
+ • Correct T½ = time for 50% of tracer to drain from the dilated collecting system (from Tmax/maximal
+   filling).
+ • Changing ROIs showed the obstruction was at the UVJ, not the UPJ — ROI placement localises the level.
+Figure 36.22 — One renogram is not enough. Serial MAG3 studies in one patient: normal T½ at 5 weeks and 9
+months, then markedly prolonged T½ with heavy retention at 1 year — progressive obstruction.
+Figure 36.23 — Gravity-assisted drainage. Indeterminate bilateral drainage at 42 days; 15 minutes upright
+cleared more on the left; at 8 months right function worsened with negligible diuretic and upright drainage,
+left drained spontaneously → upright clearance discriminates the side that will progress.
+Figure 36.25 — Deferred decline. Prenatal hydronephrosis draining well at 3 months → prolonged T½ at 2
+years → pyeloplasty → afterwards prompt spontaneous drainage, so furosemide not given.
+Figure 36.26 — Intermittent obstruction. Mild hydronephrosis with rapid washout (T½ 2 min), then flank pain
+and a rising second limb of the curve as tracer re-accumulates; after surgery function stable and drainage
+improved.
+Figure 36.27 — Sonography may miss obstruction. SFU grade 3 (mostly intrarenal) dilatation, no hydroureter,
+preserved corticomedullary differentiation → MAG3 shows high-grade UPJ obstruction with reduced
+function and a continuously rising (non-draining) curve.
+Concept — The renogram measures drainage under stated physiological conditions, so every artefact
+(dehydration, wrong ROI, full bladder, mistimed diuretic) masquerades as obstruction; because no single T½
+threshold exists, the trend over serial studies and the curve shape carry the diagnosis.
+
+RADIONUCLIDE CYSTOGRAPHY
+COMPARISON — DIRECT VS INDIRECT RADIONUCLIDE CYSTOGRAPHY VS VCUG FOR VUR
+                                                                          Indirect radionuclide
+ Feature                Direct radionuclide cystography                   cystography                   VCUG
+ Catheter               Required                                          Not required (after           Required
+                                                                          renography)
+ VUR sensitivity        Greater than VCUG                                 Less than direct → not        Reference
+                                                                          routine
+ Radiation              Lower than VCUG                                   Part of renography            Higher
+ Anatomical             Poor (collecting system, urethra)                 Poor                          High
+ resolution
+ Physiology             Non-physiological (like VCUG)                     Physiological, non-invasive   Non-
+                                                                                                        physiological
+ Grading                Hard to match VCUG grades (mild/moderate/         —                             Five-grade
+                        severe; Figure 36.28)                                                           system
+
+ • Trade-off: direct nuclear cystography buys sensitivity and lower dose at the cost of anatomy, and still
+   needs a catheter.
+
+
+
+
+                                                          page 15 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                               Radionuclide Testicular Scanning
+
+RADIONUCLIDE TESTICULAR SCANNING
+ • In use since the 1970s, to distinguish torsion from inflammation (epididymitis, orchitis, appendage
+   torsion).
+ • Technique: IV 99mTc-pertechnetate → dynamic and static gamma images of the pelvis.
+ • Photon-deficient = poor flow (torsion); photon-hyperdense = inflammation (epididymitis).
+ • In experienced centres, sensitivity and specificity up to 100%, potentially better than sonography — but
+   limited availability, invasiveness and radiation prevent adoption over ultrasound.
+ • Best use: cases equivocal on examination and sonography, and only if it does not unreasonably delay
+   potentially testis-saving surgery.
+
+ KEY POINTS: IMAGING TECHNIQUES
+   • ALARA governs all paediatric imaging.
+   • Non-ionising: contrast-enhanced sonography and machine-learning-enhanced sonographic analysis
+     should be adopted as they become available — may obviate more invasive tests.
+   • Obstruction: sonography is the initial test and the follow-up test; ancillary VCUG and/or diuresis
+     renography per findings; normal infant kidney (hypoechoic pyramids, distinct corticomedullary
+     junction) can be mistaken for hydronephrosis; diagnosing obstruction on renography requires review
+     of all test parameters.
+   • Cysts/masses/stones: MCDK = randomly distributed cysts of varying size, scant hyperechoic
+     parenchyma; ARPKD = bilateral, enlarged echogenic parenchyma; ADPKD = bilateral, parenchyma
+     replaced by cysts; renal masses → contrast-enhanced CT follows sonography.
+   • Infection: guidelines use sonography as initial screen despite low yield; a normal sonogram does not
+     risk-stratify febrile UTI nor predict VUR.
+   • "Bottom-up" vs "top-down": see comparison below.
+   • Other congenital malformations: sonography is the initial imaging for suspected DSD — müllerian
+     structures and their relation to the urinary tract.
+   • Trauma: abdominal sonography compares favourably with contrast CT and suits longitudinal follow-up
+     of renal injury (perinephric haematoma, urinoma); ionising studies with IV or intraluminal iodinated
+     contrast evaluate genitourinary trauma; evaluation is incomplete without delayed CT views of
+     parenchyma and collecting system, or lateral projections of bladder, bladder neck and urethra.
+   • Acute scrotum: history, examination and scrotal sonography discriminate inflammation, neoplasm,
+     trauma and torsion; nuclear scintigraphy adds little over sonography.
+   • Undescended testis: sonography unreliable — do not use, except to seek an inguinal testis in an
+     overweight boy.
+
+
+COMPARISON — "BOTTOM-UP" VS "TOP-DOWN" IMAGING AFTER FEBRILE UTI
+ Feature         Bottom-up                          Top-down
+ First test(s)   Ultrasound → VCUG                  DMSA (replaces screening ultrasound)
+ Target          All VUR                            APN and/or renal scarring (kidneys at risk)
+ VCUG            Routine                            Only if DMSA abnormal
+ Weakness        Overtreatment of low-grade VUR     VUR sought only in high-risk (DMSA-abnormal) children
+
+
+
+
+                                                  page 16 of 17
+Chapter 36 — Pediatric Urogenital Imaging                                                            Radionuclide Testicular Scanning
+
+COMPARISON — MODALITY BY CLINICAL QUESTION
+ Question                           First line                 Next / problem-solver                  Avoid / no role
+ Hydronephrosis —                   Sonography                 MAG3 diuretic renography (gold         CT, IVP
+ obstruction?                                                  standard); MRU alternative
+ Hydroureteronephrosis ±            Sonography                 VCUG (PUV, VUR)                        —
+ thick bladder
+ VUR detection/follow-up            VCUG                       CeVUS; direct radionuclide             Indirect cystography
+                                                               cystography; PIC if occult             (insensitive)
+ APN / scarring                     —                          DMSA (early = APN; ≥6 months =         Grey-scale ultrasound
+                                                               scar)                                  (insensitive); MRI
+                                                                                                      (sedation)
+ Renal stones                       Sonography                 CT (burden) under ALARA; KUB           Reflex CT
+ Renal mass                         Sonography                 Contrast CT; MRI (local staging,       —
+                                                               contralateral lesions)
+ Bladder mass                       Sonography (full           MRI (rhabdomyosarcoma)                 —
+                                    bladder)
+ Abdominal trauma                   CT (with delayed           Retrograde urethrogram; CT/            Catheter before
+                                    phase); sonography         conventional cystography               urethrogram if meatal
+                                                                                                      blood
+ Acute scrotum                      Clinical ± colour          Scintigraphy if equivocal and no       MRI, CT; any imaging that
+                                    Doppler/whirlpool          delay                                  delays exploration
+ Undescended testis                 Examination                Sonography only in obese child         Routine ultrasound; MRI
+                                                                                                      marginal
+ DSD                                Sonography +               MRI for very complex cases             CT
+                                    genitography
+
+COMPARISON — NAMED PAEDIATRIC IMAGING SIGNS
+ Sign             Modality                       Appearance                            Meaning
+ Keyhole          Ultrasound (pre/               Thick bladder + dilated posterior     PUV / bladder outlet obstruction
+                  postnatal)                     urethra
+ Twinkling        Colour Doppler                 Colour artefact behind echogenic      Calculus (renal, ureteric, bladder)
+                                                 focus
+ Whirlpool        High-resolution                Twisted spermatic cord                Testicular torsion
+                  ultrasound
+ Fountain         Colour Doppler                 Hyperaemic thickened scrotal wall     Acute idiopathic scrotal oedema
+ Onion rings      Ultrasound                     Concentric hyper/hypoechoic           Epidermoid cyst
+                                                 rings, no flow
+ Pie-in-the-      Cystography                    Extreme elevation of bladder neck     Pelvic fracture with extraperitoneal
+ sky                                                                                   bladder injury
+
+Concept — Each clinical question has one anatomical and one functional answer; the paediatric algorithm
+starts with sonography and escalates only to the functional test that the anatomical finding demands.
+
+
+
+
+                                                              page 17 of 17
+
