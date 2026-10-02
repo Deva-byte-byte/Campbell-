@@ -1,0 +1,506 @@
+Chapter 148 — Anatomy and Development of the Prostate                                                  Prostate Anatomy
+
+Chapter 148 — Anatomy and Development of the Prostate
+PROSTATE ANATOMY
+
+Zonal Anatomy of the Human Prostate
+ • Fetal origin: epithelial cords from the primitive urethra canalise and branch in response to androgen
+   action in local mesenchyme.
+ • McNeal zones (1981): peripheral zone (PZ), central zone (CZ), preprostatic region (transition zone, TZ) and
+   anterior fibromuscular stroma (AFMS).
+ • Zones were defined partly by where focal disease arises: benign prostatic hyperplasia (BPH) and cancer
+   (table).
+ • Orientation axes: base (bladder neck) → apex (junction of prostatic and bulbar urethra); anterior (top) →
+   dorsal (bottom).
+ • The prostatic urethra bends approximately 35° before the dorsal entry of the ejaculatory and prostate
+   ducts.
+ • 13–15 prostate ducts open onto the dorsolateral prostatic urethra along the base-to-apex axis, best
+   shown by dorsal nano computed tomography (nanoCT).
+ • Verumontanum: a bulge distal to the urethral crest that marks the entry of the ejaculatory ducts (seminal
+   vesicle and vas deferens).
+
+ZONES OF THE HUMAN PROSTATE (MCNEAL)
+                                                                                                   Disease
+ Zone              Defining ductal anatomy                                                         association
+ Transition        Shortest ducts; terminal secretory glands most proximal to the urethra          BPH
+ zone
+ Peripheral        Distal glands with the longest ducts                                            70% of cancers
+ zone
+ Central zone      Ducts and glands running parallel to the baso-dorsal entry of the ejaculatory   —
+                   ducts
+ AFMS              Continuous ridge of fibroblasts and smooth muscle along the anterior bladder    —
+                   neck and prostate
+
+ • The table tests duct length as the zonal discriminator: short proximal ducts form the TZ and long distal
+   ducts form the PZ. The trap is to confuse the CZ, which surrounds the ejaculatory ducts, with the TZ.
+Concept — zones are defined by duct length and position relative to the urethra and ejaculatory ducts, and
+the disease map follows: proximal short-duct tissue enlarges (BPH), while distal long-duct tissue transforms
+(cancer).
+
+Cellular Anatomy of Human Prostate
+ • Cell types, once defined by morphology, location and selective protein or RNA expression, are now
+   defined by pan-transcriptomic profile (single-cell or single-nucleus RNA sequencing) plus in situ location
+   and morphology; modern prostate anatomy is the distribution of these discrete cell types, divided into
+   epithelia and stroma.
+ • Validated types are annotated in the Cell Ontology (a structured vocabulary for animal cell types) and
+   placed anatomically in Uberon (a cross-species anatomy ontology). The Human BioMolecular Atlas
+
+
+
+                                                          page 1 of 10
+Chapter 148 — Anatomy and Development of the Prostate                                                     Prostate Anatomy
+   Program (HuBMAP) and Human Cell Atlas aim to build three-dimensional tissue maps and an atlas of cell
+   function and relationships.
+ • Acinus: pseudostratified columnar epithelium (basal and luminal cells) immediately surrounded by
+   periepithelial fibroblasts; interacinar PZ stroma holds interstitial fibroblasts and smooth muscle. Gland
+   plus stroma = functional tissue unit.
+
+CELL TYPES OF THE HUMAN PROSTATE AND PROSTATIC URETHRA
+ Compartment                           Cell type                           Markers
+ Prostate epithelium                   Luminal                             KLK3+/NKX3-1+
+                                       Basal                               KRT14+/KRT5+
+ Urethral and proximal-duct            Club                                SCGB3A1+/SCGB1A1+
+ epithelium
+                                       Hillock                             KRT13+/LYPD3+
+                                       Neuroendocrine                      CHGA+/ASCL1+
+                                       Ionocyte                            FOXI1+/RCAN2+
+ Stroma                                Periepithelial fibroblast           APOD+/PTGDS+
+                                       Interstitial fibroblast             C7+/MFAP4+
+                                       Prostate smooth muscle              DES+/ACTG2+
+ Endothelium                           Arterial / capillary / venous /     GJA4+/IGFBP3+ · GJA1+/CA4+ · SELP+/CSF3+ ·
+                                       lymphatic                           LYVE1+/FLT4+
+ Mural cells                           Vascular smooth muscle              MCAM+/ACTA2+
+                                       Pericyte                            CD36+/ACTA2+
+ Immune                                Resident immune cells               —
+
+ • The table tests marker-to-cell matching. The pattern is that the urethra and proximal ducts carry an
+   airway-like epithelium (club, hillock, ionocyte, neuroendocrine), while NKX3-1 identifies true secretory
+   prostate epithelium.
+
+Luminal Epithelia of Prostate
+ • The "workhorse" of the gland, responsible for epithelial barrier integrity and protein secretion.
+ • Their products, important for sperm function, include KLK3 (kallikrein-related peptidase 3, prostate-
+   specific antigen, PSA), prostatic acid phosphatase (PAP) and androgen receptor (AR).
+ • Polarity: rows joined by adhesion molecules; base anchored to basement membrane by integrins; basal
+   nucleus beneath a Golgi-rich clear zone (2–8 µm); apex with microvilli and abundant secretory granules.
+   Secretions pass acinus → ducts → urethra.
+
+Basal Epithelia of Prostate
+ • Basal cells have condensed chromatin and rest on the basement membrane, wedged between the bases
+   of the luminal cells. Their progenitor role is limited to certain situations; their main function is ductal
+   integrity.
+
+LUMINAL VERSUS BASAL EPITHELIUM
+ Feature                    Luminal                                                    Basal
+ Keratins                   8 and 18                                                   5 and 14
+ Shape                      Tall columnar, 10–20 µm                                    Pyramidal, scant cytoplasm
+ AR                         Expressed                                                  Low
+
+
+
+                                                            page 2 of 10
+Chapter 148 — Anatomy and Development of the Prostate                                                Prostate Anatomy
+
+ Feature                    Luminal                                              Basal
+ Secretion                  KLK3/PSA, PAP                                        Almost none
+ Proliferation / fate       Terminally differentiated, low proliferative index   Can act as luminal progenitor
+ Share of epithelium        Majority                                             Minority
+ Role                       Barrier and secretion                                Ductal integrity
+
+Club and Hillock Epithelia of Prostatic Urethra
+ • The prostatic urethra is lined by a transitional epithelium containing club and hillock cells, like those of
+   the proximal lung.
+ • Club and hillock cells extend into the proximal ducts before they transition to NKX3-1+ prostate
+   epithelium. This gives a cell type–specific definition of the "transition zone".
+ • Lung club cells detoxify, regulate immunity and regenerate several cell types after injury; a similar
+   prostatic role is presumed but untestable in the mouse, which lacks club cells.
+
+Neuroendocrine and Ionocyte Epithelia of Prostate and Prostatic Urethra
+ • Like the proximal lung, the prostatic urethra contains neuroendocrine cells and ionocytes. Ionocytes are
+   thought to break down seminal fluid, as they break down mucus in the lung.
+ • Neuroendocrine cells are chemo- and mechanosensory; in lung and intestine they release hormones and
+   antimicrobial peptides under stress and interact with nervous, endocrine and immune systems. Their
+   prostatic function is poorly characterised.
+ • Their presence in male and female urogenital sinus epithelium before prostate development suggests a
+   lineage independent of prostate epithelium; lineage tracing suggests most are neural crest–derived.
+   What triggers epithelial transdifferentiation or neural crest migration is undefined.
+
+Prostate Fibroblasts and Smooth Muscle
+ • A dense population of interstitial fibroblasts surrounds the prostatic urethra and its ducts, presumably
+   providing structural support during voiding and ejaculation.
+ • Periepithelial and interstitial fibroblasts were discovered only recently. Transcriptomic signatures suggest
+   roles in stress response and immune response respectively.
+
+Prostate Vasculature
+ • Vascular smooth muscle (large vessels) and pericytes (microvessels) are both mural cells: they are
+   embedded in basement membrane and extend long processes that interact with and regulate
+   endothelium.
+
+Prostate Immunology
+ • Healthy young donor prostate (single-cell RNA sequencing) has a small resident population of
+   macrophages, dendritic cells and T cells, also found in adult mouse prostate.
+ • BPH tissue has prominent T cells, B cells and dendritic cells and resembles a mucosal inflammatory
+   disorder.
+Figure legend
+ • Fig. 148.3 (Joseph et al., Prostate, 2020): the markers are keratin 5 for basal cells (mouse and human),
+   keratin 13 for hillock cells of the urethra and proximal ducts (human), Krt4 for luminal cells of the mouse
+
+
+
+
+                                                         page 3 of 10
+Chapter 148 — Anatomy and Development of the Prostate                                                          Prostate Anatomy
+   urethra and proximal ducts, and NKX3-1 for secretory luminal cells (both species). The source identifies
+   urethral luminal epithelia as castration-insensitive cells of the proximal prostate.
+Concept — the prostate is now mapped by cell identity rather than landmarks. The urethra and proximal
+ducts carry a lung-like epithelium, and the "transition zone" becomes the point at which urethral epithelium
+hands over to NKX3-1+ prostate epithelium.
+
+Lobar Anatomy of Murine Prostate
+ • The mouse lobes are named for their urethral site of origin; each has a unique branching pattern,
+   histology and transcriptionally distinct luminal epithelium, and lobes have been likened to human zones.
+
+HUMAN VERSUS MOUSE PROSTATE
+ Feature                            Human                      Mouse
+ Architecture                       Encapsulated, zonal        Lobar (anterior, ventral, dorsolateral)
+ PZ correlate                       Peripheral zone            Dorsolateral lobe
+ PSA (KLK3)                         Present; secretory         Absent from the genome; other kallikreins expressed
+                                    biomarker
+ Club cells                         Present in urethra         Absent
+ Luminal promoter used              —                          Probasin: expressed in all lobes' luminal cells; drives
+ experimentally                                                selective transgene expression
+
+Concept — the mouse reproduces developmental mechanism but not human anatomy. It lacks a capsule,
+zones, PSA and club cells, so findings on these features cannot be transferred directly.
+
+Prostatic Secretions
+ • The prostate's overarching function is to synthesise and secrete factors that support the safe passage of
+   sperm from the urethra to the egg.
+ • Semen contains cells, salts, sugars, hormones, carbohydrates, lipids and more than 2000 proteins; some
+   prostate-selective factors serve diagnosis, imaging or treatment.
+
+PROSTATIC VERSUS SEMINAL VESICLE FLUID
+ Feature                     Prostatic fluid                                           Seminal vesicle fluid
+ Share of semen volume       37–44%                                                    55–61%
+ pH                          Acidic (about 6.3)                                        Basic
+ Key contents                Kallikreins (PSA, KLK2), PAP, zinc, citrate, polyamines   Semenogelins (coagulum substrate)
+
+ • Combined, the acidic and basic fluids give semen considerable buffering capacity.
+Ion trapping and drug distribution
+ • Prostatic fluid (pH about 6.3) is more acidic than plasma (7.4). Un-ionised drugs diffuse; ionised drugs
+   need transport, so a drug accumulates where it is most ionised — one reason macrolides concentrate in
+   prostatic fluid.
+ • Inflammation alkalinises prostatic fluid (above pH 8.3), and pH also rises with age; both alter
+   intraprostatic drug distribution.
+Coagulation and liquefaction
+ • Sequence: prostatic and seminal vesicle fluids mix → coagulation (a gel entraps and immobilises sperm
+   during ejaculation) → liquefaction (kallikreins and other proteases degrade semenogelins) → motile
+   sperm.
+
+
+
+                                                          page 4 of 10
+Chapter 148 — Anatomy and Development of the Prostate                                                          Prostate Anatomy
+ • Normal liquefaction: within 20–30 minutes. Delayed if not begun by 30 minutes; nonliquefaction if not
+   complete by 60 minutes.
+ • Hyperviscosity is a suspected cause of male infertility. Kallikrein inhibition to block liquefaction is under
+   study as male contraception.
+Kallikreins
+ • Kallikreins are among the most abundant proteins in semen. They form the largest continuous protease
+   cluster in the human genome (chromosome 19q13.4), which encodes 15 structurally similar proteins.
+ • Made as inactive propeptides, activated by extracellular autocatalytic or protease cleavage; regulated by
+   zinc, citrate, sulfate and glycosaminoglycans.
+ • PSA (KLK3) is the kallikrein most associated with the prostate; its mean whole-ejaculate concentration is
+   about 1.2 mg/mL. It is made by benign and malignant prostate epithelium and by several extraprostatic
+   tissues (table below).
+ • KLK2 is also highly expressed in the prostate. It is related in sequence to KLK3 but has distinct protease
+   activity.
+Prostate-specific membrane antigen, prostatic acid phosphatase and polyamines
+
+PROSTATE SECRETORY AND MEMBRANE PRODUCTS
+                                                              Extraprostatic                                   Clinical
+ Product           Gene locus       Nature                    sites               Function                     relevance
+ PSA (KLK3)        19q13.4          Secreted serine           Skene gland,        Liquefaction                 Serum
+                   cluster          protease                  breast, amniotic                                 biomarker
+                                                              fluid, ovarian
+                                                              carcinoma
+ PSMA (folate      11p (rarely      Membrane-spanning Heart, kidney,              Gut: dietary folate          PSMA-PET;
+ hydrolase)        deleted in       carboxypeptidase  intestine,                  absorption; brain: N-        ¹⁷⁷Lu-PSMA
+                   cancer)                            nervous system              acetyl-L-aspartyl-L-         radioligand
+                                                                                  glutamate metabolism         therapy
+                                                                                  (glutamate-receptor
+                                                                                  control); prostate:
+                                                                                  polyglutamated folates →
+                                                                                  folic acid for trophic
+                                                                                  support (hypothesised)
+ PAP (acid         Chromosome       Hydrolyses                Brain, kidney,      Intracellular: controls      Pre-PSA
+ phosphatase       3                phosphoesters in          liver, lung,        phosphorylation (target      tumour-
+ 3)                                 acid conditions;          muscle, placenta,   ERBB2); secreted: seminal    burden
+                                    intracellular and         salivary gland,     (1–2 mg/mL), enhances        marker
+                                    secreted forms            spleen, thyroid,    HIV infection                (Huggins and
+                                                              thymus                                           Hodges,
+                                                                                                               1941)
+ Polyamines        —                Polycationic; two or      Ubiquitous; also    Protect sperm from           Lower in
+ (spermine,                         more amino groups         dietary and         oxidative stress; increase   infertile men
+ spermidine,                                                  microbial           motility
+ putrescine)
+
+ • The table tests "prostate-specific" as a misnomer: PSA, PSMA and PAP are all expressed outside the
+   prostate.
+ • PSMA is one of the most prominent membrane proteins of prostate cancer and its neovasculature, and
+   its locus is rarely deleted, making it a durable marker and target. PSMA-PET shows promise over bone
+
+
+
+
+                                                           page 5 of 10
+Chapter 148 — Anatomy and Development of the Prostate                                                  Prostate Anatomy
+   scan, computed tomography (CT) and magnetic resonance imaging (MRI) in locally advanced and
+   metastatic disease; ¹⁷⁷Lu-PSMA in advanced metastatic disease.
+ • PAP forms arise by post-transcriptional modification.
+ • Seminal polyamines are more abundant than in any other body fluid and are synthesised in prostate
+   epithelium by ornithine decarboxylase under androgen control.
+Zinc
+ • The prostate has the highest zinc concentration of any human tissue. The adult median is about 109 mg/
+   kg, with wide variation, and the concentration rises with age. Seminal zinc (0.5 mg/mL) far exceeds
+   plasma zinc (2 µg/mL).
+ • Transporters: ZIP proteins (Zrt-, Irt-like proteins; solute carrier 39, SLC39) carry zinc into epithelial cells
+   from plasma or prostatic fluid; ZnT proteins (zinc transporters; SLC30) carry zinc out into prostatic fluid.
+ • Seminal zinc supports fertility (low levels → infertility); it reduces oxidative stress, prevents citrate
+   oxidation, inhibits liquefaction and correlates with motility.
+ • Zinc inhibits the sperm voltage-gated proton channel (Hv1), blocking capacitation — the changes a
+   sperm needs to penetrate and fertilise the egg — until diluted in the female tract.
+Citrate and energy metabolism
+ • In most cells, citrate is an intermediate of glucose oxidation that is oxidised through the Krebs cycle to
+   adenosine triphosphate (ATP). Mitochondrial aconitase converts citrate to isocitrate.
+ • In luminal cells high zinc inhibits aconitase, so citrate is stored and secreted, and benign cells derive
+   energy from oxaloacetate imported through a transmembrane transporter — a unique, inefficient
+   strategy.
+ • Citrate exceeds 100 mM in the expressed prostatic secretions of most men without cancer, reaching up to
+   200 mM, compared with 0.1 mM in plasma. Its primary roles are to maintain seminal pH and facilitate
+   semen liquefaction.
+
+BENIGN VERSUS MALIGNANT PROSTATE EPITHELIAL METABOLISM
+ Feature                               Benign                          Malignant
+ Intracellular zinc                    High                            Dramatically reduced
+ Mitochondrial aconitase               Inhibited                       Uninhibited
+ Fate of citrate                       Secreted end product            Oxidised in the Krebs cycle → ATP
+ Energy efficiency                     Inefficient                     Restored
+
+Concept — the prostate is built for secretion at the expense of its own metabolism. Zinc blocks aconitase, so
+citrate is exported rather than burned. Malignant transformation reverses this by losing zinc and regaining
+efficient citrate oxidation.
+
+ KEY POINTS
+   • Prostate anatomy has moved from morphological landmarks to a cellular anatomy that defines
+     structure and provides a framework for function.
+   • Mouse and human prostate show key cellular and anatomic differences.
+   • AR regulation appears to be one of the most important "gatekeepers" of prostate development and
+     physiology.
+   • Secreted prostate proteases have a significant, dose-dependent effect on semen liquefaction.
+
+
+
+
+                                                        page 6 of 10
+Chapter 148 — Anatomy and Development of the Prostate                                                    Prostate Development
+   • Prostate secretions support sperm motility and survival. Some secreted factors are clinically valuable as
+     cancer biomarkers, imaging agents and therapeutic targets, and potentially for male contraception.
+
+
+PROSTATE DEVELOPMENT
+
+Overview and Timeline
+ • Why development is studied: ductal morphogenesis requires androgens (a model of androgen action); it
+   shows how the microenvironment directs epithelial fate (insight into BPH, cancer and wound healing);
+   and embryonic chemical exposure has lasting effects on differentiation, proliferation, testosterone
+   response, innervation and smooth muscle activity.
+ • Origin: the urogenital sinus (UGS), a transient urethral widening near the bladder neck, formed by cloacal
+   division (timeline table).
+ • Incomplete cloacal division (imperforate anus, urorectal fistula) is associated with impaired prostate
+   development.
+ • Rodent models are valid because rodent prostate development resembles the human.
+ • The UGS is initially ambisexual: a sheath of mesoderm-derived mesenchyme around a tube of
+   endoderm-derived epithelium. AR is widely expressed in both male and female UGS, and both form
+   prostate if exposed to sufficient androgen.
+ • The prostate is absent after castration or with an inactive AR in rodents. It is incomplete in males
+   homozygous for a loss-of-function variant of SRD5A2 (steroid 5α-reductase type 2).
+ • Androgen is not rate limiting. Testosterone acts on UGS mesenchyme soon after synthesis begins (about
+   week 9), yet budding waits until week 10 and cannot be accelerated in vitro by physiological or
+   supraphysiological androgen.
+ • Epigenetic checkpoint: the AR gene is highly methylated in the primitive UGS. Demethylation raises AR
+   abundance and makes the UGS receptive to androgen-induced budding.
+
+TIMELINE OF HUMAN PROSTATE DEVELOPMENT (WITH FIG. 148.5)
+ Gestational
+ week            Stage                   Event
+ 6–7             UGS formation           Cloacal division into ventral genitourinary and dorsal anorectal tracts
+ 6–9             Primitive UGS           Epithelial tube within a mesenchymal sheath; AR gene methylated
+ About 9         Instructive             Testosterone activates mesenchymal AR → andromedins instruct epithelium to
+                 induction               become prostate
+ 10              Bud formation           Solid epithelial cords invade mesenchyme (bidirectional signalling); bud pattern
+                                         sets mature ductal pattern
+ 11 onwards      Elongation,             Elongation towards chemotactic factors (distal-tip proliferation, altered cell
+                 canalisation,           adhesion); canalisation from urethra outwards to bud tips; branching through
+                 branching               puberty and beyond; differentiation into a secretory network
+
+Concept — androgen is present by week 9, but buds wait until week 10. The gate is receptor availability (AR
+demethylation), not hormone supply.
+
+Molecular Control of Prostatic Bud Formation and Patterning
+ • Prostate development is initiated by functional AR in UGS mesenchyme, not in UGS epithelium
+   (Lasnitzki and Mizuno, 1980).
+
+
+
+
+                                                         page 7 of 10
+Chapter 148 — Anatomy and Development of the Prostate                                               Prostate Development
+ • Lasnitzki–Mizuno experiment: UGS from control mice and from mice with a spontaneous AR mutation
+   introducing a premature stop codon (truncated, nonfunctional protein) → enzymatic separation of
+   mesenchyme and epithelium → recombination in different combinations → organ culture with
+   testosterone → buds only when the mesenchyme carried functional AR (wild-type recombinants
+   budded; mutant recombinants did not).
+ • Induction is the process by which one group of cells changes the behaviour of a nearby group. Holtzer
+   (1968) described two modes, in the context of bone formation.
+
+PERMISSIVE VERSUS INSTRUCTIVE INDUCTION (HOLTZER)
+ Feature                   Permissive                              Instructive
+ Responding tissue         Already holds the information;          Lacks the information; must be programmed
+                           awaits permission
+ Prostate scenario         AR signal merely allows epithelium      Mesenchyme programmes epithelium to become
+                           to begin                                prostatic, ductal, secretory
+ Applies to UGS            No                                      Yes
+ mesenchyme
+
+ • Cunha recombination: fetal mouse UGS and adult bladder separated into epithelium and mesenchyme →
+   recombined → grafted under the renal capsule of male mice → UGS mesenchyme reprogrammed
+   bladder epithelium into prostatic glandular epithelium: an instructive inducer.
+ • Specification: UGS epithelial cells are specified once they coexpress Nkx3-1, Edar, Wnt10b and other
+   factors.
+ • UGS mesenchyme loses inductive capacity with age; McNeal hypothesised that ageing stroma may
+   regain it, initiating new glands and BPH.
+ • Andromedin hypothesis: mesenchymal AR drives synthesis of proteins (andromedins) secreted or
+   presented to epithelium. Three criteria: (1) androgen-dependent or androgen-enhanced expression; (2)
+   required for development; (3) ectopically enhances development or substitutes for androgen.
+
+ANDROMEDIN CANDIDATES IN UGS STROMA
+                                             Androgen-induced in         Required for      Ectopic protein enhances
+ Factor                                      UGS stroma                  development       development
+ Wnt2 (wingless-type MMTV integration Yes                                —                 —
+ site family, member 2)
+ Secreted frizzled-related protein 2         Yes                         —                 —
+ Wnt inhibitory factor 1 (Wif1)              Yes                         —                 Yes
+ Fibroblast growth factor 10 (Fgf10)         Yes                         Yes               Yes
+ Fibroblast growth factor 7 (Fgf7)           Yes                         —                 Yes
+
+ • The table tests the criteria. No single factor has yet been shown to have all three andromedin
+   properties. Combinations may substitute for androgen in initiating development, with major roles for
+   retinoic acid and FGF10.
+ • Lifelong regulators: stromal inducers and negative regulators shape morphogenesis throughout life;
+   signals first found in fetal budding — FGF10, homeobox genes, hedgehog genes, retinoic acid signalling,
+   bone morphogenetic proteins (BMPs), WNT5A — were each later implicated in prostate disease.
+ • Patterning: androgens stabilise buds in a dorsoventral and left–right pattern fixing mature gland position,
+   partly through β-catenin (required by nearly all bud-forming tissues). β-catenin drives proliferation cell-
+   autonomously and induces inhibitors of budding in nearby epithelium, setting bud size and spacing.
+
+
+
+                                                        page 8 of 10
+Chapter 148 — Anatomy and Development of the Prostate                                                     Prostate Development
+Prostatic Bud Elongation and Branching Morphogenesis
+ • Branching gives a large surface area-to-volume ratio, increasing capacity for fluid synthesis and storage.
+ • Branching requires androgens — the prostate remains unbranched in humans with inactivating AR
+   variants and is impaired by neonatal castration — acting through stromal, not epithelial, AR, with
+   bidirectional paracrine signalling using many budding pathways.
+
+REGULATORS OF PROSTATIC BRANCHING MORPHOGENESIS
+ Class                       Source → target                        Factors
+ Stromal paracrine           Stroma → epithelial receptors          Ephrin B1, FGF7, FGF10, transforming growth factor β1,
+ (stimulate or inhibit)                                             β2 and β3 (TGFB1–3), BMP4, BMP7, activin, Notch
+                                                                    ligands
+ Epithelial cell-            Act within the epithelial cell         NKX3-1, TRP63, HOXA13, HOXD13
+ autonomous
+ Epithelial paracrine        Epithelium → mesenchyme                Sonic hedgehog, which activates mesenchymal factors
+ Neutralising                UGS epithelium or mesenchyme           Noggin, heparan sulfate, secreted frizzled-related
+ modulators                  → bind activators or inhibitors        proteins
+
+ • The neutralising modulators fine-tune growth-factor gradients that control branching pattern and
+   interval. The trap is sonic hedgehog, the one epithelial factor that acts in a paracrine manner, on the
+   mesenchyme.
+Concept — the mesenchyme instructs and the epithelium responds. AR is required in the stroma for both
+budding and branching, andromedins carry the message, and β-catenin-driven local inhibition sets bud
+spacing.
+
+Environmental Factors Influence Prostate Morphogenesis
+ • Gestation is a window of vulnerability to environmental and dietary agents. Developmental origins of
+   health and disease (DOHaD) hypothesis: early-life (including gestational) chemical exposures modify the
+   risk of ageing diseases such as diabetes, cancer and hypertension; their effect on prostate disease is
+   poorly understood.
+ • Oestrogen: androgens are the principal driver, but oestrogen receptors are expressed lifelong and are
+   abundant in fetal stroma and epithelium, including progenitors. Oestrogens are not required for budding
+   or branching but may be required for patterning (fewer branches in mice lacking oestrogen receptor 1
+   and 2 activity).
+ • Oestrogenic substances are full or partial receptor agonists; gestational or lactational exposure in rodents
+   causes prostatic inflammation, dysplasia, neoplasia, even adenocarcinoma in susceptible animals.
+
+ENVIRONMENTAL AGENTS AFFECTING PROSTATE DEVELOPMENT
+                                                        Exposure and
+ Agent                        Class                     species                Effect
+ Di(2-ethylhexyl)             Plasticiser in            Gestational or         Reduced lobe weight; agenesis of anterior
+ phthalate (DEHP)             poly(vinyl chloride)      lactational; rat       and ventral prostate
+ 2,3,7,8-                     Persistent pollutant      Gestational; mouse     Ventral prostate agenesis (mouse);
+ Tetrachlorodibenzo-p-                                  and rat                transgenerational histopathology (rat);
+ dioxin (TCDD)                                                                 hyperinnervation (mouse)
+ Diethylstilboestrol (DES)    Synthetic oestrogen;      Gestational; mouse, Dose-dependent reduction or increase in
+                              potent oestrogen-         rat, human          dorsal budding (rodent); squamous
+                              receptor agonist                              metaplasia and neoplasia in the postnatal
+                                                                            prostate (human male)
+
+
+
+
+                                                          page 9 of 10
+Chapter 148 — Anatomy and Development of the Prostate                                                     Prostate Development
+
+                                                        Exposure and
+ Agent                        Class                     species                 Effect
+ Oestradiol benzoate,         Oestrogenic               Perinatal rat;          Sustained changes in histone and DNA
+ bisphenol A                                            human prostate          methylation
+                                                        organoids
+ Vinclozolin                  Fungicide                 During gonadal sex      Heritable epimutations over at least three
+                                                        determination; rat      generations; altered prostate DNA
+                                                                                methylation and gene expression
+ Glyphosate;                  Herbicide;                During gonadal          Transgenerational histopathology (glandular
+ methoxychlor                 insecticide               determination; rat      atrophy or hyperplasia)
+
+THREE DEVELOPMENTAL-ORIGIN MECHANISMS LINKING EARLY EXPOSURE TO LATER PROSTATE DISEASE
+ Mechanism                             Linked exposure                       Consequence
+ Epigenetic imprinting of prostate     Oestrogenic chemicals                 Persistent histone and DNA methylation
+ progenitor cells                                                            changes
+ Germline epimutations                 Vinclozolin, TCDD, glyphosate,        Transgenerational changes in prostate
+                                       methoxychlor                          methylation and histopathology
+ Altered prostate innervation          TCDD                                  Hyperinnervation; hyperactive smooth muscle;
+                                                                             urinary frequency
+
+ • Innervation: smooth muscle activity and the response to α-adrenergic receptor blockers in lower urinary
+   tract dysfunction vary widely between men; the controlling autonomic neurons first innervate the
+   prostate during gestation.
+ • Sequence: gestational TCDD → increased artemin (a neurotrophic factor) in UGS epithelium → more
+   noradrenergic fibres in male fetal mice → hyperinnervation persisting into adulthood → thickened,
+   hyperactive smooth muscle and increased urinary frequency.
+Concept — a fetal exposure can reset the adult prostate through three routes: the progenitor epigenome,
+the germline and the nerve supply. The innervation route offers one explanation for the variable response to
+α-blockers.
+
+ KEY POINTS
+   • Prostatic budding, branching and cytodifferentiation are driven by signals from the stroma/
+     mesenchyme.
+   • The embryonic period is susceptible to external factors, such as endocrine-disrupting and other
+     chemicals, that can influence anatomic development and cell differentiation.
+
+
+
+
+                                                          page 10 of 10
+

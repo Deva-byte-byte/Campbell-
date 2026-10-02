@@ -1,0 +1,633 @@
+Chapter 152 — Simple Prostatectomy                                                           Background/History
+
+Chapter 152 — Simple Prostatectomy: Open, Laparoscopic
+and Robotic Approaches
+BACKGROUND/HISTORY
+ • Impact of medical therapy: medical therapy for benign prostatic hyperplasia (BPH) has profoundly
+   changed management and narrowed surgical indications; endoscopic and interventional advances have
+   added many options beyond transurethral resection.
+ • Simple prostatectomy (enucleation) remains a time-tested gold standard for bladder outlet obstruction
+   from BPH in glands >80 g.
+ • Simple vs radical: simple prostatectomy removes only the hyperplastic adenoma and is performed for
+   benign indications; radical prostatectomy removes the whole gland for cancer.
+
+Perineal era
+ • 17th century: first removals of adenomatous tissue — largely inadvertent, during open perineal
+   lithotomy.
+ • Gouley (New York), 1873: described total perineal enucleation.
+ • Zuckerkandl (Vienna), 1889: elective extraurethral prostatectomy.
+ • Goodfellow (American), 1890: earliest definitive series of total perineal enucleation.
+ • Hugh Hampton Young: perineal technique allowing enucleation under vision.
+
+Suprapubic and retropubic era
+ • Atkinson and McGill (Leeds), 1887: among the first intentional suprapubic enucleations, within days of
+   each other.
+ • Belfield (American) presented his technique in 1890; Fuller in 1901.
+ • Freyer (London): popularised the suprapubic (transvesical) operation — initial series 1900, 1000th case
+   by 1912, 1674th by 1920.
+ • Millin, 1945: developed the retropubic approach without entering the bladder.
+
+Minimally invasive era
+ • Laparoscopic simple prostatectomy (LSP) — Mariano, 2002 (first): better recovery, pain and cosmesis,
+   but blood loss still significant; steep learning curve and poor ergonomics limited diffusion.
+ • Robotic-assisted simple prostatectomy (RASP) — Sotelo, 2008 (first, transperitoneal): robotics eased the
+   technical and ergonomic difficulty of pure laparoscopy; now widely performed.
+ • Single-port (SP) laparoscopic transvesical prostatectomy was described (2008) but technical difficulty
+   prevented adoption; SP robotic surgery has since let the transvesical approach gain traction as perhaps
+   the least invasive, with the fastest recovery, further reducing morbidity while keeping the advantages of
+   robotics over pure laparoscopy.
+ • Minimally invasive surgical (MIS) simple prostatectomy is evolving into the standard approach: less
+   pain, shorter stay, faster recovery, fewer complications — often overnight stay or same-day discharge.
+Concept — the history is one continuous reduction in access trauma for the same operation: the enucleation
+plane never changed; only the route to it did (perineal → suprapubic → retropubic → laparoscopic → robotic
+multiport → single-port transvesical).
+
+
+
+
+                                                 page 1 of 13
+Chapter 152 — Simple Prostatectomy                                                                Surgical Anatomy
+
+SURGICAL ANATOMY
+Prostate Zonal Anatomy
+ • McNeal zones: peripheral, central and transition zone (TZ).
+ • BPH arises in the TZ → the TZ is the target of enucleation.
+ • As the TZ enlarges it compresses the peripheral zone, forming the surgical capsule ("pseudocapsule") —
+   this is the cleavage plane of simple prostatectomy.
+
+Pelvic and Vascular Anatomy
+ • Main supply — prostatovesical artery, most commonly from the gluteopudendal trunk of the internal
+   iliac artery. Alternative origins: superior vesical artery; common trunk with the vesiculodeferential artery;
+   internal pudendal or obturator artery.
+ • Course: runs medially on the levator ani to the bladder base → divides into inferior vesical artery and
+   prostatic artery.
+ • Prostatic artery divides at the prostate base into:
+     ◦ anterior branch — anterolateral prostate;
+     ◦ major posterolateral branch — supplies most of the gland.
+ • Proximal urethral branches enter the capsule posterolaterally just distal to the bladder neck → supply
+   the TZ (the adenoma). More distally, capsular branches supply the central and peripheral zones.
+ • Venous drainage: dorsal venous complex (DVC) → internal iliac veins.
+Concept — the adenoma's arterial supply enters posterolaterally at the bladder neck, which is exactly why
+the universal haemostatic step in every approach is a deep figure-of-eight suture at the 5 and 7 o'clock
+positions.
+
+INDICATIONS
+ • Commonest indication: BPH with gland >80–100 g and bothersome symptoms impairing quality of life,
+   refractory to medical therapy or prior endoscopic treatment.
+ • Medical sequelae of BPH/bladder outlet obstruction: urinary retention; recurrent urinary tract infection;
+   bladder stones; recurrent gross haematuria of prostatic origin; obstructive nephropathy.
+ • Relative indication: concomitant bladder diverticula requiring surgery.
+
+PATIENT EVALUATION AND ANAESTHESIA
+History and examination
+ • Full history, International Prostate Symptom Score (IPSS) and postvoid residual (PVR).
+ • Medical conditions, medications, allergies and any personal or family history of excessive bleeding.
+ • Prior abdominal/pelvic surgery — adhesions or aberrant anatomy that dictate the route (intraperitoneal,
+   extraperitoneal, transperineal or transvesical); prior prostate surgery complicates anatomy and
+   dissection.
+ • Digital rectal examination: estimate size and exclude nodules suspicious for occult cancer.
+
+Investigations
+ • Laboratory: prostate-specific antigen (PSA); metabolic panel and renal function; complete blood count
+   (CBC) with platelets; coagulation profile; urine culture.
+ • Positive culture → treat before surgery; obtain sterile urine where possible.
+
+
+
+                                                   page 2 of 13
+Chapter 152 — Simple Prostatectomy                                                       Open Simple Prostatectomy Technique
+ • Transrectal ultrasound (TRUS) strongly considered — accurate size confirms simple prostatectomy is
+   warranted rather than a less invasive procedure.
+ • Cancer suspicion (PSA, family history, examination, other risk factors) → magnetic resonance imaging
+   (MRI) and consider biopsy.
+ • Cystoscopy as indicated → stones, diverticula, median lobe.
+ • Urodynamics → prolonged obstruction and retention with concern for an atonic bladder.
+
+Preparation and anaesthesia
+ • Medical clearance; cardiology review if indicated. Bowel preparation not routine. Nil by mouth from
+   midnight or per local protocol.
+ • Preferred: general endotracheal anaesthesia. Spinal/epidural acceptable for the open approach only —
+   when general anaesthesia is contraindicated or by preference.
+Concept — the work-up answers three questions: is the gland large enough to justify enucleation (TRUS), is
+there cancer that would make a simple operation the wrong one (examination, PSA, MRI), and is the bladder
+able to empty once unobstructed (urodynamics).
+
+OPEN SIMPLE PROSTATECTOMY TECHNIQUE
+Overview
+Modern open simple prostatectomy (OSP) is retropubic (incision of the anterior pseudocapsule) or
+suprapubic/transvesical (extraperitoneal anterior vesicotomy, adenoma reached through a bladder neck
+mucosal incision).
+
+RETROPUBIC VS SUPRAPUBIC OPEN SIMPLE PROSTATECTOMY
+
+                             Retropubic (Millin)                            Suprapubic (transvesical)
+ Entry                       Anterior prostatic pseudocapsule; bladder      Anterior cystotomy; bladder neck mucosal
+                             not opened                                     incision
+ Advantages                  Excellent exposure; direct, complete view of   Simultaneously deals with large intravesical
+                             adenoma for total removal; precise distal      median lobe, clinically significant
+                             urethral transection → sphincter               diverticula and large bladder calculi
+                             protection; best view of fossa for
+                             haemostasis; no bladder trauma
+ Disadvantages               Venous bleeding from DVC disturbance; no       Bladder opened (cystotomy to close)
+                             bladder access for diverticula/calculi; poor
+                             access to a large intravesical median lobe
+ Choose when                 Large gland, no intravesical pathology         Median lobe, diverticulum or stones
+
+ • The deciding question is intravesical pathology: anything needing the bladder open favours suprapubic.
+
+Positioning and Initial Exposure
+ • Cystoscopy (if indicated): lithotomy first, or supine with a flexible cystoscope.
+ • Supine, mild 15–20° Trendelenburg, no extension. Suprapubic area shaved, prepped and draped; penis in
+   the field, covered with a towel.
+ • 22-Fr (French) urethral catheter, 30-mL balloon, placed sterilely. Right-handed surgeon stands on the
+   patient's left.
+
+
+
+
+                                                        page 3 of 13
+Chapter 152 — Simple Prostatectomy                                                            Adenoma Enucleation
+
+ADENOMA ENUCLEATION
+Retropubic — Millin Technique (Transverse Capsular)
+Exposure
+ • Midline extraperitoneal incision (alternative: Pfannenstiel) → rectus retracted laterally → transversalis
+   fascia incised sharply → space of Retzius.
+ • Posterior rectus fascia incised from the semicircular line to the umbilicus → Balfour retractor; peritoneum
+   and bladder retracted cephalad with moist packs under a malleable blade.
+ • Periprostatic fat swept superolaterally without tearing veins; superficial branch of the DVC cauterised and
+   divided; endopelvic fascia incised bilaterally, then puboprostatic ligaments transected bilaterally (Fig.
+   152.1).
+
+Capsulotomy
+ • Bladder neck identified by palpation and catheter manipulation. Two stay sutures: one just distal to the
+   bladder neck, one further distal.
+ • Transverse capsulotomy ~2 cm distal to the bladder neck, between the stay sutures, with a No. 15 blade
+   on a long handle.
+ • Why transverse, not longitudinal: a longitudinal incision may extend distally during retraction and
+   endanger the external urinary sphincter.
+ • Assistant compresses the proximal capsule (hand or sponge stick) to tamponade vessels and allow
+   fulguration of the cut edge. Deepen to the adenoma by blade or cutting current; the larger the gland, the
+   further lateral the incision.
+
+Enucleation
+ • Metzenbaum scissors find the plane between adenoma and pseudocapsule — entering the correct
+   plane is essential → index finger enucleates laterally and posteriorly, easiest areas first, adherent areas
+   last.
+ • Commissure-splitting method: anterior commissure split base → apex (or capsulotomy carried through
+   the adenoma to the urethra, catheter removed, commissure split caudally and cephalad from there) →
+   verumontanum seen directly (with suction) or felt → left lobe divided at the apex proximal to the
+   external sphincter → incision continued proximally in the posterolateral groove, leaving a posterior
+   urethral mucosal strip in continuity with the bladder neck → left lobe out → right lobe likewise. The
+   urethral mucosa is fractured with the index finger at the level of the verumontanum, with extreme care
+   for the sphincter (Fig. 152.3).
+ • Alternative (no commissure split): finger enucleation laterally and posteriorly → gland retracted cephalad
+   → prostatic–membranous urethral junction divided sharply under direct vision → lateral lobes
+   completed. No posterior strip is preserved, so the posterior bladder neck lip may need excision and is
+   sutured down to the posterior capsule as distally as possible (2-0 chromic).
+ • Median lobe: bladder mucosa incised at the vesical neck under vision → median lobe enucleated (Fig.
+   152.4).
+
+Haemostasis, catheter and closure
+ • Brisk bleeding → pack the fossa for 5 minutes.
+ • Figure-of-eight 2-0 chromic or polyglactin sutures at 5 and 7 o'clock through the proximal capsule; may
+   include the bladder neck, avoiding the ureteral orifices → haemostasis plus advancement of bladder
+   neck mucosa into the fossa. Verumontanum and posterior urethral strip remain intact (Fig. 152.5).
+
+
+
+
+                                                  page 4 of 13
+Chapter 152 — Simple Prostatectomy                                                                     Adenoma Enucleation
+ • Ureteral catheters/stents if orifices unusually close (rarely needed). Remaining visible vessels suture-
+   ligated.
+ • 22-Fr three-way catheter, 30-mL balloon, steered into the bladder with a long clamp before closure — or
+   a 22-Fr two-way catheter plus a 22-Fr Malecot suprapubic tube.
+ • Closure: two running 2-0 absorbable sutures, one from each lateral apex, meeting in the midline; tied
+   first to themselves, then to each other → watertight (Fig. 152.6).
+ • Retropubic drain; irrigate the catheter to clear clots and test for leakage; extra interrupted sutures if
+   leaking.
+
+Retropubic — Vesicocapsular Technique
+ • Described by Ogier Ward (1948), later Bourque (1954) and Watts (1956).
+ • Trade-off: considered by some easier than the transcapsular approach, but more urine leak and risk of
+   caudal extension into the sphincter.
+Sequence
+ • Retzius developed → prostate and bladder depressed → 2-0 midline stay suture as distal as possible in
+   the capsule → two 2-0 stays either side of the bladder neck → vertical incision through the bladder wall
+   just above the prostate → right index finger in the prostatic urethra, commissure broken → finger
+   enucleation laterally, posteriorly, then bladder neck (as suprapubic) → capsule divided with curved Mayo
+   scissors down to the distal stay → urethra divided at the apex under vision.
+ • Haemostasis: figure-of-eight 2-0 sutures at the posterolateral positions (5 and 7 o'clock), plus sutures or
+   cautery as needed. Protuberant, obstructive bladder neck edge → excised.
+ • Bladder neck mucosa advanced and tacked to the capsule over exposed detrusor (3-0 absorbable) → 22-
+   Fr three-way Foley under vision → 3-0 submucosal purse-string from 4 to 8 o'clock closes the vesicotomy
+   → capsule closed with 2-0 absorbable, distal stay → proximal → detrusor and adventitia closed → balloon
+   inflated, irrigated to check for leak.
+
+Suprapubic Technique
+Exposure and cystotomy
+ • Midline extraperitoneal incision, pubic symphysis to umbilicus → linea alba divided → Balfour →
+   peritoneal reflection retracted cephalad → Retzius developed → bladder exposed.
+ • Transverse cystotomy 1–2 cm proximal to the bladder neck (electrocautery; Fig. 152.7); stay sutures
+   above and below; avoid capsular tearing during stays, incision and stretching.
+ • Vertical cystotomy is an alternative but risks distal extension during finger enucleation or retraction.
+ • Bladder retracted cephalad with a padded malleable blade → ureteral orifices identified →
+   circumferential full-thickness bladder neck incision around the adenoma, distal to the trigone, avoiding
+   the orifices (Fig. 152.8).
+
+Enucleation — two routes
+SUPRAPUBIC ENUCLEATION: ANTERIOR VS POSTERIOR APPROACH
+
+ Anterior-focused                                             Posterior-based
+ Finger in prostatic urethra → anterior pressure              Plane developed at the posterior midline by spreading
+ "fractures" the anterior commissure                          Metzenbaum scissors (Fig. 152.9)
+ Finger swept laterally round left and right lobes → across   Index finger (surgeon's back to the feet) carries the plane
+ the posterior midline                                        circumferentially and distally to the apex (Fig. 152.10)
+
+
+
+
+                                                       page 5 of 13
+Chapter 152 — Simple Prostatectomy                                                            Management of Haemorrhage
+
+ Anterior-focused                                             Posterior-based
+ Both end the same way: apex retracted cephalad → prostatic urethra pinched through between thumb and
+ forefinger — no excessive traction (sphincter) → adenoma removed whole or by lobes with sponge forceps.
+ Extremely large glands: remove left, right and median lobes separately (Fig. 152.10).
+
+Haemostasis and closure
+ • Fossa packed, Deaver pressure 5 minutes → fossa contracts; inspect and remove residual tissue.
+ • Deep figure-of-eight 2-0 chromic at 5 and 7 o'clock within the capsule → controls prostatic arteries; small
+   bites of bladder mucosa advance it into the fossa over exposed detrusor to prevent contracture. Further
+   bleeding: cautery or suture ligatures.
+ • Catheter: 22-Fr three-way, 30-mL balloon — or 22-Fr two-way plus 20–24-Fr Malecot suprapubic tube.
+ • Cystotomy closed in two layers: 3-0 Vicryl mucosa, 2-0 Vicryl muscle and adventitia (Fig. 152.11).
+ • Balloon filled with 50 mL → prevents retraction into the fossa, especially if traction becomes necessary;
+   irrigate to clear clot and check for leak.
+ • Closed-suction or Penrose drain via a separate stab incision lateral to prostate and bladder; pelvis
+   irrigated; rectus fascia closed with No. 1 polydioxanone (PDS), running; skin closed.
+Concept — every open variant is the same four moves — enter, find the pseudocapsular plane, divide the
+urethra at the apex without touching the sphincter, then 5/7 o'clock haemostasis with bladder neck mucosal
+advancement — and the variants differ only in where the entry incision sits and therefore what it risks (DVC
+bleeding retropubically, leak and sphincter extension vesicocapsularly, nothing intravesical missed
+suprapubically).
+
+MANAGEMENT OF HAEMORRHAGE
+Intraoperative Haemostatic Manoeuvres
+INTRAOPERATIVE HAEMOSTATIC TECHNIQUES
+
+ Technique                     When                     Method
+ Walsh and Oesterling          Before retropubic        Superficial dorsal vein cauterised → endopelvic fascia incised
+ (1990) — prophylactic         (Millin) enucleation     → partial puboprostatic ligament transection → DVC ligated
+ vascular control                                       (3-0 Monocryl, 5/8 tapered needle) in the avascular plane
+                                                        between urethra and DVC at the apex → lateral pedicles at
+                                                        the prostatovesical junction (2-0 chromic, CTX needle, figure-
+                                                        of-eight) deep where the seminal vesicles meet the prostate,
+                                                        avoiding entrapment of the posterolateral neurovascular
+                                                        bundles (Fig. 152.12)
+ Standard 5 and 7 o'clock      Every case               Usually sufficient with or without prophylactic control
+ sutures
+ 11 and 1 o'clock sutures      Occasionally             Anterior arterial branches
+ Malament (1965) purse-        Pronounced, continued    No. 1 or 2 double-armed nylon round the vesical neck
+ string partition              bleeding                 (mucosa and muscle), from 6 o'clock outside, arms clockwise
+                                                        and anticlockwise to 12 o'clock, not crossed (else irremovable)
+                                                        → full-thickness through bladder → 24- or 26-Fr Foley, 30-mL
+                                                        balloon → purse-string drawn tight round catheter → ends
+                                                        through the abdominal wall above the symphysis, tied under
+                                                        tension over a button/pledget → bladder neck closed and
+                                                        fossa compressed and partitioned from bladder; Malecot
+                                                        suprapubic tube and retropubic drain; suture cut at skin and
+                                                        withdrawn on day 2–3
+
+
+                                                       page 6 of 13
+Chapter 152 — Simple Prostatectomy                                                                   Postoperative Care
+
+ Technique                     When                   Method
+ O'Conor (1982) capsular       Bleeding without an    Two transverse plicating sutures (No. 1 chromic, 5/8 needle)
+ plication                     obvious source         in the posterior capsule/fossa — one near the bladder neck,
+                                                      one distal; tying approximates the capsule → compression
+
+Postoperative Haemostatic Manoeuvres
+ • Escalation: catheter traction with 50 mL in the balloon (prevents migration into the fossa) ± continuous
+   bladder irrigation (CBI) → exclude coagulopathy (laboratory testing) → failure of conservative measures
+   → return to the operating room (OR).
+ • In the OR: endoscopic first — resectoscope for clot evacuation and cauterisation; severe haemorrhage →
+   reopen wound and prostatic fossa.
+Concept — haemostasis is graded by escalation of the same target: suture the arterial inflow (5/7, then 11/1
+o'clock), then compress the fossa mechanically (plication, purse-string partition, balloon traction), and only
+then return to theatre.
+
+POSTOPERATIVE CARE
+ • Recovery unit: vital signs, drain and catheter outputs; CBC if bleeding concern.
+ • Catheter traction and/or CBI as needed; sequential compression stockings; non-opioid analgesia, opioids
+   for breakthrough only.
+ • Day 1: diet advanced; incentive spirometry and early ambulation.
+ • CBI weaned as haematuria allows; balloon partially deflated to 30 mL to reduce irritation and spasm;
+   hand irrigation if clots.
+ • Day 2, urine clear: remove Foley, clamp suprapubic tube (SPT) for trial of void, discharge. No SPT →
+   discharged with the Foley.
+ • Pelvic drain removed before discharge if output low; high output → drain creatinine to exclude urinary
+   leak.
+ • Ambulate at home to reduce venous thromboembolism.
+ • 1 week: Foley removed; or SPT removed if voiding comfortably with minimal PVR.
+ • No heavy lifting ~4 weeks. Follow-up at 6 weeks and 3 months: symptoms and PVR.
+
+MULTIPORT ROBOTIC-ASSISTED SIMPLE PROSTATECTOMY TECHNIQUE
+Overview
+ • Multiport robotic-assisted simple prostatectomy (MP-RASP) is most often transperitoneal;
+   extraperitoneal is an alternative. Retropubic or suprapubic techniques each replicate the open steps.
+
+Patient Positioning and Operating Room Setup
+ • Supine on a Pink Pad (or similar) so Trendelenburg causes no slippage; endotracheal intubation,
+   orogastric tube; arms tucked, pressure points padded.
+ • Compression stockings plus pharmacological thromboprophylaxis.
+ • Trendelenburg tested before prepping — confirms cardiopulmonary tolerance and no movement.
+ • Penis prepped in field; 18-Fr Foley, 10 mL in balloon.
+
+
+
+
+                                                     page 7 of 13
+Chapter 152 — Simple Prostatectomy                                 Multiport Robotic-Assisted Simple Prostatectomy Technique
+Access and Trocar Placement
+ • Transperitoneal: Veress (or Hasson) → insufflate to 15 mm Hg → 8-mm umbilical camera port (da Vinci
+   Xi) → inspect for access injury and adhesions → two 8-mm arm ports 8–10 cm lateral to camera → fourth-
+   arm 8-mm port 8 cm right of the right port → 5-mm and 12-mm assistant ports (layout may be mirrored;
+   Fig. 152.13) → operate at 8–12 mm Hg.
+ • Extraperitoneal: 2-cm infraumbilical incision → vertical incision in anterior rectus sheath → split recti →
+   balloon dilator towards Retzius → ports as above, shifted ~2 cm caudally, below the camera.
+
+Multiport Transperitoneal Suprapubic Approach
+ • Pneumoperitoneum 8–12 mm Hg; 0° or 30° scope. Instruments: bipolar Maryland (left), monopolar
+   curved scissors (right), ProGrasp (fourth arm).
+ • Saline via Foley defines the bladder → vertical midline cystotomy (horizontal acceptable), bladder
+   emptied before mucosal entry; thick hypertrophic wall divided with monopolar and bipolar cautery.
+ • Retraction: 3-0 Vicryl or barbed stay sutures — anterior and posterior on each side (typically four; Fig.
+   152.14), through adventitia and detrusor then laterally through peritoneum, held with Hem-o-Lok clips;
+   avoid inferior epigastric vessels (anterior) and external iliac vessels (lateral). Alternative: straight Keith
+   needle through abdominal wall and bladder, clamped at the skin.
+ • Cystotomy extended for a full view of the bladder neck; ureteral orifices identified.
+ • Advantages of direct dome entry: fast entry to the bladder; any capsular perforation stays in the
+   unviolated extraperitoneal space.
+ • Alternative — "drop" the bladder as in anterior radical prostatectomy (no endopelvic fascia incision) →
+   transverse full-thickness incision 1–2 cm proximal to the bladder neck, extended laterally.
+Enucleation sequence
+ • Start posteriorly under the intravesical lobe: bladder neck incision ~3 → ~9 o'clock, full thickness to the
+   adenoma–pseudocapsule plane, well away from ureteral orifices (catheterise orifices if obstruction
+   concern; rarely needed; Fig. 152.15).
+ • Median lobe lifted by fourth-arm tenaculum or retraction suture; large intravesical median lobe may be
+   excised early (Fig. 152.16).
+ • Posterior plane developed bluntly to the apex (30° up scope helps) → bladder neck incision completed
+   circumferentially.
+ • Right lobe dissected anticlockwise (adenoma retracted medially, pseudocapsule swept laterally; bipolar
+   only for pulsatile vessels; scissors if adherent) → over the apex (Fig. 152.17) → left lobe clockwise.
+ • Before apical transection: anterior commissure divided and verumontanum visualised (bedside suction
+   key) → urethra divided just proximal to the veru, never distal (sphincter; Fig. 152.18) → left then right
+   lobe enucleated; fourth arm toggles the gland throughout → specimen bag.
+Haemostasis, reconstruction and closure
+ • Figure-of-eight 3-0 barbed at 5 and 7 o'clock, deep in posterior capsule; bleeders bipolar-cauterised or
+   oversewn. Avoid excess cautery, especially posterolaterally — thermal injury to neurovascular bundles
+   → erectile dysfunction.
+ • Vesicourethral mucosal advancement: double-armed 3-0 barbed, outside-in at 6 o'clock, one arm
+   clockwise, one anticlockwise, tied anteriorly (Fig. 152.19) → urothelial continuity, faster healing,
+   haemostasis by excluding the oozing fossa → patients typically leave theatre without CBI.
+ • 22- or 24-Fr three-way Foley, 30-mL balloon; bladder closed in two layers: 3-0 barbed mucosa, 2-0
+   barbed detrusor/adventitia; optional third layer of peritoneum and perivesical fat (Fig. 152.20). No
+   routine SPT or drain.
+
+
+                                                    page 8 of 13
+Chapter 152 — Simple Prostatectomy                                    Single-Port Robotic Simple Prostatectomy Technique
+ • Specimen out through the umbilical incision; home day 1 with Foley, removed at 5–7 days.
+
+Multiport Transperitoneal Retropubic (Millin) Approach
+ • Bladder dropped into Retzius → stay sutures at both apices → transverse capsulotomy deepened with
+   cautery to the adenoma → blunt and cautery dissection laterally and posteriorly → urethra incised distally
+   → adenoma out en lobe or en bloc → haemostasis as above → bladder neck mucosa to urethral mucosa
+   (double-armed 3-0 barbed) → capsulotomy closed with 2-0 barbed or polyglactin.
+
+Multiport Extraperitoneal Approach
+ • Preperitoneal space made by finger and balloon → longitudinal cystotomy from anterior bladder wall to
+   bladder neck → adenoma removed as transperitoneally.
+ • Advantages: direct access to the vesicoprostatic junction; avoids the peritoneum — for the hostile
+   abdomen after complex prior surgery.
+Concept — the robotic operation adds one step the open operation lacks — the vesicourethral mucosal
+advancement that re-covers the fossa — and that single step is what removes the need for irrigation, drain
+and suprapubic tube.
+
+SINGLE-PORT ROBOTIC SIMPLE PROSTATECTOMY TECHNIQUE
+Overview
+ • Transperitoneal single-port robotic-assisted simple prostatectomy (SP-RASP) — easiest transition from
+   multiport: straightforward transperitoneal access; simple bladder incision and closure; large working
+   space; option of "plus-one" accessory ports early in the learning curve.
+ • Transvesical SP-RASP = single-port transvesical enucleation of the prostate (STEP) — least invasive
+   suprapubic prostatectomy: one 2.7-cm incision, no peritoneal entry, pneumovesicum (not insufflation of
+   peritoneum or extraperitoneal space) → least pain, rapid recovery, best cosmesis, short catheter time, no
+   drains, little or no CBI, often same-day discharge — competitive with transurethral laser enucleation for
+   large glands.
+
+Single-Port Transperitoneal Suprapubic Approach
+ • Supine, penis in field, 18-Fr Foley → 2.7-cm vertical transumbilical incision → peritoneum opened
+   sharply under vision → da Vinci SP Access Port Kit → 8–12 mm Hg → Trendelenburg → dock.
+ • Instrument positions: camera 12 o'clock; Maryland bipolar left; monopolar scissors right; fenestrated
+   bipolar or Cadiere 6 o'clock (retraction and handling the suction). Remotely Operated Suction Irrigation
+   (ROSI) is essential for vision.
+ • Steps as MP: bladder entry → bladder neck incision → enucleation → running vesicourethral apposition
+   → bladder closure → specimen out → fascial closure. No routine SPT/drain; home day 1, Foley out day
+   5–7.
+
+Single-Port Transvesical Approach (STEP)
+Access
+ • 18-Fr Foley → bladder filled with ~200 mL saline → transverse 2.7-cm incision two fingerbreadths above
+   the pubic symphysis (Fig. 152.21) → fascia opened vertically, recti retracted → perivesical fat spread
+   (Kelly) → bladder confirmed by Veress/18-gauge needle with urine/saline return.
+ • Four 2-0 polyglactin stays (proximal, distal, left, right) → 3-cm vertical full-thickness cystotomy → bladder
+   emptied → SP Access Port → dock (Fig. 152.22) → pneumovesicum 8 mm Hg.
+
+
+
+
+                                                  page 9 of 13
+Chapter 152 — Simple Prostatectomy                                              Laparoscopic Simple Prostatectomy Technique
+Enucleation
+ • Instruments as SP transperitoneal; orifices identified; semicircular bladder neck incision ~3 → ~9 o'clock,
+   well away from orifices, full thickness to the plane. Large intravesical lobes may be excised first.
+ • Posterior plane is the most distinct — exploit it early and as distally as possible, bluntly to the apex (Fig.
+   152.23). To see it: relocate the SP system posteriorly and angle the camera anteriorly, or move the camera
+   to 6 o'clock.
+ • Then clockwise and anticlockwise along the adenoma–pseudocapsule interface, incising the bladder neck
+   as you advance; adenoma retracted medially, pseudocapsule swept laterally; some sharp dissection and
+   cautery (Fig. 152.24).
+ • Very large glands: divide the anterior commissure → lobes separately; otherwise en bloc. Veru seen
+   directly → urethra and apex transected without sphincter injury. Specimens parked in the balloon port.
+Haemostasis and closure
+ • 5 and 7 o'clock figure-of-eight 3-0 barbed; bleeders cauterised or oversewn.
+ • Double-armed 3-0 barbed, outside-in on the bladder neck side at 6 o'clock, arms clockwise/
+   anticlockwise → bladder neck descends → mucosa-to-mucosa anastomosis, tied anteriorly (Fig. 152.25).
+ • 22-Fr three-way Foley, 30-mL balloon filled with 20 mL; bladder checked for residual fragments (can
+   obstruct the catheter); port and specimens out; two-layer closure 3-0 and 2-0 absorbable under direct
+   vision (Fig. 152.26); no drain or SPT; irrigate to confirm watertightness.
+ • Rarely needs CBI; home same day or morning of day 1 with Foley; Foley out day 2.
+
+LAPAROSCOPIC SIMPLE PROSTATECTOMY TECHNIQUE
+ • Positioning and anaesthesia as for MP-RASP; Veress or Hasson access.
+ • Ports: 10-mm umbilical camera; two 10-mm working ports 8–10 cm lateral; 5-mm port inferolateral to the
+   10-mm on the surgeon's side; 12-mm AirSeal contralaterally.
+ • Steps as MP-RASP: either drop the bladder and make a horizontal incision 2 cm proximal to the bladder
+   neck, or enter the bladder directly without entering Retzius → mucosal incision, enucleation,
+   haemostasis, closure.
+
+COMPARISON ACROSS APPROACHES — ACCESS, CATHETER AND DISCHARGE
+
+                                                                                                 Discharge; catheter
+ Approach             Access                     Catheter                 Drain / SPT / CBI      out
+ Open retropubic / Lower midline             22-Fr three-way, 30 mL       Drain routine; SPT     Foley out / SPT trial
+ suprapubic        (Pfannenstiel alternative (suprapubic balloon          optional; CBI often    day 2 if clear;
+                   retropubically)           filled to 50 mL); or two-                           otherwise home with
+                                             way + Malecot                                       Foley, out at 1 week
+ MP-RASP              6 ports; transperitoneal   18-Fr at start; 22–24-Fr Not routine; CBI       Day 1; Foley out 5–7
+                      or extraperitoneal         three-way, 30 mL at end rarely                  days
+ SP                   2.7-cm umbilical           18-Fr at start           Not routine            Day 1; Foley out 5–7
+ transperitoneal                                                                                 days
+ STEP (SP             2.7-cm suprapubic;         22-Fr three-way, 20 mL   None; CBI rare         Same day or day 1;
+ transvesical)        pneumovesicum 8 mm         in 30-mL balloon                                Foley out day 2
+                      Hg
+
+
+
+
+                                                       page 10 of 13
+Chapter 152 — Simple Prostatectomy                                                                  Outcomes and Complications
+
+                                                                                                      Discharge; catheter
+ Approach             Access                      Catheter                     Drain / SPT / CBI      out
+ LSP                  10-mm camera, two 10- As MP-RASP
+                      mm, 5-mm, 12-mm
+                      AirSeal
+
+ • Pattern: the less invasive the access, the shorter the catheter time — STEP is the only approach with
+   catheter out on day 2 and same-day discharge.
+
+OUTCOMES AND COMPLICATIONS
+Efficacy and haemorrhage
+ • OSP is efficacious and durable: high satisfaction, better quality of life, objective improvement in
+    maximum urinary flow rate (Qmax) and PVR.
+ • Historically, haemorrhage was the major concern, with high morbidity and transfusion rates; with
+   modern technique open transfusion <5%. Laparoscopic and robotic approaches have reduced bleeding
+   further — transfusion essentially eliminated, and CBI for routine fossa oozing no longer routinely
+   required.
+
+COMPARATIVE OUTCOMES BY APPROACH (BOTTOM LINES)
+
+ Comparison               Better / different                                       Equivalent
+ LSP vs OSP               LSP: less blood loss, shorter irrigation, catheter       Complication rates, functional outcome
+                          time and stay, less analgesia; lower UTI
+ Robotic vs LSP           Robotic: better ergonomics, easier learning curve        Efficacy not superior; complications,
+                          — has largely supplanted LSP                             transfusion, incontinence, IPSS and
+                                                                                   sexual function (Sexual Health Inventory
+                                                                                   for Men) at 1 year all similar
+ Robotic (RSP/RASP)       Robotic: less blood loss and transfusion, shorter        IPSS, Qmax, PVR, urodynamics, quality of
+ vs OSP                   stay and catheter time, fewer recatheterisations,        life
+                          UTIs, readmissions and overall complications
+                          (including respiratory, ileus, sepsis, genitourinary);
+                          but longer operating time
+ SP (STEP) vs MP          SP: shorter stay and catheter time, far less CBI,        Operating time, blood loss, major
+                          lower opioid use (most need none after                   complications, reoperation
+                          discharge), fewer readmissions; same-day
+                          discharge for most SP patients, none after MP
+
+ • Initial STEP experience: minimal blood loss, stay under one day, no intraoperative complications, even
+   early in the learning curve.
+ • Consistent pattern: minimally invasive routes improve perioperative morbidity; functional outcome is the
+   same for all — because the enucleation is the same.
+
+Urinary extravasation
+ • Uncommon. Sources: incomplete closure of the capsulotomy (retropubic) or cystotomy (suprapubic);
+   unrecognised inadvertent capsulotomy during suprapubic prostatectomy.
+ • Recognition: high drain output with drain creatinine consistent with urine. Rare presentations: urinary
+   ascites or urinoma ± infection.
+ • Management: leave drain and Foley until it stops — spontaneous resolution with time.
+
+
+
+
+                                                         page 11 of 13
+Chapter 152 — Simple Prostatectomy                                                          Recovery and Side Effects
+Ureteral orifice injury
+ • Direct injury or oedema-related obstruction from the bladder neck incision, haemostatic sutures, or
+   bladder neck–urethra reapproximation.
+
+Infection
+ • Relatively rare: cystitis, epididymitis, infected collection. LSP had lower UTI than OSP; robotic vs open
+   meta-analysis showed no UTI difference.
+
+Bladder neck contracture (BNC)
+ • OSP: 2–6%. MIS series: <1% in most; robotic and open were comparable in one comparison.
+ • Management: dilation with urethral sounds or direct-vision incision with a Collings knife to a 22-Fr
+   opening.
+
+Non-urological complications
+ • Deep vein thrombosis, pulmonary embolus, myocardial infarction, stroke — each <1%; mortality should
+   approach zero.
+
+RECOVERY AND SIDE EFFECTS
+ • Storage symptoms (frequency, urgency, urge incontinence) may last weeks to months; severe →
+   anticholinergic or β3-adrenergic receptor agonist.
+ • Stress and total incontinence: extremely rare — precise enucleation leaves the external sphincter
+   untouched; robotic series report urinary incontinence in <6%.
+     ◦ Mild stress incontinence → transurethral collagen injection; severe → artificial urinary sphincter.
+ • Erectile dysfunction: 3–5%, commoner in older men; in robotic series, erectile function usually
+   unchanged or improved.
+ • Retrograde ejaculation: 80–90% — expected.
+Concept — the adenoma lies inside the pseudocapsule and proximal to the verumontanum, so removing it
+destroys the bladder neck mechanism (retrograde ejaculation is near-universal) but spares the external
+sphincter and the neurovascular bundles outside the capsule (incontinence and erectile dysfunction are rare).
+
+ KEY POINTS
+   • Consider simple prostatectomy when obstructing tissue is >80 g or when sizable bladder diverticula or
+     calculi exist.
+   • Investigate for significant prostate cancer before surgery.
+   • Retrograde ejaculation is common and expected; urinary incontinence and erectile dysfunction are
+     very low risk.
+   • Complications: UTI, bladder neck contracture, urethral stricture, deep vein thrombosis, pulmonary
+     embolus, transfusion.
+   • Advantages over transurethral resection of the prostate (TURP): lower retreatment rate, more
+     complete removal under direct vision, no risk of transurethral resection (TUR) syndrome.
+   • Disadvantages of OSP over TURP: lower midline incision, longer hospitalisation, more perioperative
+     haemorrhage.
+   • Robotic vs OSP: smaller incisions, shorter catheterisation, much less haemorrhage and transfusion,
+     shorter stay, often same-day discharge.
+   • Modern open approaches: retropubic (transcapsular Millin or vesicocapsular) and suprapubic
+     (transvesical).
+
+
+                                                  page 12 of 13
+Chapter 152 — Simple Prostatectomy                                                                         Summary
+   • Suprapubic preferred over retropubic for a large median lobe, clinically significant diverticulum and/
+     or large bladder calculi.
+
+
+SIMPLE PROSTATECTOMY VS TURP
+
+ Simple prostatectomy advantages                          Open simple prostatectomy disadvantages
+ Lower retreatment; complete removal under vision; no    Lower midline incision; longer stay; more perioperative
+ TUR syndrome; handles diverticula/stones; suits men who haemorrhage — the disadvantages that MIS approaches
+ cannot be placed in lithotomy                           remove
+
+
+SUMMARY
+ • Open, MP or SP robotic simple prostatectomy is an excellent option for markedly enlarged BPH glands
+   with: (1) symptomatic outlet obstruction; (2) medical sequelae of obstruction; (3) concomitant bladder
+   conditions (diverticula, large calculi); (4) inability to adopt dorsal lithotomy for TURP.
+ • Proven, durable efficacy — improved symptom score, peak flow and PVR — with minimal complication
+   risk, including haemorrhage.
+ • Technology now allows routine surgery without continuous irrigation, with short catheter duration, even
+   with same-day discharge.
+
+
+
+
+                                                   page 13 of 13
+

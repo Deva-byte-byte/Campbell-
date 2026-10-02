@@ -1,0 +1,2362 @@
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                     Diagnostic Evaluation
+
+Chapter 150 — Evaluation and Nonsurgical Management
+of Benign Prostatic Hyperplasia
+Paolo Capogrosso, Edoardo Pozzi, Andrea Salonia and Francesco Montorsi
+
+ • Benign prostatic hyperplasia (BPH) was historically used for a disease of urinary dysfunction caused by an
+   enlarged prostate obstructing micturition. It is now a histological diagnosis: proliferation of smooth
+   muscle and epithelial cells within the prostatic transition zone.
+ • Lower urinary tract symptoms (LUTS) is the umbrella term for dysfunction of the storage and voiding
+   phases of micturition.
+ • The causal chain: BPH (histology) → benign prostatic enlargement (BPE) → benign prostatic obstruction
+   (BPO) → bladder outlet obstruction (BOO) → LUTS.
+ • LUTS are multifactorial and may also arise from:
+     ◦ Bladder dysfunction — detrusor overactivity (DO), detrusor underactivity (DUA)
+     ◦ Urethral stricture and urinary tract infection (UTI)
+     ◦ Non-urological conditions — hormonal, metabolic, cardiovascular and neurological disease
+ • A man with bothersome LUTS cannot be assumed to have BPH-related BOO until he has been fully
+   assessed. Guidelines therefore use a diagnostic algorithm that grades LUTS severity and identifies the
+   pathogenesis, and the pathogenesis then drives management.
+
+DIAGNOSTIC EVALUATION
+ • LUTS affect up to about half of men, impair health-related quality of life (QoL), and carry a substantial
+   social and economic burden.
+ • The work-up has two aims: to grade symptom severity and bother, and to identify the underlying
+   condition, because the underlying condition determines the correct treatment.
+ • Basic evaluation — history, physical examination and urinalysis — excludes most non-prostatic causes.
+ • Urinalysis (dipstick or sediment) is mandatory in every man with LUTS. It detects UTI, microhaematuria,
+   glycosuria and proteinuria.
+ • Additional tests are used to clarify the diagnosis, refine the severity estimate and predict the response to
+   treatment.
+ • Governing guidelines: American Urological Association (AUA) BPH guideline, updated 2021; European
+   Association of Urology (EAU) guideline on non-neurogenic male LUTS, updated 2022.
+
+Medical History
+ • A comprehensive history is the first step. Its purpose is to identify potential causes of LUTS so that
+   management can be tailored to the patient.
+ • Comorbidities associated with LUTS:
+     ◦ Diabetes mellitus and diabetes insipidus
+     ◦ Renal disease, heart failure and sleep apnoea
+     ◦ Neurological disease — Parkinson disease, multiple sclerosis, cerebrovascular disease, spinal cord
+       injury, and prolapsed intervertebral disc impinging on the cord
+ • Also ask about lower urinary tract (LUT) conditions, gross haematuria, and previous surgery on the
+   prostate, bladder or urethra.
+
+
+
+
+                                                             page 1 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                               Diagnostic Evaluation
+ • Medication review:
+     ◦ Loop diuretics and β-blockers worsen storage symptoms.
+     ◦ Anticholinergics may significantly impair bladder contractility.
+ • Lifestyle factors: increased fluid and caffeine intake worsen storage symptoms. LUTS and emotional
+   distress are bidirectionally associated.
+ • Reassure the patient that LUTS are not associated with prostate cancer (PCa) risk.
+
+Symptom Assessment
+LUTS BY PHASE OF MICTURITION
+ Voiding phase                                         Storage phase
+ Weak stream, incomplete emptying, hesitancy,          Frequency, urgency, urge incontinence, nocturia — now largely
+ straining, prolonged micturition, dribbling           encompassed by the term overactive bladder (OAB) syndrome
+ Frequently related to BOO, but not always             May also result from obstruction caused by BPE/BPH
+ attributable to BPE/BPH
+
+ • Grading severity and bother informs how severe the disease is, how it responds to therapy, and the risk
+   of progression.
+ • Validated patient-reported questionnaires are the gold standard for assessing severity in primary care.
+ • AUA Symptom Index (AUASI):
+     ◦ Seven questions — frequency, nocturia, weak stream, hesitancy, intermittency, incomplete emptying
+       and urgency — each scored 0–5, giving a total of 0–35.
+     ◦ Severity bands: mild 0–7, moderate 8–19, severe 20–35.
+     ◦ Internally consistent and reliable, correlates with the patient's global rating, and responsive to
+       treatment.
+ • International Prostate Symptom Score (IPSS): the World Health Organization (WHO) adaptation of the
+   AUASI (1993). It keeps the seven AUASI questions and adds one bother (QoL) question, and is the
+   international standard.
+ • IPSS subscales — storage (three questions) and voiding (four questions) — have been proposed but are
+   not yet validated.
+ • Neither the AUASI nor the IPSS diagnoses BOO. Symptom severity correlates poorly with the underlying
+   pathophysiology, and against multichannel urodynamics the IPSS has poor diagnostic accuracy for BOO,
+   both above and below a score of 20.
+OTHER SYMPTOM INSTRUMENTS
+ Instrument                                     What it measures / distinguishing feature
+ BPH Impact Index (BII) — AUA                   Four questions on the impact of symptoms: physical discomfort, worry
+                                                about health, bother, and interference with usual activities
+ International Consultation on                  Derived from the International Continence Society (ICS) male
+ Incontinence Modular Questionnaire —           questionnaire; bother for each symptom rated on a 0–10 analogue scale
+ Male LUTS (ICIQ-MLUTS)
+ Danish Prostate Symptom Score (DAN-            Correlates with severity; responsive to change after therapy
+ PSS)
+ Visual Prostate Symptom Score (VPSS)           Pictures instead of words; overcomes the IPSS's limitations in the elderly
+ (2011)                                         and men with limited education
+
+
+
+
+                                                             page 2 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                           Diagnostic Evaluation
+
+ Instrument                                     What it measures / distinguishing feature
+ Overactive Bladder Symptom Score               Storage symptoms and their QoL impact. The OAB-q detects occult
+ (OABSS) and Overactive Bladder                 storage LUTS in men whose IPSS suggests voiding symptoms only, and it
+ Questionnaire (OAB-q)                          tracks worse QoL independent of voiding severity
+
+ • Sexual function should be assessed, because LUTS/BPH are strongly linked to sexual dysfunction.
+
+Physical Examination
+ • Physical examination is a mandatory part of the basic work-up. Its aim is to identify disorders of the male
+   pelvis associated with LUTS.
+ • Suprapubic area: look for an overdistended, palpable or percussible bladder.
+ • Penis:
+     ◦ Meatal stenosis, which can itself cause BOO
+     ◦ Phimosis, and malignant lesions of the penile skin or foreskin
+     ◦ Ventral palpation for urethral masses, an indirect sign of stricture
+     ◦ Urethral discharge, a sign of urethritis
+ • Scrotum: look for orchiepididymitis. Testicular size and secondary sex characteristics (body hair, pattern
+   of hair loss) may reveal low testosterone, which accompanies central obesity and metabolic syndrome.
+ • Metabolic alterations are associated with BPE. Men with raised body mass index or features of metabolic
+   syndrome may benefit from lifestyle and dietary intervention.
+ • Neurological examination: motor and sensory function of the perineum and lower limbs.
+ • Digital rectal examination (DRE) is the last step and has a double aim:
+     ◦ A baseline estimate of prostate volume (PV)
+     ◦ Exclusion of PCa — nodules or increased consistency
+ • DRE has low sensitivity for PCa, with a modest positive predictive value. In the European Randomised
+   Study of Screening for Prostate Cancer (ERSPC), DRE combined with prostate-specific antigen (PSA)
+   testing reduced overdiagnosis.
+ • DRE underestimates PV, especially above 30 mL, because the lateral lobes are partly impalpable. Its
+   positive predictive value is nonetheless good at the 30 mL cut-off and near-perfect at 50 mL, and a flat or
+   normal prostate on DRE predicts PV <30 mL.
+ • PV does not correlate with LUTS severity or degree of obstruction, but the 30 mL and 50 mL cut-offs
+   predict treatment response and progression risk.
+ • Anal sphincter tone: a flaccid or spastic sphincter suggests neurological disease.
+
+Frequency–Volume Charts and Bladder Diaries
+ICS TYPES OF URINARY DIARY
+ Type                           Records
+ Micturition chart              Time of each void only, for at least 24 h
+ Frequency–volume chart         Time and voided volume of each void, day and night, for 24 h
+ (FVC)
+ Bladder diary                  Time and volume of each void plus fluid intake, incontinence episodes and degree, pad
+                                use, and urgency
+
+ • Derived measures: 24-hour voiding frequency, nocturnal polyuria index (the fraction of urine produced
+   at night), and mean voided volume.
+
+
+
+
+                                                             page 3 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                      Diagnostic Evaluation
+ • Indication: FVCs are recommended in the basic evaluation of predominant storage LUTS or nocturia.
+   They are the mainstay of nocturia assessment and are more accurate than recall-based measures such as
+   the IPSS.
+ • Nocturia (ICS definition) is waking at night one or more times to void. It is a storage symptom.
+ • Limitations:
+     ◦ Content and format vary widely between diaries.
+     ◦ Keeping a diary has a bladder-training effect that biases the measurements. Instructing the patient not
+       to change his routine reduces this.
+ • Duration is a trade-off: adherence falls with prolonged recording (7 days), while reliability rises with more
+   days. The reference duration is 3 days.
+
+Laboratory Tests
+ • Laboratory tests serve both as part of the basic evaluation and as secondary investigations in selected
+   settings.
+
+Urinalysis
+ • Dipstick and/or microscopy in all men with LUTS. It is costless and readily available, aids the differential
+   diagnosis, and prompts secondary tests.
+ • Pyuria with positive nitrite suggests UTI. However, dipstick and microscopy are insensitive for UTI in
+   painless LUTS (reference threshold 105 colony-forming units/mL).
+ • Gross haematuria → exclude bladder cancer.
+ • Proteinuria, glycosuria or ketonuria → suspect diabetes mellitus.
+ • Urine cytology in men with severe storage symptoms and dysuria, especially smokers.
+ • No controlled trials exist, but expert consensus holds that the benefit outweighs the cost.
+
+Prostate-Specific Antigen
+ • PSA has three roles in LUTS: assessing PCa risk, estimating PV, and predicting BPH outcomes.
+ • BPH and PCa frequently coexist at autopsy.
+ • A population association between LUTS and later PCa diagnosis is explained by detection bias: men
+   treated for LUTS are biopsied more often. In the placebo arm of the Prostate Cancer Prevention Trial
+   (PCPT), LUTS were not associated with PCa.
+ • Outlet obstruction is a late and, in the modern era, infrequent event in the natural history of PCa.
+ • Improving specificity in BPH: PSA velocity, free versus complexed PSA, PSA density, prostate cancer
+   antigen 3 (PCA3) and [−2]proPSA (p2PSA).
+ • Discuss the benefits and risks of PSA testing with every patient: false-positive and false-negative results,
+   and the complications of biopsy.
+ • Guideline indication: measure PSA if a PCa diagnosis would change management — that is, not in men
+   with a life expectancy under 10 years.
+ • PSA as a volume surrogate:
+     ◦ PSA predicts PV reasonably well (area under the curve about 0.76–0.78 across volume thresholds).
+     ◦ Age-specific PSA cut-offs for PV >40 mL: >1.6 ng/mL in the 50s, >2.0 in the 60s, >2.3 in the 70s.
+     ◦ Free PSA gives comparable accuracy, and both forms predict transrectal ultrasound (TRUS) volume to
+       within ±20% in most men.
+ • PSA as an outcome predictor:
+     ◦ Predicts change in LUTS, QoL and maximum flow rate (Qmax).
+
+
+                                                             page 4 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                     Diagnostic Evaluation
+     ◦ Baseline PSA consistently predicts acute urinary retention (AUR) and BPH surgery in the placebo arms
+       of the long-term trials.
+     ◦ Total PSA has a moderate positive predictive value for BOO.
+ • 5α-Reductase inhibitors (5ARIs) reduce serum PSA by 40–50% after 12 months. A pretreatment baseline
+   PSA is therefore essential for interpreting later values.
+
+Renal Function Assessment
+ • EAU: measure serum creatinine or estimated glomerular filtration rate (eGFR) when hydronephrosis,
+   renal insufficiency or urinary retention is suspected.
+ • AUA: does not explicitly recommend testing creatinine or eGFR.
+ • Renal impairment in LUTS is uncommon. In MTOPS (Medical Therapy of Prostatic Symptoms), under 1%
+   of men developed kidney failure over 4 years.
+ • Chronic kidney disease in men with LUTS is associated with low Qmax plus hypertension and/or
+   diabetes. Qmax correlates with eGFR, whereas PV, postvoid residual (PVR) and IPSS do not.
+ • Renal insufficiency increases the risk of complications after BPH surgery.
+
+Instrumental Investigations
+ • Some instrumental tests belong to the basic work-up. Others are reserved for selected cases, to guide
+   treatment choice and to distinguish BPE from other conditions.
+
+Postvoid Residual Volume
+ • Definition: the volume of urine remaining in the bladder at the end of micturition. There is no
+   standardised normal value.
+ • Practical thresholds:
+     ◦ <30 mL is non-significant.
+     ◦ Persistently >50 mL is important.
+     ◦ >300 mL is significant chronic PVR.
+     ◦ 200–300 mL may indicate DUA and predicts a poorer response to treatment (expert opinion).
+ • Large within-subject variability — repeated same-day measurements vary widely.
+ • ICS Urodynamics Committee guidance (2014; level of evidence 3):
+     ◦ Keep a short interval between voiding and measurement.
+     ◦ Urethral catheterisation is the gold standard, but it causes discomfort and carries a risk of UTI and
+       trauma.
+     ◦ Use ultrasound in practice — real-time transabdominal ultrasound or a portable bladder scanner.
+ • PVR correlates poorly with BOO: a raised PVR may reflect either BOO or DUA, and its predictive values
+   for BOO are modest.
+ • PVR predicts symptomatic deterioration but not surgery. A high PVR predicted a ≥4-point IPSS rise in
+   MTOPS (>39 mL) and the Alfuzosin Long-Term Efficacy and Safety Study (ALTESS) (>93 mL), but did not
+   correlate with the need for BPH surgery.
+ • PVR and AUR — conflicting evidence:
+     ◦ No association was found in men on α-blockers or watchful waiting (WW), nor in a 10-year cohort with
+       BOO.
+     ◦ PVR ≥500 mL predicted AUR recurrence.
+     ◦ In the MTOPS placebo arm, a rising PVR over time predicted AUR.
+
+
+
+                                                             page 5 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                                 Diagnostic Evaluation
+ • PVR and UTI: a large or persistent PVR is associated with UTI in at-risk groups (children, neurological
+   disease, diabetes), but not in adults without risk factors.
+ • Recommendation: measure PVR at baseline and at follow-up. Men with significant PVR who choose non-
+   surgical therapy should be monitored closely.
+
+Uroflowmetry
+ • A basic non-invasive urodynamic test that electronically records free flow. It integrates bladder function
+   and outlet into a single measurement.
+ • Main parameters: Qmax (peak flow rate, PFR), voided volume and flow pattern. Average flow rate is less
+   accurate than Qmax for detecting BOO.
+ • Sources of error:
+     ◦ Within-subject variation, both on the same day and between days.
+     ◦ A single free flow tends to underestimate the achievable Qmax.
+     ◦ Qmax depends on voided volume: readings are inaccurate below 125–150 mL.
+     ◦ Voiding position alters the parameters. The ICS advises voiding in the preferred position and
+       interpreting only voids the patient considers representative.
+ • Repeat the test to improve reliability, especially when the voided volume is <150 mL.
+ • Core limitation: uroflowmetry cannot distinguish BOO from DUA, or identify both together. DUA is
+   present in 9–48% of men undergoing urodynamics for non-neurogenic LUTS.
+ • Qmax cut-offs are a trade-off:
+     ◦ 10 mL/s — higher specificity, lower sensitivity.
+     ◦ 15 mL/s — higher sensitivity, lower specificity.
+ • The EAU systematic review confirmed that uroflowmetry alone cannot detect or quantify BOO.
+ • Qmax <15 mL/s is the expert-opinion working definition of outlet obstruction, but it does not separate
+   obstruction from bladder decompensation.
+ • Guideline status: optional in the initial assessment, but recommended before any active treatment. Also
+   valuable for monitoring treatment outcomes.
+Figure 150.1 — Uroflowmetry curve
+ • Plots flow (mL/s) against time, showing peak flow, average flow, voided volume, time to peak flow and
+   voiding time. Peak flow, flow pattern and voided volume are the key parameters.
+
+Urodynamics
+INVASIVE VERSUS NON-INVASIVE URODYNAMICS
+ Invasive                                                             Non-invasive
+ Catheters or transducers in the bladder and/or another               No catheter — uroflowmetry, PVR, penile compression–
+ body cavity                                                          release test, penile cuff
+ Gold standard for LUTS pathophysiology. Identifies DO,               Screening and monitoring. None is an accepted
+ DUA, low compliance and BOO                                          alternative to pressure–flow study
+
+ • Two components: filling cystometry (storage phase) and the pressure–flow study (PFS) (voiding phase).
+ • Videourodynamics adds contrast filling with simultaneous fluoroscopy. It shows diverticula,
+   trabeculation, vesicoureteric reflux and pelvic floor activity. There is no clear recommendation on its
+   use.
+
+
+
+
+                                                             page 6 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                      Diagnostic Evaluation
+Filling cystometry
+ • Sequence: continuous transurethral filling → simultaneous intravesical and abdominal pressure recording
+   → derived detrusor pressure. Sensations recorded: first sensation, first desire and strong desire to void.
+ • Main goal in suspected BOO: detect involuntary detrusor contractions (DO).
+ • DO is common in suspected BPH and is associated with age and degree of obstruction.
+ • Diagnosing DO identifies men likely to benefit from anticholinergics, alone or in combination.
+
+Pressure–flow study
+ • Definition: intravesical and abdominal pressure recorded during voiding with a urethral catheter in place,
+   plotted as flow (x-axis) against detrusor pressure (y-axis).
+PRESSURE–FLOW DIAGNOSIS
+                                                                            BOO           DUA
+ Flow rate                                                                  Low           Low
+ Detrusor pressure                                                          High          Low
+
+ • DUA predicts long-term symptomatic failure and lower flow after BPH surgery.
+ • Bladder contractility index neither improves after surgery nor declines with conservatively managed BOO.
+   Detrusor contractility is therefore independent of treatment and of the duration of obstruction.
+ • A randomised trial found that adding urodynamics to routine non-invasive care did not change IPSS or
+   surgery rates at 18 months.
+ • Not routine — neither the EAU nor the AUA recommends urodynamics routinely in male LUTS.
+ • Indications for PFS before invasive treatment:
+     ◦ Previous unsuccessful invasive treatment
+     ◦ Unable to void >150 mL
+     ◦ PVR >300 mL
+     ◦ Age >80 years with predominantly voiding LUTS
+     ◦ Age <50 years with predominantly voiding LUTS
+ • AUA consensus: PFS may be performed when Qmax >10 mL/s before surgery is considered.
+ • Also consider urodynamics in suspected neurological disease or after pelvic surgery.
+
+Imaging
+ • Imaging is mainly for surgical candidates, and for selected patients before medical treatment. Novel
+   ultrasound parameters of bladder and prostate morphology are under evaluation for diagnosing BOO.
+
+Upper-tract imaging
+ • Routine upper-tract ultrasound is not recommended, because hydronephrosis and other renal
+   abnormalities are infrequent in LUTS.
+ • Indications:
+     ◦ Raised creatinine or large PVR
+     ◦ History of haematuria, UTI, urolithiasis or previous urinary tract surgery
+ • Intravenous urography is obsolete in this setting.
+
+Prostate and bladder imaging
+ • Modalities: suprapubic ultrasound or TRUS. TRUS is the method of choice for PV, which drives treatment
+   choice and predicts outcome.
+ • 5ARI candidates need a PV measurement, because 5ARI outcomes depend on baseline gland volume.
+
+
+                                                             page 7 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                                Diagnostic Evaluation
+ • PV predicts progression and AUR:
+     ◦ TRUS PV predicted progression and invasive treatment in MTOPS.
+     ◦ In the ALTESS placebo arm, PV >49 mL carried a higher AUR risk.
+     ◦ In the Olmsted County study, AUR risk rose with prostate size.
+ • PV correlates only weakly with BOO; at a 40 mL cut-off it is neither sensitive nor specific.
+ • Measure PV by ultrasound (suprapubic or transrectal) before any BPH surgery, to choose the technique.
+ • A median (third) lobe protruding into the bladder guides the choice of minimally invasive approach.
+ULTRASOUND SURROGATES OF BOO
+ Parameter            Definition / method                          Cut-off    Status
+ Intravesical         Distance from the tip of the           ≥10 mm           Reasonable accuracy for BOO. High grade
+ prostatic            protruding prostate to the base at the (high            predicts future medical treatment and failed
+ protrusion (IPP)     bladder circumference; suprapubic      grade)           trial without catheter (TWOC) after AUR.
+                      ultrasound, sagittal plane, with 100–                   Thresholds and methods vary, so it is not
+                      200 mL in the bladder                                   recommended as an alternative to PFS
+ Bladder wall         Full thickness, from hyperechoic             2 mm       More accurate than Qmax, PVR, PV or
+ thickness (BWT)      mucosa to hyperechoic adventitia                        symptom score; independent predictor of
+                                                                              successful TWOC after AUR. Not
+                                                                              recommended, because wall hypertrophy is
+                                                                              multifactorial and good-quality studies are
+                                                                              lacking
+ Detrusor wall        Hypoechoic detrusor alone, between           —          Among the most accurate non-invasive tests;
+ thickness (DWT)      the mucosa and adventitia                               not recommended, for the same reasons as
+                                                                              BWT
+ Ultrasound-          Derived from bladder surface area,           Variable   Only two studies, with discordant thresholds
+ estimated            wall thickness and specific gravity of
+ bladder weight       bladder muscle; corrects for BWT's
+ (UEBW)               dependence on filling volume
+
+ • IPP rationale: greater protrusion is thought to cause greater restriction of the proximal urethra.
+
+Cystourethrogram
+ • Voiding cystourethrogram gives morphological and functional information: diverticula, vesicoureteric
+   reflux and urethral stricture. It is an additional test when stricture or a bladder abnormality is suspected.
+
+Cystourethroscopy
+ • What it shows: prostate and bladder-neck morphology, trabeculation and diverticula.
+ • It neither diagnoses BOO nor determines the need for treatment. Trabeculation grade (0 none → 3
+   severe with pseudodiverticula) correlates with BOO severity, but some obstructed men have a normal
+   bladder wall and some with severe trabeculation are unobstructed.
+ • Indications:
+     ◦ Gross haematuria or a history of bladder cancer
+     ◦ Recurrent UTI or urethral injury (to exclude stricture)
+     ◦ Previous prostatic or urethral surgery
+ • Surgical planning:
+     ◦ A median lobe must be assessed before prostatic urethral lift.
+     ◦ In young men with a small prostate and obstructive LUTS, exclude bladder-neck contracture before
+       surgery.
+
+
+
+                                                             page 8 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                            Diagnostic Evaluation
+Micro–Ribonucleic Acid
+ • Micro-ribonucleic acids (miRNAs) are small RNAs that act as central regulatory nodes across multiple
+   genes. When deregulated they act as oncomiRs or tumour-suppressor miRNAs.
+ • They are frequently altered in prostate, kidney and bladder cancer, and PCa-specific signatures have been
+   described.
+ • miR-221 is a potential biomarker and therapeutic target for early diagnosis and treatment of BPH
+   (systematic review and meta-analysis).
+
+Other Non-invasive Tests
+NON-INVASIVE TESTS FOR BOO
+ Test                      Principle                                                   Bottom line
+ Penile cuff test (PCT)    A cuff around the penis is inflated until flow stops; the High sensitivity, moderate
+                           pressure needed to stop flow equals isovolumetric bladder specificity (pooled data)
+                           pressure
+ External condom           Pressure measured at the external meatus                    Single study only
+ catheter method
+ Doppler detrusor          Colour Doppler of bladder-wall arteries; RI averaged from   Raised RI has a high positive but
+ resistive index (RI)      three sites; obstruction reduces detrusor blood flow        poor negative predictive value
+ Near-infrared             Tracks oxy- and deoxyhaemoglobin as markers of detrusor     High sensitivity and specificity;
+ spectroscopy (NIRS)       oxygenation, using an algorithm                             good concordance with PFS
+
+ • EAU panel (2017): the highest accuracy is with PCT, DWT, UEBW and NIRS.
+ • Because BOO is defined heterogeneously and studies are few, no non-invasive test is recommended as an
+   alternative to PFS.
+
+Practical Flowchart for the Evaluation of Patients With LUTS
+EAU algorithm (men aged ≥40 years)
+ • Baseline: history, including sexual function → symptom score → physical examination with DRE (PV;
+   excludes locally advanced PCa) → urinalysis → PVR → PSA if life expectancy >10 years and a PCa
+   diagnosis would change management.
+ • Abnormal DRE, suspected neurological disease, high PSA or abnormal urinalysis → evaluate under the
+   relevant guideline, and treat the underlying condition.
+ • Symptoms not bothersome and tests normal → no further evaluation or treatment.
+ • Significant PVR → renal ultrasound ± renal function.
+ • Bothersome symptoms:
+        ◦ FVC for predominant storage LUTS or nocturia.
+        ◦ Prostate ultrasound and uroflowmetry when medical or surgical treatment is contemplated →
+          medical treatment by algorithm.
+ • Surgery contemplated: endoscopy if it would alter the surgical choice, and PFS for the specific
+   indications. Invasive urodynamics are reserved for suspected DO or DUA, or failed invasive treatment.
+
+AUA algorithm
+ • Step 1: history, examination, IPSS and urinalysis. Consider PVR and/or flow if equipment is available. If
+   PVR >300 mL, irrespective of symptoms, manage as non-neurogenic chronic urinary retention (AUA white
+   paper).
+
+
+
+
+                                                             page 9 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+ • Step 2: counsel on options — behavioural and lifestyle change, medical therapy, procedural referral.
+   Standard care is to modify caffeine, fluids and contributing drugs, discuss lifestyle, and give a trial of
+   medical therapy.
+ • Step 3: reassess 4–12 weeks after starting treatment, with PVR and uroflowmetry as needed.
+     ◦ Improved → continue with routine follow-up.
+     ◦ Nocturia the main complaint → FVC and a medication trial. If it does not resolve, look for other causes
+       such as sleep apnoea.
+     ◦ Incomplete response → FVC, PVR/flow, urodynamics and cystoscopy. OAB-predominant → OAB
+       guideline. BOO → surgical algorithm. Mixed → BOO pathway plus the OAB guideline for storage
+       symptoms.
+ • Figure 150.2 reproduces both algorithms: (A) AUA 2021 basic management of male LUTS; (B) EAU 2022
+   assessment algorithm for men ≥40 years.
+
+ KEY POINTS — DIAGNOSTIC EVALUATION
+   • Begin with medical history, physical examination including DRE, and urinalysis.
+   • Grade symptom severity with a validated questionnaire (IPSS) as the first step of the work-up.
+   • Consider PSA when life expectancy is over 10 years.
+   • Ultrasound and uroflowmetry for moderate-to-severe symptoms.
+   • Invasive urodynamics when a bladder dysfunction (DO, DUA) is suspected.
+
+Concept — Every test in the male LUTS work-up is judged by one question: can it separate outlet obstruction
+from bladder dysfunction? Symptoms, flow, PVR, prostate volume and cystoscopy all fail that test, which is
+why only the pressure–flow study is the gold standard, and why it is reserved for the men in whom the
+answer changes surgery.
+
+MANAGEMENT OF LUTS CAUSED BY BENIGN PROSTATIC ENLARGEMENT
+ • Management is driven by three things: the patient's clinical characteristics, the baseline findings, and
+   patient preference.
+ • Two approaches: conservative management, or active management (medical or surgical).
+
+Conservative Management
+ • Indication (AUA and EAU): mild-to-moderate, uncomplicated LUTS with minimal bother.
+ • Complicating factors that exclude conservative management: gross haematuria, UTI, raised PSA, raised
+   PVR and neurological disease.
+ • Conservative management means watchful waiting (WW).
+
+Watchful Waiting
+ • Four components: reassurance, education, lifestyle intervention and periodic monitoring.
+ • Rationale: many men have indolent, non-progressive disease that never needs active treatment.
+ • Definition of BPH progression: deterioration of symptoms or flow, AUR, or the need for surgery.
+ • Natural history:
+     ◦ In community cohorts, AUR and BPH surgery are uncommon, and about half of men have stable
+       symptoms over 15 years.
+     ◦ In the placebo arms of the large trials, long-term AUR and surgery rates are in the low single figures to
+       about 10%.
+
+
+                                                         page 10 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+ • Veterans Affairs randomised trial — transurethral resection of the prostate (TURP) versus WW:
+     ◦ Both arms were told to avoid coffee, alcohol and aggravating drugs.
+     ◦ TURP was better for symptoms, flow and clinical failure. Clinical failure was defined as death, AUR,
+       high PVR, bladder stones, incontinence, renal failure or a high symptom score.
+     ◦ Yet most WW patients did not fail. Failures were mainly due to high PVR or symptom score.
+     ◦ About a quarter crossed over to surgery, and a high baseline bother score predicted crossover.
+     ◦ At 5 years, AUR and renal failure were rare under WW, and symptoms and bother actually fell.
+ • Self-management (three small-group sessions of education and lifestyle advice, to consensus standards)
+   reduced treatment failure and symptom scores versus standard care in randomised trials. It also reduced
+   nocturia, urgency and frequency.
+ • Follow-up: review yearly. Symptom progression or complications should prompt more active treatment.
+
+Lifestyle and Dietary Modifications
+COMPONENTS OF WW AND SELF-MANAGEMENT PROGRAMMES
+ Domain                   Advice
+ Education and            Causes of LUTS and normal prostate and bladder function; natural history and expected
+ reassurance              symptoms; no detectable PCa found
+ Fluid management         1500–2000 mL/day, adjusted for climate and activity; correct inadequate or excessive intake
+                          on the FVC; restrict fluid at inconvenient times (journeys, public outings); no fluid for 2 h
+                          before retiring for nocturia
+ Caffeine and alcohol     Substitute caffeine-free drinks; avoid evening alcohol for nocturia; replace large-volume
+                          drinks (beer) with small-volume ones (wine, spirits)
+ Concurrent               Retime drugs with urinary effects away from inconvenient times; replace antihypertensive
+ medication               diuretics via the general practitioner
+ Toileting and bladder Double voiding; urethral milking for postmicturition dribble; bladder retraining with
+ retraining            distraction (mental exercise, perineal pressure, pelvic floor contraction)
+ Miscellaneous            Avoid constipation
+
+ • Bladder retraining targets: a daytime interval of ≥3 h between voids and/or a daytime voided volume of
+   200–400 mL.
+ • Retraining sequence: suppress the urge for 1 min → 5 min → 10 min, increasing weekly → monitor with
+   FVCs.
+ • Dietary evidence (systematic review): higher intake of fluid, tea and caffeine worsens storage symptoms,
+   and lower alcohol intake is associated with less BPH and LUTS.
+
+ KEY POINTS — CONSERVATIVE MANAGEMENT
+   • Conservative management is preferred for mild symptoms without complicating factors.
+   • WW = education + lifestyle intervention + monitoring.
+   • Lifestyle measures: appropriate fluid intake; avoiding or restricting tea, caffeine and alcohol;
+     adjusting concurrent medication.
+   • Review yearly for worsening symptoms or complications.
+
+Concept — Watchful waiting is justified because the natural history of BPH is mostly benign: complications
+are rare, and symptoms often stabilise or improve. The decision to treat is therefore driven by bother and
+complicating features, not by symptom score or gland size alone.
+
+
+
+
+                                                         page 11 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+Medical Therapy
+ • Drug classes: α1-adrenergic blockers, 5ARIs, antimuscarinics, phosphodiesterase type 5 inhibitors
+   (PDE5Is), β3-agonists and plant extracts. Combinations play a major role.
+
+Impact and Trends of Medical Therapy Use for LUTS
+ • Surgery was the mainstay until the 1990s. Medical therapy then expanded, and US Medicare
+   prostatectomy numbers fell by about two-thirds between 1987 and 2000 before stabilising. TURP
+   numbers fell similarly in Europe.
+ • Patients prefer drugs to surgery, and urologists prescribe accordingly. In the European PROBE survey and
+   US physician surveys, medical therapy is the commonest treatment, and α1-blockers are the most
+   prescribed.
+ • Minimally invasive surgical therapies may narrow the gap between drug use and surgery in future.
+
+Clinical Indications
+ • Medical therapy is first line for bothersome LUTS without an absolute indication for surgery.
+ • Absolute indications for surgery: AUR, recurrent UTI, renal insufficiency, bladder stones and recurrent
+   gross haematuria.
+ • Tailor the drug to the symptom profile:
+     ◦ Predominantly voiding symptoms → α1-blocker, 5ARI or PDE5I, chosen according to severity, PV, PVR
+       and preference.
+     ◦ Predominantly storage symptoms → antimuscarinic or β3-agonist.
+
+     ◦ Nocturnal polyuria → education, lifestyle change and optional desmopressin, following the nocturia
+       guidelines.
+ • Nocturnal polyuria (ICS definition, on FVC): nocturnal output >20% of 24-h output in younger men, or
+   >33% in men over 65.
+ • Discuss the benefits and risks of every class before choosing.
+
+Figure 150.3 — Treatment algorithms
+ • (A) AUA trial of medical therapy:
+     ◦ α-Blocker first — or a PDE5I first if erectile dysfunction (ED) coexists.
+     ◦ Prostate >30 mL → consider adding a 5ARI.
+     ◦ Inadequate response or intolerance → consider a PDE5I trial.
+     ◦ Still inadequate → discuss surgery.
+ • (B) EAU conservative and medical algorithm (no indication for surgery):
+     ◦ Not bothersome → WW ± education and lifestyle advice.
+     ◦ Nocturnal polyuria predominant → education and lifestyle ± vasopressin analogue.
+     ◦ Storage predominant → education and lifestyle ± antimuscarinic or β3-agonist.
+
+     ◦ PV >40 mL and long-term treatment intended → education and lifestyle ± 5ARI ± α1-blocker or PDE5I.
+
+     ◦ Otherwise → education and lifestyle ± α1-blocker or PDE5I.
+
+     ◦ Residual storage symptoms → add an antimuscarinic or β3-agonist.
+
+GUIDELINE PROSTATE-VOLUME THRESHOLDS FOR ADDING A 5ARI
+
+
+
+
+                                                         page 12 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+
+ AUA                                                           EAU
+ Prostate >30 mL → consider adding a 5ARI to an α-             PV >40 mL and long-term treatment intended → 5ARI ± α1-
+ blocker                                                       blocker
+
+Assessment of Response to Medical Treatment: Outcome Measures
+ • Treatment goals: relieve symptoms, reduce BOO, improve emptying, ameliorate DO, reverse renal
+   insufficiency and prevent progression (symptom deterioration and/or complications needing surgery).
+ • End points: symptom severity, BOO and detrusor function.
+OUTCOME MEASURES IN MEDICAL THERAPY TRIALS
+ End point        Measure                                    Key point
+ Symptoms         AUASI/IPSS change — gold                   A 3-point fall is the minimum perceptible change. Men with
+                  standard                                   severe baseline symptoms need a proportionately smaller
+                                                             change to feel relief, so percentage reduction is more reliable
+                                                             than absolute change
+ BOO              PFS is the gold standard, but              Report the percentage change in Qmax: small absolute gains
+                  invasive and not used clinically;          are large percentages when baseline flow is low, and large
+                  recommended in trials. Qmax is the         absolute gains are small percentages when it is high. Bladder
+                  surrogate                                  contractility index is unchanged by treatment
+ Bladder          PVR                                        Cannot separate DUA from BOO; trials exclude high-PVR men,
+ emptying                                                    so post-treatment PVR data mislead; not standardised
+ Detrusor         Involuntary contractions on filling        Present in most men with severe BOO, but contractility does
+ overactivity     (spontaneous or provoked)                  not change with treatment, and urodynamic DO is not the
+                                                             same as OAB syndrome. Not a standard outcome
+
+ • Mean AUASI change by patient global rating: about −9 (marked relief), −5 (moderate), −3 (slight), about
+   −1 (unchanged) and about +3 (worse). The 3-point perceptible threshold derives from these values.
+ • Relieving BOO matters in its own right: obstruction causes profound ultrastructural and metabolic
+   change in the bladder.
+
+Interpreting the Literature: Bias in Trials of Medical Treatment for LUTS
+ • Randomised, placebo-controlled, double-blind trials are the best design, but five caveats apply:
+     ◦ Placebo effect: both symptom scores and uroflow improve on placebo. A 4-week placebo run-in is
+       ideal.
+     ◦ Sample size: too small a trial misses real differences; too large a trial makes clinically trivial differences
+       statistically significant. Power the trial at the planning stage.
+     ◦ Inclusion and exclusion criteria shape both efficacy and tolerability.
+     ◦ Adverse event (AE) ascertainment: checklists yield more AEs than spontaneous reporting, and efficacy
+       trials are underpowered for tolerability.
+     ◦ Duration: drugs may lose effect over time, and some AEs appear only late.
+Concept — Every trial result in this chapter is a change on a symptom scale, a change in Qmax, or a
+progression event. Each must be read against the placebo response and against the 3-point, percentage-
+based threshold of what the patient can actually perceive.
+
+Therapy With α1-Adrenergic Blockers
+ • α1-Blockers are first-line treatment for male LUTS (AUA, EAU).
+
+
+
+
+                                                         page 13 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+Rationale
+ • Adrenergic receptor (AR) families: α and β, with nine subtypes — α1a, α1b, α1d, α2a, α2b, α2c, β1, β2
+   and β3 (Figure 150.4). The α1 subfamily drives LUTS and is the drug target.
+
+ • Prostate and urethral smooth-muscle contraction is α1-mediated. α1a is the dominant prostatic subtype
+   (about 70% of α1-ARs).
+
+ • In BPH tissue the balance shifts further to α1a: α1a > α1b > α1d. α1a also predominates in the bladder
+   neck and prostatic urethra, and α1-ARs are present on prostatic glandular epithelium.
+
+α1-ADRENOCEPTOR SUBTYPES
+
+ Subtype Main tissue distribution                                           Clinical relevance
+ α1a         Liver, heart, central nervous system (CNS); dominant in        Dynamic obstruction; ejaculatory dysfunction;
+             prostate, bladder neck and prostatic urethra; iris dilator     intraoperative floppy iris syndrome (IFIS)
+ α1b         Blood vessels, spleen, kidney                                  Vascular AEs — hypotension, dizziness
+
+ α1d         Cerebral cortex, aorta; detrusor (twice as abundant as         Storage symptoms; facilitates the voiding reflex
+             α1a), urothelium, spinal afferents
+
+ • Mechanism: noradrenaline acting on α1-ARs (mainly α1a) in the bladder neck, proximal urethra and
+   prostate produces the dynamic component of BOO. Blockade relaxes this smooth muscle and lowers
+   sympathetic tone, relieving symptoms.
+ • Static component: α1-blockers suppress prostatic cell proliferation, but independently of α1-AR
+   blockade, and the therapeutic significance is unknown.
+ • Bladder effects:
+       ◦ α1-ARs are present in the detrusor, nerve endings, intramural ganglia, urothelium and interstitial cells.
+
+       ◦ Their effect on detrusor function is unclear — subtype expression in obstructed versus unobstructed
+         detrusor and phenylephrine data are inconsistent.
+       ◦ Possible benefit in DO: blockade increases bladder perfusion, and bladder ischaemia contributes to
+         LUTS and OAB.
+ • α1d and the voiding reflex:
+       ◦ α1d-knockout mice have larger bladder capacity and voided volumes.
+
+       ◦ α1-ARs regulate spinal afferent processing, and urothelial α1d blockade dampens afferent activity.
+
+       ◦ α1d-affine blockers increase volume at first and maximum desire to void and reduce DO; further
+         research is needed.
+ • Figure 150.5: map of α1a, α1b and α1d receptor distribution across the prostate and bladder neck.
+
+Classification of α1-Blockers
+
+TABLE 150.1 CLASSIFICATION OF α-ADRENERGIC BLOCKERS AND RECOMMENDED DOSES
+ Class            Drug                               Daily dose                    Administration
+ Non-             Phenoxybenzamine                   10 mg twice daily             No longer indicated for LUTS
+ selective
+ Selective        Prazosin; indoramin                2 mg twice daily; 20 mg       No longer indicated for LUTS
+                                                     twice daily
+                  Terazosin                          5 or 10 mg once daily
+
+
+                                                         page 14 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+
+ Class           Drug                                Daily dose                    Administration
+                                                                                   Start 1 mg at bedtime → titrate to 5–10
+                                                                                   mg
+                 Doxazosin immediate release         2–8 mg once daily             Start 2 mg at bedtime → titrate to 4–8
+                 (IR)                                                              mg
+                 Doxazosin sustained release         4 or 8 mg once daily          Start 4 mg after breakfast → 8 mg if
+                 (SR; GITS)                                                        needed; no titration
+ Uroselective    Alfuzosin extended release          10 mg once daily              With the same meal each day; no titration
+                 (ER)*
+                 Tamsulosin                          0.4 mg (to 0.8 mg) once       With the same meal each day
+                                                     daily
+                 Silodosin                           8 mg once daily               With a meal
+                 Naftopidil                          25–75 mg/day                  Marketed only in Asia
+
+ • *Alfuzosin is uroselective clinically, not by receptor subtype — its preferential effect is on the urogenital
+   system. Administration follows the patient information leaflet. Some formulations are market-specific:
+   prazosin 0.5 mg is Europe-only; some terazosin and prazosin strengths are US-only.
+ • The table's pattern: the quinazolines (terazosin, doxazosin IR) need bedtime titration because of first-
+   dose hypotension. Uroselective agents are fixed-dose, taken with food.
+ • Trap: doxazosin GITS starts at 4 mg without titration, unlike doxazosin IR.
+EVOLUTION OF α-BLOCKERS
+                                       Receptor
+ Generation                            profile         Advantage                                 Limitation
+ Non-selective                         α1 + α 2        First proof of symptom and flow           Serious cardiovascular AEs
+ (phenoxybenzamine)                                    improvement in placebo-controlled         — abandoned
+                                                       trials
+ Selective, short-acting (prazosin)    α1              Better tolerated                          Short half-life — at least
+                                                                                                 twice-daily dosing
+ Selective, long-acting (terazosin,    α1 (all         Once daily                                Vascular AEs from vascular
+ doxazosin)                            subtypes)                                                 smooth-muscle relaxation
+
+ Uroselective (tamsulosin,             α1a/α1d >       Efficacy maintained with fewer            Ejaculatory AEs (except
+ alfuzosin, silodosin, naftopidil)     α1b             vascular AEs                              alfuzosin)
+
+
+Review of the Literature on Currently Approved α1-Blockers
+ • Level 1a evidence exists for every compound from pooled analyses.
+ • Efficacy and tolerability are dose dependent, so trials use two designs: titration to a fixed dose (dose–
+   response) or titration to response or maximal dose (practical threshold dose).
+ • Phenoxybenzamine, prazosin and indoramin are no longer used and are not reviewed.
+ • BOO index (BOOI) meta-analysis (randomised and observational studies): every α1-blocker lowers BOOI,
+   and silodosin lowers it most. This is a subgroup analysis, not a head-to-head comparison.
+
+Terazosin
+ • First phase III trial (placebo vs 2, 5 and 10 mg for 12 weeks):
+     ◦ Dose-dependent gains in symptoms and flow, best at 10 mg.
+     ◦ AEs were minor and reversible. Postural hypotension was significantly increased at 5 mg. Syncope was
+       under 0.5%.
+
+
+
+                                                         page 15 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+ • Largest trials:
+     ◦ A four-arm 1-year trial titrated most men to 10 mg; it improved symptoms and flow, with dizziness,
+       asthenia and postural hypotension in excess.
+     ◦ Hytrin Community Assessment Trial (HYCAT) — 1 year, community setting, AUASI ≥13, Qmax <15 mL/
+       s, titrated 1 → 5–10 mg. Terazosin roughly doubled the placebo symptom reduction (about 38% vs
+       18%) and improved flow. About one in five men discontinued because of AEs, dizziness being the
+       commonest (Figure 150.6).
+ • Quinazoline effect: terazosin induces prostatic epithelial and stromal apoptosis through its quinazoline
+   structure, not through α-blockade. However, it does not reduce PV.
+ • Lowers BOOI — a clinically significant effect on obstruction.
+ • Systematic review: efficacy confirmed, favouring 10 mg; AEs double to quadruple discontinuation.
+ • Titrate to avoid first-dose hypotension and syncope: 1 mg at bedtime → 5–10 mg.
+ • Blood pressure effect depends on baseline status:
+     ◦ Normotensive → trivial fall.
+     ◦ Untreated or poorly controlled hypertension → clinically significant fall.
+     ◦ Controlled hypertension → no significant change.
+TABLE 150.2 RANDOMISED PLACEBO-CONTROLLED TRIALS EVALUATING THE EFFICACY AND TOLERABILITY OF
+TERAZOSIN (rebuilt; five trials, 1992–1996)
+ Design              Population                Symptoms                   Qmax              Signature AEs
+ Fixed dose          Age 50–75, Boyarsky Dose dependent;          Significant at            Asthenia, dizziness, postural
+ 2/5/10 mg, 12       obstructive symptoms significant at 5 and 10 10 mg only                hypotension
+ weeks                                    mg
+ Titrated to 10      Age 45–80; IPSS ≥8 or     About double the           Significant gain Dizziness, asthenia, postural
+ mg, 24–52           Boyarsky criteria         placebo reduction                           hypotension, peripheral oedema,
+ weeks                                                                                     amblyopia
+ HYCAT, titrated     Age ≥55, IPSS ≥13;        About 38% vs 18%           Significant gain Dizziness (UTI more common on
+ to 10 mg, 52        community                                                             placebo)
+ weeks
+
+ • The table tests that terazosin works at every duration but is titration-dependent and dose-limited by
+   vascular AEs. Trap: the benefit is best at 10 mg, but so is the dizziness.
+
+Doxazosin
+ • Randomised trials: titration to 8 mg achieved about double the placebo symptom reduction and a modest
+   Qmax gain. Hypotension was seen even in normotensive men, with dizziness, fatigue and headache;
+   discontinuation for AEs was several-fold higher than placebo.
+ • Hypertensive men (titration to fixed dose 2–12 mg):
+     ◦ Symptoms improved at 4 and 8 mg.
+     ◦ Flow improved at 4–12 mg within 1 week.
+     ◦ Standing systolic pressure fell substantially, confirming a clinically relevant BP effect in hypertensive
+       men.
+ • Normotensive men: smaller blood-pressure falls.
+ • Pooled analysis: postural hypotension is about 2.7 times more likely than on placebo, with excess
+   dizziness and asthenia.
+ • Durability: maintained at long term in the Prospective European Doxazosin and Combination Therapy
+   (PREDICT) trial (1 year) and MTOPS (4 years).
+
+
+                                                         page 16 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+ • MTOPS: doxazosin alone reduced clinical progression by 39% versus placebo.
+ • Lowers BOOI.
+ • Gastrointestinal therapeutic system (GITS; SR):
+     ◦ Lower peak concentration with a sustained trough.
+     ◦ Efficacy equal to standard doxazosin, with fewer AEs and withdrawals.
+     ◦ Faster onset, because treatment can start at 4 mg without titration.
+     ◦ Many patients stay on 4 mg. Start 4 mg at breakfast.
+ • Quinazoline apoptosis — raised epithelial and stromal apoptotic index after 3 months, possibly via
+   transforming growth factor-β1. As with terazosin, PV does not change.
+
+TABLE 150.3 RANDOMISED PLACEBO-CONTROLLED TRIALS EVALUATING THE EFFICACY AND TOLERABILITY OF
+DOXAZOSIN (rebuilt; six trials, 1994–2003)
+ Design                          Population                          Efficacy                       Signature AEs
+ Fixed 4 mg or titrated 1–8      Urodynamic BOO or                   Symptoms and flow              Dizziness, fatigue,
+ mg, 14–17 weeks                 symptomatic BPH, Qmax 5–15          better than placebo            headache
+                                 mL/s
+ Titration to fixed dose 2–12    Hypertensive men                    Symptoms at 4 and 8 mg; Dizziness, headache,
+ mg, 16 weeks                                                        flow at 4–12 mg         fatigue; standing BP fall
+ Standard 1–8 mg vs GITS 4–      Age 50–80, IPSS ≥12                 Both formulations              Fewer AEs with GITS
+ 8 mg vs placebo, 17 weeks                                           equivalent
+ PREDICT, 1–8 mg, 1 year         Age 50–80, IPSS ≥12                 Sustained benefit              Dizziness, asthenia,
+                                                                                                    postural hypotension
+ MTOPS, 1–8 mg, about 4.5        Age ≥50, IPSS ≥8, Qmax 4–15         Sustained; progression         Dizziness, asthenia,
+ years                           mL/s                                ↓39%                           postural hypotension
+
+ • The table tests that doxazosin's benefit is durable to 4 years. Trap: doxazosin alone reduces overall clinical
+   progression (mostly symptomatic), but not AUR or surgery.
+
+Alfuzosin
+ • Clinically uroselective without in vitro subtype selectivity. It has a high prostate-to-vascular tissue
+   selectivity ratio and poor CNS penetration, giving efficacy with fewer cardiovascular AEs (postural
+   hypotension, syncope, vertigo, dizziness) and CNS AEs (somnolence, asthenia).
+ • Formulation history: IR 2.5 mg three times daily → SR 5 mg twice daily → 10 mg once daily. Each is
+   effective for storage and voiding symptoms, with AEs close to placebo.
+ • The once-daily formulation matched IR efficacy, had fewer vasodilatory AEs and no first-dose BP effect
+   (normotensive or hypertensive). Benefit was maintained in a 9-month extension and confirmed in ALFUS.
+   No titration; take with the same meal daily.
+ • Meta-analysis: efficacy lasts up to 3 years. Dizziness is the commonest AE; other vasodilatory effects are
+   rare. Lowers BOOI.
+TABLE 150.4 RANDOMISED PLACEBO-CONTROLLED TRIALS EVALUATING THE EFFICACY AND TOLERABILITY OF
+ALFUZOSIN (rebuilt; five trials, 1991–2001)
+ Formulation                    Duration     Efficacy                                           Tolerability
+ IR 7.5–10 mg/day               4–26         Symptoms better than placebo in the larger         Dizziness, headache, rash —
+                                weeks        trial; flow change not significant                 similar to placebo
+ SR 10 mg/day (5 mg twice       12 weeks     Symptoms and flow better                           Vasodilatory AEs equal to
+ daily)                                                                                         placebo
+                                12 weeks     Equal to IR; both better than placebo
+
+
+
+                                                         page 17 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+
+ Formulation                    Duration     Efficacy                                           Tolerability
+ Once daily 10 mg vs IR 7.5                                                                     Fewer vasodilatory AEs than
+ mg vs placebo                                                                                  IR
+ Once daily 10 mg vs 15 mg 12 weeks          10 mg effective; 15 mg no better for flow          Dizziness, headache
+ vs placebo
+
+ • The table tests that 10 mg once daily is the dose ceiling. Trap: escalating to 15 mg adds no benefit.
+
+Tamsulosin
+ • Receptor profile: α1a and α1d affinity — marginally higher for α1d than α1a, but 10-fold higher for α1a
+   than α1b. This gives efficacy with good tolerability.
+
+ • Pivotal phase III trial (0.4 vs 0.8 mg vs placebo, 13 weeks):
+     ◦ Both doses improved symptoms and flow; 0.8 mg was slightly better.
+     ◦ Flow rises within 4–8 h of the first dose, and symptoms improve by 1 week (Figure 150.7 — near-
+       maximal response by about 8 weeks).
+     ◦ AEs at 0.4 mg matched placebo; 0.8 mg brought more rhinitis, dizziness and abnormal ejaculation.
+     ◦ No BP change in normotensive or hypertensive men. Sustained to 40 weeks.
+ • Meta-analysis: 0.8 mg gives slightly more relief, but AEs and withdrawals are dose dependent. 0.4 mg is
+   the dose of choice, after the same meal daily.
+ • Relieves storage as well as voiding symptoms. It reduces nocturia (with a large QoL gain) and weak
+   stream, and increases bladder blood flow (preclinical).
+ • Lowers BOOI.
+TABLE 150.5 RANDOMISED PLACEBO-CONTROLLED TRIALS EVALUATING THE EFFICACY AND TOLERABILITY OF
+TAMSULOSIN (rebuilt; five trials, 1995–1998)
+ Dose        Efficacy vs placebo                     Tolerability
+ 0.2 mg      Not significant                         Similar to placebo
+ 0.4 mg      Symptoms and flow significantly         Overall and cardiovascular AEs similar to placebo; rhinitis; abnormal
+             better                                  ejaculation in a minority
+ 0.6–0.8     Slightly greater, not clearly superior More rhinitis, dizziness and abnormal ejaculation
+ mg          to 0.4 mg
+
+ • The table tests the dose–response: 0.4 mg is the plateau of efficacy, and above it only AEs rise. Trap:
+   abnormal ejaculation is dose dependent.
+
+Silodosin
+ • Most α1a-selective agent: several hundredfold over α1b and about 50-fold over α1d.
+
+ • Registration programme (moderate-to-severe LUTS, PV >20 mL, Qmax <15 mL/s):
+     ◦ American pooled trials: superior to placebo for IPSS and flow. Onset is rapid — symptoms within 3–4
+       days, flow within 2–6 h.
+     ◦ European three-arm trial: superior to placebo and non-inferior to tamsulosin 0.4 mg (Figure 150.8).
+     ◦ Anejaculation was the commonest AE (over a quarter of men), but few discontinued. Dizziness was
+       next; orthostatic hypotension was rare.
+     ◦ Extensions to 9 months showed further storage and voiding relief.
+ • Dose: 8 mg daily with a meal.
+ • Meta-analyses:
+     ◦ Storage, voiding and QoL are better than placebo and equal to tamsulosin 0.4 mg.
+
+
+                                                         page 18 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                Management of LUTS Caused by Benign Prostatic Enlargement
+     ◦ Also effective in severe LUTS — at least two of: IPSS 20–35, QoL 5–6, Qmax <5 mL/s or PVR ≥100 mL,
+       and PV ≥50 mL.
+ • Minimal cardiovascular effect: no meaningful QT prolongation or BP change.
+ • Anejaculation is more frequent than with placebo or tamsulosin and is linked to α1a affinity. Paradoxically,
+   men with anejaculation had better symptom and flow responses, and discontinuation for anejaculation
+   is low.
+ • Greatest BOOI reduction of all α1-blockers. The clinical benefit tracks the fall in detrusor pressure at
+   Qmax.
+TABLE 150.6 RANDOMISED PLACEBO-CONTROLLED TRIALS EVALUATING THE EFFICACY AND TOLERABILITY OF
+SILODOSIN (rebuilt; Japanese, American and European registration trials, 2006–2011)
+ Trial setting                 Population                     Efficacy                           Signature AE
+ Japanese, 12 weeks            IPSS ≥8, PV ≥20 mL, Qmax IPSS and flow better than                Abnormal ejaculation,
+                               <15 mL/s, PVR <100 mL    placebo                                  respiratory infection, thirst
+ American (pooled), 12         IPSS ≥13, Qmax 4–15 mL/        IPSS and flow better than          Retrograde ejaculation,
+ weeks                         s, PVR <250 mL                 placebo                            dizziness, orthostatic
+                                                                                                 hypotension
+ European (vs placebo and      As American                    IPSS better than placebo;          Retrograde ejaculation
+ tamsulosin), 12 weeks                                        flow not significantly
+                                                              different
+
+ • The table tests that silodosin's efficacy is class-standard but its ejaculatory AE is its signature. Trap:
+   silodosin is not more effective than tamsulosin 0.4 mg.
+
+Naftopidil
+ • The only α1d-selective agent (about threefold over α1a). All trials are Japanese and none is placebo
+   controlled.
+ • Versus low-dose tamsulosin 0.2 mg (six trials, including a crossover):
+     ◦ Non-inferior.
+     ◦ Greater relief of storage symptoms — frequency, urgency, nocturia — consistent with α1d selectivity.
+
+ • Versus silodosin: silodosin is superior for IPSS and QoL, with no difference in flow. Silodosin was also
+   better in OAB with BPE.
+ • Dose: 75 mg vs 25 mg gives similar symptom relief, but better flow (and better voiding relief in moderate
+   LUTS) at 75 mg. Evening dosing of 75 mg improves nocturia-related QoL. Dizziness and hypotension are
+   the commonest AEs.
+ • Evidence limits (early meta-analysis):
+     ◦ Few trials, and no placebo control.
+     ◦ Comparator tamsulosin dose not used in the West.
+     ◦ Duration only 4–16 weeks.
+ • Updated meta-analysis: equal efficacy to tamsulosin and silodosin; sexual AEs similar to tamsulosin and
+   fewer than silodosin. Lowers BOOI.
+TABLE 150.7 RANDOMISED TRIALS EVALUATING THE EFFICACY AND TOLERABILITY OF NAFTOPIDIL VERSUS ACTIVE
+CONTROL (rebuilt; five Japanese trials, 2003–2017)
+ Comparison                               Symptoms                           Flow            Tolerability
+ Naftopidil 25–50 mg vs tamsulosin        No difference                      —               Few AEs in either arm
+ 0.2 mg (crossover)
+
+
+
+                                                          page 19 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                Management of LUTS Caused by Benign Prostatic Enlargement
+
+ Comparison                               Symptoms                           Flow             Tolerability
+ Naftopidil 25 vs 75 mg                   No difference                      Better at 75     Few AEs
+                                                                             mg
+ Naftopidil 50–75 mg vs silodosin         Mixed; silodosin better in         No               Loss of ejaculation far
+ (three trials)                           the larger trials                  difference       commoner with silodosin
+
+ • The table tests the α1d trade: comparable efficacy with much less ejaculatory dysfunction than silodosin.
+
+Comparison of α-Adrenergic Blockers
+ • Only head-to-head randomised trials support comparison, because placebo-controlled trials differ in
+   design, populations and AE recording.
+ • Key head-to-head results:
+     ◦ Terazosin 5 mg = doxazosin 4 mg in efficacy and tolerability. Both need titration.
+     ◦ Doxazosin GITS vs tamsulosin (crossover): greater IPSS fall with doxazosin, same flow; more
+       hypotension with doxazosin (not significant).
+     ◦ Doxazosin vs alfuzosin (both titrated): slightly greater symptom improvement with doxazosin, but
+       twice the AE withdrawal. No trial compares once-daily alfuzosin with other α1-blockers.
+
+     ◦ Alfuzosin vs tamsulosin: equal efficacy and tolerability. Alfuzosin causes more vasodilatory AEs
+       (especially elderly and cardiovascular patients); tamsulosin causes more ejaculatory dysfunction.
+     ◦ Silodosin vs tamsulosin: silodosin is superior to tamsulosin 0.2 mg but equal to 0.4 mg. AEs and
+       withdrawals are equal, but anejaculation is higher with silodosin at any tamsulosin dose.
+     ◦ Tamsulosin vs alfuzosin vs silodosin (three-arm): silodosin gave faster improvement at 1 week; AEs
+       comparable.
+     ◦ Naftopidil: little comparative evidence, all from Asian populations.
+TABLE 150.8 RANDOMISED TRIALS COMPARING DIFFERENT α-ADRENERGIC BLOCKERS (rebuilt; eight head-to-head
+trials, 1995–2017)
+ Comparison                          Efficacy                                       Tolerability
+ Terazosin 5 mg vs doxazosin 4       Equal                                          Equal
+ mg
+ Terazosin 2 mg vs tamsulosin 0.2 Tamsulosin slightly better (symptoms); Dizziness and hypotension higher with
+ mg                               flow equal                             terazosin
+ Doxazosin GITS vs tamsulosin        Doxazosin better (IPSS); flow equal            Similar
+ (crossover)
+ Doxazosin vs alfuzosin (titrated)   Doxazosin slightly better (symptoms)           Similar AEs; more withdrawals on
+                                                                                    doxazosin
+ Alfuzosin IR vs tamsulosin 0.4      Equal                                          Similar; ejaculatory AEs slightly more with
+ mg                                                                                 tamsulosin
+ Silodosin vs tamsulosin (0.2 or     Equal                                          Ejaculatory disorder significantly higher
+ 0.4 mg)                                                                            with silodosin
+ Tamsulosin vs alfuzosin vs          Comparable                                     Abnormal ejaculation with silodosin
+ silodosin
+
+ • The table tests one pattern: no α1-blocker is clearly more effective than another. The differences are in
+   side-effect profile — vascular AEs with the non-uroselective agents, ejaculatory AEs with the α1a-
+   selective agents.
+
+
+
+
+                                                          page 20 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+Safety Profile of α1-Blockers in Specific Populations
+ • Overall safety is good. Differences follow subtype selectivity and pharmacokinetics. AEs arise from the
+   vascular, CNS and urogenital effects of each drug.
+ • Commonest AEs across the class: dizziness, asthenia, hypotension and anejaculation.
+
+Haemodynamic side effects
+ • Vascular AEs are more frequent with terazosin and doxazosin than with alfuzosin, tamsulosin or
+   silodosin, because of their α1b (vascular) affinity. Consequences: falls in systolic or diastolic BP, dizziness,
+   asthenia, headache, palpitations and syncope.
+ • Orthostatic stress test (the best method): symptomatic hypotension is a standing systolic fall ≥20 mm Hg
+   with symptoms. On this test, terazosin caused far more symptomatic postural hypotension than
+   tamsulosin (Figure 150.9).
+ • "First-dose hypotension" is the reason terazosin and doxazosin must be titrated.
+ • Indirect comparison: more dizziness with doxazosin and terazosin than with tamsulosin and alfuzosin.
+   Dizziness and asthenia are the main causes of withdrawal.
+ • Dizziness and asthenia are partly central, determined by the speed of BP lowering and CNS penetration.
+ • Among uroselective agents:
+     ◦ Alfuzosin has slightly more cardiovascular effect than tamsulosin. Alfuzosin IR lowered supine and
+       standing BP where tamsulosin did not, and tamsulosin caused less symptomatic orthostatic
+       hypotension than alfuzosin 5 mg twice daily in men ≥60 (Figure 150.9).
+     ◦ Silodosin has no excess hypotension or vascular AEs versus placebo or tamsulosin.
+
+α1-Blocker therapy in patients with cardiovascular disease
+ • Doxazosin and terazosin were first developed as antihypertensives. Their BP effect matters only in men
+   who are hypertensive at baseline (definitions and BP methods vary between studies).
+ • Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT):
+     ◦ Hypertensive men with at least one other coronary risk factor were randomised to chlorthalidone,
+       doxazosin, amlodipine or lisinopril.
+     ◦ The doxazosin arm was stopped because of excess congestive heart failure versus chlorthalidone. It
+       was not in excess versus the other agents.
+     ◦ This raised concern for doxazosin in cardiovascular disease, but no major cardiovascular AEs occurred
+       in the LUTS trials.
+ • Interactions with concomitant medication:
+     ◦ Alfuzosin → more cardiovascular AEs with antihypertensives or vasodilators.
+     ◦ Tamsulosin → no significant interaction with β-blockers, calcium antagonists or angiotensin-converting
+       enzyme inhibitors; tolerability unchanged in hypertension or cardiovascular disease.
+     ◦ Silodosin → no excess cardiovascular AEs with antihypertensives.
+ • Use α1-blockers cautiously with antihypertensives, and never combine two α-blockers.
+
+α1-Blockers in the elderly
+ • Tolerability matters more in older men. Dizziness and orthostatic hypotension lead to falls, fractures and
+   institutionalisation. Older men adapt less to orthostatic stress, have stiffer vessels, and rely more on
+   ancillary vasoconstriction.
+
+
+
+
+                                                         page 21 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Management of LUTS Caused by Benign Prostatic Enlargement
+ • Terazosin and doxazosin may be less well tolerated. Pooled analyses showed no age-dependent AE rise,
+   but those patients were highly selected.
+ • Alfuzosin caused more cardiovascular AEs above age 75 (open-label studies).
+ • Osteoporotic Fractures in Men study: falls are associated with moderate-to-severe LUTS, suggesting a
+   contribution from LUTS medication.
+ • Population cohort (men ≥66): new alfuzosin, tamsulosin or silodosin use increased falls and fractures
+   versus unexposed controls.
+ • Claims data: severe hypotension needing admission is more frequent with tamsulosin than with a 5ARI,
+   especially in the first 8 weeks. Warn every patient about first-dose hypotension.
+ • Silodosin: dizziness and orthostatic hypotension are similar above and below 65, and there is no BP
+   change in older men on antihypertensives.
+
+α1-Blockers and sexual function
+ • Erectile function:
+     ◦ Any improvement is attributed to LUTS relief and QoL gain, plus cavernosal α-blockade relaxing
+       smooth muscle.
+     ◦ ED incidence equals placebo in randomised trials, and is 3–5% overall in the AUA meta-analysis.
+     ◦ No effect on desire.
+ • Ejaculatory dysfunction — three proposed mechanisms:
+     ◦ Bladder-neck relaxation → retrograde ejaculation (the original explanation).
+     ◦ Direct seminal vesicle and vas effect → anejaculation (emission failure).
+     ◦ Central action via dopamine D2-like and serotonin 5-HT1A receptors (tamsulosin).
+
+ • Ranking of ejaculatory risk:
+     ◦ Doxazosin and terazosin — no detrimental ejaculatory effect in trials.
+     ◦ Tamsulosin 0.8 mg — about 18% anejaculation.
+     ◦ Silodosin — highest: about 14% vs 2% for tamsulosin head-to-head. In the meta-analysis the odds of
+       ejaculatory disorder were far higher for silodosin (odds ratio about 32) than for tamsulosin (about 9).
+ • Real-life silodosin: most men report anejaculation or hypospermia, some with impaired orgasm.
+   Younger men are more affected.
+ • Alfuzosin has the lowest ejaculatory risk among uroselective agents.
+
+Other complications — intraoperative floppy iris syndrome
+ • IFIS was first reported with tamsulosin during cataract surgery.
+ • Triad:
+     ◦ Flaccid iris that billows with normal intraoperative fluid currents
+     ◦ Iris prolapse towards the incisions
+     ◦ Progressive miosis despite preoperative dilation
+   Most patients show only one or two signs.
+ • Mechanism: α1a-blockade of the iris dilator. Long-term blockade may cause dilator atrophy (structural
+   iris changes are documented), which explains why IFIS occurs years after stopping the drug.
+ • Risk by drug: highest with tamsulosin (meta-analysis), then alfuzosin, then doxazosin and naftopidil.
+   Silodosin has not been specifically studied, although one observational series found high rates.
+
+
+
+
+                                                         page 22 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                               Androgen Manipulation
+ • Stopping the drug before cataract surgery does not reduce the risk. The ophthalmologist must ask about
+   current or past α1-blocker use and be prepared, and the prescriber must tell the patient to report it.
+
+α1-BLOCKERS — SIGNATURE TOXICITIES
+
+ Drug                Vascular (hypotension, dizziness)          Ejaculatory           IFIS                     Titration
+ Terazosin           High                                       Low                   Reported                 Yes
+ Doxazosin IR /      High (GITS lower)                          Low                   Lower                    IR yes; GITS
+ GITS                                                                                                          no
+ Alfuzosin           Intermediate — elderly, with               Lowest of             Intermediate             No
+                     antihypertensives                          uroselectives
+ Tamsulosin          Low                                        Dose-dependent        Highest                  No
+ Silodosin           Lowest                                     Highest               Not specifically         No
+                                                                                      studied
+ Naftopidil          Dizziness, hypotension                     Less than silodosin   Lower                    No
+
+Summary — α1-Blockers
+ • Efficacy: significant improvement in symptoms and flow, durable in longitudinal trials.
+ • Main AEs: asthenia, dizziness, anejaculation and orthostatic hypotension.
+ • Superiority of one agent over another is unproven. The distinction is safety: uroselective agents
+   (tamsulosin, silodosin) → fewer vascular AEs, more ejaculatory disorders.
+ • First line for bothersome moderate-to-severe LUTS. Counsel on sexual and vascular AEs, and monitor BP
+   in the first week.
+Concept — The α1-blocker class is a single efficacy with three toxicity profiles, and receptor subtype predicts
+which: α1b → vascular (terazosin, doxazosin), α1a → ejaculation and IFIS (silodosin, tamsulosin), α1d →
+storage benefit (naftopidil). Choosing an α-blocker means choosing the side effect the patient can best
+tolerate.
+
+ANDROGEN MANIPULATION
+ • Hormonal therapy for BPH has been studied since the 1970s and remains important for LUTS caused by
+   BPE.
+
+Rationale for Androgen Manipulation
+ • The prostate is androgen dependent. Both testosterone and dihydrotestosterone (DHT) drive BPH.
+ • DHT is made from testosterone by two 5α-reductase isoenzymes:
+     ◦ Type 2 — prostate and genital tissue.
+     ◦ Type 1 — liver, skin and other extraprostatic organs.
+ • DHT dissociates from the androgen receptor more slowly and is intrinsically more potent than
+   testosterone in the prostate.
+ • Castration or drugs that suppress testosterone or DHT reduce PV. This is thought to relieve the static
+   component of BOO.
+ • First limitation of the hypothesis: LUTS do not depend entirely on prostate size.
+
+Classification of Pharmacological Agents
+ • Historical sequence:
+     ◦ Surgical castration shrank the enlarged prostate (1890s).
+
+
+                                                         page 23 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                           Androgen Manipulation
+     ◦ Medical castration (1969): cyproterone acetate, a progestational antiandrogen, caused prostatic
+       atrophy by suppressing testicular steroid synthesis without suppressing luteinising hormone.
+     ◦ Non-steroidal antiandrogens (flutamide, bicalutamide) block testosterone and DHT binding at the
+       androgen receptor.
+     ◦ Gonadotropin-releasing hormone (GnRH) analogues also shrink the gland.
+ • Problem with all of these: AEs from disrupting the hypothalamic–pituitary–gonadal (HPG) axis.
+ • 5ARIs block testosterone → DHT conversion in prostatic stromal cells without significant interaction with
+   the HPG axis.
+TABLE 150.9 ANDROGEN MANIPULATION: CLASSIFICATION OF PHARMACOLOGIC AGENTS AND DOSAGES (rebuilt)
+ Class                Agents and doses
+ GnRH analogues       Leuprolide 3.75 mg intramuscularly monthly; nafarelin acetate 400 µg subcutaneously daily;
+                      cetrorelix (antagonist) loading dose then 1 mg subcutaneously daily, three regimens studied
+ Progestational       17α-Hydroxyprogesterone caproate 200 mg intramuscularly weekly; megestrol 40 mg three times
+ agents               daily orally; a further agent at 250 mg orally three times daily
+ Antiandrogens        Flutamide (100–250 mg three times daily); oxendolone 200 mg intramuscularly weekly;
+                      bicalutamide 50 mg daily; zanoterone 100–800 mg daily; chlormadinone acetate 50 mg daily
+ 5ARIs                Finasteride 5 mg daily; dutasteride 0.5 mg daily; both for at least 6 months
+
+ • Warnings printed with both 5ARIs:
+     ◦ PSA falls by about 50%.
+     ◦ Not indicated for PCa prevention, because of an increase in high-risk disease.
+     ◦ Warn about sexual dysfunction and depression.
+ • The table's pattern: every class except the 5ARIs acts on the HPG axis or the androgen receptor, and so
+   carries systemic hormonal toxicity. Only the 5ARIs survive into clinical practice.
+
+Interpreting the Literature on Androgen Manipulation
+ • Maximal PV reduction takes 6 months, so trial outcomes are reliable only at or after 6 months.
+ • Larger prostates benefit most, and most trials enrolled large glands. The results may not generalise to all
+   men with BPH.
+ • AEs may have been underestimated in trials not designed to capture them.
+ • The US Food and Drug Administration (FDA) reviewed 5ARI safety in 2011 because of emerging risks of
+   depression and sexual dysfunction.
+ • Metabolic and cardiovascular safety data are heterogeneous and need cautious interpretation.
+
+Review of the Literature
+ • Finasteride and dutasteride are the paradigm of androgen suppression in BPH. The multicentre
+   randomised trials follow.
+
+Finasteride
+ • Mechanism: selective type 2 5α-reductase inhibitor. It lowers intraprostatic DHT but not to castrate
+   levels, because type 1 activity in skin and liver persists.
+ • North American Finasteride Trial (first multicentre randomised trial; 1 or 5 mg for 12 months; mean PV
+   about 60 mL):
+     ◦ 5 mg gave significant symptom relief and a modest Qmax gain.
+     ◦ PV fell by about 20% at 12 months.
+     ◦ PV change did not track clinical response — the benefit is not purely volumetric.
+
+
+                                                         page 24 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                          Androgen Manipulation
+     ◦ PSA fell by 50%, starting from 3 months.
+     ◦ AEs: decreased libido and ejaculatory disorders. Impotence was increased at 1 mg.
+ • Two-year progression trial (mean PV 40 mL):
+     ◦ The placebo effect vanished by 8 months and was back to baseline at 2 years, whereas finasteride
+       symptom scores fell steadily.
+     ◦ PV fell by about 18%, sustained at 24 months; PSA fell by about half.
+     ◦ Fewer AUR and surgery events.
+     ◦ Sexual dysfunction about double placebo.
+ • Open-label extensions to 3 and 5 years: symptom and flow effects maintained, with most change
+   between 12 and 18 months. Sexual dysfunction remained in excess.
+ • Proscar Long-Term Efficacy and Safety Study (PLESS) — at the time, the longest randomised BPH drug
+   trial (4 years; mean PV 55 mL; moderate-to-severe symptoms):
+     ◦ AUR or surgery reduced by 51%.
+     ◦ AUR: 7% on placebo vs 3% on finasteride (57% reduction).
+     ◦ Surgery: 10% on placebo vs 5% on finasteride (55% reduction).
+     ◦ PV >55 mL → 70% risk reduction.
+     ◦ Men with large glands should be told about retention risk and the benefit of finasteride.
+ • Dosing: 5 mg daily, with or without food. Early improvement is possible, but at least 6 months may be
+   needed for a perceptible benefit.
+ • Meta-analysis: moderate symptom relief at 1 year, fewer progression and AUR events, and greatest
+   benefit when the prostate is >40 mL.
+ • Prostate Cancer Prevention Trial (PCPT):
+     ◦ Finasteride reduced diagnosed PCa, but high-grade disease increased, possibly from a volume effect
+       (a smaller gland makes biopsy more sensitive).
+     ◦ Finasteride increases the sensitivity of PSA for predicting PCa.
+ • A Swedish population cohort of 5ARI users who had PSA testing showed lower PCa mortality with longer
+   5ARI exposure.
+ • Refractory BPH haematuria: finasteride markedly reduces 1-year recurrence versus placebo.
+TABLE 150.10 PLACEBO-CONTROLLED TRIALS ASSESSING FINASTERIDE FOR TREATMENT OF BENIGN PROSTATIC
+HYPERPLASIA (rebuilt; four trials, 1992–1998)
+ Trial              Duration     Symptoms                    Qmax          PV                 Signature AEs
+ North American     12           5 mg significant; 1 mg Improved at        About −20%         Decreased libido,
+ (1 and 5 mg)       months       not                    both doses                            ejaculatory disorder,
+                                                                                              impotence
+ Two-year trials    24           Modest, sustained           Modest gain   About −15 to −19%; Sexual dysfunction;
+                    months       fall; placebo effect                      placebo glands     impotence, decreased
+                                 lost                                      grew               libido
+ PLESS              4 years      Modest fall                 Modest gain   About −18%;        Impotence, decreased
+                                                                           placebo +14%       libido, decreased
+                                                                                              ejaculate
+
+ • The table tests that finasteride's symptom benefit is modest, and its real value is shrinking the gland and
+   preventing progression. Placebo prostates keep growing. Trap: the benefit is delayed and volume
+   dependent.
+
+
+
+
+                                                         page 25 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                            Androgen Manipulation
+Dutasteride
+ • Mechanism: dual inhibitor of 5α-reductase types 1 and 2. It lowers serum DHT more than finasteride.
+ • Pivotal pooled phase III trials (2 years; moderate-to-severe LUTS, Qmax ≤15 mL/s, PV ≥30 mL, PSA 1.5–10
+   ng/mL):
+     ◦ Serum DHT down about 90%.
+     ◦ AUASI fell about twice as much as on placebo; modest Qmax gain.
+     ◦ PV down about 26% (Figure 150.10 — also transition-zone volume).
+     ◦ AUR risk ↓57%; BPH surgery ↓48% (Figure 150.11 — Kaplan–Meier curves).
+     ◦ Well tolerated. ED and decreased libido were the commonest AEs, and fell significantly in the second
+       year.
+ • Four-year open-label extension (placebo patients switched to dutasteride):
+     ◦ Further symptom and flow improvement.
+     ◦ No further PV reduction after 24 months.
+     ◦ AUR and surgery rare between months 24 and 48.
+     ◦ Sexual AEs declined.
+ • Meta-analysis confirmed modest symptom and flow improvement and PV reduction.
+ • Dosing: 0.5 mg daily, with or without food; at least 6 months for benefit.
+ • Dutasteride vs finasteride (two trials, the larger randomised and double-blind over 1 year): no difference
+   in symptoms, flow, PV reduction or AEs.
+ • Reduction by Dutasteride of Prostate Cancer Events (REDUCE) trial (men with BPH and a previous
+   negative biopsy; 4 years):
+     ◦ 23% relative reduction in PCa.
+     ◦ Small increase in Gleason ≥8 cancers.
+     ◦ The FDA Oncologic Drugs Advisory Committee voted against PCa risk reduction (December 2010),
+       and the application was withdrawn.
+     ◦ Expect a 50% PSA fall; dutasteride improves PSA's accuracy for predicting biopsy results.
+TABLE 150.11 PLACEBO-CONTROLLED TRIALS ASSESSING DUTASTERIDE FOR TREATMENT OF BENIGN PROSTATIC
+HYPERPLASIA (rebuilt; four trials, 2002–2012)
+ Trial               Entry                      Duration     Efficacy                           Signature AEs
+ Pivotal pooled      Age ≥50, IPSS ≥12,         24           Symptoms, Qmax and PV all          Impotence, decreased
+ phase III           Qmax ≤15 mL/s, PV          months       significantly better               libido, ejaculation
+                     ≥30 mL, PSA 1.5–10                                                         disorder
+ Smaller trials      IPSS ≥8–12, PV ≥30 mL      6–12         PV reduced; symptoms and flow      Decreased libido,
+ (Western and                                   months       significant at 12 months but not   gynaecomastia (rare)
+ Asian)                                                      at 6 months
+
+ • The table tests that the 30 mL PV entry threshold and the 6-month lag are intrinsic to 5ARI efficacy. Trap:
+   a 6-month trial can miss the symptomatic benefit.
+FINASTERIDE VERSUS DUTASTERIDE
+                                Finasteride                              Dutasteride
+ Isoenzyme target               Type 2 only                              Types 1 and 2
+ Serum DHT suppression          Partial                                  About 90% (greater)
+ Dose                           5 mg daily                               0.5 mg daily
+ Landmark trials
+
+
+
+                                                         page 26 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                             Androgen Manipulation
+
+                                Finasteride                              Dutasteride
+                                PLESS (progression); PCPT                Pivotal phase III (progression); REDUCE
+                                (prevention)                             (prevention)
+ AUR / surgery reduction        57% / 55%                                57% / 48%
+ Clinical efficacy head to      No difference
+ head
+ PCa prevention                 Fewer cancers but more high-grade disease → not licensed for prevention
+
+Zanoterone
+ • Steroidal competitive androgen-receptor antagonist.
+ • Dose-ranging trial (100–800 mg, 6 months):
+     ◦ Flow improved at 200 mg only.
+     ◦ No effect on symptoms or PV.
+     ◦ Estradiol and testosterone rose, with breast pain and gynaecomastia.
+ • Minimal efficacy with excess AEs → trial stopped and development abandoned.
+
+Flutamide
+ • Non-steroidal antiandrogen that blocks testosterone and DHT binding to the androgen receptor.
+ • Placebo-controlled trials:
+     ◦ No benefit in symptoms, PV or flow.
+     ◦ High attrition made one trial uninterpretable.
+     ◦ Breast tenderness and diarrhoea were frequent.
+ • Dose-ranging trial: dose-dependent PV reduction (up to about a quarter at 6 months), but no other
+   efficacy benefit. A quarter to over a third stopped because of diarrhoea or breast tenderness.
+
+Cetrorelix
+ • GnRH antagonist giving submaximal, non-castrating androgen blockade. The degree of suppression can
+   be titrated — relevant if shrinkage and AEs (hot flushes, low libido, impotence) occur at different
+   suppression levels.
+ • Open-label pilot (loading dose then 1 mg/day for 2 months):
+     ◦ Large IPSS fall that continued after stopping, to 18 months.
+     ◦ PV fell during treatment, then rose slightly after stopping.
+     ◦ Testosterone reached castrate levels after loading, then was only partially suppressed.
+     ◦ Most men lost libido and nocturnal tumescence.
+ • Randomised dose-regimen trial:
+     ◦ Rapid IPSS fall in all arms, still significant 4 months after treatment ended, with sustained flow
+       improvement.
+     ◦ PV fell persistently only at 10 mg.
+     ◦ No clinically significant sexual change — suggesting a possible intermittent regimen.
+ • Sustained-release intramuscular formulation: relief lasted up to 6 months after 2 weeks of treatment.
+ • Drawbacks: injection and cost. There may be a role if a single injection gives durable relief with minimal
+   AEs.
+
+
+
+
+                                                         page 27 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                           Androgen Manipulation
+Chlormadinone Acetate
+ • Steroidal antiandrogen that blocks epithelial testosterone uptake and intracellular DHT binding. It lowers
+   testosterone by about 90%.
+ • Uncontrolled study (16 weeks, followed to 48):
+     ◦ IPSS improved from week 8 and was sustained.
+     ◦ Qmax improved and stayed raised.
+     ◦ PV fell by about a quarter.
+     ◦ Erectile function deteriorated significantly.
+
+Aromatase Inhibitors
+ • Rationale — oestrogens contribute to BPH:
+     ◦ They act on stromal oestrogen receptors, affecting proliferation and differentiation; the stroma's role
+       is shown in embryonic mouse models.
+     ◦ In dogs, androgen plus oestrogen causes earlier and more extensive BPH, and oestrogens potentiate
+       androgen-induced BPH.
+ • Mechanism: block testosterone → oestrogen conversion.
+ • Atamestane (highly selective): lowered serum and intraprostatic oestradiol and oestrone, and modestly
+   reduced PV, but gave no symptom or flow benefit. A dose-dependent rise in peripheral androgens may
+   explain the failure.
+ • Anastrozole in hypogonadal men: no symptom relief.
+
+Selective Oestrogen and Androgen Receptor Modulators
+ • Selective oestrogen receptor modulators (SERMs) — tamoxifen, raloxifene, toremifene:
+     ◦ Enhance or inhibit oestrogen-receptor activity by receptor type → antiproliferative and pro-apoptotic
+       effects on prostatic epithelium and stroma in vitro.
+     ◦ Tamoxifen shrank canine prostates. In men it lowered nuclear androgen receptors in resected tissue.
+     ◦ Already used for PCa prevention and to mitigate androgen-deprivation AEs (fracture risk, lipids).
+     ◦ Possible future role as an adjunct to antiandrogen therapy.
+ • Selective androgen receptor modulators (SARMs):
+     ◦ Partial antagonists in the prostate; full agonists in muscle and pituitary.
+     ◦ Suppress prostate growth while preserving peripheral androgen action.
+     ◦ In rats: dose-dependent PV reduction without changes in testosterone or gonadotropins. Human
+       trials are needed.
+
+Tolerability and Safety of Androgen Manipulation Therapy for BPH
+ • General safety:
+     ◦ Good overall. Apart from sexual AEs, finasteride and dutasteride show no excess AEs, serious AEs or
+       withdrawals versus placebo.
+     ◦ In PLESS, withdrawal for AEs was not higher than placebo. REDUCE showed no AE excess.
+ • Emerging concerns: insulin resistance and diabetes, cardiovascular disease, bone, and depression.
+5ARI SAFETY CONCERNS — SIGNAL VERSUS EVIDENCE
+ Concern              Signal                                     Clinical evidence                          Verdict
+ Diabetes / insulin Dual inhibition impairs insulin              REDUCE, PCPT and population cohorts        Not
+ resistance         sensitivity and increases fat (animal);      show no excess; one cohort excess versus   confirmed
+                                                                 tamsulosin (no untreated control)
+
+
+                                                         page 28 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                             Androgen Manipulation
+
+ Concern              Signal                                     Clinical evidence                            Verdict
+                      fatty liver (animal); low testosterone
+                      linked to type 2 diabetes
+ Bone and muscle      Osteoporosis diagnosis more frequent       Bone mineral density unchanged over 4        Not
+                      on finasteride (population study)          years (finasteride) and with dutasteride;    confirmed
+                                                                 DHT suppression does not blunt
+                                                                 testosterone's anabolic effect
+ Cardiovascular       More cardiac failure on dutasteride in     PCPT and large cohorts show no excess        Not
+                      REDUCE                                     heart failure or myocardial infarction       confirmed
+ Depression           FDA added depression to labelling          PCPT: more depression on finasteride.        Real —
+                      (2011) after post-marketing reports        Large cohort: more depression and self-      counsel
+                                                                 harm, but not suicide; confirmed in a
+                                                                 register study
+
+ • Proposed mechanism for depression: testosterone and DHT modulate the neuroendocrine stress
+   response and the synthesis of neuroactive steroids.
+
+5α-Reductase Inhibitors and Sexual Dysfunction
+ • Both agents cause ED, decreased libido and ejaculatory disorders.
+ • Mechanisms: reduced DHT lowers cavernosal nitric oxide and nitric oxide synthase, and structural
+   cavernosal changes occur.
+ • Trial evidence:
+     ◦ ED about 2.5 times placebo with finasteride over 2 years.
+     ◦ PLESS: more decreased libido and decreased ejaculate volume at 1 year.
+     ◦ Dutasteride trials and REDUCE: comparable rates.
+ • Meta-analyses: ED and low libido significantly more common on 5ARIs, with no difference between
+   finasteride and dutasteride. Ejaculatory disorders are also increased.
+ • Time course — conflicting data:
+     ◦ PCPT and PLESS: sexual AEs wane over time, no longer significant after 2–4 years.
+     ◦ Meta-analysis: higher risk with more than 1 year of treatment.
+     ◦ Preclinical: erectile function recovers incompletely after dutasteride is stopped.
+ • Post-finasteride syndrome:
+     ◦ Persistent sexual, physical and neurological symptoms after stopping a 5ARI.
+     ◦ Proposed explanation: irreversible enzyme inhibition with epigenetic change.
+     ◦ Prevalence and risk factors are poorly studied; some authors consider it a nocebo or delusional
+       phenomenon amplified by misinformation.
+ • Counsel every patient about ED, low libido and ejaculatory disorders.
+
+Summary — Androgen Manipulation
+ • Finasteride: PV down about 20%, with modest symptom and flow benefit. Long term, AUR or surgery is
+   reduced by 51%. Dutasteride is comparable.
+ • Both work best in larger prostates and need more than 6 months for PV reduction and symptom relief.
+ • Safety: more sexual dysfunction and depressive symptoms, but a low overall AE rate. No solid evidence
+   of diabetes or cardiovascular risk.
+ • REDUCE and PCPT: fewer cancers, but slightly more high-grade tumours → neither drug is indicated for
+   PCa prevention.
+
+
+
+                                                         page 29 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                          Muscarinic Receptor Antagonists
+ • Antiandrogens: no clinically significant efficacy, with problematic toxicity. The role of GnRH antagonists
+   needs further study.
+ • Guideline indication for a 5ARI: enlarged prostate (>40 mL) with moderate-to-severe symptoms.
+Concept — 5ARIs treat the gland, not the symptom. They are slow, volume-dependent and modest
+symptomatically, but they are the only drug class that changes the natural history (AUR, surgery). They also
+halve PSA, which is both a trap and a tool.
+
+MUSCARINIC RECEPTOR ANTAGONISTS
+ • Indication: BOO with predominant or bothersome storage LUTS.
+ • Storage symptoms affect a sizeable minority of men in Europe and North America, and some also have
+   BOO.
+ • Antimuscarinics are the mainstay of OAB treatment, and their use in selected men with LUTS has grown
+   over two decades.
+
+Rationale and Indication in Patients With BPH
+ • Innervation: parasympathetic cholinergic fibres act on detrusor muscarinic receptors. These receptors
+   drive involuntary contractions and set the sensory threshold.
+ • Five subtypes (M1–M5); M2 and M3 predominate in the bladder. Blockade reduces involuntary
+   contractions and raises the contraction threshold → less urgency, greater capacity.
+ • Antimuscarinics act mainly on sensory (afferent) pathways rather than motor pathways, possibly also via
+   the urothelium and CNS.
+ • EAU and AUA endorse antimuscarinics for BOO with predominant storage LUTS, used cautiously because
+   of the risk of raised PVR and retention.
+ • Licensed agents: darifenacin, fesoterodine, oxybutynin, propiverine, solifenacin, tolterodine and
+   trospium.
+TABLE 150.12 ANTIMUSCARINIC DRUGS FOR THE TREATMENT OF LOWER URINARY TRACT SYMPTOMS
+ Drug                                    Formulation (mg)                Dosing
+ Darifenacin ER                          7.5, 15                         Once daily
+ Fesoterodine ER                         4, 8                            Once daily
+ Oxybutynin ER                           5, 10, 15 (15 US only)          Once daily (up to 20 mg/day)
+ Oxybutynin IR                           2.5 (Europe only), 5            3–4 times daily (maximum 20 mg/day)
+ Propiverine ER / IR (not US)            30 / 15                         Once daily / 2–3 times daily
+ Solifenacin                             5, 10                           Once daily
+ Tolterodine IR / ER                     1, 2 / 2 (US only), 4           Twice daily / once daily
+ Trospium IR / ER                        20 / 60                         Twice daily / once daily
+
+ • The table's pattern: ER formulations allow once-daily dosing and improve tolerability. Oxybutynin IR is
+   the outlier, dosed three to four times daily.
+
+Efficacy
+ • Tolterodine after α1-blocker failure (open label): reduced frequency and nocturia; flow and PVR rose
+   slightly; no AUR.
+ • First large randomised trial in proven BOO + DO (tolterodine vs placebo, 12 weeks):
+     ◦ Excluded: PVR >40% of cystometric capacity, or retention in the previous year.
+     ◦ BOOI fell; volume at first contraction and maximum cystometric capacity rose.
+
+                                                         page 30 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                       Muscarinic Receptor Antagonists
+     ◦ PVR rose modestly, but AEs equalled placebo and retention was rare.
+ • Four-arm trial (tolterodine ER vs tamsulosin vs combination vs placebo, OAB with BOO symptoms):
+   tolterodine monotherapy was no better than placebo for urgency or IPSS. Men with PVR >200 mL or
+   Qmax <5 mL/s were excluded, and AUR was rare.
+ • Propiverine monotherapy reduced frequency and urgency in BOO (small trial).
+ • Meta-analysis: no reduction in total IPSS, no Qmax change, a small PVR rise, and no significant AUR
+   increase.
+ • Verdict: monotherapy efficacy in BOO/BPH is controversial, but storage relief is proven.
+ • Predictors of success:
+     ◦ Higher IPSS storage subscore and higher Qmax.
+     ◦ Baseline PSA <1.3 ng/mL (post hoc) → storage benefit from tolterodine alone. A small prostate with
+       OAB favours monotherapy.
+ • Safety in BOO:
+     ◦ Minimal PVR rise; AUR no more frequent than placebo.
+     ◦ Preclinically, antimuscarinics are unlikely to aggravate voiding in BOO.
+     ◦ Every safety trial excluded PVR ≥200 mL — safety is established only for low PVR.
+TABLE 150.13 RANDOMISED TRIALS INVESTIGATING ANTIMUSCARINIC DRUGS IN PATIENTS WITH BPH (rebuilt; six
+trials, 1999–2009)
+ Regimen                       Population                    Storage outcome            Flow / PVR            AUR
+ Tamsulosin ± propiverine      DO                            Frequency lower with       PVR unchanged         Rare
+                                                             the combination
+ Tamsulosin ± tolterodine      Urodynamic BOO +              QoL improved only with     No difference         None
+                               detrusor instability          the combination
+ Doxazosin ± propiverine       OAB + urodynamic              Daytime frequency          PVR rose with the     None
+                               BOO, low PVR                  lower with the             combination
+                                                             combination
+ Tolterodine vs placebo        Urodynamic BOO + DO           —                          PVR rose; BOOI fell Equal to
+                                                                                                            placebo
+ Tolterodine vs tamsulosin IPSS ≥12, frequency and Only the combination                 No significant        <1% in any
+ vs combination vs placebo urgency, PVR <200 mL    beat placebo                         change                arm
+ Propiverine vs naftopidil     IPSS ≥8, frequency and        Frequency reduced in all   PVR rose on           Low, with
+ vs combination                urgency                       arms                       propiverine           propiverine
+
+ • The table tests that antimuscarinic benefit in BPH is mostly seen in combination, and that the price is a
+   small PVR rise, not retention, in carefully selected men. Trap: every trial excluded high PVR.
+
+Tolerability and Safety Profile
+ • Muscarinic receptors in brain, heart, gut, salivary glands and lacrimal glands cause the class AEs: dry
+   mouth (commonest), constipation, nasopharyngitis, dizziness, and CNS effects (cognitive dysfunction,
+   delirium).
+ • Tolerability varies with receptor selectivity and molecular structure, which determines brain penetration.
+ • Oxybutynin IR: the first OAB drug, with poor adherence and early discontinuation.
+ • Tolterodine ER: better tolerated — dry mouth is the only excess AE. In BPH, dry mouth and constipation
+   are commonest.
+ • Solifenacin and fesoterodine cause more dry mouth and constipation than tolterodine ER.
+ • Combination with α1-blockers or 5ARIs produces only the AEs expected from each drug.
+
+
+                                                         page 31 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                   β3-Agonist (Mirabegron)
+ • CNS risk: the concern is greatest in the elderly and those with CNS disease. Oxybutynin crosses the
+   blood–brain barrier most → highest CNS risk. Avoid CNS-active antimuscarinics in cognitive impairment.
+
+Summary — Antimuscarinics
+ • Mainstay of OAB, but few trials exist in BPH with predominant storage symptoms.
+ • Safe with low PVR and no history of AUR.
+ • Monotherapy efficacy is controversial; there is some benefit for storage symptoms in smaller glands.
+ • Guideline indication: moderate-to-severe LUTS, mainly storage symptoms, baseline PVR <200 mL.
+Concept — Antimuscarinics treat the bladder, not the outlet. Their use in BPH is therefore governed by one
+safety question: how well does the detrusor empty? That is why every recommendation is anchored to a
+PVR ceiling of 200 mL.
+
+β3-AGONIST (MIRABEGRON)
+
+Indication, Efficacy and Safety Profile
+ • β3 is the predominant β-AR in the bladder. Stimulation increases capacity without changing micturition
+   pressure, PVR or the voiding contraction.
+ • Mirabegron is the first internationally approved β3-agonist for storage symptoms. It relaxes detrusor
+   smooth muscle and promotes storage.
+ • Efficacy:
+     ◦ Effective for OAB in phase III randomised trials.
+     ◦ Meta-analysis (mostly female participants): reduced frequency, urgency and incontinence; increased
+       voided volume; and improved nocturia versus both placebo and tolterodine.
+ • Urodynamic safety in men with LUTS and BOO (phase II, 50 or 100 mg, 12 weeks):
+     ◦ Qmax and detrusor pressure at Qmax unchanged — no impairment of voiding.
+     ◦ PVR rose dose-dependently at 100 mg.
+     ◦ Frequency and urgency episodes fell, but IPSS storage and voiding subscores did not differ from
+       placebo.
+     ◦ Supports safety in BOO and a role for storage symptoms.
+ • Possible outlet effect (preclinical): urethral relaxation via urethral β3-ARs plus selective α1a/α1d
+   blockade; similar prostatic smooth-muscle relaxation.
+ • Tolerability versus antimuscarinics:
+     ◦ Constipation, dry mouth and neurological impairment are uncommon.
+     ◦ No impairment of voiding.
+     ◦ Pooled data (over a third with BPH history): AEs equal to placebo; dry mouth less than with
+       solifenacin or tolterodine; constipation no different.
+     ◦ Commonest AEs: nasopharyngitis, headache and hypertension (hypertension at a rate similar to
+       placebo).
+     ◦ BP rise of ≤1 mm Hg versus placebo.
+
+Mirabegron and Cardiovascular Safety
+ • Approved by the FDA and European Medicines Agency for OAB in 2012.
+
+
+
+
+                                                         page 32 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                       β3-Agonist (Mirabegron)
+ • Signals:
+     ◦ 50 mg daily → slight rise in pulse and blood pressure.
+     ◦ 200 mg → QT prolongation in women.
+     ◦ Regulators required a post-authorisation safety study (PASS).
+ • Contraindication: severe uncontrolled hypertension — systolic >180 and/or diastolic >110 mm Hg.
+   Measure BP before starting and monitor regularly.
+ • Pooled analysis: neither antimuscarinics nor mirabegron increases hypertension or cardiovascular
+   events versus placebo. Mirabegron is nonetheless not recommended in uncontrolled hypertension,
+   because of the systolic rise seen in healthy volunteers.
+ • AUR was rare and PVR unchanged versus placebo.
+ • Guidelines (EAU 2022, AUA 2021): an option for moderate-to-severe LUTS with predominant storage
+   symptoms.
+ • Dosing: start 25 mg daily, with or without food, increasing to 50 mg.
+
+Vibegron
+ • Novel, potent, highly selective β3-agonist (also known as RVT-901 or KRP-114V).
+
+ • Pharmacokinetics:
+     ◦ Half-life 25–38 h → once daily.
+     ◦ Does not inhibit cytochrome P450 2D6 (CYP2D6) → fewer drug interactions than other OAB drugs.
+     ◦ Metabolised by oxidation and glucuronidation; excreted in faeces and urine; unlikely to accumulate.
+ • Mechanism (sequence): β3 binding → G-protein activation of adenylate cyclase → ↑cyclic adenosine
+   monophosphate (cAMP) → protein kinase A → ↓cytoplasmic calcium and myosin phosphorylation →
+   detrusor relaxation → greater capacity, less urgency, frequency and urge incontinence.
+ • Evidence: sustained efficacy in phase IIb/III trials with a 1-year extension. EMPOWUR (phase III, 75 mg
+   daily): better than placebo and tolterodine for micturitions, urgency and urge incontinence, and well
+   tolerated — but the population was mostly female.
+MIRABEGRON VERSUS VIBEGRON
+                          Mirabegron                                                        Vibegron
+ Dose                     25 mg → 50 mg daily                                               75 mg daily
+ Cardiovascular           Avoid in uncontrolled hypertension; monitor BP; QT prolongation   Not highlighted
+ caution                  at supratherapeutic dose
+ Drug interactions        More                                                              Fewer — no CYP2D6
+                                                                                            inhibition
+ Evidence in men with     Urodynamic safety trial in BOO                                    Largely female trial
+ BPH                                                                                        populations
+
+Concept — β3-agonists relax the detrusor during storage without weakening the voiding contraction. That is
+the pharmacological reason they are safe in obstruction and lack the anticholinergic burden, and why their
+chief caution is cardiovascular rather than urinary.
+
+Phosphodiesterase Type 5 Inhibitors
+ • ED and LUTS are strongly correlated, and PDE5Is improve both in randomised trials. They may act by
+   reducing prostatic inflammation and increasing oxygenation, normalising prostatic structure and
+   function.
+
+
+
+
+                                                         page 33 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                   β3-Agonist (Mirabegron)
+Rationale and Efficacy of PDE5 Inhibitors in LUTS
+ • PDE5 is expressed throughout the lower urinary tract.
+ • Five proposed mechanisms (Figure 150.12):
+     ◦ Vascular: PDE5 inhibition in vessel endothelium and smooth muscle → increased bladder and prostate
+       oxygenation (vardenafil, tadalafil in rats).
+     ◦ Smooth-muscle relaxation of prostate and bladder neck via enhanced nerve-derived nitric oxide
+       signalling. In partial obstruction models, urodynamics improved.
+     ◦ Antiproliferative: high stromal PDE5 expression. Vardenafil is antiproliferative via cyclic guanosine
+       monophosphate (cGMP) and protein kinase G, and PDE5Is block fibroblast → myofibroblast
+       transdifferentiation and reverse stromal remodelling.
+     ◦ Afferent inhibition: reduced LUT afferent nerve activity via the nitric oxide/cGMP pathway → less
+       filling sensation and urgency. Vardenafil improved urodynamics in spinal-cord-injured neurogenic
+       bladder.
+     ◦ Anti-inflammatory in metabolic syndrome: tadalafil reduced prostatic inflammation in a rabbit
+       metabolic-syndrome model.
+ • Clinical evidence:
+     ◦ First signal: unexpected IPSS improvement in men taking sildenafil for ED.
+     ◦ Sildenafil (ED + LUTS, IPSS ≥12, up-titrated to 100 mg for 12 weeks): IPSS improved markedly versus
+       placebo, most in severe LUTS. No flow change.
+     ◦ Tadalafil (5 → 20 mg): IPSS, QoL and BII improved, with more men achieving a ≥3-point IPSS fall. No
+       flow change; dyspepsia, back pain and headache.
+     ◦ Vardenafil 10 mg twice daily: IPSS improved in both storage and voiding subscores; headache,
+       dyspepsia and flushing.
+ • Tadalafil is the only PDE5I licensed for male LUTS, because of its long half-life and convenient 5 mg daily
+   dose.
+     ◦ Dose-finding trial (2.5–20 mg, 12 weeks): all doses beat placebo with a clear dose–response (Figure
+       150.13), and AEs rose with dose. 5 mg had the best benefit–risk.
+     ◦ Confirmed by further randomised trials and three meta-analyses.
+     ◦ 5 mg daily reduces IPSS by about 6 and QoL by about 1 point (placebo about 3.6 and 0.7).
+     ◦ Benefit is independent of baseline ED — it is not a psychological by-product of better erections.
+ • Urodynamics and flow: no significant effect in trials and meta-analyses. One single-arm 12-month study
+   found a Qmax gain and BOOI fall.
+ • Umbrella review of systematic reviews: IPSS reduction without uroflow change; well tolerated; tadalafil
+   5 mg also reduces nocturnal voiding.
+ • Versus α1-blockers:
+     ◦ Tadalafil = tamsulosin for IPSS and QoL (four 3-month trials, plus a newer trial).
+     ◦ Tadalafil vs alfuzosin: both effective, alfuzosin greater.
+     ◦ Sildenafil vs alfuzosin, doxazosin or tamsulosin: similar pattern.
+ • Guidelines (EAU 2022, AUA 2021): PDE5Is are an alternative for moderate-to-severe LUTS, with or
+   without ED.
+ • Dosing: tadalafil 5 mg once daily at a consistent time, with or without food.
+TABLE 150.14 RANDOMISED TRIALS INVESTIGATING PDE5 INHIBITORS IN PATIENTS WITH LUTS (rebuilt; placebo-
+controlled trials 2007–2012 and meta-analyses 2011–2018)
+
+
+
+                                                         page 34 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                        β3-Agonist (Mirabegron)
+
+ Agent / evidence              IPSS vs placebo               Qmax vs placebo            Signature AEs
+ Sildenafil 100 mg daily       Improved                      No difference              Headache, dyspepsia, flushing
+ Vardenafil 10 mg twice        Improved                      No difference              Headache, dyspepsia, flushing
+ daily
+ Tadalafil 2.5–20 mg daily     Improved from 5 mg;           No difference              Headache, back pain,
+ (dose-finding and             2.5 mg not significant                                   dyspepsia, myalgia, gastro-
+ confirmatory trials)                                                                   oesophageal reflux
+ Tadalafil 5 mg vs             Both active drugs beat        Only tamsulosin improved   Headache, nasopharyngitis,
+ tamsulosin 0.4 mg vs          placebo, and are equal        flow                       back pain
+ placebo                       to each other
+ Meta-analyses                 IPSS reduced by about         No change with monotherapy; —
+                               2–4 points                    increased when combined
+                                                             with an α-blocker
+ PDE5I vs α-blocker            Similar to tamsulosin;        —                          —
+ (Cochrane review)             alfuzosin better
+
+ • The table tests the PDE5I paradox: symptoms improve but flow does not. The effect is therefore not
+   primarily de-obstructive. Trap: tadalafil 2.5 mg is not effective; 5 mg is the licensed dose.
+Concept — PDE5Is improve LUTS through the nitric oxide–cGMP axis — perfusion, relaxation, afferent
+damping and anti-inflammation — rather than by opening the outlet. That is why IPSS falls without Qmax
+rising, and why they are the natural first choice in the man who has both LUTS and ED.
+
+Combination Therapy for LUTS
+α-Adrenergic Blockers and 5α-Reductase Inhibitors
+ • Five randomised trials exist. Only MTOPS and CombAT report beyond 1 year.
+ • Veterans Affairs Cooperative Study (terazosin, finasteride, combination or placebo; 1 year; Qmax <15 mL/
+   s, PVR <300 mL):
+     ◦ Terazosin and the combination were equal, and both beat finasteride and placebo for symptoms and
+       flow.
+     ◦ Finasteride was no better than placebo.
+     ◦ PV fell by about 20% with finasteride and the combination.
+     ◦ Combination no better than terazosin alone — but mean PV was <40 mL in every arm (Figure
+       150.14).
+ • Alfuzosin, Finasteride and Combination study (Europe, 6 months): alfuzosin and the combination beat
+   finasteride for IPSS.
+ • PREDICT (doxazosin, finasteride, combination or placebo): doxazosin and the combination beat placebo
+   and finasteride for IPSS and flow.
+ • Why the short trials were negative: they ran only 6–12 months — too short for 5ARI benefit to appear.
+
+Medical Therapy of Prostatic Symptoms (MTOPS) trial
+ • Design: doxazosin (1–8 mg), finasteride 5 mg, the combination, or double placebo, for at least 4 years. No
+   PV restriction, so gland volumes varied widely.
+ • Primary end point — clinical progression, the first of:
+     ◦ AUASI rise ≥4 points
+     ◦ AUR
+     ◦ Recurrent UTI (≥2 in 1 year) or urosepsis
+
+
+
+                                                         page 35 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                    β3-Agonist (Mirabegron)
+     ◦ Urinary incontinence (self-reported)
+     ◦ Renal insufficiency — creatinine rise ≥1.5 mg/dL, or a 50% relative rise
+ • Four-year cumulative progression: placebo 17%, doxazosin 10%, finasteride 10%, combination 5%
+   (Figure 150.15).
+ • Risk reduction versus placebo: doxazosin 39%, finasteride 34%, combination 66%. Combination was
+   superior to either monotherapy.
+ • Progression risk rose with baseline PSA and PV on placebo and on doxazosin.
+ • AUR: reduced only by finasteride and the combination, not by doxazosin (Figure 150.16).
+ • Invasive therapy: reduced by 64% (finasteride) and 67% (combination), but not by doxazosin.
+ • Symptoms: all active arms improved, the combination most. Qmax rose in all arms.
+ • Number needed to treat (NNT) to prevent one progression: combination 8.4, doxazosin 13.7, finasteride
+   15. With PSA >4.0 ng/mL and PV >40 mL, NNT fell to about 5 — so the combination is most cost-effective
+   in high-risk men.
+ • Tolerability: more total AEs with the combination, but each individual AE occurred at its monotherapy
+   rate. Re-analysis showed that sexual and other AEs peak in year 1 and then decline.
+TABLE 150.15 CLINICAL PROGRESSION OF BPH AND REDUCTION IN RISK IN THE MTOPS TRIAL (rebuilt; risk reduction
+versus placebo)
+ Event                                          Doxazosin                Finasteride       Combination
+ Overall clinical progression                   39%                      34%               66%
+ ≥4-point AUASI rise                            45%                      30%               64%
+ AUR                                            Not significant          68%               81%
+ Incontinence                                   Not significant          Not significant   Not significant
+ UTI / urosepsis                                Too few events
+ Invasive therapy                               Not significant          64%               67%
+
+ • What the table is for: it dissects progression into its components.
+ • The pattern:
+     ◦ Most progression events are symptomatic (≥4-point rise).
+     ◦ α-blockers prevent symptomatic progression only.
+     ◦ 5ARIs prevent the hard events — AUR and surgery.
+ • Trap: doxazosin's 39% overall reduction does not include AUR or surgery.
+
+Combination of Avodart and Tamsulosin (CombAT) Study
+ • Design: 4 years. Primary aim: does dutasteride + tamsulosin beat monotherapy for AUR and BPH
+   surgery?
+ • High-risk entry, unlike MTOPS:
+     ◦ PV ≥30 mL and PSA ≥1.5 ng/mL
+     ◦ Age ≥50, IPSS ≥12, Qmax 5–15 mL/s
+ • Arms: dutasteride 0.5 mg, tamsulosin 0.4 mg, or both. Secondary outcomes: progression (MTOPS
+   definition), IPSS, Qmax, PV and AEs. About two-thirds completed 4 years.
+ • AUR and surgery: the combination and dutasteride monotherapy both beat tamsulosin. The tamsulosin
+   arm's AUR/surgery risk diverged from about 8 months (Figure 150.17).
+ • Clinical progression: the combination was superior to both monotherapies.
+
+
+
+
+                                                         page 36 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                                β3-Agonist (Mirabegron)
+ • Symptoms at 4 years: combination best (about −7.3), then dutasteride (about −6.4), then tamsulosin
+   (about −4.9). Dutasteride beat tamsulosin long term, for flow as well as symptoms.
+ • Subscores: the combination beat tamsulosin for both voiding and storage.
+ • PV ≥40 mL gave the largest AUR and surgery reduction with both the combination and dutasteride.
+ • Safety: more AEs with the combination, but equal drug-related withdrawal.
+ • Fixed-dose dutasteride–tamsulosin confirmed efficacy and safety in men at risk of progression.
+TABLE 150.16 CLINICAL PROGRESSION OF BPH AND REDUCTION IN RISK IN THE COMBAT TRIAL (rebuilt; relative risk
+reduction with combination)
+ Event                                                   Combination vs dutasteride           Combination vs tamsulosin
+ Symptom deterioration (IPSS ≥4)                         35% (significant)                    41% (significant)
+ BPH-related AUR (progression component)                 Not significant                      70%
+ BPH-related incontinence                                Not significant                      Not significant
+ Recurrent UTI / urosepsis; renal insufficiency          Not significant                      Too few events
+ BPH-related surgery                                     Not significant                      71%
+ AUR                                                     Not significant                      68%
+
+ • Body text versus table:
+     ◦ Body text: combination reduced AUR or BPH surgery (composite primary end point) by 65.8% versus
+       tamsulosin.
+     ◦ Table: gives the individual event reductions — AUR 67.6%, surgery 70.6%.
+     ◦ The figures differ because they refer to different end points (composite versus components), not
+       because of different data.
+ • The table's pattern: the combination adds significantly to dutasteride only for symptom deterioration,
+   whereas it adds to tamsulosin for the hard end points. The 5ARI component carries AUR and surgery
+   prevention; the α-blocker component carries early symptom relief.
+MTOPS VERSUS COMBAT
+                   MTOPS                                                 CombAT
+ Drugs             Doxazosin + finasteride                               Tamsulosin + dutasteride
+ Comparators       Placebo and both monotherapies                        Both monotherapies (no placebo)
+ Entry             Age ≥50, IPSS ≥8, Qmax 4–15 mL/s; no PV               Age ≥50, IPSS ≥12, Qmax 5–15 mL/s; PV ≥30 mL,
+                   criterion                                             PSA ≥1.5 ng/mL
+ Duration          ≥4 years                                              4 years
+ Primary end       Clinical progression (composite)                      AUR or BPH surgery
+ point
+ Key result        Progression ↓66% with combination; α-                 Combination ↓AUR/surgery about two-thirds vs
+                   blocker alone does not prevent AUR or                 tamsulosin; dutasteride beats tamsulosin long term
+                   surgery
+
+ • Guideline conclusion: α1-blocker + 5ARI for moderate-to-severe LUTS at high risk of progression — PV
+   >30–40 mL and PSA >1.5 ng/mL. Both drugs are given once daily at monotherapy doses.
+ • Symptoms Management After Reducing Therapy (SMART) trial: the α1-blocker can be withdrawn after 6
+   months of successful combination therapy without expected symptom deterioration.
+
+
+
+
+                                                         page 37 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                          β3-Agonist (Mirabegron)
+α-Adrenergic Blockers and Antimuscarinics
+ • Four-arm trial (tolterodine ER, tamsulosin, combination or placebo; IPSS >12 with storage symptoms; 12
+   weeks):
+     ◦ Primary end point: patient-perceived treatment benefit.
+     ◦ Only the combination significantly beat placebo (most men reported benefit). Neither monotherapy
+       did.
+     ◦ The combination also reduced urgency, day and night frequency, IPSS and QoL (Figure 150.18).
+     ◦ Flow and PVR were unchanged, and AUR was very rare.
+ • Doxazosin ± propiverine (urodynamic BOO + OAB): the combination was better for frequency, voided
+   volume and IPSS. PVR rose but there was no AUR. More AEs, but equal discontinuation.
+ • Propiverine + naftopidil reduced IPSS and frequency more than either alone.
+ • Silodosin + propiverine (1 year): greater OABSS and urgency reduction, and DO resolved more often than
+   with silodosin alone.
+ • Sequential (add-on) therapy — mirrors practice, with an antimuscarinic added only for α1-blocker non-
+   responders:
+     ◦ Tamsulosin + oxybutynin after tamsulosin failure: all symptom scores improved; Qmax and PVR
+       unchanged.
+     ◦ α-Blocker + tolterodine ER: reduced 24-h micturitions, urgency and nocturnal urgency.
+     ◦ Tamsulosin + solifenacin: reduced urgency episodes.
+ • Meta-analysis: combination improves QoL versus antimuscarinic monotherapy without excess AEs.
+ • Solifenacin + tamsulosin oral controlled-absorption system (OCAS) single tablet (SATURN phase II;
+   NEPTUNE phase III):
+     ◦ Entry: IPSS ≥13, ≥2 urgency episodes and ≥8 voids per day.
+     ◦ Improved storage, voiding and QoL versus placebo. In moderate-to-severe LUTS, storage and QoL were
+       better than with tamsulosin alone.
+     ◦ The 52-week extension confirmed safety, with AUR under 1%.
+     ◦ As in all antimuscarinic trials, only men with low PVR (<150 mL) were included.
+ • Verdict: safe and effective for persistent storage symptoms after first-line α1-blocker. No dose
+   adjustment is needed. The ideal candidate profile is not yet defined.
+TABLE 150.17 RANDOMISED CONTROLLED TRIALS COMPARING COMBINATION OR ADD-ON THERAPY INVOLVING α-
+BLOCKERS AND ANTIMUSCARINIC DRUGS (rebuilt; eight trials, 2005–2017)
+ Strategy           Examples                                      Storage outcome                   PVR        AUR
+ Upfront            Doxazosin + propiverine; tamsulosin +         Better than α-blocker alone or    Modest     0–<1%
+ combination        tolterodine; TOCAS + solifenacin;             placebo                           rise
+                    silodosin + propiverine
+ Add-on after α-    Tamsulosin + oxybutynin or solifenacin;       Improved (oxybutynin,             Modest     Up to
+ blocker            any α-blocker + tolterodine or                tolterodine); fesoterodine add-   rise       about
+                    fesoterodine                                  on not significant                           3%
+
+ • The table tests that the storage benefit is consistent and the PVR rise small, in trials that excluded PVR
+   above 100–200 mL. Trap: not every add-on succeeds — fesoterodine add-on missed its end point.
+
+
+
+
+                                                         page 38 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                     β3-Agonist (Mirabegron)
+α-Adrenergic Blockers and β3-Agonists
+ • Mirabegron add-on in men over 65 with persistent OAB after >12 weeks of α1-blocker: OABSS, IPSS and
+   QoL improved; flow rose; PVR unchanged.
+ • Mirabegron + tamsulosin with PFS: bladder contractility index unchanged.
+ • Only small randomised trial (tamsulosin 0.2 mg ± mirabegron 50 mg, 8 weeks): the combination was
+   better for OABSS, IPSS storage, daytime frequency and QoL. PVR rose significantly, with a single retention
+   episode.
+ • MATCH (mirabegron 50 mg added to tamsulosin 0.2 mg vs placebo, 12 weeks): superior to placebo and
+   well tolerated.
+ • Phase IV trial (tamsulosin 0.4 mg run-in, then mirabegron 25 mg vs placebo): a small but significant fall in
+   daily voids; the total IPSS difference was not significant.
+ • Verdict: safe to add to an α1-blocker for persistent storage symptoms. No interaction, so no dose
+   adjustment. More data are needed.
+
+α-Adrenergic Blockers and PDE5 Inhibitors
+ • Alfuzosin vs sildenafil vs combination (untreated LUTS + ED): combination gave the greatest IPSS fall.
+   Flow and PVR improved with alfuzosin and the combination but not with sildenafil alone. No hypotension
+   or syncope.
+ • Tamsulosin ± sildenafil: no IPSS advantage for the combination.
+ • Tamsulosin ± tadalafil 20 mg (crossover): the combination gave greater IPSS and QoL falls.
+ • Alfuzosin + tadalafil: greatest Qmax gain with the combination.
+ • Add-on after α1-blocker:
+     ◦ Vardenafil added to tamsulosin for persistent storage LUTS: improved Qmax, average flow and storage
+       subscore.
+     ◦ Tadalafil 5 mg added to silodosin: greater symptom and flow improvement.
+     ◦ Confirmed in further randomised trials.
+ • Meta-analyses:
+     ◦ Combination vs α1-blocker alone gives a small extra IPSS fall and Qmax gain, with slightly more AEs
+       (flushing, reflux, headache, dyspepsia).
+     ◦ A larger update found no flow advantage for tadalafil + α1-blocker.
+
+     ◦ Haemodynamics: larger systolic BP changes with the combination, but positive orthostatic tests were
+       equally frequent.
+ • Fixed-dose tamsulosin 0.4 mg + tadalafil 5 mg beat tadalafil alone.
+ • Regulatory position:
+     ◦ The FDA and European Medicines Agency do not recommend tadalafil with α1-blockers, because
+       both are vasodilators (hypotension risk). The risk is lower with uroselective agents.
+     ◦ Stable on an α1-blocker → start the PDE5I at the lowest dose.
+
+     ◦ Stable on a PDE5I → start the α1-blocker at the lowest dose.
+
+     ◦ Safety and cost-effectiveness data are still needed.
+TABLE 150.18 RANDOMISED TRIALS ASSESSING COMBINATION THERAPY OF PDE5 INHIBITORS AND α-BLOCKERS
+(rebuilt; seven trials, 2007–2022)
+
+
+
+
+                                                         page 39 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                                     Phytotherapy
+
+                                                        Qmax vs α-blocker
+ Combination                IPSS vs α-blocker alone     alone                   AEs
+ Alfuzosin + sildenafil or Trend to benefit             Trend to benefit        Dyspepsia, dizziness
+ tadalafil
+ Tamsulosin + tadalafil,    Benefit with vardenafil     Significant gain with   Headache, dyspepsia, myalgia
+ sildenafil or vardenafil   and tadalafil; none with    sildenafil and
+                            sildenafil                  vardenafil
+ Silodosin + tadalafil      Small benefit               Small gain              Retrograde ejaculation, headache, nasal
+                                                                                congestion, ocular hyperaemia,
+                                                                                palpitation, orthostatic hypotension
+
+ • The table tests that the combination adds a modest increment over an α-blocker alone. AEs are those of
+   the two vasodilators combined, hence the regulatory caution.
+
+PDE5 inhibitors and 5α-reductase inhibitors
+ • Only one trial (IPSS >12, PV ≥30 mL, 26 weeks): tadalafil 5 mg + finasteride beat finasteride alone for IPSS
+   and improved erectile function (International Index of Erectile Function-6), whereas finasteride alone did
+   not. AEs were comparable.
+ • The FDA approved a fixed-dose finasteride–tadalafil capsule for LUTS in December 2021.
+COMBINATION THERAPIES — SUMMARY
+ Combination             Indication                      Key evidence           Key caution
+ α1-blocker + 5ARI       Moderate-to-severe LUTS,   MTOPS, CombAT               More AEs (sexual); benefit needs >12
+                         PV >30–40 mL, PSA >1.5 ng/                             months; α-blocker may stop after 6 months
+                         mL                                                     (SMART)
+ α1-blocker +            Persistent storage symptoms Four-arm trial;            PVR rise; only studied with low PVR
+ antimuscarinic          after α-blocker             SATURN/NEPTUNE
+
+ α1-blocker + β3-        Persistent storage symptoms MATCH; small               PVR rise; limited data
+ agonist                 after α-blocker             randomised trials
+
+ α1-blocker + PDE5I      LUTS ± ED                       Meta-analyses          Hypotension — not recommended by
+                                                         (modest)               regulators; start at lowest dose
+ PDE5I + 5ARI            LUTS + enlarged prostate ±      Single trial; FDA      Limited data
+                         ED                              fixed dose (2021)
+
+Concept — Combination therapy pairs drugs with non-overlapping targets and time courses. The α-blocker
+gives rapid dynamic relief, the 5ARI gives slow static shrinkage and hard-end-point prevention, and the
+storage drug treats the bladder. Every combination is therefore defined by who is at risk (large gland, high
+PSA) or what persists (storage symptoms), not by symptom severity alone.
+
+PHYTOTHERAPY
+ • Phytotherapy — the therapeutic use of plants and plant products — has taken a significant place in BPH
+   treatment over two decades.
+
+Composition of Phytotherapy Extracts
+ • Sources: roots, seeds, bark or fruit.
+ • Contents: phytosterols, plant oils, fatty acids and phytoestrogens.
+ • Extraction methods vary — method, time, temperature, pressure and solvent. Every extract is therefore
+   unique, and extracts from the same plant differ greatly in composition and effect.
+ • Combination products (two or more extracts) are marketed for efficacy, marketability and registration.
+
+
+                                                         page 40 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                                     Phytotherapy
+TABLE 150.19 ORIGIN OF PLANT EXTRACTS
+ Species                                                 Common name
+ Serenoa repens (Sabal serrulata)                        Saw palmetto berry; American dwarf palm
+ Hypoxis rooperi                                         South African star grass
+ Pygeum africanum                                        African plum tree
+ Urtica dioica                                           Stinging nettle
+ Secale cereale                                          Rye pollen
+ Cucurbita pepo                                          Pumpkin seed
+ Opuntia; Pinus; Picea                                   Cactus flower; pine flower; spruce
+
+TABLE 150.20 COMPONENTS OF PLANT EXTRACTS
+ Class                Components
+ Phytosterols         β-Sitosterol, Δ5-sterols, Δ7-sterols, stigmasterol, campesterol
+ Phytoestrogens       Coumestrol, genistein (isoflavone), flavonoids
+ Fatty acids          Free fatty acids (the presumed active component of Serenoa) and esterified fatty acids
+ Other                Terpenoids, lectins, polysaccharides, aliphatic alcohols, plant oils
+
+Mechanism of Action
+ • Mechanisms are incompletely understood. Most preclinical work is on Serenoa repens and Pygeum
+   africanum.
+ • Most studied mechanisms: anti-inflammatory action, 5α-reductase inhibition, and antiproliferative/pro-
+   apoptotic effects via growth factors.
+ • Anti-inflammatory:
+     ◦ Inhibition of cyclooxygenase and lipoxygenase reduces prostaglandins and leukotrienes (inflammation
+       contributes to BPH). Flavone is a strong cyclooxygenase inhibitor.
+     ◦ Serenoa lipidosterolic extract inhibits neutrophil leukotriene production (via its acidic lipophilic
+       fraction) and phospholipase A2.
+
+ • Antiandrogenic actions of Serenoa:
+     ◦ Inhibits 5α-reductase types I and II (attributed to free fatty acids).
+     ◦ Inhibits DHT binding to the cytosolic androgen receptor.
+     ◦ Inhibits nuclear oestrogen receptors.
+     ◦ Modulates prolactin-induced prostatic growth.
+ • But 5α-reductase inhibition is largely in vitro — it is not confirmed in human prostate tissue. In a large
+   trial versus finasteride, Serenoa did not lower PSA and barely reduced PV.
+ • Animal models: Serenoa blunted hormone-induced prostate growth in castrated rats given oestrogen plus
+   testosterone, and in hyperprolactinaemic rats.
+ • Antiproliferative and apoptotic effects:
+     ◦ Serenoa lowered the proliferative index in BPH tissue.
+     ◦ Pygeum and Serenoa inhibited basic fibroblast growth factor- and epidermal growth factor-induced
+       fibroblast and BPH-cell proliferation.
+     ◦ Serenoa altered proliferation and apoptosis gene expression in BPH cell lines.
+ • The link between preclinical mechanisms and clinical effect is unproven.
+TABLE 150.21 SUGGESTED MECHANISMS OF ACTION OF PLANT EXTRACTS
+
+
+
+                                                         page 41 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                                      Phytotherapy
+
+ Most investigated                 Others proposed
+ 5α-Reductase inhibition; anti-    Antiandrogenic and oestrogenic effects; aromatase inhibition; decreased sex
+ inflammatory action;              hormone-binding globulin; altered cholesterol metabolism; α-adrenergic receptor
+ interference with growth          action; free-radical scavenging; altered lipid peroxidation; modulation of prolactin-
+ factors                           induced growth; protection of bladder and detrusor function; placebo effect
+
+ • The table's pattern: a long list of plausible mechanisms, ending with the placebo effect, reflects the
+   absence of a proven mechanism.
+
+Current Role of Phytotherapy in LUTS
+ • Prescribing:
+     ◦ In a four-country European survey, phytotherapy was the second most prescribed BPH therapy after
+       α1-blockers, with rates highest in France.
+
+     ◦ Rates vary widely between countries because of marketing policy.
+     ◦ Phytotherapy patients had lower IPSS. It was occasionally combined with α1-blockers.
+
+     ◦ US spending exceeds $1 billion per year (older estimate).
+ • AUA and EAU give no general recommendation — product heterogeneity prevents reliable conclusions.
+
+Serenoa repens (Saw Palmetto Berry)
+ • The most popular and most studied phytotherapeutic agent for LUTS.
+ • Product heterogeneity:
+     ◦ Free fatty acid content differs between brands (Figure 150.19A).
+     ◦ Retail samples deviate widely from their labelled content.
+     ◦ 5α-reductase inhibition varies between extracts and between batches (Figure 150.19B).
+ • Trial extracts: hexane, ethanolic and supercritical CO2; some trials did not specify.
+
+ • Evolution of the evidence:
+     ◦ First meta-analysis: Serenoa improved symptoms, nocturia and flow versus placebo, was non-inferior
+       to finasteride, and had mild AEs equal to placebo. However, the trials were underpowered, short and
+       heterogeneous.
+     ◦ Updated Cochrane reviews: no benefit over placebo for symptoms, flow or PV. Non-inferior to
+       finasteride and tamsulosin in single trials.
+     ◦ Two high-quality long-term trials: supercritical CO2 extract 160 mg twice daily for 1 year, and
+       ethanolic extract escalated to 960 mg/day for 72 weeks. Neither differed from placebo for AUASI,
+       flow or PV, even at double or triple the dose.
+ • Caveat: these negative trials may not apply to every product, because extracts differ.
+ • Hexane extract (Permixon):
+     ◦ Highest biological activity and the lowest batch-to-batch variability in free fatty acids.
+     ◦ Meta-analysis of hexane-only trials: better than placebo for nocturnal voids and Qmax; non-inferior
+       to tamsulosin and to short-term finasteride; AEs and withdrawals equal to placebo.
+     ◦ Silodosin + Permixon gave more clinically meaningful IPSS responders than silodosin alone.
+     ◦ Updated systematic review: fewer nocturnal voids and higher Qmax than placebo; IPSS and Qmax
+       similar to α1-blockers; significant IPSS improvement from baseline.
+
+
+
+
+                                                         page 42 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                                   Phytotherapy
+ • Regulatory and guideline status:
+       ◦ European Medicines Agency (2015): hexane extract recognised as a well-established medicinal
+         product.
+       ◦ EAU: recommends hexanic Serenoa for men with LUTS who wish to avoid the side effects of other
+         treatments.
+ • Safety: only mild gastrointestinal effects, especially on an empty stomach. Dose: 320 mg daily with food.
+   There are rare suspected warfarin interactions (labelled warning).
+ • Ethanolic and supercritical CO2 extracts lack significant efficacy data.
+
+TABLE 150.22 RANDOMISED PLACEBO-CONTROLLED TRIALS INVESTIGATING THE EFFECT OF SERENOA REPENS FOR
+LUTS (rebuilt; eleven trials, 1983–2011)
+ Era         Extract / design                                Outcomes                             Verdict
+ 1983–       Permixon 320 mg; small trials, 1–2              Nocturnal voids and flow generally   Positive but
+ 1995        months                                          favoured Permixon                    underpowered
+ 2001–       S. repens 320 mg (up to 960 mg); 3–18           No IPSS or flow difference from      Negative
+ 2011        months; validated IPSS                          placebo; AEs equal
+
+ • The table tests the classic evidence pattern: small, short, older trials were positive, whereas larger, longer
+   trials with validated scores were negative. Trap: the negative trials did not use the hexane extract.
+
+Pygeum africanum (African Plum)
+ • Used in Europe since 1969. It also modulates bladder contractility in animals.
+ • Early review: positive, but from uncontrolled studies only, without meta-analysis.
+ • Meta-analysis (mostly short trials; standardised extract 100–200 mg/day):
+       ◦ Men were about twice as likely to have physician-rated overall symptom relief as with placebo
+         (relative risk about 2), but symptom tools were non-standardised.
+       ◦ Flow improved.
+       ◦ AEs mild and similar to placebo.
+ • Verdict: more effective than placebo, but the benefit is modest and short term only.
+
+Hypoxis rooperi (South African Star Grass)
+ • Source of β-sitosterol, a phytosterol mixture that acts as an anti-inflammatory (inhibits prostaglandin
+   metabolism).
+ • Preparations: Harzol (non-glucosidic β-sitosterol) and Azuprostat (β-sitosterol from Hypoxis, pine and
+   spruce).
+ • Pooled analysis of four placebo-controlled trials (4–26 weeks): significant improvement in IPSS and flow,
+   and a PVR reduction, with mild AEs.
+ • Caveat: the effect size exceeds that of proper pharmacological agents, which raises doubts about
+   reliability.
+
+Other Plant Extracts and Lycopene
+ • Urtica dioica, Cucurbita pepo, Opuntia and Secale cereale have been scantly and inconsistently studied.
+ • Cernilton (rye-pollen extract; four trials): better than placebo for self-rated overall symptoms and
+   nocturia, but no flow benefit. Trials were short (≤24 weeks) and poor quality — efficacy questionable.
+ • Dietary antioxidants — lycopene and selenium — give controversial LUTS results.
+       ◦ Lycopene: a non-provitamin A carotenoid, antioxidant and anti-inflammatory. It inhibits 5α-reductase
+         and interleukin-6 signalling.
+
+
+                                                         page 43 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH               Prognosis of Patients Receiving Medical Treatment for LUTS
+     ◦ Selenium: epigenetic and antioxidant effects.
+ • Serenoa + lycopene + selenium (Ser-Ly-Se; Profluss):
+     ◦ Preclinically better than Serenoa alone for inflammation, growth factors and histology. It markedly
+       inhibited testosterone-driven growth in rats.
+     ◦ Randomised trial (12 months): tamsulosin + Ser-Ly-Se beat either alone for symptoms and flow in
+       moderate LUTS.
+
+Summary — Phytotherapy
+ • Worldwide use is rising, but randomised evidence is inconclusive. Large, long-term trials show no
+   difference from placebo.
+ • Lack of a standard extraction method means biological activity varies and data cannot be compared.
+ • Most solid evidence: hexanic Serenoa repens, suggested by the EAU as an alternative. Otherwise, neither
+   the EAU nor the AUA gives specific phytotherapy recommendations.
+ • Serenoa repens 320 mg daily with food.
+Concept — In phytotherapy the extract is the drug. Because composition varies by extraction method and
+batch, trial results are specific to a product. That is why the only guideline endorsement is for one
+standardised extract (hexane Serenoa), and why the category as a whole carries no recommendation.
+
+PROGNOSIS OF PATIENTS RECEIVING MEDICAL TREATMENT FOR LUTS
+ • BPH is a progressive disease.
+ • Olmsted County study (12-year community cohort, men 40–79):
+     ◦ IPSS rises about 0.18 points per year.
+     ◦ Qmax falls about 2% per year.
+     ◦ The prostate grows about 1.9% per year.
+ • Serious progression events: AUR, detrusor underactivity and hydronephrosis, beyond symptom
+   worsening.
+ • Medical therapy reduces progression and the need for surgery. Patients prefer conservative, lower-risk
+   treatments.
+ • MTOPS (placebo arm): 17% progressed over 4 years, mostly symptomatic.
+     ◦ Monotherapy reduced risk by 34–39%, and the combination by 66%.
+     ◦ AUR and surgery were reduced only by finasteride (alone or in the combination).
+     ◦ Similar findings in CombAT and ALTESS.
+ • Baseline risk factors for progression: higher PSA, larger prostate, greater PVR. Counsel accordingly.
+ • REDUCE placebo arm (post hoc; mild or no symptoms at baseline, IPSS <8):
+     ◦ PV 40–80 mL → higher risk of developing LUTS (IPSS ≥14) than PV ≤40 mL.
+     ◦ Lower baseline Qmax also predicted incident LUTS.
+ • CONDUCT (fixed-dose dutasteride–tamsulosin vs WW): combination beat WW for IPSS at 2 years only in
+   men with high baseline bother (BII). Bother may be the better predictor of benefit.
+ • Dynamic predictors: worsening symptoms and rising PVR predict AUR. In the MTOPS placebo arm, men
+   without AUR had stable PVR.
+ • Follow-up schedule on α1-blockers or 5ARIs:
+     ◦ 4–12 weeks — initial response (α1-blocker) and AEs.
+
+
+
+                                                         page 44 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                            Acute Urinary Retention
+     ◦ 6 months, then annually — symptoms, flow and PVR.
+     ◦ Monitor PSA on 5ARIs when life expectancy is >10 years.
+
+ KEY POINTS — MEDICAL TREATMENT
+   • α1-Blockers are first line for moderate-to-severe LUTS.
+
+   • Uroselective agents (tamsulosin, silodosin, alfuzosin) have the best tolerability.
+   • 5ARIs reduce the risk of progression and of invasive treatment.
+   • Predominant storage symptoms may benefit from combination with an antimuscarinic.
+   • PDE5Is relieve LUTS, alone or with an α1-blocker.
+
+   • No consensus on phytotherapy. Encouraging results exist for hexanic Serenoa repens and for Serenoa
+     + lycopene + selenium.
+
+Concept — Prognosis links diagnosis to treatment: the same variables that stratify risk — PSA, PV, PVR and
+bother — select who needs a 5ARI or a combination rather than an α-blocker alone.
+
+ACUTE URINARY RETENTION
+ • Definition: a sudden, painful inability to void voluntarily. It is a severe complication of BPH and a major
+   public-health issue.
+SPONTANEOUS VERSUS PRECIPITATED AUR
+ Spontaneous                                 Precipitated
+ Consequence of the natural history of       Follows a trigger: surgery under general or regional anaesthesia, UTI,
+ progressive BPH                             bladder overdistension, anticholinergic or sympathomimetic drugs
+ Higher TWOC failure; about two-thirds       Better TWOC prognosis
+ of AUR in a large UK cohort
+
+ • Predictors of spontaneous AUR: older age, severe LUTS, low Qmax, high PVR, large PV and high PSA.
+ • Incidence:
+     ◦ General male population: 2.2–8.5 per 1000 person-years.
+     ◦ Men with LUTS: much higher — up to about 36 per 1000 person-years.
+     ◦ Emergency attendances for BPH-related AUR are rising (a Californian study), reflecting more older men
+       with advanced BPH or inappropriate primary-care treatment.
+TABLE 150.23 INCIDENCE OF AUR IN THE GENERAL POPULATION AND AMONG MEN WITH LUTS (rebuilt; four cohorts,
+1999–2006)
+                                          General population (per 1000 person-       Men with LUTS (per 1000 person-
+ Setting                                  years)                                     years)
+ Netherlands (men ≥45, no previous        2.2                                        35.9
+ AUR)
+ United Kingdom (adult men)               3.1                                        —
+ United States (men 45–83)                4.5                                        —
+ Olmsted County (men ≥50)                 8.5                                        18.3 (MTOPS-eligible subcohort)
+
+ • The table tests that LUTS multiply AUR risk several-fold, and that incidence rises steeply with age in both
+   populations (Figure 150.20). Trap: the general-population rate is low — AUR is a disease of symptomatic,
+   older men.
+
+
+
+
+                                                         page 45 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                                          Acute Urinary Retention
+Management of Acute Urinary Retention
+ • Sequence: immediate bladder decompression by catheter → trial without catheter (TWOC) after a few
+   days (preferred) or immediate surgery.
+ • Immediate surgery resolves BOO early and protects the bladder and upper tracts, but emergency surgery
+   carries higher morbidity. Practice has therefore shifted to the conservative route.
+ • TWOC:
+     ◦ Succeeds in about 60%.
+     ◦ It is the treatment of choice in most first episodes worldwide.
+     ◦ Median catheter duration about 5 days (range 3–8).
+     ◦ Second and third attempts still succeed in over a quarter → up to three TWOCs may be tried before
+       invasive treatment.
+     ◦ However, recurrence after a successful TWOC is common, mostly within 6 months. At that point, PFS
+       and surgery are indicated.
+ • Predictors of TWOC failure:
+     ◦ Advanced age
+     ◦ Severe LUTS
+     ◦ Drained volume >1 L
+     ◦ Spontaneous (not precipitated) AUR
+ • Catheter duration: practice is heterogeneous, and no evidence favours short or long catheterisation.
+ • Clean intermittent self-catheterisation gave a higher success rate than indwelling catheter plus TWOC in a
+   small non-randomised trial, but the groups were younger and had smaller glands.
+ • Rationale for α1-blockers: increased sympathetic tone at the bladder neck (the dynamic component)
+   contributes to retention.
+ • Alfuzosin in Acute Urinary Retention (ALFAUR) study: alfuzosin 10 mg for 3 days after emergency
+   catheterisation → TWOC success about 62% vs 48% on placebo.
+ • Meta-analysis: α1-blockers before TWOC increase success (relative risk about 1.5) and reduce recurrence.
+   Most trials used 1–3 days; the optimal duration is unknown.
+
+Medical Therapy in the Prevention of AUR
+DRUG CLASSES AND AUR PREVENTION IN LONG-TERM TRIALS
+ Trial                        Drug                     AUR effect
+ ALTESS (2 years)             Alfuzosin 10 mg vs       No reduction
+                              placebo
+ MTOPS (4 years)              Doxazosin vs placebo     No reduction (only a longer time to event)
+ CombAT (4 years)             Tamsulosin (no           Cannot be judged; combination reduced AUR 68% vs tamsulosin
+                              placebo arm)             but only 18% (not significant) vs dutasteride
+ PLESS; dutasteride phase Finasteride /                Significant reduction
+ III; MTOPS               dutasteride
+
+ • Conclusion: 5ARIs, not α1-blockers, prevent AUR. The CombAT asymmetry (large benefit over tamsulosin,
+   trivial benefit over dutasteride) shows that the 5ARI carries the protection.
+
+ KEY POINTS — ACUTE URINARY RETENTION
+   • AUR is a common complication of BPH progression.
+
+
+                                                         page 46 of 47
+Chapter 150 — Evaluation and Nonsurgical Management of BPH                        Future Directions in Medical Treatment of BPH
+   • TWOC is preferred after initial catheter decompression.
+   • α1-Blockers are recommended to increase the odds of a successful TWOC.
+
+   • Dutasteride and finasteride significantly reduce AUR risk in moderate-to-severe LUTS.
+
+Concept — AUR management follows the two-component model of obstruction. The α-blocker relieves the
+dynamic component and so rescues the TWOC. The 5ARI shrinks the static component and so prevents the
+next episode.
+
+FUTURE DIRECTIONS IN MEDICAL TREATMENT OF BPH
+ • Many men still fail medical therapy. Surgery remains the most effective and durable treatment.
+ • Research targets (Figure 150.21): the urothelium and interstitial cells, transient receptor potential (TRP)
+   channels, cannabinoid receptors, purinergic receptors and vitamin D3 receptors. Newer targets include
+   peripheral neuronal pathways, the steroidal axis and metabolic turnover.
+INVESTIGATIONAL AGENTS
+ Agent / class                     Mechanism                                   Status and result
+ Elocalcitol                       Vitamin D3 receptor agonist; reduces        Phase II: no benefit over placebo; still
+                                   stromal proliferation and androgen-         under investigation
+                                   receptor signalling in vitro
+ TRPV1 / TRPV4 antagonists         Vanilloid TRP channels                      Animal only: reduce bladder overactivity;
+                                                                               lower frequency and raise voided volume
+ Cannabinoids                      Cannabinoid receptors                       Multiple sclerosis trial: fewer
+                                                                               incontinence episodes than placebo
+ Endothelin-converting             Endothelin 1 overexpressed in obstructed    Animal: inhibits non-voiding contractions
+ enzyme antagonist                 detrusor
+ Flavocoxid                        Dual cyclooxygenase-2 / 5-lipoxygenase      Rat: reduces PV
+                                   inhibitor; pro-apoptotic (Bax, caspase 9)
+ Rofecoxib + finasteride           Anti-inflammatory + 5ARI                    Clinical: better IPSS and flow than
+                                                                               finasteride alone
+ Rho kinase inhibitors;            —                                           Preclinical promise
+ purinergic receptor blockers
+ Fexapotide triflutate 2.5 mg,     Intraprostatic                              Two trials with long follow-up: safety
+ transrectal injection                                                         equal to placebo; reduced symptoms,
+                                                                               need for intervention, AUR and PCa
+ NX-1207                           Intraprostatic pro-apoptotic protein        Phase II: reduced gland volume
+ PRX302                            PSA-activated channel-forming toxin,        Reduced PV and IPSS; single injection
+                                   intraprostatic                              improved IPSS and flow vs placebo, with
+                                                                               mild transient AEs
+ OnabotulinumtoxinA                Intraprostatic botulinum neurotoxin         Placebo-controlled trial: reduced IPSS and
+                                                                               PV, increased flow
+
+ • All of these need further clinical investigation before entering the treatment algorithm.
+
+
+
+
+                                                         page 47 of 47
+
