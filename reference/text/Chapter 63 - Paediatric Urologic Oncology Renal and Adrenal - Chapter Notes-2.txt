@@ -1,0 +1,1073 @@
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                    NEUROBLASTOMA
+
+Chapter 63 — Paediatric Urologic Oncology: Renal and
+Adrenal
+Cost, Romao and Roach · Campbell-Walsh-Wein Urology · Part V, Section G Oncology
+
+
+NEUROBLASTOMA
+ • Commonest extracranial solid tumour of childhood; over half present with metastases.
+ • Arises from neural crest cells of the adrenal medulla and sympathetic ganglia — anywhere along the
+   sympathetic chain (neck, thorax, retroperitoneum, pelvis, adrenal).
+ • 75% retroperitoneal — 50% adrenal, 25% paravertebral.
+ • Behaviour ranges from spontaneous regression through differentiation to a benign tumour to extreme
+   malignancy; biological factors explain much of this variance.
+
+Epidemiology and Genetics
+Incidence
+ • 8–10% of childhood cancers; 10 per million live births (United States); commonest malignancy of
+   infancy.
+ • Median age 19 months; most under 5 years; almost all diagnosed by 10 years.
+Genetics
+ • Familial cases (<1%): autosomal dominant; median age 9 months; ≥20% bilateral adrenal or multifocal
+   (rare in sporadic disease); sibling or offspring risk <6%.
+ • Linkage to 16p12–13; predisposition genes PHOX2B and ALK.
+Constitutional Chromosome Abnormalities
+ • Deletions, translocations and amplification all carry prognostic weight (frequencies and direction in the
+   marker table under Biologic Variables).
+ • Aneuploidy here means an abnormal chromosome number (hyperdiploidy); it is favourable against
+   diploid or tetraploid content.
+ • MYCN amplification = more than 10 copies at 2p24; drives rapid progression and treatment failure.
+   Neuroblastoma was the first tumour whose chemotherapy intensity was set by biological markers, not
+   stage and histology alone.
+ • 1p deletion: consensus region 1p36.1–2, candidate suppressor CHD5; independent; constitutional 1p
+   abnormalities also reported.
+ • Unbalanced 11q loss of heterozygosity (LOH) = LOH of 11q with retention of 11p (versus whole-
+   chromosome 11 LOH). 1p loss travels with MYCN amplification; 11q loss rarely does, and flags poor
+   outcome in low-stage, non-amplified tumours.
+ • 17q gain (often by translocation with 1 or 11; 17q22–qter): on multivariate analysis the strongest
+   prognostic factor, then stage IV, then 1p deletion.
+
+Embryology and Spontaneous Regression
+ • In situ neuroblastoma (term of Beckwith and Perrin): incidental adrenal neuroblast nodules, histologically
+   identical to neuroblastoma, found at autopsy in infants under 3 months at 40–45 times the clinical
+   incidence → most regress. Such nodules exist in all fetuses.
+
+
+
+
+                                                               page 1 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                  NEUROBLASTOMA
+
+ • Prenatally detected tumours follow a favourable course; neonatally resected adrenal masses, cystic or
+   solid, mostly carry favourable markers.
+ • Expectant observation of screen-detected infants → high spontaneous resolution, documented
+   radiographically. This led to the Children's Oncology Group (COG) study of observation for infants with
+   small perinatal adrenal masses and favourable catecholamine ratios.
+Concept — Regression is the normal developmental fate of fetal neuroblasts, so a small favourable-biology
+tumour in early infancy behaves as a persisting embryonic remnant, not as an early stage of the lethal
+disease of older children.
+
+Pathology
+ • Neuroblastoma → ganglioneuroblastoma → ganglioneuroma: increasing maturation.
+ • Shimada classification, revised as the International Neuroblastoma Pathology Classification (INPC): age-
+   linked; adds prognostic information independent of age. First division: stroma-poor versus stroma-rich.
+        ◦ Stroma-poor is split into favourable and unfavourable by age, degree of maturation and mitotic rate;
+          unfavourable stroma-poor: survival below 10%.
+        ◦ Stroma-rich: nodular, intermixed, well differentiated; the last two resemble ganglioneuroblastoma or
+          immature ganglioneuroma and survive better.
+ • Ganglioneuroma is benign and fully differentiated. Metastases maturing into ganglioneuroma favour
+   origin by maturation rather than de novo. It grows very large before causing compression or intraspinal
+   extension. Survival is independent of extent of resection → operate only for significant symptoms.
+Figure 63.1 legend
+ • (A) Poorly differentiated neuroblastoma, minimal-to-moderate neuropil. (B) Ganglioneuroblastoma:
+   Schwannian stroma over more than 50% of surface area; lobule of ganglion cells, immature ganglion cells
+   and poorly differentiated neuroblasts, minimal neuropil.
+THE NEUROBLASTIC TUMOUR SPECTRUM
+                Neuroblastoma               Ganglioneuroblastoma Ganglioneuroma
+ Maturation Least                           Intermediate                 Complete; benign
+ Stroma         Stroma-poor                 Stroma-rich (>50%)           Stroma-dominant
+ Patient        Infants, young              —                            Older children
+                children
+ Site           Adrenal commonest           —                            Posterior mediastinum, retroperitoneum; rarely
+                                                                         adrenal
+ Surgery        Risk-adapted                Risk-adapted                 Only if symptomatic
+
+ • Tests the direction of maturation, and the trap that the benign end is the one not to chase surgically.
+Concept — Histology is graded against age: the same immaturity is tolerable in an infant and unfavourable
+in an older child, and Schwannian stroma marks a tumour maturing towards benignity.
+
+Clinical Presentation and Pattern of Spread
+ • Usually abdominal pain or a fixed, hard mass; otherwise metastatic features — bone or joint pain,
+   periorbital ecchymosis. Thoracic tumours: cough, dyspnoea; intraspinal extension: cord compression.
+ • 65% abdominal (adrenal slightly commoner in children than infants); pelvic, from the organ of
+   Zuckerkandl, 4% → urinary retention and constipation.
+ • Metastases in 70% at diagnosis.
+
+
+
+
+                                                               page 2 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                      NEUROBLASTOMA
+
+PARANEOPLASTIC SYNDROMES OF NEUROBLASTOMA
+ Syndrome                            Mechanism                                Features
+ Catecholamine excess                Catecholamine release                    Phaeochromocytoma-like: paroxysmal
+                                                                              hypertension, palpitations, flushing, headache
+ Vasoactive intestinal peptide       Tumour VIP secretion                     Watery diarrhoea, hypokalaemia
+ (VIP)
+ Opsoclonus myoclonus ataxia Anti-tumour antibodies cross-                    Myoclonus, opsoclonus, ataxia; half of OMAS
+ syndrome (OMAS)             reacting with neural tissue                      patients have neuroblastoma
+
+Diagnosis
+Laboratory Evaluation
+ • Urinary vanillylmandelic acid (VMA) and homovanillic acid (HVA) raised in 90–95%; they fall with
+   therapy → monitor response and relapse.
+ • Anaemia with marrow disease. Marrow staging: two aspirates + two biopsies (biopsy adds substantially);
+   immunocytology may eventually replace biopsy.
+Imaging
+ • Plain film: calcified abdominal or posterior mediastinal mass.
+ • Computed tomography (CT) and magnetic resonance imaging (MRI) define local extent and vessels; renal
+   parenchymal invasion is uncommon but CT-detectable. MRI is better for intraspinal extension and great-
+   vessel relationships.
+ • Intratumoral calcification and vascular encasement favour neuroblastoma over Wilms tumour.
+ • 123I-meta-iodobenzylguanidine (MIBG) scan is required by COG for staging, replacing skeletal survey
+
+   and bone scan. Uptake is by adrenergic secretory vesicles; it is more sensitive than 131I-MIBG or bone
+   scan for relapse. Non-avid tumours → positron emission tomography (PET).
+ • Bone metastases: long bones and skull.
+Screening
+ • Urinary catecholamine screening in Japan (>20 years) aimed to detect earlier stage. Diagnoses before 1
+   year rose steeply, mostly low stage, with almost uniform survival — but advanced disease after 1 year
+   did not fall. The aggressive tumours of older children therefore do not arise from the infant tumours.
+ • Screen-detected tumours: MYCN amplification essentially absent, favourable (hyperdiploid) ploidy,
+   excellent survival → many would regress untreated.
+NEUROBLASTOMA SCREENING PROGRAMMES
+ Programme Age screened            Detection                                         Advanced disease / mortality
+ Japan          Infancy            More infant, low-stage, favourable                No fall after 1 year
+                                   tumours
+ Quebec         Infancy            More low-stage tumours                            No fall in older-child incidence or
+                                                                                     mortality
+ Germany        10–19              Fewer early, more unfavourable                    No fall in mortality
+                months
+
+ • At any age, screening adds favourable tumours without removing unfavourable ones — the classic
+   example of overdiagnosis.
+Concept — Screening failed because it detects the wrong disease: favourable infant tumours destined to
+regress, leaving unfavourable disease in older children untouched.
+
+
+                                                               page 3 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                NEUROBLASTOMA
+
+Staging
+ • Stage determines adjuvant therapy. The International Neuroblastoma Staging System (INSS) is clinical,
+   radiographic and surgical; systems diverge most in intermediate disease.
+ • The International Neuroblastoma Risk Group (INRG) Staging System is imaging-based and pre-
+   treatment: L1 has no image-defined risk factor (IDRF); L2 has one or more of 20 IDRFs (chiefly vessel or
+   nerve encasement); M; MS. L1 has better 5-year event-free survival (EFS) than L2, about 90% versus 78%.
+ • The IDRF–resectability link is disputed, but IDRFs predict worse survival and more operative
+   complications in localised disease. In unresectable disease, IDRFs are unchanged by chemotherapy in
+   half and new in one-fifth. Midline perivascular IDRFs carry more complications and lower EFS and overall
+   survival (OS).
+ • The INRG Pretreatment Classification combines stage, age, histology, grade, MYCN, 11q and ploidy (COG
+   revised version, 2021). It is the most accurate guide to treatment intensity.
+ • Resection-based staging is institution-dependent.
+TABLE 63.1 INTERNATIONAL NEUROBLASTOMA STAGING SYSTEM (BRODEUR ET AL., 1993)
+ Stage Definition
+ 1       Localised, complete gross excision ± microscopic residual; ipsilateral nodes negative (adherent nodes
+         removed with the primary may be positive)
+ 2A      Localised, incomplete gross excision; non-adherent ipsilateral nodes negative
+ 2B      Localised, non-adherent ipsilateral nodes positive; enlarged contralateral nodes negative
+ 3       Unresectable unilateral tumour infiltrating across the midline; or contralateral regional nodes; or midline
+         tumour with bilateral extension
+ 4       Dissemination to distant nodes, bone, marrow, liver, skin or other organs
+ 4S      Primary as 1, 2A or 2B; spread only to skin, liver and marrow (<10%); infants under 1 year
+
+ • Midline = vertebral column; crossing means infiltrating to or beyond the opposite side. The table turns
+   on resection and nodes (1 → 2A → 2B) and on bone, which excludes 4S.
+INSS VERSUS INRG STAGING SYSTEM
+                                INSS                                          INRG Staging System
+ Basis                          Surgical + clinical + radiographic            Imaging, before treatment
+ Localised                      1–3 by resection and nodes                    L1 / L2 by IDRFs
+ Special metastatic             4S, under 12 months                           MS, under 18 months
+ Weakness                       Surgeon-dependent                             IDRF–resectability link disputed
+
+TABLE 63.2 INRG CLASSIFICATION SYSTEM (COHN ET AL., 2009) — REBUILT BY STAGE
+ Stage                      Qualifiers                                                           Risk
+ L1 or L2                   Ganglioneuroma maturing; ganglioneuroblastoma intermixed             A · Very low
+ L1, any other histology
+ L1                         MYCN not amplified / amplified                                       B · Very low / K · High
+ L2, any other histology
+ <18 months                 Not amplified: no 11q aberration / 11q aberration                    D · Low / G ·
+                                                                                                 Intermediate
+ ≥18 months                 Ganglioneuroblastoma nodular or neuroblastoma,                       E · Low / H · Intermediate
+                            differentiating, not amplified: no 11q / 11q
+ ≥18 months                 Poorly differentiated or undifferentiated, not amplified             H · Intermediate
+ ≥18 months                 MYCN amplified                                                       N · High
+
+
+                                                               page 4 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                         NEUROBLASTOMA
+
+ Stage                      Qualifiers                                                   Risk
+ M
+ <18 months                 Not amplified, hyperdiploid                                  F · Low
+ <12 months / 12 to         Not amplified, diploid                                       I · Intermediate / J ·
+ <18 months                                                                              Intermediate
+ <18 months                 MYCN amplified                                               O · High
+ ≥18 months                 Any                                                          P · High
+ MS (<18 months)
+ MS                         Not amplified: no 11q / 11q aberration; amplified            C · Very low / Q · High; R ·
+                                                                                         High
+
+ • 5-year EFS: very low >85%; low >75–≤85%; intermediate ≥50–≤75%; high <50%. Diploid = DNA index
+   ≤1.0; hyperdiploid >1.0 (includes near-triploid and near-tetraploid).
+ • Pattern: MYCN amplification makes any stage high risk (maturing histologies excepted); M at ≥18 months
+   is always high; 11q aberration lifts non-amplified L2 and MS. Trap: MS with 11q aberration is high risk.
+Concept — INRG staging moves from what the surgeon achieved to what imaging showed before
+treatment, and then lets age and biology, not anatomy alone, set the risk group.
+
+Prognostic Factors
+Clinical Variables
+ • Age: historically ≤1 year does better, reflecting favourable biology. Age behaves as a continuous variable:
+   a cut-off of 460 days maximised the difference, and INRG places the risk step at 18 months. Teenagers
+   and adults have indolent but relentless disease.
+ • Site: non-adrenal primaries do better. Thoracic tumours present younger and localised and do better
+   even after correction for age and stage, being less often amplified and more often DNA index >1.0.
+ • Stage is powerful and independent:
+      ◦ Stage I completely resected — all survive.
+      ◦ Stage II is favourable even when excision is incomplete.
+      ◦ Stages III and IV fare worse.
+      ◦ Historical OS for stages I, II and 4S was 75–90%, against a stage IV 2-year disease-free survival of 19–
+        30% despite marrow transplantation.
+      ◦ Stage distribution is age-dependent, and infants outperform older children at the same stage.
+ • Stage 4S (INRG MS):
+      ◦ Small primary with spread to liver, skin and marrow (<10%); no radiographic bone metastases.
+      ◦ 7–10% of cases; OS 80–88%; frequent spontaneous regression.
+      ◦ Adverse features:
+          ▪ neuron-specific enolase (NSE) >100 ng/mL
+          ▪ ferritin >280 ng/mL
+          ▪ urinary dopamine >2500 nmol/mmol creatinine
+          ▪ MYCN amplification
+          ▪ 1p deletion
+      ◦ Deaths occur in infants under 2 months with massive abdominal disease, respiratory compromise or
+        disseminated intravascular coagulation.
+
+
+
+                                                               page 5 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                        NEUROBLASTOMA
+
+Biologic Variables
+ • Homogeneously staining regions and double minutes (about one-third) are the cytogenetic signature of
+   amplification; MYCN maps there. Amplification is almost always present at diagnosis, and its adverse
+   effect is independent of age and stage. Not every poor outcome is amplified: many non-amplified
+   advanced tumours still recur.
+ • Flow cytometry: hyperdiploid favourable; diploid and tetraploid adverse.
+ • COG risk assignment: age, stage, MYCN, histological grade, DNA ploidy.
+ • Telomere length was the sole parameter identifying a favourable subgroup within high-risk disease.
+BIOLOGICAL PROGNOSTIC MARKERS IN NEUROBLASTOMA
+ Marker                                         Frequency                      Direction      Association
+ MYCN amplification (2p24)                      20–25% of primaries; ~40%      Adverse,       Advanced stage; 1p
+                                                advanced, 5–10% low stage or   independent    loss
+                                                4S
+ 1p36 deletion                                  25–35% overall; ~70%          Adverse,        MYCN amplification
+                                                advanced; 70–80% near-diploid independent
+ Unbalanced 11q LOH                             —                              Adverse,       Rarely with MYCN
+                                                                               independent
+ 17q gain                                       —                              Strongest on   Translocation with 1
+                                                                               multivariate   or 11
+ Hyperdiploidy                                  About half                     Favourable     Infants, screen-
+                                                                                              detected, thoracic
+ High-affinity nerve growth factor              —                              Favourable     Inverse to MYCN
+ receptor (TRKA) and low-affinity
+ receptor
+ Ferritin, NSE, lactate dehydrogenase           —                              Adverse, not   —
+ (LDH) raised; CD44 absent                                                     independent
+
+ • Trap: in neuroblastoma diploid is bad and hyperdiploid good.
+Concept — Every marker sorts along one axis — MYCN amplification and segmental change versus whole-
+chromosome gain with neurotrophin-receptor expression — and age is powerful chiefly as a proxy for which
+side a tumour lies on.
+
+Treatment
+ • Surgery, chemotherapy and radiotherapy, weighted by stage, age and biology (Table 63.2).
+Surgery
+ • Goals: diagnose → stage → excise if localised → tissue for biology. Resectability weighs site, mobility,
+   IDRFs and overall prognosis.
+ • Neoadjuvant chemotherapy improves resectability; never sacrifice vital structures at diagnosis,
+   especially in young children with excellent prognosis.
+Low-Risk Disease (Stages I, II and 4S)
+ • Stage I: surgery alone, disease-free survival >90%. Chemotherapy only at recurrence, unless MYCN
+   amplification with unfavourable histology; no radiotherapy. Risk grading now identifies the few who
+   used to recur.
+ • Resection alone for stages I–II gave excellent OS; supplemental therapy was rarely needed. OS was lower
+   with MYCN amplification, unfavourable histology, age >2 years and positive nodes.
+
+
+
+
+                                                               page 6 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                               NEUROBLASTOMA
+
+ • COG P9641 treated asymptomatic disease with surgery alone. Chemotherapy was reserved for symptoms,
+   those at risk of symptoms, or <50% resection with progression. Results: 5-year EFS about 89%, OS about
+   97%. In stage 2B, outcome was worse with unfavourable histology or diploidy and at ≥18 months. About
+   one in nine observed patients recurred or progressed.
+ • Removing normal organs, particularly the kidney, is not justified. Radiotherapy to residual stage II
+   disease does not change progression-free survival → keep it for chemotherapy-refractory relapse.
+ • Stage III, or stage II around the renal vessels: preoperative chemotherapy reduces nephrectomy (Figure
+   63.5).
+ • 4S: most tumours have entirely favourable markers; a small adverse-marker fraction progresses fatally.
+      ◦ Resection of the primary is not mandatory — survival is equal after complete resection, partial
+        resection or biopsy.
+      ◦ Survival falls sharply with diploidy, MYCN amplification or unfavourable histology.
+      ◦ Extensive metastases with amplification = high risk → multimodal therapy. Favourable and
+        asymptomatic → supportive care ± limited chemotherapy.
+High-Risk and Advanced Disease
+ • More than half of new patients are high risk; the value of extensive resection in stage IV is contested
+   (table).
+ • As systemic control improves, local control matters more. Gross total resection plus external-beam
+   radiotherapy gives 84–90% local control. Double autologous bone marrow transplantation (ABMT) with
+   aggressive surgery and radiotherapy gives local recurrence of only 2.6%.
+ • Defer resection until after initial chemotherapy: tumours become smaller and firmer, with less rupture,
+   haemorrhage and nephrectomy, and more complete resections. Timing: 13–18 weeks, after 3–4 courses;
+   some remain inoperable.
+ • Complications:
+      ◦ Diarrhoea from division of autonomic nerves anterior to the aorta at the coeliac and superior
+        mesenteric origins.
+      ◦ Chylous ascites from nodal resection — usually self-limiting.
+ • Infants with extensive local or stage IV disease do better than older children but worse than 4S; biology
+   separates high from intermediate risk. In European trials, non-amplified infants with midline-crossing
+   primaries or a positive skeletal survey did well without chemotherapy; those with overt skeletal, lung or
+   central nervous system metastases did well with ≥4 courses.
+EXTENT OF RESECTION IN STAGE IV NEUROBLASTOMA
+ Study                               Population / comparison                      Verdict
+ Retrospective review                Stages III–IV, radical versus conventional   No survival difference
+                                     resection
+ Retrospective review                Stage IV, extent of resection                No survival impact
+ German NB97 trial                   Stage IV, >18 months; upfront and post-      No benefit in EFS, local progression-
+                                     neoadjuvant surgery                          free survival or OS
+
+
+
+
+                                                               page 7 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                   NEUROBLASTOMA
+
+ Study                               Population / comparison                           Verdict
+ Two-institution uniform-            Aggressive surgery + local radiotherapy           No isolated local relapse after >90%
+ protocol series                                                                       resection
+
+ • Survival endpoints show no benefit; local-control endpoints favour aggressive resection — the dispute is
+   partly about which endpoint.
+Concept — The value of surgery runs inversely with biology: favourable tumours are cured by little or no
+resection, unfavourable ones are not rescued by radical resection, so vital structures are never traded for
+margin.
+Chemotherapy
+ • High-risk sequence: intensive induction → myeloablative consolidation with stem-cell support →
+   biological therapy for minimal residual disease. Five-year survival rose from <15% to 30–40%; relapse
+   remains the problem; dose intensity correlates with response and survival.
+ • The Memorial Sloan Kettering (MSKCC) induction — cyclophosphamide, vincristine and doxorubicin
+   alternating with cisplatin and etoposide — gives high response rates and is widely adopted.
+ • Myelosuppression limits dose → ABMT after myeloablative chemotherapy or total-body irradiation.
+   Complete remission is seen in up to half of stage IV, but with late relapse.
+ • Bulky disease fails → debulk before ABMT. Transplant toxicity can be lethal and late effects are unknown;
+   this is accepted because cure is rare without it.
+HIGH-RISK NEUROBLASTOMA — CONSOLIDATION AND BIOLOGICAL THERAPY TRIALS
+ Trial                 Question                                                            Verdict
+ German                Myeloablation + stem-cell rescue versus maintenance                 Better 3-year EFS; OS not different
+ randomised trial                                                                          at first report
+ COG randomised        Myeloablation + ABMT; then 13-cis-retinoic acid versus none         Better EFS; 5-year OS improved on
+ trial                                                                                     update; retinoid reduced relapse
+ COG purging trial Purged versus unpurged marrow                                           No difference; stopped early
+ COG tandem trial Tandem versus single myeloablation                                       Tandem improves 3-year EFS
+ COG anti-GD2          Anti-GD2 + granulocyte-macrophage colony-stimulating                Antibody superior
+ trial                 factor (GM-CSF) + interleukin-2 (IL-2) + retinoid versus
+                       retinoid alone
+ Relapse trial         Irinotecan + temozolomide with anti-GD2 versus                      Anti-GD2 effective; mTOR inhibitor
+                       temsirolimus                                                        very low response
+
+New Innovative Biologic Therapies
+ • Double ABMT has reached the ceiling of myeloablation. 13-cis-retinoic acid differentiates tumour cells,
+   including recurrent ones; it is given for 6 months after cytotoxic therapy.
+ • GD2 disialoganglioside is uniformly expressed on neuroblastoma. Antibody is now combined with an
+   irinotecan–temozolomide backbone. Humanised antibodies aim to reduce the dose-limiting pain, and
+   front-line GD2 trials are planned. Temozolomide and irinotecan (phase I–II in relapse) will advance to
+   front-line trials.
+ • 131I-MIBG therapy delivers radiation via tracer uptake. It achieves responses even after heavy
+   pretreatment (about 28–39%) and is now in COG trials.
+AGENTS IN NEUROBLASTOMA THERAPY
+ Agent                                      Class / target                              Role
+                                            Alkylator; vinca alkaloid; anthracycline
+
+
+
+                                                               page 8 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                 WILMS TUMOUR
+
+ Agent                                      Class / target                          Role
+ Cyclophosphamide; vincristine;                                                     Induction (MSKCC), alternating with
+ doxorubicin                                                                        ↓
+ Cisplatin; etoposide                       Platinum; topoisomerase II inhibitor    Induction, alternating cycles
+ Irinotecan + temozolomide                  Topoisomerase I inhibitor + alkylator   Relapse; antibody backbone
+ 13-cis-retinoic acid                       Differentiating agent                   Maintenance, 6 months
+ Anti-GD2 (+ GM-CSF, IL-2)                  GD2 disialoganglioside                  Minimal residual disease after
+                                                                                    transplant; relapse
+ Temsirolimus                               Mammalian target of rapamycin           Relapse — very low response
+                                            (mTOR) inhibitor
+ 131I-MIBG                                  Radionuclide via adrenergic vesicles    Relapsed / refractory
+
+ • Trap: 123I-MIBG is diagnostic; 131I-MIBG is therapeutic.
+
+Concept — High-risk therapy is a staircase of intensification — induction, myeloablation, tandem transplant,
+then differentiation and anti-GD2 immunotherapy — each step aimed at the residual disease the previous
+one left.
+Radiotherapy
+ • Effective for local control; relapse risk tracks biology. No benefit in low stage; improves local control in
+   stage IV and bulky stage III. No randomised comparison with surgery. Dose 15–30 Gy by age, site and
+   residual disease.
+Spinal Cord Compression
+ • Symptomatic in up to 5%; radiographic intraspinal extension in up to 13%.
+ • Laminectomy, radiotherapy and chemotherapy give similar neurological outcomes; severe motor deficits
+   recover little.
+ • Sequence: chemotherapy first → laminectomy only for progressive deterioration (laminectomy causes
+   late scoliosis); radiotherapy avoided (impairs spinal growth).
+Concept — With equal neurological results from every modality, the choice rests on late morbidity —
+scoliosis after laminectomy, growth arrest after radiotherapy — which leaves chemotherapy first.
+
+ KEY POINTS: NEUROBLASTOMA
+   • Most common extracranial solid neoplasm in children.
+   • Children younger than 18 months survive better, attributed to favourable biology.
+   • Complete resection is curative for low-stage disease.
+   • MYCN amplification (about 20% of primaries) is associated with progression and a poor prognosis
+     independent of age and stage; biological markers now drive treatment protocols.
+
+
+WILMS TUMOUR
+
+Epidemiology
+ • Wilms tumour (WT), nephroblastoma: 6–7% of childhood cancers, 95% of kidney cancers under 15
+   years; an embryonal tumour from immature renal remnants.
+ • Incidence 7.5 per million person-years (0–14 years). Over 80% before 5 years; median 3.5 years;
+   occasionally adults.
+ • Younger in bilateral and syndromic disease, and in males; slight female excess overall.
+
+
+                                                               page 9 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                    WILMS TUMOUR
+
+ • Lower in East Asian, higher in Black populations. The variation follows race, not geography, so
+   environmental factors play a minor role. Few exposures are established.
+ • Black children present more advanced; whether biology or social determinants of health explain this is
+   unclear. In Africa, survival is poor but improving; delayed presentation and treatment abandonment
+   persist.
+
+Biology/Genetics
+ • Mostly somatic; several events are required, so the Knudson two-hit model does not explain most cases.
+ • 10–15% are due to a germline variant or early embryonic epigenetic change (11p15), with or without a
+   syndrome.
+ • Familial 1–2%, two-thirds unexplained.
+ • Commonest constitutional changes: WT1 and 11p15.5. Systematic testing finds a cause in up to one-third.
+ • Whether to refer all patients for genetics is debated. Accepted indications are:
+      ◦ bilateral or multifocal tumours
+      ◦ age under 2 years
+      ◦ nephrogenic rests
+      ◦ overgrowth or predisposition features, or family history
+ • In unselected cohorts, 11p15 / Beckwith-Wiedemann spectrum is commonest, then WT1 syndromes,
+   then DIS3L2.
+TABLE 63.3 GENE MUTATIONS IN WILMS TUMOURS
+ Gene (chromosome)               Frequency                                            Somatic / germline
+ IGF2 (11p15)                    70%                                                  Both
+ WTX (Xq11)                      20%                                                  Somatic only
+ WT1 (11p13)                     20%                                                  Both
+ CTNNB1 (3p21)                   15%                                                  Somatic only
+ TP53 (17p13)                    4% overall; anaplastic ~70% (table) / ~50% (text)    Both
+
+ • 11p15 dominates; WTX and CTNNB1 are purely somatic; TP53 is the anaplasia gene. The two anaplastic
+   TP53 figures come from different sources; "majority of anaplastic tumours" is the safe statement.
+WT1
+ • First WT gene, found through 11p13 deletions in WAGR (Wilms tumour, aniridia, genitourinary
+   anomalies, intellectual disability) and cloned in 1990.
+ • WT1 + CTNNB1 (β-catenin) = "ideal type I" WT; WAGR and Denys-Drash syndrome (DDS) tumours belong
+   here (table).
+ • DDS = 46,XY disorder of sex development + mesangial sclerosis + WT.
+      ◦ Caused by zinc-finger point mutations, over 90% heterozygous germline.
+      ◦ The phenotype is worse than deletion because the mutant makes a dysfunctional (dominant-negative)
+        protein.
+      ◦ Early nephropathy → end-stage renal disease (ESRD) in most.
+      ◦ Incomplete forms occur, and it has been reported in phenotypic females.
+ • WAGR and DDS are more often bilateral and younger. Renal failure risk is shared by WAGR, DDS and
+   WT1-related genitourinary anomalies (rising if they survive to puberty).
+ • Genitourinary anomalies occur in 4.5% of WT; WT1 is mutated in only ~2% without them. The non-
+   tumour kidney has smaller glomeruli.
+
+
+                                                               page 10 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                         WILMS TUMOUR
+
+ • Only ~20% carry a WT1 mutation, so it is not the classic suppressor once assumed. Somatic WT1: median
+   onset 14 months, suggesting faster progression.
+ • 11p15 epigenetic WT = "ideal type II" (table).
+ • Beckwith-Wiedemann syndrome (BWS) and hemihypertrophy:
+       ◦ WT risk 4–10%, 21% bilateral; age at diagnosis is similar to the general population.
+       ◦ Also adrenocortical tumours and hepatoblastoma.
+       ◦ Nephromegaly (≥95th centile) carries the highest risk; genotype now refines risk.
+IDEAL TYPE I VERSUS TYPE II WILMS TUMOUR
+                 Type I (WT1 ± CTNNB1)                                Type II (11p15 epigenetic)
+ Histology       Stromal-predominant                                  Blastemal or epithelial; limited nephrogenic
+                                                                      differentiation
+ Rests           Intralobar                                           Perilobar
+ Age             Early                                                Later; heavier birth weight
+ Associations WAGR, DDS; male genitourinary                           BWS
+              anomalies
+
+WAGR VERSUS DENYS-DRASH SYNDROME
+                          WAGR                                                 Denys-Drash
+ WT1 lesion               Deletion (one allele lost)                           Point mutation (dominant negative)
+ Genitourinary            Milder                                               46,XY DSD
+ Kidney                   Renal failure risk into puberty                      Early mesangial sclerosis → ESRD
+
+Familial Wilms Tumor
+ • Earlier onset, more bilateral. Loci FWT1 (17q12–q21) and FWT2 (19q13.4), moderate penetrance, no LOH
+   pattern.
+ • Exome sequencing adds TRIM28 (commonest; always maternally inherited; epithelial subtype), FBXW7,
+   NYNRIN and KDM3B.
+Other Chromosomal Abnormalities
+11p15
+ • Imprinted gene cluster; LOH or loss of imprinting in up to 70%. A WT2 locus is postulated here but its
+   gene is unidentified. The region causes BWS by epigenetic mechanisms; Perlman, Sotos and Simpson-
+   Golabi-Behmel act otherwise.
+ • BWS is mostly sporadic; up to 15% heritable (autosomal dominant). Imprinting centre 1 (ICR1) → IGF2,
+   H19; ICR2 → CDKN1C, KCNQ1OT1, KCNQ1; parent-specific methylation → monoallelic expression.
+ • Other losses (frequencies in the table): 1p and 16q LOH → relapse and death. 11q LOH matters only with
+   whole-arm loss.
+ • 1q gain is not independent of 1p/16q LOH, since the same translocations produce both. After stage
+   adjustment it still predicts recurrence and worse OS.
+CHROMOSOMAL MARKERS IN FAVOURABLE-HISTOLOGY WILMS TUMOUR
+ Marker                       Frequency                        Significance                         Use
+ 16q LOH                      ~20%                             Relapse, death                       —
+ 1p LOH                       ~10%                             Relapse, death                       —
+ Combined 1p + 16q            ~5%                              Adverse at all stages                Regimen M
+ LOH                                                                                                (AREN0532/0533)
+
+
+                                                               page 11 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                      WILMS TUMOUR
+
+ Marker                       Frequency                        Significance                     Use
+ 11q LOH                      ~20%; 3–4× in                    Adverse only with whole-arm      —
+                              anaplasia                        loss
+ 1q gain                      25–30%                           Recurrence, worse OS             Next stratifier
+
+ • Combined LOH is the validated stratifier but rare; 1q gain is common, which is why it is the next target.
+Screening
+ • Serial renal ultrasonography (US) every 3–4 months in high-risk children. The interval does not lengthen
+   with age, because tumour growth rate is assumed constant.
+ • Screening detects lower-stage tumours but gives no proven survival benefit. The gain is nephron-sparing
+   surgery in children at risk of bilateral disease (Figure 63.6).
+ • Screen if WT risk >1% (American Association for Cancer Research); some use >5%. Continue until 7 years.
+ • BWS / isolated hemihypertrophy, trisomy 18, Simpson-Golabi-Behmel syndrome: add abdominal US +
+   α-fetoprotein every 3 months from birth to the fourth birthday (hepatoblastoma).
+ • Contralateral kidney after nephrectomy: US every 3–4 months until 5 years. Risk is highest in infants
+   under 12 months with rests.
+ • Suspicious lesion → CT or MRI. Benign cysts are common in BWS; recognise them to avoid unnecessary
+   nephrectomy.
+TABLE 63.4 SYNDROMES ASSOCIATED WITH DEVELOPMENT OF WILMS TUMOUR
+ Syndrome                                                         Gene                Locus            WT risk
+ High risk
+ WAGR                                                             WT1                 11p13            50%
+ Denys-Drash                                                      WT1                 11p13            50%
+ Fanconi anaemia D1                                               BRCA2               13q12.3          >20%
+ Perlman                                                          DIS3L2              2q37             >20%
+ Mosaic variegated aneuploidy                                     BUB1B               15q15            >20%
+ Moderate risk
+ Beckwith-Wiedemann                                               IGF2, H19           11p15            5–10%
+ Hemihypertrophy                                                  IGF2, H19           11p15            5%
+ Frasier                                                          WT1                 11p13            5–10%
+ Simpson-Golabi-Behmel                                            GPC3                Xq26             10% (males)
+ Low risk
+ Li-Fraumeni (TP53, 17p13); neurofibromatosis (NF1, 17q11); Sotos (NSD1, 5q35); trisomy 18; Bloom (BLM, 15q26)
+
+ • The table decides who is screened — every high- and moderate-risk syndrome clears 1%. Trap: BWS is the
+   commonest predisposing syndrome but only moderate risk; WAGR and DDS are rarer and highest.
+Concept — Screening intensity follows risk: the >1% threshold selects the child, the 3-monthly interval reflects
+growth rate, and the pay-off is nephron preservation, not survival.
+
+Pathology
+Favorable-Histology Wilms Tumor
+ • A pseudocapsule of compressed parenchyma distinguishes WT from rests. Tumours are soft, friable,
+   necrotic or haemorrhagic, which raises the risk of intraoperative spill.
+
+
+
+
+                                                               page 12 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                     WILMS TUMOUR
+
+ • 12% multicentric unilateral. Extrarenal WT is rare, arising from displaced metanephric or mesonephric
+   remnants.
+ • Derived from metanephric blastema, WT may contain heterotopic muscle, cartilage or squamous
+   epithelium. Classic triphasic pattern = blastema + epithelium (tubules, rosettes, glomeruloid bodies) +
+   stroma (Figure 63.7). Biphasic or monomorphous tumours are diagnostically hard.
+ • Epithelial-predominant tumours have low aggressiveness and are mostly stage I, but are resistant when
+   advanced.
+Anaplastic Wilms Tumor
+ • Recognised through National Wilms Tumor Study Group (NWTSG) central review. Three criteria:
+        ◦ nuclear enlargement ≥3× adjacent nuclei
+        ◦ hyperchromasia
+        ◦ abnormal mitoses
+ • Seen in ~2% under 2 years and ~13% over 5 years. Causes chemoresistance, with a poor prognosis even
+   at stage I. Focal versus diffuse: diffuse (throughout the kidney or extrarenal) is worse.
+ • Later age and absence from rests mean anaplasia is acquired by WT cells; TP53 is mutated in the
+   majority.
+Pathology After Preoperative Chemotherapy
+ • The International Society of Paediatric Oncology (SIOP) grades response by volume and histology.
+ • Stromal- and epithelial-predominant tumours are enriched after chemotherapy: they shrink little but are
+   excellent if excised.
+ • Blastema responds, but residual blastemal predominance → relapse and worse survival.
+ • Progression during chemotherapy occurs in ~5% (SIOP 93-01), with lower OS.
+ • Chemotherapy and radiation may induce cytodifferentiation (e.g. rhabdomyomatous), which confounds
+   biopsy; differentiated tumours are chemoresistant → excise.
+ • Necrosis correlates positively with pre-treatment blastema and negatively with epithelium.
+ • Stage I low-risk after nephrectomy → no further chemotherapy.
+SIOP POST-CHEMOTHERAPY HISTOLOGICAL RISK GROUPS
+ Risk                              Histology
+ Low                               Completely necrotic
+ Intermediate                      All others
+ High                              Diffuse anaplasia; blastemal-predominant
+
+Concept — After chemotherapy, volume response and prognosis come apart: blastema shrinks but predicts
+relapse if it survives, whereas differentiated stroma and epithelium barely shrink yet are cured by excision.
+Nephrogenic Rests
+ • Nephrogenic rests (NRs) are found in more than one-third of WT kidneys and over 90% of bilateral cases.
+   Most never form WT: they mature, sclerose, involute or disappear. They are present in 1% of infant
+   kidneys at autopsy.
+ • Methylation may identify which rests progress.
+ • Multiple rests in one kidney imply rests in the other.
+ • Infants under 12 months with WT + rests (especially perilobar) are at high contralateral risk → frequent
+   surveillance for years. Those over 12 months with rests are also followed. Metachronous WT after
+   chemotherapy shows that rests are not always eradicated.
+
+
+                                                               page 13 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                         WILMS TUMOUR
+
+ • Nephroblastomatosis = multiple rests. Diffuse hyperplastic perilobar nephroblastomatosis (DHPLN):
+      ◦ a thick rind that enlarges the kidney but preserves its shape (Figure 63.8)
+      ◦ almost always bilateral
+      ◦ a stand-alone subtype
+ • WT develops in nearly half with DHPLN, even after adjuvant therapy, and more often anaplastic after
+   chemotherapy. With 12 weeks of vincristine and dactinomycin, most still developed WT but all survived
+   and most renal units kept function.
+PERILOBAR VERSUS INTRALOBAR NEPHROGENIC RESTS
+                    Perilobar (PLNR)                                           Intralobar (ILNR)
+ Location           Lobar periphery, subcortical                               Anywhere in the lobe, sinus, pelvicalyceal wall
+ Timing             Late embryogenesis                                         Early embryogenesis
+ Appearance         Sharply demarcated; blastema and tubules                   Stroma-rich, intermingled
+ Syndrome           BWS (11p15)                                                Aniridia, WAGR, DDS (WT1)
+ Resulting WT       Type II                                                    Younger; stromal with rhabdomyogenesis
+
+Concept — Rest position encodes gestational timing, and timing encodes genotype: early intralobar rests go
+with WT1, late perilobar rests with 11p15.
+
+Preoperative Evaluation and Staging
+ • Over 85% symptomatic — mass, pain, haematuria. Asymptomatic masses are found by parents or
+   doctors, and are more often stage I–II. The mass may be huge and cross the midline.
+ • Haematuria ~20%; hypertension ~25% (renin); fever, anorexia and weight loss 10%; rarely an acute
+   abdomen from rupture. Gross haematuria → cystoscopy + retrograde pyelogram at nephrectomy, to
+   detect collecting-system extension.
+ • Supine-persistent varicocele or hepatomegaly → inferior vena cava (IVC) thrombus; atrial thrombus →
+   hypertension or heart failure (<10% symptomatic). Examine for aniridia, hemihypertrophy and
+   genitourinary anomalies.
+ • Operate as an emergency only for active bleeding or rupture.
+ • Bloods: blood count, liver enzymes, electrolytes including urea, creatinine and calcium.
+ • Acquired von Willebrand disease occurs in up to 8% — check coagulation; prothrombin and partial
+   thromboplastin times may be normal. Correct with desmopressin (DDAVP), or intravenous
+   immunoglobulin or plasmapheresis if needed; it reverses after resection or chemotherapy.
+Imaging
+ • Paediatric renal tumours overlap radiologically: WT cannot be reliably separated from renal cell
+   carcinoma (RCC) or clear cell sarcoma of the kidney (CCSK). A minority of presumed WTs treated without
+   biopsy prove to be other diagnoses (SIOP-9; United Kingdom Children's Cancer Study Group, UKCCSG).
+ • Clinical clues:
+      ◦ A syndrome → WT; bilateral or multicentric → WT (lymphoma can mimic).
+      ◦ Neonate → congenital mesoblastic nephroma (CMN), though favourable-histology WT and rhabdoid
+        tumour of the kidney (RTK) also occur early.
+      ◦ WT can mimic neuroblastoma.
+ • In National Wilms Tumor Study (NWTS)-3, misdiagnoses were mostly unimaged children, who had more
+   complications. What matters is establishing a solid renal tumour, so that a major cancer operation is
+   planned.
+
+
+                                                               page 14 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                              WILMS TUMOUR
+
+ • Sequence: US first → contrast CT or MRI of abdomen and pelvis in all → chest CT. US triages; avoid non-
+   contrast CT.
+ • Doppler can suggest caval extension (~4%), but phased CT is more reliable. SIOP favours MRI with
+   diffusion-weighted imaging; COG accepts either. MRI characterises better but neither differentiates nor
+   stages reliably, and needs anaesthesia.
+ • Cross-sectional imaging shows extrarenal spread and synchronous lesions (Figure 63.9). No contralateral
+   exploration if imaging is normal.
+ • Rupture: CT has poor sensitivity; ascites beyond the cul-de-sac is the best predictor.
+ • Nodes and extrarenal invasion: imaging is unreliable, and positron emission tomography (PET) adds
+   nothing → inoperability is decided at exploration.
+ • Lung = commonest metastatic site → chest CT, done before MRI to avoid anaesthetic atelectasis.
+ • CT-only nodules are controversial. Some treat with dactinomycin (actinomycin D, AMD) and vincristine
+   (VCR) alone; others report more relapse without intensification.
+ • AREN0533: no 1p/16q LOH + complete nodule response at week 6 of VCR, AMD and doxorubicin (DOX)
+   → lung irradiation omitted, with no loss of EFS or OS against NWTS-5.
+ • Surveillance:
+       ◦ COG: chest CT with abdominal CT/MRI alternating with US.
+       ◦ SIOP: US + chest radiograph only.
+       ◦ In NWTS-5, symptom-detected relapse did worse, but imaging modality made no difference.
+ • CCSK and RTK → bone scan + cranial CT/MRI.
+Staging
+ • Histology and stage are the key determinants; COG staging is surgical-pathological.
+ • Renal sinus vessel invasion is the first sign of spread (stage II), then capsular penetration, which requires
+   tumour in perirenal fat. Any spill → stage III.
+ • Stage III is commonest in favourable histology; anaplastic tumours present more often at III–IV.
+TABLE 63.5 STAGING SYSTEM OF THE CHILDREN'S ONCOLOGY GROUP
+ Stage Description
+ I        Confined, completely resected; capsule intact; no rupture; no renal sinus extension
+ II       Extracapsular but completely resected; renal sinus extension or extrarenal vessel thrombus/infiltration
+ III      Residual abdominal tumour: nodes, any spill, peritoneal implants, positive margin, incomplete removal
+ IV       Haematogenous metastases (lung, liver, bone, brain)
+ V        Bilateral at diagnosis
+
+ • Tests the II / III boundary: extension completely removed is II; anything left or spilled, including nodes, is
+   III.
+Prognostic Factors
+ • Better therapy has blunted traditional factors, so trials now stratify by biology.
+Chromosomal Abnormalities
+ • 16q and/or 1p LOH predicts relapse independent of histology and stage. In NWTS-5, stage I–II was worse
+   with either LOH; stage III–IV only with both.
+ • AREN0532/0533: combined LOH → regimen M (cyclophosphamide + etoposide added to VCR, AMD,
+   DOX) → better EFS at all stages. Stage III–IV EFS was ~90% versus 61% on NWTS-5.
+ • Immunohistochemical predictors lie in the blastemal component; they need validation.
+
+
+                                                               page 15 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                     WILMS TUMOUR
+
+AGENTS IN WILMS TUMOUR THERAPY
+ Agent                                Class                                    Use
+ VCR                                  Vinca alkaloid                           Backbone; SIOP two-drug preoperative
+ AMD                                  Antitumour antibiotic                    Backbone; SIOP two-drug preoperative
+ DOX                                  Anthracycline                            Three-drug regimens; bilateral (COG);
+                                                                               cardiotoxic
+ Cyclophosphamide +                   Alkylator + topoisomerase II             Regimen M; CCSK
+ etoposide                            inhibitor
+ Carboplatin                          Platinum                                 Anaplastic, high-risk, relapsed; gonadotoxic
+
+Concept — Wilms stage is surgical-pathological — spill, nodes, margins — so the operating surgeon, not the
+scan, sets chemotherapy intensity and whether the child is irradiated.
+
+Treatment
+Surgical Considerations
+ • Radical nephrectomy, transperitoneal.
+ • Explore for local extension, liver and nodal metastases, peritoneal seeding.
+ • Palpate renal vein and IVC before ligation, using intraoperative US when equivocal. IVC extension occurs
+   in ~6%, and more than half are asymptomatic.
+ • Spare the adrenal if it is clear of tumour.
+ • Lymph node (LN) sampling is essential; formal dissection is not. En bloc resection yields fewer positive
+   nodes.
+ • Omitted sampling is the commonest protocol violation (10–20%) and causes under- and over-staging.
+   More nodes sampled → more positives found.
+ • Basins: hilar; paracaval (right); para-aortic (left); interaortocaval (both). Skip metastases occur
+   interaortocaval.
+ • Node yield: 5–10 is ideal, with at least 5–7 sampled. COG requires ≥5; ≥6 is achievable after SIOP
+   chemotherapy. Extended sampling adds no morbidity.
+ • LN density predicts survival, but thresholds vary widely (0.22–0.65).
+ • Avoid spill: it occurs in ~10%, more with right-sided and larger tumours, and causes local abdominal
+   relapse.
+ • Local recurrence risk factors: spill, unfavourable histology, incomplete removal, no LN sampling (highest in
+   stage II). With all spill now staged III, the stage III risks are positive nodes, combined LOH and residual
+   disease; spill itself no longer predicts relapse, because extra therapy is given.
+ • Minimally invasive surgery (MIS):
+       ◦ Usually done after chemotherapy; cases are few.
+       ◦ Oncology must not be compromised, and upfront MIS raises spill concerns.
+       ◦ SIOP UMBRELLA accepts it for central tumours unsuitable for nephron-sparing surgery (NSS).
+       ◦ Node sampling is harder.
+ • Complications ~11% (NWTS-4), chiefly haemorrhage and small-bowel obstruction. Risk factors: higher
+   stage, >10 cm, wrong diagnosis, thoracoabdominal incision, caval extension, other-organ resection.
+
+
+
+
+                                                               page 16 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                        WILMS TUMOUR
+
+IMMEDIATE VERSUS DELAYED NEPHRECTOMY
+                                                                                      Delayed after 6 weeks of chemotherapy
+ Immediate (COG)                                                                      (UKCCSG / SIOP)
+ Unaltered histology and biology (LOH 1p, 16q, 1q gain) for risk                      Fewer complications; spill near zero
+ assignment; very-low-risk cured by nephrectomy alone (AREN0532)
+ Higher spill and complication rates                                                  Loses pre-treatment staging and biology; a
+                                                                                      minority not WT without biopsy
+
+COG VERSUS SIOP
+                               COG                                             SIOP
+ Unilateral primary            Upfront nephrectomy                             Preoperative chemotherapy, no biopsy
+ Risk basis                    Stage + histology + biology                     Post-chemotherapy histology
+ Primary imaging               CT or MRI                                       MRI + diffusion-weighted imaging
+ Bilateral                     VCR + AMD + DOX                                 VCR + AMD if non-metastatic
+ Unilateral NSS                Limited                                         UMBRELLA criteria
+ Follow-up                     CT-based                                        US + chest radiograph
+
+Concept — COG and SIOP trade the same two goods — untreated biology for risk assignment against a
+safer, spill-free operation — and every procedural difference follows from which is prioritised.
+Adult Wilms Tumor
+ • Once poor, now improved → stage-appropriate combined-modality therapy.
+Relapse
+RELAPSED WILMS TUMOUR RISK GROUPS
+ Group               Definition                                                                        Salvage survival
+ Standard            Non-anaplastic, after VCR and/or AMD only                                         70–80%
+ High                Non-anaplastic, after ≥3 agents                                                   40–50%
+ Very high           Anaplastic or blastemal recurrence                                                ~10%
+
+ • Survival after relapse falls with prior treatment intensity: relapse through three drugs means a resistant
+   tumour.
+ • The role of high-dose chemotherapy with stem-cell rescue is undetermined.
+ • AREN03B2 relapses: SIX1 or MYCN-network mutations in over 40%; 1q gain in 75%.
+ • Surgery in relapse is under study (AREN1921).
+Bilateral and Bilaterally Predisposed Wilms Tumors
+ • Synchronous bilateral WT 5–7% → no initial radical nephrectomy; chemotherapy → renal-sparing
+   surgery.
+ • Renal failure ~15% at 15 years (bilateral); ESRD up to 20% metachronous. Commonest cause: bilateral
+   nephrectomy for persistent or recurrent tumour; avoidable with a careful protocol and experienced
+   surgeons.
+ • AREN0534 sequence: VCR + AMD + DOX for 6 weeks, no biopsy → imaging at week 6 → surgery if
+   feasible → otherwise more chemotherapy, but surgery by week 12.
+ • Rationale: in NWTS-4, poor responders had prolonged chemotherapy, reached surgery at a median of 7
+   months, and some became anaplastic.
+
+
+
+
+                                                               page 17 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                     WILMS TUMOUR
+
+ • Non-responders → bilateral open biopsy. Open because it detects anaplasia better than needle biopsy;
+   bilateral because anaplasia is discordant between kidneys in ~4 of 5.
+ • Volume change does not predict histology; non-shrinkage usually means differentiation, which is
+   excellent if excised (Figure 63.11: minimal shrinkage at 12 weeks; mature rhabdomyoblastic elements at
+   partial nephrectomy).
+ • Results: 84% operated by week 12; bilateral NSS 39% (target 50%), the rest mostly NSS on one side; 4-
+   year EFS 82.1%, OS 94.9%, against 56% and 80.8% on NWTS-5.
+ • Some centres achieve bilateral NSS in over 90%, because compressed parenchyma is easily
+   underestimated (Figure 63.12) → consider NSS in all.
+ • Enucleation gives positive margins in 23–36%, with good outcome if flank radiotherapy is given.
+ • In anaplasia (AREN0534), histology was discordant in 80%. In diffuse anaplasia, margins did not matter (all
+   irradiated), but outcome was poor.
+ • Bilateral nephrectomy and dialysis are needed rarely, for refractory tumour. Modified chemotherapy
+   remains possible when anephric.
+ • Transplant after 1–2 years; remove residual renal tissue first, to prevent recurrence under
+   immunosuppression.
+ • Follow-up is long term, since late relapse can occur after 4 years; monitor renal function, proteinuria and
+   blood pressure.
+ • SIOP: same principle (no biopsy, NSS by week 12) but two-drug AMD + VCR if non-metastatic.
+ • Predisposition syndromes / multicentric tumours (AREN0534): over half kept both kidneys; 4-year EFS
+   94%, OS 100%.
+Partial Nephrectomy for Unilateral Tumors
+ • Renal failure after unilateral nephrectomy is only 0.6% at 20 years. The risk is higher in genitourinary
+   anomalies, DDS and WAGR, because WT1 is needed for renal development. Syndromic children have
+   small screen-detected tumours suited to NSS.
+ • Most tumours are too large. After chemotherapy, NSS is possible in 10–15% with an aggressive approach,
+   ~3% under the SIOP 2001 criteria (polar, peripheral, non-infiltrating), and <10% even in very-low-risk stage
+   I.
+ • Concerns are staging after chemotherapy and local recurrence; intra-abdominal relapse markedly
+   reduces survival.
+ • SIOP 2016 UMBRELLA NSS criteria: <300 mL, substantial remnant, negative nodes. MIS for NSS has scant
+   evidence and risks upstaging by spill.
+ • The adult 4-cm small-renal-mass cut-off helps; manage a small mass by NSS after multidisciplinary
+   review, with a margin of normal kidney and frozen section.
+Concept — In bilateral disease the aim shifts from clearance to nephron preservation within a fixed 12-week
+clock; prolonging chemotherapy for shrinkage buys differentiation and anaplasia, not parenchyma.
+
+Management of Intravascular Extension
+ • Thrombus into the renal vein, IVC or atrium occurs in ~10%.
+ • Consensus: thrombus at or above the hepatic veins → preoperative chemotherapy, to avoid bypass.
+ • Viable tumour remains in 36–60% of thrombi, without affecting survival.
+ • Chemotherapy beyond 6–12 weeks adds no regression and is discouraged.
+ • COG: upfront nephrectomy below the hepatic veins, with the thrombus removed en bloc. Piecemeal
+   removal → stage III → radiotherapy.
+
+
+                                                               page 18 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                        WILMS TUMOUR
+
+ • In a multicentre series:
+      ◦ Higher thrombi responded better, and nearly half regressed in level.
+      ◦ Bypass was avoided in two-thirds of suprahepatic cases.
+      ◦ Complications were commoner with upfront surgery.
+ • The role of anticoagulation is unclear.
+Concept — Thrombus level sets the sequence because the aim is avoiding bypass, not sterilising the
+thrombus — residual viable cells do not alter survival.
+
+Late Effects of Treatment
+ • Childhood cancer 5-year survival exceeds 80%, at the cost of normal-tissue injury. Data come from the
+   NWTSG Late Effects Study and the Childhood Cancer Survivor Study (CCSS) cohorts (1970–1986 and
+   1987–1999).
+ • WT survivors: any chronic condition 65% at 25 years, still rising; severe (grade 3–4) 24%.
+Mortality
+ • Risk of death stays elevated for years. It fell for patients treated in the 1990s, reflecting less radiotherapy
+   and fewer anthracyclines.
+Fertility and Pregnancy
+ • Males: gonadal radiation causes dose-dependent hypogonadism and temporary azoospermia. Leydig
+   cells are more radioresistant than germ cells; high doses give low testosterone and delayed puberty.
+   Chemotherapy also harms the testis.
+ • Females: pelvic radiation and alkylators cause ovarian failure and premature menopause; few
+   pregnancies follow whole-abdominal radiotherapy.
+ • Pregnancy after radiotherapy:
+      ◦ Offspring are at risk of low birth weight and prematurity.
+      ◦ Pelvic fields or doses >20 Gy raise miscarriage.
+      ◦ Hypertension in pregnancy is commoner after abdominal radiotherapy.
+ • Most WT patients are low gonadotoxic risk. Cyclophosphamide, carboplatin and whole-abdomen
+   irradiation (anaplastic, high-risk and relapsed disease) raise it → counsel families. Prepubertal tissue
+   cryopreservation is experimental but increasing.
+Second Malignancies
+ • 1% at 10 years, rising thereafter. Radiation is a leading risk, with tumours mostly in-field. Leukaemia
+   peaks in the first 5 years; solid tumours appear later.
+Cardiac Effects
+ • Congestive heart failure in 4.4% after DOX, higher with whole-lung or left-flank irradiation. Almost none
+   occurred below the contemporary cumulative dose of 150 mg/m²; subclinical toxicity is unassessed.
+   Cardiac disease is the second commonest cause of death >30 years after WT (British Childhood Cancer
+   Survivor Study).
+Concept — Late effects track two exposures — radiotherapy and anthracycline — so falling late mortality
+mirrors their reduction, and every trial that safely omits irradiation is also a late-effects trial.
+
+Other Renal Tumors
+Tumour-by-tumour detail follows; the comparison table at the end of the section carries the shared
+attributes.
+
+
+
+                                                               page 19 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                      WILMS TUMOUR
+
+Clear Cell Sarcoma of the Kidney
+ • CCSK is 3% of renal tumours, named for its clear cytoplasm.
+ • Survival is better with lower stage, younger age, DOX and absence of necrosis; adding DOX improved
+   survival.
+ • Stage I survival is 98%, yet stage I still needs radiotherapy.
+ • Late relapse (~30% after 3 years; up to 10 years) → long follow-up.
+ • No bilateral cases, no WT-associated anomalies.
+ • Four-drug NWTS-5 therapy was no better than NWTS-4; stage is strongly predictive.
+ • BCOR internal tandem duplication is detectable in cell-free DNA.
+Rhabdoid Tumor of the Kidney
+ • Most lethal renal tumour of childhood, 2%. It occurs renal and extrarenal (as does CCSK), suggesting a
+   non-organ-specific mesenchymal origin.
+ • Biallelic SMARCB1/INI1 loss (22q11.2), germline in one-third; INI1 immunostaining is negative.
+ • Features: median ~16 months, advanced stage, chemoresistance, brain metastases; younger is worse.
+ • There is no standard therapy, and high-dose chemotherapy with stem-cell transplant failed.
+ • EZH2 is upregulated → tazemetostat; a COG trial is planned.
+Congenital Mesoblastic Nephroma
+ • Commonest infant renal tumour (mean 3½ months) and commonest antenatal renal tumour.
+ • Firm, trabeculated, leiomyoma-like. Subtypes: classic, cellular, mixed.
+ • ETV6–NTRK3 fusion, shared with congenital fibrosarcoma. Translocation-positive cellular tumours
+   relapse less. WT1 is not expressed; the tumour arises from stromagenic blastema.
+ • Radical nephrectomy alone usually cures, but it may extend into the hilum → complete resection.
+ • Cellular tumours can recur or metastasise; risk is lower under 3 months.
+ • No routine adjuvant therapy; consider it for incompletely resected cellular tumours. Inoperable or
+   recurrent tumours respond to chemotherapy.
+CLASSIC VERSUS CELLULAR MESOBLASTIC NEPHROMA
+ Classic                                                       Cellular
+ Bland spindle-cell sheets; like infantile                     Solid sheets, frequent mitoses; like congenital fibrosarcoma;
+ fibromatosis; low recurrence                                  recurrence and metastasis
+
+Solitary Multilocular Cyst and Cystic Partially Differentiated Nephroblastoma
+ • Multilocular cystic nephroma: benign. Half occur in young boys, with a second peak in young adult
+   women; rarely bilateral. It is encapsulated, with only mature cells in the septa.
+ • Cured by nephrectomy. If partial nephrectomy is attempted, use frozen section to exclude cystic partially
+   differentiated nephroblastoma (CPDN) or CCSK.
+ • Associated with DICER1 syndrome (autosomal dominant, reduced penetrance; also predisposes to WT).
+   The distribution is bimodal: two-thirds before 4 years, the rest in the fourth to sixth decades.
+ • CPDN: first 2 years; radiologically identical; blastema or rests in the septa; possibly the same entity.
+   Surgery cures, with 100% survival.
+Metanephric Adenofibroma
+ • A stromal tumour resembling CMN; its epithelium ranges from metanephric adenoma to WT, with
+   papillary RCC-like areas.
+
+
+
+                                                               page 20 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                      WILMS TUMOUR
+
+ • Possibly ILNR-derived; with a WT component it presents at a mean of 12 months.
+ • No recurrence after nephrectomy with WT chemotherapy.
+Renal Cell Carcinoma
+ • Commonest renal malignancy of the second decade, though ~5% of all RCC occurs in children.
+   Haematuria is commoner than in WT, and imaging cannot distinguish them.
+ • Translocation RCC (~50%) is the commonest histology:
+      ◦ involves TFE3 (Xp11.2), a microphthalmia transcription factor (MiT) family member, or TFEB
+      ◦ epithelial markers are weak
+      ◦ nodes are involved in 40–50%, and stage is higher
+ • Papillary RCC is relatively commoner than in adults.
+ • Renal medullary carcinoma: sickle cell haemoglobinopathy, median 13 years, mostly stage IV, lethal;
+   linked to SMARCB1.
+ • ~5% are syndromic: von Hippel-Lindau, Birt-Hogg-Dubé, tuberous sclerosis, hereditary papillary RCC,
+   hereditary leiomyomatosis and RCC, succinate dehydrogenase RCC. Young onset → genetic evaluation.
+ • Subtype order (AREN03B2): translocation > papillary > medullary > chromophobe > clear cell > fumarate
+   hydratase- > succinate dehydrogenase-deficient. Syndromes were found in under one in ten, tuberous
+   sclerosis commonest.
+ • Complete resection is the key determinant: all stage I survive; stage I–II 64–80% in older series. Partial
+   nephrectomy data are limited, and younger age is favourable.
+ • Nodes are less ominous than in adults (translocation RCC with positive nodes ~93% survival). Chemo-
+   and radioresistant.
+ • COG prospective study: median age 13 years, the 13–14-year crossover above which RCC outnumbers
+   WT. Translocation RCC ~60%; node-positive just over 30%. Resected stage I–II was excellent, and node-
+   positive disease did better than in adults. SIOP results are similar.
+Angiomyolipoma
+ • Hamartoma, rare in children. Adults are mostly sporadic; children have tuberous sclerosis complex (TSC),
+   often bilateral.
+ • Angiomyolipoma (AML) occurs in 50–80% of TSC. It enlarges through childhood, with a growth spurt in
+   adolescence.
+ • Growth is fastest over 11 years and in lesions <2 cm → annual US, with MRI when both apply.
+ • Other TSC lesions: cysts (up to 30%), polycystic disease, RCC.
+ • TSC1 (chromosome 9) / TSC2 (chromosome 16) mutations are found in 85%; LOH drives growth.
+ • Risks: haemorrhage and renal impairment.
+ • First-line for growing lesions: mTOR inhibitor (Figure 63.13); embolisation or surgery is second-line.
+ • Embolisation infarcts adjacent parenchyma, does not prevent new lesions, and needs repeating in 35% →
+   reserve it for active bleeding.
+ • TSC loss hyperactivates mTOR. Sirolimus shrinks lesions only while taken, and they regrow after stopping
+   → continuous therapy.
+ • EXIST-2 (everolimus, adults): ≥50% volume reduction in 42% versus 0% on placebo; extension showed no
+   bleeding or nephrectomy.
+ • Fat-poor AML mimics RCC → biopsy. Use nephron-sparing approaches in TSC.
+
+
+
+
+                                                               page 21 of 22
+Chapter 63 — Paediatric Urologic Oncology: Renal and Adrenal                                                         WILMS TUMOUR
+
+ANGIOMYOLIPOMA INTERVENTION THRESHOLDS
+ Source                                                  Threshold
+ Historical                                              >4 cm
+ Adult sporadic AML                                      May wait until >6 cm
+ International TSC Consensus Group                       >3 cm; >3 cm and enlarging = greatest bleeding risk
+
+Concept — TSC angiomyolipoma is a pathway disease, so pathway blockade is first-line and continuous,
+whereas embolisation and surgery treat one lesion in a kidney that will keep producing more.
+PAEDIATRIC RENAL TUMOURS — COMPARISON
+ Tumour                 Age / share              Genetics                      Spread            Management signature
+ Wilms tumour           Median 3.5 years;        WT1, 11p15, CTNNB1, Lung, liver                 Stage-, histology-, biology-
+                        95%                      WTX                                             adapted
+ CCSK                   3%                       BCOR ITD                      Bone, brain;      DOX chemotherapy;
+                                                                               late relapse      radiotherapy even at stage I
+ RTK                    ~16 months; 2%           SMARCB1/INI1                  Brain             No standard; most lethal
+ CMN                    ~3½ months               ETV6–NTRK3                    Rare (cellular)   Nephrectomy alone
+ Cystic                 Young children;          DICER1                        None              Complete excision
+ nephroma /             adult women
+ CPDN
+ RCC                    Second decade            TFE3/TFEB; SMARCB1            Nodes, less       Complete resection
+                                                 (medullary)                   ominous
+ AML                    TSC, adolescence         TSC1/TSC2                     —                 mTOR inhibitor
+
+ • Organises the differential by age (neonate CMN → toddler WT/RTK → adolescent RCC) and by metastatic
+   site (lung WT; bone CCSK; brain RTK/CCSK), which sets the staging investigations.
+
+ KEY POINTS: RENAL TUMOURS
+   • WT1 deletions (11p13) occur with aniridia and WT; WT1 mutations occur in DDS.
+   • Local recurrence rises with spillage and nodal involvement; survival falls markedly after relapse.
+   • Bilateral, multifocal and syndrome-associated unilateral WT → preoperative chemotherapy, allowing
+     renal-sparing surgery to reduce renal failure.
+   • CMN is the most common renal tumour in infants.
+
+
+
+
+                                                               page 22 of 22
+

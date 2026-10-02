@@ -1,0 +1,1865 @@
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                           DEFINITIONS
+
+
+
+Chapter 57 — Etiology, Diagnosis, and Management of the
+Undescended Testis
+Kate H. Kraft — Chapter Notes
+
+ • Cryptorchidism (undescended testis, UDT) is a common congenital anomaly that remains incompletely
+   understood despite extensive study.
+ • Descent is normally completed in the third trimester or shortly after birth; the anatomy is well
+   described, but the mechanical function of the gubernaculum — the fetal structure orchestrating descent
+   — is still unresolved.
+ • Susceptibility is complex and multifactorial, plausibly combining genetic factors with exposure to
+   endocrine-disrupting chemicals (EDCs), potentially in combination.
+ • Diagnosis is frequently made well beyond the neonatal period, and any clinically significant long-term
+   difference between congenital and acquired cryptorchidism remains obscure.
+ • Retractile testes may represent a milder form of the disease, conferring higher risk of acquired
+   cryptorchidism diagnosed later in childhood.
+ • Ultrasonography and other imaging are rarely if ever indicated — they contribute little to diagnosis.
+ • Hormonal therapy is no longer advocated as first-line treatment. Surgery is the preferred treatment,
+   with approach determined by palpability, position, size, patient age and overall health status.
+ • Primary scrotal and laparoscopic approaches are increasingly used.
+ • Suboptimal semen quality is common in bilateral cases and can occur in unilateral disease, though
+   paternity is more likely in unilateral cases.
+ • Testicular germ cell tumour (TGCT) risk is raised in the affected testis and to a lesser degree in the
+   contralateral testis; early surgery may reduce it.
+ • Long-term outcome depends on laterality, age at treatment, and potentially the underlying aetiology.
+ • The American Urological Association (AUA) cryptorchidism guideline (2014) provides the evidence-based
+   framework for evaluation and management.
+
+DEFINITIONS
+
+TERMINOLOGY OF TESTICULAR POSITION AND ABSENCE
+ Term                     Definition                                Distinguishing feature
+ Normal scrotal           Midpoint of the testis at or below        The reference standard against which all else is judged
+ position                 the midscrotum
+ High scrotal testis      Stable testis above the scrotal           Not routinely called undescended, but included as UDT in
+                          midpoint                                  some epidemiological studies — a heterogeneous group
+                                                                    of stable descended, retractile and unstable "gliding"
+                                                                    testes
+ Undescended              Testis not in normal scrotal              Divides clinically into palpable vs nonpalpable;
+ testis /                 position, unilateral or bilateral         nonpalpable divides into undescended vs absent
+ cryptorchidism
+ Ectopic testis           Testis outside the ipsilateral            Position rather than arrest
+                          inguinal canal, off the normal line
+                          of descent
+
+
+
+                                                              page 1 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                            AETIOLOGY
+
+
+
+ Term                     Definition                               Distinguishing feature
+ Vanishing /              Testis developed then lost to            Monorchia unilaterally; anorchia bilaterally and very
+ vanished testis          vascular accident or torsion             rarely
+ Agenesis                 Testis never present                     Associated with ipsilateral müllerian duct persistence —
+                                                                   the discriminator from a vanished testis
+ Congenital               Testis outside the scrotum at birth Baseline category
+ cryptorchidism
+ Acquired                 Cryptorchid testis documented as Requires prior documentation
+ cryptorchidism           scrotal on a previous examination
+ Recurrent                Undescended at birth, descended          Three-stage history
+ cryptorchidism           spontaneously, then re-ascended
+ Secondary                Suprascrotal testis after inguinal       May be primary maldescent or postoperative scarring
+ cryptorchidism           hernia repair
+ Testicular retraction    Suprascrotal testis as a                 Iatrogenic
+                          complication of orchidopexy
+ Retractile testis        Scrotal testis retracting easily but     Testes that rarely remain stable, or rest in the high
+                          manually replaceable and stable          scrotum, may progress to acquired cryptorchidism
+                          at least temporarily
+
+Concept — the whole taxonomy turns on two axes: where the testis is now, and what is known about where
+it has been. Position separates undescended from ectopic and absent; documented prior position separates
+congenital from acquired, recurrent and secondary.
+
+AETIOLOGY
+
+Embryology of Testicular Descent and Maldescent
+ • Cryptorchidism is a failure of descent dependent on growth and hormonal function of the developing
+   testis and its regulation of gubernacular growth and function.
+ • Descent is regulated by two Leydig cell hormones: insulin-like 3 (INSL3) acting via relaxin/insulin-like
+   family peptide receptor 2 (RXFP2), and androgens — dihydrotestosterone (DHT) and testosterone — via
+   the androgen receptor (AR).
+ • Descent also requires intact innervation of the gubernaculum by the genitofemoral nerve (GFN);
+   downstream interactions between hormonal and neural pathways are poorly defined.
+ • Genetic or environmental effects altering key molecules of testicular or gubernacular development are
+   the presumed contributors to cryptorchidism.
+
+Differentiation of the Testis
+ • Gonadal differentiation is an active process in both sexes — specific multigene programmes are required
+   for male and female determination, not a default pathway with a male override.
+ • SRY (sex-determining region on the Y chromosome) expression in the indifferent gonad triggers
+   testicular development, "tipping the balance" of antagonistic male–female signalling toward the male
+   programme.
+ • SRY is activated in part by steroidogenic factor 1 (SF1/NR5A1); SRY and SF1 cooperate to sustain SOX9
+   (SRY box-containing 9) expression in pre-Sertoli supporting cells.
+ • SRY specifies the Sertoli cell; SOX9, FGF9 (fibroblast growth factor 9), AMH (antimüllerian hormone),
+   PTGDS (prostaglandin synthase) and others drive Sertoli differentiation and proliferation.
+
+
+
+                                                            page 2 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                            AETIOLOGY
+
+
+
+ • Establishment of the Sertoli lineage is the prerequisite for testicular cord formation.
+ • Testis patterning requires a temporal sequence: germ cell migration into the undifferentiated gonad →
+   migration of interstitial cell precursors from the coelomic epithelium and mesonephros.
+Human germ cell timeline
+1. 32 days post-ovulation — gonads with somatic and germ cells first identifiable on the medial aspect of
+   the urogenital ridge; gonads and genitalia still sexually indifferent →
+2. 40 days — SRY and SOX9 transcripts appear, followed by histological emergence of Sertoli cells →
+3. 6 weeks — primordial germ cells (PGCs) migrate from the yolk sac and differentiate into gonocytes →
+4. 7 weeks — gonocytes begin expressing c-KIT, rising through the first trimester →
+5. 8 weeks — germ cells localised within testicular cords →
+6. Second trimester — three distinguishable germ cell subpopulations: gonocytes, intermediate
+   spermatogonia, prespermatogonia →
+7. 20 weeks — POU5F1/OCT4 and c-KIT lost with the gonocytes; MAGE-A4 immunopositivity marks
+   emergence of prespermatogonia.
+Fetal Leydig cells
+ • Arise from coelomic epithelium and perivascular cells at the gonad–mesonephric border, forming
+   interstitial Leydig progenitors.
+ • Progenitors express AR and are themselves androgen-regulated.
+ • Development depends on multiple growth factors and on paracrine interaction with Sertoli and
+   peritubular myoid cells; WT1 expression in Sertoli cells drives peritubular myoid and Leydig cell
+   proliferation and differentiation.
+ • Fetal Leydig cells (FLCs) become active at 6–7 weeks, proliferate until about 15 weeks, and involute after
+   24 weeks.
+ • By the end of the first trimester the external genitalia are fully masculinised and the testis cords are
+   established, with both proliferating and degenerating germ cell populations present; Sertoli and germ cell
+   proliferation continues well into the second trimester.
+Concept — the testis is built in a fixed order, and each step licenses the next: SRY specifies Sertoli cells, Sertoli
+cells make cords, and only a hormonally competent cord-bearing testis can drive its own descent. Every later
+failure mode is a failure somewhere along that dependency chain.
+
+Testicular Hormone Production
+ • Fetal testicular hormone function is critical both for reproductive tract masculinisation and for descent.
+ • Hormone production is activated at discrete intervals — fetal, postnatal and pubertal — rather than
+   continuously.
+ • Fetal Leydig cell phases (sequence): proliferation and differentiation, 7–14 weeks → maturation, to 18
+   weeks → involution, continuing to term.
+
+FETAL TESTICULAR HORMONES — SOURCE, ONSET AND PEAK
+ Hormone                     Cell of      Onset                              Peak / key window
+                             origin
+ Testosterone                Fetal        6–7 weeks, initially               Human chorionic gonadotrophin (hCG)-driven
+                             Leydig       gonadotrophin-                     peak at 14–16 weeks, then responsive to fetal
+                             cell         independent                        luteinising hormone (LH)
+
+
+
+
+                                                            page 3 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                           AETIOLOGY
+
+
+
+ Hormone                     Cell of      Onset                              Peak / key window
+                             origin
+ INSL3                       Fetal        Measurable in amniotic             Peaks 15–17 weeks
+                             Leydig       fluid from 11 weeks
+                             cell
+ AMH (müllerian-             Fetal        Soon after Sertoli                 Müllerian duct responsive before 8 weeks;
+ inhibiting substance,       Sertoli      differentiation                    regression 9–10 weeks
+ MIS)                        cell
+
+Sex steroid receptors in the fetal testis
+ • AR and oestrogen receptor beta (ERβ) are expressed in the undifferentiated gonad at 7 weeks, role
+   unclear.
+ • AR is present in peritubular myoid cells and some Leydig/interstitial cells but is absent from Sertoli cells
+   in early development.
+ • This Sertoli AR absence is physiologically essential: AR expression there would permit inappropriate
+   androgen-induced inhibition of AMH production and precocious stimulation of spermatogenesis.
+ • ERβ is expressed in germ, peritubular myoid, Sertoli and some Leydig cells; ERα is limited or absent;
+   concomitant aromatase expression suggests a role for locally produced oestrogen.
+Mini-puberty — neonatal reactivation of the hypothalamic–pituitary–gonadal (HPG) axis
+ • Cross-sectional data place peak hormone levels at 1–3 months of age; LH and follicle-stimulating
+   hormone (FSH) rise first, followed by testosterone, AMH and inhibin B (INHB); INSL3 is high in cord
+   blood and at 3 months.
+ • Individual longitudinal urinary data place the peak earlier — at or before 1 month — and more
+   pronounced in preterm males.
+ • Androgen insensitivity syndrome provides the mechanism: the surge is a response to maternal
+   androgen withdrawal, producing secondary upregulation of hypothalamic and pituitary secretion.
+ • FLCs regress after birth; a neonatal Leydig population emerges at 2–3 months and regresses by the end
+   of the first year. As postnatal hormones wane, FLCs degenerate or regress to immature, partially
+   differentiated cells less responsive to LH.
+Postnatal germ cell events
+ • Testicular volume increases postnatally, driven principally by Sertoli and germ cell proliferation; growth
+   correlates with HPG activation in preterm males, implying a direct hormonal response.
+ • Sertoli proliferation continues through the first year and is a major determinant of ultimate testicular
+   size.
+ • Prespermatogonia/gonocytes migrate to the basement membrane after birth and become
+   undifferentiated type A spermatogonia; adult dark (Ad) and adult pale (Ap) spermatogonia contain the
+   spermatogonial stem cell subpopulation.
+ • Migration coincides with HPG activation, so a relationship is presumed but unproven; known regulators
+   include platelet-derived growth factor, thyroid hormone and cell adhesion molecules.
+ • Androgens are not established as regulators of neonatal gonocyte migration — fetal gonocytes express
+   AR and androgens inhibit their proliferation, but no evidence supports an androgen effect on neonatal
+   migration or differentiation.
+
+
+
+
+                                                            page 4 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                          AETIOLOGY
+
+
+
+ • Failed migration leaves prespermatogonia/gonocytes at increased risk of apoptosis or future malignant
+   transformation.
+Concept — mini-puberty is the therapeutic clock of this disease. It is the one postnatal window in which the
+HPG axis is active, gonocytes are migrating and testicular size is being set; damage or delay here converts a
+positional abnormality into an irreversible germ cell deficit.
+
+Gubernacular Development and Testicular Descent
+ • The physiology of normal descent and the aetiology of abnormal descent in humans remain
+   incompletely understood; knowledge is inferred from human disorders and animal models.
+ • The indifferent gonad develops adjacent to, and suspended from, the mesonephros, which has replaced
+   the pronephros by 5 weeks.
+ • A rudimentary cranial mesonephric ligament connects to the diaphragm and disappears by 13 weeks as
+   the mesonephros regresses.
+ • There is no "cranial gonadal ligament" in humans, unlike other species.
+ • The gubernaculum attaches proximally to the epididymis, not directly to the testis.
+ • "Transabdominal descent" in the human is relative, not true migration: fixed-section studies describe
+   movement from C7–T8 to T9–L3 between 5 and 7 weeks and to sacral level by 10 weeks; dissection
+   studies place the testis at L4 by 7 weeks; fetal studies confirm the testis stays close to the internal
+   inguinal ring from 10 weeks onward.
+ • If true transabdominal descent occurs, it is unrelated to gubernacular swelling or hormonal stimulation,
+   because it precedes them.
+ • Caudal movement of the ovary is prevented by the ovarian ligament and müllerian duct development.
+Five phases of human testicular descent (Barteczko and Jacob)
+1. Phase 1 (5 weeks) — caudal mesonephros contacts the future gubernaculum at the internal inguinal
+   ring →
+2. Phase 2 (7 weeks, extending 8–10 weeks) — GFN accompanies the newly formed gubernaculum
+   (abdominal, interstitial and subcutaneous portions) and processus vaginalis; then gubernacular growth,
+   deepening of the processus vaginalis and extension of cremaster fibres into the interstitial
+   gubernaculum →
+3. Phase 3 (10–14 weeks) — testicular growth with regression of müllerian ducts and mesonephros; male-
+   specific gubernacular swelling begins at 12 weeks — after the testis is already at the internal ring →
+4. Phase 4 (14–20 weeks) — gubernacular swelling, cremaster development and processus vaginalis
+   migration widen the inguinal canal →
+5. Phase 5 (20–28 weeks) — release of the distal subcutaneous gubernacular attachment and
+   transinguinal passage; further caudal movement to birth accompanies gubernacular regression.
+What the anatomy establishes
+ • Apparent transabdominal movement precedes sexually dimorphic gubernacular change and is
+   therefore not a male-hormone–specific event.
+ • Male-specific gubernacular swelling parallels the Leydig secretory peaks — testosterone at 14–16 weeks
+   and INSL3 at 15–17 weeks.
+ • The GFN precedes and accompanies the gubernaculum and processus vaginalis in both sexes from 7
+   weeks.
+
+
+
+
+                                                            page 5 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                       AETIOLOGY
+
+
+
+ • Both smooth muscle (abdominal portion) and skeletal muscle (interstitial and subcutaneous portions)
+   are present in the gubernaculum, though not all observers agree; in situ studies from 20 weeks clearly
+   show striated muscle bundles and GFN infiltration.
+ • Whether cremaster fibres originate from abdominal wall musculature or within the gubernaculum is
+   contested; unique innervation and transgenic mouse data favour intrinsic gubernacular origin.
+Mechanics of passage
+ • Gubernacular swelling — from cellular proliferation and extracellular matrix production — is required
+   to enlarge the inguinal canal for testicular passage.
+ • Once the canal is created, unknown mechanical factors trigger a typically rapid transinguinal passage.
+ • The gubernaculum is distally unattached during and after transinguinal passage; settling into the
+   preformed scrotum is gradual.
+ • The scrotum develops from genital swellings visible at 7 weeks that fuse by 10–12 weeks in response to
+   circulating DHT — the scrotum is ready long before the testis arrives.
+ • Passage into the inguinal canal rarely occurs before 22 weeks; the majority of testes are scrotal after 27
+   weeks.
+ • Rapid transit, early gubernacular innervation, GFN significance in rodents and the complex cremaster
+   distribution argue that neuromuscular forces are required for descent.
+ • Microcomputed tomography in fetal rodents has further defined the role of the gubernacular bulb in
+   formation of the processus vaginalis.
+Fig. 57.3. The distally unattached human gubernaculum just before transinguinal passage — human fetus at
+25 weeks' gestation (215-mm crown–rump length). G, gubernaculum; P, penis; S, scrotum; T, testis. (Heyns CF,
+J Anat, 1987.)
+Concept — the gubernaculum does not pull the testis down; it makes room and then gets out of the way.
+Outgrowth creates the canal and processus vaginalis while the testis stays still; regression permits the testis
+to follow — which is why both an outgrowth defect and a regression defect produce the same clinical
+phenotype.
+
+Regulation of Testicular Descent
+ • Direct evidence for hormonal control comes from animal models, primarily rodents, whose relevance is
+   questioned on anatomical grounds.
+ • Rodent vs human anatomy: rodents have a less prominent interstitial gubernaculum, a cranial gonadal
+   ligament, a well-developed intrinsic cremaster at the gubernacular periphery, an absent inguinal canal,
+   and a processus vaginalis that fails to close; the processus vaginalis and cremaster are nonetheless
+   similar enough to justify translational study.
+ • Transgenic or spontaneous rodent strains with inactivation of Insl3, Rxfp2 or Ar are cryptorchid, as are
+   males with abnormalities of androgen synthesis or action.
+
+INSL3/RXFP2 AXIS VERSUS ANDROGEN/AR AXIS
+                          INSL3 / RXFP2 axis                                 Androgen / AR axis
+ Classical role           Transabdominal phase, the "nonandrogenic           Transinguinal phase, acting via the GFN
+ (Hutson, 1985)           factor"
+ Actual relationship      Synergistic with androgen on gubernacular          Synergistic with INSL3; both present before
+                          proliferation and growth                           and through the swelling phase
+ Timing in the            Peaks after 12 weeks, with gubernacular            Peaks after 12 weeks, with gubernacular
+ human                    swelling                                           swelling
+
+
+
+                                                            page 6 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                       AETIOLOGY
+
+
+
+                          INSL3 / RXFP2 axis                                 Androgen / AR axis
+ Additional murine        Promotes development of the processus              Regression of the cranial gonadal ligament
+ role                     vaginalis                                          — absent in humans
+ Cremaster                RXFP2 deletion in pre-myogenic gubernacular        AR deletion in the same cells disrupts
+                          mesenchyme disrupts descent                        descent
+
+ • The two-phase paradigm is no longer cleanly separable — apparent transabdominal descent, if it occurs,
+   happens in the third month, before either hormone peaks.
+ • Modern model: the testis remains stable as the gubernaculum swells (the "outgrowth" phase),
+   facilitating creation of the processus vaginalis, and descends as the gubernaculum shrinks (the
+   "regression" phase). INSL3 and androgens regulate both phases.
+ • Both hormones directly regulate myogenic differentiation of the cremaster.
+Downstream pathways
+ • Myogenesis is the recurring theme in transgenic and human syndromic models.
+ • Inactivation of Notch1 and Wnt pathway genes (Ctnnb1, Sfrp1, Sfrp2, Wnt5a, Ror2) markedly disrupts
+   fetal muscle patterning.
+ • Gubernacular gene expression after DHT or INSL3 stimulation activates Wnt pathways with strong
+   transcriptional overlap.
+ • Gubernaculum-specific Wnt4 knockout mice develop unilateral UDT: intra-abdominal testes show
+   raised FSH and LH with absent germ cells; inguinal testes have normal hormones but reduced fertility.
+Neural pathway
+ • GFN innervation is essential to gubernacular function in rodents; the proposed mediator is calcitonin
+   gene-related peptide (CGRP) released from GFN sensory endings.
+ • A competing theory holds that androgens act indirectly via mesenchyme along the mammary line —
+   this conflicts with data showing functional AR within the gubernaculum itself.
+ • A CGRP role in human descent is undefined, but genome-wide association data link RBFOX genes —
+   encoding RNA-binding proteins regulating CGRP production — to clinical cryptorchidism.
+Concept — hormones do not move the testis, they build and remodel the gubernaculum. INSL3 and
+androgen converge on one target tissue and one process — gubernacular myogenesis — which is why two
+hormones with different receptors produce a single phenotype when either fails.
+
+ KEY POINTS
+   • Separate genetic pathways in gonadal determination lead to testis or ovary; SRY regulates
+     downstream testis-determining genes in males.
+   • Differentiation of gonocytes, Sertoli cells and Leydig cells occurs between 5 and 9 weeks' gestation;
+     the gubernaculum appears at 7 weeks and guides descent.
+   • Testosterone and INSL3, produced by Leydig cells, are critical for descent; levels peak between 14
+     and 17 weeks.
+   • From the second trimester, gubernacular swelling provides space for testicular passage into the
+     scrotum between 20 and 28 weeks.
+
+
+Epidemiology
+ • Cryptorchidism is one of the commonest congenital anomalies, reported in 1–9% of full-term and 1–
+   45% of preterm newborn males; the wide ranges reflect differing definitions and examination methods.
+
+
+                                                            page 7 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                               AETIOLOGY
+
+
+
+ • 80–85% of cases are isolated (nonsyndromic).
+ • Cryptorchidism is a component of almost 500 syndromes, causally linked to 387 genes within 414 loci
+   (Online Mendelian Inheritance in Man, OMIM).
+ • A common subset of syndromic cases is associated with hormonal defects of the HPG axis.
+
+Congenital Cryptorchidism
+ • Prevalence studies are confounded by subjectivity of examination, inclusion or exclusion of high scrotal
+   testes, differing populations and design.
+ • Most studies support prevalence of 2–4% at birth and 1–2% at 3 months, with frequency as high as 9%
+   in some geographies; no reproducible secular trend has been shown.
+ • Cryptorchidism is more common in White than non-White populations.
+ • Spontaneous descent by 3 months occurs in 45–87% of those cryptorchid at birth in population-based
+   prospective series.
+ • Position predicts spontaneous descent: extrascrotal testes descend by 1 year in about half, versus high
+   scrotal testes in the large majority (≈88%).
+ • Referral populations behave differently: spontaneous descent in a minority of those presenting before 6
+   months and in none presenting after 6 months — reflecting exclusion of early neonatal descent and
+   greater severity on referral.
+ • Re-ascent (recurrent cryptorchidism) occurred in 10–22% in two large longitudinal series, usually
+   between 1 and 5 years of age.
+
+Acquired Cryptorchidism
+ • Once held impossible — cryptorchidism was regarded as a congenital anomaly identifiable at birth —
+   acquired cryptorchidism is now an established entity, first reported in 1975.
+ • In practice: testes diagnosed as cryptorchid after apparent full descent at birth or in the neonatal
+   period.
+ • It most likely represents a milder presentation of congenital cryptorchidism that escaped detection in
+   infancy.
+
+CONGENITAL VERSUS ACQUIRED CRYPTORCHIDISM
+                     Congenital               Acquired
+ Age at diagnosis At birth / neonatal         Average 8–11 years
+                  period
+ Position            Variable, often          Lower, distal to the inguinal canal; frequently lateral (ectopic) in the
+                     higher                   superficial inguinal pouch
+ Processus           Often patent             Usually closed
+ vaginalis
+ Epididymis          Anomalies                Usually normal (though non-fusion is high in some series)
+                     common
+ Proposed            Failure of descent       Fibrous processus remnant tethering the cord, mobility within an open sac,
+ mechanism                                    or — most likely — incomplete descent from birth unmasked by somatic
+                                              growth
+ Associations        Prematurity, low         Proximal hypospadias, abnormal germ cell development, subfertility risk,
+                     birth weight             epididymal non-fusion
+
+
+
+
+                                                            page 8 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                            AETIOLOGY
+
+
+
+Retractile testes and acquired cryptorchidism
+ • Retractile testes are common in normal populations and resolve with age — suprascrotal in up to about
+   a third of 4-year-olds and a tenth of those aged 4–12 years, and intrascrotal in all males older than 12
+   years in the classic hospital series.
+ • Population-based studies report retractile testes in roughly 11–15% up to 11 years and about 4% at 7–
+   12 years.
+ • A subset become undescended over time.
+ • Selection bias is the central methodological problem: retrospective specialist series report
+   cryptorchidism developing in up to 7–32%, whereas a large prospective birth cohort found only about
+   2.6% developed ipsilateral cryptorchidism, with a further 13.5% developing contralateral or secondary
+   cryptorchidism.
+ • A prospective study of unilateral retractile testis found reduced testicular position and/or size after 5
+   years in the majority, measured by pubic tubercle–to–mid-testis distance and orchidometer.
+ • Pathology shared with cryptorchidism supports a continuum: reduced testicular volume, ipsilateral
+   patent processus vaginalis, epididymal anomalies and altered cremaster innervation in retractile testes
+   undergoing orchidopexy.
+Prevalence of acquired disease
+ • True prevalence is incompletely defined, since longitudinal documentation of prior scrotal position
+   covers only the first few years of life.
+ • In serial-examination cohorts, suprascrotal testes diagnosed at birth equalled those diagnosed
+   subsequently, and congenital prevalence fell sharply by 18 months while a comparable number of
+   acquired cases accrued — persistent congenital and acquired forms are of similar prevalence.
+ • Retrospective series cannot separate true acquired cases from delayed referral of congenital cases.
+ • Japanese screening (neonate, 1, 3, 10 and 18 months, and 3 years): only about 2% of ascending testes
+   had prior retractile testes, and surgery beyond 4 years of age was far lower than the 30–50% reported in
+   Western countries — comprehensive screening lowers acquired cryptorchidism and late surgery.
+ • Serial physical examination is recommended to determine testicular position and identify acquired cases,
+   particularly with retractile testes.
+Concept — acquired cryptorchidism is almost certainly not a testis that fell out of a normal scrotum, but a
+never-quite-descended testis revealed by growth. That reframes the question from "why did it ascend?" to
+"why was it missed?", and justifies annual examination through childhood.
+
+Pathogenesis
+ • The specific cause is unknown in most cases; indirect evidence indicates a multifactorial disease of
+   combined genetic and environmental risk.
+ • The most consistent risk factors are prematurity and/or low birth weight for gestational age, familial
+   factors relating to the maternal environment or rare genetic variants, maternal diabetes, and maternal
+   smoking.
+ • Maternal obesity was associated in large population studies but not in meta-analysis of smaller case-
+   control studies — variability between populations.
+ • Nonsyndromic disease shows no strong large-effect loci, but a multilocus, complex pattern of genetic
+   susceptibility.
+ • Few consistent human environmental exposures have been identified, though animal models implicate
+   EDCs, potentially in combination.
+
+
+
+                                                            page 9 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                            AETIOLOGY
+
+
+
+Genetic Susceptibility
+ • Family studies indicate heritability with polygenic, multifactorial susceptibility.
+ • Familial clustering occurs with a variable phenotype; autosomal dominance with reduced penetrance
+   was the mode most often cited.
+ • Large registry data show moderate familial aggregation: recurrence risk ratio highest in twins,
+   intermediate in brothers, lowest in offspring, and significantly higher in maternal than paternal half-
+   brothers.
+ • An independent Danish study reproduced the maternal-over-paternal pattern and highest concordance
+   in twins; restricting to surgically treated persistent cryptorchidism raised concordance in all categories.
+ • The maternal excess implies environmental and/or maternal factors, or X-linked risk alleles.
+ • Earlier studies reported several-fold increased prevalence in fathers and brothers of affected subjects.
+Candidate genes
+ • INSL3 and RXFP2 are the most promising candidates, but coding variants are rare in persistently
+   cryptorchid males.
+ • Interpretation is confounded: variants associate with a range of phenotypes, and apparently deleterious
+   mutations occur in normal family members; few INSL3 exonic variants are clearly functional.
+ • The RXFP2 T222P polymorphism showed curtailed membrane localisation and receptor activation in
+   vitro, but similar allele frequency in cases and controls elsewhere — not established.
+ • Exome analysis of infertile men with a history of cryptorchidism found homozygous high-impact INSL3
+   and RXFP2 variants correlating with bilateral disease, supporting autosomal recessive inheritance —
+   superseding the prior assumption of dominant inheritance.
+ • Other candidates have not replicated, plausibly because most series include fewer than 100 cases and
+   because of heterogeneity.
+ • Summary: specific causative alleles other than rare variants in INSL3, RXFP2 or NR5A1 are largely
+   unknown, owing to confounding environmental risk, insufficient sample size, and geographic and
+   phenotypic variability.
+Concept — cryptorchidism behaves genetically like a threshold trait, not a Mendelian one. Strong familial
+aggregation with vanishingly rare causal variants, and maternal-line excess with autosomal candidates, is the
+signature of many small genetic contributions interacting with the intrauterine environment.
+
+Environmental Risk Factors
+ • The maternal environment appears to contribute, but it is unclear whether through exposures,
+   characteristics or lifestyle.
+ • Maternal smoking: mild-to-moderate increased risk, with possible increased germ cell abnormalities in
+   cryptorchid offspring.
+ • Maternal alcohol: inconsistent.
+ • Analgesics (paracetamol, or more than one analgesic) in midpregnancy or earlier: several series suggest
+   increased risk, supported by altered hormone production in cultured human fetal testis; recent meta-
+   analyses judge the evidence weak.
+ • Parental occupation: not consistently associated, though horticulture-related occupations and areas of
+   higher pesticide use may carry risk.
+
+
+
+
+                                                           page 10 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                         AETIOLOGY
+
+
+
+Testicular dysgenesis syndrome and diethylstilbestrol
+ • Testicular dysgenesis syndrome (TDS): cryptorchidism, hypospadias, infertility and TGCT attributed to
+   impaired testicular function in utero, proposed to result from deficient fetal androgen production
+   caused by EDC exposure.
+ • Concern arose from increased cryptorchidism after maternal diethylstilbestrol (DES) exposure.
+ • Large cohort: risk roughly doubled overall, higher with exposure before 11 weeks' gestation and
+   cumulative dose ≥5 g — early and substantial exposure carries the clearest risk.
+Endocrine-disrupting chemicals — the balance
+ • Animal models support a link between prenatal antiandrogenic EDCs and cryptorchidism, but at
+   exposures far exceeding clinical levels, with disputed applicability to humans.
+ • Species-specific sensitivity is critical: the human testis appears insensitive to phthalate or DES inhibition
+   of steroidogenesis, but sensitive to bisphenol A (BPA).
+ • Measured EDC levels in placenta, breast milk or cord blood — pesticides, polychlorinated biphenyls
+   (PCBs), dioxins, perfluorinated compounds, flame retardants (PBDEs), organotin — were not
+   consistently higher in affected pregnancies; phthalate metabolites did not correlate with
+   cryptorchidism.
+ • Positive signals: flame retardants in maternal hair, BPA in placenta, organic pollutants in adipose tissue;
+   the Norwegian Human Milk Study (PCB-74, PCB-114, PCB-194, β-hexachlorocyclohexane); Danish
+   registry data on maternal airborne PCB exposure.
+ • Mixture effects: antiandrogens with different mechanisms can cumulatively inhibit fetal reproductive
+   development at low exposure levels.
+ • Assisted reproductive technology with first-trimester adjuvant corticosteroids was associated with
+   markedly increased cryptorchidism.
+
+INDIRECT MARKERS OF FETAL EXPOSURE
+ Marker                What it is                            What it indicates
+ Anogenital            Posterior scrotal margin to anal Prenatal androgen exposure; reduced AGD correlates with
+ distance (AGD)        verge; sexually dimorphic,       cryptorchidism, hypospadias, AR CAG repeat length,
+                       correlated with birth weight     phthalates, maternal analgesics, shorter breastfeeding and
+                                                        ESR1 variants
+ Placental weight      Measure of placental function;        Reduced in cryptorchidism; early pre-eclampsia linked;
+                       may reflect hCG production in         consistent with the strong intrauterine growth restriction
+                       the descent window                    association
+ Maternal hCG and Placental biomarkers                       Not consistently associated
+ alpha-fetoprotein
+
+ • Bottom line: potential associations with pesticides, flame retardants, BPA and organic pollutants in
+   selected populations; cumulative mixtures of antiandrogenic and oestrogenic chemicals may raise risk
+   in susceptible individuals; single-agent causality is hard to demonstrate.
+Concept — the EDC hypothesis is a mixtures-and-susceptibility argument, not a single-agent one. Because
+human and rodent testes differ in which compounds affect them, and no single exposure replicates, the
+coherent version requires low-dose cumulative antiandrogenic load acting on a genetically susceptible fetus.
+
+Hormonal Defects
+ • Since testicular hormones are required for descent, defective production or action may be pathogenic.
+
+
+
+
+                                                           page 11 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                        AETIOLOGY
+
+
+
+ • Direct fetal data are scant; increased variance in amniotic fluid INSL3 between 13 and 16 weeks has
+   been reported in fetuses later cryptorchid or hypospadiac.
+ • Defects may be manifest during mini-puberty — the practical diagnostic window.
+Neonatal studies
+ • Results conflict: reduced testosterone and/or LH in some series, not in others.
+ • Geography matters: INHB and FSH differed between Finnish and Danish cryptorchid infants while
+   testosterone did not.
+ • INSL3 was reduced in cord blood but not at 3 months in persistent cryptorchidism; cord testosterone
+   did not differ.
+ • The informative finding is ratio-based: raised LH/testosterone and LH/INSL3 ratios indicate
+   "compensated Leydig cell function" — subtly reduced Leydig function driving compensatory LH.
+ • In the largest series (Kollin et al., 2012), hormones did not differ among unilateral, bilateral and
+   spontaneously resolving cases and did not correlate with spermatogenesis.
+Older children
+ • LH, FSH and testosterone fall to low or undetectable levels as the HPG axis becomes quiescent.
+ • INHB and AMH remain measurable throughout childhood and are the sensitive Sertoli cell biomarkers
+   of prepubertal testicular activity.
+ • Sertoli dysfunction is increasingly evident, particularly in bilateral disease: AMH reduced roughly three
+   times more often in bilateral than unilateral cases; gonadotrophins normal or rarely mildly raised.
+ • Other series report more raised FSH and reduced INHB but used reference standards rather than
+   controls; another found no differences before or after hCG stimulation.
+ • Confounders include population and maternal smoking (associated with reduced INHB in offspring).
+ • Low prepubertal gonadotrophins have been read as gonadotrophin deficiency causing cryptorchidism
+   — but the axis is inactive in childhood and gonadotrophins may be normal even in anorchia.
+Effect of surgery on hormones
+ • INHB rose postoperatively in the large majority in one series; abnormal INHB was about twice as
+   common in uncorrected as corrected cases.
+ • In other series INHB normalised in fewer than half and did not correlate with histology; raised FSH in
+   bilateral cases normalised in most.
+ • Interpretation is limited by large intraindividual fluctuation of FSH and INHB in the first 2 years of life.
+
+PROPOSED HORMONAL DEFECT MODELS
+                  Model 1 — primary gonadal defect                  Model 2 — central defect
+ Nature           Gonadal defect, primary or secondary to           Isolated or transient hypogonadotrophic hypogonadism
+                  the effect of position on Sertoli function
+ Hormonal         With or without hypergonadotrophic                Normal FSH and LH despite low INHB; poor
+ signature        hypogonadism                                      spermatogonial differentiation with low LH; reduced
+                                                                    Leydig response to hCG
+ Status           Better supported                                  Controversial; mini-puberty measurements tend to
+                                                                    show increased gonadotrophin drive
+
+ • Some cryptorchid males have HPG abnormalities, with stronger support for primary gonadal (Sertoli
+   and/or Leydig) defects than central hypogonadism in nonsyndromic cases.
+
+
+
+
+                                                           page 12 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                      AETIOLOGY
+
+
+
+ • No hormonal study to date precisely predicts germ cell numbers or subfertility.
+Concept — hormonal testing is diagnostically useful only at the extremes. It identifies anorchia and
+syndromic hypogonadism during mini-puberty, but in nonsyndromic disease it neither explains maldescent
+nor predicts fertility, which is why it has no routine role.
+
+Syndromic Cryptorchidism
+ • Undescended testes are frequent in androgen biosynthetic defects, androgen insensitivity, Leydig cell
+   agenesis, and gonadotrophin deficiency; generalised failure of masculinisation constitutes a disorder of
+   sex development (DSD).
+ • Persistent müllerian duct syndrome (PMDS) — defective AMH signalling — is associated with
+   cryptorchidism or transverse testicular ectopia, through hindrance by retained müllerian ducts and/or
+   loss of AMH's proliferative effect on the gubernaculum.
+ • Klinefelter syndrome (47,XXY) occurs in under 2% of nonsyndromic cryptorchidism series, more with
+   hypospadias; conversely, more than half of prepubertal Klinefelter patients have cryptorchidism.
+ • Other rearrangements and trisomies, including Down syndrome (trisomy 21), are associated.
+
+CONGENITAL ANOMALIES ASSOCIATED WITH CRYPTORCHIDISM
+ Anomaly                                      Cryptorchidism Note
+ Prune-belly (triad / Eagle-Barrett)          All cases           Multisystem anomalies in about 45%
+ syndrome
+ Spigelian hernia                             53–80%              Absent gubernaculum and inguinal canal may complicate
+                                                                  orchidopexy
+ Cerebral palsy (CP)                          25–54%              Multisystem in about 19%; more commonly bilateral
+ Arthrogryposis                               38%                 Musculoskeletal
+ Omphalocele                                  16–33%              Multisystem in about 80%
+ Imperforate anus                             19%                 Caudal field
+ Myelomeningocele                             15%                 Neural tube
+ Posterior urethral valves (PUV)              12–17%              Urological
+ Congenital diaphragmatic hernia              7–30%               Ipsilateral in all cases
+ (CDH)
+ Gastroschisis                                5–25%               Spontaneous descent in 50–55% — observe
+ Umbilical hernia                             6%                  Abdominal wall
+
+ • Groups cluster into musculoskeletal, central nervous system (CNS) and abdominal wall/gastrointestinal
+   defects.
+ • CNS associations are strong: CP carries by far the highest relative risk, with lesser associations for low
+   IQ, hypotonia, autism and other developmental abnormalities.
+ • Laterality: renal and T10–S5 spinal anomalies (caudal field defects) are ipsilateral in 90%; CDH ipsilateral
+   in all cases; CP/CNS-associated disease is more commonly bilateral.
+ • These support common developmental origins with the urogenital ridge, abdominal wall, lumbosacral
+   spine and CNS.
+
+
+
+
+                                                           page 13 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                              DIAGNOSIS
+
+
+
+ • Extragenital anomalies may alter treatment — Spigelian hernia technically, gastroschisis because
+   spontaneous descent is likely.
+Concept — the company cryptorchidism keeps tells you where the lesion sits. Abdominal wall and caudal-
+field anomalies point to a field defect and are ipsilateral; CNS and syndromic associations point to a central or
+global defect and are bilateral — and that distinction predicts whether the contralateral side is also at risk.
+
+ KEY POINTS
+   • Cryptorchidism occurs in 1–4% of full-term males. Spontaneous descent may occur in the first few
+     months, usually by 6 months. Testes may also ascend over time.
+   • Causes are largely unknown; birth weight, gestational age, genetic and environmental factors likely
+     contribute.
+   • Acquired cryptorchidism is likely equivalent to cases diagnosed at birth. It may follow confirmed
+     scrotal position at birth or spontaneous descent, and may be commoner with retractile testes. The
+     risk warrants annual testicular examination throughout childhood.
+
+
+DIAGNOSIS
+
+Examination
+ • Physical examination is the gold standard for diagnosing cryptorchidism.
+ • Positions: supine, and where necessary upright — sitting cross-legged and/or squatting/standing.
+ • With the patient supine, examine from the ipsilateral side of the testis in question.
+ • Abduction of the thighs inhibits the cremasteric reflex, which is elicited by stroking the ipsilateral inner
+   thigh.
+ • Document palpability, position, mobility, size and lie, plus hernia, hydrocele, intratesticular lesions,
+   penile size and urethral meatus position.
+ • Adjuncts to limit cremasteric activity: distraction, warm room and hands, liquid soap or lubricant,
+   repeated examinations.
+ • Sustained gentle traction on the spermatic cord fatigues the cremaster and allows a retractile testis to
+   remain stably scrotal — the manoeuvre that distinguishes retractile from undescended.
+ • Scrotal asymmetry is a useful sign in unilateral cryptorchidism.
+ • Contralateral testicular hypertrophy with a nonpalpable testis suggests a vanishing testis but is not
+   diagnostic.
+ • 75–80% of undescended testes are palpable; 60–70% are unilateral; right-sided involvement is
+   commoner overall but less frequent among nonpalpable testes.
+
+POSITION OF UNDESCENDED TESTES BY SERIES TYPE
+ Position                       Surgical meta- Single-institution series                     European multi-
+                                analysis                                                     institutional
+ Abdominal                      34%               3–10%                                      8%
+ Near internal ring             12%               —                                          —
+ ("peeping")
+ Canalicular                    27%               16–27%                                     63%
+ Beyond external ring /         27%               Majority distal to external ring           24%
+ prescrotal
+
+
+
+                                                           page 14 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                    DIAGNOSIS
+
+
+
+ Position                       Surgical meta- Single-institution series                            European multi-
+                                analysis                                                            institutional
+ Superficial inguinal           —                 Moul and Belman: all subinguinal testes with      11%
+ pouch (SIP) or ectopic                           lateral gubernacular attachment classed ectopic
+
+ • Position varies markedly with population and classification technique — the reason the series disagree.
+Associated genital findings and the neonatal work-up
+1. If neither testis is palpable — particularly with abnormal penile development — karyotype and
+   hormonal analysis urgently to exclude congenital adrenal hyperplasia (CAH) and pre-empt undiagnosed
+   salt wasting →
+2. Pelvic ultrasonography may identify müllerian structures →
+3. Delay any planned circumcision until evaluation confirms a genetically typical male.
+ • Hypospadias coexists with cryptorchidism in 12–24%.
+ • Proximal hypospadias with cryptorchidism warrants chromosomal analysis — abnormalities in 32–47%.
+ • Micropenis occurs in nearly half of males with anorchia from bilateral vanishing testes (testicular
+   regression syndrome); small penis with cryptorchidism also occurs in hypogonadotrophic
+   hypogonadism.
+ • In these cases measure testosterone, LH and FSH in the first months of life — the mini-puberty window.
+Concept — the examination is deciding which of three questions the child poses. Palpable or not
+determines the operation; retractile or undescended determines whether to operate at all; bilateral
+nonpalpable with an abnormal phallus converts the problem from urological to endocrine and urgent.
+
+Palpable Testes
+ • Undescended testes lie along the line of normal descent or in an ectopic position.
+ • The commonest ectopic site is the superficial inguinal pouch; rarer sites: perirenal, prepubic, femoral,
+   peripenile, perineal, transverse scrotal and contralateral scrotal.
+ • Correct classification as palpable or nonpalpable is the critical step that determines further diagnosis
+   and treatment; every effort must be made to find the lowest position the testis can attain.
+Examination technique
+1. Apply downward pressure with one hand along the ipsilateral inguinal canal, from the anterior iliac
+   spine toward the scrotum →
+2. Palpate with the opposite hand for the lowest attainable position →
+3. While compressing the canal, invaginate the scrotum to palpate a testis distal to the external ring or
+   within the SIP.
+Limits of clinical classification
+ • Difficulty lies in documenting position and distinguishing undescended from retractile testes — which
+   may coexist.
+ • The gold standard is careful examination in several positions, with confirmation of incomplete descent
+   after induction of anaesthesia.
+ • Interobserver and intraobserver variation is substantial: two examiners agreed completely on position
+   and mobility in only a small minority.
+ • Preoperative position correlates poorly with intraoperative findings.
+
+
+
+
+                                                           page 15 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                           DIAGNOSIS
+
+
+
+ • Absence of an intra-abdominal testis cannot be reliably predicted by scrotal examination; boys
+   predicted by an experienced surgeon to have nubbins had viable testes at laparoscopy.
+ • Variation in observed position preoperatively and postoperatively may distort assessment of outcome.
+
+FIGURE 57.6 — AUA ALGORITHM FOR MANAGEMENT OF THE UNDESCENDED TESTIS (AMERICAN
+UROLOGICAL ASSOCIATION, 2014)
+ Step                         Decision                                       Action
+ Entry                        Bilateral and nonpalpable                      Consult a specialist to evaluate for DSD
+                              Not bilateral nonpalpable; under 6             Reassess at 6 months corrected for
+                              months corrected age                           gestational age
+                              Still undescended at 6 months corrected        Refer to a surgical specialist
+                              age
+ Examination under            Palpable — retractile                          Monitor yearly
+ anaesthesia
+                              Palpable — undescended                         Orchidopexy, scrotal versus inguinal
+                              Nonpalpable — nubbin palpable ±                Consider inguinal/scrotal exploration
+                              contralateral hypertrophy
+                              Nonpalpable — otherwise                        Abdominal exploration, laparoscopic versus
+                                                                             open
+ Abdominal exploration        Testis identified                              Orchidopexy — single stage or Fowler-
+                                                                             Stephens (one or two stage)
+                              Vessels entering the internal ring             Inguinal exploration
+                              Blind-ending vessels                           No further exploration
+
+Concept — the algorithm is organised around two gates, age and palpability. Six months corrected age
+closes the window for spontaneous descent and triggers referral; palpability under anaesthesia dictates
+orchidopexy or exploration; and the vascular findings at laparoscopy — testis, vessels entering the ring, or
+blind-ending vessels — terminate it.
+
+Nonpalpable Testes
+FINDINGS AT SURGERY FOR A NONPALPABLE TESTIS
+ Finding                                                                                                      Frequency
+ Abdominal or transinguinal "peeping" location                                                                25–50%
+ Complete atrophy or "vanishing" testis                                                                       15–40%
+ Extra-abdominal but nonpalpable — body habitus, testicular size, limited cooperation                         10–30%
+
+Fig. 57.7. High intra-abdominal left testis identified on laparoscopic evaluation, associated with a closed
+internal ring.
+ • If both testes are nonpalpable and not distal to the internal ring in a genetic male, at least 95% are
+   abdominal; bilateral vanishing testis is rare.
+ • If neither vas nor spermatic artery is found at laparoscopy, dissect the perivesical area and
+   retroperitoneum to the level of the kidney, because true agenesis is extremely rare.
+ • Perirenal or other abdominal testes may be associated with multicystic dysplastic or absent ipsilateral
+   kidney and/or non-union of testis and epididymis.
+
+
+
+
+                                                           page 16 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                          DIAGNOSIS
+
+
+
+The vanishing testis
+ • Thought to represent cord torsion or a vascular accident after completion of genital masculinisation but
+   before scrotal fixation.
+ • Evidence: haemosiderin in excised "nubbins"; reported contralateral postnatal torsion.
+ • Highly predictive signs: contralateral compensatory hypertrophy, and absence of palpable intrascrotal
+   "appendage" tissue (processus vaginalis, wolffian structures, gubernaculum).
+ • Contralateral volume >2 mL: sensitivity 72%, specificity 100%; contralateral length 19–20 mm accurately
+   predicts a solitary testis.
+ • Useful for counselling but must not preclude surgical work-up.
+ • Diagnosis requires documentation of blind-ending spermatic vessels in the abdomen, inguinal canal or
+   scrotum.
+Concept — the contralateral testis is a hint, never a verdict. Hypertrophy and absent appendage tissue
+support counselling, but because the diagnostic endpoint is anatomical — blind-ending vessels — no
+measurement of the other side can end the operation early.
+
+Hormonal Evaluation
+ • Anorchia shows elevated basal gonadotrophins and no response to hCG stimulation — but
+   gonadotrophins may be unexpectedly low in mid-childhood.
+ • hCG stimulation testing is no longer the procedure of choice for documenting anorchia — poorly
+   standardised, side effects, inaccuracy.
+ • Most cases proceed to laparoscopic or surgical exploration; hormone testing may suffice for anorchia,
+   particularly in the mini-puberty window.
+ • If hormones unequivocally confirm testicular tissue, diagnostic laparoscopy may not be absolutely
+   necessary — but proving absence remains difficult, and normal childhood gonadotrophins do not
+   exclude anorchia; then laparoscopy is required.
+
+ANORCHIA VERSUS CRYPTORCHIDISM — BILATERAL NONPALPABLE TESTES
+ Marker                             Anorchia                                                      Cryptorchidism
+ FSH, LH                            Significantly higher                                          Lower
+ AMH, INHB                          Significantly lower                                           Higher
+ Testosterone                       Lower in the first year of life only                          Normal
+ Response to hCG                    Absent                                                        Present
+
+Concept — the hormonal diagnosis of anorchia is a mirror-image pattern (gonadotrophins up, Sertoli
+products down) reliably visible only during mini-puberty. Outside that window the axis is quiescent, which is
+why laparoscopy is the default confirmatory test.
+
+Imaging
+ • Inguinoscrotal ultrasonography and magnetic resonance imaging (MRI) are not usually helpful and are
+   not recommended for the nonpalpable testis.
+
+IMAGING PERFORMANCE FOR THE NONPALPABLE TESTIS
+ Modality                           Sensitivity                 Specificity Comment
+ Ultrasonography, overall           45%                         78%          Inadequate for the decision it would inform
+ Ultrasonography, selective,        95–97%                      —            Examination under anaesthesia gives the same
+ inguinal testes                                                             information
+
+
+                                                           page 17 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                           DIAGNOSIS
+
+
+
+ Modality                           Sensitivity                 Specificity Comment
+ MRI (meta-analysis)                65%                         100%         Better for inguinal than abdominal; sedation
+                                                                             needed; unlikely to change management
+ Magnetic resonance                 96% originally; 57% in      —            Failed replication
+ angiography (MRA)                  younger boys
+ Any modality, vanishing            None reliable               —            —
+ testis
+
+ • One possible MRI indication: an ectopic abdominal testis not localised by laparoscopy.
+ • Imaging remains common: about half of referred boys had ultrasonography, which delayed surgery by
+   about 3 months and was accurate only about half the time; imaging matched examination in under 60%
+   and surgery in under two-thirds, with median referral age 24 months.
+ • Counterargument: ultrasonography may find an inguinal testis or remnant and avoid laparoscopy — not
+   standard practice and controversial.
+ • Imaging is not indicated: limited accuracy, unnecessary health care use, and it does not obviate
+   definitive surgery.
+Concept — imaging fails not because it cannot see testes, but because no result changes the operation. A
+positive scan does not avoid surgery and a negative scan does not exclude a testis; the only measurable effect
+is delay.
+
+Diagnostic Laparoscopy
+ • Diagnostic laparoscopy, followed by laparoscopic orchidopexy if an abdominal testis is present, is the
+   preferred approach, preceded by examination under anaesthesia.
+ • Observe: size and position of spermatic vessels and vas; testicular size, quality and position; patency of
+   the internal ring.
+
+LAPAROSCOPIC FINDINGS AND THEIR MEANING
+ Finding                                          Interpretation                                  Caveat
+ Closed internal ring + blind-ending              Confirms an abdominal vanishing testis          The only unequivocal
+ spermatic artery and vas                                                                         combination
+ Hernia present                                   Frequently but not always a viable              Not diagnostic alone
+                                                  abdominal or distal testis
+ Atretic cord through a closed ring               Suggests a distal vanishing testis              Subjective
+ Normal-appearing vessels                         Viable or vanishing testis                      Non-discriminating
+ Apparent abdominal blind-ending vessels May coexist with a distal or ectopic                     The dangerous false
+                                         abdominal testis                                         negative
+
+ • If laparoscopy does not unequivocally localise the testis or blind-ending artery, further exploration is
+   needed — laparoscopically with additional ports if desired.
+Excision of the remnant
+ • Germ cells and/or tubules are present in 5–15% of excised remnants; malignancy risk unknown; a single
+   case of carcinoma in situ in a remnant has been reported.
+ • Excise when spermatic vessels traverse the internal ring, to confirm no viable or atrophic testis, since
+   laparoscopic appearances may deceive.
+ • Initial scrotal exploration can be considered with a palpable scrotal nubbin and contralateral
+   hypertrophy (testicular length ≥1.8 cm); laparoscopy is then needed in only about a quarter.
+
+
+                                                           page 18 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                           DIAGNOSIS
+
+
+
+ • Against scrotal-first: futile if the vanishing testis is intra-abdominal, and in testicular–epididymal
+   dissociation the "nubbin" may be epididymis.
+ • Laparoscopy is the procedure of choice unless a prominent scrotal nubbin is palpable with other signs
+   of monorchism.
+
+CONTRALATERAL FIXATION OF A SOLITARY TESTIS
+ For fixation                                                            Against fixation
+ Eliminates the risk of losing the only testis                           Prenatal torsion does not imply postnatal
+                                                                         contralateral torsion
+ A contralateral bell-clapper deformity (incomplete fixation to          Bell-clapper anomaly contralateral to vanishing
+ the tunica vaginalis) may be present                                    testes is rare; torsion risk minimal
+ Empirically recommended by some surgeons                                AUA algorithm: close without further action if blind-
+                                                                         ending vessels are found
+
+Concept — laparoscopy answers a vascular question, not a positional one. The testis may be hidden, but the
+vessels cannot be; every branch terminates on what the spermatic artery does, which is why an equivocal
+vascular view mandates further exploration rather than closure.
+
+Associated Pathology
+Testicular Maldevelopment
+ • Systematic germ cell counts established arrested spermatogonial development with progressive loss in
+   cryptorchid testes.
+ • Germ cell numbers decrease from after infancy and fail to increase with age, in cryptorchid and — to a
+   lesser degree — contralateral descended testes.
+ • Abnormal histology is reported in 38–98% of affected testes, reflecting exclusion of hormone
+   responders from biopsy, differing methods, and use or non-use of age-corrected norms.
+
+NORMAL SPERMATOGONIA PER TUBULE (S/T) BY AGE
+ Age                                                   Mean S/T
+ Birth                                                 2.5
+ 1 year                                                2.2
+ 2–3 years                                             1.2 — nadir, about half the values before and after
+ 4 years                                               2.0
+ 5 years to early puberty (11 years)                   2.5, steady
+
+ • The 2–3 year nadir requires age-specific reporting.
+ • Autopsy data from normal boys aged 0–1.9 years show gradual reduction with no secondary rise — the
+   difference reflecting autopsy versus biopsy sampling and non-overlapping age ranges.
+ • Within- and between-biopsy variability exists in single testes.
+What the histology establishes
+ • Abnormal germ cell development is often present after early infancy in cryptorchid testes, and to a
+   lesser degree in their descended partners.
+ • Pathology is similar across true ectopic, SIP, abdominal and ascending testes, though some studies show
+   greater severity with abdominal location.
+ • Germ cell depletion also occurs in myelomeningocele, PUV and prune-belly syndrome.
+
+
+
+                                                             page 19 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                     DIAGNOSIS
+
+
+
+ • Secondary cryptorchidism after hernia repair shows similar findings, suggesting primary cryptorchidism,
+   though malposition may contribute.
+ • Higher germ cell counts correlate with less interstitial fibrosis, younger age at surgery, and palpability.
+ • Testicular volume correlates with germ cell count in both testes but cannot predict it individually.
+Sertoli and peritubular myoid cells
+ • Disrupted prepubertal Sertoli morphology, failure of pubertal maturation, and reduced Sertoli number
+   after 4 months of age.
+ • Type IV collagen — from Sertoli and myoid cells, possibly for cell-to-cell communication — is reduced in
+   basement membranes of undescended and contralateral testes.
+
+LANDMARK STUDY — KOLLIN ET AL., RANDOMISED ORCHIDOPEXY AT 9 MONTHS VERSUS 3 YEARS
+ Endpoint                             Orchidopexy at 9 months                         Orchidopexy at 3 years
+ Sertoli cell count                   Significantly higher, still higher at 4 years   Lower
+ Germ cell number at biopsy           Preserved                                       Markedly reduced
+ Postoperative testicular             Superior                                        Inferior
+ growth
+ INHB                                 Correlates with testicular volume (Sertoli      Correlates with testicular
+                                      number)                                         volume
+
+ • The undescended testis is smaller at birth and grows less well than the scrotal testis, even after
+   spontaneous descent — an intrinsic defect.
+ • Conclusion: cryptorchidism has primary and secondary effects; an extrascrotal position is detrimental
+   even in infancy.
+Gonocyte-to-spermatogonium transformation
+ • The gonocyte-to-spermatogonium ratio is normal at about 1.5 months, but gonocyte disappearance and
+   Ad spermatogonial appearance are delayed in the undescended testis.
+ • Cryptorchid testes lacking Ad spermatogonia: 7–85%, geographically variable.
+ • Reduced Ad spermatogonia per tubule (Ad/T) also occurs in the contralateral testis and in acquired
+   cryptorchidism — evidence that acquired testes were never truly descended.
+ • Primary spermatocyte appearance at 4–5 years is delayed.
+ • As Sertoli cells provide paracrine signalling for spermatogonial differentiation, defects may lie in Sertoli
+   cells, germ cells, or both.
+Concept — the cryptorchid testis is abnormal before it is misplaced, and misplacement then makes it
+worse. Smaller size at birth, contralateral involvement and identical pathology across positions argue for an
+intrinsic defect; better growth and Sertoli counts after early surgery show position adds a second, preventable
+injury — and only the second is under the surgeon's control.
+
+Anomalies of the Epididymis, Processus Vaginalis, and Gubernaculum
+ • Abnormal epididymal attachment: 16–75%, partly because identification is subjective.
+ • In decreasing frequency: non-fusion of caput and/or cauda → elongation and/or looping → atresia.
+ • Anomalies correlate with severity of cryptorchidism and degree of processus closure.
+ • Commoner in congenital (37–60%) than acquired (11–31%) disease.
+ • Complete non-union of testis and epididymis/vas is rare, favours abdominal testes, and does not
+   correlate with histology.
+
+
+
+                                                           page 20 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                        DIAGNOSIS
+
+
+
+ • Effect on sperm transport and subfertility is undefined.
+
+PROCESSUS VAGINALIS AND GUBERNACULUM IN CRYPTORCHIDISM
+ Finding                                                                                               Frequency
+ Patent processus — unilateral undescended testis                                                      87%
+ Patent processus — bilateral undescended testes                                                       71%
+ Aberrant gubernacular attachment lateral to the scrotum                                               66–75%
+ Patent processus — ascending (acquired) testes                                                        45–50%
+
+ • Inguinal hernia is commoner in family members of cryptorchid males.
+ • Tunica and processus anomalies predispose to torsion and clinical hernia respectively.
+ • Torsion of an undescended testis can occur at any age and may mimic incarcerated inguinal hernia; risk
+   is higher than in scrotal testes, particularly with developmental disorders; delay is common and
+   testicular loss risk high.
+ • Torsion with loss can occur in infancy during observation for spontaneous descent.
+Concept — the gubernaculum, processus and epididymis fail together because they are regulated together.
+Lateral gubernacular attachment, patent processus and non-fused epididymis are three readings of one
+developmental defect, which is why they track severity together.
+
+Other Testicular Anomalies Associated With Cryptorchidism
+ • Polyorchidism, splenogonadal fusion and transverse testicular ectopia (TTE) each have about 100–150
+   reported cases; abdominal cryptorchidism is common, so laparoscopy is useful for diagnosis and
+   treatment.
+
+POLYORCHIDISM, SPLENOGONADAL FUSION AND TRANSVERSE TESTICULAR ECTOPIA COMPARED
+                  Polyorchidism                           Splenogonadal fusion                  Transverse testicular
+                                                                                                ectopia
+ Definition       Supernumerary testis                    Continuous or discontinuous fibrous   Both testes descend to
+                                                          union of spleen and gonad; much       the same side
+                                                          commoner in males
+ Site             More often unilateral and left;         Continuous form 55%;                  Inguinal hernia with
+                  testes scrotal 75%, inguinal 20%,       cryptorchidism ~30%, mostly           contralateral nonpalpable
+                  abdominal 5%                            abdominal and bilateral (59%); left   testis; both may lie in one
+                                                          65%, right 26%                        hemiscrotum
+ Proposed         Duplication or division of the          Field defect with aberrant splenic    Hindrance by fused
+ cause            genital ridge ± wolffian duct           cell migration at 5–8 weeks           wolffian derivatives or
+                                                                                                persistent müllerian
+                                                                                                ducts, or a primary
+                                                                                                gubernacular defect
+ Presentation     Often asymptomatic; found at            Incidental at orchidopexy or hernia   Hernia with contralateral
+                  orchidopexy or hernia repair (24–       repair, or scrotal swelling from      nonpalpable testis
+                  30%); mass, pain (7%), torsion          reactive change in splenic tissue;
+                  (13–15%), müllerian remnants            discontinuous form presents as a
+                  (7–9%), tumour                          testicular mass
+
+
+
+
+                                                           page 21 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                         DIAGNOSIS
+
+
+
+                     Polyorchidism                        Splenogonadal fusion                   Transverse testicular
+                                                                                                 ectopia
+ Associations        Tumour risk probably from            Continuous form: limb defects,         PMDS in 20–50%
+                     associated cryptorchidism or         micrognathia, microglossia, anal
+                     PMDS                                 atresia, pulmonary hypoplasia; less
+                                                          often cardiac, cleft palate,
+                                                          myelomeningocele
+ Imaging             Sonographically normal               Discontinuous: hyperechoic mass        —
+                     supernumerary testis                 with multiple hypoechoic nodules
+                                                          and obvious vascularity
+ Management Observe normal scrotal testes;                Recognise at orchidopexy; avoid        Laparoscopy; with vasal
+            orchidopexy if undescended                    unnecessary orchidectomy               fusion, mobilise
+            with intact ductal drainage                                                          ipsilaterally and place via
+                                                                                                 a trans-septal approach
+
+KUMAR CLASSIFICATION OF POLYORCHIDISM — BY DUCTAL DRAINAGE
+ Group                                               Type          Anatomy
+ A — vasal drainage                                  A1            Separate epididymis and vas
+                                                     A2            Separate epididymis
+                                                     A3            Shared epididymis and vas
+ B — no vasal drainage                               B1            Epididymis present
+                                                     B2            No epididymis or vas
+
+ • Management must also account for testicular position, size and attachments.
+ • Testicular malignancy with splenogonadal fusion is rare and probably related to cryptorchidism, not the
+   splenic tissue.
+
+PERSISTENT MÜLLERIAN DUCT SYNDROME — LARGEST SERIES
+ Feature                                                                                                         Finding
+ Bilateral cryptorchidism                                                                                        59%
+ Unilateral cryptorchidism with contralateral hernia (hernia uteri inguinalis)                                   19%
+ Transverse testicular ectopia                                                                                   22%
+ Mutation in AMH or its type II receptor (AMHR2)                                                                 88%
+ Adult infertility                                                                                               ≥80%
+ Adult testicular malignancy                                                                                     33%
+
+ • In Insl3-null mice, loss of gubernacular attachment, TTE and/or torsion occur.
+Concept — all three anomalies matter because they change the operation, not the diagnosis. Each presents
+at orchidopexy or hernia repair, and in each the error to avoid is removing tissue that should be preserved or
+missing a second testis on the wrong side.
+
+ KEY POINTS
+   • About 80% of undescended testes are palpable, and 60–70% are unilateral.
+   • A patent processus vaginalis (indirect inguinal hernia) and epididymal anomalies are commonly
+     associated with cryptorchidism.
+
+
+
+                                                            page 22 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis    GENERAL GUIDELINES FOR MANAGEMENT
+
+
+
+   • Subsets of cryptorchid males have subtle HPG abnormalities during mini-puberty and/or reduced
+     Sertoli cell hormones (AMH or INHB).
+   • Imaging is rarely useful for the nonpalpable testis. Diagnostic laparoscopy is the procedure of choice.
+
+
+GENERAL GUIDELINES FOR MANAGEMENT
+ • Indications for surgical correction: optimise testicular function; reduce and/or facilitate diagnosis of
+   malignancy; cosmesis; prevent hernia and torsion.
+ • Except in complex medical illness or the postnatal period, treat once the diagnosis is confirmed.
+ • The AUA algorithm governs the approach, with similar guidelines from the Canadian Urological
+   Association and the European Association of Urology (EAU).
+Timing
+ • Observe for the first 6 postnatal months to allow spontaneous descent.
+ • If descent does not occur, operate after 6 months, preferably by 12 months of corrected gestational age;
+   18 months is the guideline outer limit.
+ • Rationale:
+    1. Spontaneous descent is unlikely in full-term males after 2–6 months
+    2. Testicular growth is restored after orchidopexy at 9 months compared with 3 years
+    3. Abdominal orchidopexy may be easier in young infants, soon after mini-puberty
+ • Prematurity: observe for 6 months beyond the expected date of delivery, or — if position is marginal —
+   until 1 year of age.
+The implementation gap
+ • Intervention is delayed in many children worldwide — Sweden, Australia, the United Kingdom, Germany,
+   China, Canada and the United States.
+ • Sweden: only about two-thirds of diagnosed boys underwent surgery, median age fell from 6.3 to 3.4
+   years, under 5% were operated in the first year, and orchidopexy by 2 years rose from 10% to 30%.
+ • The majority are still operated beyond 2 years; United States compliance has improved since the AUA
+   guideline but remains a minority.
+ • Reasons: provider education, local resources, socioeconomic factors, and recurrent cryptorchidism;
+   studies cannot separate delayed diagnosis from delayed treatment.
+ • Annual scrotal examination is needed after spontaneous descent in infancy, because of re-ascent risk.
+Observation of acquired cryptorchidism
+ • Dutch observational series reported spontaneous descent in 57% and 75% of acquired cryptorchid
+   testes, most by midpuberty; in a larger cohort 90% of high scrotal and 64.5% of inguinal/nonpalpable
+   testes descended at a mean age of 12.9 years.
+ • Descended testes had volumes closer to normal than operated testes.
+ • Confounded: high scrotal testes dominated those descending, retractile testes were included, and some
+   required surgery for hernia, pain or torsion.
+ • Oligospermia did not differ significantly between operated and observed cases, but studies were non-
+   randomised with heavy loss to follow-up.
+
+
+
+
+                                                           page 23 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                  MEDICAL MANAGEMENT
+
+
+
+ • Without paternity and malignancy outcome data, observation cannot be recommended for acquired
+   cryptorchidism, particularly bilateral.
+Concept — the timing rule is a compromise between two clocks running in opposite directions.
+Spontaneous descent is possible until about 6 months and argues for waiting; germ and Sertoli cell loss
+accrues from infancy and argues for operating — the window between 6 and 12 months corrected age is
+where the curves cross, and prematurity shifts the clock, not the logic.
+
+MEDICAL MANAGEMENT
+ • Historical indications: distinguish retractile from undescended testes; stimulate descent; stimulate germ
+   cell maturation; facilitate abdominal orchidopexy.
+ • hCG "success" in retractile testes varies from 58% to 100%, depending on age, retractility, diagnostic
+   accuracy and dose — hCG does not reliably distinguish retractile from cryptorchid testes, nor remove
+   the need for serial examination.
+
+Therapeutic Luteinising Hormone–Releasing Hormone and/or Human Chorionic
+Gonadotrophin
+HORMONAL AGENTS USED TO INDUCE DESCENT
+ Agent                                  Route / class                        Efficacy for descent                Verdict
+ Luteinising hormone–releasing          Intranasal; gonadotrophin-           About 20%; statistically superior   Not
+ hormone (LHRH)                         releasing hormone                    to placebo but not clearly          recommended
+                                        analogue                             clinically significant
+ hCG                                    Intramuscular; LH-receptor           Limited; never tested in placebo- Not
+                                        agonist                              controlled trials because of      recommended
+                                                                             route
+ hCG, other uses (acquired              —                                    Limited                             Not
+ cryptorchidism, palpability,                                                                                    recommended
+ abdominal testis)
+
+ • Hormonal therapy to stimulate descent is not recommended, despite over 70 years of use on the
+   premise that androgens promote descent.
+Effect on germ cells
+ • Against: hCG associated with increased germ cell apoptosis and lower adult testicular volume; prior
+   hCG or LHRH associated with reduced germ cell counts.
+ • For: randomised LHRH before surgery raised germ cell counts, more so under 2 years of age.
+ • Neutral: LHRH non-responders versus untreated boys, all operated before 2 years, showed no
+   differences in semen or endocrine function.
+ • Whether hormones help or harm germ cells is unclear, and research is unlikely as the approach is no
+   longer recommended.
+
+Adjuvant Hormonal Therapy
+ • Hadziselimovic first advocated adjuvant or neoadjuvant LHRH agonist therapy to improve fertility
+   potential.
+ • Rationale: "defective mini-puberty" or relative hypogonadotrophic hypogonadism impairs gonocyte-to-
+   Ad spermatogonium transformation, restorable later by gonadotrophin stimulation.
+
+
+
+
+                                                           page 24 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                SURGICAL MANAGEMENT
+
+
+
+ • Unvalidated: no study correlates mini-puberty hormones with spermatogonial development; HPG
+   defects are not confirmed in most cryptorchid infants; and age at scrotal placement — not LH,
+   testosterone, FSH or INHB — predicted germ and Sertoli cell counts in the Kollin randomised study.
+Regimen and supporting evidence
+ • Buserelin, low-dose and long-term — 10 or 20 micrograms intranasally on alternate days for 6 months
+   — dosed to avoid HPG downregulation, with orchidopexy.
+ • Non-randomised support: higher germ cell counts after buserelin; improved histology on repeat biopsy
+   after buserelin or nafarelin; higher germ cell counts with buserelin in a randomised comparison against
+   placebo plus hCG and surgery alone; higher adult sperm counts after buserelin — but in small,
+   unmatched groups with atypically low surgery-only counts.
+
+RANDOMISED PILOT STUDIES OF ADJUVANT LHRH IN BILATERAL CRYPTORCHIDISM
+                  Thorup et al., 2018                                        Vincel et al., 2018
+ Population       Bilateral, 7 months–3.5 years, low S/T; position           Bilateral, 7–55 months, absent Ad spermatogonia
+                  not stated
+ Intervention     LHRH on alternate days for 16 weeks from 3                 Buserelin 10 micrograms intranasally on alternate
+                  months postoperatively                                     days for 6 months
+ Treated          S/T improved in some; Ad/T normalised in                   S/T ≥0.4 in four; all developed measurable Ad/T,
+ group            three                                                      still below normal (≥0.1)
+ Control          Two normalised S/T and Ad/T; mean S/T higher               S/T >0.4 in one; no Ad spermatogonia
+ group            with treatment
+ Limitation       Tiny numbers, unstated position                            Tiny numbers; more abdominal testes in controls
+
+ • Pilot data suggest a potential role in selected bilateral cases, but which patients benefit is unclear; as
+   Ad/T >0.2 predicts fertility better than S/T, translation to adult fertility is uncertain.
+ • Biopsy is not routine, so candidates cannot usually be identified; gonadotrophin insufficiency was
+   present in only about a quarter of those with low germ cells per tubule, so hormones cannot substitute
+   for histology.
+ • Systematic appraisal: high or unclear risk of bias in most domains, with wide variation in age, sample
+   size, agent, dose, timing, outcome and blinding, and hormone use in some controls.
+ • Adjuvant therapy is not widely used; large standardised trials in bilateral cryptorchidism reporting
+   paternity are needed.
+Concept — hormonal therapy fails on both claims for the same reason: position, not endocrinology, is the
+modifiable variable. Descent is not androgen-limited after the fetal window, and germ cell development
+tracks age at scrotal placement rather than any hormone — leaving only an unproven adjuvant role in
+bilateral disease with absent Ad spermatogonia.
+
+SURGICAL MANAGEMENT
+ • Surgery once failure of spontaneous descent is confirmed is standard.
+ • Retrospective early-versus-late studies are mixed; the prospective randomised Kollin study supports
+   surgery in the first year for congenital cryptorchidism on growth and histology — long-term outcome
+   data are lacking.
+ • Median age at orchidopexy remains 1.5–4 years in many series; only 18% are operated by 1 year of age
+   in a large national database.
+
+
+
+
+                                                           page 25 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                  SURGICAL MANAGEMENT
+
+
+
+ • Causes of lateness: delayed referral, new acquired diagnoses, prematurity or morbidity, excessive
+   observation, undetected re-ascent, and difficulty distinguishing retractile testes.
+ • Orchidectomy is an option in pubertal and postpubertal males, especially if the testis is abdominal or
+   hard to mobilise and the contralateral testis is normal — spermatogenesis is usually poor and
+   carcinoma in situ and torsion risks exist; a prosthesis may be placed at the same sitting.
+
+Palpable Testes
+Inguinal Orchidopexy
+ 1. Re-examine after induction to confirm palpability and lowest position →
+ 2. Low transverse incision in Langer's lines at or below the inguinal crease, superolateral to the pubic
+    tubercle →
+ 3. Search the superficial inguinal pouch during subcutaneous dissection →
+ 4. Open the external oblique from the external ring, sparing the ilioinguinal nerve →
+ 5. Record position relative to the canal →
+ 6. Isolate the cord; dissect distally to the gubernacular remnant; transect the gubernaculum distal to the
+    sac to protect a long-looping vas →
+ 7. Incise the internal spermatic fascia longitudinally to free an intact sac without skeletonising vas and
+    vessels (or open the sac over the testis and free its posterior wall) →
+ 8. Mobilise the sac to the internal ring and suture-ligate →
+ 9. Incise internal spermatic and transversalis fascia at the ring for retroperitoneal mobilisation if needed
+    →
+10. Further length: divide lateral fascial bands → cranial retroperitoneal dissection → Prentiss manoeuvre
+    (medial transposition beneath the epigastric vessels) → cranial extension of the incision →
+11. Transverse scrotal incision and subdartos pouch; tunnel anterior to the pubis →
+12. Pass the testis through the dartos without twisting the cord →
+13. Excise appendages, inspect the epididymis, record three-dimensional testicular and contralateral
+    volumes →
+14. Fix by tension-free dartos closure around the cord incorporating the tunica vaginalis edge; additional
+    tunica–dartos sutures or tunica albuginea sutures if needed →
+15. Close with absorbable sutures; local infiltration, ilioinguinal block or caudal anaesthesia (caudal
+    especially for bilateral or combined penile surgery).
+ • If the testis cannot reach the scrotum, a two-stage procedure is an alternative to orchidectomy, which is
+   reserved for visibly abnormal or atrophic testes, postpubertal patients, or insufficient vasal length.
+ • Transalbugineal fixation is unnecessary: 98.7% success in 1104 orchidopexies without it; it carries a
+   theoretical inflammatory or vascular risk.
+Testicular biopsy
+ • Advocated by Hadziselimovic for fertility prognosis; controversial and not routine outside research, as it
+   does not change treatment and may injure the testis.
+ • Counter-position: consider in bilateral cryptorchidism to find absent Ad spermatogonia (gonadotrophin
+   candidates), and for carcinoma in situ in males older than 13 years.
+ • Risk is theoretical — no increase in microlithiasis or antisperm antibodies long-term.
+ • Biopsy is indicated in sexual ambiguity or clinical testicular dysgenesis.
+
+
+
+
+                                                           page 26 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                           SURGICAL MANAGEMENT
+
+
+
+Complications and follow-up
+
+ATROPHY AND FAILURE AFTER ORCHIDOPEXY
+ Series                                  Atrophy / failure
+ Pre-laparoscopic-era literature         ~15% atrophy or nonscrotal position overall; 24% abdominal or peeping vs 10%
+ review                                  distal to the internal ring; worse after 6 years
+ Single institution, 18 years of         Retraction <2%, slightly higher in older boys; atrophy undefined
+ open orchidopexy
+ Single institution, 418                 Atrophy 1.9%; nonscrotal 10.3%; more complications with younger age; all
+ orchidopexies                           acquired cases successful
+
+ • The age effect differs by era and case mix: older age worsened outcome historically, whereas recent data
+   show earlier orchidopexy is more technically demanding, making surgeon expertise relevant.
+ • Minimum 6 months' follow-up for position and size; long-term counselling on fertility, malignancy and
+   self-examination.
+ • Post-orchidopexy torsion is very rare, minimised by extravaginal subdartos fixation.
+ • Complete intrascrotal atrophy needs no further surgery, but a prosthesis should be offered — at least 6
+   months after any scrotal procedure or after puberty, via an inguinal approach, fixed to the dartos with
+   purse-string non-absorbable fascial closure; complications under 5%; cryptorchid males request
+   prostheses less often than those with post-pubertal loss.
+Reoperation
+ • Indicated for a nonscrotal testis after orchidopexy.
+ • Prescrotal testis: a primary scrotal approach may suffice.
+ • Redman: lateral approach to the cord after mobilising external oblique and cremasteric fasciae, avoiding
+   scarred anterior layers.
+ • Cartwright: intracanalicular cord mobilisation with a patch of external spermatic fascia.
+ • Correct a patent processus and mobilise the cord retroperitoneally in high recurrent cryptorchidism.
+ • Results match primary surgery, though vascular and vasal injury risk is theoretically higher.
+
+Trans-scrotal Orchidopexy
+ • A primary scrotal approach can be used for palpable testes; some reserve it for testes near or drawable
+   into the scrotum.
+ • Sequence: re-examine → superior scrotal border incision (Bianchi and Squire), or low transverse or
+   midline scrotal incision for testes drawable into the scrotum → deliver the testis → mobilise the sac and
+   cremaster "high above the inguinal canal" → fixation (often transalbugineal) → subdartos pouch.
+ • Some require inguinal conversion for sac ligation or cord length, though the sac can often be ligated
+   above the internal ring through the scrotal incision.
+
+OUTCOMES OF TRANS-SCROTAL ORCHIDOPEXY
+ Measure                             Figure
+ Additional inguinal incision        3.5–4.4%
+ Early complications                 1.6%
+ Reoperation                         4.9%
+ Atrophy / hypotrophy                0.3–0.6%
+ Hernia present                      30%
+
+
+
+                                                           page 27 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                       SURGICAL MANAGEMENT
+
+
+
+ Measure                             Figure
+ Overall complications               3% — recurrence 0.6%, haematoma 1.4%, wound infection 0.8%, one vasal injury
+ Randomised trial vs inguinal        Less pain and analgesic use; inguinal conversion in 24%
+
+ • Efficacy and complications are similar to inguinal orchidopexy; the scrotal approach is increasingly
+   advocated as first choice for all palpable testes.
+Concept — the inguinal and scrotal approaches differ in where the surgeon starts, not what must be
+achieved. Both require cord mobilisation to a dependent scrotal position and end in a subdartos pouch; the
+scrotal route defers the inguinal incision until it proves necessary, which for most palpable testes it does not.
+
+Abdominal Testes
+ • Decide: open or laparoscopic; one- or two-stage; with or without spermatic vessel transection.
+ • Orchidectomy for poorly viable or higher-risk testes — pubertal or postpubertal patients, very small or
+   dysgenetic testes — best done laparoscopically.
+
+Open Transabdominal Orchidopexy
+ • Access via an extended inguinal incision opening internal oblique and peritoneum, or a higher incision
+   medial to the pubic tubercle with a preperitoneal approach.
+ • Jones and Bagley (sequence): muscle-splitting approach to the internal ring → open peritoneum →
+   deliver testis → free vas and vessels from peritoneum → tunnel to scrotum → secure as for inguinal
+   orchidopexy. Success 95%.
+
+Laparoscopic Orchidopexy and Fowler-Stephens Orchidopexy
+ • Laparoscopy has been the procedure of choice for abdominal orchidopexy since the mid-1990s, with
+   durable high success.
+ • Primary versus Fowler-Stephens depends on vas and vessel length, looping ducts and age; observed
+   position correlates poorly with ultimate cord length.
+Technique
+ 1. Re-attempt palpation after induction (laparoscopy may also serve high canalicular testes) →
+ 2. Decompress bladder and stomach; 5-mm supra- or infraumbilical trocar for a 0- or 30-degree lens; open
+    Hasson or Bailez entry in children →
+ 3. Carbon dioxide pneumoperitoneum, maximum 8–12 mmHg →
+ 4. Inspect both internal rings; assess testicular size and position →
+ 5. Additional 2–3-mm lower-quadrant trocars triangulated to the ipsilateral ring (midclavicular at umbilical
+    level for bilateral), or 3-mm instruments through stab incisions →
+ 6. Mobilise structures distal to the ring — epididymis/vas and gubernaculum (gubernaculum as a handle,
+    minimal cautery) →
+ 7. Incise peritoneum lateral to the vessels and distal to the vas →
+ 8. Mobilise vessels proximally, preserving the collateral supply between vas and spermatic vessels — so
+    Fowler-Stephens remains possible →
+ 9. Bring the testis through a new hiatus medial to the inferior epigastric vessels and lateral to the medial
+    umbilical ligament, or through the internal ring, via a trans-scrotal clamp or port →
+10. Divide peritoneal attachments over the cord under traction, avoiding excessive tension that risks vessel
+    avulsion.
+ • Reaching the opposite internal ring is an unreliable test of adequate length.
+
+
+                                                           page 28 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                             SURGICAL MANAGEMENT
+
+
+
+ • Some testes reach only the upper scrotum; long-term adequacy is unclear.
+ • Formal closure of the dissected ring is unnecessary — no hernias at 41–50 months despite closure in
+   only about half.
+ • A contralateral patent processus appears in about 9%; repair is recommended by some, but its value in
+   preventing hernia is questionable.
+Fowler-Stephens principles
+ • For testes not within 2–4 cm of the internal ring.
+ • A long-looping vas helps but is not required.
+ • Now usually laparoscopic vessel clipping, with mobilisation in the same sitting or staged at 6 months.
+ • Leave peritoneum over the vasal vessels intact; preserve gubernacular vessels where possible.
+
+LEVEL OF SPERMATIC VESSEL TRANSECTION
+ High (proximal) transection                                                 Low (near testis) transection
+ Most surgeons transect at least 1.5–3 cm above the testis                   Koff and Sethi proposed ligation close to the
+                                                                             testis
+ Neheman: ligation as proximal as possible with a wide peritoneal            Rat studies: similar reduction in adult sperm
+ flap in single-stage Fowler-Stephens, with very few failures                numbers with high or low transection
+
+ • Vessel transection reduces germ cell counts, significantly in younger boys.
+ • Avoid vessel transection whenever possible — achievable in most abdominal orchidopexies.
+ • A retrovesical testis with a short vas may ultimately require orchidectomy.
+
+SUCCESS OF ABDOMINAL ORCHIDOPEXY BY APPROACH
+ Approach                                             Success
+ Primary laparoscopic                                 >90% in most series; 97% in direct comparison
+ Primary open                                         89% in direct comparison; 95% for Jones and Bagley
+ Fowler-Stephens, overall                             60–97%
+ One-stage Fowler-Stephens                            63%
+ Two-stage Fowler-Stephens                            68%
+ Microvascular autotransplantation                    96% standard; 88% laparoscopically assisted
+ Shehata staged traction                              84–85%; atrophy 10%
+
+ • Primary procedures are more consistently successful than Fowler-Stephens.
+ • Meta-analysis slightly favours two-stage over one-stage Fowler-Stephens (low-quality studies); recent
+   data show equal atrophy but perhaps better position with two stages.
+ • Variation reflects age, position, testicular quality, follow-up and the definition of success ("intrascrotal"
+   versus "dependent scrotal").
+ • Primary orchidopexy without vessel transection is preferable whenever possible.
+ • Some confirm viability by postoperative ultrasonography.
+ • Rare laparoscopic complications: bladder or vascular injury, hypercapnia, delayed small bowel
+   obstruction.
+Special applications and newer techniques
+ • Laparoscopy suits bilateral orchidopexy, abdominal wall defects, polyorchidism, splenogonadal fusion
+   and TTE ± persistent müllerian ducts.
+
+
+                                                            page 29 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                             PROGNOSIS
+
+
+
+ • Simultaneous bilateral abdominal orchidopexy is common, but stage if both testes are very high or
+   viability is doubtful, choosing the contralateral approach at 6 months to avoid bilateral atrophy.
+ • Microvascular autotransplantation suits the solitary abdominal testis — preserves the testis at the cost
+   of operative time, microsurgical expertise and admission; plastic surgeons can assist.
+ • Monopolar coagulation of vessels as proximal as possible matches clip ligation histologically in first-
+   stage Fowler-Stephens.
+ • Gubernaculum-sparing laparoscopic orchidopexy: after first-stage Fowler-Stephens, prominent
+   vasculature arises from the gubernaculum in 60%; sparing it significantly lowers atrophy.
+ • Dessanti traction: PTFE (polytetrafluoroethylene) pericardial membrane wrapped round the cord →
+   scrotal traction stitch → at 9–12 months, PTFE removed without reopening the canal and testis secured;
+   up to 82% avoid reopening the canal.
+Shehata technique
+ • Rationale: respiration and intra-abdominal pressure apply gradual traction to the gonadal vessels,
+   lengthening them without ligation.
+ • Sequence: divide gubernaculum and incise lateral peritoneum → fix testis to the anterior abdominal
+   wall medial to the contralateral anterior superior iliac spine → after 12 weeks, release and perform
+   laparoscopic orchidopexy.
+ • Success 84–85%, higher in younger boys; atrophy 10%.
+ • Versus staged Fowler-Stephens: non-significantly better in a multicentre study; significantly higher
+   success and lower atrophy in meta-analysis.
+ • No intestinal obstruction or hernia reported despite theoretical risk.
+ • Robot-assisted laparoscopic orchidopexy is feasible without clear advantage.
+Concept — every abdominal technique answers one question: how to gain cord length without sacrificing
+the blood supply. Fowler-Stephens buys length by sacrificing the testicular artery; traction techniques buy it
+over time while keeping the artery — pushing vessel transection from first choice to last resort.
+
+ KEY POINTS
+   • Orchidopexy is recommended for testes undescended after 6 months of age and ideally before 18
+     months. Hormone therapy is not recommended.
+
+
+PROGNOSIS
+ • Major gaps remain in understanding long-term outcome, because surgery is expected to succeed and
+   prospective follow-up into adulthood is difficult.
+ • Adequate studies must account for confounders — severity (position, laterality, epididymal anomalies,
+   hormones), aetiology, age at surgery, hormone exposure, procedure — and use standardised methods
+   with complete follow-up.
+
+Fertility
+ • A history of cryptorchidism is strongly associated with subfertility, particularly bilateral but also
+   unilateral.
+ • Cryptorchidism accounts for 10–17% of men evaluated for infertility.
+ • Individual prediction is difficult: diverse aetiology, age at treatment, approach and severity.
+
+
+
+
+                                                           page 30 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                           PROGNOSIS
+
+
+
+ • Interpretive limits: follow-up below one-third of eligible cases with self-selection, and reliance on a
+   single semen analysis.
+
+SEMEN OUTCOME AFTER CRYPTORCHIDISM — LARGE RETROSPECTIVE REVIEW
+                                                    Oligospermia                         Azoospermia
+ Former bilateral                                   42%                                  31%
+ Former unilateral                                  31%                                  14%
+
+ • No difference by treatment before or after 9 years, and no effect of hCG, in that review.
+ • Azoospermia in unilateral disease reflects abnormal contralateral germ cell development; frequency is
+   0–10% in unselected cryptorchid series versus 11–28% in infertility clinics.
+ • Even after first-year orchidopexy, 20–25% remain at infertility risk on hormonal and biopsy criteria.
+ • Landmark population study (Schneuer et al., 2018): surgery before 18 months reduced the need for
+   assisted reproductive technology (ART); each 6-month delay increased ART need by 5%.
+
+SEMEN OUTCOMES ACROSS MAJOR SERIES
+ Series characteristic                                            Unilateral                                         Bilateral
+ Normal semen, surgery at mean 6.4 years                          33%                                                18%
+ Normal sperm count, surgery at mean 7.0 years                    60%                                                18%
+ Very low count (<5 million/mL), surgery at median                9%                                                 54%
+ 10.8 / 12.7 years
+ Normal concentration, surgery at 6–12 years                      31%                                                —
+ Normospermia, surgery after puberty (14–29 years)                16%                                                —
+ Normal density (three analyses)                                  72% after orchidopexy; 77% after                   0%
+                                                                  orchidectomy; 42% untreated
+ Normal density, surgery at ≥7 years                              84%                                                50%
+ After orchidectomy for unilateral disease (81% atrophic          61% normospermic; 5% azoospermic                   —
+ or Sertoli cell–only)
+ Normal count, surgery before 2 years                             96%                                                75%
+
+ • Bilateral is always worse than unilateral, and the best results come from the earliest-operated series.
+ • Within series, outcome did not consistently track hormone therapy, adult hormones, position or age at
+   surgery — but median surgical age was usually 6 years or more.
+ • Fertility is determined chiefly by germ cell quality in the descended testis in unilateral cases, and by
+   unmeasured factors in bilateral cases.
+Histological and hormonal predictors
+ • Mean germ cell counts correlate with semen parameters in some series but not others; individual
+   predictive value is limited.
+ • Ad spermatogonia number is the better predictor.
+
+AD SPERMATOGONIA AT BIOPSY AND ADULT SPERM COUNT
+ Ad spermatogonia status                                         Adult outcome
+ Present in both testes (no hormones)                            Normal total count (>40 million/ejaculate) in 84%
+ Absent                                                          Subnormal in all
+
+
+
+
+                                                           page 31 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                     PROGNOSIS
+
+
+
+ Ad spermatogonia status                                         Adult outcome
+ Bilateral disease, present in one or both testes                Normal in 55%
+
+ • In a larger series, severe germ cell loss or abnormal Ad counts predicted lower mean counts and higher
+   FSH, but group means stayed normal or non-significant — Ad analysis does not reliably predict the
+   individual.
+ • Serum INHB and G/T are lower in bilateral than unilateral disease; in bilateral cases aged ≤24 months,
+   G/T correlates moderately with INHB, AMH and the INHB/FSH and AMH/FSH ratios, and low ratios with
+   high FSH predict impaired G/T — not seen in unilateral disease; hormones may aid counselling in
+   bilateral cases.
+ • Ad spermatogonia count and germ cell absence are potentially useful prognostic measures, more so in
+   bilateral cryptorchidism; larger prospective studies in infancy-operated boys are needed.
+Limits of semen analysis
+
+LANDMARK STUDY — GUZICK ET AL. (2001) SEMEN THRESHOLDS
+ Parameter                              Subfertile                     Indeterminate                Fertile
+ Concentration                          <13.5 × 106/mL                 13.5–48 × 106/mL             >48 × 106/mL
+ Motility                               <32%                           —                            —
+ Normal morphology                      <9%                            —                            —
+
+ • Semen parameters overlap widely between men with and without proven paternity; thresholds are
+   lower than the then-current World Health Organization criteria; about 3% of fertile men have density
+   below 10 × 106/mL.
+ • Repeated analyses are needed in normal men, rarely obtained in cryptorchidism studies.
+ • In Tanner V youths under 25 years, samples were not highly reproducible but intraclass correlation
+   showed substantial reliability, especially for total count — a single normal sample may suffice; repeat
+   abnormal samples.
+Paternity
+ • Paternity may be the more useful measure, limited by paternal discrepancy, female factors and variable
+   interest in paternity.
+ • Paternal discrepancy: median 3.7% (interquartile range 2–9.6%).
+ • Pooled retrospective cohorts: paternity in about four-fifths of formerly unilateral and one-third of
+   formerly bilateral men.
+
+LANDMARK SERIES — LEE ET AL., PATERNITY AFTER ORCHIDOPEXY (1955–1975) VERSUS MATCHED
+CONTROLS
+                                     Former bilateral                                  Former unilateral           Controls
+ Fathered children (married or       36%                                               53%                         58%
+ cohabiting)
+ Successful when attempting          65%                                               90%                         93%
+ Semen                               Density ≤13 × 106/mL in all studied — yet         Normal density and          —
+                                     some fathered children                            motility in 83%
+
+ • Unilateral did not differ from controls; attempt rates and lifestyle factors did not differ between groups.
+ • Paternity after orchidectomy for unilateral disease equalled controls.
+
+
+                                                           page 32 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                      PROGNOSIS
+
+
+
+ • hCG treatment increased infertility risk (RR 4.7); testicular position and age at orchidopexy did not.
+ • Infertility is hard to predict without azoospermia or severe oligospermia.
+
+UNILATERAL VERSUS BILATERAL CRYPTORCHIDISM — SEMEN AND PATERNITY
+                           Unilateral                                        Bilateral
+ Semen                     Frequently abnormal                               Usually abnormal
+ Paternity                 Close to controls                                 Substantially reduced
+ Interpretation            Semen overstates real infertility                 Semen reflects real infertility
+
+Retractile testes
+ • Untreated childhood retractile testes: high paternity and normal adult volume in a small series.
+ • Infertility clinic series report poor semen after retractility, but retractility was poorly documented.
+ • Biopsy series found germ and Sertoli cell abnormalities in retractile testes qualitatively similar to
+   cryptorchidism, some without controls.
+ • Retractile cannot be separated from acquired undescended testes in these studies.
+ • There is insufficient evidence of increased infertility risk in uncomplicated retractile testis.
+Acquired cryptorchidism
+ • Data are retrospective, non-randomised and mix spontaneous pubertal descent with orchidopexy.
+ • Bilateral testes descending spontaneously after 10 years: volume <15 mL in most and count <20 million/
+   mL in almost half.
+ • Dutch cohorts: no semen or hormone differences between spontaneous pubertal descent and pubertal
+   orchidopexy (groups dominated by high scrotal and likely retractile testes).
+
+SEMEN OUTCOME — CONGENITAL VERSUS ACQUIRED CRYPTORCHIDISM
+                                     Congenital                                                                Acquired
+ Oligospermia — unilateral           33%                                                                       39%
+ Oligospermia — bilateral            57%                                                                       71%
+ Azoospermia — unilateral            None                                                                      8%
+ Azoospermia — bilateral             None                                                                      7%
+ Significant difference              None — nor between observed and operated acquired cases
+
+ • These data support a shared aetiology of congenital and acquired cryptorchidism.
+Sperm retrieval
+ • Orchidopexy before 19 years gives significantly higher testicular sperm retrieval rates than after 19
+   years.
+ • Azoospermic men after orchidopexy have higher retrieval rates than those with idiopathic non-
+   obstructive azoospermia.
+ • A congenital cause affecting both testes may not be abrogated by surgery alone, though early surgery is
+   preferred and may help.
+Concept — in unilateral disease the normal testis carries the fertility, and in bilateral disease nothing does.
+This explains abnormal semen with near-normal paternity in unilateral men, unchanged paternity after
+orchidectomy of the affected side, and why every predictor — hormones, Ad spermatogonia, germ cell
+absence — works best in bilateral cases.
+
+
+
+                                                           page 33 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                       PROGNOSIS
+
+
+
+Testicular Cancer
+ • Cryptorchidism carries a two- to five-fold increased TGCT risk (pooled OR about 4).
+ • About 1% of cryptorchid cohorts develop TGCT; prior cryptorchidism is present in 5–10% of TGCT
+   patients.
+ • Shared risk factors: inguinal hernia, prematurity, low birth weight.
+
+INDEPENDENT RISK FACTORS FOR TGCT — SWEDISH POPULATION STUDY
+ Risk factor                             OR     Age effect
+ Cryptorchidism                          3.2    Stronger if diagnosed after puberty (~5.0) than before (~2.8)
+ Hypospadias                             2.3    Stronger with younger presentation
+ Other genital malformation              1.9    —
+ Inguinal hernia                         1.3    Stronger with younger presentation
+
+ • Meta-analysis confirms congenital cryptorchidism approximately triples adult testicular cancer risk.
+ • Contralateral descended testis: OR about 1.5–1.7, the lower estimate non-significant.
+ • Landmark meta-analysis (Walsh et al., 2007): orchidopexy after 10–11 years carries RR 5.8 versus earlier
+   correction.
+
+AGE AT ORCHIDOPEXY AND TGCT RISK (OSTERBALLE ET AL., 2017)
+ Age at orchidopexy                                                                   OR
+ Under 9 years                                                                        1.1–2.35
+ 10–14 years                                                                          2.9
+ 13–15 years                                                                          5.1
+ 16 years and over                                                                    6.2
+ Untreated adults                                                                     14.4
+
+ • In that long-term cohort (mean surgery 10.8 years, follow-up ~29 years), TGCT arose in about 1% at
+   mean age 33, equally unilateral and bilateral, a minority in the contralateral testis; most followed
+   orchidopexy at ≥10 years; prepubertal intratubular neoplasia was rare and mostly syndromic, including
+   DSD.
+ • Cancer risk rises with every 6 months' delay beyond 18 months of age.
+Germ cell neoplasia in situ
+ • Carcinoma in situ, intratubular germ cell neoplasia unclassified (IGCNU) and germ cell neoplasia in situ
+   (GCNIS) denote the same precursor.
+ • Prevalence: 2–3% in previously cryptorchid men; 0–0.4% in children with nonsyndromic cryptorchidism.
+ • Contralateral GCNIS in 4–8% of men with TGCT; predictors are testicular atrophy, cryptorchidism, and
+   age under 40.
+
+TUMOUR HISTOLOGY BY TREATMENT STATUS
+ Seminoma                                                         Nonseminomatous germ cell tumour (NSGCT)
+ Associated with persistently cryptorchid testes (74%)            Predominates in testes corrected by orchidopexy (63%)
+
+ • Both arise from GCNIS, which forms from gonocytes that fail to differentiate and undergo adaptive
+   genetic and epigenetic change.
+
+
+
+
+                                                           page 34 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                                             PROGNOSIS
+
+
+
+ • Failure of PGCs to differentiate may produce infantile teratoma/teratocarcinoma and yolk sac tumour
+   — rare, reported in prepubertal cryptorchid boys.
+ • Multinucleated spermatogonia occur in 8% of orchidopexy biopsies, in younger boys with normal or high
+   germ cell counts; significance unknown.
+Biopsy and orchidectomy
+ • Risk is higher with chromosomal defects or DSD.
+ • Husmann recommends biopsy in these and in boys older than 12 years at orchidopexy; the age cut-off is
+   not clearly defined.
+ • Orchidectomy is preferred for cryptorchid testes in postpubertal men up to 50 years.
+
+DOES BIOPSY AT ORCHIDOPEXY RAISE TGCT RISK?
+ Increased risk                                                         No increased risk
+ Retrospective cohort RR 6.7 — biopsy indications unknown,              Large Scandinavian cohort with universal biopsy: no
+ so confounding by indication likely                                    excess beyond that expected
+
+Concept — cancer risk is a function of how long the gonocyte defect sits in an abnormal environment,
+layered on an intrinsic defect surgery cannot remove. The age dose–response and seminoma excess in
+uncorrected testes are the modifiable component; the contralateral excess and residual risk after early
+surgery are the intrinsic one.
+Testicular microlithiasis
+ • Multiple specular calcifications within the testicular parenchyma; commoner with GCNIS or TGCT, but
+   present in the normal population and at similar frequency after cryptorchidism.
+
+PREVALENCE OF TESTICULAR MICROLITHIASIS
+ Population                                          Prevalence
+ Normal population, general estimate                 5–10%
+ Population-based, primarily White                   4.2%, rising with age; half limited (<5 lesions per testis), not clinically
+                                                     significant
+ Multicentre review, >37,000 males                   2.9%
+ Younger boys with cryptorchidism                    3.5%
+ Older males followed for acquired                   6.4%
+ cryptorchidism
+ Previously cryptorchid — affected vs                14% vs 19%, no difference; none between congenital and acquired
+ contralateral
+
+ • Figures differ with age structure, ethnicity and the limited-versus-classic definition.
+ • Tumours in 4.64% with versus 0.33% without microlithiasis, but cryptorchidism was not addressed.
+ • Among boys followed for microlithiasis, only one developed malignancy during puberty.
+ • Microlithiasis is not clearly an independent TGCT risk factor; no data show added risk with
+   cryptorchidism; follow-up is undefined.
+ • Rete testis ectasia and intratesticular varicocele are also seen after cryptorchidism; significance
+   undefined. Routine ultrasonography is not recommended.
+Surveillance and self-examination
+ • The U.S. Preventive Services Task Force grades routine testicular self-examination (TSE) "D", partly
+   because TGCT treatment is highly effective — but not explicitly for previously cryptorchid men.
+
+
+                                                            page 35 of 36
+Chapter 57 — Etiology, Diagnosis, and Management of the Undescended Testis                            SELECTED REFERENCES
+
+
+
+ • Cost–benefit analyses favour recommending TSE.
+ • Counsel patients and families on infertility and TGCT risk and the potential benefit of TSE.
+Concept — surveillance rests on counselling and self-examination, not imaging. Microlithiasis and other
+sonographic findings have no defined significance, so the evidence-aligned approach is informed self-
+examination in a population whose absolute risk is modest but real.
+
+ KEY POINTS
+   • Sperm counts are reduced in at least 25% of formerly unilateral and the majority of formerly
+     bilateral cryptorchid men; paternity in the unilateral group is similar to controls.
+   • Ad spermatogonia counts may predict fertility potential in some males with cryptorchidism.
+   • TGCT risk is two to five times higher with cryptorchidism and rises with age at surgery.
+
+
+SELECTED REFERENCES
+ Reference                              Subject
+ Barteczko and Jacob, 2000              Gubernaculum, processus vaginalis and gonadal ligaments — phases of human
+                                        descent
+ Barthold and González, 2003            Epidemiology of congenital cryptorchidism, testicular ascent and orchidopexy
+ Cortes, Holt and de Knegt, 2016        Hormonal pathogenesis and treatment
+ Elyas et al., 2010                     Staging in Fowler-Stephens orchidopexy — systematic review
+ Foresta et al., 2008                   Hormones, genes and environment in human cryptorchidism
+ Gurney et al., 2017                    Risk factors for cryptorchidism
+ Huff et al., 2001                      Abnormal germ cell development in cryptorchidism
+ Hutson et al., 2013                    Regulation of descent and effects of cryptorchidism
+ Ivell, Anand-Ivell and Morley,         Endocrinology of the fetal testis
+ 2016
+ Kolon et al., 2014                     AUA Cryptorchidism Guideline
+ Lee, 2005                              Fertility after cryptorchidism
+ Tasian and Copp, 2011                  Ultrasonography in nonpalpable cryptorchidism — meta-analysis
+ Virtanen and Adamsson, 2012            Cryptorchidism and endocrine-disrupting chemicals
+ Wood and Elder, 2009                   Cryptorchidism and testicular cancer
+
+
+
+
+                                                           page 36 of 36
+

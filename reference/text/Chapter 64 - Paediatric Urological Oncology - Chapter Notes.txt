@@ -1,0 +1,926 @@
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                          Rhabdomyosarcoma
+
+Chapter 64 — Paediatric Urological Oncology: Pelvis,
+Bladder, Testis and Genitalia
+ • Tumours of the pelvis, bladder, gonads and genitalia are rare in children. Rhabdomyosarcoma is the
+   commonest, but the differential is long and spans benign, malignant and intermediate-biology tumours.
+ • Children with cancer do not present only to high-volume cancer centres, so every paediatric urologist
+   needs working knowledge of these tumours and their management.
+
+RHABDOMYOSARCOMA
+ • Rhabdomyosarcoma (RMS) is an aggressive soft-tissue sarcoma derived from rhabdomyoblasts (striated-
+   muscle precursor cells). Because striated muscle is ubiquitous, it can arise almost anywhere; the
+   commonest sites are the head and neck, the extremities and the genitourinary (GU) tract.
+ • Five-year survival for GU-RMS exceeds 80% — below Wilms tumour (90% or better) but above RMS at
+   non-GU sites (about 70%).
+ • The GU sites are bladder/prostate (BP), paratesticular (PT) and vulvovaginal (VV).
+
+A Brief History of Rhabdomyosarcoma Collaborative Research
+ • The Intergroup Rhabdomyosarcoma Study Group (IRSG) formed in 1972; survival improved as a direct
+   result of collaboration. Survival was below 25% before consistent multiagent chemotherapy, popularised
+   by IRS-I (Intergroup Rhabdomyosarcoma Study I).
+ • Overall survival (OS) for localised RMS rose from 55% (IRS-I) to 71% (IRS-IV) through better staging, risk
+   stratification, improved local therapy and better supportive care.
+ • Protocols (more than 5200 children): IRS-I 1972–1978 → IRS-II 1978–1984 → IRS-III 1984–1991 → IRS-IV
+   Pilot (advanced disease only) 1987–1991 → IRS-IV 1991–1997 → IRS-V, the “D-series” (D9803
+   intermediate risk, D9602 low risk), 1997–2005.
+ • In 2000, IRSG merged with the Pediatric Oncology Group, the National Wilms Tumor Study Group and the
+   Children’s Cancer Group to form the Children’s Oncology Group (COG); IRSG became the COG Soft Tissue
+   Sarcoma Committee, which took over D9803 and D9602. COG is affiliated with more than 200 hospitals;
+   over 90% of North American paediatric cancer patients are treated at a COG facility.
+ • Europe has several groups, including single-nation groups in the UK, France and Italy.
+RHABDOMYOSARCOMA COOPERATIVE GROUPS COMPARED
+ Group                           Formed       Constitution                                        Distinguishing feature
+ IRSG → COG                      1972 →       North American; IRSG merged into COG                Ran the IRS-I to IRS-V
+                                 2000                                                             trials
+ EpSSG (European                 2005         Founded by SIOP-MMT (International Society of         Pan-European successor
+ paediatric Soft tissue                       Paediatric Oncology — Malignant Mesenchymal           to national groups
+ sarcoma Study Group)                         Tumour Committee) and AIEOP (Associazione
+                                              Italiana Ematologia Oncologia Pediatrica) Soft Tissue
+                                              Sarcoma Committee
+ CWS (Cooperative                1980         Predominantly German-speaking: Germany, Austria, Several relatively large
+ Weichteilsarkom                              Poland, Sweden, Switzerland, Hungary             RMS trials
+ Studiengruppe)
+
+
+
+
+                                                                page 1 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                             Rhabdomyosarcoma
+
+ Group                           Formed       Constitution                                           Distinguishing feature
+ INSTRuCT (INternational         Most         Data and collaboration from COG, EpSSG and CWS,        Common dataset to
+ Soft Tissue SaRcoma             recent       plus historical IRSG, SIOP-MMT and AIEOP data          harmonise staging, risk
+ ConsorTium)                                                                                         factors and consensus
+                                                                                                     treatment
+
+Concept — RMS outcomes were won by protocol-driven multicentre collaboration, not by any single
+operation; the current frontier is harmonising the competing international systems into one dataset.
+
+Epidemiology
+ • Commonest sarcoma of childhood and adolescence, about 3% of all paediatric cancers.
+ • In the United States 400–500 children develop RMS each year; 20–30% arise in GU organs.
+ • Age-adjusted incidence about 4.6 per million, stable for decades.
+ • Most cases occur in the first decade, with a bimodal distribution: a major peak in the first 2 years and a
+   smaller adolescent peak.
+ • Survival is slightly higher in non-Hispanic White than non-Hispanic Black patients; a socioeconomic
+   survival gradient was not statistically significant.
+
+Histopathology and Molecular Characterisation
+ • Four histological subtypes exist; only embryonal (ERMS) and alveolar (ARMS) typically occur in GU
+   organs. Pleomorphic and spindle cell/sclerosing RMS are rare in children, particularly at GU sites.
+ • Local infiltration and regional nodal spread are common; distant metastases are present in 16% at
+   diagnosis (lung, bone, bone marrow).
+ • The fusion is a translocation between PAX3 (chromosome 2) or PAX7 (chromosome 1) and FOXO1
+   (chromosome 13), producing PAX3/7–FOXO1.
+EMBRYONAL VERSUS ALVEOLAR RHABDOMYOSARCOMA
+ Feature            Embryonal (ERMS)                    Alveolar (ARMS)
+ Usual site         GU tract                            Trunk, extremities
+ Age                Younger; about 70% under            More even age distribution; older children, adolescents
+                    10 years
+ Fusion status      Typically fusion-negative           About 80% PAX3/7–FOXO1 fusion-positive
+ Syndromic          Predominant subtype                 —
+ RMS
+ Prognosis          Better                              Fusion-positive: worse event-free survival (EFS) and OS; fusion-negative
+                                                        ARMS behaves like ERMS
+
+ • Because fusion status predicts outcome better than histology, current collaborative trials assign risk
+   group by fusion status rather than histology.
+
+ KEY POINTS
+   • About a quarter of new RMS diagnoses arise in GU organs; OS for GU-RMS exceeds 80%.
+   • COG, EpSSG and CWS have dramatically improved care and survival.
+   • The commonest GU-RMS histology is embryonal.
+
+Concept — the fusion gene, not the microscope, defines the biology: fusion-negative alveolar tumours
+behave as embryonal ones, which is why histology has been displaced from risk assignment.
+
+
+
+
+                                                                page 2 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                                 Rhabdomyosarcoma
+
+Syndromic Associations
+ • Most RMS is sporadic; 5% or more is linked to a germline syndrome, and syndromic RMS is more often
+   ERMS.
+CANCER PREDISPOSITION SYNDROMES ASSOCIATED WITH RHABDOMYOSARCOMA
+ Syndrome                  Genetic basis                       Tumour associations                  Surveillance
+ Li-Fraumeni               Germline TP53 (p53                  Soft-tissue sarcoma,                 Abdominal ultrasound (US)
+                           tumour suppressor)                  osteosarcoma, early-onset breast     every 3–4 months; annual
+                                                               cancer, brain tumours,               whole-body and brain
+                                                               adrenocortical carcinoma; cancer     magnetic resonance imaging
+                                                               risk 50% by age 30, up to 100% in    (MRI) after age 1
+                                                               females by 70; RMS (especially
+                                                               ARMS) in the first decade
+ Beckwith-                 Aberrant DNA methylation            Classically Wilms tumour; RMS in Abdominal US and alpha-
+ Wiedemann (BWS)           at 11p15.5 imprinting               up to 5%                         fetoprotein (AFP) every 3
+                           region                                                               months to age 4; renal US
+                                                                                                every 3 months age 4–7;
+                                                                                                benefit beyond 8 unclear
+ DICER1                    Heterozygous germline    RMS, cystic nephroma, Wilms                     Abdominal US and chest
+                           loss-of-function in the  tumour, ovarian Sertoli–Leydig                  computed tomography (CT, for
+                           microRNA-processing gene cell tumours                                    PPB) in infancy, then every 6–
+                           DICER1; familial                                                         12 months to at least age 8;
+                           pleuropulmonary blastoma                                                 annual US to 12; pelvic US to
+                           (PPB)                                                                    40 (some authors) for ovarian
+                                                                                                    stromal tumours
+ Neurofibromatosis         Autosomal dominant                  20 times over-represented            RMS-specific surveillance
+ type 1 (NF-1)             RASopathy (Ras                      among IRS-IV enrollees; lifetime     controversial; standard NF-1
+                           deregulation)                       RMS risk 5–10%, notably pelvic       surveillance likely sufficient
+ Costello                  Autosomal dominant                  Lifetime tumour risk 13%:            Abdominal and pelvic US
+                           RASopathy (as Noonan)               bladder/urothelial tumours,          every 3 months to age 8–10
+                                                               neuroblastoma, RMS
+
+ • What the table tests: the surveillance modality follows the dominant tumour (whole-body MRI for the
+   multi-organ Li-Fraumeni spectrum, chest CT for PPB in DICER1), and the RASopathies (NF-1, Costello)
+   carry a pelvic/bladder bias.
+
+Cancer Genetics
+ • The most significant recent development is the discovery of oncogenic fusion proteins from
+   chromosomal translocations; PAX3/7–FOXO1 is the commonest and most clinically useful.
+ • Other fusions, of uncertain clinical import (INSTRuCT biobanking should clarify):
+OTHER RHABDOMYOSARCOMA FUSION GENES
+ Class                  Fusions                                                  Subtype
+ PAX3/7 partners        FOXO4, INO80D, NCOA1, NCOA2                              ARMS and/or ERMS; variable prognostic impact
+ Non-PAX                CAV1–MET, EP300–VGLL3, HMGA2–NEGR1                       Spindle cell RMS
+ Non-PAX                SRF–NCOA1, SRF–FOXO1                                     Well-differentiated RMS
+
+ • Diagnosis before age 3 years is associated with a germline predisposition variant. Commonest
+   pathogenic germline variants in early-onset RMS: TP53, NF1, BRCA2; DICER1, HRAS and loss of imprinting
+   (LOI) are also implicated — the same genes that underlie the syndromes above.
+ • MYOD1 expression in about 3% of fusion-negative tumours → significantly worse prognosis; mostly head
+   and neck, occasionally elsewhere.
+
+
+                                                                page 3 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                Rhabdomyosarcoma
+
+Biomarkers
+ • PAX3/7–FOXO1 fusion status is currently the most clinically meaningful biomarker.
+ • Circulating tumour DNA (ctDNA) at diagnosis in fusion-negative intermediate-risk RMS (many BP) was
+   associated with significantly worse EFS and OS in a COG analysis, independent on multivariable analysis.
+   If prospectively confirmed, ctDNA may enter risk stratification.
+Concept — risk assignment is moving from anatomy and histology to molecular biology: fusion status now,
+ctDNA and MYOD1 next; and young age at diagnosis should prompt a search for germline predisposition.
+
+ KEY POINTS
+   • Most RMS is sporadic; some arises from predisposition syndromes such as Beckwith-Wiedemann or
+     DICER1.
+   • PAX3/7–FOXO1 fusion status is more clinically relevant than histology.
+
+
+Presentation and Diagnosis
+ • Presentation is determined by site:
+      ◦ BP-RMS: haematuria, stranguria or frank urinary retention; botryoid tumour may protrude from the
+        urethral meatus. A 3- to 5-year-old boy with haematuria and new-onset stranguria needs immediate
+        urological and imaging assessment.
+      ◦ PT-RMS: palpable scrotal mass; may be found incidentally during evaluation for trauma or torsion.
+      ◦ VV-RMS: bloody vaginal discharge or a prolapsing vaginal/introital mass.
+
+Initial Evaluation
+ • Sequence: US first (new mass, haematuria, obstructive symptoms) → mass suspected → definitive CT or
+   MRI, including fine-cut assessment of the site’s nodal basin:
+      ◦ BP: pelvic and retroperitoneal nodes up to the renal vessels.
+      ◦ PT: retroperitoneal nodes.
+      ◦ VV: inguinal, pelvic and retroperitoneal nodes.
+ • Chest CT is mandatory — lung is the commonest metastatic site.
+ • Bone scan, bone marrow biopsy and aspirates are indicated for most RMS, but COG now recommends
+   reduced staging in fusion-negative disease: non-invasive (T1), small (≤5 cm), N0 ERMS has virtually no
+   chance of bone metastasis, so ERMS without nodal or lung metastases needs no bone scan or marrow
+   evaluation.
+ • Positron emission tomography–CT (PET-CT): role in staging and response controversial; whether it could
+   supplement or replace lymph node dissection is a question of particular interest to urologists.
+ • Baseline laboratory tests: full blood count, electrolytes and renal function, liver function, urinalysis.
+
+Stage, Group and Risk Stratification
+ • Three layers: pretreatment TNM (tumour, node, metastasis) stage → post-biopsy/resection surgical-
+   pathological clinical group → composite risk group (low, intermediate, high) from stage, group, age and
+   fusion status.
+ • Stage sorts favourable versus unfavourable sites: in the GU tract, PT and VV are favourable; BP is
+   unfavourable. Most PT and VV tumours are stage 1; BP cannot be less than stage 2. European
+   collaboratives (EpSSG, CWS) use a similar system but factor site into risk stratification rather than stage.
+
+
+
+
+                                                                page 4 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                                  Rhabdomyosarcoma
+
+ • Clinical group is driven by the completeness of surgical resection (post-biopsy residual disease). BP-RMS
+   was historically treated by up-front exenteration; the shift to organ preservation means initial biopsy
+   rather than resection, moving most BP-RMS from group I or II (R0 or R1 resection) to group III.
+ • Result: BP-RMS is most commonly intermediate risk; PT-RMS is almost always low risk.
+ • Age is an independent prognostic factor: under 1 year and over 10 years → significantly inferior survival
+   → higher risk group.
+ • International harmonisation (COG, INSTRuCT) is increasingly adding biological factors (fusion proteins) to
+   clinical ones (age, size).
+TABLE 64.1 UPDATED IRSG/COG CLINICAL GROUP CLASSIFICATION SCHEMA
+ Group Extent                              Resection                       Residual disease / nodes
+ I         Localised                       Complete                        No regional node involvement
+ IIa       Localised                       Gross resection                 Microscopic residual; nodes not involved
+ IIb       Regional, involved nodes Complete                               No microscopic residual; most distal node histologically
+                                                                           negative
+ IIc       Regional, involved nodes Gross resection                        Microscopic residual and/or most distal regional node
+                                                                           involved
+ III       Localised or regional           Incomplete, or biopsy           Gross residual
+                                           only
+ IV        Distant metastases at           —                               —
+           onset
+
+ • Group is finalised at the start of chemotherapy: a pretreatment re-excision can change group; a delayed
+   primary excision cannot.
+ • Trap: a completely resected nodal specimen whose most distal node is positive is IIc, not IIb.
+TABLE 64.2A UPDATED COG TNM PRETREATMENT STAGING SYSTEM
+ Stage Sites                                                                                                 Size     N         M
+ 1        Favourable: orbit, head and neck, paratesticular, female GU tract                                  Any      Any       M0
+ 2        Unfavourable: parameningeal, bladder/prostate, extremity, other (trunk,                            ≤5 cm N0 or NX M0
+          retroperitoneum)
+ 3        Unfavourable sites (as stage 2)                                                                    ≤5 cm N1           M0
+                                                                                                             >5 cm Any
+ 4        Any                                                                                                Any      Any       M1
+
+ • Table 64.2B TNM detail: T1 confined to site of origin; T2 extends into or fixed to surrounding tissue. N0
+   nodes not clinically involved; N1 clinically involved = ≥1 cm short axis on CT or MRI; NX unknown
+   (typically sites that preclude nodal evaluation, e.g. cystoscopic biopsy of BP-RMS). M0/M1 distant
+   metastases absent/present.
+ • Pattern: at a favourable site size and nodes do not raise stage; at an unfavourable site the 5-cm and N1
+   thresholds separate stage 2 from 3.
+TABLE 64.3 COG RISK GROUP CATEGORISATION SYSTEM
+ Risk group                   Stage            Clinical group                        Age                PAX3/7–FOXO1
+ Very low                     1                I                                     Any                Negative
+ Low                          1                I, II; III (orbit only)               Any                Negative
+ Low                          2                I, II                                 Any                Negative
+ Intermediate                 1, 2             III (non-orbit)                       Any                Negative
+ Intermediate                 3                I, II                                 Any                Negative
+
+
+                                                                  page 5 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                                    Rhabdomyosarcoma
+
+ Risk group                   Stage           Clinical group                           Age                 PAX3/7–FOXO1
+ Intermediate                 1, 2, 3         I, II, III                               Any                 Positive
+ Intermediate                 4               IV                                       <10 years           Negative
+ High                         4               IV                                       ≥10 years           Negative
+ High                         4               IV                                       Any                 Positive
+
+ • Pattern: fusion-positive disease is never low risk; metastatic disease is high risk if fusion-positive or ≥10
+   years, otherwise intermediate. Age enters the table only for stage 4.
+ • Trap: biopsy-only (group III) BP-RMS is intermediate risk even when small and node-negative, because the
+   group III orbit exception does not extend to GU sites.
+
+ KEY POINTS
+   • BP-RMS: haematuria or stranguria. PT-RMS: palpable scrotal mass. VV-RMS: bloody discharge or
+     prolapsing mass.
+   • Tumour location, fusion status and extent of resection determine risk category, which determines
+     therapy.
+
+Concept — stage records where the tumour began, group records what the surgeon left behind, and risk
+adds biology; organ-preserving biopsy deliberately places BP-RMS in group III and therefore intermediate
+risk.
+
+Treatment: General Principles of Rhabdomyosarcoma Treatment
+Surgical principles and local control.
+ • Local control = radiotherapy and/or surgery; chemotherapy is universal, treating widespread disease and
+   preventing recurrence.
+ • Complete resection of GU-RMS (except PT-RMS) is attempted only if organ preservation is possible; local
+   failure and progression are the exceptions. Initial surgery is therefore usually biopsy only, so most BP-RMS
+   starts chemotherapy with gross disease (group III, intermediate risk).
+ • The clinical group, set by the extent of resection, determines whether radiotherapy is given and at what
+   dose.
+PRETREATMENT RE-EXCISION VERSUS DELAYED PRIMARY EXCISION
+                    Pretreatment re-excision (PRE)                                   Delayed primary excision (DPE)
+ Timing             Wide local excision before chemotherapy                          Wide local excision after chemotherapy has
+                                                                                     started
+ Survival in        Improves survival                                                Not shown to improve survival (does at other
+ GU-RMS                                                                              sites)
+ Indication         Resectable without organ compromise;                             Only if confident of R0 (negative-margin)
+                    microscopically positive or uncertain margins                    resection, ideally without organ compromise
+ Clinical group     Can change group                                                 Cannot change group
+ Other benefit      —                                                                May allow radiation dose reduction
+
+ • End-of-therapy masses are common, particularly in BP-RMS. If stable and asymptomatic → no
+   cystoscopy, biopsy or excision: biopsy often shows benign mature rhabdomyoblasts that are misread as
+   residual tumour, and resection does not improve survival. Resect only for pain or obstruction, ideally
+   bladder-sparing.
+
+
+
+
+                                                                page 6 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia             Rhabdomyosarcoma
+
+ KEY POINTS
+   • PRE is excision before chemotherapy; DPE is excision after it. PRE improves survival in GU-RMS; DPE
+     does not.
+   • Excising a stable end-of-therapy mass does not improve survival.
+
+Concept — in GU-RMS chemotherapy is the backbone and surgery serves organ preservation; the only
+excision that changes outcome is the one done before chemotherapy.
+
+Bladder/Prostate Rhabdomyosarcoma
+ • Biopsy sequence: cystoscopic (preferred) → percutaneous → open transvesical (last resort: significant
+   risk of tumour spill).
+ • Cystoscopic biopsy is harder than in adult urothelial cancer: paediatric resectoscopes are 9 or 11.5 French
+   with even smaller working elements. Technique: undermine a section of tumour with cutting current →
+   remove it intact with biopsy forceps; avoid excess cautery, whose artefact delays and confounds the
+   diagnosis.
+ • Relieve obstruction early and effectively to protect renal function before systemic therapy. Sequence:
+      ◦ Urethral catheter — effective for most; response is often rapid and the catheter can be removed
+        within weeks.
+      ◦ Ureteric obstruction → indwelling JJ stents; if a large pelvic mass prevents retrograde placement →
+        percutaneous nephrostomy (best option).
+      ◦ Suprapubic tube: possible, but with a primary bladder tumour risks seeding/spillage, as does open
+        biopsy.
+      ◦ Vesicostomy or ureterostomy: rarely helpful — surgery delays chemotherapy, the treatment most
+        likely to relieve the obstruction.
+ • Residual mass after chemotherapy and local control is usually not viable tumour: tumour cells involute
+   leaving stroma, or differentiate into mature rhabdomyoblasts. Observe; resection does not improve
+   survival; second-look or extirpative surgery should be discouraged.
+ • By contrast, high-risk patients with viable tumour and no distant metastasis after chemoradiation may
+   be cured by extirpative or exenterative surgery. Partial cystectomy suits local/regional disease after
+   chemoradiation or early treatment failure if an adequate margin is possible without unduly compromising
+   capacity and function.
+ • Primary radical cystoprostatectomy/exenteration declined from virtually all patients in IRS-I to 13% in
+   IRS-IV, with OS unchanged (78–83%).
+ • Only 40% of IRS-IV patients who kept their bladder had “normal” bladder function; objective
+   assessment (validated questionnaires, urodynamics) is scarce, so the true incidence is unknown. Detrusor
+   overactivity and reduced functional bladder capacity are common; anticholinergics help frequency,
+   urgency and incontinence (anecdotal).
+ • Follow-up: baseline urodynamic study (UDS) 6 months after therapy → annual renal US for at least 10
+   years; repeat UDS and imaging if urinary symptoms arise.
+
+Paratesticular Rhabdomyosarcoma
+ • Typically a mass within the tunica vaginalis but separate from the testis. Treat by radical orchidectomy via
+   an inguinal approach.
+
+
+
+
+                                                                page 7 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                            Rhabdomyosarcoma
+
+ • If a scrotal approach was mistakenly used → excise the remaining cord via an inguinal incision as a PRE
+   before chemotherapy. Hemiscrotectomy or scrotal radiation has not improved outcome and should be
+   avoided — consider them only for a positive cord margin or direct scrotal skin invasion.
+ • Tumour abutting but not invading the tunica vaginalis is not a positive margin; no further local
+   treatment is needed.
+ • Nerve-sparing staging ipsilateral retroperitoneal lymph node dissection (RPLND) before chemotherapy
+   if age ≥10 years, or at any age with retroperitoneal lymphadenopathy (N1) on imaging. Sample at least
+   7–13 nodes; the upper limit is the renal vessels.
+ • Rationale (COG, SIOP-MMT, CWS, EpSSG data and international consensus): patients ≥10 years are much
+   more likely to have retroperitoneal disease, and CT has a very high false-negative rate for
+   retroperitoneal nodes.
+ • No modality is proven superior; the authors prefer robotic RPLND (3–4 robotic ports and a 12-mm AirSeal
+   assistant port) — anecdotally shorter stay, faster recovery and fewer chemotherapy delays.
+Concept — PT-RMS is the one GU site where resection is always done, because organ preservation is not the
+constraint there; the only question is nodal staging, and age ≥10 replaces imaging because CT misses nodal
+disease.
+
+Female Genital Rhabdomyosarcoma
+ • Endoscopic biopsy plus chemotherapy controls the large majority. Lymph node biopsy is not
+   recommended; PRE/DPE only if R0 resection is anticipated; hysterectomy or exenteration only for
+   chemotherapy-unresponsive tumours.
+ • Initial approach for all three sites: abdominopelvic MRI → bimanual examination under anaesthesia
+   (EUA) → cystoscopy → vaginoscopy with endoscopic biopsy.
+VULVOVAGINAL, CERVICAL AND UTERINE RHABDOMYOSARCOMA COMPARED
+                     Vulvovaginal                         Cervical                      Uterine
+ Share of            Commonest (about two-                About one-fifth               About one-tenth
+ female GU-          thirds)
+ RMS
+ Features            Fusion-negative ERMS                 Small pedunculated tumours    Younger; worse OS; more stage IV
+                     commonest; prolapsing                                              despite favourable site
+                     mass
+ Biopsy              Endoscopic                           Transvaginal polypectomy or   Endoscopic; percutaneous/
+                                                          excisional biopsy; partial    transabdominal needle biopsy for large
+                                                          cervical excision by loop     tumours
+                                                          electrosurgical excision
+                                                          procedure (LEEP) of choice
+                                                          when feasible
+ Nodes               Pelvic lymph node                    Lymph node biopsy not         —
+                     dissection not                       recommended
+                     recommended — nodal
+                     spread rare
+ Reassessment        MRI and vaginoscopy after 3          Endoscopic biopsies (±        Complete response → no benefit from
+                     and/or 6 cycles; incomplete          hysteroscopy) after           DPE
+                     response → repeat biopsy;            induction even with no
+                     positive → radiotherapy              visible disease — unlike
+                     (ideally brachytherapy)              vulvovaginal or uterine
+
+
+
+
+                                                                page 8 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                              Rhabdomyosarcoma
+
+                     Vulvovaginal                         Cervical                      Uterine
+ Residual            Surgery only if R0                   Negative biopsies →           Open or laparoscopic hysterectomy,
+ disease             achievable                           surveillance; residual →      R0 only; preserve vagina and ovaries
+                                                          brachytherapy or              (oophorectomy only for gross ovarian
+                                                          trachelectomy (excellent      involvement); no vaginal
+                                                          local control, surprisingly   hysterectomy (poor visualisation);
+                                                          good fertility)               external beam radiotherapy (EBRT) for
+                                                                                        positive margins
+ Exenteration        Discouraged                          —                             Generally discouraged
+
+
+ KEY POINTS
+   • Cystoscopic biopsy and catheter drainage are the best initial choices in BP-RMS.
+   • Most BP and female GU-RMS responds to chemotherapy and radiation without extirpative surgery.
+   • All PT-RMS needs inguinal orchidectomy; PT-RMS with N1 disease or age over 10 needs RPLND.
+
+Concept — female GU-RMS is cured by chemotherapy with organ preservation; surgery is reserved for
+residual disease that can be cleared to R0, and the cervix is the exception demanding biopsy even after an
+apparent complete response.
+
+Perineal and Perianal Rhabdomyosarcoma
+ • Very rare; alveolar histology more common, about 80% fusion-positive. Poor outcomes (5-year OS about
+   one-half); larger tumours and older patients fare worse. A significant minority of survivors have faecal
+   incontinence; some urinary frequency or incontinence.
+
+Special Situations (e.g., Infants)
+ • Infants have greater treatment-related morbidity and a higher probability of a predisposition syndrome.
+ • Local control is the problem: the infant pelvis limits surgery, and EBRT is often withheld for fear of
+   damaging the bony pelvis and hips → higher local failure rates, likely from reduced radiotherapy.
+ • COG and European protocols allow deviation from protocol radiotherapy for fusion-negative children
+   under 24 months; therapy for infants, especially congenital or neonatal RMS, remains controversial.
+
+Late Effects of Rhabdomyosarcoma Treatments
+ • Survivorship is a key focus of current protocols; the COG Late Effects Committee publishes a
+   comprehensive guide.
+ • Complications are frequent and often severe: second malignancy, renal and urinary dysfunction,
+   hormonal disturbance, infertility and sexual dysfunction, bowel complications, psychological
+   disturbance.
+ACUTE TOXICITIES OF RHABDOMYOSARCOMA CHEMOTHERAPY
+ Agent                                         Signature acute toxicity
+ Vincristine                                   Neuropathy
+ Doxorubicin                                   Heart failure
+ Cyclophosphamide                              Myelosuppression; haemorrhagic cystitis
+
+ • Radiotherapy is a major causative factor — almost tenfold more adverse sequelae than in untreated
+   patients.
+ • Sexual and reproductive: in a long-span survivor series urinary complaints were uncommon but sexual
+   limitation was very common in both sexes. Female pelvic RMS survivors followed to 20 years had near-
+
+
+
+                                                                page 9 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia   Other Paediatric Bladder Tumours
+
+    universal delayed morbidity — endocrine/ovarian dysfunction and gynaecological dysfunction (fistulae,
+    vaginal stenosis) — and births were rare (the only one in a non-irradiated patient).
+ • Bladder: impaired by surgery, chemotherapy or radiation; more than 60% of BP-RMS patients have some
+   dysfunction despite bladder preservation. Detrusor–sphincter dyssynergia was commonest in one small
+   urodynamic series; detrusor overactivity and reduced capacity in others.
+ • Second malignant neoplasm: radiotherapy and chemotherapy (particularly anthracyclines and alkylating
+   agents) raise risk; pelvic RMS survivors develop second malignancy at about six times population rates →
+   long-term follow-up in specialised survivorship clinics.
+ • Infants carry the heaviest burden: in the CWS experience most developed late toxicity, commonest renal.
+
+ KEY POINTS
+   • Survivorship concerns are significant: secondary malignancy, bladder function and sexual health.
+
+Concept — the survival gains were bought with radiation and alkylator-heavy chemotherapy to organs that
+are still growing; bladder preservation is anatomical, not functional, and that is why follow-up is lifelong.
+
+OTHER PAEDIATRIC BLADDER TUMOURS
+Urothelial Carcinoma/Papillary Urothelial Neoplasms of Low Malignant Potential
+Presentation, Diagnosis and Management
+ • Most paediatric urothelial tumours are papillary urothelial neoplasms of low malignant potential
+   (PUNLMP) or low-grade papillary urothelial carcinoma, depending on the classification used.
+ • Most present with haematuria and are diagnosed on renal–bladder ultrasound (RB-US) or CT, typically as
+   a papillary tumour of the bladder wall.
+Treatment
+ • Almost exclusively endoscopic: transurethral resection of bladder tumour (TURBT) with a 9- or 11-French
+   paediatric resectoscope, or cold-cup biopsy if the stalk is narrow.
+ • As in adults, fulgurate the base (± deep base biopsy). The authors instil immediate post-resection
+   intravesical chemotherapy by institutional norm; there are no data for or against.
+Outcomes
+ • Adults: PUNLMP recurs in about a third after complete resection; some enlarge if unresected; malignant
+   transformation or progression to high grade is exceedingly rare.
+ • Children: similarly low transformation, moderate recurrence risk → follow-up needed. In the authors’
+   experience recurrence after complete resection is rare (their single recurrence was in an adolescent with
+   Lynch syndrome) → surveillance by RB-US.
+
+Special Situations
+Spina Bifida/Bladder Augmentation
+ • Original hypothesis: mixing urine and faeces is carcinogenic; enterocystoplasty, by separating them,
+   should avoid cancer. Aggressive cancers were then reported in reconstructed bladders, especially after
+   gastrocystoplasty (survival about 50%) → proposals for routine endoscopic screening and a moratorium
+   on gastrocystoplasty.
+
+
+
+
+                                                                page 10 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                    Other Paediatric Bladder Tumours
+
+ • These recommendations were then challenged:
+      ◦ Markov decision analysis: even under aggressive assumptions, annual cytology and/or cystoscopy is
+        neither effective nor cost-effective — spina bifida-related cancers progress within months of a normal
+        surveillance study.
+      ◦ Matched comparison of intestinal (ileal/colonic) augmentation versus non-augmented controls: no
+        significant increase in cancer risk or characteristics.
+      ◦ Systematic review: augmented and non-augmented patients have similar, poor survival.
+ • Conclusion: (1) neurogenic bladder carries a baseline lifetime cancer risk of 2–4% whether or not
+   augmented; (2) these cancers are aggressive; (3) screening asymptomatic patients is neither effective
+   nor cost-effective.
+Bladder Exstrophy
+ • As with spina bifida, exstrophy carries increased bladder cancer risk: adenocarcinoma, squamous cell and
+   mixed tumours are reported.
+ • These cancers are rare: few respondents in a national exstrophy survey reported cancer (likely under-
+   counted because deaths remove respondents, but reassuring).
+ • Cancer also arises in non-augmented patients; lifetime risk in augmented patients about 2%; no
+   compelling evidence that augmentation changes the likelihood or severity of bladder cancer.
+
+ KEY POINTS
+   • Paediatric urothelial tumours are rare and typically low-grade/PUNLMP.
+   • Recurrence is rare and should prompt suspicion of a predisposition syndrome.
+   • Spina bifida and exstrophy carry a 2–4% baseline bladder cancer risk not increased by augmentation.
+
+Concept — the cancer risk belongs to the abnormal bladder, not to the augment; and because these
+tumours are aggressive and fast-growing, periodic screening cannot catch them in time.
+
+Nonmalignant Bladder Lesions
+NONMALIGNANT PAEDIATRIC BLADDER LESIONS COMPARED
+ Lesion                 Nature and associations                      Presentation and diagnosis     Treatment and course
+ Inflammatory           Rare mesenchymal neoplasm:           Bladder-wall mass on US and            Complete surgical resection
+ myofibroblastic        spindle-cell proliferation within an CT                                     is standard for localised
+ tumour (IMT)           inflammatory infiltrate; median                                             disease (bladder IMT almost
+                        age 9.5 years; EpSSG class it as                                            always resectable, behaves
+                        intermediate malignancy (non-                                               benignly); no standard for
+                        RMS soft-tissue sarcoma family)                                             advanced disease; excellent
+                        because it can spread in older                                              EFS and OS regardless of ALK
+                        patients; most express anaplastic                                           status
+                        lymphoma kinase (ALK)
+                        rearrangement
+ Nephrogenic            Benign papillary lesion from                 Haematuria, dysuria,           Transurethral resection or
+ adenoma                bladder trauma: recurrent                    frequency, recurrent urinary   fulguration plus treat the
+                        infection, radiation, bladder                tract infection (UTI),         cause (antibiotic prophylaxis,
+                        surgery including renal                      detrusor overactivity;         improved voiding);
+                        transplantation                              cystoscopic biopsy required    recurrence common → long-
+                                                                                                    term follow-up; reported
+                                                                                                    malignant transformation is
+                                                                                                    rare and of doubtful initial
+                                                                                                    diagnosis
+
+
+
+                                                                page 11 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                                 Testicular Tumours
+
+ Lesion                 Nature and associations                      Presentation and diagnosis     Treatment and course
+ Eosinophilic           Rare in children, as in adults               Haematuria, overactive         Medical therapy (steroids,
+ cystitis                                                            bladder, dysuria, flank/       antihistamines, antibiotics) in
+                                                                     abdominal pain, occasionally   most; TURBT or partial
+                                                                     obstruction; cystoscopic       cystectomy occasionally
+                                                                     biopsy essential — no
+                                                                     typical imaging or
+                                                                     endoscopic appearance;
+                                                                     eosinophilia and
+                                                                     eosinophiluria usually
+                                                                     absent
+ Haemangioma            Sporadic or syndromic (Sturge–               Gross, sometimes severe,       Propranolol or endoscopic
+                        Weber, Klippel–Trenaunay–                    haematuria; may mimic          laser ablation can cure;
+                        Weber); about 30% have                       malignancy                     partial cystectomy for large
+                        haemangiomas elsewhere;                                                     tumours or endoscopic
+                        cavernous commonest, then                                                   failure
+                        capillary, arteriovenous
+ Fibroepithelial        Rare benign lesion at any age,               Obstruction once large;        —
+ polyp                  anywhere in the urinary tract                pelvis/proximal ureter →
+                                                                     mimics pelviureteric
+                                                                     junction obstruction with
+                                                                     Dietl crisis; urethra →
+                                                                     mimics urethral valves,
+                                                                     especially in infants
+
+ • What the table tests: biopsy before definitive treatment (nephrogenic adenoma and eosinophilic cystitis
+   cannot be diagnosed on imaging), and the mimics — haemangioma for malignancy, fibroepithelial polyp
+   for pelviureteric junction obstruction or valves.
+
+ KEY POINTS
+   • Most nonmalignant bladder tumours are managed medically, endoscopically or by partial cystectomy.
+
+
+TESTICULAR TUMOURS
+ • 1–2% of paediatric solid tumours; incidence about 1 per 100,000 under 15 years. Most occur at 2–4
+   years, with a second rise at puberty.
+ • Benign tumours are far commoner than in adults (38–74% of paediatric testicular tumours). Germ cell
+   tumours (GCTs) comprise the vast majority at all ages; the rest are stromal.
+ • Teratoma is the commonest prepubertal benign tumour; yolk sac tumour (YST) the commonest
+   prepubertal malignant tumour.
+
+Paediatric Germ Cell Tumours
+PREPUBERTAL TESTICULAR GERM CELL TUMOURS COMPARED
+                Teratoma                            Epidermoid cyst                        Yolk sac tumour
+ Frequency      Commonest prepubertal               Uncommon                               Less common than teratoma;
+                tumour                                                                     commonest malignancy of infants
+                                                                                           and toddlers
+ Behaviour      Benign before puberty               Monophasic teratoma (ectoderm          Malignant; 90% of prepubertal YST
+                                                    only); benign prepubertal; rare        are stage I
+                                                    germ cell neoplasia in situ (GCNIS)
+                                                    nearby postpubertal
+
+
+
+                                                                page 12 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                            Testicular Tumours
+
+                Teratoma                            Epidermoid cyst                      Yolk sac tumour
+ US             Anechoic or complex cystic          “Onion-skin” concentric keratin      —
+                lesions with highly                 rings
+                echogenic foci
+ Markers        Normal                              Normal                               AFP almost always raised
+ Surgery        Partial orchidectomy if             Partial orchidectomy, particularly if Radical inguinal orchidectomy —
+                markers normal and frozen           bilateral; frozen section if          usually curative
+                section benign; otherwise           postpubertal
+                radical
+ After          Prepubertal: no further             —                                    Follow-up as adult National
+ surgery        oncological evaluation or                                                Comprehensive Cancer Network
+                follow-up                                                                (NCCN) guidance for
+                                                                                         nonseminomatous GCT (NSGCT)
+
+ • YST staging and escalation:
+      ◦ CT chest, abdomen and pelvis for complete staging. After orchidectomy, a raised AFP should fall
+        appropriately if there is no metastasis — remembering physiological AFP elevation in infants.
+      ◦ Stage I prepubertal: no RPLND and no chemotherapy.
+      ◦ Prior scrotal biopsy → stage II, but delayed scrotal resection is generally unnecessary because these
+        children receive systemic chemotherapy.
+      ◦ Lymphadenopathy with normal markers → node sampling or biopsy to confirm metastasis.
+        Lymphadenopathy with raised markers = stage III; stage III and IV receive cisplatin, etoposide and
+        bleomycin, as in adults.
+      ◦ Prepubertal persistent disease after chemotherapy → biopsy or RPLND to confirm histology and guide
+        adjuvant chemotherapy.
+Presentation and Diagnosis
+ • Typically a painless testicular mass; rarely found with epididymitis, torsion, hydrocele, undescended testis
+   or hernia.
+ • As in adults: examination, history for risk factors, scrotal US and markers — lactate dehydrogenase (LDH),
+   AFP, beta-human chorionic gonadotrophin (β-hCG). Unlike adults, check hormone levels if a hormonally
+   active tumour is suspected (precocious puberty).
+Imaging.
+ • Doppler US; it cannot reliably distinguish benign from malignant. Anechoic cystic lesions suggest
+   benignity (simple cyst, cystic dysplasia, teratoma). Epidermoid cyst: heterogeneous mass with alternating
+   hypoechoic and hyperechoic keratin rings (onion skin). Benign masses typically show absent flow in
+   surrounding tissue from compression.
+ • Malignancy suspected → CT chest, abdomen and pelvis; timing before or after resection is controversial
+   (authors: before).
+Biomarkers.
+ALPHA-FETOPROTEIN VERSUS BETA-HUMAN CHORIONIC GONADOTROPHIN
+                       AFP                                                            β-hCG
+ Nature and            Single-chain glycoprotein of fetal yolk sac, liver and         Glycoprotein from embryonal carcinoma
+ source                gastrointestinal tract                                         and mixed teratomas
+ Half-life             5 days                                                         24 hours
+ Prepubertal           YST invariably produces AFP; teratoma and benign               Rarely raised
+ tumours               lesions normal
+
+
+                                                                page 13 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                                  Testicular Tumours
+
+                       AFP                                                                  β-hCG
+ Caveat                Physiologically raised in infancy; reaches the adult                 —
+                       range (<10 ng/mL) by 6–9 months
+
+ • Benign-appearing US lesion + negative AFP/β-hCG → attempt partial orchidectomy.
+ • After removal, staging uses pathology, extent of local and metastatic disease and marker levels; marker-
+   positive tumours are followed for an appropriate half-life decline after radical inguinal orchidectomy.
+
+Special Situations
+Leukaemia and lymphoma.
+ • The commonest childhood malignancies to spread to the testis. With modern intensive chemotherapy,
+   testicular relapse in acute lymphoblastic leukaemia (ALL) is 2% or less → biopsy, orchidectomy or
+   testicular irradiation is exceedingly rarely indicated.
+Disorders of sex development.
+ • Data are scant despite research dating to the 19th century. The pooled risk of 12% is misleading — risk
+   varies widely by diagnosis.
+ • Y-chromosome material, particularly the sex-determining region Y (SRY) and gonadoblastoma on Y
+   chromosome (GBY) regions, significantly raises risk; XY disorders of sex development (DSD), especially
+   complete and partial gonadal dysgenesis, carry very high risk.
+TABLE 64.4 MALIGNANCY RISK OF DSD DIAGNOSES
+                                                                                                                      Body text
+ Risk group        DSD diagnosis                                                     Table 64.4 (%)                   (%)
+ High              Complete gonadal dysgenesis                                       35                               33
+                   Partial gonadal dysgenesis                                        24                               24
+                   Partial androgen insensitivity                                    15–50                            30–50
+                   Frasier syndrome                                                  60                               30–50
+                   Denys–Drash syndrome                                              50                               30–50
+                   Turner syndrome with Y                                            30                               30–50
+ Intermediate Mixed gonadal dysgenesis                                               8                                —
+                   Complete androgen insensitivity                                   1–6 (gonadoblastoma, Sertoli     —
+                                                                                     cell)
+                   Ovotesticular DSD                                                 1–25                             —
+                   Klinefelter syndrome                                              14 (Leydig cell)                 —
+ Low               Turner without Y; 5-alpha-reductase deficiency; 46,XX Case reports only; about baseline population
+                   DSD                                                   risk
+Data compiled from EAU guidelines, 2023; Kosti et al., 2019; Pyle et al., 2017; Slowikowska-Hilczer et al., 2020.
+ • The two columns differ because the table pools several sources including European Association of
+   Urology (EAU) guidance, whereas the text cites a single cohort (gonadal dysgenesis) and a combined
+   30–50% range for the other high-risk diagnoses.
+ • Pattern: dysgenetic gonads with Y material are high risk; well-formed gonads (androgen insensitivity
+   complete, Klinefelter) are intermediate; no Y material is low. Trap: complete androgen insensitivity is not
+   high risk; partial is.
+ • Tumour types: gonadoblastoma — potentially premalignant, analogous to GCNIS, frequently bilateral;
+   large seminoma-like germ cells with stroma resembling immature granulosa/Sertoli cells. When invasive it
+
+
+
+
+                                                                page 14 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                                Testicular Tumours
+
+    becomes dysgerminoma, histologically similar to seminoma (e.g. arising from streak gonads in a 46,XY
+    phenotypic female).
+ • Gonadectomy is controversial, especially for undescended gonads; it weighs tumour risk, gender identity
+   and fertility wishes (fertility potential is itself sometimes debatable) → personalised decision after
+   lengthy, informed discussion of risk tolerance.
+Testicular microlithiasis.
+ • Controversial across all ages. An EAU Paediatric Urology Guidelines panel systematic review of several
+   hundred children with testicular microlithiasis (TM) found only one testicular cancer through pubertal
+   follow-up, even though many had risk factors (sub/infertility, cryptorchidism, previous testicular cancer).
+ • Recommendation: monthly self-examination from puberty only for TM with significant risk factors; no
+   further childhood surveillance. Whether workup is needed at transition to adulthood is unclear.
+
+ KEY POINTS
+   • Scrotal masses in children present, and are evaluated, as in adults.
+   • Unlike adults, partial orchidectomy is the most appropriate surgical option for most prepubertal
+     testicular tumours, unless markers are raised or frozen section shows a GCT.
+   • DSD raises testicular tumour risk; some diagnoses carry higher risk than others.
+
+
+Stromal Tumours
+Specific Tumour Types
+TESTICULAR STROMAL TUMOURS IN CHILDREN COMPARED
+                                                                             Juvenile granulosa    Testicular adrenal rest
+                   Leydig cell                   Sertoli cell                cell                  (TART)
+ Frequency         Commonest stromal             Second commonest            Rare in testis;       Peripubertal boys with
+                   tumour (children and          in children;                commonest ovarian     congenital adrenal
+                   adults)                       commoner in adults          stromal tumour        hyperplasia (CAH)
+ Presentation      Mass, often                   Mass, scrotal pain,         Solid mass            Palpable mass or scrotal
+                   precocious puberty            gynaecomastia;                                    pain; undertreated CAH
+                   (may not resolve after        markers rarely                                    (high adrenocorticotrophic
+                   surgery)                      abnormal                                          hormone, ACTH), often after
+                                                                                                   growth spurts
+ Pathology         Well encapsulated,            Solid, white–yellow,        Gonadal stromal       Differs from Leydig by low
+                   yellow–brown                  lobulated, no               origin                mitotic activity, extensive
+                   (steroid); resembles          haemorrhage or                                    fibrosis; synaptophysin
+                   adrenal rest; Reinke          necrosis; large                                   immunohistochemistry
+                   crystals                      polygonal                                         particularly helpful
+                   pathognomonic,                eosinophilic cells
+                   present in about 40%          (large ones mimic
+                                                 Leydig)
+ Prepubertal       Benign; no malignant          Metastasis                  No malignant cases in Can cause primary gonadal
+ behaviour         features reported             uncommon;                   a large review        dysfunction
+                                                 recurrence after
+                                                 partial orchidectomy
+                                                 exceptional;
+                                                 contralateral
+                                                 recurrence about 1%
+
+
+
+
+                                                                page 15 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia                                Testicular Tumours
+
+                                                                             Juvenile granulosa     Testicular adrenal rest
+                   Leydig cell                   Sertoli cell                cell                   (TART)
+ Treatment         Partial orchidectomy          Partial orchidectomy;       Partial prepubertal;   Increase steroid dose; some
+                                                 no adjuvant/                postpubertal more      need partial orchidectomy to
+                                                 neoadjuvant regimen         aggressive (radical    restore endocrine function
+                                                 or RPLND benefit            orchidectomy ±
+                                                                             chemotherapy), as
+                                                                             some adult tumours
+                                                                             metastasise
+
+Treatment
+Surgery.
+ • Normal preoperative markers → testis-sparing partial orchidectomy, as for GCTs. Multiple systematic
+   reviews give no justification for radical orchidectomy in prepubertal boys.
+ • Because scrotal US cannot reliably separate stromal from germ cell tumours, the urologist should
+   proceed confidently with partial orchidectomy in a prepubertal child with normal markers.
+ • Leydig, Sertoli and juvenile granulosa cell tumours behave more aggressively after puberty → radical
+   orchidectomy is likely justified in Tanner 5 adolescents and young adults.
+Systemic treatment.
+ • Chemotherapy is rarely indicated: these tumours are rarely malignant before puberty, surgery alone
+   usually suffices, and there are little to no data for any regimen.
+Outcomes
+ • Generally excellent: recurrence 1–7%, metastasis rarely reported in prepubertal children, versus about
+   10% aggressive behaviour in adults.
+
+ KEY POINTS
+   • Partial orchidectomy is the most appropriate surgical option for testicular stromal tumours in
+     prepubertal children.
+
+Concept — puberty is the dividing line: prepubertal testicular tumours are overwhelmingly benign, so normal
+markers license testis-sparing surgery for germ cell and stromal lesions alike; after puberty, adult biology and
+adult radicalism return.
+
+Sacrococcygeal Teratoma
+ • Sacrococcygeal teratoma (SCT): rare pelvic GCT arising from the coccyx, incidence about 1 in 40,000;
+   female predominance; many diagnosed prenatally.
+ • Often managed by paediatric surgeons, but pelvic by definition and treatment affects the bladder →
+   paediatric urologists must be involved.
+ • Neurogenic bladder in 36–51%, commonly presenting as urinary retention; most need intervention, from
+   clean intermittent catheterisation (CIC) to bladder reconstruction.
+ • Altman classification: type I (predominantly external, minimal sacral involvement) is commonest; types
+   II–IV (significant internal abdominopelvic component) carry much higher neurogenic bladder and bowel
+   risk.
+ • Proposed risk-based monitoring: annual RB-US for all until toilet training; UDS for higher Altman types,
+   neurogenic signs or RB-US abnormality.
+
+
+
+
+                                                                page 16 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia              Other Female Genitourinary Tract Tumours
+
+ • Currarino syndrome triad: anterior sacral mass (usually meningocele; can be SCT or dermoid) + bony
+   sacral defect + anorectal malformation → universal neurogenic bladder, lifelong surveillance and active
+   management.
+
+ KEY POINTS
+   • SCT carries high neurogenic bladder risk, particularly in complex (internal) tumours and Currarino
+     syndrome.
+
+
+Paratesticular Tumours
+ • RMS is by far the commonest paratesticular tumour. Others: epididymal cysts (common), adenomatoid
+   tumour, epididymal cystadenoma (classically von Hippel–Lindau, VHL, syndrome; also sporadic),
+   Müllerian cysts.
+ • Testis-sparing excision is generally appropriate, but an inguinal approach is mandatory and frozen
+   section must be confirmed before closure, because PT-RMS may be misdiagnosed.
+
+OTHER FEMALE GENITOURINARY TRACT TUMOURS
+ • With more fellowship-trained paediatric gynaecologists, urologists are not always primarily responsible,
+   but ovarian and adnexal lesions surface as incidental findings or during symptom workup, so familiarity is
+   required.
+
+Cystic Lesions
+ • Up to 98% of female newborns have small ovarian cysts on US; clinically significant newborn cysts are
+   rare (about 1 in 2500 births); 2–3% of preschool and school-age girls have incidental cysts.
+ • Cysts reflect maternal hormones and involute spontaneously as levels fall. Intervene only if
+   indeterminate or symptomatic.
+ • Prepubertal surgical indications: persistence, concern for malignancy, or any symptom including
+   hormonally induced changes.
+ • Adolescents: cysts usually from dysfunctional ovulation; aim is ovarian preservation; hormonal
+   manipulation common; surgery for non-resolution, persistent symptoms, or concern for teratoma or
+   malignancy. Simple cysts causing mass effect or discomfort → organ-sparing surgery.
+ • Malignant cysts are rare; even complex cysts are often observed.
+
+Ovarian Malignancies
+ • About 1% of childhood cancers; incidence 2.6 per 100,000 females. Classified, as in the testis, into germ
+   cell, stromal and epithelial; epithelial tumours are very rare before puberty.
+ • Imaging: abdominal US with a full bladder → abdominopelvic MRI.
+PAEDIATRIC OVARIAN TUMOURS BY ORIGIN
+                   Germ cell                                                  Stromal (sex cord)               Epithelial
+ Types             Seminoma equivalent: dysgerminoma                          Theco-fibroma, Sertoli,          Cystadenoma
+                   (adolescents; undifferentiated germ cells).                Leydig, juvenile granulosa       (benign or
+                   Nonseminoma: YST (endodermal sinus),                       cell tumour (JGCT), Sertoli–     malignant); small cell
+                   teratoma (mature, immature), embryonal                     Leydig cell tumour               carcinoma
+                   carcinoma, choriocarcinoma; gonadoblastoma                                                  (extremely rare)
+                   in dysgenetic gonads (rarely metastasises)
+
+
+
+
+                                                                page 17 of 18
+Chapter 64 — Paediatric Urological Oncology: Pelvis, Bladder, Testis and Genitalia             Other Female Genitourinary Tract Tumours
+
+                   Germ cell                                                  Stromal (sex cord)              Epithelial
+ Age /             Bimodal: infancy and late adolescence; pain,               Hormonally active: JGCT →       Mostly older
+ presentation      distension, mass, acute abdomen, torsion,                  oestrogen → precocious          patients
+                   precocious puberty                                         puberty; Sertoli–Leydig →
+                                                                              androgens → virilisation,
+                                                                              pain, mass
+ Key facts         Teratoma commonest; teratomas contain all                  Exceedingly rare              —
+                   three germ layers; mature teratoma (dermoid)               malignancies; screen for
+                   benign → resect; immature teratoma and YST                 DICER1 syndrome; low stage
+                   aggressive → COG staging and treatment;                    → surgery alone; higher stage
+                   markers AFP, β-hCG, LDH (YST, embryonal,                   → chemotherapy/multimodal
+                   choriocarcinoma)
+ Prognosis         Very good; OS above 90% for stages I and II                Generally favourable            —
+
+Nonrhabdomyosarcoma Vulvovaginal Tumours
+ • Primary vulval YST is reported in female toddlers (usually an adult tumour); these may instead be
+   SMARCB1-deficient vulvar neoplasms, a group including epithelioid sarcoma. Very rare, poor prognosis
+   → excision or biopsy with regional node dissection, then aggressive chemotherapy and radiotherapy.
+
+Urethral Prolapse
+ • Frequently mistaken for RMS: a doughnut-like circumferential swelling around the urethral meatus; in
+   the United States most often in prepubertal Black girls.
+ • Topical steroid or oestrogen cream is frequently curative; surgical excision rarely.
+ • Neither cancerous nor precancerous → once diagnosed, no further workup or monitoring.
+
+ KEY POINTS
+   • Ovarian cysts are common; ovarian cancers in girls are rare.
+   • Girls with Sertoli–Leydig cell tumours should be screened for DICER1 mutations.
+
+Concept — the female gonad follows the same germ cell–stromal–epithelial logic as the testis; most lesions
+are hormonal or benign, so ovarian preservation is the default and the stromal tumours point back to
+DICER1.
+
+
+
+
+                                                                page 18 of 18
+
