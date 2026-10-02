@@ -1,0 +1,698 @@
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                                                             Opening
+
+
+ Chapter 23 — Assessment of Urologic and Surgical
+ Outcomes
+  • Outcomes research has grown over 25 years but is an umbrella term without a consistent definition;
+    one view: the effectiveness of public-health interventions and health services on patient outcomes.
+  • Agency for Healthcare Research and Quality (AHRQ): research into the end results of healthcare
+    practices — effects patients experience and care about (e.g., ability to function); in chronic disease,
+    where cure is not always possible, quality of life as well as mortality. Linking care received to outcomes
+    makes it the key to monitoring and improving quality of care.
+  • Urological end points are many — quality of life, clinical effectiveness, cost, quality of care,
+    preferences, appropriateness, access, health status — hence the difficulty of definition.
+  • Health services research (HSR), often used interchangeably: multidisciplinary study of how social
+    factors, financing, organisational structures and processes, technologies and personal behaviour affect
+    access, quality, cost and ultimately health. It misses the clinical side → urological outcomes research =
+    HSR + clinical epidemiology + comparative effectiveness research + (partly) clinical trials.
+
+ ESTABLISHING A CONCEPTUAL FRAMEWORK FOR ASSESSING THE EFFECTIVENESS
+ OF TREATMENT AND IMPROVING CARE IN UROLOGY
+  • Institute of Medicine (IOM) — quality of care: the degree to which health services increase the
+    likelihood of desired outcomes and are consistent with current professional knowledge. Affected by
+    access, clinical effectiveness, integration (coordination, continuity), cultural competence and
+    comprehensiveness → need for a conceptual model.
+  • Donabedian model — the most accepted framework: quality measured in three dimensions, structure,
+    process and outcome; elements of each can and should be measured.
+
+ DONABEDIAN MODEL — STRUCTURE, PROCESS, OUTCOME
+                  Structure                        Process                                      Outcome
+  Definition      Context in which care is         Activities by professionals and systems to   Effect of care on patients
+                  delivered                        deliver care                                 or populations
+  Examples        Procedure volume,             Appropriate imaging and laboratory use;         Mortality, length of stay,
+                  subspecialty training, nurse- antibiotic and deep vein thrombosis (DVT)       readmission, satisfaction,
+                  to-bed ratio, "closed"        prophylaxis; technical operative steps          quality of life, cost-
+                  intensive care unit,                                                          effectiveness, utilisation
+                  technology
+  Strengths       Easy, cheap (administrative,     Proven link to outcome where evidence        Most meaningful to
+                  public data); undoubtedly        robust; detects problems before outcome      patients and clinicians;
+                  influences quality               differences appear; cheaper; less affected   some argue it should be
+                                                   by case mix if well specified; Donabedian    the sole focus
+                                                   thought it the most reflective measure
+  Weaknesses Misses care actually                  Valid only where evidence links process to   Confounded by patient
+             delivered by the provider;            outcome                                      factors (age,
+             largely non-modifiable                                                             comorbidity) → needs
+                                                                                                risk adjustment
+
+  • Guidelines generate process measures: AUA (American Urological Association) and EAU (European
+    Association of Urology) guidelines — e.g., 24–36 months of androgen deprivation therapy (ADT) with
+
+
+                                                            page 1 of 14
+                                                                    Establishing a Conceptual Framework for Assessing the Effectiveness
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                                  of Treatment and Improving Care in Urology
+     external beam radiotherapy for high-risk localised prostate cancer (CaP) — used by Medicare's
+     physician quality reporting system and private payers.
+  • Risk-adjustment trap: without case-mix adjustment, providers treating high-risk patients look worse →
+    an economic disincentive to treat high-risk patients.
+ Concept — Structure enables process and process produces outcome; the further along that chain a
+ measure sits, the more it matters to patients and the more it is contaminated by case mix.
+
+ LONG-TERM DISEASE OUTCOMES THAT ARE COMMONLY ASSESSED IN UROLOGY
+  • Patients and urologists focus on outcomes. Surgeons favour morbidity and mortality — the "hardest",
+    theoretically easiest end points; patients and other stakeholders add "softer" end points: patient-
+    reported outcomes (PROs — symptoms, bother), economics, satisfaction.
+
+ Overall Mortality
+  • The most objective end point — alive or dead is rarely disputed; key in population-based epidemiology.
+
+ SOURCES OF VITAL STATUS (UNITED STATES)
+  Source                 Features
+  National Death         National Center for Health Statistics within the Centers for Disease Control and Prevention;
+  Index (NDI)            from each state's vital statistics; updated annually, ~1-year lag. Researcher submits identifiers
+                         (name, Social Security number, date of birth, race, sex, marital status, states of residence and
+                         birth) → date and place of death, certificate number, cause of death. Highly accurate; deaths
+                         after 1979 only
+  Social Security        For deaths before 1979; less accurate than the NDI
+  Administration
+  (SSA)
+  Credit agencies,       May reach internationally; less comprehensive
+  internet databases
+
+  • Expression: count, ratio, proportion or rate; proportion or rate suits clinical studies. A proportion
+    ignores time → mortality rate (proportion dying over a specified period) preferred. Example: in a trial
+    of second- or third-line therapy for metastatic castration-resistant CaP, all may die during the study →
+    compare 1-, 2- and 5-year rates.
+  • Time-to-event (survival) analysis — usable for any binary end point; handles varying follow-up and
+    loss to follow-up through censoring: a participant known to be event-free up to last follow-up, study
+    end, or a competing event that makes the outcome impossible (e.g., fatal unrelated myocardial
+    infarction before recurrence) "survives" to that point and is then censored.
+  • Kaplan–Meier curves display survival estimates at time points incorporating both events and censoring.
+  • Objective ≠ unbiased: design introduces lead-time and length-time bias.
+
+ BIASES THAT DISTORT SURVIVAL AND PROGRESSION END POINTS
+  Bias                    Mechanism                                        Urological example
+  Lead-time               Screening or new diagnostics advance the         Kidney cancer: incidence doubled with
+                          date of diagnosis; lead time = detection         abdominal CT (computed tomography), 5-year
+                          to clinical presentation; survival appears       survival rose, mortality rate unchanged; claimed
+                          longer though death is not delayed               survival gains from prostate-specific antigen
+                                                                           (PSA) screening
+  Length-time             Each screen falls at a random point; slow-       Indolent low-grade CaP over-represented among
+                          growing tumours have longer preclinical          screen-detected cancers
+
+
+
+                                                            page 2 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes         Long-Term Disease Outcomes That Are Commonly Assessed in Urology
+
+  Bias                    Mechanism                                        Urological example
+                          phases and are over-detected; they are
+                          less lethal anyway
+  Stage migration         A more sensitive test reclassifies patients Prostate-specific membrane antigen–positron
+  (Will Rogers            to a higher stage without changing          emission tomography (PSMA-PET) — see below
+  phenomenon)             outcome → apparent improvement
+  Attribution             Cause of death misassigned                       Disease-specific mortality (below)
+  Detection               One group more likely to have an event           Progression in observational or retrospective
+                          detected (more imaging or follow-up)             studies; less likely in protocol-driven trials
+
+ Figure legends.
+  • Fig. 23.1 Lead-time bias: cancer onset at 50. Unscreened — clinical diagnosis at 70, death at 75 →
+    survival 5 years. Ineffective screening — detected at 60, death still at 75 → "survival" 15 years, all 10
+    extra years lead time. Effective screening — detected at 60, death at 80 → 20 years, of which only 5 are
+    real gain.
+  • Fig. 23.2 Length-time bias: each patient's arrow runs from onset to clinical presentation; slow tumours
+    have longer detectable preclinical periods (DPCP) and longer survival after diagnosis, so a screen
+    catches more of them. Without screening, mean DPCP 6 and survival 4 years; with screening, 8 and 6
+    years — apparent prolongation.
+
+ Disease-Specific Mortality
+  • Overall mortality is the hardest but crudest end point: it ignores intercurrent illness and is not germane
+    in benign or low-mortality disease → disease-specific mortality.
+  • Definition: deaths attributed directly to the disease — harder to define than it appears.
+  • Perioperative deaths are instinctively not attributed to the disease, yet arguably are disease- and
+    treatment-related. In an early-PSA-era Surveillance, Epidemiology, and End Results (SEER) analysis,
+    most deaths within a month of CaP surgery were attributed to other causes; reattribution would
+    noticeably raise disease-specific mortality in a low-mortality cancer.
+  • Medical treatment: ADT raises cardiovascular risk and death — is a cardiac death on ADT a CaP death?
+    Pneumonia and sepsis in an immobile metastatic patient — cancer-related or not?
+  • Attribution bias — the greatest limitation: a documented cancer is often written on the death
+    certificate even when the death is unrelated.
+      ◦ CaP: death certificates agree with independent chart review in most cases, but disagree in about
+        one in ten; similar across several US regions.
+      ◦ Urinary tract tumours (SEER): a substantial share of deaths attributed to non-urological causes;
+        more advanced stage → more often attributed to cancer; site matters — renal pelvic tumours far
+        less often recorded as cancer deaths than similar-stage kidney tumours.
+      ◦ Studies examine in-hospital deaths only; deaths at home or in nursing facilities are harder still.
+  • Bottom line: usually reliable, but attribution bias and misclassification can alter conclusions.
+  • PSMA-PET: high sensitivity for recurrent or oligometastatic disease even at low PSA, especially after
+    biochemical recurrence → changes management in a majority (ADT or systemic therapy, salvage
+    prostate-bed radiotherapy, metastasis-directed ablation). Earlier detection than CT and bone
+    scintigraphy makes progression-free survival (PFS) appear longer because (1) smaller-volume disease
+    has a different natural history and better treatment response, and (2) earlier detection with
+    reclassification to a higher stage without changing outcome — stage migration (Will Rogers
+    phenomenon) → PFS improves, overall survival does not.
+
+
+
+                                                            page 3 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes         Long-Term Disease Outcomes That Are Commonly Assessed in Urology
+
+ Other Binary "Survival" Outcomes
+  • Any binary outcome can become a survival end point analysed by Kaplan–Meier and proportional
+    hazards: metastasis-free, radiological progression-free, symptom-free, biochemical-free survival.
+  • Used in benign disease and in CaP, where deaths are rare or late; relevant outcomes differ by disease.
+  • Objectivity varies: urodynamics often fails to reproduce stress or urgency incontinence, and no agreed
+    leakage threshold defines incontinence; patient-reported alternatives (pad use, symptom scores) are
+    less "objective" than radiological or serum measures.
+
+ Proxy End Points
+  • Mortality takes years and is almost irrelevant in benign conditions (incontinence, stones) → clinically
+    relevant or proxy end points.
+  • Prentice criteria (1989) for a valid surrogate: (1) treatment associated with the true end point (overall
+    or disease-specific survival); (2) treatment associated with the surrogate; (3) surrogate associated with
+    the true end point; (4) the surrogate explains the full effect of treatment on the true end point.
+  • Few urological proxies meet all four.
+
+ Disease Progression/Recurrence
+  • PFS is a common oncological proxy; research requires standardised radiological definitions of change
+    in tumour burden.
+  • Evolution: World Health Organization criteria (1981) → study-by-study modifications, confusion and
+    conflicting results → European Organisation for Research and Treatment of Cancer (EORTC), US
+    National Cancer Institute (NCI) and National Cancer Institute of Canada working group → Response
+    Evaluation Criteria In Solid Tumours (RECIST), 2000: minimum measurable size, up to ten lesions (five
+    per organ), unidimensional measurement.
+  • Limitations of RECIST: (1) response only, poor measure of progression; (2) no magnetic resonance
+    imaging (MRI) or PET; (3) no lymph nodes; (4) cannot assess targeted non-cytotoxic drugs → RECIST 1.1
+    (2009).
+  • RECIST 1.1 measurable lesion: ≥10 mm on CT, 20 mm on chest radiograph, 10 mm clinically with
+    callipers; lymph node ≥15 mm short axis on CT. Not ultrasound; not tumour markers alone — except
+    PSA response (Prostate Cancer Clinical Trials Working Group), usable alongside RECIST.
+  • Target lesions: one to five, the largest, representative of involved organs and reproducibly measurable;
+    their sum of diameters is followed from baseline → radiological PFS, duration of response, overall
+    response rate.
+
+ TABLE 23.1 RECIST CRITERIA
+  Category                           Target lesions                                         Non-target lesions
+  Complete response                  All disappear; pathological nodes <10 mm short         All disappear, tumour markers
+                                     axis                                                   normal; nodes <10 mm
+  Partial response                   ≥30% decrease in sum, vs baseline                      —
+  Stable disease                     Neither partial response nor progressive               —
+                                     disease, vs smallest sum on study
+  Non-complete response /            —                                                      ≥1 non-target persists and/or
+  non-progressive disease                                                                   marker above normal
+  Progressive disease                ≥20% increase vs smallest sum on study (nadir)         Unequivocal progression and/or
+                                     and ≥5 mm absolute; or any new lesion                  new lesions
+
+
+
+
+                                                            page 4 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes         Long-Term Disease Outcomes That Are Commonly Assessed in Urology
+ From Eisenhauer EA, Therasse P, Bogaerts J, et al. Revised RECIST guideline (version 1.1). Eur J Cancer 2009.
+  • What it tests: the reference points differ — response is measured against baseline, progression
+    against nadir; progression needs both the relative and the absolute increase.
+  • RECIST standardises progression but does not remove detection bias (see bias table).
+  • Observer variability: even for stone burden on CT, radiologists disagreed with one another and with
+    their own earlier readings to a substantial degree → radiological outcomes are less objective than
+    assumed; hence central review of imaging or pathology in prospective trials.
+
+ Intermediate Clinical End Points in Cancer of the Prostate
+  • CaP's long natural history → overall-survival trials can exceed a decade, and many relapsing men never
+    die of CaP → a valid intermediate clinical end point (ICE) accelerates drug development and saves
+    resources.
+  • Intermediate Clinical End Points in Cancer of the Prostate (ICECaP) working group tested PSA-based
+    ICEs (time to biochemical failure, PSA doubling time, PSA nadir, end-of-treatment PSA) and metastasis-
+    free survival (MFS).
+  PSA-based ICEs                                                           Metastasis-free survival
+  Did not track overall survival — treatment intensification               Strongly correlated with overall survival across
+  worsened other-cause mortality without commensurate CaP-                 trials → proposed as the valid ICE for localised
+  specific benefit                                                         CaP
+
+ Receipt of Secondary Therapy
+  • Reported in malignant and benign conditions; looks objective but is biased.
+  • Adjuvant or secondary? Radiotherapy or hormonal therapy after surgery for high-risk disease is
+    ambiguous.
+  • Subjective initiation: men with biochemical recurrence after radical prostatectomy often elect
+    hormonal therapy or radiotherapy although the "recurrence" may not be clinically meaningful —
+    "discretionary" treatment.
+ Concept — The harder the end point, the slower and cruder it is; every proxy trades time for validity, the
+ Prentice criteria test whether the trade was honest, and in prostate cancer only metastasis-free survival
+ has passed.
+
+ COMMONLY ASSESSED SHORT-TERM OUTCOMES
+
+ Assessing Surgical Complications
+  • Systems: Common Terminology Criteria for Adverse Events (CTCAE), its patient-reported version (PRO-
+    CTCAE), and Clavien–Dindo.
+  • Complication: any deviation from the normal or expected postoperative course; degrees and
+    unexpectedness vary → standardised systems for clinical and research use.
+
+ COMPLICATION-REPORTING SYSTEMS COMPARED
+               CTCAE v5.0                              PRO-CTCAE                                Clavien–Dindo
+  Origin       Early 1980s; cancer treatment;          Patient-reported companion to            Clavien 1992; Dindo 2004
+               NCI cooperative groups and              CTCAE                                    modification
+               industry
+  Reporter     Clinician                               Patient                                  Clinician
+  Basis
+
+
+
+                                                            page 5 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                                Commonly Assessed Short-Term Outcomes
+
+               CTCAE v5.0                              PRO-CTCAE                              Clavien–Dindo
+               Severity per organ system, grades Presence, frequency, severity,               Therapy required to treat
+               1–5                               interference; library of 78                  the complication; 5 grades,
+                                                 symptomatic adverse events                   7 strata
+  Strength     Simple; suits novel agents with         Longitudinal patient view; reliable,   Extensively validated; lower
+               unexpected serious toxicity             valid, good compliance, including      subjectivity
+                                                       urological trials
+  Limitation Unrefined, not surgery-specific,          Scores do not map to CTCAE             Residual subjectivity (below)
+             lacks granularity for comparative         grades; not a safety signal for dose
+             effectiveness                             decisions
+
+ Common Terminology Criteria for Adverse Events
+
+ TABLE 23.2 CTCAE SYSTEM FOR CLASSIFICATION OF SURGICAL AND MEDICAL PROCEDURES
+  Grade Definition
+  1        Asymptomatic or mild; clinical or diagnostic observation only; no intervention
+  2        Moderate; minimal, local or non-invasive intervention; limits age-appropriate instrumental activities of
+           daily living (ADLs)
+  3        Severe or medically significant, not immediately life-threatening; hospitalisation or prolongation;
+           disabling; limits self-care ADLs
+  4        Life-threatening; urgent intervention
+  5        Death
+
+  • Trap: grades 2 and 3 are separated by the ADL affected — instrumental versus self-care.
+
+ Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events
+  • Clinician-reported adverse events and patient-reported quality of life diverge: patients under-report
+    because of time pressure, not wishing to complain, and fear of losing eligibility, dose reduction or
+    removal from protocol.
+  • Use CTCAE grades for clinical decisions; use PRO-CTCAE to describe aggregate safety and tolerability.
+
+ Clavien–Dindo System of Classifying Complications
+  • Grades by the risk and invasiveness of the therapy needed, minimising subjective judgement of
+    severity. Dindo's modification (four to five grades, seven strata) adds whether general anaesthesia was
+    needed and whether there was organ failure or intensive care unit (ICU) admission; validated,
+    interobserver variability tested.
+
+ TABLE 23.3 CLAVIEN–DINDO CLASSIFICATION OF COMPLICATIONS
+  Grade Definition                                                         Example
+  I        Deviation without pharmacological, surgical, endoscopic         Ileus after cystectomy managed with
+           or radiological treatment; antiemetics, antipyretics,           observation and intravenous fluids (not
+           analgesics, diuretics and similar allowed; wound                parenteral nutrition)
+           infection opened at bedside
+  II       Needs other pharmacological treatment                           Bleeding after nephrectomy needing
+                                                                           transfusion, no ICU
+  IIIa     Surgical, endoscopic or radiological intervention without Pelvic collection after prostatectomy drained
+           general anaesthesia                                       percutaneously under local anaesthesia and
+                                                                     mild sedation
+  IIIb     Intervention under general anaesthesia                          Any unplanned return to theatre under general
+                                                                           anaesthesia
+
+
+                                                            page 6 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                                   Commonly Assessed Short-Term Outcomes
+
+  Grade Definition                                                             Example
+  IVa      Life-threatening (including central nervous system*),               Isolated myocardial infarction after PCNL
+           intermediate care or ICU; single-organ dysfunction                  (percutaneous nephrolithotomy) → cardiac ICU
+  IVb      As IVa with multiorgan dysfunction                                  Myocardial infarction and hypotension after
+                                                                               partial nephrectomy → renal failure, acute
+                                                                               respiratory distress syndrome, ventilation,
+                                                                               pressors, dialysis
+  V        Death                                                               Any postoperative death
+
+ *Brain haemorrhage, ischaemic stroke, subarachnoid bleeding; excludes transient ischaemic attack. Modified from Dindo
+ D, Demartines N, Clavien PA. Ann Surg 2004.
+  • Hinges: I/II — drug beyond the permitted list; IIIa/IIIb — general anaesthesia; IVa/IVb — one organ or
+    several.
+  • Limitations: (1) residual subjectivity — a recognised rectal injury at prostatectomy graded I (prolonged
+    stay) or III (repair under general anaesthesia); (2) the same intervention under local or general
+    anaesthesia by institution → variability in grades III and IV; (3) two complications of equal grade in one
+    patient not captured; (4) same complication managed differently (inferior vena cava filter versus
+    heparin for DVT).
+
+ Assessing Risk for Surgical Complications
+  • Beyond procedure-specific factors, three characteristics predict complications across all surgery:
+    functional status, comorbidity and frailty.
+
+ Functional Status
+  • Definition: ability to perform normal daily activities to meet basic needs, fulfil roles and maintain
+    health — effectively the ADLs.
+  • Six essential ADLs: eating, dressing, walking or transferring, bathing, toileting, continence.
+  • Matters in urological oncology trials for inclusion criteria and outcomes.
+  • Karnofsky Performance Scale (KPS, 1949): clinician-scored 100% (normal) to 0% (dead); acceptable
+    inter- and intraobserver reliability.
+  • Eastern Cooperative Oncology Group (ECOG) scale: 0 (fully active) to 5 (dead); performs as well as
+    KPS.
+  • Future: wearable technology for real-time functional data.
+
+ TABLE 23.4 COMPARISON OF KARNOFSKY PERFORMANCE SCORE TO ECOG GRADE
+  ECOG ECOG status                                                         KPS     Karnofsky status
+  0        Fully active, no restriction                                    100     Normal, no complaints
+  1        Restricted in strenuous activity; ambulatory; light             80–     Normal activity (minor symptoms, or with
+           work                                                            90      effort)
+  2        Ambulatory, all self-care, no work; up >50% of                  60–     Self-care, cannot work → occasional
+           waking hours                                                    70      assistance
+  3        Limited self-care; bed or chair >50% of waking hours            40–     Considerable assistance → disabled, special
+                                                                           50      care
+  4        Completely disabled; totally confined to bed or chair           10–     Severely disabled → very sick → moribund
+                                                                           30
+  5        Dead                                                            0       Dead
+
+
+
+
+                                                            page 7 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                             Commonly Assessed Short-Term Outcomes
+ Modified from Oken MM, Creech RH, Tormey DC, et al. Am J Clin Oncol 1982.
+  • Trap: ECOG 2 versus 3 turns on 50% of waking hours out of bed; KPS 70 (self-care, no work) = ECOG 2.
+
+ Comorbidity
+  • Term coined by Feinstein (1970): any ailment coexisting with the studied disease.
+  • Comorbidity influences treatment choice → confounder; ignoring it causes selection bias.
+  • Classic example — TURP (transurethral resection of the prostate): a large administrative-data study
+    found higher long-term mortality after TURP than open prostatectomy without controlling for
+    comorbidity; a chart-review study adjusting for age and comorbidity found no difference in 5-year
+    mortality, later confirmed.
+  • Charlson Comorbidity Index — best known; weighted sum; developed to predict 1-year mortality in
+    medical inpatients, later 3–5-year mortality after general surgery; short form and an administrative-
+    data adaptation exist; other validated scales also used.
+  Charlson
+  weight          Conditions
+  1               Myocardial infarction, congestive heart failure, peripheral vascular disease, cerebrovascular disease,
+                  dementia, chronic pulmonary disease, connective tissue disease, peptic ulcer, mild liver disease,
+                  diabetes
+  2               Hemiplegia, moderate–severe renal disease, diabetes with end-organ damage, any malignancy
+  3               Moderate–severe liver disease
+  6               Metastatic cancer, acquired immunodeficiency syndrome (AIDS)
+
+ Frailty
+  • Definition: clinically recognisable vulnerability from ageing-related decline in reserve across multiple
+    systems → more falls, hospitalisation, disability, death.
+  • Fried phenotype: frail = ≥3 of 5 — low grip strength, low energy, slow walking, low physical activity,
+    unintentional weight loss. Independently predicted falls, functional decline, hospitalisation and death
+    over 3 years (Cardiovascular Health Study); later predicted postoperative complications, length of stay
+    and discharge to a skilled nursing facility.
+  • Correlates with outcome after cystectomy, prostatectomy and prolapse surgery → control for it in non-
+    randomised studies.
+  • Criticism: Fried's model is essentially sarcopenia; Charlson and the American Society of
+    Anesthesiologists (ASA) classification have not reliably predicted postoperative morbidity and mortality.
+
+ FRAILTY INDICES
+  Index                                      Model                                 Size and use
+  Fried phenotype                            Physical phenotype (sarcopenia)       5 criteria, ≥3 = frail
+  Canadian Study of Health and Aging         Accumulating deficits incl.           ~70 items — impractical
+  Frailty Index (CSHA-FI)                    comorbidity and quality of life
+  Modified Frailty Index (mFI)               Accumulating deficits                 11 items; validated in urological
+                                                                                   cancer surgery
+  Simplified Frailty Index (sFI)             Accumulating deficits                 Shorter still; correlates with radical
+                                                                                   cystectomy outcomes
+
+
+
+
+                                                            page 8 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                               Commonly Assessed Short-Term Outcomes
+ Pain
+  • Three approaches: (1) verbal or written description or rating — used in most urology; (2) rating its
+    effect on observable behaviour, by patient or observer; (3) comparison with an experimentally induced
+    stimulus — laboratory only. Research should use validated instruments.
+  Measure                                        Format                          Note
+  Oral morphine equivalents                      Analgesic consumption           Looks objective but biased by pain
+                                                 converted                       tolerance — some avoid analgesia
+                                                                                 despite pain
+  Verbal descriptor scale                        "No pain" → "worst              Adequate clinically; hard to use in
+                                                 imaginable"                     research
+  Visual analogue scale (VAS)                    10 cm line, anchored ends;      Simple, effective in research and clinic;
+                                                 mark measured in mm → 0–        variants: 0–10 numerical, descriptors
+                                                 100                             along the line
+  McGill Pain Questionnaire; Brief Pain          20 items each                   Detailed; suited to research
+  Inventory
+  Patient-Reported Outcomes                      National Institutes of Health   Validated, reliable
+  Measurement Information System                 (NIH) item bank
+  (PROMIS) pain bank
+
+  • Multidisciplinary Approach to the Study of Chronic Pelvic Pain (MAPP) Research Network (National
+    Institute of Diabetes and Digestive and Kidney Diseases): studies urological chronic pelvic pain
+    syndromes (chronic prostatitis, interstitial cystitis/bladder pain syndrome) across pain, interference,
+    psychological stress and sexual function. Best two indices: Genitourinary Pain Index (pain) and
+    Interstitial Cystitis Symptom Index (urinary symptoms).
+ Concept — Complications are graded by the treatment they demand, not by how severe they looked, and
+ risk is predicted by the reserve the patient brought — function, comorbidity, frailty — which must be
+ adjusted for in every non-randomised comparison.
+
+ PATIENT-REPORTED OUTCOMES
+  • Many interventions aim to relieve symptoms, but symptom assessment differs from health-related
+    quality of life (HRQoL).
+  • Symptoms are the physical manifestations of disease, assessed in ways that suit the condition.
+  • Clinicians cannot measure patient-centred outcomes from the consultation: patients minimise to
+    please, physicians miss severity. Compared with a validated survey, physicians consistently
+    underestimated urinary, sexual and bowel dysfunction, fatigue and bone pain → collect directly from
+    patients.
+  Symptom scale                         HRQoL instrument
+  How much of the symptom is            Global impact of disease and treatment on well-being and daily function —
+  present                               function plus bother
+
+ Concept — A symptom score counts what is wrong; an HRQoL instrument asks how much it matters — and
+ only the patient can answer either reliably.
+
+ METHODS OF ASSESSING PATIENT-REPORTED OUTCOMES
+  • Questionnaires (surveys, instruments) are preferred to researcher-administered interviews, which are
+    time- and labour-intensive; instruments are cheap and practical but need rigorous development.
+
+
+
+                                                            page 9 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                          Methods of Assessing Patient-Reported Outcomes
+  • Development sequence: define the PROs → generate and assemble items (physicians, patients,
+    epidemiologists, psychologists; literature review for existing validated tools) → pilot for readability and
+    redundancy → psychometric analysis.
+  • Response formats: Likert (categorical options — used by most PROs, easier to answer and capture)
+    versus VAS (continuum).
+  • Item rules: below an eighth-grade reading level, no abbreviations or complex terms, one question per
+    item.
+  • Breadth (domains) versus depth (items per domain): balance for patient burden, favouring breadth
+    when the impact of disease or treatment is uncertain.
+
+ PSYCHOMETRIC PROPERTIES
+  Property                 Meaning                                                  Statistic and threshold
+  Reliability —            Precision; agreement among items measuring one           Cronbach's α >0.7 good; >0.9 →
+  internal consistency     concept                                                  redundancy
+  Reliability — test–      Reproducibility over time; retest within weeks —         Correlation >0.7
+  retest                   short enough for stability, long enough to feel fresh
+  Validity — face          Experts' subjective judgement that needed items          —
+  (content)                are present, irrelevant absent
+  Validity — criterion     Correlation with a gold standard (e.g., new outlet-      r ≥0.7
+                           obstruction symptom tool against uroflowmetry)
+  Validity — construct     Retrospective "gestalt" of performance, takes years; Correlation coefficients
+                           convergent (same concept, similar results) and
+                           divergent (unrelated concepts, opposite results)
+  Responsiveness           Detects clinically meaningful change; often poorly       Minimal clinically important
+                           assessed                                                 difference: AUA Symptom Index 3.1
+                                                                                    points; otherwise ≥½ standard
+                                                                                    deviation
+
+  • Validity is population-specific: an incontinence tool validated in neurogenic bladder must be
+    revalidated before use in CaP.
+
+ Patient-Reported Outcomes Measurement Information System
+  • PROMIS, from the NIH: standardised, flexible PRO measures; common T-score metric from item
+    response theory; rigorous psychometrics with patient and clinician input.
+  • Computer adaptive tests (CATs): questions tailored to prior answers → lower burden, higher precision;
+    fixed-length short forms where computers are limited.
+  • Core domains: fatigue, pain intensity and interference, physical function, sleep disturbance, anxiety,
+    depression, social participation; added domains include sexual function, urinary incontinence and
+    psychosocial health. The Sexual Function and Satisfaction measure is sensitive to change in men with
+    CaP; PROMIS is reliable and responsive for stone pain, sleep disturbance in overactive bladder and
+    bladder cancer quality of life.
+  • Advantages: free, non-proprietary; customisable; point-of-care administration with instant scoring;
+    multilingual (cross-cultural comparison); adult and paediatric norms → growing use, e.g., the CISTO
+    study (Comparison of Intravesical Therapy and Surgery as Treatment Options for bladder cancer).
+
+
+
+
+                                                            page 10 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                            Methods of Assessing Patient-Reported Outcomes
+
+ Specific Symptom Scales
+ Lower Urinary Tract Symptoms
+  • Lower urinary tract symptom (LUTS) indices were developed for benign prostatic hyperplasia (BPH) in
+    men but are valid in both sexes.
+  • International Prostate Symptom Score (I-PSS) — the best LUTS scale; seven AUA Symptom Index items
+    (I-PSS adds a single quality-of-life item); measures severity well but not impact on quality of life →
+    paired with the BPH Impact Index, which correlates with SF-36 general and mental health indices. Both
+    used in large randomised trials.
+  • Choice of scale follows the research question.
+
+ TABLE 23.5 SELECTED PATIENT-REPORTED OUTCOMES TOOLS FOR USE PRIMARILY IN MALES WITH LUTS
+  Instrument                                                                Items Distinguishing feature
+  I-PSS (AUA symptom score)                                                 7      Scored 0–35; gold standard PRO in BPH
+  BPH Impact Index (BII)                                                    4      Impact on quality of life
+  International Continence Society (ICS) male short form                    11     Separate voiding and continence scores
+  Danish Prostatic Symptom Score (DAN-PSS-I)                                12     Weighted by function and bother
+  International Consultation on Incontinence Questionnaire                  12 +   Both sexes; two themes; extra item on
+  (ICIQ) Nocturia Quality of Life                                           1      nocturia bother
+
+ Urinary Incontinence
+  • Office and urodynamic documentation is often infeasible and artificial: failure to demonstrate leakage
+    in clinic does not mean the patient is dry at home or work.
+  • Pad weight test: more quantifiable during usual activities, but confounded by how pads are used and
+    leakage around them; optimal duration unclear. 1-hour and 48-hour tests do not correlate; longer tests
+    are more reproducible. Cannot distinguish stress from urgency or capture bother → PROs are
+    required.
+
+ TABLE 23.6 SELECTED PATIENT-REPORTED OUTCOMES TOOLS FOR USE PRIMARILY IN FEMALES WITH URINARY
+ INCONTINENCE
+  Instrument                                     Items      Distinguishing feature
+  Symptoms + function + bother (disease-specific HRQoL)
+  Bristol Female LUTS (BFLUTS)                   33         Modified from ICS male; incontinence, voiding, storage, sexual
+                                                            function, quality of life; little used in men
+  ICIQ-FLUTS                                     12         Reduced BFLUTS; extra items: 2 sexual, 5 quality of life
+                                                 (+7)
+  Incontinence Impact Questionnaire +            53         Used together; female-designed; short forms IIQ-7 and UDI-6
+  Urogenital Distress Inventory (IIQ, UDI)                  (urgency, frequency, incontinence) also perform in older men
+  Urge-IIQ + Urge-UDI                            42         Urgency incontinence and overactive bladder (OAB); travel,
+                                                            feelings, activity, relationships, sex
+  OAB-q                                          32         Symptom-bother scale + HRQoL items; subscales 0–100, 100 =
+                                                            better
+  ICIQ                                           4          Frequency, amount, interference (scored) + activity item
+  Symptom Severity / Symptom Impact              16         Stress incontinence: 13 severity + 3 bother items
+  Index
+  Predominantly HRQoL
+
+
+
+                                                            page 11 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                             Methods of Assessing Patient-Reported Outcomes
+
+  Instrument                                     Items      Distinguishing feature
+  King's Health Questionnaire                    21         10 domains; general health, role, social, emotional, sleep;
+                                                            correlates with SF-36; many trials
+  CONTILIFE                                      28         Five languages; 0–100, 100 = poorer quality of life
+  Impact only — no symptoms or function
+  Incontinence Quality of Life (I-QOL)           22         Avoidance, social embarrassment, psychosocial impact; both
+                                                            sexes, cross-cultural → pair with pad test, diary or symptom
+                                                            scale
+
+  • What it tests: instruments sort by what they capture — symptoms, bother, or impact alone. Trap: score
+    direction differs (OAB-q 100 = better, CONTILIFE 100 = worse); I-QOL measures no symptoms.
+
+ Sexual Dysfunction
+  • Difficulties: sex differences preclude common end points; function often judged with a partner
+    (problem without a regular partner or with chosen inactivity); embarrassment limits honest reporting;
+    function is multidimensional — libido, arousal, erection, ejaculation/orgasm.
+  • "Objective" tests (nocturnal penile tumescence, duplex Doppler ultrasonography) occur in clinical
+    settings unlike home and miss psychogenic dysfunction → PROs are crucial.
+  • Men: more than 20 validated instruments, mostly partner-dependent. Erectile Dysfunction Inventory
+    of Treatment Satisfaction (EDITS) needs no partner but cannot be used before treatment or without
+    treatment. No perfect tool — choose by setting and question.
+  • International Index of Erectile Function (IIEF) — gold standard, 15 items; its five erection items form
+    the Sexual Health Inventory for Men (SHIM), which omits bother and so is not an HRQoL measure.
+
+ TABLE 23.7 SELECTED PATIENT-REPORTED OUTCOMES TOOLS FOR USE IN MALES WITH SEXUAL DYSFUNCTION
+  Instrument                               Items Distinguishing feature
+  IIEF                                     15       Gold standard; erection, libido, orgasm domains
+  SHIM                                     5        The five IIEF erection items
+  QOL-MED                                  18       HRQoL impact of erectile dysfunction (ED); assumes partner and
+                                                    heterosexuality
+  Psychological Impact of ED (PIED)        16       Sexual and emotional impact; no function
+  Index of Premature Ejaculation           10       Control, satisfaction, distress
+  (IPE)
+  Sexual Quality of Life for Men           11       Ejaculation and ED, not libido; correlates with IIEF satisfaction
+  (SQOL-M)
+
+ TABLE 23.8 SELECTED PATIENT-REPORTED OUTCOMES TOOLS FOR USE IN FEMALES WITH SEXUAL
+ DYSFUNCTION (FSD)
+  Instrument                               Items Distinguishing feature
+  Brief Index of Sexual Function for       22      Interest/desire, activity, satisfaction; composite score added later for
+  Women (BISF-W)                                   trials
+  Female Sexual Function Index             19      Six domains — lubrication, arousal, desire, pain, orgasm, satisfaction;
+  (FSFI)                                           summary score; most widely accepted
+  Derogatis Interview for Sexual           25      Interview + self-report (15–20 min each); five domains; research, not
+  Functioning (DISF)                               clinic
+
+  • Far fewer tools for female than male sexual dysfunction; the DISF is unnecessary for most simple
+    studies.
+
+
+                                                            page 12 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                              Methods of Assessing Patient-Reported Outcomes
+
+ Health-Related Quality of Life
+  • HRQoL: the parts of life affected by health status — broad, multidimensional, hard to define.
+    Descriptions: the patient's appraisal of current functioning against the possible or ideal; the functional,
+    psychological, social and economic impact of care. Calman: the gap between expectations and
+    experience.
+  • Components: health perceptions, function, preferences, satisfaction with care; broader well-being also
+    depends on food, shelter, response to illness and work.
+  • Must include objective function and bother.
+  General (generic) HRQoL                                     Disease-specific HRQoL
+  Domains common to all patients (functional and              Domains relevant to one disease — e.g., invasive bladder
+  emotional well-being, overall health)                       cancer: body image, sexual and urinary function
+
+ TABLE 23.9 SELECTED HEALTH-RELATED QUALITY-OF-LIFE INSTRUMENTS THAT HAVE BEEN USED IN UROLOGIC
+ DISEASES
+  Group          Instruments (items)
+  General        Medical Outcomes Study SF-36 (36), SF-12 (12); Nottingham Health Profile (38); Quality of Well-being
+                 Scale (24); Sickness Impact Profile (136); EuroQol EQ-5D (5 + VAS)
+  Cancer-        Functional Assessment of Cancer Therapy–General, FACT-G (28); EORTC QLQ-C30 (30); Functional
+  specific       Living Index–Cancer (22); Cancer Rehabilitation Evaluation System–Short Form (59)
+  Prostate       FACT-P (47); University of California, Los Angeles (UCLA) Prostate Cancer Index (20); Prostate Cancer
+  cancer         Specific Quality of Life Instrument (10); Prostate Cancer Treatment Outcome Questionnaire (41);
+                 Expanded Prostate Cancer Index Composite, EPIC (36); Patient-Oriented Prostate Utility Scales (10)
+  Bladder        FACT-Vanderbilt Cystectomy Index (17); Bladder Cancer Index (34); FACT-BL (40); EORTC muscle-
+  cancer         invasive BLM-30 (30); EORTC superficial BLM-24 (24)
+  Other          NIH Chronic Prostatitis Symptom Index (9); O'Leary–Sant Interstitial Cystitis Symptom and Problem
+  urological     Index (23); Wisconsin Stone QOL (28); EORTC QLQ-RCC10 (10); FACT–Kidney Symptom Index, FKSI-15
+                 (15)
+
+ Concept — Instruments are chosen by what they measure — symptom, function, bother, or impact — and
+ are trustworthy only once reliability, validity in that population and responsiveness have been shown.
+
+ OTHER OUTCOMES OF INTEREST IN UROLOGY
+
+ Patient Satisfaction
+  • Used as an outcome in urological studies; general satisfaction surveys exist, few urology-specific.
+  • Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) scores are tied to
+    Medicare reimbursement — hospitals gain or lose up to 1.5%.
+  • 27 items: 18 core (communication with nurses and doctors, staff responsiveness, cleanliness and quiet,
+    pain management, medicines, discharge information, overall rating, recommendation) + 4 screening + 3
+    case-mix adjustment + 2 congressionally mandated.
+
+ Health Care Costs
+  • Accurate costing is difficult: prices vary by country and region, data are proprietary, and costs fall on
+    different payers (patient, insurer, employer, government).
+  Direct                                                                    Indirect                     Intangible
+  Actual cost of delivering care — inpatient and outpatient                 Lost wages of patient and Monetary value of
+  services (fees, staffing, equipment), drugs. Traditionally from           caregivers, opportunity   pain, suffering, anxiety
+
+
+                                                            page 13 of 14
+Chapter 23 — Assessment of Urologic and Surgical Outcomes                                        Other Outcomes of Interest in Urology
+
+  Direct                                                                    Indirect                    Intangible
+  administrative data and hospital chargemasters (inaccurate).              costs; depend on age,       and societal cost; very
+  Time-driven activity-based costing (TDABC): map the                       social support, severity    hard to measure,
+  patient's care pathway, cost each resource and the time at                and duration                rarely included
+  each step; already used for prostate cancer care
+
+
+   KEY POINTS
+    • Quality is measured by structure, process and outcome; structure and process are easier, outcome
+      most meaningful.
+    • Mortality is hardest but biased: lead- and length-time bias for overall mortality, attribution bias for
+      disease-specific mortality.
+    • Few proxy end points meet all four surrogate criteria, yet they are used routinely.
+    • Standard progression and complication systems should be used, but do not remove design bias.
+    • Frailty, functional status and comorbidity are confounders with standard tools.
+    • Use validated, reliable patient-centred instruments whenever possible.
+
+
+
+
+                                                            page 14 of 14
+
