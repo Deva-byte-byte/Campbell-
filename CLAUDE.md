@@ -29,7 +29,7 @@ Each question is answered in this structure:
 > - 3–4 short one-line points (numbers, eponyms, trials)
 ```
 
-- **Length: "half length".** Whole answer including heading and key points box: **LAQ ≈ 650–700 words, SAQ ≈ 270–300 words**; a 4-paper set ≈ 2,900–3,000 words per paper so that answers + revision sheets fit about 5 hours. The user reads at about 40–45 words a minute, so keep to these budgets.
+- **Length: "half length".** Whole answer including heading and key points box: **LAQ ≈ 700–750 words, SAQ ≈ 300–330 words**; a 4-paper set ≈ 3,400–3,600 words per paper. The user accepted ~6 hours of reading for a full 4-paper set (answers ≈5½ h + revision sheets ≈30 min) in exchange for complete core content. The user reads at about 40–45 words a minute, so keep to these budgets.
 - **Clear sentences where needed.** Use short, plain sentences wherever a bare bullet would be cryptic. No chains of arrows/slashes/symbols. Arrows only in flowcharts or simple cause → effect.
 - **Keep all major subheadings** an examiner expects for the topic.
 - **Keep the concepts.** Briefly explain mechanisms, principles and rationale (why/how), so the candidate can write from understanding. Cut trivia (minor history dates, brand names, secondary trials, rare causes), not concepts.
