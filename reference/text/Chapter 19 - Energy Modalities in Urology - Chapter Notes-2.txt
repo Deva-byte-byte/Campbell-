@@ -1,0 +1,1623 @@
+Chapter 19 — Energy Modalities in Urology
+
+Chapter 19 — Energy Modalities in Urology
+Chapter Notes · Bailey, Forbes, Milner and Teichman
+
+ • Energy modalities deliver five surgical effects: cutting, tissue removal (ablation), tissue destruction,
+   coagulation and fragmentation.
+ • Safe outcomes require informed use of each modality. The chapter's emphasis is the tissue–energy
+   interaction mechanism and the safety of each.
+ • Organising perspective: the universality of the wave nature of physical processes explains most energy-
+   based devices in current use.
+
+   IN PLAIN TERMS — THE PHYSICS YOU NEED BEFORE STARTING
+   Boxes titled "In plain terms" are explanatory additions for understanding. They are not Campbell-Walsh-
+   Wein text; examinable content is in the notes around them.
+    • Energy is the capacity to do work: heat tissue, crack a stone, move something. It is measured in joules
+      (J). One joule is roughly the energy needed to lift a 100-g object by one metre.
+    • Power is how fast energy is delivered, measured in watts (W) = joules per second. A 100-W laser
+      delivers 100 J every second. The same energy delivered faster means more power. On a lithotripsy laser,
+      power = pulse energy × pulses per second: 0.5 J × 20 Hz = 10 W.
+    • Intensity is power per unit area. Sunlight spread over your hand is harmless; the same sunlight
+      concentrated by a magnifying glass burns paper. The power is the same, but the intensity is far greater.
+    • Pressure is force per unit area, measured in pascals or bars. 1 bar is about atmospheric pressure, so a
+      lithotripter shock of 1000 bar is about a thousand atmospheres, applied for a millionth of a second.
+    • A wave is a disturbance that carries energy from place to place without carrying the material with it.
+      In a stadium "Mexican wave", each spectator only stands and sits in place, yet the wave travels round
+      the stadium.
+    • Sound (acoustic, elastic) waves: the material itself is alternately squeezed and stretched, with each
+      molecule pushing its neighbour. Sound therefore needs a material (water, tissue, stone) and cannot
+      cross a vacuum. Ultrasound is simply sound too high-pitched to hear. Lithotripter shocks, ultrasound
+      imaging, HIFU and histotripsy are all sound.
+    • What "electromagnetic" means: an electric field is what makes charged objects push or pull on each
+      other (static cling). A magnetic field is what turns a compass needle. A changing electric field creates a
+      magnetic field, and a changing magnetic field creates an electric field, so the two keep regenerating
+      each other and travel as a wave, even through empty space. That is why sunlight reaches us across a
+      vacuum.
+    • Radio waves, microwaves, infrared (the heat felt from a fire), visible light, ultraviolet and X-rays are
+      all the same phenomenon, differing only in wavelength. Lasers (light), microwave ablation and
+      radiofrequency energy are therefore cousins, and the X-rays of your fluoroscopy are the same family.
+    • Frequency is how many waves pass per second (hertz, Hz). Wavelength is the length of one wave. For a
+      given speed, higher frequency means shorter wavelength (speed = frequency × wavelength).
+    • You already use this trade-off daily: a high-frequency linear probe (scrotum) shows fine detail but only
+      superficially, and a low-frequency curvilinear probe (kidney) reaches deep but with less detail. High
+      frequency = shallow; low frequency = deep runs through the whole chapter.
+    • Absorption is a wave giving up its energy to the material it passes through, mostly as heat. Where
+      energy is absorbed is where the surgical effect happens. Water absorbs holmium laser light strongly,
+
+
+
+
+                                                   page 1 of 33
+Chapter 19 — Energy Modalities in Urology                                                                              WAVES
+      which is why Ho:YAG acts only millimetres from the fibre tip. Haemoglobin absorbs green light, which is
+      why GreenLight works on the vascular prostate.
+    • A pulse is a short burst of energy rather than a continuous stream; pulse duration is how long each
+      burst lasts. The same energy squeezed into a shorter burst gives a far higher peak power, like a
+      hammer blow compared with a steady push.
+    • Size prefixes: milli (ms) = one-thousandth; micro (μs) = one-millionth; nano (ns) = one-billionth; femto
+      (fs) = a million-billionth. kilo (k) = thousand; mega (M) = million; giga (G) = billion. A 250-μs pulse lasts a
+      quarter of a millisecond.
+
+
+WAVES
+Two modes of energy delivery
+ • Directed energetic waves, or direct contact (water vapour, cryosurgery).
+ELECTROMAGNETIC VS ELASTIC WAVES
+                Electromagnetic (EM) waves            Elastic waves
+ Devices        Lasers, electrocautery, microwave, Shock wave lithotripsy, ultrasound therapies, intracorporeal
+                radiofrequency                     lithotripters
+ Nature         Oscillation between electric and      Mechanical vibration: oscillation between pressure (potential
+                magnetic fields                       energy) and particle velocity (kinetic energy)
+ Media          Free space and media                  Gases, liquids and solids (including stones)
+ Subclasses     By wavelength band                    Acoustic vs ultrasonic by frequency; longitudinal (motion along
+                                                      propagation) vs shear (motion transverse to it)
+ Wavelength Micron order (light)                      Millimetre order (medical acoustics)
+
+   IN PLAIN TERMS — READING THE WAVE DESCRIPTORS
+    • Picture a wave on a rope you are shaking. Amplitude is the height of the wiggle (how strong the wave
+      is). Frequency is how many times per second you shake. Wavelength is the distance between two
+      crests.
+    • Phase is where a point sits in the cycle: crest, trough or halfway. Two waves "in phase" rise and fall
+      together and reinforce each other; out of phase, they cancel.
+    • Polarisation is the direction of shaking, up–down or side-to-side.
+    • Longitudinal vs shear: pushing a Slinky along its length sends a compression along it (longitudinal:
+      sound in water and tissue). Flicking a rope sideways sends a sideways ripple (shear). Liquids cannot
+      carry shear waves; solids can. This is why shear waves inside a stone matter in lithotripsy.
+    • Dispersion means different frequencies travel at different speeds in a material, so a mixed pulse
+      spreads out, like runners who start together but finish strung out. A glass prism splitting white light into
+      a rainbow is dispersion.
+
+WAVE DESCRIPTORS
+ Descriptor     Definition                                                                       Unit / symbol
+ Frequency      Inverse of the period (T), the time for one oscillation                          Hertz (Hz) = s−1
+ Wavelength Spatial distance of one oscillation                                                  λ
+ Wavevector Change of phase over distance; k = 2π/λ                                              k, radians per unit
+                                                                                                 length
+ Amplitude      Maximum oscillation of the wave                                                  Pressure for acoustics
+
+
+
+                                                         page 2 of 33
+Chapter 19 — Energy Modalities in Urology                                                                             WAVES
+
+ Descriptor     Definition                                                                       Unit / symbol
+ Phase          Dimensionless position within the period or wavelength                           Degrees or radians
+ Polarisation Direction of oscillation relative to propagation                                   —
+ Dispersion     Property of the medium: dependence of frequency on wavelength or                 f(k); in EM written ω(k)
+                wavevector
+
+ • A wave is propagating energy oscillating between potential and kinetic forms (ocean wave: water height
+   ↔ motion).
+ • Elastic pressure and velocity are both expressed in megapascals (MPa).
+TABLE 19.1 PARAMETERS AND UNITS
+ Quantity                              SI unit                       Relation
+ Force                                 Newton (N)                    —
+ Pressure or stress                    Pascal (Pa); bar              1 Pa = 1 N/m²; 10 bar = 1 MPa
+ Energy                                Joule (J)                     1 J = 1 N·m
+ Power                                 Watt (W)                      1 W = 1 J/s
+ Intensity                             W/cm²                         Power per unit area
+
+ • What the table is for: pressure is the amplitude of acoustic therapy, and intensity is its delivered dose.
+   Lithotripsy papers quote bar, physics papers quote MPa.
+ • The trap: 10 bar = 1 MPa, not 1 bar = 1 MPa.
+
+   IN PLAIN TERMS — SQUEEZE, PULL AND CAVITATION
+    • A sound wave alternately squeezes (positive pressure) and pulls apart (negative pressure) the medium
+      it passes through.
+    • Liquids resist squeezing very well but can be torn by pulling. When the pulling phase is strong enough,
+      the liquid rips open into a vapour bubble. This is cavitation, the same bubble that appears when you
+      pull hard on a syringe plunger against a closed tip.
+    • Boiling makes bubbles by heating; cavitation makes bubbles by pulling.
+    • Cavitation matters throughout the chapter. It helps break stones, it injures tissue, and when too many
+      bubbles form it blocks the energy from reaching the target.
+
+Pressure, negative pressure and cavitation
+ • Real waves are never a pure single frequency; they are sums of harmonic components.
+ • For acoustics, amplitude (loudness) is pressure. It can be negative, because the fluid is elastic enough to
+   hold its phase through the negative half-cycle.
+ • A sufficiently intense negative phase causes cavitation, a liquid–gas phase change. Cavitation vs boiling:
+   in cavitation the pressure drops; in boiling the temperature rises.
+ • Spherical bubble dynamics in an incompressible fluid follow the Rayleigh–Plesset equation, derived from
+   the Navier–Stokes equation.
+
+   IN PLAIN TERMS — ONE NOTE VERSUS A HAND-CLAP
+    • A single sustained flute note is narrowband: essentially one pitch. A hand-clap is broadband: a sharp
+      sound containing many pitches at once. The shorter and sharper a sound, the more frequencies it
+      must contain.
+    • The Fourier transform is a mathematical prism. As a prism splits white light into its colours, Fourier
+      analysis splits any pulse into the pure frequencies it is built from.
+
+
+
+                                                          page 3 of 33
+Chapter 19 — Energy Modalities in Urology                                                                    WAVES
+    • The shock wave lithotripsy pulse is a clap (broadband); the burst wave lithotripsy pulse is a short
+      sung note (narrowband).
+
+BROADBAND VS NARROWBAND
+ Broadband                                  Narrowband
+ Short pulses                               Long-duration pulses or bursts of many cycles at one frequency
+ Contain many frequencies                   Concentrated at one centre frequency
+
+ • Truncating a continuous wave increases its bandwidth; the original frequency becomes the centre
+   frequency.
+ • A pulse is a packet of sound or light waves (a tone burst or a simple burst). Therapy is delivered as an
+   ensemble of pulses or bursts.
+Fourier transform (Equation 1)
+                                                     p(t) = ∫ P(f) exp(j2πft) df
+ • Any pulse p(t) resolves into a sum (integral) of harmonics, each with amplitude P(f). The transform shows
+   which frequencies a pulse contains.
+
+   IN PLAIN TERMS — WHAT A "SHOCK" IS
+    • In a very loud wave the high-pressure crests travel slightly faster than the troughs. The front of the
+      wave therefore steepens until it becomes an almost vertical jump in pressure. That jump is a shock,
+      the same thing as a sonic boom.
+    • A steep jump means an enormous pressure change in a tiny time, and that is what cracks brittle
+      stones.
+    • The word "shock" has nothing to do with electricity.
+
+Shock formation
+ • A shock is a discontinuous increase in pressure. It forms at high amplitude, especially at high frequency
+   over long distances.
+ • Mechanism: nonlinearity. Wave speed depends on amplitude, so peaks travel faster than troughs and
+   the peak catches the preceding part of the wave. It forms a shock but does not "crash" like an ocean
+   wave.
+ • Frequency-domain signature: energy transfer from the fundamental (centre) frequency into higher
+   harmonics.
+ • Medical acoustic waves lie well above 20 kHz (limit of human hearing), but some contain audible
+   components. What is heard is the click rate of pulse delivery, not the centre frequency.
+ • Duty cycle = percentage of total time that sound is emitted.
+Dispersion in EM
+ • EM wave speed depends on frequency, according to the medium's dispersion relation ω(k), where ω is
+   the angular frequency (2πf, radians/s) and k the wavevector.
+ • Consequence: a pulse sorts by frequency. Components arrive with different delays and the pulse shape
+   changes as it propagates.
+
+   IN PLAIN TERMS — FOCUSING IS THE MAGNIFYING GLASS
+    • A magnifying glass concentrates the same sunlight into a tiny spot hot enough to burn paper.
+      Lithotripters and high-intensity focused ultrasound do exactly this with sound.
+
+
+
+
+                                                            page 4 of 33
+Chapter 19 — Energy Modalities in Urology                                                                 WAVES
+    • Where the beam is wide (at the skin) the energy is spread and harmless. Where it converges (at the
+      stone or target) the energy is concentrated and effective. This is how energy passes through skin and
+      fat without injuring them.
+    • The focal spot is about one wavelength wide and about ten wavelengths long, giving a cigar-shaped or
+      rice-grain-shaped zone of effect.
+
+Focusing and beams
+ • A point source (smaller than the wavelength) radiates spherically; a lens or reflector focuses waves into a
+   beam.
+ • Beams decompose into spatial modes, each of which diffracts and propagates — analogous to the
+   temporal Fourier decomposition.
+ • Beam width = full width at half maximum (FWHM): the distance between points where amplitude falls to
+   half the peak; it can also be measured on intensity.
+ • The commonest laser beam is the Gaussian beam, whose amplitude varies with radius as a Gaussian
+   function.
+
+   IN PLAIN TERMS — PHOTONS
+    • Light comes in tiny indivisible packets called photons.
+    • The colour (wavelength) of a laser fixes the energy of each photon; its power setting fixes how many
+      photons leave per second. Turning up the power sends more photons, not stronger ones.
+
+Intensity, power and photons
+ • Intensity ∝ amplitude², so it is always positive even though amplitude oscillates.
+ • Power = energy per unit time. Intensity = power per unit area, the rate of energy passing through the
+   beam cross-section; often averaged over on-time or area.
+ • Photon energy is related to frequency by Planck's constant (h): E = hf. A more powerful laser produces
+   more photons per unit time, not more energetic photons.
+ • Phonons are the acoustic analogue; the term is not used in medical ultrasound.
+
+   IN PLAIN TERMS — WHY GEL, WHY SHADOWS
+    • Acoustic impedance is essentially how stiff and dense a material is to sound.
+    • Sound passes easily between materials of similar impedance (water to soft tissue) but bounces back
+      from very different ones (tissue to air, or tissue to bone or stone).
+    • This explains four things you already know:
+    • First, you apply gel, because even a thin layer of air between probe and skin reflects almost everything.
+    • Second, bowel gas and ribs cast shadows on ultrasound.
+    • Third, a stone appears bright with an acoustic shadow behind it.
+    • Fourth, a lithotripter must be coupled to the patient with water or gel.
+    • Refraction is the bending of a wave as it enters a new material at an angle, the reason a straw looks
+      bent in a glass of water.
+
+Scattering, diffraction, refraction and reflection
+ • Diffraction: free-space spreading from an aperture, computed with the Fraunhofer and Kirchhoff
+   relations.
+ • Scattering occurs wherever the dispersion relation changes — a different state (pressure, temperature), a
+   different phase, or a different material.
+
+
+                                                     page 5 of 33
+Chapter 19 — Energy Modalities in Urology                                                                              WAVES
+ • Refraction: at oblique incidence the ray bends on entering a layer with a different refractive index (EM) or
+   wave speed (elastic).
+ • At an interface, part of the energy is transmitted and part reflected. Acoustic impedance = sound speed ×
+   density governs the ratio.
+ • Large impedance mismatch → reflection, poor transmission. Air (bowel gas) and bone reflect ultrasound.
+ • Rough surface (irregularities smaller than the wavelength) → scatter in many directions; a smooth surface
+   gives specular reflection.
+
+   IN PLAIN TERMS — WHY ENERGY FADES WITH DEPTH, AND WHY WAVES PUSH
+    • Every material "eats" part of a wave as it travels, either by absorbing it (turning it into heat) or by
+      scattering it in other directions. Together these are attenuation.
+    • The absorption distance is how deep the wave goes before most of its energy is gone. A short
+      absorption distance dumps all the energy close by: intense local heating, but safe for deeper
+      structures.
+    • Radiation force: a wave also gives a small push to whatever it hits, like wind on a sail. For light the push
+      is negligible. For sound it is large enough to be useful, and ultrasonic propulsion literally pushes
+      stones.
+
+Attenuation and absorption
+ • Attenuation = scattering + absorption.
+ • Absorption reduces amplitude by e−αz, where α is the absorption coefficient (1/distance) and z the
+   propagation distance.
+ • Absorption distance = 1/α: the depth at which amplitude or energy falls to 1/e.
+ • Absorption usually increases with frequency. The acoustic absorption distance in tissue is about 25
+   wavelengths.
+ • A short absorption distance cuts both ways: it protects deeper structures but concentrates heat in a
+   small, engineerable region.
+ • Absorbers: dark objects (at the incident wavelength) absorb EM; viscous material absorbs acoustic waves.
+BIOEFFECT MECHANISMS: EM VS ACOUSTIC
+ EM waves                         Elastic / acoustic waves
+ Mostly absorption → heat         Thermal absorption, mechanical stress (in solids), or cavitation (in fluids and tissue)
+
+Radiation force
+ • Absorption also imparts a force along the propagation direction.
+ • Radiation force = power absorbed ÷ wave speed. It is much smaller in EM, because light is far faster than
+   sound.
+ • It is doubled when the object is totally reflective, because the momentum is reversed rather than
+   absorbed.
+ • When the wavelength is much longer than the distances of interest, modal analysis replaces ray thinking.
+Figure legends
+  • Fig. 19.2 — Defocusing (point source) vs focusing (lens or reflector), with beam width, cross-section, focal
+    region, ray line and focal distance f. Focal width ≈ 1 wavelength; axial extent ≈ 10 wavelengths.
+ • Fig. 19.3 — Holmium:yttrium-aluminium-garnet (Ho:YAG) output from a 365-μm fibre is near-Gaussian;
+   photon density correlates with ablation crater volume and geometry. (Lee, Ryan, Teichman et al., J Endourol
+   2003.)
+
+
+                                                          page 6 of 33
+Chapter 19 — Energy Modalities in Urology                                                 ELECTROMAGNETIC WAVES
+ • Fig. 19.4 — EM and acoustic spectra. The laser wavelength map runs from ultraviolet to mid-infrared: excimer,
+   argon, potassium-titanyl-phosphate (KTP), pulsed dye, ruby, alexandrite, diode, neodymium:YAG (Nd:YAG),
+   thulium fibre laser (TFL), thulium:YAG (Tm:YAG), Ho:YAG, erbium:YAG (Er:YAG), carbon dioxide (CO₂). Acoustic
+   bands: infrasound <20 Hz; audible to 20 kHz; ultrasound above. Medical therapy ≈ 2 MHz region; diagnostics
+   up to ≈ 200 MHz (acoustic microscopy). Medical ultrasound commonly 100 kHz to 20 MHz. Sound speed
+   depends on the medium, so a given frequency has a longer wavelength in a stone than in water (≈3× in
+   cystine).
+
+ KEY POINTS
+   • Lithotripsy shock waves are acoustic waves with abrupt pressure rises, not electrical shocks.
+   • "Frequency" means either the oscillation frequency within a pulse or the pulse delivery rate; the
+     latter is lower.
+   • A pulse has a duration in time and a length in space, linked by the wave speed.
+   • Short pulses are broadband; long pulses are narrowband.
+   • EM bioeffects = absorption → heat. Acoustic bioeffects = heat, mechanical stress (solids), cavitation
+     (fluids/tissue).
+
+Concept — every modality in this chapter is a question of where the wave's energy is absorbed and in what
+form it is released. Frequency sets the penetration, impedance sets what is reached, and absorption sets
+whether the result is heat, stress or a bubble.
+
+ELECTROMAGNETIC WAVES
+
+Lasers
+   IN PLAIN TERMS — HOW A LASER WORKS
+    • An ordinary bulb is heated atoms giving off light at random: every colour, every direction, out of step,
+      like a crowd chatting.
+    • A laser energises ("pumps") atoms and then triggers them to release light in lockstep: one colour, one
+      direction, in step, like a choir singing one note in unison.
+    • Mirrors at each end bounce the light back and forth through the material to build it up, and one mirror
+      lets a little escape as the beam.
+    • Result: a pure single wavelength in a tight beam that can be sent down a thin fibre with enormous
+      concentration.
+    • The laser's name is the material that makes the light: Ho:YAG = holmium atoms in a YAG crystal; Tm =
+      thulium; KTP/LBO = crystals that halve the wavelength to make green light.
+    • The wavelength decides what absorbs the light (water, haemoglobin, pigment). That is the whole
+      reason different lasers do different things.
+
+Principle
+ • LASER = light amplification by stimulated emission of radiation. A gain medium (gas, solid or liquid) sits
+   inside a resonant optical cavity.
+ • The medium is "pumped" by an external source: electrical current, chemical energy, a flashlamp or
+   another laser.
+ • Stimulated emission: pumped electrons in uniform higher-energy orbitals → an incoming photon
+   stimulates release of a photon with identical energy, propagation direction and phase → cascade →
+   output.
+
+                                                   page 7 of 33
+Chapter 19 — Energy Modalities in Urology                                                         ELECTROMAGNETIC WAVES
+LASER VS ORDINARY LIGHT
+ Laser (coherent)                                                       Blackbody / incandescent (incoherent)
+ Narrow wavelength range, narrow angular spread, smooth                 Broad continuum of wavelengths, wide angular
+ wavefronts                                                             spread
+ Radiance (W/cm²·sr) orders of magnitude greater                        Household bulb, the sun
+
+Resonator
+ • Two inward-facing mirrors act as feedback elements; photons pass repeatedly through the gain medium,
+   stimulating further emission, until amplitude saturates.
+ • The opposed mirrors give directional, in-phase output: a collimated, monochromatic, coherent beam.
+ • In practice: one total reflector (ideally 100%) and one partial reflector that lets a small fraction escape —
+   the output end.
+
+   IN PLAIN TERMS — TAPS AND DAMS
+    • Continuous wave is a tap left running.
+    • Q-switching is a dam: the energy is held back while it builds up and then released all at once as one
+      huge, very brief flood.
+    • Mode-locking produces even shorter flashes.
+
+LASER OUTPUT MODES
+ Mode                      Mechanism                                                              Pulse duration
+ Continuous wave           Steady leak through the partial reflector                              Continuous
+ (CW)
+ Q-switched                Shutter (Venetian-blind or electro-optic) closed while the gain        Nanoseconds
+                           medium saturates, then opened → giant pulse
+ Mode-locked (phase- Constructive/destructive interference in the cavity                          Few to tens of
+ locked)                                                                                          femtoseconds
+
+Diode lasers
+ • Semiconductor gain medium with mirrors fabricated on the semiconductor; a doped wafer (holes and
+   electrons) creates a charge bias, and the diode is pumped by electrical current.
+ • Advantages: smaller, more energy-efficient, and configurable across a wide range of wavelengths and
+   pulse durations.
+ • Historically non-medical (barcode scanners, CD/DVD players). Clinical diodes run at 800–980 nm, mainly
+   for soft tissue.
+History
+ • First lithotripsy laser: ruby crystal with flashlamp pump (1960). Medical lasers must be mobile,
+   serviceable and robust to clinical use.
+ • CO₂ laser (1964): gas laser, 10,600 nm; very highly absorbed by water → narrow penetration. Uses:
+   penile and vulvar lesions (superficial squamous cell carcinoma), skin resurfacing.
+ • Not usable for intracorporeal lithotripsy: 10.6-μm light suffers fibre losses, and hollow waveguides fail in
+   aqueous environments.
+Figure legend
+  • Fig. 19.5 — (A) Lasing medium energised by a flashlamp; light oscillates between mirrors, gaining energy each
+    pass; the partly transparent mirror 2 emits a collimated beam. (B) Coherent radiation: smooth, usually
+
+
+
+
+                                                         page 8 of 33
+Chapter 19 — Energy Modalities in Urology                                                             ELECTROMAGNETIC WAVES
+   spherical wavefronts, narrow angular and frequency distribution. (C) Incoherent blackbody radiation: wide
+   angular and frequency distribution. (Teichman, Smith's Textbook of Endourology, 2007.)
+
+Laser Lithotripsy
+
+   IN PLAIN TERMS — THE TWO WAYS A LASER BREAKS A STONE
+    • Photomechanical ("hammer"): an extremely short pulse (billionths to millionths of a second) dumps
+      energy so fast it cannot escape as heat. Instead it explodes, creating a bubble and a shock wave that
+      crack the stone mechanically. Pulsed dye and FREDDY lasers worked this way.
+    • Photothermal ("blowtorch" or "drill"): a longer pulse (hundreds of microseconds: holmium and
+      thulium) heats the spot it hits until the stone melts, decomposes, or its internal water flashes to steam.
+      The stone is eroded into dust and small fragments.
+    • Pulse duration decides which happens, and modern holmium and thulium lithotripsy is
+      photothermal.
+    • Why the "pulse duration" on the machine can mislead: manufacturers quote how long the electrical
+      current pumping the laser lasts, not how long the light actually lasts at the stone.
+
+Pulse duration — the key parameter
+ • Lithotripsy pulses span femtoseconds to microseconds.
+ • Nomenclature trap: manufacturers usually quote the electrical pulse duration of the pump current; the
+   optical pulse duration (FWHM) is the physically informative value; labels such as "short / medium / long"
+   differ between platforms.
+First principle
+ • Fragmentation begins with photon absorption. No absorption in the stone or surrounding water → no
+   fragmentation.
+ • The most important factor is fluence: optical energy absorbed by the stone and/or water. Ablation is
+   multifactorial: photothermal plus photoacoustic/photomechanical.
+LASER PULSE-DURATION CLASSES AND MECHANISMS
+                                                                                 Pressure
+ Class (optical pulse)         Dominant mechanism              Bubble            transient        Fragments
+ Ultrashort <500 ns (Q-        Plasma (needs irradiance        Spherical         Extremely high   Larger than cavitation
+ switched)                     >108 W/cm²)                                       at fibre tip     (femtosecond, research
+                                                                                                  only: fine debris)
+ Short >500 ns to <10 μs       Cavitation and shock            Spherical, single- High (>300 bar) Large
+                               waves (photomechanical)         locus collapse
+ Transition ≈10–100 μs   Mixed photoacoustic +                 Intermediate      Intermediate     —
+ (photoacoustic          photothermal
+ predominates to ~50 μs)
+ Long >250 μs (Ho:YAG,         Photothermal                    Asymmetric,       Weak (<20 bar) Small
+ TFL, pulsed Tm:YAG)                                           multi-locus
+                                                               collapse
+ Very long >20 ms / CW         Photothermal with               —                 —                Adjacent tissue injured
+                               collateral coagulation and
+                               carbonisation
+
+   IN PLAIN TERMS — BUBBLES, PLASMA AND "STRESS CONFINEMENT"
+    • Cavitation bubble: the laser tip boils a pocket of water into a vapour bubble that balloons outward and
+      then collapses violently (implodes), sending out a pressure wave.
+
+
+                                                            page 9 of 33
+Chapter 19 — Energy Modalities in Urology                                                   ELECTROMAGNETIC WAVES
+    • The punch of the collapse rises with the cube of the bubble radius: double the bubble size gives eight
+      times the punch.
+    • Plasma: at extreme intensity the material is torn into charged particles, a tiny spark like miniature
+      lightning, whose sudden expansion hits the stone.
+    • Spallation: a pressure wave travelling through a stone reflects from its far surface as a pulling wave and
+      flakes material off that surface, like a chip blown off the far side of a wall that is struck.
+    • Stress confinement means delivering the blow faster than the stone can relieve it. A karate chop
+      breaks a board that a slow push would only bend.
+
+Photoacoustic / photomechanical mechanisms (pulses <50 μs)
+ • Sudden thermoelastic expansion, optical breakdown or plasma initiation convert laser energy into stress
+   waves (at sound speed) or shock waves (faster).
+ • Water-absorbed light → spherical cavitation bubble → single-locus collapse → outgoing shock wave.
+   Stone-absorbed light → thermoelastic expansion within the stone → internal fracture.
+ • Three generators of transient stress waves:
+    1. Thermoelastic expansion → pressure wave reflects at the free surface as an inward negative (tensile)
+       wave → if strong enough, spallation (disruption from rapid heating or cooling; rapid cooling gives
+       irregular fragmentation).
+    2. Recoil: ejected ablated material → conservation of momentum → recoil pressure wave → stress
+       fracture deep to the ablation surface.
+    3. Phase change, e.g. plasma, the "fourth state of matter" (an ionised cloud of free electrons); unstable
+       rapid expansion and contraction → stress fractures in the stone matrix.
+ • Laser shock waves arise twice per pulse: at the outset (bubble expansion or plasma formation) and at the
+   end (spherical bubble collapse).
+Cavitation bubble dynamics (ultrashort and short pulses, up to ~100 μs)
+ • Laser-induced water vapour expands spherically at the fibre tip, then collapses in the incompressible
+   surrounding water hundreds of microseconds later.
+ • Collapse releases the stored potential energy instantaneously → strong pressure waves → strain on the
+   crystal matrix → fragmentation.
+ • Pressure-transient sequence: initial transient (bubble expansion) → end of laser pulse → bubble collapse
+   → second, higher transient → fragmentation.
+ • Transient amplitude ∝ (maximum bubble radius)³.
+Stress confinement
+ • Efficient photomechanical fragmentation requires energy delivered within a pulse shorter than the time
+   for stress to propagate out of the irradiated zone → rapid pressure and heat build-up, often a shock
+   wave, and dissociation of the crystalline structure.
+PHOTOMECHANICAL LASERS: PULSED DYE VS FREDDY
+                 Pulsed dye (coumarin)                                         FREDDY
+ Full name       Organic-dye laser, flashlamp-pumped                           Frequency-doubled double-pulse
+                                                                               Nd:YAG
+ Gain            Organic dye (liquid); tunable                                 Solid-state: KTP crystal inside an
+ medium                                                                        Nd:YAG resonator
+ Wavelength      504 nm                                                        1064 nm + 532 nm simultaneously
+ Pulse           <2 μs                                                         1.2 μs
+
+
+
+                                                       page 10 of 33
+Chapter 19 — Energy Modalities in Urology                                                      ELECTROMAGNETIC WAVES
+
+                 Pulsed dye (coumarin)                                              FREDDY
+ Safety          Haemoglobin absorbs 504 nm → stray energy carried off by blood —
+                 flow ("energy sink") → high safety margin
+ Limitation      Large fragments; poor on hard stones (cystine, brushite, calcium   —
+                 oxalate monohydrate)
+
+ • Solid-state lasers use a crystalline host doped with ions as the gain medium.
+Figure legend
+  • Fig. 19.6 (Jansen et al., Lasers Surg Med 1996) — Ho:YAG (λ = 2.1 μm) bubble expansion and collapse in water,
+    fast-flash photography, at 500 ns, 100 μs, 260 μs, 460 μs and 1100 μs. The 500-ns pulse used a 200-μm fibre at
+    14 ± 1 mJ; all others a 400-μm fibre at 200 mJ. Right column: maximum bubble size in 84% water
+    polyacrylamide gel — always smaller than in water. (A) 500 ns: expansion wave at 1 μs, collapse wave at 215
+    μs. (B) 100 μs: collapse wave at 300 μs. (C) 260 μs (210 μs FWHM): collapse wave at 270 μs. (D) 460 μs (410 μs
+    FWHM). (E) 1100 μs (1050 μs FWHM): oscillating bubble between 400 and 1000 μs.
+
+Long Pulse Durations (≥250 μs) and Photothermal Ablation
+
+   IN PLAIN TERMS — THE MOSES EFFECT, FIBRE ANGLE AND WHY WATER MATTERS
+    • Water absorbs holmium and thulium light strongly, so a fibre held a few millimetres from the stone
+      would waste its energy heating water.
+    • What actually happens: the first part of each pulse boils a tunnel of steam between fibre and stone.
+      Steam absorbs this light far less than liquid water, so the rest of the pulse passes through the tunnel to
+      the stone, as the sea parted for Moses.
+    • Practical consequences: keep the fibre close to the stone, and fire straight at it (perpendicular), not
+      grazing its surface. A photothermal laser works only if its photons actually enter the stone.
+    • Why long pulses give so little pressure: the bubble forms slowly and lopsidedly and collapses in several
+      places at different times, so there is no single violent implosion.
+
+ • Mid-infrared (thulium and holmium) light is highly absorbed by water. Pulses of several hundred μs →
+   photothermal removal by rapid vaporisation, melting, carbonisation or chemical decomposition, confined
+   to the zone of absorption.
+ • Pulses >20 ms, or CW → heat conducted to surrounding tissue → coagulation and carbonisation;
+   lithotripsy pulses are therefore kept well below 20 ms.
+ • Moses effect: mid-infrared light is absorbed more by liquid water than by water vapour, so the vapour
+   channel transmits energy to the stone ("parting the water").
+ • Stone-absorbed photons cause melting, chemical decomposition or superheated interstitial water →
+   localised microexplosion.
+ • Most Ho:YAG, TFL and pulsed Tm:YAG lasers fragment photothermally. Pulses of hundreds of μs
+   preclude stress confinement; time-resolved imaging and pressure studies show no significant
+   photomechanical effect.
+LASER PRESSURE TRANSIENTS
+ Source                                                                                 Peak transient
+ Photomechanical lasers                                                                 >300 bar
+ Ho:YAG, pulse energy <1.0 J (usual clinical range)                                     8–20 bar
+ Ho:YAG at 2.0 J                                                                        20–40 bar
+ Any laser >250 μs                                                                      Typically <20 bar
+
+
+
+                                                      page 11 of 33
+Chapter 19 — Energy Modalities in Urology                                                     ELECTROMAGNETIC WAVES
+Further evidence for the photothermal mechanism
+ • Moses dynamics on high-speed imaging: the first ~60 μs vaporise the water between fibre and stone,
+   after which energy couples efficiently through the vapour. Photomechanical lithotripsy requires water;
+   photothermal lithotripsy loses energy to water.
+ • Incidence angle: perpendicular strike (0°, normal incidence) → most ablation; fibre parallel to the
+   surface (90°) → large bubble, no ablation (rare exception: under tightly controlled parallel geometry,
+   water jets can impinge on the stone). Incident angle correlates with ablation volume.
+ • Thermal breakdown products are detected during Ho:YAG lithotripsy; room-temperature stones ablate
+   better than cold stones; pulse-modulated Ho:YAG also works photothermally.
+ • Pulse energy correlates roughly linearly with crater volume.
+Figure legends
+  • Fig. 19.8 (Chan, Pfefer, Teichman, Welch, J Endourol 2001) — ablation mechanism across pulse duration: (A)
+    ~10 μs, purely photoacoustic: large-fragment dissociation plus internal fractures; (B) photothermal ablation
+    with internal fractures; (C) ~200 μs, localised photothermal ablation without collateral damage — the
+    desirable outcome; (D) ~20 ms, photothermal ablation with extensive adjacent thermal damage. Water or
+    liquid enhances mechanical damage through cavitation and better acoustic coupling.
+ • Fig. 19.9 (Sea, Jonat, Chew et al., J Urol 2012) — pressure transients for struvite (magnesium ammonium
+   phosphate hexahydrate, MAPH) stones vs still water; 100-W Ho:YAG, 365-μm fibre. Peak ≈ 20 bar at 1 J, ≈30
+   bar at 2 J. Still water gives lower transients than a stone at the near boundary.
+ • Fig. 19.10 (Lee, Ryan, Teichman et al., J Urol 2003) — Ho:YAG (2.1 μm, 250 μs FWHM) single-pulse craters in
+   plaster-of-Paris phantoms, optical coherence tomography. Smaller fibre (272 μm): narrow, deep craters; larger
+   fibre (940 μm): wide, shallow craters. Higher pulse energy → larger crater volume.
+
+   IN PLAIN TERMS — THULIUM VERSUS HOLMIUM
+    • The thulium fibre laser wavelength is absorbed several times more strongly by water than holmium, so
+      it dumps its energy in a shorter distance. That favours fine dust.
+    • Thulium delivers its energy with lower peak power (a longer, gentler pulse), so each pulse kicks the
+      stone less: less retropulsion.
+    • Holmium gives a harder punch per pulse: more kick, and more fragmenting than dusting.
+    • Modern high-power holmium machines with pulse modulation have narrowed the gap, which is why
+      the two trials reached different conclusions.
+
+Thulium fibre laser (TFL)
+ • Diode-pumped fibre laser at 1.9 μm — more highly absorbed by water than Tm:YAG (2.0 μm) or Ho:YAG
+   (2.1 μm).
+ • Pulse range 50 μs to 20 ms; typical dosimetry 700–800 μs at low peak power — low peak power explains
+   its lower retropulsion.
+ • Fibre-laser architecture allows more pulse-parameter flexibility than multimode emitters — a potential
+   future advantage in pulse modulation.
+THE TWO DOMINANT LITHOTRIPSY LASERS: HO:YAG VS TFL
+                       Ho:YAG                                                        TFL
+ Wavelength            2.1 μm                                                        1.9 μm (1940 nm)
+ Water absorption High                                                               Higher
+ Platform              20 W → 120 W over 25 years; variable pulse durations; pulse   Wide pulse range; flexible
+                       modulation (two pulses with synchronised delay)               modulation potential
+
+
+
+                                                       page 12 of 33
+Chapter 19 — Energy Modalities in Urology                                                               ELECTROMAGNETIC WAVES
+
+                       Ho:YAG                                                                 TFL
+ Mechanism             Photothermal                                                           Photothermal
+ Fragments             Small                                                                  Smaller, faster fragmentation
+ (preclinical)
+ Retropulsion          Greater                                                                Less (preclinical and clinical)
+
+RANDOMISED CONTROLLED TRIALS (RCTS): TFL VS HO:YAG
+ Trial       Comparator                     Endpoints                   Verdict
+ First RCT Low-power (30 W)                 Stone-free rate (renal),    TFL superior: higher stone-free rate, shorter
+           Ho:YAG                           operative time, bleeding    operative time, less intracorporeal bleeding
+ Second      High-power (120 W)             Stone-free rate, subjective Stone-free rates equivalent regardless of location,
+ RCT         pulse-modulated                retropulsion, radiant       size or machine; TFL less subjective retropulsion;
+             Ho:YAG                         energy                      Ho:YAG used less radiant energy
+
+ • The trials disagree because the comparator differed: TFL beats low-power holmium, not modern high-
+   power pulse-modulated holmium.
+Single-wavelength principle
+ • One wavelength can produce every effect, depending on pulse duration:
+   1. Short pulse (<10 μs) → cavitation and shock waves.
+    2. Pulse of hundreds of μs → localised photothermal ablation.
+    3. Pulse >20 ms → photothermal ablation with collateral thermal damage.
+ • Landmark experiment, Jansen et al., 1996 (Ho:YAG in still water, no stone, high-speed imaging): 500 ns
+   (Q-switched): large spherical bubbles, single-locus collapse, strong pressure ripples; longer pulses: less
+   spherical, multi-locus collapse, fewer ripples; 260 μs: pear-shaped, asymmetric collapse, no ripples.
+ • Some Ho:YAG, TFL and Tm:YAG platforms deliver pulses as short as 50 μs, where both mechanisms occur
+   simultaneously.
+ • The laser–stone interaction mechanism depends on the dosimetry settings, not merely on the platform.
+
+Safety Issues
+
+   IN PLAIN TERMS — HEAT AND RETROPULSION AT THE BEDSIDE
+    • Heat: laser energy that does not enter the stone heats the irrigation fluid. A calyx is a small, nearly
+      closed space, so high power with poor outflow turns it into a kettle, hot enough to injure urothelium.
+    • The remedies all follow from that picture: lower power, pauses, more inflow, an access sheath for
+      outflow, and the fibre on the stone.
+    • Retropulsion is the stone being kicked away by each pulse. The size of each kick is set by the energy
+      per pulse, not by how many pulses per second.
+    • This is why "dusting" uses low energy at high frequency, and "fragmenting" uses high energy at low
+      frequency and accepts more kick.
+
+Heat generation
+ • High-power platforms put more energy into the collecting system per unit time; because mid-infrared is
+   water-absorbed, irrigant in the ureter or calyx can reach cytotoxic temperatures.
+ • Strategies to limit dangerous heat: relatively low power settings; frequent duty-cycle breaks; increased
+   flow (hand irrigation devices, pressure bags, small-diameter fibres to free the working channel); ureteral
+   access sheath for outflow drainage; fibre tip kept close to the stone (photons into the stone mean faster
+   lithotripsy; photons into water mean more total energy is needed).
+
+
+                                                            page 13 of 33
+Chapter 19 — Energy Modalities in Urology                                                          ELECTROMAGNETIC WAVES
+ • Ho:YAG and TFL can injure urothelium directly if misdirected into soft tissue.
+Retropulsion
+ • Stones are free-floating; displacement forces the surgeon to chase them and adds operative time.
+DETERMINANTS OF RETROPULSION
+ Parameter                                                                      Effect on retropulsion
+ ↑ Pulse energy                                                                 ↑ Retropulsion
+ ↑ Pulse frequency (at low pulse energy)                                        No increase
+ ↑ Pulse duration / ↓ peak power                                                ↓ Retropulsion
+
+Concept — pulse duration, not wavelength, decides the mechanism. Short pulses confine stress and break
+stones mechanically with high-pressure bubbles; long pulses cannot confine stress and ablate thermally
+through a vapour channel. Every clinical difference between lasers — fragment size, retropulsion, the value of
+fibre angle, the heat risk — follows from which side of that line the pulse falls.
+
+Lasers for Soft Tissue
+Uses
+ • Endoscopic management of urothelial carcinoma; benign prostatic hyperplasia (BPH); external treatment
+   of genital warts and penile carcinoma in situ.
+
+   IN PLAIN TERMS — PENETRATION DEPTH IN SOFT TISSUE
+    • Optical penetration depth is how deep light gets before it is absorbed.
+    • Very shallow penetration (thulium fibre laser) concentrates all the energy in a thin layer, which
+      vaporises and chars (turns black).
+    • Deeper penetration (Nd:YAG) spreads gentler heating through a thick layer, which coagulates deeply
+      but risks delayed sloughing of tissue.
+    • Scatter is light bouncing around inside tissue like headlights in fog. It spreads the energy sideways and
+      reduces how deep it goes.
+    • Fluence is simply the energy delivered per unit area of tissue.
+
+TISSUE OPTICAL PROPERTIES AND LASER CONFINEMENT
+ Tissue property                     Effect
+ Strong scatter                      Less absorption at depth; penetration attenuates steeply
+ Weak scatter                        Penetration limited by absorption or beam diffraction
+ High absorption + low scatter       High spatial confinement
+ Low absorption + high scatter       Large penetrated volume, low fluence
+ Wide beam (same power)              Lower fluence at a given depth than a narrow beam
+ Pigmentation                        Pigments preferentially absorb certain wavelengths and draw energy to themselves
+
+ • The absorption coefficient measures chromophore absorption; higher absorption → thermal change →
+   vaporisation or coagulation. It varies with wavelength and so shapes the fluence distribution.
+ • Optical penetration in water: Ho:YAG 0.31 mm vs TFL 0.08 mm. Penetration is non-linear: at 1 mm,
+   Ho:YAG retains a few percent of its energy; TFL retains essentially none — true in tissue too, because of
+   its high water content.
+Porcine incision studies
+ • Zones from centre outward: vaporisation → carbonisation → irreversible damage → reversible damage.
+
+
+
+                                                        page 14 of 33
+Chapter 19 — Energy Modalities in Urology                                                         ELECTROMAGNETIC WAVES
+SOFT-TISSUE INCISION CHARACTERISTICS BY LASER
+ Comparison         Incision depth          Carbonisation                                Coagulation / area
+ Ho:YAG vs TFL      Ho:YAG deeper at        Ho:YAG none; TFL consistent carbonisation    Coagulation zones not
+                    most settings           (matches clinical charring with TFL)         significantly different
+ Ho:YAG vs          Ho:YAG deeper           —                                            Tm:YAG greater total lased
+ Tm:YAG                                                                                  and coagulation areas
+
+ • Commonest endoscopic soft-tissue lasers: Ho:YAG, Tm:YAG, KTP/lithium triborate (LBO), TFL — used for
+   dissection or ablation.
+ • Absolute depths depend on the experimental setup, but trends follow laser physics.
+TABLE 19.2 COMMON LASERS USED FOR SOFT TISSUE IN UROLOGY AND THEIR CHARACTERISTICS
+ Laser             Wavelength (nm)          Optical penetration (mm)       Output
+ KTP/LBO           532                      0.8                            Continuous or quasi-continuous
+ Nd:YAG            1064                     10                             Continuous or quasi-continuous
+ TFL               1940                     0.08                           Pulsed
+ Tm:YAG            2000                     0.2                            Continuous (pulsed versions also exist)
+ Ho:YAG            2100                     0.31                           Pulsed
+ Diode (text)      940–1490                 0.5–5                          —
+
+ • What the table is for: penetration depth predicts behaviour — deep (Nd:YAG) means coagulation at
+   depth with a risk of delayed necrosis; very shallow (TFL, Tm:YAG) means precise vaporisation with char;
+   intermediate (KTP/LBO, Ho:YAG) sits between.
+ • The pattern: water-absorbed mid-infrared lasers penetrate least; near-infrared Nd:YAG, absorbed
+   strongly by neither water nor haemoglobin, penetrates most.
+ • The trap: penetration is not monotonic with wavelength — KTP at 532 nm is shallow because of
+   haemoglobin absorption, not because of its wavelength per se.
+
+   IN PLAIN TERMS — WHY GREEN LIGHT FOR THE PROSTATE
+    • An object looks red because it absorbs green light and reflects red. Blood and a vascular prostate
+      therefore absorb green light avidly.
+    • GreenLight energy is deposited exactly where the blood is, vaporising tissue while sealing vessels,
+      which is why it can be used in patients who continue anticoagulation.
+    • "Side-firing" means the fibre tip deflects the beam at an angle, so it strikes the prostate wall beside the
+      fibre rather than straight ahead.
+
+KTP/LBO side-firing ("GreenLight") laser
+ • Development: 1990s 60 W → 80 W (popularised internationally; an Nd:YAG beam frequency-doubled
+   through a KTP crystal → 532 nm) → 120 W and 180 W (LBO crystal instead of KTP, same 70° side-firing
+   delivery). All are pulsed, solid-state lasers.
+ • 532 nm (green) is preferentially absorbed by haem; green's complementary colour is red, so absorption
+   is high in well-vascularised red tissue such as prostate.
+ • Optical penetration 0.8 mm, but tissue effect 1–3 mm. Mechanism: photothermal vaporisation of
+   intracellular water (photovaporisation).
+ • Haemostasis permits photovaporisation without interrupting anticoagulation.
+
+
+
+
+                                                         page 15 of 33
+Chapter 19 — Energy Modalities in Urology                                                      ELECTROMAGNETIC WAVES
+ • Dosimetry (in vitro): vaporisation and coagulation depth increase with power up to 180 W; 200 W gives
+   no significant further gain. Best ablation volume per time at 4 mm/s sweep speed and ≤2 mm working
+   distance. Clinically, 180 W shortens operating time vs 120 W.
+
+   IN PLAIN TERMS — PHOTODYNAMIC THERAPY
+    • A light-sensitive drug is given; it sits harmlessly in tissue, concentrating in tumour, until light of the right
+      colour switches it on.
+    • Once activated, it produces a highly reactive form of oxygen that damages the cells around it. No heat
+      and no cutting: the light acts as a trigger, not as a tool.
+
+Photochemical interaction and photodynamic therapy
+ • A third laser mechanism, after photomechanical and photothermal: light catalyses a chemical reaction in
+   tissue.
+ • Photodynamic therapy: photosensitising dye → accumulates in target tissue → activated by a specific
+   wavelength → singlet oxygen → reacts with nearby biomolecules.
+ • Used for urothelial cancer: a large tumour volume can be treated with a single intravesical light
+   application.
+
+ KEY POINTS
+   • Pulse duration is the key lithotripsy parameter.
+   • Ultrashort (<500 ns) → plasma. Short (>500 ns, <10 μs) → cavitation and shock waves. Long (>250 μs)
+     → photothermal ablation (direct photon absorption).
+   • Lasers generate heat, with risk of operative injury.
+   • Retropulsion rises with pulse energy and falls with longer pulse duration.
+   • Soft-tissue ablation depends on fluence in tissue and on the wavelength's scatter and absorption in
+     that tissue.
+
+Concept — in soft tissue the question is not what the laser can do but where its energy stops. Absorption and
+scatter by water and haemoglobin fix the penetration depth, and penetration depth fixes the balance of
+vaporisation, carbonisation and coagulation.
+
+Electrical Energy
+   IN PLAIN TERMS — ELECTRICITY FROM FIRST PRINCIPLES
+    • Electric current is a flow of charged particles: electrons in wires, and ions (sodium, potassium, chloride)
+      in tissue and body fluids.
+    • Voltage is the push driving the flow. Resistance is how hard it is to push through.
+    • With a garden hose: voltage is tap pressure, current is water flow, and resistance is how narrow or long
+      the hose is.
+    • When current is forced through resistance, energy is released as heat. That is how a toaster element
+      glows, and it is the whole of electrosurgery: the patient's tissue is the resistance, so the tissue
+      becomes the toaster element.
+    • Direct current flows one way (a battery). Alternating current reverses direction many times per second:
+      mains supply in India reverses 50 times per second; an electrosurgical generator reverses about
+      500,000 times per second.
+    • Impedance is simply the name for resistance when the current is alternating.
+
+
+
+                                                    page 16 of 33
+Chapter 19 — Energy Modalities in Urology                                                              ELECTROMAGNETIC WAVES
+Basics
+ • Electrosurgery is ubiquitous and its principles are often learned empirically; understanding the physics
+   prevents misadventure.
+ • Ohm's law (Equation 2): V = I × R (voltage = current × resistance). Resistance ∝ resistivity × length, and ∝
+   1/cross-sectional area.
+ • Water-pipe analogy: voltage ≈ water pressure; current ≈ volumetric flow; resistance ≈ viscosity, pipe
+   length and inverse cross-section.
+DIRECT VS ALTERNATING CURRENT
+ Direct current (DC)                  Alternating current (AC)
+ Constant, one-direction              Oscillating, sinusoidal; used for efficient long-distance delivery
+ electron flow
+ Opposition to flow =                 Opposition to flow = impedance (Z): a complex number with amplitude and phase,
+ resistance                           both frequency-dependent
+ —                                    Frequency = number of direction reversals per second (Hz); average voltage is less
+                                      than peak voltage
+
+Electrosurgery
+
+   IN PLAIN TERMS — WHY SURGICAL CURRENT DOES NOT ELECTROCUTE THE PATIENT
+     • At mains frequency (50 Hz) each push of current lasts long enough to fire nerves and muscles. That is
+       why a mains shock causes spasm and cardiac arrest.
+     • At about 500,000 Hz the current reverses so fast that nerve and muscle membranes cannot respond.
+       The ions simply jiggle back and forth, and that jiggling becomes heat.
+     • This is what makes it possible to pass a surgical current through a patient safely.
+     • The obturator jerk during TURBT is the exception: the nerve lies just outside the lateral bladder wall
+       and can still be stimulated. Arcing at the loop is thought to generate lower-frequency components that
+       nerves can respond to.
+
+FREQUENCY AND TISSUE EFFECT
+ Low frequency                      High frequency (radiofrequency)
+ Cell membrane                      Oscillation too rapid to depolarise → little or no contraction; tissue at the active
+ depolarisation → muscle            electrode acts as a resistive impedance → ionic excitation → heating, desiccation,
+ contraction                        cellular damage, haemostasis
+
+ • Electrosurgical frequency ≈ 500 kHz, in the radiofrequency range — hence "radiofrequency generator".
+ • History: William T. Bovie (PhD in plant physiology). First human use 1926, with Harvey Cushing, on a
+   previously inoperable vascular parietal tumour; patent 1931, sold for $1; Bovie died impoverished.
+
+   IN PLAIN TERMS — CURRENT DENSITY: STILETTO HEEL VERSUS ELEPHANT FOOT
+     • A woman in stiletto heels can dent a wooden floor that an elephant's broad foot would not, because
+       her weight is concentrated on a tiny area. Electric current behaves the same way.
+     • At the small active tip the current is crowded into a tiny area, so the heat is intense.
+     • At the large dispersive pad the same current is spread over a big area, so the heat is negligible.
+     • If the pad peels partly off, the contact area shrinks, the pad effectively becomes a second "tip", and the
+       patient is burned under the pad.
+
+
+
+
+                                                           page 17 of 33
+Chapter 19 — Energy Modalities in Urology                                                              ELECTROMAGNETIC WAVES
+Monopolar electrosurgery
+ • Circuit: radiofrequency generator → active electrode (Bovie tip) → patient's tissue → dispersive pad
+   (return electrode) → generator.
+ • Current is constant around the circuit; current density decides the effect: small tip area → high current
+   density → local heating (the tip stays cooler than the tissue, which absorbs the heat); large pad area →
+   low current density → no heating.
+ • Pad must be fully adherent: partial adherence → smaller contact area → higher current density → skin
+   burn. Inspect the pad site post-operatively; many units detect inadequate pad contact and block
+   activation.
+Cutting, coagulation and blended settings
+
+   IN PLAIN TERMS — CUT, COAGULATE, SPRAY, BLEND
+    • Cut (continuous current): heats cells so fast that the water inside them flash-boils and the cells burst.
+      The result is a clean split with little charring, like a very hot knife.
+    • Coagulate (short bursts at higher voltage, off most of the time): heat builds slowly and spreads during
+      the pauses, so cells cook and dry out rather than burst, as egg white turns solid. This seals vessels and
+      spreads deeper.
+    • As the tissue dries it conducts less, so coagulation naturally limits itself.
+    • Spray (fulguration): voltage high enough for sparks to jump the air gap, like small lightning. It chars a
+      surface without touching it and is useful for a diffusely oozing bed.
+    • Blend is a mixture: cutting with some coagulation.
+
+ELECTROSURGICAL WAVEFORMS: CUT, COAGULATION, SPRAY, BLEND
+ Setting           Waveform                 Voltage / current         Tissue effect
+ Cut               Continuous sinusoid Lower voltage,                 Rapid heating to boiling → clean vaporisation, little
+                                       higher current;                char
+                                       typically 50–80 W
+ Coagulation       Interrupted ~30,000      Higher voltage,           Tissue cools in off-cycles, heat conducts deeper →
+ (contact)         times/s; ~6% duty        lower current             thermal denaturation below boiling →
+                   cycle                                              electrodesiccation → rising impedance self-limits
+                                                                      current; spread up to 3 mm
+ Spray             Interrupted              Higher still              Voltage ionises the air gap (spark gap) → non-contact
+ fulguration                                                          thermal delivery
+ Blend             Cut waveform as          Intermediate              Cutting with enhanced coagulation
+                   base, with
+                   interruptions
+
+Generator settings
+ • Most generators let the surgeon choose wattage for cut and coagulation, with preset waveforms; on
+   many, "cut" is actually a blend with adjustable interruptions.
+ • Recommended: cut 50–80 W; coagulation 30–50 W.
+
+   IN PLAIN TERMS — WHERE THE CURRENT GOES
+    • Monopolar: the current travels through the whole patient from tip to pad, so there are many possible
+      stray paths.
+    • Bipolar: the current travels only between the two jaws through the tissue held between them. It is
+      confined and needs less power.
+
+
+
+                                                           page 18 of 33
+Chapter 19 — Energy Modalities in Urology                                                        ELECTROMAGNETIC WAVES
+    • Electrocautery is a heated wire, like a soldering iron. The current heats the wire and never enters the
+      patient.
+
+Bipolar electrosurgery and electrocautery
+MONOPOLAR VS BIPOLAR ELECTROSURGERY VS ELECTROCAUTERY
+                  Monopolar electrosurgery         Bipolar electrosurgery             Electrocautery
+ Electrodes       Small active electrode + large   Two electrodes of about equal      Heated metal implement (often
+                  distant dispersive pad           size, both grasping tissue         a loop)
+ Patient in       Yes, whole path to the pad       Yes, only tissue between the       No
+ circuit?                                          jaws
+ Heat arises      Tissue at the tip (current       Tissue between both electrodes     The implement itself, which then
+                  density)                                                            heats tissue
+ Power            Higher                           Lower → less collateral damage,    Low; battery handheld devices,
+                                                   controlled field                   mostly ambulatory clinics
+ Safety profile Pad burns, current leaks,          Can complete the circuit with no   Limited: hot tip, maintenance,
+                capacitive coupling                tissue if the tines touch          battery storage
+
+ • The operating-room "Bovie" is correctly an electrosurgical unit, not an electrocautery.
+Electrosurgical devices
+ • Mostly bipolar jaws combining electric current with mechanical compression for haemostasis; a "tissue
+   response generator" adjusts output as clamped tissue desiccates and its conductivity changes.
+ • Current flows only between the jaws, with no dispersive pad; open and laparoscopic handpieces exist.
+ • LigaSure (Medtronic): open and robotic prostatectomy (pedicle sealing) and cystectomy; claimed
+   advantages in operative time and positive margin rate; cost limits use.
+
+Safety Issues in Electrosurgery
+ • Injury is rare and largely preventable.
+Surgical fire
+ • Requires flammable material + electrosurgical ignition: drapes, preparation solutions, oxygen-rich
+   anaesthetic gas. Ignition by inadvertent activation or direct coupling to a nearby metal instrument.
+ • Electrosurgery is implicated in the majority of operating-room fires, which most often involve the head
+   and upper torso, usually with supplemental oxygen.
+Current leaks and the dispersive pad
+ • Insulation failure lets the circuit contact metal, water, the patient or the surgeon.
+ • The dispersive pad is a common injury site — technically a "dispersive electrode". Avoid bony
+   prominences, scars, dense hair, implants, pacemakers, and breast or orthopaedic implants.
+ • Orthopaedic prostheses are not a contraindication: place the pad away from the implant, e.g.
+   contralateral to a hip prosthesis. Remove metal jewellery; if impossible, never place the pad over it.
+Inadvertent activation
+ • Leaning on the hand-switch or stepping on the foot pedal. Keep spatial awareness of the devices; holster
+   active electrodes when not in use.
+
+   IN PLAIN TERMS — ELECTRICITY THAT JUMPS THROUGH INSULATION
+    • Alternating current can induce a current in a nearby metal object without touching it, passing through
+      the insulation between them.
+
+
+
+
+                                                      page 19 of 33
+Chapter 19 — Energy Modalities in Urology                                                            ELECTROMAGNETIC WAVES
+    • Cords wrapped together, or wrapped around metal instruments, set this up, and current can appear
+      where no one expects it.
+
+Capacitive coupling
+ • A capacitor = two conductors separated by an insulator; if the charge difference exceeds the insulator's
+   capacity, current jumps across.
+ • Examples: monopolar and bipolar cords wrapped together; cords wrapped around metal instruments.
+   Active electrode monitoring systems detect insulation failure and capacitive coupling.
+Surgeon injury and personnel responsibilities
+ • Surgical gloves have low electrical resistance; high voltage penetrates weakened or damaged gloves. Use
+   the lowest current that achieves the effect.
+ • Perioperative personnel: equipment in date and maintained; jewellery removed; checklist for implants,
+   prostheses and implantable cardiac devices.
+
+Endoscopic Use of Electrosurgery
+ • Main uses: transurethral resection of the prostate (TURP) and transurethral resection of bladder tumour
+   (TURBT), each available in monopolar and bipolar versions.
+
+   IN PLAIN TERMS — WHY GLYCINE, WHY SALINE
+    • Monopolar resection needs the current to leave the loop, pass through the prostate and travel to the
+      pad. If the irrigant were saline (full of sodium and chloride ions, a good conductor), the current would
+      leak away through the fluid instead of cutting, like trying to cut under seawater. Hence a non-
+      conducting fluid such as glycine.
+    • The price: glycine absorbed into the circulation dilutes blood sodium (the transurethral resection
+      syndrome). This is why resection time is limited, especially in vascular glands.
+    • Bipolar resection deliberately uses saline, because the current only needs to pass from the loop
+      through the fluid to a return electrode on the same instrument.
+
+MONOPOLAR VS BIPOLAR TRANSURETHRAL RESECTION
+                    Monopolar TURP/TURBT                  Bipolar TURP/TURBT
+ Circuit            Loop → patient → dispersive pad       Completed within the instrument; one common North
+                    → generator                           American design energises the surrounding saline into a
+                                                          plasma layer, so the patient is not in the circuit (technically
+                                                          closer to electrocautery)
+ Irrigant           Ion-free: glycine (typically 1.5%,    Isotonic saline
+                    North America and UK), sorbitol–
+                    mannitol (continental Europe)
+ Hyponatraemia Increased (absorptive); limit              Reduced
+               resection time, especially in
+               vascular glands
+ Efficacy / safety Reference                              Comparable efficacy, favourable safety (moderate-quality
+                                                          evidence, short follow-up)
+ Obturator          Risk                                  Thought to be reduced; bladder perforation data conflicting
+ reflex
+
+
+
+
+                                                         page 20 of 33
+Chapter 19 — Energy Modalities in Urology                                                        ELECTROMAGNETIC WAVES
+
+                    Monopolar TURP/TURBT                Bipolar TURP/TURBT
+ Typical settings   Cut 180 W; coagulation 80–120 W     —
+
+ • Why monopolar irrigant must be ion-free: ions disperse current away from the loop and reduce its
+   effect, so normal saline cannot be used; the irrigant must also be relatively inert, non-toxic and
+   transparent.
+ • Sheath insulation: the loop is insulated except at its tip; damaged insulation lets current pass through the
+   metal sheath → loss of cutting effect or urethral injury. Inspect loop insulation before mounting it on
+   the bridge.
+Obturator reflex
+ • Risk greatest at the lateral bladder wall: current stimulates the obturator nerve → sudden leg adduction
+   → bladder perforation, under general or spinal anaesthesia.
+ • Prevention: neuromuscular blockade — depolarising (succinylcholine) or non-depolarising (rocuronium)
+   — with timing coordinated with the anaesthetist, especially with short-acting agents; selective obturator
+   nerve block; avoid overfilling the bladder; intermittent activation; bipolar resection.
+
+   IN PLAIN TERMS — EMDA
+    • An electric field across the bladder wall drives charged drug molecules into the tissue, rather than
+      waiting for them to soak in.
+    • It also makes cell membranes temporarily more permeable.
+
+Electromotive drug administration (EMDA)
+ • Enhances intravesical mitomycin C (MMC) penetration into the lamina propria, otherwise poor.
+   Mechanisms: electroporation, iontophoresis, electro-osmosis/electrophoresis.
+ • Set-up: drug instilled → active electrode in the bladder + dispersive pads on the abdomen → electric
+   field → higher tissue drug concentration.
+EMDA: EVIDENCE
+ Source             Finding
+ RCT                EMDA-MMC + bacille Calmette-Guérin (BCG) vs BCG alone: improved recurrence-free and
+                    progression-free survival
+ Meta-analysis      Recurrence-free survival improved; progression-free survival not improved; side-effect profile
+                    favourable in some domains
+ Cochrane           Evidence low or very low quality; magnitude of benefit uncertain
+ review
+
+   IN PLAIN TERMS — MICROWAVE, RADIOFREQUENCY, HEAT SINK AND CHEMOHYPERTHERMIA
+    • Microwave ablation works like a microwave oven: the field makes water molecules flip back and forth
+      billions of times per second, and that motion becomes heat inside the tissue.
+    • Radiofrequency ablation passes current from the probe into the surrounding tissue, which heats as a
+      toaster element does. The probe itself does not heat; the tissue does.
+    • If the tissue chars, the charcoal stops conducting, current stops flowing, and ablation is incomplete.
+      That is why 150 °C is undesirable.
+    • Heat sink: flowing blood carries heat away, as coolant carries heat from a car engine. A tumour next to
+      a large vessel is harder to "cook". Microwave energy heats faster and wider and so is less defeated by
+      this.
+
+
+
+
+                                                       page 21 of 33
+Chapter 19 — Energy Modalities in Urology                                                           ELECTROMAGNETIC WAVES
+    • Chemohyperthermia: gently warming the bladder wall to about 42 °C makes cell membranes leakier, so
+      more mitomycin enters. Cancer cells also tolerate heat worse than normal cells.
+
+Microwave thermotherapy (soft tissue)
+ • Microwave ablation (MWA). Mechanism: dielectric hysteresis — molecules repeatedly realign with the
+   oscillating electric field → rotational and vibrational kinetic energy → heat.
+ • Frequencies 915 MHz or 2.45 GHz: generator → coaxial line → antenna(e) placed directly in the tumour.
+   The shaft heats, so a cooling system protects the tract.
+ • Urology: alternative to radiofrequency ablation (RFA) for renal tumours. Heat sink: the highly perfused
+   kidney carries heat away; MWA reaches larger zones and higher temperatures than RFA and is less
+   susceptible to heat sink.
+ • Early animal concerns — collecting-system absorption and inconsistent zones — but safety and primary
+   efficacy are comparable to RFA.
+Radiofrequency in urology
+ • AC at 375–900 kHz; the probe sits at the centre of the lesion. The probe does not generate heat; Joule
+   heating arises in the tissue from ionic excitation and conducts outward spherically.
+ • Target 60 °C for reliable cell death; at 150 °C, carbonisation creates high impedance and non-uniform
+   heating. Temperature probes monitor the time–temperature plan.
+ • Small renal masses: RFA is less common than cryoablation in the United States, more common in
+   Germany; oncological outcomes are equivalent to cryoablation.
+ • Chemohyperthermia for non–muscle-invasive bladder cancer (NMIBC) — device-assisted intravesical
+   therapy like EMDA. Intravesical mitomycin is given while the bladder wall is heated to 42 °C: increased
+   cell permeability → more drug absorption; cancer cells are more heat-sensitive; heat-shock protein
+   release may potentiate mitomycin.
+ • Synergo (Medical Enterprises Group, Amsterdam) is the commonest system: a Foley-type catheter with a
+   915-MHz emitter and thermocouples.
+DEVICE-ASSISTED INTRAVESICAL THERAPY: EMDA VS CHEMOHYPERTHERMIA
+                EMDA                                             Chemohyperthermia
+ Energy         Electric field (electrode in bladder, pads on    Microwave-band energy (915 MHz) via catheter
+                abdomen)
+ Mechanism Electroporation, iontophoresis, electro-              42 °C heating → permeability, heat sensitivity, heat-
+           osmosis                                               shock proteins
+ Drug           Mitomycin C                                      Mitomycin C
+ Indication     NMIBC                                            NMIBC
+
+RENAL-MASS THERMAL ABLATION: RFA VS MWA VS CRYOABLATION
+               RFA                                  MWA                                  Cryoablation
+ Energy        AC 375–900 kHz; Joule heating in 915 MHz / 2.45 GHz; dielectric           Joule–Thomson gas expansion
+               tissue                           hysteresis                               (argon)
+ Target        60 °C; avoid 150 °C char             Higher temperatures, larger zones    <−40 °C, two freeze–thaw cycles
+ Heat sink     Susceptible                          Less susceptible                     —
+ Monitoring Temperature probes                      —                                    Visible ice ball on imaging
+ Outcomes      Equivalent to cryoablation           Comparable to RFA                    Commonest in the United States
+
+
+
+
+                                                         page 22 of 33
+Chapter 19 — Energy Modalities in Urology                                                                  ELASTIC WAVES
+
+ KEY POINTS
+   • Monopolar circuit: generator → active electrode → patient → dispersive pad → generator.
+   • Unintentional current leaks injure patient, surgeon or staff; the dispersive pad is a common site.
+   • Monopolar TURP/TURBT irrigant must be ion-free.
+   • Ion-free irrigants carry increased hyponatraemia risk.
+   • Lateral-wall TURBT risks obturator stimulation → adduction → bladder perforation.
+
+Concept — current density is the whole of electrosurgery: the same current burns where the contact area is
+small (the tip) and is harmless where it is large (a well-applied pad), and every pad burn, bipolar advantage
+and insulation failure is a failure or exploitation of that ratio. The waveform, not the power, then chooses
+between cutting and coagulation: continuous heating vaporises, interrupted heating denatures.
+
+ELASTIC WAVES
+   IN PLAIN TERMS — SOUND VERSUS LIGHT FOR TREATMENT
+    • Light is absorbed within millimetres in water and tissue, so a laser must be taken to the target on a
+      fibre.
+    • Sound travels centimetres through tissue with little loss, so it can be sent in through intact skin and
+      focused deep inside: shock wave lithotripsy and HIFU need no incision.
+
+ACOUSTIC VS LASER ENERGY
+ Acoustic (elastic)                                                  Laser (EM)
+ Greater radiation force for the same energy                         Lower radiation force
+ Lower intensity / energy density at the source                      Higher intensity
+ Deeper tissue penetration                                           Short absorption depth (water, tissue, stone)
+ Needs a large source at the skin to focus energy at depth           Delivered by fibre to the target
+
+Applications
+ • Lithotripsy of calcifications: shock wave lithotripsy (SWL); shock wave therapy (SWT); burst wave
+   lithotripsy (BWL, investigational); ultrasonic propulsion (investigational); intracorporeal acoustic and
+   pneumatic lithotripters.
+ • Tissue ablation: thermal high-intensity focused ultrasound (HIFU); mechanical histotripsy
+   (investigational).
+ • Therapeutic vs diagnostic acoustics: therapy uses longer durations (for heating) and/or greater positive
+   or negative pressures (to crack brittle material or cavitate fluid); source usually at the skin, target
+   centimetres deep, sometimes via a catheter-like probe.
+Advantages of acoustics and coupling
+ • (1) The same energy both images and treats. (2) Transcutaneous treatment of a millimetre- to
+   centimetre-sized region deep in the body.
+ • The source is coupled by water or gel, because air–tissue impedance mismatch prevents transmission.
+   Intracorporeally, the source is miniaturised or the wave runs down a waveguide, coupled by urine or
+   direct stone contact.
+
+
+
+
+                                                     page 23 of 33
+Chapter 19 — Energy Modalities in Urology                                                                  ELASTIC WAVES
+
+   IN PLAIN TERMS — HOW A LITHOTRIPTER MAKES ITS BANG
+    • A transducer converts one form of energy into another. A loudspeaker turns electricity into sound; a
+      microphone turns sound into electricity; an ultrasound probe does both.
+    • Electrohydraulic: a spark in water, like an underwater firecracker.
+    • Electromagnetic: a coil pushes a metal membrane, like a very powerful loudspeaker cone.
+    • Pneumatic: one part strikes another, a miniature jackhammer.
+    • Piezoelectric: special crystals that change thickness when a voltage is applied (and make a voltage
+      when squeezed, the spark in a gas lighter). Many crystals together push the water.
+    • Focusing with a curved reflector or lens works like a satellite dish gathering signal to one point.
+
+Transducers
+ • A transducer converts energy from one form to another (here electrical → mechanical).
+ACOUSTIC TRANSDUCER TYPES
+ Type                Mechanism                                Focusing                       Signal
+ Electrohydraulic Underwater spark vaporises water →          Ellipsoidal reflector          Impulse
+                  spherical wave; abrupt expansion
+                  creates a shock at the source
+ Electromagnetic Impulse through a coil pushes a thin         Lens or parabolic reflector;   Broadband impulse
+                 plate (membrane) against the                 shock forms during
+                 coupling fluid                               propagation to the focus
+ Pneumatic           One part impacts another                 Waveguide (rigid tapered       Impulse
+                                                              catheter) delivers energy
+                                                              directly into the stone
+ Piezoelectric       Poled ceramic; compression →             Bowl shape or lens (focus at   Only type producing both
+                     voltage; applied oscillating voltage →   centre of curvature), or       long narrowband bursts
+                     thickness vibration                      waveguide                      and impulses
+
+Piezoceramic details
+ • Most efficient at the frequency whose half-wavelength fits the element's thickness; a matching network
+   matches transducer and source impedance.
+ • Primary limitation: lower frequency → thicker element → higher voltage and larger lateral dimensions →
+   larger source; if thickness approaches width or length, parasitic vibration modes reduce efficiency; excess
+   voltage cracks the element.
+ • Waveguide works like a reverse trumpet: it concentrates energy from horn to mouthpiece but filters
+   broadband input to a few primary tones.
+ • Typical focus: <1 cm transverse, a few cm axial. Treating a larger region at millimetre-scale distance with
+   one beam requires frequencies <1 MHz.
+ • Phased arrays: multi-element ceramics allow electronic beam steering without moving the source, but
+   are more complex and expensive; most sources are single-element.
+Figure legend
+  • Fig. 19.14 — Shock wave lithotripter designs: (A) electrohydraulic — spark at one focus of an ellipsoidal
+    reflector; the reflected half converges on the second focus, placed on the stone by fluoroscopy; (B)
+    electromagnetic — cylindrical source radiating laterally into a parabolic reflector (other designs use a spherical
+    source or lens); (C) piezoelectric — roughly spherical array focused at the centre of curvature on the stone.
+
+
+
+
+                                                        page 24 of 33
+Chapter 19 — Energy Modalities in Urology                                                                 ELASTIC WAVES
+
+   IN PLAIN TERMS — HEAT VERSUS BUBBLES
+    • Higher frequency: the tissue absorbs more of the wave, so there is more heating (and shallower reach).
+    • Lower frequency: each pulling (negative-pressure) phase lasts longer, giving bubbles more time to
+      grow, so there is more cavitation.
+    • This single asymmetry explains why heating devices and bubble-making devices choose different
+      frequencies.
+    • "Threshold effect": cavitation does not build up gradually. Below a certain negative pressure nothing
+      happens; above it, bubbles form.
+    • The twinkling artefact you see behind stones on Doppler comes from tiny bubbles on the stone
+      surface.
+
+Acoustic interaction with tissue
+ • Mechanisms: heating, cavitation (bubble activity), mechanical stress, radiation force, and possibly
+   undetermined non-thermal processes.
+ • Heating: absorption along the path → local heat; focusing raises amplitude, so bioeffects concentrate at
+   the focus by design. Example: transrectal focusing into the prostate necrotises tumour while sparing the
+   rectal wall; the focus can be moved to successive targets and necrosed tissue is resorbed. Heat can also
+   seal vessels (ischaemic kill) or permit bloodless resection. Propagation and absorption are calculable, so
+   injury is predictable and targetable.
+ • Frequency trade-off: too high a frequency → absorbed before the focus. Nonlinear shocks forming only
+   near the focus carry high-frequency components → dramatically increased local heating.
+ • Boiling histotripsy: shock-enhanced heating → ~100-μm focus boils within milliseconds → millimetre
+   vapour bubble → field shakes surrounding tissue → mechanical shredding to submicron particles →
+   tissue flows into the bubble and atomises. Mechanical liquefaction, not thermal necrosis.
+ • Cavitation and gas-body activation are driven by the negative pressure amplitude: cavitation lowers
+   pressure; boiling raises temperature. Therapeutic negative pressures (MPa order) exceed 10×
+   atmospheric (0.1 MPa); the tensile stress tears the medium into a rapidly expanding bubble.
+ • Nucleation sites: interfaces, particles (stone surfaces, debris), pre-existing gas. Microbubbles on stones
+   cause the twinkling artefact; lung and bowel gas make these organs vulnerable. No SWL within 24 hours
+   of microbubble ultrasound contrast.
+ • Cavitation injury: the bubble or cloud grows during one negative phase and stretches and tears tissue;
+   cloud-cavitation histotripsy liquefies tissue. Near solid surfaces, collapse re-radiates shock waves and
+   fluid jets through the collapsing bubble strike and crack the surface.
+HEATING VS CAVITATION — THE GOVERNING ASYMMETRY
+ Heating                                    Cavitation
+ Increases with frequency (absorption)      Increases as frequency decreases (longer negative phase, longer tension)
+ Dose-dependent                             Threshold effect
+
+ • Secondary effects: vasoconstriction, ischaemia, extravasation, reperfusion injury — may exceed the
+   direct insult, harmful or beneficial. Sub-injurious shock waves cause protective renal vasoconstriction,
+   but too many shocks turn vasoconstriction and reperfusion into injury.
+
+   IN PLAIN TERMS — WHY STONES CRACK AND KIDNEYS SURVIVE
+    • Stones are brittle, like chalk or glass: they cannot stretch, so a strong pull cracks them.
+
+
+
+
+                                                         page 25 of 33
+Chapter 19 — Energy Modalities in Urology                                                              ELASTIC WAVES
+    • Tissue is elastic, like rubber: it stretches and springs back. Bend a stick of chalk and it snaps; bend a
+      rubber tube and it recovers.
+    • How the stone breaks: the shock travels faster through the stone than through the fluid around it.
+      Waves converge at the far side of the stone and pull it apart there, so the far end cracks off first. Each
+      further shock extends the cracks, as bending a paper clip repeatedly finally snaps it (fatigue).
+    • The beam must be wider than the stone, because part of the effect comes from the wave running
+      along the stone's outer surface.
+
+Physics of acoustic lithotripsy
+ • Focused shocks fracture the stone; repeated shocks progressively comminute it into passable fragments
+   — thousands of shocks over ~45–60 min.
+ • Primary advantage: non-invasive transcutaneous delivery; in the United States usually performed in a
+   surgical suite under sedation or general anaesthesia.
+ • Lowest morbidity and complication rate of the three lithotripsy techniques (SWL, ureteroscopy,
+   percutaneous nephrolithotomy), but SWL causes renal trauma, varying with device, kidney size and
+   protocol. Unpredictable effect; incomplete breakage → repeat procedures.
+ • Poor fragmentation predictors: hard compositions (calcium oxalate monohydrate, cystine, brushite);
+   Hounsfield density >1000.
+ • Fracture mechanism (beam must be larger than the stone): shock enters the stone (faster, higher sound
+   speed) → fluid wave along the surface generates shear waves, reinforced by the Mach wave → angled
+   shear waves converge on the axis at the distal end → incident wave reflects and inverts at the distal face
+   (spallation) → all tensile stresses meet → maximal tensile stress distally → first fracture where focused
+   shear and reflected longitudinal waves meet → cracks grow over successive shocks → distal end cleaves
+   off.
+ • Cavitation creates surface pits into which internal cracks grow by dynamic fatigue; surface stress is
+   smaller and localised but grinds fragments smaller. Once fragments approach the pulse length, internal
+   stresses no longer focus and surface cavitation continues grinding. Too much cavitation shields the
+   stone.
+ • Rate and shielding: faster delivery → larger cavitation cloud (bubbles lack time to dissolve; each growth–
+   collapse cycle transfers gas inward, increasing the void fraction) → the cloud shields the stone. Hence 2
+   Hz is less effective and more injurious than 1 Hz or 0.5 Hz.
+FIG. 19.15 HOW SWL BREAKS STONES (SAPOZHNIKOV, MAXWELL, MACCONAGHY, BAILEY, J ACOUST SOC
+AM 2007)
+ Time      Event
+ 0 μs      Positive pressure spike approaches the stone
+ 1 μs      Wave inside the stone outruns the fluid wave (higher sound speed)
+ 2 μs      Fluid wave along the surface → shear waves (tension, shown positive by convention)
+ 3 μs      Shear waves converge distally; incident wave races ahead
+ 4 μs      Reflection and inversion at the distal face → spallation wave travelling back
+ 5 μs      All tensile stresses meet → maximum tensile stress → crack initiation
+
+ • Most solids fail in tension. A beam narrower than the stone produces no surface wave, so a beam
+   broader than the stone is required.
+
+
+
+
+                                                       page 26 of 33
+Chapter 19 — Energy Modalities in Urology                                                               ELASTIC WAVES
+
+Specific Acoustic Devices and Applications
+ • Hard targets: SWL, SWT, BWL, intracorporeal lithotripsy, ultrasonic propulsion. Soft targets: calcifications
+   and soft tissue.
+ • Lithotripsy: extracorporeal SWL and BWL (investigational) and intracorporeal acoustic/pneumatic devices
+   fragment stones; ultrasonic propulsion repositions stones transcutaneously.
+
+   IN PLAIN TERMS — WHY SLOWER SHOCK WAVE LITHOTRIPSY WORKS BETTER
+    • Each shock leaves behind a cloud of tiny bubbles that needs about a second to dissolve.
+    • Fire too fast and the next shock hits that bubble cloud, which absorbs and scatters it as fog blocks
+      headlights. Less energy reaches the stone (poorer fragmentation), and the bubbles injure the kidney.
+    • Hence 60 shocks per minute or slower beats 120 per minute.
+    • Rectified diffusion: a bubble takes in more gas while it is large than it loses while it is small, so it grows
+      a little with every cycle.
+
+Shock wave lithotripsy
+ • A primary stone modality for over 40 years. Machine = shock source + table + fluoroscopy.
+ • Coupling: water bath (original) → shallow bath in the table → water-filled balloon with gel on skin
+   (most current). Air bubbles at the coupling interface reduce efficiency disproportionately: a small
+   fractional obstruction at the aperture substantially reduces peak focal pressure.
+ • Pulse: peak positive 30–120 MPa (300–1200 bar) with a steep shock front; positive phase ~1 μs; negative
+   phase ~5 μs; peak negative ~10 MPa; single cycle, broadband; centre frequency ~300 kHz (below
+   diagnostic ultrasound); pulse energy ~3 J; focal width millimetres to centimetres, length centimetres; focal
+   intensity >10,000 W/cm².
+ • ~2000 shocks at 0.5–3 Hz (30–180/min).
+ • Why stones break but tissue survives: stones are brittle and crack under tension and shear (as brick fails
+   in an earthquake); tissue is ductile, like building steel; energy is concentrated at the focus, where the
+   stone lies.
+ • Cavitation bubble life cycle: high-amplitude, long negative phase tears water (and nucleates at tissue
+   interfaces) → bubble grows by inertia long after the 5-μs pulse, to ~1 mm → water rushes in → collapse
+   smaller than original size → energy concentrates → gas/vapour halts collapse → rebound shock wave →
+   near a stone, asymmetric collapse drives a micro-jet into the stone → several rebound cycles → bubble
+   ends larger than it began (rectified diffusion: more gas enters while large and at low pressure than leaves
+   while small and compressed).
+ • A 1-μm bubble grows to ~30 μm after one pulse and needs ~1 s to dissolve. A next pulse before
+   dissolution re-excites bubbles → proliferating cavitation cluster → tissue injury and shielding. Slower
+   rate → bubbles dissolve → each pulse reaches the stone.
+ • Soft-tissue shock wave therapy (SWT): soft, fibrous or calcified tissue, e.g. Peyronie disease; presumed
+   cavitation or strain → minor injury → more pliable repair. Pneumatic and ballistic sources are marketed
+   for superficial soft tissue on the rationale of inflammation-driven healing (analogous to laser
+   dermatology); less well studied. Shock waves can also liquefy tissue like histotripsy, intentionally or
+   otherwise.
+
+   IN PLAIN TERMS — BURST WAVE LITHOTRIPSY
+    • Instead of one huge bang, burst wave lithotripsy sends a short hum of many gentler oscillations. The
+      stone vibrates, and the echoes inside it add up to break it.
+
+
+
+
+                                                    page 27 of 33
+Chapter 19 — Energy Modalities in Urology                                                              ELASTIC WAVES
+    • Because the pressure is lower, far fewer bubbles form. It can therefore fire faster, and it is gentle
+      enough to use without anaesthesia.
+    • Fragment size is set by the wavelength: a higher-pitched probe produces smaller fragments.
+
+Burst wave lithotripsy
+ • A small, diagnostic-ultrasound-sized system for clinic or emergency department use without
+   anaesthesia; handheld or support-assisted probe; ultrasound targeting and real-time monitoring.
+ • Piezoceramic, narrowband, 5–100 cycles; peak pressure 5–8 MPa; energy per pulse about equal to SWL
+   because the burst is longer; 200–1000 kHz, probes chosen for depth and frequency; beam widths similar
+   to SWL.
+ • Less cavitation → higher rate (≥10 Hz) → more energy over shorter time: bubbles stay small, take in less
+   gas and dissolve in ~1/16 s, so the rate can be ≥16× SWL without shielding.
+ • Operators watch for cavitation (a dynamic white cloud on ultrasound) and pause if seen. Lower
+   pressures plus cloud avoidance plausibly explain tolerability without sedation.
+ • Coupling by gel is essential: loss of coupling = loss of image = loss of feedback and efficiency.
+ • Mechanism: beam wider than the stone (≈1 cm at the stone); energy enters the lateral and proximal
+   surfaces; multiple internal reflections of many cycles superimpose → >5× amplification of the applied
+   negative pressure; tensile stress similar to SWL at lower applied pressure, at many points over a longer
+   time.
+ • Fragments are uniform and scale with wavelength (inversely with frequency); higher-frequency BWL
+   grinds residual fragments to submillimetre size.
+Figure legend
+  • Fig. 19.16 — (A) SWL: single sharp shock (~40 MPa) then a negative trough. (B) BWL: multi-cycle sinusoidal
+    burst at lower amplitude. (C) Large SWL cavitation cloud vs (D) few barely visible, short-lived BWL bubbles. (E)
+    Calculated bubble radius over time (Church model): SWL bubbles grow to ~600 μm and rebound repeatedly;
+    BWL bubbles stay ~100 μm and die quickly.
+
+   IN PLAIN TERMS — PUSHING STONES WITH SOUND
+    • Sound exerts a steady push, like wind on a sail.
+    • Low-pressure, long pulses aimed at a fragment nudge it along, for example out of a lower-pole calyx
+      towards the ureter. They break nothing and make almost no bubbles.
+
+Ultrasonic propulsion
+ • Same instrument and transducers as BWL, used to reposition rather than break. Peak positive ≤2.4 MPa
+   (24 bar); ~1500 cycles (vs ≤100 in BWL) — lower pressure, longer duration.
+ • Bursts ≤3 s at 50% duty factor, imaging in the off-time; pulse average intensity 200 W/cm²; average
+   power over 3 s ~10 W.
+ • Mechanism: radiation force — wave momentum transfers to the stone on reflection; force = power ÷
+   sound speed; directed away from the transducer, so the probe must be manipulated to steer the stone.
+ • Uses: moving stones during surgery; facilitating passage of ureteral stones and residual renal fragments.
+   An RCT: propulsion of residual fragments substantially reduced relapse (stone growth, urgent visit or
+   surgery) at 4 years.
+ • Little cavitation risk. Probe and skin warm with long bursts, but it has been tolerated in all subjects to
+   date.
+ACOUSTIC LITHOTRIPSY DEVICES: SWL VS BWL VS ULTRASONIC PROPULSION
+
+
+
+                                                    page 28 of 33
+Chapter 19 — Energy Modalities in Urology                                                            ELASTIC WAVES
+
+                  SWL                                        BWL                        Ultrasonic propulsion
+ Status           Established (>40 years)                    Investigational            Investigational
+ Waveform         Single-cycle broadband shock               Narrowband burst, 5–100    Narrowband, ~1500
+                                                             cycles                     cycles
+ Peak             30–120 MPa positive; ~10 MPa               5–8 MPa                    ≤2.4 MPa
+ pressure         negative
+ Frequency        Centre ~300 kHz                            200–1000 kHz               Same transducer as BWL
+ Rate             0.5–3 Hz (best ≤1 Hz)                      ≥10 Hz                     ≤3-s bursts, 50% duty
+ Cavitation       Large cloud → shielding, injury            Minimal; watch and pause   Negligible
+ Guidance         Fluoroscopy (sometimes ultrasound)         Real-time ultrasound       Real-time ultrasound
+ Anaesthesia      Sedation or general (United States)        None                       None
+ Fragments        Variable; end near pulse length            Uniform, ∝ wavelength      — (repositions)
+ Action           Break                                      Break                      Move (radiation force)
+
+Intracorporeal Lithotripters and Contact Sources
+   IN PLAIN TERMS — CONTACT LITHOTRIPTERS
+    • Here the energy source actually touches the stone through a rigid probe, like a chisel or jackhammer.
+      The damage is greatest at the point of contact.
+    • The same tip against the ureteric or pelvic wall can tear it.
+
+ • Percutaneous nephrolithotomy: contact probes send elastic waves (impulses or narrowband) down a stiff
+   waveguide; tip displacement produces a jackhammer effect; stress greatest at the contact point,
+   diverging from there; spallation possible; direct tip contact can tear tissue. Some ultrasonic devices are
+   thought to break stones into large fragments by cavitation.
+ • Ureteroscopy: ultrasonic devices less common; electrohydraulic (spark) intracorporeal lithotripters
+   persist — direct wave plus the water hammer of spark cavitation → fragmentation of the proximal stone
+   face; bubble expansion and collapse jets can strain and shear the adjacent ureter.
+ • Whole-body vibration (investigational): skin-contact massagers send diverging waves inward,
+   mechanically loosening renal fragments for passage; impulsive skin sources are also used for Peyronie
+   disease.
+
+Soft Tissue Ablation
+ • Goal inverted relative to stones: ablate tissue, rather than remove a calculus with minimal tissue injury.
+   Research uses include drug delivery, renal denervation for hypertension and tissue softening; clinical use
+   is mainly ablation.
+ • Two forms: thermal (HIFU) and mechanical (histotripsy).
+
+   IN PLAIN TERMS — HIFU COOKS, HISTOTRIPSY LIQUEFIES
+    • HIFU is the magnifying glass with sound. Heat builds only where the beam converges, cooking a rice-
+      grain of tissue at a time, and the target is "painted" grain by grain.
+    • Because cooked and healthy tissue look alike on ultrasound, gaps can be missed.
+    • Histotripsy uses stronger, shorter pulses to create bubble clouds that act as a microscopic blender,
+      turning tissue into liquid slurry without cooking it.
+    • The bubbles are bright on ultrasound, so the treated zone is visible as it forms.
+
+
+
+
+                                                        page 29 of 33
+Chapter 19 — Energy Modalities in Urology                                                                   ELASTIC WAVES
+High-intensity focused ultrasound
+ • Diagnostic power has negligible heating; high intensity → progressive absorption → thermal necrosis.
+ • Frequency similar to imaging of the same target; focused by a bowl-shaped ceramic or lens; narrowband
+   pulses of ~1 s. Lesion ≈ 1 wavelength wide × 10 wavelengths long ≈ a grain of rice. Intensity 1500–
+   10,000 W/cm².
+ • Higher frequency = more heating at the focus, but more path loss. Nonlinear shocks → heating within
+   milliseconds.
+ • Risks and limits: necrosis along the beam path; bone or gas in the path increases local heating; necrosed
+   and viable tissue are not distinguishable on standard ultrasound; many exposures are needed for a
+   sizeable region → gaps; alternative strategy: cauterise the feeding vessels.
+ • Prostate temperatures exceed 100 °C within seconds, depending on the absorption coefficient, duration
+   and magnitude.
+ • HIFU also acts mechanically: negative pressure → interstitial bubbles → collapse → cellular damage
+   compounding the thermal effect.
+ • Advantages: extracorporeal; small focal volume; co-located imaging and treatment probes allow real-
+   time monitoring. Approved for BPH and prostate cancer (transrectal, short focal distance); intra-operative
+   renal devices have existed.
+Histotripsy
+ • Short but still narrowband pulses at higher intensity than HIFU (>10,000 W/cm²). Aim: cavitation within
+   one or very few bursts → mechanical liquefaction, not thermal necrosis. First observed with
+   lithotripters.
+ • Result: mechanical shredding to submicron fragments; subsequent pulses shear tissue around the
+   bubbles and even atomise it.
+ • Being developed for transcutaneous prostate and kidney cancer; prostate challenges: acoustic window
+   and fibrous tissue resisting liquefaction; kidney trials under way.
+ • Advantage: the bubble zone is echogenic, visible in real time. Risks: off-target bubbles, oversized
+   bubbles → shielding and cavitation injury, detectable on imaging.
+ACOUSTIC SOFT-TISSUE ABLATION: HIFU VS CAVITATION VS BOILING HISTOTRIPSY
+                    Thermal HIFU                    Cavitation histotripsy            Boiling histotripsy
+ Mechanism          Absorption → thermal            Large negative pressure tears     Shock absorption → boiling
+                    necrosis (plus some cavitation) tissue into a bubble cloud        within one burst (<100 ms)
+ Intensity          1500–10,000 W/cm²               >10,000 W/cm²                     >10,000 W/cm²
+ Exposure           ~1 s narrowband pulses          One or very few short bursts      One burst to boil
+ Probe              Bowl or lens                    Tightly focused → larger probes   Less focused, longer focal
+                                                                                      distance → smaller probes
+ Lesion             Coagulative necrosis, rice-     Submicron liquefaction            Submicron liquefaction,
+                    grain unit                                                        atomisation
+ Ultrasound         Poor                            Echogenic, real time              Echogenic
+ visibility
+ Status             Approved: BPH, prostate         Investigational                   Investigational
+                    cancer
+
+
+
+
+                                                      page 30 of 33
+Chapter 19 — Energy Modalities in Urology                                                             ELASTIC WAVES
+Image guidance and operator safety
+ • SWL is usually fluoroscopy-guided, sometimes ultrasound-guided; most other urological ultrasound
+   therapies are ultrasound-guided, often from the same handheld probe; magnetic resonance imaging
+   (MRI) monitoring is common elsewhere. All probes need liquid or gel coupling.
+ • Ultrasound is non-ionising: the only operator risk is at the focus (transcutaneous) or the tip of ballistic
+   sources.
+
+ KEY POINTS
+   • Gel-coupled skin sources focus energy for a localised internal bioeffect.
+   • Acoustic devices do not transmit through air; they require gel or fluid.
+   • Too high a pulse rate → cavitation cloud → blocked energy delivery.
+   • Acoustic therapies break stones or ablate tissue. Ablation is thermal (absorption) or mechanical
+     (cavitation).
+   • Cavitation amplifies tissue strain and concentrates energy. Cavitation is a threshold effect: bioeffects
+     occur above a threshold pressure for a given frequency, not below.
+   • Fragmentation is primarily crack growth from wave-induced stress.
+   • Acoustic waves are non-ionising; repeated safe exposures do not accumulate into harm. Correctly
+     operated, properly working devices are safe for operators.
+
+Concept — acoustic therapy is the management of the negative pressure phase. Tension cracks brittle
+stones and spares ductile tissue, but the same tension nucleates bubbles that either destroy tissue
+deliberately (histotripsy) or shield the stone and injure the kidney (SWL at high rates). Frequency is the lever:
+raise it for heat, lower it for cavitation.
+
+Direct Contact Energies
+   IN PLAIN TERMS — STEAM AND WATER JETS
+    • Water vapour thermal therapy (Rezum): steam scalds more severely than boiling water at the same
+      temperature, because steam releases a large amount of extra heat (latent heat) as it condenses back
+      into water.
+    • Injected steam therefore delivers heat quickly and evenly into prostate tissue without charring, and it
+      stays within the zone it was injected into.
+    • Aquablation is a robot-guided pressure washer: a high-speed saline jet cuts tissue mechanically, with
+      no heat.
+
+Fluid-based ablation modalities
+ • Water vapour thermal therapy (WVTT) — Rezum (Boston Scientific), for BPH. Radiofrequency energy
+   stores thermal energy in water by converting it to vapour, injected transurethrally into the transition
+   zone; it releases latent heat on condensing and spreads rapidly and evenly by convection.
+ • Hardware: generator + transurethral device; 18-gauge needle with regularly spaced holes; delivery
+   pressure slightly above interstitial pressure for uniform delivery.
+ • Vapour 103 °C; tissue ≥70 °C; 9-s injection → spherical zone of cell death. No significant thermal
+   gradient; wet thermal therapy → no char or carbonisation.
+ • Vapour follows the lowest-pressure path → stays within the zonal compartment, without extension into
+   the peripheral zone on MRI. Multiple regularly spaced injections treat the obstructing transition zone in
+   one session; MRI confirms prostate volume reduction.
+
+
+                                                   page 31 of 33
+Chapter 19 — Energy Modalities in Urology                                                                ELASTIC WAVES
+ • Aquablation — AquaBeam Robotic System (Procept BioRobotics): mechanical, non-thermal ablation by
+   a high-velocity saline jet. Canine histology: a thin layer of swollen cells, then essentially normal tissue.
+   Components: conformal planning unit, handpiece, 24-Fr cystoscope, biplanar transrectal ultrasound,
+   console. Sequence: ultrasound mapping of the treatment area → robotic jet delivery.
+
+   IN PLAIN TERMS — HOW A CRYOPROBE GETS COLD AND WHY FREEZING KILLS
+    • Joule–Thomson effect: gas escaping from high pressure into low pressure cools sharply, the reason an
+      aerosol can grows cold as you spray it. High-pressure argon expanding inside the probe tip takes it
+      below −100 °C.
+    • Freezing kills cells in two ways. Ice crystals form and pierce membranes; on thawing, water rushes
+      back into the damaged cells and they swell and burst.
+    • Two freeze–thaw cycles repeat both insults, which is why two are used.
+
+Cryotherapy
+ • For small renal masses (principally percutaneous), also applied to focal prostate cancer therapy.
+ • Freeze–thaw injury (slow freezing): extracellular ice → extracellular hypertonicity → osmotic cellular
+   dehydration → intracellular ice → membrane disruption → thaw: extracellular ice melts first → water
+   rushes in → swelling and bursting. Rapid freezing skips dehydration; other steps appear analogous.
+ • Delayed death: apoptosis; microenvironmental ischaemia and inflammatory cytokine release.
+ • Probe cooling: the Joule–Thomson principle — high-pressure argon expands in the probe → below −100
+   °C → continuous heat extraction.
+ • Visible ice ball; ultrasound monitoring allows adjustment of time and temperature. Target <−40 °C; two
+   freeze–thaw cycles with passive thaw.
+PROSTATE ABLATIVE ENERGIES ACROSS THE CHAPTER
+ Modality                    Energy                 Mechanism                      Distinguishing feature
+ KTP/LBO                     532-nm laser           Photothermal vaporisation      Haemoglobin absorption;
+ photovaporisation                                                                 continue anticoagulation
+ Monopolar / bipolar         Radiofrequency         Resection with loop            Irrigant chemistry decides
+ TURP                        electrosurgery                                        hyponatraemia risk
+ WVTT (Rezum)                Radiofrequency-        Convective heat, latent heat   No char; zone-confined
+                             generated vapour       of condensation
+ Aquablation                 High-pressure saline   Mechanical, non-thermal        Robotic, ultrasound-mapped
+ HIFU                        Focused ultrasound     Thermal (plus cavitation)      Transrectal; approved for BPH
+                                                                                   and cancer
+ Histotripsy                 Focused ultrasound     Mechanical liquefaction        Investigational; fibrous tissue
+                                                                                   resists
+
+Concept — direct-contact modalities abandon the wave and carry the energy in the medium itself: vapour
+carries heat by convection and condensation, a saline jet carries momentum, a cryoprobe extracts heat. The
+tissue boundary rather than the absorption depth limits the lesion, which is why vapour stays within its zone
+and the jet leaves only a thin rim of injury.
+
+Selected References
+ • Chan KF, Pfefer TJ, Teichman JMH, Welch AJ: A perspective on laser lithotripsy: the fragmentation processes, J
+   Endourol 15:257–273, 2001.
+ • Jansen ED, Asshauer T, Frenz M, et al: Effect of pulse duration on bubble formation and laser-induced pressure
+   waves during holmium laser ablation, Lasers Surg Med 18:278–293, 1996.
+
+
+                                                    page 32 of 33
+Chapter 19 — Energy Modalities in Urology                                                              ELASTIC WAVES
+ • Massarweh NN, Cosgriff N, Slakey DP: Electrosurgery: history, principles, and current and future uses, J Am Coll
+   Surg 202(3):520–530, 2006.
+ • Miller DL, Smith NB, Bailey MR, et al: Overview of therapeutic ultrasound applications and safety
+   considerations, J Ultrasound Med 31:623–634, 2012.
+
+
+
+
+                                                   page 33 of 33
+

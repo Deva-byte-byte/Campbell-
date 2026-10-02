@@ -1,0 +1,1145 @@
+Chapter 17 — Principles of Urologic Endoscopy                                                 HISTORY OF ENDOSCOPY
+
+Chapter 17 — Principles of Urologic Endoscopy
+ • Endoscopy has reshaped urology more than most disciplines: bladder outlet obstruction, urothelial
+   tumours, ureteric obstruction and nephrolithiasis are all now diagnosed and treated endoscopically.
+
+HISTORY OF ENDOSCOPY
+Rigid and Optical Line
+ • 1806, Philipp Bozzini — the Lichtleiter (“Light Conductor”), the first “modern” endoscope. Angled
+   mirrors conducted candlelight from a sharkskin-covered box down aluminium tubing into the body.
+ • 1853, Antonin Jean Desormeaux (French urologist) — smaller-profile endoscope with improved mirrors
+   and a kerosene lamp. Through it he excised a urethral papilloma, making him the first to perform a
+   therapeutic endoscopic procedure.
+ • 1877, Max Nitze — two conceptual leaps at once. He moved illumination (a water-cooled electric
+   platinum filament) to the tip of the instrument, and used a series of optical lenses at precise distances
+   along a hollow air-filled scope to relay and magnify the image.
+ • 1906 — the Amici prism, allowing 90-degree offset images to retain correct orientation. Essentially the
+   only design advance between Nitze and Hopkins.
+ • 1966, Harold Hopkins — the rod-lens system. Hollow-chamber relay lenses were abandoned for glass
+   rods with short air gaps, which increased light transmission while decreasing scope calibre.
+ • Rod-lens optics underpin all contemporary rigid cystoscopes and made possible the first rigid
+   ureteroscope in 1979.
+Flexible and Fibreoptic Line
+ • 1854, John Tyndall — light travels along a curved stream of water by internal reflection. This is the
+   physical principle, not an instrument.
+ • That principle led to drawing molten glass into flexible small-calibre fibres for light transmission; fibre
+   optics made flexible endoscopes possible.
+ • 1964, Marshall — first reported flexible ureteroscopy (URS).
+ • Flexible URS remained of limited utility until a working channel and active tip deflection were added in
+   the early 1980s. Both features are required before a flexible scope is therapeutically useful.
+ • Fibreoptic endoscopes remain widely used but are fragile with limited optical resolution — the two
+   drawbacks that drove digital conversion.
+Digital and Single-Use Era
+ • 1970, Boyle and Smith — the charge-coupled device (CCD), a sensor converting photons into a digital
+   image. Over three decades, miniaturisation allowed the CCD to be mounted on the distal tip of the
+   endoscope.
+ • 2005, ACMI DCN-2010 flexible cystoscope — first commercially available digital endoscope.
+ • 2006, Olympus Invisio DUR-D — first digital ureteroscope.
+ • Digital (“chip-on-tip”) sensors give better image resolution and durability than rod-lens or fibreoptic
+   bundles, and dispense with a separate light cable and camera.
+ • 2011, PolyScope (Lumenis) — the first single-use ureteroscope, driven by the damage rate and
+   reprocessing costs of reusable fibreoptic ureteroscopes. It used a reusable fibreoptic bundle attached to
+   disposable flexible catheters; limited deflection gave poor success for lower pole stones and it was
+   never widely adopted.
+
+
+
+                                                   page 1 of 24
+Chapter 17 — Principles of Urologic Endoscopy                       BASIC EQUIPMENT AND VIDEO-ENDOSCOPIC SYSTEMS
+ • January 2016, LithoVue (Boston Scientific) — the first digital single-use ureteroscope, marking the start
+   of the current era.
+
+BASIC EQUIPMENT AND VIDEO-ENDOSCOPIC SYSTEMS
+Irrigation Fluid
+  • Cystourethroscopy requires three things: irrigation fluid, a light source, and an endoscope.
+ • Normal saline is the default irrigant.
+ • Where monopolar electrocautery is used, the irrigant must be electrolyte-free — glycine or mannitol,
+   since saline would disperse the current.
+ • Bipolar electrocautery permits normal saline for transurethral procedures, thereby avoiding the
+   complications of the electrolyte-free solutions.
+ • Sterile water is to be avoided — risk of absorption, electrolyte disturbance and haemolysis.
+Light Source and Enhanced Imaging
+ • A high-intensity xenon or halogen external light source delivers white light via a fibreoptic cable and the
+   endoscope to the field of view.
+ • Modern units incorporate light level detection with automatic output adjustment for constant
+   illumination.
+ • Narrow-band imaging (NBI), introduced into urology in 2007, uses only blue (415 nm) and green (540
+   nm) wavelengths. These are strongly absorbed by haemoglobin, so urothelial capillaries, small papillary
+   lesions and carcinoma in situ stand out. No drug instillation is required.
+ • Blue-light cystoscopy — approved by the U.S. Food and Drug Administration (FDA) in 2010. Sequence:
+   intravesical instillation of hexaminolevulinate one hour before cystoscopy → the molecule accumulates
+   in the mitochondria of urothelial tumour cells but is eliminated from normal urothelium → the bladder
+   is illuminated with blue light at 360–450 nm → porphyrins in abnormal cells emit red fluorescence while
+   normal cells appear blue.
+Video-Endoscopic Systems
+ • Direct viewing through the optical eyepiece remains possible, but a camera displaying onto a monitor on
+   a fixed or mobile video-endoscopic tower is standard (Fig. 17.1).
+ • Advantages of video-endoscopic units: better visualisation, aiding patient safety and surgical training;
+   reduced bodily fluid exposure; and improved surgeon ergonomics.
+ • Traditional system — four components: light source, endoscope camera, image processor/recorder,
+   monitor.
+ • Newer digital endoscopes eliminate the external camera and integrate the light source and video cable
+   into a single built-in housing (Fig. 17.2).
+Signal Pathway
+ • Traditional system: rod-lens or fibreoptic bundle relays the optical image to the eyepiece → external
+   camera CCD chip generates an analogue voltage waveform → video processor converts it into a digital
+   video signal for the monitor.
+ • Digital endoscope system: the CCD chip sits at the distal tip. The image is converted to an electrical
+   signal immediately, managed by the video processor without internal optics or an external CCD camera.
+
+
+
+
+                                                  page 2 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                                    CYSTOURETHROSCOPY
+
+CYSTOURETHROSCOPY
+
+Indications
+ • Cystourethroscopy is the commonest office-based procedure in urology. Direct visual examination of
+   bladder and urethra; performed routinely in both office and operating room.
+ • Predominantly diagnostic, but permits transurethral therapeutic procedures. Indications are tabulated in
+   Table 17.1.
+ • Evaluation of microscopic or gross haematuria is among the commonest indications.
+ • Allows collection of cytological specimens and retrograde pyelography in patients who cannot receive
+   intravenous contrast.
+ • Surveillance of urothelial carcinoma is the other common indication.
+     ◦ In-office biopsy and fulguration of small urothelial lesions is feasible.
+     ◦ Upper tract surveillance via selective ureteric catheterisation with retrograde pyelography, upper
+       tract washings for cytology, and brush biopsy for histology.
+ • Lower urinary tract signs and symptoms: recurrent infection, voiding dysfunction, chronic pelvic pain.
+ • Treatable in-office in selected cases: urethral strictures, bladder stones, foreign bodies.
+ • With fluoroscopy, ureteric stents can be placed or exchanged in the clinic.
+
+Equipment
+Sizing Convention
+ • Cystourethroscopes come rigid and flexible, in a range of sizes; dimensions are expressed in French (Fr)
+   gauge.
+ • French gauge devised by Joseph-Frédéric-Benoît Charrière (1803–1876), French instrument designer. 1
+   Fr = 1/3 millimetre in diameter, equivalently 3 Fr = 1 mm.
+Rigid versus Flexible
+ • Rigid — optics: uses the Hopkins rod-lens system, giving better optical clarity than the fibreoptic bundles
+   of flexible scopes.
+ • Flexible — optics: fibreoptic bundle or digital chip; optically inferior to rod-lens.
+ • Rigid — working channel: larger channels → greater irrigation flow and a wider range of usable
+   instruments.
+ • Flexible — working channel: single, smaller channel shared between irrigation and instruments.
+ • Rigid — handling: easier one-handed control, freeing the second hand for ancillary tools.
+ • Flexible — handling: active tip deflection eases complete bladder inspection and negotiation of a high
+   bladder neck or prostatic median lobe.
+ • Rigid — positioning: requires frog-leg or lithotomy position.
+ • Flexible — positioning: no frog-leg or lithotomy position required; smaller calibre improves patient
+   comfort → the instrument of choice for office-based procedures.
+
+Rigid Cystourethroscopes
+ • Manufactured as a set: optical lens, bridge, sheath, obturator (Fig. 17.3).
+ • Optical lens tip angles range from 0 to 120 degrees:
+     ◦ 0 or 12 degrees — urethra, the best view for urethral visualisation.
+     ◦ 25 or 30 degrees — therapeutic work.
+     ◦ 70 or 120 degrees — anterior and inferolateral bladder walls, dome and bladder neck.
+
+
+                                                     page 3 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                                   CYSTOURETHROSCOPY
+ • Bridge connects the optical lens to the sheath.
+     ◦ Diagnostic bridge — no working channel.
+     ◦ Therapeutic bridge — one or two working channels.
+     ◦ Albarran’s bridge — contains a lever that deflects wires and catheters emerging from the working
+       channel, to facilitate cannulation of the ureteric orifice (Fig. 17.4). Indicated in elevated bladder neck,
+       large prostatic median lobe, or ureteroneocystostomy.
+ • Sheaths are marked with sheath size and associated working channel size (Fig. 17.5).
+     ◦ 15 and 17 Fr sheaths — diagnostic cystoscopy.
+     ◦ Larger sheaths — therapeutic procedures, where improved irrigant flow and larger working channels
+       are needed.
+ • Obturator blunts the distal end of the sheath to allow passage into the bladder without visual guidance.
+
+Flexible Cystourethroscopes
+Specifications
+ • Diameter 14–17 Fr.
+ • Working length 37–40 cm in most models.
+ • “Inline” eyepiece lens; field of view approximately 120 degrees.
+ • Tip deflection 120–220 degrees, and is either:
+     ◦ Intuitive — tip deflects in the same direction as the lever, or
+     ◦ Counterintuitive — tip deflects opposite to the lever.
+ • Single working channel, 6.4–7.5 Fr, shared by irrigation and instruments.
+ • Models differ in tip deflection, direction of view, field of view, working channel size, illumination and
+   optics.
+ • Photodynamic and narrow-band imaging capability increasingly common.
+ • Available in fibreoptic and digital versions; digital scopes require neither focusing nor white balancing.
+Fibreoptic versus Digital: In Vitro Comparison
+ • An in vitro study compared resolution, contrast evaluation, depth of field, colour representation and
+   illumination across fibreoptic, standard-definition and high-definition flexible cystoscopes, all from a
+   single manufacturer.
+ • High-definition scope: markedly superior resolution and depth of field, and a substantially larger image
+   than standard-definition.
+ • Colour representation only marginally better; no difference in contrast evaluation between the three.
+ • Illumination was significantly better in the fibreoptic scope than in either digital model — the
+   counterintuitive result worth carrying.
+Fibreoptic versus Digital: Clinical Durability
+ • A large randomised comparison of fibreoptic versus standard-definition digital flexible cystoscopes found
+   only a non-significant trend favouring the digital scopes on surgeon optical ranking, and no difference in
+   durability.
+ • Repairs were rare, and both damaged scopes were injured on placement into a storage case rather than
+   during use — the storage step, not the procedure, is the vulnerability.
+ • Independent repair-company data: flexible cystoscopes require fewer than one repair every two years;
+   the commonest repair is to the rubber overlying the distal flexible segment.
+
+
+
+
+                                                    page 4 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                                CYSTOURETHROSCOPY
+ • Unlike flexible ureteroscopes, flexible cystourethroscopes are robust — so the optical mechanism is a
+   lesser determinant of durability in cystoscopes.
+Single-Use Cystoscopes
+ • Ambu (Ballerup, Denmark) launched the world’s first single-use endoscope in 2009, and the first
+   disposable cystoscope — the aScope 4 Cysto — in 2020.
+ • Subsequent single-use cystoscopes: WiScope Cysto (innoMedicus), Uro-G (UroViu), NeoFlex (NeoScope).
+ • Benchtop comparison of a single-use scope against a reusable Olympus model showed comparable
+   manoeuvrability, image quality and illumination.
+ • In vivo studies comparing clinical outcomes of reusable versus disposable cystoscopes are lacking — the
+   current evidence gap.
+ • Environmental and economic assessments favour single-use: reduced water usage, comparable costs,
+   and a significantly lower carbon footprint than reusable scopes.
+
+Patient Preparation
+ • Informed consent is mandatory before any cystoscopic procedure.
+ • Urinalysis and urine culture where indicated; all urinary tract infections must be treated before
+   instrumentation, because of the risk of bacteraemia and sepsis following lower urinary tract
+   manipulation.
+Antimicrobial Prophylaxis
+ • Two guideline sources:
+     ◦ American Urological Association (AUA) Best Practice Policy Statement on Urologic Surgery
+       Antimicrobial Prophylaxis — published 2008, most recently updated 2019.
+     ◦ European Association of Urology (EAU) Urological Infections guidelines — first published 2001,
+       updated through 2023.
+ • Neither body recommends prophylaxis for routine diagnostic cystoscopy in the absence of patient-
+   related risk factors (Table 17.2).
+ • AUA — therapeutic lower urinary tract procedures, meaning transurethral resection of bladder and of
+   prostate: prophylaxis for less than 24 hours. The basis is a meta-analysis of prophylaxis before
+   transurethral resection of the prostate (TURP), which showed reductions in bacteriuria, bacteraemia,
+   symptomatic urinary tract infection and high-grade fever.
+ • EAU — routine prophylaxis for TURP; for transurethral resection of bladder tumour, prophylaxis only in
+   patients at high risk of postoperative sepsis. This is the examinable divergence between the two bodies.
+ • AUA agents of choice for transurethral procedures: cefazolin or trimethoprim-sulfamethoxazole.
+ • AUA alternatives: an aminoglycoside with or without ampicillin; another first- or second-generation
+   cephalosporin; amoxicillin/clavulanate.
+ • Against rising regional resistance, the EAU position is that knowledge of local pathogen profiles,
+   susceptibility and virulence is mandatory — the local antibiogram overrides a fixed agent list.
+
+TABLE 17.2 PATIENT RISK FACTORS PRECLUDING SIMPLE CYSTOSCOPY WITHOUT ANTIMICROBIAL
+PROPHYLAXIS
+AUA Best Practice Policy Statement                                  EAU Urological Infections Guidelines
+Advanced age                                                        Older age
+Poor nutritional status                                             Malnutrition
+Immunodeficiency                                                    Impaired immune system
+
+
+
+                                                  page 5 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                                      CYSTOURETHROSCOPY
+
+AUA Best Practice Policy Statement                                      EAU Urological Infections Guidelines
+Externalised catheters; colonised endogenous or exogenous material      Indwelling catheters and bacterial burden
+Anatomical anomalies of the urinary tract                               Previous instrumentation
+Smoking                                                                 Diabetes mellitus
+Chronic corticosteroid use                                              Extremes of weight
+Distant coexistent infection                                            History of urinary tract infection
+Prolonged hospitalisation                                               Genetic factors
+
+ • Shared across both lists: age, malnutrition, immune compromise, catheters or colonised material.
+ • AUA distinctive: smoking, chronic corticosteroid use, distant coexistent infection, prolonged
+   hospitalisation, anatomical anomalies.
+ • EAU distinctive: diabetes mellitus, extremes of weight, prior urinary tract infection, previous
+   instrumentation, genetic factors.
+ • What the table tests: not the individual items but the principle that prophylaxis is patient-driven, not
+   procedure-driven, for diagnostic cystoscopy. The trap it sets is treating the two columns as contradictory
+   when they are two roads to the same rule.
+Skin Antisepsis
+ • Commercial agents contain iodophors or chlorhexidine gluconate, in aqueous or alcohol-based solution.
+ • Chlorhexidine gluconate and alcohol-based solutions damage mucous membranes and are therefore
+   not recommended for the genitalia.
+ • Aqueous iodophor-containing products (povidone-iodine) are safe on all skin surfaces regardless of
+   patient age — the default for genital preparation.
+Urethral Lubrication and Anaesthesia
+ • After antisepsis, a lubricating gel is instilled into the urethra for flexible cystourethroscopy; either plain or
+   lidocaine gel.
+ • In males, meta-analysis of randomised trials shows lidocaine gel significantly reduces pain.
+ • Dwell time is the determinant of efficacy: it must exceed 5 minutes, ideally 10 to 20 minutes. Instilling
+   and proceeding immediately negates the benefit.
+ • In females the evidence is equivocal — one randomised trial showed benefit, another showed no pain
+   reduction.
+Non-Pharmacological Comfort Measures
+ • In most males the least comfortable part of flexible cystourethroscopy is passage through the
+   membranous urethra. Every measure below targets this moment.
+ • “Bag squeeze” — manual compression of the irrigation bag to raise hydrostatic pressure during passage
+   through the membranous urethra significantly reduced pain compared with gravity irrigation alone in a
+   double-blind randomised trial.
+ • Instructing the patient to urinate, thereby relaxing the external urethral sphincter, likewise improves
+   pain during flexible cystoscopy.
+ • Allowing the patient to watch the procedure on the video monitor: randomised evidence in males shows
+   less pain and lower post-procedure pulse rates; in females undergoing office cystoscopy with a 17 Fr
+   rigid scope there was no difference in procedural pain. The divergence between the sexes is the point.
+
+
+
+
+                                                    page 6 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                               CYSTOURETHROSCOPY
+ • Music: males randomised to classical music during flexible cystoscopy had less pain, higher satisfaction,
+   and lower post-procedure pulse rates and systolic blood pressures; a subsequent meta-analysis
+   confirmed reduced pain and anxiety.
+
+Technique
+Preparation and Meatal Access
+ • Inspect the external genitalia first for cutaneous lesions and anatomical abnormalities, before any
+   instrument is passed.
+ • Mild meatal stenosis may be managed with sequential metal dilators.
+ • Dilate to at least 2 Fr wider than the intended endoscope size — the working rule.
+Insertion in Females
+ • Rigid cystourethroscope insertion in females is safest using the sheath obturator.
+ • The scope must often be directed anteriorly as it advances into the bladder.
+ • Flexible cystourethroscopes are usually inserted like a Foley catheter, with active deflection used as
+   required.
+Insertion in Males
+ • The penis is placed on maximal stretch to straighten the urethra.
+ • Rigid scope: the penis is grasped with all five digits of the non-dominant hand.
+ • Flexible scope: the penis is pinched between the fourth and fifth digits of the non-dominant hand at the
+   corona; the thumb and index finger advance and direct the scope (Fig. 17.6).
+ • Morbidly obese patient: lay the scope down, retract the pannus with the non-dominant hand, and
+   direct the flexible scope tip into the urethra like a Foley catheter; once in the mid-penile urethra,
+   transfer to the dominant hand and advance normally.
+Passage Through the Urethra
+ • Angle the penis 45 to 90 degrees relative to the abdominal wall while traversing the anterior urethra.
+ • Beyond the membranous urethra, direct the cystoscope anteriorly to enter the bladder:
+     ◦ Flexible — active upward deflection.
+     ◦ Rigid — drop the distal (eyepiece) end of the scope toward the operating table.
+ • Advance under maximal irrigation, evaluating the lower urinary tract systematically.
+ • Inspect the penile and bulbar urethra for strictures.
+ • The periurethral glands of Littré drain into the urethra dorsally — note them.
+ • Encourage relaxation, particularly in young males, during passage through the membranous urethra, the
+   least comfortable segment.
+ • Prostatic urethra: identify the verumontanum and utricle posteriorly; measure the length of the
+   posterior urethra and assess the size of the prostatic lobes.
+Systematic Bladder Inspection
+ • Begin rigid cystoscopy with a 25- or 30-degree lens.
+ • Survey the bladder floor and trigone.
+ • Note the number, location and configuration of the ureteric orifices, and observe efflux from each
+   ureter for gross blood.
+ • Inspect the remainder of the bladder for: stones, trabeculation, cellules, diverticula, erythematous
+   patches, and papillary and sessile lesions.
+ • Lateral walls — rotate the cystoscope while keeping camera orientation fixed.
+
+
+                                                  page 7 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                                 CYSTOURETHROSCOPY
+ • Dome, anterior and posterolateral walls — change to a 70- or 120-degree lens.
+ • At completion: empty the bladder, then withdraw the endoscope.
+ • Exception: if a Foley catheter is to be placed afterwards, leave the bladder at least partially full before
+   removing the cystoscope.
+
+Special Circumstances
+Suprapubic Cystostomy
+ • Indications for cystoscopy are the same as in patients without a chronic indwelling catheter.
+ • These patients carry increased risk of infection, bladder calculi and bladder cancer.
+ • However, no level 1 data show that surveillance cystoscopy improves survival in long-term indwelling
+   catheter patients.
+ • The 2021 AUA/SUFU (Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction)
+   Guideline on adult neurogenic lower urinary tract dysfunction states that screening or surveillance
+   cystoscopy should NOT be performed in patients with chronic indwelling catheters. Elevated cancer risk
+   does not translate into a surveillance recommendation.
+ • Route: transurethral or via the suprapubic tract. Many long-term suprapubic tube patients have urethral
+   stricture disease, making the suprapubic tract the only feasible route.
+ • Avoid endoscopy through an immature suprapubic tract; maturation usually takes several weeks from
+   creation.
+ • When an immature tract must be used: place a wire through the suprapubic tube before removing it.
+   This safety wire maintains bladder access and guides scope placement; it is also valuable in morbidly
+   obese patients with long, tortuous tracts.
+ • Ureteric access through a cystostomy tract with a rigid scope is difficult because of the acute angle
+   required to cannulate the orifice. Solutions, in escalating order:
+     ◦ Angled ureteric catheters or an Albarran deflector.
+     ◦ A flexible cystoscope, which usually overcomes the angle problem.
+     ◦ In low-grade urethral stricture, a semirigid ureteroscope passed transurethrally, restoring standard
+       ureteric access.
+ • Ureteric orifices may be obscured by oedema from the chronic suprapubic tube — give intravenous
+   indigo carmine or methylene blue early in the procedure to visualise them.
+
+Continent Urinary Diversions
+ • Two general classes after cystectomy:
+     ◦ Orthotopic diversion — anastomosed to the urethra; continence depends on the striated urinary
+       sphincter.
+     ◦ Continent cutaneous reservoir — a catheterisable channel from the reservoir to the anterior
+       abdominal wall.
+ • The catheterisable channel may be: appendix (Mitrofanoff), tapered or imbricated terminal ileum with
+   ileocaecal valve, or an intussuscepted nipple valve.
+ • Obtain the operative note before any endoscopic procedure on a continent diversion. Four things must
+   be known: bowel segment used; type and location of the ureteroenteric anastomoses; continence
+   mechanism employed; whether an afferent limb was created.
+
+
+
+
+                                                   page 8 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                             UPPER TRACT ENDOSCOPY
+ • Orthotopic diversion — transurethral access is usually straightforward with a rigid cystoscope.
+     ◦ If a urethral anastomotic contracture is present but the patient is not obstructed, use the smallest
+       possible scope rather than dilating or incising the stricture — dilation or incision risks urinary
+       incontinence.
+ • Continent cutaneous reservoir — diagnostic endoscopy is best performed with a flexible endoscope
+   through the catheterisable channel.
+     ◦ All but the most straightforward therapeutic procedures should be done percutaneously, because
+       continence mechanisms are fragile; excess manipulation causes stomal stenosis or incontinence.
+     ◦ Use preoperative computed tomography or intraoperative ultrasound before percutaneous access, to
+       avoid bowel injury or injury to the reservoir’s vascular pedicle.
+ • Visualisation within a diversion is impaired by mucus, mucosal folds, bowel peristalsis and a tortuous
+   afferent limb where present.
+ • Irrigation strategy — the balance is the examinable point:
+     ◦ First, irrigate out all mucus.
+     ◦ Then irrigate judiciously. Too little irrigation makes mucosal folds more prominent and impairs
+       visualisation.
+     ◦ Overdistension prevents access to the afferent limb and causes troublesome retroflexion of flexible
+       cystoscopes.
+ • Angled catheters and indigo carmine or methylene blue may again be required.
+
+ KEY POINTS: CYSTOURETHROSCOPY
+   • Rigid cystourethroscopes are manufactured in sets: optical lens, bridge, sheath, obturator.
+   • Flexible cystourethroscopes come in fibreoptic, standard-definition and high-definition digital
+     models.
+   • Sizes are expressed in French gauge — 3 Fr = 1 mm diameter.
+   • Select the smallest-diameter cystourethroscope capable of performing the procedure, to reduce
+     genitourinary tract trauma.
+   • Antimicrobial prophylaxis is not recommended for diagnostic cystourethroscopy unless patient-
+     related risk factors exist.
+   • Increased hydrostatic pressure during scope passage, and allowing males to observe the procedure,
+     have prospectively been shown to improve comfort during flexible cystourethroscopy.
+
+
+UPPER TRACT ENDOSCOPY
+
+Indications
+Urolithiasis
+ • Surgical treatment of nephrolithiasis is the commonest indication for upper tract endoscopy.
+ • Ureteric calculi — AUA/Endourological Society guidelines: either shock wave lithotripsy (SWL) or
+   ureteroscopy (URS).
+ • Counselling point mandated by the guideline: URS gives a higher stone-free rate but greater morbidity
+   than SWL.
+ • EAU urolithiasis guidelines: both URS and SWL are appropriate for smaller ureteric stones, but URS is
+   preferred for calculi larger than 10 mm because of its higher stone-free rate.
+
+
+
+                                                  page 9 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                           UPPER TRACT ENDOSCOPY
+ • Intrarenal calculi, non-lower pole (AUA/Endourological Society):
+     ◦ Less than 20 mm — SWL or URS.
+     ◦ Greater than 20 mm — percutaneous nephrolithotomy (PCNL).
+     ◦ Exception: patients whose comorbidities make percutaneous treatment prohibitively dangerous have
+       been successfully managed with URS, with high stone-free rates reported for ureteroscopic treatment
+       of stones larger than 2 cm.
+ • Intrarenal calculi, lower pole:
+     ◦ Less than 10 mm — SWL or URS.
+     ◦ Greater than 10 mm — consider PCNL.
+Lower Pole Stones and Shock Wave Lithotripsy
+ • The EAU guidelines broadly agree with AUA/Endourological Society on intrarenal stone management,
+   with one qualification.
+ • SWL may be considered for lower pole stones between 10 and 20 mm, provided no unfavourable factors
+   are present.
+ • Unfavourable factors that argue against SWL for a lower pole stone:
+     ◦ Shock wave–resistant stone composition: calcium oxalate monohydrate, brushite, or cystine.
+     ◦ Steep infundibulopelvic angle.
+     ◦ Long lower pole calyx (>10 mm).
+     ◦ Narrow infundibulum (<5 mm).
+     ◦ Skin-to-stone distance exceeding 10 cm.
+
+Upper Urinary Tract Urothelial Carcinoma
+ • EAU guidance: perform diagnostic ureteroscopy when imaging is equivocal, or when conservative
+   kidney-sparing management is being considered.
+ • Ureteroscopic biopsy yields only a small amount of material, yet accurately predicts final pathological
+   grade in the large majority of cases, approximately nine in ten.
+ • Diagnostic ureteroscopy has not been shown to worsen long-term or disease-specific survival in
+   patients proceeding to extirpative surgery.
+ • However, it has been associated with an increased risk of intravesical recurrence — hence the
+   requirement for long-term bladder surveillance.
+ • Historical position: endoscopic treatment of upper tract urothelial tumours was reserved for imperative
+   indications — solitary kidney, renal insufficiency, bilateral upper tract urothelial carcinoma, or
+   significant medical comorbidity.
+ • Current position: with improved instrumentation and technique, endoscopic treatment of low-grade
+   disease is a reasonable option without compromising survival — elective, not merely imperative,
+   indications now exist.
+ • Larger tumours are difficult to ablate completely in a single session, prompting reports of percutaneous
+   nephroscopy with electroresection.
+ • Where feasible, ureteroscopy is preferred over the percutaneous route, because percutaneous access
+   carries a small but reported risk of tumour seeding of the tract and retroperitoneum.
+
+
+
+
+                                                 page 10 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                            UPPER TRACT ENDOSCOPY
+Ureteropelvic Junction Obstruction and Ureteral Stricture
+Endopyelotomy
+ • Despite widespread adoption of laparoscopic and robot-assisted pyeloplasty, endopyelotomy remains a
+   common treatment for ureteropelvic junction (UPJ) obstruction.
+ • Endopyelotomy may be performed percutaneously or ureteroscopically.
+ • Advantages of the ureteroscopic approach: it avoids the morbidity of percutaneous renal access and
+   permits an outpatient procedure.
+ • Two situations where ureteroscopic endopyelotomy is not preferred:
+     ◦ Concomitant renal calculi → treat percutaneously, allowing simultaneous stone removal and
+       endopyelotomy.
+     ◦ Crossing vessels at the UPJ → decreased endopyelotomy success rate.
+ • Practical rule: limit ureteroscopic endopyelotomy to patients with documented absence of crossing
+   vessels; treat those with crossing vessels by laparoscopic ureteropyeloplasty.
+Endoureterotomy
+ • Ureteric strictures can be managed ureteroscopically; the technique is nearly identical to ureteroscopic
+   endopyelotomy.
+ • Endoureterotomy will be less successful in:
+     ◦ Strictures longer than 1.5 cm
+     ◦ Allograft ureters
+     ◦ Previously irradiated ureters
+     ◦ Ureters draining poorly functioning kidneys
+     ◦ Ureteroenteric anastomotic strictures
+ • Ureteroscopic incision of short strictures in otherwise healthy ureters is a reasonably successful option.
+ • Balloon dilation of short strictures may be performed with or without concomitant incision, with
+   moderate durability at one year, roughly half of patients.
+
+Other Indications for Ureteroscopy
+ • Diagnostic ureteroscopy is indicated for:
+     ◦ Persistent, unexplained positive cytology
+     ◦ Filling defects on excretory urography
+     ◦ Recurrent urinary tract infection localised to a single renal unit
+ • Miniaturisation of flexible ureteroscopes has substantially improved safety, so diagnostic ureteroscopy
+   can now be performed readily rather than relying on ureteropyelography alone.
+ • Foreign body retrieval: sutures, proximally migrated ureteric stents, balloon catheters, and fractured
+   working instruments.
+Benign Essential Haematuria
+ • Definition: unilateral gross haematuria with no radiographically defined cause.
+ • Typically presents after a negative workup — excretory urography, renal ultrasonography, arteriography,
+   or a combination.
+ • Flexible ureteroscopic inspection of the involved kidney usually achieves both diagnosis and successful
+   treatment.
+ • Commonest finding: a small haemangioma, which can often be fulgurated.
+ • Other findings: small venous ruptures, papillary tumours, varices, and calculi.
+
+
+                                                   page 11 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                              UPPER TRACT ENDOSCOPY
+Equipment
+Semirigid Ureteroscopes
+Construction and Optics
+ • Larger rod-lens rigid ureteroscopes persist in some theatres, but smaller-diameter fibreoptic
+   ureteroscopes are less traumatic, less often require ureteric dilation, and are equally capable.
+ • Semirigid ureteroscopes achieve their smaller diameter through the incorporation of fibre optics.
+ • Fibreoptic bundle anatomy: multiple glass fibres, each coated with a cladding — a further glass layer of
+   different refractive index. Cladding improves internal reflection, light transmission and durability.
+ • Fibre arrangement determines function — the core contrast:
+     ◦ Randomly grouped fibres, as in a light bundle, transmit light for illumination but no image.
+     ◦ Coherently arranged fibres coalesce the light from each fibre to transmit an image.
+ • Small lenses at both ends of the image bundle create a telescope.
+ • Image magnification, field of view and focusing ability are determined by the number of fibres in the
+   bundle and the type and orientation of the lenses.
+ • Changing the axis of the distal-tip lens alters the angle of view, improving visibility of working
+   instruments emerging from the working channel.
+Design Advances and Working Channels
+ • Closer packing of more fibres in the image bundle yields improved image transmission, smaller outer
+   diameters, and larger working channels — in both rigid and flexible ureteroscopes.
+ • The single light bundle has been replaced by two smaller bundles, permitting a more centrally placed
+   working channel and better light distribution across the field of view.
+ • Most current semirigid ureteroscopes: tip diameter 7 Fr or less; working channel larger than 3 Fr.
+ • Channel configuration: either one large single channel, or two smaller independent channels.
+ • Advantages of two separate working channels:
+     ◦ Continued irrigation through one open channel while an instrument occupies the other.
+     ◦ Passage of a lithotripsy device through one channel to fracture a stone trapped in a basket in the
+       other — difficult with a single channel because the two instruments become entangled.
+ • For these reasons, semirigid ureteroscopes with two separate working channels are preferred.
+Eyepiece Design
+ • In-line eyepiece — the common configuration, giving more natural insertion and handling of the scope
+   (Fig. 17.7).
+ • Offset eyepiece — creates a straight working channel, required for less flexible working instruments:
+   rigid biopsy forceps and pneumatic lithotripsy probes (Fig. 17.8).
+ • The rise of holmium and thulium laser lithotripsy has reduced the need for offset-eyepiece
+   ureteroscopes, since laser fibres are flexible and do not require a straight channel.
+Ureteral Resectoscopes
+ • Historically, some urologists preferred larger ureteral resectoscopes (11.5 Fr) for resection of large distal
+   ureteric tumours and ureteroscopic endopyelotomy.
+ • Preoperative ureteric stenting was required to permit passage of the larger-calibre resectoscope,
+   particularly up to the ureteropelvic junction.
+ • Laser energy for tissue ablation and incision now avoids the greater trauma of these resectoscopes.
+
+
+
+
+                                                  page 12 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                              UPPER TRACT ENDOSCOPY
+Flexible Ureteroscopes
+Components and Deflection Mechanism
+ • Three fundamental components: optical system, deflection mechanism, working channel.
+ • The non-digital optical system consists of flexible fibreoptic image and light bundles; improvements
+   mirror those described for semirigid ureteroscopes.
+ • Active deflection permits complete manoeuvrability within the intrarenal collecting system.
+ • Mechanism, as a sequence: manually operated lever → control wires running the length of the scope →
+   passing through movable metal rings → fixed at the distal end → moving the lever pulls the wire
+   through the rings and deflects the tip.
+ • “Intuitive” deflection means the tip moves in the same direction as the lever — up is up, down is down.
+ • Modern flexible ureteroscopes deflect both up and down in a single plane.
+ • The plane of deflection is designated by the reticle — a notch visible within the field of view (Fig. 17.9).
+   The scope must be rotated to align the plane of deflection with the intended target.
+ • The active deflection mechanism wears out with repeated use, requiring repair or replacement; each
+   generation improves deflection-mechanism durability.
+Reaching the Lower Pole
+ • Current flexible ureteroscopes permit more than 270 degrees of deflection.
+ • The deflection required to reach the lower pole varies between patients. Measurement of the
+   ureteroinfundibular angle, between the major axis of the ureter and the lower pole infundibulum, gave
+   an average of 140 degrees and a maximum of 175 degrees.
+ • 270 degrees of active deflection should therefore permit visualisation of the lower pole in most
+   patients.
+ • Visualisation is not the same as access. Reaching into the lower pole calyx with the tip in a position that
+   allows work to be done remains challenging, because active deflection occurs only at the distal tip and
+   the deflected segment may be too short to reach the calyx.
+ • Passive (secondary) deflection — the earlier solution: a flexible section just proximal to the point of
+   active deflection. The tip is bent passively off the superior margin of the renal pelvis, moving the point
+   of deflection proximally and effectively lengthening the tip. With passive deflection, the lower pole
+   calyx can be reached in most patients.
+ • Early 2000s improvement: the deflected segment lengthens as it is deflected against the lower pole
+   infundibulum, giving easier lower pole access and better deflection while working instruments are in
+   place. Most modern scopes incorporate this enhanced primary deflection.
+ • Failure to reach the lower pole in significant hydronephrosis is due to the limited ability to engage
+   passive secondary deflection — there is no pelvic wall to buttress against.
+Calibre, Working Channel and Irrigation
+ • Tip diameter as small as 4.5 to 7.5 Fr, with a taper improving atraumatic advancement into the ureter.
+ • All currently available flexible ureteroscopes have a 3.6 Fr working channel.
+ • Adequate irrigation is possible with working devices up to 3 Fr in situ, but higher-pressure irrigation
+   becomes necessary, particularly when a device occupies the channel.
+ • Higher-pressure irrigation delivery options: pressurised irrigation bag, roller pump, foot pump, or
+   handheld devices.
+ • Dual-channel flexible ureteroscope — the Cobra (Richard Wolf): two 3.3 Fr channels permitting
+   unimpeded irrigation through one while a working instrument occupies the other, or both channels
+   used for instruments simultaneously, such as a laser and a basket.
+
+
+                                                  page 13 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                             UPPER TRACT ENDOSCOPY
+Digital Ureteroscopes
+ • Digital flexible ureteroscopes are now the preferred upper tract endoscope for most urology services.
+ • Digital ureteroscopes integrate the camera and light source within the endoscope; no separate camera
+   head is needed because the digital chip — charge-coupled device (CCD) or complementary metal oxide
+   semiconductor (CMOS) — sits in the scope itself.
+ • Because they dispense with the fibreoptic image bundle, separate light cord and camera head, they may
+   be less prone to damage and longer-lived.
+ • Trade-off: digital flexible ureteroscopes are generally larger in diameter than the smallest fibreoptic
+   models.
+ • Consequence of that larger calibre: a prospective comparison found more frequent use of ureteric access
+   sheaths, and more access sheath–related complications, in the digital group.
+ • Efficacy comparison: stone-free rates statistically equivalent, but operative time significantly shorter
+   with digital scopes — attributed to improved visibility (Fig. 17.10).
+ • Future direction: further miniaturisation, optimised digital resolution, improved durability.
+Single-Use Flexible Ureteroscopes
+ • LithoVue (Boston Scientific) — the first single-use flexible ureteroscope.
+ • Rationale: avoiding the high cost of maintaining and repairing reusable endoscopes.
+ • Durability data on reusable flexible ureteroscopes are variable, but some series report repair needed
+   after only three to five cases, and refurbished scopes appear more prone to damage than new scopes.
+ • Cost structure of reusables: reprocessing adds roughly $107 per case in labour and consumables; repair
+   adds approximately $355 to $605 per case.
+ • LithoVue specifications:
+     ◦ Light-emitting diode (LED) light source at the tip
+     ◦ Digital CMOS sensor, depth of field 2 to 50 mm
+     ◦ Tip diameter 7.7 Fr; maximal shaft outer diameter 9.5 Fr
+     ◦ Single working channel of 3.6 Fr
+     ◦ 270-degree active deflection in both directions
+ • Cadaveric comparison against reusable fibreoptic and digital ureteroscopes: comparable visibility and
+   manoeuvrability.
+ • Prospective case-control against a reusable fibreoptic scope: shorter procedure duration and
+   comparable failure rates.
+ • Economics remain undetermined. Some studies report comparable costs; others report benefit in
+   selected settings — low-volume centres, or larger lower pole stones.
+ • Competitor single-use flexible ureteroscopes entered the market in the early 2020s, driving costs down:
+   Pusen, YC-FR-A (YouCare), NeoFlex (NeoScope), Axis (Dornier), and the single-use Flex-Xc (Karl Storz).
+ • Environmental concern about high-volume disposables has been raised, but estimates suggest impacts
+   are comparable to reusables.
+ • The digital platform opens the way to automated intrarenal pressure and temperature monitoring, and
+   to artificial intelligence applications in future scopes.
+
+Care and Sterilisation
+Sites of Damage
+ • Rigid and flexible ureteroscopes are delicate. Damage to the working channel, deflecting mechanism, or
+   image bundle fibres can render the scope useless.
+
+
+                                                   page 14 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                                UPPER TRACT ENDOSCOPY
+ • One series reported flexible ureteroscope repairs necessary after only 3 to 13 hours of use, usually due
+   to deterioration of the deflecting mechanism.
+Working Channel Injury by the Laser Fibre
+ • The working channel is easily damaged, chiefly during passage of a small 200-micron holmium laser
+   fibre.
+ • Mechanism, as a sequence: fibre inserted into a scope that is even minimally deflected → fibre tip
+   scrapes the inner working channel → raises a small irregular area → each subsequent pass of a fibre or
+   instrument worsens it → eventual perforation of the channel.
+ • Once the channel is perforated, sterilisation causes fluid ingress and damage to the imaging system,
+   rendering the scope unusable. This is why perforation is terminal rather than merely a leak.
+ • Firing the fibre within the working channel also injures the scope; the holmium laser can damage the
+   channel when the fibre tip is very close to the channel’s end (Fig. 17.11).
+ • Preventive rule: keep the fibre tip within the central portion of the field of view when firing.
+ • The “golden rule” of safe holmium laser lithotripsy: do not step on the pedal if you cannot see the tip of
+   the fibre in contact with the stone. This protects both the ureter and the ureteroscope.
+ • Also stop firing when repositioning the laser within the scope.
+Cleaning and Sterilisation Methods
+ • After each use: clean the ureteroscope, including the working channel, with warm water and a non-
+   abrasive detergent.
+ • Sterilisation options, three:
+     ◦ Gas — ethylene oxide
+     ◦ Soaking in glutaraldehyde solution
+     ◦ The Steris system — automated washing and rinsing in peracetic acid solution
+
+Guidewires
+Roles and Construction
+ • Guidewires are essential to urological endoscopy. Uses:
+     ◦ Establishing percutaneous or ureteroscopic access
+     ◦ Straightening the ureter
+     ◦ Guiding dilation of the ureter or percutaneous tract
+     ◦ Stent placement
+ • Wires differ in diameter, rigidity, tip design, materials and coating.
+ • Selection depends on the task at hand, the patient’s anatomy, and the specific upper tract problem.
+ • Commonest design: a solid stainless steel core with an outer wire wrapped around it.
+Materials
+ • Nitinol (nickel-titanium) inner core: kink-resistant and slightly stiffer.
+ • Nitinol core with polyurethane outer layer (Zebra, Roadrunner):
+     ◦ Less friction of the ureteroscope passing over polyurethane.
+     ◦ Stiffer core transmits the operator’s “push” more reliably to the ureteroscope tip.
+     ◦ The “memory” property of nitinol also permits angling of the wire tip.
+ • Hydrophilic polymer coating over the polyurethane produces the “glide wire” — exceptionally slippery.
+     ◦ Excellent for negotiating impacted ureteric calculi, tortuous ureters and ureteric strictures.
+
+
+
+                                                    page 15 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                               UPPER TRACT ENDOSCOPY
+     ◦ But too slippery to serve as a safety wire — they slide out of the patient too easily.
+     ◦ Rule: when a hydrophilic wire is used for initial access, exchange it for a standard safety wire through
+       an open-ended catheter.
+ • Hybrid wires — hydrophilic tip with a polytetrafluoroethylene (PTFE)-coated shaft — can serve as both
+   access and safety wire in difficult-access cases.
+Specifications
+ • Diameter range 0.018 to 0.038 inches; commonest in use are 0.035 and 0.038 inch.
+ • Length range 80 to 260 cm; the most useful length for endourology is 145 cm.
+ • Floppy tip is generally 1 to 3 cm.
+ • Bentson and Newton designs have flexible tips of up to 15 cm and are seldom used today.
+ • Movable-core wires allow the core to be partially withdrawn to lengthen the flexible tip.
+ • Distal tip designs: straight, angled, or “J” tipped.
+ • Wire rigidity is varied by changing the diameter and design of the inner core wire.
+ • Stiff wires are useful for straightening tortuous ureters or displacing a sizeable prostatic lobe.
+ • Despite all advances, a 0.038-inch straight, flexible-tip, PTFE-coated stainless steel wire remains an
+   excellent choice for most cases.
+
+Dilation Devices
+Need for Dilation
+ • Smaller-calibre ureteroscopes have made ureteric dilation less often necessary.
+ • The need for dilation is directly related to ureteroscope diameter, falling to under 1% for a 7.4 Fr scope.
+ • Two routes when dilation is needed: passive, by indwelling stent placement, or active, by dilating
+   catheters or balloons.
+Specifications
+ • Ureteric dilating catheters: hydrophilic-coated polyurethane, tapered from a 6 Fr tip to a 12 Fr shaft,
+   passed over a wire.
+ • Ureteric balloon dilators: passed over a wire; low profile of 3 to 8 Fr; dilating diameters 12 to 30 Fr;
+   maximum inflation pressures 8 to 20 atmospheres depending on design and balloon material.
+ • Practical limit: dilation beyond 15 Fr is rarely necessary for routine ureteroscopy.
+ • Zero-tip ureteric balloon dilators are useful for dilating immediately adjacent to an impacted ureteric
+   calculus.
+ • Ureteroscopic balloon dilators: 3 Fr, inflatable to 12 Fr, passed directly through the ureteroscope for
+   dilation under direct vision — stenotic infundibula, calyceal diverticular necks.
+     ◦ Once inflated, these balloons cannot be withdrawn through the ureteroscope; they must be removed
+       together with the scope.
+     ◦ Alternatively used under fluoroscopic guidance, since radio-opaque lines mark the length of the
+       dilating balloon, allowing it to be aligned across the target — taking care not to include a calculus
+       within the balloon length.
+
+Intraluminal Lithotripsy Devices
+Electrohydraulic Lithotripsy
+ • Mechanism: shock waves generated by an electric spark at the tip of the electrode.
+ • Widely available worldwide and cost-effective.
+
+
+
+                                                   page 16 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                              UPPER TRACT ENDOSCOPY
+ • Fragmentation is good for most calculi but less effective against dense compositions — cystine and
+   calcium oxalate monohydrate.
+ • Small flexible probes usable with both rigid and flexible ureteroscopes.
+ • Drawbacks: the energy is poorly focused, causing ureteric trauma — this rarely produces stricture but
+   does impair visibility — and it is easy to damage the ureteroscope.
+ • Consequently electrohydraulic lithotripsy is now rarely used, and the AUA recommends against it as a
+   first-line lithotripsy modality in the ureter.
+Pneumatic Lithotripsy
+ • Mechanism: mechanical “jackhammer” energy.
+ • Fragmentation is very good and the potential for ureteric injury is low.
+ • Principal drawback: significant stone retropulsion.
+ • Rigid probes are confined to rigid scopes; flexible probes exist but significantly restrict scope deflection.
+Lasers
+ • Pulsed dye laser — the first laser successfully used for intraluminal lithotripsy. Abandoned because it
+   could not fragment certain stone compositions and because of high purchase and maintenance costs.
+ • Holmium:YAG — the intraluminal lithotripsy energy of choice since the 1990s.
+     ◦ Wavelength 2100 nm, absorbed within 4 mm of water — the basis of its safety in urology.
+     ◦ Mechanism: photothermal reaction with the crystalline matrix of the calculus, producing stone dust
+       rather than fragments, and removing a moderate volume of stone.
+     ◦ Flexible quartz fibres, usable with both rigid and flexible ureteroscopes, and reusable.
+     ◦ Effective against every stone composition — the key advantage over electrohydraulic lithotripsy and
+       the pulsed dye laser.
+ • Thulium fibre laser — entered the lithotripsy market in 2020, with several theoretical advantages:
+     ◦ Wavelength 1940 nm → faster water absorption and a lower penetration depth of 2.5 mm, against 4
+       mm for holmium.
+     ◦ Firing frequency up to 2000 Hz, against 120 Hz for holmium.
+     ◦ Pulse energy as low as 0.025 J — ideal for fine dusting.
+     ◦ Requires less energy for cooling; therefore no dedicated 240-volt outlet and a smaller footprint than
+       high-powered holmium generators.
+     ◦ Works with fibres as small as 50 µm, whereas holmium is limited to fibres greater than 200 µm —
+       smaller fibres improve irrigation through small working channels and preserve scope deflection.
+     ◦ Outstanding concerns: efficacy across all stone types, and thermal injury at high power.
+ • A prospective randomised trial comparing the two laser types showed no appreciable advantage of
+   either in operative time or stone-free rate — theoretical advantage has not yet translated into clinical
+   superiority.
+
+Stone Retrieval Devices
+Construction and Sizing
+ • Four essential components: control handle, control wire, sheath, and the device itself.
+ • Shaft diameters range from 1.9 to 7.0 Fr.
+ • Ureteroscopic devices must be 3.0 Fr or smaller, to fit the working channel while leaving room for
+   adequate irrigation.
+ • Larger-diameter devices are for cystoscopic or percutaneous procedures.
+
+
+                                                  page 17 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                             UPPER TRACT ENDOSCOPY
+Three-Pronged Grasping Forceps
+ • The safest instruments for removing calculi with a flexible ureteroscope.
+ • Safety mechanism: the weaker grasp releases the stone if excessive force is applied, thereby preventing
+   ureteric damage. They reliably release stones too large to be withdrawn safely.
+ • Critical rule: avoid basketing an irretrievably large stone when using a flexible ureteroscope without a
+   second working channel.
+     ◦ A second working channel permits fragmentation of an unyielding stone trapped in a basket in the
+       other channel.
+     ◦ Rigid ureteroscopes with two working channels therefore allow more routine basket use for ureteric
+       calculi.
+ • Despite being the safest device, three-pronged graspers are seldom used, because basket design and
+   safety have improved.
+Stone Baskets: Sheath Materials
+ • Two sheathing materials in common use: PTFE and polyimide.
+ • Polyimide — durable but stiff; limits flexible ureteroscope deflection.
+ • PTFE — limits deflection less, but is less durable and prone to stretching.
+ • Hybrid design: PTFE at the tip, polyimide in the shaft, combining the advantages of each.
+Stone Baskets: Designs
+ • Helical baskets: available in three-wire, four-wire, or double-wire designs with six or more wires.
+     ◦ Double-wire designs have improved opening strength, aiding removal of impacted calculi.
+     ◦ Some designs unwind the dual wires to expose more wires distally, useful for retrieving multiple
+       small fragments.
+     ◦ Helical baskets have round wires and, unlike flat-wire baskets, are safe to rotate within the ureter.
+     ◦ Technique, as a sequence: open the basket above the stone → pull down → rotate the basket to
+       engage the stone.
+ • Flat-wire baskets: non-helical, four wires with larger spaces between them to engage larger stones.
+     ◦ Originally designed for percutaneous use, where filling the calyx when opened made calyceal stones
+       easier to engage.
+     ◦ Also useful for biopsy of papillary ureteric tumours.
+ • Tipless grasper-basket hybrids (Graspit, Dakota, NGage): designed to combine the safety of three-prong
+   graspers with the secure grasp of a basket. They open at the distal end like a grasper and are advanced
+   onto the stone, permitting easier disengagement of a calculus too large to withdraw safely.
+Stone Baskets: Nitinol
+ • The most recent material innovation is nitinol basket wire.
+ • Properties: soft, with memory; maintains shape; resists kinking. Consequently it opens more safely and
+   disengages stones more reliably than stainless steel.
+ • Nitinol also permits tipless construction — tipless baskets are soft and safe in the ureter and can be
+   deployed more fully within a calyx without interference from a tip, unlike stainless steel baskets.
+
+Retropulsion Prevention Devices
+ • Retropulsion is proximal propulsion of the stone during intraluminal lithotripsy.
+ • Determinants of the degree of retropulsion: stone size, stone location, degree of ureteric dilation, and
+   the lithotripsy energy used.
+
+
+
+                                                  page 18 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                             UPPER TRACT ENDOSCOPY
+ • Retropulsion into the kidney is not always a problem and is sometimes desirable, now that renal calculi
+   can be treated with a flexible ureteroscope.
+ • Prevention is nonetheless more expeditious, and is particularly important when no flexible
+   ureteroscope is available.
+ • Named devices: Stone Cone and LithoCatch (Boston Scientific), NTrap (Cook Urological), Accordion and
+   CoAx (Accordion Medical).
+ • Stone Cone — 3 Fr, with a distal coil deployed above the stone before fragmentation. After
+   fragmentation it is withdrawn to remove fragments; fragments too large to remove safely are left
+   behind, because the coil simply unravels around the stone.
+ • NTrap — 2.8 Fr, with a mesh-like wire basket deploying perpendicular to the shaft, preventing migration
+   of all but the smallest fragments.
+
+Miscellaneous Devices
+ • Cup biopsy forceps — 3 Fr, for biopsy of sessile tumours.
+ • BIGopsy forceps (Cook Urological) — provides a substantially larger specimen, potentially improving
+   diagnostic yield. Two practical constraints: it must be backloaded into the ureteroscope, and after biopsy
+   it must be removed together with the ureteroscope.
+ • Electrodes — pencil tip, ball tip, angled and straight tips — used for fulguration and incisional
+   procedures such as endoureterotomy and endopyelotomy.
+
+Ureteral Access Sheaths
+ • Purpose: repeated access to the intrarenal collecting system without replacing the working guidewire
+   on each passage of the endoscope.
+ • Available in outer diameters of 11 to 16 Fr.
+ • Advantages:
+     ◦ Facilitate retrieval of stone fragments.
+     ◦ Decrease intrapelvic pressure during ureteroscopy, which may reduce infectious complications arising
+       from pyelovenous backflow.
+ • Disadvantages:
+     ◦ Size, with a small potential for ureteric injury.
+     ◦ Most intrarenal stones require only a single passage of the ureteroscope to access and fragment
+       completely — in such cases an access sheath is usually unnecessary.
+
+Fluoroscopy Equipment
+ • Three uses in ureteroscopic procedures: initial ureteric access, monitoring during endoscopy, and stent
+   placement.
+ • Mobile C-arm units are preferable to tables with fixed fluoroscopy units. Three reasons: greater mobility,
+   improved image quality, and less scatter radiation to the surgeon because the x-ray source lies below
+   the patient.
+ • Modern C-arms incorporate digital image enhancement and “last image hold” to minimise radiation
+   exposure.
+ • Further dose reduction: image collimation and pulsed fluoroscopy.
+ • The urologist should control the unit by foot pedal, which speeds the case and minimises excessive
+   fluoroscopy time.
+ • “Fluoroless” ureteroscopy series have been published, calling into question the need for imaging in
+   routine cases.
+
+
+                                                    page 19 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                                          UPPER TRACT ENDOSCOPY
+Ureteroscopy Technique
+Preparation for Ureteroscopy
+Infection Screening and Prophylaxis
+ • Urinalysis and urine culture, if indicated, before upper tract endoscopy.
+ • Urinary tract infections are treated preoperatively with culture-specific antibiotics.
+ • Key contrast with cystoscopy: per the AUA Best Practice Policy Statement, ALL patients undergoing
+   upper tract endoscopy should receive antibiotic prophylaxis — unlike diagnostic cystourethroscopy,
+   where prophylaxis is withheld in the absence of risk factors.
+ • AUA agents of choice for upper tract endoscopy: trimethoprim-sulfamethoxazole, or a first- or second-
+   generation cephalosporin.
+ • AUA acceptable alternatives: an aminoglycoside with or without ampicillin, or amoxicillin/clavulanate.
+ • EAU position: the specific antimicrobial should be chosen on the basis of local pathogen prevalence for
+   each type of procedure. Options named by the EAU: trimethoprim with or without sulfamethoxazole,
+   amoxicillin/clavulanate, or a second- or third-generation cephalosporin.
+Anaesthesia
+ • Options: general (endotracheal tube or laryngeal mask), regional, or local with sedation.
+ • Advantages of general anaesthesia with an endotracheal tube (ET):
+     ◦ Renal excursion can be manipulated by adjusting tidal volume and respiratory rate.
+     ◦ Periods of apnoea can be induced to facilitate stone treatment.
+ • Laryngeal mask airway has been associated with significantly greater lasing inefficiency than ET
+   intubation.
+ • However, meta-analysis comparing neuraxial with general anaesthesia found no difference in stone-free
+   rate, operative time, pain scores, complication rate, or length of stay. The anaesthetic choice has not
+   been shown to alter outcomes.
+Theatre Readiness
+ • Endourological procedures should be performed in a fully equipped operating room; the urologist must
+   be prepared for any unanticipated problem.
+ • Guidewires to have available beyond the conventional PTFE-coated stainless steel wire: angled
+   hydrophilic, nitinol core, and extra-stiff.
+ • Dilation devices as standard: dilating catheters, high-pressure balloon catheters, zero-tipped balloon
+   catheters.
+ • Angled catheters that can be reliably rotated or “torqued” assist access beyond impacted calculi,
+   strictures and tortuous ureters.
+ • The urologist must know the available endoscopes and their working channel sizes, in order to select
+   appropriately sized instruments.
+ • Additional flexible and semirigid ureteroscopes should be immediately available — for unexpected
+   findings or to replace a scope that breaks intraoperatively.
+
+TABLE 17.3 COMMON SUPPLIES FOR URETEROSCOPY
+Category                       Items
+Ureteroscopes, rigid           7 Fr or smaller semirigid; larger scope with straight working channel (optional)
+Ureteroscopes, flexible        7.5 Fr; 8.6 Fr or larger; secondary or exaggerated deflection capable
+Guidewires (all 0.038 inch) Angled hydrophilic; straight PTFE-coated; nitinol core with polyurethane coating; extra-stiff
+
+
+                                                         page 20 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                                        UPPER TRACT ENDOSCOPY
+
+Category                       Items
+Irrigation                     Power irrigation device; high-pressure working port seal
+Stone retrieval (≤3.0 Fr)      Helical basket; tipless basket; three-pronged grasping forceps or equivalent
+Catheters                      Dual-lumen; 6–12 Fr dilating; 5 Fr open-ended; 5 Fr angled-tip torqueable
+Dilation devices               High-pressure ureteric dilating balloons (5–7 mm); zero-tip dilating balloon
+Biopsy devices                 3 Fr cup biopsy; flat-wire basket; BIGopsy (optional)
+Ureteric stents                5–7 Fr, 20–28 cm, double pigtail
+Intraluminal lithotripsy       Holmium laser; pneumatic (optional); electrohydraulic (optional)
+
+ • What the table is for: it is a readiness checklist, not a list to memorise item by item. The pattern across its
+   rows is redundancy at every step — a second scope, a second wire type, a second dilation route, a second
+   energy source.
+ • The trap it sets: reading the 5–7 mm balloon row as the standard ureteric dilation size. It is what is
+   stocked; the orifice needs only 4 mm.
+
+Accessing the Ureter
+ • Position: cystolithotomy position.
+ • Sequence: cystoscopy → thorough bladder inspection → placement of a safety guidewire.
+ • A simple 0.038-inch flexible-tip PTFE-coated guidewire is usually sufficient as the safety wire.
+ • Purpose of the safety wire: maintain access and permit stent placement if difficulty arises.
+ • The ureter is easily perforated when accessing an impacted stone — the central hazard of this step.
+ • Manipulating the wire past the stone may require an angled hydrophilic wire, an angled torque
+   catheter, or both.
+ • If the wire cannot be safely passed beyond the stone: inspect the ureter up to the stone with the rigid
+   ureteroscope, which may permit passage of the wire under direct vision.
+ • Once access above the stone is achieved, exchange the hydrophilic wire through a ureteric catheter for a
+   more secure 0.038-inch PTFE-coated wire.
+ • Hybrid wires do not require this exchange, serving as both safety and access wire.
+ • If infection above the stone is suspected: pass an open-ended catheter over the wire and aspirate the
+   renal pelvis.
+     ◦ If the aspirate is turbid → place a stent and postpone ureteroscopy until the infection is treated. This
+       is the abort trigger.
+ • Before proceeding: drain the bladder, to minimise overdistension during ureteroscopy and reduce
+   buckling of the flexible ureteroscope into the bladder.
+
+Semirigid Ureteroscopy Technique
+Division of Labour
+ • Flexible ureteroscopes better accommodate the natural tortuosity of the ureter; deflection gives better
+   access to the intrarenal collecting system.
+ • Flexible ureteroscopes are difficult to control in the distal ureter, with poorer irrigation and
+   visualisation.
+ • Therefore semirigid ureteroscopy is generally used for the ureter distal to the iliac vessels.
+
+
+
+
+                                                         page 21 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                              UPPER TRACT ENDOSCOPY
+Entering the Intramural Ureter
+ • Sequence: cystoscopic placement of a safety guidewire in the ureter → ureteroscope introduced
+   through the urethra into the bladder under direct vision → the contralateral leg may need elevating to
+   permit passage into the intramural ureter.
+ • “Riding the rails” technique, as a sequence: manoeuvre the ureteroscope tip alongside the guidewire
+   posterolaterally → elevate the wire, propping the ureteric orifice open → if needed, pass an additional
+   wire through the ureteroscope into the ureter just beyond the intramural segment → rotate the
+   ureteroscope until it lies directly between the two wires, holding the orifice widely open → advance the
+   scope → remove the additional wire once through the intramural ureter (Fig. 17.12).
+ • The same technique is useful for negotiating tortuous ureteric segments.
+When the Intramural Ureter Will Not Admit the Scope
+ • Safest option: place a ureteric stent for passive dilation and return to theatre in 1 to 2 weeks.
+ • Alternative: balloon dilation of the ureteric orifice — a 4 mm diameter balloon is sufficient.
+ • Absolute caution: do not dilate a segment of ureter containing a stone — this causes ureteric
+   perforation and possible extravasation of the stone.
+ • If a stricture beneath a stone prevents safe visualisation and lithotripsy: use a zero-tip balloon passed
+   over the safety wire immediately below the stone, dilating the stenotic segment while avoiding the
+   stone. The ureteroscope can then be introduced safely and the stone visualised.
+The Impacted Stone
+ • Preferred manoeuvre: gently displace the impacted stone proximally with the ureteroscope tip, out of
+   the traumatised segment, for better visibility and safer lithotripsy.
+ • If displacement is impossible: the “drill and core” technique — treat the central portion of the stone
+   with laser energy, using the outer shell to protect the ureteric wall → then safely fragment the collapsed
+   outer shell.
+ • As soon as the ureter above the stone becomes visible, place a safety wire directly through the
+   ureteroscope before completing stone treatment.
+ • Two acceptable endpoints for ureteric stones: “dusting” until no fragment exceeds 2 mm, or cleaving
+   until pieces are small enough for easy basket retrieval.
+
+Flexible Ureteroscopy Technique
+Establishing Access
+ • Sequence: guidewire placed in the ureter → cystoscope removed → 10 Fr dual-lumen catheter passed
+   over the wire → gently dilates the ureteric orifice and permits placement of a second, working wire →
+   flexible ureteroscope passed over the taut working wire to the site of pathology.
+ • Dilation by the dual-lumen catheter is usually sufficient to permit passage of the flexible ureteroscope.
+ • The working channel of a flexible ureteroscope is not centrally located, so the scope tip sits eccentrically
+   relative to the guidewire.
+ • If the scope will not pass the orifice: rotate it 90 to 180 degrees on the guidewire to reposition the tip
+   relative to the orifice.
+ • If difficulty persists: use a dilating catheter or balloon to widen the orifice.
+ • If passage is difficult without significant obstruction: substitute a nitinol-core, polyurethane-coated
+   guidewire — stiffer and smoother, transmitting the operator’s force more efficiently to the scope tip.
+
+
+
+
+                                                   page 22 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                             UPPER TRACT ENDOSCOPY
+Rates of Formal Ureteric Dilation
+ • Most ureteroscopy series report formal ureteric dilation needed in roughly 8–25% of patients, a figure
+   that has fallen with smaller-calibre flexible ureteroscopes.
+ • However, a large multinational registry found dilation still performed in about a third of cases, indicating
+   it remains common practice worldwide.
+The Safety Wire
+ • Traditional rationale: maintain access throughout the procedure, permitting ureteric stent placement
+   should ureteric injury occur.
+ • Three developments have called the need for a safety wire into question in uncomplicated
+   ureteroscopy: continued miniaturisation of ureteroscopes, widespread adoption of upper tract
+   endoscopic techniques, and the absence of comparative series in the literature.
+ • The safety wire remains standard; it is its necessity in uncomplicated cases that is disputed, not
+   established as dispensable.
+Basic Movements
+ • Three basic movements: deflection, rotation, and advancing or retreating the scope.
+ • The reticle marks the plane of deflection; the scope must be rotated to align that plane with the
+   intended target.
+ • Failure to rotate the ureteroscope adequately is the commonest mistake of the novice ureteroscopist.
+ • Finest rotational control is obtained by pinching the scope near the meatus, this being closest to the tip.
+ • Caveat: over-rotation of a fibreoptic scope damages the fibre bundles. This is not an issue with digital
+   scopes.
+Irrigation
+  • Delivery: pressurised irrigation bag, pump, foot pump, or handheld syringe.
+ • Irrigation must be well controlled and delivered only when needed to clear the visual field.
+ • Normal saline must be used, to prevent accumulation and absorption of a hypotonic solution and
+   consequent transurethral resection (TUR) syndrome.
+Laser Fibre Handling
+ • The flexible ureteroscope must be straight when the laser fibre is passed, or the working channel will be
+   damaged.
+ • Sole exception: a ball-tip fibre, which may be passed safely while the scope is actively deflected.
+ • Fibres of 200 to 365 microns are most commonly used.
+ • Where significant deflection is required, the 200-micron fibre is preferred — it restricts scope deflection
+   less and permits higher irrigation flow through the shared working channel.
+Lower Pole Strategy
+ • Preference: relocate the stone out of the lower pole rather than rely on a smaller laser fibre.
+ • A randomised study showed significantly higher stone-free status when lower pole stones were
+   displaced before treatment compared with in situ lithotripsy.
+ • Not all lower pole stones are accessible in the standard lithotomy position.
+ • T-tilt position = 15-degree Trendelenburg plus 15-degree airplane rotation away from the side of the
+   operated kidney. It improves lower pole access and stone-free rates relative to lithotomy.
+ • When relocation is impossible: prolonged manual deflection while treating lower pole stones in situ is a
+   critical factor degrading the durability of reusable ureteroscopes. Therefore, if economically feasible,
+
+
+
+                                                 page 23 of 24
+Chapter 17 — Principles of Urologic Endoscopy                                                        CONCLUSIONS
+   use a disposable ureteroscope for large lower pole stones that cannot be relocated, given the high
+   likelihood of scope damage.
+Protecting the Scope from the Laser
+ • The laser is a common cause of ureteroscope damage.
+ • Rule one: do not activate the laser unless the fibre tip is seen in contact with the stone.
+ • Rule two: do not activate the laser if the aiming beam is not visible — absence of the aiming beam may
+   indicate fibre damage, and firing through a broken fibre causes significant scope injury.
+Postoperative Analgesia
+ • Nonsteroidal anti-inflammatory drugs (NSAIDs), an alpha-adrenergic blocker, or both.
+
+ KEY POINTS: URETEROSCOPY
+   • Semirigid ureteroscopy is used below the iliac vessels; flexible ureteroscopy above.
+   • Semirigid ureteroscopes with two working channels permit better irrigation and allow a lithotripsy
+     device to be passed through one channel to fragment a stone engaged in a basket in the other.
+   • Flexible ureteroscopes must be straight when passing a laser fibre, or the working channel will be
+     damaged.
+   • The golden rule of safe laser lithotripsy: do not step on the pedal if you cannot see the tip of the fibre
+     in contact with the stone.
+   • Nitinol stone baskets maintain their shape, resist kinking, and disengage stones more reliably than
+     stainless steel baskets.
+   • Ureteral access sheaths facilitate repeated passage of flexible ureteroscopes and decrease intrapelvic
+     pressure.
+   • Mobile C-arm fluoroscopy is preferred for greater mobility, improved image quality, and less scatter
+     radiation to the surgeon than fixed-unit urology tables.
+   • A routine preoperative antibiotic should be given to all patients undergoing ureteroscopy.
+   • Normal saline should be used as irrigation during ureteroscopy to prevent absorption of a hypotonic
+     solution.
+
+
+CONCLUSIONS
+ • Over the past 150 years, advances in endoscope design have transformed urological surgery.
+ • Visualisation of both upper and lower urinary tracts is now routine with rigid and flexible endoscopes.
+ • Office flexible cystoscopy allows efficient evaluation of a range of conditions with minimal discomfort.
+ • Rigid cystourethroscopy in theatre manages a wide array of benign and malignant bladder and urethral
+   pathology with limited morbidity.
+ • Improvements in flexible ureteroscopes, working instruments, energy delivery and technique have
+   improved treatment of upper tract disease.
+ • The role of ureteroscopy in complex intrarenal calculi, ureteric obstruction and upper tract tumours will
+   continue to grow.
+
+
+
+
+                                                  page 24 of 24
+

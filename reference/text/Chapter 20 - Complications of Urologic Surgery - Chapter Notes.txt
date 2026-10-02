@@ -1,0 +1,880 @@
+Chapter 20 — Complications of Urologic Surgery                                                                  Introduction
+
+Chapter 20 — Complications of Urologic Surgery
+ • Minimally invasive surgery (MIS) lowered morbidity but introduced new complications. Index
+   oncological and reconstructive operations are now largely laparoscopic or robotic; trainee exposure to
+   open surgery has fallen, but the principles of managing major complications are unchanged.
+ • Learning curves have shortened (open radical prostatectomy 100–1000 cases; robotic about 40), yet
+   complication rates have not fallen in step, partly because many young surgeons are still on the curve.
+ • Laparoscopic risk factors: complex procedures (partial nephrectomy, cystectomy), operating time >4 h,
+   serum creatinine >1.5 mg/dL.
+ • Complexity versus experience: complications rise up to ninefold with complexity and fall fourfold with
+   experience. Yet absolute numbers can rise with experience, because harder cases are taken on;
+   complication and conversion rates climb from easy to very difficult operations.
+ • Laparoscopy carries every open complication plus its own (pneumoperitoneum, access), so a high index
+   of suspicion is needed during and after surgery.
+ • Technology also treats complications (interventional radiology, MIS repair). Recent graduates may meet
+   complications never seen in training, with no specific guidelines; simulators and animal models may
+   bridge the gap.
+ • Scope: positioning, access, vascular, urinary, bowel and visceral complications; procedure-specific
+   endourological complications are covered in their own chapters.
+Concept — complication burden reflects complexity multiplied by inexperience: experience lowers risk per
+case but moves surgeons to harder cases, so absolute numbers need not fall.
+
+CLASSIFICATION OF COMPLICATIONS
+
+The Clavien-Dindo Scale
+ • The recommended uniform reporting system. It grades by invasiveness of the treatment needed, not by
+   severity of the event.
+ • Not designed for urology but validated as simple, reproducible and applicable; urological use roughly
+   doubled between 2010 and 2012.
+ • Limitations: management-based rather than morbidity-based; no early/late distinction; omits
+   intraoperative events; may be unsuitable in paediatric urology.
+ • High interobserver agreement, even in ambiguous cases; about 80% trainee–attending concordance. The
+   most widely used tool.
+ • Percutaneous nephrolithotomy (PCNL): good concordance for higher grades, poor at grade 3 or below,
+   because perceived risk and required management diverge. Since applied to radical nephrectomy and
+   robotic prostatectomy.
+ • Standardisation is the cornerstone of error reduction; future procedural guidelines may standardise steps
+   and define surgical errors.
+TABLE 20.1 THE CLAVIEN-DINDO CLASSIFICATION
+ Grade            Definition                                           Includes / key detail
+ I                Deviation from normal course without drugs or        Antiemetics, antipyretics, analgesics, diuretics,
+                  surgical, endoscopic or radiological intervention    electrolytes, physiotherapy; wound opened at
+                                                                       the bedside
+
+
+
+
+                                                        page 1 of 18
+Chapter 20 — Complications of Urologic Surgery                                                              Physiologic Complications
+
+ Grade             Definition                                                   Includes / key detail
+ II                Drugs beyond those allowed in grade I                        Blood transfusion; total parenteral nutrition
+                                                                                (TPN)
+ IIIa / IIIb       Surgical, endoscopic or radiological intervention            IIIa without, IIIb under general anaesthesia
+ IVa / IVb         Life-threatening; intermediate or intensive care (IC/        IVa single organ (includes dialysis); IVb
+                   ICU)                                                         multiorgan. CNS events count (haemorrhage,
+                                                                                ischaemic stroke, subarachnoid bleed), not
+                                                                                transient ischaemic attack (TIA)
+ V                 Death                                                        —
+ Suffix “d”        Complication present at discharge (“disability”)             Added to the grade; flags need for follow-up
+Treatment modality is the cornerstone. Seven grades; subdivisions allow rare, severe complications to be pooled.
+ • Pattern: I–II drugs; III intervention, split by anaesthesia; IV organ failure, split by number of organs; V
+   death.
+ • Traps: transfusion is II; bedside wound opening is I; dialysis is IVa; TIA excluded; “d” is a suffix, not a grade;
+   III split by anaesthesia, not procedure size.
+Concept — Clavien-Dindo grades the response, not the event: the same complication is grade I or IIIb purely
+according to what treated it.
+
+PHYSIOLOGIC COMPLICATIONS
+ • Pneumoperitoneum: bradycardia from peritoneal gas distension; hypercarbia and acidosis from carbon
+   dioxide (CO2); reduced respiratory reserve with raised airway pressure (detailed in the laparoscopy
+      chapters).
+
+POSITIONAL AND NEUROMUSCULAR COMPLICATIONS
+ • Mechanism: direct surgical trauma or positioning, mostly a nerve compressed against the patient's body
+   or the table.
+ • Positions: supine, lateral decubitus (flank), lithotomy, and robotic steep Trendelenburg, which
+   compromises all four limbs.
+ • Obesity raises risk twice over: weight on pressure points and longer operations.
+ • Incidence about 1% (large laparoscopic series), <3% in urology generally, up to about 6% in robotic series.
+   Permanent deficit is very rare; most recover spontaneously.
+
+Positional Nerve Injury
+ • Prolonged compression, with or without padding; presents immediately after surgery with sensory loss,
+   paraesthesia or weakness in the nerve's territory.
+POSITIONAL NERVE INJURIES BY POSITION
+ Position               Nerve                    Mechanism                                 Deficit
+ Lithotomy              Posterior tibial         Back of knee against stirrup              Weak plantarflexion; numb sole and
+                                                                                           lateral foot; calf paraesthesia
+ Lithotomy              Common                   Stirrup at the fibular neck               Foot drop; weak eversion
+                        peroneal
+ Lithotomy              Pudendal                 Leg traction; stirrup compression         Perineal numbness; rarely
+                                                                                           incontinence
+ Exaggerated            Obturator                Hip hyperflexion                          Weak adduction
+ lithotomy
+
+
+                                                              page 2 of 18
+Chapter 20 — Complications of Urologic Surgery                                             Positional and Neuromuscular Complications
+
+ Position               Nerve                    Mechanism                                 Deficit
+ Lateral                Peroneal                 Unpadded leg against table                Ipsilateral foot drop
+                        (dependent leg)
+ Lateral                Brachial plexus          Dependent shoulder or arm under rib Shoulder pain, arm weakness;
+                                                 cage                                axillary roll (flank, prone)
+ Supine or lateral      Brachial plexus          Most cases: abduction >90°, external      Shoulder pain, arm weakness; early
+                                                 rotation, posterior shoulder              physiotherapy
+                                                 displacement
+ Supine                 Sciatic                  Inadequate padding                        Numb lateral calf and foot
+ Supine, arm off        Radial / median          Supination → radial; pronation →          Radial: wrist drop. Median: weak
+ board                                           median                                    grip, palmar numbness
+ Supine; arms           Ulnar                    Forearm hyperextended and                 Weak grip or claw hand (MCP
+ tucked (robotic)                                pronated; elbow flexed 90° across         extended, IP flexed, 4th–5th fingers)
+                                                 chest; pressure against torso or table
+ Prone (PCNL)           Ilioinguinal             Lower bolster too firm                    Sensory neuropathy
+ Prone; reverse         Anterior tibial          Foot held in plantarflexion (weight       Foot drop
+ Trendelenburg                                   on unsupported soles)
+ Prone                  Lateral femoral          Lateral thigh pressure                    Numb lateral and anterior thigh
+                        cutaneous
+
+ • Pattern: the injured nerve is the one crossing a hard edge in that position.
+ • Traps: radial versus median turns on supination versus pronation; foot drop may be peroneal (lithotomy,
+   lateral) or anterior tibial (prone). Check arm abduction and fixation before draping, since it is invisible
+   afterwards. With robotic arms tucked, pad the hands and keep the wrists straight.
+
+Operative Nerve Injury
+ • The nerves most often met are the genitofemoral, ilioinguinal and obturator.
+OPERATIVE NERVE INJURIES
+ Nerve               Operation                    Mechanism / deficit                     Prevention / repair
+ Genitofemoral       Reimplantation,              Entrapped by psoas anchoring            Sutures longitudinal, along the
+ (also femoral,      psoas hitch                  suture → scrotal and medial thigh       tendon, not across it
+ lateral             (neuropathy about            numbness; paraesthesia to severe
+ cutaneous)          5%)                          pain = “psoas syndrome”
+ Femoral             Psoas hitch                  In very thin patients, nerve            Positively identify the tendon
+                                                  mistaken for an indistinct tendon
+ Ilioinguinal        Inguinal                     Inguinal and lateral hemiscrotal        —
+                     orchidectomy; hernia         pain, paraesthesia
+                     repair (most injuries)
+ Obturator           Pelvic lymph node            Clipped or cut → medial thigh           Clip only with the nerve in view;
+                     dissection; robotic          numbness, adductor weakness.            remove clips on it. Transection →
+                     cystectomy (lateral          Proximal segment near the               tension-free 7-0 non-absorbable
+                     landmark)                    internal iliac vein most at risk        repair (open or robotic) plus early
+                                                  (about 78%)                             intensive physiotherapy. Rates fell with
+                                                                                          experience (about 5% → 0.1%)
+
+
+
+
+                                                              page 3 of 18
+Chapter 20 — Complications of Urologic Surgery                                                                 Urinary Complications
+
+ Nerve               Operation                   Mechanism / deficit                    Prevention / repair
+ Intercostal /   Open flank incision,            Run along the inferior rib border      Incise from the upper border of the
+ subcostal (T10– lumbotomy                       with the vessels                       11th rib or tip of the 12th towards the
+ T12)                                                                                   umbilicus; layered closure (bulky
+                                                                                        single layer entraps)
+
+ • Obturator exposure: displace the external iliac vessels and nodal packets in the triangle of Marcille
+   medially.
+
+Gluteal Compartment Syndrome and Lower Extremity Compartment Syndrome
+GLUTEAL VERSUS LOWER EXTREMITY COMPARTMENT SYNDROME
+                     Gluteal                                               Lower extremity
+ Frequency           Very rare; usually trauma or medical;                 1 in 3500 overall; up to 1 in 500 radical
+                     positional cases in obese patients after long         cystectomies
+                     operations
+ Setting             Obesity, prolonged surgery                            Lithotomy, especially early MIS experience (long
+                                                                           cases)
+ Mechanism           Compression                                           Low limb perfusion pressure → ischaemia → rising
+                                                                           compartment pressure
+ Signs               Gluteal tenderness; reduced vibration sense;          Extreme leg pain; exclude deep vein thrombosis
+                     swollen thighs and buttocks; pain on passive          (DVT) by duplex
+                     stretch
+ Risk factors        Obesity; long operation                               Obesity, peripheral vascular disease, major blood
+                                                                           loss, muscular calves, intraoperative hypotension
+ Action              Orthopaedic consult; compartment              Fasciotomy if >30 mmHg and symptomatic; >50
+                     pressures; early fasciotomy prevents          mmHg for >3–4 h → irreversible muscle damage
+                     rhabdomyolysis, creatine kinase surge, kidney
+                     injury
+ Prevention          Limit time; padding                                   No excessive leg elevation; lower legs every 2 h;
+                                                                           avoid ankle dorsiflexion at set-up; pad
+
+Risk Factors and Diagnosis
+ • Delayed diagnosis is disastrous; the whole team should know the risk factors, for prevention and early
+   recognition.
+Concept — positional injury is a product of pressure and time: every preventive measure lowers one
+(padding, limb angles) or the other (lowering the legs, shorter operations), and obesity worsens both.
+
+URINARY COMPLICATIONS
+ • Urine leaks are common after upper and lower tract, extirpative and reconstructive surgery, adding
+   morbidity and stay; management is similar open or MIS. Intraoperative detection and repair reduce
+   morbidity and avoid secondary procedures, but many leaks appear days to weeks later.
+
+URINE LEAKS AFTER UPPER TRACT UROLOGIC SURGERY
+ • Follow partial nephrectomy and pyeloplasty; the ureter is also injured in gynaecological and general
+   surgical retroperitoneal operations. Same principles throughout.
+
+Urine Leaks After Partial Nephrectomy
+ • Second only to haemorrhage as a complication of partial nephrectomy.
+
+
+
+                                                            page 4 of 18
+Chapter 20 — Complications of Urologic Surgery                                                        Ureteral Injuries
+ • Incidence falling: historically about 1–17% open and laparoscopic, below 1% in expert robotic series.
+   Early low laparoscopic rates reflected selection (large, endophytic, hilar tumours went open). No review
+   shows a significant difference between techniques; robotic surgery may improve ischaemia time, margins
+   and renal recovery over laparoscopy.
+ • Risk factors: tumour size, endophytic growth, warm ischaemia time, operating time, hilar location.
+ • Presentation: after transperitoneal MIS, ileus, fever, abdominal pain; after open surgery, contained
+   retroperitoneally (ileus rare). Mean about day 13 (3–32); most are readmitted.
+ • Drains: benefit uncertain; many omit one after MIS because urinomas are rare.
+ • Diagnosis: computed tomography (CT) urography with delayed images is the mainstay (extent and site).
+   Drain creatinine >48 h after surgery confirms a fistula but not its site or size.
+ • Prevention: find collecting-system entry with retrograde dilute methylene blue via a pre-placed ureteric
+   catheter; close watertight with absorbable suture before renorrhaphy.
+Management
+ • Conservative management is the mainstay after any approach: most leaks heal with drainage and no
+   infection, sometimes needing a drain long term.
+ • Trap: high early drain output after MIS may be pooled blood and irrigant redistributing once the patient is
+   supine or mobile, not urine; check drain creatinine.
+ • Prolonged leak (>30 days) is linked to variant pelvic anatomy and age; a minority need secondary
+   intervention; healing can take 80 days or more.
+Escalation: drain creatinine → keep or reinsert the Foley (bladder pressure reaches the upper tract) →
+ureteric stent with retrograde pyelogram → drain off suction and withdrawn in stages, since a drain against
+the leak acts as a siphon → interventional radiology (IR) drainage of undrained or growing collections →
+second stent, nephrostomy, or ureteroscopic calyceal fulguration with fibrin sealant (desmopressin rarely) →
+refractory infected leak: nephrectomy, last resort.
+ • Skin: urostomy appliance over a leaking drain site; the patient logs output to track resolution.
+Concept — an upper-tract leak heals once the path of least resistance runs down the ureter: each step
+lowers downstream pressure or removes a competing low-pressure exit.
+
+URETERAL INJURIES
+
+Incidence and Anatomic Landmarks
+ • Possibly the commonest surgical complication urologists manage, often as an intraoperative consult.
+ • Hysterectomy: under 1% despite sealing devices, and most unrecognised at operation; laparoscopic
+   hysterectomy injuries lie near the uterine artery and uterosacral ligament. Laparoscopic colorectal
+   surgery about 1%.
+ • Delayed recognition → urinoma, ileus, sepsis, shock; nephrostomy need about tenfold that of early
+   recognition.
+ • Risk factors: pelvic radiotherapy, malignancy, previous surgery, adhesions, extensive retroperitoneal
+   lymph node dissection (RPLND).
+ • Prophylactic ureteric catheters: no robust evidence; may cause oedema, obstruction and acute kidney
+   injury (AKI).
+ • Gynaecological anatomy: ureter runs with the ovarian vessels, beneath the uterine artery, beside the
+   uterosacral ligament; vulnerable at the pelvic inlet and infundibulopelvic ligament.
+
+
+
+
+                                                  page 5 of 18
+Chapter 20 — Complications of Urologic Surgery                                                                  Ureteral Injuries
+
+Mechanisms of Ureteral Injury
+ • Spectrum: pinpoint thermal (usually silent) → ligation → partial or complete transection. Transections are
+   most often identified and repaired at once; ligation and thermal injury present late; devascularisation →
+   delayed stricture or necrosis.
+ • Rare in urological laparoscopy. Identify the ureter early, before ligating any critical pedicle.
+ • Danger sites and landmarks: gonadal vessels and lower renal pole; pelvic brim, where it crosses the
+   common iliac artery (best place to find and trace it); under the uterine vessels; posterior seminal vesicle
+   dissection in robotic prostatectomy. Most useful in retroperitoneal fibrosis and complex partial
+   nephrectomy.
+
+Intraoperative Management
+INTRAOPERATIVE URETERIC INJURY — MANAGEMENT
+ Injury                                             Management
+ Needle through the full wall; limited              Remove the suture; endoscopic stent at the end
+ thermal injury
+ Partial tear, minimal tissue loss                  Primary closure, 4-0 or 5-0 absorbable, over a stent passed through the
+                                                    defect; stent 4–8 weeks
+ Complete transection, upper two-thirds             Ureteroureterostomy: trim, spatulate, stented anastomosis
+ (above the pelvic inlet)
+ Complete transection, lower ureter                 Ureteroneocystostomy with psoas hitch (MIS or modified Gibson
+                                                    incision)
+ Extensive loss                                     Boari flap
+
+ • Principles: tension-free; stent ≥4–8 weeks; drain.
+
+Presentation of Unrecognized Ureteral Injuries
+ • Leak → infection, urinary ascites, sepsis; rising drain output is a warning.
+ • After gynaecological surgery, ureterovaginal fistula is about 30% of repairs; ureteroneocystostomy is the
+   usual repair (about 70%).
+ • Imaging: CT abdomen and pelvis, intravenous contrast, delayed images of the whole ureter.
+DELAYED URETERIC INJURY — TIMING
+ Situation                                       Action
+ First line, any time                            Endoscopic: retrograde stent, or nephrostomy with antegrade stent,
+                                                 bridging partial transections and small leaks
+ Found ≤7 days, endoscopy inadequate             Early repair (inflammation limited)
+ Later, or endoscopy failed                      Stent, nephrostomy or nephroureteral stent → repair after 6 weeks
+ Uncontrolled sepsis, persisting                 Immediate repair regardless of timing
+ collections
+
+ • Drain every urinoma, even once the leak stops. Stents stay 4–8 weeks, matching resolution of
+   inflammation.
+
+Ureterovaginal Fistula
+ • Delayed presentation, continuous incontinence. Intravenous methylene blue with the Foley clamped →
+   blue vaginal pad indicates a fistula.
+ • May coexist with vesicovaginal fistula (VVF) → double-dye pad test: oral phenazopyridine + intravesical
+   methylene blue, catheter clamped, vaginal pad.
+
+
+
+                                                            page 6 of 18
+Chapter 20 — Complications of Urologic Surgery                                           Lower Tract Urinary Complications
+DOUBLE-DYE PAD TEST
+ Pad stain                                            Fistula
+ Orange (dye from the kidney)                         Ureterovaginal
+ Blue (dye from the bladder)                          Vesicovaginal
+ Blue distally, orange proximally                     Both
+
+Strictures
+ • Endoscopy first (laser, balloon) for short strictures; surgery if it fails or the stricture is >2 cm.
+   Retroperitoneal fibrosis makes repair hard.
+ • By level: short upper → ureteroureterostomy; lower → reimplantation with psoas hitch; mid → Boari
+   flap; long upper → ileal ureter; long gaps → robotic buccal mucosa graft; right side → appendix.
+ • Indocyanine green (ICG) with robotic Firefly imaging checks perfusion of trimmed ends. Open repair
+   when adhesions or multiple prior operations preclude MIS.
+ • Prevention: preoperative stents; lighted stents to offset absent haptic feedback.
+Concept — level and length choose the repair; inflammation chooses the timing. The lower the defect, the
+more bladder can be brought up (reimplant → psoas hitch → Boari flap); higher or longer gaps need
+ureteroureterostomy or interposition. Repair within 7 days or after 6 weeks, with drainage bridging the
+interval.
+
+LOWER TRACT URINARY COMPLICATIONS
+
+Bladder Injuries
+ • Rare in urological MIS; commoner in gynaecological (raising the bladder flap at hysterectomy) and
+   colorectal surgery.
+ • At operation: two-layer absorbable closure; catheter 7–10 days to heal and prevent VVF.
+ • Postoperatively it mimics ureteric injury (distension, ileus, fever, rigors, leucocytosis, rising drain output);
+   diagnose by CT cystography.
+ • Intraperitoneal → two-layer repair (robotic or open); small contained extraperitoneal → catheter alone;
+   extensive post-hysterectomy injury → definitive repair (fistula risk).
+ • Commonest urological bladder injury: posterior bladder-neck “buttonhole” in robotic radical
+   prostatectomy (RARP) at the vesicoprostatic junction. Keep the plane without stripping the bladder neck;
+   identify the ureteric orifices when difficult (prior transurethral resection, microwave therapy, large
+   median lobe); 5-Fr feeding tubes or preoperative stents help the less experienced.
+ • Bladder cuff leak (distal ureterectomy, nephroureterectomy) resolves with 7–10 days of drainage.
+
+Urine Leaks After Radical Prostatectomy
+Overview
+ • Urethrovesical anastomotic leak is among the commonest early complications (days 7–10), up to about
+   15%.
+ • Definition: rising drain output with proportionally falling catheter output, confirmed by extravasation
+   on cystography, usually posterior (weakest point).
+ • Removal on day 2 after posterior reconstruction did not increase leaks, but most keep the catheter 7–10
+   days.
+ • Graded by Clavien-Dindo, in practice by the intervention needed.
+
+
+
+                                                     page 7 of 18
+Chapter 20 — Complications of Urologic Surgery                                               Lower Tract Urinary Complications
+ • Significant leaks collect extraperitoneally (open) or intraperitoneally (robotic) → ileus, longer stay,
+   intravenous fluids; fever or sepsis → antibiotics or percutaneous drainage. Reintervention about 0.5%
+   open to 2.5% in early MIS series, falling with a watertight running anastomosis.
+ • Sequelae: bladder neck contracture; incontinence if scar involves the external sphincter.
+Contributing Factors
+ • Postoperative bleeding: haematocrit fall >6 points marks risk. Also obesity, operating time, bladder neck
+   size, absent bladder neck reconstruction.
+ • Barbed versus monofilament suture: no difference.
+ • Salvage prostatectomy: poor anastomosis in treated tissue; biograft scaffolding reduced leaks. Anterior
+   or total reconstruction leaks less than conventional apposition.
+Diagnosis
+ • Large leaks are obvious; raised drain creatinine confirms. Retrograde cystography is valuable; CT
+   cystography if fever and leucocytosis suggest a collection.
+ • Ensure the catheter is in and draining. Never apply traction: it disrupts the anastomosis and risks
+   contracture.
+ • Healing is time-dependent: most leaks found on day 8 close by 2–3 weeks. Conservative measures buy
+   time if there is no intraperitoneal leak, ileus or sepsis.
+Management
+ • Most leaks are small and settle with prolonged catheter drainage; adequate bladder drainage is the key.
+Escalation: confirm catheter patency; change to a side-fenestrated catheter (radiological guidance if
+needed) → drain against the anastomosis on CT: reposition (siphon), off bulb suction → IR drainage of large
+collections, especially once the drain is out → Foley on low intermittent wall suction (vented 18-G
+angiocatheter) or underwater seal (Pleur-evac); continuous wall suction is counterproductive (mucosa
+blocks holes) → nephroureteral stents on suction or nephrostomy (divert but do not keep the anastomosis
+patent; rarely needed) → cystoscopic open-ended ureteric catheters exteriorised through the urethral
+catheter (only for partial disruption with easily seen orifices; risks total disruption) → formal reconstruction
+(robotic after RARP).
+ • Early formal repair of major disruption reduces ileus, infection, stay, incontinence and contracture. After
+   day 7 repair is rarely attempted (friable tissue): CT cystogram, percutaneous drain, parenteral antibiotics
+   if febrile, maximal drainage; recovery is slow but follows.
+UPPER TRACT LEAK VERSUS ANASTOMOTIC LEAK
+                     Partial nephrectomy                                Radical prostatectomy
+ Confirm             Drain creatinine; CT urography, delayed images     Drain creatinine; retrograde or CT cystography
+ First step          Keep or reinsert the Foley                         Patent, side-fenestrated catheter; no traction
+ Next                Ureteric stent                                     Low intermittent suction on the catheter
+ Drain               Off suction; withdraw or reposition away from the leak (siphon); IR drainage of collections
+ Diversion           Second stent, nephrostomy                          Nephroureteral stents, nephrostomy, open-
+                                                                        ended ureteric catheters
+ Last resort         Nephrectomy                                        Formal reconstruction, before day 7
+
+Concept — anastomotic healing depends on time and drainage: each step improves bladder drainage or
+diverts urine, and formal repair is reserved for major disruption before day 7, after which tissue will not hold
+sutures.
+
+
+
+
+                                                        page 8 of 18
+Chapter 20 — Complications of Urologic Surgery                                             Vascular Complications
+
+VASCULAR COMPLICATIONS
+
+Overview
+ • The most dreaded complications: among the commonest major MIS complications and the commonest
+   intraoperative complication. Audit showed serious complications falling; recent reports do not, reflecting
+   new surgeons and more complex MIS.
+ • Occur at access, dissection or vessel isolation. Most major injuries are intraoperative; most
+   postoperative bleeding is from unrecognised small vessels.
+ • MIS handicaps: no manual compression; instruments limited by ports; sponges hard to introduce.
+ • Early recognition, calm response. Major vessel injury → immediate open conversion with manual
+   compression and emergency vascular consultation.
+
+Intraoperative Vascular Complications
+ • 2–3% of urological MIS (non-urological: about 0.5% minor to 20% major, e.g. hepatic resection).
+ • Upper tract most prone (renal vessels off the aorta and IVC; many vessels in partial nephrectomy); lower
+   tract mainly with extended iliac node dissection.
+ • Haemorrhage is the commonest intraoperative complication (about 2%; about 40% of perioperative
+   complications), especially near the great vessels (RPLND).
+ • Vascular injury is the commonest reason for open conversion; emergency conversion is more frequent in
+   laparoscopic live-donor nephrectomy. Conversion about 1.5%, death about 0.2%.
+ • Risk factors: previous surgery, concomitant abdominal disease, obesity, aberrant anatomy, inexperience
+   → careful early case selection.
+Management
+ • Cognitive reaction first: control your stress response, alert the team to a possible massive haemorrhage
+   protocol; after temporary control, pause and state the contingency plan.
+ • Benchmark: react about 22 s, control <1 min, repair about 3 min (about 170 s); longer if only temporarily
+   controlled.
+Consensus algorithm (Passerotti): raise pneumoperitoneum cautiously (gas embolus risk with venous injury)
+→ aspirate, expose → working suction, laparoscopic sponges → add ports promptly, away from other trocars
+→ identify every injury → clips judiciously, never randomly (failed clips obstruct suturing and stapling) →
+suture repair, the most reliable rescue → robotic: assistant presses with the suction tip; selective vascular
+clamps → low threshold for conversion and vascular consult.
+Vascular Injury During Abdominal Access
+ • About 0.1% (about 0.04% with blind insufflation); Veress needle or trocar.
+ • Blood aspirated through the Veress needle → stop insufflating (CO2 embolism).
+
+ • Gas embolism: sudden hypoxia, hypercarbia, hypotension, arrhythmia, head and upper-limb cyanosis,
+   “mill-wheel” murmur, falling end-tidal CO2, raised right heart pressure. Gas in the right heart or
+   pulmonary artery → reduced venous return and cardiac output → pulmonary hypertension → right heart
+   failure. Mortality is high once blood pressure or heart rate falls; transoesophageal echocardiography
+   detects 0.02 mL.
+
+
+
+
+                                                 page 9 of 18
+Chapter 20 — Complications of Urologic Surgery                                                          Vascular Complications
+Treatment: desufflate → 100% oxygen (FiO2) → Trendelenburg and left lateral decubitus (trap gas in the
+right atrium) → central line aspiration.
+ • Leave the offending needle or trocar in place; alternative access locates the injury, and the trocar may
+   tamponade it.
+ • Veress versus trocar: a Veress puncture of the aorta or inferior vena cava (IVC) may self-limit if the
+   haematoma is not expanding (still inspect directly); trocar injuries almost always need repair, usually
+   with conversion; through-and-through injuries are reliably repaired only open. Multidisciplinary:
+   resuscitation, vascular surgery; experienced surgeons may repair by MIS.
+ • Pressures: 15–18 mmHg for trocar insertion → 12–15 mmHg thereafter.
+ • AirSeal: valveless trocar; stable pneumoperitoneum; smoke evacuation; less wall and diaphragm tension
+   (easier ventilation in steep Trendelenburg or flank). The laxer wall means all trocars go in under standard
+   insufflation before AirSeal mode.
+Mechanisms of Injury
+ • Umbilicus lies from 5 cm cephalad to 3 cm caudal of the iliac bifurcation, so it is unreliable; the anterior
+   superior iliac spine (ASIS) has been proposed instead.
+ • Veress angle: 45° at normal body mass index (BMI), 90° in obesity, as the umbilicus moves caudally with
+   rising BMI.
+ • Vessel most often injured at the umbilicus: left common iliac vein.
+ • Skin to retroperitoneum about 6 cm, as little as 2 cm when thin; Trendelenburg shortens it.
+ • Atherosclerotic aorta or abdominal aortic aneurysm (AAA): rigid wall, no spontaneous tamponade,
+   “mini-fracture”, plaque embolism to the legs → enter at the left upper quadrant; review or obtain
+   imaging.
+ • Flank position: upper quadrants are classic safe sites (right: liver over upper pole; left: spleen only if
+   enlarged). Robotic kidney: Veress at the future camera port (two fingerbreadths above the umbilicus,
+   lateral rectus line), perpendicular to the posterior peritoneum (bowel falls medially). Extensive previous
+   surgery → Hasson or optical trocar.
+Comparison of Different Access Techniques
+ • Under-reporting hampers comparison. In U.S. Food and Drug Administration (FDA) data, 81% of trocar
+   deaths were from major vessel injury (aorta, IVC, iliacs; iliac rarely fatal). No consensus on the safest
+   technique.
+ACCESS TECHNIQUES COMPARED
+ Technique                   Strengths                                       Limitations / evidence
+ Veress (closed)             Most widely used                                Old reports: slightly more vascular injury;
+                                                                             Cochrane: only more access failure
+ Open Hasson                 Classically safest for novices and adhesions    Slowest to establish pneumoperitoneum
+ Optical bladeless           Visual feedback through layers; fast; smaller   Rare, mostly minor injuries (mesenteric,
+                             fascial defect                                  epigastric)
+ Axial-force-limiting        Pushes vessels aside; countertraction limits    Injuries arise mainly from excess forward
+ (sheath, then conical       force                                           force
+ port)
+
+ • Trocar technique: rotate; two hands (dominant on top, non-dominant on the shaft at skin level to prevent
+   plunging); skin incision wide enough for the shaft.
+
+
+
+
+                                                         page 10 of 18
+Chapter 20 — Complications of Urologic Surgery                                                     Vascular Complications
+Management of Vascular Incidents
+ • Suction, irrigation, direct vision; open control above and below; extra suction; vascular help as needed.
+ • Transient pneumoperitoneum 20–25 mmHg (embolism caution) defines and temporises even medium–
+   large venous defects, for no more than about 10 minutes (CO2 absorption, splanchnic hypoperfusion).
+
+ • Pressure (gauze or rolled Surgicel on the assistant's suction) → accessory trocars → continue by MIS if
+   controlled → convert if the injury cannot be defined or controlled; transfuse early, before instability.
+Injury to Epigastric Vessels
+ • 0.2–2%; often presents late because the trocar tamponades it.
+ • Vessels run in the lateral rectus sheath; injured when a trocar angles medially. Prevent: transilluminate;
+   lateral ports ≥5.5–6 cm from the midline; inspect sites as trocars come out.
+ • Repair: Foley balloon traction temporises (rarely needed); best is a fascial closure device (Carter-
+   Thomason) placing a figure-of-eight under vision without enlarging the incision.
+Injury to Major Vessels
+ • The most feared (taught by simulation). Most cannot be ligated (no collaterals) → repair, usually after
+   conversion.
+ • Suspected trocar injury: leave it in place (tamponade), add ports if stable, convert through a midline
+   incision.
+ • Robotic rescue: ProGrasp temporises; other arms and suction assess; rescue stitch of polyglactin on a
+   CT-1 needle with a Hem-o-lok at the tail tents the wall between throws; the large needle is findable in
+   blood.
+ • Ligatable: internal iliac and inferior mesenteric (good collaterals).
+ • Superior mesenteric artery (SMA): in the lateral position the left renal vein no longer marks the SMA–
+   aorta relation; the SMA is taken for the left renal artery when tumour distorts anatomy or retraction is
+   poor. Suspect it if the artery is medial to the aorta, anterior to the renal vein, or atypical → mobilise
+   bowel, medialise mesentery, expose the aorta if in doubt. Variant or multiple renal arteries (sometimes
+   missed on imaging) occur in over half of patients.
+ • SMA stump or proximal trunk injury: mortality up to 75%. Backflow via the marginal artery of
+   Drummond and arc of Riolan may help; no distal flow → repair (re-anastomosis, splenic or left renal
+   stump transposition, graft). Vascular consult and conversion are mandatory.
+ • Retroperitoneal haematoma: stable, non-expanding → observe, do not explore, continue or abandon by
+   urgency; unstable or expanding → open repair (aorta, IVC, external iliac artery).
+ • Venous tears: insufflate to 20 mmHg, suture quickly, return to 12–15 mmHg promptly. External iliac vein:
+   also turn off sequential compression devices to decompress it. The robotic fourth arm gives clamping
+   and tension; use sealing devices near major structures.
+Bleeding During Tumorectomy in Partial Nephrectomy
+ • Robotic partial nephrectomy (RAPN) is the commonest approach; routine artery-and-vein clamping is
+   declining. Right-sided tumours bleed more.
+ • Artery-only clamping: more blood loss than full hilar clamping, no more transfusions. Add a venous
+   clamp if bleeding halts progress; parenchymal venous backflow, by contrast, slows towards the crater.
+RIGHT VERSUS LEFT RENAL VEIN IN PARTIAL NEPHRECTOMY
+ Right                                                        Left
+ Short, often ≤2 cm; open IVC stump gives torrential          Long (up to 10 cm); “mesenteric claw” and
+ backflow                                                     pneumoperitoneum keep backflow minimal
+
+
+                                                       page 11 of 18
+Chapter 20 — Complications of Urologic Surgery                                                           Vascular Complications
+
+ Right                                                          Left
+ Clamp the vein, especially if ≤2 cm                            Clamp only for complex tumours (hilar, endophytic,
+                                                                perihilar, hypervascular), distal to gonadal and adrenal
+                                                                veins
+
+ • CT angiography or magnetic resonance angiography (MRA) is required for selective or superselective
+   clamping and to find accessory arteries.
+ • Torrential bleeding despite clamping (missed artery, or venous clamp proximal to a lumbar vein) →
+   unclamp the vein to restore venous return.
+ • Imaging matched with intraoperative ultrasound determines safety.
+Stapler Malfunction
+ • About 1% accepted. FDA reviews: deaths from misfiring and failed or malformed staple lines; recalls for
+   broken parts or sterility; under-reported (most programme directors had seen one; a quarter changed the
+   operation).
+ • Commonest urological use: renal hilum. Commonest cause: tissue too thick.
+Prevention: inspect on unpacking → load precisely → dissect the vessel → see the whole jaw and tip before
+firing → without tumour thrombus, fire close to the kidney, leaving room for a “rescue” stapler → no clips
+in the jaws (jamming) → no excess handle force (overrides the lockout).
+HILAR CONTROL DEVICES — FAILURE MODES
+ Device                       Leading failure
+ Stapler                      Staple-line malformation; lockup. Rescue: extra clips over the staple line or below the
+                              transection
+ Locking clip (Hem-o-lok) Dislodgement
+ Titanium clip                Closing or cutting failure; applier jamming
+
+ • Most prefer staplers (no dislodgement), but FDA data show no device safer.
+
+Postoperative Vascular Complications
+ARTERIAL VERSUS VENOUS POSTOPERATIVE BLEEDING
+ Arterial                                                       Venous
+ Rapid haematocrit fall; instability                            Smaller vessel; self-limiting; presents later
+ Ligation → organ infarction, delayed presentation              Pneumoperitoneum tamponades it → delayed bleed
+
+ • Usually unrecognised intraoperative injury. Vascular complications are most early postoperative
+   complications after laparoscopy; injury can occur along instrument shafts or at entry and exit, outside
+   the field of view.
+ • Partial nephrectomy: most haemorrhages occur after discharge. Arteriovenous (AV) fistula and
+   pseudoaneurysm (commoner) appear at 2–3 weeks, in about 2–3%, roughly twice as often after MIS as
+   open.
+ • Mechanism: adjacent segmental artery and vein injured in the bed or by suture; risk rises with depth and
+   nephrometry score; early unclamping may reduce it.
+ • Prevention: inspect the bed; ligate larger segmental branches; running suture through the crater; avoid
+   deep renorrhaphy sutures.
+Diagnosis and Management
+ • Precipitous haematocrit fall is the usual clue; haematuria adds alarm. Up to 10% are asymptomatic;
+   routine early CT finds some, nearly all silent.
+
+
+                                                         page 12 of 18
+Chapter 20 — Complications of Urologic Surgery                                                          Bowel Injuries
+ • <2–4 mm pseudoaneurysms resolved spontaneously. May mimic recurrence (arterial-phase
+   enhancement); equivocal CT → angiography.
+ • Presentation: fever, gross haematuria, flank pain, hypotension, bloody drain discharge, dizziness, syncope;
+   a minority need emergency embolisation, especially with multiple pseudoaneurysms.
+ • High suspicion after recent partial nephrectomy → direct angiography, bypassing CT: spares an anaemic,
+   depleted, renally impaired patient extra contrast, and is faster.
+ • Incidental, with no haematuria, haematocrit fall or instability → conservative, with serial haematocrit
+   and observations.
+ • Delayed haematocrit fall → CT (arterial-phase blush); unstable or steep fall → angiography.
+ • Selective angioembolisation is the treatment of choice for pseudoaneurysm and AV fistula:
+   superselective microcoils succeed technically in nearly 100%, with some parenchymal loss but no harm to
+   estimated glomerular filtration rate (eGFR). Failure → surgery.
+Concept — intraoperative bleeding is controlled first by pressure and a pause, then repaired by suture;
+clips and staplers can fail and obstruct the rescue. Bleeding after partial nephrectomy is a delayed arterial
+lesion that angiography diagnoses and treats in one step.
+
+BOWEL INJURIES
+
+Incidence and Presentation
+ • Under-reported (minor serosal tears); about 0.2%. Missed injury → ileus, pain, leucocytosis, sepsis,
+   significant mortality.
+ • Up to about two-thirds are unrecognised at operation, occurring anywhere from entry to exit. Incidence
+   has risen slightly with complex MIS, but the unrecognised proportion has fallen markedly.
+MISSED BOWEL INJURY — CLASSIC VERSUS POST-LAPAROSCOPIC (BISHOFF)
+ Classic (open)                                    After laparoscopy
+ Peritonitis, acute abdomen                        Often absent
+ Leucocytosis                                      Leucopenia
+ Generalised pain                                  Single trocar-site pain out of proportion; no purulence
+ —                                                 Onset 24–48 h; distension, ileus, diarrhoea
+
+ • CT with oral and intravenous contrast, delayed images; rectal contrast if rectal injury suspected. Free gas
+   is normal for up to 7 days after laparoscopy. Some still present classically.
+
+Mechanisms of Injury
+ • Causes: trocar technique, Veress needle, over-retraction, handling, electrocautery. About a fifth of trocar
+   access injuries in FDA data were bowel injuries, some fatal.
+ • Midline scar → Veress away from it; adhesions may be remote, so use an optical trocar or Hasson.
+ • Veress injuries are mostly small bowel. Saline drop test; after partial insufflation the needle advances 1–
+   2 cm freely (usually intraperitoneal).
+ • After the camera port, inspect for adhesions at planned port sites; insufflate fully (no peritoneal tenting);
+   bowel preparation for difficult or multiply operated cases.
+ • Adhesiolysis with cold scissors (no thermal spread); countertraction against shear and denuding injury,
+   especially robotically (no haptic feedback, strong ProGrasp grip). Only the adhesiolysis the field needs; no
+   “sweeping”.
+
+
+
+
+                                                  page 13 of 18
+Chapter 20 — Complications of Urologic Surgery                                                           Bowel Injuries
+ • Mechanical injury (abrasion, compression, sharp) when instruments move blindly beyond their safe
+   range; look for multiple injuries (they decide repair versus resection); open the working space widely;
+   convert if adhesions prohibit safe MIS.
+BOWEL INJURY — MANAGEMENT
+ Injury                                           Management
+ Small bowel perforation or serosal tear          Primary suture repair
+ Limited colonic, no major spillage               Primary repair (open or MIS)
+ Extensive laceration; mesenteric injury, doubtful Resection, primary stapled anastomosis; general surgery consult
+ viability
+ Extensively diseased bowel                       End ileostomy, later reconstitution
+ Extensive colonic with faecal soiling            Colostomy; irrigation; broad-spectrum antibiotics
+ Superficial thermal burn                         Serosal Lembert sutures; never conservative
+ Extensive burn                                   Debride and close; damage exceeds visible discolouration →
+                                                  resection ± conversion
+
+ • Most delayed injuries are thermal. Monopolar: critical spread >20 mm (2 s at 60 W). Bipolar is the
+   modality of choice. Others spread a few millimetres: harmonic < bipolar < LigaSure < robotic hot shears.
+ • Stray current: poor technique or insulation defect; direct or capacitive coupling with metal trocars.
+ • Prevention: sparing monopolar (still used on robotic scissors); prefer harmonic or vessel sealers; bowel
+   away from the tip; energised tip always in view; inspect shafts beforehand; inspect the field on exit.
+   Robotic: console surgeon watches insertions; assistant inserts slowly under vision until instrument
+   memory is set and reports resistance.
+
+Duodenal and Pancreatic Injuries During Nephrectomy
+ • Duodenum: right renal surgery (Kocherisation). Shear or puncture; even <5 mm injuries perforate →
+   delayed fever, pain, sepsis. Intramural haematoma → prolonged obstructive ileus, bowel rest, TPN.
+ • Pancreatic tail: left nephrectomy, near the upper pole and adrenal → fistula, pseudocyst, abscess.
+ • Octreotide reduces morbidity after pancreatic resection and in severe pancreatitis, but empirical use
+   after injury is questioned (more fistulae, longer drainage and stay).
+ • Obvious injury → distal pancreatectomy. Delayed: clear drain fluid with high amylase → CT for
+   collections → extra drains; no drain → percutaneous drainage, somatostatin, bowel rest, nasogastric
+   suction, nutrition; persistent → distal pancreatectomy.
+
+Rectal Injury
+ • Commonest bowel complication of radical prostatectomy; a learning-curve concern.
+ • Laparoscopic highest (about 1%); open and robotic similar (under 0.5%); salvage about 7%. Risk factors:
+   salvage, stage, Gleason grade, nodal status, experience, not approach.
+ • Recto-anastomotic fistula under 0.1%; predictors: laceration extent, prior radiotherapy, rectal infiltration.
+ • Also difficult after TURP, microwave thermotherapy, recurrent prostatitis (fibrosis).
+ • Commonest RARP site: near the apex in posterior dissection. No cautery on the anterior rectal wall.
+   Rectal EEA dilator identifies the rectum in fibrotic cases; modified bowel preparation before salvage
+   surgery.
+Management
+ • No gross spillage → primary closure: debrided, vascularised, tension-free; multilayer non-overlapping;
+   mucosa and serosa absorbable, perirectal bolster non-absorbable; usually two layers.
+
+
+
+                                                    page 14 of 18
+Chapter 20 — Complications of Urologic Surgery                                                       Bowel Injuries
+ • Bubble test (air via Toomey syringe or rectal tube); omental or fat interposition if possible; drain
+   mandatory; low-residue diet and broad-spectrum antibiotics 3–7 days.
+ • Minor, prepared rectum → primary repair; moderate–extensive after salvage (irradiated) surgery →
+   diverting colostomy.
+ • Unrecognised: early leucopenia (MIS) or leucocytosis (open), nausea, vomiting, ileus, lateralising pelvic
+   pain, peritonitis → CT with rectal contrast or Gastrografin enema → exploration, irrigation, diverting
+   colostomy (prevents sepsis and rectourethral fistula).
+
+Port Site Hernia
+ • 0.3–5.4%; risk: older age, previous hernia, operating time, trocar size.
+ • Painless bulge, mostly at extraumbilical ports, within weeks (mean about 10 days); CT confirms.
+ • 12-mm ports far exceed 10-mm; use 5-mm where possible. Bladeless trocars leave smaller defects,
+   though 12-mm bladeless hernias occur. Inspect robotic 8-mm off-midline ports (enlarged by arm torque).
+ • Single-site surgery (SILS, single-incision laparoscopic surgery; LESS, laparoendoscopic single-site surgery):
+   better cosmesis, more incisional and umbilical hernias (larger incision); about 5% with da Vinci Xi single-
+   site, better with da Vinci SP (smaller incision, semi-flexible instruments); more data needed.
+ • Close large fascial defects: single figure-of-eight absorbable suture, usually with a closure device.
+   Symptomatic hernia → laparoscopic or robotic mesh repair.
+
+Venous Thromboembolism
+ • Venous thromboembolism (VTE) risk: pelvic surgery, malignancy, obesity, long operations (MIS is longer
+   on the learning curve). Pneumoperitoneum and reverse Trendelenburg might cause stasis, but there is no
+   evidence of more DVT after laparoscopy; true DVT and pulmonary embolism (PE) incidence is unknown.
+ • MIS prostatectomy: symptomatic VTE about 0.5%, mostly DVT alone, occasional fatal PE; associated with
+   smoking, large prostate, re-exploration, long operation and stay.
+ • By procedure (American College of Surgeons National Surgical Quality Improvement Program, ACS
+   NSQIP): about 1% for nephrectomy, partial nephrectomy, nephroureterectomy and prostatectomy; lower
+   for MIS nephrectomy; about 5% for radical cystectomy. Most VTEs occur after discharge.
+ • Preventer trial (Brady Institute, randomised): perioperative subcutaneous heparin after prostatectomy
+   did not reduce symptomatic VTE.
+ • Cystectomy: about half of VTEs after discharge; discharge on low-molecular-weight heparin (LMWH;
+   enoxaparin) roughly halved VTE; oral anticoagulants appear similarly safe and effective.
+ • No consensus guidelines; practice varies (about a third of prostatectomy patients get none) → follow
+   local policy.
+ • American Urological Association (AUA) best practice statement 2009: pharmacological prophylaxis
+   mandatory at high risk (age >60, prior VTE, cancer, hypercoagulable state).
+ • Risk factors: age, personal or family VTE, malignancy, obesity, thrombophilia, and transfusion (after
+   cystectomy, each unit raises VTE risk by about 7%); restrictive transfusion lowers VTE without raising
+   mortality or cardiac events.
+ • Caprini score (modified by the American College of Chest Physicians, ACCP): most widely used, validated
+   in urology; summed weighted points: very low 0; low 1–2; moderate 3–4; high ≥5.
+TABLE 20.2 THE CAPRINI RISK ASSESSMENT MODEL (GROUPED)
+
+
+
+
+                                                  page 15 of 18
+Chapter 20 — Complications of Urologic Surgery                                                                  Bowel Injuries
+
+ Points    Age           Surgery / immobility          Thrombotic history            Other
+ 1         41–60 y       Minor surgery; medical        —                             BMI >25; swollen legs; varicose
+                         patient at bed rest                                         veins; pregnancy or postpartum;
+                                                                                     unexplained or recurrent
+                                                                                     spontaneous abortion; oral
+                                                                                     contraceptive or HRT; sepsis, serious
+                                                                                     lung disease or pneumonia (<1 mo);
+                                                                                     abnormal pulmonary function;
+                                                                                     acute MI; heart failure;
+                                                                                     inflammatory bowel disease
+ 2         61–74 y       Arthroscopic; major open —                                  Malignancy
+                         >45 min; laparoscopic >45
+                         min; bed >72 h; plaster
+                         cast; central venous access
+ 3         ≥75 y         —                             Personal or family history of —
+                                                       VTE; factor V Leiden;
+                                                       prothrombin 20210A; lupus
+                                                       anticoagulant; anticardiolipin
+                                                       antibodies; raised
+                                                       homocysteine; heparin-
+                                                       induced thrombocytopenia;
+                                                       other thrombophilia
+ 5         —             Elective arthroplasty; hip,   —                             Stroke or acute spinal cord injury
+                         pelvis or leg fracture                                      (<1 mo)
+From Gould MK, Garcia DA, Wren SM, et al.: ACCP prevention of VTE in nonorthopedic surgical patients, 9th ed. Chest 2012.
+ • Pattern: 1 point = common medical conditions; 2 = surgery, immobility, cancer; 3 = thrombotic history and
+   thrombophilia; 5 = major orthopaedic or neurological events.
+ • Traps: laparoscopic >45 min scores the same as open; malignancy is 2, not 3; family history equals
+   personal history (3). A 61–74-year-old with cancer having major surgery is already high risk.
+TABLE 20.3 RECOMMENDATIONS FOR THROMBOPROPHYLAXIS IN VARIOUS RISK GROUPS
+                                                                             Bleeding risk high (~2%) or severe
+ Risk of symptomatic VTE          Bleeding risk average (~1%)                consequences
+ Very low (<0.5%)                 No specific prophylaxis                    No specific prophylaxis
+ Low (~1.5%)                      Intermittent pneumatic compression (IPC)   IPC
+ Moderate (~3.0%)                 Low-dose unfractionated heparin (LDUH),    IPC
+                                  LMWH or IPC
+ High (~6.0%)                     LDUH or LMWH plus IPC                      IPC until bleeding risk falls, then add
+                                                                             pharmacological
+ High-risk cancer surgery         LDUH or LMWH plus IPC, and extended        As above
+                                  LMWH after discharge
+ High risk; LDUH and LMWH         Fondaparinux or low-dose aspirin (160      As above
+ contraindicated or               mg); IPC; or both
+ unavailable
+From Gould MK et al.: ACCP 9th ed. Chest 2012.
+ • Pattern: rows are thrombotic risk, columns bleeding risk; high bleeding risk means IPC until it falls; only
+   cancer surgery earns extended LMWH.
+
+
+
+
+                                                            page 16 of 18
+Chapter 20 — Complications of Urologic Surgery                                              Second Victim Syndrome
+ • Traps: very low risk needs only ambulation; aspirin and fondaparinux are for when heparins are
+   contraindicated.
+ • By tier: very low (most transurethral and anti-incontinence surgery) → early ambulation ± stockings; low
+   → IPC or graduated stockings; moderate → pharmacological, preferably LMWH (LDUH or fondaparinux
+   acceptable); high or very high → LMWH, LDUH or fondaparinux plus mechanical. Major open surgery
+   warrants a more aggressive combined regimen than MIS.
+ • Timing: mechanical just before surgery; pharmacological 2–12 h preoperatively; fondaparinux 6–8 h
+   postoperatively. Subcutaneous heparin can start just before or during most urological procedures;
+   starting within 48 h did not increase bleeding.
+ • Duration: until fully ambulatory (poorly defined); risk persists for weeks. Extended prophylaxis is not
+   routine except after major abdominopelvic cancer surgery: LMWH ≥1 month markedly cut total and
+   symptomatic VTE without extra bleeding (meta-analysis of randomised trials).
+ • Anticoagulation contraindicated or high bleeding risk → mechanical before surgery; add pharmacological
+   once haemostasis is secure.
+Concept — VTE prophylaxis is a two-axis decision: thrombotic risk (Caprini) sets intensity, bleeding risk
+chooses mechanical or pharmacological, and duration follows the fact that risk outlasts the admission,
+above all after cystectomy and cancer surgery.
+
+Lymphoceles
+ • The commonest complication of lymphatic disruption after pelvic lymph node dissection (PLND): lymph
+   collections without epithelial lining, usually along the iliac vessels. First described about 50 years ago
+   (Basinger and Gittes).
+ • Transperitoneal RARP was expected to reduce them (peritoneal reabsorption), but loculation and
+   retroperitonealisation occur within 48–72 h; in the robotic era, approach makes no difference to
+   symptomatic lymphoceles.
+ • Rates vary with template (most are silent); extended dissection roughly doubles them.
+ • Lymphostasis: clips versus bipolar (no robust data; some favour clips); robotic vessel sealer; fibrin
+   sealants; peritoneal flap fixed to the bladder. Inspect and control visible lymphatics after PLND or radical
+   upper tract surgery; drain most major nodal dissections.
+ • Management: asymptomatic and <5 cm → conservative; large symptomatic (iliac compression → leg
+   oedema; bladder compression → frequency, urgency) → percutaneous drainage; thick-walled or
+   recurrent after drainage → laparoscopic marsupialisation into a peritoneal window. Aspiration is not
+   advised (always reaccumulates; infection). Sclerotherapy (povidone-iodine, doxycycline) may hinder later
+   marsupialisation. Lymphangiography with embolisation: high success, faster fall in output than
+   sclerotherapy, occasional reintervention; long-term data awaited.
+ • Infected lymphocele: fever, rigors, sepsis → intravenous fluids, broad-spectrum antibiotics, percutaneous
+   drainage; always consider a urine leak.
+Concept — lymphoceles are treated by symptoms and recurrence, not size alone; the definitive cure is
+internal drainage into the peritoneum, which is why aspiration and sclerotherapy, which compromise it, are
+avoided.
+
+SECOND VICTIM SYNDROME
+ • The surgeon's own distress after a serious complication. In surgery responsibility rests on “the hands of
+   the surgeon” rather than diffusing through the system. Almost half of healthcare providers experience it.
+ • Risk factors: lapse in judgement or concentration, inexperience, burnout, personal problems.
+
+
+                                                  page 17 of 18
+Chapter 20 — Complications of Urologic Surgery                                                        Conclusion
+ • Course: adrenaline surge → failure, sadness, depression, isolation, unworthiness, medicolegal fear;
+   cognitive impairment for months (concentration, decisions, dexterity). The detachment that lets surgeons
+   work in chaos breaks down.
+ • Culture is harsh; training covers managing complications, not supporting peers.
+ • Recovery: confidential forums beyond morbidity and mortality meetings, trusted seniors, mindfulness
+   and meditation. Only a minority (experienced, resilient) report a positive career effect. “The only surgeon
+   without complications is one who does not operate” ignores the influence of the relationship with the
+   first victim.
+Concept — a complication has two victims; the surgeon's impaired cognition afterwards is itself a safety risk,
+so peer support belongs to complication management.
+
+CONCLUSION
+
+ KEY POINTS
+   • Physiological, urinary, vascular, bowel and visceral complications occur with every form of urological
+     surgery.
+   • Laparoscopic and robotic surgery bring a distinct set of complications and demand new operative,
+     diagnostic and therapeutic skills.
+   • More complex MIS operations mean complication rates can rise.
+   • MIS complications can present atypically and late.
+   • A high index of suspicion enables prompt diagnosis. Many complications are managed conservatively
+     or medically; diagnostic and interventional radiology is central; some need operation.
+   • Prevention matters most: patient selection, positioning, planning, meticulous technique.
+
+
+
+
+                                                 page 18 of 18
+
