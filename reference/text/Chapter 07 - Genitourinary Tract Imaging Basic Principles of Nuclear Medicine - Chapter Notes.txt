@@ -1,0 +1,520 @@
+Chapter 7 — Genitourinary Tract Imaging: Basic
+Principles of Nuclear Medicine
+INTRODUCTION
+ • Nuclear medicine uses radionuclide-labelled pharmaceuticals to visualise organ function, treat disease
+   and characterise molecular processes within cells; the last is termed molecular imaging.
+ • Radiotracers are given in subpharmacological quantities, so they do not perturb the process being
+   measured. Their emissions are detected by an external sensor and formatted as an image.
+ • Contrast with anatomic imaging: plain radiography, computed tomography (CT), magnetic resonance
+   imaging (MRI) and ultrasonography all need an external energy source; in nuclear medicine the patient
+   is the source.
+Concept — Nuclear imaging shows what tissue does rather than what it looks like, because the signal
+comes from a tracer taken up by a physiological or molecular process.
+
+PRINCIPLES OF SINGLE-PHOTON AND PET IMAGING
+Single-photon imaging
+ • Gamma photons of 100–300 keV are detected by a gamma camera, in planar or tomographic mode.
+ • Sequence: gamma photon → scintillation crystal (usually sodium iodide) absorbs it and emits light →
+   photomultiplier tubes collect and amplify the light → circuitry integrates the output → image.
+ • Collimator (between patient and crystal): its geometry admits photons travelling only in a certain
+   direction, encoding spatial information.
+ • Planar mode: detection at a single angle → two-dimensional image.
+ • Single-photon emission computed tomography (SPECT): the camera rotates slowly around the patient
+   → multiple angles → three-dimensional image. A non-contrast CT is acquired at the same time for
+   anatomic localisation and attenuation correction (signal from deeper tissue is attenuated on its way
+   out). SPECT is either routine or a problem-solving adjunct when planar images are inadequate.
+ • Radionuclides: technetium-99m (⁹⁹ᵐTc) and indium-111 (¹¹¹In) (Table 7.1).
+Positron emission tomography (PET)
+ • Sequence: positron emitted → travels a short distance → collides with an electron → annihilation →
+   two 511-keV photons 180° apart → coincidence detection → image.
+ • Acquired tomographically, usually with non-contrast CT (localisation and attenuation correction), or
+   with MRI in PET/MRI scanners at large centres.
+ • Radionuclides: carbon-11 (¹¹C), iodine-124 (¹²⁴I), fluorine-18 (¹⁸F), gallium-68 (⁶⁸Ga) (Table 7.2).
+ • Conspicuity: PET rejects photons without a coincident partner, minimising noise; a gamma camera
+   treats any photon through the collimator as true signal.
+ • Quantification: PET measures standardised uptake values (SUVs), corrected for injected dose and body
+   mass; clinical single-photon imaging is only semiquantitative.
+ • Limitation of PET: high cost, limiting access in much of the world.
+ • Current practice: most urological functional imaging uses scintigraphy; cancer imaging mostly uses PET
+   with CT or MRI.
+
+
+
+
+                                                  page 1 of 11
+Chapter 7 — Genitourinary Tract Imaging: Basic Principles of Nuclear Medicine               Principles of Single-Photon and PET Imaging
+ SCINTIGRAPHY, SPECT AND PET COMPARED
+                         Planar scintigraphy             SPECT                              PET
+  Detected               Single gamma photon             Single gamma photon                Two 511-keV photons in
+  emission                                                                                  coincidence
+  Image                  2D                              3D (rotating camera)               3D
+  Spatial resolution     ~20 mm                          ~10 mm                             ~5 mm (best)
+  Noise handling         Collimator only                 Collimator only                    Coincidence filtering
+  Quantitation           Semiquantitative                Semiquantitative                   SUV
+  Cost                   Low                             Moderate                           High
+  Urological role        Most functional                 Problem-solving, cortical          Cancer imaging
+                         imaging                         imaging
+
+ TABLE 7.1 PHYSICAL CHARACTERISTICS OF SINGLE-PHOTON EMITTING RADIONUCLIDES MENTIONED IN THE
+ CHAPTER
+  Radionuclide                       Half-life           Principal photon energies, keV (abundance)
+  ⁹⁹ᵐTc                              6.0 h               140 (89%)
+  ¹¹¹In                              67.3 h              171 (90%), 245 (94%)
+  Gallium-67 (⁶⁷Ga)                  78.3 h              93 (37%), 185 (20%), 300 (17%), 395 (5%)
+
+ Data from Ziessman HA, O'Malley JP, Thrall JH: Nuclear medicine: the requisites, 2013.
+   • What the table is for: half-life sets the imaging window. ⁹⁹ᵐTc's 6-hour half-life and single clean 140-
+     keV photon make it the workhorse; ¹¹¹In and ⁶⁷Ga last days, which suits delayed infection imaging.
+
+ TABLE 7.2 PHYSICAL CHARACTERISTICS OF POSITRON-EMITTING RADIONUCLIDES MENTIONED IN THE
+ CHAPTER
+  Radionuclide                 Half-life         Positron energy (keV)          Range in soft tissue (mm)           Production
+  ¹¹C                          20.3 min          960                            3.9                                 Cyclotron
+  ¹⁸F                          109.8 min         634 (lowest)                   2.3 (shortest)                      Cyclotron
+  ⁶⁸Ga                         68.0 min          1,899                          8.9                                 Generator
+  ¹²⁴I                         4.17 days         1,525 and 2,138                6.9 and 10.2                        Cyclotron
+  Zirconium-89 (⁸⁹Zr)          78.4 h            896                            3.6                                 Cyclotron
+
+ Data from Serdons K, Verbruggen A, Bormans GM: Developing new molecular imaging probes for PET. Methods 2009.
+   • Pattern: higher positron energy → longer range before annihilation → blurrier image. ¹⁸F has the
+     lowest energy and shortest range, hence superior image quality, plus a half-life long enough for
+     distribution.
+   • ¹¹C's 20-minute half-life demands an on-site cyclotron; ⁶⁸Ga comes from a generator; ¹²⁴I and ⁸⁹Zr last
+     days, matching the slow kinetics of antibodies.
+ Concept — PET outperforms single-photon imaging because coincidence detection rejects noise and
+ permits true quantitation, while the choice of radionuclide is a trade between half-life, positron range and
+ logistics.
+
+ FUNCTIONAL IMAGING OF THE KIDNEYS
+   • Applications: renal blood flow, differential renal function, presence and degree of obstruction, and
+     renal scarring. Interpretation depends on renal physiology and the properties of each agent.
+
+
+                                                               page 2 of 11
+Chapter 7 — Genitourinary Tract Imaging: Basic Principles of Nuclear Medicine                       Functional Imaging of the Kidneys
+
+ Relevant Renal Physiology
+   • Kidneys receive 20% of cardiac output: 5 L/min → about 1 L/min renal blood flow. Plasma is 60% of
+     blood, so renal plasma flow ≈ 600 mL/min.
+   • Plasma clearance: about 20% by passive glomerular filtration, 80% by active tubular secretion. The
+     kidneys reclaim free water and electrolytes according to need.
+   • Principal tracers: technetium-99m diethylenetriaminepentaacetic acid (⁹⁹ᵐTc-DTPA), technetium-99m
+     mercaptoacetyltriglycine (⁹⁹ᵐTc-MAG3) and technetium-99m dimercaptosuccinic acid (⁹⁹ᵐTc-DMSA).
+
+ ⁹⁹ᵐTc-DTPA
+   • DTPA (pentetic acid) is a heavy-metal chelator. Extracted entirely by glomerular filtration, not
+     reabsorbed → measures glomerular filtration rate (GFR) directly.
+   • Used for differential function and obstruction, but impaired renal function gives high background and
+     poor images.
+
+ ⁹⁹ᵐTc-MAG3
+   • Protein-bound; cleared by tubular secretion → unaffected by impaired GFR, higher extraction
+     efficiency, better images, lower non-target radiation, and cheaper than DTPA.
+   • Agent of choice for split function and functional obstruction.
+
+ ⁹⁹ᵐTc-DMSA
+   • Cleared mainly by glomerular filtration, then taken up by proximal tubular cells by receptor-mediated
+     endocytosis via megalin and cubilin → retained in the cortex.
+   • Ideal for cortical processes: acute pyelonephritis and renal scarring.
+
+ RENAL RADIOTRACERS COMPARED
+                        ⁹⁹ᵐTc-DTPA                     ⁹⁹ᵐTc-MAG3                    ⁹⁹ᵐTc-DMSA
+  Handling              Glomerular filtration          Tubular secretion (protein-   Filtration → proximal tubular retention
+                        only                           bound)                        (megalin, cubilin)
+  Study type            Dynamic                        Dynamic                       Static cortical (2 h)
+  Key use               GFR; renovascular              Split function, obstruction   Pyelonephritis, scarring
+                        hypertension                   (first choice)
+  In renal              Poor images, high              Good images                   Imaging time may need extending
+  impairment            background
+  Cost                  Higher                         Lower                         —
+
+ Dynamic Renal Imaging With ⁹⁹ᵐTc-MAG3 and ⁹⁹ᵐTc-DTPA
+   • Split function and obstruction require dynamic imaging over time, unlike the single static image of
+     most anatomic modalities.
+
+ Patient Preparation
+   • Good hydration ensures optimal tracer delivery.
+   • Record medications, particularly diuretics, and any anatomic abnormalities affecting positioning,
+     camera set-up or interpretation.
+   • Bladder outlet obstruction or neurogenic bladder → Foley catheter to reduce retrograde pressure on
+     the kidneys.
+   • Nephrostomy tubes are usually capped so that native ureteric patency can be tested.
+
+
+                                                               page 3 of 11
+Chapter 7 — Genitourinary Tract Imaging: Basic Principles of Nuclear Medicine           Functional Imaging of the Kidneys
+
+ Dosing and Pharmacokinetics
+   • 5–10 mCi (185–370 MBq) intravenous push for both MAG3 and DTPA.
+   • MAG3 sequence: extraction nearly 60% → peak cortical uptake 3–5 min → collecting system shortly
+     after → bladder by 10–15 min. The half-clearance time (peak to 50% clearance) for a non-obstructed
+     unit is given as 15–20 min.
+
+ Image Acquisition and Interpretation
+   • Perfusion phase: frames every 1–2 seconds for about 1 minute; regions of interest (ROIs) over the
+     aorta, each kidney, and just outside each kidney for background subtraction; counts per unit time
+     plotted as a time–activity curve (TAC).
+       ◦ Renal activity should appear within seconds of the aorta, with a brisk upstroke matching the aortic
+         curve.
+       ◦ A slow rise to peak suggests poor flow and likely poor function.
+   • Functional phase: about 1 frame per minute. Relative function = area under each TAC between 1 and
+     3 minutes. A split difference up to 10% is normal (i.e. up to 45:55).
+   • Obstruction: a healthy kidney clears tracer within 15 minutes; an obstructed unit retains it, giving a
+     progressively rising TAC with no peak.
+   • Delayed pelvic clearance without true obstruction (a patulous system) is separated by furosemide: 0.5
+     mg/kg intravenously, maximum 40 mg in adults; higher doses in renal impairment.
+   • Timing is not agreed: the authors give furosemide 15 minutes after the tracer (F+15); others at the
+     start (F0) or 15 minutes before (F−15). Always read the report to learn whether and when a diuretic
+     was given.
+
+ DIURETIC RENOGRAPHY — POST-FUROSEMIDE HALF-CLEARANCE TIME
+  Half-clearance (T½)                              Interpretation
+  <10 min                                          Non-obstructed (patulous system)
+  10–20 min                                        Indeterminate — further evaluation
+  >20 min                                          Obstruction
+
+ Figure legends
+   • Figure 7.1 — normal MAG3 renogram: sharp upstroke of aortic and renal curves, aorta preceding
+     kidneys by seconds; renal peak at 3–4 min, half-peak 6–9 min later; split 46:54, normal; no furosemide
+     needed.
+   • Figure 7.2 — hydronephrosis without obstruction (bilaterally repaired ureteroceles): less brisk right
+     upstroke; delayed peak (11–14 min) and slow washout; split 67:33 (abnormal). Obstructed systems
+     usually keep rising through 30 minutes, so this pattern suggests a patulous system. After 40 mg
+     furosemide, T½ 5 and 6.2 min → non-obstructed.
+   • Figure 7.3 — right obstruction: better left perfusion (aortic curve unreliable because of scoliosis); small
+     right kidney with a central photopenic dilated pelvis and continuously rising curve; split 79:21. After 40
+     mg furosemide, no significant clearance from the obstructed right collecting system — a flat curve →
+     obstruction confirmed.
+
+
+
+
+                                                               page 4 of 11
+Chapter 7 — Genitourinary Tract Imaging: Basic Principles of Nuclear Medicine                        Functional Imaging of the Kidneys
+
+ Additional Applications of ⁹⁹ᵐTc-MAG3 and ⁹⁹ᵐTc-DTPA Scintigraphy
+ Evaluation of Renal Vascular Hypertension
+   • Mechanism: autoregulation keeps GFR near-constant via renin from juxtaglomerular cells. Perceived
+     low arteriolar flow → renin: angiotensinogen → angiotensin I → angiotensin-converting enzyme
+     (lung) → angiotensin II → aldosterone release, efferent arteriolar constriction (maintaining filtration
+     pressure) and peripheral vasoconstriction (hypertension).
+   • Renal artery stenosis keeps the renin–angiotensin–aldosterone system constantly active →
+     hypertension and, in time, glomerular sclerosis.
+   • Scintigraphy separates renovascular from essential hypertension. DTPA is preferred because it is
+     cleared purely by glomerular filtration.
+   • Two-day protocol: day 1, oral captopril (an angiotensin-converting enzyme inhibitor) → dynamic
+     renogram; stenosis shows slow uptake and low peak → if abnormal, repeat 1–2 days later off
+     angiotensin-converting enzyme inhibitors and calcium channel blockers → improvement of 10% or
+     more = high probability of renovascular hypertension → likely benefit from angioplasty or surgery.
+   • Why captopril unmasks stenosis: the stenotic kidney maintains GFR through angiotensin II–mediated
+     efferent constriction; blocking it drops filtration in that kidney.
+   • Use has declined with CT angiography, magnetic resonance angiography and Doppler ultrasonography.
+
+ Renal Transplant Evaluation
+   • MAG3 or DTPA helps separate acute rejection from delayed graft function (prolonged ischaemia at
+     harvest), whose management differs. Renal biopsy is the best differentiator.
+
+ ACUTE REJECTION VERSUS DELAYED GRAFT FUNCTION ON DYNAMIC RENOGRAPHY
+                                      Acute rejection                           Delayed graft function
+  Perfusion                           Decreased                                 Maintained
+  Serial studies                      Worsens                                   Improves
+
+   • Caveats: overlapping causes of graft failure are common, and ischaemia can progress to chronic kidney
+     disease, making serial imaging misleading — clinical context is essential.
+   • Anastomotic (urine) leak: tracer collecting outside the kidney on delayed images — valuable because
+     transplant patients often cannot receive iodinated contrast.
+
+ Assessment of Vesicoureteral Reflux
+   • Vesicoureteral reflux (VUR) is retrograde flow from bladder to upper tracts, common in children,
+     causing ascending infection and eventual loss of renal function.
+   • Indirect method: MAG3 or DTPA, then void once tracer is in the bladder. Direct method (more
+     common): ⁹⁹ᵐTc-sulfur colloid instilled into the bladder.
+   • Initial screening must be fluoroscopic voiding cystourethrography (VCUG), not scintigraphy: children
+     with urinary tract infection also need assessment for posterior urethral valves (males) and bladder
+     diverticula, which require anatomic detail.
+   • Nuclear cystography is used for follow-up — more sensitive for subtle VUR, lower radiation dose than
+     contrast cystography.
+
+ FLUOROSCOPIC VERSUS NUCLEAR CYSTOGRAPHY FOR REFLUX
+                                                          Fluoroscopic VCUG                   Nuclear cystography
+  Role                                                    Initial screening                   Follow-up
+
+
+
+                                                               page 5 of 11
+Chapter 7 — Genitourinary Tract Imaging: Basic Principles of Nuclear Medicine                          Functional Imaging of the Kidneys
+
+                                                          Fluoroscopic VCUG                   Nuclear cystography
+  Anatomy (valves, diverticula)                           Yes                                 Little
+  Sensitivity for subtle VUR                              Lower                               Higher
+  Radiation                                               Higher                              Lower
+
+ Renal Cortical Imaging With ⁹⁹ᵐTc-DMSA
+   • Preparation as for dynamic imaging. Dose: 50 µCi/kg in children, 5 mCi in adults, intravenously →
+     images at 2 hours with a pinhole collimator or SPECT. Uptake depends on filtration, so imaging may
+     need delaying in renal failure.
+   • Normal: homogeneous, smooth parenchyma. Acute inflammation or infection: photopenic defects.
+     Scarring: also photopenic.
+   • Serial imaging about 6 months apart separates the two: pyelonephritic defects resolve; scars persist.
+
+ PYELONEPHRITIS VERSUS SCAR ON DMSA
+                                      Acute pyelonephritis                Scar
+  Defect margins                      Less defined                        Sharper borders
+  Kidney                              Normal size                         Often small, atrophic; cortical thinning
+  Repeat at ~6 months                 Resolves                            Persists
+
+
+   KEY POINTS — FUNCTIONAL IMAGING OF THE KIDNEYS
+     • The commonest renal agents are ⁹⁹ᵐTc-DTPA, ⁹⁹ᵐTc-MAG3 and ⁹⁹ᵐTc-DMSA.
+     • DTPA and MAG3 measure renal blood flow, differential function and obstruction.
+     • DTPA is cleared by glomerular filtration; MAG3 by tubular secretion.
+     • MAG3 is preferred at most centres: higher extraction efficiency, less affected by renal function.
+     • DMSA is retained by proximal tubular cells and is used for infection and scarring.
+     • DTPA and MAG3 also evaluate renovascular hypertension, transplant function and VUR.
+
+
+ Concept — Each renal tracer images the part of the nephron that handles it: filtration (DTPA) gives GFR,
+ secretion (MAG3) gives the best dynamic curves whatever the GFR, and tubular retention (DMSA) gives a
+ static map of the cortex.
+
+ INFECTION IMAGING
+   • Genitourinary infection is usually identified clinically and by culture; difficulty arises in children,
+     neurological disorders and immunocompromise.
+   • ⁹⁹ᵐTc-DMSA is the most widely used agent for renal infection, though its role has declined with CT.
+     Active pyelonephritis → decreased uptake that resolves; scar → persistent photopenia with cortical
+     thinning. Scars also occur in VUR without documented pyelonephritis. Scarring predisposes to
+     hypertension and chronic kidney disease.
+   • ¹¹¹In-oxine leucocytes: oxine is a lipid-soluble chelator that diffuses passively into leucocytes.
+     Sequence: draw ~50 mL venous blood → remove erythrocytes → label leucocytes → reinject. Normal
+     uptake in liver, spleen and bone marrow; uptake elsewhere means infection. Blood-pool clearance
+     half-life ~7.5 h → whole-body imaging at ~24 h.
+
+
+
+
+                                                                page 6 of 11
+Chapter 7 — Genitourinary Tract Imaging: Basic Principles of Nuclear Medicine                                   Infection Imaging
+   • ⁹⁹ᵐTc-hexamethylpropyleneamine oxime (HMPAO) leucocytes: lipid-soluble neutral complex; better
+     image quality, but renal and hepatobiliary clearance obscures genitourinary infection; image at 1–2 h
+     to limit bowel and urinary activity; preferred in children for dosimetry.
+   • Transplant kidney: labelled leucocyte imaging cannot be used — leucocytes accumulate in the graft,
+     recognised as non-self.
+   • Intra-abdominal infection without localising symptoms or a convincing collection: ¹¹¹In-oxine
+     leucocytes preferred; intra-abdominal signal is highly specific for true infection.
+   • ⁶⁷Ga-citrate: binds transferrin → carried to inflammation. Drawbacks: non-specific uptake in
+     metabolically active sites, delayed imaging to 48–72 h, high cost.
+
+ INFECTION IMAGING AGENTS COMPARED
+                                               Imaging
+  Agent                Mechanism               time          Strength                      Limitation
+  ⁹⁹ᵐTc-DMSA           Proximal tubular        2h            Renal infection and scar      Displaced by CT
+                       retention
+  ¹¹¹In-oxine          Labelled                ~24 h         Intra-abdominal; GU tract     Not in transplant
+  leucocytes           autologous                            not obscured; highly specific
+                       leucocytes
+  ⁹⁹ᵐTc-HMPAO          Labelled                1–2 h         Image quality; paediatric     Renal/hepatobiliary excretion
+  leucocytes           autologous                            dosimetry                     obscures GU tract; not in
+                       leucocytes                                                          transplant
+  ⁶⁷Ga-citrate         Transferrin binding 48–72 h           Inflammation                  Non-specific; slow; costly
+
+ Concept — Leucocyte label choice is a trade between image quality and background: ⁹⁹ᵐTc images better
+ but is excreted through the very tract being examined, so ¹¹¹In is chosen for genitourinary and abdominal
+ infection.
+
+ MOLECULAR IMAGING OF GENITOURINARY MALIGNANCIES
+   • 2-deoxy-2-[¹⁸F]fluoro-D-glucose (¹⁸F-FDG) is the commonest oncological PET tracer. Sequence: glucose
+     analogue enters via GLUT transporters → phosphorylated by hexokinase → cannot diffuse out →
+     lacking the 2-hydroxyl group it cannot be metabolised further → trapped and imaged.
+   • Physiological uptake in brain and kidneys. Malignant uptake reflects the Warburg effect (aerobic
+     glycolysis) — a shift from oxidative phosphorylation to lactic acid fermentation.
+   • FDG-imageable: urothelial carcinoma, renal cell carcinoma (RCC), penile squamous cell carcinoma,
+     testicular germ cell tumours. Urinary excretion obscures the tract, so FDG is reserved for distant
+     disease.
+   • Prostate cancer rarely uses aerobic glycolysis → poorly seen on FDG.
+
+ Bladder Cancer
+   • FDG is the most studied PET tracer for bladder urothelial carcinoma (Fig. 7.4). For nodal staging a
+     meta-analysis showed modest sensitivity but high specificity. PET upstages a significant minority
+     thought to have organ-confined disease and changes management, including to palliation.
+   • Guidelines do not support routine FDG-PET in clinically localised disease, because outcome benefit is
+     unproven. American Urological Association (AUA): PET only when conventional imaging is equivocal,
+     or to confirm a finding that cannot be biopsied.
+
+
+
+
+                                                               page 7 of 11
+Chapter 7 — Genitourinary Tract Imaging: Basic Principles of Nuclear Medicine       Molecular Imaging of Genitourinary Malignancies
+   • Upper tract urothelial carcinoma: FDG-PET is most useful for distant disease; guidelines keep
+     conventional imaging for staging and follow-up; PET selectively for patients at risk of metastatic
+     recurrence who cannot have contrast-enhanced imaging.
+   • Prognostication (emerging): preoperative maximum SUV independently predicts recurrence after
+     radical cystectomy with extended lymphadenectomy; FDG-PET may predict histological response to
+     induction or neoadjuvant chemotherapy; metabolic response after systemic therapy then cystectomy
+     is associated with lower progression and cancer-specific death in advanced disease.
+   • ¹¹C-choline and ¹¹C-acetate (membrane building blocks, concentrating in rapidly dividing cells):
+     potentially more sensitive than FDG, but not approved, and the 20.3-minute half-life of ¹¹C has limited
+     adoption.
+
+ Kidney Cancer
+   • FDG-PET detects recurrent or metastatic RCC with good sensitivity and specificity, but adds little
+     beyond anatomic imaging. It is most sensitive for type II papillary RCC.
+   • Guidelines recommend against routine FDG-PET for staging or follow-up of RCC; moreover clear cell
+     RCC (ccRCC), the commonest subtype, is less FDG-avid than other subtypes.
+   • Carbonic anhydrase IX (CAIX): a cell-surface protein nearly universally expressed by ccRCC but not
+     other histologies. Leading agent: monoclonal antibody girentuximab (G250).
+   • ¹²⁴I-girentuximab phase III trial: for distinguishing localised ccRCC from other histologies, sensitivity
+     86.2% and specificity 85.9%, outperforming contrast-enhanced CT (sensitivity 75.5%, specificity
+     46.8%).
+   • ZIRCON (confirmatory phase III) uses ⁸⁹Zr-girentuximab (Fig. 7.5), because ⁸⁹Zr is "charge-trapped" in
+     the tumour cytoplasm after antibody internalisation → higher intratumoural signal, less blood-pool
+     activity. It is also being studied for nodal and distant ccRCC. At the time of writing, not yet approved.
+   • ⁹⁹ᵐTc-sestamibi SPECT/CT (available off-label): a lipophilic cation binding cells rich in mitochondria;
+     approved for breast and myocardial imaging and widely used for parathyroid adenoma. It accumulates
+     in oncocytic tumours (high mitochondrial content, low multidrug-resistance pump expression) →
+     oncocytoma and hybrid oncocytic/chromophobe tumours are "hot", ccRCC is "cold" (Fig. 7.6). A 2024
+     meta-analysis showed high sensitivity and specificity, but the literature is small and adoption limited.
+
+ MOLECULAR IMAGING OF THE RENAL MASS
+  Agent                        Target                  Hot lesion                               Status
+  ¹⁸F-FDG PET                  Glucose                 Type II papillary RCC most; ccRCC less   Not routine (guidelines
+                               metabolism              avid                                     against)
+  ⁸⁹Zr/¹²⁴I-girentuximab       CAIX                    Clear cell RCC                           Investigational (ZIRCON)
+  PET
+  ⁹⁹ᵐTc-sestamibi SPECT/ Mitochondria                  Oncocytoma, hybrid oncocytic/            Off-label; limited adoption
+  CT                                                   chromophobe
+
+   • Sestamibi and girentuximab are mirror images: sestamibi lights up the benign oncocytic tumour;
+     girentuximab lights up clear cell carcinoma.
+
+ Prostate Cancer
+   • Historically: contrast CT, MRI and bone scintigraphy with ⁹⁹ᵐTc-methylene diphosphonate (MDP).
+     Now increasingly PET targeting prostate-specific membrane antigen (PSMA).
+
+
+
+
+                                                               page 8 of 11
+Chapter 7 — Genitourinary Tract Imaging: Basic Principles of Nuclear Medicine     Molecular Imaging of Genitourinary Malignancies
+   • National Comprehensive Cancer Network (NCCN, version 4.2024): PSMA-PET is the preferred imaging
+     method; conventional imaging is not a prerequisite, and PSMA-PET/CT or PET/MRI is an equally or
+     more effective front-line tool at initial staging and biochemical recurrence.
+   • ¹¹C-choline: added value for occult pelvic nodes before radical prostatectomy; in biochemical
+     recurrence, detection rises with prostate-specific antigen (PSA). Limited by the on-site cyclotron and
+     20.3-minute half-life. Fluorinated derivatives (¹⁸F-fluorocholine, ¹⁸F-fluoromethylcholine) are not
+     approved in most countries, including the USA.
+   • ¹⁸F-fluciclovine (¹⁸F-FACBC): synthetic amino acid; substrate for LAT1 and ASCT2 transporters; ¹⁸F half-
+     life 109.7 min allowed wider use. Performance parallels choline. Both metabolic tracers take up non-
+     specifically in inflammation, infection and benign prostatic hyperplasia (BPH) → poor for local
+     prostate imaging.
+   • PSMA: type II transmembrane glycoprotein highly expressed by prostate cancer epithelium;
+     expression rises with grade, stage and recurrence risk. Limited normal expression — salivary and
+     lacrimal glands, jejunum, neuronal ganglia.
+   • Agents: early work with ⁶⁸Ga-PSMA-11 and ⁶⁸Ga-PSMA-I&T; trend to ¹⁸F agents (DCFPyL, rhPSMA-7.3,
+     PSMA-1007) for longer half-life and better images.
+
+ US FOOD AND DRUG ADMINISTRATION (FDA)-APPROVED PSMA PET AGENTS
+  Agent                                            Other names
+  ⁶⁸Ga-PSMA-11                                     Kits: LOCAMETZ, ILLUCCIX
+  ¹⁸F-DCFPyL                                       Piflufolastat F 18, PYLARIFY
+  ¹⁸F-rhPSMA-7.3                                   Flotufolastat F 18, POSLUMA
+
+   • PSMA beats metabolic tracers in sensitivity and specificity — shown in the landmark Calais trial
+     (2019): in biochemical recurrence, patient-level detection 26% with ¹⁸F-FACBC vs 56% with ⁶⁸Ga-
+     PSMA-11. A retrospective comparison with ¹¹C-choline agreed; specificity exceeds 90% across studies.
+   • Primary staging of men at risk of nodal or metastatic disease (Fig. 7.7): prospective trials of PSMA-PET
+     before prostatectomy with pelvic lymphadenectomy showed nodal sensitivity 30–40%, specificity
+     above 90% — a positive node is reliable; a negative scan does not exclude micrometastases.
+   • Biochemical recurrence: prospective trials show excellent detection even at very low PSA. CONDOR
+     (¹⁸F-DCFPyL): detection 61.5% at median PSA 0.8 ng/mL; management changed in 63.9% — about
+     four-fifths of changes followed positive scans and one-fifth negative scans.
+   • Outcome evidence: no data yet show that PSMA-driven management changes improve outcomes.
+     EMPIRE-1 (¹⁸F-FACBC): after prostatectomy, salvage radiotherapy directed by FACBC-PET vs
+     conventional imaging → plan changed in ~35% (e.g. adding pelvic nodes) and 12.5% absolute
+     improvement in 3-year freedom from the composite of PSA failure, imaging progression and systemic
+     therapy. A PSMA equivalent is under way.
+   • Oligometastatic disease (not yet guideline-supported): ORIOLE (phase II) — metastasis-directed
+     radiotherapy chosen on conventional imaging, with blinded ¹⁸F-DCFPyL; untreated PSMA-avid disease
+     → progression 63% vs 16% at 6 months when all avid sites were treated.
+   • Radioligand therapy: VISION (2021) → ¹⁷⁷Lu-PSMA-617 (beta emitter) approved for metastatic
+     castration-resistant prostate cancer after androgen receptor pathway inhibitor and taxane. PSMA-
+     PET is essential to confirm target expression, which can be lost with neuroendocrine
+     transdifferentiation.
+   • Figure 7.7: a left iliac lesion near the sacroiliac joint seen on MDP bone scan, sclerotic on CT and PSMA-
+     avid on ¹⁸F-DCFPyL — concordant metastasis.
+
+
+                                                               page 9 of 11
+Chapter 7 — Genitourinary Tract Imaging: Basic Principles of Nuclear Medicine          Molecular Imaging of Genitourinary Malignancies
+ MOLECULAR IMAGING TRIALS IN PROSTATE CANCER
+  Trial            Tracer                    Setting                                  Key result
+  Calais           ⁶⁸Ga-PSMA-11 vs           Biochemical recurrence                   Detection 56% vs 26%
+  (2019)           ¹⁸F-FACBC
+  CONDOR           ¹⁸F-DCFPyL                Biochemical recurrence                   61.5% detection at PSA 0.8; 63.9%
+                                                                                      management change
+  EMPIRE-1         ¹⁸F-FACBC                 Salvage radiotherapy after               12.5% absolute gain in 3-year event-
+                                             prostatectomy                            free survival
+  ORIOLE           ¹⁸F-DCFPyL                Oligometastatic, metastasis-             Progression 63% vs 16% (untreated vs
+                   (blinded)                 directed radiotherapy                    all avid sites treated)
+  VISION           ¹⁷⁷Lu-PSMA-617            mCRPC after ARPI and taxane              Approval of radioligand therapy
+  (2021)           (therapy)
+
+ PROSTATE PET TRACERS COMPARED
+                   ¹¹C-choline                          ¹⁸F-FACBC (fluciclovine)                   PSMA agents
+  Mechanism        Membrane synthesis                   Amino acid transport (LAT1, ASCT2)         Cell-surface PSMA
+  Half-life        20.3 min (on-site cyclotron)         109.7 min                                  68 min (⁶⁸Ga); 110 min (¹⁸F)
+  Specificity      Limited (inflammation, BPH)          Limited (inflammation, BPH)                >90%
+  Status           Limited adoption                     Approved; EMPIRE-1 outcome data            Preferred (NCCN)
+
+ Penile Cancer
+   • Penile squamous cell carcinoma is highly FDG-avid.
+   • Palpable inguinal nodes: FDG-PET reliably confirms metastasis and its extent (very high sensitivity on
+     meta-analysis).
+   • PET-positive nodal disease carries worse overall survival, and only PET-positive patients benefited
+     from neoadjuvant chemotherapy → FDG-PET helps steer PET-positive patients to neoadjuvant
+     chemotherapy.
+   • Limited role: non-palpable nodes (poor sensitivity for occult metastases) and primary tumour staging;
+     data for distant disease are scarce.
+
+ Testis Cancer
+   • Seminoma: European Association of Urology (EAU) endorses FDG-PET for a residual post-
+     chemotherapy mass >3 cm, to separate fibrosis from viable tumour; meta-analysis showed moderate-
+     to-good sensitivity and specificity.
+   • Non-seminomatous germ cell tumour (NSGCT): FDG-PET not indicated — no benefit over CT plus
+     serum markers. Standard of care is retroperitoneal lymph node dissection for residual masses >1 cm;
+     a PET tracer for viable NSGCT is a critical unmet need.
+
+ POST-CHEMOTHERAPY RESIDUAL MASS: SEMINOMA VERSUS NON-SEMINOMA
+                                 Seminoma                                       Non-seminomatous germ cell tumour
+  FDG-PET                        Indicated if residual mass >3 cm               Not indicated
+  Question answered              Fibrosis vs viable tumour                      — (CT + markers)
+  Surgical threshold             —                                              RPLND if >1 cm
+
+   • Why: teratoma, common in NSGCT residual masses, is not FDG-avid, so PET cannot exclude it.
+
+
+
+
+                                                              page 10 of 11
+Chapter 7 — Genitourinary Tract Imaging: Basic Principles of Nuclear Medicine   Molecular Imaging of Genitourinary Malignancies
+
+   KEY POINTS — MOLECULAR IMAGING
+     • Molecular cancer imaging most commonly uses ¹⁸F-FDG PET.
+     • Several genitourinary malignancies are FDG-imageable, with varying utility beyond anatomic
+       imaging.
+     • FDG is excreted in urine, so it is used mainly for distant disease.
+     • FDG has little role in prostate cancer; other tracers were developed for it.
+     • PSMA-targeted PET has become the standard of care for prostate cancer imaging in many parts of
+       the world.
+     • A well-established FDG-PET indication is residual seminoma after chemotherapy.
+
+
+ Concept — A tracer is only as useful as the biology it exploits: FDG follows glycolysis, so it fails in indolent
+ prostate cancer and clear cell RCC and is swamped by urinary excretion, whereas target-specific agents
+ (PSMA, CAIX, mitochondrial content) succeed because they image a molecule the tumour actually carries.
+
+
+
+
+                                                              page 11 of 11
+

@@ -1,0 +1,897 @@
+Chapter 8 — Evaluation and Management of Haematuria                             Classification and Timing of Haematuria
+
+
+ Chapter 8 — Evaluation and Management of Haematuria
+   • Haematuria has been recognised as a sign of illness since antiquity and is now one of the commonest
+     indications for urological evaluation.
+   • Up to 65% of patients with haematuria have a urological or renal condition, many needing treatment
+     — hence the differential diagnosis, principles of evaluation and management strategies must be
+     known.
+   • Presentation spans asymptomatic microhaematuria to refractory haemorrhagic cystitis, with
+     implications for health-system resources and difficult clinical decisions.
+   • Knowing the risk factors for genitourinary malignancy in microscopic haematuria allows timely,
+     appropriate evaluation; severe upper and lower tract bleeding is often life-threatening in elderly,
+     comorbid patients.
+
+ CLASSIFICATION AND TIMING OF HAEMATURIA
+   • Classified by visibility, timing within the urinary stream, and associated symptoms.
+   • Gross haematuria (GH) — also frank, macroscopic or visible haematuria — is visible to the naked eye.
+     Its timing within the stream suggests the source:
+  Timing of GH                      Usual source
+  Initial                           Urethra
+  Terminal                          Bladder trigone, bladder neck or prostate
+  Total                             Bladder or upper urinary tract
+  Cyclic (female)                   Gynaecological cause (e.g. endometriosis)
+
+   • Pigmenturia must be excluded: endogenous pigments (bilirubin, myoglobin, porphyrins), foods
+     (beetroot, rhubarb), drugs (phenazopyridine) or dehydration — distinguished by urinalysis (UA) with
+     microscopy.
+   • False-positive dipstick for haemoglobin: myoglobinuria, semen and bacterial peroxidases →
+     microscopy is required to confirm haematuria.
+   • Exclude vaginal bleeding: careful menstrual history, specimen collected outside menstrual or
+     gynaecological bleeding, or, if necessary, a catheterised specimen. In incontinent patients GH may
+     present as blood spotting on undergarments.
+   • Once vaginal bleeding and mimics are excluded, a urological source must be suspected.
+   • Microhaematuria (MH) is a sign, not a symptom: a laboratory diagnosis of red blood cells (RBCs) on
+     urine microscopy, not visible to the eye.
+   • Prevalence about 6.5% in healthy screened adults, higher in cohorts with more men, older patients
+     and smokers.
+   • MH is categorised by presence or absence of symptoms and quantified as RBCs per high-power field
+     (HPF).
+ Concept — Timing within the stream localises the source, and microscopy — not colour, not dipstick —
+ establishes that the red cells are real.
+
+
+
+
+                                                        page 1 of 18
+Chapter 8 — Evaluation and Management of Haematuria                                                     Microscopic Haematuria
+
+ MICROSCOPIC HAEMATURIA
+ Criteria for Diagnosis of Microhaematuria
+   • A few RBCs enter the urine normally, and sexual activity and exercise can produce minor MH. Together
+     with the high prevalence and low malignancy yield, this makes a threshold with both high sensitivity
+     and high specificity unattainable.
+   • Threshold ≥3 RBCs/HPF is used by most studies and guideline panels.
+   • Sensitivity–specificity trade-off (large observational study correlating degree of MH with malignancy):
+     0–2 RBCs/HPF is fully sensitive but has no specificity; 3–10 gives moderate sensitivity and specificity;
+     higher thresholds progressively lose sensitivity and gain specificity.
+   • The American Urological Association (AUA)/Society of Urodynamics, Female Pelvic Medicine and
+     Urogenital Reconstruction (SUFU) guideline (2020) defines MH as ≥3 RBCs/HPF: higher thresholds
+     would miss treatable urological conditions.
+   • A single positive UA is sufficient to prompt evaluation, because MH from significant disease, including
+     malignancy, can be intermittent.
+   • Other national guidelines vary (Table 8.1), reflecting different balances of benefit, harm and cost; none
+     has been robustly validated.
+   • Laboratory reporting must match the threshold: a normal range extending above 3 (e.g. ≤5 RBCs/HPF)
+     defeats it, and current reporting cut-offs are variable and often discordant with guideline risk groups.
+   • Automated UA (e.g. flow cytometry) increasingly replaces microscopy, but the ≥3 RBCs/HPF threshold
+     is based on microscopic sediment; the correct automated threshold is unknown.
+
+ TABLE 8.1 SELECTED GUIDELINES FOR EVALUATION OF ASYMPTOMATIC MICROHEMATURIA
+                                                Criterion for
+  Guideline body                     Population evaluation                Cystoscopy             Imaging
+  AUA/SUFU (2020); American          Adults           ≥3 RBCs/HPF on a Low risk optional;        Low risk optional or renal
+  Family Physician (2021)                             single UA        intermediate and          ultrasound (RUS);
+  identical                                                            high risk                 intermediate RUS; high
+                                                                       recommended               computed tomography
+                                                                                                 (CT) urogram
+  American College of Physicians Adults               ≥3 RBCs/HPF on a Not stated                Not stated
+  (2016)                                              single UA
+  Canadian Consensus                 Adults           ≥3 RBCs/HPF on      Age ≥35                Provider discretion
+  Document (2016)                                     2 of 3 UAs
+  Kaiser Permanente (2009)           Adults           ≥3 RBCs/HPF on      Urologist discretion   CT urogram or
+                                                      2 of 3 UAs                                 intravenous pyelogram
+                                                                                                 (IVP); RUS
+  Dutch (2012)                       Adults ≥50       ≥3 RBCs/HPF on      Age ≥50; discretion    Ultrasound if ≥50;
+                                                      2 of 3 UAs          if younger             discretion if younger
+  Japanese (2014)                    Adults ≥40       ≥5 RBCs/HPF on a Age ≥40 with risk         Ultrasound
+                                                      single UA        factors
+  American College of                Adult            Not stated          Avoid in never-smoking women aged 35–50;
+  Obstetricians and                  women                                evaluate only if ≥25 RBCs/HPF
+  Gynecologists (ACOG)/
+  American Urogynecologic
+  Society (AUGS) (2017,
+  reaffirmed 2021)
+
+
+
+
+                                                           page 2 of 18
+Chapter 8 — Evaluation and Management of Haematuria                                                      Microscopic Haematuria
+
+                                                Criterion for
+  Guideline body                     Population evaluation                Cystoscopy             Imaging
+  UK National Institute for          Age ≥60          ≥1+ blood on        Not stated             Not stated
+  Health and Care Excellence                          dipstick PLUS
+  (NICE) (2016)                                       dysuria or raised
+                                                      white cell count
+ Data from Barocas et al., 2020; Kassouf et al., 2016; Loo et al., 2009; ACOG Committee Opinion, 2017; Horie et al., 2014;
+ van der Molen and Hovius, 2012; Nielsen and Qaseem, 2016; NICE, 2016; Arnold, 2021.
+   • What the table shows: guidelines diverge on the number of positive UAs, the RBC threshold, age floors
+     and imaging modality.
+   • Pattern: North American bodies converge on ≥3 RBCs/HPF; only AUA/SUFU (and American Family
+     Physician) risk-stratify both cystoscopy and imaging; most others default to ultrasound.
+   • Traps: NICE alone accepts a dipstick (with symptoms) — AUA/SUFU rejects dipstick diagnosis; AUA/
+     SUFU needs one UA whereas Canadian, Kaiser and Dutch need 2 of 3; the Japanese threshold is ≥5;
+     ACOG/AUGS withholds evaluation in never-smoking women 35–50 below 25 RBCs/HPF.
+
+ Differential Diagnosis
+   • One-third to two-thirds of patients evaluated for MH have a demonstrable cause — commonly
+     benign prostatic enlargement (BPE), calculi and urethral stricture (Table 8.2).
+   • MH may arise anywhere: consider neoplastic, infectious and anatomical causes in kidney, ureter,
+     bladder, prostate and urethra, plus medical renal disease and mimics such as vaginal bleeding.
+   • Many benign findings need no treatment: non-obstructing nephrolithiasis, pelvic organ prolapse,
+     vaginal atrophy, BPE.
+   • Malignancy is found in roughly 3% of MH evaluations, varying with population, threshold and
+     completeness of evaluation.
+   • Meta-analysis: bladder cancer is found in a few per cent (more in high-risk cohorts), whereas upper
+     tract urothelial carcinoma (UTUC) and renal cell carcinoma (RCC) are each found in about 1 in 1,000
+     — upper tract malignancy is very uncommon in MH.
+   • Yield rises with degree of MH (>25 RBCs/HPF), GH and malignancy risk factors (Box 8.1).
+
+ TABLE 8.2 DIFFERENTIAL DIAGNOSIS OF MICROHEMATURIA
+  Category                      Example                                           Clinical presentation and risk factors
+  Neoplasm (risk factors:       Bladder cancer                                    Older age, male, tobacco, occupational
+  Box 8.1)                                                                        exposure, irritative voiding symptoms
+                                Ureteral or renal pelvis cancer                   Family history of early colon,
+                                                                                  endometrial or upper tract tumours;
+                                                                                  Lynch syndrome
+                                Renal cortical tumour                             Family history of early kidney tumours;
+                                                                                  flank pain or mass
+                                Prostate cancer                                   Older age, family history, Black race
+                                Urethral cancer                                   Obstructive symptoms, pain, bloody
+                                                                                  discharge
+  Infection and                 Cystitis                                          Female predominance, dysuria
+  inflammation (history of      Pyelonephritis                                    Fever, flank pain, diabetes, female
+  infection)                                                                      predominance
+                                Urethritis                                        Sexually transmitted infection exposure,
+                                                                                  discharge, dysuria
+
+
+
+                                                           page 3 of 18
+Chapter 8 — Evaluation and Management of Haematuria                                                    Microscopic Haematuria
+
+  Category                      Example                                         Clinical presentation and risk factors
+                                Tuberculosis; schistosomiasis                   Travel to endemic areas
+                                Haemorrhagic cystitis                           See Box 8.2
+  Calculus (prior stone)        Nephroureterolithiasis                          Flank or loin pain, family history
+                                Bladder stones                                  Bladder outlet obstruction
+  Benign prostatic              —                                               Male, older age, obstructive symptoms
+  enlargement
+  Medical renal disease         Nephritis; immunoglobulin A (IgA)               Hypertension, azotaemia, dysmorphic
+                                nephropathy                                     RBCs, cellular casts, proteinuria
+  Congenital or acquired        Polycystic kidney disease                       Family history of renal cystic disease
+  anatomical abnormality        Pelviureteric junction obstruction              History of urinary tract infection (UTI),
+                                                                                stone, flank pain
+                                Ureteral stricture                              Prior surgery or radiation, flank pain,
+                                                                                hydronephrosis
+                                Urethral stricture                              Stranguria, spraying
+                                Urethral diverticulum                           Discharge, dribbling, dyspareunia, UTI;
+                                                                                female
+                                Fistula                                         Pneumaturia, faecaluria, abdominal
+                                                                                pain, recurrent UTI, diverticulitis
+  Other                         Exercise-induced haematuria                     Recent vigorous exercise — diagnosis of
+                                                                                exclusion
+                                Endometriosis                                   Cyclic haematuria in a menstruating
+                                                                                woman
+                                Haematological or thrombotic disease            Personal or family history of bleeding or
+                                                                                thrombosis
+                                Papillary necrosis                              Black race, sickle cell disease, diabetes,
+                                                                                analgesic abuse
+                                Arteriovenous malformation                      Recent renal surgery (iatrogenic)
+                                Renal vein thrombosis; interstitial cystitis;   Voiding symptoms (interstitial cystitis);
+                                trauma; recent surgery or instrumentation       relevant history
+
+   • Footnotes: the list assumes obvious benign causes (menstruation, recent instrumentation,
+     uncomplicated cystitis) are excluded; haematological illness, medical renal disease or anticoagulant/
+     antiplatelet use does not preclude haematuria evaluation; exercise-induced haematuria requires
+     confirmed absence of haematuria after abstaining from exercise.
+   • Purpose: pairs each cause with the clinical clue that raises it. Trap: a plausible benign explanation is a
+     hypothesis to be proven, not a reason to stop.
+
+ Bladder Cancer Detection and Risk Factors for Delayed Diagnosis
+   • United States: over 82,000 new bladder cancers and over 16,700 deaths annually; most new cases are
+     non-muscle-invasive.
+   • Male-to-female incidence 4:1, yet 5-year survival is worse in women — partly from delayed
+     diagnosis: women present at higher stage and their MH is more often misattributed to UTI or
+     gynaecological causes.
+   • In muscle-invasive disease, treatment delay worsens survival → prove rather than presume a benign
+     cause, and repeat the UA after treatment to confirm resolution.
+
+
+
+
+                                                         page 4 of 18
+Chapter 8 — Evaluation and Management of Haematuria                                                      Microscopic Haematuria
+   • Black patients: lower incidence but higher mortality, likewise attributed to differences in referral and
+     timely diagnosis.
+   • Anticoagulants and antiplatelets (warfarin, heparins, aspirin, clopidogrel, non-steroidal anti-
+     inflammatory drugs): haematuria prevalence and cancer yield are no different from non-users; these
+     drugs may unmask lesions at an earlier stage; a population study found users more than twice as
+     likely to be diagnosed with bladder cancer within 6 months of haematuria → risk-based evaluation
+     exactly as for non-users.
+   • Under-evaluation is pervasive: fewer than 25% of patients with haematuria are referred and fewer
+     than 10% receive complete evaluation (cystoscopy and imaging), even when high risk.
+   • Contributors: disparate guidelines, low yield, cost of imaging and invasiveness of cystoscopy. Proposed
+     remedies: electronic record decision support, telemedicine consultation, one-stop haematuria clinics.
+
+ BOX 8.1 UROTHELIAL CANCER RISK FACTORS
+  Included in AUA microhaematuria risk
+  stratification                                      Additional urothelial cancer risk factors
+  Age                                                 Irritative lower urinary tract symptoms
+  Male sex                                            Prior pelvic radiotherapy
+  Smoking                                             Prior cyclophosphamide or ifosfamide chemotherapy
+  Degree of MH                                        Family history of urothelial cancer or Lynch syndrome
+  Persistence of MH                                   Occupational benzene or aromatic amine exposure (rubber,
+                                                      petrochemicals, dyes)
+  History of MH                                       Chronic indwelling foreign body in the urinary tract
+ Not an exhaustive list. Used with permission from the American Urological Association.
+   • Purpose: the left column drives the risk stratum; the right column can lift a patient to intermediate risk
+     only (Table 8.3). Trap: cyclophosphamide or radiotherapy exposure does not by itself make a patient
+     high risk.
+
+ Rationale for a Risk-Based Evaluation Algorithm
+   • One-third to two-thirds of MH evaluations are negative; given cost and patient risk, an individualised
+     selection for evaluation is sought.
+   • Kaiser Permanente data: patients with risk factors (age ≥50, GH history, tobacco, male sex, >25 RBCs/
+     HPF) had roughly ten-fold higher malignancy yield than intermediate-risk patients; low-risk yield was
+     near zero.
+   • ACOG/AUGS (2017): withhold evaluation in never-smoking women aged 35–50 with <25 RBCs/HPF,
+     whose malignancy risk is <0.5%.
+   • AUA/SUFU (2020) defined low, intermediate and high risk by age, sex, smoking and degree of MH
+     (Table 8.3), matching evaluation intensity to cancer risk.
+   • Not externally validated at publication, but built on systematic review confirming each factor; later
+     models use the same factors. Subsequent validation confirmed a stepwise rise in malignancy across
+     the three strata.
+
+ TABLE 8.3 AMERICAN UROLOGICAL ASSOCIATION/SOCIETY OF URODYNAMICS, FEMALE PELVIC MEDICINE
+ AND UROGENITAL RECONSTRUCTION RISK STRATIFICATION SYSTEM
+  Risk factor                Low (meets ALL)                 Intermediate (meets ANY)           High (meets ANY)
+  Sex/age (years)            Women <50; men <40              Women 50–59; men 40–59             Women and men ≥60
+  Smoking (pack-years)       Never or <10                    10–30                              >30
+
+
+
+                                                           page 5 of 18
+Chapter 8 — Evaluation and Management of Haematuria                              Evaluation of Patients With Microhaematuria
+
+  Risk factor                Low (meets ALL)             Intermediate (meets ANY)        High (meets ANY)
+  Degree of MH (RBCs/        3–10                        11–25                           >25
+  HPF)
+  History of GH              No                          No                              Yes
+  Prior episode of MH        No                          Previously low risk, no prior Previously low risk, no prior
+                                                         evaluation, 3–25 RBCs/HPF on evaluation, >25 RBCs/HPF
+                                                         repeat UA                     on repeat UA
+  Additional urothelial      No                          Yes                             —
+  cancer risk factors
+  (Box 8.1)
+  Malignancy risk (from      0–0.4%                      1–2.5%                          About 6%
+  text)
+  Evaluation (Fig. 8.1)      Shared decision: repeat UA Cystoscopy + RUS                 Cystoscopy + CT urogram
+                             within 6 months or
+                             cystoscopy + RUS
+ Used with permission from the American Urological Association.
+   • Asymmetry: low risk requires every criterion; intermediate and high require any one. Men enter
+     intermediate a decade earlier than women (40 vs 50), but both become high risk at 60.
+   • Any history of GH → high risk outright. Persistent MH re-stratifies a previously low-risk, unevaluated
+     patient by the repeat count.
+
+   KEY POINTS: MICROSCOPIC HAEMATURIA
+    • MH = ≥3 RBCs/HPF on one or more urine microscopies; dipstick is insufficient.
+    • Prevalence about 6.5% of adults, varying by population.
+    • Malignancy in about 3% of MH evaluations — higher with more haematuria, male sex, tobacco and
+      risk factors.
+
+ Concept — The diagnostic threshold is deliberately sensitive; specificity is recovered not by raising the
+ threshold but by stratifying the intensity of evaluation to pre-test risk.
+
+ EVALUATION OF PATIENTS WITH MICROHAEMATURIA
+   • Many guidelines and risk models exist; the chapter follows the AUA/SUFU guideline (Fig. 8.1).
+
+ Initial Evaluation
+   • History and examination focused on genitourinary malignancy risk factors (Box 8.1), medical renal
+     disease and benign causes: infection, trauma, nephrolithiasis, BPE and urethral stricture in men,
+     urethral diverticulum and pelvic organ prolapse in women; directed examination, including female
+     pelvic examination, as needed.
+   • Measure blood pressure and serum creatinine — both detect medical renal disease; creatinine also
+     guides the choice of imaging where cross-sectional imaging is indicated.
+   • Suspected benign cause → confirm it, treat, repeat UA. Suspected UTI → urine culture, then follow-up
+     UA after treatment; persistent MH → further evaluation. Omitting these steps delays bladder cancer
+     diagnosis, raises stage and lowers cancer-specific survival.
+   • Benign conditions needing no treatment (non-obstructing stones, vaginal atrophy), or where treatment
+     will not clear MH (medical therapy for BPE) → shared decision-making on further evaluation.
+
+
+
+
+                                                      page 6 of 18
+Chapter 8 — Evaluation and Management of Haematuria                         Evaluation of Patients With Microhaematuria
+   • Unprovable benign causes, such as vigorous exercise, are diagnoses of exclusion, not reasons to forgo
+     evaluation.
+   • Signs of medical renal disease (hypertension, renal impairment, proteinuria, casts, dysmorphic RBCs)
+     → nephrology referral AND risk-based urological evaluation, since bladder cancer may coexist.
+   • Then assign low, intermediate or high risk (Table 8.3).
+
+ FIGURE 8.1 AMERICAN UROLOGICAL ASSOCIATION GUIDELINE ALGORITHM FOR EVALUATION OF ADULT
+ PATIENTS WITH MICROHEMATURIA
+ Sequence: MH ≥3 RBCs/HPF on UA with microscopy → history and examination (urothelial cancer risk
+ factors, non-malignant causes) → suspected non-malignant or gynaecological source: directed evaluation
+ (culture if infection suspected) → treat → repeat UA (negative → release) → risk stratification →
+ evaluation by stratum (Table 8.3; CT-contraindicated high-risk patients receive MR urogram, or non-
+ contrast imaging + retrograde pyelograms) → positive → treat; negative → consider repeat UA within 12
+ months (negative → release; positive → shared decision on repeat evaluation vs observation) → re-
+ evaluate if GH, increased MH or new urological symptoms.
+   • Figure footnotes: low risk at presentation becomes intermediate or high only with persistent MH;
+     consider a catheterised specimen in women with vaginal atrophy or prolapse; untreated chronic
+     benign conditions need judgement and patient engagement; cross-sectional or retrograde imaging if
+     MH persists after a negative RUS.
+ With permission from the American Urological Association.
+
+ Low-Risk Patients With Microhaematuria
+   • Malignancy risk 0–0.4%. More than 85% of malignancies found on MH evaluation are bladder
+     cancers; UTUC and RCC are uncommon overall and particularly rare in low risk.
+   • Low yield against cost, false positives, complications and discomfort makes benefit debatable; the
+     purpose of stratification is largely to identify a group safe to forgo evaluation.
+   • Shared decision-making: repeat UA within 6 months vs cystoscopy + RUS, discussing low yield, false
+     positives, cystoscopy complications, discomfort, cost, preference and risk tolerance.
+   • Repeat UA still positive → cystoscopy and imaging, with modality set by the new stratum (3–25 RBCs/
+     HPF intermediate; >25 high), assuming no new irritative symptoms.
+   • Omitting evaluation in some and substituting RUS for CT urography reduces burden, risk and cost
+     without compromising cancer detection.
+
+ Intermediate-Risk Patients With Microhaematuria
+   • Malignancy risk 1–2.5%; UTUC risk remains very low → cystoscopy + RUS.
+   • RUS retains sensitivity for renal cortical tumours while avoiding ionising radiation and iodinated
+     contrast, and reduces incidental findings and cost.
+
+ High-Risk Patients With Microhaematuria
+   • Malignancy about 6% in validation, higher in men, smokers and those with GH history.
+   • UTUC is uncommon overall but likely most frequent in this stratum; many guidelines use RUS for all,
+     but RUS is poorly sensitive for UTUC → AUA/SUFU: cystoscopy + axial upper tract imaging with
+     excretory views.
+
+ Upper Tract Imaging in the Diagnostic Evaluation of Microscopic Haematuria
+   • CT urography has the highest sensitivity and specificity for renal parenchymal and upper tract lesions,
+     is very sensitive for calculi and shows extra-urinary disease.
+
+
+                                                      page 7 of 18
+Chapter 8 — Evaluation and Management of Haematuria                               Evaluation of Patients With Microhaematuria
+   • Limitations: pregnancy, iodinated contrast allergy, chronic kidney disease; radiation 20–30 mSv
+     (variable between centres), with potential carcinogenesis.
+   • Cost-effectiveness modelling: CT urography instead of RUS costs over US$1 million per additional
+     cancer detected, with very few extra cancers, because UTUC is rare; across large populations, radiation-
+     induced cancers, contrast complications and false positives become substantial.
+   • Some organisations therefore use RUS for all; AUA/SUFU instead reserves axial imaging for the high-
+     risk subpopulation, whose upper tract cancer risk justifies it.
+   • CT urogram phases: pre-contrast (stones, hyperdense lesions) → contrast-enhanced parenchymal
+     (cortical tumours) → delayed excretory images from kidneys to bladder (urothelium).
+   • RUS sensitivity for UTUC is poorly defined but appears lower than CT — only two studies, with
+     conflicting results; CT urography shows high sensitivity and very high specificity for UTUC and RCC
+     combined.
+   • CT risk mitigation: split-bolus protocols (three series reduced to two) and radiation dose adjusted for
+     body mass index.
+   • Contrast-associated acute kidney injury (AKI): an American College of Radiology (ACR)/National Kidney
+     Foundation consensus states the risk has been overstated, recommending hydration when glomerular
+     filtration rate (GFR) <30 mL/min/1.73 m².
+   • CT urogram contraindicated → MR urography; MRI contraindicated (some pacemakers, metal
+     implants, severe claustrophobia) → non-contrast CT or ultrasound of the parenchyma + retrograde
+     pyelography of calyces, pelvis and ureters.
+   • Nephrogenic systemic fibrosis (NSF) after gadolinium is small and falling: exceedingly rare at GFR ≥30;
+     below that, group II or III gadolinium agents may be used.
+   • Genetic predisposition to renal cortical tumours (e.g. von Hippel–Lindau disease) → upper tract
+     imaging regardless of stratum.
+   • Persistent or recurrent MH after negative RUS (low or intermediate risk) → cross-sectional or
+     retrograde urography may be used.
+
+ COMPARISON — CT UROGRAPHY VS RENAL ULTRASOUND IN MICROHAEMATURIA
+  Attribute                           CT urography                   Renal ultrasound
+  Sensitivity for UTUC                High                           Low, poorly defined
+  Renal cortical tumours              High                           Sensitivity retained
+  Calculi and extra-urinary           Detected                       Limited
+  disease
+  Radiation and contrast              20–30 mSv; iodinated           None
+                                      contrast
+  Incidental findings and cost        More                           Fewer
+  AUA/SUFU use                        High risk                      Intermediate risk; low risk opting for
+                                                                     evaluation
+
+ Urine Cytology and Urinary Biomarkers in the Evaluation of Haematuria
+   • Cytology and biomarkers are not recommended in the initial evaluation of MH: none has shown
+     incremental value over cystoscopy and imaging in a pure MH population; supportive studies are in
+     bladder cancer surveillance or mixed GH/MH cohorts.
+   • Cytology: moderate sensitivity, high specificity in a mixed cohort, yet no cancer was found in patients
+     with positive cytology but normal cystoscopy and upper tract imaging; in a large prospective MH
+
+
+
+                                                      page 8 of 18
+Chapter 8 — Evaluation and Management of Haematuria                               Evaluation of Patients With Microhaematuria
+     series, positive cytology with a negative work-up rarely yielded later cancer, and false positives were
+     appreciable.
+   • US Food and Drug Administration-approved or cleared assays have rarely been studied in MH without
+     prior bladder cancer:
+
+ COMPARISON — URINARY BIOMARKER ASSAYS
+  Assay                           Principle and targets
+  Nuclear matrix protein 22       Protein; qualitative and quantitative
+  (NMP22)
+  Bladder tumour antigen          Protein; qualitative and quantitative
+  (BTA)
+  UroVysion                       Fluorescence in situ hybridisation (FISH): chromosomes 3, 7, 17 and 9p21
+  ImmunoCyt                       Immunocytology: carcinoembryonic antigen and mucin glycoproteins
+  Xpert Bladder                   Messenger ribonucleic acid (mRNA): UPK1B, IGF2, CRH, ANXA10, ABL1
+  Cxbladder                       Reverse transcription polymerase chain reaction (RT-PCR), five mRNAs: IGFBP5,
+                                  HOXA13, MDK, CDK1 (CDC2), CXCR2
+  AssureMDx                       Deoxyribonucleic acid (DNA): FGFR3, TERT, HRAS mutations; methylation of OTX1,
+                                  ONECUT2, TWIST1
+
+   • Pooled sensitivities and specificities are moderate to good; no assay is shown superior, and most data
+     are from mixed populations.
+   • Likelihood-ratio modelling: in a low-risk patient, a negative test lowers cancer risk to negligible and a
+     positive test raises it only modestly.
+   • None is sensitive or validated enough to replace cystoscopy or imaging. Cytology may be considered
+     after a negative work-up if urothelial carcinoma is still suspected, particularly with irritative voiding
+     symptoms.
+
+ Natural History of Microhaematuria in Patients With a Negative Initial Evaluation
+   • MH resolves in about one-third over months to years — but these cohorts were young and often
+     incompletely evaluated.
+   • Re-evaluation series found a small malignancy yield, but initial evaluations were often incomplete and
+     most cancers came from CT in patients not previously CT-imaged.
+   • After a complete initial evaluation, malignancy on a second evaluation is rare; long-term follow-up of
+     men over 50 found only occasional bladder cancers, many years later.
+   • AUA/SUFU (conditional): may repeat UA within 12 months and discontinue if negative.
+   • Persistent or recurrent MH → shared decision on re-evaluation, acknowledging low yield.
+   • GH, a significant rise in MH or new urological symptoms → re-evaluate: these suggest new or occult
+     disease.
+   • Cytology if carcinoma in situ risk factors develop (GH, irritative symptoms); cross-sectional or
+     retrograde urography if initially imaged with RUS.
+   • Untreated chronic benign causes (non-obstructing stones, BPE, prolapse) → judgement and shared
+     decision on whether and when to re-evaluate.
+   • Low-risk patients who skipped evaluation → risk-based evaluation if MH persists or recurs.
+
+   KEY POINTS: EVALUATION OF PATIENTS WITH MICROHAEMATURIA
+    • History, examination, renal function and blood pressure → risk stratification → stratum-matched
+      evaluation (Table 8.3).
+
+
+                                                          page 9 of 18
+Chapter 8 — Evaluation and Management of Haematuria                                                    Gross Haematuria
+    • White-light cystoscopy rather than enhanced cystoscopy; no cytology or biomarkers initially.
+    • Negative complete evaluation → release once UA confirms resolution; re-evaluation considered for
+      persistent/recurrent MH or incomplete initial evaluation.
+
+ Concept — Bladder cancer dominates the yield, so cystoscopy is near-universal; upper tract cancer is rare,
+ so CT urography is reserved for the stratum in which the rare becomes worth the radiation, contrast and
+ cost.
+
+ GROSS HAEMATURIA
+   • The differential is the same as for MH, but the yield of significant lesions rises with the degree of
+     haematuria: about half of GH patients have a demonstrable cause.
+   • DETECT I (prospective, UK, 40 hospitals, 3,556 referred patients): urinary tract cancer in 13.8% with GH
+     vs 3.1% with MH; 3.5% of GH patients under 45 had cancer → investigate GH without an age
+     threshold.
+   • IDENTIFY (international prospective, 10,896 patients, 110 hospitals, 26 countries): cancer in 26% with
+     GH vs 6.38% with MH.
+   • In both, bladder cancer was the commonest cancer; a systematic review likewise found bladder
+     cancer, RCC and UTUC all several-fold more frequent with GH than MH.
+   • Risk prediction models from DETECT and IDENTIFY both retain GH as a significant predictor of cancer.
+   • GH without trauma or culture-documented UTI → urine cytology, cystoscopy and upper tract
+     imaging, preferably CT urography.
+   • GH with culture-documented UTI → treat, then repeat UA to confirm clearance.
+   • Initial assessment as for MH, plus: haemodynamic stability, full blood count for anaemia, coagulation
+     parameters if anticoagulated; bladder emptying (post-void residual ultrasound), with catheterisation
+     and clot irrigation if clot retention is suspected.
+   • Stabilise → diagnostic evaluation → cause-specific management.
+   • Non-diagnostic evaluation: follow the MH schedule as a reference; full repeat evaluation if GH recurs.
+
+ COMPARISON — EVALUATION OF MICROHAEMATURIA VS GROSS HAEMATURIA
+  Attribute           Microhaematuria                        Gross haematuria
+  Cancer yield        About 3%                               Several-fold higher
+  Risk                Yes — sets intensity                   No — uniform full evaluation, no age threshold
+  stratification
+  Cystoscopy          Optional (low), recommended            All
+                      (intermediate, high)
+  Upper tract         RUS or CT urogram by stratum           CT urography preferred
+  imaging
+  Urine cytology      Not recommended initially              Recommended
+  Acute               —                                      Haemodynamics, full blood count, coagulation, post-
+  assessment                                                 void residual, clot evacuation
+
+ Concept — GH carries enough cancer risk that stratification is abandoned: every patient receives the full
+ triad of cytology, cystoscopy and CT urography, at any age.
+
+
+
+
+                                                      page 10 of 18
+Chapter 8 — Evaluation and Management of Haematuria                                                    Haemorrhagic Cystitis
+
+ HAEMORRHAGIC CYSTITIS
+   • Spectrum from transient to life-threatening, often in elderly, infirm, comorbid patients → central
+     tenet: weigh the risk of the current state against the risk of escalating treatment.
+   • Diffuse inflammation and bleeding of the bladder mucosa; causes in Box 8.2.
+   • Bacterial infection: a common cause of GH; resolves with appropriate treatment.
+   • Viral: children and immunosuppressed adults, especially after renal or bone marrow transplantation.
+     BK virus (polyomavirus) is the commonest; adenovirus types 11 and 35 in children and renal
+     transplant recipients. Treatment is supportive (hydration, diuresis, bladder irrigation); antiviral success
+     is anecdotal.
+   • Oxazaphosphorines (cyclophosphamide, ifosfamide): frequent and dose-dependent. Liver produces
+     acrolein → renal excretion → urothelial contact → mucosal sloughing → oedema and fibrosis. Onset
+     typically within 48 hours.
+   • Mesna (2-mercaptoethane sulfonate) binds acrolein and inactivates it as prophylaxis, yet a substantial
+     minority still develop cystitis; whether mesna beats hyperhydration with forced diuresis and/or
+     continuous bladder irrigation (CBI) is unresolved.
+   • Pelvic radiotherapy: moderate-to-severe haematuria in about 5%, dose- and technique-dependent,
+     onset 6 months to 10 years after treatment; reported incidence varies with population and follow-up,
+     rising with long follow-up after post-prostatectomy radiotherapy, and anticoagulant/antiplatelet use
+     increases risk.
+   • Radiation mechanism: vascular endothelial damage → inflammation → fibrosis → ischaemia →
+     progressive obliterative endarteritis → necrosis and mucosal sloughing; secondary infection further
+     impairs healing.
+   • Morbidity is substantial: repeated admissions, transfusion, cystoscopic fulguration and clot evacuation,
+     and some deaths.
+   • Cyclophosphamide and pelvic radiation are bladder cancer risk factors → exclude bladder cancer
+     before labelling haemorrhagic cystitis.
+
+ BOX 8.2 DIFFERENTIAL DIAGNOSIS FOR HEMORRHAGIC CYSTITIS
+  Category              Causes
+  Infectious            Bacterial; viral (especially BK virus, adenovirus); fungal; parasitic
+  Trauma                External; postsurgical (e.g. transurethral resection of bladder)
+  Malignancy            Bladder primary; invasion from local or distant primary
+  Vascular              —
+  malformation
+  Chemical              Cyclophosphamide, ifosfamide, busulfan, thiotepa, temozolomide, aniline dye, ether,
+  exposure              nonoxynol-9 (accidental urethral insertion of vaginal contraceptive)
+  Radiation therapy     E.g. prostate or cervical cancer
+  Medication-           Penicillins (immune reaction), bleomycin, danazol, tiaprofenic acid, allopurinol, phensuximide,
+  induced               methenamine mandelate, acetic acid
+  Systemic disease      Amyloidosis, rheumatoid arthritis, Crohn disease
+
+   • Definition implied by the box: bleeding localised to the bladder after full GH work-up (cystoscopy,
+     cytology, upper tract imaging) without another source. Trap: chemical causes extend well beyond the
+     oxazaphosphorines.
+
+
+
+
+                                                           page 11 of 18
+Chapter 8 — Evaluation and Management of Haematuria                                                       Haemorrhagic Cystitis
+ Management of Haemorrhagic Cystitis
+   • Cause-directed treatment (e.g. of infection) is occasionally possible; usually a sequential, severity-
+     guided escalation is followed (Fig. 8.2).
+   • First line (usually sufficient for mild cases): hydration/diuresis, catheter with CBI, transfusion as
+     needed.
+   • Persistent bleeding or uncontrollable clot → cystoscopy under anaesthesia: clot evacuation,
+     fulguration of discrete bleeding points, biopsy of any suspicious area.
+   • No large prospective comparative trials of intravesical agents exist:
+
+ COMPARISON — INTRAVESICAL AGENTS FOR HAEMORRHAGIC CYSTITIS
+  Agent                Mechanism                      Administration       Efficacy             Key precaution
+  Alum (aluminium      Astringent: protein            50 g in 5 L sterile  Widely variable;     Low toxicity (suprapubic
+  ammonium or          precipitation on               water (1%), irrigate limited durability   pain, spasms); aluminium
+  potassium            urothelium →                   200–300 mL/h; no                          toxicity with
+  sulfate)             vasoconstriction,              anaesthesia                               encephalopathy in renal
+                       ↓capillary permeability                                                  insufficiency
+  Prostaglandins       Vasoconstriction, platelet Intravesical             Moderate; no         Access, storage, cost
+  (carboprost,         aggregation,                                        difference from
+  prostaglandin        cytoprotection via mucus                            alum in a small
+  F2α)                 barrier                                             randomised trial
+  Sodium               Restores                       Intravesical         Symptomatic          —
+  hyaluronate          glycosaminoglycan layer                             improvement
+  Silver nitrate       Chemical coagulation           0.5–1% under         —                    Precipitation → upper
+                                                      gravity, 10–20 min                        tract obstruction →
+                                                                                                cystogram to exclude
+                                                                                                reflux
+  Aminocaproic         Lysine analogue;               CBI 200 mg/L in      High resolution      Thromboembolism; only
+  acid                 competitive inhibitor of       0.9% saline,         reported             in a clot-free bladder —
+                       plasminogen activators         continued 24 h                            otherwise hard, organised
+                       (incl. urokinase) → blocks     after bleeding                            clots
+                       fibrinolysis                   stops
+  Formalin             Protein precipitation,         1–4%; under          Highest (80–         Pain; bladder fibrosis,
+                       capillary occlusion            general or spinal    90%)                 ↓capacity; ureteric
+                                                      anaesthesia; see                          stricture, hydronephrosis;
+                                                      sequence below                            pre-treatment cystogram
+
+   • Alum is first-line intravesical therapy after failed supportive care, unless renal insufficiency.
+   • Formalin sequence: cystogram to exclude reflux or perforation (reflux → occlusive ureteric catheters)
+     → anaesthesia → instil up to 300 mL or bladder capacity under gravity, catheter ≤15 cm above the
+     pubic symphysis → dwell 10–15 min with the catheter on light traction (protects urethra) and external
+     skin protected. Use the lowest concentration: efficacy and complications both rise with dose. Reserved
+     as second-line given toxicity and the need for anaesthesia.
+ Hyperbaric Oxygen Therapy
+   • Clinically stable patients, particularly after radiation or cyclophosphamide → hyperbaric oxygen
+     therapy (HBOT) is the next step.
+   • 100% oxygen at 2–3 atmospheres, about 90 min, 30–40 sessions → ↑tissue oxygen tension →
+     ↓oedema, neovascularisation, wound healing.
+
+
+
+
+                                                          page 12 of 18
+Chapter 8 — Evaluation and Management of Haematuria                                              Haemorrhagic Cystitis
+   • Response 80–90%, sustained up to about 2.5 years. RICH-ART randomised trial (radiation cystitis):
+     HBOT significantly improved the Expanded Prostate Cancer Index Composite (EPIC) urinary score (about
+     10 points) vs standard care.
+   • Durability is limited: most relapse with longer follow-up, with only about a quarter in complete
+     response at 5 years.
+   • Complications: claustrophobia, otalgia, barotrauma, myopia, rarely seizures.
+   • Continued bleeding during HBOT → bilateral nephrostomies ± ureteric occlusion, removing urokinase-
+     containing urine from the bladder to aid haemostasis over the long HBOT course.
+ Angioembolisation
+   • Clinically unstable patients or intractable bleeding → internal iliac artery angioembolisation (first
+     reported 1974); unilateral or bilateral, low risk even in debilitated patients.
+   • Selective bilateral embolisation of the anterior division is usually needed (gelatin microspheres,
+     polyvinyl alcohol particles, coils). Avoid the posterior division → superior gluteal artery occlusion →
+     gluteal pain.
+   • Initial control about 90%, but durability unknown; series are small and include pelvic tumours;
+     reliability in radiation cystitis, where mucosal ischaemia is the pathology, is uncertain.
+ Cystectomy and Urinary Diversion
+   • Failed non-surgical management → cystectomy with urinary diversion.
+   • Supravesical diversion (e.g. ileal conduit) without cystectomy: complications, chiefly pyocystis, and
+     frequent readmission → remove the bladder at diversion if feasible.
+   • Patients are elderly and deconditioned → perioperative complications higher than cystectomy for
+     cancer; yet definitive surgery reduces subsequent admissions, procedures and transfusions → balance
+     surgical risk against deconditioning from prolonged conservative care.
+ Emerging Options
+   • Tranexamic acid (antifibrinolytic): intravenous use lowers transfusion at radical cystectomy; benefit,
+     route and risk of clot retention in haemorrhagic cystitis unestablished. Laser ablation of mucosal
+     bleeding: feasible, needs study.
+
+ FIGURE 8.2 MANAGEMENT ALGORITHM FOR PATIENTS WITH HEMORRHAGIC CYSTITIS
+ Diagnose (risk factors; evaluation with upper tract imaging, cytology, culture) → initial management:
+ hydration/diuresis, cystoscopy with clot evacuation ± fulguration (biopsy if suspicious), CBI, transfusion as
+ needed, correct infection, coagulopathy and tumour, intravesical alum → bleeding after 48 h → HBOT
+ with supportive care; bilateral nephrostomies ± nephro-occlusion if bleeding continues → bleeding after
+ HBOT → formalin 1% (pre-treatment cystogram) → bleeding after 48 h → formalin 4% (repeat cystogram)
+ → continued bleeding → cystectomy with conduit diversion.
+
+   KEY POINTS: HAEMORRHAGIC CYSTITIS
+    • Oxazaphosphorines cause cystitis via urothelial exposure to acrolein.
+    • HBOT achieves high response rates.
+    • Formalin is highly effective; obtain a cystogram first to exclude vesicoureteric reflux.
+
+
+
+
+                                                      page 13 of 18
+Chapter 8 — Evaluation and Management of Haematuria                                     Haematuria From Prostate Origin
+    • Weigh cystectomy morbidity against timely definitive intervention to prevent deconditioning from
+      prolonged conservative efforts.
+
+ Concept — Management escalates from least to most morbid, with clinical stability choosing the branch:
+ stable patients buy time with HBOT, unstable patients go to embolisation, and cystectomy is weighed
+ against the deconditioning each delay causes.
+
+ HAEMATURIA FROM PROSTATE ORIGIN
+   • A diagnosis of exclusion after complete GH evaluation (cytology, upper tract imaging, cystoscopy).
+     Severity ranges from self-limiting episodes to obstructing, transfusion-dependent bleeding.
+   • Causes: benign prostatic hyperplasia (BPH), prostatitis, prostate cancer (Fig. 8.3).
+ Benign Prostatic Hyperplasia
+   • Commonest cause of prostatic bleeding and of GH in men over 60; the only pathology found in about
+     one-fifth of haematuria series.
+   • Mechanism: increased microvessel density in hyperplastic tissue, driven by vascular endothelial
+     growth factor (VEGF).
+   • Usually mild and self-limiting → expectant management with hydration.
+   • GH was historically a surgical indication; understanding the VEGF pathway has introduced targeted
+     medical therapy.
+   • Androgen suppression (oestrogens, antiandrogens; case reports) represses androgen-driven
+     angiogenesis and induces apoptosis.
+   • Finasteride (5α-reductase inhibitor (5-ARI); blocks testosterone → dihydrotestosterone) ↓VEGF
+     expression, microvessel density and prostatic blood flow; improvement or resolution in about 90%,
+     including anticoagulated patients. A randomised trial vs expectant management showed markedly
+     fewer recurrences and no surgery for bleeding with finasteride. Onset 2 weeks to 9 months.
+   • Randomised trial: finasteride and cyproterone acetate equally reduce recurrence vs watchful waiting.
+     Dutasteride (type I and II inhibition) produces similar microvessel changes.
+   • 5-ARIs have the best data and fewest side effects. AUA BPH guideline (2021, Expert Opinion): 5-ARIs
+     appropriate for refractory prostatic haematuria after excluding other causes, and may be considered
+     to reduce intraoperative bleeding and transfusion at transurethral resection of the prostate (TURP) or
+     other BPH surgery (randomised data conflicting).
+   • Clot or retention → large-bore catheter, complete clot evacuation → CBI until clear → failure →
+     endoscopy under anaesthesia: clot evacuation, electrocautery or laser.
+   • Intravesical agents (e.g. aminocaproic acid) have little supporting evidence here.
+   • Refractory bleeding → TURP, particularly if other surgical indications coexist; alternatives include
+     photoselective vaporisation of the prostate (PVP), holmium laser enucleation of the prostate (HoLEP)
+     and open simple prostatectomy — the principle is removal of friable hyperplastic transition-zone
+     tissue.
+   • Bleeding despite TURP → prostatic artery embolisation (PAE): bilateral, preferably superselective with
+     gelatin microparticles (or anterior division of internal iliac); high initial success, bleeding stops within
+     days, durable at 12 months. AUA 2021 cites PAE as an adjunct for refractory haematuria.
+   • Radical prostatectomy or cystoprostatectomy: last resort in usually poor candidates.
+
+
+
+
+                                                      page 14 of 18
+Chapter 8 — Evaluation and Management of Haematuria                                                       Urethral Bleeding
+ Prostatitis
+   • Haematuria presents in a small minority; mechanism unclear, probably inflammatory. Culture-proven
+     bacterial prostatitis → antibiotics; significant recurrent haematuria in non-bacterial prostatitis is
+     uncommon — antibiotics plus supportive care suggested.
+ Prostate Cancer
+   • Bleeding usually reflects locally advanced disease with bladder base or trigonal invasion (T4);
+     haematuria is the commonest local symptom of advanced symptomatic prostate cancer.
+   • Confirm the prostatic source endoscopically, especially after radiotherapy — exclude radiation cystitis
+     or second bladder malignancy.
+   • Patients are elderly and unwell → palliative intent. Mild bleeding → catheter ± CBI.
+   • Not acutely life-threatening, radiation-naive → palliative external beam radiotherapy (EBRT) ±
+     androgen deprivation therapy (ADT): good early response, poor durability.
+   • Unfit for local therapy or recurrent after local therapy → ADT, which reduces prostatic vascularity.
+   • Persistent bleeding, especially with bladder outlet obstruction → cystoscopy with fulguration and/or
+     limited ("channel") TURP; selective angioembolisation possible but scant data and limited durability.
+   • Escalating bleeding → urinary diversion, first percutaneous nephrostomy → then palliative
+     extirpation, usually cystoprostatectomy with conduit, depending on status.
+
+ FIGURE 8.3 MANAGEMENT ALGORITHM FOR PERSISTENT HEMATURIA OF PROSTATE ORIGIN
+  Cause              First line               Escalation                        Salvage
+  All (common        Exclude other sources (upper tract imaging, cytology, cystoscopy) → hydration/diuresis, CBI,
+  start)             transfusion as needed, correct coagulopathy
+  BPH                5-ARI                    Cystoscopy with fulguration;      Poor clinical status →
+                                              consider antiandrogen             angioembolisation; fit → BPH surgery
+                                                                                (TURP, HoLEP, PVP, simple
+                                                                                prostatectomy)
+  Prostatitis        Antibiotics (diagnosis —                                   —
+                     by presentation +
+                     urine culture)
+  Prostate cancer ADT ± EBRT                  Cystoscopy with fulguration /     Urinary diversion: nephrostomy →
+  (usually                                    channel TURP;                     palliative prostatectomy or
+  advanced)                                   angioembolisation may be          cystoprostatectomy with conduit
+                                              considered
+
+
+   KEY POINTS: HAEMATURIA FROM PROSTATIC ORIGIN
+    • BPH is the commonest cause of GH in men over 60.
+    • 5-ARIs treat BPH-related GH, with improvement within weeks.
+    • ADT may control GH from locally advanced prostate cancer.
+    • Angioembolisation and/or urinary diversion are salvage options, depending on status.
+
+ Concept — Prostatic bleeding is vascular, so its treatment is anti-vascular: 5-ARIs and ADT shrink the
+ VEGF-driven microvasculature, surgery removes the friable tissue, and embolisation cuts the supply.
+
+ URETHRAL BLEEDING
+   • Urethrorrhagia: bleeding from the urethra distal to the bladder neck, independent of micturition.
+
+
+
+                                                       page 15 of 18
+Chapter 8 — Evaluation and Management of Haematuria                          Haematuria Originating From the Upper Urinary Tract
+   • Blood at the meatus without voiding, or initial haematuria → pathology distal to the external
+     sphincter. In women, history rarely separates urethral from gynaecological bleeding → pelvic
+     examination.
+   • Retrograde urethrogram (RUG) and cystourethroscopy are the diagnostic mainstays: visualisation,
+     biopsy and fulguration.
+   • Causes are classified by sex (Box 8.3).
+   • Men: trauma is the commonest cause. Blunt injury (straddle, perineal kick, pelvic fracture) often
+     presents with bleeding and retention; perineal or penile bruising with haematoma indicates injury;
+     RUG is essential when urethral injury is suspected.
+   • Foreign body insertion → imaging and/or cystoscopy to exclude retained fragments, which perpetuate
+     bleeding or form calculi.
+   • Penile fracture with blood at the meatus or haematuria → prompt RUG or cystoscopy before
+     exploration to define the site and nature of urethral injury.
+   • Urethritis: bacterial or viral infection, chemical irritants (spermicidal jelly), drugs (amiodarone), rarely
+     autoimmune (human leucocyte antigen B27 (HLA-B27) reactive arthritis); urethral discharge on
+     palpation in men; investigate with urine microscopy, culture and urethral swabs.
+   • Urethral tumours are rare; blood per meatus is classic for urothelial carcinoma in a urethra retained
+     after radical cystectomy.
+   • Urethral caruncle: benign, from the posterior lip, in postmenopausal women; distal urethral prolapse
+     due to oestrogen deficiency.
+   • Urethral diverticulum: classic dysuria, dyspareunia and dribbling, plus intermittent bleeding and
+     discharge on examination.
+
+ BOX 8.3 DIFFERENTIAL DIAGNOSIS FOR URETHRAL BLEEDING
+  Male                                                                                Female
+  Trauma: blunt (straddle, perineal kick); penetrating (foreign body, failed          Trauma: blunt (pelvic fracture);
+  catheterisation, ballistic); intercourse-related (penile fracture, masturbation)    penetrating (foreign body)
+  Urethritis: bacterial (gonococcal, non-gonococcal), viral, chemical                 Urethritis
+  (amiodarone), autoimmune (reactive arthritis)
+  Malignancy: urothelial carcinoma; squamous cell carcinoma (meatus, glans);          Malignancy
+  condyloma
+  Calculus disease                                                                    Calculus disease
+  —                                                                                   Urethral diverticulum; urethral
+                                                                                      caruncle
+
+   • Pattern: the male list is dominated by trauma subtypes; diverticulum and caruncle are female-only.
+ Concept — Bleeding independent of voiding places the lesion distal to the sphincter; the differential then
+ divides by sex, and suspected trauma always means RUG before instrumentation or exploration.
+
+ HAEMATURIA ORIGINATING FROM THE UPPER URINARY TRACT
+   • Often asymptomatic; heavy bleeding with clots causes ureteric obstruction (clot colic), anaemia and
+     rarely instability.
+   • Typically total haematuria, sometimes with worm-like clots.
+   • Commonest causes: stones, trauma and malignancy (covered elsewhere); the chapter highlights less
+     frequent causes (Box 8.4).
+
+
+
+                                                        page 16 of 18
+Chapter 8 — Evaluation and Management of Haematuria                              Haematuria Originating From the Upper Urinary Tract
+ BOX 8.4 DIFFERENTIAL DIAGNOSIS FOR UPPER URINARY TRACT BLEEDING
+  Category               Causes
+  Glomerular             IgA nephropathy (Berger disease), thin basement membrane disease, acute (e.g. post-
+                         streptococcal) glomerulonephritis, lupus nephritis, hereditary nephritis (e.g. Alport syndrome)
+  Tubulointerstitial Papillary necrosis, sickle cell nephropathy, analgesic nephropathy, polycystic kidney disease,
+                     medullary sponge kidney
+  Vasculitis             Henoch–Schönlein purpura (IgA vasculitis); granulomatosis with polyangiitis (formerly Wegener)
+  Infection              Pyelonephritis, xanthogranulomatous pyelonephritis, renal tuberculosis, fungal infection
+  Obstruction            Pelviureteric junction obstruction, ureteral stricture, nephrolithiasis
+  Malignancy             Renal cortical tumours (RCC, benign), UTUC, fibroepithelial polyp
+  Vascular               Renal arteriovenous malformation (AVM) (congenital, acquired), iliac arterioureteral fistula,
+                         renal artery aneurysm (especially ruptured), pseudoaneurysm, renal artery/vein thrombosis,
+                         haemangioma, atheroembolism (including infarction), nutcracker syndrome, loin pain–
+                         haematuria syndrome
+  Trauma; other          Blunt, penetrating; lateralising essential haematuria
+
+ Medical Renal Disease
+   • Glomerular diseases (acquired or inherited) → haematuria, proteinuria with hypoproteinaemia and
+     oedema, reduced GFR. RBC casts, dysmorphic RBCs and proteinuria indicate a glomerular source.
+   • Tubulointerstitial diseases affect structures outside the glomerulus. Sickle cell nephropathy: sickled
+     cells ↓medullary flow → ischaemia, microinfarction → papillary necrosis. Analgesic nephropathy →
+     papillary necrosis → chronic interstitial nephritis.
+   • Percutaneous renal biopsy when glomerular or tubulointerstitial disease is suspected.
+   • Complete risk-stratified haematuria evaluation even when medical renal disease is suspected and
+     nephrology referral is made.
+
+ Vascular Conditions Affecting the Urinary Tract
+   • Ureteroiliac artery fistula: rare, life-threatening; predisposed by pelvic or vascular surgery, pelvic
+     irradiation, extensive ureteric mobilisation and chronic ureteric stenting. Open repair carries high
+     mortality → angiographic localisation with endovascular stenting preferred.
+   • Renal AVM: congenital or acquired; acquired forms are 75% (renal biopsy, partial nephrectomy,
+     nephrolithotomy, trauma). Arteriography with selective angioembolisation is the primary diagnostic
+     and therapeutic step, preserving parenchyma; aim is occlusion of the arteriovenous communication.
+     GH after a recent renal procedure → expeditious angiography.
+   • Renal artery aneurysm: linked to connective tissue disorders, usually asymptomatic; hypertension in
+     up to 90%; dissection → flank pain and GH. Aneurysm and pseudoaneurysm: blood pressure control →
+     endovascular repair if refractory but stable → surgery if unstable.
+   • Nutcracker syndrome (renal vein entrapment): left renal vein compressed between aorta (posterior)
+     and superior mesenteric artery (anterior) → ↑left renal vein pressure → rupture of thin-walled
+     capillaries into the collecting system. Surgery: left renal vein transposition, superior mesenteric artery
+     transposition, nephrectomy; endovascular stenting more recently.
+
+ COMPARISON — VASCULAR CAUSES OF UPPER TRACT BLEEDING
+  Entity                            Key predisposition                            Preferred management
+  Ureteroiliac fistula              Pelvic/vascular surgery, radiation,           Endovascular stenting (open repair high
+                                    ureteric mobilisation, chronic stent          mortality)
+
+
+
+
+                                                           page 17 of 18
+Chapter 8 — Evaluation and Management of Haematuria                      Haematuria Originating From the Upper Urinary Tract
+
+  Entity                          Key predisposition                      Preferred management
+  Renal AVM                       Mostly acquired: biopsy, partial        Selective angioembolisation
+                                  nephrectomy, nephrolithotomy, trauma
+  Renal artery aneurysm/          Connective tissue disorders             Blood pressure control → endovascular if
+  pseudoaneurysm                                                          stable → surgery if unstable
+  Nutcracker syndrome             Aortomesenteric left renal vein         Vein or artery transposition,
+                                  compression                             nephrectomy, renal vein stenting
+
+ Lateralising Essential Haematuria and the Evaluation of Upper Urinary Tract Bleeding
+   • Also benign essential or chronic unilateral essential haematuria: macroscopic haematuria
+     cystoscopically lateralised to one side with no identifiable cause, prior imaging normal; rare; ranges
+     from mild GH to clot retention and anaemia.
+   • Cystoscopy during active bleeding lateralises the source → ureteropyeloscopy is diagnostic and
+     potentially therapeutic.
+   • Technique: judicious guidewire use (avoid urothelial trauma that mimics lesions) → low-pressure
+     irrigation → systematic inspection of every calyx, superior to inferior → biopsy suspicious lesions →
+     fulgurate tumours or bleeding sources (e.g. haemangioma).
+
+   KEY POINTS: URETHRAL BLEEDING AND HAEMATURIA ORIGINATING FROM THE UPPER URINARY
+   TRACT
+    • Suspect urethral bleeding with blood at the meatus and/or initial haematuria; suspected traumatic
+      injury → RUG.
+    • RBC casts, dysmorphic RBCs and proteinuria suggest medical renal disease; risk-based evaluation is
+      still performed.
+    • GH after a recent renal procedure → expeditious angiography for renal AVM.
+
+ Concept — For vascular causes of upper tract bleeding, angiography is both the test and the treatment;
+ open surgery is reserved for instability or failure of the endovascular route.
+
+
+
+
+                                                       page 18 of 18
+

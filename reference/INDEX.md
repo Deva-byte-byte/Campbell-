@@ -3,6 +3,31 @@
 Uploaded chapter notes (Campbell-Walsh-Wein based). Text extracts in `text/` for searching.
 
 
+## Chapter 06 - Magnetic Resonance Imaging - Chapter Notes
+- PDF: `Chapter 06 - Magnetic Resonance Imaging - Chapter Notes.pdf`
+- Sections: Introduction; Adrenal Magnetic Resonance Imaging; Renal Magnetic Resonance Imaging; Table 6.2 Mri Characteristics Of Renal Masses (Rebuilt); (Tcc); Upper Tract And Lower Tract Mri For Transitional Cell Carcinoma; Prostate Magnetic Resonance Imaging; Dynamic Contrast-Enhanced Time–Intensity Curves (Fig. 6.13); Multiparametric Versus Biparametric Mri; Table 6.3 Pi-Qual Scoring Sheet; Key Points
+
+
+## Chapter 07 - Genitourinary Tract Imaging Basic Principles of Nuclear Medicine - Chapter Notes
+- PDF: `Chapter 07 - Genitourinary Tract Imaging Basic Principles of Nuclear Medicine - Chapter Notes.pdf`
+- Sections: Introduction; Principles Of Single-Photon And Pet Imaging; Scintigraphy, Spect And Pet Compared; Chapter; Functional Imaging Of The Kidneys; Renal Radiotracers Compared; Diuretic Renography — Post-Furosemide Half-Clearance Time; Acute Rejection Versus Delayed Graft Function On Dynamic Renography; Fluoroscopic Versus Nuclear Cystography For Reflux; Pyelonephritis Versus Scar On Dmsa; Key Points — Functional Imaging Of The Kidneys; Infection Imaging; Infection Imaging Agents Compared; Molecular Imaging Of Genitourinary Malignancies; Molecular Imaging Of The Renal Mass; Us Food And Drug Administration (Fda)-Approved Psma Pet Agents; Molecular Imaging Trials In Prostate Cancer; Prostate Pet Tracers Compared; Post-Chemotherapy Residual Mass: Seminoma Versus Non-Seminoma; Key Points — Molecular Imaging
+
+
+## Chapter 08 - Evaluation and Management of Haematuria - Chapter Notes
+- PDF: `Chapter 08 - Evaluation and Management of Haematuria - Chapter Notes.pdf`
+- Sections: Classification And Timing Of Haematuria; (Hpf).; Microscopic Haematuria; (Ivp); Rus; Table 8.2 Differential Diagnosis Of Microhematuria; Box 8.1 Urothelial Cancer Risk Factors; And Urogenital Reconstruction Risk Stratification System; Hpf); Key Points: Microscopic Haematuria; Evaluation Of Patients With Microhaematuria; Patients With Microhematuria; Comparison — Ct Urography Vs Renal Ultrasound In Microhaematuria; Comparison — Urinary Biomarker Assays; (Nmp22); (Bta); Hoxa13, Mdk, Cdk1 (Cdc2), Cxcr2; Onecut2, Twist1; Key Points: Evaluation Of Patients With Microhaematuria; Gross Haematuria; Comparison — Evaluation Of Microhaematuria Vs Gross Haematuria; Haemorrhagic Cystitis; Box 8.2 Differential Diagnosis For Hemorrhagic Cystitis; Comparison — Intravesical Agents For Haemorrhagic Cystitis; Key Points: Haemorrhagic Cystitis; Haematuria From Prostate Origin; Key Points: Haematuria From Prostatic Origin; Urethral Bleeding; Box 8.3 Differential Diagnosis For Urethral Bleeding; Haematuria Originating From The Upper Urinary Tract; Box 8.4 Differential Diagnosis For Upper Urinary Tract Bleeding; Comparison — Vascular Causes Of Upper Tract Bleeding; Tract
+
+
+## Chapter 13 - Incisions Exposure and Drains - Chapter Notes
+- PDF: `Chapter 13 - Incisions Exposure and Drains - Chapter Notes.pdf`
+- Sections: Abdominal Incisions; Midline Incision — Variants; Other Fascial Closure Techniques (Fig. 13.3) — Less Used In Urology; Anterior Approaches To The Kidney And Retroperitoneum; Table 13.1 Open Approaches To The Kidney; Flank Incisions; (Xgp).; Flank Vs Anterior Approach — The Governing Contrast; Inguinal Incisions; Inguinal Incisions (Fig. 13.10); Incisions For Specific Surgeries; Penile Fracture Exploration — Degloving Vs Direct Incision; Retractor Systems Compared; Key Points
+
+
+## Chapter 14 - Sutures and Suturing - Chapter Notes
+- PDF: `Chapter 14 - Sutures and Suturing - Chapter Notes.pdf`
+- Sections: Needle Types; Needle Points Compared (Fig. 14.1A–D); Taper Needles In Urology; Suture Material; Table 14.1 Properties Of Commonly Used Suture Materials; Absorbable; Non-Absorbable; Suturing Techniques
+
+
 ## Chapter 15 - Lower Urinary Tract Catheterisation - Chapter Notes
 - PDF: `Chapter 15 - Lower Urinary Tract Catheterisation - Chapter Notes.pdf`
 - Sections: History; Anatomic Considerations; Normal Urethral Calibre; Indications For Lower Urinary Tract Drainage; Technique Of Urethral Catheterisation; Table 15.2 Recommended Size Of Pediatric Catheters According To Age; (Turbt).; Key Points: Catheters; Suprapubic Catheterisation; Difficult Catheterisation; Fig. 15.6 Algorithm For Difficult Catheter Placement; Complications Of Lower Urinary Tract; Key Points; Complications Of Lower Urinary Tract Drainage

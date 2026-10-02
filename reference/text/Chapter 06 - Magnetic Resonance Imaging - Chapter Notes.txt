@@ -1,0 +1,477 @@
+Chapter 6 — Magnetic Resonance Imaging
+INTRODUCTION
+Position relative to computed tomography
+ • Computed tomography (CT) remains the mainstay of urological cross-sectional imaging, but the
+   resolution gap between CT and magnetic resonance imaging (MRI) is narrowing.
+ • The central advantage of MRI is excellent soft-tissue contrast resolution, in many situations without
+   intravenous contrast.
+How the image is generated
+ • Sequence: patient on a gantry through the magnet bore → free water protons align along the z-axis
+   (head-to-toe, through the bore) → a radiofrequency (RF) coil over the region transmits RF pulses →
+   when the pulse stops, protons release energy, which is detected and processed into the image.
+ • A pulse sequence exploits the different ways tissues absorb and release this energy. Most coils now
+   transmit and receive (dual-channel RF).
+Weighting
+ • T1 weighting reflects the time to return to equilibrium along the z-axis (longitudinal relaxation); T2
+   weighting reflects the time to return to equilibrium in the x–y plane (transverse relaxation).
+ • Fluid is dark on T1 and bright on T2.
+ • In the kidney, the cortex is brighter than the medulla on T1; on T2 the medulla is relatively brighter.
+Advantages of MRI
+ • No ionising radiation, and therefore no risk of radiation-induced second malignancy.
+ • Modality of choice in pregnancy, renal insufficiency and iodinated contrast allergy.
+Gadolinium-based contrast agents and nephrogenic systemic fibrosis
+ • Gadolinium-based contrast agents (GBCAs) are non-iodinated. Iodinated CT contrast absorbs X-rays;
+   GBCAs shorten the relaxation times of water, raising signal (enhancement), usually assessed on T1.
+ • Gadolinium is a toxic heavy metal; it is chelated to prevent cellular uptake, making it non-toxic in
+   almost all patients with normal renal function.
+ • Nephrogenic systemic fibrosis (NSF): the historical concern with glomerular filtration rate (GFR) below
+   30 mL/min/1.73 m² — gadolinium deposits in skin and muscle as an insoluble precipitate and causes
+   systemic fibrosis. This led to gadolinium being avoided in severe renal dysfunction.
+ • GBCAs are not all alike. The American College of Radiology (ACR) states that group II agents carry little
+   to no NSF risk, even in end-stage renal disease: gadobenate dimeglumine, gadoteridol, gadoterate
+   meglumine and gadobutrol.
+Concept — MRI trades CT's speed and spatial resolution for tissue contrast without radiation, and the
+historical contrast barrier in renal failure has largely fallen with group II agents.
+
+ADRENAL MAGNETIC RESONANCE IMAGING
+ • MRI characterises tissue without contrast; minute quantities of lipid separate benign adenoma from
+   malignancy. Most adrenal masses are incidental and non-functioning.
+ • Adenomas are usually under 3 cm and non-functional, with a high lipid content that makes them
+   readily distinguishable from malignant lesions.
+
+
+                                                 page 1 of 10
+Chapter 6 — Magnetic Resonance Imaging                                              Adrenal Magnetic Resonance Imaging
+   • Three lipid techniques exploit the different behaviour of fat and water protons: inversion recovery,
+     chemical shift imaging (CSI) and fat saturation. CSI is the commonest in urology. Spectral presaturation
+     with inversion recovery (SPIR) and spectral presaturation attenuated inversion recovery (SPAIR) detect
+     fat by selective excitation of fat protons and T1 relaxation.
+
+ Adrenal Adenoma
+   • Physics of CSI: in water, oxygen pulls the electron cloud away from hydrogen; in fat (–CH₂–) the less
+     electronegative carbon has a smaller effect. The resulting difference in shielding gives different
+     precession frequencies — the chemical shift.
+   • In-phase (IP): echo time (TE) set so fat and water signals add within a voxel. Out-of-phase (OP): TE set
+     so signals cancel, so a voxel containing both fat and water loses signal.
+   • Signal loss on OP relative to IP = intracytoplasmic (microscopic) fat = adenoma. No change makes fat
+     less likely.
+   • Qualitative (visual) comparison is sensitive but poorly specific; the quantitative signal intensity (SI)
+     index raises specificity to very high levels:
+       ◦ SI index (%) = (SI in-phase − SI out-of-phase) / SI in-phase × 100
+       ◦ No agreed threshold; reported cut-offs range from 1.7% to 20%, with 5% at 3 tesla performing best
+         in one series.
+   • Lipid-poor adenomas (10–30%) give indeterminate CSI. Adrenocortical carcinoma washes out slowly,
+     so contrast-enhanced CT with washout may better separate lipid-poor adenoma from other masses.
+   • In unilateral functioning adenoma, CT and MRI are limited for lateralisation; adrenal vein sampling is a
+     useful adjunct.
+   • Figure 6.1: IP T1 shows a left adrenal mass isointense to muscle; OP T1 shows signal drop-out; single-
+     shot T2 shows a low-signal nodule.
+
+ Adrenal Cortical Carcinoma
+   • Diagnosis combines clinical and imaging features. About 62% are hormonally active.
+   • Risk rises with size: lesions ≤4 cm account for 2% of adrenocortical carcinomas (ACCs); 4–6 cm, 6%;
+     over 6 cm, 25%.
+   • T2 heterogeneous and high; T1 with gadolinium heterogeneous enhancement; CSI low signal (no lipid
+     drop-out).
+   • Local venous thrombosis is associated with ACC and is detectable on MRI.
+   • ACC is metabolically active: fluorodeoxyglucose–positron emission tomography (FDG-PET) separates
+     ACC from adenoma with high sensitivity and specificity.
+   • Figure 6.2: hyperintense on moderately T2-weighted short tau inversion recovery (STIR) but isointense
+     on heavily T2-weighted single-shot fast spin echo — apparent T2 brightness depends on the degree of
+     T2 weighting.
+
+ Myelolipoma
+   • Benign mass of mature fat and bone marrow elements; about 6.5% of incidentally detected adrenal
+     masses. Lesions over 4 cm can mimic malignancy.
+   • High T1 signal; signal suppression on frequency-selective fat suppression (macroscopic fat); India ink
+     artefact — a dark line around the lesion or at organ interfaces on OP images, from voxels containing
+     both fat and water.
+
+
+
+
+                                                    page 2 of 10
+Chapter 6 — Magnetic Resonance Imaging                                                 Adrenal Magnetic Resonance Imaging
+   • Figure 6.3: signal isointense to abdominal fat on T2 and IP T1; no drop on OP relative to IP (gross fat,
+     not intracytoplasmic lipid mixed with water); loss of signal on fat suppression.
+
+ Metastasis
+   • Suspect in the setting of a known primary. Large, irregular, heterogeneous, occasionally necrotic.
+   • High T2 signal from higher fluid content than adenoma; heterogeneous gadolinium enhancement with
+     delayed peak enhancement relative to adenoma; a time-to-peak cut-off of about 53 seconds or more
+     characterises metastasis well.
+   • Trap — lipid-containing primaries: a metastasis carries the histology of its primary, so it can be CSI-
+     positive and mimic adenoma. Reported with clear cell renal cell carcinoma, liposarcoma and
+     hepatocellular carcinoma.
+   • Figure 6.4: metachronous right adrenal metastasis after nephrectomy for clear cell carcinoma — drop-
+     out on OP (microscopic fat) and T2 hyperintensity.
+
+ Pheochromocytoma
+   • High T2 signal (the "light bulb" sign) was traditionally considered diagnostic, but about a third of
+     pheochromocytomas are T2-dark.
+   • Pheochromocytoma, ACC and metastasis can all be T2-bright, and brightness varies with T2 weighting
+     — the sign is neither sensitive nor specific.
+   • Figure 6.5: isointense on heavily weighted T2; bright on moderately weighted fat-suppressed T2;
+     marked early enhancement on post-contrast T1.
+
+ Haemorrhage and Other Pathologies
+   • Adrenal haematoma changes with age as red cells break down and haemosiderin is deposited: early
+     isointense to hypointense on T1 and low on T2 → at 1–7 weeks hyperintense on T1 fat-suppressed
+     and T2; a low-signal haemosiderin rim on both T1 and T2.
+   • Teratoma: mixed tissues (bone, teeth, hair, muscle) give mixed T1 and T2 signal; enhancement of the
+     peripheral rim, solid components and internal septations.
+   • Intermediate SI index on CSI: lymphoma, neuroblastoma, ganglioneuroma, haemangioma and
+     granulomatous disease.
+
+ TABLE 6.1 MORPHOLOGIC AND IMAGING CHARACTERISTICS OF INCIDENTAL ADRENAL LESIONS (REBUILT)
+                                                               Unenhanced        15-min CT
+  Lesion                      Size       Shape / texture       CT (HU)           washout       MRI
+  Adenoma                     1–4 cm     Smooth, round;        <10 in 70%        RPW >40%;     SI drop on OP
+                                         homogeneous                             APW >60%
+  Myelolipoma                 1–5 cm     Smooth, round;        <0, often < −50   No data       High T1; India ink;
+                                         macroscopic fat                                       variable OP drop
+  Cyst                        Variable Smooth, round           <10               Does not      High T2
+                                                                                 enhance
+  Metastasis                  Variable Heterogeneous           >10               RPW <40%      High T2
+                                       when large
+  ACC                         >4 cm      Variable              >10               RPW <40%      Intermediate to high
+                                                                                               T2
+  Pheochromocytoma            Variable Variable                >10, rarely <10   RPW <40%      High T2
+  Lymphoma                    Variable Variable                >10               RPW <40%      Intermediate SI
+
+
+
+                                                       page 3 of 10
+Chapter 6 — Magnetic Resonance Imaging                                              Adrenal Magnetic Resonance Imaging
+
+                                                               Unenhanced     15-min CT
+  Lesion                      Size       Shape / texture       CT (HU)        washout       MRI
+  Neuroblastoma               Variable Smooth, round           >10            RPW <40%      Variable if necrotic
+  Haematoma                   Variable Smooth; variable        >10, sometimes No data       Variable
+                                                               >50
+  Ganglioneuroma,             Variable Variable                >10            No data       Usually intermediate
+  haemangioma                                                                               SI
+  Granulomatous               1–5 cm     Smooth; usually       >10            No data       Usually intermediate
+                                         homogeneous                                        SI
+
+ HU, Hounsfield units; RPW, relative percentage washout; APW, absolute percentage washout. Data from Boland GW,
+ Blake MA: Incidental adrenal lesions, Radiology 2008.
+   • What the table is for: it lines up the two tests that clear an incidentaloma — low attenuation or high
+     washout on CT, and OP drop-out on MRI. Only adenoma passes both.
+   • Pattern: everything that is not adenoma or myelolipoma is >10 HU with RPW <40%; the MRI column
+     then separates by T2 signal, which overlaps.
+   • Trap: a high T2 signal does not identify pheochromocytoma — metastasis, ACC and cyst share it.
+ Concept — Adrenal MRI hinges on fat: microscopic fat gives OP drop-out and means adenoma; gross fat
+ gives fat-suppression loss and India ink, without OP drop, and means myelolipoma. T2 brightness is non-
+ specific; lipid-poor adenomas go to CT washout, and lipid-rich metastases are the trap.
+
+ RENAL MAGNETIC RESONANCE IMAGING
+ Cysts
+   • Simple cysts look alike on ultrasound, CT and MRI; MRI characterises complex cysts better.
+   • Haemorrhagic cyst contents are T1-bright (paramagnetic blood-breakdown products —
+     methaemoglobin); proteinaceous contents are also T1-bright; chronic haemorrhage gives a black ring
+     on T2 along the wall.
+   • Benign cysts, including benign complex cysts, do not enhance.
+   • As an independent risk factor for renal cell carcinoma (RCC), wall enhancement is more sensitive and
+     specific than wall calcification. On CT, calcification can cause artefact that hides enhancing mural
+     nodules; on MRI calcium is a signal void and does not interfere, so MRI detects enhancement in a
+     calcified complex cyst better than CT.
+   • Pseudocapsule: a low-signal rim on T1 and T2, assessed better on MRI than CT. Absence of the
+     pseudocapsule predicts pT3a disease.
+ Subtyping renal cell carcinoma
+   • Multiparametric approach: T1; multiplanar T2 with and without fat suppression; dynamic contrast-
+     enhanced (DCE) phases (arterial, corticomedullary, nephrographic, excretory); diffusion-weighted
+     imaging (DWI) with apparent diffusion coefficient (ADC) maps; and CSI. This subtypes renal masses
+     better than CT.
+   • Clear cell RCC (ccRCC), the commonest subtype: heterogeneous high T2 signal from haemorrhage,
+     necrosis and cysts (Fig. 6.6).
+   • Papillary RCC (pRCC): homogeneous low T2 signal from haemosiderin in histiocytes (Fig. 6.7). A
+     haemorrhagic cyst with an enhancing peripheral wall, or a solid hypo-enhancing T2-low mass,
+     separates pRCC from other subtypes with high specificity.
+
+
+
+                                                       page 4 of 10
+Chapter 6 — Magnetic Resonance Imaging                                              Renal Magnetic Resonance Imaging
+   • DWI detects restricted water movement in intracellular and extracellular spaces; ADC ≥1281 × 10⁻⁶
+     mm²/s favours clear cell over non-clear cell RCC.
+   • Oncocytoma's central scar is T2-bright, but present in only 54–80%, and it is also seen in about 37% of
+     chromophobe carcinomas — the scar does not discriminate (Fig. 6.8). Both tumours are usually
+     peripheral and hypovascular relative to cortex. Necrosis is T2-high and T1-low, like the oncocytoma
+     scar.
+   • CSI: about 59% of ccRCCs contain intracytoplasmic lipid. Once angiomyolipoma (AML) has been
+     excluded (macroscopic fat on standard sequences, Fig. 6.9), an SI drop of 25% or more is diagnostic of
+     ccRCC among renal tumours. CSI is highly specific but insensitive for ccRCC.
+   • Trap: RCC rarely contains macroscopic fat; fat plus calcification favours RCC over AML.
+   • Enhancement: a relative SI increase of 15% or more on gadolinium-enhanced T1 counts as
+     enhancement, separating cyst from RCC with 100% sensitivity; peak at 2–4 minutes. ccRCC enhances
+     by more than 200% in all three phases, significantly more than chromophobe and papillary carcinoma.
+ Figure legends
+   • Figure 6.6: right 3.5 cm ccRCC with diffuse OP drop-out, avid heterogeneous enhancement and high
+     signal on DWI at b-1000; a left subcapsular haematoma after extracorporeal shock wave lithotripsy is
+     T1-bright on fat-suppressed imaging and does not enhance.
+   • Figure 6.7: pRCC — T2 heterogeneous but mainly low; isointense to muscle on T1; no significant
+     corticomedullary enhancement, minimal central nephrographic enhancement; low signal on the ADC
+     map.
+   • Figure 6.8: chromophobe carcinoma — central high T2 signal, central low T1 signal, peripheral
+     enhancement with a non-enhancing centre.
+   • Figure 6.9: 2.5 cm AML — no OP drop, but signal loss on fat suppression (macroscopic fat).
+
+ TABLE 6.2 MRI CHARACTERISTICS OF RENAL MASSES (REBUILT)
+                                Enhancement: corticomedullary /             ADC (×10⁻⁶
+  Mass                          nephrographic / excretory                   mm²/s)          T2 signal
+  Clear cell                    Avid: 230 / 250 / 227%                      1698 (high)     High,
+                                                                                            heterogeneous
+  Papillary                     Weak: 49 / 92 / 88%                         884 (lowest     Low,
+                                                                            RCC)            homogeneous
+  Chromophobe                   Intermediate: 98 / 183 / 159%               1135            High for central
+                                                                                            scar
+  Oncocytoma                    Avid: 208 / 265 / 237%                      —               High for central
+                                                                                            scar
+  AML                           353 / 285 / 222%                            —               Variable
+  Renal parenchyma              —                                           2303            —
+  Transitional cell carcinoma —                                             <450            High SI
+  (TCC)
+
+ Data attributed in the source to Varghese JC, Hahn PF, Clin Radiol 1997.
+   • What the table is for: the renal mass is subtyped by three independent axes — vascularity, cellularity
+     (ADC) and T2 signal. Clear cell sits at the high end of all three; papillary at the low end.
+   • AML is the only mass whose signal falls from the corticomedullary to the nephrographic phase.
+   • Trap: overlap is large, so no firm cut-offs can be set, and oncocytoma could not be distinguished from
+     ccRCC.
+
+
+                                                         page 5 of 10
+Chapter 6 — Magnetic Resonance Imaging                                             Renal Magnetic Resonance Imaging
+
+ Evaluating Local Tumour Extent
+   • Venous tumour thrombus: MRI was historically superior to CT for renal vein and inferior vena cava
+     thrombus; current MRI and CT perform equally. Gadolinium separates tumour thrombus (enhances)
+     from bland thrombus (does not).
+   • Lymph nodes: MRI and CT both detect lymphadenopathy. Superparamagnetic iron oxide nanoparticles
+     are under investigation: normal nodes phagocytose them and lose T2 signal; metastatic nodes do not.
+   • Multiparametric MRI adds information on the tumour microenvironment.
+ Concept — Enhancement is the single most important sign of malignancy in a renal mass, and MRI sees
+ it through calcium where CT may not. Subtyping follows one pattern: clear cell is bright, hypervascular, CSI-
+ positive and high-ADC; papillary is dark, hypovascular and low-ADC.
+
+ UPPER TRACT AND LOWER TRACT MRI FOR TRANSITIONAL CELL CARCINOMA
+ Upper tract
+   • Magnetic resonance urography (MRU) is added to renal mass protocols and is useful when other
+     modalities are contraindicated. Static MRU: heavily T2-weighted, urine bright. Excretory MRU:
+     gadolinium-enhanced T1.
+   • MRU and CT urography are equally accurate for obstruction.
+   • Stones and calcification have no signal and appear as voids. Tumour, clot, gas and sloughed papillae
+     appear as low signal or voids against bright urine on T2.
+   • Fast acquisitions (about 2 seconds per image) separate true pathology from ureteric peristalsis.
+   • Normalised ADC ≤451 × 10⁻⁶ mm²/s separates TCC of the renal pelvis from central RCC. ADC varies
+     with b-value and TE, so cut-offs need institutional validation.
+   • On DWI, upper tract TCC is hyperintense and homogeneous; RCC is heterogeneous.
+ Bladder
+   • MRI beats CT through greater contrast between bladder wall layers, separating invasive from
+     superficial disease with good accuracy (Fig. 6.10).
+   • The detrusor is the low-signal layer on T2; urine, mucosa and submucosa are all high signal and cannot
+     be separated. Muscle-invasive tumour is high signal disrupting the low-signal muscle layer.
+   • Bladder TCC is DWI-hyperintense against tissue and urine. Underdistension causes false negatives.
+   • Vesical Imaging–Reporting and Data System (VI-RADS): a 5-point score for muscle invasion from T2,
+     DWI and DCE findings.
+   • Figure 6.10: a T2-low right wall filling defect; an enhancing polypoid mass on early DCE without wall
+     invasion; transurethral resection of bladder tumour confirmed high-grade papillary urothelial
+     carcinoma without muscle invasion.
+ Concept — Urine is the contrast agent on T2, so anything within it — tumour, clot, stone — is dark; in the
+ bladder wall the question is whether the dark detrusor line is intact, and VI-RADS formalises that.
+
+ PROSTATE MAGNETIC RESONANCE IMAGING
+ Evolution and landmark evidence
+   • Prostate cancer (CaP) long lacked reliable imaging; the standard was transrectal ultrasound with an
+     extended sextant (12–14 core) biopsy. Advances included 1.5 T → 3 T magnets and better protocols.
+   • PROMIS (Prostate MR Imaging Study, 2017): level 1b evidence for MRI before biopsy in men with
+     elevated prostate-specific antigen (PSA); a follow-up analysis showed cost-effectiveness.
+
+
+                                                  page 6 of 10
+Chapter 6 — Magnetic Resonance Imaging                                            Prostate Magnetic Resonance Imaging
+   • Göteborg (Swedish screening study): MRI in a PSA-based screening protocol (threshold 2.8 ng/mL)
+     roughly halved biopsies.
+   • PRECISION (2018): in biopsy-naive men, MRI with or without targeted biopsy detected more clinically
+     significant and less clinically insignificant cancer.
+   • Cochrane review (2019): MRI sensitivity 0.91, specificity 0.37 for Grade Group (GG) 2 or higher —
+     excellent at ruling out, poor at ruling in.
+   • American Urological Association (AUA) and European Association of Urology (EAU) both include
+     prostate MRI in the work-up of elevated PSA.
+ Coils
+   • "The currency of MRI is signal." Signal was historically boosted with surface coils and an endorectal coil
+     (ERC), at the cost of discomfort and expense.
+   • At 3 T the ERC is largely historical: image quality and detection of GG3 or higher are equivalent without
+     it; GG2 detection is somewhat inferior. The ERC remains useful on older 1.5 T scanners. If used, give an
+     antispasmodic to reduce rectal motion artefact.
+
+ T2-Weighted Imaging
+   • The anatomic sequence; should be triplanar (axial, coronal, sagittal) or equivalent (Fig. 6.11).
+   • Normal peripheral zone (PZ) is high signal. The central gland with benign prostatic hyperplasia (BPH)
+     shows well-demarcated nodules of heterogeneous signal.
+   • Low T2 signal is non-specific: cancer, prostatitis, atrophy, scar, post-biopsy haemorrhage and BPH
+     nodules. Stromal BPH nodules within the PZ cause false positives.
+   • T2-weighted imaging (T2WI) alone is specific but insensitive; adding functional sequences raises
+     negative (NPV) and positive predictive value (PPV) above 90%.
+   • T2WI assesses extraprostatic extension (EPE) and seminal vesicle invasion (SVI), both appearing as
+     low signal.
+   • Figure 6.11: a well-circumscribed heterogeneous BPH nodule within the PZ, with restriction on ADC
+     and type 2–3 enhancement curves, was benign on fusion biopsy.
+
+ Diffusion-Weighted Imaging/Apparent Diffusion Coefficient Maps
+   • DWI measures Brownian motion of water. Higher cellularity → tighter packing → restricted water →
+     high signal on DWI.
+   • b-values set the threshold for detecting restriction; as the b-value rises, less-restricted tissue loses
+     signal. Use multiple b-values, including at least one above 1000; some add b-2000, on which cancer is
+     bright relative to the gland.
+   • The ADC map is the quantitative counterpart; cancer is dark (low signal) on ADC.
+   • ADC correlates inversely with Gleason score: higher cellularity → less extracellular space → more
+     restriction → lower ADC.
+   • Figure 6.12: a large anterior central gland GG 4+4 cancer after 16 negative biopsies — low ADC, bright
+     b-2000, type 3 curve, elevated transfer constant and rate constant, found on MR–ultrasound fusion
+     biopsy.
+
+ Dynamic Contrast-Enhanced MRI
+   • T1-weighted imaging with GBCAs measuring perfusion and vascular permeability over time — not
+     anatomy, and not simply "enhances or not."
+
+
+
+
+                                                   page 7 of 10
+Chapter 6 — Magnetic Resonance Imaging                                                      Prostate Magnetic Resonance Imaging
+   • Temporal resolution ≤15 seconds. Under 10 seconds was once preferred, but no benefit was shown
+     across 1.4–14.9 seconds.
+   • Three levels of analysis: qualitative (visual early enhancement and washout); semi-quantitative (time–
+     intensity curves); quantitative (Tofts pharmacokinetic model).
+   • Transfer constant (K-trans): rate of transfer from the intravascular to the extracellular space
+     (permeability and flow). Rate constant (K-ep): rate of efflux back to the vascular space. Not yet in
+     routine workflow; being studied for decision-support software.
+   • Sensitivity and specificity vary widely with patient selection, technique, pathology correlation and
+     reader experience. DCE is secondary to T2WI and DWI in scoring.
+
+ DYNAMIC CONTRAST-ENHANCED TIME–INTENSITY CURVES (FIG. 6.13)
+  Curve      Pattern                                               Meaning
+  Type 1     Persistent progressive rise                           Normal
+  Type 2     Early enhancement, then plateau (no washout)          Indeterminate
+  Type 3 Early enhancement, then early washout                     Most suggestive of CaP; overlaps with inflammation
+
+   • Because all three curves overlap with benign conditions, the approaches are combined within
+     multiparametric MRI.
+
+ Multiparametric Magnetic Resonance Imaging
+   • Anatomic: T1 and T2. Functional: DWI with ADC, DCE, and optionally spectroscopy.
+   • MR spectroscopy is not routine: about 15 minutes, labour-intensive, and seldom changes
+     interpretation.
+   • T2 + DWI + DCE gives an NPV above 90%.
+   • Quality needs magnet tuning, dedicated staff and pathology feedback; start from the ACR's Prostate
+     Imaging–Reporting and Data System (PI-RADS) v2.1. The technologist reviews images during the scan
+     and repeats sequences as needed.
+   • Uses: detection, quantification, staging, treatment planning; selection for active surveillance (good
+     NPV); bone and nodal assessment at diagnosis (moderate-to-good nodal sensitivity and specificity).
+
+ Biparametric Magnetic Resonance Imaging
+   • T2 + DWI, without DCE: lower cost, shorter scan, no GBCA risk, but may limit diagnostic capability and
+     limits assessment beyond the prostate (staging).
+   • Accuracy varies with magnet strength and reader experience; a meta-analysis found no significant
+     difference from mpMRI for CaP detection.
+   • Reasonable for screening low-risk men when image quality is optimised and experienced readers
+     interpret.
+
+ MULTIPARAMETRIC VERSUS BIPARAMETRIC MRI
+                                         Multiparametric (mpMRI)             Biparametric (bpMRI)
+  Sequences                              T2 + DWI + DCE                      T2 + DWI
+  Contrast                               Gadolinium                          None
+  Cost and time                          Higher                              Lower
+  Detection of CaP                       Standard                            No significant difference
+  Staging beyond prostate                Better                              Limited
+
+
+
+
+                                                          page 8 of 10
+Chapter 6 — Magnetic Resonance Imaging                                                          Prostate Magnetic Resonance Imaging
+
+                                         Multiparametric (mpMRI)              Biparametric (bpMRI)
+  Best role                              Standard of care                     Low-risk screening, expert readers
+
+ Quality Control for Prostate Magnetic Resonance Imaging
+   • Rectal gas, patient motion and metal implants degrade images. Prostate Imaging Quality (PI-QUAL)
+     assesses whether lesions can be ruled in or out given image quality: axial T2 matching DWI and DCE,
+     clear capsular border and seminal vesicles, among other criteria.
+
+ TABLE 6.3 PI-QUAL SCORING SHEET
+  Score Criteria                                                  Rule in significant lesions    Rule out significant lesions
+  1       All sequences below diagnostic standard                 No                             No
+  2       Only one sequence acceptable                            No                             No
+  3       At least two sequences acceptable together              Yes                            No
+  4       Two or more sequences independently optimal             Yes                            Yes
+  5       All sequences optimal                                   Yes                            Yes
+
+ From Giganti F, Allen C, Emberton M, et al: PI-QUAL, from the PRECISION trial. Eur Urol Oncol 2020.
+   • At scores 1–2, reports should not include a PI-RADS or Likert score. Score 3 is the trap: it can rule in
+     but not rule out.
+   • Figure 6.14 shows an excellent-quality scan with a right mid-gland anterior PZ lesion.
+ Reporting: PI-RADS v2.1 and PRECISE
+   • Prostate MRI benefits from consensus reading, pathology correlation and designated experienced
+     readers. The PI-RADS report gives zone, sector and axial T2 slice number.
+
+ TABLE 6.4 PI-RADS V2.1 ASSESSMENT CATEGORIES AND TABLE 6.5 PRECISE SCORING SYSTEM
+        PI-RADS v2.1 — likelihood of clinically                  PRECISE — likelihood of radiological progression (active
+  Score significant disease                                      surveillance)
+  1       Very low — highly unlikely                             Resolution of previously suspicious features
+  2       Low — unlikely                                         Reduction in volume or conspicuity
+  3       Intermediate — equivocal                               Stable; no new focal or diffuse lesion
+  4       High — likely                                          Significant increase in size or conspicuity
+  5       Very high — highly likely                              Definite radiological stage progression (EPE, SVI, nodes,
+                                                                 metastasis)
+
+ PI-RADS from Weinreb JC et al, ACR 2019; PRECISE (Prostate Cancer Radiological Estimation of Change in Sequential
+ Evaluation) from Moore CM et al, Eur Urol 2017.
+   • PI-RADS scores a single scan; PRECISE scores change between scans on active surveillance. Both run
+     1–5, and PRECISE 3 means stability, not equivocation.
+   • Figure 6.15 (sector map): at base, mid-gland and apex — PZ anterior, posterolateral and posteromedial;
+     transition zone (TZ) anterior and posterior; central zone; anterior fibromuscular stroma; urethral
+     sphincter; seminal vesicles.
+
+ Magnetic Resonance Fusion-Guided Prostate Biopsy
+   • The dominant determinant of performance is mpMRI quality and the imaging team, not the fusion
+     platform.
+   • Targeted biopsy or mpMRI alone is not yet an alternative to the standard of care in screening.
+
+
+                                                            page 9 of 10
+Chapter 6 — Magnetic Resonance Imaging                                           Prostate Magnetic Resonance Imaging
+   • mpMRI helps select men with elevated PSA for biopsy (PSA rises with inflammation, infection, BPH,
+     manipulation); it can show BPH or inflammation and may spare a repeat biopsy after a negative 12-
+     core biopsy.
+   • mpMRI detects intermediate- and high-risk disease and misses low-grade, low-volume cancer —
+     desirable, as it reduces overdiagnosis and overtreatment. Over a third of men with elevated PSA have
+     no visible lesion, and 12-core biopsy then rarely finds clinically significant cancer.
+   • Göteborg-2 (2022): targeted biopsy alone avoided overdetection of insignificant cancer and missed
+     under 0.2% of intermediate-risk CaP.
+   • Fusion reaches anterior and central gland lesions undersampled by systematic biopsy; 12-core biopsy
+     also misses many PZ lesions.
+   • Fusion outperforms cognitive targeting: a randomised trial showed higher overall and clinically
+     significant detection with fusion plus template than cognitive plus template biopsy.
+   • Cancer detection rate for fusion-targeted biopsy of moderate- to high-suspicion lesions: about 50–
+     72%. Deep-learning predictions with PI-RADS and clinical variables are being developed into risk
+     nomograms.
+ Concept — Prostate MRI is a filter before the needle: T2 gives anatomy, DWI and ADC give cellularity and
+ drive the score, and DCE is the tiebreaker. Quality (PI-QUAL) must be assured before scoring (PI-RADS),
+ change is tracked with PRECISE, and the yield of targeting depends on the scan and the reader rather than
+ the device.
+
+   KEY POINTS
+    • NSF is now largely historical; newer GBCAs can be used safely in severe renal insufficiency.
+    • Pheochromocytoma, adrenal metastasis and primary ACC are all bright on T2.
+    • In a renal mass on MRI, enhancement is the most important indicator of malignancy.
+    • Prostate MRI has transformed the CaP screening and diagnostic pathway and improved cancer
+      detection.
+
+
+
+
+                                                 page 10 of 10
+

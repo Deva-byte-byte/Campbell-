@@ -1,0 +1,305 @@
+Chapter 14 — Sutures and Suturing
+
+Chapter 14 — Sutures and Suturing
+ • Suture material, size, needle type and technique are chosen for the specific anastomosis, repair or
+   closure required.
+ • Three primary determinants: tissue type (skin, fascia, soft tissue, mucosa, viscera), anticipated tension on
+   the suture, and required duration of tensile strength.
+ • Most materials are decades old; barbed sutures are the main recent innovation. Knowing each suture's
+   and needle's strengths and weaknesses reduces complications.
+
+NEEDLE TYPES
+ • The application dictates the needle; most sutures come with a range of needles, so the needle is chosen
+   independently of the suture. Needles vary in point, diameter, arc and radius to suit tissue and operative
+   space.
+
+Needle Point
+ • Broad division: non-cutting versus cutting — the examinable pair:
+     ◦ Non-cutting (taper and blunt): tapers from a wider body to a narrow tip; stretches the tissue, which
+       then retracts around the suture — less trauma.
+     ◦ Cutting: cuts as it passes — passes more easily, at the cost of slightly more trauma.
+
+NEEDLE POINTS COMPARED (FIG. 14.1A–D)
+ Point       Shaft and tip            Behaviour in tissue                   Typical use             Named needles
+ Taper       Round shaft,        Stretches tissue before the suture General and delicate            RB/CV, SH, CT (½ circle);
+             tapers to sharp tip enters; atraumatic with modest     tissue                          UR/GU (5/8 circle)
+                                 effort — most commonly used
+ Blunt       Round shaft, blunt Harder to pass, needs more force; Non-dense tissue, e.g.            BP (ballpoint), CTB
+             tip                minimises needlestick injury to   subcutaneous fat                  (circle taper blunt) —
+                                operating room staff and patient                                    both ½ circle; BP larger
+                                                                                                    diameter
+ Cutting     Triangular; cutting      Cuts in the direction of pull; more   Skin closure            V series: V-26, V-4 (3/8
+             edge on concave          traumatic but passes dense and                                circle); V-5, V-7, V-34,
+             inner curve              scarred tissue easily                                         V-37, V-40, V-56 (½
+                                                                                                    circle)
+ Reverse     Triangular; cutting      Avoids accidental shearing of         Retention sutures in    CP (cutting point)
+ cutting     edge on convex           tissue on pull-through, but leaves    complex abdominal
+             outer curve              larger holes than a conventional      wound closure
+                                      cutting needle
+
+TAPER NEEDLES IN UROLOGY
+ Needle                             Arc      Size                            Tissue
+ RB/CV (renal bypass /              ½ circle 17 mm — smallest                Most delicate: vessel walls, mucosal surfaces
+ cardiovascular)
+ SH (small half)                    ½ circle 26 mm — thicker, larger         Intermediate
+                                             diameter than RB
+ CT (circle taper)                  ½ circle 36 mm — greatest diameter Toughest tissue
+
+
+
+
+                                                            page 1 of 6
+Chapter 14 — Sutures and Suturing                                                                     SUTURE MATERIAL
+
+ Needle                             Arc      Size                     Tissue
+ UR/GU (urology /                   5/8      —                        Deep, narrow spaces, e.g. urethral anastomotic
+ genitourinary)                     circle                            sutures in the deep pelvis
+
+ • Two scales: size rises with tissue toughness (RB → SH → CT); arc rises with depth — UR/GU is the 5/8-
+   circle needle for the deep pelvis.
+Concept — the needle point is a trade-off between ease of passage and tissue trauma: taper stretches
+(spares tissue), cutting pierces (for dense tissue), blunt protects the operator; the reverse-cutting needle
+moves the edge outward so the wound does not tear toward the edge.
+
+Needle Types, Sizes, and Uses
+Free Versus Swaged Needles
+ • Swaged: suture pre-attached — far more common, faster, and thinner (no eyelet) so less trauma. Free:
+   suture threaded through an eyelet — thicker to accommodate the eyelet, so more trauma.
+ • Use of a free needle: after a swaged needle has been passed one way, a free needle is attached to the
+   needleless end to pass it back the opposite way. Alternative: double-armed swaged sutures, available
+   only in limited needle and material combinations (mainly vascular Prolene).
+ • Swaged needles are either permanently attached (the suture must be cut to free the needle) or "pop-off"
+   (released by traction), which saves time between throws before a knot is tied.
+Needle Thickness and Diameter
+ • Needle thickness and diameter roughly match suture calibre: heavier suture needing more tensile
+   strength rides on a thicker, larger-diameter needle, so that the needle hole approximates the suture
+   diameter and the suture passes easily.
+ • Smaller circular diameter → precision in fine suturing; larger diameter → force to penetrate dense tissue
+   where precision matters less.
+ • Small variations are described as fine, medium or heavy: medium for most applications; fine for delicate
+   tissue such as bowel or urothelium; heavy ("hernia needles") for very dense or scarred tissue where a
+   medium needle may bend or break.
+
+SUTURE MATERIAL
+ • Three axes of classification: absorbable vs non-absorbable, natural vs synthetic, and braided vs
+   monofilament. Most sutures come in a range of sizes.
+ • Natural sutures (chromic gut, silk) provoke a greater inflammatory reaction than synthetic ones.
+ • Braided vs monofilament — the governing pair:
+     ◦ Braided: easier to handle, resists memory, less knot unravelling; but harder to pass through tissue
+       and more inflammatory.
+     ◦ Monofilament: passes easily, less inflammation; more memory, knots less secure.
+
+TABLE 14.1 PROPERTIES OF COMMONLY USED SUTURE MATERIALS
+                                                                                                Absorption
+ Suture          Origin      Construction                     Sizes     Tensile strength        complete by
+ ABSORBABLE
+ Chromic gut     Natural     Monofilament                     7/0–3     21–28 days              90 days
+ Plain gut       Natural     Monofilament                     6/0–0     7–10 days               70 days
+ Monocryl        Synthetic Monofilament                       6/0–1                             91–119 days
+
+
+
+                                                    page 2 of 6
+Chapter 14 — Sutures and Suturing                                                                            SUTURE MATERIAL
+
+                                                                                                        Absorption
+ Suture          Origin      Construction                          Sizes    Tensile strength            complete by
+                                                                            1 wk 50–70%; 2 wk
+                                                                            20–40%
+ Caprosyn        Synthetic Monofilament                            6/0–1    5 days 60%; 10 days         56 days
+                                                                            20–30%
+ Biosyn          Synthetic Monofilament                            6/0–1    2 wk 75%; 3 wk 40%          110 days
+ Vicryl          Synthetic Braided (8/0–3); monofilament           10/0–    2 wk 75%; 3 wk 40–          56–70 days
+                           (10/0–9/0)                              3        50%
+ PDS             Synthetic Monofilament                            7/0–2    2 wk 60–80%; 6 wk           182–238 days
+                                                                            35–60%
+ Maxon           Synthetic Monofilament                            7/0–1    2 wk 75%; 6 wk 25%          180 days
+ NON-ABSORBABLE
+ Prolene         Synthetic Monofilament                            10/0–    Indefinite                  —
+                                                                   2
+ Mersilene       Synthetic Braided (6/0–1); monofilament           11/0–    Indefinite                  —
+                           (11/0–10/0)                             1
+ Nylon           Synthetic Monofilament                            11/0–    Gradual loss over time      —
+                                                                   2
+ Silk            Natural     Braided                               7/0–2    Gradual loss over time      —
+ Stainless       Synthetic Monofilament                            5/0–7    Indefinite                  —
+ steel
+From Hartman C, Kavoussi LR: Handbook of surgical technique, 2018, Elsevier, Table 7.1; Ethicon 2011.
+ • What the table is for: matching how long the wound needs support to how long the suture provides it.
+   Strength falls into four tiers: about 1–2 weeks (plain gut, Caprosyn, Monocryl) → 2–4 weeks (Vicryl,
+   Biosyn, chromic gut) → 6 weeks and beyond (PDS, Maxon) → indefinite (Prolene, Mersilene, steel).
+ • The trap: loss of strength precedes absorption by weeks to months (Vicryl strong at 2–3 weeks, gone by
+   70 days; PDS gone by 6–8 months); and nylon and silk are non-absorbable yet lose strength gradually.
+
+Absorbable Sutures
+Chromic Gut
+ • Serosal lining of sheep or bovine intestine treated with chromium salt, which slows absorption.
+   Monofilament in form, yet drags through tissue — may be coated with petroleum jelly.
+ • For sites where rapid dissolution matters and strength does not: circumcision, scrotal skin. Provokes one
+   of the greatest inflammatory reactions of all sutures.
+Plain Gut
+ • Same origin, not chromium-treated → even shorter strength; similar uses, but used less.
+Monocryl (Poliglecaprone 25), Caprosyn and Biosyn
+ • All three are synthetic monofilaments for subcuticular skin closure: pass easily, minimal inflammation.
+   They differ in one feature each:
+ Suture      Skin-closure strength Absorption                    Distinguishing feature
+ Monocryl 7–14 days                    Reference                 The reference skin monofilament
+ Caprosyn Shorter — up to 10           About half Monocryl's     Faster absorption → theoretically less inflammation and
+          days                         time                      infection
+ Biosyn      Greater than either       Similar to Monocryl       Strongest of the three
+
+
+
+                                                         page 3 of 6
+Chapter 14 — Sutures and Suturing                                                                       SUTURE MATERIAL
+Vicryl (Polyglactin 910)
+ • A braided synthetic, among the most used sutures in urologic surgery: reapproximation of fat, muscle
+   and fascia, ligation of small vessels, and anastomoses.
+ • Adequate support (2–3 weeks) with early absorption (≤70 days) → less infection and inflammation than
+   longer-lasting materials.
+Polydioxanone (PDS) and Maxon (Polyglyconate)
+ • Both synthetic monofilaments for wound and fascial closure, both available as a double-stranded loop
+   for extra strength.
+ • PDS: passes easily; security beyond 6 weeks, yet absorbed — less inflammation and infection than
+   permanent material; the choice for prolonged fascial strength. Maxon: security up to 6 weeks, absorbed
+   within 6 months.
+
+Nonabsorbable Sutures
+ Suture               Construction   Strength      Use                                     Cautions
+ Prolene              Monofilament Indefinite;     High strength over a prolonged          Never in contact with the
+ (polypropylene)                   does not        period                                  urinary tract — stone
+                                   degrade                                                 nidus; smooth and highly
+                                                                                           plastic, so knots unravel —
+                                                                                           extra throws needed
+ Mersilene            Braided        Indefinite    High-stress sites needing prolonged     Not in the urinary tract
+ (polyester)                                       strength; holds knots better than       (stones); not in infection —
+                                                   Prolene                                 braid favours bacterial
+                                                                                           adherence
+ Nylon                Monofilament Lost            Drain suture: plastic, minimal          —
+ (polyamide)                       gradually       inflammation — easy, painless
+                                                   removal
+ Silk                 Braided        Lost          Handles well, knots secure; marks       Natural — more
+                      (natural)      gradually,    tissue where re-entry is anticipated    inflammatory
+                                     but           — e.g. orchidectomy before possible
+                                     sufficient    retroperitoneal lymph node
+                                                   dissection (RPLND) and gonadal
+                                                   vessel resection
+
+Barbed Suture
+                   How barbs are
+ Suture            made               Strength               Anchor           Uses and limits
+ V-Loc             Cut into the       Variants of 14         Loop at the      Knotless — valuable in laparoscopic and
+                   monofilament       days, 21 days,         end; needle      robotic suturing; cutting weakens the
+                                      permanent              passed through   filament, so not for fascial closure
+                                                             it
+ Quill;            Barbed             Fast-absorbing         —                Soft tissue and skin; double-armed,
+ Stratafix         monofilament       options                                 bidirectional barbs (holding toward the
+ Spiral                                                                       centre) close long incisions rapidly
+                                                                              subcuticularly
+
+
+
+
+                                                         page 4 of 6
+Chapter 14 — Sutures and Suturing                                                                       SUTURING TECHNIQUES
+
+                   How barbs are
+ Suture            made                 Strength                Anchor            Uses and limits
+ Stratafix         Moulded onto the Significant; PDS —          Flat tab — no     Larger sizes permitted for fascial closure,
+ Symmetric         monofilament     absorbable yet              knot, no loop     including midline incisions
+ PDS                                prolonged
+
+Concept — a barbed suture's strength depends on how the barbs are made: cut barbs weaken the filament
+and exclude fascia; moulded barbs do not, which is why Stratafix Symmetric is the only barbed suture strong
+enough to close fascia.
+
+SUTURING TECHNIQUES
+ • Technique balances mechanical stress, operating time, infection risk and cosmesis, and is matched to
+   tissue.
+
+Skin Closure
+ • Dermis and epidermis are reapproximated to restore the barrier unless drainage is required (e.g. pre-
+   existing infection); some wounds carry tension, others need only edge approximation to limit scarring.
+ • A correctly approximated, uninfected epidermis seals within 24–48 hours but lacks dermal strength — so
+   the suture must hold, or remain before removal or absorption, until the dermis is strong (which varies
+   with body area).
+ • Running vs interrupted (applies to every technique): running saves knot-tying time, but a break
+   anywhere can open the entire incision.
+ Technique         Needle path                 Advantages                          Disadvantages and notes
+ Simple (Fig.      Full thickness of           Easy, fast                          Part of suture exposed at the non-
+ 14.1E)            epidermis and dermis                                            sterile surface; monofilament
+                   into hypodermis, each                                           preferred — braid lets bacteria travel
+                   side                                                            along it; external or buried knots;
+                                                                                   interrupted or running
+ Figure-of-        As simple, then a           More redundancy with half the       —
+ eight (F)         second pass through         knots of interrupted; central
+                   each side further along     compression gives haemostasis
+                   before tying                of small vessels
+ Vertical          First pass far from the  Skin eversion; less tension at the Both pass full thickness twice on each
+ mattress (G)      edges, return pass close edges                              side
+                   to the edges; knot on
+                   one side
+ Horizontal        Travel along the incision
+ mattress (H)      before the return pass;
+                   knot on one side,
+                   forming a loop
+ Subcuticular      Within superficial          No external knots or sutures,       Absorbable suture required; knots
+ (I)               dermis just below the       less infection, better cosmesis     buried; slightly longer
+                   cuticle
+ Deep dermal       Just below the              Excellent approximation,            Often combined with running
+                   epidermis, knot buried      especially under tension; takes     subcuticular, Dermabond, or both
+                                               tension off the epidermis → less
+                                               deformation, better cosmesis
+
+ • Subcuticular buried knot — sequence: first pass starts deep → exits in the subcuticular layer → next pass
+   from superficial layer to deep hypodermis → both ends exit the same side → knot falls into the
+
+
+
+                                                            page 5 of 6
+Chapter 14 — Sutures and Suturing                                                                  SUTURING TECHNIQUES
+   hypodermis; same at the far end. Barbed Monocryl may be used; with two surgeons a double-armed
+   suture started in the middle is run in opposite directions; if the skin is not under tension, a bidirectional
+   barbed suture needs no knots.
+ • Deep dermal buried knot — sequence: enter in the hypodermis → exit in the dermis below the cuticle →
+   opposite side, enter just below the cuticle → exit in the hypodermis → needle exits on the same side as
+   the free end → knot drops into the hypodermis out of view.
+Concept — every skin technique trades speed against security and surface exposure against cosmesis:
+burying the suture (subcuticular, deep dermal) removes surface exposure and epidermal tension at the cost of
+time.
+
+Fascial Closure
+ • Fascial defects of 1 cm or larger are closed after abdominal surgery.
+ • Fascia is poorly vascularised and heals slowly, so it needs longer tensile strength; some applications
+   benefit from permanent sutures. Surgeon technique determines both avoidance of visceral injury and
+   incisional hernia risk.
+ • STITCH trial (landmark): midline laparotomy randomised to small bites (5 mm from the edge, every 5
+   mm) vs large bites (1 cm from the edge, every 1 cm). Large bites were faster (10 vs 14 minutes) but gave
+   more incisional hernia at 1 year (21% vs 13%; P = 0.022). Small bites are not yet universal standard, but
+   spacing greater than 1 cm should be avoided.
+                  Running (continuous)                                      Interrupted
+ Material         Large-diameter PDS or permanent (Prolene); Stratafix is   Slow-absorbing or permanent, and Vicryl
+                  the only barbed suture strong enough                      also acceptable; size matched to
+                                                                            anticipated stress
+ Patterns         Single continuous strand                                  Simple interrupted, mattress, figure-of-
+                                                                            eight
+ Advantage        Fast, few knots                                           Security if any single suture fails or tears
+                                                                            through
+ Disadvantage Theoretical loosening of the whole closure if any point fails More knot-tying
+              → long-term strength essential
+ Evidence         No increase in incisional hernia; a systematic review found —
+                  fewer hernias with running closure provided slow-
+                  absorbing suture was used
+
+ • Laparoscopic port sites greater than 8 mm (e.g. assistant port) — suture passer, under direct vision: pass
+   suture through fascia into the abdomen on one side → passer through fascia on the opposite side →
+   grasp suture, pull it out beneath the skin into the incision → repeat for multiple strands → tie knots
+   external to the fascia.
+Concept — fascia heals slowly, so duration of strength governs every choice: a running closure is safe only
+when its material outlasts healing, and small, closely spaced bites distribute tension better than large ones.
+
+
+
+
+                                                       page 6 of 6
+
