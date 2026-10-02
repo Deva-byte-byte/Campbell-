@@ -357,7 +357,7 @@ Angiotensin II ──► AT1 / AT2 receptors
 - **Irreversible loss of capacity for consciousness + capacity to breathe**; legally death. Main source of donation after brainstem death (DBD) kidneys.
 
 ### Pathophysiology
-- ICP = intracranial pressure; CPP = cerebral perfusion pressure.
+- ICP/CPP = intracranial/cerebral perfusion pressure.
 ```
 Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
  → Pons: CUSHING REFLEX (hypertension, bradycardia)
@@ -374,10 +374,9 @@ Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
 | Immune | Inflammatory response → ↑delayed graft function and rejection in DBD |
 
 ### Diagnosis
-- **Preconditions:** apnoeic coma on ventilator; known irreversible cause.
-- **Exclude:** sedatives, neuromuscular blockers, **hypothermia (<35 °C)**, metabolic/endocrine causes, shock.
+- **Preconditions:** apnoeic coma on ventilator, known irreversible cause. **Exclude:** sedatives, neuromuscular blockers, **hypothermia (<35 °C)**, metabolic/endocrine causes, shock.
 - **Absent brainstem reflexes:** pupillary (II, III), corneal (V, VII), caloric (~50 mL ice water; VIII, III, VI), doll's eye, motor response to central pain (V, VII), gag/cough (IX, X).
-- **Apnoea test:** pre-oxygenate 100% O₂; disconnect with O₂ insufflation; no breathing at **PaCO₂ (arterial CO₂ tension) ≥60 mmHg** (pH <7.30). Abort if unstable.
+- **Apnoea test:** pre-oxygenate 100% O₂, disconnect; no breathing at **PaCO₂ (arterial CO₂ tension) ≥60 mmHg** (pH <7.30). Abort if unstable.
 - Ancillary tests (EEG (electroencephalography), angiography) – not mandatory in India/UK.
 
 ### Indian law
@@ -387,7 +386,7 @@ Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
 
 ### Donor management
 - **Rule of 100s:** systolic blood pressure >100 mmHg, urine >100 mL/h, PaO₂ (arterial O₂ tension) >100 mmHg, haemoglobin >100 g/L.
-- **Vasopressin** preferred (treats DI), desmopressin for DI, hormone resuscitation, normothermia.
+- **Vasopressin** preferred (treats DI); desmopressin; hormone resuscitation.
 - Donor dopamine ↓dialysis (Schnuelle 2009); mild donor hypothermia ↓delayed graft function (Niemann 2015).
 
 **Diagram to draw:** Herniation sequence → storm → DI/hypothermia/DIC.

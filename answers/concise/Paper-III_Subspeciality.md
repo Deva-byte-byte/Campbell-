@@ -16,14 +16,16 @@
 **Type:** LAQ (25 marks)
 
 ### Introduction
+- Ureteric stent = hollow tube keeping the upper tract draining past obstruction, injury or anastomosis.
 - **Zimskind 1967**: first indwelling silicone splint (migrated). **Finney 1978**: **double-J**; coils solved migration.
 
 ### Stent design
 | Parameter | Details |
 |---|---|
-| Diameter | 3–8.5 Fr (adults 4.7–7 Fr; 6 Fr default) |
-| Length | Adults 20–30 cm (usual 24–26 cm); children ≈ age + 10 cm |
+| Diameter | 3–8.5 Fr (adults 4.7–7 Fr; 6 Fr default); bigger → better extraluminal flow |
+| Length | Adults 20–30 cm (usual 24–26 cm), from height or measured on ureteric catheter; children ≈ age + 10 cm |
 | Coils | Double-pigtail, J, multi-length, loop-tail (fewer symptoms) |
+| Features | Radio-opaque, hydrophilic coating, extraction string |
 | Flow | Mostly **extraluminal**; poor in malignant extrinsic compression → tandem/metallic stents or PCN (percutaneous nephrostomy) |
 
 **Diagram to draw:** double-J in situ (renal coil, side holes, bladder coil).
@@ -31,34 +33,36 @@
 ### Materials
 | Material | Features |
 |---|---|
+| Polyethylene | Rigid, brittle; abandoned |
 | Silicone | Most biocompatible, least encrustation; high friction |
 | Polyurethane | Stiff, cheap; more encrustation |
 | Copolymers (Percuflex, C-Flex) | Soften at body temperature |
 | **Metallic – Resonance** | Malignant obstruction; up to 12 months |
-| **Memokath 051** | Thermo-expandable nitinol; long-term strictures |
+| **Memokath 051** | Thermo-expandable nitinol; expands with warm saline, cooling softens for removal; long-term strictures |
 | Coated | **Heparin**, **triclosan** (no convincing benefit), hydrogel, drug-eluting (investigational) |
 | Biodegradable | Experimental (fragmentation) |
 
-- Special: endopyelotomy (tapered 14/7 Fr), magnetic-tip, stent on string (no cystoscopy; dislodgement).
+- Special: endopyelotomy (tapered 14/7 Fr), magnetic-tip, stent on string (no cystoscopy; dislodgement), mono-J (diversion), anti-reflux valve.
 
 ### Indications
-- Obstruction: stone with sepsis (stent = PCN), malignancy, stricture, pregnancy.
-- After URS (ureteroscopy, selected), pyeloplasty, reimplant, transplant; injury, fistula; before complex pelvic surgery.
+- **Obstruction**: stone with sepsis (stent = PCN), malignancy, stricture, pregnancy.
+- **After intervention**: URS (ureteroscopy, selected), endopyelotomy, pyeloplasty, reimplant, transplant.
+- **Healing**: injury, leak, fistula. **Prophylactic**: complex pelvic surgery, passive dilatation.
 
 ### Stent-related symptoms
-- Up to ~80%; **USSQ (Ureteral Stent Symptom Questionnaire; Joshi 2003)**.
+- Up to ~80%: frequency, urgency, flank pain on voiding (reflux), haematuria; **USSQ (Ureteral Stent Symptom Questionnaire; Joshi 2003)**.
 - Trigonal irritation (coil crossing midline), reflux.
-- Rx: **alpha-blocker + antimuscarinic** (combination > either); correct length, shortest dwell.
+- Rx: **alpha-blocker + antimuscarinic** (combination > either); correct length, soft/tail stents, shortest dwell.
 
 ### Complications
-- Migration, infection/biofilm, haematuria (rare uretero-arterial fistula), fracture.
-- **Encrustation** ↑ with time (>6 weeks–3 months); stone formers, urease UTI (urinary tract infection), pregnancy, CKD (chronic kidney disease).
-- **Forgotten stent** → obstruction, sepsis, renal loss; registries.
+- Migration (proximal → URS retrieval), infection/biofilm, haematuria (rare uretero-arterial fistula), fracture, knotting.
+- **Encrustation** ↑ with time (>6 weeks–3 months); stone formers, urease UTI (urinary tract infection; Proteus), pregnancy, CKD (chronic kidney disease).
+- **Forgotten stent** → obstruction, sepsis, renal loss; registries, SMS reminders.
 - **FECal (Forgotten, Encrusted, Calcified) grading**: I minimal linear; II circular; III partial coil(s); IV one coil complete; V both coils complete.
 
 ### Encrusted stent
-- Never pull forcefully. NCCT (non-contrast computed tomography) for burden; treat UTI.
-- **Bladder coil** (cystolithotripsy) → **ureter** (URS laser) → **renal coil** (fURS (flexible URS) or PCNL (percutaneous nephrolithotomy)); single session where possible.
+- Never pull forcefully. NCCT (non-contrast computed tomography) for burden; DMSA (dimercaptosuccinic acid) scan if function doubtful; treat UTI.
+- **Bladder coil** (cystolithotripsy) → **ureter** (URS laser) → **renal coil** (fURS (flexible URS) or PCNL (percutaneous nephrolithotomy)); ESWL (extracorporeal shock wave lithotripsy) adjunct; single session where possible; nephrectomy if non-functioning. Metabolic evaluation.
 
 ### Ureteroscopy
 | | Semirigid | Flexible |
@@ -66,18 +70,19 @@
 | Size | ~6–8.5 Fr | ~7.5–9.5 Fr |
 | Best for | Distal/mid ureter | Upper ureter, kidney |
 | Deflection | None | ~270° both ways |
+| Optics | Rod lens/fibre-optic | **Digital** chip-on-tip |
 
-- **UAS (ureteral access sheath)** 10/12–12/14 Fr: ↓intrarenal pressure; risk **wall injury** (~1 in 8 significant); pre-stenting ↓injury.
+- **UAS (ureteral access sheath)** 10/12–12/14 Fr: ↓intrarenal pressure, better vision, repeated passage; risk **wall injury** (Traxer 2013; ~1 in 8 significant); pre-stenting ↓injury.
 - **Ho:YAG (holmium:YAG) 2120 nm** gold standard; **TFL (thulium fibre laser) ~1940 nm**: finer dust, less retropulsion.
-- Dusting (faster, residual fines) vs fragmentation + basketing (stone-free confirmed, analysis).
+- Dusting (faster, no UAS, residual fines) vs fragmentation + basketing (stone-free confirmed, analysis).
 - Steps: sterile urine, antibiotics → safety guidewire → semirigid inspection → UAS → laser/basket → inspect ureter (PULS: Post-Ureteroscopic Lesion Scale) → stent decision.
 
 ### Stenting after URS
 - **AUA (American Urological Association) 2016**: may omit after **uncomplicated** URS.
-- **EAU (European Association of Urology) 2024**: do not routinely stent after uncomplicated URS.
+- **EAU (European Association of Urology) 2024**: do not routinely stent after uncomplicated URS; pre-stenting not routine but ↑SFR (stone-free rate).
 - RCTs (randomised controlled trials): no stent → less pain/LUTS (lower urinary tract symptoms), cost; unplanned visits not significantly ↑.
-- **Stent if**: injury/perforation, significant residual fragments, solitary/transplant kidney, impacted stone/oedema, pregnancy, UTI/sepsis, renal insufficiency, bilateral URS.
-- Duration: uncomplicated 3–7 days (string); injury 2–6 weeks.
+- **Stent if**: injury/perforation, significant residual fragments, solitary/transplant kidney, impacted stone/oedema, pregnancy, prolonged procedure, UTI/sepsis, renal insufficiency, bilateral URS, stricture, planned second-look.
+- Duration: uncomplicated 3–7 days (string); injury 2–6 weeks; stricture/endopyelotomy 4–6 weeks.
 
 ```
 After URS -> uncomplicated?
@@ -86,7 +91,8 @@ After URS -> uncomplicated?
 ```
 
 ### Recent advances
-- **FANS (flexible and navigable suction access sheath)**: ↓intrarenal pressure, better SFR (stone-free rate), fewer infections.
+- **FANS (flexible and navigable suction access sheath)**: ↓intrarenal pressure, better SFR, fewer infections.
+- TFL and pulse-modulated high-power Ho:YAG.
 - **Single-use digital flexible ureteroscopes**.
 
 > **Key points to remember:**
