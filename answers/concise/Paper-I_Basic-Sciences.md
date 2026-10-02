@@ -19,12 +19,11 @@
 - Formation = glomerular filtration → tubular reabsorption → secretion → concentration/dilution. Transport = active peristalsis of pelvis/ureter → low-pressure, compliant bladder.
 
 ### A. Renal blood flow (RBF)
-- RBF ≈ **20–25% of cardiac output** (~1–1.2 L/min); renal plasma flow (RPF) ~600 mL/min; cortex ~90%, medulla <10% (protects gradient; hypoxia-prone).
-- Afferent arteriole (inflow) → glomerulus → efferent (maintains glomerular pressure) → peritubular capillaries/vasa recta.
+- RBF ≈ **20–25% of cardiac output (CO)** (~1–1.2 L/min); renal plasma flow (RPF) ~600 mL/min; cortex ~90%, medulla <10% (protects gradient; hypoxia-prone).
 - **Autoregulation** keeps RBF and GFR (glomerular filtration rate) constant over mean arterial pressure **80–180 mmHg**:
   - Myogenic – afferent contracts on stretch.
   - **Tubuloglomerular feedback (TGF)** – ↑NaCl at macula densa → adenosine → afferent constriction (↓renin).
-- Constrictors: sympathetic, angiotensin II (Ang II; efferent > afferent), endothelin, thromboxane. Dilators: prostaglandins (PGs), nitric oxide (NO), bradykinin, atrial natriuretic peptide (ANP). Non-steroidal anti-inflammatory drugs (NSAIDs) remove PG protection in low flow.
+- Constrictors: sympathetic, angiotensin II (Ang II; efferent > afferent), endothelin, thromboxane. Dilators: prostaglandins (PGs), nitric oxide (NO), atrial natriuretic peptide (ANP). Non-steroidal anti-inflammatory drugs (NSAIDs) remove PG protection in low flow.
 
 ### B. Glomerular filtration
 - GFR ~**125 mL/min (~180 L/day)**; filtration fraction (FF = GFR/RPF) ≈ **20%**.
@@ -36,11 +35,10 @@
 | Segment | Key transporters | Handling | Clinical link |
 |---|---|---|---|
 | **Proximal convoluted tubule (PCT)** | Na⁺/H⁺ exchanger, SGLT2 (sodium–glucose cotransporter 2), Na⁺/K⁺-ATPase, aquaporin-1 (AQP1), carbonic anhydrase | ~**65%** Na⁺/water (iso-osmotic), ~100% glucose/amino acids, ~80–90% HCO₃⁻; secretes organic acids/bases (drugs, creatinine) | Acetazolamide, SGLT2 inhibitors; Fanconi; cystinuria |
-| Thin descending limb | AQP1 | Water-permeable → fluid concentrates | |
-| **Thick ascending limb (TAL)** | **NKCC2** (Na⁺-K⁺-2Cl⁻ cotransporter), ROMK (K⁺ channel) | ~**25%** NaCl; **water-impermeable "diluting segment"**; builds medullary gradient | Loop diuretics; Bartter |
+| **Thick ascending limb (TAL)** | **NKCC2** (Na⁺-K⁺-2Cl⁻ cotransporter), ROMK (renal outer medullary K⁺ channel) | ~**25%** NaCl; **water-impermeable "diluting segment"**; builds medullary gradient | Loop diuretics; Bartter |
 | **Distal convoluted tubule (DCT)** | **NCC** (Na⁺-Cl⁻ cotransporter) | ~5–7% Na⁺; Ca²⁺ reabsorption (parathyroid hormone, PTH) | Thiazides ↓urinary Ca (hypercalciuric stones); Gitelman |
 | **Collecting duct (CD) – principal cells** | **ENaC** (epithelial Na⁺ channel), ROMK, **AQP2** | Na⁺ reabsorption/K⁺ secretion (aldosterone); water (antidiuretic hormone, ADH) | Amiloride, spironolactone; Liddle |
-| Intercalated cells | A: H⁺-ATPase; B: pendrin | Acid–base | Distal renal tubular acidosis (RTA) → CaP stones, nephrocalcinosis |
+| Intercalated cells | A: H⁺-ATPase; B: pendrin | Acid–base | Distal renal tubular acidosis (RTA) → calcium phosphate stones, nephrocalcinosis |
 
 ### D. Concentration and dilution
 - **Countercurrent multiplication:** TAL pumps NaCl without water → single effect (~200 mOsm) multiplied → papillary interstitium ~**1200 mOsm/kg**.
@@ -61,7 +59,7 @@
 
 ### F. Upper urinary tract transport
 - **Pacemaker:** proximal pelvis/pelvicalyceal border; **atypical smooth muscle cells (SMCs)** = primary pacemakers; **interstitial cells of Cajal (ICC)-like cells** (c-Kit⁺) = secondary pacemakers/conductors (↓ in ureteropelvic junction (UPJ) obstruction). Activity **myogenic** – persists after denervation/transplant; nerves only modulate.
-- **Electromechanical coupling:** L-type Ca²⁺ upstroke → plateau → K⁺ repolarisation; gap junctions (syncytium) ~2–6 cm/s; Ca²⁺–calmodulin → myosin light-chain kinase → contraction; relaxation via cAMP/cGMP (β-agonists, phosphodiesterase (PDE) inhibitors, NO).
+- **Electromechanical coupling:** L-type Ca²⁺ upstroke → plateau → K⁺ repolarisation; gap junctions (syncytium) ~2–6 cm/s; Ca²⁺–calmodulin → myosin light-chain kinase → contraction; relaxation via cAMP/cGMP (cyclic guanosine monophosphate) (β-agonists, phosphodiesterase (PDE) inhibitors, NO).
 - **Bolus propagation:** pelvis fills → through UPJ → ureter contracts behind bolus, walls **coapt**. Peristalsis **2–6/min**; resting pressure ~0–5 cmH₂O; contraction ~20–80 cmH₂O. Low flow → "pyeloureteric block".
 - **Flow:** ↑flow → ↑frequency, then ↑bolus volume → very high flow: boluses **coalesce** → fluid column → **dilatation without obstruction** (diuresis; diuretic renogram).
 - **Ureterovesical junction (UVJ):** oblique tunnel, **length:diameter ≈ 5:1** (Paquin) prevents reflux; sustained bladder pressure >~40 cmH₂O (neurogenic bladder) → efflux fails → secondary hydronephrosis.
@@ -74,19 +72,19 @@
 | Drugs | Relax: **α1-blockers** (tamsulosin – medical expulsive therapy), Ca-channel blockers, β-agonists, PDE5 inhibitors; NSAIDs ↓pelvic pressure (renal colic) |
 
 ### G. Bladder storage
-- High compliance + sympathetic (T10–L2) β3 detrusor relaxation, α1 bladder-neck contraction; pudendal (Onuf's, S2–4) external sphincter (guarding reflex); pontine micturition centre inhibited. Capacity ~400–500 mL; pressure <~15 cmH₂O.
+- High compliance + sympathetic β3 detrusor relaxation/α1 bladder-neck contraction + pudendal external sphincter; capacity ~400–500 mL at <~15 cmH₂O.
 
 ### H. Obstruction
 **Unilateral ureteral obstruction (UUO) – triphasic:**
 ```
-Phase 1 (0–1.5 h):  RBF ↑, pressure ↑  (afferent dilatation: PGE2, NO)
+Phase 1 (0–1.5 h):  RBF ↑, pressure ↑  (afferent dilatation: PGs, NO)
 Phase 2 (1.5–5 h):  RBF ↓, pressure ↑  (efferent constriction)
-Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, TXA2, endothelin)
+Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, thromboxane, endothelin)
 ```
 - GFR ↓ (↓RBF + ↑tubular pressure); contralateral kidney compensates.
 - **Bilateral/solitary:** pressure stays high longer; natriuretic substances (ANP, urea) accumulate → **post-obstructive diuresis**.
 - Tubular: ↓concentration (↓AQP2), ↓Na reabsorption, distal RTA, ↓K⁺ secretion.
-- Chronic: Ang II + transforming growth factor-β1 → fibrosis, tubular atrophy. Recovery depends on duration, degree, pelvic compliance, infection.
+- Chronic: Ang II + transforming growth factor-β1 → fibrosis, atrophy; recovery depends on duration, degree, infection.
 - **Pyelorenal backflow** = pop-off; forniceal rupture → urinoma.
 
 **Diagram to draw:** Nephron with segmental transporters/% Na⁺ + ADH–AQP2 inset; UUO triphasic RBF/pressure graph.
@@ -225,7 +223,7 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, TXA2,
 | **Photon-counting CT (PCCT)** | FDA (US Food and Drug Administration) clearance **2021** |
 
 ### Dual-energy CT (DECT)
-- Two energy spectra (e.g. 80/140 kilovolt peak) → material decomposition:
+- Two energy spectra (e.g. 80/140 kilovolt peak, kVp) → material decomposition:
   - **Uric acid vs non-uric-acid stones** → oral chemolysis candidates.
   - **Virtual non-contrast** images → drop unenhanced phase (↓dose).
   - **Iodine maps** – hyperdense cyst vs solid mass.
@@ -256,7 +254,7 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, TXA2,
 
 > **Key points to remember:**
 > - Helical ~1989; MDCT 1998; dual-source 2005; PCCT FDA 2021.
-> - DECT: uric acid vs non-UA, virtual non-contrast, iodine maps.
+> - DECT: uric acid vs non-uric acid, virtual non-contrast, iodine maps.
 > - Low-dose KUB <3–4 mSv, ultra-low <1 mSv – EAU preferred NCCT.
 > - Split-bolus CTU reduces phases and dose.
 
@@ -276,10 +274,11 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, TXA2,
 | 1924 | Zollikofer | CO₂ insufflation |
 | **1938** | **Veress** | Spring-loaded needle |
 | 1950s | **Hopkins** | **Rod-lens** (with Storz cold light) |
-| 1970s–80s | **Semm** | Automatic insufflator, pelvi-trainer; lap appendectomy 1980 |
+| 1970s–80s | **Semm** | Automatic CO₂ insufflator, endoloops, pelvi-trainer; first lap appendectomy 1980 |
 | 1970s | Hasson | Open access |
 | **1976** | **Cortesi** | **Impalpable testis** – first urological use |
 | 1985 | Mühe | First lap cholecystectomy |
+| 1980s | Video chip camera | Whole team sees image; two-handed surgery |
 | **1987** | **Mouret** | Video-laparoscopic cholecystectomy |
 | **1990** | **Clayman** | **First lap nephrectomy** |
 | 1992 | Gagner | Lap adrenalectomy |
@@ -304,7 +303,7 @@ Optics → Diagnostic → Therapeutic (Semm) → Video (lap chole)
 - Indigenous robot **SSI Mantra**; telesurgery demonstrations.
 
 ### Recent advances
-- Competitor robots (Versius, Hugo RAS, Hinotori); haptic feedback (da Vinci 5).
+- Competitor robots (Versius, Hugo RAS, Hinotori); ultra-long-distance telesurgery; haptic feedback (da Vinci 5).
 
 **Diagram to draw:** Timeline 1806 → 1901 → 1910 → 1938 → 1987 → 1990 → 2000.
 
@@ -323,6 +322,7 @@ Optics → Diagnostic → Therapeutic (Semm) → Video (lap chole)
 - Hormonal cascade regulating **blood pressure, extracellular volume, Na⁺/K⁺ and GFR (glomerular filtration rate)**; systemic + intrarenal.
 
 ### Cascade
+- ACE = angiotensin-converting enzyme; AT1/AT2 = angiotensin II type 1/2 receptors; JG = juxtaglomerular.
 ```
 Angiotensinogen (liver)
   | Renin (JG cells) – rate-limiting
@@ -331,9 +331,8 @@ Angiotensin I
 Angiotensin II ──► AT1 / AT2 receptors
   | ACE2 → Ang(1-7) → Mas receptor (vasodilatation, anti-fibrotic)
 ```
-- ACE = angiotensin-converting enzyme; AT1/AT2 = angiotensin II type 1/2 receptors.
 
-### Juxtaglomerular (JG) apparatus
+### Juxtaglomerular apparatus
 - **JG cells** (afferent arteriole) – secrete renin; baroreceptors.
 - **Macula densa** – senses tubular NaCl.
 - Extraglomerular mesangial (Lacis) cells.
@@ -378,19 +377,19 @@ Angiotensin II ──► AT1 / AT2 receptors
 - **Irreversible loss of capacity for consciousness + capacity to breathe**; legally death. Main source of donation after brainstem death (DBD) kidneys.
 
 ### Pathophysiology
+- ICP = intracranial pressure; CPP = cerebral perfusion pressure.
 ```
 Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
- → Pons: CUSHING REFLEX (HTN, bradycardia)
- → Medulla: CATECHOLAMINE STORM (HTN, arrhythmia, myocardial necrosis)
+ → Pons: CUSHING REFLEX (hypertension, bradycardia)
+ → Medulla: CATECHOLAMINE STORM (hypertension, arrhythmia, myocardial necrosis)
  → Loss of sympathetic tone → HYPOTENSION
 ```
-- ICP = intracranial pressure; CPP = cerebral perfusion pressure; HTN = hypertension.
 
 | System | Change |
 |---|---|
 | Cardiovascular | Hypotension, arrhythmia |
 | Posterior pituitary | **Diabetes insipidus (DI)** – ↓ADH (antidiuretic hormone), hypernatraemia |
-| Anterior pituitary | ↓T3, adrenal insufficiency |
+| Anterior pituitary | ↓T3 (triiodothyronine), adrenal insufficiency |
 | Temperature | **Hypothermia** |
 | Haematology | **DIC (disseminated intravascular coagulation)** (brain thromboplastin) |
 | Immune | Inflammatory response → ↑delayed graft function and rejection in DBD |
@@ -399,7 +398,7 @@ Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
 - **Preconditions:** apnoeic coma on ventilator; known irreversible cause.
 - **Exclude:** sedatives, neuromuscular blockers, **hypothermia (<35 °C)**, metabolic/endocrine causes, shock.
 - **Absent brainstem reflexes:** pupillary (II, III), corneal (V, VII), caloric (~50 mL ice water; VIII, III, VI), doll's eye, motor response to central pain (V, VII), gag/cough (IX, X).
-- **Apnoea test:** pre-oxygenate 100% O₂; disconnect with O₂ insufflation; no breathing at **PaCO₂ ≥60 mmHg** (pH <7.30). Abort if unstable.
+- **Apnoea test:** pre-oxygenate 100% O₂; disconnect with O₂ insufflation; no breathing at **PaCO₂ (arterial CO₂ tension) ≥60 mmHg** (pH <7.30). Abort if unstable.
 - Ancillary tests (EEG (electroencephalography), angiography) – not mandatory in India/UK.
 
 ### Indian law
@@ -408,7 +407,7 @@ Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
 - **Two tests ≥6 h apart**; mandatory request.
 
 ### Donor management
-- **Rule of 100s:** systolic BP >100 mmHg, urine >100 mL/h, PaO₂ >100 mmHg, Hb >100 g/L.
+- **Rule of 100s:** systolic blood pressure >100 mmHg, urine >100 mL/h, PaO₂ (arterial O₂ tension) >100 mmHg, haemoglobin >100 g/L.
 - **Vasopressin** preferred (treats DI), desmopressin for DI, hormone resuscitation, normothermia.
 - Donor dopamine ↓dialysis (Schnuelle 2009); mild donor hypothermia ↓delayed graft function (Niemann 2015).
 
@@ -430,7 +429,7 @@ Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
 
 ### Immune privilege
 - **Blood–testis barrier (BTB):** **Sertoli–Sertoli tight junctions** (claudin-11, occludin); formed at **puberty**; **basal** (spermatogonia) vs **adluminal** (spermatocytes, spermatids) compartments. Weak points: rete testis, efferent ducts/epididymis.
-- **Active immunoregulation:** M2 macrophages (interleukin-10), **regulatory T cells**, Sertoli TGF-β (transforming growth factor-β), immunosuppressive **androgens**; Fas ligand role **debated**; seminal plasma immunosuppression.
+- **Active immunoregulation:** M2 macrophages (interleukin-10), **regulatory T cells (Tregs)**, Sertoli TGF-β (transforming growth factor-β), immunosuppressive **androgens**; Fas ligand (FasL) role **debated**; seminal plasma immunosuppression.
 
 ### Antisperm antibodies (ASA)
 - **Causes:** **vasectomy** (commonest), obstruction, testicular trauma/torsion, biopsy, infection, cryptorchidism.
@@ -441,9 +440,9 @@ Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
 |---|---|
 | **Mixed antiglobulin reaction (MAR)** | Fresh semen + IgG/IgA-coated beads → mixed agglutinates |
 | **Immunobead test (IBT)** | Washed sperm + anti-IgG/IgA/IgM beads; % and location |
-| Indirect | ASA in serum/seminal plasma/mucus |
+| Indirect | ASA in serum/seminal plasma/cervical mucus (donor sperm) |
 - **World Health Organization (WHO) 2010: ≥50% motile sperm with bound particles** = significant.
-- Indications: asthenozoospermia, agglutination, unexplained infertility.
+- Indications: isolated asthenozoospermia, agglutination on semen analysis, unexplained infertility, post-trauma/reversal.
 
 | Treatment | Comment |
 |---|---|
@@ -452,7 +451,7 @@ Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
 | **ICSI (intracytoplasmic sperm injection)** | **Preferred** – fertilisation unaffected |
 
 ### Inflammation
-- **Leukocytospermia: >1 × 10⁶ peroxidase-positive leukocytes/mL** → reactive oxygen species → DNA fragmentation; culture, antibiotics if infected.
+- **Leukocytospermia: >1 × 10⁶ peroxidase-positive leukocytes/mL** → reactive oxygen species → DNA (deoxyribonucleic acid) fragmentation; culture, antibiotics if infected.
 - **Orchitis:** mumps (post-pubertal; atrophy); bacterial – *Chlamydia/gonorrhoea* (<35 y), *E. coli* (older); granulomatous.
 - **Autoimmune orchitis:** primary (ASA + azoospermia) vs secondary (vasculitis).
 
@@ -473,13 +472,14 @@ Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
 **Type:** SAQ (10 marks)
 
 ### Classification (EAU (European Association of Urology) 2024)
+- Urinary tract infection (UTI) types:
 - **Uncomplicated** – non-pregnant women, no abnormality/comorbidity.
 - **Complicated** – men, pregnancy, abnormality, catheter, immunosuppression.
 - **Recurrent** – **≥2 in 6 months or ≥3 in 12 months**.
 
 ### Principles
 1. Confirm, culture (except simple cystitis in women).
-2. **Pharmacokinetics/pharmacodynamics:** **time-dependent** (time above minimum inhibitory concentration) – β-lactams; **concentration-dependent** – **aminoglycosides, fluoroquinolones (FQs)** (high once-daily).
+2. **Pharmacokinetics/pharmacodynamics:** **time-dependent** (time above minimum inhibitory concentration, T>MIC) – β-lactams; **concentration-dependent** (peak concentration, Cmax; area under the curve, AUC) – **aminoglycosides, fluoroquinolones (FQs)** (high once-daily).
 3. Nitrofurantoin/fosfomycin – **low tissue levels → cystitis only**. Avoid nitrofurantoin at eGFR (estimated glomerular filtration rate) <30 mL/min.
 4. Local resistance: empirical only if **<20%** (cystitis); FQ for pyelonephritis only if **<10%**.
 5. Avoid FQ/cephalosporins in cystitis (collateral damage – ESBL (extended-spectrum β-lactamase), *C. difficile*).

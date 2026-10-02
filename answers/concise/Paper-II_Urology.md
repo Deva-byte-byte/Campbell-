@@ -17,14 +17,14 @@
 
 ### Definition
 - **BPH (benign prostatic hyperplasia)** = histological (stromal + epithelial hyperplasia of transition zone); **BPE (benign prostatic enlargement)**; **BPO (benign prostatic obstruction)** from BPE → **LUTS (lower urinary tract symptoms)**: storage, voiding, post-micturition.
-- Goals: relieve bother, improve QoL (quality of life), prevent progression – AUR (acute urinary retention), surgery, renal damage.
+- Goals: relieve bother, prevent progression (AUR (acute urinary retention), surgery).
 
 ### Drug targets
 - **Static** (bulk, DHT (dihydrotestosterone)) → 5-ARIs (5α-reductase inhibitors), surgery; **dynamic** (α1A tone) → α-blockers; **bladder** → antimuscarinics, β3-agonists.
 
 ### Evaluation
-- **IPSS (International Prostate Symptom Score)** 0–35: mild 0–7, moderate 8–19, severe 20–35; + QoL question 0–6. FVC (frequency-volume chart), 3 days.
-- DRE (digital rectal examination), urinalysis, **PSA (prostate-specific antigen)** (if life expectancy >10 y or changes management).
+- **IPSS (International Prostate Symptom Score)** 0–35: mild 0–7, moderate 8–19, severe 20–35; + quality-of-life question 0–6. FVC (frequency-volume chart), 3 days.
+- DRE (digital rectal examination), urinalysis, **PSA (prostate-specific antigen)** (if life expectancy >10 y).
 - Optional: creatinine, uroflowmetry (Qmax (maximum flow rate) <10 mL/s suggests BOO (bladder outlet obstruction)), PVR (post-void residual).
 - **Before surgery** (AUA (American Urological Association)): prostate size/shape by imaging/cystoscopy; pressure-flow study if diagnosis uncertain.
 
@@ -53,7 +53,7 @@
 **4. Combination α-blocker + 5-ARI**
 - **MTOPS (Medical Therapy of Prostatic Symptoms; 2003)**: doxazosin + finasteride ↓ clinical progression **66%** vs placebo (doxazosin 39%, finasteride 34%).
 - **CombAT (Combination of Avodart and Tamsulosin; 4-yr)**: dutasteride + tamsulosin, volume ≥30 mL; AUR/surgery ↓ **~66% vs tamsulosin**.
-- For enlarged prostate at risk of progression; consider stopping α-blocker after 6–12 months.
+- Enlarged prostate at risk of progression; consider stopping α-blocker at 6–12 months.
 
 **5. Storage symptoms**
 - **Antimuscarinics** (solifenacin, tolterodine, oxybutynin) ± α-blocker for persistent OAB (overactive bladder); caution **PVR >250–300 mL**; cognitive side effects in elderly.
@@ -63,7 +63,7 @@
 
 **7. Nocturnal polyuria** – low-dose **desmopressin**; check **serum sodium** (baseline, first week, periodically).
 
-**8. Phytotherapy** – AUA: **not recommended** (saw palmetto trials negative).
+**8. Phytotherapy** – AUA: **not recommended**.
 
 ```
 LUTS → IPSS, DRE, urinalysis, PSA, FVC
@@ -89,7 +89,7 @@ LUTS → IPSS, DRE, urinalysis, PSA, FVC
 | **Rezūm (water vapour thermal therapy)** | 30–80 mL | Day care, treats median lobe | Delayed relief, catheter 3–7 days |
 | **PUL (prostatic urethral lift)** | 30–80 mL, **no obstructing median lobe** | Local anaesthesia, sexual function preserved | Lower efficacy, higher retreatment |
 | **iTIND** | 25–75 mL | Temporary (5–7 days) | Modest efficacy |
-| **PAE (prostatic artery embolisation)** | Larger glands, selected men | No GA | Less effective than TURP |
+| **PAE (prostatic artery embolisation)** | Larger glands | No GA | Less effective |
 
 **TUR syndrome** (M-TURP, 1.5% glycine): dilutional hyponatraemia, fluid overload, glycine toxicity (confusion, bradycardia, visual disturbance); risk ↑ resection >60–90 min, perforation. Treat: stop surgery, diuretics, 3% saline if severe, slow correction. **B-TURP (saline)** virtually eliminates it.
 
@@ -101,13 +101,13 @@ LUTS → IPSS, DRE, urinalysis, PSA, FVC
 - Early: bleeding, TUR syndrome, sepsis, failed TWOC; late: retrograde ejaculation, transient incontinence, stricture, BNC.
 
 ### Follow-up
-- IPSS at 4–12 weeks (α-blocker), 3–6 months (5-ARI), then yearly; post-surgery IPSS/Qmax/PVR at 4–12 weeks.
+- IPSS at 4–12 weeks (α-blocker), 3–6 months (5-ARI), then yearly.
 
 ### Recent advances
 - **Optilume BPH** (paclitaxel-coated balloon, PINNACLE trial) FDA-approved 2023.
-- Office MISTs (minimally invasive surgical therapies – Rezūm, PUL, iTIND) for ejaculation preservation.
+- Office MISTs (minimally invasive surgical therapies) preserve ejaculation.
 
-**Diagram to draw:** McNeal zones + size-based algorithm (≤30 TUIP → 30–80 TURP/PVP/MIST → >80 enucleation/simple prostatectomy).
+**Diagram to draw:** McNeal zones + size-based algorithm (≤30 TUIP → 30–80 TURP/PVP → >80 enucleation/simple prostatectomy).
 
 > **Key points to remember:**
 > - IPSS 0–35: 0–7 mild, 8–19 moderate, 20–35 severe.
@@ -413,7 +413,7 @@ Dorsal penile block → aspiration (16–18G) ± saline irrigation
 ### Safety measures
 - **AEM (active electrode monitoring)** – shuts generator on insulation failure/capacitive coupling.
 - **REM (return electrode contact quality monitoring)**.
-- Lowest effective power, cut waveform, brief activation; tip in view.
+- Lowest power, brief activation; tip in view.
 - Bipolar near critical structures; athermal nerve-sparing in prostatectomy.
 - Pacemaker/ICD (implantable cardioverter-defibrillator): bipolar preferred.
 
