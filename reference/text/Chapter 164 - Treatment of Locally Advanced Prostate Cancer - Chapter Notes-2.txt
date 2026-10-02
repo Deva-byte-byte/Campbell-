@@ -1,0 +1,974 @@
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                                           DEFINITION
+
+Chapter 164 — Treatment of Locally Advanced Prostate
+Cancer
+ • At least 10% of new diagnoses are locally advanced (T3, NX or N+, M0) despite PSA-driven stage
+   migration; the proportion has fallen slightly but has been broadly constant for a decade.
+ • These men, with those presenting with metastases, account for a disproportionate share of prostate
+   cancer deaths.
+ • No consensus on optimal management. Unlike low-grade localised disease, where several modalities do
+   equally well, any single modality carries a significant risk of recurrence → interest in combination
+   therapy, better risk assessment and imaging.
+ • Competing evidence: several analyses favour radical prostatectomy (RP) for disease-specific mortality and
+   metastasis in higher-risk men; other data favour external-beam radiation therapy (EBRT) + brachytherapy
+   boost + androgen deprivation (AD).
+
+DEFINITION
+ • Traditional clinical definition (digital rectal examination, DRE): extracapsular spread (cT3a), seminal
+   vesicles (cT3b), adjacent organs (cT4).
+ • PSA era: most cancers are non-palpable (cT1c), so PSA, Gleason and imaging, not T stage, now identify
+   risk of failure.
+ • Working definition: "high-risk" disease, including regional or nodal spread without distant metastasis
+   (T3–4, N0 or N+, M0).
+
+Contemporary Risk Assessment
+ • Combined variables beat single ones for predicting pathological stage; many "organ-confined" tumours
+   are more advanced. Knowing likely stage improves counselling, choice of therapy and trial selection.
+ • Key pathological predictors after RP: Gleason score, margin status, non-organ-confined disease
+   (extracapsular extension [ECE], seminal vesicle invasion [SVI], nodes).
+ • Biochemical disease-free survival (BDFS; PSA-free survival) is the usual endpoint but only an
+   intermediate surrogate; timing of recurrence and PSA kinetics refine risk.
+ • Recurrence reflects unrecognised micrometastases or persistent locoregional disease.
+ • Low risk does well; intermediate and high risk are heterogeneous and need finer nomograms.
+RISK STRATIFICATION TOOLS COMPARED
+ Tool                     Inputs                                       Output                Distinguishing feature or limit
+ Partin tables            Clinical stage, PSA, Gleason                 Predicted             Clinically localised disease before
+ (1990s; updated                                                       pathological stage    RP only
+ 2001, 2013, 2017)                                                     at RP
+ Kattan nomograms         Clinical stage, biopsy Gleason,              Continuous risk of    Most widely used. The RP
+                          pretreatment PSA; the RT versions            progression after     nomogram was built on T1c–
+                          add AD use, total dose and                   local therapy         T3aNXM0, so it does not apply
+                          combination (EBRT + permanent                                      with SVI or regional spread
+                          brachytherapy)
+ D'Amico                  Clinical stage, PSA, Gleason                 Low /                 Simple. Variants add ethnicity
+ classification                                                        intermediate / high   and pathology
+                                                                       risk of biochemical
+                                                                       failure
+
+
+                                                              page 1 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                                          DEFINITION
+
+ Tool                     Inputs                                       Output                Distinguishing feature or limit
+ CAPRA score              PSA, T stage, age, grade, cancer             Each 2-point rise     Validated in several populations;
+ (Cancer of the           volume                                       doubles recurrence    also predicts disease-specific
+ Prostate Risk                                                         risk after RP         and overall mortality
+ Assessment), 0–10
+ Clinical–genomic         Clinicopathological variables + 22-          Three- or six-tier    Outperformed NCCN and CAPRA
+ risk groups              gene Decipher result                         groups                for metastasis and disease-
+                                                                                             specific survival; reclassified
+                                                                                             about two-thirds of NCCN six-tier
+                                                                                             patients
+
+ • What the table tests: which tool predicts stage (Partin) and which predicts outcome (Kattan, D'Amico,
+   CAPRA, clinical–genomic).
+ • Trap: the Kattan RP nomogram cannot be applied to cT3b or node-positive disease, which is the
+   population this chapter is about.
+
+ KEY POINTS: RISK ASSESSMENT
+   • Risk assessment is best performed by combining serum PSA, T stage, cancer grade and extent of
+     cancer on biopsy.
+   • Imaging has had a limited role in identifying high-risk men in whom local therapy may fail, but newer
+     modalities will change this.
+
+
+Imaging Modalities
+ • Grey-scale transrectal ultrasonography (TRUS) is no better than DRE for ECE or SVI; early high accuracy
+   was not reproduced. It understages because of interobserver variability, subtle signs and today's lower-
+   volume tumours. Directed biopsy of the seminal vesicles or capsule can confirm cT3.
+ • Colour/power Doppler and micro-ultrasound (29 MHz) are under investigation.
+ • Endorectal and multiparametric MRI (mpMRI) may separate T2a/b from T3; its staging role and the need
+   for the coil remain controversial. ECE accuracy varies widely (sensitivity 13–91%, specificity 49–97%) with
+   interpretation, so adopt PI-RADS v2 structured reporting.
+ • At 3 tesla, the PI-RADS v2 score next to the neurovascular bundle has poor specificity, so it cannot by
+   itself decide nerve preservation.
+ • MRI is best reserved for higher-risk men (more than three positive cores, abnormal DRE, PSA >10 ng/mL),
+   where its specificity for pT3 is high.
+ • Positron emission tomography (PET) tracers approved by the U.S. Food and Drug Administration: ¹⁸F-
+   fluciclovine for biochemical recurrence; ¹⁸F-sodium fluoride for bone.
+ • Prostate-specific membrane antigen (PSMA) PET detects limited nodal disease and oligometastases. For
+   pelvic nodes, ⁶⁸Ga-PSMA-11 specificity is very high (≥95%) but sensitivity only moderate (~40–66%).
+   Whether it replaces standard imaging is debated.
+ • proPSMA (high-risk men; 30% had nodal or distant metastases): PSMA PET–computed tomography (CT)
+   accuracy 92% vs 65% for conventional imaging (sensitivity 85%, specificity 98%), with lower radiation,
+   excellent interobserver agreement, fewer equivocal findings and cost-effectiveness.
+STAGING MODALITIES COMPARED
+ Modality                       Strength                             Weakness                           Place
+ DRE                            Defines cT3/cT4                      Most cancers now cT1c              Baseline clinical stage
+
+
+
+
+                                                              page 2 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                                     DEFINITION
+
+ Modality                       Strength                             Weakness                      Place
+ Grey-scale TRUS                Guides directed SV or                Understages; operator-        No staging gain over
+                                capsular biopsy                      dependent                     DRE
+ mpMRI (± endorectal            Zonal anatomy; T2 vs T3; high Variable accuracy; poor specificity Higher-risk men; PI-
+ coil)                          specificity for pT3 in high risk at the neurovascular bundle      RADS v2 reporting
+ Conventional imaging           Standard, widely available           Less accurate than PSMA PET   High-risk staging
+ (CT/MRI + bone scan)                                                                              (NCCN triggers
+                                                                                                   below)
+ PSMA PET                       Highest accuracy; very high          Moderate nodal sensitivity    May substitute for CT
+                                nodal specificity                                                  + bone scan
+
+Figure legends.
+ • Fig. 164.1 (TRUS): increased colour Doppler flow at the left posterior prostate, with a matching
+   hypoechoic area. Lateral distortion and "squaring" of the capsule suggest ECE.
+ • Fig. 164.2 (TRUS): hypoechoic tumour at the left base extending into the ipsilateral seminal vesicle.
+ • Fig. 164.3 (axial T2-weighted MRI): tumour involving the seminal vesicle and bladder base, extending into
+   the adjacent fat.
+ • Fig. 164.4 (⁶⁸Ga-PSMA-11 PET/MRI): uptake in the right peripheral zone and in right pelvic side-wall and
+   external iliac nodes.
+
+Novel Markers
+ • Clinical and pathological parameters predict local extent poorly. Comparative genomic hybridisation
+   aberrations discriminate organ-confined from locally advanced tumours (Table 164.1); a stepwise six-
+   aberration model was highly accurate.
+ • TMPRSS2–ETS rearrangements (androgen-regulated) → higher pathological stage; sarcosine (glycine
+   metabolite) raised in metastatic disease.
+ • CALGB 90203 profiling (high-risk localised): frequent TMPRSS2–ERG fusion, TP53, PTEN, FOXA1, SPOP
+   alterations but no androgen receptor (AR) amplification or mutation; marked genomic and immune-
+   infiltrate heterogeneity; Wnt signalling correlated with immune suppression.
+ • Commercial genomic classifiers (Decipher, Oncotype DX, Prolaris) are applied variably to refine risk (NCCN
+   2023).
+ • After RP with adverse pathology, genomics identifies higher disease-specific mortality and may guide
+   adjuvant therapy. Unresolved: how to use these tests and whether they improve outcomes.
+TABLE 164.1 CHROMOSOME ABNORMALITIES ASSOCIATED WITH PATHOLOGICAL STAGE
+ Chromosome          Aberrations associated with stage (alone or in combination; − loss, + gain)
+ 8p                  −8p alone; −8p with −10q23→qter, −5q31→qter, −15q22 or −11q24→qter
+ 10q                 −10q25→qter; −10q24→qter with −5q31, −6p21 or +7p11
+ 6                   −6p21; −6q24→qter; −6p12→pter with −6q24→qter; −6q25→qter with −11q23→qter
+ 18                  −18cen–q12
+
+ • Pattern: almost all are losses, clustered on 8p, 10q and chromosome 6. The single gain is +7p11, and it
+   occurs only in combination with a 10q loss.
+ • Purpose: it shows that a genomic signature, not just clinical variables, can predict extraprostatic disease.
+Concept — Locally advanced disease is now defined by risk, not palpation. Because clinical staging and
+imaging both understage, every tool in this section is an attempt to predict the pathology that surgery would
+reveal and the failure that monotherapy would produce.
+
+
+                                                              page 3 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                             TRENDS IN INCIDENCE AND TREATMENT
+
+TRENDS IN INCIDENCE AND TREATMENT
+ • CaPSURE (Cancer of the Prostate Strategic Urologic Research Endeavor): D'Amico high-risk presentation
+   fell from about 41% (1989–1990) to 15% (2001–2002), driven by PSA screening (far fewer PSA >20 ng/mL);
+   clinical T3–T4 fell from about 12% to 3.5%. High Gleason grade now defines most high-risk patients, as
+   also seen at Johns Hopkins.
+ • National Cancer Database (2004–2016): high-risk proportion rose (about 12% → 20%) with RP use (about
+   23% → 41%).
+ • cT3 and pT3 at RP have fallen steeply (cT3 about 25% in 1987 → under 3% in 2001) through PSA
+   screening, selective surgery and better RT; ECE fell across every clinical, PSA and Gleason stratum (Table
+   164.2).
+ • NCCN (National Comprehensive Cancer Network) 2023: high risk includes cT3a and cT3b–T4. Bone scan +
+   CT or MRI for these and for PSA >20 ng/mL, grade group 4–5 or primary Gleason pattern 5; PSMA PET
+   may substitute (more sensitive).
+ • RP + extended pelvic lymphadenectomy only for high-risk tumours that can be completely excised; the
+   alternative is AD + RT.
+ • The pattern has swung back: historically low RP rates (CaPSURE; Surveillance, Epidemiology, and End
+   Results [SEER]) have given way to a significant rise in surgery for CAPRA 6–10.
+TABLE 164.2 PATHOLOGICAL FINDINGS IN MALES UNDERGOING RADICAL PROSTATECTOMY
+ Series grouped by era                                         ECE                SVI         Lymph node positive
+ Series spanning the 1980s–1990s                               25–66%             4–18%       2–7%
+ Same-institution comparisons, earlier → later era             60% → 25%; 66% →   18% →       SV + LN combined 14% →
+                                                               25%                5%          4%
+ Series from 2000 onwards                                      ~14–17%            ~5–6%       up to 9%
+ University of California, San Francisco (UCSF),               16%                11%         3%
+ 1986–2009
+
+ • Pattern: ECE and SVI at RP have fallen severalfold across eras within the same institutions. This reflects
+   stage migration and selection, not any change in biology.
+ • Trap: a falling pT3 rate at RP does not mean locally advanced disease has disappeared. Surgical series are
+   selected for largely clinically localised disease.
+ • Fig. 164.5 (CaPSURE, CAPRA 6–10, 1990–2013; Cooperberg and Carroll, 2015): primary AD peaked in
+   2005–2009 then fell; RP became commonest by 2010–2013; RT declined; surveillance stayed minimal.
+
+ KEY POINTS: TRENDS IN INCIDENCE AND TREATMENT
+   • Fewer men present with locally advanced prostate cancer.
+   • Organ-confined cancers found at RP have increased.
+   • Non-surgical treatment of high-risk cancer increased, but this has changed in recent years.
+
+Concept — Stage migration has redefined "high risk". What used to mean a palpable T3 tumour now mostly
+means high Gleason grade. Contemporary high-risk cohorts are therefore less advanced than the historical
+series on which treatment was built, and that is part of why surgery has returned.
+
+
+
+
+                                                              page 4 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                              NATURAL HISTORY
+
+NATURAL HISTORY
+ • Active surveillance with deferred treatment is viable; disease-specific mortality is low and concentrated
+   in higher grade and stage, though even low-risk cancers can progress over long follow-up. Genomic tests
+   help selection. Higher-risk disease progresses faster, so healthy men usually warrant intervention.
+ • Few relevant series of observed locally advanced disease; older ones are of little relevance, and reported
+   5–10-year progression, metastasis and survival vary widely.
+ • Veterans Administration Cooperative Urological Research Group (VACURG) placebo arm, stage III: 5-year
+   OS 58%. Medical Research Council (MRC) delayed-AD arm (locally advanced M0): median time to clinical
+   progression 10 months, to prostate cancer death 48 months.
+ • Grade drives cancer death under conservative management: grade 3 carries about tenfold the disease-
+   specific mortality of grade 1.
+ • Swedish population cohort (Table 164.3): in localised disease, deferred and initial treatment gave similar
+   15-year corrected survival; locally advanced disease did worse. Cancer death rose from rare (well
+   differentiated) to over half (poorly differentiated).
+ • Connecticut Tumour Registry (pre-PSA watchful waiting): 15-year cancer mortality rises with Gleason (6 <
+   7 < 8–10; Gleason 8–10: 60–87%); in Gleason 6, competing mortality exceeds it. Annual mortality from
+   low-grade cancer is stable beyond 15 years, unlike the late rise in the Swedish cohort.
+ • SEER contemporary cohort: better outcomes, but Gleason 8–10 still >20% cancer-specific mortality at 15
+   years. Untreated high-risk disease carries significant risk of progression and cancer death.
+ • Undertreatment: in Sweden, fit men in their 70s with life expectancy >10 years received RT in only 40%
+   and surgery in 10%, despite life expectancy comparable to younger treated men; the UK National Prostate
+   Cancer Audit found the same.
+TABLE 164.3 CONSERVATIVE MANAGEMENT OF PATIENTS WITH PROSTATE CANCER
+ Clinical stage               Progression-free survival                      Disease-specific survival
+ T1–T2                        48%                                            81%
+ T3–T4                        47%                                            57%
+ M+                           6%                                             6%
+From Johansson et al., 1997 (JAMA): 15-year survival, prospective population-based study in Sweden.
+ • Pattern: T1–T2 and T3–T4 progress at the same rate but die of cancer at very different rates. Locally
+   advanced disease converts progression into death. Metastatic disease is almost uniformly fatal.
+ • Trap: equal progression-free survival does not imply equal disease-specific survival.
+ • Fig. 164.6 (Albertsen et al., 2005; ages 55–74): Gleason 8–10 — prostate cancer death dominates at
+   every age; Gleason 7 — competing mortality grows with age.
+Concept — Grade drives cancer death in untreated disease, and competing mortality decides whether that
+matters for a given man. A fit man in his 70s with high-grade disease will live long enough to die of it, which is
+why withholding treatment from him is an error.
+
+RADICAL PROSTATECTOMY
+ • RP for locally advanced disease declined: surgery alone is often insufficient, risk assessment improved, RT
+   delivery improved and combined RT + AD beat monotherapy. Yet RP can cure some high-risk men, and
+   adding secondary therapy may improve on it.
+
+
+
+
+                                                              page 5 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                            RADICAL PROSTATECTOMY
+
+Surgery for Clinical Stage T3 Prostate Cancer
+ • OS after RP for cT3 (all series): 64–96% at 5, 12.5–72% at 10, 20–51% at 15 years; older series carried
+   inaccurate staging and occult nodes.
+ • Contemporary disease-specific survival: 85–92% at 5 years and 79–82% at 10 years, regardless of
+   adjuvant therapy.
+ • Surgery alone in cT3a: about half recurrence-free at 8–10 years without adjuvant AD. Mayo Clinic cT3 at
+   20 years: local recurrence-free, systemic progression-free and disease-specific survival 72–81%.
+ • Clinical overstaging of cT3 occurs in 7–27%, so men should not be excluded from RP on clinical stage
+   alone.
+ • Higher survival in men who completed RP with node dissection; over a third of high-risk RP specimens
+   are specimen-confined (pT2–pT3a), predictable by a nomogram (PSA, age, clinical stage, biopsy Gleason).
+ • Selection is key: many cT3 tumours have regional spread, but in lower-volume disease local control is
+   usual and complete excision possible.
+ • Biochemical progression is confounded by adjuvant therapy: >60% at 5 years without secondary
+   treatment; 42–49% (5 years) and 59–62% (10 years) with variable adjuvant use.
+ • Clinical progression (biopsy-proven local or objective metastasis): 12–45%, 39–49%, 50–71% at 5, 10, 15
+   years, little affected by adjuvant therapy. Survival benefit over alternatives is unproven.
+TABLE 164.4 RADICAL PROSTATECTOMY FOR HIGHER CLINICAL STAGE IN CONTEMPORARY SERIES
+                                                                                 OS 10 yr (15               DSS 10 yr (15
+ Series grouped by era                      Adjuvant therapy             OS 5 yr yr)            DSS 5 yr    yr)
+ 1991–1999 series                           0–60%                        75–     60–72%         85–90%      70–82%
+                                                                         86%
+ 2005–2009 series                           0–62% (one                   85–     74–76% (53–    90–98%      85–91% (76–
+                                            neoadjuvant)                 91%     69%)                       84%)
+ Surgery alone, no adjuvant (Johns          0%                           —       —              BDFS        BDFS 49%*
+ Hopkins)                                                                                       60%*
+*BDFS defined as PSA ≤0.2 ng/mL; 15-year actuarial metastasis-free survival 82% in the whole cohort (updated data
+from Han et al., 2001). One series reports 7-year figures. OS, overall survival; DSS, disease-specific survival.
+ • Pattern: DSS stays high (80–90% at 10 years) even where BDFS is only about half. Biochemical failure after
+   RP for cT3 is common, but cancer death is not.
+ • Values that differ: the body text gives contemporary DSS as 85–92% (5 years) and 79–82% (10 years). The
+   table's 2005–2009 group reads higher (90–98%, 85–91%). The difference is grouping: the text's
+   "contemporary" range includes 1990s series.
+ • Trap: do not confuse the wide OS ranges (dominated by old, understaged cohorts) with contemporary
+   DSS.
+
+Outcomes of Prostatectomy for Pathologically Advanced Disease
+ • A significant minority of clinically organ-confined tumours are pT3. cT3 tumours tend to be larger, higher
+   grade and more often regionally spread than upstaged pT3; most pT3 today are high risk by PSA or
+   Gleason, and the groups overlap. Pathological stage is a powerful predictor (Fig. 164.7).
+ • Positive margin carries the greatest relative risk — more than ECE, SVI or nodes — so completely remove
+   all prostatic tissue regardless of stage.
+ • SVI, node-negative: 15-year DSS about 80% although BDFS only about a third.
+ • Biochemical recurrence depends on threshold: 0.2 ng/mL → up to 65–72% at 5 years; 0.4 ng/mL →
+   about 26% at 5 and ≥50% at 10 years.
+
+
+                                                              page 6 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                              RADICAL PROSTATECTOMY
+ • pT3bN0 at 10 years: biochemical recurrence-free about 25%, metastasis-free 70%, DSS 80%.
+ • SVI also raises local recurrence (historically nearly half), now lower through selection, technique and
+   earlier secondary treatment.
+ • Minimally invasive RP in high risk: oncological and functional outcomes comparable to open;
+   lymphadenectomy extent varies.
+ • PSA-free survival after RP in high-risk men ≈ 50% at 5–7 years; higher biopsy Gleason and PSA raise the
+   risk.
+ • Kattan preoperative nomogram, community cohort (concordance index 0.68): underestimated
+   recurrence in lower-risk and overestimated it in higher-risk men.
+ • Up to half with Gleason 8–10 or PSA >20 ng/mL have prolonged disease-free survival after RP alone;
+   better markers must identify them.
+PATHOLOGICAL STAGE AFTER RP AND OUTCOME
+ Pathological finding            5-yr clinical progression          5-yr PSA-free survival   Relative risk of progression
+ Organ-confined                  7%                                 95%                      reference
+ ECE (focal / established)       18% / 35%                          76%                      2.17–2.72
+ SVI                             86% (overall)                      37%                      2.61
+ Lymph node positive             95% (overall)                      18%                      3.31
+ Positive surgical margin        —                                  —                        4.37 (highest)
+
+ • Fig. 164.7 (Bianco, Scardino and Eastham, 2005): cancer control after RP plateaus near 90% if organ-
+   confined, about two-thirds with ECE; SVI and N+ fall below 40% by about 10 years, N+ lowest.
+
+Outcomes of Prostatectomy for Node-Positive Disease
+ • Renewed interest in surgery for N+ disease (multimodal therapy, longer life expectancy, oncological and
+   symptomatic benefit of removing the primary). Selection is unresolved; ⁶⁸Ga-PSMA-11 PET may identify
+   limited or excisable disease.
+ • Feasibility: cytoreductive RP for M1 has acceptable complications and continence; surgery after
+   neoadjuvant systemic therapy does not appear to raise perioperative complications (CALGB 90203 to
+   address).
+ • N+ after RP: about half alive at 10 years. Single positive node: nearly half without clinical progression,
+   most never needing AD, DSS >80%.
+ • N+ without adjuvant AD or RT can still achieve reasonable 10-year OS and DSS. Poor predictors: Gleason
+   >8 and >3 positive nodes.
+ • Oligometastatic (≤5 bone metastases), RP + extended node dissection + almost universal adjuvant AD
+   (small cohort): about half progression-free, most free of cancer death at about 5 years.
+ • Nodal disease as first site of clinical recurrence carried better DSS. Oligometastatic local-therapy trials are
+   ongoing.
+
+Neoadjuvant Androgen Deprivation
+ • History: 1944, radical perineal prostatectomy after orchiectomy; later, diethylstilbestrol (DES) before
+   surgery; a 1964 series had about half alive and recurrence-free at 10 years. Randomised cT1–T3 trials:
+   Table 164.5.
+ • Endpoints studied included DRE, imaging, circulating cells and pathology, but what matters is DSS or its
+   surrogate BDFS.
+
+
+
+
+                                                              page 7 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                           RADICAL PROSTATECTOMY
+ • The biological effect is real: PSA falls about 90%, prostate volume 30–50%, with spectroscopic and
+   histological atrophy (fibrosis, vacuolisation, glandular collapse), maximal within 2 months.
+CLINICAL VERSUS PATHOLOGICAL DOWNSTAGING AFTER NAD
+ Clinical downstaging                                                Pathological downstaging
+ Frequent: 32–90%                                                    Uncommon: 8–31%. Only about 20% of cT3 tumours are
+                                                                     organ-confined at RP after NAD
+
+ • Randomised cT2–T3 trial: 3 months of total androgen blockade doubled pathological downstaging overall,
+   but not in cT3 (nor nodal metastases).
+ • SVI and nodal rates are unchanged (Table 164.6).
+ • Long-term (median 6 years), 3 months NAD vs surgery alone: no overall biochemical benefit; subgroup
+   PSA >20 ng/mL did better (53% vs 35%).
+ • Southwest Oncology Group (SWOG) 9109 (phase II, T3–T4N0M0; goserelin + flutamide 16 weeks):
+   feasible, acceptable morbidity, outcomes comparable to RT (5-year progression-free 70%, OS 90%; at 10.6
+   years 40% and 68%).
+ • Margins: NAD does not significantly reduce positive margins in cT3; in cT1–T2 it clearly does, but without
+   long-term PSA-free gain. For cT3, no significant benefit of NAD before surgery (Table 164.7).
+ • Too short? Combined blockade for more than 3 months lowered PSA failure in one cohort (hazard ratio
+   [HR] 0.52).
+ • Canadian Urologic Oncology Group, 3 vs 8 months NAD before RP: 8 months → positive margins 23% →
+   12%, organ-confined 68% → 80%, yet no difference in PSA recurrence at 4 years.
+ • Newer agents (degarelix, abiraterone, enzalutamide): abiraterone + leuprolide + enzalutamide →
+   complete response or minimal residual disease about 30%; enzalutamide alone, no pathological
+   complete response; enzalutamide + leuprolide + dutasteride about 17%.
+TABLE 164.5 PROSPECTIVE RANDOMIZED TRIALS OF NEOADJUVANT ANDROGEN DEPRIVATION IN PATIENTS WITH
+PROSTATE CANCER (STAGE CT1–T3) BEFORE RADICAL PROSTATECTOMY
+ LHRH agonist                                     Antiandrogen                                  Duration (months) Trials
+ Leuprolide                                       Flutamide                                     3                   2
+ Goserelin                                        Flutamide                                     3                   1
+ Triptorelin                                      Cyproterone                                   3                   1
+ Goserelin                                        —                                             3                   1
+ —                                                Cyproterone                                   3                   1
+ Estramustine (antimicrotubule agent derived from oestradiol; also lowers testosterone)         1.5                 1
+LHRH, luteinising hormone–releasing hormone.
+ • Pattern: almost every trial used 3 months of AD, which is the basis of the "too short" critique. The one
+   outlier used estramustine for 1.5 months.
+TABLE 164.6 PATHOLOGICAL FINDINGS FROM STUDIES OF NEOADJUVANT ANDROGEN DEPRIVATION IN PATIENTS
+WITH CT1–T3 PROSTATE CANCER BEFORE RADICAL PROSTATECTOMY
+ Finding                                                 Control (surgery alone)                         NAD
+ Seminal vesicle invasion                                6–23%                                           0–28%
+ Lymph node metastasis                                   5.8–23%                                         3.3–15%
+
+ • Pattern: the ranges overlap almost completely. NAD does not clear the seminal vesicles or nodes.
+ • Trap: one trial found significantly higher SVI after NAD (28% vs 14%). NAD does not reduce SVI.
+
+
+
+                                                              page 8 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                            RADICAL PROSTATECTOMY
+TABLE 164.7 NEOADJUVANT ANDROGEN DEPRIVATION THERAPY FOR 3 MONTHS BEFORE RADICAL PROSTATECTOMY
+IN PATIENTS WITH LOCALIZED PROSTATE CANCER: IMPACT ON PSA RECURRENCE AFTER SURGERY
+ Arm                                           PSA recurrence                             Follow-up
+ Control                                       16–41%                                     29–60 months
+ NAD (3 months)                                11–40%
+
+ • Pattern: there is no consistent direction. In several trials PSA recurrence was numerically higher with
+   NAD. Three months of NAD does not reduce biochemical failure.
+
+Neoadjuvant Chemotherapy and Chemotherapy–Hormonal Therapy
+ • Chemotherapy was confined to the most advanced disease: taxanes in hormone-refractory disease give
+   PSA falls >50% in over half and responses in 28–75%; mitoxantrone + low-dose steroid improves pain
+   relief and is approved. Hence earlier use in high risk (Table 164.8).
+ • CALGB 90203 (neoadjuvant AD + docetaxel before RP): primary endpoint (3-year biochemical recurrence)
+   not met, but overall biochemical recurrence, MFS and OS improved.
+ • Estramustine + etoposide without NAD: grade 3–4 toxicity in about a third, surgery never delayed,
+   outcomes comparable; early failures were node-positive.
+ • Docetaxel alone and nanoparticle paclitaxel: well tolerated, no pathological complete responses;
+   docetaxel gave PSA falls >50% in a proportion.
+ • Docetaxel + dose-escalated mitoxantrone (16 weeks): half relapse-free at 5 years; margins positive in a
+   third.
+ • Also tried: granulocyte–macrophage colony-stimulating factor + thalidomide; gefitinib (epidermal growth
+   factor receptor inhibitor). Roles of custirsen and immunotherapy (sipuleucel-T, ipilimumab, PD-1/PD-L1
+   inhibitors) undetermined.
+TABLE 164.8 TRIALS OF CHEMOTHERAPY, HORMONAL THERAPY, AND COMBINED CHEMOTHERAPY–HORMONAL
+THERAPY BEFORE RADICAL PROSTATECTOMY
+                                                                             With   Organ-       Positive
+ Regimen                     Agents                                          AD     confined     margins       LN+    pT0
+ KAVE                        Ketoconazole + doxorubicin/                     3 mo   33%          17%           37%    0%
+                             vinblastine + estramustine
+ E/VP-16                     Estramustine + etoposide                        No     31%          44%           13%* 0%
+ TEC                         Paclitaxel + estramustine + carboplatin 4–6            36%          22%           5.5%   0%
+                                                                     mo
+ D                           Docetaxel alone                                 No     18%          25%           14%    0%
+ D + AD                      Docetaxel                                       6 mo   53%          27%           6%     3%
+ NAD alone (23 cT3           —                                               Yes    21%          37%           21%    0–
+ trials pooled)                                                                                                       4%
+*Grouped with seminal vesicle invasion. The proportion of cT3 disease varied from 13% to 75% between regimens
+(100% in the pooled NAD trials). SVI after chemotherapy regimens was 22–85%. Undetectable preoperative PSA
+occurred in about half of men on KAVE, E/VP-16 and TEC.
+ • Purpose: to compare chemotherapy-containing regimens against NAD alone in cT3 disease.
+ • Pattern: pT0 is essentially never achieved (0–4%). Docetaxel with 6 months of AD gave the most organ-
+   confined disease.
+ • Trap: an undetectable preoperative PSA after neoadjuvant therapy does not mean pathological complete
+   response.
+
+
+
+
+                                                              page 9 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                    RADICAL PROSTATECTOMY
+
+Adjuvant Radiation Therapy
+ • Why defer further therapy until after RP: no delay to surgery, less operative morbidity, and most
+   importantly, pathology identifies who truly needs it, sparing the rest. The difficulty: benefit depends on
+   the site of failure (local or distant), which is unknown.
+ • Older studies: no effect on metastasis or DSS; newer data: better biochemical control. Adjuvant RT BDFS
+   50–88% at 5 years vs 30–50% after surgery alone in high risk (Table 164.9).
+ • Immediate RT vs observation (European Organisation for Research and Treatment of Cancer [EORTC]
+   22911, SWOG 8794, ARO 96-02; table below) reduced clinical local recurrence.
+ • EORTC 22911 detail: the positive-margin benefit (HR 0.38) held regardless of SVI or a postoperative PSA
+   above or below 0.2 ng/mL; even pT3b with a positive margin benefited.
+ • SWOG 8794 detail (median 10.6 years; PSA <0.4 ng/mL after RP): biochemical recurrence 35% vs 64%;
+   metastases 16% → 7%; less subsequent AD. With SVI, 10-year BDFS improved (36% vs 12%) but MFS and
+   OS did not.
+ • ARO 96-02 detail: ECE without SVI predicted a more favourable response to RT.
+ • Adverse features are not equivalent, yet SWOG 8794 pooled ECE, SVI and margins.
+ • Decision analysis: benefit is confined to likely local recurrence (low–intermediate grade, no SVI); consider
+   adjuvant RT for extensive or multiple positive margins.
+ • Salvage RT: about half progress afterwards; high Gleason and SVI predict poor response, yet selected
+   adverse-feature men (high grade, rapid PSA doubling time) respond durably — over half with Gleason 8–
+   10 and positive margins reached a nadir ≤0.1 ng/mL without rise.
+ • Early secondary therapy (RT or AD) may help selected men; salvage RT in pT3 was associated with better
+   OS. Optimal timing and effects on local control, metastasis and survival remain undefined.
+ • pT3b: high distant risk, but some recur only locally; with undetectable PSA, adjuvant RT improved 3-year
+   BDFS.
+ • Favourable pT3b for adjuvant RT: PSA <0.3 ng/mL after RP or positive margins. A PSA never reaching
+   undetectable → occult nodal or distant disease, poor prognosis.
+ • 24-gene signature: high-score men given postoperative RT had less 10-year metastasis, so it may predict
+   RT response.
+ • Adjuvant versus early salvage RT (RADICALS-RT, GETUG-AFU 17, RAVES and a pre-planned meta-analysis):
+   early salvage is preferred for most men.
+ • Trap: very high-risk men (Gleason 8–10, pT3b) made up only ~20% of these trials, so adjuvant RT may still
+   benefit them.
+ • Dose: traditionally lower than salvage (45 to >60 Gy); contemporary >60 Gy. BDFS better above 61.2 Gy;
+   with detectable PSA, ≥64 Gy improved freedom from failure (a dose response like primary RT). RAVES,
+   RADICALS-RT, GETUG-AFU 17 used 64–66 Gy.
+ • RTOG 0621 (Radiation Therapy Oncology Group; high risk after RP, mostly pT3–T4, Gleason ≥8): 6 months
+   AD + RT + six cycles docetaxel → 3-year freedom from progression 73% vs 50% expected, supporting
+   phase III trials.
+ • GETUG-AFU 16: 3 months of AD with RT suffices — 10-year PFS 64% vs 49% (HR 0.54).
+TABLE 164.9 EARLY ADJUVANT RADIATION THERAPY FOR LOCALLY ADVANCED PROSTATE CANCER (PT3N0M0)
+ Arm                                   Progression-free survival              Radiation dose   Follow-up
+ Observation                           37–69%                                 —                11–151 months
+ Adjuvant RT                           55–94%                                 48–70 Gy
+
+
+
+                                                              page 10 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                            RADICAL PROSTATECTOMY
+
+ Arm                                   Progression-free survival                 Radiation dose       Follow-up
+ SWOG 8794 (observation vs RT)         10-year metastasis-free survival 61% vs 71% (60–64 Gy; median 151 months)
+ Split by margin (one series)          Negative/positive margin: 53%/37% observed vs 62%/38% with RT (not significant)
+Gy, gray.
+ • Pattern: adjuvant RT is better in most series, but the non-randomised comparisons were mostly small
+   and several were not significant.
+ • Trap: the only survival-level evidence in the table is the randomised SWOG 8794 row.
+POSTOPERATIVE RADIATION THERAPY TRIALS COMPARED
+ Trial           Population             Comparison                 Primary endpoint         Verdict
+ EORTC           pT3 and/or margin Immediate RT vs                 BDFS                     BDFS 74% vs 53%; benefit only
+ 22911           +, N0             observation                                              with positive margins
+ SWOG 8794       pT3 and/or margin Immediate RT vs                 MFS                      MFS (HR 0.71) and OS (HR 0.72)
+                 +, N0             observation                                              improved
+ ARO 96-02       pT3N0,                 Adjuvant RT vs             BDFS                     BDFS HR 0.53
+                 undetectable PSA       observation
+ RADICALS-       Post-RP                Adjuvant vs early          Freedom from distant     Early salvage preferred; 5-yr
+ RT                                     salvage                    metastasis               event-free 87–94% in both arms
+ GETUG-AFU       Post-RP                Adjuvant vs early          Event-free survival
+ 17                                     salvage
+ RAVES           Post-RP                Adjuvant vs early          Biochemical recurrence
+                                        salvage                    (non-inferiority)
+
+
+ KEY POINTS: ADJUVANT RADIATION THERAPY
+   • Observation with early salvage RT appears preferable after prostatectomy.
+   • Benefit of adjuvant RT may be limited to very high-risk disease.
+   • Dose escalation (≥64 Gy) is associated with better adjuvant RT outcomes.
+
+Concept — Adjuvant RT treats a local problem. Its benefit concentrates where residual disease is local (a
+positive margin) and fades where failure is systemic (SVI, a PSA that never becomes undetectable). That is
+why, for most men, observation with early salvage matches immediate treatment.
+
+Adjuvant Androgen Deprivation
+ • Rationale: early-AD benefit in MRC and VACURG, and continued AD after RT.
+ • pT3N0 disease: no convincing benefit. Adjuvant (mostly endocrine) therapy did not improve time to
+   progression or survival. At the Mayo Clinic (pathological stage C), adjuvant AD or RT reduced progression
+   but not DSS or OS, with no difference between the two. Adjuvant goserelin improved disease-free
+   survival.
+ • pT3b and limited N+: benefit — early adjuvant AD improved time to progression and DSS; single positive
+   node → 10-year cause-specific survival 94%.
+ • ECOG 7887 (Eastern Cooperative Oncology Group; cT1–T2 with nodes at RP; median 11.9 years): the HRs
+   for overall, disease-specific and progression-free survival (1.84, 4.09, 3.42) are expressed for delayed
+   relative to immediate AD.
+ • pN1: adjuvant AD + RT beats AD alone. In a matched-pair analysis, 10-year DSS was 86% vs 70% and OS
+   74% vs 55%.
+
+
+
+
+                                                              page 11 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                                RADIATION THERAPY
+ • Observation vs lifelong AD vs AD + RT in node-positive men: AD + RT OS HR 0.41–0.46, with better DSS
+   and more benefit in higher risk. AD alone raised other-cause mortality (HR 3.05).
+ADJUVANT SYSTEMIC THERAPY AFTER RP COMPARED
+ Trial or series           Population          Intervention                   Verdict
+ ECOG 7887                 pN+ after RP        Immediate vs delayed AD        OS, DSS and PFS improved
+ Node-positive             pN+                 Observation vs AD vs AD +      AD + RT best OS; AD alone ↑ other-cause
+ cohort                                        RT                             mortality
+ Retrospective series      pT3N0               Adjuvant AD                    Less progression; no DSS or OS gain
+ SWOG S9921                High risk after     AD ± mitoxantrone              No benefit
+                           RP
+ VA CSP #553;              High risk after     Docetaxel                      No benefit
+ SPCG-12                   RP
+
+
+ KEY POINTS: RADICAL PROSTATECTOMY
+   • RP alone gives disease-free survival in at least half of men at 8–10 years, despite clinically advanced
+     disease.
+   • Recurrence risk after surgery is quantified by pathological stage, cancer grade and surgical margin
+     status.
+   • NAD before RP does not improve disease-specific or overall survival.
+
+Concept — Adjuvant AD after RP helps only once disease has left the prostate (N+, pT3b), not in pT3N0. In
+node-positive disease the survival gain comes from AD combined with local RT. AD alone carries its own non-
+cancer mortality.
+
+RADIATION THERAPY
+ • The trend is non-surgical treatment of high-risk disease. Many older cT3 series predate PSA and modern
+   techniques — three-dimensional conformal RT (3D-CRT), intensity-modulated RT (IMRT), whole-pelvis RT.
+ • Dose: ≥81 Gy improves biochemical control in higher risk; 78 vs 70 Gy helped most with PSA >10 ng/mL.
+ • EBRT or permanent brachytherapy monotherapy is probably inadequate; the focus is RT + AD, often with
+   whole-pelvis RT (Table 164.10).
+ • Trap: the demonstrated benefits of AD + RT over RT alone often do not include overall survival.
+ • RT alone, stage C: OS 60–70% at 5 years, <50% at 10; high-risk 5-year PFS typically <50%.
+
+Neoadjuvant Androgen Deprivation and Radiation Therapy
+ • Rationale: smaller target volume and cytotoxic synergy with radiation. Early RTOG trials (75-06, 83-07,
+   85-19): tolerable, better local control.
+ • RTOG 86-10 (bulky cT2–T4): goserelin + flutamide for 2 months before and 2 during RT (4 months)
+   reduced distant metastases and disease-specific mortality (23% vs 36% at 10 years). OS did not differ
+   (Table 164.10); only Gleason 2–6 appeared to gain survival, and Gleason 7–10 gained neither locoregional
+   control nor survival.
+ • RTOG 86-10 correlatives: loss of p16 → worse OS, DSS, local progression and metastasis (not OS on
+   multivariate analysis); high Ki-67 → metastasis and DSS, not OS.
+ • Canadian three-arm trial (RT vs 3 months NAD + RT vs NAD + RT + 6 months adjuvant AD): residual cancer
+   on biopsy at 24 months 65% → 28% → 5%, BDFS in parallel — supporting neoadjuvant, concurrent and
+   prolonged AD.
+
+
+                                                              page 12 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                                   RADIATION THERAPY
+ • 3 vs 8 months of NAD before RT: no change in freedom from or pattern of failure; only 5-year DFS
+   improved (see the note after Table 164.10).
+ • TROG 96.01 (Trans-Tasman Radiation Oncology Group; 66 Gy; median 10.6 years): 6 months of NAD
+   reduced PSA and local progression, improved event-free survival (HR 0.51), and reduced distant
+   progression, disease-specific and all-cause mortality (HR 0.49, 0.49, 0.63); 3 months did not affect the last
+   three.
+ • RTOG 9910 (8 vs 28 weeks NAD, each + 8 weeks concurrent): no general benefit in prolonging NAD;
+   applicability to high risk unknown.
+NEOADJUVANT AD BEFORE RP VERSUS BEFORE RT — THE GOVERNING ASYMMETRY
+ NAD before RP                                                       NAD (+ concurrent AD) with RT
+ Shrinks the gland and clinically downstages, but rarely             Shrinks the target volume and is synergistic with
+ downstages pathologically                                           radiation
+ No gain in BDFS, DSS or OS                                          Improves local control, DFS, metastasis and disease-
+                                                                     specific mortality (RTOG 86-10, TROG 96.01)
+ Longer course (8 months) improves pathology but not                 6 months better than 3 months (TROG 96.01); for high
+ PSA recurrence                                                      risk, prolonged adjuvant AD is better still
+
+
+ KEY POINTS: ANDROGEN DEPRIVATION AND RADIATION THERAPY
+   • Neoadjuvant and concurrent AD appears appropriate in high-risk patients undergoing RT.
+   • Adjuvant AD after RT may benefit those with very high-risk disease.
+
+
+Adjuvant Androgen Deprivation and Radiation Therapy
+ • RTOG 85-31 (under 30% N+): goserelin from the last week of RT indefinitely vs at relapse. Better local
+   control, BDFS and MFS, most in Gleason 8–10; OS not different overall (5 years 75% vs 72%); in high
+   grade, 5-year DSS 90% vs 78% and OS 80% vs 69%.
+ • EORTC 22863 (goserelin from the start of RT for 3 years): the only study in this set with an OS benefit (5-
+   year OS 79% vs 62%); local control 97% vs 79%. The cohort was very high risk (median PSA 30 ng/mL),
+   which may explain poor survival with RT alone.
+ • The method of AD does not matter. In the Swedish orchiectomy + RT trial, DSM did not differ and node-
+   negative men had no survival difference; poor survival came mainly from metastases present at
+   treatment.
+ • RTOG meta-analysis (trials 1975–1992): risk group 2 (cT3NX Gleason 2–6; cT1–T2NX Gleason 7; N+
+   Gleason 2–6) gained DSS from 4 months of AD; bulky or cT3 disease gained survival.
+ • RTOG 92-02 (4 months AD, 2 neoadjuvant + 2 concurrent, vs + 24 months): better on every endpoint
+   except OS; Gleason 8–10 OS 81% vs 71%, confirmed at 10 years.
+ • 70 Gy ± 6 months AD (PSA >10, Gleason ≥7 or cT3): OS and DSS improved with AD.
+ • With high-dose RT, 2 years of AD beat short-term concurrent AD for biochemical recurrence, OS and
+   MFS. 18 vs 36 months (prostate + pelvic RT): OS comparable; 18 months better on several quality-of-life
+   scales.
+ • Bottom line: intermediate risk → 2–4 months; high risk → prolonged AD. NCCN: 18–36 months with
+   EBRT; 12–36 months with brachytherapy boost.
+ • Clinical cell-cycle risk score (CAPRA + cell-cycle progression molecular score): identifies a group in whom
+   adding AD to RT did not reduce 10-year metastasis.
+
+
+
+
+                                                              page 13 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                             RADIATION THERAPY
+ • RTOG 94-13 (nodal risk >15%; 2 × 2: whole-pelvis vs prostate-only RT; neoadjuvant + concurrent vs
+   adjuvant AD for 4 months): early PFS advantage for whole-pelvis disappeared; OS unexpectedly worst
+   with whole-pelvis + adjuvant AD.
+ • Dose >72 Gy is more effective, and differences in dose make cross-trial comparison difficult.
+ • Brachytherapy in high risk is less studied: permanent or high-dose-rate + EBRT gave moderate BDFS;
+   permanent + 45 Gy EBRT without AD, about half at 10 years. Trimodality (9 months AD + brachytherapy +
+   3D-CRT): 5-year BDFS 86%, Gleason the only predictor, no cancer on final biopsy.
+ • ASCENDE-RT (NCCN intermediate and high risk; 12 months AD + pelvic RT 46 Gy + boost): EBRT boost 78
+   Gy vs low-dose-rate (LDR) brachytherapy boost — OS equal; biochemical recurrence doubled with EBRT
+   boost (HR 2.04); 9-year 85% vs 65%, diverging after 4 years.
+ • Gleason 9–10 (retrospective): EBRT + brachytherapy boost lowered cancer-specific mortality (HR 0.38–
+   0.41) and metastasis (HR 0.27–0.3) vs RP or EBRT alone, despite shorter AD (12 vs 22 months).
+TABLE 164.10 TRIALS OF ANDROGEN DEPRIVATION WITH EXTERNAL-BEAM RADIATION THERAPY
+                                    RT dose                                                                 Median
+ Trial          Eligibility         (Gy)           Arms                          DFS         OS             follow-up
+
+ NEOADJUVANT
+ RTOG           cT2–4, ≥25 cm²      44–46 WP; RT vs RT + nAD + cAD               3% vs       34% vs         12.5 yr
+ 86-10                              65–70 P                                      11%*        43%†
+ Canadian       cT2b–4              64 P           RT vs RT + nAD vs RT + n/c/   22% vs      NR             24 mo
+ trial                                             aAD (6 mo)                    72% vs
+                                                                                 90%
+ Canadian       —                   66–67 P        RT + nAD 3 mo vs 8 mo         58% vs      81% vs 79%     6.6 yr
+ trial                                                                           65%
+ ADJUVANT
+ RTOG           cT3, pT3 or N1      44–46 WP; RT vs RT + aAD (indefinite)        8% vs 32%   38% vs 53%     7.3 yr
+ 85-31                              65–70 P
+ EORTC          T1–2 grade 3;       50 WP; 70      RT vs RT + aAD (3 yr)         40% vs      62% vs         66 mo
+ 22863          T3–4                P                                            74%         78%‡
+ Swedish        T1–4, pN0–3,        50 WP; 65      RT vs RT + orchiectomy        39% vs      38% vs         9.3 yr
+ trial          M0                  P                                            69%         61%*
+ RTOG           T2c–4, PSA <150 44–50 WP; RT + n/cAD vs + n/c/aAD (2 yr)         28% vs      79% vs 80%     5.8 yr
+ 92-02                          65–70 P                                          46%
+ RTOG           PSA <100, >15%      50.4 WP;       n/cAD + WP; n/cAD + PRT; WP   31–38%      67%, 69%,      84 mo
+ 94-13          nodal risk          70.2 P         + aAD; PRT + aAD (4 mo)                   59%§, 68%
+*P = .02. †P = .12; differed only for Gleason 2–6. ‡P = .0002. §Lower survival with WP + aAD (P = .027; updated analysis,
+2007). RTOG 86-10 data updated 2008. aAD, adjuvant AD; cAD, concurrent AD; nAD, neoadjuvant AD; P, prostate; PRT,
+prostate-only RT; WP, whole pelvis; NR, not reported.
+ • What the table is for: to set short neoadjuvant/concurrent AD (86-10, 94-13) against long adjuvant AD
+   (85-31, 22863, 92-02).
+ • Pattern: DFS improves in every trial. OS improves clearly only with long AD in high-risk cohorts (EORTC
+   22863; Gleason 8–10 subsets of 85-31 and 92-02).
+ • Trap: RTOG 94-13's whole-pelvis + adjuvant arm had the worst OS. More field plus later AD is not better.
+
+
+
+
+                                                              page 14 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                                     RADIATION THERAPY
+WHERE BODY TEXT AND TABLE 164.10 GIVE DIFFERENT VALUES
+                                                         Table
+ Endpoint                  Body text                     164.10          Reason
+ EORTC 22863 5-yr OS 79% vs 62%                          78% vs          Different reports: original (1997) vs updated (2002)
+                                                         62%             data cut
+ EORTC 22863 DFS           85% vs 48%                    74% vs          Different data cut (2002 update, median 66 months)
+                                                         40%
+ RTOG 85-31 OS             8-yr 49% vs 42% (not          53% vs          Different report and time point (2003 report, median
+                           significant)                  38%             7.3 years)
+ 3 vs 8 months NAD         71% vs 42% (8 vs 3 mo)        65% vs          Text figure is probably the high-risk subgroup; the
+ 5-yr DFS                                                58%             table gives the whole cohort
+
+DURATION OF AD WITH RT: TRIALS COMPARED
+ Trial                  Population             Comparison                     Verdict
+ RTOG 86-10             Bulky cT2–T4           4 mo vs none                   Better control and DSM; OS unchanged
+ TROG 96.01             cT2b–4N0               3 vs 6 mo vs none              6 mo reduced all-cause mortality; 3 mo did not
+ RTOG 9910              Intermediate risk      8 vs 28 wk NAD                 No difference
+ RTOG 92-02             cT2c–T4                4 vs 28 mo                     Better except OS; OS gain in Gleason 8–10
+ EORTC 22863            High risk              3 yr vs none                   OS gain
+ 18 vs 36 mo            High risk              18 vs 36 mo                    OS comparable; 18 mo better QoL
+ High-dose RT trial     Intermediate/high      2 yr vs short concurrent       2 yr better, mainly high risk
+
+Radiation Therapy and Chemotherapy
+ • Less well studied than chemotherapy with surgery.
+ • Estramustine + vinblastine with RT (65–70 Gy): clinical control was reasonable at 5 years, but only about
+   half had PSA <4 ng/mL. At 75.6 Gy in high risk (phase II), there was only modest grade 2 toxicity, no late
+   grade 3–4 toxicity, and 2-year BDFS of 60%.
+ • Estramustine + etoposide before and during RT: reasonable 3-year DFS and OS, with biopsy-proven local
+   control in most at 18 months.
+ • Concurrent docetaxel + RT (70.2 Gy), phase I: maximum tolerated dose 20 mg/m². The main toxicities
+   were diarrhoea and dysuria.
+ • Randomised systemic intensification with RT is summarised in the table below. Details not in the table:
+   RTOG 0521 was over half Gleason 9–10, which may explain why it succeeded where adjuvant docetaxel
+   alone after RT + AD (intermediate and high risk) did not. GETUG 12 (cT3/T4, Gleason ≥8, PSA ≥20 or pN+)
+   added no toxicity or second cancers.
+ • STAMPEDE (about half high-risk or N+M0, mostly RT): it is unresolved whether the benefit needs
+   aggressive treatment of the prostate, or is confined to metastatic rather than locally advanced disease.
+   High-risk M0 eligibility for the abiraterone comparison: pelvic nodes, or two of Gleason ≥8, cT3–4, PSA
+   ≥40 ng/mL.
+ • NCCN 2023: RT + AD with 2 years of abiraterone for very high-risk prostate cancer.
+SYSTEMIC INTENSIFICATION WITH RT: TRIALS COMPARED
+ Trial                    Added agent                           Backbone                 Verdict
+ RTOG 9902                Paclitaxel + estramustine +           Long-term AD + RT        No benefit; closed early
+                          etoposide                                                      (thromboembolism)
+ RTOG 0521                Docetaxel                             Long-term AD + RT        OS HR 0.69
+
+
+
+                                                              page 15 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                            FOCAL ABLATIVE THERAPY
+
+ Trial                    Added agent                           Backbone              Verdict
+ Adjuvant docetaxel       Docetaxel (six cycles)                RT + AD               No biochemical benefit
+ trial
+ GETUG 12                 Docetaxel + estramustine              Prolonged AD (mostly Relapse-free 62% vs 50% (HR 0.71)
+                                                                + RT)
+ STAMPEDE                 Docetaxel or abiraterone              AD (mostly + RT)      OS and failure-free survival improved
+ STAMPEDE (M0 high Abiraterone 2 yr (±                          AD 36 mo + RT         MFS HR 0.53; OS HR 0.6 → NCCN very
+ risk)             enzalutamide)                                                      high risk
+
+Concept — RT for locally advanced disease is a combined-modality treatment. The dose must be high, AD
+must be added and prolonged in proportion to risk, and systemic intensification (docetaxel, abiraterone) pays
+off only when the disease burden is high enough to have systemic reach.
+
+FOCAL ABLATIVE THERAPY
+ • Minimally invasive, usually focal ablation to spare whole-gland side effects; cryotherapy and high-
+   intensity focused ultrasound (HIFU) are commonest; photodynamic therapy, focal laser ablation and
+   irreversible electroporation need validation. Technologies are not rigorously compared and high-risk data
+   are limited.
+
+Cryoablation
+ • Primary cryoablation (many high-risk men): 5-year BDFS (PSA <1 ng/mL) about 40%, and about 35% with
+   PSA ≥10 and/or Gleason ≥8.
+ • With stricter thresholds (0.5 or 0.2 ng/mL), 2-year biochemical failure exceeds 80%.
+ • Randomised trial, cT2c–T3, 6 months of AD + cryoablation vs RT (66 Gy): DSS and OS did not differ, but
+   cryoablation gave shorter PSA-free survival (28 vs 41 months) and more biochemical failure (87% vs
+   53%).
+
+High-Intensity Focused Ultrasonography
+ • Data are confounded by frequent omission of risk stratification and common use of AD to reduce prostate
+   size.
+ • AD + HIFU, locally advanced: good 1-year control (PSA <0.3 ng/mL, negative sextant biopsies in most; no
+   clinical progression).
+ • NAD improves HIFU in D'Amico high risk (fewer positive biopsies and biochemical failures); worse 3-year
+   DFS independently with stage ≥cT2c (HR 2.34) and no NAD (HR 2.19). As with RT, NAD helps mainly
+   intermediate and high risk.
+ • UK HIFU registry: D'Amico high-risk men had about 65% failure-free survival at 7 years.
+CRYOABLATION VERSUS HIFU IN HIGHER-RISK DISEASE
+ Cryoablation                                                        HIFU
+ Randomised against RT: equal survival, worse                        No randomised comparison; confounded series
+ biochemical control
+ Outcome collapses with strict PSA thresholds                        NAD independently improves DFS; stage ≥cT2c predicts
+                                                                     failure
+
+Concept — Ablation behaves like RT: local energy alone underperforms in high-risk disease and does better
+with added AD. Judged by thresholds as strict as those used after surgery, cryotherapy's apparent control
+largely disappears.
+
+
+
+                                                              page 16 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                 ANDROGEN DEPRIVATION AND ITS TIMING
+
+ANDROGEN DEPRIVATION AND ITS TIMING
+ • VACURG I (placebo vs DES 5 mg vs orchiectomy ± DES): the absent OS benefit was not explained by DES
+   cardiovascular deaths alone, because orchiectomy + placebo also did not beat placebo.
+ • VACURG II (DES 0.2, 1 or 5 mg): 1 and 5 mg delayed stage III progression. Immediate oestrogen was most
+   beneficial under 75 years with Gleason 7–10.
+ • VACURG III (stage II): 5-year survival 48% with placebo vs 75% with DES 1 mg.
+ • VACURG overall: early AD helps progression, and possibly survival, only in aggressive subsets; avoid
+   oestrogen (DES cardiotoxicity at higher doses). PSA kinetics and imaging now time delayed AD better.
+ • MRC (orchiectomy or LHRH agonist; about half locally advanced): two-thirds of deaths were from
+   prostate cancer; the reduction in cancer deaths with immediate AD was mainly in M0 disease.
+ • MRC as benchmark (cT3M0): median time to cancer death 90 months and OS 64 months, both not
+   reached in EORTC 22863 → part of the AD + RT benefit may be AD alone.
+ • SPCG-7/SFUO-3 (Scandinavian Prostate Cancer Group / Swedish Association for Urological Oncology; 78%
+   cT3): total AD then continuous flutamide ± RT; overall mortality RR 0.68; PSA recurrence 75% with AD
+   alone vs 26% with RT. Limitations: unconventional endocrine regimen, open design.
+ • MRC PR07 (more advanced disease; pelvic nodes irradiated): DSS HR 0.54 at 7 years.
+ • Immediate vs deferred subcapsular orchiectomy (men unsuitable for or unwilling to have local therapy;
+   two-thirds ≥T3; median PSA >46): most deferred men who never needed AD died of other causes. Median
+   time to deferred AD 3.2 years, prompted mostly by skeletal metastases and ureteric obstruction; trend
+   to better DSS with immediate AD (HR 0.63, not significant).
+ • Bicalutamide 150 mg (to spare castration effects), locally advanced: survival HR 0.68 vs placebo;
+   progression risk down 43% overall, HR 0.4 in locally advanced.
+ • Early Prostate Cancer programme (three trials): better PFS, no OS difference; locally advanced without
+   local therapy appeared to benefit, but primary bicalutamide in localised disease raised death risk (HR
+   1.23) vs surveillance — inappropriate at low risk, cautious use at high risk.
+ • Adjuvant flutamide 750 mg after RP (pT3–T4N0): recurrence-free HR 0.51, OS unchanged (HR 1.04);
+   toxicity caused nearly half of withdrawals.
+EARLY VERSUS DEFERRED AD, AND AD ± RT: TRIALS COMPARED
+ Trial                                  Question                              Verdict
+ VACURG I                               DES 5 mg / orchiectomy vs             Less progression; no OS gain
+                                        placebo
+ VACURG II                              DES dose                              1 mg improved OS; 5 mg cardiovascular deaths
+ VACURG III                             DES 1 mg in stage II                  Better 5-yr survival
+ MRC                                    Immediate vs delayed AD               Fewer cancer deaths (mainly M0); OS improved
+ Immediate vs deferred                  Men declining local therapy           OS equal; 42% of deferred never needed AD
+ orchiectomy
+ SPCG-7/SFUO-3                          AD ± RT                               RT cut cancer-specific (RR 0.44) and overall
+                                                                              mortality
+ MRC PR07                               AD ± RT                               OS HR 0.77; cancer death HR 0.46
+ Early Prostate Cancer                  Bicalutamide 150 mg vs placebo PFS gain; harm in localised disease
+ programme
+
+
+ KEY POINTS: ANDROGEN DEPRIVATION
+   • Early AD may improve survival in selected patients.
+
+
+                                                              page 17 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                             MANAGEMENT OF DELAYED SEQUELAE
+   • Alternative androgen manipulation (antiandrogen, intermittent) remains investigational.
+
+
+Intermittent Androgen Deprivation
+ • Aim: less AD morbidity. Protocol: total AD → PSA <4 ng/mL at 24–32 weeks → stop at 36 weeks →
+   monitor → restart at the pretreatment PSA (if <15 ng/mL) or at 15 ng/mL.
+ • Off-treatment intervals shorten each cycle (about 46 → 37 → 23 weeks). Non-metastatic men: no clinical
+   progression, PSA failure 11%, all alive.
+ • Optimal timing is undetermined, particularly in light of the trial of intermittent vs continuous AD in
+   metastatic hormone-sensitive disease.
+
+Quality of Life
+ • Early AD must be balanced against its side effects. Effects on bone, cognition and quality of life have only
+   recently been appreciated.
+BICALUTAMIDE 150 MG VERSUS CASTRATION
+ Bicalutamide 150 mg                                                 Castration
+ Better sexual interest and physical capacity; more                  More hot flushes
+ gynaecomastia, breast pain, asthenia; trend to lower
+ overall quality of life
+
+ • Intermittent AD: off-treatment cycles improved potency and social and family well-being.
+ • AD + RT adds toxicity: NAD → later grade ≥2 gastrointestinal and genitourinary morbidity; adjuvant AD →
+   late grade 2–4 rectal toxicity.
+ • Sexual function (a contrast): potency similar with or without AD in RTOG 86-10 (81% vs 74%), and AD
+   added nothing to post-RT decline elsewhere; yet after 3D-CRT NAD independently predicted erectile
+   dysfunction. Morbidity may track AD beyond 6–9 months. Overall 5-year toxicity after 3D-CRT was <10%.
+ • Number-needed-to-treat model (cT2c–T4N0–1): long-term AD + RT benefits outweigh side effects and
+   beat short-term AD on virtually every endpoint.
+ • Cardiovascular: adjuvant AD in RTOG 85-31 (median 4.2 years) did not raise cardiovascular mortality;
+   short-term NAD in RTOG 86-10 did not raise fatal cardiac events.
+Concept — Early AD buys progression-free time, not reliably survival. Survival gains appear only in
+aggressive subsets and when AD is paired with local RT. AD alone neither cures nor controls the primary
+tumour, and its toxicity has to be paid for with a real benefit.
+
+MANAGEMENT OF DELAYED SEQUELAE
+ • RP and RT are hard to compare (mostly historical data). Leaving the prostate in situ matters because local
+   control may affect survival and local recurrence may need further treatment: 10-year local recurrence
+   after RT for cT3 is 24–74%.
+ • After RT alone: TURP (transurethral resection of the prostate) for obstruction in about a third,
+   hydronephrosis 20%, incontinence 13%. Untreated stage C (older series): infection 80%, outlet
+   obstruction 75%, gross haematuria 45%, ureteric obstruction 40%.
+ • AD does not prevent local progression: about a third needed TURP 60 days after orchiectomy;
+   orchiectomy, RT or both gave comparable local control; with early or deferred AD over half needed TURP,
+   and deferred AD was prompted by ureteric obstruction (25%), anticipated local complications (10%) and
+   rectal infiltration (4%).
+
+
+
+
+                                                              page 18 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                                  CLINICAL TRIALS
+ • Stage and quality of life (Functional Assessment of Cancer Therapy [FACT]; UCLA Prostate Cancer Index
+   urinary subscale; Hospital Anxiety and Depression Scale [HADS]): higher stage worsens nearly every FACT
+   subscale, mainly physical, with no link to HADS psychological symptoms.
+ • RT monotherapy, high risk: bowel function near normative but more bowel bother and diarrhoea;
+   progression or need for AD worsened sexual, urinary, social function and sleep.
+ • CaPSURE: AD with surgery or RT → sexual loss recovering within 9 months; EBRT + brachytherapy →
+   continuing decline in urinary function and bother, worse bowel at 1 year and urinary irritation through 3
+   years vs EBRT alone.
+ • SWOG 8794: adjuvant RT worsened bowel and urinary function, not erectile function; more symptom
+   distress; global quality of life initially worse, then steadily improved.
+ • NCCN high/very high risk: more intense therapy → worse urinary symptoms at 1 year, converging later.
+Concept — A prostate left untreated or unremoved causes its own morbidity (obstruction, haematuria,
+ureteric obstruction) that AD does not prevent. This is the functional argument for definitive treatment of the
+primary, and it has to be weighed against the added toxicity of multimodal therapy.
+
+CLINICAL TRIALS
+ • Suboptimal outcomes → consider trial enrolment (clinicaltrials.gov).
+ • SPCG-15 (newly diagnosed cT3N0M0, PSA <100 ng/mL): RP vs RT + AD, with disease-specific survival as
+   the primary endpoint.
+ • Genomic Umbrella Neoadjuvant Study: AD + apalutamide while tumours are sequenced, then targeted
+   agents added (PARP inhibitor for DNA repair defects, PD-L1 inhibitor for microsatellite instability).
+ • Open questions: type and timing of combination treatment, role of chemotherapy, biomarker-directed
+   selection.
+TABLE 164.11 CURRENT AND PENDING PHASE III CLINICAL TRIALS IN LOCALLY ADVANCED/HIGH-RISK PROSTATE
+CANCER
+ Setting              Trial                  Key eligibility                                 Question
+ Radical              AUO AP 55/09           Gleason 7–10 or PSA >10                         Limited vs extended pelvic
+ prostatectomy        (SEAL)                                                                 lymphadenectomy
+                      PROTEUS                Gleason ≥4+3 with ≥6 positive cores; Gleason    NAD ± apalutamide
+                      (neoadjuvant)          ≥4+3, ≥3 cores and PSA ≥20; Gleason ≥9; or ≥2
+                                             cores of Gleason ≥8 each ≥80% involved
+                      ECOG ERADICATE         Decipher ≥0.6 and CAPRA-S ≥3                    1 year AD ± darolutamide
+                      (adjuvant)
+                      NRG-GU002 RADD         Gleason ≥7, cN0/x, persistent PSA ≥0.2 after    AD + RT ± docetaxel
+                      (adjuvant)             RP
+                      AFU-GETUG 20           PSA <0.1 after RP and pT3b, Gleason >7, or      Surveillance vs 24 months
+                      (adjuvant)             Gleason 7 with tertiary 5                       AD
+ External-beam        RTOG 0924              Gleason 7–10, cT1c–2b, PSA <50; or Gleason 6    NAD + prostate/SV RT vs
+ RT                                          with cT2c–4 or >50% cores, PSA <50; or          whole-pelvic RT
+                                             Gleason 6, cT1c–2b, PSA >20
+                      GETUG-AFU 18           cT3–T4, PSA >20 or Gleason 8–10; N0             AD 3 yr + 70 vs 80 Gy
+                      (fully accrued)
+                      PEACE 2                Two or more of cT3–T4, Gleason ≥8, PSA ≥20      Adding pelvic RT and
+                                                                                             cabazitaxel to prostate RT +
+                                                                                             3 yr AD
+
+
+
+
+                                                              page 19 of 20
+Chapter 164 — Treatment of Locally Advanced Prostate Cancer                                                   CLINICAL TRIALS
+
+ Setting              Trial                  Key eligibility                                Question
+                      ATLAS (adjuvant)       Gleason ≥8 and ≥cT2c, or Gleason ≥7 with PSA   74–80 Gy + 30 mo AD ±
+                                             ≥20 and ≥cT2c                                  apalutamide
+                      RTOG 1115              High-risk Gleason/PSA combinations, PSA ≤150 AD 24 mo + dose-escalated
+                      (abstract                                                           RT ± TAK-700
+                      presented)
+                      ENZARAD                Gleason 8–10, or Gleason 4+3 with cT2b–4       RT + 24 mo AD ±
+                                             and PSA >20, or cN1                            enzalutamide
+
+ • Pattern: almost every open question is about adding a newer hormonal agent (apalutamide,
+   darolutamide, enzalutamide, TAK-700) or chemotherapy to a standard backbone, or about field and
+   dose (lymphadenectomy extent, pelvic RT, 70 vs 80 Gy).
+
+
+
+
+                                                              page 20 of 20
+

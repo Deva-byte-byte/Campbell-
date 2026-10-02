@@ -1,0 +1,1134 @@
+Chapter 163 — Focal Therapy of Prostate Cancer
+
+Chapter 163 — Focal Therapy of Prostate Cancer
+Campbell-Walsh-Wein Urology · Chapter Notes
+
+ • Global incidence about 30.6 per 100,000 per year; prostate cancer is the second most incident cancer in
+   men worldwide.
+ • In the United States it is the commonest solid-organ malignancy in men and the second leading cause of
+   cancer death in men.
+ • Incidence has risen over a 10-year period, particularly in countries with a high Human Development
+   Index and per-capita gross domestic product.
+ • Overdiagnosis and overtreatment controversy: radical treatment is oncologically effective, but more men
+   than necessary bear its collateral damage to the cavernosal nerves, urinary sphincter and adjacent
+   organs.
+ • Three developments drive interest in gland-sparing targeted therapy: multiparametric magnetic
+   resonance imaging (mpMRI), MRI-fusion targeted biopsy, and recognition that Gleason grade 4 and 5
+   cancers are the biologically lethal subgroup.
+ • Definition — focal therapy (FT): guided ablation of a cancerous lesion that is image defined and biopsy
+   confirmed (or biopsy confirmed only), with a safety margin around the target.
+
+Concepts and Historical Perspective
+ • Model: breast conservation. The Halsted mastectomy gave way to local excision with reconstruction;
+   prostate FT followed that paradigm shift.
+ • Evolution: subtotal ablation sparing one or both neurovascular bundles → "male
+   lumpectomy" (hemiablation), the first form of FT → true image-guided focal destruction with a margin
+   of normal tissue.
+ • Early ablations lacked advanced imaging; localisation ranged from standard transrectal biopsy to 5-mm
+   transperineal template grids.
+ • Treatment always balances cancer aggressiveness against life expectancy. FT aims to treat only the foci
+   that threaten survival or quality of life, preserving surrounding tissue and so sexual and urinary function.
+Concept — FT is the prostate's version of breast conservation: its legitimacy depends entirely on being able to
+see, sample and ablate the lesion that matters.
+
+Biologic Basis for Prostate Focal Therapy
+Using Cancer Grade as an Indication of Aggressiveness
+ • Best predictors of prostate cancer mortality: tumour grade, serum prostate-specific antigen (PSA) and
+   clinical stage. In low-volume localised disease, grade is the earliest indicator of lethal potential.
+ • Gleason grading (Donald Gleason, 1973), in modified form, remains the most effective practical
+   prognosticator of aggressiveness.
+ • Hanahan–Weinberg hallmarks of cancer (2000; expanded 2011): acquired self-sufficiency, immortality
+   and invasive capability (Fig. 163.1). Gleason grade 4 and 5 carry many more hallmarks than grade 3.
+
+
+
+
+                                                  page 1 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer
+HALLMARKS OF MALIGNANCY IN GLEASON 4/5 VERSUS GLEASON 3
+ Hallmark                     Molecular evidence favouring high grade
+ Unopposed growth             Hundreds of genes differentially expressed between 3+3 and 4+4 (laser-capture
+                              microdissection): androgen receptor, epidermal growth factor receptor (EGFR), tumour
+                              necrosis factor-α (TNF-α), Notch, developmental and embryonal stem-cell pathways. EGFR
+                              copy number is not increased on fluorescence in situ hybridisation (FISH), but aneusomy of
+                              chromosomes 7, 8 and 17 and HER-2/neu amplification occur almost only in pattern 4.
+ Loss of tumour               Size of heterozygous 6q and 16q deletions (the commonest deleted segments, rich in
+ suppression                  suppressor genes) correlates with Gleason score.
+ Loss of cell-cycle           Cyclin D2 promoter methylation rises with Gleason score; loss of p27(kip1) correlates with
+ control                      grade.
+ Resistance to apoptosis      An 86-gene panel separates pattern 3 from 4/5. Defender against apoptosis 1 (DAD1), a
+                              nuclear factor-κB (NF-κB) target linked with perineural invasion, stains more intensely in
+                              grade 4/5. Bcl-2 is overexpressed already in hormone-naive high-grade, high-stage, highly
+                              proliferative cancer.
+ Angiogenesis                 Small-calibre, irregular vessels (CD34 immunostaining) mark men far more likely to die of
+                              cancer. Vascular endothelial growth factor (VEGF)/PK-1 expression rises with Gleason
+                              score.
+ Invasion and metastasis The epithelial–mesenchymal transition (EMT) marker profile tracks Gleason score.
+                         Secreted frizzled-related protein 4 (SFRP4), a Wnt regulator, is higher in grade groups 3–5
+                         and in lethal and metastatic cancer.
+
+ • What the table is for: every hallmark points the same way, so pattern 4/5 is the priority target. In early
+   low-volume disease, focal treatment of these areas may eradicate lethal cancer while the benign/pattern
+   3 remainder is surveilled.
+ • Trap: EGFR copy number does not rise in pattern 4 on FISH. The pattern 4 abnormalities are chromosomal
+   aneusomy and HER-2/neu amplification.
+Figure legends
+ • Fig. 163.1: emerging and established hallmark capabilities and enabling characteristics of cancer
+   (modified from Hanahan and Weinberg, 2011).
+ • Fig. 163.2: (A) unifocal cancer; (B) multifocal cancer with a clear index lesion and smaller secondary foci
+   (the commonest pattern); (C) multifocal cancer with an unclear index tumour. Metastases to brain, lung,
+   liver, spine, pelvic nodes and bone arise from the index lesion (from Perera et al., 2016).
+
+Multifocality of Prostate Cancer Versus the Index Lesion Hypothesis
+ • Most prostate cancer is multifocal (50–91%) in radical prostatectomy specimens. One Korean series is the
+   exception, reporting a unifocal majority (Table 163.1).
+ • Index lesion (IL) = the largest or highest-grade tumour focus. The index lesion hypothesis holds that the
+   IL determines the course of the cancer.
+
+INDEX LESION HYPOTHESIS — EVIDENCE FOR AND AGAINST
+ Supports the hypothesis                                         Challenges the hypothesis
+ 1. The IL sets grade and stage: the large majority of           Aggressive features (largest size, highest grade, highest
+ extracapsular extension arises from the IL, especially          stage) sit in a satellite rather than the IL 12–38% of the
+ when PSA is <10 ng/mL.                                          time.
+ 2. The IL carries most of the tumour volume, roughly 80–        A minority of ILs have a lower Gleason score than an
+ 90%. Total and index volume both predict biochemical            adjacent nonindex lesion, and extraprostatic extension
+ recurrence, so treating the IL deals with most                  (EPE) can arise from nonindex lesions. The IL Gleason
+ intraglandular tumour.                                          matches the overall Gleason in only about two-thirds of
+                                                                 specimens.
+
+
+                                                          page 2 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer
+
+ Supports the hypothesis                                     Challenges the hypothesis
+ 3. Satellites are small and low grade. Stamey (1993):      Yet in most multifocal glands (about 9 in 10), the highest
+ insignificant cancer <0.5 mL. Unifocal cancer is 12.4–25%, grade, largest volume and EPE do all lie in the IL.
+ but counting satellites <0.5 mL as insignificant raises
+ "unifocal" to 52–93.4%. Most secondary cancers are <0.5
+ mL.
+ 4. Metastases are monoclonal. Multifocal lesions differ in Case report: a lethal metastatic clone traced to a small
+ mutation, copy number, methylation and expression          Gleason pattern 3 focus, not to the high-grade lesions.
+ (multiple lineages). At autopsy, metastases share the
+ copy-number signature of a single parent cell.
+
+ • Stamey threshold, derivation: Surveillance, Epidemiology, and End Results (SEER) data put the lifetime
+   probability of significant cancer at 8%. The largest 8% of cancers in the Stanford cystoprostatectomy series
+   measured 0.5–6.1 mL, so 0.5 mL became the cut-off.
+ • Applying Stamey's rationale to modern series gives higher thresholds for significant cancer: >1.09 mL
+   (Charing Cross) and >1.31 mL (Rotterdam arm of the European Randomised Study of Screening for
+   Prostate Cancer). So far more men would be eligible for FT than the older pathology suggests.
+ • Conclusion: if the IL is accurately identified and ablated, most of the tumour and its most aggressive
+   components are treated. In theory, removing the lethal component could prevent metastasis and death.
+ • These biological exceptions explain some FT failures, so close post-treatment surveillance is mandatory
+   for timely salvage. The same exceptions also cause failures of whole-gland therapy and active
+   surveillance (AS).
+
+TABLE 163.1 Whole-Mount Histology Studies Demonstrating the Multifocality of Prostate Cancer
+Whole-mount radical prostatectomy series, 1992–2015; rows grouped by era.
+                                           Organ-
+                                           confined                      Unifocal once satellites
+ Era of publication                        (pT2)      Unifocal           <0.5 mL are discounted     Multifocal
+ 1992–2000 (5 series)                      Rarely     17–50%             Not reported               50–83%
+                                           reported
+ 2002–2015, PSA-screening era (14          50–89%     8.9–36% (Korean 33–93.4%                      64–99.1% (Korean
+ series; PSA means/medians 3–16                       outlier 66.7%)                                outlier 33.3%)
+ ng/mL)
+
+ • What the table is for: it shows that multifocality is the rule, which looks like the central objection to FT.
+ • Pattern across the rows: multifocality is higher in the PSA era. Once small satellites are discounted,
+   however, most glands become functionally unifocal, and that turns the table from an objection into an
+   argument for FT.
+ • Range in the text vs the table: the text quotes multifocality 50–91%, while the table runs from 33.3%
+   (Korean series) to 99.1%. The text range sets aside the extremes. For "unifocal with satellites", the text
+   gives 52–93.4% and the table 33–93.4%.
+ • Trap: "multifocal, therefore unsuitable for FT." What matters is whether there is one significant lesion
+   plus insignificant satellites, not the count of foci.
+Concept — The index lesion hypothesis turns prostate cancer from a disease of the gland into a disease of
+one lesion. FT stands or falls on it, and its exceptions are why FT is always paired with surveillance.
+
+
+
+
+                                                      page 3 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                    Clinical Applications of Focal Therapy
+
+CLINICAL APPLICATIONS OF FOCAL THERAPY
+
+Treating the Index Lesion
+ • It is increasingly accepted that the natural history is driven by a primary lesion rather than by secondary
+   lesions.
+ • Eradicating the dangerous foci gives oncological control while better preserving quality of life. The
+   secondary lesions are placed on AS.
+
+The Complementary Roles of Focal Therapy and Active Surveillance
+ • The two largest AS cohorts now have 10–15 years of follow-up and show an extremely low metastasis
+   rate in D'Amico low-risk disease.
+ • In the more inclusive cohort (up to low-volume 3+4), most men who progressed had Gleason 3+4.
+ • Prostate Intervention Versus Observation Trial (PIVOT): the survival benefit of prostatectomy over
+   observation was seen in the intermediate-risk subgroup.
+ • Hence grade 4 is the therapeutic target. The strategy is FT to intermediate- or high-grade foci plus AS for
+   the low-grade remainder, with focal retreatment of any new higher-grade focus. The aim is to turn
+   prostate cancer into a chronic disease, in keeping with its long natural history.
+ • Multidisciplinary team sequence (uro-oncologists, radiologists, pathologists): map disease extent by
+   advanced imaging and biopsy → confirm benefit and compliance with follow-up → completely ablate
+   the IL(s) → monitor with imaging and biopsy → retreat persistent or de novo disease focally, or convert
+   to whole-gland treatment.
+Concept — FT and AS are not rivals but two halves of one strategy: ablate the grade 4 disease that kills, and
+watch the grade 3 disease that does not.
+
+PATIENT SELECTION
+ • Patient selection is the fundamental tenet of FT. The aggressive lesion must be identified and its extent
+   delineated for complete ablation.
+ • Recurrence and persistence are more likely than after radical therapy, so the patient must be compliant,
+   willing and psychologically suited to close surveillance.
+ • The lesion is identified histologically and/or radiologically. mpMRI shows the whole gland and may
+   predict aggressive histology, but consensus requires biopsy confirmation.
+ • Imaging is imperfect at excluding aggressive cancer, so many experts add a systematic biopsy.
+
+Biopsy-Based Lesion Identification
+ • Early work aimed at lateralisation for hemiablation, largely in low-grade disease that would now go to AS.
+   It still shows how well biopsy maps cancer.
+ • Transrectal ultrasonography (TRUS)-guided biopsy unilaterality is the strongest predictor of pathological
+   unilaterality. Sensitivity and negative predictive value (NPV) are high, but specificity and positive
+   predictive value (PPV) are poor.
+ • Extended cores beat sextant cores on specificity and NPV, but even 24-core TRUS leaves specificity low.
+   Adding transrectal cores has a ceiling because sampling is random and the anterior zone is poorly
+   accessible transrectally.
+ • Transperineal mapping biopsy (TMB), 1990s: equal access to anterior and posterior gland, and a 5-mm
+   grid or template gives consistent core density and distribution.
+
+
+
+
+                                                  page 4 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                                                Patient Selection
+ • Against TMB, staging TRUS biopsy misses almost half of the disease relevant to hemiablation. More than
+   half of men with unilateral cancer on TRUS are disqualified after TMB.
+ • Predictive models are weak. Only PSA ≤4 ng/mL and unilateral cancer on biopsy predicted unilateral
+   disease; another model reached only chance-level discrimination (area under the curve, AUC, 0.52). More
+   than 2 positive TRUS cores predicted persistence or biochemical recurrence after focal treatment.
+ • These data aimed to locate all cancer. Current interest is in preferential detection of Gleason 4/5,
+   because detecting more pattern 3 disease drives overtreatment.
+
+TRANSRECTAL VERSUS TRANSPERINEAL BIOPSY FOR FOCAL THERAPY MAPPING
+                              Systematic TRUS biopsy                             Transperineal mapping biopsy
+ Anterior zone                Poorly sampled; no standard method                 Equal anterior and posterior access
+ Core distribution            Random                                             5-mm grid or template, consistent
+ Lateralisation               High NPV, poor specificity; ceiling despite more   Reference standard of the pre-MRI era
+                              cores
+ Consequence                  Over-selects men as "unilateral"                   Disqualifies over half of TRUS-unilateral
+                                                                                 men
+
+Advanced Imaging Techniques in Prostate Cancer
+Multiparametric MRI (mpMRI)
+ • High-field magnets, contrast agents and better protocols added functional to anatomical imaging, giving
+   high diagnostic accuracy. mpMRI is the key enabler of FT. It can do the following:
+    1. Preferentially detect high-grade lesions. Dynamic contrast-enhanced (DCE) gadolinium imaging picks
+       up vascularised, larger, higher-grade foci. Diffusion-weighted imaging (DWI) maps water mobility and
+       shows the high cellularity of lost glandular architecture.
+    2. Detect anterior-zone cancer, which is 15–33% of cancers. These tumours are diagnosed late because
+       TRUS biopsy misses them, but are readily seen on mpMRI. Caught early, they are ideal for FT:
+       complete ablation sparing both neurovascular bundles.
+    3. Detect EPE: accuracy 62–74%, sensitivity 35–63%, specificity 73–91%, PPV 36–85%, NPV 57–92%.
+       mpMRI outperforms the Partin tables and adds limited pelvic staging.
+    4. Identify the IL. Sensitivity is modest overall but highest for tumours >1 cm, Gleason ≥7 and index
+       tumours. IL location agrees closely with the prostatectomy specimen. Significant cancers that mpMRI
+       misses are mostly nonindex foci with <20% pattern 4.
+ • PROMIS (mpMRI against 5-mm grid TMB, 11 centres with varied equipment and expertise) for clinically
+   significant prostate cancer (csPCa): sensitivity 93%, specificity 41%, PPV 51%, NPV 89%.
+ • PROMIS implications: mpMRI lesions need histological confirmation; systematic biopsy of MRI-negative
+   areas cannot yet be omitted; and a strategy relying heavily on mpMRI risks a small but real amount of
+   outfield disease.
+ • Technical dependence: 3 tesla is more accurate than 1.5 tesla, and an endorectal coil is recommended at
+   1.5 tesla. Protocol matters too. Reader experience determines IL identification and EPE interpretation.
+ • mpMRI underestimates histological tumour volume by 5–30% (after allowing for shrinkage) and
+   underestimates the axial diameter.
+ • Treatment margin (counting only pattern 4/5): 5 mm ablates >95%, 6 mm ablates 98.6% of csPCa. Lesion-
+   only ablation is therefore hard, and complete ablation may require hemi- or zonal ablation.
+
+
+
+
+                                                         page 5 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                                            Patient Selection
+
+MRI-Targeted/MRI-Fusion Biopsy
+ • mpMRI has high sensitivity but low specificity, so histological confirmation of suspicious lesions is
+   critical.
+ • Prostate Imaging–Reporting and Data System (PI-RADS): from the American College of Radiology and the
+   European Society of Urogenital Radiology; now version 2 (2015); a 5-point Likert scale for csPCa. Higher
+   PI-RADS scores go with higher Gleason scores.
+ • Histological Gleason score is still the decision marker. 2016 consensus: Gleason 3+4 is the "sweet spot"
+   for FT. Higher grades raise concern about EPE outside the image-guided target zone, which may need
+   radical treatment.
+
+MRI-TARGETED BIOPSY TECHNIQUES COMPARED
+ Technique               Method                                           Advantages            Limitations
+ In-bore MRI-            Live MRI guidance within the gantry              Highest accuracy      Slow, costly, MRI-
+ guided                                                                                         compatible equipment;
+                                                                                                academic centres only
+ MRI–ultrasound          MRI segmentation → ultrasound                    Standard ultrasound   Imperfect overlay;
+ software fusion         segmentation → registration (rigid or elastic)   workflow; several     operator must
+                         → navigation (mechanical, visual or              commercial systems    compensate; learning
+                         combined) → biopsy; transrectal or                                     curve
+                         transperineal
+ Cognitive fusion        Operator estimates lesion position from          No extra equipment    Expert dependent; as
+ (visual estimation      mpMRI                                                                  good as software fusion
+ targeting)                                                                                     only in expert hands
+
+ • MRI-targeted transperineal vs transrectal biopsy in the same patients: no difference in csPCa detection.
+ • Tumours are identified accurately for FT only by an experienced multidisciplinary team of radiologists
+   and urologists that climbs the learning curve together.
+
+Role of the Systematic Biopsy
+ • Experts agree that a concurrent systematic biopsy is necessary to find MRI-invisible csPCa. The required
+   intensity is disputed.
+ • Reducing saturation biopsy (about 22 cores) to fewer systematic cores progressively lowers csPCa
+   detection and changes the FT planning template.
+ • About 90% of outfield csPCa lies within 1 cm of the target (the lesion's "penumbra"), so biopsies should
+   be taken within and around the MRI lesion.
+ • With limited systematic biopsy there is a small but significant risk of untreated csPCa. This affects biopsy-
+   based FT outcomes, but the long-term impact is unclear.
+Concept — Imaging finds the lesion, but only biopsy can grade it, and only a systematic biopsy can vouch
+for the rest of the gland. That is why every consensus has kept both.
+
+Promising Imaging Modalities
+Positron Emission Tomography
+ • Positron emission tomography (PET) with choline tracers or fluorodeoxyglucose has been investigated for
+   staging.
+ • Prostate-specific membrane antigen (PSMA): a type 2 transmembrane protein expressed 100- to 1000-
+   fold more in prostate cancer than in normal cells.
+ • The early antibody agent ¹¹¹In-capromab pendetide failed to localise cancer reliably for quadrant ablation.
+
+
+
+                                                         page 6 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                                                   Patient Selection
+ • Small-molecule ligands to the external epitope, labelled with ¹⁸F or ⁶⁸Ga, give high tumour uptake and
+   rapid clearance, so contrast is high.
+ • PSMA PET is not degraded by biopsy haemorrhage or inflammation, whereas mpMRI is transiently
+   impaired.
+ • mpMRI has greater sensitivity; PSMA PET (¹⁸F-DCFBC) has greater specificity, including for Gleason 8–9
+   disease.
+ • Choline-PET and mpMRI targets can both be fused to three-dimensional (3D) TRUS, combining
+   anatomical and functional information for biopsy.
+
+Multiparametric Ultrasound
+ • Rationale: mpMRI is resource intensive and fusion is imperfect. Ultrasound is real-time and point-of-care,
+   and a multiparametric ultrasound approach avoids MRI–ultrasound registration error.
+
+ULTRASOUND MODALITIES UNDER DEVELOPMENT
+ Modality                                Principle
+ Contrast-enhanced TRUS (CE-             Echogenic microbubbles small enough to traverse capillaries map microvascular
+ TRUS)                                   distribution
+ TRUS elastography                       Tissue stiffness from the properties of a reflected mechanical wave
+ Shear-wave elastography                 Wave generated by the probe itself, so reproducible and operator independent;
+                                         50 kPa cut-off for cancer detection
+ Acoustic radiation force impulse        Synchronised waves remove interference from internal reflections; correlates
+ (ARFI)                                  well with mpMRI
+ Computerised TRUS (C-TRUS)              Grey-scale image converted to digital signals for statistical analysis (1990s); basis
+                                         for artificial-intelligence-driven multiparametric ultrasound
+
+ • Combining modalities adds functional information and raises individual sensitivities by 13–59%.
+   Prospective work is needed.
+
+Contemporary Patient Selection Criteria
+ • Criteria have evolved with biological understanding. Early FT cohorts included low-risk men now
+   managed by AS.
+ • Treatment choice is patient-centric, so there are few comparative trials between modalities. Practice
+   rests on consensus (Table 163.2).
+ • Evolution of the stated aim: 2009 — eradicate all known cancer and preserve genitourinary function →
+   2010 — treat cancer, leaving the benign prostate and surrounding structures intact → 2013 — treat the
+   dominant lesion or IL; acceptable residual disease first quantified as untreated 3+3 up to 5 mm core
+   length (biopsy type and intensity not addressed) → 2016 — completely ablatable 3+4 is the "sweet
+   spot"; 4+3 the maximum grade; most panellists reluctant to treat high grade → 2019 — treatment and
+   retreatment to delay or avoid radical therapy.
+ • Assessment evolution: mpMRI moved from "state-of-the-art centres only" to "whenever
+   possible" (2016). TMB was state of the art in 2010 and 2012; MRI–TRUS fusion biopsy was
+   recommended by 2016. The latest consensus still requires systematic biopsy of the MRI-"normal" gland
+   because mpMRI has a small but significant false-negative rate.
+ • Sexual function (2013 trial-design consensus and 2016 consensus): erectile dysfunction is not a
+   contraindication to FT. Potential preservation of erections is an important reason to choose FT, but most
+   experts would not deny FT to an impotent man, given the urinary, rectal and other toxicities of
+   indiscriminate whole-gland therapy.
+
+
+
+                                                           page 7 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                                          Patient Selection
+ • Selection remains an interplay of disease and patient factors. Poor selection carries the cost and
+   morbidity of treating recurrence.
+
+TABLE 163.2 Summary of Contemporary Consensus on Patient Selection
+Consensus meetings 2009–2019, published as de la Rosette et al. (2010), Ahmed et al. (2012a), Donaldson et al. (2015),
+Tay et al. (2017a) and Gross et al. (2019).
+                     2009 meeting      2010 meeting    2013 meeting        2016 meeting          2019
+ Variable            (publ. 2010)      (publ. 2012)    (publ. 2015)        (publ. 2017)          (publ. 2019)
+ Goal                Eradicate all     Eradicate all   Eradicate csPCa     Eradicate csPCa       Ablate completely;
+                     cancer            cancer                                                    delay or avoid
+                                                                                                 radical therapy
+                                                                                                 through treatment,
+                                                                                                 retreatment,
+                                                                                                 surveillance
+ Overall work-       TMB               TMB + mpMRI     TMB or systematic   mpMRI + systematic mpMRI + targeted +
+ up                                                    + mpMRI             biopsy             systematic biopsy
+ mpMRI               State-of-the-     Recommended No clear                Recommended as        Recommended
+                     art centres                   recommendation          far as possible
+                     only
+ Biopsy of           —                 To be studied   Recommended         Recommended;          Recommended
+ suspicious                                                                MRI–TRUS fusion
+ lesion
+ Biopsy of           —                 TMB             Recommended         Recommended; ≥12- Recommended
+ nonsuspicious                                                             core TRUS
+ gland
+ Risk group          Low to            —               Intermediate        Intermediate          Intermediate
+                     moderate
+ Maximum             —                 —               —                   4+3                   —, but no cribriform
+ grade                                                                                           or ductal
+ Maximum size        T2a clinically    —               No agreement        1.5 mL or 3 mL if not —
+                     or T2b                                                crossing midline;
+                     radiologically                                        20% or 25% of
+                                                                           prostate volume if
+                                                                           crossing
+ Residual            None              None            3+3, core length ≤5 3+3, core length ≤1   3+3
+ disease                                               mm                  mm
+ permitted
+ Age/life            ≥10 years         —               Not primary; best   Per major            —
+ expectancy                                            if >10 years and    guidelines; no upper
+                                                       not <5 years        or lower limit
+ Sexual function Effect                —               —                   Important, but not    —
+                 unknown;                                                  the only indication
+                 counsel
+
+ • What the table is for: tracking how FT's target and toolkit have shifted. The target moved from all cancer
+   to csPCa to a retreatment strategy. Work-up moved from TMB to mpMRI plus targeted plus systematic
+   biopsy.
+ • Pattern: the risk group settled on intermediate. Systematic biopsy of the rest of the gland survives every
+   iteration.
+ • Year labelling: the text dates the consensuses by meeting (2009, 2010, 2013, 2016), the source table by
+   publication (2010, 2012, 2015, 2017). Both are shown above.
+
+
+                                                        page 8 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                          Ablation Patterns and Current Technologies
+ • mpMRI "state-of-the-art centres only": the text attributes this to the 2010 meeting, but the source table
+   places it in the 2009-meeting column and marks the 2010 meeting "recommended". Both are recorded.
+ • Trap: tolerance of residual 3+3 tightened from 5 mm (2013) to 1 mm (2016); it did not loosen.
+ • Trap: the size limit is 1.5 mL or 3 mL if the lesion does not cross the midline. If it does, the limit is a
+   proportion of gland volume (20–25%).
+Concept — Over successive consensuses the target of FT narrowed from "all cancer" to "clinically significant
+cancer" and its toolkit moved from template mapping to MRI with fusion. The systematic biopsy has never
+been dropped.
+
+ABLATION PATTERNS AND CURRENT TECHNOLOGIES
+
+Types of Ablation
+ • Many ablation patterns have been called FT, which makes the literature heterogeneous. "Hockey-stick"
+   ablations belong under partial prostate ablation, not FT (Fig. 163.3).
+ • International consensus on definitions: FT = lesion ablation, quadrant ablation and hemiablation.
+ • Lesion treatment is further split into image-targeted lesion ablation (image-detected, biopsy-confirmed)
+   and non-image-targeted ablation (biopsy information only).
+Figure legends
+ • Fig. 163.3 — patterns of ablation: targeted, quadrant, anterior, hemiablation, hockey stick (tumour focus
+   inside a surrounding ablation zone).
+ • Fig. 163.4 — focal cryoablation, anterior ablation pattern (Tay and Polascik, 2017): see the sequence
+   under Focal Cryotherapy.
+
+Ablation Approach
+ • Routes: transrectal, transperineal, or (less commonly) transurethral. Choice depends on tumour
+   location, available technology, physician experience and patient anatomy or preference.
+ • Transrectal gives easy access to the posterior zone; transperineal gives better access to the anterior
+   zone.
+
+ENERGY SOURCE AND DELIVERY ROUTE
+ Energy                       Usual route                      Reason
+ Cryotherapy                  Transperineal                    Metal probes of 17 gauge or larger; poorly suited to
+                                                               transrectal use
+ Irreversible                 Transperineal                    Same: rigid metal electrodes
+ electroporation
+ High-intensity focused       Transrectal (transurethral       Transducer housing must hold enough rings for the required
+ ultrasound (HIFU)            also possible)                   intensity and focal distance
+ Laser                        Transrectal or transperineal     Highly flexible fibres
+ Transurethral devices        Transurethral                    Deliver HIFU or steam vapour
+
+ • As urologists master several techniques, an "à la carte" approach matches modality and route to the
+   patient and lesion.
+
+Focal Cryotherapy
+ • Thermal ablation by extraction of heat to lethal cold. Cell death results from intra- and extracellular ice
+   (membrane disruption), recrystallisation, vascular stasis and ischaemia, apoptosis and immune-
+   mediated effects.
+
+
+                                                           page 9 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                        Ablation Patterns and Current Technologies
+ • Four developments make cryotherapy suited to FT:
+    1. Third-generation cryoprobes using the Joule–Thomson effect, as fine as 17 gauge.
+    2. Variable ice-length adjustment, so the ice ball is contoured to the lesion.
+    3. Ice edge visible on TRUS, computed tomography (CT) or MRI, giving real-time monitoring of the
+       ablation zone and margin.
+    4. Urethral warmer, which has greatly reduced urethral cold injury.
+ • Thermocouples are placed in the ablation zone or its margin and along vital structures: external
+   sphincter, neurovascular bundles, Denonvilliers fascia.
+ • Anterior focal cryoablation sequence (Fig. 163.4): biplanar ultrasound probe in the rectum → variable-
+   length cryoprobes set to prostate measurements → four probes placed in the anterior prostate → ice
+   formed, with a hyperechoic leading edge monitored → console confirms lethal temperature at the
+   anterior apex and safe temperatures at the external sphincter and right neurovascular bundle.
+ • Series from 2008 to 2023 (Table 163.3) mostly used a hemiablation template, the original model of FT.
+ • Over a median follow-up of 6–85 months: biochemical progression-free survival (BPFS) 71–98%; 3-year
+   BPFS 56–62.5%; 5-year BPFS 62–70%.
+ • In cohorts mandating rebiopsy at 6–12 months, the positive biopsy rate was 7.1–38.9%, about a quarter
+   of it clinically significant.
+ • Selection and biopsy criteria varied. Most patients were D'Amico low or intermediate risk.
+ • Pad-free continence 95.1–100%; potency 46.8–100%. About half of men potent after hemiablation use
+   phosphodiesterase type 5 inhibitors (PDE5I).
+ • Clavien–Dindo grade ≥3 complications ≤4% in every series. Urinary retention is the commonest adverse
+   event (reactive oedema), avoided by keeping a urethral catheter for a few weeks. Retention 0–9%; recto-
+   urethral fistula (RUF) up to 0.8%. Others: haematuria, haematospermia, urethral sloughing, stricture.
+ • No comparison with radical prostatectomy or radiotherapy exists. The comparisons are partial vs whole-
+   gland cryotherapy in the Cryo On-Line Data (COLD) registry:
+     ◦ Low risk (matched pairs): no difference in 5-year BPFS; erectile recovery significantly better with
+       partial ablation.
+     ◦ Intermediate risk (propensity matched): no difference in early BPFS; partial ablation roughly twice as
+       likely to restore erections at 12 months. This reflects contemporary selection.
+
+TABLE 163.3 Summary of Published Focal Cryotherapy Series
+Series 2008–2023, including the COLD registry; rows grouped by selection era.
+                       2008–2018: TRUS or TMB selection;
+                       mostly hemiablation; low and               2019–2023: mpMRI + targeted/systematic biopsy;
+ Endpoint              intermediate risk                          focal or targeted; 3+4 and 4+3 common
+ Inclusion             Unilateral cancer; Gleason ≤7; PSA <10–    MRI-visible, grade group 2–3, PSA <20 ng/mL; lesion
+                       20 ng/mL; ≤cT2b                            <3 mL (single) or 1.5 mL (dual)
+ Median follow-up 13–85 months                                    6–85 months
+ Biochemical           BPFS 56–98% (3-year 56–62.5%; 5-year       Biochemical recurrence 25–30.6%; 3-year failure-free
+ control               70–71.3%)                                  survival 90.5%
+ Positive biopsy       Infield 1.4–12.5%; outfield 8.3–15.1%;     Infield 0–57%; outfield 4–43%; csPCa 21% at 12–18
+                       overall 2.1–19.4%                          months
+ Sexual function       Ability to penetrate 46.8–90%; small IIEF Ability to penetrate 54–84%; mild fall in IIEF or EPIC
+                       fall, recovering
+ Urinary function      Continence 95.1–100%                       Continence 96–100%
+
+
+
+                                                        page 10 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                          Ablation Patterns and Current Technologies
+
+                       2008–2018: TRUS or TMB selection;
+                       mostly hemiablation; low and                 2019–2023: mpMRI + targeted/systematic biopsy;
+ Endpoint              intermediate risk                            focal or targeted; 3+4 and 4+3 common
+ Complications         Retention 1.2–15%; RUF 0–2%;                 Retention up to about 30%; urinary tract infection up
+                       cavernosal necrosis, urethral stenosis       to about 25%; RUF rare; 43% needed a catheter up to
+                                                                    5 days in one series
+
+ • What the table is for: cryotherapy has the largest and longest FT literature, and the only registry
+   comparison.
+ • Pattern: as selection moved to mpMRI and higher grade, and as follow-up biopsy became mandatory,
+   targeted and systematic, reported positive biopsy rates rose. Later series look for failure harder and treat
+   more aggressive disease.
+ • Text and table differ. The text gives retention 0–9% and RUF ≤0.8%; the table includes retention of 15%
+   and about 31% (37 of 119) and RUF of 2%. The text range covers the series reporting percentages, while
+   later series report counts. For 5-year BPFS, the text gives 62–70% and the table 70–71.3%, because the
+   text's lower bound comes from a different data cut.
+ • Trap: BPFS figures are not comparable across series, because different definitions were used (Phoenix,
+   the American Society for Radiation Oncology (ASTRO) definition, nadir + 0.5) and none is validated after
+   FT.
+ • Abbreviations: IIEF, International Index of Erectile Function; EPIC, Expanded Prostate Cancer Index
+   Composite.
+
+Focal Salvage Cryotherapy
+ • Local recurrence after definitive radiotherapy is hard to manage: salvage must achieve cancer control
+   and limit salvage morbidity.
+ • Focal salvage cryotherapy: about half are biochemically free at 5 years, with slow further decline to 10
+   years, and a favourable side-effect profile.
+ • Focal and whole-gland salvage ablation give similar oncological control; focal is better functionally. In
+   the largest cohort, about three-quarters were free of biochemical progression at 2 years, and about half
+   of initially potent men kept erections.
+ • The most feared complication of salvage therapy is RUF: about 1.4% in the largest cohort (Table 163.4).
+
+TABLE 163.4 Summary of Published Focal Salvage Cryotherapy Series
+Eight series, 2007–2021.
+ Feature                         Range across series
+ Selection                       Biopsy-proven radiorecurrent, nonmetastatic cancer; staged by bone scan, MRI or CT,
+                                 TRUS biopsy or TMB
+ Ablation plan                   Focal, partial or hemiablation
+ Median follow-up                12–47 months
+ BPFS                            1-year 51–62.6%; 2-year 72–80%; 5-year 46.5–54.4%; 10-year 42%
+ Other oncological               3-year failure-free survival 40%, metastasis-free survival 50% (smallest series)
+ Erectile function               Ability to penetrate 14–50% of men potent before salvage
+ Continence                      87–100%
+ Complications                   RUF 1–3 cases per series (about 1.4%); retention; lower urinary tract symptoms; urethral
+                                 sloughing; bladder outlet obstruction
+
+ • What the table is for: salvage outcomes are roughly half of primary FT for both cancer control and
+   erections. RUF is the complication that defines salvage risk.
+
+
+                                                          page 11 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                            Ablation Patterns and Current Technologies
+ • Trap: expecting primary-FT functional results in the irradiated gland.
+
+Focal High-Intensity Focused Ultrasound
+ • A transducer focuses multiple ultrasound beams on a preset point, reaching ≥55 °C → coagulative
+   necrosis. The transducer sits in the transrectal probe, which also plans and monitors treatment.
+ • Posterior-zone lesions are well suited. Anterior lesions are harder: energy dissipates across intervening
+   tissue, and anterior targets are displaced as progressive oedema develops.
+ • Device limits: prostate size, height, and calcification in the treatment path. Some recommend a
+   transurethral resection of the prostate (TURP) before HIFU to reduce height and aid targeting.
+ • Whole-gland HIFU is slow; focal treatment is shorter, so HIFU suits FT.
+ • Early biopsy-guided hemiablation (pre-MRI, low risk): recurrence-free survival was high at 5 years but fell
+   steeply by 10 years, with a high positive biopsy rate.
+ • Series 2011–2022 (Table 163.5): mostly hemiablative, using cognitive or software MRI fusion; mostly
+   D'Amico low and intermediate risk. Median follow-up 6–45 months:
+     ◦ Infield positive biopsy 16.7–54% (any cancer), 0–21.8% (csPCa)
+     ◦ Outfield positive biopsy 7–42.8% (any cancer), 2–7.5% (csPCa)
+     ◦ Continence 90–95%; potency 50–78% at 6–12 months (heterogeneous, often non-validated
+       definitions)
+ • HEAT registry (largest prospective focal HIFU study, 1379 men): failure-free survival 68% intermediate
+   risk and 65% high risk.
+
+TABLE 163.5 Summary of Published Focal HIFU Series
+Series 2011–2022, including the HEAT registry (Reddy et al., 2022).
+                                                      2015–2022: mpMRI + targeted,
+ Endpoint            2011–2012: biopsy-only selection systematic or TMB                                 HEAT registry (2022)
+ Inclusion           PSA ≤10, ≤3 cores in one lobe,       Unilateral; Gleason ≤3+4 to ≤4+3; PSA Gleason 6–9, ≤cT3b;
+                     ≤T2a, ≤3+4; or all D'Amico groups    ≤10–20; ≤T2–T3a; some <40 mL gland, 65% intermediate,
+                                                          life expectancy >5–10 years           28% high risk
+ Median follow- 29–127 months                             6–39.5 months                                 32 months
+ up
+ Oncological         Biochemical recurrence 26.6%; 5- Infield 6–54% (csPCa 5–21.4%);                    7-year failure-free
+                     year recurrence-free survival high, outfield 7–42.8% (csPCa 2–7.5%);               survival 69% (64–74%)
+                     10-year low; positive biopsy        failure 11.9–31.2%
+                     41.7%
+ Sexual              About half maintained potency        Mild fall in IIEF-5 or EPIC; ability to       Not reported
+                                                          penetrate 50–78%
+ Complications       Retention 8.3%; some                 Transient dysuria and haematuria;             Not reported
+                     incontinence                         debris passage; retention about 8%;
+                                                          urinary tract infection 6–18%;
+                                                          stricture 4%; RUF rare
+
+ • What the table is for: HIFU is the second-largest FT literature and the only modality with a large
+   prospective registry that includes high-risk disease.
+ • Pattern: infield failure persists into the MRI era. Outfield csPCa is low, so the remaining problem is
+   ablation completeness rather than selection.
+ • Text and table differ. For HEAT, the text reports failure-free survival by risk group (68% intermediate, 65%
+   high); the table gives the overall 7-year figure (69%). For infield positive biopsy, the text quotes 16.7–
+   54%, while individual series in the table run from 6%.
+
+
+                                                         page 12 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                            Ablation Patterns and Current Technologies
+ • Trap: transrectal HIFU is a posterior-zone tool. Anterior tumours are better reached transperineally or
+   transurethrally.
+
+MRI-Guided Transurethral Ultrasound Ablation
+ • In-bore MRI-guided focused ultrasound (MRgFUS): MR thermometry confirms lethal temperature in the
+   target and safe temperatures at the urethra and sphincter (Fig. 163.5). Phase II: a slight, non-significant
+   EPIC urinary dip at 1 month that recovered by 3 months, with no change in other EPIC domains over 2
+   years.
+ • MRI-guided transurethral ultrasound ablation (TULSA): made possible by miniaturised HIFU transducers
+   (Fig. 163.6). It combines in-bore thermometry and anatomical resolution, and the transurethral route
+   reaches the anterior prostate efficiently.
+ • Whole-gland TULSA phase I (multicentre): safe; spatial control of ablation within 1.3 mm; no change in
+   functional scores; grade 3 complications about 3%; no grade 4–5.
+ • TULSA in low- and intermediate-risk disease: about three-quarters free of biochemical progression and of
+   salvage at 3 years, but csPCa on 12-month biopsy in about a third.
+Figure legends
+ • Fig. 163.5 — MRgFUS for Gleason 3+3 found on 26-core saturation biopsy: T2 and DWI (b = 2000 s/mm²)
+   show a left posterior peripheral-zone lesion → intraoperative beam path and real-time thermal map →
+   immediate post-contrast T1 shows non-perfused ablated volume → persists at 1 month → volume loss
+   and fibrosis at 2 years (Tay et al., 2017).
+ • Fig. 163.6 — TULSA: transurethral ultrasound applicator with an endorectal cooling device; thermal
+   ablation boundary shown (Chin et al., 2016).
+
+Focal Salvage High-Intensity Focused Ultrasound
+ • In radiorecurrent disease (mostly intermediate or high risk before radiotherapy), BPFS was 48% at 3 years
+   and overall survival 92% at 5 years.
+ • Complications: urinary tract infection, bladder-neck stricture, urinary fistula (about 2%). About a quarter
+   had grade ≥3 events needing intervention. 87% were continent at 2 years.
+ • Focal salvage HIFU offers benefit with relatively few complications (Table 163.6). The FORECAST trial
+   (ongoing) will compare outcomes of focal salvage cryotherapy and HIFU.
+
+TABLE 163.6 Summary of Published Focal HIFU Salvage Series
+Three series, 2012–2017.
+ Feature                         Range across series
+ Selection                       Biopsy-proven radiorecurrent, nonmetastatic; TMB + mpMRI or mpMRI + TRUS biopsy;
+                                 about 36–42% high risk
+ Ablation plan                   Hemi-, quadrant, focal or index-lesion ablation
+ Median follow-up                16–35 months
+ Oncological                     2-year BPFS/progression-free survival 49–52%; 3-year BPFS 48%
+ Function                        Mild IIEF-5 fall; continence 64–87.5%
+ Complications                   Stricture, urinary tract infection, retention, RUF (1–3 cases per series), osteitis
+
+ • What the table is for: salvage HIFU controls only about half at 2–3 years, the same order as salvage
+   cryotherapy.
+ • Trap: salvage continence (64–87.5%) is far below primary focal HIFU (90–95%).
+
+
+
+
+                                                          page 13 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                        Ablation Patterns and Current Technologies
+
+Focal Laser Ablation
+ • Focal laser ablation (FLA): coagulative necrosis from an interstitially placed laser fibre. Destruction is
+   limited to a fixed distance from the active fibre tip, so the ablation zone is predictable and can be used
+   safely close to vital structures.
+ • Disadvantages: longer procedures or extra fibres for larger lesions, and particular care is needed to
+   obtain an adequate margin.
+ • Histology: neovascularisation and increased tumour mitotic activity at the edge of the ablation zone
+   reinforce the need for a safety margin (Fig. 163.7).
+ • Fibre placed transperineally or transrectally via a delivery trocar.
+ • In-bore MR-guided FLA technique (phase II, Fig. 163.8): 14-gauge titanium introducer with
+   polytetrafluoroethylene catheter into the lesion → 17-gauge laser applicator through each catheter →
+   60–120 s at 6–15 W, repeated as needed → target ≥60 °C, with ablation extending >5 mm beyond the
+   lesion. The cohort was mostly low risk; there was some infield and more outfield cancer at 12 months,
+   with IIEF unchanged.
+ • Office-based FLA under local anaesthesia with a modified MRI–ultrasound fusion biopsy device (mainly
+   Gleason 7) was safe but had higher recurrence, so attention to the margin is needed.
+ • The longest follow-up (about 6 years) showed a high failure-free rate but infield recurrence in about
+   40%. The authors called the infield recurrence and need for salvage "disconcerting" and urged close
+   monitoring and better energy delivery.
+ • Across series (Table 163.7), over a median follow-up of 6–72.5 months: continence 95–100%; minimal
+   change in IIEF or Sexual Health Inventory for Men (SHIM) scores; infield recurrence 11–50%, outfield
+   16.7–60%.
+ • Severe adverse events are rare. There was one grade III event by the Common Terminology Criteria for
+   Adverse Events (CTCAE), a urinary tract infection. Grade II events included two RUFs, both healing with
+   urinary catheterisation within 4–6 weeks.
+
+TABLE 163.7 Summary of Published Focal Laser Ablation Series
+Seven series, 2010–2021.
+ Feature                      Range across series
+ Selection                    mpMRI ± targeted/systematic biopsy; ≤T2a–T2b; PSA <10–15 ng/mL; PSA density <0.15;
+                              Gleason ≤7 (≤3+4 in most); lesion ≤15 mm or ≤2 mL in one series
+ Ablation and                 Focal, often with a 5-mm margin; MRI thermometry, or contrast-enhanced ultrasound with
+ monitoring                   fusion
+ Median follow-up             6–71.5 months
+ Oncological                  Infield positive biopsy 4% at 3 months to 50% (csPCa 15–40%); outfield 16.7–60%; failure-
+                              free survival 83% with 40% infield recurrence at longest follow-up
+ Function                     IIEF unchanged or mild SHIM fall; continence 95–100%; International Prostate Symptom
+                              Score (IPSS) improved in one series
+ Complications                Haematuria (universal in one small series), perineal discomfort, ecchymosis, retention 8%,
+                              RUF about 1.7%
+
+ • What the table is for: laser is the most "truly focal" energy, yet it has the smallest series, the shortest
+   follow-up and the highest infield failure.
+ • Pattern: a precise ablation zone does not guarantee cancer control. A narrow zone means a narrow
+   margin.
+ • Trap: "predictable ablation zone = better oncology." In practice the edge of the ablation zone is where
+   tumour survives.
+
+
+                                                        page 14 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                        Ablation Patterns and Current Technologies
+Figure legends
+ • Fig. 163.7 — FLA for right transition-zone 3+4: real-time MR temperature map → Arrhenius-based
+   damage-estimation overlay → post-ablation contrast T1 showing non-enhancing necrosis → whole-
+   mount histology with necrotic, perinecrotic and viable tumour zones (Bomers et al., 2017).
+ • Fig. 163.8 — MR-guided FLA equipment: laser fibre in cooling catheter; perineal template with
+   endorectal coil and titanium catheter; template grid overlaid on MRI; laser workstation (Eggener et al.,
+   2016).
+
+Focal Irreversible Electroporation
+ • Irreversible electroporation (IRE) is non-thermal: short pulses of direct current create irreversible
+   membrane pores → cell death.
+ • It claims to preserve connective tissue architecture, a possible scaffold for regrowth.
+ • Ablation occurs between two or more probes placed 10–20 mm apart (Fig. 163.9).
+ • Delivery sequence: 20 test pulses characterise the current between each probe pair → settings adjusted
+   → deep anaesthesia to prevent muscle depolarisation → 70 pulses per probe pair for the final ablation.
+   Field strength must exceed 1600 V/cm between every probe pair.
+ • Three early-phase studies (about 100 men) used hemi- or anterior-zone ablation or template-grid focal
+   ablation. They showed no grade 4–5 complications and continence almost universally maintained, with
+   some fall in erectile scores.
+ • Ablate-and-resect study (resection at 1 month) found fibrinoid necrosis of the unilateral neurovascular
+   bundle and denudation of the prostatic urethra in most patients. Whether the surviving connective
+   tissue permits later regrowth and functional recovery is unknown (Fig. 163.10).
+ • Larger cohorts (three series, 451 men, mainly low and intermediate risk): csPCa infield 1–9.8% and
+   outfield 5–16% at 6–12 months.
+ • Matched-pair IRE vs robot-assisted radical prostatectomy (RARP) (no head-to-head trial): IRE
+   significantly better for pad-free continence and erections sufficient for intercourse, but some IRE
+   patients had residual csPCa requiring salvage.
+
+TABLE 163.8 Summary of Published Focal Irreversible Electroporation Series
+Ten series, 2016–2023.
+ Feature                      Range across series
+ Selection                    mpMRI + targeted and systematic biopsy or TMB; maximum Gleason 3+4 to 8; <T2b–T2c;
+                              PSA <15–20 ng/mL; some single-lesion only
+ Ablation plan                Hemi-, anterior or template-based focal ablation
+ Median follow-up             6–60 months
+ Oncological                  Infield positive biopsy 6–38.9% (csPCa 1–33.3%); outfield 5–16.7%; failure-free survival
+                              83% at 5 years in the largest series
+ Urinary                      Pad-free 88–100%
+ Sexual                       Erections sufficient for penetration about two-thirds (from about three-quarters at
+                              baseline); EPIC sexual domain falls; IIEF-5 unchanged to mild fall
+ Complications                Mostly grade 1–2 (haematuria, dysuria, lower urinary tract symptoms, retention, urinary
+                              tract infection); stricture about 5%; no grade 4–5
+
+ • What the table is for: IRE's functional results are its selling point. Its oncological figures are of the same
+   order as the thermal energies.
+ • Trap: "IRE spares the neurovascular bundle and urethra." Ablate-and-resect histology shows injury to
+   both; the preservation claim is theoretical.
+
+
+                                                        page 15 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                     Ablation Patterns and Current Technologies
+Figure legends
+ • Fig. 163.9 — IRE electrode metrics: probes start periurethrally and are arranged radially; probe-pair
+   spacing is 10–20 mm; each probe is no more than 5 mm from capsule or urethra; probes are parallel with
+   tip-to-capsule ≥5 mm. Spacing (d) and exposed length (L) set the initial energy (Murray et al., 2016).
+ • Fig. 163.10 — IRE ablate-and-resect: perioperative TRUS with electrodes in place, and the matching
+   whole-mount haematoxylin and eosin section (van den Bos et al., 2016).
+
+Focal Salvage Irreversible Electroporation
+ • In biopsy-proven radiorecurrent disease (mostly low and intermediate risk; median follow-up 48 months),
+   progression-free survival was 60% and metastasis-free survival 91%.
+ • Complications were mostly grade 1–2 (pain, urgency, mild haematuria). Grade 3b: urethral sludge about
+   9%, rectal fistula about 1%.
+ • Continence 93%; erectile function preserved in 23%.
+ • This is a single-institution series and needs multicentre confirmation (Table 163.9). The SAFE pilot trial
+   (ongoing) is studying focal salvage IRE.
+
+TABLE 163.9 Summary of Published Focal Salvage IRE Series
+ • A single series (2023): selection by mpMRI + TMB + PET; radiorecurrent, nonmetastatic; focal ablation.
+ • Follow-up: PSA every 3 months, MRI at 6 months, TMB at 12 months.
+ • Outcomes: progression-free survival 60%; continence 93%; retention 6%; RUF 1%; perineal pain in a
+   minority.
+ • What the table is for: IRE is the salvage option with the best reported continence, but the evidence rests
+   on one institution.
+
+FOCAL SALVAGE MODALITIES COMPARED (RADIORECURRENT DISEASE)
+                      Cryotherapy                HIFU                              IRE
+ Evidence             8 series; largest          3 series                          1 series
+                      literature
+ Oncological          BPFS 2-year 72–80%, 5-     BPFS 2-year 49–52%, 3-year 48%    Progression-free survival 60%,
+                      year about 50%                                               metastasis-free 91% (48 months)
+ Continence           87–100%                    64–87.5%                          93%
+ Erections            14–50% of potent men       Mild IIEF fall                    23%
+ Signature            RUF about 1.4%             Bladder-neck stricture; fistula   Urethral sludge about 9%; rectal
+ complication                                    about 2%; grade ≥3 about a        fistula about 1%
+                                                 quarter
+ Ongoing trial        FORECAST                                                     SAFE pilot
+
+Focal Vascular-Targeted Photodynamic (VTP) Therapy
+ • Low-power near-infrared laser light of a specific wavelength activates an intravascular photosensitiser
+   preferentially taken up by tumour. Reactive oxygen species then damage cell membranes and small
+   arterioles irreversibly, causing tumour necrosis. VTP is regarded as both a drug and a device.
+ • TOOKAD Soluble (WST11, padeliporfin), a bacteriochlorophyll derivative: highly soluble, stays within the
+   vasculature even at high dose, and is rapidly cleared by the kidney and liver.
+ • Treatment sequence: single intravenous dose of 4 mg/kg → transperineal intraprostatic fibre → 753-nm
+   light at 150 mW/cm and 200 J/cm → about 2 hours of anaesthesia → protective eyewear and low-level
+   light for the following hour.
+ • Three phase II trials (Gleason 3+3): safe. Infield positive biopsy was lower with hemiablation than overall.
+
+
+                                                         page 16 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                           Ablation Patterns and Current Technologies
+ • Randomised trial of focal VTP vs AS (Azzouzi, 2017) in 415 men with low-risk cancer:
+     ◦ Significantly more negative biopsies at 2 years, less progression and fewer men needing radical
+       treatment.
+     ◦ Progression (volume, grade or PSA): 28% VTP vs 58% AS.
+     ◦ The first level 1 evidence that FT gives meaningful benefit over an accepted management strategy.
+     ◦ Limitations: Gleason 6 cohort only; short follow-up; surrogate end points that do not reflect overall or
+       cancer-specific survival; the outcome may represent reclassification rather than true progression.
+ • Extended follow-up to 4 years, conversion to radical therapy (VTP vs AS): 2 years 7% vs 32%; 3 years 15%
+   vs 44%; 4 years 24% vs 53%. Progression was also reduced, and continence was well preserved, with nil
+   to mild IIEF fall at 24 months.
+ • VTP adverse events were mostly mild to moderate and peri-procedural, resolving quickly. Perineal pain
+   (from needle placement or prostatic swelling) affected about 15% with VTP vs <1% with AS.
+
+TABLE 163.10 Summary of Published Focal VTP Series
+Seven series, 2015–2019, including the combined analysis of three phase II trials and the randomised trial.
+ Feature                      Range across series
+ Selection                    Gleason 3+3 (low-volume pattern 4 permitted in some); PSA ≤10–20 ng/mL; <T2a–T2c;
+                              mostly unilateral
+ Ablation plan                Mostly hemiablation; some subtotal or focal
+ Median follow-up             12–68 months
+ Oncological                  Infield positive biopsy 19.4% (hemiablation) to 36.7%; outfield 16.7–19%; csPCa infield
+                              10%, outfield 6%
+ Sexual                       No significant to mild IIEF-5 fall; ability to penetrate 15.8% in one series
+ Complications                Haematuria, dysuria, perineal pain, haematospermia; urinary incontinence and urethral
+                              stenosis occasional
+
+ • What the table is for: VTP is the only modality with randomised evidence, but that evidence is in the
+   group that needs treatment least (Gleason 6).
+ • Randomised trial numbers: the text reports 216 men randomised to VTP (196 treated, 195 followed to
+   24 months); the source table lists 206. The two counts use different denominators.
+ • Trap: "VTP proven to improve survival." The end points were progression and conversion, not survival.
+
+Focal Radiofrequency Ablation
+ • Radiofrequency ablation (RFA): heat of about 100 °C from molecular friction and agitation denatures
+   proteins and membranes, causing coagulative necrosis.
+ • Generator up to 100 W, 450–1200 kHz; probes are monopolar or bipolar; thermocouples give real-time
+   temperature monitoring; control is impedance- or temperature-based.
+ • Key advantage: limited conduction through fat, which shields adjacent structures.
+ • Bipolar focal RFA (low and intermediate risk): csPCa on 6-month targeted biopsy in a fifth. At 12 months,
+   most men were continent and able to penetrate. There were many adverse events, but none CTCAE grade
+   ≥3; urinary obstruction resolved without sequelae.
+ • A second series found infield csPCa in almost a third at 6 months, with one grade 3 event (gross
+   haematuria needing only diagnostic cystoscopy). Continence was preserved, but IIEF fell significantly.
+   Technique and margin planning need to improve (Table 163.11).
+
+TABLE 163.11 Summary of Published RFA Series
+ • Two series (2020, 2021), both selected by mpMRI + TMB, with Gleason 7 or ≤7 and PSA <10 ng/mL.
+
+
+                                                          page 17 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                       Ablation Patterns and Current Technologies
+ • Infield positive biopsy 20–30%; outfield 20% in one series; follow-up 6–12 months.
+ • Sexual: ability to penetrate retained in 92% in one series; significant IIEF-5 fall in the other.
+ • Complications: haematuria, haematospermia, urethral stricture; the large majority of events were grade
+   1–2.
+ • What the table is for: RFA is an early-stage technology with small numbers and short follow-up; margin
+   planning is the lesson.
+
+Focal Brachytherapy
+ • Treatment-simulation studies show that brachytherapy can deliver an adequate focal dose.
+ • Its advantage is a sharp fall-off in dose within a few millimetres of the source. High-dose-rate (HDR)
+   dose can be further sculpted by adjusting source dwell through the interstitial catheters.
+ • Low-dose-rate (LDR, seed) brachytherapy vs HDR brachytherapy: LDR urinary toxicity is low, depending
+   on baseline symptoms and urethral dose. HDR carries a urethral stricture rate up to 8.2% within 2 years,
+   at the prostatic apex or bulbar urethra.
+ • Mid-term (4-year) focal HDR in low- and intermediate-risk disease gave poor results: biochemical
+   disease-free survival 70%, outfield csPCa in a third, and deterioration to moderate or severe erectile
+   dysfunction in half. There was no grade 2 genitourinary or gastrointestinal toxicity. The authors blamed
+   poor patient selection.
+ • Unique follow-up: mandatory biopsy at 24 months in published series. This delays confirmation of
+   success and makes early comparison with non-radiation FT difficult.
+
+TABLE 163.12 Summary of Published Focal Brachytherapy Series
+Seven series, 2017–2020; rows split by dose rate.
+ Feature              LDR (seed) series                                 HDR series
+ Selection            mpMRI + TMB or targeted/systematic biopsy;        mpMRI ± fusion biopsy; Gleason ≤7; PSA ≤10–
+                      Gleason ≤3+4; PSA ≤10 ng/mL; ≤T2a                 15 ng/mL; ≤T2c
+ Ablation plan        Focal or hemiablation                             Focal or hemiablation
+ Median follow-       12–24 months                                      6–48 months
+ up
+ Follow-up            12 or 24 months                                   12 months, or for cause / PET-CT after
+ biopsy                                                                 biochemical recurrence
+ Oncological          No recurrence to 19% infield / 8% outfield; csPCa No recurrence (at 6 months) to 33% outfield;
+                      outfield 6%                                       14% biochemical recurrence
+ Sexual               No significant change; 73% preserved ability to   50% new impotence; 34% preserved; mild IIEF
+                      penetrate                                         fall
+ Toxicity             None reported                                     No grade 2 genitourinary or gastrointestinal
+                                                                        toxicity; dysuria, cystitis
+
+ • One further series (dose rate unspecified; Gleason ≤3+4, PSA ≤15 ng/mL) reported a rise in IPSS and a
+   mild IIEF-5 fall.
+ • What the table is for: focal brachytherapy is functionally mild but oncologically unproven, and HDR has
+   the worst erectile outcome of the focal series.
+ • Biopsy timing: the text describes mandatory biopsy at 24 months as the rule, but several series in the
+   table biopsied at 12 months. The text describes the typical protocol; the table shows its variants.
+ • Trap: radiation toxicity appears late, so short follow-up flatters it.
+
+
+
+
+                                                       page 18 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                          Ablation Patterns and Current Technologies
+
+Other Modalities
+Focal Intensity-Modulated Radiation Therapy
+ • External-beam advances allow a highly focused intraprostatic dose that spares vital structures.
+ • Randomised phase II trial, urethral-sparing intensity-modulated radiation therapy (IMRT) vs standard
+   IMRT (low risk): no genitourinary toxicity benefit, and worse oncological outcome at median 4.7 years.
+ • In contrast, another series reported good 3-year BPFS across low, intermediate and high risk, with mostly
+   grade 1 genitourinary toxicity.
+ • Focal stereotactic body radiotherapy (SBRT): dosimetric feasibility has been shown but there is no clinical
+   trial. A five-patient pilot showed better dosimetry, minimal toxicity and an early favourable PSA
+   response. The results are preliminary, and radiation toxicity appears late, so long-term multicentre data
+   are needed.
+
+Focal Nanoparticles
+ • Photothermal excitation of nanoshells that accumulate preferentially in the fenestrated perivascular
+   spaces of tumours → preferential cancer-cell death. A drug and device therapy.
+ • An open-label multicentre trial of a single dose of AuroLase nanoparticle-directed focal excitation (low to
+   intermediate risk) reported about three-quarters success on 12-month biopsy.
+ • PRX302: a genetically modified pore-forming protein (aerolysin) activated by enzymatically active PSA
+   within the prostate. In a pilot study a single MR-fusion transperineal dose was well tolerated, with some
+   complete and some partial histological responses.
+ • NanoPac: sterile paclitaxel nanoparticles given by intratumoral injection (phase IIa). In men with Gleason
+   ≥7, it was injected under TRUS guidance with mpMRI into the IL and its lobe, followed by radical
+   prostatectomy at 4 weeks.
+     ◦ The proportion of adenocarcinoma fell in some specimens. At 15 mg/mL, lesion volume on mpMRI and
+       PSA density both fell.
+     ◦ No drug-related serious adverse events, prostatitis or dose-limiting toxicity occurred, so the dose was
+       escalated to 15 mg/mL.
+     ◦ Paclitaxel persisted in the prostate and lymph nodes more than 30 days after injection.
+
+Adjuvants to Focal Therapy
+ • Many proponents think successful FT will rest on a combination of device and adjunct, not on a device
+   alone.
+ • SBRT with a boost to the MR-visible tumour (5–10 fractions): no biochemical recurrence at 2 years in a
+   pilot study; acute genitourinary/gastrointestinal toxicity 8%/2%; late grade 3 toxicity 6%/0%. The added
+   value of non-radiation focal ablation plus low-dose external beam is undetermined.
+ • DOTA-AR, a bombesin-antagonist peptide targeting the gastrin-releasing peptide receptor (GRPr),
+   conjugated to a radioisotope and combined with WST11, delayed tumour growth in GRPr-positive
+   xenografts.
+
+CRYOABLATION ENHANCERS INVESTIGATED
+ Adjunct                                 Finding
+ Androgen deprivation                    No useful increase in cell death
+ Solutions with a higher-than-           Promote extra- and intracellular eutectic ice, adding a kill mechanism to
+ physiological eutectic                  intracellular lethal ice
+ temperature
+
+
+
+
+                                                          page 19 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                           Ablation Patterns and Current Technologies
+
+ Adjunct                                 Finding
+ Chemotherapeutic apoptosis              5-fluorouracil, cisplatin, doxorubicin, mitomycin, bleomycin, vinorelbine, TNF-
+ inducers                                related apoptosis-inducing ligand: more cell death at milder temperatures in
+                                         vitro
+ TNF-α                                   Proinflammatory cytokine being explored as an enhancer
+ Vitamin D3                              Improves apoptosis at sublethal isotherms in murine models
+
+ • No widely applicable substance yet augments device-mediated cell kill.
+Concept — Every energy source fails at the edge of the ablation zone, where temperature or field strength
+becomes sublethal. Margins, thermometry and adjuvants are all attempts to make that edge lethal.
+
+FOCAL ENERGY MODALITIES COMPARED
+                   Mechanism / lethal
+ Modality          parameter                     Route             Monitoring       Strength                Weakness
+ Cryotherapy       Heat extraction; ice,         Transperineal Visible ice          Largest literature;  Retention; RUF
+                   ischaemia, apoptosis                        edge;                registry comparison;
+                                                               thermocouples        urethral warmer
+ HIFU              Focused ultrasound,           Transrectal       Ultrasound (or   Posterior lesions;      Anterior lesions;
+                   ≥55 °C                                          MR               short focal time;       gland size, height,
+                                                                   thermometry)     HEAT registry           calcification
+ TULSA             Transurethral                 Transurethral MR                   Anterior gland          In-bore MRI
+                   ultrasound                                  thermometry,                                 resource
+                                                               within 1.3 mm
+ Laser             Interstitial fibre, ≥60 °C    Transperineal MR                   Most predictable        Highest infield
+                                                 or transrectal thermometry         zone                    failure; extra
+                                                                                                            fibres for large
+                                                                                                            lesions
+ IRE               Non-thermal pores,            Transperineal Probe                Best function vs        Needs deep
+                   >1600 V/cm                                  geometry             RARP                    anaesthesia;
+                                                                                                            neurovascular
+                                                                                                            bundle and
+                                                                                                            urethral injury on
+                                                                                                            histology
+ VTP               Photosensitiser + 753-        Transperineal —                    Only randomised         Low-risk only;
+                   nm light → reactive           fibre                              evidence                light precautions
+                   oxygen species
+ RFA               About 100 °C, molecular Interstitial            Thermocouples    Fat limits conduction Early data only
+                   friction                probes
+ Brachytherapy Radiation; sharp dose             Interstitial      Dosimetry        Mild early toxicity     Late toxicity; 24-
+               fall-off                          catheters or                       (LDR)                   month biopsy;
+                                                 seeds                                                      HDR stricture and
+                                                                                                            erectile loss
+
+PRIMARY FOCAL THERAPY OUTCOMES COMPARED
+                                     Infield positive           Outfield positive
+ Modality          Follow-up         biopsy                     biopsy              Continence Erectile function
+ Cryotherapy       6–85 months 7.1–38.9% overall (about a quarter csPCa)            95.1–100% 46.8–100%
+ HIFU              6–45 months 16.7–54% (csPCa 0–               7–42.8% (csPCa 2–   90–95%        50–78%
+                               21.8%)                           7.5%)
+
+
+
+
+                                                          page 20 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                                    Post–Focal Therapy Follow-Up
+
+                                     Infield positive       Outfield positive
+ Modality          Follow-up         biopsy                 biopsy               Continence Erectile function
+ Laser             6–72.5            11–50%                 16.7–60%             95–100%       Minimal change
+                   months
+ IRE               6–12 months csPCa 1–9.8%                 csPCa 5–16%          Almost all    Some decline
+                   (larger
+                   cohorts)
+ VTP               12–68             19.4–36.7%             16.7–19%             Preserved     Nil to mild IIEF fall
+                   months
+ RFA               6–12 months csPCa 20–30%                 20%                  Most to all   92% penetrate / significant
+                                                                                               IIEF fall
+ Brachytherapy 6–48 months 0–19%                            Up to 33%            —             34–73% preserved
+
+ • Pattern: continence is preserved by every modality (about 90–100%). The modalities differ in infield
+   failure, and the heterogeneous definitions forbid ranking.
+ • Trap: comparing modalities across series. Selection, biopsy protocol and end-point definitions all differ,
+   and only VTP has a randomised comparison.
+
+POST–FOCAL THERAPY FOLLOW-UP
+ • PSA is less informative after FT. It should be undetectable after radical prostatectomy, and after
+   radiotherapy a defined rise is needed for biochemical recurrence. After FT the fall is variable, 50–80%,
+   because residual epithelium keeps producing PSA.
+ • Proposed thresholds: nadir + 1.0 ng/mL at 12 months, or nadir + 1.5 ng/mL at 24–36 months, gave high
+   sensitivity and specificity for csPCa on for-cause biopsy.
+ • Digital examination is unreliable because of scarring and contraction of the tumour site. On mpMRI,
+   TRUS and contrast-enhanced ultrasound (CEUS), the ablation zone first enlarges and then the gland
+   shrinks through fibrosis and deformation.
+ • 2015 International Consultation on Urological Diseases (ICUD)–Société Internationale d'Urologie (SIU)
+   definition of success:
+
+DEFINING SUCCESS AFTER FOCAL THERAPY (ICUD–SIU, 2015)
+                                 Infield (treated area)                    Outfield (untreated area)
+ Short term                      Eradication of the treated tumour         Absence of csPCa. Any outfield cancer =
+                                 focus or foci                             selection failure
+ Intermediate to long term Absence of csPCa                                Absence of csPCa. Outfield cancer may be de
+                                                                           novo
+
+ • Recommended schedule: mpMRI + mandatory targeted biopsy (4–6 cores) of the treated area at 3–6
+   months → mpMRI at 1–2 and 5 years, with targeted biopsy as needed (especially for a new lesion) →
+   systematic biopsy at 1–2 and 5 years to assess the untreated zone when low-volume, low-grade disease is
+   being monitored.
+ • Post-FT mpMRI experience is limited. After whole-gland HIFU, DCE-MRI sensitivity is 73–87% and
+   specificity 73–82%.
+ • Prostate Imaging after Focal Ablation (PI-FAB) reads mpMRI sequences in a fixed order (Fig. 163.11):
+       ◦ DCE is read first, because scarring and fibrosis obscure the T2-weighted and DWI sequences that PI-
+         RADS relies on.
+       ◦ Enhancement >3 mm within the treated zone is an indication for biopsy.
+
+
+
+                                                          page 21 of 22
+Chapter 163 — Focal Therapy of Prostate Cancer                                        Conclusions and Areas for Future Research
+      ◦ The criteria are expert derived, so clinical correlation is still advised until validation. PI-FAB is a step
+        towards standardised post-FT imaging.
+ • To reduce the cost of mpMRI and the morbidity of repeated biopsy, CEUS was as good as mpMRI for early
+   ablation success after focal IRE, whereas grey-scale TRUS cannot see the ablation zone.
+Figure legend
+ • Fig. 163.11 — PI-FAB scoring: read sequences in order DCE → DWI (high b value) → DWI (apparent
+   diffusion coefficient, ADC, map) → T2-weighted. A positive finding is focal early enhancement on DCE,
+   focal hyperintensity at high b value, and focal hypointensity on the ADC map and T2.
+ PI-FAB            DCE                    DWI (high b)       Management
+ 1                 Negative               Negative           Continue monitoring
+ 2                 Positive               Negative           Correlate with PSA kinetics (and follow-up MRI); biopsy if
+                                                             PSA rising. Compare DCE with pretreatment imaging
+ 3                 Positive               Positive           Biopsy
+
+ • Downgrade 2 → 1 if the enhancement is linear and not at the site of the original tumour.
+ • Upgrade 2 → 3 for early focal enhancement >3 mm resembling the original tumour, or a PI-FAB 2 focus
+   that has grown.
+Concept — After FT there is no PSA "zero" to aim for. Success is defined anatomically (infield vs outfield) and
+proven by MRI-directed biopsy, and because scar hides T2 and DWI changes, DCE is read first.
+
+CONCLUSIONS AND AREAS FOR FUTURE RESEARCH
+ • Willet Whitmore: "Is cure possible when necessary and necessary when possible?"
+ • Longer life expectancy, awareness and PSA screening mean more cancers are diagnosed, and better
+   imaging and biopsy find them earlier. In a subset, FT may cure or control the cancer for a long time. Given
+   its slow biology, prostate cancer can be converted from an acute to a chronic disease.
+ • FT + AS of the untreated gland avoids overtreatment and preserves genitourinary function. Many men
+   value quality of life as highly as cancer control, and image-guided ablation can deliver both. It remains a
+   work in progress.
+ • Three open problems:
+     1. Can untreated satellite "insignificant" cancers safely be left? The answer is unknown, a question AS
+        shares. Small cancers may progress, and the randomised VTP trial's progression-free benefit in low-
+        risk disease suggests value in treating lower-grade lesions. Clinical, imaging and genetic biomarkers
+        are needed, possibly with functional and metabolic imaging. Meanwhile, close surveillance continues.
+     2. Long-term cost-effectiveness is unknown. Up to half of men on AS eventually have radical treatment,
+        and many FT patients will need further focal or radical treatment. Patients must accept possible repeat
+        treatment. The cost and morbidity of repeated FT, and of radical treatment after FT, are undefined.
+     3. Adjuvants may be needed. Wide excision for breast cancer is routinely paired with adjuvant
+        radiotherapy, but no prostate trial has tested focal ablation with whole-gland irradiation. Several
+        adjuvants are in early development.
+Concept — The breast analogy that launched FT also shows its gap. Lumpectomy succeeds because the rest
+of the organ receives adjuvant treatment; prostate FT instead relies on surveillance and retreatment.
+
+
+
+
+                                                         page 22 of 22
+

@@ -1,0 +1,1189 @@
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                               Clinical Considerations
+
+
+
+ Chapter 166 — Management of Castration-Resistant
+ Prostate Cancer
+   • Suppression of gonadal testosterone is the central principle of androgen deprivation therapy (ADT) —
+     one of the most effective systemic treatments known for any solid tumour.
+   • Progression despite castrate testosterone is universal: almost every patient on ADT eventually shows
+     biochemical and clinical progression, reflecting adaptive survival mechanisms in the tumour.
+   • Historical outcome with ADT alone (orchiectomy or luteinising hormone–releasing hormone [LHRH]-
+     targeted therapy) in metastatic disease: progression-free survival (PFS) 12–20 months, overall survival
+     (OS) 24–36 months; conventional endocrine therapy alone improved only modestly over decades.
+   • Life-prolonging classes now available in castration-resistant prostate cancer (CRPC): next-generation
+     androgen receptor (AR)-pathway inhibitors (ARPIs); taxane chemotherapy; radiopharmaceuticals
+     (radium-223 and prostate-specific membrane antigen [PSMA]-targeted lutetium-177); poly-adenosine
+     diphosphate (ADP)-ribose polymerase inhibitors (PARPIs); and immunotherapy.
+   • Castration-resistant clones exist early: cells with the castration-resistant phenotype are identifiable in
+     the early stages of prostate cancer.
+   • The AR stays central: somatic AR alterations are frequent after ADT; a molecularly altered AR can be
+     activated by other ligands (oestrogens, progestational agents) and ligand-independently by growth
+     factors and cytokines — the rationale for ARPIs such as abiraterone and enzalutamide.
+   • Proliferation–apoptosis balance: with androgens present, proliferation exceeds cell death; ablation
+     triggers a swift apoptotic cascade; as the tumour progresses the apoptotic threshold rises until
+     proliferation again exceeds death, and endocrine-independent cells come to dominate.
+   • Lineage plasticity (neuroendocrine/anaplastic differentiation) is common under treatment, ranging
+     from bone-predominant disease to aggressive variants with visceral spread and low PSA; these may
+     need platinum regimens, as in small cell lung carcinoma.
+   • Other targets: peptide growth factors and cell-surface receptors such as PSMA (targets for
+     radiopharmaceuticals, antibody–drug conjugates and monoclonal antibodies); BRCA1/BRCA2
+     mutations create synthetic lethality with PARPIs (olaparib, talazoparib, rucaparib).
+ Concept — castration resistance is not androgen independence: the AR remains the principal driver, so
+ the chapter's therapeutic logic runs from deeper AR suppression first to non-AR mechanisms (DNA repair,
+ bone, PSMA, immunity) once AR dependence is lost.
+
+ CLINICAL CONSIDERATIONS
+
+ Disease States
+   • TNM (tumour, node, metastasis) staging fails in advanced disease: purely anatomic, it does not guide
+     management of recurrent or advanced prostate cancer.
+   • Clinical states model (Prostate Cancer Clinical Trials Working Group, 2008; updated as PCWG3, 2016)
+     classifies patients by response to prior therapy; the chapter's prognostic and therapeutic reasoning is
+     built on it.
+   • Baseline evaluation: extent of disease; mode and site of progression (PSA rise alone, new bone
+     metastasis, visceral or nodal metastasis); symptoms, especially bone pain; response to previous
+     endocrine therapy.
+
+
+
+                                                           page 1 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                               Clinical Considerations
+
+
+ FIG. 166.1 PROSTATE CANCER CLINICAL STATES MODEL (PCWG3, SCHER ET AL., 2016)
+ Clinically localised disease → rising PSA (non-castrate) → clinical metastases (non-castrate) or non-
+ metastatic CRPC (nmCRPC) → metastatic CRPC (mCRPC) first line → second line → third, fourth … line X.
+ The first three states are non-castrate; nmCRPC and every mCRPC line are castration-resistant.
+
+ Monitoring progression
+   • PSA, computed tomography/nuclear medicine (CT/NM) imaging and symptoms remain the main tools
+     for assessing progression.
+   • PSA doubling time (PSADT) ≤10 months defined high-risk nmCRPC in SPARTAN, ARAMIS and PROSPER,
+     the pivotal trials that set the nmCRPC standard of care.
+   • Rising PSA is usually the first sign of progression; historically, with ADT alone, it preceded bone-scan
+     progression while patients stayed largely asymptomatic.
+   • Radiographic progression without PSA progression is now common because ARPIs are used earlier: in
+     ARCHES (enzalutamide + ADT in hormone-sensitive disease) up to two-thirds of radiographic
+     progressors had no concurrent PSA progression — PSA alone is insufficient for these patients.
+   • Check serum testosterone when non-compliance is suspected or prior regimens do not sustain
+     castration (non-steroidal antiandrogen monotherapy, low-dose oestrogens, 5α-reductase inhibitors).
+
+ Continuing ADT
+   • Maintain LHRH agonist/antagonist indefinitely, including during chemotherapy and ARPIs; almost all
+     CRPC trials mandate continued testosterone suppression (medical or surgical).
+   • Rationale: stopping suppression in non-orchiectomised men may worsen progression and survival;
+     exogenous testosterone can cause a severe flare (pain, neurological, urological and coagulation
+     complications) in a minority. Some studies show no detriment to stopping, but consensus is to
+     continue.
+
+ Antiandrogen withdrawal
+   • Withdrawal of a first-generation antiandrogen (e.g. bicalutamide; steroidal or non-steroidal) can give
+     short-lived PSA falls, symptomatic benefit and occasionally objective responses in a minority.
+   • First step when progressing on combined androgen blockade: observed discontinuation of the
+     antiandrogen → serial PSA for 4–8 weeks → next manoeuvre.
+
+ Choosing the next therapy
+   • Options: second-line hormonal manipulation (first-generation antiandrogen or ARPI), cytotoxic
+     chemotherapy, radiopharmaceuticals or molecularly targeted therapy.
+   • Second-line hormonal therapy is most common first; bicalutamide lowers PSA with little toxicity, but
+     ARPIs have largely replaced first-generation agents over the last decade.
+   • Sequential hormonal approach suits limited, asymptomatic metastatic disease (e.g. rising PSA without
+     pain).
+   • ARPI + PARPI should be considered in patients progressing on ADT who carry homologous
+     recombination repair (HRR) mutations, especially BRCA.
+   • Sequencing is unknown: the mCRPC trials enrolled men progressing on ADT alone, whereas hormone-
+     sensitive disease is now treated upfront with chemotherapy and ARPIs (abiraterone, enzalutamide,
+     apalutamide; darolutamide with docetaxel).
+
+ Predicting behaviour
+   • PSADT predicts the speed of bone-scan progression and survival; PSADT <3 months → particularly
+     rapid course → consider more aggressive management.
+
+
+                                                           page 2 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer          Nonmetastatic Castration-Resistant Prostate Cancer
+
+
+   • Symptomatic bone pain or visceral-predominant disease → upfront cytotoxic chemotherapy may
+     serve better.
+   • Poorly differentiated and neuroendocrine tumours seldom respond durably to further AR-directed
+     therapy.
+   • Biopsy of metastatic sites in clinically aggressive disease with relatively low PSA may reveal a
+     neuroendocrine phenotype on immunostaining; routine biopsy of all such patients is not yet defined.
+
+ Genomic testing
+   • mCRPC genomes differ from the primary; the current standard for somatic next-generation sequencing
+     is tumour tissue, usually the untreated primary, because metastatic (mostly bone) biopsy is difficult.
+   • Liquid biopsy (circulating tumour DNA) is an alternative with limits: clonal haematopoiesis of
+     indeterminate potential (CHIP) can produce spurious DNA-repair-gene calls — such patients are
+     unlikely to respond to PARPIs despite a "positive" report.
+   • Germline testing is recommended for: metastatic prostate cancer; family history of BRCA1/2-, Lynch
+     syndrome- or HOXB13-associated cancers; Ashkenazi ancestry.
+ Concept — classify by clinical state, not anatomy: prior therapy, pace (PSADT) and phenotype decide
+ what comes next, and because ARPIs now come earlier, the old PSA-first pattern of progression can no
+ longer be relied upon.
+
+ NONMETASTATIC CASTRATION-RESISTANT PROSTATE CANCER
+   • Stage migration created the M0 CRPC group: ADT started at first PSA rise after local therapy, before
+     metastases are visible on conventional imaging. The group grew but has likely peaked as PSMA PET
+     reclassifies many as metastatic.
+   • PSA kinetics are the strongest predictor of metastatic progression (PSA velocity, PSADT); pre-ADT
+     factors (pretreatment PSA, PSADT, stage, Gleason score) and response to ADT also contribute.
+   • Natural history can be long in unselected men with rising PSA on ADT: about one-third have bone
+     metastases at 2 years; median time to bone metastasis about 30 months. Baseline PSA >10 ng/mL and
+     PSA velocity independently predict time to bone metastasis and survival.
+   • Old approach: sequential first-generation agents (bicalutamide, ketoconazole). Current standard: an
+     ARPI when PSADT ≤10 months.
+   • Three ARPIs are approved for nmCRPC — apalutamide (first; SPARTAN), enzalutamide (PROSPER) and
+     darolutamide (ARAMIS), each improving metastasis-free survival (MFS) and OS (trial details under
+     Androgen Signaling Inhibitors).
+   • Unresolved: how PSMA PET will redefine this population and whether treatment should follow
+     hormone-sensitive or castration-resistant logic.
+ Concept — nmCRPC is an imaging artefact defined by kinetics: it exists because conventional scans miss
+ disease, so PSADT selects who needs treatment and more sensitive imaging is shrinking the category.
+
+ METASTATIC CASTRATION-RESISTANT PROSTATE CANCER
+   • Heterogeneous population; trial eligibility and risk stratification still rest on conventional imaging
+     (bone scintigraphy and CT).
+   • Most mCRPC remains addicted to AR signalling through AR overexpression, enhancer and gene
+     amplification, and transcriptionally active AR splice variants lacking the ligand-binding domain.
+
+
+
+
+                                                           page 3 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                              Evaluation of Treatment Efficacy
+
+
+ Bone tropism
+   • Overwhelming predilection for bone: circulating cells arrest in cortical and medullary bone → adhere
+     via receptors for integrins, collagens, laminin and other bone proteins → grow under hormones,
+     growth factors and stromal–epithelial interactions in the marrow.
+   • Consequences: pain, nerve-root or cord compression, pathological fracture; marrow replacement →
+     myelophthisic anaemia and thrombocytopenia.
+   • Visceral metastasis in <20%, soft-tissue nodal disease in 30–40%; visceral disease without bone
+     involvement is rarer still.
+   • Response rate is a poor end point: soft-tissue shrinkage reflects a small fraction of total (mostly bone)
+     burden → PCWG3 prefers PFS incorporating bone and soft-tissue radiographic progression.
+
+ Haematological complications
+   • Anaemia is the commonest: chronic disease, marrow invasion, blood loss, rarely microangiopathic
+     haemolysis with disseminated intravascular coagulation; compounded by pelvic marrow irradiation,
+     chemotherapy, radiopharmaceuticals and long-term ADT.
+   • Erythropoiesis-stimulating agents: not recommended, or only with caution — they may increase
+     mortality in cancer patients.
+   • Thrombocytopenia (rarely leukopenia) usually follows extensive radiotherapy or chemotherapy;
+     pancytopenia is an end-stage marrow process.
+   • Thrombocytosis is non-specific; clotting complications are rare and treatment is usually unnecessary.
+
+ Urological and neurological emergencies
+   • Obstructive uropathy (primary tumour or pelvic/retroperitoneal nodes) → infection, pain and renal
+     impairment that can preclude renally cleared chemotherapy → relieve obstruction first (internal
+     ureteric stent or percutaneous nephrostomy) in chemotherapy candidates.
+   • Spinal cord compression is among the greatest oncological emergencies; vertebral involvement makes
+     it common and it needs expeditious management (see Palliative Management).
+ Concept — bone dominance shapes everything: it produces the complications (pain, fracture, cord
+ compression, marrow failure) and explains why response rate misleads and PFS is preferred.
+
+ EVALUATION OF TREATMENT EFFICACY
+   • Consistent prognostic factors across settings: performance status, pain, haemoglobin, PSA, alkaline
+     phosphatase, lactate dehydrogenase (LDH), extent of bone involvement (number or pattern of lesions)
+     and visceral disease.
+
+ RESPONSE ASSESSMENT BY MODALITY
+  Modality           Behaviour on treatment                                 Rule / interpretation
+  PSA                Declines predict outcome on abiraterone and            PSA flare/fluctuation on radium-223 and
+                     enzalutamide; chemotherapy may cause a rise            177Lu-PSMA-617 does not imply worse
+                     before a fall; little PSA change in the sipuleucel-T   prognosis
+                     and radium-223 pivotal trials
+  Circulating        Falling counts associate with better outcome on        Prognostic independently of PSA; still
+  tumour cells       chemotherapy and on abiraterone/enzalutamide           investigational
+  (CTCs)
+
+
+
+
+                                                           page 4 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer          Neuroendocrine/Aggressive Variant Metastatic Prostate Cancer
+
+
+  Modality           Behaviour on treatment                                       Rule / interpretation
+  Bone scan          Rarely shows response; sclerosis may mean healing            PCWG3: new baseline scan at 12–16
+                     or progression; new lesions may be a flare of                weeks; thereafter progression = ≥2 new
+                     subclinical responding disease                               lesions; clinical improvement or PSA fall
+                                                                                  supports flare
+  CT                 Measurable or evaluable non-bone disease                     RECIST (Response Evaluation Criteria in
+                                                                                  Solid Tumours)
+  PSMA PET/CT        Apparent progression within 4 weeks resolving by 3           Insufficient data in CRPC; response
+                     months (~13%, later responders)                              frameworks still being developed
+
+   • What the table tests: in CRPC every single marker can mislead early — PSA, bone scan and PSMA PET
+     all flare — so progression is called on confirmed, combined evidence, with the 12–16-week scan as the
+     reference.
+ Concept — early apparent progression is often flare; the PCWG3 new-baseline and "two new lesions"
+ rules exist to stop effective therapy being abandoned too soon.
+
+   KEY POINTS: CLINICAL CONSIDERATIONS
+     • Evaluate extent and aggressiveness of disease before choosing therapy.
+     • Critical determinants: radiographic metastases on conventional imaging or not; biochemical vs
+       radiographic vs clinical progression; symptoms (e.g. pain).
+     • mCRPC is heterogeneous in metastatic distribution, disease kinetics and treatment response.
+
+
+ NEUROENDOCRINE/AGGRESSIVE VARIANT METASTATIC PROSTATE CANCER
+   • Neuroendocrine/anaplastic transformation occurs in a small proportion of advanced cases; it is
+     inherently endocrine-resistant and needs different treatment.
+   • Biology shared with neuroendocrine tumours elsewhere (most often lung): receptors for
+     neuroendocrine peptides (somatostatin, chromogranin A, serotonin), parathyroid hormone–related
+     protein (PTHrP), TP53 mutation, low PSMA expression.
+   • Molecular signature (small cell neuroendocrine prostate cancer): at least two of three — PTEN loss,
+     TP53 mutation, RB1 loss.
+   • Clinical pattern: subacute, dramatic change — rapidly growing soft-tissue masses (primary site,
+     retroperitoneum), liver infiltration, osteolytic bone metastases, parenchymal brain metastases.
+   • PSA stops rising or becomes undetectable despite major progression. PSMA PET is thought to be of
+     low utility, though some tumours remain PSMA-avid and might benefit from PSMA-based treatment.
+   • Biopsy is strongly encouraged → small cell or poorly differentiated neoplasm with neuroendocrine
+     immunostaining.
+   • Treatment as for small cell lung cancer: cisplatin + etoposide or taxane + carboplatin; doxorubicin-
+     containing regimens modestly effective; clinical trials encouraged.
+   • Radiotherapy for bulky disease, brain metastases, or local control in critical sites (pain, impending
+     fracture, bladder outlet obstruction); combined chemoradiotherapy is often needed.
+   • Prognosis poor despite high initial response: survival generally <12 months.
+
+
+
+
+                                                           page 5 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                     Androgen Signaling Inhibitors
+
+
+ USUAL ADENOCARCINOMA VS NEUROENDOCRINE/AGGRESSIVE VARIANT CRPC
+  Feature            Usual mCRPC (adenocarcinoma)                  Neuroendocrine/aggressive variant
+  AR                 Retained (AR-driven)                          Lost — unresponsive to hormonal therapy
+  dependence
+  PSA                Tracks disease                                Low, falling or undetectable despite progression
+  Bone lesions       Osteoblastic                                  Osteolytic, with hypercalcaemia (PTHrP)
+  Metastatic         Bone ± nodes; visceral <20%                   Visceral (liver), bulky pelvic/retroperitoneal masses,
+  sites                                                            brain
+  PSMA               Usually expressed                             Low
+  Treatment          ARPI, taxane, radiopharmaceutical,            Platinum-based chemotherapy ± radiotherapy
+                     PARPI
+  Survival           Years across sequential lines                 <12 months
+
+ Concept — the trap is a falling PSA with a growing tumour: loss of AR dependence removes both the
+ marker and the target, so rapid progression with low PSA should prompt biopsy and a switch to platinum.
+
+   KEY POINTS: NEUROENDOCRINE PROSTATE CANCER
+     • Suspect the neuroendocrine subtype in rapidly growing disease with pelvic masses, visceral
+       involvement, osteolytic metastases with hypercalcaemia (high serum PTHrP) or parenchymal brain
+       metastases.
+     • PSA usually undetectable (or low/declining) despite rapid progression; serum chromogranin A and
+       urinary serotonin metabolites may be detectable but are not needed for diagnosis.
+     • Invariably hormone-unresponsive, but transiently sensitive to radiotherapy and chemotherapy
+       (platinum–etoposide or platinum–taxane).
+
+
+ ANDROGEN SIGNALING INHIBITORS
+
+ CYP17 Inhibition: Abiraterone and Other Agents
+   • AR signalling stays active despite castrate testosterone (<50 ng/dL).
+   • Residual androgen sources: LHRH agents do not touch adrenal androgens (up to 10% of total); CRPC
+     may synthesise intratumoural androgens; CYP17 (cytochrome P450 17) is overexpressed in CRPC.
+   • Pathway: CYP17 converts precursors → dehydroepiandrosterone (DHEA) and androstenedione →
+     testosterone → dihydrotestosterone (the most potent androgen). Hence CRPC is not androgen
+     independent.
+   • Abiraterone acetate: oral selective CYP17 inhibitor; active after ketoconazole (a weak CYP17 inhibitor).
+
+ Abiraterone: practical prescribing
+   • Dose: 1000 mg orally daily with prednisone (10 mg daily in mCRPC trials) and continued LHRH agonist/
+     antagonist.
+   • Why prednisone: CYP17 blockade reduces cortisol → ACTH drive → mineralocorticoid excess →
+     hypokalaemia, hypertension, pedal oedema; prednisone blunts the ACTH drive.
+   • Other toxicity: raised liver enzymes (case reports of liver injury and jaundice in practice) →
+     interruption, dose change or discontinuation; increased mortality in pre-existing cardiovascular
+     disease.
+
+
+
+
+                                                           page 6 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                       Androgen Signaling Inhibitors
+
+
+   • FDA cautions: cardiovascular disease, adrenocortical insufficiency, liver disease; control hypertension;
+     correct hypokalaemia before starting.
+   • Take on an empty stomach — food increases bioavailability up to tenfold; alternative: 250 mg daily
+     with a low-fat meal (≤5 g fat, ~300 kcal). A reformulation (Yonsa) allows more flexible dosing with
+     equivalent efficacy.
+
+ Other CYP17-pathway agents
+   • Orteronel (TAK-700): non-steroidal CYP17 inhibitor, more 17,20-lyase-selective; two phase III mCRPC
+     trials (chemotherapy-naive and post-docetaxel) and an mCSPC trial did not improve survival → no
+     longer pursued.
+   • ODM-208: targets CYP11A1; given with steroids; phase I activity.
+   • Abiraterone (and Yonsa) are the only FDA-approved CYP17 inhibitors.
+   • Moving earlier: LATITUDE and STAMPEDE showed survival gains with ADT + abiraterone/prednisone in
+     high-risk metastatic hormone-sensitive disease; in nmCRPC (IMAAGEN, abiraterone + prednisone 5 mg)
+     PSA response ≥50% was met, but abiraterone is not approved for nmCRPC. Earlier use limits later
+     utility in CRPC.
+ Concept — abiraterone treats the androgen the testis does not make; every toxicity (mineralocorticoid
+ excess) and every co-prescription (prednisone, continued ADT) follows from blocking CYP17 upstream of
+ both cortisol and androgens.
+
+ Androgen Receptor Modulation: Enzalutamide, Apalutamide, Darolutamide and Other
+ Agents
+   • Resistance mechanisms: constitutively active AR mutations, AR overexpression, bypass through
+     accessory pathways (AKT/mTOR/PI3K, HER2/neu).
+   • Next-generation antiandrogens gave survival gains that first-generation agents (bicalutamide,
+     nilutamide, flutamide) never did.
+   • Enzalutamide: potent non-steroidal AR antagonist with no measurable agonist activity, even with
+     overexpressed or activated AR; also blocks nuclear translocation and DNA binding at androgen-
+     response elements.
+   • No steroid needed with enzalutamide — it may be less active with prednisone (prednisone may
+     activate a promiscuous AR or act via the glucocorticoid receptor).
+   • Apalutamide (ARN-509): pure AR antagonist that also inhibits nuclear translocation and DNA binding;
+     does not cross the blood–brain barrier, no seizure signal; notable for rash and hypothyroidism.
+   • Darolutamide: blocks androgen binding; structurally distinct; does not cross the blood–brain barrier →
+     less fatigue; twice-daily dosing.
+   • Class toxicity: fatigue is the most significant; falls and fractures → caution in the elderly (>75 years).
+
+ NEXT-GENERATION AR-PATHWAY INHIBITORS: COMPARISON
+  Agent             Target / mechanism          Dose         Steroid        Signature toxicity              CRPC approvals
+  Abiraterone       CYP17 inhibitor         1000 mg          Yes            Hypokalaemia,                   mCRPC (pre- and
+                    (androgen synthesis:    daily,           (prednisone)   hypertension, oedema,           post-docetaxel);
+                    adrenal, intratumoural) fasting                         hepatotoxicity; CV              not nmCRPC
+                                                                            mortality
+  Enzalutamide AR antagonist + blocks           160 mg       No             Seizures (~1%), fatigue,        mCRPC (pre- and
+               translocation and DNA            daily                       falls                           post-docetaxel);
+               binding                                                                                      nmCRPC
+
+
+
+                                                           page 7 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                    Androgen Signaling Inhibitors
+
+
+  Agent             Target / mechanism          Dose         Steroid       Signature toxicity            CRPC approvals
+  Apalutamide       AR antagonist + blocks      240 mg       No            Rash, hypothyroidism,         nmCRPC (also
+                    translocation and DNA       daily                      fatigue, falls; no BBB        mCSPC)
+                    binding                                                penetration
+  Darolutamide AR antagonist; distinct          300 mg       No            Least CNS effect; no BBB      nmCRPC (mCSPC
+               structure                        twice                      penetration                   with docetaxel)
+                                                daily
+
+   • What the table is for: only abiraterone needs a steroid; only enzalutamide carries the seizure warning;
+     the two BBB-sparing agents (apalutamide, darolutamide) are the ones chosen to limit CNS toxicity; only
+     enzalutamide holds both mCRPC and nmCRPC approvals.
+   • Trap: abiraterone is active in nmCRPC (IMAAGEN) but is not approved there.
+
+ PIVOTAL ARPI TRIALS IN CRPC
+  Trial         Population                    Comparator           Primary end point → result       Verdict
+  COU-          mCRPC, post-docetaxel,        Placebo +            OS 14.8 vs 10.9 mo, HR 0.65;     Pain, fatigue and
+  AA-301        ketoconazole-naive; 2:1       prednisone           rPFS 5.6 vs 3.6; PSA response    skeletal-event benefit;
+                                                                   38% vs 10%                       mainstay of mCRPC
+  COU-          Chemotherapy-naive,           Placebo +            Co-primary rPFS and OS: rPFS     Label extended to all
+  AA-302        asymptomatic/mildly           prednisone           significant; strong OS trend;    mCRPC
+                symptomatic mCRPC                                  chemotherapy delayed 26.5
+                                                                   vs 16.8 mo
+  AFFIRM        mCRPC after 1–2           Placebo                  OS 18.4 vs 13.6 mo, HR 0.63;     Post-docetaxel
+                chemotherapy lines (incl.                          PSA ≥50% fall 54% vs 1.5%;       approval
+                docetaxel)                                         time to progression 8.3 vs 3.0   (enzalutamide 160
+                                                                   mo                               mg)
+  PREVAIL       Chemotherapy-naive,           Placebo              Death risk ↓29% (HR 0.71);       Label extended to all
+                asymptomatic/minimally                             radiographic progression         mCRPC
+                symptomatic mCRPC                                  ↓81% (HR 0.19)
+  PROSPER       nmCRPC, PSADT <10 mo          Placebo (+ ADT)      MFS improved; death risk         Enzalutamide
+                                                                   ↓27%                             approved for nmCRPC
+  SPARTAN       nmCRPC, PSADT ≤10 mo          Placebo              MFS: risk ↓72% (HR 0.28); OS Apalutamide: first
+                                                                   73.9 vs 59.9 mo, HR 0.78     nmCRPC drug
+  ARAMIS        nmCRPC, PSADT ≤10 mo          Placebo              MFS 40.4 vs 18.4 mo; death       Darolutamide
+                                                                   HR 0.69; delayed                 approved for nmCRPC;
+                                                                   symptomatic skeletal events      no safety signal
+                                                                   and chemotherapy
+  IMAAGEN       High-risk nmCRPC              Single arm           PSA fall ≥50% achieved           Not approved for
+                                              (abiraterone +                                        nmCRPC
+                                              prednisone 5 mg)
+
+   • Pattern: each ARPI was proven first after docetaxel, then before it, then in nmCRPC (and mCSPC) — the
+     drugs migrated forward, which is why most men now reach CRPC already exposed to one.
+   • Apalutamide in mCSPC (TITAN): longer OS and time to chemotherapy vs placebo; rash showed the
+     largest exposure-adjusted excess, otherwise a similar safety profile.
+
+
+
+
+                                                           page 8 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer              Novel Androgen Receptor–Targeting Approaches
+
+
+ How New Approvals in the Metastatic Castration-Sensitive Space Affect Treatment for
+ mCRPC
+   • mCSPC standards now: ADT + docetaxel; + abiraterone/prednisone; + enzalutamide; + apalutamide; +
+     docetaxel + darolutamide; + docetaxel + abiraterone/prednisone. Fewer men reach mCRPC on ADT
+     alone.
+   • Cross-resistance: progression on one ARPI predicts resistance to another; sequential ARPI benefits only
+     15–30% — try only with close monitoring.
+
+ NEXT OPTION AT MCRPC BY PRIOR MCSPC THERAPY
+  Prior therapy                       Reasonable next options
+  Docetaxel (no ARPI)                 ARPI
+  ARPI (no chemotherapy)              Chemotherapy or non-hormonal agent (radium-223, sipuleucel-T)
+  Both docetaxel and ARPI             Radiopharmaceutical or cabazitaxel
+
+   • Practical selection factors: comorbidity (infection, diabetes, accelerated cardiovascular disease, liver
+     disease, seizure disorder); co-medications; cost (oral co-payments may make chemotherapy the
+     realistic option); dosing burden (darolutamide's twice-daily schedule).
+   • Drug–drug interactions (anticoagulants, antiretrovirals, antidepressants especially):
+       ◦ Enzalutamide: avoid CYP2C8 inhibitors (raise its exposure); strong/moderate CYP3A4 or CYP2C8
+         inducers lower its exposure; it reduces exposure of narrow-therapeutic-index drugs metabolised by
+         CYP2C9, CYP2C19 or CYP3A4.
+       ◦ Abiraterone: metabolised by CYP3A4 (inhibitors raise exposure); avoid co-prescribed CYP2D6
+         substrates.
+ Concept — prior exposure now dictates the CRPC menu: ARPI-on-ARPI rarely works, so the logic is to
+ switch mechanism — AR ↔ taxane ↔ radioligand — rather than intensify the same one.
+
+   KEY POINTS: ANDROGEN SIGNALING INHIBITORS
+     • Next-generation ARPIs improve OS in castration-sensitive disease (abiraterone, enzalutamide,
+       apalutamide; darolutamide with docetaxel) and in CRPC (abiraterone, enzalutamide).
+     • Cross-resistance limits ARPIs used in sequence.
+     • Three drugs approved for nmCRPC: apalutamide, enzalutamide, darolutamide.
+
+
+ NOVEL ANDROGEN RECEPTOR–TARGETING APPROACHES
+
+ Androgen Receptor Degraders
+   • Rationale: resistant mCRPC shows AR overexpression, increased nuclear translocation, and ligand-
+     binding-domain mutations or splice variants that stabilise AR by reducing proteolysis → degrade the
+     receptor instead of blocking it.
+   • PROTAC (proteolysis-targeting chimera): tags a target protein for destruction by the ubiquitin–
+     proteasome system; highly selective, fewer off-target effects, can reach "undruggable" targets.
+   • ARV-110: phase I in heavily pretreated mCRPC (≥2 prior therapies incl. enzalutamide or abiraterone);
+     manageable toxicity; PSA falls ≥50% (PSA50) in 46% of those with AR T878A/S and/or H875Y
+     mutations; later trials stratify by AR mutation.
+
+
+
+
+                                                           page 9 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                             Cytotoxic Chemotherapy
+
+
+   • ARV-766: degrades wild-type AR and ligand-binding-domain mutants including the commonest, L702H;
+     further PROTACs are in preclinical development.
+ Concept — degradation defeats the mutations that defeat antagonists: when the receptor is mutated or
+ overabundant, removing the protein works where competitive blockade fails.
+
+ CYTOTOXIC CHEMOTHERAPY
+
+ Chemotherapeutic Agents
+   • Historically tried: cyclophosphamide, 5-fluorouracil, estramustine, vinorelbine, etoposide, cisplatin,
+     carboplatin, doxorubicin, mitoxantrone, paclitaxel, docetaxel.
+   • Still in use: docetaxel, cabazitaxel, occasionally platinum, perhaps mitoxantrone — the rest gave
+     neither symptom nor survival benefit.
+   • Survival on chemotherapy in advanced CRPC: about 16–20 months.
+
+ Docetaxel
+   • Mechanism: β-tubulin binding → microtubule stabilisation (GTP-independent polymerisation) → G2/M
+     arrest; TP53-independent apoptosis; BCL2 phosphorylation (caspase-3 activation; loss of anti-apoptotic
+     function; BAX no longer inhibited); CDKN1B (p27) induction; BCL-XL repression; impairs microtubule
+     transport of ligand-bound AR into the nucleus.
+   • 2004: drug of choice for mCRPC (TAX 327), superseding mitoxantrone + prednisone.
+
+ TAX 327 (landmark)
+   • Design: 1006 chemotherapy-naive men with stable pain; all on prednisone 5 mg twice daily and
+     continued ADT; three arms — mitoxantrone 12 mg/m² 3-weekly; docetaxel 75 mg/m² 3-weekly;
+     docetaxel 30 mg/m² weekly; planned 30 weeks (10 cycles).
+   • Result: OS 18.9 months (3-weekly docetaxel) vs 17.3 (weekly) vs 16.4 (mitoxantrone); 3-weekly
+     docetaxel cut death risk by 24% (HR 0.76, 95% CI 0.62–0.94, P = 0.009); pain and PSA responses also
+     best with docetaxel.
+   • First demonstration that chemotherapy prolongs survival in mCRPC.
+   • Schedule contrast: 3-weekly → more neutropenia and febrile neutropenia, slightly more neuropathy;
+     weekly → more nausea/vomiting, fatigue, nail change, hyperlacrimation, diarrhoea. Quality of life
+     (FACT-P) similar between schedules, better than mitoxantrone.
+
+ SWOG 9916
+   • Docetaxel 60 mg/m² + estramustine vs mitoxantrone + prednisone: OS 17.5 vs 15.6 months, HR 0.80.
+   • Estramustine abandoned: thromboembolism (required warfarin and aspirin prophylaxis),
+     gastrointestinal and cardiovascular toxicity, and no added activity over docetaxel alone.
+
+ Failed docetaxel combinations
+   • No OS gain from adding anti-angiogenics (bevacizumab, aflibercept, lenalidomide — despite VEGF
+     correlating inversely with survival), bone-targeted agents (atrasentan, zibotentan, dasatinib) or high-
+     dose calcitriol.
+   • Why they failed: marginal partner activity; no randomised phase II before phase III; docetaxel dose
+     reductions from overlapping toxicity.
+
+ Docetaxel moved upfront
+   • Docetaxel + ADT improves survival in hormone-sensitive disease; triplets (ADT + docetaxel + ARPI) beat
+     ADT + docetaxel — PEACE-1 (abiraterone) and ARASENS (darolutamide).
+
+
+                                                           page 10 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                 Cytotoxic Chemotherapy
+
+
+   • At CRPC: re-treat with docetaxel, or move to cabazitaxel if progression occurred on docetaxel.
+
+ Cabazitaxel
+   • Second-generation taxane with poor affinity for P-glycoprotein (ATP-dependent efflux pump) → active
+     in docetaxel-sensitive and docetaxel-resistant tumours; neutropenia was dose-limiting in phase I.
+   • TROPIC (landmark; FDA approval June 2010): 755 men progressing after docetaxel; cabazitaxel 25 mg/
+     m² 3-weekly + prednisone vs mitoxantrone 12 mg/m² + prednisone → OS 15.1 vs 12.7 months (HR
+     0.70); better PFS, PSA and radiological responses; no difference in pain response.
+   • Subgroups: benefit regardless of measurable disease, pain, or progression on vs after docetaxel;
+     greatest with ECOG (Eastern Cooperative Oncology Group) 0–1 and in those progressing <3 months
+     from docetaxel start → little cross-resistance with docetaxel.
+   • Toxicity: grade 3–4 neutropenia 82% (febrile 8%), worse >65 years; diarrhoea (worse >65 and after
+     prior radiotherapy); fatigue; neuropathy rarely severe (grade 3 ~1%). Growth factor support
+     recommended.
+   • PROSELICA: 20 mg/m² non-inferior to 25 mg/m² for OS with fewer grade 3–4 events (40% vs 55%) →
+     label changed to 20 mg/m² for most; 25 mg/m² reasonable if low neutropenic risk.
+   • FIRSTANA: cabazitaxel (20 or 25 mg/m²) not superior to docetaxel first line → cabazitaxel is not
+     approved as first-line chemotherapy.
+   • CARD: after docetaxel and one ARPI (abiraterone or enzalutamide), cabazitaxel beat a second ARPI —
+     OS 13.6 vs 11.0 months (HR 0.64); PFS 4.4 vs 2.7 months (HR 0.52).
+
+ Mitoxantrone
+   • First chemotherapy approved for CRPC (FDA 1997, with prednisone), for symptomatic disease:
+     semisynthetic anthracycline; best palliation with low-dose corticosteroid.
+   • Two randomised trials (vs prednisone alone; vs hydrocortisone alone) improved quality of life and pain
+     but not survival.
+   • Current role: docetaxel- and cabazitaxel-refractory disease, or marginal performance status.
+
+ Platinum Agents
+   • Not approved or widely used in unselected mCRPC.
+   • Platinum-sensitive subsets: small cell/aggressive variant (cisplatin–etoposide or docetaxel–carboplatin;
+     responses short); a randomised phase II showed cabazitaxel + carboplatin prolonged PFS in aggressive-
+     variant but not usual mCRPC; DNA-repair-deficient tumours, e.g. germline BRCA2 responding better to
+     docetaxel–carboplatin than docetaxel alone.
+
+ CHEMOTHERAPY AGENTS IN MCRPC: COMPARISON
+                     Class / key                                                Survival
+  Agent              property              Dose                Line             benefit    Signature toxicity
+  Docetaxel          Taxane;               75 mg/m² IV 3-      First-line       Yes (TAX   Neutropenia, fatigue,
+                     microtubule           weekly +            chemotherapy     327)       oedema, neuropathy,
+                     stabiliser; blocks    prednisone                                      hyperlacrimation, nail
+                     AR transport                                                          dystrophy
+  Cabazitaxel        Taxane; poor P-       20 (or 25) mg/      Post-docetaxel   Yes        Neutropenia, diarrhoea;
+                     glycoprotein          m² IV 3-weekly                       (TROPIC,   little neuropathy
+                     affinity              + prednisone +                       CARD)
+                                           G-CSF
+
+
+
+
+                                                           page 11 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                           Cytotoxic Chemotherapy
+
+
+                     Class / key                                                     Survival
+  Agent              property              Dose                Line                  benefit         Signature toxicity
+  Mitoxantrone       Semisynthetic         12 mg/m² IV 3-      Palliative; taxane-   No              —
+                     anthracycline         weekly +            refractory or frail   (palliation
+                                           prednisone                                only)
+  Carboplatin /      Platinum              With etoposide      Neuroendocrine;       Subset-         —
+  cisplatin                                or a taxane         DNA-repair-           dependent
+                                                               deficient
+
+   • Pairs to hold: docetaxel neuropathy vs cabazitaxel neutropenia/diarrhoea; mitoxantrone palliates but
+     does not prolong life; cabazitaxel beats a second ARPI (CARD) but not docetaxel first line (FIRSTANA).
+
+ CHEMOTHERAPY TRIALS IN MCRPC
+  Trial          Population             Comparison                     Key result                     Verdict
+  TAX 327        Chemotherapy-          Docetaxel 3-weekly vs          OS 18.9 vs 17.3 vs 16.4 mo;    3-weekly docetaxel =
+                 naive                  weekly vs mitoxantrone         HR 0.76                        standard
+  SWOG           Progressive CRPC       Docetaxel + estramustine       OS 17.5 vs 15.6 mo; HR         Estramustine adds
+  9916                                  vs mitoxantrone                0.80                           toxicity, not efficacy
+  TROPIC         Post-docetaxel         Cabazitaxel 25 vs              OS 15.1 vs 12.7 mo; HR         Cabazitaxel approved
+                                        mitoxantrone                   0.70                           (2010)
+  PROSELICA Post-docetaxel              Cabazitaxel 20 vs 25 mg/       20 non-inferior; fewer         20 mg/m² default
+                                        m²                             grade 3–4 events
+  FIRSTANA       Chemotherapy-          Cabazitaxel 20/25 vs           No OS superiority              Docetaxel stays first
+                 naive                  docetaxel 75                                                  line
+  CARD           Post-docetaxel +       Cabazitaxel vs alternative     OS 13.6 vs 11.0 mo, HR         Switch mechanism,
+                 one ARPI               ARPI                           0.64; PFS 4.4 vs 2.7 mo, HR    not ARPI
+                                                                       0.52
+
+ Novel Chemotherapeutic Approaches
+   • Antibody–drug conjugates (ADCs): antibody to a cell-surface antigen delivers a cytotoxic payload —
+     targets include PSMA, TROP-2, STEAP-1, tissue factor, delta-like protein 3 (DLL3).
+   • Shared payload (typically a microtubule inhibitor such as monomethyl auristatin E) → sensitivity
+     depends on target prevalence; progression on one PSMA-targeted therapy (e.g. 177Lu-PSMA) does not
+     preclude response to a PSMA ADC.
+   • Toxicity stems from the payload and from target expression on normal tissue.
+ Concept — taxanes are the only cytotoxics that extend life in mCRPC: docetaxel first, cabazitaxel after it,
+ with cabazitaxel's P-glycoprotein escape explaining why docetaxel failure does not predict cabazitaxel
+ failure.
+
+   KEY POINTS: CYTOTOXIC CHEMOTHERAPY
+     • Docetaxel is standard first-line chemotherapy: prolongs PFS and OS, relieves pain, improves quality
+       of life.
+     • Docetaxel toxicity: myelosuppression, fatigue, peripheral oedema, neurotoxicity, hyperlacrimation,
+       nail dystrophy.
+     • Cabazitaxel is second-line chemotherapy after progression on or after docetaxel; 20 or 25 mg/m² 3-
+       weekly both acceptable, the lower dose less toxic.
+     • Cabazitaxel toxicity: neutropenia (including febrile), diarrhoea; generally not neuropathy.
+
+
+                                                           page 12 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                          Radiopharmaceuticals
+
+
+     • Docetaxel increasingly used earlier; CRPC management depends on prior agents and response.
+     • Mitoxantrone palliates without prolonging survival; used after taxanes or when they would not be
+       tolerated.
+     • Platinum agents for small cell prostate cancer and perhaps other subsets (combined TP53 and PTEN
+       inactivation; DNA-repair-deficiency mutations).
+
+
+ RADIOPHARMACEUTICALS
+
+ Radium-223
+   • Evolution: beta emitters strontium-89 and samarium-153 (bone-pain palliation) → largely replaced by
+     the alpha emitter radium-223.
+   • Alpha physics: path length <100 µm → spares adjacent marrow → limited haematological toxicity.
+   • ALSYMPCA (landmark): symptomatic bone metastases, no known visceral disease or bulky nodes; 50
+     kBq/kg IV every 4 weeks × 6 → OS HR 0.70, median gain 3.6 months (14.9 vs 11.3); time to first
+     symptomatic skeletal event delayed ~6 months (HR 0.66); better quality of life (FACT-P).
+   • Tolerability: adverse and serious adverse events fewer than placebo; diarrhoea commonest; anaemia
+     in about one-third (grade ≥3 in 13%).
+   • Radium-223 + abiraterone/prednisone: trial stopped early for increased deaths and fractures → label
+     warning against the combination.
+   • With any ARPI (e.g. enzalutamide): start or continue a bone-protective agent — zoledronic acid or
+     denosumab (receptor activator of nuclear factor-κB ligand [RANKL] inhibitor).
+
+ ALSYMPCA: BODY TEXT VS FIG. 166.8
+  Item       Body text                  Fig. 166.8             Reason for difference
+  Patients 809                          921 (614 : 307)        809 = interim analysis; 921 = full randomised population in
+                                                               the updated analysis
+  OS         HR 0.70; median gain       14.9 vs 11.3 mo;       Consistent (updated analysis)
+             3.6 mo                     HR 0.70
+
+ Lutetium-177 Vipivotide Tetraxetan PSMA Therapy
+   • Theranostics has tempered radium-223 use in favour of precision targeting.
+   • PSMA: transmembrane carboxypeptidase preferentially expressed on prostate cancer cells vs normal
+     prostate and benign tissue → target for imaging and therapy.
+   • FDA-approved PSMA PET tracers: gallium-68 PSMA-11, piflufolastat F-18, flotufolastat F-18 — better
+     detection before prostatectomy and in biochemical recurrence.
+   • Phase II (post-chemotherapy, post-ARPI): PSA50 ~57%; objective response ~82% in measurable
+     disease.
+   • TheraP (randomised phase II; PSMA PET-selected, chemotherapy-eligible): 177Lu-PSMA-617 6.0–8.5
+     GBq 6-weekly ≤6 cycles vs cabazitaxel 20 mg/m² 3-weekly ≤10 cycles → PSA response 65% vs 37%,
+     fewer grade 3–4 events, no OS difference.
+   • VISION (landmark): after ≥1 ARPI and ≥1 taxane; 2:1 to 177Lu-PSMA-617 + standard care vs standard
+     care (chemotherapy not allowed as standard care) → imaging-based PFS 8.7 vs 3.4 months (HR 0.40);
+     median OS 15.3 vs 11.3 months (HR 0.62); time to first symptomatic skeletal event 11.5 vs 6.8 months
+     (HR 0.50).
+
+
+
+                                                           page 13 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer      Poly–ADP-Ribose Polymerase Inhibitors and DNA Repair Targeting
+
+
+   • VISION toxicity: grade ≥3 events more frequent (52.7% vs 38.0%); commonest fatigue, dry mouth,
+     nausea, anaemia.
+   • FDA approval 2022: mCRPC after ARPI and taxane. PSMAfore tests use before chemotherapy.
+
+ New Radiopharmaceutical Approaches
+   • Other PSMA beta emitters: 177Lu-PSMA-I&T (phase III ECLIPSE).
+   • Alpha emitters: actinium-225-PSMA-J591 — possibly similar efficacy, less toxicity; alpha–beta
+     combinations under study; optimal position in sequence unknown.
+
+ RADIUM-223 VS LUTETIUM-177-PSMA-617
+
+  Feature                 Radium-223                                                177Lu-PSMA-617
+
+  Emitter                 Alpha (path <100 µm)                                      Beta
+  Targeting               Bone-seeking                                              PSMA-directed (requires PSMA PET
+                                                                                    positivity)
+  Eligible disease        Symptomatic bone-only; no visceral or bulky nodal         PSMA-expressing metastases, any site
+                          disease
+  Prior therapy           Not required                                              ARPI and taxane
+  (label)
+  Schedule                50 kBq/kg IV 4-weekly × 6                                 6-weekly, up to 6 cycles
+  Pivotal trial           ALSYMPCA: OS HR 0.70                                      VISION: OS HR 0.62, rPFS HR 0.40
+  Key toxicity            Diarrhoea, anaemia; fewer AEs than placebo                Fatigue, dry mouth, nausea, anaemia
+  PSA                     Rarely falls; flare possible                              Flare possible
+  Combination             Never with abiraterone; bone agent with any ARPI          —
+  caution
+
+ Concept — radium follows bone, lutetium follows PSMA: the targeting mechanism defines eligibility —
+ bone-only disease for radium, PSMA-avid disease at any site for lutetium.
+
+   KEY POINTS: RADIOPHARMACEUTICALS
+     • Radium-223 improves survival in symptomatic bone-only mCRPC; use zoledronic acid or
+       denosumab alongside, particularly with an ARPI.
+     • 177Lu-PSMA-617 improves survival in PSMA-expressing mCRPC after ARPI and chemotherapy; use
+        before chemotherapy is anticipated as data mature.
+
+
+ POLY–ADP-RIBOSE POLYMERASE INHIBITORS AND DNA REPAIR TARGETING
+   • PARP repairs mainly single-strand breaks; cells lacking homologous recombination (the main double-
+     strand repair route) depend on it.
+   • Two mechanisms: catalytic inhibition (competes with NAD+) and PARP trapping (cytotoxic PARP–DNA
+     complexes; trapping potency differs between agents) → replication-fork stalling → double-strand
+     breaks → death without HRR = synthetic lethality.
+   • Not effective in unselected patients; targeted to somatic/germline HRR mutations — BRCA1/2, ATM,
+     PALB2, FANCA and other Fanconi genes. Somatic DNA-repair mutations in mCRPC: up to 20–25%.
+
+
+
+
+                                                           page 14 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer      Poly–ADP-Ribose Polymerase Inhibitors and DNA Repair Targeting
+
+
+   • AR–PARP synergy: PARP1 also regulates transcription and promotes AR signalling; AR maintains HRR
+     gene expression; ADT upregulates PARP-mediated repair → rationale for ARPI + PARPI first line (mirrors
+     AR inhibition radiosensitising via impaired DNA repair).
+
+ Poly–ADP-Ribose Polymerase Inhibitors as Single Agents
+   • TOPARP-A (olaparib, phase II; 50 heavily pretreated mCRPC): response ~33% overall but ~88% with
+     DNA-repair mutations (all BRCA2-loss patients had PSA falls >50%; 4 of 5 ATM); better rPFS and OS if
+     biomarker-positive → breakthrough designation for BRCA1/2- or ATM-mutated mCRPC after taxane
+     and ARPI.
+   • TOPARP-B: 98 patients with alterations in 18 DNA-repair genes; composite response 43/98; BRCA1/2
+     best, but activity in other HRR genes supported broader HRR use.
+   • PROfound (landmark, phase III): progression on a second-generation hormonal agent; olaparib vs
+     enzalutamide/abiraterone; cohort A (BRCA1/2 or ATM): imaging PFS 7.4 vs 3.6 months (HR 0.34), OS
+     18.5 vs 15.1 months; benefit held across the 15-gene HRR panel → FDA approval May 2020 for a broad
+     HRR panel.
+   • TRITON2 (rucaparib; 115 BRCA-altered, after ARPI and one taxane): objective response 43.5%
+     (independent review) / 50.8% (investigator) in measurable disease; PSA response 54.8%; similar in
+     germline and somatic and in BRCA1 and BRCA2, but higher PSA response with BRCA2.
+   • TRITON3 (rucaparib vs physician's choice ARPI or docetaxel; 405 randomised after ARPI progression):
+     imaging PFS 11.2 vs 6.4 months (HR 0.50) in BRCA; 10.2 vs 6.4 (HR 0.61) intention-to-treat; ATM no
+     benefit (8.1 vs 6.8, HR 0.95) → rucaparib approved for BRCA1/2, not ATM.
+   • GALAHAD (niraparib; single-arm phase II; BRCA1/2, ATM, FANCA, PALB2, CHEK2, BRIP1, HDAC2; after
+     ARPI and taxane): median rPFS 8.2 months in the BRCA cohort → breakthrough designation (2019) for
+     BRCA1/2-mutated mCRPC.
+   • TALAPRO-1 (talazoparib; single-arm; DDR-HRR alterations; after 1–2 taxanes and ARPI): objective
+     response ~30%; grade 3–4 anaemia commonest (31%).
+
+ Poly–ADP-Ribose Polymerase Inhibitors in Combination With Androgen Receptor Pathway
+ Inhibitors
+   • PROpel (phase III; first-line mCRPC after ADT): olaparib + abiraterone vs abiraterone; primary
+     investigator-assessed rPFS; OS 42.1 vs 34.7 months (HR 0.81, P = 0.054) — ~7-month gain; ~42 months
+     is the longest median OS in a first-line mCRPC phase III; all subgroups favoured the combination, BRCA
+     most → approved for BRCA-mutated mCRPC (2023).
+   • MAGNITUDE: niraparib + abiraterone/prednisone in HRR-altered mCRPC; primary rPFS → progression/
+     death risk ↓45%, median rPFS >1.5 years; BRCA rPFS 19.5 vs 10.9 months (HR 0.55); also delayed
+     symptomatic progression (HR 0.60) and chemotherapy (HR 0.67); no benefit without HRR alteration →
+     approved for BRCA-mutated CRPC (2023).
+   • TALAPRO-2: talazoparib + enzalutamide vs enzalutamide first line (no prior ARPI; prior chemotherapy
+     allowed); all-comers and HRR-deficient cohorts; benefit regardless of biomarker, greatest in BRCA1/2
+     → approved for HRR-mutated mCRPC (June 2023).
+
+ TALAPRO-2: BODY TEXT VS FIG. 166.10 (RADIOGRAPHIC PFS)
+                                                   Talazoparib +                 Placebo +
+  Population                                       enzalutamide                  enzalutamide                HR     Source
+  All-comers                                       Not reached                   21.9 mo                     0.63 Fig.
+                                                                                                                  166.10A
+
+
+
+
+                                                           page 15 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer      Poly–ADP-Ribose Polymerase Inhibitors and DNA Repair Targeting
+
+
+                                                   Talazoparib +                 Placebo +
+  Population                                       enzalutamide                  enzalutamide                HR     Source
+  HRR-deficient (subgroup of all-comers)           27.9 mo                       16.4 mo                     0.46 Fig.
+                                                                                                                  166.10B
+  HRR non-deficient or unknown                     Not reached                   22.5 mo                     0.70 Fig.
+                                                                                                                  166.10C
+  HRR-deficient (dedicated cohort, later           Not reached                   13.8 mo                     0.45 Body text
+  analysis)
+
+   • Why the HRR-deficient values differ: the figure is the HRR-deficient subgroup within the all-comers
+     cohort; the body text reports the separate HRR-deficient cohort at a later analysis — different
+     denominators and data cuts.
+
+ PARP INHIBITORS IN MCRPC: COMPARISON
+  Agent          Monotherapy evidence             Combination partner (trial)        Approved population
+  Olaparib       TOPARP-A/B; PROfound             Abiraterone (PROpel)               Mono: broad HRR panel (2020);
+                 (phase III)                                                         combination: BRCA
+  Rucaparib      TRITON2; TRITON3 (phase          —                                  BRCA1/2 only (not ATM)
+                 III)
+  Niraparib      GALAHAD (single-arm)             Abiraterone/prednisone             Combination: BRCA
+                                                  (MAGNITUDE)
+  Talazoparib TALAPRO-1 (single-arm)              Enzalutamide (TALAPRO-2)           Combination: HRR-mutated
+
+   • Pattern: benefit is always largest in BRCA (especially BRCA2) and weakest or absent in ATM; only
+     talazoparib + enzalutamide carries the broad HRR label among combinations.
+   • Trap: PROpel's OS result (P = 0.054) was a trend, not a significant gain.
+
+ Biomarkers and End Points in Poly–ADP-Ribose Polymerase Inhibitor Trials
+   • Response confined to HRR-deficient tumours; panels vary (up to 15 genes vs limited sets). Evidence is
+     clearest for BRCA2; weaker or inconsistent for others (e.g. ATM).
+   • Early PARPI use appears advantageous; trials extend into first-line mCRPC and mCSPC.
+   • End points: OS is the best yardstick but is diluted by effective subsequent therapy; rPFS =
+     randomisation to first radiographic progression by blinded independent central review; objective
+     response rate (ORR) = complete + partial response by RECIST, the commonest basis for FDA solid-
+     tumour approvals; PSA and CTCs are less direct.
+
+ The Evolving Treatment Landscape of Poly–ADP-Ribose Polymerase Inhibitors and Side
+ Effects
+   • Hormone-sensitive trials: AMPLITUDE (niraparib + abiraterone in HRR-mutated mCSPC); TALAPRO-3
+     (TALAPRO-2 design in DNA-repair-altered mCSPC).
+   • Class toxicity: nausea, fatigue, anaemia (watch for sudden haemoglobin falls); rarely myelodysplastic
+     syndrome and pulmonary embolism.
+   • Switching PARPI for intolerance is reasonable if eligible for more than one (e.g. olaparib or rucaparib in
+     BRCA); toxicity matters more as use moves earlier.
+ Concept — PARPIs are only as good as the repair defect they exploit: BRCA2 loss gives true synthetic
+ lethality, ATM loss does not — and ADT-induced repair dependence is why pairing with an ARPI works.
+
+
+
+
+                                                           page 16 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                        Novel Molecular Approaches
+
+
+
+   KEY POINTS: PARP INHIBITORS
+     • Synergy with ADT: ADT upregulates the DNA-damage-repair pathways PARP targets.
+     • Several PARPIs approved as monotherapy and, recently, with abiraterone or enzalutamide for
+       mCRPC.
+     • Greatest benefit in specific HRR mutations, especially BRCA1/2; optimal patient selection still under
+       study.
+
+
+ NOVEL MOLECULAR APPROACHES
+
+ Targeting ATR
+   • ATM-deficient tumours respond poorly to PARPIs, but ATR is synthetically lethal with ATM → ATR
+     inhibitors may suit this subset.
+   • Berzosertib: randomised phase II, carboplatin–docetaxel vs carboplatin–berzosertib → stopped at
+     interim for futility (fewer responses, more severe toxicity).
+   • Ceralasertib (AZD6738): tolerable with abiraterone (phase I); TRAP phase II with olaparib, with and
+     without HRR deficiency (ATM loss or biallelic BRCA1/2 loss); primary end point response rate (RECIST or
+     PSA fall ≥50%); eligibility after ≥1 mCRPC line.
+
+ Targeting DNA Protein Kinase
+   • DNA-dependent protein kinase (DNA-PK): part of non-homologous end joining (NHEJ); drives
+     progression via Wnt transcription; promotes glycolysis (ALDOA, PKM2 activity; pyruvate and lactate
+     synthesis); explored as radio- and chemosensitiser; agents in development.
+ Concept — each DNA-repair defect needs its own synthetic-lethal partner: BRCA with PARP, ATM with
+ ATR — a single "HRR-positive" label hides these differences.
+
+ IMMUNOTHERAPY
+   • Why prostate cancer suits immunotherapy: slow growth gives time to mount a response; tissue-
+     specific antigens (PSA, prostatic acid phosphatase [PAP]).
+   • Approaches tried: dendritic-cell therapy, granulocyte-macrophage colony-stimulating factor (GM-CSF)
+     adjuvant, viral vectors, whole-cell and single-antigen vaccines, DNA vaccines, cytotoxic T-lymphocyte
+     antigen-4 (CTLA-4) and programmed cell death protein 1 (PD-1) blockade.
+   • Only sipuleucel-T succeeded; GVAX (allogeneic whole-cell), PROSTVAC-VF (poxviral PSA) and
+     ipilimumab failed in late phase.
+
+ Sipuleucel-T
+   • Autologous CD54+ dendritic cells (collected by apheresis) loaded with a PAP–GM-CSF fusion protein.
+   • Two phase II/III trials missed their time-to-progression end points, but pooled analysis showed OS 23.2
+     vs 18.9 months (HR 0.67); OS was not primary, so no approval then; post hoc benefit seemed confined
+     to Gleason ≤7.
+   • IMPACT (landmark; FDA approval April 2010): 512 patients, 2:1, asymptomatic or minimally
+     symptomatic mCRPC; no visceral metastases or opioid use; 85% chemotherapy-naive → OS 25.8 vs 21.7
+     months (HR 0.78) despite 64% placebo crossover.
+   • No change in PFS or PSA/radiographic response — an immunotherapy class effect (delayed action,
+     flare); immune-related response criteria proposed.
+
+
+                                                           page 17 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                      Immunotherapy
+
+
+   • Use: approved for asymptomatic/minimally symptomatic CRPC; given mainly pre-chemotherapy; avoid
+     with visceral disease or opioid-requiring pain. Toxicity mild (infusion fever, rigors).
+   • Combinations (ADT in biochemical recurrence, radiotherapy, ARPIs, radium-223, atezolizumab,
+     ipilimumab): no proven clinical benefit.
+
+ Immune Checkpoint Blockade
+   • CTLA-4 blockade (ipilimumab): phase I/II — PSA fall ≥50% in 10–20%, radiological response ~5%;
+     immune-related events: colitis 15–20%, hepatitis, endocrinopathies incl. adrenal insufficiency,
+     dermatitis/vitiligo, hypophysitis.
+   • Post-docetaxel phase III (799; 8 Gy to a bone metastasis then ipilimumab vs placebo): better PSA
+     response and PFS, OS not significant (HR 0.85, P = 0.053); best without visceral disease and with
+     normal haemoglobin and alkaline phosphatase.
+   • Pre-docetaxel phase III (600): no OS benefit (HR 1.11) despite longer PFS.
+   • Pembrolizumab: KEYNOTE-028 response 17%; KEYNOTE-199 (post-docetaxel and ARPI) response ~5%.
+   • Negative phase III combinations: atezolizumab + enzalutamide; pembrolizumab + enzalutamide
+     (KEYNOTE-641), + docetaxel (KEYNOTE-921), + olaparib (KEYLYNK-010) → no role for checkpoint
+     inhibitors in unselected mCRPC.
+
+ Pembrolizumab for Microsatellite Instability–High Cancers
+   • Tumour-agnostic FDA approval (May 2017): microsatellite instability-high (MSI-H) or mismatch repair-
+     deficient (dMMR) solid tumours progressing on prior therapy; 200 mg IV 3-weekly; response 40%
+     across colorectal and non-colorectal cancers.
+   • Prostate experience: case-level complete, partial and near-complete PSA responses, concentrated in
+     dMMR/MSI-H tumours.
+   • Authors' recommendation: pembrolizumab for MSI-H/dMMR mCRPC after ≥1 mCRPC line (e.g.
+     abiraterone or docetaxel); also indicated for tumour mutational burden ≥10 mutations/megabase.
+   • dMMR prevalence in mCRPC 2–5%; test by next-generation sequencing or immunohistochemistry for
+     MSH2, MSH6, MLH1, PMS2 → if positive, genetic counselling for Lynch syndrome.
+   • Toxicity: fatigue, pruritus, rash, gastrointestinal upset; immune-mediated colitis, hepatitis,
+     endocrinopathy, pneumonitis, nephritis.
+
+ Novel Immunotherapy Approaches
+   • B7-H3: T-cell co-regulatory molecule overexpressed in prostate cancer, linked with poor outcome;
+     ADCs, monoclonal and bispecific antibodies and CAR-T in development. Enoblituzumab (neoadjuvant,
+     localised disease): feasible, no surgical delay, grade 3 events in 12% (including one perimyocarditis).
+   • Chimeric antigen receptor (CAR) T cells — mostly PSMA-directed: early study tolerable with stable
+     disease; TGF-β-resistant PSMA CAR-T: 100% manufacturing success, cytokine release syndrome and
+     one death, PSA falls ≥30% in 4 of 13; with low-dose IL-2: universal grade 3–4 toxicity, two partial
+     responses. Prostate stem cell antigen CAR-T: dose-limiting grade 3 cystitis, manageable after modified
+     lymphodepletion.
+   • Efficacy not yet established; toxicity potentially significant.
+
+ Other Vaccine Strategies
+   • Vaccine monotherapy is ineffective; checkpoint upregulation causes resistance → combinations with
+     checkpoint inhibitors.
+
+
+
+
+                                                           page 18 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                            Emerging Therapeutic Approaches
+
+
+   • Targets tried: human telomerase reverse transcriptase, mixed peptide, DNA-PAP, PSA/brachyury/
+     MUC-1, AR ligand-binding domain, personalised peptides; combined with ipilimumab, pembrolizumab,
+     atezolizumab + sipuleucel-T — all under evaluation.
+
+ IMMUNOTHERAPY TRIALS IN MCRPC
+  Agent / trial                                  Population                       Result                   Verdict
+  Sipuleucel-T — IMPACT                          Asymptomatic/minimally           OS 25.8 vs 21.7 mo, HR Approved
+                                                 symptomatic, no visceral disease 0.78; no PFS or PSA    (2010)
+                                                 or opioids                       change
+  Ipilimumab (post-docetaxel)                    After docetaxel + 8 Gy bone RT   PFS better; OS HR        Negative
+                                                                                  0.85, P = 0.053
+  Ipilimumab (pre-docetaxel)                     Asymptomatic/minimally           OS HR 1.11               Negative
+                                                 symptomatic
+  Pembrolizumab — KEYNOTE-199                    Post-docetaxel and ARPI          Response ~5%             Minimal
+                                                                                                           activity
+  Checkpoint combinations (atezolizumab          mCRPC                            No rPFS or OS gain       Negative
+  + enzalutamide; KEYNOTE-641, -921;
+  KEYLYNK-010)
+  Pembrolizumab (MSI-H/dMMR)                     Tumour-agnostic                  Response 40% across      Approved
+                                                                                  tumours                  (2017)
+
+ Concept — prostate cancer is immunologically cold except when it is hypermutated: vaccines give
+ survival without visible response, checkpoint blockade fails in unselected disease, and only the dMMR/MSI-
+ H minority responds.
+
+   KEY POINTS: IMMUNOTHERAPY
+     • Sipuleucel-T, the first therapeutic cancer vaccine approved by the FDA, is indicated for
+       asymptomatic or minimally symptomatic mCRPC without visceral metastases or opioid-requiring
+       cancer pain.
+     • Pembrolizumab (PD-1 inhibitor) is indicated for MSI-H/dMMR mCRPC or tumour mutational burden
+       ≥10 mutations/megabase — only 2–5% of prostate cancers.
+     • Future immunotherapy: novel targets, earlier use, combination with standard therapy.
+
+
+ EMERGING THERAPEUTIC APPROACHES
+
+ Bipolar Androgen Therapy
+   • Bipolar androgen therapy (BAT): depot testosterone while continuing LHRH agonist/antagonist →
+     testosterone swings from supraphysiological to near-castrate over each 4-week cycle.
+   • RESTORE (phase II; testosterone cypionate 400 mg IM 4-weekly): PSA50 14–30% by cohort; after BAT,
+     enzalutamide rechallenge gave PSA50 of 68% in previously enzalutamide-resistant men.
+   • TRANSFORMER (randomised phase II; post-abiraterone; BAT vs enzalutamide): primary PFS equal (5.7
+     months each; negative); post hoc PFS2 28.2 vs 19.6 months favouring BAT → enzalutamide (PSA50 to
+     enzalutamide after BAT 77.8%).
+   • Safety: suitable only without opioid-requiring pain or bulky visceral disease; generalised pain, fatigue,
+     peripheral oedema; improves energy, social function and sexual/erectile function.
+
+
+
+
+                                                           page 19 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                             Palliative Management
+
+
+ Prostate-Specific Membrane Antigen Targeting: Bispecific T-Cell Engager Approaches
+   • Bispecific T-cell engagers (BiTEs) bind CD3 on T cells and a tumour antigen (PSMA), following
+     blinatumomab (CD19/CD3) in B-cell acute lymphoblastic leukaemia.
+   • AMG 212, AMG 160, JNJ-63898081: PSA responses, often transient, but cytokine release syndrome
+     dose-limiting → inpatient monitoring and tocilizumab (anti-IL-6 receptor); development uncertain.
+
+ PI3K/Akt/mTOR Inhibition
+   • Pathway: growth factor → receptor tyrosine kinase (or Ras/G-protein-coupled receptor) → PI3K
+     converts PIP2 to PIP3 → Akt → mTOR (protein synthesis, cell growth); Akt blocks apoptosis via BAD,
+     BAX, NF-κB, MDM2.
+   • PTEN (phosphatase and tensin homologue) dephosphorylates PIP3 → PIP2, terminating signalling;
+     PTEN loss in ~40%; pathway altered in nearly half of primaries and virtually all metastases; PIK3CA
+     activating mutations rare, PIK3R1/PIK3R3 loss-of-function common.
+   • mTOR inhibitors failed (rapamycin, everolimus, temsirolimus ± bicalutamide) — feedback upregulation
+     upstream.
+   • Reciprocal crosstalk: PI3K inhibition activates AR in PTEN-deficient cells; enzalutamide activates Akt (via
+     reduced PHLPP) → rationale for dual blockade; BEZ235 + abiraterone too toxic.
+   • Ipatasertib (pan-Akt inhibitor): phase II + abiraterone — rPFS benefit confined to PTEN loss;
+     IPATential150 (phase III, 1101 patients): rPFS in PTEN-deficient 18.5 vs 16.5 months (significant);
+     intention-to-treat 19.2 vs 16.6 months (HR 0.84, not significant); grade ≥3 events 70% vs 39%;
+     diarrhoea prominent. Capivasertib + docetaxel under study.
+ Concept — blocking one growth pathway reactivates the other: AR and PI3K signalling compensate for
+ each other, so single-pathway inhibition gives modest gains and dual blockade is limited by toxicity.
+
+ PALLIATIVE MANAGEMENT
+
+ Pain and Spinal Cord Compression
+   • Palliation and quality of life are the most important objectives; cancer pain is the most debilitating
+     symptom.
+   • Focal bone pain → external-beam radiotherapy; image painful scan-positive sites with plain
+     radiographs or CT to exclude lytic lesions or pathological fracture, especially in limbs and weight-
+     bearing bones.
+
+ TABLE 166.1 COMMON PAIN SYNDROMES IN METASTATIC CASTRATION-RESISTANT PROSTATE CANCER
+  Pain syndrome                Initial management                          Other alternatives
+  Localised bone pain          Analgesia; localised radiotherapy           Surgical stabilisation of fracture or extensive
+                               (weight-bearing, lytic, limb sites);        erosion; radiopharmaceutical if local
+                               assess for cord compression in all          radiotherapy fails
+                               focal back pain
+  Diffuse bone pain            Analgesia; corticosteroids;                 Multispot/wide-field radiotherapy;
+                               bisphosphonate or RANKL inhibitor           radiopharmaceuticals; calcitonin; chemotherapy
+  Epidural metastasis /        High-dose corticosteroids; analgesia;       Physiotherapy; surgical decompression and
+  cord compression             radiotherapy                                stabilisation for high-grade compression,
+                                                                           extensive bone involvement or post-
+                                                                           radiotherapy recurrence
+
+
+
+
+                                                           page 20 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                            Palliative Management
+
+
+  Pain syndrome                Initial management                          Other alternatives
+  Nerve plexopathy             Analgesia; radiotherapy if not given        Tricyclic (amitriptyline); anticonvulsant
+  (tumour extension or         before                                      (gabapentin, pregabalin); nerve block
+  prior therapy; rare)
+  Other neurogenic (post- Full neurological assessment;                    Tricyclic; anticonvulsant; stop neurotoxic drugs
+  herpetic neuralgia,     analgesia                                        (docetaxel, platinum)
+  peripheral neuropathy)
+  Uncommon (skull base/        Radiotherapy; analgesia;                    Chemotherapy; intrathecal chemotherapy for
+  cranial nerve, painful       corticosteroids (cranial nerve)             meningeal disease
+  liver, pelvic mass)
+
+   • What the table is for: radiotherapy is the backbone for localised pain; systemic and multisite measures
+     for diffuse pain; steroids first for cord compression; neuropathic pain needs adjuvants (tricyclics,
+     gabapentinoids), not just opioids.
+   • Trap: every focal back pain is cord compression until proven otherwise.
+
+ Epidural cord compression
+   • Common in prostate cancer (vertebral and paravertebral spread); early treatment preserves
+     ambulation and sphincter function.
+   • Mostly from vertebral bodies; less often paravertebral soft tissue — which may show only a
+     neurological deficit with normal bone imaging.
+   • Spinal MRI is the routine investigation, replacing CT and conventional myelography.
+ Sequence: suspected compression → high-dose IV dexamethasone (16–100 mg/day; load 10 mg IV or 20–
+ 40 mg orally, then 4–10 mg every 6–12 h) → MRI → definitive radiotherapy ± decompressive surgery →
+ taper steroids over 2–3 weeks once improved.
+   • Decompressive surgery + radiotherapy beats radiotherapy alone (Patchell randomised trial, 2005).
+   • Operate if: progression during radiotherapy; unstable pathological fracture; recurrence after
+     radiotherapy — weighed against overall prognosis.
+   • Chemotherapy rarely used acutely.
+
+ Bone-Targeted Approaches
+   • Normal remodelling: osteoclastic resorption → osteoblastic formation repairing the defect left by
+     osteoclasts.
+   • In prostate cancer: ADT increases osteoclastic resorption; tumour resorbs matrix locally; cytokines,
+     growth factors and bone morphogenetic proteins drive both cell types; metastases are predominantly
+     blastic.
+   • Hypercalcaemia is rare; significant hypercalcaemia usually signals neuroendocrine disease (PTHrP).
+   • Two uses: ADT-related osteopenia/osteoporosis (oral bisphosphonates or RANKL inhibitor, per FRAX
+     fracture risk) and skeletal-related event (SRE) prevention in metastatic disease (IV bisphosphonate or
+     RANKL inhibitor) — fewer fractures, less pain, opioid use and admission, but no antitumour effect.
+   • ARPIs and radium-223 also reduce SREs; bone agents strongly recommended with radium-223;
+     radium-223 + abiraterone/prednisone not recommended.
+
+ Bisphosphonates
+   • Mechanism: inhibit osteoclast activity and proliferation.
+   • Zoledronate: reduced SREs vs placebo in progressive CRPC with bone metastases (randomised trial);
+     zoledronate and pamidronate increase bone density on long-term ADT.
+
+
+                                                           page 21 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                     Palliative Management
+
+
+   • Dose: 4 mg IV every 4 weeks, adjusted for creatinine clearance; supplement calcium 1000 mg/day +
+     vitamin D 800 IU/day.
+   • Toxicity: fatigue, myalgia, fever, anaemia, creatinine rise, hypocalcaemia, osteonecrosis of the jaw
+     (ONJ) — mostly with dental work or poor dentition → avoid in these patients.
+   • Other bisphosphonates (alendronate, etidronate, ibandronate, clodronate): benefit unproven.
+
+ RANK Ligand Inhibitors
+   • Mechanism: tumour cytokines induce RANKL → activates RANK on osteoclasts; blocked by antibody or
+     recombinant osteoprotegerin (natural decoy receptor).
+   • Denosumab vs zoledronate (landmark phase III, 1904 bisphosphonate-naive mCRPC): time to first SRE
+     20.7 vs 17.1 months; first and subsequent SREs HR 0.82; no OS or PFS difference.
+   • Toxicity: fatigue, nausea, hypophosphataemia, hypocalcaemia (grade ≥3 5%), ONJ 2–4% → calcium and
+     vitamin D strongly encouraged.
+   • Dose: 120 mg SC every 4 weeks; no renal adjustment or monitoring.
+
+ ZOLEDRONATE VS DENOSUMAB
+  Feature           Zoledronate                                            Denosumab
+  Class / target    IV bisphosphonate; osteoclast inhibition               Fully human anti-RANKL monoclonal
+                                                                           antibody
+  Dose              4 mg IV 4-weekly                                       120 mg SC 4-weekly
+  Renal function Dose-adjust for creatinine clearance                      No adjustment
+  SRE               Superior to placebo                                    Superior to zoledronate (20.7 vs 17.1 mo)
+  prevention
+  Survival effect None                                                     None
+  Key toxicity      Fatigue, myalgia, fever, creatinine rise,              Hypocalcaemia, hypophosphataemia, ONJ
+                    hypocalcaemia, ONJ                                     2–4%
+
+ Other Palliative Needs
+   • Hydronephrosis from pelvic nodal progression: unilateral lymphoedema, rising creatinine, or incidental
+     finding. Not all need drainage if the contralateral kidney functions; nephrostomies carry home-care
+     burden; internal stents need regular change.
+   • Circumoral numbness → skull-base involvement → irradiate the skull base.
+   • Paraneoplastic syndromes are rare → consider neuroendocrine/aggressive variant.
+   • Weight loss and anorexia: usually treatment toxicity or progression — a normal sign that time may be
+     limited; supplements can add distress; address family concern.
+
+ Hospice and End-of-Life Care
+   • Shift to symptom-directed care when options are exhausted and performance declines (sedentary,
+     housebound); discuss this phase as expected.
+   • Hospice adds support for pain and symptom control and improves bereavement; initiate in a timely
+     fashion.
+ Concept — bone agents protect the skeleton, not the patient's lifespan: they reduce skeletal events
+ without antitumour effect, whereas cord compression is the one palliative problem where hours, steroids
+ and surgery change outcome.
+
+
+
+
+                                                           page 22 of 23
+Chapter 166 — Management of Castration-Resistant Prostate Cancer                                        Conclusion
+
+
+
+   KEY POINTS: PALLIATIVE MANAGEMENT
+     • Back pain with known bone metastases → evaluate for cord compression: back pain, focal motor/
+       sensory deficit, or bladder/bowel change.
+     • Immediate spinal MRI and high-dose corticosteroids; definitive treatment is surgical
+       decompression (if feasible), radiotherapy, or both.
+     • Zoledronic acid and denosumab both prevent SREs in castration-resistant bone metastases;
+       denosumab needs no renal dosing; both can (rarely) cause ONJ.
+     • Palliative and end-of-life care is multidisciplinary: symptom control, clear communication of
+       expected outcomes; hospice adds support.
+
+
+ CONCLUSION
+   • Four open challenges: (1) optimal sequencing of approved and experimental agents; (2) rational
+     combinations exploiting feedback loops and alternative-pathway activation to overcome resistance; (3)
+     smarter trials that discard failures quickly and fast-track winners; (4) patient selection by clinical and
+     molecular features (DNA-repair mutations, PTEN loss).
+   • Prospective biomarker-driven trials — with tumour biopsies or correlative samples — are the only
+     route to these answers.
+ Concept — the problem has moved from finding drugs to ordering them: with many active agents,
+ sequencing and biomarker selection now determine outcome.
+
+
+
+
+                                                           page 23 of 23
+

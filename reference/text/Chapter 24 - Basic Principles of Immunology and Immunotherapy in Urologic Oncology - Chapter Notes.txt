@@ -1,0 +1,542 @@
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic
+Oncology                                                                                                Innate Immune System
+
+Chapter 24 — Basic Principles of Immunology and
+Immunotherapy in Urologic Oncology
+ • Immunotherapy is an established modality in bladder, kidney, lung cancer and melanoma; its long
+   history in bladder cancer is underappreciated.
+ • Bacille Calmette-Guérin (BCG) — a relatively non-specific agent whose mechanism is still incompletely
+   understood — is the model framework for genitourinary (GU) immunotherapy.
+ • Cancer vaccines aim instead to induce a specific anticancer response (prostate, kidney).
+ • Immune checkpoint blockade (ICB): antigen-specific responses are restrained by checkpoint molecules on
+   CD4 and CD8 tumour-infiltrating lymphocytes (TILs), typified by programmed death-1 (PD-1) and
+   programmed death ligand-1 (PD-L1). Blocking antibodies give objective responses (tumour shrinkage) in
+   about 20% of kidney or bladder cancers.
+ • ICB is more effective in combination; anti-cytotoxic T-lymphocyte antigen-4 (CTLA-4), which probably
+   targets suppressive CD4 cells, is a key combination partner.
+
+INNATE IMMUNE SYSTEM
+ • Innate vs adaptive: innate is evolutionarily older (all vertebrates), rapid, pattern-based; adaptive is
+   specific and has memory.
+ • Innate recognition: pathogen-associated molecular patterns (PAMPs) bind Toll-like receptors (TLRs)
+   (homologues of Drosophila Toll) — the fundamental mechanism by which the organism senses "danger".
+ • BCG cell-wall peptidoglycans are canonical PAMPs → bind TLR2 on innate cells in the bladder wall →
+   multistep immune response.
+ • First responder: the tissue-resident macrophage (makros large, phagos eat) — engulfs pathogens; on
+   PAMP recognition secretes cytokines and chemokines that recruit and activate further cells.
+ • Neutrophil (polymorphonuclear neutrophil, PMN): most abundant circulating immune cell (about 60%
+   of blood leucocytes); half-life hours in blood but days in inflamed tissue; main constituent of pus,
+   hallmark of acute inflammation. Emigrates between endothelial cells up a chemokine gradient — the
+   hypersegmented nucleus eases deformation. Releases secretory granules on PAMP recognition.
+TABLE 24.1 SELECTED CELL TYPES INVOLVED IN THE IMMUNE RESPONSE TO GENITOURINARY CANCERS
+ Cell                     Arm         Role
+ Epithelial /             Sentinel    Secretes type I interferons and chemokines in response to stress, inflammation, viral
+ urothelial cell                      infection or PAMP danger signals
+ Macrophage               Innate      Engulfs pathogens and dead cells; cytokines/chemokines initiate or amplify the
+                                      response
+ Neutrophil (PMN)         Innate      Most numerous innate cell in blood; controls bacterial infection; pus = acute
+                                      inflammation
+ Dendritic cell (DC)      Bridge      Presents peptides from dead cells/debris to T cells in the lymph node; activated by
+                                      PAMPs or cytokines
+ CD4 T cell               Adaptive "Helper" — helps CD8 cells kill or B cells secrete antibody
+ CD8 T cell               Adaptive "Killer" — once activated, serially lyses specific targets
+ Regulatory T cell        Adaptive CD4 subset defined by transcription factor FoxP3; downregulates responses —
+ (Treg)                            detrimental in cancer
+
+ • Pattern: sentinel → innate effector → bridge (DC) → adaptive effector → brake (Treg). Trap: the Treg is a
+   CD4 cell, marked by FoxP3, and its suppressive function works against the patient in cancer.
+
+
+                                                            page 1 of 11
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic
+Oncology                                                                                              Cytokines and Chemokines
+
+CYTOKINES AND CHEMOKINES
+ • Cytokine: any small, immunologically relevant secreted messenger (cyto cell, kinesis movement) — how
+   epithelium signals to immune cells and immune cells to one another.
+ • Type I interferons (IFN-α, IFN-β): from virally infected or stressed epithelium → make cells more visible to
+   adaptive immunity (upregulate class I major histocompatibility complex [MHC] and antigen processing)
+   and directly promote epithelial death. Intravesical IFN-α: encouraging but mixed results in bladder
+   cancer.
+ • Chemokine: cytokine subset whose main role is migration along a concentration gradient. Prototype
+   CXCL8 (interleukin-8, IL-8) — secreted by urothelium; powerful neutrophil attractant; probably important
+   in the BCG response.
+ • Interleukins are numbered by order of discovery, so the name says little about function. IL-1 is really an
+   innate cytokine: from stressed epithelium, attracts immune cells, and systemically is a principal mediator
+   of fever.
+ • Th1 vs Th2 polarisation of CD4 T cells decides the direction of the adaptive response (Table 24.2). In an
+   IL-12-rich milieu naive CD4 cells become Th1; with IL-4 they become Th2 (chronic inflammation,
+   antibody).
+ • Th1 → successful BCG response; Th2 → BCG failure. Cytokines are detectable systemically after BCG;
+   raised serum IL-2 after treatment predicts a favourable outcome — BCG effects are not purely local.
+TABLE 24.2 SELECTED CYTOKINES, CHEMOKINES, AND INTERLEUKINS INVOLVED IN THE IMMUNE RESPONSE TO
+GENITOURINARY CANCERS
+ Group            Molecule                        Source                    Role
+ Type I           IFN-α, IFN-β                    Urothelium,               Secreted by virally infected or TLR-activated
+ interferon                                       epithelium,               cells; upregulate class I MHC and antigen
+                                                  macrophages               processing
+ Chemokine        CXCL8 (IL-8)                    Urothelium,               Powerful neutrophil chemoattractant
+                                                  epithelium
+ Chemokine-       IL-1                            Epithelium,               Attracts other cells, e.g. monocytes from blood
+ like                                             macrophages
+ Chemokine        SLC (secondary lymphoid-        Lymph-node stromal        Draws activated DCs and T cells into nodes;
+                  tissue chemokine, CCL21)        cells                     sensed by CCR7
+ Polarising       IL-12                           DCs                       Naive CD4 → Th1
+ Polarising       IL-4                            DCs, natural killer T     Naive CD4 → Th2
+                                                  cells
+ Th1 output       IL-2, TNF-α, IFN-γ              Th1 cells                 Favourable BCG response; drive CD8 killing
+ Th2 output       IL-4, IL-5, IL-10, IL-13        Th2 cells                 Unfavourable BCG response; drive antibody
+                                                                            production
+
+ • The table tests which signal polarises (IL-12 vs IL-4) and which outputs mark success (Th1) or failure
+   (Th2). Trap: IL-4 is both the Th2-inducing signal and a Th2 product; IL-2 belongs to Th1. TNF = tumour
+   necrosis factor.
+Concept — Th1 is cellular and cytotoxic, hence antitumour; Th2 is humoral and chronic-inflammatory, hence
+BCG failure. The cytokine milieu at the moment of CD4 priming decides which.
+
+ADAPTIVE IMMUNE SYSTEM
+ • CD4 helper, CD8 killer and B cells, recruited after innate activation; they confer specificity and memory
+   (stronger response on re-encounter).
+
+
+                                                            page 2 of 11
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic
+Oncology                                                                                             Immune Editing Hypothesis
+ • Dendritic cell — the bridge from innate to adaptive. Named for fine processes resembling neurones;
+   resident in tissues (e.g. Langerhans cells in skin); at rest samples its surroundings by pinocytosis and stays
+   quiescent without a danger signal.
+ • DC activation sequence: danger signal (TNF-α from macrophages, or bacterial products via TLRs) → stops
+   antigen uptake, retracts dendrites → upregulates MHC (binds 9–12-amino-acid peptides) and
+   costimulatory B7-1 and B7-2 → migrates via afferent lymphatics following secondary lymphoid
+   chemokine through CCR7 → activates specific CD4, CD8 and B cells in the node.
+ • Why migration is needed: resting lymphocytes live in lymph nodes; resting DCs live in tissues.
+ • CD4 activation: DC presents cognate peptide on class II MHC. Th1 fully activates CD8 killers; Th2 helps B
+   cells mature into plasma cells.
+ • Tregs suppress adaptive responses and impede a Th1/CD8 anticancer response. Natural Tregs arise in the
+   thymus; induced Tregs form when naive CD4 cells meet antigen in a low-inflammation, transforming
+   growth factor-β (TGF-β)-rich milieu. Laboratory data favour natural, thymus-derived Tregs as the critical
+   population.
+ • CD8 T cell: recognises about 9-amino-acid peptides on class I MHC, present on almost all cells and
+   upregulated by inflammation and viral infection. Killing is exquisitely specific (type 1 diabetes: β cells
+   lysed, adjacent α cells spared), works by inducing apoptosis in the target, and is serial. CD8 cells are
+   activated by vaccines and augmented by checkpoint blockade.
+MHC CLASS I VS CLASS II
+                   Class I                                                        Class II
+ Recognised by CD8 (killer)                                                       CD4 (helper)
+ Distribution      Almost all cells; ↑ by inflammation, viral infection, type I   Antigen-presenting cells (presented by
+                   IFN                                                            DCs)
+ Peptide           About 9 amino acids                                            Longer (typically 13–25 amino acids)
+ length
+
+
+IMMUNE EDITING HYPOTHESIS
+ • Apart from virally driven tumours of the immunocompromised, human cancers arise in immunologically
+   intact hosts — so host and tumour interact throughout progression.
+ • Three phases (the three Es): Elimination (innate macrophages and DCs with adaptive cells destroy small,
+   undetectable tumours) → Equilibrium (tumour acquires genetic, epigenetic and stromal changes; growth
+   slowed but not eliminated; may last the host's lifetime) → Escape (clinically apparent tumour).
+ • Escape mechanisms: downregulation of targeted tumour antigens; downregulation of MHC; induction or
+   expansion of Tregs.
+ • Subversion of antitumour immunity is now a formal hallmark of cancer.
+Concept — A clinically evident cancer is by definition an escaped cancer; immunotherapy works by reversing
+the escape mechanism that that tumour happens to depend on.
+
+ KEY POINTS: BASIC IMMUNOLOGY
+   • Innate response first (rapid, non-specific) → adaptive (specific, memory).
+   • Antitumour response needs Th1: IFN-γ, IL-2, TNF-α.
+   • CD4+ Tregs inhibit the adaptive response.
+   • Immune editing: early tumours eliminated; clinical tumours must escape.
+
+
+
+
+                                                            page 3 of 11
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic   Chronic Inflammation and the Endogenous Immune
+Oncology                                                                                   Response to Genitourinary Cancers
+
+CHRONIC INFLAMMATION AND THE ENDOGENOUS IMMUNE RESPONSE TO
+GENITOURINARY CANCERS
+ • Apparent paradox: immune editing says antitumour immunity helps, yet chronic inflammation promotes
+   tumours — clearly in bladder cancer, probably in prostate cancer.
+
+Chronic Inflammation and the Immune Response to Bladder Cancer
+ • Strongest GU evidence linking inflammation to carcinogenesis.
+ • Schistosoma haematobium is an International Agency for Research on Cancer (IARC) known carcinogen:
+   endemic countries have high bladder cancer rates; heavy infestation → squamous cell phenotype.
+ • Other inflammatory causes: chronic urinary tract infection, chronic indwelling catheters,
+   cyclophosphamide cystitis.
+ • Presumed mechanism (as in other cancers): dysfunctional M2 macrophages secreting immunosuppressive
+   cytokines; myeloid-derived suppressor cells (MDSCs); Th2 and Treg polarisation.
+ • Supporting immune editing: CD8 infiltration correlates with better outcome in muscle-invasive bladder
+   cancer (MIBC).
+ • Escape via checkpoints: checkpoint molecules on tumour-specific T cells bind ligands on tumour cells or
+   tumour-associated macrophages → proliferation and effector function strongly inhibited.
+ • Bladder tumours express PD-L1; expression rises with grade, was more prognostic than World Health
+   Organization (WHO) grade, tracks immune infiltration, and is high in BCG-induced granulomas of
+   patients progressing on BCG — a possible escape route.
+ • Adaptive immune resistance: tumour mutations → CD8 recognition → CD8 cells infiltrate and secrete
+   IFN-γ → IFN-γ induces PD-L1 on tumour, myeloid and epithelial cells → PD-L1 engages PD-1 on the same
+   CD8 cells → effector function curtailed. Hence anti-PD-1/PD-L1 antibodies should work — confirmed in
+   bladder and kidney cancer.
+ • Trap: PD-L1 is largely induced by the immune attack itself — a marker of an ongoing but suppressed
+   response, not a fixed tumour trait.
+IMMUNE CHECKPOINT MOLECULES AT THE T CELL–TUMOUR/APC INTERFACE (FIG. 24.4)
+                        Ligand on tumour cell or antigen-presenting cell
+ T-cell molecule        (APC)                                                Effect
+ T-cell receptor        MHC–peptide                                          Signal 1 — specificity
+ (TCR)
+ CD28                   CD80 / CD86 (B7)                                     Signal 2 — costimulation (activating)
+ CTLA-4                 CD80 / CD86                                          Inhibitory; blocked by anti-CTLA-4
+                                                                             antibody
+ PD-1                   B7-H1 (= PD-L1)                                      Inhibitory; blocked by anti-PD-1 antibody
+ LAG-3                  MHC class II                                         Inhibitory
+
+Immune Microenvironment in Kidney Cancer
+ • Inflammation–kidney cancer link is weak, suggested only by proinflammatory risk factors (smoking,
+   obesity).
+ • The renal paradox: in most cancers ↑ CD8 density → better prognosis; in renal cell carcinoma (RCC) ↑
+   CD8 density → worse outcome, in primary and metastatic lesions; mechanism unknown.
+ • Worst subgroup: high CD8 infiltration + high PD-1 and lymphocyte activation gene-3 (LAG-3) + few
+   functional antigen-presenting cells.
+
+
+
+                                                            page 4 of 11
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic
+Oncology                                                                                 Immunotherapy for Genitourinary Cancers
+ • Deep flow-cytometric profiling of primary tumours: marked complexity (17 macrophage and 22 T-cell
+   subsets); PD-1 broadly expressed, LAG-3 and TIM-3 narrowly; a CD38-high macrophage population
+   travels with PD-1+ T cells → CD38 blockade is a combination candidate (anti-CD38 antibodies are
+   approved or in development).
+
+Chronic Inflammation and the Immune Response to Prostate Cancer
+ • Macrophages, T and B cells infiltrate the prostate even without symptoms or cancer; this baseline
+   inflammation is probably tumour-promoting.
+ • Three lines of evidence: (1) inflammation concentrates in the peripheral zone, where more than 90% of
+   tumours arise; (2) Western populations (endemic prostatic inflammation) have higher incidence than
+   Asian populations; (3) proliferative inflammatory atrophy (PIA) — flattened but proliferating epithelium
+   with inflammatory cells — lies adjacent to high-grade prostatic intraepithelial neoplasia (PIN), the most
+   convincing link.
+ • Adaptive environment dominated by Tregs — in the gland, in neoplastic lesions, and as functional Tregs in
+   bone marrow.
+ • CD8 cells can be suppressive (pro-tumour); regulatory CD8 cells in blood can mask an antigen-specific
+   response.
+ • Infiltrating CD8 cells are PD-1-positive and clonally restricted.
+ENDOGENOUS IMMUNE LANDSCAPE: BLADDER VS KIDNEY VS PROSTATE
+                        Bladder                                    Kidney                          Prostate
+ Inflammation →         Strong (schistosomiasis, UTI,              Weak (smoking, obesity only)    Probable (peripheral
+ cancer link            catheters, cyclophosphamide)                                               zone, geography, PIA)
+ Meaning of CD8         Better outcome (MIBC)                      Worse outcome (paradox)         CD8 cells may be
+ infiltration                                                                                      suppressive
+ Dominant restraint     PD-L1 on tumour, ↑ with grade              PD-1/LAG-3-high T cells, few    Tregs; PD-1+ CD8 cells
+                                                                   APCs; CD38 macrophages
+
+Concept — Chronic, Th2/Treg/M2-skewed inflammation promotes cancer, whereas an acute Th1/CD8
+response eliminates it. The three GU tumours differ in which arm dominates, and that predicts where
+checkpoint blockade later succeeds (bladder, kidney) and fails (prostate).
+
+ KEY POINTS: CHRONIC INFLAMMATION AND THE ENDOGENOUS IMMUNE RESPONSE TO GU CANCERS
+   • Bladder cancer is promoted by chronic inflammation from infection or other stimuli.
+   • Kidney: an active CD8 response exists, but higher CD8 density → worse prognosis.
+   • Prostate cancer may also be driven by chronic inflammation.
+   • Checkpoint molecules on TILs attenuate the adaptive response to GU tumours.
+
+
+IMMUNOTHERAPY FOR GENITOURINARY CANCERS
+
+Bacille Calmette-Guérin in Bladder Cancer
+ • BCG sequence: instil 1–5 × 108 viable mycobacteria → most washed out at first void; a fraction adheres
+   to urothelium via fibronectin attachment protein → cell-wall PAMPs stimulate urothelium through TLR2
+   and TLR4 (direct macrophage/DC activation also likely) → urothelium secretes IL-8 (neutrophil attractant)
+   and TNF-α (recruits and activates macrophages) → within hours, a neutrophil wave enters the bladder
+   wall, clears bacilli and releases cytokines that activate DCs → over weeks, an adaptive, mainly CD4-driven
+
+
+
+                                                            page 5 of 11
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic
+Oncology                                                                             Immunotherapy for Genitourinary Cancers
+   response: DCs prime CD4 cells in draining nodes → Th1 (IL-2, TNF-α, IFN-γ) → consolidation as long-lived
+   memory.
+ • Memory is unproven in patients but implied by the ~50% of non-muscle-invasive disease remaining in
+   remission for years after BCG.
+Concept — Successful BCG therapy is a typical immune response: innate (neutrophils, macrophages) first,
+then adaptive Th1 CD4, then memory.
+
+Nadofaragene Firadenovec in Bladder Cancer
+ • Background: intravesical recombinant IFN-α2b protein is well tolerated and active in non-muscle-invasive
+   bladder cancer (NMIBC) after BCG, inducing apoptosis via TNF-related apoptosis-inducing ligand (TRAIL)
+   pathways — but responses are not durable, largely because dwell time is only 1–2 hours.
+ • Gene therapy rationale: maximise transgene expression in urothelium, minimise adenovirus outside the
+   bladder. Early adenoviral attempts failed against the bladder's antiadherence barrier; the excipient Syn3
+   markedly enhances transduction.
+ • Product: non-replicating recombinant adenovirus carrying the human IFN-α2b gene + Syn3.
+ • Landmark phase III, BCG-unresponsive NMIBC: 75 mL intravesical (3 × 1011 viral particles/mL) every 3
+   months for up to 12 months; 1-hour dwell with patient rotating; cytology and cystoscopy (± biopsy)
+   every 3 months. Primary endpoint: complete response (CR) in carcinoma in situ (CIS) ± high-grade Ta/T1.
+ • Results: CR 53.4% within 3 months (CIS cohort); median CR duration 9.69 months; 24.3% high-grade
+   recurrence-free at 12 months. No grade 4–5 drug-related events; commonest: discharge around catheter,
+   fatigue, bladder spasm, urgency.
+ • US Food and Drug Administration (FDA) approval 16 December 2022 — first gene therapy for BCG-
+   unresponsive NMIBC with CIS ± papillary tumours.
+
+Cancer Vaccines
+ • Aim, as with BCG: raise a T-cell response. Two components: an adjuvant (PAMP-like; activates DCs —
+   "adds" immunogenicity) and a target antigen overexpressed in tumour relative to normal tissue (choice
+   largely empirical).
+ • Sequence: intradermal injection → immature DC takes up antigen; adjuvant activates it → DC migrates to
+   node, presents peptide on MHC → TCR recognition (signal 1) plus costimulation (signal 2) from a mature
+   DC is required → CD8 cells gain lytic function against cells bearing the same MHC–peptide; CD4 cells
+   become Th1 → CD8 cells leave the node and traffic widely.
+Vaccines for Kidney Cancer and Vaccines for Prostate Cancer
+PHASE III CANCER VACCINE TRIALS IN GU CANCER
+ Vaccine        Setting                       Platform                          Comparator      Verdict
+ IMA901         Metastatic RCC, human         Tumour-associated peptides +      Sunitinib ±     No overall survival (OS)
+                leucocyte antigen (HLA)-      GM-CSF adjuvant; low-dose         vaccine         benefit; non-significant
+                A*02+                         cyclophosphamide to deplete                       trend favouring no
+                                              Tregs                                             vaccine
+ AGS-003        Metastatic high-risk RCC      Autologous DCs (leukapheresis;    Sunitinib ±     Terminated for lack of
+                                              monocytes matured with IL-4 +     vaccine         efficacy
+                                              GM-CSF) transfected with tumour
+                                              RNA; intranodal
+
+
+
+
+                                                            page 6 of 11
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic
+Oncology                                                                                  Immunotherapy for Genitourinary Cancers
+
+ Vaccine           Setting                    Platform                             Comparator        Verdict
+ Sipuleucel- Asymptomatic /                   Autologous peripheral blood          Placebo (2:1)     OS +4.1 months (25.8
+ T           minimally symptomatic            mononuclear cells incubated ~36                        vs 21.7); no effect on
+             metastatic castration-           h with PA2024 (prostatic acid                          time to progression;
+             resistant prostate cancer        phosphatase [PAP]–GM-CSF                               first FDA-approved
+             (mCRPC)                          fusion); IV every 2 weeks × 3                          vaccine for a solid
+                                                                                                     tumour
+ PROSTVAC- Asymptomatic /                     Heterologous poxviral prime–         Placebo vs    Closed for futility (OS)
+ VF        minimally symptomatic              boost (vaccinia prime, fowlpox       vaccine ± GM-
+           mCRPC                              boost) encoding prostate-specific    CSF
+                                              antigen (PSA) + TRICOM (B7.1,
+                                              LFA-3, ICAM-1)
+
+ • Granulocyte-macrophage colony-stimulating factor (GM-CSF) — a strong inducer of DC migration — is
+   the recurring adjuvant.
+ • IMA901 failure fits the renal paradox: more CD8 infiltration may not help in RCC.
+ • Autologous vaccines are limited by variable tumour material; RNA extraction lets a small resected mass
+   yield ample vaccine. Patients' own DCs are often dysfunctional, hence ex vivo DCs generated outside the
+   tolerogenic environment.
+ • Sipuleucel-T product is heterogeneous (mature APCs plus T, B and NK cells); it primes PAP-specific CD4+
+   and CD8+ cells as a prime–boost — the first infusion primes, later ones boost.
+ • Pattern: only sipuleucel-T succeeded; every other GU phase III vaccine failed. Trap: sipuleucel-T prolongs
+   survival without delaying progression.
+
+PD-1/PD-L1 Blockade in Genitourinary Cancers
+ • The most important evasion mechanism: T-cell PD-1 binding PD-L1 limits proliferation and killing.
+ANTI-PD-1/PD-L1 AND ANTI-CTLA-4 ANTIBODIES: TARGETS
+ Agent                              Target                                            Antibody
+ Nivolumab                          PD-1                                              Fully human IgG4
+ Pembrolizumab                      PD-1 (blocks binding of PD-L1 and PD-L2)          Humanised, hinge-stabilised IgG4
+ Avelumab                           PD-L1                                             IgG1
+ Atezolizumab, durvalumab           PD-L1                                             —
+ Ipilimumab                         CTLA-4                                            —
+
+PD-1/PD-L1 Blockade in Bladder Cancer
+ • Bladder cancer frequently expresses PD-L1; anti-PD-1/PD-L1 agents are approved in non-muscle-invasive,
+   muscle-invasive and advanced/metastatic urothelial cancer (mUC).
+ • Baseline for advanced disease: most progress within ~9 months of platinum chemotherapy; median OS
+   14–15 months with cisplatin regimens — the rationale for maintenance.
+ANTI-PD-1/PD-L1 TRIALS IN UROTHELIAL CANCER
+ Setting / trial       Agent and population                        Result                               Status
+ NMIBC                 Pembrolizumab 200 mg IV 3-weekly up         CR 41% at 3 months; median CR        FDA January 2020
+ KEYNOTE-057           to 24 months; BCG-unresponsive CIS ±        duration 16.2 months; 19% in CR
+                       papillary, ineligible for or declining      ≥12 months; grade 3–4 events
+                       cystectomy                                  13%
+
+
+
+
+                                                            page 7 of 11
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic
+Oncology                                                                                  Immunotherapy for Genitourinary Cancers
+
+ Setting / trial     Agent and population                          Result                               Status
+ Adjuvant MIBC Nivolumab 2-weekly up to 1 year vs                  Disease-free survival (DFS) 20.8   FDA August 2021
+ CheckMate 274 placebo; high risk after radical surgery:           vs 10.8 months; better non-
+               pT3, pT4a or pN+ (no neoadjuvant                    urothelial-tract recurrence-free
+               cisplatin and ineligible for or declining           and distant metastasis-free
+               adjuvant cisplatin) or ypT2–ypT4a or                survival; grade ≥3 events 17.9% vs
+               ypN+ (after neoadjuvant cisplatin)                  7.2%
+ Adjuvant            Atezolizumab vs observation                   DFS not improved                     Negative
+ IMvigor010
+ Adjuvant            Pembrolizumab vs observation                  Ongoing                              —
+ AMBASSADOR
+ First line,         Atezolizumab (phase II) → atezolizumab Accelerated approval April 2017;            Withdrawn
+ cisplatin-          + chemotherapy (confirmatory)          IMvigor130 missed OS co-
+ ineligible                                                 primary
+ IMvigor210 →
+ IMvigor130
+ First line,         Pembrolizumab, phase II, any PD-L1            Objective response rate (ORR)        Restricted: cisplatin-
+ cisplatin-          status                                        24% overall, 28% PD-L1+;             ineligible with CPS
+ ineligible                                                        accelerated approval May 2017.       ≥10, or ineligible for
+ KEYNOTE-052                                                       June 2018: combined positive         any platinum
+                                                                   score (CPS) <10 → worse OS than      regardless of PD-L1
+                                                                   carboplatin chemotherapy
+ Maintenance         Avelumab 2-weekly + best supportive           OS longer overall and in PD-L1+;     FDA June 2020
+ JAVELIN             care vs best supportive care; no              grade ≥3 events 47.2% vs 25.2%
+ Bladder 100         progression on first-line platinum
+ Second line   Nivolumab 3 mg/kg 2-weekly, single-                 ORR 20.7%; median response           Accelerated February
+ CheckMate 275 arm phase II, post-platinum                         duration 20.3 months; tumour         2017
+                                                                   mutational burden and PD-L1
+                                                                   predicted response
+ Second line         Pembrolizumab 200 mg 3-weekly vs              OS 10.3 vs 7.4 months (P = .002);    Only anti-PD-1/PD-
+ KEYNOTE-045         investigator's chemotherapy (paclitaxel,      ORR 21.1% vs 11.4% (P = .001)        L1 agent approved
+                     docetaxel or vinflunine), post-platinum                                            on randomised
+                                                                                                        phase III data
+ Second line         Avelumab, phase I expansion;                  ORR 16.5%; response duration         Accelerated May
+ JAVELIN Solid       progression on/after platinum or within       20.5 months                          2017
+ Tumor               12 months of (neo)adjuvant platinum
+ Second line         Atezolizumab, durvalumab                      Failed confirmatory trials           Withdrawn
+
+ • Why CheckMate 274 succeeded and IMvigor010 failed is unclear: trial design, or target — PD-1
+   (nivolumab) vs PD-L1 (atezolizumab).
+ • Pattern: every surviving bladder indication uses anti-PD-1 except avelumab (maintenance, second line);
+   both other anti-PD-L1 agents were withdrawn. Trap: single-agent first-line pembrolizumab is not for all
+   cisplatin-ineligible patients — only CPS ≥10 or platinum-ineligible.
+PD-1/PD-L1 Blockade in Kidney Cancer
+ • RCC is traditionally immune-sensitive, so single-agent anti-PD-1 responses in phase I were expected.
+ • CheckMate 025 (first approval): nivolumab 3 mg/kg vs the mammalian target of rapamycin (mTOR)
+   inhibitor everolimus in metastatic RCC (mRCC) progressing on first-line tyrosine kinase inhibitor (TKI);
+   primary endpoint OS → longer OS and fewer grade 3–4 events; updated median OS 25.8 vs 19.7 months.
+ • KEYNOTE-564 (adjuvant): 1 year pembrolizumab vs placebo in clear-cell RCC at high risk — pT2 with
+   nuclear grade 4 or sarcomatoid differentiation, ≥pT3, N+, or M1 with no evidence of disease.
+
+
+                                                            page 8 of 11
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic
+Oncology                                                                        Immunotherapy for Genitourinary Cancers
+   Recurrence or death 32% lower (hazard ratio [HR] 0.68); 24-month DFS 77.3% vs 68.1%. FDA November
+   2021.
+PD-1/PD-L1 Blockade in Prostate Cancer
+ • Phase II pembrolizumab in docetaxel- and endocrine-pretreated mCRPC (PD-L1+, PD-L1− and bone-
+   predominant cohorts): poor — PSA response <10%, ORR <5%.
+ • Why: prostate cancer cells generally do not express PD-L1, although most infiltrating CD8 cells express
+   PD-1.
+ • Microsatellite instability-high (MSI-H) / mismatch repair-deficient (dMMR) tumours carry many
+   neoantigens → more immunosensitive. FDA accelerated approval, 23 May 2017: pembrolizumab for
+   unresectable or metastatic MSI-H/dMMR solid tumours (adult and paediatric) progressing after prior
+   treatment with no satisfactory alternative — the first approval based on a biomarker rather than site of
+   origin.
+ • National Comprehensive Cancer Network (NCCN) prostate guideline: consider MSI-H/dMMR testing;
+   pembrolizumab for MSI-H/dMMR mCRPC second line or beyond.
+ • MSI-H/dMMR prevalence in prostate cancer 1.2–12%; in one series about one-fifth of these carried a
+   germline Lynch syndrome mutation, and nearly half derived durable benefit — in line with other MSI-H
+   tumours.
+
+Combination Immunotherapy Regimens in Genitourinary Cancers
+CTLA-4 Blockade in Prostate and Kidney Cancer
+ • CTLA-4 is relatively overexpressed on FoxP3+ CD4 Tregs, unlike PD-1 → blockade probably attenuates
+   Treg function, freeing CD8 TILs.
+ • Ipilimumab monotherapy in prostate cancer: PSA response ~15–20%, few radiographic responses; two
+   phase III trials (pre- and post-chemotherapy mCRPC) — no OS benefit.
+ • Rationale for combination: PD-1 on CD8 killers + CTLA-4 on CD4 Tregs → synergy; the first checkpoint
+   combination synergistic in animals.
+ • CheckMate 214: nivolumab + ipilimumab vs sunitinib, first-line clear-cell mRCC; co-primary endpoints in
+   intermediate/poor risk: median OS not reached vs 26.0 months (HR 0.63, P < .001); ORR 42% vs 27%;
+   progression-free survival (PFS) 11.6 vs 8.4 months (P = .03 — not significant against the prespecified .
+   009 threshold) → FDA-approved first line for intermediate/poor-risk mRCC.
+PD-1 VS CTLA-4 BLOCKADE
+                                PD-1 axis                                   CTLA-4
+ Main expressing cell           CD8 TILs                                    FoxP3+ CD4 Tregs
+ Ligand                         PD-L1 (B7-H1), PD-L2                        CD80/CD86
+ Effect of blockade             Releases CD8 effector brake in the tumour   Attenuates Treg suppression
+ Prostate monotherapy           Poor, except MSI-H/dMMR                     PSA responses only; no OS benefit
+
+Combining PD-1/PD-L1 Blockade With Androgen-Deprivation Therapy in Prostate Cancer
+ • Androgen-deprivation therapy (ADT) is proinflammatory: the thymus involutes with age; androgen
+   ablation restores thymic size and cellularity → more naive T-cell output (aged mice, presumed in
+   humans); ADT before prostatectomy → activated CD4+ infiltration of the gland; new antibody
+   specificities appear.
+ • Enzalutamide raises PD-L1 → phase II adding pembrolizumab on enzalutamide progression: about one in
+   five had PSA decline ≥50%; phase III ongoing.
+
+
+
+
+                                                            page 9 of 11
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic
+Oncology                                                                                 Immunotherapy for Genitourinary Cancers
+ • IMbassador250 (phase III): atezolizumab + enzalutamide — no OS benefit in unselected mCRPC; longer
+   PFS with high PD-L1 (IC2/3), CD8 expression and immune gene signatures → patient selection needed.
+Combining PD-1/PD-L1 Blockade With Chemotherapy in Bladder Cancer
+ • Chemotherapy is not always immune-antagonistic: some agents enhance vaccine responses by inducing
+   immunogenic cell death — tumour cells die in a way that lets resting DCs take up antigen, traffic to nodes
+   and prime tumour-specific T cells.
+ • Antibody–drug conjugates (ADCs): cytotoxic payload linked to a tumour-specific antibody → less systemic
+   toxicity, higher tumour drug concentration.
+ • Enfortumab vedotin (EV): anti-nectin-4 antibody (highly expressed in urothelial cancer) + monomethyl
+   auristatin E (microtubule disruptor); first ADC FDA-approved for locally advanced/mUC, December
+   2019.
+ • EV + pembrolizumab: accelerated approval April 2023 for cisplatin-ineligible locally advanced/mUC
+   (EV-103/KEYNOTE-869): ORR 68%, CR 12% — the first anti-PD-1 + ADC approval in the USA.
+ • Phase III trials adding PD-1/PD-L1 blockade to first-line gemcitabine–cisplatin are ongoing; success would
+   make first-line therapy chemo-immunotherapy but leave the best second line uncertain.
+Combining PD-1/PD-L1 Blockade With VEGF Inhibition in Kidney Cancer
+ • Vascular endothelial growth factor (VEGF) signalling drives RCC; VEGF-pathway TKIs have long been a
+   mainstay.
+ • VEGF is also immunosuppressive: it impairs DC maturation and T-cell entry into tumour (altered
+   endothelial trafficking). VEGF inhibition → vascular normalisation → more intratumoural CD8+ cells and
+   better DC function → rationale for adding ICB.
+ • Four PD-1/PD-L1 + TKI combinations are FDA-approved first line for mRCC with a clear-cell component;
+   all beat sunitinib, with striking ORR and PFS gains.
+TABLE 24.3 FDA-APPROVED PD-1/PD-L1 BLOCKADE AND VEGF INHIBITOR COMBINATION THERAPY IN METASTATIC
+RENAL CELL CARCINOMA
+                                                                        ORR: combination vs Median PFS, months:
+ Trial              Combination                                         sunitinib           combination vs sunitinib
+ KEYNOTE-426        Pembrolizumab + axitinib                            60% vs 40%            15.4 vs 11.1
+ JAVELIN Renal      Avelumab + axitinib                                 52.5% vs 27.3%        13.3 vs 8.0
+ 101
+ CLEAR              Pembrolizumab + lenvatinib (third arm               71% vs 36.1%          23.9 vs 9.2
+                    lenvatinib + everolimus: 53.5%; 14.7)
+ CheckMate 9ER Nivolumab + cabozantinib                                 55.7% vs 27.1%        16.6 vs 8.3
+
+ • Sunitinib is the control in all four; every combination wins on ORR and PFS. CLEAR (pembrolizumab +
+   lenvatinib) has the highest ORR and longest PFS; avelumab + axitinib is the only anti-PD-L1 pairing. The
+   table reports ORR and PFS, not OS.
+
+ KEY POINTS: PD-1/PD-L1 BLOCKADE AND COMBINATION REGIMENS IN GU CANCERS
+   • Pembrolizumab: BCG-unresponsive CIS (cystectomy-ineligible/declined); first-line mUC if CPS ≥10 and
+     cisplatin-ineligible, or platinum-ineligible; second-line mUC; adjuvant high-risk clear-cell RCC; MSI-H/
+     dMMR mCRPC second line or beyond.
+   • Nivolumab: adjuvant MIUC after radical surgery; second-line mUC; mRCC after TKI.
+   • Avelumab: maintenance after first-line platinum; second-line mUC.
+   • Nivolumab + ipilimumab: first-line intermediate/poor-risk mRCC.
+
+
+
+                                                           page 10 of 11
+Chapter 24 — Basic Principles of Immunology and Immunotherapy in Urologic
+Oncology                                                                                            Conclusions
+   • EV + pembrolizumab: cisplatin-ineligible locally advanced/mUC.
+   • Four TKI + PD-1/PD-L1 combinations: first-line clear-cell mRCC. ADT + ICB (prostate) and chemo + ICB
+     (bladder) under trial.
+
+Concept — Every successful GU immunotherapy either supplies a danger signal that starts a Th1 response
+(BCG, vaccine adjuvant, immunogenic cell death, VEGF inhibition) or removes a brake on a response already
+under way (PD-1, CTLA-4). Failures cluster where the brake is not the limiting step — PD-L1-negative, Treg-
+dominated prostate cancer.
+
+CONCLUSIONS
+ • Progress has been especially strong in GU cancers, driven by a better grasp of basic immunology and
+   tumour immune resistance.
+ • BCG was among the first immune-based treatments in routine practice in any cancer.
+ • The future is combinations: PD-1 + CTLA-4 and PD-1/PD-L1 + VEGF inhibitors are approved first line in
+   RCC; ADT + ICB (prostate) and chemotherapy + ICB (bladder) are under study.
+ • Most patients will still not benefit → resistance mechanisms must be defined in preclinical models and
+   patients.
+
+
+
+
+                                                           page 11 of 11
+
