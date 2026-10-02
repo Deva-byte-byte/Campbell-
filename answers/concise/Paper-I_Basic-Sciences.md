@@ -19,9 +19,9 @@
 - Urine is formed by filtration, reabsorption, secretion and concentration, then propelled by peristalsis into a low-pressure bladder.
 
 ### A. Renal blood flow (RBF)
-- RBF is about **20–25% of cardiac output (CO)** (~1–1.2 L/min); renal plasma flow (RPF) is ~600 mL/min.
+- RBF is **20–25% of cardiac output (CO)**; renal plasma flow (RPF) ~600 mL/min.
 - The medulla receives <10% of flow; this protects its osmotic gradient but makes it prone to hypoxia.
-- **Autoregulation** keeps RBF and GFR (glomerular filtration rate) constant over a mean arterial pressure of **80–180 mmHg** by two mechanisms:
+- **Autoregulation** keeps RBF and GFR (glomerular filtration rate) constant at mean arterial pressure **80–180 mmHg**:
   - **Myogenic:** afferent arteriolar smooth muscle contracts when stretched.
   - **Tubuloglomerular feedback (TGF):** high NaCl at the macula densa releases adenosine, which constricts the afferent arteriole and reduces renin.
 - Non-steroidal anti-inflammatory drugs (NSAIDs) remove protective prostaglandin vasodilatation in low-flow states.
@@ -32,33 +32,33 @@
 - The filtration barrier restricts molecules by size (>~60–70 kDa) and negative charge, so albumin is excluded.
 
 ### C. Tubular handling – segment-wise
-| Segment | Key transporters | What it does | Clinical link |
-|---|---|---|---|
-| **Proximal convoluted tubule (PCT)** | Na⁺/H⁺ exchanger, SGLT2 (sodium–glucose cotransporter 2) | Reabsorbs ~**65%** of Na⁺ and water (iso-osmotic) and ~100% of glucose; secretes drugs and creatinine | SGLT2 inhibitors; Fanconi |
-| **Thick ascending limb (TAL)** | **NKCC2** (Na⁺-K⁺-2Cl⁻ cotransporter) | Reabsorbs ~**25%** of NaCl; impermeable to water, so it is the **"diluting segment"** and builds the medullary gradient | Loop diuretics |
-| **Distal convoluted tubule (DCT)** | **NCC** (Na⁺-Cl⁻ cotransporter) | Reabsorbs ~5–7% of Na⁺; active Ca²⁺ reabsorption under parathyroid hormone (PTH) | Thiazides lower urinary calcium (stones) |
-| **Collecting duct (CD) – principal cells** | **ENaC** (epithelial Na⁺ channel), **aquaporin-2 (AQP2)** | Na⁺ reabsorption and K⁺ secretion (aldosterone); water reabsorption (antidiuretic hormone, ADH) | Amiloride, spironolactone |
-| Intercalated cells | H⁺-ATPase | Acid secretion | Distal renal tubular acidosis (RTA) → calcium phosphate stones |
+| Segment | Handling | Clinical link |
+|---|---|---|
+| **Proximal convoluted tubule (PCT)** | ~**65%** of Na⁺ and water (iso-osmotic); ~100% of glucose via SGLT2 (sodium–glucose cotransporter 2); secretes drugs, creatinine | SGLT2 inhibitors |
+| **Thick ascending limb (TAL)** | ~**25%** of NaCl via NKCC2 (Na⁺-K⁺-2Cl⁻ cotransporter); water-impermeable **"diluting segment"** that builds the medullary gradient | Loop diuretics |
+| **Distal convoluted tubule (DCT)** | ~5–7% of Na⁺; Ca²⁺ reabsorption under parathyroid hormone (PTH) | Thiazides lower urinary calcium |
+| **Collecting duct (CD) – principal cells** | Na⁺ reabsorption/K⁺ secretion (aldosterone); water via aquaporin-2 (AQP2) under antidiuretic hormone (ADH) | Amiloride, spironolactone |
+| Intercalated cells | Acid secretion | Distal renal tubular acidosis (RTA) → calcium phosphate stones |
 
 ### D. Concentration and dilution
 - **Countercurrent multiplication:** the TAL pumps out NaCl without water; this small single effect (~200 mOsm) is multiplied along the loop, raising papillary interstitial osmolality to ~**1200 mOsm/kg**.
-- **Urea recycling** in the inner medullary CD, stimulated by ADH, provides about half of inner-medullary osmolality.
+- ADH-driven **urea recycling** supplies about half of inner-medullary osmolality.
 - The **vasa recta** (hairpin loops with slow flow) act as countercurrent exchangers, so they do not wash out the gradient.
-- **ADH action:** a rise in plasma osmolality (~1–2%) or fall in volume releases ADH. It binds the **V2 receptor**, raises cAMP (cyclic adenosine monophosphate) and inserts **AQP2** channels into the apical membrane, so water is reabsorbed.
-- Nephrogenic diabetes insipidus (DI) occurs with lithium, hypercalcaemia, hypokalaemia and **after relief of obstruction** (reduced AQP2).
+- **ADH action:** released when osmolality rises (~1–2%) or volume falls; via the **V2 receptor** and cAMP (cyclic adenosine monophosphate) it inserts **AQP2** channels into the apical membrane, so water is reabsorbed.
+- Nephrogenic diabetes insipidus: lithium, hypercalcaemia and **post-obstruction** (reduced AQP2).
 
 ### E. Hormonal control
 - Angiotensin II (Ang II) and aldosterone retain Na⁺ and maintain GFR; ADH reabsorbs free water.
-- Atrial natriuretic peptide (ANP) causes natriuresis and suppresses renin; PTH causes phosphaturia.
+- Atrial natriuretic peptide (ANP) causes natriuresis; PTH causes phosphaturia.
 
 ### F. Upper urinary tract transport
-- **Pacemaker:** at the pelvicalyceal border. **Atypical smooth muscle cells (SMCs)** are primary pacemakers; **interstitial cells of Cajal (ICC)-like cells** are secondary pacemakers, reduced in ureteropelvic junction obstruction.
-- Peristalsis is **myogenic**: it persists after denervation and in transplanted kidneys; nerves only modulate it.
-- **Electromechanical coupling:** calcium entry via L-type channels creates the action potential, which spreads through gap junctions; calcium–calmodulin activates myosin light-chain kinase, causing contraction.
-- **Bolus propagation:** the ureter contracts behind each bolus and its walls **coapt** completely. Peristalsis occurs **2–6 times/min**; resting pressure is ~0–5 cmH₂O and contraction waves ~20–80 cmH₂O.
+- **Pacemaker:** **atypical smooth muscle cells (SMCs)** at the pelvicalyceal border; interstitial cells of Cajal-like cells act as secondary pacemakers.
+- Peristalsis is **myogenic** (persists after denervation and transplantation); nerves only modulate it.
+- **Electromechanical coupling:** L-type calcium entry creates the action potential, spreading via gap junctions; calcium–calmodulin activates myosin light-chain kinase → contraction.
+- **Bolus propagation:** the ureter contracts behind each bolus with walls fully **coapted**; **2–6 waves/min**, ~20–80 cmH₂O (resting ~0–5 cmH₂O).
 - **Effect of flow:** higher flow first increases frequency, then bolus size. At very high flow boluses **coalesce** into a fluid column and the ureter dilates **without obstruction** (relevant to diuretic renography).
 - **Ureterovesical junction (UVJ):** an intramural tunnel with **length:diameter ≈ 5:1** (Paquin) prevents reflux. Sustained bladder pressure >~40 cmH₂O (neurogenic bladder) stops efflux and causes secondary hydronephrosis.
-- **Factors affecting transport:** Gram-negative endotoxin inhibits peristalsis (dilatation without obstruction); **α1-blockers** (tamsulosin, medical expulsive therapy) relax the ureter; NSAIDs lower pelvic pressure in renal colic.
+- **Factors:** Gram-negative endotoxin inhibits peristalsis; **α1-blockers** (tamsulosin) relax the ureter for medical expulsive therapy.
 
 ### G. Bladder storage
 - High compliance, sympathetic detrusor relaxation and sphincter tone let the bladder hold ~400–500 mL at <~15 cmH₂O.
@@ -72,7 +72,6 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 ```
 - GFR falls because RBF drops and tubular back-pressure opposes filtration.
 - In **bilateral obstruction or a solitary kidney**, pressure stays high longer and natriuretic substances (ANP, urea) accumulate, causing **post-obstructive diuresis** after relief.
-- Tubular damage impairs concentration (less AQP2) and causes distal RTA.
 - Chronic obstruction causes fibrosis via Ang II and transforming growth factor-β1; recovery depends on duration and degree.
 
 **Diagram to draw:** Nephron with segmental transporters and % Na⁺ reabsorbed; triphasic UUO graph.
@@ -83,8 +82,8 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 
 > **Key points to remember:**
 > - RBF 20–25% of CO; GFR 125 mL/min; FF 20%; autoregulation 80–180 mmHg.
-> - PCT 65%, TAL 25% (diluting segment), DCT 5–7%; ADH acts via V2 → cAMP → AQP2.
-> - Pacemaker = atypical SMCs at the pelvicalyceal border; peristalsis is myogenic, 2–6/min.
+> - PCT 65%, TAL 25%, DCT 5–7%; ADH: V2 → cAMP → AQP2.
+> - Pacemaker: atypical SMCs; peristalsis myogenic, 2–6/min.
 > - UUO triphasic: RBF/pressure ↑/↑, ↓/↑, ↓/↓.
 
 ---
@@ -93,12 +92,10 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- Pelvic support depends on the **levator ani muscles, the endopelvic fascia and ligaments, and the bony pelvis** working together.
-- Failure causes **pelvic organ prolapse (POP)** and **stress urinary incontinence (SUI)**, i.e. leakage on effort when urethral support or closure fails.
+- Support depends on **levator ani, endopelvic fascia/ligaments and bony pelvis** acting together. Failure causes **pelvic organ prolapse (POP)** and **stress urinary incontinence (SUI)** – effort leakage when urethral support or closure fails.
 
 ### A. Bony pelvis
-- In the standing position the pelvic organs rest on the **levator plate** rather than over the hiatus.
-- Key surgical landmarks are the **ischial spine**, **sacrospinous ligament**, **Cooper's ligament** and the sacral promontory.
+- Standing, the organs rest on the **levator plate**, not over the hiatus. Surgical landmarks: **ischial spine**, **sacrospinous** and **Cooper's ligaments**, sacral promontory.
 
 ### B. Pelvic floor muscles (pelvic diaphragm)
 | Muscle | Attachment | Function |
@@ -106,13 +103,12 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 | Pubococcygeus (pubovisceral) | Pubis to vagina, perineal body, anus | Closes the hiatus, lifts urethra and vagina |
 | Puborectalis | Sling behind the anorectal junction | Maintains anorectal angle |
 | Iliococcygeus | Arcus tendineus levator ani (ATLA) to coccyx | Forms the horizontal **levator plate** |
-- **Levator avulsion** at vaginal delivery (seen on 3D/4D translabial ultrasound or MRI, magnetic resonance imaging) is a strong risk factor for POP and recurrence.
+- **Levator avulsion** at vaginal delivery is a strong risk factor for POP and recurrence.
 
 ### C. Endopelvic fascia and ligaments
 - **Cardinal and uterosacral ligaments** suspend the apex.
 - **Pubocervical fascia** supports the anterior wall and attaches laterally to the **arcus tendineus fasciae pelvis (ATFP, "white line")**, running from pubis to ischial spine.
-- **Rectovaginal (Denonvilliers) fascia** supports the posterior wall.
-- **Pubourethral ligaments** attach the mid-urethra to the pubis.
+- **Rectovaginal fascia** supports the posterior wall; **pubourethral ligaments** anchor the mid-urethra to the pubis.
 
 ### D. DeLancey's three levels of support (1992)
 | Level | Region | Structures | Defect causes |
@@ -124,8 +120,8 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 ### E. Urethral support and continence mechanisms
 - **Hammock hypothesis (DeLancey 1994):** the urethra lies on the anterior vaginal wall and endopelvic fascia. A rise in abdominal pressure compresses it against this firm layer; loss of the hammock causes SUI.
 - **Integral theory (Petros & Ulmsten 1990):** SUI and urgency both arise from laxity of the vagina and its ligaments. The **mid-urethral pubourethral ligament** is key, which is the basis of the **tension-free vaginal tape (TVT, 1996)**.
-- **Intrinsic closure** depends on mucosal coaptation (oestrogen-dependent), smooth muscle and the striated rhabdosphincter.
-- **Intrinsic sphincter deficiency (ISD)** is suggested by Valsalva leak point pressure <60 cmH₂O or maximal urethral closure pressure <20 cmH₂O; colposuspension works less well, so slings or bulking are preferred.
+- **Intrinsic sphincter deficiency (ISD)** (Valsalva leak point pressure <60 cmH₂O or maximal urethral closure pressure <20 cmH₂O) does poorly with colposuspension; slings or bulking are preferred.
+- **Intrinsic closure:** mucosal coaptation (oestrogen-dependent), smooth muscle and rhabdosphincter.
 - SUI is a continuum of **hypermobility with or without ISD**.
 
 ### F. Compartments and defects
@@ -148,7 +144,7 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 - **Decompensating:** ageing and **menopause**.
 
 ### I. POP-Q staging (Pelvic Organ Prolapse Quantification; International Continence Society, Bump 1996)
-- The **hymen is the reference point (0)**; points above it are negative and below it positive (cm). Nine measurements include Aa, Ba, C, D, Ap, Bp and total vaginal length (tvl).
+- **Hymen = 0**; points above are negative, below positive (cm). Nine measurements, including total vaginal length (tvl).
 
 | Stage | Definition |
 |---|---|
@@ -159,9 +155,7 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 | IV | Complete eversion (≥ tvl – 2) |
 
 ### Clinical assessment
-- Examine supine and standing with Valsalva, using a Sims speculum for each compartment.
-- Perform a **cough stress test**, also after reducing the prolapse to detect occult SUI. A **Q-tip** angle change >30° indicates hypermobility.
-- Urodynamics are done when ISD or mixed symptoms are suspected.
+- Examine standing with Valsalva, Sims speculum per compartment; **cough stress test**, also with prolapse reduced (occult SUI); **Q-tip** change >30° = hypermobility.
 
 ### J. How anatomy guides surgery
 | Defect | Operation | Anatomical principle |
@@ -176,19 +170,18 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 
 ### K. Mesh regulation
 - In **April 2019 the US Food and Drug Administration (FDA)** stopped sale of **transvaginal mesh for anterior POP repair**. This did **not** apply to MUS or sacrocolpopexy mesh.
-- Mesh complications include exposure, pain and dyspareunia.
 
 **Diagram to draw:** DeLancey levels I–III; hammock cross-section with a pressure arrow.
 
 ### Recent advances
-- 3D/4D translabial ultrasound shows levator avulsion, which predicts recurrence.
+- 3D/4D translabial ultrasound detects levator avulsion, predicting recurrence.
 - Single-incision mini-slings give short-term results comparable to standard MUS (SIMS randomised trial, 2022).
 
 > **Key points to remember:**
-> - DeLancey: I suspension (cardinal–uterosacral), II attachment (ATFP), III fusion (perineal membrane/body).
+> - DeLancey: I suspension, II attachment (ATFP), III fusion.
 > - Hammock (DeLancey 1994) vs Integral theory (Petros & Ulmsten 1990 → TVT 1996).
-> - Central cystocele: rugae lost; paravaginal: rugae preserved. POP-Q: hymen = 0; Stage II within ±1 cm.
-> - FDA 2019 withdrew transvaginal mesh for anterior POP; MUS and sacrocolpopexy mesh unaffected.
+> - Central cystocele rugae lost; paravaginal preserved. POP-Q Stage II = ±1 cm of hymen.
+> - FDA 2019: anterior transvaginal mesh withdrawn; MUS unaffected.
 
 ---
 
@@ -208,31 +201,29 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 | **Photon-counting CT (PCCT)** | First US Food and Drug Administration (FDA) clearance **2021** |
 
 ### Dual-energy CT (DECT)
-- Images at two energy levels allow material decomposition, because each material has a characteristic attenuation ratio between the two energies.
-- It distinguishes **uric acid from non-uric-acid stones**, identifying candidates for oral chemolysis.
-- **Virtual non-contrast** images replace the unenhanced phase, reducing dose; **iodine maps** separate hyperdense cysts from solid masses.
+- Each material attenuates the two energy levels in a characteristic ratio, allowing material decomposition: **uric acid vs non-uric-acid stones** (oral chemolysis candidates).
+- **Virtual non-contrast** images replace the unenhanced phase; **iodine maps** separate cysts from solid masses.
 
 ### Low-dose CT KUB (kidney–ureter–bladder)
 - Standard CT gives ~**8–10 mSv**; low-dose CT KUB **<3–4 mSv**; ultra-low-dose **<1 mSv**.
-- Stone sensitivity and specificity remain ~95%, though lower for stones <3 mm and body mass index >30.
+- Stone sensitivity/specificity remain ~95%.
 - The European Association of Urology (EAU) recommends **low-dose non-contrast CT** for acute flank pain (after ultrasound) and follow-up.
 
 ### CT urography (CTU)
-- Used to evaluate visible haematuria and upper tract urothelial cancer.
-- **Triple-phase** CTU (unenhanced, nephrographic, excretory at ~10–15 min) gives ~15–25 mSv.
+- For visible haematuria/upper tract cancer. **Triple-phase** (unenhanced, nephrographic, excretory) gives ~15–25 mSv.
 - **Split-bolus** CTU gives contrast in two aliquots and combines phases in one acquisition, lowering dose.
 
 ### Dose reduction technology
-- Tube current modulation, low tube voltage, and **iterative and deep-learning reconstruction** reduce dose while keeping image quality.
+- Tube current modulation and **iterative/deep-learning reconstruction** cut dose while keeping image quality.
 
 ### Photon-counting CT
-- The detector counts individual photons and sorts their energy. This gives **no electronic noise**, higher resolution, lower dose and better stone composition analysis.
+- The detector counts individual photons and sorts their energy: **no electronic noise**, higher resolution, lower dose.
 
 ### Other advances
-- CT angiography and 3D models help plan donor nephrectomy, partial nephrectomy and percutaneous nephrolithotomy.
+- CT angiography and 3D models for donor and partial nephrectomy planning.
 
 ### Uses in urology
-- Stone density >1000 Hounsfield units and skin-to-stone distance >10 cm predict shock wave lithotripsy failure. CT also covers Bosniak 2019 classification, cancer staging and trauma.
+- Skin-to-stone distance >10 cm predicts shock wave lithotripsy failure; also Bosniak 2019, staging, trauma.
 
 **Diagram to draw:** Timeline: axial → helical → MDCT → dual-source → PCCT.
 
@@ -241,8 +232,8 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 
 > **Key points to remember:**
 > - Helical ~1989; MDCT 1998; dual-source 2005; PCCT FDA-cleared 2021.
-> - DECT: uric acid vs non-uric acid stones, virtual non-contrast, iodine maps.
-> - Low-dose KUB <3–4 mSv, ultra-low <1 mSv; EAU-preferred.
+> - DECT: uric acid stones, virtual non-contrast, iodine maps.
+> - Low-dose KUB <3–4 mSv (EAU-preferred).
 > - Split-bolus CTU reduces phases and dose.
 
 ---
@@ -269,10 +260,10 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 | 1985 | Mühe | First laparoscopic cholecystectomy |
 | **1987** | **Mouret** | First video-laparoscopic cholecystectomy |
 | **1990** | **Clayman** | **First laparoscopic nephrectomy** |
+| 1992 | Gagner | Laparoscopic adrenalectomy |
 | **1992** | **Schuessler** | **First laparoscopic radical prostatectomy** (reported 1997, 9 patients) |
 | 1993 | Schuessler; Kavoussi & Peters | Laparoscopic dismembered pyeloplasty |
 | **1995** | **Ratner** | Laparoscopic live-donor nephrectomy |
-| 1992 | Gagner | Laparoscopic adrenalectomy |
 | 1998–99 | Guillonneau & Vallancien | Standardised and revived laparoscopic prostatectomy |
 | **2000** | **da Vinci** | US Food and Drug Administration (FDA) clearance |
 | **2000** | **Binder** | **First robot-assisted radical prostatectomy (RARP)** |
@@ -298,7 +289,7 @@ Optics → Diagnostic → Therapeutic (Semm) → Video laparoscopy
 > **Key points to remember:**
 > - Bozzini 1806 Lichtleiter; Kelling 1901 (dog); Jacobaeus 1910 (human).
 > - Veress 1938; Hopkins rod-lens; Semm – father of modern operative laparoscopy.
-> - Urology: Cortesi 1976; Clayman 1990 nephrectomy; Schuessler prostatectomy 1992/1997; Ratner 1995.
+> - Urology: Cortesi 1976; Clayman 1990 nephrectomy; Ratner 1995.
 > - da Vinci FDA 2000; Binder 2000 first RARP; Menon – VIP.
 
 ---
@@ -307,7 +298,7 @@ Optics → Diagnostic → Therapeutic (Semm) → Video laparoscopy
 **Type:** SAQ (10 marks)
 
 ### Definition
-- A hormonal cascade that regulates **blood pressure, extracellular volume, sodium/potassium balance and glomerular filtration rate (GFR)**. It has systemic and intrarenal components.
+- Hormonal cascade regulating **blood pressure, extracellular volume, Na⁺/K⁺ balance and glomerular filtration rate (GFR)**.
 
 ### Cascade
 ```
@@ -322,38 +313,38 @@ Angiotensin (1-7) → Mas receptor (vasodilator, anti-fibrotic)
 
 ### Juxtaglomerular (JG) apparatus
 - **JG cells** in the afferent arteriole secrete renin and act as baroreceptors.
-- The **macula densa** senses tubular NaCl; extraglomerular mesangial cells complete the apparatus.
+- The **macula densa** senses tubular NaCl.
 
 ### Stimuli for renin release
-- **Stimulated by** low renal perfusion pressure, low NaCl at the macula densa, **sympathetic β1 activity**, prostaglandins, loop diuretics and hypovolaemia.
-- **Inhibited by** angiotensin II (negative feedback), atrial natriuretic peptide, NSAIDs (non-steroidal anti-inflammatory drugs) and β-blockers.
+- **Stimulated by** low perfusion pressure, low macula densa NaCl, **sympathetic β1 activity** and hypovolaemia.
+- **Inhibited by** angiotensin II (negative feedback), atrial natriuretic peptide and β-blockers.
 
 ### Receptors and actions
-- **AT1 (angiotensin II type 1) receptor:** vasoconstriction, **aldosterone** release (sodium retention, potassium loss), thirst, cardiac hypertrophy and **fibrosis**.
+- **AT1 (angiotensin II type 1) receptor:** vasoconstriction, **aldosterone** release (Na⁺ retention, K⁺ loss), thirst and **fibrosis**.
 - **AT2 receptor:** vasodilatation; important in fetal urinary tract development.
 - The **ACE2–angiotensin (1-7)** arm is protective and counter-regulatory.
 
 ### Intrarenal effects on GFR
 - Angiotensin II constricts the **efferent more than the afferent** arteriole, maintaining GFR when perfusion is low.
-- Therefore **ACE inhibitors and angiotensin receptor blockers cause an acute fall in GFR** in bilateral renal artery stenosis, stenosis of a solitary kidney, hypovolaemia or with NSAIDs.
+- Therefore **ACE inhibitors and angiotensin receptor blockers cause an acute fall in GFR** in bilateral renal artery stenosis or stenosis of a solitary kidney.
 
 ### Urological relevance
 - **Renovascular hypertension** (Goldblatt 1934): atherosclerosis or fibromuscular dysplasia. A **renal vein renin ratio >1.5** predicts response to revascularisation or nephrectomy.
 - **Page kidney:** perirenal compression (e.g. subcapsular haematoma) causes renin-mediated hypertension.
 - **Reninoma (JG cell tumour):** young adults with severe hypertension and **hypokalaemia**; **partial nephrectomy is curative**.
 - **Obstruction:** angiotensin II mediates late afferent vasoconstriction and fibrosis.
-- **Drugs:** ACE inhibitors, angiotensin receptor blockers and aliskiren (direct renin inhibitor) are contraindicated in pregnancy.
+- **Drugs:** ACE inhibitors, angiotensin receptor blockers and aliskiren are contraindicated in pregnancy.
 
 **Diagram to draw:** JG apparatus and the cascade flowchart.
 
 ### Recent advances
-- Finerenone for renal protection; renal denervation (FDA, US Food and Drug Administration, 2023) for resistant hypertension.
+- Renal denervation (US Food and Drug Administration approval 2023) for resistant hypertension.
 
 > **Key points to remember:**
-> - Renin is rate-limiting; released from JG cells by low pressure, low macula densa NaCl and β1 stimulation.
-> - Efferent constriction maintains GFR, so ACE inhibitors are dangerous in bilateral renal artery stenosis.
+> - Renin (JG cells) is rate-limiting; released by low pressure, low NaCl, β1.
+> - Efferent constriction maintains GFR → ACE inhibitor risk in bilateral stenosis.
 > - AT1 = pressor/fibrotic; AT2 and ACE2–Ang(1-7) = protective.
-> - Renal vein renin ratio >1.5 lateralises; reninoma is cured by partial nephrectomy.
+> - Renin ratio >1.5 lateralises; reninoma → partial nephrectomy.
 
 ---
 
@@ -361,8 +352,7 @@ Angiotensin (1-7) → Mas receptor (vasodilator, anti-fibrotic)
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **Irreversible loss of the capacity for consciousness together with irreversible loss of the capacity to breathe**, due to permanent loss of brainstem function. It is legally death.
-- It is the main source of kidneys for donation after brainstem death (DBD).
+- **Irreversible loss of the capacity for consciousness and of the capacity to breathe** from permanent brainstem failure; legally death. Main source of donation after brainstem death (DBD) kidneys.
 
 ### Pathophysiology
 ```
@@ -377,19 +367,17 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 - A systemic inflammatory response increases delayed graft function and rejection in DBD kidneys.
 
 ### Diagnosis
-- **Preconditions:** apnoeic coma on a ventilator with a known, irreversible cause.
-- **Exclusions:** sedative drugs, neuromuscular blockers, **hypothermia (<35 °C)**, metabolic or endocrine disturbance and shock.
-- **All brainstem reflexes absent:** pupillary light reflex, corneal reflex, caloric test (~50 mL ice-cold water), doll's eye, motor response to central pain, gag and cough.
+- **Preconditions:** apnoeic ventilated coma with a known irreversible cause. **Exclude** sedatives, neuromuscular blockers, **hypothermia (<35 °C)** and metabolic disturbance.
+- **All brainstem reflexes absent:** pupillary, corneal, caloric (~50 mL ice-cold water), doll's eye, cranial motor response to pain, gag and cough.
 - **Apnoea test:** after pre-oxygenation, the ventilator is disconnected. No breathing effort when **arterial CO₂ (PaCO₂) reaches ≥60 mmHg** confirms apnoea.
-- Ancillary tests (EEG, electroencephalography) are not mandatory in India.
 
 ### Indian legal framework
 - Recognised by the **Transplantation of Human Organs Act (THOA) 1994**, amended 2011, with Rules in 2014.
-- Certified by a **4-member board**: hospital in-charge, an independent nominated doctor, a neurologist or neurosurgeon, and the treating doctor. Transplant team members cannot be on the board.
+- Certified by a **4-member board** (hospital in-charge, independent doctor, neurologist/neurosurgeon, treating doctor); no transplant team members.
 - **Two sets of tests at least 6 hours apart** are required.
 
 ### Donor management
-- **Rule of 100s:** systolic blood pressure >100 mmHg, urine >100 mL/h, PaO₂ >100 mmHg, haemoglobin >100 g/L.
+- **Rule of 100s:** systolic blood pressure >100 mmHg, urine >100 mL/h, PaO₂ (arterial O₂ tension) >100 mmHg, haemoglobin >100 g/L.
 - **Vasopressin** is the preferred vasopressor because it also treats DI.
 
 **Diagram to draw:** Herniation sequence leading to storm, DI, hypothermia and DIC.
@@ -399,7 +387,7 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 
 > **Key points to remember:**
 > - Raised ICP → Cushing reflex → storm → hypotension, DI, hypothermia, DIC.
-> - Exclude drugs, hypothermia (<35 °C) and metabolic causes before testing.
+> - Exclude drugs, hypothermia (<35 °C), metabolic causes.
 > - Apnoea test: no breathing at PaCO₂ ≥60 mmHg.
 > - THOA 1994: 4-member board, two tests ≥6 h apart; Rule of 100s.
 
@@ -409,7 +397,7 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Sperm appear at puberty, long after immune tolerance develops, so their antigens are seen as "foreign". The testis is therefore an **immune-privileged site**.
+- Sperm appear at puberty, after immune tolerance is established, so their antigens are "foreign"; the testis is therefore **immune-privileged**.
 
 ### Mechanisms of immune privilege
 - **Blood–testis barrier (BTB):** formed at **puberty** by **tight junctions between Sertoli cells**. It separates a **basal compartment** (spermatogonia, exposed to blood) from an **adluminal compartment** (later germ cells, sequestered).
@@ -426,7 +414,7 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 **Testing**
 - **Mixed antiglobulin reaction (MAR)** test on fresh semen or **immunobead test (IBT)** on washed sperm.
 - By **WHO (World Health Organization) 2010**, **≥50% of motile sperm with bound particles** is clinically significant.
-- Testing is indicated for isolated asthenozoospermia, agglutination on semen analysis or unexplained infertility.
+- Indications: isolated asthenozoospermia, agglutination, unexplained infertility.
 
 **Treatment**
 - Corticosteroids give inconsistent benefit and risk **avascular necrosis**, so they are not recommended.
@@ -435,7 +423,7 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 
 ### Inflammatory states
 - **Leukocytospermia** is **>1 × 10⁶ peroxidase-positive leukocytes/mL**. Reactive oxygen species damage sperm DNA; treat infection if found.
-- **Orchitis** may be viral (mumps after puberty, causing atrophy), bacterial (*Chlamydia*/gonorrhoea under 35 years; *E. coli* in older men) or granulomatous.
+- **Orchitis:** viral (post-pubertal mumps → atrophy), bacterial (*Chlamydia*/gonorrhoea <35 y; *E. coli* older) or granulomatous.
 - **Autoimmune orchitis** may be primary (ASA with azoospermia) or secondary to systemic vasculitis.
 
 **Diagram to draw:** Seminiferous tubule showing Sertoli tight junctions dividing basal and adluminal compartments.
@@ -445,8 +433,8 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 
 > **Key points to remember:**
 > - BTB = Sertoli–Sertoli tight junctions; basal vs adluminal compartments; formed at puberty.
-> - Privilege is also active: macrophages, regulatory T cells, TGF-β, androgens.
-> - ASA: vasectomy commonest; MAR/IBT ≥50% bound = significant; ICSI preferred, steroids avoided.
+> - Privilege is also active (regulatory T cells, TGF-β, androgens).
+> - ASA: vasectomy commonest; ≥50% bound = significant; ICSI preferred.
 > - Leukocytospermia >1 million/mL.
 
 ---
@@ -455,9 +443,9 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 **Type:** SAQ (10 marks)
 
 ### Classification (EAU 2024)
-- European Association of Urology (EAU) classification of urinary tract infection (UTI):
-  - **Uncomplicated:** cystitis or pyelonephritis in non-pregnant women without abnormality or comorbidity.
-  - **Complicated:** men, pregnancy, anatomical or functional abnormality, catheter, immunosuppression.
+- European Association of Urology (EAU) classes of urinary tract infection (UTI):
+  - **Uncomplicated:** non-pregnant women without abnormality or comorbidity.
+  - **Complicated:** men, pregnancy, abnormality, catheter, immunosuppression.
   - **Recurrent:** **≥2 infections in 6 months or ≥3 in 12 months**.
 
 ### Principles
@@ -465,8 +453,8 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 - **Pharmacodynamics:** β-lactams are **time-dependent** (need frequent dosing); **aminoglycosides and fluoroquinolones (FQs)** are **concentration-dependent** (high once-daily dose).
 - Nitrofurantoin and fosfomycin reach **high urine but low tissue levels**, so they treat **cystitis only**, never pyelonephritis or urosepsis.
 - Use an empirical drug only if local resistance is **<20%** for cystitis, and FQs for pyelonephritis only if resistance is **<10%**.
-- Avoid FQs and cephalosporins for simple cystitis because of collateral damage (resistant organisms, *C. difficile*).
-- Use the shortest effective course, de-escalate to culture, switch from intravenous to oral, and ensure **source control** (drain an obstructed infected kidney).
+- Avoid FQs/cephalosporins in simple cystitis (collateral damage: resistance, *C. difficile*).
+- Shortest effective course, de-escalate to culture, and **source control** (drain an obstructed infected kidney).
 
 ### Empirical choices
 | Scenario | First-line | Duration |
@@ -480,19 +468,19 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 | Urosepsis | Broad-spectrum antibiotic **within 1 h** + source control | By response |
 
 ### Asymptomatic bacteriuria (ASB)
-- Treat **only in pregnancy and before procedures that breach the mucosa**; do not treat in the elderly, diabetics or catheterised patients.
+- Treat **only in pregnancy and before mucosa-breaching procedures**; not in elderly, diabetic or catheterised patients.
 
 ### Prophylaxis
-- For recurrent UTI: vaginal oestrogen, **methenamine hippurate** (ALTAR trial, 2022 – non-inferior to antibiotics), or continuous low-dose or post-coital antibiotics.
+- Recurrent UTI: vaginal oestrogen, **methenamine hippurate** (ALTAR 2022 – non-inferior to antibiotics), or low-dose/post-coital antibiotics.
 - Peri-operative prophylaxis is a single dose or ≤24 hours.
 
 ### Recent advances
 - Pivmecillinam (2024) and gepotidacin (2025) approved by the US Food and Drug Administration for uncomplicated UTI.
 
-**Diagram to draw:** Pharmacokinetic/pharmacodynamic curve showing peak concentration and time above the minimum inhibitory concentration.
+**Diagram to draw:** Concentration–time curve showing peak and time above the minimum inhibitory concentration.
 
 > **Key points to remember:**
 > - Recurrent = ≥2 in 6 months or ≥3 in 12 months.
 > - Cystitis: fosfomycin 3 g single, nitrofurantoin 5 d, pivmecillinam 3–5 d.
-> - Pyelonephritis: ciprofloxacin 7 d or levofloxacin 750 mg 5 d if FQ resistance <10%.
-> - ASB: treat only in pregnancy and before mucosa-breaching surgery.
+> - Pyelonephritis: ciprofloxacin 7 d or levofloxacin 5 d.
+> - ASB: treat only in pregnancy/before mucosal surgery.

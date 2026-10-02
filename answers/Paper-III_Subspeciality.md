@@ -15,74 +15,73 @@
 ## III-1. Discuss various ureteric stents. Discuss ureteroscopy with or without stenting.
 **Type:** LAQ (25 marks)
 
-### Introduction
-- Ureteric stent = hollow tube keeping the upper tract draining past obstruction, injury or anastomosis.
-- **Zimskind 1967**: first indwelling silicone splint (migrated). **Finney 1978**: **double-J**; self-retaining coils solved migration.
+### Introduction / History
+- A hollow tube that keeps the upper tract draining past obstruction, injury or anastomosis.
+- **Zimskind 1967**: first indwelling silicone splint; being straight, it migrated.
+- **Finney 1978**: the **double-J** stent. Self-retaining coils solved migration.
 
 ### Stent design
 | Parameter | Details |
 |---|---|
-| Diameter | 3–8.5 Fr (adults 4.7–7 Fr; 6 Fr default); bigger → better extraluminal flow |
-| Length | Adults 20–30 cm (usual 24–26 cm), from height or measured on ureteric catheter; children ≈ age + 10 cm |
-| Coils | Double-pigtail, J, multi-length, loop-tail (fewer symptoms) |
-| Features | Radio-opaque, hydrophilic coating, extraction string |
-| Flow | Mostly **extraluminal** + side holes; poor in malignant extrinsic compression → tandem/metallic stents or PCN (percutaneous nephrostomy) |
+| Diameter | 3–8.5 Fr (adults 4.7–7 Fr, usually 6 Fr). Bigger stents drain better in extrinsic obstruction because most flow is around the stent |
+| Length | Adults 20–30 cm (usually 24–26 cm), chosen by height; children about age + 10 cm |
+| Flow | Poor in malignant compression; use tandem or metallic stents or PCN (percutaneous nephrostomy) |
 
-**Diagram to draw:** double-J in situ (renal coil, side holes, bladder coil).
+**Diagram to draw:** double-J stent in situ with renal coil, side holes and bladder coil.
 
-### Materials
+### Stent materials
 | Material | Features |
 |---|---|
-| Polyethylene | Rigid, brittle; abandoned |
-| Silicone | Most biocompatible, least encrustation; high friction |
-| Polyurethane | Stiff, cheap; more encrustation |
-| Copolymers (Percuflex, C-Flex) | Soften at body temperature |
-| **Metallic – Resonance** | Malignant obstruction; up to 12 months |
-| **Memokath 051** | Thermo-expandable nitinol; expands with warm saline, cooling softens for removal; long-term strictures |
-| Coated | **Heparin** (anti-encrustation), **triclosan** (no convincing benefit), hydrogel, silver, drug-eluting (investigational) |
-| Biodegradable | No removal; experimental (fragmentation) |
+| Silicone | Most biocompatible, least encrustation, but soft and hard to push |
+| Polyurethane | Stiff and cheap, but more encrustation and irritation |
+| **Metallic (Resonance)** | Resists compression in malignant obstruction; licensed for up to 12 months |
+| **Memokath 051** | Thermo-expandable nitinol for long-term strictures |
+| Coated | Heparin (anti-encrustation), triclosan (no convincing benefit), drug-eluting (investigational) |
+| Biodegradable | No removal needed, so no forgotten stent; still experimental because of fragmentation |
 
-- Special: endopyelotomy (tapered 14/7 Fr), magnetic-tip, stent on string (no cystoscopy; dislodgement), mono-J (diversion), anti-reflux valve.
+### Special stents
+- Magnetic-tip stents and stents on a string can be removed without cystoscopy.
 
 ### Indications
-- **Obstruction**: stone with sepsis (stent = PCN), malignancy, stricture, pregnancy.
-- **After intervention**: URS (ureteroscopy, selected), endopyelotomy, pyeloplasty, reimplant, transplant.
-- **Healing**: injury, leak, fistula. **Prophylactic**: complex pelvic surgery, passive dilatation.
+- Relief of obstruction: stone with sepsis (stent is as good as PCN), malignant obstruction, stricture, pregnancy.
+- After intervention: URS (ureteroscopy) in selected cases, pyeloplasty, reimplantation, transplant.
+- To help healing of injury, leak or fistula, and prophylactically before complex pelvic surgery.
 
 ### Stent-related symptoms
-- Up to ~80%: frequency, urgency, flank pain on voiding (reflux), haematuria; **USSQ (Ureteral Stent Symptom Questionnaire; Joshi 2003)**.
-- Mechanism: trigonal irritation (coil crossing midline), reflux, ureteric spasm.
-- Rx: **alpha-blocker + antimuscarinic** (combination > either); correct length, soft/tail stents, shortest dwell.
+- Up to about 80% have frequency, urgency, flank pain on voiding or haematuria, measured by the validated **USSQ (Ureteral Stent Symptom Questionnaire)**.
+- Causes: trigonal irritation when the bladder coil crosses the midline, reflux of urine up the stent during voiding, and ureteric spasm.
+- Treat with an **alpha-blocker plus an antimuscarinic**; the combination beats either alone. Use the correct length and shortest dwell.
 
 ### Complications
-- Migration (proximal → URS retrieval; distal → symptoms/expulsion), infection/biofilm, haematuria (rare uretero-arterial fistula), fracture, knotting, erosion, VUR (vesicoureteral reflux).
-- **Encrustation** ↑ with time (>6 weeks–3 months); stone formers, urease UTI (urinary tract infection; Proteus), pregnancy, CKD (chronic kidney disease).
-- **Forgotten stent** → obstruction, sepsis, renal loss; registries, SMS reminders.
-- **FECal (Forgotten, Encrusted, Calcified) grading** (Acosta-Miranda 2009): I minimal linear; II circular; III partial coil(s); IV one coil complete; V both coils complete.
+- Migration: a stent that is too short migrates upwards and needs URS retrieval.
+- Infection: colonisation is near-universal with longer dwell.
+- **Encrustation** increases with time (risk rises after 6 weeks–3 months), especially in stone formers, urease-producing UTI (urinary tract infection) and CKD (chronic kidney disease).
+- A **forgotten stent** can cause obstruction, sepsis and loss of the kidney; registries prevent this.
+- **FECal (Forgotten, Encrusted, Calcified) grading**: I minimal linear; II circular; III partial encrustation of one or both coils; IV complete encrustation of one coil; V both coils.
 
-### Encrusted stent
-- Never pull forcefully. NCCT (non-contrast computed tomography) for burden; DMSA (dimercaptosuccinic acid) scan if function doubtful; treat UTI.
-- **Bladder coil** (cystolithotripsy) → **ureter** (URS laser) → **renal coil** (fURS (flexible URS) or PCNL (percutaneous nephrolithotomy)); ESWL (extracorporeal shock wave lithotripsy) adjunct; single session where possible; nephrectomy if non-functioning. Metabolic evaluation.
+### Management of encrusted stent
+- Never pull it out forcefully, because of the risk of avulsion. Assess the stone burden with NCCT (non-contrast computed tomography) and treat infection first.
+- Clear the **bladder coil** first (cystolithotripsy), then the **ureter** (URS with laser), then the **renal coil** (flexible URS, or PCNL (percutaneous nephrolithotomy) for a large burden).
+- One session where possible; nephrectomy if non-functioning.
 
 ### Ureteroscopy
 | | Semirigid | Flexible |
 |---|---|---|
 | Size | ~6–8.5 Fr | ~7.5–9.5 Fr |
-| Best for | Distal/mid ureter | Upper ureter, kidney |
-| Deflection | None | ~270° both ways |
-| Optics | Rod lens/fibre-optic | **Digital** chip-on-tip |
+| Best for | Distal and mid ureter | Upper ureter and kidney |
+| Deflection | None | Up to ~270° in both directions |
 
-- **UAS (ureteral access sheath)** 10/12–12/14 Fr: ↓intrarenal pressure, better vision, repeated passage; risk **wall injury** (Traxer 2013; ~1 in 8 significant); pre-stenting ↓injury.
-- **Ho:YAG (holmium:YAG) 2120 nm** gold standard; **TFL (thulium fibre laser) ~1940 nm**: finer dust, less retropulsion.
-- Dusting (faster, no UAS, residual fines) vs fragmentation + basketing (stone-free confirmed, analysis).
-- Steps: sterile urine, antibiotics → safety guidewire → semirigid inspection → UAS under fluoroscopy → low-pressure irrigation, laser/basket → inspect ureter (PULS: Post-Ureteroscopic Lesion Scale) → stent decision.
+- **UAS (ureteral access sheath)**, 10/12–12/14 Fr, lowers intrarenal pressure and allows repeated passage. It can injure the ureteric wall (about 1 in 8 significant); pre-stenting passively dilates the ureter and reduces this.
+- **Ho:YAG (holmium:YAG) laser, 2120 nm**, is the gold standard. **TFL (thulium fibre laser), ~1940 nm**, gives finer dust and less retropulsion.
+- Dusting is faster but leaves fine fragments. Fragmentation with basketing confirms stone-free status and gives stone for analysis.
+- Steps: safety guidewire, semirigid inspection, access sheath, laser and basket, inspect the ureter on withdrawal, decide on a stent.
 
 ### Stenting after URS
-- **AUA (American Urological Association) 2016**: may omit after **uncomplicated** URS.
-- **EAU (European Association of Urology) 2024**: do not routinely stent after uncomplicated URS; pre-stenting not routine but ↑SFR (stone-free rate).
-- RCTs (randomised controlled trials)/meta-analyses: no stent → less pain/LUTS (lower urinary tract symptoms), cost; unplanned visits not significantly ↑.
-- **Stent if**: injury/perforation, significant residual fragments, solitary/transplant kidney, impacted stone/oedema, pregnancy, prolonged procedure, UTI/sepsis, renal insufficiency, bilateral URS, stricture, planned second-look.
-- Duration: uncomplicated 3–7 days (string); injury 2–6 weeks; stricture/endopyelotomy 4–6 weeks.
+- **AUA (American Urological Association) 2016**: a stent may be omitted after uncomplicated URS.
+- **EAU (European Association of Urology) 2024**: do not routinely stent after uncomplicated URS.
+- Omitting the stent gives less pain and fewer LUTS (lower urinary tract symptoms) at lower cost, without more unplanned visits.
+- **Stent is indicated for**: ureteric injury or perforation, significant residual fragments, solitary or transplant kidney, impacted stone or oedema, pregnancy, infection, renal insufficiency, bilateral URS.
+- Duration: 3–7 days (often on a string) when uncomplicated; 2–6 weeks after injury.
 
 ```
 After URS -> uncomplicated?
@@ -91,9 +90,14 @@ After URS -> uncomplicated?
 ```
 
 ### Recent advances
-- **FANS (flexible and navigable suction access sheath)**: ↓intrarenal pressure, better SFR, fewer infections.
-- TFL and pulse-modulated high-power Ho:YAG.
-- **Single-use digital flexible ureteroscopes**.
+- **FANS (flexible and navigable suction access sheath)**: lower intrarenal pressure, better stone-free rate, fewer infections.
+- Single-use digital flexible ureteroscopes.
+
+> **Key points to remember:**
+> - Finney 1978: double-J stent.
+> - Alpha-blocker plus antimuscarinic best relieves stent symptoms.
+> - Encrusted stent: clear bladder coil, then ureter, then kidney.
+> - No routine stent after uncomplicated URS (AUA 2016, EAU 2024).
 
 ---
 
@@ -101,90 +105,95 @@ After URS -> uncomplicated?
 **Type:** LAQ (25 marks)
 
 ### Definition
-- **VUR (vesicoureteral reflux)**: backflow of urine from bladder into ureter/upper tract.
-- **Primary**: congenital UVJ (ureterovesical junction) flap-valve deficiency; short tunnel (normal length : diameter ~5:1, Paquin).
-- **Secondary**: PUV (posterior urethral valves), neurogenic bladder, BBD (bladder and bowel dysfunction), iatrogenic.
-- ~1% normal children, ~30–40% with febrile UTI (urinary tract infection), ~30% siblings.
-- Reflux + infection → pyelonephritis; intrarenal reflux (compound papillae) → **scarring** → hypertension, CKD (chronic kidney disease) = **reflux nephropathy**. Congenital dysplasia esp. boys with high-grade antenatal VUR.
+- **VUR (vesicoureteral reflux)** is backflow of urine from bladder to ureter and kidney.
+- **Primary** VUR is a congenital deficiency of the UVJ (ureterovesical junction) flap-valve with a short intravesical tunnel (normal length to diameter ratio about 5:1).
+- **Secondary** VUR results from high bladder pressure or obstruction: PUV (posterior urethral valves), neurogenic bladder, BBD (bladder and bowel dysfunction).
+- Found in about 1% of normal children, 30–40% of children with febrile UTI (urinary tract infection) and 30% of siblings.
 
-### IRS (International Reflux Study) grading (VCUG: voiding cystourethrogram)
+### Pathophysiology
+- Reflux with infection causes pyelonephritis; compound papillae allow intrarenal reflux and **scarring**.
+- Scarring causes hypertension, proteinuria and CKD (chronic kidney disease): **reflux nephropathy**.
+
+### IRS (International Reflux Study) grading on VCUG (voiding cystourethrogram)
 | Grade | Findings |
 |---|---|
-| I | Ureter only |
-| II | Ureter, pelvis, calyces; no dilatation |
-| III | Mild–moderate dilatation; minimal fornix blunting |
-| IV | Moderate dilatation/tortuosity; **papillary impressions maintained** |
+| I | Contrast in the ureter only |
+| II | Ureter, pelvis and calyces, no dilatation |
+| III | Mild–moderate dilatation, minimal blunting of fornices |
+| IV | Moderate dilatation; fornices obliterated but **papillary impressions maintained** |
 | V | Gross dilatation; **papillary impressions lost** |
 
-**Diagram to draw:** grades I–V sketches; Cohen reimplant.
+**Diagram to draw:** grades I–V sketches and a Cohen cross-trigonal reimplant.
 
 ### Natural history
-- Depends on grade, laterality, age, BBD.
-- I–II ~80%+ resolve over ~5 years; III ~50%; IV unilateral ~50–60% at 5 years, **bilateral ~10%**; V rarely; mostly before puberty.
+- Resolution depends on grade, laterality, age and BBD.
+- Grades I–II: about 80% or more resolve over ~5 years. Grade III: about 50%.
+- Grade IV: unilateral about 50–60% at 5 years, but **bilateral only about 10%**. Grade V rarely resolves.
 
 ### Evaluation
-- Urine culture, creatinine, BP, proteinuria.
-- **RBUS (renal-bladder ultrasound)**, PVR (post-void residual).
-- **VCUG**: grade, urethra (exclude PUV), duplex. Radionuclide cystogram/ceVUS (contrast-enhanced voiding urosonography) for follow-up.
-- **DMSA (dimercaptosuccinic acid scan)**: scars, DRF (differential renal function).
-- Uroflow ± urodynamics if BBD suspected.
+- History of febrile UTI and BBD; examine BP and spine. Urine culture, creatinine, urine protein.
+- **RBUS (renal-bladder ultrasound)**: hydronephrosis, renal size, post-void residual.
+- **VCUG**: grade, and the urethra in boys to exclude PUV.
+- **DMSA (dimercaptosuccinic acid) scan**: scars and differential renal function.
 
 ### Medical management
-**1. CAP (continuous antibiotic prophylaxis)** – nightly, ~¼ therapeutic dose
+**1. CAP (continuous antibiotic prophylaxis)**: a single nightly dose, about a quarter of the treatment dose.
 | Drug | Dose | Notes |
 |---|---|---|
-| TMP-SMX (trimethoprim-sulfamethoxazole) | **2 mg/kg TMP** | Avoid <2 months (kernicterus) |
-| Nitrofurantoin | **1–2 mg/kg** | Avoid CKD/G6PD deficiency |
-| Cephalexin | ~10 mg/kg | Infants <2 months |
+| TMP-SMX (trimethoprim-sulfamethoxazole) | **2 mg/kg TMP** | Avoid under 2 months (kernicterus) |
+| Nitrofurantoin | **1–2 mg/kg** | Avoid in CKD and G6PD deficiency |
+| Cephalexin | ~10 mg/kg | For infants under 2 months |
 
 **2. Evidence**
-- **RIVUR (NEJM 2014)**: 607 children, 2–71 months, grade I–IV; TMP-SMX vs placebo → **recurrent UTI halved**, most benefit with **BBD**; **no difference in new scarring**; more resistant organisms.
-- **Swedish Reflux Trial (Brandström 2010)**: 1–2 yr, grade III–IV; CAP vs endoscopic vs surveillance → CAP/endoscopy ↓febrile UTI in **girls**, more scars on surveillance; **boys** few recurrences in any arm.
+- **RIVUR (NEJM 2014)**: 607 children with grade I–IV VUR, TMP-SMX vs placebo. CAP **halved recurrent UTI**, with the greatest benefit in BBD, but made **no difference to new scarring**.
+- **Swedish Reflux Trial (2010)**: in 1–2-year-olds with grade III–IV VUR, CAP and endoscopy reduced febrile UTI in **girls**; **boys** had few recurrences in any arm.
 
-**3. BBD treatment** first: timed/double voiding, treat constipation, urotherapy/biofeedback, anticholinergics, CIC (clean intermittent catheterisation) if needed. BBD ↓resolution and endoscopic success.
+**3. Treat BBD first**: timed voiding, treat constipation, urotherapy, anticholinergics. BBD lowers resolution, increases breakthrough UTI and reduces endoscopic success.
 
-**4. Circumcision**: ↓UTI in infant boys.
+**4. Circumcision** reduces UTI in infant boys.
 
-**5. Surveillance without CAP**: low-grade, no BBD, older child.
-
-**6. Follow-up**: RBUS 6–12 months; VCUG 12–24 months; DMSA if breakthrough.
+**5. Follow-up**: RBUS every 6–12 months, VCUG every 12–24 months; monitor BP.
 
 ### Guidelines
-- **AUA (American Urological Association) 2010**: CAP recommended with **BBD + VUR**; treat BBD first; breakthrough febrile UTI → consider intervention.
-- **EAU/ESPU (European Association of Urology/European Society for Paediatric Urology)**: **high-risk** (grade IV–V, scars, BBD) → CAP, **early intervention** if breakthrough; low-risk → surveillance or CAP. Reimplant for high grade, endoscopic for low–moderate.
+- **AUA (American Urological Association) 2010**: CAP is recommended for a child with BBD and VUR.
+- **EAU/ESPU (European Association of Urology/European Society for Paediatric Urology)**: high-risk children (grade IV–V, scars, BBD) start CAP; **intervene early** after breakthrough infection.
 
-**Indications for intervention**: breakthrough febrile UTI; new scars/↓DRF; persistent IV–V; CAP non-compliance; paraureteric diverticulum/duplex; parental preference.
+**Indications for intervention**: breakthrough febrile UTI, new scars, persistent grade IV–V VUR, poor CAP compliance, parental preference.
 
-### Case: 8-yr boy, bilateral grade IV VUR
+### Case: 8-year-old boy with bilateral grade IV VUR
 **Assessment**
-- Exclude **PUV** (VCUG urethra), neurogenic bladder (spine), **BBD** (diary, uroflow, PVR).
-- UTI history; DMSA, creatinine, BP.
-- Bilateral IV at 8 → **resolution ~10%**.
+- Exclude secondary VUR: PUV (urethra on VCUG), neurogenic bladder, BBD.
+- DMSA, creatinine, BP and UTI history.
+- At age 8 with bilateral grade IV, the chance of spontaneous resolution is **only about 10%**.
 
 **Options**
-1. **CAP + BBD management**: if no febrile UTI, no scars; boys past infancy have lower UTI risk. Cons: resistance, compliance.
-2. **Endoscopic Deflux (dextranomer/hyaluronic acid)**: STING (subureteric) or HIT (hydrodistension-implantation). **Elder 2006** one-injection success: **IV ~63%** (I–II ~79%, V ~51%); ↑with repeat. Day-care; lower durability.
-3. **Ureteral reimplantation** (gold standard, **~95–98%**):
-   - **Cohen cross-trigonal**: commonest; later URS (ureteroscopy) access difficult.
-   - **Extravesical Lich-Gregoir**: less haematuria/spasm; **bilateral → transient retention risk** (pelvic plexus), ↓with nerve-sparing.
-   - **RALUR (robotic-assisted laparoscopic ureteral reimplantation)**: less pain, shorter stay; ~85–95%.
-   - **Bilateral Cohen** ideal: one bladder opening corrects both.
+1. **CAP with BBD management**: reasonable with no febrile UTI, no scars and a normal bladder. Boys past infancy have a lower UTI risk.
+2. **Endoscopic injection (Deflux, dextranomer/hyaluronic acid)** by STING (subureteric) or HIT (hydrodistension-implantation). One injection succeeds in **about 63% of grade IV** (Elder 2006), more with repeats; day-case but less durable.
+3. **Ureteral reimplantation**: the gold standard, with **95–98%** success.
+   - **Cohen cross-trigonal** (intravesical): most popular and reliable; later ureteroscopic access is difficult.
+   - **Lich-Gregoir** (extravesical): no ureterotomy, so less haematuria and spasm. **Bilateral repair risks transient retention** from pelvic plexus injury; nerve-sparing reduces it.
+   - **RALUR (robotic-assisted laparoscopic ureteral reimplantation)**: less pain and shorter stay; success about 85–95%.
+   - Bilateral Cohen is ideal because one bladder opening corrects both sides.
 
-**Plan**
-- Shared decision; treat BBD before surgery.
-- **Breakthrough UTI, scars, DRF loss** → **bilateral reimplant**; Deflux alternative (~60–70% per session).
-- **Asymptomatic, no scars** → CAP + BBD therapy; intervene if UTI/new scar.
-- Postop: CAP ~3 months; RBUS 4–6 weeks; VCUG optional after open, usually after Deflux; long-term BP, proteinuria.
+**Recommended plan**
+- If he has breakthrough febrile UTI, scars or loss of renal function: **bilateral reimplantation**. Deflux is an acceptable lower-morbidity alternative (about 60–70% success per session).
+- If asymptomatic with no scars: CAP and BBD therapy; intervene if UTI or new scars occur.
+- After surgery: CAP for about 3 months, RBUS at 4–6 weeks, long-term BP checks.
 
 ```
-Bilateral grade IV VUR, 8 yr -> exclude PUV, treat BBD
- -> UTI / scars / DRF loss -> Cohen (~95-98%) | RALUR | Deflux (~63%)
- -> none -> CAP + BBD rx -> intervene if UTI / new scar
+Exclude PUV, treat BBD -> UTI / scars / renal loss? Yes -> reimplant (or Deflux)
+                                                   No  -> CAP + BBD therapy
 ```
 
 ### Recent advances
-- ceVUS avoids radiation; "top-down" (DMSA first) approach.
-- Selective CAP after RIVUR.
+- ceVUS (contrast-enhanced voiding urosonography) avoids radiation.
+- Selective rather than universal CAP after RIVUR.
+
+> **Key points to remember:**
+> - IRS grade IV keeps papillary impressions; grade V loses them.
+> - RIVUR 2014: CAP halves recurrent UTI but does not change scarring.
+> - Deflux succeeds in about 63% of grade IV; open reimplantation in 95–98%.
+> - Bilateral extravesical reimplantation risks transient retention.
 
 ---
 
@@ -192,124 +201,147 @@ Bilateral grade IV VUR, 8 yr -> exclude PUV, treat BBD
 **Type:** SAQ (10 marks)
 
 ### Definition and mechanism
-- **SNM (sacral neuromodulation)**: continuous low-amplitude stimulation of **S3 root** via tined lead + IPG (implantable pulse generator).
-- **Afferent modulation** (not motor) at spinal/supraspinal levels → works in **both overactivity and retention** (suppresses sphincter "guarding reflex").
+- **SNM (sacral neuromodulation)** is continuous low-amplitude stimulation of the **S3 root** through a tined lead and an IPG (implantable pulse generator).
+- It works by **afferent modulation**, not motor stimulation: somatic afferent input inhibits abnormal bladder reflexes at spinal and supraspinal levels, and in retention suppresses the sphincter "guarding reflex". Hence it helps **both overactivity and retention**.
 
-### Indications (FDA: Food and Drug Administration)
-| Indication | FDA |
+### Indications and FDA approvals
+| Indication | FDA (Food and Drug Administration) approval |
 |---|---|
 | Refractory UUI (urgency urinary incontinence) | 1997 |
 | Urgency-frequency | 1999 |
-| **Non-obstructive retention** (incl. **Fowler's syndrome**) | 1999 |
+| **Non-obstructive retention**, including **Fowler's syndrome** | 1999 |
 | Faecal incontinence | 2011 |
-- **Fowler's**: young women, retention, abnormal sphincter EMG (electromyography); SNM best treatment.
+- Fowler's syndrome (young women with retention) responds best to SNM.
+
+### Devices
+- InterStim and Axonics; newer devices are full-body MRI (magnetic resonance imaging) conditional.
 
 ### Technique
-1. **Test phase**: PNE (percutaneous nerve evaluation) 3–7 days (false negatives) vs **staged tined lead** ~1–2 weeks (more reliable).
-2. Prone; needle into **S3 foramen** (≈9 cm above coccyx tip, ~2 cm lateral).
-3. **S3 response: bellows + big-toe plantar flexion**. S2: anal clamp, whole-foot. S4: bellows only.
-4. **≥50% improvement** in diary → stage 2 IPG in upper buttock.
+- **Test phase**: either PNE (percutaneous nerve evaluation) for 3–7 days, or a **staged tined lead** for 1–2 weeks, which is more reliable.
+- The needle enters the **S3 foramen** about 9 cm above the coccyx tip and 2 cm lateral.
+- **S3 response**: bellows (pelvic floor contraction) plus big-toe plantar flexion.
+- If symptoms improve by **50% or more**, the IPG is implanted in the upper buttock.
 
 ### Outcomes
-- **InSite (Siegel 2015)**: SNM > standard medical therapy at 6 months; durable at 5 years.
-- **ROSETTA (JAMA 2016)**: Botox 200 U vs SNM, refractory UUI → Botox slightly greater ↓UUI at 6 months, but **more UTIs (urinary tract infections) and CISC (clean intermittent self-catheterisation)**; SNM had revisions.
+- **InSite (2015)**: SNM beat standard medical therapy at 6 months, with benefit lasting 5 years.
+- **ROSETTA (2016)**: Botox 200 U gave slightly fewer UUI episodes than SNM at 6 months, but more UTIs (urinary tract infections) and self-catheterisation.
 
 ### Complications
-- IPG-site pain, lead migration, loss of efficacy, infection (explant). Revision historically ~30%+.
+- IPG-site pain, lead migration, loss of effect, infection. Revision rates were historically about 30%.
 
 ### Contraindications
-- Failed test, cannot use programmer, sacral anomaly, repeated MRI (magnetic resonance imaging) with old devices; relative: pregnancy.
+- Failed test phase, inability to use the programmer, sacral anomalies.
 
 ### Recent advances
-- Rechargeable/recharge-free full-body MRI-conditional IPGs; tibial nerve stimulation (PTNS: percutaneous tibial nerve stimulation; implantable).
+- Smaller rechargeable generators; tibial nerve stimulation.
 
-**Diagram to draw:** sacrum with S3 lead + buttock IPG.
+**Diagram to draw:** sacrum with the lead in S3 and the IPG in the buttock.
+
+> **Key points to remember:**
+> - Afferent modulation; helps overactivity and retention.
+> - S3 response: bellows plus big-toe flexion.
+> - Implant if the test gives at least 50% improvement.
 
 ---
 
 ## III-3b. Uses of buccal mucosa in urology
 **Type:** SAQ (10 marks)
 
-### History
-- **BMG (buccal mucosal graft)**: workhorse free graft for urethroplasty.
-- **Humby 1941** (hypospadias); **Bürger 1992/El-Kasaby 1993** (stricture); Morey & McAninch 1996 (ventral onlay); Barbagli 1996 (dorsal onlay).
+### Introduction / history
+- **BMG (buccal mucosal graft)** is the workhorse free graft for urethral reconstruction.
+- **Humby 1941** first used it for hypospadias; **Bürger 1992** and **El-Kasaby 1993** popularised it for stricture.
 
 ### Advantages
-- Thick **non-keratinised** epithelium, infection-resistant.
-- **Thin, vascular lamina propria + panlaminar plexus** → excellent take.
-- Hairless, wet-adapted, easy harvest, hidden scar; usable in lichen sclerosus.
+- Thick, **non-keratinised** epithelium that resists infection.
+- **Thin, highly vascular lamina propria with a panlaminar plexus** allows rapid imbibition and inosculation, so graft take is excellent.
+- Hairless, used to a wet environment, easy to harvest, hidden scar, and usable in lichen sclerosus.
 
-### Harvest
-- Nasotracheal intubation; ~4–6 × 2–2.5 cm per cheek.
-- Stay **1 cm from commissure**; **avoid Stensen's duct opposite upper 2nd molar**.
-- Infiltrate saline ± adrenaline, excise mucosa without muscle, haemostasis; close or leave open (evidence mixed); **defat** on back table.
-- Alternative: **lingual graft** (Simonato 2006).
-- Donor morbidity (mostly transient): pain, numbness, trismus, duct injury, bleeding.
+### Harvest technique
+- Nasotracheal intubation is preferred. Graft about 4–6 cm × 2–2.5 cm per cheek.
+- Stay **1 cm from the lip commissure** and **avoid Stensen's duct**, which opens opposite the upper 2nd molar.
+- Excise mucosa without muscle, achieve haemostasis, and **defat** the graft.
+- The **lingual graft** from the tongue is the main alternative.
+
+### Donor-site complications
+- Pain, perioral numbness, difficulty opening the mouth, Stensen's duct injury; mostly transient.
 
 ### Uses
 | Area | Use |
 |---|---|
-| **Anterior urethroplasty** | Bulbar: dorsal onlay (Barbagli), ventral onlay (Morey), **dorsal inlay (Asopa 2001)**, **Kulkarni one-sided dorsal** (2009; preserves ventral blood supply, bulbospongiosus), augmented anastomotic (excise obliterative segment + graft rest). Penile: dorsal inlay/onlay |
-| **Staged** (Johanson, Bracka) | Lay open + graft → tubularise ~6 months; **lichen sclerosus**, failed hypospadias, panurethral |
-| Hypospadias | Redo/"cripples" |
-| Bladder neck/vesico-urethral stenosis | Robotic BMG onlay (emerging) |
-| **Ureter** | **Robotic BMG ureteroplasty (Zhao)** + omental wrap for long proximal/mid strictures; avoids ileal ureter |
-| Others | Vaginoplasty, female urethral stricture, Peyronie's (rarely), neourethra in exstrophy (selected) |
+| **Anterior urethroplasty** (main use) | Bulbar: dorsal onlay (Barbagli), ventral onlay, **dorsal inlay (Asopa)**, Kulkarni one-sided dorsal onlay, augmented anastomotic repair. Penile: dorsal inlay or onlay |
+| **Staged urethroplasty** (Johanson, Bracka) | Lay open and graft; tubularise after about 6 months. For **lichen sclerosus**, failed hypospadias and long strictures |
+| Hypospadias | Redo cases with no local skin |
+| **Ureter** | **Robotic BMG ureteroplasty** for long proximal or mid strictures |
+| Others | Bladder neck contracture, vaginoplasty, female urethral stricture |
 
 ### Outcomes
-- Anterior urethroplasty **~85–90%** (dorsal = ventral in bulbar); lower in penile, lichen sclerosus, redo.
-- Robotic ureteroplasty ~90% short-term.
+- Anterior BMG urethroplasty succeeds in about **85–90%**; dorsal and ventral onlay are similar.
+- Results are poorer in penile, lichen sclerosus and redo cases.
 
 ### Recent advances
-- Tissue-engineered oral mucosa (investigational); robotic BMG for ureter/bladder neck; single-cheek harvest without closure.
+- Tissue-engineered oral mucosa (investigational) and robotic BMG for the ureter and bladder neck.
 
-**Diagram to draw:** bulbar cross-section: dorsal onlay, ventral onlay, Asopa inlay.
+**Diagram to draw:** cross-section of the bulbar urethra showing dorsal onlay, ventral onlay and Asopa inlay.
+
+> **Key points to remember:**
+> - Thin vascular lamina propria gives excellent take; avoid Stensen's duct.
+> - Staged Johanson/Bracka repair for lichen sclerosus.
+> - Anterior urethroplasty success is about 85–90%.
 
 ---
 
 ## III-3c. HSG in neonates
 **Type:** SAQ (10 marks)
 
-*HSG (hysterosalpingography) is not done in neonates → taken as "USG (ultrasonography) in neonates".*
+*HSG (hysterosalpingography) is not done in neonates, so this is taken as "USG (ultrasonography) in neonates".*
 
-### Introduction and timing
-- First-line, radiation-free; mainly **ANH (antenatal hydronephrosis)**, ~1–2% of pregnancies.
-- Also: febrile UTI (urinary tract infection), mass, oligohydramnios, poor stream.
-- **Avoid first 48–72 h** (oliguria underestimates dilatation); **within 24–48 h** if suspected **PUV (posterior urethral valves)**, bilateral severe HDN (hydronephrosis), solitary kidney. Normal → **repeat 4–6 weeks**.
-- **APD (anteroposterior diameter)**: transverse view at hilum.
+### Introduction
+- First-line, radiation-free imaging, mainly for **ANH (antenatal hydronephrosis)** (about 1–2% of pregnancies).
+
+### Indications and timing
+- Also for febrile UTI (urinary tract infection) and abdominal mass.
+- **Avoid the first 48–72 hours**, because physiological oliguria underestimates dilatation.
+- Scan **within 24–48 hours** if PUV (posterior urethral valves), bilateral severe hydronephrosis or a solitary kidney is suspected.
+- If the first scan is normal, **repeat at 4–6 weeks**. Measure pelvic **APD (anteroposterior diameter)** on a transverse view.
 
 ### Normal neonatal kidney
-- ~4–5 cm; **prominent hypoechoic pyramids** (not hydronephrosis); **cortex iso/hyperechoic to liver**.
+- **Prominent hypoechoic pyramids** are normal, not hydronephrosis; the cortex is as bright as the liver or brighter.
 
-### Grading
-- **SFU (Society for Fetal Urology) 0–4**: 0 none; 1 pelvis; 2 + some calyces; 3 all calyces; 4 + parenchymal thinning.
+### Grading of dilatation
+- **SFU (Society for Fetal Urology) grades 0–4**: 0 none; 1 pelvis only; 2 pelvis and some calyces; 3 all calyces; 4 with parenchymal thinning.
 
-**UTD (urinary tract dilation) 2014 – postnatal (≥48 h)**
+**UTD (urinary tract dilation) classification 2014, postnatal**
 | Grade | Findings |
 |---|---|
-| **P1** (low) | APD **10–<15 mm** or central calyces |
-| **P2** (intermediate) | APD **≥15 mm**, peripheral calyces or **ureteral dilatation** |
-| **P3** (high) | P2 + **abnormal parenchyma** or **bladder** |
+| P1 (low risk) | APD **10 to <15 mm** or central calyceal dilatation |
+| P2 (intermediate) | APD **15 mm or more**, peripheral calyces or ureteric dilatation |
+| P3 (high risk) | P2 plus abnormal parenchyma or abnormal bladder |
 
-### Specific conditions
+### Findings in specific conditions
 | Condition | USG findings |
 |---|---|
-| PUJO (pelviureteric junction obstruction) | Pelvicalyceal dilatation, normal ureter/bladder |
-| VUR (vesicoureteral reflux) | Fluctuating dilatation; **normal USG does not exclude** |
-| **PUV** | Bilateral HUN (hydroureteronephrosis), **thick bladder**; **keyhole sign antenatal**; confirm by VCUG (voiding cystourethrogram) |
+| PUJO (pelviureteric junction obstruction) | Dilated pelvis and calyces, normal ureter |
+| VUR (vesicoureteral reflux) | Fluctuating dilatation; a **normal scan does not exclude VUR** |
+| **PUV** | Bilateral hydroureteronephrosis, **thick-walled bladder**, dilated posterior urethra. **"Keyhole sign"** is an antenatal USG sign; confirm postnatally with VCUG (voiding cystourethrogram) |
 | MCDK (multicystic dysplastic kidney) | **Non-communicating** cysts |
-| ARPKD (autosomal recessive polycystic kidney disease) | Bilateral **enlarged echogenic** kidneys |
-| Adrenal haemorrhage | **Avascular** suprarenal mass |
 
-### Follow-up
+### Follow-up algorithm
 ```
 Postnatal USG (day 3-7; 24-48 h if PUV/bilateral)
-Normal -> repeat 4-6 wk; P1 -> USG 1-6 mo
-P2 -> USG 1-3 mo +/- VCUG, isotope renogram, prophylaxis
-P3 -> USG 1 mo, VCUG, isotope scans, prophylaxis; urgent if PUV
+Normal -> repeat at 4-6 wk;  P1 -> USG at 1-6 mo
+P2 -> USG at 1-3 mo, +/- VCUG
+P3 -> USG at 1 mo, VCUG, antibiotic prophylaxis; urgent if PUV
 ```
 
-**Diagram to draw:** SFU 0–4 sketches; transverse APD.
+### Recent advances
+- Contrast-enhanced voiding urosonography instead of VCUG.
+
+**Diagram to draw:** SFU grades 0–4.
+
+> **Key points to remember:**
+> - Avoid the first 48–72 hours (oliguria), except for suspected PUV.
+> - UTD 2014: P1 APD 10 to <15 mm; P2 15 mm or more.
+> - A normal scan does not exclude VUR.
 
 ---
 
@@ -317,80 +349,98 @@ P3 -> USG 1 mo, VCUG, isotope scans, prophylaxis; urgent if PUV
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Third-line for ED (erectile dysfunction) refractory to medical/intracavernosal therapy; satisfaction **>85–90%**.
+- Third-line treatment for ED (erectile dysfunction) failing tablets or injections; satisfaction is the highest of all ED treatments (**over 85–90%**).
 
 ### Types
-| Type | Examples | Pros / cons |
-|---|---|---|
-| **Malleable** | Genesis, Spectra, Tactra | Cheap, no mechanical failure / constant rigidity |
-| **2-piece** | **Ambicor** (pump-reservoir in scrotum) | No abdominal reservoir (prior pelvic surgery, transplant) / less flaccidity, girth |
-| **3-piece IPP (inflatable penile prosthesis)** | **AMS 700 CX/LGX/CXR (narrow, fibrosis); Titan/Titan Touch** | Most natural / cost, mechanical failure |
+| Type | Examples | Advantages | Disadvantages |
+|---|---|---|---|
+| **Malleable** | Genesis, Spectra, Tactra | Simple, cheap, no mechanical failure | Always rigid, hard to conceal |
+| **2-piece inflatable** | Ambicor | No abdominal reservoir | Less flaccidity |
+| **3-piece inflatable** | AMS 700 CX/LGX/CXR, Titan | Best rigidity and flaccidity | Cost, mechanical failure |
 
-- IPP: cylinders, scrotal pump (lock-out valve), reservoir in **Retzius** or **ectopic submuscular** (after pelvic surgery). Mechanical survival ~80–90% at 5 years, 60–70% at 10 years.
-- Coatings: **InhibiZone = rifampin + minocycline**; **Coloplast hydrophilic** dipped in antibiotic → infection ~halved.
+### Components of the 3-piece device
+- Paired cylinders, a scrotal pump, and a reservoir in the space of Retzius or in an ectopic submuscular position after pelvic surgery.
+- Mechanical survival is about 80–90% at 5 years.
+
+### Coatings
+- **InhibiZone** (AMS) is impregnated with **rifampin and minocycline**.
+- **Coloplast** hydrophilic coating absorbs antibiotic solution. Both roughly halve infection.
 
 ### Biofilm
-- **Definition**: structured microbial community in a self-produced **EPS (extracellular polymeric substance)** matrix adherent to the implant; persister cells.
-- **Stages**: conditioning film → reversible/irreversible adhesion → microcolonies → maturation (quorum sensing) → dispersal (planktonic seeding) → clinical infection.
-- **Organisms**: **CoNS (coagulase-negative staphylococci), S. epidermidis** commonest; S. aureus, Gram-negatives, anaerobes, Candida (diabetics); often polymicrobial.
-- **Antibiotic failure**: poor penetration, dormant cells; **MIC (minimum inhibitory concentration) 100–1000×** higher.
+- **Definition**: a structured community of microorganisms in a self-produced **EPS (extracellular polymeric substance) matrix**, stuck to the implant.
+- **Stages**: conditioning film, attachment, microcolonies, maturation, then dispersal causing clinical infection.
+- **Organisms**: **coagulase-negative staphylococci (S. epidermidis)** commonest; also S. aureus and Gram-negatives.
+- **Why antibiotics fail**: the matrix blocks penetration and the bacteria are dormant, so the MIC (minimum inhibitory concentration) may be **100–1000 times** higher.
 
-### Infection
-- **~1–3% virgin**; higher in revision, poorly controlled diabetes, SCI (spinal cord injury), immunosuppression.
-- **Prevention**: preop UTI (urinary tract infection) control, chlorhexidine-alcohol, intravenous antibiotics, **"no-touch" (Eid)**, coated device, irrigation, short surgery.
-- **Mulcahy salvage (1996)**: remove all components → **7-solution washout** → immediate replacement; **~80–90%**. Not with sepsis, necrosis, erosion, DKA (diabetic ketoacidosis).
-- Otherwise explant ± malleable placeholder.
+### Infection rates
+- About **1–3% for first implants**; higher in revision surgery, poorly controlled diabetes and immunosuppression.
+
+### Prevention
+- Chlorhexidine-alcohol preparation, intravenous antibiotics, **"no-touch" technique**, coated devices, short operating time.
+
+### Management of infection
+- **Mulcahy salvage**: remove all components, wash out with a sequence of antiseptic solutions, then insert a new device at once. Success about **80–90%**.
+- Not suitable with sepsis, necrosis or erosion; then explant.
 
 ### Recent advances
-- Tactra malleable (2019), Rigicon Infla10 IPP; ectopic reservoir standard after pelvic surgery.
+- Tactra malleable device; ectopic reservoir placement after pelvic surgery.
 
-**Diagram to draw:** 3-piece IPP in situ; biofilm life cycle.
+**Diagram to draw:** 3-piece device in situ and the biofilm life cycle.
+
+> **Key points to remember:**
+> - Types: malleable, 2-piece and 3-piece inflatable.
+> - Biofilm is a microbial community in an EPS matrix; S. epidermidis is commonest.
+> - Infection about 1–3%; Mulcahy salvage succeeds in 80–90%.
 
 ---
 
 ## III-3e. Uretero-vaginal fistula
 **Type:** SAQ (10 marks)
 
-### Definition and aetiology
-- **UVF (uretero-vaginal fistula)**: ureter–vagina communication → continuous leak per vaginum.
-- **Hysterectomy** (abdominal > laparoscopic/vaginal): commonest in developed countries; injury at uterine artery crossing, cardinal ligament, vaginal cuff.
-- **Obstetric** (caesarean, obstructed labour): common in developing countries incl. India.
-- Others: malignancy, **radiation**, colorectal surgery.
+### Definition
+- **UVF (uretero-vaginal fistula)**: abnormal ureter–vagina communication causing continuous vaginal leakage of urine.
 
-### Presentation
-- **Continuous leak + normal voiding**, **1–4 weeks** post-surgery; flank pain, fever, urinoma.
+### Aetiology
+- **Hysterectomy** is the commonest cause in developed countries (injury near the uterine artery or vaginal cuff).
+- **Obstetric causes** (caesarean, obstructed labour) are common in developing countries; also cancer and radiation.
+
+### Clinical features
+- **Continuous leakage with normal voiding**, because the bladder still fills from the other kidney.
+- Usually appears **1–4 weeks after surgery**, because thermal or ischaemic injury takes time to necrose.
 
 ### Investigations
-- **Three-swab test** (bladder methylene blue): blue = VVF (vesicovaginal fistula); **wet, clear = UVF**; oral phenazopyridine confirms ureteric source.
-- **CTU (computed tomography urography)**: extravasation, hydroureteronephrosis, urinoma.
-- **Cystoscopy + RGP (retrograde pyelogram)**: site, wire passage, stent same sitting.
-- **Exclude coexisting VVF (~10–15%)**, bilateral injury. Creatinine, culture.
+- **Three-swab test** with methylene blue in the bladder: a blue swab means VVF (vesicovaginal fistula); a **wet but clear swab means UVF**.
+- **CT (computed tomography) urography** shows contrast leak and hydronephrosis.
+- **Cystoscopy and retrograde pyelogram** show the site; a stent is tried at the same sitting.
+- **Exclude a coexisting VVF (about 10–15%)** and bilateral injury.
 
 ### Management
-**Principles**: drain kidney, preserve function, treat sepsis, exclude malignancy.
+**1. Endourological (first line if continuity is preserved)**
+- **Retrograde double-J stent** if a guidewire crosses the defect. Otherwise PCN (percutaneous nephrostomy) and antegrade stent.
+- Keep the stent for 6–8 weeks; many fistulae heal.
 
-**1. Endourological (first line if continuity preserved)**
-- **Retrograde double-J** if wire crosses; else **PCN (percutaneous nephrostomy) + antegrade** or **rendezvous**.
-- Stent ~6–8 weeks → RGP/CT; many heal; stricture → dilatation.
-
-**2. Surgical** (stent failure, transection, ligation, stricture)
-- Distal (juxtavesical) → **ureteroneocystostomy**: **psoas hitch** (~5 cm), **Boari flap** (~10–15 cm).
-- Long defects: TUU (transureteroureterostomy), ileal ureter, autotransplant.
-- **Early repair** (first weeks, stable, no sepsis) now preferred over 3–6 month wait; delay if infection, radiation, poor condition.
-- Open, laparoscopic or robotic.
+**2. Surgical repair** (failed stent, complete transection, ligation)
+- Injuries are usually near the bladder, so do **ureteroneocystostomy**: **psoas hitch** bridges about 5 cm, **Boari flap** about 10–15 cm.
+- **Early repair** (first few weeks) is preferred if stable without sepsis: outcomes match the traditional 3–6 month wait with less suffering.
 
 ```
-Leak + normal voiding -> 3-swab: clear wet = UVF
- -> CTU + cysto/RGP (exclude VVF, bilateral)
- -> wire passes? Yes -> double-J 6-8 wk
-                 No  -> PCN +/- antegrade/rendezvous
- -> fails -> reimplant + psoas hitch/Boari, early if fit
+Clear wet swab = UVF -> CT urography + cystoscopy (exclude VVF)
+ -> wire passes? Yes -> double-J 6-8 wk; No -> PCN + antegrade stent
+ -> fails -> reimplant + psoas hitch/Boari
 ```
 
-### Prevention / advances
-- Identify ureter at hysterectomy; selective prophylactic stents; ICG (indocyanine green) fluorescence; robotic reimplant.
+### Prevention
+- Identify the ureter during hysterectomy; use prophylactic stents in complex cases.
+
+### Recent advances
+- Robotic reimplantation; fluorescence to identify the ureter.
 
 **Diagram to draw:** three-swab test; psoas hitch.
+
+> **Key points to remember:**
+> - Continuous leak with normal voiding; a wet clear swab means UVF.
+> - Exclude a coexisting VVF (about 10–15%).
+> - Stent if the wire passes; otherwise early reimplant.
 
 ---
 
@@ -398,41 +448,55 @@ Leak + normal voiding -> 3-swab: clear wet = UVF
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **Eagle–Barrett/triad syndrome**: (1) deficient abdominal musculature; (2) urinary tract dilatation; (3) bilateral intra-abdominal undescended testes.
-- ~1 in 30,000–50,000 live births; **~95% male**.
+- **Eagle–Barrett** (triad) syndrome:
+  1. Deficient abdominal wall muscles (wrinkled "prune" abdomen).
+  2. Dilated urinary tract (ureters, bladder, prostatic urethra).
+  3. Bilateral intra-abdominal undescended testes.
+- Incidence about 1 in 30,000–50,000 live births; **about 95% are male**.
 
 ### Pathogenesis
-- **Mesodermal arrest** (~6–10 weeks) vs **urethral obstruction theory** (fetal outlet obstruction → bladder distension).
-- Mostly sporadic; **CHRM3** in familial cases.
+- **Mesodermal arrest** (6–10 weeks) affects abdominal wall, urinary tract muscle and gubernaculum.
+- **Urethral obstruction theory**: transient fetal obstruction distends the bladder, stretching the abdominal wall and blocking testicular descent.
+- Mostly sporadic; **CHRM3** mutations occur in familial cases.
 
-### Features
-- **Kidneys**: dysplasia (determines prognosis). **Ureters**: dilated, tortuous; VUR (vesicoureteral reflux) ~75%.
-- **Bladder**: large, smooth, poor contractility, large PVR (post-void residual), urachal pseudodiverticulum.
-- **Prostatic hypoplasia**: dilated triangular prostatic urethra; ± megalourethra.
-- **Testes**: intra-abdominal; infertility, malignancy risk.
-- Extra-GU (genitourinary): pulmonary hypoplasia; cardiac ~10%; orthopaedic ~45%.
+### Genitourinary features
+- Kidneys: variable dysplasia, which decides the prognosis.
+- Ureters: massively dilated and tortuous, with VUR (vesicoureteral reflux) in about 75%.
+- Bladder: large, smooth-walled, poorly contracting.
+- Prostatic hypoplasia with a dilated prostatic urethra. Testes are intra-abdominal, with infertility.
+
+### Extra-genitourinary features
+- Pulmonary hypoplasia; cardiac defects in about 10%; orthopaedic problems in about 45%.
 
 ### Woodard classification
 | Category | Features | Outlook |
 |---|---|---|
-| **I** | Oligohydramnios, **pulmonary hypoplasia**, renal dysplasia | Fatal |
-| **II** | Full triad, moderate–severe uropathy, **no pulmonary hypoplasia** | Urosepsis/CKD (chronic kidney disease) risk |
-| **III** | Mild/incomplete, **stable renal function** | Good |
+| I | Oligohydramnios, **pulmonary hypoplasia**, renal dysplasia | Stillbirth or neonatal death |
+| II | Full triad and significant uropathy, **no pulmonary hypoplasia** | Risk of urosepsis and CKD (chronic kidney disease) |
+| III | Mild or incomplete features, **stable renal function** | Good |
 
 ### Management
-- **Neonatal**: respiratory support; creatinine (nadir prognostic); USG (ultrasonography), **VCUG (voiding cystourethrogram) with caution**, DMSA (dimercaptosuccinic acid)/MAG3 (mercaptoacetyltriglycine) scans; CAP (continuous antibiotic prophylaxis); avoid instrumentation.
-- **Conservative** for most: CAP, timed/double voiding, CIC (clean intermittent catheterisation).
-- **Drainage** (infection, rising creatinine, obstruction): **cutaneous vesicostomy** preferred; pyelostomy/ureterostomy for upper tract.
-- **Reconstruction** (selected): reduction cystoplasty, ureteral tailoring + reimplant, Mitrofanoff.
-- **Orchiopexy**: **transabdominal**, **by 6–12 months**; Fowler–Stephens for short vessels; combine with abdominoplasty.
-- **Abdominoplasty**: Randolph, Ehrlich, **Monfort** (most popular).
-- **Prognosis**: ~one-third CKD; transplant results similar to other causes.
+- **Neonatal**: breathing support, creatinine (nadir predicts outcome), ultrasound, cautious VCUG (voiding cystourethrogram).
+- **Most are managed conservatively** with prophylaxis, timed voiding and intermittent catheterisation if needed.
+- **Drainage** for infection, rising creatinine or obstruction: **cutaneous vesicostomy** is preferred.
+- **Orchiopexy**: transabdominal, **ideally by 6–12 months**; Fowler–Stephens if vessels are short.
+- **Abdominoplasty**: Randolph, Ehrlich, or **Monfort** (most popular), often with orchiopexy.
 
-### Variants
-- Females ~5% (no testicular component); "pseudo-prune belly" = incomplete triad, milder.
-- Recent: fetal vesicoamniotic shunting (benefit unproven).
+### Prognosis
+- About one-third develop CKD; kidney transplant results are similar to other causes.
 
-**Diagram to draw:** VCUG – large bladder, urachal diverticulum, triangular prostatic urethra.
+### Females and incomplete forms
+- Females (about 5%) have no testicular component. "Pseudo-prune belly" is an incomplete, milder form.
+
+### Recent advances
+- Fetal shunting (benefit unproven); genetic testing.
+
+**Diagram to draw:** VCUG with large bladder and dilated prostatic urethra.
+
+> **Key points to remember:**
+> - Triad: deficient abdominal wall, dilated urinary tract, intra-abdominal testes; about 95% male.
+> - Most are managed conservatively; vesicostomy if drainage is needed.
+> - Orchiopexy by 6–12 months, often with Monfort abdominoplasty.
 
 
 ---
@@ -444,56 +508,50 @@ Leak + normal voiding -> 3-swab: clear wet = UVF
 
 #### III-1. Discuss various ureteric stents. Discuss ureteroscopy with or without stenting. (LAQ)
 
-- Finney 1978 double-J; Memokath 051 = nitinol; Resonance = metallic.
-- FECal I–V; remove bladder coil → ureter → kidney.
-- AUA 2016/EAU 2024: stent may be omitted after uncomplicated URS.
-- Ho:YAG 2120 nm vs TFL ~1940 nm.
+- Finney 1978: double-J stent.
+- Alpha-blocker plus antimuscarinic best relieves stent symptoms.
+- Encrusted stent: clear bladder coil, then ureter, then kidney.
+- No routine stent after uncomplicated URS (AUA 2016, EAU 2024).
 
 #### III-2. Describe medical management of VUR. Describe treatment of an 8-yr male child with b/l grade IV VUR. (LAQ)
 
-- IRS grade IV keeps papillary impressions, grade V loses them.
-- RIVUR 2014: CAP halves recurrent UTI, no change in scarring.
-- Deflux grade IV ~63% per injection; open reimplant ~95–98%.
-- Bilateral extravesical → retention risk.
+- IRS grade IV keeps papillary impressions; grade V loses them.
+- RIVUR 2014: CAP halves recurrent UTI but does not change scarring.
+- Deflux succeeds in about 63% of grade IV; open reimplantation in 95–98%.
+- Bilateral extravesical reimplantation risks transient retention.
 
 #### III-3a. Sacral neuromodulation (SAQ)
 
-- FDA: 1997 UUI; 1999 retention; 2011 faecal.
-- Afferent modulation; S3 = bellows + big-toe plantar flexion.
-- Test success ≥50%; staged tined lead beats PNE. Fowler's responds best.
-- ROSETTA 2016: Botox slightly better, more UTIs/CISC.
+- Afferent modulation; helps overactivity and retention.
+- S3 response: bellows plus big-toe flexion.
+- Implant if the test gives at least 50% improvement.
 
 #### III-3b. Uses of buccal mucosa in urology (SAQ)
 
-- Humby 1941; Bürger 1992/El-Kasaby 1993.
-- Thin lamina propria + panlaminar plexus = excellent take; avoid Stensen's duct; lingual alternative.
-- Barbagli dorsal onlay, Asopa inlay, Kulkarni one-sided; staged Johanson/Bracka for lichen sclerosus.
-- Urethroplasty success ~85–90%.
+- Thin vascular lamina propria gives excellent take; avoid Stensen's duct.
+- Staged Johanson/Bracka repair for lichen sclerosus.
+- Anterior urethroplasty success is about 85–90%.
 
 #### III-3c. HSG in neonates (SAQ)
 
-- Avoid first 48–72 h except suspected PUV/bilateral; repeat 4–6 weeks.
-- Prominent hypoechoic pyramids + echogenic cortex are normal.
-- UTD 2014: P1 10–<15 mm; P2 ≥15 mm; P3 + parenchyma/bladder.
-- Keyhole sign = antenatal sign of PUV.
+- Avoid the first 48–72 hours (oliguria), except for suspected PUV.
+- UTD 2014: P1 APD 10 to <15 mm; P2 15 mm or more.
+- A normal scan does not exclude VUR.
 
 #### III-3d. Types of penile prosthesis. What are biofilms in penile prosthesis? (SAQ)
 
-- Malleable (Genesis, Tactra), 2-piece (Ambicor), 3-piece (AMS 700, Titan).
-- InhibiZone = rifampin + minocycline; Coloplast = hydrophilic dip.
-- Biofilm = EPS-matrix community; S. epidermidis commonest; MIC up to 1000×.
-- Infection ~1–3% virgin; Mulcahy salvage ~80–90%.
+- Types: malleable, 2-piece and 3-piece inflatable.
+- Biofilm is a microbial community in an EPS matrix; S. epidermidis is commonest.
+- Infection about 1–3%; Mulcahy salvage succeeds in 80–90%.
 
 #### III-3e. Uretero-vaginal fistula (SAQ)
 
-- Hysterectomy commonest; obstetric in developing countries.
-- Continuous leak + normal voiding; clear wet swab = UVF.
-- Exclude coexisting VVF (~10–15%).
-- Stent if wire passes; else psoas hitch/Boari reimplant, early if fit.
+- Continuous leak with normal voiding; a wet clear swab means UVF.
+- Exclude a coexisting VVF (about 10–15%).
+- Stent if the wire passes; otherwise early reimplant.
 
 #### III-3f. Prune belly syndrome (SAQ)
 
-- Triad: deficient abdominal wall, urinary dilatation, intra-abdominal testes; ~95% male.
-- Woodard I fatal (pulmonary hypoplasia); II uropathy; III mild.
-- Mostly conservative; vesicostomy if drainage needed.
-- Orchiopexy by 6–12 months + Monfort abdominoplasty.
+- Triad: deficient abdominal wall, dilated urinary tract, intra-abdominal testes; about 95% male.
+- Most are managed conservatively; vesicostomy if drainage is needed.
+- Orchiopexy by 6–12 months, often with Monfort abdominoplasty.
