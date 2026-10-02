@@ -96,10 +96,10 @@ After URS -> uncomplicated?
 - **Single-use digital flexible ureteroscopes**.
 
 > **Key points to remember:**
-> - Finney 1978 double-J; Memokath 051 = nitinol, Resonance = metallic up to 12 months.
-> - Alpha-blocker + antimuscarinic for symptoms; FECal I–V; remove bladder coil → ureter → kidney.
+> - Finney 1978 double-J; Memokath 051 = nitinol; Resonance = metallic.
+> - FECal I–V; remove bladder coil → ureter → kidney.
 > - AUA 2016/EAU 2024: stent may be omitted after uncomplicated URS.
-> - Ho:YAG 2120 nm vs TFL ~1940 nm; FANS and single-use scopes are newest.
+> - Ho:YAG 2120 nm vs TFL ~1940 nm.
 
 ---
 
@@ -194,9 +194,9 @@ Bilateral grade IV VUR, 8 yr -> exclude PUV, treat BBD
 
 > **Key points to remember:**
 > - IRS grade IV keeps papillary impressions, grade V loses them.
-> - RIVUR 2014: CAP halves recurrent UTI, no change in scarring; TMP 2 mg/kg.
+> - RIVUR 2014: CAP halves recurrent UTI, no change in scarring.
 > - Deflux grade IV ~63% per injection; open reimplant ~95–98%.
-> - Bilateral extravesical → retention risk; Cohen is the workhorse.
+> - Bilateral extravesical → retention risk.
 
 ---
 
@@ -225,7 +225,6 @@ Bilateral grade IV VUR, 8 yr -> exclude PUV, treat BBD
 ### Outcomes
 - **InSite (Siegel 2015)**: SNM > standard medical therapy at 6 months; durable at 5 years.
 - **ROSETTA (JAMA 2016)**: Botox 200 U vs SNM, refractory UUI → Botox slightly greater ↓UUI at 6 months, but **more UTIs (urinary tract infections) and CISC (clean intermittent self-catheterisation)**; SNM had revisions.
-- Retention: ~70% of responders void.
 
 ### Complications
 - IPG-site pain, lead migration, loss of efficacy, infection (explant). Revision historically ~30%+.
@@ -239,10 +238,10 @@ Bilateral grade IV VUR, 8 yr -> exclude PUV, treat BBD
 **Diagram to draw:** sacrum with S3 lead + buttock IPG.
 
 > **Key points to remember:**
-> - FDA: 1997 UUI; 1999 urgency-frequency and retention; 2011 faecal incontinence.
+> - FDA: 1997 UUI; 1999 retention; 2011 faecal.
 > - Afferent modulation; S3 = bellows + big-toe plantar flexion.
 > - Test success ≥50%; staged tined lead beats PNE. Fowler's responds best.
-> - ROSETTA 2016: Botox 200 U slightly better for UUI, more UTIs/CISC.
+> - ROSETTA 2016: Botox slightly better, more UTIs/CISC.
 
 ---
 
@@ -288,7 +287,7 @@ Bilateral grade IV VUR, 8 yr -> exclude PUV, treat BBD
 > - Humby 1941; Bürger 1992/El-Kasaby 1993.
 > - Thin lamina propria + panlaminar plexus = excellent take; avoid Stensen's duct; lingual alternative.
 > - Barbagli dorsal onlay, Asopa inlay, Kulkarni one-sided; staged Johanson/Bracka for lichen sclerosus.
-> - Robotic BMG ureteroplasty (Zhao); urethroplasty success ~85–90%.
+> - Urethroplasty success ~85–90%.
 
 ---
 
@@ -298,9 +297,9 @@ Bilateral grade IV VUR, 8 yr -> exclude PUV, treat BBD
 *HSG (hysterosalpingography) is not done in neonates → taken as "USG (ultrasonography) in neonates".*
 
 ### Introduction and timing
-- First-line, radiation-free; mainly for **ANH (antenatal hydronephrosis)**, ~1–2% of pregnancies.
+- First-line, radiation-free; mainly **ANH (antenatal hydronephrosis)**, ~1–2% of pregnancies.
 - Also: febrile UTI (urinary tract infection), mass, oligohydramnios, poor stream.
-- **Avoid first 48–72 h** (oliguria underestimates dilatation); **within 24–48 h** if suspected **PUV (posterior urethral valves)**, bilateral severe HDN (hydronephrosis), solitary kidney. Normal/mild → **repeat 4–6 weeks**.
+- **Avoid first 48–72 h** (oliguria underestimates dilatation); **within 24–48 h** if suspected **PUV (posterior urethral valves)**, bilateral severe HDN (hydronephrosis), solitary kidney. Normal → **repeat 4–6 weeks**.
 - **APD (anteroposterior diameter)**: transverse view at hilum.
 
 ### Normal neonatal kidney
@@ -312,7 +311,6 @@ Bilateral grade IV VUR, 8 yr -> exclude PUV, treat BBD
 **UTD (urinary tract dilation) 2014 – postnatal (≥48 h)**
 | Grade | Findings |
 |---|---|
-| Normal | APD <10 mm |
 | **P1** (low) | APD **10–<15 mm** or central calyces |
 | **P2** (intermediate) | APD **≥15 mm**, peripheral calyces or **ureteral dilatation** |
 | **P3** (high) | P2 + **abnormal parenchyma** or **bladder** |
@@ -340,7 +338,7 @@ P3 -> USG 1 mo, VCUG, isotope scans, prophylaxis; urgent if PUV
 > **Key points to remember:**
 > - Avoid first 48–72 h except suspected PUV/bilateral; repeat 4–6 weeks.
 > - Prominent hypoechoic pyramids + echogenic cortex are normal.
-> - UTD 2014: P1 10–<15 mm; P2 ≥15 mm/peripheral calyces/ureter; P3 + parenchyma/bladder.
+> - UTD 2014: P1 10–<15 mm; P2 ≥15 mm; P3 + parenchyma/bladder.
 > - Keyhole sign = antenatal sign of PUV.
 
 ---
@@ -464,7 +462,7 @@ Leak + normal voiding -> 3-swab: clear wet = UVF
 | **III** | Mild/incomplete, **stable renal function** | Good |
 
 ### Management
-- **Neonatal**: respiratory support; creatinine (nadir prognostic); USG (ultrasonography), **VCUG (voiding cystourethrogram) with caution**, DMSA (dimercaptosuccinic acid)/MAG3 (mercaptoacetyltriglycine) scans; CAP (continuous antibiotic prophylaxis)
+- **Neonatal**: respiratory support; creatinine (nadir prognostic); USG (ultrasonography), **VCUG (voiding cystourethrogram) with caution**, DMSA (dimercaptosuccinic acid)/MAG3 (mercaptoacetyltriglycine) scans; CAP (continuous antibiotic prophylaxis); avoid instrumentation.
 - **Conservative** for most: CAP, timed/double voiding, CIC (clean intermittent catheterisation).
 - **Drainage** (infection, rising creatinine, obstruction): **cutaneous vesicostomy** preferred; pyelostomy/ureterostomy for upper tract.
 - **Reconstruction** (selected): reduction cystoplasty, ureteral tailoring + reimplant, Mitrofanoff.
@@ -482,4 +480,4 @@ Leak + normal voiding -> 3-swab: clear wet = UVF
 > - Triad: deficient abdominal wall, urinary dilatation, intra-abdominal testes; ~95% male.
 > - Woodard I fatal (pulmonary hypoplasia); II uropathy; III mild.
 > - Mostly conservative; vesicostomy if drainage needed.
-> - Transabdominal orchiopexy by 6–12 months + Monfort abdominoplasty; ~one-third CKD.
+> - Orchiopexy by 6–12 months + Monfort abdominoplasty.

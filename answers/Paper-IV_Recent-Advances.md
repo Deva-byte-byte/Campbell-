@@ -90,8 +90,7 @@
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- Organ shortage → wider use of **marginal (extended criteria) donors**: higher risk of DGF (delayed graft function), primary non-function, shorter graft survival.
-- Still better survival than staying on dialysis for many wait-listed patients.
+- Organ shortage → **marginal donors**: higher risk of DGF (delayed graft function), primary non-function, shorter graft survival; still better survival than dialysis.
 
 ### Part A: Marginal kidney donor
 
@@ -100,8 +99,7 @@
 - ~70% higher relative risk of graft loss vs SCD (standard criteria donor) (relative risk >1.7).
 
 **2. KDRI (Kidney Donor Risk Index) / KDPI (Kidney Donor Profile Index)**
-- KDRI (Rao 2009): 10 donor factors; KDPI = KDRI as percentile.
-- US allocation (December 2014): **KDPI >85%** replaced ECD; top 20% EPTS (estimated post-transplant survival) recipients get KDPI ≤20% kidneys ("longevity matching").
+- KDRI: 10 donor factors; KDPI = percentile. **KDPI >85%** replaced ECD (US, December 2014).
 
 **3. DCD (donation after circulatory death): Maastricht**
 | Category | Description | Type |
@@ -109,17 +107,16 @@
 | I | Dead on arrival | Uncontrolled |
 | II | Unsuccessful resuscitation | Uncontrolled |
 | III | Awaiting arrest after withdrawal of therapy | **Controlled (commonest)** |
-| IV | Arrest in brain-dead donor | Controlled/uncontrolled |
-| V | Euthanasia (some countries) | Controlled |
+| IV | Arrest in brain-dead donor | Either |
+| V | Euthanasia | Controlled |
 
 - DCD: **DGF ~40–50%** but **similar long-term graft survival**.
 
 **4. Other marginal donors**
-- **AKI (acute kidney injury)** donors: acceptable; don't discard on terminal creatinine alone.
+- **AKI (acute kidney injury)**: don't discard on terminal creatinine alone.
 - **HCV (hepatitis C virus)-viraemic → HCV-negative** + **DAAs (direct-acting antivirals)** (cure ~100%; THINKER, NEJM 2017).
 - **HIV (human immunodeficiency virus)-positive → HIV-positive** recipient (**HOPE Act 2013**).
-- Small paediatric **en bloc** kidneys (↑thrombosis, good function); treated low-grade malignancy.
-- **Living** (KDIGO (Kidney Disease: Improving Global Outcomes) 2017): older, controlled hypertension (1–2 drugs), BMI (body mass index) >30–35 caution; **risk-based approach on projected lifetime ESKD (end-stage kidney disease) risk**.
+- **Living** (KDIGO (Kidney Disease: Improving Global Outcomes) 2017): older, controlled hypertension (1–2 drugs); **risk-based, projected lifetime ESKD (end-stage kidney disease) risk**.
 
 **Assessment and optimisation**
 - **Remuzzi biopsy score** (glomeruli, tubules, interstitium, arteries; each 0–3, total 0–12):
@@ -130,16 +127,14 @@
 | 4–6 | **Dual kidney transplant** |
 | ≥7 | Discard |
 
-- Glomerulosclerosis >20% → poorer outcome; over-reliance on biopsy → unnecessary discards.
+- Glomerulosclerosis >20% → poorer outcome.
 - **HMP (hypothermic machine perfusion)**: **Moers, NEJM 2009** – **↓DGF (~21% vs 27%)**, ↑1-year graft survival; greatest benefit in ECD.
-- **NMP (normothermic machine perfusion)** at 37 °C: viability assessment/repair; trials.
-- **Cold ischaemia <12–18 h**; **DKT (dual kidney transplantation)** for nephron mass.
-- **"Old-for-old"**: **ESP (Eurotransplant Senior Program, 1999)**: donors **≥65 → recipients ≥65**, local allocation, short cold ischaemia over HLA (human leucocyte antigen) matching.
-- Suits older, diabetic recipients; **informed consent** for high-KDPI kidneys.
+- **NMP (normothermic machine perfusion)**, 37 °C: viability/repair (trials). **Cold ischaemia <12–18 h**.
+- **ESP (Eurotransplant Senior Program, 1999)**: donors **≥65 → recipients ≥65**, short cold ischaemia over HLA (human leucocyte antigen) matching.
+- Older, diabetic recipients; **informed consent**.
 
 **Outcomes**
-- **Wolfe, NEJM 1999**: transplant > waiting list survival. **Ojo, JASN 2001**: ECD transplant also beats dialysis.
-- DGF: delay CNI (calcineurin inhibitor) under antibody induction.
+- **Ojo, JASN 2001**: ECD transplant beats dialysis. DGF: delay CNI (calcineurin inhibitor) under antibody induction.
 
 ### Part B: Newer immunosuppressants
 - Standard: induction (basiliximab/rATG (rabbit antithymocyte globulin)) + **tacrolimus + mycophenolate + steroids**.
@@ -155,7 +150,7 @@
 **Maintenance**
 | Drug | Mechanism | Points |
 |---|---|---|
-| **Extended-release tacrolimus** (Advagraf, Envarsus XR) | Calcineurin inhibition → ↓IL-2 | Once daily → adherence; Envarsus fewer tremors |
+| **Extended-release tacrolimus** (Advagraf, Envarsus XR) | Calcineurin inhibition | Once daily → adherence |
 | **mTOR (mammalian target of rapamycin) inhibitors**: sirolimus, everolimus | FKBP12 → block mTOR (G1→S) | Non-nephrotoxic, fewer skin cancers, **fewer CMV/BK**. **TRANSFORM (Pascual, JASN 2018)**: everolimus + reduced CNI **non-inferior**. Side effects: **wound healing, lymphocele**, proteinuria, dyslipidaemia, pneumonitis |
 | **Belatacept** | **CTLA4-Ig (cytotoxic T-lymphocyte antigen 4–immunoglobulin)** binds CD80/86 → blocks **CD28 costimulation (signal 2)** | FDA (Food and Drug Administration) 2011; 10 mg/kg (days 1, 5, weeks 2, 4, 8, 12) then **5 mg/kg every 4 weeks**. **BENEFIT/BENEFIT-EXT**: **better GFR (glomerular filtration rate)** vs ciclosporin, **more early rejection**; 7-year data (NEJM 2016) ↑patient/graft survival. **Contraindicated in EBV (Epstein–Barr virus)-seronegative** (CNS (central nervous system) PTLD) |
 
@@ -170,14 +165,13 @@
 | Tocilizumab/clazakizumab, felzartamab | Anti-IL-6 / anti-CD38 | Chronic/late AMR; investigational |
 
 - **Voclosporin**: approved for lupus nephritis (2021), **not transplantation**.
-- **Tolerance**: kidney + haematopoietic stem cell (mixed chimerism); Treg (regulatory T-cell) therapy.
+- **Tolerance**: kidney + haematopoietic stem cell (mixed chimerism).
 
 ### Recent advances
-- Normothermic perfusion with ex vivo repair; HCV-positive kidneys + DAAs.
-- **Imlifidase** for highly sensitised.
+- HCV-positive kidneys + DAAs; imlifidase.
 - **Pig-kidney xenotransplantation** (MGH (Massachusetts General Hospital), March 2024).
 
-**Diagram to draw:** three-signal T-cell activation (TCR–MHC (T-cell receptor–major histocompatibility complex); CD28–CD80/86 – belatacept; IL-2R–mTOR – basiliximab, mTOR inhibitors) with CNI and MMF (mycophenolate mofetil) sites.
+**Diagram to draw:** three-signal T-cell activation (CD28–CD80/86 – belatacept; IL-2R–mTOR – basiliximab, mTOR inhibitors) with CNI site.
 
 ---
 
@@ -245,7 +239,7 @@ UCF → wait ≥6 mo → calibrate/cystoscopy
 |---|---|
 | Dose | **8 mg once daily (OD) with meal** |
 | Moderate renal impairment (CrCl (creatinine clearance) 30–50 mL/min) | **4 mg daily** |
-| Contraindicated | **CrCl <30**, **Child-Pugh C**, **strong CYP3A4 inhibitors** (ketoconazole, clarithromycin, ritonavir) |
+| Contraindicated | **CrCl <30**, **Child-Pugh C**, **strong CYP3A4 inhibitors** (ketoconazole) |
 | Caution | Other α-blockers, PDE5 (phosphodiesterase-5) inhibitors, cataract surgery |
 
 ### Efficacy
@@ -255,7 +249,7 @@ UCF → wait ≥6 mo → calibrate/cystoscopy
 
 ### Adverse effects
 - **Anejaculation/retrograde ejaculation ~28%** (commonest, reversible; ↓emission).
-- Dizziness, orthostatic hypotension (<3%), nasal congestion, diarrhoea.
+- Dizziness, orthostatic hypotension (<3%).
 - **IFIS (intraoperative floppy iris syndrome)**: warn before cataract surgery.
 
 ### Uses
@@ -272,10 +266,9 @@ UCF → wait ≥6 mo → calibrate/cystoscopy
 | Doxazosin/terazosin | Non-selective (titration) | 1–8 / 1–10 mg | Higher–highest | Low |
 
 ### Recent advances
-- Fixed-dose combinations with dutasteride or tadalafil.
-- Use in MET, stent symptoms, premature ejaculation.
+- Fixed-dose combinations (dutasteride, tadalafil); premature ejaculation.
 
-**Diagram to draw:** α1 subtype distribution (α1A prostate, α1B vessels, α1D bladder) with silodosin action.
+**Diagram to draw:** α1 subtypes (α1A prostate, α1B vessels, α1D bladder).
 
 ---
 
@@ -309,7 +302,6 @@ UCF → wait ≥6 mo → calibrate/cystoscopy
 4. Palliation (prostate cancer, post-radiation).
 
 ### Technique
-- Local/regional anaesthesia; measure length; endoscopic/fluoroscopic placement.
 - Memokath expands ~55 °C, softens on cooling for removal.
 - Stricture stent must **not cross external sphincter** (incontinence).
 
@@ -331,7 +323,7 @@ UCF → wait ≥6 mo → calibrate/cystoscopy
 
 ### Guidelines
 - **AUA (American Urological Association) 2016 (amended 2023)**: **no stent in men considering urethroplasty**.
-- **EAU (European Association of Urology)**: not routine; selected unfit patients. Urethroplasty remains standard.
+- **EAU (European Association of Urology)**: not routine; urethroplasty remains standard.
 
 ### Recent advances
 - **Optilume** paclitaxel-coated balloon (FDA (Food and Drug Administration) 2021), strictures ≤3 cm; **ROBUST III (J Urol 2022)**: ~75% vs 27% stricture-free at 6 months vs DVIU (direct vision internal urethrotomy)/dilation (balloon, not stent).
@@ -366,8 +358,8 @@ UCF → wait ≥6 mo → calibrate/cystoscopy
 - **Contraindications**: **renal impairment (eGFR (estimated glomerular filtration rate) <~35–50 mL/min or creatinine >2 mg/dL)**, hepatic dysfunction, positive urethral margin, IBD (inflammatory bowel disease)/radiation enteritis, unable to do **CISC (clean intermittent self-catheterisation)**, incompetent sphincter.
 
 ### Postoperative care
-- Mucus irrigation; bicarbonate for acidosis; cystogram → catheter out ~10–14 days.
-- Timed voiding 2 h → 3–4 h; **night alarm**; pelvic floor exercises.
+- Mucus irrigation; bicarbonate; catheter out ~10–14 days.
+- Timed voiding 2 h → 3–4 h; **night alarm**.
 
 ### Outcomes
 - Day continence **~90%**; night **~70–80%**.
@@ -386,13 +378,12 @@ UCF → wait ≥6 mo → calibrate/cystoscopy
 |---|---|
 | Studer | U-pouch + afferent limb, refluxing ureters |
 | Hautmann | ~60–70 cm, **W**-shaped, larger initial capacity |
-| Karolinska (robotic) | Studer-type, intracorporeal |
 
 ### Recent advances
 - Fully intracorporeal robotic Studer; ERAS (enhanced recovery after surgery).
 - Nerve/pelvic-organ-sparing cystectomy in women → ↓hypercontinence.
 
-**Diagram to draw:** 54–56 cm ileum (12–14 cm afferent limb + 40–44 cm detubularised, 25 cm from ICV) → spherical pouch.
+**Diagram to draw:** marked ileal segment → spherical pouch with afferent limb.
 
 ---
 
@@ -412,17 +403,17 @@ UCF → wait ≥6 mo → calibrate/cystoscopy
 | 1st | Liquid nitrogen, no imaging; high fistula/incontinence |
 | 2nd | TRUS (transrectal ultrasound), urethral warmer, thermocouples |
 | 3rd | Argon/helium, **17-gauge needles**, template |
-| 4th | Computer planning; **focal/hemi-gland** with MRI fusion |
+| 4th | Computer planning; **focal/hemi-gland** with MRI (magnetic resonance imaging) fusion |
 
 ### Mechanisms of cell death
-1. **Intracellular ice** (rapid freeze); extracellular osmotic injury.
+1. **Intracellular ice** (rapid freeze).
 2. **Vascular injury → ischaemic necrosis** (main at margins).
 3. Peripheral apoptosis.
 4. Immunological effect.
 - Target **−40 °C**; **rapid freeze, slow thaw**; **two freeze–thaw cycles**.
 
 ### Indications
-1. **Salvage after radiation failure** (most important): biopsy-proven local recurrence, no metastases (PSMA (prostate-specific membrane antigen) PET/CT (positron emission tomography/computed tomography) or MRI (magnetic resonance imaging)), PSA (prostate-specific antigen) preferably <10 ng/mL.
+1. **Salvage after radiation failure** (most important): biopsy-proven local recurrence, no metastases (PSMA (prostate-specific membrane antigen) PET/CT (positron emission tomography/computed tomography) or MRI), PSA (prostate-specific antigen) preferably <10 ng/mL.
 2. **Primary whole-gland**: low/intermediate risk, unfit for RP (radical prostatectomy)/RT (radiotherapy), gland <40–50 mL.
 3. **Focal/hemi-gland**: MRI-visible unilateral lesion, in registry/trial.
 
@@ -445,17 +436,15 @@ UCF → wait ≥6 mo → calibrate/cystoscopy
 |---|---|---|
 | Energy | Freezing | Focused ultrasound heat (>60 °C) |
 | Access | Transperineal | Transrectal |
-| Note | Anterior tumours treatable | AP (anteroposterior) height limit (~4 cm) |
 
 ### Guidelines
 - **EAU (European Association of Urology)**: primary/focal **only in trials/registries**; salvage option in experienced centres.
 - **AUA (American Urological Association)/ASTRO (American Society for Radiation Oncology) 2022**: whole-gland may be considered (low/intermediate risk).
-- **NCCN (National Comprehensive Cancer Network)**: listed among salvage options after RT.
 
 ### Recent advances
 - MRI–TRUS fusion focal/hemi-gland cryotherapy; PSMA PET for salvage selection.
 
-**Diagram to draw:** sagittal prostate – cryoneedles, urethral warmer, thermocouples, ice ball with −40 °C isotherm inside 0 °C edge.
+**Diagram to draw:** sagittal prostate – cryoneedles, warmer, ice ball (−40 °C isotherm inside 0 °C edge).
 
 
 ---
