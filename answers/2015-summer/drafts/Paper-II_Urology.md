@@ -28,7 +28,7 @@
 ### Evaluation
 - **IPSS (International Prostate Symptom Score)** 0–35: mild 0–7, moderate 8–19, severe 20–35.
 - DRE (digital rectal examination), urinalysis, **PSA (prostate-specific antigen)**, FVC (frequency-volume chart), Qmax (maximum flow rate) and PVR (post-void residual). PVR >300 mL is managed as chronic retention.
-- AUA (American Urological Association) advises measuring prostate volume before surgery, because it decides the modality.
+- AUA (American Urological Association): measure prostate volume before surgery; it decides the modality.
 
 ### Medical management
 **1. Watchful waiting**: mild or non-bothersome symptoms; lifestyle advice.
@@ -85,11 +85,11 @@ LUTS → IPSS, DRE, urinalysis, PSA, PVR
 - **Bipolar TURP** uses saline, eliminating TUR syndrome, with less bleeding.
 
 **Landmark trials**
-- **GOLIATH**: 180 W PVP non-inferior to TURP, with shorter catheter time and stay.
-- **WATER**: Aquablation non-inferior to TURP, with less retrograde ejaculation (10% vs 36%).
+- **GOLIATH**: 180 W PVP non-inferior to TURP, with shorter stay.
+- **WATER (Waterjet Ablation Therapy for Endoscopic Resection)**: Aquablation non-inferior to TURP, with less retrograde ejaculation (10% vs 36%).
 
 ### Complications of surgery
-- Early: bleeding, TUR syndrome, infection. Late: stricture, bladder neck contracture, retreatment.
+- Early: bleeding, TUR syndrome. Late: stricture, bladder neck contracture, retreatment.
 
 ### Follow-up
 - Reassess at 4–12 weeks on α-blockers and 3–6 months on 5-ARIs, then yearly.
@@ -97,7 +97,7 @@ LUTS → IPSS, DRE, urinalysis, PSA, PVR
 ### Recent advances
 - **Optilume BPH** (paclitaxel-coated balloon), approved 2023; PAE (prostate artery embolisation).
 
-**Diagram to draw:** Size-based algorithm: ≤30 mL TUIP → 30–80 mL TURP/PVP/MIST → >80 mL enucleation or simple prostatectomy.
+**Diagram to draw:** Size-based algorithm: ≤30 mL TUIP → 30–80 mL TURP/PVP/MIST (minimally invasive surgical therapy) → >80 mL enucleation or simple prostatectomy.
 
 > **Key points to remember:**
 > - IPSS 0–35: 0–7 mild, 8–19 moderate, 20–35 severe.
@@ -265,7 +265,7 @@ Penile block → aspiration ± saline irrigation
 
 - **Causes**: distal – Sjögren, lupus, inherited; proximal – Fanconi syndrome; type 4 – diabetic nephropathy, obstruction.
 - **Why distal RTA forms stones**: fixed alkaline urine, profound hypocitraturia (acidosis increases tubular citrate reabsorption) and hypercalciuria from bone buffering.
-- **Incomplete distal RTA**: normal serum bicarbonate, but urine cannot be acidified below 5.5 after an acid load
+- **Incomplete distal RTA**: normal serum bicarbonate, but urine cannot be acidified below 5.5 after an acid load.
 
 ### Diagnosis
 - **UAG (urine anion gap) = (Na + K) – Cl**, reflects urinary ammonium. Negative: GI (gastrointestinal) loss. Positive: renal cause (distal or type 4 RTA).
@@ -282,7 +282,7 @@ Penile block → aspiration ± saline irrigation
 **Diagram to draw:** Nephron showing defect sites: proximal tubule (type 2), α-intercalated cell (type 1), aldosterone action (type 4).
 
 > **Key points to remember:**
-> - Type 1: urine pH >6, hypokalaemia, hypocitraturia, CaP stones (up to 70%).
+> - Type 1: urine pH >6, hypokalaemia, hypocitraturia, calcium phosphate stones (up to 70%).
 > - Type 4: hyperkalaemia, low urine pH; seen in obstructive uropathy.
 > - Positive UAG = renal cause; NH4Cl load – pH fails to fall <5.5 in distal RTA.
 
@@ -296,7 +296,7 @@ Penile block → aspiration ± saline irrigation
 - **Freyer's** suprapubic operation removes the adenoma through an opened bladder.
 
 ### Indications
-- Bothersome LUTS (lower urinary tract symptoms) or complications of obstruction with a gland **>80–100 g**; or inability to adopt lithotomy.
+- Bothersome LUTS (lower urinary tract symptoms) or complications of obstruction with a gland **>80–100 g**; or when lithotomy is impossible.
 - Choose suprapubic for a large median lobe, diverticulum or stones. Exclude cancer first.
 
 ### Steps
@@ -331,7 +331,7 @@ Penile block → aspiration ± saline irrigation
 > - Millin 1945: retropubic, transverse capsulotomy ~2 cm below bladder neck, bladder not opened.
 > - Apical urethra divided under vision; 5 and 7 o'clock sutures.
 > - Freyer (suprapubic) preferred for median lobe, stones, diverticulum.
-> - Retrograde ejaculation 80–90%; transfusion <5%; BNC 2–6%.
+> - Retrograde ejaculation 80–90%; transfusion <5%; bladder neck contracture 2–6%.
 
 ---
 
