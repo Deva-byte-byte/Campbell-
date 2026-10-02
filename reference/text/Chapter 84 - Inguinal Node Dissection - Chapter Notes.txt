@@ -1,0 +1,572 @@
+Chapter 84 — Inguinal Node Dissection
+ • MacCormac (1886) described the first penectomy series; Basset (1912) first described ILND (inguinal
+   lymph node dissection) for cancer, as en bloc removal of the superficial and deep packets. Daseler (1948)
+   described radical ILND and the five-zone nodal anatomy.
+ • The inguinal nodes receive metastases from penile, vulval and rectal cancer and melanoma.
+ • Penile cancer is rare, so there is no level I evidence; practice rests on small series and retrospective data.
+
+CURRENT REAL-WORLD PRACTICE
+ • Adherence to ILND guidelines is poor in United States registries (Surveillance, Epidemiology, and End
+   Results [SEER]; National Cancer Database), the Swedish national register and multicentre European–
+   American series. Even patients at high risk by European Association of Urology (EAU) criteria are often not
+   dissected.
+ • An adequate ILND removes at least 8 nodes per side, yet few dissections reach this.
+ • Few clinicians treat many cases a year, and practice varies widely by region. In intermediate-risk disease
+   with impalpable nodes, a substantial minority chose surveillance. Invasive staging was split between
+   dynamic sentinel node biopsy (DSNB), modified ILND, superficial ILND and video-endoscopic inguinal
+   lymphadenectomy (VEIL). For node-positive disease, adjuvant chemotherapy was preferred to
+   neoadjuvant, except in cN3 disease.
+ • Staging is often omitted in pT1b–T3, clinically node-negative (cN0) disease. Omission is associated with
+   older age, comorbidity, lower stage, Medicaid insurance and non-academic care, and independently
+   predicts overall mortality.
+ • Guideline-concordant nodal management is associated with better overall survival, so fear of morbidity
+   should not lead to omission.
+
+Current Indications and Guidelines
+ • There is no American Urological Association (AUA) guideline. The EAU–American Society of Clinical
+   Oncology (EAU-ASCO, 2023) and National Comprehensive Cancer Network (NCCN, 2023) guidelines each
+   use three risk tiers, defined differently because level I data are lacking (Table 84.1).
+ • Risk grouping has high false-positive and false-negative rates. Occult nodal metastasis is uncommon in
+   low-risk disease and substantial in intermediate- and high-risk disease.
+ • Low risk with impalpable nodes: surveillance without routine staging imaging, because occult
+   metastasis is unlikely.
+ • Palpable nodes or high-risk disease: fluorine-18 fluorodeoxyglucose positron emission tomography–
+   computed tomography (18FDG-PET/CT), or computed tomography (CT) of the chest, abdomen and
+   pelvis, before treatment.
+ • Consensus: complete inguinal and pelvic management within 3 months of diagnosis, unless upfront
+   chemotherapy is given.
+ • Grading is poorly reproducible between pathologists, which limits prognostication. Cases should have
+   expert genitourinary pathology review, and patients should be counselled about under- or over-staging.
+TABLE 84.1 RISK STRATIFICATION AND TREATMENT APPROACHES BASED ON DIFFERENT GUIDELINES
+                     Low risk        Intermediate risk                                  High risk
+NCCN definition      pTis, pTa, pT1a pT1b, G1–2                                         pT2 or higher, or G3/G4
+                                     G2 pT1a                                            pT1b or higher
+
+
+
+                                                   page 1 of 12
+Chapter 84 — Inguinal Node Dissection                                                                Current Real-World Practice
+
+                         Low risk         Intermediate risk                                       High risk
+ EAU-ASCO                pTa, pTis, G1
+ definition              pT1a
+ NCCN, impalpable        Surveillance     Surgical staging: modified or radical bilateral ILND,   Same as intermediate
+ nodes                                    or DSNB
+ EAU-ASCO,               Surveillance     Surveillance versus surgical staging, case by case      DSNB, or ILND if DSNB
+ impalpable nodes                         (DSNB, or ILND if DSNB cannot be offered)               cannot be offered
+G = pathological grade.
+
+ • What the table tests: the guidelines agree on low risk but draw the intermediate boundary one step
+   apart. Under NCCN, pT1a is always low risk and pT1b is intermediate unless G3/G4. Under EAU-ASCO,
+   pT1a G2 is already intermediate, and every pT1b is high risk.
+ • Trap: a pT1b G2 tumour is intermediate risk under NCCN but high risk under EAU-ASCO.
+ • EAU-ASCO offers surveillance at intermediate risk only to patients willing to comply with strict follow-
+   up, weighing the risk of metastasis against the morbidity of staging.
+NCCN VERSUS EAU-ASCO: DECISIONS BEYOND TABLE 84.1
+ Decision                NCCN                                                       EAU-ASCO
+ Staging tool,           ILND; DSNB if the clinician is experienced                 DSNB first; ILND only if DSNB is
+ impalpable high-                                                                   unavailable and referral is not
+ risk nodes                                                                         feasible, or the informed patient
+                                                                                    prefers it
+ Palpable nodes          Percutaneous biopsy → excisional biopsy if negative → Not detailed separately in the chapter
+                         surveillance if both negative; either positive → bilateral
+                         ILND, with upfront chemotherapy if eligible
+ Bulky or fixed          Both: upfront cisplatin- and taxane-based chemotherapy in patients who can tolerate it
+ nodes
+
+Concept — The guidelines agree at the extremes and diverge in the middle. Both survey low risk and stage
+high risk. They differ in where the intermediate boundary falls and which staging tool comes first: NCCN
+leads with dissection, EAU-ASCO with sentinel biopsy.
+
+BENEFITS OF INGUINAL LYMPH NODE DISSECTION
+ • Penile cancer usually has a contained locoregional phase in which inguinal disease precedes systemic
+   spread. In many other cancers, nodal disease signals systemic disease; here it creates a window of cure.
+EARLY VERSUS DELAYED ILND (Kroon et al., 2005; non-randomised, T2–3, impalpable nodes)
+ Early (upfront) ILND                                         Delayed ILND (when nodes become palpable)
+ Extranodal extension (ENE) about 20%                         ENE about 95%
+ 3-year disease-specific survival about 84%                   3-year disease-specific survival about 35%
+
+ • ILND should therefore not be delayed beyond 3 months in high-risk surgical candidates with impalpable
+   nodes.
+ • The presence and extent of nodal involvement is the strongest prognostic factor: five-year cancer-
+   specific survival (CSS) falls steeply from N0 and N1 to N2 and N3. ENE, even in a single node, is classified
+   as pN3.
+
+
+
+
+                                                         page 2 of 12
+Chapter 84 — Inguinal Node Dissection                                            Benefits of Inguinal Lymph Node Dissection
+
+ • Nodal yield is the surrogate for oncological adequacy. Removing 8 or more nodes is associated with
+   better survival in grade 3 or pT2–4 disease. There is no universal cut-off, but surgeons should aim for at
+   least 8 nodes per side when safe, accepting that higher yield brings more complications.
+Concept — In penile cancer the groin is a curable station, not a marker of systemic disease. This is why timing
+(within 3 months) and completeness (at least 8 nodes per side) are oncological variables, not technical
+refinements.
+
+PATIENT SELECTION
+ • Human papillomavirus (HPV)-positive tumours have better disease-specific survival on meta-analysis,
+   but the nodal data conflict. Some series show less lymphatic tumour embolisation, lower clinical N stage
+   and lower nodal metastasis density with HPV positivity. Others show no difference in N classification,
+   disease-specific or overall survival, or upstaging from cN1 to pN2/N3 at ILND. HPV status is therefore not
+   reliable for choosing ILND or surveillance.
+ • About half of palpable nodes, and up to a quarter of impalpable groins, harbour metastasis, so surgery
+   carries a real risk of overtreatment.
+ • Nomograms predicting nodal metastasis exist, but, like HPV status, are not recommended for routine
+   use, especially where they produce guideline-discordant advice.
+ • The guidelines select by primary-tumour pathology: T stage, grade, lymphovascular invasion, perineural
+   invasion and sarcomatoid features.
+Concept — Patients are selected on primary-tumour pathology alone. HPV status and nomograms are
+prognostically interesting but are not decision tools: their nodal predictive value is inconsistent, and they can
+pull recommendations away from the guidelines.
+
+LYMPHATIC DRAINAGE
+SUPERFICIAL VERSUS DEEP PENILE LYMPHATIC SYSTEMS
+ Superficial system                                  Deep system
+ Drains penile shaft skin and prepuce                Drains glans and frenulum
+ Dorsal capillary network → divides at the penile    Trunks encircle the corona, merge dorsally, run within Buck's
+ base into right and left branches → ipsilateral     fascia → presymphyseal lymphatics → nodes of the femoral
+ inguinal nodes                                      triangle
+
+ • Lymphatics cross over in the presymphyseal region, so contralateral spread is possible; this is the basis
+   for bilateral dissection. With unilateral palpable nodes, the contralateral groin harbours micrometastasis
+   in about 30%.
+ • After late inguinal recurrence following a long latency, views differ on whether unilateral ILND suffices or
+   bilateral dissection is needed.
+ • Spread is stepwise: superficial inguinal → ipsilateral deep inguinal → external iliac nodes. The side of
+   drainage cannot be predicted from the site of the lesion on the penis.
+ • As a rule, drainage does not skip. The rare reports of positive iliac nodes with negative inguinal nodes are
+   probably due to undersampling at ILND or inadequate pathology review.
+Concept — Two rules generate the surgical logic. Drainage is unpredictable in side but orderly in sequence.
+The first rule demands bilateral staging. The second allows superficial status to gate deep dissection, and
+inguinal status to gate pelvic dissection.
+
+
+
+
+                                                    page 3 of 12
+Chapter 84 — Inguinal Node Dissection                                                                     Preoperative Workup
+
+PREOPERATIVE WORKUP
+Physical Examination
+ • Examine the groins at the first evaluation and classify as cN0 (impalpable) or cN+ (palpable). For
+   palpable nodes, record number, location, laterality, and whether mobile or fixed.
+ • If examination is indeterminate (obesity, previous groin surgery), obtain magnetic resonance imaging
+   (MRI), CT or PET/CT. Centres with melanoma experience also use groin ultrasonography (US).
+ • Infection of the primary can cause reactive nodes, but a trial of antibiotics with observation is not
+   recommended, because it delays diagnosis and treatment.
+
+Cross-Sectional and Nuclear Imaging
+ • CT of the chest, abdomen and pelvis detects distant metastasis in patients with suspicious nodes or a
+   high-risk primary.
+ • For the groin itself, imaging misses deposits below 1 cm, so it is reserved for when examination is
+   unreliable (obesity, previous surgery or radiotherapy). FDG-PET is therefore unlikely to change
+   management in the impalpable groin (see the modality table below).
+
+Ultrasonography, Fine-Needle Aspiration Cytology and Dynamic Sentinel Lymph Node Biopsy
+ • An involved node on US shows altered architecture and is hypoechoic and heterogeneous.
+ • Fine-needle aspiration cytology (FNAC), guided by US or CT, is specific but insensitive, whatever the
+   guidance. Positive → ILND; negative → DSNB or ILND, never discharge.
+ • US is performed before or at DSNB to find and sample enlarged nodes, for this reason:
+      ◦ A node replaced by tumour blocks lymphatic inflow, and drainage is rerouted to a neo-sentinel node.
+      ◦ The blocked node takes up no radiotracer or dye, so DSNB is falsely negative.
+      ◦ Adding US improves DSNB accuracy and lowers the false-negative rate.
+ • Single-photon emission computed tomography–CT (SPECT-CT) in palpable groins shows frequent
+   rerouting to neo-sentinel nodes, occasionally contralateral, and sometimes absent drainage.
+DSNB BY SITE OF THE PRIMARY
+ Prepuce or shaft skin
+ lesions               Glans lesions
+ DSNB is useful            Caution: the glans can drain directly to a deep inguinal node, so sampling only the superficial
+                           superomedial nodes can give a false negative
+
+ • Historical false negatives were partly due to pathological undersampling; serial sectioning of the whole
+   node at 150 micrometres reduces this.
+ • Sequence: US ± FNAC → if negative → DSNB with lymphoscintigraphy using technetium-99m (99mTc)
+   nanocolloid plus blue dye.
+ • DSNB has high sensitivity and very high specificity on systematic review, but results depend on the
+   surgeon; both guidelines require experienced hands.
+ • A negative DSNB does not exclude later nodal disease, so patients enter surveillance (schedules under
+   Follow-Up).
+STAGING MODALITIES FOR THE GROIN COMPARED
+ Modality                               Role                                Weakness
+ Physical examination                   First step: classifies cN0 or cN+   Unreliable in obesity or after surgery; about
+                                                                            half of enlarged nodes are reactive
+ CT, MRI, PET/CT                                                            Insensitive below 1 cm
+
+
+
+                                                             page 4 of 12
+Chapter 84 — Inguinal Node Dissection                                                                      Preoperative Workup
+
+ Modality                               Role                                 Weakness
+                                        Distant staging; groin assessment
+                                        only when examination fails
+ FDG-PET/CT                             Palpable nodes and distant staging   Sensitive in palpable nodes; poorly sensitive in
+                                                                             impalpable nodes
+ Lymphotropic nanoparticle-             Investigational; promising early     Unreliable for micrometastasis (2 mm or
+ enhanced MRI (LNMRI)                   sensitivity                          smaller)
+ US                                     Detects abnormal nodes; guides       A negative scan does not exclude metastasis
+                                        FNAC; precedes DSNB
+ FNAC                                   Confirms metastasis: positive →      Low sensitivity: negative → DSNB or ILND
+                                        ILND
+ DSNB (99mTc plus blue dye)             Minimally invasive staging of        Operator-dependent; false negatives from
+                                        impalpable nodes                     blocked nodes and glans-to-deep drainage
+
+Concept — Every groin staging test fails in the same direction: false negatives from small or tumour-replaced
+deposits. The workup is therefore a funnel in which a negative result never ends the pathway: negative FNAC
+leads to DSNB, and negative DSNB leads to surveillance.
+
+ KEY POINTS
+   • Lymph node metastasis is the strongest prognostic factor for survival in penile cancer.
+   • Real-world adherence to guideline recommendations on the inguinal nodes is low.
+   • Address the inguinal nodes within 3 months of diagnosis; delay worsens oncological outcomes.
+
+
+SURGICAL APPROACH
+Anatomy
+Camper's and Scarpa's Fascia and the Arterial Supply to the Skin
+ • Skin flaps are 5–7 mm thick, raised deep to Camper's fascia along the plane of Scarpa's fascia. Camper's
+   fascia carries a rich capillary network, so staying beneath it minimises flap necrosis.
+ • The subdermal supply runs lateral to medial along Langer's lines. An incision parallel to these lines
+   preserves skin viability; one that crosses them transects the vessels.
+FLAP THICKNESS: THE TWO FAILURE MODES
+ Flap too thin                                          Flap too thick
+ Breaches Camper's capillary network → flap             Leaves superficial nodes adherent to Scarpa's fascia → inadequate
+ necrosis                                               resection
+
+Superficial and Deep Nodal Packets
+ • The superficial packet lies above the fascia lata and holds 4–25 nodes, in five zones.
+DASELER'S FIVE ZONES OF THE SUPERFICIAL INGUINAL NODES (Daseler et al., 1948)
+ Zone                       Related vessel
+ Central                    Saphenofemoral junction
+ Superolateral              Superficial circumflex iliac vein
+ Inferolateral              Lateral femoral cutaneous and superficial circumflex veins
+ Superomedial               Superficial external pudendal and superficial epigastric veins
+
+
+
+
+                                                             page 5 of 12
+Chapter 84 — Inguinal Node Dissection                                                                        Surgical Approach
+
+ Zone                       Related vessel
+ Inferomedial               Great saphenous vein
+
+ • Sentinel nodes lie mainly in the superomedial zone, then the central zone. Spread to the two inferior
+   zones without sentinel involvement has not been reported.
+ • The deep group has 1–3 nodes, medial to the femoral vein in the femoral canal. The node of Cloquet,
+   the most cephalad, lies between the femoral vein and the lacunar ligament and is reachable from both
+   inguinal and pelvic approaches.
+ • Pelvic spread usually requires ipsilateral inguinal metastasis first; crossover from one groin to the
+   contralateral pelvis is extremely rare.
+Concept — The superomedial sentinel pattern and the no-skip sequence justify every reduced template.
+Tissue that is never the first station can be left behind safely when the first station is clear.
+Landmarks and Templates
+ • Standard radical ILND boundaries (the femoral triangle): inguinal ligament superiorly, adductor longus
+   medially, sartorius laterally, and the crossing of these muscles inferiorly.
+ • Positive deep nodes have been found only with positive superficial nodes, so some experts omit deep
+   ILND when the superficial nodes are negative.
+DISSECTION TEMPLATES COMPARED
+ Template             Extent                                                       Key features
+ Standard radical     Whole femoral triangle, superficial and deep                 Fascia lata opened; saphenous vein
+                                                                                   often ligated; sartorius transposed
+ Superficial          Nodes above the fascia lata only                             Fascia lata preserved
+ (fascia-
+ preserving)
+ Deep                 Fascia lata resected; nodes beneath it, medial to the        Added when the superficial nodes are
+                      femoral vessels                                              positive
+ Modified             Excludes the area lateral to the femoral artery and          Smaller incision, saphenous vein
+ (Catalona)           caudal to the fossa ovalis                                   preserved, thicker flaps, no sartorius
+                                                                                   transposition
+ Limited              Cranial border from anterior superior iliac spine to pubic   No recurrences in node-negative
+                      tubercle; perpendiculars of 20 cm laterally and 18 cm        patients on long follow-up, despite
+                      medially; caudal line joining their ends                     substantial wound morbidity
+
+ • Modified and limited templates cause less morbidity than standard radical ILND; the very high historical
+   morbidity fell at least partly through template modification. They appear oncologically acceptable in
+   selected patients with a negative frozen section.
+Concept — Every reduced template trades coverage of low-yield territory (lateral, inferior, deep) for
+preserved flap blood supply and lymphatics. The trade is safe only because of the sentinel map and the no-
+skip rule.
+Saphena Magna and Fossa Ovalis
+ • The great saphenous vein, the longest vein in the body, drains the foot and lower limb, passes behind
+   the medial condyle of the femur, and enters the femoral vein through the fossa ovalis, an oval opening in
+   the fascia lata just caudal to the medial inguinal ligament.
+ • The deep nodes lie medial to the saphenofemoral junction. Radical ILND opens the fascia lata, so the
+   vein is sometimes ligated at two sites: caudally at the apex of the femoral triangle, and cephalad at the
+   saphenofemoral junction.
+
+
+
+                                                         page 6 of 12
+Chapter 84 — Inguinal Node Dissection                                                               Surgical Approach
+
+Relationship to Nearby Structures
+ • The spermatic cord crosses medial and cephalad to the fossa ovalis, over the inguinal ligament. With
+   bulky nodes, identify and medialise the cord early.
+ • The femoral nerve, the largest branch of the lumbar plexus (dorsal divisions of the ventral rami of L2–
+   L4), runs deep to the iliacus fascia and under the inguinal ligament just lateral to the femoral artery. It is
+   motor to pectineus, quadriceps femoris and sartorius, and sensory to the anterior thigh.
+ • The anterior cutaneous branches to the groin skin are commonly sacrificed, but the motor nerve must
+   be preserved: never dissect lateral to the femoral artery.
+ • Fig. 84.1 shows the modified field lying inside the standard field, sparing the lateral and inferior territory,
+   with the superficial tributaries marking Daseler's zones. Fig. 84.3 shows the order at the fossa ovalis,
+   lateral to medial: nerve, artery, vein.
+Concept — The femoral artery is the lateral boundary of safety. The motor nerve lies beyond it, the sentinel
+nodes lie medial to it, and the modified template stops at it.
+
+SURGICAL RESECTION
+Open Approach
+Sterility
+ • The groin is colonised in skin folds and hair, and wound infection or infected lymphocele severely
+   impedes recovery. Shave carefully, prepare thoroughly, drape appropriately, and apply a sterile dressing
+   at the start.
+Incision and Dissection
+  • Position supine in frog-leg (thigh abducted and externally rotated, knee flexed and supported); in obesity,
+    tape the pannus to the chest. The anaesthetist may be asked to keep the patient incompletely paralysed.
+ • Sequence: mark the borders → oblique incision about 2 cm below and parallel to the inguinal ligament,
+   along Langer's lines, across the width of the dissection → flaps 3 cm cephalad to the ligament and
+   caudally to the apex → sweep fat and areolar tissue off the external oblique aponeurosis and cord down
+   to the ligament (superior boundary) → at the apex, identify and usually divide the great saphenous vein
+   (spare it if metastatic disease is minimal) → incise the fascia lata over sartorius laterally and adductor
+   longus medially → identify the femoral artery and vein at the apex and dissect cephalad along their
+   anterior surfaces, ligating cutaneous perforators → divide the saphenous vein again at the
+   saphenofemoral junction → clear the deep nodes up to the femoral canal → never expose the lateral
+   surface of the femoral artery (femoral nerve, deep femoral artery).
+ • Reconstruction: detach sartorius from the anterior superior iliac spine and transpose it, or roll it 180
+   degrees medially, over the femoral vessels (Baronofsky manoeuvre), suturing it to the inguinal ligament
+   and adjacent muscles → close the femoral canal by suturing the shelving edge of the inguinal ligament
+   to Cooper's ligament, without narrowing the external iliac vein or injuring the inferior epigastric vessels
+   → closed-suction drains subcutaneously → tack the flaps to the muscle to obliterate dead space →
+   absorbable subcutaneous sutures or staples.
+OBLIQUE INCISION VERSUS GIBSON INCISION
+
+
+
+
+                                                    page 7 of 12
+Chapter 84 — Inguinal Node Dissection                                                                          Surgical Resection
+
+ Oblique incision below the
+ ligament                          Large Gibson incision, dissecting inferiorly
+ Standard; best exposure of        Less skin devascularisation (superior border intact); easy access for iliac dissection;
+ the full template                 but limited view, especially with a full template or obesity
+
+ • Choose the incision that allows the best resection, because ILND can be curative and resection quality
+   affects outcome.
+ • Large skin defects: close with a scrotal rotation flap, abdominal wall advancement flap, or rectus
+   abdominis or tensor fasciae latae myocutaneous flap. Where natural tissue is not available, negative-
+   pressure wound therapy closes the defect in time; drainage may reach a litre a day or more, so oral
+   intake must keep pace.
+
+Use of Ultrasonic Devices versus Electrocautery for Lymph Leak
+ • Lymphatics should be controlled to reduce lymphocele, but no method is agreed: clips, ligatures, vessel-
+   sealing devices and monopolar electrocautery are all used.
+MONOPOLAR ELECTROCAUTERY VERSUS VESSEL-SEALING DEVICES
+ Monopolar electrocautery                                                         Vessel-sealing devices
+ Thrombus formation or heat coagulation of blood in the lumen → lumen Protein denaturation → theoretical
+ often stays patent; lymphatic closure unreliable                     advantage for lymphatic closure
+
+ • No ILND-specific evidence exists, but sealing devices are superior in axillary, mediastinal and transplant
+   iliac dissection. No sealing mechanism is proven better than another.
+
+Does Fibrin Sealant Reduce Leakage?
+ • Retrospective and non-urological data suggested less leak, but double-masked randomised trials and
+   meta-analyses show no benefit, so fibrin sealant is not used routinely against lymphorrhoea.
+Concept — The two major wound complications have two separate causes. Flap necrosis comes from skin
+blood supply; lymphocele comes from lymphatic closure. The open technique addresses the first through the
+flap plane and incision, and the second through energy choice and drains. Sealants have not added to this.
+
+CONCOMITANT INGUINAL LYMPH NODE DISSECTION WITH PENECTOMY AND/OR
+PELVIC LYMPH NODE DISSECTION
+ • With palpable nodes, DSNB, excisional biopsy or ILND can accompany treatment of the primary, and a
+   positive inguinal frozen section allows pelvic lymph node dissection at the same operation.
+ • Staging is acceptable, but ILND must not be delayed beyond 3 months. Concurrent versus staged surgery
+   is decided with the patient, weighing age, goals of care, comorbidity and surgeon judgement.
+
+Open versus Minimally Invasive Surgery (VEIL, Robotic VEIL)
+Perioperative outcomes
+ • Operating time varies widely; the minimally invasive approach takes about 2 hours, roughly 15 minutes
+   longer per side than open surgery. Intraoperative complications are rare in experienced hands.
+ • The data are retrospective and selection-biased, because video-endoscopic and robotic VEIL (RVEIL) are
+   usually reserved for non-bulky, non-fixed nodes.
+Oncologic Outcomes
+ • With little long-term recurrence data, nodal yield is the surrogate, and it is similar between approaches.
+   In a prospective phase I study, open re-exploration after robotic ILND found robotic dissection adequate in
+   almost all groins, with one conversion; positive nodes were removed robotically.
+
+
+
+                                                          page 8 of 12
+Chapter 84 — Inguinal Node Dissection   Concomitant Inguinal Lymph Node Dissection with Penectomy and/or Pelvic Lymph Node Dissection
+
+ • VEIL and RVEIL cannot yet be compared; the surgeon's experience should guide the choice so that
+   adequacy is not sacrificed. Large randomised trials with longer follow-up are needed.
+OPEN VERSUS MINIMALLY INVASIVE ILND
+ Domain                                                     Open ILND                          VEIL / RVEIL
+ Operating time                                             Shorter                            About 2 hours; slightly longer
+                                                                                               per side
+ Blood loss                                                 Low                                Low; similar
+ Hospital stay                                              Longer                             Shorter
+ Time to drain removal                                      Longer                             Shorter
+ Wound complications, dehiscence, infection, flap           Higher                             Lower
+ necrosis, major morbidity
+ Nodal yield; local and distant recurrence                  Reference                          Similar
+ Suitable nodes                                             All, including bulky, fixed or     Non-bulky, non-fixed
+                                                            skin-involving
+ Evidence                                                   Retrospective                      Retrospective, selection-biased;
+                                                                                               no level I data
+
+Surgical Technique
+POSITIONING BY PLATFORM
+ Platform           Positioning
+ VEIL               Split-leg bed, frog-leg or low lithotomy; surgeon between the legs, assistant at the side; two teams
+                    can operate on both groins at once
+ RVEIL, da Vinci Dorsal lithotomy, avoiding repositioning and redocking; assistant lateral to the right leg for the right
+ Si              side, between the legs for the left
+ RVEIL, da Vinci Supine frog-leg on a non-split bed; boom rotation reaches both sides without repositioning the
+ Xi              robot
+
+ • Access sequence: sterile Foley catheter on the field → mark an inverted triangle before insufflation
+   (which distorts landmarks): base from anterior superior iliac spine to pubic tubercle along the ligament,
+   sides along sartorius and adductor longus to the apex → 2-cm incision 3 cm below the apex, about 25 cm
+   below the inguinal ligament → identify Scarpa's fascia (white subcutaneous layer) and finger-dissect
+   beneath it → two 8-mm robotic ports, finger-guided, laterally and medially → extend the space by
+   sweeping with the endoscope, or with a 12-mm balloon trocar → insufflate at 25 mm Hg for 10 minutes,
+   then work at 15 mm Hg → 0-degree 10-mm lens, plus a 10-mm assistant port between camera and
+   working port → dock the robot at 45 degrees, contralateral to the first procedure (right side) and
+   ipsilateral to the patient in the second (left side).
+ • Instruments: bipolar Maryland or PK forceps in the left arm; monopolar scissors or ultrasonic instruments
+   in the right.
+ • Dissection sequence: develop the anterior space to the inguinal ligament (transverse white fibres, the
+   superior limit) → keep to sartorius laterally and adductor longus medially, confirmed by their fasciae
+   against the markings; the cord lies medially, and reddish muscle fibres mean the plane is deep to the
+   fascia lata → roll the nodal tissue inward from both sides and define the caudal apex → follow the great
+   saphenous vein from the apex to the saphenous arch and saphenofemoral junction → lift the packet off
+   the fascia lata cephalad (non-dominant hand lifts, monopolar scissors advance) → free the superolateral
+   and superomedial limits so that superficial and deep planes meet and the packet leaves the ligament →
+   clip venous tributaries, using femoral artery pulsation (or intraoperative US) as the landmark → release
+
+
+
+
+                                                            page 9 of 12
+Chapter 84 — Inguinal Node Dissection   Concomitant Inguinal Lymph Node Dissection with Penectomy and/or Pelvic Lymph Node Dissection
+
+   the packet from the saphenous vein, sparing it if possible, otherwise ligating at the arch with suture,
+   stapler or clips → retrieve in a bag through the extended camera incision.
+ • The frozen section decides the ipsilateral deep dissection; meanwhile, start the contralateral space. Deep
+   ILND: re-insufflate → open the fascia lata medial to the saphenous arch → dissect inferomedially around
+   the femoral vein to the femoral canal, until pectineus is seen.
+ • Close: drop pressure to 5 mm Hg to confirm haemostasis, since lymphocele and haematoma can become
+   infected → drain in the most dependent (caudal) part of the field, where fluid gathers when upright →
+   close ports.
+ • Saphenous sparing aims to reduce lymphoedema, though not every study confirms it. Robotic and
+   laparoscopic ILND have never been compared; theoretical robotic advantages are ergonomics, three-
+   dimensional vision and indocyanine green (ICG) fluorescence to identify lymphatics.
+ • Fig. 84.5 shows the landmarks for trocar placement (anterior superior iliac spine, inguinal ligament, pubic
+   tubercle, cord, medial border of sartorius, lateral border of adductor longus), with the camera port about
+   25 cm below the ligament and working ports about 8 cm to either side.
+Bulky or fixed nodes (cN3)
+ • cN3 nodes can invade the femoral vessels and cause catastrophic haemorrhage. The preferred
+   treatment is upfront systemic therapy, then surgery.
+ • Upfront resection, curative or palliative, is considered if the patient is ineligible for or intolerant of
+   chemotherapy, or vascular invasion is imminent.
+ • If the skin is involved, perform a wide open resection with a gracilis or vertical rectus abdominis
+   myocutaneous flap over the vessels, usually with plastic surgery. Without that support, negative-pressure
+   wound therapy closes the wound over about 12 weeks.
+Concept — The minimally invasive approach reproduces the open template through a remote port, keeping
+the same boundaries, the same apex-to-ligament sequence, and the same frozen-section gate for deep
+dissection. It gains wound outcomes and gives up bulky and skin-involving disease, which remains open
+surgery.
+
+POSTOPERATIVE CARE
+ • Care depends on approach, patient factors (obesity, smoking, poor healing) and surgeon preference.
+   Some allow same-day walking and next-day discharge, especially after minimally invasive surgery; others
+   start with bed rest when wound breakdown or poor healing is a concern.
+ • Drains stay for weeks, until output falls below 30 mL per day. The authors use a 19-Fr Blake drain on a
+   suction bulb, removed at below 30 mL per day after mobilisation, avoid bed rest unless the wound is at
+   risk, and prescribe thigh-high compression hose for at least 1 month.
+PROPHYLACTIC ANTIBIOTICS: NCCN VERSUS THE AUTHORS
+ NCCN                                                                                         Authors
+ Recommends prophylaxis; consider a suppressive oral cephalosporin (or other                  No routine prophylaxis, because
+ broad-spectrum antibiotic active against gram-positive organisms) for days to                supporting data are limited
+ weeks
+
+ • A Society of Urologic Oncology (SUO) survey found that most urologists give perioperative antibiotics
+   (many stopping at 24 hours), spare the saphenous vein, and give prophylactic anticoagulation (often
+   stopped once walking). About half obtain frozen sections, almost all use drains, a minority use incisional
+   negative-pressure devices, and lymphoedema is managed with compression and/or lymphoedema
+   referral.
+
+
+
+                                                            page 10 of 12
+Chapter 84 — Inguinal Node Dissection                                                                        Complications
+
+COMPLICATIONS
+ • ILND is highly morbid: phlebitis, wound infection, dehiscence, flap necrosis, lymphoedema, lymphocele,
+   neurapraxia and pulmonary embolism. Rates vary with patient factors, template and approach, and
+   because there is no standard reporting system.
+ • Wound-healing problems (infection, flap necrosis) are the commonest. Prevent them with rigorous
+   asepsis, appropriate antibiotics, and never dissecting above Camper's fascia. Incisional negative-
+   pressure therapy may be considered, without robust ILND data.
+ • Minimally invasive ILND has the more favourable profile (table above). In robotic series, lymphocele,
+   surgical-site infection, cellulitis and early or late limb oedema are similar to open, but major
+   complications, flap necrosis and severe limb oedema are fewer. After robotic ILND the commonest
+   complication is lymphocele, then lymphoedema and cellulitis.
+ • Surgeon experience probably drives both oncological outcome and morbidity; refer patients to high-
+   volume centres and surgeons.
+Concept — Almost every complication of ILND traces to one of two disruptions: of the skin's blood supply
+(necrosis, dehiscence, infection) or of lymphatic channels (lymphocele, lymphoedema). Each refinement in
+this chapter targets one of them: flap plane, templates, saphenous sparing, sealing devices, and minimally
+invasive access.
+
+FOLLOW-UP
+ • Median time to inguinal recurrence is about 1 year; in-field recurrence after complete ILND is
+   exceedingly rare. Most locoregional recurrences occur within 2–3 years, and after 5 years recurrences are
+   local or new primaries. This supports intensive early follow-up, reduced after 3 years.
+ • Beyond 5 years, follow-up is case by case: late recurrence is rare, so visits can stop in patients who
+   understand and perform self-examination. Those unlikely to self-examine may need long-term follow-up.
+SURVEILLANCE AND FOLLOW-UP SCHEDULES COMPARED
+ Setting                                Clinical examination                  Imaging
+ After DSNB, intensive schedule         Every 2 months for years 1–2, every   Not specified
+                                        3 months in year 3, every 6 months
+                                        to year 5
+ EAU-ASCO, negative DSNB or             Every 3 months for 2 years, then      None; no proven benefit
+ node-negative after local              every 6 months to year 5 (penis and
+ treatment                              groins)
+ EAU-ASCO, node-positive after          As above                              CT or MRI of chest, abdomen and pelvis
+ ILND                                                                         every 3 months for 2 years, then every 6
+                                                                              months to 5 years
+ NCCN, pN0–pN1 (examination             Every 6 months in years 1–2,          After ILND: CT abdomen and pelvis plus
+ interval also applies to pN0 after     annually in years 3–4                 chest radiograph at the same intervals
+ DSNB)
+ NCCN, pN2–pN3 after ILND               Every 3 months in year 1, every 6     CT abdomen and pelvis plus chest
+                                        months in years 2–4                   radiograph at the same intervals
+
+ • The examinable contrast: NCCN images every patient after ILND, including pN0; EAU-ASCO images only
+   node-positive patients.
+Concept — Follow-up intensity tracks the recurrence curve: dense in years 1–2, reduced after year 3, and
+handed to self-examination after year 5. The less complete the nodal staging, the denser the schedule,
+which is why the post-DSNB schedule is more intensive than the post-dissection one.
+
+
+
+                                                        page 11 of 12
+Chapter 84 — Inguinal Node Dissection                                                                 Follow-Up
+
+ KEY POINTS
+   • A contained locoregional phase gives a window of cure; when indicated, immediate ILND improves
+     oncological and survival outcomes compared with delayed surgery.
+   • Drainage goes to either or both sides and cannot be lateralised from the lesion; it proceeds
+     superficial inguinal → deep inguinal → external iliac and does not skip.
+   • Morbidity can be reduced in selected patients with DSNB and minimally invasive techniques.
+   • Counsel patients appropriately, and do not avoid this life-saving operation for fear of morbidity.
+
+
+
+
+                                                 page 12 of 12
+

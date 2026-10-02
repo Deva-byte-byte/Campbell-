@@ -1,0 +1,1641 @@
+Chapter 82 — Tumours of the Penis
+ • Uncommon but devastating; diagnostically and therapeutically challenging for the urologist.
+ • Rare in North America and Europe; a substantial health burden in parts of Africa, South America and Asia.
+ • Squamous cell carcinoma (SCC) is the commonest penile malignancy; premalignant lesions are discussed
+   first because they establish the anatomical, aetiological and histological relationship to SCC.
+ • Prognosis and treatment planning rest on the pathological stage and histological features of the primary
+   tumour and on the presence and extent of lymph node metastasis.
+ • Contemporary themes: novel imaging, dynamic sentinel node biopsy (DSNB), modified surgical approaches
+   to improve staging accuracy and reduce morbidity, organ-preserving surgery, radiotherapy (primary and
+   palliative), systemic and multimodal therapy, and a risk-based scheme for the inguinal region built on
+   histological and clinical features.
+
+
+PREMALIGNANT CUTANEOUS LESIONS
+
+Penile Intraepithelial Neoplasia (Formerly Carcinoma in Situ)
+
+Pathological and Clinical Correlates
+ • Penile intraepithelial neoplasia (PeIN): dysplastic penile squamous epithelium with an intact basement
+   membrane. Like invasive disease, divided into human papillomavirus (HPV)-associated and HPV-
+   independent (differentiated) PeIN.
+ • HPV-associated PeIN is the commonest form and a precursor of invasive SCC; commonest subtypes basaloid
+   and warty.
+ • Mechanism of high-risk HPV (hrHPV) transformation: viral E6 binds p53, viral E7 binds retinoblastoma
+   protein (Rb) → cell-cycle progression and altered apoptosis.
+ • E7 inactivation of Rb → overexpression of p16INK4a (p16) → p16 immunohistochemistry is the surrogate
+  marker of hrHPV and the basis of routine classification.
+ • HPV-independent (differentiated) PeIN: hyperplastic squamous epithelium, keratin pearls, prominent
+   intercellular bridges, atypical basal cells; difficult to distinguish from reactive hyperplasia (squamous or
+   pseudoepitheliomatous hyperplasia).
+ • 2022 World Health Organization (WHO) classification: grading PeIN I/II/III (mild/moderate/severe) is
+   discouraged — all PeIN is regarded as high grade. "Low-/high-grade dysplasia" and "squamous carcinoma in
+   situ" are to be abandoned as pathological terms.
+ • Clinical eponyms — erythroplasia of Queyrat (EQ, glans), Bowen disease (BD) and bowenoid papulosis (BP)
+   (shaft) — are useful clinically but have no unique histology and are discouraged as pathological entities; all
+   three fall under PeIN.
+
+
+
+
+                                                     page 1 of 31
+Chapter 82 — Tumours of the Penis                                                             PREMALIGNANT CUTANEOUS LESIONS
+
+
+
+COMPARISON — CLINICAL ENTITIES OF PEIN
+                                                                                                              Bowenoid
+                       Erythroplasia of Queyrat                 Bowen disease                                 papulosis
+ Site                  Glans (less often prepuce,               Shaft                                         Shaft, young
+                       uncircumcised)                                                                         males
+ Appearance            Red, velvety, well-marginated; may       Sharply defined scaly erythematous            Papular
+                       ulcerate, discharge, pain                plaques; crusted or ulcerated variants        (online)
+ HPV                   HPV associated                           —                                             HPV associated
+ Progression if        10–33%                                   About 5%                                      Does not
+ untreated                                                                                                    progress
+ Mimics                Chronic localised balanitis              BP, nummular eczema, psoriasis, superficial   —
+                                                                basal cell carcinoma
+
+
+ • EQ histology: atypical hyperplastic cells with disorientation, vacuolation, multiple hyperchromatic nuclei and
+   mitoses at all levels; rete elongated, broadened, bulbous; submucosal capillary proliferation, ectasia and a
+   plasma-cell-rich infiltrate — these distinguish EQ from chronic balanitis. Described by Queyrat, 1911.
+ • Metastasis from PeIN is extremely rare but reported.
+
+Treatment of PeIN
+ • Histological confirmation first: multiple biopsies of adequate depth to exclude invasion.
+ • Foreskin lesions: circumcision or excision with a negative margin is adequate.
+ • Glans lesions are harder to excise while preserving anatomy → glans resurfacing: epithelium and
+   subepithelial tissue dissected off the underlying spongiosum → defect closed with a skin graft; very low early
+   local recurrence.
+ • Alternatives: topical 5-fluorouracil (5-FU) cream, 5% imiquimod cream, laser ablation (neodymium:yttrium-
+   aluminium-garnet [Nd:YAG], potassium titanyl phosphate (KTP) 532 nm, carbon dioxide).
+
+   KEY POINTS: VIRUS-RELATED DERMATOLOGICAL LESIONS
+    • Male HPV infection is associated with penile carcinoma and with cervical dysplasia and carcinoma in
+      female partners.
+    • Imiquimod cream is the standard topical treatment of choice for condyloma.
+    • Giant condyloma of Buschke-Löwenstein: locally progressive, HPV related, non-metastatic, but needs
+      complete excision and follow-up — coexisting SCC or malignant degeneration occurs.
+    • PeIN is an intraepithelial malignant process presenting as three clinical entities: BP, BD, EQ.
+    • BP: shaft of young males; does not progress to invasion.
+    • Untreated progression: BD about 5%; EQ up to 33%. Metastasis rare.
+    • Goal: cancer eradication with organ preservation.
+    • Penile Kaposi sarcoma: associated with human herpesvirus 8; prompts investigation for human
+      immunodeficiency virus (HIV) or other immunosuppression.
+
+Concept — PeIN is defined by an intact basement membrane, not by a grade: every lesion is high grade, the
+eponyms describe only site and appearance, and treatment is therefore organ-preserving eradication tailored to
+where the lesion sits.
+
+
+
+
+                                                            page 2 of 31
+Chapter 82 — Tumours of the Penis                                                           SQUAMOUS CELL CARCINOMA
+
+
+
+SQUAMOUS CELL CARCINOMA
+
+Epidemiology
+ • 0.4–0.6% of male malignancies in the United States (US) and Europe; up to 10% in parts of Asia, Africa and
+   South America.
+ • Divergent trends: falling in the US, India, Thailand, Philippines; rising in several European countries (including
+   Denmark, the Netherlands, the United Kingdom, Scandinavia), China and Israel — attributed to increasing
+   HPV exposure and declining childhood circumcision.
+ • Global 2020 estimates: age-standardised incidence about 0.8 per 100,000, mortality about 0.3 per 100,000.
+ • Disease of older males: abrupt rise in the sixth decade; mean age in the mid-50s. Not unusual in younger
+   males — a meaningful minority are under 40, occasionally under 30; reported in children.
+ • Surveillance, Epidemiology and End Results (SEER): US incidence similar in White and Black males but
+   substantially higher in Puerto Rican Hispanic males.
+ • Racial and ethnic disparity in mortality: independent predictors of worse survival are higher stage, age over
+   65, African-American ethnicity and nodal disease; Black patients carry about twice the disease-specific risk of
+   death; US Hispanic, Black and Puerto Rican males have higher mortality than White males. Causes unknown
+   — biology, access or treatment.
+
+Aetiology and Risk Factors
+ • Incidence varies with circumcision practice, hygiene, phimosis, number of sexual partners, HPV, tobacco,
+   obesity and other factors.
+
+Phimosis and Circumcision
+ • Neonatal circumcision virtually eliminates invasive penile carcinoma by removing the closed preputial
+   environment.
+ • Smegma (bacterial by-product of desquamated cells) is implicated through chronic irritation; not proven
+   carcinogenic in humans, but the association is consistently observed.
+ • Cycle: poor hygiene → smegma → inflammation → fibrotic healing → phimosis → perpetuation.
+ • Phimosis (circumferential preputial fibrosis preventing retraction) is present in 25–75% of patients and carries
+   a seven- to tenfold risk.
+ • The risk of non-circumcision is mediated by phimosis: uncircumcised males with phimosis are at markedly
+   raised risk; without phimosis the risk is not significantly elevated (underpowered).
+ • Rare in Jewish populations (universal neonatal circumcision); less than 1% of US male malignancies; 10–20%
+   in non-circumcising African tribes and Asian cultures.
+ • Timing matters: rare after neonatal circumcision, more frequent when delayed to puberty; adult circumcision
+   offers little or no protection — the critical exposure has occurred by puberty/adulthood (atypia is already
+   present in phimotic foreskins).
+ • Neonatal circumcision protects against invasive cancer but not against carcinoma in situ (CIS); phimosis
+   associates with invasive disease but not CIS.
+ • Circumcision protects against HIV-1; no protection against herpes simplex virus type 2, syphilis or
+   gonorrhoea.
+
+Human Papillomavirus Infection
+ • First clue: wives or ex-wives of penile cancer patients had a threefold risk of cervical carcinoma; male
+   partners of females with cervical intraepithelial neoplasia had more PeIN and more HPV.
+ • Polymerase chain reaction (PCR) and in situ hybridisation detect HPV DNA in penile lesions (benign and
+   malignant) but not in normal foreskin. More than 40 types infect genital sites.
+
+
+
+
+                                                     page 3 of 31
+Chapter 82 — Tumours of the Penis                                                              SQUAMOUS CELL CARCINOMA
+
+
+
+
+  Low-risk: HPV 6 and 11                                          High-risk: HPV 16, 18, 31, 33, 45, 52, 58
+  Genital warts; non-dysplastic lesions; also found in            In situ and invasive carcinoma; HPV 16 is the
+  non-metastatic verrucous carcinoma.                             commonest in primary tumours and is found in
+                                                                  metastases.
+
+ • E6 complexes TP53; E7 binds Rb — via the p14ARF/MDM2/p53 and p16INK4a/cyclin D/Rb pathways — with
+   p16 upregulation as the immunohistochemical surrogate of hrHPV.
+ • HPV infection correlates with number of lifetime sexual partners, which also tracks penile cancer risk.
+ • HPV is not invariable: prevalence in penile cancer is about half → other pathways exist → classification into
+   HPV-associated and HPV-independent SCC (2022 WHO).
+ • HPV positivity varies by subtype: high in basaloid and warty, low in keratinising (usual) and verrucous.
+ • HPV-independent molecular events: CDKN2A silencing by promoter hypermethylation, INK4a/ARF-targeting
+   gene expression, TP53 and p14ARF mutations, MDM2 overexpression; somatic variants (amplifications,
+   deletions, loss of heterozygosity) and epigenetic change.
+ • Inflammation-driven carcinogenesis: lichen sclerosus (LS), phimosis and chronic balanitis → reactive oxygen
+   and nitrogen species → DNA damage and genomic instability; cyclo-oxygenase-2 (COX-2) induction →
+   prostaglandins and thromboxanes → proliferation, angiogenesis, invasion.
+
+HIV Infection
+ • HIV is a risk factor for HPV infection (higher prevalence, multiple genotypes); both HPV and HIV are lower in
+   circumcised males (African data).
+ • HIV worsens disease: about fourfold risk of death from penile cancer; progression from intraepithelial
+   neoplasia occurs about 6 years earlier.
+
+Tobacco Products
+ • Smoking raises risk, dose-dependently, independent of phimosis.
+ • All forms — cigarettes, chewing tobacco, snuff — are independently associated.
+ • Hypothesis: tobacco acts with HPV or inflammation-associated bacteria; shared with other anogenital
+   carcinomas.
+
+Penile Trauma and Lichen Sclerosus
+ • Trauma: carcinoma in the scarred shaft after mutilating circumcision is a distinct entity; penile tears and
+   rashes raise risk; penile injury preceding onset carries a very high odds ratio.
+ • Lichen sclerosus (balanitis xerotica obliterans): subsequent cancer in 2.3–9% on long follow-up; LS associates
+   specifically with HPV-independent carcinoma.
+
+Obesity
+ • Risk factor for invasive cancer via buried penis, inability to examine and clean → smegma and recurrent
+   inflammation (functional phimosis); risk rises with each 5-unit increase in body mass index (BMI).
+ • No convincing link with occupation, other venereal diseases (gonorrhoea, syphilis, herpes), marijuana or
+   alcohol.
+
+Prevention
+ • Neonatal circumcision is controversial. American Academy of Pediatrics (AAP) evolution: no medical benefit
+   (1989) → "potential medical benefits" (1999) → August 2012: benefits outweigh risks, justifying access for
+   families who choose it (urinary tract infection, penile cancer, sexually transmitted infections including HIV).
+ • Penile carcinoma is the only neoplasm with a predictable, simple prophylaxis that spares the organ at risk.
+
+
+
+
+                                                         page 4 of 31
+Chapter 82 — Tumours of the Penis                                                             MODES OF PRESENTATION
+
+
+ • Hygiene may substitute where good: Denmark (circumcision rate very low) saw falling incidence as bathing
+   facilities spread — but rates have since risen, probably HPV-driven, so circumcision may still matter in
+   developed countries.
+ • Modifiable prevention: avoid phimosis (hygiene), avoid HPV, avoid tobacco.
+ • HPV vaccination should have an emerging role: bivalent (16/18, Cervarix), quadrivalent (16/18/6/11,
+   Gardasil), nonavalent Gardasil 9 (16/18/6/11/31/33/45/52/58); efficacy proven in HPV-negative young
+   individuals; wider uptake is the goal.
+
+Natural History
+ • Begins as a small lesion → extends over glans, shaft and corpora; papillary/exophytic or flat/ulcerative;
+   autoamputation if untreated.
+ • Flat ulcerative tumours grow at a similar rate to papillary ones but have earlier nodal metastasis and poorer
+   5-year survival.
+ • Lesions over 5 cm or covering more than 75% of the shaft associate with more metastases and lower survival
+   — not consistently reproduced.
+ • Buck fascia is a temporary barrier; penetration of Buck fascia and tunica albuginea → corporal invasion →
+   potential vascular dissemination.
+ • Earliest dissemination: regional femoral and iliac nodes.
+
+Lymphatic drainage — sequence
+  Prepuce and shaft skin → superficial inguinal nodes (external to fascia lata); glans and corpora → collar at
+  penile base → superficial nodes → deep inguinal nodes (deep to fascia lata) → pelvic nodes (external iliac,
+  internal iliac, obturator).
+ • Consistent stepwise pattern on lymphangiography; cross-connections at every level → drainage is bilateral.
+ • Nodal enlargement → skin necrosis, chronic infection, death from inanition, sepsis or femoral vessel erosion
+   haemorrhage.
+ • Clinically detectable distant metastases (lung, liver, bone, brain) are uncommon (1–10%), late, usually after
+   local treatment; distant disease without nodal disease is unusual.
+ • Relentless course: most untreated patients die within 2 years; no spontaneous remission reported; second
+   primary neoplasms in 5–15%.
+
+   KEY POINTS: EPIDEMIOLOGY, AETIOLOGY AND PREVENTION
+    • Rare in developed countries; varies with age, circumcision, HPV exposure, lifestyle and hygiene.
+    • Disparity in US incidence and outcome, notably for Puerto Rican Hispanic males.
+    • Risk factors: no neonatal circumcision, phimosis, HPV and HIV, tobacco, LS, obesity, trauma.
+    • Largely preventable: neonatal circumcision, HPV vaccination, behaviour modification.
+
+Concept — Two carcinogenic routes converge on the preputial sac: an HPV-driven route (E6/E7, p16-positive,
+basaloid/warty) and an inflammation-driven HPV-independent route (phimosis, smegma, LS, obesity) — which is
+why neonatal circumcision, hygiene and vaccination each prevent part of the disease, and adult circumcision
+prevents almost none.
+
+
+MODES OF PRESENTATION
+
+Signs
+ • The penile lesion itself usually alerts the patient: subtle induration, small excrescence, papule, pustule, warty
+   growth, luxuriant exophytic mass, shallow erosion, or deeply excavated ulcer with rolled edges.
+
+
+
+                                                    page 5 of 31
+Chapter 82 — Tumours of the Penis                                                              MODES OF PRESENTATION
+
+
+ • Phimosis may conceal the tumour → silent progression → eventually erosion through prepuce, foul odour,
+   discharge ± bleeding.
+ • Site distribution: glans commonest (about half), then prepuce, glans plus prepuce, coronal sulcus; shaft rare
+   (under 2%) — reflecting exposure of glans, sulcus and inner prepuce to irritants in the preputial sac.
+ • Rare presentations: inguinal mass, ulceration, suppuration or haemorrhage from nodes of a tumour hidden
+   under a phimotic foreskin; urinary retention or urethral fistula.
+
+Symptoms
+ • Pain is disproportionately slight and rarely the presenting complaint.
+ • Weakness, weight loss, fatigue, malaise from chronic suppuration; occasional significant blood loss from
+   primary or nodes.
+ • Symptoms of distant metastasis are rare at presentation — local and regional disease is far advanced first.
+
+Diagnosis
+
+Delay
+ • Patient delay is characteristic: 15–50% wait more than a year — embarrassment, guilt, fear, ignorance,
+   neglect — despite daily handling of the organ.
+ • Physician delay: prolonged antibiotic or antifungal courses before biopsy.
+ • Survival effect of delay is inconsistent across series, but earlier diagnosis logically improves outcome.
+
+Examination
+ • Most lesions are confined to the penis at presentation.
+ • Assess the primary: size, location, fixation, corporal involvement; inspect penile base and scrotum.
+ • Rectal and bimanual examination: perineal body involvement, pelvic mass.
+ • Careful bilateral inguinal palpation is extremely important.
+
+Biopsy
+ • Biopsy confirming carcinoma, depth of invasion and grade is mandatory before definitive therapy — it
+   guides treatment of the primary and predicts occult nodal risk in cN0 patients.
+ • May be separate from definitive surgery; dorsal slit often needed for exposure; alternatively biopsy with
+   frozen section → immediate resection or ablation.
+ • Superficial biopsies mislead: depth frequently indeterminable, grade discordant (especially verrucous and
+   mixed patterns), occasional failure to detect well-differentiated cancer. Adequate specimen cannot be
+   overemphasised.
+
+Histological Features
+ • Most penile tumours are SCC: keratinisation, epithelial pearls, variable mitoses, disrupted rete pegs,
+   basement membrane breached.
+
+
+
+
+                                                     page 6 of 31
+Chapter 82 — Tumours of the Penis                                                                        MODES OF PRESENTATION
+
+
+
+COMPARISON — HISTOLOGICAL SUBTYPES OF PENILE SCC BY HPV STATUS (WHO 2022)
+ Subtype                            Share HPV                  Defining features                    Behaviour / nodal risk
+ Usual type                         45–    Independent         Typically grade II, invades          Nodes 25–40%; behaviour
+                                    65%                        spongiosum; LVI/PNI in about         set by size, grade, depth,
+                                                               one-third                            LVI/PNI
+ Warty (condylomatous)              7–     Associated          Cauliflower-like; fibrovascular      Nodes 17–25%; vascular/
+                                    10%                        cores, papillomatous; jagged         perineural invasion
+                                                               irregular border; grade II, bulky,   uncommon
+                                                               slow
+ Basaloid                           4–     Associated          Ulcerated irregular mass; small      High grade; over half node
+                                    10%                        uniform basaloid cells, central      positive
+                                                               necrosis, abundant mitoses,
+                                                               apoptosis; deeply invasive
+ Papillary                          2–     Independent         Low grade; hyperkeratosis,        Nodes uncommon (up to
+                                    15%                        papillomatosis; non-uniform       12%)
+                                                               papillae, no koilocytosis, jagged
+                                                               border (vs verrucous/warty)
+ Verrucous                          3–7%   Independent         Low grade; broad pushing             True verrucous: no
+                                                               border; straight papillae, very      metastatic potential;
+                                                               well differentiated; surface and     recurs if under-excised
+                                                               interpapillary keratin
+ Sarcomatoid (spindle cell)         1–6%   Independent         SCC plus spindle component;       Most aggressive; vascular/
+                                                               mimics melanoma or sarcoma        perineural invasion, nodal
+                                                               (leiomyo-, fibro-, angiosarcoma); and distant metastases
+                                                               deeply invasive, polypoid
+ Rare (pseudoglandular,             ≤1%    First two           Deep corporal invasion               Aggressive; mortality
+ adenosquamous, clear cell,                independent; last                                        highest in
+ lymphoepithelioma-like)                   two associated                                           pseudoglandular and
+                                                                                                    clear cell
+
+
+ • Pattern: HPV-associated subtypes split into a bulky low-risk (warty) and a highly aggressive (basaloid) form;
+   HPV-independent subtypes span the spectrum from non-metastasising (verrucous) to the most lethal
+   (sarcomatoid).
+Grading
+ • Broders classification (1921, cutaneous SCC): keratinisation, pleomorphism, mitoses; four grades, often
+   collapsed to three. Low grade (I–II) is 70–80% at diagnosis.
+ • Low-grade lesions: cords of atypical cells from a hyperkeratotic epidermis, keratin, intercellular bridges, pearls
+   — absent in high grade.
+ • Site–grade link: almost half of shaft tumours are poorly differentiated, about 10% of preputial tumours →
+   grade and stage correlate.
+ • High grade correlates with nodal metastasis; the unmet need is stratifying the majority low/intermediate-
+   grade tumours.
+ • Current: three-tier WHO/International Society of Urological Pathology (ISUP) grading:
+    ◦ Grade I: resembles normal squamous tissue; irregular nests, little stroma.
+     ◦ Grade III: small irregular nests, poor keratinisation, pleomorphic hyperchromatic cells, frequent mitoses,
+       marked stromal reaction.
+     ◦ Any proportion of grade III (anaplastic) features = grade III; the remainder = grade II.
+ • Rationale: half of tumours are grade-heterogeneous, and any grade III component associated with nodal
+   metastasis.
+
+
+
+                                                          page 7 of 31
+Chapter 82 — Tumours of the Penis                                                              MODES OF PRESENTATION
+
+
+Invasion variables
+ • Vascular invasion predicted nodal metastasis in every study assessing it.
+ • Perineural invasion (about one-third of cases) is a strong predictor of nodal metastasis.
+ • Synoptic reporting (College of American Pathologists protocol) is standard: core variables for eighth-edition
+   tumour-node-metastasis (TNM) staging — grade, structure invaded, lymphovascular and perineural invasion,
+   margins — plus optional variables.
+
+   KEY POINTS: NATURAL HISTORY AND PRESENTATION
+    • Begins on the glans or prepuce and enlarges progressively.
+    • Delay in presentation and in biopsy is common.
+    • Examination of primary and groins is critical to planning.
+    • Metastasis is by lymphatic embolisation to inguinal nodes; distant metastases occur late.
+
+
+   KEY POINTS: BIOPSY AND HISTOLOGICAL FEATURES
+    • Adequate biopsy is essential.
+    • Subtypes now fall into two groups by HPV relationship, with distinct morphology and behaviour.
+    • Structure invaded, grade, vascular and perineural invasion predict metastasis and define eighth-edition
+      T stage.
+
+Laboratory Studies
+ • Often normal; anaemia, leucocytosis, hypoalbuminaemia with chronic suppuration and malnutrition;
+   azotaemia from urethral or ureteric obstruction.
+ • Hypercalcaemia without bone metastases (about one-fifth in one series): a function of disease bulk, linked
+   to inguinal metastases, may resolve after excision of involved nodes; tumour production of parathyroid
+   hormone and related substances → osteoclastic resorption.
+  Hypercalcaemia management: aggressive saline hydration → diuretic only if volume overloaded →
+  bisphosphonate first line (pamidronate, etidronate, zoledronic acid; safer than mithramycin) → for severe
+  neurological hypercalcaemia add a calciuric agent such as calcitonin for rapid lowering.
+
+Radiological Studies
+Primary penile tumour
+ • Physical examination misstages about one-quarter (both under- and overstaging).
+ • Ultrasound (7.5 MHz linear): cancer is invariably hypoechoic; underestimates thickness; cannot separate
+   glans T1 from spongiosal T2; but tunica albuginea always seen → high sensitivity for cavernosal invasion.
+ • Magnetic resonance imaging (MRI) with gadolinium: good soft-tissue detail; not useful for T1. Computed
+   tomography (CT): poor soft-tissue resolution, not useful for the primary.
+ • Artificial erection (intracorporeal prostaglandin E1) may augment contrast MRI; meta-analysis: MRI
+   specificity for corporal invasion is high with or without artificial erection.
+
+
+
+
+                                                    page 8 of 31
+Chapter 82 — Tumours of the Penis                                                                  MODES OF PRESENTATION
+
+
+
+COMPARISON — STAGING THE PRIMARY FOR CORPORAL INVASION
+ Modality             Strength                          Weakness                       Role
+ Physical             Reliable for corporal invasion;   Misstages some                 Default
+ examination          most reliable for small distal
+                      lesions
+ Ultrasound           Sees tunica albuginea             Underestimates depth; T1 vs    Adjunct
+                                                        T2 not separable
+ MRI ± artificial     Best soft-tissue detail; high     Not useful for T1              When examination is equivocal
+ erection             specificity for corpora                                          and organ sparing is planned
+ CT                   —                                 Poor soft-tissue resolution    Not for the primary
+
+
+ • Bottom line: in the direct comparison, examination was reliable for corporal invasion; imaging adds value
+   mainly when examination cannot be done properly. Small glanular lesions gain nothing from imaging.
+Inguinal and pelvic region — clinically node-negative (cN0)
+ • Examination reliability varies with primary grade and stage and with body habitus.
+ • CT and MRI depend on node enlargement and cannot read internal architecture of normal-sized nodes; CT is
+   usually chosen for groins, pelvis and distant disease.
+ • CT and lymphangiography add nothing to examination in impalpable groins (low sensitivity, high specificity).
+ • Caveat: CT helps in obese patients and after prior inguinal surgery, where examination is unreliable.
+ • Fluorodeoxyglucose positron emission tomography/CT (FDG-PET/CT): SCC is FDG-avid, but sensitivity for
+   occult cN0 disease is poor.
+ • Ultrasound-guided fine-needle aspiration cytology (FNAC) in cN0 groins also has limited sensitivity.
+ • No imaging modality detects microscopic nodal metastasis reliably.
+Clinically node-positive (cN+)
+ • CT features — central necrosis or irregular nodal border — are highly sensitive and specific for poor-
+   prognosis pathology (three or more positive nodes, extranodal extension [ENE], positive pelvic nodes).
+ • FDG-PET/CT in cN+ or T3–T4: good sensitivity and negative predictive value for pelvic nodes, high positive
+   predictive value for distant lesions.
+ • Distant metastases: late, usually with significant inguinal/pelvic disease; commonest sites lung, bone, liver.
+   For bulky regional adenopathy: chest, abdominal and pelvic CT, and FDG-PET/CT performs best.
+
+  cN0 groin                                                      cN+ groin
+  No imaging finds micrometastases → surgical staging            Imaging (CT features, FDG-PET/CT) stratifies
+  decides.                                                       prognosis and detects pelvic and distant disease.
+
+
+   KEY POINTS: RADIOLOGICAL IMAGING
+      • MRI gives the best soft-tissue detail of the primary; examination is most reliable for small distal lesions;
+        MRI ± artificial erection helps when examination is equivocal.
+      • Inguinal examination remains the clinical gold standard in the non-obese patient; CT or MRI for the
+        obese or previously operated groin.
+      • In proven inguinal metastasis, CT abdomen/pelvis or FDG-PET/CT identifies poor prognostic features and
+        pelvic or distant disease unlikely to be cured by surgery alone.
+
+Penile Cancer Staging
+ • Eighth edition American Joint Committee on Cancer (AJCC) / Union for International Cancer Control (UICC)
+   TNM (2017) is used.
+ • Grading: three-tier WHO/ISUP; any proportion of anaplastic cells → grade III.
+
+
+                                                        page 9 of 31
+Chapter 82 — Tumours of the Penis                                                               MODES OF PRESENTATION
+
+
+Definition of the primary tumour — changes from the seventh edition
+ • Ta: formerly "non-invasive verrucous carcinoma" (misread as covering all verrucous tumours, most of which
+   are destructive with a smooth pushing front). Now: pure verrucous carcinoma without overt destructive
+   invasion, and non-invasive papillary, warty, basaloid or mixed carcinomas — analogous to pTa urothelial
+   tumours.
+ • T1 anatomical detail: "subepithelial connective tissue" replaced by site-specific layers (glans, foreskin, shaft).
+ • T1a vs T1b validated: pT1b has a markedly higher nodal rate than pT1a; perineural invasion now joins LVI
+   and high grade in defining pT1b.
+ • T2 vs T3 split: spongiosum (T2) vs cavernosa (T3) — cavernosal invasion carries worse disease-specific
+   survival and more nodal metastasis.
+ • Urethral invasion removed as a T3 criterion — no independent prognostic value.
+ • T4 (scrotum, prostate, pubic bone): uncommon; may need major amputation, neoadjuvant chemotherapy, or
+   palliative radiotherapy if unresectable.
+Pathological N changes
+ • pN1 widened to one or two unilateral nodes without ENE: survival of two nodes equals one node (about
+   90% 3-year disease-specific survival) → more patients classed low risk, avoiding adjuvant therapy
+   recommended for pN2 (joint European Association of Urology–American Society of Clinical Oncology [EAU-
+   ASCO] guideline).
+ • pN2 = three or more unilateral or bilateral nodes: clearly worse survival (about 60%).
+ • pN3 = ENE or pelvic nodes: ominous (about one-third 3-year survival); adjuvant therapy strongly considered.
+ • Stage groups are driven by nodal status — the eighth edition's strength is combining accurate primary
+   staging with improved clinical and pathological nodal descriptors.
+ • T stage assigned by biopsy, more reliably by complete resection, incorporating grade, LVI/PNI and cavernosal
+   involvement. Palpable adenopathy plus primary histology determines further imaging; FNAC of palpable
+   nodes or of CT-detected pelvic nodes helps assign N before therapy.
+
+
+
+
+                                                     page 10 of 31
+Chapter 82 — Tumours of the Penis                                                                             MODES OF PRESENTATION
+
+
+
+TABLE 82.1 DEFINITION OF PRIMARY TUMOUR (EIGHTH EDITION AJCC TNM, WITH N, M AND STAGE GROUPS) —
+PETTAWAY ET AL., AJCC CANCER STAGING MANUAL, 2017
+ T          Criteria
+ TX /       Cannot be assessed / no evidence of primary
+ T0
+ Tis        Carcinoma in situ (PeIN)
+ Ta         Non-invasive localised SCC
+ T1         Glans: lamina propria · Foreskin: dermis, lamina propria or dartos · Shaft: connective tissue between epidermis
+            and corpora
+ T1a        No LVI, no PNI, not high grade
+ T1b        LVI and/or PNI, or high grade (grade III or sarcomatoid)
+ T2         Corpus spongiosum (glans or ventral shaft) ± urethra
+ T3         Corpora cavernosa (including tunica albuginea) ± urethra
+ T4         Adjacent structures: scrotum, prostate, pubic bone
+
+ N      Clinical (cN)                                                           Pathological (pN)
+ 0      No palpable or visibly enlarged inguinal nodes                          No nodal metastasis
+ 1      Palpable mobile unilateral inguinal node                                ≤2 unilateral inguinal metastases, no ENE
+ 2      Palpable mobile ≥2 unilateral or bilateral inguinal nodes               ≥3 unilateral or bilateral metastases
+ 3      Fixed inguinal nodal mass or pelvic lymphadenopathy                     ENE or pelvic nodal metastasis
+
+ Stage group                         T                                                              N                    M
+ 0is / 0a                            Tis / Ta                                                       N0                   M0
+ I                                   T1a                                                            N0                   M0
+ IIA                                 T1b, T2                                                        N0                   M0
+ IIB                                 T3                                                             N0                   M0
+ IIIA / IIIB                         T1–3                                                           N1 / N2              M0
+ IV                                  T4 any N; any T N3; any M1
+
+
+ • What the table tests: T is defined by structure invaded (spongiosum vs cavernosa), with T1 split by biology
+   (LVI, PNI, grade); N is defined by number, laterality, ENE and pelvic spread.
+ • Traps: T1b and T2 share stage IIA; any N3 or T4 is stage IV even without distant disease; urethral invasion no
+   longer upstages; clinical N counts palpable nodes, pathological N counts metastases (pN1 allows two).
+
+TABLE 82.2 EIGHTH EDITION AJCC: SUMMARY OF PENILE CANCER STAGING REVISIONS TO THE SEVENTH EDITION —
+PETTAWAY ET AL., 2017
+ Element                Change                                                                                Evidence level
+ Grade                  Three-tier WHO/ISUP; any anaplasia = grade III                                        III
+ Ta                     Broadened to non-invasive localised SCC                                               II
+ T1a/T1b                Perineural invasion added as discriminator                                            III
+ T1 site                Glans, foreskin, shaft with site-specific layers                                      I
+ T2 / T3                T2 = spongiosum; T3 = cavernosa                                                       II
+ pN1 / pN2              pN1 ≤2 unilateral, no ENE; pN2 ≥3 unilateral or bilateral                             II
+
+
+ • Pattern: every revision moves prognostically distinct groups apart (spongiosum vs cavernosa; T1a vs T1b) or
+   merges prognostically identical ones (one vs two nodes).
+
+                                                                page 11 of 31
+Chapter 82 — Tumours of the Penis                                              SURGICAL MANAGEMENT OF THE PRIMARY TUMOUR
+
+
+
+TABLE 82.3 CARCINOMA OF PENIS: SUGGESTED DIAGNOSTIC PROCEDURES TO ASSIGN TNM STAGE
+ Category Procedures
+ T           Examination; incisional–excisional biopsy (or complete resection) for grade, structure invaded, vascular and
+             perineural invasion
+ N           Examination; CT if palpable (also if obese or previous groin surgery); FDG-PET/CT for bulky nodes; DSNB or
+             modified/minimally invasive inguinal dissection for high grade, vascular/perineural invasion or invasive
+             pattern; aspiration cytology as indicated
+ M           Examination; liver function and calcium; CT chest, abdomen, pelvis; bone scintigraphy; or FDG-PET/CT as
+             indicated
+
+
+ • What it teaches: T is a pathological stage (tissue required); N in the impalpable groin is surgical, not
+   radiological; calcium belongs in the metastatic work-up.
+
+     KEY POINTS: STAGING
+      • Presence and extent of nodal involvement determine survival and must be recorded.
+      • The eighth-edition unified TNM is a consensus system with prognostic clinical and pathological
+        descriptors.
+
+Differential Diagnosis
+ • Condyloma acuminatum, Buschke-Löwenstein tumour, balanitis xerotica obliterans.
+ • Infections: chancre, chancroid, herpes, lymphogranuloma venereum, granuloma inguinale, tuberculosis —
+   identified by skin tests, tissue studies, serology, culture or special stains.
+Concept — The primary tumour is staged by tissue and the groin by surgery: examination and biopsy define T,
+imaging earns its place only when examination fails (obesity, prior surgery, equivocal corpora, bulky nodes), and
+the eighth edition is built so that nodal burden, not the primary, sets the stage group.
+
+
+SURGICAL MANAGEMENT OF THE PRIMARY TUMOUR
+
+Penile Preservation
+ • Amputation is the oncological gold standard for rapid definitive control: local recurrence 0–8%.
+ • Cost: reduced sexual quality of life; negative well-being and psychiatric symptoms in up to half. Relevant
+   because more than half of patients are 60 or younger.
+ • Favourable histology — Tis, Ta, T1; grade I–II — carries lower metastatic risk and suits organ- or glans-
+   sparing procedures.
+ • Goals: preserve glans sensation where possible, otherwise maximise shaft length.
+ • Options: topical 5-FU or imiquimod (Tis only), radiotherapy, Mohs surgery, limited excision, laser ablation.
+
+Penile-Preserving Strategies
+
+Circumcision and Other Excision Strategies
+ • Circumcision, limited glans excision, and glans removal with shaft sparing preserve function and length.
+   Historical recurrence 11–50% — but grade, size, location and margins were usually unreported.
+ • Intraoperative frozen section makes conservative surgery safe in selected discrete tumours.
+ • The 2-cm margin dogma is abandoned:
+    ◦ Microscopic proximal spread tracks grade — 5 mm for grade I–II, 10 mm for grade III; no skip lesions.
+       ◦ Wide local excision or glans removal with margins well under 2 cm: low local recurrence; larger organ-
+         sparing series: modest recurrence that did not affect disease-specific survival.
+
+
+                                                         page 12 of 31
+Chapter 82 — Tumours of the Penis                                          SURGICAL MANAGEMENT OF THE PRIMARY TUMOUR
+
+
+     ◦ Only margins under 1 mm raised local recurrence → negative margin required; distance should exceed 1
+       mm (small, low-grade tumours with negative frozen section).
+ • Limitations: deeply invasive proximal or distal tumours, high grade, and patients too unfit for salvage.
+ • In a large multinational glansectomy cohort, in pT3 and high-grade tumours local relapse was more frequent
+   and independently predicted worse cancer-specific and overall survival (OS) → select low-stage, low-grade
+   tumours.
+Glans resurfacing (glans stripping) — for glans CIS
+  Document absence of invasion → subdermal dissection of skin and subepithelial connective tissue off the
+  corpus spongiosum (total or partial) → split-skin graft → topical therapy for isolated CIS at a margin → careful
+  follow-up.
+ • Total resurfacing gives far fewer positive margins than partial; some patients need re-excision for
+   unexpected invasion at the margin; clinical recurrence rare.
+ • Graft take high; erectile function preserved.
+
+Mohs Micrographic Surgery
+ • Layer-by-layer excision with microscopic examination of each undersurface (original fixed-tissue technique)
+   → precise margin control with maximal preservation.
+ • Original series: high eradication; recurrence linked to size of 3 cm or more, advanced stage, prior failed
+   therapy.
+ • Not reproduced with modern frozen-section Mohs: recurrence in about one-third (mostly salvaged by repeat
+   Mohs) → no clear advantage over excision with frozen-section margins.
+
+Laser Ablation
+
+COMPARISON — LASER ENERGY SOURCES
+ Laser               Penetration                Consequence
+ Carbon dioxide      About 0.1 mm               Too superficial for CIS or T1; recurrence up to 50%
+ Nd:YAG (1064        Up to 6 mm protein         Preferred; with tumour-base biopsies, recurrence comparable to
+ nm)                 denaturation               partial penectomy
+ Argon, KTP          —                          Also used
+
+
+ • Overall recurrence: under 10% for CIS, 10–25% for T1 in older series; better with Nd:YAG plus base biopsies.
+ • Autofluorescence and 5-aminolevulinic acid-induced fluorescence proposed to target frozen-section
+   biopsies.
+ • High resumption of sexual activity and satisfaction.
+ • Laser recurrence equals excision for PeIN but is higher than excision for higher-stage tumours → PeIN is the
+   optimal laser cohort.
+
+Contemporary Penile Amputation
+ • Standard for deeply invasive or high-grade cancer: partial or total penectomy.
+ • Adverse features against organ preservation: size 4 cm or more, grade III, deep cavernosal invasion.
+ • Organ preservation recurs more → selection and follow-up compliance are prerequisites; but early-detected,
+   treated recurrence does not compromise survival.
+ • EAU-ASCO: discuss benefits and harms → shared decision making. Organ preservation for PeIN, Ta, T1, grade
+   I–II in compliant patients.
+
+
+
+
+                                                      page 13 of 31
+Chapter 82 — Tumours of the Penis                                                              TREATMENT OF THE INGUINAL NODES
+
+
+
+TABLE 82.4 TREATMENT OF THE PRIMARY PENILE TUMOUR
+ Stage / site                       Treatment
+ PeIN, glans                        Laser, glans resurfacing; alternative topical
+ Ta, PeIN — foreskin or shaft       Excision to negative margin; alternatives laser, topical (Tis only)
+ skin
+ Ta, T1 grade I–III — glans         By size, position, side effects: excision, resurfacing, glansectomy, radiotherapy (not for
+                                    Ta)
+ Ta, T1 — foreskin or shaft         Complete excision to negative margin
+ T2, glans, no gross cavernosal     Total glansectomy ± distal corporal transection; partial penectomy; radiotherapy
+ involvement
+ T2 with corporal invasion, T3      Partial or total penectomy
+ T4                                 Neoadjuvant chemotherapy then surgical consolidation in responders if resectability is
+                                    in doubt
+ Local recurrence after             Excision to negative margin; may need partial/total penectomy; superficial low-grade
+ conservative therapy               recurrence may be re-treated conservatively
+ Radiotherapy                       Selected T1–T2 of glans or coronal sulcus, under 4 cm
+
+
+ • Pattern: the treatment ladder follows depth — epithelium (topical/laser/resurfacing) → glans connective
+   tissue and spongiosum (excision, glansectomy) → cavernosa (penectomy) → adjacent organs (chemotherapy
+   first).
+ • Traps: topical therapy is for Tis only; radiotherapy is not indicated for Ta; T2 glans without cavernosal
+   extension can still be glans-sparing.
+
+   KEY POINTS: SURGICAL TREATMENT OF THE PRIMARY TUMOUR
+      • Compliant patients with small low-grade, low-stage lesions (PeIN, Ta, T1; grade I–II) are optimal for
+        organ preservation.
+      • Goals: keep glans for sensation, otherwise maximise length.
+      • Modalities: limited excision, Mohs, laser.
+      • Local recurrence is higher than with amputation, but detected and treated early, survival is not affected.
+      • Amputation remains standard for large, deeply invasive or high-grade tumours.
+      • In pT3 or high-grade tumours, local relapse is commoner and reduces overall and cancer-specific
+        survival.
+
+Concept — Margin width is a function of grade, not a fixed 2 cm: because low-grade tumours spread only
+millimetres and local recurrence in them is salvageable without survival cost, organ preservation is safe there —
+but in high-grade or cavernosal disease local relapse itself becomes lethal, and amputation regains its place.
+
+
+TREATMENT OF THE INGUINAL NODES
+
+Overview
+ • Presence and extent of inguinal metastasis is the most important prognostic factor — more than grade,
+   gross appearance or microscopic pattern of the primary.
+ • Lymphadenectomy alone can be curative, unlike most genitourinary cancers — because penile SCC has a
+   prolonged locoregional phase before distant spread.
+ • Controversies: selecting lymphadenectomy vs observation; low-morbidity staging procedures; multimodal
+   therapy for bulky nodes. No randomised trials — retrospective and prospective series only.
+
+
+
+                                                          page 14 of 31
+Chapter 82 — Tumours of the Penis                                                              TREATMENT OF THE INGUINAL NODES
+
+
+
+Contemporary Indications for Inguinal Lymphadenectomy
+
+Prognostic Significance of the Presence and Extent of Metastatic Disease
+
+TABLE 82.5 CARCINOMA OF THE PENIS: PROGNOSTIC INDICATORS FOR SURVIVAL
+ Parameter                                             Range across series          Average / message
+ Patients with palpable nodes                          About one-quarter to         Varies with referral pattern
+                                                       most
+ Clinically false positive (palpable, histology        8–65%                        Much palpable adenopathy is
+ negative)                                                                          inflammatory
+ Clinically false negative (impalpable, histology      0–66% (one outlier           Occult metastasis is common in cN0
+ positive)                                             higher)
+ 5-year survival, nodes negative                       46–100%                      About 73%
+ 5-year survival, nodes resected and positive          0–86%                        About 60%, driven by extent of nodal
+                                                                                    disease
+
+
+ • What it is for: node-positive disease is curable by surgery, but survival spreads widely because "node
+   positive" hides differences in number, laterality, ENE and pelvic spread.
+ • Trap: examination alone neither confirms (inflammation) nor excludes (micrometastasis) nodal disease.
+
+TABLE 82.6 FIVE-YEAR SURVIVAL (%) RELATED TO EXTENT OF NODAL METASTASIS — AND TABLE 82.7 FIVE-YEAR SURVIVAL
+RELATED TO PELVIC NODE METASTASES TREATED WITH SURGERY ALONE
+ Nodal burden                                                                        5-year survival
+ Minimal (≤2 positive nodes; in some series 1–3)                                     About 72–88%
+ Greater (>2; more than 3, 4–5, >5, >6)                                              0–50%, falling with number
+ ENE in nodes 4 cm or larger                                                         Very few 5-year survivors
+ Pelvic nodes positive, surgery alone (nine small series)                            About 14% average
+
+
+ • Criteria for about 80% 5-year survival after curative resection: up to two involved nodes, unilateral, no ENE,
+   no pelvic nodes.
+
+Presence of Palpable Adenopathy as a Selection Factor
+ • Palpable nodes are metastatic in about 43% on average; the rest are inflammatory.
+ • Persistent adenopathy after primary treatment is usually metastatic; new adenopathy during follow-up is
+   much more likely tumour.
+
+  Historical                                                          Current
+  4–6 weeks of antibiotics to separate inflammation                   FNAC of palpable nodes at or immediately after
+  from metastasis.                                                    primary treatment — no 4–6-week delay; antibiotic
+                                                                      trial no longer advocated (EAU-ASCO).
+
+ • FNAC of palpable nodes: high sensitivity and specificity.
+ • Negative FNAC does not exclude (false-negative 20–30% in older series) → close observation, repeat
+   aspiration or excisional biopsy according to suspicion.
+
+Evolving Indications for Lymphadenectomy Without Palpable Adenopathy
+Immediate versus delayed surgery
+ • Reluctance to routine inguinal lymph node dissection (ILND) stems from morbidity: phlebitis, pulmonary
+   embolism, wound infection, flap necrosis, disabling lymphoedema of scrotum and legs.
+
+
+                                                            page 15 of 31
+Chapter 82 — Tumours of the Penis                                                            TREATMENT OF THE INGUINAL NODES
+
+
+ • Morbidity reduced by peri-operative care, technique, myocutaneous flaps, preserving dermis, Scarpa fascia
+   and saphenous vein, reduced dissection extent, laparoscopic/robotic approaches.
+ • Kroon et al. (2005), Netherlands Cancer Institute — landmark: node-positive patients found by early DSNB vs
+   delayed dissection after surveillance: 3-year survival 84% vs 35%; ENE almost universal in the delayed group
+   vs uncommon in the early group.
+ • About seven series show better survival with early vs delayed therapeutic dissection; six show delayed
+   dissection rarely salvages recurrence.
+ • In cN0 patients, inguinal relapse highest with observation, lower with DSNB, nil with lymphadenectomy;
+   initial DSNB independently reduced inguinal relapse and cancer-specific mortality vs observation.
+ • → Early surgical staging (ILND or DSNB) ensures intervention while tumour volume is small.
+
+  Immediate / early staging                                        Delayed therapeutic dissection
+  Small-volume, ENE-negative nodes; curable; lower                 ENE usual; salvage rare; survival poor despite careful
+  complication rates.                                              follow-up.
+
+Morbidity versus benefit
+ • Microscopic-disease dissection is less morbid than bulky-disease dissection — less lymphatic tissue
+   removed, venous drainage and skin blood supply preserved.
+ • Operative mortality (historically a few percent) is now near zero; deaths related to sepsis, with synchronous
+   penectomy or palliative dissection → patient selection, pre-operative antibiotics, wound care.
+
+TABLE 82.8 LYMPHADENECTOMY COMPLICATIONS IN FOUR SURGICAL SERIES — BEVAN-THOMAS, SLATON, PETTAWAY, J
+UROL 2002
+ Complication           Three historical series (1948–1990)   MD Anderson 1989–1998
+ Skin edge necrosis     About half or more                    Markedly lower (significant)
+ Lymphoedema            About one-quarter to one-half         About one-quarter (significantly lower than the worst series)
+ Wound infection        About one-sixth                       About one-tenth
+ Seroma                 Under one-sixth                       About one-tenth
+ Death                  0 to about 1%                         About 2%
+
+
+ • What it shows: the contemporary gain is concentrated in skin necrosis; lymphoedema remains the stubborn
+   complication.
+  Fig. 82.3 Contemporary result: right ilioinguinal and left superficial dissection for T2N1M0 SCC; mild left oedema at 10
+  months; disease-free at 9 years.
+
+Impact of primary tumour histology on predicting occult nodal metastasis
+ • Histopathological variables of the primary stratify cN0 patients into lower- and higher-risk groups, sparing
+   the truly node-negative the morbidity of dissection.
+ • PeIN and verrucous carcinoma: little or no risk — metastasis from PeIN almost unknown; true verrucous
+   tumours do not metastasise → PeIN and Ta are low risk.
+ • Corporal invasion (seventh-edition pT2, now pT2–pT3): high risk — average about 60% nodal metastasis,
+   similar whether or not nodes are palpable.
+ • T1 (subepithelial connective tissue only): historically 4–14% nodal metastasis; exceptions with high rates
+   reflect grade and vascular invasion modifying stage.
+ • T1 grade I–II: low pooled rate (about 7%); but T1 grade II is heterogeneous (about 11% pooled; 5–20% by
+   thickness and growth pattern in the first nomogram) → prior EAU guidance placed T1 G2 at intermediate risk.
+ • Vascular invasion: the only multivariate predictor (venous and lymphatic embolisation) in one series; absent
+   in all node-negative T1 tumours in another; in corporal-invasive tumours node positivity roughly triples when
+   vascular invasion is present.
+
+
+                                                         page 16 of 31
+Chapter 82 — Tumours of the Penis                                                          TREATMENT OF THE INGUINAL NODES
+
+
+ • Perineural invasion and the microscopic front of invasion independently stratify risk; PNI is now in the TNM.
+ • In a large multicentre pT1 G2 cohort, nodal risk low overall, rising several-fold with LVI or PNI, and lowest
+   when both absent.
+ • Nomograms (stage, grade, LVI, p53) have not been externally validated and are not used.
+ • Synthesis: pathological stage, grade, LVI and PNI drive the staging decision in cN0 — captured by TNM: PeIN,
+   Ta, T1a = low risk (about 10–18%); T1b or above = high risk (about one-third to over half).
+
+TABLE 82.9 PENILE CARCINOMA: CORPOREAL INVASION AND INCIDENCE OF LYMPH NODE METASTASIS — AND TABLE
+82.10 INCIDENCE OF NODAL METASTASIS FOR STAGE T1, GRADE I AND GRADE II PRIMARY TUMOURS
+ Primary tumour group                          Nodal metastasis                          Note
+ Corporal invasion (seven series; cN0 or       About 40–90%; average about 60%           Same with or without palpable
+ unspecified)                                                                            nodes
+ T1, grade I–II (five series)                  Pooled about 7%                           Low risk
+ T1, grade II (five series, largest multicentre) Pooled about 11%; single small series   Node-positive tumours carried LVI
+                                                 up to 44%                               or PNI
+
+
+ • Pattern: depth (corporal invasion) sets a high baseline; within T1 the grade II group is where LVI and PNI
+   decide the risk.
+ • Trap: T1 G2 is not uniformly low risk — "grade II" without LVI/PNI is T1a, with either it is T1b.
+Molecular prognostic markers
+ • HPV/p16 status is prognostic: hrHPV and p16 expression correlate with better disease-specific survival; p16
+   immunohistochemistry is routine, correlates with hrHPV, and is part of standard reporting.
+ • p53: normally blocks cell-cycle progression; overexpression independently predicted nodal metastasis in two
+   studies.
+ • Other nodal predictors: superoxide dismutase 2 overexpression, Ki-67 high, diffuse programmed death-
+   ligand 1 (PD-L1), ID1 overexpression, raised C-reactive protein (CRP), raised neutrophil-to-lymphocyte ratio
+   (NLR) and SCC antigen.
+ • Nomogram of grade, LVI, PD-L1 and NLR: excellent concordance, awaiting validation.
+ • Progression pathways: epithelial–mesenchymal transition (vimentin, matrix metalloproteinases up, E-
+   cadherin lost), CD44, mammalian target of rapamycin (mTOR).
+ • Barriers: unstandardised methods, no large annotated tissue banks → prospective multi-institutional
+   validation needed.
+
+
+
+
+                                                         page 17 of 31
+Chapter 82 — Tumours of the Penis                                                               TREATMENT OF THE INGUINAL NODES
+
+
+
+TABLE 82.11 PROGNOSTIC MOLECULAR MARKERS OF LYMPH NODE STATUS AND SURVIVAL IN PENILE CANCER: CURRENT
+STATUS — REVISED FROM MUNEER ET AL., WORLD J UROL 2009
+ Marker              Role                                                 Nodal status                   Survival
+
+ HPV / p16INK4a High-risk types disrupt TP53 and Rb; p16 rises            Contradictory / not            Better survival, less
+                with hrHPV                                                associated                     recurrence
+ TP53                Altered: proliferation, apoptosis,                   More metastasis                Worse
+                     dedifferentiation                                    (preliminary)
+ PD-L1               Inhibits T-cell function                             More metastasis                Worse
+ SCC antigen         Serum marker, function unknown                       Grossly evident metastasis No role
+ (TA-4)
+ Ki-67               Proliferation                                        Higher risk                    No role
+ NLR                 Inflammation                                         High → nodal metastasis        Worse
+ CRP                 Inflammation                                         High → nodal metastasis        Worse
+
+
+ • Pattern: HPV/p16 is the only favourable marker and predicts survival, not nodal status; the rest are adverse.
+ • Trap: p16 positivity does not tell you the groin is negative.
+
+Evolving Indications for Expectant Management of the Inguinal Region
+ • PeIN, Ta, T1a: low nodal incidence (0–18%) → optimal for surveillance.
+ • T1b or greater: one-third to over half node positive → inguinal staging warranted.
+ • Non-compliant patients with invasive tumours should be offered staging rather than observation.
+ • Only about one-third of initially cN0 patients who later develop inguinal recurrence survive 5 years → strict
+   follow-up and immediate intervention on any change.
+
+TABLE 82.12 PENILE CARCINOMA: SUGGESTED FOLLOW-UP FOR PATIENTS WITH NO INGUINAL ADENOPATHY WHO DO
+NOT UNDERGO INITIAL LYMPHADENECTOMY
+ Year                       Low risk (Tis, Ta, T1a)                           High risk (T1b or above)
+ 1–2                        3-monthly                                         2-monthly
+ 3                          6-monthly                                         4-monthly
+ 4                          6-monthly                                         6-monthly
+ 5 onwards                  Annually                                          Annually
+
+
+ • Pattern: intensity front-loaded into years 1–2, when inguinal recurrence occurs; the two schedules converge
+   by year 4.
+
+Indications for Modified and Traditional Inguinal Procedures
+
+Modified Procedures
+ • In cN0 patients selected by adverse primary pathology, the goal is to establish whether metastasis exists
+   with minimal morbidity. Options: FNAC, node biopsy, sentinel node biopsy, extended sentinel dissection,
+   DSNB, superficial dissection, modified complete dissection.
+Fine-needle aspiration cytology
+ • Impalpable nodes (lymphangiography- or ultrasound-guided): limited sensitivity.
+ • Palpable nodes: easy, sensitivity up to 93%, and a positive result immediately directs treatment.
+
+
+
+
+                                                          page 18 of 31
+Chapter 82 — Tumours of the Penis                                                    TREATMENT OF THE INGUINAL NODES
+
+
+Sentinel lymph node biopsy and extended sentinel lymph node dissection
+ • Cabanas: lymphangiography showed consistent drainage to a sentinel node superomedial to the
+   saphenofemoral junction, near the superficial epigastric vein; if negative, no other node positive; if positive
+   → complete superficial and deep dissection.
+ • False negatives and non-sentinel metastases reported → anatomically directed biopsy is unreliable and no
+   longer recommended.
+Dynamic sentinel node biopsy
+ • Precise sentinel localisation with the lowest morbidity of any surgical staging: vital blue dye or fluorescein
+   plus hand-held gamma probe intraoperatively.
+ • Netherlands Cancer Institute evolution: initial false-negative rate about 18% → modifications:
+    ◦ Pre-operative inguinal ultrasound ± FNAC (subtle architectural change can divert lymph flow; positive
+      FNAC → immediate dissection, bypassing DSNB).
+     ◦ Serial sectioning and cytokeratin immunohistochemistry of sentinel nodes.
+     ◦ Exploration of groins with low or no signal.
+ • Two-centre update (Netherlands Cancer Institute and St George's, London): false-negative rate about 7%.
+   Systematic review: false-negative 3.5–22%; minor complications 1–20%, major 0–7%.
+ • Guidelines: at high-volume centres with a standard protocol, sensitivity is acceptable. National
+   Comprehensive Cancer Network (NCCN) and EAU-ASCO recommend DSNB; EAU-ASCO names it the
+   preferred option.
+Superficial and fascia-sparing complete inguinal dissection
+ • Superficial ILND (SILND): removes nodes superficial to fascia lata; if frozen section positive → complete
+   ipsilateral ilioinguinal dissection. Rationale: deep nodes are not involved unless superficial nodes are;
+   negative SILND → no recurrence in follow-up → no pelvic dissection needed if negative.
+ • Fascia-sparing ILND (FS-ILND): superficial boundaries plus removal of nodes and fascia from the femoral
+   vessels within the fossa ovalis; excellent disease-free survival in pN0–pN1, good in pN2 with adjuvant
+   therapy.
+ • Disadvantage: higher per-groin complications than DSNB (about a quarter vs about one-seventh).
+ • Advantages: more information than a single node; no risk of missing the sentinel (all first-echelon nodes
+   removed); no specialised equipment.
+ • Guideline-endorsed alternatives when DSNB is unavailable or not preferred.
+Minimally invasive inguinal lymphadenectomy
+ • Laparoscopic and robotic: longer operating time, equivalent nodal yield and recurrence, markedly fewer
+   complications (especially skin) than open.
+ • Evidence almost entirely in cN0; oncological results in higher-stage disease await validation. EAU-ASCO:
+   acceptable for high-risk cN0 when DSNB is not feasible or preferred.
+Radical inguinal and ilioinguinal lymphadenectomy
+ • In resectable metastatic adenopathy, therapeutic value justifies morbidity. Open complications: wound
+   infection, skin necrosis, lymphoedema, lymphocele, lymphorrhoea.
+ • Goals: eradicate all gross cancer, cover exposed vessels, rapid healing (primary closure or myocutaneous
+   flap).
+ • EAU-ASCO: cN1 → FS-ILND or radical ILND (R-ILND); cN2 or more → R-ILND. Spare the saphenous vein
+   whenever oncologically feasible.
+
+
+
+
+                                                      page 19 of 31
+Chapter 82 — Tumours of the Penis                                                                TREATMENT OF THE INGUINAL NODES
+
+
+
+TABLE 82.13 RADICAL (R-ILND), FASCIA-SPARING (FS-ILND) AND SUPERFICIAL (SILND) INGUINAL LYMPH NODE
+DISSECTIONS — MODIFIED FROM BROUWER ET AL., EAU-ASCO GUIDELINE
+                     R-ILND                                  FS-ILND                              SILND
+ Superior            External ring to anterior superior iliac spine (all)
+ Lateral             ASIS to 20 cm inferior                  ASIS to 20 cm inferior               ASIS to 17 cm inferior
+ Medial              15 cm down from pubic tubercle          15 cm                                12 cm
+ Inferior            Apex of femoral triangle                Apex of femoral triangle             2–3 cm above apex
+ Floor               Sartorius, adductor longus              Sartorius and adductor longus        Muscle fascia and fascia over
+                     muscles, femoral vessels                fascia, femoral vessels              femoral vessels
+ Fascia preserved No                                         On muscles; fossa ovalis fascia      On muscles and over femoral
+                                                             and deep nodes taken                 vessels
+ Saphenous           No                                      Yes                                  Yes
+ spared
+ Sartorius           Yes                                     No                                   No
+ transposed
+
+
+ • Pattern: the three differ at the floor — R-ILND goes to muscle and vessels; FS-ILND stays on muscle fascia but
+   clears the fossa ovalis; SILND leaves all fascia and stops short of the triangle apex.
+ • Trap: FS-ILND removes deep nodes within the fossa ovalis; SILND does not.
+
+COMPARISON — INGUINAL STAGING AND TREATMENT PROCEDURES
+ Procedure                            Setting                          Morbidity        Status
+ DSNB (with ultrasound ± FNAC)        High-risk cN0                    Lowest           Preferred (EAU-ASCO) at experienced
+                                                                                        centres
+ SILND / FS-ILND                      High-risk cN0; FS-ILND also Intermediate          Alternative; any experienced surgeon
+                                      cN1
+ Laparoscopic / robotic ILND          High-risk cN0                    Lower than       Acceptable alternative; cN+
+                                                                       open             unvalidated
+ Anatomical sentinel biopsy           —                                Low              Abandoned — unreliable
+ (Cabanas)
+ R-ILND                               cN1 (option), cN2+               Highest          Standard therapeutic operation
+
+
+Unilateral versus bilateral dissection
+ • Lymphatic crossover → bilateral drainage is the rule. The contralateral side may be limited to a superficial
+   dissection if frozen section is negative.
+Pelvic lymphadenectomy
+ • No pelvic skip metastases when inguinal nodes are negative.
+ • Low pelvic risk with one or two small positive inguinal nodes, no ENE, size under 3.5 cm → pelvic
+   lymphadenectomy (PLND) can be avoided.
+ • Positive pelvic nodes: 5-year disease-specific survival (DSS) far worse (under one-fifth vs about 60%); about
+   14% across series → PLND has little proven therapeutic value but is an effective staging tool to select
+   adjuvant chemotherapy or radiotherapy.
+ • Pelvic metastases proven before surgery → neoadjuvant chemotherapy then surgery in responders.
+ • Boundaries: common iliac bifurcation (superior), Cloquet's node (inferior), genitofemoral nerve (lateral),
+   bladder (medial).
+ • Distribution of positive pelvic nodes: external iliac commonest, then obturator; common and internal iliac
+   uncommon; presacral none.
+
+                                                            page 20 of 31
+Chapter 82 — Tumours of the Penis                                                                    TREATMENT OF THE INGUINAL NODES
+
+
+ • Open or minimally invasive; open preferred for clinically positive nodes.
+
+Minimising Complications and Perioperative Care
+ • Complication rate tracks the amount of nodal tissue removed:
+    ◦ R-ILND: overall most patients; commonest surgical site infection, skin/flap necrosis, seroma, dehiscence,
+      lymphoedema.
+     ◦ SILND / FS-ILND: intermediate; skin necrosis, seroma, lymphoedema.
+     ◦ Laparoscopic / robotic: about a quarter to a third; infection, seroma, lymphocele, dehiscence.
+     ◦ DSNB: major complications under 7%.
+
+TABLE 82.14 IMPACT OF PRE-, INTRA- AND POSTOPERATIVE FACTORS ON COMPLICATIONS AFTER INGUINAL LYMPH NODE
+SURGERY — MODIFIED FROM BROUWER ET AL., EAU-ASCO GUIDELINE
+ Decrease complications                                                     Increase complications          Uncertain effect
+ Transverse linear incisions                                                S- or T-shaped incisions        Wound vacuum
+ Saphenous vein sparing                                                     Date-controlled drain           dressings
+ Volume-controlled drain removal                                            removal                         Fibrin glue
+ Minimally invasive techniques                                              Sartorius transposition         Advanced bipolar
+ Lymphoedema prevention                                                     Increased BMI                   device
+ Deep venous thrombosis prophylaxis                                         Increased disease burden
+ Surgical site infection prevention (antibiotics, shaving, skin             Sarcopenia
+ preparation)
+
+
+ • Pattern: each harmful factor has its paired opposite — transverse vs S/T incision; drain by volume vs by date.
+ • Trap: sartorius transposition, a classic step of radical ILND, increases complications; vacuum dressings and
+   fibrin glue are unproven.
+
+Risk-Based Management of the Inguinal Region
+ • Assumptions: primary controlled, pathological T stage known, groins examined; CT abdomen/pelvis and chest
+   imaging as indicated.
+
+TNM Stages PeIN, Ta, T1a — Low Risk (Fig. 82.4A)
+  Impalpable groins → observe (compliant patients). Palpable node → node biopsy (FNAC or core ± ultrasound)
+  → negative: antibiotics or observation; if node persists or grows → excisional biopsy → positive at any step:
+  ipsilateral ILND (superficial + deep) with contralateral SILND on frozen section, FS-ILND or DSNB (experienced
+  centres) → ipsilateral PLND if more than two positive nodes or ENE → adjuvant therapy as indicated.
+
+TNM Stages T1b or Greater — High Risk (Fig. 82.4B)
+ • Consensus: poorly differentiated, LVI, PNI or pT2 or above → surgical staging even with normal groins.
+  Impalpable groins → bilateral DSNB (or SILND, FS-ILND or minimally invasive ILND) → both negative: observe;
+  either side positive (permanent sections, second sitting): ipsilateral ILND; PLND optional, by pathology (more
+  than two nodes or ENE).
+  Unilateral mobile node under 4 cm → node biopsy → positive: ipsilateral ILND or FS-ILND ± pelvic dissection
+  (frozen section) + contralateral superficial dissection, FS-ILND or DSNB; negative: excisional biopsy.
+  Bilateral mobile nodes under 4 cm → pre-operative needle biopsy (counselling on extent and timing) →
+  negative: excisional biopsy → negative: observe; positive: either bilateral ilioinguinal dissection then adjuvant
+  therapy, or neoadjuvant chemotherapy then surgery.
+ • 4 cm is the arbitrary cut-off for surgery as monotherapy — nodes above 4 cm carry more ENE.
+ • Adjuvant therapy considered if more than two positive nodes, bilateral metastases, ENE or positive pelvic
+   nodes.
+
+
+                                                            page 21 of 31
+Chapter 82 — Tumours of the Penis                                                                  RADIATION THERAPY
+
+
+
+Bulky Adenopathy and Fixed Nodal Metastasis (Fig. 82.4C)
+ • Survival depends on complete eradication — rarely achievable by any single modality; surgery plus
+   chemotherapy shows benefit.
+ • Expanded MD Anderson neoadjuvant series (mostly paclitaxel, ifosfamide, cisplatin [TIP]): about two-thirds
+   responded; 5-year survival stratified by response — highest with complete/partial remission, intermediate
+   with stable disease, lowest with progression; a minority rendered pN0; long-term survival tied to
+   chemotherapy response and favourable post-resection pathology.
+ • Response improves resectability and survival; surgery in non-responders occasionally cures but usually
+   precedes rapid locoregional or distant relapse.
+ • Palliative groin dissection rarely palliates; endoluminal vascular stents give transient protection against
+   femoral erosion.
+ • Chemoradiation for cisplatin-ineligible patients: phase II mitomycin + capecitabine + radiotherapy in stage
+   IV M0 → most responded on FDG-PET/CT, over one-third completely.
+ • International Penile Advanced Cancer Trial (InPACT; EA 8134; NCT02305654): neoadjuvant chemotherapy →
+   ILND vs neoadjuvant chemoradiotherapy → ILND in advanced regional disease; will give high-level evidence.
+  Fixed nodes, mobile nodes 4 cm or more, or pelvic nodes (after imaging) → cisplatin-eligible? Yes: induction/
+  neoadjuvant chemotherapy → responsive or stable → ilioinguinal resection of all residual disease;
+  progressive → clinical trial, palliative chemotherapy, radiation to affected side → further progression →
+  hospice. No: radiotherapy ± chemotherapy (chemoradiation) → responsive or stable → ilioinguinal resection;
+  progressive → clinical trial or palliation → hospice.
+
+   KEY POINTS: TREATMENT OF THE INGUINAL NODES
+    • Presence and extent of inguinal metastasis determine survival.
+    • Persistent palpable adenopathy → ultrasound- or CT-guided biopsy, then scenario-appropriate
+      management.
+    • In impalpable groins, risk from the primary (TNM) selects DSNB, superficial/open or minimally invasive
+      ILND, or close follow-up.
+    • High cure: ≤2 inguinal nodes, unilateral, no ENE, no pelvic nodes; higher volumes → adjuvant or
+      neoadjuvant therapy.
+    • Morbidity has fallen: fewer radical resections, better peri-operative care.
+    • SILND, FS-ILND and minimally invasive ILND reliably detect micrometastasis without special facilities but
+      are more morbid than DSNB.
+    • Modified DSNB: low morbidity, externally validated at high-volume centres, preferred staging for cN0
+      where feasible.
+    • Laparoscopic/robotic ILND: open-equivalent yields in cN0; not yet routine for cN+.
+    • FS-ILND and R-ILND remain standard for palpable (cN+) disease.
+    • PLND when more than two inguinal nodes are positive or ENE is present.
+
+Concept — Because penile SCC lingers in the groin before it spreads, the node is both the prognosis and the
+cure: everything in this section trades the survival gain of operating on small-volume nodes early against the
+morbidity of operating on negative groins — and TNM risk plus DSNB is the device that lets the surgeon win both.
+
+
+RADIATION THERAPY
+
+Radiation Therapy of the Penile Primary
+ • Curative potential with preservation of form and function; surgical salvage remains curative for recurrence
+   → reasonable first strategy in selected patients.
+
+
+                                                    page 22 of 31
+Chapter 82 — Tumours of the Penis                                                                       RADIATION THERAPY
+
+
+ • External-beam radiotherapy (EBRT) or interstitial brachytherapy.
+ • Circumcision before radiotherapy is necessary: exposes the lesion, allows surface infection to settle, prevents
+   preputial oedema and later phimosis, and may debulk the tumour.
+
+External-Beam Radiotherapy
+ • Advantages: widely available, homogeneous dose, no interventional skill required.
+ • Contemporary dose: 60 Gy in 25 fractions (5 weeks) to 74 Gy in 37 fractions (7.5 weeks); older series used
+   50–55 Gy.
+ • Set-up: supine; penis held vertical in a bivalved wax or Perspex block with a central cylindrical chamber;
+   minimal air gaps; larger chamber if oedema develops.
+ • Skin dose problem: megavoltage beams spare the skin, but penile cancer is cutaneous → the tissue-
+   equivalent block acts as bolus, delivering full dose to the surface.
+ • Results: 5-year local control 44–70%; penile preservation about 40–66%; EAU-ASCO pooled 5-year
+   recurrence-free rate about 55% → at least an even chance of avoiding amputation; salvage by partial or
+   total amputation in most failures; cause-specific survival 58–96% by T and N.
+ • Predictors of better control: dose above 60 Gy, overall time 45 days or less, fraction size at least 2 Gy. Worse
+   control: T3, over 4 cm, high grade.
+ • → Minimum tumour dose 66 Gy in 2-Gy fractions over 6.5 weeks. Hypofractionation (over 2 Gy per fraction)
+   may increase toxicity.
+ • Used most in patients unfit for surgery (age, comorbidity) or with locoregionally advanced disease (primary
+   treated in continuity with both groins and pelvis); may be combined with weekly cisplatin radiosensitisation
+   (as in head and neck and cervix).
+
+Brachytherapy
+ • Iridium-192 via a temporary parallel array of interstitial needles through and around the tumour.
+
+COMPARISON — BRACHYTHERAPY DOSE-RATE MODES
+ Mode             Delivery                             Typical schedule                   Outcome
+ Low dose         Manually loaded Ir-192 wire/         About 60 Gy over about 5 days      Best-established; highest
+ rate (LDR)       seeds; 50–60 cGy/hour                                                   pooled control
+                  continuous
+ Pulsed dose      Automated afterloader; hourly        As LDR                             Radiobiologically equivalent
+ rate (PDR)       pulse = LDR hourly dose                                                 to LDR
+ High dose        10 Ci Ir-192 afterloader; catheter   Twice daily 3–4.3 Gy, ≥6 hours     Similar to LDR/PDR; wider
+ rate (HDR)       scaffold                             apart; 45–51 Gy over 7–8 days      availability, convenience
+ Surface          Ir-192 in a mould or cylindrical     LDR era: 60 Gy surface over 7–10   Short-term data only
+ mould            applicator worn on the penis         days; HDR: 40 Gy in 5 days, 4 Gy
+                                                       twice daily
+
+
+Low-dose-rate brachytherapy
+ • Institut Gustave Roussy (LDR and PDR, over four decades): local recurrence under one-fifth; dose under 62
+   Gy → local failure; tumour over 4 cm → worse disease-free survival.
+ • Late toxicity drivers: dose over 60 Gy and treatment volume over 25 cc → meatal stenosis; dose over 65 Gy
+   and dose rate over 0.43 Gy/hour → painful ulceration.
+ • Penile preservation at 5 years about 85–88%, falling to about two-thirds at 10 years.
+ • Local failure can be very late — most within 2 years, but some at 3.5–7.5 years and up to 23 years; yet
+   salvage penectomy needed in only about 3%.
+
+
+
+
+                                                          page 23 of 31
+Chapter 82 — Tumours of the Penis                                                                        RADIATION THERAPY
+
+
+ • Nodes still matter: before 2002, no prophylactic dissection → half of moderately or poorly differentiated
+   tumours recurred regionally or distantly. Now nodal indications mirror primary surgery — all pT1b or above
+   get surgical nodal staging; biopsy supplies grade and LVI when the primary is not resected.
+ • LDR local control appears superior to EBRT (EAU-ASCO pooled 5-year relapse-free rate about 79%) — but
+   selection bias: brachytherapy is chosen only for T1–T2, glans-confined, under 4 cm.
+ • Wider needle spacing (12–18 mm) reduced local failure (wider lateral margin); with this, size did not predict
+   failure, though others found failure above 4 cm and with corporal invasion.
+High-dose-rate interstitial brachytherapy
+ • Established in breast, prostate, and essential in cervix; technique as LDR with a catheter scaffold.
+ • Limited cumulative experience; penile preservation about 70–86% at 5 years. Largest mature series: median
+   about 49 Gy after biopsy (36 Gy after gross excision), 5-year local control about three-quarters, preservation
+   about 70% → comparable to LDR/PDR.
+
+Surface Mould Brachytherapy
+ • For non-invasive or very superficial tumours: rapid dose fall-off with depth.
+ • Careful selection: depth is hard to judge clinically or radiologically, and a dose margin (analogous to a surgical
+   margin) is needed.
+ • HDR revival: three-dimensional-printed custom moulds or cylindrical applicators; sources set off the skin to
+   limit skin dose while reaching depth; suits recurrence after laser or topical therapy.
+ • Reaction peaks about 3 weeks, heals over 6–10 weeks; small series only, no long-term data.
+
+TABLE 82.15 SELECTED SERIES REPORTING LOCAL CONTROL, CANCER-SPECIFIC SURVIVAL, COMPLICATIONS AND PENILE
+PRESERVATION AFTER PRIMARY EBRT OR BRACHYTHERAPY
+                                        5-year local   5-year cancer-                                     Penile
+ Modality             Dose              control        specific survival   Late toxicity                  preservation
+ EBRT (8 series)      35–74 Gy; 1.8–    44–70%         58–96%              Stenosis up to about 30%;      39–66%
+                      3.5 Gy/fraction                                      necrosis under 10%
+ LDR / PDR         50–70 Gy             About 65–      72–91%              Necrosis/ulceration up to       About 65–
+ (about 15 series)                      90%                                about 40%; stenosis up to about 100%
+                                                                           50%
+ HDR (6 series)       36–54 Gy, twice   About 73–      83–100%             Necrosis and stenosis low      65–100%
+                      daily             100%                               (about 0–10%)
+
+
+ • What it is for: brachytherapy buys better control and preservation at the price of more local soft-tissue
+   toxicity; EBRT preserves less but is used for larger, less selected tumours.
+ • Trap: the brachytherapy advantage is partly selection (small glans tumours).
+
+Tolerance of Radiotherapy
+Acute effects
+ • Moist desquamation expected, more extensive after EBRT (larger volume); re-epithelialisation in 4–8 weeks;
+   saline soaks and hygiene.
+ • Intercourse when comfortable, with water-based lubricant.
+Late effects
+ • Commonest: meatal stenosis and soft-tissue ulceration.
+ • Ulceration: text quotes 0–8% after EBRT and 0–26% after interstitial therapy; individual brachytherapy series
+   in Table 82.15 report up to about 40% (definitions and grading differ). Persistent ulcer raises recurrence
+   concern → biopsy may be needed, but radiation ulcers are flat and superficial without raised or exophytic
+
+
+
+
+                                                         page 24 of 31
+Chapter 82 — Tumours of the Penis                                                                  RADIATION THERAPY
+
+
+   edge; most heal conservatively (slower in diabetes and originally deep tumours) → antibiotics, vitamin E,
+   steroid creams → hyperbaric oxygen if resistant.
+ • Meatal stenosis in 10–45%: linked to high dose per fraction (EBRT) or close needle spacing near the meatus
+   (brachytherapy); late, 18–24 months, heralded by a weak, deviated or split stream → self-dilatation with a
+   meatal dilator; otherwise stricture needing formal dilatation, rarely urethroplasty.
+ • Sexual quality of life: effects modest — most sexually active patients remain active; erections largely
+   maintained, though many notice altered glans sensitivity; erectile dysfunction mild.
+ • Brachytherapy spares more shaft → better erectile preservation than EBRT; being more conformal, its
+   salvage is more often partial than total penectomy.
+ • Multidisciplinary tertiary assessment is essential; extended follow-up and self-examination — up to one in
+   five local recurrences occur after 5 years, salvageable without survival cost.
+ • Summary: T1–T2 under 4 cm with no or minimal extension beyond the coronal sulcus suit brachytherapy;
+   better control and preservation with faster delivery (4–5 days vs 6–7 weeks); choice also depends on team
+   expertise.
+
+  EBRT                                                        Brachytherapy
+  Available, homogeneous, needs bolus; 6–7 weeks;             Skill-dependent; 4–5 days; T1–T2 glans <4 cm; ~79%
+  larger/advanced tumours or unfit patients; ~55%             relapse-free; better preservation; more local
+  relapse-free; less erectile preservation.                   ulceration/stenosis.
+
+
+Radiation Treatment of Lymph Node Regions
+ • Surgical staging, not "prophylactic" groin radiotherapy, is recommended for high-risk cN0 (EAU-ASCO, NCCN)
+   → treatment tailored to actual pathology.
+ • Surgery for resectable adenopathy also yields node count and ENE.
+
+Inguinal Radiotherapy
+ • Adjuvant radiotherapy for node-positive penile SCC is controversial: no level 1 evidence; not recommended
+   in prior guidelines; used by extrapolation from head and neck, cervix, vulva and anal canal.
+ • Supporting data: National Cancer Database stage III patients after ILND — adjuvant radiotherapy improved
+   OS; multicentre series — omitting adjuvant pelvic radiotherapy after positive PLND worsened OS and DSS.
+ • More than two positive nodes, negative pelvis: adjuvant radiotherapy gave longer OS than adjuvant
+   chemotherapy, with no in-field failures despite frequent ENE — at 54 Gy for ENE, 57–60 Gy for gross
+   residual.
+ • Dose is critical: at 50 Gy in-field failures were frequent and benefit confined to ENE-negative patients; in pN3,
+   in-field failure doubled at 50 Gy or less. Genomic modelling suggests higher doses are needed for primary
+   and nodes.
+ • HPV-positive patients benefit from adjuvant radiotherapy (OS gain maintained on propensity matching; not
+   seen with adjuvant chemotherapy).
+
+Pelvic Radiotherapy
+ • PLND recommended for high-risk groin pathology (N2–N3) but not practised everywhere; Danish inguinal-
+   pelvic chemoradiotherapy (all ENE, most bilateral) gave encouraging median OS.
+ • InPACT randomises high-risk groin pathology to chemoradiotherapy vs PLND then chemoradiotherapy.
+
+Radiation Combined With Sensitising Agent
+ • HPV/p16 status may predict chemoradiotherapy responsiveness (as in head and neck): node-positive p16-
+   positive patients had much better locoregional control after post-LND chemoradiotherapy; regardless of HPV,
+   adjuvant chemoradiotherapy improved 2-year locoregional control.
+ • Adjuvant chemoradiotherapy improved cancer-specific survival (CSS) at 1–2 years despite worse selected
+   patients (more nodes, pN3, ENE) — OS equalled that of more favourable untreated patients.
+
+
+                                                    page 25 of 31
+Chapter 82 — Tumours of the Penis                                                          SYSTEMIC THERAPY FOR PENILE CANCER
+
+
+ • InPACT: about 200 node-positive patients (UK and North America) randomised to sequencing of surgery,
+   neoadjuvant chemotherapy and chemoradiation.
+ • Recommendation (from vulvar cancer): adjuvant ipsilateral groin radiotherapy for two or more positive
+   nodes or ENE; dose at least 50 Gy/5 weeks, 54 Gy for ENE, 57–60 Gy for residual disease; include the pelvis
+   unless pelvic nodes are known clear. HPV-positive patients may gain more.
+ • Palliative radiotherapy helps painful bone metastases and cord compression; a short 5–10-fraction course is
+   poor for bulky or fixed groin nodes → consider cisplatin plus radiotherapy if glomerular filtration rate (GFR)
+   over 50 mL/min.
+ • Summary: groin radiotherapy is not prophylaxis (unless unfit for surgery); it is adjuvant for multiple nodes or
+   ENE; chemoradiotherapy may convert inoperable disease or be definitive.
+  Fig. 82.5 8 years after LDR brachytherapy (60 Gy over 5 days) for T2N1 SCC with concurrent node dissection:
+  hypopigmented scar, minor telangiectasia. Fig. 82.6 5 years after HDR brachytherapy (38.4 Gy, 3.2 Gy twice daily for 6
+  days) after circumcision and excision with positive margins (T1, 8-mm invasion). Fig. 82.7 Moist desquamation 3 weeks
+  after HDR surface mould (40 Gy, 4 Gy twice daily) for CIS. Fig. 82.8 Inoperable left inguinal nodes: weekly cisplatin 40 mg/
+  m² with volumetric modulated arc therapy — 45 Gy/25 fractions to pelvic nodes, 63 Gy/35 fractions to left groin → PET-CT
+  clear at 4 months; no leg oedema at 2 years.
+
+   KEY POINTS: RADIATION THERAPY
+    • Radiation is an effective penile-preserving option; brachytherapy for T1–T2 under 4 cm; EBRT also for
+      larger or locoregionally advanced tumours ± sensitising chemotherapy.
+    • One in five recurrences occurs after 5 years → continued follow-up; salvage penectomy may cure.
+    • Nodal staging criteria are identical after primary radiotherapy or surgery.
+    • pN2–N3 may benefit from adjuvant radiotherapy with dose escalation to ENE and residual disease.
+    • Unresectable nodes may become operable after neoadjuvant chemotherapy or chemoradiation.
+    • Integration being tested in InPACT (EA 8134). Palliative radiotherapy helps metastatic disease.
+
+Concept — Radiotherapy trades dose against tissue tolerance at a cutaneous target: skin must be fully dosed
+(bolus, circumcision), local control follows total dose and overall time, toxicity follows dose per fraction and
+volume — and none of it removes the need to stage the groin surgically.
+
+
+SYSTEMIC THERAPY FOR PENILE CANCER
+ • No completed randomised trials; retrospective and phase II data show meaningful responses to platinum-
+   based regimens.
+ • Most active: triplets — TIP and docetaxel, cisplatin, 5-FU (TPF); doublets (cisplatin + 5-FU, paclitaxel +
+   carboplatin) may be less toxic but lack prospective efficacy data.
+ • Two figures for triplet survival: the text quotes median OS of 7–14 months for triplets; Table 82.16 gives 17.1
+   months for TIP. The difference is the setting — the TIP figure comes from the neoadjuvant N2–N3 M0
+   population, the lower range from locally advanced or metastatic disease.
+
+
+
+
+                                                         page 26 of 31
+Chapter 82 — Tumours of the Penis                                                            SYSTEMIC THERAPY FOR PENILE CANCER
+
+
+
+TABLE 82.16 SAFETY AND EFFICACY OF MULTIDRUG PENILE CANCER REGIMENS WITHOUT BLEOMYCIN
+                                                                                                   Median     Treatment
+ Regimen (study)         Drugs and schedule                    Setting                 Response    OS         deaths
+ TIP — Pagliaro 2010 Paclitaxel 175 mg/m² d1;                  Neoadjuvant, N2–N3      50%         17.1 mo    None
+ (landmark)          ifosfamide 1200 mg/m² d1–3;               M0 (phase II)
+                     cisplatin 25 mg/m² d1–3; q3w
+ TPF                     Docetaxel 75 mg/m² d1; cisplatin Locally advanced/            38.5%       13.9 mo    None;
+                         60 mg/m² d1; 5-FU 750 mg/m²/day metastatic (phase II)                                significant
+                         d1–5; q3w                                                                            toxicity
+ Cisplatin + 5-FU        5-FU 800–1000 mg/m²/day d1–4          Retrospective           32%         8 mo       None
+ (retrospective)         infusion; cisplatin 70–80 mg/m²
+                         d1; q3w
+ Irinotecan +            Irinotecan 60 mg/m² d1, 8, 15;        Phase II                About       4.7 mo     None
+ cisplatin               cisplatin 80 mg/m² d1; q4w                                    31%
+
+
+ • What it shows: taxane-plus-cisplatin triplets give the highest response rates; TIP is the only regimen with
+   data in the neoadjuvant setting.
+ • Trap: the table deliberately excludes bleomycin — its toxicity is unacceptable.
+
+Neoadjuvant Chemotherapy
+ • Bulky nodes = extensive lymphatic disease; few are cured by surgery alone. Neoadjuvant therapy treats
+   systemic disease early and downsizes nodes → complete resection in responders.
+ • Pagliaro et al. (2010) — landmark phase II: four cycles of neoadjuvant TIP for clinical N2–N3: objective
+   response rate (ORR) 50%, a few pathological complete responses, median time to progression about 8
+   months, median OS 17.1 months; long-term disease-free survival in about two-thirds of responders vs very
+   few non-responders. → Neoadjuvant TIP for cisplatin-eligible patients with high-risk inguinal nodes or any
+   pelvic nodes.
+ • TPF: phase II missed its primary end point with significant toxicity; neoadjuvant TPF gave poor progression-
+   free survival and frequent discontinuation for toxicity → may be too difficult for some.
+ • Meta-analysis of neoadjuvant studies: pooled ORR about half, overall mortality about half. No standard
+   regimen; evidence favours cisplatin-plus-taxane.
+ • Summary: neoadjuvant cisplatin-containing chemotherapy is active for unresectable primaries or bulky
+   nodes in fit patients, enabling curative resection.
+
+Adjuvant Chemotherapy
+ • Historical Milan (Pizzocaro) VBM — vincristine, bleomycin, methotrexate, 12 weekly courses in high-risk
+   node-positive patients: very few relapses; adjuvant VBM roughly doubled 5-year survival vs surgery alone.
+   Unconfirmed and will not be re-studied because of bleomycin and methotrexate toxicity.
+ • Pelvic-node-positive retrospective series (TIP, TPF, bleomycin–methotrexate–cisplatin, VBM): adjuvant
+   chemotherapy associated with about a year's survival advantage and lower all-cause mortality —
+   confounded; needs prospective confirmation.
+ • National Cancer Database: no survival difference after adjustment.
+ • Bottom line: no strong evidence that adjuvant chemotherapy improves OS; relapse-free survival poorly
+   studied; benefit likely greatest in pN3, especially pelvic node involvement → balanced discussion.
+
+  Neoadjuvant chemotherapy                                           Adjuvant chemotherapy
+  Phase II evidence (TIP); response predicts resectability           Retrospective, conflicting; no proven OS gain;
+  and survival; favoured for bulky/fixed or pelvic nodes.            consider in pN3 / pelvic nodes.
+
+
+
+
+                                                           page 27 of 31
+Chapter 82 — Tumours of the Penis                                                            SYSTEMIC THERAPY FOR PENILE CANCER
+
+
+
+Palliative Systemic Therapy
+
+Chemotherapy
+ • Platinum-based first line is preferred; triplet vs doublet and cisplatin vs carboplatin chosen by comorbidity.
+ • TPF and TIP each combine two neurotoxic drugs → unsuitable with pre-existing neuropathy or low GFR.
+   Paclitaxel–carboplatin extrapolated from other SCC sites.
+ • First-line chemotherapy roughly triples median OS versus best supportive care (months, not years).
+ • Vinflunine single agent (prospective; Eastern Cooperative Oncology Group [ECOG] performance status ≤2,
+   GFR ≥60 mL/min): modest response, median OS about 8 months, manageable toxicity.
+ • Paclitaxel second line: modest ORR, median OS about 5 months.
+ • Second-line chemotherapy is minimally effective: median OS 6 months or less; single-agent vinflunine or
+   taxane is an alternative to platinum but less effective.
+
+Immunotherapy
+ • Checkpoint blockade, HPV-directed vaccines, adoptive T-cell therapy under study; rationale: relatively high
+   PD-L1 expression.
+ • Checkpoint inhibitor trials: low response rates (about one in six); basket trials (nivolumab + cabozantinib ±
+   ipilimumab; ipilimumab + nivolumab) included few penile patients with occasional partial response or stable
+   disease.
+ • Routine checkpoint inhibition is not supported; chemotherapy-exposed patients belong in early-phase
+   basket trials.
+
+Targeted Therapies
+ • Beyond first line, options are limited; actionable alterations are rare.
+ • Epidermal growth factor receptor (EGFR) targeting (as in other SCC): sporadic palliative responses to
+   cetuximab and panitumumab; dacomitinib (oral pan-HER inhibitor) phase II: response in about one-third,
+   one complete response.
+
+COMPARISON — SYSTEMIC AGENTS BY CLASS AND LINE
+                                                                  Target /
+ Class               Agents                                       mechanism       Line                      Status
+ Platinum triplet    TIP, TPF                                     Cytotoxic       Neoadjuvant; first-line   Most active
+                                                                                  palliative
+ Platinum            Cisplatin + 5-FU; paclitaxel + carboplatin   Cytotoxic       First-line palliative     Less toxic; limited
+ doublet                                                                          (less fit)                data
+ Single agent        Vinflunine, paclitaxel                       Microtubule     Platinum-unfit or         Less effective
+                                                                                  second line
+ Bleomycin           VBM, BMP                                     Cytotoxic       Historical adjuvant       Discouraged —
+ regimens                                                                                                   toxicity
+ Anti-EGFR           Cetuximab, panitumumab (antibodies);         EGFR / HER      Refractory                Sporadic activity;
+                     dacomitinib (oral pan-HER)                   family                                    trials
+ Checkpoint          Nivolumab, ipilimumab (± cabozantinib)       PD-1 / CTLA-4   Refractory                Not routine; trials
+ inhibitors
+
+
+
+
+                                                           page 28 of 31
+Chapter 82 — Tumours of the Penis                                            NONSQUAMOUS PENILE MALIGNANT NEOPLASMS
+
+
+
+   KEY POINTS: CHEMOTHERAPY
+    • Neoadjuvant cisplatin-containing chemotherapy should be offered for bulky regional nodes —
+      response may allow curative resection; optimal multimodal strategy undefined without level 1 evidence.
+    • Patients unfit for or declining neoadjuvant chemotherapy may benefit from chemoradiation.
+    • Bleomycin is discouraged — unacceptable toxicity.
+    • Surgical consolidation for fit patients with objective response; consider in stable disease.
+    • Progression on chemotherapy = poor prognosis → trials or symptom-directed care.
+
+Concept — Systemic therapy in penile cancer earns its value by making surgery possible: response to
+neoadjuvant cisplatin-taxane chemotherapy is itself the prognostic selector for resection, whereas post-operative
+and later-line therapies have never shown a convincing survival gain.
+
+
+NONSQUAMOUS PENILE MALIGNANT NEOPLASMS
+ • About 5% of penile neoplasms (SCC 95%); evidence from case reports and small series — incidence,
+   pathology, treatment, and parallels to non-genital counterparts.
+ • Melanoma and basal cell carcinoma are rare because penile skin is sun-protected.
+
+Basal Cell Carcinoma
+ • Very rare on the penis (tiny fraction of male BCC); commonly proximal shaft near the base — contrast with
+   distal SCC.
+ • Slow growing, long diagnostic delay; local excision virtually always curative; Mohs used; metastasis
+   essentially unreported (single case).
+ • Fibroepithelioma of Pinkus: premalignant variant on the shaft; diagnosed and cured by excision.
+ • No consistent link with immunosuppression, other skin cancers or prior radiation.
+ • Mesenchymal (smooth or striated muscle, fibrous, fatty, vascular) malignancies are also rare; treatment from
+   case series.
+
+Melanoma
+ • More than 150 cases; under 1% of penile cancers.
+ • Blue-black or reddish-brown pigmented papule, plaque or ulcer on the glans (prepuce less often). Histology:
+   atypical junctional activity with pigmented cells displaced into the dermis.
+ • Clark (level) and Breslow (thickness) not prospectively validated on the penis; the AJCC cutaneous
+   melanoma system (incorporating both) was used in the largest series.
+ • Older series: distant spread in most; contemporary: early-stage node-negative tumours do well.
+ • Spread: haematogenous via corporal vasculature; lymphatic permeation to inguinal and pelvic nodes.
+ • Surgery is primary; radiotherapy and chemotherapy adjunctive or palliative.
+ • Historical: partial or total penectomy with en bloc bilateral ilioinguinal dissection for localised or single-region
+   disease.
+ • MD Anderson algorithm: foreskin → circumcision; glans → partial penectomy; glans-shaft → partial or total;
+   bilateral modified ILND if Breslow ≥1 mm, ulceration, or Clark IV–V. DSNB unproven but reasonable at
+   experienced centres.
+ • Mucosal-site melanoma (glans, meatus, fossa navicularis, distal urethra) looks more aggressive than
+   cutaneous, possibly from diagnostic delay; stage-matched outcomes are similar.
+ • Checkpoint immunotherapy has revolutionised recurrent/metastatic melanoma — adjuvant nivolumab after
+   resected stage IIIB–IV gave high 12-month recurrence-free survival → melanoma multidisciplinary team or
+   expert referral.
+
+
+                                                     page 29 of 31
+Chapter 82 — Tumours of the Penis                                         NONSQUAMOUS PENILE MALIGNANT NEOPLASMS
+
+
+
+Sarcomas
+ • Rare; benign and malignant mesenchymal tumours equally common; newborn to eighth decade; same
+   presentation for benign and malignant — mass, pain, enlargement, priapism, obstruction; may mimic a
+   Peyronie plaque.
+ • Malignant: proximal shaft; benign: distal. Commonest malignant: vascular (haemangioendothelioma), then
+   neural, myogenic, fibrous; case reports of malignant fibrous histiocytoma, angiosarcoma, leiomyosarcoma,
+   epithelioid sarcoma, osteosarcoma.
+ • Superficial (integumentary) → wide local excision or partial amputation; deep (corporal) → total amputation.
+   Local recurrence is characteristic.
+ • Leiomyosarcoma: under 2 cm → local resection; deeper → partial or total amputation; deep lesions at the
+   base have the worst prognosis.
+ • Regional and distant metastases rare → no node dissection unless palpable; aggressive local treatment aims
+   at cure. Radiotherapy and chemotherapy unassessed.
+
+Extramammary Paget Disease
+ • Rare; large series from China and Korea. Erythematous, eczematoid, well-demarcated — clinically
+   indistinguishable from EQ, BD or CIS; pruritus, discomfort, serosanguineous discharge; penis, scrotum,
+   perianal region, axilla — sites of apocrine glands.
+ • Paget cells: large, clear, hydropic cells with hypochromatic nuclei; cytokeratin 7, carcinoembryonic antigen
+   (CEA), gross cystic disease fluid protein positive; S-100 negative.
+ • Behaves as a slow intraepithelial apocrine adenocarcinoma; may invade and spread to nodes via dermal
+   lymphatics.
+ • Associated genitourinary malignancies (prostate, bladder, kidney) and others — nearly half had another
+   cancer, usually diagnosed before the EMPD → screen.
+ • Treatment: resect skin and dermis with up to 3 cm gross margin; frozen sections guide extent but false
+   negatives are common without dermatopathology.
+ • Outpatient mapping biopsies (sequential peripheral biopsies until all negative) → fewer positive margins and
+   lower local recurrence; positive margins → further resection; intraepidermal disease with negative margins
+   did not recur. Cover with local skin or scrotal flaps.
+ • Deep invasion → extended resection; inguinal adenopathy → radical node dissection, poor prognosis.
+   Chemotherapy (docetaxel–carboplatin neoadjuvant; cisplatin–epirubicin–paclitaxel for metastatic) shows
+   promise. Evidence-based multidisciplinary EMPD guideline now exists (diagnosis, malignancy screening,
+   intraepidermal and invasive disease, non-surgical options, metastatic disease, follow-up).
+
+Adenosquamous Carcinoma
+ • Glandular plus squamous elements independent of urethral glands; large (5–9 cm) firm grey-white granular
+   exophytic mass of distal shaft or glans; mucin- and CEA-positive glands.
+ • Case-level: local excision ± limited dissection with long survival; total penectomy with delayed ILND and PLND
+   (pT2N3) disease-free at 5 years; one p16/hrHPV-positive case cured by definitive chemoradiation.
+
+Lymphoreticular Malignant Neoplasm
+ • "Primary" penile lymphoma is probably a misnomer — usually an early sign of systemic disease; the penis
+   has no lymphoid tissue → mandatory search for systemic disease.
+ • Leukaemic corporal infiltration → priapism.
+ • Commonest: diffuse large B-cell lymphoma; presents as penile lump or priapism; other sites nodes, lung,
+   liver, brain.
+ • Systemic therapy even if the penis is the only site — commonly rituximab, cyclophosphamide, doxorubicin,
+   vincristine, prednisone (R-CHOP) — treating local disease, occult deposits, and preserving form and function.
+
+
+                                                   page 30 of 31
+Chapter 82 — Tumours of the Penis                                                     NONSQUAMOUS PENILE MALIGNANT NEOPLASMS
+
+
+
+Metastases
+ • Rare (a few hundred cases) despite rich vascular and lymphatic supply; commonest sources: bladder,
+   prostate, rectum; also gastrointestinal tract, testis, kidney.
+ • Routes: direct extension, retrograde venous and lymphatic transport, arterial embolism.
+ • Commonest sign: priapism (replacement of one or both corpora cavernosa); also swelling, nodularity,
+   ulceration, obstruction, haematuria; cutaneous, preputial or glanular deposits less common.
+ • Differential: idiopathic priapism, venereal or infective ulcers, tuberculosis, Peyronie plaque, primary tumours.
+ • Signals advanced disease: usually appears soon after diagnosis of the primary; most die within a year
+   (median survival months). Prostatic-origin metastases (often ductal features) survive longer, treated with
+   radiotherapy and androgen deprivation → histology guides therapy and prognosis.
+ • Palliation: excision by partial or total amputation for solitary or distal disease; proximal corporal invasion →
+   cure unlikely; penectomy for intractable pain; MRI maps proximal extent and satellites; dorsal nerve section
+   and suprapubic cystostomy for pain and drainage; systemic therapy for the primary histology, trials or
+   hospice.
+
+COMPARISON — NONSQUAMOUS PENILE MALIGNANCIES
+ Tumour        Typical site / sign   Spread                        Treatment                         Prognosis
+ BCC           Proximal shaft,       Almost never                  Local excision / Mohs             Excellent
+               near base             metastasises
+ Melanoma Glans, pigmented           Haematogenous                 Excision by site; ILND by Breslow/ Stage-dependent
+                                     (corpora) and lymphatic       ulceration/Clark; immunotherapy
+ Sarcoma       Proximal shaft        Local recurrence;             Wide excision or amputation; no   Worst for deep basal
+               (malignant)           metastasis rare               routine node dissection           lesions
+ EMPD          Penoscrotal           Intraepidermal first;         Wide excision, mapping biopsies   Good if intraepidermal;
+               eczematoid            dermal lymphatics                                               invasive can be lethal
+               plaque
+ Lymphoma Lump or priapism           Systemic                      R-CHOP (systemic even if          Disease-dependent
+                                                                   isolated)
+ Metastasis Priapism                 From bladder, prostate,       Palliation; treat primary histology Poor (months)
+                                     rectum
+
+
+   KEY POINTS: NONSQUAMOUS MALIGNANT NEOPLASMS
+    • BCC: highly curable, low metastatic potential.
+    • Sarcomas: prone to local recurrence; metastases rare; superficial lesions treated less radically.
+    • Melanoma: aggressive but curable early with appropriate surgery; immunotherapy and targeted therapy
+      for advanced disease; multidisciplinary management.
+    • EMPD: intraepidermal spread first; wide local excision to negative margins; invasive EMPD can be lethal;
+      guideline available.
+    • Penile metastases: usually from an obvious existing primary; poor prognosis; therapy directed to primary
+      histology and local palliation.
+
+Concept — Each nonsquamous tumour behaves like its counterpart elsewhere, modified by penile anatomy:
+sun protection keeps BCC and melanoma rare, corporal vascularity carries melanoma and metastases (hence
+priapism), apocrine glands explain EMPD, and absent lymphoid tissue makes penile lymphoma a systemic disease
+until proven otherwise.
+
+
+
+
+                                                             page 31 of 31
+
