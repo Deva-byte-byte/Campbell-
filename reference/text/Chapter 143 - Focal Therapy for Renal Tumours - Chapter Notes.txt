@@ -1,0 +1,889 @@
+Chapter 143 — Focal Therapy for Renal Tumours                                                          Introduction
+
+
+ Chapter 143 — Focal Therapy for Renal Tumours
+ INTRODUCTION
+   • Thermal ablation (TA) use for small renal cell carcinoma (RCC) is rising in population-based data: rapid
+     growth in the early 2000s, then a plateau at about one in eight treatments overall and almost one-
+     third of treatments in patients aged 80–89 years.
+   • RCC incidence is rising through incidental detection on cross-sectional imaging performed for
+     abdominal complaints; incidental tumours are small, so more than 70% of new tumours are clinical
+     stage T1, with a consequent fall in cancer-specific mortality.
+   • Age at diagnosis is rising, with increasing incidence in patients over 65 years.
+   • Rationale for nephron sparing: chronic kidney disease (CKD) increases all-cause mortality, particularly
+     after nephrectomy, while the cancer mortality of small RCC is low → emphasis on nephron-sparing
+     treatment without oncological compromise.
+   • Partial nephrectomy (PN) is the gold standard for small renal tumours: cancer-specific survival (CSS)
+     >95%, equivalent to radical nephrectomy, with better renal function, superior cardiac outcomes and
+     improved overall survival (OS).
+   • PN remains underused: in Surveillance, Epidemiology, and End Results (SEER) data for 2019, more
+     patients with localised kidney cancer still received radical nephrectomy than PN; PN is used less in the
+     elderly because of concern about complications.
+   • 2021 American Urological Association (AUA) guideline: prioritise PN for clinical T1a (cT1a) masses;
+     consider TA for cT1a masses ≤3 cm, particularly with substantial comorbidity.
+   • Ablative options: percutaneous cryoablation (CA), radiofrequency ablation (RFA) and microwave
+     ablation (MWA) — extend nephron sparing to highly comorbid patients while minimising morbidity.
+   • Approaches: open, laparoscopic or percutaneous; modern series are predominantly percutaneous.
+   • Advantages over extirpation: no tissue dissection or renorrhaphy → faster convalescence, fewer
+     complications; post-ablation renal function similar to or better than after PN.
+   • Indications: small renal tumours in high-surgical-risk patients; solitary kidney; bilateral tumours;
+     hereditary syndromes such as von Hippel–Lindau (VHL) disease, in which repeated treatments and
+     new tumours are expected.
+ Concept — Ablation exists because small RCC seldom kills while nephron loss and comorbidity do;
+ treatment is chosen to minimise competing-risk harm, not to maximise oncological radicality.
+
+ CRYOABLATION
+ Background
+   • Cryotherapy: tissue destruction by extreme cold generated from liquefied gases that cool as they
+     expand (e.g. argon).
+   • Historical sequence: mid-1800s, Arnott — ice and salt (–18 to –24 °C) for breast, cervical and skin
+     cancers → liquefied air (–190 °C), solid carbon dioxide (–78.5 °C), liquid oxygen (–182.9 °C), then liquid
+     nitrogen (–196 °C) for skin conditions → 1963, Cooper and Lee: first modern cryoprobe — pressurised
+     liquid nitrogen in a three-channel probe (one inflow, two outflow) at –196 °C, opening cryotherapy to
+     deep, less accessible sites.
+
+
+
+
+                                                   page 1 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                          Cryoablation
+   • Argon-based probes — the key breakthrough: the Joule–Thomson principle (rapid expansion of a
+     high-pressure inert gas produces cooling) yields –185.7 °C in target tissue; argon systems reach target
+     temperature faster, more efficiently and with a steeper internal thermal gradient.
+   • Most commercial CA units are now argon based (Galil Medical, Endocare and Oncura systems).
+
+ Cryotherapy Mechanism of Action
+   • Probe design: an inner chamber delivers compressed argon to a porous membrane at the distal tip,
+     where expansion produces rapid cooling in a closed system; temperatures reach about –160 °C during
+     argon evaporation.
+   • Tissue death occurs during both freezing and thawing, by four mechanisms: direct cell injury, vascular
+     injury with ischaemia, apoptosis and immunomodulation.
+   • Freeze phase (closest to probe): extracellular water freezes first → osmotic gradient → cellular
+     dehydration and membrane distortion → intracellular ice → organelle and membrane damage.
+   • Thaw phase: extracellular osmolarity falls as ice melts → water re-enters cells → cellular oedema and
+     lysis.
+   • Vascular injury: endothelial damage → platelet activation → thrombosis → tissue ischaemia.
+   • Zonal effect: direct injury and necrosis centrally; sublethal temperatures peripherally activate
+     apoptosis.
+   • Immunomodulation: necrotic cells release organelles, antigens and damage-associated molecular
+     patterns (DAMPs — DNA, heat shock proteins) → dendritic-cell antigen presentation → T-cell activation
+     → further immune-mediated tumour killing.
+   • End result: coagulative necrosis, apoptosis, immunomodulation and eventual fibrosis and scar.
+
+ Treatment Temperature
+   • Lethal threshold is cell- and tissue-specific: normal renal parenchyma dies at about –19.4 °C; cancer
+     may require as low as –50 °C (more fibrous) in small-animal models → preferred target temperature
+     ≤–40 °C.
+   • Iceball temperature is not uniform: 0 °C at the iceball edge; temperatures consistently below –20 °C
+     are reached only 3 mm inside the edge → iceball must extend at least 5–10 mm beyond the tumour
+     margin.
+   • Multiple cryoprobes may be required, depending on lesion size and probe type and size.
+   • Heat-sink phenomenon: large adjacent vessels dissipate ice formation → colder temperatures or
+     longer freezing required.
+
+ Freeze-Thaw Cycles
+   • Multiple freeze-thaw cycles enlarge the necrotic zone and improve cure in animal tumour models →
+     double freeze-thaw cycle is the current recommendation.
+   • Thawing is itself lethal, and may be passive or active:
+ PASSIVE VERSUS ACTIVE THAW
+                         Passive thaw            Active thaw
+  Method                 Iceball melts without   Helium forced through the probe; helium warms on expansion
+                         intervention            (Joule–Thomson), unlike argon, which cools
+  Speed                  Slower                  Faster, more efficient
+
+
+
+
+                                                     page 2 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                        Hyperthermic Mechanisms of Tissue Injury
+
+                         Passive thaw               Active thaw
+  Efficacy               Conflicting data on whether active thaw is as effective as passive → practice varies between
+                         centres
+
+   • Common hybrid: passive thaw between cycles, active thaw at the end, so post-treatment bleeding can
+     be addressed sooner.
+
+ Duration of Treatment
+   • Duration needed for complete cell death in humans is unknown.
+   • Porcine data: 5-, 10- and 15-minute freezes all produced complete necrosis 5 mm from the probe, but
+     only ≥10 minutes produced necrosis ≥10 mm beyond the probe → most contemporary series use 8–
+     10-minute freeze cycles (see Technique for the alternative 10 + 6–8-minute schedule).
+
+   KEY POINTS: CRYOABLATION
+     • Argon-based systems reach treatment temperatures below –40 °C via the Joule–Thomson principle.
+     • Renal CA is performed under real-time imaging, with the treatment zone about 5–10 mm beyond
+       the tumour margin.
+     • A double freeze-thaw cycle, each freeze about 8–10 minutes, is the standard of care.
+
+ Concept — Cryoablation is a thermal-gradient problem: lethality exists only within the –40 °C isotherm,
+ which lies well inside the visible iceball, so every technical rule — margin, multiple probes, double cycle,
+ duration — exists to push that isotherm beyond the tumour edge.
+
+ HYPERTHERMIC MECHANISMS OF TISSUE INJURY
+   • Heat-based modalities: RFA, MWA, laser ablation and high-intensity focused ultrasound (HIFU); they
+     differ in how tissue temperature is raised, and RFA and MWA are the most commonly used.
+   • Direct and indirect injury occur, as with CA.
+ TEMPERATURE THRESHOLDS OF HYPERTHERMIC INJURY
+  Temperature               Effect                                                                Zone
+  40–45 °C                  Thermal conduction heating → apoptosis, ischaemia from vascular       Peripheral, sublethal
+                            injury, immune and inflammatory responses                             (delayed injury)
+  ≥60 °C                    Rapid protein denaturation → coagulative necrosis                     Central, lethal
+  >80 °C                    Increased membrane permeability                                       Central
+  ≥100 °C                   Water vaporisation → cell rupture → carbonisation                     Adjacent to probe
+
+   • Central zone (closest to probe, hottest): protein denaturation, necrosis, mitochondrial dysfunction and
+     inhibition of DNA replication.
+ Concept — Heat and cold share the same two-zone architecture — a central lethal zone of direct injury
+ and a peripheral sublethal zone of apoptosis, ischaemia and immune response — differing only in the
+ direction of the temperature gradient.
+
+ RADIOFREQUENCY ABLATION
+ Background
+ Historical sequence: 1891, d'Arsonval — radiofrequency waves heat living tissue → 1928, Cushing and
+ Bovie — electrocautery knife (alternating current passes through the patient to a dispersive grounding pad
+ on the lower limb) → 1990, two groups independently — percutaneous radiofrequency electrodes
+
+
+
+                                                        page 3 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                          Radiofrequency Ablation
+ (insulated shaft, exposed metal tip; ablation length set by exposed tip length, but poor circumferential
+ damage limited use to lesions ≤1.5 cm) → modern generators and electrodes for larger, complex lesions.
+
+ Mechanism of Action
+   • Alternating current at 450–1200 kHz → ionic vibration → molecular friction → heat.
+   • Heat is generated within the tissue by ionic agitation, not supplied by the electrode.
+   • Heating depends on energy deposited and surrounding blood flow, which acts as a heat sink.
+
+ Variations in Radiofrequency Ablation Equipment
+   • Tissue >100 °C chars → impedance rises → power transmission falls; generators are built to prevent
+     this.
+ RFA GENERATOR CONTROL: TEMPERATURE VERSUS IMPEDANCE
+                          Temperature-controlled                                     Impedance-based
+  Feedback                Thermal sensors in the electrode monitor tissue            Generator measures tissue
+                          temperature                                                impedance
+  Response                Power adjusted to prevent overheating                      Power reduced to prevent charring
+  Evidence                No clinical data show superiority of either
+
+ RFA ELECTRODE DESIGNS
+  Electrode                      Design                                                      Characteristic strength
+  Original single                Exposed uninsulated tip                                     Tumours ≤2 cm only
+  monopolar
+  12-tine umbrella               Insulated; tines act as antennas; current redirected from Most spherical ablation
+  monopolar (Boston              high- to low-impedance prongs                             volume
+  Scientific, 1997)
+  9-tine starburst (RITA,        Thermistors in 5 tines; energy modulated to average tine Best reproducibility
+  AngioDynamics)                 temperature
+  "Cool-tip" (Covidien)          Single 17-gauge electrode, internally cooled with chilled   Largest ablation zone
+                                 saline; impedance based
+
+   • These comparative strengths come from porcine liver; clinical studies favour multitine electrodes —
+     more complete necrosis, better accuracy and better outcomes.
+ DRY VERSUS WET RFA; MONOPOLAR VERSUS BIPOLAR RFA
+                          Mechanism                              Advantage               Disadvantage
+  Wet RFA                 Continuous saline infusion near the Delays charring and        Less control of ablation size →
+                          probe cools the tip; interstitial   impedance rise →           overtreatment of normal
+                          hypertonic saline forms a virtual   larger zones               parenchyma
+                          "liquid electrode"
+  Bipolar RFA             Current flows between two              Higher temperatures,    Elliptical (not spherical) zone;
+                          electrodes in the target; heat         larger necrotic zone    less accurate → not widely
+                          generated at both and between                                  adopted for spherical renal
+                          them                                                           tumours
+
+ Treatment Temperature
+   • Determinants of ablation: power delivered, maximum temperature and duration; with low impedance,
+     an expanding sphere of damage spreads from the probe.
+   • Current delivered too rapidly → desiccation at the probe–tissue interface → impedance rise blocks
+     energy transfer and halts heating → temperatures kept ≤105 °C.
+
+
+
+                                                           page 4 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                              Microwave Ablation
+   • Lethal time–temperature combinations (in vitro, human prostate cells): 45 °C for 60 min, 55 °C for 5
+     min, 70 °C for 1 min; even brief exposure >70 °C is lethal to RCC in vitro.
+   • Temperature-based generators target 90–105 °C; ablation is not successful unless ≥70 °C is reached
+     uniformly.
+   • Impedance-based protocol: start at 40–80 W → increase 10 W/min → maximum 130–200 W, until
+     impedance reaches 200–500 Ω.
+   • Heat sink: highly vascular targets or large adjacent vessels disperse heat into cooler blood → spared
+     tumour cells and treatment failure.
+   • Two cycles separated by a ≥30-second cool-down are suggested for temperature-based systems, by
+     extrapolation from animal CA data.
+
+ Intraoperative Monitoring
+   • Electrode placement is visible on ultrasound (US), magnetic resonance imaging (MRI) or computed
+     tomography (CT), but there is no reliable radiographic visualisation of the RFA treatment zone.
+   • Contrast with CA: CA shows an expanding iceball; the RFA zone is inferred from electrode choice,
+     accurate placement and impedance or temperature readings.
+   • Independent thermometry: non-conducting temperature probes at the tumour periphery or deep
+     margin (also usable with CA).
+   • Success is judged by generator feedback, thermal probes and absence of contrast enhancement on
+     axial imaging.
+
+   KEY POINTS: RADIOFREQUENCY ABLATION
+     • Radiofrequency energy produces ionic friction and agitation; >70 °C for ≥1 minute causes
+       irreversible coagulative necrosis and desiccation.
+     • Treatment is temperature-based or impedance-based.
+     • Real-time monitoring relies on impedance and temperature, not visual or radiographic cues.
+
+ Concept — RFA is self-limiting: heat is made in the tissue by ionic friction, so anything that raises
+ impedance (charring, desiccation) or carries heat away (blood flow) stops the ablation — every equipment
+ variation is a device for keeping impedance low and the zone spherical.
+
+ MICROWAVE ABLATION
+ Background
+   • Microwaves: electromagnetic radiation; ablative frequencies 915 MHz or 2.45 GHz.
+ Historical sequence: 1930s — tissue heating proposed, generators inadequate → 1930s–1940s —
+ progressively more powerful magnetron tubes → after the Second World War, a Massachusetts Institute of
+ Technology magnetron (400 W at 3000 MHz) → 1946 — Mayo Clinic animal exposure studies → late 1970s
+ — antennas for local tissue destruction.
+ GENERATIONS OF MICROWAVE SYSTEMS
+  Generation                   Features
+  Early antennas               Proximal shaft heating → teardrop-shaped zone and risk of fistulous tract
+  First                        No active antenna cooling; low power, short treatments
+  Second                       Antenna cooling; generators still of limited power
+
+
+
+
+                                                         page 5 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                          Microwave Ablation
+
+  Generation                   Features
+  Current                      High power plus antenna cooling; gas-cooled antennas form a small freeze zone near
+                               the tip that anchors the antenna against migration without compromising the ablation
+                               zone
+
+ Mechanism of Action
+   • Dielectric hysteresis (rotating dipoles): polar molecules continuously realign with a field alternating
+     billions of times per second → kinetic energy → heat; frequencies 915 and 2450 MHz.
+   • Water is polar → high-water tissues (most tissues and tumours) heat best.
+   • Three components: generator (magnetron or solid-state amplifier), coaxial cables, antenna.
+   • Antennas radiate energy — no grounding pads or return electrodes.
+   • Microwaves propagate through desiccated tissue and blood, so ablation is not limited by charring;
+     tissue often exceeds 100 °C.
+ PURPOSE OF PROBE COOLING: RFA VERSUS MWA
+  RFA electrode cooling                              MWA antenna cooling
+  Prevents tissue charring, which otherwise          Protects the insertion track from unwanted ablation and permits
+  limits ablation                                    higher power
+
+   • Advantages over RFA: faster heating → less susceptible to heat sink (important in the highly vascular
+     kidney); active heating up to 2 cm from the antenna versus a few millimetres for RFA (the rest by
+     conduction); multiple antennas can run simultaneously for larger tumours; larger zones and higher
+     temperatures than equivalent RFA applicators in porcine kidney.
+   • Disadvantages: energy harder to distribute; bulkier coaxial cables, more prone to heating; rapid high
+     temperatures endanger adjacent sensitive structures in poorly selected tumours.
+
+ Treatment Duration and Power
+   • Current devices: 915 MHz or 2.45 GHz, 45–150 W, gas- or fluid-cooled antennas; high temperatures
+     allow larger tumours to be treated.
+   • Temperature control versus power control: no significant difference in ablation geometry (porcine
+     kidney).
+   • Time and power: increasing either enlarges the zone, but power beyond 45 W adds nothing → porcine
+     optimum 45 W for 10 minutes; longer ablation time consistently gives larger zones.
+   • Multiple simultaneous antennas exploit overlapping fields to enlarge the zone.
+   • Settings are largely manufacturer-derived → the operator must know the zone shape and size
+     produced by each time–power combination on their own system.
+   • No single strategy is evidence-based; for clinical T1 masses, typically 5–15 minutes at 45–65 W;
+     authors' standard: 65 W for 5 minutes (NeuWave system).
+
+   KEY POINTS: MICROWAVE ABLATION
+     • MWA heats tissue by dielectric hysteresis.
+     • Tissue temperatures often exceed 100 °C without desiccation or charring limiting the zone.
+     • MWA is less susceptible to heat sink than CA and RFA.
+     • Zone size is directly proportional to time of energy application.
+
+ COMPARISON: THE THREE ABLATIVE ENERGIES
+
+
+
+
+                                                        page 6 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                       Percutaneous Ablation Surgical Technique
+
+                           Cryoablation              Radiofrequency ablation          Microwave ablation
+  Physics                  Argon expansion (Joule–   Alternating current; ionic       Electromagnetic field;
+                           Thomson)                  friction                         dielectric hysteresis
+  Lethal target            ≤–40 °C                   ≥70 °C uniformly; generator      Often >100 °C
+                                                     target 90–105 °C
+  Limited by charring      No                        Yes                              No
+  Grounding pads           No                        Yes (monopolar)                  No
+  Heat-sink                Yes                       Yes                              Least
+  susceptibility
+  Zone visible during      Yes — iceball on CT, MRI, No — impedance/temperature       Gas bubbles on US
+  treatment                US                        only
+
+ Concept — MWA's advantages all follow from radiating energy rather than conducting current: no circuit
+ for charring to break, no grounding pad, active heating at a distance, and speed that outruns the heat sink
+ — and its main hazard is that same speed next to adjacent organs.
+
+ PERCUTANEOUS ABLATION SURGICAL TECHNIQUE
+ Patient Selection and the Role of Preablation and Postablation Biopsy
+ Renal mass management algorithm (Fig. 143.3): initial counselling (evaluate age, comorbidity, CKD risk,
+ tumour size and location; educate on tumour risk versus competing comorbidity; shared decision making)
+ → surgery, nephron sparing if feasible (younger, few comorbidities, preference) or watchful waiting /
+ active surveillance (significant comorbidity, preference) or renal mass biopsy → second counselling
+ (review biopsy, staging, options) → surgery, surveillance or percutaneous ablation — offered only after
+ biopsy has been performed and discussed.
+   • 2021 AUA guideline: biopsy universally, before (preferred) or at the time of ablation, to establish
+     pathology and guide surveillance; the authors biopsy all candidates beforehand.
+   • Biopsy avoids unnecessary treatment and post-ablation imaging surveillance of benign masses.
+ BIOPSY TIMING: SEPARATE PRIOR SESSION VERSUS SAME SESSION AS ABLATION
+  Separate prior session (preferred)                       Same session, immediately before ablation
+  Fewer non-diagnostic results (biopsy can be              Non-diagnostic biopsy cannot be repeated before
+  repeated)                                                treatment
+  Higher proportion of ablations are RCC                   More benign tumours ablated
+  Better informed consent                                  Consent obtained without histology
+
+   • Routine immediate post-ablation biopsy adds nothing beyond modern CT or MRI; biopsy is reserved
+     for a new enhancing lesion suspicious of local recurrence on follow-up.
+
+ Collaboration Between Urology and Radiology
+   • Successful programmes need both specialties; in a United States academic survey most centres
+     performed few ablations per month, radiologists alone performed them most often, a combined
+     urologist–radiologist approach was common, and urologists alone least often.
+   • Urologist: pre-procedure counselling on all kidney cancer options and long-term clinical cancer
+     surveillance. Radiologist: imaging before, during and after. Both may perform the procedure → a
+     symbiotic collaboration.
+
+
+
+
+                                                       page 7 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                   Percutaneous Ablation Surgical Technique
+ Procedure
+ Approach and anaesthesia
+  • Laparoscopic ablation has declined sharply since 2010 while percutaneous ablation has risen → the
+    vast majority is now percutaneous (less morbidity and cost).
+   • Conscious sedation with local anaesthesia or general endotracheal anaesthesia, outpatient or with
+     23-hour observation.
+   • Outpatient suitability: tumour of minimal complexity ≤3 cm, low bleeding risk (no anticoagulation, no
+     post-ablation haematoma), no significant comorbidity.
+   • General anaesthesia controls respiration during probe placement → better outcomes.
+   • High-frequency jet ventilation: short high-flow pulses through a small-calibre tracheal catheter, about
+     120 breaths/min; small tidal volumes reduce renal motion; needs a specialised ventilator.
+   • Conscious sedation reserved for highly selected patients who cannot tolerate intubation.
+ Positioning and guidance
+ Intravenous prophylactic antibiotics → prone or modified flank position on the CT gantry (chosen by
+ tumour location) → probe placement under US (or CT or MRI) guidance → non-contrast CT to confirm
+ probe position.
+ Protecting adjacent structures
+  • Hydrodisplacement (Fig. 143.4): spinal needle into the plane between tumour and structure (bowel,
+    ureter, liver, spleen, pancreas) → inject sterile saline, or 5% dextrose in water (D5W) if using RFA;
+    contrast may be added for CT fluoroscopic confirmation of separation (e.g. colon displaced >1 cm).
+   • Saline may be added slowly during ablation to prevent overheating; avoid excess fluid in poor cardiac
+     function (absorption).
+   • Pyeloperfusion for central tumours or tumours near the ureter: pre-placed ureteral access catheter
+     irrigated with cool saline for RFA/MWA, warm saline for CA — always opposing the ablative
+     temperature — to protect the collecting system.
+   • Probe number and duration follow lesion size and manufacturer recommendations; all modalities
+     require intraprocedural monitoring.
+ Cryoablation
+  • CA's advantage: the iceball is visible on CT or MRI and on real-time US (ice–tissue interface); on CT it is
+    a distinct hypodense zone.
+   • Probe tips reach –140 to –190 °C with a steep gradient to 0 °C at the iceball edge; death is reliable at –
+     40 °C → iceball 5–10 mm beyond the tumour margin.
+   • Two freeze-thaw cycles. No standard duration provided the intended zone is reached; commonly 10
+     minutes for the first cycle and 6–8 minutes for the second — animal data show inadequate necrosis at
+     5 minutes and more tissue fracture at 15 minutes, so 10 minutes is the compromise.
+   • Each freeze is followed by an active (helium) or passive thaw → after the second thaw, the probe is
+     gently twisted and removed only if there is no resistance.
+   • Multiple probes 1–2 cm apart create overlapping iceballs and an adequate edge margin; single probes
+     rarely ablate most renal masses completely.
+   • Tumours >4 cm have been ablated, but haemorrhage increases with tumour size and multiprobe CA.
+   • Contrast-enhanced CT after treatment assesses completeness and excludes complications.
+
+
+
+
+                                                   page 8 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                       Percutaneous Ablation Surgical Technique
+ Radiofrequency ablation
+  • Efficacy is monitored by tissue temperature or impedance — single or multitined electrodes with
+    thermistors, or multiple single-shaft impedance electrodes.
+   • Electrode positioned for complete coverage plus a ≥5 mm peritumoral margin (Fig. 143.6).
+   • Radiation reduction: confirmatory scans limited to three or four 3-mm images centred on the lesion at
+     lower tube current (70 versus 150 mA).
+   • Two cycles at 105 °C, separated by a 30-second cool-down; passive temperature ≥70 °C in each
+     quadrant during cool-down confirms no significant heat sink.
+   • Contrast-enhanced helical CT after treatment; inadequately treated areas → reposition and repeat.
+     Tract ablation on withdrawal (manufacturer dependent). Larger lesions: multiple single electrodes in
+     overlapping ablations.
+ Microwave ablation
+  • Antennas placed tangentially under US guidance, so the tip neither points towards nor penetrates the
+    collecting system; the smaller, more spherical Precision PR antenna is preferred to the older LK
+    antenna.
+   • Antennas are fixed by cryogenic cooling → non-contrast CT confirms position → ablation by time and
+     power (e.g. 65 W for 5 minutes) → continuous US shows gas bubbles progressively covering the
+     tumour (Fig. 143.7) → contrast CT: no enhancement in the zone including a ≥5 mm margin, and
+     exclusion of haematoma.
+   • Larger tumours: antenna repositioning. Poor renal function: unenhanced CT plus contrast-enhanced
+     US.
+ INTRAPROCEDURAL PROTOCOLS BY MODALITY
+                                                                                         Microwave ablation
+                        Cryoablation                Radiofrequency ablation              (NeuWave Certus 140)
+  Margin                Iceball 5–10 mm beyond      ≥5 mm                                ≥5 mm non-enhancing
+                        tumour
+  Probes by size        Multiple, 1–2 cm apart      Tine deployment <2 cm → 5 min; 2– ≤2.5 cm → 1 antenna; 2.5–
+                                                    3 cm → 7 min; 3–4 cm → 8 min      3.5 cm → 2; 3.5–4.5 cm → 3
+  Cycles                Two freeze-thaw             Two, 30-s cool-down between          Single time–power
+                                                                                         application
+  Endpoint check        Iceball on imaging; post-   Quadrant temperature ≥70 °C;         Gas bubbles on US; contrast
+                        procedure contrast CT       contrast CT                          CT
+
+ Radiographic Interpretation of Success
+   • Complete loss of contrast enhancement on follow-up CT or MRI = treatment success.
+   • 2021 AUA: contrast-enhanced cross-sectional imaging within 6 months of ablation.
+ INCOMPLETE ABLATION VERSUS LOCAL RECURRENCE
+  Incomplete ablation                                  Local tumour recurrence
+  Persistent enhancement in any part of the lesion     Initial complete loss of enhancement, then later enlargement
+  on initial imaging                                   and/or enhancement
+  Consider repeat ablation                             Biopsy and/or treatment: surveillance, repeat ablation or
+                                                       extirpation (Fig. 143.8)
+
+ POST-ABLATION IMAGING APPEARANCE BY MODALITY
+
+
+
+
+                                                       page 9 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                          Oncologic Outcomes
+
+  Modality              Appearance                                                     Basis
+  CA                    >50% reduction in size within the first year in most lesions   Cellular breakdown and
+                                                                                       phagocytosis
+  RFA                   Minimal contraction; distinctive fibrotic halo (circular       Foreign-body giant-cell fibrotic
+                        demarcation) after percutaneous treatment (Fig. 143.6)         response
+  MWA                   Non-enhancing low-attenuation zone on CT; contracts during     Tissue desiccation
+                        ablation and continues to contract
+  MRI (all)             T1 hypointense zone without gadolinium enhancement             —
+
+   • Enlargement of a lesion, regardless of modality or enhancement, is recurrence until proved
+     otherwise.
+
+ Recommended Radiographic Follow-Up Protocol
+   • AUA: abdominal CT or MRI with and without intravenous contrast plus chest imaging within 6
+     months, then at 12, 24, 36, 48 and 60 months; beyond 5 years, shared decision making dictates
+     further imaging.
+   • Risk-adjusted follow-up may be considered, especially for larger or high-grade tumours.
+   • US is not routine after ablation unless a contrast-enhanced US protocol is in place.
+
+   KEY POINTS: TUMOUR ABLATION TECHNIQUE AND FOLLOW-UP
+     • Biopsy before the ablation session is safe, increases histological diagnosis and reduces benign
+       tumour ablation.
+     • Ablation must achieve an adequate margin, which depends on the modality.
+     • Complete loss of enhancement on CT or MRI indicates complete destruction and success.
+     • Enlargement (any modality) or enhancement in the zone → local recurrence or incomplete ablation.
+     • AUA: CT or MRI with and without contrast plus chest imaging at 6, 12, 24, 36, 48 and 60 months;
+       thereafter shared decision making.
+
+ Concept — Ablation leaves the tumour in situ, so the pathological margin of surgery is replaced by an
+ imaging margin: enhancement is the only surrogate of viability, which is why histology must precede
+ treatment and why surveillance imaging is structured and prolonged.
+
+ ONCOLOGIC OUTCOMES
+ Oncologic Outcomes of Thermal Ablation and Limitations of the Current Literature
+   • Similar metastasis-free survival (MFS) and CSS have prompted claims that PN and TA are equivalent for
+     cT1 RCC — not strongly supported: no appropriately designed trial has compared TA with surgery.
+   • Existing TA data are biased in both directions:
+ BIASES IN THE THERMAL ABLATION LITERATURE
+                                                                                                   Effect on TA
+  Bias                              Nature                                                         results
+  Non-standard outcome              After PN, local residual/recurrence (≈2%) = tumour on post-    Non-comparable
+  definitions                       operative imaging. After TA, residual tumour may be classed as with surgery
+                                    lack of technical success, incomplete ablation or local tumour
+                                    progression, depending on imaging timing, which varies widely;
+                                    surveillance time points are inconsistent
+
+
+
+
+                                                        page 10 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                             Oncologic Outcomes
+
+                                                                                                      Effect on TA
+  Bias                              Nature                                                            results
+  Older, sicker cohorts             Older guidelines restricted TA to non-surgical candidates; TA     Obscures cancer
+                                    patients are older with higher comorbidity scores → worse OS      outcomes
+                                    despite similar CSS; many die of other causes before
+                                    progression is detected
+  Grade under-reported              Percutaneous biopsy under-samples grade (sampling error,          Favours TA
+                                    heterogeneity); a meaningful minority of 1–3 cm RCC is high
+                                    grade in surgical series, far fewer in TA series → almost no data
+                                    on high-grade tumours
+  Benign tumours included           Many series lack biopsy-proven RCC                                Favours TA
+  Occult pT3a                       Some cT1 tumours have radiologically undetected fat or small-     Against TA
+                                    vein invasion; upstaging to pT3a markedly increases recurrence
+                                    in ≤4 cm surgical series, yet TA is compared with pT1a surgical
+                                    outcomes
+  Growth-selected treatment         Comorbid patients on active surveillance are treated only on      Against TA
+                                    growth (a marker of metastatic potential) → higher-risk
+                                    tumours treated
+
+   • Immediate post-ablation contrast imaging permits immediate retreatment of residual enhancing
+     tumour and should be standard practice; consensus risk-adjusted follow-up protocols should be
+     developed.
+   • Average age at RCC diagnosis in the United States is 64 years; TA cohorts are typically about a decade
+     older than PN cohorts.
+   • Long natural history — the most important limitation: SEER kidney cancer mortality ≈5% at 10 years
+     for tumours ≤4 cm; slow growth of many small masses established active surveillance as safe for
+     comorbid patients, and a prospective registry found near-identical CSS with upfront PN and initial
+     surveillance.
+   • European Organisation for Research and Treatment of Cancer (EORTC) 30904 — PN versus radical
+     nephrectomy for masses ≤5 cm, 534 patients, median follow-up 9.3 years: only 21 metastatic
+     progressions and 12 RCC deaths → too few events for definitive conclusions.
+   • Implication: trials comparing small-RCC treatments need very large cohorts followed for many years.
+
+ Local Recurrence-Free Survival
+   • Meta-analyses: local recurrence-free survival (LRFS) is better after PN than TA, but the difference
+     disappears once salvage re-ablation is counted.
+   • Meta-analysis of TA versus PN for cT1: higher all-cause mortality with TA, but no significant difference
+     in local recurrence or metastasis; a further meta-analysis found equal 5-year local recurrence.
+   • Caveat: many tumours were not biopsy-proven RCC → inclusion of benign tumours biases towards
+     ablation.
+   • Tumour size governs success: RFA LRFS markedly worse for tumours ≥3 cm than <3 cm; LRFS and
+     disease-free survival (DFS) worse for T1b (>4 cm) than T1a; CA for T1b (>4 to ≤7 cm) gave substantially
+     more recurrence than PN.
+   • MWA for biopsy-proven cT1b RCC: no difference from PN or radical nephrectomy in MFS, CSS or LRFS
+     (versus PN); lower OS, reflecting a more comorbid cohort.
+   • Only the National Comprehensive Cancer Network (NCCN) offers TA for cT1b, in select non-surgical
+     patients; all other guidelines reserve TA for cT1a.
+
+
+
+
+                                                         page 11 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                                     Oncologic Outcomes
+ TABLE 143.1 CONSENSUS GUIDELINE RECOMMENDATIONS REGARDING USE OF THERMAL ABLATION FOR
+ LOCALISED RENAL CELL CARCINOMA MANAGEMENT
+  Society                          Size ceiling                    Patient group and qualifier
+  NCCN (2022)                      cT1; cT1b in select             Option for cT1; cT1b only if not eligible for surgery; may
+                                   patients                        need multiple treatments to match surgical outcomes
+  European Association of          TA not routinely >3 cm;         Offer active surveillance or TA to frail and/or comorbid
+  Urology (EAU) (2022)             CA not routinely >4 cm          patients with small renal masses
+  AUA (2021)                       cT1a ≤3 cm                      Consider TA as an alternative; percutaneous preferred
+                                                                   over surgical approach whenever feasible
+  American Society of              Not specified                   Percutaneous TA an option where complete ablation is
+  Clinical Oncology (ASCO)                                         achievable
+  (2017)
+ Data from Motzer et al., 2022; Ljungberg et al., 2022; Campbell et al., 2021; Finelli et al., 2017.
+   • What the table tests: the size ceiling — 3 cm for heat-based TA (AUA, EAU), 4 cm for CA (EAU); NCCN
+     is the only body extending TA to cT1b.
+   • Trap: TA is an option across guidelines, but never the default for fit patients — AUA prioritises PN and
+     frames TA as an alternative.
+
+ Metastatic-Free Survival
+   • MFS: freedom from disease outside the treated kidney or renal fossa after primary treatment.
+   • Meta-analyses: no difference in MFS between extirpative surgery and TA.
+   • Multiple series with >5 years' follow-up for RFA and CA suggest durable outcomes beyond 5 years;
+     MWA, being newer, has 3–5-year data showing excellent MFS, comparable with other modalities and
+     surgery.
+ TABLES 143.2–143.4 OUTCOMES AFTER RFA, CA AND MWA OF BIOPSY-PROVEN RENAL CELL CARCINOMA (SERIES
+ CONSOLIDATED BY MODALITY)
+                   Approach in
+  Modality         series                Follow-up            Tumour size      LRFS                    MFS         DFS
+  RFA (Table   Percutaneous              ≈2–6.5 years         ≈2–3 cm          5-year ≈80–100%,        5-year ≈88– 5-year ≈80–
+  143.2,       and                                                             most ≥90%               100%        100%
+  intermediate laparoscopic
+  to long
+  term)
+  CA (Table        Mostly                ≈3–8 years           ≈2–2.5 cm        5–10-year ≈80–          ≈95–100%    5–10-year
+  143.3,           laparoscopic;                                               97%                                 ≈80–91%
+  intermediate     one large
+  to long          percutaneous
+  term)            series
+  MWA (Table Percutaneous                ≈1.5–5.5 years       ≈2.3–2.9 cm      3–5-year ≈88–98%        ≈94–100%    ≈83–85%
+  143.4, short only                                           (one cT1b
+  to                                                          series)
+  intermediate
+  term)
+ Data from institutional series, 2008–2022.
+   • What the tables are for: showing that ablation of biopsy-proven small RCC is durable — LRFS mostly
+     around 90% or better and MFS near 100% — across all three energies.
+   • Pattern: RFA and CA carry the long follow-up; MWA is entirely percutaneous and has the shortest
+     follow-up; tumours in all series average 2–3 cm.
+
+
+                                                              page 12 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                    Oncologic Outcomes
+   • Trap: in one RFA series, no recurrence occurred below 4 cm; in one CA series, recurrences treated by
+     salvage were excluded from the recurrence analysis, inflating LRFS — series figures are not directly
+     comparable.
+
+ Cancer-Specific Survival
+   • CSS: proportion surviving without death from RCC.
+   • CA: CSS 80–100% at up to 10 years; RFA: ≈98%.
+   • Meta-analyses: no difference in CSS between extirpative surgery and TA.
+
+ Overall Survival
+   • Ablation patients are older and more comorbid → OS 75–85% at 5 years, falling to 54–64% at 10 years.
+   • Comparative studies show lower OS after TA than PN, attributable to comorbidity, not cancer.
+
+ Comparison of Ablation Modalities
+   • No prospective trial has compared ablation modalities; observational comparisons are confounded by
+     selection, tumour size and location, technique, approach and experience.
+   • Network meta-analysis: no modality oncologically superior; MWA had the lowest complication rate.
+   • Single-centre and single-institution comparisons: similar 2-year DFS, MFS and CSS for MWA, RFA and
+     CA; no significant LRFS difference between RFA and CA in biopsy-proven RCC; no CSS difference in
+     long-term cT1a data (benign masses included).
+   • Summary: no difference in local recurrence, metastatic progression, CSS or OS between modalities;
+     AUA, ASCO, EAU and NCCN accept RFA, CA and MWA, with choice by institutional preference and
+     tumour characteristics.
+
+ Laparoscopic Versus Percutaneous Renal Tumour Ablation
+ LAPAROSCOPIC VERSUS PERCUTANEOUS ABLATION
+                                 Laparoscopic                                     Percutaneous
+  Technical and oncological No significant difference
+  efficacy
+  Morbidity, procedure           Higher                                           Lower morbidity, faster,
+  time, stay, cost                                                                shorter stay, cheaper
+  Status                         Reserved for prior surgical scarring or failed   Standard of care
+                                 hydrodisplacement (see Perioperative Outcomes)
+
+
+   KEY POINTS: ONCOLOGIC OUTCOMES
+     • Interpretation is limited by non-standard outcome measures, selection bias, biopsy limitations,
+       benign tumour inclusion and the indolence of many small renal masses.
+     • Local recurrence is more common with TA than PN, but comparable once additional ablation is
+       counted.
+     • Tumour size affects ablation success and LRFS.
+     • No difference in MFS or cancer mortality between TA and PN for small renal masses.
+     • Guidelines accept RFA, CA and MWA; choice depends on institutional preference and tumour
+       characteristics.
+
+ Concept — Every comparison of ablation with surgery is confounded by who is ablated — older, comorbid
+ patients with under-graded, sometimes benign or occult-pT3a tumours, in a disease that rarely kills within
+
+
+
+                                                      page 13 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                        Perioperative Outcomes
+ a decade — so the only robust conclusions are that local recurrence is slightly higher and salvageable, and
+ that cancer-specific outcomes do not differ.
+
+ PERIOPERATIVE OUTCOMES
+   • TA versus surgery: shorter stay, less blood loss, lower transfusion rates; in one randomised trial, MWA
+     had fewer complications than surgery.
+   • Meta-analytic observations: TA cohorts are older and more comorbid (lower OS, higher other-cause
+     mortality, similar kidney-cancer mortality) and so at higher complication risk; percutaneous carries
+     fewer complications than laparoscopic ablation; complications should be graded by Clavien–Dindo;
+     major complications are uncommon.
+   • Major complications (Clavien–Dindo ≥3) in ≤5% after CA, RFA or MWA for small tumours; major
+     urological complications fewer than after minimally invasive or open PN, depending on the
+     population.
+   • No direct comparison of urological complications between CA, RFA and MWA.
+   • Most events are minor and self-limiting: small asymptomatic haematomas and transient urinary
+     retention, often unreported.
+   • Laparoscopic ablation has more complications, a substantial share attributable to the laparoscopic
+     technique itself; complications fall with centre experience.
+ PREDICTORS OF COMPLICATIONS
+  Tool or factor                      Content                                         Finding
+  RENAL nephrometry score             Tumour complexity: low 4–6, moderate 7–9,       Complications rise with
+  (Kutikov and Uzzo, 2009)            high 10–12                                      complexity (none at low
+                                                                                      complexity in laparoscopic CA);
+                                                                                      high complexity carries
+                                                                                      substantial major-complication
+                                                                                      risk
+  American Society of                 Patient fitness (EuRECA multicentre European    About threefold increase in
+  Anesthesiologists (ASA) score       laparoscopic CA registry)                       overall complications
+  >3
+  (MC)² score                         CA-specific; adds prior myocardial infarction   Externally validated for CA; not
+                                      or diabetes to tumour factors                   predictive after MWA
+
+ Pain and paraesthesia
+  • Insertion-site pain or paraesthesia, historically common, has fallen: modern cryoprobes are thermally
+    insulated along the shaft, reducing freezing burns.
+   • RFA: active only at the distal tip; tract ablation only long enough to clear the kidney and Gerota fascia,
+     to avoid nerve injury.
+   • Grounding-pad burns (rare): place pads at the same level on the posterior thighs, perpendicular to
+     the long axis of the thigh — returning energy takes the shortest arc, so this maximises dissipation area.
+   • MWA: shaft cooling, no grounding pads → pain or paraesthesia rare.
+   • Posterior tumours: injury to nerves on the posterior abdominal wall → self-limiting neuralgia or
+     neuropraxia; avoid by positioning so the tumour falls away from the wall, or by hydrodisplacement.
+   • Post-procedure pain is minimal (low patient-reported scores on days 1–2) — a clear recovery
+     advantage over surgery.
+ SPECIFIC COMPLICATIONS: RISK, PREVENTION AND MANAGEMENT
+
+
+
+
+                                                        page 14 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                          Perioperative Outcomes
+
+  Complication          Risk factors and presentation     Prevention                   Management
+  Haemorrhage —         Post-procedure haematoma          Allow full thaw before CA    Bleeding at needle placement →
+  the most              frequent on imaging;              probe removal (premature     start ablation (RFA/MWA
+  common                transfusion ≈2–3% (falling).      removal → tumour             coagulate); laparoscopic:
+                        Main risk: multiple probes for    fracture, bleeding); avoid   haemostatic agents + pressure;
+                        larger masses; CA                 intercostal arteries         persistent → selective
+                        theoretically higher risk (no                                  transarterial embolisation;
+                        coagulative heating), no                                       abdominal wall haematoma →
+                        comparative data                                               serial imaging if rapidly
+                                                                                       expanding, serial haematocrit if
+                                                                                       stable; prophylactic embolisation
+                                                                                       for large masses of uncertain
+                                                                                       benefit
+  Adjacent organ        Tumours <1 cm from an             Cross-sectional planning,    Prior surgical scarring or failed
+  injury                organ, typically anterior         positional imaging,          displacement → laparoscopic
+                        (duodenum, colon, pancreas)       hydrodisplacement, blunt-    approach
+                                                          tip needle
+  Collecting system Deep thermal extension for            Locate ureter; stent with    Haematuria: conservative,
+  and ureter        central tumours; haematuria,          pyeloperfusion; CA           significant bleeding → selective
+                    urinoma ± obstruction, urinary        theoretically spares the     angioembolisation; obstruction
+                    fistula (Fig. 143.9); permanent       collecting system →          or leak: conservative or
+                    damage → calyceal or ureteric         preferred for central        indwelling ureteral stent;
+                    obstruction (pelviureteric            tumours; tangential          significant urinoma →
+                    junction or distal); rarely           antenna placement            percutaneous drain
+                    delayed cutaneous fistula
+  Pleural injury        Probes above the twelfth rib      Recognise                    Simple pneumothorax → needle
+                        for upper-pole lesions →          intraprocedurally            aspiration at end of case; larger
+                        pneumothorax or                   (dyspnoea, imaging)          → intraprocedural blood patch;
+                        haemothorax                                                    chest tube rarely, only if
+                                                                                       symptomatic; post-operative
+                                                                                       chest pain or dyspnoea →
+                                                                                       upright chest radiograph
+  Bowel injury       Tumour close to bowel                Saline displacement to       General surgical consultation;
+  (exceedingly rare)                                      create a working space       controlled colonephric fistula →
+                                                                                       ureteral stent + low-residue
+                                                                                       diet; persistent or colocutaneous
+                                                                                       fistula → diversion or trial of
+                                                                                       total parenteral nutrition;
+                                                                                       perforation with peritonitis →
+                                                                                       prompt exploration
+  Infection             <1% without large haematoma       Screen by urine culture     —
+                        or urinoma, but may be lethal;    and treat urinary tract
+                        risk: chronic urinary             infection (UTI) beforehand;
+                        colonisation (e.g. ileal          single-dose prophylaxis
+                        conduit), active infection;       (authors' practice — no
+                        presents 1–6 months later as      consensus)
+                        chronic drainage or
+                        retroperitoneal abscess
+
+
+   KEY POINTS: COMPLICATIONS AFTER TUMOUR ABLATION
+     • Common complications: insertion-site pain and paraesthesia, UTI, damage to surrounding
+       structures, self-limiting haematuria.
+     • Post-ablation pain is minimal with modern devices.
+
+
+                                                         page 15 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                              New Ablation Modalities
+     • Major urological complications are fewer with ablation (≈5%) than with laparoscopic or open PN.
+     • Haemorrhage is the most commonly cited major adverse event.
+     • No significant difference in urological complications among CA, MWA and RFA (no direct
+       comparative data).
+     • Complication risk is predicted by tumour complexity — size and location.
+
+ Concept — Ablative complications are geographical: they follow the probe path and the thermal field, so
+ prevention is planning — probe count, trajectory, displacement of neighbouring organs and protection of
+ the collecting system — rather than intraoperative rescue.
+
+ NEW ABLATION MODALITIES
+ High-Intensity Focused Ultrasonography
+   • Principle: part of an acoustic wave's energy is absorbed as heat; focusing with a shaped transducer
+     raises the focal point above the lethal threshold while sparing adjacent tissue.
+   • At >3500 W/cm², cavitation and microbubble formation produce very high temperatures and a
+     mechanical "shock wave" effect similar to extracorporeal shock-wave lithotripsy.
+   • Unique among TA technologies: entirely non-invasive and extracorporeal → minimal or no risk of
+     tumour seeding, haemorrhage or urinary extravasation.
+   • Technique: one transducer treats and monitors; the beam is focused on the zone under real-time
+     guidance, then refocused to ablate overlapping volumes and "paint" a larger region.
+   • Evidence: early trials showed feasibility, but ablate-and-resect studies found incomplete treatment in
+     every specimen; a small transcutaneous series found viable tumour on early MRI in about half, though
+     most with longer follow-up showed involution.
+   • Reasons for failure: poor targeting from respiratory movement; acoustic interference (shadowing,
+     reverberation, refraction); lack of effective intraoperative monitoring.
+   • Status: outcomes have stagnated and are inferior to current ablative technologies → investigational.
+
+ Histotripsy
+   • Focused ultrasound with a mechanical (non-thermal) mechanism, under real-time imaging guidance
+     — the key contrast with HIFU.
+   • Investigated preclinically, especially in liver and kidney models.
+   • HOPE4KIDNEY: single-arm trial of safety and technical success in primary solid renal tumours, accruing
+     from 2023.
+
+ Radiation Therapy
+   • Conventional external-beam radiotherapy was historically ineffective for RCC: perceived inherent
+     radioresistance, limited parenchymal tolerance, scatter damaging surrounding tissue, difficult target
+     localisation.
+   • Stereotactic body radiation therapy (SBRT) = stereotactic ablative radiotherapy (SABR): a high dose
+     delivered in a single or few fractions with high precision.
+   • Technique: three-dimensional coordinates; real-time tracking and correction for respiratory and organ
+     movement without interrupting treatment → minimal scatter, focal high dose, ablation without
+     compromising overall renal function.
+   • Porcine kidney (CyberKnife): 24–40 Gy → complete necrosis without collateral damage.
+
+
+
+
+                                                    page 16 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                      New Ablation Modalities
+   • Multi-institutional retrospective cohort (localised tumours, median 5-year follow-up): SABR safe; local
+     recurrence comparable to TA, but CSS lower than expected — below the near-100% 5-year CSS of
+     active surveillance series — possibly reflecting a higher-risk population.
+   • Limitations of that cohort: non-RCC tumours included in survival analysis; heterogeneous single- and
+     multi-fraction protocols without central, time-point-standardised review; highly selected comorbid
+     population with substantial non-RCC mortality → recurrence likely underestimated.
+   • Unresolved questions: optimal dose fractionation (trials ongoing); imaging endpoint — SABR causes
+     only subtle change, absence of growth is used, yet many untreated small masses barely grow; post-
+     SABR biopsies show viable but attenuated tumour of unknown potential; need for larger prospective
+     studies with long follow-up in populations comparable to surgery and TA.
+   • Roles: possibly combined with TA for larger tumours; salvage after TA or PN in comorbid patients;
+     modern responsiveness contradicts the radioresistant reputation.
+   • Advantages: reduced morbidity; no general anaesthesia; no interruption of anticoagulation.
+   • Status for small renal tumours: experimental until dose fractionation, imaging criteria and prospective
+     comparison with TA or surgery are established.
+
+ Irreversible Electroporation
+   • Irreversible electroporation (IRE): novel non-thermal ablation; an electric field creates nanoscale
+     membrane pores, reversible or lethally irreversible according to voltage.
+   • Delivered as electrical pulses via a single bipolar or multiple monopolar electrodes → reproducible cell
+     death while preserving extracellular matrix, tissue scaffolding, ductal structures and large vessels.
+   • Outcomes: few studies in the past decade; safe (no major complications) but oncologically
+     suboptimal, with frequent salvage for residual tumour.
+   • Status: investigational.
+ COMPARISON: INVESTIGATIONAL FOCAL MODALITIES
+                      HIFU                      Histotripsy             SABR                     IRE
+  Mechanism           Focused ultrasound;       Focused ultrasound;     High-dose stereotactic   Electrical pulses;
+                      thermal + cavitation      mechanical, non-        radiation                non-thermal pore
+                                                thermal                                          formation
+  Invasiveness        Entirely extracorporeal   Extracorporeal          Non-invasive; no         Percutaneous
+                                                                        anaesthesia              electrodes
+  Key limitation      Incomplete ablation       No clinical data yet    No imaging endpoint;     Suboptimal
+                      (respiration, acoustic                            viable attenuated        oncological control
+                      interference)                                     tumour; lower CSS
+  Status              All investigational/experimental for small renal masses
+
+
+   KEY POINTS: NEW ABLATION TECHNOLOGIES
+     • Several promising investigational focal modalities are emerging.
+     • Stereotactic radiotherapy may offer theoretical benefits, but substantial study is needed before any
+       advantage over established TA can be claimed.
+
+ Concept — Each newer modality promises to escape a limitation of thermal ablation — needles, heat sink,
+ collateral structural injury — but none yet has a validated imaging endpoint or outcome data matching the
+ established trio, so all remain investigational.
+
+
+
+
+                                                       page 17 of 18
+Chapter 143 — Focal Therapy for Renal Tumours                                                         Conclusion
+
+ CONCLUSION
+   • TA is a guideline-endorsed alternative for clinically localised small RCC; CA, RFA and MWA are
+     standard, with no prospective evidence that any one is superior.
+   • Local recurrence is higher than after surgery but usually salvaged by re-ablation; meta-analyses show
+     no difference in MFS or CSS.
+   • Percutaneous ablation has less morbidity than open or minimally invasive surgery with renal function
+     comparable to PN.
+   • Pretreatment biopsy improves informed consent and shared decision making.
+   • Decision integrates tumour characteristics, comorbidity, team experience and patient perspective.
+
+
+
+
+                                                 page 18 of 18
+

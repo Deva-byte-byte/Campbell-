@@ -1,0 +1,976 @@
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                                                   Overview
+
+Chapter 144 — Treatment of Advanced Renal Cell
+Carcinoma
+ • Renal cell carcinoma (RCC) is a family of cancers, not one disease: histologically, biologically and clinically
+   distinct entities arising in the kidney.
+ • Burden: approximately 81,800 new cancers of the kidney and renal pelvis and approximately 14,890 RCC-
+   related deaths in the United States in 2023; patients with metastatic disease account for the majority of
+   RCC deaths.
+ • About one-third present with synchronous metastases, and a further 20–40% of clinically localised
+   tumours later metastasise.
+ • Metastatic RCC is almost always fatal, with a 10-year survival below 5%.
+ • Therapy has evolved along three avenues:
+     ◦ Targeted agents, designed from the genetic and molecular changes underlying each subtype, are now
+       integral to metastatic clear cell RCC (ccRCC); surgery, irradiation and cytokine therapy remain
+       appropriate in selected patients.
+     ◦ Immune checkpoint inhibitors, which modulate T-cell function, are active in ccRCC both front-line and
+       after progression on therapy against the vascular endothelial growth factor (VEGF) axis. Dual
+       checkpoint blockade and combinations of programmed death-1/programmed death ligand-1 (PD-1/
+       PD-L1) inhibitors with agents against VEGF or its receptors (VEGFRs) are now superior to previous
+       standards.
+     ◦ Comprehensive genome interrogation has revealed alterations in carbohydrate and amino-acid
+       metabolism and in chromatin remodelling in ccRCC; their contribution is not yet defined, but they are a
+       hoped-for source of new strategies.
+ • Non-clear cell RCC: ccRCC agents are often used, but with scant prospective evidence; defining the
+   oncogenic pathways of papillary, chromophobe and other variants is opening subtype-specific targeted
+   approaches.
+
+PROGNOSTIC FACTORS
+ • Five-year survival in metastatic RCC is approximately 12% (Surveillance, Epidemiology, and End Results
+   [SEER] data); most patients die of their disease.
+ • Better outcome: a long interval between diagnosis and metastasis; fewer metastatic sites. Worse
+   outcome: poor performance status; lymph node and/or liver metastases.
+ • Two models are widely used, especially to stratify clinical trials: the Memorial Sloan-Kettering Cancer
+   Center (MSKCC) model and the International Metastatic Renal Cell Carcinoma Database Consortium
+   (IMDC) model.
+ • MSKCC model — cytokine era: derived from pretreatment factors in 670 patients in chemotherapy or
+   cytokine trials, most treated with interferon-α (IFN-α). Five factors independently predicted poor outcome
+   on multivariate analysis. Later validated in first-line IFN-based therapy and in external cohorts.
+ • IMDC model — tyrosine kinase inhibitor (TKI) era: derived from patients receiving first-line VEGF-
+   targeted agents at United States and Canadian centres; validated by the same group in an independent
+   cohort of 849 patients and comparable to the MSKCC model. It confirmed performance status,
+   hypercalcaemia, anaemia and time from diagnosis to treatment, and added neutrophilia and
+   thrombocytosis.
+ • Validated models guide management decisions and the design and interpretation of trials.
+
+
+                                                           page 1 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                                                Prognostic Factors
+ • Fig. 144.1 (MSKCC survival by risk group): the curves separate early and stay separated; long-term
+   survivors come almost entirely from the favourable and intermediate groups.
+MSKCC VERSUS IMDC RISK MODELS — BOX 144.1, TABLE 144.1, BOX 144.2 AND TABLE 144.2
+Box 144.1 Adverse Prognostic Factors in 670 Patients Treated With Chemotherapy or Immunotherapy at the Memorial
+Sloan-Kettering Cancer Center; Table 144.1 Risk Stratification Based on Adverse Prognostic Factors in 670 Patients (Data
+from Motzer et al., 1999). Box 144.2 Adverse Prognostic Factors in 849 Patients Treated With First-Line Vascular
+Endothelial Growth Factor–Targeted Therapy; Table 144.2 Risk Stratification in 849 Patients Treated With VEGF-Targeted
+Therapy (Heng et al., 2013).
+ Factor                                      MSKCC (5 factors)                      IMDC (6 factors)
+ Era / derivation                            Cytokine era; chemotherapy or          First-line VEGF-targeted therapy
+                                             immunotherapy trials
+ Performance status                          Karnofsky <80%                         Karnofsky <80%
+ Haemoglobin                                 < lower limit of normal                < lower limit of normal
+ Corrected calcium                           >10 mg/dL                              > upper limit of normal
+ Lactate dehydrogenase (LDH)                 >1.5 × upper limit of normal           Not included
+ Time factor                                 Absence of prior nephrectomy           <1 year from diagnosis to VEGF-
+                                                                                    targeted therapy
+ Neutrophils                                 Not included                           > upper limit of normal
+ Platelets                                   Not included                           > upper limit of normal
+ Favourable (0 factors) — median             20 months                              43.2 months
+ overall survival (OS)
+ Intermediate (1–2) — median OS              10 months                              22.5 months
+ Poor (≥3) — median OS                       4 months (3–5 factors)                 7.8 months (3–6 factors)
+
+ • What the table is for: assigning risk group, which now decides first-line regimen (see Current Therapeutic
+   Strategies).
+ • Pattern: three factors are shared; IMDC swaps LDH and prior nephrectomy for neutrophilia,
+   thrombocytosis and a short diagnosis-to-treatment interval. Median survival in each IMDC group is longer
+   than in its MSKCC counterpart.
+ • Trap: poor risk is three or more factors in both models; LDH belongs to MSKCC only; the IMDC calcium
+   threshold is the upper limit of normal, not 10 mg/dL.
+Concept — Both models score the same two things, host reserve (performance status, anaemia) and tumour-
+driven systemic effects (calcium, LDH, neutrophils, platelets) plus pace of disease; IMDC is the cytokine-era
+model re-derived for targeted therapy.
+
+SURGICAL MANAGEMENT OF METASTATIC RENAL CELL CARCINOMA
+Cytoreductive Nephrectomy in Patients With Metastatic Renal Cell Carcinoma
+ • Studied extensively in the cytokine era. The impetus was the perception that bulky tumours suppress key
+   components of immunity, and that removing large primaries might bring clinical benefit.
+ • Arguments of early proponents: (1) rare but documented spontaneous regression of metastases after
+   nephrectomy; (2) preclinical evidence that large primary tumours inhibit T-cell function; (3) cytokines
+   rarely induce responses in the primary tumour.
+ • Counterweight: perioperative morbidity and mortality, and a significant proportion who never proceed to
+   systemic therapy, demanded unequivocal evidence of benefit and a way to select patients.
+ • Nephrectomy as the sole intervention does not alter outcome in metastatic disease.
+
+
+
+                                                           page 2 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                  Surgical Management of Metastatic Renal Cell Carcinoma
+ • Retrospective combined-modality experience (nephrectomy → cytokine):
+     ◦ In the National Cancer Institute (NCI) series of nephrectomy followed by high-dose interleukin-2 (IL-2),
+       responses were modest and only about half of patients went on to receive IL-2; rapid postoperative
+       progression and perioperative morbidity were the commonest barriers.
+     ◦ A series including Eastern Cooperative Oncology Group (ECOG) performance status 2, multiple sites,
+       and brain or liver metastases saw fewer than a quarter reach IL-2.
+     ◦ Series restricted to favourable patients (good performance status, minimal comorbidity, no liver or
+       brain metastases) saw most reach systemic therapy, with high response rates and good survival.
+     ◦ A population-based SEER analysis associated cytoreductive nephrectomy with better overall and
+       cancer-specific survival.
+     ◦ Their main contribution was to establish feasibility and lay the foundation for randomised trials.
+ • Cytokine-era randomised evidence — the most compelling support for cytoreductive nephrectomy:
+     ◦ SWOG 8949 (Southwest Oncology Group): IFN-α-2b alone versus after cytoreductive nephrectomy.
+       Eligibility: histological diagnosis of any subtype, ECOG 0 or 1, resectable primary, no prior
+       chemotherapy, irradiation or immunotherapy, adequate organ function. Response rate did not differ;
+       OS improved.
+     ◦ A smaller European Organisation for Research and Treatment of Cancer (EORTC) trial of similar design
+       reproduced the survival advantage, and a combined analysis was consistent.
+     ◦ Conclusion: cytoreductive nephrectomy is supported in carefully selected patients likely to proceed to
+       cytokine therapy; its role before systemic therapy in non-clear cell subtypes is unclear.
+ • Targeted-therapy era — retrospective support: the practice continued on cytokine-era data. In a
+   retrospective series of patients receiving VEGF-pathway antagonists, prior cytoreduction was associated
+   with longer survival, and the advantage persisted after adjustment for risk factors. National Cancer
+   Database data showed cytoreduction used more often at academic centres and associated with a survival
+   advantage. Both are subject to selection bias.
+ • CARMENA (Cancer du Rein Metastatique Nephrectomie et Antiangiogéniques; French Association of
+   Urology): metastatic ccRCC randomised to cytoreductive nephrectomy followed by sunitinib versus
+   sunitinib alone; primary objective noninferiority of sunitinib alone, primary endpoint OS.
+     ◦ Planned 576 patients; poor accrual (450 at 79 European centres over 9 years) led to early closure.
+     ◦ Result: median OS 13.9 months with nephrectomy–sunitinib versus 18.4 months with sunitinib alone
+       (hazard ratio [HR] 0.89) → sunitinib alone noninferior in MSKCC intermediate- and poor-risk patients.
+     ◦ Caveat 1 — population: almost 45% were MSKCC poor risk, a group not normally offered
+       cytoreduction. About 25% of the nephrectomy arm did not receive the intended treatment (7% no
+       nephrectomy; 18% no sunitinib after nephrectomy), and 17% of the sunitinib arm later underwent
+       nephrectomy. In the per-protocol analysis, noninferiority was no longer demonstrated.
+     ◦ Caveat 2 — selection: investigators could exclude patients with low metastatic burden, so the
+       population most likely to benefit may be under-represented.
+     ◦ Caveat 3 — power: stopped with far fewer events than planned, and the interim analysis had not met
+       the statistical criteria for early stopping.
+ • SURTIME (Immediate Surgery or Surgery After Sunitinib Malate in Treating Patients With Metastatic
+   Kidney Cancer): metastatic ccRCC randomised to immediate cytoreductive nephrectomy versus sunitinib
+   followed by nephrectomy; hampered by low accrual.
+     ◦ OS favoured deferred nephrectomy (median 32.4 versus 15.0 months; HR 0.57).
+     ◦ Deferred nephrectomy after sunitinib was safe — supports sequencing surgery after systemic therapy.
+
+
+
+                                                           page 3 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                    Surgical Management of Metastatic Renal Cell Carcinoma
+ • Synthesis: CARMENA and SURTIME reiterate that poor-prognosis patients are unlikely to benefit. Their
+   bearing on cytoreduction in selected patients with low metastatic burden and favourable features
+   remains uncertain, and their relevance is limited because sunitinib is no longer standard first-line
+   therapy.
+RANDOMISED TRIALS OF CYTOREDUCTIVE NEPHRECTOMY — INCORPORATING TABLE 144.3
+Table 144.3 Summary of Outcome in Randomized Studies of Interferon-α Alone or Interferon-α After Cytoreductive
+Nephrectomy in Patients With Metastatic Kidney Cancer (Flanigan et al., 2001; Mickisch et al., 2001; Flanigan et al.,
+2004). CARMENA: Méjean et al., 2018.
+                Systemic                                             Response        Median OS
+ Trial          agent        Comparison           Patients           rate            (months)           Verdict
+ SWOG           IFN-α-2b     Nephrectomy +        241                3.3% vs 3.6%    11.1 vs 8.1 (P = Nephrectomy
+ 8949                        IFN vs IFN                              (not            0.05)            improves OS
+                                                                     significant)
+ EORTC          IFN-α        Nephrectomy +        85                 19% vs 12% (P 17 vs 7 (P =         Nephrectomy
+                             IFN vs IFN           randomised;        = 0.38)       0.03)                improves OS
+                                                  83 eligible
+ Combined       IFN-α        Nephrectomy +        331 (324 in the 6.9% vs 5.7%       13.6 vs 7.8 (P = Consistent with
+ analysis                    IFN vs IFN           two arms)       (P = 0.60)         0.002)           individual trials
+ CARMENA        Sunitinib    Nephrectomy +        450 (576           —               13.9 vs 18.4       Sunitinib alone
+                             sunitinib vs         planned)                           (HR 0.89)          noninferior
+                             sunitinib                                                                  (intermediate/poor
+                                                                                                        risk)
+ SURTIME        Sunitinib    Immediate vs         99                 —               15.0 vs 32.4       Deferral safe; OS
+                             deferred                                                (HR 0.57,          favours deferral
+                             nephrectomy                                             favouring
+                                                                                     deferred)
+
+EORTC: the text reports patients randomised, Table 144.3 reports eligible patients.
+ • What the table is for: the evolution from "nephrectomy then systemic therapy" to "systemic therapy first,
+   nephrectomy selectively".
+ • Pattern: in the cytokine trials cytoreduction improved survival without changing response rate — its
+   benefit was not mediated through better cytokine response. With an active systemic agent, upfront
+   surgery no longer helped intermediate- and poor-risk patients.
+ • Trap: CARMENA does not show cytoreduction to be harmful in fit, low-burden, favourable patients — they
+   were largely absent from it.
+
+ KEY POINTS: CYTOREDUCTIVE NEPHRECTOMY IN METASTATIC RENAL CELL CARCINOMA
+   • Two randomised trials showed improved survival with cytoreductive nephrectomy followed by IFN-α
+     versus IFN-α alone in carefully selected patients.
+   • Patients with poor performance status, comorbidity, rapidly progressive disease or brain metastases
+     are unlikely to benefit.
+   • Retrospective data suggested benefit in the VEGFR-targeted era, but a randomised trial showed no
+     advantage in intermediate- and poor-prognosis patients; it does not address low-burden, favourable
+     patients.
+
+
+
+
+                                                           page 4 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                  Surgical Management of Metastatic Renal Cell Carcinoma
+   • The authors' practice is to offer cytoreductive nephrectomy to well-selected patients with metastatic
+     ccRCC.
+
+Concept — Cytoreduction helps only patients fit enough, and with disease slow enough, to reach effective
+systemic therapy; when that therapy is active, operating first on poor-risk patients mainly delays it — hence
+selection and deferral.
+
+Resection of Metastases
+ • Current systemic agents rarely cure; resection of limited metastatic disease is associated with long
+   disease-free intervals and OS in some patients.
+ • Never evaluated in a prospective randomised trial. Favourable outcomes may reflect selection bias,
+   tumour biology, natural history or other confounders.
+ • Evidence is from retrospective series. Isolated pulmonary metastases are the lesions most often
+   resectable with curative intent. After complete resection of limited disease, 5-year survival is 35–50% in
+   many series.
+ • Favourable predictors: complete (curative) resection; solitary metastasis; age <60 years; disease-free
+   interval >1 year; pulmonary site; smaller size (<4 cm in one series); metachronous presentation.
+ • Complete metastasectomy remained feasible and predicted better cancer-specific survival even with
+   multiple lesions.
+ • Bottom line: without prospective proof of survival benefit, resection of isolated lesions is a reasonable
+   and widely used practice in well-selected patients.
+
+ KEY POINTS: METASTASECTOMY
+   • Resection of isolated metastases is appropriate in selected patients; complete resection may bring
+     long disease-free intervals.
+   • Improved outcome is associated with complete resection, solitary lesion, age <60 years, smaller size,
+     pulmonary site and metachronous disease.
+   • No prospective randomised evidence; benefit may be selection, biology or natural history rather than
+     resection.
+
+Concept — Every predictor of success after metastasectomy is also a marker of indolent disease, so the
+operation selects good biology as much as it treats it.
+
+Palliative Surgery
+ • Palliative cytoreductive nephrectomy — indications: intractable pain, haematuria, constitutional
+   symptoms, and paraneoplastic syndromes (hypercalcaemia, erythrocytosis, secondary thrombocytosis,
+   hypertension).
+ • Non-surgical alternatives are often effective: pain and hypercalcaemia are managed medically;
+   haematuria by angioembolisation.
+ • Resection does not always relieve symptoms — in one series, only about half of patients with
+   hypercalcaemia had a meaningful fall in calcium. Purely palliative nephrectomy is therefore infrequent
+   but appropriate in some.
+ • Palliative (non-curative) metastasectomy: solitary brain metastasis; lesions in weight-bearing bones or
+   joints; vertebral metastases with impending spinal cord or radicular compromise. Usually combined with
+   radiation and/or systemic therapy.
+
+
+
+
+                                                           page 5 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                        Surgical Management of Metastatic Renal Cell Carcinoma
+
+ KEY POINTS: PALLIATIVE SURGERY IN ADVANCED RENAL CELL CARCINOMA
+   • Cytoreductive nephrectomy may relieve symptoms from the primary (pain, haematuria) or
+     paraneoplastic manifestations.
+   • Non-surgical options often suffice, so nephrectomy is infrequently done with purely palliative intent.
+   • Metastasectomy, often with radiation or systemic therapy, is used to relieve symptoms or prevent life-
+     threatening or disabling sequelae.
+
+
+SYSTEMIC THERAPY FOR CLEAR CELL RENAL CELL CARCINOMA
+ • The United States Food and Drug Administration (FDA) has approved 11 drugs or combinations first-line
+   and 9 in subsequent lines for advanced RCC (Table 144.4); registration endpoints were objective response
+   rate (ORR), progression-free survival (PFS) or OS.
+ • Three eras: the cytokine era → the single-agent targeted-therapy era → the current immune checkpoint
+   era, often combining a checkpoint inhibitor with a targeted agent.
+TABLE 144.4 SUMMARY OF US FDA–APPROVED THERAPIES FOR ADVANCED RENAL CELL CARCINOMA
+ Agent(s)               Approved Mechanism                 Line           Risk groups        Comparator       Endpoint       Route
+ First-line therapies
+ Interleukin-2          May 1992 Cytokine                  First          Favourable         None (phase      Objective      IV
+                                 immunotherapy                                               II)              response
+                                                                                                              rate
+ Sunitinib              Jan 2006   VEGFR, PDGFR            First          Favourable,        IFN-α            PFS            Oral
+                                                                          intermediate
+ Temsirolimus           May 2007 mTOR                      First          Intermediate,      IFN-α            OS             IV
+                                                                          poor
+ Bevacizumab +          Jul 2009   Anti-VEGF antibody First               Favourable,        IFN-α ±          OS             IV +
+ IFN-α                                                                    intermediate       placebo                         SC
+ Pazopanib              Oct 2009   VEGFR, PDGFR, KIT       First          Favourable,        Placebo          PFS            Oral
+                                                                          intermediate
+ Cabozantinib           Dec 2017   VEGFR, MET, AXL         First          Intermediate,      Sunitinib        PFS            Oral
+                                                                          poor
+ Nivolumab +            Apr 2018   Anti-PD-1 + anti-       First          Intermediate,      Sunitinib        OS, ORR,       IV + IV
+ ipilimumab                        CTLA-4                                 poor                                PFS
+ Pembrolizumab + Apr 2019          Anti-PD-1 + VEGFR       First          All                Sunitinib        OS, PFS        IV +
+ axitinib                                                                                                                    oral
+ Avelumab +             May 2019 Anti-PD-L1 + VEGFR First                 All (PD-L1-        Sunitinib        OS, PFS        IV +
+ axitinib                                                                 positive                                           oral
+                                                                          tumours)
+ Nivolumab +            Jan 2021   Anti-PD-1 + VEGFR,      First          All                Sunitinib        PFS, OS,       IV +
+ cabozantinib                      MET, AXL                                                                   ORR            oral
+ Lenvatinib +           Aug 2021   VEGFR, PDGFR, KIT, First               All                Sunitinib        PFS, OS,       Oral +
+ pembrolizumab                     FGFR, RET + anti-                                                          ORR            IV
+                                   PD-1
+ Subsequent-line therapies
+ Sorafenib              Dec 2005   VEGFR, PDGFR, KIT       Cytokine       Favourable,        Placebo          OS             Oral
+                                                           failure        intermediate
+ Everolimus             Mar 2009 mTOR                      VEGFR          All                Placebo          PFS            Oral
+                                                           failure
+
+
+                                                           page 6 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                           Systemic Therapy for Clear Cell Renal Cell Carcinoma
+
+ Agent(s)             Approved Mechanism                   Line           Risk groups       Comparator        Endpoint        Route
+ Pazopanib            Oct 2009     VEGFR, PDGFR, KIT       Cytokine       Favourable,       Placebo           PFS             Oral
+                                                           failure        intermediate
+ Axitinib             Jan 2012     VEGFR                   Second         —                 Sorafenib         PFS             Oral
+ Nivolumab            Nov 2015 Anti-PD-1                   Second         All               Everolimus        OS              IV
+ Cabozantinib         Apr 2016     VEGFR, MET, AXL         Second         All               Everolimus        PFS             Oral
+ Lenvatinib +         May 2016 VEGFR, PDGFR, KIT, Second                  All               Everolimus or PFS                 Oral
+ everolimus                    FGFR, RET + mTOR                                             lenvatinib
+ Tivozanib            Mar 2021 VEGFR                       Third          All               Sorafenib         PFS, OS,        Oral
+                                                                                                              ORR
+ Belzutifan           Dec 2023     HIF inhibitor           Third          All               Everolimus        PFS, OS         Oral
+
+CTLA-4, cytotoxic T-lymphocyte antigen-4; FGFR, fibroblast growth factor receptor; HIF, hypoxia-inducible factor; IV,
+intravenous; mTOR, mammalian target of rapamycin; ORR, objective response rate; OS, overall survival; PDGFR, platelet-
+derived growth factor receptor; PFS, progression-free survival; SC, subcutaneous.
+ • What the table is for: matching each approval to its line, risk group and comparator.
+ • Pattern: every first-line approval since 2018 is a checkpoint combination tested against sunitinib.
+   Subsequent-line approvals were tested against placebo, sorafenib or everolimus. Only IL-2 was approved
+   on phase II response data.
+ • Trap: the regimens restricted to intermediate/poor risk are nivolumab + ipilimumab, cabozantinib and
+   temsirolimus. Temsirolimus is IV, everolimus oral. Axitinib alone is second-line; tivozanib and belzutifan
+   are third-line.
+
+Cytokine Era
+ • Summary: with VEGF and mammalian target of rapamycin (mTOR) inhibitors available, single-agent IFN is
+   no longer used first-line. Newer agents rarely produce durable responses, so high-dose intravenous IL-2
+   remains reasonable initial therapy in carefully selected patients.
+ • Immunological rationale:
+     ◦ Spontaneous regression of metastases after nephrectomy was the earliest evidence of immune
+       control; it is thought to reflect T- or B-cell–mediated immunity, is rare (<1%) and often transient, yet
+       shaped immunotherapy development.
+     ◦ Cytotoxic T lymphocytes within resected tumours, and tumour-associated antigens serving as human
+       leukocyte antigen–restricted targets for T-cell killing.
+ • Sequence of approaches: nonspecific immune stimulators (cytokines) ± adoptive cellular therapy →
+   allogeneic immunotherapy, vaccines and modulators of T-cell function. Almost all were directed at ccRCC.
+Interferons
+ • Proteins with diverse functions, including immunomodulation. IFN-α was among the first cytokines
+   tested: initially leukocyte-derived, then recombinant (early to mid-1980s), which allowed higher doses.
+ • Objective response 10–15% in most trials (higher in early reports); durable complete responses <2%.
+ • No schedule or route is superior; adding chemotherapy or other cytokines does not improve on single-
+   agent IFN.
+ • Randomised evidence of modest benefit: IFN-α better than medroxyprogesterone (response and OS);
+   vinblastine + IFN-α better than vinblastine alone (response and OS); a meta-analysis of randomised trials
+   showed a survival advantage for IFN-based therapy.
+ • Given this, and easier administration than IL-2, IFN was the usual initial agent until VEGF-pathway
+   antagonists arrived.
+
+
+                                                           page 7 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                           Systemic Therapy for Clear Cell Renal Cell Carcinoma
+Interleukin-2
+ • Response rate 15–20% across NCI and Cytokine Working Group trials and meta-analyses; early reports
+   exceeded 30%.
+ • High-dose IL-2: complete regression in 7–9%, and over 60% of complete responders remain disease-free
+   on long-term follow-up. Some partial responders became resectable and achieved long-term remission.
+ • FDA approval 1992, based on durable complete responses.
+ • Regimen: intravenous bolus 600,000 or 720,000 IU/kg every 8 hours, as tolerated, to a maximum of 15
+   doses.
+ • Toxicity — vascular leak syndrome → hypotension, third-space fluid retention, respiratory compromise,
+   multiorgan damage. Early treatment-related mortality was 2–5%; it fell with careful selection, intensive
+   monitoring and early intravenous fluids, vasopressors and antibiotics.
+ • Lower-dose regimens (daily subcutaneous, continuous infusion) appeared comparable in single-arm
+   studies, but two randomised trials showed lower response rates and fewer durable complete responses
+   → the authors recommend only high-dose IL-2.
+ • Combinations do not help:
+     ◦ IL-2 + IFN: more toxic, no more effective. In a randomised trial of intermediate-dose continuous-
+       infusion IL-2 versus IFN-α versus the combination, the combination gave higher response and 1-year
+       event-free survival but no survival difference, with more toxicity.
+     ◦ IL-2 + chemotherapy (particularly 5-fluorouracil [5-FU]): high early response rates were not
+       reproduced.
+     ◦ IL-2 + tumour-infiltrating lymphocytes or lymphokine-activated killer cells: no reliable benefit; largely
+       abandoned.
+ • Predictors of benefit: clear cell histology (non-clear cell patients too few to judge); performance status,
+   number and site of metastases, prior nephrectomy and time from nephrectomy to systemic therapy.
+   Worst outcome: more than one metastatic site, metastases within 1 year of diagnosis, liver metastases.
+ • Carbonic anhydrase IX (CAIX, G250): associated with response retrospectively, but a prospective trial
+   found it not predictive.
+INTERFERON-Α VERSUS HIGH-DOSE INTERLEUKIN-2
+                               Interferon-α                               High-dose interleukin-2
+ Response rate                 10–15%                                     15–20%
+ Durable complete              <2%                                        7–9%; >60% of these durable
+ response
+ Administration                Easier; schedule and route                 IV bolus every 8 hours, maximum 15 doses; high
+                               immaterial                                 dose only
+ Key toxicity                  Constitutional                             Vascular leak syndrome; early mortality 2–5%
+ Current role                  Not used first-line                        Reasonable in carefully selected patients
+
+Concept — Cytokines are nonspecific immune stimulants with low response rates; high-dose IL-2 alone
+produces durable complete remission, and that single property is why it survives while IFN does not.
+
+Targeted Therapy Era
+ • VEGF-pathway antagonists are the paradigm of rational targeted therapy: oncogenic pathway → rational
+   drug design → structured clinical evaluation.
+ • Von Hippel-Lindau (VHL) disease: in the early 1990s, NCI investigators used genetic linkage analysis in
+   VHL families to identify germline VHL mutations or deletions. Carriers develop tumours in multiple
+   organs, including bilateral, multifocal clear cell kidney cancer.
+
+                                                           page 8 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                   Systemic Therapy for Clear Cell Renal Cell Carcinoma
+ • VHL is a classic tumour suppressor gene: a somatic "second hit" inactivating the normal allele is required
+   for tumour formation.
+ • VHL lies on the short arm of chromosome 3; its protein exists as two alternatively spliced variants.
+ • VHL protein function: forms a complex with elongins B and C and cullin-2 (CUL2) that tags proteins for
+   ubiquitin-mediated degradation; its targets include the α subunits of the hypoxia-inducible factors
+   (HIFs).
+ • HIF accumulation upregulates VEGF, platelet-derived growth factor (PDGF), transforming growth factor-α
+   (TGF-α), glucose transporter-1 (GLUT-1) and erythropoietin, which drive development and progression of
+   ccRCC.
+ • Sporadic ccRCC: somatic VHL inactivation, by mutation or promoter hypermethylation, is found in the
+   large majority of tumours → VHL loss is the central event in clear cell oncogenesis and the basis for
+   targeting its pathway.
+HIF REGULATION — NORMOXIA, HYPOXIA AND VHL LOSS
+ Intact VHL, normoxia                          Intact VHL, hypoxia        VHL mutated or silenced
+ Prolyl hydroxylation of HIF-α                 Hydroxylation impeded      Hydroxylation irrelevant — VHL cannot bind
+                                                                          HIF or elongin/CUL2
+ VHL–elongin–CUL2 binds →                      No degradation → HIF-α     HIF-α accumulates even in normoxia
+ ubiquitination → degradation                  accumulates
+ Target genes quiet                            Physiological angiogenic   Constitutive VEGF, PDGF, TGF-α, GLUT-1,
+                                               response                   erythropoietin
+
+ • Fig. 144.4 — drug targets on the VHL pathway: bevacizumab (antibody) → VEGF ligand; axitinib,
+   pazopanib and AV-951 (tivozanib) → VEGFR; sunitinib and sorafenib → VEGFR and PDGFR; temsirolimus
+   and everolimus → mTOR, which promotes HIF translation.
+Bevacizumab
+ • Humanised monoclonal antibody against VEGF-A; the first VEGF-pathway antagonist tested in ccRCC.
+ • Randomised phase II after cytokine failure (3 or 10 mg/kg intravenously every 2 weeks versus placebo):
+   10 mg/kg prolonged PFS; no OS gain (crossover permitted); modest response. Well tolerated: bleeding,
+   hypertension, fatigue, proteinuria.
+ • Bevacizumab + erlotinib (an epidermal growth factor receptor [EGFR] tyrosine kinase inhibitor):
+   promising single-arm data, but a randomised phase II trial showed no superiority over bevacizumab
+   alone.
+ • CALGB 90206 (Cancer and Leukemia Group B) and AVOREN: first-line bevacizumab + IFN-α versus IFN-α in
+   metastatic ccRCC.
+     ◦ Higher response and longer PFS with the combination (CALGB 8.5 versus 5.2 months; AVOREN 10.2
+       versus 5.4 months).
+     ◦ No OS improvement in either. There was no crossover, but many patients received off-protocol
+       therapy, which confounds OS.
+     ◦ More grade 3 hypertension, fatigue, anorexia and asthenia with the combination.
+ • Limitations: no bevacizumab-alone arm, so IFN's contribution is unknown; the combination's PFS
+   resembles that of single-agent bevacizumab in a first-line phase II study; never compared with VEGFR
+   TKIs.
+ • Current role: not widely used as a single agent; being explored with PD-1/PD-L1 inhibitors because of its
+   favourable toxicity profile.
+
+
+
+
+                                                           page 9 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                   Systemic Therapy for Clear Cell Renal Cell Carcinoma
+Sorafenib
+ • Oral kinase inhibitor of VEGFR2, PDGFR-β and raf-1. First activity shown in a randomised discontinuation
+   phase II trial.
+ • TARGET (phase III, after cytokine therapy, versus placebo): PFS 5.5 versus 2.8 months; mature intention-
+   to-treat OS not significantly different (17.8 versus 15.3 months).
+ • First-line randomised phase II versus IFN-α: more tumour regression, but PFS identical.
+ • Toxicity: hypertension, fatigue, rash, hand–foot syndrome, diarrhoea.
+ • FDA-approved but now infrequently, if ever, used.
+Sunitinib
+ • Oral inhibitor of VEGFR2, PDGFR-β, c-KIT and FMS-like tyrosine kinase-3. Dual VEGF + PDGF blockade is
+   probably synergistic: VEGF blockade disrupts endothelial proliferation; PDGF blockade disrupts pericyte
+   function.
+ • Dose: 50 mg daily for 4 weeks of a 6-week cycle (4 on, 2 off).
+ • Two single-arm phase II trials, mostly after cytokines, gave high response rates → FDA approval.
+ • Landmark phase III versus IFN-α, first-line (750 patients):
+     ◦ PFS 11 versus 5 months and response 31% versus 6% (independent review).
+     ◦ OS 26.4 versus 21.8 months — a strong trend (P = 0.051).
+     ◦ Better quality of life than IFN.
+ • Toxicity: diarrhoea, rash and hand–foot syndrome, fatigue and asthenia, hypertension; also bone marrow
+   suppression and hypothyroidism.
+ • Current role: superseded by PD-1/PD-L1-based combinations, especially in intermediate and poor risk;
+   used in favourable-risk patients or those unable to receive checkpoint inhibitors. It is the comparator
+   arm of every modern first-line trial.
+Pazopanib
+ • Rationale for selective agents: sunitinib and sorafenib hit many targets, some irrelevant to ccRCC; dose
+   reductions and discontinuations are common. More selective VEGFR inhibitors aim to cut toxicity without
+   losing efficacy (Table 144.5).
+ • Pazopanib: potent VEGFR inhibitor that retains PDGFR activity.
+ • Phase III versus placebo (untreated or one prior cytokine; 2:1 randomisation): PFS and response clearly
+   favoured pazopanib, in both treatment-naive and cytokine-pretreated subgroups. Mild toxicity; mature OS
+   not significantly better.
+ • COMPARZ (phase III, first-line, 1110 patients; pazopanib 800 mg daily versus standard sunitinib): PFS
+   noninferior (HR 1.05); OS comparable (28.4 versus 29.3 months).
+     ◦ More with sunitinib: fatigue, thrombocytopenia, hand–foot syndrome.
+     ◦ More with pazopanib: raised alanine aminotransferase.
+     ◦ Quality of life (fatigue; soreness of mouth, throat, hands and feet) favoured pazopanib in the first 6
+       months.
+ • PISCES (patient-preference crossover, 10 weeks of each drug with a washout): most patients preferred
+   pazopanib, though some preferred sunitinib.
+ • Bottom line: a reasonable alternative wherever sunitinib is suitable; caution in patients at risk of
+   hepatotoxicity. In the checkpoint era, single-agent use is largely limited to good-risk first-line patients.
+
+
+
+
+                                                           page 10 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                         Systemic Therapy for Clear Cell Renal Cell Carcinoma
+Axitinib
+ • Highly selective oral TKI of VEGFR1, VEGFR2 and VEGFR3. High response rates in phase II, mostly after
+   cytokines. Grade 3–4 events: diarrhoea, fatigue, hypertension, usually manageable.
+ • AXIS (phase III, second-line, 723 patients after one prior regimen of sunitinib, bevacizumab, temsirolimus
+   or cytokines): axitinib 5 mg twice daily (titratable to 10 mg twice daily) versus sorafenib 400 mg twice
+   daily (no escalation).
+     ◦ PFS 6.7 versus 4.7 months (HR 0.665), by Response Evaluation Criteria in Solid Tumours (RECIST).
+     ◦ Largest benefit after cytokines (12.1 versus 6.5 months); modest after sunitinib (4.8 versus 3.4
+       months).
+     ◦ OS not different (20.1 versus 19.2 months).
+ • FDA-approved second-line on the PFS benefit; now a partner for PD-1/PD-L1 inhibitors.
+TABLE 144.5 SUMMARY OF SELECTED STUDIES OF SELECTIVE VASCULAR ENDOTHELIAL GROWTH FACTOR RECEPTOR
+ANTAGONISTS IN METASTATIC RENAL CELL CARCINOMA
+Sternberg et al., 2010, 2013; Motzer et al., 2013; Rini et al., 2011.
+                                                                    ORR                                            Median OS
+ Trial            Comparison          Population           Patients (%)     Median PFS (months)                    (months)
+ Pazopanib        Pazopanib vs        0–1 prior            435      30 vs   9.2 vs 4.2                             22.9 vs 20.5
+ phase III        placebo             cytokine                      3
+ Tivozanib        Tivozanib vs        0–1 prior            517      33 vs   11.9 vs 9.1                            28.8 vs 29.3
+ phase III        sorafenib           therapies                     23
+ AXIS             Axitinib vs         Second-line          723      19 vs   6.7 vs 4.7                             20.1 vs 19.2
+                  sorafenib                                         9
+ COMPARZ          Pazopanib vs        Untreated            1110     31 vs   10.5 vs 10.2 (investigator); 8.4 vs 28.4 vs 29.3
+                  sunitinib                                         25      9.5 (independent review)
+
+ • Pattern: the selective agents improved PFS over placebo or sorafenib, but none improved OS; COMPARZ
+   established equivalence, not superiority, with toxicity as the discriminator.
+ • Trap: COMPARZ is a noninferiority trial — pazopanib and sunitinib are interchangeable on efficacy and
+   differ in side-effect profile.
+Cabozantinib
+ • Rationale: most patients progress on VEGF-pathway inhibition. HIF-driven MET overexpression may
+   confer resistance to VEGF-axis agents, and MET and AXL are overexpressed in ccRCC with worse
+   prognosis.
+ • Multikinase inhibitor of VEGFR, MET and AXL.
+ • METEOR (phase III, 658 patients after VEGF/VEGFR therapy; cabozantinib 60 mg versus everolimus 10 mg
+   daily):
+     ◦ Response 21% versus 5%; PFS 7.4 versus 3.8 months (HR 0.58).
+     ◦ OS 21.4 versus 17.1 months (HR 0.70) — an OS benefit.
+     ◦ Dose reductions were frequent (fatigue, diarrhoea, palmar–plantar erythrodysaesthesia), but few
+       discontinued permanently.
+ • CABOSUN (randomised phase II, first-line, IMDC intermediate or poor risk; cabozantinib versus sunitinib):
+   PFS 8.2 versus 5.6 months (HR 0.66) and higher response → FDA approval extended to untreated
+   patients.
+
+
+
+
+                                                            page 11 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                        Systemic Therapy for Clear Cell Renal Cell Carcinoma
+Lenvatinib
+ • Rationale: alternative angiogenic drivers, especially fibroblast growth factor receptors (FGFR1 and
+   FGFR2), mediate resistance to VEGF blockade in preclinical models.
+ • Earlier FGFR-active agents disappointed: nintedanib showed modest activity and no advantage over
+   sunitinib. Dovitinib (VEGFR, PDGFR, FGFR), in a phase III trial versus sorafenib after one VEGF and one
+   mTOR agent, gave no PFS or OS difference. This dampened enthusiasm for single agents of this class.
+ • Lenvatinib: inhibitor of VEGFR1–3, FGFR1–4, PDGFR-α, RET and KIT.
+ • Three-arm randomised phase II after VEGF-targeted therapy — lenvatinib 24 mg versus everolimus 10
+   mg versus lenvatinib 18 mg + everolimus 5 mg:
+     ◦ Combination prolonged PFS over everolimus alone; lenvatinib alone also beat everolimus.
+     ◦ Combination versus lenvatinib alone: not significantly different.
+     ◦ Basis for FDA approval of lenvatinib + everolimus after antiangiogenic therapy; larger confirmation is
+       still needed.
+TABLE 144.6 SUMMARY OF SELECTED STUDIES OF TARGETED MULTIKINASE INHIBITORS IN METASTATIC RENAL CELL
+CARCINOMA
+Choueiri et al., 2015, 2017; Motzer et al., 2015, 2018.
+                                                                                                   Median PFS        Median OS
+ Trial           Comparison            Phase Population              Patients    ORR (%)           (months)          (months)
+ METEOR          Cabozantinib vs       III      Progressed on        658         21 vs 5           7.4 vs 3.8        21.4 vs
+                 everolimus                     anti-VEGFR                       (text); 31 vs                       17.1
+                                                therapy                          5 (source
+                                                                                 table)
+ CABOSUN         Cabozantinib vs       II       Untreated,           157         46 vs 18          8.2 vs 5.6        Not
+                 sunitinib                      intermediate/                    (text); 33 vs                       available
+                                                poor risk                        12 (source
+                                                                                 table)
+ Lenvatinib ±    Lenvatinib +          II       Progressed on        101 (these 43 vs 6            14.6 (text) /     —
+ everolimus      everolimus vs                  anti-VEGFR           two arms)                     14.1 (table)
+                 everolimus                     therapy                                            vs 5.5
+
+Where two values are shown, the body text and the source table disagree; the source does not state which analysis
+each reflects. The lenvatinib phase II enrolled 153 patients across three arms; the table shows two.
+ • Pattern: broadening the kinase spectrum beyond VEGFR (MET, AXL, FGFR) is what finally beat everolimus
+   and sunitinib; cabozantinib is the only TKI in this chapter with an OS gain over an active comparator
+   (METEOR).
+ • Trap: CABOSUN is phase II and restricted to intermediate/poor risk.
+Tivozanib
+ • TKI of VEGFR1–3, c-KIT and PDGFR-β.
+ • TIVO-3 (open-label phase III; relapsed or refractory after 2–3 prior systemic therapies including a VEGFR
+   TKI): tivozanib 1.34 mg daily, 21 of 28 days, versus sorafenib 400 mg twice daily.
+     ◦ PFS 5.6 versus 3.9 months (HR 0.73); response 18% versus 8%.
+     ◦ OS no better (16.4 versus 19.2 months; HR 0.97).
+ • FDA approval March 2021 for advanced RCC after at least two prior systemic therapies.
+Belzutifan
+ • HIF-2α, the transcription factor immediately downstream of VHL loss, was long considered undruggable;
+   structural work found a targetable binding domain, leading to HIF-2α inhibitors.
+
+
+                                                           page 12 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                   Systemic Therapy for Clear Cell Renal Cell Carcinoma
+ • VHL-associated RCC: FDA-approved; in the phase II trial almost all patients had tumour shrinkage or
+   stabilisation, with high PFS.
+ • LITESPARK-005 (open-label phase III, 746 patients progressing after both a PD-1/PD-L1 inhibitor and a
+   VEGF TKI; belzutifan 120 mg versus everolimus 10 mg daily, stratified by IMDC risk and number of prior
+   VEGF TKIs):
+     ◦ PFS improved (HR 0.75), although median PFS was identical (5.6 months each) — non-proportional
+       hazards: the curves separate late.
+     ◦ OS immature, with no signal of harm; patient-reported outcomes favoured belzutifan.
+     ◦ FDA approval for metastatic ccRCC after both PD-1/PD-L1 blockade and VEGF-targeted therapy.
+Inhibitors of the Mammalian Target of Rapamycin
+ • mTOR is an intracellular kinase in several growth-factor signalling cascades that regulates translation and
+   stability of HIF-1α; growth inhibition by mTOR inhibitors correlates with a block in HIF-1α translation.
+ • Two sirolimus analogues are active in RCC: temsirolimus and everolimus.
+ • Temsirolimus phase II (three intravenous weekly doses): modest response; response and PFS
+   independent of dose. In the MSKCC poor-risk subgroup, OS was longer than in historical IFN controls →
+   phase III in poor-risk patients.
+ • Temsirolimus phase III (626 previously untreated patients with three or more predefined poor-risk
+   features, all histological subtypes): temsirolimus 25 mg IV weekly versus IFN-α (up to 18 million units
+   subcutaneously three times weekly) versus temsirolimus 15 mg + IFN-α 6 million units.
+     ◦ PFS better in both temsirolimus arms than IFN alone.
+     ◦ OS significantly better with temsirolimus alone (10.9 versus 7.3 months; P = 0.008); the combination
+       did not improve OS (8.4 versus 7.3 months).
+     ◦ Toxicity: mucositis, fatigue, rash, hyperglycaemia, hypophosphataemia, hypercholesterolaemia,
+       pulmonary complications — mostly manageable.
+     ◦ FDA-approved; a reasonable front-line choice in poor-risk patients, though never compared with
+       checkpoint inhibitors.
+ • Everolimus (oral; phase III after sunitinib, sorafenib or both; 10 mg daily versus placebo): stopped early for
+   superior PFS (4.0 versus 1.9 months); OS not different. Now supplanted by nivolumab and cabozantinib
+   after first-line therapy, but reasonable in combination with lenvatinib.
+ • Combinations across the VHL pathway are attractive for efficacy and against resistance, but limited by
+   overlapping toxicity requiring major dose reductions.
+     ◦ First-generation VEGFR TKI (sunitinib) + mTOR inhibitor: too toxic to advance.
+     ◦ Bevacizumab-based combinations are better tolerated. Bevacizumab + everolimus was active in phase
+       II. RECORD-2 (bevacizumab + everolimus versus bevacizumab + IFN-α) found similar PFS, OS and safety.
+     ◦ INTORACT (791 untreated patients; bevacizumab + temsirolimus versus bevacizumab + IFN-α): no
+       difference in PFS, OS or response; the temsirolimus combination had better kidney symptom scores
+       (Functional Assessment of Cancer Therapy–Kidney Symptom Index).
+     ◦ Bottom line: bevacizumab + mTOR inhibitor adds nothing to established first-line standards.
+
+
+
+
+                                                           page 13 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                           Systemic Therapy for Clear Cell Renal Cell Carcinoma
+TABLE 144.7 SUMMARY OF SELECTED STUDIES OF MTOR INHIBITORS IN METASTATIC RENAL CELL CARCINOMA
+Hudes et al., 2007; Motzer et al., 2008.
+                                                                             ORR                                       Median OS
+ Trial             Comparison              Population               Patients (%)         Median PFS (months)           (months)
+ Temsirolimus      Temsirolimus vs         Poor prognosis,          626      8.6 vs      5.5 vs 3.1 vs 4.7             10.9 vs 7.3
+ phase III         IFN-α vs                untreated, all                    4.8 vs      (investigator); 3.8 vs 1.9    vs 8.4
+                   combination             histologies                       8.1         (independent review)
+ Everolimus        Everolimus vs           Refractory to            410      1 vs 0      4.0 vs 1.9                    Not
+ phase III         placebo                 VEGF-targeted                                                               reached vs
+                                           therapy                                                                     8.8
+
+TEMSIROLIMUS VERSUS EVEROLIMUS
+                           Temsirolimus                                    Everolimus
+ Route                     Intravenous, weekly                             Oral, daily
+ Setting                   First-line, poor risk, all histologies          After VEGF TKI; now mainly with lenvatinib
+ Registration result       OS gain versus IFN-α                            PFS gain versus placebo; no OS gain
+
+ • Trap: temsirolimus is the only mTOR inhibitor with an OS benefit, and it was proven in poor-risk patients,
+   including non-clear cell histology.
+Concept — Every targeted agent attacks one consequence of VHL loss: the ligand (bevacizumab), its receptors
+(TKIs), HIF translation (mTOR) or HIF-2α itself (belzutifan). Resistance through MET, AXL and FGFR explains
+why the later TKIs are broader, and none gives the durable remissions of immunotherapy.
+VEGF-PATHWAY AGENTS — TARGETS
+ Agent                   Class                                  Targets
+ Bevacizumab             Monoclonal antibody                    VEGF-A (ligand)
+ Sorafenib               Oral TKI                               VEGFR2, PDGFR-β, raf-1
+ Sunitinib               Oral TKI                               VEGFR2, PDGFR-β, c-KIT, FLT3
+ Pazopanib               Oral TKI                               VEGFR, PDGFR, KIT
+ Axitinib                Oral TKI                               VEGFR1–3 only (highly selective)
+ Tivozanib               Oral TKI                               VEGFR1–3, c-KIT, PDGFR-β
+ Cabozantinib            Oral TKI                               VEGFR, MET, AXL
+ Lenvatinib              Oral TKI                               VEGFR1–3, FGFR1–4, PDGFR-α, RET, KIT
+
+VEGF-PATHWAY AGENTS — SIGNATURE TOXICITIES
+ Agent           Toxicities emphasised in the chapter
+ Bevacizumab Bleeding, proteinuria, hypertension, fatigue
+ Sorafenib       Hypertension, fatigue, rash, hand–foot syndrome, diarrhoea
+ Sunitinib       Diarrhoea, hand–foot syndrome, fatigue, hypertension, marrow suppression (thrombocytopenia),
+                 hypothyroidism
+ Pazopanib       Hepatotoxicity (raised alanine aminotransferase); less fatigue and hand–foot syndrome than sunitinib
+ Axitinib        Diarrhoea, fatigue, hypertension
+ Cabozantinib Fatigue, diarrhoea, palmar–plantar erythrodysaesthesia; frequent dose reduction
+
+
+
+
+                                                           page 14 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                                   Immune Checkpoint Era
+
+IMMUNE CHECKPOINT ERA
+ • The antitumour immune response is set by a balance of stimulatory and inhibitory signals. Inhibitory
+   receptors on effector cells, such as CD8+ T lymphocytes, tightly regulate it, and responses are
+   downregulated through cytotoxic T-lymphocyte–associated antigen-4 (CTLA-4) and PD-1.
+ • Ipilimumab (anti-CTLA-4), single-arm phase II: active in ccRCC, including after IL-2. Autoimmune enteritis
+   and hypophysitis were notable, and autoimmune events predicted response. Grade 3–4 events in up to a
+   third halted single-agent development.
+ • PD-1 and its ligands: PD-1 on T cells; PD-L1 and PD-L2 on tumour cells, macrophages and other cells.
+   Engagement of PD-1 downregulates antigen-driven immune responses. Tumours with PD-1-positive
+   tumour-infiltrating lymphocytes tend to be larger, higher grade, more advanced and more often
+   sarcomatoid.
+ • Nivolumab (anti-PD-1) phase I, with expansion cohorts across solid tumours including RCC: objective
+   responses, several durable, and prolonged stable disease. In the biomarker subset, responses occurred
+   only in PD-L1-expressing tumours → PD-L1 proposed as a candidate predictive biomarker. Autoimmune
+   toxicity included diarrhoea, hypophysitis and vitiligo.
+ • BMS-936559 (anti-PD-L1) phase I: objective responses and prolonged stable disease in some RCC patients.
+ • CheckMate 025 (phase III, 821 patients with a clear cell component after 1–2 antiangiogenic agents;
+   nivolumab 3 mg/kg every 2 weeks versus everolimus 10 mg daily; primary endpoint OS):
+     ◦ OS 25.0 versus 19.6 months (HR 0.73).
+     ◦ PFS not different (4.6 versus 4.4 months).
+     ◦ Response 25% versus 5%.
+     ◦ Grade 3–4 events 19% versus 37% — nivolumab better tolerated; autoimmune events and fatigue.
+ • Bottom line: single-agent nivolumab is a reasonable option after VEGF-axis therapy; this trial prompted
+   front-line testing of PD-1/PD-L1 inhibitors, mostly in combination.
+Concept — Checkpoint inhibitors release a brake on an existing antitumour response rather than stimulating
+immunity nonspecifically; their toxicity is autoimmune, and their benefit appears as OS and durability rather
+than PFS.
+
+IMMUNE CHECKPOINT INHIBITOR-BASED COMBINATION STRATEGIES
+ • Rationale: many patients do not benefit from PD-1/PD-L1 monotherapy, and complete responses — a
+   surrogate for long-term disease-free survival — occur in fewer than 10%.
+ • CTLA-4 is a CD28 homologue on T cells; binding of B7 costimulatory molecules to CTLA-4 suppresses
+   antigen-dependent T-cell stimulation. Ipilimumab is approved in melanoma, where PD-1 + CTLA-4
+   blockade is synergistic but toxic.
+ • CheckMate 016 (phase I dose-finding in RCC): nivolumab 3 mg/kg + ipilimumab 1 mg/kg every 3 weeks ×
+   4 doses had the most acceptable toxicity; higher ipilimumab doses gave substantially more grade 3–4
+   events.
+ • CheckMate 214 (phase III, first-line; 1096 randomised to nivolumab + ipilimumab or sunitinib; primary
+   analysis in 847 IMDC intermediate/poor-risk patients; co-primary OS, PFS and response):
+     ◦ OS: not reached versus 26.0 months (HR 0.63).
+     ◦ Response 42% versus 27%; complete response 9% versus 1%.
+     ◦ PFS 11.6 versus 8.4 months (HR 0.82) — not significant against the prespecified threshold.
+     ◦ Toxicity: grade 3–4 events 46%; immune-related events needing high-dose glucocorticoids 35%;
+       permanent discontinuation 22%.
+
+
+                                                           page 15 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                   Immune Checkpoint Inhibitor-Based Combination Strategies
+     ◦ Favourable-risk patients did better with sunitinib.
+     ◦ Patient-reported outcomes: fewer symptoms and better health-related quality of life than sunitinib in
+       intermediate/poor risk.
+     ◦ → Standard-of-care option for first-line intermediate/poor-risk ccRCC.
+ • Checkpoint + VEGF-axis combinations — rationale: single-agent activity of both classes plus preclinical
+   synergy. VEGF-pathway inhibitors are immunomodulatory: sunitinib reduces regulatory T cells, and
+   sunitinib and sorafenib suppress immunosuppressive tumour-associated macrophages.
+ • First-generation pairings failed on toxicity: nivolumab + sunitinib or pazopanib was active in pretreated
+   patients but prohibitively toxic → newer, more selective VEGF-pathway agents were paired instead.
+ • KEYNOTE-426 (phase III; axitinib 5 mg twice daily + pembrolizumab 200 mg every 3 weeks versus
+   sunitinib; all IMDC risk groups): PFS and OS both improved in the intention-to-treat population; response
+   60.4% versus 39.6%. PFS benefit was consistent across IMDC groups and independent of PD-L1 → FDA
+   first-line approval, all risk groups, April 2019.
+ • JAVELIN Renal 101 (phase III; avelumab [anti-PD-L1] 10 mg/kg every 2 weeks + axitinib versus sunitinib;
+   primary endpoints PFS and OS in PD-L1-positive patients): PFS improved in PD-L1-positive patients and in
+   the intention-to-treat population; OS immature. Responses were not differentiated by PD-L1 or tumour
+   mutational burden. FDA approval May 2019, but not a preferred regimen in National Comprehensive
+   Cancer Network (NCCN) guidelines because OS remains under evaluation.
+ • CheckMate 9ER (phase III, untreated, all IMDC groups; cabozantinib 40 mg daily + nivolumab 240 mg
+   every 2 weeks versus sunitinib; primary PFS): PFS 16.6 versus 8.3 months (HR 0.51); response 55.7%
+   versus 27.1%; OS benefit. Benefits consistent across IMDC groups and independent of PD-L1. Final
+   analysis: median OS 37.7 versus 34.3 months (HR 0.70) → FDA approval, all risk groups, January 2021.
+ • CLEAR (phase III; lenvatinib 20 mg daily + pembrolizumab 200 mg every 3 weeks versus sunitinib, with a
+   third arm of lenvatinib + everolimus): PFS 23.9 versus 9.2 months (HR 0.39); response 71% versus 36.1%;
+   longer OS (HR 0.66). PFS benefit held across IMDC groups and regardless of PD-L1, organ metastasis,
+   prior nephrectomy or sarcomatoid histology → FDA approval, all risk groups, August 2021. In the third
+   arm, lenvatinib + everolimus improved PFS over sunitinib (14.7 months; HR 0.65) but not OS (HR 1.15).
+ • Synthesis: PD-1/TKI combinations have never been compared directly with PD-1/CTLA-4 blockade, but
+   show at least comparable efficacy with a more favourable toxicity profile → now the front-line standard
+   of care.
+TABLE 144.8 PHASE III TRIALS OF IO/IO OR IO/TKI IN ADVANCED CLEAR CELL RENAL CELL CARCINOMA
+Motzer et al., 2018, 2019, 2021, 2022; Rini et al., 2019. All trials compared against sunitinib.
+                                                                                  Median PFS,            Median OS, ORR
+ Trial            Regimen (pairing)      Primary endpoint Patients                months (HR)            months (HR) (%)
+ CheckMate        Nivolumab +        OS, PFS, ORR in           1096 (847          11.6 vs 8.4 (0.82,     NR vs 26.0       42 vs
+ 214              ipilimumab (IO/IO) IMDC                      intermediate/      NS) → 11.6 vs 8.3      (0.63) →         27; CR
+                                     intermediate/             poor)              (0.73)                 47.0 vs 26.6     9 vs 1
+                                     poor                                                                (0.68)
+ KEYNOTE-426      Pembrolizumab +        OS, PFS               861                15.4 vs 11.1 (0.71)    NR vs 35.7       60.4
+                  axitinib (IO/TKI)                                               → 15.7 vs 11.1         (0.68) →         vs
+                                                                                  (0.68)                 45.7 vs 40.1     39.6
+                                                                                                         (0.73)
+ JAVELIN Renal Avelumab +                PFS and OS in PD- 886 (560 PD-L1- PD-L1+: 13.8 vs 7.2 PD-L1+: NR                 —
+ 101           axitinib (IO/TKI)         L1-positive       positive)       (0.61) → 13.8 vs    vs 28.6
+                                                                           7.0 (0.62); all     (0.83, NS)
+                                                                           patients: 13.8 vs
+                                                                           8.4 (0.69)
+
+
+
+                                                           page 16 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma                   Immune Checkpoint Inhibitor-Based Combination Strategies
+
+                                                                                  Median PFS,            Median OS, ORR
+ Trial            Regimen (pairing)      Primary endpoint Patients                months (HR)            months (HR) (%)
+ CheckMate        Nivolumab +            PFS                   651                16.6 vs 8.3 (0.51)     NR vs 29.5       55.7
+ 9ER              cabozantinib (IO/                                               → 17.0 vs 8.3          → 37.7 vs        vs
+                  TKI)                                                            (0.52)                 34.3 (0.70)      27.1
+ CLEAR            Pembrolizumab +        PFS, OS               1069 (three        23.9 vs 9.2 (0.39)     NR vs NR       71 vs
+                  lenvatinib (IO/TKI)                          arms)                                     (0.66 in text; 36.1
+                                                                                                         0.72 in
+                                                                                                         source table)
+
+Arrows mark successive data cuts (earlier analysis → longer follow-up). IO, immuno-oncology; CR, complete response;
+NR, not reached; NS, not significant.
+ • What the table is for: the evidence base for every preferred first-line regimen.
+ • Pattern: all five beat sunitinib on PFS or OS. CLEAR has the largest PFS and response effect. Nivolumab +
+   ipilimumab is the only IO/IO regimen, the only one confined to intermediate/poor risk, and the only one
+   whose PFS was not significant. JAVELIN is the only one without an OS benefit. PD-L1 status does not
+   select patients for any of them.
+ • Trap: avelumab is anti-PD-L1 (the others anti-PD-1), and avelumab + axitinib is FDA-approved but not
+   NCCN-preferred. Nivolumab + ipilimumab is not preferred for favourable risk.
+Concept — The combination era pairs a PD-1 blocker with either a second checkpoint (deeper, more durable
+responses at the price of autoimmune toxicity) or a VEGF TKI (higher response and PFS, better tolerated); that
+trade-off, not a difference in survival, drives the choice.
+
+Other Treatment Options in Patients With Clear Cell Renal Cell Carcinoma
+Chemotherapy
+ • Conventional cytotoxic chemotherapy is largely ineffective in ccRCC. Single agents (5-FU, platinum
+   compounds, gemcitabine, vinblastine, bleomycin) and a wide range of combinations fail.
+ • Meta-analyses: overall response 5.5–6.0%.
+ • Chemoresistance: overexpression of the multidrug resistance (MDR) gene is proposed, but adding MDR
+   inhibitors (toremifene, ciclosporin, verapamil) did not help → other, unrecognised factors.
+ • No role in most patients with ccRCC. Possible exception worth study: sarcomatoid component, where
+   gemcitabine-based chemotherapy showed promising activity in a small series.
+Hormonal Therapy
+ • Trialled in the 1970s and 1980s, before cytokines, for lack of alternatives and because the male
+   preponderance (about 2:1) suggested a hormonal basis.
+ • Medroxyprogesterone and similar agents produce regressions in a small minority; response about 2%.
+ • Progestational and other hormonal agents have no current role.
+Concept — ccRCC is intrinsically chemoresistant and hormone-insensitive; its exploitable vulnerabilities are
+angiogenic (VHL–HIF) and immunological, which is why effective therapy arrived only with those two drug
+classes.
+
+CURRENT THERAPEUTIC STRATEGIES FOR CLEAR CELL RENAL CELL CARCINOMA
+First-Line Therapies for Clear Cell Renal Cell Carcinoma
+ • Combination immuno-oncology (IO)/TKI or IO/IO therapy is the preferred first-line approach of both the
+   NCCN and the European Association of Urology (EAU), each stratifying by IMDC risk (Table 144.9).
+
+
+
+                                                           page 17 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma              Current Therapeutic Strategies for Clear Cell Renal Cell Carcinoma
+TABLE 144.9 GUIDELINE-BASED FIRST-LINE THERAPIES FOR CLEAR CELL RENAL CELL CARCINOMA — NCCN VERSUS EAU
+                                                                   NCCN useful in
+                                             NCCN other            certain               EAU standard of            EAU if IO not
+ Risk              NCCN preferred            recommended           circumstances         care                       possible
+ Favourable        Axitinib +                Axitinib +            Active                Axitinib +                 Sunitinib;
+                   pembrolizumab;            avelumab;             surveillance;         pembrolizumab;             pazopanib
+                   cabozantinib +            cabozantinib;         axitinib; high-       cabozantinib +
+                   nivolumab;                ipilimumab +          dose IL-2             nivolumab;
+                   lenvatinib +              nivolumab;                                  lenvatinib +
+                   pembrolizumab             pazopanib;                                  pembrolizumab
+                                             sunitinib
+ Intermediate/ The same three +              Cabozantinib;         Axitinib; high-       The same three +           Cabozantinib;
+ poor          ipilimumab +                  axitinib +            dose IL-2;            ipilimumab +               sunitinib;
+               nivolumab                     avelumab;             temsirolimus          nivolumab                  pazopanib
+                                             pazopanib;
+                                             sunitinib
+
+ • Pattern: the three IO/TKI combinations are preferred in every risk group by both bodies; ipilimumab +
+   nivolumab joins them only for intermediate/poor risk. Single-agent TKIs are fallbacks.
+ • Trap: active surveillance is listed only for favourable risk, temsirolimus only for intermediate/poor. Single-
+   agent cabozantinib is an NCCN "other recommended" option, not a preferred one.
+
+Subsequent Therapy for Clear Cell Renal Cell Carcinoma
+ • NCCN stratifies by prior immunotherapy and designates no preferred regimen; the EAU stratifies by
+   prior IO versus prior TKI (Table 144.10).
+ • EAU: after IO → any VEGF-targeted therapy not previously used (with the IO); after TKI → nivolumab or
+   cabozantinib.
+TABLE 144.10 SUBSEQUENT LINE THERAPY FOR CLEAR CELL RENAL CELL CARCINOMA — NCCN VERSUS EAU
+ Prior                                                                                            EAU standard of       EAU
+ therapy      NCCN other recommended               NCCN useful in certain circumstances           care                  alternative
+ IO-naive     Axitinib + pembrolizumab;            Axitinib; everolimus; pazopanib;               Nivolumab;            Axitinib
+ (prior       cabozantinib; cabozantinib +         sunitinib; tivozanib; belzutifan;              cabozantinib
+ TKI)         nivolumab; ipilimumab +              bevacizumab; high-dose IL-2;
+              nivolumab; lenvatinib +              temsirolimus; axitinib + avelumab
+              everolimus; lenvatinib +
+              pembrolizumab; nivolumab
+ Prior IO     Axitinib; belzutifan;                Axitinib + pembrolizumab;                      Any VEGF-             None
+              cabozantinib; lenvatinib +           cabozantinib + nivolumab; everolimus;          targeted agent
+              everolimus; tivozanib                ipilimumab + nivolumab; lenvatinib +           not previously
+                                                   pembrolizumab; pazopanib; sunitinib;           used
+                                                   bevacizumab; high-dose IL-2;
+                                                   temsirolimus; axitinib + avelumab
+
+NCCN designates no preferred regimen in either setting. IL-2, interleukin-2; IO, immuno-oncology; TKI, tyrosine kinase
+inhibitor.
+ • Pattern: after IO, the recommended options are all VEGF-axis agents or belzutifan; after a TKI alone, a
+   checkpoint inhibitor or cabozantinib.
+ • Trap: belzutifan and tivozanib belong to the post-IO setting; re-challenge with an IO combination after IO
+   is only "useful in certain circumstances".
+Concept — Sequencing follows one rule: switch mechanism. Whichever axis was used first, the next line
+attacks the other, or a VEGF target not yet used.
+
+
+                                                           page 18 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma           Systemic Therapy for Non–Clear Cell Variants of Renal Cell Carcinoma
+
+SYSTEMIC THERAPY FOR NON–CLEAR CELL VARIANTS OF RENAL CELL CARCINOMA
+ • Non-clear cell subtypes make up about 15–25% of kidney cancers. They have been studied in few
+   prospective trials and have no agents of proven efficacy, so patients often receive ccRCC agents.
+Papillary RCC and VEGF-pathway agents
+ • VEGFR inhibitors have only modest efficacy in papillary RCC. Sorafenib and sunitinib showed minimal
+   activity retrospectively; prospective phase II sunitinib responses were 5–10%.
+ • Erlotinib (oral EGFR inhibitor; Southwest Oncology Group): modest response with poor 6-month PFS.
+mTOR inhibitors
+ • Temsirolimus: in an exploratory subgroup of the poor-prognosis phase III trial (about 20% non-clear cell,
+   mostly papillary), OS and PFS were better than with IFN — limited by being a subgroup analysis.
+ • Everolimus: RAPTOR (phase II, first-line papillary) gave modest PFS; about a quarter stopped for adverse
+   events (asthenia, fatigue, anaemia). A second phase II in non-clear cell RCC found responders among
+   chromophobe, papillary and unclassified tumours, with a trend to longer PFS in chromophobe → modest
+   activity.
+ • Sunitinib versus everolimus (two randomised phase II trials): both modest; neither clearly superior; trend
+   favouring sunitinib.
+Hereditary papillary renal carcinoma and the MET pathway
+ • Hereditary forms of papillary and chromophobe RCC reveal the critical molecular events in both familial
+   and sporadic tumours, as VHL did for ccRCC.
+ • Hereditary papillary renal carcinoma (HPRC): bilateral, multifocal papillary type 1 RCC, caused by
+   activating germline mutations in the tyrosine kinase domain of the proto-oncogene MET on
+   chromosome 7, usually with nonrandom duplication of the chromosome carrying the mutant allele.
+ • MET is the cell-surface receptor for hepatocyte growth factor (HGF); kinase-domain mutations make it
+   constitutively active. The HGF/MET pathway drives growth, proliferation and motility.
+ • Fig. 144.12: MET activation (by HGF binding, autocrine or paracrine, or by activating mutation or
+   overexpression) signals through effectors such as Grb2 → motility, matrix remodelling, survival and
+   proliferation → invasion, metastasis and tumour progression. Intervention points: HGF-binding
+   antagonists, MET tyrosine kinase inhibitors, receptor/effector antagonists.
+ • Sporadic papillary RCC: activating somatic MET mutations in a minority (about 13%); trisomy 7 (carrying
+   both HGF and MET) in more than two-thirds — an alternative route to MET activation.
+ • Foretinib (MET + VEGFR2 inhibitor; intermittent and continuous dosing cohorts): modest overall response;
+   primary endpoint (response ≥25%) not met; hypertension commonest adverse event. Germline MET
+   mutation carriers: about half responded, versus few without → MET inhibition viable in a subset.
+ • Selective MET inhibitors (savolitinib, crizotinib; little VEGFR activity) show activity in MET-activated
+   tumours; randomised trials against sunitinib are ongoing.
+Hereditary leiomyomatosis and renal cell cancer and fumarate hydratase
+ • HLRCC: germline mutation of fumarate hydratase (FH), the Krebs-cycle enzyme converting fumarate to
+   malate → highly aggressive papillary type 2 RCC.
+ • Fumarate accumulation causes VHL-independent HIF upregulation and activation of proangiogenic and
+   growth factors.
+ • Metabolic shift: Krebs-cycle disruption → dependence on aerobic glycolysis → exquisite sensitivity to
+   glucose deprivation.
+
+
+
+
+                                                           page 19 of 20
+Chapter 144 — Treatment of Advanced Renal Cell Carcinoma           Systemic Therapy for Non–Clear Cell Variants of Renal Cell Carcinoma
+ • Bevacizumab + erlotinib (NCI) was designed to restrict glucose delivery to the tumour microenvironment.
+   Interim data: high response rates, with partial responses in about two-thirds of HLRCC patients versus
+   under one-third with sporadic papillary RCC; longer follow-up required.
+Collecting duct carcinoma
+ • Rare variant resembling urothelial carcinoma; gemcitabine + carboplatin gives modest response and
+   survival.
+ • Summary: no standard approach of proven efficacy for most non-clear cell RCC; trial enrolment should
+   be considered for all.
+HEREDITARY RCC SYNDROMES — GENE, TUMOUR AND THERAPEUTIC LEAD
+                             Gene
+ Syndrome                    (chromosome)          Tumour                   Mechanism                  Therapeutic lead
+ Von Hippel-Lindau           VHL (3p), loss of     Bilateral multifocal     HIF-α not degraded         VEGF/VEGFR, mTOR,
+                             function              clear cell                                          HIF-2α (belzutifan)
+ Hereditary papillary        MET (7),              Bilateral multifocal     Constitutive MET           MET inhibitors (foretinib,
+ renal carcinoma             activating            papillary type 1         kinase                     savolitinib, crizotinib)
+ Hereditary                  FH, loss of           Aggressive papillary Fumarate → HIF;                Bevacizumab + erlotinib
+ leiomyomatosis and          function              type 2               aerobic glycolysis             (glucose restriction)
+ RCC
+
+ • Hereditary versus sporadic papillary: germline MET mutation in HPRC versus somatic mutation in a
+   minority, with trisomy 7 in the majority, of sporadic tumours; responses to MET inhibition and to
+   bevacizumab + erlotinib are markedly greater in the hereditary form.
+Concept — In non-clear cell RCC the hereditary syndrome names the driver, and the driver names the drug:
+MET inhibition for MET-driven papillary tumours, glucose restriction for FH-deficient tumours. Borrowed clear
+cell drugs give only modest activity.
+
+
+
+
+                                                           page 20 of 20
+
