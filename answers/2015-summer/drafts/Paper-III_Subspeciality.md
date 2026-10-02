@@ -264,16 +264,17 @@ Exclude PUV/neurogenic bladder, treat BBD
 *HSG (hysterosalpingography) is not done in neonates, so this is taken as "USG (ultrasonography) in neonates".*
 
 ### Introduction
-- First-line, radiation-free imaging, mainly for antenatal **UTD (urinary tract dilation)** (1–3% of pregnancies).
+- First-line, radiation-free imaging. For antenatal **UTD (urinary tract dilation)** (1–3% of pregnancies), febrile UTI (urinary tract infection), mass, poor stream.
 
 ### Timing and technique
-- **First scan after 48 hours**: newborns are relatively dehydrated, so earlier scans under-read dilatation.
-- **Scan early if outlet obstruction is suspected**; catheterise and give prophylaxis.
-- Normal: **prominent hypoechoic pyramids** (not hydronephrosis); **APD (anteroposterior pelvic diameter)** under 10 mm.
+- **First scan after 48 hours**: earlier, relative dehydration under-reads dilatation.
+- **Scan early if outlet obstruction is suspected**; catheterise.
+- Measure **APD (anteroposterior pelvic diameter)** on a transverse mid-kidney view; assess calyces, parenchyma, ureters, bladder wall (thick if over 3 mm when full).
+- Normal: **prominent hypoechoic pyramids** (not hydronephrosis); APD under 10 mm.
 
 ### Grading
-- **SFU (Society for Fetal Urology) 0–4**: pelvis; major calyces; minor calyces; plus parenchymal thinning.
-- **UTD 2014** combines both (prenatal A1, A2–3; postnatal P1–P3):
+- **SFU (Society for Fetal Urology)**: 0 none; 1 pelvis only; 2 major calyces; 3 minor calyces too; 4 plus parenchymal thinning.
+- **UTD 2014**: prenatal A1 (APD 4 to <7 mm before 28 weeks, 7 to <10 mm after) versus A2–3 (larger, or any other abnormality); postnatal:
 
 | Grade | Findings | Plan |
 |---|---|---|
@@ -284,13 +285,15 @@ Exclude PUV/neurogenic bladder, treat BBD
 ### Specific findings
 | Condition | USG |
 |---|---|
-| PUJO (pelviureteric junction obstruction) | Dilated pelvis, normal ureter; pyramids under 3 mm thick predict pyeloplasty |
-| VUR (vesicoureteral reflux) | Up to 25% have a normal first scan |
+| PUJO (pelviureteric junction obstruction) | Dilated pelvis, normal ureter; pyramids under 3 mm predict pyeloplasty |
+| VUR (vesicoureteral reflux) | Normal first scan in up to 25% |
 | **PUV (posterior urethral valves)** | Bilateral hydroureteronephrosis, thick bladder, dilated posterior urethra (**keyhole sign**); VCUG before discharge |
-| Ureterocele | Thin-walled intravesical cyst; dilated upper pole |
+| Ureterocele | Thin-walled intravesical cyst |
 | MCDK (multicystic dysplastic kidney) | Non-communicating cysts, no central pelvis |
-
-- **Also know:** ARPKD (autosomal recessive polycystic kidney disease): large bright kidneys; mesoblastic nephroma; renal vein thrombosis; adrenal haemorrhage; twinkling artefact (stones).
+| ARPKD (autosomal recessive polycystic kidney disease) | Bilateral large, bright kidneys |
+| Renal vein thrombosis | Large echogenic kidney, no venous flow; haematuria, mass, thrombocytopenia |
+| Adrenal haemorrhage | Avascular, evolving suprarenal mass (neuroblastoma is vascular) |
+- **Also know:** mesoblastic nephroma; twinkling artefact (stones).
 
 ### Recent advances
 - ceVUS (contrast-enhanced voiding urosonography).
@@ -316,25 +319,25 @@ Exclude PUV/neurogenic bladder, treat BBD
 | **Malleable** | Tactra (nitinol), Genesis | Simple, cheap, no mechanical failure; always rigid |
 | **2-piece inflatable** | Ambicor (discontinued) | No reservoir; poor flaccidity |
 | **3-piece inflatable** | AMS 700, Titan | **Best rigidity and true flaccidity**; cylinders, scrotal pump, reservoir |
-- Penoscrotal or infrapubic approach. Reservoir in Retzius, or **ectopic submuscular** after pelvic surgery (lockout valve prevents autoinflation).
-- **Also know:** erosion, pump migration, glans hypermobility, cylinder aneurysm; Peyronie's disease may need modelling.
+- Penoscrotal or infrapubic approach; reservoir in Retzius or **ectopic submuscular** after pelvic surgery.
+- **Also know:** erosion, pump migration, glans hypermobility, cylinder aneurysm; modelling in Peyronie's disease.
 
 ### Biofilm
-- **Definition**: a structured community of microorganisms in a self-made **polysaccharide matrix**, stuck to the implant.
-- **Stages**: attachment, microcolonies, maturation, dispersal (clinical infection).
+- **Definition**: a structured microbial community in a self-made **polysaccharide matrix**, attached to the implant.
+- **Stages**: (1) conditioning film of host proteins coats the device within minutes; (2) reversible, then irreversible bacterial adhesion; (3) microcolonies; (4) maturation into a 3D structure with water channels and quorum sensing; (5) dispersal of free bacteria, causing clinical infection.
 - **Organisms**: coagulase-negative staphylococci commonest; also S. aureus, Gram-negatives, Candida.
-- **Why antibiotics fail**: poor penetration and dormant bacteria, which survive up to **1000–1500 times** normal killing levels.
+- **Why antibiotics fail**: the matrix blocks penetration, bacteria are slow-growing (persisters), and they survive up to **1000–1500 times** normal killing levels.
 - **Relevance**: organisms from the first operation lie dormant; revising an uninfected device gives about 10% infection, cut to about 3% by **antiseptic washout**.
 
 ### Prevention (infection 1–3%)
-- Glucose under 200 mg/dL on the day; treat skin and urine; MRSA (methicillin-resistant S. aureus) decolonisation if carrier.
+- Glucose under 200 mg/dL; treat skin and urine; decolonise MRSA (methicillin-resistant S. aureus) carriers.
 - **Chlorhexidine-alcohol** skin preparation; vancomycin or cephalosporin plus gentamicin for up to 24 hours.
 - **Coatings halve infection**: InhibiZone (rifampin–minocycline); hydrophilic coating dipped in antibiotic.
 - **No-touch technique**: under 0.5%.
 
 ### Infected implant
 - Pus, fixed pump or exposed parts: remove **all** components.
-- **Mulcahy salvage**: explant, antiseptic washes, immediate new device; **84%** success. Fails with early onset, aggressive organisms, cellulitis.
+- **Mulcahy salvage**: remove all parts; wash with dilute povidone-iodine (3 minutes) then saline or antibiotic; change gloves, drapes and instruments; insert a new device at once. Success **84%**; fails with early onset, aggressive organisms, cellulitis.
 
 **Diagram to draw:** 3-piece device; biofilm life cycle.
 

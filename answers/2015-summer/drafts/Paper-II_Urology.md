@@ -365,7 +365,7 @@ Penile block → aspiration ± irrigation
 **Diagram to draw:** Bench arterial reconstruction.
 
 > **Key points to remember:**
-> - Autologous for small vessels/contaminated fields; PTFE/Dacron for IVC/aorta.
+> - Transplant: Carrel patch, bench reconstruction; preserve the lower pole artery.
 > - IVC: patch if lumen <50%; PTFE replacement if wall invaded.
 > - Post-chemotherapy RPLND: IVC can be ligated, aorta must be grafted.
 
@@ -375,11 +375,18 @@ Penile block → aspiration ± irrigation
 **Type:** SAQ (10 marks)
 
 ### Physics and technique
-- Piezoelectric crystals; higher frequency gives better resolution, less penetration.
+- Piezoelectric crystals; higher frequency: better resolution, less penetration.
 - **6–10 MHz** end-fire, side-fire or biplane probes; left lateral position after DRE (digital rectal examination).
 
 ### Sonographic anatomy
-- Zones are not seen separately: the posterior **peripheral zone** (~70% of cancers) is homogeneous and echogenic; the **transition zone** (BPH (benign prostatic hyperplasia)) heterogeneous. Seminal vesicles are about 4.5–5.5 × 2 cm.
+| Zone (McNeal) | Glandular volume | TRUS appearance | Cancers |
+|---|---|---|---|
+| Peripheral | ~70% | Homogeneous, echogenic | ~70% |
+| Transition | 5–10% (BPH (benign prostatic hyperplasia)) | Heterogeneous | ~20–25% |
+| Central | ~25% | Homogeneous, echogenic | ~5–10% |
+| Anterior fibromuscular stroma | Non-glandular | Hypoechoic | – |
+
+- Corpora amylacea mark the surgical capsule; seminal vesicles about 4.5–5.5 × 2 cm.
 
 ### Measurements
 - **Volume (ellipsoid) = 0.52 × transverse × AP (anteroposterior) × length**; 1 mL ≈ 1 g; normal 20–25 g. Planimetry for brachytherapy.
@@ -387,15 +394,15 @@ Penile block → aspiration ± irrigation
 
 ### Findings
 - **Cancer**: classically hypoechoic peripheral-zone lesion, but 39% are isoechoic; false positives are BPH nodules and prostatitis.
-- **Cysts**: midline Müllerian; off-midline ejaculatory duct cyst (azoospermia).
+- **Cysts**: midline Müllerian; off-midline ejaculatory duct cyst.
 
 ### Indications
-- Biopsy; volume before BPH surgery or brachytherapy; azoospermia; abscess drainage.
+- Biopsy; volume before BPH surgery or brachytherapy; ejaculatory duct obstruction (seminal vesicles >1.5 cm wide, dilated ducts, midline cyst); abscess drainage.
 
 ### TRUS (transrectal ultrasound)-guided biopsy
-- **12-core** systematic biopsy (sextant is inadequate) under periprostatic lidocaine block.
+- **12-core** systematic biopsy: medial and lateral cores at base, mid-gland and apex (sextant alone is inadequate). Periprostatic lidocaine block at the junction of prostate base and seminal vesicle.
 - Contraindications: coagulopathy, acute prostatitis, severe immunosuppression. Continue low-dose aspirin; stop warfarin or clopidogrel 5–7 days.
-- Complications: haematuria, haematospermia, rectal bleeding, **sepsis** (0.3–3%) from FQ (fluoroquinolone)-resistant E. coli; targeted or augmented prophylaxis.
+- Complications: haematuria, haematospermia, rectal bleeding, **sepsis** (0.3–3%) from FQ (fluoroquinolone)-resistant E. coli; povidone-iodine rectal cleansing plus targeted or augmented prophylaxis.
 
 ### Current shift
 - **Transperineal biopsy** preferred by EAU (European Association of Urology) for lower infection risk.
