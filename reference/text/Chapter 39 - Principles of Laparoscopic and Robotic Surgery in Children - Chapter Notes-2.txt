@@ -1,0 +1,672 @@
+Chapter 39 — Principles of Laparoscopic and Robotic
+Surgery in Children
+Campbell-Walsh-Wein Urology · Part V Paediatric Urology · Chapter Notes
+
+
+HISTORY OF MINIMALLY INVASIVE SURGERY IN CHILDREN
+ • First paediatric urological laparoscopy was diagnostic, for the non-palpable testis (1976): it confirmed
+   presence or absence of the testis, avoided open exploration and changed the management of
+   cryptorchidism. Initially resisted, it irreversibly changed paediatric urology.
+ • 1990s, extirpative surgery: laparoscopic nephrectomy was established in adults, then reported in children
+   (1994). Paediatric uptake was slower because of port size and ergonomics.
+ • Laparoscopic pyeloplasty was the first reconstructive minimally invasive surgery (MIS) in children
+   (1995). Early cases were long because laparoscopic suturing is difficult; as exposure grew, adoption
+   widened and indications expanded.
+ • The da Vinci platform was approved for adult urology in 2000; the first paediatric robotic procedure
+   followed in 2002. It corrected the ergonomic and technical difficulties of pure laparoscopy, and robotic
+   pyeloplasty and ureteric reimplantation are now routine, with increasingly complex reconstruction.
+ • Sequence: diagnostic (1976) → extirpative (1994) → reconstructive (1995) → robotic (2002).
+Concept — Each stage was gated by the same bottleneck, intracorporeal suturing and ergonomics; the robot
+removed that bottleneck, which is why reconstruction, not extirpation, is where paediatric robotics has
+grown.
+
+ACCESS
+ • Insufflation needs initial peritoneal entry, by two classic approaches.
+
+OPEN VERSUS CLOSED ACCESS
+            Open access (Hasson)                                 Closed access (Veress needle)
+Principle   Entry under direct vision; port placed before        Blind entry with a spring-loaded blunt-tipped needle;
+            insufflation                                         insufflate before port placement
+Steps       Skin incision (about port size) to fascia → fascia   Needle passed, clicking through each layer → aspirate
+            and peritoneum opened under vision → port            → saline test → insufflate → check opening pressure
+            inserted → insufflation
+Rationale Ensures intraperitoneal port position; avoids          Position confirmed by tests before gas is given
+          intra-abdominal injury
+Origin      —                                                    Designed by János Veres (1938) for therapeutic
+                                                                 pneumothorax in tuberculosis; first used for insufflation
+                                                                 by Raoul Palmer, gynaecologist (1947)
+Evidence    Cochrane review: no difference in successful entry, mortality, vascular or visceral injury. Children: no
+            robust comparisons; both safe and reproducible
+
+Veress technique
+ • Site: the umbilicus in children. If entry fails or prior scarring raises concern, use Palmer's point: left upper
+   quadrant, midclavicular line, about 3 fingerbreadths below the costal margin.
+ • Confirmation: aspirate first, to exclude a vessel or hollow viscus → inject saline, which should drop
+   immediately; if it does not, the needle is malpositioned or the patient insufficiently relaxed → connect
+   insufflation and monitor opening pressure.
+
+
+
+                                                        page 1 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                                                  ACCESS
+ • Right common iliac vein injury is reported with Veress entry because it lies near the umbilicus.
+
+ KEY POINTS: ACCESS
+   • Open (Hasson) access gives direct visualisation and port placement into the peritoneum before
+     insufflation.
+   • Closed (Veress) access uses a spring-loaded needle to enter and insufflate before port placement.
+   • The right common iliac vein is the vessel most commonly injured during Veress placement.
+   • In children there are no data showing superiority or lower risk of either modality.
+
+Concept — The two techniques trade direct vision against speed, yet outcomes do not differ; what protects
+the patient is confirmation of intraperitoneal position (aspiration, saline drop, low opening pressure), not
+the choice of method.
+
+PATIENT POSITIONING
+ • Positioning determines patient safety, robotic system optimisation and surgeon ergonomics.
+
+RENAL VERSUS PELVIC POSITIONING
+              Transperitoneal renal                                           Pelvic
+ Position     Modified flank, at the bed edge (full instrument range, no      Supine; frog-leg if urethral or genital access is
+              clash with bed)                                                 needed
+ Exposure Flank elevated 30–45° on a jelly roll so bowel falls away           Steep Trendelenburg
+          from the retroperitoneum
+ Limbs        Lower leg bent, upper leg straight, pillows or foam    Pressure points padded
+              between; shoulder padded; lower arm on armboard out of
+              robotic arm range
+ Security     Belts and tape, no tape over joints or directly on skin; test   Strapped securely for steep tilt; a metal shelf
+              table rotation before preparation                               ("head butler") protects the head from
+                                                                              instruments
+
+ • Transmesenteric renal cases need less flank elevation and rotation because the colon is not reflected.
+ • Musculoskeletal anomalies — contracture, limited range of motion, scoliosis, common in spina bifida —
+   need thoughtful positioning and generous padding.
+Concept — Positioning uses gravity to create exposure and fixation to survive table tilt; everything else is
+protection of pressure points and skin.
+
+PHYSIOLOGY OF PNEUMOPERITONEUM
+ • Working space is made by filling potential space with inert gas; raised intra-abdominal pressure (IAP)
+   causes changes absent in open surgery.
+ • Routine MIS raises IAP to 12–15 mm Hg, with haemodynamic, intracranial, pulmonary and renal effects. In
+   children these are minimised by keeping IAP below 12 mm Hg, and lower pressures (about 7 mm Hg) are
+   feasible and safe.
+
+Cardiovascular Changes
+ • Insufflation above 10 mm Hg decreases venous return and so cardiac index; lower pressures increase
+   venous return and cardiac index.
+ • Catecholamine release with renin–angiotensin–aldosterone system (RAAS) activation causes
+   vasoconstriction, raising mean arterial pressure and systemic vascular resistance.
+
+
+
+                                                               page 2 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                   PHYSIOLOGY OF PNEUMOPERITONEUM
+ • Carbon dioxide (CO₂) absorption causes hypercarbia and acidosis, which vasodilate and depress
+   contractility — opposing the RAAS effect.
+ • Initial peritoneal distension can provoke either reflex:
+
+VAGAL VERSUS SYMPATHETIC RESPONSE TO INSUFFLATION
+ Vagal                                                                                        Sympathetic
+ Cardiovascular instability and bradycardia                                                   Tachycardia
+
+ • Management: tell the anaesthetic team when insufflation starts → if unstable, desufflate, then
+   reinsufflate slowly → most procedures can then continue.
+
+Pulmonary Changes
+ • Pressure on the diaphragm reduces pulmonary excursion; cephalad lung displacement raises peak airway
+   pressure.
+ • CO₂ is the gas of choice — non-combustible, soluble and excreted by respiration. Greater absorption
+   needs higher minute ventilation; with lung disease it can cause hypercarbia, arrhythmia and acidosis.
+ • Infants and small children are affected most: IAP up to 15 mm Hg reduces tidal volume and compliance.
+   Trendelenburg for pelvic surgery worsens this, especially with cardiopulmonary comorbidity.
+
+Intracranial Pressure
+ • Hypercarbia raises cerebral blood flow, and intracranial blood flow can rise even when CO₂ is controlled
+   (mechanism unclear) — relevant to prolonged Trendelenburg and ventriculoperitoneal (VP) shunts.
+
+VENTRICULOPERITONEAL SHUNTS: HISTORICAL CONCERN VERSUS CURRENT EVIDENCE
+ Historical concern                                                              Current evidence
+ Raised intracranial pressure (ICP): shunt obstruction by the                    MIS with VP shunts is generally safe,
+ pneumoperitoneum plus venous outflow obstruction from raised                    without significant ICP rise, even at
+ intrathoracic and intra-abdominal pressure                                      elevated pressures
+
+Renal Effects
+ • Raised IAP reduces renal perfusion and oxygenation. Rat: IAP of 15 mm Hg or more significantly reduces
+   renal perfusion, with an inverse IAP–oxygenation relationship. Swine renal-insufficiency model (20 mm
+   Hg for 6 hours): reduced glomerular filtration rate (GFR), urine output and renal blood flow immediately,
+   but GFR at baseline by 1 week — the effect is temporary.
+ • Children, flank near-infrared spectroscopy: age-appropriate pressures do not significantly reduce renal
+   perfusion or urine output.
+
+AGE-APPROPRIATE MAXIMUM INSUFFLATION PRESSURES
+ Age                            0–1 month                2–12 months          1–2 years             2–8 years
+ Maximum IAP                    ≤ 6 mm Hg                ≤ 8 mm Hg            ≤ 10 mm Hg            ≤ 12 mm Hg
+
+ • Pattern: 2 mm Hg per age step, from 6 to 12; the oldest band equals the general paediatric ceiling.
+ • Intraoperative and early postoperative oliguria is most pronounced under 1 year, from reduced renal
+   perfusion. It is reversible, and urine output during pneumoperitoneum is not a reliable guide to fluid
+   resuscitation.
+
+ KEY POINTS: PHYSIOLOGY OF THE PNEUMOPERITONEUM
+   • Insufflation pressures even below 10 mm Hg may affect cardiac preload and afterload, with
+     implications in complex cardiac anatomy.
+
+
+
+                                                               page 3 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                         PHYSIOLOGY OF PNEUMOPERITONEUM
+   • Intracranial pressure may increase with pneumoperitoneum.
+   • Oliguria from pneumoperitoneum should not be treated initially with intravenous fluid.
+
+Concept — Almost every effect is pressure-dependent and transient: dosed by IAP and reversed by
+desufflation, so the paediatric strategy is the lowest age-appropriate pressure rather than treating
+consequences — hence no fluid bolus for oliguria.
+
+EQUIPMENT
+ • Ports and instruments have evolved under constant demand for smaller technology for children.
+
+Ports
+REUSABLE VERSUS DISPOSABLE PORTS
+ Reusable                                                            Disposable
+ Metal; perforator tip blunt or sharp                                Plastic; perforator tip bladed or blunt
+
+ • Diameters 3, 5, 8, 10, 12 and 15 mm. 3- and 5-mm laparoscopic ports suit very small children; most
+   robotic platforms use 8 mm.
+ • Radially expanding access (REA) cannulas dilate from Veress diameter up to 12 mm, designed to reduce
+   port-site pain and potentially hernia and bleeding. They show less port-site bleeding; evidence on other
+   complications is lacking.
+
+VALVED VERSUS VALVELESS TROCARS
+ Valved (traditional)                                   Valveless
+ One-way valve; pressure drops when                     Recirculates gas: constant flow and pressure; safe, less CO₂;
+ instruments pass or suction runs                       subcutaneous emphysema at the trocar reported
+
+Port Placement
+ • Placement follows the number of instruments and access to the target; there are no formal rules —
+   preference and habitus decide.
+
+TRIANGULATION VERSUS LINEAR PORT PLACEMENT
+ Triangulation                                              Linear
+ Traditional; essential in pure laparoscopy;                Preferred by many in robotic paediatric cases; more working
+ optimal ergonomics, less clashing                          space, fewer collisions; feasible on the da Vinci Xi
+
+ • "Burping" the ports: clutch the robotic port and pull upwards on the skin to enlarge the working space.
+ • Hidden incision endoscopic surgery (HIdES) (described 2011) moves the camera port so that ports lie
+   below the Pfannenstiel line. Used for renal surgery, ureteric reimplantation, urachal remnant excision and
+   single-port surgery; equivalent outcomes for robotic pyeloplasty in small series. Advantage: no visible
+   scar above the clothing line; yet only a minority of surveyed paediatric urologists use it.
+
+ KEY POINTS: PORT PLACEMENT
+   • Pure laparoscopy relies on triangulation for optimal ergonomics and instrument efficiency.
+   • Modern robotic platforms allow more freedom in port position.
+   • Placement variations allow ports in less visible areas.
+
+
+
+
+                                                               page 4 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                                                   EQUIPMENT
+Instruments
+ • Pure laparoscopic instruments mimic open ones but offer only 4 degrees of freedom (DOF): in/out, up/
+   down, left/right and axial rotation. They are sized to ports; 5- and 3-mm instruments suit small children.
+
+ATRAUMATIC VERSUS TRAUMATIC GRASPERS
+ Atraumatic                                                               Traumatic
+ Fine serrations; bowel, delicate tissue                                  Deep serrations or teeth; secure grip
+
+ • Cutting instruments mirror open ones; many connect to cautery with an insulated sheath against thermal
+   injury.
+
+LAPAROSCOPIC VERSUS ROBOTIC NEEDLE DRIVERS
+ Laparoscopic                                                                         Robotic
+ Locking; straight or curved (right and left versions); not wristed —                 Various sizes; straight tip only; wristed —
+ complex suturing hard                                                                suturing easier
+
+Haemostatic energy devices
+
+ENERGY MODALITIES COMPARED
+           Monopolar                                          Bipolar (including LigaSure)                           Harmonic
+ Energy Electrical                                            Electrical                                             Ultrasonic
+ Circuit   Patient grounded; current passes                   No grounding; current passes through tissue            No electrical
+           instrument → tissue                                between the jaws                                       circuit
+ Sealing —                                                    LigaSure seals vessels up to 7 mm, divides             Seals up to 7
+                                                              tissue; three energy settings by desiccation           mm
+                                                              level
+ Risk      Any exposed metal conducts → thermal               Less collateral damage than monopolar                  Equivalent to
+           injury; insulation added                                                                                  bipolar
+ Fits      Most laparoscopic and robotic                      Dedicated devices                                      Dedicated
+           instruments, including scissors and                                                                       devices
+           graspers
+
+ • Harmonic versus bipolar sealers (non-urological studies): no significant difference in blood loss, adjacent
+   tissue damage or postoperative bleeding — vendor or surgeon choice.
+
+Robotic Technology
+ • First human robotic trial: 1997, "Mona" (after the Mona Lisa; Intuitive Surgical). The bedside assistant
+   held the camera, but wristed, exchangeable instruments preserved the sterile field — the first
+   generation.
+ • da Vinci is the most widely adopted, with up to four independent arms.
+
+DA VINCI XI VERSUS DA VINCI SP
+ Xi (multiport)                                    SP (single port)
+ Ports as small as 8 mm; no 5-mm ports             One 25-mm port: camera + three double-jointed wristed instruments
+
+Concept — Equipment evolution is driven by miniaturisation for small bodies and restoration of the wrist
+lost in laparoscopy; the robot restores the wrist at a larger minimum size (8-mm ports, 25-mm single port),
+which is the central paediatric tension.
+
+
+
+
+                                                               page 5 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                                      PATIENT SELECTION
+
+PATIENT SELECTION
+ • Individual risk–benefit assessment, including the surgeon's ability and experience; anaesthetic risk and
+   overall health are usually the primary drivers.
+ • Significant cardiac or pulmonary pathology: evaluation by the primary physician and discussion with the
+   anaesthetist about tolerance of pneumoperitoneum.
+ • Learning-curve progression: healthy children → unoperated abdomens → larger children → only then
+   complex procedures in medically complex patients.
+
+ KEY POINTS: PATIENT SELECTION
+   • The only strict contraindication to MIS is inability to tolerate pneumoperitoneum.
+   • Significant cardiopulmonary comorbidity requires preoperative evaluation and optimisation with other
+     specialists and anaesthetists.
+
+Concept — Selection is physiological, not anatomical: tolerance of pneumoperitoneum decides candidacy,
+not age, size or diagnosis.
+
+INFANT ROBOTIC SURGERY
+ • Age and size are not contraindications; the infant problem is working space — about 1 L at 1 year versus
+   6 L in an adult.
+ • Robotic adoption is greatest in adolescents; most infant pyeloplasties remain open, though robotic use is
+   rising.
+ • Visualisation aids: limit bowel distension by minimising inhalational anaesthetic; preoperative enema;
+   intraoperative rectal tube to decompress flatus.
+ • Infant robotic pyeloplasty is safe, feasible and equivalent; against matched open cohorts it gives shorter
+   operative time and stay and less narcotic. Deterrents: small workspace, arm collisions, reduced range of
+   motion, learning curve.
+
+ KEY POINTS: INFANT ROBOTIC SURGERY
+   • Minimising inhalational anaesthetic decreases bowel distension and aids visualisation in the small
+     abdomen.
+
+Concept — Every infant difficulty follows from one number — a working volume about a sixth of the adult's
+— so every adjunct is an attempt to recover space.
+
+SURGICAL TECHNIQUE
+TRANSPERITONEAL, RETROPERITONEAL AND VESICOSCOPIC APPROACHES
+                Transperitoneal                            Retroperitoneal                   Vesicoscopic
+ Route          Peritoneal cavity →                        Directly into the retroperitoneum CO₂-insufflated bladder
+                retroperitoneum, incising one
+                peritoneal layer
+ Space          Largest                                    Limited                           Limited; smaller bladder
+                                                                                             predicts complications
+
+
+
+
+                                                               page 6 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                                      SURGICAL TECHNIQUE
+
+                Transperitoneal                            Retroperitoneal                    Vesicoscopic
+ Strengths      Commonest; familiar (shared with           Avoids the peritoneum, lower       Avoids the peritoneum;
+                general surgery); shows adjacent           morbidity                          intravesical access
+                organs and bowel for complex
+                reconstruction
+ Limitations Colon must be mobilised or a                  Unfamiliar view; peritoneal tear   Significant learning curve;
+             window used                                   loses the                          difficult access view; peritoneal
+                                                           pneumoretroperitoneum              violation at port placement;
+                                                                                              complex port-site closure
+ Uses           Intra-abdominal testis, bladder,           Pyeloplasty, nephrectomy,          Cross-trigonal ureteric
+                lower ureter, kidney                       heminephrectomy; lymph node        reimplantation
+                                                           dissection
+
+Transperitoneal Approach
+TRANSPERITONEAL RENAL ACCESS: RIGHT VERSUS LEFT
+ Right                                            Left
+ Right colon mobilised; retrocolic                Ureter and pelvis sometimes via a mesenteric window; minimal colonic
+ approach                                         handling
+
+ • In adults, transmesenteric pyeloplasty shortened operative time and stay with equivalent function; it is
+   considered advantageous in children when feasible.
+
+Retroperitoneal Approach
+ • Traditional for open urology. Versus open renal surgery: shorter stay, equivalent outcomes — useful in
+   peritoneal dialysis, avoiding dialysis delay from peritoneal violation.
+ • Systematic review of transperitoneal versus retroperitoneal laparoscopic nephrectomy: no significant
+   advantage to either; major complications rare. Used selectively; specific mentorship advised.
+ • Retroperitoneal lymph node dissection is reported for paratesticular rhabdomyosarcoma and non-
+   seminomatous germ cell tumours.
+
+Vesicoscopic Approach
+ • First described 2005 for cross-trigonal reimplantation: 5-mm camera port through the bladder dome
+   under cystoscopic vision → two small working ports through the bladder wall → urethra occluded →
+   bladder insufflated. Outcomes equivalent to other approaches.
+ • Robotic vesicoscopy is described and may grow, but the 8-mm ports of the Si/Xi limit it.
+Concept — The approaches trade working space against the peritoneum: transperitoneal buys space and
+familiarity by entering it; retroperitoneal and vesicoscopic preserve it at the cost of space — a trade that
+matters most where the peritoneum is needed, as in peritoneal dialysis.
+
+BENEFITS OF MINIMALLY INVASIVE SURGERY
+ • Paediatric MIS benefits remain debated despite widespread robotic use.
+
+Pain
+ • Smaller ports are believed to reduce pain. Robotic versus open pyeloplasty: one study found less narcotic
+   use, another no difference.
+ • No randomised trials; most supportive data come from adult robotic versus open prostatectomy. Opioid-
+   free analgesia is feasible after robotic prostatectomy, but no paediatric MIS data exist.
+
+
+
+
+                                                               page 7 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                     BENEFITS OF MINIMALLY INVASIVE SURGERY
+Admission / Length of Stay
+ • Length of stay (LOS) is a surrogate for recovery and pain; enhanced recovery after surgery (ERAS) is a
+   separate field, but approach also shapes convalescence.
+ • Pyeloplasty meta-analyses: MIS shorter than open, and robotic shorter than both laparoscopic and
+   open. Ureteric reimplantation meta-analysis: shorter LOS with MIS.
+ • Gains are in hours for pyeloplasty and reimplantation, but days for robotic Mitrofanoff and augmentation
+   cystoplasty, despite longer operative times. MIS is a recommended consideration in paediatric urology
+   ERAS.
+
+Cosmesis
+ • Secondary, but scars last for life. Incisions under 14.8 mm contract; larger ones enlarge — favouring ports
+   over open incisions, which usually exceed 20 mm.
+ • Pursuit of fewer scars: smallest robotic ports; "scarless" laparoscopy through stab incisions without
+   ports.
+ • Parents are more satisfied after robotic than open pyeloplasty.
+
+THREE- VERSUS FOUR-PORT COSMESIS
+ Parents                                                    Urologists
+ Prefer three ports                                         No difference in scarring
+
+ • Single-site laparoscopy improves cosmesis but is adopted slowly for technical difficulty; relocating ports,
+   as in HIdES, improves satisfaction.
+
+Pelvic Access
+ • As robotic prostatectomy showed, the robot has revolutionised surgery in the confined pelvis; it is
+   feasible and potentially advantageous for prostatic utricle, urogenital sinus, bladder neck reconstruction
+   and distal ureteric pathology.
+Concept — The benefits measured objectively — length of stay and scar — are consistent; the benefit most
+often assumed, pain, is the least proven and largely borrowed from adults.
+
+DRAWBACKS OF MINIMALLY INVASIVE SURGERY
+ • Cost: a da Vinci Xi with dual consoles exceeds US$2 million, plus annual service — potentially prohibitive
+   for a paediatric hospital; competition may lower prices.
+
+COST STUDIES: PHIS VERSUS KID
+ Pediatric Health Information System (PHIS)                          Kids' Inpatient Database (KID)
+ All robotic versus open cases: robotic significantly                Pyeloplasty: robotic dearer, no significant overall
+ dearer                                                              difference
+
+ • Cost falls with shorter operative time, higher hospital volume and shorter LOS.
+ • Teaching: usually one surgeon operates; haptic feedback and real-time teaching are harder to reproduce.
+ • Learning curve: fellows needed about 37 robotic pyeloplasties to match the attending's operative time;
+   for experienced attendings the curve was less marked, the robot outperforming complex laparoscopic
+   reconstruction. In a porcine model with novices, the robot beat laparoscopy on operative time and
+   anastomotic leak pressure.
+ • The advantage is thus shown against laparoscopy, not open surgery; residents now train more robotically,
+   so older curves may not apply.
+
+
+
+
+                                                               page 8 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                DRAWBACKS OF MINIMALLY INVASIVE SURGERY
+
+ KEY POINTS: ADVANTAGES AND DRAWBACKS OF MINIMALLY INVASIVE SURGERY
+   • Smaller ports may help perioperative and postoperative pain control.
+   • MIS is associated with decreased LOS.
+   • Cosmesis is improved compared with open incisions.
+   • MIS may help in hard-to-access areas such as the deep pelvis.
+   • Robotic surgery costs more than laparoscopic and open techniques.
+
+Concept — The robot's drawbacks are institutional — capital cost and training — rather than clinical, and
+both diminish with volume.
+
+COMPLICATIONS
+Access Complications
+ • Entry risks vascular injury, bowel injury, port-site hernia and subcutaneous emphysema; Hasson and
+   Veress complication rates do not differ.
+ • Preperitoneal placement: tip preperitoneal → high opening pressure → CO₂ forced preperitoneally →
+   subcutaneous emphysema. Both are uncommon; surgeon experience is the greatest predictor of access
+   complications.
+
+Vascular and Visceral Complications
+ • Major complications are rare: vascular injury, small bowel injury, bleeding needing conversion, bladder
+   perforation and vas deferens injury are all uncommon. Surgeons doing more than 12 cases a year have
+   fewer complications; rates mirror adult urology.
+
+MINOR VERSUS MAJOR VASCULAR INJURY
+ Commonest minor                                                               Commonest major
+ Inferior epigastric, at port placement; avoid by direct visualisation         Right common iliac, lying directly behind the
+ in thin children                                                              umbilicus
+
+ • Early recognition, treatment and reporting are paramount.
+ • Pyeloplasty, the commonest paediatric MIS procedure: no difference in complications between open,
+   laparoscopic and robotic, even by severity; in infants, no difference in complications or success, MIS
+   versus open.
+Port-site hernia
+ • Rate 0.5–3%, comparable to adults, who close ports by size and trocar type.
+
+PORT-SITE HERNIA: FIRST PAEDIATRIC SERIES VERSUS ROBOTIC-PORT SERIES
+ First paediatric series                                                      Robotic-port series
+ Upper end; risk higher around 1 year; no difference with or                  Lower end; 12- and 8-mm trocars, fascia closed
+ without fascial closure                                                      at every site
+
+ • Hence close port sites, especially in younger children.
+
+ KEY POINTS: COMPLICATIONS
+   • Access complications: vascular injury, bowel injury, port-site hernia, subcutaneous emphysema.
+   • Inferior epigastric injury is the commonest minor vascular injury; the right common iliac is the
+     commonest major vessel injured, being directly posterior to the umbilicus.
+   • Attend to opening pressures and aspirate the Veress on entry.
+
+
+                                                               page 9 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                                           COMPLICATIONS
+   • Vascular and bowel injuries are rare but potentially morbid.
+   • Port-site hernia risk is higher in smaller children; routine fascial closure is recommended.
+
+Concept — Complications cluster at entry and exit — the first needle or trocar and the fascial defect — so
+prevention rests on confirming position at entry, closing fascia at exit, and surgeon experience and volume.
+
+TRAINING AND EDUCATION
+ • Just over half of practising paediatric urologists operate robotically; the main barrier is lack of formal
+   training. Use is associated with years in practice, formal robotic training and robot access.
+ • Residency training is variable: most recent graduates felt unable to operate robotically unsupervised and
+   lacked confidence in robotic pyeloplasty. Resident robotic cases rose, mostly oncological; paediatric cases
+   stayed overwhelmingly open. Fellows' MIS volumes vary widely, and despite minimum case numbers
+   there are no formal MIS training guidelines.
+ • 2015 international consensus curriculum:
+
+ROBOTIC CURRICULUM: TECHNICAL VERSUS NON-TECHNICAL SKILLS
+ Technical                                                      Non-technical
+ Knots, suturing, transfer and dissection, camera use,          Troubleshooting, patient selection, preparation, positioning,
+ arm manoeuvring, wrist articulation                            procedural steps, complication management
+
+ • Sequence: online modules → simulation (dry lab, cadaver or animal lab, virtual reality) → supervised
+   operating → full-length video submitted for review. It has not been formally adopted.
+Concept — Robotic adoption follows training rather than evidence; the deficit is not the absence of a
+curriculum, which has existed since 2015, but its adoption.
+
+ERGONOMICS
+Laparoscopic Ergonomics
+ • Laparoscopy causes work-related musculoskeletal disorders: the fulcrum effect (instruments pivot at the
+   abdominal wall) and hands in supination and ulnar deviation. Most urologists report musculoskeletal
+   pain, mostly ergonomic; thumb pain tracks laparoscopic time.
+ • Poor screen position, bed height and arm position cause fatigue and injury; teach ergonomics and a
+   neutral stance. Port placement must balance triangulation with arm position; height, arm span and hand
+   size matter.
+ • Women are disproportionately affected; smaller hands increase hand injury and instrument difficulty.
+   Instruments for varied hand sizes and core and back strengthening help.
+
+Robotic Ergonomics
+ • Seated at an adjustable console (office-chair standards apply), with adjustable foot pedals and a saved
+   ergonomic profile.
+ • Surgeons comfortable with the clutch report less discomfort; poor clutch use leaves shoulders abducted
+   and elbows lifted off the armrest.
+ • Motion tracking and electromyography: the robot causes less upper-limb strain than laparoscopy, but
+   not for the neck, which is held more statically.
+
+
+
+
+                                                              page 10 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                                       ERGONOMICS
+LAPAROSCOPIC VERSUS ROBOTIC ERGONOMIC TARGETS
+                       Laparoscopy (standing)                                    Robotic console (seated)
+ Work height           Table at 70–80% of elbow height                           Locking chair, adjustable height
+ Neck                  Flexion no more than 25°                                  Head flexion in viewer no more than
+                                                                                 30°
+ Shoulders /           Retroversion 15–30°, blades back; arms about 90° at the   Elbows 90–120° on the armrest
+ arms                  side
+ Vision                Monitor directly ahead at eye height, in the line of      In the viewer
+                       vision
+ Trunk / legs          Neutral stance                                            Lumbar support; knees about a right
+                                                                                 angle
+ Main strain           Hands, wrists, thumb, shoulders                           Neck (static)
+
+
+ KEY POINTS: ERGONOMICS
+   • Surgeons should know how to improve their ergonomics during MIS.
+   • Adjusting arm position, bed height and monitor minimises laparoscopic strain.
+   • Individual console adjustments minimise discomfort.
+   • Robotic surgeons should master the clutch to keep arm position.
+
+Concept — Laparoscopy loads the upper limb through the fulcrum and the wrist; the robot offloads the upper
+limb but fixes the neck — the ergonomic burden moves rather than disappears.
+
+FUTURE DIRECTIONS
+ • Pyeloplasty and reimplantation are increasingly robotic — robotic pyeloplasty use rose steeply each year
+   — while complex procedures lag.
+Same-day discharge and drainage
+ • Most MIS reconstructions are observed overnight, but uncomplicated robotic renal and ureteric cases,
+   with minimal stents and no catheters or drains, were discharged the same day with low emergency
+   return and readmission — routine overnight stay is not always necessary.
+ • Stentless robotic pyeloplasty is feasible in a small literature, but stenting and urethral catheter drainage
+   remain the gold standard.
+Expanding indications
+ • Augmentation cystoplasty for neurogenic bladder raises capacity and compliance, protecting the upper
+   tracts; it needs a bowel segment, often with a catheterisable channel. Usually open, sometimes a
+   laparoscopic start with a small incision for extracorporeal suturing.
+ • First paediatric robotic augmentation: 2008, da Vinci S, fully intracorporeal. Barriers: VP shunts with
+   fear of bowel spillage, intracorporeal bowel work, case volume, prior surgery, habitus, learning curve.
+   Later reports: feasible, equivalent, longer operative times; still performed by few.
+ • Deep pelvis: ureteric reimplantation is commonest; robotic bladder neck reconstruction for neurogenic
+   bladder (first 2011), utricle excision and urogenital sinus repair also described.
+ • Fetal surgery is open (fetus exteriorised) or fetoscopic; fetoscopy shares laparoscopy's limits for fine
+   repair such as myelomeningocele closure. Robotic fetal surgery is animal-only; port size is a main barrier.
+
+
+
+
+                                                              page 11 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                                            FUTURE DIRECTIONS
+Single-port surgery
+ • da Vinci SP approved for urology in 2018, the first formal robotic single-site platform: 2.5-cm cannula, up
+   to three multijointed wristed instruments plus a wristed 3D high-definition camera, manoeuvring to
+   restore triangulation.
+ • First paediatric SP series (2023): pyeloplasties for pelviureteric junction obstruction and one Mitrofanoff.
+ • Limitation: at least 10 cm from port to target is needed to deploy the instruments — prohibitive in small
+   patients. Workarounds: HIdES Pfannenstiel port to maximise distance; a gel-port to "float" the cannula
+   outside the body with sterile continuity. SP versus multiport pyeloplasty: equivalent outcomes, longer
+   operative time.
+Competing platforms
+ • da Vinci predominates; competitors could accelerate innovation. Smaller lenses and instruments would
+   help infants, and the 2.5-cm SP cannula is too large for many; paediatrics' small market share makes
+   economically driven change less likely.
+
+ROBOTIC PLATFORMS DESCRIBED IN THE TEXT
+                                                       Senhance
+               da Vinci Xi        da Vinci SP          (Asensus)                Hugo RAS (Medtronic)
+ Access        Multiport, up      One 2.5-cm           Multiport                Separate cart per arm
+               to 4 arms          cannula
+ Smallest      8 mm (no 5         25-mm port           3-mm instruments         —
+ size          mm)
+ Wrist /       Wristed, 7 DOF Multijointed,            Laparoscopic-type;       Independent arms, 6 joints each, better range
+ DOF                          wristed                  lacks rotational 7
+                                                       DOF
+ Console       Closed             Closed               —                        Open, 3D glasses, pistol-grip controllers
+ Status /      Predominant        Urology              —                        Europe, Canada, Japan; U.S. Food and Drug
+ use                              approval 2018                                 Administration (FDA) investigational device
+                                                                                exemption; radical prostatectomy and partial
+                                                                                nephrectomy feasible; paediatric data awaited
+
+TABLE 39.1 FUTURE ROBOTIC TECHNOLOGY
+                    System
+ Status             (developer)            Approach        Camera         Arms          DOF             Haptics Feature
+ Available          da Vinci               Lap, LESS       HD-3D          4             7               None     Tremor filtration
+ (U.S.)             (Intuitive)
+ Available          Flex                   Transoral       HD-2D,         2             180°            None     Steerable scope
+ (U.S.)             (Medrobotics)                          semirigid or                 articulation             rigid once
+                                                           flexible                                              positioned
+ Available (not Mirosurge                  Lap             HD-3D          3–5           7               Present Adaptable MIRO
+ U.S.)          (German                                                                                         arms
+                Aerospace
+                Center)
+ Available (not ViaCath                    NOTES           —              1             9               None     Ureteroscopy and
+ U.S.)          (BIOTRONIK)                                                                                      endovascular use
+ FDA                Senhance               Lap             HD-3D, eye-    3             7               Present Navigation;
+ anticipated        (TransEnterix)                         tracking                                             individual carts
+
+
+
+
+                                                               page 12 of 13
+Chapter 39 — Principles of Laparoscopic and Robotic Surgery in Children                                    FUTURE DIRECTIONS
+
+                    System
+ Status             (developer)           Approach       Camera           Arms       DOF        Haptics Feature
+ FDA                Versius               Lap            HD-3D            Up to 5,   7          Present Force and position
+ validation         (Cambridge                                            modular                       sensed >1000
+                    Medical                                                                             times per second;
+                    Robotics)                                                                           lightweight
+ FDA pending        SPORT (Titan          LESS           HD-3D            1          Multiple   None     Single incision;
+                    Medical)                                                                             single-arm cart
+ FDA denied         SurgiBot              LESS           HD-3D            2          6          None     Internal
+                    (TransEnterix)                                                                       triangulation;
+                                                                                                         marketed in China
+ Clinical trial     MASTER                NOTES          2D               2          9          Present Smaller
+                    (Nanyang                             endoscope                                      instruments,
+                    Technological                                                                       larger forces;
+                    University)                                                                         navigation
+ Development        Hugo                  Lap            —                —          —          —        Mass utilisation to
+                    (Medtronic)                                                                          cut cost
+ Development        Hominis (Memic) Lap, LESS,           —                Humanoid   360°       —        Humanoid-shaped
+                                    NOTES                                                                arms
+ Development        MIVR miniature        Advanced       HD, flexible     2          6          None     Artificial
+                    in vivo robot                        tip                                             intelligence and
+                    (Virtual Incision)                                                                   machine learning
+ Development        Verb Surgical         Advanced       —                —          —          —        "Surgery 4.0":
+                    (J&J / Alphabet)                                                                     robotics with
+                                                                                                         machine learning
+
+Lap, laparoscopic; LESS, laparo-endoscopic single-site surgery; NOTES, natural orifice transluminal endoscopic surgery;
+HD, high-definition; 2D/3D, two-/three-dimensional. Rebuilt and grouped by regulatory status.
+ • Purpose: maps the competitive field that should drive miniaturisation and lower cost.
+ • Pattern: rivals differ mainly by haptic feedback (absent in da Vinci; present in Senhance, Versius,
+   Mirosurge, MASTER), modular or separate-cart arms, and 9 DOF in NOTES platforms.
+ • Table versus text: the table lists Hugo as "development"; the text, being more recent, describes it as
+   available outside the U.S. under FDA investigational exemption. Senhance's developer TransEnterix in the
+   table is Asensus in the text — the same company, renamed.
+ • Trap: market-leading da Vinci has 7 DOF but no haptic feedback; SurgiBot is the one denied by the FDA.
+
+ KEY POINTS: FUTURE CONSIDERATIONS
+   • Comfort with robotic platforms will expand indications and complex robotic procedures.
+   • Smaller robotic ports and instruments may aid fetoscopic fetal surgery.
+   • New single-port platforms have been used in paediatric patients.
+   • New platforms will increase innovation and market competition.
+
+Concept — The limit on paediatric robotics is the size of the hardware, not the capability of the operation;
+progress depends on miniaturisation, which a small paediatric market cannot drive alone — hence the hope
+placed in competition.
+
+
+
+
+                                                              page 13 of 13
+
