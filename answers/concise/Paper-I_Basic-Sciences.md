@@ -16,60 +16,52 @@
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- Urine is formed by glomerular filtration, tubular reabsorption, tubular secretion and finally concentration or dilution.
-- It is transported by active peristalsis of the pelvis and ureter into a low-pressure, compliant bladder.
+- Urine is formed by filtration, reabsorption, secretion and concentration, then propelled by peristalsis into a low-pressure bladder.
 
 ### A. Renal blood flow (RBF)
 - RBF is about **20–25% of cardiac output (CO)** (~1–1.2 L/min); renal plasma flow (RPF) is ~600 mL/min.
-- The cortex receives ~90% and the medulla <10%; this protects the medullary gradient but makes the medulla prone to hypoxia.
+- The medulla receives <10% of flow; this protects its osmotic gradient but makes it prone to hypoxia.
 - **Autoregulation** keeps RBF and GFR (glomerular filtration rate) constant over a mean arterial pressure of **80–180 mmHg** by two mechanisms:
   - **Myogenic:** afferent arteriolar smooth muscle contracts when stretched.
   - **Tubuloglomerular feedback (TGF):** high NaCl at the macula densa releases adenosine, which constricts the afferent arteriole and reduces renin.
-- Angiotensin II (Ang II) constricts the efferent more than the afferent arteriole. Non-steroidal anti-inflammatory drugs (NSAIDs) remove the protective prostaglandin effect in low-flow states.
+- Non-steroidal anti-inflammatory drugs (NSAIDs) remove protective prostaglandin vasodilatation in low-flow states.
 
 ### B. Glomerular filtration
 - GFR is ~**125 mL/min (~180 L/day)**; filtration fraction (FF = GFR/RPF) is about **20%**.
-- **Starling equation:** GFR = Kf × [(P_GC – P_BS) – (π_GC – π_BS)]. Glomerular capillary hydrostatic pressure is the main determinant; Bowman's space pressure rises in **obstruction** and lowers GFR.
-- The filtration barrier (fenestrated endothelium, negatively charged basement membrane, podocyte slit diaphragm) restricts molecules by size (>~60–70 kDa) and charge, so albumin is excluded.
-- GFR is measured by inulin clearance (gold standard), creatinine clearance or DTPA (diethylenetriamine pentaacetic acid) renography.
+- **Starling equation:** GFR = Kf × [(P_GC – P_BS) – (π_GC – π_BS)]. Glomerular capillary pressure is the main driving force; **obstruction** raises Bowman's space pressure and so lowers GFR.
+- The filtration barrier restricts molecules by size (>~60–70 kDa) and negative charge, so albumin is excluded.
 
 ### C. Tubular handling – segment-wise
 | Segment | Key transporters | What it does | Clinical link |
 |---|---|---|---|
-| **Proximal convoluted tubule (PCT)** | Na⁺/H⁺ exchanger, SGLT2 (sodium–glucose cotransporter 2), carbonic anhydrase | Reabsorbs ~**65%** of Na⁺ and water (iso-osmotic), ~100% of glucose and ~80–90% of HCO₃⁻; secretes drugs and creatinine | Acetazolamide, SGLT2 inhibitors; Fanconi syndrome |
-| **Thick ascending limb (TAL)** | **NKCC2** (Na⁺-K⁺-2Cl⁻ cotransporter) | Reabsorbs ~**25%** of NaCl; impermeable to water, so it is the **"diluting segment"** and builds the medullary gradient | Loop diuretics; Bartter syndrome |
-| **Distal convoluted tubule (DCT)** | **NCC** (Na⁺-Cl⁻ cotransporter) | Reabsorbs ~5–7% of Na⁺; active Ca²⁺ reabsorption under parathyroid hormone (PTH) | Thiazides lower urinary calcium (hypercalciuric stones); Gitelman syndrome |
-| **Collecting duct (CD) – principal cells** | **ENaC** (epithelial Na⁺ channel), **aquaporin-2 (AQP2)** | Na⁺ reabsorption and K⁺ secretion (aldosterone); water reabsorption (antidiuretic hormone, ADH) | Amiloride, spironolactone; Liddle syndrome |
-| Intercalated cells | H⁺-ATPase, pendrin | Acid–base balance | Distal renal tubular acidosis (RTA) causes calcium phosphate stones and nephrocalcinosis |
+| **Proximal convoluted tubule (PCT)** | Na⁺/H⁺ exchanger, SGLT2 (sodium–glucose cotransporter 2) | Reabsorbs ~**65%** of Na⁺ and water (iso-osmotic) and ~100% of glucose; secretes drugs and creatinine | SGLT2 inhibitors; Fanconi |
+| **Thick ascending limb (TAL)** | **NKCC2** (Na⁺-K⁺-2Cl⁻ cotransporter) | Reabsorbs ~**25%** of NaCl; impermeable to water, so it is the **"diluting segment"** and builds the medullary gradient | Loop diuretics |
+| **Distal convoluted tubule (DCT)** | **NCC** (Na⁺-Cl⁻ cotransporter) | Reabsorbs ~5–7% of Na⁺; active Ca²⁺ reabsorption under parathyroid hormone (PTH) | Thiazides lower urinary calcium (stones) |
+| **Collecting duct (CD) – principal cells** | **ENaC** (epithelial Na⁺ channel), **aquaporin-2 (AQP2)** | Na⁺ reabsorption and K⁺ secretion (aldosterone); water reabsorption (antidiuretic hormone, ADH) | Amiloride, spironolactone |
+| Intercalated cells | H⁺-ATPase | Acid secretion | Distal renal tubular acidosis (RTA) → calcium phosphate stones |
 
 ### D. Concentration and dilution
 - **Countercurrent multiplication:** the TAL pumps out NaCl without water; this small single effect (~200 mOsm) is multiplied along the loop, raising papillary interstitial osmolality to ~**1200 mOsm/kg**.
 - **Urea recycling** in the inner medullary CD, stimulated by ADH, provides about half of inner-medullary osmolality.
-- The **vasa recta** act as countercurrent exchangers and preserve the gradient.
+- The **vasa recta** (hairpin loops with slow flow) act as countercurrent exchangers, so they do not wash out the gradient.
 - **ADH action:** a rise in plasma osmolality (~1–2%) or fall in volume releases ADH. It binds the **V2 receptor**, raises cAMP (cyclic adenosine monophosphate) and inserts **AQP2** channels into the apical membrane, so water is reabsorbed.
-- Urine osmolality can range from ~**50 to 1200 mOsm/kg**.
-- **Desmopressin** (a V2 agonist) is used for nocturia, enuresis and bleeding disorders.
 - Nephrogenic diabetes insipidus (DI) occurs with lithium, hypercalcaemia, hypokalaemia and **after relief of obstruction** (reduced AQP2).
 
 ### E. Hormonal control
-- Ang II and aldosterone retain Na⁺, excrete K⁺/H⁺ and maintain GFR.
-- Atrial natriuretic peptide (ANP) causes natriuresis, raises GFR and suppresses renin and aldosterone.
-- PTH causes phosphaturia (PCT) and calcium retention (DCT).
+- Angiotensin II (Ang II) and aldosterone retain Na⁺ and maintain GFR; ADH reabsorbs free water.
+- Atrial natriuretic peptide (ANP) causes natriuresis and suppresses renin; PTH causes phosphaturia.
 
 ### F. Upper urinary tract transport
-- **Pacemaker:** located at the proximal renal pelvis (pelvicalyceal border). **Atypical smooth muscle cells (SMCs)** are the primary pacemakers; **interstitial cells of Cajal (ICC)-like cells** act as secondary pacemakers and are reduced in ureteropelvic junction (UPJ) obstruction.
+- **Pacemaker:** at the pelvicalyceal border. **Atypical smooth muscle cells (SMCs)** are primary pacemakers; **interstitial cells of Cajal (ICC)-like cells** are secondary pacemakers, reduced in ureteropelvic junction obstruction.
 - Peristalsis is **myogenic**: it persists after denervation and in transplanted kidneys; nerves only modulate it.
-- **Electromechanical coupling:** an L-type Ca²⁺ action potential spreads through gap junctions (~2–6 cm/s); calcium–calmodulin activates myosin light-chain kinase, causing contraction.
+- **Electromechanical coupling:** calcium entry via L-type channels creates the action potential, which spreads through gap junctions; calcium–calmodulin activates myosin light-chain kinase, causing contraction.
 - **Bolus propagation:** the ureter contracts behind each bolus and its walls **coapt** completely. Peristalsis occurs **2–6 times/min**; resting pressure is ~0–5 cmH₂O and contraction waves ~20–80 cmH₂O.
 - **Effect of flow:** higher flow first increases frequency, then bolus size. At very high flow boluses **coalesce** into a fluid column and the ureter dilates **without obstruction** (relevant to diuretic renography).
 - **Ureterovesical junction (UVJ):** an intramural tunnel with **length:diameter ≈ 5:1** (Paquin) prevents reflux. Sustained bladder pressure >~40 cmH₂O (neurogenic bladder) stops efflux and causes secondary hydronephrosis.
-- **Factors affecting transport:**
-  - Gram-negative endotoxin inhibits peristalsis.
-  - Pregnancy dilates the ureters (right > left), mainly by mechanical compression.
-  - **α1-blockers** (tamsulosin, used for medical expulsive therapy) and calcium-channel blockers relax the ureter; NSAIDs lower pelvic pressure in renal colic.
+- **Factors affecting transport:** Gram-negative endotoxin inhibits peristalsis (dilatation without obstruction); **α1-blockers** (tamsulosin, medical expulsive therapy) relax the ureter; NSAIDs lower pelvic pressure in renal colic.
 
 ### G. Bladder storage
-- The bladder stores urine at low pressure because of high compliance, sympathetic detrusor relaxation and external sphincter tone. Normal capacity is ~400–500 mL at <~15 cmH₂O.
+- High compliance, sympathetic detrusor relaxation and sphincter tone let the bladder hold ~400–500 mL at <~15 cmH₂O.
 
 ### H. Pathophysiology of obstruction
 **Unilateral ureteral obstruction (UUO) – triphasic response:**
@@ -78,10 +70,10 @@ Phase 1 (0–1.5 h):  RBF rises,  ureteral pressure rises  (afferent dilatation)
 Phase 2 (1.5–5 h):  RBF falls,  pressure still rises     (efferent constriction)
 Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction by Ang II)
 ```
-- GFR falls because of reduced RBF and raised tubular pressure; the opposite kidney compensates.
+- GFR falls because RBF drops and tubular back-pressure opposes filtration.
 - In **bilateral obstruction or a solitary kidney**, pressure stays high longer and natriuretic substances (ANP, urea) accumulate, causing **post-obstructive diuresis** after relief.
-- Tubular damage reduces concentrating ability and Na⁺ reabsorption and causes distal RTA.
-- Chronic obstruction leads to fibrosis via Ang II and transforming growth factor-β1; recovery depends on duration, degree and infection.
+- Tubular damage impairs concentration (less AQP2) and causes distal RTA.
+- Chronic obstruction causes fibrosis via Ang II and transforming growth factor-β1; recovery depends on duration and degree.
 
 **Diagram to draw:** Nephron with segmental transporters and % Na⁺ reabsorbed; triphasic UUO graph.
 
@@ -216,7 +208,7 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 | **Photon-counting CT (PCCT)** | First US Food and Drug Administration (FDA) clearance **2021** |
 
 ### Dual-energy CT (DECT)
-- Images at two energy levels allow material decomposition.
+- Images at two energy levels allow material decomposition, because each material has a characteristic attenuation ratio between the two energies.
 - It distinguishes **uric acid from non-uric-acid stones**, identifying candidates for oral chemolysis.
 - **Virtual non-contrast** images replace the unenhanced phase, reducing dose; **iodine maps** separate hyperdense cysts from solid masses.
 
@@ -274,15 +266,18 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 | 1970s–80s | **Semm** | Automatic CO₂ insufflator; first laparoscopic appendectomy (1980) |
 | 1970s | Hasson | Open access technique |
 | **1976** | **Cortesi** | Localised **impalpable testis** – first urological use |
+| 1985 | Mühe | First laparoscopic cholecystectomy |
 | **1987** | **Mouret** | First video-laparoscopic cholecystectomy |
 | **1990** | **Clayman** | **First laparoscopic nephrectomy** |
 | **1992** | **Schuessler** | **First laparoscopic radical prostatectomy** (reported 1997, 9 patients) |
 | 1993 | Schuessler; Kavoussi & Peters | Laparoscopic dismembered pyeloplasty |
 | **1995** | **Ratner** | Laparoscopic live-donor nephrectomy |
+| 1992 | Gagner | Laparoscopic adrenalectomy |
 | 1998–99 | Guillonneau & Vallancien | Standardised and revived laparoscopic prostatectomy |
 | **2000** | **da Vinci** | US Food and Drug Administration (FDA) clearance |
 | **2000** | **Binder** | **First robot-assisted radical prostatectomy (RARP)** |
 | Early 2000s | **Menon** | Vattikuti Institute Prostatectomy (VIP) standardised RARP |
+| 2004 | Kalloo | Transgastric peritoneoscopy → NOTES (natural orifice transluminal endoscopic surgery) concept |
 | 2007 | Raman, Rane | Single-port nephrectomy |
 | 2018 | da Vinci SP | Single-port robot cleared for urology |
 
@@ -293,7 +288,7 @@ Optics → Diagnostic → Therapeutic (Semm) → Video laparoscopy
 ```
 
 ### Indian contribution
-- Rapid uptake of urological laparoscopy and robotics; an indigenous robotic system (**SSI Mantra**) was developed in India.
+- Rapid uptake of urological laparoscopy and robotics; an indigenous robotic system (**SSI Mantra**) was developed in India, with telesurgery demonstrations.
 
 ### Recent advances
 - New multi-port robots (Versius, Hugo RAS, Hinotori), long-distance telesurgery and haptic feedback (da Vinci 5).
@@ -492,7 +487,7 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 - Peri-operative prophylaxis is a single dose or ≤24 hours.
 
 ### Recent advances
-- Pivmecillinam FDA-approved in 2024; gepotidacin in 2025.
+- Pivmecillinam (2024) and gepotidacin (2025) approved by the US Food and Drug Administration for uncomplicated UTI.
 
 **Diagram to draw:** Pharmacokinetic/pharmacodynamic curve showing peak concentration and time above the minimum inhibitory concentration.
 
