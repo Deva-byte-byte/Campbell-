@@ -320,8 +320,19 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 
 ### Diagnosis
 - **Preconditions:** apnoeic coma of known irreversible cause; exclude sedatives, relaxants, hypothermia (35–36 °C by protocol), metabolic causes.
-- **Absent brainstem reflexes:** pupillary, corneal, vestibulo-ocular, oculocephalic, cranial motor, gag, cough.
-- **Apnoea test:** no breathing effort at **arterial CO₂ (PaCO₂) ≥60 mmHg**.
+- **Brainstem reflexes, all must be absent:**
+
+| Test | How it is done | Cranial nerves |
+|---|---|---|
+| Pupillary light reflex | Pupils fixed, no response to bright light | II, III |
+| Corneal reflex | Touch cornea; no blink | V, VII |
+| Oculovestibular (caloric) | ~50 mL ice-cold water into each ear (drum visible); no eye movement | VIII, III, VI |
+| Oculocephalic (doll's eye) | Turn head; eyes move with the head | VIII, III, VI |
+| Motor response | Central painful stimulus (supraorbital pressure); no facial grimace | V, VII |
+| Gag and cough | Stimulate pharynx; pass suction catheter down trachea; no response | IX, X |
+
+- **Apnoea test:** pre-oxygenate with 100% oxygen, disconnect the ventilator with oxygen insufflation, and watch for breathing effort until **arterial CO₂ (PaCO₂) ≥60 mmHg**. No effort = positive. Abort if hypotension, desaturation or arrhythmia.
+- **Ancillary tests** (electroencephalography (EEG), cerebral angiography, perfusion scan, transcranial Doppler) are not mandatory; used when clinical testing cannot be completed.
 
 ### Indian law
 - **THOA (Transplantation of Human Organs Act) 1994**, amended 2011, Rules 2014: **4-member board** (hospital in-charge, independent specialist, neurologist/neurosurgeon, treating doctor; no transplant team member); **two tests at least 6 hours apart**.
