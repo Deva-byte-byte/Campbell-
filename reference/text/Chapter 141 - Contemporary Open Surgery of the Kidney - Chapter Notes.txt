@@ -1,0 +1,1504 @@
+Chapter 141 — Contemporary Open Surgery of the Kidney
+HISTORICAL PERSPECTIVE
+ • Open renal surgery remains an essential tool despite the shift to minimally invasive techniques: advanced
+   kidney cancers, anatomically complex tumours, and kidney pathology in patients with significant prior
+   abdominal surgery.
+ • Technique has evolved with understanding of surgical anatomy. The thoracoabdominal and dorsal
+   lumbotomy approaches are now largely historical because of their morbidity and complexity; they have
+   been supplanted by simpler incisions that give more direct access to the kidney and its vasculature.
+ • The kidney lies deep in the retroperitoneum beside the aorta and inferior vena cava (IVC), so open
+   surgery demands detailed knowledge of both intraperitoneal and retroperitoneal anatomy.
+ • The anterior approach requires displacement of the intraperitoneal organs: the surgeon must know their
+   vasculature, their attachments to the posterior parietal peritoneum and how they are mobilised, and must
+   keep them out of the field with self-retaining retractors.
+Concept — open renal surgery has survived as the operation of exposure and vascular control: it is chosen
+where the kidney must be reached past mobilised viscera with early command of the great vessels.
+
+PREOPERATIVE EVALUATION AND PREPARATION
+Laboratory Studies and Renal Function Assessment
+ • The goal of almost every renal operation is preservation of global renal function within the constraints of
+   the disease being treated.
+ • Baseline function guides three decisions: the operation (partial versus radical nephrectomy), counselling
+   on the risk of postoperative renal dysfunction, and planning for temporary or permanent dialysis.
+ • Urinalysis and serum creatinine (SCr) are obtained in all patients before renal surgery; the glomerular
+   filtration rate (GFR) is then estimated by the Modification of Diet in Renal Disease (MDRD) equation or the
+   Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation — CKD-EPI is more accurate and
+   now more widely used.
+
+GFR-ESTIMATING EQUATIONS: MDRD VERSUS CKD-EPI
+            MDRD                                        CKD-EPI (2021, race-free)
+                                               −1.154
+Formula     GFR (mL/min/1.73 m²) = 175 × SCr            eGFR = 142 × min(SCr/κ, 1)α × max(SCr/κ, 1)−1.200 × 0.9938Age
+            × Age−0.203
+Sex term    × 0.742 if female                           × 1.012 if female; κ = 0.7 (female), 0.9 (male); α = −0.241
+                                                        (female), −0.302 (male)
+Race        × 1.212 if Black                            None
+term
+Inputs      SCr (mg/dL), age, sex, race                 SCr (mg/dL), age (years), sex
+Standing    Older; less accurate                        More accurate; preferred
+
+ • The pattern: both equations rest on creatinine, so both inherit its dependence on muscle mass and diet;
+   CKD-EPI refines the curve with sex-specific inflection points (κ) rather than a single slope.
+ • The trap: κ is the creatinine inflection value (0.7 or 0.9), not an age coefficient; the age term is a single
+   0.9938Age for both sexes.
+
+
+
+
+                                                        page 1 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                             PREOPERATIVE EVALUATION AND PREPARATION
+FILTRATION MARKERS: CREATININE VERSUS CYSTATIN C
+                  Creatinine                  Cystatin C
+ Source           Muscle metabolism           Low-molecular-weight protein produced at a constant rate by all
+                                              nucleated cells
+ Influenced by    Muscle mass, diet, age,     Independent of muscle mass and diet
+                  sex
+ Renal            Filtered                    Freely filtered; almost entirely reabsorbed and catabolised by tubular cells
+ handling                                     — minimal extrarenal elimination
+ Performance      Insensitive to mild         More sensitive to mild change in GFR; superior where creatinine is
+                  dysfunction                 inaccurate
+
+ • Low risk of postoperative dialysis after open renal surgery: no comorbidity affecting renal function
+   (hypertension, diabetes) and two normally functioning kidneys.
+ • Increased risk: GFR below 60 mL/min or significant proteinuria on urinalysis → perioperative nephrology
+   consultation to optimise function before and after surgery.
+ • Poorly controlled diabetes or hypertension risks further deterioration even when GFR is 60 mL/min or
+   above — record these conditions and ensure they are managed perioperatively.
+ • Contemporary open renal surgery is reserved mostly for locally advanced disease (IVC tumour
+   thrombus) or metastatic disease in the cytoreductive setting. Complete blood count and comprehensive
+   metabolic profile add value for risk stratification — Memorial Sloan Kettering Cancer Center (MSKCC;
+   Motzer) and International Metastatic RCC Database Consortium (IMDC) models — and for planning.
+ • Renal cell carcinoma (RCC) is prone to paraneoplastic phenomena: haemoglobin and other
+   haematological aberrations aid prognostic stratification; screen advanced disease for hepatic dysfunction
+   (Stauffer syndrome) and associated coagulopathy.
+ • Haemoglobin assessment matters because major blood loss is a real risk in advanced disease, especially
+   where transfusion is anticipated.
+ • Cardiopulmonary assessment warrants particular care because intraoperative positioning, blood loss and
+   fluid shifts can cause significant cardiopulmonary compromise.
+Concept — renal function assessment is not merely a fitness check: it chooses the operation (partial or
+radical) and forecasts the need for dialysis, which is why every patient has creatinine, urinalysis and an
+estimated GFR before any renal surgery.
+
+Preoperative Imaging
+ • High-quality cross-sectional imaging of the abdomen — computed tomography (CT) or magnetic
+   resonance imaging (MRI) — is a prerequisite to any open renal procedure: renal parenchyma, pelvis and
+   ureter, and renal vasculature.
+ • It maps the neighbouring organs (colon, pleura, pancreas, spleen, liver) that may need mobilisation or
+   avoidance or may be involved by disease.
+ • Contrast is ideal but may be contraindicated by baseline renal dysfunction. There is no universally
+   agreed GFR threshold (it depends on agent, overall health and context), but GFR above 30 mL/min is
+   generally acceptable for both iodinated (CT) and gadolinium-based (MRI) contrast.
+ • For locally advanced disease with suspected IVC tumour thrombus, MRI (preferably with intravenous
+   [IV] contrast) or CT venography is preferred: they best define cephalad and caudal propagation and raise
+   suspicion of caval wall infiltration — which determine whether liver mobilisation is needed, the level of
+   caval control, and whether a vascular graft or caval resection is required.
+ • Thrombus imaging must be current — within 1 month of surgery — because propagation can be rapid.
+
+
+                                                           page 2 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                           PREOPERATIVE EVALUATION AND PREPARATION
+ • Three-dimensional (3D) kidney models, built from CT or MRI data, give an anatomically accurate replica
+   of tumour location, vessels and spatial relationships, allowing the surgeon to explore approaches,
+   rehearse complex steps and anticipate difficulties.
+ • Fig. 141.1 (von Hippel–Lindau disease, 4-cm hilar lesion) shows why each phase is obtained: the
+   noncontrast film shows the lesion, the contrast phase shows enhancement of the mass beside a simple
+   cyst, and the delayed phase shows its proximity to the collecting system.
+
+Renal Artery Embolisation
+ • Renal artery embolisation (RAE) deliberately occludes the arterial supply of the diseased kidney with
+   embolic agents; it is occasionally used before open surgery, mostly for advanced RCC or large renal
+   tumours.
+
+PREOPERATIVE ANGIOEMBOLISATION: RATIONALE VERSUS DRAWBACKS
+ Rationale                                                     Drawbacks
+ Reduced blood flow → less intraoperative blood loss,          Postinfarction syndrome — flank pain, nausea and fever
+ haemodynamic support, clearer anatomy                         for up to 72 hours in most patients; often needs systemic
+                                                               steroids
+ Postembolisation tissue oedema may aid dissection             Retrospective series associate RAE with higher blood
+                                                               loss (oedema of infarcted tissue)
+ Shrinks large tumours to improve resectability                Harder dissection if surgery is delayed beyond 48 hours
+ Shrinks arterialised tumour thrombi                           Tumour lysis syndrome; embolisation of tumour
+                                                               thrombus; vascular trauma
+ Allows renal vein ligation before the artery when large  Occlusion may be incomplete — inflow must be
+ hilar tumours or extensive hilar lymphadenopathy obscure confirmed intraoperatively
+ the hilum
+ Historically used for large masses, parasitic vessels, tumour Timing: night before, or ideally the morning of surgery,
+ thrombi and regional lymphadenopathy                          to limit postinfarction pain
+
+ • The verdict: RAE is used very selectively; the chapter's authors no longer use prophylactic preoperative
+   angioembolisation even in the most difficult cases, though it remains a tool to know. Its specific place in
+   IVC thrombus surgery is covered under Vena Caval Tumour Thrombectomy.
+
+Prophylactic Measures
+ • Surgical site infection (American Urological Association [AUA] guideline): a single dose of a first-
+   generation cephalosporin (cefazolin) or clindamycin, within 1 hour of incision.
+ • Urine culture is not routine; signs of urinary tract infection prompt culture and sensitivity, and active
+   infection is treated before surgery.
+ • Mechanical bowel preparation is not indicated unless intestinal involvement by the renal process is
+   suspected or bowel injury is likely (multiple prior operations, extensive adhesiolysis). If used, weigh
+   dehydration and acute kidney injury, especially in older adults.
+ • Stress ulcer prophylaxis with a proton pump inhibitor or sucralfate reduces gastric stress ulcers when
+   prolonged intensive care is expected.
+ • Venous thromboembolism (VTE) risk is heightened by immobilisation and surgical tissue injury, and
+   further by the hypercoagulable state of malignancy; intermittent pneumatic compression (IPC) devices
+   reduce postoperative deep venous thrombosis (DVT).
+
+
+
+
+                                                        page 3 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                                       SURGICAL INSTRUMENTS
+VTE PROPHYLAXIS: GUIDELINE BODIES COMPARED
+                               American College of Chest Physicians (ACCP)                            AUA
+ Mechanical                    —                                                                      All patients undergoing
+                                                                                                      open surgery
+ Pharmacological               Once the bleeding risk has diminished                                  Consider in patients at
+                                                                                                      elevated DVT risk
+ Typical regimen for open      IPC devices fitted before induction + single preoperative
+ renal surgery                 dose of unfractionated heparin 5000 IU subcutaneously
+
+ • Smokers: a 4–6-week preoperative cessation programme reduces postoperative complications if time
+   permits.
+ • Respiratory prophylaxis: incentive spirometry for high-risk patients; deep-breathing exercises for low-
+   risk patients.
+
+SURGICAL INSTRUMENTS
+ • Appropriate instruments are essential given the complexity and potential complications of open renal
+   surgery.
+
+Self-Retaining Retractors
+ • Purpose: maintain exposure without handheld retraction, freeing assistants for suction, compression and
+   focused retraction.
+
+SELF-RETAINING RETRACTOR SYSTEMS COMPARED
+ System        Mounting                                 Frame            Character
+ Balfour       Not table-mounted — held by              —                Usually paired, one at each end of the incision; used
+               tension against the separated                             more in pelvic than renal surgery; simplest and most
+               wound edges                                               rapidly adjustable
+ Bookwalter Table-mounted (one or two                   Ring over        Stable, more complex; flank blade version used for
+            posts)                                      the patient      flank exposure
+ Omni-Tract    Table-mounted                            Bars             Stable, more complex
+ Thompson      Table-mounted                            Bars             Stable, more complex (Fig. 141.3: right retroperitoneal
+                                                                         liposarcoma, obese patient, midline incision)
+
+ • The pattern: stability is bought with complexity — the three table-mounted systems hover blades on bars
+   or a ring; the Balfour trades stability for speed.
+ • All systems require experience from surgeon and scrub technician; persevere through several cases
+   before abandoning a system.
+
+Surgical Clamps
+ • For IVC tumour thrombus cases: two suction units with interchangeable large and small tips; long
+   forceps, right angles and needle drivers (particularly in obese patients).
+ • A vascular pan is opened for open renal cases, with clips, ties and preloaded Prolene sutures for prompt
+   vascular suturing.
+
+VASCULAR CLAMPS USED IN OPEN RENAL SURGERY (FIG. 141.4)
+ Clamp                                                  Configuration / use
+ Bulldogs                                               Small occlusion clamps for individual vessels
+ Satinsky                                               Curved, side-biting; partial IVC occlusion; en bloc pedicle clamping
+
+
+                                                               page 4 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                                     SURGICAL APPROACHES
+
+ Clamp                                                  Configuration / use
+ Hypogastric                                            Angled vascular clamp
+ Glover (duct)                                          Straight vascular clamp
+ Coarctation (aortic)                                   30-degree bend
+ Renal pedicle clamps (Crawford, Young, Mayo)           Whole-pedicle control
+
+ • Vascular clamps have finely graduated ratchets and an atraumatic jaw surface, far less injurious to
+   arteries and veins than nonvascular clamps (Kocher, Shallcross).
+
+Energy Devices
+ • Kidney, parasitic vessels, liver, adrenal and spleen have different haemostatic needs, so the surgeon
+   must know each device.
+
+ENERGY DEVICES IN OPEN RENAL SURGERY
+ Device                    Role                           Notes
+ Monopolar cautery         Dissection and                 Spray setting for superficial lacerations of liver, adrenal, spleen
+                           haemostasis of vessels         and kidney; an insulating sleeve prevents inadvertent arcing
+                           under 2 mm                     along the long skin-to-field trajectory
+ Bipolar sealers —         Vessel sealing                 No robust comparative data; perform similarly, EnSeal possibly
+ LigaSure, EnSeal                                         less radiated heat (anecdotal)
+ Ultrasonic (Harmonic)     Sealing                        Rarely used in open surgery
+ Irrigated monopolar/      Haemostasis with less          Adherent char avulsed from the tip can cause more bleeding
+ bipolar                   charring                       than was present
+ Radiofrequency (±         Surface haemostasis            —
+ saline irrigation)
+ Argon beam                Liver lacerations when         —
+ coagulator                other methods fail
+
+
+SURGICAL APPROACHES
+ • Adequate exposure is the hallmark of effective open renal surgery. Proper incision and exposure
+   minimise the retraction required and thus retractor-related injury.
+ • Landmark structures: right kidney — liver, colon, duodenum; left kidney — spleen, tail of pancreas,
+   colon.
+ • The approach is tailored to the operation, the anatomy on imaging, previous surgery, body habitus, and
+   limiting factors such as kyphoscoliosis or pulmonary disease.
+
+INCISIONS FOR OPEN RENAL SURGERY COMPARED (FIG. 141.6)
+ Incision          Landmarks                            Best for                               Limitations
+ Anterior          Xiphoid → around umbilicus           Trauma; locally advanced tumours       Transperitoneal; bowel
+ midline           → 2 cm below it                      and IVC thrombus; renovascular;        mobilisation needed
+                                                        reconstruction (ileal ureter);
+                                                        bilateral procedures
+ Anterior          2 fingerbreadths below costal        Unilateral transperitoneal access      Divides the abdominal wall
+ subcostal         margin, from just medial to                                                 muscles
+                   11th rib tip to medial rectus
+                   border
+
+
+
+
+                                                           page 5 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                                        SURGICAL APPROACHES
+
+ Incision           Landmarks                           Best for                                  Limitations
+ Chevron            11th rib tip → below costal   Renovascular surgery; radical                   Extensive muscle division
+ (bilateral         margin → curves up in midline nephrectomy with IVC
+ subcostal)         → contralateral 11th rib tip  thrombectomy; both pedicles and
+                                                  great vessels
+ Subcostal          1 fingerbreadth below and           Lower pole, pelviureteric junction,       Poor hilar access — limited
+ flank              parallel to 12th rib, from          proximal ureter                           for large masses; not ideal
+                    costovertebral angle                                                          for partial nephrectomy
+ Supracostal        Superior border of 11th or          Maximal posterior exposure; radical       Pleural proximity
+ flank              12th rib                            or partial nephrectomy (8-cm mini-
+                                                        flank supra-11th)
+ Transcostal        Directly on the 11th rib,           Retroperitoneal access at the former Rib division
+ flank              toward umbilicus                    rib tip
+
+Anterior Approaches
+Positioning
+ • Supine; arms tucked at the side or abducted to 90 degrees on padded arm boards; pad the elbows (ulnar
+   nerve) and all pressure points — occiput, dorsal torso, sacrum, dorsal legs, heels — against pressure
+   ulcers and nerve palsy (Fig. 141.5A).
+ • Hyperlordosis improves exposure: a rolled blanket under the lumbar spine (subcostal or chevron) or
+   table flexion with the umbilicus at the break (midline).
+ • Excess hyperlordosis tensions the great vessels (reducing flow) and causes postoperative low back pain;
+   avoid it in spinal stenosis.
+ • Supine hypotension (aortocaval syndrome) occurs if adiposity or abdominal masses compress the great
+   vessels; low back pain is common with scoliosis or kyphosis; prosthetic hips and knees may be stressed.
+
+ANTERIOR VERSUS FLANK POSITIONING: THE GOVERNING CONTRAST
+                       Anterior (supine)                           Flank (lateral decubitus)
+ Exposure aid          Lumbar roll or table flexion                Table flexion between iliac crest and costal margin; kidney
+                       (hyperlordosis)                             bar under 12th rib tip
+ Cardiovascular        Aortocaval compression                      Reduced pulmonary function and venous return — poor
+ risk                                                              choice in cardiopulmonary disease
+ Musculoskeletal       Low back pain; avoid hyperlordosis          Pressure injury, rhabdomyolysis of dependent flank and
+ risk                  in spinal stenosis                          hip; severe kyphosis limits exposure
+ Nerve protection      Elbows (ulnar nerve)                        Axillary roll (axillary neurovascular bundle)
+
+Anterior Midline Approach
+ • Efficient access to both kidneys and the great vessels without muscle division → less postoperative pain
+   and morbidity.
+ • Preferred in renal trauma: rapid control of the major vessels for haemodynamic stability, and survey of
+   intraperitoneal contents for associated injuries.
+ • The authors' preferred approach for locally advanced tumours, including IVC thrombus: early aortic
+   access permits early ligation of the renal artery, reducing blood loss.
+ • Technique: supine, bed slightly flexed with the umbilicus at the break → skin incision from xiphoid,
+   around the umbilicus, to 2 cm below it (rarely needed to the pubis) → subcutaneous tissue divided with
+   cautery → linea alba incised sharply at the midpoint between xiphoid and umbilicus, where
+   preperitoneal fat is thinnest → finger admitted into the preperitoneal space, incision extended cephalad
+
+
+                                                           page 6 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                         SURGICAL APPROACHES
+   and caudally with cautery → preperitoneal fat swept off the peritoneum with atraumatic wide-mouth
+   forceps → peritoneum grasped with two smooth forceps and incised sharply → ligamentum teres
+   divided and suture-ligated → peritoneal incision lengthened under direct vision.
+ • Right kidney exposure: incise the white line of Toldt (where peritoneal mesothelium reflects over the
+   antimesenteric border of the ascending colon) longitudinally and around the hepatic flexure → with the
+   colon drawn medially, Toldt's fascia is dissected bluntly or with delicate cautery to lift the ascending colon
+   and mesocolon off Gerota's fascia → the second part of the duodenum is met and Kocherised —
+   athermally, given the devastating consequences of duodenal injury → exposure of the right renal vein
+   and lateral IVC → retractor placed; the right renal artery lies posterior and inferior to the renal vein.
+ • Fig. 141.8: the ascending and descending mesocolon rest on Gerota's fascia, with Toldt's fascia
+   interposed, entered by incising the white line lateral to the colon.
+ • Left kidney exposure: medial reflection of the descending colon and mesocolon, with the tail of the
+   pancreas superiorly; divide the splenorenal ligament superolaterally to reflect the spleen medially and
+   expose the upper pole.
+ • Cattell-Braasch manoeuvre (right medial visceral rotation) — direct access to the central vascular
+   compartment (aorta and IVC), especially for right-sided surgery (Fig. 141.7): incise peritoneum lateral to
+   the ascending colon (white line) → continue around the caecum → Kocherise the duodenum → incise the
+   posterior parietal peritoneum from the right lower to the left upper quadrant along the root of the small
+   bowel mesentery toward the ligament of Treitz → medial and cephalad displacement of the ascending
+   colon and mesocolon, duodenum (second to fourth parts), jejunum and ileum with their mesentery.
+   Landmarks: the left renal vein (seen as the transverse duodenum is lifted) or the inferior mesenteric vein
+   (IMV).
+ • Direct infracolic approach to the renal pedicle (trauma, or large tumours obscuring the hilum): shift
+   jejunum and ileum aside → vertical incision in the posterior peritoneum below the ligament of Treitz →
+   anterior aorta and crossing left renal vein (LRV). The superior mesenteric artery (SMA) arises from the
+   anterior aorta about 1–2 cm cephalad to the LRV.
+ • The right renal artery can be found in the interaortocaval space at its aortic origin, posterior and inferior
+   to the LRV, before its retrocaval course → cephalad retraction of the LRV allows control and ligation —
+   valuable for large or medial right tumours that obscure the artery lateral to the IVC.
+
+Anterior Subcostal Approach
+ • Supine; rolled blanket under the lumbar spine for hyperlordosis.
+ • Incision about two fingerbreadths below the costal margin, from just medial to the tip of the 11th rib to
+   the medial border of the rectus abdominis.
+ • Technique: subcutaneous tissue divided with cautery → anterior rectus sheath incised, extended laterally
+   through external and internal oblique → rectus divided with cautery → posterior rectus sheath divided
+   near the midline → laterally, internal oblique and transversus abdominis divided (a right angle may
+   replace the finger as guide) → transversalis fascia and parietal peritoneum → peritoneum incised →
+   intraperitoneal mobilisation as for the midline approach → layered closure of muscle with absorbable
+   sutures.
+
+Chevron Incision (Bilateral Anterior Subcostal Approach)
+ • Ideal for renovascular surgery and radical nephrectomy with IVC tumour thrombectomy, with good
+   exposure of both renal pedicles and the great vessels.
+
+
+
+
+                                                        page 7 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                        SURGICAL APPROACHES
+ • Course: tip of 11th rib → two fingerbreadths below and parallel to the costal margin → curves superiorly
+   in the midline → parallel to the contralateral costal margin → contralateral 11th rib tip; muscle and sheath
+   division as for the subcostal incision.
+Concept — every anterior exposure is a mobilisation along embryological fusion planes behind the
+mesocolon: colon and duodenum on the right, colon, pancreas and spleen on the left, and the whole midgut
+pivoting on the SMA for central access.
+
+Flank Approaches
+Positioning
+ • Lateral decubitus with the table flexed between iliac crest and costal margin; kidney bar raised for
+   retroperitoneal exposure — but beware a previously repaired contralateral kidney.
+ • Pad all pressure points to prevent rhabdomyolysis of the contralateral flank and hip (Fig. 141.5B).
+ • Relative unsuitability: pre-existing cardiopulmonary deficit (exaggerated decubitus impairs pulmonary
+   function and venous return) and severe kyphosis (poor exposure, unexpected pressure on flank and
+   vertebrae) — the surgeon must command alternative approaches.
+ • Full set-up (as for the subcostal flank incision): after induction, endotracheal intubation and Foley
+   catheter for urine output → lateral decubitus → head supported against cervical flexion → tip of 12th rib
+   over the kidney bar → back supported with rolled blanket or beanbag → dependent leg flexed at hip and
+   knee, top leg straight, pillows between the knees → axillary roll just caudal to the axilla → upper foot
+   padded → nondependent arm on a padded Mayo stand or pillow, horizontal with slight forward shoulder
+   rotation → flex until the flank muscles are stretched; Trendelenburg until the flank is parallel to the floor
+   → secure with 2-inch adhesive tape to the mobile part of the table.
+
+Subcostal Flank Incision
+ • Excellent exposure of the proximal ureter and parenchyma — suited to the lower pole, pelviureteric
+   junction and proximal ureter.
+ • Hilar access is suboptimal, limiting it for large masses; not ideal for partial nephrectomy, which needs
+   excellent hilar access (Fig. 141.10).
+ • Technique: skin incision begins at the costovertebral angle at the lateral border of sacrospinalis, just
+   below the 12th rib → one fingerbreadth below and parallel to the 12th rib onto the anterior abdominal
+   wall; curve gently downward at the midaxillary line to avoid the subcostal nerve; extend caudally or
+   medially to the lateral rectus border if needed → subcutaneous tissue → cautery through latissimus dorsi
+   posteriorly and serratus posterior inferior (inserts into the lower four ribs) → external oblique anteriorly
+   → exposed fused lumbodorsal fascia (origin of internal oblique and transversus) → lumbodorsal fascia
+   and internal oblique divided (Fig. 141.13) → two fingers through an opening at the 12th rib tip sweep the
+   peritoneum medially while transversus is split digitally → subcostal nerve identified between internal
+   oblique and transversus, and spared (Figs. 141.14–141.15; the subcostal nerve and vessels pierce the
+   lumbodorsal fascia posteriorly and run forward on transversus).
+ • More posterior exposure: incise the posterior angle of the lumbodorsal fascia (sacrospinalis and
+   quadratus lumborum); dividing the costovertebral ligament lets the 12th rib be retracted superiorly. A
+   Bookwalter flank retractor holds exposure.
+
+Supracostal Flank Incision
+ • Above the 11th or 12th rib; favoured by many open renal surgeons. Turner Warwick (1965) popularised
+   it: maximal posterior exposure, simpler wound closure, and less morbidity than a transcostal incision
+   requiring rib resection.
+
+
+
+
+                                                        page 8 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                        SIMPLE NEPHRECTOMY
+ • An 8-cm modified mini-flank supra-11th rib incision is a safe, effective approach to radical or partial
+   nephrectomy for renal cortical tumours.
+ • Level chosen by anatomy, lesion location and procedure; positioning as for the subcostal flank.
+ • Technique: skin along the superior aspect of the 11th or 12th rib, from the lateral border of sacrospinalis
+   to the lateral border of the rectus → subcutaneous tissue → latissimus dorsi and serratus posterior
+   inferior transected posteriorly, revealing the intercostal muscles → external and internal oblique divided
+   → lumbodorsal fascia opened at the rib tip to avoid both peritoneum and pleura → moving medially,
+   transversus divided while the peritoneum is swept medially and inferiorly → diaphragm exposed by
+   dividing the transversalis layer → pleura identified between divided transversus and diaphragm,
+   mobilised superiorly → lateral sacrospinalis incised or retracted to reach the rib neck → intercostal
+   muscles divided from the distal rib toward the spine, close to the superior border of the rib to spare the
+   neurovascular bundle; the intercostal nerve is identified and spared → extrapleural plane developed by
+   entering the investing fascia around the intercostal nerve → diaphragmatic slips on the inferior ribs
+   transected.
+
+Transcostal Flank Incision
+ • Mirrors the supracostal approach, shifted slightly caudally along the 11th rib toward the umbilicus; the
+   palpable 11th rib is the key landmark.
+ • Technique: lateral incision directly on the 11th rib → subcutaneous tissue and muscle until the anterior
+   surface of the distal 11th rib is seen → periosteum cleared with a periosteal elevator, protecting the
+   neurovascular bundle beneath the rib → distal-most rib divided with a bone cutter; fragments removed,
+   edges filed with a rongeur, marrow cauterised → remainder as supracostal → retroperitoneum entered at
+   the former 11th rib tip, avoiding both peritoneal and pleural entry.
+Concept — the flank incisions are all extraperitoneal and are named by their relation to a rib: the higher the
+incision, the better the upper-pole and hilar exposure — and the closer the pleura.
+
+SIMPLE NEPHRECTOMY
+ • Removal of the kidney within Gerota's fascia, for nonmalignant disease.
+
+Indications
+ • Permanent poor function from obstruction, infection, trauma, stones, nephrosclerosis, vesicoureteral
+   reflux, polycystic kidney disease or congenital dysplasia.
+ • A well-functioning kidney is rarely removed, only for intractable pain, bleeding, renovascular
+   hypertension or persistent infection.
+
+Surgical Approach
+ • Approach as for radical nephrectomy, but benign disease often distorts anatomy and planes (prior
+   instrumentation, chronic infection, aberrant anatomy).
+ • Perinephric fat is often adherent and inflamed; avoid entering the renal capsule, which causes bleeding
+   and loss of the plane.
+ • Adherent to psoas posteriorly → include the psoas fascia in the dissection.
+ • Large hydronephrotic kidney → puncture and aspirate the pelvis to decompress and aid mobilisation.
+ • Spare the adrenal almost universally by keeping the plane directly on the renal capsule at the upper pole.
+ • Partial nephrectomy for benign disease is occasionally indicated — hydronephrosis with focal
+   parenchymal atrophy, atrophic pyelonephritis in a duplicated kidney, infected calyceal diverticulum,
+   symptomatic benign tumours such as angiomyolipoma — using the same technique as for malignancy.
+
+
+                                                        page 9 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                                RADICAL NEPHRECTOMY
+
+RADICAL NEPHRECTOMY
+ • Classic definition (Robson, 1969): complete removal of the kidney with Gerota's fascia, the ipsilateral
+   adrenal and a complete regional lymphadenectomy from the crus of the diaphragm to the aortic
+   bifurcation.
+ • Modern practice spares the adrenal when technically feasible — removal of a radiographically
+   uninvolved adrenal has been associated with worse survival — and reserves extended lymphadenectomy
+   for selected cases.
+
+SIMPLE VERSUS RADICAL NEPHRECTOMY
+                      Simple                                       Radical
+ Disease              Benign                                       Malignant
+ Plane                Within Gerota's fascia, on the capsule       Outside Gerota's fascia, resected entire
+ Adrenal              Spared almost universally                    Spared if radiographically normal and feasible
+ Lymph nodes          Not removed                                  Selective regional lymphadenectomy
+ Typical difficulty   Inflamed, adherent planes                    Size, parasitic vessels, thrombus, adjacent organs
+
+Indications and Workup
+ • Radical nephrectomy is reserved for tumours not amenable to partial nephrectomy: tumour in a
+   nonfunctioning kidney, large tumours replacing most of the parenchyma, detectable regional
+   lymphadenopathy, consolidative cytoreductive surgery for metastatic disease, and renal vein thrombus.
+ • Staging of every suspicious renal tumour: abdominopelvic CT or MRI plus chest imaging (Fig. 141.18).
+   The authors prefer chest CT to chest radiography — plain films miss subcentimetre nodules and
+   mediastinal nodes, RCC favours lung and mediastinum, and missed metastases matter — despite the
+   modest extra radiation.
+ • Scrutinise imaging for tumour thrombus, enlarged retroperitoneal nodes, and embryological anomalies
+   of the collecting system and vasculature.
+ • Occult brain metastases occur in a small minority with metastatic RCC; routine brain imaging is not
+   recommended without symptoms.
+ • Routine bone scan is not recommended; use it for suspicious cross-sectional findings, symptoms,
+   pathological fracture or raised bone isoenzyme of alkaline phosphatase.
+ • Percutaneous renal biopsy before surgery is considered when:
+     ◦ the patient is uncomfortable with uncertainty about histology;
+     ◦ the false-negative risk is acceptable and a benign result would change the strategy — a systematic
+       review shows that a substantial minority of patients with a benign biopsy who proceed to surgery have
+       RCC;
+     ◦ the mass appears infiltrative and suspicious for urothelial, metastatic or lymphoid origin;
+     ◦ there is metastatic disease to be treated with systemic therapy, where histological subtype directs the
+       agent;
+     ◦ there are bilateral renal tumours — synchronous bilateral tumours are more often histologically
+       discordant than metachronous ones;
+     ◦ clinical trial eligibility requires it.
+ • Preoperative angioembolisation — historically used for large masses, parasitic vessels, tumour thrombi
+   and hilar lymphadenopathy — is no longer used prophylactically by the authors (rationale and drawbacks
+   tabulated under Renal Artery Embolisation).
+
+
+                                                        page 10 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                        RADICAL NEPHRECTOMY
+ • Large tumours displace organs; distinguishing abutment, displacement and direct invasion (T4) is
+   difficult. MRI is suggested when CT suggests invasion.
+ • True invasion is likelier when the organ changes in appearance, not merely in contour: tumour
+   infiltration, altered enhancement relative to the rest of the organ, bowel wall thickening. Suspected
+   involvement of colon, duodenum, liver or spleen → preoperative multidisciplinary planning.
+ • The liver is rarely truly invaded because of its bilaminar capsule, despite imaging that suggests it. When
+   invasion does occur, depth is usually under 1 cm, and a thin crescent of liver resected with the tumour
+   suffices — still performed by a liver surgeon.
+
+Surgical Procedure
+ • Incisions: vertical midline, subcostal flank or chevron; retractor Balfour, Bookwalter, Thompson or Omni-
+   Tract; ribs retracted laterally and cephalad for upper-quadrant tumours or venous thrombus.
+ • Begin with a complete abdominal survey for metastases: entire bowel, spleen, liver surface, and
+   palpation of the gastric tube in the decompressed stomach.
+ • Right radical nephrectomy. Liver and gallbladder retracted superiorly; if more liver mobilisation is
+   needed, the avascular right triangular ligament is incised, usually later in the case. The falciform ligament
+   is left intact when liver mobilisation is not required — a falciform flap can buttress a duodenal repair —
+   but an intact falciform demands care during retraction because it predisposes to traction lacerations of
+   the liver.
+ • Sequence: posterior parietal peritoneum incised 2 cm medial to the white line of Toldt, from the pelvis
+   (iliac artery) to the right upper quadrant (hepatic flexure) → anterior pararenal space developed between
+   the anterior renal fascia and the ascending mesocolon → hepatic flexure mobilised sharply and bluntly →
+   second part of the duodenum Kocherised medially (Fig. 141.19) — with extreme care for medial tumours
+   → IVC identified posteriorly; dissection anterior to it reveals the renal vein and right gonadal vein →
+   vessel loop on the renal vein for gentle traction; renal vein palpated for thrombus → renal artery
+   identified posterior to the vein.
+ • Finding the plane: mesenteric fat is vibrant yellow or orange; Gerota's fascia is paler and less saturated;
+   anterior tension on the colonic mesentery reveals the areolar plane. Large inflammatory masses obscure
+   it through neovascularity, lost planes and thickened tissue.
+ • Protect the ascending mesocolon — injury to the right colic and ileocolic arteries devitalises colon.
+   Bipolar sealing of small neovascular perforators saves time later.
+ • Resect the renal fascia in its entirety (best chance of cure, no intra-abdominal tumour spillage), keeping
+   the lymph node plane posterior on the downside.
+ • If the artery is hard to find: go to the lower pole, identify ureter and gonadal vein; spare the gonadal vein
+   if feasible — large tumours often make this unsafe because of avulsion from the IVC (right) or LRV (left)
+   → ligate the ureter and lift the kidney from posterior to anterior to display the artery behind it.
+ • Interaortocaval option for difficult hilar dissection (Fig. 141.20: the anteromedial IVC leads to the short
+   right renal vein; the artery lies deep to the vein): control the right renal artery at its aortic take-off →
+   ligate with 0 silk (surgical clip in emergencies) → kidney and tumour shrink and decompress → now-
+   flaccid right renal vein examined for thrombus, doubly ligated (0 silk tie + 3-0 Prolene suture ligature)
+   and divided → artery lateral to the IVC, now easy to reach, doubly ligated and divided.
+ • Lumbar veins. Avulsed lumbar veins → 2-0 or 3-0 silk ties. No clips on the IVC side — they obstruct
+   urgent IVC clamping; well-placed clips on the posterior (lumbar) side before release are acceptable.
+   Uncontrolled lumbar veins retract lateral to the vertebra and medial to psoas, causing inaccessible
+   retroperitoneal bleeding → compress psoas with a sponge stick at the site to slow bleeding and reidentify
+
+
+
+                                                        page 11 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                                RADICAL NEPHRECTOMY
+   the vein → grasp with DeBakey forceps and apply high-power fulguration (small lumbars) or place
+   sutures → haemostatic packing plus psoas compression as adjuncts.
+ • Left radical nephrectomy. Sequence: white line of Toldt incised from the splenic flexure to the common
+   iliac artery → descending colon reflected medially → renocolic ligament divided, protecting the tail of
+   the pancreas → plane developed between the anterior leaf of Gerota's fascia and the pancreatic and
+   splenic fascia, which is left intact; a folded moist laparoscopic sponge pads the pancreas from retractor
+   blades → LRV identified using the anterior surface of the aorta as guide; left renal artery usually cranial
+   and posterior to the LRV → at the lower pole, left ureter and gonadal vein identified; the gonadal vein
+   traced to its LRV insertion → gonadal vein preserved or ligated according to tumour size and site (ligation
+   rarely causes gonadal pain, congestion or thrombosis) → ureter divided, inferior and posterior kidney
+   mobilised to display the artery.
+ • Left renal artery division: fine scalpel; proximal end — heavy silk (0 or larger) plus 3-0 Prolene suture;
+   distal end — 0 silk. Confirm complete visual occlusion of the stump in the elderly or those with
+   peripheral arterial disease (calcification) → renal vein then secured and divided similarly.
+
+RIGHT VERSUS LEFT RADICAL NEPHRECTOMY
+                      Right                                         Left
+ Visceral             Liver/gallbladder up; ascending colon;        Descending colon; renocolic ligament; pancreatic
+ mobilisation         Kocher manoeuvre                              tail and spleen protected
+ Guide to the vein    Anterior IVC → short right renal vein         Anterior aorta → long LRV
+ Artery position      Posterior to vein; interaortocaval at origin Cranial and posterior to LRV
+ Gonadal vein         Drains into IVC (avulsion risk from IVC)      Drains into LRV — a guide to the LRV
+ Organ at risk        Duodenum, liver                               Pancreatic tail, spleen; SMA mistaken for the renal
+                                                                    artery
+
+ • Whole-pedicle clamping. When artery and vein cannot be separated because of hilar lymphadenopathy,
+   the pedicle is controlled en bloc. Arteriovenous fistula (AVF) after en bloc ligation is a theoretical risk but
+   extremely rare; small series of en bloc stapling found none.
+ • Sequence: pedicle bluntly dissected to a 2–3-cm diameter → long curved vascular clamps (Satinsky) or
+   pedicle clamps (Crawford, Young, Mayo) → first clamp at the proximal-most pedicle, extending
+   posteriorly beyond all structures to engage the suture → second clamp just distal and adjacent under
+   vision → third clamp near the parenchyma → divide between second and third clamps, removing the
+   specimen with vascular stumps protruding → 0 silk looped below the lower clamp; tie the pedicle twice
+   and add a suture ligature (silk ties may slip) → where artery and vein stumps are not individually visible, a
+   running horizontal mattress 3-0 Prolene beneath the proximal clamp, distal to the silk tie.
+ • Figs. 141.23–141.24 contrast the two hilar methods: "cut first, ligate second" versus "ligate first, cut
+   second".
+ • Loss of control of the hilar pedicle. Stay calm → inform the anaesthetist and all theatre staff → aggressive
+   hydration and blood products → compression with a fingertip or sponge stick (also on the IVC and/or
+   aorta) while the team prepares → two Yankauer suckers clear the field → never clamp blindly: suction,
+   pack, retract and dissect for exposure, then clamp and ligate with vascular occlusion clamps.
+ • Renal artery bleeding: compress the aorta above the renal artery → clamp the arterial stump with a
+   vascular clamp → repair with two layers of running vascular suture.
+ • IVC bleeding (avulsed or lacerated renal vein; avulsed gonadal or lumbar vein): finger on the hole → grasp
+   with an Allis clamp → pull up to stop bleeding and display the defect for repair.
+
+
+
+
+                                                        page 12 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                                   RADICAL NEPHRECTOMY
+VASCULAR REPAIR SUTURES — POLYPROPYLENE (PROLENE), 30 OR 36 INCH (75 OR 90 CM), DOUBLE-ARMED,
+TAPERED NEEDLES
+ Vessel                Gauge            Needle
+ IVC or aorta          3-0 or 4-0       —
+ Renal vessels         4-0 or 5-0       —
+ Artery                —                ⅜-circle BB (17 mm) — less likely to fracture calcific plaque
+ Vein                  —                ½-circle RB-1 (17 mm) or SH (26 mm)
+
+Concept — radical nephrectomy is governed by the order of vascular control: artery before vein, so that the
+kidney decompresses and the vein can be handled flaccid and inspected for thrombus — and when the artery
+cannot be reached laterally, it is taken at its interaortocaval origin.
+
+Concurrent Adrenalectomy for Renal Cell Carcinoma
+ • Consider ipsilateral adrenalectomy for large upper-pole tumours where the kidney–adrenal plane may be
+   compromised; it is indicated for diffuse tumour involvement or an adrenal mass on imaging.
+ • Otherwise not routine: overall adrenal metastasis is under 5%.
+ • CT and MRI miss 20–25% of adrenal metastases, so clinical indicators of adrenal involvement must guide
+   practice.
+ • Contralateral adrenal metastasis on follow-up is nearly as common as ipsilateral when both glands are
+   spared — so prophylactic ipsilateral adrenalectomy exposes the patient to adrenal insufficiency without
+   clear benefit.
+
+Regional Lymphadenectomy for Renal Cell Carcinoma
+ • Controversial; not required in every radical nephrectomy — overall nodal involvement is about 5%.
+ • Retrospective studies suggested benefit in carefully selected patients. The European Organisation for
+   Research and Treatment of Cancer (EORTC) randomised trial (772 patients, lymphadenectomy versus
+   none) showed no overall survival benefit, but enrolled many small, low-stage tumours unlikely to benefit.
+ • Later large cohorts found no survival benefit from staging dissection in the cytoreductive setting or in
+   high-risk localised disease; a meta-analysis found no therapeutic benefit → the field has moved away
+   from prophylactic staging dissection for most patients.
+ • Lymph node dissection does not alter cancer-specific survival, but may improve retroperitoneal
+   recurrence-free survival and definitely provides prognostic information → recommended when nodes
+   are enlarged on imaging, for diagnosis and prognosis.
+ • Probability of node positivity rises with size: maximum short-axis diameter of 1.5 cm or more ≈ 50%
+   chance of positive nodes (Fig. 141.25: a sigmoid risk curve against short-axis diameter).
+ • Some surgeons perform staging dissection even without clinical lymphadenopathy when node positivity
+   is likely: cytoreductive surgery for metastatic disease, tumour over 10 cm, nuclear grade 3 or higher,
+   sarcomatoid histology, tumour necrosis on imaging, extrarenal extension, tumour thrombus, and direct
+   invasion of adjacent organs.
+
+LYMPHADENECTOMY TEMPLATES: RIGHT VERSUS LEFT (FIGS. 141.26, 141.28)
+            Right-sided mass                                                Left-sided mass
+ Stations   Paracaval, precaval, retrocaval, interaortocaval                Para-aortic (anterior, lateral), retroaortic;
+                                                                            interaortocaval only if palpable, imaged or
+                                                                            extensive periaortic disease
+ Cranial    Right crus (3–4 cm above the right renal vein); lymphatic       Level of the LRV
+ limit      tissue split to the superior border of the LRV
+
+
+                                                        page 13 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                                 RADICAL NEPHRECTOMY
+
+            Right-sided mass                                                 Left-sided mass
+ Caudal     IVC bifurcation; aortocaval packet to the common iliac           Past the inferior mesenteric artery (IMA) to
+ limit      vessels                                                          the aortic bifurcation
+ Key        Right gonadal vein ligated at the IVC with 2-0 silk (avoid       Lumbar arteries secured as the aorta is
+ vessels    avulsion); lumbar veins (typically 4–5 per side) ligated         elevated; aorta rolled medially; SMA and
+            with 3-0 silk; IVC elevated with a vein retractor, then rolled   coeliac trunk preserved; IMA may be divided
+            medially with two sponge sticks                                  if nodes are involved
+ Critical   Clip the lymphatic trunks above the renal vein — chyle           Tissue on the anteromedial aorta clipped,
+ step       from the cisterna chyli and thoracic duct otherwise causes       divided and rolled laterally
+            chylous ascites
+
+Wound Closure
+ • Check haemostasis and the adjacent organs. Diaphragm and pleura may be injured by retraction.
+ • Pleural test: fill the retroperitoneum with saline to the level of the flank incision → anaesthetist gives high
+   inspiratory volumes → bubbling indicates pneumothorax.
+ • Small pleural injury: running nonabsorbable suture → before completion, tip of a 14-Fr red rubber
+   catheter in the pleural cavity, other end under saline → deep inspiratory breath expels air → when
+   bubbling ceases, withdraw the catheter and cinch the closure airtight → postoperative chest radiograph
+   in every case, even when pneumothorax is not suspected.
+ • Fascia in two layers: transversus and internal oblique fasciae together; external oblique separately.
+ • Wound infiltration: 1:1 bupivacaine 0.5% and lidocaine 1%. Subcutaneous tissue 3-0 absorbable; skin
+   staples or subcuticular 4-0 poliglecaprone 25 (Monocryl).
+
+Vena Caval Tumour Thrombectomy
+ • Many retroperitoneal tumours produce venous thrombus. Children: Wilms tumour, clear cell sarcoma of
+   the kidney, adrenocortical carcinoma, neuroblastoma. Adults: urothelial carcinoma of the renal pelvis,
+   lymphoma, retroperitoneal sarcoma, adrenocortical carcinoma, phaeochromocytoma, angiomyolipoma.
+ • RCC is the commonest cause of IVC tumour thrombus; 5–10% of RCCs have venous tumour thrombus.
+ • Untreated IVC thrombus carries high mortality — most patients die within a year — so surgery, before
+   or after systemic therapy in the metastatic setting, is the backbone of treatment.
+ • Venous thrombus marks aggressive disease: regional nodal involvement, metastases and perirenal fat
+   invasion are all common.
+ • Thrombectomy is usually combined with radical nephrectomy and regional lymph node dissection,
+   which also helps expose the IVC and renal artery origin.
+
+Tumour Thrombus Level and Bland Thrombus
+ • Thrombus is often an unexpected CT finding with urgent referral; patients are frequently already
+   anticoagulated.
+ • Best imaging: magnetic resonance venography — better than most CT for cephalad and caudal extent,
+   IVC wall invasion and bland thrombus; MRI is independent of contrast timing and so the more reliable
+   measure of extent, though well-timed reconstructed CT venograms are also excellent.
+ • Two components: tumour thrombus (tumour cells contained within thrombus) versus bland thrombus
+   (coagulum without tumour cells). Venous obstruction promotes bland thrombus. Distinguishing them is
+   the basis of operative management.
+
+
+
+
+                                                        page 14 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                                       RADICAL NEPHRECTOMY
+TABLE 141.1 TRADITIONAL STAGING AND MANAGEMENT OF INFERIOR VENA CAVAL THROMBI (MAYO CLINIC
+LEVELS; DATA FROM BLUTE ET AL., 2004)
+ Level Cranial extent                             Management of tumour thrombus
+ 0       Renal vein only                          Radical nephrectomy
+ I       IVC, less than 2 cm above the renal      IVC milking, partial IVC occlusion, ostial cavotomy
+         vein ostium
+ II      IVC more than 2 cm above the             Complete IVC mobilisation and control, infrahepatic cavotomy
+         ostium, below the hepatic veins
+ III     At or above the (major) hepatic          Complete occlusion: suprahepatic IVC clamping + infrahepatic
+         veins, below the diaphragm               cavotomy. Partial occlusion: venovenous bypass + infrahepatic
+                                                  cavotomy
+ IV      Above the diaphragm                      Deep hypothermic arrest, infrahepatic cavotomy, right atriotomy
+
+ • What the table is for: each level adds one tier of vascular control — renal vein, partial caval clamp, full
+   caval control, hepatic inflow control, then the heart (Fig. 141.29).
+ • The pattern: level 0 thrombi are by far the commonest; the supradiaphragmatic minority consume most
+   of the resources.
+ • The traps: level III is defined by the true (major) hepatic veins, not accessory or short hepatic veins; and
+   within level III it is the completely occlusive thrombus that tolerates suprahepatic clamping (collaterals),
+   whereas the partially occlusive thrombus needs bypass.
+
+TABLE 141.2 THE MAYO CLINIC THROMBUS GROUPING SYSTEM FOR INFERIOR VENA CAVAL THROMBI (DATA FROM
+BLUTE ET AL., 2004)
+ Group     Associated bland thrombus                                     Additional IVC management
+ A         None                                                          None
+ B         At or below the common iliac veins                            Infrarenal IVC filter (e.g., Greenfield)
+ C         Infrarenal IVC, separate from tumour thrombus                 Infrarenal IVC interruption with vena caval clip
+ D         Infrarenal IVC, mixed with tumour thrombus                    Infrarenal IVC resection
+
+ • What the table is for: it complements the levels by adding the location and extent of bland thrombus and
+   its consequence for the infrarenal IVC (Fig. 141.30).
+ • The pattern: group A is the great majority; management escalates filter → interruption → resection as
+   bland thrombus moves from the pelvis into the cava and finally mingles with tumour.
+ • The trap: separate bland thrombus is interrupted, not extracted; only admixture with tumour mandates
+   resection.
+
+Preoperative Considerations
+ • Pulmonary embolism, anticoagulation and IVC filters. Renal tumours raise pulmonary embolism risk
+   (malignant hypercoagulability plus thrombus embolism) → screen for concurrent pulmonary embolism
+   and lower-limb DVT (Doppler ultrasound).
+ • Therapeutic anticoagulation is recommended for: concurrent VTE, existing bland thrombus, and current
+   or impending IVC occlusion by bulky thrombus — and should be considered even without these if
+   evaluation will be delayed. Evidence is limited; potential benefits are fewer pulmonary emboli, tumour
+   thrombus shrinkage, and shrinkage or prevention of bland thrombus.
+ • Temporary suprarenal IVC filters are not used: risk of contralateral renal and hepatic vein thrombosis, of
+   provoking embolisation, and of obstructing later thrombectomy — thrombus grows onto the device and
+   invades the IVC, enlarging the reconstruction required.
+
+
+
+                                                         page 15 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                          RADICAL NEPHRECTOMY
+ • Transoesophageal echocardiography (TEE) is recommended for level II–IV thrombi because of
+   intraoperative detachment and interval growth just before surgery.
+ • Angioembolisation for thrombus is seldom used: ischaemic flank pain and little reduction in operative
+   difficulty. The historical rationale — one-third of tumour thrombi have an independent arterial supply
+   from the renal artery and/or aorta, so infarction might shrink a thrombus and avoid bypass or extensive
+   liver mobilisation — is rarely borne out.
+ • It may be considered when thrombus invades intrahepatic or suprahepatic veins and cannot be excised
+   because of Budd–Chiari syndrome, or when the tumour or thrombus is associated with a bleeding
+   kidney preoperatively or on systemic therapy. Timing is uncertain, usually within 1 day before surgery;
+   the risk of iatrogenic tumour embolism during angiography appears minimal.
+
+SPECIALIST INVOLVEMENT BY THROMBUS LEVEL
+ Level Specialist                                                         Purpose
+ II–III   Vascular and hepatobiliary surgeon (if the urologist does not   Liver mobilisation, caval control,
+          routinely handle the IVC and aorta)                             reconstruction
+ III–     Cardiothoracic surgeon — essential, planned preoperatively      Mediastinal access for bypass and
+ IV                                                                       thrombus removal
+ III–     Cardiologist or cardiac anaesthetist                            Intraoperative TEE
+ IV
+
+Level I Vena Caval Thrombectomy: Right-Sided Tumour
+ • Level I thrombi are usually partially occlusive and nonadherent, needing neither extensive IVC
+   dissection nor bypass — but some invade the caval wall (Fig. 141.31).
+ • Kidney-last (less embolism) or kidney-first strategies both exist; a friable thrombus or one that has
+   already shed pulmonary emboli → IVC control before significant tumour manipulation.
+ • Sequence: midline or anterior subcostal access → great vessels and hilum exposed with minimal
+   manipulation of renal vein and IVC → right renal artery secured interaortocavally with 0 silk or a large
+   clip (early ligation cuts renal flow and blood loss) → kidney mobilised outside the renal fascia; IVC
+   dissected above the right renal vein → LRV, suprarenal IVC and infrarenal IVC encircled with vessel loops
+   → Rummel tourniquets (3–6-inch lengths of 18-Fr red rubber catheter threaded on the vessel loop) or
+   vascular clamps; full control is prudent before any IVC entry → starting cranially, the IVC is pinched
+   closed, then tourniquets applied in order: infrarenal IVC → LRV → suprarenal IVC → IVC milked toward
+   the right renal ostium → C-shaped Satinsky clamp around the ostium, partially occluding the IVC,
+   thrombus confirmed within the jaws before full closure (Fig. 141.33) → IVC palpated for other thrombus
+   → suction, two sponge sticks and laparotomy sponges placed around the vein to catch spillage → ostium
+   incised circumferentially (scalpel, fine Metzenbaum or Potts scissors), preserving at least half the IVC
+   width for closure → thrombus extracted by gentle downward traction on the renal vein and ring forceps
+   → gauze wrapped over the renal vein stump and tied with silk against spillage (Fig. 141.34) → medial
+   attachments divided, renal artery ligated again before division.
+ • Closure (Fig. 141.35): IVC inspected for residual thrombus, lumen irrigated with heparinised saline (100
+   U/mL) → running 4-0 Prolene on a BB needle → before tying: release infrarenal IVC and LRV clamps and
+   evacuate clot → anaesthetist applies positive airway pressure and holds ventilation → infrarenal IVC
+   pinched, suprarenal Satinsky released → 5–10 mL of blood allowed out of the defect to flush air,
+   thrombus fragments and debris → suture tied → haemostasis, irrigation; no drain needed.
+
+
+
+
+                                                        page 16 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                           RADICAL NEPHRECTOMY
+Level II Vena Caval Thrombectomy: Left-Sided Tumour
+ • Harder, because the IVC is best reached from the right: both colons must be mobilised. Midline or
+   chevron incisions give the best access (Fig. 141.36: level II thrombus in a completely duplicated IVC, with
+   patch repair and rerouting of the left IVC).
+ • Left side first: left colon mobilised, left anterior pararenal space developed → left renal artery ligated
+   near its aortic origin → confirm arterial control by palpation or Doppler probe — a persisting pulse
+   means an accessory artery or incomplete control (e.g., calcification) → adrenal, lumbar and gonadal
+   branches of the LRV ligated and divided (often dilated, friable, occasionally thrombosed) → kidney
+   mobilised outside the renal fascia, left adrenal left in situ, left ureter divided with a tie on the stay side.
+ • Right side next: right colon and small bowel mobilised → Kocher manoeuvre → right anterior space
+   developed, great vessels exposed → IVC dissected to its bifurcation, right gonadal vein ligated on its
+   anterior surface → split-and-roll manoeuvre frees the IVC above and below the thrombus with lumbar
+   vein ligation → optionally ligate accessory (short) hepatic veins to release the caudate lobe, gaining 2–3
+   cm of infrahepatic IVC → sequential control: (1) infrarenal IVC, (2) contralateral (right) renal vein, (3)
+   suprarenal IVC.
+ • Contralateral renal artery: historically clamped to prevent engorgement, which matters mainly for left
+   tumours because the right kidney lacks venous collaterals. The authors no longer clamp the right renal
+   artery; engorgement is relieved by periodically releasing the right renal vein clamp — preferable to right
+   renal ischaemia.
+ • Heparin: some give 0.5 mg/kg IV before clamping; the authors find bleeding, not clotting, is the principal
+   problem and do not heparinise routinely.
+ • Thrombectomy (Fig. 141.38): LRV ostium circumferentially excised, incision extended superiorly onto the
+   anterolateral IVC with Potts scissors → Penfield dissector extracts the thrombus → troublesome lumbar
+   veins ligated or sutured; sponge sticks isolate and compress bleeding segments → thrombus and kidney
+   removed en bloc → IVC flushed with heparinised saline, intima inspected; suspicious areas biopsied or
+   resected → during prolonged clamping, periodically release the contralateral renal vein and inferior IVC
+   clamps to clear coagulum.
+ • Closure: the IVC lumen may be narrowed safely to about 50% of its preoperative size; greater narrowing
+   (residual lumen under 50%) → bovine pericardial patch, smooth side luminal, rough side outward,
+   length equal to the defect, width by the Leibovich–Bower equation (see Patch Cavoplasty) → running 4-0
+   Prolene → before tying, infrarenal clamp released and 5–10 mL of blood let out to clear air and debris →
+   after tying, contralateral renal clamp released, then the suprarenal IVC clamp → regional
+   lymphadenectomy; closed suction drain considered; irrigation and closure.
+
+Level III Vena Caval Thrombectomy: Intra-Abdominal Approach
+ • Intrahepatic thrombi are very challenging. Theatre set up for possible cardiopulmonary bypass (CPB),
+   including deep hypothermic arrest; performed in vascular or cardiac theatres with their anaesthesia
+   teams.
+ • Intraoperative TEE measures the cranial extent, monitors thrombus fracture and embolisation, and
+   assesses cardiac function for haemodynamic management (Fig. 141.39: thrombus in IVC and right atrium).
+ • The key decision is made intraoperatively only — after renal artery ligation, liver mobilisation and IVC
+   assessment: intra-abdominal extraction with complete hepatic mobilisation, or combined intrathoracic–
+   intra-abdominal approach with bypass.
+ • Clamping below the hepatic veins is preferred because hepatic venous return is large.
+ • Rule of thumb: free-floating, nonocclusive thrombi tolerate suprahepatic clamping poorly and more
+   often need bypass; completely occlusive thrombi have developed collateral venous networks and
+
+
+
+                                                        page 17 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                       RADICAL NEPHRECTOMY
+   tolerate clamping much better (Fig. 141.40: complete IVC occlusion with collateralisation to the azygos
+   system on CT and angiography).
+ • A level IV thrombus can occasionally be milked into the abdomen through a small diaphragmatic incision
+   and treated intra-abdominally.
+ • IVC control must never compromise the operation: bleeding and hypotension lead to incomplete tumour
+   resection, which is universally fatal.
+ • Incision: anterior midline preferred; chevron with sternotomy is an alternative. Right kidney and great
+   vessels exposed as for level I; right renal artery ligated interaortocavally; infrahepatic IVC dissected;
+   infrarenal IVC and LRV encircled with Rummel tourniquets or clamps.
+ • Liver mobilisation (liver-transplant technique; Figs. 141.41–141.42): ligamentum teres (obliterated left
+   umbilical vein, at the free border of the falciform) ligated and divided → falciform ligament divided with
+   cautery to the upper liver border, where it branches into the coronary ligament (right) and left triangular
+   ligament → superior layer of the coronary ligament divided, sparing the liver and the IVC behind it in the
+   bare area → continued along the right border to the right triangular ligament (fused superior and inferior
+   coronary layers), divided → inferior layer of the coronary ligament (liver to diaphragm) divided up toward
+   the IVC → left triangular ligament divided anteriorly, then posteriorly toward the IVC → right lobe rotated
+   to the midline, exposing the IVC on the posterior liver. A hepatobiliary surgeon is valuable here.
+ • Left-sided tumours: divide the diaphragmatic attachments of the spleen so that it rotates medially with
+   the pancreas without trauma (partial Mattox manoeuvre).
+ • Retrohepatic plane — the hepatic veins fall into two groups:
+     ◦ Upper group — right, middle and left hepatic veins: the principal hepatic outflow, never divided.
+       Thrombus may extend into them and must be cleared. Their obstruction produces Budd–Chiari
+       syndrome, a contraindication to proceeding with radical nephrectomy and thrombectomy.
+     ◦ Lower group — accessory hepatic veins (draining mainly the caudate lobe, a little of the right lobe):
+       safely divided, ligated with 3-0 silk on IVC and liver sides.
+ • Lumbar veins ligated with 2-0 silk; the plane behind the IVC developed → IVC fully mobilised.
+ • Pringle manoeuvre: if the thrombus does not descend after arterial ligation to permit clamping below the
+   main hepatic veins, portal inflow must be controlled → window in the lesser omentum → porta hepatis
+   (portal triad; hepatic pedicle — portal vein, common hepatic artery, common bile duct) encircled with a
+   Rummel tourniquet. Clamping it prevents hepatic engorgement and massive blood loss when the IVC is
+   clamped above the major hepatic veins.
+ • Total hepatic vascular occlusion = IVC clamped above and below the hepatic veins plus Pringle. If the IVC
+   is clamped below the major hepatic veins with accessory veins ligated, Pringle may be unnecessary.
+ • Normothermic Pringle limit: up to 60 minutes, but 20 minutes or less preferred — ischaemic liver injury
+   and portal vein thrombosis; also splenic engorgement and rupture from backed-up splenic venous
+   drainage.
+ • Resectability is judged by TEE and intraoperative anatomy: thrombus below, or milkable below, the
+   hepatic veins → usually no bypass; thrombus involving the hepatic veins or above the liver → bypass may
+   be needed (Fig. 141.44: thrombus to the diaphragm and into the right atrium, eventually requiring CPB
+   with deep hypothermic arrest).
+ • Clamping trial: occlude the IVC above the liver and thrombus; observe for 2–5 minutes.
+
+HAEMODYNAMIC EFFECT OF SUPRAHEPATIC IVC CLAMPING
+ Parameter                  Change
+ Cardiac preload            ↓ 60%
+
+
+
+                                                        page 18 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                               RADICAL NEPHRECTOMY
+
+ Parameter                   Change
+ Peripheral vascular         ↑ 80%
+ resistance
+ Heart rate                  ↑ 50%
+ Cardiac output              ↓ 40%
+ Mean arterial pressure      ↓ 10–20%
+ Not tolerated if            Cardiac output falls more than 50% or mean arterial pressure falls more than 30% →
+                             bypass (preferred) or supracoeliac aortic clamping
+ Proceed intra-              Trial tolerated and thrombus removable in under 30 minutes
+ abdominally if
+
+ • Sequence: clamp infrarenal IVC → contralateral (left) renal vein → porta hepatis → suprahepatic IVC →
+   right renal vein ostium incised circumferentially, incision extended up toward the intrahepatic IVC, large
+   enough for complete extraction and intimal inspection → thrombus and kidney excised (Fig. 141.45) →
+   adherent thrombus cleared with a Penfield dissector; a Fogarty balloon or 20-Fr Foley catheter serves as
+   embolectomy catheter for thrombus out of reach → wall involved by tumour that cannot be scraped away
+   → partial or complete IVC resection and reconstruction → during deep hypothermic arrest, a cystoscope
+   can inspect hepatic veins and suprahepatic IVC through a smaller cavotomy.
+ • Minimising Pringle time: isolate the IVC circumferentially above the hepatic veins (initial clamps) and
+   below them → after extraction, place an infrahepatic clamp, release the suprahepatic clamp, then
+   release the Pringle → close as for level II → tack the hepatic ligaments back to prevent liver torsion.
+
+Level III–IV Vena Caval Thrombectomy: Combined Intra-Abdominal and Intrathoracic Approach
+ • For level III thrombi not removable intra-abdominally and nearly all level IV thrombi (Fig. 141.46).
+ • Incisions: thoracoabdominal, chevron laparotomy with sternotomy, or anterior midline laparotomy with
+   sternotomy (preferred). A cardiothoracic surgeon participates.
+ • Sequence: abdominal phase as for the intra-abdominal approach → cardiothoracic surgeon called after
+   releasing the caudate lobe but before rotating the liver (mobilisation is easier after sternotomy) →
+   median sternotomy, pericardium opened, right heart exposed (Fig. 141.48) → bypass instituted → renal
+   vein ostium excised, incision extended cranially on the IVC, thrombus extracted; right atriotomy usually
+   needed for suprahepatic thrombus (Fig. 141.52) → atrium and IVC closed → off bypass, chest tubes
+   placed → hepatic ligaments tacked back.
+
+Bypass Techniques for Inferior Vena Caval Surgery
+ • Bypass complicates and prolongs thrombectomy but is often essential for a safe and complete operation.
+ • Consider bypass when: the IVC cross-clamping trial causes significant hypotension; there is preoperative
+   cardiac or hepatic dysfunction, contralateral renal dysfunction or portal hypertension; or there is major
+   intraoperative bleeding that is difficult to control.
+
+BYPASS TECHNIQUES COMPARED
+                                                                        CPB without      CPB with deep hypothermic
+                       Venovenous bypass (VVB)                          arrest           circulatory arrest (DHCA)
+ Principle             Pump shunts infrarenal venous blood to the       Full             Heart stopped, patient cooled,
+                       heart                                            extracorporeal   blood drained
+                                                                        circulation
+ Chest opened          No (percutaneous) — key advantage                Yes              Yes
+ Heparinisation        Not full — less postoperative bleeding           Full             Full
+
+
+
+
+                                                        page 19 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                             RADICAL NEPHRECTOMY
+
+                                                                        CPB without    CPB with deep hypothermic
+                     Venovenous bypass (VVB)                            arrest         circulatory arrest (DHCA)
+ Main drawback       Intercostal and lumbar flow continues →            Coagulopathy   Invasive; coagulopathy; cardiac
+                     major bleeding at cavotomy                                        and neurological risk
+ Avoid when          Atrial thrombus not milkable into the IVC;         —              —
+                     extensive bland thrombus in iliac veins or
+                     infrarenal IVC; pre-existing Budd–Chiari
+                     syndrome
+ Time for            —                                                  —              Up to 60 minutes (under 40
+ thrombectomy                                                                          better) versus ~30 minutes for
+                                                                                       clamping without bypass
+ Authors'            Least invasive option                              —              Preferred for level IV
+ preference
+
+ • Venovenous bypass. Inflow cannulation: percutaneous femoral vein, or direct intraoperative IVC just
+   above its bifurcation. Return: percutaneous internal jugular vein, brachial/axillary vein cutdown, or
+   directly into the right atrium. Place the cannula tip as far from the thrombus as possible — dislodgement
+   causes massive pulmonary embolism, and tumour cells may be aspirated and recirculated.
+ • Percutaneous VVB sequence (Fig. 141.49): immediately after intubation, anaesthetist inserts an 8–18-Fr
+   heparin-bonded cannula into the internal jugular vein (Seldinger) → femoral vein: 6-cm 18-gauge
+   needle, guidewire, tract dilated, 14–20-Fr heparin-bonded cannula advanced to the common iliac vein →
+   both connected to the pump with heparin-bonded tubing (portal vein cannulation with 20 Fr possible,
+   rarely needed) → incision, kidney and IVC dissected → all vessels clamped, pump started →
+   thrombectomy on pump, ligating troublesome lumbar and intercostal veins → unclamp in the same order
+   as clamped.
+ • Open VVB sequence: kidney and IVC dissected, liver mobilised, sternotomy → 20-Fr cannula in the
+   infrarenal IVC well away from the thrombus, then 14–20-Fr cannula in the right atrial auricle →
+   infrarenal IVC, renal vein, porta hepatis and suprarenal IVC clamped → bypass started → thrombectomy as
+   fast as possible.
+ • Cardiopulmonary bypass with and without deep hypothermic arrest. Five advantages of DHCA: (1) usable
+   when the thrombus cannot be milked below an intrapericardial IVC clamp; (2) no need to clamp aorta or
+   porta hepatis or ligate many lumbar and hepatic veins — though every traumatised or transected vessel
+   must be controlled before coming off bypass; (3) bloodless field for complete inspection of IVC and
+   hepatic veins; (4) lower embolisation risk; (5) longer working time.
+ • DHCA sequence (Fig. 141.51): kidney and IVC dissected, liver mobilised → sternotomy, pericardium
+   opened → heparin-bonded venous cannulae in infrarenal IVC and right atrium; arterial cannula in the
+   aortic arch → heparinise, start bypass → aorta clamped, cardioplegia given → perfusate cooled to 10–
+   14°C; patient cooled 15–30 minutes to a core of 16–18°C, with electroencephalography confirming
+   cerebral cooling → pump stopped, 95% of blood volume drained to the reservoir → thrombectomy as
+   fast as possible, ligating all potential bleeders (Fig. 141.52) → coronary artery bypass may be added for
+   known coronary disease → if prolonged: 10 mL/kg/min trickle perfusion or retrograde cerebral perfusion
+   → IVC and right atrium repaired → warm blood reinfused, CPB restarted → haemostasis while rewarming
+   to 37°C over 30–45 minutes → heart restarts, bypass stopped, cannulae removed, protamine given →
+   coagulopathy is common: fresh frozen plasma, platelets and packed red cells ready → thoracostomy
+   tubes and closed suction abdominal drains.
+
+
+
+
+                                                        page 20 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                                                RADICAL NEPHRECTOMY
+Patching, Replacing, and Interrupting the Inferior Vena Cava
+IVC RECONSTRUCTION OPTIONS COMPARED
+                                                                                          Filtration / permanent
+               Patch cavoplasty               Vena caval replacement                      interruption
+ Indication    Residual IVC expected          Circumferential resection, or defect too    Infrarenal bland thrombus
+               under 50% of original size     large to patch
+               — prevents stenosis and
+               thrombosis
+ Material /    Autologous or bovine           Polytetrafluoroethylene (PTFE) graft, 16–   Filter (pelvic veins only);
+ device        pericardium, PTFE,             20 mm (authors); alternatives spiral        serrated caval clips (Adams–
+               collagen-impregnated           saphenous vein, superficial femoral vein,   DeWeese, Moretz), vascular
+               Dacron, autologous             tubularised pericardium                     GIA stapling, suture plication,
+               saphenous vein                                                             suture ligation
+ Suture        Double-armed 5-0               —                                           —
+               Prolene, BB needle
+
+ • Patch cavoplasty (Fig. 141.54). Patch cut slightly larger than the defect, oval; width by the Leibovich–
+   Bower equation (Dr Brad Leibovich, urological oncologist, and Dr Thomas Bower, vascular surgeon, Mayo
+   Clinic):
+                   Patch width = diameter of the normal cava × % caval diameter resected × 3
+ • Small, regular bites give a tight closure; avoid intraluminal inversion of the edges — the rough,
+   thrombogenic surface must stay extraluminal.
+ • Two methods: tack both apices and run from each apex to the midpoint (four knots), or parachute and
+   sew circumferentially (one knot). Handle the patch minimally; liberal heparinised saline aids vision.
+ • Before final closure: release the caudal IVC clamp, then the contralateral renal vein clamp → 5–10 mL of
+   venous blood flushed out → cranial clamp released after a Valsalva breath-hold.
+ • Vena caval replacement (Fig. 141.55). Large graft diameter reduces thrombosis. Sequence: liver
+   mobilised, IVC fully exposed → bypass if indicated; 5000 units IV heparin → IVC clamped, affected
+   segment excised → cranial anastomosis first → graft clamped, cranial IVC clamp released to test the
+   upper anastomosis → graft sized and cut → caudal anastomosis → before tying: graft unclamped, 5–10
+   mL blood flushed; graft reclamped; infrarenal IVC unclamped, 5–10 mL flushed → final knot, IVC
+   unclamped → graft wrapped in omentum or retroperitoneal fat; hepatic ligaments reapproximated
+   against torsion → contralateral renal vein sutured perpendicularly into the PTFE graft after removing the
+   rings.
+ • Postoperatively: low-dose IV heparin or reduced-dose low-molecular-weight heparin; lifelong aspirin 81
+   mg; full anticoagulation may be considered.
+ • Filtration and permanent interruption for bland thrombus. Bland thrombus limited to the pelvic veins →
+   intraoperative infrarenal vena caval filter.
+ • Diffuse infrarenal IVC bland thrombus → permanent interruption, preserving the lumbar collaterals, the
+   "release valve" for impaired caval flow.
+ • Infrarenal bland thrombus distinct from tumour thrombus → interruption without resection: attempts
+   to clear diffuse organised bland thrombus almost always fail and often injure the vessel. Clips and staplers
+   are easy to apply; serrated clips also allow partial flow.
+ • Bland thrombus admixed with retrograde-growing tumour thrombus → segmental IVC resection with
+   permanent interruption — tumour cannot be reliably separated from bland thrombus. Resect below the
+   contralateral renal vein ostium, as close to it as possible (avoids a turbulent, thrombogenic upper stump),
+   and preserve the lumbar veins in the lower stump for collateral drainage.
+
+
+                                                        page 21 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                          PARTIAL NEPHRECTOMY FOR MALIGNANT DISEASE
+"SHORTCUTS" WITH VENOUS TUMOUR THROMBI THAT ARE "LONGCUTS"
+ Shortcut                                                Risk and consequence
+ IVC clamping and entry without isolating all inflow     Haemorrhage and poor vision at cavotomy → shock, incomplete
+                                                         thrombus removal
+ "Side-biting" the IVC for an apparently easy level I    Insufficient caval edge mobility after excision → clamp
+                                                         repositioning and bleeding; clamp dislodgement
+ Clips on the IVC side of perforators and lumbar         Clips prevent clamp occlusion and compromise vision
+ veins
+ Incomplete arterial control                             Profuse bleeding from the renal vein stump; thrombus shedding
+                                                         at cavotomy
+ Excessive traction on, or milking of, thrombus to       Tumour embolism or IVC laceration
+ avoid further cranial dissection
+ Clamping before anaesthesia has hydrated the            Profound hypotension with the IVC open; cardiac or end-organ
+ patient, or skipping the test clamp                     ischaemia
+
+Concept — caval thrombectomy is a sequence of ever-higher vascular control dictated by the cranial extent of
+tumour and the behaviour of bland thrombus below it: isolate every inflow before opening the cava, clamp
+from below upward, and release from below upward so that air and debris are flushed out before the cranial
+clamp comes off.
+
+PARTIAL NEPHRECTOMY FOR MALIGNANT DISEASE
+ • Partial nephrectomy is the preferred operation for renal neoplasms when technically feasible and when
+   preserving renal function is a priority (Fig. 141.56: contrast CT, 3D reconstruction of a large intrarenal
+   component, and arterial reconstruction showing a lower-pole artery close to the mass).
+ • Historically reserved for imperative indications — bilateral tumours, tumour in a solitary kidney, high
+   risk of future renal failure — and small tumours under 4 cm. Indications have broadened to most renal
+   masses that can be removed safely and completely, independent of size.
+
+RELATIVE CONTRAINDICATIONS TO PARTIAL NEPHRECTOMY
+ Technical                                                   Cancer-related
+ Less than 20% of global nephron mass retained               Diffuse encasement of the renal pedicle by tumour
+                                                             Diffuse invasion of the central collecting system
+                                                             Tumour thrombus in major renal veins or the IVC
+                                                             Adjacent organ invasion (cT4)
+                                                             Regional lymphadenopathy (cTxN1)
+
+Preoperative Considerations
+ • The preoperative considerations for radical nephrectomy apply, plus those unique to partial
+   nephrectomy.
+
+Hyperfiltration Injury
+ • Mechanism: removal of substantial parenchyma delivers renal blood flow to fewer nephrons → raised
+   glomerular capillary perfusion pressure → raised single-nephron GFR (hyperfiltration) → over years to
+   decades, focal segmental glomerulosclerosis, proteinuria and progressive renal failure.
+ • Rare after partial nephrectomy; usually seen when total nephron mass of both kidneys is reduced by
+   more than 80%.
+
+
+
+                                                        page 22 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                              PARTIAL NEPHRECTOMY FOR MALIGNANT DISEASE
+Renal Ischaemia and Hypothermia
+ • Vascular compression limits blood loss and improves vision: manual compression, a parenchymal
+   compression clamp (Kaufmann), selective renal artery clamping (with or without the vein), or en bloc
+   clamping of the whole pedicle (Fig. 141.57: Satinsky clamp across the parenchyma of a large polar
+   tumour). Leaving the vein unclamped for retrograde perfusion has no proven benefit.
+ • Duration of ischaemia and long-term function remain debated. Early landmark studies showed longer
+   ischaemia → worse function, and surgeons traditionally aim for under 30 minutes.
+ • Once the proportion of healthy parenchyma preserved is accounted for, ischaemia time matters less or
+   not at all — but all such studies lay within conventional limits; the effect of prolonged warm ischaemia
+   remains unknown. → Judicious, individualised ischaemia, weighing baseline function and expected
+   preserved parenchyma.
+ • Adjuncts to limit ischaemic injury: renal hypothermia, IV mannitol, IV diuretics.
+
+NEPHROPROTECTIVE MEASURES IN PARTIAL NEPHRECTOMY: THE RANDOMISED EVIDENCE
+ Question                 Trial design                  Verdict                        Caveat
+ Renal hypothermia        Randomised controlled         No difference in               Cohort enriched for contralateral
+ versus none (with        trial                         postoperative renal            kidney present and good baseline
+ ischaemia)                                             function                       function; role in CKD or solitary
+                                                                                       kidney unclear
+ IV mannitol versus       Prospective placebo-          No clinical benefit            Dose lower than routine, no
+ placebo                  controlled randomised                                        concurrent diuretic, excellent
+                          trial                                                        baseline function
+ On-clamp versus off-     Two prospective               No difference in any           Carefully selected patients;
+ clamp (fully             randomised trials             clinical outcome               ischaemia within accepted limits
+ perfused)                (retrospective data
+                          mixed)
+ Digital 3D               Randomised clinical trial     Shorter operative time,        —
+ anatomical models                                      less blood loss, shorter
+ for planning                                           ischaemia, shorter stay
+
+ • Bottom line: hypothermia and mannitol are of limited use with normal renal function and a healthy
+   contralateral kidney; in compromised function or a solitary kidney their value is unclear, and both may be
+   used at the surgeon's discretion.
+
+Multifocality and Tumour Size
+ • Multifocality: about 2% in clear cell and chromophobe RCC, about 10% in papillary RCC, and more
+   common as tumour size rises (Fig. 141.58: hilar and peripheral tumours on 3D CT).
+ • Inspect the entire renal surface at operation to confirm the imaging.
+ • Partial nephrectomy remains viable for multifocal tumours if all can be resected safely and the remnant
+   reconstructed — including simultaneous bilateral partial nephrectomy for synchronous bilateral tumours
+   in selected patients.
+
+Hereditary Renal Malignancy
+ • Hereditary tumours are usually multifocal, bilateral and recurrent.
+ • Except in hereditary leiomyomatosis and RCC (HLRCC) — treated aggressively with wide excision —
+   most hereditary syndromes can be observed safely until tumours reach 3 cm, with little risk of
+   metastasis.
+ • At partial nephrectomy: preserve perirenal fat and renal fascia, visualise the whole surface, resect all
+   visible tumours, and use intraoperative ultrasound to find subcortical tumours.
+
+
+                                                          page 23 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                      PARTIAL NEPHRECTOMY FOR MALIGNANT DISEASE
+ • Reapproximate perirenal fat and renal fascia after renorrhaphy — prevents visceral adhesion to the
+   capsule and eases future surgery.
+
+Digital Models of Three-Dimensional Renal Anatomy
+ • Traditionally, planning relied on cross-sectional images (hilar vessels; tumour relation to sinus, vessels
+   and collecting system).
+ • 3D digital renderings from cross-sectional imaging reveal anatomy previously hard to appreciate (Fig.
+   141.60: printed model — tumour, collecting system, veins, arteries); a randomised trial showed benefit
+   (tabulated above).
+
+Surgical Technique
+Approach
+ • Extraperitoneal (flank incisions) or transperitoneal (midline or subcostal). Surgeons should be
+   comfortable with all and individualise by habitus, prior surgery, hilar anatomy, tumour size and location,
+   and comorbidity.
+
+Vascular Control and Renal Mobilisation
+ • Achieve hilar control early, identifying the main renal artery and vein and any accessory vessels — even
+   when ischaemia is not planned, so clamps can be applied promptly if needed.
+ • Anticipate anomalies: retroaortic renal vein, precaval renal artery, early or multiple branching,
+   accessory vessels.
+ • Mobilisation: at minimum, the capsule around the tumour exposed circumferentially to delineate
+   borders and permit capsular renorrhaphy; full mobilisation helps deliver the tumour or excise multiple
+   tumours.
+ • Reapproximate Gerota's fascia at the end to prevent small bowel adhesion to the capsule.
+
+Renal Perfusion During Partial Nephrectomy
+ • Traditional technique clamps artery and vein. Modifications: omission of venous clamping; selective
+   clamping of tumour-supplying branches; early unclamping after excision or the first renorrhaphy layer;
+   fully perfused ("off-clamp") surgery.
+ • Verdict (randomised evidence tabulated above): ischaemia within widely accepted limits is safe in
+   selected patients; on-clamp versus off-clamp remains the surgeon's individualised choice.
+
+Tumour Excision Techniques
+ENUCLEATION VERSUS RESECTION (FIG. 141.61)
+                   Tumour enucleation                                     Tumour (wedge) resection
+ Plane             Along the tumour pseudocapsule — between normal        Through normal parenchyma, 5–10 mm
+                   parenchyma and pseudocapsule                           peripheral to the tumour
+ Normal tissue     Minimal                                                Rim of normal parenchyma on the
+ removed                                                                  specimen
+ Occlusion         May be omitted for small lesions; manual               Usually required
+                   compression or hilar clamping if bleeding obscures the
+                   margin
+
+
+
+
+                                                        page 24 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                             PARTIAL NEPHRECTOMY FOR MALIGNANT DISEASE
+
+                   Tumour enucleation                                           Tumour (wedge) resection
+ Bleeding          Often minimal if the plane is followed                       Greater risk of transecting small vessels →
+                   circumferentially                                            meticulous haemostasis at renorrhaphy
+
+ • Enucleation sequence: cortex scored circumferentially with cautery → sharp and blunt dissection in the
+   pseudocapsular plane → small intrarenal vessels ligated, then divided sharply → tumour excised, margins
+   inspected for gross positivity; deep margin sent for frozen section as needed.
+
+Intraoperative Ultrasound
+ • Exophytic tumours are excised along the visible contour; endophytic or centrally extending tumours
+   need ultrasound to localise borders.
+ • Performed by the surgeon after defatting kidney and tumour, before hilar clamping or excision; formal
+   intraoperative radiology when borders remain unclear.
+ • Goals: tumour location and borders, depth of parenchymal penetration, relation to vessels and collecting
+   system, and planning of excision (Fig. 141.62: endophytic hilar tumour clearly distinct from parenchyma).
+
+Renorrhaphy Techniques
+TWO-LAYER RENORRHAPHY
+              Inner layer                                               Outer layer
+ Target       Vessels and collecting system in the resection bed        Capsule and parenchyma over the defect
+ Technique Small vessels: 4-0 absorbable figure-of-eight on a           Running or interrupted absorbable suture
+           tapered needle, or argon beam or bipolar                     (authors: interrupted, tapered needle): capsule →
+           coagulation. Collecting system checked and closed            bed at the corticomedullary junction → back
+           with running absorbable suture (Fig. 141.63)                 through it → capsule on the far side
+ Adjuncts     —                                                         Haemostatic bolster (Fibrillar or Nu-Knit) in the
+                                                                        bed before tying
+ Cautions     Avoid incorporating adjacent vessels (delayed             Tension parallel to the suture, never upward
+              bleeding as haematuria); no permanent sutures —           traction — soft parenchyma tears
+              stone nidus
+
+ • Completion: clamps released → renorrhaphy inspected immediately → manual compression, then
+   additional sutures, until haemostatic → perirenal fat and renal fascia reapproximated → collecting system
+   entered → closed suction drain in the pararenal space to monitor for urine leak.
+Concept — partial nephrectomy is a balance between two losses — nephrons removed with the margin and
+nephrons injured by ischaemia — and the evidence now says the quantity of parenchyma preserved
+outweighs minutes of clamp time within accepted limits.
+
+
+
+
+                                                        page 25 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                       INTRAOPERATIVE AND POSTOPERATIVE COMPLICATIONS
+
+INTRAOPERATIVE AND POSTOPERATIVE COMPLICATIONS
+Intra-Abdominal
+Injury to the Intestinal Vasculature
+MESENTERIC VESSELS AT RISK: CONSEQUENCE AND MANAGEMENT (FIG. 141.64)
+             Supplies /
+ Vessel      drains              Mechanism of injury Consequence                     Management
+ IMA and     Left colic →        Reflection of the left   Usually none —           Ligation safe if the marginal artery
+ branches    distal transverse   mesocolon off            collateral supply from   is patent
+             and descending      Gerota's fascia;         the SMA via the marginal
+             colon; sigmoid      deliberate division      artery of Drummond
+             branches →          for colonic invasion
+             sigmoid
+ SMA         Entire small        Mistaken for the left Potentially lethal            Reverse immediately: vascular
+             intestine,          renal artery in left                                surgeon; primary repair or graft
+             caecum, right       nephrectomy;                                        bypass
+             colon, proximal     traction injury
+             transverse colon    during Cattell-
+                                 Braasch; retractor
+                                 blade
+ IMV         Descending          —                        None                       Safely ligated; landmark — incise
+             mesocolon, just                                                         posterior peritoneum just medial to
+             lateral to the                                                          it
+             ligament of
+             Treitz
+ SMV         Root of          —                           Bowel oedema, venous       Never ligate unless the only option.
+             mesentery; joins                             engorgement, impaired      Laceration: clip small tributaries,
+             splenic vein to                              portal return → systemic   isolate with atraumatic clamps, 6-0
+             form the portal                              hypotension/splanchnic     Prolene venorrhaphy. Transection:
+             vein                                         hypertension syndrome      primary reanastomosis or
+                                                          (venous thrombosis,        autologous vein graft; Gore-Tex only
+                                                          bowel ischaemia,           if no vein (high thrombosis). Do not
+                                                          necrosis)                  close the abdomen primarily —
+                                                                                     abdominal compartment syndrome
+
+ • Why the SMA is mistaken for the left renal artery: it arises from the anterior aorta about 1–2 cm above
+   the left renal artery and deflects slightly leftward.
+ • Why Cattell-Braasch endangers the SMA: the mobilised small bowel, mesentery and right mesocolon
+   pivot on the SMA, which itself leaves the aorta anteriorly at a wide angle; excessive anterior displacement
+   or a retractor blade against it causes injury.
+ • Fig. 141.64: the ascending mesocolon is supplied mainly by the right colic artery, the descending
+   mesocolon mainly by the left colic artery; the marginal artery of Drummond links SMA, IMA and rectal
+   arteries, sustaining the left colon and rectum.
+
+
+
+
+                                                          page 26 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                      INTRAOPERATIVE AND POSTOPERATIVE COMPLICATIONS
+Injury to the Liver and Spleen, Duodenum, Pancreas, and Pleura
+VISCERAL INJURIES: MECHANISM AND MANAGEMENT
+ Organ         Mechanism                   Recognised intraoperatively             Late or unrecognised
+ Liver and     Traumatic retraction        Capsular tears, minor lacerations:      —
+ spleen        during mobilisation         argon beam or cautery (spray,
+                                           setting 100); fibrin glue, oxidised
+                                           cellulose (Surgicel). Serious splenic
+                                           injury → splenorrhaphy or
+                                           splenectomy. Minor hepatic
+                                           laceration: absorbable suture on ½-
+                                           circle tapered needle with Nu-Knit
+                                           pledgets
+ Duodenum Right-sided surgery              Intramural haematoma: expectant;        Untreated narrowing haematoma →
+          (Kocherisation); Cattell-        if large and narrowing the lumen →      obstruction; nasogastric
+          Braasch (transverse              incise serosa and muscularis (not       decompression until bowel function
+          duodenum displaced)              mucosa), drain, close with              returns
+                                           interrupted 3-0 silk. Minor cautery
+                                           injury or laceration: debride; two
+                                           layers — mucosa continuous 4-0
+                                           chromic or Vicryl; seromuscular
+                                           interrupted 3-0 silk; omental flap
+                                           and closed suction drain
+ Pancreas      Left-sided surgery:         Superficial: fibrin glue + closed       Pain, vomiting, fever, distension, ileus;
+               reflecting mesocolon        suction drain; drain monitored for      raised serum amylase/lipase; fluid
+               and pancreatic tail;        alkaline pH, amylase and lipase         collection in the left renal bed
+               stapling the hilum          (fistula). Deep or ductal injury →      (enhancing → abscess); rarely fistula
+                                           gastrointestinal surgeon                through the wound → percutaneous
+                                                                                   drainage, drain fluid amylase/lipase,
+                                                                                   antibiotics if infected, nil by mouth
+                                                                                   and nasogastric tube, octreotide for
+                                                                                   persistent output, fluid and electrolyte
+                                                                                   balance; general surgery if nonhealing
+ Pleura        Upper-pole                  14-Fr red rubber catheter into the      Dyspnoea, chest pain, respiratory
+               mobilisation (complex       pleural cavity on gentle suction;       distress (pneumothorax or
+               or redo); left: dividing    small defect → purse-string 3-0         haemothorax) → radiograph, oxygen,
+               the splenorenal             chromic around it; positive-pressure    chest tube
+               ligament; flank             breath, withdraw catheter as the
+               incisions (pleura drapes    suture is tied. Large defect → chest
+               beneath the ribs)           tube. Postoperative chest radiograph
+
+ • Duodenal trap: a segment may look nonviable after haematoma drainage — do not resect; the
+   impression is false. A general or gastrointestinal surgeon is valuable.
+ • Two pleural repair methods appear in the chapter: at wound closure, a running nonabsorbable suture
+   with the catheter under saline; in the complications section, a 3-0 chromic purse-string with the catheter
+   on gentle suction. Both evacuate air on a positive-pressure breath before the final tie.
+
+
+
+
+                                                        page 27 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                         INTRAOPERATIVE AND POSTOPERATIVE COMPLICATIONS
+Complications Specific to Inferior Vena Cava Tumour Thrombectomy
+IVC THROMBECTOMY COMPLICATIONS: PREVENTION AND MANAGEMENT
+ Complication                Cause                           Prevention / management
+ Air embolism (right         Air entering at cavotomy        Release the caudal IVC clamp first; let air and about 5 mL of
+ heart, pulmonary                                            blood escape from the repair before removing the cranial
+ arteries) — potentially                                     clamp
+ lethal
+ Acute pulmonary             Manipulation before control     Minimal manipulation before vascular control; early renal
+ embolism (tumour or                                         artery ligation; Greenfield filter for pelvic bland thrombus.
+ bland)                                                      Intraoperative respiratory distress → prompt thoracotomy,
+                                                             pulmonary arteriotomy and extraction
+ Massive haemorrhage         Parasitic vessels; IVC tears;   Ligate all lumbar veins before cavotomy. Uncontrolled
+                             bleeding despite "complete"     bleeding off bypass → supracoeliac aortic clamping or deep
+                             control = an unligated          hypothermic CPB (itself coagulopathic); liberal FFP,
+                             lumbar vein                     platelets, red cells. Cell Saver not recommended —
+                                                             disseminates tumour cells
+ Hepatic dysfunction         Common after level III–IV       Minimise porta hepatis clamping; enzymes peak at 2–3
+ (raised transaminases,      with suprahepatic clamping      days, then resolve
+ alkaline phosphatase)       and/or bypass
+ Cardiac (from CPB/          Coronary hypoperfusion;         Ischaemia and myocardial infarction; atrial and ventricular
+ arrest)                     electrolyte disturbance;        tachyarrhythmias; transient dysfunction with heart failure
+                             reperfusion                     (peripheral and pulmonary oedema)
+ Neurological (from CPB/ Cerebral hypoperfusion;             Transient or permanent deficits; seizures; postoperative
+ arrest)                 electrolyte disturbance             cognitive dysfunction and delirium in the elderly with pre-
+                                                             existing impairment
+
+ • Mitigation of CPB complications: optimal haemodynamics and cerebral perfusion pressure; cerebral
+   oximetry; anticoagulation of the circuit with heparin (patency, no embolic clot), reversed with protamine
+   after bypass; monitor activated partial thromboplastin time and activated clotting time.
+ • Preoperative risk assessment for cardiac and neurological complications allows preparation and
+   intraoperative monitoring.
+
+Complications Specific to Partial Nephrectomy
+PARTIAL NEPHRECTOMY COMPLICATIONS COMPARED
+                Urine leak                Postoperative bleeding        Arteriovenous fistula    Renal insufficiency
+ Cause          Collecting system         Delayed interruption of       Inadvertent injury       Solitary kidney: large
+                entry (large,             subsegmental                  creating an artery-to-   tumour, excessive
+                endophytic, hilar         branches;                     vein communication       parenchymal removal,
+                tumours), even after      pseudoaneurysm; less          (high flow, low          prolonged ischaemia; also
+                closure                   often AVF                     resistance)              obstruction, drug toxicity,
+                                                                                                 vascular thrombosis or
+                                                                                                 disruption
+ Presentation Most within 72              Flank pain, haematuria,       Thrill or pulsatile      Usually mild and
+              hours; high drain           haemodynamic                  mass, bruit,             temporary; hyperfiltration
+              output                      instability (rupture)         haematuria, heart        → gradual decline with
+                                                                        failure, renal           proteinuria
+                                                                        ischaemia from steal
+
+
+
+
+                                                        page 28 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                        INTRAOPERATIVE AND POSTOPERATIVE COMPLICATIONS
+
+                Urine leak                Postoperative bleeding        Arteriovenous fistula   Renal insufficiency
+ Diagnosis      Drain fluid creatinine Diagnostic angiography           Doppler ultrasound,     —
+                above serum; IV        preferred over CT                CT angiography,
+                indigo carmine if      angiography                      magnetic resonance
+                uncertain; CT                                           angiography
+                urography only if
+                symptomatic
+ Treatment      Drain → IR drain →        Conservative →                Observation → coil      Supportive; some need
+                retrograde double-J       selective embolisation        embolisation or stent   haemodialysis
+                stent + Foley             → re-exploration              → surgery
+
+ • Urine leak. Close large collecting system defects primarily with absorbable suture. Leave a closed suction
+   drain after open renal surgery, especially after deep resection.
+ • Drain rules: output low for 48 hours → leak unlikely → remove the drain by 48 hours. Fluid creatinine is
+   measured only if output is high — typically over 50 mL per 24 hours.
+ • High output with raised fluid creatinine but no significant symptoms → no cross-sectional imaging
+   needed. Symptoms — persistent abdominal pain, fever, ileus, leakage from the incision,
+   disproportionate rise in SCr — → CT urography if renal function permits (delayed phase shows
+   extravasation and suggests infection or abscess).
+ • Treatment sequence: maintain the closed suction drain in the urinoma → percutaneous drain by
+   interventional radiology if drainage is inadequate → urinoma unresolved after 48 hours, or symptoms
+   persisting beyond 24 hours → retrograde double-J stent plus Foley catheter (antegrade flow); any
+   retrograde pyelogram gentle and low-pressure so as not to enlarge the defect → most fistulas resolve in
+   4–6 weeks; reoperation is rarely required.
+ • Postoperative bleeding. Pseudoaneurysm: persistent communication between a disrupted arterial wall
+   and the surrounding tissue, forming a contained haematoma — from injury at excision, suturing or
+   thermal energy.
+ • Risk rises with tumour complexity (large, endophytic) and postoperative anticoagulation.
+ • Mild bleeding in a stable patient: imaging not necessarily required; bed rest, hydration, close monitoring
+   and serial blood counts.
+ • Significant bleeding (falling haemoglobin, transfusion, instability) → angiography by interventional
+   radiology — CT angiography has more false negatives, particularly for pseudoaneurysm, and cannot
+   treat → selective embolisation of segmental or subsegmental arteries salvages the kidney.
+ • Life-threatening haemorrhage (hypotension refractory to blood-product resuscitation) → reoperative
+   exploration.
+ • Arteriovenous fistula. Management depends on size, location, symptoms and overall status: observation;
+   endovascular coil embolisation or stent; surgery for complex or symptomatic fistulas.
+Concept — complications follow anatomy: the right side threatens duodenum and liver, the left side
+pancreas, spleen and the SMA, the upper pole the pleura; and after partial nephrectomy, the two late threats
+— urine leak and arterial bleeding — are each managed by escalating drainage or selective embolisation
+before any reoperation.
+
+
+ KEY POINTS
+   • The right renal artery arises posterior to the LRV and the IVC. In a difficult right radical nephrectomy it
+     may be more accessible interaortocavally, posterior and medial to the IVC, near its aortic origin;
+     cephalad retraction of the LRV as it crosses the aorta aids exposure.
+
+
+
+                                                        page 29 of 30
+Chapter 141 — Contemporary Open Surgery of the Kidney                   INTRAOPERATIVE AND POSTOPERATIVE COMPLICATIONS
+   • The right gonadal and adrenal veins drain into the IVC; the left gonadal and left adrenal veins drain
+     into the LRV.
+   • Simple nephrectomy — removal within Gerota's fascia — is for benign disease.
+   • Key elements of radical nephrectomy: early ligation of renal artery and vein, and removal outside
+     Gerota's fascia; spare a radiographically normal ipsilateral adrenal when feasible.
+   • Left radical nephrectomy, especially for upper-pole masses: avoid ligating the SMA, which lies on the
+     anterior aorta 1–2 cm cephalad to the LRV.
+   • Regional lymphadenectomy from renal hilum to aortic bifurcation is used in selected advanced local
+     disease when feasible; its effect on progression-free and overall survival is controversial.
+   • Partial nephrectomy is the treatment of choice for stage T1 tumours when technically feasible, even
+     without renal insufficiency.
+   • Goal of partial nephrectomy: complete excision with negative margins and maximal preservation of
+     benign parenchyma — by enucleation or resection.
+   • Known IVC thrombus → intraoperative TEE after induction and intubation to define the distal extent
+     before starting.
+   • Right radical nephrectomy with thrombectomy: the suprarenal IVC can be resected only if the LRV
+     has been ligated on the caval side of its tributaries (gonadal, lumbar, adrenal), which then drain the
+     left kidney.
+   • Left-sided tumour: the right kidney has no such tributaries, so the suprarenal IVC should not be
+     resected unless alternative right renal drainage is provided — autotransplantation, or saphenous vein
+     graft to the splenic, portal or inferior mesenteric vein.
+   • Alternatives to CPB include VVB and extensive liver mobilisation.
+   • IVC reconstruction: the lumen can be narrowed by half and closed primarily; larger resections need a
+     pericardial patch or PTFE graft.
+
+
+
+
+                                                        page 30 of 30
+

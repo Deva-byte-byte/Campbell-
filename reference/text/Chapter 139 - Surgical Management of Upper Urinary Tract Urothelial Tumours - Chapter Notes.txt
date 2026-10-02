@@ -1,0 +1,1359 @@
+Chapter 139 — Surgical Management of Upper Urinary
+Tract Urothelial Tumours
+DIAGNOSIS
+
+Diagnostic Endoscopic Evaluation and Biopsy
+ • Suspicion usually arises on imaging: a soft-tissue mass involving the collecting system of the renal pelvis
+   or ureter raises the possibility of upper tract urothelial carcinoma (UTUC).
+ • Endoscopy with biopsy and selective cytology is the most accurate means of diagnosis. Obvious cases
+   can be identified by good-quality computed tomography (CT) or magnetic resonance imaging (MRI)
+   urography combined with cystoscopy and positive urinary cytology.
+ • Diagnostic accuracy rises from about 75% with excretory or retrograde urography alone to 85–90%
+   when ureteroscopy is added. Endoscopic assessment with biopsy is therefore the gold standard for
+   diagnosis, as an adjunct to contrast-enhanced cross-sectional imaging.
+ • Diagnostic endoscopy carries oncologic risk: bladder tumour recurrence, pyelovenous and
+   pyelolymphatic migration of cancer cells, and other routes of dissemination. Special care is required (see
+   Ureteroscopy below).
+ • Diagnostic versus therapeutic endoscopy: diagnostic endoscopy is a brief, low-impact procedure confined
+   to visual characterisation of involved sites and tissue sampling (biopsy and cytology); therapeutic
+   endoscopy has treatment intent. The two may be combined in one sitting for small, easily accessible
+   tumours.
+ • Percutaneous antegrade pyelo-ureteroscopy is used when retrograde ureteroscopy is not feasible, for
+   example after urinary diversion.
+ • Image-guided percutaneous needle sampling (CT- or ultrasound-guided) is the alternative when tissue is
+   needed but endoscopy is considered less safe.
+ • Endoscopy also shows areas not seen on imaging and informs treatment planning. The American
+   Urological Association (AUA) / Society of Urologic Oncology (SUO) guideline on non-metastatic UTUC
+   derives its risk groups from endoscopic and imaging features, which makes a standardised diagnostic
+   assessment essential.
+ • Preoperative ureteroscopy has clear value when the diagnosis is uncertain or kidney-sparing
+   management is being considered.
+ • Ureteroscopic biopsies are small and shallow, so their correlation with pathological stage is weak. Stage
+   is best estimated by combining radiographic findings, the endoscopic appearance of the tumour, biopsy
+   grade and cytology.
+Concept — Because the biopsy cannot stage the tumour, UTUC is staged by inference: grade, appearance,
+imaging and cytology together stand in for depth of invasion, and every later risk-group decision rests on that
+composite.
+
+TREATMENT ALGORITHM
+ • Radical nephroureterectomy (RNU) with bladder cuff resection is the standard therapy, provided the
+   contralateral kidney is normal and there is no surgical contraindication.
+ • Risk-adapted strategies from the AUA/SUO and the European Association of Urology (EAU) classify
+   patients by tumour features to refine surgery, including kidney-sparing management (Box 139.1).
+
+
+
+                                                  page 1 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                      Treatment Algorithm
+
+ • Low-risk disease → consider kidney-sparing treatment irrespective of the contralateral kidney,
+   preserving renal function without compromising oncologic outcome.
+ • Kidney-sparing may also be considered in selected higher-risk (imperative) situations: (1) serious renal
+   insufficiency, (2) solitary kidney, (3) bilateral tumours, (4) poor surgical candidate. The treatment must not
+   significantly compromise oncologic outcome; cancer-control risk is weighed against renal preservation
+   through shared decision-making.
+ • Lower-ureteric disease, particularly with unfavourable features → segmental resection rather than
+   endoscopic management as definitive treatment.
+
+BOX 139.1 RISK-ADAPTED PROTOCOL FOR KIDNEY-SPARING MANAGEMENT
+
+                            Low risk —               Low risk —             High risk —              High risk —
+ Feature                    favourable               unfavourable           favourable               unfavourable
+ Grade                      Low                      Low                    High                     High
+ Cytology                   Negative                 No high-grade          Any                      High-grade
+                                                     cytology
+ Radiographic invasion      None                     None                   None                     Invasion
+ Obstruction                None                     Obstruction            None                     Obstruction
+ Nodes on imaging           Normal                   Normal                 Normal                   Suspicious
+ Focality                   Unifocal                 Multifocal             Unifocal                 Multifocal
+ Architecture               Papillary                Papillary              Papillary                Sessile or flat
+ Lower tract                No                       Yes                    No                       Yes
+ involvement*
+ Ablative treatment         Preferred                May be offered         Rare, select cases       Palliation only
+ Systemic therapy           Not recommended          Not recommended        Neoadjuvant or           Neoadjuvant or
+                                                                            adjuvant                 adjuvant
+
+*Prior or concomitant history of lower tract involvement. Modified from Coleman JA, Clark PE, Bixler BR, et al.: AUA/SUO
+guideline on non-metastatic UTUC, J Urol 209:1071–1081, 2023.
+ • Grade makes the primary division; substratification then turns on obstruction, multifocality and lower-
+   tract involvement in low-grade disease, and on invasion, obstruction, suspicious nodes, multifocality and
+   sessile or flat architecture in high-grade disease.
+ • Ablation follows a gradient: preferred → may be offered → rare, select cases → palliation only. Systemic
+   therapy enters only when grade is high.
+ • Trap: low grade does not automatically mean ablation — obstruction or multifocality moves a low-grade
+   tumour into the unfavourable group, where RNU retains a role.
+Algorithm for localised UTUC (Fig. 139.16): radiographic suspicion → contrast-enhanced CT or MRI urogram
+→ endoscopic examination with biopsy and cytology → risk-group assessment and shared decision → either
+nephroureterectomy ± neoadjuvant chemotherapy (NAC) for high risk with adequate glomerular filtration
+rate (GFR), or conservative management for low risk or poor GFR.
+Concept — The algorithm balances two axes, tumour risk and renal reserve: high risk with adequate reserve
+goes to extirpation, low risk goes to preservation, and the imperative indications are exactly where the two
+axes conflict.
+
+
+
+
+                                                            page 2 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                           Surgical Management
+
+
+SURGICAL MANAGEMENT
+ • Options mirror those for lower tract (bladder and urethral) cancer: extirpative, endoscopic, topical, and
+   systemic chemotherapy and immunotherapy (neoadjuvant and adjuvant).
+ • The evidence base was historically thin because UTUC is uncommon and heterogeneous; landmark trials
+   and well-curated consortium data now define best practice, and better endoscopic optics and instruments
+   allow less invasive diagnosis and treatment.
+ • The least invasive treatment is preferred only if it does not compromise oncologic control.
+ • UTUC is unforgiving of surgical indiscretion: it seeds and implants after tumour spillage or extravasation
+   and is not amenable to salvage by other modalities, so every approach must avoid spillage.
+
+Radical Nephroureterectomy
+Indications
+ • RNU with bladder cuff excision and lymph node dissection is recommended for non-metastatic, high-
+   risk tumours of the renal pelvis and proximal ureter.
+ • High-risk disease: high-grade cancer on biopsy or cytology, or clinical features of invasive or locally
+   advanced cancer such as radiographic obstruction or parenchymal invasion (Box 139.1).
+ • RNU also retains a role in low-risk, low-grade cancers with unfavourable features (obstruction,
+   multifocality, large volume) or when endoscopic management is unsuccessful or infeasible.
+
+Techniques
+Open radical nephroureterectomy
+ • Multiquadrant access is required to the kidney, perinephric fat, ipsilateral adrenal, retroperitoneal nodes,
+   ureter and bladder, through a single incision or separate incisions.
+ • Positioning: supine or modified flank. The genitalia are included in the field so that the bladder catheter
+   can be placed and accessed intraoperatively. After prior pelvic surgery, perineal access may be needed to
+   manipulate the vagina or rectum for identification.
+ • Midline incision gives the best exposure of retroperitoneal nodes and bladder but limits the upper pole,
+   particularly on the left and in obese patients.
+ • Flank, subcostal, modified Makuuchi or thoracoabdominal incisions can be extended toward the pelvis;
+   unless a midline incision is used, a second Gibson, lower midline or Pfannenstiel incision is needed for
+   the bladder cuff (Fig. 139.1).
+ • Sequence — kidney first, cuff last, so the collecting system stays intact until the end: incise white line of
+   Toldt → mobilise colon to expose Gerota's fascia → clip or ligate the ureter early (limits migration of
+   tumour cells or fragments to the bladder during renal dissection) → control the hilum before excessive
+   manipulation → secure and divide renal artery and vein (suture ligature, ties, clips, or endovascular
+   stapler) → mobilise the entire kidney outside Gerota's fascia, dividing hepatorenal attachments on the
+   right and the splenorenal ligament on the left.
+ • Side-specific hazards: right — duodenum reflected medially to expose the hilum; left — pancreatic tail,
+   spleen and fourth (ascending) part of the duodenum.
+ • Routine adrenalectomy is unnecessary; it does not aid oncologic control unless involvement is suspected
+   on imaging or at operation.
+Management of the distal ureter and bladder cuff
+ • Complete removal of the distal ureter and bladder cuff is oncologically superior to incomplete
+   resection. Surveillance of a residual stump is clinically impractical and local recurrence is high, so the
+   entire distal ureter, including the intramural portion and the ureteric orifice, must be removed.
+
+
+                                                            page 3 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                      Surgical Management
+
+ • A retained intramural stump carries local recurrence in 30–75%. Non-definitive (incomplete) distal
+   management carries higher local and distant recurrence and inferior disease-specific and overall survival.
+ • After prior urinary diversion into bowel, the ureteroenteric anastomosis is excised with a bowel cuff;
+   recurrence is substantial when it is left.
+ • The kidney may stay in continuity with the distal ureter, or, because its bulk hinders manipulation, the
+   ureter may be divided in a controlled manner between ties, clips or stapler at a grossly tumour-free level.
+   Do not seal the ureter with a thermal vessel-sealing device alone — durable sealing of the ureter is off-
+   label and unestablished.
+ • No single technique is superior, but techniques that are endoscopic-assisted or risk spillage outside the
+   collecting system should be avoided:
+
+DISTAL URETER TECHNIQUES THAT HAVE FALLEN OUT OF FAVOUR
+
+ Technique                                   Reason abandoned
+ Transvesical "lasso" procedure              Spillage risk; higher recurrence
+ Cystoscopic transmural resection            Spillage outside the collecting system; higher recurrence
+ ("pluck")
+ Intussusception endoluminal                 Higher recurrence
+ "stripping"
+ Laparoscopic extravesical "staple"          Positive margins and staple-line recurrence — urothelial mucosa trapped in
+                                             the staple line
+
+ • General principles of distal ureterectomy: excise the orifice with a small margin of surrounding
+   urothelium → avoid or contain urinary spillage outside the collecting system → obtain a watertight
+   bladder closure.
+Transvesical and extravesical ureterectomy
+
+             Extravesical (Fig. 139.2)                             Transvesical (Fig. 139.3, combined)
+ Usual       Minimally invasive (laparoscopic, robotic)            Open, often via separate Gibson or Pfannenstiel incision
+ setting
+ Access      Ureter followed distally to the intramural            Anterior cystotomy; intravesical dissection of the ureter
+             segment (landmark: passes under the superior
+             vesical artery)
+ Cuff        En bloc cuff, often by clamping the bladder wall Traditional 1-cm mucosal cuff; wider if gross tumour
+             (open)                                           protrudes; en bloc partial cystectomy if invasive
+                                                              intramural tumour suspected
+ Hazard      Uncontrolled entry into the collecting system         Contralateral orifice
+             while dissecting the tunnel; contralateral
+             orifice
+
+ • Either is acceptable provided the whole ureter, including the intramural portion and the mucosa of the
+   orifice, is removed with visual confirmation of complete resection.
+ • Extravesical sequence: mobilise the ureter distally to the intramural segment → tie the ureter where it
+   enters the detrusor tunnel (retraction and spillage control) → gentle traction with partial bladder filling
+   through the urethral catheter → divide the lateral pedicle or its branches (obliterated umbilical, superior,
+   middle and inferior vesical arteries) to expose the entire intramural ureter → flush and empty the bladder
+   through the catheter → excise the cuff en bloc, avoiding the contralateral orifice. Traction everts the
+   orifice outside the bladder (Fig. 139.2).
+
+
+
+
+                                                            page 4 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                            Surgical Management
+
+ • Robotic or laparoscopic cases: modified flank position; enter the bladder at a supralateral site relative to
+   the ureteric insertion so that it drains completely without spillage; a purse-string suture preplaced around
+   the tunnel helps begin closure.
+ • Closure: two layers, interrupted or running absorbable — first mucosa, then detrusor and adventitia.
+   Foley catheter to gravity for several days; suction drain in the perivesical space optional.
+Concept — Every distal-ureter decision follows from one fact: tumour cells in urine implant wherever urine
+goes, so the ureter is closed early, the orifice is removed whole, and the bladder is opened only when it is
+empty and the ureter is tied.
+
+Laparoscopic and Robotic-Assisted Radical Nephroureterectomy
+Indications
+ • Indications are the same as for open RNU. Possible exceptions: large bulky tumours involving adjacent
+   structures, and cases in which extended lymph node dissection is considered after chemotherapy.
+ • Approaches: transperitoneal, retroperitoneal, hand-assisted and robotic-assisted.
+ • Retrospective non-randomised series show oncologic survival generally equivalent to open surgery in
+   experienced centres; less invasive procedures are better tolerated with fewer major complications, but
+   may carry more bladder recurrence and are less favoured for advanced (T3/T4) disease.
+ • Two components: nephrectomy with proximal ureterectomy, then excision of the distal ureter with intact
+   specimen extraction. Tissue handling must avoid spillage.
+ • The extraction incision is placed to serve both extraction and distal ureteric dissection. Because an
+   extraction incision is needed anyway, techniques designed to avoid a second incision lose their utility
+   when the distal ureter is managed open.
+
+Technique
+Transperitoneal laparoscopic nephroureterectomy — kidney down to mid-ureter
+ • Positioning: kidney and proximal ureter before the cuff; the patient is placed supine with the ipsilateral
+   hip and shoulder rotated about 20–30° (the illustrated set-up, Fig. 139.4, uses a modified lateral decubitus
+   with the flank rotated up 15°), secured at chest, waist and lower limb so that table rotation moves the
+   patient between flank (nephrectomy) and modified supine (open distal ureterectomy). An alternative is
+   slight outward rotation at the waist to flatten the lower abdomen.
+ • Genitalia and ipsilateral flank prepared and draped; Foley catheter placed before insufflation.
+ • Ports: three or four (Fig. 139.5). Camera at the umbilicus throughout; a 30° lens helps. Upper midline and
+   lateral ports for the kidney and proximal half of the ureter; lower midline and lateral ports for the distal
+   ureter; a 3- or 5-mm subxiphoid port for liver retraction on the right. In larger abdominal girth, shift the
+   ports laterally (Fig. 139.6). A hand port, if used, is sited to serve the distal ureter and open cuff.
+ • Choice of extraction incision (Fig. 139.5): a low abdominal (midline or Pfannenstiel) incision if
+   laparoscopic dissection has reached below the iliac vessels; a Gibson-type incision if the more proximal
+   ureter needs exposure.
+ • Colon: incise along the line of Toldt from the iliac vessels to the hepatic flexure (right) or splenic flexure
+   (left); mobilise the colon medially by releasing the renocolic ligaments while leaving the lateral
+   attachments of Gerota's fascia, so the kidney does not fall onto the hilum; mobilise the colonic
+   mesentery medial to the great vessels.
+Proximal dissection for nephroureterectomy
+ • Identify the proximal ureter near the lower pole and dissect medially toward the renal vessels, avoiding
+   overmanipulation and keeping generous perihilar fat.
+
+
+
+                                                            page 5 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                        Surgical Management
+
+ • Early ureteric ligation (clip or tie) is recommended, as in open surgery.
+ • Take a wide margin around the renal pelvis and hilum, because lymphatic spread is a common route of
+   progression — especially when advanced disease is suspected.
+ • Expose the vessels as medially as possible; ligate and divide the artery, then the vein, with a vascular-load
+   stapler or multiple clips (Fig. 139.7); free the kidney outside Gerota's fascia; the adrenal is not removed
+   routinely.
+ • Ureteric blood supply: anteromedial in the proximal third, medial in the middle third, lateral in the distal
+   third.
+ • The lower ureter may require port-hopping or additional ports; in bulky ureteric disease include a wide
+   margin. Continue as far as feasible and complete the remainder through the lower abdominal extraction
+   incision.
+ • Specimen in a retrieval bag; inspect the bed for bleeding and lymphostasis. For open distal ureterectomy,
+   rotate the table and make a Gibson, Pfannenstiel or low midline incision. Close the fascia at ports of 10
+   mm and larger.
+Laparoscopic dissection of the distal ureter and bladder cuff
+ • The open principles apply: complete resection of the orifice and avoidance of urine and tumour spillage.
+ • Sequence: Trendelenburg position (bowel out of the pelvis) → extra ports as needed → extend the
+   peritoneal incision from the iliac vessels into the perivesical space → free the ureter below the iliac
+   vessels, following it medial to the umbilical ligament (Fig. 139.8; nodal tissue may be stripped off the
+   vessels and left en bloc with the ureter) → divide the vas deferens (male) or round ligament with medial
+   mobilisation of ovary and tube (female) → trace the ureter between bladder and medial umbilical
+   ligament, under the superior vesical artery, to the detrusor → clip or tie the ureter at the detrusor (Fig.
+   139.9) → divide the lateral bladder pedicle to rotate the bladder medially and expose the whole
+   intramural ureter → partial filling aids visualisation → free the ureter extravesically by dissecting the
+   detrusor down to the urothelium around the tunnel → empty the bladder and confirm catheter function
+   → open the bladder and complete excision under direct vision of the orifice.
+ • Alternative in a complete extravesical approach: flexible cystoscopy confirms complete ureterectomy and
+   patency of the contralateral orifice.
+ • Multilayer absorbable closure as in open surgery; perivesical drain after watertight closure is confirmed by
+   irrigation.
+Robot-assisted laparoscopic nephroureterectomy
+ • A feasible alternative to open and pure laparoscopic surgery; meta-analytic data suggest comparable
+   outcomes with shorter length of stay for minimally invasive procedures.
+ • Newer systems (longer instruments, greater range of motion) allow the distal ureterectomy without re-
+   docking or repositioning.
+ • Port placement is paramount; a four-port configuration is common:
+
+           Si system                                                                Xi system (Fig. 139.10)
+ Array     Camera at umbilical level lateral to the rectus sheath; 8-mm port        Straight diagonal line from a cephalad
+           1 (cephalad) and port 2 (caudad) on the same line, 7–8 cm from           midline port toward the iliac crest, 8-cm
+           the camera; port 3 about 5 cm cranial to the iliac crest near the        increments; line angled from costal
+           anterior axillary line; assistant port in the midline at or around the   margin toward the pelvis
+           umbilicus
+
+
+
+
+                                                            page 6 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                      Surgical Management
+
+
+           Si system                                                              Xi system (Fig. 139.10)
+ Arms      Left arm port 1, right arm port 2, fourth arm port 3 (retraction);    Camera in the second port from the top,
+           for the distal ureter, retraction moves to port 1 and the left arm to moved to the third for the cuff if
+           port 3                                                                needed; instruments swapped between
+                                                                                 ports as required
+ Pelvic    —                                                                      10–12° Trendelenburg
+ phase
+
+ • Extravesical dissection: a distended bladder helps trace the ureterovesical junction; empty the bladder
+   once the ureter is out of the detrusor; stay sutures medial and lateral to the ureterovesical incision aid
+   reconstruction; two-layer bladder closure.
+
+Outcomes and Comparative Data
+ • First laparoscopic nephroureterectomy: Clayman, 1991.
+ • Published series vary by approach (transperitoneal versus retroperitoneal) and by distal management
+   (open removal, transurethral resection, totally laparoscopic); no approach has a clear-cut advantage in
+   morbidity, cosmesis or return to activity.
+ • The only randomised trial of laparoscopic (LNU) versus open (ONU) nephroureterectomy was early and
+   underpowered: no significant difference in 5-year cancer-specific or metastasis-free survival; blood loss
+   and time to discharge significantly lower with LNU.
+
+OPEN, LAPAROSCOPIC AND ROBOT-ASSISTED NEPHROURETERECTOMY COMPARED
+
+                    Open (ONU)      Laparoscopic (LNU)                                    Robot-assisted (RANU)
+ Oncologic          Reference       Equivalent to ONU (overall, cancer-specific,        Comparable to LNU (cancer-
+ outcome                            recurrence-free survival), even stratified by stage specific, recurrence-free and
+                                    and nodes; early data suggested worse recurrence- overall survival)
+                                    free survival in pT3/pT4 that longer follow-up did
+                                    not confirm
+ Perioperative      Higher          Lower; less blood loss, shorter stay, fewer           Lower blood loss,
+ morbidity                          complications                                         complications, stay and 30-day
+                                                                                          mortality than LNU; lower
+                                                                                          margin rates in pooled data
+ Operative time —                   Shorter than RANU                                     Longer
+ Lymph node         Fewer nodes —                                                         Node dissection performed
+ dissection         than robotic                                                          more often; approach does not
+                                                                                          compromise yield
+ Caveats            —               Possibly more bladder recurrence; less favoured for Ergonomics, assisted retraction,
+                                    T3/T4                                               articulated wrist for dissection
+                                                                                        and suturing; evidence
+                                                                                        retrospective
+
+ • AUA/SUO: evidence of oncologic equivalence between ONU and LNU is sufficient to support either,
+   with shorter hospital stay and fewer complications for minimally invasive surgery at experienced centres.
+ • RANU by experienced surgeons may offer superior surgical and oncologic outcomes over LNU on
+   retrospective evidence; prospective trials and long-term follow-up are needed to confirm.
+ • Local recurrence and incision or port-site seeding are concerns with any approach, because urothelial
+   cancer implants after spillage. Reported cases include port or incision recurrences after simple
+   nephrectomy for presumed benign disease with unsuspected high-grade UTUC (oncologic principles not
+   followed), and a local recurrence after perioperative violation of the ipsilateral urinary tract. One small
+
+
+
+                                                            page 7 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                   Surgical Management
+
+   series found comparable recurrence overall but peritoneal carcinomatosis only after LNU, suggesting that
+   recurrence patterns may differ in minimally invasive cases when spillage occurs.
+ • Summary: no significant difference between laparoscopic-based and open RNU when oncologic principles
+   are followed; the collecting system and bladder cuff must be handled carefully and completely.
+Concept — Access matters less than principle: open, laparoscopic and robotic RNU converge in oncologic
+outcome as long as the specimen stays closed, and the rare disasters — port-site and peritoneal seeding —
+trace back to spillage, not to the approach.
+
+Lymphadenectomy
+ • Regional nodal metastasis is characteristic of urothelial carcinoma, and UTUC is no exception.
+   Lymphadenectomy at extirpation provides accurate staging and demonstrable therapeutic benefit; the
+   open questions are extent of dissection and risk-adapted selection.
+ • Templates are based on the anatomical site of the primary, but overlap is substantial because tumour
+   location and retroperitoneal drainage vary; wide regional templates are therefore advocated.
+ • Classic templates: renal pelvis, proximal or mid-ureter → ipsilateral hilar nodes plus para-aortic (left) or
+   paracaval (right) nodes; lower ureter → pelvic nodes.
+ • Extended templates derive from node-mapping data and reflect right-to-left lymphatic drainage (Fig.
+   139.11):
+
+EXTENDED LYMPHADENECTOMY TEMPLATES
+
+ Primary site                               Right-sided                         Left-sided     Caudal limit
+ Renal pelvis                               Hilar, paracaval, retrocaval,       Hilar, para-   Renal vessels → inferior
+                                            interaortocaval                     aortic         mesenteric artery
+ Upper two-thirds of ureter (above          As for renal pelvis                 As for renal   Aortic bifurcation
+ the common iliac crossing)                                                     pelvis
+ Lower third of ureter                      Ipsilateral common, external and internal iliac,   Pelvic
+                                            obturator and presacral
+
+ • Node mapping (multicentre): for right-sided pelvic and proximal ureteric tumours, hilar, paracaval and
+   retrocaval dissection captures most metastases and adding interaortocaval dissection raises capture to
+   near-complete; for left-sided tumours, hilar and para-aortic dissection captures most and interaortocaval
+   nodes add only modestly. Mid- and distal-ureteric patterns are less clearly defined.
+ • Node positivity is 12–25% overall, rising with stage and grade: pTa/pTis 0–3%, pT1 0–6.3%, pT2 0–40%,
+   pT3 19–47%, pT4 20–100%. Database analyses are confounded by non-uniform templates and widely
+   varying node counts.
+ • Outcomes: pN0 better than pNx; pN+ worse than pNx.
+ • Node count is used as a surrogate for extent: removal of eight or more nodes increased the chance of
+   finding positive nodes and improved disease-specific survival in disease above pT1; higher yield
+   independently predicts overall survival.
+ • Approach does not compromise yield (more nodes with robotic than open surgery in national data);
+   surgeon factors are the larger determinant of yield, exceeding approach or pathological assessment.
+ • Template lymphadenectomy independently predicted overall survival in muscle-invasive renal pelvis
+   tumours; other studies suggest a therapeutic benefit.
+ • Complications: overall rates modest and in line with open and laparoscopic series; the specific risk is
+   lymphatic or chylous leak.
+
+
+
+
+                                                            page 8 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                         Surgical Management
+
+ • Summary: lymphadenectomy is safe, stages accurately, and has prognostic and therapeutic value in
+   invasive disease (T2–T4), especially of the renal pelvis and proximal ureter; selection and extent will be
+   refined by genomics and imaging.
+Concept — Lymph drains right to left and top to bottom, so the template is set by side and level: right-sided
+upper tumours need the interaortocaval nodes, and ureteric tumours move the field caudally in step with the
+primary.
+
+Results of Nephroureterectomy
+ • RNU is the gold standard for oncologic control of non-metastatic disease, based on large retrospective
+   series; complete resection gives durable local control and cure when disease is truly localised.
+ • Bladder recurrence is common and treatable, most likely from drop-down implantation (supported by
+   genomic evidence). Outcome reporting must therefore separate bladder recurrence from extra-
+   urothelial recurrence as an end point.
+ • Surgical outcomes have been stable over three decades: in a large multi-institutional review with
+   minimal neoadjuvant use, disease-free and cancer-specific survival did not change by stage and grade.
+   Organ-confined disease (≤pT2, N0/Nx) had consistently good 5-year cancer-specific survival; non-organ-
+   confined disease (≥pT3 and/or N+) less than half of that — the baseline for surgery alone, underlining
+   stage-dependent lethality and the need for adjunctive therapy.
+ • Loss of renal function is the key cost; in poor renal function, the curative value of RNU is balanced against
+   the morbidity of dialysis.
+ • Kidney-sparing versus RNU: a meta-analysis of retrospective comparative studies found comparable
+   overall and cancer-specific survival after adjustment, but about three times as many reinterventions with
+   endoscopic management, reflecting upper-tract recurrence. Selection bias is strong; the cumulative
+   burden must be explained to patients. High kidney-preservation rates are achievable in well-selected
+   cases with careful technique.
+Concept — RNU buys certainty of local control at the price of nephrons; every kidney-sparing strategy trades
+that certainty for renal function and repays it in reinterventions and surveillance.
+
+Segmental Ureteral Resection
+ • Segmental ureterectomy here means mainly distal ureterectomy with reimplantation. True proximal
+   segmental resection with uretero-ureterostomy is rarely indicated; total ureterectomy may require ileal
+   ureter or autotransplantation.
+ • Comparative data are retrospective with marked selection bias; data quality is poor.
+ • Resection for compromised renal function must not sacrifice oncologic efficacy to avoid dialysis.
+ • Ureteroscopy of the entire upper tract above the tumour is critical to exclude multifocality.
+ • High-grade disease → many surgeons add ipsilateral pelvic lymph node dissection.
+ • Advantages: preserves renal function and yields a pathological specimen that informs the need for, and
+   extent of, adjuvant therapy.
+
+Open Segmental Ureterectomy
+Ureteroureterostomy
+ • Indications: tumours of the proximal or mid-ureter not removable endoscopically, or high-grade or
+   invasive tumours when the renal unit must be preserved. A clear margin with enough well-vascularised
+   ureter for a tension-free anastomosis is paramount and is the main limiting challenge. The procedure is
+   rare and narrowly indicated: a small tumour, no multifocality elsewhere, not endoscopically manageable.
+
+
+
+
+                                                            page 9 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                               Surgical Management
+
+ • Technique: full or modified flank position → flank incision from the tip of the 12th rib → extraperitoneal
+   approach; ureter identified, mobilised and slung in vessel loops → tumour palpated; ureter ligated 1–2
+   cm above and below the tumour (location verifiable on preoperative imaging; Fig. 139.12) → excision;
+   margins confirmed by frozen section → regional lymphadenectomy → both ends spatulated and
+   anastomosed with interrupted 4-0 polyglactin (Vicryl) → ureteric stent placed before completion → drain
+   at the surgeon's discretion.
+ • Success depends on preserving ureteric blood supply and a tension-free anastomosis; after a long
+   excision, mobilise and descend the kidney for length.
+ • Laparoscopic or robotic: flank position, trocars as for pyeloplasty or nephrectomy; strict oncologic
+   principles to avoid tumour violation and obtain negative margins.
+Distal ureterectomy and direct neocystostomy, or ureteroneocystostomy with psoas hitch or Boari flap
+ • Distal ureterectomy as described above; the entire distal ureter and bladder cuff must be excised and the
+   posterior cystotomy closed in two layers. Laparoscopic or robotic: dorsal lithotomy or supine with
+   Trendelenburg, as for prostatectomy. The ureter is mobilised for a tension-free anastomosis and
+   spatulated.
+
+ Non-refluxing anastomosis                                                             Refluxing anastomosis
+ Confines infection to the lower tract; theoretically avoids seeding the upper tract   Easier upper-tract surveillance
+
+ • The choice remains a matter of debate.
+ • Extravesical reimplant: incise detrusor to expose mucosa → mucosal slit at the distal aspect → full-
+   thickness ureter-to-mucosa anastomosis, continuous or interrupted 3-0 polyglactin or polydioxanone →
+   two distal sutures through the full thickness of the bladder wall anchor the ureter against sliding out →
+   detrusor closed over the ureter with interrupted absorbable sutures (for example 2-0 polyglactin) to
+   create a non-refluxing mechanism → stent optional.
+ • Intravesical reimplant: anterior cystotomy → incision in the posterolateral wall → 2–3-cm submucosal
+   tunnel → ureter brought through, spatulated and anastomosed with interrupted absorbable sutures.
+ • Psoas hitch — about 5 cm extra length: mobilise the bladder anteriorly and laterally; divide the round
+   ligament in females; the contralateral superior vesical artery and lateral pedicle may be divided for
+   mobility; suture the ipsilateral dome to the psoas tendon with several interrupted sutures, avoiding nerve
+   injury or entrapment.
+ • Boari flap — a further 10–15 cm, sometimes reaching the renal pelvis (Fig. 139.13). Preoperative
+   cystogram to assess capacity: a small-capacity bladder, especially if irradiated, is a contraindication. U-
+   shaped flap (L-shaped for more length); base at least 2 cm wider than the apex (blood supply); width at
+   least three times the ureteric diameter (tube calibre); tip fixed to the psoas; spatulated ureter
+   anastomosed end to end; flap tubularised with two-layer absorbable closure over a ureteric catheter.
+ • After any of these: retroperitoneal suction drain and 5–7 days of Foley drainage; cystogram before
+   catheter removal after extensive reconstruction.
+ • Fig. 139.13 shows subtotal ureterectomy for multiple diffuse tumours, a spiral flap from the anterior
+   bladder wall, and psoas hitch plus Boari flap reaching the remaining proximal ureter.
+
+Ileal Ureteral Replacement
+  • A long diseased segment is replaced with ileum; the appendix has also been used for segmental
+    substitution.
+ • Technique: midline intraperitoneal incision → harvest 20–25 cm of ileum at least 15 cm from the
+   ileocaecal valve → stapled bowel anastomosis → proximal end-to-end anastomosis to the renal pelvis,
+   isoperistaltic, running absorbable suture (end-to-side to a healthy proximal ureter if present) → stent →
+
+
+                                                           page 10 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                         Surgical Management
+
+   distal end-to-side anastomosis to the posterior bladder wall through an intravesical approach, two layers
+   → retroperitoneal suction drain near the anastomoses → large Foley for at least 1 week, irrigated
+   frequently if needed; nephrostomy optional → cystogram and nephrostogram before tube removal.
+ • Alternatives: renal autotransplantation in skilled hands; or renal mobilisation with nephropexy of
+   Gerota's fascia to the cut edge of the peritoneum (or psoas tendon), with caudal traction — up to 8–10
+   cm on the left, because the left renal vein is longer (Fig. 139.14); performed laparoscopically, avoiding a
+   second flank incision.
+
+GAINING URETERIC LENGTH
+
+ Manoeuvre                           Length gained                       Key condition
+ Psoas hitch                         About 5 cm                          Mobile bladder
+ Boari flap (with hitch)             Further 10–15 cm; may reach Adequate capacity; small or irradiated bladder
+                                     pelvis                      contraindicates
+ Renal descensus with                Up to 8–10 cm                       Left side (longer renal vein)
+ nephropexy
+ Ileal ureter                        Whole ureter                        20–25 cm ileum, ≥15 cm from ileocaecal valve
+ Autotransplantation                 Whole ureter                        Skilled hands; alternative to ileal ureter
+
+Laparoscopic or Robotic Distal Ureterectomy and Reimplantation
+ • Indications as for open surgery; reserved for low-risk distal tumours. The robot assists the
+   reconstruction. The ureter is dissected down to the orifice and the proximal end anastomosed to the
+   bladder by standard techniques. Early reports are encouraging; strict oncologic principles apply.
+
+Results
+ • Historical poles: RNU for all UTUC, versus segmental ureterectomy only for low-grade, non-invasive distal
+   ureteric tumours.
+ • Ureteric cancers occur most often in the distal ureter, then mid-ureter, then proximal ureter.
+ • In properly selected patients, segmental resection gives oncologic outcomes similar to RNU; outcome
+   correlates with stage and grade regardless of the extent of surgery (Table 139.1).
+ • Series bottom lines: after adjustment, segmental ureterectomy and RNU gave similar outcomes (mostly
+   non-muscle-invasive disease, long follow-up); recurrences after organ-sparing surgery occurred in invasive
+   disease; low-grade non-invasive tumours treated segmentally had minimal recurrence and no cancer
+   deaths; T3 disease had very poor cancer-specific survival; a Surveillance, Epidemiology, and End Results
+   (SEER) population analysis showed no difference in cancer-specific mortality, segmental versus RNU,
+   adjusted for stage; a single-institution comparison found no difference in bladder, local or distant
+   recurrence or survival.
+ • Ipsilateral recurrence after conservative treatment of ureteric tumours is 33–55%, mostly distal to the
+   original lesion but also proximal. Risk is lifelong because late recurrences occur, so follow-up is lifelong.
+   These figures come from an era of limited ureteroscopy; thorough ureteroscopic evaluation and selection
+   probably improve results.
+ • Segmental ureterectomy → low-grade, non-muscle-invasive disease of the proximal or mid-ureter not
+   completely ablatable endoscopically (size or multiplicity).
+ • Distal ureterectomy with neocystostomy → low-grade, low-stage, or selected high-grade locally invasive
+   distal tumours when renal preservation is necessary. With high-grade disease, consider
+   lymphadenectomy.
+
+
+
+
+                                                           page 11 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                            Endourologic Management
+
+TABLE 139.1 LITERATURE REVIEW OF OVERALL SURVIVAL OF PATIENTS WITH UPPER TRACT UROTHELIAL TUMOURS
+(RENAL PELVIS OR URETER) BY STAGE AND GRADE
+
+ Category                                         5-year survival (%)
+ Grade 1–2                                        40–87
+ Grade 3–4                                        0–33
+ Ta, T1, Tis                                      60–90
+ T2                                               43–75
+ T3                                               16–33
+ T4                                               0–5
+ N+                                               0–4
+ M+                                               0
+
+TNM, tumour, node, metastasis.
+ • The prognostic cliff lies between T2 and T3 — invasion beyond the muscularis roughly halves survival.
+ • High grade (3–4) carries survival similar to T3, which is why grade stands in for stage in risk stratification.
+ • Node-positive disease behaves almost like metastatic disease with surgery alone — the rationale for
+   systemic therapy.
+Concept — In the ureter the pathology, not the operation, sets the prognosis: once selection has excluded
+multifocality, segmental resection matches RNU, so the work lies in selection (full ureteroscopic mapping) and
+in lifelong surveillance of what is left.
+
+ENDOUROLOGIC MANAGEMENT
+
+Basic Attributes
+ • Hugh Hampton Young: first endoscopic evaluation of the upper urinary tract, 1912.
+ • Miniaturisation allows biopsy and ablation through the smallest instruments and makes surveillance
+   practical with small ureteroscopes, usually without pre-stenting or active dilation of the distal ureter.
+
+ Retrograde ureteroscopic
+ approach                           Antegrade percutaneous approach
+ Low-volume ureteric and            Larger tumours of the upper ureter or kidney; tumours hard to reach retrogradely
+ renal tumours                      (e.g., lower-pole calyx); previous urinary diversion
+
+ • Multifocal disease → combined antegrade and retrograde approaches (Fig. 139.15: synchronous bilateral
+   tumours — right renal cell carcinoma needing radical nephrectomy, left proximal ureteric tumour treated
+   by combined ablation).
+ • Principles mirror the bladder: sample the tumour, then ablate with electrocautery or laser.
+ • Grade is the key selection tool: endoscopic treatment is safe and feasible for verified low-grade disease;
+   results for high-grade tumours are poor.
+ • Staged procedure for high-volume disease or suspected high grade or stage: when RNU will probably be
+   needed, perform only biopsy and partial ablation to minimise perforation and major complications;
+   complete endoscopic management only after pathology confirms suitability.
+ • Unresectable, high-grade or invasive disease → proceed immediately to RNU; segmental resection is an
+   option in a solitary kidney or significant renal insufficiency if the patient is medically fit.
+ • Renal-sparing therapy requires a lifetime commitment to radiographic and endoscopic follow-up.
+
+
+
+                                                           page 12 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                  Endourologic Management
+
+Retrograde Ureteroscopic
+Ureteroscopy and Ureteropyeloscopy
+ • First described for tumours by Goodman, 1984; favoured for ureteric and smaller renal tumours. Small-
+   diameter rigid and flexible scopes have made tumour location less limiting.
+
+ Advantages                                          Disadvantages (all from small instruments)
+ Lower morbidity than percutaneous or open           Small field of view and working channel limit the tumour size
+ surgery; closed system — non-urothelial             treatable; lower-pole calyces unreliable; cannot remove large
+ surfaces are not exposed to seeding                 tumours or obtain deep specimens for staging; difficult after urinary
+                                                     diversion
+
+Technique and instrumentation
+
+               Rigid ureteroscope (Fig. 139.17A)                Flexible ureteropyeloscope (Fig. 139.17B)
+ Territory     Distal and mid-ureter; upper ureter and          Upper ureter and kidney; passes to most of the tract
+               kidney unreliable, especially in males
+ Size          Larger scopes: better view and irrigation; Available below 8 Fr
+               small (8 Fr) scopes usually need no active
+               dilation
+ Limitations Reach                                              Small working channel limits irrigant flow and instrument
+                                                                diameter; lower pole limited by the infundibulopelvic
+                                                                angle; prior diversion
+
+Endoscopic evaluation and collection of urine cytology
+ • Sequence: cystoscopy (bladder inspected; concomitant disease addressed as indicated) → instrumented
+   cytology if not already obtained → inspect the orifice for lateralising haematuria → atraumatic guidewire
+   into the lower ureter, or a no-touch direct-access approach → small-diameter (6.9- or 7.5-Fr)
+   ureteroscope; inspect the distal ureter for wire or dilation trauma → advance under vision from the
+   ureterovesical junction to the renal pelvis → flexible scope for complete pelvicalyceal inspection → map
+   lesions (often with fluoroscopy) and document appearance and size → saline washing of a suspicious
+   area improves the diagnostic yield of cytology.
+ • Tight ureter: gentle minimal dilation, or pre-stenting for delayed interval ureteroscopy (passive dilation)
+   to minimise injury or perforation.
+ • Ureteric access sheaths — no recommendation either way:
+
+ For access sheaths                                            Against access sheaths
+ Low-pressure system; repeated access; larger                  Additional orifice dilation; reduced scope flexibility near the
+ specimens removed with less theoretical downstream            ureteropelvic junction; need for postprocedure stenting; risk
+ seeding (lower ureter bypassed)                               of significant ureteric injury
+
+Tumour Confined to the Intramural Ureter
+ • Tumour protruding from the orifice → complete ureteroscopic ablation, or aggressive transurethral
+   resection of the entire most distal ureter, with acceptable results.
+Biopsy and definitive treatment; ureteroscopic techniques
+ • Specimens are minute: place in fixative at once and label specifically for histological or cytological
+   evaluation.
+
+
+
+
+                                                           page 13 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                 Endourologic Management
+
+URETEROSCOPIC TECHNIQUES (FIG. 139.18)
+
+ Technique            Method                                                    Best use / caution
+ Bulk excision        Debulk with biopsy forceps, or flat wire basket           Low-grade papillary tumour on a narrow
+ with ablation of     engaged alongside the tumour (avoid avulsing the          stalk
+ base                 ureter); base treated with electrocautery or laser
+ Resection to         Ureteroscopic resectoscope; intraluminal tumour           Mid- and upper ureter thin, prone to
+ base                 only — no attempt to resect beyond the lamina             perforation; large distal disease: extensive
+                      propria, unlike bladder resection                         dilation then long standard resectoscope
+ Biopsy, then         Forceps sampling (multiple bites with small 3-Fr          General approach; laser preferred — more
+ ablation             flexible forceps), then bulk ablated to its base with     reliable energy delivery and depth of
+                      laser or electrosurgical energy                           penetration
+
+ • Bugbee electrode (2 or 3 Fr) fulguration: variable depth of penetration makes it dangerous in the ureter;
+   avoid circumferential fulguration — high stricture risk.
+ • Laser fibres (200 or 365 µm) pass through flexible scopes without significant loss of irrigant flow or
+   deflection.
+
+LASER ENERGY SOURCES FOR UPPER TRACT TUMOUR ABLATION (FIG. 139.19)
+
+                  Holmium:YAG (Ho:YAG)            Neodymium:YAG (Nd:YAG)          Thulium (fibre laser; Tm:YAG)
+ Tissue           <0.5 mm                         Up to 5–6 mm                    <0.2 mm
+ penetration
+ Mechanism        Ablation with good              Coagulative necrosis, then      Photovaporisation / photothermolysis;
+                  haemostasis                     sloughing of necrotic           strong coagulation
+                                                  tumour
+ Typical          0.6–1 J at 10 Hz (varies        15 W × 2 s ablation; 5–10 W     1 J at 10 Hz; longer pulse for coagulation;
+ settings         with fibre and pulse            × 2 s coagulation               quasi-continuous or SuperPulsed modes
+                  duration)                                                       for haemostasis
+ Wavelength       —                               —                               1940 nm (fibre) / 2010 nm (Tm:YAG), near
+                                                                                  the water-absorption peak; absorption
+                                                                                  several times that of Ho:YAG
+ Role             Well suited to the ureter; Low safety margin in the             Early experience favourable; recurrences
+                  cumbersome for large renal thin ureter (transmural              frequent; complications mainly low
+                  pelvis tumours             thermal injury)                      grade; comparative data awaited
+
+YAG, yttrium-aluminium-garnet.
+ • Recurrence is expected after ablation, as in the bladder; several procedures over months may be needed
+   for complete response, especially with larger tumours.
+ • Stenting after treatment is at surgeon discretion; pre-stenting in difficult access reduces ureteric injury
+   and tumour spillage.
+ • After eradication: surveillance with imaging, urinary cytology and endoscopy. AUA/SUO: do not
+   reflexively perform invasive endoscopy of a clinically normal contralateral upper tract. Long-term
+   follow-up for all, adjusted to sites and intervals of recurrence.
+
+Results
+ • No randomised trials compare endoscopic therapy with RNU — all evidence is case series (level 4).
+ • Large literature review: upper-tract recurrence in about half, bladder recurrence in about a third;
+   progression and metastatic recurrence in a minority; ureteroscopic therapy failed in about a quarter, most
+   proceeding to RNU — with strong bias toward favourable tumours (unifocal, low grade, small).
+
+
+
+
+                                                           page 14 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                           Endourologic Management
+
+ • Grade is the most important predictor of recurrence; upper-tract recurrence and disease-free survival
+   worsen with higher grade.
+ • Ipsilateral recurrence is the dominant concern: one series found recurrence in nearly all patients, with
+   several recurrences each, and 5-year recurrence-free survival is modest — important when the
+   contralateral kidney is normal. Counsel for lifelong follow-up and retreatment.
+ • Complications are uncommon, usually related to comorbidity; ureteroscopy-specific complications
+   include perforation (managed with a stent) and stricture, and have fallen with smaller scopes, better
+   lasers and refined technique.
+
+TABLE 139.2 URETEROSCOPIC MANAGEMENT — RANGE ACROSS SEVEN SERIES
+
+ End point                                                                 Range
+ Follow-up                                                                 18–55 months
+ Upper tract recurrence                                                    23–90%
+ Bladder recurrence                                                        15–45%
+ Nephroureterectomy                                                        3–33%
+ Disease progression                                                       0–20%
+ Failed management                                                         3–47%
+
+Modified from Cutress ML, Stewart GD, Zakikhani P, et al.: Ureteroscopic and percutaneous management of UTUC: systematic
+review, BJU Int 110:614–628, 2012.
+ • Recurrence dominates, progression is uncommon: ureteroscopic management trades frequent
+   reintervention for kidney preservation. The wide ranges reflect selection.
+ • Case selection, with technical experience, is the overriding factor: size, multifocality, vascularity, location
+   and grade. Tumours of the renal papillae or fornix are hard to treat without perforation, bleeding or
+   functional damage. High-grade and invasive tumours are not ideal except in imperative settings (solitary
+   kidney, small individual tumours).
+ • Accuracy of ureteroscopic sampling: diagnostic accuracy is high, but grade concordance with the RNU
+   specimen is variable; adding instrumented selective upper-tract cytology to biopsy improves grading
+   accuracy. Genomic markers from biopsy and selective cytology show high concordance with the primary
+   and predict grade and stage.
+ • Grade predicts stage: most grade 1–2 tumours are non-invasive (Ta/T1); most grade 3 tumours are
+   invasive (T2/T3). Stage cannot be assessed directly, but non-invasive disease can be expected in most low-
+   grade tumours.
+ • Does ureteroscopy spread tumour? Tumour has appeared in refluxing ureters and after ureteroscopic
+   treatment; a meta-analysis found higher bladder recurrence after prior ureteroscopic tumour
+   manipulation, strongly supporting downstream seeding. Mitigation: topical intracavitary therapy after
+   treatment and access sheaths (each with its own risks). Tumour cells in renal lymphatics after
+   ureteroscopy raised concern about metastasis, but ureteroscopy before RNU has not increased
+   metastatic risk.
+Concept — Ureteroscopic management is a closed-system, low-morbidity strategy whose weakness is
+information: it cannot stage, so everything depends on grade — grade selects the patient, predicts the stage,
+and predicts the recurrence that will follow.
+
+Antegrade Nephroureteroscopic
+ • First described by Tomera, 1982; favoured for larger tumours of the renal pelvis or proximal ureter,
+   tumours difficult to reach retrogradely, and urinary diversions.
+
+
+                                                           page 15 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                               Endourologic Management
+
+ • Main advantage: larger instruments remove a large tumour volume anywhere in the collecting system,
+   and the upper tract can be reached when retrograde access is technically difficult.
+ • AUA/SUO support endoscopic therapy for tumours <1.5 cm (lower risk of invasion); caution for tumours
+   ≥1.5 cm (elevated risk of invasive disease).
+ • Deeper biopsies facilitate staging and grading; the approach avoids flexible-ureteroscope limits (complex
+   calyces, lower-pole calyx, diversion); the tract is kept for immediate postoperative nephroscopy and
+   topical adjuvant therapy.
+ • Disadvantages: greater morbidity than ureteroscopy; inherent tract risks; usually inpatient admission; an
+   open system — loss of urothelial integrity exposes non-urothelial surfaces, allowing tract implantation.
+
+RETROGRADE VERSUS ANTEGRADE ENDOSCOPIC MANAGEMENT
+
+                                Retrograde ureteroscopic                           Antegrade percutaneous
+ First described                Goodman, 1984                                      Tomera, 1982
+ System                         Closed                                             Open
+ Tumour volume                  Low                                                Large
+ Staging                        Shallow biopsies — cannot stage                    Deep biopsies, base sampled — can
+                                                                                   stage
+ Morbidity                      Lower                                              Higher; admission
+ Seeding route                  Downstream (bladder)                               Nephrostomy tract (rare)
+ Pooled recurrence              Higher bladder and upper-tract recurrence          Lower bladder and upper-tract
+                                                                                   recurrence
+ Second look / topical          Repeat ureteroscopy; ureteric catheter or stent    Through the retained nephrostomy
+ therapy                        reflux
+
+Technique and Instrumentation
+Establishment of the nephrostomy tract
+ • Sequence: cystoscopy → open-ended ureteric catheter into the pelvis → contrast to define calyceal
+   anatomy → percutaneous puncture of the chosen calyx (Fig. 139.20). In the prone split-leg position, a
+   flexible ureteroscope can be passed to the target and access obtained under direct and fluoroscopic
+   guidance.
+
+CHOICE OF PUNCTURE (FIG. 139.20)
+
+ Tumour site              Puncture
+ Peripheral calyx         Direct puncture as far distally in the calyx as possible, distal to the tumour — avoid
+                          traumatising or puncturing the tumour (Fig. 139.21)
+ Renal pelvis, upper      Upper or middle calyx — allows manoeuvring through the pelvis and down the ureteropelvic
+ ureter                   junction
+ Lower calyx              Lower-calyx puncture
+
+ • Tract dilation: sequential (Amplatz) or balloon, to a 30-Fr sheath. Correct tract position is crucial — by the
+   urologist, or by the radiologist after direct consultation with the operating surgeon.
+ • Two-stage option: tract first, allowed to mature for 1–2 weeks, then dilation and treatment.
+ • Diagnostic-only procedures (e.g., positive cytology after cystectomy and diversion): the initial small tract
+   admits a flexible ureteroscope.
+
+
+
+
+                                                           page 16 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                    Endourologic Management
+
+ • Otherwise: nephroscope inserted → ureteric catheter grasped, brought out through the tract and
+   exchanged for a stiff guidewire (antegrade and retrograde control) → complete rigid and flexible
+   nephroscopy → any suspicion of upper ureteric involvement warrants antegrade ureteroscopy.
+Biopsy and definitive therapy
+
+PERCUTANEOUS TECHNIQUES (FIG. 139.22)
+
+ Technique      Method                                                     Best use / caution
+ Cold-cup       Standard nephroscope; bulk grasped and                     Low-grade papillary lesions on a thin stalk
+ forceps        removed piecemeal to the base; separate base               (minimal bleeding); vascular or bulky tumours
+                biopsy for staging; base cauterised with a Bugbee          bleed and obscure the view
+                electrode
+ Resection      Standard or bipolar resectoscope to the base;              Larger, broad-based tumours; monopolar risks
+ loop           base resected and sent separately for staging              absorption of large volumes of hypo-osmotic
+                                                                           irrigant, so bipolar preferred; avoid resection into
+                                                                           major renal vessels
+ Laser          Rigid or flexible scope; sample, then Ho:YAG or            Through a standard nephroscope or a flexible
+                Nd:YAG (thulium also effective); tissue may be             cystoscope
+                taken with a small gastrointestinal polyp snare
+
+ • A nephrostomy tube is left in all cases, allowing second-look nephroscopy to confirm complete removal
+   (Fig. 139.23: solitary kidney with a 5-cm renal pelvis tumour treated by staged resection; grade 1 without
+   submucosal invasion).
+ • RNU is indicated if pathology shows high-grade or invasive disease.
+
+Results
+ • No randomised trials; only limited retrospective series (Table 139.3).
+ • Meta-analysis of contemporary antegrade series: pooled bladder and upper-tract recurrence lower than
+   after retrograde surgery. Tumour grade strongly predicts outcome.
+ • AUA/SUO risk-adapted kidney preservation: ablation strongly recommended in low-risk favourable
+   disease and an option in low-risk unfavourable disease; in high-risk favourable disease, forgoing RNU is
+   highly selected and individualised (low-volume tumours, or patients unable to undergo RNU), with higher
+   progression risk and a low threshold for definitive resection.
+ • Complications resemble those of benign percutaneous surgery: bleeding, systemic absorption of hypo-
+   osmotic irrigant (monopolar resection), collecting-system perforation, secondary ureteropelvic junction
+   obstruction. Overall complication rate about a quarter; the most significant are transfusion, dialysis and
+   renal failure. Complications increase in number and severity with tumour grade (more extensive disease
+   and treatment).
+ • Unlike ureteroscopic resection, the percutaneous method can stage tumours; stage rises with grade.
+ • Tract seeding: few reported cases, all high grade (urothelial and squamous histology); overall rate about
+   0.3% — possible but uncommon.
+
+TABLE 139.3 PERCUTANEOUS MANAGEMENT — RANGE ACROSS SIX SERIES
+
+ End point                                                                       Range
+ Follow-up                                                                       45–64 months
+ Upper tract recurrence                                                          13–65%
+ Bladder recurrence                                                              15–42%
+ Nephroureterectomy                                                              13–50%
+
+
+
+                                                           page 17 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                           Endourologic Management
+
+
+ End point                                                                 Range
+ Disease progression                                                       8–35%
+ Failed management                                                         23–50%
+
+Modified from Cutress ML, Stewart GD, Zakikhani P, et al.: Ureteroscopic and percutaneous management of UTUC: systematic
+review, BJU Int 110:614–628, 2012.
+ • Against Table 139.2, percutaneous series show more nephroureterectomy and progression — they treat
+   larger, higher-grade tumours — while recurrence remains frequent in both.
+
+Consideration for Urinary Diversions
+ • The ureteroenteric anastomosis is hard to find, and antegrade passage of a guidewire may be needed
+   before endoscopy.
+ • Conduits and neobladders: a trial of flexible endoscopy into the diversion is reasonable. Know the
+   anastomosis type — conduit: Wallace versus Bricker (determines where the ureters lie); neobladder:
+   pouch anatomy (e.g., Studer).
+ • Ureters not identifiable → antegrade wire into the pouch (urologist or interventional radiology) → wire
+   retrieved from the diversion → retrograde ureteroscopy over it; the tract need not be fully dilated. If this
+   fails → tract dilation and antegrade uretero-nephroscopy.
+Concept — The percutaneous route exchanges the closed system for size and depth: it removes more, stages
+better and recurs less, at the price of morbidity and a tract that could seed — so it is reserved for tumours too
+big, too proximal or too inaccessible for the ureteroscope.
+
+Management of Positive Upper Tract Urinary Cytology and Carcinoma in Situ
+Evaluation
+ • An unequivocal positive voided cytology usually indicates urothelial carcinoma, most often from the
+   bladder; extravesical sources include the upper tracts and, in males, the prostatic urethra.
+ • Diagnosis is difficult: imaging of the upper tracts is limited, upper-tract endoscopy is more complex than
+   cystoscopy, and minute specimens hamper histological diagnosis and staging.
+ • Algorithm (Fig. 139.24): repeat cytology to confirm → upper-tract imaging (usually CT urography) and
+   complete bladder evaluation — bladder biopsies with or without enhanced visualisation, and resection of
+   any tumour → bladder positive: treat the bladder (intravesical therapy and/or resection) and follow
+   voided cytology → cytology still positive despite a negative bladder evaluation, or after adequate bladder
+   treatment (after a "6 + 1" bacillus Calmette–Guérin [BCG] course) → extravesical evaluation, with repeat
+   bladder evaluation at the same time.
+ • Extravesical evaluation: selective cytology from each upper tract, avoiding contamination from bladder or
+   urethra; retrograde pyelograms if the upper tracts were not evaluated or visualised on CT urography;
+   resection (biopsy) of a representative prostatic urethral specimen in males; ureteroscopy now, or once the
+   positive cytology is lateralised.
+
+Carcinoma in Situ of the Upper Urinary Tracts
+ • Isolated upper-tract carcinoma in situ (CIS) is hard to diagnose because adequate urothelial tissue
+   cannot be obtained. Enhanced imaging (narrow-band or blue-light) and endoscopic brush biopsy help
+   when cytology or standard biopsy is equivocal (Fig. 139.25).
+ • It is often a diagnosis of exclusion: persistently positive selective cytology with no ureteroscopic or
+   radiographic finding.
+
+
+
+
+                                                           page 18 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                 Endourologic Management
+
+
+ Isolated upper-tract CIS                                         CIS coexisting with high-grade papillary UTUC
+ Treatment not well established; topical, field-directed          Radical and possibly multimodal treatment — associated
+ therapy; surgery only with evidence of more than                 with significantly worse recurrence-free and cancer-specific
+ surface disease                                                  survival
+
+ • RNU for a unilateral cytological abnormality was past practice and is not recommended now. Upper-
+   tract cytology shares the specificity limits of bladder cytology; samples are small with low cell counts;
+   inflammation (infection, calculus) causes false positives; a later contralateral abnormality is not rare
+   after true-positive early CIS.
+ • AUA/SUO: pelvicalyceal therapy with a 6-week induction course of topical BCG is an option for upper-
+   tract CIS. Series are limited, retrograde or antegrade, with variable response; definitions of detection and
+   success are inconsistent. CIS appears to respond about as well as its bladder counterpart, with complete
+   response reported across a wide range (41–100%).
+ • A nephrostomy tube is the more reliable delivery route; alternatively, weekly cystoscopy with a ureteric
+   catheter placed in the upper calyx. Fig. 139.25: CIS in a solitary kidney treated by superficial laser
+   treatment of visible sites followed by BCG via nephrostomy.
+ • Most would not operate initially without a histological, radiographic or endoscopic finding, because
+   cytology alone gives false positives and future bilateral disease is likely. Segmental resection is usually
+   ineffective — field effect. RNU is indicated when radiography or endoscopy confirms more than surface
+   disease.
+ • Frequent re-evaluation: urinalysis, bladder and possibly selective cytology, cystoscopy, and retrograde
+   pyelography or ureteropyeloscopy.
+ • CIS at the ureteric margin during radical cystectomy: management is controversial. It confers a risk of
+   progression but recurrence may take long to appear; many never progress, and recurrences may arise at
+   the margin or elsewhere, with a high risk of progression to death from metastasis in some. Intraoperative
+   frozen sections are positive in a minority; conversion to a negative margin is achieved in most and is
+   associated with improved survival.
+Concept — Upper-tract CIS is defined by what cannot be seen: the diagnosis rests on cytology, which is
+fallible and field-wide, so treatment is topical and field-directed, and extirpation is reserved for proof of more
+than surface disease.
+
+Expectant Management
+ • Little evidence; UTUC was not considered suitable for surveillance because of progression risk (especially
+   high-risk disease), flank pain, chronic haematuria and obstruction.
+ • Untreated UTUC has markedly worse overall survival than treated disease, so surveillance suits only
+   patients with very short life expectancy.
+ • AUA/SUO: watchful waiting or surveillance is an option for selected patients with significant
+   comorbidity, competing mortality risks, or significant risk of end-stage renal disease with intervention —
+   after a well-informed shared discussion with patient and family.
+
+Adjuvant Topical Therapy
+Adjuvant intravesical chemotherapy after nephroureterectomy
+ • Bladder cancer develops in 30–50% after RNU and after endoscopic biopsy or treatment; most bladder
+   recurrences result from seeding and occur within 2 years.
+
+
+
+
+                                                           page 19 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                  Endourologic Management
+
+ • Mitomycin C (MMC) and, most recently, gemcitabine reduce recurrence after transurethral resection of
+   bladder tumour (TURBT). Two randomised trials show that a single postoperative dose of topical
+   chemotherapy reduces bladder recurrence after RNU:
+
+RANDOMISED TRIALS OF SINGLE-DOSE INTRAVESICAL CHEMOTHERAPY AFTER NEPHROURETERECTOMY
+
+                                                                  Bladder recurrence,
+ Trial                 Agent and timing                           control → treated            Design note
+ ODMIT-C (O'Brien, MMC 40 mg in 40 mL saline, single              28% → 16% at 1 year          Biopsy confirmation of
+ 2011)             dose at catheter removal                                                    recurrence not required
+ Pirarubicin trial     Pirarubicin, single dose within 5          42% → 17% at 2 years         Biopsy confirmation required
+ (Ito, 2013)           days
+
+ • Despite different designs and drugs, results were remarkably similar at 1 year; both had very low
+   adverse-effect rates and good tolerance.
+ • No UTUC evidence favours one agent, but gemcitabine has become preferred in non-muscle-invasive
+   bladder cancer (NMIBC), with meta-analytic superiority over MMC.
+ • AUA/SUO strongly recommend a single perioperative dose of topical chemotherapy in eligible patients
+   after RNU and after endoscopic tumour management.
+Technique
+
+ Postoperative instillation (3–7 days)                    Intraoperative instillation (authors' preference)
+ Catheter still in place → cystogram confirms no          Recurrence reduction comparable to postoperative instillation.
+ leak at the cuff site → single dose of MMC,              Rationale: (1) no return for cystogram or extra visit; (2) earlier
+ gemcitabine or other proven agent → catheter             catheter removal; (3) no cancellation because of cuff leak; (4)
+ clamped, dwell 1–2 hours                                 given, theoretically, when seeding occurs
+
+ • Intraoperative sequence: two- or three-way catheter (on or off the sterile field) → drain bladder → instil
+   chemotherapy before surgery starts → clamp outflow (and inflow if three-way) → anaesthetist minimises
+   intravenous fluid (bladder clamped 1–2 hours) → once the ureter is clipped below the tumour and after
+   1–2 hours' dwell, unclamp and drain → the bladder is empty by the time dissection reaches the distal
+   ureter and cuff; a three-way catheter allows irrigation to wash out residual drug and, after cystotomy
+   closure, confirmation of a watertight repair.
+
+After organ-sparing therapy
+ • Any procedure short of extirpation carries higher local recurrence (established ipsilateral risk); topical
+   chemotherapy in the bladder or upper tract is used to reduce it.
+ • Intravesical therapy after endoscopic management of UTUC is optional (AUA/SUO), extrapolated from
+   immediate instillation after TURBT for NMIBC.
+ • Topical therapy in the upper urinary tract: for primary ablation or as adjuvant therapy after endoscopic or
+   organ-sparing treatment. Contact time is limited by gravity-dependent drainage.
+
+UPPER-TRACT INSTILLATION ROUTES CONSIDERED RELIABLE BY THE AUA/SUO
+
+ Route                    Method
+ Antegrade                Through a nephrostomy tube (Fig. 139.26: gravity instillation with a pressure-limiting column of
+                          25 cm H2O)
+
+ Retrograde               Directly via a ureteric catheter
+
+
+
+
+                                                           page 20 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                           Endourologic Management
+
+
+ Route                    Method
+ Intravesical with        Indwelling ureteric stent to induce iatrogenic reflux
+ reflux
+
+ • Whatever the route: low pressure and no active infection, to minimise bacterial sepsis and systemic
+   absorption; high pressure is linked to both.
+ • Results: the agents used in the bladder are used in the upper tract; historical studies are small,
+   retrospective, uncontrolled series — thiotepa, MMC, gemcitabine, docetaxel, epirubicin, doxorubicin
+   (Adriamycin) and BCG (Table 139.4). Indications for pelvicalyceal therapy: solitary kidney, bilateral UTUC,
+   or risk of progression to end-stage renal disease.
+
+TABLE 139.4 ADJUVANT UPPER TRACT INSTILLATION — BY AGENT
+
+ Agent       Series        Benefit                                                  Serious complications
+ Thiotepa 2 (very          Not evaluated or none                                    Death from sepsis
+          small)
+ MMC         4             Safety only or none in most; one series lower            Deaths from systemic absorption
+                           recurrence than without MMC                              (one series)
+ BCG         4             No benefit shown in any                                  Deaths from sepsis (two series)
+
+Modified from Cutress ML, Stewart GD, Zakikhani P, et al.: Ureteroscopic and percutaneous management of UTUC: systematic
+review, BJU Int 110:614–628, 2012.
+ • The table tests one message: adjuvant upper-tract instillation after papillary ablation has no proven
+   benefit and carries rare fatal toxicity (sepsis, systemic absorption) — hence low pressure and exclusion of
+   infection.
+ • BCG for primary CIS via nephrostomy gives favourable responses (largest experience, with durable
+   recurrence-free survival in a majority at 5 years); adjuvant BCG after ablation of papillary tumours did
+   worse. With intrarenal BCG perfusion, cytology often normalises initially, but a substantial proportion
+   recur and those recurrences were lethal — initial response is not durable cure. Removing a renal unit for
+   CIS alone is not urged, but follow-up must be vigilant.
+ • Commonest complications of instillation: bacterial sepsis and stricture. Exclude active infection before
+   every treatment and use only low-pressure delivery. Stricture may relate to prior endoscopy, ureteric
+   catheterisation, the agent, or all three.
+ • BCG-specific: renal granulomatous involvement without systemic BCG infection (most common);
+   disproportionate loss of renal function in patients with vesicoureteric reflux.
+ • Adjuvant upper-tract BCG is an acceptable option after complete ablation of high-risk favourable Ta/T1
+   UTUC; meta-analysis showed recurrence in a substantial minority with high cancer-specific survival.
+ • UGN-101 (Jelmyto) — mitomycin-containing reverse thermal hydrogel, US Food and Drug
+   Administration (FDA) approved 2020 for chemoablation of low-grade UTUC. It is a viscous liquid that gels
+   at body temperature and dissolves in urine over several hours, delivering mitomycin at higher
+   concentration for longer than liquid agents.
+ • Phase III single-arm trial: complete response 59% at first evaluation; 56% disease-free at 12 months.
+   Instilled retrograde or antegrade (antegrade had less stricture in early retrospective series).
+ • Toxicities: ureteric stricture (about 44%), bone-marrow suppression, embryo-fetal toxicity.
+ • Complete endoscopic ablation remains the mainstay; UGN-101 is an alternative when tumours are
+   endoscopically unmanageable, after informed disclosure of toxicity.
+
+
+
+
+                                                           page 21 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                Endourologic Management
+
+
+ Upper-tract BCG                                                                UGN-101 (mitomycin gel)
+ High-grade, clinically non-invasive disease: CIS; high-risk favourable         Low-grade tumours not amenable to
+ Ta/T1 after complete ablation                                                  endoscopic treatment
+
+Concept — Topical therapy is a contest with gravity: the upper tract drains too fast for liquid agents, so
+delivery (nephrostomy, catheter, reflux, or a gel that outlasts the flow) decides efficacy, while pressure and
+infection decide toxicity.
+
+Perioperative Systemic Therapy
+ • Systemic strategies parallel those for bladder urothelial cancer. Prospective trials show benefit of
+   neoadjuvant and adjuvant therapy in high-risk disease, establishing both as standard of care in selected
+   patients.
+ • Rationale for neoadjuvant therapy: baseline chronic kidney disease is common in UTUC and worsens
+   after RNU, making many patients ineligible for full-dose cisplatin postoperatively.
+
+PROSPECTIVE PERIOPERATIVE CHEMOTHERAPY TRIALS IN UTUC
+
+                                                  Regimen by renal
+ Trial               Setting / design             function                      Result
+ EA8141              Neoadjuvant; phase II,       Creatinine clearance (CrCl)   Met end point: pathological complete
+                     non-randomised; high         >50: accelerated MVAC ×       response 14%; downstaging to <ypT2N0
+                     risk                         4; CrCl 30–49:                60%; no additional safety concern with CrCl
+                                                  gemcitabine–carboplatin ×     >50
+                                                  4
+ Gemcitabine +       Neoadjuvant; phase II;       Estimated GFR (eGFR) ≥50      Met end point (majority <ypT2N0; complete
+ split-dose          high-grade or invasive       mL/min/1.73 m²                response in about one-fifth); most received
+ cisplatin trial     clinical features                                          ≥3 cycles; all proceeded to surgery 4–6
+                                                                                weeks later; responders had better
+                                                                                progression-free and overall survival
+ POUT                Adjuvant; phase III          CrCl >50: gemcitabine–        Stopped early for efficacy. Disease-free
+                     randomised versus            cisplatin; CrCl 30–49:        survival HR 0.45; 3-year disease-free
+                     surveillance; after RNU,     gemcitabine–carboplatin       survival 71% vs 46%; metastasis or death
+                     pT2–T4 N0–3 M0                                             HR 0.48; grade ≥3 adverse events 44%; 58%
+                                                                                of cisplatin starters completed four cycles
+
+MVAC, methotrexate, vinblastine, doxorubicin, cisplatin; HR, hazard ratio.
+ • Meta-analysis of neoadjuvant therapy: significant pathological downstaging, pathological complete
+   response and 5-year disease-specific survival benefit; outcomes appear superior to historical RNU alone.
+ • AUA/SUO: neoadjuvant platinum-based chemotherapy is a standard-of-care option for defined high-risk
+   UTUC, especially when postoperative CrCl is expected to fall below 50.
+ • Earlier retrospective adjuvant studies showed no survival benefit, but lacked selection criteria, standard
+   regimens and account of renal function — biases exposed once prospective (POUT) data arrived.
+ • POUT subanalyses: lower efficacy in node-positive disease (see six cycles below) and with carboplatin →
+   cisplatin remains preferred, reinforcing neoadjuvant treatment for high-risk patients with borderline
+   renal function.
+Concept — Renal function is the hinge: RNU removes a kidney and with it cisplatin eligibility, so platinum is
+best given before the kidney goes; POUT proves adjuvant chemotherapy works, and its weakness with
+carboplatin is itself the argument for going neoadjuvant.
+
+
+
+
+                                                           page 22 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                      Endourologic Management
+
+Treatment of Lymph Node–Positive and Metastatic Disease
+Chemotherapy
+ • UTUC-specific data are limited; randomised comparisons are not feasible because the disease is rare, so
+   response data are extrapolated from urothelial cancer, mostly without stratification by site. In one
+   institutional series, recurrence-free survival did not improve over two decades.
+ • Postoperative renal decline in elderly patients compromises chemotherapy after RNU — another reason
+   for neoadjuvant treatment of high-risk tumours.
+ • Regional nodal metastases → chemotherapy first as primary therapy; withhold surgery until a good
+   (ideally complete) radiographic response; two further cycles after maximal response (usually six in total);
+   then consolidative surgery including lymphadenectomy — the bladder paradigm.
+
+CHEMOTHERAPY REGIMENS IN ADVANCED UROTHELIAL CANCER
+
+ Regimen                                          Position
+ MVAC                                             Highest response rate; toxicity prevents optimal dose and duration in
+                                                  many; complete response rare in metastatic disease; overall survival 12–
+                                                  24 months
+ Dose-dense MVAC                                  All drugs given together with growth-factor (cell) support; lower toxicity,
+                                                  possibly better response
+ Newer agents (paclitaxel, ifosfamide,            Initial response similar to MVAC with lower toxicity; complete response
+ carboplatin, gemcitabine, vinflunine) in         rare; no head-to-head data on durability or survival
+ combination
+ Carboplatin for cisplatin                        Used for renal limitation or toxicity; results inferior
+ Paclitaxel–cisplatin–gemcitabine (PCG) vs        Phase III: adding paclitaxel modestly improved median overall survival;
+ gemcitabine–cisplatin (GC)                       both well tolerated; benefit more pronounced in bladder primaries than
+                                                  upper-tract primaries
+ Gemcitabine–paclitaxel–doxorubicin (GTA)         Poor renal reserve; renal function may improve after a few cycles,
+                                                  allowing switch to cisplatin
+ Cabozantinib                                     MET and vascular endothelial growth factor (VEGF) pathway inhibitor;
+                                                  encouraging early results after chemotherapy failure (Fig. 139.27); phase
+                                                  II ongoing
+
+Immunotherapy
+ • Mechanism: programmed death-1 (PD-1) is an inhibitory receptor; its activation by programmed death-
+   ligand 1 (PD-L1) inhibits T-cell proliferation and cytokine production. Blocking this axis produced
+   remarkable activity in metastatic urothelial carcinoma, with a favourable side-effect profile and,
+   importantly, infrequent renal impairment.
+ • UTUC may benefit particularly: microsatellite instability (MSI) is higher in UTUC than in bladder cancer,
+   and high MSI is especially responsive to checkpoint inhibition.
+ • Before these agents, options after platinum progression were poor — a major unmet need.
+
+CHECKPOINT INHIBITORS IN ADVANCED UROTHELIAL CANCER
+
+ Drug               Target                Approval and evidence                                  Bottom line
+ Nivolumab          PD-1                  2017; phase II, after platinum                         Meaningful benefit,
+                                                                                                 acceptable safety; response
+                                                                                                 not significantly related to
+                                                                                                 PD-L1 expression
+
+
+
+
+                                                           page 23 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                Endourologic Management
+
+
+ Drug               Target                Approval and evidence                                Bottom line
+ Pembrolizumab PD-1                       2017; KEYNOTE-045 (phase III versus                  Responses durable after
+                                          chemotherapy, after platinum): median overall        stopping therapy; higher PD-
+                                          survival 10.3 vs 7.3 months, HR 0.70                 L1 staining not substantially
+                                                                                               better; also approved for any
+                                                                                               MSI-high solid tumour
+ Atezolizumab       PD-L1                 First PD-L1 inhibitor active in urothelial cancer;   Similar response, longer
+                                          2016 approval after platinum, followed by first-     duration, fewer high-grade
+                                          line approval for cisplatin-ineligible disease;      adverse events; US
+                                          IMvigor211 (phase III versus chemotherapy):          urothelial indications since
+                                          objective response 23% vs 22%, response              withdrawn
+                                          duration 15.9 vs 8.3 months (not significant)
+ Avelumab           PD-L1 +               Platinum-refractory disease; phase Ib; pooled        Unique dual action —
+                    antibody-             cohorts included UTUC patients                       directly lyses tumour cells
+                    dependent cell-
+                    mediated
+                    cytotoxicity
+ Durvalumab         PD-L1                 Phase I/II, mostly pretreated                        Early, durable responses
+                                                                                               independent of PD-L1; US
+                                                                                               urothelial indication since
+                                                                                               withdrawn
+
+ • Across the class, PD-L1 expression did not reliably predict benefit.
+
+Molecular Alterations and Future of Genomic-Driven Therapy
+ • UTUC and bladder cancer are phenotypically similar but genomically somewhat dissimilar.
+ • MSI is high in UTUC, relevant now that pembrolizumab is approved for any solid tumour with high MSI.
+
+ High-grade UTUC, relative to high-grade bladder cancer
+ More: FGFR3 (trend), HRAS, CDKN2B mutations. Fewer: TP53 and RB1 mutations. Shared: frequent chromatin-
+ modifier mutations
+
+ • Comprehensive UTUC genomics: FGFR3 the most frequently mutated gene, in both grades but more in
+   low grade; then KMT2D, PIK3CA and TP53. Hypermutated tumours with deficient mismatch-repair
+   proteins link to Lynch syndrome. APOBEC and CpG are the commonest mutational signatures. RNA
+   sequencing defines four putative subtypes, one with high CTLA-4, PD-1 and PD-L1 expression.
+ • Erdafitinib, a pan-fibroblast growth factor receptor (FGFR) inhibitor, is the first targeted agent for
+   metastatic urothelial cancer; phase II data in FGFR-altered tumours show meaningful response and high
+   disease control with intermittent or continuous dosing.
+ • Summary: UTUC is chemosensitive, but standard regimens are toxic and responses not sustained;
+   baseline chronic kidney disease, worsened by RNU, is unique to this population; checkpoint inhibitors are
+   improving outcomes in treatment-naive and platinum-refractory disease, and genomic-driven therapy is
+   expanding.
+Concept — UTUC is the FGFR3-rich, MSI-high, cisplatin-poor relative of bladder cancer, and each trait opens a
+different therapeutic door: FGFR inhibition, checkpoint blockade, and neoadjuvant timing of platinum.
+
+Radiotherapy
+ • Limited role outside palliation: proximity of bowel to the upper tract prevents the dose needed for
+   effective primary therapy.
+
+
+
+
+                                                           page 24 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                            Follow-Up
+
+
+FOLLOW-UP
+
+General Principles
+ • Multifocal recurrence and metastatic spread (more with dysplastic lesions) complicate follow-up.
+   Evaluate the bladder, the ipsilateral tract (if spared), the contralateral tract, and extra-urinary sites. The
+   schedule depends on time since surgery, approach (kidney-sparing versus radical) and risk.
+ • AUA/SUO schedules are stratified by approach and by risk (low versus high) or pathology (<pT2N0/x
+   versus ≥pT2).
+ • Every visit: history, examination, basic metabolic panel and office cystoscopy (high bladder recurrence
+   after both conservative treatment and RNU). After kidney-sparing: upper-tract endoscopy for ipsilateral
+   recurrence.
+ • Urine cytology helps detect upper-tract recurrence, especially of high-grade tumours.
+ • Contrast CT or MRI of abdomen and pelvis with excretory phase (risk of synchronous or metachronous
+   bilateral disease; metastatic staging). After RNU, renal impairment may preclude contrast → retrograde
+   pyelography if iodinated contrast or gadolinium cannot be given or the urographic phase is non-
+   diagnostic. Filling defects usually need ureteroscopy. Chest imaging for metastatic staging.
+ • Nephrology referral for diminished renal function after RNU or other intervention; encourage smoking
+   cessation, exercise and healthy diet.
+
+Surveillance After Kidney Sparing and After Radical Nephroureterectomy
+AUA/SUO SURVEILLANCE SCHEDULES
+
+                                                     Upper-tract
+ Group           Cystoscopy                          endoscopy              Imaging
+ Kidney-      Within 3 months; then at least         Within 3 months;       Upper tract at least every 6–9 months for 2
+ sparing, low every 6–9 months for 2 years;          repeat at 6 months     years, then annually to 5 years; then shared
+ risk         then at least annually                 and 1 year             decision
+ Kidney-         Within 3 months; then at least      Within 3 months;       Upper tract every 3–6 months for 3 years,
+ sparing,        every 3–6 months for 3 years;       repeat at least at 6   then annually to 5 years; then shared
+ high risk       then at least annually              months and 1 year      decision
+ RNU, <pT2       Cystoscopy and cytology             —                      CT/MRI abdomen and pelvis within 6
+ N0 M0           within 3 months; then                                      months; then at least annually for at least 5
+                 repeated according to grade                                years
+ RNU, ≥pT2       Cystoscopy and cytology at 3        —                      Abdomen and pelvis every 3–6 months for 2
+ Nx/N0           months; every 3–6 months for                               years, 6-monthly in year 3, then annually to
+                 3 years; then annually                                     5 years; chest CT every 6–12 months for 5
+                                                                            years
+
+Concept — Surveillance intensity mirrors what remains at risk: kidney-sparing keeps the ipsilateral tract
+under endoscopic watch, high risk compresses the intervals, and after RNU the target shifts from the upper
+tract to the bladder and distant sites.
+
+ KEY POINTS
+   • Assess suspected UTUC with history, imaging, endoscopy, biopsy and cytology to inform risk-stratified
+     surgical management.
+   • Lynch syndrome is present in 8–12% of newly diagnosed UTUC; evaluate all patients by family history
+     and tissue biomarkers (mismatch-repair immunohistochemistry) or germline testing as standard of
+     care.
+
+
+                                                           page 25 of 26
+Ch 139 — Surgical Management of Upper Urinary Tract Urothelial Tumours                                   Follow-Up
+
+   • Predictors of advanced stage to document: high-grade biopsy or cytology, multifocality, obstruction,
+     tissue invasion, sessile endoscopic appearance.
+   • Endoscopic management suits low-grade, low-risk tumours, with careful technique to minimise
+     adverse events.
+   • Topical treatment for highly selected patients: BCG in high-grade clinically non-invasive cancer;
+     mitomycin gel in low-grade tumours not amenable to endoscopy — after counselling on serious
+     adverse events.
+   • Conservatively managed patients must understand frequent recurrence, repeat procedures, long-
+     term follow-up, and the progression that would change strategy.
+   • RNU with bladder cuff is the most definitive treatment for non-metastatic UTUC — for high-grade,
+     high-risk cancers, or bulky or progressive unfavourable low-grade cancers of the proximal ureter and
+     renal pelvis.
+   • Distal ureterectomy with bladder cuff and reimplantation for lower-ureteric tumours, particularly
+     with high-grade or invasive features.
+   • Template lymph node dissection during extirpative surgery for high-grade UTUC.
+   • Oncologic principles in open or minimally invasive surgery: attempted R0 resection, watertight repair,
+     no uncontrolled urinary spillage.
+   • Single-dose adjuvant topical therapy after endoscopic and extirpative surgery.
+   • Neoadjuvant platinum-based chemotherapy for all eligible high-grade, high-risk patients with
+     borderline renal function before RNU.
+   • pT2–T4 and/or N1 after surgery → refer for adjuvant treatment: platinum chemotherapy, checkpoint
+     inhibitors, or biomarker-directed trials.
+
+
+
+
+                                                           page 26 of 26
+

@@ -1,0 +1,2261 @@
+Chapter 137 — Malignant Renal Tumours
+Campbell-Walsh-Wein Urology · Chapter Notes
+
+
+HISTORICAL CONSIDERATIONS
+ • First documented nephrectomy — Wolcott, 1861: performed in error, removing a tumour believed to be
+   a hepatoma.
+ • First planned nephrectomy — Simon, 1869: for a persistent ureteral fistula; the patient survived with cure
+   of the fistula. First planned nephrectomy in the United States — Gilmore, 1870 (Mobile, Alabama), for
+   atrophic chronic pyelonephritis.
+ • Harris, 1882: reported 100 renal extirpations, the first series large enough to analyse the clinical and
+   pathological features of surgical renal disease.
+ • Tubular origin recognised early: first accurate gross description of kidney tumours by Konig (1826); Robin
+   (1855) concluded that renal carcinoma arises from renal tubular epithelium, supported by Waldeyer
+   (1867).
+ • Grawitz (1883) — the adrenal-rest error: proposed that clear-cell renal tumours arise from adrenal rests
+   within the kidney (struma lipomatodes aberrata renis), reasoning from their fat content, subcapsular
+   location, proximity to the adrenal and dissimilarity to uriniferous tubules.
+ • "Hypernephroma": the term hypernephroid tumours (origin above the kidney) was introduced in 1894;
+   this semantic and conceptual mistake produced the long-lived term hypernephroma. Albarran and Imbert
+   (1903) and Wolff's four-volume work (1883–1928) later clarified the histopathology.
+ • Modern era: renal cell carcinoma (RCC) is recognised as a family of distinct subtypes arising from
+   different parts of the nephron, each with its own genetic basis and biology.
+ • Surgical evolution: classic radical nephrectomy (RN) introduced in the 1960s, followed by a trend
+   towards nephron-sparing surgery and minimally invasive approaches.
+ • RCC remains primarily a surgical disease: immune-based and targeted molecular therapies occasionally
+   give durable responses, but cure is rarely seen without complete surgical excision or effective ablation.
+ • Incidence is gradually rising, and despite earlier detection, mortality remains high.
+Concept — The history is a correction of an anatomical error: once RCC was understood as tubular, and later
+as several distinct nephron-derived diseases, management moved from the uniform radical operation
+towards tailored, nephron-sparing treatment.
+
+CLASSIFICATION
+ • Renal masses are classified two ways: by pathology (malignant, benign, inflammatory — Table 137.1) or
+   by radiographic appearance (simple cystic, complex cystic, solid — Table 137.2). Both schemes have been
+   updated to reflect the distinct RCC subtypes.
+ • Malignant renal tumours: RCC, urothelium-based malignancies, sarcomas, embryonic or paediatric
+   tumours, lymphomas and metastases. Benign tumours are diverse (Chapter 136). Inflammatory and
+   vascular entities must also enter the differential diagnosis.
+
+TABLE 137.1 RENAL MASSES CLASSIFIED BY PATHOLOGIC FEATURES
+Category                 Entities
+Malignant — renal cell Clear cell RCC; multilocular cystic renal neoplasm of low malignant potential; papillary RCC;
+tumours                chromophobe RCC; other low-risk oncocytic tumours; RCC not otherwise specified
+
+
+
+                                                     page 1 of 44
+Chapter 137 — Malignant Renal Tumours                                                                            CLASSIFICATION
+
+ Category                   Entities
+ Malignant —                TFE3- and TFEB-rearranged RCC; ELOC-mutated RCC; fumarate hydratase-deficient RCC;
+ molecularly defined        succinate dehydrogenase-deficient RCC; ALK-rearranged RCC; SMARCB1-deficient renal
+ RCC                        medullary carcinoma
+ Malignant — other          Collecting duct carcinoma; mucinous tubular and spindle cell carcinoma; tubulocystic RCC;
+ renal tumours              acquired cystic disease-associated RCC; eosinophilic solid and cystic RCC; clear cell papillary
+                            renal tumour
+ Malignant —                Urothelial carcinoma; squamous cell carcinoma; adenocarcinoma
+ urothelium-based
+ Malignant —                Leiomyosarcoma; liposarcoma; Ewing sarcoma; solitary fibrous tumour; others
+ sarcomas
+ Malignant —                Nephrogenic rests; nephroblastoma (Wilms tumour); cystic partially differentiated
+ nephroblastic*             nephroblastoma; paediatric cystic nephroma
+ Malignant —                Ossifying renal tumour of infancy; congenital mesoblastic nephroma; rhabdoid tumour; clear
+ paediatric                 cell sarcoma of the kidney
+ mesenchymal*
+ Malignant —                Carcinoid (low-grade); high-grade neuroendocrine carcinoma; neuroblastoma;
+ neuroendocrine             phaeochromocytoma
+ Malignant — other          Lymphoma, leukaemia, plasmacytoma; germ cell tumours (teratoma, choriocarcinoma);
+                            epithelioid angiomyolipoma; metastasis to the kidney; invasion by an adjacent neoplasm
+ Benign — cystic            Simple cyst; haemorrhagic cyst
+ Benign — solid             Angiomyolipoma; oncocytoma; papillary adenoma; metanephric tumours; mixed epithelial
+                            stromal tumour (adult-type cystic nephroma); reninoma (juxtaglomerular cell tumour);
+                            renomedullary interstitial tumour; leiomyoma; haemangioblastoma; schwannoma
+ Benign — vascular          Renal artery aneurysm; arteriovenous malformation; haemangioma; lymphangioma
+ Inflammatory /             Abscess; focal pyelonephritis; xanthogranulomatous pyelonephritis; infected cyst;
+ pseudotumour               tuberculosis
+\*More common in childhood or young adults. Modified from Trpkov et al., GUPS update on renal neoplasia, Mod Pathol 2021.
+
+ • What the table is for: it maps the 2022 World Health Organization (WHO) / Genitourinary Pathology
+   Society framework, whose main novelty is a separate molecularly defined RCC group.
+ • Trap: epithelioid angiomyolipoma sits among the malignant entities, whereas classic angiomyolipoma is
+   benign; papillary adenoma and oncocytoma are benign.
+
+Imaging and Clinical Risk Stratification of Renal Masses
+ • Clinical evaluation estimates the risk of malignancy and metastatic potential in a given patient: patient
+   characteristics, mode of presentation, imaging, laboratory tests and renal mass biopsy (RMB).
+ • Composite models and nomograms predict malignancy poorly — concordance indices only 0.55–0.65.
+ • Strongest predictors of malignancy: male sex and increasing tumour size. Males carry a nearly threefold
+   risk of malignancy compared with females (meta-analysis of resected tumours). Benign histology is
+   commoner in females, but RCC still predominates in both sexes.
+ • Size and benignity: 20–30% of masses ≤4 cm and about 40% of masses ≤2 cm are benign. The odds of
+   malignancy rise with each centimetre of diameter.
+ • Size and aggressiveness: tumours ≤1 cm are frequently benign and rarely high-grade or high-stage,
+   whereas at ≥7 cm few are benign and about half are high-grade.
+ • Many cT1a (≤4 cm) cancers are indolent: <2% present with or develop metastasis in surgical series, and
+   ≤2% progress to metastasis on active surveillance (AS) in the short to intermediate term.
+
+
+                                                          page 2 of 44
+Chapter 137 — Malignant Renal Tumours                                                                           CLASSIFICATION
+
+ • Complex cystic masses and cystic RCC have an excellent prognosis and a diminutive metastatic risk,
+   whatever the management strategy chosen.
+ • Because size drives risk and most masses are found incidentally, risk stratification begins with imaging.
+
+Radiographic Evaluation of Renal Masses
+ • Imaging is the strongest predictor of malignancy and metastatic potential. Guidelines recommend
+   multiphase cross-sectional imaging for every suspected renal mass, because of the wide differential
+   diagnosis and the overlap between benign and malignant lesions.
+ • Intravenous pyelography and renal arteriography are no longer recommended. Multiphasic cross-
+   sectional imaging characterises the mass, detects locally advanced features and intra-abdominal
+   metastases, and excludes angiomyolipoma (AML) by showing intralesional fat.
+
+COMPARISON — IMAGING MODALITIES FOR THE RENAL MASS
+ Modality                               Role                             Key threshold or feature       Limitation
+ Dedicated renal computed               Single most important test Enhancement >15–20                   Contrast risk in
+ tomography (CT), without and                                      Hounsfield units (HU) → RCC          chronic kidney
+ with contrast                                                     (does not exclude benign); fat       disease (CKD)
+                                                                   below −20 HU → diagnostic
+                                                                   of AML
+ Magnetic resonance imaging             Alternative standard;       Enhancement >20% suggests           Nephrogenic
+ (MRI) with gadolinium                  tissue planes and extent of RCC; helpful in masses <2 cm        systemic fibrosis
+                                        venous involvement                                              (NSF) with older
+                                                                                                        agents
+ Ultrasound                             Cystic versus solid;             Strict simple-cyst criteria    Anything not a
+                                        inexpensive                      (below)                        simple cyst needs
+                                                                                                        cross-sectional
+                                                                                                        imaging
+ Contrast-enhanced ultrasound           Enhancement assessment           —                              Reasonable
+ (CEUS), microbubbles                   when CT/MRI                                                     alternative, not first
+                                        contraindicated                                                 choice
+ Fluorodeoxyglucose positron    Limited role in RCC                      —                              High background
+ emission tomography (FDG-PET)/                                                                         renal uptake; low
+ CT                                                                                                     sensitivity
+ Technetium-99m-sestamibi               Distinguishes oncocytoma         Strong uptake (mitochondria-   Still under
+ single-photon emission CT              and hybrid oncocytic/            rich) → oncocytic tumour       evaluation
+ (SPECT)/CT                             chromophobe tumours
+                                        from clear cell RCC
+ Iodine-124-girentuximab PET            Targets carbonic                 REDECT trial defined baseline In development
+                                        anhydrase IX (clear cell         performance; ZIRCON trial will
+                                        RCC)                             define utility
+ Prostate-specific membrane             Evolving                         —                              Not yet in routine
+ antigen (PSMA) imaging;                                                                                practice
+ multiparametric MRI; radiomics
+ and artificial intelligence
+
+ • Contrast and renal function: patients with estimated glomerular filtration rate (eGFR) <45 mL/min/1.73
+   m² receiving intravenous CT contrast should be considered for periprocedural hydration; in severe CKD,
+   iodinated contrast is avoided where possible.
+
+
+
+
+                                                          page 3 of 44
+Chapter 137 — Malignant Renal Tumours                                                                    CLASSIFICATION
+
+ • NSF was commonest on dialysis, in CKD stages 4–5, in acute kidney injury and after multiple doses of
+   earlier-generation gadolinium agents. Newer macrocyclic gadolinium agents carry a very low NSF risk,
+   allowing contrast MRI even on dialysis or in severe CKD.
+ • Strict ultrasound criteria for a simple cyst: smooth wall; round or oval shape without internal echoes;
+   through-transmission with strong posterior acoustic enhancement. Anything that fails these criteria
+   proceeds to multiphasic cross-sectional imaging.
+ • Sestamibi mechanism: uptake by mitochondria, abundant in oncocytomas; combined with selective RMB,
+   it offers a cost-effective way to avoid surgery for benign tumours.
+ • Every imaging report should state: diameter in three planes; morphology and relation to hilum, renal vein
+   and collecting system; enhancement; lymphadenopathy; abdominal metastases.
+ • Solid architecture predicts malignancy more than cystic, although many complex cystic masses are RCC.
+ • Tumour complexity scores — R.E.N.A.L. nephrometry score (Radius, Endophytic/exophytic, Nearness to
+   collecting system, Anterior/posterior, Location relative to polar lines), PADUA score and C-index — guide
+   partial versus radical nephrectomy, open versus minimally invasive approach, and complication risk;
+   higher complexity may also correlate with malignancy and aggressive histology.
+ • Infiltrative growth broadens the differential: urothelial carcinoma, lymphoma, infection, high-grade or
+   sarcomatoid RCC.
+ • Papillary RCC (PRCC) is often hypoenhancing relative to other subtypes, but enhancement pattern alone
+   cannot define biology — clear cell RCC, oncocytoma and PRCC overlap considerably.
+
+Figure 137.1 — Algorithm for Radiographic Evaluation of a Renal Mass
+ • Simple cyst (water density) → observe unless symptomatic.
+ • Complex cyst or solid mass, no significant contrast allergy:
+ • eGFR >45 → dedicated renal CT with and without contrast, or MRI with and without gadolinium.
+ • eGFR 30–45 → periprocedural hydration, then the same studies.
+ • eGFR <30 → non-contrast CT or MRI with gadolinium (preferred over ultrasound or CEUS, which remain
+   reasonable alternatives). Macrocyclic gadolinium is safe in CKD and on dialysis.
+ • Significant contrast allergy → ultrasound or CEUS, or MRI with or without gadolinium.
+ • Interpretation: simple cyst → observe; complex cyst → define malignant risk; fat (−20 HU or less) → likely
+   AML; solid enhancing mass → consider management options and the role of RMB.
+
+TABLE 137.2 RADIOLOGIC AND PATHOLOGICAL CORRELATES FOR RENAL MASSES
+ Imaging pattern      Principal entities
+ Simple cystic        Benign cyst; parapelvic cyst; hydronephrosis; calyceal diverticulum
+ Complex cystic       Cystic RCC; haemorrhagic or hyperdense cyst; benign complex cyst; cystic nephroma; mixed
+                      epithelial–stromal tumour; cystic Wilms tumour; infected cyst or abscess; hydrocalyx;
+                      arteriovenous malformation; renal artery aneurysm
+ Strongly             Clear cell RCC; AML; oncocytoma; papillary or chromophobe RCC occasionally
+ enhancing
+ Moderately           Papillary RCC; chromophobe RCC; oncocytoma; fat-poor AML; adenoma or metanephric
+ enhancing solid      adenoma; unifocal lymphoma; sarcoma; lobar nephronia; pseudotumour; infarct; metastasis
+ Infiltrative         Lymphoma; high-grade urothelial carcinoma; sarcomatoid differentiation; collecting duct
+                      carcinoma; renal medullary carcinoma; xanthogranulomatous pyelonephritis; metastasis
+                      occasionally
+ Calcified            RCC; urothelial carcinoma; benign complex cyst; xanthogranulomatous pyelonephritis; renal
+                      artery aneurysm; nephrolithiasis
+
+
+                                                       page 4 of 44
+Chapter 137 — Malignant Renal Tumours                                                                                      CLASSIFICATION
+
+ Imaging pattern        Principal entities
+ Fat-containing         AML; liposarcoma; lipoma
+ Multifocal /           Familial RCC; metastases; sporadic multifocal RCC (especially papillary or clear cell); AMLs
+ bilateral              (tuberous sclerosis); lymphoma; cystic tumours (autosomal dominant polycystic kidney disease)
+Modified from Simmons, Herts and Campbell, AUA Update Series, 2007.
+
+ • What the table tests: the enhancement gradient — clear cell and oncocytoma enhance strongly, papillary
+   and chromophobe moderately — and the infiltrative group, which points away from conventional RCC
+   and towards lymphoma, urothelial carcinoma or aggressive variants.
+ • Trap: oncocytoma appears in both enhancing rows — enhancement cannot separate it from clear cell
+   RCC.
+
+Evaluation of Cystic Renal Lesions
+ • Distinguishing benign cysts from cystic RCC is one of the commonest and hardest problems in renal
+   imaging. Simple cysts carry a near-zero malignant risk; risk rises with complexity — wall thickness and
+   contour; number, contour and thickness of septa; amount, character and location of calcification; fluid
+   density; margination; and solid components.
+ • The Bosniak classification (CT-based) sorts cystic lesions into categories distinct in malignant likelihood. A
+   2019 update proposal added detailed definitions and incorporated MRI, aiming to reduce inter-reader
+   variability; its impact is not yet proven, and the fundamental concepts are unchanged since the 2005
+   revision.
+
+TABLE 137.3 CLASSIFICATION OF COMPLEX RENAL CYSTS (BOSNIAK)
+                                                                                               Risk of
+ Bosniak           Radiographic features                                                       malignancy        Management
+ I                 Water density; homogeneous, hairline-thin wall; no septa,                   None              Surveillance not
+                   calcification or enhancement                                                                  necessary
+ II                Few hairline septa (perceived enhancement may be present);                  Minimal           Surveillance not
+                   fine or short-segment slightly thickened calcification; no                                    necessary
+                   unequivocal enhancement
+ II —              ≤3 cm, well marginated, no unequivocal enhancement                          Minimal           Periodic surveillance
+ hyperdense                                                                                                      (table); see note
+ IIF               Multiple hairline septa; minimal smooth wall thickening;                    3–5%              Periodic surveillance
+                   perceived enhancement may be present; thick or nodular
+                   calcification without enhancement; generally well marginated
+ IIF —             >3 cm or totally intrarenal, no enhancement                                 5–10%             Periodic surveillance
+ hyperdense
+ III               Indeterminate; thickened irregular or smooth walls or septa                 About 50%         Surgical excision*
+                   with measurable enhancement
+ IV                Criteria of III plus enhancing soft-tissue components                       75–90%            Surgical excision*
+\*Excision if in good health; AS is an option for selected patients; thermal ablation is probably best avoided for cystic lesions because
+of concern about tumour spillage. Modified from Israel and Bosniak, 2005.
+
+ • Body text versus table: the text gives Bosniak IIF malignancy as 3–10% overall, with a 15% risk of
+   radiographic progression to a more complex category; the table splits IIF into 3–5% (septated) and 5–10%
+   (hyperdense >3 cm or intrarenal). The text states that Bosniak II lesions need no surveillance, whereas the
+   table assigns periodic surveillance to the hyperdense ≤3 cm Bosniak II subgroup — the difference is the
+   subgroup, not the category.
+
+
+
+                                                               page 5 of 44
+Chapter 137 — Malignant Renal Tumours                                                                   INCIDENCE
+
+ • Bosniak I — by far the commonest cystic lesion; no treatment or surveillance if asymptomatic.
+ • Bosniak II — minimally complex: non-enhancing septated cysts, cysts with mural or septal calcium,
+   infected cysts and hyperdense cysts (classically <3 cm, pre-contrast attenuation >20 HU from old or
+   clotted blood).
+ • The key discriminator is unequivocal contrast enhancement — absent in II and IIF.
+ • Bosniak III — cannot be confidently distinguished from malignancy: thickened irregular walls or septa, or
+   any measurable enhancement. Bosniak IV — large cystic components, shaggy margins and, above all,
+   enhancing solid portions, which make the diagnosis of malignancy.
+ • Surgical exploration is often indicated for healthy patients with Bosniak III or IV unless trauma or
+   infection explains the findings.
+ • RMB or aspiration is rarely used for cystic lesions: sampling error, poor diagnostic yield and risk of
+   tumour spillage.
+ • Paradigm shift: surgery for Bosniak III and IV is no longer mandatory. Complex cystic masses are indolent,
+   grow slowly, rarely progress through the Bosniak categories, and do well whatever the treatment; cystic
+   renal cancers fare better than size-matched solid masses, so AS and alternatives to surgery suit many
+   patients.
+ • Trap: cystic masses must be distinguished from necrotic solid cancers that mimic cysts, such as high-
+   grade papillary subtypes.
+Concept — Risk stratification of a renal mass rests on two imaging variables, size and enhancement;
+everything else — the Bosniak categories, the fat rule for AML, the complexity scores — refines those two,
+and the recognition that small and cystic masses are mostly indolent is what now licenses surveillance.
+
+INCIDENCE
+ • RCC accounts for 2–3% of adult malignancies and is the most lethal of the common urological cancers.
+ • About 76,000 new cases and 16,000 deaths yearly in the United States; about 430,000 cases and
+   130,000 deaths worldwide.
+ • About 16 new cases per 100,000 per year; male-to-female ratio 2:1.
+ • Disease of older adults: typical presentation 55–75 years; median age at diagnosis worldwide about 75
+   years. Diagnosis is rising fastest in those under 40.
+ • Ethnic and geographic variation: incidence and death rates about 50% lower in Asian-American/Pacific
+   Islander and 5–10% higher in African American populations (cause unknown). Worldwide mortality is
+   highest in Europe and lowest in South Central Asia, Melanesia and Middle Africa.
+ • Sporadic in the great majority; only 4–6% familial.
+ • Incidence has risen about 3% per year since the 1970s, largely from incidental detection on ultrasound
+   and CT, with more localised tumours and better 5-year survival. Stage migration has plateaued, with
+   about 70% organ-confined at diagnosis.
+ • Mortality peaked in 2002 (3.8 per 100,000) and fell to about 3.1 per 100,000 by 2018, credited to
+   targeted and immunomodulatory systemic therapy and to overdiagnosis of small cT1a masses.
+ • Paediatric renal tumours are about 7% of childhood cancers; about 90% are Wilms tumours, and RCC is
+   only 1–6%. RCC equals Wilms tumour in frequency in the second decade. Mean age of paediatric RCC is
+   8–9 years, with no sex difference.
+ • RCC in children and young adults is more often symptomatic, locally advanced, high grade and of
+   unfavourable subtype. The commonest subtype carries TFE3 translocations (Xp11), producing TFE3
+
+
+
+                                                  page 6 of 44
+Chapter 137 — Malignant Renal Tumours                                                                             AETIOLOGY
+
+   overexpression and mixed clear and papillary features; up to 15% follow chemotherapy for another
+   malignancy.
+ • Stage for stage, the young respond well to surgery, with long-term survivors even after RN and
+   lymphadenectomy for node-positive disease, so formal lymphadenectomy at RN is recommended when
+   RCC is suspected in a child or young adult.
+Concept — The epidemiology is dominated by incidental detection: incidence has risen far faster than
+mortality because imaging finds small, often indolent tumours — the same fact that underlies the modern
+emphasis on avoiding overtreatment.
+
+AETIOLOGY
+ • Cell of origin: clear cell and papillary RCC arise from the proximal convoluted tubule; chromophobe RCC
+   (ChRCC) and collecting duct carcinoma arise from the distal nephron.
+
+COMPARISON — AETIOLOGICAL RISK FACTORS FOR RCC
+ Factor                                 Strength                                Key facts
+ Tobacco                                Most generally accepted                 All forms implicated; dose-dependent; risk
+                                        environmental risk factor; modest       falls after cessation (supports causation);
+                                        relative risk (about 1.4 current, 1.2   accounts for 20–30% of RCC in males, 10–
+                                        former smokers)                         20% in females
+ Obesity                                Major; relative risk 1.07 per unit of   >40% of United States RCC may be linked
+                                        body mass index (BMI)                   to obesity; "obesity paradox" — higher
+                                                                                BMI but lower stage at presentation
+ Hypertension                           Third major factor                      The disease, not its treatment, appears
+                                                                                responsible (diuretics once implicated,
+                                                                                especially for PRCC)
+ CKD, end-stage renal disease           Increased diagnosis and mortality       Causal link not established
+ (ESRD), transplantation
+ Trichloroethylene,                     Twofold to sixfold in some studies      Possibly bias
+ perchloroethylene
+ Occupational (metal, chemical,         Slight, not convincing                  —
+ rubber, printing; asbestos,
+ cadmium)
+ Low socioeconomic status,              Modest, conflicting                     —
+ urban background; Western
+ diet, dairy, coffee or tea
+ Moderate alcohol (≥15 g or one         May be protective                       —
+ drink per day)
+ Family history (outside known          Twofold to fourfold                     —
+ syndromes)
+
+ • Obesity mechanisms: increased insulin-like growth factor-1; raised circulating oestrogens and other sex-
+   hormone products; arteriolar nephrosclerosis; local inflammation; oxidative stress; gut microflora
+   producing toxic metabolites.
+ • Hypertension mechanisms: hypertensive renal injury; alterations in the hypoxia-inducible factor (HIF)
+   pathway; lipid peroxidation; inflammatory, metabolic or functional tubular changes that increase
+   susceptibility to carcinogens.
+ • No specific chemical agent is established as causative in humans, despite viruses, lead compounds and
+   more than 100 chemicals (including aromatic hydrocarbons) in animal models.
+
+
+                                                           page 7 of 44
+Chapter 137 — Malignant Renal Tumours                                                                          AETIOLOGY
+
+ KEY POINTS: INCIDENCE AND AETIOLOGY OF RENAL CELL CARCINOMA
+   • RCC accounts for 2–3% of adult malignancies, male-to-female 2:1.
+   • RCC typically presents between 55 and 75 years.
+   • Incidence is rising, largely from incidental detection.
+   • Strongest risk factor: tobacco, relative risk 1.4- to 2.5-fold versus controls.
+   • Hypertension and obesity are also associated with RCC.
+   • About 4–6% of RCC is familial.
+
+
+Familial Renal Cell Carcinoma and Molecular Genetics
+ • Since the early 1990s, several familial RCC syndromes have been identified, and the tumour suppressor
+   genes and oncogenes driving both sporadic and familial RCC characterised. This drove revision of the
+   histological classification and the development of targeted agents and checkpoint inhibitors.
+ • Knudson two-hit hypothesis (from retinoblastoma): both alleles of a tumour suppressor gene must be
+   inactivated. Familial patients are born with one mutant allele in every cell, so tumours are early-onset
+   and multifocal; sporadic tumours need two somatic hits in one cell, so they are late-onset and unifocal.
+   The hypothesis holds for RCC, and familial kindreds enabled linkage analysis.
+
+TABLE 137.4 FAMILIAL RENAL CELL CARCINOMA SUBTYPES (REBUILT)
+                     Gene                                                                Renal            Therapeutic
+ Syndrome            (chromosome)       Renal tumour        Other major manifestations   management       target
+ Von Hippel-         VHL (3p25)         Clear cell RCC,  Retinal angiomas; CNS           AS <3 cm;        HIF–VEGF
+ Lindau (VHL)                           often multifocal haemangioblastomas;             excise ≥3 cm,    pathway
+                                                         phaeochromocytoma               nephron-
+                                                                                         sparing
+ Hereditary          MET (7q31) —       Multiple            None usually                 AS <3 cm;        MET kinase
+ papillary renal     oncogene           bilateral type 1                                 excise ≥3 cm,
+ carcinoma                              PRCC                                             nephron-
+ (HPRC)                                                                                  sparing
+ Hereditary          FH (1q42–43)       Aggressive,         Cutaneous and uterine        Prompt           HIF–VEGF;
+ leiomyomatosis                         often               leiomyomas; uterine          excision; PN     antioxidant
+ and RCC                                eosinophilic        leiomyosarcoma               only if wide     response;
+ (HLRCC)                                papillary RCC;                                   margins          reductive
+                                        collecting duct                                  achievable       carboxylation
+                                        carcinoma; low-
+                                        grade variants
+                                        in children
+ Succinate           SDHA, SDHB         Chromophobe,        Paragangliomas; papillary    Excision, PN     HIF–VEGF;
+ dehydrogenase-      (1p36.13),         clear cell,         thyroid carcinoma            preferred;       reductive
+ deficient RCC       SDHC (1q23.3),     papillary or                                     wide margins     carboxylation
+ (SDH-RCC)           SDHD               oncocytoma-                                      if aggressive-
+                     (11q23.1),         like; variable                                   looking
+                     *SDHAF2*           aggressiveness
+
+
+
+
+                                                           page 8 of 44
+Chapter 137 — Malignant Renal Tumours                                                                               AETIOLOGY
+
+                     Gene                                                                    Renal             Therapeutic
+ Syndrome            (chromosome)       Renal tumour        Other major manifestations       management        target
+ Birt-Hogg-Dubé      Folliculin FLCN    Multiple            Facial fibrofolliculomas; lung   AS <3 cm;         mTOR
+ (BHD)               (17p11.2)          chromophobe,        cysts; spontaneous               excise ≥3 cm,     pathway
+                                        hybrid              pneumothorax                     nephron-
+                                        oncocytic                                            sparing
+                                        tumours,
+                                        oncocytomas;
+                                        occasionally
+                                        clear cell or
+                                        papillary
+ PTEN                PTEN (10q23)       Papillary RCC or    Breast tumours; epithelial       AS <3 cm;         mTOR
+ hamartoma                              other               thyroid carcinoma                excise ≥3 cm,     pathway
+ tumour                                                                                      nephron-
+ syndrome                                                                                    sparing
+ (Cowden)
+ Tuberous            TSC1 (9q34) /      Multiple AMLs;      Cardiac rhabdomyomas;            AML:              mTOR
+ sclerosis           TSC2 (16p13.3)     clear cell RCC      cutaneous angiofibromas;         surveillance      pathway
+ complex (TSC)                          (2–3%); cysts /     pulmonary                        <3 cm;
+                                        polycystic          lymphangioleiomyomatosis;        everolimus 3–
+                                        disease             autism and cognitive             5 cm;
+                                                            disability                       embolisation
+                                                                                             or excision ≥5
+                                                                                             cm. RCC:
+                                                                                             excise if ≥3 cm
+ BAP1 tumour         BAP1 (3p21.2)      Clear cell RCC,     Uveal melanoma, cutaneous        Excision,         To be
+ predisposition                         can be high         melanoma, mesothelioma           nephron-          determined
+                                        grade                                                sparing
+ MiTF-associated MiTF (3p14.1–          Not defined         Melanoma                         To be             To be
+ cancer          p12.3)                                                                      determined        determined
+ syndrome
+mTOR, mammalian target of rapamycin; VEGF, vascular endothelial growth factor. Modified from Schmidt and Linehan, Semin Oncol
+2016.
+
+ • The pattern: 3 cm is the intervention threshold for the indolent syndromes (VHL, HPRC, BHD, Cowden);
+   HLRCC is the exception — excise promptly at any size, with wide margins.
+ • All familial RCC syndromes are autosomal dominant. Most are tumour suppressor losses; HPRC (MET) is
+   the one proto-oncogene activation.
+
+Von Hippel-Lindau Disease, VHL Gene and Genetics of Clear Cell RCC
+ • VHL disease is the familial form of clear cell RCC (CCRCC): autosomal dominant, about 1 in 36,000.
+ • Major manifestations: RCC, phaeochromocytoma, retinal angiomas, and haemangioblastomas of the
+   brainstem, cerebellum or spinal cord — all highly vascular. CNS lesions can cause paralysis or death;
+   retinal lesions, blindness. Others: renal and pancreatic cysts, inner-ear (endolymphatic sac) tumours,
+   pancreatic neuroendocrine tumours, epididymal papillary cystadenomas.
+ • Penetrance high (70–87%) but incomplete for individual traits; phaeochromocytoma clusters in particular
+   families.
+ • RCC develops in about 50%, with early onset (third to fifth decades), bilateral and multifocal. With
+   better CNS management, RCC is now the commonest cause of death in VHL.
+
+
+
+
+                                                           page 9 of 44
+Chapter 137 — Malignant Renal Tumours                                                                                       AETIOLOGY
+
+ • Gene discovery: cytogenetics showed loss of chromosome 3 (especially in clear cell RCC); linkage in VHL
+   kindreds identified VHL (1993) — three exons, 213-amino-acid protein, a tumour suppressor for both
+   sporadic and familial CCRCC.
+ • Genotype–phenotype: missense (type 2) mutations → full-length but non-functional protein →
+   phaeochromocytoma families; deletions or truncations (type 1) → no phaeochromocytoma.
+
+TABLE 137.5 MANIFESTATIONS OF VON HIPPEL-LINDAU DISEASE
+ Tumour                                                          Mean age of onset (range), years                 Incidence (%)
+ Retinal angioma                                                 25 (1–68)                                        25–60
+ Endolymphatic sac tumour                                        22 (12–50)                                       10–15
+ Craniospinal haemangioblastoma (overall)                        30 (9–70)                                        60–80
+ — Cerebellum                                                    33 (9–78)                                        44–72
+ — Brainstem                                                     32 (12–46)                                       10–25
+ — Spinal cord                                                   33 (11–66)                                       13–50
+ Renal cell carcinoma                                            39 (13–70)                                       25–75
+ Renal cysts                                                     39 (13–70)                                       20–60
+ Phaeochromocytoma                                               27 (5–58)                                        10–25
+ Pancreatic neuroendocrine tumours                               36 (5–70)                                        11–17
+ Pancreatic cysts                                                36 (5–70)                                        45–75
+ Epididymal cystadenoma                                          Unknown                                          25–60
+ Broad ligament cystadenoma                                      Unknown (16–46)                                  Unknown
+Modified from Nielsen et al., J Clin Oncol 2016.
+
+ • What the table shows: craniospinal haemangioblastoma is the commonest lesion; retinal angioma and
+   phaeochromocytoma appear earliest (20s), RCC latest (about 39 years) — which is why screening starts
+   in childhood but renal imaging only in adolescence.
+
+TABLE 137.6 MAJOR TUMOUR TYPES OF VHL DISEASE BY SUBTYPE AND MUTATION
+ VHL
+ subtype       Mutation type                         High risk                                        Low risk
+ Type 1        Deletions, insertions,                RCC, CNS/retinal haemangioblastoma               Phaeochromocytoma
+               truncations, missense
+ Type 1B       Contiguous gene deletions             CNS/retinal haemangioblastoma                    Phaeochromocytoma, RCC
+               encompassing VHL
+ Type 2A       Missense (e.g., p.Y98H)               Phaeochromocytoma, CNS/retinal                   RCC
+                                                     haemangioblastoma
+ Type 2B       Missense (e.g., p.R167Q)              RCC, phaeochromocytoma and                       —
+                                                     haemangioblastoma — all
+ Type 2C       Missense (e.g., p.V84L)               Phaeochromocytoma only                           RCC absent;
+                                                                                                      haemangioblastoma
+A missense mutation is a single-nucleotide change altering one amino acid (Y98H: tyrosine at position 98 replaced by histidine).
+Modified from Nielsen et al., 2016.
+
+ • The rule: type 1 = no phaeochromocytoma; type 2 = phaeochromocytoma. Within type 2, 2A low RCC,
+   2B high RCC, 2C phaeochromocytoma alone.
+ • VHL protein function: binds elongins B and C (with cullin-2 and RBX1) to form an E3 ubiquitin ligase that
+   targets HIF-1α and HIF-2α for ubiquitin-mediated degradation, keeping HIF low in normoxia.
+
+
+                                                            page 10 of 44
+Chapter 137 — Malignant Renal Tumours                                                                           AETIOLOGY
+
+ • Loss of VHL → accumulation of HIF, chiefly HIF-2α → several-fold upregulation of VEGF (the primary
+   angiogenic factor in RCC), explaining the neovascularity of CCRCC. HIF-2α also upregulates transforming
+   growth factor-α (TGF-α), platelet-derived growth factor (PDGF), glucose transporter 1, erythropoietin
+   and carbonic anhydrase IX.
+ • Belzutifan (HIF-2α inhibitor) is approved by the United States Food and Drug Administration (FDA) for
+   VHL syndrome, inhibiting tumour growth in the great majority.
+ • Chromosome 3p is altered in >90% of CCRCC. Besides VHL, the other three commonly mutated 3p genes
+   — PBRM1, BAP1, SETD2 — are chromatin-remodelling / histone-methylation genes.
+ • BAP1 mutations occur in up to 14% of sporadic CCRCC and carry poor prognosis; germline BAP1 should
+   be considered in early-onset multifocal CCRCC that is VHL wild-type*. BAP1-mutant tumours grow
+   rapidly — treat aggressively; not suitable for AS.*
+
+Figure 137.7 — The VHL Pathway and Its Drug Targets
+ Target                 Mechanism                    Agents
+ VEGF ligand            Sequestration                Bevacizumab
+ VEGF and PDGF          Tyrosine kinase inhibition   Sunitinib, sorafenib, pazopanib, axitinib, cabozantinib,
+ receptors              (TKI)                        lenvatinib (tivozanib also named in text)
+ mTOR                   Reduces translation of new   Temsirolimus, everolimus
+                        HIF protein
+ HIF-2α                 Blocks HIF-2α–ARNT           Belzutifan (PT2977); earlier PT2385, PT2399
+                        dimerisation
+
+ • Normoxia versus hypoxia or VHL loss: in normoxia, VHL marks HIF for destruction; in hypoxia or with VHL
+   loss, HIF is stabilised, dimerises with ARNT, and drives VEGF (angiogenesis), PDGF and TGF-α (glucose
+   transport, autocrine and paracrine growth).
+
+Hereditary Papillary Renal Carcinoma
+ • Non-clear-cell RCC rarely shows chromosome 3 or VHL abnormalities, implying a separate genetic basis.
+   PRCC — the second commonest subtype — shows trisomy 7 and 17, plus changes in chromosomes 1, 12,
+   16, 20 and Y.
+ • HPRC (described 1995): median age about 45, multifocal bilateral PRCC; reported in only about 35
+   families worldwide (incidence <1 in 1,500,000). No tumours in other organs, unlike VHL.
+ • Type 1 versus type 2 PRCC was formerly used (type 1: sporadic/HPRC; type 2: HLRCC) but has been
+   abandoned because type 2 was heterogeneous.
+ • HPRC tumours are type 1-like, less aggressive → favourable course; avoid overtreatment. CKD from
+   parenchymal replacement and repeated interventions contributes to morbidity.
+ • Mechanism: activating missense mutations of the c-MET proto-oncogene (7q31) — the receptor
+   tyrosine kinase for hepatocyte growth factor — mostly in the tyrosine kinase domain, causing
+   constitutive activation. Inheritance of the mutation puts every renal cell at risk from birth (early onset,
+   multifocality); incomplete penetrance implies modifying loci.
+ • c-MET mutations are also found in a subset of sporadic PRCC; MET inhibitors are in early trials.
+
+Hereditary Leiomyomatosis and Renal Cell Carcinoma
+ • Cutaneous and uterine leiomyomas with aggressive PRCC-like tumours; mean age at diagnosis early 40s.
+   Renal tumours are often solitary and unilateral (unusual for familial RCC) and more aggressive than other
+   familial RCC; collecting duct carcinoma also occurs.
+
+
+
+
+                                                     page 11 of 44
+Chapter 137 — Malignant Renal Tumours                                                               AETIOLOGY
+
+ • Gene: fumarate hydratase (FH, 1q42–43) — a Krebs-cycle enzyme, acting as a tumour suppressor;
+   germline mutations in 90% of HLRCC; biallelic somatic loss occurs in sporadic cases. Mechanism relates to
+   the Warburg effect.
+ • Nomenclature: "HLRCC syndrome-associated RCC" when familial; "FH-deficient RCC" when histological or
+   clinical diagnosis is uncertain.
+ • Penetrance for RCC only 15–20%, whereas almost all develop cutaneous leiomyomas and (if female)
+   uterine fibroids, usually at 20–35 years; many women have had a hysterectomy before the syndrome is
+   recognised; leiomyosarcoma occasionally.
+ • Prompt surgical management of renal tumours is recommended — in contrast to the conservative
+   approach in most other syndromes. FDG-PET can detect small metastatic foci (high metabolic activity).
+   Some young FH carriers have low-grade oncocytic tumours resembling SDH-RCC.
+
+Succinate Dehydrogenase-Deficient RCC
+ • Bilateral, multifocal, early-onset (≤40 years) renal tumours, often with phaeochromocytoma, head and
+   neck paraganglioma and gastrointestinal stromal tumour.
+ • Germline mutations in Krebs-cycle SDH subunit genes (SDHA, SDHB, SDHC, SDHD, SDHAF2) — another
+   Warburg-effect cancer.
+ • Early reports suggested about one-third metastasise; more recent series show a good prognosis when
+   low-grade. High grade, coagulative necrosis or sarcomatoid features predict aggression.
+
+Tuberous Sclerosis Complex
+ • Autosomal dominant; AMLs, cortical tubers, subependymal nodules or subependymal giant cell
+   astrocytomas, pulmonary lymphangioleiomyomatosis, cardiac rhabdomyomas and facial
+   angiofibromas.
+ • Renal AMLs are multifocal, bilateral and often large; angioembolisation or partial nephrectomy (PN) may
+   be needed to treat or prevent bleeding from tumours ≥5 cm.
+ • Genes: TSC1 (9q34, hamartin) or TSC2 (16p13, tuberin). The TSC1/TSC2 complex downregulates mTOR;
+   mTOR inhibitors (everolimus) are active against TSC-associated AMLs.
+ • RCC, typically clear cell, in 1–3%.
+
+Birt-Hogg-Dubé Syndrome
+ • Cutaneous fibrofolliculomas, lung cysts, spontaneous pneumothoraces and renal tumours of distal-
+   nephron origin; named after three Canadian physicians (1977).
+ • Tumours: ChRCC, oncocytomas and hybrid oncocytic tumours; occasionally CCRCC.
+ • Renal penetrance 23–34%, but tumours are often bilateral and multifocal; prevalence about 2 per
+   million; mean age at renal diagnosis about 50. Mostly limited aggressiveness, though metastasis and
+   death are reported.
+ • Gene: folliculin (FLCN, 17p11.2), a tumour suppressor interfacing with mTOR; germline mutation in 88%
+   of kindreds. Loss of folliculin activates mTORC1 and mTORC2, increasing TFE3 nuclear translocation.
+   Autosomal dominant; genetic testing available.
+
+Cowden Syndrome
+ • One of the PTEN hamartoma tumour syndromes (germline PTEN mutation).
+ • Lifetime risks: female breast cancer 50%, RCC 34%, epithelial thyroid carcinoma 10%.
+ • Patients with Cowden features but no PTEN mutation may carry KILLIN mutations (adjacent tumour
+   suppressor), also raising RCC risk.
+
+
+
+                                                page 12 of 44
+Chapter 137 — Malignant Renal Tumours                                                                           AETIOLOGY
+
+ • >31-fold increased RCC risk → screen with CT or MRI. RCC is most often papillary; chromophobe and
+   clear cell also reported.
+
+BAP1 RCC Susceptibility
+ • Autosomal dominant: RCC, melanocytic tumours, cutaneous or uveal melanoma, malignant
+   mesothelioma.
+ • BAP1 is a nuclear deubiquitinating enzyme with chromatin-modifying function like PBRM1 and SETD2 —
+   all on chromosome 3.
+ • BAP1 and PBRM1 have distinct signatures; BAP1 mutation associates with necrosis, higher grade and
+   worse survival.
+
+MiTF-Associated Cancer Syndrome
+ • A germline missense variant (p.E318K) of microphthalmia-associated transcription factor (MiTF) confers
+   a >5-fold risk of melanoma and RCC.
+ • MiTF regulates HIF-1α; the mutation activates HIF-1α, potentially promoting RCC.
+Concept — Every familial syndrome converges on a small number of pathways — HIF/VEGF (VHL), MET,
+Krebs-cycle metabolism (FH, SDH) and mTOR (TSC, BHD, PTEN) — and the pathway predicts both the
+histology and the drug; the one clinical outlier is HLRCC, where the tumour's aggression overrides the 3 cm
+surveillance rule.
+
+Tumour Biology and Clinical Implications
+Resistance to Cytotoxic Therapy
+ • Cytotoxic chemotherapy response only 5–7% — the historical reason for poor metastatic outcomes.
+ • Multidrug resistance (MDR) proteins pump out hydrophobic drugs; RCC also resists cisplatin, MDR
+   inhibitors and non-MDR substrates, implying redundant resistance mechanisms.
+ • Understanding the VEGF and mTOR pathways and checkpoint inhibition produced effective drugs
+   (Chapter 144).
+
+TABLE 137.7 TUMOUR BIOLOGY AND CLINICAL IMPLICATIONS
+ Biological
+ characteristic       Clinical implication
+ Multidrug            Chemorefractory
+ resistance
+ expression
+ Immunogenic          Historical 10–20% response to interferon or interleukin-2 (IL-2), now abandoned for toxicity.
+                      Checkpoint inhibition (programmed death-1 [PD-1], PD-ligand 1 [PD-L1], cytotoxic T-lymphocyte
+                      antigen-4 [CTLA-4]: nivolumab, pembrolizumab, atezolizumab, ipilimumab, avelumab) → strong
+                      responses, prolonged recurrence-free and overall survival
+ Angiogenic           Vascular invasion → venous tumour thrombus. 20–40% responses with VEGF-pathway agents
+                      (sunitinib, sorafenib, pazopanib, axitinib, bevacizumab). HIF-2α inhibitor in VHL: 50% response in
+                      RCC. Some antiangiogenic agents prolong recurrence-free and overall survival
+ mTOR                 Temsirolimus prolongs survival in poor-risk RCC; everolimus active after failure of prior targeted
+ dependence           therapy
+
+Immunobiology and Immune Tolerance
+ • Clues to immunogenicity: tumour-infiltrating immune cells; occasional spontaneous regression; durable
+   complete regression with IL-2 in 3–5%.
+
+
+
+                                                      page 13 of 44
+Chapter 137 — Malignant Renal Tumours                                                                    AETIOLOGY
+
+ • Cytokine era: overall responses only 15–20%, with 2–3% treatment-related mortality. Tumour-infiltrating
+   lymphocyte reinfusion and allogeneic stem cell transplantation largely failed.
+ • Immune checkpoint inhibitors (ICIs) are now the mainstay of immunomodulation in advanced RCC.
+
+Immune Checkpoint Inhibition
+ • RCC evades immune surveillance through mechanisms at nearly every level; T-cell downregulation is
+   central.
+ • CTLA-4 and PD-1 are T-cell glycoprotein receptors that normally prevent autoimmunity. Tumour PD-L1
+   expression engages PD-1 → effector T-cell suppression and tolerance. PD-L1 expression in CCRCC predicts
+   aggressive pathology and progression independently.
+
+COMPARISON — CHECKPOINT INHIBITORS (FIGURE 137.8)
+ Target               Interaction blocked                                                Agents
+ CTLA-4               B7 on antigen-presenting cell with CTLA-4 on T cell (inhibitory;   Ipilimumab
+                      competes with B7–CD28 activation)
+ PD-1 (on T cell)     Tumour PD-L1 with T-cell PD-1                                      Nivolumab,
+                                                                                         pembrolizumab
+ PD-L1 (on tumour Same interaction, ligand side                                          Atezolizumab,
+ cell)                                                                                   avelumab
+
+ • T-cell activation depends on the balance of positive signals (T-cell receptor with major histocompatibility
+   complex/antigen; B7–CD28) and negative signals (B7–CTLA-4; PD-L1–PD-1). Blocking the negative side
+   tilts towards activation.
+ • ICIs, combined with TKIs, other ICIs and sometimes surgery, have pushed median survival in metastatic
+   RCC towards 5 years.
+ • Immune-related adverse events: enterocolitis, hepatitis, dermatitis, pneumonitis.
+
+Angiogenesis and Targeted Pathways
+ • RCC is one of the most vascular cancers. VEGF, suppressed by wild-type VHL, is the primary angiogenic
+   inducer in CCRCC; serum and urine VEGF are higher with hypervascular tumours.
+ • VEGF is a ligand family regulated by HIF, mTOR and VHL, binding VEGF receptors (VEGFR) → tyrosine
+   phosphorylation → endothelial survival and proliferation. Promiscuous ligand–receptor interactions
+   make each TKI's effects hard to predict.
+ • Bevacizumab was the first successful agent to target the VHL pathway.
+ • Cabozantinib inhibits VEGF, MET, RET and AXL — active even second-line, suggesting multiple pathways
+   must be targeted in refractory disease.
+ • Belzutifan: 50% response in VHL (renal tumours, retinal haemangioblastomas, pancreatic lesions); FDA
+   approved 2021 for VHL; now studied with TKIs and ICIs in sporadic RCC.
+
+Cancer Genome Research
+ • The Cancer Genome Atlas (TCGA) characterised CCRCC in 2013, and in 2018 published data on 843 RCCs
+   (488 clear cell, 274 papillary, 81 chromophobe), showing shared and subtype-specific features.
+ • 16 significantly mutated genes; VHL is the commonest somatic mutation (30–40%). FH may be more
+   often mutated in the general population but with low penetrance. Pathways: chromatin remodelling,
+   VHL/HIF, HIPPO, NRF2/ARE, PI3K/AKT.
+
+
+
+
+                                                        page 14 of 44
+Chapter 137 — Malignant Renal Tumours                                                                        AETIOLOGY
+
+COMPARISON — COPY-NUMBER SIGNATURES BY SUBTYPE
+ Subtype                                Signature change
+ Clear cell                             Loss of 3p (VHL locus); gain of 5q
+ Papillary                              Gains of 7 and 17
+ Chromophobe                            Losses of 1, 2, 6, 10, 13, 17
+
+Molecular Changes Associated With Survival
+
+COMPARISON — GENOMIC MARKERS OF REDUCED SURVIVAL
+ Scope            Alteration                                                        Subtypes affected
+ All major        CDKN2A alteration, mutation or deletion (9p; encodes cell-cycle   Clear cell, papillary,
+ subtypes         regulators p14, p16)                                              chromophobe
+ All major        DNA hypermethylation — CpG island methylator phenotype (CIMP-     All
+ subtypes         RCC); uncommon, extremely poor prognosis
+ All major        Increased immune-related Th2 gene signature                       All
+ subtypes
+ Subtype-         BAP1                                                              Clear cell only
+ specific
+ Subtype-         TP53                                                              Clear cell and papillary, not
+ specific                                                                           chromophobe
+ Subtype-         PBRM1                                                             Papillary and chromophobe
+ specific
+ Subtype-         PTEN                                                              Chromophobe only
+ specific
+
+ • Metabolic shift in aggressive RCC: downregulated tricarboxylic acid (TCA) cycle genes, upregulated
+   pentose phosphate and glutamine transporter genes, reduced AMPK and PTEN, increased acetyl-CoA
+   carboxylase — metabolic remodelling as a future therapeutic window.
+
+Other Signal Transduction and Cell Cycle Regulation Pathways
+ • mTOR interfaces with Akt and PTEN; upregulated by growth factors or PTEN loss, and increases HIF
+   expression. Temsirolimus and everolimus work after TKI failure, confirming relevance.
+ • Hepatocyte growth factor / c-MET: normally drives branching tubulogenesis and tubular regeneration;
+   upregulated across most RCC subtypes (not only hereditary PRCC); serum hepatocyte growth factor is
+   raised in most RCC; receptor phosphorylation correlates with progression — c-MET is a target for
+   papillary and other RCC.
+
+Microbiome
+ • Microbes outnumber human cells by nearly 2:1.
+ • Evidence in RCC: certain microbiota are protumorigenic in immune-responsive tumours; antibiotics
+   during ICI therapy nearly halved median overall survival in one study; responders and non-responders
+   to ICI have different microbial fingerprints; bacterial strains alter anti-CTLA-4/anti-PD-1 responses in
+   mice; targeted antibiotics against deleterious species improved response; tumour and normal renal
+   tissue carry different microbiota.
+Concept — RCC's biology explains its therapeutic history: multidrug resistance made chemotherapy fail, VHL-
+driven hypervascularity made anti-angiogenic drugs work, and immune evasion through checkpoints made
+checkpoint blockade the modern mainstay.
+
+
+
+                                                       page 15 of 44
+Chapter 137 — Malignant Renal Tumours                                                                    AETIOLOGY
+
+Pathology
+ • Most RCCs are round to ovoid with a pseudocapsule (compressed parenchyma and fibrous tissue), not a
+   true capsule. Unlike upper-tract urothelial carcinoma, most are not grossly infiltrative — exceptions:
+   collecting duct carcinoma and sarcomatoid variants.
+ • Size: usually 4–8 cm. Tumours <3 cm are typically indolent RCC or benign, though small tumours rarely
+   metastasise.
+ • Gross: yellow, tan or brown, with fibrosis, necrosis or haemorrhage. Cystic degeneration in 10–25%,
+   associated with better prognosis; calcification in about 10% (stippled or plaque-like).
+ • Nuclear grade is an independent prognostic factor, based on nuclear size, shape and nucleoli. The four-
+   tier WHO / International Society of Urological Pathology (ISUP) system is validated for clear cell and
+   papillary RCC and is the recommended system.
+
+TABLE 137.8 WHO/ISUP GRADING SYSTEM FOR CLEAR CELL AND PAPILLARY RCC
+ Grade Description
+ 1        Nucleoli absent or inconspicuous and basophilic at ×400
+ 2        Nucleoli conspicuous and eosinophilic at ×400, visible but not prominent at ×100
+ 3        Nucleoli conspicuous and eosinophilic at ×100
+ 4        Extreme nuclear pleomorphism, multinucleated giant cells, and/or rhabdoid and/or sarcomatoid
+          differentiation
+Modified from Delahunt et al., Eur Urol 2014.
+
+ • The logic: grades 1–3 turn on the magnification at which nucleoli become visible; grade 4 is
+   morphological — rhabdoid or sarcomatoid differentiation is automatically grade 4.
+ • Aggressive local behaviour in about 20%: invasion of perinephric fat, renal sinus or collecting system.
+   Gerota's fascia usually prevents spread to adjacent organs, although high-grade tumours can breach it.
+ • Venous involvement in about 10% — more than any other tumour type: thrombus into renal vein and
+   inferior vena cava (IVC), as high as the right atrium. Thrombi are often arterially vascularised; direct
+   invasion of the venous wall worsens prognosis.
+ • Most sporadic RCCs are solitary. Bilateral RCC (synchronous or asynchronous) in 2–4% of sporadic cases,
+   commoner in familial forms. Multicentricity in 10–20%, commoner in PRCC and familial RCC.
+ • Satellite lesions are small and may be invisible on imaging, intraoperative ultrasound or inspection — the
+   main cause of ipsilateral recurrence after PN.
+ • Clonality: multifocal CCRCC in one kidney is usually clonal; a contralateral tumour is likely independent if
+   synchronous, metastatic if asynchronous.
+ • Intratumour heterogeneity: multiregion sequencing shows single biopsies may miss heterogeneity and
+   confuse driver with passenger mutations — a challenge for biomarkers and personalised medicine.
+ • All RCCs are adenocarcinomas of renal tubular epithelium. Most share proximal-tubule ultrastructure
+   (microvilli, complex junctions); ChRCC, SMARCB1-deficient medullary carcinoma and collecting duct
+   carcinoma arise distally.
+ • Classification history: traditionally four subtypes (clear cell, papillary, chromophobe, collecting duct/
+   medullary) by cytoplasm and location; revised by WHO in 2022 to add newly described entities.
+
+
+
+
+                                                      page 16 of 44
+Chapter 137 — Malignant Renal Tumours                                                                                  AETIOLOGY
+
+TABLE 137.9 PATHOLOGICAL SUBTYPES OF RCC — COMMON SUBTYPES (REBUILT)
+                 Genetics / familial                                      Microscopy and                     Origin and
+ Subtype (share) form                          Gross                      immunohistochemistry (IHC)         behaviour
+ Clear cell (70–    VHL disease; VHL           Golden-yellow,             Nests or sheets of clear cells,    Proximal tubule;
+ 80%)               (3p25) mutation or         hypervascular, well        delicate vascular network;         more aggressive;
+                    hypermethylation; 3p       circumscribed,             low-molecular-weight               responds to TKI
+                    loss; loss 8p, 9p, 14q;    lobulated; necrosis,       cytokeratins, vimentin,            and ICI
+                    gain 5q                    haemorrhage, cystic        epithelial membrane antigen,
+                                               change; venous             carbonic anhydrase IX (CA-IX)
+                                               involvement
+                                               common
+ Papillary (5–   HPRC; trisomy 7 and           Fleshy, fibrous            Hypovascular; papillae with        Proximal tubule;
+ 10% in table;   17; MET altered in            pseudocapsule;             single cell layer on               good prognosis;
+ 10–15% in text) 81% of sporadic               necrosis and               fibrovascular cores; basophilic    often multicentric;
+                                               haemorrhage                low-grade cells; CK7, alpha-       common in
+                                                                          methylacyl-CoA racemase            acquired renal
+                                                                          (AMACR)                            cystic disease; no
+                                                                                                             longer split into
+                                                                                                             types 1 and 2
+ Chromophobe        BHD; FLCN (17p11)*;        Well circumscribed,        "Plant cells": pale cytoplasm,     Intercalated cells
+ (3–5%)             loss of chromosomes        homogeneous, tan           perinuclear halo, nuclear          of collecting duct;
+                    1, 2, 6, 10, 13, 17, 21,   or light brown             raisins, prominent cell            good prognosis
+                    Y; TP53, PTEN***                                      borders; diffuse CK7;              except
+                                                                          eosinophilic subtype               sarcomatoid
+                                                                          (mitochondrial gene
+                                                                          mutations)
+ Clear cell         VHL                        Well circumscribed,        Low-grade clear cells in linear    Arises in ESRD and
+ papillary                                     well-developed             papillae; diffuse CK7; cup-like    VHL; now
+ tumour (<5%)                                  capsule                    CA-IX                              generally
+                                                                                                             considered benign
+ Unclassified       Unknown; retain            Varied                     Varied                             Generally poor
+ RCC (1–3%)         SMARCB1                                                                                  prognosis
+
+TABLE 137.9 (CONTINUED) — RARE AND MOLECULARLY DEFINED SUBTYPES (REBUILT)
+ Subtype                      Genetics                  Distinguishing features                  Behaviour
+ SMARCB1-deficient renal Sickle cell trait              Infiltrative, grey-white,                Collecting duct origin; dismal
+ medullary carcinoma                                    haemorrhage and necrosis; lace-          prognosis
+                                                        like poorly differentiated cells; IHC:
+                                                        SMARCB1 loss
+ FH-deficient RCC             FH (1q42–43)              Eosinophilic high-grade papillary        Metastasises early;
+ (formerly HLRCC-                                       cells, macronucleolus with               extremely poor prognosis;
+ associated)                                            perinucleolar clearing; IHC: FH          low-grade variant in children
+                                                        loss, strong diffuse 2SC
+ SDH-deficient RCC            SDH genes                 Solitary; vacuolated eosinophilic or     Young adults, often germline;
+                                                        clear cells, intracytoplasmic            aggressive or indolent
+                                                        inclusions; IHC: SDHB loss
+ Eosinophilic solid and       Copy-number gains         Solid with macro- and microcysts;        Females only; indolent
+ cystic RCC                   7p–7q, losses Xp11,       granular stippled cytoplasm; CK20
+                              16p, Xq                   positive
+
+
+
+
+                                                          page 17 of 44
+Chapter 137 — Malignant Renal Tumours                                                                                  AETIOLOGY
+
+ Subtype                       Genetics                 Distinguishing features                 Behaviour
+ ALK-rearranged RCC            ALK fusions (2p23)       Eosinophilic, vacuolated, broad         Heterogeneous; dramatic
+                                                        morphology; ALK IHC                     responses to ALK inhibitors
+                                                                                                in some
+ ELOC-mutated RCC (RCC         Somatic ELOC       Fibromuscular septa; diffuse CK7;             Indolent
+ with fibromyomatous           (formerly TCEB1),  must be distinguished from clear
+ stroma)                       TSC1, TSC2, *MTOR* cell papillary tumour
+ MiT family translocation      Xp11.2 fusions           Tan-yellow; clear cells with            40% of paediatric RCC; t(X;
+ RCC (Xp11/TFE3, TFEB)                                  papillary architecture; FISH            17) advanced but often
+                                                        diagnostic                              indolent; t(X;1) late nodal
+                                                                                                recurrence
+ Acquired cystic disease-      VHL alterations, 3p      Cribriform or sieve-like, cysts lined   ESRD with acquired cystic
+ associated RCC                deletion                 by clear cells                          disease; excellent prognosis
+ Collecting duct               Multiple                 Firm, central, infiltrative;            Collecting duct; poor
+ carcinoma (Bellini)           chromosomal losses       desmoplastic stroma, high-grade;        prognosis; may respond to
+                                                        PAX8 confirmation                       cytotoxic chemotherapy
+ Multilocular cystic clear     As clear cell            Cysts lined by single layer of low-     Almost uniformly benign
+ cell neoplasm of low                                   grade clear cells, no expansile
+ malignant potential                                    nodules
+ Tubulocystic RCC              Unknown                  Spongy multicystic; grade 3             Favourable
+                                                        nucleoli, oncocytoma-like cells
+ Mucinous tubular and          Unknown                  Medullary; tubules and spindle          Favourable
+ spindle cell carcinoma                                 cells in mucin
+ Hybrid oncocytic              BHD; FLCN                Features of chromophobe and             Good
+ chromophobe tumour                                     oncocytoma
+Sarcomatoid variants of all subtypes occur and worsen prognosis. Molecularly defined RCCs are usually recognised by morphology and
+confirmed molecularly when necessary. Modified from Moch et al., 2022 WHO classification, Eur Urol 2022.
+
+ • What the table is for: sorting subtypes into good-prognosis (papillary, chromophobe, clear cell papillary,
+   multilocular cystic, tubulocystic, mucinous tubular and spindle cell, eosinophilic solid and cystic, ELOC)
+   and lethal (medullary, FH-deficient, collecting duct, unclassified, sarcomatoid).
+ • Discrepancy: the PRCC share is 5–10% in Table 137.9 but 10–15% in the text and Key Points; the text
+   figure is the one conventionally taught.
+
+Clear Cell Renal Cell Carcinoma
+ • 70–80% of RCC — the "garden variety". Yellow and highly vascular, with delicate sinusoids between
+   sheets or acini of cells.
+ • Clear cytoplasm results from glycogen, cholesterol, cholesterol esters and phospholipids dissolved
+   during processing; granular eosinophilic (mitochondria-rich) cells may predominate.
+ • Sarcomatoid features in 5–8%; venous extension more likely than any other subtype.
+ • The prognostic paradox: localised CCRCC does worse than PRCC or ChRCC even after stage and grade
+   adjustment, yet metastatic CCRCC does better, because it responds to VEGF-targeted therapy and ICIs.
+ • 3p alterations in >90% (VHL, PBRM1, SETD2, BAP1).
+
+Papillary Renal Cell Carcinoma
+ • Second commonest (10–15%). Basophilic or eosinophilic cells in papillary or tubular arrangement; gross
+   beige-white, spherical, frequent haemorrhage that may mimic cystic change on imaging.
+ • Multicentricity approaching 40% in some series, more so in ESRD and acquired renal cystic disease.
+
+
+
+                                                          page 18 of 44
+Chapter 137 — Malignant Renal Tumours                                                                AETIOLOGY
+
+ • Type 2 removed from the 2022 WHO classification as heterogeneous, giving a more homogeneous PRCC
+   category.
+ • TCGA: MET altered in 81% (mutation, splice variant, fusion, copy number); trisomy 7 and 17, loss of Y*;
+   also gains of 12, 16, 20 and loss of heterozygosity on 14. MET is being targeted with cabozantinib.*
+ • Hypovascular relative to clear cell, probably from absent VHL mutation.
+ • 5-year cancer-specific survival 86–92%, likely better now aggressive variants are excluded.
+ • Papillary adenomas — ≤15 mm, low-grade, common at autopsy, share PRCC genetics, considered
+   indolent.
+
+Chromophobe Renal Cell Carcinoma
+ • 3–5% of RCC, from the distal convoluted tubule. Low mutational burden — only TP53 and *PTEN
+   frequent; FLCN* in BHD, but most are sporadic.
+ • Classic "plant cell": transparent reticular cytoplasm and prominent cell membrane; eosinophilic subtype
+   about 30%. A perinuclear halo suffices for diagnosis on haematoxylin and eosin.
+ • Hypodiploid; whole-chromosome losses (1, 2, 6, 10, 13, 17) in 86%; mitochondrial dysfunction is a
+   common feature.
+ • Better prognosis than CCRCC; >90% cancer-free at 5 years; poor outcome with sarcomatoid features or
+   metastasis. Aggressive tumours may carry mTOR-activating mutations; TKIs, mTOR inhibitors and ICIs
+   have limited activity in metastatic disease.
+
+Other Oncocytic Renal Neoplasms
+ • Chromophobe versus oncocytoma remains hard, with poor agreement even among expert pathologists.
+ • 2022 WHO descriptive term: "oncocytic renal neoplasm of low malignant potential, not otherwise
+   specified" — for solitary, sporadic tumours; a clinical management category, heterogeneous but indolent
+   with exceedingly low metastatic potential.
+
+Collecting Duct Carcinoma
+ • Carcinoma of the collecting ducts of Bellini — rare, poor prognosis. Mostly large infiltrative masses from
+   a medullary pyramid invading cortex; dilated tubules and papillae lined by cuboidal cells (cobblestone
+   appearance).
+ • A diagnosis of exclusion: many historical cases were FH-deficient or medullary RCC, urothelial carcinoma
+   with glandular differentiation, or metastasis (e.g., lung). Strict criteria require PAX8 expression and
+   exclusion of these — now vanishingly rare.
+ • High grade, advanced, unresponsive to conventional therapy; shares features with urothelial carcinoma,
+   so some respond to cisplatin- or gemcitabine-based chemotherapy; multimodality therapy outperforms
+   nephrectomy alone in metastatic disease.
+
+Molecularly Defined Renal Cell Carcinoma
+ • 2022 WHO update adds subtypes redefined molecularly, communicating biology more accurately,
+   especially when morphology is ambiguous.
+ • Former type 2 PRCC comprised at least three entities: MET-altered tumours; MiT family translocation
+   RCC; FH-deficient RCC.
+ • MiT family (TFE3, TFEB): heterogeneous clear-to-eosinophilic, papillary and nested; commonest RCC in
+   children and young adults, but similar absolute numbers in older adults; confirm with TFE3/TFEB FISH.
+ • ALK-rearranged RCC: very rare, heterogeneous, often called unclassified; test ALK IHC/FISH before
+   labelling "unclassified", especially with myxoid patterns.
+
+
+
+                                                 page 19 of 44
+Chapter 137 — Malignant Renal Tumours                                                                              AETIOLOGY
+
+ • SDH-deficient RCC: young adults, usually favourable, but recognition matters because many are germline
+   (hereditary paraganglioma spectrum); SDHB IHC confirms.
+ • ELOC-mutated RCC: part of "RCC with fibromyomatous stroma" (with sporadic TSC1, TSC2, MTOR);
+   identified by TCGA; indolent.
+ • The two aggressive molecularly defined tumours: SMARCB1-deficient medullary RCC and FH-deficient
+   RCC; both identified by morphology and IHC, with molecular analysis for confirmation.
+
+COMPARISON — MEDULLARY CARCINOMA VERSUS COLLECTING DUCT CARCINOMA
+ Feature           SMARCB1-deficient medullary RCC                          Collecting duct carcinoma
+ Setting           Sickle cell trait; Black patients, third decade          Older adults; diagnosis of exclusion
+ SMARCB1           Lost                                                     Retained
+ Chemotherapy Platinum: modest objective response; no response to           More likely to respond to cisplatin-based
+              targeted therapy                                              chemotherapy
+ Prognosis         Median survival about 8–13 months; <15% survive 2        Poor
+                   years
+
+ • SMARCB1-deficient "medullary-like" RCC also occurs without sickle trait, with the same grave prognosis.
+ • FH-deficient RCC: very aggressive, manage promptly; high-grade eosinophilic, macronucleolus with
+   perinucleolar clearing; FH and 2SC IHC; mostly HLRCC-associated, some somatic. FH mutations may be
+   common in the population but penetrance is low.
+
+Sarcomatoid and Rhabdoid Differentiation
+
+COMPARISON — SARCOMATOID VERSUS RHABDOID DIFFERENTIATION
+ Feature      Sarcomatoid                                                Rhabdoid
+ Frequency 1–5% of RCC, mostly clear cell or chromophobe                 Seen in many subtypes
+ Nature       Dedifferentiated region of the parent RCC, not a           Not a separate subtype
+              separate tumour
+ Histology    Spindle cells, infiltrative growth                         Rhabdoid cells
+ Grade        Grade 4                                                    Mandates grade 4
+ Prognosis    Median survival <1 year in most series; adjacent-organ Poor
+              invasion common
+ Therapy      Multimodal if fit; VEGF-targeted therapy modest;           SWI/SNF chromatin-remodelling defects
+              checkpoint inhibition encouraging                          implicated — possible future target
+
+ • Presence or absence of sarcomatoid or rhabdoid differentiation must be reported in every RCC.
+
+Unclassified Renal Cell Carcinoma
+ • 1–5% of presumed RCC with indeterminate features after careful analysis; many poorly differentiated,
+   highly aggressive, particularly poor prognosis. The "catch-all" category is shrinking as molecular
+   classification expands.
+
+ KEY POINTS: PATHOLOGY OF RENAL CELL CARCINOMA
+   • CCRCC is the commonest subtype (70–80%): proximal tubule origin, hypervascularity and necrosis;
+     more aggressive than other common subtypes but more responsive to immunotherapy and targeted
+     therapy.
+   • PRCC (10–15%): more indolent, hypovascular, MET alterations, multifocality.
+   • ChRCC (3–5%): generally indolent; shares histopathological features with benign oncocytoma.
+
+
+                                                         page 20 of 44
+Chapter 137 — Malignant Renal Tumours                                                                       AETIOLOGY
+
+   • RCC is biologically diverse; some subtypes need molecular testing for diagnosis.
+
+Concept — Histology is biology: each subtype maps to a nephron segment, a signature genetic lesion and a
+characteristic behaviour — and the 2022 WHO shift from morphology to molecular definition exists because
+look-alike tumours (the old type 2 PRCC, the old collecting duct carcinoma) turned out to be several diseases
+with very different prognoses.
+
+Clinical Presentation
+ • Retroperitoneal location keeps many masses silent until locally advanced. >60% of RCCs are now
+   detected incidentally; these are more often confined with better survival, but treating many benign or
+   indolent tumours has had minimal effect on RCC deaths in the United States.
+
+TABLE 137.10 CLINICAL PRESENTATION OF RENAL CELL CARCINOMA
+ Category                    Features
+ Incidental                  Most common
+ Localised or locally        Haematuria; flank pain; abdominal mass; perinephric haematoma; IVC obstruction:
+ advanced disease            bilateral lower-limb oedema; non-reducing or right-sided varicocele
+ Systemic disease            Persistent cough; bone pain; cervical lymphadenopathy; constitutional symptoms (weight
+                             loss, fever, malaise); paraneoplastic syndromes
+
+ • Flank pain is usually from haemorrhage and clot obstruction.
+ • Classic triad — flank pain, gross haematuria, palpable mass — is now rare and almost always means
+   advanced disease ("too late triad").
+ • Other markers of advanced disease: weight loss, fever, night sweats; cervical lymphadenopathy; non-
+   reducing varicocele; bilateral leg oedema (venous involvement).
+ • Spontaneous perirenal haemorrhage: >50% with unexplained perirenal haematoma harbour an occult
+   tumour, usually AML or RCC; repeat CT a few months later usually gives the diagnosis.
+
+ KEY POINTS: CLINICAL PRESENTATION OF RENAL CELL CARCINOMA
+   • The classic triad (flank pain, gross haematuria, palpable mass) is rare and often reflects advanced
+     disease.
+   • Most RCCs are detected incidentally; early detection associates with small tumours of limited
+     aggressive potential.
+   • Spontaneous renal haemorrhage of unclear cause is often RCC or AML.
+   • Paraneoplastic syndromes are commoner with metastatic disease; many resolve after removal of the
+     tumour. Hypercalcaemia is unique in being manageable medically (hydration, diuresis and other
+     approaches).
+
+ • Paraneoplastic syndromes occur in 10–20% — RCC has more, and more diverse, syndromes than almost
+   any other cancer; hence the old name "internist's tumour", now better called the "radiologist's tumour".
+   Commoner in advanced disease, almost absent with small incidental masses.
+ • Mechanism: the kidney normally makes 1,25-dihydroxycholecalciferol, renin, erythropoietin and
+   prostaglandins; RCC may overproduce these and also parathyroid hormone-related peptide, lupus-type
+   anticoagulant, human chorionic gonadotrophin, insulin, cytokines and inflammatory mediators.
+
+
+
+
+                                                      page 21 of 44
+Chapter 137 — Malignant Renal Tumours                                                                     AETIOLOGY
+
+COMPARISON — PARANEOPLASTIC SYNDROMES OF RCC
+ Syndrome              Frequency        Mechanism                     Management / significance
+ Raised erythrocyte Commonest —         Inflammatory                  Marker of advanced disease
+ sedimentation rate >50% of
+                    paraneoplastic
+                    findings
+ Hypercalcaemia        Up to 13%        Paraneoplastic (PTH-related   Hydration → furosemide diuresis;
+                                        peptide) or osteolytic bone   bisphosphonates standard if renal function
+                                        metastases                    adequate (zoledronic acid 4 mg IV every 4
+                                                                      weeks; withhold in renal insufficiency);
+                                                                      denosumab if refractory; corticosteroids,
+                                                                      calcitonin; definitive — nephrectomy ±
+                                                                      metastasectomy
+ Hypertension          Common           Tumour renin; renal artery   —
+                                        compression or
+                                        encasement; intratumoural
+                                        arteriovenous fistula; less
+                                        often polycythaemia,
+                                        hypercalcaemia, obstruction,
+                                        raised intracranial pressure
+ Polycythaemia         Common           Erythropoietin from tumour    —
+                                        or hypoxic adjacent
+                                        parenchyma
+ Stauffer syndrome     3–20%            Interleukin-6 and other       Raised alkaline phosphatase in almost all;
+ (non-metastatic                        cytokines                     prothrombin time or albumin abnormal in
+ hepatic                                                              two-thirds; bilirubin/transaminases in 20–
+ dysfunction)                                                         30%; thrombocytopenia, neutropenia, fever,
+                                                                      weight loss; exclude liver metastases; biopsy
+                                                                      shows non-specific hepatitis; normalises
+                                                                      after nephrectomy in 60–70%; persistence or
+                                                                      recurrence = viable tumour, poor prognosis
+ Others                Rare             —                             Cushing syndrome, hyperglycaemia,
+                                                                      galactorrhoea, neuromyopathy, clotting
+                                                                      disorders, cerebellar ataxia
+
+ • Hypercalcaemia symptoms are non-specific: nausea, anorexia, fatigue, reduced deep tendon reflexes.
+   Hypercalcaemia from extensive osteolytic metastases is harder to palliate (not surgically amenable) but
+   may respond to bisphosphonates and focused radiotherapy.
+ • General rule: paraneoplastic syndromes need surgical excision or systemic therapy; medical therapy
+   helps only in hypercalcaemia.
+Concept — Presentation has shifted from the endocrine kidney (triad and paraneoplastic phenomena,
+reflecting bulky advanced disease) to the incidental mass; symptoms, when present, are therefore themselves
+a marker of advanced stage.
+
+Screening and Clinical Associations
+ • Population screening is not feasible: low incidence of lethal kidney cancer and no cheap, effective test —
+   although localised RCC is highly curable and metastatic RCC is not.
+ • Limiting factors: incidence only about 16 per 100,000 per year; about 80% of newly diagnosed small
+   renal masses are benign or indolent versus about 20% potentially aggressive. A test would need
+
+
+
+
+                                                   page 22 of 44
+Chapter 137 — Malignant Renal Tumours                                                                          AETIOLOGY
+
+   near-100% specificity, and yield would still be too low to be cost-effective. Even high-risk groups (male,
+   older, heavy smokers) carry only twofold to threefold relative risk.
+ • Dipstick haematuria yields very little RCC — small RCCs are parenchymal, not urothelial, and often cause
+   no haematuria. Ultrasound or CT screening finds RCC at 23–300 per 100,000 with more organ-confined
+   tumours, but is unlikely to be cost-effective.
+ • Candidate biomarkers (none validated): urinary aquaporin-1, perilipin-2, microsatellite alterations, VHL
+   mutation or hypermethylation, VEGF, CA-IX, serum kidney injury molecule-1 (KIM-1), circulating tumour
+   cells and circulating tumour DNA.
+ • Screening must target defined populations: ESRD, tuberous sclerosis, familial RCC.
+
+TABLE 137.11 SCREENING FOR RENAL CELL CARCINOMA: TARGET POPULATIONS
+ Population                             Recommendation
+ ESRD                                   Only if long life expectancy and few comorbidities; periodic ultrasound or
+                                        CT from the third year on dialysis
+ Known VHL disease                      Abdominal MRI or ultrasound every 2 years from age 15–20; periodic
+                                        screening for non-renal manifestations
+ Relatives of VHL patients              Genetic testing; positive → VHL protocol; negative → less stringent follow-
+                                        up
+ Relatives with other familial RCC      Periodic ultrasound or CT; strongly consider genetic testing
+ Tuberous sclerosis                     Periodic ultrasound or CT
+ Autosomal dominant polycystic kidney   Routine screening not justified
+ disease (ADPKD)
+ General population                     Routine screening not justified
+
+Screening in Cystic Kidney Disease
+ • 80% of ESRD patients develop acquired renal cystic disease; 1–2% of these develop RCC. Relative risk of
+   RCC in ESRD fivefold to twentyfold; 15% have metastases at presentation.
+ • Screening is recommended, but limited by short life expectancy, adenomas in 20–40%, distorted
+   anatomy and cost — compromise: screen younger, fitter patients from the third dialysis year.
+ • Renal transplant recipients remain at risk in native kidneys (RCC in 1.4–2.3% within 3 years) → continue
+   periodic imaging after transplantation.
+ • ADPKD: imaging very difficult and no significantly increased RCC risk → screening not recommended.
+
+Screening in RCC Familial Syndromes
+ • Tuberous sclerosis: adenoma sebaceum, epilepsy, intellectual disability, cysts and AMLs; RCC often early-
+   onset and multifocal; the Tsc2-mutant Eker rat develops RCC frequently → periodic renal imaging, which
+   also follows AML.
+ • Suspect VHL with early-onset or multifocal RCC, or RCC plus: visual or neurological history; pancreatic
+   cysts, epididymal lesions or inner-ear tumours; family history of blindness, CNS tumours or renal
+   cancer. Patients and relatives should consider genetic evaluation.
+
+VHL ALLIANCE SURVEILLANCE PROTOCOL
+ Test                                                                                                  Start
+ Physical and ophthalmological examination, annually                                                   Infancy
+ Plasma or urinary metanephrines, annually                                                             Age 5
+ CNS MRI and audiogram, every 2 years                                                                  Age 11
+
+
+
+                                                  page 23 of 44
+Chapter 137 — Malignant Renal Tumours                                                                            STAGING
+
+ Test                                                                                                   Start
+ Abdominal MRI, every other year                                                                        Age 15
+ MRI of internal auditory canal                                                                         Age 15
+
+ • Less intensive protocols exist, but all relevant organ systems must be covered.
+ • Genetic counselling for all patients with RCC at ≤46 years, given the higher likelihood of germline
+   mutation. Carriers of c-MET or other relevant mutations, and those with suggestive histories, need
+   periodic ultrasound or CT.
+Concept — Screening follows prevalence: in the general population the yield is too low and most detected
+masses are indolent, so screening is justified only where prior probability is high — ESRD, tuberous sclerosis
+and the familial syndromes — with ADPKD the classic exclusion.
+
+STAGING
+ • Staging estimates prognosis, guides treatment and provides a common language.
+ • Robson classification was used until the 1990s; replaced by the tumour, node, metastasis (TNM) system
+   of the Union for International Cancer Control, endorsed by the American Joint Committee on Cancer
+   (AJCC). Current: AJCC eighth edition (2016).
+
+TABLE 137.12 INTERNATIONAL TNM STAGING SYSTEM FOR RENAL CELL CARCINOMA
+ Category    Definition
+ T1a         ≤4.0 cm, confined to kidney
+ T1b         >4.0 to ≤7.0 cm, confined
+ T2a         >7.0 to ≤10.0 cm, confined
+ T2b         >10.0 cm, confined
+ T3a         Into renal vein or segmental branches, or pelvicalyceal system, or perirenal and/or renal sinus fat, not
+             beyond Gerota's fascia
+ T3b         Grossly into vena cava below the diaphragm
+ T3c         Into vena cava above the diaphragm, or invades the caval wall
+ T4          Beyond Gerota's fascia, including contiguous ipsilateral adrenal
+ N1          Regional lymph node metastasis
+ M1          Distant metastasis
+ Stage I /   T1 N0 M0 / T2 N0 M0
+ II
+ Stage III   T1–2 N1 M0, or T3 any N M0
+ Stage IV    T4 any N M0, or any T any N M1
+Modified from AJCC Cancer Staging Manual, 8th edition, 2016.
+
+TABLE 137.13 TNM STAGE ACROSS EDITIONS AND 5-YEAR CANCER-SPECIFIC SURVIVAL
+                                                TNM 6th               TNM 7th      TNM 8th           5-year survival
+ Finding                                 Robson (2002)                (2009)       (2016)            (%)
+ Organ-confined (overall)                I         T1–2               T1–2         T1–2              70–90
+ ≤4.0 cm                                 I         T1a                T1a          T1a               95–100
+ >4.0–7.0 cm                             I         T1b                T1b          T1b               85–95
+ >7.0–10.0 cm                            I         T2                 T2a          T2a               65–85
+
+
+
+                                                          page 24 of 44
+Chapter 137 — Malignant Renal Tumours                                                                                 STAGING
+
+                                                   TNM 6th                 TNM 7th               TNM 8th   5-year survival
+ Finding                                    Robson (2002)                  (2009)                (2016)    (%)
+ >10.0 cm                                   I          T2                  T2b                   T2b       55–75
+ Pelvicalyceal invasion                     I          T1–2                T1–2                  T3a       55–75
+ Perinephric or sinus fat                   II         T3a                 T3a                   T3a       55–75
+ Renal vein or branches                     IIIA       T3b                 T3a                   T3a       45–65
+ IVC below diaphragm                        IIIA       T3c                 T3b                   T3b       40–55
+ IVC above diaphragm or wall                IIIA       T3c                 T3c                   T3c       20–45
+ invasion
+ Direct adrenal involvement                 II         T3a                 T4                    T4        0–35
+ Beyond Gerota's fascia                     IVA        T4                  T4                    T4        0–30
+ Lymph node involvement                     IIIB       N1–2                N1                    N1        0–30
+ Systemic metastasis                        IVB        M1                  M1                    M1        0–30
+Data from Amin et al., AJCC 8th edition, 2017, and other sources as cited in the source table.
+
+ • What the table tracks — the edition changes:
+ • 6th (2002): T1 split at 4 cm (excellent outcomes ≤4 cm with PN or RN).
+ • 7th (2009): T2 split at 10 cm; ipsilateral contiguous adrenal → T4; non-contiguous adrenal (either side)
+   → M1; isolated renal vein thrombus downgraded T3b → T3a (favourable prognosis); N1/N2 collapsed to
+   N1 (subdivision lacked prognostic value).
+ • 8th (2016): pelvicalyceal invasion → pT3a (independent prognostic significance).
+ • Trap: compare studies across eras with care — the same tumour may carry different stages.
+ • TNM limitations: stage is set by the single worst feature, losing information (e.g., adrenal involvement
+   plus supradiaphragmatic thrombus); continuous variables made discrete lose accuracy. Record all adverse
+   features parenthetically; integrated nomograms often outperform staging.
+ • Clinical staging begins with history, examination, imaging and selected laboratory tests.
+ • Suggest advanced disease: weight loss >10%, cachexia, poor performance status; palpable mass or
+   lymphadenopathy; non-reducing varicocele or leg oedema (venous involvement); anaemia,
+   hypercalcaemia, abnormal liver function or sedimentation rate, raised alkaline phosphatase or lactate
+   dehydrogenase.
+ • Radiographic staging: high-quality abdominal CT plus chest radiograph in most; MRI for locally advanced
+   disease, poor renal function, venous involvement or contrast allergy; chest CT as indicated.
+ • Perinephric fat: stranding is non-specific; a distinct enhancing nodule in perinephric space is more
+   definitive but uncommon; overall CT/MRI accuracy for perinephric invasion is low (microscopic spread).
+ • Adrenal: CT plus intraoperative inspection. Enlarged or indistinct adrenal, extensive replacement with no
+   plane, or palpably abnormal gland → treat as involved. Normal on imaging and inspection → no routine
+   adrenalectomy.
+ • Lymph nodes: nodes ≥2 cm on CT almost always malignant — confirm surgically or by biopsy if not a
+   surgical candidate. Smaller nodes are often inflammatory and should not preclude surgery. MRI
+   distinguishes vessels (lumbar veins) from nodes.
+ • Invasion of adjacent organs: MRI is the premier study; loss of fat plane (e.g., with liver) on CT is usually
+   not true invasion, but be prepared to resect bowel, liver, spleen or pancreas with large infiltrative masses.
+ • Venous thrombus: CT sensitivity 78% for renal vein and 96% for IVC thrombus. Signs: venous
+   enlargement, abrupt calibre change, filling defect, collaterals. False negatives mostly right-sided (short
+
+
+                                                              page 25 of 44
+Chapter 137 — Malignant Renal Tumours                                                                                 STAGING
+
+   vein, mass effect). MRI is the premier study for IVC thrombus, though multiplanar CT is likely equivalent;
+   intraoperative transoesophageal echocardiography defines the cephalad extent and monitors the
+   thrombus.
+ • Metastatic evaluation minimum: chest radiograph and abdominopelvic CT or MRI.
+ • Bone scan only with raised alkaline phosphatase, bone pain or poor performance status.
+ • Chest CT with pulmonary symptoms, abnormal chest radiograph or high-risk disease.
+ • PET: guidelines recommend against — good specificity, suboptimal sensitivity; may falsely raise concern.
+ • Sestamibi SPECT/CT under evaluation; biopsy of primary or metastatic sites selectively.
+
+ KEY POINTS: STAGING AND PROGNOSIS OF RENAL CELL CARCINOMA
+   • TNM is the preferred staging system.
+   • T stage reflects size and extension into renal or extrarenal structures.
+   • Pathological stage is the most important prognostic factor.
+   • T4, N1 and M1 confer a poor outcome.
+   • Other key pathological features: nuclear grade, tumour size, histological subtype.
+   • Clinical signs, tumour factors and laboratory findings also predict cancer-specific survival.
+   • Integrated systems such as nomograms often outperform stage alone.
+
+
+Prognosis
+TABLE 137.14 ADVERSE PROGNOSTIC FACTORS FOR RENAL CELL CARCINOMA
+ Clinical                                Anatomical                     Histological                   Genomic
+ Poor performance status;                Larger size; venous            High nuclear grade; certain    CDKN2A alterations;
+ systemic symptoms; anaemia;             involvement; extension         subtypes; sarcomatoid          DNA
+ hypercalcaemia; raised lactate          into contiguous organs         features; histological         hypermethylation; Th2
+ dehydrogenase, sedimentation            including adrenal; nodal       necrosis; vascular invasion;   immune signature
+ rate, C-reactive protein, alkaline      metastases; distant            perinephric or sinus fat
+ phosphatase; thrombocytosis             metastases and burden          invasion; collecting system
+                                                                        invasion; positive margin
+Data from Lane and Kattan, 2008; Sun et al., 2017; Ricketts et al., TCGA, 2018.
+
+ • Tumour factors (stage, size, grade, subtype) have the greatest individual predictive ability, but
+   integrative models are most powerful. Patient factors (age, CKD, frailty, comorbidity) drive overall
+   survival and must inform planning for localised RCC.
+ • Adverse clinical findings in presumed localised RCC: symptomatic presentation, paraneoplastic disease,
+   weight loss >10%, poor performance status; hypercalcaemia, anaemia and raised sedimentation rate
+   independently predict cancer-specific death even in localised CCRCC.
+ • Pathological stage is the single most important factor.
+ • Organ-confined: 5-year survival 70–90%; perinephric fat invasion reduces survival by 10–15%.
+ • Renal sinus fat is staged with perinephric fat as T3a but may carry higher risk (access to the sinus veins).
+   Collecting system invasion worsens prognosis → now T3a.
+ • Contiguous adrenal (T4) or non-contiguous adrenal metastasis → most eventually die of systemic
+   disease.
+ • Venous involvement is salvageable: 5-year survival 45–69% with tumour thrombus if otherwise confined
+   to the kidney; much worse with nodes or metastases; intermediate with perinephric fat invasion.
+
+
+
+                                                             page 26 of 44
+Chapter 137 — Malignant Renal Tumours                                                                  STAGING
+
+ • Thrombus level — prognostic value debated (selection bias); higher levels associate with more advanced
+   disease, especially at or above the hepatic veins. Venous wall invasion is as important as level → pT3c
+   regardless of level.
+ • Major prognostic drop: T4, nodal or systemic metastasis.
+ • Node-positive: 5-year survival 5–30%, 10-year 0–5%.
+ • Systemic metastases (traditional): 1-year survival <50%, 5-year 5–30%, 10-year 0–5%; now median
+   survival approaching 3–5 years with VEGF-targeted therapy and ICIs.
+ • Synchronous metastases fare worse than metachronous; for metachronous disease, the metastasis-free
+   interval reflects tempo.
+ • Metastatic prognostic factors: performance status, number and sites (bone, brain, liver worse), anaemia,
+   hypercalcaemia, alkaline phosphatase, lactate dehydrogenase, thrombocytosis, sarcomatoid histology →
+   low, intermediate and poor risk groups (Chapter 144).
+ • Tumour size is independent, partly through correlation with stage; larger tumours are more often clear
+   cell and high grade. 10-year cancer-specific survival: pT1a 90–95%, pT1b 80–85%, pT2 about 75%; pT1a
+   >95% at 5 years whether PN or RN.
+ • Nuclear grade is independent (at least for CCRCC and PRCC). Fuhrman grading has been replaced by ISUP
+   grading based on nucleolar morphology.
+ • Subtype: sarcomatoid or rhabdoid, collecting duct, medullary or unclassified → poor; CCRCC on average
+   worse than papillary or chromophobe; predictably indolent: multilocular cystic clear cell neoplasm,
+   mucinous tubular and spindle cell carcinoma, clear cell papillary tumour, some molecularly defined
+   tumours.
+ • Molecular factors: the three pan-subtype markers (CDKN2A, hypermethylation, Th2 signature); Ki-67
+   proliferation index in CCRCC; VEGF family, adhesion molecules, survivin — mostly still investigational.
+ • Nomograms: the Kattan nomogram was among the first; older nomograms underperform in
+   contemporary cohorts (stage migration, new therapies) — must be continually revalidated.
+ • TNM versus prognostic algorithms: TNM is an anatomical universal language; guidelines add risk groups
+   (grade plus stage) to set follow-up and adjuvant decisions. Multivariable tools outperform expert
+   opinion and staging; artificial intelligence integrating radiomics, pathomics and genomics may approach
+   expert accuracy.
+Concept — Prognosis is governed by anatomical extent first — organ-confined, venous, locally invasive,
+nodal, metastatic form a steep gradient — with grade, subtype and size refining risk within each stage;
+venous thrombus is the notable exception, a high stage that remains curable when nothing else is wrong.
+
+Treatment of Localised Renal Cell Carcinoma
+ • Localised masses are common owing to cross-sectional imaging. Clinical T1 masses were once all
+   presumed malignant and treated by RN; now heterogeneous biology is recognised, and options are RN,
+   PN, thermal ablation (TA) and AS. Elective PN, once controversial, is standard of care.
+
+American Urological Association Guidelines for Renal Mass and Localised Renal Cancer (2021)
+ • Index patients abandoned — too many grey zones in general health, oncological potential and function.
+ • Greater focus on function: creatinine-based eGFR and proteinuria assessment; assign CKD stage.
+   Proteinuria and reduced baseline GFR independently predict functional decline and survival.
+ • Nephrology referral: GFR <45, confirmed proteinuria, diabetics with CKD, or expected post-intervention
+   GFR <30 mL/min/1.73 m².
+
+
+
+
+                                                 page 27 of 44
+Chapter 137 — Malignant Renal Tumours                                                                                          STAGING
+
+ • 2021 additions: adjuvant therapy addressed for the first time; genetic counselling indications expanded;
+   follow-up recommendations merged in; objective AS criteria.
+ • First guideline statement: high-quality multiphase (pre- and post-contrast) cross-sectional imaging, now
+   feasible in almost all — contrast MRI even in severe CKD or ESRD, as NSF with second- and third-
+   generation gadolinium is almost non-existent.
+ • Largely concordant with the American Society of Clinical Oncology, European Association of Urology,
+   National Comprehensive Cancer Network and American College of Radiology guidelines.
+
+FIGURE 137.14 — AUA ALGORITHM: EVALUATION, COUNSELLING AND MANAGEMENT
+ Domain            Recommendations
+ Evaluation        Multiphase cross-sectional imaging; comprehensive metabolic panel, blood count, urinalysis; if
+                   malignancy suspected, chest imaging and review of abdominal imaging; assign CKD stage (GFR and
+                   proteinuria)
+ Renal mass        Counsel on rationale, predictive values, risks, non-diagnostic rate. Consider when haematological,
+ biopsy            metastatic, inflammatory or infectious disease suspected. Utility-based: obtain when it may change
+                   management. Not required for young/healthy patients unwilling to accept its uncertainty, or older/
+                   frail patients managed conservatively regardless. Multiple cores preferred over fine-needle
+                   aspiration
+ Counselling       Urologist leads, multidisciplinary as needed; tumour biology and patient-specific risk (low risk of
+                   many cT1a masses); morbidities of each pathway; age, comorbidity, frailty, life expectancy; renal
+                   functional recovery, CKD, dialysis, overall survival; nephrology referral as above
+ Genetic           All with renal malignancy aged ≤46; multifocal or bilateral masses; personal or family history
+ counselling       suggesting a syndrome; first- or second-degree relative with renal malignancy or known syndrome;
+                   pathology suggestive of a syndrome
+ PN and            Prioritise PN for cT1a when intervention indicated. Prioritise nephron-sparing for solitary kidney
+ nephron-          (anatomical or functional), bilateral tumours, familial RCC, pre-existing CKD or proteinuria. Consider
+ sparing           for young patients, multifocal masses, comorbidities likely to affect future renal function
+ RN                Consider when increased oncological potential (size, RMB, imaging). RN preferred only if all three:
+                   (1) high complexity, PN challenging even for experts; (2) no pre-existing CKD or proteinuria; (3)
+                   normal contralateral kidney and new baseline GFR likely >45 after RN. Otherwise PN, unless
+                   overriding safety or oncological concerns
+ Thermal           Alternative for cT1a solid masses <3 cm; percutaneous preferred; radiofrequency ablation (RFA)
+ ablation          and cryoablation both options; RMB before (preferred) or at TA; counsel on higher persistence/
+                   recurrence, treatable by repeat TA
+ Principles of     Maximise nephron mass; avoid prolonged warm ischaemia. Negative margins a priority; extent of
+ PN                normal parenchyma at surgeon's discretion; consider enucleation in familial RCC, multifocal disease
+                   or severe CKD
+ Surgical          Lymph node dissection of all clinically positive nodes for staging; adrenalectomy if imaging or
+ principles        operative findings suggest metastasis or invasion; minimally invasive approach when it does not
+                   compromise outcomes
+ Other             Pathological evaluation of adjacent parenchyma for nephrological disease; medical oncology
+                   referral for metastasis or incomplete resection; counsel high-risk or locally advanced resected
+                   patients on adjuvant therapy and trials
+Scope: clinically localised masses suspicious for RCC in adults, including solid enhancing tumours and Bosniak 3 and 4 cysts. From
+Campbell et al., AUA Guideline Part I, J Urol 2021.
+
+Risk Stratification and Renal Mass Biopsy
+ • About 20% of solid, enhancing cT1 masses are benign — usually oncocytoma or atypical AML. Young to
+   middle-aged women have more benign pathology (up to 40%); size is the stronger determinant (about
+   30% of masses <2 cm benign versus about 10% of cT1b).
+
+                                                             page 28 of 44
+Chapter 137 — Malignant Renal Tumours                                                                   STAGING
+
+ • Size tracks aggressiveness: in tumours <4 cm, fat invasion, venous or nodal involvement and high grade
+   are uncommon.
+ • Male sex and size are the strongest predictors of malignancy; age, BMI and incidental presentation are
+   inconclusive. Clinical/radiographic algorithms: concordance <0.65 — little better than a coin toss.
+ • RMB substantially improves risk stratification and should be considered whenever it may influence
+   management; it can spare intervention for benign tumours.
+
+ KEY POINTS: RENAL MASS BIOPSY
+   • Safe: haematoma about 5%, clinically significant pain about 1%, gross haematuria about 1%,
+     pneumothorax <1%, transfusion <0.5%.
+   • Tumour seeding almost unreported in contemporary series.
+   • A positive biopsy is reliable: specificity 94%, positive predictive value 98.8%.
+   • Non-diagnostic rate about 14%, substantially reduced by repeat biopsy.
+   • Subtype accuracy ≥90%; grade accuracy variable (60–80%).
+   • A non-malignant result may not mean the lesion is benign.
+
+ • Downsides: non-diagnostic in about 14%, occasional false negatives, spillage risk with cystic tumours.
+   Office-based ultrasound-guided RMB by urologists is increasing.
+ • Molecular profiling of RMB is a research priority, analogous to early prostate cancer. Molecular imaging
+   — anti-CA-IX antibody PET for aggressive subtypes (CCRCC, former type 2 PRCC); sestamibi SPECT/CT for
+   oncocytoma and hybrid tumours.
+
+FIGURE 137.15 — DISTRIBUTION OF THE CLINICAL T1 RENAL MASS
+ Biology                                Share             Matched management
+ Benign                                 About 20%         Active surveillance
+ Indolent RCC                           About 60%         Active surveillance or thermal ablation
+ Potentially aggressive RCC             About 20%         Surgical excision
+
+ • The proportions vary with size, sex and other factors; RMB with molecular profiling is the AUA panel's
+   stated research priority to allocate patients rationally.
+
+Renal Function After Partial or Radical Nephrectomy: Survival Implications
+ • Surgery remains the mainstay of cure. Robson (1969) established RN as the gold standard, supplanting
+   simple nephrectomy. RN is still preferred for very large or invasive tumours, but has fallen out of favour
+   for small masses because of CKD.
+ • RN predisposes to CKD, linked to cardiovascular events and mortality. In a landmark cohort of apparently
+   ideal elective-PN candidates, about a quarter already had CKD (GFR <60) — RCC patients are not
+   comparable to screened living kidney donors — and CKD was far commoner after RN than PN (65%
+   versus 20%).
+ • CKD severity and death: population data show relative death rates rising steeply as eGFR falls (about 1.2
+   at 45–60, 1.8 at 30–45, 3.2 at 15–30 and 5.9 at <15 mL/min/1.73 m²), after adjustment for confounders.
+ • Retrospective meta-analysis favoured PN: less severe CKD, better overall survival and better cancer-
+   specific mortality — but PN cannot be oncologically superior to RN, so the cancer-specific advantage
+   exposes selection bias, which likely inflates the overall-survival benefit too. An Agency for Healthcare
+   Research and Quality systematic review: cancer-specific survival depends on size and stage, not
+   strategy; overall survival on age and comorbidity.
+
+
+                                                  page 29 of 44
+Chapter 137 — Malignant Renal Tumours                                                                            STAGING
+
+LANDMARK TRIAL — EORTC 30904 (REPORTED 2011)
+ Element            Detail
+ Design             European Organisation for Research and Treatment of Cancer (EORTC) randomised trial; over 500
+                    patients, tumours ≤5 cm, unifocal, normal contralateral kidney
+ Arms               RN versus elective PN
+ Morbidity          Lower perioperative morbidity with RN
+ Function           Better renal function with PN
+ Oncological        Uncommon and similar
+ events
+ Overall            10-year overall survival better with RN (81% vs 76%); fewer cardiovascular deaths with RN —
+ survival           opposite to expectation
+ Verdict            Substantial flaws; primary finding widely dismissed, but suggests the functional advantage of PN in
+                    a healthy patient with a normal contralateral kidney may be smaller than believed
+
+COMPARISON — MEDICAL VERSUS SURGICAL CKD
+ Feature       CKD from medical causes (CKD-M)                            CKD from surgery alone (CKD-S)
+ Cause         Hypertension, diabetes — ongoing disease                   Nephron removal — a one-time insult
+ Trajectory Progressive decline (about 4.7% per year in pre-existing      Stable (about 0.7% per year)
+            CKD needing surgery)
+ Survival      Reduced                                                    Nearly identical to no CKD, especially if new
+                                                                          baseline GFR >45
+
+ • Functional difference between PN and RN is smaller than assumed: PN preserves about 90% of global
+   function; RN about 65–70%, with overlap — about half of RN patients recover to within 5% of baseline by
+   2 years. Compensatory hypertrophy after RN averages 20–30%.
+ • Predicting post-RN GFR (one of the RN criteria): nuclear renography is subjective; parenchymal volume
+   analysis (PVA) estimates split renal function (SRF) more accurately:
+ • New baseline GFR after RN ≈ global GFR × SRF(contralateral) × 1.25, where 1.25 is the average adult
+   compensation.
+ • Figure 137.16 example: left 223 cm³; right 234 cm³ minus 54 cm³ tumour = 180 cm³ → SRF 55% left, 45%
+   right. PVA software is affordable and can be built into routine reports, as for living donors.
+ • CKD and recurrence: reports linked worse CKD to reduced recurrence-free survival (impaired immune
+   surveillance), but multivariable work shows tumour characteristics drive recurrence; renal function is a
+   confounder, because large aggressive tumours both destroy parenchyma and attract RN.
+
+ KEY POINTS: PARTIAL NEPHRECTOMY VERSUS RADICAL NEPHRECTOMY
+   • PN is preferred for cT1a (≤4.0 cm) masses whenever feasible; RN is gross overtreatment for most.
+   • PN strongly preferred when function matters: pre-existing CKD or proteinuria, abnormal contralateral
+     kidney, multifocal or familial RCC.
+   • cT1b/T2 tumours have greater oncological potential and have often replaced much parenchyma; with
+     a normal contralateral kidney, PN versus RN is debatable.
+   • AUA criteria for RN are well defined; if not met, PN unless overriding safety or oncological concerns.
+   • Randomised trials are needed for higher-quality data.
+
+
+
+
+                                                       page 30 of 44
+Chapter 137 — Malignant Renal Tumours                                                                     STAGING
+
+Radical Nephrectomy
+ • Prototypical RN (Robson): early ligation of renal artery and vein → removal outside Gerota's fascia →
+   ipsilateral adrenalectomy → extended lymph node dissection (LND).
+ • Perifascial dissection is essential — about 25% of cT1b/T2 RCCs involve perinephric fat.
+ • Early arterial ligation remains accepted, though collateral supply in large tumours may prevent hilar
+   control before mobilisation.
+ • Adrenalectomy is not routine without radiographic enlargement or invasion, unless the tumour
+   extensively involves the kidney or is locally advanced.
+ • Routine extended LND is not justified: RCC often spreads haematogenously, lymphatic drainage is
+   variable, and no cohort with therapeutic benefit has been defined. LND when lymphadenopathy is
+   suspected on imaging or at surgery; selectively in locally advanced disease — primarily for staging.
+ • Open approach (Chapter 141): extended subcostal preferred by the authors; midline alternative;
+   thoracoabdominal for very large upper-pole tumours; extraperitoneal flank for elderly or high-risk
+   patients (limited exposure).
+ • Laparoscopic RN is established and less morbid for tumours without gross local invasion, with limited or
+   no venous involvement and manageable lymphadenopathy, reproducing the oncological tenets; selected
+   obese, previously operated or large-tumour patients may qualify. Its appeal has driven overuse of RN for
+   small masses.
+ • Recurrence after RN is stage-dependent → risk-adapted follow-up. A post hoc analysis of the ASSURE
+   adjuvant trial showed published recurrence algorithms perform little better than stage and grade, so the
+   AUA risk groups rest on those; histology (especially sarcomatoid or rhabdoid) also matters.
+
+FIGURE 137.18 — AUA FOLLOW-UP AFTER INTERVENTION: RISK GROUPS
+ Risk group          Definition                                                               Chest imaging
+ Low (LR)            pT1, grade 1–2                                                           Chest radiograph
+ Intermediate        pT1 grade 3–4, or pT2 any grade                                          Chest radiograph
+ (IR)
+ High (HR)           pT3 any grade                                                            CT chest
+                                                                                              preferred
+ Very high (VHR)     pT4 or pN1, or sarcomatoid/rhabdoid dedifferentiation, or macroscopic    CT chest
+                     positive margin                                                          preferred
+
+ • Microscopically positive margin → move up at least one risk level.
+
+FIGURE 137.18 — IMAGING SCHEDULE (MONTHS AFTER SURGERY)
+ Risk         3     6     9       12    18     24        30       36   48     60      72–84     96–120
+ LR                               ●            ●                       ●      ●       ●         ●
+ IR                 ●             ●            ●                  ●    ●      ●       ●         ●
+ HR                 ●             ●     ●      ●         ●        ●    ●      ●       ●         ●
+ VHR          ●     ●     ●       ●     ●      ●         ●        ●    ●      ●       ●         ●
+
+ • General principles of follow-up:
+ • Benign pathology → occasional clinical and laboratory review; no routine imaging.
+ • Malignant → history, examination, laboratory tests, imaging for recurrence, metastasis and treatment
+   sequelae; serum creatinine, eGFR and urinalysis (proteinuria) at every visit; other bloods at discretion.
+   Progressive renal insufficiency or proteinuria → nephrology.
+
+
+
+                                                       page 31 of 44
+Chapter 137 — Malignant Renal Tumours                                                                              STAGING
+
+ • Bone scan only with bone pain, raised alkaline phosphatase or suspicious imaging. Acute neurological
+   symptoms → prompt brain/spine CT or MRI. PET not routine.
+ • Metastatic findings → define extent, refer to oncology; resect or ablate isolated or oligometastatic
+   disease in selected patients. New primary or local recurrence → metastatic work-up; if isolated to kidney
+   or retroperitoneum, urologist involved in surgery or ablation decisions.
+ • Abdominal imaging: pre- and post-contrast CT or MRI preferred; after 2 years, ultrasound may alternate
+   in LR and IR; after 5 years, shared decision-making — 30% of recurrences occur beyond 60 months.
+ • After TA (biopsy malignant or non-diagnostic): contrast cross-sectional imaging within 6 months, then
+   the IR protocol, prioritising cross-sectional imaging until the ablated tumour has involuted.
+
+Partial Nephrectomy
+ • First described by Czerny (1890); little used until the 1980s. Drivers: better imaging, renovascular surgical
+   experience, ischaemia protection, incidental tumours, appreciation of CKD harms, good long-term
+   survival.
+ • Definition: complete local resection of the tumour with maximal preservation of functioning
+   parenchyma. Sequence (Figure 137.19): temporary occlusion of the pedicle → excision with a rim of
+   normal parenchyma → collecting system closure and ligation of transected vessels → capsular
+   reconstruction.
+
+COMPARISON — INDICATIONS FOR PARTIAL NEPHRECTOMY
+ Category              Situations
+ Imperative            RN would leave the patient anephric or likely dialysis-dependent: bilateral RCC; solitary
+ (absolute)            functioning kidney (agenesis, prior nephrectomy, irreversible contralateral damage)
+ Relative              Unilateral RCC with a contralateral kidney threatened by renal artery stenosis, hydronephrosis,
+                       calculi, diabetes or severe hypertension
+ Elective (standard    cT1a with a normal contralateral kidney, when amenable
+ of care)
+
+ • Bilateral synchronous RCC: bilateral PN whenever feasible, usually staged; if one side needs RN, do the
+   contralateral PN first, then RN. Margin width is immaterial provided the margin is negative — critical for
+   hilar tumours.
+ • Solitary kidney: counsel on dialysis — temporary dialysis about 3.5%; ESRD about 4.5% in a large series.
+   A remnant of at least 20–30% of one kidney is needed to avoid ESRD. Local recurrence 3–5% for
+   imperative indications.
+ • When PN is not feasible for an absolute indication: RN then dialysis (later transplantation after a cancer-
+   free interval), or neoadjuvant TKI to downsize (best in clear cell). Stop TKIs for several half-lives before
+   and after surgery (impaired healing); complications, mainly urine leaks, are commoner but manageable.
+   Upfront surgery whenever feasible.
+ • Elective PN for cT1a: equivalent oncological outcomes to RN, better function; local recurrence 1–2%,
+   cancer-free survival >90%. Most recurrences are undetected multifocal disease distant from the tumour
+   bed. This is balanced by a 1–2% incidence of contralateral RCC, where RN would have left a solitary
+   kidney with cancer.
+ • PN for larger (pT1b, pT2), complex or hilar tumours is safe and effective in selected patients; pursue
+   whenever function matters. Following the AUA RN criteria would greatly reduce RN overuse.
+ • Work-up: exclude local extension and metastasis; contrast three-dimensional volume-rendered CT (MRI
+   in severe CKD) to map vessels and collecting system.
+
+
+
+
+                                                       page 32 of 44
+Chapter 137 — Malignant Renal Tumours                                                                            STAGING
+
+ • Urological complications (urine leak, bleeding) are commoner after PN than other strategies — a highly
+   vascular reconstructed organ — but mostly conservatively managed. R.E.N.A.L. and other nephrometry
+   scores predict complexity and complications. Laparoscopic or robotic PN ≈ open PN in experienced
+   hands.
+
+FIGURE 137.20 — DETERMINANTS OF RENAL FUNCTION AFTER PN
+ Determinant                       Modifiable?           Weight
+ Quality of parenchyma before No — sets the ceiling      Fixed
+ surgery                      of recovery
+ Quantity of vascularised          Yes                   Primary determinant
+ parenchyma preserved
+ Ischaemic injury                  Yes                   Secondary, if warm ischaemia is limited or hypothermia
+                                                         used; prolonged warm ischaemia → irreversible loss
+
+ • Technique: precise excision with a small rim, careful reconstruction minimising devascularisation,
+   facilitated by a short ischaemic interval.
+ • Hypothermia when ischaemia is expected to be prolonged (≥25–30 minutes), especially with a solitary
+   kidney or CKD.
+ • Segmental clamping, zero-ischaemia PN and three-dimensional printing are promising. Randomised off-
+   clamp versus on-clamp trials show no functional advantage for off-clamp (comparator was limited warm
+   ischaemia). Susceptible cohorts and the role of acute kidney injury remain debated.
+ • Hyperfiltration after PN in a solitary kidney: >50% reduction in parenchymal volume → proteinuria,
+   focal segmental glomerulosclerosis and progressive renal failure; proteinuria rises with follow-up time
+   and falls with remnant size. Mitigation: angiotensin-converting enzyme inhibitors plus low-protein diet.
+
+Tumour Enucleation
+
+COMPARISON — STANDARD PARTIAL NEPHRECTOMY VERSUS TUMOUR ENUCLEATION (FIGURE 137.22)
+ Feature       Standard PN                       Tumour enucleation (TE)
+ Dissection    Strategic sharp dissection        Blunt dissection along the pseudocapsule
+               through parenchyma
+ Margin        2–3 mm rim of normal              Pseudocapsule, little or no parenchyma
+               parenchyma
+ Advantages Avoids the pseudocapsule —           Less blood loss; avoids collecting system entry; facilitates zero
+            oncological orthodoxy                ischaemia; may obviate capsular closure; maximal parenchyma
+ Function      Already saves about 90% of        Small increment — benefit mainly in severe pre-existing CKD
+               global function
+ Concern       Sharp dissection is "blind" at    Positive margins — 40–50% of localised RCC infiltrate into or
+               infiltrated zones                 beyond the pseudocapsule
+
+ • Established role: familial RCC; for sporadic RCC controversial. Positive margins after PN increase
+   recurrence, yet most TE series report low positive-margin rates and good outcomes. Proponents argue
+   the inflammatory reaction around infiltrated pseudocapsule steers blunt dissection away — "keep your
+   friends close, and your enemies closer"; alternatives are differing margin assessment and selection of
+   homogeneous, encapsulated tumours. A randomised trial with uniform pathology is needed.
+ • TE is probably performed more often than recognised. Record technique — enucleation, standard
+   resection or enucleoresection — from the gross specimen at the surface, intermediate region and base
+   (SIB protocol).
+
+
+
+                                                     page 33 of 44
+Chapter 137 — Malignant Renal Tumours                                                                             STAGING
+
+ • Capsular invasion is less common in low-grade tumours, ChRCC and oncocytoma; high-grade tumours
+   risk recurrence after TE, so RMB can assess suitability. Negative margins are always the top priority; the
+   extent of normal parenchyma removed is at surgeon's discretion.
+
+Thermal Ablative Modalities
+ • Cryoablation and RFA are established nephron-sparing alternatives for small localised tumours, usually
+   percutaneous, with a favourable morbidity profile relative to PN and limited effect on renal function —
+   reasonable for a small tumour in a solitary kidney, though PN remains preferred there.
+ • Oncological efficacy is strong, but excision remains the reference standard: local recurrence is higher
+   after primary TA (Figure 137.23: meta-analysis risk ratio about 0.55 favouring PN, with no difference once
+   secondary ablations are counted). Other concerns: RMB may miss heterogeneity; no pathological
+   staging. Most local recurrences are salvaged by repeat ablation; cancer-specific survival for cT1a is high
+   whatever the strategy; overall survival depends on age and health.
+ • Candidates: elderly or comorbid patients wanting proactive treatment (AS now often used instead); local
+   recurrence after PN; hereditary multifocal RCC; informed patient preference.
+ • Size: success highest and complications lowest below 2.5–3.0 cm; local recurrence-free rates >90% in
+   some centres. Lower success with avidly enhancing masses and clear cell histology → preliminary RMB.
+   Location near hilar vessels, bowel, pancreas or spleen raises risk — hydrodissection (saline) or
+   laparoscopic mobilisation may help.
+ • AUA 2021: TA is an alternative for cT1a masses <3.0 cm, even in healthy patients; RMB before TA
+   preferred.
+
+COMPARISON — CRYOABLATION VERSUS RADIOFREQUENCY ABLATION
+ Feature              Cryoablation                                      Radiofrequency ablation
+ Experience           Longer and more extensive                         Initially more variable; now comparable
+ Mechanism            Intracellular ice disrupts membranes and          High-frequency current → ionic agitation,
+                      organelles → delayed microcirculatory failure     friction, heat → protein denaturation and
+                      and anoxia                                        membrane melting
+ Lethal threshold     −20 °C or colder, reached 3–5 mm inside the       Effects above 41 °C, rising with temperature
+                      leading edge of the iceball                       and time; >100 °C at probe tip, dissipating
+                                                                        rapidly
+ Technique            Rapid freeze, slow thaw, repeat the freeze–       Multiple probes or tines; thermosensors in
+ requirements         thaw cycle; extend the iceball about 1 cm         areas of concern
+                      beyond the tumour
+ Monitoring           Real-time iceball on ultrasound                   No "iceball equivalent" — relies on empirical
+                                                                        probe alignment
+ Local control /      Control about 80–95%; persistence or              Persistence or recurrence 5–20%; low for
+ recurrence           recurrence 3–10%                                  tumours <3 cm
+ Complications        Renal fracture, haemorrhage, adjacent organ       Acute renal failure, ureteropelvic junction
+                      injury, ileus, wound infection                    stricture, necrotising pancreatitis, lumbar
+                                                                        radiculopathy
+ AUA verdict          Neither superior, given adequate expertise
+
+ • Recurrence after TA: central or nodular enhancement in the ablation bed on extended follow-up is
+   considered diagnostic; also growth, new nodularity, failure to regress, satellite or port-site lesions →
+   biopsy and consider retreatment. Few studies used routine post-ablation biopsy.
+ • Salvage: usually repeat ablation; salvage surgery is hampered by dense fibrosis, sometimes precluding
+   PN or minimally invasive surgery.
+
+
+                                                        page 34 of 44
+Chapter 137 — Malignant Renal Tumours                                                                                STAGING
+
+ • Developmental modalities: high-intensity focused ultrasound, stereotactic body radiotherapy,
+   microwave ablation, laser interstitial thermal therapy, irreversible electroporation — complete cell kill not
+   yet established.
+
+Active Surveillance
+ • Early AS series: small (≤3.5 cm) solid enhancing masses grew about 0.36 cm per year; those excised after
+   exceeding 3 cm were organ-confined, mostly low grade; no metastases.
+ • Pooled series: median growth 0.09–0.34 cm per year; metastasis <2% over 2–5 years.
+ • Limitations: selection bias (small, homogeneous masses); 20% or more may have been benign (no RMB);
+   a subgroup grows rapidly (in one series a quarter doubled in volume within a year), and delay may forfeit
+   the window for PN or TA.
+ • Elderly or high-risk patients can be safely observed with imaging every 6–12 months; competing
+   mortality and intervention risk often exceed RCC risk, and treating small masses in the elderly may
+   confer no survival benefit.
+ • Prospective data support AS even in healthy patients with low-potential masses (≤2 cm, incidental).
+
+LANDMARK REGISTRY — DELAYED INTERVENTION AND SURVEILLANCE FOR SMALL RENAL MASSES (DISSRM)
+ Element                     Detail
+ Population                  Incidental, solid, small renal masses; AS versus primary intervention by choice
+ Follow-up                   Median 3.3 years, many beyond 5 years
+ Outcome on AS               Only one patient died of RCC or developed metastasis
+ Delayed intervention        About 24% (growth or preference)
+
+ • Predominantly cystic masses are less aggressive → consider AS. Delayed intervention is usually
+   salvageable with nephron-sparing surgery. Some advocate AS as the default initial strategy for most
+   small masses.
+
+FIGURE 137.24 — AUA ACTIVE SURVEILLANCE ALGORITHM
+ Element                       Recommendation
+ Eligibility                   Solid mass <2 cm, or complex but predominantly cystic → AS is an option for initial
+                               management (strong consideration); small solid or Bosniak 3–4 masses → AS an option
+ Prioritise AS / expectant     When intervention risk or competing mortality outweighs oncological benefit; if
+ management                    asymptomatic, surveillance by shared decision-making
+ Equivocal risk–benefit,       Repeat imaging at 3–6 months, consider RMB; again 3–6 months later; then by growth
+ patient prefers AS            rate — intervene if substantial growth or the balance shifts
+ Benefit of intervention       Recommend intervention; AS only if the patient accepts the risk; encourage RMB; close
+ clear                         surveillance and counselling
+ Patient factors favouring     Elderly; life expectancy <5 years; high comorbidity; excessive perioperative risk; frailty;
+ AS                            preference; marginal renal function
+ Tumour factors favouring      Size <3 cm; growth <5 mm per year; non-infiltrative; low complexity; favourable
+ AS                            histology; predominantly cystic
+ Frequency                     AS: about every 3–6 months, cross-sectional imaging and/or ultrasound. Expectant
+                               management: every 6–12 months, more ultrasound
+ Triggers for change           Size >3 cm; stage progression; growth >5 mm per year; clinical change; new biopsy
+                               result; symptoms; metastatic progression
+
+
+
+
+                                                        page 35 of 44
+Chapter 137 — Malignant Renal Tumours                                                                                STAGING
+
+ Element                        Recommendation
+ Adjuncts                       Concurrent renal function (creatinine, proteinuria), liver function tests, chest imaging;
+                                contrast alternatives (Doppler, diffusion-weighted MRI) when needed
+
+ • AS versus expectant management: AS implies intent to intervene on progression; expectant
+   management is less intensive, often palliative in intent.
+
+Nephron-Sparing Surgery in VHL and Other Familial RCC
+ • VHL RCC: younger, multiple bilateral tumours, generally low stage but can metastasise and frequently
+   cause death. Histology: solid clear cell tumours plus cysts lined by carcinoma or hyperplastic clear cells
+   (incipient carcinoma).
+ • Options: bilateral nephrectomy with renal replacement, or nephron-sparing PN or TA to avoid ESRD —
+   preferred, even for central tumours; enucleation favoured to preserve parenchyma.
+ • Ipsilateral recurrence is frequent (occult microscopic disease). In a multicentre VHL series, cancer-specific
+   survival was high at 5 years and fell by 10 years, and freedom from ipsilateral recurrence after PN fell
+   steeply between 5 and 10 years — long-term surveillance is mandatory.
+ • The 3 cm rule (National Cancer Institute): no metastases in solid VHL tumours <3 cm observed for about
+   5 years, versus about a quarter metastasising above 3 cm, rising with size. Withhold PN until the tumour
+   reaches 3.0 cm. Applies also to HPRC and BHD; HLRCC is the exception — treat aggressively even when
+   <3 cm.
+ • Most VHL patients develop recurrence needing re-intervention; repeat PN is difficult (fibrosis), so TA may
+   reclaim control.
+ • Belzutifan (oral HIF-2α inhibitor) slows growth and reduces interventions: renal response 30–50%, most
+   tumours shrink or stabilise; commonest side effects anaemia and fatigue.
+ • Transplantation after removal of all renal tissue is generally safe despite the tumour diathesis.
+ • Before renal surgery in VHL, identify phaeochromocytoma and CNS haemangioblastoma. Genetic
+   counselling and screening for other manifestations are part of comprehensive care.
+Concept — Management of the localised mass is a three-way balance of oncological risk, renal function and
+competing mortality: small, indolent tumours are oversold by RN, so the guidelines push towards PN,
+ablation or surveillance and reserve RN for tumours whose aggression, complexity and a healthy
+contralateral kidney all justify giving up nephrons.
+
+Treatment of Locally Advanced Renal Cell Carcinoma
+Inferior Vena Cava Involvement
+ • Intraluminal growth into the renal vein and IVC, as far as the right atrium or beyond, is characteristic;
+   many such patients have no metastases. 45–70% of patients with IVC thrombus can be cured by RN
+   with IVC thrombectomy.
+ • Venous involvement in 4–10% of RCC.
+ • Suspect IVC thrombus with: lower-limb oedema; isolated right-sided or non-collapsing varicocele;
+   dilated superficial abdominal veins; proteinuria; pulmonary embolism; right atrial mass; non-
+   functioning kidney.
+
+COMPARISON — IVC THROMBUS LEVEL VERSUS TNM CATEGORY, AND OPERATIVE APPROACH
+ Level          Extent                   TNM Vascular control (Figure 137.27)
+ Renal vein     Renal vein or            T3a    Standard RN
+ only           branches
+
+
+
+                                                         page 36 of 44
+Chapter 137 — Malignant Renal Tumours                                                                           STAGING
+
+ Level           Extent                 TNM Vascular control (Figure 137.27)
+ I               Adjacent to the        T3b   Satinsky clamp or vascular stapler; preserve ≥50% of caval lumen; patch
+                 renal vein ostium            graft if needed
+ II              Up to the lower        T3b   Sequential clamping: caudal IVC → contralateral renal vein → cephalad
+                 liver, below the             IVC; occlude lumbar veins; open ostium; extract in a bloodless field
+                 hepatic veins
+ III             Intrahepatic IVC,      T3b   Mobilise the liver, milk thrombus below the hepatic veins, then as for
+                 below the                    level II; or clamp above the liver with a Pringle manoeuvre; venovenous
+                 diaphragm                    bypass often (not if good collaterals)
+ IV              Above the              T3c   Cardiopulmonary bypass with hypothermic circulatory arrest (still
+                 diaphragm                    preferred in complex cases); increasingly avoided — if thrombus can be
+                                              brought below the atrium, control without opening the heart or
+                                              advanced venovenous bypass
+ Any level,      Caval wall             T3c   Resect involved cava to negative margins; graft or reconstruct as needed
+ wall
+ invasion
+
+ • Level and TNM are distinct systems; hence debate. Two large multicentre cohorts confirm thrombus level
+   independently predicts survival and recurrence. Microscopic caval wall invasion strongly predicts
+   cancer-specific survival; nodes, metastases, grade, non-clear-cell histology, anaemia and BMI also matter.
+ • Level IV thrombi are curable in a significant proportion without metastases; with modern systemic
+   therapy 5-year overall survival can reach 40%.
+ • Imaging: as close to surgery as possible (thrombus may progress). MRI preferred at many centres; good
+   CT is essentially equivalent; enhancement distinguishes tumour thrombus from bland thrombus.
+   Venacavography only if MRI/CT equivocal or contraindicated. Thrombus is vascularised in 35–40%.
+ • Preoperative renal artery embolisation: not recommended routinely — no measurable benefit and more
+   major complications and mortality.
+ • Coronary angiography before planned cardiopulmonary bypass with deep hypothermic arrest (levels III–
+   IV), to allow revascularisation at bypass. Intraoperative echocardiography: thrombus extent, emboli,
+   cardiac function, residual tumour.
+ • Sequence: early arterial ligation, then mobilise the kidney until attached only by the renal vein;
+   alternatively, deal with the thrombus before mobilisation to reduce embolism.
+ • Complete caval occlusion may not need reconstruction (collaterals established). Distal bland thrombus:
+   remove if safe; if left, ligate the IVC above it or place a filter to prevent pulmonary embolism.
+ • Hypothermic circulatory arrest drawbacks: post-bypass coagulopathy, stroke and myocardial infarction.
+ • Mortality 5–10% for supradiaphragmatic thrombi in some series. Select carefully (metastatic patients
+   have limited survival), but surgery also palliates: prevents pulmonary emboli, relieves oedema, ascites,
+   cardiac dysfunction, pain and haematuria.
+ • Robotic nephrectomy with IVC thrombectomy is feasible for selected level I–III; oncological data
+   immature. Stereotactic ablative radiotherapy for inoperable, palliative or neoadjuvant use: up to 60%
+   response, mostly mild adverse events.
+
+     KEY POINTS: TREATMENT OF LOCALLY ADVANCED RENAL CELL CARCINOMA
+       • 45–70% of patients with venous tumour thrombus can be cured by nephrectomy and thrombectomy,
+         including atrial extension.
+       • Thrombus below the main hepatic veins: isolate the involved vasculature and remove the thrombus.
+
+
+
+
+                                                      page 37 of 44
+Chapter 137 — Malignant Renal Tumours                                                                     STAGING
+
+     • Thrombus above the main hepatic veins: more extensive dissection, venovenous bypass or
+       cardiopulmonary bypass with circulatory arrest.
+     • cT4 with suspected invasion: complete en bloc excision is the only chance of cure.
+     • Bulky lymphadenopathy carries a prognosis similar to metastatic disease, but resection should be
+       considered if feasible.
+     • High-quality CT or MRI close to the operation date is essential.
+     • Adjuvant systemic therapy is FDA approved; trials encouraged; neoadjuvant therapy in selected
+       patients.
+
+
+Locally Invasive Renal Cell Carcinoma
+ • T4 tumours are uncommon (<2% of surgical series) and usually present with pain from posterior
+   abdominal wall, nerve root or paraspinal muscle invasion.
+ • Large tumours metastasise more readily than they invade: only about 40% of suspected direct invasion
+   is confirmed pathologically — classic scenario: upper-pole tumour "invading" the liver with intact
+   planes at exploration.
+ • Differential of a large invasive retroperitoneal mass: adrenocortical carcinoma, urothelial carcinoma,
+   sarcoma, lymphoma, as well as invasive RCC.
+ • Surgery is the only curative option → en bloc resection of bowel, spleen, distal pancreas or abdominal
+   wall. Prepare: bowel preparation, vaccination for splenectomy, endocrine replacement if both adrenals
+   involved.
+ • Prognosis remains poor even with complete resection — most die of disease within about a year, and
+   median survival is far shorter with metastases → neoadjuvant systemic therapy is a valid "litmus test" for
+   potentially unresectable RCC.
+ • Debulking (incomplete excision) is rarely indicated — 1-year survival only 10–20%. Radiotherapy
+   traditionally has little role (bowel toxicity), though stereotactic techniques may change this.
+
+Lymph Node Dissection for Renal Cell Carcinoma
+ • Nodal metastasis defines a high-risk group; LND stages accurately, but therapeutic benefit is
+   controversial.
+ • Only 30–43% of radiographically enlarged nodes are malignant. In high-risk patients, the chance of
+   malignancy rises with node size (about 20% at 7 mm, 29% at 10 mm, 90% at 30 mm). Node positivity is
+   also stage-specific.
+
+TABLE 137.15 RISK OF REGIONAL LYMPH NODE METASTASES BY NUMBER OF PATHOLOGICAL RISK FACTORS
+ Number of risk             Share of        Node-positive, retrospective     Node-positive, prospective
+ factors*                   patients        series†                          series‡
+ 0                          44%             0.4%                             —
+ 1                          18%             1.0%                             —
+ 2                          17%             4.4%                             20%
+ 3                          13%             12%                              37%
+ 4                          7.3%            13%                              49%
+ 5                          0.9%            53%                              50%
+
+
+
+
+                                                   page 38 of 44
+Chapter 137 — Malignant Renal Tumours                                                                                             STAGING
+\*Risk factors: (1) primary tumour ≥10 cm; (2) clinical T3/T4; (3) high grade (grade 3 or 4); (4) sarcomatoid features; (5) histological
+tumour necrosis. †Blute et al., J Urol 2004 (LND in 58% of 1652). ‡Crispen et al., Eur Urol 2011 (LND in 41% of 415 with ≥2 risk
+factors).
+
+ • What the table is for: the five risk factors select patients for LND — ≥2 factors → >40% nodal
+   involvement in the prospective cohort. Body text versus table: the retrospective and prospective columns
+   differ at the same risk count because the prospective cohort was selected (≥2 factors) and more
+   thoroughly dissected — a different denominator, not a contradiction.
+ • Template problem: 45% of positive nodes lie away from the renal hilum (Figure 137.28), so hilar
+   dissection alone under-stages.
+
+LANDMARK TRIAL — EORTC 30881
+ Element        Detail
+ Question       Lymphadenectomy at RN
+ Result         No survival advantage
+ Criticism      Underpowered, low-risk population (81% grade 1–2; 72% organ-confined); only 4% node-positive
+
+ • Large retrospective series: no consistent therapeutic benefit in non-metastatic RCC (Mayo analysis,
+   including intermediate- and high-risk cohorts); a European series suggested benefit with bulky tumours
+   and sarcomatoid features; rare isolated nodal disease may be durably controlled by resection.
+ • Bottom line: LND for clinically suspicious nodes (radiographic or intraoperative), for staging; not
+   routinely for localised, clinically node-negative RCC.
+
+Local Recurrence After Radical Nephrectomy or Nephron-Sparing Surgery
+
+COMPARISON — LOCAL RECURRENCE BY PRIMARY TREATMENT
+ Feature           After RN                                         After PN                               After TA
+ Sites             Renal fossa, ipsilateral adrenal, renal          Remnant kidney, usually                Ablation zone (incomplete
+                   vein stump or IVC, ipsilateral                   distant from the tumour bed            eradication)
+                   retroperitoneal nodes
+ Incidence         2–4%; rare if organ-confined                     1.4–10%                                Highest after a single
+                                                                                                           treatment: cryoablation
+                                                                                                           3–10%, RFA 5–20%
+ Risk factors      Locally advanced or node-positive                Advanced T stage, high grade;          Size, location, complexity
+                   disease; adverse histology                       positive margins in high-grade
+                                                                    or high-stage disease
+ Isolated?         Only 20–40% isolated — full metastatic           —                                      —
+                   work-up
+ Management Resection of isolated recurrence →                      Repeat PN, completion                  Repeat TA, AS or salvage
+            long-term cancer-free status in 30–                     nephrectomy, TA or AS                  surgery (hampered by
+            50%; often en bloc with adjacent                                                               fibrosis)
+            organs
+
+ • After RN: resection is formidable (lost tissue planes, frequent organ invasion). Favourable features: small,
+   unifocal recurrence; multifocal recurrence associates with distant metastasis. Recurrence reflects
+   tumour biology, not surgical approach (minimally invasive or PN). Intraoperative radiotherapy gives no
+   benefit; radiotherapy palliates inoperable symptomatic recurrence.
+ • Positive margins after PN: once thought inconsequential; now linked to worse recurrence-free and
+   metastasis-free survival in high-grade or high-stage disease. Usually managed by close surveillance;
+   completion nephrectomy only if grossly involved margins with a healthy contralateral kidney.
+
+
+
+                                                              page 39 of 44
+Chapter 137 — Malignant Renal Tumours                                                                             STAGING
+
+ • After TA: despite more local recurrence, no difference in metastatic recurrence or cancer-specific survival
+   with appropriate selection.
+
+Neoadjuvant and Adjuvant Therapy for Renal Cell Carcinoma
+ • Recurrence after apparently curative surgery reflects occult micrometastases; overall, distant metastasis
+   in 20–35% and local recurrence in 2–5% → rationale for adjuvant therapy in high-risk patients.
+ • Historically negative adjuvant trials: IL-2, interferon-α, medroxyprogesterone acetate, radiotherapy,
+   autologous tumour vaccines, and girentuximab (anti-G250 / CA-IX chimeric antibody).
+
+LANDMARK TRIALS — ADJUVANT THERAPY
+                                        Agent vs
+ Trial            Population            comparator           Endpoint result              Verdict
+ S-TRAC (phase 615 patients, high-      Sunitinib vs         Disease-free survival        Positive for DFS; other
+ 3)            risk clear cell RCC:     placebo              longer (6.8 vs 5.6 years);   adjuvant TKI trials negative
+               pT2 high grade,                               no overall survival
+               pT3–4 or N1                                   difference
+ KEYNOTE-564      RCC at high risk of   Pembrolizumab        Disease-free survival        Positive → FDA approval 2021;
+                  recurrence (about     vs placebo           hazard ratio 0.63; 2-year    greatest benefit when
+                  500 per arm)                               DFS 75% vs 67%; survival     metastatic disease resected to
+                                                             91% vs 86% as reported       R0; only positive ICI adjuvant
+                                                                                          trial so far
+
+ • Neoadjuvant therapy (VEGF-targeted agents or checkpoint inhibitors) may facilitate surgery or eradicate
+   micrometastases:
+ • TKIs (pazopanib, sunitinib, sorafenib, axitinib): primary volume reduction 10–30%; may enable resection
+   in 40–45%, including PN candidates and thrombi; about 20% have a serious adverse event, mostly
+   wound healing.
+ • Neoadjuvant nivolumab (three or four cycles): safe, surgery unaffected, robust immunological responses
+   but minimal tumour shrinkage; several neoadjuvant trials ongoing.
+
+ KEY POINTS: TREATMENT OF LOCAL RECURRENCE AND ADJUVANT THERAPY
+   • Isolated local recurrence after RN: 2–4%; full metastatic work-up; if negative, excision (often en bloc).
+   • Local recurrence after PN is usually distant from the tumour bed; options: repeat PN, completion
+     nephrectomy, TA or AS.
+   • Local recurrence after TA usually reflects incomplete eradication; options: repeat TA, AS or salvage
+     surgery.
+   • After a long history of failure, some recent trials show benefit from adjuvant systemic therapy in high-
+     risk RCC.
+   • Adjuvant and neoadjuvant trials should be supported.
+
+Concept — In locally advanced RCC, surgery remains the only curative act — thrombectomy at any level, en
+bloc resection for T4, resection of isolated recurrence — while lymphadenectomy stages rather than cures,
+and systemic therapy is now moving from salvage into the adjuvant and neoadjuvant space.
+
+
+
+
+                                                       page 40 of 44
+Chapter 137 — Malignant Renal Tumours                                              OTHER MALIGNANT RENAL TUMOURS
+
+OTHER MALIGNANT RENAL TUMOURS
+
+Sarcomas of the Kidney
+ • 1–2% of adult renal malignancies, peak in the fifth decade; less common but more lethal than sarcoma
+   at any other genitourinary site.
+ • Sarcoma versus sarcomatoid RCC is often hard to distinguish; any feature of an RCC subtype excludes
+   primary renal sarcoma.
+ • Presentation mirrors large RCC (mass, pain, haematuria). Features favouring sarcoma: origin from the
+   capsule or sinus; large size without lymphadenopathy; fat or bone (liposarcoma, osteosarcoma);
+   hypovascularity — except haemangiopericytoma (highly vascular). Suspect with any very large or
+   rapidly growing mass.
+ • Biology: mesenchymal, lacking natural barriers; pseudocapsule infiltrated by tumour, extending unseen
+   into surrounding tissue → frequent local recurrence even after wide excision. High-grade: lung
+   metastases, death within months; low-grade: indolent with repeated local recurrence.
+ • Key prognostic factors: margin status and grade. The first resection is the best chance of cure → often
+   RN with en bloc excision of adjacent organs; MRI for planning; intraoperative margin assessment.
+ • Chemotherapy: traditionally doxorubicin and ifosfamide; gemcitabine and docetaxel; TKIs investigational
+   — responses disappointing.
+ • Radiotherapy: chemoradiation effective adjuvantly in extremity sarcoma but less so retroperitoneally;
+   preoperative radiotherapy may reduce positive margins; intraoperative radiotherapy shows some
+   benefit. Multimodal approach if fit.
+ • Subtypes: leiomyosarcoma commonest (50–60%), then liposarcoma — the reverse of retroperitoneal
+   sarcoma, where liposarcoma is commonest. Outcomes in all series are poor, with most dying within
+   months to a few years.
+ • Leiomyosarcoma: from smooth muscle of the capsule or perinephric structures; female predominance,
+   fourth to sixth decades; displaces rather than invades parenchyma; histology shows spindle cells with
+   blunt-ended nuclei and eosinophilic cytoplasm; rapid growth, frequent metastasis and recurrence; most
+   die within 2 years of RN.
+ • Liposarcoma: fat distinguishes it from RCC, but confused with AML or lipoma; grows very large; adjuvant
+   radiotherapy and cisplatin-based chemotherapy for high grade or positive margins.
+ • Osteogenic sarcoma: calcified, rock hard; extensive calcification in a large hypovascular mass; plain film
+   may mimic a staghorn calculus (mass effect suggests xanthogranulomatous pyelonephritis or, rarely,
+   osteosarcoma).
+ • Others: rhabdomyosarcoma, fibrosarcoma, malignant fibrous histiocytoma; malignant
+   haemangiopericytoma — highly vascular; preoperative embolisation may help.
+
+TABLE 137.16 CHARACTERISTICS OF OTHER MALIGNANT RENAL TUMOURS
+ Tumour                         Characteristics                                 Management
+ Sarcoma                        Leiomyosarcoma commonest; hypovascular; rapid   Wide local excision, confirmed
+                                growth; may arise from capsule                  negative margins
+ Lymphoma and leukaemia         Multiple patterns; hypovascular; massive        Biopsy; avoid extirpative surgery;
+                                retroperitoneal or distant lymphadenopathy,     chemotherapy ± radiotherapy
+                                atypical sites
+ Metastases                     Lung, breast, gastrointestinal, melanoma,       Biopsy strongly considered;
+                                haematological; hypovascular, multifocal        systemic therapy or palliation
+
+
+
+                                                      page 41 of 44
+Chapter 137 — Malignant Renal Tumours                                                 OTHER MALIGNANT RENAL TUMOURS
+
+ Tumour                            Characteristics                                 Management
+ Carcinoid                         Hypovascular; carcinoid syndrome possible;      Surgical excision
+                                   neuroendocrine
+ Small cell carcinoma              Neuroendocrine; hypovascular; mostly advanced   Surgery plus platinum-based
+                                                                                   chemotherapy
+ Primitive neuroectodermal Neural crest; hypovascular; poor prognosis              Multimodal
+ tumour (PNET)
+ Wilms tumour                      Heterogeneous solid mass; mainly children,      Multimodal, as paediatric
+                                   occasionally adults                             protocols
+
+ • The pattern: almost every non-RCC malignancy is hypovascular — hypervascularity points to RCC (or
+   haemangiopericytoma). Lymphoma and metastasis are the two to biopsy rather than resect.
+
+Renal Lymphoma and Leukaemia
+ • Renal involvement found at autopsy in about one-third of those dying of lymphoma or leukaemia, but
+   clinically uncommon — usually silent and late. Urologist's role: differentiate from other tumours, obtain
+   tissue, preserve renal function.
+ • Non-Hodgkin > Hodgkin; diffuse > nodular. Primary renal lymphoma is rare (little native lymphoid
+   tissue). Haematogenous spread in about 90%, the remainder by direct extension from retroperitoneal
+   nodes. Commonest pattern: multiple small interstitial nodules that coalesce, and may replace the kidney
+   → renal failure.
+ • CT is the modality of choice for diagnosis and response; MRI for renal insufficiency, contrast allergy or the
+   young.
+
+TABLE 137.17 CT FINDINGS ASSOCIATED WITH RENAL LYMPHOMA
+ Finding                                                                                    Incidence (%)
+ Multiple renal masses                                                                      45
+ Invasion from enlarged retroperitoneal nodes                                               25
+ Solitary renal mass (difficult to separate from RCC)                                       15
+ Diffuse renal involvement                                                                  10
+ Predominantly perinephric                                                                  5
+From Heiken et al., 1983, and Pollack et al., 1987.
+
+ • Suspect lymphoma with massive retroperitoneal lymphadenopathy, splenomegaly, distant or atypical
+   lymphadenopathy. RCC landing zones: interaortocaval for right-sided and para-aortic for left-sided
+   tumours — nodes centred elsewhere suggest lymphoma. A prior lymphoma plus a renal mass →
+   recurrence until proven otherwise. Risk increased by immunosuppression, acquired immunodeficiency
+   syndrome, autoimmune disease, graft-versus-host disease, prior radiotherapy.
+ • Leukaemia involves the kidney more in children, mostly lymphocytic, diffusely infiltrative, late.
+ • Management: percutaneous biopsy or aspiration; at exploration, frozen section first; avoid extirpative
+   surgery. Chemotherapy ± radiotherapy — CHOP (cyclophosphamide, doxorubicin, vincristine,
+   prednisolone), with rituximab (R-CHOP) improving renal function and survival. Nephrectomy only for
+   severe symptoms (uncontrollable haemorrhage), or rare primary renal lymphoma (nephrectomy plus
+   chemotherapy); some renal mucosa-associated lymphoid tissue (MALT) lymphomas cured by surgery
+   alone.
+
+
+
+
+                                                         page 42 of 44
+Chapter 137 — Malignant Renal Tumours                                                   OTHER MALIGNANT RENAL TUMOURS
+
+ • Presentation: usually silent; haematuria, flank pain or renal failure; B symptoms (fever, weight loss,
+   fatigue) are more common. Renal failure from replacement or bilateral ureteral obstruction, but more
+   often hypercalcaemia or urate nephropathy from tumour lysis syndrome.
+
+Metastatic Tumours
+ • Metastases are the commonest malignant renal neoplasms: 12% of patients dying of cancer have renal
+   metastases at autopsy. Almost all haematogenous (rich vascularity); direct invasion (pancreas, colon,
+   adrenal) less common.
+ • Sources: lung, breast, gastrointestinal, melanoma, haematological — lung commonest among solid
+   tumours. Usually multifocal with widespread disease, but lung, breast and colon metastases may be
+   large and solitary, mimicking RCC.
+ • CT: isodense, only moderately enhancing (5–30 HU). Suspect with multiple lesions plus metastases or
+   known non-renal cancer; percutaneous biopsy confirms.
+ • Management: systemic therapy or palliation; nephrectomy almost never (except haemorrhage
+   refractory to embolisation).
+ • Trap: a solitary, strongly enhancing mass with a history of organ-confined non-renal cancer is more
+   likely RCC, especially after a long interval — in a consecutive series, no patient without other evidence of
+   progression had a renal metastasis.
+
+Other Malignant Tumours of the Kidney
+COMPARISON — NEUROENDOCRINE, EMBRYONAL AND ADULT WILMS TUMOURS
+                                             Small cell
+ Feature        Carcinoid                    carcinoma               PNET                        Adult Wilms tumour
+ Frequency      <60 cases reported           About 30 primary        Rare in adults              3% of Wilms tumours
+                                             cases                                               are adult
+ Association    Horseshoe kidney (82-fold —                          Ewing sarcoma family        20% at 15–20 years,
+                relative risk)                                                                   80% in third to seventh
+                                                                                                 decades
+ Markers        Neuron-specific enolase,     Neuron-specific         CD99, vimentin,             Triphasic: blastema,
+                chromogranin; urinary/       enolase,                cytokeratin, neuron-        epithelium, stroma
+                plasma serotonin             chromogranin,           specific enolase; Homer-
+                                             synaptophysin           Wright rosettes; t(11;22)
+                                                                     (q24;q12)
+ Presentation Median age 49; carcinoid       Mostly locally          Heterogeneous necrotic      Heterogeneous
+              syndrome in a minority         advanced or             mass, equivocal             hypovascular mass,
+              (flushing, wheezing,           metastatic; flank       enhancement; early local    usually unsuspected
+              diarrhoea); metastases at      pain, haematuria        and nodal, lung, liver,
+              diagnosis in 46%                                       bone spread
+ Treatment      Surgical excision;           Debulking plus          Debulking + Ewing-type      Multimodal, as
+                nephron-sparing if           platinum-based          chemotherapy + renal        paediatric protocols
+                suspected                    chemotherapy            bed radiotherapy
+ Prognosis      Generally good, especially   Poor                    Poor; 5-year disease-free   Worse than in children
+                in horseshoe kidney                                  survival 45–55%             (advanced stage,
+                                                                                                 abrupt decline in
+                                                                                                 performance status)
+
+ • Carcinoid adverse factors: age >40, size >4 cm, high mitotic rate, purely solid, metastasis at diagnosis,
+   extension through the capsule.
+
+
+
+                                                     page 43 of 44
+Chapter 137 — Malignant Renal Tumours                                        OTHER MALIGNANT RENAL TUMOURS
+
+ • Small cell carcinoma must be distinguished from Wilms tumour, PNET, lymphoma and metastatic
+   pulmonary small cell carcinoma; hypovascularity may be a clue. Large cell neuroendocrine carcinoma
+   also occurs rarely.
+ • PNET behaves more aggressively in the kidney than elsewhere; the t(11;22) translocation separates it
+   from neuroblastoma and adult Wilms tumour.
+ • Wilms tumour is the commonest abdominal malignancy of childhood; adult pathological staging is the
+   same as paediatric; differentiation from RCC is often impossible preoperatively.
+Concept — The non-RCC malignancies share two warning signs — hypovascularity and an atypical pattern
+(infiltrative, multifocal, massive adenopathy) — and the key decision is whether the lesion is surgical
+(sarcoma, carcinoid, primary RCC mimic) or medical (lymphoma, leukaemia, metastasis), which is why biopsy
+is favoured whenever the latter is suspected.
+
+
+
+
+                                               page 44 of 44
+
