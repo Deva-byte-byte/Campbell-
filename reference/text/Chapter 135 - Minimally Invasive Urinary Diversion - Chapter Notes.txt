@@ -1,0 +1,849 @@
+Chapter 135 — Minimally Invasive Urinary Diversion
+
+
+ Chapter 135 — Minimally Invasive Urinary Diversion
+   • The share of radical cystectomies performed by a minimally invasive approach rose steadily in the
+     early 2010s (National Cancer Database, NCDB).
+   • Robot-assisted radical cystectomy (RARC) with lymph node dissection is now an established
+     technique; oncological outcomes are safe and effective in both early and long-term follow-up.
+   • The Quality Cystectomy Score (Roswell Park Comprehensive Cancer Center) uses star-based criteria
+     spanning neoadjuvant chemotherapy consultation → adequate lymph node yield → 30-day mortality.
+   • Patients undergoing minimally invasive cystectomy were more likely to receive neoadjuvant
+     chemotherapy (NCDB).
+   • Oncological equivalence of RARC to open cystectomy has been validated in several randomised
+     controlled trials (RCTs), including the landmark RAZOR trial — but in these trials the diversion was
+     performed extracorporeally; the role of intracorporeal urinary diversion (ICUD) was not tested by
+     them.
+   • Laparoscopic urinary diversion dates from 1992; adoption was hindered by prolonged operative time,
+     limited instrument manoeuvrability and a steep learning curve → hybrid procedures: laparoscopic
+     extirpation and lymph node dissection, then diversion through a modified open approach.
+   • Perceived advantages of the robot-assisted approach: less pain, minimal blood loss, earlier return of
+     bowel function → quicker return to previous quality of life (QoL).
+ Concept — Extirpation went robotic first and was proven equivalent; diversion lagged because it is the
+ technically hardest, longest part, which is why the chapter's question is whether the reconstruction can
+ also be done inside.
+
+ DECLINE IN CONTINENT RESERVOIRS
+   • Continent reservoirs have declined steadily since the early 2000s, most visibly in Europe and North
+     America — a trend well under way before the robotic era.
+   • Robot-assisted radical prostatectomy was adopted rapidly; RARC was adopted cautiously — cystectomy
+     patients are complex, the operation is long, and it needs an advanced facility.
+   • Early robotic adopters concentrated on extirpation and lymph node removal; diversion was neglected
+     because of its technical complexity, learning curve and operative time.
+   • International Robotic Cystectomy Consortium (IRCC): intracorporeal neobladders increased
+     significantly over time and were performed more often with higher annual institutional RARC volume
+     and in the more recent era (2016–2020 vs 2011–2015) — comfort evolves from extirpation to ICUD.
+   • Landmark RCT of open versus complete intracorporeal cystectomy (iROC): only about one in nine (11%)
+     diversions were continent, in both arms.
+   • Core problem: no high-quality evidence that continent diversion gives better QoL than incontinent
+     diversion; body image has not proved critical, and stoma appliances and education have been
+     streamlined.
+ Concept — The fall in continent diversion is not a robotic artefact: it predates robotics and is sustained by
+ the absence of QoL evidence in favour of continent reservoirs.
+
+
+
+
+                                                     page 1 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                   Incorporation of Robot-Assisted Approach
+
+ INCORPORATION OF ROBOT-ASSISTED APPROACH
+   • NCDB 2010–2013: slower adoption by academic institutions, attributed to robot availability
+     (cystectomy occupies the robot far longer than kidney or prostate surgery) and many surgeons with
+     limited minimally invasive training.
+   • Cystectomy volumes are low: modest median hospital volume, with individual surgeons averaging only
+     a couple of cases per year.
+   • Despite slow adoption, conversion to open surgery was rare.
+   • Two readings: experience with robotic prostatectomy paved the way by showing how to reduce
+     cystectomy morbidity; the downside is suboptimal oncological surgery during the learning curve and
+     diversions below open-surgery standards.
+   • Simplified operative steps are thought to produce a smaller-radius pouch → geometrically low-
+     capacity, high-pressure reservoir.
+   • IRCC: a multinational quality-assurance consortium. Early data: only a minority of RARCs were
+     completely intracorporeal. Later: among robotic cystectomy-focused centres, ICUD rose from a small
+     minority (2005) to nearly all cases (2016), an annual increase of about 11% — driven mainly by ileal
+     conduit, and starting earlier in Europe than North America.
+   • Unresolved: whether the robotic approach inclines surgeons toward ileal conduit at the expense of
+     continent diversion. A high-volume single centre found surgeon preference explained incontinent
+     diversion in only a small minority of patients eligible for continent diversion.
+
+   KEY POINTS
+    • Advantages of the robot-assisted approach: less pain, minimal blood loss, earlier return of bowel
+      function.
+    • Incorporation of ICUD has increased recently — annual increase of about 11%.
+    • Ileal conduit is the commonest diversion performed robotically.
+
+ Concept — Adoption tracks volume and experience: ICUD grew first where robotic cystectomy was
+ concentrated, and first for the simplest diversion, the ileal conduit.
+
+ PATIENT SELECTION
+   • Selection has broadened as the learning curve flattened: high body mass index (BMI), locally advanced
+     disease, older age and prior abdominal surgery are no longer exclusions.
+   • Contraindication to the minimally invasive approach: reduced cardiac and pulmonary compliance →
+     inability to tolerate steep Trendelenburg, especially with the prolonged operative time of ICUD.
+     Mitigated by the da Vinci Xi system and AirSeal, which permit a less steep position.
+   • Neobladder contraindications are the same as for open surgery.
+ CONTRAINDICATIONS BY LEVEL OF DECISION
+  Decision                     Contraindication
+  Minimally invasive           Reduced cardiopulmonary compliance → intolerance of steep Trendelenburg (relative;
+  approach                     eased by da Vinci Xi and AirSeal)
+  Use of ileum                 Short bowel; severe inflammatory bowel disease; post-radiation enteritis
+  Neobladder —                 Urethral involvement distal to the prostate; serum creatinine >2 mg/dL; poor hepatic
+  absolute                     function
+
+
+
+
+                                                        page 2 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                                              Surgeon Choice
+
+  Decision                     Contraindication
+  Neobladder — relative        As for open surgery; not enumerated in the chapter
+
+   • The table separates three distinct decisions — route, bowel segment and reservoir type; the trap is
+     treating a contraindication to one as a contraindication to all.
+
+ SURGEON CHOICE
+   • Pasadena Consensus Panel best practice: focus on oncological outcomes first, then add reconstruction
+     stepwise.
+   • Sequence: RARC with extracorporeal diversion → intracorporeal ileal conduit (experience of about
+     30–100 cases) → continent diversion (about 25–50 cases).
+   • Once proficient, acceptable overall operative time: ≤4 hours with ileal conduit; ≤5 hours with
+     neobladder.
+ Concept — The learning pathway is oncology before reconstruction, conduit before reservoir.
+
+ PREOPERATIVE CARE
+
+ Enhanced Recovery After Surgery
+   • Enhanced recovery after surgery (ERAS) pathways now have more than 20 components, tailored to
+     cystectomy.
+   • Recent modifications: early alvimopan, intraoperative goal-directed fluid therapy, immediate oral
+     diet, reduced opioid use.
+   • ERAS versus traditional pathway: less daily opioid, less ileus, shorter stay — but more pain.
+   • Breakthrough analgesia shifted from opioid patient-controlled analgesia (PCA) and epidurals to high-
+     dose paracetamol and/or ketorolac.
+   • RARC with ICUD on ERAS: shorter stay, more likely to receive a neobladder, fewer gastrointestinal
+     complications and fewer 90-day readmissions. ERAS participation and younger age independently
+     predicted a stay of <10 days.
+   • Meta-analysis: ERAS reduces complications and length of stay without changing overall readmission;
+     integrated multidisciplinary pathways improve outcomes and satisfaction.
+   • Caution: a stay of <5 days carried about a twofold risk of 90-day major complications — shortening
+     stay is not an end in itself.
+   • Post-discharge emphasis: trained nurse visits, and home attention to hydration, exercise and
+     ambulation.
+ PERIOPERATIVE BUNDLE
+  Element                         Recommendation                             Reason
+  Fasting                         Solids until 6 h, clear fluids until 2 h   —
+                                  before anaesthesia
+  Bowel preparation               No mechanical bowel preparation, no        Electrolyte imbalance (elderly); liquid
+                                  oral antibiotics                           spillage when bowel opened
+                                                                             intracorporeally; no clear benefit
+  Mechanical                      Intermittent pneumatic compression         —
+  thromboprophylaxis              and stockings
+  Pharmacological                 Low-molecular-weight heparin, weight- Avoids significant thromboembolism
+  thromboprophylaxis              based, before and up to 4 weeks after
+                                  surgery
+
+
+                                                            page 3 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                           Patient Position and Port Placement
+
+  Element                          Recommendation                          Reason
+  Antibiotics                      Broad-spectrum intravenous, within 1    —
+                                   h of the procedure
+
+
+   KEY POINTS
+    • Mechanical bowel preparation and oral antibiotics should be avoided.
+    • Anticoagulation helps avoid significant thromboembolic complications.
+    • Preoperative broad-spectrum intravenous antibiotics within 1 hour of the procedure.
+    • ERAS enrolment reduces length of stay, complications and readmissions.
+
+ Concept — ERAS works by removing interventions that delay gut recovery (bowel preparation, opioids,
+ fasting); its limit is that discharge too early shifts complications into the community.
+
+ PATIENT POSITION AND PORT PLACEMENT
+   • Set-up: general endotracheal anaesthesia → nasogastric tube and Foley catheter → lithotomy, arms
+     adducted and padded, legs abducted and slightly lowered on spreader bars or stirrups → traditionally
+     steep Trendelenburg.
+   • da Vinci Xi integrates table motion, allowing repositioning without undocking → a less steep or even
+     flat position.
+   • Insufflation by Veress needle or Hasson technique (Hasson when there has been previous abdominal
+     surgery).
+   • Six- to seven-port transperitoneal approach; all ports after the camera placed under vision, in a more
+     cephalad orientation — aids small-bowel manoeuvring during diversion and extended lymph node
+     dissection to the aortic bifurcation.
+ PORT PLACEMENT FOR INTRACORPOREAL URINARY DIVERSION (FIG. 135.1)
+  Port                      Size                               Position and use
+  Camera                    12 mm (8 mm with Xi)               Above umbilicus, midline or left
+  Right and left robotic 8 mm each                             Level of umbilicus, lateral to rectus sheath, symmetrical
+  arms
+  Fourth robotic arm /      8 mm; 12 mm hybrid                 Above and medial to anterior superior iliac spine; used
+  hybrid                                                       alternately with an assistant instrument
+  Additional left port      12–15 mm                           Above and medial to left 8-mm port; can hold a robotic
+  (neobladder)                                                 arm inside the 15-mm port for stapling
+  Assistant                 5 mm (12 mm for neobladder);       Between camera and right robotic arm
+                            second assistant 5 or 15 mm
+  Left upper quadrant       12 mm                              Assistant
+  Suprapubic (short)        12 mm (stapler) or 5 mm            Bowel reanastomosis in marionette conduit and W
+                            (stents)                           neobladder; aligns bowel; extended to Pfannenstiel for
+                                                               specimen
+
+   • "Technique of spaces": stepwise extirpation that aids teaching and focus. Four male spaces:
+     periureteric, lateral pelvic, anterior rectal, retropubic.
+   • Extended lymph node dissection to the aortic bifurcation also eases crossing the left ureter to the
+     right.
+   • Specimens bagged → attention to ICUD.
+
+
+
+
+                                                         page 4 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                    Anatomic Considerations in Males
+   • Zero-degree lens throughout; occasionally a 30-degree down lens for a deep female pelvis during
+     extended lymph node and vascular pedicle dissection.
+
+   KEY POINTS
+    • A six- to seven-port transperitoneal approach in a more cephalad position helps small-bowel
+      manoeuvring.
+    • A robotic arm can alternate with an assistant instrument by inserting it inside a 15-mm laparoscopic
+      port.
+    • A zero-degree lens is used throughout.
+    • Robotic arms can be undocked and steep Trendelenburg reduced for the urethra–neobladder
+      anastomosis.
+
+ Concept — Port geometry is set for the diversion, not the cystectomy: cephalad placement buys reach
+ over the small bowel and up to the aortic bifurcation.
+
+ ANATOMIC CONSIDERATIONS IN MALES
+   • Nerve sparing is more feasible because of anatomical studies and the robot's three-dimensional (3D)
+     view, magnification and manoeuvrability in a narrow space.
+   • Reserved for anatomically safe tumour location, lower tumour burden and adequate baseline sexual
+     function; benefits both sexual function and neobladder continence.
+   • Four danger points, in operative sequence (Fig. 135.2): (1) origin of nerves at the medial common iliac
+     vessels and presacral area (extended lymph node dissection) → (2) high ligation of the bladder
+     vascular pedicle (preserves the proximal neurovascular complex) → incision of peritoneum over the
+     rectovesical pouch → (3) athermal seminal vesicle dissection after the vasal ampullae, sparing
+     Denonvilliers fascia, where the pelvic plexus is concentrated; middle and lower seminal vesicle may be
+     left → (4) proximal prostatic pedicles controlled close to the prostate: intrafascial, traction-free,
+     athermal.
+   • Complete lateral preservation (veil of Aphrodite) and its distal extent require apical dissection after the
+     bladder is dropped.
+   • Computer-assisted 3D reconstruction of the inferior hypogastric plexus has mapped the pelvic nerves
+     serving continence and erection.
+   • About one-third of the external urethral sphincter cross-section is laterally overlapped by the dorsal
+     venous complex at the apex.
+   • Dorso-cavernous anastomoses matter for cavernous haemodynamics (Doppler); anastomoses link
+     dorsal, cavernous and bulbourethral arteries — all except the bulbourethral are contractile (muscular
+     wall plus nerves).
+   • Cavernous nerves converge close to the urethra at the sphincter before penetrating the pelvic floor.
+   • Cadaveric study: the sphincter receives branches of the dorsal nerve of the penis (after it leaves the
+     pudendal nerve), as close as 3 mm from the apex and unilateral in half → meticulous periurethral
+     dissection.
+
+ ANATOMIC CONSIDERATIONS IN FEMALES
+   • Pelvic splanchnic nerves carry adrenergic and cholinergic fibres, mediating vaginal lubrication and
+     genital swelling; injury reduces vaginal and vulval blood flow.
+
+
+
+                                                     page 5 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                                              Ileal Conduit
+   • Inferior hypogastric plexus: from hypogastric and pelvic splanchnic nerves, retroperitoneal →
+     anterolateral to rectum → lateral to cervix and vaginal fornix → lateral vaginal wall and bladder base,
+     where it is most vulnerable.
+   • Cavernous nerves arise along the lateral edge of the vagina, run in the vesicovaginal septum and pass
+     through the urogenital diaphragm.
+   • Continence can be preserved despite removal of the bladder neck and cranial third of the urethra;
+     traction on the Foley balloon defines the bladder neck and landmarks.
+   • The striated intrinsic sphincter lies mainly in the mid- to distal third of the urethra and can be
+     preserved oncologically safely; preserve the periurethral complex and endopelvic fascia.
+   • Urethral nerve branches run by the lateral vaginal wall → preserve tissue around the proximal urethra
+     and lateral to the bladder neck; despite controversy, preserve innervation for continence.
+   • With nerve-sparing goals: preserve the anterior vaginal wall; avoid transvaginal extraction → small
+     Pfannenstiel incision.
+ NERVE-SPARING CYSTECTOMY: MALE VERSUS FEMALE
+                           Male                                              Female
+  Point of maximal         Medial common iliac/presacral origin; seminal     Lateral vaginal wall and bladder base
+  vulnerability            vesicles and Denonvilliers fascia; prostatic
+                           pedicles; apex
+  Key preservation         Athermal, intrafascial, traction-free pedicle      Preserve tissue around proximal urethra,
+  manoeuvre                control; meticulous periurethral apical dissection lateral to bladder neck; keep anterior
+                                                                              vaginal wall
+  Sphincter                One-third overlapped by dorsal venous complex; Mainly mid- to distal third; continence
+                           dorsal-penile-nerve branches within 3 mm of    survives loss of bladder neck and cranial
+                           apex                                           third
+
+ Concept — In both sexes the same autonomic plexus serves sexual function and neobladder continence;
+ nerve sparing is therefore a continence operation as much as a potency one.
+
+ ILEAL CONDUIT
+
+ Transfer of Left Ureter and Selection of Bowel
+   • Left ureter crosses below the sigmoid mesentery and over the great vessels to the right.
+   • Identify duplex ureters → implant separately or together according to calibre.
+   • Short left ureter → retract sigmoid with the fourth arm; a 30-degree down lens helps free the proximal
+     left ureter.
+   • Segment: 12 cm of ileum, 15–20 cm proximal to the ileocaecal valve (the figure legend gives 12–15
+     cm, about 15 cm from the valve).
+   • Leave adequate length at the ileocaecal end → avoids metabolic disturbance and kinking once
+     exteriorised.
+   • Avoid a redundant segment → residual urine → stasis, infection, absorptive and metabolic
+     complications, loss of renal function.
+
+ The Marionette Stitch
+   • Sequence: 60-inch 1-0 silk on a Keith needle through the hypogastrium → through the distal end of
+     the segment (future stoma) → back out through the same site → held by an instrument, not tied.
+   • Untied → free movement of the segment during conduit construction.
+
+
+
+                                                         page 6 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                                            Ileal Conduit
+   • Compensates for fixed ports, brings each part of the conduit into the field, and lowers the segment into
+     the pelvis to keep work within the optimal range of the robotic joints — valuable when working space
+     is limited.
+
+ Isolation of the Bowel Segment and Creation of the Ileal Conduit
+   • Sequence: fourth arm holds proximal segment at stretch against the marionette → hook cautery
+     incises mesenteric peritoneum (a vascular stapler is quicker) → two mesenteric windows → 45-mm
+     Endo GIA divides bowel proximally and distally → cut ends held with 0-silk to prevent malrotation →
+     bowel continuity not yet restored.
+   • Keep orientation and avoid narrowing the conduit base, which limits mesenteric blood supply.
+   • Conduit washout has been abandoned: no reduction in infection, and it causes spillage during stenting
+     and anastomosis.
+
+ Ureteroileal Anastomosis
+ BRICKER VERSUS WALLACE
+  Bricker                                            Wallace
+  Refluxing end-to-side, each ureter separately      Ureteric ends joined as a "Y", single limb to proximal conduit
+  Easy; keeps renal units separate                   One anastomosis to the bowel
+
+   • Sequence: two openings on either side of the proximal conduit → athermal, cold-scissors wide
+     buttonhole enterotomy with serosal removal (adopted to reduce strictures) → marionette lowered →
+     ureter implanted with minimal traction → after clear urine efflux, wide spatulation, fourth arm
+     retracting the cut distal ureter → left side first.
+   • First suture: conduit outside-in, then ureteric angle inside-out; conduit bite perpendicular to the
+     proximal staple line → alignment, no malrotation or back-walling.
+   • The operating position of the anastomosis is not the final lie of the conduit.
+   • Interrupted sutures along both sides to halfway → stent; alternatively Van Velthoven double-armed
+     4-0 Vicryl (about 5 cm) from the spatulation angle along both sides.
+   • Stenting after the posterior wall: metal laparoscopic suction tube via 15-mm right assistant port into
+     distal conduit → advanced to the anastomosis → held by needle driver → 90-cm 8.5-French (Fr) single-
+     J stent over guidewire to renal pelvis → secured with 3-0 chromic → guidewire removed only after
+     anchoring (no tactile feedback; stent otherwise hard to find).
+   • Distal ureter excised completely for final histopathology; no routine frozen section.
+   • Marionette turns the conduit → right side done identically. Stent ends drain via the 15-mm port and are
+     not clamped to the drapes (dislodgement).
+   • Peritoneal flap preserved during right periureteric dissection → covers and retroperitonealises the
+     proximal anastomosis → less local inflammation.
+
+ Restoration of the Bowel
+   • Reanastomose bowel after both ureters → easier conduit handling; reanastomosis tailored to avoid
+     kinking or tension.
+   • Robot-sewn ileoileal anastomosis is feasible — short sewing time, no leaks, much cheaper than
+     staplers.
+
+ Pre-Stoma Preparation
+   • Sequence: robot left docked, instruments out → surgeons scrub, cruciate fascial incision with four stay
+     sutures → arms reinserted; haemostasis checked; specimen-bag strings out via suprapubic port →
+
+
+                                                      page 7 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                                        Intracorporeal Neobladder
+     vascular clamp through stoma site grasps marionette and stent ends → Jackson-Pratt drain via right
+     assistant port → undock → urethral Foley left as pelvic drain → conduit delivered through stoma,
+     orientation checked once pneumoperitoneum is lowered.
+
+   KEY POINTS
+    • The marionette stitch is not tied but held by an instrument, allowing free movement.
+    • Preserve adequate ileocaecal-end length → avoids metabolic disturbance and kinking.
+    • Guidewire removed only after the anchoring suture — no tactile feedback.
+    • Avoid a thermal enterotomy at the ureteric anastomosis; retroperitonealise the anastomosis.
+
+ Concept — Each conduit step replaces the missing hand: the marionette substitutes for manual retraction,
+ and the guidewire is kept until anchoring because the stent cannot be felt.
+
+ INTRACORPOREAL NEOBLADDER
+   • Several intracorporeal techniques are now in practice (Table 135.1); ports as in Fig. 135.1.
+   • Before neobladder construction: undock and reduce Trendelenburg to 10–15 degrees for the urethral
+     anastomosis — unnecessary with Xi and an integrated table.
+   • Key difference from open surgery: early neobladder–urethral anastomosis, advocated by the
+     Karolinska group and adopted by most.
+ TABLE 135.1 COMPARISON OF CONFIGURATION AND TECHNICAL NUANCES OF INTRACORPOREAL URINARY
+ DIVERSION
+                                           Ileum     Pouch       Urethral       Ureteric suture /        Catheter (Fr,   Time
+  Institution        Configuration         (cm)      suture      anastomosis    stent                    type)           (min)
+  Karolinska         Modified              50        3-0 V-      2-0 Quill      5-0 Biosyn / single J    22 Foley        420
+                     Studer /                        Loc
+                     amorphous
+  University of      Modified Studer       65        2-0 V-      3-0 Monocryl   4-0 polyglactin /        22 Couvelaire 361
+  Southern           with rotation /                 Loc                        double J
+  California         globular
+  (USC)
+  University         Pyramid               50        3-0 V-      3-0 V-Loc      4-0 polydioxanone /      16 urethral +   330
+  College                                            Loc                        single J or 8-Fr         18
+  London                                                                        feeding tube             suprapubic
+  Hospital
+  (UCLH)
+  Clinique Saint-    Modified Y            40        NR          NR             NR / single J            20 Mercier      315
+  Augustin
+  Padua              Folded U              42        Stapler     2-0 Monocryl   4-0 Monocryl /           22              305
+                                                                                double J                 haematuria
+  Roswell Park       Modified W —          50        3-0 V-      3-0 V-Loc      4-0 polyglactin /        22              357
+  (RPCCC)            Hautmann                        Loc                        single J                 haematuria
+  University of      Asymmetrical U        50        3-0 V-      4-0 Monocryl   3-0 Stratafix / single   20 Foley        410
+  Florence           (FloRIN)                        Loc                        J
+
+ NR, not reported; FloRIN, Florence Robotic Intracorporeal Neobladder; RPCCC, Roswell Park Comprehensive Cancer
+ Center.
+ WHERE THE TEXT AND TABLE 135.1 DIFFER
+
+
+
+
+                                                               page 8 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                                      Intracorporeal Neobladder
+
+  Technique       Item                          Table 135.1           Text / figure
+  Karolinska      Urethral anastomosis          2-0 Quill             4-0 Quill (Van Velthoven)
+  Karolinska      Stents                        Single J              Externalised suprapubically or internal double J
+  USC             Catheter                      22-Fr Couvelaire      24-Fr haematuria
+
+   • The table's purpose is side-by-side technique recognition: 40–65 cm of ileum, overwhelmingly barbed
+     V-Loc for the pouch, operative times 305–420 minutes.
+   • Pattern: USC uses the longest segment (65 cm), Clinique Saint-Augustin the shortest (40 cm); Padua is
+     the only stapled pouch; UCLH adds a suprapubic catheter.
+   • Trap: the institutional names map to eponymous open designs — Karolinska and USC are Studer,
+     Roswell Park is Hautmann W, Padua derives from the Vesica Ileale Padovana.
+ DISTINGUISHING FEATURES OF THE SEVEN NEOBLADDERS
+                     Distance from
+  Technique          ileocaecal valve          Signature step                             Ureteric implantation
+  Karolinska         Up to 25 cm               Early urethral anastomosis; 10-cm          Bricker or Wallace to afferent
+  Studer                                       afferent limb; Penrose sling               limb (end-to-end)
+  USC Studer         11-cm distal tag to       44 + 16 + 5 cm; 90-degree                  Bricker, ureters crossed, double J
+                     division                  anticlockwise rotation
+  UCLH               —                         Koie-derived cross-fold; stay sutures 25   To short limbs; stents
+  Pyramid                                      cm from each limb                          externalised; suprapubic tube
+  Saint-             About 20 cm               Mercier catheter with two hydrophilic      Refluxing, direct to limb ends;
+  Augustin Y                                   wires                                      ureters not crossed
+  Padua              ≥20 cm                    Stapled 10-cm inverted-U neck              Modified split-nipple (antireflux)
+  FloRIN             About 20 cm               Asymmetrical U (30/20 cm); L-shaped        Antireflux, lateral anterior aspect
+                                               neo-trigone
+  Roswell Park       12–15 cm                  Four stay sutures A–D; one trough at a     End-to-side into chimneys
+  W                                            time
+
+ Modified Studer Neobladder: The Karolinska Institute Technique
+ Configuration and Setup
+   • Ileum mobilised for a tension-free urethral anastomosis; Studer principles; U-shape measured up to 25
+     cm from the ileocaecal valve and up to 40 cm proximal to the urethral anastomosis.
+ Neobladder-Urethral Anastomosis
+   • Van Velthoven technique, 4-0 Quill; V-Loc avoided anecdotally — sharper, larger barbs may
+     traumatise.
+   • Difficult approximation → neobladder held between two customised Penrose drains rolled around its
+     urethral end.
+ Detubularization of Bowel
+   • Distal 40 cm detubularised on the antimesenteric border with cold scissors or over a 24-Fr chest tube;
+     10-cm proximal isoperistaltic afferent limb left intact for the ureters (left side).
+ Creation of Neobladder
+   • Posterior plate (running 2-0 or 3-0 V-Loc) → distal half of anterior wall → remainder left open until the
+     end.
+
+
+
+
+                                                            page 9 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                        Intracorporeal Neobladder
+ Uretero-Neobladder Anastomosis
+   • Left ureter through a tunnel under the sigmoid mesentery; Bricker to the afferent limb, or Wallace
+     (spatulated, posterior walls joined). Stents externalised just above the symphysis or internal double J.
+ Closure of the Neobladder
+   • Closed once ureters are stented and a 22-Fr Foley is confirmed in place.
+
+ Modified Studer Neobladder: The University of Southern California Institute of Urology
+ Technique
+ Configuration and Setup
+   • 65 cm of ileum: 44 cm pouch, 16 cm chimney, 5 cm discarded (the discard allows ileoileal anastomosis
+     without deep mesenteric division).
+   • Tag the most dependent, mobile ileum as the urethral anastomotic site → 11 cm distally = division site
+     → 33 cm proximally tagged → further 16 cm = chimney (afferent limb).
+   • 44 cm opened antimesenterically over a 24-Fr chest tube; staple lines removed; medial edges aligned
+     with four interrupted sutures, closed with 2-0 V-Loc; shortest (6-inch) barbed suture for efficiency.
+ Rotation of Pouch, Neobladder-Urethral Anastomosis, and Cross-Folding of the Pouch
+   • Posterior plate rotated 90 degrees anticlockwise → marked site at the first 11-cm point aligned to the
+     urethra.
+   • Rocco-type stitch to the distal posterior Denonvilliers fascia reduces anastomotic tension.
+   • Double-armed Monocryl on an RB1 needle over a 24-Fr haematuria catheter; remaining pouch closed
+     with running 2-0 V-Loc.
+ Uretero-Neobladder Anastomosis
+   • Left ureter under the sigmoid colon; both spatulated; double J; Bricker; anterior line closed once stents
+     drain and catheter position is checked.
+   • USC time-savers: 11-cm premeasured stitch, colour-coded stay sutures, traction–countertraction stays,
+     short V-Loc.
+
+ Pyramid Neobladder: The University College London Hospital Technique
+ Configuration and Setup
+   • Detubularised cross-folded pouch adapted from the Koie technique, designed to simplify pouch
+     creation; 50 cm, most dependent part to the urethra.
+ Formation of the Pyramid Neobladder
+   • Sequence: urethral anastomosis → dependent part detubularised → two stay sutures 25 cm from each
+     limb → posterior plate 3-0 V-Loc → anterior plate closed up to 10 cm from the symphysis → two lateral
+     stay sutures midway → closure lateral to medial in a coronal plane.
+ Uretero-Neobladder Anastomosis
+   • Spatulated ureters to the short limbs on their own sides over stents; stents externalised; suprapubic
+     tube for irrigation and safety.
+
+ Modified Y Neobladder: The Clinique Saint-Augustin Technique
+ Configuration and Setup
+   • 40 cm isolated about 20 cm from the ileocaecal valve; dependent part arranged as a modified Y and
+     brought to the urethra; antimesenteric border incised and anastomosed to the urethra.
+
+
+                                                     page 10 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                         Intracorporeal Neobladder
+ Creation of the Neobladder
+   • Incised limb ends joined → posterior plate → anterior reconstruction. A 20-Fr Mercier catheter
+     carrying two hydrophilic guidewires is placed for later stenting.
+ Uretero-Neobladder Anastomosis
+   • Ureters spatulated, not crossed, anastomosed directly to the open limb ends in a refluxing fashion; two
+     single-J stents passed per urethram over the preplaced wires.
+
+ Padua Neobladder
+ Configuration and Setup
+   • About 42 cm of ileum, at least 20 cm from the ileocaecal valve; isolated with one stapler load
+     proximally and two distally.
+   • Urethral site marked 12–14 cm from the distal end; proximal half forms the left base and dome.
+     Segment layout: 8 cm right plate + 10 cm neck + 8 + 16 cm left plate.
+   • Sequence: 10-cm inverted-U neck with stay sutures at 8 and 18 cm → distal 8 cm detubularised →
+     stapler fired to create the neck → remaining 24 cm detubularised → distal 8 cm folded to form the
+     dome → next fold forms the posterior plate; 22-Fr haematuria catheter.
+ Uretero-Neobladder Anastomosis
+   • Ureters through the posterior neobladder, spatulated; modified split-nipple anastomosis; anterior
+     closure gives final shape.
+
+ FloRIN: Florence Robotic Intracorporeal Neobladder
+ Configuration and Setup
+   • 50 cm about 20 cm from the valve; urethral anastomosis over a 20-Fr Foley sets an asymmetrical U (30
+     cm distal, 20 cm proximal).
+   • Entire segment detubularised → posterior plate reconfigured as an L → neo-trigone (wider posterior
+     support) → neck reconstructed by suturing the anterior wall (2–5 cm anterior and proximal) →
+     posterior plate folded anteriorly into two symmetrical segments. Neck length is adjusted so the
+     posterior plate reaches the anterior anastomosis.
+ Uretero-Neobladder Anastomosis
+   • Spatulated ureters reimplanted by an antireflux technique on the lateral side of each anterior aspect;
+     single-J stents secured; anterior plate closed as an inverted V.
+
+ Modified "W" Hautmann Neobladder: The Roswell Park Comprehensive Cancer Center
+ Technique
+ Configuration and Setup
+   • 45–50 cm, 12–15 cm from the ileocaecal junction, divided into right and left troughs, each with a
+     descending and ascending loop and a chimney.
+   • Four stay sutures: A — most dependent point of right trough; B — 12–15 cm proximal, upper end of
+     right trough; C — creates left trough; D — upper end of left trough. A and C are tagged to the Foley tip,
+     which acts as a marionette.
+ Creation of the Neobladder
+   • Sequence: right trough first, excluding the 5-cm chimney → cranial enterotomy, cut with (preferably)
+     hot scissors, bipolar traction and suction countertraction → incision a few millimetres from the
+     mesenteric border (wider surface for anterior closure) → mesenteric edges sewn 3/0 V-Loc, caudal to
+
+
+                                                     page 11 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                                      Intracorporeal Neobladder
+     cranial, fourth-arm traction, tightened every third throw → left trough likewise → troughs joined →
+     posterior plate.
+   • One trough at a time → less spillage, orientation maintained.
+   • Release tags A and C → dependent posterior plate to posterior urethral plate (3/0 V-Loc) → anterior
+     anastomosis over a 22-Fr silicone catheter → close only the lower half of the anterior wall.
+ Uretero-Neobladder Anastomosis
+   • Right chimney staple line removed, opening closed (3/0 Vicryl); end-to-side anastomosis through an
+     anterior chimney enterotomy.
+   • Fourth arm retracts the Hem-o-lok-clipped ureteric end; partial transection and spatulation for a wide
+     anastomosis; single-armed 4-0 Vicryl (5 cm), interrupted — or double-armed, continuous.
+   • First stitch outside-in on the ureter at the spatulation angle, inside-out on the neobladder; fourth arm
+     brings the ureter to the enterotomy before tying → tension-free.
+   • Stenting after the posterior wall: metal suction tube via the 15-mm assistant port or the 22-Fr Coudé
+     haematuria catheter, through the open anterior wall → held by needle driver → 8.5-Fr single-J or
+     paediatric feeding tube over a guidewire → tube withdrawn holding the stent.
+   • Single J preferred: long enough to fix distally; 3-0 chromic secures it to the neobladder, a second stitch
+     to the Foley for later removal → anterior half completed → left side likewise.
+   • Remaining anterior wall closed 3/0 V-Loc, T-shaped (inverted T); Foley used for irrigation; Jackson-Pratt
+     or Blake drain.
+ Restoration of the bowel. Short 12-mm suprapubic port → 60-mm Endo GIA side-to-side along the
+ antimesenteric borders → open ends closed with Endo GIA fired horizontally via right assistant port → stay
+ suture at the antimesenteric edge → mesenteric window closed with 3-0 silk.
+ Manoeuvres facilitating neobladder-urethral anastomosis. A tension-free anastomosis is critical and one
+ of the hardest steps, especially in steep Trendelenburg, where stretch must be judged without tactile
+ feedback.
+ MANOEUVRES FOR A TENSION-FREE NEOBLADDER–URETHRAL ANASTOMOSIS
+  Manoeuvre                                     Effect / caveat
+  Preserve dorsal venous complex and            Cutting the dorsal venous complex without initial suturing opens the apex
+  urethral length                               → maximal urethra, no apical margin
+  Mobilise sigmoid out of the true              Occasional lateral stay suture until neobladder built
+  pelvis
+  Reduce Trendelenburg after                    Xi with integrated table avoids undocking
+  undocking
+  Perineal pressure; Foley guides               Borrowed from robotic prostatectomy
+  needle
+  Barbed suture (V-Loc)                         Less time and complexity
+  Detubularise, open and stretch bowel Adds length
+  Incise ileal peritoneum, release              Adds length — but exposes mesenteric vessels → bleeding, threatens
+  mesenteric fat                                neobladder blood supply
+  Penrose drains (Karolinska)                   Gentle stretch and traction
+
+ Concept — Every intracorporeal neobladder is a variation on one problem — getting a detubularised, low-
+ pressure reservoir to the urethra without tension; the techniques differ chiefly in folding geometry and in
+ whether the ureters reflux.
+
+
+
+
+                                                           page 12 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                            Intracorporeal Neobladder
+
+ Robot-Assisted Intracorporeal Continent Cutaneous Diversion
+ Colon Mobilization, Isolation, and Ileocolic Anastomosis
+   • Sequence: right colon mobilised from mid-transverse colon to ileocaecal junction → stay sutures at
+     caecum and hepatic flexure → greater omentum incised; proximal transverse colon freed from
+     duodenum and retroperitoneum → hepatic flexure off Gerota's fascia (hepatocolic ligament) → white
+     line of Toldt → terminal ileum divided 15 cm proximal to the ileocaecal junction → transverse colon
+     divided between hepatic flexure and middle colic artery → ileocolic continuity restored immediately
+     (prevents malrotation).
+ Creation of Colonic Pouch
+   • Sequence: appendix base resected → pouch irrigated via haematuria catheter through the caecal
+     opening → staple line excised → detubularised along the anterior taenia coli → folded vertically, distal
+     end to the spatulated ileocaecal valve → posterior line 2-0 Vicryl and continuous V-Loc.
+ Uretero-Colonic Anastomosis
+   • Left ureter below the sigmoid mesentery; both spatulated, through the posterior colonic plate, 4-0 or
+     5-0 Vicryl, double-J stents. 24-Fr Rüsch catheter as caecostomy via right lateral port, through the
+     appendiceal stump, secured with a 2-0 Vicryl purse-string. Anterior line closed as the posterior.
+ Tapering of the Ileum and Imbricating the Ileocecal Valve
+   • Sequence: Allis clamp via 2-cm V-shaped umbilical skin flap → terminal ileum exteriorised → 14-Fr
+     Foley through ileum into colon → ileum returned → stretched over catheter; excess antimesenteric
+     ileum excised with serial staplers → ileocaecal valve imbricated with interrupted 3-0 Vicryl →
+     spatulated ileum sutured to umbilical skin as stoma (Fig. 135.11: Indiana pouch).
+ Concept — The Indiana pouch separates two functions: capacity from the detubularised right colon,
+ continence from the tapered ileum and imbricated ileocaecal valve.
+
+ Postoperative Care
+   • Optimise fluid balance and avoid overhydration — fluid shifts in an elderly population.
+   • No benefit from leaving a nasogastric tube (Cochrane meta-analysis).
+   • Pelvic drainage preferred. Adequate drainage and ureteric stenting aid bowel recovery and reduce
+     metabolic acidosis; stentless ureteroileal anastomosis for conduits is feasible.
+   • Paediatric feeding tubes tied to the urethral catheter avoid cystoscopic removal; drawback — stents
+     lost if the Foley falls out.
+   • Neobladder saline irrigation every 8 hours → prevents mucus plugging and catheter blockage.
+ DRAINS, CATHETERS AND STENTS
+  Tube                                                    Removal
+  Urethral Foley as pelvic drain (conduit)                Postoperative day 1
+  Blake drain (neobladder)                                When output falls
+  Neobladder urethral catheter                            3–4 weeks, after a leak-free pouchogram
+  Externalised ureteric stents                            About 1 week
+  Internal double-J stents                                Cystoscopically at 3–4 weeks
+  Paediatric feeding tubes on urethral catheter           With the catheter after acceptable pouchogram
+
+
+   KEY POINTS
+    • Optimise fluid balance, avoid overhydration in this elderly population.
+
+
+
+                                                     page 13 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                        Intracorporeal Neobladder
+    • Pelvic drainage and ureteric stenting aid bowel recovery and avoid metabolic abnormalities.
+    • Irrigate the neobladder every 8 hours.
+
+
+ Outcomes
+   • ICUD aims to minimise bowel manipulation and reduce pain through minimal wound retraction and
+     smaller incisions.
+   • Enablers: standardised RARC and extended pelvic lymph node dissection with open-equivalent
+     oncology, improved console skills, and EndoWrist articulation for suturing, far easier than conventional
+     laparoscopy.
+ Operative Time
+   • Historically the major limitation of ICUD; the techniques in Table 135.1 take 305–420 minutes.
+   • Prolonged cystectomy time → more complications and perioperative mortality, independent of stage
+     or comorbidity → operative time is a quality measure for RARC.
+   • Determinants: demographics and comorbidity, stage, complexity, technical modification, surgeon
+     experience, hospital volume.
+   • IRCC: operative time fell over the decade; the strongest determinant was diversion type — ileal
+     conduit about 70 minutes shorter than neobladder.
+   • Older, comorbid patients had shorter times (surgeons mindful of anaesthetic risk); women longer
+     (hysterectomy, vaginal reconstruction); high BMI and prior surgery longer.
+   • No significant difference between intracorporeal and extracorporeal diversion — undocking,
+     repositioning and redocking for extracorporeal work absorbs the difference.
+   • High-volume institutions faster. IRCC proficiency threshold exceeded the earlier estimate of 22 RARCs:
+     surgeons with ≥66 RARCs saved about 55 minutes per conduit case → case for fellowship training and
+     dedicated cystectomy programmes.
+ Learning Curve
+   • Intracorporeal neobladder: operative time and conversion risk fell substantially after only 10
+     consecutive cases; early and late complications both fell with experience.
+   • USC: a consistent console surgeon roughly halved operative time.
+   • Mentoring reduced time and avoided conversion; conversion to open prolonged length of stay.
+ Complications
+   • Most complications are attributable to the diversion. Minimally invasive advantages: less bowel
+     manipulation, fewer insensible losses, less analgesia.
+   • Graded by modified Clavien-Dindo or modified Memorial Sloan Kettering Cancer Center (MSKCC)
+     systems, usually to 3 months.
+   • Two-thirds of significant complications needing reoperation occur after 3 months (Roswell Park) →
+     90-day reporting underestimates the burden.
+   • IRCC over two decades: overall and high-grade complication rates unchanged; complicated patients
+     more often had neobladders and reoperation, and more aggressive disease (higher node yield, variant
+     histology, adjuvant therapy); wound complications fell.
+   • Meta-analysis of RCTs: no difference in 90-day major complications, open versus robotic.
+ TABLE 135.2 COMPARISON OF COMPLICATIONS OF INTRACORPOREAL URINARY DIVERSION (COLLAPSED)
+  Parameter                          Pattern across series
+  Grading                            Clavien-Dindo, modified MSKCC, or not reported
+
+
+                                                             page 14 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                                Intracorporeal Neobladder
+
+  Parameter                          Pattern across series
+  Early (≤30 days)                   22–63%
+  Late (>30 days)                    5–81% (one neobladder arm 82%)
+  High-grade (≥ grade 3)             Up to 37%
+  Commonest cause                    Infectious (gastrointestinal and infectious in one series)
+  Diversion type                     Where separated (UCLH), neobladder rates exceeded conduit rates
+
+   • The table shows how wide and unstandardised complication reporting is; the trap is quoting a single
+     "complication rate" for ICUD. Infection is the constant.
+ Reoperation After Robot-Assisted Radical Cystectomy
+   • Most reoperations are diversion-related and late; in the authors' series about a quarter needed
+     intervention, the majority after 90 days, with cumulative reoperation reaching nearly half by 5 years.
+   • Predictors: neoadjuvant chemotherapy and any high-grade postoperative complication.
+ Uretero-Enteric Strictures
+   • The authors' intracorporeal conduit had higher stricture rates, rising over 5 years → abandoned the
+     thermal-hook slit enterotomy for an athermal buttonhole enterotomy with serosal removal and
+     retroperitonealisation.
+   • Robotic stricture revision is comparable to open; indocyanine green (ICG) localises the ureter and
+     stricture.
+ Fistula and Bowel Obstruction
+   • Fistula is uncommon, about half repaired robotically; intervention for bowel obstruction rises with
+     time.
+ Abdominal Wall Related
+   • Causes of intervention: parastomal and incisional hernia, adhesions, wound dehiscence.
+   • Parastomal hernia after RARC with conduit is common and cumulative — about one-third by 3 years,
+     median onset about 1 year; only a third symptomatic, and few of those operated.
+   • Risk factors: longer operative time, fascial defect ≥30 mm, lower estimated glomerular filtration rate
+     (poor healing).
+   • Robotic parastomal mesh hernioplasty is feasible and durable; longer operating time early in
+     experience.
+ Functional Outcomes
+ Continence after creation of neobladder.
+   • Cystectomy abolishes the vesicourethral reflex → reservoir disconnected from sphincter, spinal reflex
+     inactive → no desire to void.
+   • Voiding cue: urine reaching posterior urethral sensory mechanisms (intact pudendal nerves). The
+     urethrosphincteric guarding reflex contracts the sphincter → daytime continence.
+   • At night, in deep sleep, the guarding reflex is inactive → continence depends on reservoir functional
+     capacity.
+   • Goal: adequate detubularisation and capacity → compliance, plus preservation of the sphincter
+     complex.
+   • Incontinence factors: age, reservoir volume and shape, functional urethral length, nerve supply.
+   • Assess continence at 6–12 months, when capacity is maximal. Keep nocturnal urine output below
+     functional capacity; night alarm until fullness sensation is recognised.
+
+
+                                                             page 15 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                                       Intracorporeal Neobladder
+   • Up to 25% of men may need clean intermittent catheterisation (CIC) for incomplete emptying (open
+     series).
+   • Predictors of good continence (open): good preoperative Eastern Cooperative Oncology Group (ECOG)
+     status and retained sensation of filling.
+ TABLE 135.3 COMPARISON OF CONTINENCE OUTCOMES FOR INTRACORPOREAL NEOBLADDER (COLLAPSED)
+  Outcome                  Text         Table                               Reason for difference
+  Daytime continence 68–100% 68–100%; one Studer series 17% is complete pad-free day and night — stricter
+                             17%                        definition
+  Night-time               55–85%       48–85%                              Padua series (48%) outside quoted range
+  continence
+  Need for CIC             Up to        0–11%                               —
+                           11%
+  Pads/day; follow-up —                 0–1; 2–41 months                    —
+
+   • Night continence is consistently worse than day — the table confirms the physiology above; the trap is
+     expecting robotic series to beat open ones.
+ Intracorporeal Versus Extracorporeal Diversion
+ INTRACORPOREAL (ICUD) VERSUS EXTRACORPOREAL (ECUD) DIVERSION — IRCC
+                              Earlier IRCC analysis              Updated IRCC analysis (about half ICUD)
+  Readmission (30 and         Lower with ICUD                    Approach not associated on multivariable analysis
+  90 days)
+  Transfusion                 Lower with ICUD                    Lower with ICUD
+  Gastrointestinal            Lower with ICUD — supports         —
+  complications               minimal bowel handling
+  High-grade                  —                                  Higher with ICUD, falling over time; not significant on
+  complications                                                  multivariable analysis
+  Operative time              —                                  Shorter with ICUD
+  90-day mortality            Lower with ICUD — selection        —
+                              bias and experience
+  Who received ICUD           Minority of institutions           Healthier (American Society of Anesthesiologists, ASA,
+                              performed it                       <3), high-volume centres, recent era (2013–2016)
+
+   • The early ICUD advantages were confounded by selection; once adjusted, the approach itself is neutral
+     for high-grade complications and readmission.
+ Urodynamic Findings
+   • Theoretical advantages: less bowel handling → better vascularity, less scarring → good capacity;
+     precise apical dissection, nerve sparing and urethral anastomosis.
+ URODYNAMICS OF INTRACORPOREAL NEOBLADDERS
+  Configuration                               Bottom line
+  Y neobladder (first series)                 Good capacity, low residual; day continence mostly achieved, night poor
+  Y neobladder (second series)                Modest capacity, high residual; open neobladder better for capacity and
+                                              voiding
+  Bordeaux (modified Y)                       Good capacity, residual about 100 mL; modest day and poor night
+                                              continence
+  USC intracorporeal Studer                   Good capacity but low flow, high residual, low complete continence
+
+
+
+
+                                                            page 16 of 17
+Chapter 135 — Minimally Invasive Urinary Diversion                                                  Future Direction
+
+  Configuration                               Bottom line
+  FloRIN vs open Vesica Ileale                No difference, except higher compliance with FloRIN
+  Padovana
+
+   • Pattern: capacity is generally adequate, but emptying and night continence lag; only FloRIN matched
+     its open comparator.
+ Quality of Life
+   • Evidence limited by absent preoperative baselines, short follow-up and non-validated tools.
+   • Single-centre, patient-centred metrics to 24 months: physical domains decline to 6 months, then
+     recover by 24 months in all domains except sexual function.
+   • Earlier RCTs of open versus robotic cystectomy used open diversion. iROC (landmark multicentre RCT,
+     intracorporeal versus open): worse QoL with open surgery at 5 weeks, greater disability at 5 and 12
+     weeks; no difference after 12 weeks.
+ Concept — ICUD's measurable gains are early and bowel-related (recovery, gastrointestinal
+ complications, short-term QoL); long-term complications, function and QoL converge with open surgery,
+ and the late burden is dominated by the diversion itself.
+
+ Tissue Engineering
+   • Aim: eliminate bowel from urinary reconstruction; regenerative attempts since 2007 — small intestinal
+     submucosa seeded with 3T3 fibroblasts (rat); tubular polypropylene mesh scaffolds (patency and
+     survival to about 16 weeks).
+   • Neo-Urinary Conduit Trial in Humans (NCT01087687): small enrolment; engineered conduit survived
+     about 250 days on average; half had stenosis and stricture.
+   • Lessons: material stiff and non-collapsible, failed to generate cells around the connective-tissue sleeve,
+     no blood supply.
+
+ Robotic Bladder Auto Transplantation
+   • USC stepwise preclinical models: porcine → pulsatile-perfused cadavers → heart-beating brain-dead
+     human donors.
+   • Technique: robotic retrieval of a vascularised composite bladder allograft → back-table vascular
+     reconstruction → robotic transplantation; console time fell with experience; ICG fluorescence assessed
+     graft perfusion; vascularity and mucosal integrity held for over 12 hours.
+   • Could avoid bowel and its complications; immunosuppression is the major limitation.
+ Concept — Both frontiers target the same root cause of diversion morbidity — bowel in the urinary tract;
+ engineered conduits failed on vascularity, and transplantation trades bowel complications for
+ immunosuppression.
+
+ FUTURE DIRECTION
+   • With RARC and lymph node dissection safely established, ICUD is performed worldwide.
+   • Incorporate ICUD stepwise: ileal conduit → neobladder.
+   • Understanding the anatomical, pathophysiological and technical nuances prevents long-term
+     complications and upper-tract failure.
+   • ICUD's permanent place depends on operative time and on optimised neobladder function → less
+     morbidity, quicker return of QoL.
+
+
+
+
+                                                            page 17 of 17
+

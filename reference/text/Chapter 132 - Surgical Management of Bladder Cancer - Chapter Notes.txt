@@ -1,0 +1,814 @@
+Chapter 132 — Surgical Management of Bladder Cancer:
+Transurethral, Open and Robotic
+
+INTRODUCTION
+
+Epidemiology and Framing
+ • Bladder cancer is one of the commonest non-cutaneous malignancies in the United States; the
+   American Cancer Society projected roughly 82,000 new cases and 16,700 deaths for 2023.
+ • Without appropriate surgery the disease is lethal and carries high health-care cost; surgery for both
+   non-muscle-invasive bladder cancer (NMIBC) and muscle-invasive bladder cancer (MIBC) demands
+   attention to technique, oncological principle and disease pathogenesis.
+ • Transurethral resection (TUR) establishes the pathological diagnosis and local extent, and is itself a
+   complete oncological procedure for low-grade NMIBC.
+ • MIBC requires radical cystectomy with regional lymph node dissection for local control and the best
+   chance of cure.
+
+History
+MILESTONES IN BLADDER CANCER SURGERY
+Date         Figure                     Contribution
+1887         Bardenheuer (Germany)      First cystectomy, for advanced tumour; no urinary diversion; patient died of
+                                        renal failure
+Same         Nitze (urologist) and     First modern endoscope, forerunner of current instruments
+era          Leiter (instrument maker)
+1956         Paquin and Marshall        First modern radical cystectomy technique: in men began with perineal
+                                        exploration and dissection of rectum off bladder and prostate under vision;
+                                        favoured cutaneous ureterostomy
+Early        Whitmore and Marshall      Substantial morbidity; limited one-year and five-year survival
+series
+
+ • Refinement since has produced low contemporary inpatient and 90-day mortality and a steady rise in
+   five-year survival in large high-volume series.
+
+Neoadjuvant Chemotherapy
+ • Neoadjuvant cisplatin-based chemotherapy improves survival — landmark randomised trial
+   (Grossman, 2003): median survival 46 → 77 months. It should be considered in every eligible MIBC
+   patient scheduled for radical cystectomy.
+
+PROGRESSED VERSUS DE NOVO MUSCLE-INVASIVE BLADDER CANCER
+                                                                                                    De novo MIBC
+                      Progressed MIBC (P-MIBC)                                                      (D-MIBC)
+Definition            NMIBC treated with bacille Calmette–Guérin (BCG) that progresses to MIBC      MIBC at first
+                                                                                                    presentation
+Historical            Worse — but in studies predating routine neoadjuvant chemotherapy (NAC)       Better
+prognosis
+
+
+
+
+                                                       page 1 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                           TRANSURETHRAL RESECTION OF BLADDER TUMOURS
+
+                                                                                                     De novo MIBC
+                      Progressed MIBC (P-MIBC)                                                       (D-MIBC)
+  Response to         One modern study suggests a molecular basis for chemoresistance; others        Reference group
+  cisplatin NAC       find no difference in pathological response or outcome after NAC and radical
+                      cystectomy (RC)
+
+   • The clinicopathological and molecular diversity of these patients means a uniform approach is
+     insufficient; whether BCG-treated progressors should receive NAC remains controversial.
+
+ Evolving Systemic Therapy
+   • Perioperative trials are testing immune checkpoint inhibitors with or without chemotherapy and
+     antibody–drug conjugates, with correlative and biomarker secondary endpoints intended to refine
+     patient selection; the treatment paradigm, including early-stage disease, is expected to change.
+ Concept — Stage decides the operation: TUR is diagnosis for everyone and cure for low-grade NMIBC,
+ whereas MIBC needs radical cystectomy with lymphadenectomy, and modern survival gains owe as much
+ to cisplatin-based neoadjuvant therapy as to surgical refinement.
+
+ TRANSURETHRAL RESECTION OF BLADDER TUMOURS
+
+ Preoperative Evaluation
+   • History directed at risk factors: tobacco; drugs — cyclophosphamide, phenacetin; occupational and
+     environmental carcinogens — aromatic amines, polycyclic aromatic hydrocarbons, trihalomethanes.
+   • Surgical implants and valvular heart disease alter antibiotic prophylaxis; check against current
+     guidelines.
+   • Bleeding history and anticoagulants: aspirin is generally continued (no significant bleeding observed);
+     caution with warfarin, heparin, rivaroxaban, apixaban, clopidogrel, ticagrelor and prasugrel — stopping
+     time set by each drug's half-life, and bridging agreed preoperatively with the relevant team.
+   • Examination: suprapubic palpation for a mass; digital rectal examination (DRE) in men if prostatic
+     involvement is suspected; bimanual examination in women for anterior vaginal involvement.
+   • Laboratory: full blood count, metabolic panel, coagulation panel, urinalysis with culture; active
+     infection → defer resection until bacteria are cleared.
+   • Upper tract imaging completes the diagnostic work-up: renal ultrasound with retrograde pyelogram,
+     computed tomography (CT) urogram (CTU), magnetic resonance imaging (MRI), and rarely intravenous
+     pyelogram.
+
+ CONTRAST AGENTS AND RENAL FUNCTION
+  Agent                                Permitted                                  Contraindicated
+  Iodinated intravenous contrast       Glomerular filtration rate (GFR) ≥60       Below this threshold — use an
+  (CT)                                 mL/min                                     alternative
+  MRI contrast (gadolinium-            GFR >30 mL/min                             GFR <30 mL/min
+  based)
+
+   • MIBC → formal staging of chest, abdomen and pelvis.
+   • Office flexible cystoscopy usually precedes TUR: confirms a mucosal tumour and records location and
+     extent for planning.
+   • Experienced clinicians can predict stage and grade on follow-up cystoscopy, but tissue must be
+     obtained at baseline even when low grade is suspected.
+
+
+
+                                                        page 2 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                           TRANSURETHRAL RESECTION OF BLADDER TUMOURS
+   • Tumour over a ureteric orifice → be prepared for ureteroscopy, ureteric stent and fluoroscopy.
+
+ VALUE OF MAXIMAL RESECTION BY STAGE
+  NMIBC                                  MIBC proceeding to radical cystectomy (with or without NAC)
+  Complete eradication of visible        No additional survival benefit from maximal TUR of bladder tumour (TURBT);
+  disease improves oncological           residual disease on TURBT predicts overall and recurrence-free survival but
+  outcome                                removing it does not improve them
+  —                                      Clinical staging is unreliable: a substantial proportion of cT2 tumours are
+                                         extravesical at cystectomy
+
+ Operative Set-up and Inspection
+   • Sequence: rigid cystoscope, dorsal lithotomy → antibiotic prophylaxis within 1 hour → 30° lens with
+     visual obturator (limits urethral trauma): whole urethra, preliminary bladder survey, ureteric orifices →
+     70° lens: complete survey, especially bladder neck, dome and anterior wall → 120° lens if still
+     incomplete → record location and extent → blue-light cystoscopy where available for lesions poorly
+     seen under white light, such as carcinoma in situ (CIS; see Chapter 130).
+   • Antibiotic prophylaxis is recommended by the American Urological Association (AUA) — extrapolated
+     from a randomised trial in TUR of the prostate showing less postoperative bacteriuria.
+   • Avoid fluoroquinolones where possible: the US Food and Drug Administration (FDA) label change of
+     July 2016 cautioned against their use in uncomplicated urinary tract infection (no specific statement on
+     prophylaxis).
+   • AUA and Society of Urologic Oncology (SUO) joint guideline: enhanced cystoscopy — narrow-band
+     imaging and blue-light cystoscopy — if available; both increase tumour detection and reduce
+     recurrence.
+
+ ENERGY SOURCE AND IRRIGANT
+                                                      Monopolar                              Bipolar
+  Irrigant                                            Sterile water or 1.5% glycine          0.9% sodium chloride
+  Postoperative electrolyte disturbance               Higher risk                            Lower risk
+  Obturator reflex (lateral wall)                     Present                                Mitigated
+
+ Resection Principles
+   • Goal: visual eradication of all tumour and an adequate depth — loop electrode, cutting current,
+     specimen to include muscularis propria (Fig. 132.1).
+   • Tumour extends histologically beyond its visible edge → include a margin of approximately 2 cm of
+     normal-appearing tissue where possible; wide resection secures completeness for both broad-based
+     and tentacular growth patterns (Fig. 132.2).
+   • After visual completion: empty the bladder → bimanual examination under anaesthesia; a mass still
+     palpable after resection is staged clinical T3b (cT3b).
+
+
+
+
+                                                         page 3 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                             TRANSURETHRAL RESECTION OF BLADDER TUMOURS
+
+ Specific Challenges
+ DIFFICULT TUMOUR LOCATIONS
+  Site           Hazard                                   Countermeasures
+  Lateral        Obturator reflex: current stimulates     Minimal bladder distension; bipolar energy; muscle relaxant
+  wall           obturator nerve → ipsilateral leg        under general anaesthesia
+                 adduction → lateral deflection of
+                 instrument → perforation
+  Ureteric       Cauterising the orifice closed →         Pure cutting current, quick strokes; routine stenting not
+  orifice        stricture, hydronephrosis                necessary (benign orifice stricture uncommon in a retrospective
+                                                          series); authors would place a short-term stent after large
+                                                          resection or extensive cautery, though ultimate stricture rate is
+                                                          probably unchanged
+  Dome           Angulation, distance, intraperitoneal Minimal distension; suprapubic pressure (non-dominant hand or
+                 perforation; heat transmission to     assistant); straight-ahead loop; avoid prolonged cautery
+                 bowel even without perforation
+
+ Bladder Perforation
+   • Perforation may be the natural result of an adequate resection, especially of advanced tumours (Fig.
+     132.3).
+
+ EXTRAPERITONEAL VERSUS INTRAPERITONEAL PERFORATION
+                          Extraperitoneal (Fig. 132.3A)          Intraperitoneal (Fig. 132.3B)
+  Typical site            Resections away from posterior         Posterior wall and dome
+                          wall and dome
+  Frequency and           Commoner                               Rare, but large ones cause significant morbidity
+  severity
+  Intraoperative          —                                      Loss of bladder distension, visible posterior or dome
+  clues                                                          defect, palpable abdominal distension
+  Confirmation            Cystogram at the same sitting          Cystogram at the same sitting
+  Management              Urethral (Foley) catheter drainage     Laparotomy, meticulous bowel inspection, repair;
+                          and observation                        catheter and abdominal drain
+
+ Adjuvant Intravesical Therapy
+   • Intravesical therapy after TUR reduces recurrence with little or no effect on progression.
+
+ POSTOPERATIVE INTRAVESICAL AGENTS
+  Agent                            Setting              Timing and dose              Bottom line
+  Single-dose chemotherapy         NMIBC                Within 24 hours of TUR       Meta-analysis of randomised trials:
+  (mitomycin C, epirubicin)                                                          about 13% absolute reduction in
+                                                                                     recurrence
+  Gemcitabine — Southwest          Suspected low-       Immediately after TUR, 2     Well tolerated, no grade 4–5 toxicity;
+  Oncology Group (SWOG)            grade NMIBC          g in 100 mL saline vs        12% absolute reduction in
+  S0337 (landmark)                                      saline                       recurrence at 4 years (hazard ratio
+                                                                                     [HR] 0.66, P <0.01)
+
+
+
+
+                                                           page 4 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                             PATIENT PREPARATION
+
+  Agent                           Setting             Timing and dose         Bottom line
+  BCG                             High-grade          Never immediately: wait  —
+                                  NMIBC — most        2–4 weeks and confirm no
+                                  active agent        gross haematuria
+
+   • Adjuvant instillation only in the absence of perforation.
+ Concept — TURBT serves two purposes by stage: in NMIBC completeness and depth are therapeutic, in
+ MIBC they are only prognostic and staging information; every technical choice (energy, distension, cutting
+ current) aims to put detrusor in the specimen without perforating, because perforation also forfeits
+ immediate intravesical chemotherapy.
+
+ PATIENT PREPARATION
+
+ Staging
+   • CT of chest, abdomen and pelvis if renal function is adequate and there is no iodinated contrast
+     allergy; MRI substitutes when renal function is impaired.
+   • Contrast cross-sectional imaging assesses the upper tracts and regional and distant spread, and guides
+     perioperative chemotherapy.
+   • MRI, with better soft-tissue resolution, assesses depth of invasion and can help distinguish NMIBC
+     from MIBC before TUR.
+   • Nodal staging: a systematic review suggests MRI and positron emission tomography–CT (PET/CT) may
+     be more sensitive than CT, yet CT remains the commonest modality (cost, availability, speed); CT
+     nodal accuracy varies widely with the node-size threshold.
+   • Bone and brain imaging only when clinically indicated.
+
+ Medical Optimisation and Stoma Marking
+   • Expect coronary artery disease, smoking-related lung disease and peripheral vascular disease.
+   • Enterostomal therapist stoma marking for every patient, whatever the planned diversion —
+     conversion to an ileal conduit during a planned continent diversion is rare but must be consented.
+   • Mark standing and seated to avoid folds and maximise appliance fit; without a stomal therapist the
+     surgeon marks, patient awake and in usual clothing.
+
+ Bowel Preparation
+   • Mechanical preparation was intended to reduce anastomotic leak and wound and abdominal infection;
+     randomised trials in colorectal surgery showed no benefit — complications, leak, wound infection and
+     abscess were similar without it.
+   • In radical cystectomy, pooled randomised trials show no or limited preparation → faster return of
+     bowel activity and flatus, less fever and fewer wound complications, without other harm.
+   • Routine mechanical bowel preparation is not advised, especially when only ileum is used; no routine
+     oral antibiotic adjunct.
+
+ Alvimopan
+   • Peripherally acting μ-opioid receptor antagonist, given 30–90 minutes before surgery and twice daily
+     thereafter.
+   • Phase III trial (bowel resection): less postoperative ileus, earlier discharge; phase IV study (radical
+     cystectomy): shorter stay, less total parenteral nutrition, cost saving.
+
+
+                                                        page 5 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                                      SURGICAL TECHNIQUE
+
+ Antibiotic Prophylaxis
+   • Intravenous, within 1 hour of incision, tailored to local susceptibility; cover gram-positive skin flora
+     and gram-negative aerobes and anaerobes of distal small and large bowel — a broad-spectrum
+     cephalosporin such as cefoxitin is usually adequate.
+
+ Venous Thromboembolism Prophylaxis
+   • High-risk patients without significant bleeding: mechanical (pneumatic compression) plus
+     pharmacological prophylaxis, started before induction of general or spinal anaesthesia.
+   • Extended prophylaxis for 4 weeks: a randomised trial of 28 vs 8 days after abdominal or pelvic surgery
+     showed a marked reduction in major venous thromboembolism (VTE) without more bleeding.
+
+ AGENTS FOR EXTENDED VTE PROPHYLAXIS
+                 Enoxaparin (low-
+                 molecular-weight
+                 heparin, LMWH)                Direct oral anticoagulant (DOAC), e.g. apixaban
+  Status         Most used after               Safe, effective alternative
+                 cystectomy
+  Compliance Poorer: cost, self-               Better (oral)
+             injection, injection-site
+             complications
+  Evidence       Reference                     Cancer-associated VTE meta-analysis: no difference in recurrent VTE,
+                                               major or clinically relevant non-major bleeding; after urological cancer
+                                               surgery, apixaban → fewer major complications, better compliance
+  Verdict        —                             Consider DOAC for extended prophylaxis after radical cystectomy
+
+ Positioning and Skin Preparation
+   • Men: supine, table flexion point at the anterior superior iliac spine, flexed about 15° (less after spinal
+     fusion or lumbar injury) (Fig. 132.4A).
+   • Women: low lithotomy (stirrups or spreader bars) for vaginal access; table flexion generally not
+     possible.
+   • Field: xiphoid to upper thighs, including genitalia, vagina and perineum.
+   • 10% povidone-iodine; avoid chlorhexidine gluconate on genital skin.
+ Concept — Preparation is enhanced recovery by subtraction and addition: remove what does not help
+ (bowel preparation, oral antibiotics) and add what protects bowel recovery and prevents clot (alvimopan,
+ a timed intravenous antibiotic, four weeks of thromboprophylaxis).
+
+ SURGICAL TECHNIQUE
+
+ Exposure and Bladder Mobilisation
+   • Sequence: lower midline incision, pubic symphysis → umbilicus (infraumbilical often suffices; extend
+     cephalad as needed) (Fig. 132.4B) → fascia divided exactly in the midline (aids closure, avoids
+     detaching rectus abdominis from its pubic insertion); upward umbilical traction reveals the linea alba →
+     space of Retzius entered; blunt release of bladder from pelvic sidewalls cephalad to vas deferens
+     (men) / round ligament (women) → peritoneotomy lateral to a medial umbilical ligament; urachus
+     controlled and divided (Fig. 132.5) → peritoneum incised lateral to both medial umbilical ligaments to
+     the internal inguinal rings; vasa deferentia or round ligaments divided.
+
+
+
+                                                         page 6 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                                PELVIC LYMPHADENECTOMY
+
+ Bowel Mobilisation
+   • Right: white line of Toldt incised around the caecum, posterior peritoneum opened to mobilise the
+     root of the small bowel mesentery.
+   • Left: white line of Toldt incised and a window created beneath the sigmoid mesentery, joining the
+     right posterior peritoneotomy — the route for transposing the left ureter to the right lower quadrant
+     (Fig. 132.6).
+   • Bookwalter-type retractor, bowel packed cephalad; confirm with the anaesthetist that the vena cava is
+     not compressed; moist packs behind retractor blades.
+
+ Ureteric Dissection
+   • Sequence: free each ureter from a few centimetres above the iliac crossing to the detrusor hiatus →
+     preserve adventitia → ligate and divide the obliterated umbilical artery first (maximises ureteric
+     length) → ligate (tie or suture ligature) and divide.
+   • Distal ureteric margin frozen section is controversial: a positive margin correlates with later upper
+     tract recurrence, but a survival effect is unproven, and sequential resection to a negative margin does
+     not eliminate upper tract recurrence.
+   • Urine management by preference: temporary ureteric catheters led off the field, or temporary ligation
+     to avoid spillage.
+ Concept — Ureteric length and blood supply are the currency of the later diversion: adventitia is preserved,
+ the obliterated umbilical artery divided early, and the left ureter given a ready-made retrosigmoid tunnel.
+
+ PELVIC LYMPHADENECTOMY
+   • Performed before or after removal of the bladder, by surgeon preference.
+
+ LYMPHADENECTOMY TEMPLATES
+  Template                   Boundaries / content                                   Evidence
+  Standard (Fig. 132.7A)     Lateral: genitofemoral nerve; medial: internal iliac   Reference template
+                             artery; distal: Cooper ligament; proximal: ureter
+                             crossing common iliac artery
+  Extended (Fig. 132.7B      Adds entire common iliac and presacral packets;        Better staging; possible oncological
+  — node packets)            used in advanced disease                               benefit over restricted templates
+  Superextended              Further to preaortic packet at inferior mesenteric     No extra staging information
+                             artery                                                 beyond the common iliac level; no
+                                                                                    benefit over extended
+
+   • Technique: protect the obturator nerve, control lymphatics at caudal and cephalad extremes, confirm
+     no residual lymphoid tissue (Fig. 132.7C–D).
+   • Node yield is a surrogate of surgical quality: ≥10 nodes removed → better five-year survival; in node-
+     positive disease (Surveillance, Epidemiology, and End Results population data) ≥10 nodes vs 1–5 →
+     longer overall survival.
+   • Extent: systematic review — extended or superextended may outperform restricted templates,
+     superextended adds nothing over extended; randomised trial: extended not superior to limited for
+     recurrence-free or cancer-specific survival.
+   • Therapeutic value of extended dissection remains controversial, but its staging value is secure — it
+     identifies candidates for adjuvant systemic therapy; mapping shows a minority of node-positive
+     patients have no true-pelvis metastases, most of whom only extended dissection would detect.
+
+
+                                                        page 7 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                      RADICAL CYSTECTOMY: MALE
+   • NMIBC at radical cystectomy: meaningful upstaging to ≥pT2 and occult node positivity; yield >10 →
+     better local pelvic recurrence-free survival; yield >20 → better cancer-specific and overall survival,
+     most evident in cTis and cT1.
+   • Completed dissection exposes the vascular pedicles (Fig. 132.8): superior, middle and inferior vesical
+     arteries controlled with vascular stapler, clips or sealing device.
+ Concept — Lymphadenectomy is certain as staging and uncertain as therapy: yield thresholds track quality
+ and survival, but the randomised comparison did not show extended dissection beat limited dissection.
+
+ RADICAL CYSTECTOMY: MALE
+
+ Posterior Dissection
+   • Sequence: anterior pedicles ligated → rectal cul-de-sac identified; peritoneum over the seminal
+     vesicles incised (Fig. 132.9) — ensure margin if tumour at bladder base → rectum freed in midline
+     (blunt or sharp) to the prostate → Denonvilliers fascia incised → dissection carried laterally; posterior
+     pedicles identified (Fig. 132.10A) and controlled with clips, ties, staplers or sealers (Fig. 132.10B).
+   • Advanced disease, prior pelvic radiation, or fibrosis after resection or intravesical chemotherapy →
+     no blunt dissection; sharp dissection under vision.
+   • Rectal injury → primary repair, with or without flap coverage and/or faecal diversion.
+   • Sealing devices transmit heat to the rectum → shield the rectum with a gloved finger from the
+     instrument tips.
+
+ Anterior and Apical Dissection
+   • Sequence: urethra now palpable → endopelvic fascia incised over levators → urethra–dorsal venous
+     complex confluence identified → dorsal venous complex ligated and divided (Fig. 132.11) → anterior
+     urethra incised.
+
+ Urethral Margin and Neobladder
+   • Planned orthotopic neobladder → preserve urethral length and send a urethral margin frozen
+     section.
+   • Urethral recurrence occurs in a minority, usually within two years; risk is lower after orthotopic than
+     cutaneous diversion (reason unclear).
+   • Negative intraoperative frozen section → no urethral recurrence at 10 years in one series;
+     preoperative prostatic urethral biopsy correlates poorly with final margin, whereas a negative frozen
+     section has very high negative predictive value.
+   • Positive urethral margin → no orthotopic neobladder; warn the patient preoperatively.
+
+ Nerve Sparing
+   • Controversial, unlike in radical prostatectomy; technique is analogous (Fig. 132.12).
+   • Functional results are significantly worse than after prostatectomy and not clearly better than non-
+     nerve-sparing cystectomy; only a minority regain erections adequate for intercourse at one year, more
+     after neobladder than ileal conduit.
+   • Age is a strong predictor of recovery, as after prostatectomy.
+   • Local recurrence after nerve sparing is uncommon but has occurred even in pT2 disease.
+   • Decide by preoperative sexual function and disease burden; non-nerve-sparing (Fig. 132.13) is
+     preferred in advanced disease and pre-existing erectile dysfunction.
+
+
+
+                                                      page 8 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                    RADICAL CYSTECTOMY: FEMALE
+
+ Prostate Sparing (Subtotal Prostatic Resection)
+   • Variants: whole prostate left, or prostatic capsule and/or seminal vesicles spared; studied mainly with
+     orthotopic neobladder.
+   • Early series: excellent erectile function and no local recurrence, but short follow-up; meta-analysis:
+     better potency and better day- and night-time continence.
+   • Concern: high rate of occult prostate cancer in cystoprostatectomy specimens; in carefully selected
+     men (no prostate cancer preoperatively, negative frozen section) local control is good, but distant
+     metastasis remains frequent.
+   • Work-up: DRE, prostate-specific antigen (PSA), transurethral prostatic resection, intraoperative frozen
+     section; abnormal PSA or DRE → prostate biopsy before surgery.
+ Concept — Every functional preservation in men is paid for at an oncological margin: the urethra for a
+ neobladder (the frozen section decides), the nerves for potency (a disappointing yield), and the prostate for
+ erection and continence (the occult prostate cancer risk).
+
+ RADICAL CYSTECTOMY: FEMALE
+
+ Rationale and Counselling
+   • Traditional operation: anterior pelvic exenteration — bladder, urethra, anterior vagina, uterus, cervix;
+     essential with a positive examination under anaesthesia or suspected anterior vaginal wall invasion
+     (cT4a).
+   • Women present with more advanced disease, and female sex is an independent risk factor for death
+     from disease → anterior exenteration remains the gold standard.
+   • Sexual morbidity: limited recovery of sexual function by two years; dyspareunia, reduced libido and
+     vaginal dryness common; more than half receive no preoperative counselling → counsel thoroughly.
+   • Pelvic organ sparing can be considered in highly selected women prioritising sexual function:
+     gynaecological organ involvement is uncommon in MIBC and ovarian involvement was absent in one
+     series.
+   • The ovaries continue to produce testosterone after menopause; bilateral salpingo-oophorectomy
+     impairs sexual function → discuss ovarian sparing when disease is not locally advanced.
+   • cT1–cT2 with orthotopic neobladder planned → vaginal and urethral sparing are necessary.
+
+ Anterior Exenteration Technique
+   • Sequence: bowel and anterior bladder mobilisation and ureteric dissection as in men, except ovarian
+     vessels ligated (2-0 silk distally; 2-0 silk suture ligature plus tie proximally) and divided → identify
+     posterior cervical fornix (Fig. 132.14A) → incise vaginal cuff there (Fig. 132.14B) → control lateral and
+     posterior pedicles (staplers, sealers or clips) → specimen: uterus, cervix, anterior vaginal cuff, bladder
+     → urethral meatus incised antegrade or from the introitus; specimen removed (Fig. 132.15A–B) →
+     keep enough vaginal mucosa above the meatus for closure → release posterior vaginal wall from
+     rectum if needed (Fig. 132.15C) → clamshell closure of posterior flap to introitus with 2-0 polyglactin
+     910 (preserves girth at the cost of length) → watertight, interrupted closure → vaginal pack, removed
+     on day 2.
+   • The female pelvis is vascular and the pedicles are sinusoidal over the lateral vaginal wall → meticulous
+     haemostasis.
+   • Non-watertight closure → troublesome drainage of peritoneal fluid; the pack distends the vagina,
+     tamponades wall bleeding (particularly after vaginal sparing) and reveals defects.
+
+
+                                                      page 9 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                                PARTIAL CYSTECTOMY
+
+ Vaginal- and Urethral-Sparing Cystectomy for Neobladder
+   • Orthotopic neobladder if the bladder neck is uninvolved and disease is ≤cT2.
+   • Requires urethral length proximal to the striated sphincter and anterior vaginal wall sparing to
+     support the neobladder.
+   • Sequence: separate lateral pedicles from lateral vaginal wall before ligation — after removing cervix
+     and uterus at the fornix (Fig. 132.16A) or with them in place → vaginal pack or end-to-end
+     anastomosis (EEA) sizer defines the midline bladder–vagina plane → extend laterally → do not divide
+     the pedicles until the midpoint of the lateral vaginal wall is reached (preserves bladder margin) →
+     continue to bladder neck (Foley balloon as guide) → preserve striated sphincter; transect → urethral
+     margin frozen section; malignancy → orthotopic diversion contraindicated → vaginal apex closed with
+     2-0 polyglactin 910; urethral anastomotic sutures placed (Fig. 132.16B–C).
+
+ ORGAN- AND FUNCTION-SPARING OPTIONS
+  Option                Candidate                            Gain                     Price / precondition
+  Male nerve            Good preoperative function,          Modest potency benefit   Poor functional yield; local
+  sparing               limited disease                                               recurrence reported even in
+                                                                                      pT2
+  Male prostate         Normal DRE and PSA, negative       Potency; day and night     Occult prostate cancer;
+  sparing               transurethral resection and frozen continence                 distant metastasis
+                        section
+  Female ovarian        Not locally advanced                 Postmenopausal           Individual risk–benefit
+  sparing                                                    testosterone, sexual     discussion
+                                                             function
+  Female vaginal        ≤cT2, bladder neck uninvolved        Orthotopic neobladder;   Negative urethral frozen
+  and urethral                                               sexual function          section
+  sparing
+
+ Concept — In women the default operation is wider than in men because they present later and die more
+ often of the disease; sparing is the exception, earned by low stage, an uninvolved bladder neck and a
+ negative urethral margin.
+
+ PARTIAL CYSTECTOMY
+
+ Selection and Outcomes
+   • Solitary, small MIBC without concurrent CIS → results similar to radical cystectomy; population-based
+     cohort matched for node count and clinicopathology: equivalent overall and cancer-specific survival.
+   • Recurrence pathways: NMIBC recurrence → intravesical therapy; muscle-invasive recurrence →
+     salvage radical cystectomy, but survival after salvage is far worse if disease is extravesical or node-
+     positive than if organ-confined.
+   • Preoperative: counsel about possible radical cystectomy and diversion (margin may be unattainable or
+     extravesical disease found); cisplatin-eligible → offer neoadjuvant chemotherapy.
+
+ Technique
+   • Sequence: pelvic lymphadenectomy and anterior bladder mobilisation → cystotomy away from the
+     tumour → excise tumour with full-thickness wall and perivesical fat, 1–2 cm mucosal margin,
+     confirmed by frozen section → excise ureteric orifice or intramural ureter and reimplant if needed →
+     close with 2-0 polyglactin 910 in 2–3 layers; fill via catheter to confirm watertight → copious warm
+
+
+
+                                                        page 10 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                           ROBOTIC RADICAL CYSTECTOMY
+     water irrigation (against pelvic seeding) → closed suction drain → cystogram on day 7 before catheter
+     removal.
+   • Perioperative intravesical chemotherapy may be considered to reduce NMIBC recurrence.
+
+ Urachal Adenocarcinoma
+   • Rare primary adenocarcinoma, mostly confined to the dome, may extend directly.
+   • En bloc excision of umbilicus, urachus and bladder dome through a circumferential periumbilical
+     incision extended toward the pubis, with visually clear margin confirmed by frozen section (Fig.
+     132.17); bowel augmentation if capacity is much reduced.
+ Concept — Partial cystectomy applies radical-cystectomy oncology to a smaller specimen — same
+ lymphadenectomy, same neoadjuvant chemotherapy, frozen-section margins — and is safe only where
+ field disease (CIS, multifocality) is absent.
+
+ ROBOTIC RADICAL CYSTECTOMY
+
+ Background
+   • Patients are difficult: pulmonary and cardiac comorbidity, frailty, poor performance status, advanced
+     age, prior abdominal surgery or pelvic radiation.
+   • Enhanced recovery shortened stay and hastened bowel recovery, but complications and transfusion
+     rates remained stubbornly high — the drive toward minimally invasive surgery.
+   • Evolution: laparoscopic simple cystectomy → laparoscopic radical cystectomy with extracorporeal
+     diversion → robotic radical cystectomy and lymphadenectomy → intracorporeal diversion (first
+     reported 2003; uptake rising per the International Robotic Cystectomy Consortium).
+   • Early resistance concerned oncological equipoise (no tactile feedback). Unlike prostate cancer, bladder
+     cancer has no effective salvage: urine spillage, inadequate lymphadenectomy or a positive soft-tissue
+     margin → recurrence nearly always fatal.
+
+ OPEN VERSUS ROBOTIC RADICAL CYSTECTOMY — THE TRIAL EVIDENCE
+  Study                        Design / diversion     Primary endpoint      Verdict
+  Early randomised non-        Open diversion both    Node yield            No difference; robotic: less blood loss,
+  inferiority trial            arms                                         faster bowel return, less morphine; longer
+                                                                            operation
+  Robotic extended             Single arm             Adequacy of robotic   High robotic yield, few extra nodes, no
+  dissection with open                                node dissection       stage change; no positive margins in
+  second look (MD                                                           either early study
+  Anderson)
+  Memorial Sloan               Open diversion both    90-day grade 2–5      Closed for futility — complications
+  Kettering single-            arms                   complications         similar; less blood loss, higher cost, longer
+  institution randomised                              (modified Clavien)    operation; later no difference in
+  trial                                                                     recurrence-free or cancer-specific
+                                                                            survival
+  RAZOR (landmark,             Phase 3 non-           2-year progression-   Robotic non-inferior (72.3% vs 71.6%);
+  Lancet 2018)                 inferiority; open      free survival         less blood loss, fewer transfusions,
+                               diversion both arms                          shorter stay
+  iROC (landmark)              Robotic with           Days alive and out    Robotic better; overall complications
+                               intracorporeal         of hospital at 90     similar; fewer VTE and wound
+                               diversion vs open      days                  complications
+
+
+
+
+                                                       page 11 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                        ROBOTIC RADICAL CYSTECTOMY
+
+  Study                        Design / diversion     Primary endpoint   Verdict
+  Meta-analysis,           Expert centres             Complications      No difference overall; fewer major
+  intracorporeal vs                                                      complications, less blood loss
+  extracorporeal diversion                                               intracorporeally
+
+   • Open diversion in both arms is argued to affect a complication endpoint but not progression-free
+     survival.
+   • Adoption has not matched robotic prostatectomy; demonstrated equipoise will raise interest. Authors'
+     verdict: oncological equivalence with recovery advantages; no compelling evidence of superiority of
+     either approach.
+
+ Patient Selection
+   • Indications and staging are identical to open surgery.
+   • Steep Trendelenburg and pneumoperitoneum → raised pulmonary pressures, ventilation mismatch,
+     raised intraocular pressure, reduced cardiac output — address with anaesthesia before the day of
+     surgery.
+   • Prior abdominal or pelvic surgery is not a strict contraindication (though excluded from trials); avoid
+     early in the learning curve after prior urological surgery (partial cystectomy, ureteric reimplantation)
+     — positive-margin risk.
+   • Obesity: positioning difficulty and worse ventilation in Trendelenburg; team decision; when in doubt,
+     open or convert.
+   • Technique described for the da Vinci system (Intuitive Surgical); principles transfer to new platforms.
+
+ Patient Positioning
+   • Tailored case by case: prior radiation, rectal or bowel risk, sexual and endocrine preservation, limited
+     limb movement, existing prosthetic reservoirs.
+
+ DOCKING BY PLATFORM
+                                                                                        da Vinci S, Si, X (no
+             da Vinci Xi (rotating overhead boom)                                       rotating boom)
+  Docking Side-docking from the patient's right, men and women                          Between the legs,
+                                                                                        lithotomy — side docking
+                                                                                        causes arm clashes
+  Position Men usually supine; lithotomy if vaginal access needed or rectal              Lithotomy
+           complications likely (prior prostatectomy or prostate radiation) — still dock
+           right, leaving the space between the legs free for an assistant
+
+   • Anti-migration: 3M Reston adhesive foam under the torso (grips bed, cushions skin); arms tucked;
+     padded chest strap at mid-chest; padded leg straps if supine (Fig. 132.18).
+
+ Port and Assistant Placement
+   • Ports sit more cephalad than for prostatectomy — extended lymphadenectomy, and right ports higher
+     for terminal ileum and caecum if robotic diversion is planned (Fig. 132.19).
+   • Access: Veress needle, meniscal drop test, insufflate to 15 mmHg → camera port; inspect with patient
+     flat before Trendelenburg → remaining ports.
+
+ PORT POSITIONS
+  Port                       Position (text)                             Figure legend variant
+  Camera                     3–4 fingerbreadths (5–7 cm) above umbilicus Same
+
+
+                                                       page 12 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                              ROBOTIC RADICAL CYSTECTOMY
+
+  Port                       Position (text)                                   Figure legend variant
+  Right robotic × 2          Level with camera, straight line, 9–10 cm         Same
+                             apart
+  Left robotic               Nearer pelvis, level with umbilicus, ~15 cm       14–16 cm lateral to umbilicus, just above
+                             from camera                                       it
+  12-mm assistant (or 5- Between left robotic port and camera                  9–10 cm lateral to, level with, camera
+  mm)
+  15-mm assistant            Just cephalad to anterior superior iliac spine    9 cm lateral to left robotic port, just below
+                                                                               umbilicus
+
+   • The 15-mm port gives the best angle for bowel stapling, removes large node packets en bloc and
+     admits a large Endo Catch retrieval bag.
+   • Port-closure sutures for 12- and 15-mm sites placed at the start (0 polyglactin 910, Carter-Thomason
+     CloseSure).
+   • Single assistant on the patient's left; four-arm configuration with two arms on the right; ~25°
+     Trendelenburg, then dock; insufflation may be reduced.
+
+ Instrumentation
+ TABLE 132.1 ROBOTIC SYSTEM RECOMMENDATIONS
+  Arm (patient left
+  → right)             Instrument                     Notes
+  1                    Maryland bipolar forceps       Principal dissector (left medial port); second Cadiere forceps here
+                                                      during diversion
+  2                    Camera, 0° lens                Nearly all cases, including low retroperitoneal (paracaval, para-
+                                                      aortic, preaortic) dissection; 30° lens rarely needed
+  3                    HotShears (monopolar           Principal cutting instrument (right medial port)
+                       curved scissors)
+  4                    Cadiere forceps                Retraction with less crush injury than ProGrasp; limited bowel
+                                                      grasping, with care, under direct vision
+  1 and 3              Large needle drivers           Optional large SutureCut driver — especially for continent
+                                                      diversion
+
+   • The pattern is bipolar left hand, monopolar right hand, gentle grasper in the fourth arm; the trap is
+     using ProGrasp on bowel.
+
+ Sigmoid Release and Posterior Dissection
+   • Sequence: grasp sigmoid distal to the S-curve and retract cephalad (not to the right) → release the
+     peritoneal attachments forming the S-curve → sigmoid self-retracts out of the pelvis, freeing the fourth
+     arm → continue along pelvic sidewall and left white line of Toldt (Fig. 132.20A–C) → incise peritoneum
+     just medial to the left ureter → avascular plane beneath sigmoid mesentery, over presacral packet (Fig.
+     132.20D–E) → continue to the right common iliac artery (Fig. 132.20F).
+   • Bleeding here means the sigmoid mesentery has been entered → adjust the plane; mesenteric fat is
+     darker yellow than retroperitoneal or lymphatic fat.
+   • Male cul-de-sac: peritoneum incised, dissection to the prostatic apex as in prostatectomy (Fig. 132.21);
+     seminal vesicles released only if nerve sparing is planned.
+
+
+
+
+                                                         page 13 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                                ROBOTIC RADICAL CYSTECTOMY
+
+ Lateral Space of Retzius and Anterior Vascular Pedicle Dissection
+   • Women having oophorectomy: ovarian vessels controlled now — two clips proximally, one distally
+     (large Weck clips).
+   • Sequence (Retzius): medial umbilical ligament (obliterated umbilical artery) grasped and retracted
+     medially → bladder–abdominal wall interface exposed (Fig. 132.22A–B) → peritoneum incised to
+     internal ring; vas deferens / round ligament controlled (bipolar or clips) → keep perivesical fat on
+     bladder medially and nodes laterally → distally to endopelvic fascia (Fig. 132.22C), posteriorly to
+     hypogastric artery (Fig. 132.22D) → in men endopelvic fascia incised as for prostatectomy (high release
+     if nerve sparing).
+   • Sequence (anterior pedicle): Weck clips preferred (secure, no heat spread, nerve-sparing compatible)
+     → upward and medial traction on obliterated umbilical artery opens the space to the ureter →
+     avascular plane medial to the pedicle (Fig. 132.23A–B) → clip sequentially toward endopelvic fascia →
+     a broad distal hypogastric venous branch just proximal to the endopelvic fascia marks a complete
+     anterior pedicle dissection (Fig. 132.23C–D).
+   • Ureter: lift bladder near detrusor hiatus to elevate it (Fig. 132.23E) → blunt retraction with smooth
+     instrument surfaces, bipolar to perforators → never grasp the ureter → mobilise above the common
+     iliac artery (Fig. 132.23F) with ample adventitia (prevents ischaemic stricture); no vessel loops needed.
+   • Do not divide the ureters yet — complete the lymphadenectomy with antegrade urine flow; right
+     side then dissected similarly.
+
+ Extended Pelvic Lymphadenectomy
+   • Why lymphadenectomy before cystectomy (ureters in continuity): avoids prolonged ureteric occlusion
+     (renal function), keeps urine output as a resuscitation guide for anaesthesia; occlusion-induced
+     dilatation offers no reliable anastomotic advantage; ureters do not obstruct the field.
+   • Landmarks are those of open surgery; the camera angle changes the visual cues.
+   • Keep each packet whole and bag it immediately; the 15-mm port avoids fragmenting packets and
+     transecting nodes.
+
+ ROBOTIC NODE PACKETS — MANOEUVRE, COMPLETION LANDMARK AND TRAP
+                                                              Completion
+  Packet              Key manoeuvre                           landmark                 Trap
+  External iliac      Lateral retraction of spermatic         Distally to inferior     Cutting across without cord
+  (Fig. 132.24)       cord shows lateral border; tissue       epigastric vessels       retraction transects nodes;
+                      between artery and vein                                          genitofemoral nerve branches
+                      included; separated from                                         (femoral, inguinal) variable —
+                      obturator packet along natural                                   release, or en bloc if densely
+                      cleavage plane                                                   adherent in advanced disease
+  Obturator (Fig.     Suction-tip retraction of external      Lateral and posterior    Obturator nerve is not the posterior
+  132.25)             iliac artery; release from vein and     release until            limit; dissecting at the nerve
+                      sidewall; bipolar to lateral            hypogastric vein wall    transects nodes
+                      perforators                             is seen; fossa bare
+  Hypogastric         Deep to obturator nerve; release        Deep extension           Leaving the deep posterior portion
+  (internal iliac)    from sidewall toward endopelvic         lateral to mesorectal
+  (Fig. 132.26)       fascia; gentle upward traction          fascia removed
+  Common iliac        From lateral border of common           Common iliac vein        —
+  (Fig. 132.27)       iliac artery, posteriorly               wall seen; ureter lies
+                                                              over cleared bed
+
+
+
+
+                                                            page 14 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                             ROBOTIC RADICAL CYSTECTOMY
+
+                                                            Completion
+  Packet              Key manoeuvre                         landmark               Trap
+  Presacral (Fig.     Incise thinned peritoneum over        Aortic bifurcation      May be omitted in NMIBC with
+  132.28)             right common iliac artery to join     seen; packet lifted off nerve sparing to protect hypogastric
+                      left-sided dissection; bipolar to     left common iliac vein plexus
+                      perforators                           and presacral space
+
+   • Extent is tailored to cancer characteristics and functional goals — extend into the retroperitoneum or
+     omit portions.
+
+ Ureteral Control and Posterior Pedicle Dissection
+   • Sequence: ureters clipped at the detrusor hiatus (more proximally if trigone or intramural ureter
+     involved) (Fig. 132.29A–B) → space between clips → ureteric margin frozen section (Fig. 132.29C) →
+     left ureter transposed beneath sigmoid mesentery to the right lower quadrant (Fig. 132.29D); tether
+     sutures unnecessary if sigmoid release adequate → posterior pedicle controlled before urachus and
+     anterior Retzius release (better view) → men: rightmost arm retracts bladder upward toward opposite
+     shoulder (Fig. 132.30A); vessel sealer (clips if nerve sparing) toward genitourinary diaphragm (Fig.
+     132.30B) → prostatic pedicle (Fig. 132.30C) → prostatic apex (Fig. 132.30D).
+
+ Male Apical Dissection
+   • Sequence: urachal attachments released (bipolar) → dorsal venous complex: 2-0 V-Loc figure-of-eight,
+     suspended through the pubic symphysis synchondrosis (Fig. 132.31A) → urethra isolated (Fig.
+     132.31B) → catheter removed; urethra controlled proximally and distally and transected; neobladder
+     planned → proximal clip only, no distal clip (Fig. 132.31C) → distal urethral margin: partially transect
+     close to the proximal clip, then complete a few millimetres distally (Fig. 132.31D) — easier than after
+     specimen release.
+
+ Female Radical Cystectomy
+   • En bloc with uterus and ovaries as in open surgery. An EEA sizer placed vaginally identifies the
+     posterior cervical fornix (or vaginal vault after hysterectomy), gives countertraction and distends the
+     wall for the sparing plane.
+   • En bloc anterior vaginectomy: posterior fornix opened → vessel sealer along anterolateral vaginal wall
+     to introitus → at meatus, catheter detached from bag, clipped by assistant and pulled
+     intracorporeally to retract the meatus → complete urethral and meatal excision (Fig. 132.32E–F).
+   • Vaginal sparing (uterus in situ; Fig. 132.32): fourth arm lifts bladder, EEA countertraction (A) →
+     peritoneum incised, anterior vaginal wall exposed (B) → midline dissection toward introitus in a near-
+     avascular plane → lateral posterior pedicles defined as in men (C) → clips or sealer to the meatus (D)
+     → neobladder: apical dissection after urachal release; no urethral sparing: open vagina just behind
+     bladder neck with the catheter manoeuvre.
+   • Vaginal closure (clamshell): authors use running 2-0 V-Loc (alternatives interrupted or figure-of-eight
+     2-0 polyglactin 910); mucosa-to-mucosa, watertight — otherwise peritoneal fistula and prolonged
+     vaginal leakage; Premarin-coated pack, removed day 2.
+   • Specimen extraction: after en bloc anterior vaginectomy, bagged specimen delivered through the
+     vaginal defect under tension monitoring; abandon if the bag stalls or a tear threatens → extend the
+     midline port site.
+
+
+
+
+                                                          page 15 of 16
+Chapter 132 — Surgical Management of Bladder Cancer                                   ROBOTIC RADICAL CYSTECTOMY
+
+ Postoperative Care
+   • Genitourinary and gastrointestinal surgery in elderly, comorbid patients: major complications are
+     infrequent but most patients have some complication — commonest gastrointestinal, then
+     infectious.
+   • Monitor blood count, electrolytes, renal function and fluid balance; often intensive care or step-down
+     initially.
+   • No routine nasogastric tube — only for impaired mentation or airway-protection concerns.
+   • Continue VTE prophylaxis unless bleeding; early ambulation; incentive spirometry, deep breathing,
+     coughing.
+   • Delayed bowel function prolongs stay: alvimopan; neostigmine (with telemetry); promotility
+     suppositories; stress ulcer prophylaxis; antiemetics; early enteral feeding if no nausea or vomiting;
+     opioid avoidance — ketorolac and paracetamol unless contraindicated.
+ Concept — Robotic cystectomy is judged on oncology first because bladder cancer has no salvage;
+ randomised evidence shows equivalent progression-free survival with recovery gains, and each technical
+ rule (whole node packets, never grasp the ureter, lymphadenectomy before ureteric division) protects the
+ margin, the node count or the ureter.
+
+
+   KEY POINTS
+    • Bladder cancer is common, costly and frequently fatal.
+    • Radical cystectomy offers excellent survival for organ-confined disease.
+    • TUR is diagnostic and therapeutic, especially for low-grade tumours.
+    • Perioperative intravesical chemotherapy reduces recurrence by about 13%.
+    • Standard template: genitofemoral nerve laterally, internal iliac artery medially, Cooper ligament
+      distally, ureter crossing the common iliac artery proximally.
+    • Ureteric margin frozen section predicts upper tract recurrence, but sequential resection to a
+      negative margin may have no impact.
+    • Nerve-sparing radical cystectomy aims to preserve sexual function and mirrors radical
+      prostatectomy technique.
+    • Subtotal prostatic resection may further aid sexual function, only where occult prostate cancer risk is
+      low.
+    • Vaginal sparing is appropriate without locally advanced disease and permits orthotopic diversion.
+    • Partial cystectomy suits rare, solitary urothelial tumours without concomitant CIS.
+    • Urachal adenocarcinoma: en bloc resection of umbilicus and bladder dome.
+    • Robotic radical cystectomy gives similar oncological outcomes to open and can speed recovery.
+    • Enhanced recovery protocols restore physiology sooner and shorten stay.
+
+
+
+
+                                                      page 16 of 16
+

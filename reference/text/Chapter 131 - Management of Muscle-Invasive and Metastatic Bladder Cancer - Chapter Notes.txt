@@ -1,0 +1,1469 @@
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer
+
+
+ Chapter 131 — Management of Muscle-Invasive and
+ Metastatic Bladder Cancer
+  • Burden: in the United States in 2022, an estimated 81,000 new cases and 17,000 deaths; bladder
+    cancer is the fourth commonest malignancy in males (about 6% of all cancer diagnoses). Less common
+    in females, yet female sex is associated with worse survival.
+  • Stage at presentation: most patients have non–muscle-invasive bladder cancer (NMIBC); 20–30%
+    present with muscle-invasive bladder cancer (MIBC) and about 12% with node-positive or metastatic
+    disease.
+  • Care is multidisciplinary — urologist, medical oncologist and radiation oncologist — from diagnosis
+    onwards.
+
+ NATURAL HISTORY
+  • Primary versus secondary MIBC: most MIBC is muscle-invasive at diagnosis (primary); about 20%
+    progress from NMIBC during initial management (secondary).
+  • Five-year survival: localised disease about 70% (a figure that includes NMIBC); regional disease about
+    39%; distant disease about 8%.
+  • Secondary MIBC does worse. Initial understaging contributes, but secondary MIBC also shows lower
+    pathological response to neoadjuvant chemotherapy (NAC) — evidence of a biological and possibly
+    genomic difference from primary MIBC.
+  • Death after adequate local therapy is systemic: most deaths occur within 2 years of treatment, and
+    non-locoregional relapse reflects micrometastatic disease already present at diagnosis. Hence the
+    central place of neoadjuvant and adjuvant (multimodal) therapy.
+
+ Risk Factors
+  • Tobacco is the number one risk factor, accounting for nearly half of all bladder cancers; the
+    carcinogens are aromatic amines and N-nitroso compounds.
+      ◦ Smokers carry a relative risk of about 3.5 versus non-smokers; risk rises with amount and duration
+        smoked and falls after cessation.
+      ◦ Screen every patient for smoking status and advise cessation at diagnosis. The effect of cannabis,
+        e-cigarettes and vaping is unknown.
+  • Occupational exposure: aluminium production, rubber production, dye work, coal-tar pitch, dry
+    cleaning, hairdressing, printing and textile manufacture; carcinogens range from 2-naphthylamine to
+    4,4′-methylene-bis compounds and tetrachloroethylene. Occupation accounts for about 7% of cases
+    in males; no association has been found in females.
+  • Other factors (detailed in Chapter 129): radiation, environmental exposures, chronic cystitis and
+    schistosomiasis (both squamous cell carcinoma), cyclophosphamide and pioglitazone, genetic and
+    dietary factors.
+ Concept — Muscle-invasive bladder cancer is a systemic disease at diagnosis in a large minority: death
+ after local therapy comes from micrometastases already present, which is why every curative pathway
+ now wraps local treatment in systemic therapy.
+
+ HISTOLOGY
+  • Urothelial carcinoma (UC) accounts for 90% of bladder tumours.
+
+
+                                                          page 1 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                        HISTOLOGY
+  • Radical cystectomy (RC) is standard for MIBC whatever the histology; what varies by subtype is the
+    use and timing of NAC and/or radiation.
+  • Variant histology at RC is more often upstaged, with more extravesical disease, lymphovascular
+    invasion (LVI) and nodal metastasis than pure UC — so it must be recognised early.
+  • American Urological Association (AUA): genitourinary pathologist review when variant histology is
+    suspected or muscle invasion is equivocal.
+
+ VARIANT HISTOLOGIES COMPARED
+  Histology                 Frequency and setting             Associations and pitfalls    Treatment
+  Squamous cell             5% in the West; commoner          Chronic cystitis, chronic    Poor response to
+  carcinoma                 in the Middle East and Africa     catheterisation              chemotherapy and radiation
+                            (endemic schistosomiasis),                                     → up-front RC and
+                            where its share is falling                                     lymphadenectomy
+                            (effective anti-bilharzial
+                            drugs, less smoking)
+  Adenocarcinoma            2%; arises from urothelium        May be secondary —           Poor response to systemic
+                            or a patent urachus;              exclude metastasis from      therapy and radiation → RC
+                            commonest tumour in               colorectal and breast        and lymphadenectomy
+                            bladder exstrophy                 primaries                    (urachal: partial cystectomy
+                                                                                           — see Partial Cystectomy)
+  Neuroendocrine            Rare, aggressive; high stage  Paraneoplastic: ectopic          Chemosensitive → NAC
+  (usually small cell;      or metastatic at presentation adrenocorticotropic              (etoposide + cisplatin), then
+  large cell behaves                                      hormone (ACTH),                  RC or consolidative local
+  similarly)                                              hypercalcaemia,                  therapy
+                                                          hypophosphataemia
+  Micropapillary            Resembles ovarian papillary       Frequent LVI; NAC response   Predominant micropapillary
+                            serous carcinoma; high            data conflicting             → RC
+                            grade, high stage
+  Mixed UC with             —                                 Quantify the variant         Predominant UC → NAC may
+  variant                                                     component                    benefit; predominant variant
+                                                                                           → up-front RC
+
+  • Other variants — nested/microcystic, large nested, glandular, clear cell, microtubular, plasmacytoid,
+    lymphoepithelioma-like, giant cell and sarcomatoid/carcinosarcoma — are all high grade under the
+    World Health Organization (WHO) 2022 classification. Carcinoid tumours rarely arise in or invade the
+    bladder.
+  • Rare non-urothelial entities: rhabdomyosarcoma, leiomyosarcoma, primary lymphoma.
+  • Evidence for most variants is scant, but most are aggressive: consider early definitive RC with
+    lymphadenectomy.
+ Concept — The dividing line between variants is chemosensitivity: neuroendocrine and urothelial-
+ predominant tumours earn neoadjuvant chemotherapy, whereas squamous, adenocarcinoma and
+ predominantly micropapillary tumours go straight to cystectomy.
+
+ CLINICAL STAGING AND DIAGNOSIS
+  • Clinical stage estimates disease burden before RC; pathological stage comes from microscopy of the RC
+    and pelvic lymphadenectomy specimens.
+  • Clinical staging combines: depth of invasion on transurethral resection (TUR) → bimanual examination
+    under anaesthesia (EUA) → abdominopelvic cross-sectional imaging with and without contrast, with
+    excretory phase for the upper tracts → chest imaging.
+
+
+                                                          page 2 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer              CLINICAL STAGING AND DIAGNOSIS
+  • Clinical–pathological discordance is common: in clinical T2 disease, pathological upstaging occurs in
+    about 40–54% and downstaging in about 17%.
+        ◦ Predictors of upstaging: LVI, variant histology, female sex; LVI also predicts nodal disease at RC;
+          secondary MIBC is upstaged more often than primary.
+        ◦ Understaging increases progression and death from disease.
+ Transurethral resection
+  • TUR is the standard diagnostic procedure; a genitourinary pathologist should report depth of invasion
+    and histological subtype.
+  • Document the location, size, number and appearance of tumours; consider a separate deep specimen
+    from each tumour, especially if invasive (TUR technique: Chapter 132).
+  • Resect all macroscopic tumour when safe and feasible: this lowers local burden, may optimise NAC
+    response, and improves the chance of successful bladder preservation with chemoradiotherapy.
+  • pT0 at RC confers a survival benefit in randomised NAC trials whether or not NAC was given —
+    suggesting a benefit from aggressive TUR itself.
+ The prostatic urethra and the female urethra
+  • Inspect the prostatic urethra (males) and urethra (females) at TUR.
+  • Risk factors for prostatic urethral involvement: tumour at the trigone or bladder neck, carcinoma in
+    situ (CIS), high-volume multifocal disease.
+  • Why it matters: prostatic stromal involvement influences the need for NAC, the need for
+    urethrectomy, and the choice of urinary diversion.
+  • Prostatic urethral biopsy at TUR: full loop of tissue from mid-prostate to the mid-to-distal
+    verumontanum → at 5 and 7 o'clock adjacent to the verumontanum (highest density of prostatic
+    ducts; commonest site of CIS) → plus any abnormal-looking tissue. A full-thickness resection shows the
+    pathologist the interface of urethral mucosa, prostatic ducts and stroma, permitting accurate staging.
+  • Frozen section at cystoprostatectomy:
+        ◦ Negative TUR biopsy: the European Association of Urology (EAU) suggests the intraoperative frozen
+          margin may be omitted; however, intraoperative frozen section has a higher negative predictive
+          value, so the authors recommend it whenever orthotopic diversion is considered.
+        ◦ Positive TUR biopsy → intraoperative frozen urethral margin is required; if negative, orthotopic
+          diversion can be considered.
+  • Females: urethral involvement is rare; take a proximal urethral margin whenever orthotopic diversion
+    is considered. Risk factors: involvement of the bladder neck, bladder base and anterior vaginal wall.
+ Bimanual examination under anaesthesia
+  • Perform before and after resection, with the bladder drained and no catheter in place; dominant hand
+    suprapubic, one or two fingers of the other hand in the rectum (male) or vagina (female); assess
+    palpable disease and bladder mobility.
+
+ CLINICAL T STAGE ON BIMANUAL EXAMINATION
+  Clinical stage             Finding
+  T2a                        Nonpalpable
+  T2b                        Induration without a three-dimensional mass
+  T3a                        Three-dimensional mass, mobile
+  T4a                        Invades adjacent structures (prostate, vagina, rectum)
+
+
+
+                                                          page 3 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                   CLINICAL STAGING AND DIAGNOSIS
+
+  Clinical stage             Finding
+  T4b                        Fixed to the pelvic sidewall, immobile
+
+  • Interpret with caution: bimanual examination both overstages and — more often — understages.
+ Imaging and laboratory evaluation
+  • National Comprehensive Cancer Network (NCCN), AUA and EAU all recommend computed
+    tomography (CT) of abdomen and pelvis with and without contrast, with excretory phase (unless
+    contrast is contraindicated). Purposes: nodal and metastatic staging, upper tract assessment, and local
+    extent and resectability.
+  • Image before TUR: post-resection inflammation mimics T3 disease.
+  • Magnetic resonance imaging (MRI) or magnetic resonance urography (MRU): for poor renal function
+    or iodinated contrast allergy. 3-tesla magnets, dynamic contrast enhancement (DCE) and diffusion-
+    weighted imaging (DWI) give better local T-staging than CT; MRI may also predict grade and
+    chemosensitivity.
+  • Vesical Imaging-Reporting and Data System (VI-RADS) standardises bladder MRI reporting; a score of 3
+    or more is suspicious for MIBC; sensitivity and specificity for muscle invasion are both high (roughly
+    80–90%). Requires an experienced radiologist and pre-TUR imaging; expected to do for bladder cancer
+    what PI-RADS does for prostate cancer.
+
+ TABLE 131.1 VESICAL IMAGING REPORTING AND DATA SYSTEM (VI-RADS) SCORE SYSTEM
+  Category           T2-weighted imaging                       DCE                           DWI
+  1 — invasion       <1 cm, with or without stalk; low-        No early enhancement of       Muscularis propria
+  unlikely           signal muscularis propria line intact     muscularis propria            continuous, intermediate
+                                                                                             signal
+  2 — invasion       >1 cm with stalk and high-signal          Early enhancement of inner    As category 1
+  unlikely           thickened inner layer, or sessile;        layer only
+                     muscle line intact
+  3 — equivocal      Any size, no category 2 features;         No interruption or early      As category 1
+                     muscle line intact                        enhancement of muscularis
+                                                               propria
+  4 — invasion       Interruption of the low-signal line       Tumour enhancement extends High signal
+  likely                                                       focally into muscularis
+                                                               propria
+  5 — invasion       Extension into extravesical fat           Enhancement through entire    High signal through entire
+  highly likely                                                wall and into fat             wall and fat
+
+ Adapted from Panebianco V, Narumi Y, Altun E, et al., Eur Urol 2018.
+
+  • What the table tests: the integrity of the low-signal muscularis propria line — intact in 1–3,
+    interrupted in 4, breached into fat in 5.
+  • Trap: the positivity threshold is ≥3, so the "equivocal" category already counts as suspicious.
+
+
+
+
+                                                           page 4 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                        CLINICAL STAGING AND DIAGNOSIS
+ STAGING MODALITIES COMPARED
+  Modality                         Use                         Strength                               Weakness
+  CT urography (with and           All patients                Perivesical fat invasion (pT3b),       Nodal sensitivity poor
+  without contrast)                                            hydronephrosis (strongly               (roughly 30–50%);
+                                                               associated with extravesical           post-TUR artefact
+                                                               disease), invasion of adjacent
+                                                               organs, upper tracts; accuracy rises
+                                                               with stage
+  MRI / VI-RADS                    Renal impairment,           Best local T-staging                   Expertise-dependent;
+                                   contrast allergy; local                                            must precede TUR
+                                   staging
+  ¹⁸F-fluorodeoxyglucose           Not routine; AUA:           Modestly better than CT for nodes;     Useless for local
+  (FDG) positron emission          when conventional           alters management in a meaningful      staging (urinary FDG
+  tomography (PET)/CT              imaging is abnormal         minority (mostly curative →            excretion); ¹¹C-choline,
+                                   and biopsy is not           palliative)                            -acetate and -
+                                   feasible                                                           methionine add little
+  Chest imaging                    All MIBC                    Chest CT preferred over radiograph —
+                                                               in current or former smokers
+  Bone and brain imaging           Not routine                 Bone: MRI, PET/CT or bone scan for —
+                                   (metastases rare)           bone pain or raised alkaline
+                                                               phosphatase; brain: only for
+                                                               neurological signs
+
+  • Blood tests: comprehensive metabolic panel (CMP) — liver function, electrolytes, renal function —
+    and complete blood count (CBC) for anaemia. The CMP determines eligibility for NAC and orthotopic
+    diversion.
+ Concept — Every clinical staging tool errs towards understaging, and understaging costs lives: hence
+ imaging before resection, complete and deep TUR, frozen sections at surgery, and systemic therapy aimed
+ at disease no scan can see.
+
+ PATHOLOGIC STAGING
+  • American Joint Committee on Cancer (AJCC) tumour–node–metastasis (TNM) system, 8th edition,
+    used both clinically (cTNM) and pathologically (pTNM).
+
+ TABLE 131.2 TUMOR NODE METASTASIS STAGING SYSTEM FOR BLADDER CANCER
+  Category            Definition
+  Ta                  Noninvasive papillary carcinoma
+  Tis                 Carcinoma in situ — "flat tumour"
+  T1                  Invades lamina propria (subepithelial connective tissue)
+  T2a / T2b           Invades muscularis propria — inner half / outer half
+  T3a / T3b           Invades perivesical tissue — microscopically / macroscopically (extravesical mass)
+  T4a                 Invades prostatic stroma, seminal vesicles, uterus, vagina
+  T4b                 Invades pelvic wall, abdominal wall
+  N1                  Single regional node in the true pelvis (obturator, internal and external iliac, perivesical,
+                      presacral)
+  N2                  Multiple regional nodes in the true pelvis
+  N3                  Common iliac nodes
+
+
+
+                                                             page 5 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                             PATHOLOGIC STAGING
+
+  Category            Definition
+  M1a                 Nodal-only distant metastasis — nodes beyond the common iliacs
+  M1b                 Non-nodal distant metastasis
+  Stage 0a / 0is /    Ta N0 M0 / Tis N0 M0 / T1 N0 M0
+  I
+  Stage II            T2a–T2b N0 M0
+  Stage IIIA          T3a–T4a N0 M0, or T1–T4a N1 M0
+  Stage IIIB          T1–T4a N2–N3 M0
+  Stage IVA           T4b any N M0, or any T any N M1a
+  Stage IVB           Any T any N M1b
+
+ Regional nodes include primary and secondary drainage regions; all other nodes above the aortic bifurcation are
+ distant. From American Joint Committee on Cancer, TNM staging system for bladder cancer, 8th edition, 2018.
+
+  • Substaging is prognostic: pT2a outperforms pT2b, and pT3b does worse than pT3a, for recurrence-
+    free and cancer-specific survival — the reason both substages are retained.
+  • Prostatic invasion (pT4a) requires established stromal invasion — directly through the bladder neck,
+    or posteriorly via the seminal vesicles and periprostatic ducts. CIS of the prostatic urethra or ducts
+    does not upstage.
+  • Organ-confined disease = pT2bN0M0 or less.
+  • 8th-edition nodal changes: perivesical nodes are now regional (N1); nodes beyond the common iliacs
+    are M1a, because nodal-only distant disease survives better than non-nodal metastasis (M1b).
+  • Traps: common iliac involvement is N3, not M1; stage IIIA already includes N1; T4b is stage IVA even
+    when N0.
+
+ Staging Pitfalls
+  • High-grade T1: repeat resection within 6 weeks of the initial transurethral resection of bladder tumour
+    (TURBT), because upstaging is common.
+      ◦ No muscularis propria in the specimen → upstaging on re-resection in over 40%; even with muscle
+        present, about a fifth to a third are upstaged to MIBC.
+      ◦ AUA and EAU: repeat TUR for T1 disease without muscle in the specimen (restaging TUR: Chapter
+        130).
+
+ Molecular Classifications
+  • Four systems: University of North Carolina (UNC), MD Anderson Cancer Center (MDA), The Cancer
+    Genome Atlas (TCGA) and Lund University — derived mainly from MIBC cohorts, each with three to five
+    subtypes (e.g. UNC: claudin-low, basal, luminal; MDA: basal, p53-like, luminal).
+  • The systems are concordant: MDA basal ≈ Lund squamous cell subtype; MDA p53-like ≈ Lund infiltrated
+    (both extracellular matrix–enriched); MDA luminal ≈ Lund urobasal A (both carry activating fibroblast
+    growth factor receptor 3 [FGFR3] mutations).
+
+ MOLECULAR SUBTYPES: BEHAVIOUR AND CHEMOSENSITIVITY
+  Subtype Features                                                Response to NAC          Survival
+  Luminal FGFR3 activating mutations                              Responds                 Best overall survival (OS),
+                                                                                           with or without NAC
+  Basal        Sarcomatoid features, squamous                     Responds — largest       Shorter OS and disease-
+               differentiation, metastatic at presentation        survival gain from NAC   specific survival (DSS)
+
+
+                                                          page 6 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                PATHOLOGIC STAGING
+
+  Subtype Features                                                Response to NAC             Survival
+  p53-like Extracellular matrix–enriched                          Resistant                   —
+
+  • Subtype-directed treatment is not yet standard; future targeted therapy may follow each subtype's
+    profile.
+
+ Circulating Tumor Markers
+  • Imaging remains the standard for assessing disease burden; circulating tumour DNA (ctDNA) is a
+    promising alternative.
+  • ctDNA clears during neoadjuvant and adjuvant immunotherapy and tracks overall prognosis.
+  • In cisplatin-ineligible patients given neoadjuvant immunotherapy, ctDNA positivity fell stepwise from
+    baseline → after immunotherapy → after surgery; preoperative ctDNA predicted higher T and N
+    stage; no ctDNA-negative patient relapsed, and most relapses were ctDNA-positive.
+  • Over a third remain ctDNA-positive after RC, with poor prognosis; in the IMvigor010 exploratory
+    analysis, adjuvant atezolizumab increased ctDNA clearance and improved disease-free and overall
+    survival in ctDNA-positive patients.
+  • ctDNA may become a prognostic and predictive decision aid.
+ Concept — Pathological stage is prognosis: organ confinement (≤pT2b) and nodal status carry most of the
+ information, and molecular subtype and ctDNA are emerging as the tools that will say who needs more
+ than surgery.
+
+ TREATMENT
+  • Discuss all curative options in a multidisciplinary setting before treatment — urologist and medical
+    oncologist, plus a radiation oncologist if bladder preservation is considered — weighing disease factors,
+    comorbidity and patient goals.
+  • Do not delay: a delay of more than 12 weeks (3 months) from diagnosis to RC worsens outcome —
+    more extravesical tumours and nodal metastases, poorer disease-specific and overall survival —
+    consistently across surgical series, population data (roughly doubled disease-specific and overall
+    mortality) and meta-analysis.
+
+ RADICAL CYSTECTOMY AND BILATERAL PELVIC LYMPH NODE DISSECTION
+  • RC with bilateral pelvic lymph node dissection (PLND) is the standard of care for localised, resectable
+    MIBC.
+  • Most comparative studies show poorer survival with bladder preservation, but those patients are
+    older and more comorbid, and quality of life was not assessed.
+  • About 80% of MIBC patients having definitive treatment undergo RC.
+  • Excellent local control: pelvic recurrence as low as about 4% in node-negative disease.
+  • Randomised data show superior outcomes with NAC (see Neoadjuvant Chemotherapy).
+
+ EXTENT OF RADICAL CYSTECTOMY
+  Males                                                 Females (classical anterior exenteration)
+  Bladder and perivesical soft tissue, prostate,        Bladder, urethra, uterus with cervix, ovaries, fallopian tubes,
+  seminal vesicles                                      anterior vaginal wall
+
+  • Growing attention to urinary and sexual quality of life has driven organ preservation in both sexes —
+    only for organ-confined disease without bladder neck, urethral or prostatic involvement.
+
+
+                                                          page 7 of 29
+                                                                                         RADICAL CYSTECTOMY AND BILATERAL
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                    PELVIC LYMPH NODE DISSECTION
+ Organ-sparing cystectomy in males
+  • Options: preservation of the neurovascular bundles, the prostatic capsule or entire prostate, and the
+    seminal vesicles.
+  • Prostate-sparing requires: no bladder neck disease + negative prostatic urethral biopsy + negative
+    prostate biopsy.
+  • Why caution: incidental prostate cancer in roughly a quarter to a half of cystoprostatectomy
+    specimens (up to a third clinically significant), and UC involving the prostate in a substantial
+    proportion; predictors are bladder neck tumour, multifocality and CIS.
+  • Evidence is small retrospective series: function tracks the amount of tissue spared; apical-, posterior-
+    and total-sparing techniques all report good continence and erectile function.
+  • Capsule-sparing versus nerve-sparing: a small randomised trial found no clinically significant
+    difference in oncological or functional outcome; a retrospective comparison found capsule- and
+    seminal-vesicle-sparing gave comparable oncology and better sexual function — conflicting.
+  • Reserve for carefully selected men who wish to preserve sexual function and fertility.
+ Organ-sparing cystectomy in females
+  • UC involving the gynaecological organs is uncommon (about 5–6%).
+  • Complete urethrectomy can be omitted unless the bladder neck is involved, permitting orthotopic
+    substitution.
+  • No tumour at the bladder base or trigone → uterus and anterior vagina may be spared: better
+    neobladder support, less urinary retention, preserved autonomic nerves and less postoperative pelvic
+    organ prolapse.
+  • Premenopausal ovarian preservation in women without breast or ovarian cancer risk maintains
+    hormonal homeostasis. Increased endometrial, breast or ovarian cancer risk → salpingo-
+    oophorectomy in women beyond childbearing and older than 40.
+  • In selected patients: similar oncological control, better function.
+  • Counsel both sexes about the impact of RC on sexual function.
+ Concept — An organ may be spared only where it is oncologically silent: in men the gatekeeper is the
+ prostatic urethra and bladder neck, in women the bladder neck, base and anterior vaginal wall.
+
+ BILATERAL PELVIC LYMPH NODE DISSECTION
+  • A meticulous PLND is essential. About 25% have nodal metastases at RC, and nodal status is the most
+    powerful surrogate for long-term recurrence-free and overall survival.
+  • Node-positive: about 70–80% recur, versus about 30% after a negative PLND.
+  • Extent of PLND independently predicts survival and local recurrence, even adjusting for chemotherapy
+    and pathology. What constitutes an adequate dissection, and its therapeutic value, is less clear.
+
+ TABLE 131.3 INCIDENCE OF PATHOLOGIC PELVIC NODE METASTASIS (%) AT RADICAL CYSTECTOMY IN
+ SELECTED CONTEMPORARY SERIES (2000–2012)
+  Pathological T stage                       Node-positive at RC (range across series)
+  ≤pT1                                       About 1–7%
+  pT2                                        About 8–26% (pT2a lower than pT2b)
+  pT3                                        About 33–50%
+  pT4                                        About 36–80% (highest in pT4b)
+
+
+
+
+                                                          page 8 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer              BILATERAL PELVIC LYMPH NODE DISSECTION
+ Data from seven contemporary surgical series, 2000–2012.
+
+  • Nodal risk climbs with every T stage, roughly doubling from organ-confined to extravesical disease.
+  • Trap: even ≤pT1 disease carries a small nodal risk.
+
+ Anatomic Extent of Pelvic Lymph Node Dissection
+  • Primary drainage: internal iliac, external iliac, obturator and presacral nodes. Secondary drainage:
+    common iliac, para-aortic, interaortocaval and paracaval nodes.
+  • Standard PLND = bilateral external iliac, internal iliac and obturator nodes.
+
+ PELVIC LYMPH NODE DISSECTION TEMPLATES
+  Border Standard dissection                                     Extended dissection
+  Medial Ureter                                                  Ureter
+  Lateral Genitofemoral nerve                                    Genitofemoral nerve
+  Caudal Inguinal ligament / node of Cloquet                     Same
+  Cranial Ureter crossing the common iliac, or common            Aortic bifurcation, up to the inferior mesenteric artery
+          iliac bifurcation                                      (IMA) — controversial
+
+  • Nodal mapping series:
+      ◦ A "super-extended" dissection to the IMA found nodes outside the true pelvis only with multiple
+        positive pelvic nodes, and no skip metastases → the obturator and internal iliac nodes are the
+        sentinel drainage; a negative frozen section there made higher dissection unnecessary.
+      ◦ Standard (to the iliac bifurcation) versus extended (to the aortic bifurcation): more nodes retrieved,
+        but no staging advantage — the same proportion node-positive; para-aortic positives always
+        accompanied lower positives.
+  • Skip metastases are rare, but common iliac nodes are involved in about 7–13% → consider removing
+    the common iliac nodes.
+
+ Number of Lymph Nodes Identified at the Time of Cystectomy
+  • Higher yield → higher sensitivity for nodal metastasis; "adequate" yields quoted as 12–25 nodes.
+  • Modelling: removing 25 nodes gives about a 75% chance of detecting nodal disease (about 50% with
+    15–25 nodes, 90% with 45) → 25 nodes as a reasonable staging minimum.
+  • Node count carries prognostic and staging information in both node-positive and node-negative
+    patients.
+  • A therapeutic threshold is unproven (no prospective data; most studies cite 9–16 nodes): in a
+    Southwest Oncology Group (SWOG) 8710 reanalysis, fewer than 10 nodes doubled the risk of death;
+    another series linked 16 or more nodes to better survival. Ten nodes is the commonest threshold for
+    pelvic recurrence.
+  • Node count reflects surgery and pathology alike — template extent and the number of packets
+    submitted.
+
+ Lymph Node Density and Extracapsular Nodal Extension
+  • Lymph node density = positive nodes ÷ total nodes removed.
+  • Early series: density below 20% → better DSS, and better response to adjuvant chemotherapy; other
+    studies found no advantage over simple node status; a meta-analysis linked density to poorer DSS, but
+    with marked heterogeneity.
+
+
+
+
+                                                          page 9 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer              BILATERAL PELVIC LYMPH NODE DISSECTION
+  • Extranodal extension (present in about half of node-positive cases) independently predicts recurrence,
+    cancer-specific mortality and overall survival.
+
+ Pelvic Lymph Node Dissection and Oncologic Outcomes
+ LIMITED VERSUS EXTENDED DISSECTION — THE EVIDENCE
+                                                                Nodes (limited vs
+  Study               Design and population                     extended)           Result
+  Two-centre          Retrospective; limited to common          —                   Extended: better 5-year recurrence-
+  consecutive         iliac bifurcation vs extended to                              free survival, most marked in pT3
+  series              ureter crossing
+  German phase        Randomised; limited (obturator,           Median 19 vs 31     No benefit in recurrence-free (59% vs
+  III trial           internal and external iliac) vs                               65%, not significant), cancer-specific
+                      extended to IMA; T1 included, NAC                             or overall survival
+                      excluded
+  SWOG S1011          Randomised; pT2–4a, most                  Median 24 vs 39; No difference in disease-free survival
+                      received NAC — mirrors current            node-positive rate (HR 1.10) or OS (HR 1.15); more
+                      practice; median follow-up 6 years        similar            grade ≥3 adverse events at 90 days
+                                                                                   with extended
+
+  • Verdict: standard PLND is the standard of care; extended dissection adds morbidity without survival
+    benefit.
+ Concept — Nodes are a staging problem more than a therapeutic one: removing more nodes changes
+ what is counted, not who survives — both randomised trials found no benefit from extended dissection.
+
+ INTRAOPERATIVE DECISION MAKING
+ Grossly Positive Nodes and T4b Disease
+  • Clinically node-positive before RC → cisplatin-based chemotherapy first.
+  • Radiographic complete or partial response → evaluate for consolidative RC: pathological complete
+    response in about 14–25%, and complete responders have markedly better cancer-specific survival;
+    responders who forgo surgery mostly recur (data preceding maintenance immunotherapy). Strongly
+    consider consolidative RC in fit responders.
+  • Unexpected lymphadenopathy at RC: frozen section to confirm → proceed to extended PLND and RC
+    only if bladder and nodes are completely resectable and the nodes lie within the true pelvis.
+  • Do not proceed with RC if: nodes are unresectable; extensive periureteral disease; bladder fixed to
+    the pelvic sidewall; invasion of the rectosigmoid colon.
+  • Aborted RC → very poor prognosis: most die of progression within about 2 years; no 5-year survivors
+    in one series.
+
+ Intraoperative Frozen Sections of the Ureter
+  • Distal ureteric involvement at RC: about 6–8%; the final ureteric margin independently predicts upper
+    tract recurrence (UTR).
+  • UTR is uncommon — about 4–10% — occurs mostly 2–4 years after RC, and is often locally advanced
+    and worse than de novo upper tract UC.
+  • UTR risk factors: positive ureteric margin, prior bacille Calmette-Guérin (BCG), bladder CIS,
+    preoperative hydronephrosis.
+
+
+
+
+                                                          page 10 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                 INTRAOPERATIVE DECISION MAKING
+  • Controversy: neither AUA nor EAU gives a recommendation on intraoperative ureteric margins; a
+    negative margin has not consistently improved outcome.
+  • Frozen section accuracy: sensitivity roughly 70–77%, specificity 83–96%; a positive frozen section
+    makes a positive final margin far more likely.
+  • Sequential resection: most initially positive margins can be cleared, but "converted" margins still carry
+    higher UTR risk than initially negative ones, and persistently positive margins the highest; failure to
+    convert predicts worse cancer-specific mortality.
+  • Skip lesions (negative distal frozen section, positive proximal final margin) occur predominantly with
+    CIS.
+  • Practice: clear the distal ureter when feasible; frozen section whenever gross tumour is encountered;
+    for CIS alone, resect maximally without compromising length for the diversion — the benefit of a CIS-
+    negative margin is debatable given skip lesions.
+
+ Prostatic Urothelial Carcinoma and Management of the Distal Urethra
+  • Male urethral recurrence after RC: 1–8%; most are symptomatic; most occur within 2 years (median
+    about 8–28 months); periodic cytology helps in high-risk men.
+  • Risk factors: prostatic urethral involvement, prostatic stromal invasion (highest risk — up to about
+    30%), bladder neck tumour, CIS, multifocality; stromal invasion outranks prostatic urethral CIS and
+    ductal or acinar involvement.
+  • Urethrectomy: consider for diffuse CIS of the prostatic urethra or prostatic stromal invasion; the
+    authors perform en bloc urethrectomy for invasive prostatic urethral disease; some reserve it for a
+    positive apical urethral margin.
+  • A positive preoperative prostatic urethral biopsy does not preclude orthotopic diversion: take an
+    intraoperative frozen margin, and if negative, orthotopic diversion may proceed.
+  • Frozen urethral margin: specificity near 100%, sensitivity variable (about 33–93%). Perform it in any
+    patient considered for orthotopic diversion.
+  • Small low-grade papillary urethral tumours: resect before RC and retain the urethra if there is no
+    other indication for urethrectomy.
+  • Lower urethral recurrence after orthotopic diversion is more likely selection bias than a protective
+    effect of urine exposure (no physiological evidence).
+
+ Managing the Female Urethra
+  • Only T4 tumours involving the urethra and/or vagina mandate complete urethrectomy (no urethral
+    preservation).
+  • Urethral involvement: about 2–12%. Risk features: primary tumour at the bladder neck, posterior
+    bladder base or anterior vaginal wall, or inguinal lymphadenopathy.
+  • About 60% of bladder neck tumours have no urethral tumour on final pathology, so urethrectomy is
+    not automatic.
+  • Proximal urethral frozen section correlates well with the final margin — perform in every woman
+    considered for orthotopic substitution.
+  • Isolated urethral recurrence after orthotopic substitution: about 1%.
+
+ URETHRAL MANAGEMENT: MALES VERSUS FEMALES
+                                 Males                                      Females
+  Frequency                      Urethral recurrence 1–8%                   Urethral involvement 2–12%; recurrence
+                                                                            after neobladder about 1%
+
+
+                                                          page 11 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                  INTRAOPERATIVE DECISION MAKING
+
+                                 Males                                      Females
+  Highest-risk feature           Prostatic stromal invasion                 Bladder neck, posterior bladder base,
+                                                                            anterior vaginal wall
+  Urethrectomy                   Consider for diffuse prostatic urethral    Mandatory for T4 involving urethra/vagina
+                                 CIS or stromal invasion
+  Gatekeeper for                 Intraoperative frozen urethral margin      Proximal urethral frozen section
+  orthotopic diversion
+
+ Concept — The intraoperative frozen section, not the preoperative biopsy, decides orthotopic diversion
+ — the preoperative biopsy only sets the level of suspicion.
+
+ ONCOLOGIC OUTCOMES AFTER RADICAL CYSTECTOMY
+  • Pathological T stage and nodal status are the strongest predictors of progression and survival.
+
+ TABLE 131.4 PERCENTAGE OF 5-YEAR DISEASE-SPECIFIC SURVIVAL (DSS) BY PATHOLOGIC STAGE AFTER
+ RADICAL CYSTECTOMY WITH AND WITHOUT PELVIC LYMPH NODE METASTASIS: SELECTED SERIES REPORTING
+ DSS (2000–2012)
+  Pathological stage                5-year DSS — table (series ranges)             5-year DSS — body text
+  pT0 / non-invasive / ≤pT1         About 76–90%                                   Approaching 90%
+  pT2                               About 70–81%                                   70–81% (pT2a better than pT2b)
+  pT3                               About 40–53%                                   40–52%
+  pT4                               About 16–44%                                   —
+  Node-negative                     About 62–80%                                   —
+  Node-positive                     About 21–35%                                   10–35%
+  Population data by extent         Localised 72%, regional 51%, distant 10%       —
+
+ Data from seven surgical and population series, 2000–2012. The body text's lower node-positive bound (10%)
+ includes the population series' distant-disease figure, which the node-positive surgical column does not.
+
+  • pT3 substaging discriminates in node-negative disease (pT3a better recurrence-free and disease-
+    specific survival) but not in node-positive disease. One series found pT3b patients without neoadjuvant
+    chemotherapy had poorer metastasis-free survival, whereas pT2b–3a N0 disease matched pT3b disease
+    given adjuvant chemotherapy.
+  • Node-positive disease: poor prognosis, yet long-term survival is possible with low-volume nodal
+    disease; much of the data predates adjuvant immunotherapy and may underestimate survival.
+  • Positive soft-tissue margin (about 6% of RC) raises recurrence and cancer-specific mortality (hazard
+    ratio [HR] about 1.5 for each).
+  • Other prognostic factors: LVI, molecular markers, surgeon expertise and hospital volume, body mass
+    index and age.
+  • Despite aggressive surgery, about 50% of RC patients ultimately die of bladder cancer — usually
+    metastatic recurrence within the first 2 years.
+
+ PELVIC (LOCAL) RECURRENCE RISK GROUPS AFTER RADICAL CYSTECTOMY
+  Risk group              Definition                                                      5-year pelvic failure
+  Low                     ≤pT2                                                            About 5–8%
+  Intermediate            pT3–4, negative margins and ≥10 nodes                           About 15–21%
+
+
+
+
+                                                          page 12 of 29
+                                                                                        ONCOLOGIC OUTCOMES AFTER RADICAL
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                    CYSTECTOMY
+
+  Risk group              Definition                                                       5-year pelvic failure
+  High                    pT3–4 with positive margins or <10 nodes                         About 39–46%
+
+  • Predictors of pelvic recurrence: pT3–4 disease, positive soft-tissue margin, fewer than 10 nodes
+    removed; the model holds across geographically and temporally diverse cohorts.
+ Concept — Outcome after cystectomy is set by what lay outside the bladder — extravesical extension,
+ nodes and margins — which is exactly the population that neoadjuvant, adjuvant and radiation strategies
+ target.
+
+ NEOADJUVANT THERAPY FOR MUSCLE-INVASIVE BLADDER CANCER
+ Neoadjuvant Chemotherapy
+  • RC alone is insufficient: nearly half progress to metastatic disease after cystectomy; cisplatin-based
+    chemotherapy has produced responses since the mid-1980s.
+  • Offer NAC only to cisplatin-eligible patients; cisplatin-ineligible patients proceed directly to definitive
+    locoregional therapy.
+
+ TABLE 131.5 PLATINUM ELIGIBILITY
+  Criterion                                         Cisplatin-ineligible (any one)     Platinum-ineligible
+  Renal function                                    Glomerular filtration rate (GFR)   Creatinine clearance (CrCl) <30
+                                                    <60 mL/min                         mL/min
+  Eastern Cooperative Oncology Group                >1 (i.e. ≥2)                       ≥3 in the table; ≥2 in the body
+  (ECOG) performance status                                                            text
+  Hearing                                           Grade ≥2 audiometric hearing       —
+                                                    loss
+  Peripheral neuropathy                             Grade ≥2                           Grade ≥3
+  Heart failure                                     New York Heart Association         NYHA class III–IV
+                                                    (NYHA) class III–IV
+  Other                                             —                                  Multiple high-grade
+                                                                                       comorbidities (body text)
+
+  • What the table tests: any single criterion makes a patient cisplatin-ineligible — nearly half of bladder
+    cancer patients.
+  • The table and body text differ on the performance-status threshold for platinum ineligibility; both are
+    shown.
+  • Advantages of NAC: better tolerated before surgery (higher compliance) → treats micrometastases
+    while burden is low → downstages bulky and locally advanced tumours (more negative margins).
+    Downstaging to non-invasive disease or pT0 predicts far better outcome — 5-year recurrence-free
+    survival about 90% for pT0.
+  • Disadvantage: delays definitive local therapy in non-responders, who may progress during NAC.
+
+
+
+
+                                                          page 13 of 29
+                                                                                               NEOADJUVANT THERAPY FOR MUSCLE-
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                              INVASIVE BLADDER CANCER
+ LANDMARK NEOADJUVANT CHEMOTHERAPY EVIDENCE
+  Trial                      Neoadjuvant arm          Control               Key result                 Verdict and limitations
+  BA06 30894                 3 cycles CMV             RC and/or             At 8 years: cancer-        Positive; CMV is no
+  (European                  (cisplatin,              radiotherapy          specific mortality HR      longer standard, and
+  Organisation for           methotrexate,                                  0.74; 16% relative         many received
+  Research and               vinblastine)                                   reduction in mortality;    radiotherapy rather
+  Treatment of Cancer/                                                      10-year OS 36% vs 30%;     than RC
+  Medical Research                                                          median survival +7
+  Council [EORTC/MRC])                                                      months
+  — largest trial
+  SWOG 8710                  3 cycles MVAC            RC alone              Median survival 77 vs      Trend, not significant;
+                             (methotrexate,                                 46 months; pT0 38% vs      secondary analysis:
+                             vinblastine,                                   15%; 5-year OS 57% vs      benefit in mixed
+                             Adriamycin                                     43% (P = .06); pT0 → 5-    histology (squamous or
+                             [doxorubicin],                                 year survival 80% vs       glandular
+                             cisplatin)                                     40% with residual          differentiation)
+                                                                            disease
+  VESPER (GETUG-AFU          6 cycles dose-dense      4 cycles              Organ-confined             ddMVAC superior, at
+  V05)                       MVAC (ddMVAC)            gemcitabine-          response (<ypT3N0)         the cost of more
+                                                      cisplatin (GC)        77% vs 63%; 3-year         asthenia and
+                                                                            progression-free           gastrointestinal
+                                                                            survival 66% vs 56%        toxicity
+                                                                            (neoadjuvant cohort)
+  Advanced Bladder           Platinum                 No NAC                OS HR 0.86 — 5%            Combination platinum
+  Cancer (ABC) meta-         combination                                    absolute benefit at 5      only; single-agent
+  analysis (11                                                              years (45% → 50%);         platinum no benefit
+  randomised trials)                                                        disease-free survival HR
+                                                                            0.78
+  Latest meta-analysis       NAC                      No NAC                8% absolute survival       Confirms benefit
+  (15 randomised trials)                                                    improvement
+
+ TABLE 131.6 RANDOMIZED TRIALS OF NEOADJUVANT CHEMOTHERAPY
+  Trial               Neoadjuvant regimen                              Local therapy        Survival result
+  EORTC/MRC           CMV                                              RC or                10-year OS 36% vs 30% (P = .037)
+  (BA06)                                                               radiotherapy         — positive
+  SWOG 8710           MVAC                                             RC                   5-year OS 57% vs 43% (P = .06)
+  Abol-Enein          Carboplatin, methotrexate, vinblastine           RC                   5-year OS 62% vs 42% (P = .013)
+                                                                                            — positive
+  Nordic I            Cisplatin + doxorubicin                          Radiotherapy +       5-year OS 59% vs 51% — not
+                                                                       RC                   significant
+  Nordic II           Cisplatin + methotrexate                         RC                   5-year OS 53% vs 46% — not
+                                                                                            significant
+  GUONE (Italy)       MVAC                                             RC                   5-year OS 55% vs 54% — not
+                                                                                            significant
+  GISTV (Italy)       MVEC (methotrexate, vinblastine,                 RC                   Median OS — not significant
+                      epirubicin, cisplatin)
+  CUETO (Spain)       Single-agent cisplatin                           RC                   6.5-year OS 35% vs 37% — not
+                                                                                            significant
+  WMURG/ABCSG Single-agent cisplatin                                   Radiotherapy         No difference
+
+
+
+                                                          page 14 of 29
+                                                                                         NEOADJUVANT THERAPY FOR MUSCLE-
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                        INVASIVE BLADDER CANCER
+
+  Trial               Neoadjuvant regimen                            Local therapy     Survival result
+  DAVECA 89-02        Cisplatin + methotrexate                       Radiotherapy      5-year OS 19% vs 24% — not
+                                                                                       significant
+  Coppin              Cisplatin                                      Radiotherapy or   3-year OS 47% vs 33% — not
+                                                                     RC                significant
+
+ The source marks the trials of most importance in bold; the EORTC/MRC and SWOG 8710 trials are shown in bold
+ here.
+
+  • Pattern: the single-agent cisplatin trials were negative; benefit belongs to cisplatin-based
+    combinations — the conclusion the ABC meta-analysis formalised.
+  • Trap: SWOG 8710's overall-survival difference was not statistically significant (P = .06), despite the
+    large median-survival gap.
+  • Other regimens (phase II): four cycles of ddMVAC → pathological response below pT1N0M0 in about
+    half; three cycles of "accelerated" MVAC → pT0 in over a third; both well tolerated.
+  • GC was adopted from the metastatic randomised trial showing equal efficacy and less toxicity than
+    MVAC; retrospective neoadjuvant data show no survival difference between GC and ddMVAC.
+  • Guidelines (AUA, EAU, NCCN): cisplatin-based NAC for all cT2–cT4aN0M0. NCCN: ddMVAC for 3–6
+    cycles preferred; GC for 4 cycles the alternative. In fit patients with few comorbidities, ddMVAC may
+    be superior.
+  • Cisplatin-ineligible: NAC not recommended; carboplatin regimens show no OS benefit → proceed to
+    locoregional therapy.
+
+ Neoadjuvant Immunotherapy and Chemoimmunotherapy Combinations
+  • Programmed death-1 (PD-1) on activated T cells binds programmed death ligand-1 (PD-L1); tumour
+    cells express PD-L1 to neutralise T-cell activation. Cytotoxic T lymphocyte–associated antigen 4
+    (CTLA-4) on activated T cells engages receptors on antigen-presenting cells to inhibit T-cell
+    proliferation. Blocking either increases T-cell activation and proliferation → antitumour response.
+
+ IMMUNE CHECKPOINT INHIBITORS BY TARGET
+  Target        Location                                           Agents
+  PD-L1         Tumour cell (ligand)                               Atezolizumab, durvalumab, avelumab
+  PD-1          Activated T cell (receptor)                        Pembrolizumab, nivolumab
+  CTLA-4        Activated T cell (priming phase)                   Ipilimumab, tremelimumab
+
+ Figure 131.2 — Mechanism of immune checkpoint inhibition
+  • Priming phase: the dendritic cell presents antigen (major histocompatibility complex [MHC] II to T-cell
+    receptor [TCR]); CTLA-4 binding CD80/86 acts as an "active brake", stopping the response
+    (immunodepression) → anti-CTLA-4 releases it.
+  • Effector phase: PD-1 on the T cell binding tumour PD-L1 blocks tumour killing → anti-PD-1/PD-L1
+    restores it.
+  • Source: Wang DR et al., Signal Transduct Target Ther 2022.
+  • Established roles of PD-1/PD-L1 inhibition (see Management of Metastatic Bladder Cancer): metastatic
+    or unresectable UC, second line after chemotherapy, and cisplatin-ineligible patients. Neoadjuvant use
+    is under study, alone or with cisplatin chemotherapy.
+
+
+
+
+                                                          page 15 of 29
+                                                                                               NEOADJUVANT THERAPY FOR MUSCLE-
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                              INVASIVE BLADDER CANCER
+ NEOADJUVANT IMMUNOTHERAPY AND CHEMOIMMUNOTHERAPY TRIALS
+  Trial                     Regimen                              Population           Result
+  ABACUS (phase II,         Atezolizumab ×2                      Cisplatin-           Pathological complete response 31%;
+  single arm)                                                    ineligible           2-year disease-free survival 68%, OS
+                                                                                      77%; PD-L1 and tumour mutational
+                                                                                      burden did not predict recurrence-
+                                                                                      free survival
+  PURE-01 (phase II)        Pembrolizumab ×3                     UC-predominant pT0 42%; <pT2 54%
+  Phase II                  Pembrolizumab, atezolizumab,         Cisplatin-eligible   Pathological response (<pT2N0 or
+  combinations              durvalumab or nivolumab + GC         (one also            ≤ypT1N0) roughly 55–70%; pT0 30–
+                                                                 ineligible)          44% across all
+  NIAGARA,                  Durvalumab + GC;                     —                    Pathological response and event-free
+  KEYNOTE-866,              pembrolizumab + GC;                                       survival awaited
+  ENERGIZE (phase III,      nivolumab + GC ± indoleamine
+  ongoing)                  2,3-dioxygenase 1 (IDO1)
+                            inhibitor
+
+  • Limitations: non-randomised, single-arm, not designed to compare with chemotherapy — but
+    promising for cisplatin-ineligible patients.
+  • Current position: insufficient data to recommend neoadjuvant immunotherapy, alone or with
+    chemotherapy.
+
+ Neoadjuvant Radiation Therapy
+  • Common in the 1970s–80s; abandoned after cisplatin-based NAC. Small randomised trials showed
+    pathological downstaging but no survival benefit → do not offer preoperative radiation.
+ Concept — Neoadjuvant benefit belongs to cisplatin combinations and nothing else: carboplatin, single-
+ agent cisplatin, radiation and — so far — immunotherapy have not earned it, and pT0 at cystectomy is the
+ surrogate that shows it working.
+
+ ADJUVANT THERAPY FOR MUSCLE-INVASIVE BLADDER CANCER
+  • Target population: pT3–4 or node-positive at RC — high recurrence risk; the aim is to treat
+    micrometastatic disease.
+
+ NEOADJUVANT VERSUS ADJUVANT CHEMOTHERAPY
+                 Neoadjuvant                         Adjuvant
+  Selection      Clinical stage (understaging        True pathological stage — yet still cannot identify who needs it, so
+                 risk)                               overtreatment is guaranteed
+  Delivery       Better tolerated, higher            Post-RC morbidity → delay or non-receipt (a quarter never
+                 completion                          received it in one trial)
+  Local          Delayed; non-responders may         Immediate; no delay for chemoresistant tumours
+  therapy        progress
+  Evidence       Level 1 (randomised trials,         Weaker — small, poorly accruing, early-closed trials
+                 meta-analysis)
+
+
+
+
+                                                          page 16 of 29
+                                                                                         ADJUVANT THERAPY FOR MUSCLE-INVASIVE
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                     BLADDER CANCER
+
+ Adjuvant Chemotherapy
+ TABLE 131.7 ADJUVANT SYSTEMIC THERAPY TRIALS AFTER CYSTECTOMY — CHEMOTHERAPY
+  Trial                 Regimen                         Result                                Shortcomings
+  USC trial (first      Cisplatin-based (CISCA-like,    Body text: 3-year progression-free    Small; regimens
+  randomised)           single-agent cisplatin, or      70% vs 46%; median survival 4.3       unstandardised; 25%
+                        assay-selected) vs              vs 2.4 years (P = .0062). Table:      randomised to
+                        observation, pT3–4 or N+        labels 4.3 vs 2.4 years as disease-   chemotherapy received
+                                                        free survival                         none
+  German trial          MVAC or MVEC ×3 vs              3-year disease-free survival 63% vs   Small; closed early; only 69%
+                        observation, pT3b–4a and/       13%; 10-year progression-free 44%     received chemotherapy; no
+                        or N+                           vs 13%, DSS 42% vs 17%; no OS         chemotherapy at relapse in
+                                                        benefit                               controls
+  CMV trial             CMV                             Longer time to progression            Closed early; no OS benefit
+  CISCA series          CISCA                           Benefit                               Not randomised
+  Cisplatin; CM;        Single-agent cisplatin;         No benefit (CM: none for N0)          Small
+  MVEC trials           cisplatin + methotrexate;
+                        MVEC
+  USC/SWOG p53          MVAC ×3, pT1–2 N0 p53-          No recurrence-free benefit            Stopped at interim analysis
+  trial                 positive
+  Italian phase III     GC ×4, pT2G3–pT4, N0–2          No OS or disease-free survival        Closed early for poor accrual
+                                                        difference (5-year OS about 48%
+                                                        overall)
+  CALGB, EORTC          Various                         —                                     All closed for poor accrual
+  30994, SOGUG
+  99/01
+
+ CISCA, cisplatin, cyclophosphamide, doxorubicin (Adriamycin); CM, cisplatin and methotrexate; CALGB, Cancer and
+ Leukemia Group B; SOGUG, Spanish Oncology Genitourinary Group. For the USC trial the body text reports median
+ survival where the table reports disease-free survival; both are shown.
+
+  • ABC meta-analyses: 2005 (6 trials): OS HR 0.75 — a 25% relative reduction in death. 2022 individual-
+    patient update (10 trials): cisplatin-based adjuvant chemotherapy improves OS by 6% at 5 years (9%
+    after adjustment), plus recurrence-free, locoregional recurrence-free and metastasis-free survival.
+  • Greatest benefit: node-positive and extravesical disease; no benefit shown in variant histology.
+  • Verdict: not standard of care because of the trials' deficiencies, but for cisplatin-naive patients with
+    pT3–4 or node-positive disease, discuss adjuvant ddMVAC or GC.
+
+ Adjuvant Immunotherapy
+ TABLE 131.7 ADJUVANT SYSTEMIC THERAPY TRIALS AFTER CYSTECTOMY — IMMUNOTHERAPY
+  Trial                       Agent                    Population               Result
+  CheckMate 274               Nivolumab vs             pT3, pT4a or N+ after    Median disease-free survival 20.8 vs 10.8
+  (phase III, double-         placebo, 12 months       RC                       months → FDA approval for high-risk
+  blind)                                                                        disease irrespective of prior NAC
+  IMvigor010 (phase III) Atezolizumab vs               pT2–4a or N+ after       Negative for disease-free survival;
+                         observation                   NAC; pT3–4a or N+        benefit in the ctDNA-positive subgroup
+                                                       without NAC
+
+
+
+
+                                                            page 17 of 29
+                                                                                       ADJUVANT THERAPY FOR MUSCLE-INVASIVE
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                   BLADDER CANCER
+
+  Trial                      Agent                    Population              Result
+  AMBASSADOR                 Pembrolizumab vs         ≥pT2 after NAC, or      OS and disease-free survival awaited
+  (ongoing)                  observation              cisplatin-ineligible/
+                                                      declined
+
+  • Why the discordance: IMvigor010 included pT2 disease; a drug-specific difference between nivolumab
+    and atezolizumab is also possible.
+  • Recommendation: offer adjuvant nivolumab for ≥pT3 (or node-positive) disease in patients ineligible
+    for, or declining, adjuvant cisplatin chemotherapy, and after NAC with persistent ≥pT3 disease.
+
+ Adjuvant Radiation
+  • pT3–4 disease: local failure 20–40% at 5 years; after pelvic failure, outcome is catastrophic — median
+    survival about 9 months.
+  • Cairo randomised trial (1980s): adjuvant radiotherapy (two techniques) vs observation after RC with
+    negative margins but high local-failure risk → better pelvic control and 5-year OS; generalisability
+    questioned because 80% had squamous cell carcinoma (outcomes appeared similar by histology).
+  • Cairo phase II: GC ×4 vs sequential GC ×2 → radiotherapy → GC ×2 for pT3b, grade 3 or node-positive
+    disease (about half UC) → better 2-year pelvic failure–free survival (96% vs 69%); disease-free and
+    overall survival higher but not significantly (underpowered); low late grade ≥3 toxicity.
+  • May be considered for pT3 or node-positive UC; fields cover the cystectomy bed and pelvic nodes; no
+    strong recommendation possible.
+ Concept — Adjuvant therapy has the advantage of true pathological staging but the disadvantage of
+ weak evidence: only CheckMate 274 is a clean positive trial, which is why adjuvant nivolumab — not
+ chemotherapy or radiation — carries the firmest recommendation.
+
+ MULTIMODAL BLADDER PRESERVATION THERAPY
+  • Best candidates: small solitary tumour, no pelvic lymphadenopathy, no CIS, no hydronephrosis, good
+    bladder function.
+  • Historically reserved for those unfit for surgery; now a viable option in selected MIBC. RC carries the
+    second-highest 30-day readmission rate in Medicare claims, and patients are typically older and
+    comorbid.
+  • Two populations: (1) high operative risk from comorbidity and frailty; (2) surgically fit patients with
+    limited disease, adequate bladder urothelium and function, motivated to keep the bladder. Careful
+    selection and counselling are essential.
+  • Trimodality therapy (TMT) — the best-studied approach = visibly complete TUR + radiosensitising
+    chemotherapy + radiation. Complete TUR with radiation improves local control; radiation also treats
+    adjacent nodes; chemotherapy sensitises.
+  • Concurrent sensitising chemotherapy is superior to radiation alone — established by two randomised
+    trials and many retrospective studies.
+
+ RADIOSENSITISING REGIMENS
+  Regimen                       Evidence and use
+  Mitomycin C + 5-              Largest randomised trial (BC2001): vs radiation alone → 2-year locoregional disease-
+  fluorouracil (5-FU)           free survival 67% vs 48%, without significantly worse late toxicity
+  Cisplatin-based (± 5-FU       Well studied; basis of the MGH and RTOG protocols
+  or paclitaxel)
+
+
+
+                                                          page 18 of 29
+                                                                                         MULTIMODAL BLADDER PRESERVATION
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                        THERAPY
+
+  Regimen                       Evidence and use
+  Gemcitabine alone             Cisplatin-ineligible; effective (3-year metastasis-free rate about 78%)
+  Nicotinamide + carbogen       Validated alternative
+
+  • Outcomes: 5-year cancer-specific survival about 50–84% and OS 36–74%; salvage cystectomy 10–30%.
+  • Multi-institutional propensity-matched analysis, RC vs TMT: equivalent 5-year metastasis-free
+    survival (about 75%) and cancer-specific survival (81% vs 84%); salvage cystectomy 13% — limited by
+    retrospective design and selected TMT patients.
+
+ RADIATION SCHEDULES FOR TRIMODALITY THERAPY
+               Split-course                                                           Continuous-course
+  Sequence Induction chemoradiation to about 40 Gy → restaging by imaging             Full course to 60–66 Gy →
+           and cystoscopy → consolidation to 60–66 Gy if no persistent                endoscopic restaging 3–4 months
+           invasive disease                                                           later
+  Suited to    Surgically fit patients (immediate salvage RC possible)                Fit and unfit patients
+  Status       Historical — Massachusetts General Hospital (MGH) and Radiation        Commonest now; favoured by
+               Therapy Oncology Group (RTOG)                                          most trials
+
+  • Hypofractionation: 55 Gy in 20 fractions (bladder-only fields) is non-inferior for local control, OS and
+    toxicity; a BC2001–BCON meta-analysis confirmed no difference in early or late toxicity.
+  • TUR quality matters: visibly complete TUR → better 5- and 10-year OS and fewer cystectomies (about
+    11% vs 42%), though confounded by selection.
+  • Requirements: multidisciplinary care and excellent compliance with frequent cystoscopic and imaging
+    surveillance; counsel about possible future salvage therapy.
+  • For surgically fit patients, discuss TMT versus RC with or without perioperative chemotherapy.
+    Selection: clinical T2, no hydronephrosis, no CIS, visibly complete TUR. Only about 6–19% of MIBC
+    meets strict "limited burden" criteria. The bladder must be worth preserving and the patient motivated
+    — 10–30% eventually need salvage cystectomy for muscle-invasive recurrence. Very long-term data
+    (>15 years) are limited; late radiation effects (secondary malignancy) make young, fit patients with
+    long life expectancy less ideal.
+  • MGH/RTOG split-course experience (six prospective protocols): complete response at the treatment
+    break 69%; 5- and 10-year OS 57% and 36%, DSS 71% and 65%; 80% of 5-year survivors keep an intact
+    bladder; salvage cystectomy 21%, mostly after induction for incomplete response; after salvage, 5-year
+    OS 45%.
+  • Patients unfit for RC: less stringent criteria, but extensive CIS and poor baseline bladder function are
+    relative contraindications; no accepted definition of unfitness — clinical gestalt aided by mortality
+    nomograms; confirm that life expectancy justifies treatment; multidisciplinary evaluation and shared
+    decision-making.
+  • Population data show worse OS with chemoradiation than surgery (HR about 1.4), but are confounded
+    by selection — registry TMT patients are largely surgically unfit (unadjusted 5-year OS about 30%, DSS
+    about 55%).
+  • Minimal late grade 3–4 toxicity and favourable quality of life; a significant minority still requires
+    salvage cystectomy.
+
+
+
+
+                                                          page 19 of 29
+                                                                                         MULTIMODAL BLADDER PRESERVATION
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                        THERAPY
+ TABLE 131.8 MAJOR PROSPECTIVE TRIMODAL BLADDER PRESERVATION STUDIES
+                                                Radiation        Complete   Salvage
+  Sensitiser             Studies                dose             response   cystectomy       Survival
+  Cisplatin-based        Six studies,           44–65 Gy         60–93%    13–29%            5-year OS about 49–59%;
+  (single agent or       including the          (most about      (MGH/RTOG (MGH/RTOG         MGH/RTOG DSS 64%,
+  weekly; ± 5-FU or      pooled MGH/            64 Gy)           72%)      29%)              59%, 57% at 5, 10, 15
+  paclitaxel)            RTOG report                                                         years
+  5-FU + mitomycin       Randomised trial       55 or 64 Gy      Not        11–14%           5-year OS 48% (original
+  C (BC2001)             and 10-year                             reported                    report); 5-year OS 67.6%
+                         update                                                              and recurrence-free
+                                                                                             survival 63% (10-year
+                                                                                             update)
+
+ The two BC2001 reports give different 5-year OS figures for the same cohort; both are shown.
+
+  • Pattern: complete response is common and salvage cystectomy is consistently needed in roughly 1 in
+    10 to 1 in 4, whichever sensitiser is used.
+ Concept — Trimodality therapy is a strategy that contains cystectomy, not an alternative to it: salvage
+ cystectomy in 10–30% is the designed safety net, so selection — T2, no CIS, no hydronephrosis, visibly
+ complete TUR — determines success.
+
+ SINGLE-MODALITY TREATMENT
+ Chemotherapy Monotherapy
+  • Chemotherapy's role is neoadjuvant or within TMT; alone it rarely produces durable remission,
+    though some patients are pT0 at cystectomy.
+  • Complete responders who declined RC: at 5 years, about two-thirds alive and half with an intact
+    bladder, but about a third died of bladder cancer; long survivors had small, solitary, low-stage,
+    completely resected tumours. An MVAC + TUR series: complete response about 50%; 60% alive
+    without further therapy at about 5 years.
+  • Intravesical recurrence is common and early — nearly half at a median of about 5 months in a cT0
+    series.
+  • RETAIN BLADDER (phase II): surveillance after NAC for patients with DNA damage repair mutations
+    (ATM, ERCC2, FANCC, RB1) and no visible disease → half recurred at about 15 months, several with
+    MIBC.
+  • Not recommended as primary therapy for localised MIBC.
+
+ Radiation Monotherapy
+  • (Here including debulking TUR before radiation; excludes TMT and adjuvant radiotherapy.) Inferior to
+    radiation with sensitising chemotherapy; reserve for quasi-palliative situations.
+  • Evidence: 5- and 10-year OS about 40% and 19%, inferior to chemoradiation; local control as low as
+    27% in T3; the BC2001 radiation-alone arm was inferior to chemoradiation; in patients aged 80 or
+    more, chemoradiation improved 2-year OS over external beam radiation therapy (EBRT) alone.
+  • Predictors of local failure (as for radical TUR): tumour size, multifocality, hydronephrosis, CIS, higher
+    clinical T stage, incomplete TURBT.
+  • Curative bladder dose: 64–66 Gy in 32 fractions, or 55 Gy in 20 fractions; treat nodes at the physician's
+    discretion, especially if node-positive.
+  • Not routine; use in patients unfit for surgery or chemoradiation, including for symptom control.
+
+
+                                                          page 20 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                       SINGLE-MODALITY TREATMENT
+
+ Radical Transurethral Resection
+  • Viable only for tumour confined to superficial muscle. Rationale: pT0 in about 10% of patients treated
+    with RC alone.
+  • Limitations: understaging (pT3 up to about 40% and pT4 about 9% of cT2 cystectomy specimens) and
+    about 25% occult nodal metastasis.
+  • Long-term series (>10 years): after restaging TUR showing no tumour or residual NMIBC, a third
+    developed MIBC, and nearly half of those died; another cohort: over half recurred.
+  • Highly selected contemporary series (tumour <3 cm, no hydronephrosis; intravesical therapy for CIS;
+    re-resection at 3 and 6 months; 3-monthly cystoscopy for 2 years): cancer-specific survival about 82%,
+    80%, 77% at 5, 10, 15 years, but progression-free survival with intact bladder falling to about 58% at
+    15 years.
+  • Not a primary treatment; counsel patients who are unfit or decline RC and TMT about the substantial
+    recurrence risk.
+
+ Partial Cystectomy
+  • Associated with higher mortality than RC (no randomised comparison). Advantages over radical TUR:
+    full PLND for staging, and full-thickness wall with perivesical fat removed.
+  • Historically poor (5-year OS as low as 24%; frequent local and wound recurrence); acceptable with
+    strict selection, when long-term results may approach RC.
+
+ PARTIAL CYSTECTOMY — IDEAL CANDIDATE
+  Requirement
+  Small (<3 cm), solitary, accessible tumour
+  No CIS, no hydronephrosis
+  Broad negative margin achievable, ideally away from the ureteric orifices (avoids reimplantation)
+  Adequate functional capacity after resection
+  Routine intraoperative frozen sections; convert to RC if a negative margin cannot be achieved
+
+  • Treatment of choice for urachal adenocarcinoma — a pathologically distinct entity.
+  • Outcomes (UC): non-muscle-invasive recurrence 12–50%, muscle-invasive 17–57%, metastatic 14–52%;
+    5-year OS 67–70%, recurrence-free survival 39–62%, DSS 84–87%; intact bladder 65–74%. Salvage
+    cystectomy in up to a quarter; late recurrence common (reported beyond 11 years) → long-term
+    follow-up.
+  • With neoadjuvant chemoradiation (tumour <25% of bladder area, sparing bladder neck and trigone,
+    complete TUR; 40 Gy EBRT + cisplatin): minimal residual MIBC and excellent 5-year survival in a small
+    series. Also used after NAC in partial and complete responders, and in patients unfit for or refusing RC.
+  • Always add PLND; consider perioperative cisplatin chemotherapy.
+
+ SINGLE-MODALITY OPTIONS COMPARED
+  Modality              Candidates                                     Chief limitation       Verdict
+  Chemotherapy          Complete responders after NAC; small           Early intravesical     Not recommended
+  alone                 solitary tumours                               recurrence
+  Radiation alone       Unfit for surgery or chemoradiation            Inferior to            Quasi-palliative; symptom
+                                                                       chemoradiation         control
+  Radical TUR           Superficial muscle invasion only               Understaging; occult   Not primary treatment
+                                                                       nodes
+
+
+
+                                                          page 21 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                        SINGLE-MODALITY TREATMENT
+
+  Modality              Candidates                                     Chief limitation        Verdict
+  Partial               <3 cm solitary, no CIS, broad margin;          Recurrence, including   Selected patients, always
+  cystectomy            urachal adenocarcinoma                         late                    with PLND
+
+ Concept — Every single modality fails for the same reason — it leaves untreated either the residual
+ urothelium or the occult nodes — which is why each survives only as an option for highly selected or unfit
+ patients.
+
+ FOLLOW-UP
+  • Goals: detect local (pelvic or bladder), distant and urothelial recurrence; schedules differ after RC and
+    after bladder preservation.
+  • Local recurrence: in the pelvis, usually within 24 months (rarely up to 5 years); 5–15% with aggressive
+    disease (high pT, node-positive, positive margins); poor prognosis; treated with chemotherapy and
+    radiation.
+  • Distant recurrence: historically 32–70%, mostly within 2 years — probably lower with modern NAC and
+    adjuvant immunotherapy, though late recurrence occurs; commonest sites distant nodes, lung, liver,
+    bone; survival after recurrence is poor.
+  • Urothelial recurrence: urethra about 4%; upper tract 4–10%. Urethral risk: tumour in the prostatic
+    urethra (males) or bladder neck (females). The upper tract is the commonest site of late recurrence,
+    and most such patients die of metastasis; biggest risk factor: positive ureteric margin; detection is best
+    with upper tract imaging plus cytology.
+  • Whether detecting asymptomatic recurrence improves survival is controversial — retrospective data
+    conflict; no prospective data.
+
+ Follow-Up After Radical Cystectomy
+ POST-CYSTECTOMY CT SURVEILLANCE BY GUIDELINE
+  Guideline              CT (contrast, with delayed phase for upper tracts)
+  EAU                    Every 6 months for 3 years, then annually to 5 years
+  AUA                    Every 6 months for 2–3 years, then annually
+  NCCN                   Every 3–6 months for 2 years, then annually
+
+  • Most guidelines are risk-adapted; chest imaging (CT preferred) at the same intervals.
+  • Bloods: renal function every visit; CBC and CMP if chemotherapy was given; vitamin B12 annually from
+    year 2. Urine cytology every 6–12 months (low yield); no biomarker is validated post-cystectomy.
+  • Urethral wash cytology is controversial: asymptomatic detection shows a retrospective survival
+    advantage; others reserve it for multifocal tumours, CIS or prostatic urethral tumour. If performed:
+    every 6–12 months in years 1–2. Ask about urethral symptoms at every visit; bloody urethral discharge
+    → urethral wash or flexible cystoscopy.
+  • Diversion surveillance: basic metabolic panel for hypokalaemic hyperchloraemic metabolic acidosis
+    and renal dysfunction; vitamin B12 deficiency after bowel diversion; stomal stenosis and parastomal
+    hernia; neobladder incontinence or hypercontinence; urolithiasis.
+
+ Follow-Up After Bladder Preservation
+  • More intensive than after RC: cystoscopy every 3–4 months in years 1–2, every 6 months in years 3–
+    4, then annually to 10 years; CT urogram (or MRU) and chest CT every 3–6 months in years 1–2, then
+
+
+
+                                                          page 22 of 29
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                         FOLLOW-UP
+     annually in years 3–5; urine cytology every 6–12 months; bloods as after RC. Biopsy any local or
+     distant recurrence.
+ Concept — Surveillance intensity follows what urothelium remains: after cystectomy the threats are
+ metastasis, the upper tract and the urethra; after bladder preservation the bladder itself must be watched
+ for a decade.
+
+ MANAGEMENT OF METASTATIC BLADDER CANCER
+  • Immune checkpoint inhibitors and targeted agents have transformed the field, but cisplatin-based
+    combination chemotherapy remains first-line for metastatic UC; many patients face barriers to its
+    delivery.
+  • Cisplatin ineligibility (consensus working group — any one): GFR <60 mL/min, grade ≥2 hearing loss,
+    grade ≥2 neuropathy, WHO or ECOG performance status >1, NYHA class ≥III → nearly 50% of patients
+    (Table 131.5).
+  • Prognostic factors (Bajorin model, MVAC-treated series): Karnofsky performance status <80% and
+    visceral metastasis (lung, liver, bone) — median survival about 33, 13 and 9 months with 0, 1 and 2
+    factors. Node-only disease: far better 5-year survival than visceral disease (about 21% vs 7%).
+
+ First-Line Chemotherapy for Cisplatin-Eligible Patients
+  • Regimens: ddMVAC and GC.
+  • Most (40–70%) respond initially, but most progress: median survival about 14 months, 5-year survival
+    5–20%.
+  • Split-dose cisplatin is occasionally used for GFR 40–60 mL/min when renal function is the only barrier
+    — no randomised comparison with standard dosing.
+
+ TABLE 131.9 RANDOMIZED TRIALS OF FRONT-LINE SYSTEMIC THERAPY FOR PLATINUM-ELIGIBLE PATIENTS
+ WITH METASTATIC UROTHELIAL CANCER
+                                                        Median survival
+  Trial                 Comparison                      (months)                  Verdict
+  Intergroup            MVAC vs cisplatin               12.5 vs 8.2 (P = .0001); Combination beats single agent; more
+                                                        response 39% vs 12% leukopenia, mucositis, neutropenic
+                                                                                 fever, drug-related death 3–4%
+  MD Anderson           MVAC vs CISCA                   11.1 vs 8.3 (P = .0003)   MVAC better
+  Greek trial           Docetaxel-cisplatin vs          9.3 vs 14.2 (P = .026)    MVAC better
+                        MVAC
+  Carboplatin-          Carboplatin-paclitaxel vs       13.8 vs 15.4 (not         No difference
+  paclitaxel trial      MVAC                            significant)
+  von der Maase         GC vs MVAC                      14.0 vs 15.2 (not         Equivalent efficacy; GC better tolerated
+                                                        significant); OS HR       — fewer dose adjustments (37% vs
+                                                        1.04; response 49% vs     63%), toxic death 1% vs 3%; MVAC:
+                                                        46%                       neutropenia, neutropenic sepsis,
+                                                                                  mucositis, alopecia; GC: grade 3–4
+                                                                                  anaemia
+  EORTC 30924           High-dose (dose-dense)          15.5 vs 14.1 (P = .042); Dose-dense beats standard MVAC, but
+                        MVAC + granulocyte              complete response        harder to tolerate
+                        colony-stimulating factor       21% vs 9%; 7-year
+                        (G-CSF), 2-weekly vs MVAC       survival 24.6% vs
+                        4-weekly                        13.2%; HR 0.76
+
+
+
+
+                                                          page 23 of 29
+                                                                                            MANAGEMENT OF METASTATIC BLADDER
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                             CANCER
+
+                                                        Median survival
+  Trial                 Comparison                      (months)                  Verdict
+  EORTC paclitaxel      Paclitaxel + GC vs GC           15.8 vs 12.7 (P = .075); No OS gain; more neutropenia and
+  trial                                                 response 55.5% vs        thrombocytopenia
+                                                        43.6%
+  EORTC 30986           Gemcitabine-carboplatin         9.3 vs 8.1 (not           See cisplatin-ineligible below
+  (cisplatin-           vs methotrexate,                significant)
+  ineligible)           carboplatin, vinblastine
+                        (MCAVI)
+  Bevacizumab trial GC ± bevacizumab                    14.3 vs 14.5 (not         No OS or PFS gain
+                                                        significant)
+  Durvalumab ±          Durvalumab +                    15.1 vs 14.4 vs 12.1      No OS gain, including PD-L1-positive
+  tremelimumab          tremelimumab vs                 (not significant)
+  phase III             durvalumab vs
+                        chemotherapy
+  IMvigor130            Atezolizumab +                  16.0 vs 13.4 (P = .027); Slight benefit reported
+                        gemcitabine-platinum vs         progression-free
+                        chemotherapy (also              survival 8.2 vs 6.3
+                        atezolizumab alone)             months
+  KEYNOTE-361           Pembrolizumab +                 17.0 vs 14.3 (P = .04);   Not significant — the P-values did not
+                        chemotherapy vs                 progression-free          meet the trial's prespecified thresholds
+                        chemotherapy (also              survival 8.3 vs 7.1       → not recommended
+                        pembrolizumab alone)            months
+
+  • Pattern: only two chemotherapy advances have held — combination over single agent, and dose-
+    dense over standard MVAC; GC matches MVAC with less toxicity; adding a third agent, bevacizumab or
+    (as of this chapter) immunotherapy to chemotherapy has not reliably helped.
+  • Trap: GC is not more effective than MVAC — it is equally effective and better tolerated, which is why it
+    is used more often.
+  • Guidelines do not recommend first-line immunotherapy–chemotherapy combinations on the basis of
+    these three trials.
+
+ First-Line Chemotherapy for Cisplatin-Ineligible Patients
+  • Carboplatin when cisplatin is contraindicated: better tolerated but less effective; never first-line for
+    cisplatin-eligible patients.
+  • EORTC 30986: gemcitabine-carboplatin vs MCAVI → equal median OS, higher response (42% vs 30%)
+    and less severe acute toxicity → gemcitabine-carboplatin is standard in this group.
+  • Under study: gemcitabine-carboplatin + nivolumab vs gemcitabine-oxaliplatin + nivolumab (phase II);
+    gemcitabine-paclitaxel (non-randomised).
+  • Use cisplatin or carboplatin whenever the patient is platinum-eligible.
+  • Platinum-ineligible: performance status ≥2, GFR <30 mL/min, or multiple high-grade comorbidities
+    (Table 131.5 gives ≥3 for performance status) → poor outcomes regardless; immune monotherapy has
+    been evaluated.
+
+ First-Line Immune Checkpoint Inhibitor Therapy
+  • Studied alone and with chemotherapy; checkpoint inhibitors already have neoadjuvant and adjuvant
+    roles and have improved survival in advanced disease.
+
+
+
+
+                                                          page 24 of 29
+                                                                                          MANAGEMENT OF METASTATIC BLADDER
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                           CANCER
+ Immunotherapy for Platinum-Ineligible Patients
+
+ FIRST-LINE SINGLE-AGENT IMMUNOTHERAPY TRIALS
+  Trial                             Agent              Population           Response
+  KEYNOTE-052 (phase II,            Pembrolizumab Cisplatin-                Objective response 29%, complete 7%; higher
+  single arm)                                     ineligible                with PD-L1 ≥10%
+  IMvigor210 (phase II, single      Atezolizumab       Cisplatin-           Objective response 23%, complete 9%
+  arm)                                                 ineligible
+
+  • Approval: both approved first-line for cisplatin-ineligible patients in the United States and Europe; only
+    the US Food and Drug Administration (FDA) approves them for platinum-ineligible patients. NCCN:
+    pembrolizumab for platinum-ineligible; atezolizumab for platinum-ineligible with PD-L1 expression.
+  • Trap: first-line immunotherapy alone is only for platinum-ineligible patients; anyone eligible for
+    cisplatin or carboplatin receives platinum first.
+
+ Maintenance Immunotherapy After Platinum-Based Chemotherapy
+  • JAVELIN Bladder 100 (phase III): patients without progression after first-line gemcitabine-platinum
+    randomised to avelumab maintenance vs no further treatment → median OS 21.4 vs 14.3 months (HR
+    0.69); OS rate 71.3% vs 58.4%; more immune-related adverse events.
+  • Pembrolizumab maintenance (phase II): OS end point not met.
+  • Standard of care: avelumab maintenance for stable or responding disease after first-line platinum
+    chemotherapy.
+
+ Immunotherapy–Chemotherapy Combination Approaches
+  • Covered in Table 131.9: IMvigor130 (atezolizumab — a PD-L1 inhibitor — with gemcitabine-platinum)
+    gave a slight benefit; KEYNOTE-361 (pembrolizumab) and the durvalumab ± tremelimumab trial did
+    not → combinations not recommended first-line.
+
+ Second-Line Therapy
+  • No clear standard second-line chemotherapy; patients failing first-line chemotherapy have a poor
+    prognosis, and conventional salvage agents give suboptimal responses — immunotherapy has changed
+    this.
+
+ Second-Line Chemotherapy
+  • Re-treat with platinum combination (GC or ddMVAC) if the last platinum was ≥12 months earlier;
+    response is better in prior responders (MVAC after GC: about 44% vs 14%), and platinum-combination
+    re-treatment gives better OS than non-platinum chemotherapy.
+  • Single agents (NCCN alternatives): paclitaxel, docetaxel, gemcitabine — modest responses and
+    survival (Table 131.10); docetaxel causes myelosuppression requiring dose reduction in most.
+  • Gemcitabine-paclitaxel: responses vary widely (0–60%) by schedule; a phase III trial of short vs
+    prolonged therapy found no OS or progression-free survival difference.
+  • Vinflunine (antitubulin derived from a vinca alkaloid) vs best supportive care → low response (8.6%)
+    but OS benefit on updated analysis (HR 0.72) → approved in Europe (2009) as second-line; not used
+    in the United States.
+  • Larotaxel (semisynthetic taxane, claimed activity in taxane-resistant cells and blood–brain barrier
+    penetration) + cisplatin vs GC first-line: closed early (sponsor decision); no OS difference, worse
+    progression-free survival → no gain over GC.
+
+
+
+
+                                                          page 25 of 29
+                                                                                         MANAGEMENT OF METASTATIC BLADDER
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                          CANCER
+ Second-Line Immune Checkpoint Inhibitor Therapy
+  • Pembrolizumab is the preferred second-line agent after progression on, or refractoriness to, platinum;
+    alternatives: nivolumab, avelumab.
+  • KEYNOTE-045 (phase III): pembrolizumab vs investigator's choice (paclitaxel, docetaxel or vinflunine) →
+    median OS 10.3 vs 7.4 months, irrespective of PD-L1, with fewer treatment-related adverse events →
+    FDA approval; level 1 evidence.
+  • Atezolizumab: favourable phase II (IMvigor210, post-platinum cohort) → phase III IMvigor211: no OS
+    benefit even with high PD-L1 → not recommended in this setting.
+  • Nivolumab (CheckMate 275), avelumab (JAVELIN Solid Tumor) and durvalumab: responses in about a
+    fifth, independent of PD-L1; avelumab durable and well tolerated (infusion reactions, fatigue).
+
+ TABLE 131.10 TRIALS OF SECOND- AND THIRD-LINE THERAPY FOR METASTATIC UROTHELIAL CANCER
+                                                                                                         Median OS
+  Agent (trial)                   Eligibility                      Response rate                         (months)
+  Paclitaxel, weekly              One prior regimen                10%                                   7.2
+  Docetaxel, 3-weekly             One prior cisplatin regimen      13%                                   9.0
+  Gemcitabine                     One prior platinum or            11–22.5%                              5.0–8.7
+                                  cisplatin regimen
+  Gemcitabine-paclitaxel          One prior cisplatin regimen      41.5–60%                              14.4
+  Vinflunine vs best              Prior platinum                   8.6%                                  6.9 vs 4.6
+  supportive care
+  Pembrolizumab vs                Prior platinum                   21.1% vs 11.4%                        10.3 vs 7.4
+  chemotherapy
+  (KEYNOTE-045)
+  Nivolumab (CheckMate            Prior platinum                   19.6%                                 8.7
+  275)
+  Durvalumab                      Prior platinum                   17.8%                                 Not given
+  Atezolizumab vs                 Prior platinum                   Not given                             11.1 vs 10.6 (not
+  chemotherapy                                                                                           significant)
+  (IMvigor211)
+  Avelumab (JAVELIN)              Prior platinum                   17%                                   Not given
+  Enfortumab vedotin vs           Prior platinum and               40.6% vs 17.9%                        12.88 vs 8.97
+  chemotherapy (phase III)        immunotherapy
+  Sacituzumab govitecan           Prior platinum and               27%                                   10.9
+                                  immunotherapy
+  Erdafitinib                     FGFR-altered; prior              40% overall (body text); 59% (table   11.3
+                                  platinum and/or                  — the post-immunotherapy
+                                  immunotherapy                    subgroup)
+
+  • What the table tests: only pembrolizumab and enfortumab vedotin show phase III OS wins over
+    chemotherapy after platinum; atezolizumab's phase II response did not translate into survival.
+  • Trap: response rate is not survival.
+
+ Immune Checkpoint Inhibitor Side Effects
+  • Mechanism: immune over-activation. Commonest: rash, colitis/diarrhoea, hepatitis, pneumonitis,
+    and thyroid, adrenal, pancreatic or pituitary dysfunction; rarely myocarditis.
+
+
+
+
+                                                          page 26 of 29
+                                                                                         MANAGEMENT OF METASTATIC BLADDER
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                          CANCER
+  • Endocrine toxicities are often irreversible → counsel and manage promptly (American Society of
+    Clinical Oncology guidance).
+
+ Antibody Drug Conjugates
+  • Antibody–drug conjugates (ADCs) = monoclonal antibody linked to a cytotoxic agent → bind tumour-
+    selective antigens → deliver chemotherapy selectively → greater efficacy, less toxicity.
+
+ ANTIBODY–DRUG CONJUGATES AND FGFR INHIBITION
+                                       Payload /
+  Agent             Target             class             Signature toxicities           Position
+  Enfortumab        Nectin-4 (cell     Monomethyl        Alopecia, fatigue, peripheral After platinum and
+  vedotin (EV)      adhesion           auristatin E      neuropathy, rash, anorexia, immunotherapy; preferred after
+                    molecule)                            nausea, diarrhoea             immunotherapy in platinum-
+                                                                                       ineligible; with pembrolizumab:
+                                                                                       preferred first-line for cisplatin-
+                                                                                       ineligible (NCCN)
+  Sacituzumab       Trophoblast        SN-38             Neutropenia, fatigue,          Third line — accelerated FDA
+  govitecan         cell-surface                         alopecia, gastrointestinal     approval after platinum and
+                    antigen 2                                                           immunotherapy
+                    (Trop-2)
+  Erdafitinib       FGFR (oral         —                 Hyperphosphataemia,            Second line after platinum or
+                    tyrosine kinase                      stomatitis, asthenia           immunotherapy for FGFR3 or
+                    inhibitor)                                                          FGFR2 alterations
+
+  • EV phase II (post-platinum and immunotherapy): objective response 44%, complete 12%, median
+    duration 7.6 months; cisplatin-ineligible cohort after immunotherapy only: response 52%, complete
+    20%.
+  • EV phase III vs second-line chemotherapy: survival benefit (Table 131.10) → approved in the United
+    States and Europe after platinum and checkpoint inhibitor, or for cisplatin-ineligible patients after one
+    or more prior lines.
+  • EV + pembrolizumab, first line, cisplatin-ineligible (phase Ib/II): objective response 73%, complete
+    16%; median response duration 25.6 months; OS 26.1 months → phase III under way.
+  • Sacituzumab govitecan: objective response 27%, with most patients showing a reduction in tumour
+    burden; median OS 10.9 months.
+
+ Fibroblast Growth Factor Receptor Inhibition
+  • Erdafitinib (phase II, FGFR3 mutation or FGFR2/3 fusion, post-platinum): objective response 40% plus
+    stable disease 39%; 59% in those with prior immunotherapy; median OS 11.3 months. Further FGFR
+    inhibitors are in trials.
+
+ Vascular Endothelial Growth Factor Inhibitor Therapy
+  • Vascular endothelial growth factor (VEGF) receptors are expressed in UC; VEGF recruits circulating
+    endothelial progenitors → angiogenesis, essential for growth and metastasis; urinary and serum VEGF
+    correlate with metastatic potential and recurrence.
+
+ TARGETED AGENTS WITHOUT POSITIVE OUTCOMES
+  Target                                   Agent                      Outcome
+  VEGF                                     Bevacizumab                Phase II with GC promising (response 72%) → phase
+                                           (humanised                 III: no OS or PFS gain → not recommended
+                                           monoclonal antibody)
+
+
+
+                                                          page 27 of 29
+                                                                                          MANAGEMENT OF METASTATIC BLADDER
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                                           CANCER
+
+  Target                                   Agent                      Outcome
+  VEGF receptors (multikinase)             Sunitinib (oral tyrosine With GC: unacceptable toxicity; maintenance phase
+                                           kinase inhibitor)        II: no PFS gain (closed early, underpowered)
+  Epidermal growth factor receptor   Cetuximab, gefitinib,            Historically used; not recommended
+  (EGFR) — overexpressed, correlates lapatinib
+  with stage and grade
+  Human epidermal growth factor            Trastuzumab                High response with paclitaxel-gemcitabine-
+  receptor 2 (HER2)                                                   carboplatin in HER2-positive tumours, but
+                                                                      randomised phase II: no benefit added to
+                                                                      gemcitabine-platinum
+
+ FIRST-LINE TO THIRD-LINE SEQUENCING IN METASTATIC UROTHELIAL CARCINOMA
+                                                                  Cisplatin-ineligible,
+  Line             Cisplatin-eligible                             platinum-eligible              Platinum-ineligible
+  First            GC or ddMVAC                                   Gemcitabine-carboplatin, or    Pembrolizumab;
+                                                                  EV + pembrolizumab (NCCN       atezolizumab if PD-L1-
+                                                                  preferred)                     positive
+  Maintenance Avelumab if no progression after                    Avelumab if no progression     —
+              platinum                                            after platinum
+  Second           Pembrolizumab (preferred); nivolumab,     As for cisplatin-eligible; EV       EV (preferred after
+                   avelumab; erdafitinib if FGFR2/3-altered;                                     immunotherapy)
+                   platinum re-challenge if ≥12 months
+  Third            EV; sacituzumab govitecan                      EV; sacituzumab govitecan      —
+
+ Future Directions
+  • Biomarker-driven risk stratification (tumour, urine, serum) and combination therapies across
+    neoadjuvant, adjuvant and advanced settings are expected to keep improving survival.
+ Concept — Metastatic treatment is sequenced by platinum eligibility: platinum first for anyone who can
+ take it, then avelumab to hold the response, then checkpoint inhibition, antibody–drug conjugates or FGFR
+ inhibition at progression — immunotherapy alone first-line is the exception reserved for the platinum-
+ ineligible.
+
+
+   KEY POINTS
+    • Optimal MIBC care is multidisciplinary (urological, medical and radiation oncology); clinical staging
+      lacks the sensitivity and specificity to predict final pathological and nodal stage — a major limit on
+      pretreatment decisions.
+    • Gold standard for organ-confined MIBC: radical cystectomy, with neoadjuvant cisplatin-based
+      chemotherapy for eligible patients.
+    • Multimodal bladder preservation (chemoradiation with maximal TUR) gives outcomes comparable
+      to cystectomy in carefully selected patients (clinical T2, small solitary tumour, no hydronephrosis, no
+      concurrent CIS).
+    • Despite aggressive surgery, about 50% of cystectomy patients ultimately die of disease.
+    • Neoadjuvant cisplatin-based chemotherapy gives a modest but significant survival advantage on
+      meta-analysis; adjuvant evidence is weaker, so neoadjuvant chemotherapy should be considered in
+      all cisplatin-eligible patients.
+
+
+
+
+                                                          page 28 of 29
+                                                                              MANAGEMENT OF METASTATIC BLADDER
+Chapter 131 — Management of Muscle-Invasive and Metastatic Bladder Cancer                               CANCER
+    • Adjuvant nivolumab benefits patients with high disease burden after cystectomy who received
+      neoadjuvant cisplatin or are cisplatin-ineligible; other adjuvant immunotherapies have not matched
+      it.
+    • In metastatic disease, initial cisplatin responses are favourable but rarely durable; outcomes are
+      poor.
+    • Improved or stable metastatic disease after platinum → maintenance avelumab.
+    • Progression on platinum → pembrolizumab second line.
+    • Antibody–drug conjugates (enfortumab vedotin) and other targeted therapies are FDA-approved
+      options after platinum and/or immunotherapy.
+
+
+
+
+                                                          page 29 of 29
+
