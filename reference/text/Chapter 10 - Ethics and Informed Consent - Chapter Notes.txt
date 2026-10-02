@@ -1,0 +1,260 @@
+Chapter 10 — Ethics and Informed Consent
+
+Chapter 10 — Ethics and Informed Consent
+ • As urological practice grows more complex, its ethical and legal implications deepen.
+
+MEDICAL ETHICS
+History of Medical Ethics
+ • Hippocrates ("father of medicine"); the Hippocratic Oath (Box 10.1) is the cornerstone of ancient Greek
+   medical ethics: the primary goal of medicine is to protect the patient's interests.
+ • The Oath introduces beneficence, non-maleficence, confidentiality and accountability to the profession.
+ • 20th-century critique (Robert Veatch): the Oath relies on the physician's judgement because the patient
+   is presumed unable to understand — it undermines patient autonomy, and it ignores justice in resource
+   allocation (treats the individual outside social context).
+ • Bioethics emerged as the Oath was criticised:
+    ◦ 1960s — debate on technology (antibiotics, genetic testing).
+     ◦ 1970 — Van Rensselaer Potter coins "bioethics": study of the moral relationship between humans and
+       their social and physical world.
+     ◦ Nazi eugenic experiments → focus on autonomy and protection of medical/genetic information.
+     ◦ Early 1970s — Tuskegee syphilis study becomes public → reinforces autonomy and consent in
+       research.
+     ◦ 1979 — Beauchamp and Childress: the Four-Principles framework, still the cornerstone of modern
+       medical ethics.
+
+BOX 10.1 TRANSLATION OF THE ORIGINAL HIPPOCRATIC OATH (FRANCIS ADAMS, LONDON, 1849)
+ • Duty to teachers: honour them as parents; teach their sons without fee; teach only the oath-bound.
+ • Beneficence / non-maleficence: regimen for the benefit of patients; abstain from the deleterious.
+ • Prohibitions: no deadly medicine; no abortive pessary; no seduction of patients; "I will not cut persons
+   labouring under the stone" — left to its practitioners (the urological line).
+ • Confidentiality of all seen or heard; accountability — honour for keeping the Oath, the reverse for
+   breaking it.
+
+The Four-Principles Framework
+ • A common moral language; equal in weight, each prima facie binding unless in conflict — conflict is the
+   dilemma, requiring prioritisation.
+
+COMPARISON: THE FOUR PRINCIPLES
+ Principle             Meaning                                         Grounding and consequences
+ Autonomy              Respect for "deliberated self-rule": patients   Kantian categorical imperative (persons as ends,
+                       may choose even against the physician's         not means); bounded by justice (others'
+                       calculation of maximal benefit                  autonomy). Founds informed consent,
+                                                                       confidentiality, avoidance of deceit; depends on
+                                                                       communication
+ Beneficence           Optimise benefit to the patient, viewed         Hippocratic duty to protect the patient's interests
+                       through the patient's values
+
+
+
+
+                                                         page 1 of 5
+Chapter 10 — Ethics and Informed Consent                                                                        MEDICAL ETHICS
+
+ Principle             Meaning                                           Grounding and consequences
+ Non-maleficence       Avoid or minimise harm                            Primum non nocere. With beneficence: (1) be
+                                                                         able to deliver promised benefit (training,
+                                                                         standards); (2) be clear on probability and
+                                                                         magnitude of risk and benefit — hence also a
+                                                                         duty to research
+ Justice               Fair distribution of resources, benefits and      Equality ≠ justice ("people may be treated
+                       risks                                             unjustly even if treated equally"). Individual: limit
+                                                                         self-interest, respect self-determination, avoid
+                                                                         waste. Societal: competing values — equal
+                                                                         access, need, advocacy, cost limitation, choice
+
+ • Pattern: beneficence and non-maleficence are the paired Hippocratic duties; autonomy and justice are the
+   modern additions the Oath lacked.
+ • Trap: autonomy is not automatically supreme — it is bounded by justice and by others' autonomy.
+
+Medical Ethics in Clinical Practice
+ • Principles do not translate cleanly to cases; Jonsen's "Four-Box" technique (Table 10.1) systematises their
+   application.
+
+TABLE 10.1 THE FOUR-BOX METHOD TO APPLICATION OF ETHICS IN CLINICAL PRACTICE (MODIFIED FROM JONSEN,
+SIEGLER AND WINSLADE, 1998)
+ Box                     Principle              Questions and content
+ Medical indications     Beneficence, non-      Problem, history, diagnosis, prognosis; acute/chronic/critical/emergent/
+                         maleficence            reversible; goals; probability of success; plan for failure; how to benefit
+                                                and avoid harm. Physician weighs risks and benefits, recommends,
+                                                discloses uncertainty; when risk–benefit is equivocal, defer to the
+                                                patient's preference
+ Patient preferences     Autonomy               Stated preferences; informed of risks and benefits, understood,
+                                                consented?; capacity and legal competence; prior preferences (advance
+                                                directives); appropriate surrogate using appropriate standard; unwilling
+                                                or unable to cooperate, and why; is the right to choose respected? Choice
+                                                must be voluntary
+ Quality of life         Autonomy,              Prospects of return to normal life; provider biases about the patient's
+                         beneficence, non-      quality of life; deficits if treatment succeeds; could continued life be
+                         maleficence            judged undesirable by the patient; rationale to forgo treatment; comfort/
+                                                palliative plans. Most ephemeral box — substituting the provider's view
+                                                risks bias; elicit the patient's values
+ Contextual features     Justice                Family, provider, financial, religious/cultural factors; justification to
+                                                breach confidentiality; resource allocation; legal implications; research or
+                                                teaching; conflicts of interest; team dynamics and coordination
+
+ • Strength: systematic organisation of conflicting priorities for discussion with patient and family.
+   Weakness: may oversimplify and not resolve the decision — use with the surgeon's assessment of
+   reasonable alternatives, seen through patient preference.
+ • Trap: quality of life draws on three principles, not one; contextual features map to justice.
+Concept — Medical ethics moved from the physician deciding for the patient (Hippocratic beneficence) to the
+patient deciding with information (autonomy), with justice added to place the individual in society. The Four-
+Box method simply assigns each principle a practical question set.
+
+
+
+
+                                                          page 2 of 5
+Chapter 10 — Ethics and Informed Consent                                                                    INFORMED CONSENT
+
+INFORMED CONSENT
+History of Informed Consent
+ • Origin in battery law, now within negligence.
+
+COMPARISON: THE LEGAL MILESTONES
+ Case / year                               Distinguishing principle
+ 1905–1914 state courts                    Right to bodily integrity → consent before a procedure; right to be informed of
+                                           and weigh risks
+ Mohr v Williams, 1905                     Consulting a physician does not imply consent
+ Luka v Lowrie, 1912                       Implied consent only in emergency / life-threatening condition with an incapable
+                                           patient
+ Schloendorff v Society of New             Patients may limit consent: consent to examination under anaesthesia ≠ consent
+ York Hospital, 1914                       to surgery
+ Salgo v Leland Stanford Jr                Term "informed consent" coined: disclose facts needed for an intelligent consent
+ University, 1957                          (risks, benefits, alternatives)
+ Kansas Supreme Court, 1960                Failure to inform = negligence: must show conduct outside the "reasonable and
+                                           prudent" physician and proximate cause of harm
+ Canterbury v Spence, 1972 (DC             Disclosure standard = what a "reasonable person" (patient) would want to know,
+ Court of Appeals)                         not what a reasonable physician would disclose
+
+ • Trajectory: battery (touching without consent) → negligence (inadequate disclosure) → patient-centred
+   standard. Trap: Salgo coined the term; Canterbury set the reasonable-patient standard.
+
+Elements of Informed Consent
+ • A process of discussing treatment, consequences, risks, benefits and alternatives; may reduce errors and
+   empower patients.
+ • Four elements:
+       1. Clinical problem, proposed treatment and alternatives, including no treatment.
+         2. Risks and benefits compared with alternatives, and clinical uncertainty.
+         3. Assessment of the patient's understanding.
+         4. Solicitation of preference and consent.
+ • Scope: what could affect the decision (extraneous detail may be withheld), in lay language; discuss
+   options before recommending to limit undue influence.
+ • "Material risk" has no consensus; a 1% cut-off has been proposed, with rarer risks disclosed according to
+   severity.
+ • Limits to patient understanding: decisional shortcuts; optimism bias (own risk underestimated); framing
+   (survival vs death). Counterintuitively, disclosing uncertainty improves understanding and trust.
+ • Patients idealise surgeons and accept passively → heightened duty to invite questions. Ensure
+   understanding of goals, nature of the procedure, outcomes and the early postoperative course.
+ • Final element — explicit consent or refusal, with implications explained; directiveness varies with how
+   active the patient chooses to be (Fig. 10.1); ask what matters most (work, sexual function, continence,
+   leisure).
+
+FIG. 10.1 MODELS OF PATIENT DECISION MAKING (SCHRAGER ET AL., 2017)
+ Model                                     Clinician → patient                       Patient → clinician
+ Paternalistic                             Information and recommendations           Nothing
+
+
+
+
+                                                             page 3 of 5
+Chapter 10 — Ethics and Informed Consent                                                                      INFORMED CONSENT
+
+ Model                                     Clinician → patient                        Patient → clinician
+ Informed medical decision                 Information only                           Nothing (patient decides alone)
+ making
+ Shared decision making                    Information and recommendations            Values and preferences
+
+ • Only shared decision making is bidirectional.
+
+Exceptions to the Informed Consent Requirement
+ • Emergency. Consent presumed where life or well-being is significantly threatened; disclosure waived for
+   the unconscious patient (Barnett v Bachrach, 1943); parental consent waivable if the child risks
+   "immediate injury or death".
+     ◦ Limits: a conscious patient may refuse even life-saving treatment (In re Quackenbush, 1978); no
+       waiver for children when seeking parental consent poses no immediate harm (Rogers v Sells, 1936).
+ • Patients without capacity. Family empowered by law; standard is substituted judgement (what the patient
+   would want), falling back to best interests. If the surrogate is not pursuing the patient's wishes → ethics
+   board/administration → consider petitioning court for a conservator.
+ • Paediatric patients. Parents are surrogates for minors (<18 years); children participate as able. Surgeon
+   facilitates when parent and child disagree; pre-visits to perioperative areas reduce anxiety.
+
+Quality of Informed Consent
+ • Two tests: was enough information given, and was consent based on it? Adequacy is judged by the
+   reasonable-person standard, respecting the patient's view of their interests.
+ • Most consent processes are incomplete; the commonest missed element is assessing understanding.
+ • Forms often exceed 12th-grade reading level, most patients read well below it, and reading the form does
+   not improve understanding (worse with limited English).
+
+COMPARISON: INTERVENTIONS TO IMPROVE CONSENT
+ Intervention                                Effect
+ Simplified consent form alone               Mixed results
+ Supplemental simplified written             Greater improvement in recall
+ material
+ Decision aids                               Better knowledge, less decisional conflict, more participation, better risk
+                                             perception
+ "Repeat-back" (patient explains,            Effective for comprehension but adds much time — limits feasibility
+ clinician clarifies, reassess)
+
+Shared Decision Making
+ • Informed consent = legal route to autonomy; shared decision making (SDM) = ethical route to
+   empowerment, especially where several reasonable options exist.
+ • Two components: (1) information exchange — clinician gives options and pros/cons, patient gives values;
+   (2) decision made or deferred jointly.
+ • About 40 SDM models, mostly for screening, testing or treatment; key components: describe options,
+   recognise both parties' expertise, reach mutual agreement.
+ • Barriers: variable implementation, no formal training, reliance on the patient's (or perceived)
+   informational capacity; real decisions also involve family, organisational culture and financial constraints.
+Concept — Consent law protects autonomy by requiring disclosure; its weak point is comprehension, not
+disclosure. Every remedy — decision aids, repeat-back, SDM — shifts effort from what the surgeon says to
+what the patient understands.
+
+
+                                                              page 4 of 5
+Chapter 10 — Ethics and Informed Consent                                                           INFORMED CONSENT
+
+Special Considerations
+End-of-Life Decisions
+ • Uncertainty (goals, preferences, family, futility) causes variable care and overtreatment; 16% of annual
+   Medicare spending falls in the final 2 months of life.
+ • Non-beneficial treatment: physicians — burden outweighs benefit; patients/families — care not aligned
+   with agreed goals. Conflict stems from uncertain benefit, differing expectations, poor prognostic
+   communication, distrust.
+ • Uniform Health-Care Decisions Act (2006) defers to providers on whether an intervention is futile;
+   ethically, withholding life-prolonging care at the expense of quality of life may be justified, especially if it
+   does not alter the underlying illness.
+ • Early goals-of-care discussion with patient and support system (including palliative care, do-not-
+   resuscitate (DNR) orders, advance directives).
+ • Patient Self-Determination Act (PSDA; enacted 1990, in force 1991): institutions must inform patients of
+   the right to an advance directive, including refusal of life-sustaining treatment. Fewer than half of such
+   preferences become DNR orders → burden falls on ill-informed families.
+ • Futility policies and hospital committees frame decisions and reduce moral distress; outcome data are
+   limited and some groups may be disproportionately harmed.
+Medical Research
+ • Federal regulation (45 Code of Federal Regulations (CFR) part 46) requires "legally effective informed
+   consent".
+ • Waiver permitted: data not linked to identifiers; secondary research on existing data; institutional review
+   board judges risk ≤ minimal and research impracticable without waiver.
+ • General requirements: consent before involvement, time to consider, understandable language, minimal
+   coercion.
+ • Required content: purpose, duration, procedures, interventions, risks/discomforts, benefits, alternatives,
+   confidentiality, contact for questions, voluntariness without penalty; if more than minimal risk —
+   compensation and treatment available for injury.
+ • Vulnerable populations (Subparts B–D): children, pregnant women and fetuses, persons with disabilities,
+   prisoners — extra requirements (e.g. assent in children); participation limited when risk exceeds minimal
+   without prospect of benefit or important knowledge. Protection may reduce equitable access to research
+   benefit.
+Concept — At the end of life and in research the same tension recurs: protection versus access. Advance
+planning and clear policies protect the patient's voice; over-protection of vulnerable groups can deny them
+benefit.
+
+ KEY POINTS
+   • Autonomy, beneficence, non-maleficence and justice remain the foundation; informed consent is
+     essential to surgery, with limited exceptions.
+   • Research consent is more complex, especially in vulnerable populations.
+   • Consent is often incomplete; the surgeon must actively facilitate understanding and participation.
+   • End of life: early goals of care, advance directives and defined futility policies reduce conflict.
+
+
+
+
+                                                     page 5 of 5
+

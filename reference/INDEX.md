@@ -43,6 +43,26 @@ Uploaded chapter notes (Campbell-Walsh-Wein based). Text extracts in `text/` for
 - Sections: Classification And Timing Of Haematuria; (Hpf).; Microscopic Haematuria; (Ivp); Rus; Table 8.2 Differential Diagnosis Of Microhematuria; Box 8.1 Urothelial Cancer Risk Factors; And Urogenital Reconstruction Risk Stratification System; Hpf); Key Points: Microscopic Haematuria; Evaluation Of Patients With Microhaematuria; Patients With Microhematuria; Comparison — Ct Urography Vs Renal Ultrasound In Microhaematuria; Comparison — Urinary Biomarker Assays; (Nmp22); (Bta); Hoxa13, Mdk, Cdk1 (Cdc2), Cxcr2; Onecut2, Twist1; Key Points: Evaluation Of Patients With Microhaematuria; Gross Haematuria; Comparison — Evaluation Of Microhaematuria Vs Gross Haematuria; Haemorrhagic Cystitis; Box 8.2 Differential Diagnosis For Hemorrhagic Cystitis; Comparison — Intravesical Agents For Haemorrhagic Cystitis; Key Points: Haemorrhagic Cystitis; Haematuria From Prostate Origin; Key Points: Haematuria From Prostatic Origin; Urethral Bleeding; Box 8.3 Differential Diagnosis For Urethral Bleeding; Haematuria Originating From The Upper Urinary Tract; Box 8.4 Differential Diagnosis For Upper Urinary Tract Bleeding; Comparison — Vascular Causes Of Upper Tract Bleeding; Tract
 
 
+## Chapter 09 - Occupational Health in Urology - Chapter Notes
+- PDF: `Chapter 09 - Occupational Health in Urology - Chapter Notes.pdf`
+- Sections: Physical Ergonomics; Table 9.1 Modifiable Ergonomic Risks In Urology; Occupational Exposures; Table 9.2 Strategies To Reduce Radiation Dose And Exposure Time; Physical Health Of Surgeons; Mental And Emotional Health Of Surgeons; Key Points
+
+
+## Chapter 10 - Ethics and Informed Consent - Chapter Notes
+- PDF: `Chapter 10 - Ethics and Informed Consent - Chapter Notes.pdf`
+- Sections: Medical Ethics; Comparison: The Four Principles; Siegler And Winslade, 1998); Informed Consent; Comparison: The Legal Milestones; Fig. 10.1 Models Of Patient Decision Making (Schrager Et Al., 2017); Comparison: Interventions To Improve Consent; Key Points
+
+
+## Chapter 11 - Perioperative Care in Urologic Surgery - Chapter Notes
+- PDF: `Chapter 11 - Perioperative Care in Urologic Surgery - Chapter Notes.pdf`
+- Sections: Preoperative Evaluation; Presurgical Testing; Comparison: When Each Preoperative Test Is Indicated; Box 11.1 American Society Of Anesthesiologists (Asa) Classification; Modified From Akhtar And Silverman, 2004); Ecg (7); Preoperative Cardiovascular Evaluation; Comparison: Clinical Predictors Of Perioperative Cardiovascular Risk; Pulmonary Evaluation; Hepatobiliary Evaluation; Special Populations; Comparison: Parenteral Vs Enteral Nutrition; Preparation For Surgery; Comparison: Hyperthyroid Vs Hypothyroid Patient; Comparison: Oral Antibiotic Vs Mechanical Bowel Preparation; Intraoperative Management; Comparison: Urological Positions And Their Hazards; Pcnl); Perioperative Peripheral Neuropathies (Anesthesiology, 2000); Box 11.3 Patient Factors That Increase The Risk Of Infection; Venous Thromboembolic Prophylaxis; Anaesthetic Considerations; Comparison: Inhalational Agents; Comparison: Intravenous Agents; Skin Preparation; Transfusion Considerations; Comparison: Transfusion Hazards; Pain Management; Comparison: Postoperative Analgesic Classes; Key Points
+
+
+## Chapter 12 - Fundamentals of Intraoperative Patient Safety - Chapter Notes
+- PDF: `Chapter 12 - Fundamentals of Intraoperative Patient Safety - Chapter Notes.pdf`
+- Sections: Background; Surgical Time-Outs And Safety Checklists; Wrong-Site Surgery Prevention; Systems Failures; Retained Surgical Items; Rsi.; Sharps Safety; Comparison: Sharps-Injury Countermeasures; Fire Safety; Environmental Distractions; Communication And Team-Based Factors; Key Points
+
+
 ## Chapter 13 - Incisions Exposure and Drains - Chapter Notes
 - PDF: `Chapter 13 - Incisions Exposure and Drains - Chapter Notes.pdf`
 - Sections: Abdominal Incisions; Midline Incision — Variants; Other Fascial Closure Techniques (Fig. 13.3) — Less Used In Urology; Anterior Approaches To The Kidney And Retroperitoneum; Table 13.1 Open Approaches To The Kidney; Flank Incisions; (Xgp).; Flank Vs Anterior Approach — The Governing Contrast; Inguinal Incisions; Inguinal Incisions (Fig. 13.10); Incisions For Specific Surgeries; Penile Fracture Exploration — Degloving Vs Direct Incision; Retractor Systems Compared; Key Points
@@ -521,6 +541,11 @@ Uploaded chapter notes (Campbell-Walsh-Wein based). Text extracts in `text/` for
 ## Chapter 120 - Aging and Geriatric Urology - Chapter Notes
 - PDF: `Chapter 120 - Aging and Geriatric Urology - Chapter Notes.pdf`
 - Sections: Demographics Of Aging; Biology And Principles Of Aging; Replicative Versus Stress-Induced Senescence; Clinical Evaluation Of The Geriatric Urology Patient; Homeostasis Versus Homeostenosis; Inouye, 2007); Tiers Of Daily-Living Function; Perioperative Guidance For The Older Surgical Patient; Comorbidity Versus Disability Versus Frailty; Models Of Frailty; Table 120.1 Beers Criteria Of Urology-Relevant Medications (Rebuilt); Treatments For Genitourinary Syndrome Of Menopause; Preventive Interventions In Older Adults: What The Evidence Shows; Agent-Specific Points In Older Adults; Care Facilities (Rebuilt); Asymptomatic Bacteriuria: Guideline Positions; End Of Life Care And Urology; Additional Resources; Summary; Key Points (Items Not Covered Above)
+
+
+## Chapter 122 - Bladder and Female Urethral Diverticula - Chapter Notes
+- PDF: `Chapter 122 - Bladder and Female Urethral Diverticula - Chapter Notes.pdf`
+- Sections: Bladder Diverticula; Congenital Versus Acquired Bladder Diverticula; Treatment Strategies For Tumours In Bladder Diverticula; Key Points: Diagnosis Of Bladder Diverticula; Management Options For Bladder Diverticula Compared; Key Points: Management Of Bladder Diverticula; Female Urethral Diverticula; Proximal Versus Distal Female Urethra; Urethral Diverticula; Theories Of Formation Of Acquired Urethral Diverticula; Frequency Of Presenting Features; Box 122.1 Signs And Symptoms Of Urethral Diverticula; Mri Features: Bulking Agent Versus Urethral Diverticulum; Imaging Modalities For Urethral Diverticula Compared; Periurethral Masses Compared; Urethral Mucosal Prolapse Versus Urethral Caruncle; Classification Systems For Urethral Diverticula Compared; Key Points: Diagnosis Of Female Urethral Diverticula; Fig. 122.30 Algorithm For Treatment Of Urethral Diverticula; Box 122.2 Principles Of Transvaginal Urethral Diverticulectomy; Table 122.2 Complications Of Transvaginal Urethral Diverticulectomy; Body Text Versus Table 122.2 For The Same Endpoints; Urethrovaginal Fistula After Diverticulectomy: Distal Versus Proximal; Key Points: Management Of Female Urethral Diverticula; Bladder Diverticula Versus Female Urethral Diverticula
 
 
 ## Chapter 123 - Surgical Procedures for Sphincteric Incontinence in the Male - Chapter Notes

@@ -1,0 +1,910 @@
+Chapter 11 — Perioperative Care in Urologic Surgery
+
+Chapter 11 — Perioperative Care in Urologic Surgery
+ • Perioperative care keeps evolving with new tools and an ageing population; economics drive more
+   outpatient surgery, shorter stays and fewer complications.
+ • Standard of care: even complex urological operations are admitted on the day of surgery and discharged
+   the day after.
+ • Despite the shift to office-based and non-surgical care, the diversity of genitourinary disease requires
+   every urologist to command perioperative principles.
+
+PREOPERATIVE EVALUATION
+ • Patient acuity is rising with age and comorbidity.
+ • Surgeon and patient share responsibility for evaluation by the wider team, so the patient arrives in, and
+   leaves, theatre optimised.
+ • Appropriate specialist consultation improves outcomes and reduces cancellations.
+
+PRESURGICAL TESTING
+ • Goal: find an undiagnosed comorbidity, an undertreated condition, or a significant exacerbation that may
+   affect the operative course.
+ • Individualise by age, history, examination and procedure.
+ • Routine testing beyond history and examination has never been shown cost-effective, and predicts
+   morbidity less well than American Society of Anesthesiologists (ASA) status or American Heart
+   Association/American College of Cardiology (AHA/ACC) risk guidance; a systematic review found no
+   support for routine testing before elective non-cardiac surgery.
+ • Typical panel: full blood count; basic metabolic panel; prothrombin time (PT), partial thromboplastin time
+   (PTT), international normalised ratio (INR) (controversial); electrocardiogram (ECG); ABO/Rh group and
+   antibody screen; chest radiograph.
+
+COMPARISON: WHEN EACH PREOPERATIVE TEST IS INDICATED
+ Test                             Indication
+ PT/PTT                           Omit in most; controversial unless on anticoagulation or with personal/surgical bleeding
+                                  history
+ Urine pregnancy test             Every woman of childbearing age on the morning of surgery, unless ovaries or uterus
+                                  removed
+ ECG                              Age >40 years or any cardiac history (predictive value debated — studies conflict)
+ Chest radiograph                 Not routine without cardiopulmonary disease
+
+ • ASA Task Force on Pre-anaesthesia Evaluation would say only that tests "may be ordered … on a selective
+   basis" to guide management.
+
+American Society of Anesthesiologists Classification and Risk
+ • About 27 million US operations a year; about 8 million (30%) in patients with significant coronary or
+   other cardiac disease — hence the cardiovascular focus.
+ • ASA classification (1961, revised to six classes; Box 11.1) grades overall physical status, not surgical risk;
+   subjective yet an independent predictor of mortality.
+ • Multivariate scores: Goldman's criteria (Table 11.1) sum weighted points; the Modified Cardiac Risk Index
+   (Table 11.2) simplifies to six predictors.
+
+
+                                                          page 1 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                                       PRESURGICAL TESTING
+BOX 11.1 AMERICAN SOCIETY OF ANESTHESIOLOGISTS (ASA) CLASSIFICATION
+ Class              Definition
+ I                  Normal healthy patient
+ II                 Mild systemic disease
+ III                Severe systemic disease that limits activity but is not incapacitating
+ IV                 Incapacitating disease that is a constant threat to life
+ V                  Moribund, not expected to survive 24 h with or without operation
+ VI                 Declared brain-dead organ donor
+ E                  Suffix for emergency surgery, added to classes I–V
+
+ • Trap: III vs IV turns on limits activity vs constant threat to life; "E" is a suffix, not a class, and never
+   attaches to VI.
+
+COMPARISON: TABLE 11.1 GOLDMAN'S CARDIAC RISK INDEX AND TABLE 11.2 MODIFIED CARDIAC RISK INDEX (BOTH
+MODIFIED FROM AKHTAR AND SILVERMAN, 2004)
+ Goldman — risk factor (points)                                     Modified Cardiac Risk Index — predictor (1 point each)
+ Third heart sound or jugular venous distension (11)                Ischaemic heart disease
+ Recent myocardial infarction (10)                                  Congestive heart failure
+ Non-sinus rhythm or premature atrial contractions on               Cerebrovascular disease
+ ECG (7)
+ >5 premature ventricular contractions (7)                          High-risk surgery
+ Age >70 years (5)                                                  Preoperative insulin for diabetes
+ Emergency operation (4)                                            Preoperative creatinine >2 mg/dL
+ Poor general medical condition (3); intrathoracic,                 —
+ intraperitoneal or aortic surgery (3); significant aortic
+ stenosis (3)
+ Risk of cardiac complication: 6–12 points → 7%; 13–25              Each additional predictor increases perioperative
+ → 14%; ≥26 → 78%                                                   cardiovascular risk
+
+ • What the pair tests: Goldman weights nine factors, heaviest for active heart failure (S3/JVD) and recent
+   MI; the modified index counts six equally weighted predictors.
+ • Pattern: both include heart failure and surgery type; only the modified index includes insulin-treated
+   diabetes, cerebrovascular disease and creatinine; only Goldman includes age, rhythm and aortic
+   stenosis.
+ • Trap: the modified index is an unweighted count — do not carry Goldman's weights into it.
+
+PREOPERATIVE CARDIOVASCULAR EVALUATION
+ • Initial history, examination and ECG seek coronary disease, heart failure, symptomatic arrhythmia,
+   pacemaker/implantable defibrillator, and orthostatic hypotension; define severity and stability.
+ • Cardiac risk is modified by functional capacity, age, diabetes, peripheral vascular disease, renal
+   dysfunction and chronic obstructive pulmonary disease (COPD).
+ • ACC/AHA guidelines use three categories: clinical markers, functional capacity, and type of surgery.
+
+
+
+
+                                                             page 2 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                       PREOPERATIVE CARDIOVASCULAR EVALUATION
+
+Clinical Markers
+COMPARISON: CLINICAL PREDICTORS OF PERIOPERATIVE CARDIOVASCULAR RISK
+ Major                                        Intermediate                                   Minor
+ Acute myocardial infarction (MI) <7          Mild angina; prior MI by history or Q          Advanced age; abnormal ECG; non-
+ days; recent MI 7 days–1 month;              waves; compensated heart failure;              sinus rhythm (e.g. atrial
+ unstable angina; any ischaemic               diabetes; renal insufficiency (creatinine      fibrillation); prior stroke;
+ burden (symptoms or non-invasive             >2 mg/dL)                                      uncontrolled hypertension
+ test); decompensated heart failure;
+ significant arrhythmia; severe
+ valvular disease
+
+ • Examinable contrasts: decompensated (major) vs compensated (intermediate) heart failure; recent
+   (major) vs prior (intermediate) MI.
+ • Timing after MI: the old 3–6-month wait is abandoned; ACC stratifies by infarct severity and reinfarction
+   risk on stress testing; without trial data, waiting 4–6 weeks before elective surgery is reasonable,
+   considering stents/bypass and antiplatelet needs.
+
+Functional Capacity
+ • Measured in metabolic equivalents (METs); 4 METs ≈ climbing two flights of stairs — cheap and simple.
+ • Duke Activity Status Index (DASI) (Table 11.3), validated repeatedly, quantifies capacity.
+ • ≥4 METs → no further invasive cardiac evaluation needed.
+
+TABLE 11.3 DUKE ACTIVITY STATUS INDEX (MODIFIED FROM HLATKY ET AL., 1989)
+ Activity ("Can you …?")                                                                                           Yes
+ Take care of yourself (eating, dressing, bathing, toileting)                                                      2.75
+ Walk indoors, around the house                                                                                    1.75
+ Walk a block or two on level ground                                                                               2.75
+ Light housework (dusting, washing dishes)                                                                         2.70
+ Moderate housework (vacuuming, sweeping, carrying groceries)                                                      3.50
+ Yard work (raking, weeding, pushing a power mower)                                                                4.50
+ Have sexual relations                                                                                             5.25
+ Climb a flight of stairs or walk up a hill                                                                        5.50
+ Moderate recreation (golf, bowling, dancing, doubles tennis, throwing a ball)                                     6.00
+ Strenuous sport (swimming, singles tennis, football, basketball, skiing)                                          7.50
+ Run a short distance; heavy housework (scrubbing floors, moving furniture)                                        8.00 each
+
+ • Scoring: "No" = 0; DASI = sum of all 12 items. Peak VO₂ (mL/kg/min) = 0.43 × DASI + 9.6; METs = peak VO₂
+   ÷ 3.5 (× 0.286).
+ • Pattern: items rise in weight with aerobic demand; running and heavy housework score highest (8.00).
+
+Surgery-Specific Cardiac Risk
+ • Determined by type of surgery and degree of haemodynamic stress.
+ Risk                    Procedures
+ High                    Major emergency surgery (especially elderly); long operations with large fluid shifts or blood loss
+ Intermediate            Intraperitoneal, laparoscopic and robotic-assisted laparoscopic surgery
+
+
+
+
+                                                             page 3 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                 PREOPERATIVE CARDIOVASCULAR EVALUATION
+
+ Risk                    Procedures
+ Low                     Endoscopic and superficial (no body-cavity entry) procedures
+
+Concept — Cardiac risk is the product of three independent axes: how sick the heart is (clinical markers), how
+much reserve the patient has (METs), and how much stress the operation imposes (surgery type). A patient
+with good reserve undergoing low-stress surgery needs no further testing whatever the history.
+
+PULMONARY EVALUATION
+ • Most important for thoracic and abdominal surgery.
+ • Pulmonary function testing (forced expiratory volume in 1 second (FEV₁), forced vital capacity, diffusing
+   capacity for carbon monoxide) for known lung disease, significant smoking history or symptoms — gives a
+   baseline.
+ • FEV₁ <0.8 L or <30% predicted → high risk.
+ • Specific risk factors: COPD, smoking, sputum production, pneumonia, dyspnoea, obstructive sleep
+   apnoea.
+ • Smokers: 4-fold postoperative pulmonary morbidity and up to 10-fold mortality.
+ • Restrictive fares better than obstructive disease — preserved maximal expiratory flow allows an effective
+   cough with less sputum.
+ • General factors: age, low albumin, obesity, impaired sensorium, prior stroke, immobility, acute renal
+   failure, chronic steroids.
+
+HEPATOBILIARY EVALUATION
+ • Advanced liver disease survival has improved, so these patients come to surgery more often; mild–
+   moderate disease is often asymptomatic and must be sought.
+ • History: prior hepatitis, timing and precipitants (important if staff have a blood-borne exposure); pruritus,
+   bleeding, distension, weight gain.
+ • Examination: jaundice/scleral icterus visible at bilirubin >3 mg/dL; caput medusae, palmar erythema,
+   spider naevi, clubbing; severe — ascites, encephalopathy, asterixis, cachexia.
+
+COMPARISON: CHILD CLASSIFICATION VS MODEL FOR END-STAGE LIVER DISEASE (MELD)
+                         Child classification                              MELD score
+ Inputs                  Bilirubin, albumin, PT + clinical encephalopathy Bilirubin, creatinine, INR (linear regression);
+                         and ascites                                      calculator adds age and ASA class
+ Nature                  Partly subjective; arbitrary cut-offs             Objective, weighted, no arbitrary cut-offs →
+                                                                           more accurate
+ Output                  Surgical mortality: A 10%, B 30%, C 76–82%;       7-, 30-, 90-day, 1- and 5-year surgical mortality;
+                         also predicts liver failure, encephalopathy,      tracks 30-day mortality even in colorectal
+                         bleeding, infection, renal failure, hypoxia,      surgery without liver disease
+                         ascites
+
+ • Other independent mortality risks: emergency surgery, COPD.
+ • The two scores are complementary in cirrhotic patients.
+
+
+
+
+                                                           page 4 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                                    SPECIAL POPULATIONS
+
+SPECIAL POPULATIONS
+Elderly
+ • By 2050 Americans >65 will more than double to 89 million, >20% of them over 85; octogenarian and
+   nonagenarian surgery is increasing.
+ • Whether age or comorbidity drives risk is unsettled, but age independently predicts morbidity and
+   mortality; after radical cystectomy, 90-day mortality climbs across the <70, 70–80 and >80 bands.
+ • Over 80: hypertension and dyspnoea are the commonest comorbid risks; preoperative transfusion,
+   emergency surgery and weight loss best predict morbidity; longer operative time raises mortality in
+   octogenarians.
+ • Delirium — often dismissed as "sundowning" — may be the first sign of metabolic or infective
+   complication; assess cognition, function and mood preoperatively.
+ • Reduce delirium: minimise noise, familiar surroundings, consistent sleep, regional anaesthesia where
+   possible, minimal opioids.
+
+Morbid Obesity
+ • Weigh operative risk against natural history when timing surgery; BMI ≥45 kg/m² costs 8–13 years of life
+   expectancy.
+ • Cardiac symptoms are non-specific and examination underestimates dysfunction; >3 coronary risk factors
+   → consider non-invasive cardiac evaluation.
+ • Comorbidities: ASCVD, heart failure, hypertension, sleep-apnoea pulmonary hypertension,
+   hypoventilation, arrhythmias, deep vein thrombosis/pulmonary embolism, poor exercise capacity;
+   ventilation–perfusion mismatch.
+ • Positioning injury and wound infection risk → consider laparoscopy when appropriate.
+
+Pregnancy
+ • Commonest reason: renal colic/stones, found on fetal ultrasound or during colic.
+ • Fetal radiation risk highest from preimplantation to ~15 weeks; malformation threshold 10 cGy →
+   ultrasound first (CT abdomen ~1 cGy; intravenous pyelogram ~0.3 cGy).
+ • Delay surgery until the fetus is mature unless mother or fetus would be harmed.
+ Trimester                     Anaesthetic/surgical risk
+ First                         Teratogenic exposure to anaesthetic agents; delay semi-elective surgery beyond it
+ Second                        Safest — organogenesis complete; almost no risk of anaesthetic malformation or
+                               miscarriage
+ Third                         Preterm labour; fetal hypoxaemia from altered uterine flow and maternal acid–base change
+
+ • Involve obstetrician, perinatologist and anaesthetist; fetal heart rate and tocometry before and after.
+ • Analgesia: opioids acceptable (no human birth defects at normal doses; wean early — fetal dependency);
+   avoid NSAIDs — premature closure of the ductus arteriosus.
+
+Nutritional Status
+ • Malnutrition impairs host defence, wound healing, immunity, bowel recovery and organ function.
+ • Assessment: weight loss plus lymphocyte count and albumin (visceral protein); >20 lb (~9 kg) loss in 3
+   months = severe malnutrition; validated tools include the Subjective Global Assessment.
+
+
+
+
+                                                           page 5 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                                      SPECIAL POPULATIONS
+COMPARISON: PARENTERAL VS ENTERAL NUTRITION
+                         Total parenteral nutrition (TPN)                  Enteral nutrition
+ Use                     Severe malnutrition with a non-functioning        Preferred whenever feasible (nasoenteral
+                         gut                                               tube, gastrostomy, jejunostomy)
+ Evidence                7–10 days preoperatively improves outcome if      5–20 days preoperatively cuts complications
+                         undernourished; no benefit or more sepsis if      by 10–15%
+                         well or mildly undernourished
+ Physiology              —                                                 Maintains gut-associated lymphoid tissue,
+                                                                           mucosal blood flow and barrier; formulas 1–2
+                                                                           kcal/mL, lactose-free, full vitamins/minerals in
+                                                                           <2 L/day
+ Postoperative           If requirements cannot be met within 7–10         Monitor nutrition, gastrointestinal tolerance,
+                         days; not useful routinely if well-nourished or   fluid/electrolytes
+                         eating within a week
+ Complications           Line insertion: pneumo/haemothorax,               Tube dislodgement → pulmonary/peritoneal
+                         chylothorax (thoracic duct); line sepsis —        complications; adynamic ileus
+                         commonest, needs removal; venous and
+                         catheter thrombosis (thrombolytics)
+
+Concept — Each special population reshapes the same risk calculation: the elderly lose reserve and present
+atypically (delirium), the obese mask cardiac disease, pregnancy adds a second patient with a time-
+dependent vulnerability, and malnutrition removes the capacity to heal — so the gut should be used
+whenever it works.
+
+PREPARATION FOR SURGERY
+Preoperative Optimisation Strategies
+Optimisation of Comorbid Illness
+Cardiac.
+ • Of nitrates, calcium-channel blockers and β-blockers, only β-blockade improved outcome.
+ • Mangano (NEJM, 1996), landmark: prophylactic atenolol improved outcomes after non-cardiac surgery; a
+   very large retrospective study linked perioperative β-blockade to lower mortality in high-risk major non-
+   cardiac surgery.
+ • Goal-directed therapy (judicious fluids, inotropes, oxygen to physiological targets) further reduces risk; an
+   early trial showed a large fall in mortality.
+Pulmonary.
+ • Stop smoking ≥8 weeks before surgery. Stopping <8 weeks may raise risk — loss of smoke irritation
+   reduces coughing and pulmonary toilet. >6 months' abstinence → risk equals non-smokers.
+ • COPD: preoperative bronchodilators dramatically reduce complications; treat infection with antibiotics;
+   steroid pretreatment for asthma; epidural/regional anaesthesia, physiotherapy and continued
+   bronchodilation help.
+Diabetes.
+ • Hyperglycaemia impairs healing and raises infection; hypoglycaemia under anaesthesia may go
+   unrecognised.
+ • Stop long-acting oral hypoglycaemics; prefer short-acting agents or sliding-scale insulin; target glucose
+   80–250 mg/dL; frequent fingerstick checks postoperatively; resume usual regimen when eating.
+
+
+
+
+                                                         page 6 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                                    PREPARATION FOR SURGERY
+
+ • Insulin pump: continue basal infusion on the day of surgery, correct with the pump; know the patient's
+   sensitivity factor.
+Thyroid.
+ • Either dysfunction → endocrinologist; defer elective surgery until euthyroid.
+
+COMPARISON: HYPERTHYROID VS HYPOTHYROID PATIENT
+                         Hyperthyroid                                         Hypothyroid
+ Greatest risk           Thyroid storm: fever, tachycardia, confusion,        Increased sensitivity to anaesthetics and
+                         cardiovascular collapse; atrial fibrillation in      opioids; severe — myocardial dysfunction,
+                         ~20%; airway compression/deviation by goitre         coagulopathy, electrolyte disturbance, reduced
+                                                                              gut motility
+ Features                —                                                    Lethargy, cold intolerance, hoarseness,
+                                                                              constipation, dry skin, apathy, periorbital
+                                                                              oedema, thin eyebrows, brittle hair,
+                                                                              hypothermia, bradycardia, slow-relaxing
+                                                                              reflexes
+ Management              Continue propylthiouracil/methimazole and            Confirm (low thyroxine, high thyroid-
+                         β-blocker on the day of surgery; storm →             stimulating hormone) → levothyroxine
+                         iodine and steroids
+
+Corticosteroids and the hypothalamic–pituitary–adrenal (HPA) axis.
+ Exposure                                             HPA status and action
+ ≤5 mg prednisone/day, any duration                   No clinically significant suppression; no supplement — give the usual
+                                                      dose
+ >20 mg prednisone/day for >3 weeks, or               Presume suppressed
+ clinically cushingoid
+ Potent topical steroid ~2 g/day; inhaled ~0.8        Can suppress
+ mg/day
+ Suppressive dose within 1 year of surgery            Supplement; low-dose adrenocorticotropic hormone (ACTH)
+                                                      stimulation test can assess
+
+ • Stress dosing: hydrocortisone 50–100 mg intravenously (IV) before induction → 25–50 mg every 8 h for
+   24–48 h until usual dose resumes.
+ • Minor procedures under local anaesthesia need no stress dose.
+Management of Medications — Antithrombotic Therapy
+ • Warfarin and antiplatelets cause significant postoperative bleeding (unlike venous thromboembolism
+   (VTE) prophylaxis) → balance bleeding against thrombosis.
+ • Warfarin (atrial fibrillation, mechanical valves, prior VTE): half-life 36–42 h → stop 5 days before surgery
+   for INR <1.5.
+ • Direct oral anticoagulants (apixaban, dabigatran, rivaroxaban) differ pharmacologically; the surgeon must
+   know each.
+ • Bridging depends on thrombotic risk (Table 11.4): 2012 American College of Chest Physicians (ACCP) —
+   bridge moderate- and high-risk patients with therapeutic subcutaneous low-molecular-weight heparin
+   (LMWH) or IV unfractionated heparin (UFH).
+
+
+
+
+                                                           page 7 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                                     PREPARATION FOR SURGERY
+TABLE 11.4 RISK STRATIFICATION FOR ARTERIAL OR VENOUS THROMBOEMBOLISM EVENTS DURING PERIOPERATIVE
+PERIOD IN PATIENTS ON CHRONIC ANTICOAGULANT THERAPY (MODIFIED FROM DOUKETIS ET AL., ACCP, 2012)
+ Risk           Mechanical heart valve                  Atrial fibrillation (CHADS₂)        Venous thromboembolism
+ Low            Bileaflet aortic valve, no AF, no       0–2, no prior stroke/TIA            Single VTE >12 months ago, no
+                stroke risk factors                                                         other risk
+ Moderate       Bileaflet aortic valve + ≥1 of AF,      3–4                                 VTE within 3–12 months; non-
+                prior stroke/TIA, hypertension,                                             severe thrombophilia
+                diabetes, heart failure, age >75                                            (heterozygous factor V Leiden or
+                                                                                            factor II); recurrent VTE; active
+                                                                                            cancer (treated ≤6 months or
+                                                                                            palliative)
+ High           Any mitral prosthesis; caged-ball       5–6; stroke/TIA within 3            VTE within 3 months; severe
+                or tilting-disc aortic; stroke/TIA      months; rheumatic valve             thrombophilia (protein C, S or
+                within 6 months                         disease                             antithrombin deficiency,
+                                                                                            antiphospholipid antibodies,
+                                                                                            multiple abnormalities)
+
+ • CHADS₂ = congestive heart failure, hypertension, age, diabetes, stroke; TIA = transient ischaemic attack.
+ • Pattern: recency of event, valve position/type and severity of thrombophilia define the high stratum. Trap:
+   any mitral prosthesis is high risk; a bileaflet aortic valve is low unless other factors.
+Antiplatelet therapy and coronary stents.
+ • Cardiovascular prevention use is uncontroversial; stent thrombosis prevention is the dilemma.
+ • Aspirin and clopidogrel are irreversible → stop 7–10 days before surgery to minimise bleeding.
+ • Premature interruption → 25–50% risk of significant MI, with raised mortality.
+                                          Bare-metal stent                             Drug-eluting stent
+ Dual antiplatelet duration               6 weeks                                      12 months
+ Delay elective urological surgery        ≥30 days                                     >1 year if possible, then keep at least
+                                                                                       single-agent therapy (late thrombosis
+                                                                                       described)
+ Surgery cannot wait (e.g. cancer)        ACCP: continue aspirin and clopidogrel perioperatively (drug-eluting stents);
+                                          close urologist–cardiologist communication
+
+ • Two bare-metal figures, two sources: 6 weeks is the recommended dual-therapy duration; ≥30 days is the
+   minimum surgical delay from a literature review.
+Bowel Preparation
+ • Rationale: fewer faeces and bacteria → less anastomotic leak, abscess, wound infection.
+ • Flora: aerobes — Escherichia coli, Enterococcus faecalis; anaerobes — Bacteroides, Clostridium.
+   Concentration (organisms/g): jejunum 10–10⁵; distal ileum 10⁵–10⁷; ascending colon 10⁶–10⁸; descending
+   colon 10¹⁰–10¹².
+ • Evidence is inferred from colorectal surgery.
+
+COMPARISON: ORAL ANTIBIOTIC VS MECHANICAL BOWEL PREPARATION
+                     Oral antibiotic preparation                            Mechanical bowel preparation (MBP)
+ Standard            Neomycin + erythromycin (Nichols–Condon trial, Formerly days of laxatives, lavage, enemas; now
+                     1977: septic complications 43% MBP alone vs 9% polyethylene glycol or sodium phosphate, as
+                     MBP + oral antibiotics)                        outpatient
+
+
+
+
+                                                             page 8 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                               PREPARATION FOR SURGERY
+
+                     Oral antibiotic preparation                        Mechanical bowel preparation (MBP)
+ Current             Benefit debated since routine IV prophylaxis;      No benefit for leak, abscess or mortality (meta-
+ evidence            Cochrane: aerobic + anaerobic cover (oral, IV or   analysis of randomised controlled trials (RCTs));
+                     both) cuts wound infection up to 75%; unknown      overall surgical site infection (SSI) higher with
+                     if useful when colon not emptied                   MBP; Cochrane agrees
+ Downside            Clostridioides difficile colitis                   Discomfort, electrolyte disturbance
+ Practice            Still used by most colorectal surgeons             Near-universal belief; urological series show
+                                                                        equivalent SSI after cystectomy/diversion
+                                                                        without it
+
+ • Polyethylene glycol preferred in the elderly and in renal insufficiency, heart failure, electrolyte
+   disturbance and cirrhosis — completely non-absorbable.
+ • Exceptions where preparation persists: enema before transrectal prostate biopsy (portal of entry,
+   bacteraemia); laparoscopy (believed to improve exposure and ileus — unproven).
+ • Postoperative ileus: some primary ileus is normal; >72–96 h → evaluate for mechanical obstruction
+   (adhesions, intra-abdominal process, retroperitoneal haemorrhage).
+ • Reduce ileus: minimise opioids, selective nasogastric tubes, correct electrolytes; gum chewing (sham
+   feeding) speeds recovery; alvimopan (peripheral opioid antagonist, FDA 2008) shortened stay after radical
+   cystectomy by over 2 days in a phase IV trial. Both feature in enhanced recovery after surgery (ERAS)
+   pathways.
+Concept — Optimisation means reversing what can be reversed before the insult of surgery, but the timing
+rules are counterintuitive: late smoking cessation, premature antiplatelet withdrawal and routine mechanical
+bowel preparation can each do more harm than good.
+
+INTRAOPERATIVE MANAGEMENT
+Patient Environment
+ • Hypothermia is harmful in elective surgery (therapeutic only in some trauma/brain injury).
+ • Mechanism: induction → peripheral vasodilatation redistributes core heat (early drop); thereafter
+   radiation and conduction account for most loss.
+ • Normothermia = core 36–38°C; even 1–2°C of hypothermia is harmful — mild hypothermia increases
+   blood loss and transfusion (meta-analysis of RCTs) via impaired clotting enzymes and platelet aggregation.
+ • SSI risk rises with mild hypothermia (34–36°C) — impaired immunity and vasoconstriction-driven tissue
+   hypoxia.
+ • Kurz (1996), landmark, 200 colorectal patients: hypothermia → 3× wound infection and +2.6 days' stay.
+   The Surgical Care Improvement Project (SCIP) includes normothermia.
+ • Warming: blankets, warmed IV fluids, warmed irrigation (transurethral resection of the prostate (TURP),
+   long endoscopy), warmed humidified CO₂ in laparoscopy, higher theatre temperature.
+
+Patient Safety
+ • Harvard Medical Practice Study (Brennan, 1991): 48% of adverse events accompanied an operation →
+   inspired the Institute of Medicine's To Err Is Human. The operating theatre is the commonest venue of
+   preventable surgical injury; the surgeon is "captain of the ship" but every member must attend to detail.
+ • Three immediately preventable injuries: retractor, thermal and positioning.
+ • Self-retaining retractors → femoral neuropathy: lateral blades must cradle rectus only, never compress
+   psoas; reinspect periodically.
+
+
+
+
+                                                         page 9 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                               INTRAOPERATIVE MANAGEMENT
+
+ • Thermal: diathermy, argon beam, bipolar, lasers; light-cable ends burn through drapes → off/standby
+   when not in use.
+ • Morbid obesity: hydraulic table, long instruments, extra padding, wide compression sleeves, table
+   extensions.
+
+Patient Positioning
+ • Shared team responsibility; knowledge drawn from anaesthesia. The ASA Closed Claims Database (1999)
+   found neuropathy the second-leading cause of liability → ASA practice advisory (Box 11.2).
+ • Mechanism of position-related neuropathy: stretch, prolonged compression or ischaemia.
+
+COMPARISON: UROLOGICAL POSITIONS AND THEIR HAZARDS
+ Position               Key risks and rules
+ Supine (safest)        Abduction >90° → brachial plexus; pad arm boards (ulnar groove; spiral groove → radial nerve);
+                        tucked arms — avoid hand/forearm pressure, detect IV infiltration early (forearm compartment
+                        syndrome)
+ Lithotomy              Persistent neuropathy rare, but transient neuropathy occurs in a small minority, almost all
+                        resolving by 6 months. Move both legs together; hips flexed 80–100°, abducted 30–45°; pad legs
+                        off stirrups; guard fingers in stirrup joints; adapt for contractures
+ Lateral                Anterior and posterior support; ipsilateral arm on chest/rest/pillows, <90° abduction;
+ decubitus / flank      contralateral arm on padded board; axillary roll just caudal to (not in) the axilla; tilt the table
+                        fully before draping to test security
+ Prone                  Pad torso, elbows, hips, legs; secure tube and lines; coordinated transfer; trolley immediately
+ (percutaneous          available for airway rescue
+ nephrolithotomy,
+ PCNL)
+ Steep                  Respiratory and cardiovascular change, raised central venous and intracranial pressure; secure
+ Trendelenburg          against cephalad slide; avoid fixed shoulder braces (brachial plexus)
+ (robotic pelvis)
+
+BOX 11.2 AMERICAN SOCIETY OF ANESTHESIOLOGISTS TASK FORCE RECOMMENDATIONS ON THE PREVENTION OF
+PERIOPERATIVE PERIPHERAL NEUROPATHIES (ANESTHESIOLOGY, 2000)
+ Domain                        Recommendation
+ Preoperative                  Check the patient tolerates the planned position
+ Upper limb                    Abduction ≤90° supine (prone tolerates more); avoid ulnar (postcondylar) groove pressure;
+                               tucked arm → neutral forearm; on arm board → supination or neutral; avoid spiral-groove
+                               (radial) pressure; elbow hyperextension stretches median nerve
+ Lower limb                    Hamstring stretch in lithotomy → sciatic; peroneal nerve at fibular head; hip flexion/
+                               extension does not raise femoral neuropathy risk
+ Padding                       Padded arm boards; chest rolls in lateral position; elbow and fibular-head padding
+ Equipment                     Functioning automated blood-pressure cuffs do not add risk; shoulder braces in steep
+                               head-down may cause brachial plexopathy
+ Postoperative /               Simple nerve check aids early recognition; charting positioning focuses attention and feeds
+ documentation                 quality improvement
+
+ • Trap: femoral neuropathy comes from retractor compression of psoas, not hip position.
+
+Antibiotic Prophylaxis
+ • CDC (1999): SSIs are ~40% of nosocomial infections in surgical patients and add 7–10 days in hospital;
+   nationally ~1 million extra inpatient days. Level 1 evidence supports prophylaxis across procedures;
+   Medicare withholds payment for some SSI admissions → prevention is mandatory.
+
+
+
+                                                          page 10 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                              INTRAOPERATIVE MANAGEMENT
+
+ • Adjuncts: hand-washing, scrub, sterile field; hair removal does not reduce SSI but if done use clippers or
+   depilatory cream, not razors.
+ • Three determinants of need: (1) patient susceptibility (Box 11.3); (2) procedural risk — wound class (Box
+   11.4); (3) consequence of infection (e.g. cystoscopy for microhaematuria: no prophylaxis in a young
+   healthy patient, yes in an elderly insulin-dependent diabetic).
+
+BOX 11.3 PATIENT FACTORS THAT INCREASE THE RISK OF INFECTION
+ • Advanced age; anatomical anomalies; poor nutrition; smoking; chronic corticosteroids; immunodeficiency;
+   chronic indwelling hardware; infected endogenous/exogenous material; distant coexistent infection;
+   prolonged hospitalisation. They act by reducing defences, raising local bacterial load or altering flora.
+
+BOX 11.4 SURGICAL WOUND CLASSIFICATION (DATA FROM CRUSE, 1992; MANGRAM ET AL., 1999; GARNER, 1985)
+ Class                         Definition
+ Clean                         Uninfected, no inflammation, no entry into genital, urinary or alimentary tract; primary
+                               closure, closed drainage
+ Clean-contaminated            Uninfected, controlled entry into these tracts; primary closure, closed drainage
+ Contaminated                  Major break in sterile technique (gross gastrointestinal spillage, non-purulent
+                               inflammation); fresh accidental wounds
+ Dirty-infected                Pre-existing clinical infection or perforated viscus; old traumatic wounds with devitalised
+                               tissue
+
+ • Trap: most urological operations entering the urinary tract are clean-contaminated; transrectal biopsy is
+   contaminated.
+ • Keys once prophylaxis is chosen: the right agent, correct timing, correct dose.
+ • Agent: procedure dictates pathogens (TURP → urinary organisms; sigmoid diversion → anaerobes); local
+   resistance matters — level 1 evidence supports fluoroquinolones for endoscopy but E. coli resistance is
+   changing practice; use the monthly hospital antibiogram. AUA amendment (2012) for prostate biopsy:
+   cephalosporins and/or aminoglycosides in resistant communities.
+ • Timing: Classen (1992), pivotal — within 2 h of incision; SCIP — within 60 min; a multicentre trial
+   favoured ≤30 min over 31–60 min and confirmed that giving it at or after incision roughly doubles SSI.
+ • Duration: ≤24 h without established infection (longer → C. difficile, resistance, cost).
+ • Dose: by weight, renal and hepatic function; redose if the case exceeds 4 h. Compliance with AUA best
+   practice remains <60%.
+
+TABLE 11.5 AMERICAN UROLOGICAL ASSOCIATION BEST PRACTICE STATEMENT ON RECOMMENDED ANTIMICROBIAL
+PROPHYLAXIS FOR UROLOGIC PROCEDURES (MODIFIED FROM LIGHTNER ET AL., 2020)
+ Procedure (wound class)          Organisms           Indicated     First choice            Alternative           Duration
+ Cystourethroscopy ±              GNR, rarely         Uncertain     TMP-SMX; amoxicillin-   1st/2nd-gen           Single
+ minor manipulation,              enterococci         — host        clavulanate             cephalosporin; AG
+ biopsy, fulguration (CC)                             factors; not                          (aztreonam) ±
+                                                      needed if                             ampicillin
+                                                      urine sterile
+ Transurethral (TURP,             GNR, rarely         All           Cefazolin; TMP-SMX      Amox-clav; AG ±       Single
+ TURBT, laser enucleation/        enterococci                                               ampicillin
+ ablation) (CC)
+ Brachytherapy,                   S. aureus, skin;    All           Cefazolin               Clindamycin           Single
+ cryotherapy (CC)                 GNR
+
+
+
+
+                                                            page 11 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                              INTRAOPERATIVE MANAGEMENT
+
+ Procedure (wound class)          Organisms           Indicated     First choice            Alternative          Duration
+ Transrectal prostate             GNR,            All               Fluoroquinolone; 1st–   Aztreonam;           Single
+ biopsy (contaminated)            anaerobes;                        3rd-gen cephalosporin   consider ID advice
+                                  consider MDR if                   (ceftriaxone) + AG
+                                  antibiotics ≤6
+                                  months, travel,
+                                  health worker
+ Percutaneous renal               GNR,                All           1st/2nd-gen             Ampicillin-          ≤24 h
+ surgery (CC)                     enterococci,                      cephalosporin; AG +     sulbactam
+                                  skin                              metronidazole or
+                                                                    clindamycin
+ Ureteroscopy (CC)                GNR, rarely         All;          TMP-SMX; 1st/2nd-       AG ± ampicillin;     Single
+                                  enterococci         uncertain     gen cephalosporin       amox-clav
+                                                      for simple
+                                                      diagnostic
+ Open/lap/robotic, urinary        S. aureus, skin     Consider;     Cefazolin               Clindamycin          Single
+ tract not entered (clean)                            may not be
+                                                      required
+ Penile (circumcision,            S. aureus           Likely not    —                       —                    —
+ biopsy)                                              required
+ Urethroplasty                    GNR,                Likely        Cefazolin               Cefoxitin,           Single
+                                  enterococci, S.     required                              cefotetan,
+                                  aureus                                                    ampicillin-
+                                                                                            sulbactam
+ Controlled urinary-tract         GNR (E. coli)       All           Cefazolin; TMP-SMX      Ampicillin-          Single
+ entry (nephrectomy,                                                                        sulbactam; AG +
+ pyeloplasty,                                                                               metronidazole or
+ prostatectomy, partial                                                                     clindamycin
+ cystectomy) (CC)
+ Small bowel (conduit,            Skin, S. aureus,    All           Cefazolin               Clindamycin + AG; Single
+ diversion) (CC)                  GNR                                                       cefuroxime;
+                                                                                            aminopenicillin/β-
+                                                                                            lactamase inhibitor
+                                                                                            + metronidazole
+ Large bowel (colon               GNR,                All           Cefazolin +             Ampicillin-          Single
+ conduit) (CC)                    anaerobes                         metronidazole;          sulbactam;           parenteral
+                                                                    cefoxitin; cefotetan;   ticarcillin-
+                                                                    ceftriaxone +           clavulanate;
+                                                                    metronidazole;          piperacillin-
+                                                                    ertapenem               tazobactam
+ Prosthetics (AUS, IPP,           GNR, S. aureus;     All           AG + 1st/2nd-gen        Aminopenicillin/β- ≤24 h
+ sacral neuromodulator)           rising                            cephalosporin or        lactamase inhibitor
+ (clean)                          anaerobes,                        vancomycin
+                                  fungi
+ Inguinal/scrotal          GNR, S. aureus             All           Cefazolin               Ampicillin-          Single
+ (orchidectomy, vasectomy,                            (increased                            sulbactam
+ varicocele, hydrocele)                               risk)
+ (clean)
+
+
+
+
+                                                            page 12 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                              INTRAOPERATIVE MANAGEMENT
+
+ Procedure (wound class)          Organisms           Indicated      First choice            Alternative        Duration
+ Vaginal/female                S. aureus,             All            2nd-gen cephalosporin   Ampicillin-        Single
+ incontinence (sling, fistula, streptococci,                         (better anaerobic       sulbactam; AG +
+ diverticulum) (CC)            enterococci,                          cover); cefazolin       metronidazole or
+                               vaginal                               equivalent for slings   clindamycin
+                               anaerobes
+ Shock-wave lithotripsy           GNR,                Only with      TMP-SMX; cefazolin;     Amox-clav;         Single
+ (clean)                          enterococci         risk factors   cefuroxime              ampicillin + AG;
+                                                                                             clindamycin
+
+ • Abbreviations: CC, clean-contaminated; TURBT, transurethral resection of bladder tumour; GNR, Gram-
+   negative rods (E. coli, Proteus, Klebsiella; plus Enterococcus); TMP-SMX, trimethoprim-sulfamethoxazole;
+   AG, aminoglycoside (aztreonam substitutes in renal insufficiency); MDR, multidrug-resistant; ID,
+   infectious diseases; AUS, artificial urinary sphincter; IPP, inflatable penile prosthesis.
+ • Footnotes: a full culture-directed course for documented infection is treatment, not prophylaxis;
+   penicillin allergy → clindamycin, or AG + metronidazole/clindamycin; colorectal surgery adds oral
+   neomycin + erythromycin or metronidazole; routine vancomycin is not recommended — it is less
+   effective against methicillin-sensitive S. aureus.
+ • Pattern: single dose is the rule; only PCNL and prosthetics extend to ≤24 h. Cefazolin dominates;
+   anaerobic cover is added only where bowel or rectum is breached.
+ • Traps: simple cystoscopy with sterile urine needs no prophylaxis; penile surgery "likely not required"; SWL
+   only with risk factors.
+Concept — Prophylaxis is justified by host susceptibility × inoculum × consequence, and succeeds only if a
+tissue level is present at the moment of contamination — hence the obsession with timing, the single dose,
+and redosing for long cases.
+
+VENOUS THROMBOEMBOLIC PROPHYLAXIS
+ • Postoperative VTE is the second commonest cause of excess stay, charges and mortality among surgical
+   discharges.
+ • Urology incidence without prophylaxis historically 10–40%; now 1–5% with mechanical prophylaxis and
+   early ambulation; in the prospective @RISTOS study VTE followed open urological surgery despite high
+   prophylaxis rates; radical cystectomy carries the highest incidence.
+ • VTE is the most important cause of non-surgical mortality in urology.
+ • Mechanical prophylaxis is near-universal; pharmacological only after weighing bleeding (Table 11.6). In
+   general surgery, pharmacological prophylaxis increased minor bleeding (bruising, haematoma) but not
+   major bleeding; TURP and partial nephrectomy bleed more.
+ • Surgical factors: general vs neuraxial anaesthesia; supine vs lithotomy; abdominal vs pelvic ±
+   lymphadenectomy; open vs laparoscopic. Patient factors: Box 11.5.
+ • ACCP 2008: hospitals need a formal VTE strategy; moved from individual risk models to routine group-
+   specific prophylaxis for each surgical group. AUA (2009) combines individual risk with procedure type —
+   high-risk patient/low-risk surgery or low-risk patient/high-risk surgery may each warrant drugs (Table
+   11.7).
+
+BOX 11.5 PATIENT-RELATED FACTORS INCREASING RISK FOR VENOUS THROMBOEMBOLISM
+ • Surgery; trauma; immobility/paresis; cancer (active or occult) and cancer therapy (hormonal,
+   chemotherapy, angiogenesis inhibitors, radiotherapy); venous compression; previous VTE; increasing age;
+   pregnancy/postpartum; oestrogen contraceptives or hormone replacement therapy; selective oestrogen-
+
+
+                                                            page 13 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                       VENOUS THROMBOEMBOLIC PROPHYLAXIS
+
+   receptor modulators; erythropoiesis-stimulating agents; acute medical illness; inflammatory bowel
+   disease; nephrotic syndrome; myeloproliferative disorders; paroxysmal nocturnal haemoglobinuria;
+   obesity; central venous catheter; thrombophilia. Age, cancer and cancer therapy are the commonest in
+   urology.
+
+TABLE 11.6 MECHANICAL AND PHARMACOLOGIC VENOUS THROMBOEMBOLISM PROPHYLAXIS
+ Agent                   Dose                 Advantages                                 Disadvantages
+ Pneumatic               —                    Usable with high bleeding risk; easily     No standard size/pressure; models
+ compression                                  standardised; widely studied               unstudied; less effective than drugs
+                                                                                         in high risk
+ LMWH                    40 mg SC once        Once daily; less heparin-induced           Not reversible; costly; relative
+                         daily                thrombocytopenia (HIT); no                 contraindication in renal insufficiency
+                                              monitoring
+ Low-dose UFH            5000 U SC 8-         Reversible; safe in renal insufficiency;   Repeat 8–12-hourly; HIT
+                         hourly               cheap
+
+TABLE 11.7 PATIENT RISK ASSESSMENT MODEL AND AMERICAN UROLOGICAL ASSOCIATION BEST-PRACTICE
+RECOMMENDATIONS (MODIFIED FROM FORREST ET AL., 2009; GEERTS ET AL., 2008)
+ Risk            Definition                                          Recommendation
+ Low             Minor surgery, <40 years, no risk factors           Early ambulation only
+ Moderate        Minor surgery with risk factors; any surgery        UFH 5000 U SC 12-hourly from after surgery, or
+                 aged 40–60 without risk factors                     enoxaparin 40 mg SC daily, or pneumatic compression
+                                                                     if bleeding risk high
+ High            Surgery >60 years; 40–60 with risk factors          UFH 5000 U SC 8-hourly, or enoxaparin 40 mg daily, or
+                                                                     pneumatic compression if bleeding risk high
+ Highest         Multiple risk factors (e.g. >40, cancer, prior      Drug + pneumatic compression: enoxaparin 40 mg
+                 VTE)                                                daily or UFH 5000 U 8-hourly
+
+ • Enoxaparin 30 mg if creatinine clearance <30 mL/min.
+ • Dosing differs between tables: Table 11.6 gives the standard UFH regimen (8-hourly); Table 11.7 escalates
+   UFH from 12-hourly (moderate) to 8-hourly (high/highest).
+ • Pattern: age bands <40 / 40–60 / >60 drive stratification; only the highest tier combines drug and
+   mechanical. Trap: compression alone is the choice only when bleeding risk is high.
+Concept — VTE prophylaxis is a bleeding-versus-clotting trade-off: mechanical methods carry no bleeding
+cost but less efficacy, heparins the reverse, and the AUA model escalates from ambulation to combined
+therapy as patient and procedural risk accumulate.
+
+ANAESTHETIC CONSIDERATIONS
+ • Anaesthesia delivers hypnosis, amnesia and analgesia with good operating conditions; most urology is
+   done under monitored anaesthesia care, regional or general anaesthesia, combining inhalational and IV
+   agents, analgesics and benzodiazepines.
+ • Risk is now very low: ambulatory all-cause mortality of the order of 1 in 50,000.
+
+Selection of Mode of Anaesthesia
+ • Urologist helps choose the mode: patient factors (comorbidity, airway, preference) and procedural factors
+   (complexity, duration, site, expected fluid and blood loss).
+
+
+
+
+                                                           page 14 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                            ANAESTHETIC CONSIDERATIONS
+Monitored Anaesthesia Care
+ • Conscious sedation under an anaesthetist, ranging from minimal sedation to brief general anaesthesia;
+   usually IV opioid + benzodiazepine.
+ • Suits short endoscopy, transrectal ultrasound procedures, and (with local) superficial genital surgery.
+ • Office sedation: The Joint Commission requires equivalent monitoring — trained monitoring assistant,
+   immediate airway/resuscitation equipment, pre- and post-procedure evaluation.
+Regional Anaesthesia
+ • Local, spinal, epidural. Local: avoid intravascular injection; lidocaine vs bupivacaine differ in onset and
+   duration; pre-incision infiltration reduces nociceptor sensitisation and postoperative pain.
+ • Spinal/epidural (lidocaine or bupivacaine) → sensory, motor and sympathetic block.
+                         Spinal                                           Epidural
+ Main urological use Endoscopy and lower abdominal surgery;               Postoperative analgesia after major
+                     limited only by duration                             abdominal surgery (spares IV opioid effects)
+ Level and duration      Larger volume/dose → longer and more cephalad; adding low-dose opioid or vasoconstrictor
+                         prolongs analgesia at lower dose
+ Complications           Hypotension (sympathetic block) 10–40%;          —
+                         post-dural puncture headache <2% with 29-
+                         gauge pencil-point needles; serious
+                         neurological deficit ~0.05%
+
+General Anaesthesia
+Inhalational General Anaesthesia
+ • Two key properties: blood/gas partition coefficient (B/G) — uptake into blood; minimum alveolar
+   concentration (MAC) — potency: the alveolar concentration preventing movement to skin incision in 50%.
+
+COMPARISON: INHALATIONAL AGENTS
+ Agent                  Advantages / use                                Signature problem
+ Nitrous oxide          Rapid induction and emergence; low potency      Expands closed gas spaces → contraindicated in
+ (N₂O)                  → combined with others                          bowel obstruction and pneumothorax; bowel
+                                                                        distension in laparoscopy
+ Halothane (1950s) High potency                                         Precipitates failure with left ventricular
+                                                                        dysfunction; sensitises myocardium to
+                                                                        catecholamines (local adrenaline); fulminant
+                                                                        hepatitis ~1 in 35,000
+ Isoflurane             Cheap (generic); low cardiac depression and     Variable tachycardia → myocardial O₂ demand;
+                        sensitisation; minimal metabolism               pungent — not for induction
+ Sevoflurane            Odourless → inhalational induction; rapid;      Minimal cardiac toxicity
+                        less nausea; preferred for difficult airway and
+                        severe bronchospasm
+ Desflurane             Faster recovery than isoflurane for cases >3 h Pungent — not for induction; potentiates
+                                                                       neuromuscular blockers
+
+Intravenous General Anaesthesia
+ • Induction agent + opioid + neuromuscular blocker; IV induction is rapid and comfortable, often with
+   inhalational maintenance.
+
+
+
+
+                                                        page 15 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                              ANAESTHETIC CONSIDERATIONS
+COMPARISON: INTRAVENOUS AGENTS
+ Agent                  Advantage / niche                                    Main drawback
+ Thiopental             Oldest, cheapest; uncomplicated cases                Vasodilatation, cardiac depression,
+                                                                             bronchospasm
+ Ketamine               Brief superficial cases; profound amnesia and        —
+                        somatic analgesia; raises arteriolar and
+                        bronchomotor tone → hypovolaemic and
+                        asthmatic induction
+ Propofol               Commonest (outpatients); rapid; bronchodilator; Hypotension
+                        smooth nausea-free emergence
+ Midazolam              Profound amnesia and anxiolysis; rapid, short,       Never used alone
+                        little cardiac effect
+ Fentanyl               Most widely used opioid: ~50–100× morphine           —
+ (synthetic opioid)     potency, rapid onset, short action; opioids spare
+                        other agents
+
+ • Neuromuscular blockade gives full relaxation without toxic doses of other agents.
+                         Depolarising                                       Non-depolarising
+ Mechanism               Depolarises the muscle membrane, making it         Blocks acetylcholine binding at pre- and
+                         refractory to acetylcholine                        postsynaptic receptors
+ Agent                   Succinylcholine — the only one; rapid onset        Several; differ in metabolism; potentiated by
+                         (rapid-sequence induction), ~5 min duration        drugs including desflurane
+ Risks                   Malignant hyperthermia (with volatiles),           Used when succinylcholine contraindicated
+                         hyperkalaemia, bradycardia in children
+
+ • Commonest complication: inadequate reversal → respiratory failure, reintubation, pulmonary
+   complications.
+ • Train-of-four (TOF) ratio: fourth twitch ÷ first, ulnar stimulation at 0.5-s intervals. Historical threshold 0.7
+   → now 0.9 for full recovery.
+ • Clinical tests (head lift, tongue depressor, grip) miss residual block in many patients → quantitative TOF
+   (acceleromyography) plus clinical tests before extubation.
+Concept — Each anaesthetic agent is chosen for its signature advantage and avoided for its signature
+toxicity: know one niche and one danger per drug, and the choice for a given patient follows.
+
+SKIN PREPARATION
+ • Antiseptics: alcohol, povidone-iodine or chlorhexidine; apply in concentric circles from the centre and let
+   dry before incision.
+ • Cochrane: some evidence that 0.5% chlorhexidine in methylated spirits beats alcohol-based povidone-
+   iodine for clean surgery; no conclusive superiority overall.
+ • CDC recommends preoperative showering, but antiseptic bathing does not reduce infection.
+ • Hair removal, if done: immediately before surgery, with clippers (shaving breaches skin → colonisation).
+
+TRANSFUSION CONSIDERATIONS
+ • Urological organs are vascular; know transfusion risks and alternatives (e.g. Jehovah's Witnesses).
+ • Before the acquired immunodeficiency syndrome (AIDS) epidemic: transfusion for haematocrit <30%;
+   infection fears → National Institutes of Health consensus (1988) → ASA guidelines (2006).
+
+
+
+
+                                                        page 16 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                              TRANSFUSION CONSIDERATIONS
+
+ Haematocrit                      Transfusion
+ >30%                             Rarely indicated
+ 21–30%                           Individualise — oxygenation risk; moderate–severe comorbidity (lung disease, coronary
+                                  disease, vascular insufficiency, shock) may not tolerate <30%
+ <21%                             Often indicated; minor comorbidity tolerates >21%
+
+ • Component therapy: packed red cells (PRBCs) = whole blood minus plasma; haematocrit 40% whole
+   blood vs ~70% PRBC; given with crystalloid.
+ • Platelets: not empirical; give if <50,000/mm³ with planned surgery, or 50,000–100,000 with high-risk
+   surgery or platelet dysfunction.
+ • Fresh frozen plasma (FFP): urgent warfarin reversal; specific factor deficiency; bleeding with INR >1.5; in
+   massive transfusion without an INR, after one blood volume. Not empirical.
+
+COMPARISON: TRANSFUSION HAZARDS
+ Hazard                             Key features
+ Haemolytic reaction (ABO or        Fever, chills, chest pain, hypotension, bleeding during/just after; may be delayed
+ non-ABO)                           (recipient antibodies). Stop transfusion, fluids, alkalinise urine
+ TRALI (transfusion-related         Commonest cause of transfusion death (55% in 2005–07); non-cardiogenic pulmonary
+ acute lung injury)                 oedema 1–2 h after; supportive; most recover
+ Viral                              Nucleic-acid testing → human immunodeficiency virus and hepatitis C ~1 in 2 million;
+                                    hepatitis B ~1 in 200,000
+ Bacterial                          Highest with platelets ~1 in 5000 units
+
+ • Massive haemorrhage: components traditionally after >6 units PRBC; trauma data favour higher
+   platelet:FFP:red-cell ratios — massive transfusion protocol triggered by anticipated >10 units in 24 h.
+ • Jehovah's Witnesses: refuse the four major components (RBCs, white cells, platelets, plasma), not
+   medical care; some accept albumin, immunoglobulins, clotting factors — agree in advance with the
+   anaesthetist. Options: diathermy, cell salvage, intraoperative haemodilution, high-dose erythropoietin,
+   iron, vitamins C and D. Haemoglobin-based substitutes are not yet usable.
+
+PAIN MANAGEMENT
+ • Untreated pain adds physiological stress and complications; analgesia blocks nociception somewhere
+   between receptor, afferent nerve, cord and cortex.
+
+COMPARISON: POSTOPERATIVE ANALGESIC CLASSES
+ Class                  Action / benefit                                  Cautions
+ Opioids                Central modulation (dorsal root ganglion to       Ileus, respiratory depression, sedation, confusion;
+                        cortex); oral, IV, neuraxial or transdermal by    weaker combinations with paracetamol
+                        severity and oral tolerance                       (hydrocodone, codeine) — caution in liver
+                                                                          disease; addiction and the opioid epidemic
+ NSAIDs                 Cyclo-oxygenase inhibition → less                 Avoid in renal insufficiency; caution with reflux
+                        prostaglandin (the tissue-level nociceptor        or peptic ulcer
+                        mediator); opioid-sparing, less nausea; IV
+                        ketorolac improved pain and ileus after
+                        laparoscopic colectomy
+
+
+
+
+                                                          page 17 of 18
+Chapter 11 — Perioperative Care in Urologic Surgery                                                    PAIN MANAGEMENT
+
+ Class                  Action / benefit                                Cautions
+ Epidural               Opioid + local anaesthetic, continuous and/or   Run by anaesthesia/pain team
+                        patient-controlled; better pain control than
+                        parenteral opioids (meta-analysis); with
+                        general anaesthesia reduces perioperative
+                        mortality and multi-organ morbidity
+
+ • Overprescribing: most prescribed opioids go unused and seed misuse; new persistent opioid use follows
+   ~6% of minor and major operations.
+ • Prescribing varies widely after stone treatment; after ureteroscopy, patients managed without opioids
+   sought care for pain no more often — ureteroscopy can be managed opioid-free.
+Concept — Modern perioperative analgesia is opioid-sparing: NSAIDs and regional techniques deliver equal
+or better pain control while avoiding the ileus, respiratory depression and community harm that opioids carry.
+
+ KEY POINTS
+   • Proper preoperative evaluation prevents cancellations and reduces complications.
+   • Cardiac testing depends on functional capacity, cardiac risk factors and surgery-specific risk.
+   • SSI is a leading complication; prophylaxis is indicated in virtually all procedures.
+   • VTE: AUA recommends mechanical or pharmacological prophylaxis (both for the highest risk).
+   • Anaesthetic pharmacology lets the urologist help choose the mode.
+   • Transfuse at haematocrit <21% in most, unless cardiopulmonary risk.
+   • Hypothermia of even 1–2°C increases blood loss and SSI.
+
+
+
+
+                                                        page 18 of 18
+

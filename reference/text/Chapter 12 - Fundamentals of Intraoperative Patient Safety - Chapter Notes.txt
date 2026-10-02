@@ -1,0 +1,365 @@
+Chapter 12 — Fundamentals of Intraoperative Patient Safety
+
+Chapter 12 — Fundamentals of Intraoperative Patient
+Safety
+ • "First do no harm": treating patients carries the duty to minimise risk.
+ • Surgery is a team effort inside hospital systems larger than any individual, yet the surgeon remains team
+   leader and ultimately responsible when complications arise.
+
+BACKGROUND
+ • Institute of Medicine (IOM), To Err Is Human (1999), landmark: 44,000–98,000 deaths and >1 million
+   injuries a year from medical error → catalysed patient-safety research.
+ • A 2016 report judged this a severe underestimate: medical error as the third leading cause of US death,
+   after heart disease and cancer.
+ • ~50% of health care adverse events involve surgery, and ~50% of those are preventable.
+ • Closed malpractice claims: three-quarters of errors arose wholly or partly in the intraoperative phase —
+   making the operating room (OR) error-free is indispensable.
+
+SURGICAL TIME-OUTS AND SAFETY CHECKLISTS
+ • Complexity plus stress and fatigue make human error almost inevitable.
+ • A checklist lists tasks, components or criteria required for a task; it is a mnemonic device that aids recall,
+   standardises steps and ensures best-practice adherence — borrowed from aviation.
+ • Pronovost (2006), landmark: a central-line checklist across 108 intensive care units cut catheter-related
+   bloodstream infection by 66% over 18 months.
+ • World Health Organization (WHO) Surgical Safety Checklist (2008), 19 items (Fig. 12.1); pilot at 8
+   institutions worldwide (~4000 operations): death ↓47%, major complications ↓36%.
+ • Institutions add antibiotic and venous thromboembolism (VTE) prophylaxis, normothermia and other
+   items; some form of checklist is now standard everywhere.
+
+FIG. 12.1 WORLD HEALTH ORGANIZATION SURGICAL SAFETY CHECKLIST (FIRST EDITION)
+                                                                                       Sign out — before patient leaves
+ Sign in — before induction                   Time out — before skin incision          theatre
+ Patient confirms identity, site,             All team introduce themselves by         Nurse verbally confirms: procedure
+ procedure, consent; site marked/not          name and role; surgeon, anaesthetist     name recorded; instrument, sponge
+ applicable; anaesthesia safety check;        and nurse confirm patient, site,         and needle counts correct; specimen
+ pulse oximeter on and working;               procedure; anticipated critical events   labelled (including patient name);
+ known allergy?; difficult airway/            — surgeon (critical steps, duration,     equipment problems to address;
+ aspiration risk (equipment ready)?;          blood loss), anaesthesia (patient        team reviews key concerns for
+ risk of >500 mL blood loss (7 mL/kg          concerns), nursing (sterility,           recovery
+ in children) — access and fluids             equipment); antibiotic prophylaxis
+ planned?                                     within the last 60 minutes?; essential
+                                              imaging displayed?
+
+ • Pattern: three pauses tied to three transitions — induction, incision, exit; the checklist is intended to be
+   adapted locally, not treated as comprehensive.
+
+
+
+
+                                                             page 1 of 8
+Chapter 12 — Fundamentals of Intraoperative Patient Safety                          WRONG-SITE SURGERY PREVENTION
+
+WRONG-SITE SURGERY PREVENTION
+ • Safety starts with correct patient, procedure and site. Wrong-site surgery = wrong side, wrong patient or
+   wrong part — all sentinel, reportable never events.
+ • Extremely rare (~1 in 112,000 operations) but devastating.
+ • The Joint Commission (independent not-for-profit, founded 1951, accredits >20,000 US organisations)
+   published the mandatory Universal Protocol (2004), by expert consensus, with three components:
+       preprocedure verification → surgical site marking → time-out immediately before starting
+   It is now the foundation of intraoperative checklists.
+
+Preprocedure Verification Process
+ • Up to 30% of wrong-site root causes arise before the patient reaches hospital: wrong or incomplete
+   clinic notes, mislabelled imaging, laboratory mix-ups of similar names.
+ • Confirms three things: correct identity, correct procedure, exact site.
+ • Review notes, allergies, imaging and laboratory results for correct, relevant indication.
+ • Identify with multiple identifiers — full name, date of birth, medical record number — on a durable
+   tracking system (barcoded wristband).
+ • History and examination recent and updated for interim change.
+ • Consent form names the responsible surgeon and procedure, signed by patient or designate (reconfirmed
+   if signed earlier); list contingent procedures that depend on intraoperative findings.
+ • Use professional medical interpreters — never family — for procedural consent.
+ • Resolve any missing or discrepant information before proceeding.
+
+Site Marking
+ • Required where more than one site is possible (e.g. unilateral radical nephrectomy, radical
+   orchidectomy).
+ • Mark must be clear, unambiguous, permanent enough to survive skin preparation; by the responsible
+   surgeon or delegated resident/advanced practice provider — ideally someone present at the time-out.
+ • Mark with an awake, alert patient before sedation where possible.
+ • Mark only the correct site — never "No" or "X" on the wrong side.
+ • Lower-tract endourology: mark sidedness somewhere visible (e.g. wristband), not the urethral meatus.
+ • Barriers: delegation to someone absent from the case; marking the wrong site after erroneous record
+   review; marking dressings, not skin; non-permanent markers; persistent old marks (take-backs); site
+   impossible to mark → hospital-approved alternative process.
+
+Time-Out
+ • A purposeful brief pause just before incision or the invasive step, confirming identity, site and procedure.
+ • Extended versions: normothermia, euglycaemia, β-blockade, antibiotics, spinal precautions, critical steps,
+   duration, blood need, fire risk, VTE prevention, and "any concerns?".
+ • All members participate actively; leader (surgeon or circulating nurse) is institution-specific; no
+   interruptions or side conversations; proceed only with full agreement.
+ • Repeat the time-out at every change of surgeon or transition to a separate procedure (multispecialty
+   cases).
+
+
+
+
+                                                             page 2 of 8
+Chapter 12 — Fundamentals of Intraoperative Patient Safety                                      WRONG-SITE SURGERY PREVENTION
+
+ • Common errors: background noise (music) continues; proceeding while a member is mid-task; key
+   member on break; going through the motions ("we all know the patient").
+Concept — The Universal Protocol is layered redundancy: verification catches errors made before the day,
+marking fixes the side on the body, and the time-out forces a shared final check. Each layer is only as good as
+the attention paid to it, which is why "going through the motions" is the characteristic failure.
+
+SYSTEMS FAILURES
+ • "Swiss cheese model" (Fig. 12.2): each barrier is a slice with unpredictable holes; hazards passing one
+   hole are usually stopped by the next (near miss); harm occurs when the holes align.
+ • Layers (Fig. 12.2): organisational influences → unsafe supervision → preconditions for unsafe acts (latent
+   failures) → unsafe acts (active failures) → error.
+ • Explains why never events persist despite the Universal Protocol: many stakeholders, departments and
+   levels — harm is usually systemic.
+ • Risk circumstances for wrong-site surgery: emergencies; unusual anatomy (deformity, morbid obesity);
+   time pressure; multiple surgeons; multiple procedures in one sitting.
+ • Rushed situations demand the checklist most; checklists do not delay start times, and in urgent
+   operations they significantly reduce complications and mortality.
+ • Environmental root causes: hierarchy and power dynamics that silence concern; staffing shortages and
+   temporary staff untrained in local protocols; unprecedented events (SARS-CoV-2) forcing real-time
+   workflow change.
+Concept — Errors reaching the patient are system failures, not individual lapses: no single barrier is reliable,
+so safety comes from several independent barriers and from preventing the latent conditions — hierarchy,
+staffing, time pressure — that make the holes line up.
+
+RETAINED SURGICAL ITEMS
+ • Retained surgical item (RSI): material, instrument or equipment unintentionally left in the patient;
+   preferred to "retained foreign object" (distinguishes from shrapnel or bullets).
+ • Consequences: infection, pain, death; medicolegal liability; cost.
+ • Joint Commission definition: an RSI if discovered after skin closure — even with the patient still
+   anaesthetised in theatre.
+ • A never event, theoretically 100% preventable, yet occurring between 1 in 10,000 and 1 in 2800
+   operations.
+ Rank            Category                                    Commonest item
+ 1st             Surgical sponges (~two-thirds of            Laparotomy pads and small swabs — small, conformable, invisible
+                 RSIs)                                       when blood-soaked
+ 2nd             Drains and catheters                        Penrose drain
+ 3rd             Needles and blades                          Suture needle
+
+Risk Factors
+ • Emergency surgery; unexpected change of procedure; obesity; multiple teams; open body cavity;
+   unusually many instruments; incorrect count; long operation; attending absent at closure.
+ • Trainee presence is associated with lower RSI risk.
+ • Human factors — leadership and communication — dominate the contributing causes in sentinel-event
+   reviews.
+
+
+                                                                page 3 of 8
+Chapter 12 — Fundamentals of Intraoperative Patient Safety                                           RETAINED SURGICAL ITEMS
+
+Prevention Techniques
+ • Multipronged, because no strategy is foolproof.
+ • Foundation: the standardised count of sponges and needles before, during and at close; in the US the
+   Association of periOperative Registered Nurses (AORN) sets the standard.
+ • Count discrepancy → ~100-fold odds of RSI; if found before closure, delay closure until the item is found.
+ • Radiographic screening — routine or only for count discrepancy. With routine post-procedure films after
+   abdominal-cavity cases, most RSIs detected had correct counts — a correct count does not exclude an
+   RSI.
+
+Technologic Innovations
+ Type                          Mechanism                                          Performance
+ Counting devices              Barcoded sponges scanned in and out                Detect more counting errors; do not
+                                                                                  shorten discrepancy resolution (imaging
+                                                                                  still needed)
+ Detection devices             Radiofrequency tags/microchips in soft goods;      High accuracy and reliability, even in
+                               handheld wand before closure                       obesity
+
+ • Choice depends on resources, patient population, acuity and case mix.
+Concept — Counting is necessary but not sufficient: a wrong count flags danger strongly, but a right count
+does not guarantee safety, so counting is backed by imaging or tagging where risk is high.
+
+SHARPS SAFETY
+ • The HIV epidemic of the 1980s focused attention; from the late 1980s "Universal Precautions" (blood and
+   body fluids from all patients) became mandated by bodies such as the Occupational Safety and Health
+   Administration.
+ • Mucous membrane or skin contact with patient blood occurs in up to half of operations.
+ • Surgeons and first assistants sustain most injuries (up to ~60%); most are self-inflicted, but up to a
+   quarter are inflicted by a team member.
+ • About one-third of injuring devices recontact the patient → risk of surgeon-to-patient transmission.
+
+COMPARISON: SHARPS-INJURY COUNTERMEASURES
+ Measure                       Rationale / evidence                               Note
+ Double gloving                Single glove: blood contact for a large share of   If both punctured, blood on a solid
+                               operating time; single-layer puncture in up to     needle ↓95% — lower viral load
+                               61% of cases, on average ~40 min in; both
+                               layers rarely breached
+ Blunt suture needles          For fascia and muscle closure — significantly      Technically satisfactory from abdominal
+                               fewer needlestick injuries                         wall closure to colonic anastomosis
+ Designated sharps zone Agreed location where sharps rest → no hand-              Cut sharps injuries, blood exposure and
+                        to-hand passing; American College of Surgeons             glove tears in higher-blood-loss cases;
+                        (ACS) best practice                                       combine with team communication;
+                                                                                  include in the time-out
+
+Concept — Sharps protection works at three points: a barrier (double gloves), a safer object (blunt needles)
+and a safer process (neutral zone) — and because a third of injuring sharps return to the patient, it protects
+both parties.
+
+
+
+
+                                                             page 4 of 8
+Chapter 12 — Fundamentals of Intraoperative Patient Safety                                                          FIRE SAFETY
+
+FIRE SAFETY
+ • Surgical fire: on or near the patient during surgery; ~600 a year in the US.
+ • 85% occur in the head, neck or upper chest; 81% under monitored anaesthesia care (MAC); injuries
+   disfigure, and claims involve the whole team.
+ • Fire triangle (Fig. 12.3): oxidiser + fuel + ignition in proximity; each side has an owner.
+
+FIG. 12.3 THE "FIRE TRIANGLE" (ASSOCIATION OF PERIOPERATIVE REGISTERED NURSES)
+ Element             Owner               Content
+ Oxidiser            Anaesthesia         Not combustible itself; accelerates burning. Oxygen (95% of fires in the American
+                                         Society of Anesthesiologists Closed Claims Database) and nitrous oxide —
+                                         oxidising potential equal to oxygen, often directed by urologists in ambulatory
+                                         procedures
+ Fuel                Nursing             Alcohol preps (e.g. ChloraPrep, ~70% isopropyl alcohol) — dry ≥3 minutes, yet ex
+                                         vivo fires still occur after 3 min, more with pooling; alcohol flames are near-
+                                         invisible. Povidone-iodine and aqueous chlorhexidine are not flammable. Drapes
+                                         and dressings (cotton, plastic, paper) and body hair trap oxygen
+ Ignition            Surgeon             Monopolar "Bovie" in ~90%; bipolar lowers but does not abolish risk; fibre-optic
+                                         light cables (cystoscopes); lasers low-risk under irrigation, but cracked fibres can
+                                         ignite even in endourology
+
+Surgical Fire Risk Assessment
+ • Silverstein Fire Risk Assessment Tool — 1 point each: (1) open oxygen source (mask, nasal cannula); (2)
+   ignition source (diathermy, laser); (3) site above the xiphoid. Score 1 low, 2 intermediate, 3 high.
+ • Most urology is low or intermediate (open oxygen above the xiphoid is rare) → standard protocols.
+ • Near the airway of an intubated patient (e.g. buccal mucosa harvest): FiO₂ ≤30%, stop nitrous oxide, and
+   give anaesthesia 3–5 minutes' warning before diathermy.
+ • Include fire risk in the time-out; pre-agree roles; each member reassesses the element they control.
+
+Fire Management
+   Warning (smoke, unexpected flash or pop) → pause and look → water/saline (wet towels for small fires)
+   → remove drapes and burning material to the floor (hidden smouldering) → extinguisher if not out →
+   RACE if the fire persists
+ • RACE: Rescue/remove the patient from the fire; Alert/activate alarm and call emergency services; Confine
+   — medical gases off, doors closed; Extinguish/evacuate — use extinguisher while leaving.
+Concept — Fire needs all three sides of the triangle, and each side belongs to a different team member — so
+prevention is a team task, and removing any one side (low oxygen, dry prep, no diathermy) is enough.
+
+ENVIRONMENTAL DISTRACTIONS
+ • Sources: equipment alarms and noise, music, pagers and smartphones, corridor noise, case-irrelevant
+   "small talk"; distracting events are frequent (many per operative hour).
+ • Effects: in aviation, impaired prospective memory and safety checks; in theatre, technical errors, longer
+   operations, teamwork communication errors → restrict to the strictly necessary.
+ • "Sterile cockpit" (aviation): no non-essential talk or activity in pre-defined critical phases — music off,
+   minimal traffic and shift changes, no small talk; define phases at the briefing/time-out (e.g. hilar clamping
+   and unclamping in partial nephrectomy).
+
+
+
+
+                                                             page 5 of 8
+Chapter 12 — Fundamentals of Intraoperative Patient Safety                              ENVIRONMENTAL DISTRACTIONS
+
+ • Smartphones blur personal and professional use and are linked to poor behaviour and outcomes; ACS
+   guidance: silence ringtones, avoid personal calls, redirect to the OR desk or hard-wired phone, distinct
+   ringtones for urgent calls. A ban is unrealistic.
+ • Alarms and music: lower noise → fewer complications. Frequent non-actionable alarms cause sensory
+   overload and alarm fatigue (real events missed) → individualise alarm settings; develop "smart alarms".
+ • Music: very common and mostly viewed positively; effect on performance is controversial and genre
+   effects do not generalise → consider volume, genre and lyrics for the whole team.
+
+COMMUNICATION AND TEAM-BASED FACTORS
+ • Communication failure underlies up to 70% of OR adverse events; no protocol works without it.
+ • Non-technical skills are as important as technical skills, and dedicated training improves teamwork and
+   safety.
+
+Basics of Communication
+ • Communication = information exchange and "constructing shared realities".
+ • Components (Fig. 12.4): sender, receiver, message, channel; a message is symbolic (words, body
+   language, gestures, visuals); channels (e-mail, face to face) differ in speed.
+   Sender encodes idea into symbols/medium → channel → receiver decodes meaning — each within their
+   own context, surrounded by noise
+ • Encoding and decoding depend on personal knowledge, experience and bias; overlapping contexts
+   make communication efficient, mismatches cause error.
+ • Noise = anything disrupting accurate encoding/decoding: physical (music), physiological (fatigue),
+   psychological (mood).
+
+Errors in Communication
+ • Communication fails in about 30% of OR exchanges, a third of which create safety risk (cognitive load,
+   interruptions, tension).
+ • Types: poor timing/situational awareness; missing or inaccurate information; no purpose or resolution;
+   wrong audience.
+ • Malpractice claims: a substantial share of harmful breakdowns are intraoperative, mostly verbal between
+   two individuals, and many occur at handoffs.
+ • Risk factors: high cognitive load, implicit bias/assumption, hierarchy, diffusion of responsibility, transitions
+   of care.
+
+Nontechnical Skills and Teamwork Training
+ • Communication, situational awareness, decision making, leadership and teamwork predict surgical
+   success more than technical skill, yet were not traditionally taught.
+ • Situational awareness = the "big picture": Where have we come from? Where are we now? Where are
+   we going?
+ • Decision making: assess, share knowledge, risk-stratify options and contingencies, review outcomes.
+   Leadership: listen, share information, guide to shared goals. Teamwork: a group achieving a common
+   goal.
+ • TeamSTEPPS (Team Strategies and Tools to Enhance Performance and Patient Safety): national standard
+   released 2006 by the Agency for Healthcare Research and Quality (AHRQ) with the Department of Defense
+   — evidence-based, ready-made curricula, certified trainers.
+
+
+
+                                                             page 6 of 8
+Chapter 12 — Fundamentals of Intraoperative Patient Safety                          COMMUNICATION AND TEAM-BASED FACTORS
+
+TeamSTEPPS Overview
+ • Five principles (Fig. 12.5): team structure, communication, leadership, situation monitoring, mutual
+   support — interacting dynamically around the patient care team, yielding knowledge, attitudes and
+   performance.
+
+FIG. 12.5 TEAMSTEPPS PRINCIPLES AND TOOLS (AGENCY FOR HEALTHCARE RESEARCH AND QUALITY)
+ Principle                  Tools
+ Team structure             Correct assembly; clearly defined roles and responsibilities
+ Communication              SBAR — situation, background, assessment, recommendation/request (urgent information);
+                            call-outs (to many at once in emergencies); check-backs (closed loop)
+ Leadership                 Briefs (before: roles, expectations, contingencies); huddles (ad hoc regroup, situational
+                            awareness); debriefs (lessons learned)
+ Situation monitoring       STEP — status of patient, team members, environment, progress to goal; I'M SAFE — illness,
+                            medication, stress, alcohol/drugs, fatigue, eating and elimination (self-check)
+ Mutual support             Task sharing, help sought and offered without judgement; timely, respectful, specific
+                            feedback; two-challenge rule (voice a safety concern at least twice); CUS — "I am Concerned,
+                            I am Uncomfortable, this is a Safety issue" — stops the line
+
+ • Trap: STEP is monitoring the situation, I'M SAFE monitoring oneself; the two-challenge rule and CUS
+   belong to mutual support, not communication.
+ • In urology, TeamSTEPPS training across endoscopic, laparoscopic/robotic and open cases shortened case
+   time, improved on-time first starts and reduced safety issues; other studies show better perceived
+   teamwork.
+ • Non-technical skills must be taught and practised. Didactic teaching alone does not change outcomes;
+   simulation-based team training (SBTT) in high-fidelity environments allows mistakes without harm, with
+   prompt feedback.
+ • In situ simulation with TeamSTEPPS reduced perinatal morbidity and mortality in crash caesarean
+   sections; didactic TeamSTEPPS alone equalled no training.
+ • Urological simulation: non-technical skills taught in high-fidelity ureteroscopy simulation outperformed
+   didactic teaching (randomised trial); a laparoscopic partial nephrectomy crisis scenario (anaphylaxis,
+   mislabelled specimen) was rated useful, and few participants caught the pathology error — reinforcing
+   checklists and closed-loop communication.
+ • All levels benefit; mixed junior/senior cohorts favour juniors; training technical and non-technical skills
+   together dilutes both; benefit depends on facilitator skill and debrief quality.
+Concept — Most safety protocols fail at the point of human interaction, not design; communication is
+therefore trained like a technical skill — structured tools (SBAR, check-backs, CUS) replace improvisation, and
+immersive simulation, not lectures, changes behaviour.
+
+ KEY POINTS
+   • Time-outs and checklists minimise human error.
+   • Universal Protocol: preprocedure verification, site marking, time-out.
+   • Count discrepancy → 100-fold risk of an RSI.
+   • Double gloving, blunt needles and a designated sharps zone reduce sharps injury.
+   • Fire risk: oxidiser, fuel and ignition source.
+   • Communication errors cause most OR adverse events.
+
+
+
+
+                                                             page 7 of 8
+Chapter 12 — Fundamentals of Intraoperative Patient Safety                 COMMUNICATION AND TEAM-BASED FACTORS
+
+   • Non-technical skills training improves efficiency and reduces communication errors; simulation works
+     at all levels.
+
+
+
+
+                                                             page 8 of 8
+
