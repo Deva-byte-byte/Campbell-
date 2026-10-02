@@ -1,0 +1,764 @@
+Chapter 91 — Renal Transplantation                                                            Chronic Kidney Disease Epidemiology
+
+Chapter 91 — Renal Transplantation
+CHRONIC KIDNEY DISEASE EPIDEMIOLOGY
+ • Chronic kidney disease (CKD), among the commonest chronic illnesses, affects about 14% of United
+   States (US) adults, defined by reduced estimated glomerular filtration rate (eGFR), albuminuria, or both
+   (Table 91.1).
+ • Kidney Disease: Improving Global Outcomes (KDIGO) defines six eGFR categories, cross-classified by
+   albumin-to-creatinine ratio (ACR), with substantial prognostic implications for treatment and survival.
+ • G5 (eGFR <15 mL/min/1.73 m²) is end-stage kidney disease (ESKD), also termed end-stage renal disease
+   (ESRD), requiring dialysis or transplantation.
+ • Morbidity and mortality rise with CKD stage, driven mainly by cardiovascular disease (Table 91.2).
+ • ESRD incidence is falling slightly but consistently (Fig. 91.1), yet demand far exceeds supply: about
+   40,000 patients join the waiting list yearly against about 27,000 transplants.
+TABLE 91.1 NUMBER OF PERSONS BY EGFR AND ACR
+ eGFR category      eGFR (mL/min/1.73 m²)         Label                                Distribution across ACR categories
+ G1                 ≥90                           Normal or high                       Largest group; overwhelmingly A1
+ G2                 60–89                         Mildly decreased                     Second-largest; mostly A1
+ G3a                45–59                         Mildly to moderately decreased       Mostly A1; A2 and A3 share rising
+ G3b                30–44                         Moderately to severely decreased     A2 and A3 now a substantial fraction
+ G4                 15–29                         Severely decreased                   A3 the largest subgroup
+ G5                 <15                           Kidney failure                       Almost entirely A3; none in A1
+
+ACR categories: A1 normal to mildly increased (<30 mg/g); A2 moderately increased (30–299 mg/g); A3 severely increased
+(≥300 mg/g).
+ • What the table is for: the 14% prevalence is everyone outside G1–G2 with A1 — CKD is defined by either
+   axis, and albuminuria rises as eGFR falls.
+ • Trap: normal eGFR with A2 or A3 albuminuria is CKD; much of CKD sits in the early categories.
+TABLE 91.2 DEFINITION, CLASSIFICATION, AND PROGNOSIS OF CHRONIC KIDNEY DISEASE
+ eGFR (mL/min/1.73 m²)                      ACR <10                ACR 10–29          ACR 30–299              ACR ≥300
+ ≥105                                       1.1                    1.5                2.2                     5
+ 90–105                                     Reference              1.4                1.5                     3.1
+ 75–90                                      1                      1.3                1.7                     2.3
+ 60–75                                      1                      1.4                1.8                     2.7
+ 45–60                                      1.3                    1.7                2.2                     3.6
+ 30–45                                      1.9                    2.3                3.3                     4.9
+ 15–30                                      5.3                    3.6                4.7                     6.6
+
+Relative risk of all-cause mortality by eGFR and ACR (mg/g). Source: Levey AS, de Jong PE, Coresh J, et al.: KDIGO Controversies
+Conference report, Kidney Int 80(1):17–28, 2011.
+ • What the table is for: eGFR and albuminuria are independent, additive predictors of death — risk rises
+   down the rows and across the columns.
+ • Pattern: ACR ≥300 mg/g multiplies risk at every eGFR, even when eGFR is normal.
+
+
+                                                           page 1 of 16
+Chapter 91 — Renal Transplantation                                                         Chronic Kidney Disease Epidemiology
+ • Trap: the curve is not monotonic at the top — eGFR ≥105 carries more risk than the reference band, so a
+   very high eGFR is not reassuring.
+Fig. 91.1 — Incidence of ESRD in the US, 2000–2020 (cases per million): gradual decline across the period.
+
+Renal Replacement Therapy
+ • ESRD needs dialysis or transplantation to maintain homeostasis and remove metabolic waste.
+PERITONEAL DIALYSIS VERSUS HAEMODIALYSIS
+                       Peritoneal dialysis (PD)                         Haemodialysis (HD)
+ Exchange              Native peritoneum; solute diffusion, water       Synthetic semipermeable membrane; diffusion
+ membrane              removed by altering instilled fluid              for solutes, hydrostatic pressure gradient for
+                       concentration (glucose or icodextrin)            ultrafiltration
+ Access                Silastic catheter placed laparoscopically;       Large central venous catheter or arteriovenous
+                       omentum tacked away to prevent                   (AV) fistula/graft; blood flow 250–350 mL/min
+                       malfunction
+ Setting and           Home, by patient, with or without a cycling      Centre or home; 3–5 hours, 3–5 times a week
+ schedule              machine; continuous
+ Haemodynamic          Milder; greater independence                     Faster solute and fluid shifts → nausea, cramps,
+ effect                                                                 fatigue
+ Favoured in           Children, cardiovascular instability, no         —
+                       vascular access; use increasing
+ Not feasible          Extensive abdominal surgery, peritoneal          —
+                       scarring
+ Complications         Catheter malfunction, hyperglycaemia,            Access bleeding, graft infection, stenosis,
+                       weight gain, hernia, tunnel infection,           thrombosis, ischaemic steal; central catheters
+                       bacterial and fungal peritonitis                 carry higher haematogenous infection risk
+ Long-term failure     Peritoneal fibrosis → membrane loses             —
+                       efficiency
+
+ • Permanent AV access is created well in advance of anticipated dialysis.
+ • Long-term dialysis complications: cardiovascular disease (ventricular hypertrophy, coronary artery
+   disease (CAD)), hyperphosphataemia, altered bone metabolism, progressive vascular calcification,
+   calciphylaxis — and these increase post-transplant morbidity and mortality.
+ • Transplantation is the optimal therapy for ESRD — significantly better than dialysis, though inferior to
+   the general population — but modality is individualised after weighing surgical and immunosuppression
+   risk.
+Concept — Every year on dialysis accrues cardiovascular and mineral–bone damage that the eventual
+transplant inherits; the modality that shortens dialysis exposure therefore wins, and pre-emptive
+transplantation is the logical extreme of that principle.
+
+Kidney Transplantation Epidemiology
+ • Transplant numbers rise yearly (about 27,000 in 2023), driven by deceased donation; living donation is
+   stable (Fig. 91.2) but fell with COVID-19 in 2020, recovering only partially by 2023.
+ • Over 139,000 candidates were listed in the US (2020 report of the Organ Procurement and
+   Transplantation Network (OPTN) and Scientific Registry of Transplant Recipients (SRTR)).
+ • Allocation revisions improved equity of deceased-donor access once listed; disparities in access to the
+   list persist, mainly socioeconomic.
+
+
+                                                         page 2 of 16
+Chapter 91 — Renal Transplantation                                                       Chronic Kidney Disease Epidemiology
+ • A successful transplant may triple life expectancy compared with listed patients who remain on dialysis.
+ • First successful kidney transplant: identical twins, 1954. Immunosuppression has since brought 1-year
+   graft survival close to 100%; long-term graft survival and organ shortage remain unsolved.
+ • Quality of life improves, and transplantation is cost-effective: after year one, annual care costs (drugs,
+   tests, clinic visits) are significantly below dialysis.
+PRE-EMPTIVE TRANSPLANTATION — TWO FIGURES IN THE SOURCE
+ Figure                                         Denominator               Value
+ Patients transplanted pre-emptively; the       Patients (denominator     3.1%
+ rest dialysed while awaiting transplant        not specified)
+ Transplants performed pre-emptively, 2021      Transplants performed     28.7% overall — living donor 51%,
+ (OPTN/SRTR)                                                              deceased donor 21%; paediatric recipients
+                                                                          56%
+
+ • Different denominators and years; the stable message: pre-emptive transplantation is far commoner
+   with a living donor and in children.
+Fig. 91.2 — Total kidney transplants by donor type, 2008–2020 (OPTN/SRTR 2020 Annual Data Report):
+deceased-donor transplants rising, living-donor transplants flat.
+Concept — The benefit of transplantation is front-loaded in cost and risk and back-loaded in survival and
+savings: it costs and risks more in the first year, then outperforms dialysis thereafter.
+
+Recipient Evaluation for Transplantation
+ • Comprehensive evaluation: ESRD carries cardiac, vascular and diabetic comorbidity and higher infection
+   and malignancy risk.
+ • Transplantation wins long-term but carries a higher risk of death in the first 3–6 months, depending on
+   recipient and donor factors (Fig. 91.3).
+Fig. 91.3 — Landmark: Wolfe et al., N Engl J Med 1999. Adjusted relative risk of death in first deceased-donor
+transplant recipients versus wait-listed dialysis patients.
+ • Relative risk 2.84 immediately after transplant → risk equal at 106 days → cumulative survival equal at
+   244 days → long-term relative risk 0.32.
+Timing of evaluation and listing
+ • Timing follows the pace of decline, symptoms and donor availability; ideally evaluate before dialysis.
+ • Deceased-donor listing permitted at eGFR ≤20 mL/min/1.73 m².
+ • Pre-emptive transplantation is preferable when a living donor is available or deceased-donor
+   transplantation is accessible.
+ • Elderly patients may gain from a faster elderly-donor kidney over waiting for a standard kidney.
+Aetiology and recurrence
+ • Hypertension and diabetes are the commonest adult causes; control them and modify lifestyle,
+   including weight loss, before transplant to prevent recurrence in the graft.
+RECURRENCE RISK OF THE PRIMARY DISEASE IN THE ALLOGRAFT
+ Recurrence risk       Diseases                                                             Implication
+ Very low or none      Genetic disease: autosomal dominant polycystic kidney disease        No specific recurrence
+                       (ADPKD), congenital kidney dysplasia, Alport syndrome spectrum,      measures
+                       genetic focal segmental glomerulosclerosis (FSGS)
+
+
+
+                                                       page 3 of 16
+Chapter 91 — Renal Transplantation                                                      Chronic Kidney Disease Epidemiology
+
+ Recurrence risk       Diseases                                                            Implication
+ Higher                Primary FSGS, membranoproliferative glomerulonephritis (MPGN),      Pre-transplant counselling;
+                       membranous nephropathy                                              monitor for recurrence
+                                                                                           after transplant
+ Histological          Immunoglobulin A (IgA) nephropathy                                  Impact on long-term
+ often, clinical                                                                           survival less clear
+ rarely
+ Metabolic             Primary hyperoxaluria                                               May require combined
+                                                                                           liver and kidney transplant
+
+ • Pattern: disease intrinsic to the native kidney's genes cannot recur in a graft carrying donor genes;
+   disease driven by circulating or immune factors can.
+ • Trap: FSGS appears on both sides — genetic FSGS does not recur; primary FSGS does.
+Cardiac evaluation
+ • CAD is highly prevalent in ESRD and the major cause of morbidity and mortality; symptomatic patients
+   are evaluated per current guidelines.
+ • High-risk asymptomatic candidates (diabetes, family history, smoking, prior CAD, poor functional reserve,
+   long dialysis) → echocardiography, exercise or pharmacological stress testing, selectively coronary
+   angiography.
+ • Optimal screening is unclear; studies challenge angiography in asymptomatic patients. Programmes
+   follow local algorithms tied to waiting times and retest long waiters.
+Vascular evaluation
+ • Peripheral arterial disease raises risk of limb complications, cardiovascular events and death; assess
+   peripheral and cerebral vessels and anastomotic targets.
+ • Heavy iliac calcification may preclude a safe anastomosis.
+ • Claudication may worsen after transplant — counsel. Amputation is not a contraindication but marks
+   higher risk.
+ • Tests: lower-limb and carotid Doppler; non-contrast computed tomography (CT) for calcification in long-
+   standing diabetes, smokers and the elderly.
+ • Non-healing foot ulcers and osteomyelitis → not a candidate until healed.
+ • Prior stents or bypasses → define safe anastomotic targets with vascular surgery.
+ • ADPKD with a family history of intracranial bleeding → evaluate for cerebral aneurysm and manage
+   before transplant.
+Wound healing, obesity and frailty
+ • Manage before transplant: obesity, malnutrition, prior abdominal surgery, hernias, tobacco.
+ • Obesity is a relative contraindication — more wound complications, delayed graft function (DGF), acute
+   rejection, possibly death. Body mass index (BMI) cut-offs are centre- and comorbidity-specific; pre-
+   transplant weight interventions are proposed.
+ • Frailty predicts mortality and morbidity; assess and optimise, though strategies are unclear.
+Haematological and psychosocial
+ • Screen for haematological malignancy and bleeding or thrombotic disorders, including liver disease and
+   anticoagulants, for perioperative planning.
+ • Psychosocial assessment for all. Unstable psychiatric disorder, non-adherence or substance abuse must
+   be treated and stable, with a support network, first.
+
+
+                                                      page 4 of 16
+Chapter 91 — Renal Transplantation                                                           Chronic Kidney Disease Epidemiology
+Infection
+ • Infection risk is higher (diabetes, immunosuppressants). Treat bacterial infection first; dialysis catheter
+   infection may cause sepsis or peritonitis and need catheter removal. Drug-resistant organism surveillance
+   per local practice.
+ • Mandatory screening: tuberculosis (TB), hepatitis B and C, human immunodeficiency virus (HIV) →
+   therapeutic, prophylactic or suppressive treatment. Active TB is a contraindication until adequately
+   treated.
+ • Serology for cytomegalovirus (CMV), herpes simplex virus (HSV) and Epstein–Barr virus (EBV) defines
+   reactivation risk and directs post-transplant chemoprophylaxis.
+ • Vaccinate before transplant: responses are better, and live vaccines cannot be used after transplant.
+ • Chronic hepatitis → assess fibrosis, screen for hepatocellular carcinoma (HCC), suppress virus.
+   Decompensated cirrhosis or severe portal hypertension → consider simultaneous liver–kidney
+   transplant.
+ • Hepatitis C virus (HCV): direct-acting antivirals give near-universal sustained virological response,
+   allowing HCV-viraemic donor kidneys into HCV-negative recipients with treatment — expanding the
+   pool.
+ • Hepatitis B virus (HBV): vaccinate non-immune candidates; positive serology → assess viraemia and liver
+   damage, HCC surveillance, reactivation monitoring, continued antivirals.
+FIG. 91.4 ALGORITHM FOR THE EVALUATION OF RENAL TRANSPLANTATION CANDIDATES
+ Component            Content (★ = area of special interest for urologists)
+ History and          Problem list★, medication list★, medical history★, immunisation history, physical examination★
+ examination
+ Investigations       Chest radiograph, electrocardiogram★, abdominal ultrasound★, full blood count, chemistry
+                      screen★, international normalised ratio and activated partial thromboplastin time, infectious
+                      serology, prostate-specific antigen★, urinalysis ± culture★, histocompatibility testing
+ Screening            Colon and cervical cancer screening; mammogram (women ≥40 years); eye examination
+                      (diabetics); dental examination
+ Consults and         Social services, dietetics, patient and family education, financial counselling
+ support
+ Sequential gates     Prior substance abuse → drug screens · morbid obesity → weight loss · non-adherence → contract
+                      · high risk of heart disease → evaluate
+ Exclusion gates      Active infection★, active malignancy★, high probability of perioperative mortality, unsuitable
+                      conditions for technical success★, non-compliance → if present, correct and re-evaluate; if
+                      uncorrectable, unacceptable
+
+Modified from Barry JM: Current status of renal transplantation: patient evaluations and outcomes, Urol Clin North Am
+28:788, 2001.
+ • What the algorithm is for: fixed work-up, then gates; each barrier is correctable or a reason to decline.
+Concept — Evaluation asks two questions — will the patient survive the operation, and will
+immunosuppression unmask something dormant — and almost every test on the list answers one of them.
+
+Malignancy Screening
+ • Age-appropriate cancer screening is essential: immunosuppression raises recurrence risk.
+ • Waiting period depends on type, stage, metastatic potential, immunogenicity and recurrence risk;
+   decisions in remission are collaborative (oncology, transplant nephrology, patient, carers), aided by per-
+   tumour consensus recommendations.
+
+
+                                                         page 5 of 16
+Chapter 91 — Renal Transplantation                                                         Chronic Kidney Disease Epidemiology
+MALIGNANCY AND TRANSPLANT ELIGIBILITY
+ Category                        Malignancies
+ Transplant possible             Prostate cancer Gleason score ≤6; superficial non-melanoma skin cancer; incidental
+ without prior treatment         renal tumour <1 cm
+ (low grade)
+ No waiting period after         Non-metastatic basal cell and squamous cell skin cancer; melanoma in situ; renal cell
+ curative treatment              carcinoma <3 cm; prostate cancer Gleason score ≤6; thyroid cancer (follicular or
+                                 papillary <2 cm, low-grade histology); superficial bladder cancer
+ All other active                Transplant only after adequate treatment, with an individualised waiting period
+ malignancy
+
+ • Trap: the two renal thresholds differ — <1 cm incidental tumour needs no treatment first; <3 cm renal
+   cell carcinoma needs no wait after cure.
+
+Additional Surgical Considerations
+ • Anatomical evaluation defines approach, site, targets and vessel integrity — especially after previous
+   transplant, surgery or radiation.
+ • Prolonged femoral dialysis access (catheter or fistula) → exclude venous obstruction from stenosis or
+   thrombosis. A functioning lower-limb fistula causes venous hypertension and poor graft function.
+ • ADPKD: chronic infection, cyst rupture, pain, haematuria, tumours and mass effect (early satiety, weight
+   loss); nephrectomy may be needed to make room — before or simultaneously with transplant, weighing
+   risks and benefits.
+ • Other indications for pre-transplant native nephrectomy: chronically infected kidneys, recurrent urinary
+   tract infection (UTI) with reflux, significant proteinuria.
+ • Heart, lung or liver candidates with renal dysfunction: add a kidney only if disease is advanced or
+   recovery unlikely; an OPTN safety net prioritises later kidney allocation if function does not recover.
+
+ABO and Human Leukocyte Antigen
+ • ABO compatibility is standard: type O universal donor, type AB universal recipient.
+ • Non-A1 donors (for example A2) can donate to B and O recipients if the recipient's anti-A titre is
+   acceptable per centre policy.
+ • Human leukocyte antigen (HLA) compatibility means a negative crossmatch between donor
+   lymphocytes and recipient serum.
+ • ABO- or HLA-incompatible transplant without preconditioning → accelerated rejection, thrombosis,
+   graft loss. ABO-incompatible transplant is possible with more intensive immunosuppression and rigorous
+   monitoring.
+ • The major histocompatibility complex (MHC), known as HLA, consists of cell-surface glycoproteins.
+HLA CLASS I VERSUS CLASS II
+                    Class I                         Class II
+ Loci               HLA-A, HLA-B, HLA-C             HLA-DR, HLA-DQ, HLA-DP
+ Expression         All nucleated cells             Antigen-presenting cells and endothelial cells only
+
+ • Sensitisation: anti-HLA antibodies from transfusion, pregnancy, previous transplant and other immune
+   stimulation (for example viral infection). Preformed antibodies → severe acute rejection and graft loss.
+
+
+
+
+                                                         page 6 of 16
+Chapter 91 — Renal Transplantation                                                       Chronic Kidney Disease Epidemiology
+ • Detection is by solid-phase assay, mainly Luminex single-antigen beads; defining each recipient's
+   antibody repertoire allows a virtual crossmatch, expediting allocation.
+Concept — Every barrier in this section is a preformed antibody — anti-A/B isoagglutinin or anti-HLA — and
+titres, crossmatch and bead assays are all ways of detecting it before the kidney meets it.
+
+Kidney Donation
+ • Living or deceased; deceased donation is donation after brain death (DBD) or donation after circulatory
+   death (DCD).
+ • Before 1980 all deceased donation was DCD. The Uniform Determination of Death Act, 1980 defined
+   death as irreversible cessation of circulatory and respiratory function or of all functions of the entire
+   brain, including the brainstem.
+
+Deceased Donation
+ • National Organ Transplant Act, 1984 (NOTA) established the OPTN, which coordinates transplant centres
+   and organ procurement organisations (OPOs); the SRTR provides analytical support for monitoring and
+   policy.
+ • Donor data generate a match run on the national list; allocation policy revised 2014, amended 2021.
+ • Ranking: waiting time (from dialysis start or pre-emptive listing); biological criteria (HLA matching,
+   sensitisation); longevity matching by Kidney Donor Profile Index (KDPI) and Estimated Post-Transplant
+   Survival (EPTS); priority for centres within 250 nautical miles of the donor hospital.
+ • Donor evaluation: diagnosis and cause of death, neurological and cardiorespiratory status, medical and
+   social history.
+ • Donor contraindications: active metastatic cancer, haematological malignancy, history of melanoma,
+   untreatable viral illness.
+ • Adequately treated bacterial infection, including bacterial meningitis, is acceptable; viral meningitis or
+   encephalitis needs careful assessment of transmission risk.
+ • Laboratory: ABO and HLA typing; screening for HIV, HBV, HCV, EBV, CMV, syphilis and toxoplasma by
+   serology and nucleic acid testing (NAT).
+ • Paediatric donors under 15 kg → en bloc, with graft survival comparable to adult transplants.
+DONATION AFTER BRAIN DEATH VERSUS DONATION AFTER CIRCULATORY DEATH
+                            DBD                            DCD
+ Circulation at             Maintained, with adequate      Life support withdrawn; organs recovered after declaration
+ procurement                oxygenation                    of death
+ Ischaemic injury           Minimal                        Warm ischaemia → expedient cannulation and cooling
+                                                           essential
+ Procurement                Standard sequence (below)      Rapid access to aorta and inferior vena cava (IVC) for
+                                                           perfusion and venting; then as DBD
+ Preservation               Static cold storage            Usually hypothermic machine perfusion to reduce DGF
+
+Deceased-Donor Procurement
+Long midline chest and abdominal incision with sternotomy → three exposure goals: (1) mobilise small- and
+large-bowel mesentery off the retroperitoneum; (2) expose and control aorta and IVC; (3) locate sites for
+cannulation, perfusion and venting → recognise aberrant renal vessels; preserve accessory arteries arising
+from the iliacs before cannulation → open Gerota's fascia laterally for ice cooling during perfusion → if liver
+and pancreas are procured, dissect them, perfuse and remove them → mobilise kidneys off the posterior
+
+
+
+                                                        page 7 of 16
+Chapter 91 — Renal Transplantation                                                     Chronic Kidney Disease Epidemiology
+wall with perinephric fat, preserving periureteric tissue down to the pelvis → divide ureters → aorta and
+IVC: upper limit set by liver procurement, divided inferiorly at the aortic bifurcation → retract cut ends,
+kidneys and ureters anteriorly; divide prevertebral tissue → remove both kidneys en bloc → back table:
+separate, identify vessels, excise excess perinephric tissue, document anatomy, package for static cold
+storage.
+
+Kidney Cold Preservation and Machine Perfusion
+ • Immediate cooling to 4 °C sharply reduces metabolism and damage; preservation fluid maintains
+   intracellular homeostasis, limiting anaerobic glycolysis and acidosis; reperfusion free radicals compound
+   the injury.
+ • Common fluids: University of Wisconsin (UW) solution and histidine–tryptophan–ketoglutarate (HTK)
+   solution.
+ • Pulsatile (hypothermic machine) perfusion extends preservation time and reduces DGF, with no
+   difference in long-term graft survival.
+ • Normothermic perfusion: limited clinical experience.
+Concept — Preservation buys time by slowing metabolism, not stopping it; every measure here targets
+ischaemia–reperfusion injury, which shows clinically as DGF — hence machine perfusion improves DGF but
+not long-term survival.
+
+Living Kidney Donation
+ • Advantages: significantly better graft and patient survival; recipient optimised for a planned operation;
+   pre-emptive transplant possible; negligible risk of donor-transmitted infection or malignancy.
+ • Multidisciplinary team: independent donor advocate, social worker, physician, surgeon, coordinators.
+ • Exclusions: concern for kidney disease, impaired function, malignancy history, chronic or active infection,
+   cardiovascular disease, diabetes, significant obesity.
+Evaluation sequence: self-administered questionnaire (medical, social, family history) → physical and
+psychosocial evaluation, blood group and HLA typing → renal function by at least two methods, including a
+measured technique → comprehensive metabolic panel including glycated haemoglobin (HbA1c), lipid and
+coagulation profiles → serology per OPTN, endemic infections, age-appropriate cancer screening → anatomy
+by CT angiography (CTA) or magnetic resonance angiography, split function if needed → cardiac evaluation
+in selected cases.
+ • Urological evaluation: stone disease, genitourinary malignancy, recurrent UTI, previous urological
+   surgery, bladder outflow symptoms. Metabolic stone work-up if stone history; bilateral stones generally
+   exclude.
+ • Counselling: healthy lifestyle, ideal weight, regular care — stricter in younger donors.
+LIVING DONOR RISKS FOR COUNSELLING
+ Risk                                Figure
+ Long-term kidney function           60–80% of pre-donation level
+ Lifetime ESRD risk (Muzaale et      Donors 90 per 10,000 · matched healthy non-donors 14 per 10,000 · unscreened
+ al., 2014)                          general population 326 per 10,000
+ Perioperative complications         About 16%, mostly gastrointestinal
+ Clavien grade ≥IV                   2.5%
+ Mortality                           3 per 10,000
+ Laparoscopic-to-open                0.26–3.34%
+ conversion
+
+
+                                                       page 8 of 16
+Chapter 91 — Renal Transplantation                                                  Kidney Transplantation Surgical Procedure
+
+ Risk                                Figure
+ Pregnancy after donation            More gestational hypertension and pre-eclampsia; no increase in maternal or fetal
+                                     complications
+
+ • Trap: donors' ESRD risk is lower than the general population's but higher than matched healthy non-
+   donors — the correct comparator.
+
+Living Donor Nephrectomy
+ • Donor safety is the primary goal at every stage.
+ • Laparoscopic donor nephrectomy first described by Ratner, 1995; now the preferred approach. Two-
+   thirds are hand-assisted laparoscopic; in the US fewer than 2% are open.
+ • Minimally invasive nephrectomy is the procedure of choice: faster recovery, less pain, higher
+   acceptance, better cosmesis.
+ • Open nephrectomy is reserved for complex anatomy or previous surgery and is more often needed on
+   the right.
+ • Donor-specific technique: minimal handling of the kidney; careful vascular dissection for adequate length
+   without compromising donor safety; preserve periureteric tissue to avoid ureteric ischaemia; minimise
+   warm ischaemia — divide ureter and vessels and extract expediently.
+
+Kidney Paired Donation
+ • Incompatibility arises from ABO mismatch or donor-specific antibodies (DSA) from sensitising events
+   (transfusion, pregnancy, previous transplant).
+ • Incompatible pairs are matched with other pairs through exchange databases (National Kidney Registry,
+   Alliance for Paired Donation, United Network for Organ Sharing), maximising transplant chances.
+Concept — Living donation is an operation on a healthy person for another's benefit, so every decision —
+selection, counselling figures, surgical approach — is judged first by donor harm and only second by graft
+quality.
+
+
+KIDNEY TRANSPLANTATION SURGICAL PROCEDURE
+
+Preparation for the Transplantation
+ • On admission, re-review suitability, dialysis need and interval health changes.
+ • Counsel on DGF, primary non-function, arterial and venous thrombosis, bleeding, urinary complications,
+   immunosuppression side effects, and the rare transmission of donor-derived infection or malignancy.
+ • Antibiotic prophylaxis covers skin flora and urinary contaminants or colonisation, guided by previous
+   positive cultures.
+ • Safety check including ABO verification before induction of anaesthesia.
+ • Central venous catheter (CVC) for drugs and sampling; multiple previous dialysis lines with possible
+   stenosis → pre-operative interventional radiology placement.
+ • Foley catheter after induction, accessible intraoperatively for bladder distension during the ureteric
+   anastomosis.
+
+Preparation of the Kidney Allograft
+PERFUSATE BY COLD ISCHAEMIA TIME
+
+
+
+
+                                                       page 9 of 16
+Chapter 91 — Renal Transplantation                                                  Kidney Transplantation Surgical Procedure
+
+ Cold
+ ischaemia          Setting                                                                Perfusate
+ Very short         Living donor, donor and recipient operations simultaneous or           Cold lactated Ringer
+                    overlapping                                                            solution
+ Longer             Sequential transplantation, exchange programmes                        UW or HTK solution
+
+ • Verify graft anatomy: number of vessels and ureteric anomalies.
+ • Renal vein: secure all tributaries — suprarenal, lumbar, gonadal; the right gonadal vein only rarely drains
+   into the renal vein.
+ • Ligate perivascular neurolymphatic tissue to prevent lymphocele.
+ • Handle the artery gently to avoid intimal injury.
+ • Preserve periureteric tissue; do not dissect in the angle between the lower pole and the ureter.
+ • Excise excess perinephric fat; in older donors remove adherent fat carefully to avoid decapsulation.
+ • Pre-perfusion wedge biopsy (authors' routine) records baseline histology — useful in delayed function
+   and for counselling living donors about abnormalities.
+Deceased-donor allografts
+ • Same preparation, but vessels are long and unidentified polar vessels may be present.
+ • Right kidney: the accompanying IVC can extend the short right renal vein (Fig. 91.5).
+ • Vascular stapler closure allows the vein to be shortened at the time of anastomosis, unlike a suture line.
+ • Two renal veins of equal size should ideally both be preserved; otherwise the smaller can be ligated.
+ • Artery: clear perivascular tissue; if the Carrel patch is atherosclerotic and unusable, use the renal artery
+   alone as in living-donor transplant.
+Fig. 91.5 — Methods of extending the right renal vein (A–G): modifications of the IVC and a free graft of
+donor external iliac vein. A and B are valuable when the cephalad right renal vein has been compromised by
+separating the liver graft. Sources: A, B patch and flap techniques (Barry and Lemmers, 1995); C (Barry and
+Fuchs, 1978); D, F clam-shell technique (Barry, Hefty and Sasaki, 1988); E lengthening technique (Corry and
+Kelley, 1978); G spiral gonadal vein graft (Nghiem, 1989).
+Multiple renal arteries
+ • Incidence 18–43%, bilateral in 15%. A meta-analysis found more complications and DGF but comparable
+   long-term graft and patient survival.
+ • Arteries close together → longer Carrel patch; if of adequate size, shorten the patch, or reimplant the
+   artery into the patch nearer the main artery or into the main artery itself (Figs. 91.6, 91.7).
+ • The lower pole artery must be preserved — it supplies the ureter. Upper pole branches ≤2 mm may be
+   ligated if reconstruction is complex.
+RECONSTRUCTION TECHNIQUES FOR MULTIPLE ARTERIES
+ Technique                  Use
+ Conjoined side-to-         Living donors: performed on the back table before implantation; may be mounted on a
+ side                       Gore-Tex or bovine pericardial patch depending on recipient iliac quality (Fig. 91.8)
+ End-to-side, smaller       Unequal arteries
+ into larger
+ Two separate               To the external iliac artery
+ anastomoses
+
+
+
+
+                                                           page 10 of 16
+Chapter 91 — Renal Transplantation                                                 Kidney Transplantation Surgical Procedure
+
+ Technique                  Use
+ One artery to internal     Depending on nature and size of the artery
+ iliac
+
+Choice of Site
+ • Factors: iliac artery quality, iliac vein patency, failed graft or scar, stoma, space in ADPKD, groin dialysis
+   access.
+ • Right iliac fossa is the traditional choice: the common iliac vein can be mobilised by securing internal iliac
+   tributaries when the renal vein is short — especially relevant for living-donor grafts.
+ • Contralateral placement is suggested: the renal pelvis and ureter then lie anterior, easing future urinary
+   reconstruction.
+ • Retroperitoneal placement is ideal.
+GIBSON VERSUS HOCKEY STICK INCISION
+                                                                              Pararectal J-shaped hockey stick
+                 Gibson incision                                              incision
+ Course          Oblique, from 2 cm above the pubic symphysis, laterally to   From the midline above the symphysis,
+                 2–3 cm superomedial to the anterior superior iliac spine     superolaterally along the rectus sheath
+                 (ASIS); extendable superiorly                                edge
+ Length          Shorter, mostly below the umbilical waistline                Longer
+ Access          Iliac vessels, retroperitoneal                               Better access to common iliac vessels,
+                                                                              IVC and intraperitoneum
+ Incisional      Lower                                                        Higher, with denervation of lower
+ hernia                                                                       rectus
+
+ • Gibson pitfalls: incision over the symphysis → painful scar; near the ASIS → injury to the lateral
+   cutaneous nerve of the thigh.
+Gibson exposure: split external oblique aponeurosis and rectus sheath → retract lateral rectus edge medially
+→ enter retroperitoneal fat plane → secure and divide inferior epigastric vessels (unless used for a lower
+pole artery anastomosis — rarely feasible in elderly and diabetic patients because of calcification) → free,
+preserve and retract the spermatic cord; secure and divide the round ligament in women → incise
+transversalis fascia → sweep peritoneum superomedially → divide internal oblique and transversus as
+needed.
+Recipient vessel exposure: expose psoas and iliac vessels → self-retaining retractor with the lower blade
+clear of the femoral nerve (suture retraction in thin patients) → ligate all perivascular lymphatics
+(lymphocele prevention); avoid the genitofemoral nerve → expose enough length for safe clamping; mobilise
+common and internal iliac arteries for multiple arteries; divide the internal iliac vein to mobilise the
+common iliac vein for a short renal vein, securing tributaries → place graft in the retroperitoneal pocket to
+mark anastomotic targets.
+ • A tortuous, medially lying iliac artery with a laterally placed vein helps with a short renal vein.
+ • Targets: external iliac artery and vein (commonest); common iliac artery and IVC; rarely aorta and IVC.
+Vascular anastomoses: clamp iliac vein → venotomy; resect valves carefully → graft brought in wrapped in
+cold gauze → confirm polar orientation → renal vein end-to-side, monofilament polypropylene 5-0/6-0 →
+clamp iliac artery avoiding calcified spots → arteriotomy (aortic punch for living donors) → flush with
+heparinised saline → artery end-to-side, polypropylene 5-0/6-0 (interrupted for small living-donor vessels)
+
+
+
+
+                                                       page 11 of 16
+Chapter 91 — Renal Transplantation                                             Kidney Transplantation Surgical Procedure
+→ bulldog clamps on graft vessels, remove iliac clamps, check haemostasis → remove bulldogs to reperfuse,
+check haemostasis again.
+ • Venous anastomosis first, to minimise arterial ischaemia time.
+ • Atherosclerotic recipient arteries (especially with living-donor kidneys) → implant the graft artery on a
+   Gore-Tex or bovine pericardial patch on the back table for a wider anastomosis (Fig. 91.8).
+ • Bleeding needing reclamping after reperfusion → proximal arterial clamp; the kidney stays perfused by
+   backflow.
+ • Position the kidney without stretch or kinking; confirm proximal and distal recipient vessel integrity.
+ • Hume test: finger occlusion of the renal vein → pulsatile swelling of the kidney, promptly relieved on
+   release.
+Ureteric anastomosis
+ • Commonest technique: extravesical ureteroneocystostomy (Lich, 1961); choice depends on ureteric
+   vascularity and length and on recipient bladder quality.
+Lich–Gregoir sequence: fill bladder via catheter → dissect perivesical fat, clear detrusor → myotomy along
+the intended ureteric course → open mucosa at the distal end of the myotomy → trim ureter to length and
+spatulate → mucosal anastomosis with fine (6-0/5-0) absorbable suture (polyglyconate or polydioxanone),
+with or without a stent → close muscle over the mucosal suture → short submucosal tunnel.
+Fig. 91.9 — Lich–Gregoir (Konnak et al., 1975): anterolateral seromuscular incision down to bulging mucosa;
+bladder drained, mucosa incised, ureter anastomosed with fine absorbable sutures; a distal anchoring stitch
+prevents proximal migration of the ureter in the tunnel; seromuscular layer closed loosely over the ureter.
+ • Alternatives: ureteroureterostomy, pyeloureterostomy, pyelovesicostomy, anastomosis to ileal conduit or
+   pouch.
+ • Double ureters → conjoined (Wallace) or individual anastomosis.
+ • Document the stent and a retrieval plan: forgotten stents cause calcification, graft dysfunction, even loss.
+ • Drain: surgeon's preference, by extent of dissection and lymphatic control; closed system, removed early.
+Concept — The operation is ordered to protect the graft's two vulnerabilities, ischaemia and the ureteric
+blood supply: the vein goes first to shorten arterial ischaemia, the lower pole artery and periureteric tissue
+are untouchable, and contralateral placement keeps the ureter reachable for later repair.
+
+Paediatric En Bloc Kidney Transplantation
+ • Donors under 15 kg: both kidneys transplanted en bloc with the aorta and IVC as vascular conduits;
+   ureters anastomosed conjoined or individually (Fig. 91.10).
+ • Ideal recipient: adult, BMI <30, low immunological risk, low recurrence risk, no significant vascular
+   disease.
+ • Early vascular thrombosis and graft loss 10–15%, yet long-term graft survival equals living-donor
+   transplantation.
+
+Surgical Complications
+ • Early complications: haematuria, urine leak, haematoma and haemorrhage, lymphocele, renal vein and
+   artery thrombosis. Urological complications are covered in Chapter 92.
+ • Bleeding (brisk sanguineous drain output, falling haematocrit, graft swelling; risk raised by renal failure,
+   antiplatelets, anticoagulants) → transfusion and immediate exploration. Large haematoma causes pain
+   and pressure on renal vein and bladder. Ultrasound and CT help, especially if obese.
+
+
+
+
+                                                  page 12 of 16
+Chapter 91 — Renal Transplantation                                               Kidney Transplantation Surgical Procedure
+Vascular Complications
+Intraoperative prevention
+ • Clamp and anastomose clear of atheroma — clamp injury causes intimal dissection, stenosis, limb-
+   threatening ischaemia. Trial the final position to avoid stretch or kinking.
+ • Renal artery usually to external or common iliac. Avoid the internal iliac artery if the contralateral one
+   is occluded or already used → gluteal claudication and erectile dysfunction.
+ • Short right renal vein → extend with donor IVC, or mobilise the recipient iliac vein by dividing the internal
+   iliac vein.
+ • Previous deep vein thrombosis (DVT), leg swelling or groin dialysis line → image iliac vein patency.
+   Ipsilateral functioning groin AV fistula may need ligation to avoid graft venous hypertension.
+ • Resect venous valve cusps at the anastomosis — inclusion in the suture line causes outflow obstruction.
+ • On reperfusion, a flaccid soft kidney or a tense engorged kidney → evaluate inflow and outflow,
+   anastomoses, twisting or stretching of the pedicle; intraoperative ultrasound; occasionally take-down and
+   re-anastomosis.
+GRAFT ARTERIAL THROMBOSIS, VENOUS THROMBOSIS AND RENAL ARTERY STENOSIS
+                   Arterial thrombosis          Venous thrombosis               Renal artery stenosis
+ Incidence         0.2–5%                       0.1–8.2%                        1–23%
+ Presentation      Sudden anuria, usually       Swollen, painful graft, gross   Declining graft function, refractory
+                   immediately post-operative   haematuria, acute fall in       hypertension, fluid retention, flash
+                                                urine output                    pulmonary oedema (renin–
+                                                                                angiotensin–aldosterone activation)
+ Ultrasound        Absent Doppler signal        Reversed diastolic flow;        Raised velocity across stenosis;
+                                                swollen graft; clot in renal    parvus-tardus waveform distally
+                                                vein
+ Confirmation      Exploration                  Exploration                     Contrast imaging — gold standard
+ Management Immediate ultrasound and            Immediate exploration:          Percutaneous angioplasty or
+            exploration; catheter               thrombectomy,                   stenting — treatment of choice,
+            thrombolysis described for          intraoperative ultrasound,      reverses symptoms; surgical
+            short ischaemia; nephrectomy        outflow revision;               revision, interposition or bypass
+            if unsalvageable                    nephrectomy if necrotic         risks graft loss (Figs. 91.11, 91.12)
+
+ • Prothrombotic patients need perioperative anticoagulation, at the cost of more bleeding.
+ • Multiple renal arteries may increase thrombosis risk. Loss of a lower pole artery → infarction → ureteric
+   ischaemia, necrosis or scarring → urine leak or hydronephrosis from stricture.
+ • Thrombosis risk factors: extreme donor or recipient age, cold ischaemia >24 hours, anastomotic
+   technical problems, hypercoagulability accentuated by hypovolaemia and acute rejection.
+ • Prevention: minimise ischaemic time, careful technique, recognise hypercoagulable states (antithrombin
+   III, protein C and protein S deficiency, factor V Leiden, prothrombin G20210A mutation, antiphospholipid
+   antibodies), perioperative anticoagulation when required.
+Other vascular and biopsy complications
+ • Torsion: rare; intraperitoneal grafts only (retransplantation, simultaneous pancreas–kidney transplant).
+   Acute anuria and pain; emergent ultrasound and exploration are the only chance of salvage.
+   Prophylactic nephropexy when placed intra-abdominally.
+ • Pseudoaneurysm: rare (<1%) but serious — limb ischaemia and death from rupture. Technical or mycotic
+   (bacterial or fungal, from donor or native source). Usually asymptomatic, mostly found incidentally when
+
+
+                                                   page 13 of 16
+Chapter 91 — Renal Transplantation                                               Kidney Transplantation Surgical Procedure
+    imaging graft dysfunction; may cause pain, fever, distal thromboembolism, bleeding, haematoma.
+    Treatment: graft nephrectomy and endovascular or open repair, with prolonged antibiotics.
+ • Biopsy complications: minor (microhaematuria, small AV fistula, small haematoma) are common and self-
+   limiting; major (bleeding needing transfusion or intervention) are low (1.9%). Subcapsular haematoma
+   may cause a Page kidney. Ultrasound and contrast CT diagnose. Large AV fistula with steal → coil
+   embolisation; large compressive haematoma → surgical evacuation.
+Lymphocele
+ • Perinephric pseudocyst of variable incidence.
+ • Risk factors: extensive dissection, retransplantation, obesity, anticoagulation, mechanistic target of
+   rapamycin (mTOR) inhibitors.
+ • Mostly asymptomatic; large ones compress iliac vein (leg oedema), renal vein, ureter (hydronephrosis),
+   bladder (frequency). Ultrasound shows it; contrast CT maps anatomy pre-intervention; fine-needle
+   aspiration distinguishes urinoma, seroma, abscess.
+ • Treat only if symptomatic: aspiration with or without sclerotherapy, percutaneous drain, laparoscopic or
+   open fenestration into the peritoneum. Infected lymphocele needs adequate percutaneous or open
+   drainage.
+ • Success is highest with laparoscopic fenestration, then open surgery; sclerotherapy and drain placement
+   are intermediate; aspiration alone is lowest.
+ • Prevention: meticulous ligation of perivascular and hilar lymphatics; a drain placed at transplant also
+   reduces incidence.
+Transplant nephrectomy
+ • Most grafts failing within the first year need nephrectomy. Indications: graft intolerance syndrome (graft
+   swelling, haematuria, graft pain, non-specific inflammatory symptoms), infection, tumour.
+EARLY VERSUS DELAYED TRANSPLANT NEPHRECTOMY
+              Early (within 6–8 weeks)    Delayed (graft intolerance)
+ Plane        Extracapsular simple        Subcapsular: dissect under the capsule, suture the pedicle at the hilum
+              nephrectomy
+ Exception    —                           Tumour in the graft → extracapsular even late; more complex, risk of
+                                          vascular and nerve injury
+
+ • Graft intolerance syndrome: a course of steroids to suppress oedema is preferred first.
+ • Asymptomatic failed graft: nephrectomy is not indicated simply to allow immunosuppression
+   withdrawal, because sensitisation risk persists.
+ • Morbidity: complications 20–30%, mortality 0–11% — intraoperative bleeding, haematoma, infection and
+   sepsis, lymphocele, DVT, vascular injury, stump infection with major bleeding, nerve injury.
+Concept — The presentation localises the lesion: no inflow gives anuria, blocked outflow gives a swollen
+tender graft with haematuria, reduced inflow gives renin-driven hypertension and fluid overload — and
+the more acute the loss of flow, the more the answer is exploration rather than imaging.
+
+Kidney Transplant Immune Monitoring for Rejection
+ • Agents essentially unchanged for two decades; individualisation limited to sensitisation, infection,
+   previous rejection.
+ • Registry practice: over 90% receive induction; over 90% receive tacrolimus plus mycophenolic acid
+   maintenance; maintenance steroid use is rising, now more than two-thirds.
+
+
+
+                                                   page 14 of 16
+Chapter 91 — Renal Transplantation                                                      Kidney Transplantation Surgical Procedure
+ • Acute rejection has fallen from at least 60% in the precyclosporine era to below 10% today.
+ • Long-term outcomes have improved only modestly. Leading hypothesis: chronic antibody-mediated
+   injury against allograft antigens, subclinical until accumulated damage causes advanced dysfunction.
+ • Rejection is classified clinically or histologically; biopsy is required for accurate diagnosis.
+CLINICAL TYPES OF REJECTION
+ Type           Definition                                               Note
+ Hyperacute Preformed high-level DSA at transplant →                     Practically eliminated by histocompatibility
+            immediate severe injury and failure                          testing and crossmatching
+ Acute          Rejection with acute decline in graft function           —
+ Subclinical    Histological rejection without dysfunction (no fall in   Detected by surveillance biopsy or biomarkers
+                function, no proteinuria)
+ Chronic        Chronic deterioration with histology of chronic          —
+                changes superimposed on rejection
+
+ • Banff classification standardises histological diagnosis and severity grading, with prognostic value; it
+   recognises T-cell–mediated rejection (TCMR) and antibody-mediated rejection (AMR), with separate
+   inflammation and chronicity grades.
+ • Risk factors — prior or more intense immune activation: HLA mismatch, DSA, younger recipient and
+   older donor, ABO incompatibility, prolonged cold or warm ischaemia and DGF, non-adherence, repeat
+   transplant, previous rejection.
+ • Impact of acute rejection varies with timing, severity and functional recovery after treatment.
+
+Monitoring for Rejection
+REJECTION MONITORING TOOLS
+ Tool                        Detects           Strength                                    Limitation
+ Routine laboratory:         Graft             Universal baseline                          Detects only once dysfunction
+ eGFR from serum             dysfunction                                                   exists
+ creatinine, urinalysis
+ for cells and protein
+ DSA monitoring              AMR; risk-        De novo DSA strongly predicts               AMR can occur without
+                             stratifies        reduced graft survival — linked to          detectable DSA (non-HLA
+                             dysfunction       greater HLA mismatch, especially class      antibodies; testing not yet
+                                               II, and insufficient immunosuppression      standardised)
+ Surveillance biopsy         Subclinical       Histological diagnosis                      Used by a decreasing minority:
+                             rejection                                                     timing mismatch, sampling
+                                                                                           error, subjective early
+                                                                                           interpretation, time, cost,
+                                                                                           complication risk
+ Donor-derived cell-         Injury,           Negative predictive value >90% →            —
+ free DNA (dd-cfDNA)         especially AMR;   avoids unnecessary biopsy; prognostic
+                             subclinical       for function and DSA formation
+                             rejection
+ Gene-expression             Subclinical       —                                           —
+ panels                      rejection
+
+
+
+
+                                                        page 15 of 16
+Chapter 91 — Renal Transplantation                                                  Kidney Transplantation Surgical Procedure
+Treatment of Rejection
+ • Treatment is guided by histological type and grade, the degree of dysfunction, and DSA or other injury
+   markers (dd-cfDNA). Management of borderline rejection is debated.
+TREATMENT OF T-CELL–MEDIATED VERSUS ANTIBODY-MEDIATED REJECTION
+                     TCMR                           AMR
+ Standardisation     Established                    Not well standardised: depends on severity, coexisting TCMR,
+                                                    DSA and complement activation, chronic changes
+ First line          Intravenous steroids           Combinations of glucocorticoids, intravenous immunoglobulin
+                                                    (IVIG), plasmapheresis, rituximab; eculizumab in selected
+                                                    patients
+ Escalation          Antithymocyte globulin (ATG)   Newer: anti-interleukin-6 (IL-6) therapy, particularly for chronic
+                     for Banff grade II or III      active AMR
+
+Concept — Acute T-cell rejection has been largely conquered; the unsolved problem is slow, subclinical
+antibody injury, which is why monitoring has moved from creatinine towards DSA, dd-cfDNA and biopsy, and
+why AMR treatment remains unstandardised.
+
+
+
+
+                                                    page 16 of 16
+

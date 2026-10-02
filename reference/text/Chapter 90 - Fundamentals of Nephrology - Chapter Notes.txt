@@ -1,0 +1,1515 @@
+Chapter 90 — Fundamentals of Nephrology                                                                Introduction
+
+Chapter 90 — Fundamentals of Nephrology
+Campbell-Walsh-Wein Urology · Benjamin K. Canales and Muna Canales · Chapter Notes
+
+
+INTRODUCTION
+ • Why urologists need renal physiology: formal teaching is largely preclinical and the rest is learnt on the
+   job; nephrology cover is available, but four reasons justify retaining it.
+ • Early fluid and electrolyte management — the urologist primarily in charge who starts correct fluid,
+   electrolyte and perioperative treatment early may secure a better outcome than one who waits for a
+   consultant.
+ • Favourable perioperative outcomes — knowing which perioperative factors impair renal function allows
+   effective collaboration with anaesthetists to minimise kidney-related complications.
+ • Optimal management of kidney disease — pathophysiology informs the choice of surgical approach,
+   perioperative care and postoperative management.
+ • Collaborative care — a shared physiological language with nephrologists, oncologists and anaesthetists
+   improves multidisciplinary care.
+Concept — The kidney is the organ of homeostasis, so a urologist who operates on it, obstructs it, relieves it
+or doses drugs through it is altering volume, electrolytes and acid–base balance whether or not a
+nephrologist is present.
+
+OVERVIEW OF NORMAL STRUCTURE AND FUNCTION OF THE KIDNEY
+The Nephron
+ • About 1 million nephrons per kidney, tightly packed alongside blood vessels; each is a glomerulus (filters
+   fluid and small molecules from blood) plus its paired tubule.
+ • Tubule sequence: receives glomerular filtrate → reabsorbs the majority of filtered molecules → secretes
+   excess metabolic waste into the filtrate → concentrates it into final urine; together the nephrons of one
+   kidney excrete about 1–2 L of urine per day.
+ • Nephron number is fixed at birth and declines with age from about 25 years.
+ • Reduced nephron mass → hyperfiltration: after nephrectomy or with unilateral renal agenesis, remaining
+   nephrons increase single-nephron filtration to maintain glomerular filtration and homeostasis.
+ • Glomerulus: a tangle of capillaries lined internally by a single layer of endothelial cells and covered
+   externally by podocytes (visceral epithelial cells) — highly differentiated cells whose foot processes
+   interdigitate to form filtration slits bridged by slit diaphragms.
+ • Glomerular basement membrane (GBM): a collagen-based layer produced by endothelial cells, lying
+   between endothelium and podocyte.
+ • Filtration barrier = endothelium + GBM + podocyte; it regulates passage from blood to urine by size and
+   charge.
+ • Mesangium — a stalk of specialised cells and matrix that holds the capillary tuft together.
+ • Bowman's space: the capillary tuft invaginates into the initial tubule; this space is lined by parietal
+   epithelium, whereas the podocytes (visceral epithelium) form the barrier. Filtrate then passes proximal
+   tubule → loop of Henle → distal tubule → collecting duct.
+ • Glomerular landmarks (Fig. 90.2): afferent arteriole bearing juxtaglomerular granular cells and
+   sympathetic nerve endings; efferent arteriole; macula densa of the distal convoluted tubule;
+   extraglomerular mesangial cells; urinary space draining at the urinary pole into the proximal tubule.
+
+
+                                                   page 1 of 31
+Chapter 90 — Fundamentals of Nephrology                                               Measurement of Kidney Function
+Renal Structure and Blood Supply
+ • Four zones: cortex, outer medulla (outer stripe and inner stripe) and inner medulla. Fig. 90.1 maps
+   arcuate and interlobular arteries, vasa recta, loop limbs and cortical, outer and inner medullary collecting
+   ducts.
+ • All glomeruli lie in the cortex, but the pair differs in tubule length:
+     ◦ Cortical glomeruli — short tubules that do not travel deep into the medulla.
+     ◦ Juxtamedullary glomeruli — long tubules descending deep into the inner medulla; this matters for
+       medullary perfusion and ischaemic injury.
+
+Basic Renal Homeostatic Functions
+ • Excretion of waste and exogenous substances — nitrogenous waste from hepatic metabolism; drugs,
+   contrast and other ingested products or their breakdown products.
+ • Blood pressure and volume — sodium is the currency of volume: sodium retention raises blood volume,
+   excretion lowers it.
+     ◦ Renin–angiotensin–aldosterone system (RAAS) sequence: low renal perfusion pressure or
+       sympathetic activation → renin from specialised renal cells → angiotensin II (potent vasoconstrictor,
+       also directly increases renal sodium reabsorption) → adrenal aldosterone → distal sodium
+       reabsorption → volume retention.
+ • Acid–base, water and electrolyte balance between intracellular and extracellular compartments, held
+   within a tight range for cellular function.
+ • Erythropoietin — produced by renal interstitial fibroblasts in response to hypoxia; drives red cell
+   maturation in the marrow.
+ • Calcitriol (1,25-dihydroxyvitamin D, activated vitamin D) — hydroxylation of 25-hydroxyvitamin D in
+   proximal tubule cells, stimulated by raised parathyroid hormone or low calcium or phosphate; essential
+   for calcium–phosphate homeostasis and bone.
+Concept — Structure dictates vulnerability: the glomerulus is a pressure-driven filter whose output is set by
+arteriolar tone, and the tubule is an energy-hungry reclamation line whose deepest segments work at the
+edge of hypoxia; almost every disorder in this chapter is a failure of one or the other.
+
+MEASUREMENT OF KIDNEY FUNCTION
+ • Two settings, two approaches: steady state (function stable over time, as at a routine clinic visit) versus
+   dynamic state (acute fluctuation, as postoperatively).
+
+Measurement of Kidney Function in Steady State
+ • Glomerular filtration rate (GFR) is the standard index of kidney function, but it cannot be measured
+   directly.
+ • Gold standard: serial urinary or plasma clearance of an exogenous marker (inulin, iohexol, iothalamate)
+   — reliable but cumbersome and costly, so surrogates are used in practice; the most widely used is serum
+   creatinine (SCr).
+Serum Creatinine–Based Measures of Kidney Function
+ • Creatinine is a muscle breakdown product, freely filtered at the glomerulus — hence a good filtration
+   marker.
+ • Small active tubular secretion from peritubular capillaries into urine is negligible in health but becomes
+   an increasing share of creatinine excretion as function deteriorates.
+
+
+
+
+                                                    page 2 of 31
+Chapter 90 — Fundamentals of Nephrology                                                      Measurement of Kidney Function
+ • 24-hour creatinine clearance (SCr, 24-hour urine volume and urine creatinine → mL/min) is little used:
+   the collection is cumbersome and prone to under- or over-collection, and because of secretion it
+   overestimates GFR increasingly as renal function declines.
+ • SCr alone is insufficient because creatinine generation varies independently of kidney function — muscle
+   mass is the most important factor, varying with age, sex and race (Table 90.1).
+ • Estimating equations were derived in large, diverse populations with measured GFR, simultaneous
+   creatinine and demographic data, incorporating age, sex and, historically, race.
+ • Problem with a race coefficient: it raised estimated GFR (eGFR) in Black patients, affecting chronic kidney
+   disease (CKD) staging and drug dosing and potentially delaying nephrology or transplant referral.
+ • Current recommendation (American Society of Nephrology and National Kidney Foundation Task Force):
+   laboratories report the 2021 Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) creatinine
+   equation, using age and sex without race — derived in a diverse cohort and meeting performance
+   standards without disadvantaging any population. Online calculators make memorisation unnecessary.
+TABLE 90.1 SOURCES OF ERROR IN INTERPRETATION OF SERUM CREATININE AND SERUM CYSTATIN C
+ Factor                        Serum creatinine                               Serum cystatin C
+ Generation increased          Large muscle mass, high-protein diet, cooked   Hyperthyroidism, glucocorticoid excess,
+                               meat, creatine supplements                     obesity, inflammation, smoking
+ Generation decreased          Small muscle mass, limb amputation, muscle-    Hypothyroidism
+                               wasting disease
+ Tubular secretion             Drug inhibitors of secretion: trimethoprim,    Not applicable
+ decreased (level rises)       cimetidine, fenofibrate
+ Extrarenal elimination        Urine leak with peritoneal absorption;         —
+ decreased (level rises)       antibiotic inhibition of gut creatininase
+ Extrarenal loss increased     Dialysis; large extracellular fluid losses     Large extracellular fluid losses (pleural or
+ (level falls)                 (pleural or ascitic drainage)                  ascitic drainage)
+
+Modified from Gilbert SF, Weiner DE, Bomback AS, et al., National Kidney Foundation (NKF) Primer on Kidney Diseases,
+8th ed, 2022, Table 3.2.
+ • What the table is for: every row is a way the marker moves without GFR changing.
+ • Pattern: creatinine is confounded by muscle and diet; cystatin C by thyroid state, steroids and
+   inflammation — the two fail in different patients, which is why combining them improves accuracy.
+ • Traps: SCr rise on trimethoprim or cimetidine is blocked secretion, not injury; urine leak with peritoneal
+   reabsorption raises SCr without renal injury; SCr falls after large-volume drainage without better function.
+Serum Cystatin C–Based Measures of Kidney Function
+ • Cystatin C: a 13-kDa protein made by all nucleated cells, freely filtered, then completely reabsorbed and
+   degraded by the proximal tubule — so there should be little or none in urine in health.
+ • Not wholly GFR-specific: some non-GFR influences exist (Table 90.1).
+ • Cystatin C equations require age and sex adjustment but have never shown race dependence.
+ • Combined creatinine–cystatin C 2021 equation (without race) is more accurate than the creatinine-only
+   equation, with smaller differences between race groups.
+ • Indications: an adjunct to stage function when creatinine-based eGFR is likely biased (Table 90.1) or
+   when staging sits at a consequential threshold and confirmation is needed.
+ • Barriers: standardisation to a reference assay, higher cost than creatinine, clinician unfamiliarity — all
+   expected to ease with a central reference standard, better reimbursement and experience.
+
+
+
+
+                                                          page 3 of 31
+Chapter 90 — Fundamentals of Nephrology                                                          Measurement of Kidney Function
+TABLE 90.2 GFR-ESTIMATING EQUATIONS BASED ON SERUM CREATININE AND CYSTATIN C (2021 CKD-EPI; ML/MIN/
+1.73 M²)
+ Equation                 Formula                                                                Constants
+ Creatinine               142 × min(SCr/κ, 1)α × max(SCr/κ, 1)−1.200 × 0.9938age × 1.012         κ 0.7 female, 0.9 male; α
+                          if female                                                              −0.241 female, −0.302 male
+
+ Cystatin C               133 × min(Scys/0.8, 1)−0.499 × max(Scys/0.8, 1)−1.328 ×                No sex-specific κ or α
+                          0.996age × 0.932 if female
+ Creatinine–cystatin C    135 × min(SCr/κ, 1)α × max(SCr/κ, 1)−0.544 × min(Scys/0.8, 1)          κ 0.7 female, 0.9 male; α
+                          −0.323 × max(Scys/0.8, 1)−0.778 × 0.9961age × 0.963 if female          −0.219 female, −0.144 male
+
+min = lesser of the ratio or 1; max = greater of the ratio or 1; Scys = serum cystatin C. Gilbert et al., NKF Primer, 8th ed,
+2022, Table 3.1.
+ • Pattern: all three use age and sex; none uses race; each applies an age decay and a sex multiplier.
+ • Trap: the female multiplier is above 1 in the creatinine equation but below 1 in the cystatin C and
+   combined equations; the formulae need not be memorised.
+Urinary Protein Excretion
+ • Two defences against protein loss: the filtration barrier limits passage of albumin and non-albumin
+   protein, and the proximal tubule reclaims protein that enters filtrate → normal excretion <150 mg/day.
+ • Proteinuria >150 mg/day means either overproduction of non-albumin protein (paraproteins in multiple
+   myeloma) or damage to the barrier or tubules.
+ • Albuminuria is a sensitive marker of glomerular injury, because albumin excretion is controlled chiefly at
+   the filtration barrier.
+ • 24-hour albumin excretion needs concurrent creatinine to confirm completeness: expect urine creatinine
+   20–25 mg/kg/day in men, 15–20 mg/kg/day in women.
+ • Test hierarchy — Kidney Disease: Improving Global Outcomes (KDIGO) 2023: spot urine albumin-to-
+   creatinine ratio (ACR), preferably early-morning — first line → spot protein-to-creatinine ratio (PCR) if
+   ACR unavailable or large non-albumin proteinuria suspected (Bence Jones proteinuria) → reagent strip
+   (automated or manual reading) third line, confirmed by formal testing.
+ • Why ACR over PCR: albuminuria is more sensitive to glomerular injury and to risk of adverse outcomes,
+   and the assay is easier to standardise.
+ • Trap: the reagent strip detects albumin only and misses non-albumin protein such as light chains.
+ • Prognosis: large prospective cohorts establish rising albuminuria as an independent risk factor for CKD
+   progression, cardiovascular disease, stroke and death — hence KDIGO albuminuria categories (see
+   Chronic Kidney Disease).
+
+Measurement of Kidney Function in a Dynamic State
+ • eGFR equations are invalid when function is changing — an anuric critically ill patient in the first 12 hours
+   has a GFR of zero, whatever the creatinine-estimated GFR reads.
+ • Guidelines therefore use change in SCr and urine output together to identify acute kidney injury (AKI);
+   KDIGO currently incorporates only these two.
+ • Both are insensitive to early injury. Novel biomarkers — urine neutrophil gelatinase-associated lipocalin
+   (NGAL), urine cystatin C, kidney injury molecule-1 (KIM-1) — may detect early, subclinical injury and
+   predict recovery, pending further study.
+ • Kidney injury continuum (Fig. 90.3): normal → increased risk → damage → falling GFR → kidney failure →
+   death, with complications arising at each step. Biomarkers identify susceptibility and injury mechanisms
+
+
+                                                          page 4 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                  Acute Kidney Injury
+     during the window for early targeted intervention; creatinine and oliguria diagnose only once GFR has
+     fallen (staging); biomarkers may later track progression. GFR decline is a late, insensitive marker.
+Concept — Every kidney-function number rests on an assumption: creatinine assumes stable muscle mass
+and secretion, eGFR assumes a steady state, and the dipstick assumes the protein is albumin; identifying
+which assumption is broken tells you when the number is misleading.
+
+ACUTE KIDNEY INJURY
+ • Circulation of the nephron: afferent arteriole → glomerular capillary bed → filtration across endothelium,
+   GBM and podocytes into Bowman's space → efferent arteriole → peritubular capillaries alongside the
+   tubules → venous system.
+ • GFR is controlled by the Starling forces across the barrier — the balance of hydrostatic and oncotic
+   pressures favouring or opposing filtration. In health the drive is overwhelmingly toward filtration,
+   dominated by intracapillary hydrostatic pressure.
+ • Net filtration pressure (Fig. 90.4A): 10 mm Hg = glomerular hydrostatic 60 − Bowman's capsule 18 −
+   glomerular oncotic 32 mm Hg.
+ • Maintaining glomerular hydrostatic pressure is the foundation of GFR, achieved by adjusting relative
+   afferent and efferent tone; in AKI something interferes with this process.
+FIG. 90.4B ARTERIOLAR TONE, RENAL BLOOD FLOW AND NET ULTRAFILTRATION PRESSURE
+ Arteriolar change                                      Renal blood flow       Net ultrafiltration pressure (GFR)
+ Afferent resistance increased (constriction)           Falls                  Falls
+ Afferent resistance decreased (dilatation)             Rises                  Rises
+ Efferent resistance increased (constriction)           Falls                  Rises
+ Efferent resistance decreased (dilatation)             Rises                  Falls
+
+A from Hall JE, Guyton and Hall Textbook of Medical Physiology, 12th ed, 2011; B Gilbert et al., NKF Primer, 8th ed, 2022,
+Fig. 2.5.
+ • Pattern: afferent changes move flow and filtration pressure together; efferent changes move them in
+   opposite directions.
+ • Trap: efferent constriction lowers renal blood flow yet raises GFR — so blocking it (angiotensin II
+   blockade) drops GFR when perfusion is low.
+
+Definition of Acute Kidney Injury
+ • KDIGO defines AKI by change in SCr and/or urine output — either criterion alone suffices; stage is set by
+   the size of the SCr rise or the duration of oliguria. AKI can also be classified by cause (below).
+FIG. 90.5A KDIGO STAGES OF ACUTE KIDNEY INJURY
+ Stage          Serum creatinine criterion                                     Urine output criterion
+ 1              Rise ≥0.3 mg/dL or ×1.5 baseline                               <0.5 mL/kg/h for 6 h
+ 2              ×2 baseline                                                    <0.5 mL/kg/h for 12 h
+ 3              ×3 baseline, or SCr ≥4 mg/dL with an acute rise ≥0.5 mg/dL     <0.3 mL/kg/h for 24 h, or anuria for 12 h
+
+
+
+
+                                                       page 5 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                        Acute Kidney Injury
+FIG. 90.5B KDIGO FUNCTIONAL AND STRUCTURAL CRITERIA FOR KIDNEY CONDITIONS
+ Condition                                Functional criteria                                   Structural criteria
+ AKI                                      KDIGO AKI criteria (Fig. 90.5A)                       No criteria
+ Acute kidney diseases and                AKI; or GFR <60 for <3 months; or GFR fall ≥35% or Kidney damage for <3
+ disorders (AKD)                          SCr rise >50% for <3 months                        months
+ CKD                                      GFR <60 for >3 months                                 Kidney damage for >3
+                                                                                                months
+ No known kidney disease (NKD)            GFR ≥60, stable SCr                                   No kidney damage
+
+Gilbert et al., NKF Primer, 8th ed, 2022, Fig. 31.1.
+ • Pattern: the three-month mark divides acute from chronic; AKD captures subacute loss that meets neither
+   AKI nor CKD criteria.
+
+Epidemiology and Impact of Acute Kidney Injury
+ • AKI is common, costly and deadly. A large meta-analysis using KDIGO criteria found AKI in a minority of
+   community patients but in one-fifth to one-third of hospitalised patients; pooled mortality about one in
+   four, rising to about one in two when renal replacement therapy (RRT) is required.
+ • United States burden: over a million cases a year; several extra hospital days per episode; costs above 9
+   billion dollars annually; nearly 300,000 deaths — AKI raises mortality more than diabetes, prostate
+   cancer, breast cancer and heart failure combined.
+ • Even early-stage AKI confers excess risk of death, so understanding its mechanisms is needed to prevent
+   progression to RRT and death.
+
+Overview of Acute Kidney Injury Aetiology, Diagnosis, and Management
+ • Three categories: prerenal, intrinsic, postrenal (Fig. 90.6), grouped by compartment; acute tubular
+   necrosis (ATN) is the main intrinsic type.
+FIG. 90.6 CAUSES OF ACUTE KIDNEY INJURY BY COMPARTMENT
+ Category           Compartment                   Representative causes
+ Prerenal           Systemic perfusion            Hypovolaemia, cardiac failure, hepatorenal syndrome
+ Intrinsic          Renal artery                  Renal artery occlusion; large- or medium-vessel vasculitis
+ Intrinsic          Renal vein                    Renal vein thrombosis
+ Intrinsic          Small vessels                 Thrombotic microangiopathy, renal atheroembolism, small-vessel
+                                                  vasculitis
+ Intrinsic          Glomerulus                    Anti-GBM disease, lupus nephritis, postinfectious glomerulonephritis,
+                                                  infective endocarditis, membranoproliferative glomerulonephritis,
+                                                  cryoglobulinaemia, IgA nephropathy / Henoch–Schönlein purpura
+ Intrinsic          Tubule (ATN)                  Ischaemia, nephrotoxins, rhabdomyolysis, radiocontrast
+ Intrinsic          Interstitium (acute           Drugs, infections, systemic disease
+                    interstitial nephritis,
+                    AIN)
+ Intrinsic          Intratubular obstruction Cast nephropathy, drugs, crystalluria
+ Postrenal          Urinary outflow               Bladder outlet obstruction, tumours, calculi, papillary necrosis,
+                                                  retroperitoneal fibrosis
+
+Modified from Floege J, Johnson RJ, Feehally J, Comprehensive Clinical Nephrology, 4th ed, 2010, Fig. 66.1.
+
+ KEY POINTS: ACUTE KIDNEY INJURY
+   • AKI may be multifactorial, with several events conspiring to cause injury.
+
+
+                                                            page 6 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                      Acute Kidney Injury
+   • Speed of diagnosis matters: it allows insults to be reversed and further injury prevented.
+   • Prerenal AKI and ATN together cause nearly three-quarters of in-hospital AKI.
+
+
+Prerenal Acute Kidney Injury
+Illustrative case. Gastroenteritis in a hypertensive woman on lisinopril: hypotension, tachycardia, dry mucosa;
+SCr doubled, raised blood urea nitrogen (BUN); specific gravity 1.020, bland sediment, fractional excretion of
+sodium (FeNa) 0.5%. With resuscitation SCr fell to near baseline within 2 days (Fig. 90.7).
+
+ KEY POINTS: PRERENAL ACUTE KIDNEY INJURY
+   • Kidney structure is normal, so the urinalysis is bland — no active sediment.
+   • Correcting the prerenal insult produces immediate improvement.
+   • Drugs or conditions that impair autoregulation magnify the effect of a prerenal insult.
+   • FeNa is low because the kidney is reclaiming sodium to defend volume.
+
+Aetiology and Mechanisms
+ • Mechanism: volume depletion → reduced renal perfusion → fall in glomerular capillary hydrostatic
+   pressure → fall in GFR.
+ • Autoregulation holds renal blood flow and GFR almost constant across a wide range of mean arterial
+   pressure (Fig. 90.8), by dilating the afferent and constricting the efferent arteriole — maximising inflow,
+   restricting outflow.
+ • Juxtaglomerular apparatus = macula densa + glomerular tuft with its afferent and efferent arterioles (Fig.
+   90.2).
+THE TWO AUTOREGULATORY MECHANISMS
+                          Myogenic reflex                     Tubuloglomerular feedback (TGF)
+ Sensor                   Afferent arteriolar smooth          Macula densa (distal loop of Henle, abutting the tuft)
+                          muscle responding directly to       sensing tubular NaCl
+                          perfusion pressure
+ Response to low          Afferent dilatation,                Low NaCl delivery → renin from juxtaglomerular cells →
+ perfusion                prostaglandin-mediated              angiotensin II → efferent constriction; angiotensin II also
+                                                              raises proximal, and via aldosterone distal, sodium
+                                                              reabsorption
+ Response to high         Afferent constriction protects      —
+ pressure                 the glomerulus
+ Disabled by              Non-steroidal anti-                 RAAS blockade — abolishes efferent constriction
+                          inflammatory drugs (NSAIDs)
+                          — block prostaglandins
+
+ • Factors that magnify hypoperfusion by impairing autoregulation:
+     ◦ Structural (nonmodifiable) — older age, CKD, kidney transplantation, hypertension, vascular disease
+       alter renal vasculature so it responds poorly.
+     ◦ NSAIDs — prevent prostaglandin-mediated afferent dilatation.
+     ◦ Sepsis and hepatorenal syndrome — local renal vasoconstriction opposing efforts to maximise
+       perfusion.
+     ◦ Hypercalcaemia and radiocontrast — afferent vasoconstriction.
+     ◦ RAAS blockade (as in the case) — removes the efferent constriction needed to hold glomerular
+       pressure during ischaemia.
+
+
+
+                                                           page 7 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                        Acute Kidney Injury
+TABLE 90.3 NONMODIFIABLE AND MODIFIABLE RISK FACTORS FOR ACUTE KIDNEY INJURY
+ Nonmodifiable                                                   Modifiable
+ CKD, diabetes mellitus, older age, chronic liver disease,       Hypertension, hypoalbuminaemia, anaemia, sepsis,
+ congestive heart failure                                        nephrotoxic drugs
+ Renal artery stenosis, peripheral vascular disease,             Mechanical ventilation, hypercholesterolaemia,
+ acquired immunodeficiency syndrome (AIDS), prior                rhabdomyolysis, hypercalcaemia
+ kidney surgery
+
+Gilbert et al., NKF Primer, 8th ed, 2022, Table 31.4.
+ • Use: nonmodifiable factors identify who needs protection; modifiable ones are what the surgeon can
+   change before and after operation (drugs, sepsis, anaemia, ventilation, calcium).
+Diagnosis
+ • Weigh history, examination and laboratory data together to build a case for or against each type; real
+   patients rarely show every typical finding.
+ • History: large-volume losses; consider prerenal AKI even in a normotensive patient with decompensated
+   heart failure, sepsis or cirrhosis (impaired autoregulation, reduced perfusion). After surgery, review
+   intraoperative and postoperative haemodynamics for transient hypotension.
+ • Examination: tachycardia and hypotension — may be absent in low-flow states such as oedematous heart
+   failure, where history corroborates.
+ • Laboratory logic: normal tubules conserve sodium (>99% of filtered sodium can be reclaimed) and water,
+   and urea is passively reabsorbed.
+ • Urine sodium is unreliable when urine output is low → use FeNa; FeNa is misleading with new diuretic
+   therapy or metabolic alkalosis → use fractional excretion of urea (FeUrea). Both need simultaneous
+   serum and urine sodium or urea and creatinine; calculators are widely available.
+ • BUN:creatinine ratio >20:1 reflects passive urea reabsorption but is not a reliable discriminator, as non-
+   AKI factors alter it.
+ • High vasopressin (antidiuretic hormone, ADH) concentrates the urine; the response to correction is the
+   single most important test.
+PRERENAL ACUTE KIDNEY INJURY VERSUS ACUTE TUBULAR NECROSIS
+ Index                         Prerenal AKI                                    ATN
+ Urine sodium                  <20 mmol/L                                      Not low, typically >20 mmol/L
+ FeNa                          <1%                                             >1%
+ FeUrea (on diuretics or in    <35%                                            >35%
+ metabolic alkalosis)
+ Specific gravity              >1.015 (concentrated)                           <1.010 (dilute)
+ Sediment                      Bland: no significant proteinuria,              Sloughed tubular epithelial cells; muddy-
+                               haematuria or granular, red cell or white       brown granular casts (may be absent early)
+                               cell casts; red cells, white cells or hyaline
+                               casts do not exclude it
+ Response to removing          Immediate recovery                              Lag: SCr rise slows, plateaus, then recovers
+ insult                                                                        over days to weeks
+ Biopsy                        Rarely needed; normal parenchyma                Rarely needed; tubular injury with glomeruli
+                                                                               and interstitium intact
+
+ • Pattern: every prerenal index is a sign of working tubules defending volume; every ATN index is a sign of
+   tubules that can no longer conserve sodium or water.
+ • Trap: a high FeNa on a patient newly given diuretics does not prove ATN — use FeUrea.
+
+
+                                                          page 8 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                        Acute Kidney Injury
+Management
+ • Timely reversal of the prerenal state, tailored to cause: hypovolaemia → isotonic fluid; sepsis → treat
+   and give volume as needed; heart failure → diuretics and fluid restriction to improve forward flow and
+   decongest the kidneys; surgical patient with intraoperative hypotension → hold antihypertensives.
+ • Uncorrected prerenal AKI evolves into intrinsic injury; avoiding hypotension and further insults is
+   paramount.
+ • Hypotension is relative to the patient's baseline: a mean arterial pressure (MAP) >65 mm Hg maintains
+   GFR in healthy adults, but the autoregulatory curve shifts right in older patients with vascular disease, so
+   a "normal" MAP may be too low.
+FIG. 90.9 COMPOSITION OF INTRAVENOUS CRYSTALLOID SOLUTIONS
+ Fluid               Osmolarity (mOsm/L) Effective osmolarity Na                Cl       K            Buffer Glucose (g/dL)
+ Human plasma        308                      308                      135–144 95–105 3.5–5.3 23–30 0.07–0.11
+ 5% dextrose (D5) 252                         0                        0        0        0            0         5
+ D5 0.45% saline     406                      154                      77       77       0            0         5
+ D5 0.9% saline      560                      308                      154      154      0            0         5
+ 0.45% saline        154                      154                      77       77       0            0         0
+ 0.9% saline         308                      308                      154      154      0            0         0
+ Lactated Ringer's 273                        273                      130      109      4            28        0
+ Plasmalyte-148      294                      294                      140      98       5            50        0
+
+Electrolytes in mmol/L; rows run from hypotonic to isotonic. Data from Moritz ML, Ayus JC, N Engl J Med 2015.
+ • Dextrose is not an effective osmole — it is metabolised quickly, so a D5 solution behaves as its saline
+   base; D5 alone is effectively free water.
+ • Trap: lactated Ringer's and Plasmalyte are slightly hypotonic to plasma; only 0.9% saline (and D5 0.9%
+   saline) match plasma effective osmolarity.
+
+Intrinsic Acute Kidney Injury
+ • Injury to the parenchyma — tubules, interstitium or glomeruli, often more than one compartment.
+ • Unlike prerenal AKI, parenchymal injury takes time to recover.
+FIG. 90.12 INTRINSIC ACUTE KIDNEY INJURY CATEGORIES
+                    Acute tubular necrosis              Acute glomerulonephritis             Acute interstitial nephritis
+ Cause              Ischaemic or nephrotoxic agents     Immune-complex, cell-                Allergic or non-allergic
+                                                        mediated or anti-GBM
+ Clinical pearls    Tubulotoxin exposure or           Palpable purpura, recent               Recent infection, drug
+                    prolonged prerenal state (sepsis, infection, lupus or pulmonary–         exposure (antibiotic, NSAID,
+                    burns, gastrointestinal losses)   renal syndrome                         checkpoint inhibitor) or
+                                                                                             systemic disease
+ Pathology          Tubular damage                      Diffuse endocapillary or             Interstitial infiltrates
+                                                        mesangial proliferation
+ FeNa               >1%                                 >1% but may vary                     >1% but may vary
+ Urine              Sloughed tubular cells; granular    Low-grade proteinuria;               Urine eosinophils ± low-grade
+                    (muddy-brown) casts                 dysmorphic red cells, red cell       proteinuria; white cells, white
+                                                        casts                                cell casts
+
+Images: Gilbert et al., NKF Primer, 8th ed, 2022, Figs. 4.2b, 4.2d and 33.1.
+ • Pattern: the cast identifies the compartment — granular for tubule, red cell for glomerulus, white cell for
+   interstitium.
+
+
+                                                        page 9 of 31
+Chapter 90 — Fundamentals of Nephrology                                                        Acute Kidney Injury
+Acute Tubular Necrosis
+Illustrative case. A vasculopath with chronic obstructive pulmonary disease (COPD) is hypotensive during
+partial nephrectomy, then needs ventilation and vasopressors with minimal urine output: FeNa 3%, specific
+gravity 1.003, many granular casts. Haemodynamics recover in 2 days, yet SCr rises for about a week,
+plateaus, then falls (Fig. 90.10).
+ • ATN is a misnomer: injury extends beyond the tubules, and cell death is more often apoptosis than
+   necrosis.
+ • Two mechanisms: ischaemic and toxic.
+
+ KEY POINTS: ISCHAEMIC ACUTE TUBULAR NECROSIS
+   • Hospital ATN is often a combination of ischaemic and toxic insults.
+   • Whether ischaemic or toxic, the mechanisms that lower GFR are similar.
+   • The tubules are the most vulnerable site for hypoxic injury.
+   • Diagnosis is supported by a lag in improvement after insults are removed, muddy-brown granular casts,
+     and high urine sodium or FeNa.
+   • Recovery is possible but may take days to weeks.
+
+Ischaemic acute tubular necrosis.
+ • Cause: a prolonged or extreme prerenal state.
+ • Why tubules: they work at the brink of hypoxia even normally. The kidney receives about 25% of cardiac
+   output, but medullary flow is progressively lower than cortical because supply changes to
+   countercurrent flow in the vasa recta.
+ • Supply–demand mismatch (Fig. 90.11): tissue oxygen tension falls from 50–100 mm Hg in cortex to 10–
+   20 mm Hg in medulla (osmolality 300 → 1200 mOsm), while the heavy-workload segments — S3
+   segment of the proximal tubule and medullary thick ascending limb — have high oxygen consumption;
+   the outer medulla extracts a larger fraction of its oxygen supply than the heart, whereas the kidney as a
+   whole extracts little.
+ • GFR fall is multifactorial — haemodynamic change, endothelial damage and inflammation.
+ • Polarity sequence: healthy cells are tightly packed and polarised (apical brush border; basolateral Na⁺/K⁺-
+   ATPase) → prolonged ischaemia displaces Na⁺/K⁺-ATPase to the cytoplasm or apical membrane →
+   proximal sodium reabsorption fails → high sodium delivery to the macula densa activates TGF → afferent
+   vasoconstriction and RAAS shutdown → GFR falls.
+ • This apparently maladaptive GFR fall is protective: it cuts tubular workload and solute loss, giving time
+   for regeneration.
+ • If ischaemia persists: cell death (necrosis or, more commonly, apoptosis) → sloughing into the lumen →
+   intratubular obstruction and the pathognomonic muddy-brown granular casts — dead tubular cells
+   complexed with Tamm–Horsfall protein.
+ • Autoregulation is itself impaired in ATN (partly via endothelial injury), further lowering GFR and
+   heightening vulnerability to new insults; peritubular capillary endothelial injury worsens outer
+   medullary hypoxia; hypoxia-induced inflammation amplifies every step.
+ • Recovery (regeneration → restored polarity → full basement membrane coverage) takes days, weeks or
+   months; surviving cells are thought to dedifferentiate and proliferate to repopulate the tubule.
+Toxic acute tubular necrosis.
+Illustrative case. An obese man undergoes robotic nephroureterectomy in flexed lateral decubitus for over 5
+hours; SCr and urea more than double and creatine phosphokinase (CPK) peaks above 21,000 IU/L at 24
+
+
+                                                  page 10 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                 Acute Kidney Injury
+hours (normal 0–170). SCr improves slowly on 3–4 L/day lactated Ringer's. He never had limb pain —
+positional rhabdomyolysis can be silent.
+
+     KEY POINTS: TOXIC ACUTE TUBULAR NECROSIS
+       • Toxins injure through mechanisms that are not mutually exclusive: prerenal vasoconstriction causing
+         ischaemic tubular injury, direct tubular injury and intratubular obstruction.
+       • Patient factors increase susceptibility to a given toxin — for example diabetes and contrast-induced
+         injury.
+
+ • Same end pathways as ischaemic ATN; the trigger is an endogenous or exogenous toxin. Most hospital
+   ATN is mixed ischaemic and toxic.
+Postcontrast acute kidney injury.
+ • Definition: SCr rise typically within 48 hours of intravenous iodinated contrast — usually computed
+   tomography (CT) in urology. Also called contrast nephropathy.
+ • Mechanisms: prerenal vasoconstriction (→ ischaemic ATN if prolonged or combined with other insults)
+   and direct tubulotoxicity.
+ • Risk factors: older age, diabetes, CKD, anaemia, contrast volume and route (arterial versus venous).
+ • Prevention: intravenous fluid before contrast in hospitalised patients is the most effective measure;
+   optimal fluid and rate are unclear.
+ • Dialysis to remove contrast does not reduce risk, and dialysis patients given iodinated contrast do not
+   need urgent dialysis.
+ • Gadolinium-based magnetic resonance imaging (MRI) agents are not nephrotoxic at usual doses, but
+   groups I and III are linked to nephrogenic systemic fibrosis (NSF) — a progressive sclerosing disorder of
+   skin and internal organs with high mortality. Avoid them in AKI, CKD with eGFR <30 mL/min, and dialysis.
+   Group II agents have little or no association with NSF and may be considered in advanced kidney disease.
+TABLE 90.4 GROUPING OF GADOLINIUM-BASED MRI CONTRAST AGENTS BY RISK OF NEPHROGENIC SYSTEMIC
+FIBROSIS
+                                                                                                     Advanced kidney
+ Group        Definition                               Agents                                        disease
+ I            Most NSF cases; older renal              Gadodiamide (Omniscan), gadoversetamide       Avoid
+              restrictions apply; no longer            (OptiMARK), gadopentetate dimeglumine
+              advertised in the United States          (Magnevist)
+ II           Few, if any, confirmed NSF cases         Gadobenate dimeglumine (MultiHance),           May be
+                                                       gadoteridol (ProHance), gadobutrol (Gadovist), considered
+                                                       gadoterate meglumine (Dotarem)
+ III          Insufficient data to classify; few, if   Gadoxetate disodium (Eovist)                  Treated as group I
+              any, cases
+
+Gilbert et al., NKF Primer, 8th ed, 2022, Table 6.1.
+ • Trap: group III is not an intermediate-safety group — it is handled as group I out of caution; only group II
+   is acceptable in advanced disease.
+Myoglobin-induced injury.
+ • Mechanism: prolonged pressure in lateral decubitus → muscle necrosis → myoglobin release → three
+   routes: direct tubulotoxicity, intratubular precipitation and obstruction, and renal hypoperfusion from
+   fluid sequestration and inflammatory vasoconstriction → ischaemic tubular injury.
+
+
+
+
+                                                         page 11 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                   Acute Kidney Injury
+ • Urinary alkalinisation increases myoglobin solubility but has no proven benefit and risks electrolyte
+   harm.
+ • Treatment: prevent further muscle injury and give early aggressive isotonic volume resuscitation.
+Diagnosis of acute tubular necrosis.
+ • History of a prerenal or toxic insult leads — review all medications and exposures; urinary indices and
+   course as in the comparison table above.
+ • Granular casts may be absent early or missed through operator error.
+ • Biopsy only if recovery lags despite removed insults and clinical improvement, or other AKI types are
+   suggested (Fig. 90.12).
+Management of acute tubular necrosis.
+ • Remove prerenal and toxic insults and prevent further ones — "avoid hypotension and nephrotoxic
+   agents"; this is the heart of recovery, since autoregulation is impaired in every AKI.
+ • Avoid hypotension relative to baseline; hold antihypertensives if needed; stop RAAS blockers and
+   NSAIDs unless essential.
+ • Dialysis for life-threatening electrolyte disturbance, volume overload or uraemia not controlled medically
+   (Table 90.5); it may be temporary or permanent, depending on severity, persistence and comorbidity;
+   dialysis for weeks to months before recovery is rare.
+ • Diuretics have one role only: symptomatic volume overload from reduced urine output — they do not
+   treat ATN.
+TABLE 90.5 INDICATIONS FOR DIALYSIS USING THE MNEMONIC AEIOU
+ Indication                    Key features
+ Acidosis                      Metabolic acidosis unresponsive to bicarbonate, if appropriate
+ Electrolyte abnormalities     Most commonly hyperkalaemia
+ Ingestions                    Most water-soluble compounds are dialysable; salicylates, alcohols and lithium
+                               commonly need dialysis
+ Overload                      Volume overload causing respiratory distress unresponsive to other means of fluid
+                               removal
+ Uraemia                       Subjective: malaise, altered (often metallic) taste, poor appetite, hypersomnia, tremor,
+                               altered mental state
+
+ • Pattern: each indication is refractory to medical therapy — AEIOU identifies failures of medical
+   management, not biochemical thresholds.
+Acute Interstitial Nephritis (AIN)
+Illustrative case. Ten days after open urethroplasty a young man has nausea, metallic taste and anorexia; SCr
+risen fivefold; urine shows many white cells, occasional eosinophils, trace protein, sodium 50 mmol/L;
+echogenic kidneys without hydronephrosis. Biopsy: AIN; a 3-week prednisone taper restores baseline SCr.
+
+ KEY POINTS: ACUTE INTERSTITIAL NEPHRITIS
+   • Infection and systemic disease can cause AIN, but drugs — particularly antibiotics and NSAIDs — are
+     the commonest cause at all ages.
+   • AIN belongs in the differential diagnosis of sterile pyuria.
+   • Timely identification and removal of the offending agent is the key to treatment.
+
+
+
+
+                                                       page 12 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                   Acute Kidney Injury
+Aetiology and mechanisms.
+ • Acute infiltration of the interstitium by inflammatory cells, with oedema; the interstitium is normally a
+   tiny compartment because tubules are packed closely.
+ • Hypersensitivity reaction to an antigen — usually a drug or pathogen. GFR falls through mainly cell-
+   mediated (also antibody-mediated) injury → tubular damage, vascular injury and possibly obstruction
+   from interstitial oedema.
+ • Drugs cause the large majority; infection a smaller share (Table 90.6).
+ • Infective AIN: consider in complicated urinary tract infection with Escherichia coli, Campylobacter or
+   streptococci plus acute SCr rise.
+ • Systemic causes (rare): sarcoidosis, systemic lupus erythematosus (SLE).
+ • Timing: classically a few days to weeks after starting the drug; rarely later in therapy.
+ • Biopsy (Fig. 90.13): diffuse interstitial infiltrate, severe tubular injury with tubulitis (lymphocytes crossing
+   the tubular basement membrane), and eosinophils.
+TABLE 90.6 COMMON DRUGS ASSOCIATED WITH ACUTE INTERSTITIAL NEPHRITIS
+ Drug class                  Examples (commonest in bold)
+ Antibiotics                 β-lactams, sulfonamides, fluoroquinolones, rifampicin, vancomycin, erythromycin,
+                             ethambutol, chloramphenicol
+ Antivirals                  Aciclovir, atazanavir, abacavir, indinavir
+ Analgesics                  NSAIDs, selective cyclo-oxygenase-2 (COX-2) inhibitors
+ Gastrointestinal            Proton pump inhibitors (PPIs), H₂-receptor blockers, 5-aminosalicylates
+ Anticonvulsants             Phenytoin, carbamazepine, phenobarbital
+ Diuretics                   Hydrochlorothiazide, furosemide, triamterene, chlorthalidone
+ Anticancer                  Tyrosine kinase inhibitors, immune checkpoint inhibitors, B-RAF inhibitors
+ Other                       Allopurinol, Chinese herbs
+
+Gilbert et al., NKF Primer, 8th ed, 2022, Table 33.2.
+ • Urological relevance: the commonest culprits are the drugs urologists prescribe daily — penicillins,
+   cephalosporins, fluoroquinolones, ibuprofen, ketorolac — and checkpoint inhibitors in uro-oncology.
+Diagnosis.
+ • Consider AIN in any unexplained hospital AKI. Review outpatient drugs and the inpatient medication
+   administration record; the temporal link between exposure and AKI is critical.
+ • Extrarenal hypersensitivity (low-grade fever, maculopapular rash, arthralgia, peripheral eosinophilia,
+   transaminitis) may occur but is usually absent.
+ • AIN is the commonest biopsy lesion in AKI on immune checkpoint inhibitors (atezolizumab,
+   pembrolizumab, nivolumab).
+ • No single test is diagnostic. Peripheral eosinophilia in context raises suspicion; urinalysis may be bland
+   but usually shows white cells — AIN is in the differential of sterile pyuria; white cell casts or red cells are
+   less common.
+ • Urine eosinophils (Hansel stain) — the board-examination association is misleading: they are insensitive
+   in biopsy-proven AIN and also found in other diagnoses.
+ • Proteinuria usually <1 g/day; urine sodium and FeNa usually not low.
+ • Nephrology consultation to decide biopsy versus empirical treatment.
+Management.
+ • Mainstay: stop the offending drug or treat the offending pathogen.
+
+
+                                                          page 13 of 31
+Chapter 90 — Fundamentals of Nephrology                                                        Acute Kidney Injury
+ • Early corticosteroids improved renal recovery in observational studies (no randomised trials), suppressing
+   T-cell inflammation and perhaps fibrosis; oral and intravenous pulse steroids are equally effective in
+   prospective studies.
+ • Prognosis: only about half of antibiotic-induced AIN returns to baseline; NSAID-associated AIN carries a
+   poor prognosis.
+ • Systemic or infective AIN: treat the underlying process.
+Acute Glomerulonephritis
+Illustrative case. An elderly never-smoker referred for microhaematuria has a palpable purpuric rash,
+hypertension, SCr doubled in 4 days and red cell casts — admitted for rapidly progressive
+glomerulonephritis, not cystoscopy.
+
+ KEY POINTS: ACUTE GLOMERULONEPHRITIS
+   • Glomerulonephritis is in the differential diagnosis of microscopic haematuria.
+   • Clues to glomerular haematuria include an acute SCr rise and proteinuria.
+   • Acute glomerulonephritis needs early nephrology review and kidney biopsy for diagnosis.
+
+ • Third injurable compartment: the glomerulus and its microvasculature.
+ • Nephrotic versus nephritic patterns: nephrotic diseases (focal segmental glomerulosclerosis, minimal
+   change disease, membranous nephropathy) can cause AKI but usually present insidiously with
+   proteinuria or a creeping SCr; nephritic disease is the acute, haematuric pattern.
+ • Urological point of contact: haematuria. Background, diagnosis and management of acute
+   glomerulonephritis are in the electronic version.
+
+Postrenal Acute Kidney Injury
+ • Covered under Urinary Tract Obstruction and Obstructive Uropathy (below and electronic version).
+
+Management of Complications of Acute Kidney Injury
+ • Commonest life-threatening complications: hyperkalaemia, acidaemia, volume overload and uraemia,
+   arising while the cause is being treated; hyperkalaemia and acidaemia are covered under electrolyte and
+   acid–base disorders.
+Volume Overload
+ • Urgent only when causing respiratory distress (or wound-healing problems from oedema); oedema or
+   effusion alone does not demand urgent action.
+ • Medical management: sodium and fluid restriction plus intravenous diuretics.
+ • Diuretic rules in AKI: higher doses are needed → escalate the dose if the previous one failed → redose
+   according to the drug's half-life for further removal → loop diuretics first line, adding a thiazide
+   (metolazone, intravenous chlorothiazide) or carbonic anhydrase inhibitor (acetazolamide) for sequential
+   blockade of sodium reabsorption.
+ • Continuous infusion versus scheduled boluses give similar 24-hour net diuresis; choice rests on logistics
+   — reassessment, redosing and the higher level of care an infusion requires.
+
+
+
+
+                                                 page 14 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                     Acute Kidney Injury
+TABLE 90.7 COMMON DIURETICS AND DOSING
+                  Bioavailability oral /              Equivalent dose oral / intravenous Duration
+ Drug             intravenous (%)                     (mg)                               (h)               Dosing interval
+ Furosemide       50, variable / 100                  40 / 20                                6             Daily to 6-
+                                                                                                           hourly
+ Bumetanide       80–90 / 100                         1/1                                    6             Daily to 12-
+                                                                                                           hourly
+ Torsemide        80–90 / 100                         20 / 20                                8–12          Daily to 12-
+                                                                                                           hourly
+ Ethacrynic       100 / 100                           50 / 50                                6             Daily to 8-
+ acid                                                                                                      hourly
+
+From Partin AW, Dmochowski RR, Louis R, editors, Campbell Walsh Wein Urology, 12th ed, 2020, Chapter 87, Table 7.
+ • Pattern: only furosemide has poor, variable oral absorption, so its oral dose is double the intravenous
+   dose; the others are dosed the same by either route.
+ • Torsemide lasts longest (8–12 hours); the rest about 6 hours.
+Uraemia
+ • Symptoms (subjective): malaise, poor appetite, dysgeusia, tremor — often confounded by other causes in
+   hospital.
+ • Signs: increasing somnolence, confusion, asterixis, myoclonus, coarse tremor; a pericardial rub from
+   uraemic pericarditis is rare in AKI; prolonged uraemia → obtundation and aspiration.
+ • No medical therapy reverses the neurocognitive effects.
+ • Uraemic platelet dysfunction and bleeding → desmopressin (1-deamino-8-D-arginine vasopressin,
+   DDAVP) 0.3 µg/kg intravenously or intramuscularly, at the time of bleeding or 30–60 minutes before a
+   procedure, redosed 12-hourly; efficacy not tested in high-quality studies. Tachyphylaxis after 3 doses —
+   avoid prolonged use; monitor for hyponatraemia, hypertension and thrombosis.
+Renal replacement therapy.
+ • Indication: progressive uraemia, hyperkalaemia, acidaemia or volume overload refractory to medical
+   therapy — to prevent death. Goal: clear electrolytes and toxins and remove fluid.
+ • Commonest inpatient modality: conventional intermittent haemodialysis through an urgently placed
+   temporary dual-lumen 10–12 French catheter in the jugular or femoral vein; dialysate runs
+   countercurrent to blood through the filter.
+CLEARANCE MECHANISMS IN RENAL REPLACEMENT THERAPY
+                       Diffusion                                    Convection
+ Driving force         Concentration gradient across the filter     Transmembrane pressure
+ What moves            Electrolytes and toxins, in or out of        Isotonic fluid, with solute carried along by solvent
+                       blood                                        drag
+ Result                Solute clearance                             Volume removal plus additional solute clearance
+
+ • Continuous RRT for haemodynamic instability — clearance and volume removal spread over longer
+   periods with greater stability.
+ • Trial evidence: no benefit from starting dialysis early, before life-threatening complications; continuous
+   modalities are not superior to intermittent dialysis for renal recovery or mortality.
+
+
+
+
+                                                        page 15 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                Chronic Kidney Disease
+ • Outcomes of AKI: complete recovery; partial recovery (dialysis-independent but reduced function); non-
+   recovery (dialysis-dependent AKI). Persistence for 90 days or more redefines these as CKD or end-stage
+   kidney disease (ESKD) respectively.
+Concept — Location decides behaviour: prerenal AKI is a pressure problem in a structurally normal kidney, so
+tubules still conserve sodium and function returns the moment perfusion does, whereas intrinsic AKI damages
+the machinery itself, so sodium leaks, urine is dilute and recovery lags correction. Every diagnostic index in AKI
+is ultimately a test of whether the tubule still works.
+
+CHRONIC KIDNEY DISEASE
+Illustrative case. A diabetic, hypertensive man awaiting partial nephrectomy has stable eGFR 43 mL/min/1.73
+m² and ACR 1.1 g/g (1100 mg/g) and fears dialysis: stage G3bA3 — very high risk of complications,
+progression and adverse outcomes.
+
+Definition and Epidemiology
+ • KDIGO: abnormal kidney function or structure persisting for at least 3 months.
+ • Function = GFR and urinary albumin excretion; persistent abnormality in either qualifies.
+ • Structure alone qualifies — a congenitally atrophic kidney with preserved GFR and no albuminuria is, by
+   definition, CKD.
+ • Risk of complications, cardiovascular disease and death rises with worsening GFR and albuminuria →
+   classification by cause, GFR category and albuminuria category (Fig. 90.16).
+FIG. 90.16 KDIGO GFR AND ALBUMINURIA CATEGORIES AND PROGNOSTIC RISK
+                                          A1 normal–mildly           A2 moderately increased:   A3 severely increased:
+                                          increased: ACR <30 mg/g    30–300 mg/g (3–30 mg/      >300 mg/g (>30 mg/
+ GFR category (mL/min/1.73 m²)            (<3 mg/mmol)               mmol)                      mmol)
+ G1 normal or high, ≥90                   Low (no CKD without        Moderate                   High
+                                          other markers)
+ G2 mildly decreased, 60–89               Low (no CKD without        Moderate                   High
+                                          other markers)
+ G3a mildly to moderately                 Moderate                   High                       Very high
+ decreased, 45–59
+ G3b moderately to severely               High                       Very high                  Very high
+ decreased, 30–44
+ G4 severely decreased, 15–29             Very high                  Very high                  Very high
+ G5 kidney failure, <15                   Very high                  Very high                  Very high
+
+A3 includes nephrotic range. Most United States adults sit in G1–G2 A1. From KDIGO CKD Work Group, KDIGO 2012
+Clinical Practice Guideline, Kidney Int Suppl 2013 (prevalence data: National Health and Nutrition Examination Survey,
+1999–2006).
+ • Pattern: risk rises synergistically down and across the grid — albuminuria can move a patient two risk
+   bands without any change in GFR.
+ • Trap: G1 and G2 are CKD only with albuminuria or structural damage; G3–G5 qualify on GFR alone, but
+   albuminuria is still needed to classify risk.
+ • Prevalence: over 30 million people in the United States and over 700 million worldwide.
+ • Commonest causes: prolonged or poorly controlled diabetes and hypertension, in the United States and
+   worldwide. Others: glomerular disease with liver, autoimmune, cardiovascular disease or infection;
+   nephrolithiasis; chronic obstruction; genetic kidney disease.
+
+
+
+                                                         page 16 of 31
+Chapter 90 — Fundamentals of Nephrology                                                                  Chronic Kidney Disease
+TABLE 90.8 RISK FACTORS FOR DEVELOPMENT OR PROGRESSION OF CHRONIC KIDNEY DISEASE
+ Modifiable                                                             Nonmodifiable
+ Albuminuria, hypertension, episodes of AKI, underlying cause           Elevated plasma soluble urokinase receptor
+ of kidney disease                                                      (suPAR), APOL1 alleles
+ Obesity, hyperlipidaemia, smoking, high-protein diet                   Black or Native American race, male sex, older age
+ Metabolic acidosis, hyperphosphataemia, hyperuricaemia,                Family history of kidney disease, low birth weight
+ hyperglycaemia
+
+Gilbert et al., NKF Primer, 8th ed, 2022, Table 50.2.
+ • Surgical relevance: each perioperative AKI episode is itself a modifiable risk factor for CKD progression.
+
+Diagnosis
+ • Creatinine-based eGFR plus albuminuria, measured as described under Measurement of Kidney
+   Function.
+ • Renal imaging, usually ultrasound, in any suspected or unevaluated CKD to assess structural damage.
+ • Targeted evaluation of cause, tailored to history, under nephrology direction.
+
+Management of CKD Complications
+Anaemia
+ • Erythropoietin (EPO) production falls with advancing CKD, particularly below GFR 30 mL/min/1.73 m² →
+   progressive normocytic, normochromic anaemia.
+ • Treatment sequence: ensure iron repletion and exclude other causes → EPO or equivalent, subcutaneous
+   or intravenous.
+ • Target haemoglobin 10–11.5 g/dL in non-dialysis CKD and ESKD (KDIGO CKD 2023); randomised trials
+   showed harm when anaemia was corrected above 13 g/dL.
+Bone and Mineral Metabolism
+ • Secondary hyperparathyroidism (HPT) develops progressively: reduced phosphate excretion, reduced
+   1,25-vitamin D production and hypocalcaemia drive a normal parathyroid gland to respond.
+ • Biochemical phenotype: low to low-normal calcium, high-normal to high phosphate, raised intact
+   parathyroid hormone (PTH).
+ • Unchecked → bone disease and vascular calcification, contributing to excess cardiovascular risk and
+   death.
+ • Treatment reverses the drivers: dietary phosphate restriction, phosphate binders taken with meals to
+   chelate gut phosphate, and 1,25-vitamin D.
+SECONDARY VERSUS TERTIARY HYPERPARATHYROIDISM IN CKD
+                          Secondary                           Tertiary
+ Gland                    Normal gland responding             Autonomous hyperfunction after prolonged untreated
+                          appropriately to CKD                secondary HPT
+                          biochemistry
+ Calcium                  Low to low-normal                   Unchecked hypercalcaemia; PTH unresponsive to
+                                                              correction of calcium and phosphate
+ Treatment                Phosphate restriction, binders,     Calcimimetics (stimulate the parathyroid calcium-sensing
+                          1,25-vitamin D                      receptor) → subtotal parathyroidectomy if refractory
+
+Acidaemia
+ • Causes: increased non-volatile acid production, increased bicarbonate loss and impaired renal acid
+   excretion.
+
+
+                                                        page 17 of 31
+Chapter 90 — Fundamentals of Nephrology                                                    Chronic Kidney Disease
+ • Alkali therapy (sodium bicarbonate or sodium citrate) to keep serum bicarbonate ≥22 mEq/L (KDIGO).
+ • Randomised trials: correcting acidaemia slows CKD progression and benefits bone health and nutrition.
+Hyperkalaemia
+ • Renal potassium clearance needs two things: sodium delivery to the distal nephron and aldosterone to
+   drive distal sodium–potassium exchange.
+ • Advanced CKD reduces distal sodium delivery; RAAS blockade creates a low-aldosterone state.
+ • Dietary potassium restriction limits fresh fruit and vegetables → preferred strategy is potassium binders
+   and diuretics, preserving beneficial RAAS blockers and a healthy diet.
+Hypertension
+ • Hypertension is both a cause and a consequence of CKD; worsening function impairs sodium handling
+   and causes volume retention.
+ • Regimens need scheduled diuretics to address volume excess. Loop diuretics were traditional in late CKD,
+   but thiazide or thiazide-like diuretics, particularly chlorthalidone, are effective and well tolerated in
+   advanced CKD.
+Sexual Dysfunction
+ • Sexual dysfunction worsens as GFR declines. Up to half of men with CKD or ESKD report reduced libido
+   and erectile dysfunction, with less frequent intercourse and poorer quality of life — independent of other
+   chronic comorbidity.
+ • Women: amenorrhoea and infertility as GFR falls; pregnancy rates markedly reduced in advanced CKD and
+   ESKD.
+ • Putative mechanisms: peripheral vascular disease, autonomic dysfunction, peripheral neuropathy,
+   hypogonadism, mood disorders, hyperprolactinaemia, medication effects.
+ • Reversibility: variable improvement with dialysis, more reliable improvement after transplantation —
+   but not normalisation.
+ • Phosphodiesterase type 5 (PDE5) inhibitors may be effective in men.
+ • Under-addressed by providers, possibly from discomfort with the topic.
+Progression of Chronic Kidney Disease and Cardiovascular Risk
+ • First principle: manage the underlying disorder. Foundations: glycated haemoglobin (HbA1c) <7.5% and
+   blood pressure <130/80 mm Hg.
+ • Blood pressure control matters more than agent choice, except in proteinuric disease (with or without
+   diabetes), where RAAS blockade slows progression and lowers cardiovascular risk.
+ • Finerenone — a non-steroidal selective mineralocorticoid receptor antagonist — reduces CKD progression
+   and cardiovascular events in CKD with type 2 diabetes.
+ • Sodium–glucose cotransporter-2 (SGLT2) inhibitors give reno- and cardioprotection and a mortality
+   benefit in large randomised trials, in diabetic and non-diabetic patients alike.
+ • Progression is non-linear: long plateaus punctuated by rapid decline, accelerated by non-adherence, poor
+   diabetes and blood pressure control, nephrotoxins, sepsis and surgical complications.
+ • Risk calculators predict progression to dialysis after nephrectomy or partial nephrectomy, using baseline
+   kidney function — the answer to the fearful patient in the case.
+Concept — CKD is staged on two axes because they carry independent risk: GFR measures how much kidney
+remains, albuminuria how actively it is being damaged. Each complication — anaemia, bone disease,
+acidosis, hyperkalaemia, hypertension — is simply the loss of one of the homeostatic functions described in
+the overview.
+
+
+                                                 page 18 of 31
+Chapter 90 — Fundamentals of Nephrology                                 Common Electrolyte and Acid–Base Abnormalities
+
+COMMON ELECTROLYTE AND ACID–BASE ABNORMALITIES
+Sodium Disorders
+Illustrative case. After 4 days of watery diarrhoea, drinking only water, a hypotensive, tachycardic woman is
+confused with sodium 122 mmol/L, potassium 3.0 and bicarbonate 20 mmol/L.
+
+ KEY POINTS: SODIUM DISORDERS
+   • Sodium disorders are largely disorders of water balance, not sodium balance.
+   • Low serum sodium reflects water excess relative to sodium; high serum sodium reflects water deficit
+     relative to sodium.
+   • If onset was more than 48 hours ago or is unknown, correct very slowly, with frequent sodium checks
+     and adjustment for rapid change, to prevent irreversible neurological injury.
+
+ • Five organising principles:
+    1. Volume status and water balance are separate entities.
+    2. Volume status is a clinical diagnosis — profuse diarrhoea, hypotension, tachycardia and orthostasis
+       indicate hypovolaemia; dyspnoea, orthopnoea, jugular venous distension and oedema with cardiac
+       dysfunction indicate hypervolaemia.
+    3. Sodium is the currency of volume, so urine sodium is an adjunct to clinical assessment — low urine
+       sodium suggests a low-volume state.
+    4. Sodium disorders are disorders of water balance.
+    5. Water balance is a biochemical diagnosis — low sodium means water excess, high sodium means
+       water deficit.
+ • Sites: most sodium and water is handled by the proximal tubule, then loop of Henle and distal convoluted
+   tubule, but the principal cells of the distal nephron are the key site of water regulation.
+ • Requirement 1 — concentrated medullary interstitium: the ascending limbs are the only segments that
+   absorb sodium while impermeable to water, building the osmotic gradient that later draws water out of
+   the collecting duct (reabsorbed water = concentrated urine = high urine osmolality).
+ • Requirement 2 — apical aquaporin 2 (AQP2): distal water reabsorption is impossible unless AQP2 is
+   translocated to the apical membrane of principal cells, under ADH (vasopressin) acting on the
+   basolateral vasopressin type 2 (V2) receptor.
+ • ADH (Fig. 90.17): made in the hypothalamus, secreted from the posterior pituitary; released in response
+   to raised plasma osmolality, low mean arterial pressure or low blood volume — the most potent stimuli
+   are volume depletion and hyperosmolarity; hypothalamic osmoreceptors also drive thirst; V2 action in
+   the medullary and papillary collecting ducts upregulates AQP2 production and insertion.
+ • Serum osmolality = 2 × Na + glucose/18 + BUN/2.8 (glucose and BUN in mg/dL) — sodium is the
+   dominant contributor.
+ • Feedback: high sodium → thirst and ADH → water retained if available and the medulla is concentrated;
+   hypo-osmolality → thirst and ADH suppressed → water diuresis.
+ • Volume depletion overrides hypo-osmolality — the case: diarrhoeal sodium and water loss → volume
+   depletion → ADH and water avidity despite falling osmolality → solute-free water intake →
+   hyponatraemia.
+Water distribution.
+ • Total body water (TBW) = 0.6 × weight (kg): intracellular two-thirds, extracellular one-third; extracellular
+   = interstitial three-quarters, intravascular one-quarter.
+
+
+                                                  page 19 of 31
+Chapter 90 — Fundamentals of Nephrology                                              Common Electrolyte and Acid–Base Abnormalities
+ • Osmotic forces govern intracellular ↔ extracellular movement: isotonic fluid does not enter cells;
+   hypotonic fluid distributes two-thirds to cells.
+ • Starling forces govern interstitial ↔ intravascular movement, so whatever the tonicity, only one-quarter
+   of the extracellular share stays in vessels. 1 L of free water leaves only about 83 mL intravascular.
+FIG. 90.18 DISTRIBUTION OF 1 L OF INTRAVENOUS FLUID BETWEEN BODY COMPARTMENTS
+ Fluid                                         Intracellular (mL)            Interstitial (mL)        Intravascular (mL)
+ 5% dextrose in water (D5W)                    666                           250                      83
+ 0.45% saline; D5 0.45% saline                 333                           500                      167
+ 0.9% saline; D5 0.9% saline                   0                             750                      250
+ Lactated Ringer's                             76                            693                      232
+ Plasmalyte-148                                30                            728                      242
+ 5% albumin                                    0                             0                        1000
+
+Assumes plasma osmolarity 308 mOsm/L.
+ • Pattern: dextrose adds nothing to distribution (not an effective osmole); only colloid stays in the vessel.
+ • Trap: even 0.9% saline leaves only a quarter of each litre intravascular.
+Hyponatraemia
+ • First confirm hypo-osmolality (measured serum osmolality) before using the algorithm (Fig. 90.19).
+     ◦ Hyperosmolar hyponatraemia → another effective osmole, typically hyperglycaemia: glucose not
+       entering cells becomes effective, draws water out of cells and dilutes sodium — not true
+       hyponatraemia; apply a glucose correction factor.
+     ◦ Iso-osmolar (pseudohyponatraemia): extreme hyperlipidaemia or paraproteinaemia interfering with
+       measurement — largely eliminated by newer methods.
+ • Hospital hyponatraemia is most commonly hypo-osmolar, classified by volume status, urine sodium and
+   urine osmolality.
+FIG. 90.19 DIAGNOSTIC APPROACH TO HYPO-OSMOLAR HYPONATRAEMIA
+ Volume status                    Urine test                        Causes
+ Hypovolaemic: hypotension,       Urine Na >20 mmol/L               Diuretic excess, mineralocorticoid deficiency, osmotic
+ tachycardia, no oedema           (renal loss)                      diuresis, cerebral salt wasting
+ Hypovolaemic                     Urine Na <20 mmol/L               Vomiting, diarrhoea
+                                  (extrarenal loss)
+ Euvolaemic: no oedema,           Urine osmolality high             Syndrome of inappropriate ADH (SIADH), glucocorticoid
+ blood pressure not low           (above serum)                     deficiency, hypothyroidism, stress, drugs
+ Euvolaemic                       Urine osmolality low              Psychogenic polydipsia and low-solute intake
+ Hypervolaemic: oedema,           Urine Na >20 mmol/L               Acute or chronic kidney failure
+ variable blood pressure and
+ heart rate
+ Hypervolaemic                    Urine Na <20 mmol/L               Nephrotic syndrome, cirrhosis, heart failure
+
+Urine osmolality compared with serum osmolality. Modified from Johnson RJ, Floege J, Tonelli M, Comprehensive Clinical
+Nephrology, 7th ed, 2023.
+ • Hypo- and hypervolaemic states share low effective circulating (intravascular) volume → kidney reclaims
+   sodium (low urine sodium) → ADH and thirst appropriately stimulated → concentrated urine plus drinking
+   → hyponatraemia.
+ • Euvolaemic with urine osmolality above serum → ADH present without a stimulus ("inappropriate"):
+   extreme pain or nausea, drugs, infection, central nervous system (CNS) disease, paraneoplastic. With no
+
+
+                                                          page 20 of 31
+Chapter 90 — Fundamentals of Nephrology                                  Common Electrolyte and Acid–Base Abnormalities
+   culprit it is SIADH — a diagnosis of exclusion after CKD, thyroid disease, adrenal disease and diuretics are
+   excluded.
+ • Euvolaemic with low urine osmolality → ADH appropriately absent; water intake has outrun excretion,
+   which is solute-limited: maximum dilution about 100 mOsm/L, so 1000 mOsm of daily solute permits up
+   to 10 L water excretion, but 100 mOsm permits only 1 L. Terms: psychogenic polydipsia, beer potomania,
+   "tea and toast" diet.
+ • Treatment by cause: hypovolaemia → isotonic fluid (the case); heart failure → diuresis to improve
+   effective circulating volume; SIADH → free-water restriction, then with nephrology guidance vasopressin
+   receptor antagonists, salt tablets with furosemide, urea, lithium or demeclocycline; polydipsia → fluid
+   restriction.
+ • Rate of correction: acute onset (<48 hours) may be corrected rapidly; slower or unknown onset → rise no
+   more than 8–12 mEq/L in 24 hours.
+ • Why: brain cells adapt to chronic hypo-osmolality; rapid correction draws water out of brain cells →
+   osmotic demyelination.
+ • Highest risk is the case scenario: isotonic fluid corrects hypovolaemia → removes the ADH stimulus →
+   brisk water diuresis → rapid sodium rise. Monitor closely; if overcorrecting, give DDAVP (ADH
+   replacement) and free water.
+ • Severe symptoms (lethargy, confusion, obtundation, seizures) → 3% hypertonic saline to raise sodium 4–
+   6 mEq/L over a few hours, then slow correction.
+Hypernatraemia
+ • Water deficit relative to sodium: lack of water access with renal or extrarenal loss of solute-poor fluid, or
+   sodium gain.
+ • Diabetes insipidus (DI) pair: central = lack of ADH; nephrogenic = renal ADH resistance; both impair water
+   reclamation → water loss and dilute urine.
+ • Nephrogenic DI is mostly acquired: drugs (lithium, amphotericin B), electrolyte disturbance
+   (hypercalcaemia, hypokalaemia) and post-obstruction; genetic causes exist.
+ • Three practical rules: intact thirst plus access to water prevents hypernatraemia → so an undiagnosed DI
+   patient kept nil by mouth postoperatively can become markedly hypernatraemic → in a volume-
+   overloaded hypernatraemic patient, free water adds little to overload because it distributes mainly into
+   cells (Fig. 90.18).
+ • Treatment: free water, oral or parenteral (free-water content of fluids, Fig. 90.9).
+ • Onset >48 hours or unknown → lower sodium no faster than 0.5 mEq/L per hour: brain cells have
+   adapted to hyperosmolality, and a rapid fall causes cerebral oedema, irreversible neurological damage
+   and possible death.
+ • Calculate the free-water deficit to estimate infusion rate, but check sodium very frequently and adjust to
+   avoid overcorrection.
+ • Governing contrast: overcorrecting hyponatraemia shrinks adapted brain cells (osmotic demyelination);
+   overcorrecting hypernatraemia swells them (cerebral oedema).
+
+Potassium Disorders
+ • About 98% of the 3500 mmol total body potassium is intracellular; the remaining ~70 mmol sits in
+   extracellular fluid at 4–5 mEq/L.
+ • The intracellular-to-extracellular ratio sets the resting membrane potential; disruption causes muscular
+   and neuronal dysfunction — at the extremes cardiac arrest (hyperkalaemia) or paralysis (hypokalaemia).
+
+
+
+
+                                                  page 21 of 31
+Chapter 90 — Fundamentals of Nephrology                                         Common Electrolyte and Acid–Base Abnormalities
+ • Two lines of defence: shifts between cells and extracellular fluid (early) and renal and gut excretion
+   (slower); so every potassium disorder is a shift or an excretion–intake mismatch.
+ • Daily balance: diet about 100 mmol; kidney excretes 90–95% over 6–12 hours; gut 5–10%, a minor role in
+   health.
+ • Acute load: insulin and β₂-adrenergic stimulation increase Na⁺/K⁺-ATPase activity, moving potassium
+   into cells — the basis of emergency therapy.
+ • Renal excretion is distal tubule and collecting duct secretion. Secretion is increased by:
+    1. High urine flow — more distal sodium delivery for exchange; low flow reduces excretion.
+    2. Greater distal sodium delivery and absorption, which makes the lumen electronegative and favours
+       potassium (and hydrogen) secretion — loop and thiazide diuretics cause hypokalaemia; volume
+       depletion or potassium-sparing diuretics do the reverse.
+    3. Rising aldosterone — increases distal sodium reabsorption and hence potassium excretion.
+    4. Rising plasma potassium acting directly on apical secretory channels.
+    5. Extracellular pH — metabolic alkalosis enhances, metabolic acidosis impairs secretion.
+ • Adaptation: chronic high intake increases the efficiency of all five mechanisms.
+Illustrative case. A diabetic man with CKD on a β-blocker, a recently increased angiotensin-converting
+enzyme (ACE) inhibitor and insulin has potassium 6.7 mEq/L, glucose 397 mg/dL and peaked T waves;
+calcium gluconate, insulin and an intravenous loop diuretic restore 4.9 mEq/L — several simultaneous hits.
+Hyperkalaemia
+ • Rarely from intake alone while regulation is intact; results from two non-exclusive mechanisms:
+     ◦ Shift out of cells — insulin deficiency, cell lysis, systemic acidosis (hydrogen enters cells in exchange for
+       potassium).
+     ◦ Impaired renal secretion — acute or chronic kidney disease, aldosterone deficiency or resistance,
+       reduced distal sodium delivery and urine flow (volume depletion).
+ • Urological cause: ureteric diversion into jejunum (much less often ileum) → intestinal reabsorption of
+   urinary potassium.
+ • Pseudohyperkalaemia — falsely high value with normal true level: traumatic difficult draw, prolonged
+   tourniquet, excessive fist clenching; extreme leucocytosis or thrombocytosis. Exclude it first.
+TABLE 90.9 CAUSES OF HYPERKALAEMIA BY MECHANISM
+ Mechanism                          Causes
+ Pseudohyperkalaemia                Haemolysis, thrombocytosis, severe leucocytosis, fist clenching
+ Decreased kidney excretion         Acute or chronic kidney disease; aldosterone deficiency (type IV renal tubular
+                                    acidosis, diabetic nephropathy, chronic interstitial nephritis, obstructive uropathy,
+                                    adrenal insufficiency); drugs inhibiting potassium excretion; diseases impairing distal
+                                    tubule function (sickle cell disease, SLE)
+ Abnormal distribution              Insulin deficiency, β-blockers, acidaemia, familial hyperkalaemic periodic paralysis
+ Abnormal release from cells        Rhabdomyolysis, tumour lysis syndrome
+
+Gilbert et al., NKF Primer, 8th ed, 2022, Table 10.3.
+ • Management principles (sequence):
+   1. Judge urgency — acuity of rise, absolute level (>6.0 mEq/L generally urgent, allowing for baseline) and
+      neuromuscular or cardiac effect. Weakness ascends from the legs to trunk and arms, potentially to
+      paralysis with respiration spared.
+    2. Electrocardiogram (ECG; Fig. 90.21): peaked T (earliest) → prolonged PR, wide QRS → P loss → sine
+       wave. Any ECG change → intravenous calcium to stabilise the myocardium, buying time.
+
+
+                                                        page 22 of 31
+Chapter 90 — Fundamentals of Nephrology                                        Common Electrolyte and Acid–Base Abnormalities
+    3. Identify the cause and tailor therapy (Table 90.9).
+    4. Shift or remove potassium (Fig. 90.20).
+FIG. 90.20 ALGORITHM FOR MANAGEMENT OF HYPERKALAEMIA
+                       Emergent (ECG changes, or rapid rise as in
+ Step                  rhabdomyolysis, tumour lysis, crush injury)                Non-emergent
+ First                 Stabilise membrane: calcium gluconate 10 mL of 10%         Exclude pseudohyperkalaemia
+                       intravenously                                              (especially without risk factors)
+ Shift                 Insulin 10 U regular intravenously with 50 mL 50%          Dietary potassium counselling; avoid
+                       dextrose; salbutamol (albuterol) 20 mg in 4 mL             salt substitutes
+                       nebulised
+ Remove                Oliguria or ESKD → haemodialysis; hypervolaemic non- Stop interfering drugs; ask about over-
+                       oliguric → diuretics; metabolic acidosis → sodium    the-counter NSAIDs and herbal
+                       bicarbonate; then consider potassium binders         preparations; effective diuretic
+                                                                            therapy (loop if eGFR <30 mL/min);
+                                                                            oral sodium bicarbonate for acidosis;
+                                                                            potassium binders (allow RAAS
+                                                                            inhibitor dosing)
+
+Gilbert et al., NKF Primer, 8th ed, 2022.
+GUT POTASSIUM BINDERS (FIG. 90.20)
+                     Sodium polystyrene sulfonate                                             Sodium zirconium
+                     (SPS, Kayexalate)                     Patiromer (Veltassa)               cyclosilicate (Lokelma)
+ Mechanism           Sodium–potassium exchange             Calcium-based non-absorbed         Non-polymer;
+                     resin, often with sorbitol; non-      polymer; exchanges calcium for     preferentially captures
+                     selective (potassium, calcium,        potassium; binds magnesium         potassium in exchange for
+                     magnesium)                                                               sodium and hydrogen
+ Onset               Hours to days, variable               About 7 h; no bowel movement About 1 h
+                                                           needed
+ Site                Colon                                 Colon                              Entire intestinal tract
+ Adverse effects     Diarrhoea, metabolic alkalosis,       Constipation, diarrhoea,           Constipation, diarrhoea,
+                     hypernatraemia, volume overload,      flatulence, hypomagnesaemia;       oedema; raises gastric pH,
+                     rarely colonic necrosis; separate     separate other oral drugs by ≥3    affecting drugs with pH-
+                     other oral drugs by ≥3 h              h                                  dependent solubility
+ US Food and         Yes — the only one                    No                                 No
+ Drug
+ Administration
+ (FDA) approval
+ for emergencies
+
+ • Trap: the only binder approved for emergencies is the worst one — SPS is modestly effective, slow and
+   linked to intestinal necrosis, especially postoperatively or with bowel disease or ileus; despite low cost it
+   is not first-line. Patiromer and sodium zirconium cyclosilicate are increasingly used acutely.
+Hypokalaemia
+ • Mechanism: excessive shift into cells, or losses — renal, gastrointestinal or, rarely, sweat.
+
+
+
+
+                                                        page 23 of 31
+Chapter 90 — Fundamentals of Nephrology                                        Common Electrolyte and Acid–Base Abnormalities
+TABLE 90.10 CAUSES OF HYPOKALAEMIA BY MECHANISM
+ Mechanism                           Causes
+ Inadequate intake                   Severe malnutrition
+ Extrarenal losses                   Vomiting, diarrhoea
+ Urinary losses                      Non-potassium-sparing diuretics (loop, thiazide, acetazolamide); osmotic diuresis
+                                     (hyperglycaemia); with hypertension: primary hyperaldosteronism, Liddle
+                                     syndrome; with normal blood pressure: type 1 and type 2 renal tubular acidosis,
+                                     Bartter syndrome, Gitelman syndrome, hypomagnesaemia
+ Abnormal distribution               Insulin administration, catecholamine excess (acute stress), thyrotoxic hypokalaemic
+                                     paralysis, familial hypokalaemic periodic paralysis
+
+Gilbert et al., NKF Primer, 8th ed, 2022, Table 10.3.
+ • Often multifactorial — e.g., refeeding a malnourished patient: low total stores plus an insulin surge
+   shifting potassium into cells.
+ • Rarely from intake alone, because the kidney can greatly reduce excretion.
+ • Lower gastrointestinal losses (diarrhoea) lower potassium directly — intestinal and colonic potassium
+   content is high.
+ • Trap — vomiting: gastric potassium content is minimal, so loss is not the cause; acid loss → metabolic
+   alkalosis → renal sodium bicarbonate excretion → increased distal sodium delivery → kaliuresis.
+ • Clinical: neuromuscular instability and arrhythmia. Severe acute hypokalaemia (<2.5 mEq/L) → weakness
+   in a pattern like hyperkalaemia, cramps, rhabdomyolysis. ECG: premature atrial and ventricular beats,
+   sinus bradycardia, junctional rhythm, heart block, ultimately ventricular tachycardia or fibrillation; risk
+   rises with severity, coexisting electrolyte disturbance and comorbidity.
+ • Treatment — replacement, with formulation and rate set by ongoing losses (profuse diarrhoea or
+   aggressive diuresis needs more).
+ • Potassium chloride is the commonest and most effective formulation; potassium phosphate if
+   hypophosphataemic, potassium citrate if acidotic.
+ • Oral preferred; intravenous only if oral impossible, because it raises potassium more slowly and needs
+   significant volume. Usual dose 20–40 mEq, repeated to normokalaemia.
+ • Redistribution causes → replace cautiously: correcting the cause can produce rebound hyperkalaemia.
+   Symptomatic hypokalaemia needs urgent replacement regardless of cause.
+FIG. 90.21 ELECTROCARDIOGRAPHIC CHANGES WITH POTASSIUM DISORDERS
+ Serum potassium
+ (mEq/L)                     Change
+ ≈10                         Ventricular fibrillation
+ ≈9                          Atrial standstill, intraventricular block
+ ≈8                          Prolonged PR interval, high T wave, depressed ST segment
+ ≈7                          High (peaked) T wave
+ 3.5–5                       Normal
+ ≈3.0                        Low T wave, high U wave (Q–T becomes Q–U)
+ ≈2.5                        Low T wave, high U wave, low ST segment
+
+Gilbert et al., NKF Primer, 8th ed, 2022, Fig. 10.3.
+ • Governing contrast: hyperkalaemia peaks the T wave and widens the QRS; hypokalaemia flattens the T
+   wave and raises the U wave.
+
+
+
+
+                                                          page 24 of 31
+Chapter 90 — Fundamentals of Nephrology                                       Common Electrolyte and Acid–Base Abnormalities
+Calcium Disorders
+Illustrative case. Months of abdominal pain, polyuria, bone ache and low mood, then a first stone; dry and
+disoriented. Calcium 12.9 mg/dL (9.9 six months before), phosphate falling to 2.7 mg/dL, normal albumin.
+ • Nearly 99% of body calcium is in bone; <1% is plasma calcium, partly bound (albumin, organic anions)
+   and partly free ionised — the biologically active fraction sensed by tissues.
+ • Bone: resorption raises serum calcium; formation lowers it.
+ • Gut: absorption is incomplete, reduced by calcium-binding anions, and involves passive and calcitriol-
+   dependent active small-intestinal transport.
+ • Kidney: reabsorption proximal convoluted tubule (PCT) > thick ascending limb (TAL) > distal convoluted
+   tubule (DCT).
+RENAL CALCIUM HANDLING: COUPLED VERSUS UNCOUPLED SEGMENTS
+                       PCT and TAL                      DCT
+ Link to sodium        Calcium follows sodium           Uncoupled
+ Volume depletion      Maximal sodium, hence            —
+                       calcium, reabsorption
+ Diuretic effect       Volume loading or loop           Thiazide blocks the Na–Cl cotransporter; calcium does not
+                       diuretic → sodium dumping        follow; resulting volume contraction increases proximal sodium
+                       → calciuria                      and calcium reabsorption → reduced urinary calcium
+ Clinical use          Saline ± loop diuretic in        Thiazide for hypercalciuria in calcium stone formers
+                       hypercalcaemia
+
+ • Calcitriol is made in the kidney from 25-hydroxyvitamin D.
+ • Direct regulators: PTH, calcitriol, serum calcium itself and, to a lesser degree, calcitonin.
+ • Response to hypocalcaemia (Fig. 90.22): PTH rises → bone turnover increases, releasing calcium and
+   phosphate → kidney increases calcium reabsorption, reduces phosphate reabsorption and increases 1α-
+   hydroxylase → calcitriol increases intestinal calcium and phosphate absorption → calcium normalises
+   with phosphate normal. The converse occurs in hypercalcaemia.
+ • Humoral hypercalcaemia of malignancy: parathyroid hormone-related peptide (PTHrP) from squamous,
+   renal, bladder, breast and ovarian cancers mimics hyperparathyroidism.
+DISCORDANT TOTAL AND IONISED CALCIUM
+                               Low total, normal ionised                       Normal total, low ionised
+ Setting                       Hypoalbuminaemia (40% of total calcium is       Acute respiratory alkalosis
+                               albumin-bound; ionised calcium stays tightly    (hyperventilation)
+                               regulated)
+ Mechanism                     Less bound calcium; free fraction preserved     Fewer hydrogen ions on albumin →
+                                                                               more binding sites for calcium → ionised
+                                                                               calcium falls
+ Action                        Add 0.8 mg/dL to total calcium for every 1 g/ Symptomatic hypocalcaemia occurs
+                               dL albumin below 4 g/dL; confirm with         before compensation restores ionised
+                               ionised calcium                               levels
+
+Hypercalcaemia
+ • Urological context: found during the initial metabolic work-up of a stone former. Most hypercalciuria is
+   idiopathic, but hypercalcaemia must be excluded as its cause.
+
+
+
+
+                                                      page 25 of 31
+Chapter 90 — Fundamentals of Nephrology                                       Common Electrolyte and Acid–Base Abnormalities
+ • Diagnostic algorithm:
+   1. Intact PTH with a simultaneous serum calcium — PTH cannot be interpreted without calcium.
+      Hypophosphataemia is a clue to PTH excess (renal phosphate wasting). Non-suppressed PTH with
+      high calcium → primary hyperparathyroidism.
+    2. PTH suppressed → measure PTHrP (humoral hypercalcaemia of malignancy) and 1,25-vitamin D
+       (extrarenal production in sarcoidosis or lymphoma).
+    3. Neither raised → increased bone resorption (prolonged immobilisation, metastases, hyperthyroidism)
+       or reduced renal calcium excretion from drugs (thiazides).
+    4. Rarely, hypercalcaemia with low urine calcium (<200 mg/g creatinine) → familial hypocalciuric
+       hypercalcaemia (FHH), a genetic calcium-sensing disorder that is completely benign.
+ • Features: bone pain, muscle weakness, kidney stones, polyuria from acquired nephrogenic DI,
+   constipation, nausea, depression; severe hypercalcaemia may cause AKI, partly via prerenal
+   vasoconstriction.
+ • Treatment is temporising until the cause is treated. Indications: moderate-to-severe hypercalcaemia with
+   symptoms, or severe (≥14 mg/dL) even without symptoms.
+ACUTE TREATMENT OF HYPERCALCAEMIA
+ Agent                    Mechanism                               Onset, duration and use
+ Isotonic saline —        Exploits sodium–calcium coupling in     200 mL/h, then titrate to urine output 100–150 mL/
+ mainstay                 PCT and loop                            h for 24–48 h, if no overload, heart or kidney failure;
+                                                                  alone it is not definitive
+ Loop diuretic            Calciuresis at TAL                      Only with fluid overload or heart or kidney failure,
+                                                                  added to saline; not used otherwise
+ Calcitonin               Temporising                             Rapid; tachyphylaxis within 48 h, little effect
+ (intramuscular or                                                thereafter
+ intravenous)
+ Intravenous              Inhibits bone resorption                Onset 2–4 days; effect lasts months; sustained
+ bisphosphonate                                                   control
+ Denosumab                Monoclonal antibody reducing bone       When bisphosphonates are contraindicated
+                          resorption
+
+ • Hypocalcaemia and phosphate disorders are covered in the electronic version only.
+
+Acid–Base Disorders
+Illustrative case. A stone former with a new mixed calcium oxalate–calcium phosphate stone, recently
+started on topiramate: bicarbonate 21 mEq/L with a normal anion gap; 24-hour urine pH 6.81, citrate low,
+oxalate and sodium high, calcium phosphate supersaturation high — carbonic anhydrase inhibition (below).
+ • Extracellular pH is held at 7.38–7.42 for life-sustaining processes.
+ • Volatile acid (carbon dioxide) from carbohydrate and fat metabolism is removed by ventilation; non-
+   volatile (fixed) acid from carbohydrate, fat and sulphur- and phosphate-containing amino acids is handled
+   by the kidney, which (1) excretes the acid load and (2) reclaims filtered bicarbonate.
+ • Disorders arise when ventilation, renal processes or both fail or are overwhelmed.
+
+
+
+
+                                                      page 26 of 31
+Chapter 90 — Fundamentals of Nephrology                                        Common Electrolyte and Acid–Base Abnormalities
+ACID–BASE TERMINOLOGY
+ Disorder                 Primary change and threshold         pH         Common causes
+ Acidaemia /              pH <7.35 / pH >7.45                  —          Respiratory, metabolic or combined
+ alkalaemia
+ Respiratory acidosis     Hypoventilation; partial pressure    Falls      Opioid respiratory depression, COPD air
+                          of CO₂ (pCO₂) >45 mm Hg                         trapping
+ Respiratory alkalosis    Hyperventilation; pCO₂ <35 mm        Rises      Panic attacks, pregnancy, liver disease
+                          Hg
+ Metabolic acidosis       Bicarbonate <22 mEq/L                Falls      Anion gap (AG): lactic acidosis, diabetic
+                                                                          ketoacidosis; non-AG: renal tubular acidosis
+                                                                          (RTA), diarrhoea
+ Metabolic alkalosis      Bicarbonate >29 mEq/L (net           Rises      —
+                          bicarbonate gain or acid loss the
+                          kidney cannot correct)
+
+ • Bicarbonate source: the chemistry panel value is measured; the blood gas value is calculated from pH
+   and pCO₂ by the Henderson–Hasselbalch equation.
+ • Anion gap = Na⁺ − (Cl⁻ + HCO₃⁻); raised (>12) by unmeasured organic acids. Albumin forms part of the
+   normal gap, so add 2.5 mEq/L for every 1 g/dL albumin below 4.0 g/dL. AG and non-AG acidosis may
+   coexist.
+ • Compensation: renal compensation for respiratory disorders takes 1–3 days; respiratory compensation
+   for metabolic disorders is maximal by 24 hours; compensation never restores pH to normal, only toward
+   it.
+ • A low serum bicarbonate — the urologist's usual clue — has three explanations:
+   1. Compensation for respiratory alkalosis — proven only by blood gas: pH high. If metabolic acidosis is
+      primary, pH is low.
+    2. AG metabolic acidosis — the rise in AG should account for the fall in bicarbonate. Example: AG 18
+       from a baseline of about 6 (a rise of 12) predicts bicarbonate about 12 below the normal ~24 mEq/L.
+       Bicarbonate lower than predicted → an additional non-AG acidosis (mixed disorder).
+    3. Non-AG metabolic acidosis — renal or gastrointestinal.
+Renal causes — proximal mechanism.
+ • The proximal tubule reabsorbs 85–90% of filtered bicarbonate; the rest is reclaimed distally.
+ • Sequence: hydrogen ion secreted into the lumen → combines with filtered bicarbonate → luminal
+   carbonic anhydrase forms CO₂ and water → lipid-soluble CO₂ enters the cell → recombines with hydroxyl
+   to form bicarbonate → exits basolaterally via the Na–HCO₃ cotransporter into blood.
+TABLE 90.12 CAUSES OF PROXIMAL RENAL TUBULAR ACIDOSIS (TYPE II)
+ Defect                                       Causes
+ Isolated bicarbonate reabsorption defect     Carbonic anhydrase inhibitors, carbonic anhydrase deficiency
+ Generalised proximal transport defect        Cystinosis, multiple myeloma, light-chain disease, amyloidosis, vitamin D
+ (examples)                                   deficiency, ifosfamide, cidofovir, lead, aminoglycosides
+
+Gilbert et al., NKF Primer, 8th ed, 2022, Table 13.5.
+ • Urological presentation — topiramate and zonisamide inhibit both proximal and distal carbonic
+   anhydrase. Distal hydrogen secretion is intact, so serum bicarbonate falls only mildly but urine pH is
+   typically >6.0.
+ • Trap: bicarbonate therapy exceeds the reabsorptive threshold, raising urine pH further, and the extra
+   distal bicarbonate delivery causes kaliuresis and hypokalaemia.
+
+
+                                                        page 27 of 31
+Chapter 90 — Fundamentals of Nephrology                                         Common Electrolyte and Acid–Base Abnormalities
+Renal causes — distal mechanism.
+ • Acid excretion = distal hydrogen secretion with urinary buffers: titratable acid (chiefly phosphate, a
+   largely fixed quantity) and ammonia, whose proximal generation is adjustable — increased by metabolic
+   acidosis and hypokalaemia, reduced by hyperkalaemia.
+ • Distal acidification defects:
+   1. CKD — fewer nephrons produce less ammonia, especially below eGFR 40 mL/min/1.73 m²; corrected
+      with alkali (Table 90.13).
+    2. Hypoaldosteronism (primary or secondary) → reduced potassium excretion → hyperkalaemia
+       suppresses ammoniagenesis = type IV RTA.
+    3. Distal RTA type 1 — impaired distal hydrogen secretion (H⁺-ATPase or Cl⁻/HCO₃⁻ exchanger), acquired
+       or congenital → low serum bicarbonate, hypokalaemia (potassium secreted in place of hydrogen),
+       high urine pH, hypocitraturia (proximal citrate reabsorption rises with intracellular acidosis), ±
+       hypercalciuria (bone buffering).
+    4. Distal RTA with hyperkalaemia — a generalised distal defect in both hydrogen and potassium
+       secretion (as in urinary obstruction), or a distal sodium transport defect that abolishes the voltage
+       gradient favouring hydrogen and potassium secretion (Table 90.14).
+ • Urological presentation — distal RTA type 1: a calcium stone former with low or borderline bicarbonate,
+   high urine pH, mild hypokalaemia, hypocitraturia ± hypercalciuria may have complete or incomplete
+   (milder) distal RTA. Treat any underlying disorder and give alkali (Table 90.13).
+RENAL TUBULAR ACIDOSIS COMPARED
+                                                                                                     Distal with
+                     Proximal (type II)      Distal (type 1)          Type IV                        hyperkalaemia
+ Defect              Bicarbonate             Distal H⁺ secretion      Hypoaldosteronism →            H⁺ and K⁺ secretion,
+                     reclamation (carbonic                            hyperkalaemia → low            or distal Na transport
+                     anhydrase,                                       ammoniagenesis                 voltage
+                     generalised proximal)
+ Serum               Low with bicarbonate    Low                      High                           High
+ potassium           therapy
+ Urine pH            High on carbonic        High                     —                              —
+                     anhydrase inhibitors
+ Stone relevance     Topiramate,             Hypocitraturia ±         —                              Obstruction
+                     zonisamide              hypercalciuria →
+                                             calcium stones
+
+
+
+
+                                                      page 28 of 31
+Chapter 90 — Fundamentals of Nephrology                                           Common Electrolyte and Acid–Base Abnormalities
+TABLE 90.13 COMMON ALKALI THERAPY REGIMENS
+ Preparation                              Usual dose per unit                 Comments
+ Sodium bicarbonate                       650 mg = 8 mmol                     May cause gastric gas
+ Sodium citrate/citric acid (liquid)      1 mmol sodium and citrate per       1 mmol citrate = 1 mmol bicarbonate; avoid
+                                          mL                                  aluminium-containing drugs (antacids,
+                                                                              sucralfate)
+ Potassium citrate (tablet)               5 and 10 mmol per tablet            Simultaneous potassium and alkali therapy
+ Citric acid/potassium citrate/           1 mmol sodium and potassium         Avoid aluminium-containing drugs
+ sodium citrate (liquid)                  and 2 mmol citrate per mL
+ Potassium citrate (liquid)               2 mmol potassium and 2 mmol         Avoid aluminium-containing drugs
+                                          citrate per mL
+
+Modified from Johnson RJ, Floege J, Tonelli M, Comprehensive Clinical Nephrology, 7th ed, 2023.
+ • Pattern: citrate is a bicarbonate equivalent; potassium citrate is the choice when hypokalaemia
+   accompanies the acidosis (distal RTA, carbonic anhydrase inhibitors); every citrate liquid interacts with
+   aluminium.
+TABLE 90.14 CAUSES OF DISTAL RENAL TUBULAR ACIDOSIS WITH HYPERKALAEMIA
+ Category                                 Causes
+ Disease                                  Lupus nephritis, obstructive nephropathy, sickle cell anaemia, voltage defects,
+                                          familial causes
+ Drugs                                    Amiloride, triamterene, trimethoprim, pentamidine
+
+Gilbert et al., NKF Primer, 8th ed, 2022, Table 13.6.
+ • Pattern: every listed drug blocks the distal epithelial sodium channel, removing the lumen-negative
+   voltage that drives hydrogen and potassium secretion.
+Gastrointestinal losses and the urine anion gap.
+ • Extrarenal bicarbonate loss exceeding the kidney's capacity to reclaim bicarbonate or acidify urine.
+ • Urine AG = (urine Na⁺ + urine K⁺) − urine Cl⁻ — a surrogate for the ammoniagenic response to an acid
+   load, because excreted ammonium carries chloride.
+ • Negative urine AG = increased ammonium excretion = appropriate renal response → non-renal
+   (gastrointestinal) cause.
+ • Positive urine AG = no rise in ammonium excretion → the kidney is responsible (RTA).
+ • Classic stone example — laxative abuse: chronic diarrhoea causes large potassium, bicarbonate, sodium
+   and water losses; potassium depletion stimulates ammonia production (urine AG negative); ammonia
+   buffering can raise urine pH (>5.8) despite alkali loss; above the urate pKa (5.7) urate salt rather than uric
+   acid predominates and combines with abundant ammonium → rare ammonium acid urate stones.
+Concept — Every electrolyte disorder is read through two questions: is this a shift between compartments or
+a change in total body content, and has the kidney responded appropriately? Sodium is a water problem
+judged by ADH, potassium a distribution-then-secretion problem judged by distal sodium delivery and
+aldosterone, calcium a sodium-coupled problem judged by PTH, and non-AG acidosis a question of whether
+the kidney is making ammonium.
+
+
+
+
+                                                           page 29 of 31
+Chapter 90 — Fundamentals of Nephrology                                     Urinary Tract Obstruction and Obstructive Uropathy
+
+URINARY TRACT OBSTRUCTION AND OBSTRUCTIVE UROPATHY
+Introduction
+ • Urinary tract obstruction (UTO): blockage of urinary flow at any level from renal tubule to urethra, arising
+   in fetal life, childhood or adulthood; usually shown as dilatation on imaging; congenital or acquired,
+   benign or malignant.
+ • Impact depends on degree (partial or complete, unilateral or bilateral), chronicity (acute or chronic) and
+   pre-existing renal function.
+FIG. 90.23 HYDRONEPHROSIS, OBSTRUCTIVE UROPATHY AND OBSTRUCTIVE NEPHROPATHY
+ Term                          Definition                                   Creatinine and GFR
+ Hydronephrosis                Dilatation of renal pelvis and/or calyces,   No effect if unobstructed
+                               with or without obstruction
+ Obstructive uropathy (OU) Functional or anatomic obstruction of            GFR may or may not change, depending on
+                           urinary flow at any level                        the contralateral kidney
+ Obstructive nephropathy       Irreversible loss of renal function          GFR falls and creatinine rises, especially if
+ (ON)                          (permanent parenchymal injury)               bilateral
+
+ • Asymptomatic OU may go unnoticed in SCr, but uncorrected unilateral OU causes progressive irreversible
+   ipsilateral loss, and uncorrected bilateral OU leads to ESKD.
+ • OU is reversible if identified and corrected promptly — one of the few potentially curable forms of
+   kidney disease, so consider it in any unexplained acute or chronic kidney disease.
+ • Further detail: Chapter 51 and electronic version.
+
+Postobstructive Diuresis
+ • A normal physiological event after relief, particularly of prolonged and bilateral obstruction; its size
+   reflects the volume overload and the urea and electrolytes retained during obstruction.
+ • Usually self-limited; no defining rate, but urine output up to 300 mL/h is common. Polyuria typically
+   begins within hours of relief in most patients and lasts about 2 days; fractional sodium excretion may be
+   many times normal.
+ • Three mechanisms:
+    1. Transporter dysregulation — sodium (Na⁺/K⁺-ATPase) and water channels (all aquaporins, chiefly
+       AQP2) are dysregulated during obstruction. In extreme cases AQP2 suppression lasts days to weeks →
+       nephrogenic DI: polyuria, low urine osmolality (usually 300–400 mOsm/kg water) and, if severe, life-
+       threatening hypernatraemia from free-water loss; diagnosed by water deprivation or desmopressin
+       testing.
+    2. Extracellular volume expansion (especially bilateral) → on relief, reduced sympathetic tone, reduced
+       aldosterone and increased atrial natriuretic peptide (ANP) promote salt and water excretion.
+    3. Osmotic diuresis — retained urea enters the filtrate, raising tubular osmotic pressure and reducing
+       water reabsorption.
+ • Commonest setting: catheterisation for urinary retention. Gradual bladder decompression has no role
+   — it does not reduce haematuria or diuresis.
+ • First-line: free access to oral fluids, without routine intravenous supplementation; most cases resolve
+   with expectant management.
+ • Pathological diuresis (rare): hypovolaemia and disturbed sodium, potassium, phosphate, calcium and
+   magnesium → metabolic panel every 4–6 hours with careful replacement.
+
+
+
+
+                                                        page 30 of 31
+Chapter 90 — Fundamentals of Nephrology                                        Urinary Tract Obstruction and Obstructive Uropathy
+ • Patient unable to drink (obtunded, sedated, postoperative) → replace about 75% of urine volume with
+   0.45% (half-normal) saline.
+ • No approved drug therapy; PDE5 and COX-2 inhibitors are supported only by animal and cell-culture data.
+
+Renal Recovery
+ • Recovery depends on both the duration and the degree of obstruction.
+CLASSIC CANINE OBSTRUCTION EXPERIMENTS
+ Study                         Model                            Recovery of function after relief
+ Kerr, 1954                    Complete unilateral ureteral     About 60% of GFR recoverable
+                               obstruction (UUO) for 1
+                               week
+ Vaughan and Gillenwater,      Complete UUO of increasing       7 days → 100% (by 2 weeks after relief); 14 days → 70%;
+ 1971                          duration                         4 weeks → 30%; 6 weeks → none
+ Leahy et al., 1989            Partial unilateral obstruction   14 days → complete; 28 days → 31%; 60 days → 8%;
+                               up to 60 days                    dominant lesion arteriolar vasoconstriction
+
+ • Discrepancy at 1 week: the two complete-UUO models differ (about 60% versus full recovery); the source
+   does not reconcile them — the consistent message is near-full recovery within 1–2 weeks, steep decline
+   by 4 weeks, none by 6 weeks.
+ • Vascular basis (Fig. 90.25): scanning electron microscopy of glomerular microvascular casts after
+   obstruction shows capillary collapse and irregularity against the normal tuft — postobstructive
+   dysfunction is driven chiefly by vascular responses.
+ • Clinical translation: most stone formers with hydronephrosis from a small ureteral stone causing low-
+   grade obstruction may be safely observed for 2–4 weeks after the first colic, from a functional
+   standpoint.
+ • Beyond 4 weeks, human outcome is poorly defined and unpredictable; full recovery has been reported
+   up to 5 months after relief of unilateral obstruction.
+ • Factors favouring recovery: lesser degree of obstruction, greater collecting system compliance, more
+   pyelolymphatic backflow, younger age, thicker renal cortex.
+ • Because these cannot be judged during the acute event, keep a low threshold to treat the obstruction
+   or temporise with a stent or nephrostomy, avoiding permanent tubular injury and fibrosis.
+Concept — Obstruction injures the kidney through its microvasculature before its tubules, and recovery tracks
+how long arteriolar vasoconstriction has lasted; hence the clock — weeks, not the degree of dilatation —
+governs when a urologist must intervene.
+
+
+
+
+                                                        page 31 of 31
+
