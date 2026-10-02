@@ -15,94 +15,58 @@
 ## II-1. Describe medical management of BPH and role of various surgical modalities in its management.
 **Type:** LAQ (25 marks)
 
-### Introduction / Definition
-- **BPH (benign prostatic hyperplasia)** is a histological diagnosis: stromal and epithelial hyperplasia of the transition zone.
-- Enlargement can cause **BPO (benign prostatic obstruction)** and **LUTS (lower urinary tract symptoms)**.
-- Goals: relieve bother and prevent progression to AUR (acute urinary retention) or surgery.
-
-### Pathophysiology relevant to therapy
-- **Static component** (gland bulk, DHT (dihydrotestosterone)-dependent): 5-ARIs (5α-reductase inhibitors) and surgery.
-- **Dynamic component** (α1A-adrenergic smooth-muscle tone): α-blockers.
-- **Bladder response** (detrusor overactivity): antimuscarinics, β3-agonists.
+### Introduction and pathophysiology
+- **BPH (benign prostatic hyperplasia)** is stromal and epithelial hyperplasia of the transition zone; it may cause BPO (benign prostatic obstruction) and **LUTS (lower urinary tract symptoms)**.
+- Obstruction has a **static** component (gland bulk, DHT (dihydrotestosterone)-dependent) and a **dynamic** component (α1A-mediated smooth-muscle tone). The bladder responds with detrusor overactivity or later underactivity.
 
 ### Evaluation
 - **IPSS (International Prostate Symptom Score)** 0–35: mild 0–7, moderate 8–19, severe 20–35.
-- DRE (digital rectal examination), urinalysis, **PSA (prostate-specific antigen)**, FVC (frequency-volume chart), Qmax (maximum flow rate) and PVR (post-void residual). PVR >300 mL is managed as chronic retention.
-- AUA (American Urological Association): measure prostate volume before surgery; it decides the modality.
+- DRE (digital rectal examination), urinalysis, **PSA (prostate-specific antigen)**, frequency-volume chart, Qmax (maximum flow), PVR (post-void residual); PVR >300 mL is managed as chronic retention.
+- Measure prostate volume before surgery; it decides the modality (AUA (American Urological Association)). Pressure-flow study if unclear.
 
 ### Medical management
-**1. Watchful waiting**: mild or non-bothersome symptoms; lifestyle advice.
+| Option | Key facts |
+|---|---|
+| **Watchful waiting** | Mild or non-bothersome LUTS; lifestyle advice |
+| **α1-blockers** (tamsulosin 0.4 mg, alfuzosin 10 mg, silodosin 8 mg) | First line; act within days; no effect on gland size, AUR (acute urinary retention) or surgery. Silodosin causes most anejaculation |
+| **5-ARIs (5α-reductase inhibitors)** (finasteride 5 mg, dutasteride 0.5 mg) | For glands >30–40 mL or PSA >1.5 ng/mL. Shrink the gland about 18–25% (maximal at 6 months), halve PSA. PLESS (Proscar Long-Term Efficacy and Safety Study): AUR or surgery down 51% |
+| **Combination** | For high-risk men. The α-blocker gives early relief; the 5-ARI prevents hard events |
+| **Antimuscarinic or β3-agonist** (mirabegron) | Add for persisting storage symptoms; trials included only men with low PVR |
+| **Tadalafil 5 mg daily** | LUTS with or without ED (erectile dysfunction); not with nitrates |
+| **Desmopressin** | Nocturnal polyuria (night urine >33% of 24-h output); check sodium, especially ≥65 years |
 
-**2. α1-blockers**: first line for bothersome LUTS; act within days.
-
-| Drug | Dose | Note |
-|---|---|---|
-| Tamsulosin | 0.4 mg daily | Highest IFIS risk |
-| Alfuzosin | 10 mg daily | Least ejaculatory dysfunction |
-| Silodosin | 8 mg daily | Most α1A selective; most anejaculation |
-
-- They do **not** shrink the prostate or prevent AUR or surgery.
-- **IFIS (intraoperative floppy iris syndrome)**: stopping the drug before cataract surgery does not remove the risk, so defer starting it if cataract surgery is planned.
-
-**3. 5-ARIs**: finasteride 5 mg or dutasteride 0.5 mg.
-- For enlarged glands (AUA: >30 mL or PSA >1.5 ng/mL; EAU (European Association of Urology): >40 mL).
-- Shrink the prostate about 18–25% (maximal at 6 months) and halve PSA.
-- **PLESS (Proscar Long-Term Efficacy and Safety Study)**: finasteride reduced AUR or surgery by 51%.
-- Side effects: low libido, ED (erectile dysfunction), ejaculatory dysfunction, gynaecomastia.
-
-**4. Combination therapy** for men at high risk of progression (>30–40 mL, PSA >1.5 ng/mL)
-- **MTOPS (Medical Therapy of Prostatic Symptoms)**: progression fell 39% with doxazosin, 34% with finasteride and **66% with combination**. Only finasteride or combination reduced AUR and surgery.
+- **MTOPS (Medical Therapy of Prostatic Symptoms)**: progression fell 39% (doxazosin), 34% (finasteride) and **66% (combination)**; only finasteride or combination reduced AUR and surgery.
 - **CombAT (Combination of Avodart and Tamsulosin)**: combination cut AUR or surgery by about 66% versus tamsulosin.
-
-**5. Storage symptoms**: add an antimuscarinic or mirabegron; trials included only men with low PVR (<150–200 mL).
-
-**6. Tadalafil 5 mg daily**: improves LUTS with or without ED; not with nitrates.
-
-**7. Nocturnal polyuria** (night urine >33% of 24-h output): low-dose desmopressin; monitor sodium, especially if ≥65 years.
-
-```
-LUTS → IPSS, DRE, urinalysis, PSA, PVR
-  Mild → watchful waiting
-  Voiding → α-blocker (+ 5-ARI if >30–40 mL)
-  Storage → add antimuscarinic or β3-agonist
-  Failure or complications → surgery by prostate size
-```
+- **Side effects**: α-blockers cause dizziness and **IFIS (intraoperative floppy iris syndrome)**, which persists after stopping, so defer starting before planned cataract surgery. 5-ARIs cause low libido, ED and gynaecomastia.
+- **AUR**: catheterise, then TWOC (trial without catheter) on an α-blocker (ALFAUR (Alfuzosin in Acute Urinary Retention): success 62% vs 48%).
+- **Also know:** phytotherapy (saw palmetto) not recommended by guidelines; α-blocker withdrawable after 6 months of combination (SMART (Symptoms Management After Reducing Therapy) trial).
 
 ### Surgical management
-**Indications**: refractory retention, recurrent UTI (urinary tract infection) or haematuria, bladder stones, renal insufficiency from BPO, and LUTS failing medical therapy.
+**Indications**: refractory or recurrent retention, recurrent UTI (urinary tract infection) or haematuria, bladder stones, renal insufficiency from BPO, and LUTS failing medical therapy.
 
 | Modality | Size (AUA 2023) | Key feature |
 |---|---|---|
-| **TURP (transurethral resection of prostate)** | 30–80 mL | Reference standard; retrograde ejaculation ~two-thirds |
-| **TUIP (transurethral incision of prostate)** | **≤30 mL** | Less retrograde ejaculation; more reoperation |
-| **PVP (photoselective vaporization)** | ≤80 mL | Safe on anticoagulants; no histology |
-| **HoLEP (holmium laser enucleation)** | **Any size** | Lowest retreatment, least bleeding; learning curve |
-| **Simple prostatectomy** | **>80 mL** | Complete removal; more morbidity if open |
-| **Aquablation** | 30–80 mL (consider 80–150) | Heat-free; preserves ejaculation; bleeding |
+| **TURP (transurethral resection)**, monopolar or bipolar | 30–80 mL | Reference standard; retrograde ejaculation ~two-thirds |
+| **TUIP (transurethral incision)** | ≤30 mL | Less retrograde ejaculation; more reoperation |
+| **PVP (photoselective vaporization)** | ≤80 mL | Safe when anticoagulation cannot stop; no histology |
+| **HoLEP/ThuLEP (laser enucleation)** | Any size | Lowest retreatment, least bleeding |
+| **Simple prostatectomy** (open or robotic) | >80 mL | Complete removal; diverticula or stones |
+| **Aquablation** | 30–80 mL (consider 80–150) | Heat-free; preserves ejaculation |
 | **PUL (prostatic urethral lift), Rezūm (water vapour)** | 30–80 mL (PUL: no median lobe) | Preserve sexual function; higher retreatment |
 
-- **TUR syndrome** (monopolar TURP): hypo-osmolar irrigant (glycine, water) is absorbed through open sinuses, causing dilutional hyponatraemia, fluid overload and confusion. Risk rises with gland >45 mL and resection >90 minutes. Treat by stopping surgery, diuretics, and 3% saline if severe, correcting slowly.
-- **Bipolar TURP** uses saline, eliminating TUR syndrome, with less bleeding.
-
-**Landmark trials**
-- **GOLIATH**: 180 W PVP non-inferior to TURP, with shorter stay.
-- **WATER (Waterjet Ablation Therapy for Endoscopic Resection)**: Aquablation non-inferior to TURP, with less retrograde ejaculation (10% vs 36%).
-
-### Complications of surgery
-- Early: bleeding, TUR syndrome. Late: stricture, bladder neck contracture, retreatment.
+- **TUR syndrome** (monopolar TURP): hypo-osmolar glycine or water is absorbed through open sinuses, causing dilutional hyponatraemia, fluid overload and confusion. Risk rises with gland >45 mL and resection >90 minutes. Treat with diuretics and, if severe, 3% saline, correcting slowly. **Bipolar TURP** uses saline and eliminates it.
+- **GOLIATH**: 180 W PVP non-inferior to TURP. **WATER (Waterjet Ablation Therapy for Endoscopic Resection)**: Aquablation non-inferior, with less retrograde ejaculation (10% vs 36%).
+- **Complications**: bleeding, retrograde ejaculation, stricture, bladder neck contracture, retreatment.
+- **Also know:** TUVP (vaporization); iTind temporary implant (25–75 mL); TUMT (microwave) dropped as legacy; PAE (prostate artery embolisation); Optilume paclitaxel-coated balloon (2023).
 
 ### Follow-up
-- Reassess at 4–12 weeks on α-blockers and 3–6 months on 5-ARIs, then yearly.
+- Reassess at 4–12 weeks (α-blocker), 3–6 months (5-ARI), then yearly.
 
-### Recent advances
-- **Optilume BPH** (paclitaxel-coated balloon), approved 2023; PAE (prostate artery embolisation).
-
-**Diagram to draw:** Size-based algorithm: ≤30 mL TUIP → 30–80 mL TURP/PVP/MIST (minimally invasive surgical therapy) → >80 mL enucleation or simple prostatectomy.
+**Diagram to draw:** Size-based surgical algorithm (≤30, 30–80, >80 mL).
 
 > **Key points to remember:**
-> - IPSS 0–35: 0–7 mild, 8–19 moderate, 20–35 severe.
-> - 5-ARIs shrink the prostate ~20%, halve PSA; PLESS cut AUR/surgery 51%; MTOPS combination cut progression 66%.
-> - AUA sizes: TUIP ≤30; TURP/PVP/PUL/Rezūm/Aquablation 30–80; HoLEP any size; simple prostatectomy >80 mL.
+> - MTOPS: combination cut progression 66%; only 5-ARI-containing arms cut AUR and surgery.
+> - AUA sizes: TUIP ≤30; TURP/PVP/MISTs (minimally invasive surgical therapies) 30–80; HoLEP any size; simple prostatectomy >80 mL.
 > - TUR syndrome: gland >45 mL, resection >90 min; bipolar TURP avoids it.
 
 ---
@@ -111,91 +75,76 @@ LUTS → IPSS, DRE, urinalysis, PSA, PVR
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- Urolithiasis is a chronic systemic metabolic disease; up to 50% recur within 5–10 years without prevention.
+- Urolithiasis is a chronic metabolic disease; up to 50% recur within 5–10 years without prevention. ROKS (Recurrence of Kidney Stone) nomogram estimates individual risk.
 
 ### Physicochemical basis
-- Stones form when urine is **supersaturated**: nucleation, growth, aggregation and retention (often on **Randall plaque**).
-- **Metastable zone** (between solubility and formation products): no spontaneous nucleation, but existing crystals grow. Above the formation product, nucleation is spontaneous.
-- **Inhibitors** (citrate, magnesium, Tamm-Horsfall protein) raise the supersaturation needed for crystallisation.
+- Stones form from **supersaturated** urine: nucleation, growth, aggregation and retention (often on **Randall plaque**).
+- In the **metastable zone** (between solubility and formation products) there is no spontaneous nucleation, but crystals grow; above it nucleation is spontaneous.
+- **Inhibitors** (citrate, magnesium, Tamm-Horsfall protein) raise the supersaturation needed to crystallise.
 
 ### Who needs evaluation
-- **Screening evaluation**: every first-time stone former (AUA (American Urological Association), EAU (European Association of Urology)).
-- **24-h urine evaluation**: high-risk and recurrent formers.
-- **High risk**: children, family history, recurrent stones, solitary kidney; uric acid, cystine or infection stones; GI (gastrointestinal) disease or bypass, hyperparathyroidism, RTA (renal tubular acidosis), sarcoidosis, gout, metabolic syndrome.
+- **Screening evaluation**: every first-time former (AUA (American Urological Association), EAU (European Association of Urology)).
+- **24-h urine**: high-risk and recurrent formers: children, family history, solitary kidney, uric acid, cystine or infection stones, GI (gastrointestinal) disease or bypass, hyperparathyroidism, RTA (renal tubular acidosis), sarcoidosis, gout, metabolic syndrome.
 
-### Screening evaluation (all patients)
-- **History**: diet, bowel disease, lithogenic drugs (calcium, vitamins C and D, acetazolamide, steroids).
-- **NCCT (non-contrast computed tomography)**: uric acid stones are usually <500 HU (Hounsfield units).
-- **Serum**: creatinine, electrolytes, calcium, uric acid, bicarbonate; PTH (parathyroid hormone) if calcium is high-normal or raised.
+### Screening evaluation
+- **History**: diet, bowel disease, lithogenic drugs (calcium, vitamins C and D, acetazolamide, topiramate, steroids, triamterene, indinavir).
+- **NCCT (non-contrast computed tomography)**: burden; uric acid usually <500 HU (Hounsfield units).
+- **Serum**: creatinine, electrolytes, calcium, uric acid, bicarbonate; PTH (parathyroid hormone) if calcium is high-normal.
 - **Urine**: pH, crystals (hexagonal = cystine), culture.
-- **Stone analysis** (infrared spectroscopy or X-ray diffraction): uric acid suggests a metabolic cause, cystine a genetic one, struvite infection.
+- **Stone analysis** (infrared, X-ray diffraction): uric acid, cystine and struvite each point to a cause.
 
-### Comprehensive evaluation: 24-h urine
-- One or two collections on usual diet, ≥4 weeks after the stone event, when stone-free and infection-free.
-- Check completeness by urinary creatinine (men ~20–25, women ~15–20 mg/kg/day).
+### 24-h urine
+- One or two collections on usual diet, ≥4 weeks after the episode, stone-free and infection-free; adequacy by creatinine (men ~20–25, women ~15–20 mg/kg/day).
 
-| Parameter | Desirable (per day) |
-|---|---|
-| Volume | **>2.5 L** (low volume is commonest) |
-| Calcium | <250 mg (women), <300 mg (men), or <4 mg/kg |
-| Oxalate | **<40 mg** |
-| Citrate | **>320 mg** |
-| Uric acid | <600 mg (labs: <750 women, <800 men) |
-| Sodium | <100 mmol (salt raises calcium excretion) |
-| pH | 5.8–6.2 (<5.5 uric acid; >6.5–7 calcium phosphate, RTA, infection) |
-| Cystine | Negative screen |
+| Parameter | Desirable per day | Abnormality and causes |
+|---|---|---|
+| Volume | **>2.5 L** | Low volume: commonest |
+| Calcium | <250 mg women, <300 mg men, or <4 mg/kg | **Hypercalciuria** (commonest): absorptive (PTH suppressed), renal leak (PTH high, serum calcium normal), resorptive (primary hyperparathyroidism) |
+| Oxalate | **<40 mg** | Dietary; **enteric** (fat malabsorption, gastric bypass: fat binds calcium, freeing oxalate; often 60–70 mg); **primary** (hepatic, often >100 mg, childhood) |
+| Citrate | **>320 mg** | Distal RTA, diarrhoea, hypokalaemia, high animal protein |
+| Uric acid | <600 mg (labs: <750 women, <800 men) | Hyperuricosuria promotes calcium oxalate stones |
+| pH | 5.8–6.2 | <5.5 uric acid (metabolic syndrome); >6.5–7 calcium phosphate, RTA, infection |
+| Sodium | <100 mmol | Raises calcium excretion |
+| Cystine | Negative screen | Cystinuria |
 
-### Interpretation
-1. **Hypercalciuria** (commonest): Pak's absorptive (suppressed PTH), renal leak (high PTH, normal serum calcium) and resorptive (primary hyperparathyroidism: high calcium and PTH) types.
-2. **Hyperoxaluria** (>40 mg/day): dietary; **enteric** (fat malabsorption or gastric bypass: fatty acids bind calcium, leaving oxalate free for absorption; often 60–70 mg/day, with low citrate and volume); **primary** (hepatic overproduction, often >100 mg/day, childhood onset).
-3. **Hypocitraturia** (<320 mg/day): idiopathic, distal RTA, chronic diarrhoea, hypokalaemia, high animal protein.
-4. **Hyperuricosuria** promotes calcium oxalate stones. **Uric acid stones** are driven mainly by urine pH <5.5 (metabolic syndrome, diabetes, gout).
-5. **Distal RTA**: urine pH >6, hypocitraturia, calcium phosphate stones; in incomplete forms an ammonium chloride load fails to lower pH below 5.5.
-6. **Cystinuria**: autosomal recessive transport defect of cystine, ornithine, lysine, arginine. Solubility is about 300 mg/L at pH 5 and 400 mg/L at pH 7, so aim for <250 mg/L.
-7. **Infection stones**: urease-producing organisms, pH >7, struvite.
+- **Uric acid stones** depend mainly on urine pH: the pKa is 5.5, so acid urine keeps uric acid undissociated and insoluble.
+- **Distal RTA**: pH >6, low citrate, calcium phosphate stones; incomplete forms fail an ammonium chloride load (pH stays >5.5).
+- **Cystinuria**: autosomal recessive transport defect (cystine, ornithine, lysine, arginine); solubility about 300 mg/L at pH 5 and 400 mg/L at pH 7, so aim for <250 mg/L.
+- **Infection stones**: urease-splitting organisms, pH >7, struvite.
+- **Also know:** hypomagnesiuria; RSS (relative supersaturation) guides therapy; medullary sponge kidney and calyceal diverticulum (stasis plus metabolic defects); 2,8-dihydroxyadenine stones (APRT (adenine phosphoribosyltransferase) deficiency).
 
 ```
 Stone episode → screening evaluation
-  Low risk → general advice (urine >2.5 L, less salt and animal protein, normal calcium)
-  High risk → 24-h urine → specific abnormality → targeted therapy
-    → repeat 24-h urine within 6 months → yearly
+  Low risk → general advice
+  High risk → 24-h urine → targeted therapy → repeat within 6 months → yearly
 ```
 
 ### Treatment linked to abnormality
+- **General**: urine >2.5 L, sodium ≤2.3 g/day, normal calcium, less animal protein, more fruit and vegetables.
 
 | Abnormality | Treatment |
 |---|---|
-| Hypercalciuria | Sodium ≤2.3 g/day, normal calcium; **thiazide** (HCTZ (hydrochlorothiazide) 25 mg twice daily, chlorthalidone, indapamide) plus potassium citrate |
+| Hypercalciuria | **Thiazide** (hydrochlorothiazide 25 mg twice daily, chlorthalidone, indapamide) plus potassium citrate |
 | Primary hyperparathyroidism | **Parathyroidectomy** |
 | Hypocitraturia, distal RTA | **Potassium citrate** 30–60 mEq/day |
-| Enteric hyperoxaluria | Low fat and oxalate; **calcium with meals**; magnesium; liquid potassium citrate |
-| Primary hyperoxaluria type 1 | Pyridoxine, **lumasiran**; liver ± kidney transplant |
-| Hyperuricosuria | Low purine; **allopurinol** 300 mg/day |
+| Enteric hyperoxaluria | Low fat and oxalate; **calcium with meals**; magnesium |
+| Primary hyperoxaluria type 1 | Pyridoxine, **lumasiran** (RNAi (RNA interference)); liver ± kidney transplant |
+| Hyperuricosuria | **Allopurinol** 300 mg/day |
 | Uric acid stones | **Potassium citrate** to pH 6.0–6.5 |
-| Cystinuria | Urine ≥3 L/day, low sodium; alkalinise to **pH 7.0–7.5**; **tiopronin** if refractory |
-| Infection stones | Complete clearance, culture-specific antibiotics; AHA (acetohydroxamic acid) if surgery impossible |
+| Cystinuria | Urine ≥3 L/day; pH **7.0–7.5**; **tiopronin** |
+| Struvite | Complete clearance; AHA (acetohydroxamic acid) if surgery impossible |
 
-**Landmark trials**
-- **Borghi 1996**: urine >2 L reduced 5-year recurrence (12% vs 27%).
-- **Borghi 2002**: low-salt, low-protein, normal-calcium diet halved recurrence versus low-calcium diet.
+- **Borghi 1996**: urine >2 L cut 5-year recurrence (12% vs 27%). **Borghi 2002**: low-salt, low-protein, normal-calcium diet halved recurrence versus low calcium. **NOSTONE (2023)**: hydrochlorothiazide did not reduce recurrence.
 
-### Special groups
-- **Children**: all need full evaluation (spot ratios if not toilet-trained).
-- **Pregnancy**: defer 24-h urine until after delivery (physiological hypercalciuria).
-
-### Follow-up
-- 24-h urine within 6 months of therapy, then yearly.
-
-### Recent advances
-- **RNAi (ribonucleic acid interference)** drugs (lumasiran, nedosiran) for primary hyperoxaluria.
-- **NOSTONE (2023)**: hydrochlorothiazide did not reduce recurrence versus placebo.
+### Special groups and follow-up
+- **Children**: all evaluated (spot ratios if not toilet-trained; consider Dent disease, monogenic causes). **Pregnancy**: defer 24-h urine (physiological hypercalciuria).
+- Repeat 24-h urine within 6 months, then yearly; re-analyse new stones. Adherence is poor; citrus juices are only adjuncts.
 
 **Diagram to draw:** Supersaturation zones; evaluation algorithm.
 
 > **Key points to remember:**
-> - 24-h urine on usual diet, ≥4 weeks after event; check creatinine for adequacy.
-> - Targets: volume >2.5 L, oxalate <40 mg, citrate >320 mg, Ca <250/300 mg (or <4 mg/kg).
-> - Distal RTA: NH4Cl load fails to lower pH <5.5; cystinuria: cystine <250 mg/L, pH 7.0–7.5, tiopronin.
+> - Targets: volume >2.5 L, oxalate <40 mg, citrate >320 mg, calcium <250/300 mg.
+> - Distal RTA: NH4Cl fails to lower pH <5.5; cystine <250 mg/L at pH 7.0–7.5.
 > - Borghi 1996: fluid halves recurrence; repeat 24-h urine within 6 months.
 
 ---
@@ -203,44 +152,38 @@ Stone episode → screening evaluation
 ## II-3a. Management of priapism
 **Type:** SAQ (10 marks)
 
-### Definition
-- A full or partial erection lasting **≥4 hours** beyond, or unrelated to, sexual stimulation (AUA/SMSNA (American Urological Association/Sexual Medicine Society of North America)).
-
-### Classification
-| Feature | **Ischaemic (low-flow)** | **Non-ischaemic (high-flow)** | **Stuttering** |
-|---|---|---|---|
-| Mechanism | Veno-occlusive compartment syndrome | Cavernous artery–sinusoidal fistula | Recurrent ischaemic episodes |
-| Cause | ICI (intracavernosal injection), SCD (sickle cell disease), antipsychotics | Perineal trauma | SCD |
-| Penis | Rigid, painful | Partially rigid, painless | Painful episodes |
-| Urgency | **Emergency** | Elective | Treat episodes as ischaemic |
+### Definition and classification
+- Full or partial erection **≥4 hours** beyond, or unrelated to, sexual stimulation (AUA/SMSNA (American Urological Association/Sexual Medicine Society of North America)).
+- **Ischaemic** (95%; veno-occlusive, rigid, painful, **emergency**); **non-ischaemic** (arterial fistula after trauma, partly rigid, painless); **stuttering** (recurrent ischaemic episodes, typically SCD (sickle cell disease)).
+- **Causes**: ICI (intracavernosal injection), SCD (29–42% of affected males), α-blockers, trazodone and antipsychotics, cocaine, leukaemia, metastases.
 
 ### Diagnosis
-- **Corporal blood gas** (key test): ischaemic is dark, pO2 <30 mmHg, pCO2 >60 mmHg, pH <7.25; non-ischaemic resembles arterial blood.
-- **Colour Doppler** if equivocal: absent flow (ischaemic) or high flow/fistula (non-ischaemic).
+- **Corporal blood gas**: ischaemic is dark, pO2 <30 mmHg, pCO2 >60 mmHg, pH <7.25; non-ischaemic resembles arterial blood.
+- Colour Doppler if equivocal; blood count, haemoglobin electrophoresis, toxicology.
 
 ### Ischaemic priapism
 ```
-Penile block → aspiration ± saline irrigation
+Penile block → aspiration ± irrigation
 → Phenylephrine 100–500 µg/mL, 1 mL every 3–5 min, up to 1 h
-→ Failure → distal shunt ± tunnelling → proximal shunt
-→ >36 h or refractory → consider immediate prosthesis
+→ Distal shunt ± tunnelling → proximal shunt
+→ >36 h or refractory → immediate prosthesis
 ```
-- Aspiration alone succeeds in under a quarter; add phenylephrine and monitor blood pressure and pulse.
-- **Distal shunts**: Winter, Ebbehoj, T-shunt, Al-Ghorab; corporal **tunnelling** improves success. **Proximal**: Quackels, Grayhack.
-- **Duration predicts ED (erectile dysfunction)**: 0% ≤12 h, 22% at 12–24 h, 56% at 24–36 h, 100% beyond 36 h.
-- **Early prosthesis** causes less shortening and fewer complications than delayed insertion into fibrotic corpora.
+- Aspiration alone succeeds in under a quarter. Monitor blood pressure and pulse.
+- **Distal shunts**: Winter, Ebbehoj, T-shunt, Al-Ghorab; corporal snake **tunnelling**. **Proximal**: Quackels, Grayhack; penoscrotal decompression.
+- **Duration predicts ED (erectile dysfunction)**: 0% ≤12 h, 22% at 12–24 h, 56% at 24–36 h, 100% >36 h.
+- **Early prosthesis** gives less shortening than delayed insertion.
+- Oral agents, hydration and exchange transfusion are adjuncts only.
 
 ### Non-ischaemic priapism
-- Observe; about 60% resolve. If persistent at 4 weeks, **selective embolisation**; repeat embolisation rather than surgery for recurrence.
+- Observe (about 60% resolve); reassess at 4 weeks. Then **selective embolisation**; repeat it, rather than surgery, for recurrence.
 
 ### Stuttering priapism
-- Prevent with daily PDE5i (phosphodiesterase-5 inhibitor, which resets PDE5 regulation), pseudoephedrine or self-injected phenylephrine.
+- Prophylaxis: daily PDE5i (phosphodiesterase-5 inhibitor, which resets PDE5 regulation), pseudoephedrine, self-injected phenylephrine; hormonal agents (GnRH (gonadotropin-releasing hormone) agonists, antiandrogens) at the cost of libido.
 
-**Diagram to draw:** Penile cross-section showing distal vs proximal shunts.
+**Diagram to draw:** Penile cross-section with distal and proximal shunts.
 
 > **Key points to remember:**
-> - Ischaemic: pO2 <30, pCO2 >60, pH <7.25 – emergency.
-> - Phenylephrine 100–500 µg/mL, 1 mL q3–5 min up to 1 h.
+> - Ischaemic: pO2 <30, pCO2 >60, pH <7.25; phenylephrine 1 mL q3–5 min up to 1 h.
 > - Distal shunt ± tunnelling before proximal; prosthesis if >36 h.
 > - High-flow: observe (~60% resolve), then embolise.
 
@@ -250,41 +193,39 @@ Penile block → aspiration ± saline irrigation
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **RTA (renal tubular acidosis)** is a hyperchloraemic, normal AG (anion gap) metabolic acidosis from defective tubular hydrogen-ion secretion or bicarbonate reabsorption.
+- **RTA (renal tubular acidosis)**: hyperchloraemic, normal AG (anion gap) metabolic acidosis from defective tubular H+ secretion or HCO3 reabsorption. Normally the proximal tubule reclaims most bicarbonate and α-intercalated cells excrete acid.
 
 ### Comparison of types
 
 | Feature | **Type 1 (distal)** | **Type 2 (proximal)** | **Type 4 (hyperkalaemic)** |
 |---|---|---|---|
-| Defect | H+ secretion by α-intercalated cell | Proximal HCO3 reabsorption | Aldosterone deficiency or resistance |
-| Urine pH | **Always >6; never <5.5** | <5.5 at steady state | Low |
-| Serum potassium | Low | Low | **High** |
+| Defect | H+ secretion (α-intercalated cell) | Proximal HCO3 reabsorption | Aldosterone deficiency or resistance |
+| Urine pH | **Always >6** | <5.5 at steady state | Low |
+| Potassium | Low | Low | **High** |
 | Urine citrate | **Profoundly low** | Near normal | – |
-| Stones | **Up to 70%: calcium phosphate, nephrocalcinosis** | Uncommon | Uncommon |
-| Treatment | **Potassium citrate** | High-dose alkali plus potassium | Fludrocortisone, low-potassium diet |
+| Stones | **Up to 70%; calcium phosphate, nephrocalcinosis** | Uncommon | Uncommon |
+| Causes | Sjögren, lupus, inherited | Fanconi syndrome | Diabetic nephropathy, obstruction |
+| Treatment | **Potassium citrate** | High-dose alkali plus potassium | Fludrocortisone |
 
-- **Causes**: distal – Sjögren, lupus, inherited; proximal – Fanconi syndrome; type 4 – diabetic nephropathy, obstruction.
-- **Why distal RTA forms stones**: fixed alkaline urine, profound hypocitraturia (acidosis increases tubular citrate reabsorption) and hypercalciuria from bone buffering.
+- **Why distal RTA forms stones**: fixed alkaline urine, profound hypocitraturia (acidosis increases citrate reabsorption) and hypercalciuria from bone buffering.
 - **Incomplete distal RTA**: normal serum bicarbonate, but urine cannot be acidified below 5.5 after an acid load.
 
 ### Diagnosis
-- **UAG (urine anion gap) = (Na + K) – Cl**, reflects urinary ammonium. Negative: GI (gastrointestinal) loss. Positive: renal cause (distal or type 4 RTA).
-- **Ammonium chloride load**: failure to lower urine pH below 5.5 confirms distal RTA.
+- **UAG (urine anion gap) = (Na + K) – Cl** reflects urinary ammonium: negative in GI (gastrointestinal) loss, positive in renal causes.
+- **Ammonium chloride load**: urine pH fails to fall below 5.5 in distal RTA.
 
 ### Urological relevance
 - Obstructive uropathy causes hyperkalaemic distal RTA, which improves after relief.
 - Topiramate and acetazolamide mimic RTA (alkaline urine, low citrate, calcium phosphate stones).
 - Potassium citrate is preferred to sodium alkali, because sodium raises calcium excretion.
+- **Also know:** CKD (chronic kidney disease) acidosis; amiloride and trimethoprim cause hyperkalaemic distal RTA; mixed type (carbonic anhydrase II deficiency); medullary sponge kidney link; laxative abuse gives ammonium urate stones; inherited distal RTA (SLC4A1, ATP6V1B1 with deafness); growth failure in children.
 
-### Recent advances
-- Genetic testing for inherited distal RTA.
-
-**Diagram to draw:** Nephron showing defect sites: proximal tubule (type 2), α-intercalated cell (type 1), aldosterone action (type 4).
+**Diagram to draw:** Nephron with defect sites for types 1, 2 and 4.
 
 > **Key points to remember:**
 > - Type 1: urine pH >6, hypokalaemia, hypocitraturia, calcium phosphate stones (up to 70%).
-> - Type 4: hyperkalaemia, low urine pH; seen in obstructive uropathy.
-> - Positive UAG = renal cause; NH4Cl load – pH fails to fall <5.5 in distal RTA.
+> - Type 4: hyperkalaemia, low urine pH; obstructive uropathy.
+> - Positive UAG = renal cause; NH4Cl load fails to lower pH <5.5 in distal RTA.
 
 ---
 
