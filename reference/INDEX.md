@@ -13,6 +13,11 @@ Uploaded chapter notes (Campbell-Walsh-Wein based). Text extracts in `text/` for
 - Sections: Renal Injuries; Child Versus Adult: Renal Trauma; Indications For Renal Imaging; Table 62.1 Indications For Imaging For Renal Trauma; Imaging Studies For Diagnosis; Imaging Modalities For Suspected Renal Injury; Computed Tomography; Classification And Grading Of Renal Injuries; 2011 Revised Injury Staging Classification; Blunt Versus Penetrating Renal Trauma; Guideline Positions: Paediatric Renal Trauma; Interventions For Symptomatic Urinoma Or Persistent Leak; Persistent Or Delayed Bleeding; Persistent Versus Delayed Renal Bleeding; Management; Operative; Retroperitoneal Haematoma Found At Laparotomy; Renal Arterial Laceration Versus Occlusion; Upj Disruption: Immediate Versus Delayed Repair; Renal Pelvis Rupture; Key Points: Follow-Up And Long-Term Issues; Ureteral Trauma; Ureteral Injury: Immediate Versus Delayed Diagnosis; Ureteral Repair By Location And Length; Key Points: Ureteral Injuries; Bladder Injuries; Child Versus Adult: Lower Urinary Tract Trauma; Extraperitoneal Versus Intraperitoneal Bladder Rupture; Urethral Trauma; Posterior Urethral Disruption: Initial Options; Key Points: Bladder And Urethral Injury; Genital Injury In The Paediatric Population; Penile Urethrocutaneous Fistula: Hair Tourniquet Versus Circumcision; Trauma Organ Injury Scales; Genital Skin Cover: Penis Versus Scrotum; Key Points: Genital Injury
 
 
+## Chapter 65 - Adolescent and Transitional Urology - Chapter Notes
+- PDF: `Chapter 65 - Adolescent and Transitional Urology - Chapter Notes.pdf`
+- Sections: What Constitutes Adolescent Urology?; Definition Of Transition; Why Is Transition Needed?; Who Needs Transition?; Categories Referred To A Urological Transition Service; What Happens When Transition Fails?; Transition As A Process; Fig. 65.1 An Overview Of The Process: The Three Ps Of Transition; Paediatric Vs Adult Setting; Institutional Transition Programmes; Paediatric To Adult Health Care; Systems And Models Of Care; Routes Into An Adolescent Urology Service; Models Of Lifelong Care; Transient Vs Long-Term Multidisciplinary Care; Key Points; Developmental Considerations; Developmental Stages Invoked For Surgical Timing; Recommended Windows For Genital Surgery; Elective Vs Semi-Elective Or Non-Elective Surgery; The Practicalities: Setting Up A Service; Multidisciplinary Team (Mdt) Membership; Barriers To Transition And Their Solutions
+
+
 ## Chapter 88 - Surgical Radiologic and Endoscopic Anatomy of the Kidney and Ureter - Chapter Notes
 - PDF: `Chapter 88 - Surgical Radiologic and Endoscopic Anatomy of the Kidney and Ureter - Chapter Notes.pdf`
 - Sections: Kidneys; Relations Of The Right And Left Kidney; Retroperitoneal Compartments Defined By The Renal (Gerota) Fascia; Normal Renal Parenchyma By Imaging Modality; Timing Of Contrast Phases — Ct, Mri And Intravenous Urography; Key Points: The Kidney And Its Parenchyma; "Vaua".; Right Versus Left Renal Vein; Puncture Route And Vascular Injury (Sampaio Endocast Studies); Lymphatic Drainage Of Kidney And Ureter; Dilatation And Its Mimics; Sampaio Classification Of The Pelvicalyceal System; Ureters; Ureteral Segmentation — Three Schemes; Right Versus Left Abdominal Ureter; Terminal Pelvic Ureter — Male Versus Female; Complete Versus Incomplete Ureteral Duplication; Medial Displacement Of The Pelvic Ureter; Key Points: Radiologic Anatomy Of The Ureter; Ureteral Blood Supply And Direction Of Endoureterotomy; Autonomic Supply — Kidney Versus Ureter; Lyon Classification Of The Ureteric Orifice
@@ -68,9 +73,29 @@ Uploaded chapter notes (Campbell-Walsh-Wein based). Text extracts in `text/` for
 - Sections: History; Etiopathogenesis Of Bladder Calculi; Primary Versus Secondary Bladder Calculi; Presentation Of Bladder Stones; Presentation — Children Versus Adults; Management Of Bladder Stones; Transurethral Versus Percutaneous Cystolithotripsy; Lower Tract Calculi In Special Situations; Approach By Reconstruction; The Two Phases After Spinal Cord Injury; Paediatric Series — Approach And Verdict; Urethral Calculi; Migratory Versus Primary Urethral Calculi; Urethral Calculi — Treatment By Site; True Prostatic Calculi — Endogenous Versus Exogenous; Seminal Vesicle Calculi — Surgical Options; (Tured); Key Points
 
 
+## Chapter 120 - Aging and Geriatric Urology - Chapter Notes
+- PDF: `Chapter 120 - Aging and Geriatric Urology - Chapter Notes.pdf`
+- Sections: Demographics Of Aging; Biology And Principles Of Aging; Replicative Versus Stress-Induced Senescence; Clinical Evaluation Of The Geriatric Urology Patient; Homeostasis Versus Homeostenosis; Inouye, 2007); Tiers Of Daily-Living Function; Perioperative Guidance For The Older Surgical Patient; Comorbidity Versus Disability Versus Frailty; Models Of Frailty; Table 120.1 Beers Criteria Of Urology-Relevant Medications (Rebuilt); Treatments For Genitourinary Syndrome Of Menopause; Preventive Interventions In Older Adults: What The Evidence Shows; Agent-Specific Points In Older Adults; Care Facilities (Rebuilt); Asymptomatic Bacteriuria: Guideline Positions; End Of Life Care And Urology; Additional Resources; Summary; Key Points (Items Not Covered Above)
+
+
 ## Chapter 125 - Genital and Lower Urinary Tract Trauma - Chapter Notes
 - PDF: `Chapter 125 - Genital and Lower Urinary Tract Trauma - Chapter Notes.pdf`
 - Sections: Injuries Of The External Genitalia; Key Points: Step-By-Step Approach To Penile Reattachment; Key Points: Genital Trauma; Bladder Injury; Key Points: Clinical Indicators Of Bladder Injury; Key Points: Indications For Immediate Repair Of Bladder Injury; Urethral Injury; Key Points: Lower Genitourinary Tract Injuries
+
+
+## Chapter 126 - Management and Considerations in Transgender and Nonbinary Individuals - Chapter Notes
+- PDF: `Chapter 126 - Management and Considerations in Transgender and Nonbinary Individuals - Chapter Notes.pdf`
+- Sections: Introduction; Terminology; Table 126.1 Terminology And Definitions; Epidemiology; Evaluation And Diagnosis; World Professional Association For Transgender Health; Key Points; Hormone Treatment; Table 126.3 Gender-Affirming Hormone Therapy Regimens; Wpath Soc.; Urologic Considerations; Fertility Preservation; Genitourinary Cancer Surveillance; Long-Term Follow-Up Of Transgender And Gender-Diverse Individuals; Creating A Transgender- And Nonbinary-Affirming Clinical; Environment
+
+
+## Chapter 127 - Male-to-Female Gender-Affirming Surgery Vaginoplasty - Chapter Notes
+- PDF: `Chapter 127 - Male-to-Female Gender-Affirming Surgery Vaginoplasty - Chapter Notes.pdf`
+- Sections: Introduction; Preparation For Surgery; Vaginoplasty; Postoperative Care
+
+
+## Chapter 128 - Special Urologic Considerations in Transmasculine Individuals - Chapter Notes
+- PDF: `Chapter 128 - Special Urologic Considerations in Transmasculine Individuals - Chapter Notes.pdf`
+- Sections: Urologic Issues In Gender-Nonconforming; Formal Diagnostic Terms For Gender Dysphoria; Urologic Issues In Gender-Nonconforming Transmasculine Youths; Urologic Issues In Transmasculine Individuals; Hormonal Treatment And Genital Surgery: What Helps And What Hinders; Complications To Include In Consent, By Procedure; Timing Of Vaginectomy: Three Strategies; The Three Parts Of The Urethra After Phalloplasty; Metoidioplasty Versus Phalloplasty; Complications Of Metoidioplasty By Clavien–Dindo Grade; Testicular Versus Erectile Prosthesis; Dedicated Phalloplasty Prostheses; Conclusion
 
 
 ## Chapters 92 and 61 - Urologic Complications of Renal Transplantation and Urologic Considerations in Paediatric Renal Transplantation - Chapter Notes-2
