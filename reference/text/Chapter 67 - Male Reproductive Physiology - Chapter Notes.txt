@@ -1,0 +1,1082 @@
+Chapter 67 — Male Reproductive Physiology
+Campbell-Walsh-Wein Urology · Paul J. Turek
+
+HYPOTHALAMIC-PITUITARY-GONADAL AXIS
+ • The hypothalamic-pituitary-gonadal (HPG) axis governs four processes, in development and adulthood:
+   phenotypic sex development in embryogenesis → sexual maturation at puberty → testis endocrine
+   function (testosterone) → testis exocrine function (sperm).
+
+Basic Endocrine Concepts
+PEPTIDE VERSUS STEROID HORMONES
+           Peptide                                                  Steroid
+Nature     Small secretory proteins                                 Derived from cholesterol; lipophilic
+Storage    Secretory granules                                       Not stored — secretion directly reflects
+                                                                    production rate
+Receptor Cell-surface                                               Intracellular; membrane-permeable
+Signalling Second messengers (cyclic adenosine monophosphate        Receptor translocates to nuclear DNA
+           [cAMP], calcium, tyrosine kinase) → protein              recognition sites → regulates gene
+           phosphorylation                                          transcription
+Plasma     —                                                        Bound to carrier proteins
+Examples Luteinising hormone (LH), follicle-stimulating hormone     Testosterone, oestradiol
+         (FSH)
+
+ • Signalling is hierarchically governed by a free-running hypothalamic pulse generator; the amplitude and
+   frequency of secretion determine downstream organ responsiveness.
+ • Feedback control is the principal regulatory mechanism — a hormone may regulate its own synthesis and
+   action or another's; negative feedback minimises perturbation and maintains homeostasis.
+Concept — the axis is read by its rhythm as much as its level: pulse frequency and negative feedback, not
+absolute hormone quantity, set downstream responsiveness.
+
+Components of the Reproductive Axis
+Hypothalamus
+ • Integrative centre of the axis: input from amygdala, thalamus, pons, retina, olfactory cortex and other
+   areas; it is the pulse generator for cyclic pituitary secretion.
+ • Linked to the pituitary by neuronal pathways and a portal vascular system; the portal system bypasses
+   the systemic circulation, delivering hypothalamic hormones directly to the anterior pituitary.
+ • Gonadotrophin-releasing hormone (GnRH): 10-amino-acid peptide from neurones of the preoptic and
+   arcuate nuclei; its only known function is to stimulate LH and FSH secretion.
+ • Plasma half-life about 5–7 minutes; almost entirely removed on first pass through the pituitary (receptor
+   internalisation or enzymatic degradation).
+ • GnRH output integrates stress, exercise and diet from higher centres, pituitary gonadotrophins and
+   circulating gonadal hormones (Table 67.1).
+ • Kallmann syndrome: congenital hypogonadotrophic hypogonadism — GnRH precursor neurones fail to
+   migrate → absent hypothalamic GnRH → delayed puberty or infertility from absent testosterone
+   production.
+
+
+
+
+                                                   page 1 of 22
+Chapter 67 — Male Reproductive Physiology                                                    Hypothalamic-Pituitary-Gonadal Axis
+ • Three rhythms: seasonal (months; peaks in spring), circadian (higher testosterone in the early morning),
+   pulsatile (peaks every 90–120 minutes).
+ • Pulsatility is essential: exogenous GnRH agonists (e.g. leuprolide acetate) stop testicular testosterone
+   production by converting pituitary GnRH exposure from cyclic to constant.
+TABLE 67.1 SUBSTANCES THAT MODULATE GONADOTROPHIN-RELEASING HORMONE (GNRH) SECRETION
+ Direction of feedback                      Modulator class                      Example
+ Negative                                   Opioids                              β-Endorphin
+                                            Peptide hormones                     FSH, LH
+                                            Sex steroids                         Testosterone
+ Positive                                   Prostaglandins                       Prostaglandin E2 (PGE2)
+                                            Insulin                              Insulin
+                                            Kisspeptins                          Kisspeptin (puberty)
+                                            Leptins                              Leptin
+ Variable                                   Catecholamines                       Dopamine
+
+ • What it is for: the inhibitors are stress signals (opioids) and the axis's own end-products (gonadotrophins,
+   testosterone); the stimulators are metabolic and nutritional signals (insulin, leptin) and the pubertal
+   trigger (kisspeptin).
+ • Trap: catecholamines are variable, not simply inhibitory; kisspeptin and leptin are positive.
+Anterior Pituitary
+POSTERIOR VERSUS ANTERIOR PITUITARY
+ Posterior lobe
+ (neurohypophysis)                 Anterior lobe (adenohypophysis)
+ Oxytocin, vasopressin             LH, FSH, prolactin, adrenocorticotrophic hormone (ACTH), growth hormone (GH),
+                                   thyroid-stimulating hormone (TSH)
+ Driven by neural stimuli          Regulated by blood-borne factors; site of GnRH action
+
+ • Pituitary lies within the bony sella turcica.
+ • GnRH stimulates FSH and LH production and release by a calcium flux-dependent mechanism;
+   gonadotroph sensitivity to GnRH varies with age and hormonal status.
+ • LH and FSH are glycoproteins of two subunits, α and β, each coded by a separate gene. The α subunit is
+   identical between them and similar to other pituitary glycoprotein hormones; the unique β subunit
+   confers biological and immunological specificity. Both subunits are required for activity.
+ • Their oligosaccharide side-chains (sialic acid residues) differ in content and likely account for different
+   plasma clearance rates.
+ • Both act only in the gonads, via adenylate cyclase → intracellular cAMP.
+LUTEINISING HORMONE VERSUS FOLLICLE-STIMULATING HORMONE
+                LH                                        FSH
+ Pulses         8–16 per 24 h; amplitude varies           About every 1.5 h; amplitude varies by about a quarter
+                one- to threefold
+ Relation to    Pulses closely reflect GnRH release       Relatively independent of GnRH (inhibin, activin)
+ GnRH
+ Response to Readily assessed                             Harder to assess: smaller amplitude, longer serum half-life
+ GnRH
+
+
+
+
+                                                           page 2 of 22
+Chapter 67 — Male Reproductive Physiology                                                  Hypothalamic-Pituitary-Gonadal Axis
+
+                LH                                      FSH
+ Main           Testosterone (androgens and             Oestradiol and inhibin
+ feedback       oestrogens, negative)
+ Target         Leydig cells                            Sertoli cells and spermatogonial membranes
+ Action         Steroidogenesis: mitochondrial          Seminiferous tubule growth in development; essential for
+                cholesterol → pregnenolone →            initiating spermatogenesis at puberty; in the adult, maintains
+                testosterone                            quantitatively normal spermatogenesis
+
+ • Prolactin: globular protein of 199 amino acids (23 kDa); milk synthesis in pregnancy and lactation; no
+   human mutations known in the prolactin gene or its receptor.
+ • Male role less clear: may increase Leydig cell LH receptors and sustain high intratesticular testosterone;
+   may potentiate androgen effects on accessory sex glands; normal levels may be needed for libido.
+ • Low prolactin is not necessarily pathological; hyperprolactinaemia abolishes gonadotrophin pulsatility
+   by interfering with episodic GnRH release.
+ • ACTH, GH and TSH from the anterior pituitary can also significantly affect male reproduction.
+Testis
+ • Virility and fertility need the endocrine testis (interstitial Leydig cells — steroidogenesis) and the exocrine
+   testis (seminiferous tubules — spermatozoa) working together.
+ • Testosterone production is about 5 mg/day, secreted in a damped, irregular, pulsatile (nyctohemeral)
+   pattern.
+ACTIVE METABOLITES OF TESTOSTERONE
+ Metabolite                                 Enzyme      Note
+ Dihydrotestosterone (DHT) — the            5α-         Much more potent than testosterone; conversion needed in most
+ major androgen                             reductase   peripheral tissues, but not in testis or skeletal muscle
+ Oestradiol                                 Aromatase   Contributes to feedback, especially on FSH
+
+ • FSH acts primarily on Sertoli cells, inducing androgen-binding protein (ABP), transferrin, lactate,
+   ceruloplasmin, clusterin, plasminogen activator, prostaglandins and growth factors → tubule growth in
+   development, sperm production from puberty.
+ • Mouse FSH knockouts suggest FSH is not essential for spermatogenesis — affected mice can be fertile.
+INHIBIN VERSUS ACTIVIN
+ Inhibin                                                         Activin
+ 32-kDa protein from Sertoli cells                               Testis protein, close homology to transforming growth
+                                                                 factor-β (TGF-β)
+ Inhibits FSH release; production stimulated by FSH;             Stimulates FSH secretion; receptors in many
+ negative feedback at pituitary or hypothalamus                  extragonadal tissues — possible growth-factor roles
+
+ • Steroid negative feedback on GnRH acts through androgen receptors (ARs) in hypothalamus and pituitary;
+   both testosterone and oestrogen participate — mainly testosterone, lesser oestradiol.
+STEROID FEEDBACK: TESTOSTERONE VERSUS OESTRADIOL
+                                       Testosterone                           Oestradiol
+ Main site                             Hypothalamus                           Pituitary
+ Predominant target                    LH (primary regulator)                 FSH, together with inhibin
+
+Concept — the axis runs two loops: an LH loop between hypothalamus and Leydig cell governed by
+testosterone, and a partly GnRH-independent FSH loop between pituitary and Sertoli cell governed by
+oestradiol and inhibin — so LH reports Leydig function and FSH and inhibin report the tubules.
+
+
+                                                         page 3 of 22
+Chapter 67 — Male Reproductive Physiology                                                 Hypothalamic-Pituitary-Gonadal Axis
+Development of the Hypothalamic-Pituitary-Gonadal Axis
+ • Sex determination is genetic. SRY (sex-determining region Y) on the short arm of the Y chromosome
+   encodes a protein with a high mobility group (HMG) box — a conserved DNA-binding motif that kinks
+   DNA → altered gene expression → testis formation → male phenotype.
+ • SRY does not act alone. DAX1 (dosage-sensitive sex reversal, adrenal hypoplasia critical region, on
+   chromosome X, gene 1), a nuclear hormone receptor gene, is needed for proper testis development, yet
+   depending on timing can suppress SRY by inhibiting its downstream testis genes.
+ • WNT4 (wingless-type integration site family member 4), largely confined to the adult ovary, also behaves
+   as an "antitestis" gene.
+ • The female pathway is no longer regarded as the passive SRY-negative "default": WNT4 and DAX1 can
+   proactively induce female gonadal development even in the presence of SRY.
+FETAL TESTIS PRODUCTS AND THEIR EFFECTS
+ Cell                  Product                                Effect
+ Leydig                Testosterone                           Internal genitalia (Wolffian duct development)
+ Leydig                Insulin-like peptide 3 (INSL3)         Transabdominal testis migration towards the scrotum
+ Target tissue (5α-    DHT                                    Masculinises the genital anlage → external genitalia
+ reductase)
+ Sertoli               Müllerian-inhibiting substance (MIS;   Prevents Müllerian duct forming uterus and fallopian
+                       anti-Müllerian hormone, AMH)           tubes; keeps early germ cells quiescent (inhibits meiosis)
+
+ • Deficiencies in these pathways produce birth defects or intersex disorders.
+ • Feedback relationships are established during gestation; kisspeptin helps activate GnRH neurones and
+   trigger GnRH release; steroidogenic factor 1 (SF-1), an orphan nuclear receptor from developing Sertoli
+   cells, contributes to axis development.
+Postnatal sequence: placental steroid withdrawal at birth → neonatal high gonadotrophin secretion → axis
+sensitivity rises → FSH and LH fall to low childhood levels → puberty begins with GnRH pulsing
+(hypothalamic capacity usually from about the 12th year) → gonadotrophins reach adult levels → sex
+hormones rise.
+ • Puberty begins at critical growth, weight and nutritional rates; likely initiated by kisspeptin, melatonin
+   and leptin. Leptin (adipocyte hormone) signals fat-store size and modulates hypothalamic and pituitary
+   activity.
+Concept — male development is built hormone by hormone — testosterone the ducts, DHT the external
+genitalia, MIS the removal of Müllerian structures — and sex determination itself is a contest between pro-
+testis SRY and active anti-testis genes, not a default.
+
+Aging and the Hypothalamic-Pituitary-Gonadal Axis
+ • Progressive decline in testosterone and sperm production: mean plasma testosterone in the seventh
+   decade is about one-third lower than in young men.
+ • Terms: male menopause, male climacteric, andropause; more appropriately partial androgen deficiency
+   in the aging male (PADAM).
+ • Seminiferous epithelium: decreased tubule volume and length; lower sperm output from decreased
+   germ cell proliferation, not increased degeneration; FSH rises (about threefold).
+
+
+
+
+                                                        page 4 of 22
+Chapter 67 — Male Reproductive Physiology                                                                           Testis
+ • Causes are multifactorial: fewer Leydig cells and more testosterone-binding proteins; loss of diurnal
+   variation; blunted feedback to low testosterone (despite generally high gonadotrophins) and to GnRH;
+   pulsatile GnRH replaced by irregular, less effective pulses.
+Concept — ageing is a double failure — peripheral (fewer Leydig cells, reduced proliferation, rising FSH) and
+central (blunted feedback, disordered pulsatility) — so neither compartment alone explains the decline.
+
+ KEY POINTS: HYPOTHALAMIC-PITUITARY-GONADAL AXIS
+   • Normal testosterone and sperm production depend on pulsatile secretion of hypothalamic GnRH and
+     pituitary LH and FSH.
+   • Regulation of HPG hormones occurs primarily through negative feedback.
+   • Maleness derives from SRY on the Y chromosome; WNT4 and DAX1 are antitestis genes that can
+     proactively induce female gonadal development.
+   • With paternal age: lower testosterone, blunted feedback, irregular pulsatility.
+
+
+TESTIS
+Gross Architecture
+ • White, ovoid; 15–25 mL volume; 4.5–5.1 cm long.
+ • Tunica albuginea contains smooth muscle within collagen: may give the capsule contractility, affect
+   testicular blood flow and promote outflow of seminiferous tubule fluid.
+ • Septa divide the parenchyma into lobes, each with a centrifugal artery. Tubules harbour developing germ
+   cells.
+ • Interstitial tissue: Leydig cells, mast cells, macrophages, nerves, blood and lymph vessels — 20–30% of
+   testicular volume.
+ • Seminiferous tubules are long, coiled and looped, both ends terminating in the rete testis; 600–1200
+   tubules, combined length about 250 m.
+ • The rete testis (the "hub") coalesces into 6–12 ductuli efferentes → caput epididymis.
+ARTERIAL SUPPLY TO TESTIS AND EPIDIDYMIS
+ Artery                                     Origin / relation
+ Internal spermatic (testicular)            Abdominal aorta; intimately associated with the pampiniform plexus
+ Deferential (vasal)                        Accompanies the vas; richest collateral link to the testicular artery
+ External spermatic (cremasteric)           Collateral source
+
+ • Countercurrent exchange in the pampiniform plexus (counterflowing artery and veins) exchanges heat
+   and small molecules — e.g. testosterone diffuses passively from vein to artery (concentration-limited).
+ • Arterial blood reaching the testis is 2–4 °C below rectal temperature; loss of this differential is associated
+   with testicular dysfunction in varicocele and cryptorchidism.
+ • Varicocele surgery relevance: arteries in the spermatic cord — single in about half of cords, two in about
+   30%, three in about 20%.
+ • Below the pampiniform plexus near the mediastinum the artery is highly coiled and branches before
+   entry; at the testis a single artery most often enters, otherwise two or more branches (angiography).
+ • Collaterals, especially internal spermatic–deferential, maintain viability after division of the internal
+   spermatic artery; but where there is a single testicular artery, its interruption can cause atrophy.
+
+
+
+
+                                                          page 5 of 22
+Chapter 67 — Male Reproductive Physiology                                                                      Testis
+Intratesticular course: arteries pierce the tunica albuginea → run inferiorly along the posterior surface
+within the parenchyma → branches pass anteriorly over the parenchyma; major branches also cross the
+inferior pole and fan over the anterior surface. These vessels are at risk at orchidopexy, testis biopsy and
+sperm retrieval; the midsection has relatively fewer vessels than superior or inferior areas.
+ • Centrifugal arteries run in the septa → arterioles → two capillary beds, stated as a pair: intertubular (in
+   the columns of interstitial tissue) versus peritubular (ladder-like, alongside the tubules).
+ • Testicular blood flow about 9 mL/100 g/min.
+ • Intratesticular veins do not run with the arteries: parenchymal veins drain to surface veins or to a
+   mediastinal group along the rete; these join deferential veins to form the pampiniform plexus, whose thin
+   walls favour diffusion of testosterone and heat to the gonadal artery.
+ • No known somatic innervation; autonomic supply from the intermesenteric nerves and renal plexus
+   along the testicular artery. Adrenergic fibres are restricted mainly to small vessels supplying Leydig cell
+   clusters and may regulate steroidogenesis.
+ • Vascular tone is regulated at several levels — capsular artery autoregulation, regional metabolic control by
+   peptides such as atrial natriuretic peptide, and assisted transendothelial transport of LH — a highly
+   specialised microvasculature.
+ • Prominent lymphatics in the cord; their obstruction dilates the interstitium but not the tubules (the
+   interstitium is lymph-drained) and causes hydrocele — a known complication of varicocelectomy and
+   herniorrhaphy.
+ • Intratubular fluid bathes Sertoli cells, flows tubule → rete testis → caput; isosmotic with plasma, mainly
+   of tubular origin; its reabsorption in the rete and efferent ductules is regulated by oestrogens. Its
+   composition differs markedly from plasma and lymph → basis of the blood–testis barrier.
+Concept — the testis is engineered to run cool and sealed: countercurrent pampiniform exchange keeps it 2–4
+°C below core and the tubules keep their own fluid; varicocele, cryptorchidism, post-varicocelectomy
+hydrocele and atrophy after single-artery ligation are each failures of that engineering.
+
+Testis Cytoarchitecture
+Interstitium
+Leydig Cells
+ • Interstitium contains blood vessels, lymphatics, fibroblasts, macrophages, mast cells and Leydig cells,
+   which produce the bulk of testicular steroid.
+ • Leydig cells differentiate from mesenchymal precursors by the seventh week of gestation; activation of
+   steroidogenesis coincides with androgen-dependent differentiation of the reproductive tract.
+ • Differentiation is driven by LH and placental human chorionic gonadotrophin (hCG) and local paracrine
+   factors such as insulin-like growth factor-1 (IGF-1).
+ • By 3 months after birth, a second wave of Leydig differentiation in response to pituitary LH briefly
+   elevates testosterone; neonatal androgen imprints the hypothalamus, liver and prostate for appropriate
+   later androgen response.
+ • After pubertal reactivation, a young adult testis contains about 700 million Leydig cells.
+Testosterone
+ • Testosterone, synthesised from cholesterol, is the principal testicular steroid; numerous C18, C19 and C21
+   steroids are also produced.
+Synthesis: cholesterol stores (LH mobilises them via cholesterol esterase) → transport to the inner
+mitochondrial membrane → side-chain cleavage enzyme → pregnenolone → out of the mitochondrion into
+
+
+
+                                                   page 6 of 22
+Chapter 67 — Male Reproductive Physiology                                                                            Testis
+smooth endoplasmic reticulum → testosterone → diffuses out of the cell → held in extracellular fluid and
+plasma by steroid-binding proteins.
+MITOCHONDRIAL CHOLESTEROL TRANSPORT PROTEINS
+ Steroidogenic acute regulatory (StAR) protein                    Peripheral benzodiazepine receptor (PBR)
+ Synthesis induced by LH binding; threads through the outer       Forms a channel for cholesterol in the mitochondrial
+ mitochondrial membrane to facilitate cholesterol transport       membrane; functional interaction with StAR unclear
+
+MAJOR ENZYMES OF TESTOSTERONE BIOSYNTHESIS
+ Enzyme                                                 Step
+ Cholesterol side-chain cleavage enzyme                 Cholesterol → pregnenolone (mitochondrion)
+ 3β-Hydroxysteroid dehydrogenase                        Pregnenolone → testosterone (smooth endoplasmic reticulum)
+ Cytochrome P450 17α-hydroxylase/C17–20-lyase
+ 17β-Hydroxysteroid dehydrogenase
+
+ • Mutations in these genes cause disorders of androgen biosynthesis — a relatively rare cause of sexual
+   ambiguity in chromosomally normal males.
+Control of Testosterone Synthesis
+REGULATORS OF LEYDIG CELL STEROIDOGENESIS
+ Category                           Factors
+ Principal regulator                LH → cAMP → cholesterol transport into mitochondria
+ Pituitary modifiers of the LH      FSH, prolactin
+ response
+ Non-pituitary modifiers            GnRH; inhibin and activin; epidermal growth factor (EGF), IGF-1, TGF-β;
+                                    prostaglandins; adrenergic stimulation
+ Direct inhibitors                  Oestrogens and androgens
+
+Testosterone Cycles
+TESTOSTERONE PEAKS AND THEIR DEVELOPMENTAL ROLE
+ Peak        Timing                                                              Developmental event
+ Fetal       12–18 weeks' gestation                                              Development of the fetal reproductive
+                                                                                 tract
+ Neonatal About 2 months of age                                                  "Imprinting" of androgen-dependent
+                                                                                 target tissues
+ Pubertal    Second decade (rise at 12–17 years)                                 Masculinisation
+ Adult       Maximum in second–third decade → plateau → slow decline;            Maintenance of androgen-dependent
+             dramatic fall in senescence                                         organs
+
+ • Superimposed rhythms: annual (peak autumn, nadir spring), daily (peak morning, nadir evening), and
+   frequent irregular fluctuations — reflecting continuous pituitary–testis interaction.
+ • Figure 67.9 legend (Ewing, Davis and Zirkin, 1980): testosterone is low through the prepubertal period
+   between the neonatal and pubertal peaks.
+Concept — every testosterone peak has a developmental job — build, imprint, masculinise, maintain — and
+all are driven through one LH-stimulated, StAR-dependent step: cholesterol entry into the mitochondrion.
+
+
+
+
+                                                         page 7 of 22
+Chapter 67 — Male Reproductive Physiology                                                                         Testis
+Seminiferous Tubules
+ • A unique environment for gamete production: support cells (Sertoli cells; fibrocytes and myoid cells of the
+   basement membrane) and germ cells (slowly dividing stem cells → rapidly proliferating spermatogonia
+   and spermatocytes → metamorphosing spermatids).
+Sertoli Cells
+ • Line the tubules, resting on the basement membrane with cytoplasmic ramifications to the lumen;
+   irregular nuclei, prominent nucleoli, low mitotic index.
+ • Tight junctions between adjacent Sertoli cells — the strongest intercellular barriers in the body — divide
+   the tubule into basal and adluminal compartments, the basis of the blood–testis barrier and of an
+   immunologically privileged site.
+ • Sertoli cells are nurse cells: germ cells are nourished within and between their cytoplasmic projections; a
+   polarised epithelium whose base faces the plasma environment and whose apex holds the unique tubular
+   environment.
+BASAL VERSUS ADLUMINAL COMPARTMENT
+ Basal                                          Adluminal
+ Beside basement membrane; plasma-like          Towards lumen; environment unique to the tubule
+ environment
+ Spermatogonia and early (preleptotene)         All later germ cells — spermatocytes from leptotene–zygotene
+ spermatocytes                                  onwards, spermatids
+
+ • Nurturing functions: specialised adluminal microenvironment; gap junctions with germ cells; migration
+   of germ cells — tight junctions are constantly remodelled, opening and closing to let germ cells pass.
+   Ligand–receptor systems such as c-kit and kit ligand mediate Sertoli–germ cell communication.
+ • Sertoli cells also phagocytose germ cells and secrete fluid and effector molecules.
+ • ABP, one of the earliest described Sertoli products, is an intracellular androgen carrier that keeps
+   intratubular androgen about 50-fold above serum; testosterone in turn regulates Sertoli function,
+   including ABP production.
+ • Inhibin B: Sertoli-derived, negative feedback on FSH; an endocrine marker of Sertoli cell function in male
+   infertility evaluation.
+ • Further secretions, beyond the FSH-induced products above: extracellular matrix (laminin, collagen types
+   IV and I); glycoprotein 2, somatomedin-like substances, T proteins, H-Y antigen, cyclic proteins; and
+   steroids — DHT, testosterone, androstenediols, 17β-oestradiol, other C21 steroids (roles largely unknown).
+Germ Cells
+ • Output about 123 million spermatozoa daily (wide range) — about 1000 per heartbeat; germ cells are
+   ordered from basement membrane to lumen in at least 13 recognisable types, each a step in
+   spermatogenesis.
+Sequence (least → most differentiated): dark type A spermatogonia (Ad) → pale type A (Ap) → type B (B) →
+primary spermatocytes: preleptotene (R) → leptotene (L) → zygotene (Z) → pachytene (P) → secondary
+spermatocytes (II) → spermatids Sa → Sb → Sc → Sd1 → Sd2.
+ • Figure 67.11 legend (after Clermont, 1966): six stages (I–VI) of the cycle; Ad and Ap spermatogonia
+   appear in every stage; diakinesis (D1) in stage V; both maturation divisions (ID, IID) in stage VI; residual
+   body (Rb) shed with Sd2.
+ • Figure 67.10 legend (Russell, 1980): Sertoli cell as a tree with trunk and limbs; basal, intermediate and
+   adluminal compartments. Junctions form above and below leptotene–zygotene spermatocytes as they
+   translocate (intermediate compartment) → spermatocytes enter the adluminal compartment when the
+   upper junctions dissociate → elongating spermatid sits in a recess of the trunk → advanced spermatid
+
+
+                                                    page 8 of 22
+Chapter 67 — Male Reproductive Physiology                                                                                Testis
+   moves luminally for spermiation, only its head in contact. Contacts: desmosome–gap junction complexes,
+   ectoplasmic specialisations, tubulobulbar complexes.
+Peritubular Structure
+LAYERS OF THE PERITUBULAR TISSUE
+ Layer                       Content
+ Outer adventitial           Fibrocytes (fibroblasts)
+ Middle                      Myoid cells with connective tissue lamellae; abundant microfibrils
+ Inner                       Collagen matrix (inner lamella)
+
+ • Myoid cells are thought to be contractile; they secrete extracellular matrix (fibronectin, collagen type I)
+   and produce the inner collagenous layer.
+ • Myoid cells interact precisely with Sertoli cells (mesenchymal–epithelial): the myoid paracrine factor P-
+   Mod-S (peritubular modifies Sertoli) profoundly affects Sertoli synthetic function in vitro.
+Blood-Testis Barrier
+ • Injected dyes reach all tissues except regions of brain and testis. More accurately termed the blood–
+   seminiferous tubule barrier; it has two components.
+ANATOMICAL VERSUS FUNCTIONAL BARRIER
+ Anatomical (mechanical)                Functional (immunological)
+ Partly from myoid cells; traffic       Restricted lymphocyte types and numbers in vulnerable regions of the germinal
+ also regulated at capillary            epithelium
+ endothelium
+ Most important: Sertoli–Sertoli        Immunological tolerance: small continuous leak of sperm antigen in weaker
+ tight junctions, excluding large       areas (rete testis, efferent ductules, epididymis) → T-suppressor cells and
+ molecules and lymphocytes              tolerance, like allergen desensitisation; a large antigen load provokes a true
+                                        immune response
+ Necessary but not sufficient —         Sertoli immunosuppressive mediators: galectin-1 ("master immune regulator"),
+ absent in other protected areas of     interferon-γ, soluble Fc receptor, TGF-β, androgens
+ the tract
+
+ • The barrier develops at spermarche; likely important for meiosis and for protecting gametes that are not
+   recognised as self.
+ • Its value is realised only after puberty, when postmeiotic "foreign" antigens first exist: testicular insult
+   (biopsy, torsion, trauma) before puberty does not induce antisperm antibodies; after puberty,
+   immunological infertility is a known risk.
+ • Clinically, it may limit chemotherapy access to intratesticular cancer cells → isolated testicular
+   recurrence.
+Concept — the barrier exists because postmeiotic germ cells appear only after the immune system has
+learned self — so it matters only after puberty, and it is active tolerance as much as a physical seal.
+
+Spermatogenesis
+ • A complex process of DNA reduction and germ cell metamorphosis. Classically about 64 days; an in vivo
+   labelling study found the time to produce an ejaculated sperm ranges 42–76 days — wide interindividual
+   variation.
+ • Figure 67.13 legend: deuterated water labelling in men with normal semen quality; new ejaculated sperm
+   appeared as early as 42 days.
+
+
+
+
+                                                         page 9 of 22
+Chapter 67 — Male Reproductive Physiology                                                                      Testis
+Three phases: proliferative (spermatogonia self-renew or differentiate) → meiotic (reduction division →
+haploid spermatids) → spermiogenesis (metamorphosis of spermatids into spermatozoa).
+CYCLE, STAGE AND WAVE
+ Term    Meaning
+ Cycle Division of primitive spermatogonial stem cells into subsequent germ cells; several cycles coexist
+ Stage Cellular association seen from one fixed point in a tubule — six in humans
+ Wave Spatial organisation of cycles along the tubule — helical/spiral in humans, making production continuous, not
+      pulsatile
+
+Testis Stem Cell Migration, Renewal, and Proliferation
+Testis Stem Cell Migration
+Primordial germ cells migrate to the gonadal ridge → associate with Sertoli cells in primitive cords → called
+gonocytes once the gonad forms seminiferous cords → called spermatogonia after migrating to the tubule
+periphery.
+ • Early migrating germ cells resemble embryonic stem cells and are likely the source of adult germ cell
+   tumours.
+ • Failure to migrate into the primitive testis is thought to cause extragonadal germ cell tumours and
+   azoospermia with Sertoli cell–only histology.
+Testis Stem Cell Renewal
+ • Spermatogonia in the stem cell niche are replenished (stem cell renewal) via the kit ligand/c-kit system
+   and the niche factor glial cell line–derived neurotrophic factor (GDNF).
+ • Human spermatogonial stem cells from adult biopsies can be reprogrammed in vitro to embryonic-like
+   stem cells: express pluripotency markers (octamer-binding transcription factor 4 [OCT-4], sex-determining
+   region Y-box 2 [SOX-2], STELLAR, growth differentiation factor 3 [GDF-3]), form all three germ layers, keep
+   a normal karyotype, form teratomas, and express epigenetic markers and telomerase → possible patient-
+   specific cell therapy.
+ • Figure 67.15 legend: colonies grown under human embryonic stem cell conditions show the cobblestone
+   appearance of embryonic stem cells and are functionally multipotent.
+Testis Stem Cell Proliferation
+ • Ap spermatogonia in the basal niche divide every 16 days to form B spermatogonia, which are
+   committed to become spermatocytes.
+ • Daughter cells remain joined by cytoplasmic bridges, seen between germ cells of all classes — probably
+   for synchronised proliferation, differentiation and gene regulation.
+Testis Stem Cell Aging or Senescence
+ • Renewal continues from puberty to the eighth decade — reproductive longevity at a cost:
+ • (1) Paternal age effect (PAE) disorders — gamete quality control declines, more disease in offspring.
+ • (2) "Selfish spermatogonia" — non-random mutations in the fibroblast growth factor receptor 2 and 3
+   (FGFR2, FGFR3) RAS-receptor pathways give clonal advantage; one consequence is oncogenesis — the
+   basis of spermatocytic seminoma in men of advanced reproductive age.
+Meiosis
+ • Somatic cells replicate by mitosis (DNA duplication → nuclear envelope breakdown → equal division;
+   identical daughters); germ cells by meiosis, which generates genetic diversity for natural selection.
+ • Essential difference: after a single DNA duplication, meiosis divides twice, so a diploid (2n) parent yields
+   haploid (n) gametes.
+
+
+
+                                                      page 10 of 22
+Chapter 67 — Male Reproductive Physiology                                                                   Testis
+TABLE 67.2 ESSENTIAL DIFFERENCES: MITOSIS AND MEIOSIS
+                                            Mitosis            Meiosis
+ Cells                                      Somatic            Sexual (germ)
+ Divisions / daughters                      One / two          Two / four
+ Chromosome number                          Maintained         Halved
+ Homologues                                 No pairing         Synapsis in prophase I
+ Crossovers                                 None               More than one per homologue pair
+ Centromere division                        Anaphase           Anaphase II
+ Daughter genotype                          Identical          Genetically varied
+
+ • The table isolates the examinable asymmetry: synapsis and crossing over occur only in meiosis, and in
+   meiosis centromeres do not divide until the second division.
+ • Small RNAs — small interfering RNAs (siRNAs), microRNAs (miRNAs), piwi-interacting RNAs (piRNAs) —
+   regulate germ cell gene expression at the post-transcriptional or translational level.
+Sequence: type B spermatogonia divide mitotically → primary spermatocytes (the first germ cells to
+undergo meiosis; they cross from the basal to the adluminal compartment) → first meiotic division — the
+reduction division → secondary spermatocytes → second, mitosis-like (equational) division → haploid Sa
+spermatids, each genetically distinct because of recombination.
+ • Chromosomal recombination is the defining feature of mammalian meiosis and the engine of genetic
+   diversity: in meiotic prophase a synaptonemal complex pairs maternal and paternal homologues, which
+   exchange DNA at crossing-over sites (chiasmata).
+ • Defective recombination causes azoospermia: significant defects are found in a subset of non-obstructive
+   azoospermic men and in about half of men with maturation arrest — faulty recombination is linked to
+   poor sperm production.
+ • Altered crossover position is a risk factor for nondisjunction → sperm aneuploidy; the association in
+   azoospermic men is strong enough to explain the higher rate of chromosomal abnormality in offspring
+   from in vitro fertilisation (IVF) and intracytoplasmic sperm injection (ICSI).
+Spermiogenesis
+ • Round Sa spermatids become spermatozoa without dividing.
+CHANGES DURING SPERMIOGENESIS
+ Structure         Change
+ Cytoplasm         Lost; organelles migrate
+ Acrosome          Formed from the Golgi apparatus
+ Flagellum         Formed from the centriole
+ Nucleus           Compacted to about 10% of former size; spherical → asymmetrical as chromatin condenses
+ Mitochondria      Reorganised around the midpiece
+
+ • Nuclear reshaping involves chromosome structure and proteins, the perinuclear cytoskeletal theca, the
+   manchette of microtubules, subacrosomal actin and Sertoli interactions.
+ • After elongation the Sertoli cytoplasm retracts, stripping residual cytoplasm and extruding the sperm into
+   the lumen. Production reaches up to 300 sperm per gram of testis per second.
+Sertoli Cell–Germ Cell Interaction
+ • Cell–cell networks: Leydig–Sertoli, Leydig–peritubular, Sertoli–peritubular and Sertoli–germ cell.
+
+
+
+
+                                                         page 11 of 22
+Chapter 67 — Male Reproductive Physiology                                                                               Testis
+ • TGF-β3 and tumour necrosis factor-α (TNF-α) can reversibly disrupt the blood–testis barrier by reducing
+   occludin and zonula occludens-1 (ZO-1) via a p38 mitogen-activated protein (MAP) kinase pathway.
+ • Figure 67.14 legend (Schulze and Rehder, 1984): helical configuration of epithelial cycles forms
+   overlapping waves that keep sperm production constant.
+Concept — spermatogenesis is continuous because it is staggered in space — cycles arranged as helical
+waves — while each clone is synchronised internally by cytoplasmic bridges; its weak points are
+recombination in meiosis and the lifelong mitotic self-renewal that accumulates mutations.
+
+Genetics
+ • Genetic causes of abnormal spermatogenesis: single-gene mendelian mutations (e.g. cystic fibrosis) and
+   chromosomal disorders (structural or numerical).
+ • Deletions of the Y long arm were postulated decades ago to cause azoospermia: the azoospermia factor
+   (AZF) region, now subdivided by microdeletion pattern into AZFa, AZFb and AZFc.
+ • Yq microdeletions occur in 6–8% of severely oligospermic and 15% of azoospermic men — the most
+   commonly defined molecular cause of male infertility.
+AZOOSPERMIA FACTOR DELETIONS: HISTOLOGY AND SPERM RECOVERY
+ Deletion                       Typical histology                                        Sperm in ejaculate or testis
+ Complete AZFa                  Germ cell aplasia / Sertoli cell–only                    Highly unlikely
+ Complete AZFb                  Maturation arrest — primary spermatocyte (early) or      Highly unlikely; isolated
+                                spermatid (late)                                         ejaculated cases
+ AZFc (partial or complete)     Hypospermatogenesis, or Sertoli cell–only with foci of   Often found
+                                spermatogenesis
+ Partial AZFa or AZFb           —                                                        Ejaculated sperm detected
+ AZFa+b, AZFb+c                 —                                                        Ejaculated sperm reported
+ (presumed partial)
+ Complete AZFa–c                —                                                        Azoospermia; none on biopsy
+
+ • Pattern: prognosis worsens proximally — AZFc is the retrievable deletion, complete AZFa and AZFb are
+   not.
+ • The X chromosome also matters: many genes expressed exclusively in mouse spermatogonia map to X;
+   candidate human X-linked fertility genes include SOX3 (sex-determining region Y-box 3), TEX11 (testis-
+   expressed 11) and FATE (fetal and adult testis-expressed) — X genes may explain a share of unexplained
+   infertility.
+
+Genetics and Paternal Age
+Age-Related Sperm Chromosomal Anomalies
+ • Studied first because of concern about trisomy 21. Fluorescence in situ hybridisation (FISH) shows the
+   PAE increases sex-chromosome aneuploid sperm, but there is little evidence of more aneuploid births,
+   except possibly trisomy 21 and disomy 1 (very rare).
+ • Structural anomalies in sperm rise linearly with paternal age — continued division places germ cells at
+   risk; yet, except for reciprocal translocations, little evidence of more de novo structural anomalies in
+   offspring.
+Age-Related Sperm Genetic Mutations
+ • Single-gene defects arise from DNA replication errors. The disorders in Box 67.1 are sentinel phenotypes:
+   significant frequency, low fitness, highly penetrant mutations.
+
+
+
+
+                                                        page 12 of 22
+Chapter 67 — Male Reproductive Physiology                                                                           Epididymis
+ • Mechanism: about 30 spermatogonial divisions by puberty, then 23 divisions per year — the more
+   divisions, the more replication errors.
+ • Risk of a new autosomal dominant mutation: 0.22 per 1000 births under 29 years → doubles (0.45) at
+   40–44 → 3.7 per 1000 over 45.
+BOX 67.1 GENETIC DISORDERS IN OFFSPRING ASSOCIATED WITH ADVANCED PATERNAL AGE (GROUPED)
+ Group                            Disorders
+ Skeletal and craniofacial        Achondroplasias, Apert syndrome, Crouzon syndrome, Treacher Collins syndrome,
+                                  oculodentodigital syndrome, fibrodysplasia ossificans, Marfan syndrome
+ Tumour predisposition            Bilateral retinoblastoma, neurofibromatosis, tuberous sclerosis, polyposis coli
+ Other single-gene                Aniridia, Waardenburg syndrome, progeria, polycystic kidney disease; X-linked:
+                                  haemophilia A, Lesch–Nyhan syndrome
+ Neurodevelopmental /             Schizophrenia, bipolar disorder, autism, attention deficit disorders, Alzheimer disease
+ psychiatric                      (postulated)
+
+ • Pattern and trap: the list is dominated by de novo dominant conditions (FGFR-pathway skeletal dysplasias
+   above all) but also contains X-linked and complex neuropsychiatric disorders — the latter link to the
+   epigenetic data below.
+Age-Related Sperm Epigenetic Changes
+ • Sperm DNA methylation marks change with age: hundreds of defects accumulate, non-randomly, at sites
+   controlling neurodevelopmental genes.
+ • In men donating sperm when young and again when older, the epigenetic change rate in sperm was
+   about double that estimated for other tissues; changes cluster in schizophrenia and bipolar genes → at
+   least some PAE disorders may be epigenetically transmitted.
+Age-Related Sperm DNA Fragmentation Changes
+ • Sperm DNA fragmentation rises with paternal age — single- and double-strand breaks; conceptually like
+   programmed cell death but induced by oxidative stress after sperm release from Sertoli cells.
+ • Associated with impaired fertility, poor early embryo development and miscarriage, probably because
+   the oocyte cannot correct the volume of breaks introduced into the embryonic genome.
+Concept — the male germline never stops dividing, and every paternal-age effect — point mutation, selfish
+clones, aneuploidy, methylation drift, fragmentation — is the price of lifelong spermatogonial self-renewal.
+
+ KEY POINTS: TESTIS
+   • The testis contains 250 m of seminiferous tubules and 700 million Leydig cells in the young adult.
+   • Spermatogenesis occurs in stages, cycles and waves to ensure constant sperm production.
+   • With paternal age: more sperm structural chromosomal abnormalities, autosomal dominant
+     mutations and epigenetic alterations.
+   • Sperm DNA fragmentation increases with paternal age and contributes to decreased fertility.
+   • Strong association between advanced paternal age and neurodevelopmental sentinel phenotypes in
+     offspring.
+
+
+EPIDIDYMIS
+Gross Architecture
+ • Comma-shaped organ on the posterolateral surface of the testis.
+
+
+
+
+                                                        page 13 of 22
+Chapter 67 — Male Reproductive Physiology                                                                         Epididymis
+ • Passage converts testicular sperm, which have very poor or no motility, into sperm with functional
+   motility, chemotaxis to follicular fluid and fertilising ability, through membrane, charge and metabolic
+   changes (see Sperm Biochemical Changes).
+ • A 3–4 m duct, tightly coiled within a tunica vaginalis sheath; septa from the sheath divide it into caput,
+   corpus and cauda.
+ • Caput: 8–12 ductuli efferentes — lumen large and irregular near the testis, narrowing and oval near the
+   ductus epididymidis → coalesce into a single duct in the corpus → in the bulky cauda the tubule enlarges,
+   becomes irregular and gradually assumes the appearance of the vas deferens.
+Vascular and Lymph Supply
+ • Caput and corpus: branch of the testicular artery → superior and inferior epididymal branches; also
+   deferential branches, with collaterals to the testicular supply.
+ • Cauda: branches of the deferential artery.
+ • The deferential and cremasteric arteries are collateral sources when the main testicular artery is
+   obstructed or ligated.
+ • Arteries enter along septa, coil extensively, then become straight microvascular vessels. Capillary density
+   is greatest in the proximal caput, less distally; the network is under steroid regulation (animal data).
+ • Venous: corpus and cauda veins form the vena marginalis epididymis of Haberer → pampiniform plexus
+   via the vena marginalis testis, or via cremasteric or deferential veins.
+LYMPHATIC DRAINAGE OF THE EPIDIDYMIS
+ Caput and corpus                                                       Cauda
+ As for the testis — beside the internal spermatic vein →               With the vas deferens lymphatics → external iliac
+ preaortic nodes                                                        nodes
+
+Innervation
+ • Intermediate spermatic nerves (superior hypogastric plexus) and inferior spermatic nerves (pelvic
+   plexus).
+ • Ductuli efferentes and proximal epididymis: sparse sympathetic fibres, mainly perivascular. Nerve density
+   increases progressively distally, together with the appearance of smooth muscle.
+ • This explains rhythmic peristalsis of the ductuli and intermittent contraction of the cauda and vas during
+   emission — critical for sperm movement.
+FIGURE 67.16 LEGEND — EPIDIDYMAL SEGMENTS (BAUMGARTEN, HOLSTEIN AND ROSENGREN, 1971)
+ Segment numbers                       Region
+ 1a–d                                  Ductuli efferentes
+ 2a–b                                  Ductus epididymidis — caput
+ 3a–c                                  Ductus epididymidis — corpus
+ 4a–c                                  Ductus epididymidis — cauda
+ 5/6                                   Ductus deferens, pars epididymica / pars libera
+
+Cytoarchitecture
+Epididymal Epithelium
+PRINCIPAL VERSUS BASAL CELLS
+ Principal cells                                                                 Basal cells
+ Majority                                                                        Far fewer
+
+
+
+                                                        page 14 of 22
+Chapter 67 — Male Reproductive Physiology                                                                          Epididymis
+
+ Principal cells                                                                   Basal cells
+ Height varies with stereocilia (microvilli, not cilia) — tall proximally (about   Tear-shaped, on the basal lamina; apices
+ 120 µm), shorter distally (about 50 µm)                                           form threads between principal cells
+ Absorptive and secretory: coated pits, micropinocytotic and multivesicular Thought to derive from macrophages;
+ bodies, membranous vesicles, extensive Golgi — capacity varies along the possible precursors of principal cells
+ duct
+ Morphology varies along the duct                                                  Morphology constant along the duct
+
+ • Regional epithelium: the epididymis proper is pseudostratified (principal and basal cells); the ductuli
+   efferentes have ciliated cells (conduct sperm into the epididymis) and non-ciliated cells (secretory; some
+   with microvilli, resorptive).
+ • Apical junctional complexes suggest a blood–epididymis barrier, less tight than the blood–testis barrier,
+   extending caput to cauda and shaping the composition of luminal fluid in each segment.
+ • Figure 67.17 legend: electron micrograph — principal cells, basal cells, stereocilia and myofilaments.
+Epididymal Contractile Tissue
+CONTRACTILE LAYER ALONG THE DUCT
+ Region              Contractile tissue
+ Ductuli             Loose layer 2–4 cells deep; myofilaments, nexus-like junctions
+ efferentes
+ Corpus              Larger contractile cells resembling smooth muscle
+ Cauda               Thick smooth muscle in three layers — longitudinal, circular, longitudinal — thickening as it
+                     becomes the vas
+
+Concept — along the duct, muscle and sympathetic innervation increase together from caput to cauda, so
+transport grows more active and storage more controllable distally.
+
+Epididymal Function
+ • Variation in anatomy and histology suggests several functional tissues; epididymal passage produces
+   sperm transport and storage, fertilising ability, chemotaxis and motility maturation.
+Sperm Transport
+ • Transit takes 2–12 days; caput–corpus transit ≈ cauda transit; related to daily testicular sperm production,
+   not age or ejaculation frequency.
+ • Sexual frequency does not alter caput and corpus transit, but recent emissions markedly shorten cauda
+   transit.
+Mechanism (sperm are immotile on entry and remain so in the caput): rete testis fluid carries sperm into the
+ductuli → flow drawn on by fluid resorption by ductal epithelium, mediated by the oestrogen receptor →
+motile cilia and myoid contraction in the ductuli → within the epididymis proper, spontaneous rhythmic
+contraction of the duct's contractile cells — the principal mechanism.
+Sperm Storage
+ • Sperm are held in the cauda for variable periods depending on sexual activity; in men under 55, each
+   epididymis holds 155–209 million sperm, about half in the cauda.
+ • Cauda sperm, unlike testicular sperm, show progressive motility, chemotaxis to follicular fluid and
+   fertilising ability.
+ • Animal sperm stay viable several weeks after vasal ligation, but fertility declines with prolonged storage;
+   in humans, extended transit and storage may raise DNA fragmentation and reduce fertility.
+
+
+
+
+                                                         page 15 of 22
+Chapter 67 — Male Reproductive Physiology                                                                        Epididymis
+ • Fate of unejaculated sperm is uncertain: in animals — spontaneous discharge, oral self-cleaning, urine,
+   epididymal reabsorption; in humans, spermiophages (luminal macrophages) phagocytose sperm after
+   vasal ligation; their role in unvasectomised men is unclear.
+Sperm Maturation
+Sperm Motility
+ • Motility capacity is gained during epididymal migration.
+MOTILITY PATTERNS BY REGION (FIGURE 67.18)
+ Region                            Pattern
+ Ductuli efferentes, initial       Immature: immotile or weak twitching; high-amplitude, low-frequency beats, little
+ segment                           forward progression
+ Corpus                            Rising fraction mature
+ Cauda                             Majority mature: low-amplitude, high-frequency beats → progressive motility
+
+ • Contact time versus region is unresolved: animal data suggest partly intrinsic maturation; in obstruction
+   (vasal or epididymal, congenital absence of the vas) sperm from the distal epididymis move poorly and
+   proximal sperm better → motility develops with contact time with proximal epithelium, though
+   obstructed maturation may differ from normal.
+Sperm Fertility
+ • Testicular sperm cannot fertilise unless injected by micromanipulation.
+ • Fertilising ability is acquired gradually: rabbit sperm show a steep rise from caput to corpus to cauda;
+   zona-free hamster egg studies corroborate. Proximal human sperm can bind zona-free eggs; only cauda
+   sperm penetrate.
+ • Fertility maturation is achieved mostly at the late corpus or early cauda (Figure 67.19: fertilising ability
+   rises from near zero in the caput to maximal in the cauda).
+ • Challenge: natural pregnancies follow vasoepididymostomy at the level of the ductuli efferentes —
+   obstruction may skew maturation proximally, or slower flow may allow more contact time.
+ • Nonetheless, fertility is more likely the more distal the anastomosis.
+ • After reversal of vasectomies over 15 years old, ejaculated concentration is maintained but motility falls
+   — acquired epididymal dysfunction from prolonged obstruction affects reversal outcome.
+Sperm Biochemical Changes
+ • Transit confers a net negative surface charge; sulfhydryl groups oxidise to disulfide bonds → structural
+   rigidity needed for progressive motility and egg penetration.
+ • Membrane changes in lectin binding, phospholipid and lipid content, glycoprotein composition,
+   immunoreactivity and iodination → enhanced adherence to the zona pellucida.
+ • Metabolic changes: increased glycolytic capacity, altered intracellular pH and calcium, modified adenylate
+   cyclase, altered phospholipid fatty acids.
+Regulation of Epididymal Function
+ • Luminal fluid differs from serum and varies by region (osmolarity, electrolytes, protein), from
+   vascularisation, barrier activity and selective handling of glycerylphosphorylcholine (GPC), carnitine and
+   sialic acids.
+ • Fluid proteins active on sperm: forward motility protein, sperm survival factor, progressive motility-
+   sustaining factor, sperm motility-inhibiting factor, acidic epididymal glycoprotein, and EP2–EP3 proteins
+   (zona binding).
+
+
+
+
+                                                        page 16 of 22
+Chapter 67 — Male Reproductive Physiology                                                     Ductus (Vas) Deferens
+ • Epididymosomes traffic the sperm small RNA payload that sperm deliver to the embryo and that helps
+   drive embryo development → the epididymis is an important potential source of sperm dysfunction.
+ • Androgen dependence: testosterone and DHT are very concentrated in the epididymis; the castrated
+   epididymis loses motility support, fertility maturation and storage, all reversed by androgen.
+ • The epididymis needs higher androgen levels than other accessory glands; action is mainly via DHT
+   (primary tissue androgen) and/or 5α-androstane-3α,17β-diol (3α-diol); Δ4-5α-reductase and 3α-
+   hydroxysteroid dehydrogenase are present → explains impaired semen quality with 5α-reductase
+   inhibitors.
+ • Temperature: chronic heat (intra-abdominal placement) abolishes storage and electrolyte transport → a
+   mechanism for varicocele and cryptorchidism.
+ • Innervation: partial denervation in the rat → sperm accumulate in the cauda and swim more slowly →
+   relevance to neuropathic infertility (spinal cord injury, diabetes mellitus).
+Concept — the epididymis turns immotile, infertile testicular sperm into motile, fertile gametes by time and
+place — fertility arrives at the late corpus or early cauda, which is why distal anastomoses fare better — and
+it depends on DHT, a cool scrotum and intact nerves.
+
+ KEY POINTS: EPIDIDYMIS
+   • Principal cells (absorptive and secretory), basal cells (macrophage-derived) and contractile cells
+     (sperm transport).
+   • Sperm mature by gaining progressive motility, chemotaxis and the ability to bind and penetrate the
+     zona pellucida.
+   • Function is temperature and androgen dependent — relevant to cryptorchidism, varicocele and 5α-
+     reductase inhibitor use.
+
+
+DUCTUS (VAS) DEFERENS
+Gross Architecture
+ • Derived from the mesonephric (Wolffian) duct; 30–35 cm long, from the cauda epididymis to the
+   ejaculatory duct, medial to the seminal vesicle and posterior to the prostate.
+ • Five regions: sheathless epididymal segment (within tunica vaginalis) → scrotal → inguinal →
+   retroperitoneal (pelvic) → ampulla.
+ • Layers: outer adventitia (vessels, small nerves) → muscular coat: inner longitudinal, middle circular,
+   outer longitudinal → mucosa with epithelium.
+ • Outer diameter 1.5–3 mm; unobstructed lumen 200–700 µm.
+ • Blood supply: deferential artery, a branch of the superior vesical artery; venous drainage corresponds.
+ • Innervation: sympathetic and parasympathetic; cholinergic supply unimportant for motor activity. Rich
+   adrenergic supply from the hypogastric nerve via the presacral nerve, in all three muscle layers, densest
+   in the outer longitudinal layer; short adrenergic neurones; abundant purinergic receptors →
+   sympathetic–purinergic cotransmission in transport and ejaculation.
+ • Neurones with neuropeptide Y, enkephalin, galanin, somatostatin, vasoactive intestinal polypeptide and
+   nitric oxide are present; roles unclear.
+ • At vasovasostomy, testicular-side segments show reduced noradrenergic and secretomotor nerve
+   density compared with abdominal segments — may affect transport and reversal success.
+
+
+
+
+                                                  page 17 of 22
+Chapter 67 — Male Reproductive Physiology                                                Seminal Vesicles and Ejaculatory Ducts
+Cytoarchitecture
+ • Pseudostratified epithelium; height decreases from testis to seminal vesicle while longitudinal folds
+   become more complex distally.
+ • Basal cells plus three tall columnar types — principal, pencil and mitochondria-rich — all with stereocilia
+   and irregular convoluted nuclei; principal cells dominate proximally, pencil and mitochondria-rich cells
+   increase distally.
+ • Total muscle thickness decreases along the length → the vas is more than a passive conduit.
+
+Vas Deferens Function
+Sperm Transport
+ • The vas shows spontaneous motility, responds to stretch, and propels fluid into the urethra by strong
+   peristalsis on hypogastric nerve stimulation or adrenergic neurotransmitters → with sympathetic
+   stimulation just before emission, sperm move rapidly from distal epididymis to ejaculatory duct.
+ • Consistent with the highest muscle-to-lumen ratio (about 10:1) of any hollow viscus.
+ • Vasal sperm reserve about 130 million — a significant share of ejaculated sperm is stored here; vasal
+   sperm quality at vasectomy in fertile men closely matches the ejaculate.
+VASAL TRANSPORT: SEXUAL REST VERSUS SEXUAL STIMULATION (ANIMAL DATA)
+ Sexual rest                                            After sexual stimulation
+ Epididymal sperm move distally and leak into the       Contents propelled proximally towards the epididymis — the
+ urethra in small amounts — clearing excess stored      distal vas contracts with greater amplitude, frequency and
+ sperm                                                  duration
+ With prolonged rest, excess sperm again move distally — the vas both transports sperm and maintains epididymal
+ reserves
+
+Absorption and Secretion
+ • Principal cells are typical glycoprotein-secreting cells; stereocilia, apical blebbing and lysosomes indicate
+   absorption; spermiophagy by ampullary epithelium seen in men and monkeys.
+ • Androgen dependent: the vas actively converts testosterone to DHT; castration causes atrophy (reversed
+   by testosterone) in monkeys and alters spontaneous and α- and β-adrenergic contractions in rats.
+Concept — once regarded as a muscular pipe, the vas is an active, androgen-dependent organ — the most
+muscular hollow viscus, a sperm reservoir and an absorptive-secretory epithelium.
+
+SEMINAL VESICLES AND EJACULATORY DUCTS
+Gross Architecture and Cytoarchitecture
+SEMINAL VESICLE VERSUS EJACULATORY DUCT
+               Seminal vesicle                                        Ejaculatory duct
+ Form          Paired, elongated, hollow; posterior to prostate and   Paired, collagenous tubes from the vas–seminal
+               bladder; 5–7 cm long, up to 1.5 cm wide; one 15-cm     vesicle junction, through the prostate, to the
+               coiled tubule                                          verumontanum
+ Wall          Moist folded mucosa → collagenous middle layer →       Continuation of seminal vesicle, but the outer
+               circular and longitudinal muscle = 80% of wall         circular muscle does not extend into the duct;
+               thickness                                              muscle thins and dissipates distally
+ Epithelium Mainly non-ciliated pseudostratified columnar or          Simple and pseudostratified columnar; complex
+            cuboidal; thin complex folds → crypts                     folds
+
+
+
+
+                                                      page 18 of 22
+Chapter 67 — Male Reproductive Physiology                                                 Seminal Vesicles and Ejaculatory Ducts
+
+              Seminal vesicle                                          Ejaculatory duct
+ Arterial     Prostatovesical branch of the internal iliac/inferior    Branches of the inferior vesical artery
+              vesical artery (may arise from superior vesical or
+              pudendal); anterior and posterior branches
+ Lymph        Internal iliac nodes                                     —
+ Nerves       Sympathetic: superior lumbar and hypogastric nerves; Pelvic plexus
+              parasympathetic: pelvic plexus
+
+ • The seminal vesicle duct opens into the ampullary vas as it enters the prostate.
+ • Ejaculatory duct regions: proximal extraprostatic → middle intraprostatic → short distal segment in the
+   lateral verumontanum (Figure 67.20).
+ • No valve-like muscular "sphincter" exists at the ejaculatory duct orifice; urinary reflux is prevented and
+   ejaculatory continence kept by the acute angle of duct insertion into the urethra.
+ • Figure 67.21 legend (Nguyen et al., 1996): cadaveric sections — intraprostatic ducts have a thick
+   collagenous layer and only a thin outer muscle layer.
+
+Seminal Vesicle and Ejaculatory Duct–Unit Function
+ • The seminal vesicle–ejaculatory duct unit behaves like the bladder and urethra (animal data): the seminal
+   vesicle is a contractile, compliant smooth-muscle reservoir; the ejaculatory duct a urethra-like conduit.
+EJACULATORY DUCT OBSTRUCTION: BLADDER ANALOGY
+ Physical obstruction                                 Functional obstruction
+ Blockage of the ducts — analogous to bladder         Seminal vesicle dysfunction — analogous to voiding dysfunction
+ outlet obstruction                                   from bladder myopathy
+
+ • Static imaging such as transrectal ultrasonography may not distinguish the two; medications and
+   conditions such as diabetes may predispose to seminal vesicle dysfunction.
+
+Seminal Vesicle Function
+ • Seminal vesicles contribute about 80% of seminal fluid, appearing in the later fractions of the ejaculate,
+   after the sperm-rich epididymal and prostatic fractions.
+Sperm course: ejaculation → female cervical mucus → uterus → oviduct (site of fertilisation); during
+residence, sperm must undergo capacitation — the acrosome reaction and hyperactivated motility.
+Whether prostatic or seminal vesicle secretions contribute is unclear.
+ • The physiological role of seminal vesicle fluid is unclear; in rodents it forms a plug against sperm from a
+   subsequent male.
+ • Semen is liquid before ejaculation and coagulates after mixing with seminal vesicle secretions; the major
+   coagulum protein is semenogelin I (52 kDa), expressed only in the seminal vesicles. Coagulation may
+   promote motility, stabilise sperm chromatin and suppress female tract immunity.
+ • The best-elucidated function of semen is antioxidant protection: enzymes glutathione peroxidase,
+   superoxide dismutase, catalase; molecules taurine, hypotaurine, tyrosine.
+ • Lipofuscin from dead epithelial cells gives the yellow-white colour.
+ • Secretions are alkaline and contain fructose (nutrient energy for sperm), mucus, vitamin C, flavins,
+   phosphorylcholine and prostaglandins; mixed with prostatic fluid, semen is mildly alkaline.
+ • Acidic ejaculate (pH <7.2) indicates blockage or absence of the seminal vesicles.
+Concept — the seminal vesicle–ejaculatory duct unit works like bladder and urethra, so obstruction may be
+structural or functional; and because the vesicles supply most of the volume, the alkalinity and the fructose,
+their absence shows as a small, acidic ejaculate.
+
+
+                                                       page 19 of 22
+Chapter 67 — Male Reproductive Physiology                                                                       Spermatozoa
+
+ KEY POINTS: VAS DEFERENS, SEMINAL VESICLE AND EJACULATORY DUCTS
+   • The vas is of Wolffian (mesonephric) origin and carries sperm from the cauda epididymis to the
+     ejaculatory duct during emission.
+   • The seminal vesicle–ejaculatory duct unit is analogous to bladder and urethra and subject to physical
+     blockage and functional disorders that cause infertility.
+
+
+SPERMATOZOA
+Anatomy and Physiology
+ • Human spermatozoon about 60 µm long: head, neck, tail.
+STRUCTURE OF THE SPERMATOZOON
+ Part           Dimensions / limits         Contents
+ Head           Oval, about 4.5 × 3         Nucleus with highly compacted chromatin; acrosome — membrane-bound
+                µm                          enzymes for penetrating the egg's outer vestments
+ Neck           Joins head to tail          Connecting piece and proximal centriole; axoneme starts here
+ Midpiece       7–8 µm; ends at the         Axoneme + outer dense fibres + helical mitochondrial sheath (about 75
+                annulus                     mitochondria)
+ Principal      Longest segment             Axoneme; outer dense fibre columns replaced by the fibrous sheath
+ piece                                      (longitudinal columns + transverse ribs)
+ Endpiece       Most distal                 Axonemal structures (and fibrous sheath per source)
+
+ • Outer dense fibres are rich in disulfide bonds, not contractile; they give the tail the elastic rigidity needed
+   for progressive motility.
+ • Except at the endpiece, a specialised plasma membrane regulates transmembrane movement of ions and
+   molecules.
+ • Mitochondria produce adenosine triphosphate (ATP) and can trigger apoptosis by releasing cytochrome
+   c; outer and inner membranes, the inner folded into cristae (greater surface area).
+ • Five inner-membrane respiratory complexes for oxidative phosphorylation: NADH dehydrogenase
+   (nicotinamide adenine dinucleotide), succinate dehydrogenase, cytochrome bc1, cytochrome c oxidase,
+   ATP synthase. Matrix: citric acid cycle, fatty acid and amino acid oxidative enzymes, ATP, mitochondrial
+   DNA, ribosomes.
+ • Mitochondrial DNA (mtDNA): distinct from nuclear DNA; circular, histone-free, 16,569 base pairs, one
+   heavy and one light strand; encodes respiratory complex subunits, mitochondrial rRNAs and tRNAs; no
+   introns.
+ • mtDNA mutates about 40–100 times faster than nuclear DNA: proximity to reactive oxygen species at the
+   respiratory complexes, no protective histones, limited repair → hence all paternal mtDNA is degraded in
+   the fertilised egg, probably via ubiquitin-mediated proteolysis.
+ • Sperm head membrane proteins mediate sperm–egg interaction: carbohydrate-binding proteins bind the
+   species-specific zona pellucida glycoprotein 3 (ZP3) → zona binding → acrosome reaction.
+ • PH30 (fertilin), present on testicular sperm and modified during epididymal transit, is the sperm–egg
+   membrane fusion protein.
+The Axoneme
+ • The axoneme is the true motor, requiring 200–300 proteins; its best-understood element is the "9 + 2"
+   arrangement of microtubule doublets.
+
+
+
+                                                         page 20 of 22
+Chapter 67 — Male Reproductive Physiology                                                   Spermatozoa
+                                        2+
+ • Dynein: a large (2000 kDa) Mg -stimulated ATPase → ATP-driven microtubule sliding → axonemal
+  bending → flagellar movement.
+AXONEMAL COMPONENTS (FIGURE 67.23)
+Component                    Structure                                Role / defect
+Outer dynein arms (heavy     2–3 globular heads (500 kDa) on a        Control movement along microtubules; mutants:
+chains)                      common stem                              reduced motility
+Inner dynein arms (light     14–120 kDa; associated with radial       Primary effectors of movement; mutants: no
+chains)                      spokes                                   motility
+Radial links (spokes)        Protein complex                          Connect each outer doublet to the central pair
+Central pair and sheath      Ring-like helical sheath around the      Anchors radial links
+                             central doublet
+Tektins                      With outer doublets                      Structural
+Nexin links                  Join adjacent outer doublets             Maintain cylindrical axonemal shape
+
+ • Figure 67.22 legend (Fawcett, 1975): plasma membrane omitted; cross-sections show acrosomal cap,
+   connecting piece, mitochondrial sheath, annulus, fibrous sheath and endpiece in order.
+
+Pathophysiology
+ • Structural defects occur in every compartment. Head shape abnormalities are categorised by the strict
+   (Kruger) classification.
+ • Most head abnormalities do not reflect sperm DNA quality — exceptions: headless (pinhead) and
+   multiple-tailed (polyploid) sperm.
+ • Globozoospermia (acrosomeless, round-headed): severe head phenotype; usually no DNA payload
+   problem, but causes infertility and failed fertilisation with IVF and even ICSI; a recently identified cause is
+   dysfunction of phospholipase C zeta (PLCζ), the calcium-signalling oocyte-activation factor essential for
+   fertilisation.
+ • Midpiece defects are uncommon in fertile men: bent neck (neck and tail at an angle >90°), asymmetrical
+   midpiece insertion, thick, thin or irregular midpiece.
+ • Tail function needs about 1000 proteins; abnormal tail structure presents as one of two phenotypes:
+CILIARY DYSKINESIA VERSUS MULTIPLE MORPHOLOGICAL ABNORMALITIES OF THE SPERM FLAGELLA
+                                                          Multiple morphological abnormalities of the sperm flagella
+                Ciliary dyskinesia                        (MMAF)
+Former name     Primary ciliary dyskinesia subset:        Dysplasia of the fibrous sheath
+                immotile cilia syndrome
+Frequency       Less common                               More common flagellar anomaly
+Motility        Severely reduced (<10%)                   Severely reduced
+Morphology      Grossly normal; concentration may be Visibly absent, short, bent, coiled or irregular flagella;
+                normal                               distortion mainly in the fibrous sheath
+Ultrastructure Axonemal and periaxonemal                  Fibrous sheath defects
+               distortion on electron microscopy
+Cause           Genetic, usually recessive → normal       Genetic (whole-exome sequencing), but also correctable
+                offspring likely                          causes — varicocele, excess reactive oxygen species
+Associations    Primary ciliary dyskinesia: respiratory   —
+                disease and dextrocardia
+
+
+
+
+                                                      page 21 of 22
+Chapter 67 — Male Reproductive Physiology                                                                      Summary
+
+                                                           Multiple morphological abnormalities of the sperm flagella
+                  Ciliary dyskinesia                       (MMAF)
+ Treatment        IVF-ICSI — pregnancies and live births   Correct cause if possible; otherwise IVF-ICSI
+                  reported
+
+Concept — motility lives in the axoneme, so tail defects are mostly genetic and bypassed by ICSI; head defects
+matter chiefly where they signal a DNA problem (pinhead, polyploid) or a failure of oocyte activation
+(globozoospermia, PLCζ).
+
+ KEY POINTS: SPERM
+   • Sperm are ciliated cells with a "9 + 2" axoneme that enables motility.
+   • Motility depends on several hundred proteins — 200–300 in the axoneme, about 1000 across the
+     whole tail.
+   • Motility defects — ciliary dyskinesias or MMAF — typically cause motility <10% and are
+     predominantly genetic.
+   • Sperm mtDNA is a circular, histone- and intron-free ring encoding respiratory complex proteins and is
+     highly mutation-prone.
+
+
+SUMMARY
+ • GnRH, LH and FSH drive spermatogenesis; perturbation is a common cause of male infertility.
+ • Production is optimal 2–4 °C below body temperature, takes about 64 days, is constant through cycles
+   and waves, and needs very high intratesticular testosterone.
+ • Sperm leave the testis immotile and largely unable to fertilise; epididymal transit makes them motile and
+   fertile; the ejaculate feeds, protects (antioxidant) and bars later gametes.
+ • Advanced paternal age brings genetic, epigenetic and fragmentation changes linked to infertility and
+   offspring disease.
+
+
+
+
+                                                       page 22 of 22
+
