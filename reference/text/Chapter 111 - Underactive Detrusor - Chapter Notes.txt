@@ -1,0 +1,769 @@
+Chapter 111 — Underactive Detrusor
+
+Chapter 111 — Underactive Detrusor
+ • Impaired emptying with age is common in both sexes — raised outlet resistance, weak contraction, or
+   both. The weak contraction is detrusor underactivity (DUA) (International Continence Society [ICS]
+   urodynamic term); the symptomatic condition is underactive bladder (UAB).
+ • Outlet resistance dominates male therapy: benign prostatic hyperplasia (BPH) raises it with age and is the
+   target of most treatment for male lower urinary tract symptoms (LUTS).
+ • DUA mostly lacks effective treatment other than catheterisation, preferably intermittent self-
+   catheterisation (ISC), when the postvoid residual (PVR) is raised.
+ • Prevalence in referred LUTS rises with age; cause and mechanisms are poorly understood.
+Concept — Emptying is the product of contraction against resistance; medicine can lower resistance but
+cannot yet strengthen the detrusor, so DUA management is largely drainage.
+
+TERMINOLOGY, DEFINITIONS, AND SYMPTOMS
+ • Older terms abandoned: impaired detrusor contractility, detrusor areflexia, detrusor failure.
+ • ICS 2002 definition of DUA (urodynamic): "a contraction of reduced strength and/or duration, resulting in
+   prolonged bladder emptying and/or failure to achieve complete bladder emptying within a normal time
+   span."
+     ◦ No thresholds are specified for reduced strength, reduced duration or prolonged emptying.
+ • No contraction at all → acontractile detrusor. Distinguish from an isolated failure to void during a
+   urodynamic study (UDS) — the "bashful bladder", which is common and often matches a history of
+   inability to void in public toilets.
+ • A purely urodynamic definition is impractical (UDS is invasive, not universally available) — the reasoning
+   behind the overactive bladder (OAB) symptom complex. But OAB is anchored on urgency (variably linked
+   to detrusor overactivity [DO]); UAB has no pathognomonic symptom and overlaps with OAB and bladder
+   outlet obstruction (BOO).
+SYMPTOMS OF DUA BY PHASE OF THE MICTURITION CYCLE
+ Phase             Symptoms
+ Voiding           Weak stream, intermittency, hesitancy, straining
+ Postmicturition Feeling of incomplete emptying
+ Storage           Frequency and nocturia or loss of the normal desire to void with infrequent voiding (the opposite of
+                   urgency)
+ Very large PVR    Incontinence, especially during sleep
+
+BLADDER SENSATION DETERMINES THE CLINICAL PICTURE (FIG. 111.2)
+                  Sensation absent or very poor                 Sensation preserved
+ Voiding          Infrequent voider                             Normal intervoid interval if emptying normal
+ pattern
+ If emptying      Incontinence, worse at night (urethral        Frequent voider: incomplete emptying, frequency,
+ poor             relaxation in sleep)                          nocturia ± incontinence
+
+ • DUA may also be asymptomatic. This range, and its overlap with LUTS/BPH and OAB, defeats a reliable
+   symptom-based definition.
+ • Clinically significant PVR is not agreed: one proposal is >40% of functional capacity (voided volume +
+   PVR).
+
+
+                                                       page 1 of 15
+Chapter 111 — Underactive Detrusor                                                      Terminology, Definitions, and Symptoms
+ • ICS-accepted symptomatic definition (Chapple and colleagues, 2018): "Underactive bladder is
+   characterised by a slow urinary stream, hesitancy and straining to void, with or without a feeling of
+   incomplete bladder emptying sometimes with storage symptoms."
+     ◦ Footnote 1: UAB accompanies diverse pathophysiologies; no single distinguishing symptom exists.
+     ◦ Footnote 2: storage symptoms (nocturia, daytime frequency, reduced filling sensation, incontinence)
+       are varied, may be highly prevalent and are often driven by a significant PVR.
+     ◦ Quantitative and qualitative studies support the definition in urodynamic DUA.
+
+Figure 111.1 — Urodynamic traces
+ • (A) DUA: male, benign prostatic enlargement, voiding LUTS; low detrusor pressure (Pdet), prolonged
+   contraction, prolonged voiding time, raised PVR.
+ • (B) Acontractile detrusor: young female, back injury, on ISC; no voiding contraction.
+Concept — DUA is defined by a measurement and UAB by symptoms, and no symptom maps specifically
+onto the measurement; residual sensation is what makes the same weak detrusor present as frequency in
+one patient and infrequent voiding in another.
+
+EPIDEMIOLOGY
+ • LUTS are highly prevalent and increase with age; the contribution of DUA is unknown.
+ • Epidemiology of LUTS (EpiLUTS) (UK, USA, Sweden; over 40s): storage LUTS commoner in females, voiding
+   in males, postmicturition similar. Difficulty emptying is common in older community dwellers.
+ • Population prevalence of DUA cannot be established: there is no simple non-invasive marker.
+ • Proxies fail in males: voiding LUTS, raised PVR and low flow can all be caused by BOO.
+ • In females straining may simply accompany OAB (frequency, small volumes); but voiding LUTS with low
+   flow and raised PVR make DUA likely, because female BOO is rare (2.7–8% of those referred for UDS).
+ • In referred patients, DUA is common, especially in the elderly (Table 111.1).
+TABLE 111.1 PREVALENCE OF DETRUSOR UNDERACTIVITY IN CLINICAL STUDIES — from Osman, Chapple, Abrams et al.,
+Eur Urol 2014
+ Population                    Diagnostic criteria used                               Prevalence of DUA
+ Males aged <50 (young         Pdet at maximal flow (Pdet@Qmax) <30–45 cm H2O         9–23% across tabulated studies; 9–
+ men with LUTS)                with maximal flow rate (Qmax) <12–15 mL/s; BOO         28% in the body text and key
+                               index <20 with flow <12; ICS definition                points (acontractile ~5–10%)
+
+ Males, mixed/all ages         Pdet@Qmax ≤30 with Qmax ≤12; relaxed sphincter         ~10%
+                               electromyography (EMG) with open membranous
+                               urethra and low flow
+ Males aged >65–70             Pdet@Qmax <30 with Qmax <10; bladder                   40–48%
+                               contractility index (BCI) <100
+ Females, community/           ICS definition; prolonged voiding with high residual   ~14–19%
+ clinic (mean age ~60, or
+ >55)
+ Females aged >65–70           Qmax ≤12 with Pdet@Qmax ≤10; Pdet@Qmax <30             12–13%
+                               with Qmax <10
+ Institutionalised elderly     Failure to empty without abdominal straining; DHIC:    Males ~41%; females ~38–45%
+ (mean age ~87)                involuntary contraction emptying less than half the
+                               bladder
+
+ • What the table is for: showing that DUA is common in referred LUTS and rises steeply with age — to
+   roughly half of men over 70.
+
+
+                                                          page 2 of 15
+Chapter 111 — Underactive Detrusor                                                                           Epidemiology
+ • Pattern: highest in the institutionalised elderly, who often have coexisting DO — detrusor hyperactivity
+   with impaired contractility (DHIC).
+ • Two ranges for young men: the tabulated studies span 9–23%; the chapter's text quotes 9–28%,
+   presumably drawing on studies beyond the table. Quote 9–28% as the chapter figure.
+ • Trap: every study uses different criteria (sex-specific, flow and pressure cut-offs, nomograms), so figures
+   cannot be pooled or extrapolated to the general population; data are also limited by population selection
+   and post hoc interpretation.
+ • DUA commonly coexists with other lower urinary tract dysfunctions (LUTDs) in the elderly (Fig. 111.3,
+   largest clinical urodynamic series, patients >65): nearly half of males with DUA also had DO or BOO; nearly
+   three-quarters of females with DUA also had DO or urodynamic stress urinary incontinence (SUI).
+     ◦ The overlap supports UDS before surgery for LUTS in the elderly.
+ • Natural history is little known. Men with non-neurogenic DUA (Qmax <15 mL/s, Pdet@Qmax <40 cm
+   H2O) managed conservatively for 10 years showed minimal symptomatic or urodynamic progression.
+   The minority later undergoing transurethral resection of the prostate (TURP), for retention or worsening
+   LUTS, showed no preceding fall in Qmax.
+
+ KEY POINTS: TERMINOLOGY, DEFINITIONS, AND SYMPTOMS, AND EPIDEMIOLOGY
+   • DUA is a common clinical problem associated with a range of storage, voiding and postmicturition
+     LUTS.
+   • Its population prevalence is unknown for lack of a non-invasive marker.
+   • DUA affects 9–28% of males under 50 and 48% of those over 70 undergoing UDS, and is more
+     prevalent among the institutionalised elderly.
+   • In females, DUA is found in 12–45% undergoing UDS, more so among the institutionalised elderly.
+   • DUA commonly coexists with other LUTDs.
+
+Concept — Every estimate of DUA is a referral-series, criterion-dependent figure; because BOO is common in
+men and rare in women, the same voiding picture points to obstruction in a man but to DUA in a woman.
+
+ETIOPATHOGENESIS
+ • DUA occurs in both sexes and diverse groups. Recognised causes include diabetes mellitus and cauda
+   equina compression, but many patients have no obvious cause, suggesting common age-related change.
+ • Age-related decline in detrusor function is likely but unproven.
+     ◦ Rodent strip data conflict; human strips often show no decline in response to stimulation or agonists.
+     ◦ Clinical urodynamic data suggest an age-related fall in Pdet, flow and maximum contraction strength
+       with a rise in PVR — but mostly in symptomatic subjects with progressive pathology.
+     ◦ BOO in males adds connective tissue and reduces smooth muscle; the same changes in females
+       suggest a partial contribution of ageing itself (Fig. 111.4A–C).
+MECHANISMS OF DUA (FIG. 111.5)
+ Mechanism class Site of dysfunction                                   Result                Major aetiological factors
+ Myogenic            Detrusor myocyte; extracellular matrix (ECM)      Loss of intrinsic     Diabetes mellitus; ?BOO
+                                                                       contractility         due to BPH; ?normative
+                                                                                             ageing
+ Neurogenic —        Sacral cord, sacral and pelvic nerves,            Impaired activation   Neurological disease or
+ efferent            postganglionic neurons                            of the detrusor       injury; diabetes
+
+
+                                                        page 3 of 15
+Chapter 111 — Underactive Detrusor                                                                          Etiopathogenesis
+
+ Mechanism class Site of dysfunction                                   Result                 Major aetiological factors
+ Neurogenic —        Peripheral afferents, anterolateral white         Early termination of   Neurological disease or
+ afferent            column, posterior column                          the voiding reflex     injury; diabetes; ?ageing
+ Neurogenic —        Pontine micturition centre (PMC),                 Failure of             Neurological disease or
+ brain circuits      periaqueductal grey (PAG), limbic system,         integration or         injury
+                     hypothalamus, prefrontal cortex                   processing
+
+ • BOO and normative ageing are probable, not definite, factors (marked "?" in the source figure).
+
+Myogenic Factors
+ • ECM change reduces transmission of contractile force.
+ • Myocyte dysfunction — ion storage and exchange, excitation–contraction coupling, calcium storage,
+   energy generation — gives a weak contraction despite normal neural drive.
+ • Elbadawi ultrastructural patterns (electron microscopy): the degeneration pattern — widespread
+   disrupted myocytes plus axonal degeneration — is associated with DUA. The classification is disputed,
+   though others report similar findings.
+ • Cause or consequence? Whether myocyte disruption causes DUA or follows another insult is unclear.
+
+Figure 111.4 — Morphological detrusor changes
+ • Light microscopy: (A) normal; (B) male BOO — increased muscle mass and fibrous tissue within and
+   between bundles; (C) asymptomatic elderly female — similar fibrosis, so ECM change also occurs with
+   ageing.
+ • Electron microscopy: (D) normal bundles separated by a collagen-rich septum, fascicles by a thin
+   microseptum; (E) normal cells — smooth intact sarcolemma, thin interstitium; (F) degeneration pattern —
+   shrivelled cells, sarcolemmal breakdown, debris and collagen in the interstitium.
+
+Neurogenic Factors
+Brain Circuits
+ • The micturition reflex is a spino-bulbo-spinal loop: sacral parasympathetic nucleus → PMC → sacral cord;
+   the PMC is modulated by the cortex, particularly the limbic system.
+ • PMC "direct neurons" fire immediately before and during reflex contractions and are silent otherwise;
+   many project to the lumbosacral cord.
+ • Human functional neuroimaging implicates the insula, hypothalamus, PAG and PMC.
+ • A lesion anywhere here — disturbing perception and integration — could cause DUA, but site and
+   urodynamic finding do not always correlate.
+
+Bladder Efferent Pathways
+ • Interruption in the sacral cord, sacral roots or pelvic nerves → absent or reduced contraction.
+ • Autonomic innervation of the bladder declines with normal ageing.
+
+Bladder and Urethral Afferent Pathways
+ • Intact sensation is critical to the efferent limb. Bladder afferents monitor volume during filling and
+   contraction magnitude during voiding; urethral afferents sense flow and contraction.
+ • Afferent impairment reduces or prematurely ends the micturition reflex → loss of voiding efficiency.
+ • Sensation declines with age: higher thresholds to reach capacity in older females; reduced insular
+   response to filling on functional magnetic resonance imaging (fMRI) in older asymptomatic people; in
+   ageing rats, weaker urethral flow–evoked contraction needing a larger triggering volume.
+ • Tissue change and sensory decline both likely contribute in the elderly.
+
+
+                                                        page 4 of 15
+Chapter 111 — Underactive Detrusor                                                                               Etiopathogenesis
+Smith "stiff balloon" hypothesis (afferent output is a function of wall stress):
+connective-tissue deposition + smooth-muscle disruption → loss of elasticity and receptive relaxation;
+connective tissue also impairs sensory innervation → stiff bladder → precipitous rise in wall stress on filling
+→ delayed first sensation, then urgency soon after → small void → wall stress collapses → afferent drive
+falls → contraction terminates prematurely → raised PVR.
+ • Support: in DUA, strong desire at higher volume, similar contractility (Watts factor), smaller voids and
+   higher PVR than other LUTDs.
+ • Urothelium: biopsies in DUA suggest impaired urothelial signalling and sensory transduction; causality
+   versus effect of BOO is unresolved, and animal models are limited by different innervation.
+
+Specific Etiologic Factors (Box 111.1)
+BOX 111.1 ETIOLOGIC FACTORS
+ Category                            Factors
+ Idiopathic                          Normal ageing; unknown factor in younger people
+ Neurogenic — vascular               Stroke (early phase)
+ Neurogenic — degenerative           Parkinson disease; multisystem atrophy
+ Neurogenic — demyelinating Multiple sclerosis
+ Neurogenic — peripheral             Guillain–Barré syndrome; neurosyphilis (tabes dorsalis); herpes zoster and herpes
+ neuropathy                          simplex; diabetes mellitus; acquired immunodeficiency syndrome (AIDS)
+ Neurogenic — spinal cord            Intervertebral disc prolapse; cauda equina lesions; spinal cord tumours; spinal canal
+ and cauda equina                    stenosis; spinal cord injury; sacral fracture; pelvic fracture; bilateral pudendal nerve
+                                     injury
+ Myogenic                            BOO; diabetes; pelvic arterial ischaemia
+ Iatrogenic                          Radical pelvic surgery (radical prostatectomy, radical hysterectomy, anterior resection,
+                                     abdominoperineal resection); detrusor myomectomy; intravesical phenol;
+                                     radiotherapy
+ Functional                          Fowler syndrome; dysfunctional voiding
+ Pharmacotherapy                     Anticholinergic-effect drugs (antimuscarinics, antihistamines, antipsychotics, anti-
+                                     Parkinson drugs, antispasmodics, tricyclic antidepressants); opioids
+
+ • Purpose: history checklist — above all the drug history, the readily reversible category.
+ • Trap: diabetes appears twice (neuropathy and myogenic) because it acts by both routes; stroke causes
+   DUA only in the early phase.
+
+Bladder Outlet Obstruction
+Rodent partial-BOO model — three stages:
+obstruction (ring or ligature) → bladder distension → compensation: hypertrophy and hyperplasia, sharp
+weight gain then plateau, increased blood supply, near-normal function → variable interval →
+decompensation: falling contractility, poor emptying, reduced response to stimulation and agonists, fibrosis.
+ • If obstruction is not relieved before decompensation and fibrosis, dysfunction is permanent.
+ • Obstructed bladders show reduced blood flow (laser Doppler) and denervation in both humans and
+   animals.
+Ischaemia–reperfusion hypothesis:
+raised intravesical pressure to overcome resistance → raised wall tension (law of Laplace) → vessel
+compression, ischaemia, hypoxia → reperfusion each fill–void cycle → reactive oxygen species and free
+
+
+
+
+                                                            page 5 of 15
+Chapter 111 — Underactive Detrusor                                                                             Etiopathogenesis
+intracellular calcium → proteases, phospholipases, lipid peroxidation → damage to nerves, synaptic
+membranes, mitochondria, sarcoplasmic reticulum → denervation and detrusor decompensation.
+ • Poor translation: immature, often female animals with acute obstruction; the sequence is not seen with
+   urethral stricture and does not explain female DUA.
+ • Long-term follow-up of men with BOO (over a decade): no significant fall in Pdet@Qmax, Qmax fell by
+   only about 1 mL/s, and few needed intervention — prolonged BOO need not decompensate.
+ • Most men with acute urinary retention have preserved detrusor function. Some with chronic retention
+   also do — typically with poor compliance and upper-tract change (high-pressure chronic retention). Why
+   outcomes diverge is unknown; the picture is probably multifactorial.
+
+Diabetes Mellitus
+ • Diabetes-induced bladder dysfunction (DBD), classically diabetic cystopathy: emptying efficiency falls in
+   a time-dependent way over the disease course, by combined neurogenic and myogenic mechanisms.
+ • Neurogenic: autonomic neuropathy — axonal degeneration and segmental demyelination → diminished
+   sensation. Driven by hyperglycaemia via the polyol pathway, free radicals, protein kinase C activation
+   and advanced glycation end products.
+ • Reduced nerve growth factor (NGF) (maintains sympathetic and sensory nerves): low dorsal-root-
+   ganglion NGF accompanies raised PVR and capacity in diabetic rats.
+ • Myogenic: altered intercellular connections, excitability, intracellular signalling and receptor density;
+   animal data show both increased and decreased contractility.
+DBD TEMPORAL THEORY (DANESHGARI) — EARLY VERSUS LATE
+                Early (compensated)                                                      Late (decompensated)
+ Driver         Hyperglycaemic osmotic diuresis → stretch, raised pressure,              Accumulated oxidative-stress
+                compensatory hypertrophy                                                 products
+ Clinical       Storage symptoms                                                         Poor sensation, impaired
+ picture                                                                                 voiding, LUTS
+
+ • The theory reconciles the contradictory animal findings: contractility rises early and falls late.
+
+Neurologic Disease or Injury
+NEUROLOGICAL CAUSES OF DUA
+ Condition                      Frequency / pattern of DUA      Key point
+ Stroke                         About half retain acutely; up   "Cerebral shock"; chronic sequela is neurogenic DO, not
+                                to 75% of these acontractile    DUA
+ Parkinson disease (PD)         <20%; DO far commoner           Anticholinergic anti-Parkinson drugs contribute — none
+                                                                showed DUA once these were withdrawn before UDS
+ Multisystem atrophy            52–95%; most develop            Atrophy of efferent parasympathetic nerves; often
+ (formerly Shy–Drager)          retention                       confused with PD
+ Multiple sclerosis             ~20%                            Especially with lumbosacral cord plaques
+ Lumbosacral cord, cauda        Common                          Trauma or disc prolapse → cauda equina syndrome
+ equina, sacral/pelvic
+ nerve injury
+ Radical pelvic surgery         LUTD after radical              Injury to pelvic plexus (anterolateral lower rectal wall) or
+                                hysterectomy ~72%; after        postganglionic fibres (lateral upper vaginal wall); fall with
+                                rectal surgery now <5%          nerve-sparing; many recover by 1 year
+ Infective: Guillain–Barré,     —                               Reversible
+ herpes zoster
+
+
+
+
+                                                         page 6 of 15
+Chapter 111 — Underactive Detrusor                                                                   Etiopathogenesis
+
+ Condition                      Frequency / pattern of DUA   Key point
+ Progressive: AIDS,             —                            Permanent; tabes common pre-antibiotic era
+ neurosyphilis (tabes
+ dorsalis)
+
+ • True post-surgical DUA incidence is unclear — few studies compare pre- and postoperative UDS.
+   Recovery is attributed (feline pelvic plexus extirpation) to restitution of intrinsic cholinergic nerves and
+   myocyte regeneration after initial degeneration.
+ • Trap: in stroke and PD the expected finding is DO; DUA is acute (stroke) or drug-related (PD). MSA is the
+   degenerative condition that gives DUA and retention.
+
+Pelvic Arterial Ischemia
+ • Vascular risk factors (ageing, smoking, diet, atherosclerosis, metabolic syndrome, hypertension,
+   hyperlipidaemia, diabetes) may cause chronic bladder ischaemia, analogous to their role in erectile
+   dysfunction.
+ • Animal pelvic arterial insufficiency → wall ischaemia, low oxygenation → oxidative stress →
+   ultrastructural damage and denervation → features of DUA in some studies.
+
+ KEY POINTS: ETIOPATHOGENESIS
+   • Aetiopathogenesis is incompletely understood; diverse factors and mechanisms are implicated.
+   • Confirmed: neurological injury/disease and diabetes mellitus. Probable, not definite: BOO, ageing,
+     atherosclerosis.
+   • These factors impair processes essential to an efficient voiding contraction.
+   • Mechanisms are myogenic (myocytes or ECM) or neurogenic (central control via afferent or efferent
+     nerves).
+
+Concept — Every cause acts on one link of the voiding reflex loop — afferent, central, efferent or muscle —
+and afferent failure is the unifying theme of age-related DUA: the contraction stops early because the signal
+sustaining it fades.
+
+DIAGNOSIS
+ • Invasive UDS is the only accepted way to estimate detrusor voiding function clinically.
+ • No universally agreed criteria exist; current methods measure almost only contraction strength,
+   neglecting speed and sustainability.
+
+Detrusor Contraction Strength
+ • A contraction generates pressure and flow, so DUA is usually diagnosed by low Qmax plus low
+   Pdet@Qmax. Male ranges come from men having outlet surgery; healthy ranges are poorly characterised.
+ • Limitation 1 — underestimation: the bladder outlet relation (BOR), an adaptation of the Hill equation,
+   makes pressure and flow inversely related during voiding (high flow, low pressure and vice versa), so
+   Pdet@Qmax is the point of lowest pressure.
+ • Limitation 2 — outlet resistance ignored: with a low Pdet, low Qmax may reflect BOO; a normal Qmax
+   may reflect a low-resistance outlet (e.g. post-prostatectomy incontinence).
+ • Hence isovolumetric estimates — by calculation or by interrupting flow; many are complex or impractical.
+MEASURES OF DETRUSOR CONTRACTILITY COMPARED
+
+
+
+
+                                                      page 7 of 15
+Chapter 111 — Underactive Detrusor                                                                                  Diagnosis
+
+ Measure                Formula / method                  Thresholds          Strengths               Weaknesses
+ Watts factor (WF) WF = [(Pdet + a)(Vdet + b) −           <7 W/m²             Power per unit          Complex; no
+                   ab] / 2π; a = 25 cm H2O, b = 6         reduced (expert     bladder area;           validated cut-offs;
+                        mm/s; Vdet = detrusor             opinion); some      minimally volume-       little clinical use
+                        shortening velocity. Use          use 10 W/m²         dependent,
+                        WFmax                                                 unaffected by BOO
+
+ Projected              BOR drawn as straight line        >150 strong;    Quick; estimates            K population-specific
+ isovolumetric          from Pdet@Qmax back to y-         100–150 normal; isovolumetric
+ pressure (PIP),        axis on Schäfer nomogram: PIP     50–100 weak;    pressure
+ Schäfer                = Pdet@Qmax + K·Qmax. K = 5       <50 very weak
+                        in men with BPH; 1 in older
+                        women
+ Bladder                Pdet@Qmax + 5Qmax (same           >150 strong;    Simple, easy to             Male-derived; may
+ contractility          as PIP, men)                      100–150 normal; obtain                      not apply to other
+ index (BCI),                                             <100 weak                                   groups
+ Abrams
+ Detrusor               (Pdet@Qmax + 5Qmax) / 100         <1 weak             Simple                  As BCI
+ contraction
+ coefficient
+ (DECO)
+ Detrusor               Hill plot of isovolumetric phase —                    Uses the isovolumic     Max pressure
+ contractility          → maximum velocity of                                 phase                   depends on opening
+ parameter (DCP)        contractile-element shortening                                                pressure → invalid
+                        (VCE); uses t20–80 (time for                                                  with BOO;
+                        pressure to rise 20–80% of                                                    experimental
+                        maximum)
+
+ • PIP, BCI and DECO are one calculation; they overestimate isovolumetric pressure (population adjustment
+   needed) and are less reliable on retest than direct occlusion.
+ • Figure 111.6: Pdet@Qmax plotted on the Schäfer nomogram and projected to the y-axis; the example
+   projects to 130 cm H2O — normal.
+
+DIRECT ISOVOLUMETRIC MEASUREMENT — STOP TESTS VERSUS CONTINUOUS OCCLUSION
+                   Stop test (voluntary / mechanical)                                      Continuous occlusion
+ Method            Flow interrupted after it begins — by the patient contracting the       Outflow blocked before and
+                   sphincter (voluntary) or by the investigator, e.g. tugging a catheter   throughout the contraction
+                   balloon against the bladder neck (mechanical)
+ Accuracy          Voluntary and mechanical correlate well in both sexes; voluntary        Greater test–retest reliability;
+                   reads ~20 cm H2O lower (reflex detrusor inhibition from sphincter       correlates with ability to empty
+                   contraction)
+ Sustainability Not assessed                                                               Assessed
+ Drawback          Voluntary test difficult or impossible with sphincter weakness          No representative flow for that
+                                                                                           contraction; painful; research
+                                                                                           only
+
+TABLE 111.2 SUMMARY OF DIAGNOSTIC METHODS AND CRITERIA — from Osman, Chapple, Abrams et al., Eur Urol
+2014
+ Type                       Methods                       Advantages                   Limitations
+ Mathematical               Watts factor; detrusor        See comparison above;        Complex; unvalidated; no
+ calculation                shortening velocity           velocity may detect early    sustainability
+                                                          DUA
+
+
+
+                                                          page 8 of 15
+Chapter 111 — Underactive Detrusor                                                                           Diagnosis
+
+ Type                      Methods                  Advantages               Limitations
+ Indices                   DECO; BCI                Simple                   No sustainability; limited to
+                                                                             derivation group
+ Occlusion testing         Voluntary / mechanical   Real-time strength; no   Painful; impractical; stop test
+                           stop test; continuous    calculation              underestimates; unusable in some
+                           occlusion                                         groups
+ Ranges of urodynamic e.g. Pdet@Qmax <40 cm         Simple                   No accepted normals;
+ measurements         H2O; Qmax <15 mL/s                                     underestimate strength; ignore
+                                                                             coexisting BOO + DUA
+
+ • What the table tests: the trade-off between practicality and validity — the simple methods are the least
+   accurate; the accurate ones are painful or impractical.
+ • Criteria disagree: BCI and PIP agree with each other, but applied to non-neurogenic LUTS the various
+   criteria diagnose DUA in anywhere from 5% to 55% — standardisation is needed.
+
+Detrusor Contraction Speed
+ • Slow contraction could cause symptoms, but speed is not in the ICS definition.
+ • Detrusor shortening velocity: Vdet = (Q/2)[3/(V + Vt)/4π]0.66 (Q flow, V bladder volume, Vt non-
+   contracting wall volume).
+ • A fall in Vdet precedes a fall in WF in longitudinal studies of both sexes — a potential early marker.
+
+Detrusor Contraction Duration
+ • In the ICS definition, but normal limits are undefined and few studies measure it.
+ • Paradox: in men with BPH, unobstructed poor-contractility patients had longer contractions than
+   unobstructed normals.
+ • Duration probably reflects mechanism — early reflex termination would shorten it. A standard
+   measurement method is needed.
+
+Bladder Sensation
+ • Afferents initiate and sustain contraction; men with DUA have reduced sensation versus other LUTDs.
+ • Usual method: filling sensations (first sensation, first desire, strong desire, capacity; normal thresholds
+   exist) — subjective: reported even without filling, and vary with setting and anxiety.
+ • Current perception threshold testing: more objective, but invasive and unvalidated.
+
+Ambulatory Urodynamics
+ • Failure to void on UDS: bashful bladder (poor pelvic floor relaxation + reflex detrusor inhibition) or true
+   DUA / acontractility — history usually separates them.
+ • If in doubt → ambulatory UDS: over four-fifths of apparently acontractile patients contract. Criteria are
+   not standardised and differ from conventional UDS.
+
+ KEY POINTS: DIAGNOSIS
+   • There is no published consensus on diagnostic criteria for DUA.
+   • Most criteria focus on contraction strength as determined by Pdet during UDS.
+   • Several indices estimate isometric strength; most are unvalidated and not applicable to all groups.
+   • Stop and occlusion tests are more reliable but may be painful and impractical.
+
+
+
+
+                                                    page 9 of 15
+Chapter 111 — Underactive Detrusor                                                                              Diagnosis
+   • The significance of contraction speed and duration is unclear.
+
+Concept — Because pressure and flow trade off along the bladder outlet relation, no single voiding point
+measures strength; every index is an attempt to recover isovolumetric pressure, and each gains either
+practicality or validity at the expense of the other.
+
+MANAGEMENT
+ • Goals: symptoms and quality of life (QoL); prevent urinary tract infection (UTI), stones, reflux with upper-
+   tract back-pressure, skin damage from overflow.
+ • Nothing effectively improves detrusor function → drainage or lower outlet resistance (e.g. relax the
+   external sphincter).
+MANAGEMENT OPTIONS IN DUA (FIG. 111.7)
+ Aim             In routine clinical use              Experimental                       Not recommended
+ Drainage        Timed voiding / double voiding;      —                                  Compression (Credé); reflex
+                 catheterisation; urinary diversion                                      voiding; Valsalva voiding
+ ↓ Outlet        Pelvic floor physiotherapy and       Intrasphincteric botulinum toxin   —
+ resistance      biofeedback; α-blockers; muscle
+                 relaxants; bladder outlet surgery
+ ↑ Detrusor      Sacral neuromodulation; anterior     Intravesical prostanoids;          Anticholinesterases;
+ function        sacral root stimulator               intravesical electrotherapy;       muscarinic agonists
+                                                      detrusor myoplasty; reduction
+                                                      cystoplasty
+
+ • Trap: the drugs that sound most logical — muscarinic agonists and anticholinesterases — are in the "not
+   recommended" column; the only routine detrusor-directed options are neuromodulation and root
+   stimulation.
+
+Initial Assessment
+ • Routine urological evaluation: bladder diary, digital rectal examination, urinalysis, uroflowmetry,
+   ultrasound PVR.
+ • Neurological assessment: sacral dermatomes, anal tone, bulbocavernosus reflex, lower-limb reflexes;
+   deficits → specialist referral, commonly spinal MRI (lumbar cord, cauda equina).
+ • Drug history: agents reducing contractility (anticholinergic, opioid; Box 111.1) or raising outlet resistance
+   (α-adrenoceptor agonists).
+ • Faecal impaction / constipation can obstruct directly; treating it may improve emptying.
+
+Conservative Management
+ • Scheduled voiding for sensory loss; double voiding to empty better and cut frequency.
+ • Bladder expression (Valsalva, Credé): only in specific neurogenic cases — DUA with an incompetent
+   sphincter. Otherwise avoided: high vesical pressure → vesicoureteric reflux or reflux into prostate and
+   seminal vesicles.
+ • Pelvic floor physiotherapy and biofeedback: effective in dysfunctional voiding, where a non-relaxing
+   pelvic floor and sphincter obstruct flow and reflexly inhibit the detrusor — including some "acontractile"
+   patients who contract on ambulatory UDS.
+
+
+
+
+                                                      page 10 of 15
+Chapter 111 — Underactive Detrusor                                                                              Management
+ • ISC is the preferred drainage for problematic high PVR, given adequate cognition and dexterity: safe,
+   effective, fewer infections than indwelling catheters.
+     ◦ Problems: urethral bleeding (about one-third), false passages, time and social restriction, psychological
+       barriers (fear of harm or infection).
+ • Avoid a long-term indwelling urethral catheter; if ISC is impossible or declined, suprapubic catheter is
+   the best long-term option.
+
+Pharmacotherapies
+DRUGS FOR DUA
+ Agent / class                       Mechanism / target         Route        Evidence                       Status
+ Bethanechol, carbachol              Quaternary amines;        Oral          Meta-analysis (mainly          Generally
+ (direct muscarinic agonists)        muscarinic-selective, not               postoperative retention):      avoided
+                                     subtype-selective; act on               benefit in retention, no
+                                     M3                                      overall PVR difference;
+                                                                             evidence small and poor
+ Distigmine                          Blocks acetylcholine       Oral         As above                       Avoided
+ (anticholinesterase)                breakdown; needs some
+                                     endogenous
+                                     acetylcholine
+ α-Blockers (tamsulosin,             ↓ Outlet resistance        Oral         Tamsulosin 0.2 mg improved     Routine use
+ urapidil)                                                                   voiding LUTS and Qmax in
+                                                                             some women with DUA;
+                                                                             urapidil alone: no Qmax
+                                                                             gain, PVR fell in women only
+ α-Blocker +                         ↓ Resistance + ↑           Oral         Single-blind randomised        Therapeutic
+ parasympathomimetic                 contraction                             trial: better flow in both     option
+ (urapidil + bethanechol or                                                  sexes, lower PVR in women
+ distigmine)
+ Prostanoids (PGE2, PGF2α)           Enhance detrusor           Intravesical Mixed; pooled analysis of      Experimental
+                                     contraction                             three randomised trials:
+                                                                             more successful voiding
+                                                                             (postoperative retention)
+ ASP8302                             Positive allosteric        Oral         Randomised placebo-            Negative
+                                     modulator of M3; acts                   controlled: no difference in
+                                     only when acetylcholine                 PVR (primary end point)
+                                     is present (voiding),
+                                     inactive in storage
+ TAC-302                             Cyclohexanoic long-chain Oral           Phase 2 randomised: ↑ BCI      Investigational
+                                     fatty alcohol derivative;               in males and voiding
+                                     promotes neurite                        efficiency in both sexes
+                                     outgrowth
+
+Parasympathomimetics for Underactive Bladder
+ • Acetylcholine acting on M3 receptors is the principal mediator of bladder contraction.
+
+WHO MIGHT RESPOND TO A PARASYMPATHOMIMETIC
+
+
+
+
+                                                           page 11 of 15
+Chapter 111 — Underactive Detrusor                                                                            Management
+
+ Likely to help                                                Unlikely to help
+ Reduced or absent stimulus: reduced efferent input,           Reduced tissue responsiveness: myocyte dysfunction,
+ impaired acetylcholine release, increased acetylcholine       wall fibrosis; loss of detrusor muscle — no drug will
+ breakdown                                                     work
+
+ • Bethanechol raises wall stiffness and sensation; responders show lower sensory thresholds → intact
+   sensory pathways may be a prerequisite, explaining failure in unselected groups. Or doses are too low,
+   limited by systemic effects.
+ • Side effects: nausea, bronchospasm, abdominal cramps, diarrhoea, salivation, flushing, visual
+   disturbance; rare but lethal cardiac depression and arrest.
+
+α-Adrenoreceptor Antagonists
+ • Lower outlet resistance in neurogenic bladder and dysfunctional voiding; results and combination therapy
+   in the drug table.
+
+Prostanoids
+ • Five endogenous prostanoids — PGE2, PGF2α, PGI2, PGD2, thromboxane A — are made in the bladder
+   wall and released on stretch.
+ • They enhance contraction to acetylcholine and adenosine triphosphate (ATP); non-steroidal anti-
+   inflammatory drugs abolish isolated-bladder tone, reversed by prostanoids. Efficacy in DUA is unclear.
+PROSTANOID ACTIONS ON DETRUSOR AND URETHRA
+ Prostanoid                            Detrusor                                    Urethra
+ PGE1, PGE2                            Contraction ↑                               Relaxation
+
+ PGF2α                                 Contraction ↑                               Contraction
+
+ • Side effect: PGE and PGF also stimulate uterine contraction.
+
+Novel Agents
+ • ASP8302 negative, TAC-302 positive in small randomised studies (drug table).
+
+Future Prospects in Pharmacotherapy
+ • Bladder-specific parasympathomimetic allowing dose escalation — unlikely on current knowledge;
+   presynaptic M2 antagonists — promising.
+
+ • Uroselective exogenous prostanoids (sparing uterus and gut) in development; oral efficacy uncertain.
+ • Transient receptor potential (TRP) agonists, e.g. TRPV4 agonist GSK1016790A, increase contractility.
+ • Other-organ analogues (cardiac inotropes, gut prokinetics); sensory sensitisers for afferent failure.
+ • Prerequisite: better understanding of normal contraction and of DUA mechanisms.
+
+Electrical Stimulation
+ELECTRICAL STIMULATION TECHNIQUES IN DUA
+                                                            Requirements /
+ Technique               Target / mechanism                 indication                  Evidence and limits
+ Sacral anterior root    Stimulates anterior sacral roots   Complete spinal cord        Also fires urethral somatic
+ stimulator              via implanted receiver, wires,     injury (SCI); intact        efferents → intermittent
+ (Brindley)              external transmitter               peripheral efferents, no    stimulation → interrupted
+                                                            myogenic failure —          voiding; Sauerwein added total
+                                                            shown by reflex             sacral rhizotomy to abolish
+                                                            contractions on filling     reflexes
+                                                            preoperatively
+
+
+                                                       page 12 of 15
+Chapter 111 — Underactive Detrusor                                                                               Management
+
+                                                             Requirements /
+ Technique               Target / mechanism                  indication                    Evidence and limits
+ Intravesical            Cathode in saline-filled bladder,   Some afferent and muscle      Daily ≥1 h sessions, 10–15 as
+ electrotherapy (IVE)    skin electrode in sensate area;     function; fails with          trial; ~47 for durable effect in
+ (Katona)                activates mechanosensitive Aδ       complete denervation or       children; encouraging
+                         afferents → central reflex          fibrosis; mainly paediatric   uncontrolled results, but the
+                         detrusor activation; repeated                                     only sham-controlled
+                         use up-regulates the pathway                                      randomised trial was negative
+                                                                                           and co-delivered biofeedback
+                                                                                           confounds; small UTI risk;
+                                                                                           resource-heavy
+ Sacral                  Inhibits abnormal urethral          Non-obstructive               Good efficacy; needs some
+ neuromodulation         afferents that block bladder        retention / DUA with          detrusor function; key
+ (SNM) (Tanagho and      afferents at the sacral cord →      sphincter or pelvic floor     unresolved question is
+ Schmidt)                restores afferent flow to PAG and   disorder; potential in        coexistent DUA + BOO
+                         brain → sensation and               DHIC
+                         contraction return; direct
+                         efferent effect less likely
+ Transcutaneous          Skin electrodes                     Children                      Small randomised trial versus
+ electrotherapy                                                                            urotherapy: improved voiding
+                                                                                           time, capacity, flow; no sham
+                                                                                           arm
+
+ • Anterior root stimulation exploits the slower relaxation of smooth than skeletal muscle: bursts keep the
+   detrusor contracted while the sphincter relaxes between bursts.
+ • DHIC is hard to treat because treating the DO worsens the DUA and vice versa — hence SNM's appeal.
+Concept — Each stimulation method needs a surviving link in the loop: Brindley needs efferents and muscle,
+IVE and SNM need afferents and muscle; none can restore a fibrotic or denervated bladder.
+
+Botulinum Toxin
+ • Botulinum neurotoxin A (BoNT-A) into the urethral sphincter lowers outlet resistance in detrusor–
+   sphincter dyssynergia.
+ • Rationale in DUA: relax the sphincter to remove reflex detrusor inhibition, or to facilitate Valsalva
+   voiding.
+ • Technique: 50 U in 4 mL saline (or 100 U in 8 mL) — cystoscopic in males, periurethral in females.
+ • Results: some catheter-dependent patients voided with low PVR, ISC fell; about half of idiopathic cases
+   improved.
+ • Predictors of response: better bladder sensation; poor sphincter relaxation responds best, pure DUA or
+   DHIC about one-third.
+ • Limits: short-lived; no dose studies; unlicensed — clinical trials only.
+
+Surgery
+Bladder Outlet Surgery
+ • Controversial in males with non-neurogenic DUA; no high-level evidence.
+ • Meta-analysis of comparative studies of transurethral surgery: DUA → smaller improvement in
+   International Prostate Symptom Score (I-PSS) and Qmax; QoL change and PVR similar to preserved
+   contractility.
+BLADDER OUTLET SURGERY — THE TWO CLINICAL SCENARIOS
+
+
+
+
+                                                        page 13 of 15
+Chapter 111 — Underactive Detrusor                                                                             Management
+
+                                                                                   DUA, catheter-dependent (chronic
+              DUA, low PVR, symptom-driven                                         retention)
+ Reasoning Emptying with a low Pdet implies BOO is unlikely to be significant Later decompensation; aim is to
+                                                                              lower resistance enough to empty
+ Evidence     TURP followed long term (~11 years): no symptomatic                  Even less evidence; flow and PVR
+              improvement; small, doubtful fall in BOO index (BOOI =               rarely normalise, but a significant
+              Pdet@Qmax − 2Qmax) with no gain in flow or voiding efficiency        proportion resume voiding
+              — no better than conservative care
+ Verdict      Surgery unlikely to help                                             Consider in younger, fit patients
+                                                                                   wanting to be catheter-free
+
+ • Predictors of poor outcome in retention: voiding pressure <45 cm H2O, age >80, PVR >1500 mL.
+
+ • Females: urethral dilatation lacks evidence; bladder neck resection or incision not recommended —
+   incontinence or bladder neck stenosis.
+Concept — Outlet surgery helps only where outlet resistance is the part of the problem that can be changed:
+the symptomatic low-PVR man has little to gain, while the catheter-dependent man may gain enough to void.
+
+Urinary Diversion
+ • Rarely needed outside neurogenic patients, since ISC and indwelling catheters are acceptable and safe.
+ • Continent catheterisable stoma when urethral ISC is impossible and a suprapubic catheter is declined —
+   typically young women with idiopathic retention refractory to SNM.
+ • Incontinent diversion (ileal conduit) occasionally, for renal deterioration from intramural ureteric
+   obstruction by a thick-walled bladder.
+
+Reconstructive Surgery
+RECONSTRUCTIVE AND REGENERATIVE OPTIONS
+ Procedure             Technique                            Outcome                                        Status
+ Latissimus dorsi      Free muscle; pedicle to inferior     Catheter-dependent acontractile patients:      Investigational
+ detrusor              epigastric vessels, nerve to         most voided with low PVR; BCI rose to the
+ myoplasty             intercostal branch; spiral wrap      strong range; complications
+ (LDDM) (Stenzl)       over >three-quarters of the          (thromboembolism, abscess, wound
+                       bladder, anchored to pelvic floor    infection) in one-third, none long term
+                       fascia and ligaments
+ Rectus abdominis      Less morbid, simpler than LDDM       Small SCI series: complete spontaneous         Investigational
+ detrusor                                                   voiding, no major complications at over 1
+ myoplasty                                                  year
+ Partial               Excise excess bladder                Few old series                                 Abandoned
+ cystectomy /
+ reduction
+ cystoplasty
+ Tissue-engineered Engineered whole bladder                 Storage only — innervation for volitional      Research
+ bladder                                                    emptying cannot be recreated
+ Autologous            Injected into the bladder wall       Two open-label single-arm studies:            Research
+ muscle-derived                                             improvement in the majority, higher voiding
+ stem cells                                                 efficiency; in a small male series urodynamic
+ (AMDSC)                                                    gains and most stopped ISC
+
+Regenerative Medicine
+ • Animal stem cell studies (DUA model → injection into bladder or neural injury site → urodynamics):
+   several show improved contractility.
+
+
+                                                        page 14 of 15
+Chapter 111 — Underactive Detrusor                                                                    Management
+ • Barriers: incomplete understanding of lower urinary tract structure and function, and whether injected
+   cells can acquire functional innervation and contribute meaningfully.
+
+ KEY POINTS: MANAGEMENT
+   • There are no effective pharmacotherapies for DUA.
+   • Parasympathomimetics have questionable efficacy, potentially fatal systemic effects, and are not used
+     routinely.
+   • Intravesical electrotherapy shows promise in restoring contraction but is time- and resource-
+     consuming.
+   • SNM is effective in restoring voiding in DUA associated with urethral sphincter / pelvic floor disorders.
+   • Outlet surgery has a high failure risk in men not reliant on catheters. Catheter-dependent men with
+     DUA fare worse than those with normal detrusors but may still benefit.
+
+Concept — Treatment works only where some part of the loop survives — intact sensation is the recurring
+predictor of response (bethanechol, botulinum toxin, IVE); where muscle is lost, only drainage or
+replacement of the muscle remains.
+
+CONCLUSIONS
+ • DUA is not uncommon and hard to treat, and has been under-researched compared with OAB and DO.
+ • A symptom-based definition is difficult — wide symptom spectrum, diverse conditions, no accurate non-
+   invasive marker.
+ • Highly prevalent in both sexes presenting with LUTS; causes affect every part of the micturition reflex.
+ • Preserved bladder sensation predicts better response to treatment.
+ • Drugs to enhance strength, duration or sensation need mechanistic understanding first; regenerative,
+   stem cell and gene therapy depend on the same.
+
+
+
+
+                                                  page 15 of 15
+

@@ -1,0 +1,1542 @@
+Chapter 112 — Nocturia
+
+
+
+Chapter 112 — Nocturia
+ • Nocturia is voiding during the hours of intended sleep. It carries substantial morbidity: a risk factor for
+   falls and fractures, a major disruptor of normal sleep architecture and a potential harbinger of serious
+   systemic disease.
+ • Aetiology is multifactorial — "Sleep CALM": Sleep disorders, Comorbidities, Actions (modifiable
+   behaviours and lifestyle factors), Lower urinary tract dysfunction, Medications.
+ • One common mechanism: every Sleep CALM factor disturbs the balance between nocturnal urine
+   production, storage capacity and normal sleep architecture — and that balance is best characterised by
+   the bladder diary.
+ • Evaluation: systematic yet individualised — history and examination → tailored ancillary testing.
+ • Management: optimise the Sleep CALM factors first; pharmacotherapy targeting excess nocturnal urine
+   production is reserved for appropriately selected patients refractory to conservative management.
+
+GUIDELINE SOURCES FOR NOCTURIA
+ Body                    Document               Nocturia content
+ American                BPH/LUTS guideline     No specific nocturia guideline; insights only by extension from
+ Urological              (2021); AUA/SUFU OAB   benign prostatic hyperplasia (BPH)/lower urinary tract symptoms
+ Association (AUA)       guideline (2019)       (LUTS) and overactive bladder (OAB) guidance (SUFU: Society of
+                                                Urodynamics, Female Pelvic Medicine & Urogenital Reconstruction)
+ European                Non-neurogenic Male    Each contains a dedicated nocturia section
+ Association of          LUTS and Female LUTS
+ Urology (EAU)           guidelines (2022)
+ EAU Male LUTS           Standalone nocturia    Detailed evaluation and management guidance
+ guidelines panel        guideline (2017)
+ International           Nocturia consensus     Detailed guidance; the terminology report supplies the definitions
+ Continence              statement (2019);      used throughout
+ Society (ICS)           nocturia terminology
+                         report (2019)
+
+ • Pattern: explicit nocturia guidance is EAU and ICS; the AUA addresses it only indirectly.
+
+
+NOCTURIA—WHAT, WHEN, AND WHY?
+ • ICS definition (2019): the number of times urine is passed during the main sleep period — from the time
+   a person intends to sleep until the time they intend to rise.
+ • The main sleep period is defined by the individual's own sleep schedule, not by societal norms or the
+   solar cycle (sunset to sunrise). "Night-time" is used for convenience but technically means the individual's
+   sleep period.
+ • Shift workers: nocturia is pervasive across all work and sleep schedules, and similar mechanisms operate
+   independent of the solar cycle.
+ • Current terminology does not exclude patients who void only once per night and does not incorporate
+   bother.
+
+
+
+
+                                                     page 1 of 30
+Chapter 112 — Nocturia                                                                     Nocturia—What, When, and Why?
+
+
+Why the patient gets up: the definitional shift
+ ICS 2002 position statement (landmark)                       ICS 2019 terminology (current)
+ "The complaint that the individual has to wake at night      Number of times urine is passed during the main sleep
+ one or more times to void"                                   period — no required cause
+ "[In order] to void" implied that urge-driven awakenings     Omission of the specifier recognises that urge-driven
+ were distinct from waking for poor sleep or other non-       awakening and poor sleep are intertwined and the
+ urological reasons                                           aetiology multifactorial
+
+ • Sleep-related and other "non-urological" factors are not grounds for excluding a patient from nocturia
+   treatment; they are leverage for an interdisciplinary approach.
+
+From the guidelines
+ • AUA BPH/LUTS: nocturia is often multifactorial and symptomatic of other medical problems — a unique
+   symptom complex requiring judicious evaluation.
+ • AUA/SUFU OAB: nocturia is often due to factors unrelated to OAB; isolated nocturia is a separate
+   symptom entity needing different evaluation and management.
+ • ICS consensus: nocturia was long treated as merely one LUTS of OAB or benign prostatic obstruction; it is
+   now recognised as a specific symptom in its own right with wide-ranging pathophysiology.
+
+ KEY POINTS: NOCTURIA—WHAT, WHEN, AND WHY?
+   • Voids during the main period of intended sleep, set by the patient's own pattern, not the time of day.
+   • Multifactorial; may arise for reasons other than urge.
+
+
+TABLE 112.1 KEY TERMS AND DEFINITIONS
+ Term                            Definition / formula                        Interpretation
+ Nocturia severity and sleep
+ Main sleep period               Going to bed intending to sleep →           Individual sleep cycle, not solar cycle
+                                 waking intending to rise
+ Nocturia                        Voids during the main sleep period; each —
+                                 preceded and followed by sleep or the
+                                 intention to sleep
+ Night-time frequency / actual Voids recorded within the main sleep          The severity count
+ number of nightly voids (ANV) period
+ First uninterrupted sleep       Start of main sleep period → first          Key sleep measure (below)
+ period (FUSP) (h)               nocturnal void
+ First morning void              First void after waking with intention to   Counts as daytime frequency
+                                 rise
+ Nocturnal enuresis              Incontinence during the main sleep          —
+                                 period
+ Urine production
+ Total urine volume (TUV) (mL)   Urine produced over 24 h                    —
+ Nocturnal urine volume (NUV) All voids during the night + first morning     Volume produced during the main sleep
+ (mL)                         void                                           period
+ Nocturnal polyuria index (NPi) NPi = NUV / TUV                              Proportion of 24-h output produced
+                                                                             during sleep
+
+
+
+
+                                                        page 2 of 30
+Chapter 112 — Nocturia                                                                     Nocturia—What, When, and Why?
+
+
+ Term                            Definition / formula                        Interpretation
+ Nocturnal urine production      NUP = NUV / duration of main sleep          Hourly production rate during sleep
+ (NUP) (mL/h)                    period
+ Bladder storage capacity
+ Maximum voided volume           Largest single void in 24 h                 Proxy for maximum functional capacity
+ (MVV) (mL)
+ Nocturnal maximum voided        Largest single void during the main sleep   Proxy for nocturnal functional capacity
+ volume (NMVV) (mL)              period
+ Production–storage mismatch
+ Nocturia index (Ni)             Ni = NUV / MVV                              >1: NUV exceeds maximum capacity →
+                                                                             nocturia or enuresis
+ Modified nocturia index (MNi) MNi = NUV / NMVV                              >1: NUV exceeds nocturnal functional
+                                                                             capacity
+ Predicted number of nightly     PNV = Ni − 1                                Used to calculate NBCi
+ voids (PNV)
+ Nocturnal bladder capacity      NBCi = ANV − PNV                            >0: voids occur below maximum capacity;
+ index (NBCi)                                                                >2: severe nocturia
+ Diary-based mechanisms
+ Nocturnal polyuria (NP)         Excess urine production during the main     Commonest: NPi >20–33% (age-
+                                 sleep period                                dependent); NUP >1.5 mL/min (>90 mL/
+                                                                             h). Others: NUV >6.4 mL/kg; nocturnal
+                                                                             production >0.9 mL/min (54 mL/h)
+ Global polyuria                 Excess production across 24 h               >40 mL/kg/24 h (>2.8 L at 70 kg)
+ Diminished bladder capacity     Capacity expected to cause nocturnal        No consensus. Normal capacity usually
+                                 symptoms at normal urine volume;            >300–400 mL; MVV or NMVV <150–300
+                                 nocturnal-specific or global                mL suggestive
+
+Terms modified from Hashim et al., ICS report on the terminology for nocturia and nocturnal lower urinary tract
+function, 2019.
+ • What the table is for: it converts a diary into three quantities — how much is made (NUV, NPi, NUP),
+   how much can be held (MVV, NMVV), and the mismatch between them (Ni, NBCi).
+ • Pattern: every mismatch index is volume ÷ capacity; the "modified" index uses NMVV, so needs night
+   data only.
+ • Trap — the first morning void is split: its volume counts towards NUV, but the void counts as daytime
+   frequency, not as a nocturia episode.
+ • Trap: global polyuria is weight-indexed; NP is a proportion or a rate — different bases, not mutually
+   exclusive.
+Concept — Nocturia is defined by the patient's intent and own sleep schedule, not the clock or the cause.
+Every void within intended sleep counts, and the question of why it happened is deliberately left open for a
+multifactorial work-up.
+
+
+RATIONALE FOR EVALUATION AND MANAGEMENT
+
+Nocturia Is Common
+ • Older age is among the most robust correlates, but nocturia is common across ages, races and sexes
+   worldwide.
+
+
+                                                        page 3 of 30
+Chapter 112 — Nocturia                                                                Rationale for Evaluation and Management
+
+
+ • 1 in 5–6 people aged 20–40 years void ≥2 times per night; up to 3 in 5 people >70 years void ≥2 times
+   nightly.
+ • Boston Area Community Health (BACH) survey (landmark): higher prevalence in Black and Hispanic than
+   White respondents; partly mediated by socio-economic status — a disparity in urological practice
+   requiring investigation.
+
+Nocturia Is Bothersome
+ • Among the most bothersome urinary complaints in the general population; bother is linked to reduced
+   quality of life (QoL) and more depressive symptoms.
+ • High bother → more difficulty initiating sleep, returning to sleep after a void, and more morning fatigue.
+ • Most people with ≥2 voids per night report significant bother; but frequency and bother correlate only at
+   population level — one void per night can be highly bothersome.
+ • Bother drives help-seeking; many with nocturia never seek help. Nocturia may dominate the interview
+   and mask other LUTS.
+ • Any nocturia that brings a patient to urological care is, by definition, clinically significant, irrespective of
+   the number of voids.
+
+Impact of Nocturia
+Sleep
+ • Harm is mediated largely through sleep architecture; urge-driven awakening is the commonest cause of
+   adult sleep disruption.
+ • Affects sleep latency (time to fall asleep after lights out), sleep maintenance and sleep efficiency
+   (percentage of time in bed spent asleep).
+ • An independent predictor of insomnia and reduced sleep quality in older adults; worsens wakefulness in
+   baseline insomnia. Polysomnography confirms an independent association with poor sleep across the
+   whole night.
+ • Harm far exceeds the minutes lost to toileting — because of timing.
+
+SLEEP ARCHITECTURE — THE TIMING PROBLEM
+ Early night                                                             Late night
+ Slow-wave sleep (N3) is densely clustered here                          Rapid eye movement (REM) sleep
+                                                                         predominates
+ Deepest, most restorative stage; disruption is not recovered later in   Interruption here is less costly to restoration
+ the night
+ Most first voids occur within 2–3 h of sleep onset → land in slow-      —
+ wave sleep
+
+ • Structure: non-REM (NREM) ≈75% of sleep, stages N1 (transition), N2 (deeper), N3 ("slow-wave",
+   deepest); cycles alternate NREM and REM, 4–6 cycles per night; slow-wave sleep is only 10–25% of total
+   sleep.
+ • Consequence: daytime fatigue and poor sleep quality even when total sleep time is preserved.
+ • Home electroencephalography: less slow-wave sleep when the first void falls in the first two sleep
+   cycles. A shorter interval to first void → worse whole-night sleep quality and more daytime dysfunction.
+
+
+
+
+                                                       page 4 of 30
+Chapter 112 — Nocturia                                                         Rationale for Evaluation and Management
+
+
+Falls and fractures
+ • Nocturia is among the LUTS most strongly associated with falls and hip fractures; meta-analysis shows
+   increased risk of both.
+ • Older adults are doubly exposed: most affected, and ageing erodes coordination, strength, vision and
+   cognition — hazardous when hurrying to the toilet in the dark. Weigh fall risk in them and other high-risk
+   groups.
+
+Beyond Bother—Nocturia, Morbidity, and Mortality
+ • Nocturia may be a hallmark of cardiovascular, respiratory, renal, hepatic, endocrine, neurological,
+   psychiatric or immunological disease.
+ • Evidence is strongest for cardiometabolic and vascular disease: hypertension, diabetes mellitus,
+   hyperlipidaemia, obesity, metabolic syndrome, coronary artery disease, arrhythmias, cerebrovascular
+   disease, stroke and post-stroke sequelae.
+ • Mortality: in a nationally representative US sample, ≥2 voids per night was associated with worse survival
+   than 0–1, particularly in those <65 years; meta-analysis shows increased mortality in both sexes.
+ • Causality is not established; the link is likely mediated by falls, poor sleep and underlying comorbidity
+   (falls history further raises mortality risk).
+
+ KEY POINTS: RATIONALE FOR EVALUATION AND MANAGEMENT
+   • Common (highest in older adults), bothersome, the commonest cause of adult sleep disruption; hits
+     deep sleep.
+   • Linked to falls, fractures and systemic disease; management matters beyond bother.
+
+Concept — Nocturia matters because of when it strikes and what it signals. The first void falls in the early,
+restorative slow-wave sleep, and the symptom may be the visible edge of systemic disease. Its harm is
+therefore out of proportion to the number of voids.
+
+
+CAUSES OF NOCTURIA: "SLEEP CALM" AND THE BLADDER DIARY
+ • Extensive differential. The relationship with poor sleep is bidirectional: sleep studies of patients with
+   disordered sleep (no urinary complaint) find bathroom trips at the time of awakening.
+ • Nocturia may share a pathophysiological pathway with systemic disease; lifestyle, lower urinary tract
+   dysfunction (LUTD) and medications may cause or aggravate it.
+ • Idiopathic nocturia is small but real. Most real-world cases are caused by one or more of the five Sleep
+   CALM factors.
+
+Bladder Diaries: Connecting Causal Factors to Clinical Symptoms
+ • The Sleep CALM factors look heterogeneous, but all disrupt the balance between nocturnal urine
+   production, functional bladder storage capacity and normal sleep architecture. The bladder diary — a
+   guideline cornerstone — reveals this relationship objectively.
+ • Urine production is continuous. Even after emptying at bedtime, volume climbs towards maximum
+   capacity; when it is reached there are only two endpoints: wake to void, or enuresis.
+ • So sleeping through requires that nocturnal production not exceed maximum functional capacity. A
+   production–storage mismatch arises from excess volume (polyuria) and/or insufficient capacity.
+
+
+
+
+                                                   page 5 of 30
+Chapter 112 — Nocturia                                                 Causes of Nocturia: "Sleep CALM" and the Bladder Diary
+
+
+ • Sleep architecture is the third arm: primary sleep disorders produce voids independent of bladder
+   volume ("convenience" voids while already awake). Disordered sleep may also increase nocturnal
+   production and/or lower the arousal "set-point" at which bladder volume overcomes sleep.
+
+Diary technique
+Disposable collection container → record time and volume of every void → record time, volume and type of
+every drink → mark time going to bed to sleep and time rising (separates day from night) → record bladder
+sensation (urgency) and incontinence episodes for each void.
+
+ Frequency–volume chart                                Bladder diary
+ At minimum, micturition times and voided volumes      Also requires fluid intake, pad usage and incontinence
+ only                                                  episodes
+
+ • The two terms are often used interchangeably, but consensus terminology distinguishes them as above.
+Figure 112.2 — International Consultation on Incontinence (ICI) bladder diary (Bright et al., 2014). Validated
+3-day diary with columns for time, drinks (amount and type), urine output (mL), bladder sensation and pads;
+patients write BED and WOKE, tick an unmeasured void and write LEAK for leakage. Bladder sensation codes:
+0 no need, voided for "social reasons"; 1 normal desire, no urgency; 2 urgency that passed before reaching
+the toilet; 3 urgency, reached the toilet without leaking; 4 urgency with leakage.
+
+From the guidelines
+ • EAU Female LUTS: bladder diary as part of the standardised assessment of female LUTS (strong; level of
+   evidence [LoE] 2b).
+ • EAU Male LUTS: bladder diary for male LUTS with a prominent storage component or nocturia (strong;
+   LoE 3).
+
+Nocturia Severity and Sleep
+ • "Going to bed intending to sleep" and "rising intending to rise" bookend the main sleep period; voids
+   between them = ANV.
+ • Intent governs: the last void of the night does not end the sleep period if the patient stays in bed
+   intending to sleep, even if sleep never returns. A void at or just after the end of the period is the first
+   morning void (daytime frequency).
+ • Diary-based ANV is a gold standard for nocturia severity. Symptom questionnaires correlate only
+   modestly with diaries: respondents more often overestimate, especially with severe symptoms, while
+   those with low frequency may underplay it.
+ • Interview-reported severity correlates with the diary in some populations, but inconsistently, and less
+   well as ANV rises; overestimation at standardised interview persists however the question is phrased.
+ • FUSP is the most important sleep measure in the diary. It indexes how long the patient stays in early
+   slow-wave sleep uninterrupted.
+     ◦ FUSP is inversely related to the number of night-time voids.
+     ◦ Prolonged FUSP marks successful treatment, with better whole-night sleep and daytime function;
+       improved blood glucose has been reported after FUSP prolongation.
+     ◦ Hence FUSP is an important outcome measure and treatment target.
+ • Total sleep duration cuts both ways: nocturia can truncate sleep (patient gets up for the day after a late
+   void), and treatment that lengthens FUSP lengthens total sleep; conversely, impaired efficiency may keep
+   patients in bed longer — longer total sleep (>8 h) is more common in those with ≥2 voids. Total sleep
+   time is needed for calculations but has limited clinical utility on its own.
+
+
+
+                                                    page 6 of 30
+Chapter 112 — Nocturia                                                 Causes of Nocturia: "Sleep CALM" and the Bladder Diary
+
+
+Nocturnal Urine Production
+ • NUV = all nocturnal voids + first morning void. Rationale: the untested assumption that people void
+   before bed and shortly after waking, so first-morning urine was made during sleep.
+ • NPi = NUV/TUV (often ×100 as a percentage); NUP = NUV/hours of main sleep period.
+
+COMPARISON — DEFINITIONS OF NOCTURNAL POLYURIA
+ Criterion     Threshold                  Status                      Strength / weakness
+ NPi           >20–33%, age-dependent     ICS; most widely used       Age bands undefined; cut-offs not empirically
+               (higher cut-off in older                               supported; poor discrimination
+               adults)
+ NUP           >90 mL/h                   ICS-accepted alternative;   Derived from Krimpen data; more specific for
+                                          favoured by many            production-driven nocturia; needs validation,
+                                          clinicians                  especially in women
+ NPi           >53%                       Not ICS-approved            Proposed to avoid over-estimating NP
+ (stringent)                                                          prevalence
+
+ • Krimpen study (landmark; community-dwelling older Dutch men): NPi >33% in 92% of men with ≥2
+   voids but also 70% of men without nocturia — the reason NPi discriminates poorly.
+ • No universal NP cut-off exists. Whatever the definition, excess nocturnal production contributes to most
+   adult nocturia, increasingly so as severity rises.
+ • Global polyuria: >40 mL/kg/24 h (e.g. >2.8 L at 70 kg); inordinate output by day as well as night. A
+   relatively infrequent cause of nocturia, but its differential is rich in serious disease — neoplastic,
+   traumatic, inflammatory, immunological, psychiatric disorders of water homeostasis. Always investigate
+   global polyuria as a potential harbinger of disease beyond the urinary tract.
+
+Functional Bladder Storage Capacity
+ • Small functional capacity may be night-time-specific or span 24 h (mirroring NP versus global polyuria).
+ • True capacity = voided volume + post-void residual (PVR); in practice NMVV (nocturnal) and 24-h MVV
+   are reasonable proxies.
+ • No consensus on diminished capacity: normal usually >300–400 mL; 150–300 mL recognised as abnormal
+   in recent literature.
+
+Quantifying the Relationship Between Nocturnal Urine Production and Storage
+ • Urge-driven waking depends on the relationship between production and capacity, not either alone.
+ • Ni = NUV/24-h MVV — production expressed as a function of the patient's own capacity. Ni >1 = NUV
+   exceeds capacity; higher = greater mismatch. Ni correlates more strongly with nocturia frequency than
+   production or capacity alone.
+ • NBCi quantifies the gap between the patient's own maximum capacity and the volumes at which night
+   voids actually occur.
+       ◦ PNV = Ni − 1: the voids expected if every void occurred exactly at maximum capacity. One is
+         subtracted because the last nocturnal volume leaves as the first morning void, which is not a nocturia
+         episode.
+       ◦ NBCi = ANV − PNV.
+Worked example: NUV 800 mL, MVV 200 mL → Ni = 4 → PNV = 3 (three night voids of 200 mL, plus 200 mL
+at first morning void) → diary shows 6 night voids → NBCi = 6 − 3 = 3.
+ • NBCi = 0: every night void at full capacity. NBCi >0: voids occur below MVV; higher values = greater
+   discordance.
+
+
+                                                     page 7 of 30
+Chapter 112 — Nocturia                                                 Causes of Nocturia: "Sleep CALM" and the Bladder Diary
+
+
+ • Investigate diminished nocturnal capacity when NBCi >1.3; NBCi >2 is strongly associated with severe
+   nocturia.
+
+ Small capacity across 24 h                       Night-time-specific small capacity
+ All voided volumes consistently small            Small night voids despite normal (or much larger) day voids
+ NBCi may be normal (MVV itself is small)         NBCi elevated
+
+ • Convenience voids (little or no urgency on the diary — woken by something other than urge) partly
+   explain night-specific small capacity; they are significantly smaller than urge-driven voids.
+ • But convenience voiding is uncommon in the general population and remains infrequent even in clinic
+   patients with depression, anxiety or post-traumatic stress disorder (PTSD). Night-specific diminished
+   capacity is a small but important entity.
+ • NP, global polyuria and small capacity are not mutually exclusive.
+     ◦ Classical NP: high night production offset by low day production, so 24-h volume is normal.
+     ◦ Current ICS NP criteria (NPi >33% or NUP >90 mL/h) do not preclude concurrent global polyuria (>40
+       mL/kg/24 h).
+     ◦ A small nocturnal capacity may coexist with daytime capacity that is normal, increased, or small but
+       further reduced at night.
+ • Capacity has no bearing on the polyuria definitions, and small capacity is diagnosed independently of
+   urine volume. Whether high diuresis alters perception of filling is undemonstrated.
+ • Multiple diary abnormalities are common, and more so as nocturia frequency rises.
+
+Bladder Diaries: Practical Considerations
+ • Standard of care in all guidelines, yet under-used: completed by fewer than half of patients seen by
+   urologists and about a third seen by general practitioners.
+ • Adherence is the pervasive obstacle: interference with lifestyle and routine ("too busy", "took too long",
+   "at work that day"). In a urogynaecology sample, unemployment and fewer children independently
+   predicted completion — professional, family and social commitments make diaries cumbersome.
+
+COMPARISON — RECOMMENDED DIARY DURATION
+ Guideline                           Duration
+ EAU Female LUTS                     3 days
+ EAU Male LUTS                       At least 3 days
+ ICS nocturia consensus              No consensus (some members favour a shorter period)
+
+ • Longer diaries (3–7 days) are more reliable and less variable than 24-h diaries, but burden rises with
+   duration → adherence falls: "diary fatigue".
+
+The nocturnal-only bladder diary
+ • Patients record only night voids and the void on waking — proposed to reduce burden and improve
+   adherence.
+
+ Obtainable from a nocturnal-only diary                                                Requires 24-h data
+ Nocturia frequency, FUSP, duration of main sleep period, NUV, NUP, NMVV               TUV, 24-h MVV, NPi, Ni, NBCi
+
+
+
+
+                                                       page 8 of 30
+Chapter 112 — Nocturia                                              Causes of Nocturia: "Sleep CALM" and the Bladder Diary
+
+
+ Obtainable from a nocturnal-only diary                                             Requires 24-h data
+ NP by NUP >90 mL/h; small nocturnal capacity; modified nocturia index              Global polyuria
+
+ • Modified nocturia index (NUV/NMVV) uses night-only data and is a reasonable surrogate for the gold-
+   standard Ni — the strongest diary determinant of severity and treatment response.
+ • Chief limitation: global polyuria cannot be diagnosed, and it is the diagnosis most tied to serious
+   systemic disease.
+ • Partial work-around: expressed hourly, the global polyuria threshold (40 mL/kg/24 h) is more stringent
+   than the NP threshold (90 mL/h) for most adults, and the gap widens with weight — 90 mL/h at 54 kg,
+   117 mL/h at 70 kg, 167 mL/h at 100 kg. So very high nocturnal volumes, particularly in heavier adults,
+   may signal 24-h polyuria.
+ • Status: data are preliminary; not recommended for women by EAU Female LUTS, although the same
+   guideline notes acceptable sensitivity and specificity for most parameters. Reasonable only when a
+   patient truly cannot measure daytime volumes — as an alternative to no diary.
+
+ KEY POINTS: CAUSES OF NOCTURIA
+   • Sleep CALM factors act on production, storage and sleep; the diary quantifies them, and FUSP tracks
+     sleep quality and response.
+   • NP in most; global polyuria uncommon but serious; Ni is the strongest severity determinant.
+   • 3–7-day diaries more reliable but less adhered to; night-only diaries unvalidated.
+
+Concept — Every cause of nocturia works through one equation: production against capacity, gated by
+sleep. The diary measures both sides, and the ratio (Ni) predicts severity better than either side alone.
+
+
+EVALUATION AND MANAGEMENT
+ • Diaries define the precise production–capacity–sleep relationship. Sleep CALM organises the initial
+   evaluation: history, comprehensive examination and basic testing in all → individually tailored
+   adjunctive testing and multidisciplinary care as indicated (Table 112.2).
+ • Guidelines support a validated disease-specific questionnaire at baseline and for monitoring; none is
+   preferred. TANGO ("Targeting the individual's Aetiology of Nocturia to Guide Outcomes") covers the Sleep
+   CALM factors and aids multidisciplinary assessment.
+ • Because Sleep CALM factors cause nocturia by the same mechanisms, first-line management is patient-
+   specific optimisation of every Sleep CALM abnormality found.
+Figure 112.3 — TANGO short-form (TANGO-SF) screening questionnaire (Bower et al., 2017). Tick-box
+statements in four domains:
+ • Cardio/metabolic: ankle/leg swelling; "fluid tablets"; kidney disease; antihypertensives; postural
+   dizziness; high blood sugar or diabetes; unstable glucose.
+ • Sleep: ≤5 h sleep; bad sleep quality; >30 min to fall asleep; waking because of the bladder; night pain;
+   loud snoring or apnoeas.
+ • Urinary tract: voiding within 3 h of going to sleep; urgency most days; urgency leakage weekly or more;
+   straining; enlarged prostate (men).
+ • Wellbeing: health "not good"; trouble staying awake driving, eating or socialising; fall in last 3 months;
+   anhedonia.
+
+
+
+
+                                                   page 9 of 30
+Chapter 112 — Nocturia                                                                              Evaluation and Management
+
+
+From the guidelines
+ • EAU Male LUTS panel on nocturia (grade A, LoE 4) and EAU Male LUTS (weak, LoE 4): treat underlying
+   causes — behavioural, systemic, sleep disorders, LUTD or a combination.
+ • EAU LUTS guideline: evaluation should include history and examination with attention to sleep disorders,
+   fluid balance, associated LUTS, cardiovascular and endocrine comorbidity, renal disease, current
+   medications and urological history.
+
+TABLE 112.2 SLEEP DISORDERS, COMORBIDITIES, ACTIONS, LOWER URINARY TRACT DYSFUNCTION, AND
+MEDICATIONS ("SLEEP CALM") DIAGNOSTIC CONSIDERATIONS IN THE EVALUATION AND MANAGEMENT OF
+NOCTURIA
+                                                              Basic         Ancillary testing (as         Questionnaires
+ Factor           History                  Examination        testing       indicated)                    (as indicated)
+ Sleep            Sleep habits, apnoea     —                  —             Polysomnogram, home           Sleep diary;
+ disorders        symptoms, restless                                        sleep apnoea test, sleep      STOP-BANG;
+                  legs, chronic pain,                                       specialist, psychiatry        Nocturia,
+                  psychiatric history                                                                     Nocturnal
+                  (anxiety, depression,                                                                   Enuresis and
+                  PTSD, nightmares,                                                                       Sleep-
+                  ruminations)                                                                            interruption
+                                                                                                          Questionnaire
+                                                                                                          (NNES-Q)
+ Comorbidities Full medical history:       Blood pressure; Basic            Waist circumference,          TANGO
+               cardiac, respiratory,       cardiopulmonary metabolic        glycated haemoglobin
+               vascular, renal,            and limb        panel            (HbA1c), lipids, ECG,
+               endocrine,                  examination for                  echocardiogram, brain
+               neurological                volume                           natriuretic peptide,
+                                           overload;                        albumin:creatinine ratio,
+                                           neurological                     renal ultrasound, calcium,
+                                                                            thyroid function,
+                                                                            parathyroid hormone,
+                                                                            water deprivation or
+                                                                            hypertonic saline test,
+                                                                            specialist referral
+ Actions          Fluid pattern, alcohol, Body mass index —                 —                             Fluid intake
+                  caffeine, diet, sodium (BMI)                                                            diary; food
+                                                                                                          frequency
+                                                                                                          questionnaires
+ LUTD             Concurrent LUTS and      Genital/pelvic;    Urinalysis;   Prostate-specific antigen     LUTS Score
+                  drugs, prior             abdominal for      PVR           (PSA), prostate sizing,       (LUTSS); OAB
+                  genitourinary surgery,   suprapubic                       cystoscopy, uroflowmetry      Symptom Score
+                  dysuria, pelvic pain,    fullness; rectal                                               (OABSS)
+                  reproductive history     when indicated
+ Medications      Identify contributory    —                  —             —                             —
+                  drugs
+
+Used with permission from Monaghan et al., Neurourol Urodyn 2023.
+ • Purpose: makes the multifactorial work-up systematic — each letter mapped to history → examination →
+   test.
+ • Pattern: basic tests are few (metabolic panel, urinalysis, PVR); the ancillary list is targeted, not routine;
+   medications need only a history.
+
+
+
+                                                        page 10 of 30
+Chapter 112 — Nocturia                                                                         Evaluation and Management
+
+
+ • Trap: the urological column (PSA, flow, cystoscopy) is only one row of five; starting and ending there
+   misses four-fifths of the differential.
+
+Sleep CALM: Sleep Disorders
+ • Relationship is bidirectional: urge-driven waking damages early deep sleep; conversely obstructive sleep
+   apnoea (OSA), insomnia, restless legs syndrome and parasomnias may themselves underlie nocturnal
+   toileting.
+ • OSA (sudden cessation of breathing from airway obstruction) is the best-described link and a common
+   cause of nocturia. OSA incidence rises with nocturia frequency; severe sleep-disordered breathing →
+   more nocturia; high nocturia frequency predicts severe OSA in some studies — hence calls to add
+   nocturia to OSA screening questionnaires.
+
+OSA — HOW IT ACTS ON ALL THREE ARMS, AND HOW CPAP REVERSES EACH
+                                                                                         Effect of continuous positive
+ Arm                OSA mechanism                                                        airway pressure (CPAP)
+ Production         Obstructed breathing → hypoxia → pulmonary vasoconstriction →        ↓ nocturnal urine
+ (main pathway)     ↑ right atrial transmural pressure → ↑ atrial natriuretic peptide    production — an important
+                    (ANP) → renal sodium and water excretion → ↑ NUV                     mediator of response
+ Capacity           Intermittent hypoxia → oxidative stress → bladder ultrastructural/   Small urodynamic study:
+                    functional change → detrusor instability; irritative symptoms        better compliance, less
+                    commoner in severe OSA                                               detrusor overactivity
+ Sleep              More light sleep (N1, N2), less slow-wave sleep                      ↑ slow-wave sleep
+
+ • CPAP response is large: improvement by up to about two voids per night in some with moderate-to-
+   severe OSA — among the largest effects of any nocturia intervention in any subpopulation.
+ • Insomnia and other sleep disorders: mechanisms less well described, but likely the same three-arm
+   effects.
+ • History must establish the patient's primary motive for getting up (Table 112.3). The sleep diary is
+   under-used in urology; the authors recommend the National Sleep Foundation Sleep Diary (free from its
+   website; Figure 112.4).
+ • STOP-BANG: validated OSA screen; highly sensitive for moderate-to-severe OSA; needs only history, vital
+   signs and neck circumference (Table 112.4).
+
+TABLE 112.3 ADDITIONAL QUESTIONS WHERE AN UNDERLYING SLEEP DISORDER IS SUGGESTED BY INITIAL
+SCREENING
+ • Insomnia: difficulty falling or staying asleep; daytime functioning.
+ • OSA: snoring with choking arousals; partner-witnessed apnoeas; morning headache.
+ • Restless legs syndrome / periodic limb movements in sleep (RLS/PLMS): character of sensation; worse
+   later in the day/evening; relieved by movement; returns minutes after sitting or lying down; partner
+   reports twitching or kicking.
+ • Parasomnias: odd night events (walking, screaming, eating, sexual activity); age at onset; recall; dreaming
+   if woken; eyes open; time of night; staying in or leaving bed; injury to self or others; true nightmares
+   (terrifying rather than merely anxious dreams).
+Used with permission from Smith et al., Eur Urol Focus 2022 (PLANET study).
+ • Purpose: turn a positive sleep screen into a working diagnosis and referral; the RLS questions track its
+   diagnostic features.
+
+
+
+                                                      page 11 of 30
+Chapter 112 — Nocturia                                                                     Evaluation and Management
+
+
+TABLE 112.4 THE STOP-BANG QUESTIONNAIRE FOR OBSTRUCTIVE SLEEP APNEA
+ Letter        Item                               Positive if
+ S             Snoring                            Loud — heard through closed doors
+ T             Tired                              Often tired, fatigued or sleepy by day
+ O             Observed                           Witnessed stopping breathing in sleep
+ P             Pressure                           Hypertension, or treated for it
+ B             BMI                                >35 kg/m²
+ A             Age                                >50 years
+ N             Neck circumference                 >40 cm
+ G             Gender                             Male
+
+Used with permission from Chung et al., Anesthesiology 2008.
+ • Scoring: ≥3 "yes" = high risk of OSA; <3 = low risk.
+ • Trap: the numeric cut-offs — BMI 35, age 50, neck 40 cm.
+
+Melatonin and behavioural treatment of insomnia
+ • Melatonin (pineal hormone regulating the sleep cycle) may be a primary treatment for some
+   subpopulations, particularly older adults. Age correlates with both disordered sleep and nocturia, and
+   older adults are most vulnerable to sedative-hypnotics, anticholinergics and antidiuretic therapy.
+ • Evidence for melatonin is limited, with modest results in some subpopulations; defining ideal candidates
+   is a pressing research need.
+ • Behavioural treatment of insomnia: individualised sleep-hygiene education improved sleep in older
+   adults with chronic insomnia (small randomised trial); participants with baseline nocturia also had fewer
+   nocturnal voids. But nocturia dampened the sleep-quality benefit.
+ • So an integrated cognitive-behavioural intervention for insomnia with nocturia has been proposed by a
+   multidisciplinary sleep panel; efficacy is under investigation.
+ • Know when to involve sleep experts in a multimodal plan.
+
+From the guidelines
+ • EAU Female LUTS (strong, LoE 1a): women with nocturia and a history suggestive of OSA → refer to a
+   sleep clinic for CPAP assessment.
+ • EAU Male LUTS panel on nocturia (grade C, LoE 2): sleep-promoting agents may be used to aid return to
+   sleep.
+Concept — OSA is the model for the whole chapter. One disorder raises production (ANP), lowers capacity
+(detrusor instability) and fragments sleep, which is why treating the sleep disorder yields one of the largest
+nocturia responses of any intervention.
+
+Sleep CALM: Comorbidities
+ • Nocturia is intertwined with cardiovascular, endocrine, renal, hepatic, neurological and immunological
+   disease; nocturia management is being studied within cardiology, endocrinology, neurology and chronic
+   kidney disease care.
+ • These conditions cause nocturia chiefly through excess urine production. There is growing evidence that
+   atherosclerosis-mediated bladder vascular damage and ischaemia reduce functional capacity. Sleep
+   disorders are highly prevalent in medical disease — comorbid insomnia may be commoner than primary
+   insomnia.
+
+
+                                                    page 12 of 30
+Chapter 112 — Nocturia                                                                       Evaluation and Management
+
+
+Figure 112.5 — PLANET (Planning Appropriate Nocturia Evaluation and Treatment) mechanisms. Five system
+groups — sleep, neurological, endocrine, cardiovascular, renal — act through relative lightening of sleep,
+dysregulated antidiuresis, natriuresis, excessive water or salt intake, salt and water retention, nocturnal
+hypertension, nocturnal overfiltration, impaired urine concentration and reduced bladder control.
+ • Nocturia as an early sign: of unrecognised hypertension; a precursor of metabolic syndrome; an
+   independent predictor of coronary heart disease in younger men and cardiovascular death in older men;
+   severity is associated with subsequent atherosclerotic cardiovascular disease (myocardial infarction,
+   stroke, coronary death).
+ • May flag end-organ damage in diabetes, albuminuria/early kidney disease, end-stage renal disease and
+   hepatic synthetic dysfunction in cirrhosis. As a possible sole presenting sign of severe illness, nocturia
+   matters for public health.
+ • Work-up: comprehensive history with review of systems, examination beyond the genitourinary tract,
+   and a low threshold for primary or specialist referral.
+ • EAU Male LUTS: consider systemic causes in all cases; multidisciplinary care is best practice when
+   indicated. Even non-bothersome nocturia merits evaluation, including in patients presenting for other
+   reasons.
+Figure 112.6 — PLANET assessment: SCREeN (Sleep medicine, Cardiovascular, Renal, Endocrine, Neurology).
+ Domain           Conditions                                   Screening questions
+ Sleep            OSA, insomnia, periodic limb movements,      Problems sleeping aside from voiding? Gasp or stop
+                  parasomnias                                  breathing? Wake refreshed? Fall asleep by day?
+ Cardiovascular Congestive cardiac failure, hypertension       Breathless on exertion? Ankle swelling?
+ Renal            Chronic kidney disease                       (Investigations)
+ Endocrine        Diabetes mellitus, thyroid dysfunction,      Excessive thirst? Hand tremor? (Women) change in
+                  diabetes insipidus, pregnancy, menopause     periods?
+ Neurological     All neurological conditions                  Light-headed on standing? Slowness of movement?
+                                                               Problems controlling legs?
+
+ • Initial investigations: bladder diary; blood for renal and thyroid function, calcium, HbA1c; urine dipstick
+   for blood, protein and albumin:creatinine ratio (ACR).
+ • Treating the disease improves nocturia: key examples are heart failure, hypertension and disorders of
+   water homeostasis.
+
+Volume Overload
+ • By day, intravascular fluid "third-spaces" into the interstitium and collects in dependent legs; it is not
+   excreted by day but mobilised when lying down, adding to NUV — even in healthy adults.
+ • Exaggerated in hypervolaemic states such as congestive heart failure, of which third-spacing is cardinal.
+ • Acute decompensated heart failure: more nocturia before admission ↔ more leg oedema and greater
+   NUV; diuretic treatment reduced nocturia alongside oedema and NUV. Similar findings in cardiology
+   outpatients with overt overload treated to best practice.
+
+Hypertension
+ • Normal circadian dip of 10–20% in blood pressure during sleep. Non-dipping hypertension occurs in up
+   to 40–50% of hypertensives and independently predicts target-organ damage and adverse cardiovascular
+   outcomes.
+ • Non-dipping probably mediates the nocturia–hypertension link: nocturia is independently associated with
+   higher night-time pressure and blunted dipping.
+
+
+                                                    page 13 of 30
+Chapter 112 — Nocturia                                                                             Evaluation and Management
+
+
+ • Mechanism: renin–angiotensin–aldosterone dysregulation → excess aldosterone → nocturnal
+   natriuresis; aberrant sympathetic activity and natriuretic peptides contribute.
+ • Optimising hypertension may help nocturia. Hydrochlorothiazide (HCTZ) is a potent antihypertensive
+   with a more pronounced antihypertensive but more modest diuretic effect than loop diuretics such as
+   furosemide.
+     ◦ Pilot study: HCTZ 25 mg improved nocturia, NUV and NPi in men with terazosin-refractory LUTS.
+     ◦ Adjunctive HCTZ 12.5 mg in elderly losartan-refractory hypertension did not worsen nocturia.
+     ◦ Bedtime antihypertensive chronotherapy trials support better circadian control and fewer major
+       cardiovascular events, but did not measure nocturia.
+
+Disorders of Water Homeostasis
+Arginine vasopressin (AVP) physiology: made in the paraventricular and supraoptic nuclei → transported to
+the posterior pituitary (neurohypophysis) → released to osmotic and volume stimuli (rising serum
+osmolality is the main stimulus) → binds V2 receptors on collecting-duct principal cells → ↑ water
+permeability → water reabsorbed down osmotic gradients until isotonic.
+
+ High AVP                                                                Low AVP
+ Water conserved; small volume of concentrated urine                     Relatively large volume of dilute urine
+
+ • Impaired AVP secretion or action shows on the diary as 24-h excess production — so global polyuria must
+   always raise suspicion of a disorder of water homeostasis.
+
+COMPARISON — THE POLYURIA–POLYDIPSIA SYNDROME (LARGE VOLUMES OF DILUTE URINE)
+ Condition               Defect                          Causes
+ Central diabetes        Insufficient AVP secretion      Central nervous system (CNS) tumours, haemorrhage, trauma,
+ insipidus (DI)                                          autoimmune disease
+ Nephrogenic DI          Renal insensitivity to AVP      Some antifungals, antibiotics, steroids, chemotherapeutics;
+                                                         transient in renal failure or major electrolyte disturbance
+ Primary polydipsia      Physiological suppression of    Idiopathic; schizophrenia, anxiety, other psychiatric illness
+                         AVP by excess intake
+
+ • Polyuria is an infrequent cause of nocturia, but every patient with global polyuria must be evaluated so
+   as not to miss a traumatic, neoplastic, inflammatory, immunological or psychiatric process.
+ • Diagnosis is changing: arginine-stimulated copeptin (a cleavage product of prepro-vasopressin) appears
+   superior to the traditional overnight water deprivation test.
+ • Cause-specific treatments restore water homeostasis, normalise output and probably improve nocturia.
+
+From the guidelines
+ • EAU Male LUTS panel on nocturia: nocturia may have a significant medical cause — an opportunity to
+   screen for undiagnosed or poorly managed disease, reduce complications and save cost.
+ • EAU Male LUTS: if systemic factors or sleep disorders may be important, involve appropriate medical
+   expertise — where a known condition is sub-optimally managed or signs suggest an undiagnosed one.
+ • EAU Male LUTS: therapy may be driven by bother, but non-bothersome nocturia may warrant a
+   frequency–volume chart because a serious underlying condition must be considered.
+Concept — Comorbid disease reaches the bladder mostly through the kidney: third-spaced fluid, nocturnal
+natriuresis and failed antidiuresis all raise night production. That is why global polyuria and non-bothersome
+nocturia are both reasons to look beyond urology.
+
+
+
+                                                        page 14 of 30
+Chapter 112 — Nocturia                                                                         Evaluation and Management
+
+
+Sleep CALM: Actions
+ • Assess excess fluid, caffeine and alcohol, particularly in the 3–4 h before bed (Figure 112.7).
+ • Epidemiology is inconsistent — large cohorts show no clear association, and some find nocturics less
+   likely to take evening caffeine. This probably reflects cross-sectional design: patients self-regulate intake
+   as self-treatment.
+ • Interventional evidence is thin:
+     ◦ Crossover trial in OAB: 25% fluid reduction reduced nocturia, urgency and daytime frequency, but the
+       nocturia gain was of modest clinical significance.
+     ◦ Men with 24-h output >30 mL/kg guided to <30 mL/kg: about one fewer night void, correlating with
+       the fall in nocturnal volume; no adverse events.
+     ◦ Bottom line: benefit varies; patients with higher baseline intake gain most.
+ • Physiology is the stronger evidence: urine output tracks total intake.
+
+TIMING OF DIURETIC STIMULI RELEVANT TO BEDTIME
+ Stimulus                           Effect                                            Timing
+ Acute water bolus (a glass over    Mostly excreted; plasma AVP suppressed →          Onset ≈1 h after ingestion
+ 15 min)                            brisk water diuresis
+ Caffeine; alcohol                  Acute diuresis; both also disturb sleep           Within the first 2–3 h
+                                    architecture
+ Caffeine clearance                 Adult half-life, with wide population variation   2.5–4.5 h — earlier cut-off for
+                                                                                      heavy users
+ Protein-rich evening meal (amino   Sustained glomerular hyperfiltration              2–3 h
+ acid bolus)
+
+ • Practice: fluid advice is physiologically sound and rational in many patients — centre it on the evening,
+   with aggressive restriction from 3–4 h before intended sleep.
+ • Cautions: disorders of water and electrolyte homeostasis; older adults — compensate with more fluid by
+   day to avoid dehydration, common and harmful in this group.
+ • Dietary sodium: high intake is an independent risk factor; restriction is effective in several settings (low-
+   quality evidence); mechanism under investigation.
+ • Obesity is associated with nocturia in some populations; regular exercise with lower risk. Bariatric
+   surgery improves nocturia (not a primary treatment) — underlining the relevance of BMI.
+ • Compression stockings: counter daytime leg fluid accumulation, reducing night mobilisation — a
+   potentially effective intervention.
+ • Other conservative options as indicated: mindfulness, bladder retraining, pelvic floor muscle training,
+   treating constipation.
+Figure 112.7 — Conservative interventions for nocturia. Sleep hygiene; evening fluid restriction; less caffeine
+and alcohol; dietary sodium limitation; bladder and pelvic floor training; exercise and weight loss;
+compression stockings.
+ • EAU Male LUTS (weak, LoE 4): discuss behavioural changes to reduce nocturnal volume and episodes and
+   improve sleep.
+Concept — Lifestyle advice rests on diuretic kinetics rather than trial data. Anything drunk or eaten within
+the few hours before bed is excreted during sleep, so timing matters more than total amount.
+
+
+
+
+                                                     page 15 of 30
+Chapter 112 — Nocturia                                                                             Evaluation and Management
+
+
+Sleep CALM: Lower Urinary Tract Dysfunction
+ • Nocturia is often isolated, but is also a component of bladder outlet obstruction (BOO), OAB, detrusor
+   underactivity, neurogenic bladder, dysfunctional voiding and the genitourinary syndrome of menopause
+   (GSM). It is commoner in men with clinically significant BPH and is present in up to 85% of OAB trial
+   participants.
+ • Historically nocturia was just one LUTS attributed to BPH (and a core OAB feature) long before it was
+   studied in its own right.
+ • Isolated nocturia is not a LUTS and would not be expected to respond to lower urinary tract drugs.
+   Those drugs — historically the backbone of treatment — seldom give clinically meaningful benefit, but
+   remain reasonable when LUTD is justifiably suspected.
+
+INITIAL LUTD ASSESSMENT IN NOCTURIA (EAU, ICS)
+ Component               Recommendation
+ History                 Concurrent LUTS; disease-specific questionnaires may help
+ Examination             Abdominal (bladder fullness) + genital and/or digital rectal examination (DRE)
+ Urinalysis              All patients; if urinary tract infection (UTI) found → treat → repeat urinalysis
+ PVR bladder scan        Both women and men
+ PSA                     Only if the result would change decisions or treatment
+
+ • LUTD (incomplete emptying, abnormal afferent signalling) typically gives smaller voided volumes —
+   nocturia from diminished functional capacity.
+ • Neurological patients: nocturia highly prevalent but under-studied; manage by neurogenic LUTD
+   guidelines.
+
+From the guidelines
+ • EAU Female LUTS: urological causes with prominent nocturia include OAB, BOO, detrusor underactivity
+   and dysfunctional voiding.
+ • EAU Male LUTS: nocturia can be part of OAB and chronic pelvic pain syndrome; with BOO it is debated
+   whether the link is causal or coexistence. Behavioural, sleep and systemic causes may coexist and must
+   be considered in all cases. Only where LUTD contributes should nocturia be termed a LUTS.
+
+Benign Prostatic Obstruction
+ • Relieving BOO should help nocturia by lowering PVR, increasing functional capacity, reducing global
+   frequency and reducing afferent input from the bladder neck and prostatic urethra.
+ • α-blockers: inhibit noradrenaline at prostatic smooth muscle → ↓ prostatic tone and outlet resistance.
+   α1-receptors also lie in bladder, urethra and CNS, and α-blockers reduce CNS afferent activity. Available:
+   alfuzosin, doxazosin, tamsulosin, terazosin, silodosin.
+ • 5α-reductase inhibitors (5ARIs), dutasteride and finasteride, block formation of serum and intraprostatic
+   dihydrotestosterone (DHT) → prostatic involution and ↓ volume.
+ • Nocturia data come almost entirely from secondary or post hoc endpoints in BPH/LUTS trials, in which
+   nocturia did not determine eligibility.
+
+
+
+
+                                                        page 16 of 30
+Chapter 112 — Nocturia                                                                          Evaluation and Management
+
+
+COMPARISON — PROSTATIC PHARMACOTHERAPY TRIALS REPORTING NOCTURIA
+ Trial / analysis              Arms                                Nocturia endpoint      Verdict
+ Pooled placebo-controlled     Silodosin 8 mg vs placebo           ≥1-void improvement Statistically superior, but
+ silodosin trials (post hoc)                                       if ≥2 voids         about half of placebo
+                                                                                       patients also improved
+ Silodosin vs tamsulosin       Silodosin vs tamsulosin vs          Change in frequency    Silodosin, not tamsulosin,
+ RCT                           placebo                                                    beat placebo; absolute
+                                                                                          differences a fraction of a
+                                                                                          void
+ Tamsulosin controlled-     Tamsulosin vs placebo                  FUSP (primary);        FUSP and frequency
+ absorption pilot (men with                                        frequency              improved in both arms; no
+ ≥2 voids)                                                                                significant difference
+ Pooled phase III              Dutasteride 0.5 mg vs placebo       Change at 2 years      Significant but small
+ dutasteride trials
+ REDUCE (landmark;             Dutasteride 0.5 mg vs placebo       Change at 2 and 4      Nocturia improved by −0.15
+ chemoprevention)                                                  years                  and −0.24 voids; no sleep-
+                                                                                          quality benefit
+ VA Cooperative Study          Terazosin 10 mg, finasteride 5 mg, Frequency at 1 year     1.8 terazosin; 2.1 finasteride;
+ (landmark)                    combination, placebo               (baseline 2.5)          2.0 combination; 2.1 placebo
+                                                                                          — only the α-blocker
+                                                                                          separated
+ CombAT (landmark, 4           Tamsulosin 0.4 mg, dutasteride      Change in frequency    Combination −0.5 vs
+ years)                        0.5 mg, combination                                        tamsulosin −0.3 and
+                                                                                          dutasteride −0.4 (both P ≤
+                                                                                          0.01)
+ MTOPS (landmark)              Doxazosin 8 mg, finasteride 5 mg,   Change at 1 year       Combination −0.58 and
+                               combination, placebo                                       doxazosin −0.54 beat
+                                                                                          placebo −0.35; finasteride
+                                                                                          −0.40 did not; persisted at 4
+                                                                                          years
+
+ • Lesson: statistical without clinical significance — fractions of a void, large placebo response.
+ • Pattern: the α-blocker carries most of the effect; 5ARIs alone are weakest; combination ≈ α-blocker alone
+   for nocturia.
+ • Trap: quoting a significant P value as evidence of worthwhile nocturia benefit.
+ • Phosphodiesterase type 5 inhibitors (PDE5Is): PDE5 is highly expressed in the lower urinary tract and its
+   vessels, driving prostatic, bladder and arterial tone. Inhibition ↑ blood flow and oxygenation and inhibits
+   non-voiding contractions and mechanosensitive afferents. PDE5Is improve overall LUTS, but no clinical
+   benefit for nocturia (pooled tadalafil trials: −0.5 vs −0.4 placebo). May be used for moderate-to-severe
+   LUTS with or without erectile dysfunction — but not offered for nocturia.
+
+Bladder outlet surgery
+ • Offered to appropriately selected men with BPH-related LUTS refractory to medical therapy.
+
+ Comparison                                  Finding
+ Real-world cohort: transurethral            Reduction in nocturia episodes ranked TURP > TUMT > α-blocker >
+ resection of the prostate (TURP),           watchful waiting
+ transurethral microwave therapy
+ (TUMT), α-blocker, watchful waiting
+
+
+
+                                                       page 17 of 30
+Chapter 112 — Nocturia                                                                         Evaluation and Management
+
+
+ Comparison                               Finding
+ Consecutive new BPH-LUTS patients with TURP reduced nocturia in a larger proportion
+ ≥2 voids: TURP vs tamsulosin
+ Small RCT: TURP vs tamsulosin 0.4 mg     Change favoured TURP (both reached 1.4 voids at 1 year) — possibly
+ (untreated nocturia)                     driven by higher baseline in the TURP arm; better nocturia QoL with TURP,
+                                          no difference in uninterrupted sleep
+ Prospective TURP series (≥2 voids)       Nocturia fell at 6 months; no change in subjective sleep quality
+ TURP or simple prostatectomy series      Nocturia and FUSP both improved; each independently associated with
+                                          better QoL
+
+ • Verdict: surgery may be slightly more effective than medical therapy for frequency, but the real clinical
+   benefit is unclear because sleep and QoL data are inconsistent.
+ • Newer BPH treatments — GreenLight photoselective vaporisation, Aquablation, Rezum, UroLift, prostatic
+   artery embolisation — each have advantages over TURP, but none is proven more effective than TURP for
+   LUTS, specifically nocturia.
+ • Counsel before surgery on the limited evidence and possible sub-optimal nocturia response, especially
+   when nocturia is the most bothersome complaint.
+
+Overactive Bladder Syndrome
+ • Antimuscarinics (historical cornerstone): M3 receptors mediate detrusor contraction; antagonism of post-
+   junctional excitatory receptors → relaxation. Muscarinic receptors in the urothelium and afferent
+   pathways may also contribute to OAB.
+ • Proposed nocturia mechanisms: ↓ afferent activity (less nocturnal urgency), ↑ nocturnal capacity, longer
+   inter-void interval. Agents: darifenacin, fesoterodine, oxybutynin, propiverine, solifenacin, tolterodine,
+   trospium.
+ • Evidence mostly secondary/post hoc; significance inconsistent. Nocturnal urgency and nocturnal voids
+   are among the most refractory OAB symptoms — good daytime response does not predict night-time
+   benefit.
+
+COMPARISON — ANTIMUSCARINIC TRIALS WITH A NOCTURNAL PRIMARY ENDPOINT
+ Trial                       Population / design                Primary endpoint     Verdict
+ Tolterodine extended        OAB with ≥2.5 night voids;        Change in             Negative; but urge-related and
+ release (ER) 4 mg vs        placebo run-in; dosed ≥4 h before nocturnal             severe urge-related night voids
+ placebo                     bed; 12 weeks; 7-day diaries with micturitions          fell significantly
+                             urgency rating
+ Fesoterodine 4→8 mg vs    OAB with 2–8 nocturnal urgency Change in                  Positive; total night voids also
+ placebo — the only trial  episodes (Urinary Sensation Scale nocturnal urgency       favoured fesoterodine
+ with nocturnal urgency as ≥3); 12 weeks                     episodes
+ primary endpoint
+
+ • Post hoc: patients voiding below their own 24-h capacity (elevated NBCi) fare better with evening
+   antimuscarinic than those already voiding near capacity.
+ • Bottom line: antimuscarinics help most with severe urgency and small nocturnal voided volumes, but as
+   for BPH drugs, significance seldom translates into meaningful benefit.
+
+
+
+
+                                                    page 18 of 30
+Chapter 112 — Nocturia                                                                         Evaluation and Management
+
+
+ • β3-adrenoceptor agonists (mirabegron, vibegron): raise cyclic adenosine monophosphate in the storage
+   phase → detrusor relaxation; OAB relief comparable to antimuscarinics with fewer side effects.
+   Mirabegron gives a similar or slightly larger rise in voided volume, perhaps not clinically noticeable.
+     ◦ Systematic review: mirabegron 50 and 100 mg reduce nocturia marginally versus placebo (weighted
+       mean differences of about −0.1 to −0.2 voids); 50 mg ≈ 100 mg; 50 mg slightly better than tolterodine,
+       100 mg not; heterogeneous trials.
+     ◦ Vibegron 50 and 100 mg: modestly greater reduction than placebo (secondary analysis).
+     ◦ No β3-agonist study has nocturia as its primary outcome; comparison with antimuscarinics for
+       nocturia is poorly characterised.
+
+Behavioural therapy for OAB and nocturia
+ • Before pharmacotherapy, all OAB patients should be offered behavioural therapy: bladder training,
+   pelvic floor muscle (PFM) therapy, fluid management, bladder-control strategies.
+
+COMPARISON — BEHAVIOURAL VERSUS DRUG THERAPY (NOCTURIA AS SECONDARY OUTCOME)
+ Population                          Arms                                      Nocturia verdict
+ Women with urgency urinary          Tolterodine ER ± supervised               Trend to combination; not significant
+ incontinence (UUI)                  behavioural training
+ Older women with UUI                Biofeedback-assisted PFM training vs      Behavioural > drug > placebo
+                                     titrated oxybutynin vs placebo
+ OAB (open-label)                    Darifenacin ± behavioural modification Both improved; no difference
+ Untreated women with OAB            Tolterodine vs bladder training vs        All improved; comparison limited by
+                                     combination                               baseline imbalance and attrition
+ Women with OAB                      Trospium vs physiotherapy                 Physiotherapy and combination >
+                                     (interferential current, PFM, bladder     drug alone
+                                     training) vs combination
+ Male veterans, OAB despite α-       Titrated oxybutynin vs adjunctive         Daytime equivalent; behavioural
+ blocker, no BOO                     behavioural therapy                       better for nocturia
+ Men with OAB (6 weeks, then all     Behavioural vs tolterodine 4 mg +         Initially combination > behavioural >
+ step up to combination)             tamsulosin 0.4 mg vs combination          drug; after step-up no difference →
+                                                                               behavioural alone is a reasonable
+                                                                               first-line option
+
+ • Pattern: behavioural therapy matches or beats drugs for nocturia; adding drugs adds little.
+ • Caveats: nocturia was never the primary outcome, and what counts as "behavioural" is heterogeneous.
+ • Resource burden can be reduced: unsupervised training via a 2-h class or a 20-min video both reduced
+   nocturia over 2 years in women; individual and group PFM training both improved nocturia in older
+   women.
+
+Third-line OAB therapy
+ Therapy                           Nocturia evidence (secondary endpoints, 12 weeks)
+ OnabotulinumtoxinA 100 U (two     Better than placebo by a fraction of a void; no active comparator; trials
+ phase III trials, OAB with UUI)   comparing it with anticholinergics did not assess nocturia
+ OnabotulinumtoxinA vs sacral      No difference; nocturia not assessed in other key SNM trials
+ neuromodulation (SNM)
+ (refractory UUI)
+
+
+
+
+                                                    page 19 of 30
+Chapter 112 — Nocturia                                                                           Evaluation and Management
+
+
+ Therapy                              Nocturia evidence (secondary endpoints, 12 weeks)
+ Percutaneous tibial nerve            PTNS better
+ stimulation (PTNS) vs sham
+ PTNS vs tolterodine 4 mg             Similar
+
+ • Third-line treatment probably beats placebo for nocturia, but nocturia has never been a prospective
+   primary outcome, and superiority to drugs is unknown.
+
+Nocturia and the Genitourinary Syndrome of Menopause
+ • GSM: LUTS plus genital and sexual symptoms from reduced oestrogenic stimulation. Nocturia is common
+   within it. Mechanism is probably multifactorial: LUTD + excess nocturnal production + sleep impairment.
+ • Hormone replacement therapy may help postmenopausal women with bothersome urinary symptoms:
+   oral oestrogen, vaginal ring or pessary, and several formulations in a recent pilot. The selective oestrogen
+   receptor modulator ospemifene is potentially effective.
+
+COMPARISON — GUIDELINE RECOMMENDATIONS FOR LUTD-DIRECTED THERAPY IN NOCTURIA
+                                                              EAU Male panel on nocturia
+ Therapy                    EAU Male LUTS 2022                2017                           EAU Female LUTS 2022
+ α1-blocker                 Offer for nocturia with LUTS      May be offered (grade B, LoE   —
+                            (weak, LoE 2)                     1b)
+ 5ARI                       Offer with LUTS and prostate      May be offered with           —
+                            >40 mL (weak, LoE 2)              moderate-to-severe LUTS and
+                                                              prostate >40 mL (grade C, LoE
+                                                              1b)
+ PDE5I                      Do not offer (weak, LoE 2)        Should not be offered (grade   —
+                                                              B, LoE 1b)
+ Antimuscarinic             Offer for nocturia with OAB       May be offered with OAB        Offer with UUI or other
+                            (weak, LoE 2)                     (grade B, LoE 1b)              LUTS after counselling
+                                                                                             (strong, LoE 1b)
+ PFM training               —                                 —                              Offer, individual or group,
+                                                                                             with incontinence or
+                                                                                             storage LUTS (strong, LoE
+                                                                                             1b)
+ Behavioural +              —                                 —                              Inform: combination
+ anticholinergic                                                                             unlikely to beat either
+                                                                                             alone (weak, LoE 1b)
+ Vaginal oestrogen          —                                 —                              Offer after counselling
+                                                                                             (weak, LoE 1b)
+
+ • Pattern: every male LUTD drug recommendation is weak; the only strong recommendations are in the
+   female guideline (antimuscarinic, PFM training). PDE5Is are the one explicit "do not offer".
+ • Trap: the 5ARI prostate threshold is >40 mL.
+
+TABLE 112.5 PHARMACOLOGIC AGENTS FOR NOCTURIA WITH ASSOCIATED LUTS — A. DOSING AND ORGAN
+ADJUSTMENT
+ Drug              Oral dose                    Renal                             Hepatic / cardiovascular
+ α-blockers
+
+
+
+
+                                                          page 20 of 30
+Chapter 112 — Nocturia                                                                          Evaluation and Management
+
+
+ Drug              Oral dose                 Renal                               Hepatic / cardiovascular
+ Alfuzosin         10 mg daily               Caution if creatinine clearance     Contraindicated in moderate–severe
+                                             (CrCl) <30 mL/min                   hepatic impairment; caution with
+                                                                                 tachyarrhythmia or ischaemia
+ Doxazosin         Immediate release (IR)    No adjustment                       Not recommended in severe
+                   1–8 mg; extended                                              impairment; caution in heart failure,
+                   release (ER) 4–8 mg                                           angina, recent myocardial infarction
+ Silodosin         8 mg with food            4 mg if CrCl 30–50;                 Caution mild–moderate;
+                                             contraindicated <30                 contraindicated severe
+ Tamsulosin        0.4–0.8 mg, 30 min        Caution CrCl <10                    No adjustment; caution in heart failure
+                   after the same meal
+ Terazosin         1–5 mg at bedtime         No adjustment                       No adjustment; caution in heart failure
+                   (max 20 mg)
+ 5α-reductase inhibitors
+ Dutasteride       0.5 mg                    No adjustment                       Caution (extensive hepatic
+                                                                                 metabolism)
+ Finasteride       5 mg                      No adjustment                       Caution (extensive hepatic
+                                                                                 metabolism)
+ Antimuscarinics
+ Darifenacin       7.5–15 mg                 No adjustment                       Max 7.5 mg moderate; not
+                                                                                 recommended severe
+ Fesoterodine      4–8 mg (max 4 mg with     Max 4 mg if CrCl <30                Not recommended severe
+                   potent CYP3A4
+                   inhibitor)
+ Oxybutynin        IR 5 mg two to three      Caution (limited data)              Caution (not studied)
+                   times daily (max four);
+                   older adults start 2.5
+                   mg; ER 5–10 mg (max
+                   30 mg)
+ Solifenacin       5–10 mg                   Max 5 mg if CrCl <30                Max 5 mg moderate; not
+                                                                                 recommended severe
+ Tolterodine       IR 1–2 mg twice daily;    CrCl 10–30: IR 1 mg/day, ER 2       IR 1 mg twice daily severe; ER 2 mg
+                   ER 2–4 mg (lower with     mg/day; ER not recommended          mild–moderate, not recommended
+                   CYP3A4 inhibitors)        <10                                 severe
+ Trospium          IR 20 mg twice daily      CrCl <30: IR 20 mg at bedtime; ER   Caution moderate–severe
+ chloride          (consider 20 mg/day in    not recommended
+                   elderly); ER 60 mg in
+                   the morning
+ β3-agonists
+ Mirabegron        25–50 mg                  Max 25 mg if estimated              Max 25 mg moderate; not
+                                             glomerular filtration rate (eGFR)   recommended severe
+                                             15–30; not recommended <15
+ Vibegron          75 mg                     Not recommended eGFR <15            Not recommended severe
+
+
+
+
+                                                       page 21 of 30
+Chapter 112 — Nocturia                                                                           Evaluation and Management
+
+
+TABLE 112.5 (CONTINUED) — B. CONTRAINDICATIONS AND SIGNATURE ADVERSE EFFECTS
+ Drug              Notable contraindications                  Signature adverse effects / precautions
+ Alfuzosin         Potent CYP3A4 inhibitors (ketoconazole,    Dizziness; intraoperative floppy iris syndrome (IFIS),
+                   itraconazole, ritonavir); other α1-        orthostatic hypotension, retrograde ejaculation, rare
+                   blockers                                   priapism; QTc prolongation
+ Doxazosin         Galactose intolerance; hypersensitivity to Dizziness, fatigue, malaise, headache; IFIS, orthostasis,
+                   quinazolines (prazosin, terazosin)         priapism; rare reversible leucopenia
+ Silodosin         Potent CYP3A4 inhibitors; other α1-        Retrograde ejaculation — the dominant effect;
+                   blockers; CrCl <30                         orthostatic hypotension (caution >65 years), syncope,
+                                                              IFIS
+ Tamsulosin        Strong CYP3A4 inhibitors (ketoconazole)    Headache, orthostatic hypotension, rhinitis, ejaculatory
+                                                              dysfunction, dizziness; rare anaphylaxis with
+                                                              sulfonamide allergy; IFIS
+ Terazosin         Hypersensitivity                           Dizziness, myasthenia; IFIS, orthostasis, priapism
+ Dutasteride       Other 5ARIs; pregnancy                     Impotence and ↓ libido (highest in first 6 months),
+                                                              gynaecomastia; PSA halved within 3–6 months; US Food
+                                                              and Drug Administration (FDA) pregnancy category X;
+                                                              sexual dysfunction may persist
+ Finasteride       Other 5ARIs; pregnancy                     Impotence, ↓ libido, ejaculatory disorder;
+                                                              gynaecomastia; male breast cancer (<1%); PSA halved
+                                                              within 3–6 months; category X
+ Antimuscarinics Gastric retention, urinary retention,        Dry mouth, constipation; anticholinergic effects; rare
+ (class)         uncontrolled narrow-angle glaucoma,          angioedema; Beers Criteria — potentially inappropriate
+                 hypersensitivity                             ≥65 years
+ Oxybutynin        Class; severe dysmotility                  Highest dry-mouth burden in the table; dizziness,
+                                                              drowsiness, confusion
+ Solifenacin       Class; dialysis                            Dose-dependent QTc prolongation
+ Fesoterodine /    Class; cross-hypersensitivity with each    Tolterodine: QTc at supratherapeutic dose; CYP3A4 dose
+ tolterodine       other                                      adjustment
+ Trospium          Class                                      Eliminated by active tubular secretion — caution with
+                                                              vancomycin, morphine, metformin, tenofovir;
+                                                              potentiated by alcohol/sedatives; caution in ulcerative
+                                                              colitis
+ Mirabegron        Severe uncontrolled hypertension           Hypertension (commonest), tachycardia, palpitations;
+                                                              caution urinary retention
+ Vibegron          Hypersensitivity                           Headache, nasopharyngitis; ↑ PVR / retention (caution)
+
+Information derived from Lexicomp Lexi-Drugs; limited summary — consult full prescriber information.
+ • Purpose: safe prescribing in an old, multimorbid, often renally impaired population.
+ • Pattern: α-blockers share IFIS and orthostasis; 5ARIs share sexual effects, PSA halving and teratogenicity;
+   antimuscarinics share retention, glaucoma and Beers-list warnings; β3-agonists swap anticholinergic
+   burden for blood-pressure effects.
+
+
+
+
+                                                      page 22 of 30
+Chapter 112 — Nocturia                                                                             Evaluation and Management
+
+
+ • Traps: silodosin is contraindicated at CrCl <30 (halve to 4 mg at 30–50); trospium is the tubular-secretion
+   drug; mirabegron's signature effect is hypertension; antimuscarinics are Beers-list drugs in the over-65s
+   — the core nocturia population.
+Concept — Lower urinary tract drugs act on capacity and outflow, but most nocturia is driven by production.
+So they give statistically significant but clinically small effects, and they help only when LUTD genuinely
+contributes: treat the mechanism, not the organ.
+
+Sleep CALM: Medications
+ • Many drugs used for medical disease cause nocturia (Table 112.6), by ↑ nocturnal production, insomnia/
+   CNS effects or direct lower urinary tract effects.
+ • Careful medication reconciliation is essential; establish the time of administration. Initial management:
+   adjust timing or frequency, or substitute a drug with fewer urinary effects.
+
+TABLE 112.6 DRUG EFFECTS CAUSING NOCTURIA
+ Mechanism                  Drugs                                      How
+ Increased urine output     Diuretics                                  Diuresis
+                            Selective serotonin reuptake               Block antidiuretic hormone (ADH) secretion
+                            inhibitors (SSRIs)
+                            Calcium channel blockers                   Oedema from ↓ arteriolar resistance; ↑ ANP;
+                                                                       block proximal tubular sodium reabsorption
+                            Tetracycline                               Attenuates ADH via ↓ cyclic adenosine
+                                                                       monophosphate (cAMP)
+                            Lithium                                    ↓ Aquaporin-2; lithium-induced oedema
+                            Sodium-glucose cotransporter 2             Glycosuria
+                            (SGLT-2) inhibitors
+ Insomnia / CNS effects     CNS stimulants                             Dextroamphetamine, methylphenidate
+                            Antihypertensives                          α-blockers, β-blockers, methyldopa
+                            Respiratory; decongestants                 Salbutamol (albuterol), theophylline;
+                                                                       phenylephrine, pseudoephedrine
+                            Hormones                                   Corticosteroids, thyroid hormone
+                            Psychotropics                              Monoamine oxidase inhibitors (MAOIs), SSRIs,
+                                                                       atypical antidepressants
+                            Dopaminergic; antiepileptic                Carbidopa; phenytoin
+ Direct lower urinary       Ketamine                                   Direct bladder toxin
+ tract effects
+                            Tiaprofenic acid (Surgam)                  Toxic cystitis
+                            Cyclophosphamide                           Bladder toxicity
+
+Modified from Weiss et al., Nocturia Think Tank: focus on nocturnal polyuria, ICI-RS 2011.
+ • Pattern: the three groups mirror the production / sleep / bladder arms; SSRIs appear twice (ADH effect
+   and sleep).
+ • Traps: calcium channel blockers cause nocturia through oedema (third-spacing, mobilised at night);
+   SGLT-2 inhibitors through glycosuria; α-blockers, used to treat nocturia with BPH, also appear as a cause
+   of insomnia.
+
+
+
+
+                                                       page 23 of 30
+Chapter 112 — Nocturia                                                                      Evaluation and Management
+
+
+Multicomponent Therapy
+ • Most nocturia has more than one cause, and the Sleep CALM factors interact:
+     ◦ Poor health and comorbidity burden are the strongest predictors of sleep disturbance; many chronic-
+       disease drugs cause insomnia.
+     ◦ LUTS severity is linked to cardiovascular risk, inflammation and systemic disease.
+     ◦ Older age brings more disease, adverse sleep changes and polypharmacy.
+ • A multifactorial cause needs a multimodal plan — the basis of the EAU Male LUTS "Shared Care
+   Pathway", which addresses sleep, medical and lower urinary tract factors concurrently.
+ • Small trials show benefit from multicomponent, aetiology-directed treatment; an individualised plan
+   addressing several Sleep CALM factors in older male US veterans improved frequency, bother and sleep
+   outcomes.
+
+ KEY POINTS: EVALUATION AND MANAGEMENT
+   • Optimise every Sleep CALM factor; sleep is bidirectional — CPAP, melatonin, insomnia therapy may
+     help.
+   • Head-to-toe work-up: nocturia may be the sole sign of disease, and treating disease helps nocturia.
+   • Evening fluid, alcohol, caffeine, sodium restriction: variable evidence, low risk.
+   • LUTD drugs: modest benefit; β3 vs antimuscarinic unknown; oestrogen in GSM.
+   • Reconcile medications; multicomponent treatment is likely additive.
+
+Concept — Sleep CALM is a diagnostic checklist and a treatment plan at once. Each factor causes nocturia
+through production, capacity or sleep, so identifying it is already the start of treating it. Because the factors
+coexist, they are treated together, not in turn.
+
+
+ADDITIONAL TREATMENT CONSIDERATIONS
+
+Refractory Nocturia: A Stepwise Approach
+Figure 112.8 — Sleep CALM diagnostic algorithm (Monaghan et al., 2023).
+History + physical examination + individualised ancillary testing → identify modifiable Sleep CALM factors →
+optimise Sleep CALM → conservative management → pharmacotherapy in carefully selected patients —
+with the voiding diary running alongside every step.
+ • Even refractory nocturia starts conservatively: lifestyle measures have variable evidence but minimal
+   risk. Drugs are for nocturia refractory to Sleep CALM optimisation and conservative management.
+ • In the USA, bedtime antidiuretic replacement is the only drug specifically indicated for nocturia — for
+   ≥2 voids per night due to NP. Guidelines also discuss timed diuretics (e.g. early afternoon), which shift
+   urine output into the day and reduce NUV.
+ • Why target nocturnal volume even when capacity is small:
+     ◦ Production and capacity both determine the mismatch, but excess nocturnal production is the
+       stronger correlate of frequency and of treatment response.
+     ◦ NP patients benefit most; but even patients without NP respond to volume-reducing treatment.
+     ◦ In patients with impaired nocturnal capacity, production-lowering therapy helps them void closer to
+       capacity. In diary-confirmed small capacity, improvement came with falling NUV and unchanged
+       capacity.
+
+
+
+                                                   page 24 of 30
+Chapter 112 — Nocturia                                                                     Additional Treatment Considerations
+
+
+     ◦ Production-lowering therapy improves nocturia in BPH and OAB, as monotherapy or add-on.
+ • EAU Male LUTS panel on nocturia (grade A, LoE 3): discuss lifestyle changes to reduce nocturnal volume
+   and episodes and improve sleep.
+
+Antidiuretic Replacement Therapy
+ • Endogenous AVP normally rises during sleep, conserving water, lowering NUV and counteracting bladder
+   filling. A blunted nocturnal AVP rise occurs in some NP samples — leading some to regard NP as partial
+   central DI.
+ • AVP is technically difficult to measure, and its role may differ between populations; but synthetic
+   antidiuretics predictably ↑ water permeability and reabsorption, dilute extracellular fluid and
+   concentrate urine.
+ • Bedtime antidiuretic → ↓ NUV: a rational option for refractory nocturia without other identifiable
+   contributory factors.
+ • Desmopressin (1-deamino-8-D-arginine vasopressin, DDAVP): selective V2 agonist — antidiuretic action
+   of AVP without pressor activity. Used since the 1980s; approved for nocturia in >80 countries.
+ • US-approved low-dose formulations for NP with ≥2 voids per night: desmopressin acetate nasal spray
+   (DANS) and orally disintegrating tablets (ODT). They offer greater bioavailability, faster onset and a
+   better efficacy–side-effect balance, notably for hyponatraemia — the most clinically significant side
+   effect.
+ • Antidiuretic therapy is supported by level 1b evidence from multiple phase III placebo-controlled
+   randomised controlled trials (RCTs) (Table 112.7).
+
+COMPARISON — US LOW-DOSE DESMOPRESSIN FORMULATIONS
+                         DANS                                             ODT
+ FDA approval            March 2017 — first                               June 2018
+ Special feature         Cyclic fatty-acid excipient → better absorption, Sex-specific dosing
+                         more predictable activity
+ Doses                   0.83 and 1.66 mcg/0.1 mL (= 0.75 and 1.5 mcg     27.7 and 55.3 mcg (= 25 and 50 mcg
+                         free base)                                       desmopressin)
+ Dose selection          1.66 mcg if <65 years with no hyponatraemia      Women 27.7 mcg; men 55.3 mcg
+                         risk; ≥65 years or at risk → start 0.83 mcg,
+                         increase if sodium normal
+ Administration          One spray in either nostril ≈30 min before bed   Sublingual, without water, ≈60 min before bed
+
+ • Pattern: DANS stratifies dose by age/risk; ODT stratifies by sex.
+ • Trap: the labelled ODT strengths (27.7/55.3 mcg) are equivalent to 25/50 mcg desmopressin; trial doses
+   are quoted as 25/50 mcg.
+
+Sodium Monitoring
+ • Hyponatraemia risk is most strongly associated with older age, particularly with low baseline sodium,
+   and is dose-dependent. It was seen mainly with earlier high-dose oral tablets in older patients (sodium
+   <130 mmol/L in up to about 5%). Risk with DANS or ODT is lower.
+ • Low-dose rationale: the median effective dose (therapeutic response in 50%) is far lower than the dose
+   for maximal antidiuresis. Low doses still achieve 33–50% improvement in many patients. Supra-threshold
+   plasma levels prolong antidiuresis, so low doses also avoid effects on fluid handling beyond the sleep
+   period.
+
+
+
+                                                        page 25 of 30
+Chapter 112 — Nocturia                                                                Additional Treatment Considerations
+
+
+ • Regular sodium monitoring is required.
+
+COMPARISON — SODIUM MONITORING PROTOCOLS FOR DESMOPRESSIN
+ Source                   Schedule                                                Higher-risk patients
+ US FDA prescribing       Before starting, restarting or dose escalation → within More frequent if ≥65 years or
+ information (DANS,       7 days → ≈30 days → periodically                        other risk factors
+ ODT)
+ EAU Male LUTS (strong,   Baseline → day 3 → day 7 → 1 month → periodically       More frequent if ≥65 years or at
+ LoE 1b)                  (also before dose titration)                            risk
+ EAU Male panel on        Screen at baseline, during titration and during         —
+ nocturia (grade A, LoE   treatment
+ 1a)
+ EAU Female LUTS          Monitor carefully in the elderly                        Avoid if baseline sodium is below
+ (strong, LoE 1a)                                                                 normal
+ ICS                      Comprehensive monitoring when warranted; no             —
+                          protocol
+ AUA                      No guidance                                             —
+ Proposed protocol from   Baseline sodium in all; stop if any value <135 mmol/L   Repeat at 7 and 30 days if ≥65
+ pooled phase III ODT                                                             years or at risk
+ data
+
+ • Independent risk factors for sodium <130 mmol/L (pooled phase III ODT data): age ≥65 years; baseline
+   sodium <135 mmol/L; CrCl <60 mL/min; ODT above US-approved doses (>25 mcg women, >50 mcg
+   men).
+ • Most events occur within 3 weeks of starting ODT (within 2 weeks for DANS).
+ • Modelling the proposed protocol — less stringent than the FDA's, with no repeat test in healthy younger
+   patients — would have prevented every case of sodium <130 mmol/L at approved ODT doses in both
+   sexes. Strict monitoring substantially reduces hyponatraemia.
+ • Trap: FDA and EAU schedules differ — EAU adds a day-3 check.
+
+COMPARISON — GUIDELINE RECOMMENDATIONS FOR DESMOPRESSIN AND DIURETICS
+ Guideline                  Recommendation
+ EAU Male LUTS 2022         Offer desmopressin for NP in men <65 years (weak, LoE 1b); offer low-dose
+                            desmopressin to men >65 years with ≥2 voids per night due to NP (weak, LoE 1b);
+                            discuss benefit versus risk, especially >65 years (strong, LoE 1b)
+ EAU Male panel on          Desmopressin may be prescribed in men <65 with hyponatraemia screening (grade A,
+ nocturia 2017              LoE 1a); trial of timed diuretic for NP, with sodium screening at baseline and during
+                            treatment (grade C, LoE 1b)
+ EAU Female LUTS 2022       Offer desmopressin for NP after counselling, including hyponatraemia (strong, LoE 1b);
+                            offer anticholinergic + desmopressin for OAB with NP (weak, LoE 1b); offer timed
+                            diuretic for polyuria after counselling (weak, LoE 1b)
+
+ • Pattern: age 65 is the pivot — standard use under 65, low dose and explicit risk discussion over 65. Only
+   the female guideline makes desmopressin a strong recommendation.
+
+Diuretics
+ • Population studies link diuretic use and nocturia. Furosemide, the commonest US diuretic, increases
+   urine output for 6–8 h (without chronic kidney disease).
+
+
+                                                     page 26 of 30
+Chapter 112 — Nocturia                                                               Additional Treatment Considerations
+
+
+ • Taken in the hours before sleep, furosemide causes NP; taken >6 h before bed, it does not raise NUV. So
+   the association is probably mostly confounding by volume-overload disease (diuretic use marks the
+   comorbidity) rather than a direct drug effect.
+ • Appropriately timed (morning or early-afternoon) diuretics are a primary treatment for NP in otherwise
+   healthy adults — level 1b evidence. They work by restoring the circadian rhythm of natriuresis, shifting
+   output into the day.
+
+ Diuretic late in the day                          Diuretic in the morning or early afternoon
+ Causes NP — diuresis overlaps sleep               Treats NP — natriuresis completed before bed
+
+
+ KEY POINTS: ADDITIONAL TREATMENT CONSIDERATIONS
+   • Desmopressin: the only US-approved nocturia drug — DANS/ODT for ≥2 voids with NP, lower
+     hyponatraemia risk than old tablets.
+   • Women more sensitive (sex-specific ODT); hyponatraemia is age- and dose-dependent, mostly within
+     the first 2–3 weeks; strict sodium monitoring prevents most.
+   • Afternoon diuretics: large effect in small studies.
+
+Concept — Refractory nocturia is treated by moving urine production out of the night. Desmopressin
+suppresses night-time water diuresis; timed diuretics finish the sodium diuresis before bed. Either way the
+price is sodium balance, so dose, age and monitoring define safe use.
+
+
+ANTIDIURETIC AND DIURETIC THERAPY: KEY TRIALS AND PHYSIOLOGIC
+CONSIDERATIONS
+
+Desmopressin Acetate Nasal Spray
+ • Approval rested on two phase III placebo RCTs (pooled): adults ≥50 years reporting ≥2 episodes and
+   confirmed ≥2.16 nightly voids over 2-week screening; 1.66 or 0.83 mcg/0.1 mL (1.11 mcg in one study
+   only) vs placebo, 12 weeks.
+ • Co-primary endpoints: change in frequency; ≥50% responder rate. Both doses beat placebo on both (see
+   Table 112.7). Sodium checked every 2 weeks.
+ • Hyponatraemia (≤125 mmol/L, or <130 with symptoms): 0% at 0.83 mcg, 1.1% at 1.66 mcg, 0.2%
+   placebo.
+
+Desmopressin Orally Disintegrating Tablets
+ • Women are more sensitive to DDAVP — greater effect on NUV and longer action.
+     ◦ Animal studies: greater renal V2 expression and response in females.
+     ◦ Human physiology: men show greater osmotic sensitivity of AVP release but lower renal sensitivity to
+       AVP.
+     ◦ Possible basis: the V2 receptor gene is on the X chromosome (differential expression with X-
+       inactivation); sex hormones may modulate.
+ • Consequence: women do as well on a lower dose and are at risk of hyponatraemia at higher doses.
+
+
+
+
+                                                   page 27 of 30
+Chapter 112 — Nocturia                                   Antidiuretic and Diuretic Therapy: Key Trials and Physiologic Considerations
+
+
+Development path: 4-week dose-ranging trial (10–100 mcg, both sexes) → post hoc: lower doses effective
+only in women → two 12-week sex-specific trials (25 mcg women; 50 or 75 mcg men) → Japanese sex-
+specific trials in NP refractory to behavioural counselling.
+ • In the dose-ranging trial, most hyponatraemia occurred in adults ≥65 years on 100 mcg — above the US
+   maximum dose.
+ • In men, 75 mcg added little efficacy over 50 mcg but markedly more hyponatraemia — hence approval
+   of 50 mcg.
+ • Japanese trials: men improved at 25 and 50 mcg; women on 25 mcg did not reach significance on the
+   primary endpoint. However, improvement continued in both sexes in a long-term extension, with the
+   largest effect in women on open-label 25 mcg after 1 year.
+
+TABLE 112.7 PHASE III CLINICAL TRIALS INVOLVING DESMOPRESSIN TREATMENT IN PATIENTS WITH NOCTURIA
+                                                                                                            Sodium <130
+ Trial              Population              Dose; duration       Primary result vs placebo                  mmol/L
+ Oral tablets (earlier, high-dose) — dose-titration, then responders randomised; 3 weeks; primary endpoint 50%
+ responder rate
+ Mattiasson         Men ≥20 years, ≥2       100–400 mcg          Response 34% vs 3%                         4%, during titration
+ 2002               voids, Ni >1            titrated
+ Lose 2003          Women ≥18 years, ≥2     100–400 mcg          Response 46% vs 7%                         6% (or
+                    voids, Ni >1            titrated                                                        symptomatic),
+                                                                                                            during titration
+ van                Adults ≥18 years, ≥2    100–400 mcg          Response 33% vs 11%; secondary             3%, during titration
+ Kerrebroeck        voids                   titrated             gains incl. FUSP
+ 2007
+ Nasal spray (DANS) — 12 weeks
+ Kaminetsky      Adults ≥50 years, ≥2       0.83 or 1.66         Frequency −1.4 / −1.5 vs −1.2;             ≤125 or
+ 2018 (pooled, n voids; 43% women           mcg                  ≥50% responders 37.9% / 48.7%              symptomatic: 0% /
+ = 1333)                                                         vs 30.3% (0.83-mcg P = 0.0159 in           1.1% vs 0.2%
+                                                                 table, 0.0227 in text)
+ ODT
+ Weiss 2012 (n = Adults, ≥2 voids           10, 25, 50, 100      Frequency −1.18 (50 mcg), −1.43            3.0% (≤125: 1.1%),
+ 757)                                       mcg; 4 weeks         (100 mcg) vs −0.86; ≥33%                   all within 1 week
+                                                                 responders 71% vs 47% at 100
+                                                                 mcg; post hoc: women
+                                                                 responded at lower doses
+ Sand 2013 (n =     Women, ≥2 voids         25 mcg; 12           Frequency −1.46 vs −1.24; ≥33%             2.2% vs 0%; none
+ 261)                                       weeks                responder odds ratio (OR) 1.85             ≤125
+ Weiss 2013 (n = Men, ≥2 voids              50 or 75 mcg;        Frequency −1.25 / −1.29 vs −0.88; 1.9% / 7.4% vs 0%
+ 385)                                       12 weeks             responder OR 1.98 / 2.04 (50-mcg (≤125: 1.9% / 3.3%)
+                                                                 P = 0.0009 in table, 0.009 in text)
+ Yamaguchi          Men ≥20 years, ≥2       25 or 50 mcg;        Frequency −0.96 / −1.21 vs −0.76           0.9% / 1.8%; none
+ 2020 — men         voids, NP refractory to 12 weeks             — positive                                 ≤125
+ (Japan)            behavioural counselling
+ Yamaguchi    Women ≥20 years, as           25 mcg; 12           Frequency −1.11 vs −0.95 — not             None
+ 2020 — women above                         weeks                significant; secondary FUSP, NUV,
+ (Japan)                                                         NPi improved
+
+
+
+
+                                                    page 28 of 30
+Chapter 112 — Nocturia                                  Antidiuretic and Diuretic Therapy: Key Trials and Physiologic Considerations
+
+
+Trial size in the Japanese studies is given as 342 (men) and 190 (women) in the table and 338 and 187 in the text —
+table versus text denominators, most likely randomised versus analysed populations.
+ • Purpose: traces desmopressin from high-dose titrated tablets to low-dose, sex- or age-stratified
+   formulations with less hyponatraemia.
+ • Pattern: the placebo response is large (about −0.8 to −1.2 voids), so absolute gains over placebo are
+   fractions of a void. Hyponatraemia tracks dose (75 > 50 mcg; 1.66 > 0.83 mcg) and appears early.
+ • Traps: responder thresholds differ — 50% (tablets, DANS) vs 33% (ODT); DANS trials enrolled only ≥50
+   years; the only negative primary endpoint is Japanese women on 25 mcg.
+
+Diuretics
+COMPARISON — TIMED DIURETIC TRIALS FOR NOCTURIA
+ Design                                     Regimen                                       Verdict
+ Placebo-controlled crossover, general-     Bumetanide 1 mg, 4–6 h before bed, 2 Fewer weekly night voids
+ practice adults with ≥2 voids              weeks
+ Placebo RCT, men ≥50 years with NP         Furosemide 40 mg, 6 h before bed, 4           Fewer voids; more responders by
+                                            weeks                                         ≥1 void; no adverse events
+ RCT, LUTS                                  Afternoon furosemide 40 mg +                  Combination reduced frequency
+                                            doxazosin 4 mg vs doxazosin alone             and NUV
+ NP patients                                Afternoon furosemide 20 mg vs gosha- Furosemide better for frequency
+                                            jinki-gan (East Asian herbal medicine) and volume
+ RCT, older adults                          Afternoon furosemide + bedtime                Improved severity — but loop
+                                            DDAVP vs placebo                              diuretics are a contraindication
+                                                                                          to DDAVP (US prescribing
+                                                                                          information)
+
+ • Pattern: small trials, consistent benefit; timing is the active ingredient.
+ • Trap: combining afternoon furosemide with desmopressin worked in a trial but is contraindicated by US
+   labelling.
+Concept — The trials turn one physiological fact into dosing rules. Women are more sensitive to V2 agonism,
+so they get lower doses and still risk hyponatraemia at higher ones. The placebo response is large, so real
+gains are modest and must be weighed against sodium risk.
+
+
+FUTURE DIRECTIONS
+ • Patient-centred diagnosis: user-friendly electronic bladder diaries, remote visits, comorbidity-driven
+   questionnaires for multidisciplinary care.
+ • Single-void nocturnal urine samples (volume, osmolality) collected at the first night void and analysed on
+   standard laboratory equipment — a possible alternative way to diagnose NP.
+ • Point-of-care biomarkers: urinary AVP in early-morning urine as a potential NP marker, especially with
+   impaired circadian AVP rhythm; plasma copeptin predicts DDAVP response in children with NP-related
+   enuresis — possibly relevant to adults.
+ • Nocturnal urine composition is heterogeneous: patients differ in the balance of water and sodium
+   diuresis — the basis for individualised treatment.
+
+
+
+
+                                                      page 29 of 30
+Chapter 112 — Nocturia                                                                          Future Directions
+
+
+ Predominant nocturnal water diuresis                 Predominant nocturnal natriuresis
+ Likely greater response to DDAVP                     Afternoon diuretic likely more relevant
+
+ • New agents: DDAVP is the only commercial antidiuretic peptide for nocturia; small-molecule V2 agonists,
+   including truncated AVP analogues with better receptor selectivity and preserved potency, may improve
+   the efficacy–safety balance.
+ • Research need: large prospective trials of behavioural and drug treatments, especially multicomponent
+   interventions targeting nocturnal production.
+Concept — The field is moving from "nocturnal polyuria" as one diagnosis to phenotyping what the night
+urine is made of, so that the antidiuretic or the natriuretic arm can be matched to the patient.
+
+
+
+
+                                               page 30 of 30
+
