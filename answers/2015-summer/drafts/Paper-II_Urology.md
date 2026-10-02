@@ -292,43 +292,40 @@ Penile block → aspiration ± saline irrigation
 **Type:** SAQ (10 marks)
 
 ### Definition / History
-- A **retropubic extravesical simple prostatectomy**: the adenoma is enucleated through a transverse incision in the anterior prostatic capsule, without opening the bladder.
-- Described by Terence Millin in 1945. **Freyer's** suprapubic operation removes the adenoma through an opened bladder.
+- A **retropubic extravesical simple prostatectomy**: the adenoma is enucleated through a transverse anterior capsular incision, without opening the bladder (Terence Millin, 1945).
+- **Freyer's** suprapubic operation removes the adenoma through an opened bladder.
 
 ### Indications
-- Bothersome LUTS (lower urinary tract symptoms) or complications of obstruction (retention, recurrent infection, haematuria, stones, renal impairment) with a gland **>80–100 g**.
-- Also when lithotomy for TURP (transurethral resection of prostate) is impossible.
-- Prefer suprapubic for a large intravesical median lobe, diverticulum or large stones. Exclude cancer first (DRE (digital rectal examination), PSA (prostate-specific antigen), MRI if suspicious).
+- Bothersome LUTS (lower urinary tract symptoms) or complications of obstruction with a gland **>80–100 g**; or inability to adopt lithotomy.
+- Choose suprapubic for a large median lobe, diverticulum or stones. Exclude cancer first.
 
 ### Steps
-1. Lower midline (or Pfannenstiel) extraperitoneal incision into the **space of Retzius**.
-2. Control the dorsal venous complex (Walsh prophylactic ligation optional).
-3. **Transverse capsulotomy about 2 cm distal to the bladder neck** between stay sutures. Transverse, because a longitudinal incision may extend into the sphincter.
-4. Find the plane between adenoma and surgical capsule; **finger enucleation**.
-5. **Divide the urethra at the apex under vision**, proximal to the sphincter.
-6. Trim or excise the posterior bladder neck lip and advance its mucosa into the fossa to prevent contracture.
-7. **Figure-of-eight sutures at 5 and 7 o'clock** control the prostatic arteries.
-8. 22 Fr three-way catheter (30 mL balloon), **watertight capsule closure**, retropubic drain.
+1. Lower midline or Pfannenstiel extraperitoneal incision into the **space of Retzius**.
+2. Control the dorsal venous complex.
+3. **Transverse capsulotomy ~2 cm distal to the bladder neck** between stay sutures. It is transverse because a longitudinal incision may extend into the sphincter.
+4. Enter the plane between adenoma and surgical capsule; **finger enucleation**.
+5. **Divide the urethra at the apex under vision**, protecting the sphincter.
+6. Excise the posterior bladder neck lip if prominent and advance its mucosa into the fossa.
+7. **Figure-of-eight sutures at 5 and 7 o'clock**, where the prostatic arteries enter.
+8. 22 Fr three-way catheter, **watertight capsule closure**, drain.
 
 ### Millin versus Freyer
 
-| Aspect | **Millin (retropubic)** | **Freyer (suprapubic)** |
+| Aspect | **Millin** | **Freyer** |
 |---|---|---|
 | Bladder | Not opened | Opened |
-| Apex | Divided under vision – sphincter protected | Pinched off by finger |
-| Haemostasis | Best view of fossa | Less direct |
+| Apex | Divided under vision | Pinched off by finger |
 | Stones, diverticulum, median lobe | Difficult | Ideal |
-| Specific risk | Venous bleeding from dorsal complex | Cystotomy to close |
+| Specific risk | Dorsal venous bleeding | Cystotomy leak |
 
 ### Complications
 - Transfusion (<5% with modern technique), urinary leak, infection, bladder neck contracture (2–6%).
-- Retrograde ejaculation in 80–90%; ED (erectile dysfunction) 3–5%; incontinence rare.
+- Retrograde ejaculation 80–90%; ED (erectile dysfunction) 3–5%; incontinence rare, because the sphincter lies outside the plane.
 
 ### Modern alternatives
-- **HoLEP (holmium laser enucleation of prostate)** is size-independent with less bleeding.
-- **RASP (robotic-assisted simple prostatectomy)**: less blood loss, shorter stay and catheter time than open surgery; same functional result.
+- **HoLEP (holmium laser enucleation)** and **RASP (robotic-assisted simple prostatectomy)**: less bleeding and shorter stay; same functional outcome.
 
-**Diagram to draw:** Sagittal section showing the capsulotomy below the bladder neck and the enucleation plane.
+**Diagram to draw:** Sagittal section: capsulotomy and enucleation plane.
 
 > **Key points to remember:**
 > - Millin 1945: retropubic, transverse capsulotomy ~2 cm below bladder neck, bladder not opened.
@@ -342,38 +339,35 @@ Penile block → aspiration ± saline irrigation
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Energy devices cut, coagulate and seal vessels; all achieve haemostasis by denaturing protein.
-- Electrosurgery uses radiofrequency current (~500 kHz), too fast to stimulate nerves and muscle, so it produces heat only.
-- **Cut**: continuous low-voltage waveform; cell water boils and cells burst. **Coagulation**: interrupted high-voltage waveform (on ~6% of the time); tissue desiccates and the effect spreads deeper.
+- Energy devices cut, coagulate and seal vessels by denaturing protein.
+- Electrosurgery uses ~500 kHz radiofrequency current, too fast to stimulate nerve or muscle.
+- **Cut**: continuous low-voltage waveform; cell water boils and cells burst. **Coagulation**: interrupted high-voltage waveform; tissue desiccates and heat spreads deeper.
 
 ### Types of energy sources
 
-| Device | Principle | Lateral thermal spread | Notes |
+| Device | Principle | Lateral spread | Notes |
 |---|---|---|---|
-| **Monopolar** | Current passes from active tip through the patient to a return pad | **5–7 mm** | Cheap, versatile; risk of stray current |
-| **Bipolar** | Current flows only between the jaws | 1–6 mm | No pad, no capacitive coupling; slower |
-| **Advanced bipolar** (LigaSure) | Compression plus impedance-controlled energy fuses collagen and elastin | 1–3 mm | Seals vessels **≤7 mm**; one application only |
-| **Ultrasonic** (Harmonic) | Blade vibrating at 25–55 kHz; mechanical energy denatures protein | **≈1 mm** | No current through patient (safe with pacemakers); tissue <80 °C but blade >200 °C and slow to cool |
-| **Argon beam** | Monopolar current through argon gas, non-contact | Superficial | Haemostasis of raw surfaces; **gas embolism** risk |
-
-- Typical settings: cut 50–80 W, coagulation 30–50 W.
+| **Monopolar** | Active tip → patient → return pad | **5–7 mm** | Versatile; stray-current risk |
+| **Bipolar** | Current only between the jaws | 1–6 mm | No pad; no capacitive coupling |
+| **Advanced bipolar** (LigaSure) | Compression plus impedance-controlled energy fuses collagen | 1–3 mm | Seals vessels **≤7 mm**; single application |
+| **Ultrasonic** (Harmonic) | Blade vibrating at 25–55 kHz; no current through patient | **≈1 mm** | Safe with pacemakers; blade exceeds 200 °C and cools slowly |
+| **Argon beam** | Monopolar current through argon gas, non-contact | Superficial | Raw-surface haemostasis; **gas embolism** |
 
 ### Mechanisms of electrosurgical injury
-- Injuries outside the field of view present days later as bowel perforation.
+- Unseen injuries present late as bowel perforation.
 1. **Insulation failure**: current leaks through damaged insulation.
 2. **Direct coupling**: the active electrode touches another metal instrument.
-3. **Capacitive coupling**: current is induced through intact insulation, worse with high-voltage coagulation. Never use a metal trocar with a plastic retaining ring (hybrid trocar).
-4. **Thermal spread** to ureter, nerves or bowel; residual heat of ultrasonic blades.
-5. **Return pad burns** when the pad partly peels off.
-6. **Surgical fire**: oxidiser, fuel and ignition source together.
+3. **Capacitive coupling**: current induced through intact insulation, worse with coagulation current; avoid hybrid trocars (metal cannula, plastic anchor).
+4. **Thermal spread** to ureter, nerves or bowel.
+5. **Return pad burns** when contact area shrinks.
 
 ### Safety measures
 - **AEM (active electrode monitoring)** detects insulation failure and capacitive coupling.
-- **REM (return electrode monitoring)** blocks activation when pad contact is poor.
-- Use the lowest effective power and short bursts, keep the whole tip in view, and prefer bipolar near critical structures.
+- **REM (return electrode monitoring)** detects poor pad contact.
+- Lowest effective power (cut 50–80 W, coagulation 30–50 W), whole tip in view, bipolar near critical structures.
 
 ### Recent advances
-- Smart generators with real-time impedance feedback; robotic vessel sealers and articulating ultrasonic devices.
+- Smart generators with impedance feedback; robotic vessel sealers.
 
 **Diagram to draw:** Monopolar vs bipolar circuit; capacitive coupling.
 
@@ -389,39 +383,37 @@ Penile block → aspiration ± saline irrigation
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Vascular grafts and patches replace, bypass, extend or widen vessels when primary repair is impossible or would narrow the lumen.
+- Grafts and patches replace, bypass, extend or widen vessels when primary repair is impossible or would narrow them.
 
 ### Types of grafts
 
 | Type | Examples | Advantages | Disadvantages |
 |---|---|---|---|
-| **Autologous vein** | Saphenous, gonadal, superficial femoral | Low infection; good in small vessels | Limited length and calibre |
-| **Autologous artery** | Internal iliac, Carrel aortic patch | Ideal for renal artery reconstruction | Limited availability |
-| **Biological patch** | Bovine or porcine pericardium, cadaveric vessel | Pliable; good for cavoplasty | Cost |
-| **Synthetic** | **PTFE (polytetrafluoroethylene, Gore-Tex)**, Dacron | Off-the-shelf; large calibre for IVC (inferior vena cava) and aorta | Infection; avoid in contaminated fields; venous grafts thrombose |
+| **Autologous vein** | Saphenous, gonadal | Resists infection; suits small vessels | Limited length |
+| **Autologous artery** | Internal iliac, Carrel aortic patch | Ideal for renal arteries | Limited availability |
+| **Biological patch** | Bovine pericardium | Pliable | Cost |
+| **Synthetic** | **PTFE (polytetrafluoroethylene)**, Dacron | Off-the-shelf, large calibre | Infection; venous grafts thrombose |
 
 ### Applications in urology
 1. **Renal transplantation**
-   - Multiple arteries (18–43% of kidneys): Carrel patch, or bench side-to-side or end-to-side joining. Preserve the lower pole artery because it supplies the ureter.
-   - Short right renal vein: extended with donor IVC, external iliac vein or spiral gonadal vein graft.
-   - Atherosclerotic recipient artery: implant onto a Gore-Tex or pericardial patch.
-2. **RCC (renal cell carcinoma) with IVC thrombus**: most need cavotomy and primary closure. **Patch cavoplasty** if the residual lumen would be <50%. **PTFE IVC replacement (16–20 mm)** if the wall is circumferentially invaded.
-3. **Post-chemotherapy RPLND (retroperitoneal lymph node dissection)**: vascular procedures in about 9–15%.
-   - IVC: primary repair if narrowing <25%, patch or graft if >25%. Ligation is tolerated when collaterals exist.
-   - Aorta: about 1% need replacement with a PTFE or Dacron graft; the aorta can never be ligated.
-4. **Renovascular surgery**: aortorenal bypass with saphenous vein or internal iliac artery for renal artery stenosis or aneurysm.
-5. **Dialysis access**: PTFE AV (arteriovenous) graft when a native fistula is not possible.
+   - Multiple arteries (18–43%): Carrel patch or bench joining (side-to-side, end-to-side). Preserve the lower pole artery, which supplies the ureter.
+   - Short right renal vein: extend with donor IVC (inferior vena cava), external iliac or spiral gonadal vein.
+2. **RCC (renal cell carcinoma) with IVC thrombus**: usually cavotomy and primary closure; **patch cavoplasty** if residual lumen would be <50%; **PTFE replacement (16–20 mm)** if the wall is invaded circumferentially.
+3. **Post-chemotherapy RPLND (retroperitoneal lymph node dissection)**: vascular procedures in 9–15%.
+   - IVC: primary repair if narrowing <25%, patch or graft if more; ligation tolerated when collaterals exist.
+   - Aorta: about 1% need PTFE or Dacron replacement; it can never be ligated.
+4. **Renovascular surgery**: aortorenal bypass with saphenous vein or internal iliac artery.
+5. **Dialysis access**: PTFE AV (arteriovenous) graft.
 
 ### Principles
-- Prefer autologous grafts in contaminated or urine-exposed fields and small vessels; synthetic grafts for large high-flow vessels.
-- Tension-free, spatulated anastomoses; heparinise before clamping; flush before the final knot.
-- Wrap synthetic grafts in omentum or retroperitoneal fat to separate them from bowel and the urinary tract.
-- After caval replacement: anticoagulant prophylaxis, then lifelong low-dose aspirin.
+- Autologous grafts for small vessels and contaminated or urine-exposed fields; synthetic for large high-flow vessels.
+- Tension-free anastomoses; heparin before clamping.
+- Wrap synthetic grafts in omentum to separate them from bowel and urinary tract.
 
 ### Complications
-- Thrombosis (caval grafts 10–40%), stenosis, pseudoaneurysm, graft infection (often needing explantation), graft-enteric or urinary fistula.
+- Thrombosis (caval grafts 10–40%), stenosis, graft infection (often needing removal), graft-enteric or urinary fistula.
 
-**Diagram to draw:** Bench reconstruction of two renal arteries before transplant.
+**Diagram to draw:** Bench reconstruction of two renal arteries.
 
 > **Key points to remember:**
 > - Autologous for small vessels/contaminated fields; PTFE/Dacron for IVC/aorta.
@@ -435,46 +427,44 @@ Penile block → aspiration ± saline irrigation
 **Type:** SAQ (10 marks)
 
 ### Introduction / Physics
-- Piezoelectric crystals convert electrical energy to sound and back; higher frequency gives better resolution but less penetration.
-- Probes are **6–10 MHz** (commonly 7.5 MHz): end-fire, side-fire or biplane (transverse and sagittal).
+- Piezoelectric crystals convert electricity to sound and back; higher frequency gives better resolution, less penetration.
+- Probes are **6–10 MHz** (commonly 7.5 MHz): end-fire, side-fire or biplane.
 
 ### Technique
-- Left lateral position (lithotomy for transperineal work); DRE (digital rectal examination) first, then transverse and sagittal scanning.
+- Left lateral position; DRE (digital rectal examination) first; transverse and sagittal scans.
 
-### Normal sonographic anatomy
-- McNeal zones are not seen separately. The posterior **peripheral and central zones** (where ~70% of cancers arise) look homogeneous and echogenic. The **transition zone** (site of BPH (benign prostatic hyperplasia)) looks heterogeneous.
-- Corpora amylacea (calcification) outline the surgical capsule.
-- Seminal vesicles: paired, symmetrical, about 4.5–5.5 cm × 2 cm.
+### Sonographic anatomy
+- McNeal zones are not seen separately. The posterior **peripheral zone** (where ~70% of cancers arise) is homogeneous and echogenic; the **transition zone** (BPH (benign prostatic hyperplasia)) is heterogeneous.
+- Corpora amylacea outline the surgical capsule. Seminal vesicles are symmetrical, about 4.5–5.5 × 2 cm.
 
 ### Measurements
-- **Prostate volume (ellipsoid) = 0.52 (π/6) × transverse × AP (anteroposterior) × length**; 1 mL ≈ 1 g. Normal adult gland is 20–25 g.
-- **PSAD (PSA (prostate-specific antigen) density)** = PSA/volume; >0.15 ng/mL/mL is suspicious.
+- **Volume (ellipsoid) = 0.52 × transverse × AP (anteroposterior) × length**; 1 mL ≈ 1 g; normal adult gland 20–25 g.
+- **PSAD (PSA (prostate-specific antigen) density)** = PSA/volume; >0.15 is suspicious.
 
 ### Findings
-- **Cancer**: classically a hypoechoic peripheral-zone lesion, but 39% of cancers are isoechoic. False positives: BPH nodules, prostatitis.
-- **Cysts**: midline Müllerian cyst; off-midline ejaculatory duct cyst (obstruction, azoospermia); seminal vesicle cyst (with renal agenesis).
+- **Cancer**: classically a hypoechoic peripheral-zone lesion, but 39% are isoechoic. False positives: BPH nodules, prostatitis.
+- **Cysts**: midline Müllerian cyst; off-midline ejaculatory duct cyst (azoospermia).
 
 ### Indications
-- Guiding biopsy; volume before BPH surgery and for brachytherapy or cryotherapy planning.
-- Azoospermia work-up: dilated seminal vesicles, ejaculatory duct cysts.
-- Drainage of prostatic abscess and aspiration of cysts.
+- Biopsy guidance; volume before BPH surgery or brachytherapy.
+- Azoospermia work-up (ejaculatory duct obstruction); prostatic abscess drainage.
 
 ### TRUS (transrectal ultrasound)-guided biopsy
-- Systematic **12-core** biopsy under a periprostatic block (1–2% lidocaine).
-- Contraindications: coagulopathy, acute prostatitis or UTI (urinary tract infection), severe immunosuppression.
-- Complications: haematuria (23–63%), haematospermia (10–50%), rectal bleeding, infection (up to 7%) and **sepsis** (0.3–3%) from FQ (fluoroquinolone)-resistant E. coli.
-- Prophylaxis: targeted (rectal swab) or augmented prophylaxis; fluoroquinolones are now restricted.
+- Systematic **12-core** biopsy under periprostatic lidocaine block.
+- Contraindications: coagulopathy, acute prostatitis, severe immunosuppression.
+- Complications: haematuria, haematospermia, rectal bleeding, and **sepsis** (0.3–3%) from FQ (fluoroquinolone)-resistant E. coli.
+- Prophylaxis: targeted (rectal swab) or augmented; fluoroquinolones are now restricted.
 
 ### Current shift
-- **EAU (European Association of Urology)** recommends transperineal biopsy because of its lower infection risk.
+- **EAU (European Association of Urology)** recommends transperineal biopsy because of lower infection risk.
 - **Pre-biopsy mpMRI (multiparametric MRI)** with targeted biopsy:
-  - **PROMIS (2017)**: mpMRI sensitivity for clinically significant cancer was 93% versus 48% for TRUS biopsy; 27% could avoid biopsy.
+  - **PROMIS (2017)**: mpMRI sensitivity for significant cancer 93% versus 48% for TRUS biopsy.
   - **PRECISION (2018)**: MRI-targeted biopsy detected more significant cancer (38% vs 26%).
 
 ### Recent advances
-- **Micro-ultrasound (29 MHz)**: near-histological resolution, comparable to mpMRI for targeting. Also contrast-enhanced TRUS and elastography.
+- **Micro-ultrasound (29 MHz)**: near-histological resolution; comparable to mpMRI for targeting.
 
-**Diagram to draw:** Transverse and sagittal views with zonal anatomy; 12-core biopsy template.
+**Diagram to draw:** Transverse and sagittal views; 12-core biopsy template.
 
 > **Key points to remember:**
 > - Probe 6–10 MHz; volume = 0.52 × T × AP × L; PSAD >0.15 suspicious.

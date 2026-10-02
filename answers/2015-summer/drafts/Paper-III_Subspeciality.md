@@ -279,42 +279,36 @@ Exclude PUV / neurogenic bladder, treat BBD
 *HSG (hysterosalpingography) is not done in neonates, so this is taken as "USG (ultrasonography) in neonates".*
 
 ### Introduction
-- First-line, radiation-free, repeatable imaging. Main use is **postnatal follow-up of antenatal UTD (urinary tract dilation)**, seen in 1–3% of pregnancies.
-- Other uses: febrile UTI (urinary tract infection), abdominal mass, haematuria, renal vein thrombosis, ambiguous genitalia.
+- First-line, radiation-free imaging, mainly for antenatal **UTD (urinary tract dilation)** (1–3% of pregnancies); also febrile UTI (urinary tract infection) and masses.
 
 ### Timing
-- **First scan after 48 hours.** Newborns are relatively dehydrated in the first 24–48 hours, so earlier scans underestimate dilatation.
-- **Scan early (within 24–48 hours) if bladder outlet obstruction is suspected**: bilateral severe dilatation, thick bladder, solitary kidney. Then decompress the bladder and start prophylaxis.
-- A normal early scan can miss dilatation, so many repeat it at about 4–6 weeks.
+- **First scan after 48 hours**: newborns are relatively dehydrated, so earlier scans underestimate dilatation.
+- **Scan early if outlet obstruction is suspected** (bilateral severe dilatation, thick bladder); catheterise and start prophylaxis.
 
 ### Normal neonatal kidney
-- **Prominent hypoechoic pyramids** and a relatively bright cortex are normal and should not be mistaken for hydronephrosis.
-- Measure renal pelvic **APD (anteroposterior diameter)** on a transverse mid-kidney view. Normal postnatal APD is **under 10 mm**.
+- **Prominent hypoechoic pyramids** and a bright cortex are normal, not hydronephrosis.
+- Measure pelvic **APD (anteroposterior diameter)** on a transverse mid-kidney view; normal postnatal APD is **under 10 mm**.
 
-### Grading of dilatation
-- **SFU (Society for Fetal Urology) grades 0–4**: 0 none; 1 pelvis only; 2 major calyces; 3 major and minor calyces; 4 grade 3 plus parenchymal thinning.
+### Grading
+- **SFU (Society for Fetal Urology) 0–4**: 1 pelvis only; 2 major calyces; 3 minor calyces; 4 plus parenchymal thinning.
 
-**UTD classification 2014, postnatal (graded by the worst feature)**
+**UTD classification 2014, postnatal (worst feature decides)**
 | Grade | Findings | Management |
 |---|---|---|
-| P1 (low risk) | APD **10 to <15 mm** or central calyceal dilatation | Repeat USG at 3–6 months; no VCUG (voiding cystourethrogram) or prophylaxis |
+| P1 (low) | APD **10 to <15 mm** or central calyces | USG at 3–6 months; no VCUG (voiding cystourethrogram) or prophylaxis |
 | P2 (intermediate) | APD **15 mm or more**, peripheral calyces or **dilated ureter** | VCUG and prophylaxis at discretion; prophylaxis if ureter >7 mm |
-| P3 (high risk) | **Abnormal parenchyma** (thinning, cysts, echogenicity) or **abnormal bladder**, at any APD | USG at 1 month, VCUG, prophylaxis; MAG3 (mercaptoacetyltriglycine) scan if persistent |
-- **Medullary pyramid thickness under 3 mm** predicts the need for pyeloplasty.
+| P3 (high) | **Abnormal parenchyma or bladder**, any APD | USG at 1 month, VCUG, prophylaxis; MAG3 (mercaptoacetyltriglycine) renogram if persistent |
 
 ### Findings in specific conditions
 | Condition | USG findings |
 |---|---|
 | PUJO (pelviureteric junction obstruction) | Dilated pelvis and calyces, normal ureter |
-| VUR (vesicoureteral reflux) | Fluctuating dilatation; up to 25% with VUR have a **normal first scan** |
-| **PUV (posterior urethral valves)** | Bilateral hydroureteronephrosis, **thick-walled bladder**, dilated posterior urethra: the **"keyhole sign"**, highly suggestive of PUV. Confirm with VCUG |
-| Prune belly | Large bladder **without** a thick wall; dilated ureters |
-| Ureterocele / duplex | Cystic intravesical lesion; dilated upper pole |
-| MCDK (multicystic dysplastic kidney) | **Non-communicating** cysts of varying size, scant parenchyma |
-| ARPKD (autosomal recessive polycystic kidney disease) | Large, bright kidneys |
+| VUR (vesicoureteral reflux) | Up to 25% have a **normal scan** |
+| **PUV (posterior urethral valves)** | Bilateral hydroureteronephrosis, **thick-walled bladder**, dilated posterior urethra (**"keyhole sign"**, highly suggestive of PUV); confirm with VCUG |
+| MCDK (multicystic dysplastic kidney) | **Non-communicating** cysts, scant parenchyma |
 
 ### Recent advances
-- ceVUS (contrast-enhanced voiding urosonography) detects reflux without radiation.
+- ceVUS (contrast-enhanced voiding urosonography) instead of VCUG; pyramid thickness under 3 mm predicts pyeloplasty.
 
 **Diagram to draw:** SFU grades 0–4.
 
@@ -329,38 +323,34 @@ Exclude PUV / neurogenic bladder, treat BBD
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Introduced by **Scott (1972, inflatable)** and **Small–Carrion (1978, semirigid)**.
-- Used for ED (erectile dysfunction) when less invasive treatment fails, is contraindicated or is unacceptable. Patient and partner satisfaction is **80–90%**.
+- **Scott (1972)** inflatable; **Small–Carrion (1978)** semirigid. For ED (erectile dysfunction) failing less invasive treatment; satisfaction **80–90%**.
 
 ### Types
 | Type | Examples | Advantages | Disadvantages |
 |---|---|---|---|
-| **Malleable (semirigid)** | Tactra (nitinol core), Genesis (silver), Rigi 10 | Simple, cheap, no mechanical failure; good for poor dexterity | Always rigid, hard to conceal |
-| **2-piece inflatable** | Ambicor (now discontinued) | No abdominal reservoir | Less flaccidity; never popular |
-| **3-piece inflatable** | AMS 700 CX/LGX/CXR, Coloplast Titan, Rigicon Infla 10 | **Best rigidity with true flaccidity** | Cost, mechanical failure |
+| **Malleable (semirigid)** | Tactra (nitinol), Genesis (silver) | Simple, cheap, no mechanical failure | Always rigid, hard to conceal |
+| **2-piece inflatable** | Ambicor (now discontinued) | No reservoir | Poor flaccidity |
+| **3-piece inflatable** | AMS 700 CX/LGX, Coloplast Titan | **Best rigidity with true flaccidity** | Cost, mechanical failure |
 
-### Components of the 3-piece device
-- Paired cylinders, a scrotal pump, and a reservoir in the space of Retzius. After pelvic surgery the reservoir goes to an **ectopic submuscular** site; lockout valves prevent autoinflation.
-- Repairs are needed in about **15% at 5 years and 30% at 10 years**.
+- 3-piece: paired cylinders, scrotal pump, reservoir in the space of Retzius or an **ectopic submuscular** site after pelvic surgery. Repairs needed in about **15% at 5 years and 30% at 10 years**.
 
 ### Biofilm
-- **Definition**: a structured community of microorganisms in a self-produced **polysaccharide (EPS, extracellular polymeric substance) matrix**, attached to the implant surface.
-- **Stages**: conditioning film, attachment, microcolonies, maturation, then dispersal causing clinical infection.
-- **Organisms**: coagulase-negative staphylococci (S. epidermidis) commonest; also S. aureus, Gram-negatives and Candida.
-- **Why antibiotics fail**: poor penetration of the matrix and slow-growing bacteria. Organisms survive at up to **1000–1500 times** the usual killing concentration, and the matrix shields them from host defences.
-- **Clinical relevance**: bacteria introduced at the first operation lie dormant in biofilm. Revision of an uninfected device carries about 10% infection; an **antiseptic revision washout** lowers this to about 3%.
+- **Definition**: a structured community of microorganisms in a self-produced **polysaccharide matrix**, attached to the implant.
+- **Stages**: attachment, microcolonies, maturation, dispersal (clinical infection).
+- **Organisms**: coagulase-negative staphylococci (S. epidermidis) commonest; also S. aureus, Gram-negatives, Candida.
+- **Why antibiotics fail**: poor matrix penetration and slow-growing bacteria, which survive at up to **1000–1500 times** the usual killing concentration and escape host defences.
+- **Relevance**: organisms from the first operation lie dormant. Revising an uninfected device carries about 10% infection; an **antiseptic washout** lowers it to about 3%.
 
 ### Prevention
-- **Infection rate 1–3%** for first implants; higher with diabetes, revision and immunosuppression.
-- **Chlorhexidine-alcohol** skin preparation (about 40% fewer wound infections than povidone-iodine).
-- Intravenous vancomycin or a third-generation cephalosporin plus gentamicin within 1 hour, for up to 24 hours.
-- **Coated devices halve infection**: **InhibiZone** (AMS) with **rifampin–minocycline**; Coloplast **hydrophilic** coating soaked in antibiotic.
-- **No-touch technique (Eid)**: under 0.5% infection in over 1500 cases.
+- **Infection 1–3%** for first implants; higher with diabetes and revision.
+- **Chlorhexidine-alcohol** skin preparation; intravenous antibiotics (vancomycin or cephalosporin plus gentamicin) for up to 24 hours.
+- **Coated devices halve infection**: **InhibiZone** (rifampin–minocycline) on AMS; hydrophilic coating soaked in antibiotic on Coloplast.
+- **No-touch technique (Eid)**: under 0.5% infection.
 
 ### Management of infection
 - Remove **all** components.
-- **Mulcahy salvage**: remove the device, wash with an antiseptic series (dilute povidone-iodine, then saline or antibiotic), and implant a new device at once. Success **84%**. It fails with early onset, aggressive organisms, or pus with cellulitis.
-- Otherwise explant and reimplant later; this loses corporal length.
+- **Mulcahy salvage**: explant, antiseptic washes (dilute povidone-iodine, then saline), immediate new device. Success **84%**; fails with early onset, aggressive organisms or pus with cellulitis.
+- Otherwise delayed reimplantation (loses length).
 
 **Diagram to draw:** 3-piece device in situ and the biofilm life cycle.
 
@@ -375,44 +365,40 @@ Exclude PUV / neurogenic bladder, treat BBD
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **UVF (uretero-vaginal fistula)**: an abnormal communication between the ureter and vagina, causing continuous leakage of urine.
+- **UVF (uretero-vaginal fistula)**: a ureter–vagina communication causing continuous leakage.
 
 ### Aetiology
-- Usually **unrecognised iatrogenic injury to the distal third of the ureter**. About **three-quarters follow abdominal hysterectomy**, often an uneventful benign one.
-- The ureter is at risk where it passes **under the uterine artery** and over the vaginal fornix. Ureteric injury occurs in 0.2–2.4% of hysterectomies.
-- Others: caesarean section, obstetric trauma, cancer, radiation, endometriosis.
+- Usually **unrecognised injury to the distal ureter**; about **three-quarters follow abdominal hysterectomy**, often uneventful. The ureter is at risk **under the uterine artery** and at the vaginal fornix.
+- Others: obstetric injury, cancer, radiation.
 
 ### Clinical features
 - **Continuous leakage with normal voiding**, because the bladder still fills from the other kidney.
-- Usually appears **within 4 weeks** of surgery, often with fever, flank pain or ileus. Thermal or ischaemic injury takes time to necrose.
+- Appears **within 4 weeks** of surgery, often with fever or flank pain; thermal or ischaemic injury takes time to necrose.
 
 ### Investigations
-- Confirm urine: creatinine of vaginal fluid.
-- **Double dye test**: oral phenazopyridine stains urine orange; blue dye is placed in the bladder. An **orange tampon means UVF**, blue means VVF (vesicovaginal fistula), both means both. The three-swab test is an alternative: a wet but unstained swab suggests UVF.
-- **CT (computed tomography) urography with delayed phase**: leak, hydroureteronephrosis. Ultrasound alone is not enough.
-- **Cystoscopy and retrograde pyelogram**: site and continuity; try a stent at the same sitting.
+- **Double dye test**: oral phenazopyridine (orange urine) plus blue dye in the bladder. **Orange tampon = UVF**, blue = VVF (vesicovaginal fistula), both = both. In the three-swab test, a wet unstained swab suggests UVF.
+- **CT (computed tomography) urography, delayed phase**: leak and hydroureteronephrosis.
+- **Cystoscopy and retrograde pyelogram**: site; stent at the same sitting.
 - **Exclude a coexisting VVF** (up to 25% of VVF have a UVF) and bilateral injury.
 
 ### Management
-**1. Stent first (endourological)**
-- **Retrograde double-J stent** if a guidewire crosses; otherwise PCN (percutaneous nephrostomy) and antegrade stent.
-- **Stenting within 2 weeks** of detection succeeds far more often. Keep it **4–6 weeks**, then re-image. Most fistulae heal; stricture may follow.
+**1. Stent first**
+- **Retrograde double-J** if a wire crosses; otherwise PCN (percutaneous nephrostomy) and antegrade stent.
+- **Stenting within 2 weeks** of detection works best. Remove at **4–6 weeks** and re-image; most heal.
 
-**2. Surgical repair** (stent fails or impossible)
-- **Ureteroneocystostomy**, with **psoas hitch** (about 5 cm) or **Boari flap** (up to 15 cm) for longer gaps. Open, laparoscopic or robotic.
-- Timing: early repair has equal success to delayed repair (no difference before or after 6 weeks) and shortens suffering.
-- Success **90% or more**.
+**2. Surgical repair** (stent fails)
+- **Ureteroneocystostomy** with **psoas hitch** (about 5 cm) or **Boari flap** (up to 15 cm).
+- Early repair is as successful as delayed (no difference before or after 6 weeks). Success **90% or more**.
 
 ```
-Wet with normal voiding -> double dye test, CTU, cystoscopy (exclude VVF)
- -> wire passes? Yes -> double-J 4-6 wk -> re-image
-                 No  -> PCN + antegrade stent
- -> fails -> ureteroneocystostomy + psoas hitch / Boari flap
+Wet + normal voiding -> double dye, CT urography, cystoscopy (exclude VVF)
+ -> wire passes? Yes -> double-J 4-6 wk;  No -> PCN + antegrade stent
+ -> fails -> ureteroneocystostomy + psoas hitch / Boari
 ```
 
 ### Follow-up and prevention
 - Ultrasound after stent removal; stricture can appear up to 30 months later.
-- Identify the ureter at hysterectomy; prophylactic stents only in selected high-risk cases.
+- Identify the ureter at hysterectomy; prophylactic stents only in high-risk cases.
 
 **Diagram to draw:** double dye test; psoas hitch.
 
@@ -427,49 +413,46 @@ Wet with normal voiding -> double dye test, CTU, cystoscopy (exclude VVF)
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **PBS (prune belly syndrome)**, also called Eagle–Barrett or triad syndrome:
+- **PBS (prune belly syndrome)**, Eagle–Barrett or triad syndrome:
   1. Deficient abdominal wall muscles (wrinkled "prune" abdomen).
   2. Dilated, poorly contracting urinary tract.
   3. Bilateral intra-abdominal testes.
-- Incidence about **1 in 29,000–44,000** live births; **95% male**.
-- **Prognosis depends on the kidneys (dysplasia), not the abdominal wall.**
+- About **1 in 29,000–44,000** live births; **95% male**. **Renal dysplasia, not the abdominal wall, decides prognosis.**
 
-### Pathogenesis (none proven)
-- **Urethral obstruction theory**: transient fetal outlet obstruction distends the bladder and abdomen. Most patients, however, have no obstruction after birth.
-- **Mesodermal theory**: a lateral plate mesoderm defect affects the abdominal wall, urinary tract and gubernaculum.
-- Mostly sporadic; smooth-muscle gene variants (MYOCD, FLNA) in familial cases.
+### Pathogenesis (unproven)
+- **Obstruction theory**: transient fetal outlet obstruction, though most have none after birth.
+- **Mesodermal theory**: lateral plate mesoderm defect affecting abdominal wall, urinary tract and gubernaculum. Mostly sporadic.
 
 ### Genitourinary features
-- Kidneys: dysplasia in about 50%; decides outcome.
-- Ureters: dilated and tortuous, **worse distally**; collagen replaces muscle, so peristalsis fails. **VUR (vesicoureteral reflux) in about 75%.**
-- Bladder: large, smooth, thick-walled, urachal diverticulum; poor emptying.
-- Prostatic hypoplasia with a dilated prostatic urethra; megalourethra; infertility.
+- Kidneys: dysplasia in about 50%.
+- Ureters: dilated, tortuous, **worse distally**; collagen replaces muscle, so peristalsis fails. **VUR (vesicoureteral reflux) in about 75%.**
+- Bladder: large, smooth, urachal diverticulum. Dilated prostatic urethra; infertility.
 
-### Extra-genitourinary features (about 75%)
-- Pulmonary hypoplasia; cardiac defects about 10%; gastrointestinal (malrotation) at least 30%; orthopaedic up to 65% (talipes, hip dysplasia, scoliosis).
+### Extra-genitourinary (about 75%)
+- Pulmonary hypoplasia; cardiac about 10%; gastrointestinal (malrotation) 30%; orthopaedic up to 65%.
 
 ### Woodard classification
 | Category | Features | Outlook |
 |---|---|---|
-| I | Oligohydramnios, **pulmonary hypoplasia**, renal dysplasia, often urethral atresia | Stillbirth or neonatal death; supportive care only |
-| II | Full triad, moderate uropathy, **no pulmonary hypoplasia** | Risk of urosepsis and CKD (chronic kidney disease); management debated |
-| III | Mild or incomplete features, **stable renal function** | Good; the majority |
+| I | Oligohydramnios, **pulmonary hypoplasia**, renal dysplasia | Perinatal death; supportive care |
+| II | Full triad, moderate uropathy, **no pulmonary hypoplasia** | Risk of sepsis and CKD (chronic kidney disease); management debated |
+| III | Mild or incomplete, **stable renal function** | Good; the majority |
 
 ### Management
-- **Neonatal**: cardiorespiratory care first, chest X-ray, creatinine trend, ultrasound. Prophylaxis and circumcision. VCUG (voiding cystourethrogram) only for renal insufficiency or outlet obstruction, under antibiotic cover.
-- **Category III**: conservative, with surveillance for infection and dilatation.
-- **Drainage** for sepsis, rising creatinine or obstruction: **cutaneous vesicostomy** (Blocksom), made wide. Avoid proximal ureterostomy, which wastes the better proximal ureter.
-- **Reconstruction** (after 3–6 months): ureteric tailoring and reimplantation using the healthier proximal ureter; reduction cystoplasty; CIC (clean intermittent catheterisation) if emptying is poor.
+- **Neonatal**: cardiorespiratory care first; creatinine trend, ultrasound, prophylaxis, circumcision. VCUG (voiding cystourethrogram) only for renal insufficiency or outlet obstruction.
+- **Category III**: conservative.
+- **Drainage** for sepsis, rising creatinine or obstruction: **cutaneous vesicostomy**, made wide. Avoid proximal ureterostomy.
+- **Reconstruction** after 3–6 months: ureteric tailoring and reimplantation using the healthier proximal ureter.
 - **Orchidopexy**: bilateral **transabdominal at about 6 months**; staged Fowler–Stephens if vessels are short.
-- **Abdominoplasty**: Randolph, Ehrlich or **Monfort**, often with orchidopexy and urinary surgery.
+- **Abdominoplasty**: Randolph, Ehrlich or **Monfort**, often with orchidopexy.
 
 ### Prognosis
-- About 20% die perinatally. **Up to 30% develop chronic renal failure** in childhood or adolescence. Nadir creatinine **under 0.7 mg/dL** predicts stable function. Transplant results equal other causes.
-- Females (5%) have no gonadal anomaly; "pseudo-prune belly" is an incomplete form presenting late.
+- About 20% die perinatally; **up to 30% develop chronic renal failure**. Nadir creatinine **under 0.7 mg/dL** predicts stable function. Transplant results are good.
+- "Pseudo-prune belly" is an incomplete form that presents late.
 
 **Diagram to draw:** VCUG with large bladder, urachal diverticulum and dilated prostatic urethra.
 
 > **Key points to remember:**
 > - Triad: deficient abdominal wall, dilated urinary tract, intra-abdominal testes; 95% male.
-> - Renal dysplasia, not the abdominal wall, decides prognosis; Woodard I–III.
+> - Renal dysplasia decides prognosis; Woodard I–III.
 > - Vesicostomy if drainage needed; orchidopexy at about 6 months; nadir creatinine under 0.7 mg/dL is good.

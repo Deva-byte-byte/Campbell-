@@ -27,7 +27,7 @@
 - Non-steroidal anti-inflammatory drugs (NSAIDs) disable the myogenic arm; angiotensin blockade disables the efferent arm.
 
 ### B. Glomerular filtration
-- GFR is ~**125 mL/min (~180 L/day)**; filtration fraction (GFR/RPF) about **20%**.
+- GFR is ~**125 mL/min (~180 L/day)**; filtration fraction (FF = GFR/RPF) about **20%**.
 - **Starling forces:** net filtration pressure ≈ glomerular hydrostatic 60 – Bowman's space 18 – plasma oncotic 32 = **~10 mmHg**.
 - **Arteriolar rule:** afferent constriction lowers both RBF and GFR; efferent constriction lowers RBF but **raises** GFR.
 - **Obstruction** raises Bowman's space pressure, so filtration falls.
@@ -45,7 +45,7 @@
 ### D. Concentration and dilution
 - **Countercurrent multiplication:** the ascending limbs absorb NaCl without water, raising medullary osmolality from 300 to ~**1200 mOsm/kg**; urea recycling supplies about half of inner-medullary osmolality.
 - The **vasa recta** act as countercurrent exchangers and do not wash out the gradient.
-- **Antidiuretic hormone (ADH):** released when plasma osmolality rises or blood volume falls. Via the **V2 receptor** (cAMP) it inserts **AQP2** into the apical membrane of principal cells.
+- **Antidiuretic hormone (ADH):** released when plasma osmolality rises or blood volume falls. Via the **V2 receptor** and cAMP (cyclic adenosine monophosphate) it inserts **AQP2** into the apical membrane of principal cells.
 - Concentrated urine needs both a hypertonic medulla and ADH-driven AQP2.
 - **Hormonal control:** angiotensin II and aldosterone retain Na⁺; atrial natriuretic peptide causes natriuresis.
 
@@ -64,7 +64,7 @@
 ```
 Phase 1 (0–1.5 h):  RBF rises,  ureteral pressure rises  (afferent dilatation)
 Phase 2 (1.5–5 h):  RBF falls,  pressure still rises     (efferent constriction)
-Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction by Ang II)
+Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction, angiotensin II)
 ```
 - GFR falls as RBF drops and back-pressure opposes filtration. Ischaemic injury begins **within 2 hours** of complete obstruction.
 - **Tubular effects:** aquaporins (AQP1–4) and sodium transporters are down-regulated, causing a concentrating defect, salt wasting and **distal RTA**. Early obstruction wastes Na⁺, K⁺ and bicarbonate; prolonged obstruction retains K⁺ and H⁺.
@@ -102,7 +102,7 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 | Iliococcygeus | Arcus tendineus levator ani to coccyx | Horizontal **levator plate** |
 - Tonic levator contraction keeps the **urogenital hiatus** closed; all POP passes through it.
 - **Muscle fails first, fascia second.** While the levator holds, ligaments carry little load. After birth injury or denervation they carry it all and eventually fail.
-- On MRI, up to **20% of primiparous women** have levator defects. Avulsion (in about a quarter of symptomatic women) predicts advanced, multicompartment prolapse.
+- On magnetic resonance imaging (MRI), up to **20% of primiparous women** have levator defects. Avulsion (in about a quarter of symptomatic women) predicts advanced, multicompartment prolapse.
 
 ### C. Endopelvic fascia and ligaments
 - **Cardinal and uterosacral ligaments** suspend the apex; the uterosacral is the main apical anchor.
@@ -128,7 +128,7 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 | **Hammock (DeLancey 1994)** | Urethra compressed against a firm backing: anterior vaginal wall attached to ATFP and levator | Restore backing |
 | **Integral theory (Petros & Ulmsten 1990)** | Pubourethral ligament, suburethral hammock and pubococcygeus at the mid-urethra | Tension-free mid-urethral sling |
 | **Intrinsic sphincter deficiency (ISD) (McGuire 1978)** | Failure of urethral function itself | Sling, bulking |
-- ISD: Valsalva leak point pressure <60 cmH₂O or maximal urethral closure pressure <20 cmH₂O. Most SUI has some ISD, so slings work in hypermobility, whereas Burch fails in severe ISD.
+- ISD: Valsalva leak point pressure <60 cmH₂O or maximal urethral closure pressure <20 cmH₂O. Most SUI has some ISD, so slings work in hypermobility, whereas Burch does poorly in severe ISD.
 
 ### F. Innervation
 - **Pudendal nerve (S2–4):** sphincters; crosses the sacrospinous ligament near the ischial spine.
@@ -140,7 +140,7 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 - **Promoting:** obesity, constipation, chronic cough.
 - **Decompensating:** ageing; menopause is cited but not consistently associated.
 
-### H. POP-Q staging (Bump 1996)
+### H. POP-Q (Pelvic Organ Prolapse Quantification) staging (Bump 1996)
 - **Hymen = 0**; points above negative, below positive (cm); tvl = total vaginal length.
 
 | Stage | Definition |
@@ -155,7 +155,7 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 ### I. How anatomy guides surgery
 | Defect | Operation | Principle |
 |---|---|---|
-| SUI | **Mid-urethral sling (MUS)**: retropubic (Ulmsten 1995, TVT) or transobturator (Delorme 2001) | Mid-urethral support |
+| SUI | **Mid-urethral sling (MUS)**: retropubic (Ulmsten 1995; tension-free vaginal tape, TVT) or transobturator (Delorme 2001) | Mid-urethral support |
 | SUI | **Burch colposuspension** | Paravaginal fascia to **Cooper's ligament** |
 | SUI – ISD | Autologous sling at bladder neck, bulking | Compression |
 | Paravaginal cystocele | Paravaginal repair | Reattach to ATFP |
@@ -252,7 +252,7 @@ Phase 3 (>5 h):     RBF falls,  pressure falls           (afferent constriction 
 | 2000 | Guillonneau & Vallancien | Standardised laparoscopic prostatectomy |
 | **2000** | **da Vinci** | FDA (US Food and Drug Administration) clearance |
 | **2000** | **Binder** | **First robot-assisted radical prostatectomy (RARP)** |
-| Early 2000s | **Menon** | Vattikuti Institute Prostatectomy standardised RARP |
+| Early 2000s | **Menon** | Vattikuti Institute Prostatectomy (VIP) standardised RARP |
 | 2007 | Raman; Rane | Single-port nephrectomy |
 | 2018 | da Vinci SP | Single-port robot |
 
@@ -319,11 +319,13 @@ Angiotensin (1-7) → Mas receptor (vasodilator, anti-fibrotic)
 ### Urological relevance
 - **Renovascular hypertension (Goldblatt kidney):** atherosclerosis or fibromuscular dysplasia. A **renal vein renin ratio >1.5** lateralises and predicts response to revascularisation or nephrectomy.
 - **Page kidney:** subcapsular haematoma compresses the parenchyma, causing renin-mediated hypertension; ACE inhibitor/ARB, drainage if refractory.
-- **Reninoma (JG cell tumour):** young women, small (≤3 cm) mass, refractory hypertension, hyperaldosteronism and **hypokalaemia**. Excision (partial nephrectomy) cures most, not all.
-- **Obstruction:** angiotensin II drives hypertension, late vasoconstriction and fibrosis.
+- **Reninoma (JG cell tumour):** young women, small (≤3 cm) mass, refractory hypertension and **hypokalaemia**; excision (partial nephrectomy) cures most.
 - **Drugs:** ACE inhibitors, ARBs and aliskiren are contraindicated in pregnancy.
 
 **Diagram to draw:** JG apparatus and the cascade flowchart.
+
+### Recent advances
+- Renal denervation (FDA [US Food and Drug Administration] approval 2023) for resistant hypertension.
 
 > **Key points to remember:**
 > - Renin (JG cells) is rate-limiting; released by low pressure, low NaCl, β1.
@@ -350,7 +352,7 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 - The storm causes myocardial injury and neurogenic pulmonary oedema.
 - **Endocrine:** loss of posterior pituitary antidiuretic hormone causes **diabetes insipidus (DI)** with polyuria and hypernatraemia. Thyroid hormone and cortisol fall; hyperglycaemia is common.
 - **Hypothermia** from loss of hypothalamic control; necrotic brain releases thromboplastin, causing **disseminated intravascular coagulation (DIC)**.
-- A systemic inflammatory response injures donor organs and increases delayed graft function.
+- A systemic inflammatory response injures donor organs.
 
 ### Diagnosis
 - **Preconditions:** apnoeic ventilated coma with a known irreversible cause. **Exclude** sedatives, neuromuscular blockers, hypothermia (thresholds about 35–36 °C depending on protocol) and metabolic or endocrine disturbance.
@@ -363,10 +365,13 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 - **Two sets of tests at least 6 hours apart.**
 
 ### Donor management
-- **Rule of 100s:** systolic blood pressure >100 mmHg, urine >100 mL/h, PaO₂ >100 mmHg, haemoglobin >100 g/L.
-- **Vasopressin** is preferred because it also treats DI; hormone replacement (thyroid hormone, methylprednisolone) and insulin as needed.
+- **Rule of 100s:** systolic blood pressure >100 mmHg, urine >100 mL/h, PaO₂ (arterial oxygen tension) >100 mmHg, haemoglobin >100 g/L.
+- **Vasopressin** is preferred because it also treats DI; add thyroid hormone, methylprednisolone and insulin as needed.
 
 **Diagram to draw:** Herniation sequence leading to storm, DI, hypothermia and DIC.
+
+### Recent advances
+- Hypothermic machine perfusion of DBD kidneys reduces delayed graft function.
 
 > **Key points to remember:**
 > - Raised ICP → Cushing reflex → storm → hypotension, DI, hypothermia, DIC.
@@ -388,16 +393,14 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 - It divides a **basal compartment** (spermatogonia, plasma-like fluid) from an **adluminal compartment** (later spermatocytes, spermatids).
 
 **2. Functional (immunological) barrier**
-- A small continuous leak of sperm antigen at weak points (**rete testis, efferent ductules, epididymis**) induces suppressor T cells and tolerance, like desensitisation. A large antigen load provokes a true immune response.
+- A small continuous leak of sperm antigen at weak points (**rete testis, efferent ductules, epididymis**) induces suppressor T cells and tolerance; a large antigen load provokes a true immune response.
 - **Sertoli cell mediators:** galectin-1, transforming growth factor-β (TGF-β), interferon-γ, soluble Fc receptor; local **androgens** are immunosuppressive.
 
-**Clinical corollaries**
-- Testicular insult before puberty does not induce antisperm antibodies.
-- The barrier may limit chemotherapy access, explaining isolated testicular relapse.
+- Testicular insult before puberty does not induce antisperm antibodies; the barrier also limits chemotherapy access (isolated testicular relapse).
 
 ### Antisperm antibodies (ASA)
 **Causes**
-- **Obstruction** (vasectomy commonest), torsion, trauma, biopsy, infection (orchitis, prostatitis), heat (varicocele, cryptorchidism), genetic (HLA-B28).
+- **Obstruction** (vasectomy commonest), torsion, trauma, biopsy, infection (orchitis, prostatitis), heat (varicocele, cryptorchidism), genetic (human leukocyte antigen HLA-B28).
 
 **Effects**
 - Agglutination, poor motility, failure to penetrate cervical mucus and to bind the zona. Significance depends on binding to **sperm heads**.
@@ -412,9 +415,12 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 
 ### Inflammation and infection
 - **Leukocytospermia:** **>1 × 10⁶ peroxidase-positive leukocytes/mL**. Reactive oxygen species and cytokines damage sperm; treat infection if found.
-- **Orchitis:** post-pubertal mumps (atrophy); bacterial (*Chlamydia*/gonococcus in young, *E. coli* older); tuberculous; autoimmune.
+- **Orchitis:** post-pubertal mumps (atrophy), bacterial, tuberculous or autoimmune.
 
 **Diagram to draw:** Seminiferous tubule with Sertoli tight junctions dividing basal and adluminal compartments.
+
+### Recent advances
+- Sperm DNA fragmentation testing in men with ASA or leukocytospermia.
 
 > **Key points to remember:**
 > - BTB = Sertoli–Sertoli tight junctions; basal vs adluminal; formed at puberty.
@@ -435,11 +441,11 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 ### Principles
 - Treat the patient, not the culture; culture all except simple cystitis in women.
 - **Site decides the level that matters:** urine level in cystitis; tissue and serum levels in pyelonephritis, prostatitis and bacteraemia.
-- Nitrofurantoin and fosfomycin reach **high urine but no tissue levels**: **cystitis only**.
+- Nitrofurantoin and fosfomycin: **high urine, no tissue levels**, so **cystitis only**.
 - **Pharmacodynamics:** β-lactams are **time-dependent**; aminoglycosides and fluoroquinolones (FQs) are **concentration-dependent**, so once-daily gentamicin maximises peak:MIC (minimum inhibitory concentration).
-- **Resistance thresholds:** trimethoprim–sulfamethoxazole (TMP-SMX) only if local resistance **≤20%**; oral FQ for pyelonephritis only if resistance **≤10%**.
-- **Collateral damage:** FQs and cephalosporins select resistance in bowel flora and cause *C. difficile*; avoid them in simple cystitis.
-- Shortest effective course, de-escalate to culture, and **drain** an obstructed infected kidney.
+- **Resistance thresholds:** trimethoprim–sulfamethoxazole (TMP-SMX) if local resistance **≤20%**; oral FQ for pyelonephritis if **≤10%**.
+- **Collateral damage:** FQs and cephalosporins select resistance and *C. difficile*; avoid in simple cystitis.
+- Shortest effective course; **drain** an obstructed infected kidney.
 
 ### Empirical choices
 | Scenario | First-line | Duration |
@@ -460,6 +466,9 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 - Surgical: single dose within 1 hour of incision; ≤24 hours for PCNL (percutaneous nephrolithotomy) and prostheses.
 
 **Diagram to draw:** Concentration–time curve showing peak:MIC and time above MIC.
+
+### Recent advances
+- New oral agents for uncomplicated UTI: pivmecillinam (US approval 2024) and gepotidacin (2025).
 
 > **Key points to remember:**
 > - Recurrent = ≥2 in 6 months or ≥3 in 12 months.
