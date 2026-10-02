@@ -73,7 +73,8 @@
 
 ### H. Pathophysiology of obstruction (unilateral: triphasic)
 ```
-Phase 1 (0–1.5 h): RBF up,   pressure up    (afferent dilatation: PGE2, nitric oxide)
+Phase 1 (0–1.5 h): RBF up,   pressure up    (afferent dilatation:
+                                             prostaglandins, nitric oxide)
 Phase 2 (1.5–5 h): RBF down, pressure up    (efferent constriction)
 Phase 3 (>5 h):    RBF down, pressure down  (afferent constriction: angiotensin II,
                                              thromboxane A2, endothelin)
@@ -324,7 +325,7 @@ Angiotensin (1-7) → Mas receptor (protective)
 - **Intrarenal:** efferent constriction maintains GFR when perfusion falls, so ACE inhibitors and ARBs (angiotensin receptor blockers) drop GFR in bilateral or solitary-kidney renal artery stenosis.
 
 ### Urological relevance
-- **Renovascular hypertension (Goldblatt kidney):** atherosclerosis (older men, ostial) or fibromuscular dysplasia (young women). Diagnose by duplex ultrasound, CT or MR angiography, captopril renography. **Renal vein renin ratio >1.5** with contralateral suppression predicts cure by revascularisation or nephrectomy.
+- **Renovascular hypertension (Goldblatt kidney):** atherosclerosis (older men, ostial) or fibromuscular dysplasia (young women). Diagnose by duplex ultrasound, computed tomography or magnetic resonance angiography, captopril renography. **Renal vein renin ratio >1.5** with contralateral suppression predicts cure by revascularisation or nephrectomy.
 - **Page kidney:** subcapsular haematoma compresses parenchyma; ACE inhibitor/ARB, then drainage.
 - **Reninoma (juxtaglomerular cell tumour):** young women, ≤3 cm mass, refractory hypertension, **hypokalaemia**; excision cures most.
 - **Obstruction:** hypertension (~77% bilateral, ~20% unilateral); angiotensin II drives fibrosis.
@@ -418,7 +419,7 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 
 | Test | Method |
 |---|---|
-| Mixed antiglobulin reaction (MAR) | Fresh semen + IgG/IgA-coated beads + antiglobulin; beads stick to antibody-coated motile sperm |
+| Mixed antiglobulin reaction (MAR) | Fresh semen + immunoglobulin (Ig) G/A-coated beads + antiglobulin; beads stick to antibody-coated motile sperm |
 | Immunobead test | Washed sperm + beads coated with anti-human IgG/IgA; gives % and site (head/tail) of binding |
 - **≥50% of motile sperm bound** is significant (WHO [World Health Organization] 2010).
 
@@ -447,19 +448,19 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 
 ### Definitions
 - **Uncomplicated** urinary tract infection (UTI): healthy non-pregnant women, normal tract. **Complicated:** men, pregnancy, abnormal tract, catheter, immunosuppression.
-- **Recurrent:** ≥2 in 6 months or ≥3 in 12 months (reinfection or persistence).
+- **Recurrent:** ≥2 in 6 months or ≥3 in 12 months.
 
 ### Principles
-- **Site decides the level:** urine in cystitis; tissue in pyelonephritis, prostatitis, bacteraemia. Nitrofurantoin and fosfomycin lack tissue levels: **cystitis only**.
+- **Site decides the level:** urine in cystitis, tissue elsewhere; nitrofurantoin and fosfomycin lack tissue levels: **cystitis only**.
 
 | Killing pattern | Drugs | Dosing goal |
 |---|---|---|
 | Time-dependent (time above MIC [minimum inhibitory concentration]) | β-lactams, carbapenems | Frequent doses or extended infusion |
-| Concentration-dependent (peak:MIC) | Aminoglycosides, fluoroquinolones (FQs) | High once-daily dose; post-antibiotic effect, less nephrotoxicity |
+| Concentration-dependent (peak:MIC) | Aminoglycosides, fluoroquinolones (FQs) | High once-daily dose |
 
 - **Resistance thresholds:** trimethoprim–sulfamethoxazole (TMP-SMX) if local resistance ≤20%; oral FQ for pyelonephritis if ≤10%.
 - **Collateral damage:** FQs and cephalosporins select resistance and *C. difficile*; avoid them in cystitis.
-- Culture all except simple cystitis; **drain** obstructed infected kidneys; shortest effective course.
+- Culture all but simple cystitis; **drain** obstructed infected kidneys; shortest course.
 
 ### Empirical choices
 | Scenario | Drug | Duration |
@@ -467,18 +468,18 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 | Cystitis (women) | Nitrofurantoin 100 mg twice daily; fosfomycin 3 g; pivmecillinam 400 mg; TMP-SMX 160/800 mg twice daily | 5 d; single dose; 3–5 d; 3 d |
 | Cystitis (men) | TMP-SMX or per culture | 7 d (= 14 d, Drekonja 2021) |
 | Pyelonephritis (oral) | Ciprofloxacin 500 mg twice daily; levofloxacin 750 mg daily | 7 d; 5 d |
-| Pyelonephritis (IV) | Ceftriaxone 1 g daily; gentamicin 5–7 mg/kg once daily ± ampicillin | Switch to oral when afebrile; 10–14 d total |
+| Pyelonephritis (intravenous) | Ceftriaxone 1 g daily; gentamicin 5–7 mg/kg once daily | 10–14 d; oral when afebrile |
 | Complicated / catheter UTI | Aminoglycoside or 3rd-generation cephalosporin per culture; change catheter | 7–14 d |
 | Urosepsis | Broad-spectrum **within 1 h**, source control | – |
 
 ### Asymptomatic bacteriuria
-- Treat **only in pregnancy and before mucosa-breaching urological procedures**. Do not treat healthy women, elderly, diabetics, catheterised or spinal cord injury patients.
-- **Pregnancy:** avoid FQs and TMP-SMX; use cephalosporins or nitrofurantoin.
+- Treat **only in pregnancy and before mucosa-breaching urological procedures**. Not in elderly, diabetic, catheterised or spinal cord injury patients.
+- **Pregnancy:** avoid FQs and TMP-SMX; cephalexin is suitable.
 
 ### Prophylaxis
 - Recurrent: vaginal oestrogen, **methenamine hippurate** (non-inferior to antibiotics, ALTAR 2022), cranberry, post-coital antibiotics.
 - Surgical: single dose within 1 hour; ≤24 h for percutaneous nephrolithotomy and prostheses.
-- **Also know:** ESBL (extended-spectrum β-lactamase) producers; nitrofurantoin avoided if creatinine clearance <30 mL/min; new agents pivmecillinam (US 2024) and gepotidacin (2025).
+- **Also know:** ESBL (extended-spectrum β-lactamase) producers; nitrofurantoin avoided if creatinine clearance <30 mL/min; gepotidacin (US 2025).
 
 **Diagram to draw:** Concentration–time curve showing peak:MIC and time above MIC.
 

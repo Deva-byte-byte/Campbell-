@@ -58,7 +58,16 @@
 - **RAZOR (Lancet 2018)**: **non-inferior** 2-year PFS (progression-free survival) (72.3% vs 71.6%), with less blood loss and fewer transfusions.
 - **iROC**: **intracorporeal** diversion gave **more days alive and out of hospital at 90 days**. Continent diversion fell (11% in iROC).
 
-**4. Others**: pyeloplasty and reimplantation (also in infants, whose working space is about 1 L vs 6 L in adults), BMG (buccal mucosa graft) ureteroplasty, RPLND, adrenalectomy, simple prostatectomy, sacrocolpopexy, **RAKT (robot-assisted kidney transplantation)**.
+**4. Other procedures**
+| Procedure | Role of the robot |
+|---|---|
+| Pyeloplasty, ureteric reimplantation | Easy intracorporeal suturing; also in infants (working space about 1 L vs 6 L in adults) |
+| BMG (buccal mucosa graft) ureteroplasty | Long proximal or mid-ureteric strictures |
+| RPLND | Template, nerve-sparing; short stay |
+| Adrenalectomy | Equivalent to laparoscopy; suits the retroperitoneal approach |
+| Simple prostatectomy | Large glands; less bleeding than open |
+| Sacrocolpopexy, fistula repair | Deep pelvic suturing |
+| **RAKT (robot-assisted kidney transplantation)** | Fewer wound complications in obese recipients |
 
 ### Physiology
 - Steep Trendelenburg increases venous return and cardiac output, but CO₂ pneumoperitoneum causes hypercarbia and acidosis; work at 10–12 mm Hg. The only strict contraindication to minimally invasive surgery is inability to tolerate pneumoperitoneum.
@@ -75,6 +84,8 @@
 | Bowel burns | Insulation failure, capacitive coupling; present late |
 | Robot malfunction | About 0.4%; rarely forces conversion |
 | Port-site hernia | Transverse incisions cut it from 5.4% to 0.4% after RARP |
+
+- **Prevention**: secure inaccessible arms and lines before tilting, pad pressure points, limit tilt and lithotomy time, protect the eyes.
 
 ### Recent advances
 - Single-port transvesical surgery; **AI (artificial intelligence)** skill assessment; **telesurgery** (latency limits it).
@@ -125,15 +136,17 @@
 ### Part B: Newer immunosuppressants
 
 #### Current practice
+- **Three-signal model**: signal 1 is antigen (TCR (T-cell receptor) meeting MHC (major histocompatibility complex)); signal 2 is costimulation (CD28–CD80/86); signal 3 is IL-2 receptor signalling through mTOR, driving proliferation.
 - Over 90% receive induction and **tacrolimus + mycophenolate** (mycophenolate: GI (gastrointestinal) upset, teratogenic). Acute rejection is below 10%; chronic **AMR (antibody-mediated rejection)** is now the main problem. Newer drugs aim to avoid CNI nephrotoxicity, improve adherence and treat AMR.
 
 | Drug | Mechanism | Key points |
 |---|---|---|
 | **Basiliximab** | Anti-CD25 (IL-2 (interleukin-2) receptor), non-depleting | **20 mg IV (intravenous) days 0 and 4**; low risk |
 | **rATG (rabbit antithymocyte globulin)** | T-cell depletion | High risk, DGF; CMV (cytomegalovirus), PTLD (post-transplant lymphoproliferative disorder) |
-| **Extended-release tacrolimus** | CNI | Once daily, better adherence; nephrotoxicity, NODAT (new-onset diabetes after transplant), tremor |
-| **mTOR (mammalian target of rapamycin) inhibitors** | Cell-cycle arrest | Not nephrotoxic; fewer CMV/BK infections; **TRANSFORM (2018)**: everolimus with low CNI non-inferior; poor wound healing, **lymphocele** |
-| **Belatacept** | **CTLA4-Ig**: blocks **CD28 costimulation (signal 2)** | FDA (Food and Drug Administration) 2011; **5 mg/kg 4-weekly**. **BENEFIT**: better GFR (glomerular filtration rate), more early rejection; **contraindicated if EBV (Epstein–Barr virus)-seronegative** |
+| **Extended-release tacrolimus** | CNI: binds FKBP12, inhibits calcineurin, so less IL-2 transcription | Once daily, better adherence; nephrotoxicity, NODAT (new-onset diabetes after transplant), tremor |
+| Mycophenolate | Inhibits IMPDH (inosine monophosphate dehydrogenase), blocking lymphocyte purine synthesis | Standard partner of tacrolimus |
+| **mTOR (mammalian target of rapamycin) inhibitors**: sirolimus, everolimus | Bind FKBP12, block mTOR (signal 3), arresting G1 to S | Not nephrotoxic; fewer CMV/BK infections; **TRANSFORM (2018)**: everolimus with low CNI non-inferior; poor wound healing, **lymphocele** |
+| **Belatacept** | **CTLA4-Ig**: binds CD80/86, blocking **CD28 costimulation (signal 2)** | FDA (Food and Drug Administration) 2011; IV 10 mg/kg induction, then **5 mg/kg 4-weekly**. **BENEFIT**: better GFR (glomerular filtration rate), more early rejection; **contraindicated if EBV (Epstein–Barr virus)-seronegative** |
 | **Imlifidase** | **Cleaves IgG** | **EMA (European Medicines Agency) 2020** for crossmatch-positive, highly sensitised patients |
 | Eculizumab | Anti-C5 | Selected AMR; aHUS (atypical haemolytic uraemic syndrome) recurrence |
 | **Anti-IL-6 therapy** | Blocks IL-6 | Chronic active AMR |
@@ -148,7 +161,7 @@
 ### Recent advances
 - Normothermic repair; **pig-kidney xenotransplant** into a living human (March 2024).
 
-**Diagram to draw:** three-signal T-cell activation, marking belatacept (signal 2) and basiliximab/mTOR (signal 3).
+**Diagram to draw:** three-signal T-cell activation: CNI after signal 1, belatacept at signal 2, basiliximab and mTOR inhibitors at signal 3, mycophenolate at DNA synthesis.
 
 > **Key points to remember:**
 > - ECD: ≥60, or 50–59 with ≥2 of hypertension, creatinine >1.5, CVA death; KDPI >85% since 2014.
@@ -180,7 +193,7 @@
 
 | Fistula | Repair |
 |---|---|
-| Small, shaft | Excise tract, layered closure, **dartos barrier** |
+| Small, shaft | Excise the epithelialised tract, inverting subepithelial closure with fine absorbable suture, multiple offset layers, **dartos barrier** |
 | Large or thin tissue | Trap-door or island skin flap plus second layer |
 | Coronal (glans dehiscence) | Redo urethroplasty and glans |
 | With diverticulum | Excise or reuse redundant wall as flap |
@@ -212,8 +225,13 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 - Sparing vascular α1B gives **minimal hypotension**. Blocking α1A in the vas and seminal vesicles causes **failure of emission**.
 - Flow improves in 2–6 hours, symptoms in 3–4 days. CYP3A4 metabolism.
 
-### Dose
-- **8 mg once daily with a meal**; **4 mg** if CrCl (creatinine clearance) 30–50 mL/min. Avoid if CrCl <30, severe liver disease, or with strong CYP3A4 inhibitors.
+### Dose and contraindications
+| Item | Detail |
+|---|---|
+| Dose | **8 mg once daily with a meal** |
+| CrCl (creatinine clearance) 30–50 mL/min | **4 mg daily** |
+| Contraindicated | CrCl <30; severe liver impairment; strong CYP3A4 inhibitors (e.g. ketoconazole) |
+| Caution | Other α-blockers, PDE5 (phosphodiesterase 5) inhibitors, planned cataract surgery |
 
 ### Efficacy
 - **Chapple 2011**: **non-inferior to tamsulosin 0.4 mg**, not better. Works in severe LUTS.
@@ -229,13 +247,13 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 - **MET (medical expulsive therapy)**, distal stones 5–10 mm: faster expulsion than tamsulosin (meta-analyses); **SUSPEND (2015)** found no overall tamsulosin benefit.
 - **Also know:** before ureteroscopy (easier access); CP/CPPS (chronic prostatitis/chronic pelvic pain syndrome) of recent onset; with propiverine for storage symptoms.
 
-| Drug | Hypotension | Ejaculatory dysfunction |
-|---|---|---|
-| **Silodosin** | Lowest | **Highest** |
-| Tamsulosin | Low | Moderate |
-| Alfuzosin | Low | Lowest |
-| Naftopidil (α1D) | Some | Less |
-| Doxazosin, terazosin | Highest | Low |
+| Drug | Selectivity | Dose | Hypotension | Ejaculatory dysfunction |
+|---|---|---|---|---|
+| **Silodosin** | α1A (highest) | 8 mg OD | Lowest | **Highest** |
+| Tamsulosin | α1A, α1D > α1B | 0.4 mg OD | Low | Moderate |
+| Alfuzosin | Clinically uroselective | 10 mg OD | Low | Lowest |
+| Naftopidil | α1D | 25–75 mg | Some | Less |
+| Doxazosin, terazosin | Non-selective; titrate | 1–8 mg, 1–10 mg | Highest | Low |
 
 **Diagram to draw:** α1A prostate and vas, α1B vessels, α1D bladder.
 
@@ -304,29 +322,38 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 **Type:** SAQ (10 marks)
 
 ### Principles
-- **Orthotopic low-pressure ileal reservoir** with an afferent limb (**Studer, 1989**).
+- **Orthotopic low-pressure ileal reservoir** (**Studer, 1989**).
 - **Detubularisation** stops coordinated contractions; a **sphere** (Laplace) gives most volume for surface area.
-- **Isoperistaltic afferent limb** limits reflux and accepts short ureters. Voiding by straining with pelvic floor relaxation; continence depends on the **rhabdosphincter**.
+- **Isoperistaltic afferent limb** limits reflux and accepts short ureters. Continence depends on the **rhabdosphincter**.
 
 ### Technique
-- **54–56 cm ileum**, sparing **15–25 cm** above the ICV (ileocaecal valve); **40–44 cm** opened into a U then sphere; **10–15 cm** afferent limb.
-- Direct refluxing ureteroileal anastomoses; dependent point to urethra. Capacity rises from <200 to **500–600 mL** in a year.
+1. Isolate **54–56 cm of ileum**, ending **15–25 cm** above the ICV (ileocaecal valve); restore bowel continuity.
+2. Open the distal **40–44 cm** on the antimesenteric border; sew the two limbs into a **U** (back wall).
+3. Leave the proximal **10–15 cm** tubular as the **afferent limb**; close its end.
+4. **End-to-side refluxing ureteroileal anastomoses** to the afferent limb, over stents.
+5. Fold the U across into a **sphere**; join its most dependent point to the urethra.
+- Capacity rises from <200 to **500–600 mL** in a year.
 
 ### Selection
 - **Absolute contraindications**: tumour at the urethral margin, urethral stricture, severe renal or liver failure, inability to self-catheterise.
-- eGFR (estimated glomerular filtration rate) **>35–40 mL/min**. Prostatic urethral tumour raises urethral recurrence risk. After radiotherapy, a neobladder is possible if there is no incontinence, stricture or fistula.
+- eGFR (estimated glomerular filtration rate) **>35–40 mL/min**. Prostatic urethral tumour raises urethral recurrence risk.
 
 ### Outcomes
 - **Day continence 80–90%**; **night incontinence 20–50%** (no reflex, nocturnal diuresis). Self-catheterisation **10–20% of men, ~30% of women**: men leak, women retain.
-- Reflux on cystogram, yet kidneys preserved in ~95%. **USC (University of Southern California) RCT**: Studer equalled the antireflux T pouch, with fewer reoperations.
+- Reflux on cystogram, yet kidneys preserved in ~95%; a USC (University of Southern California) randomised trial found the antireflux T pouch no better.
 
 ### Complications
-- **Early**: leak, ileus, infection, mucus retention.
-- **Late**: **hyperchloraemic acidosis**, **B12 and bile-salt loss**, ureteroileal stricture (<3%), stones, retention, hernia, pyelonephritis.
+- **Early**: leak, ileus, infection, mucus retention. **Late**: **hyperchloraemic acidosis**, **B12 and bile-salt loss**, ureteroileal stricture (<3%), stones, retention, hernia, pyelonephritis.
 
 ### Care and follow-up
-- Bicarbonate, mucus irrigation, timed voiding, **night alarm**. Annual B12, metabolic panel, upper-tract imaging; urethral wash cytology if CIS (carcinoma in situ).
-- **Also know:** nerve sparing aids continence; uterine preservation and sacrocolpopexy reduce female retention; Hautmann W pouch is the alternative; intracorporeal robotic Studer.
+- Bicarbonate, mucus irrigation, cystogram before catheter removal. **Voiding training**: sit, relax the pelvic floor, strain; timed voiding every 2 hours, extended to 3–4 hours; **night alarm**. Annual B12, metabolic panel, upper-tract imaging.
+- **Also know:** nerve and uterine sparing; intracorporeal robotic Studer.
+
+| | Studer | Hautmann |
+|---|---|---|
+| Ileum | 54–56 cm, U + afferent limb | ~70 cm folded in a W |
+| Initial capacity | Smaller | Larger: earlier continence |
+| Late | — | More retention, reabsorption |
 
 **Diagram to draw:** ileal segment marked, then spherical pouch with afferent limb.
 
@@ -341,23 +368,25 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 **Type:** SAQ (10 marks)
 
 ### Principle
-- **Transperineal, image-guided** freezing; suits **anterior** tumours (HIFU (high-intensity focused ultrasound) is transrectal).
+- **Transperineal, image-guided** freezing; suits **anterior** tumours. HIFU (high-intensity focused ultrasound) is the main alternative.
 - **Joule–Thomson effect**: **argon** freezes, **helium** thaws. Thermocouples guard sphincter and neurovascular bundles; a **urethral warmer** prevents sloughing.
-- Generations: liquid nitrogen; TRUS (transrectal ultrasound) plus warmer; argon/helium 17-gauge probes; focal with MRI (magnetic resonance imaging).
+- Generations: liquid nitrogen without imaging; TRUS (transrectal ultrasound) plus warmer; argon/helium 17-gauge probes; focal with MRI (magnetic resonance imaging) fusion.
 
 ### Cell death
 - **Intra- and extracellular ice**, recrystallisation, **vascular stasis and ischaemia**, apoptosis, immune effects.
-- **−40 °C**, fast freeze, slow thaw, **two cycles**. The ice-ball edge is sublethal, so ice must extend beyond tumour.
+- **−40 °C**, fast freeze, slow thaw, **two cycles**; the ice-ball edge is sublethal.
 
 ### Indications
 1. **Salvage after radiotherapy** (main role): biopsy-proven local recurrence, no metastases, **PSA (prostate-specific antigen) <10 (ideally <4)**, doubling time ≥16 months.
 2. **Primary whole-gland**: men unfit for surgery or radiotherapy.
 3. **Focal or hemi-gland**: MRI-visible grade group 2–3 lesion; rests on the index-lesion hypothesis.
 
+### Technique
+- TRUS-guided transperineal template: place cryoprobes, thermocouples and urethral warmer; freeze anterior to posterior until −40 °C is reached; helium thaw; repeat the cycle.
+
 ### Outcomes
 - Salvage: biochemical control **55–71% at 3–5 years** (Phoenix: nadir + 2).
 - **Donnelly, Cancer 2010** (RCT (randomised controlled trial)): **non-inferior** to external beam radiotherapy; worse sexual function.
-- Focal: COLD (Cryo On-Line Data) registry shows better erections than whole gland.
 
 ### Complications
 | | Primary / focal | Salvage |
@@ -367,7 +396,13 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 | **Rectourethral fistula** | ≤0.8% (focal) | 1–3.4% |
 | Retention | Commonest after focal | ~4% |
 
-- **Also know:** urethral sloughing, stricture; no drug enhancer yet improves kill.
+- **Also know:** urethral sloughing, stricture; focal ablation preserves erections better (COLD (Cryo On-Line Data) registry).
+
+| | Cryotherapy | HIFU | IRE (irreversible electroporation) |
+|---|---|---|---|
+| Energy | Freezing | Focused ultrasound heat (≥55 °C) | Electric pulses, non-thermal |
+| Route | Transperineal | Transrectal | Transperineal |
+| Best for | Anterior lesions | Posterior lesions | Lesions near nerves, vessels |
 
 ### Guidelines and advances
 - **EAU (European Association of Urology)**: primary or focal only in trials or registries. PSMA (prostate-specific membrane antigen) PET selects salvage patients.
