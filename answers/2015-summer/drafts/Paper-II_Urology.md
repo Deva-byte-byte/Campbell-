@@ -37,7 +37,7 @@
 
 - **MTOPS (Medical Therapy of Prostatic Symptoms)**: progression fell 39% (doxazosin), 34% (finasteride) and **66% (combination)**; only finasteride or combination reduced AUR and surgery.
 - **CombAT (Combination of Avodart and Tamsulosin)**: combination cut AUR or surgery by about 66% versus tamsulosin.
-- **Side effects**: α-blockers cause dizziness and **IFIS (intraoperative floppy iris syndrome)**, which persists after stopping, so avoid starting them before planned cataract surgery. 5-ARIs: low libido, ED, gynaecomastia.
+- **Side effects**: α-blockers cause dizziness, postural hypotension, ejaculatory dysfunction and **IFIS (intraoperative floppy iris syndrome)**, which persists after stopping, so avoid starting them before planned cataract surgery. 5-ARIs: low libido, ED, gynaecomastia.
 - **AUR**: catheterise, then TWOC (trial without catheter) on an α-blocker (ALFAUR (Alfuzosin in Acute Urinary Retention): success 62% vs 48%).
 - **Also know:** phytotherapy (saw palmetto) not recommended by guidelines; α-blocker withdrawable after 6 months of combination (SMART (Symptoms Management After Reducing Therapy) trial).
 
@@ -53,11 +53,13 @@
 | **Simple prostatectomy** (open or robotic) | >80 mL | Complete removal; diverticula or stones |
 | **Aquablation** | 30–80 mL (consider 80–150) | Heat-free; preserves ejaculation |
 | **PUL (prostatic urethral lift), Rezūm (water vapour)** | 30–80 mL (PUL: no median lobe) | Preserve sexual function; higher retreatment |
+| **iTind (temporary implant)** | 25–75 mL, no median lobe | Removed after a few days; modest efficacy |
+| **PAE (prostate artery embolisation)** | Larger glands (AUA 2023: may be offered) | Local anaesthesia; less effective than TURP; radiation, non-target embolisation |
 
 - **TUR syndrome** (monopolar TURP): hypo-osmolar glycine or water is absorbed through open sinuses, causing dilutional hyponatraemia, fluid overload and confusion. Risk rises with gland >45 mL and resection >90 minutes. Treat with diuretics and, if severe, 3% saline, correcting slowly. **Bipolar TURP** uses saline and eliminates it.
 - **Complications**: bleeding, stricture, bladder neck contracture, retreatment.
 - **GOLIATH**: 180 W PVP non-inferior to TURP. **WATER (Waterjet Ablation Therapy for Endoscopic Resection)**: Aquablation non-inferior, with less retrograde ejaculation (10% vs 36%).
-- **Also know:** TUVP (transurethral vaporization); iTind temporary implant (25–75 mL); TUMT (transurethral microwave therapy) dropped as legacy; PAE (prostate artery embolisation); Optilume paclitaxel-coated balloon (2023).
+- **Also know:** TUVP (transurethral vaporization); TUMT (transurethral microwave therapy) dropped as legacy; Optilume paclitaxel-coated balloon (2023).
 
 ### Follow-up
 - Reassess at 4–12 weeks (α-blocker), 3–6 months (5-ARI), then yearly.
@@ -89,7 +91,7 @@
 - **History**: diet, bowel disease, drugs (calcium, vitamins C and D, acetazolamide, topiramate, triamterene, indinavir).
 - **NCCT (non-contrast computed tomography)**: burden; uric acid usually <500 HU (Hounsfield units).
 - **Serum**: creatinine, electrolytes, calcium, uric acid, bicarbonate; PTH (parathyroid hormone) if calcium is high-normal.
-- **Urine**: pH, crystals (hexagonal = cystine), culture.
+- **Urine**: pH, crystals (hexagonal = cystine), culture; cyanide–nitroprusside screen for cystine, confirmed by quantitative 24-h cystine.
 - **Stone analysis** (infrared, X-ray diffraction).
 
 ### 24-h urine
@@ -99,7 +101,7 @@
 |---|---|---|
 | Volume | **>2.5 L** | Low volume: commonest |
 | Calcium | <250 mg women, <300 mg men, or <4 mg/kg | **Hypercalciuria**: absorptive (PTH suppressed), renal leak (PTH high, serum calcium normal), resorptive (primary hyperparathyroidism) |
-| Oxalate | **<40 mg** | Dietary; **enteric** (fat malabsorption, gastric bypass: fat binds calcium, freeing oxalate; often 60–70 mg); **primary** (hepatic, often >100 mg, childhood) |
+| Oxalate | **<40 mg** | Dietary; **enteric** (fat malabsorption, gastric bypass: fat binds calcium, freeing oxalate; often 60–70 mg); **primary** (hepatic, often >100 mg, childhood; type 1 (AGXT gene) ~70%, type 2 (GRHPR), type 3 (HOGA1)) |
 | Citrate | **>320 mg** | Distal RTA, diarrhoea, hypokalaemia, high animal protein |
 | Uric acid | <600 mg (labs: <750 women, <800 men) | Hyperuricosuria promotes calcium oxalate stones |
 | pH | 5.8–6.2 | <5.5 uric acid (metabolic syndrome); >6.5–7 calcium phosphate, RTA, infection |
@@ -107,7 +109,7 @@
 | Cystine | Negative screen | Cystinuria |
 
 - **Uric acid stones** depend mainly on pH: below the pKa (5.5) uric acid is undissociated and insoluble.
-- **Distal RTA**: pH >6, low citrate, calcium phosphate stones; incomplete forms fail an ammonium chloride load (pH stays >5.5).
+- **Distal RTA**: pH >6, low citrate, calcium phosphate stones. Incomplete forms: oral ammonium chloride load (0.1 g/kg) or furosemide–fludrocortisone test fails to lower urine pH below 5.5.
 - **Cystinuria**: autosomal recessive transport defect (cystine, ornithine, lysine, arginine); solubility about 300 mg/L at pH 5 and 400 mg/L at pH 7, so aim for <250 mg/L.
 - **Infection stones**: urease-splitting organisms, pH >7, struvite.
 - **Also know:** hypomagnesiuria; RSS (relative supersaturation) guides therapy; medullary sponge kidney and calyceal diverticulum (stasis plus metabolic defects); 2,8-dihydroxyadenine stones (APRT (adenine phosphoribosyltransferase) deficiency).
@@ -137,7 +139,7 @@ Stone episode → screening evaluation
 
 ### Special groups and follow-up
 - **Children**: all evaluated (spot ratios if not toilet-trained; consider Dent disease, monogenic causes). **Pregnancy**: defer 24-h urine (physiological hypercalciuria).
-- Follow-up as in the flowchart; re-analyse new stones. Adherence is poor; citrus juices are only adjuncts.
+- Follow-up as in the flowchart, with blood tests for drug effects (potassium on thiazide or citrate); re-analyse new stones. Adherence is poor; citrus juices are only adjuncts.
 
 **Diagram to draw:** Supersaturation zones; evaluation algorithm.
 
@@ -154,11 +156,18 @@ Stone episode → screening evaluation
 ### Definition and classification
 - Full or partial erection **≥4 hours** beyond, or unrelated to, sexual stimulation (AUA/SMSNA (American Urological Association/Sexual Medicine Society of North America)).
 - **Ischaemic** (95%; veno-occlusive, rigid, painful, **emergency**); **non-ischaemic** (arterial fistula after trauma, partly rigid, painless); **stuttering** (recurrent ischaemic episodes, typically SCD (sickle cell disease)).
-- **Causes**: ICI (intracavernosal injection), SCD (29–42% of males), α-blockers, trazodone, antipsychotics, cocaine, leukaemia, metastases.
+- **Causes**: ICI (intracavernosal injection), SCD (29–42% of males), α-blockers, trazodone, cocaine, leukaemia, metastases.
 
 ### Diagnosis
-- **Corporal blood gas**: ischaemic is dark, pO2 <30 mmHg, pCO2 >60 mmHg, pH <7.25; non-ischaemic resembles arterial blood.
-- Colour Doppler if equivocal; blood count, haemoglobin electrophoresis.
+- **Corporal blood gas**:
+
+| | pO2 (mmHg) | pCO2 (mmHg) | pH |
+|---|---|---|---|
+| Ischaemic | **<30** | **>60** | **<7.25** |
+| Mixed venous (flaccid) | 40 | 50 | 7.35 |
+| Non-ischaemic (arterial) | >90 | <40 | 7.40 |
+
+- Colour Doppler if equivocal (absent flow or fistula); blood count, haemoglobin electrophoresis.
 
 ### Ischaemic priapism
 ```
@@ -168,10 +177,18 @@ Penile block → aspiration ± irrigation
 → >36 h or refractory → immediate prosthesis
 ```
 - Aspiration alone succeeds in under a quarter. Monitor blood pressure and pulse.
-- **Distal shunts**: Winter, Ebbehoj, T-shunt, Al-Ghorab; corporal snake **tunnelling**. **Proximal**: Quackels, Grayhack; penoscrotal decompression.
+| Shunt | Method |
+|---|---|
+| **Winter** (distal) | Biopsy needle through glans |
+| **Ebbehoj / T-shunt** (distal) | Scalpel through glans; T-shunt turns blade 90° |
+| **Al-Ghorab** (distal, open) | Excise tunica tips via dorsal glans incision |
+| **Snake tunnelling** | Dilator passed proximally through distal shunt |
+| **Quackels** (proximal) | Cavernosum to spongiosum at the bulb |
+| **Grayhack** (proximal) | Cavernosum to saphenous vein |
+| Penoscrotal decompression | Proximal corporotomy, clot evacuation |
 - **Duration predicts ED (erectile dysfunction)**: 0% ≤12 h, 22% at 12–24 h, 56% at 24–36 h, 100% >36 h.
 - **Early prosthesis** gives less shortening than delayed insertion.
-- Oral agents and hydration are adjuncts only.
+- Oral agents and hydration are adjuncts only; in SCD, treat intracavernosally with concurrent haematology care.
 
 ### Non-ischaemic priapism
 - Observe (about 60% resolve); reassess at 4 weeks. Then **selective embolisation**; repeat it, rather than surgery, for recurrence.
@@ -182,7 +199,7 @@ Penile block → aspiration ± irrigation
 **Diagram to draw:** Distal and proximal shunt sites.
 
 > **Key points to remember:**
-> - Ischaemic: pO2 <30, pCO2 >60, pH <7.25; phenylephrine 1 mL q3–5 min up to 1 h.
+> - Ischaemic gas: pO2 <30, pCO2 >60, pH <7.25.
 > - Distal shunt ± tunnelling before proximal; prosthesis if >36 h.
 > - High-flow: observe (~60% resolve), then embolise.
 
@@ -201,17 +218,20 @@ Penile block → aspiration ± irrigation
 | Defect | H+ secretion (α-intercalated cell) | Proximal HCO3 reabsorption | Aldosterone deficiency or resistance |
 | Urine pH | **Always >6** | <5.5 at steady state | Low |
 | Potassium | Low | Low | **High** |
+| Serum HCO3 | Low, may be very low | 15–18 mEq/L | Mildly low |
+| Urine calcium | High | Normal or mildly high | Low |
 | Urine citrate | **Profoundly low** | Near normal | – |
 | Stones | **Up to 70%; calcium phosphate, nephrocalcinosis** | Uncommon | Uncommon |
 | Causes | Sjögren, lupus, inherited | Fanconi | Diabetes, obstruction |
-| Treatment | **Potassium citrate** | High-dose alkali plus potassium | Fludrocortisone |
+| Treatment | **Potassium citrate** 1–2 mEq/kg/day | Alkali 10–15 mEq/kg/day plus potassium | Fludrocortisone, low-potassium diet, stop offending drugs |
 
 - **Why distal RTA forms stones**: fixed alkaline urine, profound hypocitraturia (acidosis increases citrate reabsorption) and hypercalciuria from bone buffering.
 - **Incomplete distal RTA**: normal bicarbonate, but urine cannot be acidified below 5.5.
 
 ### Diagnosis
 - **UAG (urine anion gap) = (Na + K) – Cl** reflects urinary ammonium: negative in GI (gastrointestinal) loss, positive in renal causes.
-- **Ammonium chloride load**: urine pH fails to fall below 5.5 in distal RTA.
+- **Ammonium chloride load** (0.1 g/kg orally, hourly urine pH for about 6 h): pH fails to fall below 5.5 in distal RTA. **Furosemide–fludrocortisone test** is a better-tolerated alternative.
+- **Fractional bicarbonate excretion** >15% during bicarbonate loading indicates proximal RTA.
 
 ### Urological relevance
 - Obstruction causes hyperkalaemic distal RTA, reversible by relief.
@@ -248,17 +268,23 @@ Penile block → aspiration ± irrigation
 7. 22 Fr three-way catheter, **watertight capsule closure**, drain.
 
 ### Millin versus Freyer
-- Millin: bladder intact, apex under vision, but venous bleeding and poor intravesical access. Freyer: bladder opened, suits intravesical disease.
+| Aspect | **Millin (retropubic)** | **Freyer (suprapubic)** |
+|---|---|---|
+| Bladder | Not opened | Opened |
+| Apex | Divided under vision | Pinched by finger |
+| Fossa haemostasis | Directly visible | Less visible |
+| Stones, diverticulum, median lobe | Difficult | Ideal |
+| Specific risk | Dorsal venous bleeding | Cystotomy leak |
 
 ### Complications
-- Bleeding (transfusion <5%), urine leak, infection, ureteric injury, bladder neck contracture (2–6%), thromboembolism.
+- Bleeding (transfusion <5%), urine leak, infection, ureteric injury, bladder neck contracture (2–6%), stricture, thromboembolism.
 - Retrograde ejaculation 80–90%; ED (erectile dysfunction) 3–5%; incontinence rare.
 - **Also know:** bleeding control by catheter traction, Malament purse-string or O'Conor capsular plication; vesicocapsular variant; versus TURP (transurethral resection of prostate): lower retreatment, no TUR syndrome, longer stay.
 
 ### Modern alternatives
 - HoLEP (holmium laser enucleation), robotic (multiport, single-port) prostatectomy: less bleeding.
 
-**Diagram to draw:** Sagittal section showing capsulotomy.
+**Diagram to draw:** Sagittal capsulotomy view.
 
 > **Key points to remember:**
 > - Millin 1945: transverse capsulotomy ~2 cm below bladder neck; bladder not opened.
@@ -296,7 +322,7 @@ Penile block → aspiration ± irrigation
 
 ### Safety
 - **AEM (active electrode monitoring)** detects insulation failure and capacitive coupling; **REM (return electrode monitoring)** detects poor pad contact.
-- Lowest effective power (cut 50–80 W, coagulation 30–50 W), tip in view, bipolar near vital structures.
+- Lowest effective power (cut 50–80 W, coagulation 30–50 W), tip in view, inspect insulation; bipolar near vital structures and in pacemaker patients.
 
 **Diagram to draw:** Monopolar vs bipolar circuit.
 
@@ -325,12 +351,13 @@ Penile block → aspiration ± irrigation
 1. **Renal transplantation**: multiple arteries (18–43%) joined by Carrel patch or bench reconstruction, preserving the lower pole artery (supplies the ureter). Short right renal vein extended with donor IVC (inferior vena cava), external iliac or spiral gonadal vein. Transplant artery stenosis: angioplasty first, graft if it fails.
 2. **RCC (renal cell carcinoma) with IVC thrombus**: patch cavoplasty if residual lumen would be <50%; **PTFE replacement (16–20 mm)** if the wall is invaded circumferentially.
 3. **Post-chemotherapy RPLND (retroperitoneal lymph node dissection)**: IVC: repair if narrowing <25%, patch or graft if more; ligation tolerated with collaterals. Aorta: about 1% need PTFE or Dacron replacement; never ligated.
-4. **Renovascular surgery**: aortorenal bypass (saphenous vein, internal iliac artery).
+4. **Renovascular surgery and autotransplantation**: aortorenal bypass (saphenous vein, internal iliac artery, PTFE), splenorenal or hepatorenal bypass, ex vivo bench repair of branch disease.
 5. **Dialysis access**: PTFE AV (arteriovenous) graft.
-- **Also know:** retroperitoneal sarcoma caval resection; superior mesenteric vein injury (vein graft); bland infrarenal thrombus (filter or caval interruption).
+- **Also know:** iatrogenic or traumatic vascular injury (interposition graft); retroperitoneal sarcoma caval resection; superior mesenteric vein injury (vein graft); bland infrarenal thrombus (filter or caval interruption).
 
 ### Principles
-- Tension-free anastomoses; heparin before clamping; omental wrap separates synthetic grafts from bowel and urine.
+- Autologous graft in contaminated fields and small vessels; synthetic for large high-flow vessels.
+- Tension-free, spatulated anastomosis with fine monofilament (polypropylene); heparin before clamping; antiplatelet or anticoagulant afterwards as indicated; omental wrap separates synthetic grafts from bowel and urine.
 
 ### Complications
 - Thrombosis (caval grafts 10–40%), stenosis, infection (often needing removal), enteric or urinary fistula.

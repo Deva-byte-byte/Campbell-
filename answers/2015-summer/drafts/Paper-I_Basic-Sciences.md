@@ -16,15 +16,14 @@
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- Urine is formed by filtration, reabsorption, secretion and concentration, then moved by peristalsis to a low-pressure bladder.
-- Kidney roles: excretion of waste and drugs; volume, water, electrolyte and acid–base balance.
+- Urine is formed by filtration, reabsorption, secretion and concentration, then propelled to a low-pressure bladder.
 
 ### A. Functional anatomy
 - Glomerular barrier (fenestrated endothelium, basement membrane, podocytes) restricts by size and negative charge, so albumin is excluded.
-- **Juxtamedullary nephrons** (long loops) build the medullary gradient. Juxtaglomerular apparatus: macula densa, arterioles, renin-secreting cells.
+- **Juxtamedullary nephrons** (long loops) build the medullary gradient.
 
 ### B. Renal blood flow (RBF) and autoregulation
-- RBF ~25% of cardiac output. Medullary oxygen tension is only 10–20 mmHg, so the thick ascending limb and S3 segment are hypoxia-prone.
+- RBF ~25% of cardiac output. The medulla is hypoxic (10–20 mmHg), endangering the thick ascending limb and S3 segment.
 - **Autoregulation** keeps RBF and GFR (glomerular filtration rate) constant at mean arterial pressure 80–180 mmHg:
   - **Myogenic:** the afferent arteriole constricts when stretched and dilates (prostaglandins) when pressure falls; NSAIDs (non-steroidal anti-inflammatory drugs) abolish this.
   - **Tubuloglomerular feedback:** low NaCl at the macula densa releases renin; angiotensin II constricts the efferent arteriole. Angiotensin blockade abolishes this.
@@ -36,43 +35,55 @@
 - **Also know:** GFR estimated from creatinine or cystatin C (race-free 2021 equations).
 
 ### D. Tubular handling
-| Segment | Handling | Drug link |
-|---|---|---|
-| Proximal tubule | ~**65%** Na⁺ and water; all glucose (SGLT2, sodium–glucose cotransporter 2); bicarbonate | SGLT2 inhibitors |
-| Thick ascending limb | ~**25%** NaCl (NKCC2); water-impermeable "diluting segment" | Loop diuretics |
-| Distal convoluted tubule | 5–7% Na⁺; Ca²⁺ | Thiazides |
-| Collecting duct | Principal cells: Na⁺/K⁺ (aldosterone), water; intercalated cells: acid | Spironolactone; distal RTA (renal tubular acidosis) |
+| Segment | Key transporter | Handling | Drug/disease link |
+|---|---|---|---|
+| Proximal tubule | Na⁺/H⁺ exchanger, SGLT2 (sodium–glucose cotransporter 2) | ~**65%** Na⁺ and water (iso-osmotic); all glucose; most bicarbonate and phosphate; secretes drugs | SGLT2 inhibitors |
+| Thin descending limb | Aquaporin-1 | Water out, solute stays: fluid concentrates | – |
+| Thick ascending limb | NKCC2 (Na⁺-K⁺-2Cl⁻) | ~**25%** NaCl; water-impermeable "diluting segment" | Loop diuretics |
+| Distal convoluted tubule | NCC (Na⁺-Cl⁻ cotransporter) | 5–7% Na⁺; Ca²⁺ (parathyroid hormone) | Thiazides lower urinary Ca²⁺ |
+| Collecting duct | ENaC (epithelial Na⁺ channel), AQP2 | Principal cells: Na⁺/K⁺ (aldosterone), water (ADH); intercalated cells: acid | Amiloride, spironolactone; distal RTA (renal tubular acidosis) |
 
 ### E. Concentration
 - **Countercurrent multiplication:** ascending limbs absorb NaCl without water, raising medullary osmolality from 300 to ~**1200 mOsm/kg**; urea recycling adds about half. Vasa recta exchange without washing out the gradient.
-- **Antidiuretic hormone (ADH)**, released by high osmolality or low volume, acts on V2 receptors to insert aquaporin-2 (AQP2) into principal cells. Concentration needs both a hypertonic medulla and AQP2.
-- Aldosterone retains Na⁺; atrial natriuretic peptide excretes it.
+- **Antidiuretic hormone (ADH)** is released by high osmolality or low volume. Signal chain: V2 receptor → cAMP (cyclic adenosine monophosphate) → protein kinase A → aquaporin-2 (AQP2) inserted into the apical membrane → water reabsorbed. Concentration needs both a hypertonic medulla and AQP2; urine osmolality ranges ~50–1200 mOsm/kg.
+
+| Hormone | Site | Effect |
+|---|---|---|
+| Angiotensin II, aldosterone | Efferent arteriole, proximal tubule; collecting duct | Na⁺ retention, K⁺/H⁺ loss, GFR maintained |
+| Atrial natriuretic peptide | Afferent arteriole, collecting duct | Natriuresis, lowers renin |
+| Parathyroid hormone | Proximal and distal tubule | Phosphaturia, Ca²⁺ retention |
 
 ### F. Ureteric transport
 - **Pacemaker:** atypical smooth muscle cells at the minor calyces/pelvicalyceal border.
-- Peristalsis is **myogenic**: the excised or denervated ureter keeps contracting. Nerves (T11–L1, S2–4) carry pain referred to flank, groin and genitalia.
+- Peristalsis is **myogenic**: the excised or denervated ureter keeps contracting. Nerves (T11–L1, S2–4) carry only pain.
 - Calcium entry triggers action potentials spread by gap junctions; calcium–calmodulin then activates myosin light-chain kinase.
 - Walls coapt behind each bolus: 2–6 waves/min at 20–80 cmH₂O. Very high flow makes boluses coalesce, dilating the ureter **without obstruction**.
 - Ureterovesical tunnel length:diameter 5:1 prevents reflux; bladder pressure >40 cmH₂O stops efflux.
-- Endotoxin inhibits and α1-blockers relax the ureter.
+
+| Factor | Effect on transport |
+|---|---|
+| Obstruction | Acute: stronger contractions; chronic: dilatation, lost coaptation |
+| Infection | Gram-negative endotoxin inhibits peristalsis (dilatation without obstruction) |
+| Pregnancy | Right > left dilatation: compression at pelvic brim, progesterone |
+| Drugs | α1-blockers and calcium-channel blockers relax (medical expulsive therapy); NSAIDs lower pelvic pressure in colic |
 
 ### G. Bladder storage and voiding
-- **Storage** below ~10 cmH₂O: compliance (collagen, elastin), sympathetic β3 detrusor relaxation, α1 bladder-neck tone, pudendal sphincter tone.
-- **Voiding:** pelvic parasympathetic (S2–4) acetylcholine on M3 receptors contracts the detrusor; nitric oxide relaxes the urethra. Aδ afferents sense fullness.
+- **Storage** below ~10 cmH₂O: compliance, sympathetic β3 detrusor relaxation, α1 bladder-neck and pudendal sphincter tone.
+- **Voiding:** pelvic parasympathetic (S2–4) acetylcholine on M3 receptors contracts the detrusor; nitric oxide relaxes the urethra.
 
 ### H. Pathophysiology of obstruction (unilateral: triphasic)
 ```
-Phase 1 (0–1.5 h): RBF up,   pressure up    (afferent dilatation)
+Phase 1 (0–1.5 h): RBF up,   pressure up    (afferent dilatation: PGE2, nitric oxide)
 Phase 2 (1.5–5 h): RBF down, pressure up    (efferent constriction)
-Phase 3 (>5 h):    RBF down, pressure down  (afferent constriction)
+Phase 3 (>5 h):    RBF down, pressure down  (afferent constriction: angiotensin II,
+                                             thromboxane A2, endothelin)
 ```
-- Ischaemic injury starts **within 2 hours** of complete obstruction.
-- **Tubules:** down-regulated aquaporins and Na⁺ transporters cause a concentrating defect, salt wasting and distal RTA; K⁺ is wasted early, retained late.
+- Ischaemic injury starts **within 2 hours** of complete block.
+- **Tubules:** down-regulated aquaporins and Na⁺ transporters cause concentrating defect, salt wasting and distal RTA.
 - **Fibrosis** (final path to failure): stretch, inflammation, TGF-β (transforming growth factor-β), angiotensin II, microRNAs.
-- Immature kidneys fail to develop; mature kidneys proliferate, then scar.
-- **Clinical:** hypertension (~77% bilateral, ~20% unilateral); contralateral hypertrophy; post-obstructive diuresis ~2% unilateral vs ~50% bilateral.
-- **Lower tract:** detrusor hypertrophy, then decompensation; collagen lowers compliance.
-- **Also know:** diuretic MAG3 (mercaptoacetyltriglycine) renogram (half-time >40 min = obstructed); Whitaker test (>15–20 cmH₂O = obstructed); SGLT2 inhibitors and tolvaptan as recent renal drugs.
+- **Bilateral obstruction or solitary kidney:** pressure stays high longer and natriuretic peptides and urea accumulate, so **post-obstructive diuresis** follows relief in ~50% (vs ~2% unilateral).
+- **Clinical:** hypertension (~77% bilateral, ~20% unilateral); contralateral hypertrophy; pyelorenal backflow acts as a pop-off; forniceal rupture causes urinoma.
+- **Also know:** immature kidneys fail to develop; outlet obstruction causes detrusor hypertrophy then decompensation; diuretic MAG3 (mercaptoacetyltriglycine) renogram (half-time >40 min = obstructed); Whitaker test (>15–20 cmH₂O = obstructed); tolvaptan in polycystic disease.
 
 **Diagram to draw:** Nephron with transporters; triphasic graph.
 
