@@ -453,3 +453,61 @@ Wet + normal voiding -> double dye, CT urography, cystoscopy (exclude VVF)
 > - Triad: deficient abdominal wall, dilated urinary tract, intra-abdominal testes; 95% male.
 > - Renal dysplasia decides prognosis; Woodard I–III.
 > - Vesicostomy if drainage needed; orchidopexy at about 6 months; nadir creatinine under 0.7 mg/dL is good.
+
+
+---
+
+## Rapid Revision Sheet – Paper III
+
+*All the key points from this paper in one place. Read this in the last 30 minutes before the exam.*
+
+
+#### III-1. Discuss various ureteric stents. Discuss ureteroscopy with or without stenting. (LAQ)
+
+- Finney 1978: double-J stent.
+- Symptoms come from intravesical stent and reflux; alpha-blocker plus antimuscarinic helps.
+- Encrusted stent: clear bladder coil, then ureter, then kidney.
+- Denstedt 2001: no routine stent after uncomplicated URS (AUA four conditions).
+
+#### III-2. Describe medical management of VUR. Describe treatment of an 8-yr male child with b/l grade IV VUR. (LAQ)
+
+- IRS grade IV keeps papillary impressions; grade V loses them.
+- RIVUR 2014: CAP halves recurrent UTI (23.6% to 12.9%) but does not change scarring.
+- Open reimplantation 95.9%; Cohen over 98%; Deflux lower in grade IV.
+- Bilateral extravesical repair risks transient retention (up to 10%).
+
+#### III-3a. Sacral neuromodulation (SAQ)
+
+- Afferent modulation; treats both overactivity and retention.
+- S3 response: bellows plus great-toe flexion.
+- Implant if the test gives at least 50% improvement.
+
+#### III-3b. Uses of buccal mucosa in urology (SAQ)
+
+- Thin vascular lamina propria gives excellent take; avoid Stensen's duct.
+- Staged BMG (Johanson/Bracka) for lichen sclerosus.
+- Bulbar BMG urethroplasty success about 85–90%.
+
+#### III-3c. HSG in neonates (SAQ)
+
+- First scan after 48 hours, except suspected PUV or bilateral severe dilatation.
+- UTD 2014: P1 APD 10 to <15 mm; P2 15 mm or more; P3 abnormal parenchyma or bladder.
+- Keyhole sign (thick bladder plus dilated posterior urethra) suggests PUV.
+
+#### III-3d. Types of penile prosthesis. What are biofilms in penile prosthesis? (SAQ)
+
+- Types: malleable, 2-piece and 3-piece inflatable (best rigidity and flaccidity).
+- Biofilm is a microbial community in a matrix; S. epidermidis is commonest.
+- Infection 1–3%; coatings halve it; Mulcahy salvage succeeds in 84%.
+
+#### III-3e. Uretero-vaginal fistula (SAQ)
+
+- Continuous leak with normal voiding; orange tampon on double dye test = UVF.
+- Exclude coexisting VVF (up to 25% of VVF have UVF).
+- Early stent (within 2 weeks); reimplant with psoas hitch if it fails.
+
+#### III-3f. Prune belly syndrome (SAQ)
+
+- Triad: deficient abdominal wall, dilated urinary tract, intra-abdominal testes; 95% male.
+- Renal dysplasia decides prognosis; Woodard I–III.
+- Vesicostomy if drainage needed; orchidopexy at about 6 months; nadir creatinine under 0.7 mg/dL is good.

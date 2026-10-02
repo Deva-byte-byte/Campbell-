@@ -60,6 +60,7 @@ Each question is answered in this structure:
 - Tell the user which existing or likely exam answers each new chapter relates to.
 
 ## Existing work in this repository
-- `answers/Paper-*.md` and `pdf/Paper-*.pdf`: MCh Urology Summer 2015 Papers I–IV, half-length versions (current). Drafts in `answers/concise/`.
+- **Current:** `answers/2015-summer/` and `pdf/2015-summer/`: MCh Urology Summer 2015 Papers I–IV, chapter-sourced half-length versions (drafts in `answers/2015-summer/drafts/`). Use this folder layout (`answers/<set>/`, `pdf/<set>/`) for every new set.
+- Older versions: `answers/Paper-*.md` / `pdf/Paper-*.pdf` (pre-chapter half-length) and `answers/concise/`.
 - `answers/full/` and `pdf/full/`: the earlier full-length versions (reference only).
 - Missing chapters in `reference/`: 89 only. Chapter 119 is only 2 pages. Chapter 56 (hypospadias) has a full version and a "short version"; Chapter 110 (OAB) has two versions.
