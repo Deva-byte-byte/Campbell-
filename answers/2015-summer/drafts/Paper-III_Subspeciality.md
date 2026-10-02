@@ -354,7 +354,7 @@ Exclude PUV/neurogenic bladder, treat BBD
 ### Definition and aetiology
 - **UVF (uretero-vaginal fistula)**: ureter–vagina communication causing continuous leakage.
 - Usually **unrecognised distal ureteric injury**; about **three-quarters follow abdominal hysterectomy**, often uneventful (ureteric injury in 0.2–2.4%). Others: obstetric, cancer, radiation.
-- Danger points: pelvic brim, **under the uterine artery**, beside the uterosacral ligament, vaginal fornix. Mechanisms: ligation, crush, thermal, ischaemia.
+- At risk: pelvic brim, **under the uterine artery**, beside the uterosacral ligament, vaginal fornix; by ligation, crush, thermal injury or ischaemia.
 
 ### Clinical features
 - **Continuous leakage with normal voiding**: the other kidney fills the bladder.
@@ -367,15 +367,25 @@ Exclude PUV/neurogenic bladder, treat BBD
 | First line | Catheter, repair | Stent |
 
 ### Investigations
-- **Double dye test**: oral phenazopyridine plus blue dye in the bladder; **orange tampon = UVF**, blue = VVF. Three-swab test: wet unstained swab.
+| Test | Method | Reading |
+|---|---|---|
+| **Double dye test** | Oral phenazopyridine (orange urine); blue dye instilled into the bladder; tampon, then walk about | **Orange = UVF**; blue = VVF; both = both |
+| **Three-swab test** | Blue dye in the bladder; three swabs stacked in the vagina | Blue upper swab = VVF; **wet, unstained swab = UVF** |
 - **CT (computed tomography) urography**, delayed phase (MR (magnetic resonance) urography if contrast is contraindicated).
-- **Cystoscopy and retrograde pyelogram**, with a stent at the same sitting.
+- **Cystoscopy and RGP (retrograde pyelogram)**, stenting at the same sitting.
 - **Exclude coexisting VVF** (up to 25% of VVF have UVF) and bilateral injury.
 
 ### Management
 - **Stent first**: retrograde double-J if a wire passes; otherwise PCN (percutaneous nephrostomy) and antegrade stent. **Stenting within 2 weeks** works best; remove at **4–6 weeks** and re-image.
-- **Surgery** if stenting fails: **ureteroneocystostomy** with **psoas hitch** or **Boari flap** (up to 15 cm); downward nephropexy or ileal ureter for longer gaps; open, laparoscopic, robotic or vaginal. Early repair equals delayed. Success **90% or more**.
+- **Surgery** if stenting fails: **ureteroneocystostomy** with **psoas hitch** or **Boari flap** (up to 15 cm); nephropexy or ileal ureter for longer gaps; open, laparoscopic or robotic. Early repair equals delayed. Success **90% or more**.
 - Follow-up ultrasound: stricture may appear up to 30 months later.
+
+```
+Leak + normal voiding -> dye test, CT urography, cystoscopy/RGP
+ -> wire passes? Yes -> double-J 4-6 wk -> re-image
+                 No  -> PCN + antegrade stent
+ -> fails -> ureteroneocystostomy + psoas hitch / Boari
+```
 
 ### Prevention
 - Recognise injury intraoperatively (cystoscopy); prophylactic stents only if high risk.
@@ -408,8 +418,8 @@ Exclude PUV/neurogenic bladder, treat BBD
 ### Woodard classification
 | | Features | Outlook |
 |---|---|---|
-| I | Oligohydramnios, **pulmonary hypoplasia**, dysplasia | Perinatal death |
-| II | Full triad, moderate uropathy | Risk of CKD (chronic kidney disease); debated |
+| I | Oligohydramnios, **pulmonary hypoplasia**, dysplasia, urethral atresia | Perinatal death |
+| II | Full triad, moderate uropathy, **no pulmonary hypoplasia** | Risk of CKD (chronic kidney disease); debated |
 | III | Mild, **stable function** | Good; majority |
 - **Also know:** RUBACE severity score (renal, ureter, bladder, abdominal wall, cryptorchidism, extra-genitourinary); "pseudo-prune" presents late.
 
@@ -418,7 +428,7 @@ Exclude PUV/neurogenic bladder, treat BBD
 - Category III: surveillance. Sepsis or rising creatinine: wide **cutaneous vesicostomy**.
 - **Reconstruction** after 3–6 months: ureteric tailoring and reimplantation using the healthier proximal ureter; reduction cystoplasty gives little lasting benefit.
 - **Orchidopexy**: bilateral **transabdominal at about 6 months**; staged Fowler–Stephens later.
-- **Abdominoplasty**: Randolph, Ehrlich, Monfort.
+- **Abdominoplasty** (cosmesis, better cough and emptying): **Randolph** (transverse excision of the worst lower wall); **Ehrlich** (vertical incision, umbilicus kept, vest-over-pants overlap); **Monfort** (umbilicus kept, central fascial strip with lateral flaps overlapped; good exposure for combined surgery).
 
 ### Prognosis
 - 20% die perinatally; **up to 30% develop chronic renal failure**; nadir creatinine **under 0.7 mg/dL** is favourable.

@@ -310,7 +310,13 @@ Angiotensin (1-7) → Mas receptor (protective)
 
 ### Juxtaglomerular apparatus and renin release
 - Granular cells in the afferent arteriole secrete renin and act as baroreceptors; the **macula densa** senses tubular NaCl.
-- **Stimuli:** low perfusion pressure, low macula densa NaCl, sympathetic β1 activity. **Inhibitors:** angiotensin II feedback, atrial natriuretic peptide, β-blockers.
+
+| Renin stimulated by | Renin inhibited by |
+|---|---|
+| Low renal perfusion pressure (baroreceptor) | High perfusion pressure |
+| Low NaCl at macula densa | High NaCl at macula densa |
+| Sympathetic β1 activity | Angiotensin II (negative feedback) |
+| Prostaglandins, hypovolaemia | Atrial natriuretic peptide, β-blockers, NSAIDs (non-steroidal anti-inflammatory drugs) |
 
 ### Actions of angiotensin II
 - **AT1 receptor:** vasoconstriction; **aldosterone** (distal Na⁺ retention, K⁺ loss); direct proximal Na⁺ reabsorption; thirst and ADH (antidiuretic hormone); **fibrosis**.
@@ -318,11 +324,12 @@ Angiotensin (1-7) → Mas receptor (protective)
 - **Intrarenal:** efferent constriction maintains GFR when perfusion falls, so ACE inhibitors and ARBs (angiotensin receptor blockers) drop GFR in bilateral or solitary-kidney renal artery stenosis.
 
 ### Urological relevance
-- **Renovascular hypertension (Goldblatt kidney):** atherosclerosis or fibromuscular dysplasia; **renal vein renin ratio >1.5** lateralises.
+- **Renovascular hypertension (Goldblatt kidney):** atherosclerosis (older men, ostial) or fibromuscular dysplasia (young women). Diagnose by duplex ultrasound, CT or MR angiography, captopril renography. **Renal vein renin ratio >1.5** with contralateral suppression predicts cure by revascularisation or nephrectomy.
 - **Page kidney:** subcapsular haematoma compresses parenchyma; ACE inhibitor/ARB, then drainage.
 - **Reninoma (juxtaglomerular cell tumour):** young women, ≤3 cm mass, refractory hypertension, **hypokalaemia**; excision cures most.
-- **Obstruction:** hypertension in ~77% bilateral vs ~20% unilateral; angiotensin II drives fibrosis.
-- **Also know:** post-traumatic hypertension (arteriovenous fistula, scarring); reflux nephropathy (renin-guided segmental resection); angiotensin blockade and hyperkalaemia in CKD (chronic kidney disease); ACE inhibitors/ARBs contraindicated in pregnancy.
+- **Obstruction:** hypertension (~77% bilateral, ~20% unilateral); angiotensin II drives fibrosis.
+- **Also know:** post-traumatic hypertension (arteriovenous fistula, scarring); reflux nephropathy (renin-guided segmental resection); hyperkalaemia with angiotensin blockade in CKD (chronic kidney disease).
+- **Drugs:** ACE inhibitors (cough, angio-oedema from bradykinin), ARBs, aliskiren (direct renin inhibitor), aldosterone antagonists; all contraindicated in pregnancy.
 
 **Diagram to draw:** Juxtaglomerular apparatus and cascade.
 
@@ -407,13 +414,24 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 ### Antisperm antibodies (ASA)
 - **Causes:** obstruction (**vasectomy** commonest), torsion, trauma, biopsy, infection, heat (varicocele, cryptorchidism), genetic (human leukocyte antigen HLA-B28).
 - **Effects:** agglutination, poor motility, failure to cross cervical mucus and bind the zona; head-bound antibody matters most.
-- **Tests:** mixed antiglobulin reaction or immunobead test; **≥50% of motile sperm bound** is significant (WHO [World Health Organization] 2010).
-- **Treatment:** corticosteroid trials conflict; washing removes only unbound antibody; **IVF/ICSI (in vitro fertilisation/intracytoplasmic sperm injection)** is usual.
+- **Indications to test:** isolated asthenozoospermia, agglutination, unexplained infertility.
+
+| Test | Method |
+|---|---|
+| Mixed antiglobulin reaction (MAR) | Fresh semen + IgG/IgA-coated beads + antiglobulin; beads stick to antibody-coated motile sperm |
+| Immunobead test | Washed sperm + beads coated with anti-human IgG/IgA; gives % and site (head/tail) of binding |
+- **≥50% of motile sperm bound** is significant (WHO [World Health Organization] 2010).
+
+| Treatment | Comment |
+|---|---|
+| Corticosteroids | Trials conflict; risk of avascular necrosis; not recommended |
+| Sperm washing + intrauterine insemination | Bypasses cervical mucus; modest benefit (bound antibody remains) |
+| **IVF/ICSI (in vitro fertilisation/intracytoplasmic sperm injection)** | Preferred; fertilisation largely unaffected |
 
 ### Infection and inflammation
 - **Leukocytospermia:** >1 × 10⁶ peroxidase-positive leukocytes/mL. Reactive oxygen species and cytokines damage sperm.
-- Organisms: gonococcus, *Chlamydia*, *E. coli*; mumps orchitis after puberty; tuberculosis scars ducts.
-- **Also know:** sperm DNA fragmentation testing; prostatitis harms sperm via oxidative stress and ASA; epididymal macrophages ingest sperm after vasectomy; seminal plasma suppresses female tract immunity and is antioxidant.
+- **Orchitis:** mumps (post-pubertal, atrophy); bacterial (*Chlamydia*/gonococcus if young, *E. coli* if older); tuberculous; **autoimmune**, primary (antibodies with azoospermia) or secondary to vasculitis.
+- **Also know:** sperm DNA fragmentation testing; prostatitis harms sperm via oxidative stress and ASA; seminal plasma suppresses female tract immunity.
 
 **Diagram to draw:** Seminiferous tubule with Sertoli tight junctions and compartments.
 
@@ -433,29 +451,36 @@ Brain injury → oedema → raised intracranial pressure (ICP)
 
 ### Principles
 - **Site decides the level:** urine in cystitis; tissue in pyelonephritis, prostatitis, bacteraemia. Nitrofurantoin and fosfomycin lack tissue levels: **cystitis only**.
-- β-lactams are time-dependent; aminoglycosides and fluoroquinolones (FQs) concentration-dependent (once-daily gentamicin).
+
+| Killing pattern | Drugs | Dosing goal |
+|---|---|---|
+| Time-dependent (time above MIC [minimum inhibitory concentration]) | β-lactams, carbapenems | Frequent doses or extended infusion |
+| Concentration-dependent (peak:MIC) | Aminoglycosides, fluoroquinolones (FQs) | High once-daily dose; post-antibiotic effect, less nephrotoxicity |
+
 - **Resistance thresholds:** trimethoprim–sulfamethoxazole (TMP-SMX) if local resistance ≤20%; oral FQ for pyelonephritis if ≤10%.
-- **Collateral damage:** FQs and cephalosporins select resistance in bowel flora and *C. difficile*, so avoid them in cystitis.
+- **Collateral damage:** FQs and cephalosporins select resistance and *C. difficile*; avoid them in cystitis.
 - Culture all except simple cystitis; **drain** obstructed infected kidneys; shortest effective course.
 
 ### Empirical choices
 | Scenario | Drug | Duration |
 |---|---|---|
-| Cystitis (women) | Nitrofurantoin; fosfomycin 3 g; pivmecillinam; TMP-SMX | 5 d; single; 3–5 d; 3 d |
+| Cystitis (women) | Nitrofurantoin 100 mg twice daily; fosfomycin 3 g; pivmecillinam 400 mg; TMP-SMX 160/800 mg twice daily | 5 d; single dose; 3–5 d; 3 d |
 | Cystitis (men) | TMP-SMX or per culture | 7 d (= 14 d, Drekonja 2021) |
-| Pyelonephritis (oral) | Ciprofloxacin; levofloxacin 750 mg | 7 d; 5 d |
-| Complicated | Aminoglycoside ± ampicillin, or 3rd-generation cephalosporin | 7–14 d |
+| Pyelonephritis (oral) | Ciprofloxacin 500 mg twice daily; levofloxacin 750 mg daily | 7 d; 5 d |
+| Pyelonephritis (IV) | Ceftriaxone 1 g daily; gentamicin 5–7 mg/kg once daily ± ampicillin | Switch to oral when afebrile; 10–14 d total |
+| Complicated / catheter UTI | Aminoglycoside or 3rd-generation cephalosporin per culture; change catheter | 7–14 d |
 | Urosepsis | Broad-spectrum **within 1 h**, source control | – |
 
 ### Asymptomatic bacteriuria
-- Treat **only in pregnancy and before mucosa-breaching urological procedures**.
+- Treat **only in pregnancy and before mucosa-breaching urological procedures**. Do not treat healthy women, elderly, diabetics, catheterised or spinal cord injury patients.
+- **Pregnancy:** avoid FQs and TMP-SMX; use cephalosporins or nitrofurantoin.
 
 ### Prophylaxis
 - Recurrent: vaginal oestrogen, **methenamine hippurate** (non-inferior to antibiotics, ALTAR 2022), cranberry, post-coital antibiotics.
 - Surgical: single dose within 1 hour; ≤24 h for percutaneous nephrolithotomy and prostheses.
-- **Also know:** ESBL (extended-spectrum β-lactamase) producers; nitrofurantoin avoided in renal failure; new agents pivmecillinam (US 2024) and gepotidacin (2025).
+- **Also know:** ESBL (extended-spectrum β-lactamase) producers; nitrofurantoin avoided if creatinine clearance <30 mL/min; new agents pivmecillinam (US 2024) and gepotidacin (2025).
 
-**Diagram to draw:** Concentration–time curve showing peak:MIC (minimum inhibitory concentration).
+**Diagram to draw:** Concentration–time curve showing peak:MIC and time above MIC.
 
 > **Key points to remember:**
 > - Recurrent = ≥2 in 6 months or ≥3 in 12 months.
