@@ -1,0 +1,940 @@
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                              Host Evaluation
+
+Chapter 158 — Active Management Strategies for
+Localised Prostate Cancer
+ • Prostate-specific antigen (PSA) era uniformity: PSA testing and community screening from the early
+   1990s → radical treatment for most patients regardless of risk, apparently vindicated by serially falling US
+   prostate cancer mortality.
+ • Evidence against treating everyone:
+     ◦ Observation of low-risk disease → low rates of metastasis and prostate cancer death.
+     ◦ Randomised treatment-versus-observation trials → mortality reduction too small to justify the quality-
+       of-life cost, largely because of high early death from other causes.
+     ◦ Large randomised screening trials → no robust mortality decline for all patients despite prolonged
+       follow-up.
+ • 15-year randomised data in favourable-risk disease: surveillance → more metastatic progression but no
+   difference in prostate cancer mortality; explained by high crossover to treatment within 5–10 years,
+   competing mortality and much-improved treatment of metastatic disease.
+ • The shift: from choosing a treatment → also choosing its timing relative to disease risk and expected
+   longevity; for favourable risk, early radical therapy may cost more quality of life than the cancer costs life.
+ • Many early-stage patients still carry significant lifetime mortality risk → contemporary care is
+   individualised: longevity, disease aggressiveness and extent, patient goals.
+ • Management spectrum:
+     ◦ More likely to die of competing risks → observation.
+     ◦ Good longevity, benefit of treatment unclear → active surveillance, deferring therapy until need is
+       clear.
+     ◦ Needing therapy → radical prostatectomy (RP), external radiation, interstitial radiation, or thermal
+       ablation (whole or partial gland).
+ • Modality selection requires counselling on risks and benefits, recognition of host factors, comparative
+   data and patient preference.
+Concept — Management of localised prostate cancer is a question of timing as well as modality: cancer
+mortality risk is always weighed against competing mortality, and every later decision follows from that
+balance.
+
+HOST EVALUATION
+Longevity Assessment/Competing Risks for Mortality
+ • Competing mortality dilutes treatment benefit in large efficacy trials; several randomised trials show
+   other-cause death risk exceeding prostate cancer death risk.
+ • National Comprehensive Cancer Network (NCCN): "life expectancy estimation is critical to informed
+   decision making" in early detection and treatment.
+ • Prostate Cancer Outcomes Study (PCOS) (US prospective cohort): other-cause mortality modelled on
+   comorbidity and age; 10-year prostate cancer mortality 3–18% by risk category versus ≥33% other-cause
+   mortality with any comorbidity.
+ • The "10-year life expectancy" rule: applied bluntly, it has produced lower treatment rates in older
+   patients and possibly overtreatment of younger ones; best practice is an individualised assessment of
+   age, comorbidity and cancer mortality risk.
+
+
+                                                             page 1 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer         Baseline Urinary/Sexual/Bowel Function
+ • Tools: NCCN recommends Social Security Administration tables or World Health Organization (WHO) Life
+   Tables; prostate cancer–specific models also exist, in which the age–comorbidity relationship is central.
+ • Longevity is an indirect measure of comorbidity and shapes both whether and which treatment:
+   significant cardiac, pulmonary or haematological comorbidity may leave longevity and benefit intact but
+   contraindicate surgery (anaesthetic or bleeding risk).
+ • Charlson Comorbidity Index (CCI): most widely used scale; designed to predict 1-year inpatient mortality;
+   later shown prognostic across many cancers.
+ • Prostate cancer–specific CCI (PCCI): reweights comorbidities to predict 10-year mortality in prostate
+   cancer; in the Veterans Health Administration (VHA), age-adjusted 10-year other-cause mortality rises
+   steeply across score bands, approaching certainty at the highest scores.
+ • Care Assessment Needs (CAN) score: automated electronic health record score (VHA) built for short-term
+   hospitalisation and mortality; stronger predictor of 5-year overall survival than CCI or PCCI in both
+   localised and metastatic disease.
+ • Age-based bias: clinicians judge longevity by age rather than comorbidity → comorbid younger men
+   treated more often than healthy older men despite far higher other-cause mortality; treatment of
+   patients with limited life expectancy falls with age; older high-risk patients undertreated despite
+   reasonable 10-year longevity. Remedy: age-adjusted longevity from validated comorbidity indices and
+   life tables.
+ • Longevity must be weighed against aggressiveness:
+     ◦ Aggressive cancers may benefit from treatment despite shortened longevity, especially at advanced
+       stage.
+     ◦ VHA practice: RP use falling in low-risk and rising in high-risk disease, including in men with ≤10-year
+       longevity.
+     ◦ High-risk, poorly differentiated disease: absolute benefit of aggressive treatment shrinks and number
+       needed to treat rises steeply with increasing Charlson score.
+     ◦ Lead time to symptoms and death is governed by Gleason score and stage.
+ • High risk of metastasis or death within 10 years → consider aggressive therapy even with competing
+   risks in the same period.
+Figure 158.1 — Other-cause mortality by comorbidity index
+ • Kaplan–Meier non-prostate-cancer survival separates monotonically across original CCI bands (0, 1, 2, 3–
+   4, 5+) and reweighted bands (0, 1–2, 3–5, 6–8, 9+); the reweighted index better identifies the highest-
+   risk group (Daskivich et al., 2011).
+Concept — Longevity matters only relative to the cancer's own clock: a competing risk argues against
+treatment only when it will act before the cancer does.
+
+BASELINE URINARY/SEXUAL/BOWEL FUNCTION
+Bladder Function
+ • Baseline function sets the size of the quality-of-life benefit and risk; pre-existing dysfunction → more
+   intense or protracted morbidity. Assess with validated instruments for shared decision-making.
+ • Instruments: International Prostate Symptom Score (IPSS) (most common) and University of California,
+   Los Angeles (UCLA) Prostate Cancer Index; analyse individual IPSS items to characterise symptoms.
+
+
+
+
+                                                             page 2 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer               Baseline Urinary/Sexual/Bowel Function
+
+ Baseline state                     Surgery                                   Radiation
+ Obstructive lower urinary          Improves symptoms, durably, without the ↑ Retention risk, clearly after
+ tract symptoms (LUTS) from         usual age-related progression; severe   brachytherapy; not clearly after external-
+ benign prostatic hyperplasia       baseline → more early postoperative     beam radiation therapy (EBRT)
+ (BPH)                              bother
+ Severe irritative symptoms         —                                         Highest risk of worsening (underlying
+                                                                              overactivity, poor compliance); short-term
+                                                                              relative risk similar across radiation types
+ Large gland, moderate              Long-term benefit (avoids progressive     Transient worsening → normalisation →
+ symptoms                           LUTS and eventual retention)              improvement as gland regresses
+
+Prostate size
+ • American Brachytherapy Society: >60 cm³ technically difficult to implant — pubic arch interference and
+   large seed numbers.
+ • Cytoreductive androgen-deprivation therapy (ADT) shrinks the gland by ~25–40%.
+ • >80 g → neoadjuvant ADT may be required before radiotherapy, to reduce rectal and bladder dose.
+ • Unusually large gland with early-stage disease → surgery may be preferred, avoiding months of ADT and
+   its effects.
+Chronic retention
+ • Obstructive retention → consider surgery. Bladder atony → surgery still possible; urodynamic
+   compliance predicts recovery of continence.
+ • Radiation planned → convert indwelling catheter to intermittent catheterisation → bladder cycling,
+   preventing radiation fibrosis.
+Transurethral resection and radiation
+ • Transurethral resection of the prostate (TURP) before, not after, EBRT for those with or at risk of
+   retention; post-treatment transurethral resection (TUR) → higher incontinence, especially after
+   brachytherapy.
+ • TURP before brachytherapy: historically ↑ post-implant incontinence; contemporary experience
+   challenges this; limited TUR (obstructing median lobe/bladder neck, minimal lateral lobe and apical
+   resection) is safe before brachytherapy.
+ • Previous aggressive TURP → ↑ urinary toxicity with radiotherapy, though long-term severe symptoms
+   may be fewer.
+ • Delay radiation 6–8 weeks after TURP → ↓ incontinence and bladder neck contracture.
+ • TURP, microwave or laser defects: brachytherapy dosimetry challenge (dose is placed peripherally,
+   sparing urethra and bladder neck); cryoablation needle placement risks intraurethral position. Small
+   glands (<30 cm³) with large defects → alternative strategies.
+Neurogenic dysfunction
+ • Parkinson disease: careful urological history; urodynamics quantify risk of post-treatment incontinence or
+   worse LUTS.
+ • Severe compliance abnormalities → surgery preferred, given progressive bladder fibrosis after radiation.
+Concept — Surgery removes the obstructing gland; radiation leaves it to shrink and scars the bladder — so
+obstruction, a large gland and a poorly compliant bladder favour surgery, while irritative symptoms and prior
+resection defects are worsened or complicated by radiation.
+
+
+
+
+                                                             page 3 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                       Baseline Urinary/Sexual/Bowel Function
+Sexual Function
+ • Recovery depends on treatment quality and host factors: baseline function, use of phosphodiesterase
+   type 5 (PDE5) inhibitors, frequency of sexual activity, and vascular risk factors (diabetes, atherosclerosis,
+   hypercholesterolaemia).
+ • Age and preoperative erectile function predict recovery at 2 years after bilateral nerve sparing.
+ • Poor baseline function → more non-nerve-sparing surgery, independent of cancer severity — baseline
+   shapes the plan.
+ • Increasing age → lower potency recovery after surgery and greater decline after radiation.
+ • More frequent preoperative sexual activity → more postoperative sexual bother, independent of
+   functional recovery.
+
+Bowel Function/Other Conditions Affecting Treatment Choice
+ • Radiotherapy → more bowel dysfunction than surgery in comparative data.
+ • Careful gastroenterological history for radiation candidates: pre-existing faecal frequency/urgency,
+   irritable bowel, tenesmus or extensive rectal surgery → warn of exacerbation; gastroenterological
+   evaluation before therapy.
+ • Inflammatory bowel disease (Crohn disease, ulcerative colitis) → suggested more severe acute and late
+   toxicity with pelvic radiotherapy.
+ • Neurogenic bladder → risk of functional deterioration or incontinence after any treatment; neurogenic or
+   inflammatory bowel dysfunction → worse bowel function after EBRT.
+
+CONTRAINDICATIONS AND CAUTIONS BY MODALITY
+ Modality                Specific contraindication                     Relative contraindications / cautions
+ Radiotherapy            Previous radical pelvic irradiation           Previous pelvic surgery trapping bowel in the field
+                         (history of dose and field needed)            (radiation enteritis); substantial bowel in the field (e.g.
+                                                                       hernia); impaired healing (poorly controlled diabetes);
+                                                                       inflammatory bowel disease; pre-existing bowel
+                                                                       dysfunction
+ Surgery                 —                                             Previous pelvic irradiation (↑ complexity of RP);
+                                                                       chronic steroid therapy (delayed healing); significant
+                                                                       cardiac, pulmonary or haematological comorbidity
+                                                                       (anaesthetic, bleeding risk)
+
+Concept — Radiation's toxicity falls on neighbouring bowel and bladder and depends on tissue healing;
+anything that places bowel in the field or impairs healing weighs against it.
+
+Patient Preference/Biases
+ • Preference carries unusual weight because no compelling data favour one treatment in individual cases.
+ • Preconceptions from family, friends, the internet and lay media; many patients consider only surgery.
+ • Surgery choosers → concerned with cancer mortality; non-surgical choosers → concerned with quality of
+   life; obstructive LUTS → more likely to elect surgery.
+ • Longevity assessment may be the most important component of counselling, given competing risks and
+   the observed safety of deferral in most favourable- and intermediate-risk cancers.
+ • Physicians are often ineffective at conveying patient-specific risks; patients prefer specific, quantitative
+   estimates to generalisations.
+
+
+
+
+                                                             page 4 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                 Assessment of Prostate Cancer Risk
+ • Shared decision-making: collaborative decision by patient and clinician, advocated for PSA testing and
+   treatment by the American Urological Association (AUA), American Society for Radiation Oncology
+   (ASTRO) and Society of Urologic Oncology (SUO); consensus exists on implementation strategies.
+ • Patients who perceive their involvement as active (whatever their initial preference) → better informed,
+   less decisional regret.
+ • Decision aids (written, in-person, web-based): meta-analysis of randomised trials → negligible association
+   with health outcomes; newer trials → improved decision-making. Aids should account for physician
+   recommendation and family wishes.
+ • The urologist's recommendation remains the most influential factor.
+Concept — Without a clearly superior treatment, the decision turns on which risk domain the patient will
+accept — so the quality of information on longevity and side effects, not the length of the menu, determines a
+good choice.
+
+ASSESSMENT OF PROSTATE CANCER RISK
+Tools for Risk Stratification
+ • Purpose: estimate cancer mortality over time → decide whether to treat and which options are
+   reasonable.
+ • Most acknowledged criteria: clinical stage, biopsy Gleason score, pretreatment PSA.
+ • No single criterion identifies all high-risk patients; no standardised system exists — an obstacle to
+   counselling, outcome evaluation, trial design and guidelines.
+
+DEFINITIONS OF LOW, INTERMEDIATE, AND HIGH RISK
+ • The core challenge: apparently indolent cancers with unrecognised aggressive biology.
+ • AUA/ASTRO/SUO stratify into very low, low, intermediate and high; NCCN additionally substratifies
+   intermediate and high risk.
+ • NCCN low- and intermediate-risk groups span a broad range of aggressiveness; optimal treatment
+   remains under investigation.
+ • Validation of the groups: very low risk → less adverse surgical pathology than low risk; favourable-risk
+   groups harbour adverse features beyond low risk, affecting surveillance selection; very high risk → worse
+   pathological and oncological outcomes after RP and more additional therapy than high risk.
+
+AUA/ASTRO/SUO VERSUS NCCN RISK GROUPS
+ AUA/ASTRO/SUO                     NCCN
+ Very low                          Very low
+ Low                               Low
+ Intermediate                      Favourable intermediate / unfavourable intermediate
+ High                              High / very high
+
+TABLE 158.1 RISK STRATIFICATION AND STAGING EVALUATION
+ NCCN risk group       Clinical and pathological features                                Staging imaging
+ Very low              All of: T1c; Gleason ≤6/grade group (GG) 1; PSA <10 ng/mL; <3     Not indicated
+                       positive cores with ≤50% cancer in each; PSA density <0.15 ng/
+                       mL/g
+ Low                   All of: T1–T2a; Gleason ≤6/GG1; PSA <10 ng/mL                     Not indicated
+
+
+                                                             page 5 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                 Gleason Scoring and Grade Groups
+
+ NCCN risk group       Clinical and pathological features                               Staging imaging
+ Favourable            Intermediate-risk factors (IRF): T2b–T2c, Gleason 3+4=7/GG2, PSA Not indicated
+ intermediate          10–20 ng/mL. Has all of: 1 IRF; GG1 or 2; <50% cores positive (e.g.
+                       <6 of 12)
+ Unfavourable          IRF as above (GG2 or 3). Has one or more of: 2–3 IRFs; GG3; ≥50% Technetium-99m methylene
+ intermediate          cores positive (e.g. ≥6 of 12)                                   diphosphonate (MDP) bone
+                                                                                        scan + soft-tissue imaging of
+ High                  Any of: T3a; Gleason 8/GG4 or 4+5=9/GG5; PSA >20 ng/mL
+                                                                                        pelvis, abdomen and chest
+ Very high             Any of: T3b–T4; primary Gleason pattern 5; >4 cores with         (chest CT and
+                       Gleason 8–10/GG4–5                                               abdominopelvic computed
+                                                                                        tomography (CT) or magnetic
+                                                                                        resonance imaging (MRI))
+
+Source: NCCN (Schaeffer et al., 2023).
+ • What the table is for: assigning risk group and deciding when staging imaging begins.
+ • Pattern: favourable groups require ALL criteria; adverse groups need ANY one. Imaging starts at
+   unfavourable intermediate.
+ • Traps: PSA density appears only in very low risk; GG3 alone makes intermediate risk unfavourable;
+   primary pattern 5 or >4 high-grade cores → very high, not high.
+
+GLEASON SCORING AND GRADE GROUPS
+ • Gleason system (1966): glandular architecture; score = dominant pattern + largest minority pattern;
+   patterns 1–5, 5 least differentiated.
+ • International Society of Urological Pathology (ISUP) 2005: patterns 1 and 2 abandoned → effective scale
+   6–10; several variants formerly pattern 3, and all cribriform patterns, reclassified as pattern 4.
+ • Grade migration: more 3+4 and 4+3 than in historical cohorts → better prognostic accuracy, but historical
+   and contemporary outcomes are not directly comparable; upward migration of former low-risk cancers
+   has opened surveillance to some Gleason 3+4 disease.
+ • Grade groups: proposed 2013, advocated by ISUP 2014 to communicate aggressiveness on a 1–5 scale;
+   correlation with prostate cancer–specific mortality validated.
+
+GLEASON SCORE TO GRADE GROUP
+ Grade group                         1                       2              3     4     5
+ Gleason score                       3+3 (≤6)                3+4            4+3   4+4   4+5, 5+4, 5+5
+
+Concept — The 2005 revision moved the boundary between patterns 3 and 4, so today's Gleason 6 is purer
+than the historical one — improving prognosis while invalidating naive comparison with older series.
+
+EPSTEIN CRITERIA
+ • Epstein criteria (1994) predict insignificant cancer — organ-confined (<pT3a), volume <0.5 mL, no high-
+   grade component:
+     ◦ PSA density <0.15 ng/mL/g
+     ◦ Gleason ≤6, no adverse biopsy pathology
+     ◦ <3 positive cores (of a six-core biopsy)
+     ◦ ≤50% cancer in any core
+ • Predictive accuracy 79%; revised 2004 with higher accuracy (up to ~84%). Among the most used tools for
+   selecting surveillance candidates.
+
+
+                                                             page 6 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                                                 Staging
+ • Caveat: validated on systematic biopsy before surgery; accuracy with saturation or MRI-targeted biopsy is
+   unclear; modified global grading has been proposed for MRI-targeted biopsy.
+ • Other biopsy correlates of aggressiveness and organ confinement: Gleason score; number of positive
+   cores; distribution and volume of cancer; perineural invasion; lymphovascular invasion; ductal, signet-ring
+   or neuroendocrine differentiation.
+
+STAGING
+ • Guidelines vary. Most support radionuclide bone scan for high-risk disease; those addressing soft tissue
+   endorse pelvic CT or MRI.
+ • NCCN: technetium-99m bone scan + CT or MRI for high-risk and unfavourable intermediate-risk patients
+   at high risk of occult metastasis (clinical parameters or nomograms). Equivocal bone scan → positron
+   emission tomography (PET)/CT or MRI.
+ • "Choosing Wisely": American Society of Clinical Oncology (ASCO) 2012 and AUA 2013 — reduce staging
+   imaging in low-risk disease. Compliance poor: low-risk over-imaged, high-risk paradoxically under-
+   imaged; guidelines lower inappropriate imaging but also appropriate imaging.
+
+CONVENTIONAL STAGING MODALITIES
+ Modality          Role                                     Strength                          Weakness
+ Bone scan         Standard for initial staging,            Easy to interpret, cost-effective, Low specificity → equivocal
+                   recurrence and metastatic                widely available                   results need further imaging;
+                   disease                                                                     yield depends on PSA, stage,
+                                                                                               Gleason
+ CT                Guideline-endorsed for nodal             Available                         Very limited local staging (poor
+                   staging; baseline in grossly                                               prostate–levator ani
+                   advanced local disease with                                                separation, poor intraprostatic
+                   hydronephrosis or retention                                                anatomy); cannot detect
+                                                                                              change in normal-sized (<10
+                                                                                              mm) nodes
+ MRI               Only examination accurate                High spatial and contrast         Modest sensitivity and poor
+                   enough for extraprostatic                resolution; high positive         negative predictive value
+                   extension (EPE) and seminal              predictive value (PPV) for EPE    (NPV) for EPE; poor for focal
+                   vesicle invasion (SVI)                                                     EPE
+
+MRI for EPE and SVI
+ • T2-weighted imaging (T2WI): best spatial resolution. Gross capsular extension or disruption is highly
+   predictive; subtle irregularity or bulging has low predictive value.
+ • Length of capsular contact improves prediction; adding diffusion-weighted imaging (DWI) or dynamic
+   contrast-enhanced (DCE) imaging improves subtle EPE detection by localising the dominant tumour —
+   though at lower spatial resolution.
+ • High PPV matters in high-risk surgery: knowing the EPE site helps reduce positive margins.
+ • SVI: T2-hypointense mass in the seminal vesicle, contiguous with tumour at the base; T2WI + DWI
+   improves accuracy; high sensitivity and very high specificity.
+ • EPE and SVI predict worse oncological outcome and early biochemical recurrence → counselling,
+   treatment selection and planning.
+
+
+
+
+                                                             page 7 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                                     PSMA PET in Staging
+
+PSMA PET IN STAGING
+ • PET uses radiolabelled biomolecules to detect metabolic activity or cancer-associated surface molecules;
+   fused with CT or MRI for localisation. Potential roles: surveillance selection and pre-treatment staging.
+ • Focus on prostate-specific membrane antigen (PSMA) PET for high-risk staging and detection of
+   recurrence.
+ • PSMA PET → greater sensitivity for metastasis than bone scan and CT, while retaining high specificity.
+
+PSMA LIGAND TRIALS IN HIGH-RISK STAGING
+                         proPSMA — gallium-68 (Ga-68) PSMA-11 PET-            18F-DCFPyL PET/CT (US Food and Drug
+                         CT                                                   Administration (FDA)-approved)
+ Design                  Prospective randomised; 302 high-risk; vs            Prospective multicentre phase II/III; 268 high-
+                         conventional imaging                                 risk before prostatectomy; vs CT/MRI
+ Sensitivity             85% vs 38%                                           40.3% vs 42.6% (similar); 60% for nodes >5
+                                                                              mm
+ Specificity             98% vs 91%                                           97.9% vs 65.1%
+ Other                   Accuracy 92% vs 65%; advantage held for              PPV 86.7% vs 28.3%; NPV 83.2% vs 77.8%; high
+                         nodal and distant disease; management                affinity for PSMA extracellular domain
+                         changed in 27% of conventional arm on
+                         crossover PSMA
+ Verdict                 Appropriate replacement for conventional             Approved on superior PPV; greatly improved
+                         imaging; limited US access                           US access
+
+Figure 158.2 — Performance of Ga-68 PSMA PET versus conventional imaging
+ • Area under the curve, specificity and sensitivity for any metastasis, pelvic nodal and distant disease all
+   favour PSMA PET-CT, and the advantage persists when equivocal lesions are counted as positive (Hofman
+   et al., Lancet 2020 — proPSMA).
+
+GUIDELINES ON MOLECULAR IMAGING IN HIGH-RISK DISEASE
+ AUA 2022                                                                   NCCN 2023
+ Molecular imaging for high-risk patients with no metastasis on             PSMA PET can be used instead of conventional
+ conventional imaging (an add-on)                                           imaging (a replacement)
+
+Concept — PSMA PET's decisive advantage is specificity and PPV, not detection of micrometastases: it
+confirms what it sees, but a negative scan cannot exclude small nodal disease.
+
+NOMOGRAMS FOR PREDICTION OF STAGE AND DISEASE OUTCOME
+ • Early PSA era: prognosis rested on PSA alone; recognition that Gleason and stage often diverged from PSA
+   → Partin tables (1993): PSA + Gleason + clinical stage → predicted pathological stage at RP.
+ • Partin tables: multi-institutional validation, accurate 72.4% of the time; generalisable across populations;
+   derived from Johns Hopkins RP experience and periodically updated.
+ • Later organ-confinement nomograms add age, digital rectal examination (DRE), PSA density or percentage
+   core involvement.
+
+RISK STRATIFICATION NOMOGRAMS
+ • Predict clinical outcomes after treatment — relapse and survival.
+
+
+
+
+                                                             page 8 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                                  Prostate MRI in Risk Assessment
+ • Other candidate variables (extent of cancer on biopsy, pre-diagnosis PSA velocity, PSA doubling time,
+   tertiary Gleason pattern) remain of uncertain value — not routinely collected.
+ • Further nomograms inform active surveillance, RP, neurovascular bundle preservation, omission of
+   pelvic lymph node dissection, brachytherapy and EBRT; postoperative nomograms (age, PSA,
+   pathological grade and stage) reassess biochemical progression-free survival and the likely success of
+   adjuvant or salvage radiation.
+
+NOMOGRAMS AND RISK SCORES COMPARED
+ Tool                         Inputs                                              Predicts                   Performance
+ Partin tables                PSA, Gleason, clinical stage                        Pathological stage at      Accurate 72.4%
+                                                                                  RP
+ Kattan nomogram              PSA, clinical stage, Gleason                        Relapse after RP           AUC 0.79
+ University of California, Age, PSA, clinical stage, biopsy Gleason,              Recurrence; later also 5-year recurrence-free
+ San Francisco–Cancer      % positive cores                                       cancer-specific        survival 85% (low) →
+ of the Prostate Risk                                                             mortality, independent 8% (high)
+ Assessment (UCSF-                                                                of treatment
+ CAPRA)
+
+FIGURE 158.3 UCSF-CAPRA SCORE: COX REGRESSION AND KAPLAN–MEIER RECURRENCE-FREE SURVIVAL (RFS)
+ CAPRA score                 0–1                    2                      3           4          5            6           ≥7
+ Hazard ratio                Reference              1.28 (NS)              2.36        2.38       3.32         7.11        17.38
+ 5-year RFS                  85%                    81%                    66%         59%        60%          34%         8%
+
+Source: Cooperberg et al., 2005.
+ • Pattern: score 2 is not significantly different from 0–1; 3–5 form a middle plateau; risk jumps sharply at
+   ≥6.
+Concept — Nomograms rest on the same three pillars — PSA, grade and stage; they differ chiefly in what
+they predict: pathological stage (Partin) or post-treatment outcome (Kattan, CAPRA).
+
+PROSTATE MRI IN RISK ASSESSMENT
+ • Prostate Imaging Reporting and Data System (PI-RADS) version 2: minimum technical standards and
+   structured reporting of suspicion for clinically significant cancer.
+ • PI-RADS score and apparent diffusion coefficient (ADC) on DWI correlate with outcome → usable for risk
+   stratification.
+ • Surveillance: tumour ADC may mark progression and identify those who will benefit from radical
+   treatment.
+ • Before treatment: ADC and PI-RADS predict biochemical recurrence after RP and radiation; MRI improves
+   post-EBRT nomograms; pretreatment MRI predicts recurrence after combined brachytherapy + EBRT in
+   intermediate- and high-risk disease.
+ • MRI EPE or SVI before RP predicts biochemical recurrence; substituting MRI for pathological EPE/SVI in
+   UCSF-CAPRA gives comparable performance — outcome prediction before surgery.
+ • With clinical parameters and biomarkers, MRI guides the need for repeat biopsy when biopsy and MRI
+   are discordant.
+Concept — MRI is moving from a detection tool to a prognostic variable: radiological EPE, SVI and ADC can
+stand in for pathology before any treatment.
+
+
+
+                                                             page 9 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                     Genomic Tests for Risk Stratification
+
+GENOMIC TESTS FOR RISK STRATIFICATION
+ • Clinical risk groups are reliable but heterogeneous; genomic tests add independent prognostic
+   information, best used alongside stage, Gleason and PSA.
+
+LIQUID VERSUS TISSUE BIOMARKERS
+ Liquid                                                    Tissue (from biopsy)
+ Minimal risk — avoid the infection and sepsis risk        Gold standard for representing the tumour environment
+ of transrectal biopsy
+ Prostate Health Index (PHI); 4Kscore; prostate            ConfirmMDx; Prolaris; Decipher; Oncotype DX Genomic Prostate
+ cancer antigen 3 (PCA3); Mi-Prostate Score;               Score — recommended by the Molecular Diagnostic Services
+ SelectMDx; ExoDx Prostate IntelliScore                    Program (coverage and reimbursement)
+
+GUIDELINES ON GENOMIC TESTING
+ Body                            Position
+ NCCN                            Consider in surveillance candidates with low or favourable intermediate risk and life
+                                 expectancy >10 years
+ AUA/ASTRO 2022 (SUO-            Not routinely for treatment choice or risk stratification; may be used where extra risk
+ endorsed)                       information guides surveillance decisions — high-volume Gleason 3+3 considering
+                                 treatment, or Gleason 3+4 considering surveillance; not appropriate in small-volume
+                                 low-risk disease
+ ASCO                            Similar to AUA
+
+ • Limitations: head-to-head comparisons with clinically relevant end points and cost are needed; results
+   depend on the tissue collected.
+ • Intraprostatic genetic heterogeneity has largely disproven the claim that any sampled focus predicts
+   behaviour; whether MRI-targeted sampling of the dominant focus helps is unproven.
+Concept — A genomic score describes only the focus sampled; intraprostatic heterogeneity is why guidelines
+confine these tests to borderline surveillance decisions.
+
+SELECTION OF TREATMENT: COMPARATIVE STUDIES
+Oncologic Outcomes
+ • High-quality comparative data are scarce; the Institute of Medicine placed localised prostate cancer
+   among the top 25 comparative-effectiveness priorities.
+ • Biochemical-free survival is a flawed end point:
+    1. Definitions vary widely.
+    2. PSA kinetics differ — radiation's cytotoxic effect lasts months to years and leaves prostatic PSA
+       sources.
+    3. ADT (common with high-risk radiation) delays biochemical progression.
+ • Cancer-specific and overall mortality are the most valid end points but need protracted follow-up;
+   enrolling low-risk or comorbid patients → non-oncological deaths obscure treatment effect.
+Comparative Population-Based Studies
+ • Swedish population data, the Cancer of the Prostate Strategic Urologic Research Endeavor (CaPSURE)
+   registry and several Surveillance, Epidemiology, and End Results (SEER) analyses → higher prostate
+   cancer–specific mortality after radiation than after RP, adjusted for age and risk.
+
+
+
+
+                                                            page 10 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                   Selection of Treatment: Comparative Studies
+ • Bias: historical preference for radiation in older, more comorbid, higher-risk men is incompletely captured;
+   selection, detection and confounding bias can yield results contradicting randomised trials.
+
+FIGURE 158.4 RADIOTHERAPY VERSUS RP: CANCER-SPECIFIC MORTALITY (PROPENSITY-ADJUSTED SUBDISTRIBUTION
+HAZARD RATIO, SHR)
+ Risk group                              sHR (radiotherapy vs RP)                       Interpretation
+ 1                                       1.91 (1.16–3.14)                               Favours RP
+ 2                                       1.77 (1.37–2.29)                               Favours RP
+ 3                                       1.50 (1.19–1.88)                               Favours RP
+ Non-metastatic (1–3)                    1.76 (1.49–2.08)                               Favours RP
+ 4 (metastatic)                          0.76 (0.49–1.19)                               No significant difference
+
+Source: Sooriakumaran et al., BMJ 2014. Substratified by age (<65 / ≥65) and Charlson score (0 / ≥1).
+ • Pattern: RP favoured throughout non-metastatic disease, most consistently in younger and comorbidity-
+   free subgroups — precisely those most exposed to selection bias.
+Scandinavian Prostate Cancer Group Study Number 4 (SPCG-4)
+ • RP versus watchful waiting; first randomised intention-to-treat comparison with overall and cancer-
+   specific survival end points; long follow-up; blinded pathology review.
+ • Limitation: pre-PSA era — nearly 90% of 695 men had palpable disease; does not reflect current practice.
+ • 23.2 years: deaths 200/347 (RP) vs 247/348; prostate cancer deaths 63 vs 99 → relative risk (RR) 0.56;
+   absolute difference 11.0 percentage points; number needed to treat 8.
+ • Greatest benefit: age <65 (RR 0.45) and intermediate risk (RR 0.38); older men → fewer metastases (RR
+   0.68).
+Prostate Cancer Intervention Versus Observation Trial (PIVOT)
+ • RP versus observation, PSA era; planned 2000 men, recruited only 731 (addressed by longer follow-up).
+ • 10 years: no difference in overall or prostate cancer mortality; no variation by age, race, performance
+   status or comorbidity; no benefit in low risk; RP reduced all-cause mortality with PSA >10 ng/mL and
+   approached significance in intermediate/high risk; bone metastases 4.7% vs 10.6%, more marked with
+   PSA >10 and intermediate/high risk.
+ • Limitations: underpowered (91% power for a 25% relative reduction only after reformulation; ~1200
+   needed); ~20% non-adherence; only 10% younger than 60; inclusion required life expectancy >10 years
+   yet ~40% dead at 10 years (≈5% from prostate cancer) and up to 60% at 15 years (~10% from prostate
+   cancer) → poor baseline selection.
+ • 19.5 years: absolute risk reduction (ARR) all-cause mortality 5.5% (61.3% vs 66.8%; P = 0.06, NS); prostate
+   cancer mortality ARR 4.0% (7.4% vs 11.4%; P = 0.06, NS); intermediate risk: all-cause ARR 14.5%
+   (significant); no benefit in low or high risk. RP reduced treatment for progression but increased
+   incontinence and erectile and sexual dysfunction.
+
+PIVOT SUBGROUP BENEFIT BY DATA CUT
+ Data cut Subgroup with all-cause mortality benefit                         Reason for difference
+ 10 years     PSA >10 ng/mL (intermediate/high risk approaching             Different follow-up; subgroup defined by PSA versus
+              significance)                                                 by risk group
+ 19.5         Intermediate risk only
+ years
+
+
+
+
+                                                            page 11 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                  Selection of Treatment: Comparative Studies
+Prostate Cancer Outcomes Study (PCOS)
+ • Population-based cohort, age 55–74, diagnosed 1994–1995; RP (1164) vs EBRT (491) within 1 year;
+   propensity-scored multivariable analysis.
+ • 15 years: 568 deaths, 104 from prostate cancer; RP → overall mortality HR 0.60, disease-specific HR 0.35
+   (P < 0.0001).
+ • Benefit greatest in younger, lower-risk men but also seen in older and high-risk men.
+ • Signs of selection bias: differences appeared as early as 3 years — inconsistent with the natural history of
+   early-stage disease; in low risk, overall but not cancer-specific mortality favoured RP → unrecorded
+   differences (volume, true stage, non-oncological mortality predictors).
+Prostate Testing for Cancer and Treatment (ProtecT)
+ • 1999–2009: 82,429 men aged 50–69 PSA-tested; 2664 diagnosed; 1643 randomised — active monitoring
+   545, surgery 553, radiotherapy + 3–6 months ADT 545. 62% of eligible men accepted randomisation;
+   mostly low–intermediate risk.
+ • Adherence: 88% monitoring, 71% prostatectomy, 74% radiation.
+ • 10 years (primary end point): no difference in prostate cancer mortality; metastases higher with
+   monitoring. Mortality ~1% against 15% predicted at design → reduced power.
+ • 15 years: prostate cancer mortality 2.7% (surveillance), 2.2% (surgery), 2.9% (radiation); P = 0.53; other-
+   cause death 21.7%; metastatic progression 6.3% overall.
+ • Surgery vs radiation: no difference in mortality, metastasis-free survival or ADT use at 15 years;
+   recurrence and secondary therapy not reported. Treated at age <65 → lower prostate cancer mortality
+   with surveillance or surgery than radiation; >65 → no difference surgery vs radiation.
+ • Population: 77% low risk; only 6% GG ≥3; 9.6% high risk (D'Amico); 2.5% high risk (UCSF-CAPRA) →
+   explains the low mortality.
+ • Half of all metastatic or locoregional progression occurred in the surveillance arm; surveillance patients
+   reaching prostatectomy showed high upgrading and adverse pathology → poor pre-MRI baseline risk
+   assessment.
+ • Verdict: initial surveillance in favourable-risk disease, including much favourable intermediate risk, does
+   not greatly affect prostate cancer mortality; extension to higher risk is unclear.
+
+PROTECT FIGURES THAT DIFFER BY REPORT
+ Endpoint                                10-year report           15-year report               Reason
+ Surveillance patients treated by 3      A quarter                30%                          Different data cut
+ years
+ Surveillance patients treated by        Over half                55%; 60% by 15 years         Different data cut
+ 10 years
+
+COMPARATIVE TRIALS AND COHORTS: ONCOLOGICAL OUTCOME
+ Study           Comparison                 Population                  Key result                      Verdict / caveat
+ SPCG-4          RP vs watchful             Pre-PSA; ~90%               Cancer death RR 0.56; NNT 8 Benefit in <65 and
+                 waiting (randomised)       palpable                    at 23 years                 intermediate risk; not
+                                                                                                    today's patients
+ PIVOT           RP vs observation          PSA era; older,             No mortality difference at 10 Benefit only
+                 (randomised)               comorbid                    years; NS at 19.5 years       intermediate risk;
+                                                                                                      underpowered
+
+
+
+
+                                                              page 12 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                  Selection of Treatment: Comparative Studies
+
+ Study           Comparison                 Population                 Key result                        Verdict / caveat
+ ProtecT         Monitoring vs RP vs Screen-detected,                  Cancer mortality ~2–3% in all More metastasis on
+                 RT+ADT (randomised) mostly low risk                   arms at 15 years              surveillance; <65
+                                                                                                     favours surgery over RT
+ PCOS            RP vs EBRT (cohort)        Age 55–74, 1994–95         Overall HR 0.60; disease-         Early divergence →
+                                                                       specific HR 0.35                  selection bias
+ Swedish,        RP vs radiation            Unselected                 Higher cancer mortality after Confounded by
+ CaPSURE,        (population)                                          radiation                     allocation bias
+ SEER
+
+Concept — Randomised comparisons with observation are diluted by competing mortality and low-risk
+enrolment, so benefit surfaces only in younger, intermediate-risk men with long follow-up; the consistent
+observational advantage of surgery over radiation is largely selection bias.
+
+Functional Outcomes
+ • With oncological differences controversial, quality of life drives the choice and must be discussed in
+   detail.
+ • Older comparisons came from single-institution centres of excellence (poor generalisability, selection
+   bias) or population datasets with inadequate fields, instruments and operator variability; large
+   comparative studies now exist (Table 158.2).
+
+TABLE 158.2 PROPENSITY-WEIGHTED PROSTATE CANCER SYMPTOM INDICES SCORES FOR SEXUAL, URINARY, AND
+BOWEL SYMPTOMS OVER TIME ACROSS DIFFERENT TREATMENT GROUPS AMONG PATIENTS WITH NEWLY
+DIAGNOSED PROSTATE CANCER
+ Domain                   EBRT                                Brachytherapy                        Radical prostatectomy
+ Sexual dysfunction       Worse at 3–12 months, below         Worse at 3–12 months, below          Meaningfully worse at 3 and
+                          meaningful threshold; near          threshold                            12 months (+36, +28); still
+                          active surveillance (AS) by 24                                           worse at 24 months
+                          months
+ Urinary                  No meaningful change                No meaningful change                 Meaningfully worse at 3, 12
+ incontinence                                                                                      and 24 months (+34, +18,
+                                                                                                   +15)
+ Urinary                  Meaningfully worse at 3             Worst acute effect:                  Slightly worse at 3 months;
+ obstruction/             months (+12); resolved by 12        meaningfully worse at 3              better than AS at 12–24
+ irritation               months                              months (+21); resolved by 24         months
+                                                              months
+ Bowel problems           Meaningfully worse at 3             No meaningful change                 No change
+                          months (+5); still worse at 24
+                          months
+
+Scores 0–100, higher = worse; figures are mean difference versus AS. Clinically meaningful = exceeding 0.5 standard deviation
+of the AS baseline score. Among AS patients, 18.7% were treated within 24 months. Source: Chen et al., JAMA 2017.
+ • What the table is for: each modality's signature domain and time course, measured against surveillance.
+ • Pattern: RP → incontinence and sexual dysfunction, early and persistent; EBRT → acute bowel and
+   irritative symptoms; brachytherapy → the most severe acute obstructive/irritative symptoms.
+ • Traps: brachytherapy, not EBRT, has the worst early urinary irritation; RP improves obstructive/irritative
+   scores by 1–2 years.
+
+
+
+
+                                                            page 13 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                  Selection of Treatment: Comparative Studies
+PCOS
+ • RP → more incontinence and erectile dysfunction at 2 and 5 years; less bowel urgency at 2 and 5 years;
+   no significant difference in any domain at 15 years.
+ • Convergence reflects decline in both groups: age, declining sexual interest or acceptance of dysfunction,
+   and additional cancer treatment.
+ProtecT
+ • Prostatectomy: greatest harm to sexual function and continence; partial recovery but worse than other
+   arms throughout.
+ • Radiotherapy: sexual function worst at 6 months, then partial recovery, stable below baseline; little effect
+   on continence; bowel function worse at 6 months then recovered, except increasing bloody stools;
+   voiding and nocturia worse at 6 months, equal by 12 months.
+ • Active monitoring: gradual decline in sexual and urinary function.
+ • No differences in anxiety, depression, or general or cancer-related quality of life.
+Comparative Effectiveness Analysis of Surgery and Radiation (CEASAR)
+ • Prospective population-based study, enrolled 2011–2012.
+ • Low risk: 3-year sexual function score 12 points better after EBRT than RP (52 vs 39); high risk: difference
+   not clinically significant; with a binary definition (erections firm enough for intercourse), no major
+   difference in any risk stratum.
+ • With AS added: RP → greater decline in sexual function and continence than EBRT or AS, but fewer
+   irritative symptoms than AS; no meaningful bowel or hormonal differences beyond 12 months.
+ • Erectile disadvantage of RP seen only in the highest quartile of baseline function; none in the remaining
+   three quartiles.
+
+FUNCTIONAL OUTCOME STUDIES COMPARED
+ Study            RP                                        Radiation                              Long-term
+ PCOS             More incontinence, erectile               More bowel urgency at 2–5 years        No difference at 15 years
+                  dysfunction at 2–5 years
+ ProtecT          Worst sexual function and                 Transient bowel, voiding and           No difference in anxiety,
+                  continence throughout                     sexual effects; rising bloody stools   depression or quality of life
+ CEASAR           Worse sexual function (low risk)          Better 3-year sexual scores in low     Difference confined to best
+                  and continence at 3 years                 risk                                   baseline function
+
+Open Versus Robotic Prostatectomy
+ • One randomised phase III trial: robotic-assisted laparoscopic and open RP → similar functional outcomes
+   at 12 weeks.
+ • Robotic surgery improves functional and oncological outcomes along a single surgeon's learning curve.
+ • Community data: similar recovery pattern over 3 years → patients should not expect different
+   oncological or quality-of-life outcomes by approach.
+ • Robotic surgery may ease identification of nerve-preservation planes and wider dissection in pT3 disease
+   — possibly surgeon bias.
+Concept — Surgery front-loads urinary and sexual harm that partly recovers; radiation spares early
+function but adds bowel toxicity and a slow cumulative decline — the curves converge by 15 years, so the
+choice is about when and where the patient accepts the harm.
+
+
+
+
+                                                            page 14 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer            Patient Counselling: A Stepwise Decision Approach
+
+PATIENT COUNSELLING: A STEPWISE DECISION APPROACH
+ • Many options and conflicting advice → confusion and anxiety; a menu of options lacks context because
+   the goals of the strategies diverge.
+ • A methodical, stepwise approach reduces confusion; the patient decides in which domain to accept risk
+   — oncological control and cancer mortality versus side effects and quality of life.
+
+FIGURE 158.5 PATIENT COUNSELLING IN LOCALISED PROSTATE CANCER: A STEPWISE DECISION APPROACH
+ Decision                        Inputs                                             Branches
+ 1. Treatment vs no              Disease: grade, stage, genomics, family            No treatment → observation (watchful
+ treatment                       history. Host: age, comorbidity, anticipated       waiting or AS)
+                                 longevity, preference
+ 2. Partial vs whole gland       Disease: grade, stage, focality, tumour size.      Partial → ablative therapy (mapping
+                                 Host: age, potency, urinary symptoms,              method, tumour location, energy source)
+                                 preference
+ 3. Surgery vs radiation vs      Shared decision-making: expected outcomes          → Decision 4
+ whole-gland ablation            and toxicities; impact on baseline quality of
+                                 life; risk of recurrence/secondary treatment
+ 4. Specific treatment           Surgery: robotic vs open; lymph node               Also applies to ablative therapy
+                                 dissection; choice of surgeon. Radiation:
+                                 external vs interstitial; fractionation; use of
+                                 ADT
+
+Decision One: Observation Versus Active Treatment
+ • The most important decision; requires risk stratification, education and informed shared decision-making.
+
+ACTIVE SURVEILLANCE VERSUS OBSERVATION
+                         Active surveillance                                   Observation (watchful waiting)
+ Method                  Active monitoring by repeated testing                 Passive monitoring for symptomatic
+                                                                               progression
+ Goal                    Defer treatment until clear need; curative            Avoid treatment; accept risk of progression
+                         intent retained                                       and death
+ Candidate               Good longevity, few comorbidities, low clinical       Low risk of cancer death because of competing
+                         risk                                                  risks and long lead time
+ Follow-up               Scheduled PSA, biopsy, imaging; adherence             Periodic PSA, examination, selective imaging
+                         essential
+ Treatment trigger       Predetermined signs of progression → curative Symptoms or extensive metastasis → ADT
+                         therapy                                       mainstay; palliative radiotherapy/surgery for
+                                                                       disease refractory to systemic therapy
+
+ • In practice many are monitored by a mixture without a clear goal; there is no consensus on optimal
+   monitoring.
+ • Surveillance safety is well shown long-term, but patients must accept uncertainty in exchange for quality
+   of life, adhere to follow-up and accept treatment at progression; anxiety → consider treatment.
+ • Intermediate- or high-risk disease → strongly discourage surveillance, though age and comorbidity may
+   permit it.
+ • AUA, ASTRO, SUO and NCCN endorse surveillance in low risk, and its use is rising: best option for very
+   low risk; preferable for most low risk.
+
+
+
+                                                            page 15 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer               Patient Counselling: A Stepwise Decision Approach
+ • Limitations: 25–45% occult high-grade cancer in low-grade disease on systematic biopsy; no consensus
+   on monitoring; declining adherence; unclear intervention triggers.
+ • Outcomes remain favourable because most occult upgrading is to GG2 (3+4), of low metastatic potential
+   in the first decade → interest in low-volume GG2 surveillance, tempered because any pattern 4 raises
+   eventual metastatic risk.
+ • ProtecT at 15 years (mostly low or favourable intermediate risk): no mortality difference despite more
+   metastasis → deferral relatively safe in favourable risk.
+ • Goals of surveillance: candidate selection → monitoring for progression → judicious treatment.
+ • Refining selection: MRI and MRI-targeted biopsy now in many algorithms; most guidelines use MRI
+   selectively, but the National Institute for Health and Care Excellence (NICE) mandates MRI for all
+   surveillance patients. Genomic testing informs occult adverse pathology and progression; high MRI or
+   genomic scores → upgrading on biopsy.
+ • Predictors of reclassification: core cancer density and PSA density >0.15; Black race and age do not
+   predict it.
+
+INCLUSIVE (TORONTO) VERSUS RESTRICTIVE (JOHNS HOPKINS) SURVEILLANCE
+                         Toronto — inclusive                                    Johns Hopkins — restrictive
+ Entry                   All low risk + selected intermediate risk              Epstein criteria: Gleason 6, ≤2 positive cores,
+                         (Gleason 7 or PSA >10)                                 no core >50%, PSA density <0.15
+ 15-year cancer          5.7% (actuarial); mature cohort 1.5%                   0.6%
+ mortality
+ Treatment rate          25%, 36%, 45% at 5, 10, 15 years                       50%, 57% at 10, 15 years (grade progression
+                                                                                26%, 31%)
+ Other                   Median follow-up 9 years: non-prostate death           Stricter entry yet higher treatment rate
+                         10× prostate cancer death; 15% dead by 15
+                         years; 2.8% metastasis; most metastatic cases
+                         were Gleason 7 at diagnosis
+
+ • Emerging consensus: the right strategy lies between the two extremes.
+ • Death on surveillance is mostly cardiovascular, rarely prostate cancer.
+ • Benefit of treating PSA progression alone is unclear; outcomes support safety, but high treatment rates
+   demand adherence.
+
+TABLE 158.3 SELECTION CRITERIA FOR ACTIVE SURVEILLANCE
+ Programme                       Clinical stage    PSA                 Biopsy Gleason        PSA density             Positive cores
+ University of Toronto           T1c/T2a           ≤10–15 ng/mL        ≤3+3=6                —                       —
+ Prostate Cancer Research        T1c/T2a           ≤10 ng/mL           ≤3+3=6                ≤0.2 ng/mL/cm³          ≤2
+ International Active
+ Surveillance (PRIAS)
+ Johns Hopkins                   T1c only          —                   ≤3+3=6                ≤0.15 ng/mL/cm³         ≤2
+ Canary Collaboration            T1/T2             Any                 ≤7                    Any                     Any
+
+Sources: Klotz et al., 2015 (Toronto); Bokhorst et al., 2015 (PRIAS); Tosoian et al., 2015 (Johns Hopkins); Newcomb et al., 2016
+(Canary).
+ • Pattern: strictness Hopkins > PRIAS > Toronto > Canary; only Canary admits Gleason 7; only PRIAS and
+   Hopkins use PSA density.
+ • Trap: Hopkins is the only programme restricted to T1c.
+
+
+                                                            page 16 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer            Patient Counselling: A Stepwise Decision Approach
+Method of surveillance
+ • Serial annual biopsy (traditional) detects occult high grade and progression but cannot distinguish them.
+ • Confirmatory biopsy within 6–12 months of diagnosis in most protocols; later frequency varies;
+   modelling shows less frequent biopsy only slightly delays detection while greatly reducing biopsies.
+ • PRIAS (increasingly used, especially in Europe): periodic PSA with less frequent biopsy; PSA doubling time
+   (PSADT) triggers biopsy or intervention.
+ • MRI-led monitoring, biopsy only on clinical or radiological progression → still investigational.
+
+TABLE 158.4 NATIONAL ACTIVE SURVEILLANCE GUIDELINES
+ Body        Low risk                         Intermediate risk        Monitoring                        Other tests
+ ASCO        AS preferred                     Active treatment;        PSA every 3–6 months; DRE         Other tests
+                                              AS for select            annually; systematic biopsy       investigational
+                                              patients                 within 6–12 months, then
+                                                                       every 3–5 years
+ NCCN        Very low: AS preferred.          AS and all               PSA no more often than every      Confirmatory testing
+             Low: AS preferred for most;      therapies are            6 months unless indicated;        within 6–12 months
+             all therapies are options        options                  biopsy no more often than         strongly
+                                                                       annually                          recommended
+ AUA         Very low and low: AS             Active treatment;        Serial PSA and repeat biopsy      MRI augments, does
+             preferred                        AS for select                                              not replace,
+                                              patients                                                   surveillance biopsy
+ NICE        AS preferred                     AS or active             MRI at 12–18 months               Concern over clinical
+                                              treatment                                                  or PSA change → MRI
+                                                                                                         and/or rebiopsy
+
+Sources: Bekelman et al., 2018 (ASCO); Schaeffer et al., 2023 (NCCN); Eastham et al., 2022 (AUA); NICE NG131.
+ • Pattern: all agree on surveillance for low risk; they diverge on intermediate risk (NCCN most permissive)
+   and on MRI (NICE MRI-led; AUA MRI as adjunct to biopsy).
+Concept — Surveillance is deferral, not avoidance: its safety depends on accurate entry selection and
+adherence, which is why entry criteria, MRI and confirmatory biopsy dominate the debate.
+
+Decision Two: Partial-Gland Versus Whole-Gland Treatment
+ • Offered where focal therapy is available — typically thermal ablation. Selection is controversial but
+   usually requires unifocal or limited-focality cancer with spatial concordance between imaging and
+   biopsy.
+ • Counselling: investigational; no long-term follow-up; possible retreatment; worse outcomes if
+   conventional salvage therapy is later needed. Ideally within a clinical trial.
+ • Selection by transperineal template mapping biopsy or by imaging. High risk: consensus against (no long-
+   term locoregional control data). Low risk (usually suited to surveillance): no consensus. Most favour
+   intermediate-risk, limited-focality disease. A joint FDA, SUO and AUA workshop addressed trial design,
+   end points and selection.
+ • Unilateral disease on systematic biopsy is usually not unilateral at prostatectomy; low-risk clinical
+   features do not improve prediction. Template mapping better shows multifocality (optimal template
+   undecided); MRI-targeted biopsy improves selection, accepting untreated indolent foci.
+ • Index lesion hypothesis: the dominant tumour — generally the largest focus with the highest Gleason
+   score, most likely MRI-visible — drives metastasis and lethality. Untested long term, yet used to justify
+
+
+
+
+                                                             page 17 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer           Patient Counselling: A Stepwise Decision Approach
+   leaving low-grade secondary and tertiary foci untreated → high likelihood of residual cancer; long-term
+   efficacy and survival impact unknown.
+Concept — Focal therapy rests on the untested index-lesion hypothesis, which is why it is confined to limited-
+focality intermediate-risk disease and, ideally, to trials.
+
+Decision Three: Surgery Versus Radiation Versus Whole-Gland Ablation
+ • Whole-gland ablation shares focal therapy's problems: little long-term data, frequent retreatment, and
+   salvage surgery complicated by periprostatic fibrosis. Its attraction is preservation of sexual and urinary
+   function.
+
+WHOLE-GLAND CRYOABLATION VERSUS HIGH-INTENSITY FOCUSED ULTRASOUND (HIFU)
+ Cryoablation                HIFU
+ Erectile dysfunction        Function preservation more common, varying with aggressiveness and oncological efficacy;
+ almost always               retreatment 29–38%, with more erectile dysfunction and stricture after a second treatment
+
+ • Most whole-gland decisions are surgery versus radiation: assess longevity, baseline function and goals.
+   Radical-therapy patients prioritise durable cancer control; risk models inform efficacy and the likelihood
+   of secondary or multimodal treatment; longevity is most important for discussing durability.
+ • ProtecT 15 years: no difference in mortality or metastasis between surgery and radiation; recurrence
+   differences less clear; treatment before 65 → lower prostate cancer mortality with surgery than
+   radiation. Unless the patient lives a very long time, surgery's perceived durability may not change
+   longevity.
+ • Radiation forms share broadly comparable side-effect profiles; oncological outcomes are relatively
+   equivalent at 10 years; the choice mostly rests on which anticipated side effects the patient finds most
+   tolerable.
+
+COUNSELLING FOR SURGERY VERSUS RADIATION
+ Surgery                                                           Radiation
+ Early incontinence and impotence are the norm →                   Avoids short-term urinary and sexual effects
+ prepare the patient to avoid decisional regret; give a
+ realistic recovery timeline and plan
+ Quote surgeon-specific outcomes — results are highly              Incremental yearly decline in urinary and sexual function
+ surgeon-dependent                                                 beyond the matched population
+ Significant baseline obstructive/irritative symptoms →            Secondary rectal and bladder malignancy at 15–20 years
+ may benefit despite early urinary deterioration                   (controversial)
+ Limited 15–20-year data → counsel younger men within              Intermediate/high risk → concomitant ADT, which drives
+ their estimated longevity                                         much early toxicity; caution young patients about long-
+                                                                   term recurrence and toxicity
+
+Concept — Surgery versus radiation is a trade in the timing of harm — early, partly recoverable functional
+loss against avoided early harm but cumulative late toxicity — which is why the young patient's longevity tips
+the balance.
+
+Decision Four: Type of Treatment Delivery
+ • Best discussed by a specialist experienced in that modality.
+ • Surgery: open versus robotic-assisted laparoscopic approach, chosen by the surgeon's experience and
+   comfort.
+
+
+
+
+                                                            page 18 of 19
+Chapter 158 — Active Management Strategies for Localised Prostate Cancer                             Conclusion
+ • Radiation options: EBRT (intensity-modulated, image-guided and/or three-dimensional conformal);
+   interstitial (permanent seed implants or high-dose-rate temporary insertion); stereotactic body
+   radiotherapy; proton therapy; combinations; conventional or hypofractionated schedules.
+ • Concern that counselling is biased by financial incentives and physician bias.
+
+CONCLUSION
+ • Active management depends on evaluation of both the cancer and the host: relative risk of progression,
+   metastasis and cancer death framed against competing mortality and expected longevity.
+ • Cancer risk: biopsy pathology, image-based staging, MRI, genomic markers — combined in validated
+   nomograms or risk scores. Longevity: age, comorbidity and standardised scales.
+ • Because treatments are many and their goals divergent, a stepwise decision-tree approach simplifies
+   counselling, informs decisions and reduces decisional regret.
+
+ KEY POINTS
+   • Individualised assessment of prostate cancer mortality risk against competing risks of death over time.
+   • Modality selection by shared decision-making: risks and benefits, host factors and patient preference.
+   • Baseline urinary, bowel and sexual function determine the quality-of-life benefit and risk of each
+     treatment.
+   • Longevity assessment may be the most important part of counselling, given competing risks and the
+     safety of deferral in most favourable- and intermediate-risk cancers.
+   • Mortality risk is assessed with biopsy pathology, genomic testing, imaging and nomograms.
+   • A methodical stepwise approach to the patient and the options reduces confusion and anxiety.
+
+
+
+
+                                                            page 19 of 19
+

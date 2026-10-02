@@ -1,0 +1,1089 @@
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND
+
+Chapter 161 — Laparoscopic and Robotic-Assisted
+Laparoscopic Radical Prostatectomy and Pelvic
+Lymphadenectomy
+EVOLUTION OF MINIMALLY INVASIVE LAPAROSCOPIC PROSTATECTOMY
+ • Anatomic foundations (late 1970s–early 1980s): cadaveric studies defined the dorsal venous complex
+   (DVC), the neurovascular bundle (NVB; Walsh and Donker, 1982) and the striated urethral sphincter →
+   anatomic, nerve-sparing open radical prostatectomy with markedly reduced morbidity; it remained the
+   standard for localised disease for over two decades.
+ • First laparoscopic radical prostatectomy (LRP): Schuessler, 1997 → very long operating times and
+   prolonged stay; cure appeared comparable to open surgery but no advantage could be shown, so LRP
+   was not adopted.
+ • Revival (2000): two French centres published a stepwise, reproducible and teachable technique →
+   acceptable operating times and positive margin rates; worldwide uptake followed, but laparoscopic
+   suturing of the vesicourethral anastomosis remained the skill barrier.
+ • Robotic assistance was adopted largely to overcome that barrier. The da Vinci Surgical System became
+   dominant in urology through:
+     ◦ wristed (EndoWrist) instruments reproducing the dexterity of the human wrist;
+     ◦ 10× magnified, three-dimensional stereo-endoscopic view, versus the two-dimensional view of
+       conventional laparoscopy.
+DA VINCI PLATFORM GENERATIONS
+
+ Platform          Year                       Distinguishing feature
+ First             2000 (United States        Three arms: two instrument arms + one camera arm
+ generation        launch)
+ da Vinci S        2006                       High-definition image; fourth arm for grasping and retraction
+ da Vinci Si HD    2009                       Dual surgeon consoles → two surgeons operate simultaneously; efficiency
+                                              and training
+ da Vinci Xi HD    2014                       Multiquadrant and simpler single-quadrant surgery; side docking; no hip
+                                              flexion needed to dock
+ da Vinci SP       2018                       Single port: all instruments through one 2.5-cm cannula
+
+ • Pattern across rows: each generation added one capability — image quality, a fourth arm, a second
+   console, docking flexibility, then a single incision.
+ • Robotic-assisted laparoscopic radical prostatectomy (RALRP) has grown rapidly since 2000 and is now
+   the dominant surgical approach in the United States and in parts of Europe and Asia; LRP remains
+   common where robotic penetrance is low.
+ • Unresolved questions: relative oncologic and functional merits versus open surgery, weighed against
+   equipment cost and the learning curve for surgeon and team.
+Concept — The robot did not change the operation; it removed the laparoscopic suturing barrier, which is
+why RALRP spread where LRP had stalled.
+
+
+
+
+                                                            page 1 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                                Patient Selection
+
+PATIENT SELECTION
+Indications and Contraindications
+ • Indications identical to open surgery: clinically localised cancer — cT1–T2, or cT3 still amenable to
+   extirpation with a wide resection.
+ • Staging imaging is risk-stratified (2022 American Urological Association/American Society for Radiation
+   Oncology [AUA/ASTRO] Clinically Localized Prostate Cancer guideline):
+     ◦ High risk → cross-sectional pelvic imaging (computed tomography [CT] or magnetic resonance imaging
+       [MRI]) and bone scan: obtain.
+     ◦ Unfavourable intermediate risk → consider the same.
+     ◦ Prostate-specific membrane antigen positron emission tomography (PSMA PET)-CT → consider in
+       high risk for metastasis with negative conventional imaging.
+CONTRAINDICATIONS TO MINIMALLY INVASIVE PROSTATECTOMY
+
+ Absolute                                       Relative (technical challenge, not contraindication)
+ Uncorrectable bleeding diathesis               Neoadjuvant hormonal therapy (distorted planes)
+ Unfit for general anaesthesia (severe          Prior complex lower abdominal/pelvic surgery (partial colectomy, inguinal
+ cardiopulmonary compromise)                    mesh herniorrhaphy)
+                                                Morbid obesity; large prostate (>80 g); median lobe; prior transurethral
+                                                resection of the prostate (TURP); salvage after radiotherapy or ablation
+
+ • What the table tests: only two things make the operation impossible — bleeding that cannot be
+   corrected and inability to tolerate general anaesthesia. Everything else is difficulty, to be avoided early in
+   a surgeon's experience.
+ • Prior laparoscopic extraperitoneal mesh herniorrhaphy → prefer transperitoneal; dense retropubic
+   adhesions make extraperitoneal access to the space of Retzius difficult.
+Morbid obesity.
+ • Risks: compression nerve injury (extra padding) and respiratory compromise in steep Trendelenburg
+   (close communication with anaesthesia once pneumoperitoneum is established).
+ • Technical constraints: limited working space, trocar size and instrument length.
+ • Modifications: extra-long (16 cm) trocars; trocars 1–2 cm more cephalad (better angle to the apex, less
+   collision with the pubic symphysis); divide the urachus more cephalad (removes hanging fat); lower
+   pneumoperitoneum to 10 mm Hg with deeper trocar insertion to reach the apex and anastomosis.
+ • Bottom line: experienced surgeons achieve adequate operative, functional and oncologic outcomes.
+Large prostate (>80 g) and median lobe.
+ • Challenges: gland fills the pelvis → little working space and poor manoeuvrability; median lobe
+   complicates posterior bladder neck division near the ureteric orifices and may need extensive bladder
+   neck reconstruction; wider DVC, wider and more vascular pedicles; NVB displaced posteriorly.
+ • Review preoperative imaging (transrectal ultrasound, CT or MRI) to anticipate a large gland, median lobe
+   or bladder stones.
+ • Outcome: longer operating time and more blood loss, but long-term continence comparable to smaller
+   glands.
+Prior TURP.
+ • Identify the ureteric orifices before the posterior bladder neck dissection; the prostate–bladder neck
+   plane is often distorted.
+
+
+                                                            page 2 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                      Patient Selection
+ • Oncologic and functional outcomes may be worse than in primary cases.
+Salvage surgery (after radiation, brachytherapy, cryotherapy or high-intensity focused ultrasound [HIFU]).
+ • Feasible in selected patients, but periprostatic fibrosis obliterates the prostate–rectum plane → higher
+   risk of rectal injury.
+ • Requires full bowel preparation and counselling on rectal injury, possible colonic diversion, and higher
+   rates of impotence and incontinence than primary surgery.
+
+Use of Preoperative Multiparametric Magnetic Resonance Imaging
+ • Multiparametric MRI (mpMRI) for local staging: high specificity (0.88), low sensitivity (0.61).
+ • Reader dependent — a dedicated reader improves prediction of adverse pathology.
+ • Added to clinical risk tools → better prediction of extracapsular extension (ECE) → sharper counselling
+   on the balance of cancer control versus function.
+ • Surgical planning: guides the extent of NVB preservation; capsular effacement by a suspicious lesion →
+   tailored wider resection or intraoperative frozen section → fewer positive margins, even in high risk.
+ • Not proven necessary in every patient, but review it when available.
+Concept — Selection turns on difficulty, not eligibility: indications are the same as open surgery, and nearly
+every adverse feature is a relative contraindication that experience overcomes.
+
+PREOPERATIVE PREPARATION
+Patient Preparation
+ • No routine formal bowel preparation; magnesium citrate plus a Fleet enema is optional to empty the
+   rectum for visibility and in case of rectal injury.
+ • Prophylactic antibiotic before incision, covering enteric gram-negative bacilli (e.g. cefazolin); positive
+   preoperative urine culture → targeted treatment.
+ • Low-dose aspirin may be continued; other antithrombotics are withheld for the appropriate interval.
+
+Informed Consent
+ • Specific to minimally invasive surgery: conversion to open surgery; general anaesthesia is mandatory
+   (cannot be done under regional anaesthesia).
+ • Shared with open surgery: bleeding, transfusion, infection, impotence, incontinence, incisional hernia,
+   lymphocele, injury to ureter, rectum, bladder or small bowel.
+ • The surgeon discloses personal experience and gives an individualised forecast of cancer control and
+   function.
+ • Baseline validated questionnaires: Sexual Health Inventory for Men (SHIM) and International Prostate
+   Symptom Score (IPSS).
+
+Operating Room Personnel
+ • Whole team trained in the equipment, setup and steps: scrub technician, circulating nurse, assistant(s).
+ • One skilled assistant usually suffices; for RALRP the assistant must know basic laparoscopy and robot
+   setup and troubleshooting.
+ • Anaesthetist familiar with prolonged pneumoperitoneum is vital.
+ • Room layout (Fig. 161.1): RALRP — separate surgeon console, one bedside assistant; LRP — surgeon at
+   the table, first assistant, optional second assistant and optional AESOP robotic camera holder.
+
+
+
+
+                                                            page 3 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND            Preoperative Preparation
+Patient Positioning
+Sequence: general endotracheal anaesthesia → arms tucked and padded (egg-crate; protects median and
+ulnar nerves; Fig. 161.2) → sequential compression devices on → legs in low lithotomy or split-leg table (Xi
+side-docking: modified supine, "frog-leg") → chest strapped with tape and egg-crate against sliding → check
+chest compliance with anaesthesia → orogastric tube and urethral catheter.
+ • Avoid fixed shoulder rests → shoulder and brachial plexus compression in steep Trendelenburg.
+ • Hip flexion: older platforms needed slight flexion to dock; Xi does not. Exaggerated flexion → femoral
+   neuropraxia.
+ • Take a history of prior injuries and pad hips, shoulders, knees and calves.
+
+Anaesthesia Considerations
+ • Effects span musculoskeletal, intravascular, acid–base, ocular, respiratory and neurological systems →
+   work with a consistent anaesthesia team, especially early.
+ • Secure oximetry, blood pressure cuff and intravenous access before final positioning — the arms are
+   inaccessible afterwards.
+ • Carbon dioxide (CO2) pneumoperitoneum: initial vagal response, oliguria, hypercarbia → uncorrected,
+   systemic acidosis. Response: anaesthetist raises minute and tidal volumes; surgeon lowers insufflation
+   pressure. Worse with the long operating times of early experience.
+ • Fluid management: urine output is unreliable (oliguria; bladder open) and excess urine obscures the field
+   → typically 1.5–2 L crystalloid, mostly after the anastomosis; further fluid matched to blood and
+   insensible losses.
+ • Steep Trendelenburg: facial, orbital, pulmonary and laryngeal oedema; raised intraocular pressure (no
+   apparent long-term consequence in healthy patients); risk of corneal oedema and abrasion → lubricate
+   and protect eyes. Marked facial or orbital oedema → suspect laryngeal oedema → consider delaying
+   extubation.
+Concept — Almost every preparation step answers one of two stresses — prolonged CO2
+pneumoperitoneum and steep head-down tilt with inaccessible limbs — so access, padding and
+communication must be settled before the patient is tipped.
+
+ KEY POINTS: PATIENT SELECTION, INSTRUMENTATION AND PREOPERATIVE PREPARATION
+   • Avoid complex anatomy early in the learning curve (large gland, median lobe, morbid obesity, prior
+     pelvic surgery, post-radiation, post-TURP) — none is an absolute contraindication.
+   • mpMRI informs ECE risk and so the balance of cancer control against NVB preservation.
+   • A skilled bedside assistant trained in the robot improves efficiency.
+   • Surgeon and anaesthetist anticipate hypercarbia and acidosis, corneal oedema, raised intraocular
+     pressure and neurapraxia.
+
+
+INSTRUMENTATION
+ • Depends on approach and, for RALRP, on a three- versus four-arm robot.
+ • LRP camera control: AESOP 3000 robotic arm (hand, voice or foot control) or a human assistant.
+ • RALRP (S, Si, Xi): four arms, one being the stereo-endoscope. Start with a 0° lens; left arm grasper
+   (Maryland bipolar or plasma kinetic dissector), right arm curved monopolar scissors, fourth arm ProGrasp
+   (large atraumatic retractor). The surgeon toggles control between any two of the three working arms.
+
+
+
+                                                            page 4 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                                Instrumentation
+BOX 161.1 SUGGESTED INSTRUMENTATION FOR LAPAROSCOPIC AND ROBOTIC-ASSISTED LAPAROSCOPIC RADICAL
+PROSTATECTOMY
+
+ Item                   LRP                                                      RALRP
+ Camera                 10-mm 0° and 30° laparoscopes; AESOP 3000                Robotic endoscope, 0° and 30°
+                        (optional)
+ Dissection / energy Monopolar scissors; monopolar hook; bipolar                 EndoWrist Maryland bipolar or PK
+                     forceps; ultrasonic shears; Maryland dissector              dissector; curved monopolar scissors
+ Retraction             Assistant                                                EndoWrist ProGrasp
+ Suturing               Laparoscopic needle drivers ×2                           EndoWrist large needle drivers ×2
+ Access                 Veress needle; 5-mm trocars ×3; 12-mm trocars ×2         12-mm trocars ×2; 8-mm metal robotic
+                                                                                 trocars (×3 with fourth arm)
+ Other                  Suction–irrigator; 20-Fr van Buren sound; 18-Fr          18-Fr catheter
+                        catheter
+ Clips                  Small and medium-large Hem-o-lok clips (both)
+ DVC suture             0 polyglactin (GS21)                                     0 polydioxanone
+ Posterior              2-0 polydioxanone (both)
+ reconstruction
+ Anastomosis            3-0 poliglecaprone (Monocryl), double-armed (both)
+
+ • What the box shows: the two kits differ in camera control, retraction and access (LRP relies on assistants
+   and laparoscopic ports; RALRP on EndoWrist instruments and 8-mm robotic trocars). Sutures and clips are
+   almost identical — the reconstruction is the same operation.
+ • Trap: the DVC suture differs — polyglactin for LRP, polydioxanone for RALRP.
+
+SURGICAL TECHNIQUE
+Robotic-Assisted Versus Pure Laparoscopic Approach
+ • Principles of dissection are the same for LRP and RALRP; the description centres on RALRP using the
+   multiport platform.
+ • da Vinci = master–slave system with three components: patient-side cart, surgeon console, video cart.
+ • Bedside assistant and scrub technician: dock and undock; the assistant gives suction–irrigation,
+   retraction, passes sutures and changes instruments.
+ • Surgeon console: three-dimensional, 10×, high-definition view; full control of the camera and three
+   instrument arms; finger-loop master controls replicate hand and wrist movements in real time.
+da Vinci SP (single port).
+ • All instruments through one 2.5-cm cannula; can be seated in an access system (e.g. GelPOINT) so
+   instruments "float" outside the skin and articulate almost at once → larger working range.
+ • Learning curve even for experts: 7 degrees of freedom achieved by a different mechanism from Xi.
+ • Limited bedside assistance (compact trocar) → solutions: remotely operated suction–irrigation (ROSI)
+   controlled by surgeon foot pedal, or an extra assistant trocar ("SP + 1").
+ • Better dexterity and vision than laparoscopy with fewer incisions; same dissection principles.
+ • Expert laparoscopists may find the robot unnecessary; for most surgeons it eases the anastomosis and
+   the critical angles for NVB preservation.
+
+
+
+
+                                                            page 5 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                                  Surgical Technique
+Transperitoneal Approach
+ • Favoured by most surgeons: more working space, familiar landmarks.
+TRANSPERITONEAL ANTERIOR VERSUS TRANSPERITONEAL RETROVESICAL APPROACH
+
+                        Anterior (commonest)                           Retrovesical (posterior)
+ First step             Enter the space of Retzius immediately         Dissect seminal vesicles and vasa behind the bladder,
+                                                                       in the cul-de-sac
+ Seminal vesicles /     Dissected after bladder neck division,         Dissected first, lateral → medial toward the
+ vasa                   from in front                                  ejaculatory ducts
+ Best suited            Routine cases                                  Median lobe (lobe, urine and blood obscure vesicles
+                                                                       from the front)
+
+Abdominal Access, Insufflation, and Trocar Placement
+ • Access: Veress needle at the base of the umbilicus or open Hasson technique; consider the site and
+   nature of prior surgery. Left upper quadrant is often safe with midline scars. The authors enter with a
+   visual obturator after insufflation.
+ • Adhesions: an offset working laparoscope through one trocar clears space for further trocars; the robot
+   then clears the rest.
+ • Insufflation 12–15 mm Hg; steep Trendelenburg; secondary trocars under vision.
+ • RALRP configuration (Fig. 161.3A): camera trocar (12 mm for S/Si; 8 mm for Xi) just below or above the
+   umbilicus, 15–17 cm from the pubic symphysis; three 8-mm robotic trocars; assistant 12-mm and 5-mm
+   trocars on the patient's right.
+ • Camera: surgeon moves it by foot pedal plus arm movements. 0° throughout for most; some switch to
+   30° down for the bladder neck, NVBs and apex, especially in obesity, large glands, prior TURP or a narrow
+   pelvis. Xi flips 30° up/down from the console.
+ • LRP configuration (Fig. 161.3B): surgeon on the patient's left using the two pararectus trocars; one or
+   two assistants use the lateral trocars; camera held by assistant or AESOP.
+
+Extraperitoneal Approach
+Sequence: 1.5-cm infraumbilical incision → through anterior rectus sheath → finger dissection anterior to
+the posterior rectus sheath and peritoneum → trocar-mounted balloon dilator advanced to the pubis in the
+midline → about 500 mL of air under 0° vision develops the space of Retzius (Fig. 161.4) → secondary trocars
+→ proceed as for the anterior approach.
+
+Pros and Cons of Extraperitoneal Versus Transperitoneal Approach
+EXTRAPERITONEAL VERSUS TRANSPERITONEAL ACCESS
+
+                                  Extraperitoneal                                                       Transperitoneal
+ Working space                    Smaller; collapses with vigorous suction (less so with high-flow      Larger; familiar
+                                  insufflators such as AirSeal)                                         landmarks
+ Bowel                            Peritoneum is a barrier → less bowel injury, bowel does not fall      Bowel exposed
+                                  into field; less ileus, earlier diet in some series
+ Trendelenburg                    May avoid steep tilt → suits obesity or pulmonary compromise          Steep tilt needed
+ CO2 absorption                   Higher → more hypercarbia and acidosis; higher minute volume          Lower
+ Prior extraperitoneal mesh       Difficult (retropubic space obliterated)                              Preferred
+ hernia repair
+
+
+
+
+                                                            page 6 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                           Surgical Technique
+
+                                  Extraperitoneal                                                 Transperitoneal
+ Preferred for                    Extensive prior abdominal surgery; morbid obesity               Most surgeons, most
+                                                                                                  cases
+
+ • Evidence: early retrospective series favoured extraperitoneal LRP for operating time (saved at access to
+   Retzius), diet, stay and early continence; most studies show little or no difference.
+ • Verdict: surgeon preference; no consistent advantage; be proficient in both.
+ • Trap: the peritoneum-intact approach protects bowel but costs space and absorbs more CO2.
+
+Developing the Space of Retzius
+Sequence: inspect pelvis (Fig. 161.5) → sharply release sigmoid adhesions to the left pelvic side wall →
+divide the urachus high and incise peritoneum just lateral to the medial umbilical ligaments (cauterise
+obliterated umbilical vessels) → prevesical fatty alveolar tissue confirms the plane → posterior-cephalad
+traction on the urachus; blunt and sharp dissection of the avascular retropubic space (Fig. 161.6) → lateral
+bladder mobilisation down to where the medial umbilical ligament crosses the vas (tension-free
+anastomosis later) → defat the anterior prostate; bipolar coagulation of superficial DVC branches.
+ • Stay within the pelvic brim → avoids epigastric vessels (anterior) and iliac vessels (lateral).
+ • Landmarks now visible (Fig. 161.7): anterior bladder and prostate, puboprostatic ligaments, endopelvic
+   fascia, pubis.
+ • Endopelvic fascia and puboprostatic ligaments divided sharply; levator fibres preserved and swept
+   bluntly off the prostate to expose the deep DVC and urethra at the apex. Avoid electrocautery (pelvic
+   floor, external sphincter, NVBs).
+ • Accessory pudendal arteries run longitudinally on the anteromedial prostate; preserve them — in some
+   men they are the dominant arterial supply to the corpora cavernosa.
+
+Ligation of the Deep Dorsal Venous Complex
+ • Pneumoperitoneum tamponades venous bleeding → the profuse DVC haemorrhage of open surgery is
+   less evident, even if the complex is entered.
+ • ProGrasp (or the LRP assistant) gives fixed cephalad retraction of prostate and bladder to expose DVC and
+   apex.
+METHODS OF DEEP DVC CONTROL
+
+ Method           Technique                                                                   Point
+ Suture           0 polydioxanone or polyglactin, needle passed beneath the DVC and           Distance from apex avoids
+ ligation         anterior to the urethra, as close to the pubis / as far from the apex as    iatrogenic apical entry
+ (standard)       possible (Fig. 161.8); may need puboprostatic ligament division; optional
+                  second distal stitch to suspend DVC to the pubis
+ Linear stapler Ligates and divides in one step                                               Speed
+ Delayed          Leave DVC until apical dissection → divide sharply → oversew in vertical    Preserves anterior
+ control          mattress; briefly raise insufflation pressure                               sphincter support
+                                                                                              (puboprostatic ligaments)
+
+Bladder Neck Identification and Transection
+ • Challenge: no tactile feedback for the prostate–bladder junction.
+MANOEUVRES TO LOCATE THE BLADDER NECK
+
+
+
+
+                                                            page 7 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                               Surgical Technique
+
+ Cue                   What it shows                           Pitfall
+ 1. Fat line           Prevesical fat ends where the fat-      —
+                       free anterior prostate begins
+ 2. Catheter           Repeated caudal traction marks          Prior TURP: balloon falls into the defect → division too
+ balloon traction      the junction                            distal. Balloon off midline → suspect median lobe → divide
+                                                               more proximally
+ 3. Bladder dome       Cephalad pull tents the bladder         —
+ traction              neck at its prostatic attachment
+ 4. Instrument         Bimanual "palpation" with two           —
+ "pinch"               instrument tips confirms the
+                       margin
+
+Transection sequence: anterior bladder neck divided horizontally in the midline until the catheter appears
+(not too lateral — bladder pedicle bleeding) → deflate balloon; catheter tip lifted anteriorly with external
+countertraction at the meatus to suspend the prostate → inspect posterior neck for a median lobe and the
+ureteric orifices → posterior neck divided horizontally in the midline, angled 45° downward (Fig. 161.9) to
+avoid both the prostate base and the posterior bladder wall.
+ • Median lobe: vertical mucosal drop-off = no median lobe; a mass effect = median lobe → deliver with
+   ProGrasp; a transverse or sagittal cystotomy may be needed to see beneath a large lobe.
+ • Prior TURP: margin distorted; ureteric orifices often very close to the posterior margin.
+ • No bladder neck sparing after TURP or with a median lobe; a 30° down lens helps; when in doubt,
+   divide more proximally → avoids a positive bladder neck margin.
+
+Dissection of the Seminal Vesicles and Vasa Deferentia
+ • Anterior approach: vesicles and vasa identified in the gap between the divided bladder neck and prostate
+   and freed from the NVBs; hemoclips, not electrocautery (Fig. 161.10).
+ • Retrovesical approach: first step, deep in the cul-de-sac; vasa dissected lateral → medial to the
+   ejaculatory ducts; vesicles lie lateral and slightly posterior to the distal vasa, freed from the NVB with
+   hemoclips, antegrade from tip to base, without thermal energy (Fig. 161.11).
+ • Retrovesical is especially useful with a median lobe.
+
+Development of the Plane Between the Prostate and Rectum
+ • Purpose: avoid rectal injury; define the medial border of the pedicles and NVBs. Antegrade development
+   is unfamiliar to open surgeons but adapts readily.
+ • Technique (Fig. 161.12): anterior traction on vasa and vesicles → 2–3-cm transverse incision in the
+   posterior layer of Denonvilliers fascia about 0.5 cm below the vesicle bases → blunt dissection toward
+   the apex without electrocautery.
+ • Denonvilliers fascia = inferior extension of the peritoneal cul-de-sac between prostate and rectum.
+POSTERIOR PLANE ACCORDING TO CANCER RISK
+
+                                                                                   Higher risk of posterolateral ECE
+                    Low risk of ECE, full nerve sparing                            (examination or mpMRI)
+ Denonvilliers      Preserved (left on rectum)                                     Excised with the specimen
+ fascia
+
+
+
+
+                                                            page 8 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                                Surgical Technique
+
+                                                                                    Higher risk of posterolateral ECE
+                    Low risk of ECE, full nerve sparing                             (examination or mpMRI)
+ Plane              Between Denonvilliers fascia and prostatic fascia; to the       Between Denonvilliers fascia and
+                    apex and laterally to the pedicles; 30° up lens helps           anterior perirectal fascia (fascia
+                    apically                                                        propria)
+
+ • Substantial bleeding → too close to the prostate; if the plane is elusive, retry to one side. In the right
+   plane blunt dissection runs smoothly. Mobilise the rectum well laterally and distally now to protect it
+   later.
+
+Prostatic Pedicle Control
+METHODS OF PROSTATIC PEDICLE CONTROL
+
+ Method                                        Advantage        Drawback
+ Monopolar or bipolar electrocautery           Simple           Thermal spread damages the NVB → limit or avoid
+ Hem-o-lok clips + sharp athermal              No thermal       Needs a thinned, well-delineated pedicle to lock; clips near
+ division (commonest)                          energy           the anastomosis can migrate into the bladder
+ Temporary bulldog clamp, then suture          Athermal         Extra step
+ after specimen removal
+
+ • Clip migration → voiding symptoms, haematuria, recurrent urinary infection, bladder stones (Fig.
+   161.13: eroded Hem-o-lok clip with stone causing gross haematuria) → retrieve dropped clips; keep clips
+   away from the anastomosis.
+ • Correct pedicle division prevents both positive margins and NVB damage.
+
+Preservation of the Neurovascular Bundles
+ • Target: parasympathetic cavernous nerve fibres in the NVB — the key and most demanding step in any
+   approach.
+ • Nerve distribution is diffuse and variable: main confluence posterolateral; a posterior "hammock" of
+   nerves; anteromedial fibres of debated significance → preserve as much periprostatic nerve tissue as
+   possible.
+PERIPROSTATIC FASCIAL DISSECTION PLANES (FIG. 161.14)
+
+ Plane          Lateral boundary           Posterior boundary          Use                       Cost
+ Extrafascial Outside levator fascia       Outside Denonvilliers       Widest margin; most       High risk of complete
+                                           fascia                      oncologically sound       erectile dysfunction if
+                                                                                                 bilateral
+ Interfascial Between prostatic and Between prostatic and              Preferred for presumed    Balanced
+              levator fascia        Denonvilliers fascia               organ-confined disease
+ Intrafascial Between prostatic            —                           Full-thickness NVB        More positive margins;
+              capsule and prostatic                                    preservation              needs selection and
+              fascia                                                                             experience
+
+ • Pattern: moving inward trades margin for nerves. Trap: intrafascial is not the default nerve-sparing plane
+   — interfascial is.
+ • Landmark: periprostatic vessels in the interfascial space are a visual surrogate for the nerves; a dominant
+   periprostatic artery is identifiable in most cases.
+ • Mechanisms of NVB injury: incision, entrapment (suture or clip), thermal injury, traction.
+
+
+
+
+                                                            page 9 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                   Surgical Technique
+Antegrade release sequence: incise levator fascia sharply on the anteromedial midprostate (Fig. 161.15) →
+enter the interfascial plane → blunt dissection along the shiny white prostatic fascia, sweeping the NVB
+posterolaterally → a visible lateral NVB groove forms (Fig. 161.16) → hemoclips placed on the pedicle using
+the groove, without entrapping nerves → divide pedicle.
+ • Releasing the NVB before mobilising the specimen helps avoid traction injury; wristed robotic
+   instruments and motion scaling aid this. For LRP, fine-tipped (0.8-mm) dissectors have been described.
+ • High anterior versus standard release: uncertain whether high release preserves extra nerves or simply
+   gives a handle to protect the true cavernous nerves at 5 and 7 o'clock without touching them.
+ • Consensus: minimise, ideally avoid, thermal energy near the NVB — cavernous fibres are highly heat
+   sensitive (animal and human evidence).
+ • Haemostasis: NVB bleeding is usually minimal; small arteries or venous sinuses → fine absorbable
+   sutures with small, site-specific bites.
+ • Very large glands (>100 g): exposure by assistant and fourth arm; consider a 30° down lens.
+
+Apical Dissection
+ • The apex is the commonest site of positive margins, and its dissection governs continence and potency.
+ • By now antegrade dissection has freed the base, lateral and posterior prostate; DVC and urethra are
+   divided last.
+ • Do not enter the anterior prostate when dividing the DVC (iatrogenic positive margin). If the DVC stitch is
+   too proximal, remove it, divide with a wider margin, then re-suture. Raise insufflation pressure transiently
+   to limit bleeding.
+ • Then inspect the apex–urethra junction (Fig. 161.17): preserve maximal urethral length but recognise a
+   protruding anterior or posterior prostatic lip.
+ • Leaving a small rim of urethra on the apex lowers apical positive margins without harming continence.
+ • Sharp division, minimal electrocautery → protects the external striated sphincter and NVBs.
+
+Intraoperative Inspection of Prostate
+ • Before entrapment, inspect the whole specimen surface; excise extra tissue at any site of a close margin
+   — rarely needed with experience.
+
+Pelvic Lymphadenectomy
+ • Performed after the prostate is freed and before entrapment — bladder mobilisation already exposes the
+   obturator fossa and iliac vessels (detail under Minimally Invasive Pelvic Lymph Node Dissection).
+
+Entrapment of Specimens
+ • Prostate and nodes placed in a 10-mm entrapment sack passed through the 12-mm assistant trocar; left
+   in the abdomen until the end.
+
+Bladder Neck Reconstruction
+ • Usually unnecessary: the slightly larger bladder opening "parachutes" onto the urethra during the
+   running anastomosis.
+ • Needed with a large gland, median lobe or prior TURP (bladder neck much larger than urethra) →
+   tennis-racquet closure, posterior or anterior, with absorbable suture.
+ • Ureteric orifices then lie at or near the posterior margin → identify them first (intravenous methylene
+   blue or indigo carmine if needed).
+
+
+
+
+                                                           page 10 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                    Surgical Technique
+ • Protection options: imbricate the orifices with interrupted 3-0 polyglactin or polydioxanone at 5 and 7
+   o'clock (also narrows the neck), or ureteric stents removed at once or after healing.
+
+Posterior Support of the Vesicourethral Anastomosis
+ • Prostatectomy divides Denonvilliers fascia and its confluence with the posterior rhabdosphincter.
+ • Rocco stitch (posterior reconstruction): reported earlier return of continence; other studies found no
+   benefit. Proposed mechanisms: restored posterior support, better urethral coaptation, less anastomotic
+   tension, longer functional sphincter.
+ • Agreed minimum benefit: shortens the bladder neck–urethra gap → tension-free anastomosis.
+ • Technique (modified Rocco stitch, Fig. 161.18): remnant Denonvilliers fascia and posterior detrusor/
+   bladder neck → posterior rhabdosphincter beneath the urethra, running 2-0 Monocryl, before the
+   anastomosis.
+ • Anterior resuspension of the anastomosis and distal bladder neck to the arcus tendineus restores
+   anterior support and the vesicourethral angle.
+
+Vesicourethral Anastomosis
+ • Hardest step of LRP; the robot's wristed instruments greatly ease it.
+ • Van Velthoven running technique: spreads tension across many points. Classically two sutures tied end
+   to end (each 6–8 inches); now more often double-armed barbed suture.
+ • No mucosal eversion sutures needed (unlike historic open surgery) — the running closure gives mucosa-
+   to-mucosa apposition.
+Sequence (Fig. 161.19): start posteriorly at 6 o'clock → preplace 2–3 throws each side through urethra and
+bladder → cinch by lifting each arm anteriorly (assistant or ProGrasp holds tension on one arm) → run both
+arms anteriorly → pass final catheter under vision before closing → irrigate to test for leak → interrupted
+sutures if leaking.
+ • Avoid incorporating the NVBs in urethral bites.
+
+Delivery of the Specimens and Exiting the Abdomen
+Sequence: inspect for bleeding at low pressure (<10 mm Hg) → check nearby bowel for instrument injury →
+close 12-mm fascial sites (e.g. Carter-Thomason device; 5- and 8-mm sites need no fascial closure) → move
+sack string to the umbilical camera port → desufflate → extract specimen intact via extended periumbilical
+incision → close anterior rectus fascia → subcuticular absorbable skin closure.
+
+Technical Modifications to Optimise Return of Urinary Control
+ • Anterior compartment structures — endopelvic fascia, detrusor apron, pubovesical and puboprostatic
+   ligaments, DVC with overlying visceral endopelvic fascia — stabilise prostate, urethra and bladder and are
+   thought to be part of the continence mechanism.
+ • Goal: preserve rather than reconstruct them → two techniques: Retzius-sparing (RS) and hood.
+
+Retzius-Sparing Technique
+ • Bocciardi approach, 2010: entirely posterior, through the rectovesical pouch (of Douglas); no dissection
+   in the anterior compartment (Fig. 161.20).
+Sequence: peritoneal incision in the pouch → isolate vasa and vesicles → separate Denonvilliers fascia
+antegrade along the posterolateral prostate to the apex (intra-, inter- or extrafascial as oncology dictates) →
+control pedicles and release NVBs antegrade, base to apex → continue anteriorly, preserving the detrusor
+apron → bladder neck divided circumferentially, starting posteriorly → dissect apically beneath the
+
+
+
+                                                           page 11 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                                 Surgical Technique
+detrusor apron and DVC (both preserved) → divide urethra → "upside-down" anastomosis: anterior first,
+posterior last.
+ • Evidence (Cochrane systematic review of single-centre randomised trials): earlier continence with RS at
+   1 week and 3 months; difference not clear by 6 months, equal by 12 months.
+ • Erectile function at 12 months: no difference (single-centre randomised trial).
+ • Positive surgical margins: higher with RS → use selectively; locally advanced or anterior tumours are
+   poor candidates pending long-term oncologic data.
+
+"Hood" Technique
+ • Tewari group, 2021: keeps a familiar anterior approach while preserving the anterior continence
+   structures.
+ • Four differences from the standard anterior approach:
+     ◦ preservation of the median umbilical ligaments;
+     ◦ preservation of the endopelvic fascia–puboprostatic ligament complex;
+     ◦ complete antegrade control of pedicles and release of NVBs, posteriorly base to apex, then laterally;
+     ◦ antero-apical dissection preserving the detrusor apron, separated from the anterior fibromuscular
+       stroma.
+ • Result: a "hood" of detrusor apron, arcus tendineus, puboprostatic ligaments and DVC over the
+   membranous urethra and external sphincter (Fig. 161.21).
+ • Early continence promising in a small single-institution cohort; needs randomised trials.
+STANDARD ANTERIOR VERSUS RETZIUS-SPARING VERSUS HOOD RALRP
+
+                                                 Standard anterior Retzius-sparing                  Hood
+ Route                                           Anterior, space of     Posterior, pouch of         Anterior
+                                                 Retzius                Douglas
+ Anterior support (detrusor apron,               Divided                Preserved (untouched)       Preserved (dissected
+ puboprostatic ligaments, DVC)                                                                      off prostate)
+ Anastomosis                                     Posterior →            Anterior → posterior        Posterior → anterior
+                                                 anterior               ("upside-down")
+ Continence                                      Reference              Faster to 3 months; equal   Promising early data
+                                                                        at 12 months
+ Potency                                         Reference              No difference at 12 months Not established
+ Margins                                         Reference              Higher positive margins     Not established
+ Evidence                                        —                      Randomised trials;          Small cohort
+                                                                        Cochrane review
+
+Concept — Every step is a trade between margin and function made at a named boundary — bladder neck,
+Denonvilliers fascia, fascial plane, apex — and the robotic technique protects function by being antegrade,
+athermal and plane-precise rather than by removing less cancer.
+
+ KEY POINTS: TECHNIQUE OF LRP AND RALRP
+   • Transperitoneal versus extraperitoneal: surgeon preference; no significant advantage.
+   • The robot eases suturing and dissection for surgeons without advanced laparoscopic skills.
+   • Bladder neck margin: found by physical manoeuvres and visual cues.
+   • Define median lobe presence after anterior, before posterior, bladder neck division.
+
+
+
+                                                           page 12 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                   Surgical Technique
+   • Full posterior prostate–rectum mobilisation prevents rectal injury and defines the medial pedicles and
+     NVBs.
+   • Minimise thermal energy at pedicles and NVBs.
+   • Interfascial dissection for organ-confined cancer when potency is wanted.
+   • Anticipate a protruding apical lip to avoid an apical positive margin.
+   • Bladder neck reconstruction for size mismatch — prior TURP, median lobe, large gland.
+   • Running continuous suture is the most efficient anastomosis.
+   • RS and hood techniques show promise for earlier continence.
+
+
+POSTOPERATIVE MANAGEMENT
+Enhanced Recovery After Robotic Prostatectomy
+ • Enhanced Recovery After Surgery (ERAS): multimodal, patient-centred — education, nutrition, analgesia,
+   early mobilisation; increasingly standard after RALRP and a driver of same-day discharge.
+
+Pain Management
+Sequence: preoperative education on expected pain → infiltrate all incisions with long-acting local
+anaesthetic (bupivacaine) → ketorolac 15–30 mg intravenously near the end (unless non-steroidal anti-
+inflammatory drugs [NSAIDs] contraindicated) → regular paracetamol (acetaminophen) + NSAID for 24–48
+h, then as needed → opioids only for inadequate control, short-acting and brief.
+ • Non-pharmacological: early ambulation, relaxation techniques.
+
+Diet
+ • Mild ileus occasionally, resolving in 24–48 h; opioids worsen it.
+ • Oral fluids and diet within 4–8 h; counsel on constipation — minimise opioids, use stool softeners.
+
+Deep Venous Thrombosis Prophylaxis
+ • Pneumatic compression from before incision, continued postoperatively; subcutaneous heparin 1–2 h
+   before surgery may be given until ambulant. Thromboembolism is very uncommon.
+
+Same Day Discharge
+ • Same-day discharge (SDD) is feasible and safe in selected patients, experienced surgeons, high-volume
+   centres; enabled by ERAS.
+ • Success improved by less peritoneal irritation: ultra-low pneumoperitoneum (as low as 6 mm Hg) or the
+   extraperitoneal approach.
+ • Needs counselling and a structured follow-up plan; benefits — quicker return to activity, lower cost.
+
+Pelvic Drain
+ • Not routinely indicated after a watertight running anastomosis. If used: through an 8-mm robotic port
+   site (no extra stab); drains unexpected urine or lymph; usually removed day 1–2 if the patient is still in
+   hospital.
+
+Urethral Catheter
+CATHETER DURATION BY SCENARIO
+
+
+
+
+                                                           page 13 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                          Postoperative Management
+
+ Scenario                                                           Duration                                    Cystogram
+ Routine, watertight anastomosis                                    About 1 week (the 2 weeks of open        Not required
+                                                                    surgery unnecessary); not earlier than 5
+                                                                    days
+ Extensive bladder neck reconstruction (very large gland,           At least 10 days                            Yes, before
+ large median lobe, post-TURP) or doubtful anastomosis                                                          removal
+ (post-radiation)
+ Salvage prostatectomy                                              2–3 weeks                                   Strongly
+                                                                                                                consider
+ Extravasation                                                      Longer, until spontaneous healing           Repeat to
+                                                                                                                confirm
+
+ • Trap — early removal (day 3–4): no more radiographic leaks, but significantly more acute retention
+   needing recatheterisation → avoid removal before day 5.
+ • Extravasation delays continence but does not affect long-term continence.
+ • Suprapubic catheter with an anastomotic splint avoids a urethral catheter, with good early results.
+
+Return to Normal Activity
+ • Catheter out at 1 week → light restriction for a further week → all normal activity by 4 weeks →
+   strenuous exercise at 6 weeks. A clear advantage over open surgery.
+
+Role of Continence Physiotherapy
+ • Preoperative pelvic floor therapy helps: exercises (especially external sphincter contraction) are learnt
+   more easily before surgery than after, when inhibition, sensory change, leakage and pain interfere.
+ • Postoperative physiotherapist-guided pelvic floor muscle training shortens time to continence → access
+   to a specialist physiotherapist is essential.
+ • Start pelvic floor exercises no sooner than 3 days after catheter removal — earlier exercise may cause
+   perineal pain.
+
+Role of Penile Rehabilitation
+ • Post-prostatectomy erectile dysfunction (ED) has three causes: neural injury, vascular injury, corporal
+   smooth muscle damage.
+ • Recovery depends on: nerve-sparing technique and extent, age, baseline erectile function, surgeon
+   experience.
+ • Phosphodiesterase type 5 inhibitors (PDE5i) are the core: protective to endothelium and smooth muscle.
+MEMORIAL SLOAN-KETTERING CANCER CENTER (MSKCC) PENILE REHABILITATION PROTOCOL
+
+ Phase                                  Regimen
+ 2 weeks before → 2 weeks after         Low-dose PDE5i nightly
+ surgery
+ Weeks 3–6                              Low-dose PDE5i 6 nights/week + maximum-dose PDE5i once weekly → classify
+                                        responder vs failure
+ Responders                             Continue PDE5i
+ Failures, from week 6                  Intracavernosal injection (ICI) twice weekly + low-dose PDE5i on other nights
+
+
+
+
+                                                           page 14 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                 Postoperative Management
+
+ Phase                                  Regimen
+ From 12 months                         Monthly maximum-dose PDE5i challenge; stop ICI once natural or PDE5i
+                                        response returns
+
+ • Trap: three randomised placebo-controlled trials — PDE5i helps on-demand erections, but early
+   (rehabilitative) PDE5i does not improve later drug response.
+ • ICI aids recovery and is used for PDE5i non-responders.
+ • Vacuum erection device (VED): main rehabilitation benefit is preserving penile length.
+Concept — Recovery after RALRP is paced by the anastomosis, not the wound: catheter, drain, physiotherapy
+and discharge timings all follow from how secure the vesicourethral join is, while erectile recovery follows the
+nerves and is only supported, not created, by rehabilitation.
+
+PERIOPERATIVE OUTCOMES
+ • Early single-institution reports suggested superior potency and continence with RALRP — not borne out
+   by controlled data.
+ • Landmark trial — Yaxley et al., 2016 (randomised, one open surgeon vs one robotic surgeon):
+   equivalent continence, potency and early oncologic outcomes at 3 months; RALRP favoured for blood
+   loss (mean about 1400 mL open vs 300 mL robotic) and length of stay.
+ • Scandinavian surgeon-level comparisons: outcomes depend chiefly on the individual surgeon's skill and
+   experience; better with high-volume surgeons at high-volume centres.
+ • Barrier to uptake: cost — capital outlay and limited-use instruments.
+ • Real advantages of RALRP: minimally invasive recovery, faster return to activity, at least equivalent
+   oncologic and functional results, and a wider pool of surgical candidates (prior mesh repair, older
+   comorbid men, prior abdominal or pelvic surgery) who might otherwise be steered to external-beam
+   radiotherapy.
+Concept — The surgeon, not the platform, is the dominant variable: randomised data show parity on cancer
+and function, so the robot's case rests on recovery and reach.
+
+ONCOLOGIC OUTCOMES
+ • Measures: positive surgical margin (PSM) rate and biochemical recurrence (BCR) — prostate-specific
+   antigen (PSA) rising above 0.2 ng/mL after becoming undetectable.
+ • Meta-analysis: no difference in PSM between radical retropubic prostatectomy (RRP) and RALRP; mean
+   RALRP PSM about 15% overall, about 9% in pathologically localised disease; 7-year BCR-free survival
+   about 80%.
+ • Cancer-specific survival needs 15–20 years of follow-up → not yet defined for RALRP.
+ • PSM as surrogate of surgical quality: lower in high-volume centres; varies between surgeons even in
+   centres of excellence.
+ • Tumour factors drive margins, independent of technique: Gleason ≥7, perineural invasion, higher stage.
+ • Trap — do not raise PSM: obesity/high body mass index, large prostate, prior abdominal surgery.
+ • Training: early BCR higher for open surgeons adopting RALRP than for fellowship-trained robotic
+   surgeons; BCR risk stays stable once the learning curve is passed.
+Concept — Margins measure the tumour first and the surgeon second; the approach itself contributes
+nothing once volume and training are accounted for.
+
+
+
+                                                           page 15 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                             Functional Outcomes
+
+FUNCTIONAL OUTCOMES
+Urinary Continence
+PASSIVE VERSUS ACTIVE CONTINENCE
+
+ Passive                                                   Active
+ Smooth muscle of bladder neck, prostatic urethra          External striated sphincter: horseshoe-shaped skeletal muscle
+ and urethra (Fig. 161.22)                                 at the apex (Fig. 161.23)
+ Suspensory system: endopelvic fascia, detrusor            Fast-twitch fibres; contraction angulates the urethra
+ apron, pubovesical and puboprostatic ligaments,
+ DVC with visceral endopelvic fascia
+ —                                                         Pudendal nerve via Alcock's canal; branches swing from
+                                                           beneath the levator ani into the sphincter at the apex (Fig.
+                                                           161.24) → injured by excessive dissection, heat or suturing there
+
+ • Reporting problem: continence definitions vary widely ("no pad" vs "safety pad") → incontinence rates
+   vary widely.
+ • High-volume experienced surgeons: continence at 1 year is excellent (no-pad rates in the mid-90s %) and
+   comparable to RRP.
+ • Persistent mild incontinence → suburethral sling or adjustable continence therapy (ProACT).
+ • Persistent severe incontinence (<2% of men) → artificial urinary sphincter.
+
+Sexual Function
+ • Before Walsh and Donker (1982), impotence after radical prostatectomy was the norm.
+ • NVB composition: sympathetic (hypogastric nerve, T12–L1) joins parasympathetic (S2–S4) just below the
+   prostate base; a ganglion posterolateral to the capsule below the base gives the cavernous nerves,
+   usually in their own fascial sheath. Nerves to prostate, vesicles, rectum and levator ani run in adjacent
+   compartments (Fig. 161.25).
+ • Course: posterolateral to the prostate, anterolateral to the rectum, outside the capsule; 3–5 mm from
+   the capsule → most men with localised cancer can be offered nerve sparing.
+ • At the apex the cavernous nerves swing medially and anteriorly to about 3 and 9 o'clock at the mid-
+   urethra → the apex is where erectile nerves are most often damaged (Fig. 161.26).
+ • Apical scarring from extensive or repeated (especially transperineal) biopsies raises risk to the nerves.
+ • Palpable extracapsular disease → wider dissection, sacrificing one or both NVBs.
+ • Nerve-sparing decision now combines Gleason grade, clinical stage, number and percentage of positive
+   cores with mpMRI (effacement or breach of a Prostate Imaging–Reporting and Data System [PI-RADS]
+   lesion at the capsule).
+ • Reporting problems: many men ≥60 have pre-existing ED; younger men (40s–early 50s) recover better;
+   many series ignore PDE5i or ICI use; recovery continues up to 5 years, so a 12-month end point may be
+   too early.
+ • Surgeon-dependent: nerve preservation varies between surgeons.
+ • Meta-analysis: ED after nerve-sparing RALRP varies widely at 12 and 24 months, reflecting non-standard
+   definitions, technique and rehabilitation.
+
+
+
+
+                                                           page 16 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                           Functional Outcomes
+ • High-volume experts: potency (erections sufficient for intercourse in >50% of attempts) in up to 90% of
+   men without prior ED at 1 year.
+Concept — Continence and potency both fail at the apex: the pudendal branches to the sphincter and the
+cavernous nerves converge there, which is why apical technique governs function.
+
+ KEY POINTS: POSTOPERATIVE MANAGEMENT AND PERIOPERATIVE OUTCOMES
+   • Most discharged within 24 h; normal activity in 3–4 weeks.
+   • Oncologic equivalence robotic vs open; PSM lower with high-volume surgeons in high-volume centres.
+   • Continence at 1 year excellent in experienced hands; potency varies with age, baseline function,
+     definitions, technique and rehabilitation, but is better with experienced surgeons.
+
+
+COMPLICATIONS
+Complications Related to Patient Positioning
+ • History of musculoskeletal problems → patient-specific padding.
+ • Protect cervical, axillary, brachial and radial nerves; pad arms and hands; care of the brachial plexus if
+   arms extended.
+ • No shoulder rests; Yellowfins stirrups protect the legs.
+ • Trendelenburg tilt 22–25°; prolonged tilt → ocular oedema, occasionally cerebral irritation.
+ • Excessive hip flexion → femoral nerve injury; not needed with Xi.
+
+Bleeding and Transfusion
+ • Transfusion 1–2%; blood loss dramatically lower than open (pneumoperitoneum compresses veins;
+   vision identifies bleeders). In the Yaxley trial, 1400 mL open vs 300 mL robotic.
+
+Visceral Injury
+ • Rectal, sigmoid and small bowel injuries: rare but serious → intraoperative general surgical
+   consultation.
+ • Recognised rectal injury, minimal/no spillage → primary repair without colostomy: multilayer closure +
+   omental or peritoneal flap interposed between rectum and anastomosis.
+ • Unrecognised rectal injury → rectovesical fistula → may need colostomy and later fistula repair.
+ • Small bowel injury: often outside the camera's view (instrument exchanges by the assistant) or during
+   adhesiolysis; unrecognised → delayed acute abdomen and peritonitis → immediate repair and drainage.
+
+Ureteral Injury
+THREE SITES OF URETERIC INJURY DURING RALRP
+
+ Step                 Mechanism                                Prevention / management
+ Vas dissection       Ureter lies just posterior to the vas Stay on the vasal adventitia
+ (posterior
+ approach)
+ Trigone /            Prior TURP or large median lobe → Imbricate orifices, or robotically placed double-pigtail stent
+ posterior            orifices at the posterior margin → (retrograde over a wire via assistant port; confirm on plain
+ bladder neck         caught in the anastomosis          abdominal radiograph [KUB]; remove cystoscopically at about
+                                                         1 month)
+ Proximal PLND        Ureter crosses the iliac vessels         Minimise thermal energy at the proximal packet
+
+
+
+                                                           page 17 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                                    Complications
+Thromboembolic Complications
+ • AUA Best Practice Statement: routine intermittent pneumatic compression for laparoscopic and robotic
+   urological surgery; pharmacological prophylaxis only with multiple risk factors (obesity, advanced age,
+   malignancy, immobility, prior deep vein thrombosis [DVT]).
+ • Incidence as low as 0.5% — faster mobilisation, and Trendelenburg reduces lower-limb venous stasis
+   compared with open surgery.
+ • Two-way link with pelvic collections: DVT → anticoagulate and image the pelvis (CT or ultrasound) for a
+   lymphocele, haematoma or urinoma compressing the external iliac vein; significant lymphocele or
+   haematoma → low threshold for duplex ultrasound for occult ipsilateral DVT.
+
+Anastomotic Complications
+Urine Leak
+ • Can cause significant ileus. No drain → interventional radiology percutaneous drain; prolonged
+   catheterisation; cystogram to confirm resolution.
+ • In skilled hands rare, small, self-limiting, no long-term effect on continence; major disruption may need
+   reoperation and worsens continence.
+
+Bladder Neck Stricture
+ • Open RRP: up to 16%; RALRP: <2% — attributed to precise mucosa-to-mucosa apposition.
+ • Management ladder: dilation or transurethral incision + catheter → rarely, for recalcitrant strictures,
+   posterior urethroplasty with anastomotic revision.
+
+Equipment Malfunction
+ • Critical robotic failure about 0.4% (<0.5%) → cancellation before starting, or conversion to laparoscopic
+   or open; commonest failing parts: robotic arms and optical system.
+COMPLICATION BENCHMARKS AND MANAGEMENT
+
+ Complication                      Rate                       Key management
+ Transfusion                       1–2%                       —
+ Thromboembolism                   As low as 0.5%             Mechanical prophylaxis routine; drugs if multiple risk factors
+ Bladder neck stricture            <2% (open up to 16%)       Dilation / incision → urethroplasty
+ Robotic failure                   <0.5%                      Convert or cancel
+ Rectal injury (recognised)        Rare; higher in salvage    Primary multilayer repair + flap
+ Rectal injury (unrecognised)      Rare                       Fistula → colostomy + repair
+ Urine leak                        Uncommon                   Drain, longer catheter, cystogram
+
+Concept — The robotic complication profile is one of fewer but less visible injuries: bleeding and strictures
+fall with magnified vision, while the dangerous events are those outside the camera's field — bowel injury,
+positioning neuropathy — that must be anticipated rather than seen.
+
+ KEY POINTS: COMPLICATIONS OF RALRP
+   • Positioning: pad every compression point; respect pre-existing conditions.
+   • Transfusion <2% — a clear advantage over open surgery.
+   • Rectal injury rare, usually repairable when recognised; commoner in salvage. Small bowel injury is
+     usually off-screen (instruments, trocars, adhesiolysis); consult general surgery for any bowel injury.
+   • Urine leak: longer catheter, usually resolves; cystogram to confirm.
+
+
+                                                           page 18 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND                                  Complications
+   • Bladder neck stricture <2%.
+   • Critical machine failure <0.5%.
+
+
+SALVAGE ROBOTIC-ASSISTED RADICAL PROSTATECTOMY
+ • Indication: local failure after external-beam radiotherapy (EBRT), brachytherapy, HIFU or cryotherapy.
+ • Historically avoided (open) because of incontinence, ED, bladder neck stenosis and rectal injury — rectal
+   injury above 15% at some centres.
+ • Robotic vision allows precise dissection through fibrosis; salvage RALRP is feasible and safe in small
+   series but with worse function than primary RALRP.
+ • Work-up: biopsy-proven local recurrence + imaging, preferably PSMA PET, to exclude metastases.
+ • High-volume centres, experienced robotic surgeons.
+
+Salvage Prostatectomy Technique
+ • After EBRT: pelvic side wall and Retzius harder to develop; desmoplastic reaction around the iliac vessels.
+   Planes usually preserved after brachytherapy, cryotherapy or HIFU.
+ • Anterior: incise endopelvic fascia to outline the prostate; initial DVC suture often unnecessary (apex hard
+   to define; little back-bleeding after radiation).
+ • Bladder neck: find by exposing the lateral prostate and the "pinch" manoeuvre; neck may be pale and
+   thickened.
+ • Complete seminal vesicle excision — invasion is commoner in recurrent disease.
+ • Posterior plane is the danger zone: rectal injury occurs posterior to Denonvilliers fascia → full
+   mechanical bowel preparation; patient antegrade dissection of the perirectal fat plane, sharp and blunt.
+   Brachytherapy seeds often met here (or anywhere).
+Rectal check and repair sequence: inspect rectum after removal → air bubble test for a suspected occult
+injury → if no gross spillage and tissue adequate: secure two-layer closure + omentum or regional flap
+interposed → any doubt: intraoperative colorectal consultation, consider diverting colostomy.
+ • Anastomosis: same running technique, but higher leak and later stricture risk (poor vascularity) →
+   catheter 2–3 weeks; cystogram strongly advised before removal.
+ • Continence: only 33–80% regain reasonable continence.
+ • Potency: nerve sparing rarely feasible → usually impotent; many already have ED from prior treatment →
+   counsel realistically.
+PRIMARY VERSUS SALVAGE RALRP
+
+                                    Primary                                Salvage
+ Bowel preparation                  Not routine                            Full mechanical
+ DVC                                Suture ligated                         Initial ligation often unnecessary
+ Seminal vesicles                   Dissected                              Completely excised
+ Rectal injury risk                 Rare                                   Higher (>15% historically, open)
+ Catheter                           About 1 week                           2–3 weeks + cystogram
+ Continence                         Excellent at 1 year                    33–80%
+
+
+
+
+                                                           page 19 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND         Salvage Robotic-Assisted Radical Prostatectomy
+
+                                    Primary                                Salvage
+ Potency                            Nerve sparing usual                    Usually impotent
+
+Concept — Salvage surgery is primary surgery through obliterated planes: every modification — bowel
+preparation, rectal testing, longer catheterisation — follows from radiation-induced fibrosis and poor
+vascularity.
+
+MINIMALLY INVASIVE PELVIC LYMPH NODE DISSECTION
+Indications
+ • Debated: template extent, value of extended dissection, and any therapeutic benefit.
+PELVIC LYMPH NODE DISSECTION (PLND) TEMPLATES
+
+ Template                  Nodal groups                                           Share of prostatic drainage captured
+ Limited                   Obturator only                                         —
+ Standard (sPLND)          Obturator + external iliac                             ~38%
+ Extended (ePLND)          Obturator + external iliac + internal iliac            ~63%
+ + Common iliac            ePLND + common iliac                                   ~75%
+ Super-extended            ePLND + common iliac + presacral                       —
+
+ • What the table tests: each step outward adds a nodal station; the standard template misses most
+   drainage → when PLND is done, use the extended template (higher node yield and detection of
+   metastases).
+ • Therapeutic value: conflicting effect on biochemical and clinical recurrence; no improvement in cancer-
+   specific or overall survival; more operative time, blood loss, stay and complications as extent increases.
+   Still justified as the best staging tool.
+ • Low-risk disease: nodal metastases in <5% → PLND may be omitted.
+GUIDELINE INDICATIONS FOR STAGING PLND
+
+                                            European Association of
+             AUA (2018)                     Urology (EAU, 2021)               AUA/ASTRO (2022)
+ Trigger     Unfavourable                   Nomogram risk of nodal            Risk-stratified, using preoperative nomograms;
+             intermediate or high risk      metastasis >5%                    balance benefit against complications
+ Template Extended when performed
+
+ • Caveat: Briganti and MSKCC nomograms predate mpMRI and PSMA PET and assume systematic (not
+   targeted) biopsy → who benefits from staging PLND is uncertain.
+ • Benefits of finding node-positive disease: refined risk stratification, prognostic counselling, selective
+   secondary therapy.
+
+Surgical Technique
+ • Laparoscopic or robotic; rarely a stand-alone staging operation now — usually with prostatectomy.
+   Stand-alone: same trocars but one assistant port.
+Sequence: vertical peritoneal incision just lateral to the medial umbilical ligament, from the iliac bifurcation
+to the pubis (Fig. 161.27; beware the ureter proximally; simplified if the bladder is already mobilised) →
+separate the packet from the external iliac vein → medial retraction; blunt dissection of the avascular plane
+to the side wall, point cautery only (Fig. 161.28) → extend proximally to the bifurcation, distally to the pubis
+→ identify and protect the obturator nerve and vessels → clip and divide distally → retract cranially, free
+
+
+                                                           page 20 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND   Minimally Invasive Pelvic Lymph Node Dissection
+from obturator nerve and vessels → clip proximally, avoiding the obturator nerve and the accessory
+obturator vein (Fig. 161.29) → extend to template → extract as one packet via 12-mm trocar or in the sack.
+EXTENDED PLND BOUNDARIES
+
+ Boundary Landmark
+ Proximal     2 cm above the common iliac bifurcation, where the ureter crosses
+ Distal       Node of Cloquet
+ Lateral      Genitofemoral nerve
+ Medial       Bladder wall
+ Content      All obturator fossa tissue above and below the obturator nerve; tissue medial and lateral to the internal
+              iliac artery (presacral in super-extended)
+
+ • No valid evidence that open PLND beats laparoscopic; an extended template can be cleared completely
+   either way.
+ • Node count is a poor quality surrogate — pathological processing matters as much as surgical extent.
+ • Clip visible lymphatic channels → fewer lymphoceles.
+
+Complications
+ • Overall complication rate after PLND is appreciable (about one in seven).
+ • Vascular injury (skeletonised iliac vessels): small venotomy or arteriotomy → fine polypropylene suture;
+   major → rapid open conversion. Transfusion-requiring injury well under 1%.
+ • Obturator nerve (entrapment, cautery, transection) → medial thigh numbness and weak ipsilateral
+   adduction. Clip on nerve → remove it; transection → primary repair with fine polypropylene for partial
+   recovery.
+ • Ureter: uncommon; at risk proximally where it crosses the common iliac vessels.
+Lymphocele — the commonest complication.
+ • Radiological lymphocele in up to 60%; clinically significant 2–5%.
+ • Trap: transperitoneal access is not protective — fluid can still loculate.
+ • Mechanism: the bladder adheres to and walls off the lymphadenectomy fossa → peritoneal
+   interposition flap keeps a window open to the peritoneum → significant reduction in clinically significant
+   lymphocele (externally validated).
+ • Asymptomatic → no treatment.
+ • Presentation: classically ipsilateral DVT (external iliac vein compression), but more often new or worse
+   irritative voiding symptoms and pelvic pressure (bladder compression); may become infected.
+ • Management ladder: percutaneous drain → recurrence: sclerosant or laparoscopic fenestration and
+   marsupialisation.
+Concept — PLND is justified by staging, not cure: once done, it should be extended, and its morbidity is
+dominated by lymph that cannot drain — hence clips, flaps and windows.
+
+ KEY POINTS: MINIMALLY INVASIVE PLND AND COMPLICATIONS
+   • Who benefits from staging PLND remains debated.
+   • If performed, use the extended template.
+   • Clip lymphatics to reduce lymphocele.
+   • Transperitoneal approach does not prevent lymphocele.
+
+
+
+                                                           page 21 of 22
+Chapter 161 — Laparoscopic and Robotic-Assisted Radical Prostatectomy and PLND   Minimally Invasive Pelvic Lymph Node Dissection
+   • Peritoneal interposition flap may reduce clinically significant lymphocele.
+   • Symptomatic lymphocele: bladder compression (irritative symptoms, pelvic pressure) or iliac vein
+     compression (ipsilateral DVT).
+
+
+FUTURE OF ROBOTIC PROSTATECTOMY
+ • Expiry of key first-generation da Vinci patents (2019) → new console platforms: Medtronic Hugo, CMR
+   Surgical Versius, Johnson & Johnson Ottava and others.
+ • Differentiators: modularity, flexible vs rigid instruments, multi- vs single-port, haptic feedback.
+   Competition may lower cost and widen global access.
+ • Artificial intelligence (AI): pattern recognition in large datasets, real-time decision support, performance
+   assessment and outcome prediction, individualised training feedback, eventually semi-autonomous or
+   autonomous functions.
+ • AI hurdles: volume of high-quality surgical data; data sharing, privacy and ethics; safe response to
+   unpredictable intraoperative events.
+ • Training: build new platforms into curricula; graduated basic and procedure-specific simulation (console,
+   troubleshooting, foot-pedal coordination) before live surgery, modelled on aviation; virtual and
+   augmented reality promising but resource-intensive and hard to validate.
+
+SUMMARY
+ • RALRP is the operation of choice for localised and, increasingly, locally advanced disease; open
+   prostatectomy is now less common in the United States. LRP persists where robots are cost-prohibitive.
+ • 23-hour and same-day discharge → faster recovery than open surgery; robotic surgery has widened
+   surgical candidacy and shown promise in the salvage setting.
+ • Cost remains the main constraint; new vendors may lower it. The future is tied to AI (with data, privacy
+   and ethical challenges) and to simulation and virtual-reality training.
+Concept — The chapter's argument is equivalence plus access: RALRP matches open surgery on cancer and
+function, wins on recovery, and its future depends on cost and training rather than on further proof of
+efficacy.
+
+
+
+
+                                                           page 22 of 22
+

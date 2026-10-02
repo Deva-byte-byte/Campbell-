@@ -1,0 +1,671 @@
+Chapter 160 — Open Radical Prostatectomy                                                                      Introduction
+
+Chapter 160 — Open Radical Prostatectomy
+ • Most radical prostatectomies (RPs) in the United States and Europe are now robot-assisted, despite no
+   evidence of better cancer control, fewer technical complications, or better continence or potency.
+ • Open surgery still matters: its lessons transfer to robotic surgery, it serves systems without a robot, and it
+   is the fallback on conversion.
+ • Total surgical removal is the best cure for clinically localised prostate cancer. RP is the only treatment
+   shown in a randomised controlled trial (Bill-Axelson; Scandinavian Prostate Cancer Group-4, SPCG-4) to
+   reduce metastasis and prostate cancer death.
+ • Better understanding of periprostatic anatomy → less bleeding, fewer technical complications, better
+   continence and potency.
+ • Goals, in order of importance: cancer control → minimise technical complications → continence →
+   potency.
+ • Open radical retropubic prostatectomy (ORRP) is among the hardest operations in urology, demanding
+   skill in both patient selection and technique.
+Concept — The order of goals settles every intraoperative trade-off: when nerve sparing and a clear margin
+conflict, the margin wins.
+
+RADICAL RETROPUBIC PROSTATECTOMY: SURGICAL ANATOMY
+
+Venous and Arterial Anatomy
+Venous drainage
+ • Prostatic veins drain into the Santorini plexus. Knowing it precisely is what gives a bloodless field at the
+   membranous urethra and apex.
+ • Deep dorsal vein: leaves the penis beneath Buck's fascia between the corpora → pierces the urogenital
+   diaphragm → three branches: superficial branch + right and left lateral venous plexuses.
+ • Superficial branch: central vein between the puboprostatic ligaments over the bladder neck and prostate;
+   seen early; communicates over the bladder and into the endopelvic fascia; lies outside the anterior
+   prostatic fascia.
+ • Common trunk and lateral plexuses: hidden beneath the prostatic and endopelvic fascia. The plexuses
+   run posterolaterally and communicate freely with the pudendal, obturator and vesical plexuses; near the
+   puboprostatic ligaments small branches pierce the sidewall muscle to the internal pudendal vein.
+ • Lateral plexus → inferior vesical vein → internal iliac vein. Because the veins anastomose freely, any
+   laceration of these friable veins can bleed heavily.
+ • The common trunk lies directly over the urethra — the site where the dorsal vein is transected.
+Arterial supply
+ • The inferior vesical artery supplies the prostate. After small branches to the seminal vesicle, bladder base
+   and prostate, it ends in two groups:
+TERMINAL PROSTATIC ARTERIES: URETHRAL VS CAPSULAR GROUPS
+
+Feature           Urethral group                    Capsular group
+Entry or course Enters at the posterolateral        Along the pelvic sidewall in the lateral pelvic fascia,
+                vesicoprostatic junction            posterolateral to the prostate
+
+
+
+
+                                                   page 1 of 14
+Chapter 160 — Open Radical Prostatectomy                                        Radical Retropubic Prostatectomy: Surgical Anatomy
+
+Feature            Urethral group                           Capsular group
+Territory          Vesical neck and periurethral gland      Outer prostate (ventral and dorsal branches); ends as a small
+                                                            cluster to the pelvic floor
+Surgical           Divided at the bladder neck (5- and      Wrapped in a nerve network → macroscopic landmark for the
+significance       7-o'clock pedicles)                      microscopic cavernous nerves (the NVB)
+
+ • Corpora cavernosa are supplied mainly by the internal pudendal artery. Accessory pudendal arteries
+   from the obturator, inferior or superior vesical arteries run over the lower bladder and anterolateral
+   prostate, so RP divides them → reduced penile inflow, worst in older men with borderline penile flow.
+
+Pelvic Plexus
+ • Autonomic supply to pelvic organs and external genitalia. Formed by parasympathetic preganglionic
+   visceral efferents from the sacral centre (S2–S4) + sympathetic fibres from the thoracolumbar centre via
+   the hypogastric nerve.
+ • Location: retroperitoneal beside the rectum, 5–11 cm from the anal verge; a fenestrated rectangular
+   sagittal plate with its midpoint at the seminal vesicle tip.
+ • Inferior vesical vessels perforate the plexus → ligating the "lateral pedicle" in its midportion cuts both
+   vessels and the nerves to prostate, urethra and corpora.
+ • Visceral branches: bladder, ureter, seminal vesicles, prostate, rectum, membranous urethra, corpora.
+   Somatic motor axons also pass through to the levator ani, coccygeus and striated urethral muscle.
+ • All these nerves stay outside the capsule: prostatic nerves run outside the capsule and Denonvilliers
+   fascia until they pierce it; branches to the membranous urethra and corpora run in the lateral pelvic
+   fascia, dorsolateral to the prostate, between prostate and rectum.
+ • Neurovascular bundle (NVB), "NVB of Walsh": capsular vessels + cavernous nerves. The nerves are
+   invisible; the vessels mark where they are.
+ • Cavernous branches join the capsular vessels in a spray-like pattern, forming the NVB 20–30 mm distal
+   to the prostatovesical junction, in the lateral pelvic fascia between prostatic and levator fascia.
+ • At the apex, branches to the cavernous bodies and sphincter spray anteriorly and posteriorly, with wide
+   variation, some leaving the vessels to run anteriorly — the anatomical basis of high anterior release.
+ • Beyond the urogenital diaphragm the nerves pass behind the dorsal penile artery and nerve into the
+   corpora.
+
+Striated Urethral Sphincter
+ • Not a horizontal "sandwich" but a vertical tubular sheath (Oelrich) around the membranous urethra.
+ • Why: in utero it runs unbroken from bladder to perineal membrane; the prostate, growing from the
+   urethra, invades and thins it, and part atrophies.
+ • Adult: horseshoe-shaped fibres at the apex form a tube, fusing in the posterior midline near the apex. The
+   prostate does not sit "like an apple on a shelf" on a flat diaphragm; the sphincter attaches broadly over
+   the apical prostatic fascia — which is why apical dissection and urethral reconstruction decide
+   continence.
+ • At the apex the NVBs lie posterolateral to the circumferential sphincter.
+PASSIVE VS ACTIVE CONTINENCE
+
+Feature        Passive continence          Active continence
+Muscle         Striated urethral           Levator ani (levator urethrae, pubourethralis) around apex and membranous
+               sphincter                   urethra, inserting into the perineal body
+
+
+
+
+                                                           page 2 of 14
+Chapter 160 — Open Radical Prostatectomy                                                                       Surgical Technique
+
+Feature      Passive continence            Active continence
+Fibre type   Fatigue-resistant,            Voluntary contraction
+             slow-twitch
+Innervation Mainly pudendal nerve for both, plus somatic motor fibres via the pelvic plexus
+
+ • Postoperative pelvic floor exercises contract the levator ani; because the sphincter shares its nerve
+   supply, it is trained too.
+
+Pelvic Fascia
+THE THREE FASCIAL INVESTMENTS OF THE PROSTATE
+
+Layer             Position                                         Key features                             Surgical rule
+Denonvilliers     Between anterior rectum and prostate;            Thickest at base and seminal vesicles,   Excise completely
+fascia            extends up over the posterior seminal            thinning caudally to end at the          for an adequate
+                  vesicles                                         sphincter. Its layers cannot be          margin
+                                                                   separated microscopically
+Prostatic fascia Continuous with parenchyma anteriorly             Carries dorsal vein tributaries and      Must stay on the
+("capsule")      and anterolaterally                               Santorini plexus anteriorly              prostate in nerve
+                                                                                                            sparing
+Levator fascia    Covers pelvic muscles; fuses laterally with Vessels and autonomic nerves reach            Incised or
+                  prostatic fascia as the lateral pelvic       the prostate between levator and             released to reach
+                  fascia; parts posterolaterally to follow the prostatic fascia                             the NVB
+                  perirectal muscles
+
+ • Perineal vs retropubic: perineal RP reflects the lateral and anterior fasciae off the prostate, sparing the
+   dorsal vein and Santorini plexus → less bleeding; retropubic RP approaches from outside the fasciae →
+   dorsal vein complex (DVC) must be ligated and lateral pelvic fascia divided.
+Concept — The anatomy is one sandwich: nerves, arteries and veins run between levator and prostatic fascia.
+Leaving the prostatic fascia on the gland and Denonvilliers fascia on its back is what lets nerve sparing and
+clear margins coexist.
+
+SURGICAL TECHNIQUE
+
+Preoperative Preparation
+ • Assessment: focused systems review; full medical, surgical and anaesthetic history; all medicines,
+   prescribed or not; examination; routine blood tests.
+ • Rare life-threatening risks — myocardial infarction, stroke, arrhythmia, pulmonary embolism,
+   haemorrhage, anaesthetic reaction. Identify at-risk men to reduce risk or offer alternatives.
+ • Factors that make surgery harder but do not contraindicate it: previous abdominal or pelvic surgery or
+   radiotherapy, transurethral surgery, extensive biopsies, significant inflammatory bowel disease, hernia
+   mesh, and prostate size.
+ • Inguinal hernia: about 15% have one on proper preoperative examination; up to 20% develop one after
+   ORRP. Most were silent before, so ORRP seems to unmask them → examine standing with Valsalva and
+   repair preperitoneally at ORRP. Standing Valsalva ultrasonography finds even more; with this approach,
+   symptomatic hernias afterwards are rare.
+ • Defer surgery 6 weeks after needle biopsy and 12 weeks after transurethral resection of the prostate
+   (TURP), so adhesions and haematoma settle and planes return to near normal — crucial for NVB
+   preservation and avoiding rectal injury.
+
+
+
+                                                           page 3 of 14
+Chapter 160 — Open Radical Prostatectomy                                                           Surgical Technique
+ • No autologous donation: transfusion is rare and donated units go unused unless anaemic, so donation
+   only deepens postoperative anaemia. Preoperative erythropoiesis-stimulating agents raise haematocrit
+   and reduce anaemia; higher discharge haematocrit speeds recovery.
+ • Prophylaxis when the urinary tract is entered: first- or second-generation cephalosporin, or
+   aminoglycoside + metronidazole or clindamycin.
+ • Antiplatelet and anticoagulant plans are made with the internist or cardiologist. Drug-eluting coronary
+   stents pit stent thrombosis (usually catastrophic) against bleeding; low-dose aspirin often gives enough
+   cover without extra bleeding at ORRP.
+ • Bowel preparation: clear fluids the day before → half a bottle of magnesium citrate that evening →
+   enema that morning; same-day admission.
+ • Pretreatment magnetic resonance imaging (MRI) can guide how much NVB and membranous urethra to
+   preserve.
+
+Special Instruments
+ • Fibreoptic headlight: essential — much of the operation is beneath the pubis, where the view is poor.
+ • Balfour retractor with narrow and wide malleable blades: helpful for lymphadenectomy, required for RP
+   (cranial and posterior retraction of peritoneum and bladder).
+ • Optional: coagulating forceps, small, fine and standard right-angled clamps, Metzenbaum and Jamison
+   scissors, 2.5–4.5× loupes (help the apical dissection).
+
+Anaesthesia, Incision, and Lymphadenectomy
+ • General endotracheal anaesthesia. Relative hypotension (systolic ≤100 mm Hg) and crystalloid ≤1500
+   mL until the prostate is out.
+ • Supine; flex the table in obese men to lengthen the umbilicus–pubis distance.
+ • 16-Fr silicone (Silastic) Foley, 20 mL balloon, closed drainage — the small calibre eases mucosal suturing.
+   A right-handed surgeon stands on the patient's left.
+ • Incision: extraperitoneal lower midline, pubis towards umbilicus → anterior fascia to pubis → recti
+   separated → transversalis fascia opened → space of Retzius → peritoneum lifted off external iliacs to the
+   common iliac bifurcation, vas left intact → Balfour placed.
+ • Leave the tissue over the external iliac artery: it carries the leg lymphatics; dividing it risks leg oedema
+   and lymphocele.
+ • Exposure: narrow malleable blade under the vas lifts the peritoneum; deep Deaver retracts the bladder
+   medially.
+ • Pelvic lymph node dissection (PLND) precedes RP for intermediate- and high-risk disease; omitted for
+   well-differentiated or low-volume favourable intermediate-risk disease (Gleason Grade Group 1–2).
+ • PLND sequence (dominant-tumour side first): divide adventitia over the external iliac vein, sparing the
+   arterial lymphatics → under the vein to the sidewall → down to the femoral canal, ligating lymphatics
+   (node of Cloquet need not be removed) → up to the common iliac bifurcation, clearing the external iliac–
+   hypogastric angle → obturator nodes, protecting the obturator nerve; obturator vessels skeletonised,
+   ligated only if bleeding → down to the pelvic floor, exposing hypogastric veins → repeat contralaterally.
+ • Extended dissection removes more nodes than a limited one → better staging and possible therapeutic
+   benefit.
+
+Exposure
+ • Malleable blade lifts the peritoneum and gently displaces the bladder back, exposing the anterior
+   prostate.
+
+                                                   page 4 of 14
+Chapter 160 — Open Radical Prostatectomy                                                                   Surgical Technique
+
+Incision in the Endopelvic Fascia
+ • Clear fibroadipose tissue → expose pelvic fascia, puboprostatic ligaments, superficial dorsal vein.
+ • Open the endopelvic fascia at its sidewall reflection, well away from bladder and prostate, where it is
+   transparent over the levator ani.
+ • Too medial → lateral Santorini plexus → persistent venous bleeding; the prostatic arteries and pelvic
+   plexus branches lie beneath it.
+ • Extend anteromedially towards the puboprostatic ligaments → the lateral prostate becomes palpable.
+ • Pudendal perforators through the pelvic muscle → clip, don't coagulate: the pudendal artery and nerve
+   lie just deep, along the pubic ramus.
+
+Division of the Puboprostatic Ligaments
+ • Tease fibrofat off the superficial vein and ligaments → free the vein from the medial ligament edge →
+   coagulate and divide it → sponge stick pushes the prostate back → divide each ligament with scissors.
+ • Go deep enough to expose the apex–anterior DVC junction, where the DVC will be divided.
+ • Spare the pubourethral component: it anchors the striated sphincter anteriorly to the pubis.
+
+Preservation of Accessory Pudendal Arteries
+ • Arterial insufficiency contributes to erectile dysfunction after nerve sparing; accessory pudendals over
+   the anterolateral prostate are one cause.
+ • Prevalence depends on the method: about 70% in cadavers, about 7% on selective angiography; large
+   visible vessels in about 4%.
+ • Releasing them can bleed briskly, forcing prompt DVC ligation → complete the opposite side first when a
+   prominent vessel is unilateral.
+ • Sequence: divide endopelvic fascia lateral to the vessel and the puboprostatic ligament (vessel runs
+   beneath it) → vessel loop → free the artery sharply with a right-angled clamp, lifting the anterior prostatic
+   fascia → divide venous tributaries (bleeding controlled by running 4-0 absorbable) → continue caudally
+   past the planned DVC division.
+
+Ligation and Division of the Dorsal Vein Complex
+ • Aim: divide the DVC with minimal bleeding, without injuring the sphincter or entering the anterior apex.
+CONTROL OF THE DORSAL VEIN COMPLEX: STAPLER VS SUTURE LIGATION
+
+Feature     Endovascular stapler (current preference)        Suture ligation (traditional)
+Sequence Babcock bunches endopelvic fascial edges → 3-0 Monocryl through the DVC just distal to the apex →
+         Endo GIA (vascular load) about 4 cm over     needle reversed → through pubic symphysis perichondrium
+         the DVC → move the Foley in and out; fire → figure-of-eight horizontal mattress, tied, kept long →
+         only if it moves freely (urethra not caught) Babcock bunches fascia → figure-of-eight 2-0 on anterior
+         → residual vein oversewn with 3-0 Monocryl prostate near bladder neck (proximal back-bleeding, worse
+                                                      with incompetent valves)
+Blood       About 200–400 mL less                            Controls most venous bleeding
+loss
+Why it      Less traction → less stretch injury to NVBs      Flat, unbunched surface easier to divide; recreates
+helps       and sphincter; three staple rows each side       puboprostatic support of the sphincter; fixes the DVC
+            seal both ends; apical staple line covers        anteriorly, exposing the anterior apical plane
+            anterior apical tumours
+
+ • Stance for all apical sutures: face the head of the table, needle driver against the pubis, perpendicular to
+   the patient.
+
+
+                                                          page 5 of 14
+Chapter 160 — Open Radical Prostatectomy                                                            Surgical Technique
+Division of the Dorsal Vein Complex
+ • Sponge stick presses the prostate down → Metzenbaum or No. 15 blade, starting at the left edge, where
+   the apical junction shows best. The anteriorly fixed distal DVC opens the plane between prostate and
+   striated muscle; loupes and resting the scissors on the anterior apex help find it.
+ • Anterior apex = commonest site of positive margins, because its surface is hard to see.
+ • Caveat: near the apex an apical vessel tethers the NVB medially beneath the sphincter, so cutting too
+   close to the apex risks it → divide the lateral sphincter edges obliquely, midway between apex and
+   pelvic floor.
+ • Venous control must be absolute so the rest is bloodless: the kept 3-0 Monocryl (5/8-circle) oversews the
+   distal sphincter–DVC edge with a loosely held driver, forming a hood over the anterior urethra;
+   circumflex veins at 5 and 7 o'clock → clips.
+ • Proximal back-bleeding: oversew the proximal DVC edges on the prostate in a V with the preplaced 2-0 —
+   this also spreads tension evenly over the prostatic fascia, easing high release.
+
+Division of the Urethra and Placement of Urethral Sutures
+ • Standard nerve release → divide the urethra first; high anterior release → after nerve release.
+ • Sequence: prostate pushed back → release lateral sphincter bands at their midpoint → right-angled
+   clamp around urethral smooth muscle close to the apex (transect as near the apex as possible) → divide
+   anterior two-thirds, sparing the catheter → place sutures → remove catheter, place 6-o'clock suture →
+   divide posterior urethra.
+ • The clamp separates posterior urethra from posterior sphincter and, in a dry field, shows the sphincter–
+   NVB relationship; the intact posterior sphincter shields the NVBs.
+ • Six 3-0 Monocryl sutures (5/8-circle tapered): text gives 1, 3, 5, 7, 9, 11 o'clock; operative figures show 12,
+   2, 5, 6, 7, 10 o'clock.
+ • Mucosa and submucosa only — smooth-muscle bites delay continence. The 16-Fr catheter makes the
+   mucosa easy to see.
+ • Flimsy urethra → include the DVC in the first (anterior) suture for strength. The first sutures lift the
+   mucosa, easing the rest.
+ • Placed outside → in; if inside → out is easier, a French-eye needle passes them from the bladder side at
+   the end. Towels over the sutures prevent traction.
+Posterior striated sphincter complex (skeletal muscle + fibrous tissue) — precise division matters for four
+reasons:
+ • (1) apical margins; (2) the right plane on the anterior rectum, so all of Denonvilliers fascia is excised; (3)
+   no blunt trauma to the NVBs just behind it; (4) continence.
+ • Sequence: clamp under the left edge midway between apex and urethra (here the NVB has fallen back
+   beneath the clamp) → divide → right edge → centre last.
+ • Never divide it all from one side — that endangers the contralateral NVB; a clamp too close to the apex
+   endangers the NVB.
+
+Identification and Preservation of the Nerve Bundle
+ • Both NVBs can usually be preserved safely; excising both is rarely needed. With modern technique and
+   phosphodiesterase type 5 (PDE5) inhibitors, most healthy potent men under 65 stay potent.
+ • Extracapsular extension rarely exceeds 1–2 mm — and that much tissue often remains even with the
+   NVB preserved.
+
+
+
+                                                    page 6 of 14
+Chapter 160 — Open Radical Prostatectomy                                                                     Surgical Technique
+ • Nerves directly on the capsule enter the prostate; they are not cavernous nerves. Cavernous branches
+   lie behind the capsular vessels.
+NVB DISSECTION PLANES COMPARED
+
+Plane          Where the dissection runs                        Margin risk           Verdict
+Interfascial   Between levator and prostatic fascia;            Low                   Correct nerve-sparing plane
+               prostatic fascia left on the prostate
+Intrafascial   Beneath prostatic fascia, on the                 High                  Never used
+               parenchyma, to avoid capsular-vessel
+               bleeding
+Wide           NVB + lateral pelvic fascia taken with the       Does not lower the    For induration, a fixed bundle or
+excision       specimen                                         overall margin rate   doubtful posterolateral margin
+
+ • Excising the NVB does not prevent positive margins, because most margins are elsewhere: apex →
+   posterior → posterolateral; about a fifth are multiple. Margin rates are the same with and without nerve
+   sparing.
+ • Walsh series: bilateral preservation 87%, one NVB excised 13%, overall positive margins about 5%.
+   Penetration severe enough to need both excised implies probable distant spread and incurability; in
+   practice one side usually proves free.
+ • The decision is never final before surgery. Inputs: erectile status — continence is the same after bilateral
+   or unilateral sparing and whether or not erections return, so NVBs are spared less aggressively in men
+   already impotent; palpable apical lesion; high predicted penetration on Partin tables or MRI.
+ • Intraoperative triggers for wide excision on that side: induration in the lateral pelvic fascia once the
+   endopelvic fascia is open; too little tissue over the posterolateral surface after removal (NVB excised
+   secondarily).
+
+Identification of the Neurovascular Bundle
+ • Touch is open surgery's advantage: induration → excise; bundle fixed to the prostate on gentle release
+   → don't preserve. Touch is dulled laparoscopically and absent robotically.
+ • No upward traction; roll the prostate side to side. With the catheter out the prostate is softer and the
+   plane easier to find.
+
+Standard Preservation of the Neurovascular Bundles
+ • Starts after urethral division, suture placement and posterior sphincter division.
+ • Sequence:
+     ◦ Babcock or sponge stick rolls the prostate over, so the prostate is released from the bundle, not the
+       bundle from the prostate (less traction).
+     ◦ Right-angled clamp under the superficial levator fascia from the bladder neck (dividing its thick band
+       there frees the prostate at once) to the apex; loupes confirm the prostatic fascia is intact and allow
+       gentler dissection. Releasing laterally first makes the posterior apical release easier.
+     ◦ Locate the NVB by a subtle posterolateral "groove" → trace it to the apex, where the NVB turns
+       caudolaterally to the urethra.
+     ◦ Find the medial border at the apex → develop the midline plane back to the rectum.
+     ◦ Release from the rectal surface, apex → base, spreading a right-angled clamp → clip and divide apical
+       vessels → to the midpoint → to the seminal vesicle.
+     ◦ Posterior arterial branch from the NVB over the seminal vesicle to the prostatic base → ligate and
+       divide each side → the NVBs fall back, untethered.
+
+
+
+                                                            page 7 of 14
+Chapter 160 — Open Radical Prostatectomy                                                          Surgical Technique
+ • Apical kinking artefact: with the prostate rolled across the midline the NVB looks kinked and can be cut
+   by mistake; it straightens once apical vessels are divided.
+ • NVB vessels: small clips parallel to the bundle; never thermal energy (monopolar, bipolar, harmonic).
+   The prostatic side of tiny vessels is simply cut with fine scissors.
+ • Fixation not explained by vessels → excise the NVB.
+ • Why start at the apex: branches are seen before they are cut; an anteriorly placed bundle could have its
+   groove mistaken for the prostatorectal space; lateral veins joining Santorini plexus to NVB are easier to
+   control.
+ • Working from the rectal side keeps Denonvilliers and prostatic fascia on the gland (only levator
+   fragments come away) → iatrogenic margins in organ-confined disease become rare, and a mobile bundle
+   can be felt and inspected → partial excision with negative margin and preserved potency is possible
+   even with extension near the NVB.
+
+High Anterior Release of the Neurovascular Bundles at the Apex
+ • Purpose: faster recovery of potency and continence by less traction on nerves to the cavernous bodies
+   and sphincter, and by not cutting small anterior branches.
+ • Risk: less apical soft tissue → possibly more positive margins, so select men at low risk of extension near
+   the NVB.
+TSUZUKI CRITERIA: EXTRAPROSTATIC EXTENSION NEAR THE NVB (PER SIDE)
+
+Criterion                                                                            Threshold
+Prostate-specific antigen (PSA)                                                      >10 ng/mL
+Gleason score                                                                        >6
+Average % of core involved, that side                                                >20%
+% of cores with tumour, that side                                                    >33%
+Perineural invasion                                                                  Present
+Digital rectal examination                                                           Abnormal
+
+ • ≥2 criteria → >10% risk of extension near the NVB on that side → no high release there.
+ • Sequence: after DVC ligation, before urethral incision, only with complete haemostasis → incise levator
+   fascia over the anterior apex along the lateral DVC edge → extend distally along the lateral apex,
+   preserving the glistening white prostatic fascia beneath the lateral veins → tributaries clipped, never
+   cauterised → free levator fascia from the lateral "shoulders" → beyond the apex the NVB is seen lateral to
+   the urethra → release it to just above the seminal vesicles → divide the DVC to the urethra between the
+   two preplaced sutures.
+ • Then: urethra and sutures → posterior sphincter → if unilateral, a right-angled clamp under the
+   contralateral apical levator fascia enters the same plane from inside.
+ • Excellent visualisation and magnification are essential to avoid entering the prostate.
+ • Unilateral release recovers potency at 12 months as well as bilateral → now done on one side only, the
+   pathologically more favourable one. So the benefit comes from more accurate, lower-traction
+   preservation, not from sparing anterior branches.
+
+Wide Excision of the Neurovascular Bundles
+ • Free the opposite NVB from the apex first, to spare it traction injury.
+ • Sequence: identify NVB at apex → right-angled clamp medial → lateral, directly on the anterior rectum
+   → divide without ligation to maximise soft tissue (clip distal end later if bleeding) → divide fascia on the
+   lateral rectum, apex → base → end at the seminal vesicle tip, where the NVB is ligated and divided.
+
+
+                                                   page 8 of 14
+Chapter 160 — Open Radical Prostatectomy                                                           Surgical Technique
+ • Passing the clamp lateral → medial makes rectal injury more likely.
+ • NVB and lateral pelvic fascia come away under direct vision, generously covering the tumour.
+
+Posterior Dissection and Division of the Lateral Pedicles
+ • Replace catheter → light upward catheter traction (possible now the NVBs are free) → divide the
+   rectum–Denonvilliers attachment in the midline, leaving all Denonvilliers layers over the seminal
+   vesicles.
+ • Sponge stick on the catheter, never on the prostate — displaced tissue can create a false-positive
+   margin.
+ • Divide the lateral pedicle on the lateral seminal vesicle (NVB already clear) in three layers: superficial →
+   middle → deep; all at once risks cutting into the prostate. Clip arterial bleeders — more tissue stays on
+   the prostate and the NVBs are protected.
+ • Continue onto the anterolateral bladder–prostate junction → divide Denonvilliers fascia over the seminal
+   vesicle tips; many surgeons now divide the vasa and free the seminal vesicles.
+
+Division of the Bladder Neck and Excision of the Seminal Vesicles
+ • Sequence: incise anterior bladder neck at the prostatovesical junction → through mucosa → deflate
+   balloon, clamp catheter ends together for traction → widen → divide inferior vesical branches at 5 and 7
+   o'clock → find the plane between anterior seminal vesicles and posterior bladder → divide posterior
+   bladder neck hugging the seminal vesicles, watching the ureteric orifices → Allis on bladder neck → clip
+   and divide vasa → free seminal vesicles → ligate tip arteries → divide residual Denonvilliers attachments
+   → remove specimen.
+ • Pelvic plexus lies on the lateral seminal vesicle → dissect under direct vision, especially laterally, staying
+   on the seminal vesicle and clipping small arteries.
+ • Complete seminal vesicle excision is essential for cancer control.
+ • Inspect the specimen: doubtful posterolateral margin → excise that NVB.
+ • Near the NVB, clips not cautery: a rectovesical haematoma inflames the NVBs and delays sexual
+   recovery → a small peritoneal window in the rectovesical cul-de-sac lets any haematoma decompress.
+
+Bladder Neck Reconstruction and Anastomosis
+ • Tennis-racquet closure: running or interrupted 2-0 absorbable, full thickness (including mucosa prevents
+   haematuria), posterior midline forwards, until the neck matches the urethra.
+ • Ureteric orifices: earlier indigo carmine helps; ureteric catheters usually unnecessary.
+ • Mucosal eversion: 4-0 absorbable advances mucosa over raw muscle → rosette → mucosa-to-mucosa
+   anastomosis. 6-o'clock suture left long for urethral suture placement.
+ • Intussusception — buttressing sutures stop the neck pulling open as the bladder fills:
+     ◦ Remove nearby clips (they can fold into the neck → contracture) → 2-0 Maxon in the posterior
+       bladder wall edges about 2 cm from the neck, tied midline → slacken the malleable blade to show
+       loose perivesical tissue → second figure-of-eight 2-0 Maxon anteriorly, about 2 cm lateral to the neck
+       each side, tied.
+     ◦ End point: "turtle sign" — neck poking out beneath the anterior hood like a turtle's head. Saline fill →
+       competent, little leak → empty with forceps through the neck.
+     ◦ With intussusception, most men are pad-free by 3 months and nearly all by 1 year.
+
+
+
+
+                                                   page 9 of 14
+Chapter 160 — Open Radical Prostatectomy                                                              Complications
+ • Margin–continence trade-off: this technique favours ample apical margins and may take more sphincter,
+   so some men take longer to be pad-free. Preserving the puboprostatic ligaments and dissecting closer to
+   the apex may spare sphincter but risks inadequate apical margins.
+ • Anastomosis: check haemostasis → new 16-Fr silicone Foley → pass each 3-0 Monocryl through the
+   bladder neck at its matching position, inside → out (6-o'clock traction everts mucosa; French-eye needle
+   for 12, 2 and 5 o'clock) → irrigate, test balloon, pass catheter, inflate 15 mL → Babcock on the anterior
+   bladder holds the neck down while tying — no catheter traction → anterior suture tied first, then 2, 5,
+   10, 7, 6 o'clock.
+ • No tension; if present, free the bladder from the peritoneum. Babcock coaptation has markedly reduced
+   bladder neck contracture.
+ • Closure: check catheter not caught → irrigate → small suction drain through fascia away from midline,
+   between (not through) the recti → running No. 2 nylon, skin clips → catheter taped to thigh.
+
+Postoperative Management
+ • Usually uneventful. The Walsh technique cut mean stay to about 1.7 days, with urine leak, transfusion,
+   ileus and re-exploration for bleeding all well under 1%.
+ • Mobilise the evening of surgery; discharge day 1–2. Clear fluids that evening, low-fat diet next day. Single
+   closed-suction drain out at discharge or when <50 mL/day off suction.
+ • Analgesia: intravenous patient-controlled opioid (hydromorphone, fentanyl, morphine) or ketorolac,
+   preferred to spare opioids; intravenous paracetamol works similarly but is costly. The combination
+   reduces ileus.
+ • Ketorolac (non-steroidal anti-inflammatory drug, NSAID) only if creatinine <1.2 mg/dL, blood loss <1500
+   mL, no uncontrolled diabetes, no postoperative haematuria; given before recovery transfer or next
+   morning.
+ • Catheter: very bothersome, delays return to activity and work → remove as early as safe; the risks are
+   retention and bladder neck contracture. Never with significant extravasation.
+ • Most anastomoses are watertight on cystography by day 4, yet removal then causes frequent acute
+   retention — so not recommended.
+ • Delayed healing is almost always a perianastomotic haematoma distracting the anastomosis.
+ • Removal at 1 week, three ways: routine cystography (early removal, identifies the few needing longer
+   drainage); transperineal saline sonocystography (no contrast cost or radiation); or no imaging if
+   haematocrit falls <6% from recovery to discharge.
+ • Bladder spasms usually settle with reassurance; if severe, oral oxybutynin 5 mg or oral diazepam 5–10
+   mg.
+Concept — Every step does one of three jobs: secure absolute venous control before touching the apex; keep
+the right fascia on the specimen; keep traction and heat off the NVB. Apex-first, side-to-side, clip-not-cautery
+and stapled or sutured DVC control all follow from these.
+
+COMPLICATIONS
+ • ORRP is well tolerated, with minimal morbidity and mortality 0.2%.
+
+Intraoperative Complications
+INTRAOPERATIVE COMPLICATIONS: CAUSE AND MANAGEMENT
+
+
+
+
+                                                   page 10 of 14
+Chapter 160 — Open Radical Prostatectomy                                                                      Complications
+
+Complication            Typical setting                     Management
+Haemorrhage         Endopelvic fascia incision,             Packing, exposure, suture or clip ligation; fine 5-0
+(commonest; usually puboprostatic ligament division,        cardiovascular sutures if needed. Troublesome DVC bleeding
+venous)             apical exposure and DVC                 → divide the DVC completely over the urethra and oversew
+                    transection                             the end (single best measure)
+Obturator nerve         PLND                                If divided → reanastomose with fine non-absorbable
+injury                                                      sutures
+Rectal injury           Apical dissection of small          Two-layer repair + omental interposition (below); diverting
+                        prostates, developing the           colostomy after previous radiotherapy (salvage RP)
+                        rectum–Denonvilliers plane
+Ureteric injury         Dissecting within the trigone       Ureteric reimplantation
+                        while seeking the bladder–
+                        seminal vesicle plane
+
+ • Why partial DVC division bleeds more: exposure needs traction, which pulls partly cut veins open. Fully
+   divided and suture-ligated, the DVC usually stops.
+ • Blood loss typically 300–1000 mL; homologous transfusion rarely needed. No autologous donation, but
+   type and screen for every patient.
+ • Rectal repair sequence: finish prostatectomy → reconstruct bladder neck → perfect haemostasis → small
+   peritoneal opening → slender, well-vascularised omental pedicle long enough for the pelvic floor →
+   through an opening in the rectovesical cul-de-sac → assistant dilates the anal sphincter digitally to show
+   the injury → freshen edges, close in two layers → omentum fixed over the repair, between rectal
+   closure and anastomosis → anastomosis → copious antibiotic irrigation → several days of broad-
+   spectrum aerobic and anaerobic cover.
+ • The omentum prevents rectourethral fistula; in the reported series there was no wound infection, pelvic
+   abscess or fistula.
+
+Postoperative Complications
+ • Life-threatening delayed haemorrhage is rare. Significant bleeding = needing acute transfusion to
+   support blood pressure. Most are managed expectantly.
+ • Explored vs conservative: similar blood use, but shorter stay after re-exploration. Left alone, the
+   haematoma may drain through the anastomosis → bladder neck contracture and long-term
+   incontinence; only a minority of explored men have prolonged mild incontinence.
+ • Signs of major bleeding in recovery — hypotension, tachycardia, falling urine output, lower abdominal
+   distension → early exploration to evacuate the haematoma, preventing prolonged ileus, anastomotic
+   dehiscence, prolonged catheterisation and contracture. Immediate exploration after resuscitation often
+   still allows discharge on day 1–2.
+
+Thromboembolic Events
+ • Deep vein thrombosis (DVT) with pulmonary embolism (PE) is the major potential cause of death after
+   RP.
+ • Risk highest with PLND and peaks 14–28 days after surgery → stay alert for 4 weeks.
+ • Prevention: careful positioning to avoid compressing leg veins, intermittent pneumatic compression,
+   early ambulation. Some centres add mini-dose heparin or low-molecular-weight heparin (LMWH); the
+   authors do not, as their DVT and PE rates are very low.
+ • An informed patient is the best protection: repeated verbal and written advice to call at once with calf or
+   leg swelling or pain, pleuritic chest pain, haemoptysis, breathlessness, or sudden weakness or fainting.
+
+
+
+                                                        page 11 of 14
+Chapter 160 — Open Radical Prostatectomy                                                          Complications
+ • Treatment: twice-daily subcutaneous LMWH, unmonitored, is at least as effective and safe as adjusted-
+   dose intravenous unfractionated heparin.
+
+Bladder Neck Contracture
+ • Historically 0.5–10%, now much lower.
+ • Causes: poor approximation, urinary extravasation, haematoma distracting the bladder neck.
+ • Typically presents at about 3 months with a poor stream or regressing continence.
+ • Treatment ladder: cystoscopic dilatation → cold-knife incision at 3, 6 and 9 o'clock + short-term
+   intermittent self-catheterisation → recalcitrant: triamcinolone acetonide 200 mg in 5 mL injected after
+   incision → very rarely, reconstruction with an artificial urinary sphincter.
+
+Urinary Incontinence
+ • Mechanism: usually intrinsic sphincter deficiency. Few men over 65 (population registry data) need an
+   incontinence operation within 2 years.
+ • Main cause: sphincter injury during DVC ligation and division. Contributors: a poorly developed
+   sphincter, or a thinner, more collagenous one in older men; smooth muscle damaged by large deep
+   anastomotic sutures or denervated by NVB injury; contracted or over-wide bladder neck.
+ • Prevention: preserve the sphincter at the apex; tension-free anastomosis; small, supple bladder neck;
+   precise mucosa-to-mucosa anastomosis.
+ • Pre-existing outlet obstruction (detrusor hypertrophy, poor compliance) slows recovery → avoid
+   excessive bladder traction intraoperatively.
+ • Until dry: less fluid; no caffeine or alcohol; stop α-adrenergic antagonists taken for hypertension or
+   benign prostatic hyperplasia (BPH). By severity and cause: imipramine, phenylephrine, anticholinergics or
+   adrenergic agonists.
+ • Continence defined as 0–1 pad per 24 h.
+RECOVERY AFTER ORRP BY AN EXPERIENCED SURGEON (LEPOR CONTINENCE; WALSH POTENCY)
+
+Time after surgery                  Continent (0–1 pad/24 h)             Potent (Walsh series)
+3 months                            80%                                  38%
+6 months                            90%                                  54%
+12 months                           93%                                  73%
+18 months                           —                                    86%
+24 months                           97%                                  —
+
+ • Pattern: continence returns faster and more completely than potency; both climb steadily, so counsel
+   that recovery is gradual.
+ • Trap: these are single-surgeon, centre-of-excellence figures; another expert centre found only about a
+   third back to baseline potency at 2 years after bilateral nerve sparing, despite PDE5 inhibitors.
+
+Erectile Dysfunction
+ • Four predictors of recovery: age <65, preoperative potency, no adult-onset diabetes, bilateral NVB
+   preservation. Age at surgery independently affects recovery.
+ • Walsh series (validated questionnaire, independent third-party review): 86% had unassisted intercourse,
+   with or without sildenafil, at 18 months; about a third used sildenafil, but only 4% needed it.
+ • Most recovery within 2 years; meaningful gains up to 4 years.
+ • High anterior release → earlier recovery and return to baseline: most potent men potent at 12 months,
+   most back to baseline — including those having intercourse more than weekly. Equal results after
+
+
+                                                      page 12 of 14
+Chapter 160 — Open Radical Prostatectomy                                Summary of Open Radical Retropubic Prostatectomy
+   unilateral and bilateral release show the gain is from less traction and more accurate preservation, not
+   anterior branches; other surgeons report similar gains with early release.
+TRIALS OF PDE5 INHIBITOR PENILE REHABILITATION AFTER RP
+
+Trial             Design                       Arms                        Result
+Padma-Nathan First multicentre randomised Nightly sildenafil 50 mg vs      Better erectile function at 1 year, off
+             placebo-controlled trial     placebo, 9 months                drug — first evidence for prophylactic
+                                                                           use
+REINVENT          Multi-institutional,         Vardenafil on demand vs      On-demand better than nightly at end
+(Montorsi)        randomised, double-blind     nightly vs placebo, 9 months of blinded treatment
+Sildenafil        Randomised, similar design   On-demand vs nightly        No difference; trend favouring on-
+schedule trial                                 sildenafil                  demand
+
+ • Pattern: rehabilitation helps, but no trial shows nightly beats on-demand — daily dosing is not evidence-
+   based.
+ • Under-reported effects: penile shortening and climacturia.
+
+Lower Urinary Tract Symptoms
+ • ORRP improves lower urinary tract symptoms (LUTS) in men with moderate-to-severe International
+   Prostate Symptom Score (IPSS), who usually gain urinary quality of life despite incontinence risk.
+ • Benefit lasts up to 15 years → RP appears to alter the natural history of BPH and LUTS.
+Concept — Most late complications trace to one event, the pelvic haematoma: it distracts the anastomosis,
+causes contracture and incontinence, and inflames the NVBs. Hence early re-exploration, clips near the
+bundles and a peritoneal window.
+
+SUMMARY OF OPEN RADICAL RETROPUBIC PROSTATECTOMY
+ • More men are diagnosed younger with curable disease, and live longer: a man aged 65–70 has a 50%
+   chance of 15 more years.
+ • ORRP is ideal for men who can be cured and will live long enough to benefit — who also have the best
+   postoperative quality of life.
+ • Robot-assisted RP has spread over the last decade; its main advantage is less blood loss, and even
+   proponents concede no meaningful overall advantage. Some of the authors still operate only open.
+
+ KEY POINTS: ANATOMIC OPEN RADICAL RETROPUBIC PROSTATECTOMY
+   • Total removal = best cure for organ-confined cancer.
+   • Goals: cancer → complications → continence → potency.
+   • Defer 6 weeks after biopsy, 12 weeks after TURP.
+   • Fibreoptic headlight: most useful instrument (surgery beneath the pubis).
+   • Grade Group 1–2, low-volume favourable → no PLND.
+   • Anterior apical nerve branches → high anterior release before DVC division → earlier potency.
+   • Both NVBs usually preserved; bilateral excision rarely needed.
+   • Induration → excise bundle; fixed bundle → don't preserve; touch dulled laparoscopically, absent
+     robotically.
+   • Transfusion for hypotension → explore, evacuate haematoma (prevents contracture and
+     incontinence).
+   • Thromboembolism = major cause of death; positioning, compression devices, early ambulation.
+
+
+                                                      page 13 of 14
+Chapter 160 — Open Radical Prostatectomy                               Summary of Open Radical Retropubic Prostatectomy
+   • Complete seminal vesicle excision essential for cancer control.
+   • ORRP ideal for curable men who will live long enough to benefit.
+
+
+
+
+                                                 page 14 of 14
+
