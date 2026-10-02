@@ -1,0 +1,1157 @@
+Chapter 140 — Retroperitoneal Tumours
+OVERVIEW
+ • The retroperitoneum (RP) is a common site of pathology relevant to urologists; its tumours frequently
+   involve the urinary tract, retroperitoneal vasculature and lymphatics.
+ • Tumours may be primary to the RP or metastatic deposits that use it as a landing zone; distinguishing
+   malignant from benign and primary from metastatic drives management.
+ • Conditions unique to the kidney and adrenal are covered in their own chapters.
+
+ANATOMIC CONSIDERATIONS OF THE RETROPERITONEUM
+ • Borders: diaphragm superiorly; inlet of the true pelvis inferiorly; peritoneal contents anteriorly;
+   posterior body wall posteriorly; flank musculature laterally.
+ • Contents: upper urinary tract (kidneys, renal pelvis, proximal and mid ureter); adrenals; great vessels
+   (infradiaphragmatic aorta and vena cava, common iliac vessels, lumbar branches); RP lymphatics and
+   connective tissue (RP fat, Gerota's fat and fascia); sensory, motor and autonomic nerves (sympathetic
+   chain of ganglia, postganglionic sympathetic and parasympathetic fibres).
+ • Adjacent peritoneal organs — second and third parts of the duodenum, ascending and descending
+   colon, pancreas, splenic hilum — demand attention because RP tumours are expansile and distort or
+   invade their neighbours.
+
+RIGHT VERSUS LEFT RETROPERITONEUM — STRUCTURES AT RISK
+Region                     Structures of greatest concern                  Assessment note
+Right upper RP             Kidney, ureter, adrenal; more importantly       Right colonic mesentery hard to
+                           duodenum, inferior vena cava (IVC), posterior   assess; indistinct borders and loss of
+                           diaphragm, right liver segments                 fat planes suggest involvement
+Left RP                    Aorta, splenic hilum, tail of pancreas;         As for right
+                           diaphragm; left colonic mesentery
+Both sides                 Posterior body wall and psoas                   Depth of psoas invasion predicts
+                                                                           nerve injury
+
+ • Genitofemoral nerve injury → transient or permanent paraesthesia of the anterior and medial thigh.
+ • Psoas and femoral nerve injury → motor weakness of hip flexion and knee extension, with functional
+   impairment — the greater concern.
+ • Preoperative anticipation of involved structures gives a safer operation; consult hepatobiliary, vascular,
+   thoracic and/or general surgeons as the tumour's location requires, and set realistic expectations of
+   convalescence.
+
+ KEY POINTS
+  • The RP is a discrete compartment that houses or borders parts of the urinary, vascular,
+    hepatobiliary, gastrointestinal, neurological and lymphatic systems.
+  • Its tumours therefore often involve several organ systems and require careful planning before any
+    intervention.
+
+Concept — The RP is defined by what surrounds it; because its tumours grow silently and expansively, the
+operative problem is usually the neighbouring structure, not the tumour itself.
+
+
+                                                   page 1 of 23
+Chapter 140 — Retroperitoneal Tumours                                           Initial Evaluation of the Retroperitoneal Mass
+
+ INITIAL EVALUATION OF THE RETROPERITONEAL MASS
+   • Silent growth: the insulation of the RP lets tumours reach considerable size before symptoms; resected
+     RP sarcomas average more than 15 cm.
+   • Whether found incidentally or through symptoms, the next steps follow the same sequence: imaging →
+     serology → tissue.
+
+ Imaging
+  Modality                Role                                                     Limitation
+  Computed                Optimal initial imaging (National Comprehensive Cancer Cannot determine histological
+  tomography (CT) of      Network (NCCN) guidelines): size, internal density,       origin or malignant potential
+  chest, abdomen          calcification, relation to organs, border infiltration,   from appearance alone
+  and pelvis              regional and distant spread. Intravenous contrast shows
+                          cystic change and necrosis; oral contrast shows duodenal,
+                          small bowel and colonic involvement. Negative
+                          Hounsfield units (fat) can be pathognomonic —
+                          liposarcoma, angiomyolipoma, myelolipoma
+  Magnetic resonance Degree of vascular involvement when central vessels are       —
+  imaging (MRI)      distorted; defines cystic and fatty components; internal
+                     detail when contrast is contraindicated (allergy, poor
+                     renal function)
+  Positron emission       Selective: viability of post-chemotherapy residual       False positives
+  tomography (PET)-       masses in metastatic seminoma; grade and subtype of
+  CT                      RP liposarcoma; staging and treatment adaptation in
+                          some lymphomas
+
+ Laboratory Testing
+   • Young man with an RP mass → alpha-fetoprotein (AFP) and human chorionic gonadotrophin (hCG):
+     critical for diagnosis, prognosis and management of germ cell tumours (GCTs).
+   • Blood counts identify dyscrasias suggesting lymphoproliferative disease; metabolic panels assess renal
+     and hepatic function.
+
+ Tissue Sampling
+   • Fine-needle aspiration (FNA) or core-needle biopsy gives histological subtype and grade, and matters
+     most where it changes the sequence of therapy.
+   • Lymphoma: initial therapy is systemic chemotherapy in all cases, regimen by subtype — biopsy is
+     essential.
+   • Sarcoma: surgery was historically first, so biopsy played little role; high-grade tumours are now often
+     treated multimodally, so biopsy selects patients for up-front chemotherapy, immunotherapy, targeted
+     agents or radiotherapy.
+   • Route (transperitoneal vs retroperitoneal) and type (FNA vs core) follow presentation and access; open
+     or laparoscopic biopsy when larger samples are needed, usually in advanced or unresectable disease.
+   • Core (14- or 16-gauge coaxial) over FNA: more adequate tissue and preserved cellular architecture.
+   • Exception — liposarcoma: biopsy is often non-diagnostic and of limited value in guiding treatment.
+
+   KEY POINTS
+    • Many RP tumours grow silently over months or years and present large, with adjacent organ
+      involvement.
+
+
+
+                                                      page 2 of 23
+Chapter 140 — Retroperitoneal Tumours                                                     Initial Evaluation of the Retroperitoneal Mass
+    • Cross-sectional imaging best assesses size and extent; serology is important, specifically in GCTs.
+    • FNA and/or core biopsy should be considered in the initial work-up of every RP mass.
+
+ Concept — Imaging defines extent but not identity; identity comes from markers and tissue, and biopsy
+ earns its place exactly where the result would change the first treatment.
+
+ DIFFERENTIAL DIAGNOSIS
+   • RP tumours fall into primary and metastatic tumours of germ cell/gonadal, mesodermal, neurogenic
+     and haematological origin; management differs widely between groups.
+
+ TABLE 140.1 IMMUNOHISTOCHEMICAL AND GENETIC CHARACTERISTICS
+  Entity                     Notable positives                      Notable negatives           Genetic markers
+  Germ cell tumours
+  Seminoma                   Nuclear: OCT4, SALL4, NANOG.           CD30, pan-keratin           i(12p)
+                             Cytoplasmic: PLAP, CD117, D2-40
+  Nonseminoma (all)          —                                      Inhibin, calretinin         i(12p)
+  Embryonal carcinoma        Nuclear: OCT4, SALL4, SOX2.            CD117, D2-40
+                             Cytoplasmic: CD30, pan-keratin,
+                             CK7
+  Yolk sac tumour            AFP, SALL4, glypican-3, pan-           OCT4, CD30, CK7
+                             keratin
+  Choriocarcinoma            hCG, pan-keratin                       OCT4, CD30
+  Teratoma                   No distinguishing entry; diagnosed on architecture
+  Sex cord stromal tumours
+  Leydig, granulosa          Inhibin, calretinin                    SALL4, PLAP
+  Sertoli                    Inhibin, calretinin; nuclear β-        SALL4, PLAP                 Subset: CTNNB1 (β-catenin)
+                             catenin*                                                           mutations
+  Mesenchymal
+  Well-/de-                  MDM2, CDK4, S100                                                   Ring chromosomes or 12q
+  differentiated                                                                                amplification
+  liposarcoma
+  Pleomorphic                S100                                   MDM2, CDK4
+  liposarcoma
+  Leiomyosarcoma             SMA, desmin, h-caldesmon               MDM2, CD117,
+                                                                    HMB-45, DOG1
+  Undifferentiated           Variable; usually unhelpful            Lineage markers
+  pleomorphic sarcoma
+  (UPS)†
+  Synovial sarcoma           TLE1, CD99, EMA, pan-keratin           FLI1                        t(X;18)
+  Solitary fibrous           STAT6, CD34                            Desmin, S100, DOG1          NAB2-STAT6 fusion
+  tumour
+  Extraskeletal Ewing        CD99, FLI1                             TLE1, EMA, pan-             EWSR1 translocations,
+  sarcoma                                                           keratin                     especially EWSR1-FLI1,
+                                                                                                t(11;22)
+  Desmoplastic small         EMA, desmin, pan-keratin, WT1                                      t(11;22)(p13;q12) WT1-
+  round cell tumour          (C-terminus antibody only)                                         EWSR1
+
+
+
+
+                                                           page 3 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                    Differential Diagnosis
+
+  Entity                     Notable positives                   Notable negatives       Genetic markers
+  PEComa                     Variably melanocytic (HMB-45,                               TSC2 deletions; subset TFE3
+                             Melan A) and muscle (SMA,                                   rearrangements
+                             desmin)
+  Desmoid                    Nuclear β-catenin                                           Gardner syndrome (APC);
+  (fibromatosis)                                                                         sporadic CTNNB1
+  Neurogenic
+  Ganglioneuroblastoma CD56, chromogranin A,                                             Loss of heterozygosity 11q,
+                       neurofilament, synaptophysin,                                     1p; MYCN amplification
+                       neuron-specific enolase
+  Paraganglioma              Synaptophysin, chromogranin A,                              Neurofibromatosis type 1
+                             GATA3                                                       (NF-1); SDHB
+  Neurofibroma               S100                                                        NF-1 (multifocal and/or
+                                                                                         plexiform)
+  Malignant peripheral       S100 (patchy)                       H3K27me3 (lost in       NF-1 when from neurofibroma
+  nerve sheath tumour                                            about half)             or major nerve; subset PRC2
+  (MPNST)                                                                                inactivation
+  Haematological and other
+  Classic Hodgkin            CD30, PAX5                          CD45
+  lymphoma
+  Non-Hodgkin                Variable; usually CD45
+  lymphoma
+  Plasma cell neoplasm       CD138, CD38                         CD45, CD20
+  Cystic lymphangioma        CD31, CD34, D2-40
+  Cystic mesothelioma        Calretinin, pan-keratin
+  RP cancer of unknown No distinguishing entry
+  primary
+
+ * Nuclear β-catenin is very specific for Sertoli cell tumour but seen in only a majority; its absence does not exclude
+ the diagnosis. † Text and table differ for UPS — see that section.
+   • What the table is for: resolving a mass that imaging cannot type. Pattern: germ cell tumours sort on
+     OCT4/CD30/SALL4; sex cord stromal tumours on inhibin/calretinin with SALL4/PLAP negativity;
+     mesenchymal tumours on one defining lesion (MDM2 amplification, a translocation or a fusion).
+   • Traps: Hodgkin lymphoma is CD45-negative; pleomorphic liposarcoma is MDM2/CDK4-negative unlike
+     its well- and de-differentiated relatives; Ewing sarcoma and desmoplastic small round cell tumour are
+     both t(11;22) with EWSR1 but fuse to different partners (FLI1 vs WT1).
+
+ Germ Cell/Gonadal Origins
+   • Primary in the RP or metastatic to it. Uncommon overall, but an RP mass in a young man must
+     immediately raise the question of GCT.
+   • Sex cord stromal tumours of the testis also use the RP as a predictable landing zone. Seminoma,
+     nonseminoma and the sex cord stromal tumours (Leydig, Sertoli, granulosa) each have distinct biology
+     dictating management.
+ Germ Cell Tumours
+   • Covered fully in Chapters 79 and 80; relevant here for their propensity to metastasise to the RP and
+     occasional primary RP origin.
+   • Incidence rising, most rapidly in Hispanic men. Usually present as an enlarging scrotal mass; in the RP,
+     as heterogeneous, circumscribed masses along the RP lymph node chains.
+
+
+                                                       page 4 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                         Differential Diagnosis
+   • CT best characterises RP disease; scrotal ultrasound (US) detects the testicular primary.
+   • Seminoma and nonseminoma differ in distribution and rate of distant disease, serology, sensitivity to
+     chemotherapy, surgery or radiotherapy, and long-term relapse risk.
+
+ SEMINOMA VERSUS NONSEMINOMA
+                         Seminoma                                                     Nonseminoma
+  Origin,                Germinal epithelium of seminiferous tubules; about           At least one of embryonal carcinoma,
+  components             half of GCTs at presentation                                 yolk sac tumour, choriocarcinoma,
+                                                                                      teratoma
+  Age                    Third to fifth decades                                       Late teens to early 30s (later possible)
+  Markers                hCG raised in 10–15% (syncytiotrophoblasts);                 AFP: yolk sac and embryonal. hCG:
+                         tumour-attributable AFP excludes pure seminoma               choriocarcinoma, embryonal (and
+                                                                                      seminoma)
+  Gross, histology       Fleshy, tan; sheets of polygonal clear cells in nests        Variable haemorrhage, necrosis, cystic
+                         divided by fibrous septa; lymphocytic infiltrate in          change, calcification
+                         most; uniform, orderly prominent nucleoli;
+                         numerous mitoses
+  Subtypes               Classic, spermatocytic (rarely if ever metastasises),        Mixed components
+                         anaplastic (classic vs anaplastic has little prognostic
+                         value)
+  Treatment              Mostly confined and cured by orchidectomy;                   Embryonal, yolk sac and
+  sensitivity            metastatic disease chemo- and radiosensitive                 choriocarcinoma chemosensitive;
+                                                                                      teratoma chemo- and radioresistant
+                                                                                      → surgery central in advanced disease
+  Prognosis              One of the most curable solid tumours; metastatic 5- —
+                         year overall survival (OS) 95% good-risk, 88%
+                         intermediate-risk (International Germ Cell Cancer
+                         Collaborative Group (IGCCCG) update)
+
+ NONSEMINOMATOUS COMPONENTS
+  Component            Histology                                         Immunohistochemistry (IHC)
+  Embryonal            Clusters of polygonal cells, variably             Nuclear OCT4, SALL4, SOX2; CD30, CK7, pan-keratin
+  carcinoma            eosinophilic cytoplasm, prominent                 in most; AFP in up to a third
+                       nucleoli, disorganised (contrast
+                       seminoma)
+  Yolk sac tumour      Variable architectural pattern                    SALL4, glypican-3, pan-keratin positive; weakly AFP;
+                                                                         OCT4 and CD30 negative
+  Choriocarcinoma      Extensive haemorrhage and necrosis;               Diffuse hCG, pan-cytokeratin; OCT4 and CD30
+                       syncytiotrophoblasts and mononuclear              negative
+                       trophoblasts
+  Teratoma             Random elements of several germ layers            Little role — architecture and marbling are
+                       — squamous/glandular epithelium,                  diagnostic
+                       smooth muscle, bone, cartilage, mature
+                       and immature neural tissue; cystic
+                       change common; somatic
+                       transformation into sarcoma or
+                       carcinoma
+
+   • Chromosome 12p abnormalities (isochromosome 12p) are characteristic in most GCTs.
+   • Extragonadal GCT: GCT confined to mediastinum or RP without testicular primary accounts for 3–5% of
+     GCTs; the RP is one of the two principal sites. True incidence is controversial: when an RP
+
+
+                                                          page 5 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                 Differential Diagnosis
+     "extragonadal" GCT lateralises to the left or right landing zone, most patients have teratoma or scar
+     (necrosis/fibrosis) in the ipsilateral testis at post-chemotherapy orchidectomy — a burnt-out primary.
+   • Management: GCT identified serologically or pathologically in the RP → platinum-based
+     chemotherapy first; if nonseminomatous → resect residual disease after chemotherapy in all cases.
+ Concept — Every management difference between seminoma and nonseminoma flows from teratoma:
+ chemoresistant and marker-silent, it makes surgery central for nonseminoma and marginal for seminoma.
+ Sex Cord Stromal Tumours
+   • Less than 5% of testicular neoplasms; Leydig, Sertoli and granulosa cell types.
+                     Leydig cell                      Sertoli cell              Granulosa cell
+  Frequency          Commonest sex cord stromal       <1% of testicular         Rarest; juvenile type up to 7% of
+                     tumour                           neoplasms                 prepubertal testicular tumours
+  Age                30–60 years                      35–50 years               Juvenile: mostly before 6 months;
+                                                                                adult type
+  Hallmark           Reinke crystals — classic but    Association with Peutz-   Juvenile: lobular growth with variably
+                     present in only about 30%        Jeghers syndrome          sized follicles, benign. Adult:
+                                                                                resembles ovarian granulosa tumour;
+                                                                                a quarter present with infertility and
+                                                                                gynaecomastia; slow growing, RP
+                                                                                metastasis rarely reported
+  Differential       Tumours of congenital adrenal    Seminoma →              —
+                     hyperplasia → distinguished by   cytokeratin and inhibin
+                     raised adrenocorticotrophic      positive, placental
+                     hormone (ACTH)                   alkaline phosphatase
+                                                      (PLAP) negative favours
+                                                      Sertoli
+
+   • Most are benign, but about 10% metastasise; malignant forms respond poorly to chemotherapy and
+     radiotherapy. Spread: RP first, then lung, as with mixed GCTs.
+   • Surveillance is hazardous: mortality is high once metastasis develops on surveillance, even after
+     adequate resection → interest in immediate retroperitoneal lymph node dissection (RPLND) in
+     clinically node-negative patients, for staging and to prevent further nodal spread.
+   • Metastasis is the only reliable marker of malignancy. Primary features predicting aggressive
+     behaviour: older age; size larger than 4–5 cm; necrosis; mitoses more than 3–5 per 10 high-power
+     fields (HPF); moderate-to-severe atypia; infiltrative margins or invasion of adjacent structures;
+     lymphovascular invasion.
+   • Radiologically enlarged nodes carry a poor prognosis, although some patients with positive RP nodes
+     are cured.
+ Concept — Because malignant sex cord stromal tumour resists chemotherapy and radiotherapy, surgery is
+ the only lever, so it must be used on primary-tumour risk features before nodes become radiologically
+ evident.
+
+ Mesodermal Origins
+   • Soft-tissue tumours. Sarcomas: commonest liposarcoma, leiomyosarcoma, malignant fibrous
+     histiocytoma (MFH); less commonly angiosarcoma, rhabdomyosarcoma, myxosarcoma. Benign: lipoma,
+     leiomyoma, fibroma, haemangiopericytoma, perivascular epithelioid cell tumour (PEComa), chordoma,
+     myelolipoma, xanthogranuloma, myxoma, gastrointestinal stromal tumour (GIST).
+
+
+
+
+                                                      page 6 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                Differential Diagnosis
+   • Soft-tissue sarcoma is <1% of adult solid cancers; 15–20% arise in the RP. About 50 subtypes exist, few
+     of them in the RP; overlap in appearance means diagnosis requires integrated IHC, molecular,
+     cytogenetic and clinical data.
+
+ RETROPERITONEAL SARCOMAS AND MESENCHYMAL TUMOURS AT A GLANCE
+  Entity                   Frequency        Discriminating feature                       Principal treatment
+  Well-/de-                Commonest,       Fat density; 12q (MDM2/CDK4)                 Radical compartment
+  differentiated           ~60% of RP       amplification                                resection
+  liposarcoma              sarcomas
+  Leiomyosarcoma           Second, ~20%     From vessel wall or smooth muscle; no fat    Negative margins +
+                                                                                         adjuvant therapy
+  MFH/UPS                  ~A quarter of    No fat; heterogeneous; older adults          Wide resection
+                           soft-tissue
+                           sarcomas
+  Unclassified sarcoma Up to 20%            Diagnosis of exclusion; prior radiotherapy   Exclude de-differentiated
+                                            in a quarter                                 liposarcoma (MDM2)
+  MPNST                    <10%             Nerve origin; NF-1                           Surgery; nerve sacrifice
+  Synovial sarcoma         Uncommon in RP   Calcification; t(X;18)                       Grade-dependent
+  Solitary fibrous         —                NAB2-STAT6; Doege-Potter                     En bloc resection, organ-
+  tumour                                                                                 sparing; radiosensitive
+  Ewing sarcoma            Rare in RP       Small round blue cell; EWSR1-ETS             Chemotherapy-based
+                                                                                         multimodal
+  Desmoplastic small       Rare             WT1-EWSR1; peritoneal implants               Multimodal; universally
+  round cell tumour                                                                      poor
+  PEComa                   —                Melanocytic + muscle markers; TSC2           Excision; mTOR inhibitors
+  Desmoid                  —                No metastasis; β-catenin                     Surgery or observation
+
+ Liposarcomas
+   • Malignant, locally aggressive tumours of adipocytes with nuclear atypia and hyperchromasia. Well-
+     differentiated (WD) versus de-differentiated (DD) depends on the presence of a higher-grade, non-
+     lipogenic component.
+   • Both present as painless, often incidental masses; DD tumours grow rapidly, signalling the more
+     aggressive phenotype.
+   • CT: low-attenuation (fat-density) mass with mass effect on surrounding structures; internal higher-
+     density areas indicate de-differentiated components — a single tumour may contain both.
+   • WD histological types: adipocytic (lipoma-like — scant atypical hyperchromatic nuclei among fat
+     lobules, so core biopsies are often inconclusive); sclerosing (hyalinised stroma with scattered atypical
+     adipocytes); inflammatory (lymphoid aggregates may mimic primary lymphoproliferative malignancy).
+     Diagnosis usually needs histology plus clinical and anatomical context.
+   • DD histology: arises from WD components — atypical adipocytes surrounding fleshy non-lipogenic
+     areas resembling undifferentiated spindle cell sarcoma, myxoid tumour, meningothelial or pleomorphic
+     patterns; heterologous osteosarcoma, rhabdomyosarcoma, leiomyosarcoma or small round cell
+     elements occur.
+   • Molecular: both show overexpression and/or amplification of 12q genes MDM2 and CDK4 (with S100
+     positivity); fluorescence in situ hybridisation (FISH) or IHC for MDM2/CDK4 confirms the diagnosis in
+     limited samples or where stroma or inflammation obscures it.
+
+
+
+
+                                                     page 7 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                     Differential Diagnosis
+ WELL-DIFFERENTIATED VERSUS DE-DIFFERENTIATED LIPOSARCOMA — BEHAVIOUR
+                                   Well-differentiated                            De-differentiated
+  Growth                           Slow, painless                                 Rapid
+  Local recurrence                 Up to 40%                                      Similar
+  Distant metastasis               Uncommon                                       Up to 20%
+  5-year cancer-specific           —                                              30%
+  mortality
+
+   • Local recurrence depends on tumour biology and surgery. The impact of R0 versus R1 margins is
+     debated, but negative margins optimise outcome; radical compartment resection (function-
+     preserving) improves local recurrence.
+   • Average time to recurrence is about 2 years → long-term surveillance is required.
+
+ SYSTEMIC THERAPY FOR UNRESECTABLE OR METASTATIC LIPOSARCOMA
+  Agent                       Class                         Line                        Result
+  Anthracycline-based         Cytotoxic                     First                       Modest short-term survival gain
+  regimens
+  Trabectedin                 DNA-binding agent             After anthracycline         Progression-free survival (PFS)
+                                                                                        benefit, no OS benefit
+  Pembrolizumab               Programmed death-1            Second line                 Approved for high tumour
+                              inhibitor                                                 mutational burden without
+                                                                                        satisfactory alternatives
+
+ Pleomorphic Liposarcomas
+   • Very rare; adults; extremities more than RP; also spermatic cord. Fast growing.
+   • Pleomorphic lipoblasts that do not overexpress MDM2 or CDK4; frequent mitoses; variable spindle
+     and epithelioid cells. On needle biopsy they mimic poorly differentiated carcinoma or renal cell
+     carcinoma; identifying poorly differentiated lipoblasts is essential.
+   • Rapid progression to widespread metastasis, lung commonest.
+ Concept — The liposarcoma family sorts on MDM2: amplified in well- and de-differentiated tumours (fatty,
+ locally recurrent disease), absent in pleomorphic tumours (systemic disease); within the amplified pair, de-
+ differentiation is what adds distant spread.
+ Leiomyosarcomas
+   • Malignant smooth muscle tumours; second commonest RP sarcoma (~20%). Arise from the media of
+     RP blood vessels, the muscularis of the collecting system, or other smooth muscle.
+   • Grow silently until mass effect or obstruction impairs venous return, urinary drainage or the
+     gastrointestinal tract. In women, many are gynaecological in origin. Often incidental. Rarely arise with
+     Epstein-Barr virus infection in immunosuppressed patients.
+   • Homogeneous tumours encasing structures with fleshy bundles; occasional necrosis or cysts. Fascicles
+     of atypical smooth muscle, atypia graded; de-differentiation uncommon.
+   • Benign versus malignant criteria: location (RP vs somatic soft tissue), mitotic rate, nuclear and cellular
+     atypia, necrosis → spectrum leiomyoma → smooth muscle tumour of uncertain malignant potential
+     (STUMP) → leiomyosarcoma.
+   • IHC: SMA, desmin, h-caldesmon positive; MDM2, CD117, HMB-45, DOG1 negative.
+
+
+
+
+                                                         page 8 of 23
+Chapter 140 — Retroperitoneal Tumours                                                              Differential Diagnosis
+   • Local and regional recurrence common; distant spread frequent. Needle biopsy underestimates
+     aggressiveness → aggressive multimodal approach; negative margins with adjuvant therapy (for
+     distant microscopic disease) give the best prognosis.
+ Malignant Fibrous Histiocytoma/Undifferentiated Pleomorphic Sarcoma
+   • Fibroblastic and histiocyte-like cells; fifth and sixth decades; about a quarter of soft-tissue sarcomas.
+     Often silent and large at detection.
+   • Radiology: heterogeneous soft-tissue mass (central necrosis, haemorrhage, myxoid degeneration);
+     absence of fat separates it from liposarcoma; vascular invasion rare; peripheral nodular enhancement
+     of a lobulated mass; calcification in about 10%.
+   • Metastasis to lung, liver and bone.
+   • Histology: spindle fibroblasts, round histiocyte-like cells, lymphocytes, foam cells, giant cells;
+     pseudoangiomatoid pattern; plasma cell and lymphocytic infiltrate; fibrous pseudocapsule.
+   • Types: storiform-pleomorphic and myxoid (high grade) versus giant cell, angiomatoid and inflammatory
+     (more often low grade).
+   • Treatment is surgical in the absence of metastasis: wide resection with negative margins reduces local
+     and distant relapse and improves survival. Adjuvant chemotherapy or radiotherapy is unproven; 5-year
+     OS about half.
+
+ UPS IMMUNOPHENOTYPE — TEXT VERSUS TABLE 140.1
+  Source                 Stated profile
+  Body text              Desmin, epithelial membrane antigen (EMA), CD68, CD99 positive; fusions FUS-ATF1, EWSR1-
+                         ATF1, EWSR1-CREB1
+  Table 140.1            IHC variable and usually unhelpful; negative for lineage markers
+
+   • Reason: the text's markers and fusions belong to the angiomatoid subtype; UPS as a category is
+     defined by absence of a line of differentiation, as the table states.
+ Synovial Sarcomas
+   • Uncommon in the RP; all ages. Arise from kidney, adrenal or other viscera; nerve origin can mimic
+     MPNST.
+   • Large and asymptomatic; intratumoral calcification hints at the diagnosis. Rarely follows prior
+     radiation.
+   • Mostly encapsulated with cystic degeneration; herringbone spindle cell pattern; mitoses vary with
+     grade; glandular, cystic or round cell differentiation causes confusion.
+   • TLE1 positive in about 90% (not exclusive); t(X;18) in most.
+   • Outcome depends on grade; favourable: younger age, diffuse calcification.
+ Solitary Fibrous Tumours
+   • Formerly haemangiopericytoma; fibroblastic; occur anywhere; mostly younger patients; very large
+     before symptoms.
+   • Doege-Potter syndrome: rare paraneoplastic hypoglycaemia from oversecretion of insulin-like growth
+     factor.
+   • "Pattern-less" architecture, sometimes myxoid or fatty; high mitotic index and pleomorphism mark
+     aggressive behaviour (about a third). Near-uniform NAB2-STAT6 fusion is unique to this tumour.
+   • Mostly indolent, but clinicopathological features predict biology poorly — some benign-looking
+     tumours metastasise. Risk factors: advancing age, high mitotic rate, necrosis, size. Overtly malignant
+     cases do poorly; 8-year OS about 75%.
+
+
+                                                       page 9 of 23
+Chapter 140 — Retroperitoneal Tumours                                                          Differential Diagnosis
+   • Complete en bloc resection is standard, preserving adjacent organs where feasible (wide margins not
+     routinely needed). Radiosensitive → perioperative radiotherapy as adjunct.
+ Ewing and Ewing-Like Sarcomas
+   • Primarily bone tumours; malignant small round blue cell tumours, rarely in RP soft tissue. EWSR1
+     translocation with the ETS transcription factor family.
+   • Young adult White men; neuropathic pain when adjacent to nerves.
+   • Infiltrative margins, unlike other sarcomas → surgery alone rarely curative; standard is combination
+     chemotherapy within multimodal therapy, cure rates above 50%.
+   • Poor prognosis: larger size, metastasis, little necrosis after chemotherapy; in Ewing-like sarcoma, CIC
+     rearrangement.
+ Desmoplastic Small, Round Cell Tumours
+   • Translocation-associated small round cell sarcoma: t(11;22)(p13;q12) WT1-EWSR1; staining for the
+     fusion product is diagnostic.
+   • Young men; multifocal peritoneal implants; abdominal pain and distension; heterogeneous
+     enhancement with central necrosis; ascites typical.
+   • Prognosis universally poor despite multimodal therapy.
+ Unclassified Sarcomas
+   • No defining line of differentiation — diagnosis of exclusion, up to 20% of cases; prior radiotherapy in a
+     quarter.
+   • Rapid growth, aggressive course, universally poor prognosis. Screen for MDM2 to exclude de-
+     differentiated liposarcoma and avoid misclassification.
+ Perivascular Epithelioid Cell Tumours
+   • Family: renal and extrarenal angiomyolipoma (AML), extrapulmonary clear cell tumour, clear cell
+     myomelanocytic tumour, pigmented melanotic tumour, lymphangioleiomyomatosis (LAM), malignant
+     PEComa — hence diverse behaviour.
+   • Malignant features: size more than 5 cm; high cellularity and atypia; mitoses more than 1 per 50 HPF;
+     necrosis; vascular invasion.
+   • Mostly sporadic; tuberous sclerosis accounts for the remainder; TFE3 rearrangements in a subset,
+     usually younger patients.
+   • Largely chemoresistant → wide local excision when adverse features are present; unresectable or
+     metastatic → mammalian target of rapamycin (mTOR) inhibitors (temsirolimus, everolimus, sirolimus)
+     give responses and prolonged survival.
+ Desmoid Tumours
+   • Fibroblastic, locally advanced; rapid growth and disruption of fascial planes → ureteric or bowel
+     obstruction. Peak third decade. Radiologically heterogeneous, hard to distinguish from sarcoma.
+     Spindle cells, extracellular collagen, myxoid matrix.
+   • Do not metastasise, but recur locally in up to half despite wide resection.
+   • Surgery for resectable disease; observation is appropriate where growth would not change the surgical
+     outcome or cause functional limitation.
+ Concept — Among RP sarcomas, treatment is dictated less by size than by how the tumour spreads:
+ locally recurrent types (liposarcoma, desmoid) are won or lost at the margin, whereas infiltrative or
+ systemic types (Ewing, desmoplastic small round cell tumour, pleomorphic liposarcoma) need
+ chemotherapy because no margin is achievable.
+
+
+                                                  page 10 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                   Neurogenic Origins
+
+ NEUROGENIC ORIGINS
+   • Ganglion cells, paraganglionic tissue and peripheral nerve sheaths — about 10% of primary RP
+     tumours. Sites: sympathetic ganglia posterior to the great vessels, the adrenals, the organ of
+     Zuckerkandl.
+   • Prognosis much better than sarcoma; many are benign.
+
+ Tumours of Sympathetic Ganglia
+                    Ganglioneuroma                Neuroblastoma             Ganglioneuroblastoma
+  Nature            Benign; nerve cells of        Malignant; primitive      Features of both
+                    sympathetic ganglia           neuroblasts of adrenal
+                                                  medulla and
+                                                  sympathetic chain
+  Age, sex          Third–fourth decade; M = F    First decade; two-thirds Children 2–4 years; adults late second to
+                                                  adrenal                  early fourth decade
+  Imaging           Well circumscribed;           Heterogeneous; coarse     Staging: MRI and
+                    calcification up to 30%       calcification in most     metaiodobenzylguanidine (MIBG) for
+                                                                            bone and local extent
+  Behaviour         Usually incidental; adrenal   Mostly metastatic at      Abdominal or back pain; metastasis to
+                    origin may secrete            presentation;             nodes, bone, brain, liver, skin; more than
+                    catecholamines, vasoactive    encasement makes          half metastatic at presentation
+                    intestinal peptide or         local therapy difficult
+                    androgens
+  Treatment,        Excellent after local removal —                         Surgery if localised ± adjuvant;
+  prognosis                                                                 neoadjuvant paediatric-regimen
+                                                                            chemotherapy recommended; poor in
+                                                                            adults; MYCN amplification adverse
+
+   • Ganglioneuroblastoma regimens combine several of cyclophosphamide, cisplatin, ifosfamide,
+     vincristine, doxorubicin, etoposide, 13-cis-retinoic acid and carboplatin; diagnosis by histology (IHC as
+     Table 140.1).
+
+ Tumours of the Paraganglionic System
+   • Specialised neural crest cells of adrenal medulla and RP ganglia: adrenal = phaeochromocytoma;
+     extra-adrenal = paraganglioma.
+   • Extra-adrenal paraganglioma: third–fourth decades, sex-neutral. Commonest site: organ of
+     Zuckerkandl — anterior to the aorta below the inferior mesenteric artery (IMA) origin, near the
+     bifurcation.
+   • Radiology as for phaeochromocytoma: high signal on T2-weighted MRI. Catecholamine production in
+     about 40%.
+   • Grossly yellow-grey; large polygonal pleomorphic cells; synaptophysin and chromogranin A positive.
+   • Necrosis, high mitotic index, atypical nucleoli, infiltrative borders and vascular invasion poorly predict
+     malignancy; metastases in 20–50%.
+   • Management is surgical — poor response to other therapies. Predisposition: NF-1 and multiple
+     endocrine neoplasia type 2A (MEN 2A).
+
+
+
+
+                                                      page 11 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                   Neurogenic Origins
+
+ Tumours of Nerve Sheath Origin
+                                                                           Malignant peripheral nerve sheath
+                    Schwannoma                    Neurofibroma             tumour
+  Cell of origin    Myelinating Schwann cells     Non-myelinating          Cellular components of peripheral
+                    (neural crest)                Schwann cells            nerves, sacral or lumbar plexus
+  Setting           Paravertebral; symptoms of    NF-1 (autosomal          <10% of RP sarcomas; about half with
+                    nerve compression             dominant) or sporadic;   predisposition (mostly NF-1), arising
+                                                  male; third–fifth        from neurofibroma; sporadic cases linked
+                                                  decades                  to prior radiation; in NF-1 often found in
+                                                                           adolescence
+  Imaging,          Homogeneous,                  Well circumscribed,      Radiologically indistinguishable; fleshy,
+  pathology         circumscribed when small;     homogeneous on CT        haemorrhage or necrosis; herringbone
+                    cystic change and                                      spindle cells; adjacent benign
+                    calcification with growth;                             neurofibroma confounds small samples;
+                    encapsulated; S100 positive                            S100 in about half, H3K27me3 loss
+  Presentation      Slow growing                  —                        Nerve irritation, pain, paraesthesia,
+                                                                           paralysis
+  Treatment         Complete local resection      Surgical — malignant     Biopsy is the gold standard for diagnosis;
+                    usually curative              transformation up to     surgery for all
+                                                  20% (NF-1, radiation
+                                                  exposure)
+
+   • MPNST management: preoperative chemotherapy and radiotherapy do not eradicate disease but
+     increase complete resection rates. Infiltration of adjacent structures is uncommon, but extension
+     along nerve roots occurs.
+   • Prognosis tracks negative margins; the parent nerve must be resected, so neurological loss is
+     inevitable. 5-year survival about 70% with negative margins vs about 20% with positive margins.
+   • Unresectable: anthracycline-based chemotherapy and palliative radiotherapy.
+ Concept — Neurogenic tumours are mostly benign and cured by excision; the exceptions — neuroblastic
+ tumours in adults and MPNST — declare themselves by systemic spread or nerve-root extension, and
+ histology alone rarely predicts which paraganglioma will metastasise.
+
+ HAEMATOLOGICAL CONDITIONS/LYMPHOMAS OF THE RETROPERITONEUM
+   • A significant share of RP masses. Lymphoma is commonest; extramedullary myeloma or plasmacytoma
+     and other lymphoproliferative diseases also occur.
+
+ Lymphomas
+   • Almost a third of primary RP tumours. Hodgkin and non-Hodgkin types, with different prognoses.
+   • Circumscribed, confluent, commonly homogeneous masses along the RP and pelvic nodal chains.
+   • Key issue: they resemble other RP tumours → FNA and/or core biopsy; they rarely, if ever, need
+     surgery and are treated with chemotherapy.
+
+ Plasmacytoma
+   • One spectrum: focal = plasmacytoma; diffuse = multiple myeloma. Myeloma is the commonest
+     primary bone malignancy in adults; extramedullary disease in <10% of new diagnoses — abdomen/
+     pelvis, skin and soft tissue, paraspinal regions; the RP is a rare site.
+   • Serology: raised immunoglobulin G (IgG); serum electrophoresis "M spike" — myeloma protein
+     impairing immunity, coagulation and renal function.
+
+
+                                                      page 12 of 23
+Chapter 140 — Retroperitoneal Tumours                            Haematological Conditions/Lymphomas of the Retroperitoneum
+   • Diagnosis: percutaneous FNA or core biopsy; when suspected, bone marrow aspirate and skeletal
+     survey. Whole-body CT has replaced plain radiographs for bone disease; PET/CT assesses response.
+   • Histology: monoclonal polygonal plasma cells, homogeneous amphophilic cytoplasm, eccentric nuclei;
+     CD138 and Bcl-2 positive.
+   • Isolated RP disease: complete responses reported to wide excision, radiotherapy and chemotherapy.
+ Concept — Haematological RP masses are the group in which the operation is the biopsy: tissue diagnosis
+ diverts the patient from resection to systemic therapy.
+
+ CYSTIC MASSES
+   • Purely cystic RP masses are rare: cystic lymphangioma, cystic teratoma, cystadenoma,
+     cystadenocarcinoma, cystic mesothelioma, cystic change in solid tumours.
+   • Treatment differs greatly, so diagnosis rests on presentation, imaging and serology — because of
+     general caution against percutaneous biopsy or aspiration (rupture risk, sampling limitations).
+                    Cystic lymphangioma              Mucinous cystadenoma                 Cystic mesothelioma
+  Origin            Acquired loss or congenital      Unclear; possibly invagination of    Serous lining (pleura,
+                    abnormal communication of        peritoneal mesothelium →             pericardium, peritoneum);
+                    lymphatics with upstream         mucinous metaplasia →                rare in RP; no association
+                    channels                         occasional malignant                 with asbestos
+                                                     transformation
+  Who               Children mostly, also adults;    Female                               Female; vague abdominal
+                    male                                                                  pain
+  Imaging           Thin-walled, multiseptated,      Unilocular, homogeneous              Multilocular thin-walled
+                    crossing the midline into                                             cysts, like lymphangioma
+                    several compartments
+  Pathology         Cystic (commonest), cavernous,   Single layer of columnar             Calretinin, pan-keratin
+                    capillary; single endothelial    epithelium, basal nuclei, pale
+                    layer; clear or milky lymph;     cytoplasm; aspiration cytology
+                    CD31, CD34, D2-40                unhelpful
+  Treatment         Complete excision; aspiration    Complete excision for diagnosis      Wide resection — local
+                    and marsupialisation             and treatment                        recurrence
+                    abandoned — high recurrence
+
+ Cystic Changes of Solid Retroperitoneal Tumours
+   • From serous or mucinous secretion, or degeneration after chemotherapy or radiotherapy. History is
+     paramount: prior cancer treatment, constitutional symptoms, family history.
+   • Prior GCT → cystic teratoma, especially a growing mass after chemotherapy or late relapse.
+   • Paraganglioma can show central low attenuation (haemorrhage and liquefaction); similar change in
+     leiomyosarcoma, schwannoma and GIST.
+
+ Retroperitoneal Cancer of Unknown Primary
+   • Up to 5% of cancers worldwide; median age about 60; slight male predominance. Evaluation rests on
+     radiological distribution and IHC of biopsy tissue.
+   • Histology across all sites: adenocarcinoma 50%, undifferentiated carcinoma 30%, squamous 15%,
+     remainder undifferentiated neoplasms. In the RP, poorly differentiated carcinomas predominate, often
+     encasing the great vessels.
+   • Molecular: aberrations of chromosomes 1 and 12; Bcl-2 and p53 overexpression in up to half;
+     increased c-myc, ras and c-erbB-2.
+
+
+                                                     page 13 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                 Cystic Masses
+   • Young man → test for isochromosome 12p, which identifies an RP primary GCT; markers: AFP/β-hCG
+     in young men, prostate-specific antigen (PSA) in older men.
+   • Primary identified in fewer than 20%. Whole-body imaging for staging and primary search: CT the
+     mainstay, PET-CT increasingly used.
+  Presentation                                     Initial therapy
+  Central/midline RP, especially i(12p) positive   Platinum-based combination chemotherapy; response in up to
+                                                   half, complete radiological response in 15–25%
+  Poorly differentiated neuroendocrine             Platinum-based
+  carcinoma
+  Single, small, localised deposit                 Surgical extirpation and/or focused radiotherapy
+
+   • Future: gene-expression profiling and whole-genome analysis to assign tissue of origin and individualise
+     therapy.
+
+   KEY POINTS
+    • Many histological entities in the RP present as an infiltrative or expanding mass.
+    • A multidisciplinary approach — radiological staging, pretreatment biopsy when indicated,
+      serological and IHC characterisation, and multimodal therapy (surgery, systemic therapy,
+      radiotherapy) — optimises outcomes.
+
+ Concept — In the RP, histology decides the first treatment more than anatomy does: chemotherapy-first
+ entities (GCT, lymphoma, Ewing sarcoma, midline cancer of unknown primary) must be excluded before a
+ sarcoma resection is planned, and cystic lesions are characterised without a needle.
+
+ SURGICAL MANAGEMENT OF THE RETROPERITONEAL TUMOUR
+
+ Preoperative Considerations
+   • No bowel preparation or dietary modification.
+   • GCT: serum tumour markers within 7–10 days of surgery.
+   • Extra blood products for complex resections.
+   • Sperm banking for men wanting future paternity when RP masses lie in the path of the postganglionic
+     sympathetic fibres.
+   • Bleomycin: a medical oncology partner assesses toxicity, limits dose and obtains pulmonary function
+     tests to reduce postoperative acute respiratory distress syndrome; the anaesthetist must know of
+     prior bleomycin — low fraction of inspired oxygen (FiO₂) and conservative fluid resuscitation.
+   • Imaging: CT abdomen and pelvis reviewed at consultation and again immediately before surgery;
+     current chest CT if prior pulmonary masses, planned thoracic resection, or radiological/serological
+     progression. Imaging within 6 weeks of surgery. Careful review usually prevents unplanned
+     intraoperative consultations.
+   • Total IVC thrombosis identified preoperatively simplifies the operation — the IVC is resected.
+     Incomplete occlusion requiring resection may need reconstruction with cadaveric allograft or ringed
+     polytetrafluoroethylene (PTFE) graft, provided there is no bowel contamination.
+
+ Surgical Technique
+   • Orogastric tube suffices; nasogastric tube only for duodenal resection/repair or high-volume masses
+     needing complete mesenteric mobilisation with bowel on the chest.
+
+
+
+                                                     page 14 of 23
+Chapter 140 — Retroperitoneal Tumours                                      Surgical Management of the Retroperitoneal Tumour
+   • Supine → ventral midline incision → inspect abdominal viscera → falciform ligament ligated and
+     divided (prevents hepatic retraction injury) → self-retaining retractor.
+ Exposure of the Retroperitoneum
+  Mass                                  Exposure
+  Smaller paracaval and                 Open root of mesentery from inferior tip of caecum to medial aspect of
+  interaortocaval                       inferior mesenteric vein (IMV)
+  Large right, interaortocaval and/or   Continue around inferior caecum to right white line of Toldt, up to the
+  paracaval                             foramen of Winslow → bowel on chest
+  Larger left and para-aortic           IMV ligated and divided
+  Small-volume left                     Through the left white line of Toldt
+
+   • Plane between mesentery and RP fat developed along the anterior surface of the gonadal vein →
+     duodenum dissected off IVC and left renal vein → superior mesenteric artery (SMA) identified by
+     palpation → retractor blades placed either side of the SMA.
+
+ APPROACH TO THE RETROPERITONEUM
+
+ Split-and-Roll Technique
+   • The IVC and aorta are central, so every approach is organised around exposing them. Large lymphatics
+     over the left renal vein are ligated and divided.
+
+ ORDER OF THE SPLIT WHEN BOTH GREAT VESSELS ARE SPLIT
+  Aorta first (authors' preference)                          IVC first
+  Avoids injury to precaval right accessory lower-pole       Right postganglionic sympathetic fibres are identified
+  renal arteries                                             and traced to the superior hypogastric plexus,
+                                                             protecting them during the aortic split
+
+   • Aortic split: start at 12 o'clock just below the left renal vein → continue caudally → identify the IMA
+     prospectively: preserve it in a right-sided procedure; doubly ligate and divide it in a bilateral
+     dissection to expose the left para-aortic region → if nerve-sparing, stop at the IMA and identify
+     postganglionic fibres before going caudally.
+
+ Left Para-aortic Region
+   • Approach laterally (left white line of Toldt) or medially (mesenteric root) by disease distribution.
+     Sequence: left gonadal vein doubly ligated where it crosses the ureter → ureter swept laterally behind
+     a retractor → split continued at 12 o'clock on aorta and left common iliac artery to the ureter → tissue
+     rolled laterally off aorta and iliac → three left lumbar arteries (renal hilum to bifurcation) doubly
+     ligated and divided → mass rolled inferiorly off the left renal vein; left gonadal and lumbar veins ligated
+     at their entry into it → packet freed from lower pole of kidney and ureter → caudal packet rolled
+     superiorly off body wall, preserving left genitofemoral nerve and sympathetic trunk, controlling
+     lumbar veins and arterial stumps → rolled up to the crus; retrocrural lymphatics ligated → release
+     ureteric retractor to prevent prolonged ischaemia.
+
+ Interaortocaval Region
+   • Right nerve-sparing → IVC split first; otherwise control the medial side of the aorta first. Sequence: IVC
+     split from renal hilum to the crossing of the right common iliac artery, then inferolaterally to the right
+     ureter → right gonadal vein ligated at the IVC → tissue rolled medially off IVC, nerves seen running
+     obliquely along the lateral edge of the packet → lumbar veins (renal hilum to common iliac veins)
+     ligated — number and position unpredictable, unlike the arteries → tissue rolled laterally off IVC →
+
+
+                                                      page 15 of 23
+Chapter 140 — Retroperitoneal Tumours                                                          Approach to the Retroperitoneum
+     right gonadal vein ligated where it crosses the ureter; ureter retracted → tissue rolled medially off
+     aorta; medial three lumbar arteries divided → packet harvested off the anterior spinous ligament,
+     preserving the right sympathetic trunk at its right lateral border and controlling lumbar stumps →
+     superior packet rolled inferiorly off renal vessels to the crus → retrocrural lymphatics ligated (avoiding
+     the renal artery) to prevent lymph leak and chylous ascites.
+
+ Right Paracaval Region
+   • Smallest of the three packets — right kidney and ureter lie close to the IVC. Rolled laterally and
+     superiorly off the right common iliac artery to the ureteric crossing → superiorly off psoas fascia,
+     preserving right sympathetic trunk and genitofemoral nerve → towards right renal hilum and crus; the
+     packet often tapers and passes under the IVC before the hilum.
+ Concept — Split-and-roll converts a mass into vessel-defined packets: split each great vessel at 12 o'clock,
+ roll tissue off its sides, and control the edges — lumbar vessels, sympathetic fibres and retrocrural
+ lymphatics — where the complications arise.
+
+ SURGICAL MODIFICATIONS
+
+ Template Considerations for Management of Metastatic Germ Cell Tumours
+ Primary Retroperitoneal Lymph Node Dissection
+   • In the 1970s and 1980s three developments reshaped RP management of testicular GCT: curative
+     cisplatin-based chemotherapy; recognition of distinct lymphatic spread for right- versus left-sided
+     tumours; and nerve-sparing techniques preserving the postganglionic fibres for seminal emission and
+     antegrade ejaculation.
+
+ LANDMARK TEMPLATE STUDIES
+  Study                      Design                             Finding and contribution
+  Ray et al., 1974           283 RPLNDs, 1944–1971;             Evolved from full bilateral to "modified bilateral" as
+  (Memorial Sloan            mainly infrahilar                  primary landing zones became apparent; like unilateral
+  Kettering Cancer                                              templates but tissue below the IMA routinely resected.
+  Center (MSKCC))                                               First side-specific templates
+  Donohue et al., 1982       Mapping in 104 pN+ patients;       Left → left para-aortic; right → interaortocaval and
+  (Indiana)                  full bilateral including           precaval. Contralateral and suprahilar spread rare, rising
+                             suprahilar in all                  with tumour bulk; interiliac rare. Validated modified
+                                                                bilateral templates for low-stage disease
+  Weissbach and              Multi-institutional, 214 non-      Reduced left template: para-aortic plus upper pre-
+  Boedefeld, 1987            bulky pathological stage (PS) II   aortic; frozen section of primary landing zone — if
+                                                                positive, full bilateral infrahilar RPLND
+  Eggener et al., 2007       500 primary RPLNDs for             3–23% of pN+ patients had disease outside a modified
+  (MSKCC)                    clinical stage (CS) I/IIA; five    unilateral template, more with right-sided tumours →
+                             modified templates applied to      recommended full bilateral infrahilar nerve-sparing
+                             PS II packets                      RPLND for CS I/IIA
+
+   • Omitting contralateral and interiliac dissection preserves antegrade ejaculation in most; omitting
+     suprahilar dissection reduces chylous ascites, renovascular injury and pancreatic complications.
+   • Consensus: suprahilar/retrocrural and interiliac resection can be omitted from the standard template.
+     Controversy: whether the contralateral RP must be resected.
+   • No study has compared modified unilateral with full bilateral templates. Cancer-specific survival (CSS)
+     and OS approach 100% in all series, so wider templates cannot improve them; the real question is
+
+
+
+                                                         page 16 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                        Surgical Modifications
+     whether a full bilateral infrahilar dissection prevents RP relapses after a properly performed unilateral
+     one. Series from centres using each approach show similar outcomes.
+
+ TABLE 140.2 SELECTED PRIMARY RPLND SERIES (REBUILT)
+                                                                            Relapse, pN+ after
+  Centre and approach              pN+ rate        Relapse, pN0             RPLND alone            CSS
+  Indiana (Donohue 1993,           About a         About 8–12%              About 19–34%           99–100%
+  Hermans 2000, Douglawi           quarter to
+  2020) — predominantly            under half
+  modified unilateral in the
+  contemporary series
+  MSKCC (Stephenson 2005)          About 30%       About 7%                 About 34%              99.7%
+  — bilateral infrahilar
+  Nicolai 2004                     20%             Not reported             Not reported           98.8%
+  Follow-up about 4–7 years across series.
+
+   • What the table is for: showing that template choice does not move survival. Pattern: CSS is 99–100%
+     whatever the template; relapse rates differ mainly with adjuvant policy.
+   • Trap: MSKCC's higher "cure by surgery alone" reflects routine adjuvant chemotherapy for pN2; Indiana
+     randomised node-positive patients to observation or adjuvant chemotherapy (1993), later observed
+     pN1 and most pN2, reserving chemotherapy for relapse and pN3 (2000). The contemporary Indiana
+     series, almost entirely modified unilateral, achieved near-100% CSS and OS with only a small minority
+     receiving adjuvant chemotherapy.
+   • The appropriate template remains controversial; the Ray, Donohue, Weissbach and Eggener templates
+     all give excellent survival, and which best balances oncological control against morbidity is unresolved.
+ Concept — With survival at a ceiling, the template debate is about morbidity versus in-field relapse;
+ lymphatic spread is side-specific and predictable, and bulk is what breaks the rule.
+ Postchemotherapy Retroperitoneal Lymph Node Dissection
+   • After cisplatin chemotherapy, most teratoma and viable tumour lie in the primary landing zones, but
+     bulky disease crosses over and histology cannot be confirmed intraoperatively → postchemotherapy
+     (PC)-RPLND "as complete as possible".
+   • Standard PC-RPLND: resection of all macroscopic disease plus full bilateral infrahilar dissection —
+     excellent local control but significant morbidity, including anejaculation when nerves cannot be spared.
+   • With bilateral dissection, disease lies outside a unilateral template in 18–32%, but outside both the
+     template and the macroscopic mass in only 2–18.6% — variation reflects selection and template.
+
+ PRIMARY VERSUS POSTCHEMOTHERAPY RPLND
+                         Primary RPLND                                           PC-RPLND
+  Standard template      Modified unilateral or full bilateral infrahilar        All macroscopic disease + full bilateral
+                         (debated)                                               infrahilar
+  Unilateral             Low-stage disease in primary landing zone               Only with strict selection criteria (below)
+  template
+  acceptable when
+
+ Criteria for modified unilateral PC-RPLND:
+  1. Well-defined lesion ≤5 cm confined to the primary landing zone on imaging before and after
+     chemotherapy.
+  2. Normal postchemotherapy serum tumour markers.
+
+
+                                                          page 17 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                  Surgical Modifications
+  3. IGCCCG good or intermediate risk.
+   • With these criteria: in-field RP recurrence 0–1%, antegrade ejaculation 85–99%, CSS 98–100%. No
+     prospective comparison exists; bilateral remains the standard of care, and unilateral templates require
+     strict adherence to the criteria.
+ Nerve-Sparing Retroperitoneal Lymph Node Dissection
+   • Four postganglionic efferent sympathetic fibres (L1–L4) mediate antegrade ejaculation; anatomy
+     varies widely. L2 and L3 are usually fused. L2–L4 run anteriorly along the aorta and common iliac
+     vessels; L1 runs a shallower, more caudal, oblique course, leaving the sympathetic trunk near the
+     ipsilateral renal hilum.
+   • Left fibres: found along the lateral border of the aorta and left common iliac artery and onto their
+     anterior surface immediately caudal to the IMA → Kittner sponge sweeps fat to reveal shiny, off-white
+     oblique fibres joining the contralateral fibres in the superior hypogastric plexus → vessel loops for
+     gentle traction → traced to origin on the trunk. Alternatively, find the left trunk distal to the IMA and
+     trace cranially.
+   • Right fibres: seen as precaval and interaortocaval tissue is rolled medially off the IVC, running
+     obliquely anteriorly and inferiorly to the superior hypogastric plexus → cleared, looped and traced to
+     the right trunk.
+   • Then dissect the packets around the fibres, passing the specimen through the web of fibres as it is
+     released from the body wall. Fibres leave the trunk close to lumbar vessels → at risk when controlling
+     lumbar bleeding.
+   • After bilateral nerve-sparing, or unilateral nerve-sparing with contralateral complete resection, a
+     temporary anejaculatory period may occur — probably neuropraxia.
+
+ AUXILIARY PROCEDURES
+   • Relevant to advanced, bulky RP disease; rarely needed in low-volume disease. Nephrectomy is
+     commonest, then vascular resection or reconstruction; the likelihood of adjacent-organ resection rises
+     with RP tumour volume.
+
+ Nephrectomy
+   • Commonest auxiliary procedure at PC-RPLND: 5–31%; in primary RP sarcoma, up to 55%.
+   • Risk factors: high-risk settings — salvage, desperation, late-relapse or reoperative RPLND; RP mass
+     size (mass >10 cm carries far higher odds than <2 cm); left primary with left para-aortic mass.
+   • Renal function declines after nephrectomy, but without need for renal replacement therapy and
+     without compromising later chemotherapy; progression to chronic kidney disease depends on age
+     and preoperative glomerular filtration rate.
+
+ Vascular Reconstruction
+ AORTIC VERSUS CAVAL RESECTION
+                       Aortic replacement                              Vena caval resection
+  Frequency            About 1% of PC-RPLND                            5–10% of GCT surgery
+  Indication           Tumour fixed to aorta; most had salvage         Tumour clearance, caval scar occlusion, caval
+                       chemotherapy and/or raised markers              tumour thrombus (commonest); most
+                                                                       specimens contain viable cancer or teratoma
+  Reconstruction       Always — aortic tube graft, or aortobi-iliac    Not routinely required
+                       graft if iliacs involved
+
+
+
+                                                       page 18 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                  Auxiliary Procedures
+
+                       Aortic replacement                            Vena caval resection
+  Outcome              Worthwhile: a meaningful minority disease-    Most have no or mild long-term disability;
+                       free at medium-term follow-up, given          higher risk of chylous ascites and perioperative
+                       chemoresistant bulky disease                  complications
+
+ Aortic Replacement
+   • Anticipate preoperatively — alert vascular surgery, counsel the patient. Sequence: IVC dissected off
+     mass and aorta by split-and-roll with lumbar vein division → left ureter freed → left renal hilum freed if
+     not encroached → vascular team secures adequate aorta cranial and caudal to the tumour →
+     intravenous heparin before cross-clamping → aorta cross-clamped and resected en bloc with the
+     mass, lumbar arteries divided → graft sewn by standard vascular principles.
+ Vena Caval Resection
+   • Usually bulky disease. Lower-limb oedema and imaging suggesting IVC compression/occlusion →
+     cavography, US or MRI to assess flow and guide intraoperative decisions.
+   • Why caval ligation is tolerated in testis cancer: slow tumour growth and desmoplastic reaction to
+     chemotherapy occlude the IVC gradually, allowing venous collaterals — morbidity is lower than after
+     acute occlusion, especially when complete occlusion with collaterals exists preoperatively.
+   • Sarcoma: caval resection ± reconstruction for negative margins; grafts (Dacron, PTFE, homograft)
+     thrombose in 10–40%; anticoagulation varies — consider at least 3 months.
+ Tumour Thrombectomy
+   • Intraluminal thrombi are infrequent in GCT and sarcoma: vena cava commonest, then renal vein, aorta
+     least.
+   • Caval thrombi → cavectomy, partial cavectomy or thrombectomy; renal vein thrombi → nephrectomy
+     in nearly all.
+   • Histology: bland thrombus, necrosis, teratoma, residual cancer — nearly half contain teratoma or
+     viable cancer.
+ Concept — The chronicity of the obstruction decides reconstruction: a gradually occluded IVC has
+ collaterals and can be ligated, whereas the aorta carries obligatory flow and must always be replaced.
+
+ COMPLICATIONS
+
+ Ejaculatory Function
+   • Modified unilateral template without nerve-sparing: early series 75–87% antegrade ejaculation;
+     contemporary 97%; with ipsilateral nerve-sparing 99% — gains from avoiding contralateral fibres
+     caudal to the IMA.
+   • Nerve-sparing RPLND: antegrade ejaculation 90–100%.
+   • Temporary anejaculation after bilateral templates reflects neuropraxia; it was not seen when unilateral
+     templates with ipsilateral nerve-sparing were used.
+
+ Vascular
+   • Major vascular resection modestly increases vascular morbidity: after caval reconstruction,
+     perioperative thrombosis in about one in five (deep vein thrombosis and pulmonary embolism).
+   • Venous thromboembolism after RPLND is low (young, healthy patients): pulmonary embolism <1%
+     after primary RPLND, 0.1–3.1% after PC-RPLND; deep vein thrombosis 0–1% (under-reported, often
+     asymptomatic).
+
+
+
+                                                     page 19 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                            Complications
+
+ Lymphatic
+                     Lymphocele                                         Chylous ascites
+  Definition         Lymph collection in the resection bed              Chylomicron-containing lymph in the peritoneal
+                                                                        cavity
+  Incidence          Subclinical common; symptomatic 0–1.7%             Primary RPLND 0.2–2.1%; PC-RPLND 2–7%
+  Presentation       Ureteric compression, visceral displacement        Abdominal fullness, anorexia, nausea, vomiting,
+                     (if large), infection                              pain, dyspnoea; fluid wave (distinguishes from
+                                                                        ileus); weight gain
+  Diagnosis          CT: thin-walled cyst in resection bed; air or      Milky fluid; alkaline, Sudan black positive,
+                     rim enhancement → infection                        triglycerides above serum — usually unnecessary;
+                                                                        clinical and gross inspection suffice
+  Prevention         Ligate large-calibre lymphatics                    Ligate retrocrural lymphatics; avoid needless
+                                                                        suprahilar dissection
+  Treatment          Percutaneous drainage; antibiotics only if         Graduated (below)
+                     infected; if infected, leave an indwelling
+                     drain rather than aspirate
+
+ Chylous Ascites — Risk Factors
+   • Suprahilar resection — disruption of the cisterna chyli (L1–L2, medial to the posterior aorta,
+     retrocrural) and its tributaries.
+   • IVC resection — raised infracaval venous pressure → capillary leak and third-spacing of lymph.
+   • More preoperative chemotherapy cycles, greater blood loss, longer operation.
+   • Trap: left suprahilar dissection can injure the pancreatic tail, also causing large-volume ascites → check
+     drained fluid for amylase and lipase.
+ Chylous Ascites — Graduated Management
+   • Paracentesis + low-fat/medium-chain triglyceride (MCT) diet ± intramuscular octreotide →
+     reaccumulation: indwelling drain → if dietary measures already in place: nil by mouth + total
+     parenteral nutrition (TPN) → persistent drainage >100 mL/24 h (exceedingly rare): continued
+     conservative management, peritoneovenous (LeVeen) shunt, or surgical ligation of the leak — the last
+     two are last resorts (shunt occlusion or malfunction needing revision, sepsis, fat embolism) → after
+     resolution, continue low-fat MCT diet for 1–3 months.
+   • Octreotide is unstudied in urology but reduces chyle leak after hepaticopancreaticobiliary surgery.
+
+ Neurological
+   • After PC-RPLND, paraplegia is not seen; peripheral nerve injuries arise from positioning and retractor
+     placement (femoral neuropraxia) — careful positioning prevents them.
+   • Paraplegia occurs after resection of bulky combined mediastinal and RP disease; neurological risk rises
+     with the extent of para-aortic resection.
+   • Primary RP sarcoma: about 5% need major lumbar nerve resection, usually because the sarcoma
+     arises from the nerve root. Commonest: femoral and obturator; sensory: genitofemoral, ilioinguinal.
+     Femoral nerve loss → knee extension weakness, sometimes needing a hinged knee brace.
+
+ Postoperative Care
+   • Drains not routine; a Jackson-Pratt drain for large-volume RP, retrocrural or duodenal resections,
+     removed once on a regular diet with serous drainage <100 mL/24 h.
+   • Without bowel repair: ice chips evening of surgery → day 1 unlimited clear fluids, chair and ambulation
+     → day 2 regular diet, off intravenous analgesia → discharge days 2–5; longer after larger resections.
+
+
+                                                        page 20 of 23
+Chapter 140 — Retroperitoneal Tumours                                                                        Complications
+
+   KEY POINTS
+    • Surgery for an RP mass requires consideration of all risks and obstacles and a planned approach to
+      exposure and mobilisation.
+    • Advance preparation and coordination of consultation for possible auxiliary procedures are
+      imperative.
+    • The surgeon should know, and counsel patients on, the short- and long-term complications of RP
+      surgery.
+
+ Concept — Most complications of RP surgery are functions of extent: suprahilar and caval work drive
+ chylous ascites, bilateral and caudal-to-IMA dissection drives anejaculation, and para-aortic and nerve-
+ root resection drive neurological loss.
+
+ DISEASE-SPECIFIC NEOADJUVANT AND ADJUVANT THERAPIES
+
+ Radiation
+   • Use of radiotherapy with RP sarcoma resection has grown, aiming to reduce local recurrence,
+     extrapolated from extremity sarcoma. Timing, dose and field remain debated; long-term toxicity and
+     recurrence patterns need study.
+
+ EVIDENCE FOR PERIOPERATIVE RADIOTHERAPY IN RP SARCOMA
+  Study                        Comparison                         Verdict
+  Early randomised trial       Intraoperative + postoperative     Fewer locoregional recurrences with intraoperative
+                               external beam vs postoperative     arm, similar OS; toxicity heavy in both — enteritis
+                               external beam alone                more with external beam alone, peripheral
+                                                                  neuropathy more with intraoperative; adjunctive
+                                                                  chemotherapy (cyclophosphamide, doxorubicin,
+                                                                  methotrexate) added nothing
+  Phase I/II                   Low-dose brachytherapy +           Closed for severe toxicity
+                               preoperative radiotherapy
+  EORTC-62092 STRASS           Preoperative radiotherapy +        Abdominal recurrence-free survival no different
+  (phase III)                  surgery vs surgery alone; 266      (hazard ratio (HR) 1.01); more complications with
+                               patients                           radiotherapy → not standard of care
+  National Cancer              Preoperative or postoperative vs   Survival advantage with any radiotherapy
+  Database                     none (propensity-matched)
+  Surveillance,                Adjuvant vs none                   Conflicting: one analysis favoured adjuvant
+  Epidemiology, and End                                           radiotherapy; a larger one found no difference
+  Results (SEER)                                                  except in MFH
+  Intraoperative               IORT, cumulative dose >60 Gy       No effect on 5-year local recurrence
+  radiotherapy (IORT)
+  series
+
+   • Retrospective studies cannot assess local control, toxicity, dose, timing or selection bias.
+   • Late toxicity at 50–60 Gy is mainly bowel, mostly with adjuvant rather than preoperative radiotherapy.
+   • Bottom line: radiotherapy improves local control at the cost of toxicity (greatest postoperatively) with
+     marginal OS gain; if used, preoperative is most promising, but STRASS tempers enthusiasm.
+     Intraoperative electron beam and brachytherapy remain investigational; a phase I/II trial is testing
+     neoadjuvant radiotherapy then surgery with IORT in high-risk RP sarcoma.
+
+
+
+
+                                                       page 21 of 23
+Chapter 140 — Retroperitoneal Tumours                                    Disease-Specific Neoadjuvant and Adjuvant Therapies
+
+ Chemotherapy and Systemic Therapies
+   • Outside platinum chemotherapy for metastatic GCT, data for systemic therapy in localised RP sarcoma
+     are limited; the commonest RP sarcomas — liposarcoma and leiomyosarcoma — are largely
+     chemoresistant. Some histologies are treated primarily by chemotherapy (lymphoma), so accurate
+     characterisation is pivotal.
+   • In non-metastatic disease the question is whether neoadjuvant therapy reduces distant spread,
+     improves resectability and reduces positive margins.
+   • Responsive histologies: myxoid liposarcoma, synovial sarcoma, Ewing sarcoma. Standard neoadjuvant
+     chemotherapy is recommended only for Ewing sarcoma.
+   • Resectable tumour: neoadjuvant benefit uncertain. Resectability in doubt, or regional/distant spread:
+     consider multimodal therapy with induction chemotherapy.
+   • Minimally responsive tumours (WD liposarcoma, leiomyosarcoma): resect local, regional and/or
+     metastatic disease when feasible in selected cases; otherwise clinical trials.
+   • Early successes: MDM2 and CDK4 inhibitors in liposarcoma; tyrosine kinase inhibitors in refractory
+     soft-tissue sarcoma; immune-modulating therapy.
+   • STRASS II (ongoing): neoadjuvant doxorubicin + ifosfamide (leiomyosarcoma: doxorubicin +
+     dacarbazine) plus surgery vs surgery alone.
+
+ TABLE 140.3 CHEMOTHERAPY TRIALS IN SARCOMAS (REBUILT BY HISTOLOGY)
+  Histology            Setting                  Regimen               Result
+  RP sarcoma, all      Neoadjuvant (minority) Not reported            No OS improvement; one database showed
+  types                vs none — large                                worse survival with chemotherapy; no benefit
+                       database and                                   of preoperative chemotherapy or
+                       multicentre series                             radiotherapy
+  Soft-tissue          Database, RP a           Not reported          Survival longer with chemotherapy overall,
+  sarcoma,             minority                                       but by histology benefit confined to UPS
+  metastatic
+  Liposarcoma,         Retrospective series     Doxorubicin/          Response: WD none, DD modest, myxoid
+  metastatic                                    ifosfamide;           best; mostly stable disease, complete
+                                                anthracycline-based   response rare; WD vs DD response not clearly
+                                                                      different in one series
+  Myxoid               Mostly neoadjuvant       Doxorubicin/          Partial responses in over a third, remainder
+  liposarcoma                                   ifosfamide            stable; high R0 rate, all R0 cases also had
+                                                                      preoperative radiotherapy
+  Synovial sarcoma     Neoadjuvant and          —                     Better PFS than other histologies
+                       metastatic
+  MPNST                Neoadjuvant, single RP   Ifosfamide,           Response and R0 in that patient; data
+                       patient                  epirubicin            minimal
+
+   • What the table is for: showing that "sarcoma" does not predict chemosensitivity — histology does.
+     Pattern: pooled RP sarcoma series show no benefit because the pool is dominated by chemoresistant
+     liposarcoma and leiomyosarcoma.
+   • Trap: the negative pooled result does not apply to myxoid liposarcoma, synovial sarcoma or Ewing
+     sarcoma.
+
+   KEY POINTS
+    • Adjuvant and neoadjuvant therapies will keep expanding within multimodal care; testicular cancer is
+      the exemplar.
+
+
+                                                     page 22 of 23
+Chapter 140 — Retroperitoneal Tumours                                  Disease-Specific Neoadjuvant and Adjuvant Therapies
+    • In sarcoma, histological heterogeneity and differing responses to radiotherapy and systemic therapy
+      prevent sweeping recommendations on timing and sequencing.
+    • A multidisciplinary team exploring all options gives the best chance of success.
+
+ Concept — Testicular GCT is the model of protocolised multimodal therapy; RP sarcoma is its opposite —
+ adjuncts are histology-specific, largely unproven, and surgery with negative margins remains the
+ backbone.
+
+ CONCLUSIONS
+   • The RP mass needs careful initial characterisation because some entities follow divergent, non-surgical
+     pathways.
+   • Metastatic GCT: standardised pathways; refer to experienced centres. RP sarcoma: likewise, given
+     rarity, variable behaviour and multidisciplinary needs; the role of neoadjuvant or adjuvant
+     chemotherapy or radiotherapy is limited by data.
+   • As most RP lesions ultimately need surgery, familiarity with their clinical, radiological and histological
+     features and perioperative needs is essential.
+
+
+
+
+                                                   page 23 of 23
+
