@@ -1,0 +1,1590 @@
+Chapter 103 — Physiology and Pharmacology of the
+Bladder and Urethra
+INTRODUCTION
+ • Two defining functions of the lower urinary tract (LUT: bladder + urethra): urinary storage (continence)
+   and emptying (micturition); a third, immunosurveillance against ascending pathogens, depends on the
+   urothelium, the immune system and the urinary microbiome.
+ • Both functions are integrated across the central nervous system (CNS), peripheral nerves, detrusor
+   smooth muscle (DSM), stroma, suburothelial and intradetrusor interstitial cells, urothelium, urethral
+   smooth muscle, pelvic floor and the external urethral sphincter (EUS).
+ • Physiology underpins management of lower urinary tract dysfunction (LUTD): urinary incontinence (UI),
+   lower urinary tract symptoms (LUTS), overactive bladder (OAB), bladder pain syndrome/interstitial cystitis
+   (BPS/IC), neurogenic bladder and underactive bladder (UAB).
+ • Most data are animal-derived; limits to translation: rodent circadian rhythm is opposite to that of
+   humans; territorial marking by voiding; animals cannot report urgency or bother, so surrogates
+   (frequency, urodynamics) are used; anaesthesia alters reflexes. Translational (bench ↔ bedside) work
+   remains essential.
+ • Classic model: brain and spinal circuits act as switches alternating storage and elimination. But LUTD may
+   arise outside nerve and muscle: endocrine (metabolic syndrome, obesity), inflammation, fibrosis, pelvic
+   ischaemia.
+ • Bladder and urethra must act oppositely, so single-organ therapy may fail (e.g. boosting contractility in
+   detrusor underactivity fails unless the urethra also relaxes). Sensory modulation serves both: reduce
+   afferent signalling for overactivity, augment it for underactivity.
+ • Management is symptom-based; biomarkers, targeted therapy and prevention are the goal.
+Concept — The bladder and urethra are a coupled, reciprocal pair: storage and emptying each need one to
+do the opposite of the other, which is why afferent (sensory) control, acting on both at once, is the most
+promising therapeutic lever.
+
+LOWER URINARY TRACT ANATOMY
+ • Bladder body lies above the ureteric orifices; base = trigone + bladder neck. The two regions differ from
+   each other but each is homogeneous in neuromorphology and neuropharmacology.
+ • Base is laminar: superficial longitudinal layer beneath the trigone; deeper layer continuous with detrusor,
+   with small, predominantly circular bundles.
+ • Male bladder neck: complete, competent smooth muscle ring, with dense sympathetic noradrenergic
+   supply that closes it during ejaculation → antegrade ejaculation. Female: no such collar and sparser
+   adrenergic innervation.
+ • Bladder outlet = urethra + pelvic floor. Urethra contains smooth muscle and striated muscle
+   (rhabdosphincter, EUS); periurethral striated muscle belongs to the pelvic floor complex.
+ • Fig. 103.1: outlet anatomy per Gosling and Dixon vs Elbadawi — body/base detrusor, superficial and
+   deep trigone, bladder neck, urethral smooth muscle (lissosphincter), intramural rhabdosphincter vs
+   periurethral striated muscle.
+
+
+
+
+                                                  page 1 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                      BLADDER COMPARTMENTS
+
+BLADDER COMPARTMENTS
+
+Urothelium
+ • Multilayered: basal, intermediate, apical; about 7 layers; the apical umbrella cells are the largest,
+   sometimes multinucleated, hexagonal with microvilli on scanning electron microscopy (SEM) (Figs
+   103.2B, 103.3).
+ • Uroplakins (unique to umbrella cells) assemble into plaques — outer leaflet thicker than inner, hence
+   asymmetrical unit membrane (AUM); the symmetrical areas between plaques are hinge regions.
+ • AUM contains hexagonal, chainmail-like uroplakin particles (Fig. 103.4) → barrier function. Escherichia
+   coli type 1 fimbriae bind uroplakins, initiating the host–pathogen cascade.
+
+Lamina Propria and Vasculature
+ • Lamina propria = proposed "functional centre" coordinating urothelium and DSM: diffuse plexus of
+   unmyelinated nerves (contacting urothelium, vessels, DSM), TRPV1 and P2X3 receptors on fibres,
+   interstitial cells (myofibroblasts) and microvasculature.
+ • Corrosion casts (resin perfusion → digest all other tissue → SEM of vascular tree) show a mucosal plexus
+   in the lamina propria and a subepithelial capillary plexus directly under the basal urothelium — the
+   vessels seen at cystoscopy (Fig. 103.5; adventitial plexus linked by perpendicular vessels traversing the
+   muscularis). Subepithelial flow may be partly urothelium-regulated.
+ • Vessels must lengthen with filling without raising resistance. Distension reduces blood flow; intramural
+   tension is the principal determinant. Flow adapts during normal filling until pressure rises; in low
+   compliance, pressure rises more and flow falls more.
+ • Ischaemia rapidly reduces detrusor contractility. Ischaemia–reperfusion may damage intramural
+   neurons → patchy denervation and altered DSM seen in detrusor overactivity (DO). Animal pelvic
+   ischaemia (iliac intimal balloon injury + high-cholesterol diet) → DO and structural change.
+
+Stroma
+ • Collagen and elastin in a proteoglycan matrix; fibroblasts are the main cells. Passive mechanics =
+   viscoelasticity of stroma + relaxed detrusor.
+ • No longer seen as inert: stroma–muscle interaction likely drives hypertrophy (in arteries, elastin
+   disruption triggers smooth muscle proliferation; not yet shown in bladder).
+
+Bladder Wall Collagen
+ • Mostly outside the muscle bundles; types I, III and IV predominate.
+ • Poorly compliant bladders (augmentation cohort): ↑ connective tissue : smooth muscle ratio and ↑
+   type III : type I collagen, even with normal capacity → poor storage is secondary to connective tissue
+   change, especially ↑ type III collagen.
+ • Obstruction or denervation (rat) → DSM hypertrophy → ↓ collagen concentration (dilution). Ageing →
+   ↓ smooth muscle relative to collagen (both sexes), perhaps via ↓ packing density of submucosal
+   collagen.
+ • In noncompliant bladders, collagen fibres lose the ability to change tortuosity → ↓ capacity.
+
+Bladder Wall Elastin and Matrix
+ • Elastic fibre = amorphous elastin (about 90%) + peripheral glycoprotein microfibrils; sparse vs collagen
+   but in all layers.
+ • Spinal cord injury (SCI) rat: elastin : collagen ↑ over the first 6 weeks (compliance ↑, overdistension) →
+   then ↓ as compliance falls with DO emergence by about 10 weeks — elastin modulates compliance.
+
+
+                                                           page 2 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                     BLADDER COMPARTMENTS
+ • Spina bifida: compliance associates with urinary MMP-2 and TIMP-2 (matrix metalloproteinase 2 and its
+   tissue inhibitor).
+ • Non-fibrillar matrix = proteoglycan–water gel (glycosaminoglycans, GAGs, on protein cores) — viscous
+   under deformation.
+
+Smooth Muscle
+ • Bladder body: fascicles in random directions, cells coupled into a functional syncytium — unlike the
+   discrete circular/longitudinal layers of ureter and gut.
+ • Single central nucleus, no striations, spindle-shaped, several hundred µm long, 5–6 µm diameter.
+   Caveolae (flask-shaped invaginations) associate with sarcoplasmic reticulum (SR); their location and
+   density may set contractile heterogeneity.
+ • Motor supply: postganglionic parasympathetic fibres (intramural ganglia exist). Varicosities release
+   acetylcholine (ACh) and adenosine triphosphate (ATP) onto muscarinic and purinergic receptors (Fig.
+   103.6); not every cell is contacted — gap junctions spread excitation. DSM also has afferent innervation.
+Concept — Structure sets compliance: the ratio of contractile protein to collagen (and collagen type and
+tortuosity) decides whether the bladder stores at low pressure, and ischaemia, obstruction and ageing all act
+by shifting that ratio.
+
+OVERVIEW OF THE URETHRA
+
+Male Urethra
+ • Four segments: preprostatic (bladder neck) → prostatic → membranous (through pelvic floor incl. EUS)
+   → bulbous and penile (Fig. 103.7, retrograde urethrogram).
+ • Male EUS shape: crescent on ventral prostate proximal to verumontanum → horseshoe distal to it →
+   crescent at bulbar urethra.
+
+Female Urethra
+ • Runs in the distal third of the anterior vaginal wall. Continence aided by tissues beyond the sphincter
+   (Fig. 103.8): subepithelial vascular plexus → "urethral seal". Female EUS: horseshoe over the ventral
+   urethra, under voluntary control.
+ • Continence during raised abdominal pressure:
+    ◦ Passive pressure transmission to the proximal urethra.
+     ◦ Guarding reflex: active EUS contraction. Transmission alone cannot explain the full rise — urethral
+       pressure rises before cough transmission → active neural mechanism.
+     ◦ DeLancey "hammock hypothesis": transmitted pressure compresses the anterior against a posterior
+       wall kept rigid by pelvic muscle/connective tissue support; pubourethral attachments and vaginal–
+       fascial connections compress the urethra against the pubis and move the bladder neck with voiding.
+ • Continence = active muscle tone + passive anatomic coaptation.
+
+Anatomy Common to Both Sexes
+ • Fetal dissection: sphincteric complex develops alike in both sexes, from detrusor, trigone and urethral
+   muscle of different embryonic origins. Levator ani does not surround the ventral urethra in either sex —
+   its continence role is questioned.
+
+
+
+
+                                                           page 3 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                         OVERVIEW OF THE URETHRA
+
+Fiber Types of Urethral Striated Muscle
+SLOW-TWITCH VS FAST-TWITCH STRIATED FIBRES
+ Feature                Slow-twitch                                          Fast-twitch
+ Role                   Sustained sphincter tone                             Rapid top-up tone on sudden
+                                                                             abdominal pressure
+ Recruitment /          Slow / slow                                          Rapid / rapid
+ fatigue
+ Metabolism             Oxidative                                            Anaerobic
+ Myosin ATPase          Less                                                 Rich (alkaline-stable)
+ SR Ca²⁺-ATPase         Slow isoform                                         Fast isoform → rapid relaxation
+ Where                  Levators, urethral sphincter; source of background   Periurethral pelvic floor
+                        EMG at urodynamics
+
+ • Striated muscle contraction, like smooth, is Ca²⁺-governed — via troponin.
+ • Rhabdosphincter (EUS) is intramural, separate from periurethral pelvic floor muscle; cells 15–20 µm
+   (smaller than ordinary skeletal muscle).
+ • Periurethral pelvic floor = mixed fast + slow; intramural distal sphincter = predominantly slow-twitch,
+   providing about 50% of static urethral resistance.
+ • Rhabdosphincter composition: male 35% fast / 65% slow; female 13% fast / 87% slow.
+ • Most fast and about a quarter of slow fibres in the membranous sphincter stain for nitric oxide synthase
+   (NOS) in the sarcolemma.
+ • Pelvic floor exercise or electrostimulation may cure stress urinary incontinence (SUI) by converting fast- to
+   slow-twitch fibres (speculative).
+ • EUS may contain noradrenergically innervated smooth muscle: hypogastric stimulation evokes EUS
+   potentials that persist after α-blockade → probably striated in origin.
+Concept — Tone vs reserve: slow-twitch oxidative fibres hold resting closure (hence the female sphincter's
+slow-fibre dominance), fast-twitch fibres supply the brief extra squeeze on coughing — and continence always
+combines active tone with passive anatomical support.
+
+UROTHELIAL PHYSIOLOGY
+ • Primary role: relatively impermeable barrier; also sentinel defence against uropathogens, afferent
+   signalling and modulation of DSM contractility.
+
+Barrier Function
+ • Permeability depends on passive diffusion, osmotically driven diffusion, active transport and membrane
+   inertness.
+ • Finite passage has long been known (Kaupp, 1856: 12-hourly vs hourly voiding altered urine
+   composition). Passive permeability to most solutes; in vivo rat urothelium passes urea, Na⁺, K⁺, Cl⁻, so
+   the bladder may modify final urine, depending on hydration and dietary protein.
+ • Water crosses via aquaporins; human water permeability about 6.5 × 10⁻⁵ cm/s (tritiated water
+   absorption); no direct human diffusive permeability measure yet — one could phenotype LUTD with a
+   leaky urothelium.
+ • Loss of umbrella cells (cystitis models) → ↑ water and urea permeability; urinary solute leak into the
+   lamina propria likely causes cystitis symptoms, worsened by distension (intermediate/basal cells are no
+   real barrier). Similar in infective and radiation cystitis.
+
+
+                                                           page 4 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                        UROTHELIAL PHYSIOLOGY
+ • Osmotic gradient maintained: plasma about 300 mOsm/kg vs urine 100–1500 mOsm/kg — unnoticed
+   normally, symptomatic once inflamed (BPS/IC).
+ • SCI and myelodysplasia → chronic bacteriuric cystitis. Hyperosmolar instillation (rat) → stronger
+   contractions, BP rise, neurogenic inflammation (Evans blue extravasation) blocked by capsaicin →
+   hyperosmolality excites C-fibre afferents; enhanced after dimethyl sulfoxide (DMSO) pretreatment
+   (simulated cystitis).
+ • Tight junction (TJ) proteins: zona occludens-1 (ZO-1), occludin, claudin-4, -8, -12 — block paracellular
+   flow (Fig. 103.9: TJs, adherens junctions, desmosomes, gap junctions). With stretch, small-molecule
+   permeability is unchanged but transepithelial resistance (TER) falls tenfold → ↑ ionic paracellular
+   transport via claudin pathways.
+ • GAG layer — controversial:
+    ◦ GAG is 100% polysaccharide, made enzymatically (not template-coded) → heterogeneous.
+     ◦ Theory arose from acid-injured rabbit bladder: ↑ bacterial adherence, normalising within 24 h →
+       "secretory" antiadherence factor, attributed to GAG.
+     ◦ Later shown to be a glycoprotein (mucin MUC-1); MUC-1-transfected cells showed no change in
+       water/urea permeability. Chondroitin sulfate is the main human GAG.
+     ◦ Verdict: GAG may matter for bacterial antiadherence and blocking macromolecules, but is not proven
+       to be the primary impermeability barrier.
+ • Trigone and detrusor urothelium are alike; the proximal urethra changes to stratified/columnar
+   epithelium without urothelial differentiation markers.
+ • Urethral chemosensory "brush" cells (paraneurons): luminal, with microvilli, like gut enterochromaffin or
+   tracheal brush cells; detect noxious stimuli or bacteria by the taste-transduction pathway, release ACh
+   and serotonin onto nearby sensory nerves → alter bladder function. Intraurethral serotonin → ↑
+   visceromotor response (VMR) and afferent firing; sacral afferents respond to urethral flow.
+
+Urethral Tone
+ • Smooth muscle, striated muscle and lamina propria all contribute to the urethral pressure profile.
+ • Nicotinic (striated) blockade reduces tone rarely by >40% → smooth muscle matters; α-blockade lowers
+   urethral pressure by about one third; little cholinergic contribution.
+ • Despite a posteriorly open horseshoe, EUS pressure during filling rises uniformly like an iris;
+   noradrenaline or hypogastric stimulation augments it → adrenergic role in EUS.
+ • Urethral stroma: longitudinal collagen and elastin. Vascular filling of the lamina propria aids continence
+   (magnitude unknown); oestrogen ↑ urethral blood flow.
+ • Impaired arterial supply ↓ urethral pressure: early fall = ↓ vascular filling; later = hypoxic effect on
+   smooth muscle.
+ • Periurethral collagen in SUI — divergent: premenopausal SUI: more collagen and thicker fibrils;
+   postmenopausal: no difference; others report ↓ collagen and ↓ collagen I : III.
+
+Ionic Transport
+ • Apical membrane: high resistance; basolateral about tenfold lower. Active Na⁺ transport occurs.
+ • Apical Na⁺ channels (surface and subapical vesicles) are amiloride-sensitive and aldosterone-responsive;
+   amiloride-insensitive cation channels are degradation products, cleaved by urinary serine proteases
+   (kallikrein, urokinase, plasmin).
+ • Basolateral Na⁺/K⁺ exchanger extrudes Na⁺ (cell interior negative); K⁺ and Cl⁻ channels, Na⁺/H⁺ and Cl⁻/
+   HCO₃⁻ exchangers restore cell volume when serosal osmolality rises.
+
+
+                                                           page 5 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                     UROTHELIAL PHYSIOLOGY
+ • Role of the apical Na⁺ channel unknown: channel degradation with filling may signal fullness, or regulate
+   apical membrane insertion/removal during expansion.
+
+Sensor-Transducer Function of the Urothelium
+ • Urothelial cells behave like sensory neurons (nociceptors, mechanoreceptors). "Sensor molecules"
+   expressed: receptors for bradykinin, neurotrophins (TrkA, p75), purines (P2X, P2Y), noradrenaline (α, β),
+   ACh (nicotinic, muscarinic), protease-activated receptors; ENaC (amiloride-sensitive mechanosensitive
+   Na⁺ channel); TRPV1, TRPV2, TRPV4, TRPM8 (transient receptor potential channels).
+ • Activated by mechanical or chemical stimuli, they release NO, ATP, ACh and substance P (SP), acting on
+   nearby afferents directly or via suburothelial myofibroblasts (gap-junction linked) → chemical coupling to
+   sensory nerves. (Carbachol causes dose-dependent ↑ intracellular Ca²⁺.)
+ • Nitric oxide (NO): released especially in inflammation (by calcium ionophore, noradrenaline, capsaicin,
+   SP); urothelium removal cuts adrenergic NO release by about 85%; cultured urothelium of several
+   species (incl. human) expresses TRPV1; afferent NOS ↑ in chronic inflammation. NO barely affects
+   detrusor but inhibits afferent Ca²⁺ channels → net inhibition of afferent activity (NO scavenging or NOS
+   block ↑ bladder activity).
+ • ATP from stretched urothelium → suburothelial P2X3 afferents → fullness and pain; P2X3-null mice
+   show hyporeflexia. Analogy: airway epithelium modulating submucosal nerves. ATP also acts autocrine
+   (P2X, P2Y) to trigger exocytosis/membrane trafficking. Human urothelium releases ATP to muscarinic/
+   purinergic stimulation, causing mucosal contraction; ageing ↑ ATP release.
+ • Prostaglandins (PGs): urothelium is the main PG source; roles = detrusor regulation and cytoprotection
+   (PGs treat haemorrhagic cystitis). Human urothelium: 6-keto-PGF1α > PGE2 > PGF2α > thromboxane B2,
+   plus prostacyclin (PGI2); production ↑ greatly in inflammation. Ureteric PGs may regulate peristalsis and
+   limit luminal clot.
+ • Muscarinic receptors on urothelium at high density; basal ACh release ↑ by stretch and ageing →
+   modulates afferents and DSM.
+ • Urothelium-derived inhibitory factor: ↓ muscarinic contraction; identity unknown — not NO, PG,
+   prostacyclin, adenosine, catecholamine, γ-aminobutyric acid (GABA) or apamin-sensitive SK-channel
+   action; attenuated in fetal bladder outlet obstruction (BOO).
+
+Suburothelial Interstitial Cells
+ • Myofibroblasts beneath the basal urothelium: vimentin+ and α-smooth muscle actin+, desmin−; linked
+   by connexin 43 (Cx43) gap junctions; close to C-fibre endings → a functional network (Fig. 103.10:
+   stretch-released ATP/ACh act via P2Y, M2/M3, TRPV1 on interstitial cells → afferents).
+ • ATP → inward current + ↑ Ca²⁺; express P2Y6 and M3. In human idiopathic DO (IDO), M2/M3
+   expression on these cells correlates with urgency score.
+ • NO donor sodium nitroprusside (SNP) damps their ATP responses → cyclic guanosine monophosphate
+   (cGMP)-dependent inhibition.
+
+ KEY POINTS: UROTHELIUM
+   • Uroplakins and TJ proteins underpin barrier function.
+   • Uroplakins are the attachment site of type 1-piliated uropathogenic E. coli.
+   • GAG layer may aid antiadherence; no definite evidence of impermeability function.
+   • Urothelial cells release and respond to neurotransmitters.
+
+
+
+
+                                                           page 6 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                                   UROTHELIAL PHYSIOLOGY
+   • Myofibroblasts mediate urothelium–afferent interaction.
+
+Concept — The urothelium is a sensory organ as well as a wall: it detects stretch and chemistry and signals
+to afferents (ATP excites, NO inhibits, myofibroblasts relay), so a damaged barrier produces symptoms twice
+over — by solute leak and by altered signalling.
+
+SMOOTH MUSCLE PHYSIOLOGY
+ • DSM must contract for efficient emptying; understanding its quiescence informs OAB, neurogenic
+   bladder and underactive detrusor.
+ • Differs from striated muscle: autonomic (not somatic) motor supply, modulation by hormones, paracrine
+   NO and urothelial factors, and spontaneous rhythmic activity without neural input; efficient voiding still
+   needs neural control.
+
+TABLE 103.1 COMPARISON OF THE PROPERTIES OF SKELETAL AND SMOOTH MUSCLE
+ Property                       Skeletal muscle                           Smooth muscle
+ Cells                          Long cylinders, many nuclei               Spindle, single nucleus
+ Maximum size (length ×         30 cm × 100 µm                            200 µm × 5 µm (text: several hundred µm × 5–6
+ diameter)                                                                µm)
+ Striations                     Yes                                       No
+ Ultrastructure                 Sarcomeres; no intermediate               No sarcomeres; intermediate filaments, dense
+                                filaments                                 bodies
+ Motor innervation              Somatic                                   Autonomic
+ Contracture                    Phasic                                    Mostly tonic, some phasic
+ Contractile activation         Disinhibition of tropomyosin; sliding     Active myosin phosphorylation; sliding
+                                filaments; rapid                          filaments (?); "latch state"
+ Ca²⁺ regulation                Rapid influx via T tubules                Voltage- and receptor-operated channels;
+                                                                          internal stores
+ Basal tone                     Neural activity                           Intrinsic and extrinsic factors
+ Force regulated by             No                                        Yes
+ hormone
+After Chacko et al., 1999.
+
+ • What it tests: skeletal muscle is switched on by removing an inhibitor (troponin–tropomyosin); smooth
+   muscle is switched on by phosphorylating myosin — so it is slower, sustains tone economically (latch)
+   and is open to hormonal and local modulation.
+ • Trap: the lengths differ between table (200 µm) and text ("several hundred µm") — both describe cells of
+   a few hundred micrometres.
+
+Contractile Proteins
+SMOOTH MUSCLE FILAMENTS
+ Filament          Diameter Composition                                         Role
+ Thick             15 nm      Myosin II                                         Cross-bridges
+ Thin              6–8 nm     Actin + tropomyosin (TM) + caldesmon (CaD) Regulated track
+
+
+
+
+                                                           page 7 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                            SMOOTH MUSCLE PHYSIOLOGY
+
+ Filament        Diameter Composition                                          Role
+ Intermediate 10 nm           Desmin, vimentin                                 Modulate response; anchor at dense bodies
+
+ • Myofibrils run obliquely in a lattice (no sarcomeres); thin and intermediate filaments anchor to dense
+   bodies in cytoplasm and dense bands between caveolae; junctional complexes link neighbours →
+   syncytial contraction (Fig. 103.11).
+ • Myosin II = two intertwined myosin heavy chains (MHCs): rod/coil tail, hinge, globular heads (Fig.
+   103.12). Splicing: 5′ end → SM-A / SM-B; 3′ end → SM-1 / SM-2. Bladder is almost 100% SM-B — higher
+   ATPase, faster actin movement than SM-A.
+ • Each head carries two myosin light chains: MLC20 (regulatory — its phosphorylation drives cycling via
+   myosin ATPase) and MLC17 (two splice variants of one gene).
+ • Actin is dynamic: actin polymerisation at the cell periphery is a seminal event, recruiting proteins linking
+   actin to integrins at adhesion junctions, stiffening the membrane for force transmission — regulated
+   separately from cross-bridge cycling (Fig. 103.13).
+ • CaD and TM gate myosin access to actin (Fig. 103.14). CaD (isolated 1981 from chicken gizzard): h-CaD in
+   all smooth muscle, l-CaD in non-muscle cells; inhibits actomyosin ATPase and motility, enhanced by TM;
+   modulated by calmodulin (CaM) — the protein that binds Ca²⁺ to start contraction.
+
+Actinomyosin Cross-Bridge Cycling
+ • Sequence (Box 103.1): action potential (AP) → ↑ [Ca²⁺]i → Ca²⁺ binds CaM → CaM activates myosin light
+   chain kinase (MLCK) → MLCK phosphorylates MLC20 (ATP → ADP) → phospho-myosin binds actin →
+   force; myosin light chain phosphatase (MLCP) dephosphorylates MLC20 → detachment → relaxation, as
+   Ca²⁺ falls.
+ • Tone = Ca²⁺ balance + MLCK : MLCP balance. Inhibiting MLCP raises force without any rise in Ca²⁺ =
+   calcium sensitisation.
+ • RhoA (small GTPase): inactive with GDP, active with GTP. Regulators: GEFs (GDP → GTP, activate), GAPs
+   (GTP → GDP, inactivate), GDIs (bind RhoA-GDP, block GEFs and membrane translocation).
+ • RhoA-GTP activates Rho kinase (ROK) at the membrane → ROK phosphorylates and inactivates MLCP;
+   ROK (and protein kinase C, PKC) also phosphorylate CPI-17, which then binds and inhibits MLCP →
+   contraction (Fig. 103.15).
+
+ BOX 103.1 DETRUSOR SMOOTH MUSCLE CONTRACTION — SEQUENCE
+  1. Ca²⁺ binds calmodulin, activating it.
+  2. CaM activates MLCK.
+  3. MLCK transfers phosphate from ATP to myosin, allowing interaction with actin.
+  4. Relaxation follows the fall in intracellular Ca²⁺.
+
+
+Membrane Electrical Properties and Action Potentials
+ • DSM is excitable; contractility depends on membrane potential. Single-cell patch data ignore the
+   syncytium and interstitial pacemakers.
+
+ION CONCENTRATIONS (MEQ/L)
+ Ion               Intracellular                                          Extracellular
+ Na⁺               5–15 (low)                                             130–140 (high)
+ K⁺                130–140 (high)                                         3–5 (low)
+
+
+
+
+                                                           page 8 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                             SMOOTH MUSCLE PHYSIOLOGY
+
+ Ion               Intracellular                                          Extracellular
+ Cl⁻               4–30 (low)                                             105–115 (high)
+
+ • Membrane potential follows the Goldman–Hodgkin–Katz equation (weighting each ion's gradient by its
+   permeability). At rest the membrane is K⁺-permeable only, so resting potential approaches the K⁺
+   reversal potential (about −90 mV); reversal potentials: Na⁺ about +65 mV, Cl⁻ about −85 mV.
+ • Human detrusor resting potential −50 to −60 mV (cultured cells more depolarised, about −28 mV).
+ • Detrusor AP (Fig. 103.16): phase 0 slow depolarisation → phase 1 fast upstroke (Ca²⁺ inward current,
+   ICa) → phase 2 repolarisation → phase 3 hyperpolarisation (both K⁺ outward current, IK); continuous
+   current gives AP trains.
+ • IK channels: SK and BK (small- and large-conductance Ca²⁺-activated K⁺) and Kv (voltage-gated). Blocking
+   any → ↑ contractility and spontaneous activity. BK is the most critical: sets membrane potential →
+   governs L-type voltage-dependent Ca²⁺ channel (VDCC) opening → [Ca²⁺]i → contraction.
+
+Excitation-Contraction Coupling
+ • ACh (postganglionic parasympathetic) → M3 → ↑ [Ca²⁺]i by (1) extracellular entry through L-type VDCCs
+   and (2) SR release via Gq → inositol trisphosphate (IP3).
+ • Gq cascade (Fig. 103.17): M3 → Gαq → phospholipase C (PLC) → PIP2 cleaved → IP3 (cytosolic; SR IP3
+   receptor → Ca²⁺ release) + diacylglycerol (DAG, membrane; activates PKC). Second-messenger families:
+   IP3/PKC and cAMP/PKA (cyclic adenosine monophosphate/protein kinase A).
+
+G-PROTEIN COUPLING OF RELEVANT RECEPTORS
+ Coupling Receptors                                                                        Downstream
+ Gq           Odd muscarinics M1, M3, M5; α1-adrenoceptors; angiotensin II;                PLC → IP3 + DAG → Ca²⁺
+              histamine H1; 5-HT2                                                          release, PKC
+ Gi/o         Even muscarinics M2, M4                                                      Inhibit adenylyl cyclase → ↓
+                                                                                           cAMP
+ Gs           β-adrenoceptors                                                              ↑ cAMP → PKA → relaxation
+
+ • G-protein-coupled receptor work won the 2012 Nobel Prize in Chemistry (Kobilka, Lefkowitz). M3
+   knockouts prove M3 mediates contraction (mouse, human).
+ • Dogma challenged: in mouse DSM after electric field stimulation (EFS; purinergic component blocked with
+   α,β-methylene ATP), contraction depended only on L-type VDCC Ca²⁺ entry (blocked by atropine and
+   diltiazem, not by IP3 or PLC inhibition).
+ • Purinergic excitation in disease: obstructed and OAB human bladders show atropine-resistant
+   contractions blocked by α,β-methylene ATP; normal human bladders have none. Purinergic signalling ↑
+   in the ageing bladder.
+ • P2X1 + M3 both contract mouse DSM, but purinergic activation suppresses muscarinic coupling →
+   explains detrusor hyperactivity with impaired contractility (DHIC; Resnick and Yalla, 1987): purinergic ↑
+   afferent drive (urgency/overactivity) + ↓ muscarinic contraction (incomplete emptying) → blocking
+   purinergic signalling could treat DHIC.
+
+Calcium Signaling in Detrusor Myocyte
+VOLTAGE-DEPENDENT CA²⁺ CHANNELS IN DSM
+ Feature         L-type (long-lasting)                                                         T-type (transient)
+ Activation      AP depolarisation                                                             Smaller depolarisations
+ Conductance Larger                                                                            Smaller
+
+
+
+                                                           page 9 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                              SMOOTH MUSCLE PHYSIOLOGY
+
+ Feature          L-type (long-lasting)                                                         T-type (transient)
+ Blockers         Nifedipine (dihydropyridine), diltiazem (non-dihydropyridine),                No specific blocker yet
+                  verapamil (phenylalkylamine)
+ Role             Main contraction trigger                                                      Finer control; possibly
+                                                                                                pathology
+
+ • Gene family CaV/CACNA1. Ca²⁺ imaging shows a "calcium flash" then shortening.
+ • Calcium-induced calcium release (CICR): VDCC entry → SR release via ryanodine receptors (RyRs) →
+   "calcium sparks" (first seen in arterial muscle) → open nearby BK (KCNMA1) → K⁺ efflux →
+   hyperpolarisation, relaxation; sparks cause spontaneous transient outward currents (STOCs). Sparks are
+   not tightly coupled to VDCCs in detrusor (SR farther from membrane) unlike cardiac muscle —
+   resembles arterial muscle.
+ • Ca²⁺ must return to submicromolar levels by P-type ATPases (autophosphorylated aspartate) and other
+   routes (Fig. 103.18): (1) Na⁺/Ca²⁺ exchange, (2) plasma membrane Ca²⁺-ATPase, (3) SERCA into SR, (4)
+   Ca²⁺-binding proteins, (5) mitochondrial uptake.
+ • Store-operated Ca²⁺ entry (SOCE; capacitive entry): SR depletion sensed by stromal interaction molecule
+   (STIM) → STIM clusters tether ORAI tetramers → calcium release-activated channel (CRAC; current
+   ICRAC). Not yet measured in detrusor, but likely.
+
+Propagation of Electrical Responses
+ • Cx43 gap junction: monomer with four transmembrane domains (both termini intracellular) → six form a
+   hemichannel with a central pore → two hemichannels dock → ionic coupling (Fig. 103.19); shown in
+   cultured human myocytes by double whole-cell patch and Western blot. Cx43 and Cx45 expressed in
+   human detrusor.
+ • Yet detrusor is poorly coupled: no fused tetanic contractions, high tissue impedance — probably
+   protective, preventing synchronous activation during filling; coupling within bundles does exist
+   (measurable length constant).
+ • Coupling falls postnatally: neonatal large, low-frequency coordinated activity → adult small, high-
+   frequency irregular activity. Altered coupling may generate uninhibited contractions in overactive and
+   ageing bladders.
+
+Detrusor Interstitial Cells
+ • Normal bladder may be spontaneously active; exaggerated activity may cause DO (in partial outlet
+   obstruction, local contractions are more frequent and coordinated). Source unresolved: myocytes
+   themselves or interstitial cells as pacemakers.
+
+INTERSTITIAL CELL POPULATIONS
+                       Markers /
+ Population            receptors             Proposed role                 Pharmacology
+ Suburothelial         Vimentin, α-SMA,      Relay urothelium →            NO/SNP inhibit via cGMP
+ myofibroblasts        Cx43; P2Y6, M2/       afferents
+                       M3, TRPV1
+ Intradetrusor c-      c-KIT, M3; COX →      Pacemaker or                  Imatinib ↓ spontaneous contractions (guinea
+ KIT+ cells            PGE2                  modulator of Ca²⁺             pig; human OAB strips with ↑ c-KIT cells); PDE5
+                                             transients (not               inhibitors → ↑ cGMP → ↓ bundle synchrony; EP
+                                             contractile)                  antagonists ↓ activity
+
+
+
+
+                                                           page 10 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                      SMOOTH MUSCLE PHYSIOLOGY
+
+                       Markers /
+ Population            receptors             Proposed role                 Pharmacology
+ PDGFRα+ cells         Platelet-derived      Inhibitory: purine-           —
+                       growth factor         induced prolonged
+                       receptor-α; P2Y1      relaxation; a fibroblast
+                                             lineage
+
+ • Interstitial cells lie along bundle boundaries (Fig. 103.20), are spontaneously active, fire Ca²⁺ waves via
+   M3; but spontaneous transients arise independently in muscle and interstitial cells, so they may
+   modulate transmission rather than pace.
+ • "Dual receptive field" for purines: excitatory P2X1 on smooth muscle vs inhibitory P2Y1 on PDGFRα
+   cells → fine control.
+
+ KEY POINTS: SMOOTH MUSCLE MECHANICS
+   • Muscarinic receptors contract detrusor in response to parasympathetic ACh, via Ca²⁺ entry through
+     Ca²⁺ channels.
+   • Ca²⁺ triggers all muscle, but in smooth muscle the activation mechanism differs; the response is
+     slower and longer lasting than skeletal or cardiac.
+   • The normal bladder may be spontaneously active; exaggerated spontaneous contraction may
+     contribute to OAB; interstitial cells are proposed pacemakers.
+
+Concept — Contraction is a phosphorylation balance: Ca²⁺ entry (mainly L-type) switches MLCK on, MLCP
+and BK channels switch the cell back off, and nearly every pathology in this section — DO, DHIC, calcium
+sensitisation — is a shift in that kinase–phosphatase or excitation–brake balance.
+
+BLADDER MECHANICS
+
+Urinary Storage (Filling)
+ • Wall composition: besides muscle, about 50% collagen, 2% elastin; collagen ↑ after injury, obstruction
+   or denervation. Contractile protein > collagen → compliant; ↑ collagen → ↓ compliance.
+ • Filling geometry: lamina propria thins faster than muscle; bundles shift from top-to-bottom to side-to-
+   side; coiled type III collagen straightens, becoming taut and parallel to the lumen → storage at low
+   pressure.
+ • Compliance C = ΔV/ΔP. Slow physiological filling keeps pressure <10 cmH2O; compliance is fill-rate
+   dependent (pressure drops when urodynamic filling slows/stops). In women with SUI (50 mL/min),
+   detrusor pressure rose only a few cmH2O to capacity.
+ • Pressure–volume curve depends on (1) passive collagen, elastin and muscle, (2) active muscle, (3)
+   geometry. Low compliance (steep curve) may reflect: fast filling; more collagen/less elastin; smooth
+   muscle hyperactivity; or combinations.
+ • Acute spinal transection does not alter compliance; pelvic nerve transection reduces it. Compliance
+   involves an active afferent-driven CNS loop inhibiting spontaneous contractility during filling.
+ • Broad length–tension relationship; viscoelasticity shapes wall tension. Spontaneous activity common in
+   small-mammal strips and seen in human, but fused tetanic contractions (as in gut or uterus) almost
+   never occur normally.
+ • "Dynamic elasticity": compliance is continuously modulated during filling; ex vivo pulsatile compression
+   ↑ capacity (pig) — a possible way to reduce urgency from micromotions.
+
+
+
+                                                           page 11 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                                     BLADDER MECHANICS
+
+Voiding Mechanics
+ • Pdet = Pves − Pabd (detrusor = intravesical − abdominal). Micturition = neurally driven detrusor
+   contraction raising Pdet without Pabd change.
+ • Pdet alone does not measure contraction strength: muscle spends energy on force (→ Pdet) or
+   shortening velocity (→ flow, Q); trade-off ≈ constant power W = Pdet × Q.
+ • During voiding Pdet reflects outlet resistance. With a wide-open urethra, little pressure is needed: stress-
+   incontinent women void at Pdet at Qmax about 19 cmH2O; healthy men about 60–70 cmH2O.
+ • Low voiding pressure in a woman ≠ impaired contractility; male obstruction nomograms must not be
+   applied to women without validation.
+
+Motor Sensory Network in Detrusor Muscle
+ • Sensory fibres lie beside myocytes and intradetrusor interstitial cells (Fig. 103.21, with intramural and
+   external ganglia); spontaneous micromotions trigger afferent signals → ↑ activity may be perceived as
+   urgency.
+ • Explains how antimuscarinics (tolterodine) and the β3 agonist mirabegron ↓ non-voiding contractions
+   (partial obstruction model) and so ↓ sensory input (afferent output not measured). Micromotions seen
+   in women with sensory urgency.
+ • Efferent and afferent functions are inseparable.
+Concept — Pressure is not strength: detrusor power is shared between pressure and flow, so Pdet during
+voiding reports outlet resistance, and during filling low pressure depends on wall structure plus an active
+afferent–CNS brake on spontaneous contraction.
+
+NEURAL CONTROL OF THE LOWER URINARY TRACT
+
+Peripheral Nervous System
+THE THREE PERIPHERAL NERVE SUPPLIES (FIG. 103.22)
+ Feature            Parasympathetic                                    Sympathetic                 Somatic
+ Origin             Sacral (S2–S4) intermediate grey: sacral           Rostral lumbar              Sacral ventral horn:
+                    parasympathetic nucleus                            (thoracolumbar) cord        Onuf's nucleus
+ Nerve              Pelvic                                             Hypogastric                 Pudendal
+ Bladder body       Excites (ACh → M3; ATP)                            Inhibits (noradrenaline →   —
+                                                                       β3)
+ Bladder base/      Relaxes urethra (NO)                               Contracts (α1)              Contracts EUS (ACh →
+ urethra                                                                                           nicotinic)
+ Net role           Voiding                                            Storage                     Storage (voluntary
+                                                                                                   closure)
+
+ • All three nerves are mixed afferent + efferent.
+ • Parasympathetic: preganglionic axons via ventral roots release ACh in pelvic plexus and intramural
+   ganglia. Postganglionic neurons lie in the detrusor wall as well as the pelvic plexus → cauda equina or
+   pelvic plexus injury decentralises but may not fully denervate; intramural afferent–efferent
+   interconnection is possible.
+ • Sympathetic route: lumbar cord → sympathetic chain ganglia → inferior splanchnic nerves → inferior
+   mesenteric ganglia → hypogastric nerves → pelvic ganglia.
+ • Somatic: EUS motoneurons in Onuf's nucleus (lateral border of ventral horn; Fig. 103.23), with transverse
+   dendritic bundles projecting to the lateral funiculus, intermediate grey and toward the central canal.
+
+
+                                                           page 12 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra            NEURAL CONTROL OF THE LOWER URINARY TRACT
+
+Afferent Pathways
+Overview: properties of afferent neurons
+ • Most time is spent storing: reflexes suppress DSM and contract the sphincter; micturition reverses this.
+   Sensory signals drive the switch and generate fullness and pain. Dysfunction → OAB, BPS/IC (urgency,
+   pain, UI).
+ • Current drugs mainly reduce contraction, yet symptoms reflect dysregulated storage sensation rather
+   than exaggerated contraction → targeting afferents is rational.
+Pathways to the spinal cord
+ • Afferents travel in pelvic, hypogastric (lumbar splanchnic) and pudendal nerves. Cell bodies: pelvic and
+   pudendal → sacral dorsal root ganglia (DRG); hypogastric → rostral lumbar DRG. Second-order spinal
+   neurons mediate spinal reflexes and ascending pathways.
+ • Pelvic afferents (volume and contraction) = myelinated Aδ + unmyelinated C. In SCI (and probably
+   inflammation) C fibres are recruited into a new pathway → urgency urinary incontinence (UUI) and
+   possibly pain (Figs 103.24, 103.25).
+ • Sensation: awareness and desire to void map to bladder distension and contraction; sensation of
+   imminent micturition may arise from the urethra. Filling produces episodic sensory bursts of rising
+   intensity, the last perceived as urgency. Afferent firing during contraction reinforces the central drive.
+ • Receptor types: "in-series tension receptors" (respond to distension and contraction; cat, rat) vs volume
+   receptors (distension only, possibly urothelial stretch; rat); many rat C afferents are stretch receptors
+   unresponsive to contraction.
+Functional properties of bladder afferents
+ • Human: only unmyelinated nerves in urothelium/suburothelium; small myelinated fibres with muscle.
+   Lamina propria plexus densest at bladder neck and proximal urethra, absent at the dome; muscle
+   innervation uniform.
+ • Most afferents are mechanosensitive with thresholds from physiological to noxious; low threshold =
+   small myelinated; high threshold = generally unmyelinated. Others are chemoreceptors (hypertonic
+   saline, capsaicin, ATP) or "silent" afferents sensitised by inflammation → pain.
+
+TABLE 103.2 BLADDER AFFERENT PROPERTIES
+ Fibre type             Location        Normal function                    Effect of inflammation
+ Aδ (finely             Smooth          Sense fullness (wall tension)      Discharge at lower pressure threshold
+ myelinated)            muscle
+ C (unmyelinated)       Mucosa          Respond to stretch (volume         Discharge at lower threshold
+                                        sensors)
+ C (unmyelinated)       Mucosa,         Nociception to overdistension;     Sensitive to irritants; become
+                        muscle          silent afferents                   mechanosensitive → new afferent pathway
+
+ • Mouse pelvic nerve — four classes: serosal, muscular, muscular/urothelial, urothelial; low-threshold
+   muscular afferents are the majority (65–80%), plus high-threshold; sensitised by inflammatory soup
+   (bradykinin, 5-HT, PG, histamine at pH 6.0).
+ • Guinea pig: low-threshold "antenna-like" muscle endings = tension receptors (respond to stretch and
+   contraction); high-threshold endings in deep muscle/serosa near blood vessels, sensitised by
+   inflammation.
+ • Species differences: Aδ/C conduction cut-off 2 m/s (cat) vs 1.3 m/s (rat). Cat: Aδ = low-threshold
+   mechanoreceptors; C = mechanoinsensitive "silent C fibres" sensitised by high K⁺, low pH, high
+   osmolality, capsaicin (Fig. 103.26), after which silent afferents become mechanoreceptive.
+
+
+                                                           page 13 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra       NEURAL CONTROL OF THE LOWER URINARY TRACT
+ • Bladder neck and proximal urethra have the densest innervation; urethral afferents lie between muscle
+   fibres, around vessels, in the urothelium and a dense suburothelial plexus. Striated sphincter: sparse
+   afferents; muscle spindles (group Ia) absent or scarce.
+ • Urethral paraneurons (like tracheal brush cells) may release neuropeptides or serotonin onto sensory
+   nerves → urethral reflexes. Flow-responsive sacral afferents behave like cutaneous afferents — relevant
+   to restoring emptying after SCI.
+ • Fig. 103.26 — sensitisation: urothelial ATP → P2X; axoplasmically transported neuropeptides released on
+   distension; neurokinin A → NK2 autoreceptors; high urinary K⁺, high osmolality, low pH, inflammatory
+   mediators; muscle force; nerve growth factor (NGF) → TrkA.
+Modulators of afferent sensitivity
+ • Stimulus–response function is shaped by the ending's environment: contraction distorts endings;
+   connective tissue transmits or dissipates energy (rapid vs slow adaptation); urothelial and lamina propria
+   mediators alter firing.
+ • Mediators (neurotrophins, purines, proteases, prostanoids, cytokines — from mast cells, fibroblasts,
+   neurons) act by three processes: (1) directly open ion channels; (2) sensitise without stimulating
+   (hyperexcitability); (3) change phenotype long-term (neurotrophins alter channel/receptor/mediator
+   expression).
+ • Sensitisation = leftward shift of stimulus–response curve (greater barrage per stimulus). Peripheral
+   sensitisation is rapid and short-lived; with maintained injury, gene expression changes → central
+   sensitisation.
+ • Reduced afferent sensitivity → impaired emptying: diabetic cystopathy (↓ sensation, ↑ residual;
+   ischaemia, glucose metabolism, free radicals); aged rats ↓ volume sensitivity and neuropeptides; aged
+   humans ↓ brain response to filling.
+Nitric oxide
+ • Major inhibitory transmitter relaxing urethral smooth muscle during micturition; also inhibits bladder
+   afferents.
+ • NOS inhibitors do not alter normal micturition, but spinal NOS inhibition ameliorates irritation-induced
+   DO. L-NAME ↑ afferent filling response by about 50%, reversed by L-arginine; L-arginine also reverses
+   acrolein (cyclophosphamide metabolite) hypersensitivity (BPS/IC model).
+ • Signal via cGMP (Fig. 103.27): soluble guanylyl cyclase ← NO; particulate guanylyl cyclase ← C-type
+   natriuretic peptide; membrane adenylyl cyclases ← Gsα and forskolin; soluble adenylyl cyclase ← HCO₃⁻
+   and Ca²⁺. Phosphodiesterases (PDEs) hydrolyse cAMP/cGMP; PDE5 terminates NO action → PDE5
+   inhibition ↓ afferent activity after SCI → target for BPS/IC and OAB. Injury/inflammation ↑ inducible
+   NOS.
+Purinergic signalling
+ • Stretch → urothelial ATP → myofibroblasts and afferents (Fig. 103.28; ATP ↑ with stress, injury,
+   inflammation, infection). P2X2 and P2X3 on unmyelinated afferents; mechanotransduction via P2X2 and
+   P2X2/3.
+ • Normal thresholds reflect an ATP (excitatory) : NO (inhibitory) balance. ATP ↑ in DO and BPS/IC.
+   Diabetic DO model: ↑ ATP, normal NO; sugar-induced UAB model: ↑ NO, normal ATP.
+
+
+
+
+                                                           page 14 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra               NEURAL CONTROL OF THE LOWER URINARY TRACT
+Transient receptor potential cation channels
+
+TRP CHANNELS IN THE BLADDER
+ Channel         Activators                                  Location                     Role / therapy
+ TRPV1           Heat >43 °C, protons, capsaicin             C-fibre nociceptors;         Inflammatory hypersensitivity;
+                                                             suburothelial and muscle     desensitised by resiniferatoxin
+                                                             plexuses; urothelium         (RTX) and capsaicin
+ TRPV4           Stretch/pressure, hypotonicity,             Urothelium (adherens        Knockout → impaired voiding;
+                 warmth >27 °C, phorbol esters               junctions) → ATP release; C inhibition improves cystitis
+                                                             fibres
+ TRPA1 (only Mustard oil (allyl isothiocyanate),             C fibres with CGRP;          Agonists → overactivity; ↑ in SCI;
+ ankyrin TRP) allicin, cinnamaldehyde, acrolein;             urothelium                   blockade normalises reflexes
+              bradykinin via G proteins
+ TRPM8           Cold <23 °C, menthol, icilin                Afferents; DRG with CGRP,    Bladder cooling reflex / ice-water
+                                                             IB4                          test; blocker ↓ frequency
+
+ • RTX: principal active ingredient of euphorbium (latex of Euphorbia resinifera); isolated 1975; recognised
+   1989 as an ultrapotent capsaicin analogue that desensitises without prior excitation. Intravesical RTX in
+   SCI DO → nerve staining changes and cystometric improvement. Capsaicin/RTX helped IC pain in small
+   studies, but a randomised trial of intravesical RTX in IC was negative.
+ • Bladder cooling reflex: cold saline → contraction below normal threshold; once taken to indicate a
+   supraspinal lesion; used for OAB and BOO.
+Cannabinoids
+ • Cannabinoids in Multiple Sclerosis (CAMS) study: cannabis extracts improved UUI and DO in multiple
+   sclerosis (MS).
+ • CB1 > CB2 in human urothelium and detrusor; CB1+ urothelial fibres ↑ in BPS/IC and IDO; CB1 agonist
+   ↓ distension firing, especially high-threshold (noxious) afferents. Others: CB2 predominates in
+   urothelium, suburothelium and sensory nerves; CB2 agonists ↓ nerve-evoked contractions. Net:
+   modulatory role in afferent signalling.
+Opioid peptides
+ • μ-opioid agonism ↓ bladder sensation and ↑ sphincter tone → retention risk (postoperative). Tramadol
+   ↑ capacity and compliance (animals).
+ • Short half-life opioid (fentanyl) → less retention than morphine. COX-2 inhibitor co-therapy ↓ opioid
+   use, nausea and constipation but not retention.
+Pelvic organ interactions: crosstalk between bladder and bowel
+ • Irritable bowel syndrome (IBS) ↔ LUTS; BPS/IC ↔ bowel symptoms → cross-organ sensitisation →
+   chronic pelvic pain syndrome. Colitis ↑ bladder contraction frequency; cystitis sensitises bowel; also
+   among uterus, urethra, vagina and prostate.
+ • Mechanisms (Fig. 103.29): (1) dichotomising afferents in DRG (axon reflex, TRPV1/P2X3+); (2) spinal
+   convergence (dorsal root reflexes; laminae VI–VII output neurons); (3) brain convergence. Viscerosomatic
+   convergence explains referred pain (angina); convergence explains poorly localised pelvic pain.
+
+ KEY POINTS: AFFERENT PATHWAYS
+   • Rat pelvic nerve contains in-series tension receptors, volume receptors and silent afferents (incl.
+     nociceptors).
+   • Intravesical irritants lower pressure thresholds of most endings, including high-threshold ones.
+
+
+
+
+                                                           page 15 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra       NEURAL CONTROL OF THE LOWER URINARY TRACT
+   • Much of the C-fibre population is silent to normal distension but becomes mechanosensitive after
+     chemical mediators.
+   • In inflammation and other pathology, recruited C fibres form a new afferent pathway — the rationale
+     for intravesical capsaicin and RTX.
+
+Concept — Afferent recruitment is the unifying disease mechanism: normal voiding runs on Aδ tension
+receptors, whereas inflammation, SCI and obstruction unmask silent C fibres by lowering thresholds — which
+is why C-fibre toxins (capsaicin, RTX) and C-fibre signals (ATP, NGF, TRPV1) recur throughout the clinical
+sections.
+
+Efferent Pathways to the Bladder
+ • Three pathways (Fig. 103.30): pelvic parasympathetic excites bladder; hypogastric sympathetic inhibits
+   bladder, excites neck and urethra; pudendal somatic supplies sphincter and pelvic floor striated muscle.
+   Parasympathetic ACh contracts detrusor for voiding; sympathetic noradrenaline (NA) relaxes via β
+   receptors during storage.
+Terminal nerve fibres
+ • Fascicles → bundles with dense innervation along the fascicle axis from connective-tissue trunks →
+   widespread coordinated contraction.
+ • Most detrusor nerves express acetylcholinesterase and vesicular ACh transporter (VAChT) —
+   parasympathetic. EFS responses need muscarinic + purinergic blockade → ACh and ATP carry excitation;
+   both released in muscle, persist after mucosal removal.
+ • Co-contents: vasoactive intestinal polypeptide (VIP), NOS, galanin; suburothelial cholinergic nerves
+   mostly also contain neuropeptide Y (NPY), tyrosine hydroxylase, some NOS. Trigone: VIP and NPY axons;
+   noradrenergic fibres sparse in trigone, rare in detrusor, absent in urothelium.
+ • Parathyroid hormone-related protein (PTHrP): released by stretched DSM → autocrine/paracrine
+   relaxant; suppresses spontaneous phasic contractions but barely affects carbachol/neural contractions
+   → stabilises filling without impairing voiding. PTH1R mainly in muscle; augmentation specimens are
+   PTH1R-negative; detrusor tenfold more sensitive than muscularis mucosae. Loss may cause OAB or
+   reduced capacity; mechanism (possibly cAMP–PKA) unestablished.
+Spinal ascending and descending influences: transmitters
+ • Glutamate: in primary afferent terminals, interneurons and medullary fibres; generally excitatory (vs
+   generally inhibitory glycine), but effect depends on the postsynaptic neuron (interposed inhibitory
+   interneuron → net inhibition). NMDA receptors control lumbosacral polysynaptic reflexes (Fig. 103.31);
+   glutamatergic input density ↓ with ageing.
+ • Glycine and γ-aminobutyric acid (GABA): projections inhibit the micturition reflex and glutamatergic
+   neurons; GABA receptor activation inhibits DO. Rectal distension inhibits bladder contractions —
+   abolished by intrathecal strychnine (glycine antagonist) + bicuculline (GABA-A antagonist) → synergistic
+   glycinergic/GABAergic rectovesical inhibition.
+ • Serotonin (5-hydroxytryptamine, 5-HT): raphe nuclei innervate lumbosacral autonomic nuclei; central 5-
+   HT suppresses voiding (inhibits parasympathetic drive) and activates thoracic sympathetic neurons;
+   raphe stimulation inhibits reflex bladder activity (cat). 5-HT1A and 5-HT2 in sacral parasympathetic
+   nucleus; species differ — 5-HT1A facilitates voiding in rats (used to reverse diabetic dysfunction).
+ • Duloxetine (serotonin–noradrenaline reuptake inhibitor, SNRI): ↑ EUS neural activity and ↓ bladder
+   activity centrally (cat); ↑ sneeze-induced mid-urethral continence reflex, mainly via α1-adrenoceptors
+   (rat); proposed for SUI and UUI.
+
+
+
+                                                           page 16 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra           NEURAL CONTROL OF THE LOWER URINARY TRACT
+ • Adrenergic: descending catecholaminergic neurons in upper medulla/pons. Two spinal α1 mechanisms:
+   inhibitory (afferent processing) and excitatory (↑ contraction amplitude via descending glutamatergic
+   limb of the spinobulbospinal reflex). Rat lumbar cord: α1A 70%, α1B 30%, α1D insignificant. Vascular
+   α1B blockade may ↑ pelvic blood flow (ageing, hypertension). β3-adrenoceptors occur peripherally and
+   in the sacral cord; β3 agonists (afferent + DSM effects) promising for OAB.
+ • Purinergic: ATP is co-released with NA and NPY (sympathetic) and with ACh (parasympathetic).
+   Purinergic parasympathetic transmission is clear in rat, rabbit, guinea pig but minimal in normal human
+   — emerges in DO and BOO. Seven P2X (ion channel) and eight P2Y (G-protein) subtypes; P2X1
+   dominates detrusor and bladder vascular muscle (rat, human) and ↑ in obstruction.
+ • Fig. 103.41 — adrenergic terminal: NE → α1 contraction / β relaxation; α2 feedback inhibition; NPY
+   contracts or inhibits ACh/NE release; ATP → P2 contraction; P1 prejunctional inhibition; ACh from
+   adjacent terminals inhibits adrenergic firing via M1.
+
+ KEY POINTS: SPINAL CIRCUITRY NEUROTRANSMITTERS
+   • Glutamate is key in the spinal efferent micturition circuitry, is excitatory in supraspinal circuitry, and
+     may mediate DO after neural injury.
+   • Spinal α1-noradrenergic system modulates micturition: inhibits bladder afferent input and facilitates
+     the descending limb to ↑ contractility.
+   • 5-HT, purines, glycine and GABA selectively set the volume threshold in the sacral cord.
+   • Many substances modulate supraspinal circuits (Fig. 103.31); their receptors are drug targets.
+
+Storage phase of the bladder
+ • Low, constant filling pressure below the voiding threshold (Fig. 103.33) depends on intrinsic muscle/
+   stroma properties, quiescent parasympathetic outflow, urothelial apical membrane changes and
+   mediators, and the bladder sympathetic reflex (negative feedback: closes outlet, inhibits contraction).
+Reflex circuitry controlling continence and micturition
+ • Central pathways = on–off switching circuits (Fig. 103.32) with a reciprocal bladder–outlet relationship;
+   low afferent activity → sphincter activation; high afferent activity → switch flips → bladder efferents fire,
+   sphincter inhibited.
+ • Reflexes can chain: bladder → sphincter guarding reflex → sphincter afferents → inhibition of bladder
+   (bladder–sphincter–bladder loop). Sacral neuromodulation probably works by activating these primitive
+   reflexes.
+
+TABLE 103.3 REFLEXES TO THE LOWER URINARY TRACT
+ Phase          Afferent pathway       Efferent pathways                                              Central pathway
+ Urine          Low-level vesical      EUS contraction (somatic); internal sphincter contraction      Spinal reflexes
+ storage        afferent activity      (sympathetic); detrusor inhibition (sympathetic); ganglionic
+                (pelvic nerve)         inhibition (sympathetic); sacral parasympathetic outflow
+                                       inactive
+ Micturition    High-level vesical     Inhibition of EUS; inhibition of sympathetic outflow;          Spinobulbospinal
+                afferent activity      parasympathetic activation to bladder and to urethra           reflex
+                (pelvic nerve)
+
+ • What it tests: storage is spinal; voiding needs the pons. The same pelvic afferents drive both — intensity
+   decides which.
+ • Sympathetic storage reflex is organised in the lumbosacral cord and survives thoracic transection (Fig.
+   103.34: somatic cholinergic to EUS, adrenergic and cholinergic/nitrergic to urethral smooth muscle;
+
+
+
+                                                           page 17 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra       NEURAL CONTROL OF THE LOWER URINARY TRACT
+   bulbospinal modulation) — but is weak in humans: bilateral retroperitoneal lymph node dissection does
+   not alter storage.
+ • Guarding reflex: bladder afferents activate pudendal motoneurons (↑ sphincter EMG with filling); also
+   triggered by urethral/perineal proprioceptive afferents. Inhibition during micturition is supraspinal →
+   weak or absent after chronic SCI → detrusor–sphincter dyssynergia (DSD).
+Sphincter-to-bladder reflexes
+ • Pudendal somatic afferents inhibit voiding — from penis, vagina, rectum, perineum, urethral and anal
+   sphincters — by suppressing sacral interneurons and directly inhibiting preganglionic neurons.
+ • EUS/pelvic floor contraction → proprioceptive afferents → central inhibition of micturition (Fig. 103.35);
+   in monkeys, anal sphincter stimulation inhibits voiding even after chronic T4 paraplegia → partly spinal.
+Somatic-to-visceral reflexes
+ • Sacral neuromodulation (SNM) treats refractory OAB and non-obstructive urinary retention (NOUR);
+   proposed actions: somatic afferent inhibition of sensory processing and restored brainstem
+   autoregulation.
+ • Posterior tibial nerve stimulation (PTNS) for OAB and NOUR; in cats continuous tibial stimulation inhibits
+   bladder activity beyond the stimulus, involving opioid and metabotropic glutamate mechanisms.
+Emptying phase of the bladder
+ • Switch to voiding is involuntary (infant, neuropathic bladder: wall tension exceeds threshold) or
+   voluntary. Tension-receptor firing reverses outflow: sacral parasympathetic on, sympathetic and somatic
+   off.
+ • Sequence: urethral sphincter relaxes → seconds later detrusor contracts → pressure rises → flow.
+   Urethral smooth muscle relaxation = parasympathetic NO + withdrawal of excitation; urethral flow
+   reflexes aid emptying. Parasympathetic organisation runs through spinal and spinobulbospinal pathways
+   via the pontine micturition centre (PMC).
+ • Fig. 103.33 (cystometrogram + sphincter EMG): infant (reflex) and adult (voluntary) — sphincter relaxes
+   seconds before contraction; stopping voiding → sphincter EMG rises, bladder relaxes; paraplegic —
+   reciprocity lost, uninhibited contractions with sphincter activity → bladder–sphincter dyssynergia, poor
+   emptying.
+Urethra-to-bladder reflexes
+ • Barrington (1931, 1941): urine flow or catheter stimulation of the urethra facilitates reflex bladder
+   contraction (promotes complete emptying). Two components:
+
+BARRINGTON'S URETHRA-TO-BLADDER REFLEXES
+ Component                   Afferent                                           Centre
+ First                       Somatic — pudendal nerve                           Supraspinal (PMC)
+ Second                      Visceral — pelvic nerve                            Spinal reflex
+
+ • Low-frequency pudendal afferent stimulation (human) or deep perineal nerve (cat) initiates voiding.
+ • Rat: stopping urethral perfusion or intraurethral lidocaine ↓ reflex frequency; intraurethral NO donors
+   (SNAP, nitroprusside) ↓ urethral pressure (about 30%) and reflex frequency (by about half or more)
+   without changing amplitude (Fig. 103.36); intraurethral capsaicin first ↑ frequency, then blocks activity
+
+
+
+
+                                                           page 18 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra       NEURAL CONTROL OF THE LOWER URINARY TRACT
+   by 30 min (Fig. 103.37) → urethral afferents modulate micturition (link between stress incontinence and
+   detrusor instability).
+Concept — Reciprocity is the rule, intensity is the switch: low afferent traffic runs spinal guarding reflexes
+that close the outlet, high traffic trips the pontine switch that reverses every output at once, and losing the
+pontine link (SCI) leaves the spinal reflexes fighting each other — DSD.
+
+Supraspinal Pathways
+Pontine micturition centre and brainstem modulatory mechanisms
+ • Barrington's cat lesions: micturition abolished by lesions at the inferior colliculus; facilitated by lesions
+   anterior to it (removal of inhibition). Animal pontine findings translate to humans (imaging; pontine
+   lesions cause continence or retention problems).
+ • Dorsal pontine tegmentum = PMC = Barrington nucleus = "M region" (medial). Discrete lesions →
+   retention (cat, rat); human stroke or MS in the same region → retention.
+ • Stimulation of Barrington nucleus → bladder contraction + urethral sphincter relaxation. Pontine units:
+   pre-contraction only; pre-contraction and sustained (found in Barrington nucleus); inhibited during
+   contraction (scattered).
+ • Barrington nucleus does not project to Onuf's nucleus. L-region (ventrolateral; pontine continence/
+   storage centre, cat) projects to Onuf's nucleus — but no Barrington–L-region connections. Instead
+   Barrington nucleus inhibits Onuf's nucleus indirectly via excitatory projections to GABA premotor
+   interneurons in the dorsal grey commissure and sacral intermediolateral inhibitory interneurons
+   (glycine, GABA) → Barrington nucleus = command centre for emptying.
+Central circuitry by transneuronal tracing
+ • Pseudorabies virus (PRV) retrograde tracing from bladder or urethra labels overlapping neurons with the
+   same time course → close central coordination.
+ • First labelled (most direct to spinal efferents): ventral medullary raphe, parapyramidal reticular
+   formation, A5, Barrington nucleus. Later: periaqueductal grey (PAG), hypothalamus, medial preoptic
+   nucleus (main inputs to Barrington), with locus coeruleus (LC), cortex, red nucleus. Distal colon labels
+   similarly (shared pelvic control).
+ • PRV shows hierarchy, not connectivity or function. Human voluntary control needs frontal cortex ↔
+   septal–preoptic hypothalamus and paracentral lobule ↔ brainstem; cortical lesions ↑ bladder activity
+   (lost inhibition).
+ • Fig. 103.38: interneurons relay to PMC and PAG; PMC receives PAG, lateral hypothalamus, medial
+   preoptic input and projects to LC and lumbosacral parasympathetic neurons, and to dorsal grey
+   commissure premotor neurons → Onuf's nucleus; pontine continence centre (PCC) = L-region.
+Neurotransmitters and modulators within brainstem networks
+ • Glutamate is the principal transmitter of Barrington neurons to preganglionic parasympathetic neurons
+   (NMDA and non-NMDA). Fig. 103.31: glutamate acts on NMDA and AMPA receptors in ascending and
+   descending limbs and sphincter pathway; modulators GABA, enkephalins, ACh, dopamine (ACh and
+   dopamine both excitatory and inhibitory).
+ • Corticotropin-releasing factor (CRF) in Barrington neurons is inhibitory at the spinal preganglionic level
+   (CRF antagonist enhances evoked contraction).
+ • Serotonin: inhibitory to detrusor, excitatory to urethral sphincter, at dorsal horn and motoneuron levels;
+   presynaptic 5-HT1A on afferent terminals ↓ transmitter release.
+ • Fig. 103.31 (cat): normal micturition = supraspinal PMC reflex triggered by Aδ tension receptors;
+   cortical–diencephalic modulation; after cord transection micturition is first blocked, then a C-fibre spinal
+
+
+                                                           page 19 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra       NEURAL CONTROL OF THE LOWER URINARY TRACT
+   reflex emerges; ice water activates it in SCI; capsaicin (20–30 mg/kg s.c.) blocks C-fibre reflexes in
+   chronic spinal cats but not intact cats; intravesical capsaicin suppresses instability and cold reflexes in
+   neurogenic bladder.
+Human brain imaging studies
+ • Single-photon emission computed tomography (SPECT), positron emission tomography (PET), functional
+   MRI (fMRI) — indirect blood-flow measures. PET: long-lasting states; fMRI: fast events; SPECT: poor
+   spatial and temporal resolution.
+ • Fig. 103.39: storage activates thalamus, insula, prefrontal cortex, anterior cingulate, PAG, pons, medulla,
+   supplementary motor area (SMA).
+Cerebral control of voiding
+ • Voiding = long-loop spinobulbospinal reflex: filling afferents → sacral cord → PAG (± PMC); above trigger
+   → PMC efferents → indirect inhibition of Onuf's nucleus (sphincter relaxation) + excitation of detrusor.
+   A switch — "off" (storage) or "on" (voiding); without higher control, involuntary emptying at a critical
+   volume.
+ • White-matter damage causing permanent incontinence interrupts the medial frontal → brainstem
+   (direct or via thalamus) pathway that tonically inhibits voiding during storage.
+ • Storage/withholding activates right inferior frontal or dorsolateral prefrontal cortex (right-sided
+   predominance); little medial frontal activation — imaging shows grey matter; lesions cut white-matter
+   links.
+ • MS with DSD: anterior thalamic radiation (ATR) involvement; transcranial magnetic stimulation (TMS) of
+   these areas ↓ voiding symptoms.
+Additional regions
+ • PET during voiding: dorsolateral prefrontal cortex, anterior cingulate gyrus (ACG), hypothalamus/
+   preoptic area, pons, PAG; also inferior frontal gyrus, postcentral and superior frontal gyri, thalamus,
+   insula, globus pallidus, cerebellar vermis.
+ • ACG responds to filling/withholding; dorsal ACG and SMA over-respond in urge incontinence (urgency
+   without contraction). Urgency = compelling, hard-to-defer desire to void with fear of leakage — a
+   homeostatic and social emotion. Rats activate cingulate cortex on filling (homology and "rat urgency"
+   unknown).
+ • Human PMC: posterior fossa tumours, discrete pontine lesions, childhood brainstem gliomas, vascular
+   lesions → retention; MRI localises to dorsolateral pons (pontine reticular nucleus/formation, near medial
+   parabrachial nucleus and LC); bladder symptoms overlooked amid disturbed consciousness and
+   respiration.
+ • Also parietal/frontoparietal, precuneus, posterior cingulate, hippocampus, amygdala, cerebellum, basal
+   ganglia (striatum, putamen). Dopamine tonically inhibits the PMC; lost in Parkinson disease (→
+   overactivity).
+Model of brain–bladder control and normal continence mechanism
+ • Circuits answer: Is the bladder full enough? Is voiding safe and socially appropriate? → limbic (emotion,
+   safety) and cortical (propriety, decision) control of the brainstem switch = PAG + PMC; PMC is the final
+   efferent brain nucleus; PAG receives medial and orbital prefrontal input.
+ • Storage sequence: filling afferents → PAG (switch not triggered) → thalamus → insula (desire to void) →
+   lateral and medial prefrontal cortex (decision, social appraisal) → if no void planned, medial frontal →
+   brainstem pathway (direct or ATR) tonically suppresses the reflex = normal continence mechanism;
+   medial prefrontal cortex–PAG (mPFC-PAG) white-matter damage → incontinence. Usually no conscious
+   bladder awareness.
+
+
+                                                           page 20 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra              NEURAL CONTROL OF THE LOWER URINARY TRACT
+ • Fig. 103.40: normal (sensation-based) mechanism vs backup mechanism = urgency, via dorsal ACG/SMA,
+   L-region (pontine storage centre) or sympathetic outflow; a third circuit monitors safety without
+   conscious sensation.
+Concept — The pons switches, the forebrain decides: PAG + PMC form a binary reflex switch, and continence
+is the medial prefrontal cortex tonically holding it off — so white-matter or frontal lesions produce
+incontinence, pontine lesions produce retention, and urgency is the forebrain's emergency backup.
+
+PHARMACOLOGY
+
+Muscarinic Mechanisms
+ • Human detrusor strips contract to muscarinic agonists and cholinergic nerve stimulation — abolished by
+   atropine. Five subtypes (M1–M5) by cloning; four pharmacologically defined.
+ • Human bladder: M1, M2, M3 by binding; all M1–M5 mRNA present. M2 predominates numerically, M3
+   mediates contraction.
+ • M3 → PLC → IP3 → Ca²⁺ release; L-type entry also important (nifedipine strongly blocks carbachol
+   contraction; PLC or SOCE inhibitors little effect) — but PLC inhibitors do suppress in other rat studies, and
+   Ca²⁺ rises without depolarisation in human cells. Guinea pig: both entry and store release.
+ • M2 enhances M3 contraction by: (1) inhibiting adenylyl cyclase (opposing sympathetic β relaxation); (2)
+   inactivating K⁺ channels; (3) activating non-specific cation channels.
+ • ROK inhibitor Y-27632 suppresses carbachol contraction (rat, human) → muscarinic activation recruits
+   Rho kinase → calcium sensitisation; mainly M3, possibly M2 (Y-27632 ↑ darifenacin affinity; darifenacin
+   ≈ 30-fold M3 > M2).
+ • Shift from M3 to M2 in obstructed or denervated hypertrophied rat bladders and human neurogenic
+   bladder.
+ • M3 knockout: salivation, pupil constriction and detrusor contraction depend on M3 (gut/reproductive
+   redundant); male knockouts: distended bladder, larger capacity (sex difference) → model for DO.
+ • Oxybutynin: non-selective antimuscarinic + direct smooth muscle relaxation — relevant only
+   intravesically. Botulinum toxin A in paediatric neurogenic DO (NDO) ↓ muscular muscarinic receptor
+   expression.
+ • Metabolites matter: desethyloxybutynin causes more dry mouth than oxybutynin → controlled-release
+   oxybutynin keeps efficacy with fewer side effects. Tolterodine (cat) and solifenacin (rat) act less on
+   salivary than bladder receptors. Site and speed of metabolism shape efficacy and side effects.
+
+TABLE 103.4 DRUGS WITH BLADDER ACTION
+ Class                  Examples                                Target / mechanism                 Intended effect
+ Anticholinergics       Atropine, glycopyrrolate,               Muscarinic antagonism              ↓ Filling pressure; ↓
+                        oxybutynin, propantheline,                                                 unstable contractions
+                        tolterodine
+ Smooth muscle          Dicyclomine, flavoxate                  Direct relaxation (most also       ↓ Filling pressure; ↓
+ relaxants                                                      anticholinergic)                   unstable contractions
+ Calcium                Diltiazem, nifedipine, verapamil        ↓ Ca²⁺ entry during AP             ↓ Spike magnitude of
+ antagonists                                                                                       unstable contractions
+ K⁺ channel             Cromakalim, pinacidil                   Hyperpolarise membrane             ↓ Myogenic initiation
+ openers                                                                                           of unstable
+                                                                                                   contractions
+
+
+
+
+                                                           page 21 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                                            PHARMACOLOGY
+
+ Class                  Examples                                Target / mechanism                    Intended effect
+ PG synthesis           Flurbiprofen                            ↓ PGs (which ↑ tone and               Relaxation during
+ inhibitors                                                     spontaneous activity)                 filling; ↓ spontaneous
+                                                                                                      activity
+ β-agonists             Isoproterenol, terbutaline              β → bladder body relaxation           ↓ Filling pressure
+ Tricyclic              Amitriptyline, imipramine               Anticholinergic + direct relaxant +   Storage
+ antidepressants                                                NA reuptake inhibition
+ α-agonists             Ephedrine, phenylpropanolamine,         α → urethral contraction              ↑ Urethral tone and
+                        midodrine, pseudoephedrine                                                    closure pressure
+ Afferent nerve         DMSO, capsaicin, resiniferatoxin        ↓ Sensory input                       ↑ Capacity; ↓ DO
+ inhibitors
+ Oestrogen              Estradiol (vaginal or oral)             ↑ Urothelial/mucosal thickness        ↓ Incontinence
+                                                                (seal); ↑ urethral adrenergic
+                                                                effect; ↑ blood flow
+
+ • What it tests: every storage drug acts at one of four points — muscarinic receptor, muscle membrane
+   (Ca²⁺ in, K⁺ out), afferent nerve, or outlet (α, oestrogen). Trap: α-agonists and oestrogen act on the
+   outlet; all others on the bladder. Tricyclics hit three mechanisms at once.
+
+Muscarinic Selectivity
+ANTIMUSCARINIC SELECTIVITY
+ Drug                         Receptor subtype selectivity                      Tissue (bladder vs salivary) selectivity
+ Darifenacin,                 Relatively M3-selective (darifenacin ≈ 30-        Not tissue-selective (salivary glands also
+ vamicamide                   fold)                                             M3)
+ Tolterodine                  Not M3-selective                                  Bladder-selective
+ Solifenacin                  10-fold M3 > M2 (similar to oxybutynin)           Bladder-selective
+ Oxybutynin                   ~10-fold M3 > M2; non-specific                    Not selective; metabolite drives dry mouth
+
+ • Tissue selectivity matters more than subtype selectivity; a truly bladder-selective antimuscarinic is the
+   "Holy Grail" of OAB therapy.
+ • Urothelium releases non-neuronal ACh and ATP; ACh receptor stimulation releases ATP, blockade
+   reduces it → antimuscarinics may act partly via the urothelium/afferents.
+
+Cognitive Impairment With Antimuscarinic Agents
+ • CNS M1 blockade (lipophilic, blood–brain barrier-crossing agents) → cognitive impairment, especially
+   elderly and comorbid. Additive anticholinergic burden (antihistamines, antispasmodics, muscle
+   relaxants) → confusion, mild cognitive decline, delirium. Withdrawal improves central effects within
+   weeks. Caution in the frail elderly, more so with pre-existing dementia.
+
+ KEY POINTS: MUSCARINIC MECHANISMS
+   • At least five subtypes; M1, M2, M3 found pharmacologically in human bladder.
+   • M3 → L-type Ca²⁺ influx + PLC/IP3 Ca²⁺ release, both contributing to contraction.
+   • Shift from M3 to M2 mediation reported in neurogenic bladder.
+
+
+
+
+                                                           page 22 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                                     PHARMACOLOGY
+
+Adrenergic Mechanisms
+β-Adrenergic Receptors
+ • β2 and β3 in human detrusor → direct relaxation via adenylyl cyclase → ↑ cAMP. Relaxation not
+   blocked by β1/β2 antagonists but blocked by β3 antagonists → β3 mediates it; β3 is the most highly
+   expressed adrenoceptor mRNA in human bladder.
+ • Mirabegron (β3 agonist) is approved for OAB with UUI, including for antimuscarinic contraindication/
+   intolerance; mirabegron + solifenacin combination is effective. Acts on afferents too: in rodents ↑
+   compliance, ↓ non-micturition contractions and afferent activation (shortened intervoid interval also
+   reported).
+ • PDE inhibitors also ↑ cAMP/cGMP; PDEs differ in substrate, species, tissue; search for bladder- vs penis-
+   specific isoforms. PDE4 degrades cAMP in guinea pig phasic cells; PDE4 inhibitors ↓ DO in rat BOO. PDE1
+   and PDE5 inhibitors used clinically for storage/voiding disorders.
+
+α-Adrenergic Receptors
+ • Not prominent in normal bladder, but in BOO-associated DO, α-density (especially α1D) may rise
+   enough to convert NA response from relaxation to contraction.
+ • Rat obstruction: α1D share rises from 25% to 70%; frequency suppressed by tamsulosin (α1D + α1A) but
+   not by 5-methyl-urapidil (α1A only); α1D knockouts: larger capacity and voided volume.
+ • Human: α1D already predominates in normal bladder, total α mRNA is low vs β3 and not ↑ by
+   obstruction → human role unproven.
+ • Urethra is where α matters: α1 and α2 present; α1A is the main urethral smooth muscle subtype; α-
+   agonists contract isolated urethra; hypogastric stimulation raises urethral pressure, blocked by α1
+   antagonists → rationale for α-agonists to ↑ outlet resistance.
+ • α-antagonists aid emptying in functional outlet resistance (BPH). Selective α1A blockers (e.g. RS-17053)
+   relax prostate and ↑ flow but do not improve LUTS scores; antagonists with α1D activity improve
+   storage symptoms → α1D (bladder or spinal) drives storage symptoms of BOO.
+ • α2: antagonists ↑ urethral NA release (presynaptic) without altering contractility; human urethra lacks
+   postjunctional α2; prejunctional α2 gives feedback inhibition. Hypogastric nerves inhibit vesical
+   ganglionic cholinergic transmission via α2; β-agonists facilitate it (cat).
+
+ADRENOCEPTOR SUBTYPES IN THE LOWER URINARY TRACT
+ Subtype Site                                        Effect                       Clinical relevance
+ β3         Detrusor (dominant                       Relaxation via cAMP          Mirabegron for OAB
+            adrenoceptor); sacral cord
+ α1A        Urethra, prostate (dominant)             Contraction                  α-agonists ↑ closure; α1A block ↑
+                                                                                  flow, not LUTS
+ α1D        Bladder (human normal; ↑ in rat          Contraction / storage        α1D blockade improves storage
+            BOO); spinal                             symptoms                     symptoms
+ α1B        Blood vessels; spinal (30%)              Vasoconstriction             Blockade ↑ pelvic blood flow
+ α2         Prejunctional urethra; vesical           ↓ NA release; ↓ ganglionic   No postjunctional urethral effect
+            ganglia                                  transmission
+
+
+ KEY POINTS: ADRENERGIC MECHANISMS
+   • β-relaxation = adenylyl cyclase → cAMP.
+   • β3 is the most highly expressed adrenoceptor; β3 agonists (mirabegron) are now approved for OAB.
+   • Human bladder: α1D predominates normally; α mRNA low vs β3 and not ↑ by obstruction.
+
+
+                                                           page 23 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                                        PHARMACOLOGY
+   • α-receptors govern urethral tone; α1A dominates prostate and urethra; all three α1 subtypes in
+     blood vessels.
+
+Urethral Tone in Females
+ • Regional study of the female urethra: sympathetic α1 tone maintains resting urethral tonus. α1A/1L
+   agonism ↓ incontinence episodes in mild–moderate SUI (small placebo-controlled study) → possible
+   urethra-specific adrenergic agonists.
+Concept — Receptor location decides drug action: the detrusor relaxes through β3 and contracts through
+M3 (with M2 as amplifier), whereas the outlet closes through α1A — so bladder drugs target β3/M3, outlet
+drugs α1, and α1D sits between as the storage-symptom receptor of obstruction.
+
+Afferent Neuropeptides
+ • LUT afferents contain SP, calcitonin gene-related peptide (CGRP), pituitary adenylate cyclase-activating
+   polypeptide (PACAP), leucine enkephalin, CRF, VIP, plus growth-associated protein-43 (GAP43), NOS,
+   glutamate, aspartate — in DRG, peripheral endings and spinal terminals.
+ • >70% of rat bladder DRG neurons contain multiple peptides — CGRP, SP, PACAP commonest; VIP
+   common in cat.
+ • Released from capsaicin-sensitive C fibres by noxious stimuli → plasma extravasation, vasodilation,
+   altered DSM activity (neurogenic inflammation); also spinal transmitters.
+
+Tachykinins
+ • Shared C-terminal Phe-Xaa-Gly-Leu-Met-NH2; SP, neurokinin A (NKA), neurokinin B (NKB); mainly in
+   unmyelinated C-fibre terminals; three seven-transmembrane G-protein receptors, all present in bladder.
+
+TABLE 103.5 TACHYKININS AND TACHYKININ RECEPTORS (WITH BLADDER ACTIONS FROM TEXT)
+                 Preferred
+ Tachykinin      receptor              Bladder actions
+ Substance P     NK1                   Vessels: plasma extravasation, vasodilation; spinal NK1 carries non-nociceptive
+                                       afferent input
+ Neurokinin      NK2                   Detrusor contraction; NK2 autoreceptors sensitise afferents (high urinary K⁺,
+ A                                     distension)
+ Neurokinin      NK3                   ↑ C-fibre excitability; spinal NK3 inhibits micturition via opioid mechanism
+ B
+
+ • Intrathecal or centrally acting NK1 antagonists ↑ capacity without changing voiding pressure; NK2, NK3
+   or peripheral NK1 antagonists ineffective on normal voiding. NK1 antagonists ↓ DO (cystitis, capsaicin, L-
+   dopa); NK2 antagonist ↓ capsaicin DO only. TAK-637 ↑ volume threshold.
+ • Aprepitant (NK1 antagonist) ↓ micturitions and urgency vs placebo at 8 weeks in women with
+   idiopathic OAB.
+ • Conclusion: non-nociceptive afferent input → spinal NK1; nociceptive input → NK1, NK2 and NK3.
+ • NK2 autofeedback: high K⁺ or distension → NKA release → NK2 autoreceptors → sensitisation; SR 48968
+   (NK2 blocker) ↓ mechanoreceptor sensitivity and blocks K⁺ sensitisation. DRG: NK2 excites, NK3 inhibits
+   (PKC-mediated Ca²⁺ channel modulation); NK2 → PKC → TRPV1 phosphorylation → ↑ capsaicin currents.
+
+Prostanoids
+ • PGs and thromboxanes from arachidonic acid via COX-1 and COX-2; roles in contractility, inflammation,
+   neurotransmission. Human mucosa: PGI2, PGE2, PGF2α, thromboxane A2. Contractile potency: PGF2α >
+   PGE > PGE2.
+
+
+                                                           page 24 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                            PHARMACOLOGY
+ • Receptors: DP, EP, FP, IP, TP (for PGD2, PGE2, PGF2α, PGI2, TXA2); EP1–EP4. Slow onset → modulatory: ↑
+   neural transmitter release, inhibit acetylcholinesterase → augment cholinergic contractions.
+ • Intravesical PGE2 to aid voiding: mixed results (helped some retention/neurogenic patients; not others)
+   but it causes urgency and involuntary contractions; indomethacin ↓ DO.
+
+Endothelins
+ • 21-amino-acid peptides ET-1, ET-2, ET-3 (separate genes); receptors ETA (ET-1 = ET-2 > ET-3) and ETB (all
+   equal). ET-1 → prolonged bladder contraction; ET immunoreactivity in almost all bladder cells → tone,
+   blood flow, remodelling.
+ • BOO (rabbit): ↑ ET-1, ETA (DSM, urothelium) and ETB (DSM); ET-converting enzyme inhibitor ↑ voiding
+   efficiency and ↓ DO; ETA antagonist (YM598) ↓ DO → ET may drive hyperplasia and DO in BPH-related
+   BOO.
+ • Afferent role: ETA on C fibres → DO; spinal ETA → inhibits micturition via opioids; SCI: ↑ bladder ET-1;
+   ETA antagonist (ABT-627) ↓ C-fibre DO.
+
+Sex Steroids
+ • Symptoms vary through the menstrual cycle. Sex steroids do not contract bladder directly; they
+   modulate receptors and growth. Oestrogen receptors in the female trigone.
+ • Conflicting animal data: oestrogen ↑ responsiveness to α, cholinergic and purinergic agonists (rabbit) vs
+   ↓ adrenergic/muscarinic density and ↓ contractions (rat).
+ • Oestrogen ↑ urethral adrenergic receptors; unmasks α-contraction in ovariectomised rabbits →
+   oestrogen + α-agonist combined for SUI, efficacy questioned. Oestrogen acts via adrenergic receptors,
+   vasculature and urothelium. Progesterone ↑ electrical and cholinergic contractions; both induce NOS
+   (possible DO relief).
+ • Clinically: oestrogen alone disappointing for SUI or UUI, and systemic oestrogen may ↑ UI in
+   postmenopausal women.
+ • Androgens (male rat): alter synapses and size of androgen-sensitive bulbocavernosus/levator ani
+   motoneurons; testosterone enlarges major pelvic ganglion neurons.
+
+CLINICAL RELEVANCE
+ • Ideal treatment reverses the cause (neural injury, obstruction, infection); idiopathic LUTD (OAB, IC/PBS,
+   UAB) is treated empirically for symptom relief.
+ • Many idiopathic conditions reflect augmented sensory input → "afferent neurourology". Idiopathic
+   NOUR (underactive detrusor) may be efferent failure, worsened by ↓ motor-sensory feedback.
+ • Closed-loop optogenetics (mouse): cyclophosphamide DO detected by pressure sensors → light activates
+   archaerhodopsin 3.0 in afferents (herpes simplex vector) → ↓ afferent activity → ↓ DO.
+ • Overarching paradigm: C-fibre activation via neurotrophins (NGF) made by DSM, temporally linked to
+   DO (Fig. 103.42: SCI, obstruction, inflammation, denervation, spontaneously hypertensive rat → ↑
+   neurotrophic factors → hyperexcitable C fibres → spinal positive-feedback loops; hypertensive rat also ↑
+   α1 excitation). Local anaesthetics, intravesical neurotoxins and bladder neck/prostate afferent
+   destruction ↓ urgency, frequency, UUI.
+ • Ice-water (spinal C-fibre) reflex appears in neurogenic bladder and BOO → shared plasticity; BP–LUTS
+   association in BPH links sympathetic tone to symptoms.
+
+
+
+
+                                                           page 25 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                                         CLINICAL RELEVANCE
+
+Mechanisms of Idiopathic Detrusor Overactivity and Overactive Bladder
+ • Classic model = urodynamic DO, yet DO found in only 11% of an OAB cohort.
+ • Non-injury DO models: spontaneously hypertensive rat; serotonin reuptake transporter knockout; BK
+   channel knockout; urothelial NGF knock-in; urothelial β1-integrin knockout. Other knockouts (M1–M5,
+   P2X2, P2X3, TRPV1) study LUT function but not OAB. Theme: growth-factor-driven neural and muscle
+   plasticity.
+ • NGF as biomarker: ↑ by DSM after BOO and diuresis; urinary NGF studied for OAB (source uncertain —
+   unlikely stromal, as it must cross lamina propria and urothelium). Urothelial NGF overexpression →
+   frequency, pelvic pain, lamina propria neuronal hypertrophy. Paradox: no ↑ urothelial NGF in DO; less
+   in frequency → role unresolved.
+ • Cultured OAB urothelium: ↑ polyamine signalling → blocks urothelial BK channels; ↑ TRPV1 signalling.
+ • Urethral afferent function ↓ in OAB/UUI (current perception threshold testing) and unchanged after
+   successful SNM — counterintuitive.
+ • DSM: BK knockout → OAB phenotype; DO myocytes (IDO, NDO) show ↑ resting [Ca²⁺]i and spontaneous
+   rises via L- and T-type channels, greater in NDO.
+ • Suburothelial myofibroblasts in IDO/NDO: ↑ Cx43, not reversed by onabotulinumtoxinA (OBTX).
+   Cytokines (IL-4, IL-6, IL-10, TNF-α, TGF-β1) ↑ Cx43 in myofibroblasts and myocytes; NGF ↑ Cx43 coupling
+   in neuronal cells → ↑ connectivity in OAB and IC/PBS.
+
+Stress Urinary Incontinence
+ • Integral theory (Petros and Ulmsten, 1993) → mid-urethral sling (MUS), the surgical standard. But
+   DeLancey: intrinsic sphincter function matters more than anatomical support.
+ • Childbirth injury models (vaginal distension, pudendal injury): stem cell homing chemokines ↑ (CCL7,
+   CXCR4, CXCL12, CD195, CD193; monocyte chemotactic protein-3, MCP-3) → maximise post-partum
+   urethral healing to prevent SUI.
+ • Biomarker: higher urinary N-telopeptide (NTx; bone turnover) → higher MUS failure. MUS failure at 1
+   year about 23% (definition-dependent).
+ • Duloxetine (SNRI): ↑ Onuf's nucleus output → ↑ striated sphincter activity → ↓ SUI; beats placebo in
+   mild–moderate SUI; approved in Europe, not USA; small benefit in post-prostatectomy SUI.
+
+Spinal Cord Injury and Neurogenic Detrusor Overactivity
+ • Suprasacral cord damage → DO. Spinal shock (retention, a few weeks) → NDO via a new spinal
+   micturition reflex from synaptic reorganisation; previously unresponsive afferents become
+   mechanosensitive.
+
+AΔ VS C BLADDER AFFERENTS IN THE MICTURITION REFLEX (FIGS 103.24, 103.25)
+ Feature             Aδ fibres                                         C fibres
+ Myelination         Lightly myelinated                                Unmyelinated
+ Proportion          About 30% (some species)                          Majority
+ Normal              Low-threshold tension receptors; drive            Silent to gradual distension (cat; rat may fire at low
+ behaviour           normal reflex                                     pressure)
+ Reflex              Spinobulbospinal (via PMC)                        Spinal reflex after SCI, neurological disease,
+                                                                       ageing, ?inflammation
+ Capsaicin/RTX       Resistant                                         Sensitive — blocked
+
+ • Capsaicin-sensitive C fibres implicated in DO of SCI and MS; ↑ TRPV1 and P2X3 in suburothelial nerves
+   and TRPV1 in basal urothelium, reversed by intravesical capsaicin or RTX.
+
+
+                                                           page 26 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                           CLINICAL RELEVANCE
+ • DRG plasticity after SCI: cell enlargement, ↑ excitability; ↑ tetrodotoxin (TTX)-sensitive Na⁺ channels,
+   ↓ TTX-resistant Na⁺ channels and low-threshold A-type K⁺ channels.
+ • NGF drives it: chronic NGF → overactivity and ↑ afferent firing; bladder and spinal NGF ↑ after SCI;
+   intrathecal anti-NGF ↓ DO and DSD and blocks autonomic dysreflexia → NGF a target for DO and DSD.
+ • C-fibre spinal reflex = positive feedback, unresponsive to voluntary control. Ice-water test reliable in
+   research but not sensitive or specific clinically.
+ • NDO: ↓ BK channel expression and activity (BK drives phases 2–3 repolarisation) → ↑ contractions;
+   possibly adaptive (↑ contractility to aid emptying without normal innervation).
+
+ KEY POINTS: NEUROGENIC BLADDER
+   • Normal micturition: spinobulbospinal reflex via lightly myelinated Aδ afferents.
+   • C fibres are normally insensitive to gradual distension.
+   • After SCI a capsaicin-sensitive C-fibre spinal reflex develops and may cause DO.
+   • Intravesical capsaicin or RTX improves a subpopulation of NDO patients and ↓ TRPV1 in nerves and
+     urothelium.
+   • Ice-water test = research tool, not clinical practice.
+
+
+Nocturia
+ • Especially isolated nocturia has distinct causes: global polyuria, nocturnal polyuria, reduced capacity,
+   sleep disorders, heart failure, circadian clock disorders.
+ • Mouse bladder Cx43 is circadian: inactive (light) phase ↓ Cx43 → ↑ capacity; active (dark) phase ↑
+   Cx43 → ↓ capacity. Cry clock-gene knockout abolishes both oscillations → clock failure may cause
+   nocturia and nocturnal enuresis.
+
+Bladder Outlet Obstruction
+ • Symptoms of urethral obstruction are mostly bladder-generated: detrusor hypertrophy and DO.
+ • Rat partial obstruction: bladder about 15× heavier, same shape; surface sixfold, muscle threefold
+   thicker; no mitoses — massive cell hypertrophy.
+ • Muscle mechanisms: denervation supersensitivity to cholinergic agonists; contractile protein change —
+   SM-A expression induced, ↑ force but ↓ cross-bridge cycling rate, altered SM1 : SM2.
+ • Myogenic theory (Brading and Turner): all DO shares a DSM change predisposing to unstable
+   contraction; pig obstruction DO occurs without a micturition reflex. IDO detrusor shows ↑ electrical
+   coupling, patchy denervation, K⁺ supersensitivity.
+ • Partial denervation (↓ ACh release and nerve fibres 3–6 months after ligation) → muscarinic
+   supersensitivity, ↑ purinergic (P2X1) responses, ↑ Cx43 (also in NDO and urgency) → coordinated
+   whole-bladder myogenic contraction. Interstitial cells ↑ in BOO; c-KIT inhibitors ↓ spontaneous
+   contractions.
+ • Neural plasticity: enhanced spinal reflex (rat); ice-water reflex in obstructed humans; spinal GAP43 ↑
+   (axonal sprouting) in sacral parasympathetic nucleus; afferent and efferent neuron hypertrophy. New
+   circuits may not reverse after relief (persistent frequency). Muscle and neural changes co-exist.
+ • NGF: ↑ in obstructed bladders (animals, humans), precedes neuronal enlargement and frequency; NGF
+   autoantibodies prevent plasticity and frequency; stays ↑ with persistent frequency after relief → cause
+   and effect. fMRI: supraspinal changes in men failing symptom relief after BOO reduction.
+ • Urinary NGF: controls 0.5 pg/mL, BOO without OAB 1, BOO + OAB 41, BOO + DO 50. NGF ↑ after MUS —
+   consistent with MUS ↑ Pdet at Qmax (a urodynamic obstruction).
+
+
+                                                           page 27 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                                          CLINICAL RELEVANCE
+
+ KEY POINTS: BLADDER OUTLET OBSTRUCTION
+   • Obstruction-induced DO attributed to denervation supersensitivity; also contractile protein changes.
+   • ↑ Receptor-mediated contractility and cell–cell interaction.
+   • BOO enhances a spinal reflex (rat).
+   • Bladder tissue and urinary NGF ↑ in obstruction.
+
+Concept — Obstruction remodels both ends of the reflex: NGF from the strained detrusor enlarges afferents
+and builds new spinal circuits while the partly denervated, better-coupled muscle becomes supersensitive —
+which is why frequency can persist after the obstruction is relieved.
+
+Underactive Bladder
+ • UAB = LUTS suggesting ↓ contractility (weak stream, hesitancy, interruption, straining), often with
+   frequency, urgency, nocturia; may be secondary to BOO (prior sling, BPH) → non-specific, not a
+   diagnosis of cause.
+ • Detrusor underactivity = urodynamic ↓ contractility; poorly correlated with LUTS; afferent loss may
+   cause it (↓ sensory input → ↓ contraction), not just efferent failure.
+ • Post-void residual (PVR): expert panel — ≥300 mL before further evaluation; also evaluate if LUTS
+   moderately–severely impair quality of life or risk factors (hydronephrosis, renal insufficiency, culture-
+   proven UTI). PVR <300 mL does not prove normal contractility.
+
+Bladder Pain Syndrome and Interstitial Cystitis
+ • Pain attributed to the bladder + frequency and urgency; no defined cause.
+
+BPS/IC DIAGNOSIS — EUROPE VS UNITED STATES
+ Feature     Europe                                                        United States
+ Basis       Biopsy showing overt inflammation                             Symptoms (chronic pain, frequency, urgency; no
+                                                                           UTI)
+ Histology Oedema, vasodilation, nerve proliferation, mast                 Biopsy rare; rarely deep
+           cells
+ Test        Biopsy                                                        Hydrodistension — glomerulations
+
+ • Glomerulations (petechiae) after hydrodistension: first described by Messing and Stamey (1978);
+   specificity questioned.
+ • Inflammatory? — debated. Cyclophosphamide haemorrhagic cystitis is used as a model but is unrelated
+   to BPS/IC; relevance needs clinical validation.
+ • Chemical cystitis → sensitised mechanosensitive afferents and recruited silent C fibres; PGE2, 5-HT,
+   histamine, bradykinin, adenosine, NGF → hyperexcitable C fibres. Chronic irritation ↑ afferent NOS,
+   GAP43, PACAP, SP, protease-activated receptors; peptidergic sprouting in mucosa and detrusor, close to
+   efferent varicosities.
+ • Spinal changes: ↑ c-FOS; ↑ GFRα1 (smaller GFRα3, none GFRα2); phospho-ERK (extracellular signal-
+   regulated kinase) ↑ by noxious stimuli normally and by innocuous stimuli after inflammation; intrathecal
+   ERK inhibition (PD98059) ↓ reflex activity and c-FOS only in inflamed bladders → spinal ERK mediates
+   inflammatory pain and overactivity.
+ • Afferent neurons in cystitis (L6–S1 DRG): normally capsaicin-sensitive, high-threshold TTX-resistant
+   spikes; cystitis → lower threshold, tonic (not phasic) firing, larger soma, ↑ capacitance, ↓ A-type K⁺
+   (KA) current via ↓ Kv1.4 α-subunit; feline IC: larger, hyperexcitable neurons (↓ low-threshold K⁺
+   currents); Aδ afferents also more pressure-sensitive.
+
+                                                           page 28 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                            CLINICAL RELEVANCE
+ • TRPV1 in IC: feline IC DRG → larger, slower-desensitising capsaicin responses, reversed by PKC
+   inhibition; TRPV1 knockouts lack cyclophosphamide/acrolein overactivity and referred mechanical
+   hyperalgesia; oral TRPV1 antagonist GRC-6211 ↓ overactivity. Capsaicin/RTX helped IC pain, but the
+   randomised RTX trial was negative.
+ • Cross-sensitisation: rectal irritant → bladder afferent sensitivity, C-fibre involvement, mast cell
+   activation (BPS/IC + IBS).
+ • NGF: expressed by urothelium, muscle and mast cells (triggers degranulation, proliferation);
+   cyclophosphamide ↑ NGF, brain-derived neurotrophic factor (BDNF), ciliary neurotrophic factor (CNTF),
+   TrkA/TrkB phosphorylation, phospho-CREB (cAMP-responsive element-binding protein) — reduced by
+   RTX. Urinary NGF, neurotrophin-3, glial cell line-derived neurotrophic factor (GDNF) detected in BPS/IC;
+   ↑ NGF in IC biopsies. Exogenous NGF → nociception and overactivity; NGF sequestration (TrkA-IgG,
+   REN1820) ↓ hyperalgesia and cystitis overactivity; urothelial NGF mice: frequency, pain,
+   hyperinnervation, ↑ mast cells. But tanezumab (anti-NGF antibody) failed in BPS/IC — perhaps
+   phenotyping (enrol only high-NGF patients).
+ • Purinergic: ↑ urothelial ATP release (patients, cats); P2X antagonists (PPADS, A-317491) ↓ non-voiding
+   contractions and frequency in cystitis; ↑ afferent firing mimicked by purinergic agonists, blocked by P2X
+   antagonists; P2X3 (thoracolumbar) and P2X2/3 (lumbosacral) currents ↑. Human IC urothelium: stretch
+   → ↑ ATP and ↑ P2X3. P2X3 antagonist AF-219 improved pain, urgency and global symptoms in a proof-
+   of-concept trial.
+ • Water avoidance stress (WAS) (rat on a platform over water) → visceral (incl. bladder) hyperalgesia, ↑
+   mast cell activity (blocked by melatonin, montelukast) → brain mechanisms (fMRI).
+ • Antiproliferative factor (APF): urinary sialated glycopeptide (nonapeptide) homologous to frizzled 8
+   (Wnt pathway); receptor CKAP4/p63 (links ER to microtubules; receptor for tissue plasminogen activator
+   and surfactant protein A; substrate of tumour-suppressor palmitoyl acyltransferase DHHC2) →
+   antiproliferative on urothelium; intravesical APF reproduces human urothelial changes in mice.
+
+ KEY POINTS: BLADDER PAIN SYNDROME AND INTERSTITIAL CYSTITIS
+   • Histology (often): oedema, vasodilation, nerve proliferation, mast cell infiltration.
+   • NGF links inflammation to altered pain signalling; made by urothelium, muscle and mast cells;
+     activates mast cells.
+   • NGF sequestration ↓ cyclophosphamide cystitis overactivity.
+   • Chronic inflammation alters C-fibre function and chemosensitive receptors (TRPV1).
+
+Concept — BPS/IC is modelled as afferent hyperexcitability: inflammation, stress or neighbouring-organ
+irritation raise NGF, ATP and TRPV1 activity and lower C-fibre thresholds — yet single-target trials (anti-NGF,
+RTX) have failed, pointing to heterogeneous patients rather than a wrong mechanism.
+
+Aging
+ • LUTS common in the elderly: frequency, urgency, UUI, poor emptying; described changes include ↓
+   capacity, ↑ sensation, DO.
+ • Community-dwelling women: detrusor contractility, bladder sensation and urethral pressure decline
+   with age; capacity does not fall with age but is smaller with DO → ageing = hypofunction of bladder and
+   urethra. Pelvic ischaemia (vasculopathy) → LUTS, DO.
+ • Ageing is the largest risk factor: cellular senescence, oxidative stress → ↓ perfusion, visceral
+   hyposensitivity, abnormal urodynamics. Targeting Aging with Metformin (TAME) trial targets ageing
+
+
+
+                                                           page 29 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                            CLINICAL RELEVANCE
+   pathways; metformin extends murine lifespan; caloric restriction prevents age-related bladder
+   dysfunction in vitro.
+ • Aged rats: ↑ voided volume and higher pressure threshold; ↓ afferent sensitivity to volume (not
+   pressure); ↓ maximal evoked pressure. Aged mice: normal contractility, ↓ afferent signalling.
+ • Human: linear ↓ acetylcholinesterase-positive nerves (↓ parasympathetic); rat: ↓ CGRP, SP in DRG; ↓
+   PACAP innervation → ↓ efferent and afferent activity.
+ • CNS: ↓ 5-HT and adrenergic spinal innervation (sacral parasympathetic 5-HT preserved); L1–L2
+   sympathetic preganglionic degeneration, not L6–S1 parasympathetic. Apomorphine (dopamine)
+   frequency greater in aged rats → aged CNS prone to overactivity despite ↓ baseline function. UAB =
+   unmet need in ageing populations.
+ • Detrusor: cholinergic/electrical responses unchanged (though ↓ muscarinic density); α-contraction ↑
+   (α1D ↑) in most studies (one found none); β-relaxation ↓ (↓ β density, ↓ cAMP) → noradrenaline
+   contracts the aged bladder but relaxes the young one.
+ • Antimuscarinics in the elderly: anticholinergic burden → cognitive decline; a large case-control study
+   linked greater urological anticholinergic exposure (oxybutynin, tolterodine) with dementia risk —
+   causality unclear (symptoms may be prodromal).
+
+ KEY POINTS: AGING
+   • Sensation and urethral pressure decline with age; reduced capacity reflects DO, not age → ageing =
+     hypofunction.
+   • Detrusor responses to cholinergic/electrical stimulation unchanged with age.
+   • α-contraction ↑ and β-relaxation ↓ in old rats.
+
+Concept — Ageing lowers sensation and drive but sensitises the circuits: nerves, afferents and β-relaxation
+decline while α-contraction and central excitability rise — reproducing DHIC (urgency with poor emptying)
+and explaining why anticholinergic burden is particularly hazardous in this group.
+
+Neuromodulation
+Hypothesis of Mechanism of Action of Sacral Neuromodulation
+ • Sacral, pudendal and posterior tibial neuromodulation treat refractory OAB and NOUR (pelvic floor
+   dysfunction) — the apparent paradox: one therapy both inhibits OAB and restores emptying.
+ • Target = afferent axons in the roots (benefit at intensities below striated muscle activation) → somatic
+   afferent inhibition of spinal sensory processing: retention resolves by inhibiting guarding reflexes; DO
+   suppressed by inhibiting preganglionic neurons and interneuronal transmission in the afferent limb.
+
+Rationale for Neuromodulation to Facilitate Voiding
+ • Brain pathways must switch off guarding reflexes to void; SCI → bladder–sphincter dyssynergia (Fig.
+   103.43); subtler lesions (after prostatitis or UTI) may cause idiopathic retention.
+ • Before brain control matures (animals), perineal pudendal afferents trigger efficient voiding (bladder
+   efferents on, outlet excitation off); perineal touch inhibits the sympathetic guarding component. SNM
+   may turn off outlet excitation, and ↓ sphincter afferent input disinhibits the bladder.
+
+Rationale for Neuromodulation to Inhibit the Overactive Bladder
+ • Inhibitory afferents from sphincters, distal colon, rectum, anal canal, vagina, cervix, perineal skin (Fig.
+   103.44: SNS inhibits bladder–bladder and bladder–urethra reflexes).
+
+
+
+
+                                                           page 30 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                                          CLINICAL RELEVANCE
+TWO AFFERENT INHIBITORY MECHANISMS
+ Feature        Interneuronal suppression                       Direct preganglionic inhibition
+ Frequency      Most common                                     Less common
+ Site           Ascending limb → blocks bladder-to-PMC Bladder preganglionic neurons
+                transfer
+ Effect         Stops involuntary reflex voiding; spares        Suppresses motor outflow directly — more effective
+                voluntary voiding
+ Triggered      Somatic/visceral afferents                      Pudendal electrical stimulation; anal canal/distal bowel —
+ by                                                             not penile/perineal touch
+
+Pudendal Nerve Stimulation
+ • Pudendal nerve carries afferents of all three roots S2–S4; more peripheral → avoids sciatic/sural
+   activation (thigh, calf, foot discomfort of S3 stimulation).
+ • Course: sacral plexus → on piriformis → greater sciatic foramen (below piriformis, with sciatic, inferior
+   gluteal bundle, nerve to quadratus femoris) → around ischial spine, superficial to sacrospinous ligament
+   → lesser sciatic notch → ischioanal fossa → inferior rectal, perineal, dorsal nerve of penis/clitoris.
+ • Afferent pudendal stimulation inhibits micturition reflex, abolishes uninhibited contractions, ↑
+   capacity. Randomised crossover (tined leads): pudendal 63% vs sacral 46% symptom improvement; UUI
+   reduction not significant (small numbers).
+
+Inhibitory and Excitatory Stimulation Frequencies of the Pudendal-Bladder Reflexes
+ • Mechanism and programming parameters unstudied clinically. SCI cats: 3 Hz pudendal stimulation
+   inhibits bladder; intermittent 20 Hz improves emptying. Continuous stimulation may fatigue the
+   sphincter and accommodate the nerve; continuous vs intermittent outcomes unexplored.
+
+Activation of Somatic Afferents in the Foot
+ • Transcutaneous footpad stimulation inhibits reflex bladder activity (cat) → FootStim: wearable home
+   device, 3 h daily, ↓ UUI and urgency/frequency in refractory OAB (women).
+
+OnabotulinumtoxinA Neuromodulation
+ • Blocks presynaptic ACh release (striated and smooth muscle). About 150 kDa single chain → cleaved to
+   heavy chain (about 100 kDa) + light chain (about 50 kDa, zinc-bound) linked by a disulfide bond.
+ • Four steps: heavy chain binds nerve-terminal receptor → internalisation → light chain translocates to
+   cytosol → blocks transmitter release. OBTX cleaves SNAP-25 (a SNARE, soluble N-ethylmaleimide-
+   sensitive factor attachment protein receptor) → no vesicle fusion.
+ • Also afferent: ↓ urgency in NDO/IDO with ↓ TRPV1 and P2X3 in C fibres; ↓ SP, CGRP from sensory
+   terminals; ↓ urothelial ATP; lipotoxin (liposomal OBTX) shows the urothelium is a target. Uses extended
+   to pelvic floor spasticity, non-neurogenic OAB, BPS.
+
+LANDMARK COMPARATIVE TRIALS IN REFRACTORY IDIOPATHIC OAB WITH UUI
+ Trial                 Comparison                Population            Result                     Trade-off
+ ABC (Visco et al.,    Intradetrusor OBTX        Idiopathic OAB        Same reduction in daily Antimuscarinic: more dry
+ 2012)                 vs oral                   with UUI              UUI; OBTX more          mouth; OBTX: more
+                       antimuscarinic                                  complete resolution     catheterisation and UTI
+
+
+
+
+                                                           page 31 of 32
+Chapter 103 — Physiology and Pharmacology of the Bladder and Urethra                                      CLINICAL RELEVANCE
+
+ Trial                 Comparison                Population            Result                 Trade-off
+ ROSETTA           OBTX 200 U vs SNM,            Women,                Comparable efficacy;   OBTX: more UTI (note 200
+ (Amundsen et al., 24 months                     refractory non-       OBTX more often        U dose)
+ 2016, 2018)                                     neurogenic OAB        completely dry
+
+Concept — Neuromodulation works through afferents, not muscles: stimulating somatic afferents inhibits
+spinal reflex processing, which suppresses the overactive bladder and releases the guarding reflex in retention
+— resolving the apparent paradox — while OBTX likewise acts on both efferent and afferent (and urothelial)
+signalling.
+
+FUTURE RESEARCH
+ • Established newer therapies: OBTX, β3 agonists, SNM, PTNS. Next: "omics" (genomics, proteomics,
+   transcriptomics, lipidomics, metabolomics) for deeper, biology-based phenotyping beyond symptoms.
+ • Pharmacogenomics → individualised therapy; regenerative medicine and stem cells (e.g. mesenchymal)
+   for storage, emptying and urethral closure; neuromodulation of roots, tibial, foot and saphenous nerves,
+   and brain stimulation (TMS) (already used in depression, schizophrenia, addiction, tremor).
+ • Urinary microbiota characterised in normals, OAB/UUI and IC/PBS; understanding needs host responses
+   (urothelium, lamina propria, afferent/efferent pathways).
+ • Questions: prevention of LUTD; genotype-stratified ("personalised") pharmacotherapy; biomarkers for
+   phenotyping, prognosis and new targets; susceptibility genes; afferent modulation; urothelium as target;
+   a treatment for underactive detrusor that makes self-catheterisation obsolete; clinical value of
+   regenerative medicine; host response to microbiota.
+
+
+
+
+                                                           page 32 of 32
+
