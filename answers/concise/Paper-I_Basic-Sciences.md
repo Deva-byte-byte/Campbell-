@@ -23,68 +23,56 @@
 - **Autoregulation** keeps RBF and GFR (glomerular filtration rate) constant over mean arterial pressure **80–180 mmHg**:
   - Myogenic – afferent stretch → contraction.
   - **Tubuloglomerular feedback (TGF)** – ↑NaCl at macula densa → adenosine → afferent constriction (↓renin).
-- Constrictors: sympathetic, angiotensin II (Ang II; efferent > afferent), endothelin, thromboxane. Dilators: prostaglandins (PGs), nitric oxide (NO), atrial natriuretic peptide (ANP). Non-steroidal anti-inflammatory drugs (NSAIDs) remove PG protection in low flow.
+- Angiotensin II (Ang II) constricts efferent > afferent; non-steroidal anti-inflammatory drugs (NSAIDs) remove prostaglandin protection in low flow.
 
 ### B. Glomerular filtration
 - GFR ~**125 mL/min (~180 L/day)**; filtration fraction (FF = GFR/RPF) ≈ **20%**.
 - **Starling:** GFR = Kf × [(P_GC – P_BS) – (π_GC – π_BS)]. Glomerular capillary hydrostatic pressure = main determinant; Bowman's space pressure ↑ in **obstruction**; Kf = surface area (mesangial contraction) + permeability.
-- Barrier: fenestrated endothelium → glomerular basement membrane (negative charge) → podocyte slit diaphragm (nephrin, podocin); restricts size (>~60–70 kDa) and charge (albumin excluded).
-- Measurement: inulin (gold standard), creatinine clearance, estimated GFR, DTPA (diethylenetriamine pentaacetic acid) renography – filtered; MAG3 (mercaptoacetyltriglycine) – secreted.
+- Barrier: fenestrated endothelium → basement membrane (negative charge) → podocyte slit diaphragm; restricts size (>~60–70 kDa) and charge (albumin excluded).
+- Measurement: inulin (gold standard), creatinine clearance, DTPA (diethylenetriamine pentaacetic acid) renography.
 
 ### C. Tubular handling
 | Segment | Key transporters | Handling | Clinical link |
 |---|---|---|---|
-| **Proximal convoluted tubule (PCT)** | Na⁺/H⁺ exchanger, SGLT2 (sodium–glucose cotransporter 2), Na⁺/K⁺-ATPase, aquaporin-1 (AQP1), carbonic anhydrase | ~**65%** Na⁺/water (iso-osmotic), ~100% glucose/amino acids, ~80–90% HCO₃⁻; secretes organic acids/bases (drugs, creatinine) | Acetazolamide, SGLT2 inhibitors; Fanconi; cystinuria |
+| **Proximal convoluted tubule (PCT)** | Na⁺/H⁺ exchanger, SGLT2 (sodium–glucose cotransporter 2), carbonic anhydrase | ~**65%** Na⁺/water (iso-osmotic), ~100% glucose, ~80–90% HCO₃⁻; secretes drugs, creatinine | Acetazolamide, SGLT2 inhibitors; Fanconi |
 | **Thick ascending limb (TAL)** | **NKCC2** (Na⁺-K⁺-2Cl⁻ cotransporter), ROMK (renal outer medullary K⁺ channel) | ~**25%** NaCl; **water-impermeable "diluting segment"**; builds medullary gradient | Loop diuretics; Bartter |
 | **Distal convoluted tubule (DCT)** | **NCC** (Na⁺-Cl⁻ cotransporter) | ~5–7% Na⁺; Ca²⁺ reabsorption (parathyroid hormone, PTH) | Thiazides ↓urinary Ca (hypercalciuric stones); Gitelman |
-| **Collecting duct (CD) – principal cells** | **ENaC** (epithelial Na⁺ channel), ROMK, **AQP2** | Na⁺ reabsorption/K⁺ secretion (aldosterone); water (antidiuretic hormone, ADH) | Amiloride, spironolactone; Liddle |
+| **Collecting duct (CD) – principal cells** | **ENaC** (epithelial Na⁺ channel), **aquaporin-2 (AQP2)** | Na⁺ reabsorption/K⁺ secretion (aldosterone); water (antidiuretic hormone, ADH) | Amiloride, spironolactone; Liddle |
 | Intercalated cells | A: H⁺-ATPase; B: pendrin | Acid–base | Distal renal tubular acidosis (RTA) → calcium phosphate stones, nephrocalcinosis |
 
 ### D. Concentration and dilution
 - **Countercurrent multiplication:** TAL pumps NaCl without water → single effect (~200 mOsm) multiplied → papillary interstitium ~**1200 mOsm/kg**.
 - **Urea recycling** (ADH-stimulated urea transporters, inner medullary CD) → ~half of inner-medullary osmolality.
-- **Countercurrent exchange:** vasa recta hairpin, slow flow preserve gradient (washout in osmotic diuresis).
+- **Vasa recta** (countercurrent exchange) preserve gradient.
 - **ADH:** ↑osmolality (~1–2% change) or ↓volume → **V2 receptor** → Gs → cAMP (cyclic adenosine monophosphate) → protein kinase A → **AQP2 insertion** into apical membrane → water reabsorption.
-  - V2 on endothelium → von Willebrand factor/factor VIII → basis of **desmopressin** (nocturia, enuresis, bleeding).
+  - Endothelial V2 → von Willebrand factor/factor VIII → **desmopressin** (nocturia, enuresis, bleeding).
   - Urine osmolality ~**50–1200 mOsm/kg**.
   - Nephrogenic diabetes insipidus (DI): lithium, hypercalcaemia, hypokalaemia, **post-obstructive** (↓AQP2).
 
-### E. Hormonal control
-| Hormone | Effect |
-|---|---|
-| Ang II/aldosterone | Na⁺ retention, K⁺/H⁺ loss, maintains GFR |
-| ADH | Free-water reabsorption (CD) |
-| ANP/BNP (brain natriuretic peptide) | Natriuresis, ↑GFR, ↓renin/aldosterone |
-| PTH | Phosphaturia (PCT), Ca retention (DCT); 1α-hydroxylase |
-
-### F. Upper urinary tract transport
+### E. Upper urinary tract transport
 - **Pacemaker:** proximal pelvis/pelvicalyceal border; **atypical smooth muscle cells (SMCs)** = primary pacemakers; **interstitial cells of Cajal (ICC)-like cells** (c-Kit⁺) = secondary pacemakers/conductors (↓ in ureteropelvic junction (UPJ) obstruction). Activity **myogenic** – persists after denervation/transplant; nerves only modulate.
-- **Electromechanical coupling:** L-type Ca²⁺ upstroke → plateau → K⁺ repolarisation; gap junctions (syncytium) ~2–6 cm/s; Ca²⁺–calmodulin → myosin light-chain kinase → contraction; relaxation via cAMP/cGMP (cyclic guanosine monophosphate) (β-agonists, phosphodiesterase (PDE) inhibitors, NO).
-- **Bolus propagation:** pelvis fills → through UPJ → ureter contracts behind bolus, walls **coapt**. Peristalsis **2–6/min**; resting pressure ~0–5 cmH₂O; contraction ~20–80 cmH₂O. Low flow → "pyeloureteric block".
+- **Coupling:** L-type Ca²⁺ action potential; gap junctions (syncytium) ~2–6 cm/s; Ca²⁺–calmodulin → myosin light-chain kinase → contraction.
+- **Bolus:** ureter contracts behind bolus, walls **coapt**. Peristalsis **2–6/min**; resting pressure ~0–5 cmH₂O; contraction ~20–80 cmH₂O. Low flow → "pyeloureteric block".
 - **Flow:** ↑flow → ↑frequency, then ↑bolus volume → very high flow: boluses **coalesce** → fluid column → **dilatation without obstruction** (diuresis; diuretic renogram).
 - **Ureterovesical junction (UVJ):** oblique tunnel, **length:diameter ≈ 5:1** (Paquin) prevents reflux; sustained bladder pressure >~40 cmH₂O (neurogenic bladder) → efflux fails → secondary hydronephrosis.
 
 | Factor | Effect |
 |---|---|
-| Obstruction | Acute ↑pressure/amplitude; chronic dilatation, ↓coaptation, decompensation |
 | Infection | Gram-negative endotoxin inhibits peristalsis → dilatation |
 | Pregnancy | Dilatation R > L; mechanical ± progesterone |
-| Drugs | Relax: **α1-blockers** (tamsulosin – medical expulsive therapy), Ca-channel blockers, β-agonists, PDE5 inhibitors; NSAIDs ↓pelvic pressure (renal colic) |
+| Drugs | Relax: **α1-blockers** (tamsulosin – medical expulsive therapy), Ca-channel blockers, β-agonists; NSAIDs ↓pelvic pressure (renal colic) |
 
-### G. Bladder storage
-- High compliance + sympathetic β3 detrusor relaxation/α1 bladder-neck contraction + pudendal external sphincter; capacity ~400–500 mL at <~15 cmH₂O.
-
-### H. Obstruction
+### F. Obstruction
 **Unilateral ureteral obstruction (UUO) – triphasic:**
 ```
-Phase 1 (0–1.5 h):  RBF ↑, pressure ↑  (afferent dilatation: PGs, NO)
+Phase 1 (0–1.5 h):  RBF ↑, pressure ↑  (afferent dilatation: prostaglandin E2, nitric oxide)
 Phase 2 (1.5–5 h):  RBF ↓, pressure ↑  (efferent constriction)
 Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, thromboxane, endothelin)
 ```
 - GFR ↓ (↓RBF + ↑tubular pressure); contralateral kidney compensates.
-- **Bilateral/solitary:** pressure stays high longer; natriuretic substances (ANP, urea) accumulate → **post-obstructive diuresis**.
+- **Bilateral/solitary:** pressure stays high longer; natriuretic substances (atrial natriuretic peptide, urea) accumulate → **post-obstructive diuresis**.
 - Tubular: ↓concentration (↓AQP2), ↓Na reabsorption, distal RTA, ↓K⁺ secretion.
-- Chronic: Ang II + transforming growth factor-β1 → fibrosis, atrophy; recovery depends on duration, degree, infection.
+- Chronic: Ang II + transforming growth factor-β1 → fibrosis; recovery depends on duration, degree, infection.
 - **Pyelorenal backflow** = pop-off; forniceal rupture → urinoma.
 
 **Diagram to draw:** Nephron with segmental transporters/% Na⁺ + ADH–AQP2 inset; UUO triphasic RBF/pressure graph.
@@ -92,7 +80,6 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, throm
 ### Recent advances
 - SGLT2 inhibitors restore TGF (afferent constriction) → nephroprotection.
 - Tolvaptan (V2 antagonist) – aquaresis in autosomal dominant polycystic kidney disease.
-- Obstructive injury biomarkers: urinary NGAL (neutrophil gelatinase-associated lipocalin), KIM-1 (kidney injury molecule-1).
 
 > **Key points to remember:**
 > - RBF 20–25% CO; GFR 125 mL/min; FF 20%; autoregulation 80–180 mmHg (myogenic + TGF).
@@ -109,8 +96,7 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, throm
 - Support = **levator ani + endopelvic fascia/ligaments + bony pelvis**. Failure → **pelvic organ prolapse (POP)** (anterior/apical/posterior descent) and **stress urinary incontinence (SUI)** (effort leakage when urethral support/closure fails).
 
 ### A. Bony pelvis
-- Standing: pubic rami and ischial spines ~same horizontal plane → organs rest on **levator plate**, not hiatus.
-- Surgical landmarks: **ischial spine**, **sacrospinous ligament**, **Cooper's ligament**, sacral promontory/anterior longitudinal ligament, obturator foramen.
+- Standing: organs rest on **levator plate**, not hiatus. Landmarks: **ischial spine**, **sacrospinous** and **Cooper's ligaments**, sacral promontory.
 
 ### B. Pelvic floor (pelvic diaphragm)
 | Muscle | Attachment | Function |
@@ -118,8 +104,6 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, throm
 | Pubococcygeus/pubovisceral | Pubis → vagina, perineal body, anus | Closes hiatus, lifts urethra/vagina |
 | Puborectalis | Sling behind anorectal junction | Anorectal angle; closes hiatus |
 | Iliococcygeus | Arcus tendineus levator ani (ATLA) → coccyx | Horizontal **levator plate** |
-| Coccygeus | Ischial spine → sacrum/coccyx | Posterior support |
-- Basal tone (type I fibres) keeps hiatus closed; reflex contraction on cough.
 - **Levator avulsion** (vaginal delivery; 3D/4D translabial ultrasound or MRI (magnetic resonance imaging)) and ↑hiatal area → POP and recurrence.
 
 ### C. Endopelvic fascia and ligaments
@@ -127,7 +111,6 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, throm
 - **Pubocervical fascia** – anterior wall, attached laterally to **arcus tendineus fasciae pelvis (ATFP, white line)** (pubis → ischial spine).
 - **Rectovaginal fascia (Denonvilliers)** – posterior; perineal body to uterosacral complex.
 - **Pubourethral ligaments** – mid-urethra to pubis.
-- Vaginal "fascia" = fibromuscular layer of vaginal wall, not a separate fascia.
 
 ### D. DeLancey's levels of support (1992)
 | Level | Region | Structures | Defect → |
@@ -137,9 +120,9 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, throm
 | **III – fusion** | Distal 2–3 cm | Perineal membrane, perineal body, levator | Urethral hypermobility, perineal descent, low rectocele |
 
 ### E. Continence mechanisms
-- **Hammock hypothesis (DeLancey 1994):** urethra rests on anterior vaginal wall + endopelvic fascia (attached to ATFP/levator); ↑abdominal pressure compresses urethra against hammock. Loss → SUI. Replaced Enhörning's pressure-transmission theory.
+- **Hammock hypothesis (DeLancey 1994):** urethra rests on anterior vaginal wall + endopelvic fascia ; ↑abdominal pressure compresses urethra against it. Loss → SUI. Replaced Enhörning's pressure-transmission theory.
 - **Integral theory (Petros & Ulmsten 1990):** stress and urge both from laxity of vagina/ligaments; **mid-urethral pubourethral ligament** key → basis of **tension-free vaginal tape (TVT, 1996)**.
-- **Intrinsic closure:** mucosal coaptation (oestrogen-dependent submucosal plexus), smooth muscle, rhabdosphincter (sphincter urethrae + compressor urethrae/urethrovaginal sphincter).
+- **Intrinsic closure:** mucosal coaptation (oestrogen-dependent), smooth muscle, rhabdosphincter.
 - **Intrinsic sphincter deficiency (ISD):** Valsalva leak point pressure <60 cmH₂O / maximal urethral closure pressure <20 cmH₂O → poorer colposuspension results; prefer sling/bulking.
 - SUI = **hypermobility ± ISD** – a continuum.
 
@@ -153,14 +136,13 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, throm
 - **Apex underpins anterior** – anterior repair fails if apex ignored.
 
 ### G. Innervation
-- **Pudendal (S2–4)** – sphincters/perineum; Alcock's canal; delivery stretch injury.
-- **Levator ani nerve (S3–5)** – on pelvic surface, separate from pudendal.
+- **Pudendal (S2–4)** – sphincters; delivery stretch injury. **Levator ani nerve (S3–5)** – pelvic surface, separate.
 - Autonomic: pelvic splanchnic (S2–4), hypogastric (T10–L2) – injured in radical surgery.
 
 ### H. Risk factors (Bump & Norton)
 - **Predisposing:** genetics, race, connective tissue disorders (Ehlers–Danlos, Marfan).
 - **Inciting:** **vaginal childbirth** (strongest; forceps, macrosomia, levator avulsion), hysterectomy.
-- **Promoting:** obesity, chronic cough, constipation, lifting, smoking.
+- **Promoting:** obesity, chronic cough, constipation.
 - **Decompensating:** ageing, **menopause**, neuropathy.
 
 ### I. POP-Q (Pelvic Organ Prolapse Quantification; International Continence Society, Bump 1996)
@@ -175,8 +157,7 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, throm
 | IV | Complete eversion (≥ tvl – 2) |
 
 ### Clinical assessment
-- Supine/standing Valsalva; Sims speculum per compartment; **cough stress test** (also after reducing prolapse – occult SUI); **Q-tip** >30° = hypermobility; lateral sulci; levator strength/avulsion.
-- Urodynamics if ISD/mixed symptoms suspected; dynamic MRI in complex/recurrent cases.
+- Valsalva standing; Sims speculum; **cough stress test** (after reducing prolapse – occult SUI); **Q-tip** >30° = hypermobility; urodynamics if ISD suspected.
 
 ### J. Anatomy guides surgery
 | Defect | Operation | Principle |
@@ -189,17 +170,15 @@ Phase 3 (>5 h):     RBF ↓, pressure ↓  (afferent constriction: Ang II, throm
 | Apical | **Sacrocolpopexy** (gold-standard durability) | Mesh → anterior longitudinal ligament over S1 (beware middle sacral vessels, left common iliac vein) |
 | Apical, vaginal | **Sacrospinous fixation** (~1.5–2 cm medial to ischial spine – avoid pudendal vessels/nerve); uterosacral suspension (ureteric risk – cystoscopy) | Level I |
 | Rectocele | Posterior colporrhaphy, perineorrhaphy | Level II/III |
-| Elderly, not sexually active | Colpocleisis | Obliteration |
 
 ### K. Mesh
 - **US Food and Drug Administration (FDA), April 2019:** stop sale of **transvaginal mesh for anterior POP**; **not** MUS or sacrocolpopexy mesh.
-- UK 2018 pause on vaginal mesh incl. MUS. Complications: exposure, pain, dyspareunia.
+- Complications: exposure, pain, dyspareunia.
 
-**Diagram to draw:** DeLancey levels I–III with ATFP/uterosacral; hammock cross-section with pressure arrow.
+**Diagram to draw:** DeLancey levels I–III; hammock cross-section.
 
 ### Recent advances
 - 3D/4D translabial ultrasound and dynamic MRI – levator avulsion predicts recurrence.
-- Robotic sacrocolpopexy and uterine-sparing hysteropexy.
 - Single-incision mini-slings comparable short-term to MUS (SIMS RCT (randomised controlled trial), 2022).
 
 > **Key points to remember:**
@@ -388,7 +367,6 @@ Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
 
 | System | Change |
 |---|---|
-| Cardiovascular | Hypotension, arrhythmia |
 | Posterior pituitary | **Diabetes insipidus (DI)** – ↓ADH (antidiuretic hormone), hypernatraemia |
 | Anterior pituitary | ↓T3 (triiodothyronine), adrenal insufficiency |
 | Temperature | **Hypothermia** |
@@ -504,7 +482,7 @@ Brain injury → oedema → ↑ICP → ↓CPP → herniation ("coning")
 
 ### Prophylaxis
 - Recurrent: vaginal oestrogen, OM-89, **methenamine hippurate** (ALTAR, 2022 – non-inferior to antibiotics), continuous low-dose or post-coital.
-- Peri-operative: single dose/≤24 h; transperineal biopsy.
+- Peri-operative: single dose/≤24 h.
 
 **Diagram to draw:** Pharmacokinetic/pharmacodynamic curve (Cmax, AUC, T>MIC).
 
