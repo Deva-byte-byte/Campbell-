@@ -15,86 +15,76 @@
 ## IV-1. Role of robotics in urology
 **Type:** LAQ (25 marks)
 
-### Introduction / Definition
-- Current surgical robots are **master–slave telemanipulators**: the surgeon controls every movement, so the robot is not autonomous.
-- The robot did not change the operations. It removed the barrier of laparoscopic suturing, which is why RARP (robot-assisted radical prostatectomy) spread where pure laparoscopic prostatectomy had stalled. RARP is now the dominant approach in the USA.
+### Introduction
+- Surgical robots are **master–slave telemanipulators**: the surgeon controls every movement.
+- The robot did not change the operations. It removed the barrier of laparoscopic suturing, so RARP (robot-assisted radical prostatectomy) spread where laparoscopic prostatectomy had stalled. RARP now dominates in the USA.
 
-### History (milestones)
-| Year | Milestone |
-|---|---|
-| 1985 | **PUMA 560**: first surgical robot (brain biopsy); **PROBOT** (late 1980s) was the first urological robot |
-| 1997 | First human trial of the robot later developed into da Vinci ("Mona") |
-| 2000 | **da Vinci** FDA (Food and Drug Administration) approval; first robotic radical prostatectomy (**Binder and Kramer**) |
-| 2002 | First paediatric robotic procedure |
-| 2019 | Key da Vinci patents expired, so new platforms appeared |
+### History
+- **PUMA 560 (1985)** first surgical robot; **PROBOT** first urological robot; "Mona" first human trial (1997).
+- **da Vinci** FDA (Food and Drug Administration) approval and first RARP (**Binder and Kramer**) in **2000**; robotic adrenalectomy 1999; paediatric robotics 2002; robotic RPLND (retroperitoneal lymph node dissection) 2006.
 
 ### da Vinci system
-1. **Surgeon console**: 3D (three-dimensional) view magnified about 10 times, master controllers, motion scaling and tremor filtration.
-2. **Patient-side cart**: arms carrying the camera and **EndoWrist** instruments with **7 DOF (degrees of freedom)** and 90° articulation; most 8-mm instruments have a 10-use limit.
-3. **Vision cart**: light source, camera electronics, energy generator and monitor.
+1. **Surgeon console**: 3D (three-dimensional) view magnified about 10 times, motion scaling, tremor filtration.
+2. **Patient-side cart**: **EndoWrist** instruments with **7 DOF (degrees of freedom)**; most have a 10-use limit.
+3. **Vision cart**: light source, camera electronics, energy generator.
 
 | Generation | Added feature |
 |---|---|
 | Standard (2000) | Three arms |
-| S (2006) | High definition, fourth arm |
-| Si (2009) | Dual console (training) |
-| Xi (2014) | 8-mm camera in any port, side docking, multiquadrant surgery |
-| SP (2018) | Single port: all instruments through one 2.5-cm cannula |
+| S (2006) / Si (2009) | High definition, fourth arm / dual console for training |
+| Xi (2014) | 8-mm camera in any port, side docking, no stirrups |
+| SP (2018) | All instruments through one 2.5-cm cannula |
 | da Vinci 5 (2024) | Force feedback |
 
-- **Other platforms**: Hugo RAS, Versius, and the low-cost Indian **SSI Mantra**.
+- Patents expired in 2019, so **Hugo, Versius** and the low-cost Indian **SSI Mantra** appeared.
+- **Also know:** ports 8–10 cm apart to avoid arm collisions; Xi docks from any side; retroperitoneal cases dock over the head.
 
 ### Advantages and disadvantages
 | Advantages | Disadvantages |
 |---|---|
-| 3D magnified vision | High capital cost plus limited-use instruments |
-| Wristed instruments, easy intracorporeal suturing | Limited haptic feedback |
-| Tremor filtration, motion scaling, ergonomics | Docking time, bulk, surgeon remote from patient |
-| Less blood loss and shorter stay than open surgery | Learning curve; limited public-sector access |
+| 3D vision, wristed instruments, easy suturing | High capital and instrument cost; cost-effective only at high volume |
+| Tremor filtration, ergonomics | Limited haptic feedback |
+| Less blood loss, shorter stay than open | Docking, bulk, surgeon away from patient |
 
-### Applications in urology (with evidence)
-**1. Radical prostatectomy (index procedure)**
-- **Yaxley et al., Lancet 2016** (RCT (randomised controlled trial), open vs robotic): urinary and sexual function were **equal at 12 weeks**; robotic surgery had less blood loss and a shorter stay. **Coughlin 2018**: still equal at **24 months**.
-- Meta-analyses show no difference in positive margins. The surgeon's skill and volume, not the platform, is the main variable.
-- Bladder neck stricture is under 2% after RARP versus up to 16% after open surgery, because of precise mucosa-to-mucosa anastomosis.
+### Applications (with evidence)
+**1. RARP**
+- **Yaxley, Lancet 2016** (RCT (randomised controlled trial)): continence and potency **equal to open at 12 weeks**, with less blood loss and shorter stay; **Coughlin 2018**: equal at **24 months**.
+- Positive margins equal; the surgeon, not the platform, is the main variable. Bladder neck stricture under 2% vs up to 16% open.
+- Retzius-sparing and "hood" techniques give earlier continence; ERAS (enhanced recovery after surgery) allows 23-hour or same-day discharge. Robotic surgery also widens candidacy (prior mesh, prior pelvic surgery) and allows salvage surgery.
 
-**2. RAPN (robot-assisted partial nephrectomy)**: compared with laparoscopy it gives **fewer conversions**, **shorter warm ischaemia**, smaller eGFR (estimated glomerular filtration rate) loss and shorter stay. **Trifecta** = negative margin, no major complication and warm ischaemia ≤25 minutes. Firefly ICG (indocyanine green) aids selective clamping.
+**2. RAPN (robot-assisted partial nephrectomy)**: versus laparoscopy, **fewer conversions**, **shorter warm ischaemia** and less eGFR (estimated glomerular filtration rate) loss. **Trifecta** = negative margin, no major complication, warm ischaemia ≤25 minutes. ICG (indocyanine green) guides selective clamping.
 
 **3. RARC (robot-assisted radical cystectomy)**
-- **RAZOR (Lancet 2018)**: **non-inferior** 2-year PFS (progression-free survival) (72.3% vs 71.6%), less blood loss and fewer transfusions.
-- **iROC**: RARC with **intracorporeal** diversion gave **more days alive and out of hospital at 90 days**, and fewer thromboembolic and wound complications.
+- **RAZOR (Lancet 2018)**: **non-inferior** 2-year PFS (progression-free survival) (72.3% vs 71.6%), with less blood loss and fewer transfusions.
+- **iROC**: **intracorporeal** diversion gave **more days alive and out of hospital at 90 days**. Continent diversion fell (11% in iROC).
 
-**4. Reconstruction**: pyeloplasty, ureteric reimplantation, and robotic BMG (buccal mucosa graft) ureteroplasty.
+**4. Others**: pyeloplasty and reimplantation (also in infants, whose working space is about 1 L vs 6 L in adults), BMG (buccal mucosa graft) ureteroplasty, RPLND, adrenalectomy, simple prostatectomy, sacrocolpopexy, **RAKT (robot-assisted kidney transplantation)**.
 
-**5. Others**: adrenalectomy, R-RPLND (robotic retroperitoneal lymph node dissection), simple prostatectomy, sacrocolpopexy, paediatric reconstruction and **RAKT (robot-assisted kidney transplantation)**.
+### Physiology
+- Steep Trendelenburg increases venous return and cardiac output, but CO₂ pneumoperitoneum causes hypercarbia and acidosis; work at 10–12 mm Hg. The only strict contraindication to minimally invasive surgery is inability to tolerate pneumoperitoneum.
 
-### Training and credentialing
-- Pathway: didactics, **VR (virtual reality) simulators**, dry and wet lab, then proctored console time.
-- **FRS (Fundamentals of Robotic Surgery)**: a multicentre RCT showed better speed and accuracy after training. Simulator scores correlate with live RARP performance.
-- Basic proficiency comes after about 40 robotic cases, but outcomes keep improving with volume.
+### Training
+- Box trainer, **VR (virtual reality)** simulator, animal and cadaver labs, then proctoring. **FRS (Fundamentals of Robotic Surgery)** improved skills in an RCT. Five-day mini-residencies also help. Proficiency comes after about 40 cases, but outcomes keep improving with volume.
 
 ### Complications specific to robotics
 | Problem | Details |
 |---|---|
-| **Steep Trendelenburg (about 22–25° or more)** | Facial and laryngeal oedema (delay extubation), raised IOP (intraocular pressure), corneal abrasion, rarely ischaemic optic neuropathy |
-| Positional nerve injury (up to ~6% in robotic series) | Brachial plexus (shoulder braces, arm abduction >90°): avoid braces; femoral nerve (hip flexion) |
-| **Compartment syndrome** | Long lithotomy; fasciotomy if pressure >30 mmHg with symptoms |
-| Electrosurgical bowel injury | Insulation failure and capacitive coupling; may present late |
+| **Steep Trendelenburg (~22–25°)** | Facial and laryngeal oedema, raised IOP (intraocular pressure), corneal abrasion |
+| Nerve injury (up to ~6%) | Brachial plexus (avoid shoulder braces); femoral nerve |
+| **Compartment syndrome** | Long lithotomy; fasciotomy if >30 mmHg with symptoms |
+| Bowel burns | Insulation failure, capacitive coupling; present late |
 | Robot malfunction | About 0.4%; rarely forces conversion |
-| Port-site hernia | Fewer with transverse incisions |
+| Port-site hernia | Transverse incisions cut it from 5.4% to 0.4% after RARP |
 
 ### Recent advances
-- **Single-port** extraperitoneal and transvesical surgery, with same-day discharge.
-- **AI (artificial intelligence)**: video-based skill assessment and outcome prediction.
-- **Telesurgery**: long-distance operations reported since 2023–25; latency is the main limit.
+- Single-port transvesical surgery; **AI (artificial intelligence)** skill assessment; **telesurgery** (latency limits it).
 
-**Diagram to draw:** da Vinci block diagram (console, vision cart, patient cart) and RARP port placement.
+**Diagram to draw:** console, vision cart and patient cart; RARP port placement.
 
 > **Key points to remember:**
-> - da Vinci approved 2000; Si 2009 (dual console), Xi 2014, SP 2018 (one 2.5-cm port); patents expired 2019.
-> - Yaxley 2016 and Coughlin 2018: equal function at 12 weeks and 24 months; surgeon matters more than platform.
-> - RAZOR: non-inferior 2-year PFS; iROC: intracorporeal RARC gives more days alive and out of hospital.
-> - Steep Trendelenburg causes facial and laryngeal oedema and raised IOP; avoid shoulder braces.
+> - da Vinci 2000; Xi 2014; SP 2018; patents expired 2019.
+> - Yaxley and Coughlin: equal function at 12 weeks and 24 months; RAZOR non-inferior; iROC more days out of hospital.
+> - Trendelenburg causes oedema and raised IOP; avoid shoulder braces.
 
 ---
 
@@ -102,101 +92,68 @@
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- The organ shortage has led to wider use of **marginal (extended criteria) donors**. Their kidneys carry a higher risk of DGF (delayed graft function), primary non-function and shorter graft survival, but transplantation still beats staying on dialysis.
+- Organ shortage drives use of **marginal donors**. Their kidneys carry more DGF (delayed graft function) and shorter graft survival, but transplantation still beats dialysis.
 
 ### Part A: Marginal kidney donor
 
-#### Definitions and categories
-**1. ECD (expanded criteria donor), UNOS (United Network for Organ Sharing) 2002**
-- Donor aged **≥60 years**, or **50–59 years** with **at least 2** of: **hypertension**, **terminal creatinine >1.5 mg/dL**, **death from CVA (cerebrovascular accident)**.
-- About 70% higher relative risk of graft loss than SCD (standard criteria donor) kidneys.
+#### Categories
+**1. ECD (expanded criteria donor), UNOS (United Network for Organ Sharing) 2002**: age **≥60**, or **50–59** with **≥2** of **hypertension**, **creatinine >1.5 mg/dL**, **death from CVA (cerebrovascular accident)**. About 70% higher risk of graft loss.
 
-**2. KDPI (Kidney Donor Profile Index)**
-- Percentile of the KDRI (Kidney Donor Risk Index), built from 10 donor factors. **KDPI >85%** replaced the ECD label in the US (December 2014).
-- US allocation pairs the best kidneys (low KDPI) with recipients of the longest expected survival (EPTS (Estimated Post-Transplant Survival)): **longevity matching**.
+**2. KDPI (Kidney Donor Profile Index)**: percentile of a 10-factor risk index. **KDPI >85%** replaced ECD in the US (December 2014). Low-KDPI kidneys go to recipients with the longest EPTS (Estimated Post-Transplant Survival): **longevity matching**.
 
-**3. DCD (donation after circulatory death): Maastricht classification**
+**3. DCD (donation after circulatory death): Maastricht**
 | Category | Description | Type |
 |---|---|---|
-| I | Dead on arrival | Uncontrolled |
-| II | Unsuccessful resuscitation | Uncontrolled |
-| III | Awaiting cardiac arrest after withdrawal of therapy | **Controlled (commonest)** |
-| IV | Cardiac arrest in a brain-dead donor | Controlled or uncontrolled |
+| I / II | Dead on arrival / failed resuscitation | Uncontrolled |
+| III | Arrest after withdrawal of therapy | **Controlled (commonest)** |
+| IV | Arrest in a brain-dead donor | Either |
 | V | Euthanasia | Controlled |
 
-- Warm ischaemia demands rapid aortic cannulation and cooling. DCD kidneys have **higher DGF (roughly 40–50%)** but **similar long-term graft survival**.
+- Warm ischaemia needs rapid cannulation and cooling, and DCD kidneys usually go on machine perfusion. DGF is **higher (roughly 40–50%)**, but long-term survival is similar to DBD (donation after brain death).
 
-**4. Other marginal donors**
-- **AKI (acute kidney injury)** donors: do not discard on terminal creatinine alone.
-- **HCV (hepatitis C virus)-viraemic donors to HCV-negative recipients**: DAAs (direct-acting antivirals) give near-universal cure.
-- **Small paediatric donors (<15 kg)**: en bloc transplant, with survival comparable to adult kidneys.
-- **Marginal living donors** (older, controlled hypertension): KDIGO (Kidney Disease: Improving Global Outcomes) 2017 advises a risk-based approach.
+**4. Others**: **AKI (acute kidney injury)** donors; **HCV (hepatitis C virus)-viraemic** donors into negative recipients with DAAs (direct-acting antivirals); **paediatric donors <15 kg** (en bloc); older or hypertensive living donors (KDIGO (Kidney Disease: Improving Global Outcomes) 2017 risk-based approach).
+- **Absolute exclusions**: metastatic or haematological cancer, melanoma, untreatable viral infection. Treated bacterial infection is acceptable; screen by serology and nucleic acid testing.
 
 #### Assessment and optimisation
-- **Remuzzi biopsy score**: glomeruli, tubules, interstitium and arteries each scored 0–3 (total 0–12).
+- **Remuzzi biopsy score** (glomeruli, tubules, interstitium, arteries, each 0–3): **0–3 single**, **4–6 dual kidney transplant**, **≥7 discard**.
+- **Cold storage** at 4 °C in UW (University of Wisconsin) or HTK (histidine–tryptophan–ketoglutarate) solution slows metabolism.
+- **HMP (hypothermic machine perfusion)** reduces DGF (**Moers, NEJM 2009**: about 21% vs 27%; greatest benefit in ECD kidneys); Campbell notes no long-term survival difference. Normothermic perfusion allows viability testing (limited experience).
+- **ESP (Eurotransplant Senior Program)**: donors **≥65** to recipients **≥65**, prioritising short cold ischaemia over HLA (human leucocyte antigen) matching. Informed consent is essential.
+- **Ojo (JASN 2001)**: ECD transplantation improves survival over dialysis, although graft survival is lower than with standard kidneys.
+- With DGF, give antibody induction and delay nephrotoxic CNI (calcineurin inhibitor) therapy.
 
-| Score | Action |
-|---|---|
-| 0–3 | Single transplant |
-| 4–6 | **Dual kidney transplant** (two kidneys give enough nephron mass) |
-| ≥7 | Discard |
+### Part B: Newer immunosuppressants
 
-- **HMP (hypothermic machine perfusion)** extends preservation and **reduces DGF**. **Moers et al., NEJM 2009** showed less DGF (about 21% vs 27%), most benefit in ECD kidneys. Campbell notes no difference in long-term graft survival.
-- **NMP (normothermic machine perfusion)** allows viability assessment; clinical experience is limited.
-- **Recipient matching**: the **ESP (Eurotransplant Senior Program)** gives kidneys from donors **≥65 years** to recipients **≥65 years**, prioritising short cold ischaemia over HLA (human leucocyte antigen) matching. An elderly recipient may gain more from a quicker older kidney than from waiting. **Informed consent** is essential.
+#### Current practice
+- Over 90% receive induction and **tacrolimus + mycophenolate** (mycophenolate: GI (gastrointestinal) upset, teratogenic). Acute rejection is below 10%; chronic **AMR (antibody-mediated rejection)** is now the main problem. Newer drugs aim to avoid CNI nephrotoxicity, improve adherence and treat AMR.
 
-#### Outcomes and care
-- **Ojo et al. (JASN 2001)**: ECD transplantation improves survival over dialysis, though graft survival is lower than with standard kidneys.
-- With DGF, use antibody induction and delay nephrotoxic CNI (calcineurin inhibitor) therapy.
-
-### Part B: Newer immunosuppressant drugs
-
-#### Current standard
-- Over 90% receive induction, and over 90% receive **tacrolimus + mycophenolate** (± steroids). Acute rejection has fallen below 10%.
-- The unsolved problem is chronic **AMR (antibody-mediated rejection)**. Newer agents aim to avoid CNI nephrotoxicity, improve adherence and treat AMR.
-
-#### Induction agents
 | Drug | Mechanism | Key points |
 |---|---|---|
-| **Basiliximab** | Anti-CD25 (IL-2 (interleukin-2) receptor α), non-depleting | **20 mg IV (intravenous) on day 0 and day 4**; low-risk patients |
-| **rATG (rabbit antithymocyte globulin)** | Polyclonal T-cell depletion | High risk or DGF; risks CMV (cytomegalovirus) and PTLD (post-transplant lymphoproliferative disorder) |
+| **Basiliximab** | Anti-CD25 (IL-2 (interleukin-2) receptor), non-depleting | **20 mg IV (intravenous) days 0 and 4**; low risk |
+| **rATG (rabbit antithymocyte globulin)** | T-cell depletion | High risk, DGF; CMV (cytomegalovirus), PTLD (post-transplant lymphoproliferative disorder) |
+| **Extended-release tacrolimus** | CNI | Once daily, better adherence; nephrotoxicity, NODAT (new-onset diabetes after transplant), tremor |
+| **mTOR (mammalian target of rapamycin) inhibitors** | Cell-cycle arrest | Not nephrotoxic; fewer CMV/BK infections; **TRANSFORM (2018)**: everolimus with low CNI non-inferior; poor wound healing, **lymphocele** |
+| **Belatacept** | **CTLA4-Ig**: blocks **CD28 costimulation (signal 2)** | FDA (Food and Drug Administration) 2011; **5 mg/kg 4-weekly**. **BENEFIT**: better GFR (glomerular filtration rate), more early rejection; **contraindicated if EBV (Epstein–Barr virus)-seronegative** |
+| **Imlifidase** | **Cleaves IgG** | **EMA (European Medicines Agency) 2020** for crossmatch-positive, highly sensitised patients |
+| Eculizumab | Anti-C5 | Selected AMR; aHUS (atypical haemolytic uraemic syndrome) recurrence |
+| **Anti-IL-6 therapy** | Blocks IL-6 | Chronic active AMR |
 
-#### Maintenance agents
-| Drug | Mechanism | Key points |
-|---|---|---|
-| **Extended-release tacrolimus** | Calcineurin inhibition | Once daily, better adherence |
-| **mTOR (mammalian target of rapamycin) inhibitors**: sirolimus, everolimus | Arrest the T-cell cycle | Not nephrotoxic; fewer CMV/BK infections. **TRANSFORM (JASN 2018)**: everolimus with reduced CNI was **non-inferior**. Cause **poor wound healing and lymphocele** |
-| **Belatacept** | **CTLA4-Ig (cytotoxic T-lymphocyte antigen 4–immunoglobulin)**; blocks **CD28 costimulation (signal 2)** | FDA (Food and Drug Administration) 2011; **5 mg/kg every 4 weeks** maintenance. **BENEFIT**: **better GFR (glomerular filtration rate)** than ciclosporin but **more early rejection**. **Contraindicated in EBV (Epstein–Barr virus)-seronegative recipients** (PTLD) |
+- **Voclosporin** is approved for lupus nephritis, **not transplantation**.
 
-#### Desensitisation and AMR
-| Drug | Mechanism | Use |
-|---|---|---|
-| IVIG (intravenous immunoglobulin), plasmapheresis, rituximab | Remove or modulate antibody | First-line AMR combinations |
-| Eculizumab | Anti-C5 complement | Selected AMR; prevents aHUS (atypical haemolytic uraemic syndrome) recurrence; meningococcal vaccination mandatory |
-| **Anti-IL-6 therapy** | Blocks IL-6 | Newer option for **chronic active AMR** |
-| **Imlifidase** | Enzyme that **cleaves IgG** within hours | **EMA (European Medicines Agency) conditional approval 2020** for highly sensitised, crossmatch-positive patients |
-
-- **Voclosporin** is approved for lupus nephritis, **not for transplantation**.
-
-#### Side-effect summary
-| Drug | Signature toxicity |
-|---|---|
-| Tacrolimus | Nephrotoxicity, NODAT (new-onset diabetes after transplant), tremor |
-| Mycophenolate | GI (gastrointestinal) upset, teratogenicity |
-| Belatacept | PTLD, early rejection |
+#### Rejection (context for drug choice)
+- Types: hyperacute (preformed antibody, prevented by crossmatch), acute, subclinical, chronic. **Banff** classifies TCMR (T-cell-mediated rejection) and AMR.
+- **TCMR**: pulse steroids, rATG for Banff II–III. **AMR**: steroids, IVIG (intravenous immunoglobulin), plasmapheresis, rituximab.
+- **Monitoring**: donor-specific antibody, biopsy, **dd-cfDNA (donor-derived cell-free DNA)** (negative predictive value >90%), gene-expression panels.
 
 ### Recent advances
-- **dd-cfDNA (donor-derived cell-free DNA)**: negative predictive value over 90% for rejection, avoiding unnecessary biopsy.
-- Normothermic perfusion with ex vivo repair.
-- **Pig-kidney xenotransplantation** into a living human (MGH (Massachusetts General Hospital), March 2024).
+- Normothermic repair; **pig-kidney xenotransplant** into a living human (March 2024).
 
-**Diagram to draw:** three-signal T-cell activation model, marking belatacept (signal 2) and basiliximab/mTOR inhibitors (signal 3).
+**Diagram to draw:** three-signal T-cell activation, marking belatacept (signal 2) and basiliximab/mTOR (signal 3).
 
 > **Key points to remember:**
-> - ECD (UNOS 2002): age ≥60, or 50–59 with ≥2 of hypertension, creatinine >1.5 mg/dL, CVA death; replaced by KDPI >85% (December 2014).
-> - Remuzzi 0–3 single, 4–6 dual, ≥7 discard; HMP reduces DGF (Moers 2009); ESP matches ≥65 donors to ≥65 recipients.
-> - Belatacept: better GFR, more early rejection, contraindicated if EBV-seronegative; TRANSFORM: everolimus with low CNI non-inferior.
-> - Imlifidase (EMA 2020) for highly sensitised patients; anti-IL-6 for chronic AMR; dd-cfDNA for monitoring.
+> - ECD: ≥60, or 50–59 with ≥2 of hypertension, creatinine >1.5, CVA death; KDPI >85% since 2014.
+> - Remuzzi 0–3 single, 4–6 dual, ≥7 discard; HMP reduces DGF; ESP ≥65 to ≥65.
+> - Belatacept: better GFR, contraindicated if EBV-negative; imlifidase for highly sensitised patients.
 
 ---
 
@@ -204,103 +161,88 @@
 **Type:** SAQ (10 marks)
 
 ### Definition and incidence
-- A UCF (urethrocutaneous fistula) is a urethral leak anywhere below the meatus. It is the **commonest complication of hypospadias repair**: just under 10% at short-term follow-up.
-- **TIP (tubularised incised plate) meta-analysis (Pfistermuller 2015)**: fistula 5.7%. After proximal repairs it is 3–45%.
+- A UCF (urethrocutaneous fistula) is a urethral leak below the meatus: the **commonest complication**, just under 10%. After TIP (tubularised incised plate): 5.7% (**Pfistermuller 2015**); after proximal repair 3–45%.
 
-### Aetiology (risk factors)
-- **Distal obstruction** (meatal stenosis, stricture) causes high pressure and turbulence behind the repair. It is the **most important correctable cause**.
-- Ischaemia, oedema, infection, haematoma and tension.
-- Technical: **overlapping suture lines**, poorly inverted epithelium, slowly absorbable sutures, **no barrier layer**.
-- Patient: proximal meatus, glans width <14 mm, previous surgery.
+### Aetiology
+- **Distal obstruction** (meatal stenosis, stricture) raises voiding pressure: the **key correctable cause**.
+- Ischaemia, oedema, infection, haematoma, tension.
+- Technical: overlapping suture lines, poorly inverted epithelium, slowly absorbed sutures, **no barrier layer**.
+- Patient: proximal meatus, glans <14 mm, redo surgery. A long rigid neourethra raises resistance (Poiseuille's law).
 
 ### Prevention
-- A **vascularised barrier layer** (dartos, or **tunica vaginalis** in proximal or redo cases), offset suture lines, tension-free repair.
+- **Vascularised barrier** (dartos; **tunica vaginalis** in proximal or redo), offset suture lines, stent in complex repairs.
 
 ### Evaluation
-- Presents as a split or double stream, mostly within 2 years.
-- Under anaesthesia: **calibrate** with a bougie à boule, **urethroscopy** if calibre is irregular, and a **"stress test"** (inject saline or methylene blue with proximal and distal compression) to reveal hidden tracts.
+- Split stream, usually within 2 years. Under anaesthesia: **calibration**, **urethroscopy**, and a **stress test** (saline or methylene blue) for hidden tracts.
 
 ### Management
-- Small early fistulae rarely close spontaneously, so **wait at least 6–12 months** for tissues to soften.
-- **Always correct distal obstruction at the same sitting.**
+- Rarely closes spontaneously. **Wait 6–12 months**; **correct distal obstruction at the same sitting**.
 
 | Fistula | Repair |
 |---|---|
-| Small, shaft | Excise tract, subepithelial closure, multiple offset layers with **dartos barrier** |
-| Large, or thin tissue | Trap-door or island flap of shaft skin plus vascularised second layer |
-| Coronal margin (glans dehiscence) | Revise urethroplasty and glans, not simple excision |
+| Small, shaft | Excise tract, layered closure, **dartos barrier** |
+| Large or thin tissue | Trap-door or island skin flap plus second layer |
+| Coronal (glans dehiscence) | Redo urethroplasty and glans |
+| With diverticulum | Excise or reuse redundant wall as flap |
 
-- Recurrence is about **20%** even after good repair; interposed vascularised layers reduce it.
-- Catheter: none for simple repairs; 7–14 days for complex redo repairs.
+- Recurrence about **20%**. Catheter: none for simple, 7–14 days for complex repairs.
+- **Also know:** preputial fistula does not involve the urethra; congenital urethral fistula is closed the same way; follow through puberty.
 
 ```
 UCF → wait 6–12 months → calibrate, urethroscopy, stress test
  ├─ distal obstruction → correct at same sitting
- ├─ small shaft → excise + layered closure + barrier flap
+ ├─ small → excise + layered closure + barrier flap
  └─ large/coronal → flap repair or redo urethroplasty
 ```
 
-### Recent advances
-- Standardised complication definitions; objective scores such as **HOPE (Hypospadias Objective Penile Evaluation)**.
-
-**Diagram to draw:** cross-section of neourethra, dartos barrier and skin with offset suture lines.
+**Diagram to draw:** neourethra, dartos barrier and skin with offset suture lines.
 
 > **Key points to remember:**
-> - Commonest complication: just under 10%; 5.7% after TIP (Pfistermuller 2015); up to 45% after proximal repair.
-> - Always exclude and correct distal obstruction.
-> - Wait 6–12 months; layered closure, barrier flap, offset suture lines; recurrence about 20%.
-> - A coronal fistula means glans dehiscence and needs revision of urethroplasty and glans.
+> - Commonest complication, just under 10%; TIP 5.7%.
+> - Exclude distal obstruction; wait 6–12 months.
+> - Layered closure with barrier flap; recurrence about 20%.
 
 ---
 
 ## IV-3b. Silodosin
 **Type:** SAQ (10 marks)
 
-### Definition
-- Silodosin is the **most α1A-selective adrenoceptor antagonist**, used mainly for LUTS (lower urinary tract symptoms) due to BPH (benign prostatic hyperplasia).
+### Definition and pharmacology
+- The **most α1A-selective** blocker (well over 100-fold vs α1B; about 50-fold vs α1D), for LUTS (lower urinary tract symptoms) due to BPH (benign prostatic hyperplasia).
+- Sparing vascular α1B gives **minimal hypotension**. Blocking α1A in the vas and seminal vesicles causes **failure of emission**.
+- Flow improves in 2–6 hours, symptoms in 3–4 days. CYP3A4 metabolism.
 
-### Pharmacology
-- Selectivity for α1A is well over 100-fold that for α1B (162 : 1 commonly quoted) and about 50-fold that for α1D.
-- Sparing vascular α1B receptors means **minimal hypotension**. Strong α1A blockade of the vas and seminal vesicles causes **failure of emission (anejaculation)**.
-- Onset: flow improves within 2–6 hours, symptoms within 3–4 days. Metabolised by **CYP3A4**.
-
-### Dose and contraindications
-| Item | Detail |
-|---|---|
-| Dose | **8 mg once daily (OD) with a meal** |
-| CrCl (creatinine clearance) 30–50 mL/min | **4 mg daily** |
-| Contraindicated | **CrCl <30**, severe liver impairment, **strong CYP3A4 inhibitors** |
+### Dose
+- **8 mg once daily with a meal**; **4 mg** if CrCl (creatinine clearance) 30–50 mL/min. Avoid if CrCl <30, severe liver disease, or with strong CYP3A4 inhibitors.
 
 ### Efficacy
-- **European trial (Chapple, Eur Urol 2011)**: **non-inferior to tamsulosin 0.4 mg**. Silodosin is **not more effective** than tamsulosin 0.4 mg.
-- Gives the greatest fall in BOOI (bladder outlet obstruction index) of the α1-blockers.
-- It does not shrink the prostate; add a 5-ARI (5α-reductase inhibitor) for large glands.
+- **Chapple 2011**: **non-inferior to tamsulosin 0.4 mg**, not better. Works in severe LUTS.
+- **Greatest fall in BOOI (bladder outlet obstruction index)** of all α1-blockers.
+- Does not shrink the prostate; add a 5-ARI (5α-reductase inhibitor) for large glands.
 
 ### Adverse effects
-- **Anejaculation** is the signature effect: over a quarter of men in trials (about 14% vs 2% with tamsulosin head-to-head). Few stop the drug, and men with anejaculation had better responses.
-- No excess hypotension, even in the elderly or on antihypertensives.
-- **IFIS (intraoperative floppy iris syndrome)**: not specifically studied, but reported; warn before cataract surgery.
+- **Anejaculation**: over a quarter of men in trials (14% vs 2% vs tamsulosin), yet few stop; responders do better.
+- No excess hypotension in the elderly or with antihypertensives. Falls and fractures rise in men ≥66 on any α-blocker.
+- **IFIS (intraoperative floppy iris syndrome)**: reported; warn before cataract surgery.
 
-### Uses
-1. BPH/LUTS, especially elderly and cardiac patients.
-2. **MET (medical expulsive therapy)** for distal ureteric stones 5–10 mm: meta-analyses show **faster and higher expulsion than tamsulosin**. The SUSPEND trial (2015) showed no overall benefit for tamsulosin.
-3. Ureteric stent symptoms; CP/CPPS (chronic prostatitis/chronic pelvic pain syndrome) of recent onset.
+### Other uses
+- **MET (medical expulsive therapy)**, distal stones 5–10 mm: faster expulsion than tamsulosin (meta-analyses); **SUSPEND (2015)** found no overall tamsulosin benefit.
+- **Also know:** before ureteroscopy (easier access); CP/CPPS (chronic prostatitis/chronic pelvic pain syndrome) of recent onset; with propiverine for storage symptoms.
 
-### Comparison of α-blockers
 | Drug | Hypotension | Ejaculatory dysfunction |
 |---|---|---|
 | **Silodosin** | Lowest | **Highest** |
 | Tamsulosin | Low | Moderate |
-| Alfuzosin | Low | Lowest of uroselective drugs |
+| Alfuzosin | Low | Lowest |
+| Naftopidil (α1D) | Some | Less |
 | Doxazosin, terazosin | Highest | Low |
 
-**Diagram to draw:** α1 subtypes: α1A prostate and vas, α1B vessels, α1D bladder.
+**Diagram to draw:** α1A prostate and vas, α1B vessels, α1D bladder.
 
 > **Key points to remember:**
-> - Most α1A-selective; 8 mg OD with a meal, 4 mg if CrCl 30–50, avoid if CrCl <30.
-> - Equal to tamsulosin 0.4 mg, not better; greatest BOOI reduction.
-> - Anejaculation (failure of emission) is the signature effect; hypotension is the lowest.
-> - Better than tamsulosin for MET of distal stones in meta-analyses.
+> - 8 mg with a meal; 4 mg if CrCl 30–50; avoid if <30.
+> - Equal to tamsulosin 0.4 mg; greatest BOOI fall; better for MET.
+> - Anejaculation is the signature effect; least hypotension.
 
 ---
 
@@ -308,9 +250,9 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 **Type:** SAQ (10 marks)
 
 **See Paper III, Q3a (identical question).** Recent advances to add:
-- **Rechargeable bladder neurostimulators** (Axonics and Medtronic, FDA (Food and Drug Administration) 2019), and long-life non-rechargeable devices lasting ≥10 years (2021).
-- **Whole-body MRI (magnetic resonance imaging)-conditional** systems at 1.5 T and 3 T.
-- **Implantable tibial nerve stimulators** (BlueWind, eCoin) avoid repeated clinic visits for tibial stimulation.
+- **Rechargeable** stimulators (FDA (Food and Drug Administration) 2019); non-rechargeable devices lasting ≥10 years (2021).
+- **Whole-body MRI (magnetic resonance imaging)-conditional** at 1.5 T and 3 T.
+- **Implantable tibial nerve stimulators** (BlueWind, eCoin).
 
 ---
 
@@ -318,159 +260,124 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 **Type:** SAQ (10 marks)
 
 ### Definition
-- A tubular endoprosthesis placed endoscopically in the **prostatic or bulbar urethra** to keep it open, mainly in men unfit for definitive surgery.
+- An endoscopically placed tube that keeps the **prostatic or bulbar urethra** open, mainly in men unfit for surgery.
 
 ### Classification
 | Type | Examples | Features |
 |---|---|---|
-| **Temporary, non-epithelialising** | **Memokath** (thermo-expandable nitinol), **Allium** | Designed to avoid epithelial incorporation, so removable; left 6 months to 1 year |
-| **Permanent, epithelialising** | **UroLume** | Covered by urothelium, so hard to remove; **withdrawn** |
+| **Temporary** | **Memokath** (nitinol), **Allium** | Not epithelialised, removable; left 6–12 months |
+| **Permanent, epithelialising** | **UroLume** | Urothelium grows over it; **withdrawn** |
 | Biodegradable | Experimental | Dissolve |
 
 ### Indications
-1. BPH (benign prostatic hyperplasia) with retention in men unfit for TURP (transurethral resection of prostate).
-2. **Recurrent short bulbar stricture** in men unfit for urethroplasty.
-3. **DSD (detrusor–sphincter dyssynergia)** in spinal cord injury, as a reversible alternative to sphincterotomy. Campbell now regards stents for DSD as **abandoned** because of complications.
+1. BPH (benign prostatic hyperplasia) retention in men unfit for TURP (transurethral resection of prostate).
+2. Recurrent short bulbar stricture in men unfit for urethroplasty.
+3. **DSD (detrusor–sphincter dyssynergia)**: once an alternative to sphincterotomy; now **abandoned** for complications.
 
 ### Technique
-- Local or regional anaesthesia with endoscopic or fluoroscopic guidance. Memokath expands when warmed and softens when cooled for removal.
-- A bulbar stent must **not cross the external sphincter**, or incontinence results.
+- Local or regional anaesthesia with endoscopic or fluoroscopic guidance. Memokath expands when warmed and softens when cooled for removal. A bulbar stent must **not cross the external sphincter**, or incontinence follows.
 
 ### Complications
-| Complication | Comment |
-|---|---|
-| **Migration** | Commonest with temporary stents |
-| **Encrustation and stones** | Especially prostatic stents |
-| **Hyperplastic tissue ingrowth** | UroLume; causes restenosis |
-| Incontinence | Stent crossing the sphincter |
-| Pain, painful erections | Bulbar stents |
+- **Migration** (temporary stents), **encrustation**, **hyperplastic ingrowth** with restenosis (UroLume), incontinence, pain and painful erections.
 
 ### Results
-- Prostatic stents free most unfit men from catheters in the short term, but many are later removed.
-- Removable bulbar stents succeed only in small series; Memokath results are variable.
-- No stent removes spongiofibrosis, so stents cannot cure a stricture.
+- Prostatic stents free most unfit men from catheters short term, but many are later removed. Removable bulbar stents succeed only in small series. UroLume worked early but failed long term from ingrowth, and many men still carry one.
+- No stent removes **spongiofibrosis**, so none cures a stricture.
 
-### Guideline position
-- **AUA (American Urological Association)**: **no stent in a man considering urethroplasty**, because it makes reconstruction harder. Urethroplasty remains the standard.
+### Guidelines
+- **AUA (American Urological Association)**: **no stent if urethroplasty is considered**; stents make reconstruction harder.
 
 ### Recent advances
-- **Optilume** paclitaxel-coated balloon (inhibits fibroblasts): **ROBUST III**, after failed endoscopic treatments, stricture-free about 75% vs 27% with endoscopic management.
-- **iTind** (temporary implantable nitinol device) for BPH: left 5–7 days; AUA 2023 option for 25–75 mL glands without an obstructing median lobe.
+- **Optilume** paclitaxel balloon: **ROBUST III**, after failed endoscopy, about 75% vs 27% stricture-free. Optilume BPH (EVEREST-1).
+- **iTind**: nitinol device left 5–7 days; AUA 2023 option for 25–75 mL glands without median lobe.
 
-**Diagram to draw:** sagittal urethra with a prostatic stent and a bulbar stent distal to the sphincter.
+**Diagram to draw:** sagittal urethra with prostatic stent and bulbar stent distal to sphincter.
 
 > **Key points to remember:**
-> - Temporary (Memokath, Allium) vs permanent epithelialising (UroLume, withdrawn).
-> - Indications: unfit BPH, unfit bulbar stricture, DSD (now largely abandoned).
-> - Main problems: migration, encrustation and hyperplastic ingrowth.
-> - AUA: no stent if urethroplasty is considered; Optilume (ROBUST III) and iTind are the recent advances.
+> - Temporary (Memokath, Allium) vs permanent (UroLume, withdrawn).
+> - Migration, encrustation, ingrowth; never cross the sphincter.
+> - AUA: no stent if urethroplasty planned; Optilume and iTind are newer.
 
 ---
 
 ## IV-3e. Studer Neobladder
 **Type:** SAQ (10 marks)
 
-### Introduction
-- An **orthotopic, low-pressure ileal reservoir** with a long afferent limb, joined to the urethra (**Studer, Bern, 1989**).
-
 ### Principles
-- **Detubularisation** abolishes coordinated contractions, keeping pressure low.
-- A **spherical shape** (Laplace's law) gives the greatest volume for a given surface area.
-- The **isoperistaltic afferent limb** limits reflux and accepts short ureters.
-- Patients void by **abdominal straining with pelvic floor relaxation**. Continence depends on the intact **rhabdosphincter** (pudendal nerve).
+- **Orthotopic low-pressure ileal reservoir** with an afferent limb (**Studer, 1989**).
+- **Detubularisation** stops coordinated contractions; a **sphere** (Laplace) gives most volume for surface area.
+- **Isoperistaltic afferent limb** limits reflux and accepts short ureters. Voiding by straining with pelvic floor relaxation; continence depends on the **rhabdosphincter**.
 
 ### Technique
-1. Isolate **54–56 cm of ileum**, ending **15–25 cm proximal to the ICV (ileocaecal valve)** to preserve B12 and bile-salt absorption.
-2. Open the **distal 40–44 cm** (two 20–22-cm limbs) on the antimesenteric border and fold into a U; keep the **proximal 10–15 cm** tubular as the **afferent limb**.
-3. Fold again into a sphere; **direct (refluxing) spatulated ureteroileal anastomoses**, stented.
-4. Join the **most dependent point** to the urethra.
-- Capacity grows from under 200 mL to **500–600 mL** within a year.
+- **54–56 cm ileum**, sparing **15–25 cm** above the ICV (ileocaecal valve); **40–44 cm** opened into a U then sphere; **10–15 cm** afferent limb.
+- Direct refluxing ureteroileal anastomoses; dependent point to urethra. Capacity rises from <200 to **500–600 mL** in a year.
 
 ### Selection
-- **Absolute contraindications**: cancer at the urethral margin; significant urethral stricture; severe renal or hepatic dysfunction; inability to self-catheterise.
-- **Renal threshold**: eGFR (estimated glomerular filtration rate) **>35–40 mL/min** (creatinine <1.7–2.2 mg/dL).
-
-### Postoperative care
-- Mucus irrigation, oral bicarbonate, cystogram before catheter removal.
-- Timed voiding; **night alarm 2–3 times**.
+- **Absolute contraindications**: tumour at the urethral margin, urethral stricture, severe renal or liver failure, inability to self-catheterise.
+- eGFR (estimated glomerular filtration rate) **>35–40 mL/min**. Prostatic urethral tumour raises urethral recurrence risk. After radiotherapy, a neobladder is possible if there is no incontinence, stricture or fistula.
 
 ### Outcomes
-- **Daytime continence 80–90%** (mostly by 3–6 months); **nocturnal incontinence 20–50%**.
-- Self-catheterisation needed in **10–20% of men and about 30% of women**; men leak, women retain.
-- It refluxes on cystogram, yet kidneys are preserved in about 95%.
-- **USC (University of Southern California) RCT**: Studer equalled the antireflux T pouch for renal function and infection, with fewer reoperations.
+- **Day continence 80–90%**; **night incontinence 20–50%** (no reflex, nocturnal diuresis). Self-catheterisation **10–20% of men, ~30% of women**: men leak, women retain.
+- Reflux on cystogram, yet kidneys preserved in ~95%. **USC (University of Southern California) RCT**: Studer equalled the antireflux T pouch, with fewer reoperations.
 
 ### Complications
-- **Early**: urine leak, ileus, infection, mucus retention.
-- **Late**: **hyperchloraemic metabolic acidosis**, **B12 deficiency**, **ureteroileal stricture (<3%)**, stones, retention, pyelonephritis.
+- **Early**: leak, ileus, infection, mucus retention.
+- **Late**: **hyperchloraemic acidosis**, **B12 and bile-salt loss**, ureteroileal stricture (<3%), stones, retention, hernia, pyelonephritis.
 
-### Recent advances
-- Intracorporeal robotic Studer neobladder; uterus- and nerve-sparing cystectomy in women.
+### Care and follow-up
+- Bicarbonate, mucus irrigation, timed voiding, **night alarm**. Annual B12, metabolic panel, upper-tract imaging; urethral wash cytology if CIS (carcinoma in situ).
+- **Also know:** nerve sparing aids continence; uterine preservation and sacrocolpopexy reduce female retention; Hautmann W pouch is the alternative; intracorporeal robotic Studer.
 
-**Diagram to draw:** marked ileal segment, then the spherical pouch with afferent limb.
+**Diagram to draw:** ileal segment marked, then spherical pouch with afferent limb.
 
 > **Key points to remember:**
-> - About 54–56 cm ileum: 40–44 cm reservoir (U then sphere) + 10–15 cm afferent limb; spare the terminal 15–25 cm.
-> - Detubularisation plus a sphere gives low pressure and high capacity (500–600 mL by 1 year).
-> - Day continence 80–90%; night incontinence 20–50%; CISC 10–20% men, ~30% women.
-> - Contraindicated if eGFR <35–40 mL/min, urethral margin positive or unable to self-catheterise.
+> - 54–56 cm ileum: 40–44 cm sphere plus 10–15 cm afferent limb.
+> - Day continence 80–90%, night incontinence 20–50%.
+> - Need eGFR >35–40 and ability to self-catheterise.
 
 ---
 
 ## IV-3f. Cryotherapy for carcinoma prostate
 **Type:** SAQ (10 marks)
 
-### Definition
-- **Image-guided transperineal** ablation of prostate cancer by extracting heat to lethal cold. The transperineal route suits **anterior** tumours (HIFU (high-intensity focused ultrasound) is transrectal).
+### Principle
+- **Transperineal, image-guided** freezing; suits **anterior** tumours (HIFU (high-intensity focused ultrasound) is transrectal).
+- **Joule–Thomson effect**: **argon** freezes, **helium** thaws. Thermocouples guard sphincter and neurovascular bundles; a **urethral warmer** prevents sloughing.
+- Generations: liquid nitrogen; TRUS (transrectal ultrasound) plus warmer; argon/helium 17-gauge probes; focal with MRI (magnetic resonance imaging).
 
-### Physical principle
-- **Joule–Thomson effect**: high-pressure **argon** expands at the probe tip to freeze; **helium** actively thaws.
-- **Thermocouples** monitor the sphincter and neurovascular bundles; a **urethral warmer** prevents urethral sloughing.
-
-### Generations
-| Generation | Features |
-|---|---|
-| 1st | Liquid nitrogen, no imaging; many fistulae |
-| 2nd | TRUS (transrectal ultrasound), urethral warmer |
-| 3rd | Argon/helium, 17-gauge probes |
-| 4th | **Focal** therapy with MRI (magnetic resonance imaging) fusion |
-
-### Mechanisms of cell death
-1. **Intra- and extracellular ice** and recrystallisation disrupt membranes.
-2. **Vascular stasis and ischaemia**, the main effect at the margins.
-3. Apoptosis and immune-mediated effects.
-- Aim for **−40 °C**, fast freeze, slow thaw and **two freeze–thaw cycles**. The ice-ball edge is sublethal, so ice must extend beyond the tumour.
+### Cell death
+- **Intra- and extracellular ice**, recrystallisation, **vascular stasis and ischaemia**, apoptosis, immune effects.
+- **−40 °C**, fast freeze, slow thaw, **two cycles**. The ice-ball edge is sublethal, so ice must extend beyond tumour.
 
 ### Indications
-1. **Salvage after radiation failure** (main role): biopsy-proven local recurrence, no metastases, **PSA (prostate-specific antigen) <10 ng/mL (ideally <4)**, doubling time ≥16 months.
+1. **Salvage after radiotherapy** (main role): biopsy-proven local recurrence, no metastases, **PSA (prostate-specific antigen) <10 (ideally <4)**, doubling time ≥16 months.
 2. **Primary whole-gland**: men unfit for surgery or radiotherapy.
-3. **Focal or hemi-gland**: MRI-visible unilateral grade group 2–3 lesion.
+3. **Focal or hemi-gland**: MRI-visible grade group 2–3 lesion; rests on the index-lesion hypothesis.
 
 ### Outcomes
-- Salvage: biochemical control about **55–71% at 3–5 years** (Phoenix: nadir + 2 ng/mL).
-- **Donnelly et al., Cancer 2010** (RCT): **non-inferior** to external beam radiotherapy; worse sexual function.
-- Focal: the COLD (Cryo On-Line Data) registry shows better erectile recovery than whole-gland.
+- Salvage: biochemical control **55–71% at 3–5 years** (Phoenix: nadir + 2).
+- **Donnelly, Cancer 2010** (RCT (randomised controlled trial)): **non-inferior** to external beam radiotherapy; worse sexual function.
+- Focal: COLD (Cryo On-Line Data) registry shows better erections than whole gland.
 
 ### Complications
-| Complication | Primary / focal | Salvage |
+| | Primary / focal | Salvage |
 |---|---|---|
-| **ED (erectile dysfunction)** | **Almost always** (whole gland); often kept (focal) | Very common |
-| Incontinence | Rare (focal pad-free 95–100%) | Now single digit |
-| **Rectourethral fistula** | **≤0.8%** (focal) | **About 1–3.4%** |
+| **ED (erectile dysfunction)** | **Almost always** (whole gland) | Very common |
+| Incontinence | Rare | Single digit |
+| **Rectourethral fistula** | ≤0.8% (focal) | 1–3.4% |
+| Retention | Commonest after focal | ~4% |
 
-### Guideline positions
-- **EAU (European Association of Urology)**: primary or focal cryotherapy **only within trials or registries**; salvage is an option.
+- **Also know:** urethral sloughing, stricture; no drug enhancer yet improves kill.
 
-### Recent advances
-- MRI–TRUS fusion focal cryotherapy; PSMA (prostate-specific membrane antigen) PET to select salvage patients.
+### Guidelines and advances
+- **EAU (European Association of Urology)**: primary or focal only in trials or registries. PSMA (prostate-specific membrane antigen) PET selects salvage patients.
 
-**Diagram to draw:** sagittal prostate with ice ball, −40 °C isotherm inside the 0 °C edge.
+**Diagram to draw:** prostate with ice ball, −40 °C isotherm inside 0 °C edge.
 
 > **Key points to remember:**
-> - Argon freezes and helium thaws (Joule–Thomson); −40 °C, two freeze–thaw cycles, urethral warmer.
-> - Main role is salvage after radiation: PSA <10 (ideally <4), doubling time ≥16 months.
-> - Whole-gland ED is almost universal; fistula ≤0.8% focal, 1–3.4% salvage.
-> - EAU: primary or focal cryotherapy only within trials or registries; Phoenix = nadir + 2.
+> - Argon freezes, helium thaws; −40 °C, two cycles, urethral warmer.
+> - Main role is salvage: PSA <10, doubling time ≥16 months.
+> - Whole-gland ED near universal; fistula ≤0.8% focal, up to 3.4% salvage.
 
 
 ---
@@ -482,49 +389,42 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 
 #### IV-1. Role of robotics in urology (LAQ)
 
-- da Vinci approved 2000; Si 2009 (dual console), Xi 2014, SP 2018 (one 2.5-cm port); patents expired 2019.
-- Yaxley 2016 and Coughlin 2018: equal function at 12 weeks and 24 months; surgeon matters more than platform.
-- RAZOR: non-inferior 2-year PFS; iROC: intracorporeal RARC gives more days alive and out of hospital.
-- Steep Trendelenburg causes facial and laryngeal oedema and raised IOP; avoid shoulder braces.
+- da Vinci 2000; Xi 2014; SP 2018; patents expired 2019.
+- Yaxley and Coughlin: equal function at 12 weeks and 24 months; RAZOR non-inferior; iROC more days out of hospital.
+- Trendelenburg causes oedema and raised IOP; avoid shoulder braces.
 
 #### IV-2. Discuss marginal kidney donor and describe newer immunosuppressant drugs in renal transplantation (LAQ)
 
-- ECD (UNOS 2002): age ≥60, or 50–59 with ≥2 of hypertension, creatinine >1.5 mg/dL, CVA death; replaced by KDPI >85% (December 2014).
-- Remuzzi 0–3 single, 4–6 dual, ≥7 discard; HMP reduces DGF (Moers 2009); ESP matches ≥65 donors to ≥65 recipients.
-- Belatacept: better GFR, more early rejection, contraindicated if EBV-seronegative; TRANSFORM: everolimus with low CNI non-inferior.
-- Imlifidase (EMA 2020) for highly sensitised patients; anti-IL-6 for chronic AMR; dd-cfDNA for monitoring.
+- ECD: ≥60, or 50–59 with ≥2 of hypertension, creatinine >1.5, CVA death; KDPI >85% since 2014.
+- Remuzzi 0–3 single, 4–6 dual, ≥7 discard; HMP reduces DGF; ESP ≥65 to ≥65.
+- Belatacept: better GFR, contraindicated if EBV-negative; imlifidase for highly sensitised patients.
 
 #### IV-3a. Etiology and management of hypospadias fistula (SAQ)
 
-- Commonest complication: just under 10%; 5.7% after TIP (Pfistermuller 2015); up to 45% after proximal repair.
-- Always exclude and correct distal obstruction.
-- Wait 6–12 months; layered closure, barrier flap, offset suture lines; recurrence about 20%.
-- A coronal fistula means glans dehiscence and needs revision of urethroplasty and glans.
+- Commonest complication, just under 10%; TIP 5.7%.
+- Exclude distal obstruction; wait 6–12 months.
+- Layered closure with barrier flap; recurrence about 20%.
 
 #### IV-3b. Silodosin (SAQ)
 
-- Most α1A-selective; 8 mg OD with a meal, 4 mg if CrCl 30–50, avoid if CrCl <30.
-- Equal to tamsulosin 0.4 mg, not better; greatest BOOI reduction.
-- Anejaculation (failure of emission) is the signature effect; hypotension is the lowest.
-- Better than tamsulosin for MET of distal stones in meta-analyses.
+- 8 mg with a meal; 4 mg if CrCl 30–50; avoid if <30.
+- Equal to tamsulosin 0.4 mg; greatest BOOI fall; better for MET.
+- Anejaculation is the signature effect; least hypotension.
 
 #### IV-3d. Urethral stents (SAQ)
 
-- Temporary (Memokath, Allium) vs permanent epithelialising (UroLume, withdrawn).
-- Indications: unfit BPH, unfit bulbar stricture, DSD (now largely abandoned).
-- Main problems: migration, encrustation and hyperplastic ingrowth.
-- AUA: no stent if urethroplasty is considered; Optilume (ROBUST III) and iTind are the recent advances.
+- Temporary (Memokath, Allium) vs permanent (UroLume, withdrawn).
+- Migration, encrustation, ingrowth; never cross the sphincter.
+- AUA: no stent if urethroplasty planned; Optilume and iTind are newer.
 
 #### IV-3e. Studer Neobladder (SAQ)
 
-- About 54–56 cm ileum: 40–44 cm reservoir (U then sphere) + 10–15 cm afferent limb; spare the terminal 15–25 cm.
-- Detubularisation plus a sphere gives low pressure and high capacity (500–600 mL by 1 year).
-- Day continence 80–90%; night incontinence 20–50%; CISC 10–20% men, ~30% women.
-- Contraindicated if eGFR <35–40 mL/min, urethral margin positive or unable to self-catheterise.
+- 54–56 cm ileum: 40–44 cm sphere plus 10–15 cm afferent limb.
+- Day continence 80–90%, night incontinence 20–50%.
+- Need eGFR >35–40 and ability to self-catheterise.
 
 #### IV-3f. Cryotherapy for carcinoma prostate (SAQ)
 
-- Argon freezes and helium thaws (Joule–Thomson); −40 °C, two freeze–thaw cycles, urethral warmer.
-- Main role is salvage after radiation: PSA <10 (ideally <4), doubling time ≥16 months.
-- Whole-gland ED is almost universal; fistula ≤0.8% focal, 1–3.4% salvage.
-- EAU: primary or focal cryotherapy only within trials or registries; Phoenix = nadir + 2.
+- Argon freezes, helium thaws; −40 °C, two cycles, urethral warmer.
+- Main role is salvage: PSA <10, doubling time ≥16 months.
+- Whole-gland ED near universal; fistula ≤0.8% focal, up to 3.4% salvage.
