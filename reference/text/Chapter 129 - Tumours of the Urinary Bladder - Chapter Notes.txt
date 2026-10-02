@@ -1,0 +1,1041 @@
+Chapter 129 — Tumours of the Urinary Bladder
+EPIDEMIOLOGY
+Incidence, Prevalence, and Mortality
+ • A global disease: about 550,000 new cases and 200,000 deaths worldwide in 2018; in the United States
+   (US) about 82,000 diagnoses and 17,000 deaths a year.
+ • Age-adjusted incidence and mortality fell through the 1990s and early 2000s and have since
+   plateaued.
+ • Crude incidence is rising because of population ageing and growth; adjusted for demographic change,
+   incidence is stable, and the US and Europe show a slow decline.
+ • Risk is highest in high-income countries and lowest in low-income countries; the highest regional rates
+   are in North America and Western and Central Europe, the lowest in Oceania and Andean and Central
+   Latin America.
+ • The burden is shifting to the developing world: more than 60% of incident cases and nearly half of
+   deaths occur there, attributed to a narrowing gap in life expectancy between low- and high-income
+   countries.
+ • Disability-adjusted life years (DALYs) are the World Health Organization (WHO) measure of disease
+   burden: years of life lost (deaths × remaining life expectancy) plus years lived with disability. Bladder
+   cancer caused about 3.4 million DALYs in 2015; age-standardised DALY rates fell in both sexes.
+ • Prevalent out of proportion to incidence: deaths are few relative to cases, so bladder cancer is the
+   fourth most prevalent cancer affecting both sexes globally and in the top five in countries of every
+   income level. Five-year prevalence understates the number of survivors still managing disease
+   sequelae.
+ • Regional variation reflects demography and environmental exposure: bladder cancer was the
+   commonest cancer in Egyptian males (2015) because of Schistosoma haematobium, which causes
+   squamous cell carcinoma (SCC); in Europe the highest rates are in Belgium (males) and Hungary
+   (females).
+Fig. 129.1 — Global incidence (age-standardised rate, ASR), 2018, by sex (GLOBOCAN; Ferlay et al., 2014).
+ • Highest ASRs in North America, Europe and Australia for both sexes; female rates are several-fold lower
+   in absolute terms, with the same geographic pattern.
+Fig. 129.2 — Trends in age-standardised incidence, 1990–2015, by sociodemographic index (SDI)
+(Fitzmaurice et al., 2017).
+ • Rates rise with SDI: high-SDI countries have the highest and slowly declining incidence; male rates are
+   far above female rates at every SDI level.
+Fig. 129.3 — Age-specific incidence, United Kingdom (Cancer Research UK).
+ • Rates climb steeply from the fifth decade and are highest at age 90 and over; absolute case numbers
+   peak in the eighth and ninth decades.
+
+Gender, Racial, and Age Differences
+ • A disease of ageing and cumulative exposure: average age at diagnosis 73 (US); about 9 in 10 patients
+   are diagnosed after 55. Incidence rises from age 50–54 in both sexes, more sharply in males from 60–
+   64, and is highest at 90 and over.
+
+
+
+
+                                                  page 1 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                                  Epidemiology
+  • Male predominance about 3:1: nearly three-quarters of cases are in males. US lifetime risk is 1 in 27 for
+    males and 1 in 89 for females.
+  • Why males — smoking: smoking is far more prevalent in males worldwide.
+  • Why males — carcinogen metabolism: the disparity persists after controlling for smoking. Uridine 5′-
+    diphospho-glucuronosyltransferase (UGT; aromatic amine metabolism) and glutathione S-transferase
+    mu 1 (GSTM1; detoxification) are expressed differently in the sexes, so equal pack-years may yield
+    unequal carcinogen exposure.
+  • Why males — sex steroids: in females, later menarche (≥15 years), parity and oestrogen or progestin
+    therapy are associated with lower risk. The androgen receptor (AR) is downregulated in bladder
+    tumours, more so at higher stage and grade, and castration or AR knockout suppresses tumour growth
+    in transgenic and carcinogen-induced mouse models.
+  • Females present later and do worse stage for stage: they lose a larger share of remaining life
+    expectancy, and stage at presentation explains only about 30% of the disparity.
+  • Causes of the female disadvantage: tumour biology, environmental exposure and implicit bias (implicit
+    social cognition — bladder cancer framed as a "male" disease), with a longer delay from first
+    haematuria to diagnosis because females are more often managed as urinary tract infection (UTI),
+    which delays referral to a urologist.
+  • Race: incidence is highest in White Americans (1.5 times that of Black, twice that of Hispanic and six
+    times that of Native Americans), but Black patients more often present with muscle-invasive disease,
+    more often have nonurothelial histology (highest in Black females), and have worse stage-for-stage 5-
+    year relative survival.
+ MALES VERSUS FEMALES — THE GOVERNING ASYMMETRY
+
+                              Males                               Females
+  Incidence                   About three times higher            Lower
+  Stage at presentation       Less advanced                       More advanced
+  Stage-for-stage             Better                              Worse
+  outcome
+  Diagnostic pathway          Haematuria investigated             Haematuria attributed to UTI; delayed referral
+                              promptly
+  Protective factors          —                                   Later menarche, parity, exogenous oestrogen or
+                                                                  progestin
+
+ Fig. 129.4 — Five-year relative survival by race and stage, US 2007–2013 (Siegel et al., 2018).
+  • Survival falls steeply from in situ and localised to regional to distant disease, and Black patients fare
+    worse at every stage.
+
+ Economic Impact
+  • The most expensive cancer to treat per patient over a lifetime: lifetime cost roughly US$129,000–
+    251,000 per patient; annual direct costs exceed US$4 billion in the US and €4.9 billion in the European
+    Union.
+  • Costs vary several-fold between countries and between institutions, driven mainly by differences in
+    the management of non-muscle-invasive bladder cancer (NMIBC); per capita, the US spends about
+    twice as much as Europe.
+
+
+
+
+                                                         page 2 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                                    Risk Factors
+  • Two targets for cost reduction: intensive NMIBC surveillance (annual procedures and laboratory tests)
+    and metastatic disease (costly late-stage therapeutics and end-of-life care).
+ Concept — Prevalence and cost follow from the same fact: bladder cancer is common, rarely fatal early
+ and repeatedly recurrent, so patients accumulate years of surveillance; the rising burden reflects an ageing
+ population, not a rising age-specific risk.
+
+ RISK FACTORS
+  • An exposure surface: like skin and lung, the bladder is in constant contact with environmental
+    carcinogens and inflammation.
+  • Aromatic amines (2-naphthylamine, 4-aminobiphenyl, benzidine) are the central causative agents;
+    once hydroxylated they form DNA adducts. Tobacco and occupation are the two commonest routes of
+    exposure.
+
+ Smoking
+  • The main known cause: tobacco accounts for 30–40% of urothelial carcinoma; smokers carry a
+    twofold to threefold risk. There are more than 1 billion smokers worldwide.
+  • Cigarettes are commonest, but pipe and cigar smoking also raise risk; bladder carcinogens have been
+    found in electronic cigarette users, suggesting possible risk. US adult smoking prevalence fell
+    substantially between 2005 and 2015.
+  • N-acetyltransferase 2 (NAT2) slow acetylators are at particularly high risk when they smoke, because
+    NAT2 acetylation detoxifies aromatic amines.
+  • Supplements do not protect: dietary beta-carotene may be protective, but supplemental beta-carotene
+    and vitamins C, E or folate do not reduce risk in exposed people.
+  • Cessation lowers risk progressively: risk remains raised 1–3 years after stopping and approaches that
+    of never-smokers after more than 15 years.
+  • About 20% are still smoking at diagnosis; active smoking raises local recurrence in NMIBC and cancer
+    death in muscle-invasive bladder cancer (MIBC), and many continue after diagnosis.
+  • Quitting after diagnosis: its survival benefit is unproven, but continued smoking raises the risk of a
+    second primary cancer, peripheral vascular disease and chronic obstructive pulmonary disease (COPD).
+
+ Occupational Risk
+  • Occupation accounts for 5–10% of bladder cancer; lifetime risk is greatest in work with chemicals and
+    dyes.
+  • Exposure among females is rising as many of these occupations become increasingly female.
+ OCCUPATIONAL CARCINOGEN CLASSES
+
+  Carcinogen class                       At-risk occupations
+  Aromatic amines                        Tobacco, dye and rubber workers; hairdressers; painters; leather workers
+  Polycyclic aromatic                    Chimney sweeps, nurses, waiters, aluminium workers, petroleum workers,
+  hydrocarbons                           seamen
+
+ Fig. 129.5 — Summary relative risks of bladder cancer by occupation (meta-analysis) (Cumberbatch et al.,
+ 2015).
+  • Highest relative risks: tobacco workers, dye workers, chimney sweeps, nurses, rubber workers, waiters
+    and aluminium workers. Lowest (below 1): farmers, gardeners, teachers and forestry workers. Overall
+    excess is modest and heterogeneity very high.
+
+
+
+                                                         page 3 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                         Risk Factors
+ Environment
+  • Arsenic in drinking water (a toxic metalloid released from weathering rock) is associated with bladder
+    cancer. The worst-affected regions are West Bengal, Bangladesh and Taiwan (and parts of Chile), with
+    concentrations hundreds of times the recommended limit of 10 µg/L.
+  • Mechanism is multifactorial: oxidative stress, epigenetic effects and impaired DNA repair.
+
+ Radiation
+  • First recognised in atomic bomb survivors, in whom attributable risk rose with dose.
+  • Latency 15–30 years; radiation-associated bladder cancer is not age related.
+  • Studies are conflicting and confounded, but risk scales with modality:
+ RADIATION MODALITY AND SECONDARY BLADDER CANCER
+
+  Modality                                                                     Relative risk
+  External beam radiation therapy (EBRT), cervical cancer                      Twofold to fourfold
+  EBRT, prostate cancer                                                        1.5- to 2.0-fold
+  Brachytherapy                                                                Smaller
+  Intensity-modulated radiation therapy (IMRT)                                 Little or none
+
+ Genetics
+  • NAT2 and GSTM1 deletion are the most-studied genes; both govern aromatic amine metabolism and
+    so matter chiefly in those with carcinogen exposure. NAT2 regulates acetylation of the aromatic amines
+    in cigarette smoke.
+  • Several low-penetrance variants probably combine with occupational, environmental and behavioural
+    exposures to potentiate risk.
+
+ Hereditary
+  • First-degree relatives have a twofold risk, but high-risk families are exceedingly rare; there is no
+    mendelian pattern, so linkage studies are unhelpful — the aetiology is gene–environment interaction.
+  • Lynch syndrome (hereditary nonpolyposis colorectal cancer, HNPCC) raises urothelial cancer risk,
+    mainly in MSH2 carriers.
+  • Pathogenic germline variants in 13–24% of patients with urothelial carcinoma (mostly advanced
+    disease), commonest MSH2 and BRCA1/2. In NMIBC they occur in high-grade but not low-grade
+    disease, so germline testing may help in selected high-grade patients to identify risk in family
+    members.
+
+ Body Mass Index
+  • Increasing body mass index (BMI) raises risk in multiple meta-analyses, with a dose–response
+    relationship, and independent of smoking.
+  • Obesity worsens prognosis after diagnosis: more recurrence and a shorter time to recurrence.
+  • Proposed mechanisms: insulin resistance, chronic hyperinsulinaemia, increased bioavailability of
+    steroid hormones and local inflammation with proinflammatory cytokines; the exact mechanism is
+    unknown.
+
+ Medical Conditions
+  • Chronic inflammation → keratinising squamous metaplasia → SCC is the usual direct pathway.
+
+
+
+
+                                                     page 4 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                                       Drugs
+  • Neurogenic bladder and spinal cord injury with chronic indwelling catheters carry a modestly
+    increased SCC risk; bladder calculi, outflow obstruction, recurrent UTI and catheter trauma are thought
+    additive.
+  • Bladder exstrophy: malignancy in 3.3–7.5%, several times age-matched controls; adenocarcinoma
+    accounts for more than 90%, SCC and urothelial carcinoma the remainder.
+  • As patients with spinal cord injury and congenital bladder anomalies live longer, bladder cancer rates in
+    these groups may rise.
+
+ Schistosomiasis
+  • Endemic in up to 76 developing countries, affecting up to 218 million people, and a major cause of
+    bladder cancer in tropical countries despite WHO eradication campaigns.
+  • Life cycle: blood flukes with mammalian hosts and freshwater snails as intermediate hosts. Of the four
+    human schistosomes, only S. haematobium is linked to bladder SCC.
+  • Mechanism: worms live in the vesical venules and lay eggs → irritation and fibrosis via a T-helper 2
+    (TH2) proinflammatory response; infection also potentiates other risk factors, notably smoking.
+
+ Recurrent Infection
+  • Chronic UTI: a modest, confounded association — confounded by catheterisation, stones, smoking and
+    occupation; there are no prospective studies of UTI, and early data have not been validated in
+    contemporary cohorts.
+  • Gonorrhoea: a prospective study found nearly twofold risk in males, with more invasive tumours; the
+    mechanism may be nitrosamine production.
+  • Urinary microbiome: some bacterial and viral colonisation of the urothelium may be protective;
+    mechanisms are under investigation.
+ EXPOSURE PATHWAY PREDICTS HISTOLOGY
+
+  Histology                       Associated exposures
+  Urothelial carcinoma            Tobacco, aromatic amines, arsenic, radiation, cyclophosphamide, Lynch syndrome
+  Squamous cell carcinoma         S. haematobium, chronic indwelling catheter, stones, recurrent infection
+  Adenocarcinoma                  Bladder exstrophy, schistosomiasis, chronic irritation or obstruction
+
+ Concept — Almost every risk factor is either a chemical load (aromatic amines, modified by acetylator and
+ glutathione S-transferase genotype) or chronic inflammation, and the pathway predicts the histology:
+ chemical injury gives urothelial carcinoma, chronic inflammation gives squamous or glandular tumours.
+
+ DRUGS
+ Pioglitazone
+  • Thiazolidinedione for non-insulin-dependent diabetes. The PROactive randomised trial (2005)
+    unexpectedly found more bladder cancers with pioglitazone than placebo; later studies have both
+    confirmed and refuted this.
+
+ Chemotherapy
+  • Cyclophosphamide is the only chemotherapeutic agent shown to cause bladder cancer; the
+    mutagenic metabolite is phosphoramide mustard.
+  • Risk about 4.5-fold, dose dependent: most pronounced above 20 g cumulative; above 50 g, about 7
+    excess cases per 100 patients treated.
+
+
+
+                                                         page 5 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                                          Diet
+  • Latency: risk rises after 5 years and peaks at years 10–14.
+
+ DIET
+ DIETARY EXPOSURES AND BLADDER CANCER RISK
+
+  Exposure                 Finding                          Note
+  Total fluid intake       No association                   Early retrospective protective signal not reproduced in
+                                                            the European Prospective Investigation into Cancer and
+                                                            Nutrition (EPIC)
+  Coffee and tea           No association                   Earlier modest link was confounded by smoking
+  (caffeine)
+  Alcohol                  No association at any amount     Unlike gastrointestinal and hepatobiliary cancers
+  Red meat                 No association (EPIC)            Unlike other malignancies
+  Fruit and vegetables Lower risk in never- and former      No association in meta-analyses adjusted for smoking
+                       smokers, not current smokers
+                       (EPIC)
+  Vitamin and mineral Neither carcinogenic nor              VITamins cohort; Selenium and Vitamin E Cancer
+  supplements         protective                            Prevention Trial (SELECT) — no effect of selenium or
+                                                            vitamin E
+
+  • No specific food or food group has been shown to mitigate risk, although many ingested carcinogens
+    are excreted in urine and contact the urothelium directly.
+ Concept — Every apparent dietary signal has dissolved once smoking is controlled for; diet is a confounder-
+ dominated field, and no dietary intervention reduces bladder cancer risk.
+
+   KEY POINTS
+    • Bladder cancer is related to age and environmental carcinogen exposure.
+    • Smoking accounts for 30–40% of urothelial carcinoma.
+    • Bladder cancer is about three times as common in males, but females present with more advanced
+      tumours and a worse prognosis.
+    • It is the most expensive cancer to treat per patient over a lifetime.
+    • Pathogenic germline variants are present in a select group of patients.
+    • No dietary intervention has reduced bladder cancer risk.
+
+
+ DETECTION OF UROTHELIAL CARCINOMA
+  • Rarely an incidental autopsy finding, unlike many cancers.
+  • Painless gross haematuria in 85% of newly diagnosed patients; microscopic haematuria in nearly all.
+    Haematuria is typically intermittent and may follow Valsalva manoeuvres.
+  • Any episode of gross haematuria must be evaluated, even if subsequent urinalysis is negative;
+    antiplatelet or anticoagulant therapy does not preclude full evaluation.
+  • Irritative voiding symptoms (frequency, urgency) may signal bladder cancer, particularly carcinoma in
+    situ (CIS).
+  • After a complete negative evaluation, the risk of malignancy with recurrent gross or microscopic
+    haematuria is nearly zero for 6 years; for persistent haematuria, repeat evaluation at 3–5 years is
+    reasonable.
+
+
+
+                                                      page 6 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                               Detection of Urothelial Carcinoma
+  • Prostate-specific antigen (PSA) may be considered after discussion, because about 10% of patients with
+    recurrent gross haematuria have prostate cancer.
+  • Bimanual examination rarely finds a bladder tumour at presentation but should be performed at
+    transurethral resection of bladder tumour (TURBT) if the tumour appears invasive; the history covers
+    risk factors and family history.
+ GROSS HAEMATURIA VERSUS MICROHAEMATURIA — EVALUATION
+
+                        Gross haematuria                     Asymptomatic microhaematuria (AMH)
+  Identifiable          Cause in about 50%; malignancy       Malignancy 2.6–5.2%
+  cause /               about 20%
+  malignancy risk
+  Cystoscopy            All adults                           All patients aged 35 years and over
+  Upper tract           Multiphase computed tomography       2012 American Urological Association (AUA) guideline:
+  imaging               (CT) with delayed phase — CT         CTU; renal and bladder ultrasound may safely replace it,
+                        urogram (CTU) — if tolerated         as upper tract malignancy is exceedingly rare
+  Cytology / urine      Reasonable                           Avoid in routine evaluation (AUA)
+  markers
+  Also                  Focused history and examination; urine culture
+
+ URINE DIPSTICK VERSUS MICROSCOPIC URINALYSIS
+
+                   Dipstick                                                 Microscopic urinalysis
+  Principle        Reagent detects peroxidase activity of haem              Direct examination of sediment for red
+                                                                            blood cells
+  Performance Sensitivity 91–100%; specificity about 65% →                  Confirmatory standard
+              unnecessary evaluations
+  Role             Dipstick alone is discouraged for microhaematuria; confirm with microscopy
+
+ Cystoscopy
+  • Gold standard for diagnosis: cystoscopy and biopsy. Flexible office cystoscopy is as reliable as rigid.
+  • White light cystoscopy (WLC) is the standard of care, allowing mapping and resection of all visible
+    tumours; excellent for large papillary tumours, less reliable for small papillary tumours and CIS.
+  • Hexaminolevulinate blue light cystoscopy (HAL–BLC): a meta-analysis found BLC detected more Ta
+    tumours and substantially more CIS than WLC; in about a quarter of patients CIS was seen only on BLC,
+    with benefit in both primary and recurrent disease. Flexible BLC in the office finds recurrences missed
+    on WLC in about a fifth of patients.
+  • Narrow-band imaging (NBI) improves CIS detection in mostly single-centre or underpowered studies. In
+    a multicentre randomised trial of NBI-assisted versus white light TURBT, overall 12-month recurrence
+    was similar, but NBI reduced recurrence in low-risk patients.
+ CYSTOSCOPIC IMAGING MODALITIES
+
+              White light
+              (WLC)             Blue light (HAL–BLC)                       Narrow-band imaging (NBI)
+  Principle Standard            Photoactive porphyrins accumulate in       Optical, no dye: blue (415 nm) and green
+            illumination        neoplastic tissue → red fluorescence under (540 nm) bands absorbed by haemoglobin
+                                blue light, 360–450 nm                     → vessels dark brown or green on pink or
+                                                                           white mucosa
+
+
+
+
+                                                       page 7 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                        Detection of Urothelial Carcinoma
+
+              White light
+              (WLC)             Blue light (HAL–BLC)                               Narrow-band imaging (NBI)
+  Agent       None              HAL; 5-aminolevulinic acid (5-ALA) studied,        None
+                                but only HAL is Food and Drug
+                                Administration (FDA) approved —
+                                surveillance, rigid and flexible
+  Strength Large papillary CIS and small Ta tumours                                CIS; recurrence in low-risk patients
+           tumours
+  Status      Standard of       Adjunct                                            Adjunct
+              care
+
+  • Depth of light penetration increases with wavelength — the physical basis of NBI's selective contrast.
+
+ Urine Cytology
+  • Papanicolaou (1945) first proposed that exfoliated urinary cells could detect urinary tract malignancy.
+  • Sensitivity 31–62%, specificity 94–100%; reporting varies between institutions, compounding a
+    subjective test.
+  • The Paris System for Reporting Urinary Cytology (introduced 2013 at the International Congress of
+    Cytology) standardises categories and cytomorphological criteria for high-grade urothelial carcinoma
+    (HGUC); it appears to reduce inconclusive "atypia" calls and improve risk stratification.
+  • Positive or suspicious high-grade cytology must be investigated because the test is highly specific.
+  • Negative cystoscopy with persistently positive high-grade cytology → random biopsies of bladder and
+    prostatic urethra, plus ureteral washings for cytology, with or without ureteroscopic inspection of the
+    upper tracts.
+ Fig. 129.6 — The Paris System for Reporting Urinary Cytology, version 2.0 (Barkan et al., 2016). Algorithm:
+  • Nuclear-to-cytoplasmic (N:C) ratio ≥0.5? (excluding intermediate and basal cells) → No: NHGUC. Yes →
+    assess hyperchromasia, coarse chromatin, irregular chromatin rim → atypia explained by non-
+    neoplastic change (polyomavirus, granuloma, ileal conduit, urolithiasis, reactive change): NHGUC → ≥1
+    feature: AUC → ≥2 features and N:C ≥0.7: few cells (<5–10) = suspicious for HGUC; many = HGUC.
+ PARIS SYSTEM CATEGORIES
+
+  Category                                     Criteria
+  Negative for HGUC (NHGUC)                    N:C <0.5, or atypia commensurate with a non-neoplastic cause
+  Atypical urothelial cells (AUC)              N:C ≥0.5 and at least one feature
+  Suspicious for HGUC                          N:C ≥0.7, at least two features, few cells (<5–10)
+  HGUC                                         N:C ≥0.7, at least two features, many cells
+
+ Urine-based biomarkers
+  • Adjuncts, not replacements: developed because cystoscopy is costly and uncomfortable; most are
+    more sensitive than cytology but less specific.
+  • Nuclear matrix protein 22 (NMP22). A nuclear structural protein about 20 times more abundant in
+    malignant urothelial cells. Two FDA-approved tests for surveillance: a laboratory quantitative assay
+    and a point-of-care qualitative assay; accuracy is similar at diagnosis and in surveillance.
+
+ Fluorescence in Situ Hybridization
+  • UroVysion fluorescence in situ hybridisation (FISH) uses labelled DNA probes to detect aneuploidy of
+    chromosomes 3, 7 and 17 and homozygous loss of 9p21 in exfoliated cells.
+
+
+
+                                                            page 8 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                            Detection of Urothelial Carcinoma
+  • Positive test: ≥5 cells with gains of ≥2 chromosomes, or ≥10 cells with gain of a single chromosome,
+    or homozygous 9p21 deletion in >20% of cells.
+  • Reflex test after atypical cytology: a negative FISH correlates with benign cytological change; with
+    atypical cytology and negative cystoscopy, a positive FISH predicts lower recurrence-free survival.
+  • Limitations: low sensitivity for low-grade tumours; no consensus on criteria for abnormal cells.
+
+ Bladder Tumor Antigen
+  • Bladder tumour antigen (BTA) assays detect complement factor H–related protein and complement
+    factor H with monoclonal antibodies; both forms are FDA approved for diagnosis and follow-up.
+  • BTA stat: qualitative, dipstick, point of care. BTA TRAK: quantitative, enzyme-linked immunosorbent
+    assay (ELISA).
+  • High false-positive rate with haematuria: complement factor H is abundant in serum, so blood cross-
+    reacts.
+
+ ImmunoCyt
+  • A cell-based adjunct to cytology (late 1990s): fluorescent antibodies against a glycosylated
+    carcinoembryonic antigen (CEA) and two mucins.
+  • Combined with cytology it raises sensitivity but lowers specificity.
+  • Operator dependent, with high interobserver variability; adequate training may overcome this.
+
+ CxBladder
+  • A cell-based assay of five messenger RNA fragments: HOXA13, CDC2, MDK, CXCR2, IGFBP5.
+  • Sensitivity and specificity about 85% in the body text versus 0.82 and 0.85 in Table 129.1 — the table
+    figure is a single study at a threshold fixed for specificity 0.85, the text figure a summary of the few
+    published studies. Early comparisons suggest it outperforms cytology and protein assays; it needs
+    independent multi-institutional validation.
+ TABLE 129.1 TEST PERFORMANCE OF URINARY BIOMARKERS FOR DIAGNOSIS OF BLADDER CANCER (Data from
+ Chou et al., 2015 — systematic review and meta-analysis)
+
+                                                           Overall       Symptom evaluation     Surveillance
+  Assay                  Target / format                   sens / spec   sens / spec            sens / spec
+  NMP22,                 Nuclear matrix protein;           0.69 / 0.77   0.67 / 0.84            0.61 / 0.71
+  quantitative           laboratory
+  NMP22,                 Point of care                     0.58 / 0.88   0.47 / 0.93            0.70 / 0.83
+  qualitative
+  BTA, qualitative       Complement factor H ± related     0.64 / 0.77   0.76 / 0.78            0.60 / 0.76
+  (stat)                 protein; dipstick
+  BTA, quantitative      ELISA                             0.65 / 0.74   0.76 / 0.53            0.58 / 0.79
+  (TRAK)
+  FISH (UroVysion)       Chromosomes 3, 7, 17; 9p21        0.63 / 0.87   0.73 / 0.95            0.55 / 0.80
+  ImmunoCyt              CEA + two mucins; cell based      0.78 / 0.78   0.85 / 0.83            0.75 / 0.76
+  CxBladder              Five-mRNA panel                   —             0.82 / 0.85*           —
+
+  • What the table is for: to show that no biomarker approaches cytology's specificity while beating its
+    sensitivity by a margin that would displace cystoscopy. *CxBladder threshold was chosen for a
+    specificity of 0.85.
+
+
+
+
+                                                        page 9 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                            Pathology
+  • Pattern: ImmunoCyt has the highest sensitivity; FISH and qualitative NMP22 the highest specificity;
+    performance is generally better when evaluating symptoms than in surveillance, where tumours are
+    smaller and lower grade. FISH in symptomatic patients gives the highest positive likelihood ratio.
+  • The trap: a negative marker does not exclude cancer. Head-to-head comparisons are too limited to rank
+    the assays.
+  • Authors' practice: in microhaematuria, adding a biomarker does not remove the need for cystoscopy;
+    in gross haematuria a negative result still leaves a ≥10% probability of cancer, so cystoscopy is still
+    required. Biomarkers are used with cystoscopy in NMIBC surveillance; multiplex gene assays await
+    validation.
+
+ On the Horizon: Urinary Tumor DNA
+  • Urinary tumour DNA (utDNA) enables urinary genomic sequencing. High levels track tumour burden
+    and stage and predict minimal residual disease and local recurrence.
+  • Its appeal: it reflects the molecular profile of the primary tumour, so it could tailor therapy and detect
+    early recurrence.
+
+   KEY POINTS
+    • Painless gross haematuria is the key presenting symptom, in 85% of new diagnoses.
+    • A full haematuria evaluation comprises focused history and examination, cystoscopy, upper tract
+      imaging and urine culture.
+    • The gold standard is cystoscopy and biopsy; HAL–BLC and NBI are increasingly used as adjuncts for
+      occult malignancy.
+    • No urine marker yet has high enough sensitivity or specificity to replace office cystoscopy.
+
+ Concept — Cystoscopy remains indispensable because every adjunct trades one property for another:
+ cytology is specific for high-grade disease but blind to low grade, and urine markers are more sensitive but
+ not specific enough — so a positive adjunct triggers investigation and a negative one never excludes.
+
+ PATHOLOGY
+  • Numerous benign bladder tumours exist, each with its own presentation and disease burden.
+
+ Epithelial Metaplasia
+  • A focal area of transformed urothelium with normal nuclear and cellular morphology, typically on the
+    trigone; squamous or glandular.
+  • Glandular metaplasia: raised, red, inflammatory clumps that can be mistaken for cancer.
+  • Squamous metaplasia: common — up to 40% of females and 5% of males; associated with UTI, trauma
+    and prior surgery.
+  • No biopsy needed; no treatment required or effective.
+
+ Papilloma and Inverted Papilloma
+  • Inverted papilloma: benign proliferative lesion associated with chronic inflammation or bladder outlet
+    obstruction; anywhere in the bladder but commonest on the trigone; <1% of bladder tumours.
+    Presents with painless gross haematuria (commonest), microscopic haematuria or irritative symptoms.
+  • Endophytic growth into the lamina propria forming nests and anastomosing trabeculae. When strictly
+    defined (no cytological atypia) it behaves benignly, with about 1% recurrence.
+
+
+
+                                                  page 10 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                                   Pathology
+  • Urothelial papilloma: delicate stalks lined by normal-appearing urothelium; formerly classed as low-
+    grade Ta cancer, now benign with no invasive risk. It carries fibroblast growth factor receptor 3
+    (FGFR3) mutations but lacks TP53 and RB mutations.
+
+ Nephrogenic Adenoma
+  • Caused by chronic urothelial irritation: trauma, prior surgery, renal transplantation, intravesical
+    chemotherapy, stones, catheters, infection.
+  • Glandular tubules resembling renal tubules in the mucosa and submucosa; cystoscopically may look
+    papillary and mimic an aggressive neoplasm.
+  • Causes dysuria and haematuria; recurrence is uncommon and managed by repeat resection.
+
+ Leukoplakia
+  • Keratinising squamous metaplasia with white, flaky plaques floating in the bladder; if not incidental,
+    presents with recurrent infection, urgency and frequency. The mucosa is chronically inflamed.
+  • Premalignant on other squamous surfaces, but not in the bladder: historical reports called it
+    premalignant, but DNA analysis for TP53 found no evidence of premalignancy, and it is no longer an
+    independent risk factor → further cystoscopy, biopsy and treatment are unnecessary.
+
+ Cystitis Cystica and Glandularis
+  • Common in normal bladders, associated with inflammation or chronic obstruction; cystic nests lined by
+    columnar or cuboidal cells, arising from proliferating von Brunn nests.
+  • Cystitis glandularis can transform to adenocarcinoma, though the risk is low → regular endoscopic
+    evaluation.
+  • Treatment: transurethral resection and relief of the obstruction or inflammation.
+ BENIGN BLADDER LESIONS COMPARED
+
+  Lesion              Setting                   Hallmark                   Malignant potential Management
+  Epithelial          Trigone; UTI, trauma,     Normal nuclei; glandular   None                Nothing
+  metaplasia          surgery                   type mimics cancer
+  Inverted            Trigone;                  Endophytic nests, no       Benign; 1%          Resection
+  papilloma           inflammation,             atypia                     recurrence
+                      outflow obstruction
+  Urothelial          —                         Delicate stalks, normal    None (formerly LG   Resection
+  papilloma                                     urothelium; FGFR3+,        Ta)
+                                                TP53/RB wild type
+  Nephrogenic         Irritation, transplant,   Renal tubule-like glands   None; recurrence    Repeat resection
+  adenoma             catheters                                            uncommon
+  Leukoplakia         Chronic inflammation      Floating white keratin     Not premalignant    No further treatment
+                                                flakes                     (disproven)
+  Cystitis            Inflammation,             Von Brunn nest             Low —               Resect, treat cause,
+  glandularis         obstruction               proliferation              adenocarcinoma      endoscopic
+                                                                                               surveillance
+
+ Concept — Benign bladder lesions are almost all reactive responses to chronic irritation; the clinical task
+ is to recognise the mimic, and only cystitis glandularis retains a malignant potential worth surveillance.
+
+
+
+
+                                                           page 11 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                 Precursor Malignant Lesions
+
+ PRECURSOR MALIGNANT LESIONS
+  • Normal urothelium: four to seven cells thick, transitional between nonkeratinising squamous and
+    pseudostratified columnar epithelium, maturing in order from small cuboidal basal cells →
+    intermediate cells → superficial umbrella cells. Umbrella cells may show nuclear atypia and form the
+    urine–blood barrier that protects deeper cells from toxins.
+  • A continuum: hyperplasia → atypia → dysplasia → cancer. The 2004 WHO classification lists
+    premalignant lesions as urothelial hyperplasia (flat and papillary), reactive atypia, urothelial atypia of
+    unknown significance, urothelial dysplasia and low-grade intraurothelial neoplasia.
+  • Urothelial hyperplasia: flat or papillary; mucosa ≥10 cell layers; nuclei may be slightly enlarged but no
+    atypia and no mitoses. Not malignant in isolation but often accompanies neoplasia. Flat hyperplasia
+    may precede low-grade papillary tumours (FGFR3 mutation; loss of heterozygosity at 3q, 5q, 10q, 13q
+    and 17p). Papillary hyperplasia is cystoscopically indistinguishable from, and often adjacent to, low-
+    grade papillary tumours.
+  • Reactive atypia: nuclear abnormality on an inflamed background (chronic inflammation, regeneration,
+    noxious stimuli), presenting with irritative symptoms; oedematous and inflamed endoscopically. Nuclei
+    may be enlarged, but maturation and nuclear polarity are preserved. Not independently malignant,
+    but coexists with dysplasia and CIS → investigate rigorously.
+  • Atypia of unknown significance (AUS): used when reactive versus premalignant is unclear; lamina
+    propria inflammation with atypia disproportionate to the inflammation. CK20 and CD44
+    immunostaining help separate it from dysplasia. Not independently progressive; limited clinical utility.
+  • Urothelial dysplasia: normal thickness with loss of cytoplasmic clearing (basal and intermediate cells),
+    loss of polarity, nuclear enlargement, hyperchromasia and membrane irregularity; lamina propria
+    usually normal. CK20 and p53 staining highlight dysplastic cells. Umbrella cells are retained. A marker
+    of urothelial instability: 14–19% progress de novo, but with a prior bladder cancer dysplasia leads to
+    CIS in 60%.
+ FLAT UROTHELIAL LESIONS COMPARED
+
+                    Hyperplasia Reactive atypia        AUS                   Dysplasia         CIS
+  Thickness         ≥10 layers      Variable,          Variable              Normal            Variable
+                                    oedematous
+  Atypia            None            Proportionate to   Disproportionate to   Moderate          Severe
+                                    inflammation       inflammation
+  Polarity /        Preserved       Preserved          —                     Lost              Lost; noncohesive
+  maturation
+  Umbrella cells Present            Present            Present               Present           Lost
+  Staining          —               —                  CK20, CD44            CK20, p53         —
+  Malignant         None alone      None alone         None                  14–19%; 60% →     Precursor of high-
+  potential                                                                  CIS if prior      grade invasion
+                                                                             cancer
+
+ Concept — Flat lesions are graded on two questions: is the atypia out of proportion to inflammation, and
+ are maturation, polarity and umbrella cells preserved? Loss of polarity marks dysplasia; loss of umbrella
+ cells marks CIS.
+
+
+
+
+                                                       page 12 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                         Malignant Lesions
+
+ MALIGNANT LESIONS
+  • Urothelial carcinoma is the commonest malignancy of the urinary tract and the second commonest
+    cause of death among genitourinary tumours.
+  • NMIBC comprises about 70% of bladder urothelial carcinoma: low- and high-grade noninvasive
+    papillary tumours, CIS, and lamina propria invasion (T1).
+  • CIS: flat, noninvasive, high grade; severe atypia, loss of polarity, noncohesive large pleomorphic cells
+    with clumped chromatin and abnormal mitoses. Loss of umbrella cells separates it from dysplasia. Its
+    genetics (RB, TP53, PTEN) resemble high-grade invasive tumours — hence a precursor of invasive
+    carcinoma — and it has no FGFR3 mutations, a lineage distinct from low-grade papillary tumours. CIS
+    with an invasive tumour carries a 45–65% 5-year mortality.
+  • Papillary urothelial neoplasm of low malignant potential (PUNLMP): very good prognosis, and
+    whether it is "cancer" is debated. Papillary, >7 cells thick, minimal atypia, generally solitary, typically on
+    the trigone; polarity maintained, nuclei mildly enlarged. Recurrences are nearly always PUNLMP or low
+    grade; rare high-grade recurrences may be new tumours rather than progression.
+  • Low-grade urothelial carcinoma: papillary with a fibrovascular stalk and frequent branching, enlarged
+    cells, some atypia, occasional mitoses; chromosome 9 alterations almost universal, with FGFR3, PI3K
+    or RAS mutations.
+  • High-grade papillary carcinoma: fused papillae, disordered growth, numerous mitoses, pleomorphic
+    cells with exaggerated nuclei; more than 80% invade the stroma if untreated — a precursor of invasive
+    high-grade cancer.
+ THE NONINVASIVE SPECTRUM COMPARED
+
+                                                                       High-grade
+                  PUNLMP                       Low-grade Ta            papillary          CIS
+  Architecture Papillary, >7 cells             Papillary, branching    Fused papillae,    Flat
+                                               stalks                  disordered
+  Atypia          Minimal                      Some                    Marked             Severe
+  Genetics        TERT promoter and FGFR3 in   Chromosome 9;           —                  RB, TP53, PTEN; no
+                  >60%; HRAS low (3% vs 33%)   FGFR3, PI3K or RAS                         FGFR3
+  Recurrence      About 20% at 5 years         48–71%                  —                  —
+  Progression     <1% to MIBC                  2–12%                   >80% invade if     45–65% 5-year
+                                                                       untreated          mortality with invasive
+                                                                                          tumour
+
+ Concept — Two lineages run through the noninvasive spectrum: FGFR3-driven papillary tumours
+ (PUNLMP, low-grade Ta) recur but rarely progress, whereas TP53/RB-driven high-grade tumours (CIS,
+ high-grade papillary) progress. Grade, not recurrence, predicts danger.
+
+ STAGING
+  • American Joint Committee on Cancer (AJCC), with the Union for International Cancer Control (UICC),
+    sets the tumour, nodes, metastases (TNM) classification; the 2017 system is current.
+  • Stage groups in outline: NMIBC = stage 0 (noninvasive) and stage I (subepithelial connective tissue);
+    stage II muscle-invasive, organ confined; stage III muscle-invasive, locally advanced; stage IV
+    metastatic.
+  • 2017 change: nodal disease without systemic metastasis is now stage III; earlier editions made any
+    positive node stage IV.
+
+
+                                                    page 13 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                                Staging
+  • T1 subcategorisation into T1a (superficial) and T1b (deep) lamina propria invasion, relative to the
+    muscularis mucosae, is recommended to stratify a heterogeneous group: about 50% of T1 tumours are
+    upstaged to ≥T2 and about a third to non-organ-confined disease at cystectomy. Deeper lamina
+    propria invasion means worse survival.
+  • T2a (inner half) versus T2b (outer half) of the muscularis propria: prognostic significance is
+    controversial and complicated by TURBT sampling, so both are treated alike (stage II).
+  • T3: perivesical fat — T3a microscopic, T3b macroscopic. T4a: prostatic stroma, uterus or vagina. T4b:
+    pelvic or abdominal wall.
+ NMIBC RISK GROUPS
+
+  Risk group             Definition
+  Low                    Primary (not recurrent), solitary, low-grade Ta, <3 cm
+  Intermediate           Low-grade Ta that is multiple and/or recurrent and/or large (>3 cm)
+  High                   Any high-grade feature — CIS or T1
+
+ TABLE 129.2 UPDATED 2017 AMERICAN JOINT COMMITTEE ON CANCER STAGING SYSTEM (Amin et al., 2017)
+
+  Stage     T                    N             M     Meaning
+  0a        Ta                   N0            M0    Noninvasive papillary
+  0is       Tis                  N0            M0    Flat CIS, confined to the lining
+  I         T1                   N0            M0    Subepithelial connective tissue, not muscle
+  II        T2a or T2b           N0            M0    Inner or outer muscle, not through it
+  IIIA      T3a, T3b, T4a        N0            M0    Perivesical fat, or prostate, uterus, vagina
+            T1–T4a               N1            M0    Single node in the true pelvis
+  IIIB      T1–T4a               N2 or N3      M0    ≥2 true pelvic nodes (N2) or common iliac nodes (N3)
+  IVA       T4b                  Any N         M0    Pelvic or abdominal wall
+            Any T                Any N         M1a   Distant lymph nodes
+  IVB       Any T                Any N         M1b   Distant organs — bone, liver, lung
+
+  • What the table is for: to fix where each anatomical boundary falls. Pattern: T1–T4a with any regional
+    node is stage III; only T4b, distant nodes (M1a) or organ metastases (M1b) are stage IV. Trap: common
+    iliac nodes are N3 (stage IIIB), not M1a.
+
+ Prostatic urethral involvement
+  • Prostatic urethral urothelial cancer accompanies bladder cancer in 90% of cases, but among primary
+    bladder cancers urethral involvement is rare (about 3%); most is CIS.
+  • Mucosal extension without stromal invasion is not adverse, but it is hard to treat with intravesical
+    therapy — hence more prostatic urethral CIS in patients receiving frequent intravesical therapy.
+  • Prostatic stromal invasion, especially direct transmural extension from the bladder, carries a poor
+    prognosis (historic 5-year overall survival <25%) → only stromal invasion is T4.
+ Concept — Local stage turns on two muscle landmarks — the muscularis mucosae (T1a versus T1b) and
+ the muscularis propria (NMIBC versus MIBC) — and since 2017 regional nodes are a regional (stage III),
+ not systemic (stage IV), problem.
+
+
+
+
+                                                       page 14 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                                 Molecular Biology
+
+ MOLECULAR BIOLOGY
+  • Recurrent alterations: FGFR3, the phosphoinositide 3-kinase (PI3K) pathway, mitogen-activated protein
+    kinase (MAPK) signalling, cell cycle regulation, and hedgehog and WNT signalling.
+  • Cell cycle genes, mutated especially in MIBC: RB1 and CDKN2A inactivation is common; p53
+    inactivation in up to 76% of MIBC (The Cancer Genome Atlas, TCGA); RB1 loss drives amplification and
+    overexpression of the oncogene E2F3.
+  • FGFR3 — the NMIBC hallmark, with deletions of 9p and 9q: activating point mutations in up to 80% of
+    low-grade Ta versus 10–20% of MIBC. Normal urothelium expresses the IIIb isoform (binds FGF1); a
+    switch to IIIc may drive oncogenesis by autocrine and paracrine signalling. FGFR3 fusions with TACC3
+    or BAI1 are highly activated oncoproteins.
+  • MAPK — RAS (HRAS or KRAS): first identified in the T24 bladder cancer cell line; mutually exclusive
+    with FGFR3 because both lie on the RAS–MEK–ERK pathway; unlike FGFR3, equally frequent in NMIBC
+    and MIBC.
+  • PI3K — PIK3CA point mutations in 25% of NMIBC, fewer in MIBC; they co-occur with FGFR3. PTEN
+    negatively regulates PI3K; PTEN loss in MIBC accompanies TP53 alteration and poor prognosis. Dual
+    deletion of p53 and PTEN produces metastatic bladder cancer in transgenic mice; PTEN's protein (not
+    lipid) phosphatase activity restrains invasion and metastasis.
+  • WNT/β-catenin cooperates with PI3K/PTEN: organoid cultures show its role in proliferation, and
+    activated β-catenin with PTEN deletion promotes bladder cancer.
+ DRIVER GENES — NMIBC VERSUS MIBC
+
+  Gene            Pathway                           NMIBC               MIBC               Key point
+  FGFR3           Receptor tyrosine kinase →        Up to 80% (low-     10–20%             IIIb → IIIc switch; TACC3/BAI1
+                  RAS–MEK–ERK                       grade Ta)                              fusions
+  HRAS /          MAPK                              Equal                                  Mutually exclusive with
+  KRAS                                                                                     FGFR3
+  PIK3CA          PI3K                              25%                 Less               Co-occurs with FGFR3
+  TP53            Cell cycle                        —                   Up to 76%          With PTEN loss → metastasis
+  RB1,            Cell cycle                        —                   Common             RB1 loss → E2F3
+  CDKN2A                                                                                   overexpression
+  PTEN            PI3K (negative regulator)         —                   Downregulated Poor prognosis
+
+ THE CLASSICAL TWO-PATHWAY MODEL
+
+                    Papillary pathway                                          Flat pathway
+  Origin            Urothelial proliferation (hyperplasia)                     Dysplasia
+  Product           Low-grade noninvasive papillary                            CIS → high-grade invasive
+  Genetics          FGFR3; low total mutational burden                         TP53, RB
+
+  • Superseded by expression subtypes: genome-wide expression and sequencing have identified clear
+    driver genes and molecular subclasses that are agnostic to conventional stage and grade.
+  • TCGA (2014): mRNA, microRNA and protein profiling of MIBC identified four clusters resembling breast
+    cancer intrinsic subtypes, confirmed by Lund, MD Anderson (MDA) and the University of North
+    Carolina (UNC); the systems overlap along a luminal–basal axis.
+  • MDA "p53-like": a luminal subgroup that is chemoresistant with poor prognosis. UNC "claudin-low":
+    enriched for RB1, EP300 and NCOR1, with low FGFR3, KDM6A and PPARG; immune infiltrated yet
+    actively immunosuppressed → candidates for FDA-approved checkpoint inhibitors.
+
+
+                                                        page 15 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                                   Molecular Biology
+  • TCGA follow-up (412 MIBC): five expression subtypes (Fig. 129.15) and an APOBEC-driven high-
+    mutational-load subset (APOBEC: cytidine deaminases involved in mRNA editing) with markedly better
+    5-year survival than typical MIBC.
+  • Consensus classification (2020): reconciled existing schemas into six classes (Fig. 129.16).
+ LUMINAL VERSUS BASAL PHENOTYPE
+
+                           Luminal                                           Basal / squamous
+  Markers                  High FGFR3, GATA3, KRT20, PPARG expression        CK5, CK6, CK14; low FOXA1 and GATA3
+  Transcription factors PPARG, RXRA, GATA3, FOXA1                            STAT3, FOXM1
+  Actionable targets       FGFR3, ERBB2                                      EGFR; immune checkpoints
+  Behaviour                Less aggressive                                   More aggressive; squamous differentiation
+
+ Fig. 129.14 — Molecular subtypes compared across classification systems (Compérat et al., 2018).
+  • UNC (luminal, basal), MDA (luminal, p53-like, basal), TCGA 2014 (clusters I–IV) and Lund (urothelial-like
+    A, genomically unstable, infiltrated, SCC-like, urothelial-like B) map onto one another; Lund alone
+    covers NMIBC as well as MIBC.
+ FIG. 129.15 TCGA EXPRESSION SUBTYPES AND PROPOSED THERAPY (Robertson et al., 2017)
+
+  Subtype          Features                                                        Proposed approach
+  Luminal-         FGFR3 mutation, fusion, amplification; papillary histology;     FGFR3 inhibitors; neoadjuvant
+  papillary        sonic hedgehog (SHH)+; low CIS; low risk                        chemotherapy (NAC) — low predicted
+                                                                                   response
+  Luminal-         Low purity; epithelial–mesenchymal transition (EMT)             Anti-PD-L1, PD-1, CTLA-4; cisplatin
+  infiltrated      markers; miR-200; medium PD-L1, CTLA-4; myofibroblast           NAC has a low response rate
+                   markers; wild-type p53
+  Luminal          Uroplakins, KRT20, SNX31                                        Targeted therapy (uncertain)
+  Basal/           KRT5/6/14+, GATA3−, FOXA1−; female; squamous                    Cisplatin-based NAC; anti-PD-L1,
+  squamous         differentiation; high PD-L1, CTLA-4; immune infiltrates         PD-1, CTLA-4
+  Neuronal         SOX2, DLX6, MSI1, PLEKHG4B; E2F3/SOX4 amplification;            Etoposide–cisplatin NAC
+                   high cell cycle
+
+ FIG. 129.16 CONSENSUS CLASSIFICATION OF MOLECULAR SUBTYPES OF BLADDER CANCER (Kamoun et al., 2020)
+
+                                                                                                                 Median
+                                                                                 Infiltrate / histology /        OS
+  Class (% of MIBC)         Differentiation    Key alterations                   clinical                        (years)
+  Luminal papillary         Urothelial/        FGFR3+, PPARG+, CDKN2A−;          Papillary morphology; T2        4
+  (24%)                     luminal            FGFR3 40%, KDM6A 38%              stage
+  Luminal nonspecified Urothelial/             PPARG+; ELF3                      Fibroblasts; micropapillary 1.8
+  (8%)                 luminal                                                   variant; older patients (80+)
+  Luminal unstable          Urothelial/        PPARG+, E2F3+, ERBB2+;            —                               2.9
+  (15%)                     luminal            genomic instability; TP53,
+                                               ERCC2; high tumour
+                                               mutational burden, APOBEC
+  Stroma-rich (15%)         Intermediate       —                                 Smooth muscle, fibroblasts,     3.8
+                                                                                 myofibroblasts; B cells
+  Basal/squamous            Basal              EGFR+; TP53, RB1                  CD8 T cells, natural killer     1.2
+  (35%) — commonest                                                              cells; squamous
+                                                                                 differentiation; women,
+                                                                                 T3/T4
+
+
+                                                       page 16 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                     Histologic Variants of Urothelial Carcinoma
+
+                                                                                                             Median
+                                                                          Infiltrate / histology /           OS
+  Class (% of MIBC)         Differentiation    Key alterations            clinical                           (years)
+  Neuroendocrine-like       Neuroendocrine TP53 and RB1 loss (94% have    Neuroendocrine                     1—
+  (3%)                                     RB1 mutation or deletion);     differentiation                    worst
+                                           cell cycle+
+
+  • What the table is for: to link subtype to behaviour and treatment. Pattern: survival falls from luminal
+    papillary (best) to basal/squamous and neuroendocrine-like (worst). Trap: the micropapillary variant
+    sits in a luminal class, and basal/squamous — the commonest class — is enriched in women.
+
+   KEY POINTS
+    • Genome-wide expression and sequencing have identified clear driver genes and pathways.
+    • An emerging molecular taxonomy is broadly defined by urothelial cell type.
+    • Luminal: high levels of FGFR3, GATA3, KRT20 and PPARG.
+    • Basal: squamous differentiation, CK5, CK6 and CK14 expression, and low FOXA1 and GATA3 RNA and
+      protein.
+
+ Concept — The papillary-versus-flat model has given way to expression subtypes along a luminal–basal
+ axis that predict behaviour and candidate therapy independent of stage and grade: luminal papillary is
+ indolent and FGFR3-targetable; basal/squamous is aggressive but immune-infiltrated and cisplatin-
+ responsive; neuroendocrine-like is worst.
+
+ HISTOLOGIC VARIANTS OF UROTHELIAL CARCINOMA
+  • Formerly "transitional cell carcinoma" because of its propensity to differentiate into other tumour
+    types — SCC, adenocarcinoma, clear cell carcinoma.
+  • The variant spectrum now includes distinct growth patterns, altered differentiation, stromal reactions
+    and unique responses to treatment and external stimuli.
+
+ Micropapillary Variant
+  • 0.7–2.2% of urothelial tumours (first described 1994); strong male predominance.
+  • Advanced at diagnosis: more than half are T3 or T4, and survival is lower than with other histologies.
+    Even at lower stage it carries a high progression rate from NMIBC to MIBC and high subsequent
+    metastasis despite treatment.
+  • Histology: small tight clusters or thin papillae of atypical cells with eosinophilic to clear cytoplasm,
+    surrounded by prominent retraction artefact.
+  • Any amount of micropapillary component defines the tumour as micropapillary and dictates
+    management.
+  • Surgery is the most effective therapy at all stages: transurethral resection plus bacillus Calmette–
+    Guérin (BCG) is ineffective unless the tumour is completely resected, and early cystectomy is
+    encouraged for NMIBC (better cancer-specific survival than TUR plus BCG). In MIBC, NAC appears
+    ineffective → immediate cystectomy.
+  • Molecular: ERBB2 amplification, activation of miR-296 and RUVBL1 targets; evolves through a luminal
+    pathway (PPAR-γ enrichment, p63 suppression); a subset with wild-type p53 activation is the most
+    aggressive.
+
+
+
+
+                                                       page 17 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                            Histologic Variants of Urothelial Carcinoma
+ Sarcomatoid Variant
+  • 0.3–0.6% of bladder cancers; carcinosarcoma and sarcomatoid carcinoma, once separate, share a
+    common clonal origin.
+  • Large infiltrative masses at higher stage; poor cancer-specific survival, and worse than pure urothelial
+    carcinoma stage for stage.
+  • Poor chemotherapy response → immediate radical cystectomy where feasible, sometimes with
+    intraoperative radiation therapy (IORT).
+
+ Plasmacytoid Variant
+  • <1% of urothelial tumours; the 2016 WHO classification includes the signet ring variant (cytoplasmic
+    vacuoles with or without mucin).
+  • Histology: eosinophilic cytoplasm with eccentric, enlarged, hyperchromatic nuclei.
+  • Advanced at presentation, with deep muscle and perivesical invasion and characteristic intraperitoneal
+    spread; driven by truncating CDH1 alterations (84% in one study).
+  • Chemosensitive → NAC whenever possible, but relapse is common; median survival in nonmetastatic
+    disease about 1.5 years (17.7 months).
+
+ Nested Variant
+  • Rare but aggressive; male-to-female ratio 6:1.
+  • Mimics benign lesions: von Brunn nests, cystitis cystica, inverted papilloma.
+  • Typically upstaged at cystectomy and locally advanced at presentation, yet stage-matched outcomes
+    resemble pure urothelial carcinoma.
+
+ Urothelial Carcinoma With Divergent Differentiation
+  • Squamous differentiation is reported in 16–22% and probably underestimated — up to 60% have
+    squamous elements; underreporting obscures its prognostic effect. It is associated with the basal
+    subtype, more advanced stage and focal aggressiveness, and with recurrence and progression.
+  • Glandular differentiation (small tubular or gland-like spaces) in about 10%: associated with high stage
+    and clinical-to-pathological upstaging, but recurrence-free and overall survival match conventional
+    urothelial carcinoma.
+ HISTOLOGICAL VARIANTS COMPARED
+
+  Variant              Frequency      Hallmark                  Molecular        Chemosensitive?         Management
+  Micropapillary       0.7–2.2%       Retraction artefact;      ERBB2            No                      Early cystectomy,
+                                      any amount counts         amplification;                           even NMIBC
+                                                                luminal
+  Sarcomatoid          0.3–0.6%       Large infiltrative mass   Common clonal    Poor                    Immediate
+                                                                origin                                   cystectomy ± IORT
+  Plasmacytoid         <1%            Eccentric nuclei;       CDH1               Yes (relapse            NAC whenever
+                                      intraperitoneal         truncation         common)                 possible
+                                      spread; includes signet
+                                      ring
+  Nested               Rare; M:F      Mimics von Brunn          —                —                       As stage-matched
+                       6:1            nests                                                              urothelial
+                                                                                                         carcinoma
+  Squamous             16–22% (up Basal subtype                 Basal            —                       Associated with
+  differentiation      to 60%)                                                                           recurrence and
+                                                                                                         progression
+
+
+                                                         page 18 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                  Nonurothelial Malignancy
+
+  Variant              Frequency      Hallmark                  Molecular   Chemosensitive?   Management
+  Glandular            About 10%      Gland-like spaces         —           —                 Outcome as
+  differentiation                                                                             conventional
+
+ Concept — Altered growth patterns (micropapillary, sarcomatoid, plasmacytoid) behave worse than their
+ stage and push towards early surgery or variant-specific chemotherapy, whereas divergent differentiation
+ and the nested pattern mostly reflect stage at presentation. Chemosensitivity is variant specific:
+ plasmacytoid responds; micropapillary and sarcomatoid do not.
+
+ NONUROTHELIAL MALIGNANCY
+ Small Cell Carcinoma
+  • A rare, poorly differentiated neuroendocrine neoplasm, primarily of lung but also prostate and
+    bladder.
+  • Presentation: usually haematuria; paraneoplastic hypercalcaemia, Cushing syndrome and sensory
+    neuropathy reported.
+  • Histology (Fig. 129.19): sheets and nests of basophilic cells with high nuclear-to-cytoplasmic ratio,
+    resembling lung small cell; chromogranin and synaptophysin positive.
+  • Genetics: high somatic mutational burden (APOBEC-mediated); frequent TP53, RB1 and TERT promoter
+    mutations. Evolutionary studies suggest dedifferentiation from urothelial carcinoma, not a shared
+    lineage with lung small cell.
+  • Aggressive and chemosensitive → platinum-based chemotherapy first, regardless of stage; cisplatin
+    plus etoposide (the lung regimen) is the treatment of choice.
+  • Sequence matters: primary cystectomy gives poor disease-free survival not rescued by adjuvant
+    chemotherapy, whereas neoadjuvant chemotherapy yields markedly better cancer-specific survival.
+    One series found stage-matched outcomes similar to urothelial carcinoma, with a possible adjuvant
+    role.
+  • Chemoradiation, historically preferred and still advocated by some as trimodal therapy, is less
+    supported: chemotherapy plus cystectomy gives the highest response rates, and chemoradiation
+    needs further study.
+
+ Squamous Cell Cancer
+  • Chronic infection with S. haematobium or other bacteria causes SCC; in endemic countries SCC is the
+    majority of bladder cancer, with its own growth pattern and algorithm. In the US and Europe it is 2–5%.
+  • Chronic inflammation is central: SCC in catheterised spinal cord injury patients has fallen substantially
+    with the move to intermittent self-catheterisation, supporting the role of infection and foreign bodies.
+  • Presentation: fewer nodal and distant metastases but more advanced local stage than urothelial
+    carcinoma.
+  • Radical cystectomy is the mainstay; NAC has no consensus. Preoperative radiation worsened survival
+    (1970s–1980s) → use only if cystectomy is not planned. Adjuvant therapy and IORT lack consensus.
+  • Molecular data are limited, mainly schistosomal; FGF2 is associated with aggressive features and worse
+    outcome after cystectomy.
+
+ Adenocarcinoma
+  • Primary (pure glandular phenotype from bladder urothelium) or secondary — metastasis or, more
+    commonly, direct extension from colon, prostate, endometrium or cervix. Urachal adenocarcinoma
+    shares pathological and clinical features.
+
+
+                                                          page 19 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                                       Nonurothelial Malignancy
+  • Risk factors: bladder exstrophy, schistosomiasis, chronic irritation or obstruction.
+  • Secondary is commoner than primary → exclude another source; the authors perform colonoscopy
+    whenever adenocarcinoma is found. Histology shows cribriform and glandular architecture (Fig.
+    129.21).
+  • Most primary tumours are muscle invasive → radical cystectomy is standard. There are no level 1 data
+    for neoadjuvant or adjuvant chemotherapy or radiation; methotrexate, vinblastine, doxorubicin
+    (Adriamycin) and cisplatin (MVAC) or gemcitabine–cisplatin (GC) give little benefit; 5-fluorouracil plus
+    cisplatin is often used by analogy with other adenocarcinomas.
+
+ Urachal Adenocarcinoma
+  • About one-third of bladder adenocarcinomas; arises from the allantoic remnant connecting bladder to
+    umbilical cord. Although urachal remnants are lined by urothelium, the cancer is almost always
+    adenocarcinoma.
+  • 2016 WHO diagnostic criteria: located in the dome or anterior wall with the epicentre in the bladder
+    wall; no widespread cystitis cystica/glandularis; secondary source excluded.
+  • TNM is unsuitable (nearly all are muscle invasive by location) → Sheldon staging.
+  • Treatment: en bloc resection of the bladder dome, urachal ligament and umbilicus.
+ SHELDON STAGING OF URACHAL CARCINOMA
+
+  Stage                      Extent
+  I                          Confined to urachal mucosa
+  II                         Confined to the urachus
+  IIIA / IIIB / IIIC         Local extension into bladder / abdominal wall / peritoneum
+  IV                         Metastatic
+
+ NONUROTHELIAL MALIGNANCIES COMPARED
+
+                                                                                                  Urachal
+                        Small cell               Squamous cell           Adenocarcinoma           adenocarcinoma
+  Frequency /           Rare                     2–5% West; majority     Secondary > primary      One-third of
+  setting                                        where                                            adenocarcinomas
+                                                 schistosomiasis
+                                                 endemic
+  Aetiology             Dedifferentiated         Chronic infection,      Exstrophy,               Allantoic remnant
+                        urothelial carcinoma     catheters               schistosomiasis,
+                                                                         irritation
+  Hallmark              Chromogranin,            Locally advanced, few   Must exclude colon,      Dome; Sheldon
+                        synaptophysin;           metastases              prostate, uterine        staging
+                        paraneoplastic                                   source
+  First-line            Cisplatin–etoposide      Radical cystectomy      Radical cystectomy       En bloc dome,
+  treatment             first, then cystectomy                                                    urachus, umbilicus
+                        or radiation
+  Chemotherapy /        Chemosensitive           No consensus;           No level 1 data; 5-      —
+  radiation                                      preoperative            fluorouracil–cisplatin
+                                                 radiation harmful
+
+
+      KEY POINTS
+       • Eighty percent of urothelial carcinomas contain some mixed differentiation, most commonly
+         squamous.
+
+
+                                                       page 20 of 21
+Chapter 129 — Tumours of the Urinary Bladder                                              Nonurothelial Malignancy
+    • Altered growth patterns, particularly micropapillary, carry a poor prognosis even in non-muscle-
+      invasive disease; the nested variant presents at advanced stage.
+    • NAC appears active in mixed tumours containing adenocarcinoma or SCC, but not against altered
+      growth patterns such as micropapillary and nested urothelial cancer.
+    • Small cell carcinoma should be treated as metastatic disease: chemotherapy first, then radiation or
+      surgery for local control.
+
+ Concept — Each nonurothelial cancer is defined by its origin: small cell is treated systemically first, SCC
+ and adenocarcinoma surgically first, and any bladder adenocarcinoma must be proven primary before it
+ is treated as bladder cancer.
+
+
+
+
+                                                 page 21 of 21
+

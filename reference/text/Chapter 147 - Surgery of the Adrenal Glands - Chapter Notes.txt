@@ -1,0 +1,612 @@
+Chapter 147 — Surgery of the Adrenal Glands                                                     HISTORY OF ADRENAL SURGERY
+
+Chapter 147 — Surgery of the Adrenal Glands
+HISTORY OF ADRENAL SURGERY
+ • First printed description of the adrenal glands: Eustachius, mid-1500s. More than three centuries passed
+   before the first surgical excision.
+ • 1889, Thornton — first reported adrenal excision: performed as an "abdominal nephrectomy" for a very
+   large tumour that proved to be adrenal and hormonally active, through a T-shaped subcostal (chevron or
+   hemi-chevron) incision.
+ • 1905 — first adrenalectomy for a preoperative diagnosis of adrenal pathology ("enlarged" glands). 1934
+   — first series of adrenalectomies, all for Cushing syndrome, with mixed pathology (carcinoma,
+   hyperplasia, adenoma and normal glands).
+ • Preoperative steroid cover for Cushing syndrome was the greatest early advance: operative mortality,
+   previously substantial even after subtotal excision, fell to zero once steroids were given preoperatively
+   (reported 1949).
+ • Imaging refined selection: ultrasonography (US), computed tomography (CT), magnetic resonance
+   imaging (MRI) and [131I]-meta-iodobenzylguanidine (MIBG) scintigraphy separated patients who benefit
+   from surgery from those who do not.
+ • Access migrated cephalad as the goal shifted from metabolic control to tumour excision: subcostal →
+   flank with 11th or 12th rib resection → 1932: transpleural, transdiaphragmatic long posterior intercostal
+   incision, forerunner of the thoracoabdominal incision — virtually unparalleled exposure at the price of
+   thoracic complications and a painful, protracted recovery. Anterior, posterior, flank, transperitoneal and
+   retroperitoneal approaches all retain advocates and critics.
+ • Open surgery was the gold standard for about a century, until 1992. Since then, surgical adrenal disease
+   has been synonymous with minimally invasive surgery (MIS), with very few exceptions.
+
+MINIMALLY INVASIVE MILESTONES
+ Year              Milestone
+ 1992              First laparoscopic adrenalectomy — transperitoneal, Canada (Gagner)
+ 1999              First robot-assisted adrenalectomies — two European centres, AESOP platform (now obsolete)
+ 2002              First da Vinci adrenalectomy — United States urologists (one phaeochromocytoma, one benign
+                   adenoma)
+ 2008              First single-port adrenalectomy — one skin incision, three fascial ports, no dedicated device; led to
+                   laparoendoscopic single-site surgery (LESS) devices
+ 2018 / 2020 /     Single-port (SP) da Vinci approved by the Food and Drug Administration (FDA) / first SP procedures /
+ 2022              first reported
+
+ • Outlook: numerous robotic platforms now in use; artificial intelligence (AI), augmented reality (AR) and
+   three-dimensional simulation anticipated.
+Concept — the history is a double migration — the incision moved cephalad as the aim moved from
+metabolic control to tumour excision, then the approach became minimally invasive — but the first advance
+that made adrenalectomy safe was hormonal (steroid cover), not technical.
+
+BRIEF ANATOMY OF ADRENAL GLAND
+ • Paired retroperitoneal (RP) organs within Gerota's fascia, on the superomedial aspect of each kidney; 3–
+   5 cm transverse, about 5 g each.
+
+
+                                                        page 1 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                                  INDICATIONS FOR ADRENAL SURGERY
+ • Cortex: bright yellow-orange, finely granular, firm — distinguishes it from surrounding fat. Medulla: dark
+   red, more friable, not visible surgically.
+
+RIGHT VERSUS LEFT ADRENAL GLAND
+ Feature               Right                                              Left
+ Shape                 Pyramidal                                          Crescentic
+ Position              Above upper pole of right kidney, between          Superomedial to left kidney, lateral to aorta
+                       liver and diaphragm
+ Relations             Bare area of the liver, separated only by a thin   Lesser-sac peritoneum over superior half of
+                       fibrous layer (fused to liver in ~10%);            anterior surface (separates it from gastric cardia
+                       duodenum anteromedially; inferior vena cava        and spleen); no peritoneum inferiorly, where
+                       (IVC) medially; diaphragm posteriorly; kidney      pancreas body and splenic artery and vein lie
+                       inferiorly                                         anterior to the gland; medially coeliac ganglion,
+                                                                          left inferior phrenic and left gastric arteries on
+                                                                          the crus
+ Mobility              Less mobile                                        More mobile, more accessible
+ Vein                  Single, <1 cm; enters posterior IVC at 45°;        Single, longer; runs inferiorly, joined by inferior
+                       working length often gained only late in           phrenic vein, into left renal vein
+                       mobilisation
+ Venous variants       Into right hepatic vein or right renal vein        Into left phrenic vein first; or across aorta
+                                                                          directly into IVC
+
+ • Arterial supply — three arteries to each gland: superior adrenal (from inferior phrenic artery), middle
+   adrenal (from aorta), inferior adrenal (from renal artery). Accessory vessels from intercostal arteries and
+   the left gonadal artery.
+ • Lymphatics: lateral aortic chain from diaphragm to ipsilateral renal artery; may end in thoracic duct or,
+   after piercing the crura, posterior mediastinal nodes.
+Concept — three arteries but one vein: adrenalectomy is organised around the vein, and the right vein's
+shortness and direct caval entry make the right the more hazardous side.
+
+INDICATIONS FOR ADRENAL SURGERY
+ • Guidelines: American Association of Endocrine Surgeons (AAES) adrenalectomy guideline, 2022; American
+   Association of Clinical Endocrinologists (AACE)/AAES recommendations, 2009 — still widely practised.
+
+Adrenal Masses
+ • Incidentalomas occur in about 4% (range 1–8.7%) of the population.
+ • Hormonally active tumours (phaeochromocytoma, aldosteronoma) → excise regardless of size. All
+   suspected phaeochromocytomas and adrenocortical carcinomas (ACCs) → excise. <1 cm and non-
+   functioning → observe.
+ • Solid enhancing lesion may be a metastasis (primaries: lung, breast, melanoma, kidney, thyroid, colon —
+   ranked order under Surgery for Metastatic Lesions). With a known primary, strongly consider removal
+   when it is the solitary site of spread or will improve quality or quantity of life; low MIS morbidity has
+   made surgeons more aggressive, with encouraging results.
+
+Hormonally Active Lesions
+ • Adrenalectomy or partial adrenalectomy when systemic manifestations cannot be controlled medically.
+
+
+
+
+                                                          page 2 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                       CONTRAINDICATIONS TO ADRENAL SURGERY
+BOX 147.1 INDICATIONS FOR ADRENALECTOMY
+ Category                  Indication
+ Functional                Aldosterone-secreting adenoma (Conn syndrome); cortisol-secreting adenoma (Cushing
+                           syndrome); pituitary-dependent Cushing disease after failed trans-sphenoidal surgery;
+                           bilateral adrenal hyperplasia; phaeochromocytoma; androgen- or oestrogen-producing
+                           tumour causing virilisation or feminisation
+ Non-functional            Histologically confirmed ACC; symptomatic masses (cysts, myelolipomas); incidentalomas
+                           meeting size or imaging criteria; solitary metastasis from a non-adrenal primary
+ Size criteria             ≥4 cm; >2 cm growing ≥1 cm in 12 months; <1 cm growing >6–12 mm in 6–12 months (may
+                           be offered surgery)
+ Imaging criteria          >10 Hounsfield units (HU) on non-contrast CT; contrast CT washout <50% with delayed
+                           attenuation >35 HU; MRI chemical shift not consistent with adenoma; 18F-fluorodeoxyglucose
+                           positron emission tomography (FDG-PET) uptake present or greater than liver
+
+ • What the box tests: two independent routes to surgery — function (any size) and malignant potential
+   (size, growth, imaging phenotype).
+ • Trap: "bilateral adrenal hyperplasia" appears as a functional indication, yet bilateral hyperplasia causing
+   hyperaldosteronism is not surgically treatable — hence adrenal venous sampling before adrenalectomy
+   for aldosteronism.
+Concept — two gates lead to adrenalectomy: hormonal function, which mandates excision whatever the size,
+and malignant potential, judged by size, growth and imaging phenotype.
+
+CONTRAINDICATIONS TO ADRENAL SURGERY
+ Contraindication (correct before operating)                     Relative
+ Uncontrolled hypertension; uncontrolled coagulopathy;           Pregnancy
+ untreated bacterial peritonitis (for the transperitoneal
+ route)
+
+Uncontrolled Hypertension
+ • Blood pressure (BP) control is a priority before, during and after surgery — prevents myocardial events,
+   cerebrovascular accidents and renal barotrauma.
+ • Unopposed β-blockade is highly contraindicated until α-blockade is titrated and BP stable: loss of β2-
+   mediated vasodilatation leaves catecholamine-driven α-vasoconstriction unopposed → hypertensive
+   crisis, sometimes fatal.
+ • Other hypertensive adrenal conditions often need combinations — angiotensin-converting enzyme
+   inhibitors (ACE-Is), angiotensin II receptor blockers (ARBs), calcium-channel blockers (CCBs), diuretics, β-
+   blockers — to reduce lability and spikes.
+
+PREOPERATIVE BP CONTROL IN PHAEOCHROMOCYTOMA
+ Agent                                   Class                                  Place
+ Phenoxybenzamine                        Non-selective, non-competitive         Preferred
+                                         (irreversible) α-blocker
+ Prazosin, doxazosin, terazosin          Selective α1-blockers                  Acceptable; less desirable
+
+ CCBs                                    —                                      Reasonable alternative
+ Metyrosine                              —                                      Alternative; more adverse effects with
+                                                                                prolonged use
+
+
+
+                                                          page 3 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                                       THE INCIDENTALOMA
+
+ Agent                                   Class                             Place
+ β-blockers                              —                                 Only after adequate α-blockade
+
+Uncontrolled Coagulopathy
+ • Contraindication to most surgery; given adrenal vascularity, normalise platelets, bleeding time,
+   prothrombin time (PT), partial thromboplastin time (PTT) and international normalised ratio (INR) first.
+ • Low-dose aspirin (81 mg) does not increase intra- or postoperative bleeding; do not discourage it where
+   benefit outweighs risk.
+
+Untreated Bacterial Peritonitis
+ • Avoid transperitoneal surgery; an RP approach may be used, with great care not to breach the
+   peritoneum.
+ • Insufflation pressure (trans- or retroperitoneal) can exceed central and systemic venous pressure →
+   abdomino-venous or abdomino-lymphatic backflow → bacteraemia, sepsis. Eradicate infection first.
+
+Pregnancy (Relative)
+ • Defer elective adrenal surgery until after delivery. Phaeochromocytoma, cyst rupture or tumour
+   haemorrhage may compel surgery during pregnancy.
+ • Historical versus current view: second trimester was held safest (first → spontaneous abortion; third →
+   preterm labour). American College of Obstetricians and Gynecologists (ACOG) and Society of American
+   Gastrointestinal and Endoscopic Surgeons (SAGES) now advise that surgically necessary treatment is not
+   delayed, regardless of trimester.
+ • Open and MIS both acceptable; obstetric service aware, available and present.
+
+Past Medical and Surgical History Relevant to Adrenal Surgery
+ • Clues to prior or ongoing adrenal disease: hypertension (especially uncontrolled), easy bruising,
+   palpitations, headaches, hirsutism, stunted growth, anisomelia.
+ • Prior nephrectomy may have removed the ipsilateral adrenal — contralateral adrenalectomy is then
+   dangerous if unrecognised. Flank scars are a clue; review cross-sectional imaging and consider serum
+   testing for intact adrenal tissue.
+ • Pneumoperitoneum: pulmonary disease, cardiac insufficiency, ocular disease, morbid obesity or prior
+   steroids raise inspiratory pressures and lung-complication risk; gasless laparoscopy is an option, not
+   widely adopted.
+ • Prior abdominal surgery → adhesions, prolonged or impossible transperitoneal MIS, bowel injury → RP
+   access may be superior.
+ • Open surgery: large, painful incisions; steroids impair healing; acute pain hard to control.
+Concept — each contraindication is a correctable state — blood pressure, clotting, infection, gestation — so it
+contraindicates operating now, not adrenalectomy itself.
+
+THE INCIDENTALOMA
+ • Definition: adrenal mass ≥1 cm found on imaging for an unrelated reason; usually <4 cm. Management is
+   multidisciplinary (endocrinology, radiology, surgery).
+ • Frequency: about 9% at autopsy; about 5% of abdominal imaging studies.
+ • Two questions — functional? malignant? ACC in about 2%; autonomous hormone secretion in up to 20%.
+
+
+
+
+                                                   page 4 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                                            THE INCIDENTALOMA
+Evaluation for Hormone Hypersecretion
+ • History and examination first: weight gain, centripetal obesity, bruising, hypertension, diabetes,
+   virilisation, proximal muscle weakness, fatigue.
+
+BIOCHEMICAL SCREENING OF THE INCIDENTALOMA
+ Excess                    Test whom          Screen                            Positive / next          Trap
+ Cortisol                  All                1-mg overnight dexamethasone      —                        Never a spot
+                                              suppression test (highest                                  serum cortisol
+                                              sensitivity for subclinical                                — false
+                                              Cushing); late-night salivary                              negatives
+                                              cortisol; 24-hour urinary free
+                                              cortisol (standard, cumbersome)
+ Catecholamines     All                       Plasma free metanephrines and     >2× upper limit of       Metanephrines
+ (phaeochromocytoma                           normetanephrines, or 24-hour      normal                   preferred —
+ in 4–5%)                                     urinary total metanephrines and                            continuous, not
+                                              fractionated catecholamines                                episodic,
+                                                                                                         production
+ Aldosterone               With refractory Morning plasma aldosterone-to- ARR >20:1 with                 Up to 40%
+                           hypertension    renin ratio (ARR)              aldosterone >20 ng/dL          normokalaemic
+                                                                          → salt-loading 24-hour         — never rely on
+                                                                          urine to confirm →             spot potassium
+                                                                          adrenal venous
+                                                                          sampling before
+                                                                          surgery
+ Sex hormones              Mass ≥4 cm         Serum dehydroepiandrosterone      —                        ACC is only ~2%
+                           and/or             (DHEA), 17-ketosteroids;                                   of
+                           virilisation or    testosterone in women, 17β-                                incidentalomas,
+                           feminisation       oestradiol in men                                          but secretes
+                                                                                                         sex hormones
+                                                                                                         in most cases
+
+ • Conn syndrome (aldosteronism from a single nodule): classic hypertension, hypokalaemia, alkalosis; a
+   surgically curable cause of hypertension. Bilateral hyperplasia also causes aldosteronism but is not
+   surgically treatable — the reason for adrenal venous sampling.
+
+Radiographic Evaluation
+ • Hormonally inert → non-contrast CT for size and characteristics.
+ Benign features                                                Suspicious features
+ ≤4 cm, ≤10 HU, homogeneous → minimal malignant risk;           >4 cm, heterogeneous, hypervascular, >10 HU →
+ repeat adrenal-protocol CT at 12 months                        chemical-shift MRI, FDG-PET-CT or 123I-MIBG single-
+                                                                photon emission CT (SPECT-CT); biopsy in some
+
+ • Myelolipoma on imaging (macroscopic fat, negative attenuation ≤ −20 HU): biochemistry may be
+   unnecessary, but test if clinical features suggest excess — 10–15% may be hormonally functional.
+
+Management
+ • <4 cm and non-functional → surveillance imaging. >4 cm or functional → surgical removal. Age and
+   health status also weigh.
+Concept — biochemistry precedes imaging because function decides surgery whatever the size; imaging only
+grades malignant risk in the hormonally inert mass.
+
+
+
+
+                                                         page 5 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                             SURGICAL APPROACH TO THE ADRENAL
+
+SURGICAL APPROACH TO THE ADRENAL
+ • Choice depends on disease, tumour size, patient factors, surgeon experience, equipment and preference;
+   laterality poses distinct challenges.
+
+BOX 147.2 SURGICAL APPROACHES TO THE ADRENAL GLAND
+                         Open                                            Minimally invasive surgery (MIS)
+ Transperitoneal         Subcostal; midline; chevron; extended chevron   Laparoscopic; hand-assisted; gasless; robot-
+                                                                         assisted; single-site
+ Retroperitoneal         Flank; thoracoabdominal; dorsal lumbotomy       Laparoscopic; robot-assisted; single-site
+
+Transperitoneal
+ • Oldest documented approach. "You can never be too high" — the adrenal's superior position limits
+   exposure.
+ • Midline: early, excellent vascular control and view of great vessels; no muscle cut → less pain, better
+   healing, fewer hernias and dehiscences. Subcostal/chevron: crosses several muscles → more pain, but
+   "higher" exposure; excellent for smaller tumours and hormonally active adenomas or hyperplasia.
+ • Layers — midline: skin → subcutaneous tissue → linea alba → transversalis fascia → preperitoneal fat →
+   peritoneum. Subcostal/chevron: skin → subcutaneous tissue → anterior rectus sheath and rectus
+   medially; external oblique, internal oblique, transversus abdominis laterally → transversalis fascia →
+   preperitoneal fat → peritoneum.
+ • Fig. 147.1 — arcuate line: above it the rectus lies within anterior and posterior sheaths (internal oblique
+   aponeurosis splits); below it all aponeuroses pass anterior, leaving rectus on transversalis fascia.
+ • Closure: laterally two fascial layers (transversus abdominis; external oblique), converging to one layer
+   medially. Peritoneal closure is debated — conflicting evidence on hernia prevention.
+ • Ports: laparoscopy — all-midline, subcostal, "L" or reverse-"L"; no configuration proven superior. Robotic
+   — subcostal most common: excellent exposure, no instrument collision (Figs 147.2, 147.3). Single-site —
+   one medium incision, gel platform or SP robot.
+Right Adrenal
+Sequence: elevate liver (no capsular tears), incise peritoneal attachments → Kocher manoeuvre (medial
+reflection of second part of duodenum) exposes IVC → dissect along IVC to right renal vein insertion —
+inferior limit → continue cephalad with liver retraction to superior adrenal and adrenal vein → isolate and
+control vein early (clips or thermal energy), warning anaesthesia → downward renal traction reveals superior
+adrenal (electrocautery) → elevate adrenal packet to psoas — posterior limit → lateral dissection to body
+wall → free from liver, kidney and IVC → extraction bag, tumour intact.
+ • Functional tumour: open communication with anaesthesia around vein control prevents rapid
+   hypotension and cardiovascular collapse. Adrenal arteries are seldom seen — electrocautery or thermal
+   devices; brisk bleeding rare.
+Left Adrenal
+Sequence: unless transmesenteric, reflect colon along the white line of Toldt, staying outside Gerota's fascia
+(in obese patients, carry below iliac vessels) → elevate spleen carefully → identify left renal vein (or trace
+gonadal vein cephalad) → dissect superior border of renal vein to adrenal vein → clip or seal after warning
+anaesthesia → gland lies immediately posterior and superior → medial dissection with lateral renal traction
+exposes splenic artery and pancreas (no undue traction) → incise peritoneum as spleen elevated to expose
+superior adrenal, staying superior → lateral dissection to abdominal wall and diaphragm → free superior
+
+
+
+
+                                                       page 6 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                       MINIMALLY INVASIVE SURGICAL APPROACHES
+renal border → divide nexus of ganglia superomedially and posteriorly (thermal energy or clips) → psoas —
+posterior limit → bag, specimen intact.
+
+TRANSPERITONEAL RIGHT VERSUS LEFT
+                                 Right                                     Left
+ First manoeuvre                 Liver elevation + Kocher                  Colon reflection along line of Toldt
+ Guiding vessel                  IVC → right renal vein insertion          Left renal vein (or gonadal vein)
+ Structures at risk              Liver capsule, IVC, duodenum              Spleen, pancreas, splenic artery, diaphragm
+ Side-specific step              —                                         Division of ganglia nexus
+ Posterior limit                 Psoas muscle (both)
+
+Retroperitoneal
+Open Approach
+Positioning. Lateral decubitus, affected side up; table flexed at costal margin; optional kidney rest; axillary
+roll; arms extended away, upper arm on padded elevated rest; lower leg bent, upper straight (Fig. 147.4).
+Incision. Flank; divide latissimus dorsi, external oblique, internal oblique, transversus abdominis; reflect
+parietal pleura upward; resect 12th (occasionally 11th) rib.
+Rib resection: scrape anterior periosteum (periosteal elevator) → strip posterior periosteum from posterior
+and superior aspects, protecting the neurovascular bundle in the groove on the posteroinferior border
+(nerve injury → flank bulge) → divide distally with rib cutter → file edge; electrocautery and bone wax →
+enter lumbodorsal fascia, develop RP space bluntly with finger, sweep peritoneum off transversalis fascia →
+divide overlying muscles; fixed retraction.
+Dissection — right. Medially over IVC, dividing posterior peritoneum → superiorly to adrenal vein; if needed,
+first control short hepatic veins between silk ties for 1–2 cm more superior exposure (posterosuperior
+adrenal vein) → ligate adrenal vein between silk ties → superior extent between adrenal and liver →
+adrenal–kidney attachment last, as a handle for downward retraction.
+Dissection — left. Medially to aorta → superiorly to left renal vein → along it to adrenal vein; ligate between
+silk ties → superior extent, protecting pancreatic tail and splenic vessels → adrenal–kidney attachment last.
+On both sides the multiple arteries are controlled with electrocautery devices.
+Closing. Inspect for haemostasis (warm sterile water irrigation helps) → two-layer fascial closure, running
+bidirectional looped polydioxanone 0 or #1: deep — transversus abdominis and internal oblique; superficial
+— external oblique → skin staples or absorbable monofilament.
+Concept — whichever cavity is entered, the operation is the same: follow the renal vein to the adrenal vein,
+control the vein, and keep the adrenal–kidney attachment until last as a retraction handle.
+
+MINIMALLY INVASIVE SURGICAL APPROACHES
+ • Laparoscopic and robot-assisted approaches both suit adrenal pathology; lateral or prone positioning;
+   instruments by surgeon preference.
+ • RP MIS versus transperitoneal MIS: avoids bowel and viscera — preferred after prior abdominal surgery.
+   RP MIS versus open RP: less pain, shorter stay, though regional anaesthesia narrows the gap.
+ • Robot particularly suits the RP approach — small working space, angled instruments.
+
+Minimally Invasive Surgery Retroperitoneal Adrenalectomy Technique
+Positioning. As for the open retroperitoneal approach.
+
+
+
+                                                            page 7 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                                  SURGERY FOR PHAEOCHROMOCYTOMA
+Access and ports: 1-cm transverse incision near tip of 12th rib, beneath 11th → divide or spread muscles to
+lumbodorsal fascia → open; enter RP space, confirm with finger → finger-dissect space from undersurface of
+11th rib (superior), iliac crest (inferior), anterior psoas (posterior); sweep peritoneum anteromedially → RP
+balloon dissector inflated under vision → insufflate → two further ports 8 cm apart: lateral just below line of
+12th rib; medial subcostal, 3 cm below junction of 12th rib and paraspinous muscle (Fig. 147.5; dotted
+circles mark alternative third-port sites).
+
+Left Minimally Invasive Surgery Adrenalectomy Dissection
+Sequence: medially along psoas and aorta → superiorly to renal vessels → renal artery (posterior to vein)
+met first; dissect circumferentially → adrenal vein anterior and cephalad to superior border of renal artery
+(Fig. 147.6) → divide with clips or vascular stapler (Fig. 147.7) → small arteries on inferior and medial surface:
+bipolar, divide → free circumferentially, anterior and superior attachments last for downward retraction.
+
+Right Minimally Invasive Surgery Adrenalectomy Dissection
+ • Medially along psoas and IVC → superiorly beneath right renal hilum.
+ • Right adrenal vein enters posterolateral IVC, superior to right renal hilum (Fig. 147.8); shorter and
+   possibly wider than left — avulsion from IVC → significant haemorrhage. Otherwise as for left.
+ • Closure: endoscopic retrieval bag through the 10-mm port; inspect bed; close ports.
+ Transperitoneal: first vessel met                                  Retroperitoneal: first vessel met
+ Renal vein (anterior)                                              Renal artery (posterior to vein)
+
+Concept — the retroperitoneoscopic view reverses the transperitoneal one — posterior structures (psoas,
+renal artery) come first — which is why it suits the previously operated abdomen and why its landmarks must
+be learnt afresh.
+
+SURGERY FOR PHAEOCHROMOCYTOMA
+Preoperative Management and Coordination With Anaesthesia
+ • Presentation: tachycardia, hypertension, diaphoresis, headache, arrhythmia, left ventricular dysfunction,
+   impaired glucose tolerance.
+ • Work-up: electrocardiogram, echocardiogram, assessment of hypertensive end-organ damage; plan
+   jointly with anaesthesia — hypertensive spikes and tachyarrhythmias are expected.
+Preparation: α-blockade 2 weeks before surgery — phenoxybenzamine (irreversible non-selective) or
+doxazosin (selective α1) — titrated to normotension → β-blockade only if tachycardia or arrhythmia →
+volume expansion (hydration or high-salt diet), because chronically vasoconstricted patients become
+hypotensive once vasodilated.
+
+Intraoperative Considerations
+ • Invasive monitoring; tell anaesthesia whenever the mass is being manipulated; pause manipulation
+   during lability. Ligate the adrenal vein early if size allows.
+
+INTRAOPERATIVE HAEMODYNAMIC CONTROL
+ Event                                        Agents / action
+ Hypertensive surge                           Nitroprusside, nicardipine, nitroglycerin, phentolamine; pause manipulation
+ Tachyarrhythmia                              Esmolol, lidocaine
+ Hypotension after vein ligation              Aggressive volume repletion ± α-adrenergic agonists
+
+
+
+
+                                                             page 8 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                            SURGERY FOR MALIGNANCY
+Postoperative Considerations
+ • Invasive haemodynamic monitoring of BP, heart rate and blood glucose.
+ • Lifelong recurrence up to 16% → regular long-term BP monitoring and biochemical screening.
+Concept — phaeochromocytoma surgery is a two-phase haemodynamic problem — catecholamine surge
+while the tumour is handled, catecholamine withdrawal once the vein is tied — and α-blockade with volume
+expansion prepares for both.
+
+SURGERY FOR MALIGNANCY
+Adrenocortical Carcinoma
+ • Only two primary adrenal malignancies in adults: ACC and phaeochromocytoma; neuroblastoma is
+   paediatric and not covered.
+ • ACC: rare, of cortical origin, 0.5–2 per million per year.
+ • Who operates: European Society of Endocrinology (ESE) and European Network for the Study of Adrenal
+   Tumours (ENSAT) — surgeon >6 adrenalectomies per year, preferably ≥20, with extensive oncological
+   experience, and equally experienced anaesthesia and oncology teams.
+ • How: open transperitoneal, removing all visible tumour, with en-bloc adjacent organ resection as needed
+   (liver, kidney, spleen, intestine, IVC, aorta, musculoskeletal soft tissue).
+ • Intact specimen is essential — rupture gives dismal results. Challenged by many MIS surgeons, but the
+   National Comprehensive Cancer Network (NCCN) also supports open surgery.
+ • Advanced-stage 5-year survival <15%. Global recommendation: open adrenalectomy with intact removal
+   for suspected ACC, especially larger tumours; multidisciplinary care (medical and radiation oncology,
+   radiology, endocrinology, anaesthesiology, pathology) and tumour boards.
+
+Surgery for Metastatic Lesions to the Adrenal
+ • Metastases are the commonest malignant adrenal tumour, and the second commonest adrenal tumour
+   after benign adenoma: 2.8–6.7% of adrenal tumours; prevalence 0.5–3.8%; median size about 3 cm;
+   mostly unilateral, about a quarter bilateral.
+
+BOX 147.3 ORIGINS OF METASTATIC TUMOURS TO THE ADRENAL GLAND
+ Rank         Primary                                                  Proportion
+ 1            Lung                                                     39.2%
+ 2            Genitourinary (vast majority kidney)                     27.6%
+ 3            Gastrointestinal                                         13.6%
+ 4            Lymphoma                                                 5.0%
+ 5            Skin (melanoma)                                          4.0%
+ 6–9          Sarcoma; breast; neuroendocrine; thyroid                 2.9%; 1.7%; 1.0%; 0.7%
+ —            Other                                                    4.3%
+
+ • Pattern and trap: lung and kidney together account for about two-thirds; breast, often listed among
+   common primaries, is actually uncommon.
+ • Technique is that of routine adrenalectomy; the goal is eradication. One of many sites or widespread
+   disease → adrenalectomy may not help. Adrenal is the only measurable disease → long-term benefit
+   possible.
+ • Survival depends on primary: renal-origin metastases do far better than lung, breast or melanoma.
+ • Better prognosis: renal origin, synchronous tumour, size <5 cm, symptomatic tumour.
+
+
+                                                     page 9 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                      SURGERY FOR ALL OTHER TUMOURS
+ • Prior systemic chemotherapy or ipsilateral radiation → tedious dissection around liver, spleen, bowel and
+   great vessels; involve oncologists; colorectal, vascular or general surgeons may be needed.
+Concept — both malignant indications are judged by curative intent — for ACC, complete, intact, open
+resection; for metastasis, removal only when the adrenal is the sole disease.
+
+SURGERY FOR ALL OTHER TUMOURS
+Surgery for Myelolipoma
+ • Benign: mature adipose plus haematopoietic tissue; usually asymptomatic and incidental; macroscopic
+   fat with variable calcification on non-contrast imaging.
+ • Frequency: up to 0.4% at autopsy; 10–15% of incidentalomas.
+ • Presentation when symptomatic: abdominal pain, spontaneous retroperitoneal haemorrhage.
+ • Most need no treatment. Operate if >7 cm, symptomatic, or adverse imaging features suggesting
+   malignancy.
+ • Still screen for phaeochromocytoma and Cushing syndrome — excludes phaeochromocytoma before any
+   adrenalectomy.
+
+Surgery for Metabolic Syndrome
+ • Adrenocorticotropic hormone (ACTH)-independent Cushing syndrome from a functional tumour →
+   abdominal obesity, hyperglycaemia, dyslipidaemia, hypertension; insulin resistance rises and insulin
+   secretion falls.
+ • Dyslipidaemia: high very-low-density lipoprotein (VLDL), low-density lipoprotein (LDL), triglycerides and
+   total cholesterol; low high-density lipoprotein (HDL); hepatic steatosis.
+ • After adrenalectomy the response is variable: insulin resistance and impaired secretion may persist;
+   complete resolution also described.
+
+Surgery for Systemic Diseases
+ • Congenital adrenal hyperplasia (CAH): loss of a steroidogenic enzyme, overwhelmingly 21-hydroxylase
+   → impaired cortisol and some aldosterone → precursors shunted to androgens.
+ • Medical therapy since the 1950s: glucocorticoid ± mineralocorticoid; supraphysiological doses needed to
+   suppress the hypothalamic–pituitary axis → iatrogenic Cushing syndrome.
+ • Bilateral adrenalectomy: deliberate adrenal insufficiency with fixed replacement — reproducible, avoids
+   Cushing syndrome. Concerns: adrenal crisis; gonadal (ectopic) adrenal rest tumours.
+ • Meta-analysis: symptomatic improvement in most (hyperandrogenism, growth velocity, cushingoid
+   features), with adrenal crisis and adrenal rest tumours in a minority.
+
+PARTIAL ADRENALECTOMY
+ • History: 1918 animal model — survival without insufficiency after removal of up to seven-eighths of the
+   gland. 1934 — first human: subtotal bilateral adrenalectomy for hyperadrenalism via staged dorsal
+   lumbotomies, no mortality. First partial adrenalectomy for tumour: performed 1965, reported 1983 —
+   bilateral phaeochromocytoma, right total and left partial; off steroids 15 years later with a mass-free
+   remnant.
+ • Indications: children; bilateral phaeochromocytoma; Conn syndrome; non-functioning adenomas with
+   severe hypertension; adrenal cysts; familial syndromes; prior contralateral adrenalectomy.
+
+
+
+
+                                                 page 10 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                                                    OPEN INCISIONS
+Surgical Technique
+ • Approach as for the respective side; only the resection differs.
+ • Arteries enter inferiorly, medially and superiorly → lateral dissection is safe; elevating the lateral portion
+   aids exposure.
+ • Preserve the arterial supply; the main adrenal vein can be divided — rich collateral venous drainage
+   maintains remnant outflow (important in partial adrenalectomy for phaeochromocytoma).
+ • Margins: intraoperative US; indocyanine green (ICG) to assess remnant viability.
+
+TISSUE DIVISION IN PARTIAL ADRENALECTOMY
+ Method                                       Feature
+ Sharp division between metal or              Clean margin, good visualisation throughout
+ locking clips
+ Bipolar diathermy                            Protects surrounding tissue from heat; any platform
+ Thin stapler                                 Seals and divides; bulky, cumbersome around tissue
+ Impedance-sensing sealing devices            Seal then cut; tissue impedance signals when division is safe
+ Topical haemostatic agents                   Liquid, gel, powder, cloth — residual ooze
+
+ • MIS: bag the specimen to prevent rupture and spill.
+Concept — partial adrenalectomy works because arterial inflow enters from three sides while venous outflow
+is collateralised — preserve the arteries and the main vein becomes expendable.
+
+OPEN INCISIONS
+ • Superior exposure is the main challenge. The left is accessible through most incisions; the right is harder
+   — more cephalad and with its caval venous drainage.
+
+OPEN INCISIONS COMPARED
+ Incision               Position and line                 Strengths                            Drawbacks / best for
+ Midline                Supine; vertical through linea    No muscle divided, few crossing      Upper RP hard without
+ (laparotomy)           alba (Fig. 147.9)                 nerves; reproducible; whole          mobilising structures; large
+                                                          abdomen and RP; easy vascular        masses
+                                                          control
+ Subcostal /            Supine, slight bump; tip of       Direct great-vessel access;          More pain (regional
+ chevron                11th rib toward xiphoid, 1–2      excellent upper-abdominal and        anaesthesia helps); large
+                        cm below costal margin;           RP exposure                          tumours, vascular or
+                        extend across midline →                                                ipsilateral renal
+                        chevron                                                                involvement; chevron for
+                                                                                               bilateral or large unilateral
+ Thoracoabdominal Body roll under operative               Unparalleled exposure                Highest incision-specific
+ (Ivor Lewis)     flank; arm and shoulder                                                      morbidity; rarely used —
+                  rotated away in a sling (Fig.                                                large tumours or IVC
+                  147.10); joins pleural and                                                   extension above the liver
+                  peritoneal cavities
+ Flank                  45° lateral, flexed above iliac   Familiar renal approach;            Superior dissection must be
+                        crest; above 11th or 12th rib     extensible to lateral rectus border allowed for — often 11th rib
+                        toward umbilicus ± partial rib
+                        removal
+
+
+
+
+                                                          page 11 of 12
+Chapter 147 — Surgery of the Adrenal Glands                                                         ABLATION OF THE ADRENAL
+
+ Incision               Position and line                Strengths                            Drawbacks / best for
+ Posterior (prone       Prone                            Most direct route; bilateral small   Limited exposure and
+ lumbodorsal)                                            tumours without repositioning        vascular control; small
+                                                                                              functional tumours, not
+                                                                                              large or malignant
+
+ • Subcostal layers: anterior rectus sheath, rectus, external oblique, internal oblique, transversus abdominis,
+   transversalis fascia, peritoneum.
+ • Flank sequence: skin, subcutaneous fat, Scarpa's fascia → partially divide latissimus dorsi laterally and
+   external oblique medially to expose rib → if sparing rib, dissect on its superior border (bundle in
+   posteroinferior groove) → internal oblique, transversus → open transversalis fascia → sweep peritoneum
+   anteromedially.
+Concept — incision choice trades exposure against morbidity along one axis — from the posterior approach
+(most direct, least exposure) to the thoracoabdominal (most exposure, most morbidity) — with tumour size
+and suspicion of malignancy deciding how far along it to go.
+
+ABLATION OF THE ADRENAL
+ • Ancient principle: Hippocrates held that what the knife cannot cure, fire cures. Most solid-organ ablation
+   data come from liver, extended to prostate, kidney and now adrenal.
+ • Routes: transcutaneous, percutaneous, laparoscopic; mostly by interventional radiology, but urologists
+   must know the technology. Biopsy before or at ablation.
+ Energy                          Modalities                                 Adrenal status
+ Heat                            High-intensity focused ultrasound (HIFU), RFA most useful: focused, little collateral
+                                 microwave, radiofrequency ablation        effect, predictable destruction; others in small
+                                 (RFA), laser                              non-randomised series
+ Cold                            Cryotherapy                                Extensive in kidney; very limited in adrenal
+
+RFA mechanism: generator alternating current → electrode with uninsulated tip placed under US or CT →
+ionic agitation around tip → frictional heat >50–60 °C → protein denaturation, coagulative necrosis. Cooled-
+saline tip protects normal tissue and improves tumour conductivity; grounding pad required.
+ • Ablation of phaeochromocytoma or ACC is highly discouraged outside a stringent research protocol.
+
+FUTURE OF ADRENAL SURGERY
+ • Robotics, big data, AI, genomics, virtual reality and AR with improved imaging — tools to strengthen
+   care, never replacements for decision-making and technique.
+ • AI in surgery is in its infancy: preoperative planning, intraoperative assistance, robotics. More used in
+   orthopaedics and neurosurgery; abdominal barriers are patient diversity, complex and changing anatomy,
+   and multimodal input. Reconstruction of the patient's anatomy allows simulated rehearsal.
+ • Digital surgery: technology enhancing preoperative planning, surgical performance, therapeutic support
+   or training to improve outcomes and minimise harm — already present (tissue discrimination, landmark
+   identification, video review).
+ • Most new urologists train and operate robotically; open surgery keeps a place by pathology; surgeons
+   should shape next-generation platform design.
+
+
+
+
+                                                         page 12 of 12
+

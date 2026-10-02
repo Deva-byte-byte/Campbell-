@@ -1,0 +1,2161 @@
+Chapter 146 — Pathophysiology, Evaluation and Medical
+Management of Adrenal Disorders
+• Small, deceptively simple glands (formerly the suprarenal glands) at an anatomical crossroads beside
+  major vessels, nerves and viscera; now recognised as central to homeostasis and responsible for several
+  major human diseases.
+• Medical management is multidisciplinary (endocrinology, nephrology, cardiology); surgical ownership has
+  historically been split between urologists, general, oncological and endocrine surgeons, largely by local
+  institutional tradition.
+• Evaluation and surgery sit naturally with urologists because of minimally invasive skill, familiarity with
+  retroperitoneal anatomy and approaches, and the close linkage of renal and adrenal pathophysiology.
+
+HISTORICAL BACKGROUND
+• Overlooked by Galen, da Vinci and Vesalius; first described by Bartholomaeus Eustachius (mid-16th
+  century).
+• Thomas Addison (1855) linked adrenal insufficiency to the glands at autopsy — the eponymous Addison
+  disease.
+• Brown-Séquard (1856): bilateral adrenalectomy in animals was uniformly fatal — the adrenals are
+  indispensable to life.
+• Osler (1896): first hormonal replacement — crude porcine adrenal extract produced weight gain in one
+  patient with Addison disease.
+• Adrenaline discovered and localised to the medulla; shown to produce a sustained rise in blood pressure.
+  Its failure to sustain life after bilateral adrenalectomy established Addison disease as a disorder of the
+  cortex alone.
+• Cortisol isolated in the 1930s; its use in rheumatoid arthritis earned the 1950 Nobel Prize (Kendall, Hench,
+  Reichstein). Aldosterone isolated from bovine adrenal in 1952.
+• Late 20th-century pioneers: Conn, Wilkins, Liddle, Sutherland.
+
+ADRENAL EMBRYOLOGY AND ANATOMY
+
+Overview
+• Paired retroperitoneal organs of cortex and medulla: spiculated mustard-yellow cortex, distinct from
+  perinephric fat; brown central medulla on cross-section.
+• 4–5 g each; 4–6 cm long, 2–3 cm wide. Right triangular, left crescent-shaped.
+• Position either “capping” the upper pole or “cradled” superomedially just above the renal vessels —
+  visible on computed tomography (CT) or magnetic resonance imaging (MRI) and surgically relevant,
+  especially on the left and in patients with abundant perinephric fat, when identifying the adrenal vein.
+
+Embryology
+CORTEX VERSUS MEDULLA: EMBRYOLOGICAL ORIGIN
+         Cortex                                                         Medulla
+Origin   Intermediate mesoderm of the urogenital ridge                  Neural crest cells from adjacent
+                                                                        sympathetic ganglia
+
+
+
+
+                                                  page 1 of 44
+Chapter 146 — Adrenal Disorders                                                             Adrenal Embryology and Anatomy
+
+            Cortex                                                              Medulla
+ Timeline Week 5 fetal cortex forms → weeks 6–7 mesothelial cells               Migrate into the medial fetal cortex by
+          surround it (future adult cortex) → end of week 8 encapsulated        week 9 → central position around the
+          and separated from peritoneal mesothelium → adult cells               adrenal vein by week 18
+          replace fetal cells
+ Function Endocrine (steroids)                                                  Neurocrine (catecholamines)
+
+ • The medullary migration through the cortex explains the brown stippling of the cortex.
+ • Fetal adrenal at birth is twice adult weight but immature; the fetal cortex is resorbed by 12 months.
+   Glomerulosa and fasciculata continue to develop, but the zona reticularis completes differentiation only
+   at 3 years — reflecting the late importance of adrenal sex steroids. Adrenocortical stem cells may
+   contribute to development and homeostasis.
+ • Unilateral adrenal agenesis is rare; its reported association with renal agenesis is probably spurious (poor
+   imaging of the ipsilateral adrenal) because adrenal and renal development are separate. With renal
+   agenesis, malrotation or malascent the adrenal usually develops normally, discoid and in its normal
+   position.
+ • Adrenal rests (accessory tissue, cortical or medullary) lie along the path of gonadal descent: present in up
+   to half of neonates, persisting in about 1% of adults.
+ • In congenital adrenal hyperplasia (CAH), testicular adrenal rests may become hyperplastic and present
+   as a testicular mass — consider before orchiectomy in CAH.
+ • Adrenal heterotopia: incomplete separation of adrenal mesoderm from liver or kidney, with partial or
+   complete incorporation into that organ.
+
+Anatomy
+RIGHT VERSUS LEFT ADRENAL: RELATIONS AND VESSELS
+                  Right                           Left
+ Shared           Within Gerota’s fascia at 11th–12th ribs; cephalad to upper pole; anterior to diaphragmatic crus
+ Medial           Inferior vena cava (IVC)        Aorta
+ Anterior         Liver                           Stomach, pancreas, splenic vessels
+ Adrenal vein     Short, directly into IVC        Long; joined by inferior phrenic vein → left renal vein
+ Lymphatics       Paracaval nodes                 Para-aortic nodes
+
+ • Adjacent-organ lesions can mimic an adrenal mass (e.g., gastric leiomyoma or greater-curve
+   diverticulum).
+ • Redundant arterial supply from three sources: superior (inferior phrenic artery), middle (aorta directly),
+   inferior (ipsilateral renal artery) → subcapsular plexus → direct medullary branches and cortical sinusoids.
+ • Venous drainage is more predictable than arterial: medullary veins coalesce into a central adrenal vein
+   surrounded by medulla.
+ • Overlapping arterial and venous anatomy permits partial adrenalectomy with little risk of infarction.
+ • Anomalous venous drainage in up to 9% — important for adrenal vein sampling (AVS).
+ • Innervation: preganglionic sympathetic fibres go directly to medullary chromaffin cells; postganglionic
+   fibres from splanchnic ganglia supply the cortex; parasympathetic (vagal) supply is ill defined.
+Figure legend — Fig. 146.3
+ • A “left adrenal mass” abutting the stomach proved on CT, MRI and metaiodobenzylguanidine (MIBG)
+   imaging to be separate from a normal adrenal: a gastric neuroendocrine tumour, treated by partial
+   gastrectomy — a high index of suspicion prevents operative misadventure.
+
+
+
+                                                          page 2 of 44
+Chapter 146 — Adrenal Disorders                                                                          Adrenal Physiology
+
+Histology
+ZONES OF THE ADRENAL CORTEX
+ Zone (outer →                                                                                               Daily
+ inner)                Cells                                                 Main product                    output
+ Glomerulosa           Small polyhedral, scant eosinophilic cytoplasm,       Mineralocorticoid               100–150
+                       dark round nuclei                                     (aldosterone)                   µg
+ Fasciculata           Broad layer of large pale cells in vertical columns   Glucocorticoid (cortisol)       10–20 mg
+ Reticularis           Round dark-staining cells                             Sex steroids (androgens,        >20 mg
+                                                                             oestrogens)
+
+ • Each gland lies within a fibrous capsule; the cortex lies directly beneath it.
+
+ KEY POINTS: ANATOMY AND EMBRYOLOGY
+   • Two embryologically and functionally distinct components: cortex (endocrine) and medulla
+     (neurocrine).
+   • Arterial supply variable; venous drainage predictable — short right vein to IVC, longer left vein to left
+     renal vein in most patients.
+
+Concept — The adrenal is two organs sharing a capsule: a mesodermal steroid factory and a neural-crest
+sympathetic ganglion. Its surgical anatomy is governed by one asymmetry — the short right vein on the IVC
+versus the long left vein on the renal vein.
+
+ADRENAL PHYSIOLOGY
+ • Cortex and medulla are best conceived as two distinct organs — the former endocrine, the latter
+   neurocrine.
+
+Adrenal Cortex Physiology
+ • All cortical steroids derive from cholesterol, chiefly from low-density lipoprotein (LDL); the ratio and
+   type of enzymes in each zone determine its product (Fig. 146.4 — steroid synthesis from cholesterol to
+   mineralocorticoid, glucocorticoid and androgen).
+ • No membrane receptors: lipophilic steroids diffuse into the cell, bind intracellular receptors, and the
+   hormone–receptor complex binds DNA to modulate transcription.
+Zona Glomerulosa
+ • The only zone expressing aldosterone synthase (CYP11B2) — hence the sole source of aldosterone.
+ • Aldosterone acts on the distal nephron: reabsorbs Na+ and Cl−, secretes K+ and H+. Sodium reabsorption
+   carries free water, so aldosterone changes total body fluid volume, not sodium concentration. Salivary
+   and colonic effects are physiologically minor.
+ • Regulated chiefly by angiotensin II (renin–angiotensin–aldosterone system, RAAS) and directly by serum
+   potassium; adrenocorticotropic hormone (ACTH) is a weak stimulus — so the glomerulosa alone does not
+   atrophy in pituitary failure.
+ • Atrial natriuretic peptide is the main inhibitor (with somatostatin, dopamine) — a cardiac–adrenal–renal
+   link.
+TABLE 146.1 PRIMARY EFFECTS OF MINERALOCORTICOIDS
+
+
+
+
+                                                         page 3 of 44
+Chapter 146 — Adrenal Disorders                                                                            Adrenal Physiology
+
+ Action                    Effect                                            Site
+
+ Renal Na+                 ↑ blood volume, ↑ blood pressure, ↓ urine         Distal tubule, connecting segment, collecting
+ reabsorption              sodium                                            duct
+
+ Renal Cl−                 ↑ serum chloride, ↓ urine chloride
+ reabsorption
+
+ Renal K+ secretion        ↓ serum potassium, ↑ urine potassium
+
+ Renal proton              ↑ urine ammonium                                  Collecting duct (consequence of Na+
+ secretion                                                                   reabsorption)
+
+ • What it tests: every mineralocorticoid effect is a distal-nephron exchange driven by sodium reabsorption.
+   Trap: expecting hypernatraemia — the volume, not the concentration, rises.
+Zona Fasciculata
+ • Glucocorticoid synthesis via 17α-, 21- and 11β-hydroxylase. Cortisol is the principal human
+   glucocorticoid, under tight ACTH control in a classic negative-feedback loop.
+ • Strict circadian rhythm: most cortisol secreted in the early morning. Glucocorticoids are essential to life
+   — metabolism, immunity, intravascular volume, blood pressure, mood, sleep and possibly memory.
+Normal hypothalamic–pituitary–adrenal (HPA) axis physiology
+ • Fasciculata secretes up to 20 mg cortisol per day.
+ • Hypothalamic corticotropin-releasing hormone (CRH) (with oxytocin and vasopressin) → anterior
+   pituitary corticotrophs cleave pro-opiomelanocortin (POMC) to ACTH → adrenal cortisol and androgens
+   → cortisol feeds back on hypothalamus (CRH) and pituitary (ACTH). Fig. 146.5 depicts the loop.
+ • Stress, physiological or psychological, is the dominant modulator; splanchnic innervation also influences
+   output.
+ • ACTH is trophic as well as secretagogue: without it (e.g., suppression by exogenous steroid) all but the
+   mineralocorticoid-producing cells stop synthesis and undergo apoptosis.
+ • CRH follows the suprachiasmatic nucleus: cortisol peaks in the morning, nadir about 11 pm; even small
+   perturbations of this rhythm are pathological.
+TABLE 146.2 PRIMARY EFFECTS OF GLUCOCORTICOIDS
+ Effect                                 Clinical implication
+ Enhance skeletal and cardiac           Deficiency → weakness
+ contraction
+ Protein catabolism                     Excess → muscle wasting, weakness
+ Inhibit bone formation                 Excess → reduced bone density
+ Inhibit collagen synthesis             Excess → thin skin, fragile capillaries
+ ↑ vascular contractility, ↓            Deficiency → difficulty maintaining blood pressure
+ permeability
+ Anti-inflammatory; anti-immune         Exogenous steroid treats inflammatory and autoimmune disease; promotes
+                                        transplant tolerance
+ Maintain glomerular filtration rate    Deficiency → reduced GFR
+ (GFR)
+From Howards SS, Carey RM, 1991.
+ • Pattern: excess produces the catabolic cushingoid picture (wasting, osteoporosis, thin skin); deficiency
+   produces the addisonian picture (weakness, hypotension, low GFR).
+
+
+
+
+                                                         page 4 of 44
+Chapter 146 — Adrenal Disorders                                                                                Adrenal Physiology
+
+Zona Reticularis
+ • 17α-hydroxylase and 17,20-lyase → dehydroepiandrosterone (DHEA), sulphated DHEA (DHEA-S) and
+   androstenedione; some androgen also from the fasciculata. ACTH-controlled and circadian.
+ • The largest steroid output (>20 mg/day) but the least important for adult homeostasis.
+ • Pharmacological suppression of adrenal androgens is an increasingly used strategy in advanced prostate
+   cancer; developmental aberrations cause CAH.
+
+Adrenal Medulla Physiology
+ • <10% of adrenal mass; unrelated to the cortex in function and embryology; an integral part of the
+   autonomic nervous system.
+ • Chromaffin cells receive preganglionic sympathetic fibres from T11–L2 — analogous to sympathetic
+   ganglion cells.
+ • Secretes epinephrine 80%, norepinephrine 19%, dopamine 1% — catecholamines synthesised from
+   tyrosine, modulating the stress response via organ-specific adrenoceptors (Table 146.3). Stored in vesicles,
+   released by exocytosis.
+ • Phenylethanolamine-N-methyltransferase (PNMT) converts norepinephrine to epinephrine and is
+   relatively unique to the medulla (also brain and organ of Zuckerkandl). Glucocorticoids potentiate PNMT
+   — one of the few cortex–medulla links — and explain why the medulla is the main source of circulating
+   epinephrine.
+Catecholamine metabolism (Fig. 146.6)
+ • Tyrosine → L-dihydroxyphenylalanine (L-DOPA) → dopamine → norepinephrine → (PNMT) → epinephrine.
+ • Catechol-O-methyltransferase (COMT) methylates norepinephrine → normetanephrine and epinephrine
+   → metanephrine. Most adrenal metabolism occurs within medullary cells themselves, not in liver or
+   kidney.
+ • >90% of circulating metanephrine and ≥20% of normetanephrine derive from the adrenal medulla — so
+   their rise is the basis of phaeochromocytoma diagnosis. Urinary metabolites are largely sulphated.
+ • Monoamine oxidase (MAO) and other enzymes produce vanillylmandelic acid (VMA), the end product,
+   formed largely in the liver; sympathetic-nerve catecholamines also end as VMA.
+ • Terminology: “free” = unconjugated; “fractionated” = individual compounds reported separately.
+TABLE 146.3 PRIMARY EFFECTS OF CATECHOLAMINES (GROUPED BY SYSTEM)
+ System                  Receptors                         Dominant response                  Clinical manifestation
+ Eye                     α1 (radial iris); β2 (ciliary)    Mydriasis; relaxation for far      Blurred vision
+                                                           vision
+ Heart (SA and AV      β1, β2                              ↑ rate, contractility, conduction, Palpitations, angina
+ node, atria, His–                                         automaticity (strongest at AV
+ Purkinje, ventricles)                                     node, conducting system,
+                                                           ventricles)
+ Arterioles              α1, α2 (constrict); β2 (dilate)   Skin, mucosa, abdominal            Pallor, hypertension, angina,
+                                                           viscera, renal: strong             bowel ischaemia, renal
+                                                           constriction; coronary,            failure, stroke, oedema
+                                                           pulmonary, muscle: mixed
+ Systemic veins          α1, α2, β2                        Constriction and dilatation        Orthostatic hypotension
+ Lung                    β2; α1                            Bronchial relaxation; secretion    —
+                                                           altered
+ Gut, gallbladder        α, β2 (tone ↓); α1 (sphincters ↓ motility, sphincter contraction Early satiety, constipation,
+                         contract); α2 (secretion ↓)                                      ileus, gallstones
+
+
+                                                           page 5 of 44
+Chapter 146 — Adrenal Disorders                                                   Evaluation of Adrenal Lesions in Urological Practice
+
+ System                  Receptors                           Dominant response                    Clinical manifestation
+ Kidney                  α1 (↓), β2 (↑)                      Renin secretion                      —
+ Bladder                 β2 (detrusor relaxes); α1           Storage                              Urinary retention
+                         (trigone, sphincter contract)
+ Ureter, uterus, male α1 (± β2 uterus)                       ↑ ureteric tone; uterine             —
+ sex organs                                                  contraction (pregnant) or
+                                                             relaxation; ejaculation
+ Skin                    α1                                  Piloerection; localised sweating     Sweating
+ Metabolic (muscle,      β2 (muscle glycogenolysis, K+ Glycogenolysis, insulin                    Hyperglycaemia, glycosuria,
+ pancreas, fat)          uptake); α2 (↓ insulin); β2 (↑ suppression, lipolysis,                   feeling warm
+                         insulin); α2, β1, β2 (lipolysis) thermogenesis
+
+ Glands and others       α1, β (salivary); α (lacrimal); β   Salivary K+, water and amylase;      Lacrimation, reduced
+                         (pineal); β1 (posterior             lacrimation; melatonin;              diuresis
+                         pituitary)                          antidiuretic hormone ↑
+ Spleen capsule          α1, β2                              Contraction                          —
+Modified from Pacak K, 2007. Source grades intensity from +++ (highest) to + (lowest).
+ • What it tests: the phaeochromocytoma symptom complex is predictable from receptor maps — α1
+   vasoconstriction (hypertension, pallor, visceral ischaemia), β1 cardiac stimulation (palpitations, angina), α2
+   insulin suppression (hyperglycaemia). Trap: the α2-mediated insulin suppression is what rebounds as post-
+   resection hypoglycaemia.
+
+ KEY POINTS: PHYSIOLOGY
+   • Glomerulosa → mineralocorticoid, fasciculata → glucocorticoid, reticularis → androgen; zonal
+     enzyme ratios determine the product.
+   • Aldosterone is driven by angiotensin II and potassium; ACTH is minor, so the glomerulosa survives
+     pituitary failure.
+   • Cortisol is under tight ACTH control; adrenal androgen suppression is a target in advanced prostate
+     cancer.
+   • Catecholamines derive from tyrosine and modulate the systemic stress response.
+
+Concept — Each zone is defined by which enzymes it expresses and which signal it obeys: the glomerulosa
+answers to angiotensin II and potassium, the inner zones to ACTH. That single split explains why pituitary
+failure spares aldosterone, and why intra-adrenal methylation makes metanephrines the diagnostic currency
+of the medulla.
+
+EVALUATION OF ADRENAL LESIONS IN UROLOGICAL PRACTICE
+ • Urologists meet adrenal pathology as a referred new mass, an incidental mass in an existing patient, or
+   occasionally a clinically suspected syndrome before imaging.
+ • Two questions drive management: (1) could the lesion be malignant? (2) is it hormonally active —
+   secreting outside normal regulatory control? Either → treatment, usually resection (Box 146.1).
+ • Malignant potential is judged by imaging; hormonal activity by laboratory testing; biopsy helps only in
+   rare scenarios.
+ • The pregnant patient with an adrenal mass needs a tailored multidisciplinary plan (outside the chapter’s
+   scope).
+
+
+
+
+                                                             page 6 of 44
+Chapter 146 — Adrenal Disorders                                                 Evaluation of Adrenal Lesions in Urological Practice
+
+Overview
+BOX 146.1 SUMMARY OF SURGICAL INDICATIONS FOR ADRENALECTOMY
+ Category                         Indication
+ Functional mass                  Autonomous cortisol secretion; phaeochromocytoma; aldosterone hypersecretion
+ Oncological risk                 Mass >4 cm (except myelolipoma); malignant imaging features (lipid-poor,
+                                  heterogeneous, irregular borders, infiltrating); incidentaloma growing >1 cm on follow-
+                                  up; isolated adrenal metastasis (multidisciplinary decision)
+ Myelolipoma                      Extremely large and/or symptomatic
+ During nephrectomy for           Adrenal abnormal, or not visualised because of large tumour; venous thrombus to the
+ renal cell carcinoma (RCC)       level of the adrenal vein
+ Bilateral adrenalectomy          Failed neurosurgical treatment of Cushing disease; selected ectopic ACTH syndrome;
+                                  ACTH-independent macronodular adrenal hyperplasia (AIMAH); primary pigmented
+                                  nodular adrenocortical disease (PPNAD)
+
+ • Pattern: every indication is either function or cancer risk. Trap: myelolipoma is the named exception to
+   the 4-cm rule.
+
+Imaging of Adrenal Masses
+ • Imaging is the primary tool for malignant potential; several guidelines address it.
+ • No imaging feature reliably separates functional from non-functional adenomas — endocrine testing can
+   never be omitted on imaging grounds.
+Intracellular Fat Content
+ • Benign adenomas are lipid-rich and can often be diagnosed on this feature alone.
+Unenhanced computed tomography
+ • The first and perhaps single best, most easily interpreted test for intracellular lipid; diagnoses adenoma
+   in >70% of cases.
+ • <10 Hounsfield units (HU) = high intracytoplasmic lipid = adenoma in patients without another known
+   malignancy.
+ • ≤0 HU is 100% specific but insensitive (a minority of adenomas reach it) — hence the working 10-HU
+   threshold: highly specific, sensitivity reported from about 70% to 100% in recent series; confirmed in
+   surgical series.
+ • Limitations: up to 7% of adrenal metastases measure <10 HU (European Society of Endocrinology–
+   European Network for the Study of Adrenal Tumors, ESE–ENSAT), and rare low-density
+   phaeochromocytomas exist — metabolic work-up is mandatory for all lesions.
+ • Measure density yourself on digital images if the report omits it — avoids unnecessary further imaging.
+Magnetic resonance imaging
+ • Opposed-phase chemical-shift imaging: fat–water signal interference; signal loss on out-of-phase versus
+   in-phase sequences = intracellular lipid = adenoma. Usually assessed qualitatively (quantitative methods
+   use the spleen as reference).
+ • Test characteristics broadly equivalent to unenhanced CT; possible advantage for lipid-poor adenomas is
+   disputed. CT washout is more sensitive than chemical-shift MRI.
+Contrast Enhancement
+ • Post-contrast attenuation overlaps heavily between adenomas and non-adenomas — enhanced phases
+   are rarely useful alone, except for lesions that do not enhance at all (haemorrhage, cyst fluid).
+
+
+
+
+                                                          page 7 of 44
+Chapter 146 — Adrenal Disorders                                             Evaluation of Adrenal Lesions in Urological Practice
+ • Histogram analysis of a region of interest on enhanced CT: if >10% of pixels are <0 HU, the lesion is
+   probably an adenoma. Combination with fluorine-18 fluorodeoxyglucose positron emission tomography
+   (18F-FDG PET) CT is promising.
+Washout Studies
+ • Lipid-poor adenomas wash out contrast as rapidly as lipid-rich ones — the basis of the washout study,
+   now routine for lipid-poor lesions; highly sensitive and specific.
+ABSOLUTE VERSUS RELATIVE PERCENTAGE WASHOUT (15-MINUTE DELAY)
+                     Absolute percentage washout (APW)                        Relative percentage washout (RPW)
+ Phases needed       Unenhanced, enhanced (60 s), delayed (15 min)            Enhanced and delayed only
+ Formula             (Enhanced − delayed) ÷ (enhanced − unenhanced) × 100     (Enhanced − delayed) ÷ enhanced × 100
+ Adenoma if          >60%                                                     >40%
+ Below threshold Adenoma very unlikely
+
+ • Worked example (Fig. 146.7): unenhanced 15 HU, enhanced 55 HU, delayed 27 HU → APW = 28/40 =
+   70%; RPW = 28/55 ≈ 51% — both diagnostic of a lipid-poor adenoma.
+ • Pitfalls: RCC and hepatocellular carcinoma metastases can wash out like lipid-poor adenomas.
+   Adrenocortical carcinoma (ACC) data are limited (usually large at presentation); ACC classically fails to
+   wash out, with reported exceptions.
+ • 10-minute protocols: RPW >50% was originally required (some say >40% suffices), but experts still
+   recommend 15-minute delays.
+ • Order the protocol correctly and speak to the radiologist: unenhanced 5-mm adrenal images →
+   enhanced (1 minute post-bolus) → 15-minute delayed. A poorly performed test generates unnecessary,
+   anxiety-provoking follow-up.
+ • Gadolinium MRI washout is not used clinically — gadolinium signal is less dose dependent than iodinated
+   CT enhancement.
+Fig. 146.8 — imaging algorithm (sequence)
+ • Adrenal mass → <10 HU on CT or signal drop-out on chemical-shift MRI → adenoma; >10 HU or no drop-
+   out → CT washout study (15-minute delay) → APW >60% or RPW >40% = adenoma; below these =
+   adenoma very unlikely.
+Size
+ • Larger masses are more likely malignant (Fig. 146.9: benign lesions predominate below 4 cm; malignancy
+   rises steeply above 6 cm).
+RISK OF MALIGNANCY BY INCIDENTALOMA SIZE
+           Malignancy (recent large
+ Size      series)                      Other estimates in the chapter
+ <4 cm     0.1%                         Low potential (≈2% carcinoma); 4–5% carcinoma in surgical series; observe if
+                                        non-functional
+ 4–6       2.4%                         ≈6%; >4 cm ≈10%
+ cm
+ >6 cm     19.5%                        ≈25%
+
+ • Estimates vary with denominator — unselected incidentaloma cohorts (lower) versus resected surgical
+   series (higher).
+ • 4 cm is the consensus threshold to consider resection in fit patients: a 4-cm cut-off gives high sensitivity
+   but poor specificity for malignancy; 6 cm trades sensitivity for specificity.
+
+
+                                                     page 8 of 44
+Chapter 146 — Adrenal Disorders                                               Evaluation of Adrenal Lesions in Urological Practice
+ • Radiological size underestimates pathological size.
+ • Benign imaging overrides size: in the largest series, no incidentaloma <10 HU was malignant regardless
+   of size; in surgical series, all homogeneous adenoma-like lesions were benign whatever their size.
+ • Age modifies the threshold: adenoma incidence rises with age, so small lesions in the young demand
+   more caution, while lesions >4 cm in older comorbid patients may be better observed. Borders, lipid
+   content and enhancement are weighed with size; there is no level 1 evidence.
+Growth
+ • Follow growth kinetics of unresected lesions — but most resected for growth prove benign. In a
+   prospective cohort, a small minority grew ≥5 mm or ≥1 cm, and all resected for growth were benign.
+ • In a literature review, about 9% grew >1 cm over 3 years; the rate of malignant transformation ≈1 in
+   1000.
+ • ACC grows on average ≈1.9 cm per year.
+SURVEILLANCE AND GROWTH CRITERIA: CLASSIC VERSUS ESE–ENSAT
+               Classic recommendation                                ESE–ENSAT guideline
+ Re-imaging 6, 12 and (if possible) 24 months; suspicious            None for metabolically silent masses <4 cm with
+            lesions earlier/more often                               benign imaging; others at 6–12 months
+ Growth        ≥1 cm growth (arbitrary) → consider resection;        >20% increase in diameter and ≥5 mm = clinically
+ trigger       counsel that risk is low if kinetics flat             concerning
+
+
+ KEY POINTS: SIZE AND GROWTH
+   • Larger tumours are more likely malignant, yet imaging features remain informative in large masses; in
+     healthy, especially young, patients, masses ≥4 cm should be resected or watched very closely.
+   • Follow growth kinetics in lipid-poor masses or those >4 cm that are not resected.
+
+Other Imaging Characteristics
+ • Large heterogeneous masses invading surrounding structures suggest carcinoma; irregular margins and
+   an enhancing rim are quite specific for malignancy. Cysts and acute/subacute haemorrhage have
+   characteristic appearances.
+Macroscopic fat
+ • Macroscopic fat almost always means myelolipoma and is treated by most guidelines as definitively
+   benign (reported 100% sensitive for myelolipoma).
+ • No agreed definition: areas <−30 HU proposed as fat density; series have used −130 to −23 HU. Also easily
+   seen on MRI.
+ • Fat proportion discriminates: isolated myelolipomas are usually >50% fat; lesions with <10% fat were
+   mixed myelolipoma with other pathology (hyperplasia, functioning or non-functioning adenoma). Rare fat-
+   containing ACCs were symptomatic with <5% fat; “myelolipomatous degeneration” of adenomas had
+   <20% fat. Teratoma, metastasis, lipoma and angiomyolipoma may contain fat (the latter two need not be
+   distinguished clinically).
+ • Distinguish from retroperitoneal liposarcoma: aggressive, irregular borders, infiltrative. Some experts
+   biopsy when in doubt.
+Calcifications
+ • Some guidelines treat calcification as definitively benign, but it occurs in up to 30% of ACCs — the authors
+   reject that confidence.
+ • Fine punctate calcification suggests ganglioneuroma but is not pathognomonic.
+
+
+                                                      page 9 of 44
+Chapter 146 — Adrenal Disorders                                                  Evaluation of Adrenal Lesions in Urological Practice
+
+Other Imaging Modalities
+Ultrasonography
+ • Suboptimal for detection and characterisation, yet the commonest source of incidentalomas where it is
+   first-line imaging.
+ • Right-sided lesions detected more often: the IVC and liver give a window on the right; the left adrenal is
+   hidden or mistaken for spleen, pancreas, para-aortic nodes or stomach.
+Functional imaging
+ • Rarely needed; useful when the origin is unclear or malignancy is suspected but unconfirmed.
+ • 18F-FDG PET: high sensitivity and specificity for malignant lesions (ACC, metastases) but reserved for
+   inconclusive CT/clinical data; CT washout may be more helpful in patients with known cancer. Caution
+   again with RCC and hepatocellular carcinoma metastases.
+ • Cortex-specific tracers: NP59 (radiolabelled cholesterol analogue) is taken up by adrenocortical cells —
+   separates adenoma from metastasis; planar imaging is limited for small lesions, improved by single-
+   photon emission CT (SPECT-CT). 11C-metomidate and 123I-iodometomidate (inhibitors of 11β-
+   hydroxylase and aldosterone synthase) identify cortical origin but cannot distinguish adenoma from ACC,
+   and 11C has a short half-life.
+Functional imaging in phaeochromocytoma
+FUNCTIONAL IMAGING FOR PHAEOCHROMOCYTOMA AND PARAGANGLIOMA
+ Modality                    Role                           Strength                                     Weakness
+ 18F-FDG PET                 Gold standard for              Superior to CT, MRI and MIBG,                Poor in MEN-2 (<50%
+                             definitive staging (NIH        especially for metastases; exquisitely       sensitivity) — far
+                             data)                          sensitive in SDHB and VHL; avidity           inferior to 123I-MIBG
+                                                            independent of biochemical                   there
+                                                            phenotype
+ 68Ga-DOTATATE PET/CT Replacing FDG PET at some Superior signal-to-noise; similar test                   —
+                             centres                        characteristics
+ 123I-MIBG                   Extra-adrenal, metastatic,     High sensitivity, superb specificity; best Cold scans in VHL
+ (norepinephrine             recurrent disease;             in MEN-2                                   and SDHB; aggressive
+ analogue; preferred to      biochemistry positive but                                                 metastases lose
+ 131I)                       imaging negative                                                          uptake
+
+ • Abbreviations: National Institutes of Health (NIH); succinate dehydrogenase subunit B (SDHB); von Hippel–
+   Lindau (VHL); multiple endocrine neoplasia type 2 (MEN-2).
+ • Solitary adrenal mass with positive biochemistry: no consensus on routine MIBG — advocates cite
+   confirmation and exclusion of missed metastases; others find it does not change management. For large
+   (>5 cm) tumours, MIBG or FDG PET is prudent to exclude metastases before surgery.
+ • Isolated norepinephrine/normetanephrine excess (no epinephrine/metanephrine) → MIBG may reveal
+   that the functioning lesion is extra-adrenal.
+ • Radiolabelled somatostatin analogues and 18F-dopamine PET are alternatives where MIBG fails; most
+   have limited use.
+ • Trap: FDG PET is best in every genotype except MEN-2, where MIBG wins.
+Figure legend — Fig. 146.10
+ • T2-weighted MRI of a right phaeochromocytoma; MIBG shows normal uptake in liver, salivary glands,
+   thyroid and bladder.
+
+
+
+                                                          page 10 of 44
+Chapter 146 — Adrenal Disorders                                        Evaluation of Adrenal Lesions in Urological Practice
+
+ KEY POINTS: IMAGING
+   • <10 HU on unenhanced CT = high intracellular lipid — extremely specific for adenoma; MRI is similar.
+   • CT washout is the gold standard for adrenal imaging: it separates even lipid-poor adenomas (about
+     30% of adenomas) from other lesions; gadolinium MRI washout is not used.
+   • RCC metastases may mimic lipid-poor adenomas.
+
+Concept — Adrenal imaging is a lipid assay followed by a perfusion assay: unenhanced density detects the fat
+that defines adenoma, and washout rescues the lipid-poor adenoma. Everything that defeats the method —
+RCC and hepatocellular metastases, low-density phaeochromocytoma — is why imaging never replaces
+biochemistry.
+
+Assessing for Hormonal Hypersecretion
+Overview
+ • All adrenal lesions >1 cm need testing for hormone excess: cortisol and catecholamines in every case;
+   aldosterone if hypertension or unexplained hypokalaemia.
+ • Rationale: >10% of incidentalomas are metabolically active (Table 146.4). Yet an estimated 75–80% of
+   adrenal masses are inadequately evaluated.
+ • Myelolipoma: pure myelolipomas are never active, but the authors still advise hormonal work-up.
+ • Catecholamine testing in <10 HU lesions: observational data and a meta-analysis found ≥10 HU detected
+   100% of phaeochromocytomas, so testing may be unnecessary for <10 HU asymptomatic lesions — now
+   incorporated in Canadian Urological Association (CUA) guidance.
+ • Never biopsy, sample (AVS) or excise any adrenal lesion before excluding catecholamine excess —
+   manipulation can provoke a fatal catecholamine surge.
+TABLE 146.4 CHARACTERISTICS OF INCIDENTAL ADRENAL MASSES IN A SYSTEMATIC REVIEW OF PUBLISHED SERIES
+(≥20 PATIENTS)
+ Lesion                                                          % of all incidentalomas
+ Metabolically active                                            11.2
+ — Cortisol-producing adenoma                                    5.3
+ — Phaeochromocytoma                                             5.1
+ — Aldosterone-producing adenoma                                 1.0
+ Malignant                                                       7.2
+ — Adrenocortical carcinoma                                      4.7
+ — Metastasis                                                    2.5
+ Total potentially surgical                                      18.4
+Data from Young WF Jr, 2000 and 2007.
+ • Pattern: nearly one in five incidentalomas is potentially surgical; cortisol and phaeochromocytoma
+   dominate function, ACC dominates malignancy. Trap: aldosteronoma is the rarest functional lesion in
+   incidentaloma series, though primary aldosteronism is common among hypertensives.
+Testing for Aldosterone Hypersecretion
+ • Only about 1% of adenomas cause Conn syndrome, but up to ~5% of newly hypertensive patients may
+   harbour an aldosterone-secreting adenoma.
+ • 2016 Endocrine Society guideline (with nine other organisations) on primary aldosteronism (PA) — no
+   competing guideline; the chapter follows it.
+
+
+
+                                                page 11 of 44
+Chapter 146 — Adrenal Disorders                                               Evaluation of Adrenal Lesions in Urological Practice
+Indications for screening
+ • Adrenal lesion plus hypertension or unexplained hypokalaemia. Accurate diagnosis and subtyping matter
+   for target-organ risk, drug selection and potential surgical cure.
+BOX 146.2 INDICATIONS FOR PRIMARY ALDOSTERONE SCREENING
+ Category             Indication
+ Severity/            Resistant hypertension (≥3 agents including a diuretic); controlled on ≥4 agents; ≥150/≥100
+ resistance           mmHg on 3 separate days
+ Biochemistry         Hypertension with hypokalaemia; unexplained hypokalaemia (spontaneous or diuretic induced)
+ Associations         Adrenal incidentaloma with hypertension; hypertension with sleep apnoea; target-organ damage
+                      disproportionate to hypertension
+ Age/family           Hypertension onset <20 years or stroke <50 years; family history of PA
+ Work-up context      Whenever other secondary causes (phaeochromocytoma, renovascular) are considered
+Modified from Funder JW et al., 2016.
+Screening test: aldosterone-to-renin ratio
+ • Screening test of choice: morning plasma aldosterone concentration (PAC, ng/dL) ÷ plasma renin activity
+   (PRA, ng/mL/h) = aldosterone-to-renin ratio (ARR), expressed as a unitless number; direct renin
+   concentration (DRC) is an alternative.
+ • Sample 8–10 am, preferably seated — the same window as the morning cortisol of the dexamethasone
+   test.
+ • Floor the renin at 0.2 ng/mL/h to avoid falsely high ratios; very low renin alone inflates the ARR, so a high
+   ARR with low PAC (especially <15 ng/dL) suggests a false positive — but not absolutely, as some proven
+   aldosteronomas have PAC <15 or even <10 ng/dL.
+ • Hypokalaemia is an unreliable screen: fewer than 40% of patients with PA are hypokalaemic.
+ARR THRESHOLDS PROPOSED
+ Source                                  ARR                                                                      PAC
+ Range in the literature                 20–40 (20 most common; as low as 15 in some settings)                    —
+ NIH Consensus Statement 2002            >30                                                                      >20 ng/dL
+ Other institutions                      >20                                                                      >15 ng/dL
+
+ • Thresholds vary with laboratory; lower cut-offs raise false positives, acceptable because every positive
+   screen must be confirmed. Sensitivity and specificity vary widely between series.
+Preparation and drug effects (Fig. 146.11)
+DRUG EFFECTS ON ARR SCREENING
+ Agent                                  Effect                     Action
+ Mineralocorticoid receptor             Greatly alter RAAS         Stop before testing — at least 4 weeks (Endocrine
+ antagonists (spironolactone),                                     Society 2016) or about 6 weeks (other experts; Figs
+ potassium-sparing diuretics                                       146.11, 146.13); substitute α1-blockers or long-
+ (amiloride)                                                       acting calcium channel blockers if needed
+ β-blockers                             Aldosterone                May continue — aldosterone stays normal; some
+                                        unchanged, renin ↓ →       stop them (for several weeks)
+                                        ARR ↑ (false positive)
+ ACE inhibitors, angiotensin            Aldosterone ↓, renin ↑ No need to stop: autonomous secretion is RAAS
+ receptor blockers (ARBs)               → ARR ↓ (small chance independent, and an undetectable renin despite
+                                        of false negative)     these drugs triggers confirmatory testing even with
+                                                               a normal ARR
+
+
+
+                                                       page 12 of 44
+Chapter 146 — Adrenal Disorders                                               Evaluation of Adrenal Lesions in Urological Practice
+
+ Agent                                 Effect                      Action
+ Calcium channel blockers              Neutral                     No need to stop
+
+ • Also: correct hypokalaemia (may cause false results), liberalise sodium, avoid liquorice (including
+   chewing tobacco). Historical advice to stop all antihypertensives is no longer necessary. ACE, angiotensin-
+   converting enzyme.
+ • Trap: β-blockers cause false positives; ACE inhibitors and ARBs cause false negatives — opposite
+   directions.
+Confirmatory testing
+ • Mandatory after a positive screen — only 50–87% of positive screens are confirmed. Refer to an
+   experienced endocrinologist at this point.
+ • Omit confirmation when there is spontaneous hypokalaemia + undetectable renin + PAC >20 ng/dL (high
+   positive predictive value).
+ • Most tests exploit failure of aldosterone to suppress with sodium loading; no test is superior, so choice is
+   by patient and physician. Monitor blood pressure; correct hypokalaemia and stop mineralocorticoid
+   receptor antagonists first.
+CONFIRMATORY TESTS FOR PRIMARY ALDOSTERONISM
+ Test                  Protocol                                   Positive (PA)         Comment
+ Oral sodium           High-sodium diet 3 days (≥12.8 g           24-h urine            Preferred with IV saline
+ loading               sodium/day) → 24-h urine aldosterone,      aldosterone >12
+                       sodium, creatinine; urine sodium must      µg/day
+                       be >200 mmol
+ Intravenous saline 2 L 0.9% saline over 4 h, recumbent,          PAC >5 ng/dL; >10     Spares days of loading
+ infusion           morning after overnight fast                  ng/dL suggests
+                                                                  adenoma
+ Fludrocortisone       Fludrocortisone 0.1 mg 6-hourly + NaCl     PAC fails to          Former gold standard;
+ suppression           2 g 8-hourly × 4 days; upright PAC         suppress <6 ng/dL     abandoned for severe
+                                                                                        hypertension and hypokalaemia
+                                                                                        risk
+ Captopril             Captopril 25–50 mg, recumbent              PAC stays >15 ng/     Needs validation; for patients in
+ suppression                                                      dL                    whom sodium loading is
+                                                                                        contraindicated (cardiac, renal
+                                                                                        disease)
+
+ • Furosemide-upright and ACTH stimulation tests exist but are not widely used. Trap: sodium loading is the
+   principle; captopril is the escape route when salt cannot be given.
+Subtype differentiation
+ • Essential because only some subtypes are surgically curable (Box 146.3). Non-surgical candidates skip
+   subtyping and start medical therapy (Fig. 146.12).
+ • Genetic testing not for all; consider with family history of PA, onset <20 years, or family history of early
+   stroke.
+ • Adrenal CT in all potential surgical candidates. Aldosterone-producing adenoma: unilateral, <10 HU, non-
+   enhancing, average 1.6–1.8 cm, normal contralateral gland — but about 20% are <1 cm (Fig. 146.14: a
+   typical ~1-cm aldosteronoma), so lateralisation is never based on CT alone. Idiopathic hyperplasia:
+   multiple nodules, bilateral limb enlargement, or normal glands. MRI adds cost without advantage.
+ • AVS establishes lateralisation in surgical candidates: CT-based decisions would have wrongly excluded
+   22% and wrongly recommended adrenalectomy in 25%. When done correctly, AVS sensitivity 95%,
+   specificity 100%.
+
+
+                                                       page 13 of 44
+Chapter 146 — Adrenal Disorders                                                 Evaluation of Adrenal Lesions in Urological Practice
+ • AVS exceptions: age <40 with a clear unilateral adenoma (>1 cm) and normal contralateral gland
+   (incidental adenomas rare in the young), and suspected ACC.
+ • SPARTACUS randomised trial (CT- versus AVS-guided treatment): no difference in antihypertensive
+   intensity at 1 year, challenging routine AVS; CT and AVS lateralisation were discordant in half; persistent
+   biochemical aldosteronism after surgery was more frequent with CT guidance (20% vs 10%).
+BOX 146.3 SUBTYPES OF PRIMARY ALDOSTERONISM
+ Surgically correctable                                          Not correctable by surgery
+ Aldosterone-producing adenoma                                   Bilateral adrenal hyperplasia
+ Primary unilateral adrenal hyperplasia                          Familial hyperaldosteronism type I
+ Ovarian aldosterone-secreting tumour                            Familial hyperaldosteronism type II
+ Aldosterone-producing carcinoma                                 Familial hyperaldosteronism type III
+
+Fig. 146.12 and Fig. 146.13 — algorithms (sequence)
+ • Adrenal mass → hypertension? No → no aldosterone testing; yes → morning ARR and aldosterone (stop
+   potassium-sparing diuretics 6 weeks, consider stopping β-blockers) → abnormal → confirmatory testing
+   with endocrinology ± AVS; normal → PA unlikely.
+ • Indication for screening → PAC/PRA → positive → confirm → PA → family history or onset <20 → screen
+   for familial hyperaldosteronism type I → surgical candidate? No → medical management; yes → adrenal
+   CT → age <40 with unilateral nodule >1 cm → adrenalectomy; otherwise (normal glands, bilateral
+   enlargement, micronodularity, or age ≥40) → AVS → lateralised → adrenalectomy; not lateralised →
+   medical management.
+Adrenal vein sampling technique (Fig. 146.15)
+ • Preparation: 1 h recumbency, correct hypokalaemia, withdraw interfering antihypertensives; morning,
+   after overnight fast.
+ • Femoral venous access → catheters in right adrenal vein, left adrenal vein and IVC → measure
+   aldosterone and cortisol in each.
+ • Selectivity: adrenal vein cortisol ÷ IVC cortisol must exceed 1.1:1 to 5:1 (higher with cosyntropin). Below
+   cut-off on either side = non-selective → discard (consider repeat, with ACTH stimulation if not used).
+ • Lateralisation: (Adominant/Cdominant) ÷ (Anon-dominant/Cnon-dominant) >2:1 to 4:1 (higher with
+   cosyntropin) → consider ipsilateral adrenalectomy; otherwise medical management.
+COSYNTROPIN STIMULATION DURING AVS
+ For                                                                     Against
+ Minimises stress-related aldosterone fluctuation; maximises             Small risk of wrong-side lateralisation; moderate
+ cortisol gradient (easier confirmation of selectivity); maximises       risk of misclassifying adenoma as idiopathic
+ aldosteronoma secretion                                                 hyperplasia
+
+When AVS is inconclusive
+ADJUNCTS FOR SUBTYPE DIFFERENTIATION
+ Test                             Principle                            Adenoma pattern                  Limitation
+
+ NP59 scintigraphy (131I-6β-      Only modality giving functional Unilateral uptake <5 days;            Poor for lesions <1.5
+ iodomethyl-norcholesterol,       and anatomical data; Lugol      bilateral = hyperplasia               cm; no longer
+ cholesterol analogue)            iodine thyroid protection;                                            available in the USA;
+                                  dexamethasone 1 mg 6-hourly                                           SPECT-CT improves
+                                  × 7 days; image days 4–10                                             sensitivity
+
+
+
+
+                                                       page 14 of 44
+Chapter 146 — Adrenal Disorders                                                     Evaluation of Adrenal Lesions in Urological Practice
+
+ Test                             Principle                               Adenoma pattern                   Limitation
+ Posture stimulation              Overnight recumbent vs 4 h              Adenoma and familial              No side information;
+                                  upright PAC; upright                    hyperaldosteronism I: no          30–50% of adenomas
+                                  angiotensin ↑                           rise; hyperplasia: ≥33% rise;     rise, 20% of
+                                                                          normal: 2–4-fold                  hyperplasia do not
+ 18-hydroxycorticosterone         Serum level                             >100 ng/dL suggests               Accuracy <80%; no
+ (aldosterone precursor)                                                  adenoma                           side information
+ 11C-metomidate PET-CT            Cortical enzyme inhibitor tracer Detects aldosteronoma with               Needs validation and
+                                                                   moderate sensitivity, good               availability
+                                                                   specificity
+
+Testing for Hypercortisolism
+ • All lesions >1 cm; 5–8% of incidentalomas secrete excess glucocorticoid.
+ • Overnight low-dose dexamethasone suppression test (LD-DST) is the favoured screen for adrenal
+   masses. Late-night salivary cortisol (LNSC), 24-hour urinary free cortisol (UFC) and the 48-hour 2-mg test
+   are valid for Cushing syndrome generally (2008 Endocrine Society) but secondary for adrenal masses.
+ • Exclude exogenous steroids, including creams and nasal sprays, before testing. Before resection for
+   clinically significant hypercortisolism, confirm suppressed/low morning ACTH.
+ • Other conditions activate the HPA axis and mimic Cushing syndrome (Box 146.4) — endocrine expertise is
+   advised.
+SPECIAL POPULATIONS: CHOICE OF CORTISOL SCREEN
+ Population       Test      Reason
+ Pregnancy        UFC       Avoids dexamethasone; cut-offs raised 2–3-fold in 2nd–3rd trimesters
+ Epilepsy         LNSC      Antiepileptics accelerate dexamethasone clearance
+ Renal failure    LD-DST Urinary cortisol falls when creatinine clearance <60 mL/min; LNSC norms not established
+
+Terminology
+CORTISOL-EXCESS TERMINOLOGY
+ Term                                 Meaning
+ Hypercortisolism /                   Excess circulating cortisol
+ hypercortisolaemia / cortisol
+ excess
+ Cushing syndrome                     Hypercortisolism with observable clinical signs (skin fragility, proximal weakness,
+                                      fat redistribution)
+ Cushing disease                      Cushing syndrome from a pituitary ACTH-secreting adenoma
+ Autonomous cortisol secretion/       Neoplastic cortisol excess without ACTH drive — a biochemical diagnosis
+ excess
+ Mild autonomous cortisol             Autonomous secretion without clinical signs; replaces “subclinical Cushing
+ secretion (MACS)                     syndrome” because it is not truly subclinical — ↑ cardiovascular mortality, bone
+                                      disease, diabetes, hypertension
+
+SCREENING TESTS FOR CORTISOL EXCESS
+ Test             Method                      Threshold                              Pitfalls
+ Overnight 1-     Dexamethasone 1 mg          >5.0 µg/dL (140 nmol/L): >95%          Oral contraceptives → up to 50% false
+ mg LD-DST        at 11 pm–midnight;          specific; ≤1.8 µg/dL (50 nmol/L):      positives (↑ cortisol-binding globulin);
+ (preferred)      serum cortisol 8–9 am       >90% sensitive — rules out; 1.8–       CYP3A4 inducers/inhibitors (Box 146.5);
+                                              5.0 = “possible autonomous             not affected by GFR
+                                              cortisol secretion”
+
+
+
+                                                          page 15 of 44
+Chapter 146 — Adrenal Disorders                                                    Evaluation of Adrenal Lesions in Urological Practice
+
+ Test             Method                       Threshold                            Pitfalls
+ Late-night       Saliva 11 pm–midnight        ≤145 ng/dL by liquid                 False positives in depression, altered
+ salivary         or bedtime; repeat at        chromatography–tandem mass           sleep, chronic illness; no tobacco that
+ cortisol         least twice                  spectrometry (LC-MS/MS)              day; no food, drink, tooth-brushing or
+                                                                                    activity 30 min before; unvalidated in
+                                                                                    chronic kidney disease ≥stage III; weaker
+                                                                                    evidence base; doubtful for MACS
+ 24-h urinary     Integrated free              Normal ≈ 50–100 µg/24 h (assay       Insensitive for subtle adrenal cortisol
+ free cortisol    cortisol; two                dependent)                           excess; unreliable if GFR <60 mL/min;
+                  collections; check                                                unaffected by binding globulin; test of
+                  creatinine for                                                    choice in pregnancy
+                  completeness
+
+ • Despite the name, 1 mg dexamethasone is 3–4 times physiological glucocorticoid, and the assay does
+   not detect dexamethasone — so normal subjects have low cortisol. At the 5.0 threshold, up to 18% of
+   Cushing syndrome gives false negatives, hence the 1.8 rule-out cut-off (specificity about 80%).
+ • If LD-DST morning cortisol is >1.8 µg/dL: repeat metabolic testing and draw basal morning ACTH. A 48-
+   hour low-dose test may improve accuracy.
+ • Trap: “low-dose” is supraphysiological; and the UFC is displaced as first-line screen by LD-DST or LNSC for
+   incidentalomas (2008 guidance).
+BOX 146.4 CAUSES OF HYPERCORTISOLISM IN THE ABSENCE OF CUSHING SYNDROME
+ Some cushingoid features possible                  Cushingoid features unlikely
+ Pregnancy; depression; alcohol dependence; Physical stress (hospitalisation, surgery, pain); malnutrition, anorexia
+ glucocorticoid resistance; morbid obesity; nervosa; intense chronic exercise; hypothalamic amenorrhoea;
+ poorly controlled diabetes                 cortisol-binding globulin excess (serum, not urine, cortisol ↑)
+Modified from Nieman LK et al., 2008. Cushing syndrome may rarely coexist; test if suspicion is high, especially in the
+first group.
+BOX 146.5 PHARMACEUTICALS THAT AFFECT TESTING FOR CUSHING SYNDROME
+ Mechanism                             Drugs                                                                        Effect on test
+ CYP3A4 induction —                    Phenobarbital, phenytoin, carbamazepine, primidone, rifampicin,              False-positive
+ accelerate dexamethasone              rifapentine, ethosuximide, pioglitazone                                      DST
+ metabolism
+ CYP3A4 inhibition — impair            Aprepitant/fosaprepitant, itraconazole, ritonavir, fluoxetine,               False-negative
+ dexamethasone metabolism              diltiazem, cimetidine                                                        DST
+ ↑ Cortisol-binding globulin           Oestrogens, mitotane                                                         Falsely high
+                                                                                                                    serum cortisol
+ ↑ Urine free cortisol                 Carbamazepine; fenofibrate (HPLC); some synthetic glucocorticoids            Falsely high
+                                       (immunoassay); 11β-hydroxysteroid dehydrogenase type 2                       UFC
+                                       inhibitors (liquorice, carbenoxolone)
+From Nieman LK et al., 2008; not a complete list.
+Confirmatory testing
+ • Clinical signs plus abnormal screen: confirmation probably unnecessary. Abnormal test with low
+   suspicion, or normal tests with high suspicion → endocrinologist.
+Identifying the cause of hypercortisolism (sequence)
+ • Step 1 — exclude exogenous glucocorticoid: the commonest cause in the Western world; oral, topical or
+   inhaled, even low dose; ask about herbal remedies, nasal sprays and surreptitious use (e.g., performance
+   enhancement).
+
+
+
+                                                           page 16 of 44
+Chapter 146 — Adrenal Disorders                                            Evaluation of Adrenal Lesions in Urological Practice
+ • Step 2 — serum ACTH:
+     ◦ Low ACTH → ACTH-independent: adrenal adenoma (autonomous secretion) or PPNAD; also exogenous
+       steroid. Normal adrenals on imaging → suspect exogenous steroid, rarely PPNAD. Up to 10% of
+       adrenal Cushing syndrome is bilateral — AVS may help.
+     ◦ High ACTH → ACTH-dependent (pituitary adenoma or ectopic source) — outside urology; refer.
+ • Step 3 — pituitary versus ectopic: difficult because both sources are hard to image and incidental
+   pituitary, lung and pancreatic findings are common (10% of the population have a pituitary imaging
+   abnormality; half of Cushing disease has a normal pituitary MRI). Gold standard: inferior petrosal sinus
+   ACTH sampling after CRH stimulation — central-to-peripheral gradient = Cushing disease; no gradient =
+   ectopic.
+ • High-dose dexamethasone suppression is no longer routine: some ectopic tumours carry glucocorticoid
+   receptors and also suppress.
+Fig. 146.16 — cortisol algorithm (sequence)
+ • Adrenal mass → exclude exogenous glucocorticoid → one of: overnight 1-mg DST, LNSC (×2) or 24-h UFC
+   (×2) → normal = Cushing syndrome unlikely; any abnormal → endocrinologist for confirmation (repeat
+   abnormal LNSC/UFC).
+Testing for Adrenal Sex Steroid Hypersecretion
+ • Exceedingly rare in incidentalomas. Commonest sex-steroid-secreting mass: ACC co-secreting cortisol.
+   Pure androgen-secreting tumours (testosterone, 17-ketosteroids) occur mainly in women; about half are
+   benign.
+ • No routine testing; test when ACC is suspected: DHEA-S, androstenedione, 17-hydroxyprogesterone;
+   testosterone in women; oestradiol in men and postmenopausal women — potential ACC tumour
+   markers; diagnostic value for benign versus malignant not yet defined.
+ • Dexamethasone suppression to separate adrenal from ovarian androgen is unreliable — replaced by
+   imaging.
+Testing for Catecholamine Hypersecretion
+ • Phaeochromocytoma in about 5% of incidentalomas → all patients, including those with suspected
+   metastasis, need testing.
+ • Broad guideline consensus: plasma free metanephrines or urinary fractionated metanephrines;
+   performance is similar overall.
+ • Liquid chromatography methods (electrochemical/fluorometric or tandem mass spectrometry) are
+   preferred to immunoassays.
+ • Interference: paracetamol (acetaminophen), mesalazine, sulfasalazine cross-react with electrochemical
+   detection — stop ≥5 days; tricyclic antidepressants and phenoxybenzamine cause false positives — stop;
+   severe illness causes false positives.
+ • Urine catecholamines and VMA are abandoned as first-line tests (lower accuracy).
+TABLE 146.5 RELATIVE MERITS OF URINARY FRACTIONATED VERSUS PLASMA FREE METANEPHRINES
+ Issue                      Urinary fractionated metanephrines           Plasma free metanephrines
+ Availability               Well established, widely available           Newer, limited availability
+ Analytical ease            High concentrations (200–2000 nmol) — easy   Low concentrations (0.1–0.5 nmol) —
+                                                                         harder
+ Staff burden               Minimal                                      Blood collection needs staff time
+ Patient convenience        24-h collection inconvenient; incomplete     More convenient; collection and handling
+                            collections unreliable                       better regulated
+
+
+                                                        page 17 of 44
+Chapter 146 — Adrenal Disorders                                               Evaluation of Adrenal Lesions in Urological Practice
+
+ Issue                      Urinary fractionated metanephrines              Plasma free metanephrines
+ Diet/sympathetic           Hard to control                                 More easily controlled
+ influences
+ Children                   Needs age-appropriate reference ranges          Sampling stressful, but interpretation easier
+ Renal failure              May be inappropriate                            Applicable
+From Grossman A et al., 2006.
+PLASMA FREE VERSUS 24-H URINARY FRACTIONATED METANEPHRINES: PROTOCOL AND THRESHOLDS
+                   Plasma free metanephrines                                  24-h urinary fractionated metanephrines
+ Performance       Near-perfect sensitivity (sporadic and familial);          By tandem mass spectrometry: sensitivity
+                   specificity lower in sporadic cases                        >97%, specificity ≈91%; some pair it with
+                                                                              urinary catecholamines as best first line
+ Conditions        Supine, after 20 min rest (seated sampling raises        Discard first morning void, collect all urine
+                   normal values and blurs separation); fast from midnight; to next first morning void; check
+                   no caffeine; continue antihypertensives (stop β-blockers creatinine; normal renal function
+                   only on repeat)
+ Upper limit of    Normetanephrine 0.61 nmol/L (112 ng/L);                    Positive: metanephrine >1531,
+ normal            metanephrine 0.31 nmol/L (61 ng/L)                         normetanephrine >4001, total >1563
+                                                                              nmol/day
+ Highly            Normetanephrine >2.2 nmol/L (400 ng/L) and/or              —
+ indicative        metanephrine >1.2 nmol/L (236 ng/L)
+
+ • Lesser elevations → repeat: repeat plasma test under ideal conditions (supine 20 min, off β-blockers),
+   urinary fractionated metanephrines, chromogranin A, or clonidine suppression — and involve an
+   experienced endocrinologist.
+Fig. 146.21 — catecholamine algorithm (sequence)
+ • Adrenal mass → stop tricyclics and phenoxybenzamine → plasma free metanephrines (stop paracetamol
+   5 days; supine) or 24-h urinary fractionated metanephrines (verify renal function) → normal =
+   phaeochromocytoma extremely unlikely; any abnormal → endocrinologist for confirmation.
+
+ KEY POINT: ASSESSMENT OF FUNCTION OF ADRENAL MASSES
+   • All adrenal incidentalomas demand a metabolic evaluation.
+
+Concept — Every hormonal screen is a suppression-or-rhythm test for autonomy: aldosterone that ignores a
+suppressed renin or a salt load, cortisol that ignores dexamethasone or the night, catecholamine metabolites
+produced continuously inside the tumour. Each false result comes from something that shifts the regulator or
+the assay — drugs, binding globulins, posture, renal function.
+
+Biopsy of Adrenal Masses
+Overview
+ • Limited role: (1) imaging with clinical data diagnoses well; (2) histology cannot reliably separate
+   adenoma from carcinoma; (3) biopsy carries risk.
+ • ESE–ENSAT: no biopsy without a history of malignancy. Main role: confirm suspected metastasis (rarely
+   necessary); tissue in metastatic ACC before systemic therapy.
+Test Characteristics of Biopsy
+ • Without known malignancy: solitary adrenal metastasis as first presentation is extremely rare; sensitivity
+   for malignancy at best 81–84%, for ACC at best 70%; specificity ≈99%. 18–19-gauge needles improve
+   yield without more complications; adequacy about 88% (67–100%).
+
+
+                                                        page 18 of 44
+Chapter 146 — Adrenal Disorders                                                                Adrenal Neoplasia
+ • With known extra-adrenal malignancy: >50% of new adrenal lesions are metastases; biopsy accurately
+   separates metastasis from benign lesion, with excellent negative predictive value once non-diagnostic
+   samples are excluded. Positive yield highest with lung cancer (>90%) and RCC (80%).
+Complications of Biopsy
+ • 2.8–12%; bleeding commonest; also pneumothorax, haemothorax, abscess, bacteraemia, pancreatitis.
+   Biopsy (especially with haemorrhage) may complicate or prevent laparoscopic resection.
+ • Needle-tract seeding in ACC — some advise avoiding biopsy if ACC suspected (only two cases reported).
+ • Exclude phaeochromocytoma biochemically first — biopsy can precipitate a life-threatening hypertensive
+   crisis (some inadvertent biopsies were uneventful, but due diligence is mandatory).
+Clinical Usefulness of Biopsy
+ • Community biopsies before tertiary referral never changed management in one review. Radiology reports
+   calling lesions “amenable to biopsy” should be strongly discouraged.
+ • Biopsy only when imaging limits are reached and the result will change management — chiefly a known
+   primary cancer possibly recurring in the adrenal.
+Fig. 146.17 — biopsy decision (sequence)
+ • Can imaging characterise the mass? Yes → no biopsy. Metabolically active? Yes → no biopsy. ACC strongly
+   suspected? Yes → no biopsy. Will biopsy change management, and does benefit justify risk (including
+   harder laparoscopic surgery)? Yes → biopsy, with phaeochromocytoma excluded.
+
+ KEY POINTS: BIOPSY OF ADRENAL MASSES
+   • Favourable test characteristics for benign versus metastatic disease.
+   • Always exclude phaeochromocytoma before biopsy.
+
+Concept — Biopsy answers only one question well — is this a metastasis? — because cytology cannot
+separate adenoma from carcinoma. It is therefore justified only when a known cancer may have recurred and
+the answer changes treatment.
+
+ADRENAL NEOPLASIA
+
+Adrenal Incidentaloma
+Definition
+ • Adrenal mass >1 cm found on cross-sectional imaging performed for an unrelated reason. Strictly
+   excludes masses found during cancer staging or in patients later found to have adrenal-related
+   symptoms.
+ • Work-up aims to reclassify the incidentaloma into a specific neoplasm, which then dictates management.
+Epidemiology
+ • About 5% on imaging, matching autopsy data; rises with age from <0.5% in the 20s to up to 7% at ≥70
+   years.
+ • The retroperitoneum allows silent growth beyond 20 cm, yet median size at presentation ≈3 cm.
+ • “Incidental” does not mean “insignificant”: nearly 20% are potentially surgical (Table 146.4).
+
+
+
+
+                                                 page 19 of 44
+Chapter 146 — Adrenal Disorders                                                                  Adrenal Neoplasia
+
+Adrenal Adenoma
+Overview and Epidemiology
+ • Commonest adrenal neoplasm, cortical in origin; about 6% at autopsy; >85% of incidentally imaged
+   adrenal neoplasms are adenomas; prevalence rises with age.
+ • Task: separate the non-functional benign adenoma from functional or malignant lesions.
+Pathophysiology and Clinical Characteristics
+ • Yellow from abundant lipid; histologically may resemble carcinoma — distinguished by the Weiss criteria
+   and immunohistochemistry (Box 146.6).
+ • Benign by definition; most metabolically silent: in pooled series ≈90% of incidentalomas were benign
+   adenomas, of which ≈93% were inactive, ≈6% cortisol-secreting and ≈1% aldosterone-secreting.
+ • Testosterone-secreting adenomas are exceedingly rare and may contain Reinke crystals (normally in
+   Leydig cells).
+ • Associations of non-functional adenoma with insulin resistance and left ventricular dysfunction are
+   unconfirmed.
+ • Most remain stable; about 9% grow >1 cm over 3 years.
+Hormonally Inactive Adenoma
+ • No immediate intervention. Repeat testing and imaging are controversial, with society disagreement.
+FOLLOW-UP OF HORMONALLY INACTIVE ADENOMA: GUIDELINE BODIES
+ Body                                                                       Repeat hormonal testing
+ European Society of Endocrinology                                          None unless new symptoms of
+                                                                            hormone excess
+ Canadian Urological Association; American Association of Clinical          Annual
+ Endocrinology; Korean Endocrine Society
+
+ • Evidence: risk of new clinically apparent hormone excess is <1–1.7% (aldosterone ≈0%, cortisol ≈1%,
+   catecholamine ≈0.05%), possibly higher with bilateral adenomas.
+ • Imaging: in the largest series, no lesion <10 HU became malignant and only 0.2% of lesions <4 cm were
+   malignant → no follow-up imaging if both features present; probably none if either. Indeterminate
+   unresected lesions: re-image at 6, 12 and possibly 24 months; suspicious lesions earlier, more often, or
+   remove.
+Aldosterone-Secreting Adenoma
+Overview and epidemiology
+ • Conn (1955): hypertensive, hypokalaemic 34-year-old woman cured by removal of a 4-cm unilateral
+   tumour.
+ • PA is the commonest secondary hypertension: 3–13% of hypertensives in primary care, up to 30% at
+   tertiary centres.
+Pathophysiology
+ • RAAS (Fig. 146.18): renin release is rate limiting, stimulated by low renal perfusion, renal sympathetic
+   activity and low macula densa sodium → angiotensinogen → angiotensin I → (ACE) angiotensin II →
+   vasoconstriction and aldosterone release (also potassium, ACTH).
+PRIMARY VERSUS SECONDARY HYPERALDOSTERONISM
+
+
+
+
+                                                      page 20 of 44
+Chapter 146 — Adrenal Disorders                                                                                 Adrenal Neoplasia
+
+ Primary                                                                  Secondary
+ Aldosterone autonomous → renin suppressed                                Renin elevated → drives aldosterone
+
+ • No hypernatraemia: sodium carries water. Volume expansion is capped at about 1.5 kg by
+   mineralocorticoid escape (pressure natriuresis, atrial natriuretic peptide, distal transporter changes).
+ • Idiopathic (bilateral) hyperplasia and aldosterone-producing adenoma account for >95%; hyperplasia is
+   diagnosed more often, but adenomas may be under-counted because lateralisation is not routinely
+   performed.
+FIG. 146.19 SUBTYPES OF PRIMARY ALDOSTERONISM
+ Subtype                                                                                                Proportion
+ Bilateral hyperplasia                                                                                  60%
+ Adenoma                                                                                                35%
+ Unilateral hyperplasia                                                                                 2%
+ Carcinoma; ectopic tumour; familial hyperaldosteronism                                                 <1% each
+
+ALDOSTERONE-PRODUCING ADENOMA VERSUS IDIOPATHIC HYPERPLASIA
+                    Aldosterone-producing adenoma             Idiopathic (bilateral) hyperplasia
+ Hypertension       More profound                             Less severe
+ Hypokalaemia       ≈50%                                      ≈17%
+ Morphology         Small unilateral nodule                   Mostly micronodular (macronodular rare); cause unknown
+ Surgery            Curable by unilateral adrenalectomy       Unilateral adrenalectomy not therapeutic
+
+ • Unilateral hyperplasia: distinctly uncommon; curable once lateralisation is confirmed.
+ • ACC with PA: <1% of PA; 2.5–5% of ACC. Ectopic aldosterone-secreting tumours suggest accessory tissue
+   or heterotopia.
+FAMILIAL HYPERALDOSTERONISM (FH)
+ Type                    Genetics                             Phenotype                  Test whom / treat
+ FH-I                    Autosomal dominant; chimeric         Early-onset refractory     Test with family history of PA or
+ (glucocorticoid-        CYP11B1 promoter fused to            hypertension; family       young stroke, or PA <20 years;
+ remediable              CYP11B2 coding sequence →            history of early           treat with oral glucocorticoid (±
+ aldosteronism)          aldosterone synthase under           hypertension or stroke     mineralocorticoid receptor
+                         ACTH control, secreted on the                                   antagonist if uncontrolled or
+                         ACTH circadian rhythm                                           iatrogenic Cushing)
+ FH-II                   Autosomal dominant,                  Hyperplasia or             No specific testing
+                         heterogeneous; 7p22 linkage in       adenoma                    recommendation
+                         some                                 indistinguishable from
+                                                              sporadic PA
+ FH-III                  KCNJ5 (potassium channel)            Bilateral hyperplasia,   Test with PA at a very young age
+                         mutation                             refractory hypertension,
+                                                              severe hypokalaemia,
+                                                              hybrid steroids
+
+Clinical characteristics
+ • Usually diagnosed in the 3rd–6th decades during work-up of refractory, moderate-to-severe
+   hypertension; prevalence of PA rises with hypertension stage.
+ • Most are normokalaemic (63–91%); hypokalaemic symptoms (headache, polydipsia, polyuria, nocturia,
+   palpitations, weakness) occur in a minority. Serum sodium resembles other hypertension because of
+   escape.
+
+
+
+                                                          page 21 of 44
+Chapter 146 — Adrenal Disorders                                                                    Adrenal Neoplasia
+ • Target-organ damage exceeds essential hypertension: left ventricular diastolic dysfunction and
+   hypertrophy, prolonged QT; about 4-fold stroke, 6.5-fold myocardial infarction, 12-fold atrial fibrillation;
+   more proteinuria, type 2 diabetes and metabolic syndrome. Treatment induces left ventricular
+   remodelling.
+Treatment and prognosis
+ • Goal: remove the source or block aldosterone at target organs, chosen by subtype and surgical fitness
+   (Fig. 146.12).
+ • Lateralised secretion → consider adrenalectomy, usually laparoscopic (small tumours); open if ACC
+   suspected.
+ • Outcomes: blood pressure improves in most, but only 37–52% need no antihypertensives; biochemical
+   success ≈94% — residual hypertension reflects other conditions.
+ • Predictors of persistent hypertension: age >50, male, high body mass index, preoperative ARR, ≥2
+   preoperative agents, first-degree relative with hypertension, long duration, cardiovascular remodelling,
+   renal insufficiency.
+ • Age <40 with unilateral adenoma >1 cm → adrenalectomy without AVS.
+ • Postoperatively: check PAC and ARR for biochemical cure; high-sodium diet and monitoring for
+   hyperkalaemia for several weeks; blood pressure continues to change for up to 6 months.
+MINERALOCORTICOID RECEPTOR ANTAGONISTS IN PA
+ Drug                Start          Maximum       Profile
+ Spironolactone      25–50 mg/day   400 mg/day    Gynaecomastia, erectile dysfunction, menstrual disturbance
+ Eplerenone          25 mg/day      100 mg/day    More selective → fewer side effects
+
+ • Agents of choice for non-surgical subtypes and unfit patients; titrate to blood pressure, potassium and
+   tolerability. Other antihypertensives are often still needed; add weight loss, low-sodium diet and exercise.
+ • Summary: PA carries increased cardiovascular morbidity; because subtypes dictate management, subtype
+   differentiation is critical before surgery.
+
+ KEY POINTS: PRIMARY ALDOSTERONISM
+   • Most patients are normokalaemic in contemporary series.
+   • End-organ damage exceeds that of essential hypertension.
+   • Accurate subtype differentiation ensures appropriate treatment.
+
+Concept — Primary aldosteronism is diagnosed by the renin it suppresses and treated by the side it comes
+from: a unilateral source is cured by adrenalectomy, a bilateral source only blocked by mineralocorticoid
+receptor antagonists. That is why lateralisation, not imaging, decides operation.
+Cortisol-Secreting Adenoma
+ • About 10% of Cushing syndrome; usually a dominant unilateral hyperplastic nodule, sometimes
+   multifocal bilateral hyperplasia. <10% of adrenal masses are bilateral and these are diagnostically
+   challenging; radiologically invisible lesions may cause MACS.
+Additional testing
+ • Confirm hypercortisolism and its ACTH-independent cause before resection.
+ • Screen for vertebral fractures (once at diagnosis — plain films, or existing CT for included levels), type 2
+   diabetes and hypertension (general-population guidelines for the latter two). No consensus on dual-
+   energy X-ray absorptiometry despite common osteoporosis.
+
+
+
+                                                   page 22 of 44
+Chapter 146 — Adrenal Disorders                                                                Adrenal Neoplasia
+ • Hypogonadism is common in men — test if symptomatic. Urolithiasis in up to 50% of Cushing syndrome
+   — no screening recommendation.
+Mild autonomous cortisol secretion
+ • Adrenalectomy is controversial — individualise (ESE–ENSAT). Surgery may improve glucose control,
+   hypertension and weight, but progression to overt Cushing syndrome is extremely unlikely.
+ • Opposing views: operate only when signs present (hypertension, obesity, glucose intolerance, osteopenia)
+   versus operate on all to prevent sequelae.
+Postoperative care
+ • Postoperative adrenal insufficiency: ≈65% after unilateral adrenalectomy for MACS; ≈99.7% for overt
+   Cushing syndrome — autonomous cortisol suppresses and atrophies the contralateral gland.
+ • Endocrine Society replacement: hydrocortisone 10–12 mg/m²/day in 2–3 doses, first dose on waking.
+ • Common perioperative protocol: hydrocortisone 100 mg IV on the day of surgery → slow oral taper
+   (cortisone acetate 25–37.5 mg/day or hydrocortisone 25–50 mg/day) once oral intake resumes.
+ • Deaths from hypocortisolism have been reported after surgery for Cushing syndrome, none after MACS.
+ • Alternative: dexamethasone 0.5 mg 6-hourly from surgery (not detected by the cortisol assay) → early-
+   morning cortisol <50 nmol/L confirms successful resection → switch to hydrocortisone.
+ • Taper: unstudied; one scheme checks morning cortisol 3-monthly and starts ACTH stimulation tests once
+   it exceeds 7.4 µg/dL.
+Prognosis
+ • Median recovery of adrenal function: 6.5 months (MACS) vs 11 months (Cushing syndrome); a few (≈2%
+   and ≈7%) never recover.
+ • Normalising cortisol reduces but does not eradicate cardiovascular risk; cushingoid features resolve in 7–
+   9 months in most, occasionally persisting for years.
+Concept — A cortisol-secreting adenoma switches off the ACTH that sustains the opposite gland, so its
+removal leaves an atrophic contralateral adrenal. The degree of preoperative autonomy predicts how certain
+and how long the postoperative adrenal insufficiency will be.
+
+Phaeochromocytoma
+Overview and Epidemiology
+ • Tumour of medullary catecholamine-producing cells; 1–2 per 100 000 per year; causes only ≈0.5% of
+   hypertension.
+ • ≈5% of incidentalomas; incidental discovery accounts for 10–25% of all diagnoses.
+ • Paragangliomas = extra-adrenal phaeochromocytomas (10–25%; Fig. 146.20: adrenal 75–90%) arising
+   from paraganglia along sympathetic and parasympathetic chains — head, neck, thorax, abdomen, pelvis
+   including bladder. The organ of Zuckerkandl (aortic bifurcation to inferior mesenteric artery root) is a
+   common site. Some reserve “paraganglioma” for head and neck tumours, which are usually non-
+   functional.
+Pathophysiology
+Overview
+ • Adrenal phaeochromocytomas possess PNMT and can make epinephrine; tumours vary in enzyme
+   content and self-metabolism, so secretory profiles and clinical behaviour vary.
+EPINEPHRINE-DOMINANT VERSUS NOREPINEPHRINE-DOMINANT TUMOURS
+
+
+
+
+                                                 page 23 of 44
+Chapter 146 — Adrenal Disorders                                                                         Adrenal Neoplasia
+
+ Epinephrine-secreting (rare; adrenal or organ of Zuckerkandl)         Norepinephrine-secreting (e.g., VHL)
+ Syncope, hypotensive episodes — β2 vasodilatation                     Hypertension, sweating — α vasoconstriction
+
+Hereditary phaeochromocytoma
+ • Familial in about one-third; ≈24% of apparently sporadic cases without family history carry a germline
+   mutation.
+ • Classic genes: RET, VHL, NF1, SDHD, SDHB — possibly converging on neuronal apoptosis downstream of
+   nerve growth factor, yet with diverse phenotypes. Fourteen susceptibility genes reported since 1990.
+ • VHL and SDHB matter most to urologists — these patients are already under urological care for RCC risk.
+VHL CLINICAL SUBTYPES
+ Type          Phaeochromocytoma                                                                                  RCC
+ 1             No family history of phaeochromocytoma                                                             —
+ 2A            Yes                                                                                                No
+ 2B            Yes                                                                                                Yes
+ 2C            Phaeochromocytoma only, no other VHL stigmata                                                      No
+
+ • Type 2 disease is associated with missense VHL mutations; type 2C retains hypoxia-inducible factor (HIF)
+   regulation, so tumorigenesis may be HIF independent.
+ • VHL tumours make little epinephrine → metanephrine normal, normetanephrine raised.
+ • SDHB penetrance ≈9–20% by age 50 after correction for ascertainment bias.
+TABLE 146.6 HEREDITARY FORMS OF PHAEOCHROMOCYTOMA
+                                                                     Gene; locus;           Germline in
+                                                               Phaeo inheritance;           apparently        Malignant
+ Syndrome               Features                               risk  protein                sporadic (%)      (%)
+ MEN-2A                 Medullary thyroid cancer,              50%     RET; 10q11.2; AD;    <5                3
+                        hyperparathyroidism, cutaneous                 tyrosine kinase
+                        lichen amyloidosis                             receptor
+ MEN-2B                 Medullary thyroid cancer, multiple     50%     RET; 10q11.2; AD;    <5                3
+                        neuromas, marfanoid habitus, rare              tyrosine kinase
+                        hyperparathyroidism                            receptor
+ VHL type 2             RCC and renal cysts, central nervous   10–     VHL; 3p25–26; AD;    2–11              5
+                        system and retinal                     20%     pVHL19/pVHL30
+                        haemangioblastomas, pancreatic
+                        cysts, epididymal cystadenomas,
+                        endolymphatic sac tumours
+ Neurofibromatosis      Neurofibromas, café-au-lait spots      1%      NF1; 17q11.2; AD;    Unknown           11
+ type 1                                                                neurofibromin
+ PGL-4                  Carotid body tumours; vagal, jugular, ≈20%     SDHB; 1p36.13; AD; 3–10                30–50
+                        tympanic, abdominal, thoracic                  catalytic iron–
+                        paragangliomas                                 sulphur protein
+ PGL-1                  As PGL-4                               ≈20%    SDHD; 11q23;         4–7               <3
+                                                                       maternal
+                                                                       imprinting; CybS
+                                                                       membrane subunit
+Data from Dluhy RG, 2002; Lenders JW et al., 2005. AD, autosomal dominant; PGL, familial paraganglioma syndrome.
+ • What it tests: malignancy is low in MEN-2 and VHL but high only with SDHB; MEN-2 carries the highest
+   phaeochromocytoma risk. Trap: SDHD is maternally imprinted, not simply dominant.
+
+
+
+                                                       page 24 of 44
+Chapter 146 — Adrenal Disorders                                                                        Adrenal Neoplasia
+Malignant phaeochromocytoma
+ • Malignancy is defined only by clinical metastases; histology and even local invasion predict poorly; no
+   single histological criterion; Ki-67 may be the best marker but is unvalidated.
+ • Rare in MEN-2 and VHL; SDHB is the mutation most strongly associated with malignancy.
+Clinical Characteristics
+Overview
+THE “10% TUMOUR” RULE VERSUS CONTEMPORARY DATA
+ Classic 10%         Contemporary
+ Extra-adrenal       Up to 25%
+ Familial            Up to 30% (about one-third)
+ Malignant           Sporadic adrenal up to 5%; most hereditary low; >one-third of extra-adrenal
+ Paediatric          Commonest endocrine neoplasm of childhood; up to 40% familial, >20% bilateral
+ Bilateral           Commoner in hereditary disease
+
+ • Sporadic cases peak in the 4th–5th decades; familial cases present younger. Right-sided tumours are
+   commoner, larger and recur more.
+ • Paroxysmal hypertension is classic but seen in only 30–50%; the rest have sustained hypertension, a
+   minority are normotensive. Classic triad: headache, episodic sweating, tachycardia. >20% asymptomatic.
+ • In a Mayo Clinic autopsy series, >75% of tumours were unsuspected in life.
+TABLE 146.7 CLINICAL MANIFESTATIONS OF PHAEOCHROMOCYTOMA
+ Frequency band           Manifestations
+ Highest (≈50–90%)        Headache 60–90%; sweating 55–75%; palpitations 50–70%; sustained hypertension 50–60%
+ Intermediate (≈20–       Pallor 40–45%; hyperglycaemia 40%; nausea, weight loss, tiredness, anxiety/panic 20–40%;
+ 45%)                     paroxysmal hypertension 30%
+ Variable/lower           Orthostatic hypotension 10–50%; flushing 10–20%
+Modified from Lenders JW et al., 2005.
+ • Trap: sustained hypertension is commoner than paroxysmal hypertension; flushing is uncommon (pallor
+   is the rule).
+Hereditary disease
+ • Younger, multifocal and/or bilateral. MEN-2: almost always adrenal; VHL ≈12% and NF-1 ≈6% extra-
+   adrenal; SDHB/SDHD mostly extra-adrenal and multifocal, though solitary adrenal tumours occur.
+Malignant disease
+ • Metastasis much commoner in extra-adrenal tumours; with SDHB, a substantial minority (≈28%) present
+   with adrenal lesions.
+ • Malignant tumours tend to be larger (>5 cm) and dopamine secreting — but no preclinical diagnosis
+   without metastasis.
+ • Sites: bone, lung, liver, lymph nodes. Most metastases appear within 5 years, but >15 years is reported.
+Diagnostic Tests
+ • Biochemistry first, then imaging to localise. Consider phaeochromocytoma even in known malignancy
+   and suspected solitary adrenal metastasis — misdiagnosis can be catastrophic.
+Cross-sectional imaging
+ • Well circumscribed; >10 HU unenhanced (mean ≈35 HU) — rich vascularity, low lipid; no rapid washout
+   (rare <10 HU, brisk-washout tumours exist → biochemistry for every mass).
+
+
+                                                      page 25 of 44
+Chapter 146 — Adrenal Disorders                                                                   Adrenal Neoplasia
+ • Iodinated contrast does not trigger hypertensive crisis — a discredited belief.
+ • MRI: no out-of-phase signal drop-out. The “light bulb sign” (bright T2, best on fat suppression) is neither
+   sensitive nor specific.
+Functional imaging
+ • 18F-FDG PET, 68Ga-DOTATATE PET/CT and MIBG — see Imaging of Adrenal Masses.
+
+Biochemical Evaluation
+ • Catecholamines and metabolites circulate largely sulphate-conjugated; old “total” assays could not
+   separate free from sulphated forms and performed worse.
+ • Catecholamine testing (sensitivity and specificity ≈85%) has been replaced by metanephrines because
+   release is paroxysmal; urinary catecholamines are still often obtained with urinary fractionated
+   metanephrines.
+ • Metanephrine testing — the foundation: COMT converts catecholamines to metanephrines continuously
+   inside the tumour, so plasma metanephrines are far more sensitive than episodic catecholamine surges.
+   Choice of plasma versus urine remains debated.
+ • VMA: formed via MAO in both medulla and sympathetic nerves (which lack PNMT and add only
+   normetanephrine), so the rise is diluted → low sensitivity (<65%) but high specificity (≈99% in non-
+   familial).
+ • Clonidine suppression: α2 agonist suppresses sympathetic (not tumour) norepinephrine; compare
+   normetanephrine before and after — secondary test for borderline results; risk of significant
+   hypotension.
+ • Chromogranin A: secretory-vesicle granin; sensitivity ≈85%; role in confirmation of mild (<4-fold) plasma
+   metanephrine rises; renally cleared — specificity falls when GFR <80 mL/min.
+TABLE 146.8 TEST CHARACTERISTICS FOR DIAGNOSIS OF PHAEOCHROMOCYTOMA (LARGE MULTICENTRE COHORT)
+                                    Sensitivity        Sensitivity       Specificity         Specificity
+ Test                               hereditary         sporadic          hereditary          sporadic
+ Plasma free metanephrines          97                 99                96                  82
+ Plasma catecholamines              69                 92                89                  72
+ Urinary fractionated               96                 97                82                  45
+ metanephrines
+ Urinary catecholamines             79                 91                96                  75
+ Urinary total metanephrines        60                 88                97                  89
+ Urinary VMA                        46                 77                99                  86
+From Lenders J et al., JAMA 2002 (values %).
+ • What it tests: fractionated metanephrines win on sensitivity (best to exclude); VMA and total
+   metanephrines win on specificity but miss tumours. Trap: in the same cohort urinary fractionated
+   metanephrines had poor specificity in sporadic disease, whereas the tandem mass spectrometry series
+   cited earlier reports ≈91% — different assay methods and populations.
+Screening for hereditary phaeochromocytoma
+ • Hereditary in more than one-third; nearly one-quarter of apparently sporadic cases carry germline
+   mutations → all patients with phaeochromocytoma or paraganglioma should enter shared decision-
+   making about genetic testing (2014 Endocrine Society guideline algorithm).
+
+
+
+
+                                                  page 26 of 44
+Chapter 146 — Adrenal Disorders                                                                             Adrenal Neoplasia
+
+Treatment
+Overview
+ • Phaeochromocytoma is a surgical disease: complete resection whenever possible; laparoscopic
+   adrenalectomy is standard, open for large or difficult tumours. Lifelong follow-up for all; familial and
+   malignant disease need cardiology, endocrinology and oncology input.
+Preoperative management
+ • Intraoperative catecholamine release → hypertensive crises and arrhythmias; historical mortality up to
+   50% before routine blockade, now <3% (anaesthesia plus blockade).
+ • First International Symposium on Pheochromocytoma (2005): preoperative blockade for all with
+   abnormal biochemistry, even if normotensive and asymptomatic. No level 1 evidence on the best
+   regimen.
+ • Two strategies (Fig. 146.22): option 1 — aggressive α-blockade (NIH approach); option 2 — calcium
+   channel blockade. A minority advocate no blockade in selected patients.
+ • Cardiac evaluation for catecholamine cardiomyopathy — some advise routine echocardiography; at least
+   cardiology or anaesthetic consultation.
+PREOPERATIVE DRUGS FOR PHAEOCHROMOCYTOMA (FIG. 146.22)
+ Class / agent                    Mechanism                 Dosing                       Key points
+ Phenoxybenzamine (option 1,      Irreversible non-         Start 7–14 days preop: 10    Last dose night before surgery,
+ first line)                      selective α-              mg twice daily, ↑ 10–20      omit morning dose; post-
+                                  blockade — surges         mg every 2–3 days; ≈1        resection hypotension from
+                                  cannot override it;       mg/kg total usually          lasting blockade; causes false-
+                                  reversal needs new        enough. Children: 0.2 mg/    positive metanephrines
+                                  receptor synthesis        kg (max 10 mg) four times
+                                                            daily, ↑ by 0.2 mg/kg
+ Doxazosin, terazosin, prazosin   Selective reversible      —                            Fewer side effects; efficacy data
+                                  α1-blockade                                            contradictory
+ Atenolol 12.5–25 mg two–         Selective β1-             Only for tachycardia/        Never before adequate α-
+ three times daily; metoprolol    blockade                  arrhythmia                   blockade
+ 25–50 mg three–four times
+ daily
+ Metyrosine (α-methyl-p-          Inhibits tyrosine         250 mg twice–three times     Incomplete block → combine
+ tyrosine)                        hydroxylase — rate-       daily, ↑ 250–500 mg          with α-blockade; institutional
+                                  limiting step             every 2–3 days; 1.5–2 g/     preference. CNS effects: sedation,
+                                  (tyrosine → L-DOPA)       day usually enough; 500      depression, galactorrhoea,
+                                                            mg night before surgery;     extrapyramidal symptoms →
+                                                            full effect ≈3 days          stop metyrosine; some reserve
+                                                                                         for refractory/metastatic disease
+ Calcium channel blockers         Smooth muscle             Sole therapy (option 2) or   Avoids reflex tachycardia and
+ (option 2, or add-on):           relaxation                added if blood pressure      postoperative hypotension; NIH
+ amlodipine 10–20 mg,                                       still poorly controlled      reserves sole use for mild
+ nicardipine 60–90 mg,                                                                   symptoms
+ nifedipine 30–90 mg,
+ verapamil 180–540 mg daily
+
+ • Why never β before α: unopposed β-blockade removes β2 arteriolar dilatation, so epinephrine acts
+   unopposed on α1 receptors → hypertensive crisis. Hence selective β1 agents.
+ • Targets (outpatient, 7–14 days): seated 120–130/80 mmHg; mild postural hypotension acceptable —
+   systolic >80 mmHg (text) or >90 mmHg (Fig. 146.22); a sign of adequate blockade.
+
+
+
+
+                                                         page 27 of 44
+Chapter 146 — Adrenal Disorders                                                                  Adrenal Neoplasia
+ • Normotensive asymptomatic patients: in one cohort, no blockade gave equivalent perioperative
+   outcomes, and doxazosin-treated patients needed more intraoperative vasoactive drugs — needs
+   prospective validation.
+ • Trap: extrapyramidal side effects belong to metyrosine, not phenoxybenzamine.
+Intravascular volume management
+ • Perhaps the most important preoperative step. Liberal salt and fluid once blockade starts → admit the
+   day before for IV fluids (1–2 L bolus the night before).
+Postoperative management
+ • Hypotension (lasting phenoxybenzamine effect) and rebound hypoglycaemia: catecholamine excess
+   suppressed insulin via α2 receptors; withdrawal → rebound hyperinsulinaemia. Some advise overnight
+   intensive care.
+Follow-up
+ • Repeat biochemistry after surgery; if metanephrines stay high, MIBG may unmask metastases once the
+   primary is removed.
+ • Annual biochemistry is mandatory; lifelong screening advised — 10-year recurrence up to 16%, even
+   >15 years later. Suggested: testing at 6 months, then annually; postoperative imaging to document
+   resection, further imaging guided by biochemistry.
+Hereditary disease
+ • MEN-2 and VHL: low malignancy, high bilaterality → partial cortical-sparing adrenalectomy to avoid
+   lifelong steroid replacement. Requires expertise and planning; replacement may still be needed,
+   addisonian crisis can still occur; recurrence poorly defined but significant.
+Malignant disease
+ • Largely palliative; metastasectomy of resectable disease is standard but unproven for survival versus α/
+   β-blockade plus α-methyl-p-tyrosine. Ablation and embolisation for local control.
+ • 131I-MIBG therapy (confirm uptake first): symptomatic response in up to two-thirds; catecholamine fall in
+   >40%; tumour shrinkage ≈30%; complete response <5%. High-dose therapy produced durable complete
+   responses in a quarter, with notable toxicity. FDA approval 2018 (Azedra) for unresectable
+   phaeochromocytoma/paraganglioma, from a single-arm open-label study.
+ • Cyclophosphamide, vincristine, dacarbazine (CVD): best-studied chemotherapy; >50% radiological and
+   ≈75% biochemical response, but short-lived (≈2 years); used after MIBG failure or MIBG-negative tumours.
+   CVD + MIBG undefined.
+Prognosis
+ • Excellent after resection; surgical mortality <3%; hypertension usually but not always resolves.
+ • Recurrence up to 16%, half malignant; risk factors: extra-adrenal (hazard ratio 11.2), hereditary (3.4),
+   right-sided (3.1), bilateral (1.4), larger (1.2 per cm).
+ • Metastatic course varies — some survive >20 years; bone metastases carry the best prognosis; 5-year
+   survival ≈50%.
+ • Summary: consider phaeochromocytoma in every adrenal mass; refer to a tertiary centre if unfamiliar
+   with its care.
+
+ KEY POINTS: PHAEOCHROMOCYTOMA
+   • Nearly 25% of apparently sporadic cases are hereditary on genetic testing.
+   • Plasma or urinary metanephrines underpin modern diagnosis.
+
+
+
+
+                                                  page 28 of 44
+Chapter 146 — Adrenal Disorders                                                     Nonfunctional Benign Adrenal Lesions
+   • Malignancy is defined only by metastases; recurrence even 15 years after resection → long-term
+     follow-up.
+   • Master perioperative management before operating.
+
+Concept — Every step of phaeochromocytoma care follows from one fact: the tumour stores and releases
+catecholamines unpredictably but metabolises them continuously. Continuous metabolism makes
+metanephrines the diagnosis; unpredictable release makes α-before-β blockade and volume repletion the
+preparation; and delayed metastasis makes follow-up lifelong.
+
+NONFUNCTIONAL BENIGN ADRENAL LESIONS
+
+Myelolipoma
+Epidemiology
+ • Rare, benign, metabolically silent; all ages; <0.1% at autopsy. About 15% extra-adrenal, up to half of
+   these presacral.
+ • Equal sex ratio; no side preference; bilateral cases reported; may exceed 10 cm; usually asymptomatic,
+   occasionally abdominal or flank pain.
+Pathophysiology
+ • Clonal stem-cell proliferation: mature fat plus trilineage haematopoietic tissue (megakaryocytes may
+   abound). Cellularity does not fall with age; no contribution to circulating blood — capillary venous
+   sinuses are absent.
+ • Induced in rats by necrotic tissue and ACTH → the adrenal-stress-response hypothesis; cause unknown.
+Diagnosis
+ • Large macroscopic fat component on cross-sectional imaging; interdigitating enhancing myeloid tissue;
+   calcification in over a quarter; haemorrhage common. Fig. 146.24: macroscopic fat in a 1.5-cm lesion is
+   pathognomonic.
+Additional Workup
+ • Hormonal testing recommended for all, although some guidelines advise against it: over two dozen
+   myelolipomas coexist with hormone excess, usually hypercortisolaemia, generally from a coexisting
+   functional adenoma rather than the myelolipoma itself.
+Management
+ • Surgical excision is definitive when needed; embolisation only for acute haemorrhage. Most do not need
+   resection (Fig. 146.23: a rare 15-cm symptomatic lesion).
+ • Indications: symptoms, or concern about spontaneous haemorrhage (fewer than 50 cases; smallest
+   bleeding lesion 6.3 cm; bleeders average 10–14 cm). No deaths reported; emergency surgery or
+   transfusion rare → value of prophylactic excision unclear — individualise.
+PROPOSED SIZE CUT-OFFS FOR ELECTIVE MYELOLIPOMA EXCISION
+ Threshold                        6 cm                 7 cm            8 cm                  10 cm
+ Basis                            Different series; none validated
+
+ • No follow-up guidelines; in small series only half of unresected lesions grew.
+
+
+
+
+                                                       page 29 of 44
+Chapter 146 — Adrenal Disorders                                                            Nonfunctional Benign Adrenal Lesions
+
+Adrenal Cysts
+Overview and Epidemiology
+ • 0.064–0.18% at autopsy; 1–22% of incidentalomas. Millimetres to >20 cm; uni- or multilocular; bilateral
+   in 8–10%; female predominance, peak 3rd–6th decades; from prenatal life onwards.
+ • Associations: hypertension, polycystic kidney disease, Klippel–Trénaunay–Weber and Beckwith–
+   Wiedemann syndromes.
+Pathophysiology
+HISTOLOGICAL TYPES OF ADRENAL CYST
+ Type          Share Features
+ Endothelial 45%        No proliferating endothelium; lymphangiomatous and angiomatous subtypes
+ Pseudocyst 39%         No cellular lining; after intra-adrenal haemorrhage or infarction; possibly related to endothelial
+                        cysts; the type associated with malignancy
+ Epithelial    9%       True epithelium: glandular, embryonal, cystic adenoma
+ Parasitic     7%       Disseminated Echinococcus; rarely the sole site
+
+Clinical Characteristics
+ • Cystic neoplasms mimic benign cysts, especially haemorrhagic or degenerate tumours resembling
+   pseudocysts (ACC, adenoma, phaeochromocytoma). About 7% of reported cysts were associated with
+   malignancy — all pseudocysts; likely overestimated because series are surgical.
+ • Cystic neoplasms are larger (>7 cm) with thicker walls. Large cysts may be hard to assign to adrenal versus
+   kidney, pancreas, spleen or liver.
+Diagnostic Tests
+ • Endocrine evaluation for all.
+ • Imaging: well-defined, sharply marginated, fluid attenuation, no enhancement (Fig. 146.25: stippled wall
+   calcification). Attenuation >30 HU suggests haemorrhage, debris or calcification. Peripheral, rim-like
+   calcification in 15–70% (occasionally nodular). MRI: T1 hypointense, T2 hyperintense.
+ • Imaging cannot exclude malignancy → aspiration or excision. Aspirate only after excluding
+   phaeochromocytoma; send fluid for Gram stain, cytology, triglycerides, cortisol and amylase (left-sided);
+   cystogram can assess the wall. Aspiration may be therapeutic.
+Treatment
+ • Driven by function, malignancy risk and symptoms. Natural history: in small series 60% enlarged and 25%
+   shrank.
+ • Observe small, asymptomatic, thin-walled, homogeneous near-water cysts; ESE–ENSAT: no follow-up for
+   silent benign-appearing lesions <4 cm.
+ • Excise cysts that are heterogeneous, >5 cm, thick-walled or symptomatic. Simple decortication is not
+   advocated (malignancy risk).
+Prognosis
+ • Histology dependent: benign cysts are followed for reaccumulation and retreated if symptoms recur;
+   malignant ones per their histology.
+Summary
+ • Symptomatic cysts → surgery; small, non-functional, asymptomatic, benign-appearing → conservative
+   follow-up.
+
+
+
+                                                        page 30 of 44
+Chapter 146 — Adrenal Disorders                                                   Nonfunctional Benign Adrenal Lesions
+
+ KEY POINT: ADRENAL CYSTS
+   • Because of possible associated malignancy, observe adrenal cysts with caution.
+
+Concept — The cyst that carries risk is the pseudocyst, because a haemorrhagic or necrotic tumour can
+masquerade as one. Size, wall thickness and heterogeneity are therefore surrogates for “is there a tumour
+behind the fluid?”.
+
+Ganglioneuroma
+Overview and Epidemiology
+ • Extremely rare benign neuroectodermal tumour of ganglion and Schwann cells; 0.3–2% of
+   incidentalomas.
+ • Sites: mediastinum ≈39%, retroperitoneum ≈31%, adrenal ≈21%, occasionally pelvis and neck. Young:
+   half aged 10–29; only 20% over 40.
+Pathophysiology/Clinical Characteristics
+ • Rare malignant transformation; peripheral nerve sheath tumours and composite ganglioneuroma–
+   phaeochromocytoma reported; nodal ganglioneuroma cells may represent matured neuroblastoma.
+ • Can grow very large and encase vessels without narrowing the lumen. May secrete vasoactive intestinal
+   polypeptide (diarrhoea); most are asymptomatic.
+Diagnostic Tests
+ • No definitive preoperative diagnosis; imaging clues: well circumscribed; attenuation ≤ muscle on
+   enhanced and unenhanced CT; calcification in 20–69% (classically fine and punctate, often coarse; limited
+   value because ACC also calcifies).
+ • MRI: T1 homogeneously low; T2 heterogeneous, intermediate to high. PET standardised uptake value
+   usually <3.0.
+Treatment and Prognosis
+ • Diagnosis almost always at resection, so natural history is undefined; beware large size and encasement
+   of retroperitoneal vessels.
+Summary
+ • Rare, largely pathological diagnosis, nearly always benign course.
+
+ KEY POINT: GANGLIONEUROMA
+   • Rare benign tumours of the young that can grow to encase critical structures.
+
+
+Adrenal Oncocytoma
+Overview and Epidemiology
+ • Familiar from the kidney; also salivary and endocrine glands. Adrenal oncocytomas are exceedingly rare
+   (about 50 reported).
+Pathophysiology and Clinical Characteristics
+ • Large, mitochondria-rich, granular eosinophilic cells; pathogenesis unclear.
+ • Female:male ≈2.5:1; left:right ≈3.5:1; up to 20 cm; cases in pregnancy.
+ • Mostly inactive; ≈10% secrete sex steroids, cytokines and/or cortisol.
+
+
+
+
+                                                 page 31 of 44
+Chapter 146 — Adrenal Disorders                                                       Malignant Adrenal Neoplasms
+ • Classically benign, but >30% of reported lesions malignant and a further 23% indeterminate, including IVC
+   invasion.
+Diagnostic Tests and Treatment
+ • Diagnosed at resection → manage like any adrenal mass. No regular central stellate scar (unlike renal
+   oncocytoma). Metastasectomy and radiotherapy for local recurrence may help malignant cases.
+Prognosis
+ • Uncertain but leans benign; even widely metastatic disease may progress slowly.
+Summary
+ • Extremely rare; despite a benign reputation, a proportion are malignant.
+
+ KEY POINT: ONCOCYTOMA
+   • Unlike renal oncocytomas, a large proportion of adrenal oncocytic lesions are malignant.
+
+Concept — The benign-sounding adrenal lesions are benign only once imaging or pathology has proved it.
+Macroscopic fat alone is diagnostic — hence myelolipoma alone escapes the 4-cm rule — while cysts,
+ganglioneuromas and oncocytomas are managed as adrenal masses until resected.
+
+MALIGNANT ADRENAL NEOPLASMS
+
+Adrenocortical Carcinoma
+Overview and Epidemiology
+ • Rare: 0.7–2 per million. Bimodal — children in the first decade, adults in the 4th–5th decades (most
+   patients are adults); slight female predominance (1.5–2.1:1).
+ • Mostly sporadic and unilateral; 2–6% bilateral, possibly hereditary.
+ • Associated syndromes: Li–Fraumeni, Beckwith–Wiedemann, Lynch, Carney complex, MEN-1, NF-1,
+   familial adenomatous polyposis, McCune–Albright.
+ • Surgery is the cornerstone and the best chance of cure; advanced disease needs multimodal therapy.
+ • Despite more incidental imaging, there has been no stage or size migration and no survival improvement
+   over two decades; administrative data show only a weak relationship between size and metastasis or
+   survival.
+Pathophysiology
+MOLECULAR DRIVERS: ACC VERSUS ADENOMA
+ Alteration                           Syndrome model             Sporadic ACC   Paediatric ACC     Adenoma
+ Loss of TP53                         Li–Fraumeni                20–33%         50–80%             0–6%
+ ↑ Insulin-like growth factor (IGF)   Beckwith–Wiedemann         Up to 90%      —                  8.5%
+
+ • Both are regarded as late events in sporadic tumorigenesis.
+ • The Cancer Genome Atlas: commonest alterations TP53, ZNRF3, CTNNB1, CDKN2A, TERT, PRKAR1A. CpG
+   island hypermethylation phenotype (CIMP) defines three prognostic subtypes — 5-year survival ≈80%
+   (CIMP-low), 43% (intermediate), 0% (high). Genomic diversity suggests multi-pathway targeting is
+   needed.
+
+
+
+
+                                                 page 32 of 44
+Chapter 146 — Adrenal Disorders                                                                Malignant Adrenal Neoplasms
+
+Clinical Characteristics
+ • Most still present advanced and symptomatic: hormone excess 40–60%, abdominal pain/fullness ≈30%,
+   remainder incidental.
+ • Functional in 50–79% of adults and 90% of children; functional status may not cause symptoms (e.g.,
+   steroid precursors) and may change as the tumour grows; several hormones are often co-secreted.
+ • Cortisol is commonest (50–80% of functional tumours) — ACTH-independent Cushing syndrome, often
+   with more marked virilisation than functional adenomas; ACC causes ≈8% of Cushing syndrome; cortisol
+   secretion independently predicts poor outcome.
+ • Androgens second (40–60% of functional tumours): in women, virilisation (male-pattern baldness,
+   hirsutism, oligomenorrhoea) related to 17-ketosteroids; virilisation without raised 17-ketosteroids →
+   consider testosterone from adrenal or ovary.
+ • Oestrogen → feminisation in men (testicular atrophy, gynaecomastia), partly peripheral conversion of
+   androstenedione — highly suggestive of malignancy.
+ • Cortisol plus androgen in up to half of functional ACCs. Aldosterone is rare — hypertension and
+   hypokalaemia more often come from other steroids.
+ • Non-functional ACC: fullness, back pain, nausea, vomiting, constitutional symptoms.
+TABLE 146.9 FUNCTIONAL BREAKDOWN OF ADRENOCORTICAL CARCINOMAS
+ Status                               Proportion (table)        Body text
+ Non-functional                       21–50%                    —
+ Functional                           50–79%                    Hormone symptoms 40–60% of patients
+ — Cushing syndrome                   33–53%                    Cortisol in 50–80% of functional tumours
+ — Cushing plus virilisation          20–24%                    Up to 50% of functional tumours
+ — Virilisation alone                 10–20%                    Androgens in 40–60% of functional tumours
+ — Feminisation                       6–10%                     1–3% of patients
+ — Hyperaldosteronism                 2.5–5%                    Rare
+
+ • Why values differ: the table uses all ACCs as denominator and clinical syndromes; the text quotes
+   proportions of functional tumours and biochemical secretion, from different series. Pattern: cortisol
+   dominates, androgens next, oestrogen and aldosterone rare. Trap: feminisation in a man with an adrenal
+   mass means carcinoma until proved otherwise.
+Diagnostic Tests
+ • Suspicion from symptoms or imaging → full extent-of-disease evaluation, history and examination for
+   hormone excess.
+ • Functional evaluation is essential — for diagnosis, planning postoperative cortisol replacement, and
+   tumour markers for surveillance (Table 146.10).
+TABLE 146.10 FUNCTIONAL EVALUATION OF ADRENAL TUMOURS SUSPECTED TO BE ACC
+ Hypersecretion           Tests
+ Glucocorticoid           LD-DST (or LNSC or 24-h urine cortisol); ACTH
+ Sex steroids and         DHEA-S, testosterone; optional 17-OH-progesterone, androstenedione, 17-OH-pregnenolone,
+ precursors               11-deoxycorticosterone, progesterone, oestradiol; 17β-oestradiol only in men and
+                          postmenopausal women
+ Catecholamine            Serum or urinary metanephrines
+ Mineralocorticoid        ARR — only with hypertension or hypokalaemia
+
+
+
+
+                                                       page 33 of 44
+Chapter 146 — Adrenal Disorders                                                                  Malignant Adrenal Neoplasms
+Modified from Fassnacht M et al., 2004.
+ • Size: average 10–12 cm; >90% exceed 5 cm; carcinoma in 4–5% of incidentalomas <4 cm, 10% >4 cm, 25%
+   >6 cm → consider resection above 4–6 cm.
+ • Ominous: lymphadenopathy, local extension into IVC or adjacent organs. Commonest metastatic sites:
+   lung and liver → CT chest, abdomen, pelvis; bone and brain imaging only if symptomatic.
+ • CT: irregular borders and enhancement, calcification, necrosis with cystic change; unenhanced mean ≈39
+   HU vs ≈8 HU in adenoma; classically no brisk washout (exceptions reported).
+ • MRI: T1 isointense to liver/spleen, T2 intermediate–high, marked gadolinium uptake; essential for
+   venous tumour thrombus.
+ • 18F-FDG PET: ACC is avid (high sensitivity and specificity for malignancy) but cannot distinguish ACC from
+       other malignancies or metastases.
+ • No percutaneous biopsy before resection — needle-tract seeding; biochemistry and imaging justify
+   surgery. Biopsy only for unresectable, locally advanced or metastatic disease before systemic therapy.
+Figure legend — Fig. 146.26
+ • A 25-cm stage II right ACC displaced the kidney anteromedially (renal masses of similar size usually do
+   not) and looked deceptively homogeneous and well circumscribed.
+Pathological Evaluation
+ • Two questions: origin (steroidogenic factor 1 (SF1) staining = adrenocortical) and malignancy — obvious
+   with metastasis or invasion, difficult when organ confined (Fig. 146.27: ACC — high-grade atypia with
+   necrosis; adenoma — orderly trabeculae, minimal atypia; phaeochromocytoma — alveolar/trabecular,
+   granular amphophilic cytoplasm; metastasis — pleomorphic hyperchromatic cells).
+ • Weiss criteria (1984): nine features of structure, cytology and invasion; ≥3 criteria = malignant (sensitivity
+   100%, specificity 96%). Mitotic rate grades ACC (low vs high) and correlates best with outcome. Use
+   caution in paediatric and oncocytic tumours — alternative criteria recommended.
+BOX 146.6 WEISS PATHOLOGICAL CRITERIA FOR DIFFERENTIATING BENIGN AND MALIGNANT ADRENAL TUMOURS
+ Domain         Criteria
+ Cytology       High nuclear grade (Fuhrman 3–4); >5 mitoses per 50 high-power fields; atypical mitoses
+ Structure      Low percentage of clear cells; diffuse architecture; necrosis
+ Invasion       Venous, sinusoidal, capsular
+From Weiss LM, 1984.
+ • Mnemonic of the three domains: cells, architecture, invasion — three of nine positive = carcinoma.
+Staging
+AJCC VERSUS ENSAT STAGING OF ACC
+ Stage American Joint Committee on Cancer (AJCC)                                 ENSAT
+ I         T1 (≤5 cm) N0 M0 — confined                                           Same
+ II        T2 (>5 cm) N0 M0 — confined                                           Same
+ III       Extension into periadrenal fat (T3) or regional nodes (T1–2 N1)       N1, T3, T4 or venous tumour thrombus
+ IV        Invasion of adjacent organs (T4), T3N1, or distant metastasis         Distant metastasis only
+
+TABLE 146.11 STAGING OF ACC WITH STAGE AT DIAGNOSIS AND 5-YEAR SURVIVAL (2004 UICC/WHO)
+ Stage         TNM                                                           At diagnosis        5-year survival
+ I             T1N0M0                                                        3–4%                33–66%
+ II            T2N0M0                                                        29–46%              20–58%
+
+
+                                                        page 34 of 44
+Chapter 146 — Adrenal Disorders                                                                Malignant Adrenal Neoplasms
+
+ Stage        TNM                                                        At diagnosis           5-year survival
+ III          T1–2N1M0; T3N0M0                                           11–19%                 18–24%
+ IV           T1–4N0–1M1; T3N1M0; T4N0–1M0                               39–49%                 <5%
+T1 ≤5 cm; T2 >5 cm; T3 infiltration of surrounding fat; T4 invasion of adjacent organs. UICC, Union Internationale Contre
+le Cancer; WHO, World Health Organization.
+ • Pattern: stage I is rare at diagnosis and the largest group is stage IV. Trap: ENSAT moves T4 and N1 disease
+   without metastasis into stage III, reserving stage IV for distant spread.
+Management
+ • Most present advanced; localised disease still has high local and distant recurrence (60–80%) →
+   multidisciplinary, multimodal care. Only one randomised trial exists in metastatic disease; the rest is
+   retrospective.
+Surgery
+ • Complete excision is essential — best chance of cure, control of hormonal and local symptoms.
+ • Open surgery preferred for tumours >6 cm or with local invasion (higher peritoneal seeding with
+   minimally invasive approaches); smaller organ-confined tumours may be approached laparoscopically with
+   caution (spillage risk; outcomes may favour open).
+ • En bloc resection of involved organs for negative margins; regional lymphadenectomy for control and
+   staging; IVC thrombus may need bypass, replacement or interruption.
+ • Metastatic disease: cytoreduction if >90% of tumour burden can be removed — may palliate and
+   facilitate other therapy, survival benefit uncertain. If complete debulking is impossible, do not operate —
+   it delays systemic therapy.
+ • Resect recurrences (improved survival in retrospective series), best in low-grade tumours with long
+   disease-free intervals; radiofrequency ablation or angioembolisation if unresectable.
+ • Surveillance: CT chest, abdomen, pelvis every 3 months for 2–3 years → every 6 months to 5 years;
+   monitor initially raised hormones; PET for indeterminate findings; beyond 5 years individualised (<3%
+   recur after 5 years).
+Radiation
+ • Treatment of choice for bone and brain metastases; limited role for the primary.
+ • Adjuvant radiotherapy lowers 5-year local recurrence (≈86% without vs ≈11% with) but not disease-free
+   or overall survival; best for patients without metastasis with positive or indeterminate margins.
+Medical therapy
+ • Mitotane — oral dichlorodiphenyltrichloroethane (DDT) derivative, the most used agent: adrenolytic
+   (direct cortical cytotoxicity, free-radical damage, steroidogenic enzyme inhibition) → steroid replacement
+   needed. Toxicity: gastrointestinal upset, lethargy, depression, feminisation in men, rash, raised liver
+   enzymes and binding globulins, hypothyroidism, dyslipidaemia, thrombocytopenia → titrate to tolerance
+   and serum levels.
+ • Single-agent response 14–36%; streptozotocin combination ≈36%; etoposide–doxorubicin–cisplatin
+   combination ≈49%.
+ • Symptom control while mitotane takes effect: ketoconazole, metyrapone, aminoglutethimide, etomidate
+   (adrenostatic) and mifepristone (glucocorticoid receptor antagonist).
+KEY STUDIES OF SYSTEMIC THERAPY IN ACC
+
+
+
+
+                                                      page 35 of 44
+Chapter 146 — Adrenal Disorders                                                                          Malignant Adrenal Neoplasms
+
+ Study                 Setting and comparison                     Result                             Verdict
+ Large                 Adjuvant mitotane vs none after            Improved recurrence-free           Supportive but not
+ retrospective         resection                                  and overall survival after         definitive; patient
+ series (adjuvant)                                                adjustment; acceptable             selection, dose and
+                                                                  toxicity                           duration unresolved
+ ADJUVO                R0-resected stage I–III ACC: adjuvant      Recurrences 8 vs 11 — not          No routine adjuvant
+ (randomised)          mitotane vs observation (1:1)              significant                        mitotane, sparing toxicity
+ FIRM-ACT              Locally advanced/metastatic:               Overall survival similar; M-       M-EDP is first-line
+ (randomised)          mitotane + etoposide, doxorubicin,         EDP better response rate           systemic therapy
+                       cisplatin (M-EDP) vs mitotane +            and progression-free
+                       streptozotocin                             survival
+
+ • Trap: FIRM-ACT improved response and progression-free survival, not overall survival; ADJUVO tested
+   low-risk resected disease, not all patients.
+Prognosis
+ • Overall 5-year survival 20–47% — advanced presentation, frequent recurrence, weak systemic therapy.
+ • Adverse factors: stage, size >12 cm, age, positive margins, high mitotic rate, atypical mitoses, cortisol
+   production, necrosis, high Ki-67. The effect of functional status overall is debated.
+Pediatric Adrenocortical Carcinoma
+PAEDIATRIC VERSUS ADULT ACC
+                   Paediatric                                                                    Adult
+ Function          >90% functional; virilisation commonest (55–70%)                              50–79% functional; cortisol
+                                                                                                 commonest
+ Sex ratio         Equal <12 years; 6:1 female aged 13–20                                        Slight female predominance
+ Genetics          Consider Li–Fraumeni (high TP53 rate)                                         Mostly sporadic
+ Staging           I–II: completely excised, negative margins, split at 200 g; III: residual     Size (5 cm), invasion, nodes,
+                   or inoperable; IV: haematogenous metastasis                                   metastasis
+ Stage and         Lower stage, better survival; 5-year ≈54%                                     Mostly advanced; 20–47%
+ outcome
+ Adverse           Weight >400 g, stage, size >10.5 cm, necrosis, frequent/atypical              Size >12 cm, margins, mitoses,
+ factors           mitoses, age >5 years                                                         cortisol, Ki-67
+
+Summary
+ • Consider ACC in every adrenal tumour, particularly >6 cm; assess function even if asymptomatic; resect
+   primary and metastases whenever possible; consider adjuvant therapy or trials; mitotane alone or with
+   cytotoxics first line for metastatic disease; prognosis remains poor.
+
+ KEY POINTS: ADRENOCORTICAL CARCINOMA
+   • Increasing size raises malignancy risk.
+   • Most ACCs are functional at presentation.
+   • Multimodal therapy — surgery, radiotherapy, systemic therapy — is often needed.
+
+Concept — ACC is a disease of recurrence rather than of the primary: even complete resection is followed by
+relapse in most patients, so outcome depends on an intact, unspilled first operation. That is why open en bloc
+surgery, no preoperative biopsy and hormonal markers for surveillance dominate its management.
+
+
+
+
+                                                          page 36 of 44
+Chapter 146 — Adrenal Disorders                                                         Malignant Adrenal Neoplasms
+
+Neuroblastoma
+ • Neural-crest malignancy (adrenal medulla, sympathetic ganglia); commonest extracranial solid tumour of
+   childhood — covered in Chapter 63.
+
+Adrenal Sarcoma
+ • Extremely rare primary sarcomas: epithelioid angiosarcoma, leiomyosarcoma, liposarcoma, Kaposi
+   sarcoma, alveolar and synovial sarcoma.
+ • Cannot be distinguished preoperatively from other adrenal malignancies (benign adenoma is excluded by
+   the usual work-up); definitive diagnosis can be hard even after resection.
+ • Wide local excision with negative margins; mixed carcinoma–sarcoma features → treat as sarcomatoid
+   carcinoma.
+
+Metastases
+Overview and Epidemiology
+ • Common site: at autopsy, >25% of patients with melanoma or lung carcinoma have adrenal metastases;
+   many other primaries (RCC, breast, medullary thyroid, contralateral ACC, gastrointestinal, prostate, cervix,
+   pancreas, urothelial, seminoma, others) also spread there.
+ • With a history of malignancy, >50% of new adrenal lesions are metastases.
+ • RCC reaches the adrenal directly or haematogenously, yet ipsilateral adrenalectomy at radical or partial
+   nephrectomy only if the gland is radiologically abnormal or thrombus reaches the adrenal vein.
+ • Resection of an isolated metastasis may improve survival in melanoma and non-small cell lung cancer
+   (NSCLC); a randomised trial now supports metastasectomy in lung cancer.
+Pathophysiology and Clinical Characteristics
+ • Adrenal insufficiency from metastases is exceedingly rare (though Addison described it); bulky (>4 cm)
+   bilateral disease seems necessary. The oft-quoted “20% of metastatic RCC have adrenal insufficiency”
+   rests on a single small abstract. Advanced cancer often mimics addisonian symptoms without biochemical
+   insufficiency.
+Diagnostic Tests
+ • Metastases look like adenomas (well circumscribed, homogeneous, rarely necrotic) but lack lipid: >10 HU
+   and poor washout (Fig. 146.28: 38-HU left adrenal RCC metastasis years after right nephrectomy).
+ • Exceptions: up to 7% of metastases are <10 HU; RCC and hepatocellular carcinoma metastases can wash
+   out like adenomas → growth kinetics become decisive; MRI signal intensity may help separate RCC
+   metastasis from adenoma. Biopsy helps with a known primary.
+ • Unlike renal metastases (usually with widespread disease), adrenal metastases may be early and solitary
+   — making resection feasible.
+ • Metabolic work-up still required — functional lesion rates are similar with or without prior malignancy,
+   and pigmented phaeochromocytoma has been mislabelled as metastatic melanoma.
+Treatment and Prognosis
+ • RCC: resection of ipsilateral or contralateral adrenal metastasis as part of cytoreduction in selected
+   patients; benefit unproven prospectively; role may change with targeted and immunotherapy.
+ • Non-urological primaries: multidisciplinary decisions with the medical oncologist; best data for NSCLC and
+   melanoma.
+
+
+
+
+                                                  page 37 of 44
+Chapter 146 — Adrenal Disorders                                                     Non-neoplastic Adrenal Disorders
+ • NSCLC: adrenal metastases usually accompany systemic disease; isolated deposits may reflect lymphatic
+   spread. Resection of a solitary metastasis → 5-year survival >25%; synchronous and metachronous
+   metastases fare equally (meta-analysis); level 1 evidence supports metastasectomy.
+ • Melanoma: long-term survival and rare regression after adrenalectomy — retrospective, highly selected
+   data.
+ • Summary: suspect metastasis in any incidentaloma with a cancer history; percutaneous biopsy is safe
+   (success depends on size, location, technique); adrenalectomy for solitary metastasis suits selected
+   patients.
+
+ KEY POINTS: ADRENAL METASTASES
+   • Common, but bilateral bulky (>4 cm) disease is needed for biochemical adrenal insufficiency.
+   • >50% of new adrenal lesions in patients with prior malignancy are metastases — metabolic work-up
+     still recommended.
+
+Concept — Prior malignancy flips the prior probability — most new adrenal lesions become metastases —
+but does not remove the need to exclude phaeochromocytoma. Because adrenal deposits can be early and
+solitary, this is the one setting in which biopsy and resection of a metastasis are both justified.
+
+NON-NEOPLASTIC ADRENAL DISORDERS
+
+Cushing Syndrome/Cortisol Excess
+Pathophysiology
+ • Cushing syndrome = symptomatic hypercortisolaemia. Three groups: exogenous (iatrogenic —
+   commonest), ACTH-dependent (extra-adrenal; up to 85% of endogenous cases), ACTH-independent
+   (adrenal; relatively rare).
+FIG. 146.29 CAUSES OF ENDOGENOUS CORTISOL EXCESS
+                                                                                     Share of Cushing
+ Group                                  Cause                                        syndrome
+ ACTH dependent (80–85% of              Pituitary (Cushing disease)                  ≈70%
+ endogenous)                            Ectopic ACTH                                 ≈10–15%
+                                        Ectopic CRH                                  <1%
+ ACTH independent                       Primary adrenal (adenoma, ACC, AIMAH,        ≈10%
+                                        PPNAD)
+
+Clinical Characteristics
+ • Classic features — central obesity, moon facies, buffalo hump, proximal weakness, easy bruising, striae
+   — are individually non-specific; the combination should prompt screening. Systemic features overlap the
+   metabolic syndrome (Fig. 146.30: depression/psychosis, glaucoma, immunosuppression, peptic ulcer, salt
+   and water retention, hypertension, visceral obesity, insulin resistance, protein catabolism, skin thinning,
+   muscle atrophy, osteoporosis, urolithiasis, hypogonadotropic hypogonadism).
+ • Urological relevance: hypogonadotropic hypogonadism in men — low threshold to test men with low
+   libido or erectile dysfunction, low testosterone and low gonadotropins; urolithiasis in up to 50% — test
+   stone formers with cushingoid features. Treatment reduces but does not normalise stone risk.
+TABLE 146.12 SIGNS AND SYMPTOMS OF CUSHING SYNDROME
+
+
+
+
+                                                  page 38 of 44
+Chapter 146 — Adrenal Disorders                                                              Non-neoplastic Adrenal Disorders
+
+ Prevalence Features
+ 90–100%       Central obesity, moon face, facial plethora, decreased libido
+ 70–90%        Purple striae, menstrual disturbance, hirsutism, erectile dysfunction, hypertension
+ 50–70%        Muscle weakness, buffalo hump, bruising, glucose intolerance/diabetes, osteopenia/osteoporosis,
+               emotional lability/depression
+ 20–50%        Headache, backache, limb oedema, recurrent infection, hypokalaemic alkalosis, nephrolithiasis
+ 0–20%         Acne, alopecia
+Modified from Pivonello R et al., 2008. Band assignment follows the source’s printed grouping.
+ • Trap: central obesity is nearly universal but least specific; the more discriminating signs (proximal
+   weakness, bruising) sit lower, at 50–70%.
+Diagnosis
+ • Establish cortisol excess, then its cause — see Testing for Hypercortisolism.
+Exogenous Cushing Syndrome
+ • Withdraw glucocorticoids gradually to let the HPA axis recover (weeks to months). Beware steroid
+   withdrawal syndrome — intolerance of dose reduction despite normal HPA testing.
+Adrenocorticotropic Hormone–Dependent Disease
+ • 80–85% of endogenous Cushing syndrome; ≈80% of it pituitary (Cushing disease), the rest ectopic ACTH,
+   and very rarely ectopic CRH.
+Cushing disease
+ • Harvey Cushing (1932); ≈70% of endogenous Cushing syndrome; usually a microadenoma
+   (macroadenomas ≥1 cm ≈5%); 15% of functional pituitary adenomas secrete ACTH; up to two-thirds of
+   patients are women.
+ • Standard: trans-sphenoidal resection — cure only 60–80%, relapse up to 25%; macroadenomas <15%
+   cured. Postoperative severe addisonian state is common (careful replacement for a year); hypopituitarism
+   ranges widely and rises with reoperation; salvage radiotherapy is slow and risks hypopituitarism.
+ • Bilateral adrenalectomy (the urologist’s role): usually after at least one failed pituitary treatment, or
+   when hypercortisolism is life threatening. Advantages: very high, rapid success with no hypopituitarism.
+   Costs: lifelong glucocorticoid and mineralocorticoid replacement, rare residual functioning adrenal
+   tissue, and Nelson (Nelson–Salassa) syndrome.
+ • Nelson syndrome: progressive growth of the pituitary adenoma after bilateral adrenalectomy — chiasmal
+   compression, oculomotor deficits, rarely raised intracranial pressure; 8–29%; prophylactic radiotherapy
+   inconsistent and controversial.
+Ectopic ACTH syndrome
+ • Nearly always malignant tumours; ≈10% of Cushing syndrome; first described by Liddle and colleagues in
+   the early 1960s. Hypercortisolism may precede the tumour diagnosis by years; underdiagnosed in end-
+   stage cancer.
+ • Higher ACTH → larger, more hyperplastic adrenals than in Cushing disease (Fig. 146.32: bilateral
+   enlargement with metastatic pancreatic adenocarcinoma).
+ • Best treatment: resect the primary — possible in only ≈10%. Unresectable or occult primary (up to 35%)
+   → bilateral adrenalectomy with lifelong replacement is excellent.
+TABLE 146.13 SOURCES OF ECTOPIC ACTH (RANGE ACROSS FIVE SERIES)
+
+
+
+
+                                                       page 39 of 44
+Chapter 146 — Adrenal Disorders                                                                 Non-neoplastic Adrenal Disorders
+
+                                                                     Range
+ Source                                                              (%)        Comment
+ Bronchial carcinoid                                                 7–49       Commonest in most series
+ Small cell lung cancer                                              10–33      —
+ No tumour found                                                     12–32      Occult source
+ Islet cell tumour                                                   4–16       —
+ Thymic carcinoid; malignant thymoma                                 5–16; 13   —
+ Other bronchial carcinoma (adeno, squamous,                         3–10       One older series
+ undifferentiated)                                                   each
+ Medullary thyroid cancer                                            8          —
+ Disseminated neuroendocrine or gastrointestinal carcinoid           1–7        —
+ Phaeochromocytoma                                                   3–11       Notable adrenal source
+ Pancreatic adenocarcinoma; miscellaneous                            2; 6–17    Includes gallbladder carcinoid, colon
+                                                                                cancer
+Modified from Aniszewski JP et al., 2001 (series of 106 patients, compared with four earlier series).
+ • What it tests: ectopic ACTH is mainly thoracic neuroendocrine (bronchial carcinoid, small cell cancer,
+   thymic tumours), with a substantial occult fraction — and phaeochromocytoma can cause Cushing
+   syndrome.
+Ectopic CRH
+ • <1% of Cushing syndrome; bronchial carcinoma commonest; concurrent ACTH secretion not unusual.
+Adrenocorticotropic Hormone–Independent Hypercortisolism
+ • Minority of endogenous cases: cortisol-secreting adenoma, ACC, AIMAH, PPNAD.
+AIMAH VERSUS PPNAD
+                     ACTH-independent macronodular
+                     adrenal hyperplasia                        Primary pigmented nodular adrenocortical disease
+ Share of Cushing <1%                                           <1%
+ syndrome
+ Glands              Massively enlarged: multiple nodules       Normal size; black or brown cortical nodules in atrophic
+                     up to 4 cm; >60 g each (reports >200       cortex; medulla spared
+                     g)
+ Association         McCune–Albright syndrome                   Carney complex in about half (autosomal dominant:
+                     (polyostotic fibrous dysplasia, skin and   spotty skin/mucosal pigmentation, tumours including
+                     endocrine features)                        Sertoli cell tumours); rest sporadic
+ Diagnostic clue     Must be distinguished from ACTH-           Paradoxical delayed rise in 24-h urinary cortisol after
+                     driven hyperplasia (similar imaging)       dexamethasone
+ Treatment           Bilateral adrenalectomy with lifelong replacement; unilateral resection of the larger gland has
+                     succeeded in AIMAH
+
+Medical Treatment of Hypercortisolism
+ • For bridging to surgery or when surgery is impossible; specialist endocrinology territory.
+DRUGS FOR CORTISOL EXCESS (AS NAMED IN THE CHAPTER)
+ Agent                                                Class stated                          Setting in chapter
+ Metyrapone, aminoglutethimide, trilostane,           Steroid-synthesis enzyme blockers Cushing syndrome; ACC
+ ketoconazole, etomidate                              (adrenostatic)                    symptom control
+ Mitotane                                             Adrenolytic                           ACC; hypercortisolism
+
+
+
+                                                        page 40 of 44
+Chapter 146 — Adrenal Disorders                                                             Non-neoplastic Adrenal Disorders
+
+ Agent                                              Class stated                        Setting in chapter
+ Mifepristone                                       Glucocorticoid receptor             ACC symptom control
+                                                    antagonist
+
+Prognosis
+ • Life expectancy is reduced; normalising cortisol lowers but does not abolish risk → aggressive
+   cardiovascular risk management even after biochemical cure.
+Concept — Cushing syndrome is classified by where the drive lies — outside the patient, above the adrenal,
+or within it — and the ACTH level locates it. The urologist’s operation is either the cure (ACTH-independent
+disease) or the salvage (bilateral adrenalectomy when the ACTH source cannot be controlled), and the
+salvage exchanges hypercortisolism for lifelong replacement and Nelson syndrome.
+
+Adrenal Insufficiency
+Overview and Epidemiology
+ • Addison disease; prevalence 39–60 per million. Relevant because it follows resection or pharmacological
+   inhibition of adrenal tissue; unanticipated addisonian crisis after simultaneous or staged bilateral
+   adrenalectomy can kill.
+Pathophysiology
+PRIMARY VERSUS SECONDARY ADRENAL INSUFFICIENCY
+                                                                                 Secondary (pituitary, less often
+                      Primary (adrenal)                                          hypothalamic)
+ Causes               Autoimmune adrenalitis (commonest in the West;             Tumour, radiation, autoimmunity,
+                      isolated or in autoimmune polyendocrine syndrome type      pituitary apoplexy (Sheehan
+                      1 or the commoner type 2); tuberculosis (developing        syndrome peripartum), trauma,
+                      countries, as in Addison’s era); cytomegalovirus in HIV,   congenital ACTH deficiency;
+                      fungi; bilateral haemorrhage/infarction; infiltration      exogenous glucocorticoid
+                      (amyloid, sarcoid, haemochromatosis; metastasis rarely);   suppression of the HPA axis (most
+                      surgical or pharmacological adrenalectomy                  relevant to surgeons); critical illness–
+                      (ketoconazole, CYP17 inhibitors such as abiraterone)       related corticosteroid insufficiency
+ Mineralocorticoid Deficient                                                     Preserved — glomerulosa is ACTH
+                                                                                 independent
+ Skin                 Hyperpigmentation (POMC peptides on MC1 receptor)          Alabaster pallor
+ Electrolytes         Hyponatraemia, hyperkalaemia, raised creatinine            Hyponatraemia (SIADH-type), no
+                                                                                 hyperkalaemia
+ Replacement          Glucocorticoid plus fludrocortisone                        Glucocorticoid only
+
+ • Postoperative day 1 cortisol <3.4 µg/dL is common after unilateral adrenalectomy but of unclear
+   significance; replacement is largely unnecessary without preoperative hypercortisolism — yet keep a
+   high index of suspicion.
+ • Fig. 146.33 groups causes: primary (autoimmune, infective, infiltration, haemorrhage/infarction, bilateral
+   or pharmacological adrenalectomy) versus secondary (pituitary, hypothalamic, congenital ACTH
+   deficiency).
+Clinical Characteristics
+ • Chronic: non-specific fatigue and anorexia for months.
+ • Adrenal crisis: hypotension unresponsive to fluids, often mistaken for an acute abdomen (pain, nausea,
+   vomiting, fever with hypovolaemia); hypoglycaemic seizures in children.
+
+
+
+
+                                                      page 41 of 44
+Chapter 146 — Adrenal Disorders                                                                   Non-neoplastic Adrenal Disorders
+ • After unilateral adrenalectomy insufficiency is unlikely but possible — especially for cortisol-secreting
+   lesions (suppressed contralateral gland) and after previous contralateral partial or radical nephrectomy,
+   which may have damaged or removed the other adrenal → review old operative and pathology reports
+   and imaging.
+TABLE 146.14 CLINICAL MANIFESTATIONS OF ADRENAL INSUFFICIENCY (GROUPED BY DEFICIENT HORMONE)
+ Deficiency                 Symptoms                                      Signs
+ Glucocorticoid             Fatigue, anorexia and weight loss             Fever; hypotension; hyponatraemia (SIADH);
+                            (failure to thrive), gastric pain, nausea,    anaemia, lymphocytosis, eosinophilia;
+                            vomiting, myalgia, arthralgia, dizziness      hypoglycaemia; raised TSH*; hypercalcaemia*
+ Mineralocorticoid          Dizziness; salt craving*                      Postural hypotension (systolic <100 mmHg);
+ (primary only)                                                           hyponatraemia; hyperkalaemia*; raised creatinine*
+ Adrenal androgen           Fatigue; dry itchy skin; loss of libido       Loss of axillary/pubic hair; absent adrenarche/
+ (women, children)                                                        pubarche
+ POMC peptides              —                                             Hyperpigmentation* (excess) vs alabaster pallor
+                                                                          (secondary; deficiency)
+
+From Arlt W, Allolio B, 2003. * Primary adrenal insufficiency only. TSH, thyroid-stimulating hormone; SIADH, syndrome of
+inappropriate antidiuretic hormone secretion.
+ • What it tests: the features that exist only in primary disease — salt craving, hyperkalaemia,
+   hyperpigmentation — are exactly those needing mineralocorticoid loss or high ACTH. Trap: hyponatraemia
+   occurs in both, because glucocorticoid deficiency causes SIADH.
+Diagnostic Tests
+ • Clinical suspicion → morning cortisol and ACTH; primary disease shows abnormal aldosterone and renin;
+   confirm with the corticotropin (ACTH stimulation) test; most autoimmune cases have anti-21-
+   hydroxylase antibodies.
+ • Secondary insufficiency needs specialist HPA-axis testing.
+Treatment
+ • Hydrocortisone or cortisone acetate, with half to two-thirds of the daily dose in the morning and the
+   rest in one or two later doses (circadian mimicry). Fludrocortisone only in primary disease. Androgen
+   supplementation for persistent constitutional symptoms (some experts).
+ • Perioperative stress dosing is debated — usual dose is often enough, but coverage is given because the
+   downside is negligible and crisis catastrophic. Mineralocorticoid is unnecessary for patients on chronic
+   steroids (aldosterone intact).
+TABLE 146.15 PERIOPERATIVE GLUCOCORTICOID ADMINISTRATION IN PATIENTS ON CHRONIC STEROID THERAPY
+ Surgical
+ stress         Example                                  Glucocorticoid dose
+ Minor          Local anaesthetic, <1 h (inguinal        Hydrocortisone 25 mg or equivalent
+                hernia)
+ Moderate       Lower-limb vascular surgery, joint       Hydrocortisone 50–75 mg; e.g., usual prednisone (10 mg) +
+                replacement                              hydrocortisone 50 mg IV intraoperatively
+ Major          Oesophagogastrectomy,                    Usual dose (e.g., prednisone 40 mg or IV equivalent within 2 h
+                cardiopulmonary bypass                   pre-op) + hydrocortisone 50 mg IV 8-hourly for 48–72 h
+Data from Salem M et al., 1994; Axelrod L, 2003.
+TABLE 146.16 RELATIVE POTENCY OF COMMON GLUCOCORTICOID PREPARATIONS
+
+
+
+
+                                                          page 42 of 44
+Chapter 146 — Adrenal Disorders                                                                             Conclusions
+
+ Agent                    Biological half-life (h)   Anti-inflammatory potency   Physiological replacement (mg/day)
+ Hydrocortisone           8–12                       1                           20
+ Cortisone acetate        —                          0.8                         25
+ Prednisone               18–36                      4                           5
+ Prednisolone             —                          4                           5
+ Methylprednisolone       —                          5                           4
+ Triamcinolone            —                          5                           4
+ Dexamethasone            36–54                      25–50                       0.5
+Modified from Krasner AS, 1999. — = not stated in the source.
+ • Pattern: potency and half-life rise together; hydrocortisone 20 ≈ prednisone 5 ≈ dexamethasone 0.5 mg/
+   day. Trap: dexamethasone’s long half-life and lack of detection in cortisol assays are what make it the
+   dexamethasone suppression agent and the postoperative “test-friendly” replacement.
+Prognosis
+ • Effect of primary insufficiency on life expectancy unknown, but quality of life is impaired (low energy,
+   libido, psychological effects); secondary (hypopituitary) insufficiency causes premature death.
+Summary
+ • In urology: surgical or pharmacological loss of adrenal tissue; high index of suspicion; previous ipsilateral
+   nephrectomy before contralateral surgery is the classic at-risk setting; consider in patients on chronic
+   steroids and the critically ill; low threshold for endocrinology input.
+
+ KEY POINTS: ADRENAL INSUFFICIENCY
+   • Mineralocorticoid deficiency only in primary disease; pituitary or hypothalamic failure (including
+     chronic steroid suppression) spares aldosterone.
+   • Prior partial or radical nephrectomy + contralateral renal or adrenal surgery = risk of postoperative
+     adrenal crisis — review old reports and imaging for the remaining adrenal.
+
+Concept — Whether insufficiency is primary or secondary decides whether aldosterone is lost, and that one
+fact separates the two clinically (hyperkalaemia, salt craving, pigmentation) and therapeutically
+(fludrocortisone). For the urologist, the danger is iatrogenic: the last functioning adrenal tissue is what an
+operation removes.
+
+Congenital Adrenal Hyperplasia
+ • Autosomal recessive steroidogenic enzyme defect with low cortisol; 21-hydroxylase deficiency in >95%.
+   Loss of negative feedback → high ACTH → cortical hyperplasia and androgen excess. Usually diagnosed in
+   childhood (Chapter 59).
+ • Patients and carriers are prone to benign cortical adenomas, not carcinoma; undiagnosed non-classic 21-
+   hydroxylase deficiency can present with adrenal neoplasms later in life.
+ • No CAH screening for incidentaloma patients — genetic screening has not shown excess undiagnosed
+   CAH.
+
+CONCLUSIONS
+ • The adrenals are essential to life-sustaining homeostasis yet, despite frequent incidental lesions, are
+   infrequent primary initiators of disease.
+
+
+
+
+                                                           page 43 of 44
+Chapter 146 — Adrenal Disorders                                                                   Conclusions
+ • Significant abnormalities need a systematic multidisciplinary approach, in which the urologist — through
+   minimally invasive and retroperitoneal expertise and the renal–adrenal link — naturally contributes
+   evaluation and primary surgical management.
+
+
+
+
+                                                page 44 of 44
+

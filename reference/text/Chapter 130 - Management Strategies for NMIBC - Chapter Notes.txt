@@ -1,0 +1,1318 @@
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                 INTRODUCTION
+
+
+ Chapter 130 — Management Strategies for Non–Muscle-
+ Invasive Bladder Cancer (Ta, T1 and CIS)
+ INTRODUCTION
+   • Non–muscle-invasive bladder cancer (NMIBC) = malignant urothelial tumours that have not invaded
+     the detrusor. It spans the relatively benign course of low-grade papillary tumours and the aggressive
+     course of high-grade disease: urothelial carcinoma in situ (CIS) and high-grade Ta and T1.
+   • Epidemiology (United States): over 80,000 new bladder cancers annually; 70–80% are non–muscle-
+     invasive at presentation — of these 60–70% Ta, 20–30% T1, about 10% CIS. Incidence has declined
+     over two decades, with trends varying by race and ethnicity.
+
+ Presentation
+   • Commonest presentation: painless haematuria. Bladder cancer is far more frequent with gross than
+     microscopic haematuria; microscopic haematuria is defined as ≥3 red blood cells per high-power field.
+   • A large multicentre prospective study confirmed visible haematuria carries a several-fold higher
+     cancer yield than non-visible; prevalence with non-visible haematuria is low (0.3–4.7%).
+   • Females experience delays in haematuria evaluation, which worsens bladder cancer outcomes.
+   • Irritative voiding symptoms are associated with CIS: about 80% of CIS patients have irritative
+     symptoms, and their presence doubles the risk of CIS in haematuria patients.
+   • Hence cystoscopy and upper tract imaging are indicated for haematuria and/or unexplained irritative
+     symptoms.
+
+ Natural History
+   • Survival is often favourable, but the disease is defined by frequent recurrence requiring regular
+     cystoscopy; managed by transurethral surgery, often followed by intravesical immunotherapy or
+     chemotherapy.
+   • Recurrence risk about 40–60%, influenced by patient and disease factors and by quality metrics —
+     completeness of resection and appropriate intravesical therapy.
+   • Progression is the key concern: from about 6% in low-grade Ta to 17% in high-grade T1. Hence risk
+     stratification is paramount.
+ Concept — NMIBC is two diseases under one label: a recurrence problem (low grade) and a progression
+ problem (high grade); every management decision in the chapter follows from which of the two a patient
+ has.
+
+ PATHOLOGY: GRADING, STAGING AND IMPLICATIONS FOR CLINICAL RISK
+ STRATIFICATION
+
+ Pathological Staging
+   • Staging follows the American Joint Committee on Cancer (AJCC) criteria.
+   • Clinical stage = findings at transurethral resection of bladder tumour (TURBT) + imaging + bimanual
+     examination at TURBT; it establishes whether lamina propria and/or muscularis propria are present
+     and involved, and should assess lymphovascular invasion (LVI).
+   • Pathological stage = partial or radical cystectomy specimen plus pelvic lymph nodes.
+
+
+
+                                                   page 1 of 26
+                                                             PATHOLOGY: GRADING, STAGING AND IMPLICATIONS FOR CLINICAL RISK
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                            STRATIFICATION
+   • Three histological layers: urothelium → lamina propria (suburothelial connective tissue) → detrusor/
+     muscularis propria, which is absent beneath the urothelium of diverticula.
+   • Tumour, node, metastasis (TNM) staging of NMIBC:
+       ◦ Ta = non-invasive papillary tumour confined to urothelium, regardless of grade.
+       ◦ T1 = invades lamina propria (subepithelial tissue).
+       ◦ CIS (Tis) = flat, high-grade, confined to urothelium.
+   • T1 substaging: extent of lamina propria invasion correlates with progression. Depth relative to the
+     muscularis mucosae (discontinuous wispy smooth-muscle bands within the lamina propria) — invasion
+     deep to it carries worse prognosis — but it cannot be assessed in all TURBT specimens (discontinuity,
+     poor orientation).
+   • T1a/T1b substaging has been proposed; the AJCC Staging Manual stresses assessing extent of lamina
+     propria invasion, but no method is universally accepted.
+
+ FIGURE 130.1 — STAGING OF BLADDER CANCER
+   • CIS = high-grade, flat malignancy confined to urothelium; Ta = papillary, confined to urothelium; T1 =
+     papillary invading lamina propria — it may intertwine with muscularis mucosae fibres but by
+     definition does not invade detrusor; T2 invades detrusor; T3 reaches extravesical fat.
+
+ Pathological Grading
+   • Current system: World Health Organization/International Society of Urological Pathology (WHO/
+     ISUP) 2015 (building on the 2004 revision). "Urothelial carcinoma" is preferred over "transitional cell
+     carcinoma".
+   • Since 2004 grading is two-tiered — low grade vs high grade — replacing the three-tiered WHO 1973
+     (Ash–Broder) system.
+   • Current categories: hyperplasia (flat and papillary), reactive atypia, atypia of unknown significance,
+     urothelial dysplasia, urothelial CIS, urothelial papilloma, papillary urothelial neoplasm of low
+     malignant potential (PUNLMP), non–muscle-invasive low-grade papillary urothelial carcinoma, non–
+     muscle-invasive high-grade papillary urothelial carcinoma.
+   • PUNLMP: papillary tumour with orderly arrangement, minimal architectural abnormality and minimal
+     nuclear atypia; distinct from both grades, unlikely to progress, essentially benign. The WHO
+     recommends a report note that such patients are at risk of recurrence, occasionally as urothelial
+     carcinoma (UC), so follow-up is warranted.
+   • Papilloma: truly benign; no progression risk.
+
+ TABLE 130.1 ESTIMATES OF DISEASE PROGRESSION IN NON–MUSCLE-INVASIVE BLADDER CANCER: WORLD
+ HEALTH ORGANIZATION/INTERNATIONAL SOCIETY OF UROLOGIC PATHOLOGY CONSENSUS CLASSIFICATION
+
+  Tumour type                                      Relative frequency (%)         Progression (%)        Deaths (%)
+  Non-invasive
+  Papilloma                                        10                             0–1                    0
+  PUNLMP                                           20                             3                      0–1
+  Papillary cancer, low grade (TaG1)               20                             5–10                   1–5
+  Papillary cancer, high grade (TaG3)              30                             15–40                  10–25
+  Invasive
+  Papillary cancer (T1G3)                          20                             30–50                  33
+  Carcinoma in situ
+
+
+                                                        page 2 of 26
+                                                             PATHOLOGY: GRADING, STAGING AND IMPLICATIONS FOR CLINICAL RISK
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                            STRATIFICATION
+
+  Tumour type                                      Relative frequency (%)         Progression (%)        Deaths (%)
+  Primary                                          10                             >50                    —
+  Secondary                                        90                             —                      —
+
+ From Donat SM, Urol Clin North Am, 2003.
+
+   • Purpose: shows the stepwise rise in progression and death with grade — the jump is between low-
+     grade Ta and high-grade Ta, not between Ta and T1.
+   • Pattern: high-grade Ta already carries mortality comparable to invasive disease (10–25% vs 33%).
+   • Traps: most CIS is secondary (accompanies papillary tumour); primary CIS progresses in >50%;
+     papilloma and PUNLMP are not zero-risk for recurrence even though progression is negligible.
+
+ FIGURES 130.2–130.5 — HISTOLOGY (×40)
+   • PUNLMP (130.2): thickened urothelium, normal cells and nuclei.
+   • Low-grade Ta (130.3): relatively normal cells with irregularity and some nuclear differentiation.
+   • CIS (130.4): severe cellular irregularity and nuclear pleomorphism; no lamina propria invasion.
+   • High-grade T1 (130.5): nests of abnormal cells, mitotic figures, invasion of lamina propria.
+
+ Tumour Biology
+   • Grade is among the most important prognostic factors.
+                                    Low-grade Ta                        High-grade T1
+  Recurrence                        50–70%                              >80%
+  Progression                       <5%                                 50% within 3 years
+
+   • Behaviour is grade-dependent rather than stage-dependent: high-grade tumours progress at similar
+     frequency whether Ta or T1.
+   • Controversy: small (≤3 cm) high-grade Ta is stratified intermediate risk, yet recurs and progresses like
+     high-risk Ta (>3 cm, multifocal, high grade).
+   • Prognosis also correlates with tumour size, multiplicity, papillary vs sessile configuration, LVI and
+     status of the remaining urothelium.
+   • Low-grade pTa may be almost benign and a separate disease entity from high-grade tumours
+     (different genetic imprints) — yet low- and high-grade lesions coexist.
+   • UC is a field-change disease (tumours at different times and sites). Rarely, low-grade patients develop
+     high-grade tumours years later → long-term surveillance is appropriate.
+   • Molecular subtypes: RNA-expression classification of NMIBC; the UROMOL project defined four
+     molecular classes with distinct expression profiles and phenotypes. Clinical utility currently limited;
+     potential basis for precision risk assessment.
+
+ Pathological Characteristics and Implications for Clinical Management and Risk
+ Stratification
+ Ta
+   • Usually low grade; recurrence common (especially if multiple), progression rare. About 7% of Ta
+     tumours are high grade (range 3–18%).
+   • The most important risk factor for progression is grade, not stage.
+
+
+
+
+                                                        page 3 of 26
+                                                                PATHOLOGY: GRADING, STAGING AND IMPLICATIONS FOR CLINICAL RISK
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                               STRATIFICATION
+ Carcinoma In Situ
+   • Not "premalignant": CIS is a flat, non-invasive UC, high grade by definition, and a precursor of
+     invasive high-grade cancer.
+   • Histology: severely dysplastic urothelium, disorderly, high-grade nuclear atypia; denudation from loss
+     of cohesion can hamper interpretation.
+   • Dysplasia/atypia reports cause confusion: mild forms are benign, but severe/high-grade dysplasia =
+     CIS.
+   • Untreated CIS progresses to muscle invasion in 40–83%, especially with papillary tumour.
+   • "CIS alone" harbours invasion at cystectomy in up to 20%; CIS with presumed T1 markedly increases
+     upstaging at cystectomy.
+   • CIS is the second most important prognostic factor after grade. Multicentricity is ominous.
+   • Irritative symptoms have been linked to diffuse disease, invasion and poor prognosis — no consensus.
+   • Node-positive disease with CIS only at radical cystectomy: up to 3%.
+
+ T1
+   • Usually papillary on a narrow stalk; nodular/sessile appearance suggests deeper invasion.
+   • Increased recurrence/progression risk with: deep lamina propria invasion (especially muscularis
+     mucosae), LVI, pyuria, bladder neck involvement.
+   • Hydronephrosis often indicates muscle invasion.
+
+ Understaging
+   • Understaging is common in high-grade, apparently non–muscle-invasive disease, especially T1;
+     cystectomy frequently reveals more extensive disease than the transurethral resection (TUR) specimen
+     suggested.
+   • Restaging TURBT of high-grade T1 finds muscle invasion in up to half. Hence a thorough second
+     resection — particularly when muscle was absent from the first specimen.
+
+ TABLE 130.2 RISK OF UNDERSTAGING WHEN CYSTECTOMY IS PERFORMED FOR PRESUMED NON–MUSCLE-
+ INVASIVE DISEASE
+
+  Series type                                                                              Risk of understaging
+  Single-institution series (United States, Europe, Turkey, Canada)                        15–50% (most 27–43%)
+  Multi-institutional cohorts                                                              46–50%
+  Range quoted in body text                                                                34–62%
+
+ Data from nine series, 2001–2012 (Stein et al., 2001, to Turker et al., 2012).
+
+   • Purpose: quantifies how often cystectomy for "NMIBC" reveals worse disease — roughly a third to a
+     half.
+   • Trap: the body-text range (34–62%) and the tabulated range (15–50%) differ because they draw on
+     different series and denominators; the message is the same — clinical T1 is unreliable.
+
+ Risk Stratification
+   • Risk stratification is the primary tool for choosing treatment, surveillance schedule and counselling.
+   • European Organisation for Research and Treatment of Cancer (EORTC) risk tables: probability of
+     recurrence and progression at 1 and 5 years.
+       ◦ Recurrence factors: prior recurrence rate, number of tumours, tumour size.
+       ◦ Progression factors: T stage, concurrent CIS, grade — grade must be underscored.
+
+
+                                                           page 4 of 26
+                                                                PATHOLOGY: GRADING, STAGING AND IMPLICATIONS FOR CLINICAL RISK
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                               STRATIFICATION
+   • Club Urológico Español de Tratamiento Oncológico (CUETO) model: similar, developed in bacille
+     Calmette-Guérin (BCG)-treated patients.
+   • EORTC limitations: cohorts had little BCG maintenance, perioperative mitomycin C (MMC) or
+     restaging TURBT → overestimates recurrence and progression. Updated EORTC tool uses BCG-
+     maintenance cohorts but is deficient in CIS and needs validation.
+   • American Urological Association/Society of Urologic Oncology (AUA/SUO) guideline (2016, updated):
+     novel low/intermediate/high schema, validated for recurrence and progression. BlaTUR — free
+     application providing guideline-based, risk-adapted care.
+
+ TABLE 130.3 EUROPEAN ORGANISATION FOR RESEARCH AND TREATMENT OF CANCER (EORTC) AND CLUB
+ UROLÓGICO ESPAÑOL DE TRATAMIENTO ONCOLÓGICO (CUETO) SCORING MODELS
+
+  Factor                                                                          EORTC                  CUETO
+  Number of tumours                                                               ✓                      ✓
+  Prior recurrence rate                                                           ✓                      ✓
+  T stage                                                                         ✓                      ✓
+  Concurrent CIS                                                                  ✓                      ✓
+  Tumour grade (WHO 1973)                                                         ✓                      ✓
+  Tumour diameter                                                                 ✓                      —
+  Age                                                                             —                      ✓
+  Sex                                                                             —                      ✓
+
+ From Sylvester RJ et al., Eur Urol 2006 (EORTC); Fernandez-Gomez J et al., J Urol 2009 (CUETO).
+
+   • Five shared factors; EORTC adds size; CUETO adds age and sex and drops size.
+   • Both use WHO 1973 grading — a trap when applying them to WHO 2004/2016 reports.
+   • CUETO was derived in BCG-treated patients, so it predicts better than original EORTC in BCG-era
+     practice.
+
+ TABLE 130.4 AMERICAN UROLOGICAL ASSOCIATION RISK STRATIFICATION AND THERAPEUTIC
+ INTERVENTIONS
+
+  Risk             Criteria                                           Therapeutic intervention
+  Low              LG solitary Ta ≤3 cm; PUNLMP                       Single postoperative instillation of chemotherapy
+  Intermediate LG Ta recurrence within 1 year; solitary LG Ta 6-week induction intravesical chemotherapy or
+               >3 cm; LG Ta multifocal; LG T1; HG Ta ≤3 cm BCG; maintenance to 1 year
+  High             HG T1; recurrent HG Ta; HG Ta >3 cm; HG Ta         6-week induction BCG; maintenance BCG to 3
+                   multifocal; any CIS; any BCG failure in HG;        years. BCG-unresponsive: timely radical cystectomy;
+                   any variant histology; any LVI; any HG             systemic pembrolizumab; nadofaragene
+                   prostatic urethral involvement                     firadenovec; gemcitabine + docetaxel
+
+ Disease parameters: size, focality, grade, stage, LVI, prostatic urethral involvement, variant histology, response to BCG. Risk
+ stratification is dynamic and must be reassessed throughout the disease course. LG, low grade; HG, high grade.
+
+   • Traps: LG T1 is intermediate, not high; HG Ta ≤3 cm is intermediate; any CIS, any LVI, any variant
+     histology = high risk regardless of other features.
+   • Treatment tracks risk: single instillation → induction ± 1-year maintenance → BCG with 3-year
+     maintenance → cystectomy or salvage.
+
+
+
+
+                                                           page 5 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                  ENDOSCOPIC SURGICAL MANAGEMENT
+
+   KEY POINTS: PATHOLOGY AND RISK STRATIFICATION
+    • Malignant tumours are low or high grade, regardless of invasion.
+    • High- and low-grade cancers are essentially separate diseases (genetics, behaviour, management).
+    • The most important risk factor for progression is grade.
+    • CIS is a precursor and risk factor for progression, invasion and metastasis.
+    • PUNLMP = orderly arrangement, minimal architectural abnormality, minimal nuclear atypia.
+    • Risk stratification is essential for treatment, counselling and surveillance.
+
+ Concept — Grade drives progression; number, size and prior recurrence drive recurrence. Stage and CIS
+ matter chiefly because they signal high-grade biology and understaging — which is why every risk model is
+ built on that split.
+
+ ENDOSCOPIC SURGICAL MANAGEMENT
+
+ Procedures
+ Diagnosis and Upper Tract Evaluation
+   • Tumours usually found at office cystoscopy for haematuria → map location, number and morphology
+     and review before anaesthetic TUR. If found incidentally on cross-sectional imaging, may proceed
+     directly to TURBT.
+   • Field change → upper tract evaluation at diagnosis and, by risk, in surveillance: computed
+     tomography (CT) urography commonly; retrograde pyelography during TURBT if not done;
+     ureteroscopy reserved for suspicious findings.
+   • Upper tract tumours occur in <5% of bladder cancer patients. Risk factors: trigonal tumours,
+     concomitant CIS, high-risk disease.
+
+ FIGURE 130.6 — CT UROGRAM
+   • Filling defect along the right lateral bladder wall on CT urography, proven high-grade Ta at resection.
+
+ Transurethral Resection of Bladder Tumour
+   • TURBT is both diagnostic and therapeutic; regional or general anaesthesia, with or without paralysis;
+     careful positioning to avoid lower-limb nerve injury; specimens systematically obtained and labelled.
+   • Bimanual examination before and after TURBT: fixation or a persistent palpable mass after resection
+     suggests locally advanced disease — though its added value with modern imaging is limited and
+     possibly misleading.
+   • Technique sequence: complete inspection with flexible cystoscope and/or 30° and 70° lenses →
+     continuous-flow irrigation, bladder filled just enough to efface folds (overdistension thins detrusor →
+     perforation; outflow suction refines volume control) → piecemeal resection debulking intraluminal
+     tumour → transect base or stalk, lifting the tumour edge away from detrusor → separate deep-
+     margin pass or cold-cup biopsy of the base sent separately for muscle invasion → cautery for
+     haemostasis → Ellik evacuator for chips → final haemostasis check at minimal irrigation.
+   • Resection quality determines outcome, especially for high-grade disease: complete visual resection is
+     recommended, yet recurrence varies widely by surgeon.
+   • Muscle in the specimen is required for staging; registry data show nearly half of diagnostic resections
+     lacked muscle (or its mention), which translated into increased mortality.
+
+
+
+
+                                                   page 6 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                       ENDOSCOPIC SURGICAL MANAGEMENT
+
+  Monopolar           Bipolar
+  Sterile water       Saline irrigation → lower TUR syndrome risk in long resection or perforation
+  irrigation
+  Standard            Systematic review: shorter stay, less bleeding, fewer obturator reflexes/perforations;
+                      randomised trial: no difference in perforation, bleeding or obturator reflex, but less thermal
+                      artefact
+
+   • No clear superiority of either energy modality.
+
+ Special Circumstances
+ Diverticular tumours.
+   • Harder to see and resect; no detrusor backing → high perforation risk and unreliable staging.
+   • Invasion beyond diverticular lamina propria = perivesical fat = T3a by definition. Clinical understaging
+     in over half of Ta/T1 cases at cystectomy.
+   • Low grade: conservative — cold-cup resection and fulguration. High grade: sample base including
+     perivesical fat; strongly consider partial or radical cystectomy. No consensus on management.
+ Tumour location.
+   • Anterior wall and dome (capacious bladder): minimal filling + suprapubic compression; extra-long
+     resectoscope; rarely a temporary perineal urethrostomy (obese patients); digital rectal or vaginal
+     manipulation; angled or flat loops for posterior wall/dome.
+ Ureteric orifice.
+   • Pure cutting current and limited cautery → minimal scarring; resection of the orifice is permissible.
+   • Resecting the intramural ureter may eradicate tumour but risks reflux of malignant cells (clinical
+     significance unclear).
+   • Post-resection intramural stenosis about 12%; predictors: tumour >1.5 cm and T1. T1 in the bladder
+     and CIS in the intraluminal distal ureter raise upper tract UC risk.
+   • Routine stenting unnecessary after careful unilateral orifice resection.
+   • Aids: efflux check with intravenous indigo carmine or methylene blue, or retrograde study; with
+     fluorescence cystoscopy the urine jet appears green; open-ended ureteric catheter before resection
+     of adjacent tumours. Stricture rare (about 4%); most hydronephrosis resolves or reflects invasion.
+     Postoperative renal ultrasonography if orifice resected or coagulation used nearby.
+ Small tumours and thin bladders.
+   • Small or narrow-stalk tumours: cold-cup forceps alone — useful in thin-walled bladders (elderly
+     women); perforation is smaller than with the loop. Bugbee electrode for haemostasis.
+
+ Laser Resection
+   • Holmium and thulium lasers most used; equivalent safety and efficacy; en bloc resection or
+     vaporisation.
+   • En bloc resection: loop electrode, HybridKnife, holmium, thulium or potassium titanyl phosphate
+     (KTP) laser. Excises tumour with underlying muscle intact → preserved architecture, less cautery
+     artefact, more accurate staging; best for papillary tumours on a discrete stalk.
+   • Meta-analyses: fewer perforations, less residual disease, more detrusor in the specimen, fewer
+     obturator kicks — but no difference in recurrence. Endorsed by the European Association of Urology
+     (EAU) guidelines as a viable strategy.
+
+
+
+
+                                                       page 7 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                    ENDOSCOPIC SURGICAL MANAGEMENT
+   • Disadvantages: large tumours need fragmentation for extraction; disruption at the resection line;
+     equipment cost; excessive penetration depth.
+
+ Repeat Transurethral Resection of Bladder Tumour
+   • Second-look TURBT is a quality indicator. Rationale: incomplete resection (volume, access,
+     complications) drives early recurrence; muscle in the specimen (itself a quality indicator) is critical
+     where lamina propria invasion is found or invasion suspected.
+   • Residual tumour is common: tumour at first follow-up cystoscopy in up to 45%; residual tumour at the
+     resection site in ≥40% when re-resected within weeks; second TURBT corrects staging errors in about
+     half of those with residual disease.
+   • High-grade Ta: residual tumour in up to 50%, upstaging up to 15% → AUA: consider repeat TURBT
+     within 6 weeks for multifocal and/or large high-grade Ta.
+   • High-grade T1: worse findings or upstaging to muscle invasion in 25–30%; up to about half if no
+     muscle in the first specimen → repeat TURBT within 6 weeks recommended.
+   • Understaging in T1 is about twice as likely when muscle is absent.
+   • Benefits: second resection changes treatment in one-third; observational data show better survival
+     and fewer recurrences; randomised data show lower recurrence and progression in T1. Omission of
+     muscle (or of its mention) → increased mortality.
+   • Residual T1 at re-resection → progression up to 80% → consider timely cystectomy.
+   • Second opinion: re-resect unless clear muscle invasion, especially if outside slides unavailable;
+     subspecialty genitourinary pathology review changes management in about one-third (interobserver
+     variability).
+   • AUA summary: repeat TURBT of the primary site, including muscularis propria, within 6 weeks for
+     incomplete initial resection and all T1; consider for high-risk high-grade Ta. Greatest benefit when no
+     muscle was present initially.
+  Repeat TURBT: recommended                           Repeat TURBT: consider
+  Incomplete initial resection                        High-risk HG Ta (multifocal and/or large)
+  All T1 (especially no muscle)
+  No muscle in specimen (AUA/EAU)
+
+ Bladder and Urethral Biopsies
+   • Biopsy all suspicious areas; cold-cup biopsies avoid cautery artefact.
+   • Positive cytology + erythematous velvety mucosa → biopsies may diagnose CIS.
+   • Random biopsies of normal-appearing mucosa: low yield. Not indicated in low risk (low-grade
+     papillary, negative cytology); consider with high-risk history or positive cytology (or multiple tumours).
+   • Prostatic urethra: risk low in low-risk disease, increased with bladder neck/trigone tumours or CIS.
+
+ Office-Based Endoscopic Management
+   • Small (≤1 cm) low-grade recurrences → office thermal or laser ablation, avoiding anaesthesia.
+   • Analgesia: 1–2% lidocaine with bicarbonate instilled, 15–30 minutes' dwell; fulguration of 1–5 mm
+     tumours is often tolerable without it.
+   • Randomised non-inferiority trial: office laser photocoagulation under photodynamic guidance was
+     non-inferior to TURBT for recurrence-free survival, with better quality of life.
+
+
+
+
+                                                    page 8 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                ENDOSCOPIC SURGICAL MANAGEMENT
+   • Prerequisite: no tissue is obtained, so prior tissue diagnosis and negative cytology are mandatory to
+     confirm low grade.
+   • Active surveillance of small low-grade tumours until significant growth is safe in selected patients.
+     Bladder Cancer Italian Active Surveillance (BIAS) study: about half remain treatment-free at 2 years;
+     failure predicted by multiple prior TURBTs and multiple tumours. Avoids anaesthesia, improves
+     quality of life, limits financial toxicity.
+
+ Enhanced Cystoscopic Techniques: Fluorescence Cystoscopy, Narrow-Band Imaging, Optical
+ Coherence Tomography and Confocal Laser Endomicroscopy
+   • White-light cystoscopy (WLC) is the gold standard, but subjective: a substantial proportion of biopsies
+     of suspicious areas are negative, and imperfect sensitivity partly explains early recurrence after
+     "complete" resection.
+   • Enhancements: fluorescence cystoscopy, narrow-band imaging (NBI), optical coherence tomography
+     (OCT), confocal laser endomicroscopy.
+
+ Fluorescence (Blue-Light) Cystoscopy
+   • Mechanism: photoactive porphyrins accumulate in neoplastic tissue and fluoresce red under blue
+     light.
+   • 5-aminolevulinic acid (5-ALA) caused systemic photosensitisation → replaced by hexaminolevulinate
+     (HAL), which avoids it. Also termed photodynamic diagnosis (PDD).
+   • Detects small papillary tumours and almost one-third more CIS than WLC; greatest gain is for CIS.
+   • Recurrence: earlier prospective data showed reduced recurrence for several years; a meta-analysis
+     supports reduction up to 1 year and beyond, inconsistently. However, a multicentre pragmatic
+     randomised trial found no reduction in 3-year recurrence and higher cost, mainly in intermediate risk.
+     Progression benefit unproven (underpowered).
+   • Also assesses completeness of TUR. Office flexible blue-light cystoscopy detects about 20% more
+     recurrent papillary tumours and about one-third more CIS.
+
+ FIGURES 130.7–130.8 — BLUE-LIGHT CYSTOSCOPY
+   • Normal-appearing mucosa on white light shows red HAL fluorescence under blue light, proven NMIBC
+     — with rigid (130.7) and flexible (130.8) cystoscopes.
+
+ Narrow-Band Imaging
+   • Mechanism: two haemoglobin-absorbed wavelengths — 415 nm penetrates superficial mucosa; 540
+     nm penetrates deeper → enhances tumour vasculature.
+   • Detects more papillary tumours and CIS (initially about 13% more tumours), but false-positive rate
+     about 60%.
+   • NBI-assisted TUR is more thorough; a randomised trial showed no overall recurrence difference, but
+     reduced short-term (≤3 months) recurrence in low-risk tumours — more thorough surface resection
+     without altering high-risk recurrence patterns.
+                            Blue-light (HAL)                             NBI
+  Principle                 Porphyrin accumulation → red fluorescence    415/540 nm light absorbed by
+                                                                         haemoglobin
+  Needs intravesical        Yes (catheter instillation)                  No
+  agent
+  Main gain                 CIS detection                                Papillary and CIS detection
+
+
+
+
+                                                          page 9 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                        ENDOSCOPIC SURGICAL MANAGEMENT
+
+                            Blue-light (HAL)                                     NBI
+  Weakness                  Cost; randomised trial showed no 3-year              High false-positive rate
+                            recurrence benefit
+
+   • OCT and confocal laser endomicroscopy are named as enhancement techniques; the chapter gives no
+     further detail.
+   • Enhanced techniques are included in AUA guidelines, when available, to improve detection and
+     completeness of TUR.
+
+ Complications of Transurethral Resection of Bladder Tumour and Bladder Biopsy
+   • Common: haematuria, infection, irritative symptoms. Less common: clot retention, TUR syndrome,
+     perforation requiring cystorrhaphy, trigonal or urethral scarring.
+   • Major complications (uncontrolled haematuria, perforation) in 1–6.7%; subclinical extravasation on
+     cystography in up to half.
+   • Perforation risk factors: elderly, large posterior wall tumours, multiple prior intravesical courses.
+   • Prevention: avoid overdistension; paralysis for lateral wall tumours (obturator reflex); stage resection
+     of large or apparently invasive tumours.
+   • Extraperitoneal (majority) vs intraperitoneal (dome):
+  Extraperitoneal                       Intraperitoneal
+  Majority of perforations              Dome resections
+  Prolonged urethral catheter           Less likely to close → open or laparoscopic repair; open repair allows washout
+  drainage                              to limit seeding
+
+   • Tumour seeding after perforation: low risk, but extravesical recurrences reported; higher apparent risk
+     after surgical repair likely reflects selection of severe cases.
+   • Perforation → more recurrence and worse disease-free survival, but not worse cancer-specific or
+     overall survival (more patients underwent cystectomy).
+   • TUR syndrome uncommon (especially bipolar); managed as in transurethral resection of the prostate
+     (TURP).
+
+   KEY POINTS: ENDOSCOPIC SURGICAL MANAGEMENT
+    • TURBT removes all visible tumour and provides specimens for stage and grade.
+    • Repeat resection within 6 weeks for high-grade disease — recommended for T1 and incomplete
+      resection, considered for high-risk high-grade Ta — especially if no muscle in the initial TURBT.
+    • Sample all suspicious lesions; random biopsies are not required in low-risk patients.
+    • Office fulguration and observation for selected low-risk patients.
+    • Fluorescence cystoscopy and NBI improve visualisation of inconspicuous tumours and may reduce
+      recurrence after TUR.
+
+ Concept — TURBT is a staging operation before it is a therapeutic one: completeness and muscle in the
+ specimen are the two quality levers, and repeat resection, en bloc technique and enhanced imaging all
+ exist to serve them.
+
+
+
+
+                                                          page 10 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                            INTRAVESICAL THERAPY
+
+ INTRAVESICAL THERAPY
+
+ Perioperative Intravesical Therapy
+   • Rationale: kill floating tumour cells before implantation; recommended by multiple guideline panels.
+   • Meta-analysis: single perioperative instillation reduces recurrence in low-risk and in multiple tumours;
+     MMC, epirubicin and pirarubicin effective; thiotepa not (limited data, diluted doses).
+   • MMC timing: within 6 hours reduces recurrence; at 24 hours it does not — consistent with an anti-
+     implantation mechanism. Benefit persists even with ongoing adjuvant instillations (randomised).
+     Level 1 evidence, greatest for initial solitary low-grade papillary tumour.
+   • Neoadjuvant MMC (1 day and 4 hours before TURBT): small phase II trial, marked relative recurrence
+     reduction, well tolerated.
+   • Gemcitabine is now the standard perioperative agent in the United States (efficacy, cost, safety; level
+     1 evidence).
+   • SWOG S0337 (Southwest Oncology Group; landmark): gemcitabine 2 g in 100 mL saline for 1 hour vs
+     saline immediately post-TURBT for suspected low-grade NMIBC; 4-year recurrence 35% vs 47%; low-
+     grade only 34% vs 54%; 34% relative reduction; no difference in adverse effects.
+   • An earlier negative gemcitabine trial used >20 hours of saline irrigation in both arms → continuous
+     irrigation itself may reduce recurrence; sterile water and continuous saline irrigation both show
+     potential.
+   • Complications: irritative symptoms commonest; serious sequelae and rare deaths, especially with
+     perforation; chemical cystitis, cutaneous desquamation, contracture, calcified eschar, harder later
+     cystectomy.
+   • Withhold chemotherapy with extensive resection or suspected perforation.
+   • BCG must never be given immediately after TUR — risk of intravasation of live bacteria, sepsis and
+     death.
+
+   KEY POINTS: PERIOPERATIVE INTRAVESICAL THERAPY TO PREVENT TUMOUR IMPLANTATION
+    • Single-dose chemotherapy within 6 hours reduces recurrence of low-risk tumours, most at initial
+      solitary low-grade papillary presentation.
+    • Incremental benefit in recurrent or multiple tumours is limited.
+    • Avoid with suspected perforation or extensive resection.
+
+ Concept — The single instillation is an anti-implantation measure, not a treatment of residual disease:
+ hence the 6-hour window, the absolute bar on BCG at this point, and the largest benefit where
+ implantation — not biology — drives recurrence.
+
+ Intravesical Immunotherapy
+ Bacille Calmette-Guérin
+   • BCG = attenuated mycobacterium (tuberculosis vaccine) with antitumour activity. Morales (1976)
+     introduced it with an added percutaneous dose, later dropped after intravesical success.
+   • Administration sequence: powder reconstituted in 50 mL saline → start 2–4 weeks after TURBT (re-
+     epithelialisation) → urinalysis before each instillation (exclude infection or significant bleeding) →
+     urethral catheter → retain 1–2 hours → restrict fluid, diuretics and caffeine beforehand.
+   • Traumatic catheterisation → delay several days. Active urinary tract infection (UTI) usually delays
+     treatment; asymptomatic bacteriuria may not require delay.
+
+
+                                                   page 11 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                    INTRAVESICAL THERAPY
+   • Rotating the patient has no evidence; bleach-cleaning the toilet is common advice though close-
+     contact infection is undemonstrated.
+
+ BOX 130.1 CONTRAINDICATIONS TO BACILLE CALMETTE-GUÉRIN (BCG) THERAPY
+
+  Absolute                                     Relative                       No or insufficient data
+  Immunosuppressed/                            UTI (intravasation risk)       Prosthetic materials (no increased risk
+  immunocompromised*                                                          shown)
+  Immediately after TUR (intravasation,        Liver disease (precludes       Ureteric reflux
+  septic death)                                isoniazid if sepsis)
+  Previous BCG sepsis                          Previous tuberculosis          Anti–tumour necrosis factor drugs
+                                               (theoretical)                  (theoretical sepsis risk)
+  Gross haematuria (intravasation)             Poor performance status
+  Traumatic catheterisation                    Advanced age
+  (intravasation)
+  Total incontinence (cannot retain)
+
+ *Recent small series suggest immunosuppression may not be an absolute contraindication. From Ehlers S, J Rheumatol
+ Suppl, 2005.
+
+   • Unifying principle: most absolute contraindications are breaches of the urothelium → intravasation.
+   • Trap: the box lists immunosuppression as absolute, but the text states BCG can be used safely in
+     transplant recipients and patients on steroids, disease-modifying agents or chemotherapy, without
+     excess sepsis — response is merely weaker, especially after transplant.
+
+ Mechanism of Action
+   • Sequence: BCG binds fibronectin in the bladder wall → local immune response: cytokines in urine and
+     wall and influx of granulocytes, mononuclear and dendritic cells → cell-mediated cytotoxicity and an
+     antiangiogenic state.
+   • Cytokines: tumour necrosis factor-α (TNF-α), granulocyte-macrophage colony-stimulating factor (GM-
+     CSF), interferon-γ (IFN-γ), interleukins (IL) 1, 2, 5, 6, 8, 10, 12, 18. Tumour necrosis factor–related
+     apoptosis-inducing ligand (TRAIL) release is key and associated with response.
+   • Preferential IFN-γ, IL-2, IL-12 = T-helper type 1 (Th1) response (effective); concomitant IL-10 →
+     suppressive Th2 response.
+   • Strains differ in immune pattern, but no strain is superior.
+   • Response limited by immunosuppressive disease and advanced age.
+
+ Bacille Calmette-Guérin Treatment of Carcinoma In Situ and High-Risk Disease
+   • BCG is the most used intravesical agent in the United States (chemotherapy more used elsewhere);
+     TICE BCG is approved by the Food and Drug Administration (FDA).
+   • Before BCG, CIS progressed about 7% per year. Initial tumour-free response up to 84%.
+   • Durability: about half have a durable response (median 4 years); only about 30% free of recurrence or
+     progression at 10 years, most events within 5 years → close follow-up mandatory. Non-responders
+     progress far more often than responders. Contemporary cohorts with adequate BCG show better
+     outcomes (high-grade recurrence-free survival at 12 months about 81–89%).
+   • AUA: BCG is preferred initial treatment for high-risk tumours (especially CIS); for intermediate risk, an
+     option up front or preferably after intravesical chemotherapy.
+
+
+
+
+                                                          page 12 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                        INTRAVESICAL THERAPY
+   • BCG vs chemotherapy: BCG superior to MMC only when BCG includes maintenance (vs 6-week
+     MMC); BCG reduces recurrence and progression; chemotherapy does not affect progression; higher
+     complete response and durability with BCG; but more cystitis, dysuria, haematuria and fever.
+
+ Bacille Calmette-Guérin Treatment of Residual Tumour
+   • BCG eradicates residual papillary tumour in about 60% but must not replace resection; its primary
+     use is adjuvant.
+   • CIS persisting after induction → second induction or first maintenance (3 weeks) yields complete
+     response in a further 30–50%.
+   • Prostatic urethral mucosal/superficial duct carcinoma: BCG about 50% tumour-free; a limited TURP
+     or fulguration reduces burden and improves BCG contact.
+
+ Bacille Calmette-Guérin Therapy to Prevent Recurrence
+   • 6-week course after TURBT reduces recurrence (on average about 40%).
+   • Maintenance reduces recurrence more than induction alone (meta-analysis). 3 years of maintenance
+     is supported; intermediate risk may be managed with 1 year.
+   • High-risk T1: BCG substantially lowers recurrence and progression vs TUR alone; multiplicity and
+     associated CIS raise progression risk.
+   • T1a vs T1b substaging did not improve prediction of recurrence or progression after BCG.
+
+ Impact of Bacille Calmette-Guérin on Progression
+   • Progression is BCG's greatest value. An early randomised trial showed delayed progression vs TUR and
+     fewer cystectomies for CIS, with later cystectomy; yet only about a quarter were alive with an intact
+     bladder at 10–15 years.
+   • Meta-analyses: BCG reduces progression (vs chemotherapy and vs MMC specifically); benefit
+     concentrated in trials using maintenance.
+   • No chemotherapy trial has significantly reduced progression.
+   • Long-term survival benefit of BCG is not fully defined.
+
+ Determining Optimal Bacille Calmette-Guérin Treatment Schedule
+   • Optimal dose and schedule not established; 6-week induction alone is insufficient — maintenance is
+     requisite (AUA).
+   • Second induction: additional response about 25% (prophylaxis) and 30% (CIS). Beyond a second
+     course, progression risk 20–50%; roughly 7% added progression risk per extra course.
+   • Response at 6 months predicts prognosis.
+
+ LANDMARK BACILLE CALMETTE-GUÉRIN MAINTENANCE TRIALS
+
+  Trial              Population         Comparison                Result                             Verdict
+  SWOG               Recurrent Ta,      Induction 6 weeks + 3     Median recurrence-free             Maintenance
+  maintenance        T1, CIS            weekly instillations at   survival 76.8 vs 35.7 months; 5-   superior despite
+  trial (Lamm,                          3 and 6 months, then      year survival 83% vs 78%; no       poor completion;
+  2000)                                 every 6 months to 3       toxicity above grade 3; only       most common
+                                        years vs induction        16% completed full schedule,       schedule used today
+                                        alone                     most dropouts in first 6 months
+
+
+
+
+                                                         page 13 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                         INTRAVESICAL THERAPY
+
+  Trial              Population         Comparison                  Result                            Verdict
+  EORTC 30962        Intermediate       Full vs one-third dose;     Discontinuation for toxicity only Intermediate: full
+                     and high risk      1 vs 3 years                about 7–8%                        dose, 1 year. High:
+                     Ta/T1              maintenance (at 3, 6,                                         full dose, 3 years
+                                        12 months; high risk
+                                        then 6-monthly to 3
+                                        years)
+  NIMBUS             High-grade         Reduced frequency (9        Recurrence doubled; stopped       Reduced frequency
+                     NMIBC              doses: weeks 1, 2, 6;       at 12-month median follow-up      inferior
+                                        then 2 doses at 3, 6,
+                                        12 months) vs
+                                        standard (15 doses, 1
+                                        year)
+
+   • Current standard: responders with high-risk disease → 3 years full-dose maintenance; intermediate
+     risk → 1 year (SWOG schedule, supported by EORTC 30962).
+   • Trap: reduced dose or schedule may suffice for papillary-only disease in theory, but no equivalent
+     regimen has been proven; NIMBUS showed reducing frequency fails.
+
+ Antibiotics, Isoniazid and Response Prediction
+   • Routine antibiotic prophylaxis during BCG may impair efficacy; quinolones were thought to reduce
+     BCG viability.
+   • But short-term quinolone (ofloxacin or prulifloxacin) for 24–48 hours after instillation reduces cystitis
+     side effects (most from the fourth instillation), reduces delays and discontinuations, without affecting
+     recurrence or progression — widely used routinely.
+   • Isoniazid (INH) single dose or 24 hours around instillation: mixed results.
+   • Response prediction: CyPRIT nomogram (urinary cytokine panel at the sixth induction instillation) and
+     Oncuria (10-biomarker urine immunoassay before BCG) both predict response/non-response well;
+     both need validation.
+
+ BOX 130.2 MANAGEMENT OF BACILLE CALMETTE-GUÉRIN (BCG) TOXICITY
+
+  Grade                     Features                Assessment           Management
+  1: moderate, <48 h        Mild/moderate           Consider urine       Anticholinergics, phenazopyridine, analgesics,
+                            irritative              culture              non-steroidal anti-inflammatory drugs
+                            symptoms, mild
+                            haematuria, fever
+                            <38.5°C
+  2: severe and/or >48      Severe irritative       Urine culture,       Reduce dose to one-half to one-third on
+  h                         symptoms,               chest                resumption; treat culture; consider isoniazid
+                            haematuria, or          radiograph, liver    pretreatment; isoniazid + rifampicin until
+                            symptoms >48 h          function tests       resolution, with pyridoxine (vitamin B6); no
+                                                                         monotherapy; watch rifampicin interactions
+                                                                         (warfarin); monitor liver tests
+  3: serious                Allergic (joint pain,   As grades 1–2        Isoniazid + rifampicin + pyridoxine
+  (haemodynamic             rash)
+  change, persistent
+  high fever)
+
+
+
+
+                                                         page 14 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                       INTRAVESICAL THERAPY
+
+  Grade                     Features               Assessment          Management
+                            Solid organ (liver,                        Stop BCG; isoniazid and rifampicin; infectious
+                            lung, kidney)                              disease input if persistent; add ethambutol;
+                                                                       prednisone for inadequate response or septic
+                                                                       shock — never without effective
+                                                                       antimycobacterial cover
+
+   • Traps: BCG is almost uniformly resistant to pyrazinamide — no role; cycloserine causes severe
+     psychiatric effects — avoid; asymptomatic granulomatous prostatitis after BCG may mimic prostate
+     cancer and needs no treatment.
+
+ Interferon
+   • Interferons (IFN) = glycoproteins with antitumour actions: inhibit nucleotide synthesis, upregulate
+     tumour antigens, antiangiogenic, cytokine release, T- and B-cell and natural killer cell activation. IFN-
+     α most studied; active at ≥100 million units (optimal dose and schedule undetermined).
+   • As a single agent: more expensive and less effective than BCG or chemotherapy; CIS complete
+     response 20–43% (dose-dependent), long-term efficacy <15%; limited activity against T1; occasionally
+     effective after BCG failure (15–20%).
+   • Combination: additive with epirubicin or MMC; BCG + IFN-α2b vs BCG alone (randomised, BCG-naive)
+     showed no difference. Main benefit: allows BCG dose reduction to one-third or lower without loss of
+     efficacy.
+
+ Bacille Calmette-Guérin Shortages
+   • Three shortages in a decade. Connaught strain paused 2012, discontinued 2017; TICE is now the only
+     FDA-approved strain, made in a single plant supplying 70 countries; demand exceeds supply.
+   • SWOG S1602 (about 1000 patients, enrolment complete): TICE vs Tokyo-172 vs Tokyo-172 with
+     intradermal priming — may bring a second approved strain and test priming.
+   • Shortage strategies: prioritise high-risk NMIBC → dose reduction, especially for maintenance → split
+     vials (viability ≥72 hours) → intravesical chemotherapy for intermediate (single agent) and high risk
+     (doublet) → early radical cystectomy for highest risk. Updates: AUA BCG shortage page.
+
+   KEY POINTS: IMMUNOTHERAPY
+    • BCG is more effective but more toxic than intravesical chemotherapy.
+    • Use BCG sparingly in low-risk disease and during shortages.
+    • Infectious complications are managed per Box 130.2.
+    • BCG reduces recurrence and is the only agent shown to delay or prevent high-grade progression.
+    • Maintenance improves outcomes (especially high risk) and should follow response to induction, as
+      tolerated.
+    • BCG is contraindicated with disrupted urothelium (sepsis).
+
+ Concept — BCG works only as a sustained Th1 immune stimulus: that is why maintenance is what
+ separates it from chemotherapy, why it is the only agent that alters progression, and why every
+ contraindication is either a breached urothelium or a host who cannot mount the response.
+
+ Intravesical Chemotherapy
+   • Single perioperative dose: clear recurrence benefit. Adjuvant induction ± maintenance also reduces
+     recurrence; MMC and gemcitabine most used.
+
+
+
+                                                       page 15 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                  INTRAVESICAL THERAPY
+   • BCG vs chemotherapy (adjuvant): a SWOG trial found less progression with BCG than doxorubicin;
+     BCG with maintenance lowers recurrence vs MMC, doxorubicin, epirubicin and thiotepa.
+     Chemotherapy persists because of no infectious risk and better tolerability.
+   • Intermediate risk: single-agent MMC or gemcitabine is an attractive alternative to BCG with similar
+     efficacy, especially for low-grade multifocal recurrent disease. Schedule: 6-week induction, then
+     monthly maintenance for 1 year; AUA: clinicians may use maintenance.
+
+ TABLE 130.5A AND 130.5B COMPARISONS AMONG INTRAVESICAL AGENTS
+
+                  Class/                                                  Cystitis                         Dropout
+  Agent           mechanism           Dose Perioperative Risk group       (%)      Signature toxicity      (%)
+  Doxorubicin     Anthracycline:      50      Yes         Low–            20–40    Fever, allergy,         2–16
+                  intercalation,      mg/                 intermediate             contracted bladder
+                  topoisomerase       50                                           (5%), cardiotoxicity,
+                  II, free radicals   mL                                           myelosuppression
+  Epirubicin      Anthracycline       50      Yes         Low–            10–30    Contracted bladder      3–6
+                                      mg/                 intermediate             rare
+                                      50
+                                      mL
+  Valrubicin      Anthracycline       800     No          Salvage         Mild     UTI, abdominal pain,    <10
+                                      mg/                                          asthenia
+                                      75
+                                      mL
+  Thiotepa        Alkylating:         60      Yes         Low–            10–30    Myelosuppression        2–11
+                  inhibits DNA/       mg/                 intermediate             (8–19%), rash,
+                  RNA synthesis       30                                           mucositis
+                                      mL
+  Mitomycin C Alkylating              40      Yes         Low–            30–40    Rash (8–19%),           2–14
+                                      mg/                 intermediate             severe skin reaction,
+                                      20                                           contracted bladder
+                                      mL                                           5%, encrustation
+                                                                                   cystitis
+  Gemcitabine Nucleoside              2 g/    Yes         Low–            Mild     Occasional nausea;      <10
+              analogue: chain         100                 intermediate;            severe chemical
+              termination             mL                  salvage                  cystitis 1–3%
+  Docetaxel       Taxane:             75      —           —               Mild     Myelosuppression,       —
+                  stabilises          mg/                                          hand-foot syndrome
+                  microtubules        100
+                                      mL
+  Paclitaxel      Taxane              500     —           —               Mild     Myelosuppression,       —
+                                      mg/                                          hand-foot syndrome
+                                      100
+                                      mL
+  BCG             Innate and          1       No          Intermediate– 60–80      Fever 5%, flu-like      5–10
+                  adaptive            vial/               high                     10%, severe cystitis
+                  immunity            50                                           2–5%,
+                                      mL                                           granulomatous
+                                                                                   prostatitis 1%, BCG
+                                                                                   sepsis 0.5%
+
+
+
+
+                                                     page 16 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                                    INTRAVESICAL THERAPY
+
+                  Class/                                                     Cystitis                        Dropout
+  Agent           mechanism           Dose Perioperative Risk group          (%)      Signature toxicity     (%)
+  Interferon      Immune              50      No            Salvage          <5       Flu-like 20%, fever    Rare
+                  activation; JAK-    MU/                                             10%
+                  STAT                50
+                                      mL
+
+ Tables 130.5A and 130.5B merged. BCG, bacille Calmette-Guérin; MU, million units.
+
+   • Purpose: matches mechanism → signature toxicity: anthracyclines → contracture; thiotepa →
+     marrow; MMC → skin; BCG → infection; IFN → flu-like.
+   • Traps: only BCG, IFN and valrubicin are not used perioperatively; gemcitabine is the only agent listed
+     for both low–intermediate and salvage; IFN dose in the table (50 MU) is lower than the ≥100 MU the
+     text cites for activity.
+
+ Doxorubicin and Analogues
+   • Doxorubicin (Adriamycin) — anthracycline antibiotic; modest recurrence benefit over TUR, no
+     progression benefit; chemical cystitis in up to half; reduced capacity reported.
+   • Epirubicin: reduces recurrence vs TUR alone (single immediate dose and 8-week courses); oral
+     Lactobacillus casei during instillations further reduced recurrence in a Japanese study; BCG beats
+     epirubicin on recurrence and progression, with more adverse events.
+   • Valrubicin: doxorubicin analogue, FDA-approved for BCG-refractory CIS in patients unwilling or unfit
+     for cystectomy; complete response only about one-fifth → little used.
+
+ Mitomycin C
+   • Alkylating agent; historical agent of choice. Induction 40 mg weekly × 6.
+   • Progression slightly higher than with BCG (meta-analysis); reduces recurrence but not progression;
+     fewer side effects. Latest meta-analysis: no recurrence difference vs BCG overall, but BCG better
+     where maintenance used; MMC higher progression risk.
+   • Optimising delivery (landmark: Au, 2001): eliminate residual urine, overnight fasting/fluid restriction,
+     sodium bicarbonate (reduces degradation), concentrate to 40 mg in 20 mL.
+   • Device-assisted MMC:
+  Technique                               Principle                       Key point
+  Microwave/radiofrequency                Local heating with MMC          Marked recurrence reduction; high 2-year
+  hyperthermia                                                            recurrence-free rate in high-grade disease
+  Electromotive drug administration Pulsed current (up to 20 mA,          Lower recurrence than passive MMC; BCG
+  (EMDA)                            30 minutes) via lower-                alternating with EMDA-MMC in T1 → lower
+                                    abdominal electrodes; tissue          recurrence and progression, better survival
+                                    delivery increased 4–7 fold;          than BCG alone; vs BCG alone, a later
+                                    higher peak plasma MMC                randomised trial showed a non-significant
+                                                                          difference and more toxicity
+  Chemohyperthermia (Synergo              Radiofrequency catheter heats Up to threefold lower recurrence vs plain
+  radiofrequency-induced                  bladder to 42°C               MMC; also potentiates BCG
+  thermochemotherapeutic effect,
+  RITE)
+  Hyperthermic intravesical               Recirculating MMC heated to     Neoadjuvant: chemoablation in about 60%;
+  chemotherapy (HIVEC)                    42°C (Combat Bladder            adjuvant: low 2-year recurrence
+                                          Recirculation System)           (intermediate risk); similar to EMDA at 12
+                                                                          months
+
+
+
+                                                       page 17 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                          DISEASE RECURRENCE AFTER BACILLE CALMETTE-GUÉRIN
+
+  Technique                               Principle                        Key point
+  Reverse thermal gel MMC                 Liquid when cold, gel at body    Primary chemoablation of low-grade
+  (UGN-102)                               temperature → sustained          intermediate-risk tumours: about two-thirds
+                                          release                          complete response at 3 months, mostly
+                                                                           durable to 12 months; phase III under way;
+                                                                           same platform approved for low-grade
+                                                                           upper tract UC
+
+ Gemcitabine
+   • Minimal systemic absorption; safe and effective adjuvant option.
+   • After BCG failure: vs BCG reinduction — better 2-year disease-free survival, no difference in
+     progression or cystectomy; SWOG phase II after two failed BCG courses: 2-year disease-free survival
+     21%.
+   • Intermediate risk: gemcitabine ≈ one-third-dose BCG for recurrence and progression.
+   • Role: intermediate-risk disease and selected BCG-exposed patients.
+
+ Combination Therapy
+   • Chemotherapy combinations initially gave more local toxicity for modest gain.
+   • Chemotherapy + BCG: sequential MMC–BCG showed no advantage; BCG monotherapy even
+     outperformed a combination arm. No benefit from sequential chemotherapy–BCG regimens except
+     with electromotive MMC. (An EORTC marker-lesion study gave about half complete response with
+     sequential MMC and BCG.)
+   • Gemcitabine–docetaxel (Gem/Doce) — renewed interest (BCG-unresponsive disease, shortage); most
+     studied as primary adjuvant therapy for BCG-naive high-grade NMIBC.
+   • Regimen sequence: gemcitabine 1 g in 50 mL (sterile water or saline), 60–90 minutes → drain →
+     docetaxel 37.5 mg in 50 mL saline, 60–120 minutes → weekly × 6 induction → monthly maintenance
+     for 2 years in responders.
+   • Tolerability aids: oral sodium bicarbonate 1300 mg the night before and morning of treatment,
+     ondansetron, anti-inflammatories.
+   • BCG-naive outcomes: high 2-year recurrence-free survival in retrospective and small prospective
+     series. Phase III Gem/Doce vs BCG (induction + maintenance) is under way.
+
+   KEY POINTS: INTRAVESICAL CHEMOTHERAPY
+    • Clear effect on recurrence (immediate post-TURBT and adjuvant); no clear evidence on
+      progression.
+    • Side effects less severe than BCG and confined to the bladder.
+    • Combination chemotherapy has a role in BCG-refractory disease and an emerging role in BCG-
+      naive high-risk disease.
+
+ Concept — Chemotherapy is a recurrence tool and BCG a progression tool; device-assisted delivery and
+ doublets are attempts to push chemotherapy across that line, and only doublets are now serious
+ contenders.
+
+ DISEASE RECURRENCE AFTER BACILLE CALMETTE-GUÉRIN
+   • "BCG failure" has been poorly defined. Definitions have been refined for trial design and to reflect
+     biology (FDA workshop, international consensus).
+
+
+                                                       page 18 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                           DISEASE RECURRENCE AFTER BACILLE CALMETTE-GUÉRIN
+ DEFINITIONS OF DISEASE AFTER BACILLE CALMETTE-GUÉRIN
+
+  Category               Definition                                            Implication
+  BCG-refractory         Persistent disease despite two induction courses, Very high risk → strongly consider
+  (historical)           or induction + maintenance (usually within 6      immediate cystectomy if young and fit
+                         months), or intolerance
+  BCG-unresponsive       (1) Recurrent or persistent CIS or HG Ta/T1           Unlikely to benefit from more BCG →
+                         despite adequate BCG, or (2) initial response         strongly consider radical cystectomy;
+                         then HG recurrence within 6 months (Ta/T1) or         trials/salvage if unfit
+                         12 months (CIS) of the last dose
+  Adequate BCG           ≥5 of 6 induction + ≥2 of 3 maintenance, or ≥2        Threshold for "unresponsive"
+                         doses of a second induction (HG Ta or CIS); for
+                         T1: ≥5 of 6 induction alone
+  BCG-intolerant         Persistent disease due to inability to receive        Classified separately — not unresponsive
+                         adequate BCG (toxicity)
+  BCG-exposed            HG recurrence after BCG not meeting                   Some benefit from further BCG
+                         unresponsive criteria
+  BCG-resistant          Persistent/recurrent CIS or HG Ta at the 3-month      Reinduction or continue maintenance
+                         cystoscopy after induction                            (after resection) → complete response
+                                                                               30–50%; often prematurely labelled
+                                                                               unresponsive
+  Delayed relapse        HG recurrence outside the window (>6 months           Later relapse → may respond to BCG
+  after adequate         Ta/T1, >12 months CIS); formerly intermediate         rechallenge
+  BCG                    (12–24 months) or late (>24 months) relapse
+  Delayed relapse        Induction only / incomplete exposure (worsened        Heterogeneous
+  after inadequate       by shortages)
+  BCG
+
+   • Trap: HG T1 at the 3-month check after induction alone already qualifies as unresponsive; CIS or HG
+     Ta at 3 months does not (BCG-resistant → more BCG).
+
+ Assessment of Response
+   • Biopsy after BCG: necessity unclear, but strongly consider in high-risk CIS at 6 months. Routine biopsy
+     adds little if cystoscopy and cytology are negative; erythema + positive cytology is the combination
+     that yields positive biopsies. Urine cytology is useful; UroVysion fluorescence in situ hybridisation
+     (FISH) conversion to negative correlates with response.
+   • Extravesical vigilance: intermediate/high-risk patients with recurrence, persistence or positive cytology
+     after adequate therapy may need prostatic urethral biopsy and/or upper tract evaluation. Prostatic
+     urethral recurrence 24–30%; upper tract 0.8–25%. More bladder recurrences → more upper tract
+     tumours. BCG-unresponsive patients: urethral or upper tract recurrence in half on long-term follow-
+     up.
+
+ Management of Recurrent High-Grade Disease
+   • If initial treatment was chemotherapy → give BCG (repeat chemotherapy courses fare poorly).
+   • BCG-intolerant → salvage chemotherapy, but high failure and progression.
+   • Timely radical cystectomy for BCG-unresponsive HG NMIBC (EAU and AUA). Recurrent HG T1 after
+     induction BCG has poor prognosis without cystectomy, with high progression on further intravesical
+     therapy.
+
+
+
+
+                                                        page 19 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                         DISEASE RECURRENCE AFTER BACILLE CALMETTE-GUÉRIN
+ Bladder-Preserving Options for Bacille Calmette-Guérin–Unresponsive Disease
+ TABLE 130.6 SALVAGE THERAPIES FOR BCG-UNRESPONSIVE DISEASE
+
+                                          Nadofaragene                      Gem/
+  Outcome           Pembrolizumab*        firadenovec*     Gemcitabine      MMC           Gem/Doce      N-803 + BCG†
+  3-month CR,       41%                   53%              47%‡             68%‡ (any     NR            71% (any time)
+  CIS                                                                       time)
+  12-month CR,      19%                   24%              28%‡             48%‡ (2 yr    60% (2 yr     45%
+  CIS                                                                       38%)          43%)
+  12-month RFS, 44%                       44%              NR‡              NR‡           62% (2 yr     55%
+  papillary                                                                               51%)
+  Duration of CR    24.1 mo               9.7 mo           NR               26 mo         13.9 mo       19.2 mo
+  (responders)
+  Schedule          IV q3 weeks × 2       Intravesical     Weekly × 6,      Weekly ×      Weekly ×      Weekly × 6,
+                    years                 every 3 months   monthly × 1 yr   6, monthly    6, monthly    maintenance ×
+                                                                            × 1 yr        × 2 yr        3
+  Grade 3–4      13%                      4%               5%               8%            3.3%          11%
+  adverse events
+  Cystectomy-       63%                   71%              74%              79%           84.4%         87.5%
+  free
+
+ *FDA-approved. †Under FDA review at time of writing. ‡CIS and papillary patients grouped. CR, complete response; RFS,
+ recurrence-free survival; NR, not reported.
+
+   • Purpose: benchmarks every bladder-sparing option against the same endpoints. Pattern: early CR of
+     about 40–70% decays by half or more by 12 months — none rivals cystectomy for durability.
+   • Discrepancies with the text: pembrolizumab duration of CR 24.1 months (table) vs about 16 months
+     (text) and papillary 12-month RFS 44% (table) vs 43.5% (text) reflect different data cuts (updated vs
+     original report); Gem/Doce papillary RFS 62%/51% (table) vs 65%/52% (text) — table gives the
+     papillary subgroup, text the whole cohort.
+   • Trap: pembrolizumab has the highest grade 3–4 toxicity (immune-related); Gem/Doce the highest
+     cystectomy-free rate among approved/standard options — but no level 1 evidence.
+
+ Sequential Intravesical Chemotherapy
+   • Gemcitabine is the most active single agent (2-year recurrence-free survival about one-fifth in mixed
+     BCG-exposed/unresponsive patients).
+   • Gem/MMC: gemcitabine 1000 mg, 60–90 minutes → drain → MMC 40 mg, 60–90 minutes; durable
+     recurrence-free rate about 38%.
+   • Gem/Doce (more common): multi-institutional data — 1- and 2-year high-grade recurrence-free
+     survival about 65% and 52%, progression to muscle invasion under 4%, only about 3% could not
+     complete, 84% avoided cystectomy; CIS complete response 60% at 1 year, 43% at 2 years. Needs
+     confirmation; no level 1 or prospective evidence.
+
+ Nadofaragene Firadenovec
+   • Replication-incompetent adenovirus type 5 carrying the IFN-α2b gene, with Syn3 polyamide
+     surfactant to enhance urothelial transduction; FDA-approved for BCG-unresponsive disease.
+   • Pivotal single-arm trial: 75 mL (3 × 10¹⁰ viral particles/mL) instilled for 1 hour every 3 months; CIS
+     complete response 53% at 3 months and 24% at 12 months; papillary high-grade RFS 44% at 12
+     months; progression to muscle invasion 3%; 71% cystectomy-free; serious adverse events 2%.
+
+
+                                                      page 20 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                         DISEASE RECURRENCE AFTER BACILLE CALMETTE-GUÉRIN
+   • Moderate response, favourable toxicity and convenient schedule.
+
+ Checkpoint Inhibitors
+   • Systemic immunotherapy blocking programmed death-1 (PD-1)/programmed death-ligand 1 (PD-L1)
+     interaction, which normally inhibits T-cell activation.
+   • KEYNOTE-057 (landmark): pembrolizumab 200 mg IV every 3 weeks for up to 2 years; first systemic
+     therapy FDA-approved for NMIBC (BCG-unresponsive CIS). CIS: 41% complete response at 3 months;
+     19% at 12 months; 63% avoided cystectomy. Grade 3–4 toxicity 13% (8% serious), no treatment-
+     related deaths. Papillary cohort: 12-month RFS about 44%.
+   • Mild response; vigilance for immune-related adverse events.
+
+ Photodynamic Therapy
+   • Photosensitiser (systemic porfimer sodium [Photofrin] or intravesical HAL) → intravesical light
+     irradiation → reactive singlet oxygen and free radicals → cytotoxicity.
+   • Good response in CIS and papillary disease, but bladder contracture/irritability (about half) and skin
+     photosensitivity limited use. HAL with incoherent white light is better tolerated but yields few durable
+     responses.
+
+ Novel Agents
+  Agent                Class                            Delivery                    Key point
+  TAR-200              Continuous low-dose              Placed cystoscopically;     Uniform drug contact, minimal
+                       gemcitabine delivery system      exchanged every 3 weeks     absorption; very high early CR
+                       (pretzel-shaped)                 to week 24, then every 3    alone in small numbers;
+                                                        months × 6                  cetrelimab alone weaker; well
+                                                                                    tolerated
+  Cretostimogene       Replication-competent            Intravesical, two 6-week    About two-thirds CR at 12 months
+  (CG0070)             oncolytic adenovirus; E2F        inductions + maintenance;   with pembrolizumab; phase III
+                       promoter (tumour-selective       combined with               under way
+                       replication) + GM-CSF            pembrolizumab
+                       transgene
+  N-803 (ALT-803)      IL-15 superagonist → CD8+        Intravesical with BCG       CIS CR 45% at 12 months;
+                       T-cell and natural killer cell                               papillary about 55% disease-free;
+                       activation                                                   84% avoided cystectomy; grade
+                                                                                    3–4 events 4%
+
+   • Nadofaragene vs cretostimogene: replication-incompetent (gene delivery of IFN-α2b) vs replication-
+     competent (oncolysis + GM-CSF).
+
+ Radiation Therapy
+   • Restricted to patients who refuse or are unfit for cystectomy after intravesical failure. TUR +
+     radiotherapy: complete response 50–75%, but added benefit over TUR unclear; no effect on CIS; up
+     to half progress → largely palliative. Chemoradiation promising but not widespread; role unclear given
+     new agents.
+
+   KEY POINTS: MANAGEMENT OF HIGH-GRADE RECURRENT DISEASE
+    • Recurrence after initial intravesical therapy = high risk of recurrence or progression.
+    • After primary chemotherapy, give BCG.
+
+
+
+
+                                                        page 21 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                      SURVEILLANCE AND PREVENTION
+    • BCG-unresponsive = recurrent/persistent CIS or HG Ta/T1 after adequate BCG, or HG recurrence
+      within 6 months (Ta/T1) or 12 months (CIS) of the last dose → strongly consider radical
+      cystectomy.
+    • Unfit or declining cystectomy: doublet chemotherapy, nadofaragene firadenovec, pembrolizumab,
+      or trials.
+
+
+ Role of "Early" Cystectomy
+   • Rationale: BCG failure in CIS → about 50% progression; 3-month T1 failure after BCG → 82%
+     progression; up to 20% of CIS patients die of UC within 10 years; each T1 recurrence carries 5–10%
+     metastatic risk; residual tumour at re-resection → high rate of muscle invasion.
+   • Aggressive intravesical therapy long term: only about a quarter alive with intact bladder at 15 years;
+     about half progress; one-third die of disease.
+   • Immediate cystectomy for clinical T1: accurate staging and excellent 10-year disease-free survival
+     (92%), falling to 64% if understaged muscle-invasive disease is found; up to 15% already have
+     micrometastases; delay of even 12 weeks worsens survival.
+   • "Timely" cystectomy (Chang and Cookson) balances progression risk against morbidity; 10-year
+     survival after cystectomy for NMIBC 67–92%.
+   • Trap: patients who progress to muscle invasion under surveillance fare worse than those presenting
+     with muscle-invasive disease.
+   • Sexual- and nerve-sparing cystectomy in this lower-risk group: oncological safety unknown.
+     Neobladder availability reduces treatment delay.
+   • Also consider cystectomy when tumour cannot be controlled endoscopically: bulky, inaccessible
+     (large bladder, urethral stricture).
+   • Strongly consider radical cystectomy for: high grade with deep lamina propria invasion, LVI, diffuse
+     CIS, diverticular tumours, substantial distal ureteric or prostatic urethral involvement, BCG-
+     unresponsive, too large or inaccessible, or patient preference for definitive therapy.
+   • AUA: radical cystectomy for fit patients with persistent HG T1 on repeat resection, or T1 with CIS, LVI
+     or variant histology; and for high-risk BCG-unresponsive disease.
+   • Partial cystectomy: limited data; option in selected patients.
+
+   KEY POINTS: EARLY CYSTECTOMY
+    • Radical cystectomy is definitive with favourable outcomes; consider for:
+    • BCG-unresponsive high-risk NMIBC;
+    • High progression risk: variant histology, distal ureter and/or prostatic urethral involvement, LVI,
+      deep lamina propria invasion, persistent HG T1 at re-resection;
+    • Disease not amenable to complete resection (size, volume, access).
+
+ Concept — The case for early cystectomy rests on an asymmetry: clinical T1 is systematically understaged,
+ and disease that progresses under surveillance does worse than de novo muscle invasion — so the cost of
+ waiting falls on exactly the patients who cannot afford it.
+
+ SURVEILLANCE AND PREVENTION
+   • Among the most expensive cancers per patient, largely from long-term surveillance.
+
+
+
+
+                                                   page 22 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                               SURVEILLANCE AND PREVENTION
+   • Surveillance: cystoscopy + urine cytology, the accepted gold standard despite subjectivity. Adherence
+     to risk-stratified schedules is a quality metric, yet fewer than half follow a standard protocol.
+   • Tools: AUA/SUO stratification (Table 130.4), EAU stratification, EORTC tables. Tailor to the individual.
+
+ Cystoscopic Surveillance
+   • Office flexible cystoscopy: rapid, relatively painless; papillary tumours readily seen; CIS classically a
+     velvety red patch (unreliable). High positive predictive value, but appearance cannot reliably predict
+     stage or grade; sessile morphology and/or necrosis suggests high-grade, likely invasive disease.
+   • Office blue-light flexible cystoscopy detects more recurrences and CIS; requires pre-procedure
+     catheterisation and instillation of hexaminolevulinate (Cysview).
+   • Comfort: intraurethral anaesthetic gel is near-universal but evidence conflicting; no benefit in women
+     (straighter urethra); men watching the monitor report about half the pain.
+   • Technique: empty bladder beforehand; 60 mL syringe aspiration via irrigant port to clear clouding;
+     systematic survey mandatory. Air cystoscopy aids views in active haematuria or where sterile fluid is
+     unavailable.
+   • Most predictive for recurrence: tumour at the 3-month cystoscopy and number of tumours at initial
+     resection.
+   • Low-grade Ta clear at 3 months → annual cystoscopy is safe from 12 months.
+   • Duration: AUA — beyond 10 years case-by-case; earlier work suggested stopping at ≥5 years for low
+     risk; late high-grade recurrences temper enthusiasm for stopping.
+
+ TABLE 130.7 2016 (UPDATED 2020) AMERICAN UROLOGICAL ASSOCIATION AND SOCIETY OF UROLOGIC
+ ONCOLOGY (AUA/SUO) GUIDELINE-SUGGESTED SURVEILLANCE STRATEGIES
+
+                                                                              Cytology/
+  Risk             Tumour status          Cystoscopy                          markers           Upper tract imaging
+  Low              Solitary LG Ta         3 months, then annually from        Consider          Not necessary unless
+                                          12 months; consider stopping                          haematuria
+                                          at ≥5 years
+  Intermediate Multiple LG Ta;            Every 3–6 months for 1–2            Consider          Consider every 1–2
+               large tumour;              years, 6–12 months for next 2                         years, especially with
+               recurrence at 3            years, then annually; restart                         recurrence; image for
+               months                     clock with each recurrence                            haematuria
+  High             Any HG (including      Every 3–4 months for 2 years,       Cytology at      Annually for 2 years,
+                   CIS)                   6-monthly for 2 years, annually     same schedule; then consider
+                                          for life; restart clock with each   consider markers lengthening
+                                          recurrence
+
+ Modified from Chang SS et al., J Urol 2016 (updated 2022).
+
+   • Pattern: intensity front-loaded in years 1–2; only high risk is lifelong; cytology is mandatory only for
+     high risk.
+   • Trap: the table's "consider cessation at ≥5 years" for low risk sits alongside the text's "beyond 10 years
+     case-by-case" — the former is the table's low-risk option, the latter the general guideline statement.
+
+ Urine Cytology
+   • No urine test has sufficient accuracy to replace cystoscopy. Cytology = most studied; microscopic
+     evaluation of shed cells (Papanicolaou); subjective, needs adequate volume and cellularity.
+   • The Paris System standardised reporting to reduce inconclusive results.
+
+
+
+                                                         page 23 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                               SURVEILLANCE AND PREVENTION
+   • High specificity: a positive result implies malignancy regardless of cystoscopy or imaging; poor
+     cohesion of high-grade cells, especially CIS, raises yield.
+   • Persistently positive cytology with negative cystoscopy and upper tract imaging → substantial risk of
+     genitourinary cancer within 2 years → further workup warranted.
+   • Sensitivity is low — even for high grade in some series. Cytology = high specificity, low sensitivity →
+     an adjunct.
+
+ Tumour Markers
+   • Most markers: adequate sensitivity, poor specificity → false positives and extra testing. Cell-based or
+     protein-based. Adoption limited by lack of prospective data and study heterogeneity; one study linked
+     marker use with better survival.
+  Marker              Type/target                  Strength                                   Weakness
+  BTA stat / BTA      Complement factor            More sensitive than cytology, especially   False positives with
+  TRAK                H–related protein            low grade                                  inflammation, infection,
+                      (point-of-care /                                                        haematuria; lower
+                      quantitative)                                                           specificity
+  uCyt/               Hybrid cytology + 3          Not affected by haematuria or infection;   Complex, operator-
+  ImmunoCyt           fluorescent                  high negative predictive value (NPV) for   dependent; needs
+                      monoclonal                   atypical cytology                          cellularity; FDA-approved
+                      antibodies                                                              for follow-up only
+  Nuclear matrix      Nuclear mitotic       More sensitive than cytology; adds to             False positives: stones,
+  protein 22          apparatus protein     cystoscopy sensitivity                            infection, inflammation,
+  (NMP22) /           released at apoptosis                                                   haematuria,
+  BladderChek         (ELISA / point-of-                                                      instrumentation; less
+                      care)                                                                   specific than cytology
+  UroVysion FISH      Aneuploidy of                Highest specificity of markers; detects CIS Nondiagnostic reports
+                      chromosomes 3, 7,            far better than cytology; "anticipatory     behave as negative
+                      17 + 9p21 deletion           positive" precedes visible tumour (3–15
+                                                   months); negative predicts no recurrence
+                                                   within a year; not affected by haematuria/
+                                                   inflammation; marker of BCG response;
+                                                   clarifies atypical cytology
+  CxBladder           Gene expression              High sensitivity and NPV → may reduce      —
+                      (CxTriage, CxDetect,         surveillance cystoscopies
+                      CxMonitor)
+  Others              Xpert Bladder,               Promising                                  Need further study
+                      ADXBLADDER,
+                      Oncuria, Urodiag,
+                      VisioCyt
+
+ FIGURE 130.9 — UROVYSION FISH
+   • Abnormal enlarged cell with three copies each of chromosomes 3 (red), 7 (green) and 17 (blue) and
+     homozygous 9p21 deletion (yellow).
+   • Marker choice depends on the endpoint: to select patients for operating-room biopsy → high
+     specificity; to lengthen surveillance intervals → high sensitivity (especially for high grade). Accuracy
+     rises with stage and grade.
+   • AUA: do not use markers to replace cytology in surveillance; consider them to assess response to
+     intravesical therapy and to adjudicate atypical or equivocal cytology.
+
+
+
+                                                              page 24 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                                       SURVEILLANCE AND PREVENTION
+   • Upper tract markers: little data. Selective upper tract cytology increases yield but is falsely positive in
+     the presence of a bladder tumour → not recommended for most.
+
+ Extravesical Surveillance
+ Upper Tract
+   • Upper tract UC after NMIBC is uncommon (registry about 0.8%), rising with risk — low under 1%,
+     high risk about 10%, and higher still in very high-risk or BCG-treated populations (13–18%).
+     Surveillance is worthwhile mainly with haematuria or high-grade tumour, especially near the ureteric
+     orifice. Yield of routine upper tract imaging is very low.
+   • AUA: no routine upper tract imaging in asymptomatic low-risk patients; consider every 1–2 years for
+     intermediate and high risk (little supporting data).
+   • Imaging: multiphasic CT urography preferred; magnetic resonance urography and renal
+     ultrasonography in select patients; retrograde pyelography for contrast allergy or renal insufficiency,
+     often at TURBT.
+   • Upper tract disease, though rare, carries 40–70% mortality. In BCG-treated high-risk disease, risk is
+     greatest in the first 5 years (median detection about 5 years) but persists ≥15 years.
+
+ Prostatic Urethra
+   • Secondary prostatic urethral/ductal involvement in high-risk NMIBC: 10–15% at 5 years; 20–40% at
+     10 years.
+   • Refractory disease → prostatic fossa recurrence in about one-third, nearly half of these fatal.
+   • Any high-grade prostatic urethral involvement = high risk. Risk factors: CIS, multifocality, bladder
+     neck/trigone tumours.
+   • Ductal high-grade involvement → radical cystoprostatectomy; consider urethrectomy, especially with
+     tumour at or near the margin.
+   • Individualise surveillance to bladder and extravesical risk.
+
+ Prevention
+   • Smoking cessation counselling is key, though its impact on recurrence is uncertain; increased fluids
+     and a low-fat diet are recommended. (Stated in the key points only; no body text in the chapter.)
+
+   KEY POINTS: SURVEILLANCE AND PREVENTION
+    • Cystoscopic surveillance is required, individualised to the risk of the most recently resected
+      tumour.
+    • Table 130.7 gives reasonable protocols.
+    • Markers improve on cytology's sensitivity, but most are less specific.
+    • Smoking cessation counselling is key; impact on recurrence uncertain.
+    • Increased fluids, smoking cessation and a low-fat diet are recommended.
+
+ Concept — Surveillance intensity mirrors the recurrence–progression split: low risk needs to be spared
+ tests, high risk needs lifelong vigilance extending beyond the bladder, and every marker is judged by
+ whether the question is "who needs a biopsy" (specificity) or "who can wait" (sensitivity).
+
+
+
+
+                                                   page 25 of 26
+Chapter 130 — Non–Muscle-Invasive Bladder Cancer                          PATIENT-FOCUSED OUTCOMES AND ADVOCACY
+
+ PATIENT-FOCUSED OUTCOMES AND ADVOCACY
+   • Burden: lifelong endoscopy and repeated instillations → reduced quality of life and financial toxicity,
+     plus anxiety about recurrence and progression.
+   • CISTO trial (Comparison of Intravesical Therapy and Surgery as Treatment Options): large pragmatic
+     observational study of recurrent high-grade NMIBC after BCG failure — quality of life, survival,
+     progression, preferences and caregiver burden, using validated patient-reported outcomes.
+   • UGN-102 (sustained-release MMC reverse thermal gel): framed as more patient-centred, avoiding the
+     urinary, sexual, physical and mental-health decline of repeated TURBT.
+   • Bladder Cancer Advocacy Network (BCAN): patient and caregiver support, education, research
+     sponsorship, advocacy.
+
+
+
+
+                                                   page 26 of 26
+
