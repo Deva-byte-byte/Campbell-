@@ -1,0 +1,574 @@
+Chapter 115 — Electrical Stimulation and Neuromodulation                         HISTORY OF ELECTRICAL STIMULATION
+
+Chapter 115 — Electrical Stimulation and
+Neuromodulation in Storage and Emptying Failure
+HISTORY OF ELECTRICAL STIMULATION
+ • Electrical stimulation of the lower urinary tract (LUT) innervation is successful and multipotent; the idea
+   of evoking a specific organ response through the nervous system is old and not confined to urology.
+ • Scribonius Largus (CE 46), Compositiones medicae: live torpedo fish (also ray and eel) for headache and
+   gout. For podagra the patient stood on a wave-washed shore on a black torpedo fish until numb to the
+   knee — relieving the present attack and preventing recurrence.
+ • Battery (18th century) → new medical uses of electricity; transistors (1950s) → first implanted
+   pacemakers; cardiac success → rapid spread to urology.
+Muscle-based era
+• Aim: contract the bladder (for poor contractility) or the sphincter (for stress incontinence).
+ • Sequence: direct detrusor stimulation (Bradley, 1964) → first urethral sphincter stimulator (Caldwell, 1965)
+   → stimulation of sacral cord nuclei in the conus medullaris to induce voiding (Nashold, 1972) → surface,
+   deep and cuff electrodes (Jonas, 1976).
+ • Canine work failed because bladder and sphincter were activated simultaneously.
+ • Human trials followed in paraplegia and spina bifida (impaired sensation made stimulation tolerable), yet
+   direct stimulation proved painful and only locally effective.
+ • Indirect stimulation via afferent nerves needed less current and treated the whole end organ — the start
+   of practical clinical neurostimulation.
+Brindley's sacral anterior root stimulator
+ • Sacral anterior root stimulator (SARS), Giles Brindley: stimulates the anterior sacral roots → bladder
+   contraction (voiding), defecation and penile erection.
+ • Anterior stimulation cannot reduce detrusor overactivity (DO) → combined with sacral dorsal rhizotomy
+   of the same roots; over 25 years this markedly improved quality of life (QoL) in paraplegic patients.
+   Further development by Sauerwein (Bad Wildungen) and Sarrias (Barcelona).
+Sacral neuromodulation
+ • About 1985: sacral neuromodulation (SNM), or sacral nerve stimulation (SNS) — sacral root stimulation
+   could decrease rather than increase bladder activity. A breakthrough for overactive bladder (OAB), which
+   previously had no effective treatment. Pioneers: Emil Tanagho and Rick Schmidt; priority of discovery
+   unclear.
+ • Functional magnetic resonance imaging (fMRI) showed the mechanism is indirect: sacral roots are mixed
+   → current excites afferents → central nervous system (CNS) → efferents to pelvic organs. The whole
+   storage–micturition system is influenced, not the organ directly — hence "neuromodulation".
+Tibial and newer targets
+ • Percutaneous tibial nerve stimulation (PTNS), about 2000: derived from acupuncture point SP6 at the
+   ankle; McGuire (1983) first stimulated the posterior tibial nerve for bladder control; widespread use in the
+   2000s.
+ • PTNS is simpler and cheaper than SNM; with no implant and discontinuous stimulation, a sham-
+   controlled net effect could be convincingly shown.
+
+
+
+
+                                                           page 1 of 12
+Chapter 115 — Electrical Stimulation and Neuromodulation                  PATHOPHYSIOLOGY OF STORAGE AND VOIDING DISORDERS
+ • Newer targets: dorsal genital nerve, pudendal nerve, intravaginal, transcutaneous tibial nerve stimulation
+   (TTNS) by patch; small rechargeable devices entering practice.
+Concept — Direct organ stimulation failed on pain and locality; every durable technique since (SARS with
+rhizotomy aside) works indirectly through afferents, which is why the field is neuromodulation rather than
+muscle stimulation.
+
+PATHOPHYSIOLOGY OF STORAGE AND VOIDING DISORDERS
+ • Exclude anatomical causes before any electrical therapy: external urethral sphincter (EUS) weakness,
+   poorly compliant detrusor, bladder stones, bladder cancer, vesicovaginal fistula.
+ • How electrical therapy helps functional disorders is unknown; afferent modulation of central pathways
+   probably dominates.
+
+Pathophysiology of Storage Disorders
+ • Storage failure arises from the bladder wall (urothelium, detrusor), the outlet, or both. With known
+   neurological disease → neurogenic lower urinary tract dysfunction (LUTD). Electrical stimulation is mainly
+   approved for non-neurogenic disorders.
+ • Continence = synergic antagonism of bladder and outlet, EUS the key structure. Filling: bladder relaxed,
+   EUS tonically contracted — involuntary, cannot be voluntarily interrupted.
+ • Afferents: bladder filling via Aδ fibres in the pelvic and hypogastric nerves (from urothelium,
+   suburothelium, detrusor); bladder neck and urethra via pudendal and hypogastric nerves → lumbosacral
+   cord (lateral dorsal horn, intermediate zone) → mostly intraspinal proprioceptive connections, some
+   ascending to pons and midbrain; the spinothalamic tract keeps the sensory cortex informed of fullness.
+ • OAB: urge cannot be deferred but can be suppressed — pelvic floor physiotherapy, drugs, botulinum
+   toxin, electrical stimulation.
+ • Sympathetic outflow fires only from ≈60% of capacity → wall relaxation and smooth-muscle closure of
+   the bladder neck. Sympatholytics or sympathectomy barely affect storage → the sympathetic system is
+   not the main continence mechanism in health.
+
+Pathophysiology of Voiding Disorders
+ • Exclude anatomical obstruction first: urethral stricture or stone, benign prostatic enlargement, pelvic
+   organ prolapse.
+ • Detrusor cause: underactive detrusor = hypocontractility plus hyposensitivity. Outlet cause: anatomical
+   obstruction, or neurogenic detrusor–external sphincter dyssynergia (DESD).
+ • Electrical stimulation cannot restore muscle volume or correct anatomical obstruction.
+ • Normal voiding sequence: EUS relaxes → 1–2 s later detrusor contracts. Without EUS relaxation, voiding is
+   impossible.
+ • Circuit sequence from the pontine micturition centre (PMC): long axons → parasympathetic preganglionic
+   motoneurons (sacral intermediolateral column) → postganglionic neurons in bladder wall → delayed
+   smooth-muscle detrusor contraction; collaterals → inhibitory γ-aminobutyric acid (GABA)/glycine
+   interneurons (sacral intermediomedial column) → EUS motoneurons → immediate striated EUS
+   relaxation. Both arms fire simultaneously at sacral level.
+ • Forebrain operates the PMC as a switch: forebrain lesions lose the timing of micturition but the reflex
+   remains intact. Positron emission tomography (PET) and fMRI confirm the PMC in humans. Afferents →
+   thalamus → cingulate and insular cortex → prefrontal cortex decides whether voiding is safe.
+
+
+
+
+                                                           page 2 of 12
+                                                                          WORKING MECHANISM OF ELECTRICAL STIMULATION OF THE
+Chapter 115 — Electrical Stimulation and Neuromodulation                                                LOWER URINARY TRACT
+ • Kegel exercises add voluntary motor-cortex contraction on top of tonic involuntary contraction; on
+   stopping, tone returns to baseline — so physiotherapy is usually ineffective in retention.
+
+PONTINE STORAGE CENTRE VERSUS PONTINE MICTURITION CENTRE
+               Pontine storage centre (PSC)        Pontine micturition centre (PMC)
+ Alias         L-region                            M-region
+ Site          Lateral pontine tegmentum           Pontine tegmentum, medial to PSC
+ Output        Tonic involuntary EUS               EUS relaxation (indirect, inhibitory interneurons) then detrusor
+               contraction                         contraction (direct)
+ Lesion        Bilateral ablation → cannot         Final common pathway: no switch-on → no voiding
+ (cat)         store
+
+Concept — Storage is tonic and involuntary, voiding is a switched event gated by EUS relaxation; electrical
+therapy can act only on this neural control, never on anatomy or muscle bulk, which is why anatomical causes
+are excluded first.
+
+WORKING MECHANISM OF ELECTRICAL STIMULATION OF THE LOWER URINARY
+TRACT
+ • Electrical therapies act not only on the LUT and spinal cord but on supraspinal centres, which in turn
+   modulate the LUT.
+
+Storage Disorders
+ • No mechanism is confirmed. Theories concern SNS but probably apply to all electrical therapies.
+ • SNS differs in scale: it recruits ≥1000 times more axons, continuously, versus a small or superficial nerve
+   stimulated intermittently; the implant also gives more flexible parameters.
+ • A common central mode may extend to faecal incontinence, chronic pain and deep brain stimulation.
+ • Storage disorders are attributed to loss of inhibitory control acquired during postnatal maturation of the
+   voiding reflex; stimulation may restore it.
+
+THEORIES OF THE MECHANISM OF SACRAL NERVE STIMULATION (FIGS. 115.1–115.4)
+ Theory         Proposed pathway                                 Status
+ Early          Efferent motor nerves → pelvic muscle            Less plausible: benefit needs no pelvic floor contraction;
+ (efferent)     contraction → detrusor relaxation via            acute SNS leaves urodynamics unchanged; pure sensory
+                intramural postganglionic cells                  nerves (dorsal clitoral, dorsal penile) give similar effect
+ Spinal cord    Afferents inhibit sacral interneurons and        Superseded
+ (2005)         preganglionic parasympathetic
+                motoneurons
+ Spinal cord– SNS inhibits PMC activation → fewer OAB            Alternative to above
+ PMC          contractions
+ Forebrain      Afferents → forebrain areas of awareness         Current view; PET shows regional cerebral blood-flow
+ (current)      and alertness → less PMC firing                  change in sensory and attention areas; chronic SNS →
+                                                                 neuroplasticity
+
+Voiding Disorders
+ • Paradox: SNS treats both overactive and underactive bladder.
+ • Functional voiding disorders lack effective filling sensation and cannot switch on the PMC. SNS raises
+   awareness of filling and of pelvic floor tone → PMC switched on → EUS relaxes.
+
+
+
+                                                           page 3 of 12
+Chapter 115 — Electrical Stimulation and Neuromodulation                        INTRAVAGINAL ELECTRIC STIMULATION
+ • In underactive bladder (UAB) SNS works mainly by striated sphincter relaxation, much less by detrusor
+   contraction.
+Concept — One afferent → forebrain mechanism serves opposite disorders: in OAB heightened control damps
+PMC firing; in UAB heightened awareness lets the PMC switch on.
+
+INTRAVAGINAL ELECTRIC STIMULATION
+ • Alternative conservative therapy for stress urinary incontinence (SUI): non-implantable vaginal electrodes
+   passively activate the pelvic floor directly, perhaps also indirectly via the pudendal nerve; given by
+   physiotherapists or at home.
+ • Systematic reviews: minimally invasive and safe, but evidence too low in quality to judge effectiveness;
+   one review found better pad use and subjective outcome. All call for higher-quality trials.
+
+TRANSCUTANEOUS SACRAL DERMATOME STIMULATION
+ • Transcutaneous sacral dermatome stimulation (TSDS), established in pain management: current passes
+   skin receptors → posterior root ganglion → spinal centres via Aβ, C and Aδ fibres; applied to suppress DO
+   in OAB.
+ • Randomised trial, bilateral S3 dermatome electrodes, refractory idiopathic DO (IDO) and neurogenic DO
+   (NDO): higher cystometric capacity, later first involuntary contraction (significant in IDO only), smaller
+   neurogenic contractions.
+ • Multiple sclerosis (MS) with NDO, conditional stimulation (triggered when detrusor pressure exceeded
+   10 cmH₂O): dorsal genital nerve stimulation suppressed contractions; sacral dermatome stimulation failed
+   in every patient.
+ • Children with OAB or dysfunctional voiding: daily S3 stimulation for 3 months (20 min, 10 Hz, 350 μs) →
+   less incontinence, fewer urinary tract infections (UTIs), lower post-void residual (PVR).
+ • Synthesis: can raise capacity and perhaps lower maximal detrusor pressure (renal protection), but is not
+   useful for conditional stimulation; studies are few and small.
+Concept — Dermatome stimulation modulates chronically but cannot abort a contraction acutely; that gap
+is what the purely sensory dorsal genital nerve fills.
+
+PUDENDAL NERVE STIMULATION
+ • Anatomy: S2–S4 → over the ischial spine → pudendal (Alcock's) canal; gives the inferior rectal nerve
+   proximally, then the perineal nerve and dorsal genital nerve distally.
+ • Low-frequency afferent stimulation inhibits OAB; dorsal genital stimulation in complete thoracic or
+   cervical spinal cord injury (SCI) strongly inhibits the micturition reflex.
+ • Technique: percutaneous via the pudendal canal with an off-label tined quadripolar lead; posterior
+   approach preferred — perineal approach carries more lead infection.
+ • Indications: IDO, NDO, chronic pelvic pain.
+ • Versus SNM (blinded crossover, OAB and non-obstructive urinary retention [NOUR]): pudendal gave
+   greater symptom reduction, and most patients chose it for the permanent implant. Also effective after
+   failed SNM → a salvage option.
+ • Not approved by the US Food and Drug Administration (FDA) for chronic stimulation in voiding
+   dysfunction or pelvic pain.
+
+
+
+
+                                                           page 4 of 12
+Chapter 115 — Electrical Stimulation and Neuromodulation                                   DORSAL GENITAL NERVE STIMULATION
+
+DORSAL GENITAL NERVE STIMULATION
+ • Dorsal genital nerve stimulation (DGNS) — dorsal clitoral or dorsal penile nerve, needle electrodes — is
+   experimental for OAB from IDO and NDO; not in routine practice.
+ • Theoretical advantages: easily reached by needle (like the tibial nerve); a direct pudendal branch, so a
+   short route to the sacral LUT control; purely sensory, so theoretically best at carrying the stimulus
+   afferently to the brain.
+ • Correct stimulation confirmed by the genitoanal reflex.
+ • Evidence: acute DO suppression in SCI; short-term capacity increase in NDO, consistent across small
+   studies (meta-analysis); in women with OAB-wet, 7 days of continuous stimulation reduced incontinence
+   and severe urgency; on-demand stimulation (pilot) aims to avoid habituation and save energy.
+ • Drawbacks: hard to keep electrodes in contact with the small branches; the stimulation site (dorsal penile
+   base, clitoral area) is problematic for patients. Evidence is mostly acute and small.
+Concept — If neuromodulation works through afferents, the purest afferent target should be the most
+efficient — DGNS is the test of that logic, limited by fixation and site rather than by physiology.
+
+TRANSCUTANEOUS TIBIAL NERVE STIMULATION
+ • PTNS: introduced 1999, FDA approval 2000 (office-based OAB treatment), National Institute for Health
+   and Clinical Excellence (NICE) approval 2006. Standard: 12 sessions × 30 min, 1–3 times a week, plus
+   maintenance → heavy burden on patients and clinics.
+ • TTNS (table below) cuts travel and cost, but the skin acts as a capacitor: higher, often painful amplitude is
+   needed, and lowering it for comfort gives suboptimal stimulation.
+ • Systematic review (randomised controlled trials [RCTs] and cohorts; idiopathic and neurogenic OAB — MS,
+   Parkinson disease, stroke, SCI): heterogeneous, underpowered, non-standardised dosing (4–12 weeks; 20–
+   30-min sessions; daily to weekly). Meta-analysis: clinically and statistically significant fall in the
+   International Consultation on Incontinence Questionnaire–Urinary Incontinence Short Form (ICIQ-UI-SF)
+   in older adults; no adverse events. Verdict: potentially effective in idiopathic OAB, safe in neurogenic OAB;
+   no head-to-head PTNS data.
+ • Later review of RCTs: TTNS as effective as pelvic floor muscle training (PFMT) and PTNS, less effective
+   than antimuscarinics; low cost and self-management make it an attractive alternative. Place in the OAB
+   algorithm unsettled.
+
+PERCUTANEOUS VERSUS TRANSCUTANEOUS TIBIAL NERVE STIMULATION
+              PTNS                                                        TTNS
+ Electrode    34-gauge needle + surface ground pad                        Surface electrodes only
+ Setting      Outpatient clinic, 12 weekly visits, then maintenance       Home, self-administered, patient-set schedule
+ Efficacy     More effective (bypasses skin)                              Less effective: amplitude limited by pain
+
+Concept — Tibial therapy trades efficacy against burden: the needle beats the skin, but the clinic schedule
+drives both TTNS and the implantable devices.
+
+PERCUTANEOUS TIBIAL NERVE STIMULATION
+ • SNS is the most documented neuromodulation for OAB; PTNS is the extensively documented alternative,
+   cheaper overall, hence wider reach.
+
+
+
+
+                                                           page 5 of 12
+Chapter 115 — Electrical Stimulation and Neuromodulation                              PERCUTANEOUS TIBIAL NERVE STIMULATION
+ • Anatomy (Fig. 115.9): LUT innervation L2–S4; sciatic nerve L4–S3 → posterior tibial nerve, whose fibres
+   arise mainly from S2–S3.
+ • Proposed mechanism: "crosstalk" between sympathetic and parasympathetic postganglionic terminals at
+   neuroeffector junctions alters efferent signalling to the bladder; peripheral nerves (pudendal, dorsal
+   genital, tibial) can thus modulate bladder behaviour.
+ • Animal model (cat, intravesical acetic acid = OAB model): naloxone blocked PTNS inhibition of the OAB-
+   model DO but not of normal reflex activity → opioid receptors involved.
+ • Somatosensory evoked potentials (SEPs): after PTNS versus sham, long-latency SEP (P80, P100) amplitude
+   changed → lasting change in synaptic efficiency (long-term potentiation or depression) → long-term
+   effect of PTNS and SNS may reflect cortical network reorganisation.
+
+AFFERENT FIBRES: OVERACTIVE VERSUS NORMAL REFLEX BLADDER ACTIVITY
+                                                           OAB-type reflex activity         Normal reflex activity
+ Afferent fibre                                            Nociceptive C fibres             Aδ fibres
+ PTNS inhibition blocked by naloxone?                      Yes (opioid-mediated)            No
+
+HISTORY OF PERIPHERAL NEUROSTIMULATION
+ • Derived from acupuncture; Wilhelmus Ten Rhyne (1683), Dutch physician, described it in Europe
+   (Dissertatio de Arthritide … De Acupunctura).
+ • SP-6 (SanYin Jiao): medial lower leg ≈6–8 cm above the medial malleolus, near the medial tibial crest; site
+   and target organs closely match PTNS.
+ • Electroacupuncture at 2–15 Hz, 10–20 mA resembles PTNS; difference: PTNS uses an anatomical
+   substrate, acupuncture "energetic pathways".
+ • McGuire (1983): first tibial stimulation (transcutaneous) in neurogenic OAB, with most improving; Stoller
+   then developed PTNS in pig-tailed monkeys and humans.
+Technique
+ • Sequence: supine, medial malleolus upward → 34-gauge stainless-steel needle ≈3–4 cm (three
+   fingerbreadths) cephalad to the medial malleolus, between posterior tibial margin and soleus, at 60–90°
+   → tip near, not touching, the nerve → grounding pad on the same leg → 9 V stimulator, 0–10 mA, pulse
+   width 200 μs, 20 Hz → confirm position → stimulate at tolerable intensity → 12 sessions × 30 min, 1–3
+   per week (Fig. 115.10).
+ • Confirmation pair: efferent (motor) = great-toe flexion or fanning; afferent (sensory) = radiating tickling
+   of the sole.
+
+CLINICAL RESULTS
+ • Mostly OAB. Subjective success (QoL questionnaires) = improved QoL or willingness to continue; objective
+   success (frequency–volume chart [FVC]) = ≥50% fall in urgency or urgency urinary incontinence (UUI) and
+   ≥25% fall in day or night frequency.
+ • Urodynamics conflict: acute DO suppression failed in neurological patients and was rare in others, though
+   one series reported elimination in most; cystometric capacity rose consistently.
+ • SUmiT trial (landmark): multicentre double-blind RCT, 12 weeks PTNS vs validated sham, n = 220 — the
+   first validated sham. Primary endpoint: 7-point self-reported global response assessment (GRA), success
+   = moderate or marked improvement: 55% vs 21%. FVC improved in frequency, nocturia, moderate–severe
+   urgency voids and UUI. A second sham-controlled RCT agreed.
+
+
+
+
+                                                           page 6 of 12
+Chapter 115 — Electrical Stimulation and Neuromodulation                               PERCUTANEOUS TIBIAL NERVE STIMULATION
+ • No standard regimen; most objective data support 12 weeks; shorter regimens may work but be less
+   durable.
+ • Relapse is likely → maintenance or tapering keeps the brain "remembering" LUT control. Maintenance
+   sustained results at 2 years.
+ • SUmiT extension: 12-week responders on a 14-week taper then personal schedule (median 1.1
+   treatments per month): at 3 years 77% relapse-free; voids 12.0 → 8.7 per day; UUI 3.3 → 0.3 per day; QoL
+   sustained.
+ • Children: when bladder training, pelvic floor therapy and antimuscarinics fail, PTNS is well tolerated and
+   improves most; pain scores low.
+
+PERCUTANEOUS TIBIAL NERVE STIMULATION COMPARED TO OTHER TREATMENTS
+ • PTNS vs tolterodine (two RCTs, non-neurogenic OAB): both improved at 3 months, no difference in QoL,
+   urgency or UUI; fewer side effects with PTNS. Other antimuscarinics similar.
+ • Cochrane review (peripheral neuromodulation vs antimuscarinics): subjective improvement favoured
+   stimulation, significant only for PTNS, without significant differences in frequency, nocturia, UUI or QoL.
+   Conclusion: antimuscarinics remain established; stimulation may be better in antimuscarinic-refractory
+   patients.
+
+PROGNOSTIC FACTORS FOR PERCUTANEOUS TIBIAL NERVE STIMULATION
+ • Few data. Better outcome in patients without DO on urodynamics.
+ • Most clinical parameters non-predictive; only low Short Form-36 (SF-36) Mental Component Summary
+   predicted failure — worse disease-specific QoL despite equal severity → mental-health questionnaires
+   may aid selection.
+
+IMPLANTABLE TIBIAL NERVE STIMULATORS
+ • Rationale: tapering needs repeated visits (logistics, travel burden), on-demand PTNS is impossible, and
+   surface electrodes are less effective because of skin impedance.
+ • Not all PTNS responders respond to the implant — as with sacral stimulation.
+
+IMPLANTABLE TIBIAL NERVE STIMULATORS
+ Device                 Design and placement                   Power              Outcome and safety
+ Urgent-SQ (first;      Subcutaneous, ≈5 cm above              External           Half to most met ≥50% reduction in
+ 2006 feasibility;      medial malleolus, nerve not            stimulator         incontinence episodes or voids; AEs: UTI,
+ Fig. 115.11)           exposed; activated                                        transient walking difficulty, radiating
+                        intraoperatively to confirm                               sensations; no infection, erosion or
+                        position                                                  dislocation. Safe at 9 and 18 years, but
+                                                                                  most stopped use (lost efficacy, defective
+                                                                                  external stimulator)
+ BlueWind (Fig.         Placed as Urgent-SQ; 0.6 g, 25 ×       External control   Improved frequency and UUI, some
+ 115.12)                3.4 mm                                 unit               patients dry; success sustained at 3 years;
+                                                                                  AEs: implant-site pain, suspected
+                                                                                  infection, wound complications
+ eCoin                  Nickel-sized, 23.3 × 2.4 mm; in-    Primary (non-         Symptom relief in most, some fully
+ (investigational)      office, local anaesthesia; template rechargeable)         continent; battery replacement feasible
+                        from medial malleolus; 3-cm         battery               with sustained efficacy
+                        vertical incision 5–10 mm
+                        cephalad to target; suprafascial
+                        pocket over nerve
+
+
+
+
+                                                           page 7 of 12
+Chapter 115 — Electrical Stimulation and Neuromodulation                                             SACRAL NERVE STIMULATION
+
+ Device                 Design and placement                    Power             Outcome and safety
+ Protect-PNS            Percutaneous; retrograde from           Wireless energy First small series: UUI fell, no
+ (investigational)      medial malleolus; miniature                             complications
+                        pulse generator + quadripolar
+                        array
+
+ • Pattern: all sit over the tibial nerve just above the medial malleolus; they differ in power source (external,
+   primary battery, wireless). Implants are well tolerated and safe without long-term complications; the trap
+   is assuming PTNS response predicts implant response.
+
+CONCLUSIONS
+ • PTNS modulates storage and voiding: subjective improvement ≈60%, FVC improvement 47–56%, placebo
+   effect ≈21% (possibly higher in children), 53–77% still improved at 2–3 years with maintenance.
+ • Minimally invasive, inexpensive, but time-consuming → implants under investigation.
+
+ KEY POINTS: PERCUTANEOUS TIBIAL NERVE STIMULATION
+  • PTNS resembles Chinese acupuncture.
+  • First urological tibial nerve stimulation report: 1983.
+  • SUmiT trial: PTNS superior to sham.
+  • First feasibility report of a tibial implant: 2006.
+  • Modern tibial implants are nearing clinical introduction.
+
+Concept — PTNS is proven against sham but not durable without maintenance; every later development —
+tapering, TTNS, implants — is an answer to the maintenance burden, not to efficacy.
+
+SACRAL NERVE STIMULATION
+ • SNS is an effective third-line therapy for OAB.
+
+CURRENT INDICATIONS AND OUTCOMES FOR SACRAL NERVE STIMULATION
+GUIDELINE POSITION OF SACRAL NERVE STIMULATION IN IDIOPATHIC OVERACTIVE BLADDER
+            American Urological Association / Society of Urodynamics, Female Pelvic              European Association of
+ Line       Medicine and Urogenital Reconstruction (AUA/SUFU)                                    Urology (EAU)
+ First      Lifestyle intervention and pelvic floor exercises
+ Second Pharmacotherapy
+ Third      SNS when first and second line fail — positions identical
+
+SACRAL NEUROSTIMULATOR MILESTONES
+ Year     Event
+ 1994 InterStim (Medtronic), first non-rechargeable sacral neurostimulator: Conformité Européenne (CE) mark for
+      functional pelvic, LUT and bowel disorders
+ 1997 FDA approval for UUI
+ 1999 FDA approval for urgency–frequency and NOUR
+ 2004 First rechargeable battery for spinal cord stimulation (pain)
+ 2006 InterStim II approved (non-rechargeable, voltage-driven)
+
+
+
+
+                                                           page 8 of 12
+Chapter 115 — Electrical Stimulation and Neuromodulation                                              SACRAL NERVE STIMULATION
+
+ Year     Event
+ 2019 First rechargeable bladder neurostimulator (Axonics); FDA approval of Axonics and Medtronic rechargeable
+      devices
+ 2021 Both companies introduce non-rechargeable devices lasting ≥10 years
+
+ • Two US manufacturers (Axonics, Medtronic), both offering MRI-compatible rechargeable and non-
+   rechargeable systems of comparable effectiveness; they differ in user interface and recharging frequency.
+
+OVERACTIVE BLADDER WITH OR WITHOUT URGENCY URINARY INCONTINENCE
+ • International Continence Society (ICS): OAB with incontinence = involuntary leakage preceded or
+   accompanied by urgency (sudden compelling desire to void, difficult to defer).
+ • Upper limit of normal = 7 voids per 24 h on 1.5–2 L intake; OAB without incontinence = ≥8 voids per 24 h
+   with urgency. The definition does not exclude excess fluid intake → frequency–volume diary before any
+   OAB treatment.
+ • Exclude: UTI, underactive bladder with significant PVR, calculi, bladder cancer.
+ • Urodynamic DO may or may not be present; DO does not predict SNS success.
+ • Common success definition: ≥50% symptom improvement during a 1–2-week test; definitions vary
+   across studies.
+
+RANDOMISED TRIALS OF SACRAL NERVE STIMULATION IN OVERACTIVE BLADDER
+ Trial            Comparator and population        Endpoint               Verdict
+ InSite           Standard medical treatment       Success at 6           SNS 61% vs SMT 42%
+                  (SMT); n = 147, mild–            months, intention
+                  moderate OAB                     to treat
+ Earlier RCT      SMT                              Voiding and            SNS significantly better; many fully continent
+                                                   incontinence at 6
+                                                   months
+ ROSETTA    OnabotulinumtoxinA (BTX)               Change in daily        BTX −3.9 vs SNS −3.3 — BTX greater
+ (6 months) 200 U; n = 381 women,                  UUI episodes
+            refractory UUI
+ ROSETTA          As above                         UUI episodes;          Equal, sustained UUI reduction; satisfaction higher
+ (2 years)                                         satisfaction;          with BTX; recurrent UTI 24% vs 10% (P < 0.01); 6%
+                                                   complications          needed clean intermittent catheterisation (CIC)
+                                                                          after second injection; SNS revision 3%, removal
+                                                                          9%
+
+ • ROSETTA's 200 U is twice the registered idiopathic OAB dose: off-label before registration, now not used
+   because of more retention and UTI. Registered dose = 100 U, superior to placebo at 4 months.
+ • ROSETTA's lower CIC and SNS revision and removal rates were attributed to standardised lead placement
+   and strict response criteria.
+ • Prospective cohorts at ≥5 years: about half keep fewer incontinence episodes and less pad use.
+
+NONOBSTRUCTIVE URINARY RETENTION
+ • NOUR: non-painful bladder with chronically high PVR needing regular drainage; accepted PVR debated,
+   often ≥100 mL. UAB is usually also hyposensitive with capacity >500 mL.
+ • Measured PVR is the only objective marker of success or failure.
+ • RCT, SNS vs continued CIC: at 6 months most implanted patients had stopped catheterising, none of the
+   controls. Men respond similarly; younger men respond better.
+
+
+
+                                                           page 9 of 12
+Chapter 115 — Electrical Stimulation and Neuromodulation                                            SACRAL NERVE STIMULATION
+ • Predictors after two-stage SNS: women with a psychiatric history (including post-traumatic stress
+   disorder) → higher odds; men with previous transurethral resection of the prostate or bladder neck
+   incision → higher odds; increasing age lowers odds in both sexes.
+
+OTHER INDICATIONS
+ • Bladder pain syndrome (BPS): not FDA approved. Offered selectively, especially with coexisting OAB,
+   because OAB symptoms give an objective test-phase measure where pain is subjective and analgesic-
+   confounded. Small, mostly retrospective data: voided volume rose, pain fell.
+ • Neurogenic bladder: not approved, evidence low. A sham-controlled RCT in first-phase responders
+   favoured SNS-on over SNS-off, but the population was heterogeneous. Systematic review (mostly MS and
+   SCI, mixed OAB and retention): high pooled success, comparable to non-neurogenic.
+
+SACRAL NEUROMODULATION: FDA-APPROVED VERSUS NOT APPROVED
+ FDA approved                                                Not FDA approved
+ UUI                                                         Bladder pain syndrome
+ Urgency–frequency                                           Pelvic pain syndrome
+ Chronic NOUR                                                Neurogenic bladder
+
+Sacral Nerve Stimulation Patient Selection and Implantation Procedure
+ • Implant = quadripolar lead + neurostimulator; success depends mainly on patient selection.
+ • Selected OAB patients could theoretically be implanted directly with ≥90% success, but practice demands
+   a test trial for all — office percutaneous (peripheral) nerve evaluation (PNE) or theatre-based two-stage
+   implant.
+ • Pass criteria: OAB — ≥50% improvement in ≥1 parameter (frequency, voided volume, incontinence
+   episodes); retention — catheterisation frequency reduced ≥50%, ideally none, fewer UTIs.
+ • Assessment compares a 3–5-day baseline bladder diary with a diary kept during the test.
+Percutaneous Nerve Evaluation Test
+ • Sequence: local anaesthesia → insulated needle into the S3 foramen by bony landmarks (coccyx, iliac
+   crest, lumbosacral joint) → fluoroscopy optional (anatomy does not always match function) → test
+   stimulation: sensory responses first, motor at higher amplitude → temporary lead through needle, needle
+   withdrawn → lead taped to skin, external receiver on belt, wireless external stimulator → mild non-painful
+   perineal sensation → 5–7 days with bladder diary.
+ • Landmarks (Fig. 115.14): S3 lies ≈9 cm from the coccyx tip and 11 cm from the anal verge, then 1–2 cm
+   lateral; fluoroscopic "cross-hair" — midline plus lower sacroiliac joints.
+ • Positive if ≥1 diary parameter improves ≥50%, then full SNS (lead + permanent stimulator) in one session.
+   Positive in ≈60% of OAB in the authors' unit; not used for NOUR (higher failure).
+
+SACRAL ROOT RESPONSES DURING TEST STIMULATION
+ Root         Perineal / anal                                                       Foot and leg
+ S2           —                                                                     Ipsilateral calf and foot external
+                                                                                    rotation
+ S3           Anal "bellows", perineal and genital sensation (tapping or            Great-toe flexion
+ (target)     pulling)
+ S4           Perineal / anal response                                              No foot or toe response
+
+
+
+
+                                                           page 10 of 12
+Chapter 115 — Electrical Stimulation and Neuromodulation                                               SACRAL NERVE STIMULATION
+Staged Implant Procedure
+ • For patients who failed or could not tolerate PNE; introduced because some PNE-positive patients did
+   worse after full implant.
+ • Sequence: stage 1 — permanent tined quadripolar lead into S3, placement confirmed fluoroscopically
+   with bellows, ipsilateral toe and genital sensory responses, tines anchoring in the fascia above the sacrum
+   (Figs. 115.13, 115.15) (originally open via 10-cm incision with periosteal fixation; percutaneous since
+   2003, ≈30 min) → temporary extension tunnelled to the flank → test up to 4 weeks with programme
+   optimisation → stage 2 at 2–4 weeks if ≥50% improvement: neurostimulator in the buttock, extension
+   removed. Failure → lead and extension removed.
+ • Prophylaxis: meticillin-resistant Staphylococcus aureus (MRSA) cover suggested; authors use intravenous
+   cefazolin + metronidazole.
+ • ICS consensus: S3 preferred, S4 sometimes; aim for motor and/or sensory responses on all four contacts
+   at low amplitude, though fewer contacts or higher voltage can succeed.
+
+PERCUTANEOUS NERVE EVALUATION VERSUS STAGED IMPLANT
+                        PNE                                                Staged implant
+ Setting                Office, local anaesthesia, no incision             Theatre; local, intravenous sedation or general
+ Lead                   Temporary, prone to dislocation → false            Permanent tined lead, more precise; tunnelling
+                        test failure                                       lowers infection
+ Test duration          5–7 days                                           Up to 4 weeks, programme optimised
+ If positive            Full implant in one session                        Stage 2 at 2–4 weeks: generator only
+ Conversion to          Lower                                              Higher
+ implant
+ NOUR                   Not used                                           Used
+
+ • Programming: pulse width 210 μs, 10–16 Hz, amplitude at threshold of urogenital or anal sensation; best
+   tolerable sensation at the lowest amplitude; unipolar or bipolar.
+ • Reprogramming ≈3 times in year 1, then ≈0.8 per year. Battery life: non-rechargeable ≥10 years,
+   rechargeable ≥15 years.
+
+Additional Perspectives of SNS
+Constant Versus Intermittent Stimulation
+ • SNS is continuous, whereas PTNS works with 30 min every 1–2 weeks → intermittent SNS was tested:
+   cyclic (16 s on / 8 s off) and 8 h on / 16 h off both equal to continuous.
+ • Closed-loop stimulation, triggered just before OAB symptoms, is a future option.
+Rechargeable Neurostimulators
+ • Rechargeables make battery-sparing protocols less urgent. Two-year OAB results after direct full
+   implantation without a test: high success; all patients able to recharge; claimed life >15 years.
+Other Issues
+ • Bilateral SNS is not superior to unilateral (RCT) → not standard practice: no proven benefit, higher cost.
+ • MRI: all recent Axonics and Medtronic devices have conditional approval for whole-body MRI at 1.5 and
+   3 T. At replacement, remove all previous components to guarantee MRI safety.
+
+
+
+
+                                                           page 11 of 12
+Chapter 115 — Electrical Stimulation and Neuromodulation                               SACRAL NERVE STIMULATION
+
+ KEY POINTS: SACRAL NERVE STIMULATION
+  • SNS is an established third-line option for non-neurogenic bladder dysfunction; FDA-approved for
+    idiopathic OAB and NOUR, not for bladder pain, pelvic pain syndrome or neurogenic bladder.
+  • Sacral neurostimulators are 1.5-T and 3-T MRI safe, rechargeable or non-rechargeable, lasting at least
+    10 years.
+  • SNS and non-invasive neuromodulation in storage disorders are thought to activate afferents that
+    modulate forebrain awareness and alertness.
+
+Concept — SNS is governed by selection through a test phase: the objective diary change (≥50%, or
+catheterisation for retention) decides implantation, and every technical refinement — tined leads, staging, S3
+targeting — exists to make that test predict the permanent result.
+
+
+
+
+                                                           page 12 of 12
+
