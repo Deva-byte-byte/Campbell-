@@ -1,0 +1,2113 @@
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                          UROGENITAL TUBERCULOSIS
+
+
+ Chapter 31 — Tuberculosis and Parasitic Infections of the
+ Genitourinary Tract
+ UROGENITAL TUBERCULOSIS
+   • Tuberculosis (TB) can involve any organ, including the urogenital (UG) tract. Untreated UG TB causes
+     irreversible tissue destruction (renal failure, infertility), so belongs in the differential of UG disorders.
+   • TB is the second "great imitator" (after syphilis); mimicking other diseases delays diagnosis and
+     treatment.
+   • As TB becomes rarer in industrialised nations, diagnosis depends on deliberate clinical suspicion.
+   • Terminology: "urogenital TB" is preferred over "genitourinary TB" because the urinary tract is involved
+     far more often than the genital tract.
+
+ History
+   • Mycobacterium tuberculosis has co-evolved with humans. A progenitor (M. prototuberculosis) may
+     have infected early hominids > 3 million years ago; a Homo erectus skeleton about 500,000 years old
+     has TB-consistent bony lesions.
+   • Oldest microbiological confirmation: Mycobacterium tuberculosis complex DNA in 9000-year-old
+     Neolithic skeletons (Eastern Mediterranean). Tubercle bacilli shown microscopically and molecularly in
+     Egyptian mummies (c. 3000 BCE).
+   • Written descriptions: ancient East Asia, pre-Columbian Americas, classical Greece and Rome, through
+     modern history.
+   • Epidemic peak: 18th and 19th centuries in Europe and North America; "consumption" caused up to
+     one-quarter of deaths in the Industrial Age.
+   • Turning point, 24 March 1882: Robert Koch presented the first isolation and identification of the
+     tubercle bacillus; 24 March is World Tuberculosis Day.
+
+ Microbiology
+   • TB is caused by the Mycobacterium tuberculosis complex (MTBC): closely related acid-fast bacteria.
+ MTBC SPECIES BY HOST RANGE
+
+  Host range                                 Species
+  Humans only                                M. tuberculosis, M. africanum
+  Humans and other mammals                   M. bovis, M. canettii, M. microti, M. caprae, M. orygis, M. pinnipedii
+  Animals only (so far)                      M. mungi, M. suricattae
+
+   • Commonest human isolate worldwide: M. tuberculosis, then M. bovis. Regionally, in West Africa M.
+     africanum causes a large share.
+   • "M. tuberculosis" is often used, inaccurately, for the whole complex.
+   • The species are clinically indistinguishable but differ in drug susceptibility: classically, M. bovis is
+     innately resistant to pyrazinamide, a first-line agent.
+
+
+
+
+                                                                page 1 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                             UROGENITAL TUBERCULOSIS
+   • The table sorts species by host. The trap is assuming uniform susceptibility: species matters for
+     treatment, not clinical picture — relevant to bacille Calmette–Guérin (BCG, derived from M. bovis)
+     infection after intravesical therapy.
+ Concept — the complex is one disease clinically but several organisms pharmacologically: identify the
+ species because it changes the drug regimen, not because it changes the presentation.
+
+ Epidemiology
+   • Global (World Health Organization, WHO): one-quarter of the world's population has latent MTBC
+     infection. 2021: about 10.6 million new active cases and 1.6 million deaths. Deaths have fallen
+     steadily since 2000; TB mortality down 45% since 1990.
+   • Obstacles to control: the human immunodeficiency virus (HIV) epidemic in sub-Saharan Africa, global
+     rise in obesity and diabetes, and multidrug and extensive drug resistance.
+   • United States: about 8300 active cases in 2022 (2.5 per 100,000), declining steadily since the 1980s
+     resurgence (peak 1992). Cases fell during COVID-19 (2020), back to pre-pandemic levels by 2022.
+        ◦ Disproportionate burden in people born outside the United States: incidence 16 times that of US-
+          born people.
+   • UG involvement in pulmonary TB depends on setting:
+ UROGENITAL TB BY SETTING
+
+                                       Developing
+                                       countries                 Developed countries
+  Share of global UG TB                > 90%                     < 10%
+  UG TB as a proportion of             15–20%                    2–10%
+  pulmonary TB
+  Rank among                           Second (after             Third in the United States (after pleural and lymphatic TB);
+  extrapulmonary sites                 lymph nodes)              about one-quarter of extrapulmonary cases
+
+   • Sex and age: about two-thirds male; mainly adults, though reported in children as young as 2 years.
+ Concept — UG TB burden tracks the TB burden, and diagnostic delay tracks resources. The developing
+ world has more cases, a larger UG share and more advanced disease at presentation, and this later shows
+ up in the rates of contracted bladder.
+
+ Infection, Host Immune Response and Transmission
+   • Entry is by inhalation of cough-generated aerosols (direct soft-tissue inoculation is rare) → alveolar
+     macrophages phagocytose the bacilli, with three possible outcomes:
+        ◦ Cleared: macrophages kill the bacilli; no infection and no adaptive immune response.
+        ◦ Established: bacilli escape killing and replicate in macrophages. A cellular immune response may
+          take up to 12 weeks to appear; meanwhile bacilli spread via lymphatics to the hilar nodes, then via
+          the bloodstream to distant organs — this is how the kidney and epididymis are seeded.
+   • Granuloma formation is how the host contains infection:
+        ◦ Infected macrophages secrete cytokines: interleukin-6 (IL-6), IL-12, IL-1β, tumour necrosis factor-α
+          (TNF-α).
+        ◦ Structure: a centre of foamy macrophages, epithelioid cells and multinucleated (Langhans) giant
+          cells within a lymphocyte cuff.
+        ◦ Antigen presentation activates T cells, which secrete IL-2, TNF-α and, most importantly, interferon-
+          γ (IFN-γ), which maintains the granuloma and drives killing of infected macrophages and bacilli.
+
+
+                                                                page 2 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                                UROGENITAL TUBERCULOSIS
+        ◦ If killing fails, the granuloma sequesters viable bacilli, which become dormant.
+ LATENT INFECTION VS ACTIVE DISEASE
+
+                            Latent TB infection                                 Active TB disease
+  Frequency after           90–95% controlled at this stage                     < 5% progress within the first year (primary
+  infection                                                                     progression)
+  Pathology                 Scarring (cicatrisation), granuloma                 Renewed replication → caseation (characteristic
+                            calcification                                       lesion) → bacillary release
+  Later risk                Lifetime reactivation risk 5–15%, higher —
+                            with comorbidity
+  Infectious?               No                                                  Pulmonary disease: yes (respiratory aerosols to
+                                                                                close contacts)
+
+   • Reactivation triggers (balance shifts towards the pathogen): old age, renal failure, diabetes mellitus,
+     malnutrition, HIV infection, other immunosuppression.
+   • Isolated extrapulmonary (including UG) TB is generally not infectious, except by direct skin
+     inoculation or aerosol-generating procedures on infected fluids or tissues — relevant in theatre.
+   • The latent/active split is a simplification. TB is a dynamic spectrum — contained infection →
+     subclinical disease → progressively infectious disease — and a person can move in either direction as
+     host immunity (comorbidity) or the bacilli (treatment of latent infection) change.
+ Concept — TB outcome is a balance between host and pathogen, and the granuloma is where that
+ balance is held. Latency, reactivation and the whole spectrum are the granuloma holding, failing or re-
+ forming as host immunity changes, and IFN-γ is the cytokine that holds it.
+
+ Development of Urogenital Disease
+ ROUTES TO UROGENITAL TB
+
+  Route                     Frequency          Mechanism and examples
+  1. Haematogenous Principal                   Seeds kidneys and epididymis first; other UG organs then infected by
+                   route                       contiguous spread from these sites. Seeding may be confined to the UG tract
+                                               or widely disseminated
+  2. Ascending              Much less          Classically intravesical BCG for bladder cancer (live, attenuated M. bovis
+  (retrograde)              common             vaccine): UG TB in about 1% (0.9%) of treated patients, as pyelonephritis,
+                                               renal abscess, ureteric obstruction, cystitis, prostatitis or epididymo-orchitis
+  3. Contiguous             Rare               TB ignores anatomical boundaries: spine → psoas → kidney; gastrointestinal
+  spread                                       (GI) TB → enterorenal and enterovesical fistulae
+  4. Direct                 Exceedingly        Self-inoculation of external genitalia from infected stool or urine; person-to-
+  inoculation               rare               person genital inoculation from infected genital or oral lesions
+
+   • Haematogenous disease may appear soon after seeding or after latency of decades (up to 46 years)
+     — hence UG TB often presents long after, or without, pulmonary disease.
+ Concept — UG TB is usually a blood-borne disease that lands in the two best-perfused UG organs, the
+ kidney and the epididymis, and spreads from there. The distribution of disease in the rest of the tract
+ follows from those two starting points.
+
+ Clinical Manifestations and Pathological Features
+   • Presentation is non-specific: patients are often repeatedly treated for bacterial infection or
+     investigated for malignancy first.
+
+
+                                                                page 3 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                          UROGENITAL TUBERCULOSIS
+   • Symptoms depend on site and severity. Renal TB can be destructive yet silent until it reaches the
+     bladder.
+   • Asymptomatic in about 8% in developed countries (earlier presentation).
+   • Constitutional symptoms (fever, weight loss, night sweats, malaise) in < 20%; their absence does not
+     exclude UG TB.
+   • Lower urinary tract symptoms dominate: up to half dysuria alone, about half storage symptoms,
+     about one-third haematuria and flank pain.
+   • Renal colic in < 10%, from passage of necrotic papillae, clot, stones or caseous debris in severe
+     pyelonephritis.
+   • Hallmark laboratory finding: sterile pyuria ± haematuria, in > 90% in developing countries.
+ UROGENITAL TB BY SITE — FREQUENCY, ROUTE AND SIGNATURE LESION
+
+  Site              Frequency in UG TB                     Route                      Signature lesion or sign
+  Kidney            80% (commonest)                        Haematogenous              Caseating cavities →
+                                                                                      autonephrectomy (up to one-third)
+  Ureter            —                                      Descent from kidney        Distal stricture at the vesicoureteric
+                                                                                      junction; beaded corkscrew ureter
+  Bladder           —                                      Descent from kidney        Patchy cystitis → contracted
+                                                                                      "thimble" bladder (< 20 mL)
+  Epididymis        10–55% (second commonest); Haematogenous                          Starts in globus minor (tail); posterior
+                    bilateral in about one-third                                      scrotal sinus in up to half
+  Vas deferens —                                           Contiguous from            Thickened, beaded vas
+                                                           epididymis
+  Testis            Isolated disease rare                  Contiguous from            Hard mass mimicking tumour;
+                                                           epididymis                 hydrocele in about 5%
+  Prostate          22–49%                                 Haematogenous or urinary Chronic prostatitis unresponsive to
+                                                                                    antibiotics
+  Seminal           —                                      Via vas or ejaculatory     Infertility, possibly the first symptom
+  vesicles                                                 ducts
+  Urethra           1.9–4.5% (relatively resistant) Usually with prostatic            Urethroscrotal fistula
+                                                    disease
+  Penis             Exceedingly rare                       Primary, autoinoculation   Ulcerating papule or plaque →
+                                                           or haematogenous           cavernosal nodules
+
+   • What the table is for: frequency follows route — haematogenous landing sites (kidney, epididymis)
+     commonest, descent or contiguity next, urethra and penis rare.
+   • The trap: the epididymis, not the prostate, is the commonest genital site, and the urethra is relatively
+     spared despite constant exposure to infected urine.
+
+ Kidney
+   • Renal disease is progressive and highly destructive, pathology varying with severity.
+   • Kidney as collateral damage of pulmonary or systemic TB (no UG imaging changes):
+         ◦ TB granulomatous interstitial nephritis: pulmonary TB + renal failure, ± pyuria, normal UG imaging;
+           biopsy: granulomas, sometimes caseating. Treatment can reverse the renal impairment.
+         ◦ Immune-complex glomerulonephritis and secondary amyloidosis.
+
+
+
+
+                                                                page 4 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                            UROGENITAL TUBERCULOSIS
+   • Miliary TB (widely disseminated): heavy haematogenous load gives innumerable pale granulomas
+     about 3 mm across, like millet seeds, studding cortex and medulla. High mortality, but the renal
+     "milia" usually spare renal function.
+   • Localised renal TB sequence: bacilli lodge in periglomerular capillaries → parenchymal granulomas
+     coalesce → caseation forms cavities → abscess, chronic pyelonephritis, parenchymal and papillary
+     necrosis → flank sinus tracts.
+        ◦ Examination: costovertebral angle tenderness.
+        ◦ With advancing disease the calyces become inflamed, then calcify, causing calyceal distortion,
+          dilatation and stenosis.
+   • Autonephrectomy (non-functioning kidney) has two types:
+ AUTONEPHRECTOMY — THE TWO TYPES
+
+  Caseo-cavernous                                                               Fibrotic
+  Viable tissue replaced by granulomas and exudate-filled cavities              Severe scarring and calcification
+  ± calcification                                                               Shrunken kidney ("putty" kidney on plain film)
+
+   • End-stage renal failure in about 7%.
+   • Squamous metaplasia of the renal pelvis can persist after treatment, giving a long-term risk of
+     squamous cell carcinoma (SCC).
+
+ Ureter
+   • Ureteric TB descends from the kidney: urinary bacilli form mural granulomas, and infected calculi can
+     descend and impact.
+   • Inflammation → scarring → stricture, commonest distally at the vesicoureteric junction; pan-ureteric
+     strictures give a "beaded corkscrew" ureter.
+   • A scarred, distorted ureter can both obstruct and reflux. Stricture-related obstruction is an important
+     cause of renal failure in UG TB.
+   • Spontaneous ureteric perforation above a vesicoureteric junction stricture (single case): stenting,
+     medical treatment, reconstruction.
+
+ Bladder
+   • Bladder TB descends, beginning around the ureteric orifices and spreading along lymphatics.
+     Urothelial implantation causes patchy cystitis; ulcers form where large granulomas coalesce.
+   • The dome is most affected; trigone and bladder neck usually spared. Mucosal inflammation, friability
+     and haematuria follow.
+   • After about a year of chronic inflammation and scarring, the bladder contracts:
+        ◦ Capacity < 100 mL → prominent frequency, urgency, pain and dysuria.
+        ◦ "Thimble" bladder: capacity < 20 mL.
+   • Contracture is late and commoner in the developing world (about 12% vs 4% of UG cases) because
+     diagnosis there is made later.
+   • Rare: acute abdomen from spontaneous bladder perforation, often recognised only at operation,
+     before TB is suspected.
+
+ Epididymis, Vas Deferens, Testes and Scrotum
+   • Second commonest site of haematogenous seeding, after the kidney.
+
+
+
+
+                                                                page 5 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                             UROGENITAL TUBERCULOSIS
+   • Disease begins in the more vascular globus minor: epithelial granulomas → fibrosis and luminal
+     obliteration → large caseous granulomas → nodular epididymis, swollen or hard on examination.
+   • Granulomas can adhere to the skin and ulcerate, forming the posterior scrotal sinus.
+   • Vas deferens: thickened and beaded from nodular scarring.
+   • Testis: isolated epididymal or testicular TB is rare; epididymal TB usually extends into the testis,
+     granulomas replacing seminiferous epithelium and connective tissue with fibrosis to produce the
+     tumour-like mass.
+
+ Prostate and Seminal Vesicles
+   • The prostate is reached by either route, and the route determines the picture:
+ PROSTATIC TB — HAEMATOGENOUS VS URINARY ROUTE
+
+  Haematogenous                                                                 Urinary
+  Peripheral lesions; urethra spared                                            Urethra involved
+  Asymptomatic → calcification, hard gland                                      Resembles bacterial prostatitis
+
+   • Examination: nodules or fluctuance.
+   • Suspect TB in chronic prostatitis persisting despite antibiotics. Quinolones are active against MTBC,
+     but the short courses for bacterial prostatitis are inadequate, so symptoms persist or recur quickly —
+     the partial response is the clue.
+   • Prostatic abscess is rare, particularly in acquired immunodeficiency syndrome (AIDS).
+   • Seminal vesicles:
+        ◦ Routes: via the vas (from epididymal or testicular TB), or via the urethra and ejaculatory ducts
+          (from renal, bladder or prostatic TB).
+        ◦ Pathology: mural granulomas → luminal caseation → calcification.
+        ◦ Features: low-volume ejaculate, oligospermia, azoospermia, haemospermia; rarely, abscess.
+        ◦ Examination: enlarged vesicles early; hard nodules late.
+
+ Urethra and Penis
+   • Urethral TB usually accompanies prostatic TB; isolated urethral TB is very rare.
+ PENILE TB — THE THREE FORMS
+
+                                                                                                   Papulonecrotic tuberculid
+                         Primary penile TB                      Orificial TB                       (PNT)
+  Nature                 True infection                         True infection; rapidly necrotic   Hypersensitivity reaction to
+                                                                                                   MTBC antigens carried to
+                                                                                                   skin from a distant focus
+  Origin                 Penile skin                            Autoinoculation from own           Disseminated antigen
+                                                                infected stool or urine; rarely    (commonest on glans; other
+                                                                haematogenous or lymphatic         skin sites possible)
+  Lesion                 Inflamed papule or keratotic           Painful ulcers with                Red papules → ulcers →
+                         plaque (lupus vulgaris) →              pseudomembrane, eroding            varioliform scarring,
+                         ulcer → spreads to corpora             deeply                             recurrent
+                         (pea-sized nodules, painless
+                         and hard, or fungating mass)
+  Pain                   Painless nodules                       Painful                            Can be painless
+
+
+
+
+                                                                page 6 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                           UROGENITAL TUBERCULOSIS
+
+                                                                                                 Papulonecrotic tuberculid
+                         Primary penile TB                      Orificial TB                     (PNT)
+  Bacilli, culture,      Present                                Present                          Absent: culture- and PCR-
+  polymerase                                                                                     negative; histology often
+  chain reaction                                                                                 inconclusive (mature
+  (PCR)                                                                                          granulomas often absent)
+  Host and               Fibrosis → penile distortion,          Immunocompromised or             Reported from Japan, South
+  prognosis              erectile dysfunction                   debilitated; marks very          Africa, India
+                                                                advanced UG or GI TB; poor
+                                                                prognosis
+  Mimics                 Malignancy                             —                                Syphilis, Behçet disease,
+                                                                                                 recurrent herpes simplex,
+                                                                                                 balanitis, SCC
+  Diagnosis              Tissue                                 —                                Recognition + response to
+                                                                                                 empirical anti-TB treatment
+                                                                                                 despite negative cultures
+
+   • What the table tests: in PNT alone negative cultures and PCR do not exclude TB; response to
+     treatment is the diagnostic test.
+ Concept — In UG TB the route of spread predicts the lesion. Haematogenous seeding gives parenchymal
+ disease (kidney, epididymis, peripheral prostate). Descending urinary spread gives luminal and orifice
+ disease (distal ureteric stricture, cystitis, urethral prostatic disease). Healing by fibrosis turns an infection
+ into an obstruction (stricture, contracted bladder, obliterated epididymis, infertility).
+
+ Diagnosis
+   • In developed countries the goal is MTBC culture for drug-susceptibility testing. Order of evidence:
+        ◦ Culture or DNA positive → diagnosis.
+        ◦ Negative → caseating granulomas on tissue in the right clinical context support TB.
+        ◦ Also absent → compatible clinical picture + probable exposure + response to empirical treatment.
+   • Up to one-fifth of UG TB coexists with pulmonary TB: always look for pulmonary disease.
+
+ Culture
+   • Gold standard: urine acid-fast bacilli (AFB) culture.
+   • Sampling: first-void (most concentrated) urine, 3–5 samples on consecutive days, cultured
+     immediately because prolonged exposure to acidic urine inhibits mycobacterial growth. Culture any
+     biopsy or operative tissue too.
+   • Sensitivity depends on technique and shedding: up to 80–90% with ideal technique; as low as 10% in
+     real-world practice, compounded by intermittent bacillary shedding.
+   • Ziehl–Neelsen stain of urine: sensitivity < 50%.
+ MYCOBACTERIAL CULTURE SYSTEMS
+
+                                                                      Time to
+  System                              Medium                          detection        Setting and notes
+  Löwenstein–Jensen (LJ)              Solid, egg-based                4–6 weeks        Medium of choice in developing
+                                                                                       countries: cheapest, no special
+                                                                                       equipment; laborious
+  Middlebrook 7H10                    Solid, agar-based,              About 1 week     Developed countries; costlier
+                                      transparent                     sooner than LJ
+
+
+                                                                page 7 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                            UROGENITAL TUBERCULOSIS
+
+                                                                      Time to
+  System                              Medium                          detection         Setting and notes
+  BACTEC Mycobacteria                 Liquid, fully automated;        As little as 10   Developed countries; first-line
+  Growth Indicator Tube               fluorescence quenching          days              susceptibility testing done in-house
+  (MGIT)                                                                                on MGIT
+  Semi-automated                      Liquid                          —                 Alternative
+  radiometric
+
+   • Rule: culture on at least one solid medium alongside the liquid system to maximise yield.
+   • Susceptibility testing: any culture method can be used; second-line drugs and molecular resistance
+     sequencing are done in reference laboratories.
+
+ Nucleic Acid Amplification Tests
+   • Nucleic acid amplification tests (NAATs) give results in 1–2 days and detect MTBC when bacillary load
+     is too low for culture.
+   • Natural amplification inhibitors in urine lower sensitivity in non-respiratory specimens; sensitivity also
+     varies with specimen, target sequence and protocol.
+   • GeneXpert MTB/RIF (marketed since 2010): self-contained, automated (sputum processing → DNA
+     extraction → amplification); detects MTBC and rifampicin resistance simultaneously.
+        ◦ Rifampicin resistance is a surrogate for multidrug-resistant TB (MDR-TB), as > 90% of rifampicin-
+          resistant strains are also isoniazid (INH)-resistant.
+        ◦ MDR-TB = resistance to both INH and rifampicin.
+   • Performance in urine: systematic reviews show good sensitivity and specificity for GeneXpert against
+     urine AFB culture, but small, heterogeneous studies make estimates imprecise. NAAT on epididymal
+     biopsy tissue performed well in a single study.
+   • Role of NAAT:
+        ◦ United States: adjunct only; it does not replace culture, and lacking high-quality sensitivity data, a
+          negative NAAT does not exclude extrapulmonary TB.
+        ◦ WHO: GeneXpert MTB/RIF is part of the initial work-up of all patients with TB; cost and
+          equipment are the barriers in developing countries.
+        ◦ NAATs cannot monitor treatment response: dead organisms still shed nucleic acid, so the test stays
+          positive despite adequate treatment. Culture is used for monitoring.
+
+ Urine Lipoarabinomannan Assay
+   • Lipoarabinomannan (LAM) is a mycobacterial cell-wall glycolipid found in urine, sputum and serum.
+     Methods range from enzyme-linked immunosorbent assay (ELISA) to the point-of-care lateral-flow
+     urine assay (LF-LAM): no laboratory equipment, result in < 30 minutes.
+   • In people living with HIV (PLHIV): a systematic review showed low sensitivity, high specificity;
+     sensitivity somewhat better with TB symptoms. A positive result is useful; a negative result is not
+     reassuring.
+   • WHO (2019) recommends adding LF-LAM for:
+        ◦ PLHIV with TB symptoms
+        ◦ People with advanced HIV disease who are unwell
+        ◦ PLHIV with a CD4 count < 200 cells/mm³
+   • United States: broad access to other diagnostics confines LF-LAM mainly to academic centres.
+
+
+
+                                                                page 8 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                   UROGENITAL TUBERCULOSIS
+ Histopathology
+   • Biopsy when urine cultures are negative. Mycobacteria are often not seen in tissue, but caseating
+     granulomas in the right clinical context support the diagnosis.
+   • Histology is consistent with TB in only a minority (about one-third in developed countries, one-fifth
+     globally). A negative biopsy does not exclude TB.
+   • Epididymal nodules: fine-needle aspiration cytology diagnostic in about two-thirds.
+   • Adding a TB NAAT to tissue increases sensitivity.
+
+ Screening Tests
+   • The tuberculin skin test (TST) and interferon-γ release assays (IGRAs) cannot distinguish latent
+     infection from active disease.
+        ◦ Both are United States Food and Drug Administration (FDA)-approved and widely used but of
+          limited value for active disease: a positive test does not rule TB disease in; a negative test does
+          not rule it out.
+        ◦ Their proper use is screening for TB infection.
+   • Preferred screening test: IGRA for persons ≥ 5 years born in TB-endemic countries; TST remains
+     acceptable.
+ Tuberculin Skin Test (Purified Protein Derivative, Mantoux Test)
+   • Principle: detects an existing cellular (delayed-type hypersensitivity) response to MTBC antigens.
+   • Technique: tuberculin (sterile protein extract of M. tuberculosis) injected intradermally into the volar
+     forearm; induration read at 48–72 hours.
+   • Centers for Disease Control and Prevention (CDC) cut-offs are risk-stratified:
+ TST — POSITIVITY THRESHOLDS BY RISK GROUP (CDC)
+
+  Induration Positive in
+  ≥ 5 mm         Recent contact with TB; fibrotic chest radiograph changes consistent with old TB;
+                 immunosuppressed
+  ≥ 10 mm        Immigrants from high-prevalence countries; residents of or workers in high-risk institutions; people
+                 who inject drugs; comorbidities raising active-TB risk
+  ≥ 15 mm        General population with no risk factors
+
+   • The logic of the table: higher pre-test probability, lower cut-off — a small reaction matters in someone
+     likely infected or unable to respond. The trap is one cut-off for everyone.
+   • TST advantages: cheap, no laboratory, easy (though staff must be trained to place and read it).
+   • TST disadvantages:
+        ◦ Not MTBC-specific: BCG vaccination and non-tuberculous mycobacteria can cause positives.
+        ◦ Second visit needed for reading.
+        ◦ False negatives in 10–25% of active TB.
+   • In UG TB the TST is usually positive.
+ Interferon-γ Release Assays
+   • Principle: blood test measuring IFN-γ released by sensitised T cells to MTBC-specific antigens — an in
+     vitro, MTBC-specific TST.
+   • Its antigens are absent from all BCG strains and most non-tuberculous mycobacteria, so no BCG false
+     positive — the key advantage over TST.
+
+
+                                                                page 9 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                              UROGENITAL TUBERCULOSIS
+ TST VS IGRA
+
+                                                                      TST                           IGRA
+  Format                                                              Intradermal, in vivo          Blood, in vitro
+  Visits                                                              Two (read at 48–72 h)         One (result about 24 h)
+  Affected by BCG?                                                    Yes: false positive           No
+  Affected by non-tuberculous mycobacteria?                           Yes                           Mostly no
+  Laboratory                                                          Not needed                    Needed
+  Latent vs active                                                    Cannot distinguish            Cannot distinguish
+
+ THE TWO IGRAS AVAILABLE IN THE UNITED STATES
+
+                  QuantiFERON-TB Gold Plus (QFT-Plus, fourth
+                  generation, 2017)                                               T-SPOT.TB
+  Sample          Whole blood in four tubes: ESAT-6/CFP-10;                       Separated peripheral blood mononuclear
+                  proprietary antigens that activate CD8 T cells;                 cells (PBMCs) in antibody-coated wells with
+                  negative control; positive control                              ESAT-6 and CFP-10
+  Incubation 16–24 h in collection tubes                                          —
+  Read-out        Plasma IFN-γ concentration by ELISA                             Enzyme-linked immunospot (ELISPOT): spots
+                                                                                  (IFN-γ-secreting cells) counted manually
+  Results         Positive, negative or indeterminate                             Positive, negative or borderline
+  Ease            Easier                                                          Harder to perform
+  Sensitivity Third-generation QFT least sensitive of the three                   Most sensitive (T-SPOT.TB > TST > third-
+              tests                                                               generation QFT in culture-confirmed TB)
+
+   • Pooled sensitivity data for fourth-generation QFT-Plus are not yet available.
+ Concept — Culture proves disease; NAAT and LAM speed it up; TST and IGRA only prove exposure. Every
+ test in this section is placed by what it can and cannot do: only culture gives susceptibility and tracks
+ treatment, and only immune-response tests are blind to the difference between latent and active TB.
+
+ Radiography
+   • Imaging often first suggests TB in a UG disorder. Choose modality by site and clinical picture.
+ Plain Radiography (Kidney–Ureter–Bladder Film)
+   • Calcification is frequent, in about a quarter to two-fifths (24–44%), evolving with disease:
+        ◦ Early: faint punctate parenchymal calcifications.
+        ◦ Progressive: globular calcification of a tuberculous mass (Fig. 31.1).
+        ◦ Papillary necrosis: triangular, ring-like calcifications in the collecting system.
+        ◦ Fibrotic autonephrectomy: small, shrunken, calcified "cement" or "putty" kidney with calcific rims
+          outlining individual lobes — this lobar pattern is pathognomonic of end-stage renal TB.
+   • Infected stones take odd shapes in a deformed, fibrosed pelvis; an upward-pointing arrowhead stone
+     suggests a pelvis "hiked up" by scar contraction.
+   • Ureteric calcification:
+ URETERIC CALCIFICATION — TB VS SCHISTOSOMIASIS
+
+
+
+
+                                                               page 10 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract               UROGENITAL TUBERCULOSIS
+
+  TB                                                            Schistosomiasis
+  Intraluminal                                                  Mural
+
+   • Bladder wall calcification is uncommon except late, with contracted bladder. Prostatic and seminal
+     vesicle calcification in about 10%.
+   • Beyond the urinary tract: vertebral body erosions, calcified psoas cold abscesses.
+   • Every patient evaluated for UG TB needs a chest radiograph to exclude coexistent infectious
+     pulmonary TB.
+ FIG. 31.1 Kidney–ureter–bladder film: left renal TB with associated calcification.
+ Intravenous Urography
+   • Intravenous urography (IVU), the former gold standard for early renal TB, gave most classic signs. Still
+     called the preferred first test in some regions, it is essentially replaced by computed tomography (CT),
+     CT urography, magnetic resonance imaging (MRI) and ultrasound (US).
+   • Early signs: loss of sharpness, irregular urothelial margins; "moth-eaten" calyces.
+   • Filling defects from a tuberculoma rupturing into a calyx or papillary necrosis; medullary cavities
+     communicating with the collecting system.
+   • "Phantom calyx": a stenosed calyx or infundibulum excretes no contrast, so the calyx is absent where
+     it should be.
+   • Ureter:
+        ◦ Pipestem ureter: rigid, calcified, straight, tubular, aperistaltic.
+        ◦ Beaded corkscrew ureter: nodular fibrosis along the whole ureter.
+        ◦ Both highly suggestive of TB, especially with kidney or bladder changes.
+   • Non-functioning kidney (autonephrectomy); fibrosed, contracted bladder (Fig. 31.2).
+   • Perinephric abscess suggested by loss of renal respiratory movement or ureteric displacement.
+   • Commonest IVU findings are obstructive changes from scarring, not the classic erosive signs:
+        ◦ Calyceal obliteration, infundibular narrowing, hydrocalycosis, segmental or total hydronephrosis,
+          hydroureter (Figs. 31.3, 31.4)
+        ◦ Calyceal dilatation and distortion → "cloverleaf" pattern
+        ◦ Vesicoureteric junction obstruction from tuberculous cystitis or distal-third ureteric stricture (Fig.
+          31.5)
+        ◦ Kerr's kink: "hiked-up" renal pelvis with sharp pelviureteric junction angulation
+ FIG. 31.2 Cystogram phase of an intravenous pyelogram: left renal TB, with contraction of the left side of
+ the bladder caused by tuberculous fibrosis. FIG. 31.3 Occluded calyx. FIG. 31.4 Severe calyceal and
+ parenchymal destruction. FIG. 31.5 Stricture of the distal left ureter.
+ Computed Tomography With Urography
+   • CT urography, the most used modality in developed countries, has replaced IVU there, showing KUB
+     and IVU features (calcification, scarring, obstruction) more sensitively:
+        ◦ More sensitive than KUB for calcification and collecting-system wall thickening.
+        ◦ Multidetector scanners detect 3–4 mm lesions.
+        ◦ Intravenous contrast assesses function across excretory phases.
+   • Granulomas:
+        ◦ Small: hypo-attenuating, little or no enhancement.
+
+
+
+                                                               page 11 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract               UROGENITAL TUBERCULOSIS
+        ◦ Large: mass-like, peripherally enhancing, can mimic renal cell carcinoma.
+   • Particularly useful in complicated or extensive disease: perinephric and psoas abscesses; lymph
+     nodes, vertebrae, spleen, liver; prostate and seminal vesicles (enlargement, necrosis, cavitation,
+     abscess, calcification).
+   • CT vs IVU:
+        ◦ CT disadvantages: higher radiation dose; less sensitive for earliest changes (minimal urothelial
+          thickening, subtle papillary necrosis), for which IVU may still be preferred in resource-limited
+          settings.
+        ◦ Contrast CT advantages: shows parenchyma, tissue oedema and hypoperfusion.
+ FIG. 31.6 CT with oral contrast in bilateral TB: the right kidney is hydronephrotic from infundibular
+ stenosis but retains good function; the left kidney is an end-stage, non-functioning, atrophic, calcified
+ kidney. The figure illustrates the two end-points side by side: obstruction that can be salvaged vs
+ autonephrectomy.
+ Retrograde and Antegrade Pyelography
+   • Both replaced by CT urography; useful when IVU or CT is impossible (renal insufficiency, contrast
+     allergy) to delineate distorted anatomy.
+   • With IVU, they show whether cavities are obstructive and whether they communicate with the
+     collecting system.
+
+ Ultrasonography
+   • Limited diagnostic role: findings non-specific, visualisation poorer than CT.
+   • No radiation and low cost make it the modality for children and pregnancy.
+   • Uses:
+        ◦ Scrotum: diffusely enlarged testis or epididymis with homogeneous or heterogeneous hypoechoic
+          areas, complex collections, hydrocele.
+        ◦ Transrectal US: thickened prostate and seminal vesicles.
+        ◦ Kidney: abscesses, cavities; septated cystic lesions suggest chronic infection; calcifications
+          echogenic with distal acoustic shadowing.
+        ◦ Restricted renal respiratory movement suggests perinephric or psoas abscess.
+        ◦ Abdomen: ascites, lymphadenopathy, omental caking.
+   • Main use: following hydronephrosis during medical treatment, because healing fibrosis can worsen
+     obstruction while the infection is cured.
+
+ Magnetic Resonance Imaging
+   • MRI is used less than contrast CT; radiation-free, so useful in children and pregnancy. Findings
+     resemble CT, but better tissue resolution can show a single granuloma.
+   • Signal characteristics:
+        ◦ Small lesions: hypointense on T1 and T2.
+        ◦ Larger lesions: centrally T2-hyperintense from central cellularity.
+        ◦ Large lesions can mimic malignancy, not always distinguishable.
+   • Magnetic resonance urogram (MRU): more sensitive than IVU for urothelial thickening and
+     caliectasis.
+   • Diffusion-weighted imaging (DWI):
+        ◦ Distinguishes hydronephrosis from pyonephrosis.
+
+
+                                                               page 12 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                               UROGENITAL TUBERCULOSIS
+        ◦ Monitors renal fibrosis: apparent diffusion coefficient falls as fibrosis increases, allowing staging
+          and assessment of treatment effect.
+   • Cine-MRU and dynamic MRU assess ureteric peristalsis.
+   • Caution with gadolinium in renal failure: risk of nephrogenic systemic fibrosis.
+ IMAGING IN UROGENITAL TB — MODALITY, ROLE AND SIGNATURE SIGNS
+
+  Modality                    Current role                                  Signature signs and specific use
+  KUB                         Frequently shows calcification                Lobar "putty" kidney (pathognomonic of end
+                                                                            stage); intraluminal ureteric calcification; arrowhead
+                                                                            stone
+  Chest radiograph            Mandatory in all patients                     Coexistent pulmonary TB
+  IVU                         Former gold standard; still used in           Moth-eaten calyx, phantom calyx, pipestem and
+                              resource-limited settings for early           corkscrew ureter, cloverleaf calyces, Kerr's kink
+                              disease
+  CT urography                Most used in developed countries              Calcification (more sensitive than KUB), granuloma
+                                                                            mimicking renal cell carcinoma, abscesses, disease
+                                                                            beyond urinary tract
+  Retrograde or               When contrast CT or IVU                       Whether cavities communicate with collecting
+  antegrade                   contraindicated                               system and are obstructive
+  pyelography
+  US                          Children and pregnancy; scrotum;              Serial monitoring of hydronephrosis during
+                              transrectal                                   treatment
+  MRI / MRU with              Children and pregnancy; lesion                Single granuloma; DWI: pyonephrosis vs
+  DWI                         characterisation                              hydronephrosis, grading of fibrosis
+
+ Cystoscopy and Ureteroscopy
+   • Endoscopy has a limited diagnostic role: direct vision, but non-specific findings:
+        ◦ Hyperaemia, erosion, ulceration, granulomatous masses, irregular ureteric orifices.
+        ◦ Ulcers can mimic malignancy.
+   • A "golf-hole" ureteric orifice suggests TB → image or scope the upper tract.
+   • Biopsy when possible, especially if malignancy is possible.
+   • Why biopsy though urine culture is diagnostic: culture may be too slow, and in culture-negative
+     patients bladder biopsy has moderate yield (19–52% sensitivity).
+ FIG. 31.7 Endoscopic and gross appearances of UG TB:
+   • (A) Extensive TB of the kidney and ureter with calcification and stricture
+   • (B) Acutely inflamed ureteric orifice
+   • (C) Tuberculous bullous granulations
+   • (D) Acute tuberculous ulcer
+   • (E) Tuberculous golf-hole ureteric orifice
+   • (F) Golf-hole orifice, severely withdrawn (retracted by ureteric fibrosis)
+   • (G) Healed tuberculous lesion
+   • (H) Acute tuberculous cystitis with ulceration
+ Concept — The imaging signs of UG TB are the pathology of fibrosis made visible. Destruction (moth-
+ eaten calyx, cavities, calcification) is followed by healing that scars and shortens: phantom calyx, Kerr's
+
+
+
+                                                               page 13 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                               UROGENITAL TUBERCULOSIS
+ kink, pipestem ureter, golf-hole orifice and thimble bladder. That is why the commonest finding is
+ obstruction, and why hydronephrosis must be watched during treatment.
+
+ Treatment
+   • Before antimicrobials: sanatorium rest and nutrition; for severe UG disease, extirpative surgery was
+     the only hope of cure.
+   • Drug milestones: streptomycin 1944 → isoniazid (INH) 1952 → rifamycins 1957, replacing both
+     sanatoria and surgery.
+   • Today most patients, including MDR-TB, are treated medically as outpatients. Surgery establishes the
+     diagnosis or is adjunctive in advanced disease.
+
+ Medical Therapy
+   • Multidrug therapy is mandatory, for five reasons:
+        ◦ Bacilli live in different micro-environments with different metabolic states and replication rates.
+        ◦ Some drugs are bactericidal, others only bacteriostatic.
+        ◦ Some act best on rapidly replicating bacilli, others on metabolically quiescent ones.
+        ◦ Drugs differ in tissue penetration and optimal pH.
+        ◦ Combination therapy prevents emergence of resistance.
+   • Start with four drugs: INH, rifampicin, pyrazinamide and ethambutol (RIPE); first-line combination
+     gives the best cure rate in the shortest time.
+   • Baseline tests: platelet count, liver and renal function; HIV test; where appropriate, hepatitis B and C
+     and diabetes screening.
+   • Tailor regimen to susceptibility. Directly observed therapy (DOT) secures adherence and prevents
+     resistance.
+   • Second-line agents: for intolerance, resistance or failure of first-line treatment; variable tolerability
+     and ease of administration.
+        ◦ Recent additions:
+            ▪ Fluoroquinolones and linezolid, originally developed for other bacterial infections.
+            ▪ Bedaquiline, the first new drug in 40 years developed specifically for TB.
+            ▪ Pretomanid (FDA-approved 2019), with bedaquiline and linezolid for MDR-TB or extensively
+              drug-resistant TB (XDR-TB).
+ TABLE 31.2 FIRST-LINE ANTITUBERCULOUS DRUGS
+
+                         Adult daily            Adult intermittent dose
+  Drug                   dose*                  (3 times/week)†         Main adverse effects               Key notes
+  Isoniazid‡ (oral;      5 mg/kg                15 mg/kg (typically 900         Hepatotoxicity,            Give pyridoxine to
+  injection              (typically 300         mg)                             peripheral neuropathy      prevent neuropathy
+  available)             mg)
+  Rifampicin§            10 mg/kg               10 mg/kg (typically 600         Hepatotoxicity, flu-like   Usually not combinable
+  (oral; injection       (typically 600         mg)                             syndrome, pruritus,        with protease
+  available)             mg)                                                    drug interactions          inhibitors or certain
+                                                                                                           NNRTIs in HIV
+  Rifabutin¶             5 mg/kg                Not recommended                 Hepatotoxicity, flu-like   Rifamycin of choice
+                         (typically 300                                         syndrome, uveitis,         with antiretrovirals
+                         mg)                                                    neutropenia, drug          (dose adjusted)
+                                                                                interactions
+
+
+
+                                                               page 14 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                                 UROGENITAL TUBERCULOSIS
+
+                         Adult daily            Adult intermittent dose
+  Drug                   dose*                  (3 times/week)†         Main adverse effects                 Key notes
+  Rifapentine**          —                      Once weekly, 10–20               Similar to rifampicin       Contraindicated in HIV,
+                                                mg/kg (≤ 600 mg),                                            cavitary pulmonary TB
+                                                continuation phase                                           and extrapulmonary
+                                                only, very selected                                          TB
+                                                patients
+  Pyrazinamide           Weight-banded:         40–55 kg 1500 mg; 56–            Arthralgia,                 M. bovis innately
+                         40–55 kg 1000          75 kg 2500 mg; 76–90             hyperuricaemia,             resistant
+                         mg; 56–75 kg           kg 3000 mg                       hepatotoxicity, pruritus,
+                         1500 mg; 76–90                                          rash, GI upset
+                         kg 2000 mg
+  Ethambutol             Weight-banded:         40–55 kg 1200 mg; 56–            Reduced red–green           Only first-line drug
+                         40–55 kg 800           75 kg 2000 mg; 76–90             colour discrimination,      that is not hepatotoxic
+                         mg; 56–75 kg           kg 2400 mg                       reduced visual acuity,
+                         1200 mg; 76–90                                          optic neuritis
+                         kg 1600 mg
+
+ *Or 5 times/week by DOT.
+ †Daily therapy is preferred. Intermittent therapy only in the continuation phase and only by DOT. WHO
+ and CDC no longer recommend dosing less than 3 times/week.
+ ‡Pyridoxine 25–50 mg if malnourished, pregnant, or with HIV, renal failure, thyroid disease, alcoholism
+ or diabetes.
+ §Generally cannot be taken with protease inhibitors or certain non-nucleoside reverse transcriptase
+ inhibitors (NNRTIs).
+ ¶Rifabutin dose depends on the antiretroviral:
+   • Efavirenz: increase to 450 mg/day (or 600 mg 3 times/week).
+   • Fosamprenavir, nelfinavir or indinavir: 150 mg/day (or 300 mg 3 times/week).
+   • Lopinavir/ritonavir, ritonavir or atazanavir alone, or ritonavir-boosted protease inhibitors: 150 mg on
+     alternate days (or 3 times/week). Some experts consider this subtherapeutic and give 150 mg daily (or
+     300 mg 3 times/week) with close uveitis monitoring.
+ **Once-weekly rifapentine is not advocated by the WHO.
+ Source: American Thoracic Society, CDC and Infectious Diseases Society of America treatment guidelines
+ (Medical Letter, 2012); American Thoracic Society, MMWR 2003.
+   • What the table is for: pairing each first-line drug with its signature toxicity.
+        ◦ INH → neuropathy (hence pyridoxine)
+        ◦ Rifamycins → interactions (hence rifabutin in HIV)
+        ◦ Pyrazinamide → gout and arthralgia
+        ◦ Ethambutol → the eye
+   • The pattern: every first-line drug except ethambutol is hepatotoxic; ethambutol alone needs visual
+     rather than hepatic monitoring.
+   • The trap: rifapentine is listed but contraindicated in extrapulmonary (therefore UG) TB.
+ FIRST-LINE ANTITUBERCULOUS DRUGS — SIGNATURE TOXICITY AND MONITORING
+
+  Drug                       Signature toxicity                                 Monitor or prevent
+  INH                        Peripheral neuropathy; hepatitis                   Pyridoxine; liver enzymes
+
+
+
+                                                               page 15 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                                 UROGENITAL TUBERCULOSIS
+
+  Drug                      Signature toxicity                                  Monitor or prevent
+  Rifampicin /              Drug interactions; hepatitis; (rifabutin)           Antiretroviral and immunosuppressant levels; liver
+  rifabutin                 uveitis                                             enzymes
+  Pyrazinamide              Hyperuricaemia, arthralgia; hepatitis               Liver enzymes
+  Ethambutol                Optic neuritis (red–green colour loss)              Visual acuity and colour vision
+
+   • Standard short course for uncomplicated UG TB: 6 months:
+        ◦ Intensive phase, 2 months: daily INH + rifampicin + pyrazinamide, plus ethambutol until
+          susceptibility is known; stop ethambutol if susceptible to the other first-line drugs.
+        ◦ Continuation phase, 4 months: INH + rifampicin, daily (or three times weekly); twice-weekly
+          dosing no longer recommended.
+        ◦ Pyridoxine (vitamin B6) throughout against INH neuropathy.
+ TREATMENT PHASES — PURPOSE
+
+  Intensive phase (2 months)                          Continuation phase (4 months)
+  Kills rapidly multiplying bacilli                   Eradicates slow, sporadic multipliers and persisters
+  3–4 drugs                                           2 drugs
+
+   • First-line drugs suit UG TB: high urinary concentrations and good activity in acidic conditions.
+   • The new 4-month regimen (daily rifapentine, INH, pyrazinamide, moxifloxacin) for drug-susceptible TB
+     is not recommended for extrapulmonary TB and must not be used for UG TB.
+   • Prolonged treatment (duration depends on disease and drugs):
+        ◦ Complicated UG TB (abscesses, severe scarring, extensive disease) and UG TB's higher relapse rate
+          than pulmonary TB lead some to treat 12–24 months, or ≥ 6 months after surgery.
+        ◦ Discuss any departure from the standard short course with a TB specialist.
+   • Monitoring during therapy:
+        ◦ Liver enzymes monthly if pre-existing liver disease. Drug hepatotoxicity is reversible on stopping
+          the drug; avoid alcohol and other hepatotoxic drugs. Severe liver injury has occurred.
+        ◦ Renal lesions can worsen during treatment: healing fibrosis can aggravate obstruction and bladder
+          contraction. Steroids may help; surgery may be needed for new or worsening obstruction.
+ Concept — TB chemotherapy is designed around the biology of the bacillus. Mixed populations and
+ different metabolic states explain why several drugs are used and why there are two phases. Resistance
+ explains the four-drug start and DOT. The urinary tract adds one specific hazard: cure comes through
+ fibrosis, and fibrosis obstructs.
+
+ Corticosteroids
+   • Adjunctive steroids: role not fully established. Rationale: limit excessive immune-mediated
+     destruction and scarring.
+   • Uses:
+        ◦ TB meningitis: mortality benefit; strongly recommended.
+        ◦ Selected cases: severe pulmonary TB with paradoxical worsening on treatment; TB pericarditis (to
+          prevent constriction).
+        ◦ UG TB: to prevent ureteric stricture and bladder contraction, on anecdotal evidence only; no trials.
+   • A meta-analysis of trials in pulmonary, meningeal, pleural, pericardial and peritoneal TB showed
+     reduced mortality whichever organ was involved.
+
+
+                                                                page 16 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                          UROGENITAL TUBERCULOSIS
+ Surgical Therapy
+   • About half (55%) of UG TB patients need surgery, rising with stage.
+   • Indications:
+        ◦ Relieve obstruction and drain infected material
+        ◦ Remove a non-functioning, infected kidney that resists cure
+        ◦ Medically resistant hypertension from a functionally excluded kidney
+        ◦ Reconstruct the urinary tract
+        ◦ Abscesses unresponsive to medical treatment → aspiration, or percutaneous or open drainage
+   • More than half of TB operations are now reconstructive.
+   • Optimal timing: 4–6 weeks after starting medical therapy, letting inflammation subside, bacillary load
+     fall and lesions stabilise.
+ Procedures to Relieve Obstruction
+   • Uraemia or sepsis → emergency decompression. Renal failure usually reflects bilateral obstruction or
+     obstruction of a functionally solitary kidney.
+   • Early stenting or percutaneous nephrostomy (PCN) for tuberculous ureteric stricture limits loss of
+     function and preserves the chance of later reconstruction.
+   • Escalation:
+        ◦ Retrograde double-J stent (preferred) → succeeds in under half (41%).
+        ◦ Fails → antegrade stent, internalised or externalised, via percutaneous puncture.
+        ◦ Fails → PCN until definitive treatment; loculation from strictures and scarring may need more than
+          one.
+   • PCN must be followed by correcting the cause; removal without correction risks a tuberculous
+     cutaneous fistula (less likely with effective concurrent chemotherapy).
+   • Unsalvageable kidney → nephrectomy.
+   • Avoid high contrast-injection pressures during stent or PCN placement, which could disseminate
+     infection.
+ Nephrectomy
+   • The overriding surgical goal is organ preservation.
+   • Partial nephrectomy: localised lesion (e.g. polar mass) unresponsive to medical therapy.
+ TOTAL NEPHRECTOMY — INDICATIONS
+
+  Established indications                                    Contested indication
+  Non-functioning kidney + TB recalcitrant or                Non-functioning kidney without recalcitrant disease or
+  recurring despite optimal therapy. Relapse                 hypertension. Some advocate removal, but no supporting
+  after nephrectomy with short-course therapy <              evidence; studies showing bacilli in removed kidneys predate
+  1%                                                         modern chemotherapy
+  Non-functioning kidney + medically resistant
+  hypertension. Hypertension improves in about
+  two-thirds (65%)
+
+   • Nephrectomy in about one-quarter (27%) of UG TB patients, similar in developed and developing
+     countries.
+   • Open technique:
+        ◦ Oblique retroperitoneal incision, extendable dorsally or ventrally, because of dense fibrosis.
+
+
+                                                               page 17 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                        UROGENITAL TUBERCULOSIS
+         ◦ Remove granulomatous or caseous perinephric tissue with the specimen.
+         ◦ Ligate renal artery and vein separately to avoid a late arteriovenous fistula.
+         ◦ The ureter is usually left.
+         ◦ Minimise lymphatic disruption; avoid entering pleura and peritoneum.
+   • Laparoscopic nephrectomy increasingly preferred despite early fibrosis concerns: less blood loss,
+     faster recovery; in experienced hands only modestly longer (about half an hour) than other
+     indications.
+ Ureteropelvic and Ureteral Surgery
+   • Temporarily stent a pelviureteric junction (PUJ) or ureteric stricture to recover renal function before
+     definitive repair.
+   • Stricture site:
+         ◦ Upper and mid-ureteric strictures are rare; may suit endourology.
+         ◦ Lower ureteric strictures are common; often need open surgery.
+   • Decision factors: stricture length and severity, guidewire passage, blood supply, renal function.
+ Endoscopic management
+   • TB strictures have mucosal ischaemia and dense fibrosis, so success rates for other strictures do not
+     transfer.
+   • Best results: short stricture, residual lumen, good renal function.
+   • Strictures forming during chemotherapy and stented early (double-J) can stabilise without further
+     treatment.
+   • Balloon dilatation (retrograde or antegrade): ureter, PUJ, vesicoureteric junction, calyceal infundibula;
+     stent usually left. High failure rates; repeat procedures common.
+   • Every ureteric stricture needs follow-up imaging (US or IVU), especially after endoscopic treatment,
+     because strictures can worsen as they heal.
+         ◦ Deterioration → consider adding corticosteroids.
+         ◦ No improvement or progression after 6 weeks of chemotherapy → open surgery.
+ Open surgical options
+   • Long, complex strictures need open repair; mobilisation is hampered by fibrosis, loss of elasticity and
+     poor vascularity.
+   • PUJ repair in TB is harder than for congenital PUJ obstruction.
+ OPEN RECONSTRUCTION BY STRICTURE SITE
+
+  Site                        Procedure                                         Key point
+  PUJ, short segment,         Dismembered pyeloplasty                           —
+  extrarenal pelvis
+  PUJ, longer stricture       Non-dismembered (flap) pyeloplasty                May be impossible if pelvis heavily scarred
+  PUJ, reconstruction         Ureterocalicostomy (ureter to lower-pole          Preserve renal capsule to cover the lower
+  impossible                  calyx)                                            pole; omentum if capsule insufficient, to
+                                                                                prevent anastomotic stenosis
+  Upper or mid ureter         Excision + tension-free ureteroureterostomy;      —
+                              or Davis intubated ureterotomy (adhesiolysis
+                              + intubation)
+
+
+
+
+                                                               page 18 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                       UROGENITAL TUBERCULOSIS
+
+  Site                        Procedure                                         Key point
+  Lower ureter                Complete excision back to healthy, well-          —
+                              vascularised ureter → ureteroneocystostomy
+  Small gap                   Contralateral bladder mobilisation ± division     Gains 2–3 cm
+                              of the superior vesical artery
+  Moderate gap                Psoas hitch (needs good bladder capacity)         Bridges up to 5 cm; avoid genitofemoral
+                                                                                and femoral nerves
+  Long gap                    Boari flap ± psoas hitch                          Bridges 10–15 cm; a poorly executed flap
+                                                                                reduces bladder capacity; contracted TB
+                                                                                bladder may be unsuitable
+  Multiple or                 Ileal ureteric replacement (interposition)        When native ureter no longer a usable
+  recurrent strictures                                                          conduit
+
+   • The logic of the table: gap length determines the manoeuvre (2–3 cm → 5 cm → 10–15 cm → ileum).
+   • The trap: in TB the bladder itself may be contracted, ruling out bladder-based bridges (psoas hitch,
+     Boari flap).
+ Bladder Surgery
+   • Options for a contracted TB bladder: augmentation cystoplasty (first described in the 19th century for
+     this condition) and bladder substitution.
+   • Augmentation indication: intolerable frequency, nocturia, urgency, pain and haematuria, typically
+     with capacity < 100 mL.
+ BOWEL SEGMENT BY DEGREE OF BLADDER CONTRACTION
+
+  Bladder state                        Procedure / segment
+  Half the bladder diseased            Augmentation with ileum
+  Severely contracted                  Augmentation with ileocaecum or sigmoid (stomach and caecum also used)
+  Thimble bladder < 20 mL              Orthotopic bladder substitution
+
+   • Usual rules for bowel in the urinary tract apply: assess renal function, reconfigure bowel into a low-
+     pressure reservoir, educate the patient, ensure long-term follow-up.
+   • Complications: mucus, electrolyte disturbance, secondary bacterial infection.
+   • Laparoscopic and robot-assisted augmentation: increasing use, good results.
+ Urethral Procedures
+   • Bladder neck contracture → transurethral incision.
+   • Urethral stricture → endoscopic treatment, often repeated.
+   • Tuberculous urethral fistula → chemotherapy + suprapubic drainage, then delayed reconstruction.
+   • A tuberculous seminal vesicle cavity has been drained into the bladder by cold-knife incision (case
+     report).
+ Genital Surgery
+   • Extirpative genital surgery is reserved for failed medical therapy.
+   • Epididymis involved, testis spared → epididymectomy alone, not orchidectomy, preserving testicular
+     blood supply: ligate the vas → begin dissection at the globus minor → excise.
+   • Testis involved → scrotal orchidectomy.
+   • The vas is usually diseased distal to the external ring, so ligation at the ring is possible and sufficient.
+
+
+
+                                                               page 19 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                     UROGENITAL TUBERCULOSIS
+ Monitoring for Tuberculosis Relapse
+   • Relapse after pulmonary TB: 2–6%, mostly within the first year; needs a second, longer or different
+     regimen.
+   • Relapse after UG TB is higher: 6.3–22%, even after 12 months of treatment.
+        ◦ Reason: an extensively diseased kidney holds innumerable foci that are hard to sterilise; viable
+          bacilli have been found after 9 months of treatment.
+   • In any recurrence, make a special effort to isolate the organism for susceptibility testing.
+   • Follow-up: pulmonary TB 2 years; UG TB, some recommend 10 years, as mean time to relapse is
+     about 5 years (5.3).
+ Concept — Surgery in UG TB follows chemotherapy. It is timed at 4–6 weeks, aims first to preserve the
+ kidney, and is mostly reconstructive. It exists because drugs sterilise but cannot reverse fibrosis. The poorly
+ sterilised kidney is also why UG TB relapses more often and needs longer follow-up than pulmonary TB.
+
+ Management of Urogenital Tuberculosis in Special Situations
+   • In every special situation, choose the regimen carefully (side effects, interactions, toxicity) and seek
+     infectious diseases or TB specialist advice.
+
+ Multidrug-Resistant, Extensively Drug-Resistant and Pre-Extensively Drug-Resistant Tuberculosis
+ DRUG-RESISTANCE DEFINITIONS (UNITED STATES)
+
+  Category                      Resistant to
+  MDR-TB                        INH + rifampicin (the two most important first-line drugs)
+  Pre-XDR-TB (definition        INH + rifampicin + a fluoroquinolone OR an injectable aminoglycoside
+  since 2022)
+  XDR-TB                        INH + rifampicin + a fluoroquinolone + either an injectable second-line aminoglycoside
+                                (amikacin, kanamycin, capreomycin) OR bedaquiline or linezolid
+
+ OUTCOME BY RESISTANCE CATEGORY
+
+                               Drug-
+                               susceptible            MDR-TB                                     XDR-TB
+  Cure rate                    94–97%                 50–60%                                     30–50%
+  Conventional                 6 months               Usually > 18 months, sometimes with IM     5–6 drugs for ≥ 2
+  regimen                                             drugs                                      years
+
+   • Frequency:
+        ◦ Worldwide: MDR-TB in about 3.6% of new and 20% of previously treated cases; one-fifth of MDR-
+          TB has additional resistance.
+        ◦ United States: < 1.5% at first diagnosis, stable over 20 years.
+   • BPaL (bedaquiline + pretomanid + linezolid), approved since 2019: all-oral MDR-TB regimen (duration
+     and extrapulmonary status in table below), used successfully in XDR-TB without bedaquiline or
+     linezolid resistance; role in UG TB not established.
+
+ Pregnancy and Lactation
+   • Advise avoiding pregnancy during treatment for active TB.
+   • TB diagnosed in pregnancy → treat promptly: fetal risk from TB outweighs drug risk.
+ PYRAZINAMIDE IN PREGNANCY — TWO POSITIONS
+
+
+                                                               page 20 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract                    UROGENITAL TUBERCULOSIS
+
+  United States                                                                   WHO
+  Controversial: fetal effects not established, perceived higher hepatotoxicity   Recommended as part of the
+  risk → usually omitted, so treatment lasts 9 months                             standard first-line regimen
+
+   • Breastfeeding is allowed once the mother is non-infectious; breast-milk drug levels are too low to be
+     toxic.
+
+ Human Immunodeficiency Virus Infection
+   • HIV raises active-TB risk 15- to 20-fold; each infection accelerates the other. Test every TB patient for
+     HIV.
+   • TB causes > 30% of deaths among PLHIV worldwide, reminiscent of 18th- and 19th-century Europe.
+   • Extrapulmonary and UG TB are commoner in HIV; UG TB was common at autopsy in AIDS in a small
+     Indian study.
+ UG TB — HIV-POSITIVE VS HIV-NEGATIVE
+
+                                      PLHIV                                                            HIV-negative
+  Extent                              More disseminated; more lymphadenopathy; bilateral renal         More
+                                      disease                                                          localised
+  Caseation, necrosis,                Less (fibrosis needs a competent immune response)                Typical
+  fibrosis
+  Collecting-system stenosis          Much less frequent                                               Most patients
+  Bladder contracture                 Much less frequent                                               Common
+  Mortality                           High despite fewer obstructive lesions                           Lower
+
+   • Treatment:
+        ◦ Do not delay. Guidelines match those without HIV: the 6-month short course is effective; 9 months
+          no longer routine.
+        ◦ Duration depends on site, severity, tolerance, response and whether antiretroviral therapy is
+          effective.
+        ◦ Interactions: rifamycins lower antiretroviral levels (rifampicin more than rifabutin), so
+          antiretroviral doses may need increasing.
+ Concept — In HIV, UG TB causes less fibrosis because fibrosis is an immune product. The disease is
+ therefore more disseminated and more lethal but less obstructive. The inverse relationship between
+ immunity and scarring runs through the whole TB half of the chapter.
+
+ Renal Transplant Recipients
+   • Allograft TB is rare: usually within 6 months of transplantation, up to 7 years. Early onset reflects
+     immunosuppression or TB already in the donor kidney.
+   • Diagnosis is difficult:
+        ◦ Early disease, so imaging usually normal.
+        ◦ Immunosuppression blunts the usual pathology.
+        ◦ Fever is the usual presentation; urinary symptoms in only a minority (20%).
+   • Diagnostic yields:
+        ◦ Chest radiograph: abnormal but non-specific in about half.
+        ◦ Sputum culture: positive in about half, whatever the chest radiograph shows.
+        ◦ Urine AFB culture: positive in all patients in one study — the key test.
+
+
+                                                               page 21 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract       PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+        ◦ Many are diagnosed only on histology after graft nephrectomy.
+   • Treatment: rifamycin–immunosuppressant interactions require frequent drug-level monitoring and
+     dose adjustment.
+   • Complications: graft rejection, disseminated TB, death in up to about one-third (36%).
+ SPECIAL SITUATIONS — WHAT CHANGES
+
+  Situation                        Regimen change                                           Duration
+  MDR-TB                           Second-line drugs; BPaL (not yet approved for            > 18 months conventional; 6–9
+                                   extrapulmonary TB)                                       months with BPaL
+  XDR-TB                           5–6 drugs                                                ≥ 2 years
+  Pregnancy                        INH + rifampicin + ethambutol + pyridoxine;              9 months
+                                   pyrazinamide omitted in the United States
+  HIV on effective                 Standard; daily dosing; watch rifamycin interactions     6 months
+  antiretrovirals                  (rifabutin preferred)
+  HIV not on effective             As above                                                 9 months
+  antiretrovirals
+  Renal transplant                 Rifamycin dose adjustment with drug levels, or           ≥ 18 months if rifamycin-free
+                                   rifamycin-free regimen
+
+
+   KEY POINTS: TUBERCULOSIS
+     • Untreated UG TB causes irreversible damage (renal failure, infertility), so TB must be in the
+       differential diagnosis of UG disorders.
+     • Presentation is non-specific and indolent, and constitutional symptoms are infrequent. A high
+       index of suspicion is essential.
+     • Gold standard: positive AFB culture from urine or tissue biopsy. A diagnosis can often be made by
+       other means, such as NAAT or granulomas on histology.
+     • Optimal timing of surgery: 4–6 weeks after starting medical therapy, so that inflammation settles,
+       the bacillary load falls and the lesions stabilise.
+     • Monitor for relapse after treatment. It occurs in up to 22%.
+
+
+ PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+   • Parasites are rare in non-endemic practice, but the urologist must recognise them to diagnose and
+     treat correctly.
+   • Relevant parasites: UG schistosomiasis, filariasis, amoebiasis, enterobiasis and echinococcosis.
+
+ Schistosomiasis
+   • More than 200 million people are infected with Schistosoma species.
+ THE THREE MEDICALLY IMPORTANT SCHISTOSOMES
+
+  Species                     Distribution                                           Principal target       Snail host
+  S. haematobium              Africa, Arabian Peninsula                              Urogenital tract       Bulinus
+  S. mansoni                  Africa, Arabian Peninsula, South America               Liver, GI tract        Biomphalaria
+
+
+
+
+                                                               page 22 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract   PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+
+  Species                     Distribution                                       Principal target       Snail host
+  S. japonicum                China, South-East Asia                             Liver, GI tract        Oncomelania
+
+   • UG schistosomiasis is the S. haematobium disease: a complex life cycle, many manifestations and
+     close ties to the environment.
+   • It has co-evolved with humans and non-human primates for millennia, so ancient civilisations
+     recognised it.
+
+ History
+   • Schistosome antigens in Egyptian mummies (c. 3500 BCE); S. haematobium eggs in later mummies.
+   • The Egyptians called it "A-a-a disease"; the hieroglyph shows a penis dripping blood-stained urine.
+   • Theodor Bilharz (1852, Cairo autopsies) found worms in the mesenteric veins and linked them to eggs
+     in urine and stool — hence "bilharzia".
+
+ Biology and Life Cycle
+   • Human cycle:
+        ◦ Cercariae penetrate skin (even intact) in infested fresh water. They live about 1 day and lose
+          infectivity within hours of leaving the snail.
+        ◦ They shed their tails over 90–120 minutes → schistosomulae.
+        ◦ Schistosomulae migrate via blood or lymph to the lungs (several weeks) → venous circulation →
+          liver sinusoids, where they begin feeding on blood.
+        ◦ Adults migrate to the vesical and pelvic venous plexus and live on average 3–5 years. Cercaria to
+          adult takes 80–110 days.
+        ◦ Pairing: the male holds the female in the gynaecophoric canal, helps her pump blood and
+          chemically stimulates egg-laying.
+   • Eggs:
+        ◦ Fecundity: hundreds to thousands of eggs per female per day.
+        ◦ S. haematobium eggs: oval, about 140 µm, terminal spine (Fig. 31.9).
+        ◦ Eggs must cross the endothelium and bladder wall to reach urine; some cross the gut wall into
+          faeces.
+        ◦ Fewer than half are excreted; eggs retained in tissue drive the pathology.
+        ◦ Eggs survive about 20 days if kept wet.
+   • Environmental cycle:
+        ◦ Fresh water and light → eggs hatch → ciliated miracidia (live about 6 hours).
+        ◦ Miracidia penetrate Bulinus snails, which prefer slow-flowing water and tolerate low oxygen.
+        ◦ Primary sporocyst → 20–40 daughter sporocysts → 200–400 cercariae each, released into water.
+        ◦ The prepatent period is temperature-dependent; no cercariae are shed below 15 °C or above 35
+          °C.
+ FIG. 31.8 Life cycle of a schistosome. Source: King CH, Schistosomiasis, in Tropical Infectious Diseases,
+ 2006. Points the figure adds to the text:
+   • Cercariae are forked-tailed (about 500 µm) and cause "swimmer's itch" on penetration.
+   • Adults are 1–3 cm long and pair for life.
+   • Eggs measure 70–170 µm across species; miracidia hatch within 1–3 hours.
+
+
+
+
+                                                               page 23 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract    PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+   • Each species has its own venous destination and snail:
+        ◦ S. haematobium → vesical venous plexus: haematuria, bacterial UTI, scarring, calcification, SCC.
+        ◦ S. mansoni and S. japonicum → mesenteric venules of bowel and rectum: Katayama fever
+          (especially S. japonicum), presinusoidal granulomas, Symmers pipestem periportal fibrosis, portal
+          hypertension.
+        ◦ All species occasionally cause embolic egg granulomas in the brain or spinal cord.
+ FIG. 31.9 Micrographs of S. haematobium eggs showing the characteristic terminal spine. Source: Ray et
+ al., PLoS Negl Trop Dis, 2012.
+
+ Epidemiology
+   • Distribution follows the snail: most of sub-Saharan Africa, parts of North Africa and the Middle East.
+   • Europe — Corsica, 2013: the first autochthonous transmission in Europe for over a century; further
+     cases in 2015 suggest a new endemic focus. Some were S. bovis or S. haematobium–S. bovis hybrids.
+   • Burden:
+        ◦ Mostly the UG form; newer estimates reach 440 million infected.
+        ◦ Up to 150,000 deaths a year from S. haematobium obstructive renal failure alone.
+        ◦ In sub-Saharan Africa, tens of millions have haematuria and dysuria at any time; millions have major
+          bladder pathology and hydronephrosis.
+   • Individual risk depends on the type and duration of freshwater contact:
+        ◦ Rural women and children: domestic chores (laundry, dishwashing).
+        ◦ Children: play and swimming.
+        ◦ Adults: fishing, car washing, agriculture with water-intensive crops (rice, sugar cane).
+        ◦ Prevalence is highly focal, because transmission depends on water.
+   • Dams and irrigation increase transmission by creating year-round slow-flowing snail habitats and
+     drawing denser farming populations.
+ DAMS AND SCHISTOSOMIASIS
+
+  Dam                            Decade Effect
+  Aswan Low Dam, Egypt 1930s                Flood → perennial irrigation; prevalence rose from < 11% to > 75% in some
+                                            regions
+  Aswan High Dam,                1960s      Similar rise
+  Egypt
+  Diama Dam, West                1980s      Similar rise
+  Africa
+
+   • Highest prevalence: poor sanitation and no clean running water.
+   • Children aged 5–15 carry the heaviest worm burden; whether from exposure or susceptibility is
+     unclear.
+   • Schistosomiasis and poverty reinforce each other: the snail hosts live in tropical and subtropical
+     developing countries; poor sanitation puts eggs into surface water; no safe water supply prolongs
+     water contact; and chronic infection impairs growth, learning and productivity, perpetuating poverty.
+ Concept — Schistosomiasis is an environmental disease. Transmission needs human excreta in fresh
+ water, a particular snail and prolonged contact with water. Every feature of its epidemiology (focality,
+ children, dams, poverty) is one of those three links, and so is every method of control.
+
+
+
+                                                               page 24 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract        PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+ Pathogenesis and Pathology
+   • Cercarial penetration is aided by secreted proteases, which trigger cellular and humoral responses; but
+     the parasite modulates host immunity from first contact, so brief penetration causes only local skin
+     inflammation. Repeated exposure → hypersensitivity → maculopapular rash.
+   • Immune evasion by the tegument: the maturing schistosomulum forms a double lipid bilayer surface
+     (the tegument) that lets it survive for years, via host antigen mimicry, continuous membrane
+     turnover, immunomodulatory proteins and proteases, evasive biophysical surface properties and
+     modulation of surface-antigen expression.
+   • Most knowledge comes from autopsy studies and animal models.
+ WORM VS EGG — THE GOVERNING CONTRAST
+
+  Adult worm                                                     Egg
+  Immunologically near-silent (tegumental evasion)               The main immunopathological trigger
+  Lives in the venous plexus                                     Deposited in the walls of the bladder and pelvic organs
+  Causes little disease directly                                 Granuloma → fibrosis → obstruction of blood or urine flow
+
+   • The egg granuloma: a mixed infiltrate of eosinophils, plasma cells and lymphocytes. Continuous egg-
+     laying means granulomas of every stage coexist; clustered eggs form composite, coalescing
+     granulomas, grossly bulky, hyperaemic, polypoid masses projecting into the bladder (Fig. 31.10).
+   • Severity modifiers: host genetics, in utero sensitisation, co-infection.
+   • S. haematobium eggs rapidly induce type 2 inflammatory genes and suppress urothelial barrier
+     genes, suggesting that host and parasite share the aim of expelling eggs across a temporarily
+     weakened urothelium.
+ FIG. 31.10 IVU showing scalloping of the bladder and right lower ureter by schistosomal polypoid lesions.
+   • Ectopic egg deposition:
+        ◦ Portal tract: heavy egg loads swept to the liver block presinusoidal capillaries → granulomas →
+          portal hypertension. Embolised eggs give granulomatous, fibrotic portal tracts and dilated
+          portosystemic collaterals → pipestem (Symmers) fibrosis → hepatosplenomegaly. Susceptibility
+          depends on the individual immune response.
+        ◦ Lung: worm pairs reach the pulmonary vessels only in very severe infection, after pelvic disease is
+          established → pulmonary fibrosis, pulmonary hypertension, cor pulmonale.
+   • Naturally acquired immunity exists: some stay egg-negative for ≥ 5 years despite continued exposure
+     and no treatment.
+ RESISTANT VS CHRONICALLY INFECTED
+
+  Resistant to reinfection                             Chronically infected
+  Mixed T-helper 1 (Th1) + Th2 response                Th2 response only
+  Protective IgE active                                IgG4 blocks protective IgE (antibodies to worm and egg antigens)
+
+   • IgE to worm antigens rises with age, suggesting immune resistance — but water contact also falls with
+     age. Exposure-controlled analyses still suggest age contributes independently.
+   • Calcification and obstructive uropathy — the causal chain:
+        ◦ Unexpelled eggs calcify (bladder, ureters).
+        ◦ → reduced urinary tract compliance → higher upper-tract pressure → stasis, hydroureter,
+          hydronephrosis.
+
+
+
+                                                               page 25 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract           PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+        ◦ Calcification extent on imaging roughly reflects the tissue burden of calcified eggs.
+ LEVEL OF SCHISTOSOMAL URETERIC OBSTRUCTION
+
+  Level                                                                                           Frequency
+  Ureteric meatus                                                                                 ~1%
+  Intramural (interstitial) ureter                                                                10–30%
+  Juxtavesical ureter                                                                             20–60%
+  Lower third of ureter                                                                           15–50%
+  Contiguous combination                                                                          30–60%
+
+   • The pattern: obstruction is overwhelmingly distal (juxtavesical to lower third); the meatus itself is
+     rarely the site.
+ THREE PATTERNS OF SCHISTOSOMAL HYDROURETER
+
+                             Segmental (cylindrical or
+                             fusiform)                                Tonic                             Atonic
+  Share of obstructive About one-quarter (80% in the                  Up to 30%                         The remainder
+  uropathy             lower ureter)
+  Wall                       Dilatation above concentric     Thick-walled, trabeculated;  Thin-walled; atrophic,
+                             muscle replaced by fibrosis and marked muscular hypertrophy; fibrotic muscle; very
+                             sandy patches                   tortuous                     tortuous
+  Peristalsis                —                                        Impaired                          Absent
+  Extent                     Segmental                                Whole ureter above the lesion     Markedly dilated
+                                                                      (functional stenosis)
+  Hydronephrosis             Rarely significant                       Significant, but reversible if    —
+                                                                      obstruction is relieved
+
+   • The logic: tonic = hypertrophied muscle fighting an obstruction (reversible); atonic = muscle that has
+     failed (fibrotic, aperistaltic). The trap is assuming every dilated ureter is irreversibly damaged.
+   • Hydroureter precedes hydronephrosis. Untreated hydronephrosis progresses pelvic dilatation →
+     medullary atrophy → medullary effacement → cortical atrophy, which is why tubular function
+     (concentrating ability) is lost before glomerular function.
+   • Bacterial UTI is commoner in chronic infection, possibly from bacteria adhering to the worm
+     tegument, stasis and immunomodulation.
+   • Bladder cancer: S. haematobium has the strongest cancer link of any helminth, particularly to SCC, on
+     epidemiological (especially Egypt) and experimental evidence. Risk rises with duration and severity of
+     infection.
+   • Female genital schistosomiasis (FGS): egg sequestration causes fibrotic nodules ("sandy patches") in
+     the uterus, cervix and lower genital tract (Fig. 31.11). The mechanism is poorly understood beyond
+     increased vascularity of the genital mucosa around eggs.
+   • Male genital schistosomiasis (MGS):
+        ◦ Cause: ectopic eggs in the testis, epididymis, spermatic cord, scrotum and penis.
+        ◦ Poorly characterised, partly because transrectal US is needed to assess the internal sex organs.
+        ◦ Pathology: neoplastic growth around lesions with fibrosis and calcification.
+
+
+
+
+                                                               page 26 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract   PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+         ◦ Presentation: genital disfigurement, haemospermia, haematuria, infertility, genital pain; a
+           minority have sexual dysfunction or urethral discharge mistaken for a sexually transmitted
+           infection.
+         ◦ Infertility is thought reversible (epididymitis, funiculitis); azoospermia with eosinophilic interstitial
+           orchitis can occur.
+         ◦ Diagnosis: eggs in the ejaculate on microscopy. But symptoms predict disease poorly, semen egg
+           counts vary between samples and correlate poorly with urine counts, and the effect of abstinence
+           is unknown.
+         ◦ Hydrocele and testicular calcification are reported; causal link uncertain.
+         ◦ Raised PSA suggests frequent prostatic involvement. Serum testosterone is lower with S.
+           haematobium or S. mansoni infection (mechanism unknown).
+         ◦ MGS, like FGS, may increase HIV susceptibility.
+         ◦ Treatment: praziquantel.
+   • Bladder sequelae: urothelial hyperplasia → squamous metaplasia → dysplasia → urothelial
+     carcinoma or SCC. Bladder cancer is the final pathological sequel.
+ SCHISTOSOMAL VS CONVENTIONAL BLADDER CANCER
+
+                                                                                Conventional (non-endemic) bladder
+                      Schistosomal bladder cancer                               cancer
+  Age at onset        Early: 40–50 years                                        Older
+  Histology           SCC 60–90%; adenocarcinoma 5–15%                          Predominantly urothelial (transitional
+                                                                                cell)
+  Differentiation > 40% of SCCs well differentiated, verrucous, good            —
+                  prognosis
+  Site                Posterior wall about half; lateral wall about 30%         —
+  Growth              Exophytic about two-thirds; rest ulcerative, endophytic —
+
+   • Mass drug administration (MDA) in Egypt reduced bladder neoplasms and shifted SCC to transitional
+     cell carcinoma — evidence of cause.
+   • Smoking, common in endemic regions, may act synergistically; yet some autopsy series there show
+     similar cancer rates without schistosomiasis.
+   • Carcinogenesis:
+         ◦ The International Agency for Research on Cancer (IARC, WHO) classifies S. haematobium as Group
+           1 ("carcinogenic to humans").
+         ◦ Vascular endothelial growth factor (VEGF) rises in the bladder soon after egg exposure and may
+           promote tumour vasculogenesis and progression.
+         ◦ Proposed pathway: papillomas merge with basal transitional epithelium → benign fibroepithelial
+           papillary growths → repeated inflammation and fibrosis → clonal, precancerous lesions including
+           squamous metaplasia.
+         ◦ Egg exposure alters carcinogenesis-related signalling pathways (mouse bladder).
+         ◦ Co-infecting bacteria convert nitrates to nitrosamines, which alkylate DNA and protein, causing
+           mutations in genes such as p53.
+ FIG. 31.11 Macroscopic urinary schistosomiasis:
+   • (A) Early active stage: bladder opened by anterior Y incision; posterior and apical walls carry many
+     erythematous, granular, sessile and pedunculated polyps.
+
+
+                                                               page 27 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract             PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+   • (B) Chronic active and inactive foci: coronal section of the apex. Lamina propria replaced by a yellow-
+     tan, finely granular sandy patch (chronic inactive); small sandy patches scattered through fibrotic,
+     atrophic detrusor and even perivesical fat. Superficial lamina propria still holds viable eggs with
+     granulomas (chronic active).
+   • (C) Chronic inactive stage with the bilharzial bladder cancer syndrome: lamina propria replaced by a
+     concentric sandy patch, most prominent at the edge of an exophytic, moderately differentiated SCC;
+     no recent egg-laying.
+   • (D) Severe chronic inactive disease: whole lamina propria replaced by sandy patch, with foci of
+     epidermisation. One ureteric orifice is a dilated "golf-hole" (schistosomal uropathy); the other
+     markedly stenotic.
+   • (E) Rectosigmoid polyposis: erythematous polyps with active egg-laying; some have necrotic,
+     haemorrhagic tips.
+   • (F) Partial cystectomy specimen (chronic inactive stage): a stellate chronic schistosomal ulcer. Legend
+     truncated here; it ends in a reference to metaplasia.
+ Concept — In schistosomiasis the worm is tolerated and the egg is not. Eggs held in the wall give
+ granuloma, then fibrosis and calcification, then obstruction, and eventually metaplasia and cancer. Every
+ urological sequel is the egg's damage accumulating over time.
+
+ Clinical Manifestations
+ ACUTE VS CHRONIC SCHISTOSOMIASIS
+
+                Acute                                                           Chronic
+  Cause         Response to cercarial penetration and worm                      Immune response to prolonged egg-laying over
+                migration and maturation                                        years
+  Who           Often travellers, in primary infection                          Long-term endemic residents: repeated
+                                                                                reinfection, high worm burden
+  Outcome Self-limiting                                                         Organ damage
+
+   • Schistosomes cannot multiply in the human host, so after a single exposure adults die of old age
+     within 3–5 years even untreated, limiting pathology in visitors.
+ Acute Schistosomiasis
+   • Cercarial dermatitis: itchy maculopapular rash within 1–2 days of penetration; it often resolves before
+     the traveller returns home, hindering diagnosis.
+   • Katayama fever (acute schistosomiasis):
+        ◦ 2–8 weeks after primary infection in some patients (many are asymptomatic).
+        ◦ Named after the Katayama Valley, Japan.
+        ◦ Commonest with heavy S. japonicum, less common with S. mansoni, rare with S. haematobium.
+        ◦ Features: fever, dry cough, fatigue, headache, diarrhoea, eosinophilia, neck pain, urticaria.
+        ◦ Rare in endemic residents.
+        ◦ Non-specific: often missed or mistaken for malaria or enteric fever.
+   • Because acute infection can be silent, anyone exposed to potentially infested water should be
+     considered for testing and treatment.
+
+
+
+
+                                                               page 28 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract        PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+ Chronic Schistosomiasis
+   • Egg-laying into the bladder begins 8–12 weeks after infection, presenting with painless, recurrent
+     haematuria, dysuria or frequency.
+        ◦ In highly endemic cultures male haematuria is seen as a sign of puberty; it can cause anaemia.
+          Proteinuria is common.
+        ◦ Haematuria is consistent and specific enough to serve as a primary diagnostic test in endemic
+          areas, but in returning travellers is often not recognised as schistosomal.
+   • Ureteric disease: ureteric eggs → granulomas, polyps, ulcers → impaired pelvic and ureteric peristalsis
+     → hydronephrosis, hydroureter, obstruction and vesicoureteric reflux.
+        ◦ Short-term infection: renal function can recover with anthelmintics.
+        ◦ Late or severe disease: ureteric repair or urinary diversion may be needed.
+   • FGS affects one-third to three-quarters of women infected with S. haematobium; eggs lodge in the
+     fallopian tubes, cervix, vagina, vulva, ovaries and uterus.
+        ◦ Friable sandy patches bleed on contact (examination, intercourse).
+        ◦ Dyspareunia, pelvic pain, bleeding, discharge, frequency and infertility mimic UTI and sexually
+          transmitted infection → misdiagnosed and untreated.
+   • Male genital involvement:
+        ◦ Heavy egg loads in the ejaculatory ducts and seminal vesicles; blood or eggs can appear in the
+          ejaculate before eggs appear in urine.
+        ◦ Presents as a testicular mass or scrotal pain.
+        ◦ Egg burden is higher in the epididymis, ovaries and tubes than in the testis, uterus and vagina.
+ STAGES OF CHRONIC URINARY SCHISTOSOMIASIS
+
+  Stage            Egg activity                             Clinical picture
+  Active           Eggs being laid; haematuria              Polypoid lesions, haematuria
+  Late             Tissue egg burden peaks                  "Schistosomal contracted bladder": chronic suprapubic and pelvic
+  chronic                                                   pain, urgency, frequency, incontinence. Trigone normal or mildly
+  active                                                    hyperaemic; rest of detrusor thickened, indurated. Functional
+                                                            capacity as low as 50 mL
+  Quiescent        Egg-laying and excretion fall;           Silent obstructive uropathy continues: fibrosis replaces polyps →
+                   symptoms fade (> 30% of light            insidious severe hydroureteronephrosis
+                   infections become
+                   asymptomatic)
+  Chronic          No viable eggs in urine or tissue Sequelae of reaction to calcified dead eggs. 40–60% with
+  inactive                                           schistosomal obstructive uropathy first reach a urologist at this
+                                                     end stage. Poorly or non-functioning kidneys in asymptomatic
+                                                     people
+
+   • The trap: a normal urine egg count does not exclude severe disease. The most damaged kidneys
+     belong to inactive-stage patients, who have no eggs and often no symptoms.
+   • Bacterial superinfection:
+        ◦ About half with obstructive uropathy develop superimposed UTI from the usual uropathogens.
+        ◦ Salmonella association: chronic or recurrent Salmonella UTI with intermittent bacteraemia;
+          bacteriuria may be spill-over from the bloodstream. Salmonella shelters in the apical folds of the
+          worm tegument, protected from host defences and antibiotics.
+        ◦ Treat both infections; antibiotics alone do not clear it.
+
+
+                                                               page 29 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract             PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+   • Bladder ulcers:
+         ◦ Acute ulcers are rare, forming in the active stage when necrotic polyps slough.
+         ◦ Chronic ulcers are commoner, a late sequel of heavy infection, with constant burning, intense
+           suprapubic and pelvic pain, usually gross haematuria and pyuria.
+   • Eosinophilia: very common in acute, low-grade in chronic infection; neither sensitive nor specific, but
+     a clue to parasitic infection.
+   • Exceptions to the usual sequence: ectopic pulmonary schistosomiasis, neuroschistosomiasis and FGS.
+ BLADDER — TB VS SCHISTOSOMIASIS
+
+                            TB                                                  Schistosomiasis
+  Pathogenesis              Descending infection from the kidney                Egg deposition in the bladder wall
+  Trigone                   Spared (dome most affected)                         Normal or mildly hyperaemic (rest of detrusor
+                                                                                indurated)
+  Contracted bladder Thimble bladder < 20 mL                                    Functional capacity as low as 50 mL
+  Ureteric orifice          Golf-hole                                           Golf-hole (dilated) or stenotic
+  Ureteric                  Intraluminal, non-dilated ureter (forms             Intramural, dilated ureter
+  calcification             a cast)
+  Malignancy                SCC of the pelvis after metaplasia (rare)           SCC 60–90% of schistosomal bladder cancers
+
+ Concept — Chronic schistosomiasis dissociates symptoms from damage. Egg-laying and symptoms
+ decline over the years while fibrosis goes on obstructing the tract. The worst kidneys are therefore found in
+ quiet, egg-negative patients in the inactive stage.
+
+ Diagnosis
+   • Gold standard for active infection: S. haematobium eggs in urine or stool (see table for timing).
+   • Urine sampling: egg excretion peaks at noon, so collect between 09:00 and 15:00; concentrate the
+     urine to detect light infection.
+   • No eggs but high suspicion, with serology showing exposure → tissue biopsy:
+         ◦ Rectal snip first, before bladder biopsy: eggs are common in rectal mucosa and the risks of bladder
+           biopsy (infection, perforation) are avoided.
+         ◦ A squash preparation between glass slides beats histology: more sensitive and shows egg viability.
+   • Suspected FGS: biopsy vulval, vaginal or cervical lesions for eggs.
+   • Indirect markers (visual or dipstick haematuria, urine turbidity) are used mainly in control and
+     elimination campaigns, combined with other tests.
+ DIAGNOSTIC TESTS FOR UG SCHISTOSOMIASIS
+
+  Test                              Indicates                   Strength                     Limitation
+  Urine or stool egg                Active infection            Direct proof                 Negative in the first 8–12 weeks;
+  microscopy                        (gold standard)                                          insensitive in light infection
+  Rectal snip / bladder             Active or past              Egg viability                Invasive
+  biopsy (squash                    infection
+  preparation)
+  Serology: FAST-ELISA +            Exposure                    > 90% sensitive and          Cannot distinguish acute, chronic or
+  Western blot (CDC)                                            specific; positive from      cured; titres persist after cure
+                                                                4–6 weeks
+
+
+
+
+                                                               page 30 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract       PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+
+  Test                              Indicates                   Strength               Limitation
+  Circulating anodic and            Active infection only Quantitative                 CCA strip has failed to detect S.
+  cathodic antigens (CAA,           (released only by live (intensity); point-of-      haematobium (good for S. mansoni);
+  CCA), serum or urine              adult worms)           care urine CCA strip        expensive
+  PCR (urine, stool, vaginal        Infection                   Most sensitive         Needs trained staff, solvents, kits;
+  lavage for FGS)                                               method                 impractical in the field; useful for
+                                                                                       surveillance in low-transmission
+                                                                                       settings
+  Haematuria dipstick               Indirect                    Cheap, used in         Low sensitivity and specificity
+                                                                campaigns
+
+   • What the table is for: sorting tests by what a positive means. Only eggs and CAA/CCA prove active
+     infection; serology proves exposure only. The trap is using serology to judge cure.
+   • Imaging:
+ IMAGING IN UG SCHISTOSOMIASIS
+
+  Modality                         Findings and use
+  US                               Bladder and ureteric wall thickening, polyps, hydroureter, hydronephrosis,
+                                   calcification, even bladder carcinoma
+  Plain film                       Urinary tract calcification. Calcified bladder like a "fetal head in the pelvis" is
+                                   characteristic of chronic disease. Prostate, seminal vesicles, posterior urethra, distal
+                                   ureters and occasionally colon can also calcify
+  IVU                              Earliest sign: striations of ureters and renal pelvis. Also hydronephrosis, hydroureter,
+                                   non-function, stenosis, polypoid filling defects. Delayed films in severe obstruction;
+                                   post-void views show bladder neck obstruction. IVU + fluoroscopy distinguishes tonic
+                                   from atonic ureters and shows non-stenotic immobile ureters
+  CT                               Obstruction plus colonic and urinary tract calcification — an advantage over IVU
+  MRI                              No proven superiority; not routine
+  Voiding                          Vesicoureteric reflux in about 25% of infected ureters
+  cystourethrography
+  Cystourethroscopy ±              Mucosal lesions (Fig. 31.13); ureteric anatomy and drainage
+  retrograde pyelography
+
+ FIG. 31.12 Bladder calcification. (A) Plain abdominal film: rim of calcification around the bladder. (B)
+ Ultrasound: bright line around the bladder with dark acoustic shadow behind. Source: Abdel-Wahab et
+ al., J Urol, 1992.
+ FIG. 31.13 Cystourethroscopy in a child from Somalia with intermittent haematuria and dysuria: papillary
+ mucosal and submucosal bladder lesions.
+   • Globally, most cases go undetected and untreated because diagnosis relies on direct egg detection
+     rather than more sensitive methods; better accessible diagnostics are needed for control.
+
+ Treatment
+ Medical Management
+   • Praziquantel (PZQ) is the only WHO-recommended drug. Single-drug dependence risks resistance, but
+     PZQ is effective, widely available and of low toxicity, so there is little incentive for alternatives.
+   • Dose for S. haematobium: 20 mg/kg twice on the same day, 6–8 hours apart, or 40 mg/kg once.
+   • Katayama fever: add corticosteroids.
+
+
+
+                                                               page 31 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract       PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+   • Efficacy (egg reduction and cure rate): 60–90%. Even without cure, worm burden falls substantially,
+     reducing further sequelae.
+   • Follow-up: urine and stool egg counts and serial UG ultrasound; repeat the course if infection persists.
+   • Tolerability: mild side effects (abdominal pain, nausea, headache, dizziness) within 3–4 hours, settling
+     spontaneously. Large, bitter tablets are difficult for children; a paediatric formulation is in
+     development.
+   • Pregnancy: FDA Category B (animal safety data only), so many programmes exclude pregnant and
+     lactating women — yet adverse effects are rarely reported despite millions of pregnant women
+     treated.
+   • Weak activity against schistosomulae means lower cure rates where transmission and reinfection are
+     high, and PZQ cannot abort infection soon after exposure. Repeat doses several weeks apart catch
+     juveniles missed earlier that have since matured.
+   • Resistance: little in endemic areas in large studies; failures reported in returning travellers and
+     military personnel. Protection: alternative drugs and environmental control (snail control, sanitation).
+ PRAZIQUANTEL VS ARTEMISININ DERIVATIVES
+
+                     Praziquantel                                               Artemether / artesunate
+  Stage              Adult worms (weak against schistosomulae)                  Schistosomulae
+  targeted
+  Role               Treatment of established infection                         Chemoprophylaxis (90–97% effective); poor
+                                                                                treatment of established infection
+  Combination        PZQ + artemisinin → lower infection rates than
+                     PZQ alone (useful for MDA in high-transmission
+                     areas)
+  Caution            —                                                          Avoid wide use in malaria co-endemic areas
+                                                                                (risk of artemisinin-resistant malaria)
+
+   • What the pair tests: the drugs are complementary by life-cycle stage; together they cover juvenile and
+     adult worms. The limit is malaria, not schistosomiasis.
+ Surgical Management
+   • Medical therapy first: PZQ is effective and easy to give, and early disease can reverse.
+   • Surgery is for complications unresponsive to adequate medical treatment after reasonable follow-up,
+     or those needing immediate intervention — e.g. severe bladder haemorrhage, a common cause of
+     urgent surgery.
+   • Bladder outlet: prostatitis and prostatic enlargement are uncommon and autopsies show no
+     anatomical outlet obstruction; but cystoscopic and urodynamic findings and raised post-void
+     residuals show functional outlet obstruction, occasionally needing surgery in severe inactive disease.
+   • Scrotum: induration, pain and enlargement from schistosomal epididymitis can prompt surgery for
+     suspected testicular tumour.
+   • Irreversibly contracted bladder: vesical denervation, urinary diversion, ileocystoplasty or
+     hydrodistension. Always combine with chemotherapy.
+   • Chronic deep bladder ulcer → partial cystectomy; fulguration rarely relieves symptoms or heals the
+     ulcer.
+   • Urothelial hyperplasia accompanies severe disease; dysplasia and metaplasia accompany
+     schistosomal bladder cancer, which is managed surgically (see bladder cancer chapters).
+
+
+
+                                                               page 32 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract         PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+   • Obstructive uropathy is the commonest sequel; hydroureter and hydronephrosis track infection
+     intensity.
+ URETERIC OBSTRUCTION — ACTIVE VS LATE DISEASE
+
+  Active infection                                                                     Late chronic / inactive disease
+  Concentric or hemi-concentric polypoid lesions "girdle" the intramural               Anatomical stenosis (± calculi) in up to
+  and adjacent extravesical ureter                                                     80% of obstructed ureters
+  Responds to medical treatment alone. Renal function recovers within 1– Less responsive to chemotherapy, so
+  2 months of PZQ. Chemotherapy also prevents obstruction despite        persistent stenosis needs surgery
+  reinfection
+
+ SURGERY FOR RESIDUAL SCHISTOSOMAL URETERIC STENOSIS
+
+  Lesion                                          Procedure                                            Note
+  Anatomical stenosis                             Balloon dilatation                                   Effective, but
+                                                                                                       mechanical dilatation
+                                                                                                       often restenoses
+  Meatus, intramural ureter,                      Reimplantation with a functional valve:              Highly effective in
+  vesicoureteric junction, distal ureter          Politano–Leadbetter variants                         some; restenosis can
+                                                                                                       occur
+  Long or multifocal lesions (too little          Boari flap; ileal conduit; suprapubic intravesical   Keep the ileal segment
+  ureter for reimplantation or                    ureterostomy (peritoneal dialysis catheter           isoperistaltic
+  ureteroureterostomy)                            bypasses the segment into the bladder); ileal
+                                                  ureter
+  Isolated meatal stenosis                        Meatoplasty                                          —
+  Unreconstructable ureter                        Long-term nephrostomy                                —
+
+ Prognosis
+   • Most have mild infection and a good prognosis. Morbidity and mortality depend on infection intensity
+     and immune-response gene polymorphisms.
+ PROGNOSIS BY PREVALENCE SETTING
+
+  Low-prevalence region (e.g. Nigeria)                                Egypt at 50% prevalence
+  Essentially no related mortality; little obstructive                Schistosomiasis contributed to death in 10% of infected
+  uropathy
+                                                                      Severe disease: mortality approached 50% within 2–5
+                                                                      years
+
+ TWO DEATH PROFILES
+
+                                                                                           Death from pyelonephritis or
+  Death from obstructive uropathy                                                          urothelial cancer
+  Patients in their 20s with heavy egg burdens                                             Patients over 40
+  Bilateral end-stage hydronephrosis, or unilateral with contralateral non-                Reflects time- and intensity-related
+  schistosomal end-stage renal disease                                                     pathology
+
+   • PZQ has transformed prognosis: in children, obstructive polyps usually resolve completely within 2–6
+     weeks.
+   • Chronic obstruction from sandy patches and fibrosis: prognosis less certain; some tolerate advanced
+     uropathy with little renal decline.
+
+
+                                                               page 33 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract       PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+   • Obstructive uropathy, stones, outlet obstruction and bacterial cystitis all predispose to
+     pyelonephritis. Bacterial superinfection can be life-threatening — treat promptly and aggressively.
+   • Bladder cancer: prognosis depends on tumour aggressiveness.
+
+ Prevention and Control
+   • Travellers: avoid fresh water (streams, rivers, ponds, lakes); fast-flowing water can still transmit.
+   • Cercariae are killed by heating water to > 125 °F (about 52 °C) for 5 minutes, chlorination, or standing
+     water > 2 days, free of snails.
+   • PZQ was introduced in the late 1970s, with mass distribution from the 1980s and 1990s; treatment is
+     simple and cheap, but control remains hard.
+   • WHO strategy: periodic, usually annual, targeted MDA with PZQ, aimed at reducing morbidity.
+     Without safe water, cycles of infection, treatment and reinfection demand more frequent dosing.
+   • Cost: under US$0.50 per person in campaigns, yet at scale this can exceed national budgets; donated
+     PZQ from companies and foundations helps.
+ BREAKING TRANSMISSION — THREE CONTROL LEVERS
+
+  Lever                                Mechanism                                Limitation
+  Sanitation + MDA                     Reduce egg input into water              Egg input must fall about 90% before
+                                                                                transmission falls substantially, because
+                                                                                asexual multiplication in the snail
+                                                                                amplifies the parasite
+  Health education                     Reduce human water contact               —
+  Snail control (molluscicides,        Fewer intermediate hosts;                Adult worms live for years, so snail control
+  biological control by                theoretically proportional reductions    alone must continue for many years
+  predators or competitors)            in transmission; some call it the best
+                                       single measure
+
+   • Integrated campaigns (treat people + separate people and their waste from water + control snails) are
+     most promising.
+   • Water, sanitation and hygiene (WASH) programmes are back at the centre of control, with wider
+     benefits.
+   • Vaccine: none effective yet.
+   • Unlike malaria, lymphatic filariasis and onchocerciasis, global prevalence has not fallen, but
+     schistosomiasis is eliminated in 10 countries: Iran, Japan, Lebanon, Malaysia, Martinique, Montserrat,
+     Morocco, Thailand, Tunisia, Turkey.
+   • 65th World Health Assembly, May 2012: resolution WHA65.21 called for intensified control and
+     elimination campaigns — a shift from morbidity control to elimination.
+
+   KEY POINTS: SCHISTOSOMIASIS
+     • S. haematobium worms survive in the host for years to decades. A careful travel and social history
+       identifies exposure, links it to UG symptoms and guides testing.
+     • PZQ in early-stage UG schistosomiasis can reverse the inflammatory lesions, including fibrosis,
+       caused by the host response to eggs in tissue.
+
+
+
+
+                                                               page 34 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract         PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+     • Gold standard for active infection: eggs in urine, stool, or bladder or rectal biopsy. Serology and
+       PCR are highly sensitive but may not distinguish active from resolved infection, and they are
+       impractical in endemic regions.
+
+
+ Concept — Schistosomal management follows the stage of the lesion. Egg-driven polypoid disease is
+ reversible with PZQ, so treat medically first. Fibrotic stenosis is not reversible and needs surgery.
+ Transmission is held up by snails and sanitation, so drugs alone reduce morbidity but cannot eliminate the
+ disease.
+
+ Filariasis
+   • Filariae are vector-borne tissue nematodes. Human pathogens include the agents of lymphatic
+     filariasis (LF), Onchocerca volvulus and Loa loa.
+   • LF is caused by the mosquito-borne Wuchereria bancrofti, Brugia malayi and Brugia timori, spanning
+     acute lymphatic inflammation to chronic lymphatic dilatation, with hydrocele, lymphoedema and
+     elephantiasis.
+
+ Organisms
+   • Transmission and development:
+        ◦ A mosquito bite deposits third-stage (infective) larvae, which migrate to the central lymphatics
+          and mature over 6–9 months.
+        ◦ Adults (about 20–100 mm × 0.2 mm) live in the afferent lymphatics, especially of the lower limbs
+          (inguinal, iliac, para-aortic); W. bancrofti alone also in the male genitalia (epididymis, spermatic
+          cord, testis). Adult lifespan 5–7 years.
+        ◦ Females release microfilariae (about 200 × 10 µm).
+        ◦ Periodicity: microfilaraemia is nocturnal (peaks at midnight) in most areas, matching mosquito
+          biting; diurnal in parts of the Pacific.
+        ◦ In the mosquito, microfilariae become infective larvae over 10–14 days.
+   • Wolbachia: an obligate rickettsia-like endosymbiont of W. bancrofti and Brugia, needed for
+     embryogenesis. Doxycycline kills it, reducing microfilarial release and suppressing larval moulting.
+
+ Epidemiology
+   • About 68 million people have LF, a large fall since the early 2000s.
+ LYMPHATIC FILARIAE — DISTRIBUTION AND GENITAL INVOLVEMENT
+
+                                                                                                 Limb         Circulating
+  Species        Share and distribution                                    Genital disease       pattern      antigen test
+  W.             > 90% of infections: sub-Saharan Africa, South            Almost exclusively    Whole        Yes (ELISA, ICT
+  bancrofti      and South-East Asia, western Pacific. Americas:           this species; very    limb         card)
+                 only Haiti, Dominican Republic, Guyana, Brazil            common
+  B. malayi      Asia and Pacific islands (e.g. Indonesia,                 Uncommon              Leg below    None (antibody
+                 Philippines)                                                                    the knee     dipstick
+                                                                                                              available)
+  B. timori      South-eastern Indonesia only                              Uncommon              Below the    None
+                                                                                                 knee
+
+   • The trap: genital filariasis means W. bancrofti; Brugian infection spares the genitals and affects the
+     limb below the knee.
+
+
+
+                                                               page 35 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract   PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+   • Vectors: Anopheles (rural Africa, Pacific), Culex (urban areas, especially India), Aedes aegypti (some
+     Pacific islands), and others.
+   • Transmission is inefficient, so obstructive lymphatic disease needs repeated infection over many
+     years and is seen mainly in long-term residents.
+   • Prevalence rises through childhood to the third or fourth decade, then plateaus as adult worms
+     accumulate. Lymphoedema and genital disease are rare before age 10.
+   • About one-third of the infected have overt disease, more likely in India, Papua New Guinea and
+     Africa, less in the Americas.
+
+ Pathology and Clinical Manifestations
+   • Immune phases:
+        ◦ Early (larvae, young adults): pro-inflammatory, mixed Th1 and Th2; filaria-specific IgE rises and
+          eosinophils kill microfilariae.
+        ◦ With microfilaraemia: T-cell responses down-regulated by IL-10, IgG4 blocking antibody and
+          antigen-specific suppressor T cells.
+        ◦ Some stay uninfected despite long exposure; whether protective immunity develops is unclear.
+   • Damage is cumulative (progressive scarring, lymphatic obstruction). Treatment does not readily
+     reverse it but can halt progression in active infection.
+   • LF is rarely fatal but causes the third-highest loss of disability-adjusted life years (DALYs) among
+     parasitic infections.
+   • How lymphoedema develops:
+        ◦ Parasite factors dilate lymphatics → secondary bacterial infection and inflammation against dying
+          worms (and pro-inflammatory Wolbachia).
+        ◦ Histology: granulomas around worms, ± tissue eosinophils (Fig. 31.15).
+        ◦ Vicious cycle: acute attack → worse lymphoedema → more infection → worse lymphoedema.
+        ◦ End result: obliterated, scarred lymphatics, with elephantiasis or hydrocele.
+ FIG. 31.14 Microfilaria of W. bancrofti in peripheral blood. Source: CDC, Division of Parasitic Diseases and
+ Malaria. FIG. 31.15 Section of an adult Brugia worm in a lymph node. Source: CDC.
+ Subclinical Infection
+   • Most infected people have few symptoms, even with heavy microfilaraemia, yet almost all patent
+     infections cause subclinical disease: dilated lymphatics, scrotal lymphangiectasia, microscopic
+     haematuria, proteinuria. Eosinophilia is very common.
+ Acute Adenolymphangitis
+   • Acute adenolymphangitis (ADL) is often the first manifestation: fever, lymphadenitis, lymphangitis
+     and oedema for days to a week.
+ FILARIAL VS BACTERIAL LYMPHANGITIS
+
+  Filarial (ADL)                                                                 Bacterial
+  Retrograde: spreads peripherally, away from the node                           Ascending: spreads centrally
+
+   • Genital lymphatics (W. bancrofti): funiculitis, epididymitis, scrotal pain and tenderness; lymph
+     scrotum — ruptured scrotal lymphatic vesicles → whitish discharge and secondary bacterial infection.
+   • Dermatolymphangioadenitis (DLA): fever, chills, myalgia, headache; oedematous inflammatory
+     plaques, hyperpigmentation, vesicles and ulcers, often at a skin injury. Inflammation spreads
+     proximally; thought to be bacterial.
+
+
+                                                               page 36 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract   PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+ Lymphoedema
+   • Limb oedema is the commonest chronic manifestation: lower limb more than upper, usually
+     asymmetric (limb pattern by species in the table above).
+   • The skin may exude serous fluid. The breast can be involved in women.
+ Genitourinary Manifestations
+   • Male genital disease (frequency by species in the table above); female genital involvement is poorly
+     characterised and appears uncommon.
+   • Genital disease is not usually seen before the teenage years.
+   • Acute painful (usually unilateral) epididymitis or funiculitis with fever and malaise lasts several days
+     — one of the commonest consequences of bancroftian infection.
+ Funiculoepididymitis
+   • Palpable, cord-like swelling with oedema. Usually self-limiting, but recurrence and chronic
+     lymphoedema are common.
+   • Sterility and orchitis are rare, because the testis is usually spared.
+   • Often mistaken for malignancy → unnecessary surgery, including orchidectomy.
+   • A varicocele can complicate the inflammation, adding pain and swelling.
+   • Bacterial superinfection is rare but severe: exquisite pain, septic thrombophlebitis.
+ Hydrocele
+   • The commonest result of chronic male genital disease; can be very large (Fig. 31.16).
+   • In endemic areas filarial and non-filarial hydroceles are hard to distinguish; parasites are rarely found
+     in the fluid.
+   • Suggesting LF: cord or epididymal nodules plus residence in or travel to an endemic area; a thick
+     fibrous tunica, especially with cholesterol or calcium deposits.
+   • Painless unless complicated by acute epididymitis or funiculitis. Scrotal skin may be thickened, brawny,
+     oozing lymph.
+   • Superinfection: rare in filarial hydrocele; common with elephantiasis and lymph scrotum.
+ Scrotal and penile elephantiasis
+   • Mild scrotal oedema is common early or with hydrocele; penile oedema is unusual.
+   • Massive scrotal or penile enlargement appears late, mainly where care is poorly accessible.
+   • Genital elephantiasis rarely has a cause other than LF.
+ Chyluria
+   • Damaged GU lymphatics leak lymph into urine → heavy fat and protein loss, possible malnutrition.
+     Rare.
+   • Occurs earlier than genital elephantiasis, is usually intermittent, and can remit spontaneously.
+ Tropical Pulmonary Eosinophilia
+   • Tropical pulmonary eosinophilia (TPE): paroxysmal, mainly nocturnal cough and wheeze, fever,
+     lymphadenopathy, high-grade eosinophilia, raised IgE.
+   • Cause: allergic response to microfilarial antigens; commonest in South and South-East Asia.
+   • Chest radiograph: normal to diffuse reticulonodular shadowing. Lung function: restrictive (sometimes
+     obstructive). Biopsy: eosinophilic interstitial pneumonitis.
+   • Microfilaraemia is usually absent — the trap: a negative blood smear does not exclude TPE.
+
+
+
+                                                               page 37 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract         PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+ FIG. 31.16 Huge hydrocele and scrotal elephantiasis.
+
+ Diagnosis
+   • Epidemiological context: in endemic areas lymphoedema or male genital disease is more likely LF,
+     once other causes of secondary oedema are excluded.
+   • Differential of funiculoepididymitis: TB, S. haematobium, gonorrhoea. Non-filarial hydrocele is
+     common everywhere, but in endemic areas hydroceles are more frequent and appear younger.
+ DIAGNOSTIC TESTS FOR LYMPHATIC FILARIASIS
+
+  Test                                             Detail                                             Limitation
+  Adult worm on histology                          Definitive                                         Insensitive; worms lie
+                                                                                                      deep in lymphatics
+  Ultrasound of lymphatics                         "Filarial dance sign": characteristic movement     Operator-dependent
+                                                   of live adults; ≥ 80% sensitive in some settings
+  Plain radiograph                                 Calcifications, suggestive in context              Non-specific
+  Giemsa-stained blood smear                       Microfilariae. Time sample to local periodicity Positive in only a
+                                                   (usually midnight)                              minority of infected
+  Circulating antigen (ELISA;                      W. bancrofti only. Alere Filariasis Test Strip     None exists for Brugia
+  immunochromatographic card test,                 more sensitive in the field than older
+  ICT)                                             BinaxNOW ICT
+  PCR (blood)                                      W. bancrofti and B. malayi; very sensitive         Not widely available
+  Antibody                                         Traditionally poorly specific. IgG4 less cross-    Cannot confirm active
+                                                   reactive, so more specific; species-specific       infection
+                                                   antigens help; dipstick for Brugia
+  Lymphoscintigraphy                               Reliably shows lymphatic abnormality and           Does not distinguish LF
+                                                   extent                                             from other lymphatic
+                                                                                                      disease
+
+   • "Burned-out" infection (after treatment, or years after leaving an endemic area): lasting
+     lymphoedema or genital damage with negative microfilariae and antigen. Negative tests do not
+     exclude LF; these patients are usually antibody positive.
+
+ Treatment
+   • Treat all patients with microfilaraemia, symptomatic or not, because almost all have subclinical
+     disease.
+ ANTIFILARIAL DRUGS — TARGETS, DOSES AND TOXICITY
+
+  Drug                       Target                     Regimen (LF unless stated) Signature caution
+  Diethylcarbamazine         Microfilaricidal;          Drug of choice for active     Contraindicated where onchocerciasis
+  (DEC)                      only modest                LF: 2 mg/kg orally three      or Loa loa may coexist (West and
+                             activity against           times daily. 1-day course     Central Africa) unless excluded.
+                             adults                     as effective as the           Reactions: fever, chills, arthralgia,
+                                                        traditional 12-day course.    myalgia, headache, nausea, vomiting;
+                                                        TPE: 2–3 weeks. In the        in heavy infection painful nodules,
+                                                        United States available       lymphadenitis, epididymitis from dying
+                                                        only through the CDC          worms and Wolbachia
+  Albendazole                Microfilaricidal and       400 mg twice daily for 21     Few side effects in single-dose MDA
+                             macrofilaricidal           days                          regimens
+
+
+
+
+                                                                page 38 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract      PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+
+  Drug                       Target                     Regimen (LF unless stated) Signature caution
+  Ivermectin                 Mostly                     150–400 µg/kg once          Side effects similar to DEC; caution if
+                             microfilaricidal                                       Loa loa possible
+  Doxycycline                Anti-Wolbachia;            200 mg daily for 4–8      Not in pregnancy or young children;
+                             some                       weeks (6 weeks reasonable long course hard to deliver in resource-
+                             macrofilaricidal           in the United States)     poor settings
+                             activity; sterilises
+                             adults
+
+   • What the table is for: most antifilarials kill microfilariae, not adults — hence control needs years of
+     repeated dosing until adults die of old age.
+   • Doxycycline is the exception: it improves lymphoedema and hydrocele even without active infection,
+     suggesting benefit beyond its anti-Wolbachia action.
+   • The trap: DEC with onchocerciasis or loiasis can cause severe reactions, including blindness in
+     onchocerciasis.
+   • Chronic lymphoedema: control morbidity by preventing secondary bacterial infection, hygiene, elastic
+     stockings, elevation, physiotherapy. Antiparasitics only if infection is active.
+   • Surgery:
+        ◦ Lymphatic–venous and nodal–venous anastomoses have reduced leg swelling, and reconstruction
+          has helped genital disease; long-term results unknown.
+        ◦ Genital elephantiasis rarely suits surgery; lymphadenectomy can worsen lymphatic drainage.
+        ◦ Funiculoepididymitis: decompress or excise filarial nodules to preserve testis and cord; if recurrent,
+          painful, deforming or with vascular involvement → more radical surgery.
+        ◦ Hydrocele:
+            ▪ Aspiration gives immediate relief but recurs without medical and definitive surgical treatment.
+            ▪ Hydrocelectomy for large or symptomatic hydroceles: excision of the intact sac is the
+              procedure of choice; inversion with partial excision is an alternative.
+            ▪ Suture or excise leaking or dilated lymphatics.
+            ▪ Small, non-enlarging hydroceles need no surgery.
+        ◦ Scrotal or vulval reconstruction with removal of redundant tissue helps selected patients.
+
+ Prevention and Control
+   • Personal protection: avoid mosquitoes; long-lasting insecticide-treated bednets (LLINs) are proven for
+     control and elimination.
+   • Clearing microfilariae from a community interrupts transmission, because the mosquito needs
+     microfilaraemia to transmit. But drugs do not kill all adults, so intermittent dosing must continue for
+     years until adults die of senescence. This works for W. bancrofti but is harder for Brugia, which has
+     animal reservoirs.
+   • MDA: single annual doses of albendazole plus ivermectin or DEC (sustained microfilaricidal effect):
+        ◦ Africa: albendazole + ivermectin (DEC avoided because onchocerciasis and Loa are co-endemic).
+        ◦ Elsewhere: albendazole + DEC.
+        ◦ MDA is the main reason global prevalence has fallen; about 19 million hydroceles prevented since
+          2000, halving LF hydroceles.
+   • Triple therapy (DEC + albendazole + ivermectin): small studies show deeper, longer microfilarial
+     suppression than dual therapy, with no extra serious adverse effects.
+
+
+                                                               page 39 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract   PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+ Onchocerciasis
+   • River blindness, caused by O. volvulus (vector in the comparison table).
+        ◦ 99% of cases in Africa; foci in Brazil, Venezuela and Yemen.
+        ◦ About 17 million infected, about half the 2000 figure, thanks to MDA.
+        ◦ Transmission is inefficient and focal.
+   • Adults live up to 15 years (mean 9–10) in subcutaneous nodules; microfilariae migrate through skin
+     and eye.
+   • Clinical features: dermatitis and pruritus, keratitis, chorioretinitis → blindness from corneal scarring
+     after many years.
+   • Urological relevance: late "hanging groin" or scrotal elephantiasis from recurrent lymphadenitis and
+     lost skin elasticity. Histology: atrophic, fibrotic inguinal nodes with subcutaneous oedema and fibrosis.
+     Occasionally massive inguinal lymphadenopathy.
+   • Diagnosis: skin snips for microfilariae; adult worms in nodules; microfilariae in the anterior chamber
+     on slit lamp. Serology is less developed than for LF.
+   • Onchocerca lupi (a dog parasite): a rare human pathogen — six United States residents since 2013
+     (five children), all in the south-west, with nodules containing adult worms (spine, skin and soft tissue,
+     extraocular muscle).
+   • Treatment:
+        ◦ Ivermectin 150 µg/kg once, repeated every 6–12 months until asymptomatic.
+        ◦ It acts mainly on microfilariae, but repeated doses shorten adult lifespan by about half or more.
+        ◦ Adverse effects: fever, rash, dizziness, pruritus, myalgia, arthralgia, lymphadenopathy, from dying
+          filariae and Wolbachia.
+        ◦ Caution if Loa co-infection is possible.
+        ◦ Then doxycycline 200 mg/day for 6 weeks: kills or shortens the life of most adult females and
+          sterilises the rest, clearing or greatly reducing microfilariae.
+        ◦ DEC causes blindness and systemic toxicity from inflammation against dying parasites.
+
+ Loiasis
+   • Loa loa: Central and West Africa, transmitted by Chrysops flies. Adults migrate through subcutaneous
+     tissue.
+   • Clinical features:
+        ◦ Most have asymptomatic eosinophilia.
+        ◦ Some have urticaria, migratory subcutaneous swellings and "eye worm" (adult crossing the
+          conjunctiva).
+        ◦ Haematuria and proteinuria in about 30%; lymphadenitis and hydrocele rare.
+   • Treatment:
+        ◦ DEC 2–3 mg/kg orally three times daily for 14–21 days is effective; multiple courses may be
+          needed.
+        ◦ Treatment reactions: pruritus, arthralgia, migratory swellings, fever, eye worms, diarrhoea, renal
+          failure.
+        ◦ Encephalopathy risk with high microfilaraemia (> 2500–8000 microfilariae/mL), especially with
+          ivermectin; pre-treatment apheresis may reduce it.
+
+
+
+
+                                                               page 40 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract          PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+        ◦ Albendazole 200 mg twice daily for 3 weeks has a lower encephalopathy risk than DEC and may be
+          safer with high parasitaemia.
+ THE THREE FILARIAL INFECTIONS COMPARED
+
+                           Lymphatic filariasis                      Onchocerciasis          Loiasis
+  Organism                 W. bancrofti, B. malayi, B. timori        O. volvulus             L. loa
+  Vector                   Mosquito (Anopheles, Culex,               Simulium black fly      Chrysops fly
+                           Aedes)
+  Adult site               Lymphatics (± male genitalia, W.          Subcutaneous            Migrating subcutaneously
+                           bancrofti)                                nodules
+  Microfilarial            Nocturnal (diurnal in parts of the        In skin and eye         Diurnal
+  periodicity              Pacific)
+  Wolbachia                Yes                                       Yes                     No
+  Urological disease Hydrocele, funiculoepididymitis,                Hanging groin, scrotal Haematuria and proteinuria
+                     elephantiasis, chyluria                         elephantiasis          (about 30%); rarely hydrocele
+  Drug of choice           DEC (Africa: ivermectin +                 Ivermectin →            DEC (albendazole if high load)
+                           albendazole in MDA)                       doxycycline
+  Contraindicated          DEC where Onchocerca or Loa is            DEC                     Ivermectin (and DEC) with high
+                           co-endemic                                                        microfilaraemia →
+                                                                                             encephalopathy
+
+ Concept — Filarial treatment depends on which filaria is present. Drugs kill microfilariae rather than
+ adults, so the killing is what causes harm: DEC blinds in onchocerciasis, and DEC or ivermectin can cause
+ encephalopathy in heavy Loa infection. Wolbachia is present in LF and Onchocerca but absent in Loa,
+ which is why doxycycline is useful in the first two and not the third.
+
+ Other Non-filarial Genitourinary Parasites
+ Echinococcosis
+   • Echinococcus granulosus, a cestode (tapeworm), causes cystic echinococcosis (hydatid disease).
+   • Transmission: ingested eggs in contaminated food or water, or contact with infected dogs. High
+     prevalence in pastoral communities: South America, the Mediterranean littoral, Eastern Europe, the
+     Middle East, East Africa, Central Asia, China, Russia, Australia.
+   • Cyst sites: usually liver, less often lung; kidney third (see table).
+   • Natural history: initially asymptomatic, growing 1–2 cm per year → pain or palpable mass.
+     Hydatiduria and renal colic in a minority. Renal function usually preserved.
+   • Imaging: thick-walled, fluid-filled spherical cyst, often with a calcified wall; the appearance defines
+     the stage, which guides management.
+   • Serology is adjunctive only (sensitivity 60–90%).
+   • Treatment:
+        ◦ Puncture, aspiration, injection, re-aspiration (PAIR) suits liver cysts, not lung or kidney cysts, which
+          have only surgical resection or antiparasitic drugs.
+        ◦ Albendazole (regimen in table) is the recommended medical treatment; surgical excision for some
+          lesions because of size or location.
+        ◦ Cyst rupture can cause anaphylaxis.
+        ◦ Perioperative PZQ + albendazole may reduce secondary seeding.
+
+
+
+                                                               page 41 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract         PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+ Enterobiasis
+   • Enterobius vermicularis (pinworm) occurs worldwide, temperate and tropical.
+   • Life cycle: worms live in the proximal colon → migrate to perianal skin to lay eggs, infective after 6
+     hours. Spread person to person (faecal–oral, hands, fomites).
+   • Clinical features:
+        ◦ Usually asymptomatic; perianal pruritus can be severe.
+        ◦ Ectopic migration in women via vagina, uterus and tubes into the peritoneum: dead worms and
+          eggs cause granulomas and adhesions → vulval and cervical granulomas, salpingitis, oophoritis,
+          tubo-ovarian abscess, appendicitis, peritonitis.
+        ◦ Men: rare epididymal involvement and inguinal hernia.
+   • Treatment: single-dose albendazole or mebendazole (highly effective; doses in table); alternative
+     ivermectin 200 µg/kg once. Treat household and close contacts; the 2-week repeat covers reinfection
+     and autoinfection.
+
+ Amoebiasis
+   • Entamoeba histolytica: a protozoan spread faecal–orally, commonest in the tropics.
+   • Most infected are asymptomatic; about 10% develop disease in other organs, including the kidney.
+     Cutaneous amoebiasis causes painful perianal and genital ulcers.
+   • Treatment:
+        ◦ Tissue phase: tinidazole 2 g/day for 3–5 days or metronidazole 750 mg three times daily for 10
+          days.
+        ◦ Then a luminal agent: paromomycin 8–12 mg/kg three times daily for 7 days or iodoquinol 650 mg
+          three times daily for 20 days.
+
+ Trichomoniasis
+   • Trichomonas vaginalis, a common sexually transmitted protozoan, is covered in Chapter 29.
+ OTHER NON-FILARIAL GU PARASITES — SUMMARY
+
+  Parasite          Type           Transmission           GU manifestation                  Treatment
+  E.                Cestode        Eggs from dogs,        Renal hydatid cyst (third site,   Albendazole 400 mg twice daily for
+  granulosus                       food, water            about 2–3%); hydatiduria          1–6 months ± surgery; no PAIR for
+                                                                                            the kidney
+  E.                Nematode Person to person, Ectopic female genital tract                 Albendazole 400 mg or
+  vermicularis               faecal–oral       and pelvic granulomas; rarely                mebendazole 100 mg once; repeat
+                                               epididymis                                   at 2 weeks; treat contacts
+  E. histolytica Protozoan Faecal–oral                    Renal disease; painful genital Tinidazole or metronidazole, then
+                                                          and perianal ulcers            paromomycin or iodoquinol
+  T. vaginalis      Protozoan Sexual                      —                                 See Chapter 29
+
+
+   KEY POINTS: LYMPHATIC FILARIASIS
+     • LF is caused by three species of tissue nematode transmitted by mosquitoes.
+     • LF is endemic in much of the tropics but transmitted inefficiently. Clinically apparent disease is
+       usually seen only in long-term residents of endemic countries.
+     • Diagnosis: blood smears, antibody and antigen assays, imaging and clinical assessment.
+
+
+
+
+                                                               page 42 of 43
+Chapter 31 — Tuberculosis and Parasitic Infections of the Genitourinary Tract   PARASITIC INFECTIONS OF THE UROGENITAL TRACT
+     • Treatment of active LF is DEC. Ivermectin and albendazole are also active, and all three are used in
+       mass chemotherapy.
+
+
+
+
+                                                               page 43 of 43
+
