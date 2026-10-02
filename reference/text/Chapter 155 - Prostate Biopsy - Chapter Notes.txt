@@ -1,0 +1,853 @@
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                   ULTRASONOGRAPHIC ANATOMY OF THE PROSTATE
+
+Chapter 155 — Prostate Biopsy: Techniques and Imaging
+ • Transrectal ultrasonography (TRUS) is a standard urological tool underpinning initial and active-
+   surveillance biopsy, low- and high-dose-rate brachytherapy, cryotherapy and high-intensity focused
+   ultrasound (HIFU).
+ • Radiotherapy: fiducial and radiofrequency markers for real-time tracking; polyethylene glycol hydrogel
+   spacer in anterior perirectal fat to cut rectal dose and toxicity. Benign: benign prostatic hyperplasia (BPH)
+   planning, some male infertility. Commonest use: cancer biopsy.
+ • Detection improved with prostate-specific antigen (PSA) screening and systematic biopsy; screening
+   remains controversial.
+ • Historic gold standard: 12-core TRUS-guided transrectal biopsy under local anaesthesia, now rapidly
+   challenged by the TRUS-guided transperineal approach (Europe, Australia, United States).
+ • Historical sequence: TRUS first described by Watanabe (1968) → digitally directed biopsy, common until
+   the late 1980s → TRUS-directed biopsy → systematic sextant (six-core) protocol, Hodge (1989) →
+   recommended cores increased to 12, while PSA screening expanded the biopsied population.
+ • Up to 1.3 million biopsies a year in the United States. With significant and insignificant cancer both
+   prevalent, effort centres on indications, technique and limiting complications.
+
+ULTRASONOGRAPHIC ANATOMY OF THE PROSTATE
+ • Between bladder neck and urogenital diaphragm, directly anterior to the rectum: ideal for transrectal
+   imaging.
+ • Pathological zones: anterior fibromuscular stroma (no glandular tissue), transition zone (TZ), central zone
+   (CZ), periurethral zone and peripheral zone (PZ). They are not visible sonographically as distinct entities.
+ • What TRUS does separate, especially in glands with significant BPH:
+     ◦ Posterior CZ and PZ, where most adenocarcinomas arise: homogeneous and echogenic.
+     ◦ Anterior TZ: heterogeneous.
+ • Corpora amylacea: surgical-capsule calcifications outlining the PZ–TZ plane. Diffuse calcification is normal
+   and age-related; larger symptomatic calculi may reflect infection or inflammation and need evaluation.
+ • Prostatic urethra: midline, so seen whole only in the sagittal plane; hypoechoic lumen, periurethral
+   calcification may outline it. Internal sphincter (bladder neck → verumontanum) forms a hypoechoic ring,
+   funnelling the proximal urethra. At the verumontanum it angles anteriorly, giving an anteriorly concave
+   sagittal course.
+ • Seminal vesicles (SVs): paired, posterior at the base, smooth, saccular and symmetrical. Normal size 4.5–
+   5.5 cm long × 2 cm wide.
+     ◦ Cystic SV mass: presumptively benign. Solid SV mass: significant probability of malignancy, especially
+       with a primary neoplasm elsewhere. Consider schistosomiasis for a solid mass in endemic areas.
+     ◦ Absent SV → ipsilateral renal agenesis in 79%.
+ • Vasa and ejaculatory ducts: ampullae run above the ipsilateral SV, dive caudally medial to it and fuse with
+   it to form the ejaculatory duct, which enters posteriorly (occasionally hypoechoic) and empties at the
+   verumontanum, paralleling the distal urethra.
+
+
+
+
+                                                        page 1 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                               GREY-SCALE TRANSRECTAL ULTRASONOGRAPHY
+ • Figure 155.1. Transverse and sagittal views at the verumontanum labelling anterior fibromuscular stroma,
+   dorsal vein complex, levators, neurovascular bundle, ejaculatory ducts, urethra, bladder and zones.
+Concept — Zonal anatomy is pathological, not sonographic. TRUS reliably shows only the posterior
+echogenic PZ/CZ versus the anterior heterogeneous TZ, and that is the distinction biopsy needs, because
+cancer is mostly posterior.
+
+GREY-SCALE TRANSRECTAL ULTRASONOGRAPHY
+ • Commonest prostate imaging modality: cancer detection, infertility, volume for brachytherapy and BPH.
+ • Probes: side-fire, end-fire, biplane; 6–10 MHz; presets on modern machines. Biplane (axial + sagittal
+   linear array) suits brachytherapy, ablation and transperineal work. End- and side-fire scan an arc of nearly
+   180°. End-fire vs side-fire: no difference in detection, initial or repeat (prospective studies).
+PROBE FREQUENCY: RESOLUTION VERSUS DEPTH
+                      Higher frequency (standard 7
+                      MHz)                                    Lower frequency (older 4 MHz)
+ Spatial              High                                    Lower
+ resolution
+ Focal range          1–4 cm from transducer: closer          2–8 cm: deeper
+ Best for             PZ, where most cancers arise            Anterior delineation of large glands, so more accurate
+                                                              volume
+ Weakness             Poorer depth                            Poor internal architecture
+
+ • Higher frequency → focal range closer to the transducer; modern systems adjust frequency mid-
+   examination to the depth of interest.
+ • Coupling medium: ultrasound does not cross air, so gel sits between transducer and rectum; with a
+   sheath, both inside and outside the sheath.
+
+Machine Settings
+ • Magnification: low for measurement (whole gland on one screen); high for biopsy (to follow the needle).
+ • Gain: set per patient (sometimes per region) so the normal PZ is medium grey, the reference for
+   hypoechoic (darker), isoechoic, hyperechoic (lighter) and anechoic (black).
+
+Techniques
+ • Complete evaluation: scan in sagittal and transverse planes to calculate volume → inspect CZ and PZ for
+   hypoechoic lesions and contour abnormalities → assess periprostatic fat planes → visualise SVs and vasa
+   fully.
+Probe Manipulation
+ • Transrectal: left lateral decubitus. Transperineal: lithotomy.
+PROBE MANIPULATION BY PLANE AND PROBE TYPE
+ Plane            Probe                            Manoeuvre                   Result
+ Transverse       Radial or biplane (dedicated Advance or withdraw             Cephalad: base, SVs, bladder neck. Caudal
+                  transverse crystal)                                          (toward anal sphincter): apex, proximal
+                                                                               urethra
+ Transverse       End- or side-fire                Angle handle, anal          Handle toward scrotum → cephalad; toward
+                                                   sphincter as fulcrum        sacrum → caudal
+ Sagittal         Side-fire (usually)              Rotation                    Clockwise → left side; anticlockwise → right
+
+
+
+                                                          page 2 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                                GREY-SCALE TRANSRECTAL ULTRASONOGRAPHY
+
+ Plane            Probe                            Manoeuvre                   Result
+ Sagittal         End-fire (usually)               Angle up or down, anal      In left lateral decubitus: handle down (floor)
+                                                   sphincter as fulcrum        → right side; handle up (ceiling) → left
+ Sagittal,        Freehand biplane                 Partial rotation plus       Excellent sagittal views
+ lithotomy                                         angling
+ Sagittal,        On a stabiliser                  Rotation only               No angling possible
+ lithotomy        (brachytherapy stepper)
+
+ • Urologists prefer angling: cystoscope-like and less uncomfortable. Reprocessing: American Urological
+   Association (AUA)/Society of Urological Nurses and Associates white paper (2012, updated 2016).
+Concept — Every transrectal manoeuvre uses the anal sphincter as a fulcrum, so the image moves opposite
+to the handle. The one exception is rotation, which has no fulcrum.
+
+Volume Calculations
+ • Planes: transverse and anteroposterior (AP) at the widest axial diameter; longitudinal sagittally, just off
+   midline (bladder neck obscures the cephalad extent). AP is better sagittal (perpendicular to longitudinal);
+   axial AP overestimates if the plane is oblique.
+PROSTATE VOLUME FORMULAS
+ Assumed shape                               Formula                                       Dimensions needed
+ Ellipsoid                                   π/6 × transverse × AP × longitudinal          3
+ Sphere                                      π/6 × transverse³                             1
+ Prolate (egg-shaped) spheroid               π/6 × transverse² × AP                        2
+ Planimetry (no shape assumed)               Sum of serial transverse areas                Serial images; most precise
+
+ • Despite the geometric assumptions, all formulas correlate >0.90 with radical prostatectomy specimen
+   weight, because 1 cm³ ≈ 1 g of prostate.
+ • Normal size: mature gland 20–25 g, stable until about age 50; average at 60–70 years ≈ 48 g.
+ • AUA BPH/lower urinary tract symptoms (LUTS) guideline (2021): assess size (TRUS, abdominal
+   ultrasound, cystoscopy or cross-sectional imaging) before intervention, as drugs and operations suit
+   specific size ranges; size also shapes cancer surgery.
+ • Planimetry, used when precision matters (brachytherapy planning): lithotomy → probe mounted on a
+   stepper → serial transverse images at set intervals (3–5 mm) through the gland → area of each → sum
+   and integrate to give volume.
+ • PSA density (PSAD) = serum PSA ÷ volume: separates benign from malignant causes of raised PSA with a
+   benign digital rectal examination (DRE). >0.15 ng/mL/cc suggests malignancy. For repeat-biopsy cancer:
+   moderate sensitivity, poor specificity; high operator variability. Free-to-total PSA, other biomarkers and
+   multiparametric MRI (mpMRI) now give similar information.
+
+Cystic Lesions of the Prostate
+ • Common on TRUS. Simple cysts look the same as elsewhere in the body: thin-walled, anechoic, with
+   posterior acoustic enhancement. Congenital or acquired; rarely clinically significant.
+PROSTATIC CYSTS: MÜLLERIAN VERSUS WOLFFIAN VERSUS ACQUIRED
+ Cyst              Origin                          Position and appearance           Associations
+ Enlarged          Müllerian                       Midline anechoic diverticulum     Genital anomalies: hypospadias
+ prostatic                                         of the posterior urethra at the   (commonest), ambiguous genitalia,
+ utricle                                           verumontanum                      undescended testes, congenital
+                                                                                     urethral polyps
+
+
+                                                           page 3 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                               GREY-SCALE TRANSRECTAL ULTRASONOGRAPHY
+
+ Cyst              Origin                          Position and appearance          Associations
+ Müllerian         Müllerian (ducts fail to        Midline, ovoid to pear-shaped, Screen for unilateral renal agenesis
+ duct cyst         fuse with urethra)              neck toward the
+                                                   verumontanum
+ Ejaculatory       Wolffian                        Small, off the midline           Ejaculatory duct obstruction;
+ duct cyst                                                                          azoospermia
+ SV cyst           Wolffian (congenital or         Lateral, paraprostatic           Cystic renal disease; renal agenesis in
+                   acquired ejaculatory duct                                        up to two-thirds
+                   obstruction)
+ Acquired TZ       Haemorrhagic                    Within TZ                        None
+ cyst              degeneration of BPH
+                   nodules
+ Acquired          No proven cause                 Outer gland                      None
+ outer-gland
+ cyst
+
+ • Müllerian = midline; wolffian = lateral (ejaculatory duct cyst just off midline). Renal agenesis is far
+   commoner with wolffian SV cysts, though both warrant renal assessment.
+
+Prostate Cancer Imaging on Transrectal Ultrasonography
+ • Once thought pathognomonic; now sample every hypoechoic PZ lesion, but absence does not preclude
+   biopsy: 39% of cancers are isoechoic, up to 1% hyperechoic.
+ • Split evidence: one large series found equal detection with or without a lesion; another found lesion
+   cores almost twice as often positive, so targeting remains worthwhile.
+ • False-positive hypoechoic lesions: commonest are BPH foci and acute or chronic prostatitis; also
+   granulomatous prostatitis, prostatic infarct and lymphoma.
+ • Note contour abnormalities and PZ asymmetry. Extraprostatic extension (EPE): focal loss of bright
+   periprostatic fat; microfoci invisible.
+
+ KEY POINTS: GREY-SCALE TRANSRECTAL ULTRASONOGRAPHY
+   • Zonal anatomy is not visible, but PZ is distinguishable from TZ, so biopsies can be aimed at the PZ.
+   • Benign cysts: thin-walled with through-transmission; may become symptomatic if infected.
+   • Planimetry with a template is needed for highly accurate volume (brachytherapy).
+   • Sample hypoechoic foci, but up to 39% of cancers are invisible on grey scale.
+
+
+Transrectal Ultrasonography Appearance After Treatment
+TRUS APPEARANCE AFTER TREATMENT
+ Treatment                       Volume change                        Appearance and interpretation
+ External-beam                   Decreased by 6 months                Diffusely hypoechoic, poorly defined anatomy. Large
+ radiotherapy                                                         non-responding tumours barely change; small
+ (monotherapy)                                                        responding foci become isoechoic. TRUS correlates
+                                                                      poorly with pathology and outcome
+ Permanent seed                  Initial oedema, then shrinkage:      Seeds hyperechoic with posterior shadowing. Ideal
+ brachytherapy                   about one-third at 1 year, over      implant: even distribution, periurethral sparing, no
+                                 half by 8 years. Unaffected by       errant extraprostatic seeds
+                                 neoadjuvant hormones
+
+
+
+
+                                                           page 4 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                              PROSTATE BIOPSY: TECHNIQUES AND OUTCOMES
+
+ Treatment                       Volume change                        Appearance and interpretation
+ Androgen deprivation            Average ≈30% decrease: up to         Occurs with or without cancer
+ (luteinising hormone–           60% in large, as little as 10% in
+ releasing hormone               small glands
+ analogues)
+ 5α-reductase inhibitor          ≈21% at 6 months                     None specific
+ (finasteride)
+ Radical prostatectomy           Not applicable                       Normal: smooth tapering of bladder neck to urethra.
+                                                                      Nodule anterior to anastomosis = ligated dorsal vein
+                                                                      complex. Nodular bladder neck may reflect the
+                                                                      tapering technique (fish-mouth, tennis-racket,
+                                                                      parachuting)
+
+ • Suspicious after prostatectomy: any hyper- or hypoechoic lesion or broken retroanastomotic fat plane;
+   recurrence is hypoechoic in 75–95%; colour Doppler helps.
+ • Blind anastomotic biopsy for PSA-only recurrence (no nodule) is usually uninformative; biopsy of a
+   TRUS-visible lesion, even with normal DRE, can be diagnostic. Contrast pelvic MRI or prostate-specific
+   membrane antigen (PSMA) positron emission tomography (PET) with CT or MRI now finds targets.
+Concept — Every treatment shrinks the gland and flattens its echotexture toward hypoechoic, erasing the
+grey-scale contrast TRUS relies on. After treatment, grey-scale TRUS is therefore a targeting aid for visible
+abnormalities, not a staging tool.
+
+Transrectal Ultrasonography and Other Malignancies
+OTHER MALIGNANCIES ON TRUS
+ Tumour                                  TRUS appearance                   Pitfall or note
+ Transitional cell (urothelial)          Generally not detectable;         Must be biopsy-confirmed: bacillus Calmette–
+ carcinoma involving the prostate        stromal lesions hypoechoic in     Guérin (BCG) granulomas are also hypoechoic
+                                         71%
+ Squamous cell carcinoma                 Irregular anterior mass,          Extension from bladder or urethra is much
+                                         relatively hyperechoic            commoner than primary prostatic SCC
+ Adenoid cystic / basal cell             Multiple, evenly distributed      Rare but potentially fatal; cribriform or adenoid
+ carcinoma                               small anechoic cysts              cystic histology
+ Sarcoma                                 Irregular hypoechoic mass         Rhabdomyosarcoma is isoechoic to normal
+                                         with anechoic necrosis            prostate
+ Haematological / lymphoid               Generally not visualised          Lymphocytic infiltrate on biopsy often
+                                                                           misattributed to chronic inflammation
+
+ • Bladder wall thickening on prostate TRUS usually reflects BPH-related hypertrophy, but may suggest
+   bladder malignancy, as may an incidental bladder mass.
+
+PROSTATE BIOPSY: TECHNIQUES AND OUTCOMES
+Indications for Prostate Biopsy
+ • Screening debate: Chapter 157. Pre-PSA: DRE suspicion → digitally directed biopsy; PSA screening made
+   TRUS biopsy standard of care. TRUS without biopsy has little value for cancer.
+ • Initial biopsy detects cancer in ≈30%. Core needle biopsy is the technique of choice; fine-needle
+   aspiration is obsolete.
+ • Screening raised organ-confined, curable disease but brought overdiagnosis and overtreatment.
+
+
+
+                                                           page 5 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                                 PROSTATE BIOPSY: TECHNIQUES AND OUTCOMES
+ • Historic trigger: PSA >4.0 ng/mL. The Prostate Cancer Prevention Trial (PCPT) showed no safe PSA
+   threshold at any age: with PSA ≤4.0, 15% had cancer, and nearly 15% of those were Gleason ≥7.
+SCREENING TRIALS: ERSPC VERSUS PLCO
+ Trial                                    Result on prostate cancer mortality
+ European Randomized Study of             Net benefit
+ Screening for Prostate Cancer
+ (ERSPC)
+ Prostate, Lung, Colorectal and           No benefit on cancer-specific survival
+ Ovarian (PLCO) Cancer Screening
+ Trial (United States)
+ Reanalysis of both using mean            Both give “compatible evidence that screening reduces prostate cancer
+ lead-time estimates                      mortality”. The accompanying editorial: the question is no longer whether
+                                          screening can do good, but whether behaviour can change so that it does more
+                                          good than harm
+
+ • Organisations range from informed decision-making to rejecting screening. Weigh health, age, family
+   history, options, wishes and growing concern over biopsy morbidity and mortality; online nomograms
+   help.
+ • Elevated risk: age >50; family history and >45; African ancestry; baseline PSA >1 ng/mL at 40 or >2 ng/mL
+   at 60.
+ • Absolute PSA cut-offs largely abandoned for risk stratification and PSA kinetics. Adjuncts (free-to-total
+   ratio, velocity, PSAD) are not uniformly reliable; genomic markers address PSA's poor specificity;
+   inherited risk increasingly recognised.
+GUIDELINE BODIES: SCREENING AND THE DECISION TO BIOPSY
+ Body                          Position
+ AUA / Society of              Shared decision-making. Baseline PSA at 45–50; regular PSA every 2–4 years at 50–69.
+ Urologic Oncology             Germline mutation, strong family history or African ancestry: start at 40–45
+ (SUO), 2023
+ National Comprehensive        Biopsy for abnormal DRE with raised PSA, or repeat PSA >3 ng/mL with abnormal
+ Cancer Network (NCCN),        mpMRI (Prostate Imaging Reporting and Data System [PIRADS] version 2 ≥3). PSA
+ 2023                          velocity alone, or abnormal DRE with normal PSA, is insufficient but may be combined
+                               with other risk factors. Selective biomarkers before initial or repeat biopsy (below)
+ US Preventive Services        Age 55–69: PSA screening is an individual decision after discussing risks and benefits
+ Task Force (USPSTF),
+ 2018
+
+NCCN BIOMARKERS FOR THE DECISION TO BIOPSY OR RE-BIOPSY
+ Category                       Assay                                           Target
+ Serum PSA derivatives          Prostate Health Index (PHI), 4Kscore            PSA isoforms / kallikreins
+ Tissue                         ConfirmMDx                                      Stromal (field-effect) hypermethylation
+ Urine                          MiPS, ExoDx                                     ERG
+ Urine                          SelectMDx                                       DLX1 and HOXC6
+ Urine                          PCA3                                            PCA3
+
+ • Prebiopsy mpMRI is now widely endorsed and enables targeted sampling.
+
+
+
+
+                                                           page 6 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                                 PROSTATE BIOPSY: TECHNIQUES AND OUTCOMES
+Box 155.1 Commonly Cited Indications for Transrectal Ultrasonography Alone and Transrectal
+Ultrasonography With Initial and Follow-Up Prostate Biopsy
+ • TRUS without biopsy: treatment-planning volumes (brachytherapy, cryotherapy, BPH therapy such as
+   transurethral microwave thermotherapy and radiofrequency ablation); volume during hormonal
+   downsizing before radiotherapy; fiducial or radiofrequency marker placement; azoospermia work-up
+   (ejaculatory duct and SV cysts); aspiration or unroofing of cysts and drainage of prostatic abscess.
+ • Initial biopsy: informed-choice diagnosis in an asymptomatic man (PSA plus risk factors); very suspicious
+   DRE or nodule (5–30% cancer risk); symptoms suggesting cancer; findings suggesting metastasis (bone
+   lesions, adenopathy); cancer found at transurethral resection done for presumed benign disease.
+ • Repeat biopsy: rising or persistently raised PSA; atypical intraductal proliferation (50%); atypical small
+   acinar proliferation (ASAP; 50% cancer risk); positive urinary PCA3 or newer genomic tests (e.g.
+   ConfirmMDx) with persistent suspicion; suspicious MRI lesion with persistent PSA elevation; local versus
+   systemic recurrence after ablative therapy.
+ • Follow-up biopsy: active surveillance protocol.
+   Modified from Heidenreich et al. (2014); Thomsen et al. (2014); Gomella and Amirian (2015).
+
+Contraindications to Prostate Biopsy
+ • Contraindications: significant coagulopathy; severe immunosuppression; acute urinary tract infection
+   (UTI) or prostatitis.
+ • Painful anorectal disease or anal stenosis → general or regional anaesthesia.
+ • No anus (after abdominoperineal resection) → in-bore MRI biopsy, or transperineal biopsy with an end-
+   fire probe on the perineum (theatre under general, or local/regional by an experienced sonographer).
+   Limitation: the prostate lies centimetres away, so definition is poor, especially base and SVs.
+
+Preparing Patients for Biopsy
+ • Informed consent; stop herbal supplements (undeclared agents); a little urine in the bladder shows the
+   prostatovesical junction.
+ANTITHROMBOTIC MANAGEMENT BEFORE BIOPSY
+ Agent                                                  Action
+ Low-dose aspirin                                       Continue
+ Warfarin; clopidogrel (an antiplatelet agent)          Stop 5–7 days before
+ Direct oral anticoagulants: apixaban,                  Stop 2–5 days before. Rivaroxaban: stopping may raise stroke risk →
+ dabigatran, rivaroxaban                                bridge with short-acting heparin
+ Warfarin or coagulopathy, low                          Do not biopsy until international normalised ratio (INR) <1.5
+ thromboembolic risk
+ Warfarin, high thromboembolic risk (e.g.               Bridge with unfractionated or low-molecular-weight heparin
+ mechanical valve)
+
+Antibiotic Prophylaxis
+ • Rising complications, mostly infective admissions, renewed the focus on prophylaxis.
+ • Transrectal biopsy is Class III (contaminated): unlike other lower-tract procedures, prophylaxis for every
+   patient, regardless of risk factors.
+ • AUA 2019 best practice: fluoroquinolones; first- or second-generation cephalosporin ± aminoglycoside;
+   third-generation cephalosporin (evidence level Ib). Intramuscular acceptable for all; oral only for
+   quinolones. Give ≥1 hour before; ≤24 hours.
+
+
+
+
+                                                              page 7 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                                 PROSTATE BIOPSY: TECHNIQUES AND OUTCOMES
+ • Transient bacteraemia is common, usually silent. Endocarditis or prosthetic joint, pacemaker or
+   defibrillator risk: IV ampicillin (vancomycin if penicillin-allergic) + gentamicin → oral fluoroquinolone for
+   2–3 days.
+ • Food and Drug Administration warning (2016): tendinitis and rupture, peripheral neuropathy, central
+   nervous system effects, myasthenia gravis → AUA caps fluoroquinolone prophylaxis at 24 hours.
+ • Cochrane review (2011): antibiotics cut bacteriuria, bacteraemia, fever, UTI and admission versus
+   placebo; longer or multi-dose courses no better than short or single-dose.
+TABLE 155.1 AMERICAN UROLOGICAL ASSOCIATION 2019 BEST-PRACTICE POLICY RECOMMENDED ANTIBIOTICS FOR
+ROUTINE PROSTATE BIOPSY*
+ Class                             Agents and dosing                                                            Route pattern
+ Fluoroquinolones†                 Levofloxacin 500 mg single dose; ciprofloxacin 500 mg q12h;                  Oral
+                                   ofloxacin 400 mg q12h
+ Aminoglycosides‡                  Gentamicin 5 mg/kg; tobramycin 5 mg/kg; amikacin 15 mg/kg,                   IV single dose
+                                   each a single dose
+ First-generation                  Cephalexin 500 mg q6h; cephradine 500 mg q6h; cefadroxil 500 mg              Oral, except
+ cephalosporins                    q12h; cefazolin 1 g IV q8h                                                   cefazolin
+ Second-generation                 Cefaclor 500 mg q8h; cefprozil 500 mg q12h; cefuroxime 500 mg                Oral, except
+ cephalosporins                    q12h; cefoxitin 1–2 g IV q6h                                                 cefoxitin
+ Third-generation                  Ceftizoxime 1 g q8h; ceftazidime 1 g q12h; ceftriaxone 1–2 g single          All IV
+ cephalosporins                    dose; cefotaxime 1 g q8h
+ Alternatives                      Aztreonam 1–2 g IV q8h; trimethoprim-sulfamethoxazole 1 double- IV / oral
+                                   strength tablet q12h
+*Duration ≤24 hours (level of evidence Ib). †Fluoroquinolones: increased risk of tendinitis and tendon rupture. ‡Aztreonam can
+replace aminoglycosides in renal insufficiency. Modified from the AUA Best Practice Policy Statement on Urologic Surgery
+Antimicrobial Prophylaxis.
+ • What the table tests: the single-dose agents (levofloxacin, the aminoglycosides, ceftriaxone); the
+   aztreonam-for-aminoglycoside swap in renal impairment; and fluoroquinolone tendon toxicity.
+ • Trap: the table lists oral cephalosporins and trimethoprim-sulfamethoxazole, yet the 2019 statement
+   recommends the oral route only for quinolones. The table is the general AUA surgical prophylaxis list, not
+   route advice specific to transrectal biopsy.
+ • Rectal swab-directed prophylaxis: a resistant organism on swab does not reliably predict infection; cost-
+   effectiveness unproven against empirical therapy guided by local susceptibility. A risk-adjusted strategy
+   (resistance monitoring, combined oral + intramuscular agents, selective swabbing of high-risk men) works
+   prospectively.
+ • Antimicrobial exposure within 6 months is the most consistent risk factor → augmented (>1 agent) or
+   targeted prophylaxis.
+Table 155.2 Risk Factors for Prostate Biopsy Infection
+ • Medical history: diabetes; significant comorbidity (Charlson score >1); immunosuppression (steroids,
+   chemotherapy, HIV).
+ • Urological history: previous UTI or prostatitis; previous biopsy infection; greater cumulative number of
+   biopsies.
+ • Exposure to antibiotic resistance: antibiotics in the last 6 months; recent international travel (endemic
+   resistance in India and South-East Asia; antibiotics taken to prevent traveller's diarrhoea); health-care
+   worker.
+ • Colonisation: fluoroquinolone-resistant Escherichia coli on rectal culture.
+
+
+
+                                                            page 8 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                           PROSTATE BIOPSY: TECHNIQUES AND OUTCOMES
+   From AUA: Prevention and Treatment of the More Common Complications Related to Prostate Biopsy Update.
+ • Pattern: each factor marks either a host that cannot contain bacteraemia or a rectum colonised by
+   resistant organisms; the responses are augmented or targeted prophylaxis, or avoiding the rectum
+   (transperineal).
+Concept — The transrectal needle inoculates rectal flora into the prostate with every core. Prophylaxis
+therefore has to be universal, and its failures are driven by fluoroquinolone resistance.
+Cleansing Enema
+ • Self-administered; improves the acoustic window; no proven effect on infection, so some omit it.
+Analgesia
+ • TRUS-guided periprostatic block: 1–2% lidocaine, 7-inch 22-gauge spinal needle via the biopsy channel.
+   Variants: 5 mL each side at the hyperechoic SV–prostate junction fat pad (authors'); 10 mL from SV
+   junction along the lateral gland, base to apex; intraprostatic injection augments. Saturation: up to 22 mL
+   of 1%; avoid intravascular injection.
+ • Topical intrarectal anaesthetic is inferior to periprostatic block; useful when probe insertion is tender.
+Patient Positioning
+ • Left lateral decubitus, knees and hips at 90°, arm board, pillow between knees, buttocks flush with the
+   table edge; right lateral or lithotomy if needed.
+ • Lithotomy preferred for: transperineal biopsy, brachytherapy planning, Doppler and contrast studies
+   (gravity distorts vascular patterns), fiducial markers.
+
+Transrectal Prostate Biopsy Techniques
+ • Sequence: DRE (nodularity, anal pathology) → volume → transverse and sagittal survey from base to
+   apex, noting lesions (hypo- or hyperechoic, calcification, contour, cysts) → biopsy.
+ • Spring-driven 18-gauge gun through the needle guide; path best seen sagittally on a ruled puncture line.
+ • Mechanics: throw 15–25 mm; core 1.0–1.5 cm; tip runs 0.5 cm beyond the sample, so advancing past the
+   capsule samples anterior tissue and misses the PZ. Technique: indent the capsule → withdraw a few
+   millimetres → fire.
+ • Less bleeding and pain: never reposition with the needle on the rectal wall; compress the mucosa with
+   the probe (like pulling skin taut for phlebotomy).
+ • Specimens: 10% formalin. AUA white paper: site-specific labelling not shown to change management; ≤2
+   cores per jar (overpacking lowers detection).
+Sextant Biopsy
+ • Hodge (1989): base, mid and apex bilaterally, parasagittal; a major advance on digitally and lesion-
+   directed biopsy.
+ • Flaw: parasagittal cores took much TZ, little PZ, while most cancers arise in the posterolateral PZ
+   (McNeal): hence sextant false negatives.
+Extended-Core Biopsy Techniques
+ • Laterally directed cores came first and consistently raise detection; six cores are now inadequate.
+ • Extended 12-core (adds apical and far-lateral cores): maximal detection, fewer repeat biopsies, fewer
+   insignificant diagnoses; AUA-endorsed.
+ • 6 → 12 cores raises detection; 12 → 18–21 (saturation) initially does not. Yet initial saturation meant less
+   cancer on later biopsy, and later cancers were mostly insignificant. Saturation is mainly for prior
+   negatives.
+
+
+
+                                                        page 9 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                                 PROSTATE BIOPSY: TECHNIQUES AND OUTCOMES
+ • TZ and SVs not routinely sampled (low initial yield). TZ/anterior cores: persistent PSA after negative
+   biopsy, or initially if gland >50 mL; MRI now finds anterior tumours. SV biopsy: palpable abnormality;
+   some add PSA >30 ng/mL or pre-brachytherapy.
+FIGURE 155.5 SYSTEMATIC BIOPSY SCHEMES
+ Scheme                       Cores                     Source                        Status
+ Sextant                      6                         Hodge and associates,         Inadequate today
+                                                        1989
+ 10-core                      10                        Presti et al., 2000           Extended
+ 12-core (double              12                        Bjurlin et al., 2013          Currently recommended; AUA-
+ sextant)                                                                             endorsed
+ 13-core five-region          13                        Eskew et al., 1997            Extended
+ Saturation                   >12 (18–21 or             Not applicable                Repeat setting
+                              more)
+
+Repeat and Saturation Prostate Biopsy
+ • Negative biopsies with persisting concern is common; yield falls with each successive biopsy.
+ • ERSPC: after initial sextant, yield on biopsies 2–4 was 22% → 10% → 5% → 4%. Positive predictive value
+   (PPV) held steady for biopsy-naive men across rounds but fell for previously negative men; repeat
+   biopsies were a quarter of all biopsies yet found under a tenth of aggressive cancers.
+ • Saturation (>12 cores) after negatives: early series improved detection, but anaesthetic needs mean
+   hospital, and a later large prospective study found no significant gain.
+ • Second biopsy justified if concern persists; third and fourth only for high suspicion or poor prognostic
+   features; target the apex. Now add genomic testing of prior tissue and mpMRI.
+Transurethral Prostate Biopsy
+ • Once used for TZ cancer or after negative TRUS. Solitary TZ cancers: <5%. Now largely obsolete: TRUS
+   under local samples the TZ, MRI (especially fusion) finds anterior cancers, and transperineal biopsy
+   reaches them.
+Concept — Biopsy strategy evolved by following where cancer actually lies, from palpable nodules to the
+posterolateral PZ and then to anterior and apical tumours. Each gain came from better geometry, not more
+cores: 12 beats 6, but 21 does not beat 12.
+
+Risks and Complications of Transrectal Prostate Biopsy
+ • Serious complications needing admission: <2%, but in a large population series 30-day admissions rose
+   (1.0% → 4.1%), mostly infective.
+ • PLCO and ERSPC: no excess mortality; infection <1%. Fear alone should not deter healthy men with long
+   life expectancy.
+COMPLICATIONS OF TRANSRECTAL BIOPSY
+ Complication                         Reported rate              Key management
+ Haematuria                           23–63%; clot               Self-limiting. Clot retention → catheter, manual washout;
+                                      retention 0.7%             severe → continuous bladder irrigation
+ Rectal bleeding                      2.1–21.7%                  Pressure with probe or finger; escalation below
+ Haematospermia                       9.8–50.4%                  Counsel beforehand. Lasts about a month, over several
+                                                                 ejaculations; no predictor of duration
+ Infection (any)                      0.1–7.0%; UTI 2–6%         Mostly UTI or low-grade fever; oral or IV antibiotics
+ Sepsis                               0.3–3.1%                   Carbapenem until cultures return
+
+
+                                                            page 10 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging                           PROSTATE BIOPSY: TECHNIQUES AND OUTCOMES
+
+ Complication                        Reported rate          Key management
+ Hospitalisation for infection       0.6–4.1%               Up to 2 weeks of antibiotics
+ Vasovagal reaction (moderate        1.4–5.3%               May end the procedure; Trendelenburg + IV fluids
+ or severe)
+ Acute urinary retention             0.2–0.4%               Temporary catheter; risk with large glands, high
+                                                            International Prostate Symptom Score (IPSS)
+ Erectile dysfunction                Incompletely           Transient; anxiety contributes
+                                     characterised
+
+ • “Most common complication” has two answers: bleeding overall (even with normal coagulation) and
+   infection among serious complications and admissions: frequency versus severity.
+ • Two admission figures: <2% is all serious complications; 0.6–4.1% is contemporary infective admission, its
+   top end from the later, higher-resistance era.
+Postbiopsy Infections
+ • Fluoroquinolone-resistant E. coli dominates, bred by fluoroquinolone use in health care and the food
+   supply. Admissions and fatal sepsis are rising, but sepsis mortality is no higher than for similar
+   infections.
+ • Sepsis: systemic inflammatory response to infection (fever, hypothermia, tachypnoea, tachycardia,
+   confusion, hypotension). Septic shock: hypotension despite adequate fluid resuscitation. Any post-
+   biopsy fever → assess for sepsis.
+ • Prevention: swab-targeted prophylaxis has some utility; no bowel preparation helps; transperineal is
+   promising.
+ • Sensitivities: resistant to fluoroquinolones, trimethoprim-sulfamethoxazole, ampicillin; susceptible to
+   second- and third-generation cephalosporins, amikacin, carbapenems. Risk factors as Table 155.2, plus
+   number of prior biopsies (active surveillance).
+ • Treatment: no empirical fluoroquinolone → carbapenem for sepsis until cultures → up to 2 weeks if
+   admitted.
+Bleeding
+ • Intermediate bleeding-risk procedure: hold antithrombotics and herbal remedies by class; low-dose
+   aspirin may continue.
+ • Persistent brisk rectal bleeding, escalation: direct pressure (probe or finger) → tamponade with an
+   inflated probe sheath or Foley balloon → anoscopy or colonoscopy with adrenaline and polidocanol or
+   other sclerosants → angiographic embolisation → transrectal exploration and suturing.
+Other Complications
+ • Vasovagal reaction stems from anxiety and probe discomfort. Any biopsy may raise the IPSS, but only
+   transiently.
+ • Erectile dysfunction: first blamed on neurovascular bundle injury, but data conflict. It is worse in men
+   diagnosed with cancer, which implicates anxiety.
+Concept — Transrectal biopsy's complications split by route. Bleeding is frequent but trivial; infection is rare
+but dangerous, and the danger tracks antibiotic resistance. This asymmetry drives both the prophylaxis rules
+and the move to the perineum.
+
+
+
+
+                                                        page 11 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging             ADVANCED AND INVESTIGATIONAL TECHNIQUES FOR PROSTATE BIOPSY
+
+ADVANCED AND INVESTIGATIONAL TECHNIQUES FOR PROSTATE BIOPSY
+Colour and Power Doppler Transrectal Ultrasonography
+COLOUR VERSUS POWER DOPPLER
+                                                                           Power Doppler (enhanced colour, colour
+                   Colour Doppler                                          amplitude imaging, colour angiography)
+ Principle         Frequency shift                                         Amplitude shift
+ Dependence        Velocity- and direction-dependent                       Velocity- and direction-independent
+ Display           By convention red toward, blue away from                Flow presence only
+                   transducer; not artery- or vein-specific
+ Strength          High specificity, low sensitivity for cancer            Detects slower flow, less angle-dependent, so
+                                                                           better for tumour neovascularity
+ Cancer            Neither proven superior; neither accurate enough to replace systematic biopsy
+ detection
+
+ • Doppler beats grey scale alone, but many cancers stay invisible to every sonographic mode.
+ • Rationale: angiogenesis raises microvessel density, which tracks metastasis, stage and disease-specific
+   survival and is higher in cancer than surrounding tissue.
+ • Prognosis: colour flow in the dominant tumour → markedly more PSA recurrence after radical retropubic
+   prostatectomy, higher grade, more SV invasion; power Doppler signal also tracks Gleason score.
+ • Unenhanced Doppler cannot see tumour microvessels (10–15 µm); it detects larger feeding vessels.
+ • Microbubbles (as in echocardiography): 1–10 µm air or heavy gas in albumin or polymer shells, or lipid or
+   surfactant coats; they amplify microvascular signal.
+ • Contrast-enhanced TRUS (CE-TRUS): higher sensitivity, specificity preserved; targeting enhancing lesions
+   improves detection; recommended for routine care by a European multicentre trial; 3D enhanced power
+   Doppler adds accuracy (Fig. 155.7: lesion seen only after contrast).
+ • Flash-replenishment imaging (software): high-power flash pulses destroy microbubbles → low-power
+   pulses show replenishment → maximum-intensity composite of the vascular architecture, down to
+   capillary level → real-time targeted biopsy. Targeted cores are more often positive than systematic cores.
+ • Elastography may outperform Doppler: stiff tissue suggests malignancy (Fig. 155.8: stiff right-base focus,
+   Gleason 4+4=8). Early: manual compression strain, operator-dependent; newer: beam compression or
+   shear-wave velocity, operator-independent. Shear-wave stiffness rises with Gleason score, but targeted
+   biopsy often missed cancer in a large series, so it complements, not replaces, systematic biopsy.
+
+Other Newer and Investigational Imaging and Biopsy Techniques
+ • Prostate HistoScanning: proprietary backscatter tissue analysis; unreliable for cancer and inferior to
+   mpMRI.
+
+Multiparametric Prostate Ultrasound
+ • Ultrasound analogue of mpMRI: grey scale + vascularity (Doppler, contrast) + stiffness; alternative or
+   complement to MRI.
+
+Micro-Ultrasound
+ • 29 MHz (versus conventional 7–9 MHz) → resolution 70 µm (versus 150–300 µm), close to histological
+   architecture.
+ • Prostate Risk Identification using Micro-Ultrasound (PRI-MUS): validated lesion scoring analogous to
+   PIRADS.
+
+
+                                                         page 12 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging             ADVANCED AND INVESTIGATIONAL TECHNIQUES FOR PROSTATE BIOPSY
+ • Multicentre registry: micro-ultrasound (MUS) targeting matched or slightly beat mpMRI for sensitivity
+   and negative predictive value (NPV); specificity and PPV low for both. No IV contrast: key for renal
+   insufficiency. Needs validation.
+ADVANCED ULTRASOUND MODALITIES COMPARED
+ Modality                                        What it detects                               Status
+ Colour / power Doppler                          Feeding-vessel flow                           Adjunct only
+ CE-TRUS, flash replenishment                    Capillary-level neovascularity                Improves targeting
+ Elastography                                    Stiffness                                     Complement only
+ HistoScanning                                   Backscatter signature                         Unreliable
+ Multiparametric ultrasound                      All of the above                              Emerging
+ Micro-ultrasound                                Near-histological architecture                ≈ mpMRI; no contrast
+
+Concept — Every ultrasound advance tries to see one of two biological signatures of cancer: neovascularity
+(Doppler, contrast, flash replenishment) or stiffness and architecture (elastography, micro-ultrasound). None
+yet removes the need for systematic sampling.
+
+Multiparametric Prostate Magnetic Resonance Imaging
+ • Dynamic contrast enhancement (DCE) and diffusion-weighted imaging (DWI) improve detection; AUA
+   policy statement (2017). Tissue still required. Real-time MRI biopsy is hard, hence three targeting
+   techniques: in-bore, cognitive, fusion.
+ • PIRADS: v1 European Society of Urogenital Radiology (ESUR), 2012 → v2 American College of Radiology
+   (ACR) + ESUR + AdMeTech, 2015 (published 2016), adding technical standards and a reporting lexicon.
+ • Likert 1–5 for clinically significant cancer: Gleason ≥7 and/or >0.5 cm³ and/or EPE. PZ and TZ/CZ scored
+   separately. T2-weighted imaging (T2WI) and DWI scored 1–5; DCE only positive or negative.
+ • Lesion >1.5 cm on T2WI, or highly suspicious for EPE → automatically PIRADS 5.
+Box 155.2 PIRADS v2 Categories
+ • 1 very low: clinically significant cancer highly unlikely. 2 low: unlikely. 3 intermediate: equivocal. 4 high:
+   likely. 5 very high: highly likely.
+TABLES 155.3 AND 155.4 PIRADS V2 SCHEME FOR PERIPHERAL ZONE AND TRANSITION ZONE LESION ASSESSMENT
+CATEGORIES
+                                      Peripheral zone (Table 155.3)                 Transition zone (Table 155.4)
+ Dominant sequence                    DWI                                           T2WI
+ Dominant score 1, 2, 4, 5            PIRADS = DWI score (T2WI and DCE any)         PIRADS = T2WI score (DWI and DCE any)
+ Dominant score 3: tie-breaker        DCE: negative → 3; positive → 4               DWI: ≤4 → 3; DWI 5 → 4
+ Role of DCE                          Upgrades 3 → 4 only                           No role
+“Any” = any score 1–5. From Weinreb JC, Barentsz JO, Choyke PL, et al.: PIRADS prostate imaging—reporting and data system: 2015,
+version 2, Eur Urol 69:16–40, 2016.
+ • What the tables test: DWI rules the PZ, T2WI rules the TZ, and each zone has a single tie-breaker used
+   only at score 3. DCE is a secondary sequence that never moves a lesion by more than one category and is
+   irrelevant in the TZ.
+ • Trap: assuming DCE can create or downgrade a PIRADS 4–5, or that a TZ lesion is upgraded by
+   enhancement.
+ • Validation (German, Dutch): cancer in ≈⅓ of PIRADS 3, over half of PIRADS 4, ≈90% of PIRADS 5;
+   clinically significant in roughly half of each. mpMRI can therefore limit biopsies and cores.
+
+
+
+                                                             page 13 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging            ADVANCED AND INVESTIGATIONAL TECHNIQUES FOR PROSTATE BIOPSY
+LANDMARK MRI-PATHWAY TRIALS
+                                                    Comparator and
+ Trial          Design and population               definition               Key results                         Verdict
+ PROMIS         Paired-cohort, multicentre          Clinically significant   mpMRI vs TRUS: sensitivity 93%      mpMRI is a
+ (2017)         confirmatory; 576 men; all          cancer = Grade           vs 48%; NPV 89% vs 74%. Triage      better triage
+                had mpMRI, 5-mm                     Group ≥3 or              could avoid biopsy in 27%, cut      test than
+                transperineal template              maximum cancer           insignificant diagnoses by 5%;      TRUS biopsy
+                mapping biopsy (reference)          core length ≥6 mm        targeting could detect 18%
+                and 12-core TRUS biopsy                                      more significant cancers
+ PRECISION      Multicentre randomised non-         mpMRI → targeted         Clinically significant detection    MRI pathway
+ (2018)         inferiority; 500 men                biopsy of PIRADS ≥3      38% vs 26%; 28% avoided             non-inferior,
+                                                    vs standard 12-core      biopsy (no target)                  in fact
+                                                    TRUS biopsy                                                  superior
+
+ • Adding systematic cores to targeted: controversial; a large prospective trial showed a small absolute gain.
+ • mpMRI misses a meaningful minority of significant cancers even at expert centres (prostatectomy
+   reference); most misses are 3+4, but a third are primary pattern 4. Causes: MRI-invisible lesions, reader
+   discordance, segmentation, coregistration or biopsy error, small lesion in a large gland, variant histology,
+   low PIRADS.
+
+Transrectal Targeting
+MRI-GUIDED TARGETING TECHNIQUES
+                                                                                               MRI/ultrasound software
+               In-bore MRI                              Cognitive                              fusion
+ Method        Patient prone in gantry, needle          Operator reviews MRI, then aims        Software coregisters
+               guide in rectum. Multisequence           mentally during standard TRUS          premarked MRI with real-time
+               localisation, then short True Fast       biopsy (memory, 3D reasoning,          TRUS into a 3D model, with
+               Imaging (TRUFI) sequences guide          pattern recognition)                   elastic deformation to correct
+               the needle                                                                      probe distortion
+ Equipment Specialised MRI kit                          None extra                             Fusion platform
+ Drawbacks Time, cost, logistics, limited space         Cannot record or confirm needle     Cost; coregistration error
+                                                        position; higher interoperator
+                                                        variability; poor with no landmarks
+                                                        (small lesion in large gland) or
+                                                        lesion invisible on TRUS
+ Mitigation    Not applicable                           2–4 cores per target + systematic      Not applicable
+                                                        biopsy
+ Accuracy      Meta-analysis (2022): no significant difference among the three in significant or insignificant cancer
+               detection
+
+FUSION PLATFORMS: URONAV VERSUS ARTEMIS
+ UroNav (Philips/Invivo)                                                                     Artemis with ProFuse (Eigen)
+ Freehand standard probe; electromagnetic tracking by an external field generator            Mechanical arm directs the
+                                                                                             biopsy
+ Studied at the National Cancer Institute (NCI) since 2004; largest published                The other most-used US system
+ experience
+
+ • Acquisition differs (freehand sweep vs mechanical stabilisation); all use a standard spring-loaded needle
+   (Fig. 155.9: live ultrasound above, MRI below, coregistered target and needle tract).
+
+
+
+
+                                                           page 14 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging           ADVANCED AND INVESTIGATIONAL TECHNIQUES FOR PROSTATE BIOPSY
+ • Fusion results: PIRADS 5 nearly always positive; targeted cores ≈3× likelier to find intermediate- or high-
+   risk disease; suspicion tracks grade (high sensitivity and NPV for Gleason ≥8); frequent upgrading versus
+   12-core.
+ • Targeting finds high-grade and misses low-grade cancer: a feature, as it curbs overdiagnosis.
+ • Indications: raised PSA (initial); persistent PSA after negative biopsy; active surveillance (very low, low,
+   favourable intermediate); focal therapy planning.
+GUIDELINE BODIES: MRI-TARGETED BIOPSY
+ Body                                  Recommendation
+ AUA + Society of Abdominal            mpMRI and targeted biopsy of PIRADS ≥3 after negative prior biopsy with
+ Radiology (SAR), 2016                 persistently raised PSA
+ NCCN Early Detection, 2023            Incorporated the same strategy
+ AUA/SUO 2023 (Early Detection         Targeted biopsy whenever biopsy is indicated and a PIRADS ≥3 lesion exists; 2–3
+ Part II)                              cores per target; synchronous systematic biopsy allowed
+
+Concept — MRI changed biopsy from sampling a template to sampling a target. The result is fewer biopsies,
+more significant and fewer insignificant cancers, but tissue is still mandatory and MRI-invisible disease keeps
+systematic cores relevant.
+
+Transperineal Prostate Biopsy
+ • Transperineal adoption may overtake the transrectal gold standard: fewer infections, stewardship by
+   omitting antibiotics, apex and anterior access, better local analgesia. Slogan: “TREXIT”.
+ • Uptake: nearly doubled in the United Kingdom; over half of biopsies in Australia and New Zealand, with
+   geographic and socioeconomic variation.
+ • European Association of Urology (EAU) 2023: transperineal preferred over transrectal for systematic
+   biopsy to detect clinically significant cancer (strong rating).
+TRANSRECTAL VERSUS TRANSPERINEAL BIOPSY
+                                  Transrectal                               Transperineal
+ Position                         Left lateral decubitus                    Lithotomy
+ Needle passes through            Rectal wall (contaminated)                Sterilisable perineal skin
+ Prophylaxis                      Mandatory for all                         Skin-flora only, or none
+ Infection                        Higher; fluoroquinolone resistance-       Lower (meta-analysis of randomised trials)
+                                  driven
+ Rectal bleeding                  Common                                    Eliminated
+ Apex and anterior / TZ           Needs excessive probe torque              Ready access; full core length through PZ
+ access
+ Template                         Single established 12-core                Several; none universally accepted
+ Guideline standing               Chapter's gold standard                   EAU 2023 preferred; randomised trials under
+                                                                            way
+
+Techniques
+ • History: the transperineal route preceded the transrectal one. Barringer (1922) perineal needle biopsy,
+   with mixed success → open perineal cut-down → transperineal needle aspiration under rectal finger
+   guidance → modern TRUS-guided biopsy.
+ • Positioning. Lithotomy, biplanar probe in rectum, needle through perineum; scrotum taped up and
+   forward to put the perineum under tension, removing laxity so landmarks and targeting are reproducible.
+
+
+
+                                                           page 15 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging          ADVANCED AND INVESTIGATIONAL TECHNIQUES FOR PROSTATE BIOPSY
+Access
+TRANSPERINEAL ACCESS METHODS
+ Method                             Features                                     Trade-off
+ Stepper + brachytherapy grid Mapping or targeting                               Multiple skin punctures; probe's freedom of
+ (5-mm increments)                                                               movement limited
+ Freehand needle-guide kit          One midline puncture (fan                    Device cost
+ (PrecisionPoint most widely        technique) or several bilateral;
+ available)                         cannula fixed to probe keeps needle
+                                    in view
+ Two preplaced 14-gauge             Most versatile, least costly; most           Needs sonographic skill to keep the needle in
+ cannulas, decoupled from           freedom to angle needle                      view. Office-ready after a 4–6-week learning
+ probe                                                                           curve in theatre; 12–14-minute procedure
+
+Analgesia
+ • Formerly theatre-based (still reasonable for many-puncture mapping); now freehand office biopsy under
+   local is strongly supported, with very rare abandonment.
+ • Anaesthetise: perineal skin, deep transverse perineal muscle, levator ani, capsule (pudendal and perineal
+   nerves, pelvic plexus branches). Options include pudendal block.
+ • Periapical triangle block (commonest). Boundaries: lateral, medial border of levator ani; medial,
+   rhabdosphincter; posterior, external anal sphincter; superior, prostatic apex.
+ • Sequence: skin and tract 1–2 mL 1% lidocaine via 23-gauge needle → 5 mL into the periapical triangle via
+   20-gauge 7-inch spinal needle → 3 mL along the capsule (periprostatic) → each step under ultrasound,
+   watching the hydrodissection.
+ • Tolerability: peak visual analogue scale <4. Most uncomfortable to least: anaesthetic injection → biopsy
+   → probe insertion.
+Antibiotic Prophylaxis
+ • Skin prepared with povidone-iodine or chlorhexidine: no rectal flora is carried in.
+ • Meta-analysis of randomised trials: significantly less infection than transrectal; admissions similar; low
+   certainty.
+ • Hence skin-flora prophylaxis only, and increasingly none: antibiotics did not change the very low sepsis
+   or infection rates (adjusted for cores, sepsis unchanged, infection slightly higher without).
+Templates
+ • The metric is clinically significant cancer detection; transperineal access reaches every region, including
+   apex and anterior/TZ.
+TRANSPERINEAL SYSTEMATIC TEMPLATES
+ Template                  Division                                      Cores               Distinguishing feature
+ Original Barzell          Octants: anterior/posterior × apex/           4–8 per             Saturation / mapping
+ (2003)                    base, each side                               octant
+ Modified Barzell          Quadrants (R/L apex, R/L base) × 5            20                  Basis of MUSIC
+                           sectors: parasagittal anterior and
+                           posterior, medial anterior and
+                           posterior, lateral (includes the PZ horn
+                           wrapping anterolaterally)
+
+
+
+
+                                                         page 16 of 17
+Chapter 155 — Prostate Biopsy: Techniques and Imaging        ADVANCED AND INVESTIGATIONAL TECHNIQUES FOR PROSTATE BIOPSY
+
+ Template                  Division                                 Cores           Distinguishing feature
+ Ginsburg                  Per side: anterior (TZ > PZ), mid (apex, 4 per sector,   Fewer sectors
+                           PZ > TZ), posterior (PZ); base (PZ)      medial to
+                           sector added if >50 g                    lateral, one
+                                                                    jar per
+                                                                    sector
+ Michigan Urological Based on modified Barzell; PZ-focused, Parity with             Non-inferior for overall and
+ Surgery Improvement minimal but retained TZ sampling       12-core                 significant cancer. Omits midline
+ Collaborative                                              TRUS                    cores → less urethral trauma, pain
+ (MUSIC)                                                                            and haematuria. The authors'
+                                                                                    preferred template for the office
+ 12-core; 10-sector        Also among the better-studied templates; none is universally accepted
+
+Cancer Detection Rate of Transperineal Prostate Biopsy
+ • At least non-inferior to transrectal. Evidence: sextant TRUS vs six transperineal fan cores (PSA >4):
+   comparable, slightly favouring transperineal → randomised 6 vs 12 transperineal cores: 12 superior
+   (mirroring TRUS) → randomised transperineal vs TRUS, 12 cores (8 PZ + 4 TZ), spinal, PSA 4–20: no
+   difference → meta-analysis under local: comparable to historical TRUS, varying by technique (targeted,
+   freehand, PrecisionPoint, coaxial).
+ • Anterior-only cancers: 6–20%, which the transperineal route is uniquely placed to sample, as it is the
+   apex.
+Summary of Advantages of Transperineal Prostate Biopsy
+ • All segments accessible, minimal learning curve, office-based, and potentially antibiotic-free and device-
+   free. Randomised trials are testing whether it should become the new gold standard.
+ • Future: genomic markers to select for initial and repeat biopsy; refined Doppler, contrast, elastography,
+   multi- and biparametric MRI, transperineal TRUS/MRI fusion; PSMA-PET-CT/MRI for risk stratification
+   and targeting.
+ • Until trials report, systematic grey-scale TRUS 12-core biopsy ± targeting remains the gold standard in
+   this chapter, although EAU 2023 already prefers transperineal.
+Concept — The transperineal route wins on anatomy and microbiology at once. The needle enters through
+sterilisable skin rather than colonised rectum and runs along the gland's long axis, reaching the apex and
+anterior zone. Its only weakness, the lack of a single agreed template, is organisational rather than biological.
+
+ KEY POINTS: PROSTATE BIOPSY
+   • Imaging alone cannot diagnose cancer; tissue is required. Local anaesthesia is routine.
+   • Transrectal: prophylaxis ≤24 hours; systematic biopsy ≥12 cores (AUA).
+   • Prebiopsy mpMRI whenever possible; fusion or cognitive targeting improves accuracy.
+   • Transperineal under local, with or without antibiotics, is an emerging alternative. Advanced
+     ultrasound and PSMA imaging may improve detection.
+
+
+
+
+                                                        page 17 of 17
+

@@ -1,0 +1,542 @@
+Chapter 154 — Prostate Cancer Biomarkers                                                               Introduction
+
+Chapter 154 — Prostate Cancer Biomarkers
+INTRODUCTION
+ • Prostate cancer has a serum-based, clinically informative biomarker: prostate-specific antigen (PSA),
+   discovered 1979, used for detection, staging and monitoring.
+ • Pre-PSA era: diagnosis usually at an incurable stage, after an abnormal digital rectal examination (DRE) or
+   symptomatic bone metastases. PSA era: most cancers detected by a modest PSA rise at an early, localised
+   stage (T1c).
+ • Stage migration to low-risk disease has paralleled the fall in prostate cancer mortality, at least partly
+   attributable to population-based PSA testing.
+ • PSA is prostate specific, not cancer specific → overlap between cancer and benign disease; even marked
+   elevation may reflect inflammation or benign prostatic hyperplasia (BPH) → false positives → excess
+   negative biopsies and overdetection of low-grade cancer.
+ • European Randomized Study of Screening for Prostate Cancer (ERSPC) and Göteborg-1: PSA screening
+   significantly reduced cancer-specific mortality, but PSA used as an isolated biopsy trigger produced a high
+   negative-biopsy rate and overdiagnosis of Gleason score (GS) 6 / Grade Group (GG) 1 cancer.
+ • US Preventive Services Task Force (USPSTF), 2012: Grade D recommendation against screening on
+   benefit-to-harm grounds.
+ • Two advances have since mitigated screening harm:
+     ◦ Active surveillance (AS) proven safe and oncologically effective for most low-risk (GS 6, GG 1) cancers
+       → less overtreatment, blunting the harm of overdetection.
+     ◦ Guidelines advise secondary testing — imaging or biomarkers — before biopsy when PSA is elevated;
+       blood and urine biomarkers reduce unnecessary biopsies (negative, or GG 1 only).
+ • Three clinical settings for biomarkers:
+     ◦ Early detection of clinically significant cancer — before initial biopsy and before repeat biopsy (a
+       particularly challenging group); a positive test selects men for imaging or biopsy.
+     ◦ Risk stratification of newly diagnosed favourable-risk cancer — AS versus curative therapy (radical
+       prostatectomy or radiation).
+     ◦ Post-treatment — adjuvant or salvage decisions in men at high risk of recurrence or metastasis.
+ • Molecular substrates: DNA (gene) → messenger RNA (mRNA; transcript) → protein → products such as
+   metabolites; epigenetic modifications regulating expression are of growing importance.
+ • Guiding principle: cancer cells are biologically and molecularly distinct from benign cells; identifying and
+   quantifying these differences in tissue or body fluid is the lynchpin of biomarker discovery.
+ • Second-generation, cancer-specific markers — PSA isoforms (proPSA), RNA transcripts (PCA3), gene
+   fusions (TMPRSS2:ERG) — improve detection of cancer and of clinically significant cancer (GS ≥7 / GG ≥2)
+   relative to PSA. Presumed reason: higher-grade tumours are larger, and larger tumours express more
+   cancer-specific molecules.
+ • Third generation: markers uniquely associated with aggressive, high-grade disease; only recently
+   explored.
+
+
+
+
+                                                   page 1 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                             Blood-Based Biomarkers
+TABLE 154.1 EVOLUTION OF BIOMARKERS FOR DETECTION OF LOCALIZED PROSTATE CANCER (Prensner et al., 2013)
+
+ Generation Biologic specificity           Example(s)
+ First         Prostatic epithelium        PSA
+ Second        Prostate cancer             PCA3; kallikrein-family proteins; ETS-related transcription factors and gene
+                                           fusions
+ Third         High-grade prostate         SChLAP1
+               cancer
+
+ • What the table is for: each generation narrows the biological target — organ → cancer → high-grade
+   cancer.
+ • Trap: second-generation markers track high-grade cancer only indirectly, through tumour volume; only
+   third-generation markers are intrinsically linked to grade.
+Concept — Biomarker development is a progressive narrowing of specificity: PSA fails because it tracks the
+organ rather than the disease, and every later marker is judged by how closely it tracks clinically significant
+cancer rather than any cancer.
+
+BLOOD-BASED BIOMARKERS
+
+Prostate-Specific Antigen (PSA or hK3)
+ • Developed for post-treatment monitoring; now the guideline first-line screening test — affordable and
+   accessible, but poorly cancer specific.
+Kallikrein family.
+ • PSA = human kallikrein 3 (hK3). Family originally thought to be three — pancreatic/renal kallikrein (hK1),
+   human kallikrein 2 (hK2), PSA (hK3); now 15 proteins.
+ • Genes on the long arm of chromosome 19 (q13.2–q13.4); all encode serine proteases. Homology with
+   PSA: hK1 60%, hK2 about 78–80%.
+ • Fig. 154.1 (Yousef and Diamandis, 2001): kallikrein locus map, KLK1 to KLK15, with KLK2 (hK2) and KLK3
+   (PSA) adjacent.
+Synthesis and function.
+ • hK2 and PSA are both released as zymogens (inactive proenzymes) from prostatic epithelium, present in
+   semen and serum; both complex with α2-macroglobulin and α1-antichymotrypsin.
+ • Processing sequence: pre-pro-PSA with 17–amino acid (aa) leader → cleavage of the "pre" sequence →
+   proPSA, 244 aa, inactive, carrying a 7-aa "pro" leader → hK2 cleaves the pro leader → active PSA, 237
+   aa.
+ • Function: androgen-regulated protease that liquefies semen by cleaving the gel-forming proteins
+   semenogelin and fibronectin.
+ • Identified in the late 1970s; widespread urological use a decade later.
+ • Low-level ectopic expression: breast tissue, breast milk, adrenal and renal carcinomas. Produced primarily
+   by prostatic luminal epithelial cells → highly organ specific.
+Serum forms.
+ • About 70% circulates bound — complexed PSA (cPSA) — to α1-antichymotrypsin (ACT), α2-
+   macroglobulin (A2M) or α1-protease inhibitor (API); the remainder is free PSA (fPSA).
+ • Fig. 154.2: molecular forms — free PSA (proPSA and clipped forms, benign PSA, intact PSA) versus
+   complexed PSA (PSA-ACT, PSA-A2M, PSA-API).
+
+
+                                                        page 2 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                         Blood-Based Biomarkers
+ • Fig. 154.3: free PSA carries immunoreactive epitopes A–E; ACT blocks epitope E; A2M blocks all epitopes,
+   making PSA-A2M difficult to measure.
+TABLE 154.3 MOLECULAR DERIVATIVES OF PROSTATE-SPECIFIC ANTIGEN
+
+ PSA form                                  % of serum PSA         Immunodetectable           Protease activity
+ Complexed PSA (total)                     60–95                  —                          —
+  PSA-ACT (predominant; 60–90% of cPSA)    60–90                  Yes                        Irreversibly inactivated
+  PSA-A2M                                  10–20                  No — all epitopes masked   Some activity retained
+  PSA-API                                  1–5                    Yes                        —
+ Free PSA                                  5–45                   Yes                        Enzymatically inactive
+
+ • Pattern: "total PSA" on a standard assay = free PSA + PSA-ACT + PSA-API; PSA-A2M is invisible to most
+   assays.
+ • Trap: A2M-bound PSA is the active complex yet the undetectable one; ACT-bound PSA is inactive yet
+   detectable.
+Androgen dependence.
+ • PSA expression is strongly androgen dependent. Immunohistochemical PSA in the prostate peaks
+   bimodally — 0–6 months of age and after 10 years — tracking testosterone; serum PSA becomes
+   detectable at puberty with rising luteinising hormone and testosterone.
+Causes of elevation.
+ • Mechanism: disruption of glandular architecture — loss of the basal-cell layer and basement-membrane
+   barrier allows PSA to escape into the circulation.
+ • Causes: cancer, BPH, inflammation, prostate manipulation (massage, biopsy).
+ • Prostate biopsy: rise persists 4 weeks or more.
+ • Long-distance cycling (>55 km): rise of about 10%.
+ • Ejaculation: most studies show no significant change; in men ≥50, a transient rise, back to baseline
+   within 24 hours → ask about sexual activity within 24 hours of a new elevation; if present, abstain before
+   repeating.
+ • Prostate disease (cancer, BPH, prostatitis) is by far the most important factor; BPH and prostatitis are
+   the primary confounders of PSA screening.
+ • Per cell, cancer expresses less PSA than benign tissue — but cellular expression ≠ serum level: per cubic
+   centimetre, Gleason pattern 3 ≈ benign tissue, whereas Gleason pattern 4 contributes several-fold more
+   serum PSA than pattern 3, and more still than benign tissue.
+ • Without cancer, PSA varies with age, race and prostate volume.
+Medications.
+ • Prostate-directed treatment (BPH or cancer) lowers PSA by reducing epithelial volume and PSA
+   production per cell.
+ • 5α-reductase inhibitors (5ARI) — finasteride, dutasteride — lower PSA by about 50% after 12 months →
+   "doubling rule": multiply measured PSA by 2.
+ • Doubling overestimates PSA in the first 6 months and underestimates it after several years.
+ • Prostate Cancer Prevention Trial (PCPT) and other data: 5ARI therapy substantially improves the
+   screening performance of PSA.
+PSA kinetics and density.
+
+
+
+                                                   page 3 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                              Blood-Based Biomarkers
+PSA VELOCITY VERSUS PSA DENSITY
+
+                  PSA velocity                              PSA density
+ Definition       Rate of change of PSA                     Total PSA (ng/mL) ÷ prostate volume (mL)
+ Reference        No BPH or cancer: 0.04 ng/mL/year;        Proposed biopsy cut-offs 0.08–0.15
+ values           BPH, age 60–85: 0.07–0.27 ng/mL/
+                  year
+ Early            Minimal, if any, value — even in high- Substantially more predictive than PSA; proposed after
+ detection        risk men; never an isolated biopsy     negative or equivocal magnetic resonance imaging (MRI),
+                  trigger                                with variable success
+ Active           Conflicting data on predicting grade      ≤0.15 an early Johns Hopkins AS inclusion criterion; key
+ surveillance     reclassification; utility unclear         predictor of reclassification in the multicentre Prostate
+                                                            Cancer Active Surveillance Study
+
+ • Trap: the 0.15 density threshold is widely quoted after a negative MRI, but data specifically supporting it
+   in that setting are lacking.
+Concept — PSA rises when glandular architecture breaks down, not when cells make more of it: this is why
+cancer, BPH, inflammation and instrumentation all raise it, why it is organ- rather than cancer-specific, and
+why volume-adjusted density outperforms the raw value.
+
+Free PSA
+ • 5–45% of serum PSA is free and enzymatically inactive.
+ • Cancer-derived PSA escapes proteolytic processing → more complexed to ACT → cancer is associated
+   with a lower percentage free PSA (%fPSA).
+ • US Food and Drug Administration (FDA) approval: total PSA 4–10 ng/mL with a negative DRE.
+ • Pre-biopsy thresholds: 18% improved discrimination over total PSA; thresholds of 14–28% avoid a
+   substantial share of unnecessary biopsies while keeping sensitivity high. In a prospective multi-
+   institutional study (men 50–75, PSA 4–10, benign DRE), %fPSA 25% detected 95% of cancers with a higher
+   area under the receiver-operating-characteristic curve (AUC) than total PSA.
+ • No single established threshold; proposed values 15–25%.
+ • National Comprehensive Cancer Network (NCCN): lower %fPSA → greater risk of high-grade cancer;
+   consider %fPSA to improve specificity when evaluating for repeat biopsy.
+ • Risk calculators — PCPT and Prostate Biopsy Collaborative Group (PBCG) — incorporate fPSA into
+   calibrated estimates for shared decision-making.
+ • Fig. 154.4: web-based PCPT risk calculator (University of Texas Health Science Center at San Antonio);
+   nomograms output risk of high-grade and of any cancer.
+ • 5ARI lowers fPSA in parallel with total PSA → %fPSA is not significantly altered.
+ • Commonest clinical use: elevated PSA after a previous negative biopsy. Rebiopsy triggers of 21% (low
+   underdiagnosis) and 28% (95% sensitivity) proposed; European repeat-biopsy data conflict — one cohort
+   outperformed PSA and PCA3, another performed near chance → need for other markers.
+ • Limitations: well-studied inverse association with any cancer, but not validated for GG ≥2 as
+   contemporary markers are; reports give any-grade risk, which grossly overestimates clinically significant
+   risk → some institutions remove any-grade estimates from reports.
+Concept — Free PSA exploits a processing defect: cancer PSA leaks out unprocessed and binds ACT, so the
+free fraction falls. Being a ratio, it survives 5ARI; being validated against any cancer, it underperforms for GG
+≥2.
+
+
+
+                                                         page 4 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                     Blood-Based Biomarkers
+
+Free PSA Isoforms
+ • Free PSA comprises three isoforms in roughly equal concentrations — proPSA, BPH-associated (benign)
+   PSA (BPSA) and intact PSA (iPSA) — each a candidate marker.
+FREE PSA ISOFORMS COMPARED
+
+               proPSA ([–2]proPSA)              Benign PSA (BPSA)                        Intact PSA (iPSA)
+ Nature        Incompletely cleaved precursor   Mature PSA with internal cleavages       Unnicked free PSA
+                                                                                         subset
+ Zone          Peripheral zone                  Transition zone                          —
+ Association Cancer; correlates with Gleason    BPH and prostate volume; no prognostic   Cancer (intact:free
+             score                              value                                    ratio)
+ Clinical use Prostate Health Index (PHI)       Possibly in combination only             4Kscore
+
+ProPSA
+ • [–7]proPSA = 237 aa of mature PSA + 7-aa pro-leader; hK2 cleaves the leader to activate PSA. Incomplete
+   cleavage → truncated [–5], [–4] and [–2]proPSA, primarily peripheral zone.
+ • With cellular disruption these inactive forms circulate as free PSA and may form the majority of
+   circulating free PSA in cancer.
+ • Truncated forms markedly elevated in cancer tissue; [–2]proPSA (p2PSA), cleaved between leucine 5 and
+   serine 6 of the propeptide, is the most promising serum marker.
+ • Biology unclear: reduced PSA processing in cancer → relative excess of proPSA, especially p2PSA;
+   alternatively, proPSA may be produced by benign tissue adjacent to cancer.
+ • Extensively validated before initial and repeat biopsy: %p2PSA an independent predictor of cancer and
+   of GS ≥7 (PSA 2–10); in the US National Cancer Institute (NCI) Early Detection Research Network (EDRN)
+   validation, it outperformed PSA and %fPSA and correlated with rising Gleason score. Combined with fPSA
+   and total PSA (tPSA) as the PHI.
+ • Fig. 154.5: proPSA released with 7-aa leader (APLILSR) → hK2 cleavage → active PSA → proteolysis to
+   iPSA, or internal nicking to BPSA; partial leader cleavage (ILSR, SR) → [–4] and [–2]proPSA.
+ • Fig. 154.6: normal versus cancer — in cancer, loss of tissue architecture permits a relative increase in
+   bound PSA and proPSA in serum.
+
+Benign PSA
+ • Identical to mature PSA except for internal cleavages at Lys145 and Lys182; largely confined to the
+   transition zone, highly expressed in BPH.
+ • Tracks prostate volume; no capacity to separate indolent from aggressive disease; alone unlikely to
+   distinguish BPH from cancer, possibly useful in combination.
+
+Intact PSA
+ • Further fPSA subset; intact-to-free ratio may improve detection. Some assays also capture proPSA,
+   confounding its independent value. Used mainly as a component of the 4Kscore.
+Concept — The free fraction is not one molecule: where PSA is processed determines what it signals —
+peripheral-zone clipped proPSA points to cancer, transition-zone BPSA points to BPH.
+
+IsoPSA
+ • Structure-based rather than concentration-based assay: partitions cancer-linked PSA isoforms in an
+   aqueous two-phase reagent system.
+
+
+
+                                                   page 5 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                         Blood-Based Biomarkers
+ • Output K = ratio of complexed PSA in the bottom phase to the top phase; used as binary, or converted
+   by logistic regression to KR, the individual probability (0–100%) of GG ≥2 cancer.
+ • Higher sensitivity and specificity than total PSA for high-grade versus low-grade or benign disease,
+   including with equivocal MRI.
+ • Unaffected by 5ARI or α-blockers.
+ • One of six commercially available biomarkers in the 2023 NCCN Prostate Cancer Early Detection
+   guideline for risk stratification before biopsy.
+
+4Kscore Test
+ • Four kallikreins — tPSA, fPSA, iPSA and hK2 — plus age, prior biopsy status and DRE findings →
+   probability of GG ≥2 cancer on biopsy (0–100%). hK2 is the unique component; it activates proPSA by
+   cleaving the pro-leader.
+PSA VERSUS HK2
+
+                        PSA (hK3)                       hK2
+ Shared                 About 80% amino acid homology; highly prostate specific; androgen regulated
+ Benign epithelium      Intense expression              Minimal immunoreactivity
+ Cancer                 Lower per cell                  More intense; associated with grade
+ Regulation             Expression independent of each other, in tissue and serum → hK2 complementary to PSA
+
+ • Serum hK2 associated with cancer; hK2 with fPSA:tPSA improved detection in tPSA 2–10; hK2 also
+   prognostic — adverse pathology and biochemical recurrence.
+ • Development: Göteborg arm of ERSPC (PSA ≥3.0) — high discrimination. External validation: Rotterdam
+   arm of ERSPC — about half of biopsies avoidable at the cost of missing about one in eight high-grade
+   cancers; at prostatectomy, the kallikreins independently predicted aggressive pathology.
+ • Caveat: initial cohorts had lower GG ≥2 prevalence than contemporary biomarker-tested populations;
+   they nonetheless founded later validation.
+ • US biopsy-referral validation: 30–58% fewer biopsies across thresholds of 6–15%, with few GG ≥2 cancers
+   missed. Meta-analysis: all four markers contribute; adding the 4Kscore raises clinical-model AUC by about
+   0.11.
+ • Reported cut-off 7.5%: sensitivity 94%, negative predictive value (NPV) 95% across two large prospective
+   validations.
+ • Unique: low long-term risk of metastasis or prostate cancer death with a 4Kscore ≤7.5% (two large
+   observational studies).
+ • One of the six NCCN 2023 biomarkers.
+
+Prostate Health Index
+ • PHI = (p2PSA ÷ fPSA) × √tPSA; single score (≥0) associated with likelihood of cancer on biopsy.
+ • Multicentre study, PSA 2–10 with normal DRE: PHI outperformed each of its components; subsequent
+   literature consistently better than PSA-based models.
+ • GG ≥2 (since 2015): better than PSA plus age and than PSA density in initial biopsy. Proposed thresholds:
+   24 (high sensitivity, about 30% of unnecessary biopsies avoided) and 28.6 (90% sensitivity, about 30%
+   avoided).
+ • Limitations: no single validated threshold; reports give value ranges against any-grade cancer, not GG ≥2.
+
+
+
+
+                                                      page 6 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                       Urine-Based Biomarkers
+ • One of the six NCCN 2023 biomarkers.
+Concept — Every blood test refines PSA by resolving its molecular forms — free fraction, clipped proPSA,
+intact PSA, hK2, isoform structure — because the forms, not the total, carry the cancer signal.
+
+URINE-BASED BIOMARKERS
+
+PCA3
+ • Urine is easy to collect and consistently carries shed prostate cells. First urinary marker, identified 1999 by
+   differential display on chromosome 9q21–22; named prostate cancer antigen 3 (PCA3) — a long non-
+   coding RNA (lncRNA) expressed in cancer far above benign tissue.
+ • Assays: reverse transcription polymerase chain reaction (RT-PCR) → transcription-mediated
+   amplification (TMA), with better sensitivity and quantitation.
+ • Requires urine collected after an attentive DRE; score = (urine PCA3 mRNA ÷ urine KLK3 mRNA) × 1000.
+ • Independent of prostate size — the contrast with PSA.
+ • Thresholds most used: 10, 25, 35; above 35, markedly higher biopsy detection than below. The
+   appropriate threshold depends on the population, especially previous biopsy status.
+ • Nomograms: PCA3 improves a base clinical model (proposed cut-off 17); updated PCPT calculator
+   includes PCA3 as a continuous variable, outperforming the base PCPT model (see Fig. 154.4).
+ • Agency for Healthcare Research and Quality review: threshold 25 gives moderate sensitivity and
+   specificity; PCA3 appears superior to total PSA, but no evidence yet of better health outcomes.
+ • FDA approved (United States) and Conformité Européenne (CE) marked (Europe) for men with a
+   previous negative biopsy.
+ • No longer available as an isolated test; a key component of two NCCN urine assays (EPI and MPS).
+
+SelectMDx
+ • RT-PCR of post-DRE urinary mRNA of distal-less homeobox 1 (DLX1) and homeobox C6 (HOXC6),
+   combined with age, DRE, PSA and prostate volume → probability of any cancer and of GG ≥2.
+ • Derived from three urinary markers (DLX1, HOXC6, Tudor domain-containing protein 1, TDRD1); the mRNA
+   added modestly to a strong clinical model. Over a quarter of the validation cohort had PSA ≥10 —
+   unrepresentative of the usual biomarker population.
+ • Biopsy-naïve validation: high sensitivity (about 93%) and NPV (about 95%) for GG ≥2, maintained for PSA
+   ≤10.
+ • Limitation: needs prostate volume, available only after transrectal ultrasound (TRUS) or MRI; without it,
+   sensitivity, specificity and NPV all fall.
+ • One of the six NCCN 2023 biomarkers.
+
+ExoDx Prostate IntelliScore
+ • ExoDx Prostate IntelliScore (EPI): exosomal RNA of PCA3, ERG (ETS transcription factor) and SAM pointed
+   domain-containing ETS transcription factor (SPDEF) → score for GG ≥2.
+ • Exosomes: small vesicles shed into body fluids containing DNA, RNA and protein → urinary markers
+   measurable without a DRE. Early work detected PCA3 and TMPRSS2:ERG in urinary exosomes.
+ • Predecessor EXO106 (PCA3 + ERG): threshold 10, high sensitivity and NPV in PSA 2–10; adding clinical
+   variables improved discrimination.
+
+
+
+
+                                                   page 7 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                   Urine-Based Biomarkers
+ • EPI uses no clinical factors. Initial biopsy, PSA 2–20: threshold 15.6 → about 92% sensitivity, NPV about
+   91%; about one-third of unnecessary biopsies avoided, about 8% of GG ≥2 missed; replicated in a second
+   biopsy-naïve cohort.
+ • Repeat biopsy: 15.6 lost sensitivity; threshold 20 kept sensitivity with better specificity and NPV →
+   thresholds are population specific.
+ • One of the six NCCN 2023 biomarkers.
+
+MyProstateScore
+ • MyProstateScore (MPS; formerly Mi-Prostate Score, MiPS): urinary PCA3 + TMPRSS2:ERG (T2:ERG) +
+   serum PSA → continuous score 0–100 for GG ≥2.
+ • TMPRSS2:ERG (landmark discovery, 2005): fusion of the 5′ untranslated region of the androgen-
+   regulated transmembrane protease, serine 2 (TMPRSS2) gene with the E26 transformation-specific (ETS)
+   transcription factors ERG or ETS variant 1 (ETV1); nearly 100% specific for prostate cancer.
+ • Detectable in post-DRE urine (2008); TMA assay (2011) outperformed PSA; higher urinary score at
+   prostatectomy → larger, higher-grade, non-organ-confined tumours.
+ • Present in about half of tumours but about 75% of men with cancer (multifocality) → best combined
+   with PCA3; the combination roughly doubled specificity for GG ≥2 (17% to 33%) while holding sensitivity
+   at 95%.
+ • Locked MPS model: better discrimination for GG ≥2 than PSA or the PCPT calculator; across thresholds
+   missed ≤2.3% of GG ≥2 cancers.
+ • Initial biopsy: threshold 10 → 97% sensitivity, 98% NPV; about one-third of unnecessary biopsies avoided,
+   3% of GG ≥2 missed; confirmed in NCCN-eligible men, Black men and men with a suspicious DRE.
+ • Repeat biopsy: threshold 15 (set for 90% target sensitivity) → 100% sensitivity and NPV on external
+   validation.
+ • One of the six NCCN 2023 biomarkers.
+
+miRNA
+ • Most genomic DNA does not encode protein. MicroRNA (miRNA): small non-coding RNA (sncRNA),
+   usually 19–22 nucleotides, regulating gene expression → potential diagnostic and prognostic markers
+   across cancers.
+ • miR-141: associated with cancer and aggressive disease. Urine miR-187: independent predictor of cancer
+   at biopsy.
+ • Multi-sncRNA panels are promising but have no peer-reviewed clinical data yet.
+
+
+
+
+                                                 page 8 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                          Tissue-Based Biomarkers
+THE SIX NCCN 2023 PRE-BIOPSY BIOMARKERS
+
+ Test          Specimen      Components              Output               Key threshold(s)   Distinguishing feature
+ IsoPSA        Blood         PSA isoform structure KR: % risk GG ≥2       —                  Unaffected by 5ARI or α-
+                             (K)                                                             blockers
+ 4Kscore       Blood         tPSA, fPSA, iPSA, hK2   % risk GG ≥2         7.5%               Low long-term
+                             + age, prior biopsy,                                            metastasis and death
+                             DRE                                                             risk below 7.5%
+ PHI           Blood         p2PSA, fPSA, tPSA       Score ≥0 (reported   24 or 28.6         (p2PSA ÷ fPSA) × √tPSA
+                                                     against any-grade    proposed; none
+                                                     cancer)              validated
+ SelectMDx Post-DRE          DLX1, HOXC6 + age,      Risk of any cancer   —                  Needs prostate volume
+           urine             DRE, PSA, volume        and GG ≥2                               (TRUS or MRI)
+ EPI           Urine         PCA3, ERG, SPDEF        Score, GG ≥2         15.6 initial; 20   No DRE; no clinical
+               exosomes                                                   repeat             variables
+ MPS           Urine +       PCA3, T2:ERG + PSA      0–100, GG ≥2         10 initial; 15     Validated in Black men
+               serum                                                      repeat             and suspicious DRE
+
+ • Pattern: three blood, three urine; all target GG ≥2 except PHI reporting, which remains any-grade.
+ • Trap: thresholds are setting specific — the repeat-biopsy threshold is higher (EPI 20, MPS 15) than the
+   initial-biopsy one (EPI 15.6, MPS 10); %fPSA and PCA3 are likewise used mainly at repeat biopsy.
+Concept — The urinary markers are cancer-specific transcripts whose limitation is coverage, not specificity:
+a nearly 100%-specific fusion present in only half of tumours must be combined, and cells must be shed by
+DRE unless exosomes carry the RNA.
+
+TISSUE-BASED BIOMARKERS
+
+Epigenetic Modifications
+ • Epigenetic change alters gene expression without altering DNA sequence — DNA methylation and
+   histone acetylation.
+ • CpG islands: GC-rich promoter segments; altered methylation changes expression and contributes to
+   carcinogenesis. Lifelong exposures (diet, stress) may shift methylation and cancer risk.
+ • Hypermethylated genes implicated: glutathione-S-transferase π (GSTP1), adenomatous polyposis coli
+   (APC), retinoic acid receptor β2 (RARβ2), RAS association domain family protein isoform A (RASSF1A).
+ • Field ("halo") effect: methylation is detectable in histologically normal tissue adjacent to tumour, not in
+   distant normal tissue → methylation in a negative biopsy suggests occult cancer.
+ • APC methylation in negative biopsies predicted cancer at repeat biopsy with high sensitivity and NPV.
+ • ConfirmMDx (MDxHealth): quantitative methylation of GSTP1, APC and RASSF1; independent predictor
+   of cancer on repeat biopsy; NPV about 88–90%; in Black men, NPV about 94% for GS ≥7.
+Concept — Methylation markers turn a negative biopsy into evidence: because the field effect extends into
+benign tissue beside the tumour, a core that missed the cancer can still carry its signature — hence their role
+before repeat biopsy.
+
+Genomic Expression Profiles
+ • Multigene panels outperform any single gene; run on archival formalin-fixed paraffin-embedded (FFPE)
+   tissue; precedent in chemotherapy-response classifiers for breast and colorectal cancer. Available as
+   laboratory-developed tests (LDT).
+
+
+                                                        page 9 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                         Tissue-Based Biomarkers
+TISSUE GENOMIC CLASSIFIERS COMPARED
+
+             Prolaris                                      Oncotype Dx Prostate    Decipher
+ Genes       31 cell cycle progression (CCP) + 15          12 cancer genes in 4    22-marker classifier
+             housekeeping                                  pathways + 5
+                                                           housekeeping
+ Predicts    Progression and prostate cancer–specific      Adverse pathology at    Metastasis and cancer-specific
+             death (conservatively managed);               prostatectomy =         mortality in high-risk disease and
+             biochemical recurrence and metastasis after   primary Gleason         biochemical recurrence
+             radical prostatectomy; outcome including      pattern 4 or pT3
+             cancer-specific mortality after external
+             beam radiotherapy
+ Principal   Newly diagnosed: AS versus treatment          Newly diagnosed: AS     Developed post-prostatectomy;
+ setting                                                   versus treatment        now also newly diagnosed
+                                                                                   (biopsy)
+ Notes       Adds to Cancer of the Prostate Risk           Extensively validated   Low, intermediate, high risk →
+             Assessment (CAPRA) score for recurrence       for clinical outcome    rising 10-year post-prostatectomy
+             after prostatectomy                                                   metastasis; score ≥0.4 may
+                                                                                   benefit from postoperative
+                                                                                   radiotherapy (retrospective)
+
+ • Post-Operative Radiation Therapy Outcomes Score (PORTOS): 24-gene signature derived from the
+   Decipher database to predict response to adjuvant radiotherapy.
+ • Limitations — multifocality and heterogeneity: distinct foci in one patient show discordant expression
+   profiles; scores from a low-grade focus do not predict an unsampled high-grade focus; almost all
+   evidence is retrospective.
+ • Genomics in Michigan to Adjust Outcomes in Prostate Cancer (G-MAJOR): ongoing prospective
+   randomised trial of Decipher in decision-making for newly diagnosed favourable-risk cancer
+   (NCT04396808).
+Concept — Tissue classifiers answer prognosis, not detection, and they can only describe the focus sampled;
+multifocal heterogeneity is their ceiling.
+
+Germline Genetics and Prostate Cancer
+ • Up to 40–50% of prostate cancer risk may be familial or hereditary. Familial cancer (15–20% of cases)
+   includes strong family history without a detectable mutation.
+ • An affected relative raises risk two- to fourfold.
+ • Single nucleotide polymorphisms (SNPs): common variants, not necessarily functional; more than four
+   risk SNPs → 4.5-fold risk, tenfold with a family history.
+ • STHLM3: the four 4Kscore kallikreins + 232 risk SNPs + clinical variables → composite early-detection test
+   for GS ≥7 (AUC 0.74).
+ • Most heritable genes are DNA damage repair genes.
+
+
+
+
+                                                     page 10 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                                         Summary
+GERMLINE PROSTATE CANCER RISK GENES
+
+ Gene                            Function              Prostate cancer risk            Phenotype
+ BRCA2                           Homologous            4.5-fold under 65; about 8.6-   Younger diagnosis, higher
+                                 recombination         fold across all ages            grade, shorter survival
+ BRCA1                           Homologous            1.8-fold under 65               —
+                                 recombination
+ Lynch syndrome (MLH1,           Mismatch repair       MSH2: about tenfold relative    Also colorectal, liver, skin,
+ MSH2, MSH6, PMS2)                                     risk                            upper tract cancers
+ CHEK2                           Double-strand break   Odds ratio about 2 (unselected), —
+                                 repair                about 3.4 (familial)
+ ATM                             Double-strand break   Increased                       Aggressive disease (with
+                                 repair                                                BRCA1/2)
+ HOXB13 G84E                     Homeobox protein      4.5-fold (familial linkage)     No evidence of more
+                                                                                       aggressive cancer
+
+ • Trap: HOXB13 raises risk but not aggressiveness; BRCA2 raises both.
+ • Next-generation sequencing (NGS): single-gene (BRCA1/2) or, without a known familial mutation,
+   multigene panels (BRCA1, BRCA2, ATM, CHEK2, MLH1, MSH2, TP53, EPCAM, others) — some genes of
+   unknown significance. NCCN focuses on BRCA testing; carriers need tailored early detection and
+   management.
+Concept — Hereditary prostate cancer is predominantly a failure of DNA damage repair, and the genes that
+matter most clinically — BRCA2 above all — are those that raise aggressiveness, not merely incidence.
+
+SUMMARY
+ • Early detection while cancer is organ confined improves cure rates and lowers morbidity and mortality.
+ • PSA revolutionised detection, but stage migration and a changed natural history have outrun it; PSA
+   derivatives improve sensitivity at the risk of specificity.
+ • Blood, urine and tissue markers now improve detection and risk stratification; panels will probably
+   overcome multifocality and heterogeneity.
+ • Translation requires proof of clinical validity and clinical utility — real impact on care.
+
+ KEY POINTS
+   • PSA = hK3, human kallikrein family; PSA and hK2 both used in detection.
+   • Organ specific, not cancer specific; produced by prostatic epithelium; half-life 2–3 days.
+   • Gram for gram, cancer produces less PSA than benign tissue; serum rise reflects disrupted
+     architecture; also BPH, prostatitis, recent manipulation.
+   • About 70% of serum PSA bound (ACT, A2M, API); cancer → higher bound fraction, lower free PSA.
+   • Pre-pro-PSA → [–7]proPSA (237 + 7 aa) → hK2 cleavage → active PSA; incomplete cleavage → [–2], [–
+     4], [–5]proPSA, which augment detection.
+   • 5ARI reduce serum PSA by 50%.
+   • Circulating tumour cells (CTCs) and circulating tumour DNA are promising marker sources, particularly
+     in advanced disease.
+   • PCA3: urinary non-coding RNA; combined with the highly specific TMPRSS2:ERG fusion for greater
+     accuracy.
+
+
+
+                                                       page 11 of 12
+Chapter 154 — Prostate Cancer Biomarkers                                                         Summary
+   • Tissue gene-expression signatures run on small FFPE samples add prognostic information beyond
+     Gleason score.
+   • Susceptibility genes on several chromosomes; moderate-penetrance genes for aggressive cancer:
+     BRCA1, BRCA2, ATM — all DNA damage repair.
+
+
+
+
+                                               page 12 of 12
+

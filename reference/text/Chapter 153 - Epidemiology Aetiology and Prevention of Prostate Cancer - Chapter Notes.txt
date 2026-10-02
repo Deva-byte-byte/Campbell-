@@ -1,0 +1,1179 @@
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer
+
+Chapter 153 — Epidemiology, Aetiology and Prevention of
+Prostate Cancer
+EPIDEMIOLOGY AND AETIOLOGY
+ • Long natural history, often decades; risk factors may act at different stages of carcinogenesis (initiation →
+   promotion → progression), which makes them hard to identify in population studies.
+ • The optimal end point is unclear. In most cancers, diagnosis is the relevant end point; in prostate cancer it
+   may not be.
+ • Prostate-specific antigen (PSA) screening is itself one of the strongest risk factors for diagnosis since the
+   late 1980s/early 1990s; factors that predict access to care and health-seeking behaviour therefore predict
+   "risk".
+ • "Incident" cancer is rarely truly incident: diagnosis designates a cancer present for years. Screening
+   timing and intensity alter the spectrum of cases, the point in the natural history and the age at diagnosis.
+   Of two men with similar latent cancers, only the one who is screened and biopsied is diagnosed.
+ • Consequence: PSA-era studies may identify determinants of diagnosis rather than aetiological factors.
+ • Preferred end point: aggressive disease — advanced stage at diagnosis, or progression to metastasis or
+   death. Risk factors may act only on cancers able to progress, which are the clinically important ones.
+ • Lifestyle evidence is almost entirely observational (diet, physical activity, body weight, alcohol, tobacco)
+   and cannot prove causality. Causality is judged against criteria set, ideally, before analysis: consistency
+   across diverse groups, adjustment for confounders, freedom from bias (especially detection bias),
+   magnitude, biological plausibility.
+ • Few studies test change in lifestyle, so even for causal factors it is unknown at what age risk is reversible;
+   observational work should establish when in life a factor operates.
+
+Incidence, Prevalence and Mortality of Prostate Cancer
+ • Second commonest non-skin cancer and fifth leading cause of cancer death in males worldwide.
+ • 2020 (185 countries): ~1.4 million cases and 375,000 deaths — 7.3% of all cancer cases, 3.8% of cancer
+   deaths.
+ • Global age-standardised incidence rate (ASR) 31/100,000; lifetime cumulative risk 3.9%.
+ • First for incidence in over half of countries (112/185); second cause of cancer death in 48 countries,
+   after lung cancer.
+ • By Human Development Index (HDI): ASR 37.5 in high/very-high HDI countries (e.g. Switzerland, United
+   States) vs 11.3 in low HDI (e.g. Niger, Yemen).
+ • Incidence varies ~13-fold (6.3 South Central Asia → 83.4 Northern Europe); mortality ~9-fold (3.1 South
+   Central Asia → 27.9 Caribbean).
+ • Since 2000, incidence is rising in 65 countries, stable in 25 and falling in 45.
+ • Drivers of variation: diagnostic practice and PSA use, reporting quality and absent registries, heritability,
+   environment.
+TABLE 153.1 AGE-STANDARDIZED INCIDENCE AND MORTALITY RATES GLOBALLY BASED ON 2020 GLOBOCAN DATA
+
+Incidence band (per
+100,000)                     Region — incidence / mortality per 100,000
+Highest (>70)                Northern Europe 83.4 / 13.0 · Western Europe 77.6 / 9.8 · Caribbean 75.8 / 27.9 · Australia/
+                             New Zealand 75.8 / 10.3 · Northern America 73.0 / 8.3
+
+
+                                                             page 1 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                               Epidemiology and Aetiology
+
+Incidence band (per
+100,000)                     Region — incidence / mortality per 100,000
+Intermediate (40–70)         Southern Africa 65.9 / 20.5 · South America 62.5 / 22.0 · Southern Europe 59.1 / 13.6 ·
+                             Polynesia 56.5 / 18.8 · Eastern Europe 46.4 / 13.7 · Central America 43.8 / 10.9 · Middle
+                             Africa 40.8 / 24.8
+Low (<40)                    Melanesia 35.8 / 17.0 · Western Africa 33.1 / 20.2 · Western Asia 28.6 / 8.4 · Eastern Africa
+                             27.9 / 16.3 · Eastern Asia 16.8 / 4.7 · Northern Africa 16.6 / 8.2 · South-Eastern Asia 13.5 /
+                             5.4 · South Central Asia 6.3 / 3.1
+Overall                      31 / 7.7
+
+From GLOBOCAN 2020 (gco.iarc.fr).
+ • What it is for: showing that incidence and mortality are decoupled.
+ • Pattern: incidence tracks screening intensity and HDI (Northern/Western Europe, Northern America,
+   Australia/New Zealand); mortality peaks where African ancestry and limited access coincide (Caribbean,
+   Middle Africa, South America, Southern and Western Africa).
+ • Trap: Northern America is top-five for incidence yet among the lowest for mortality (8.3); the Caribbean
+   is joint third for incidence but first for mortality. Asia is lowest on both.
+
+Europe
+ • Commonest cancer in Europe and third leading cause of cancer death.
+ • Overall ASR 63; Northern 83.4, Western 77.6, Southern 59.1, Eastern 46.4 — variation attributed mainly to
+   diagnostic practice.
+ • Incidence highest in Northern/Western and lowest in Eastern European countries; mortality highest in
+   Northern Europe.
+ • 2020: ~108,000 deaths; mortality ASR 11.1. Mortality has fallen ~7% since 2015 with therapeutic
+   advances — Poland the only country with rising mortality.
+
+North America
+ • United States, Canada and Mexico combined: ASR incidence 73, mortality 8.3.
+United States.
+ • Commonest solid tumour in males. Data principally from the National Cancer Institute's Surveillance,
+   Epidemiology and End Results (SEER) programme, population-based since 1975.
+ • Incidence rising ~3%/year (2014–2019) after two decades of decline.
+ • 2023: ~288,300 cases and 34,700 deaths; 29% of all male cancer diagnoses.
+ • Lifetime risk ~1 in 8 (12.6%). Probability by age: 0.2% <50 → 1.8% at 50–59 → 5.2% at 60–69 → 9.2% at
+   ≥70.
+ • ASR incidence 72, mortality 8.2 (2020).
+ • 5-year survival 97%, yet second leading cause of cancer death (11% of cancer deaths).
+ • Metastatic presentation rising since 2012, especially in males under 70; burden projected to rise 42% by
+   2025.
+ • Black males: prostate cancer is 37% of cancer diagnoses and 17% of cancer deaths. Disparity with White
+   males is multifactorial, including unequal access to care.
+Canada.
+ • Commonest solid tumour in males; lifetime risk ~1 in 9; 20% of new male cancers; 5-year survival 91%;
+   ASR incidence 80, mortality 8.9.
+
+
+
+
+                                                             page 2 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                     Epidemiology and Aetiology
+ • Incidence rose 1969–2010 with peaks in 1993 (PSA introduced) and 2011 (updated screening
+   recommendations), then fell; it kept rising under 70 and fell at ≥70.
+Mexico.
+ • Global Burden of Disease 2019: ASR incidence 52.3, mortality 19.4.
+
+Latin America and the Caribbean
+ • Heterogeneous rates, mostly from differences in screening and reporting; trend data limited.
+ • South America: ASR incidence 62.5, mortality 22.0. Incidence rising in Colombia, Ecuador and Costa Rica,
+   stable in Brazil. Mortality rising in Brazil, Colombia and Ecuador; falling in Argentina, Costa Rica and Chile;
+   lowest in El Salvador, Bolivia and Costa Rica.
+ • Caribbean: third-highest incidence (75.8) and highest mortality in the world (27.9). Highest national
+   incidence: Martinique (182.0) and Guadeloupe (176.6); also Jamaica, Barbados, Tobago. Highest
+   mortality: Barbados, Jamaica, Haiti.
+ • Afro-Caribbean males have more aggressive disease and worse outcomes — socioeconomic constraint,
+   later-stage diagnosis and possibly genetics.
+
+Hispanic Ethnicity
+ • United States Hispanic/Latino males present with more advanced disease, higher grade and higher PSA
+   than non-Hispanic Whites, yet have lower prostate cancer mortality.
+ • Hispanic migrants have lower prostate cancer mortality than both non-Hispanic Whites and United States-
+   born Hispanics.
+ • "Hispanic paradox": comparable or better outcomes despite disparities in access and socioeconomic
+   status.
+
+Africa
+ • ~93,000 cases and ~47,000 deaths — a high death-to-case ratio.
+ • ASR: Southern 65.9 > Middle 40.8 > Western 33.1 > Northern 16.6.
+ • Variation from screening, medical access, registry completeness and lifestyle. PSA screening uncommon
+   in sub-Saharan Africa (single-digit percentages, e.g. Ghana, Senegal).
+ • Westernisation of diet and lifestyle, with rising obesity, is a proposed contributor.
+
+Asia
+ • Historically lowest incidence: ASR 14; ~371,000 cases (2020). South Central 6.3 < South-Eastern 13.5 <
+   Eastern 16.8 < Western 28.6.
+ • Highest national incidence: Japan, Israel, Armenia. Incidence rising — fastest in the Republic of Korea (up
+   to 13.8%/year) — from PSA screening and better biopsy technique.
+ • Mortality lowest of all regions (ASR 4.4); highest in Armenia, Georgia, Turkey; rising in the Philippines,
+   Korea, Thailand, China and Iran — obesity, Western diet, inactivity and better reporting.
+ • Migrant effect: risk in native Asians is one-third lower than in Asian Americans — less screening in Asia
+   plus Western diet and lifestyle.
+
+Oceania
+ • Australia/New Zealand: ASR 75.8 (level with the Caribbean, among the highest worldwide); mortality
+   10.3.
+ • Polynesia: lower incidence (56.5) but higher mortality (18.8).
+ • Highest incidence in the region: New Caledonia.
+
+
+
+
+                                                             page 3 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                   Epidemiology and Aetiology
+Fig. 153.1 All-age age-standardised incidence (A) and mortality (B) rates by geographic region
+ • World choropleth maps from GLOBOCAN 2018 data (McHugh et al., 2022). Incidence bands run from
+   ≥69.0 to <10.6 per 100,000; mortality from ≥20.7 to <4.7.
+ • Incidence is darkest across Northern America, Northern/Western Europe and Australia; mortality is
+   darkest across sub-Saharan Africa and the Caribbean — the visual form of the incidence–mortality
+   decoupling.
+Concept — Incidence measures diagnostic intensity as much as disease, whereas mortality reflects biology
+and access; screened, high-HDI populations have the highest incidence, and populations of African ancestry
+with limited access have the highest mortality.
+
+ KEY POINTS: EPIDEMIOLOGY AND AETIOLOGY
+   • Long natural history (decades) makes epidemiological study difficult.
+   • Lifestyle evidence is observational and cannot prove causality.
+   • Incidence and mortality vary substantially by region; first for incidence in 112/185 countries, second
+     cause of cancer death in 48.
+
+
+PROSTATE-SPECIFIC ANTIGEN SCREENING
+ • PSA is made almost exclusively by the prostate and reaches blood by leakage, so anything that increases
+   leakage raises PSA: benign enlargement, inflammation and cancer.
+ • Mainstay of early detection since the mid-to-late 1980s; still controversial. Whether a man is screened has
+   a large effect on his measured risk and mortality.
+
+Impact on Incidence
+ • PSA screening is one of the strongest predictors of detection.
+ • Best measured in the European Randomized Study of Screening for Prostate Cancer (ERSPC): >182,000
+   men randomised to PSA every 2–4 years (by country) vs no screening.
+ • Excess incidence in the screened arm shrinks with time as controls are diagnosed later, at a later stage;
+   unrecorded screening in controls may add to the erosion.
+ERSPC VS PLCO — CONTROL-ARM CONTAMINATION
+
+                                                                          Prostate, Lung, Colorectal and Ovarian (PLCO)
+                        ERSPC                                             Screening Trial
+Setting                 Multiple European countries                       United States
+Background              Uncommon — few controls PSA-tested                Frequent — control arm heavily screened
+screening
+Consequence             Clean contrast; isolates the effect of            Contaminated contrast; effect diluted
+                        screening
+
+Impact on Mortality
+ERSPC — INCIDENCE AND MORTALITY OVER FOLLOW-UP
+
+Follow-up (years)           Excess incidence, screened arm                      Reduction in prostate cancer death
+1–9                         85%                                                 16%
+1–11                        60%                                                 22%
+1–13                        49%                                                 —
+
+
+
+                                                             page 4 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                       Prostate-Specific Antigen Screening
+
+Follow-up (years)           Excess incidence, screened arm                  Reduction in prostate cancer death
+1–16                        36%                                             ~20% (plateau)
+
+ • Pattern: the incidence excess decays while the mortality benefit builds and then plateaus — benefit is
+   time-dependent.
+ • Intention-to-screen underestimates benefit: where ITT showed 20%, correcting for non-attendance gave
+   27%, and also for contamination 31%.
+ • Bottom line: screening vs none reduces prostate cancer death by ~20–30%. Most deaths are therefore
+   not preventable by PSA alone — better screening, treatment and primary prevention are needed.
+
+Impact on Prostate Cancer Epidemiology
+ • Prevention requires first understanding the factors linked with risk.
+ • "In a population with widespread PSA screening, a diagnosis of prostate cancer signifies, in most cases,
+   that a man happened to have a PSA test at that time."
+ • Healthy-user confounding: men with healthy habits (diet, exercise, non-smoking, lean) also seek PSA
+   tests. Unadjusted, healthy behaviours appear to raise incidence yet lower mortality. This likely
+   confounds much of the risk-factor literature of recent decades, forcing reliance on the few randomised
+   trials.
+
+Impact on Prevalence
+ • Incidence and prevalence estimates are biased by changing screening practice; autopsy studies of latent
+   cancer are less biased.
+ • Latent prevalence rises steeply with age: ~5% <30 years → 15% at 40–50 → 22% at 50–59 → 29% at 60–
+   69 → 59% >79.
+ • Race: at 70–79, latent prevalence ~36% in White vs ~51% in Black males.
+ • Stable over time globally, but rising in Asia, notably Japan.
+ • Limitations: study quality, few autopsies, poor standardisation — more high-quality, diverse studies
+   needed.
+Concept — PSA screening inflates and advances incidence and confounds every lifestyle association;
+mortality, aggressive disease and autopsy prevalence are the end points that escape its bias.
+
+ KEY POINTS: PROSTATE-SPECIFIC ANTIGEN SCREENING
+   • Benign enlargement, inflammation and cancer all raise PSA.
+   • PSA screening is one of the strongest predictors of detection and reduces prostate cancer death by
+     ~20–30%.
+   • Unadjusted, healthy behaviours appear to raise incidence but lower mortality.
+
+
+RISK FACTORS
+ • Multifactorial cause. Established risk factors: advanced age, race and family history.
+
+Age
+ • ~60% diagnosed at ≥65; mean age at diagnosis 66. Risk low <40, rising steadily thereafter.
+ • Historical (1974–1994) probability of diagnosis: 0.005% at ≤39, 2.2% at 40–59, 13.7% at 60–79.
+
+
+
+
+                                                             page 5 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                          Risk Factors
+ • Rising incidence in adolescents and young adults (aged 15–39): ~2%/year from 1990 to 2017, across all
+   continents.
+ • 55% of prostate cancer deaths occur at ≥65. Over 20 years of follow-up, the risk of dying of prostate
+   cancer is higher when diagnosed at ≥70 than below 70.
+ • An ageing population → growing burden and survivorship needs.
+
+Race
+ • Highest incidence in Black males (172.6/100,000 in the United States).
+ • Prostate cancer-specific mortality twice that of White males — more metastatic presentation and
+   younger age at diagnosis.
+ • Drivers: structural racism, regional segregation, unequal access; these also raise comorbidity
+   (cardiovascular disease, diabetes) linked with poor cancer outcomes.
+ • Genetics: 8q24 risk alleles, identified in genome-wide association studies (GWAS), are more common in
+   African ancestry. Genomic testing can identify aggressive subsets for targeted intervention.
+ • Equal access → equal outcome: with similar access and treatment, Black patients with non-metastatic
+   disease have prostate cancer-specific mortality similar to White patients.
+ • Autopsy studies show higher latent cancer rates from very early ages.
+
+Family History
+ • ~20% of patients have a family history.
+ • First-degree relative (father or brother) → 2- to 3-fold risk, rising with the number of affected relatives
+   and with younger age at their diagnosis.
+FAMILY HISTORY — RISK GRADIENT
+
+Family history                                                            Relative risk vs none
+Any first-degree relative                                                 2–3-fold
+Two affected first-degree relatives                                       ~3.5-fold
+Both father and brother                                                   9-fold
+Relative diagnosed <60 vs ≥60                                             ~2.5-fold vs ~1.6-fold
+Two or more relatives diagnosed <60                                       ~5.7-fold
+Father or brother died of prostate cancer                                 2-fold risk of prostate cancer death
+
+ • What it is for: risk scales with number of relatives, closeness and youth at diagnosis; the lethality of the
+   relative's cancer is itself heritable.
+
+Shared Lifestyle
+ • Familial clustering may partly reflect shared diet, activity, screening behaviour, smoking, alcohol and
+   environmental toxins.
+ • Family history drives PSA testing in relatives, but a Swedish study concluded familial aggregation is not
+   substantially due to shared screening.
+ • Shared modifiable factors are targets for family and community interventions.
+
+Genetics
+ • Genetics outweigh shared lifestyle: heritability up to 58% (twin studies).
+ • BRCA1/BRCA2 (hereditary breast–ovarian cancer genes) → aggressive prostate cancer.
+ • HOXB13 (homeobox B13) — prostate-specific; hereditary prostate cancer.
+
+
+
+                                                             page 6 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                             Risk Factors
+ • PCGEM1 — prostate-specific; overexpressed in most tumours. DD3 — marker for early detection.
+
+Homologous Recombination DNA Repair
+ • Germline DNA-repair mutations (BRCA1, BRCA2, ATM, CHEK2, PALB2) → higher risk and more
+   aggressive cancer.
+ • Clinical uses: targeted early screening (BRCA1/2, ATM, mismatch repair genes, HOXB13, CHEK2); caution
+   in active surveillance for BRCA1/2 and ATM carriers; treatment selection in advanced disease — androgen
+   receptor (AR)-targeted agents, poly(ADP-ribose) polymerase (PARP) inhibitors (BRCA1/2, ATM), immune
+   checkpoint inhibitors (mismatch repair).
+
+Mismatch Repair Genes
+ • Mismatch repair (MMR) mutations maintain genome stability; uncommon in prostate cancer (2–5%), so
+   evidence is limited.
+ • MLH1, MSH2, MSH6, PMS2 (Lynch syndrome) are associated with prostate cancer.
+ • MMR-deficient metastatic disease shows high sensitivity to androgen deprivation therapy (ADT).
+
+Single-Nucleotide Polymorphisms
+ • GWAS have found >200 common single-nucleotide polymorphisms (SNPs), each of low-to-moderate
+   effect.
+ • Strongly linked with progression: HSD3B1 (hydroxy-delta-5-steroid dehydrogenase; also susceptibility),
+   CYP19A1, HSD17B4. SNPs in KLK3 (the PSA gene) are linked with risk.
+
+Genomic Regions
+ • Key loci 8q24 and 17q21, important for risk differences across ancestry.
+ • 8q24: more common in Black individuals; also associated in European populations. 17q21: present in 4–
+   7% of those of African descent vs <1% of non-African populations.
+ • Asia: ERG oncoprotein-positive cancer is uncommon in East Asian males; FOXA1 mutated more often in
+   Chinese males.
+ • Multi-ancestry GWAS meta-analysis: 86 new variants; risk scores differ across European, African and Asian
+   ancestry.
+GERMLINE GENES AND LOCI — ASSOCIATION AND CLINICAL IMPLICATION
+
+Gene / locus           Class                        Association                       Clinical implication
+BRCA2, BRCA1           Homologous                   Higher incidence; BRCA2 familial; Targeted screening; PARP inhibitor;
+                       recombination                aggressive disease                caution in surveillance
+ATM                    Homologous                   Metastatic disease                Targeted screening; PARP inhibitor;
+                       recombination                                                  caution in surveillance
+PALB2                  Homologous                   Familial; aggressive and lethal   —
+                       recombination                disease
+CHEK2                  Regulates TP53 and           Familial disease                  Targeted screening
+                       DNA repair
+MLH1, MSH2,            Mismatch repair              Prostate cancer (2–5% of cases)   Immune checkpoint inhibitor; ADT-
+MSH6, PMS2             (Lynch)                                                        sensitive
+HOXB13                 Prostate-specific            Hereditary disease                Targeted screening
+                       homeobox
+8q24 / 17q21           GWAS loci                    More frequent in African          Explain part of the racial excess
+                                                    ancestry
+
+
+
+
+                                                             page 7 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                         Risk Factors
+
+Gene / locus           Class                        Association                     Clinical implication
+HSD3B1, CYP19A1,       Steroid-pathway SNPs         Progression                     —
+HSD17B4
+
+Polygenic Risk Scores
+ • Polygenic risk scores (PRS) combine risk alleles into a personalised risk to guide screening decisions.
+ • They predict whether prostate cancer develops, not whether it is aggressive.
+ • A multi-ethnic PRS stratifies risk in European and African ancestry. PRS for aggressive disease and survival,
+   and trials of clinical utility, are needed.
+Concept — Age, ancestry and family history are the only unequivocal risk factors, and genetics carries most
+familial risk; the germline repair genes that matter clinically predict aggressive cancer, which is why they
+change screening and treatment while polygenic scores, which predict only any cancer, do not yet.
+
+ KEY POINTS: RISK FACTORS
+   • Established risk factors: advanced age, race and family history.
+   • Germline homologous recombination mutations (BRCA1, BRCA2, ATM, CHEK2, PALB2) raise risk and
+     aggressiveness.
+   • MMR mutations (MLH1, MSH2, MSH6, PMS2; Lynch syndrome) are associated with prostate cancer.
+
+
+POSSIBLE RISK FACTORS
+ • Body composition (height, obesity, waist circumference) and comorbidities; findings often contradictory.
+   Diet and activity are covered separately.
+
+Height
+ • Taller height → higher risk, supported by recent studies and meta-analyses; ~5% higher risk per 10-cm
+   increment, with estimates varying by measurement and population.
+ • Association is with high-grade disease and prostate cancer death, not low-grade disease (including in the
+   European Prospective Investigation into Cancer and Nutrition, EPIC).
+ • Height reflects childhood/adolescent hormones and diet; taller height predicts progression in Black but
+   not White males.
+
+Obesity
+OBESITY — TOTAL VS AGGRESSIVE PROSTATE CANCER
+
+Total incidence                                                             Aggressive disease
+Mixed — positive overall in meta-analyses, but individual studies show Consistently increased
+strong, null or even protective associations
+Body mass index (BMI) inversely associated with non-metastatic low-         BMI positively associated with high-grade
+grade cancer                                                                and metastatic/fatal cancer
+PCPT and REDUCE: obesity → lower low-grade risk                             PCPT and REDUCE: obesity → higher high-
+                                                                            grade risk
+
+ • Dissent: one study found BMI ≥30 kg/m² lowered risk regardless of grade, while waist circumference
+   raised it.
+ • Life course: weight gain from early adulthood to midlife is mostly not associated, though a multiethnic
+   cohort found adiposity change did raise risk.
+
+
+                                                             page 8 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                   Possible Risk Factors
+ • Around diagnosis: weight loss is protective; weight gain raises recurrence after prostatectomy.
+ • Waist circumference (abdominal obesity): positive for advanced disease in a few studies; null in the
+   Health Professionals Follow-up Study (HPFS); inverse for total and localised disease and null for advanced
+   disease and mortality in Swedish cohorts.
+ • Mechanisms: insulin/insulin-like growth factor 1 (IGF-1), sex hormones, adipokine signalling (Fig. 153.2).
+ • ~650 million obese adults worldwide and rising — the link with aggressive disease is a public-health
+   concern.
+
+Comorbidities Possibly Associated With Prostate Cancer
+ • Metabolic syndrome, hyperlipidaemia, hypertension and cardiac disease are associated with higher risk;
+   diabetes with lower. Older patients commonly carry several, compounding diagnosis and outcome.
+
+Metabolic Syndrome
+ • Insulin-resistance syndrome; cluster raising cardiovascular and diabetes risk; prevalence ~12–31% of
+   adults.
+ • Mechanisms: altered insulin and IGF-1; sex-steroid shift — ↑ oestradiol, ↓ sex hormone-binding
+   globulin (SHBG), ↓ free testosterone (Fig. 153.2).
+ • Meta-analyses (heterogeneous): slight association with incidence and with high-grade disease; significant
+   in cross-sectional studies but not in pooled cohort and case–control studies.
+ • Linked with worse features: higher Gleason score, positive surgical margins, biochemical failure.
+ • Geography: positive in European studies, not in United States or Asian studies.
+
+Hypertension
+ • Affects ~one-third of adults; leading modifiable cardiovascular risk factor; linked with inflammation.
+ • Increased prostate cancer risk; in a large cohort, men aged ≥45 with systolic ≥150 mmHg vs <130 mmHg
+   had higher incidence and, once diagnosed, higher mortality.
+ • Meta-analyses significant but heterogeneous.
+
+Cardiovascular Disease
+ • Leading cause of death, even in prostate cancer patients. Shared biology (inflammation, atherosclerosis,
+   oxidative stress, hormones, cholesterol) and shared risk factors (age, race, diet, activity, alcohol). Patients
+   with cardiovascular disease are more often diagnosed.
+ • ADT and cardiovascular disease:
+ADT AND CARDIOVASCULAR RISK — TRIAL VS OBSERVATIONAL EVIDENCE
+
+Meta-analysis of randomised trials                                          Observational studies and other meta-analyses
+No increase in cardiovascular death; lower prostate cancer-specific         Positive association between ADT and
+and all-cause mortality                                                     cardiovascular disease
+
+ • Close monitoring of trial patients may have negated harm → ADT cardiotoxicity may be preventable.
+   Baseline cardiovascular assessment and risk-factor management are recommended, especially on ADT.
+
+Diabetes Mellitus
+ • Raises risk of many cancers (pancreas, kidney, colon) but is associated with lower prostate cancer risk
+   (modest reduction in large meta-analyses).
+ • Mechanisms: ↓ testosterone, ↓ IGF-1, lower PSA (underdiagnosis), metformin use.
+
+
+
+
+                                                             page 9 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                      Possible Risk Factors
+COMORBIDITIES — DIRECTION AND MECHANISM
+
+Condition               Prostate cancer risk       Proposed mechanism / caveat
+Metabolic               ↑ (slight); worse          Insulin/IGF-1; ↑ oestradiol, ↓ SHBG, ↓ free testosterone;
+syndrome                pathology                  heterogeneous by region and design
+Hypertension            ↑                          Inflammation; heterogeneous
+Cardiovascular          ↑ diagnosis                Shared biology and risk factors; ADT adds cardiovascular risk
+disease
+Diabetes mellitus       ↓                          ↓ testosterone, ↓ IGF-1, ↓ PSA, metformin
+
+Fig. 153.2 Proposed framework linking diet, physical activity and body weight to hormones, inflammation
+and increased prostate cancer risk
+ • Modified from Giovannucci, 2018. Sequence: poor diet + physical inactivity → excess adiposity → ↑
+   leptin/↓ adiponectin, ↑ insulin, ↑ inflammation, ↑ oestrogen → ↓ SHBG, ↑ IGF bioactivity, ↑
+   bioavailable oestrogen → ↑ proliferation, ↓ apoptosis → ↑ prostate cancer risk.
+Concept — Body size and metabolic state act on progression more than initiation: height and obesity track
+aggressive disease, whereas diabetes lowers androgens, IGF-1 and PSA — hence its paradoxically lower risk.
+
+ KEY POINTS: POSSIBLE RISK FACTORS
+   • Taller height is associated with higher risk.
+   • Obesity: mixed for diagnosis, consistent for aggressive disease.
+   • Metabolic syndrome, hyperlipidaemia, hypertension and cardiac disease raise risk; diabetes lowers it.
+   • Observational data link ADT with cardiovascular disease.
+
+
+DIET
+1. Population evidence: international variation, secular trends within populations and rising rates in
+   migrants from low- to high-incidence countries imply external (non-genetic) factors. Per capita fat intake
+   correlates with national rates — hypothesis-generating only, as inactivity and PSA screening co-vary with
+   diet.
+2. Biological plausibility: food carcinogens formed in processing/cooking damage DNA; some compounds
+   induce enzymes that activate or deactivate carcinogens; oxidative DNA damage is increased by
+   polyunsaturated fat and excess iron and opposed by antioxidants; B vitamins support DNA synthesis,
+   repair and methylation; non-mutagenic routes act through insulin and IGFs.
+ • Methodological challenges: measuring intake over decades; many levels of analysis (patterns,
+   macronutrients, foods, micronutrients, phytochemicals); foods act in combination; correlated intakes
+   (meat with potatoes; fortified milk supplies vitamin D, calcium and phosphorus together); fat-soluble
+   compounds (vitamin D, lycopene) need fat co-ingestion — vitamin D in fortified skim milk is poorly
+   absorbed compared with whole milk.
+ • Randomised trials are most rigorous but rare, test single micronutrients and have been mostly null — the
+   Selenium and Vitamin E Cancer Prevention Trial (SELECT) (selenium 200 µg, vitamin E 400 IU) showed no
+   benefit. A single high-dose micronutrient is unlikely to show a population effect; whole-diet change is
+   more plausible but hard to sustain.
+ • Prospective cohorts (tens of thousands followed for years) are feasible but confounded; causality is
+   judged by consistency, dose–response, confounder control and plausibility.
+
+
+
+
+                                                            page 10 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                                Diet
+ • World Cancer Research Fund/American Institute for Cancer Research (WCRF/AICR): expert-graded
+   reviews each decade since 1997 (convincing → probable → limited/suggestive → unlikely). 2018: no
+   dietary factor reached strong evidence for prostate cancer (literature to 2015); emphasis has since
+   shifted to dietary patterns.
+
+ KEY POINTS: DIET
+   • International variation implies non-genetic factors; dietary factors could act at many steps of
+     pathogenesis.
+   • Causal inference is difficult, and large randomised nutritional trials have generally been null.
+
+
+Dietary Patterns
+THREE STRATEGIES FOR DEFINING DIETARY PATTERNS
+
+Strategy            Basis                                                   Examples
+A priori            Guidelines, regional diet or prevailing hypothesis      Healthy Eating Index; Mediterranean diet
+A posteriori        Data-driven — principal components or cluster           "Western" (unhealthy) vs "Prudent" (healthy)
+                    analysis
+Biomarker-          Foods predicting a specified biomarker                  Hyperinsulinaemic or inflammatory diet
+based                                                                       scores
+
+ • A priori: Healthy Eating Index–2005, Alternative Healthy Eating Index–2010 and alternative
+   Mediterranean score — no association with total, advanced or fatal cancer; Mediterranean meta-analysis
+   null. No strong support.
+ • A posteriori: no association for healthy or unhealthy patterns; too few studies of vegetarian variants.
+ • Plant-based: vegan diet associated with lower risk in a large Adventist cohort; reviews inconsistent
+   (definitions vary). In HPFS, a higher plant-based index → lower fatal prostate cancer, driven more by
+   avoiding animal foods than by plant foods themselves.
+ • Early evidence: diets lowering insulin and inflammation may lower risk.
+
+Macronutrients
+ • Fat: pre-PSA-era studies (Seventh-day Adventists; HPFS) linked animal fat with risk; PSA-era studies (EPIC;
+   meta-analysis of cohorts) are null for total, saturated and unsaturated fat and for total or advanced
+   disease. WCRF/AICR 2018: fat, protein and carbohydrate "limited/no conclusion".
+ • Carbohydrate: sugar-sweetened beverages → increased risk; glycaemic index/load null.
+ • Dairy: the non-fat milk fraction (protein, minerals) raises IGF-1, a risk factor.
+WCRF/AICR GRADING — THE PRE-PSA VS PSA-ERA DOWNGRADES
+
+Exposure                                      2007 report                              2018 report
+Dairy products                                Probable (↑ risk)                        Limited/suggestive
+Calcium                                       Possible/probable (↑ risk)               Limited/suggestive
+Tomatoes/lycopene                             Probably causal (↓ risk)                 No conclusion possible
+Fat, protein, carbohydrate                    —                                        Limited/no conclusion
+
+ • What it tests: downgrading "strong" evidence is historically unusual; three downgrades in one period
+   suggest that cancers diagnosed in the pre-PSA and PSA eras differ, altering risk-factor relationships.
+
+
+
+
+                                                            page 11 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                         Diet
+Carcinogens From Well-Done Meat
+ • Heterocyclic amines form from creatine/creatinine, sugars and amino acids when meat or fish is cooked
+   above 130 °C for long periods — grilling, barbecuing, frying, broiling.
+ • Questionnaire estimates are unreliable. Cohorts: null for total cancer, but most suggested an association
+   with aggressive/advanced disease → biomarkers needed.
+
+Fatty Fish and ω-3 Fatty Acids
+ • ω-3 polyunsaturated fatty acids are anti-inflammatory. Dietary docosahexaenoic acid (DHA) and
+   eicosapentaenoic acid (EPA) — null for total cancer; circulating levels unclear.
+CIRCULATING Ω-3 — PSA ERA VS PRE-PSA ERA
+
+                                                                            Physicians' Health Study (bloods 1982,
+SELECT (bloods 2001–2004, PSA era)                                          pre-PSA era)
+Higher plasma long-chain ω-3 → increased total and high-grade cancer;       Higher serum long-chain ω-3 →
+mostly localised, screen-detected                                           protective
+
+ • Fish/seafood: no association with total, inverse with fatal prostate cancer (confirmed by meta-analysis).
+ • A 6-year ω-3 randomised trial: no effect on incidence; underpowered for fatal disease.
+
+Tomato Products and Lycopene
+ • Among fruits and vegetables, only tomato products were associated with lower risk; focus fell on
+   lycopene (red carotenoid; also pink grapefruit, watermelon).
+ • Effect confined to processed/cooked tomato, especially sauce: lycopene in raw tomato is tightly bound
+   and lipophilic — bioavailable only when cooked in oil.
+ • 2003 meta-analysis: high tomato intake and high serum lycopene each associated with modestly lower
+   risk. WCRF/AICR: "probably causal" (2007) → "no conclusion possible" (2018); the earlier studies were
+   pre-PSA.
+ • HPFS: lycopene → lower lethal (metastatic) cancer in both eras, but lower total cancer only pre-PSA —
+   pre-PSA cancers were mostly aggressive, PSA-era cancers mostly indolent. Lycopene intake → lower
+   angiogenesis in prostatectomy tumours; angiogenesis strongly predicts progression.
+ • Pooled analysis of 15 studies: serum lycopene inverse with advanced cancer. Evidence for lycopene
+   supplements is limited.
+
+Coffee Consumption
+ • Antioxidant and anti-inflammatory compounds. Meta-analysis of cohorts: highest intake → modestly
+   lower risk, stronger for advanced and fatal disease, in the highest-quality studies and with fuller
+   adjustment (smoking, BMI, PSA screening).
+ • HPFS: inverse association with advanced disease for both regular and decaffeinated coffee → non-
+   caffeine components responsible.
+
+Alcohol
+ • Raises risk of at least seven cancers; acetaldehyde is an established carcinogen. WCRF/AICR 2018:
+   "limited–no conclusion" for prostate cancer.
+ • Case–control plus cohort meta-analysis: dose–response with prostate cancer mortality, raised at ≥45 g/
+   day ethanol (>3–4 standard drinks); a cohort-only meta-analysis found no consistent association.
+ • Beverage type: liquor raises risk at lower doses than wine, which does so only at high doses; red-wine
+   polyphenols may offset ethanol at low intake.
+
+
+
+                                                            page 12 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                          Diet
+ • Binge drinking raised total prostate cancer risk where overall intake did not.
+Concept — The PSA era broke the diet literature: associations built on clinically detected, largely aggressive
+pre-PSA cancers (fat, dairy, lycopene, ω-3) weakened or reversed once indolent screen-detected disease
+dominated, so dietary signals now appear mainly against advanced and fatal disease.
+
+ KEY POINTS: DIETARY PATTERNS AND MACRONUTRIENTS
+   • A priori dietary-pattern studies do not strongly support a role in prostate cancer risk.
+   • Dietary fat is not associated with total or advanced prostate cancer.
+   • WCRF/AICR 2018 downgraded dairy and calcium from "probable" to "limited/suggestive", and
+     tomatoes/lycopene from "probably causal" to "no conclusion possible".
+
+
+TOBACCO
+SMOKING — INCIDENCE VS LETHALITY
+
+Incidence                           Fatal / advanced disease
+Not increased — often lower         Increased — acknowledged by the United States Surgeon General; ~40% higher
+in smokers                          prostate cancer mortality (meta-analysis)
+Likely from less PSA screening      More advanced at diagnosis — seen even pre-PSA, so not only screening
+and biopsy
+
+ • Smokers may develop a more aggressive phenotype, prone to metastasis and death.
+ • Mechanisms: tobacco-carcinogen mutations in progression genes; ↑ androgens; angiogenesis; impaired
+   immunity. Non-causal contributor: delayed diagnosis.
+ • Former smokers who quit ≥10 years ago carry no excess aggressive risk → quitting at any adult age is
+   advisable.
+Concept — Smoking is the model of a factor that lowers apparent incidence while raising lethality; only an
+aggressive-disease end point reveals it.
+
+ KEY POINTS: TOBACCO
+   • Tobacco does not increase incidence, but smokers are more likely to develop fatal prostate cancer.
+
+
+PHYSICAL ACTIVITY AND SEDENTARY BEHAVIOUR
+ • A probable protective factor for several cancers; unclear for prostate. Plausible via insulin signalling,
+   inflammation, immunity and weight control. WCRF/AICR: no clear conclusion for incidence.
+ • Limitations: measurement error; differing effects of light, moderate and vigorous activity and of leisure vs
+   occupational activity; differing effects by subtype (advanced vs organ-confined).
+ • 2018 meta-analysis: no clear association with total cancer; regular recreational activity → lower
+   advanced/aggressive cancer (only two studies).
+ • HPFS: vigorous (not moderate) activity → lower advanced (not total) cancer, after accounting for PSA
+   screening; repeated 2-yearly measurements improved accuracy.
+ • Swedish cohort (minimal PSA screening): lifetime occupational activity and walking/cycling → lower total
+   cancer.
+
+
+
+
+                                                            page 13 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer        Physical Activity and Sedentary Behaviour
+ • Sedentary behaviour may raise aggressive cancer risk, mediated by adiposity.
+Concept — Consistent, long-term, vigorous activity is linked with fewer clinically significant cancers; as with
+diet and smoking, the signal appears against advanced disease, not total incidence.
+
+
+COMPOSITE LIFESTYLE
+ • A composite approach outperforms any single factor.
+ • HPFS and Physicians' Health Study (PHS): a healthy-lifestyle score (smoking, activity, body weight, diet) →
+   30–50% lower lethal prostate cancer.
+ • HPFS: adherence to smoking, activity, weight and alcohol guidelines could prevent 21% of fatal cancers in
+   the cohort and 40% in United States White patients.
+ • Highest polygenic-risk quartile: lifetime lethal risk 5.3% with unhealthy vs 1.6% with healthy lifestyle →
+   genetic predisposition is not deterministic.
+Concept — Genes set the baseline, but lifestyle modifies lethality even in the highest genetic stratum.
+
+ KEY POINTS: COMPOSITE LIFESTYLE
+   • A composite lifestyle approach is more effective than any single factor in reducing incidence or
+     mortality.
+
+
+SUPPLEMENTS, VITAMINS AND MINERALS
+ • Use is high: over half of United States adults (and about a third of children) in the past 30 days; lower but
+   substantial elsewhere (e.g. South Korea).
+ • No strong evidence of benefit for healthy people eating a balanced diet. United States Preventive
+   Services Task Force (USPSTF): little or no benefit for cancer, cardiovascular disease or death, except a
+   small benefit in cancer incidence with multivitamins.
+ • For prostate cancer: no consistent benefit, and some harm. Where large trials in prostate cancer patients
+   exist (secondary prevention), they are noted.
+
+Vitamin D
+ • Prostate cancer cells and normal prostate express the vitamin D receptor; vitamin D induces apoptosis in
+   vitro.
+ • Serum 25-hydroxyvitamin D meta-analyses conflict; one study found a U-shaped relationship (high and
+   low levels both linked with risk).
+ • No large prostate-prevention trial; pooled trials show no effect on overall cancer. Vitamin D and Omega-3
+   Trial (VITAL): >25,000 randomised to 2000 IU vitamin D3 daily vs placebo for 5 years — no significant
+   effect on prostate cancer (192 vs 219 cases, non-significant); significantly fewer metastatic or fatal
+   cancers overall, which merits confirmation.
+ • In prostate cancer patients, six randomised trials: no effect on PSA or mortality.
+
+Selenium
+ • Selenised-yeast trial: primary end point (skin cancer) null, but a large secondary reduction in prostate
+   cancer → prompted SELECT.
+ • SELECT: 35,533 men; selenium, vitamin E, both, or placebo; planned 7–12 years; stopped early (median
+   5.46 years) for futility. Selenium alone and with vitamin E: no benefit (hazard ratios >1).
+ • Counter-arguments: wrong form of selenium; earlier protective signals only in smokers.
+
+
+                                                            page 14 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                Supplements, Vitamins and Minerals
+Vitamin E
+ • Rationale from the Alpha-Tocopherol, Beta-Carotene Cancer Prevention (ATBC) study: α-tocopherol
+   lowered prostate cancer by 32% (secondary analysis) and prostate cancer death by 41%.
+ • SELECT: no benefit; vitamin E alone suggested increased risk (P = 0.06).
+ATBC VS SELECT — WHY VITAMIN E RESULTS DIVERGED
+
+                                   ATBC                                     SELECT
+α-Tocopherol dose                  Tenfold lower                            400 IU
+Population                         Heavy smokers                            Almost all non-smokers
+PSA screening                      Minimal                                  Widespread
+Mortality/incidence ratio          25% (aggressive, clinically detected)    0.5% (indolent, screen-detected)
+Result                             ↓ incidence 32%; ↓ fatal 41%             No benefit; possible harm
+
+ • Verdict: not recommended for average-risk men; untested whether low-dose vitamin E lowers mortality
+   in heavy smokers.
+
+Vitamin C
+ • Very limited data: an early meta-analysis found dietary vitamin C inversely associated; later studies refute
+   this.
+ • At high doses vitamin C may act as a pro-oxidant; supplemental antioxidants above the median →
+   increased risk, including advanced and high-grade disease.
+
+Vitamin K
+ • Reduces tumour growth preclinically; human observational studies show no association.
+
+Calcium
+ • Bone component and intracellular signal. Often co-prescribed with vitamin D for ADT-induced
+   osteoporosis — so its link with risk matters clinically.
+ • Meta-analyses: dietary and supplemental calcium → increased total (possibly advanced) cancer; another
+   found dairy (not non-dairy or supplemental calcium) linked with incidence, but supplemental calcium
+   linked with fatal disease. Phosphorus may be the dairy component linked with fatal cancer. Serum
+   calcium: mixed.
+ • Verdict: no evidence of benefit; use calcium supplements cautiously in those at risk.
+
+Zinc
+ • Prostate zinc levels are very high relative to the rest of the body; most "prostate health" supplements are
+   high in zinc.
+ • Meta-analysis: no significant relationship, with a suggestion of harm at higher intake. HPFS: supplemental
+   zinc ≥75 mg/day or for ≥15 years → higher lethal and high-grade cancer.
+ • Verdict: avoid prolonged high-dose zinc.
+
+Phytochemicals
+ • Naturally occurring plant molecules; plausible given plant-rich diets. None has shown benefit in a large
+   randomised prevention trial; several tested in patients with mixed results.
+
+Phytoestrogens
+ • Oestrogen-like phytochemicals; of interest because prostate cancer is androgen-dependent.
+
+
+
+                                                            page 15 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                 Supplements, Vitamins and Minerals
+Soy.
+ • Whole food (protein, milk, fibre); can be pro- or anti-oestrogenic. Low Asian risk suggested soy, but many
+   lifestyle factors differ.
+ • Meta-analyses: soy, genistein, daidzein and fermented soy → lower risk; an update confirmed soy food
+   (not isoflavones).
+ • Enthusiasm dampened by a randomised trial: soy protein did not prevent recurrence in high-risk disease.
+
+Flaxseed
+ • Rich in fibre, lignans and ω-3; reduced prostate cancer in engineered mice. No risk data; a pre-
+   prostatectomy trial showed reduced tumour Ki-67 (proliferation marker), without follow-up studies.
+
+Curcumin
+ • Principal component of turmeric (ginger family); potent in vitro but poorly absorbed and rapidly
+   metabolised. Large literature, much of it recent; no population data. Most trials in patients: no PSA effect;
+   the positive ones combined curcumin with other herbs.
+
+Ellagitannins
+ • Found in pomegranate; the chapter groups green tea with them. Ellagitannins are converted by the gut
+   microbiome into urolithins, which are absorbed and purportedly anticancer. Studied mainly in patients,
+   not primary prevention.
+ • Pomegranate: single-arm study slowed PSA rise in biochemical recurrence → placebo-controlled trial
+   failed to confirm; no tumour effect before prostatectomy (higher urolithin A → less oxidative stress); on
+   active surveillance no effect on PSA, IGF-1 or PSA doubling time, but lower oxidative stress and AR
+   expression.
+ • Green tea: in high-grade prostatic intraepithelial neoplasia (HGPIN) or atypical small acinar proliferation
+   (ASAP), trial meta-analysis showed a large reduction in progression to cancer; observationally, a linear
+   dose–response significant only beyond 7 cups/day — impractical; extracts need study.
+
+Lycopene
+ • Systematic review: over half of lycopene–cancer studies concern the prostate. Dietary studies mostly
+   positive (11 of 20); interventional studies mostly null (4 of 5).
+ • In animals, tomato powder, but not lycopene, inhibited cancer → whole-food benefit may not reduce to
+   one agent.
+ • Fat-soluble: an ultra-low-fat diet, even plant-based, may deliver little lycopene — food combinations
+   matter.
+
+Resveratrol
+ • Stilbenoid polyphenol (peanuts, blueberries, cranberries, grape skin, red wine). Mixed preclinical data,
+   including harm; poor solubility and bioavailability; 4 months had no effect on PSA in healthy men.
+SUPPLEMENTS, VITAMINS AND MINERALS — EVIDENCE AND VERDICT
+
+Agent                      Best evidence                                           Verdict
+Vitamin D                  VITAL — no prostate effect; ↓ metastatic/fatal cancer   Not recommended; signal to
+                           overall                                                 confirm
+Selenium                   SELECT — no benefit, stopped early                      No benefit
+Vitamin E                  ATBC ↓ (smokers, low dose); SELECT — possible harm      Not recommended
+Vitamin C /                Null; high supplemental antioxidants ↑ risk             Avoid high-dose
+antioxidants
+Vitamin K                  Observational null                                      No benefit
+
+
+                                                            page 16 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                 Supplements, Vitamins and Minerals
+
+Agent                      Best evidence                                           Verdict
+Calcium                    ↑ total; supplements ↑ fatal                            Use cautiously
+Zinc                       High-dose/prolonged ↑ lethal and high-grade             Avoid prolonged high dose
+Soy                        Observational ↓; randomised trial null for recurrence   Unproven
+Flaxseed                   ↓ Ki-67 before prostatectomy                            Unproven
+Curcumin                   No PSA effect alone                                     Unproven
+Pomegranate                Placebo-controlled trial null                           Unproven
+Green tea                  ↓ progression from HGPIN/ASAP; >7 cups/day              Promising; extracts to test
+Lycopene                   Diet positive; interventions null                       Whole food over supplement
+Resveratrol                No PSA effect                                           Unproven
+
+Concept — Single agents extracted from a protective diet and given in high doses have consistently failed or
+caused harm (SELECT, calcium, zinc, antioxidants); any benefit belongs to whole foods and their
+combinations.
+
+ KEY POINTS: SUPPLEMENTS, VITAMINS AND MINERALS
+   • No strong evidence that any supplement, vitamin or mineral benefits healthy people eating a balanced
+     diet.
+
+
+ASSORTED RISK FACTORS
+
+Transgender Identity
+ • Transgender females (assigned male at birth) retain the prostate after gender-affirming surgery and
+   remain at risk.
+ • Claims-based and chart-review studies: incidence significantly lower than in cisgender males.
+ • Those on gender-affirming hormone therapy show the most aggressive markers (higher PSA density,
+   more high-grade disease) — delayed diagnosis or selection of androgen-deprivation-resistant, more
+   aggressive clones.
+ • Reasons: unawareness that a prostate is present, lower screening, oestrogen suppression of cancer
+   development, and false reassurance from "normal" PSA despite castrate testosterone.
+ • Median PSA 0.02 ng/mL on hormones vs 1 ng/mL in cisgender males (fiftyfold lower) → PSA cut-points
+   must be adjusted.
+
+ KEY POINTS: TRANSGENDER IDENTITY
+   • Incidence appears significantly lower in transgender females than in cisgender males.
+
+
+Vasectomy
+ • Detection bias: urologists who perform vasectomy also screen for prostate cancer.
+ • Meta-analysis: modest overall excess; after PSA adjustment, only a very small excess of localised cancer
+   and no link with high-grade, advanced or lethal disease.
+ • American Urological Association (AUA): clinicians need not routinely discuss prostate cancer in pre-
+   vasectomy counselling — vasectomy is not a risk factor.
+
+
+
+
+                                                            page 17 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                        Assorted Risk Factors
+Sunlight
+ • Sunlight converts 7-dehydrocholesterol → previtamin D, activated in liver and kidney (possibly also the
+   prostate).
+ • Darker skin absorbs less ultraviolet radiation → lower vitamin D at equal exposure — a proposed
+   contributor to Black–White disparities.
+ • Meta-analysis: highest vs lowest sun exposure → significantly lower risk (moderate exposure non-
+   significant); no aggressiveness data; weigh against skin cancer.
+
+Ejaculation Frequency
+ • Higher frequency → lower risk (proposed clearance of infectious insults, less inflammation); "lower-risk"
+   thresholds range from ≥4/month to ≥21/month.
+ • Gene expression in benign prostate, not tumour, varies with frequency.
+ • Alternative: conditions limiting ejaculation may be causal — frequency then an indirect marker.
+
+Sexually Transmitted Infections
+ • Most sexually transmitted infections (gonorrhoea, chlamydia) classically do not affect the prostate but
+   may spike PSA. Not a major clinical factor; a meta-analysis suggests STIs overall, and gonorrhoea
+   specifically, may raise risk.
+
+Human Papillomavirus
+ • Human papillomavirus (HPV) is linked with cervical, head and neck, anal and penile cancer.
+ • Meta-analysis: modest (~28%) increase, with heterogeneity and publication bias; contrast ~95% of
+   cervical cancer attributable to HPV. Given prostate cancer's frequency, even a modest real effect would
+   matter.
+
+Chronic Inflammation
+ • Inflammatory infiltrates are near-universal: in a prevention-trial biopsy series most men had chronic
+   inflammation, with or without cancer.
+ • Inflammation raises PSA → spurious detection-driven link.
+ • Genetic, molecular and pathological evidence nonetheless supports a causal link → rationale for anti-
+   inflammatory chemoprevention.
+
+Chronic Prostatitis
+ • Clinical pain syndrome affecting urinary and sexual function; episodic, usually without an identifiable
+   organism. Meta-analysis shows increased risk, but PSA detection bias leaves the implication unclear.
+
+Sleep
+ • Bidirectional relationship with health. Insomnia → modest increase in risk (>200,000 people); metabolic
+   disturbance is a plausible mediator — recommend good sleep regardless.
+ • More sleep disturbance among Black males (shift work, discrimination, stress, noisy neighbourhoods) may
+   contribute to their higher risk.
+
+Shift Work
+ • International Agency for Research on Cancer (IARC)/World Health Organization (WHO) 2007: circadian-
+   disrupting shift work "probably carcinogenic to humans" — based mainly on breast cancer.
+ • Circadian disruption enhances carcinogenesis in animals; night work inverts the clock, but daylight still
+   entrains it → incomplete sleep — a model for sleep effects.
+ • Some studies link shift work with aggressive disease; meta-analysis evidence weak.
+
+
+                                                            page 18 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                       Assorted Risk Factors
+Environment Exposure
+ENVIRONMENTAL AND OCCUPATIONAL EXPOSURES
+
+Exposure                               Source / use                                         Association
+Per- and polyfluoroalkyl               Grease-, oil-, water- and heat-resistant "forever    No strong link; positives often
+substances (PFAS)                      chemicals"                                           non-linear
+Cadmium                                Batteries, pigments, metal coatings, plastics;       No link
+                                       occupational
+Organochlorine pesticides              Agriculture and mosquito control 1940s–1960s;        Modest ↑; stronger in
+                                       DDT; lindane (lice)                                  prospective cohorts
+Chromium                               Stainless steel, chromium plating                    Modest ↑ (largest of the four)
+
+Timing of Puberty
+ • Cancer found at autopsy in 20-year-olds implies early-life determinants.
+ • Puberty onset is poorly defined in males and poorly recalled → mixed literature; Mendelian
+   randomisation: early puberty → higher risk, especially aggressive.
+ • Earlier puberty in young Black males is proposed to contribute to more aggressive disease.
+
+Hormonal Levels
+ • Hormones act at distant and local sites; advanced cancers synthesise their own testosterone in a castrate
+   environment.
+HORMONES AND PROSTATE CANCER RISK
+
+Hormone                    Evidence                                                                       Direction
+Testosterone               Adult serum (total, free): minimal or protective. Mendelian                    ↑ (modest,
+                           randomisation: free (not total) testosterone ↑ aggressive and total            genetic/functional
+                           cancer — positive <60, inverse at older ages. Vertex baldness (not other       markers)
+                           patterns) → higher risk
+Insulin                    Pro-growth; stimulates cells in vitro; higher levels ↑ risk, especially in     ↑
+                           older males
+IGF-1                      Shares hybrid insulin/IGF-1 receptors; less diet-sensitive; serum and          ↑
+                           Mendelian randomisation both ↑ risk
+Intrauterine               Slight excess → enlargement; very high (young animals) → small sclerotic ↑ (hypothesis)
+oestrogen                  prostate; may imprint the prostate. Higher oestrogen in Black mothers →
+                           proposed in-utero contribution
+
+ • Trap: adult serum testosterone does not predict risk; only genetically determined free testosterone and
+   functional markers do, and modestly.
+Concept — Many "assorted" associations are artefacts of who gets a PSA test (vasectomy, prostatitis,
+inflammation, STIs); those that survive point to early-life hormonal programming — puberty timing, in-utero
+oestrogen, genetically higher free testosterone — acting decades before diagnosis.
+
+
+PRIMARY PREVENTION
+
+Drugs
+ • High prevalence and morbidity make prostate cancer a prime chemoprevention target, yet no agent is
+   approved by the United States Food and Drug Administration (FDA) despite several large, often positive,
+   randomised trials.
+
+
+                                                            page 19 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                   Primary Prevention
+ • The bar has moved from preventing total to preventing aggressive cancer; no agent has met it in phase
+   III. Prostate cancer death is rare in healthy men, making benefit hard to show.
+ • Proposal: target high-risk cohorts and mechanism-matched patients — but predictive biomarkers are
+   lacking, or so clear that withholding the drug is unethical (a statin in hypercholesterolaemia).
+ • Effort has therefore shifted to secondary prevention (delaying progression), largely beyond this chapter.
+
+5α-Reductase Inhibitors
+ • 5α-Reductase inhibitors (5ARIs) — finasteride, dutasteride — block testosterone → dihydrotestosterone
+   (DHT); in enlarged prostates they shrink volume ~25% and lower PSA ~50%.
+ • Rationale: androgen dependence; androgen–risk links; 46,XY infants with 5α-reductase deficiency have
+   only rudimentary prostates.
+ • The best-studied and most controversial preventive drugs.
+PCPT VS REDUCE — 5ARI CHEMOPREVENTION TRIALS
+
+                                                                               REduction by DUtasteride of prostate
+                             Prostate Cancer Prevention Trial (PCPT)           Cancer Events (REDUCE)
+Agent                        Finasteride 5 mg daily vs placebo                 Dutasteride 0.5 mg daily vs placebo
+Population                   Average risk; PSA ≤3.0 ng/mL; 18,882 men          High risk: raised PSA (2.5–10 ng/mL) and
+                                                                               a prior negative biopsy
+Follow-up / biopsy           7 years; annual PSA and rectal examination; end- 4 years; protocol biopsies at 2 and 4
+                             of-study biopsy for all                          years, plus for-cause
+Primary end point            Prevalence over 7 years                           Cancers diagnosed over 4 years
+Overall cancer               ↓ 24.8% (18.4% vs 24.4%)                          ↓ 22.8% (19.9% vs 24.9%)
+High-grade cancer            Gleason 7–10 ↑: 6.4% vs 5.1%                      Gleason 8–10 ↑: 0.9% vs 0.6%; years 3–
+                                                                               4: 12 vs 1
+Mortality                    18.4-year median follow-up: non-significant 25% —
+                             lower prostate cancer death
+Regulatory outcome           Not approved for prevention; FDA added a high-grade cancer warning to 5ARI labels
+
+ • Proposed artefacts for the high-grade excess — finasteride makes PSA a better marker (biopsy selection)
+   and shrinks the gland (easier detection) — were not accepted by the FDA.
+ • Trap: two differently designed trials gave the same answer — about a quarter fewer cancers, but slightly
+   more high-grade ones.
+
+Observational Data
+ • Meta-analyses of real-world use confirm lower diagnosis, higher Gleason 8–10, but no association with
+   prostate cancer mortality (>3 million men); null also when excluding baseline cancers and in PSA-adjusted
+   analyses.
+ • Conclusion: 5ARIs reduce diagnosis, with no or minimal effect on prostate cancer death.
+
+Aspirin/Nonsteroidal Anti-inflammatory Drugs
+ • Rationale: inflammation. Aspirin: small reduction in risk, no effect on mortality; non-steroidal anti-
+   inflammatory drugs (NSAIDs): similar modest reduction.
+ • Screening bias (aspirin users are health-seekers) may underestimate benefit; within REDUCE, where all
+   were biopsied, the reduction was slightly stronger.
+ • Still modest — not used routinely for prevention.
+
+
+
+
+                                                            page 20 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                    Primary Prevention
+Statins
+ • Most prescribed drugs in the West. Cholesterol is the precursor of testosterone and contributes to
+   inflammation.
+ • Observational: lower advanced/fatal cancer and better outcomes; not replicated in trials (short follow-
+   up); no randomised trial with a prostate cancer prevention end point. Remain very promising.
+
+Metformin
+ • Lowers insulin; rationale from the insulin link. Observational data largely null — no association among
+   diabetics.
+CHEMOPREVENTIVE DRUGS — COMPARISON
+
+                                                                            Total
+Agent          Mechanism                         Evidence                   cancer   Aggressive / fatal   Status
+5ARIs          Block testosterone → DHT          Phase III (PCPT,           ↓ ~25% ↑ high-grade           Not approved;
+                                                 REDUCE) +                         detection; mortality   warning label
+                                                 observational                     null
+Aspirin /      Anti-inflammatory                 Observational; REDUCE Small ↓ Mortality null             Not routine
+NSAIDs                                           secondary analysis
+Statins        ↓ cholesterol (testosterone Observational only               —        ↓ advanced/fatal     Promising;
+               precursor), anti-                                                                          untested in RCT
+               inflammatory
+Metformin      ↓ insulin                         Observational              Null     —                    No evidence
+
+Concept — Every agent to date reduces the diagnosis of indolent cancer without proven effect on lethal
+cancer; once the bar became aggressive disease, the total-incidence wins of PCPT and REDUCE no longer
+counted, and the one class that targets advanced disease (statins) has never had its phase III trial.
+
+ KEY POINTS: PRIMARY PREVENTION
+   • No FDA-approved agent prevents prostate cancer despite large, often positive trials.
+   • The FDA rejected artefact explanations for the high-grade excess with 5ARIs and modified their labels.
+   • Long-term PCPT follow-up (median 18.4 years): non-significant 25% lower prostate cancer death with
+     finasteride.
+   • Statins: observational benefit not yet replicated in trials.
+
+
+SECONDARY PREVENTION
+ • High prevalence and long natural history shift interest from primary prevention (avoiding diagnosis) to
+   secondary prevention (avoiding progression). Drugs are covered elsewhere; natural agents and lifestyle
+   here.
+ • Prostate Cancer Lifestyle Trial: 93 men on active surveillance (Gleason <7, PSA 4–10 ng/mL); 1-year
+   intervention — low-fat plant-based diet, exercise, stress management, group support — vs usual care; at 2
+   years, 27% of controls vs 5% of the intervention arm had needed conventional treatment (P < 0.05).
+ • Hard end points (metastasis, prostate cancer death) come mainly from observational studies.
+
+Physical Activity
+ • Cohort meta-analysis: higher recreational activity → ~31% lower prostate cancer-specific mortality.
+ • Reverse causation (progressing cancer limits activity) addressed by a 4–6-year lag; results persisted,
+   strongest for vigorous activity.
+
+
+                                                            page 21 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                     Secondary Prevention
+ • Also protects against cardiovascular disease, which kills more men with non-metastatic prostate cancer
+   than the cancer does.
+ • 2018 United States Physical Activity Guidelines: ≥150 min/week moderate or ≥75 min/week vigorous
+   aerobic activity; they concluded regular activity is associated with lower prostate cancer mortality.
+
+Diet
+ • Few studies. Only factor graded at least suggestive: whole milk/high-fat dairy (≥4 servings/week vs 0–3/
+   month) → higher recurrence and mortality.
+ • Inconsistent: red meat and eggs ↑; fish, poultry, tomatoes and cruciferous vegetables ↓ — healthier
+   foods tracking lower risk.
+ • Physicians' Health Study dietary patterns:
+WESTERN VS PRUDENT PATTERN AFTER DIAGNOSIS (PHYSICIANS' HEALTH STUDY)
+
+Western (processed and red meat, high-fat dairy, refined
+grains)                                                  Prudent (vegetables, fruit, fish, legumes, whole grains)
+Highest vs lowest quartile: HR 2.53 prostate cancer-              36% lower all-cause mortality; prostate cancer-specific
+specific mortality; HR 1.67 all-cause                             mortality lower but not significant
+
+ • A randomised trial of a very-low-carbohydrate diet (insulin-lowering) in biochemical recurrence slowed
+   PSA doubling time.
+
+Tobacco
+ • Smoking after diagnosis → higher recurrence/progression and prostate cancer-specific mortality,
+   consistently.
+ • Caveat: post-diagnosis smokers smoked for decades before, so the timing of harm is unclear, and benefit
+   from quitting after diagnosis is unproven.
+ • Localised disease: quit ≥10 years → recurrence risk as never-smokers; quit <10 years → increased.
+
+Alcohol
+ • Very limited data. Organ-confined (≤T2) disease: ≥2 drinks/day → higher prostate cancer mortality,
+   driven by liquor.
+ • HPFS (non-metastatic): beer ↑; moderate wine (3–7 servings/week), mainly red, protective. Red wine →
+   lower all-cause mortality in both studies.
+ • Too limited for a recommendation; beverage type and drinking pattern (daily moderate vs binge) likely
+   matter; wine polyphenols may be anti-inflammatory.
+
+Anti-inflammatory
+ • Given inflammation's proposed role, several anti-inflammatory approaches have been tested against
+   progression.
+
+Pomi-T
+ • Polyphenol-rich whole-food capsule: pomegranate, green tea, curcumin (turmeric), broccoli. 6-month
+   placebo-controlled trial in 203 men on active surveillance/watchful waiting or with biochemical
+   recurrence: significantly smaller PSA rise in both groups; well tolerated (slight, non-significant bloating,
+   flatulence, loose stools).
+
+Pomegranate
+ • Single-arm slowing of PSA rise not confirmed by the placebo-controlled trial → no strong evidence,
+   despite wide use in biochemical recurrence.
+
+
+                                                            page 22 of 23
+Chapter 153 — Epidemiology, Aetiology and Prevention of Prostate Cancer                                   Secondary Prevention
+Phytoestrogen
+ • See Phytoestrogens under Supplements, Vitamins and Minerals.
+
+Soy
+ • Limited data; the randomised trial of soy protein showed no effect on recurrence in high-risk disease.
+SECONDARY PREVENTION — INTERVENTIONS AND VERDICT
+
+Intervention              Evidence                               Outcome                                Verdict
+Comprehensive             Randomised (Prostate Cancer            Fewer men needing treatment on         Supportive
+lifestyle                 Lifestyle Trial)                       surveillance
+Physical activity         Cohorts, lag-adjusted; national        ↓ prostate cancer mortality            Recommend
+                          guidelines
+Western vs Prudent        Cohort                                 Western ↑ prostate cancer and all-     Prudent pattern
+diet                                                             cause death
+Whole milk/high-fat       Cohorts                                ↑ recurrence and mortality             Limit
+dairy
+Low-carbohydrate          Randomised                             Slower PSA doubling                    Promising
+diet
+Smoking                   Cohorts                                ↑ recurrence and mortality; quit ≥10   Stop
+                                                                 years neutralises
+Alcohol                   Cohorts                                Liquor/beer ↑; red wine ↓              No
+                                                                                                        recommendation
+Pomi-T                    Randomised                             Smaller PSA rise                       Promising
+Pomegranate; soy          Randomised                             Null                                   No benefit
+
+Concept — After diagnosis the same lifestyle axis recurs — activity, prudent diet, avoiding high-fat dairy and
+smoking — and much of its benefit is in competing (cardiovascular) mortality as well as prostate cancer
+death; single natural agents again fail placebo-controlled testing, Pomi-T excepted.
+
+
+SUMMARY
+ • Very common, especially subclinically (autopsy) → anything that increases screening increases diagnosis,
+   hindering identification of true risk factors.
+ • Age, family history and race are unequivocal; family history acts through genetics and shared lifestyle.
+ • Increasingly strong evidence for obesity and smoking, especially for lethal disease.
+ • Diet probably matters, but the ideal anti-prostate cancer diet remains elusive.
+ • No drug is approved or widely used for prevention.
+
+
+
+
+                                                            page 23 of 23
+
