@@ -1,0 +1,1934 @@
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis          EPIDEMIOLOGY OF RENAL CALCULI
+
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology,
+and Pathogenesis
+ • Stone disease is ancient but has changed its site and its sex: with Westernisation, stone formation has
+   migrated from the lower to the upper urinary tract, and a disease that historically favoured males is
+   becoming increasingly sex-neutral.
+ • Minimally invasive and non-invasive techniques have transformed stone removal, but surgery does not
+   alter the course of the disease — the stone is removed, the tendency to form stones is not.
+ • Cost: annual United States (US) expenditure on insured patients with nephrolithiasis exceeded $10 billion
+   in 2012, a nearly fivefold rise since 2000.
+ • Because recurrence is frequent, a medical prophylactic programme is desirable, and that requires
+   understanding of cause, epidemiology and pathogenesis.
+Concept — Stone treatment is two separate problems: removal is surgical, recurrence is metabolic, and the
+rest of this chapter exists to explain the metabolic half.
+
+EPIDEMIOLOGY OF RENAL CALCULI
+
+Prevalence and Incidence
+ • Lifetime prevalence 1–15%, varying with age, sex, race and geography.
+ • Regional prevalence: North America 7–13%, Europe 5–9%, Asia 1–5%.
+ • National Health and Nutrition Examination Survey (NHANES): linear rise in US adult prevalence 1976–
+   2010; a transient dip (2007–2008 to 2011–2012) was followed by renewed rise to about 10% in 2015–
+   2016; age-standardised prevalence 2007–2016 ≈ 9.3%.
+ • 12-month incidence (2015–2018) ≈ 2.1%, about 2000 stones per 100,000 adults.
+ • The rise is global (Europe, Japan, US) and partly a detection artefact — more computed tomography (CT)
+   finds more asymptomatic calculi.
+
+Sex
+ • Historically male-predominant: by inpatient, outpatient and emergency-department indicators, males
+   were affected two to three times more often than females.
+ • The gap is narrowing:
+      ◦ US inpatient discharges 1997–2002: female discharges rose, male discharges fell; the male-to-female
+        ratio fell from 1.7 to 1.3.
+      ◦ NHANES 2007–2018: prevalence rose in females, unchanged in males — persisting after adjustment
+        for sociodemographic and dietary factors.
+      ◦ Population data 1997–2012: female incidence rose about 15% per 5 years; male incidence stable; the
+        steepest female rise was in 10- to 19-year-olds.
+ • Females carry more stone-related morbidity (retrospective data): more positive urine cultures,
+   nephrostomy placement, intensive care admission and longer stays.
+
+Race and Ethnicity
+ • NHANES 2007–2016 prevalence by group (highest to lowest): non-Hispanic White > Hispanic > non-
+   Hispanic Black > non-Hispanic Asian.
+ • Trend: prevalence rose in White and (slightly) Hispanic groups; stable in Black and Asian groups.
+
+
+                                                               page 1 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                    EPIDEMIOLOGY OF RENAL CALCULI
+ • Sex ratio varies by race (table); rising incidence was greater in Black females than Black males.
+ • Race is a social construct, not a genetic proxy: differences reflect genetics plus cultural and
+   sociodemographic factors.
+ Governing contrast                   White                                   Black
+ Prevalence rank                      Highest                                 Low (second lowest)
+ Male-to-female ratio                 ≈ 2.3 (male predominance)               ≈ 0.65 (female predominance)
+
+Age
+ • Paediatric stones are rising at 5–10% per year; historically uncommon under age 20.
+ • Paediatric incidence peaks in female adolescents — the reverse of the adult sex pattern; young females
+   are also more often hospitalised.
+ • Population data (Olmsted County, 1984–2008): overall paediatric rise about 4% per year, about 6% per
+   year in 12- to 17-year-olds.
+ • Proposed drivers of the paediatric rise: obesity and metabolic syndrome reaching younger generations,
+   or changes in the exposome rather than genetics or comorbidity alone.
+ • Adult incidence peaks in the fourth to sixth decades; prevalence rises with age in both sexes — in males
+   highest over 80 years.
+ • Females have lower prevalence than males at every age except 20–39 years, where female prevalence is
+   higher.
+ • Recent NHANES: female prevalence rose only in those under 60; no rise in females over 60.
+ • Bimodal female distribution: a second peak in the sixth decade at menopause, attributed to loss of
+   oestrogen.
+      ◦ Oestrogen is protective — it enhances renal calcium reabsorption and reduces bone resorption.
+      ◦ Females have lower urinary calcium and calcium oxalate and brushite saturation than males until
+        beyond age 50; oestrogen-treated postmenopausal females have lower urinary calcium and
+        saturation than untreated ones.
+Concept — Age and sex patterns are largely hormonal and metabolic: oestrogen holds urinary calcium down
+until menopause, while obesity and metabolic syndrome are pulling stone disease into younger, and
+increasingly female, populations.
+
+Geography and Climate
+ • Prevalence follows environmental risk: highest in hot, arid or dry climates (mountains, desert, tropics),
+   although genetic and dietary factors may outweigh geography.
+ • US veteran data: calcium oxalate stones highest in the Southeast, uric acid stones highest in the East.
+ • Prevalence rises from north to south and from west to east, highest in the Southeast (the "stone belt");
+   ambient temperature and sunlight are independent predictors.
+ • Seasonal variation: peak in summer (July–September), within 1–2 months of maximal mean
+   temperature — via perspiration fluid losses and possibly sunlight-induced vitamin D. Confirmed
+   worldwide by systematic review.
+ • Short latency: once mean daily temperature exceeds 10 °C, stone presentations rise within the ensuing
+   10 days.
+ • Military translocation studies (a natural experiment):
+      ◦ Soldiers in desert postings — more renal colic in summer.
+      ◦ Personnel deployed to Kuwait and Iraq — mean time to stone formation ≈ 93 days.
+
+
+                                                               page 2 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                    EPIDEMIOLOGY OF RENAL CALCULI
+      ◦ Soldiers transferred to the Persian Gulf in summer developed raised urinary calcium within 10 days
+        (not in the cold season) — attributed to sunlight-induced 1,25-dihydroxyvitamin D3 [1,25(OH)2D3].
+ • Heat response is mainly male: prevalence rises more steeply per degree in males, and heat-related
+   emergency presentation rises more in males and most at 40–69 years (confounders: sunlight, occupation,
+   hydration).
+ • Global warming projections: modelled temperature–prevalence relationships (peaked/non-linear in one
+   data set, linear in another) predict 1–1.5 million additional lifetime cases by 2050 and a northward
+   expansion of the stone belt; a further projection anticipates about 10,000 additional emergency
+   presentations between 2025 and 2089.
+ • Urban heat islands: urbanisation, architecture and reduced vegetation make cities warmer — a proposed
+   contributor, not yet tested against fluid intake, diet and socioeconomic status.
+Concept — Climate acts indirectly — heat drives low urine volume and sunlight drives vitamin D-mediated
+hypercalciuria — so geography is really a proxy for these two urinary effects, predominantly in males.
+
+Occupation
+ • Heat exposure and dehydration are occupational risk factors:
+      ◦ Royal Navy — cooks and engine-room personnel had the highest stone rates.
+      ◦ Steelworkers in hot areas — markedly higher stone incidence than those at normal temperatures,
+        with low urine volume and hypocitraturia.
+      ◦ Glass-plant workers exposed to heat — lower urine volume and pH, higher uric acid and specific
+        gravity, hence high uric acid saturation; stone formers among them had a strikingly high proportion
+        of uric acid stones.
+ • Sedentary occupations (managerial, professional) carry increased risk, reason unclear:
+      ◦ consistent with higher risk in affluent individuals and societies (richer diet and lifestyle);
+      ◦ alternatively, inactivity increases bone turnover and urinary calcium — the same mechanism seen in
+        astronauts under weightlessness, where exercise to limit bone demineralisation is the best
+        prevention.
+ • Restricted bathroom access (taxi drivers, operating-room staff) increases risk.
+ Occupational mechanism           Examples                                    Urinary consequence
+ Heat / dehydration               Cooks, engine rooms, steel and glass        Low volume, low pH, hypocitraturia → uric
+                                  workers                                     acid stones
+ Sedentary                        Managerial, professional; astronauts        Bone turnover → hypercalciuria
+                                  (weightlessness)
+ Restricted voiding / fluid       Taxi drivers, operating-room staff          Low volume
+ access
+
+Obesity, Diabetes, and Metabolic Syndrome
+ • Stone prevalence and incident risk rise with weight and body mass index (BMI) in both sexes — the
+   association is stronger in females (two large prospective cohorts).
+ • Obesity and weight gain are independent risk factors, not explained by diet alone; confirmed in further
+   cohorts and claims data.
+ • Women's Health Initiative Observational Study (postmenopausal females without prior stones): higher
+   BMI, less physical activity and energy intake > 2200 kcal/day each independently raised incident risk —
+   supporting diet and exercise components of weight-loss counselling in prevention.
+
+
+
+                                                               page 3 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                       EPIDEMIOLOGY OF RENAL CALCULI
+ • Metabolic syndrome (visceral obesity with hyperlipidaemia, hypertriglyceridaemia, hyperglycaemia and/
+   or hypertension) increases stone risk, with risk rising with the number of metabolic traits; it is also a
+   precursor of type 2 diabetes mellitus.
+ • Diabetes and stones — a bidirectional, sex-specific link:
+      ◦ Diabetes predicts incident stones in females but not males (after adjusting for BMI, diet and
+        thiazides).
+      ◦ A stone history predicts incident diabetes in both sexes; stone formers are about 1.3 times more
+        likely to be diagnosed with diabetes within 5 years.
+      ◦ In asymptomatic stones followed by CT, fasting glucose ≥ 100 mg/dL predicted stone growth —
+        suggesting glycaemic control may reduce recurrence.
+ • Unifying mechanism: insulin resistance:
+      ◦ Obesity and insulin resistance → low urine pH → uric acid stones.
+      ◦ Hyperinsulinaemia → hypercalciuria → calcium stones.
+      ◦ Overweight (BMI 25–30 kg/m²) is already associated with lower urine pH and higher urinary sodium,
+        uric acid and calcium.
+      ◦ Abnormalities are harder to correct with rising BMI: response to potassium citrate for low pH and
+        hypocitraturia falls as BMI rises, requiring more dose adjustment.
+ • Hepatic link to oxalate: in a mouse model, non-alcoholic steatohepatitis (NASH) down-regulated
+   alanine-glyoxylate aminotransferase (AGXT) — the enzyme deficient in primary hyperoxaluria type 1
+   (PH1) — increasing oxalate production; a proposed explanation for calcium oxalate stones in diabetes,
+   obesity and metabolic syndrome.
+ • Higher BMI → more urinary oxalate, uric acid, sodium and phosphorus.
+ Obesity-associated stone              Principal driver
+ Calcium oxalate                       Increased excretion of promoters (oxalate, calcium, sodium, uric acid)
+ Uric acid                             Low urinary pH
+
+Concept — Obesity, diabetes and metabolic syndrome converge on insulin resistance, which lowers urine pH
+(uric acid stones) and raises promoter excretion (calcium oxalate stones) — so the stone is a urinary marker of
+a systemic metabolic state.
+
+Cardiovascular Disease
+ • Hypertension: meta-analysis shows stone formers have a significantly increased risk of hypertension,
+   stronger in females.
+      ◦ Proposed shared dietary exposures: calcium, sodium, potassium.
+      ◦ Hypertensive individuals have higher urinary calcium, uric acid, oxalate and calcium oxalate
+        supersaturation; hypertensive stone formers excrete about 25 mg/day more calcium than
+        normotensive stone formers.
+ • Heart disease — association, causation unproven:
+      ◦ Stone history associated with higher incidence of myocardial infarction (MI), independent of chronic
+        kidney disease (CKD).
+      ◦ Stone history associated with subclinical carotid atherosclerosis in young people.
+      ◦ In three large prospective cohorts, stones predicted heart disease in both female cohorts but not the
+        male cohort.
+
+
+
+
+                                                               page 4 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                          EPIDEMIOLOGY OF RENAL CALCULI
+      ◦ Large population cohort (> 3 million): stone formers had higher risk of acute MI and stroke, greater in
+        younger individuals (< 50 years) and in females.
+ • Candidate mechanisms:
+      ◦ Dyslipidaemia (high total cholesterol, high triglycerides, low high-density lipoprotein (HDL)) alters
+        urine chemistry towards stone formation.
+      ◦ Calcium-sensing receptor (CaSR) dysfunction — a G-protein-coupled receptor expressed in kidney and
+        vasculature — a molecular bridge.
+      ◦ Oxidative stress, endothelial dysfunction and inflammation.
+
+Chronic Kidney Disease
+ • Stone history is associated with CKD after controlling for confounders (case–control study).
+ • Stone formers, especially with BMI ≥ 27 kg/m², have a lower estimated glomerular filtration rate (eGFR)
+   and are nearly twice as likely to have stage III CKD.
+ • Prospective cohorts (insured, predominantly White) confirm higher incident CKD.
+ • Stones associated with CKD and end-stage renal disease (ESRD) requiring dialysis — accounted for
+   largely by females; no association in males.
+ • Symptomatic stone formers have increased ESRD risk, possibly from repeated obstruction.
+ • Causal versus shared-risk-factor relationship remains unresolved.
+Concept — Across hypertension, cardiovascular disease and CKD the pattern repeats: the association is real,
+stronger in females, and not proven causal — stones and these diseases probably share a metabolic soil.
+
+Water
+ • Fluid intake is inversely related to incident stones (two large observational studies).
+ • Landmark trial — Borghi (1996), randomised trial in first-time idiopathic calcium stone formers: high
+   fluid intake raised urine volume and cut recurrence to 12% versus 27% in controls given no advice.
+ • Water hardness (calcium carbonate content):
+      ◦ Some studies found fewer stones in "hard"-water regions; others found no difference.
+      ◦ Hardness correlates with urinary calcium and citrate, but not with stone episodes.
+      ◦ Systematic review (1989–2018): hard water and mineral water raise calcium intake (and potentially
+        urinary calcium), yet the net effect is reduced calcium stone formation, putatively from high
+        magnesium and bicarbonate — but studies were heterogeneous, no meta-analysis, so interpret with
+        caution.
+ Hard water — opposing effects                   Direction
+ High calcium content                            Raises urinary calcium (pro-stone)
+ High magnesium and bicarbonate                  Inhibit / raise citrate (anti-stone) — net effect probably protective
+
+Concept — Volume is the one universally effective modifier — proven by randomised trial — whereas water
+composition is a weak, conflicting and poorly evidenced influence.
+
+ KEY POINTS: EPIDEMIOLOGY
+   • Upper-tract stones are commoner in males, but the gap is narrowing.
+   • White individuals have the highest incidence compared with Asian, Hispanic and Black individuals.
+   • Geographic variability, with highest prevalence in the Southeast (US).
+   • Risk correlates with weight and BMI.
+
+
+
+                                                               page 5 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                   PHYSICOCHEMISTRY AND PATHOGENESIS
+   • Stones are associated with diabetes, metabolic syndrome, cardiovascular disease and CKD, causation
+     unproven.
+
+
+PHYSICOCHEMISTRY AND PATHOGENESIS
+ • Stone formation is a cascade along the nephron: urine becomes supersaturated → ions precipitate as
+   crystals or nuclei → crystals either pass in the urine or are retained at anchoring sites → growth and
+   aggregation → stone.
+
+State of Saturation
+ • Concentration product (CP) — the product of the concentrations of a salt's pure chemical components
+   (e.g. CP = [Na⁺][Cl⁻]).
+ • Thermodynamic solubility product (Ksp) — the CP at saturation, where dissolved and crystalline phases
+   are in equilibrium; adding crystals beyond this causes precipitation unless pH or temperature change.
+ • Formation product (Kf) — the CP at which the salt can no longer be held in solution and crystals form
+   spontaneously.
+ • Urine holds salts above Ksp without precipitating because of inhibitors and other molecules — this
+   supersaturated-but-stable state is metastable.
+ State (Fig. 95.3) Concentration product            What happens
+ Undersaturated < Ksp                               Crystals never form; existing stones may dissolve
+ Metastable           Ksp to Kf — where most No spontaneous (homogeneous) nucleation; growth on existing crystals
+                      urinary stone salts sit possible; heterogeneous nucleation may occur; inhibitors effective;
+                                              matrix may be involved; the zone of therapeutic intervention
+ Unstable             > Kf                          Spontaneous nucleation, growth and aggregation; inhibitors not
+                                                    generally effective
+
+ • How crystals still form in metastable urine — three routes:
+    1. Local CP exceeds Kf in parts of the nephron long enough for nucleation.
+    2. Obstruction or stasis prolongs transit time.
+    3. Heterogeneous nucleation — impurities adsorb crystal components in a lattice-like geometry, needing
+       much less energy than homogeneous nucleation.
+ • Estimating saturation:
+      ◦ Activity product ratio — accounts for urine pH and ionic activities of all major ion species and overall
+        ionic strength.
+      ◦ EQUIL 2 — computer program, commonly used; gives the relative saturation ratio (RSR), also called
+        concentration product ratio (CPR) = urine CP ÷ Ksp of the salt.
+      ◦ RSR < 1 → crystals dissolve; RSR > 1 → crystals form and grow.
+ • Lowering RSR:
+      ◦ Reduce urinary concentration of stone components (calcium, oxalate), reduce filtered load, or
+        increase tubular reabsorption.
+      ◦ Complexation — citrate binds calcium, cutting free ionic calcium.
+      ◦ pH manipulation works for phosphate (strongly pH-dependent) but not for oxalate — oxalic acid is a
+        strong acid (pK ≈ 4), so physiological pH changes barely alter oxalate.
+
+
+
+
+                                                               page 6 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                 PHYSICOCHEMISTRY AND PATHOGENESIS
+
+                                                                                            Performance against direct
+ Saturation method                 Basis                                                    measurement
+ EQUIL 2 → RSR                     Computer-derived ionic activities                        Overestimates saturation (≈
+                                                                                            80% for brushite, ≈ 50% for
+                                                                                            calcium oxalate)
+ JESS (Joint Expert                Adds soluble complexes EQUIL 2 omits (dicalcium-         No significant difference from
+ Speciation System) →              dihydrogen phosphate, calcium phosphocitrate — pH-       direct measurement — the
+ supersaturation index (SI)        and citrate-dependent); therefore lower estimated        more reliable routine estimate
+                                   ionised calcium, phosphate and oxalate
+ Experimentally                    CP measured before and after incubation with             Reference method, but too
+ determined CPR                    synthetic stone salt (growth or dissolution) — no        labour-intensive for routine
+                                   computed activities                                      use
+
+ • Calcium versus oxalate — which matters more?
+      ◦ Historical view: oxalate dominates — a rise in oxalate raised calcium oxalate saturation more than a
+        rise in calcium, and calcium-driven saturation plateaued below Kf whereas oxalate-driven saturation
+        did not.
+      ◦ Revised view: equal contributors — the relative effect depends on the stability constant chosen; with
+        the accepted constant (2.746 × 10³, used in EQUIL 2) calcium and oxalate have equivalent effects (Fig.
+        95.4). Re-analysis with JESS confirmed equivalence, though dependence was less marked.
+      ◦ Therapeutic corollary: lowering either calcium or oxalate reduces calcium oxalate saturation.
+Concept — Every prevention strategy is an attempt to push urine down out of the metastable zone — by
+dilution, by lowering calcium or oxalate (equally effective), by complexation with citrate, or (for phosphate
+and uric acid, never oxalate) by changing pH.
+
+Nucleation and Crystal Growth, Aggregation, and Retention
+ • Normal urine holds calcium oxalate at about four times its aqueous solubility.
+ • Promoters of calcium oxalate supersaturation: low volume, low citrate; high calcium, oxalate,
+   phosphate, uric acid.
+ • With inhibitors present, calcium oxalate precipitates only at 7–11 times its solubility.
+ • Homogeneous nucleation — nuclei form in pure solution; nuclei = earliest crystal structures that will not
+   dissolve.
+      ◦ Small nuclei are unstable — below a critical size, dissolution is favoured.
+      ◦ Nuclei persist if driving force (supersaturation) and stability are favourable and lag time to nucleation
+        is short relative to nephron transit.
+      ◦ Inhibitors (e.g. citrate) destabilise nuclei; promoters stabilise them by offering a binding surface.
+ • In vivo, nucleation is usually heterogeneous — on epithelial cells, cell debris or other crystals.
+ • Nephron transit ≈ 5–7 minutes — too short for a single crystal to grow large enough to occlude a tubule,
+   but aggregation of many nuclei can produce occluding particles within minutes.
+ • Inhibitors can block growth or aggregation at each step (see the inhibitor table).
+ Theory of
+ retention          Free particle                                                  Fixed particle
+ Premise            Crystals grow and aggregate free in tubular fluid, then are Crystals bind an anchoring site,
+                    retained                                                    prolonging exposure to supersaturated
+                                                                                urine
+
+
+
+
+                                                               page 7 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                         PHYSICOCHEMISTRY AND PATHOGENESIS
+
+ Theory of
+ retention          Free particle                                                        Fixed particle
+ Status             Initially judged impossible within transit time;                     Anchoring site = Randall plaque on the
+                    recalculation with current nephron dimensions shows                  renal papilla
+                    retention is possible
+ Histological       Crystals occluding inner medullary collecting ducts                  Subepithelial papillary plaque in
+ support            (ductal plugs) in selected patients                                  idiopathic calcium oxalate stone formers
+
+Randall Plaque
+ • Randall (1937) found subepithelial papillary plaque in 17% of autopsy kidneys; proposed an origin in the
+   basement membrane, with erosion through the papillary surface creating a nidus.
+ • Endoscopy: papillary plaques in 74% of stone formers versus 43% of controls.
+ • Papillary biopsy at percutaneous nephrolithotomy in idiopathic calcium oxalate stone formers localised
+   the sequence: basement membrane of the thin limbs of the loop of Henle → medullary interstitium →
+   subepithelial papilla → erosion through urothelium → anchored surface → calcium oxalate stone grows
+   attached.
+ • Plaque mineral = calcium apatite (carbapatite) — by infrared microspectroscopy, electron diffraction and
+   analysis of > 5000 plaque-associated stones.
+ • Microstructure: laminated particles of alternating mineral and organic layers; osteopontin sits at the
+   crystal–organic interface; apatite forms spherulites that grow, aggregate and fuse; in the basement
+   membrane they lie in amorphous matrix and membrane-bound vesicles; migrating through the
+   interstitium they propagate a mineralisation front on collagen and cell debris until they reach the
+   papillary subepithelium.
+ • Calcifying nanoparticles ("nanobacteria") — implicated in atherosclerotic calcification; associated (not
+   proven causal) with Randall plaque.
+ • Vascular hypothesis: injury to the vasa recta near the papilla → atherosclerosis-like repair and
+   calcification → erosion into interstitium and collecting ducts → nidus.
+      ◦ Supported by osteogenic transformation: vascular smooth muscle becomes osteoblast-like with high
+        calcium and phosphate; rat tubular cells show osteogenic activity with high oxalate or crystals,
+        mediated by nicotinamide adenine dinucleotide phosphate (NADPH) oxidase and reactive oxygen
+        species.
+Plaque versus Plug — by Stone-Former Type
+ Stone former                                     Randall plaque        Ductal plugs               Other histology
+ Idiopathic calcium oxalate                       Present — the         Uncommon (but see          —
+                                                  anchoring site        below)
+ Intestinal bypass (enteric                       Absent                Apatite plugs in inner     Epithelial damage, interstitial
+ hyperoxaluria)                                                         medullary collecting       inflammation and fibrosis
+                                                                        ducts
+ Brushite                                         Present               Apatite plugs in inner     Collecting-duct injury,
+                                                  (interstitial         medullary and terminal     interstitial fibrosis —
+                                                  apatite)              collecting ducts           intermediate between the two
+                                                                                                   above
+
+
+
+
+                                                                  page 8 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                      PHYSICOCHEMISTRY AND PATHOGENESIS
+
+ Stone former                                     Randall plaque       Ductal plugs             Other histology
+ Distal renal tubular acidosis (RTA),             —                    Ductal plugs present     —
+ primary and secondary
+ hyperparathyroidism, cystinuria
+
+ • Brushite pathogenesis (proposed): apatite crystallises in collecting ducts → duct injury, cell death, duct
+   dilatation → interstitial inflammation → progressive involvement of adjacent tissue.
+ • Calcium oxalate-to-brushite conversion hypothesis: an insult such as infection or shock-wave lithotripsy
+   causes tubular dysfunction, alkaline environment, inflammation and intraductal hyaluronic acid,
+   converting a calcium oxalate former into a brushite former.
+ • Evidence that idiopathic stones start on plaque: plaque area correlates with stone number and 24-hour
+   urine parameters; papillary mapping and micro-CT show stones originating on interstitial plaque.
+ • The distinction has blurred (consecutive endoscopic series):
+      ◦ Randall plaque in almost all stone formers (99%) — including uric acid formers.
+      ◦ Ductal plugs in half of uric acid formers and in up to a third of idiopathic calcium oxalate formers
+        (severe in about a tenth), correlating with urine risk parameters.
+      ◦ Plaque covered less papillary surface than earlier reports and did not correlate with urine parameters
+        — possibly because this cohort was more metabolically diverse (not restricted to hypercalciuria).
+      ◦ Practical rule: ductal plugs should raise suspicion of a secondary cause.
+ • "Unified" theory of plaques and plugs:
+      ◦ Plaque: oxidative stress from excess urinary calcium, oxalate and phosphate and/or deficient
+        inhibitors → tubular cells de-differentiate into osteoblast-like cells → calcium phosphate crystals in
+        membrane-bound vesicles → breach basement membrane → contact collagen and membrane debris
+        → plaque spreads through interstitium with inflammation and fibrosis → matrix metalloproteinases
+        breach papillary epithelium → plaque exposed to pelvic urine → stone growth.
+      ◦ Plugs: supersaturated tubular fluid and pelvic urine form plugs that slow outflow from ducts,
+        promoting crystal formation and aggregation by retention.
+ • Knowledge will remain incomplete without a reliable animal model.
+Concept — Two routes to a stone: plaque (an interstitial apatite anchor on which calcium oxalate grows —
+the idiopathic pathway) and plug (intratubular crystal obstruction with tubular injury — the pathway of
+secondary, systemic disease); finding plugs should prompt a search for the secondary cause.
+
+Inhibitors and Promoters of Crystal Formation
+ • Urine is normally supersaturated for calcium, oxalate and phosphate; stones do not form routinely
+   because inhibitors raise the supersaturation needed for nucleation or slow growth and aggregation.
+ • Inhibitors exist for calcium oxalate and calcium phosphate — none is known for uric acid.
+ • Blocking crystal adhesion to epithelium can also prevent retention and growth.
+ • Whole urine raises the formation product of calcium phosphate; inorganic pyrophosphate accounts for
+   a substantial share (25–50%) of this inhibitory activity by one method; by another, citrate, magnesium
+   and pyrophosphate together account for a smaller share, citrate being the most important.
+
+
+
+
+                                                               page 9 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                     PHYSICOCHEMISTRY AND PATHOGENESIS
+
+ Inhibitor                      Nature / source               Principal action               Distinguishing feature
+ Citrate                        Small organic anion           (1) Complexes calcium; (2)     Weak against calcium oxalate
+                                                              inhibits spontaneous           growth, potent against calcium
+                                                              calcium oxalate                phosphate growth
+                                                              precipitation and
+                                                              agglomeration; (3) prevents
+                                                              heterogeneous nucleation
+                                                              of calcium oxalate by
+                                                              monosodium urate
+ Magnesium                      Divalent cation               Complexes oxalate →            Synergy with citrate (negated by
+                                                              lowers ionic oxalate and       uric acid) and with phytate
+                                                              calcium oxalate
+                                                              supersaturation
+ Phytate                        Dietary                       Inhibitor in synthetic urine   Synergistic with magnesium
+ Glycosaminoglycans             Polyanions                    Bind surface calcium →         Chondroitin sulphate most
+ (and acid                                                    inhibit nucleation and         abundant; heparan sulphate
+ mucopolysaccharides,                                         growth                         binds calcium oxalate
+ RNA)                                                                                        monohydrate most strongly;
+                                                                                             lower in stone formers, lowest in
+                                                                                             recurrent formers; yet
+                                                                                             incorporated into apatite stone
+                                                                                             lattice
+ Nephrocalcin                   Acidic glycoprotein;          Inhibits calcium oxalate       Four isoforms: non-formers
+                                proximal tubule and           monohydrate growth,            excrete the two γ-
+                                thick ascending limb          nucleation and aggregation     carboxyglutamic acid-containing,
+                                                                                             inhibitory isoforms; stone
+                                                                                             formers excrete the two non-
+                                                                                             inhibitory isoforms
+ Tamm-Horsfall protein          Membrane-anchored;            Inhibits calcium oxalate       Most abundant urinary protein;
+ (uromodulin)                   thick ascending limb          monohydrate aggregation,       inhibitor in alkaline urine,
+                                and distal convoluted         not growth                     promoter (polymerises) in acidic
+                                tubule; released by                                          urine; a uromodulin allele
+                                phospholipase/                                               protects against calcium stones
+                                protease cleavage                                            (genome-wide association study,
+                                                                                             GWAS); may regulate TRPV5 and
+                                                                                             TRPV6 calcium channels
+ Osteopontin                    Acidic phosphorylated         Inhibits nucleation, growth,   Inducible inhibitor working with
+ (uropontin)                    glycoprotein; bone            aggregation and crystal        constitutive Tamm-Horsfall
+                                matrix and ascending          binding to epithelium          protein
+                                limb/distal tubule
+ Urinary prothrombin            Crystal matrix protein        Reduces aggregation and        —
+ fragment 1 (F1)                resembling                    deposition
+                                prothrombin F1
+ Matrix Gla protein             Vitamin K-dependent;          —                              Gene polymorphism linked to
+ (MGP)                          inhibits vascular                                            vascular calcification and MI; a
+                                calcification                                                single nucleotide polymorphism
+                                                                                             (SNP) linked to calcium oxalate
+                                                                                             stones in Japanese and Chinese
+                                                                                             patients
+
+
+
+
+                                                              page 10 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                    PHYSICOCHEMISTRY AND PATHOGENESIS
+
+ Inhibitor                      Nature / source               Principal action              Distinguishing feature
+ Bikunin                        Light chain of inter-α-       Strong inhibitor of calcium   Up-regulated by oxalate exposure
+                                trypsin inhibitor             oxalate crystallisation,      (rat)
+                                (hepatic glycoprotein:        growth and aggregation in
+                                two heavy, one light          vitro
+                                chain)
+
+Concept — Stone formation is a balance between supersaturation and inhibition; most inhibitors act on
+calcium salts by complexation (citrate–calcium, magnesium–oxalate) or surface binding (glycoproteins), and
+the absence of any uric acid inhibitor is why uric acid stones depend almost entirely on pH.
+
+Matrix
+ • Matrix = the non-crystalline component of stones — ≈ 2.5% of stone weight.
+ • Matrix-dominant stones (a majority of the stone, up to about 65%) occur with chronic urinary tract
+   infection.
+ • Composition hard to define (only about a quarter is soluble): roughly two-thirds protein, with non-
+   amino sugars, glucosamine, bound water and organic ash.
+ • Proteins in matrix: Tamm-Horsfall protein, nephrocalcin, a γ-carboxyglutamic acid-rich protein, renal
+   lithostathine, albumin, glycosaminoglycans, free carbohydrates and matrix substance A.
+ • Matrix substance A — immunologically unique mucoprotein present in the matrix of all stone formers;
+   its antigens are found in the urine of most stone formers and of no healthy individuals.
+ • Proteomics:
+      ◦ Dozens of proteins in calcium oxalate stones, many inflammatory; inflammatory proteins
+        predominate in both calcium oxalate and calcium phosphate stones — suggesting a shared
+        inflammatory pathogenesis.
+      ◦ Later analysis added osteopontin, prothrombin F1 and Tamm-Horsfall protein plus leucocyte proteins
+        (myeloperoxidase, lactotransferrin); variability between stones suggests diverse, partly hereditary
+        aetiology.
+ • Role of matrix — promoter, inhibitor or bystander — is undetermined.
+Figure legends
+ • Fig. 95.7 — Brushite stone formers: (A) white subepithelial plaque plus a yellowish crystalline deposit at
+   the openings of the ducts of Bellini; (B) biopsy — large amounts of Yasue-positive material in the ducts
+   of Bellini. (From Evan et al., 2005.)
+
+ KEY POINTS: PHYSICOCHEMISTRY AND PATHOGENESIS
+   • Urine must be supersaturated for stones to form.
+   • Supersaturation alone is not sufficient — urinary inhibitors prevent crystallisation.
+   • Nephrocalcin, uropontin and Tamm-Horsfall protein are important inhibitors of nucleation, growth
+     and aggregation.
+   • Urinary calcium and oxalate contribute equally to calcium oxalate saturation.
+   • Common calcium stones may originate on subepithelial calcium apatite plaques that anchor calcium
+     oxalate growth.
+   • Matrix — the non-crystalline component — comprises mucoproteins, proteins, carbohydrates and
+     urinary inhibitors.
+
+
+
+
+                                                              page 11 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                              MINERAL METABOLISM
+
+MINERAL METABOLISM
+
+Calcium
+Intestinal absorption
+  • 30–40% of dietary calcium is absorbed, mostly in the small intestine; only about 10% in the colon.
+ • Intestinal adaptation: fractional absorption rises when intake is low and falls when intake is high.
+ Pathway             Transcellular                                                          Paracellular
+ Saturable?          Saturable                                                              Non-saturable
+ Regulation          Vitamin D (calcitriol)-dependent — calcitriol increases brush-border   Unregulated, concentration-
+                     calcium permeability                                                   driven
+ Dominates           Calcium intake is low; down-regulated by a calcium-replete diet        Calcium intake is high
+ when
+
+ • Divided doses are absorbed better than one large dose (because of the saturable component).
+ • Net absorption: a small amount of calcium is secreted into the lumen, so of a typical 600–1200 mg/day
+   intake, 100–300 mg is absorbed net.
+ • Calcium is absorbed only in ionic form; luminal complexing agents reduce absorption — phosphate,
+   citrate, oxalate, sulphate, fatty acids.
+      ◦ Calcium phosphate complexation is pH-dependent (pK ≈ 6.1) — high luminal pH favours it.
+      ◦ Calcium oxalate complexation is less pH-dependent and less reversible — hence an oxalate-rich diet
+        reduces calcium absorption.
+The vitamin D–parathyroid axis
+ • 1,25(OH)2D3 (calcitriol) is the most potent stimulator of intestinal calcium absorption.
+ • Synthesis sequence: 7-dehydrocholesterol (skin) → sunlight → previtamin D3 → liver 25-hydroxylation
+   → 25-hydroxyvitamin D3 → proximal renal tubule 1α-hydroxylation → 1,25(OH)2D3.
+ • 1α-hydroxylase (mitochondrial, proximal tubule) is stimulated by parathyroid hormone (PTH) and by
+   hypophosphataemia.
+ • Loop: low serum calcium → PTH ↑ → 1α-hydroxylase ↑ → calcitriol → vitamin D receptor (VDR) in
+   brush border → gut calcium absorption ↑; calcitriol with PTH also recruits osteoclasts; rising serum
+   calcium then suppresses PTH and calcitriol, and calcitriol inhibits PTH synthesis by up-regulating
+   parathyroid VDR and CaSR.
+ • PTH:
+      ◦ 84-amino-acid peptide cleaved from prepro-PTH; only mature PTH is secreted.
+      ◦ Most potent secretory stimulus: fall in serum calcium, sensed by the G-protein-coupled CaSR, which
+        also regulates renal tubular calcium reabsorption.
+      ◦ Acts via cyclic adenosine monophosphate (cAMP) and phospholipase C.
+      ◦ Bone: osteoclastic calcium and phosphorus release. Kidney: ↑ calcium reabsorption, ↓ phosphate
+        reabsorption, ↑ calcitriol. Gut: no direct effect — only via calcitriol.
+
+
+
+
+                                                              page 12 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                                 MINERAL METABOLISM
+Renal calcium handling
+                     Share of filtered
+                     calcium
+ Segment             reabsorbed        Route                                             Key molecules
+ Proximal            60–65% (the          Paracellular                                   Tight-junction proteins occludin,
+ tubule              largest share)                                                      junctional adhesion molecules,
+                                                                                         claudins; claudin-2 mediates cation
+                                                                                         permeation
+ Thick               25–30%               Paracellular, driven by a lumen-positive       Claudin-16/claudin-19 complex
+ ascending                                transepithelial voltage (from apical           forms the cation channel; CaSR →
+ limb (TAL)                               potassium secretion, basolateral chloride      claudin-14, which blocks the 16/19
+                                          exit and the transepithelial sodium chloride   channel
+                                          gradient)
+ Distal              8–10% (fine          Transcellular                                  Transient receptor potential
+ convoluted          regulation)                                                         vanilloid 5 (TRPV5) apical entry
+ tubule (DCT)                                                                            (highly calcium-selective) →
+                                                                                         calbindin-D28k chaperone →
+                                                                                         basolateral exit
+
+ • Only 1–3% of filtered calcium is excreted.
+ • TRPV5 is regulated by gene expression, feedback inhibition and membrane trafficking; TRPV5 knockout
+   mice develop severe hypercalciuria, compensated by calcitriol-driven intestinal hyperabsorption.
+Concept — Calcium balance is a three-organ loop (gut, bone, kidney) closed by PTH and calcitriol: bulk renal
+reabsorption is paracellular and passive (proximal tubule, TAL), fine control is transcellular (TRPV5 in the DCT)
+— and a defect at any organ can produce hypercalciuria, which is why hypercalciuria was later classified by
+organ.
+
+Phosphorus
+ • Absorption is saturable (transcellular) at low phosphate concentrations (1–3 mmol/L) and non-
+   saturable (paracellular) at higher levels.
+ • About 60% of dietary phosphate is absorbed; active uptake is sodium-dependent and calcitriol-
+   regulated.
+ • Strongly pH-dependent: low luminal pH reduces, high pH enhances phosphate absorption.
+ • About 65% of absorbed phosphate is excreted renally, the rest by the gut.
+ • Kidney reabsorbs 80–90% of filtered phosphate, excreting 10–20%.
+ • Primary regulator: PTH — inhibits tubular phosphate reabsorption.
+
+Magnesium
+ • Absorbed by passive diffusion (predominant) and active transport, in large and small intestine — mainly
+   the distal small intestine.
+ • Hormonal regulation mainly via vitamin D.
+
+Oxalate
+ Contrast                        Calcium                                      Oxalate
+ Fraction of intake              30–40%                                       6–14% (range between individuals 10–72%)
+ absorbed
+ Main site                       Small intestine (colon ~10%)                 Throughout the gut — roughly half small
+                                                                              intestine, half colon
+
+
+
+                                                              page 13 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis                                MINERAL METABOLISM
+
+ Contrast                        Calcium                                      Oxalate
+ Intake–absorption               Adaptive (fractional absorption falls with Curvilinear — higher fractional absorption at
+ relationship                    high intake)                               low intake
+
+ • Urinary oxalate as a surrogate for absorption is valid only if ingestion–excretion is linear and absorbed
+   oxalate is not taken up, metabolised or re-secreted — assumptions that do not strictly hold.
+ • Whether stone formers absorb more oxalate than non-formers is unclear.
+ • Small-bowel disease or resection with an intact colon → markedly increased oxalate absorption.
+ • Transport: paracellular (passive) and transcellular (largely active, carrier-mediated).
+      ◦ Solute-linked carrier family 26 (SLC26) anion exchangers — SLC26A1 and SLC26A6 mediate intestinal
+        oxalate secretion (loss of function would therefore raise net absorption); shown in rodents, not yet in
+        humans.
+ • Modifiers of absorption:
+      ◦ Oxalate-binding cations (calcium, magnesium) — co-ingestion of calcium with oxalate forms
+        insoluble calcium oxalate, limiting free oxalate.
+      ◦ Oxalate-degrading bacteria — Oxalobacter formigenes uses oxalate as its energy source; in colonised
+        rats it also stimulates colonic secretion of endogenous oxalate, lowering urinary oxalate by more than
+        luminal degradation alone.
+      ◦ O. formigenes is the most potent degrader but other species also degrade oxalate; in healthy people it
+        sits within a cooperative bacterial network. Its net contribution to stone risk is not fully understood.
+ • Absorbed oxalate is almost entirely excreted in urine.
+ • Sources of urinary oxalate: about half dietary (varying with calcium and oxalate intake), the rest
+   endogenous hepatic synthesis.
+ • Liver = primary site of synthesis; the primary hyperoxaluria (PH) enzyme defects are hepatic and increase
+   glyoxylate, the direct precursor of oxalate.
+ • Endogenous sources:
+      ◦ Ascorbic acid — the largest endogenous source, up to 40% of urinary oxalate, via non-enzymatic
+        conversion to 2,3-diketogulonic acid → oxalate plus threosone or erythrulose.
+      ◦ Hydroxyproline (collagen breakdown; gelatin) — about 15% of endogenous synthesis.
+ • Renal handling: 86–98% of plasma oxalate is ultrafilterable; tubular secretion (probably proximal) is
+   supported by animal and clinical data; SLC26A6 is implicated; the candidate sulphate anion transporter-1
+   (SAT1, SLC26A1) showed no correlation with hyperoxaluria in rats. Whether stone formers handle
+   oxalate differently is unknown.
+Concept — Calcium and oxalate are handled in mirror image: calcium is well absorbed and tightly regulated,
+oxalate is poorly absorbed, unregulated and fully excreted — so urinary oxalate simply tracks what the gut
+lets through (free luminal oxalate, colonic exposure, bacterial degradation) plus hepatic synthesis.
+
+ KEY POINTS: MINERAL METABOLISM
+   • Calcium absorption is primarily small-intestinal and depends on intake.
+   • 1,25-Dihydroxyvitamin D3 is the most potent stimulator of intestinal calcium absorption.
+   • PTH stimulates 1α-hydroxylase in the proximal tubule to convert 25-hydroxyvitamin D3 to
+     1,25(OH)2D3.
+   • PTH enhances renal calcium reabsorption and phosphate excretion.
+
+
+
+
+                                                              page 14 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis      PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+   • Intestinal oxalate absorption is modulated by luminal calcium, magnesium and oxalate-degrading
+     bacteria.
+
+
+PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+
+Classification of Nephrolithiasis
+ • Drug-related stones (triamterene, silica, indinavir, ephedrine) are uncommon and usually preventable.
+ • Classification is by underlying metabolic or environmental abnormality (Table 95.2); calcium stones
+   arise from hypercalciuria, hypocitraturia, hyperuricosuria and hyperoxaluria, alone or combined.
+ • Non-calcium stones form in unique settings:
+      ◦ Uric acid — only in acid urine.
+      ◦ Cystine — impaired renal cystine reabsorption.
+      ◦ Infection (struvite) — alkaline urine from urease-producing bacteria.
+ • Stone composition alone can direct therapy for some stones (e.g. cystine), but calcium stones need
+   metabolic and environmental evaluation because causes are multiple. Molecular and genetic insights
+   may reshape treatment.
+
+TABLE 95.1 STONE COMPOSITION AND RELATIVE OCCURRENCE
+
+ Group                           Stone composition                                                    Occurrence (%)
+ Calcium-containing              Calcium oxalate                                                      60
+                                 Hydroxyapatite (mixed with calcium oxalate in text)                  20
+                                 Brushite                                                             2
+ Non-calcium                     Uric acid                                                            7
+                                 Struvite                                                             7
+                                 Cystine                                                              1–3
+                                 Triamterene; silica; 2,8-dihydroxyadenine                            < 1 each
+
+From Pearle MS, Pak CYC, 1996 (International Yearbook of Nephrology).
+ • Purpose: the frequency hierarchy of stone types — the denominator for "commonest" questions.
+ • Pattern: calcium stones ≈ 80% (oxalate ≫ apatite ≫ brushite); uric acid and struvite tie at ≈ 7%; cystine
+   is the rarest common metabolic stone; drug and enzyme-defect stones < 1%.
+ • Trap: hydroxyapatite's 20% in the table refers to mixed calcium oxalate–hydroxyapatite stones in the text
+   — pure apatite is not the second commonest stone.
+
+TABLE 95.2 DIAGNOSTIC CLASSIFICATION OF NEPHROLITHIASIS
+
+                                                                                                            Prevalence
+ Condition                         Metabolic / environmental defect                                         (%)
+ Absorptive hypercalciuria         Increased gastrointestinal calcium absorption                            20–40
+ — Renal phosphate leak            Impaired renal phosphate reabsorption                                    (within
+                                                                                                            absorptive)
+ Renal hypercalciuria              Impaired renal calcium reabsorption                                      5–8
+ Resorptive hypercalciuria         Primary hyperparathyroidism                                              3–5
+ Hyperuricosuric calcium           Dietary purine excess, uric acid overproduction                          10–40
+ nephrolithiasis
+
+
+
+                                                              page 15 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis         PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+
+                                                                                                                 Prevalence
+ Condition                          Metabolic / environmental defect                                             (%)
+ Hypocitraturic calcium             Isolated (idiopathic); chronic diarrhoea (gastrointestinal alkali loss);     10–50
+ nephrolithiasis                    distal RTA (impaired renal acid excretion); thiazide-induced
+                                    (hypokalaemia)
+ Hyperoxaluric calcium              Primary (oxalate overproduction); dietary (increased dietary oxalate);       2–15
+ nephrolithiasis                    enteric (increased intestinal oxalate absorption)
+ Hypomagnesiuric calcium            Decreased intestinal magnesium absorption                                    5–10
+ nephrolithiasis
+ Idiopathic low urine pH            Low urinary pH                                                               15–30
+ Cystinuria                         Impaired renal cystine reabsorption                                          <1
+ Infection stones                   Urease-producing bacteria                                                    1–5
+ Low urine volume                   Inadequate fluid intake                                                      10–50
+ Miscellaneous or no                —                                                                            <3
+ abnormality
+
+Modified from Pearle MS, Pak CYC, 1996 (International Yearbook of Nephrology).
+ • Purpose: the metabolic work-up map — each 24-hour urine abnormality points to a condition and a
+   defect.
+ • Pattern: hypercalciuria (absorptive) is the single largest identifiable category; hypocitraturia and low
+   volume have the widest ranges (10–50%); < 3% of formers have no abnormality — i.e. almost every
+   stone former has a findable cause.
+ • Trap: thiazides cause hypocitraturia via hypokalaemia — the stone-preventing drug can itself lower
+   citrate.
+ • Trap: primary hyperparathyroidism explains only 3–5% of calcium stone formers.
+
+STONE FREQUENCIES — VALUES COMPARED ACROSS THE CHAPTER
+
+                    Table
+ Stone              95.1        Table 95.2                Body text                               Reason for difference
+ Uric acid          7%          — (idiopathic low         8–10% in US; up to 25% in parts of      Different series, eras and
+                                pH 15–30%)                Germany; rising (7 → 14%)               regions
+ Struvite /         7%          1–5%                      5–15%                                   Different series and eras;
+ infection                                                                                        incidence declining
+ Cystine            1–3%        < 1%                      ≈ 1% (adults); up to 10% of             Adult versus paediatric
+                                                          paediatric stones                       denominator
+ Calcium (all)      82%         —                         ≈ 80%                                   Rounding
+
+Concept — Classification is by the urinary abnormality, not the stone — calcium stones in particular are a
+final common product of many different derangements, so the stone's composition starts the work-up rather
+than ending it.
+
+Calcium Stones
+Hypercalciuria
+ • Hypercalciuria is the commonest abnormality in calcium stone formers (35–65%), though its role is
+   debated because urinary calcium overlaps between formers and non-formers.
+
+
+
+
+                                                              page 16 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis         PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • Evidence for a causal role:
+      ◦ Treatment that lowers urinary calcium reduces recurrence; persistent hypercalciuria predicts medical
+        failure.
+      ◦ In three large cohorts with 24-hour urines, incident stone risk rises with urinary calcium after
+        adjustment.
+      ◦ Randall plaque number correlates with urinary calcium and with the number of stone episodes.
+ • Mechanism: high urinary calcium → ↑ saturation of calcium salts and ↓ inhibitor activity (calcium
+   complexes negatively charged inhibitors such as citrate and chondroitin sulphate).
+ • Normal load: kidney filters ≈ 270 mmol calcium/day and reabsorbs all but ≈ 4 mmol.
+ Definition of hypercalciuria              Threshold
+ Strictest                                 > 200 mg/day after 1 week of 400 mg calcium, 100 mg sodium diet
+ Weight-based / sex-based                  > 4 mg/kg/day, or > 7 mmol/day (males), > 6 mmol/day (females)
+
+ • Any threshold is artificial — urinary calcium exerts a continuous, graded effect on risk.
+ • Pak classification (1974) — three subtypes by organ of dysregulation (intestine, kidney, bone):
+   absorptive, renal and resorptive.
+      ◦ Critics: hypercalciuria reflects multiple interrelated disturbances; single gene mutations affect several
+        organs; the classification has not improved therapeutic outcomes and is not routinely used in
+        practice. It is retained in the chapter as the standard framework.
+
+PAK CLASSIFICATION OF HYPERCALCIURIA — COMPARISON
+
+ Feature                 Absorptive (AH)                       Renal                             Resorptive
+ Primary defect          ↑ Intestinal calcium                  Renal calcium leak (↓ tubular     ↑ Bone resorption —
+                         absorption                            reabsorption)                     primary hyperparathyroidism
+ Share of stone          ≈ 30% (Table 95.2: 20–40%)            5–8%                              3–5% (≈ 5%)
+ formers
+ Serum calcium           Normal                                Normal                            High (or high-normal)
+ Serum PTH               Normal or suppressed                  ↑ (secondary                      ↑ (primary)
+                                                               hyperparathyroidism)
+ Fasting urinary         Normal (< 0.11 mg/dL                  High (≥ 0.11 mg/dL glomerular     High
+ calcium                 glomerular filtrate)                  filtrate)
+ Urinary calcium         ≥ 0.2 mg calcium/mg                   —                                 —
+ after oral calcium      creatinine
+ load
+ Serum                   Normal (low in renal                  Normal                            Low
+ phosphorus              phosphate leak)
+ Sequence                Hyperabsorption → transient           Renal loss → PTH ↑ → ↑            PTH ↑ → bone resorption +
+                         serum calcium rise → PTH              calcitriol → gut absorption and   ↑ calcitriol → gut absorption
+                         suppressed → ↑ filtered               bone resorption compensate        → hypercalcaemia
+                         calcium → hypercalciuria
+ Discriminating          Normal fasting calcium +              High fasting calcium + high       High serum calcium +
+ test                    suppressed PTH                        PTH, normal serum calcium         inappropriately high PTH;
+                                                                                                 thiazide challenge
+
+Absorptive Hypercalciuria
+ • Definition and discriminators in the table; severe forms may also show fasting hypercalciuria.
+
+
+
+                                                              page 17 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis           PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • Type I versus type II:
+      ◦ Type II — dietary calcium restriction normalises urinary calcium.
+      ◦ Type I — does not normalise with restriction.
+ • Cause of hyperabsorption is unresolved: vitamin D-dependent and -independent processes and VDR up-
+   regulation proposed; no mechanism explains all findings.
+ • Genetic candidates:
+      ◦ CYP24A1 (encodes 1,25(OH)2D-24-hydroxylase, which inactivates 25(OH)D and 1,25(OH)2D3) —
+        biallelic loss-of-function → elevated calcitriol, particularly with high vitamin D intake.
+          ▪ Causes idiopathic infantile hypercalcaemia (autosomal recessive; vitamin D supplement
+            sensitivity).
+          ▪ In adults: hypercalcaemia, hypercalciuria, nephrocalcinosis and nephrolithiasis.
+          ▪ Carrier frequency 4–20%, but not all affected individuals manifest disease.
+          ▪ GWAS links CYP24A1 variants to serum vitamin D levels.
+      ◦ CYP27B1 — generates calcitriol by 1-hydroxylation of 25(OH)D (context for the above).
+      ◦ Vitamin D hypersensitivity increases absorption; VDR gene polymorphism and linkage to the VDR
+        locus (chromosome 12q12–q14) reported in familial hypercalciuria — but not confirmed by others.
+      ◦ Chromosome 1q23.3–q24 locus for an inherited form of AH, with a putative gene homologous to rat
+        soluble adenylate cyclase.
+ • Renal phosphate leak (a subtype of AH):
+      ◦ Sequence: renal phosphate wasting → hypophosphataemia → ↑ calcitriol → ↑ gut calcium and
+        phosphate absorption → hypercalciuria.
+      ◦ Hereditary hypophosphataemic rickets with hypercalciuria (HHRH) — autosomal recessive; candidate
+        genes SLC34A1 and SLC34A3 (encoding NaPi-IIa and NaPi-IIc, apical proximal tubule sodium–
+        phosphate co-transporters).
+      ◦ Rare — at most 2–4% of stone formers.
+Renal Hypercalciuria
+ • The kidney filters ≈ 270 mmol calcium and must reabsorb > 98%; ≈ 70% is reabsorbed proximally, mostly
+   paracellularly.
+ • Fasting urinary calcium plus PTH separates a renal from an intestinal cause (table).
+ • Cause unknown; monogenic disorders illuminate the transcellular and paracellular pathways:
+
+MONOGENIC DISORDERS OF RENAL CALCIUM HANDLING
+
+ Disorder                        Gene / protein                        Site              Key features
+ Dent disease (X-linked          Chloride channel-5 (ClC-5)            Proximal          Hypercalciuria, low-molecular-weight
+ recessive                                                             tubule, TAL, α-   proteinuria, nephrolithiasis,
+ nephrolithiasis)                                                      intercalated      nephrocalcinosis, progressive renal
+                                                                       cells             failure
+ Familial                        Claudin-16 (paracellin-1) and         TAL, DCT          Loss of voltage-driven paracellular
+ hypomagnesaemia with            claudin-19                                              magnesium and calcium reabsorption
+ hypercalciuria and
+ nephrocalcinosis
+ (FHHNC)
+ Claudin-14 variants             Claudin-14                            TAL               Associated with nephrolithiasis
+
+
+
+
+                                                              page 18 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis          PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+
+ Disorder                        Gene / protein                        Site           Key features
+ Bartter syndrome                SLC12A1 (NKCC2, Na⁺-K⁺-2Cl⁻ TAL                      Salt wasting, hypokalaemic metabolic
+ (autosomal recessive            co-transporter); KCNJ1                               alkalosis, variable hypercalciuria and
+ group)                          (ROMK apical potassium                               nephrolithiasis
+                                 channel); CLCNKB (ClC-Kb
+                                 basolateral chloride channel);
+                                 BSND (barttin, subunit of ClC-
+                                 Ka/ClC-Kb)
+ Bartter type V                  Potent activating CaSR                TAL            Salt-losing nephropathy, secondary
+                                 mutation                                             hyperaldosteronism (ROMK dysfunction
+                                                                                      from constitutive CaSR activation)
+ Autosomal dominant              Activating CaSR mutation              Parathyroid,   ↓ PTH, ↓ renal calcium reabsorption →
+ hypocalcaemia                   (lower set-point)                     TAL            hypocalcaemia with hypercalciuria
+ CaSR loss-of-function    CaSR                                         TAL            Normocitraturic idiopathic
+ SNPs (two synonymous                                                                 nephrolithiasis: ↑ TAL paracellular
+ SNPs reducing renal CaSR                                                             reabsorption → interstitial calcium
+ mRNA)                                                                                precipitation, hypocalciuria; ↓ distal
+                                                                                      calcium delivery may impair acidification
+                                                                                      and concentration → calcium oxalate
+                                                                                      stones
+ NKCC2 and ROMK                  NKCC2, ROMK                           TAL            Fasting hypercalciuria and
+ mutations (autosomal                                                                 nephrocalcinosis
+ recessive)
+
+ • CaSR set-point mutations in CASR, GNA11 (G-protein α11) or AP2S1 (adaptor-related protein complex 2
+   σ1) shift calcium sensing → hyper- or hypocalcaemic disorders.
+ • CaSR controls TAL calcium reabsorption through paracellular permeability.
+Concept — Renal hypercalciuria is a leak with compensation: the kidney loses calcium, PTH rises to defend
+serum calcium — so the fasting urine is high and PTH is high while serum calcium is normal, the exact mirror
+of absorptive hypercalciuria (fasting urine normal, PTH suppressed).
+Resorptive Hypercalciuria
+ • Infrequent; most commonly primary hyperparathyroidism (PHPT), the cause of ≈ 5% of nephrolithiasis.
+ • Normocalcaemic variant: normal serum calcium with inappropriately high PTH makes diagnosis harder.
+ • Thiazide challenge: thiazide ↑ renal calcium reabsorption → exacerbates hypercalcaemia without
+   suppressing PTH in PHPT — unmasks the diagnosis.
+ • Nephrolithiasis occurs in < 5% of patients with PHPT.
+ • Suspect PHPT when a stone former has serum calcium > 10.1 mg/dL.
+ • Serum calcium varies by up to 5% and mild PHPT raises it only slightly → repeat serum calcium with
+   intact PTH; ionised calcium helps in equivocal cases (may be high when total calcium is normal).
+ • PTH also causes proximal bicarbonate and phosphate loss → phosphaturia and mild hyperchloraemic
+   acidosis.
+Hypercalcaemia-Induced Hypercalciuria
+ • Rare causes: malignancy, sarcoidosis, thyrotoxicosis, vitamin D toxicity.
+
+
+
+
+                                                              page 19 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis         PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+HYPERCALCAEMIC CAUSES OF HYPERCALCIURIA — COMPARISON
+
+ Cause                          Mechanism                                  PTH                Distinguishing feature
+ Primary                        Autonomous PTH                             High /             Commonest cause of
+ hyperparathyroidism                                                       inappropriately    hypercalcaemia in outpatients;
+                                                                           normal             thiazide challenge
+ Sarcoidosis (and other         Macrophage 1α-hydroxylase →                Suppressed         Rapid correction with
+ granulomas)                    extrarenal calcitriol → gut                                   corticosteroids; alveolar cells
+                                absorption and bone resorption                                and lymph nodes synthesise
+                                (absorptive + resorptive)                                     calcitriol
+ Malignancy                     PTH-related protein (PTHrP),               Suppressed (intact Commonest cause of
+                                osteolytic cytokines, direct bone          PTH low)           hypercalcaemia in hospitalised
+                                destruction                                                   patients
+ Glucocorticoid excess          ↑ Bone resorption, ↓ bone                  Stimulated         Stones common in Cushing
+                                formation, ↑ PTH release; but ↓                               syndrome
+                                gut calcium absorption
+
+ • Granulomatous diseases reported to cause hypercalcaemia: tuberculosis, sarcoidosis, histoplasmosis,
+   leprosy, silicosis — sarcoidosis is the one most associated with urolithiasis.
+ • Malignancy-associated hypercalcaemia:
+      ◦ Tumour mix: lung and breast ≈ 60%; renal cell 10–15%; head and neck ≈ 10%; haematological
+        (lymphoma, myeloma) ≈ 10%.
+      ◦ Humoral factors: PTHrP (production regulated by tumour-cell CaSR), transforming growth factor,
+        interleukin-1, tumour necrosis factor → osteoclast activation.
+      ◦ PTHrP mechanism: like PTH, ↑ renal calcium reabsorption; stimulates osteoblasts to secrete receptor
+        activator of nuclear factor-κB ligand (RANKL) → binds RANK on osteoclast precursors → mature
+        osteoclasts → bone resorption; also stimulates 1α-hydroxylation → calcitriol → gut absorption.
+ • Glucocorticoids:
+      ◦ Most potent effect on bone — ↑ resorption, ↓ formation → osteopenia; ↑ PTH release.
+      ◦ ↓ Intestinal calcium absorption — the basis of steroid efficacy in sarcoid hypercalciuria.
+      ◦ Net effect favours stones: stones in about half of active Cushing syndrome, fewer when cured, fewest
+        in controls; active disease shows hypercalciuria, hypocitraturia and hyperuricosuria — but obesity
+        and diabetes confound.
+Concept — The PTH level sorts the hypercalcaemias: high or inappropriate in primary hyperparathyroidism,
+suppressed in everything else (sarcoid calcitriol, tumour PTHrP) — and corticosteroids, which cut gut calcium
+absorption, are the specific remedy for the calcitriol-driven (granulomatous) form.
+
+Hyperoxaluria
+ • Definition: urinary oxalate > 40 mg/day.
+ • Effects: ↑ calcium oxalate saturation; also implicated in crystal growth and retention via tubular cell
+   injury — lipid peroxidation and oxygen free radicals → membrane injury → crystal fixation.
+      ◦ Antioxidants prevent calcium oxalate precipitation in rat kidney and reduce oxalate excretion; free-
+        radical scavengers (phytic acid, mannitol) prevent crystal deposition in vitro.
+      ◦ But in humans, large oxalate loads (up to 8 mmol) did not raise oxidative-stress or renal-injury
+        markers — the importance of oxalate-induced membrane damage is questioned.
+ • Three causes: primary (biosynthetic enzyme defect), enteric (malabsorption — inflammatory bowel
+   disease, coeliac disease, intestinal resection), dietary (excess intake or substrate).
+
+
+
+                                                              page 20 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis           PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+Primary Hyperoxaluria
+ • Rare autosomal recessive disorders of glyoxylate metabolism: glyoxylate cannot be converted to glycine,
+   so it is oxidised to oxalate, a metabolic end product.
+ • Urinary oxalate markedly high (≥ 100 mg/day) → calcium oxalate crystals in tubular lumens → some
+   attach to epithelium and aggregate into stones, others are internalised and extruded into the
+   interstitium → marked nephrocalcinosis.
+ • Renal injury: direct toxicity of oxalate or crystals (reactive oxygen species), recurrent obstructing stones,
+   and inflammation and interstitial fibrosis from nephrocalcinosis.
+ • Vicious circle: falling renal function → oxalate elimination fails → systemic oxalosis (systemic calcium
+   oxalate deposition).
+
+PRIMARY HYPEROXALURIA TYPES 1–3 — COMPARISON
+
+ Feature          PH1                                                  PH2                         PH3
+ Enzyme           Alanine-glyoxylate aminotransferase                  Glyoxylate reductase/       4-Hydroxy-2-oxoglutarate
+                  (AGT) — pyridoxal phosphate (vitamin                 hydroxypyruvate             aldolase (HOGA)
+                  B6)-dependent                                        reductase (GRHPR)
+ Gene             AGXT (≥ 253 mutations)                               GRHPR (≈ 60 mutations)      HOGA1
+ Organelle        Liver peroxisome                                     Liver                       Mitochondria
+ Urinary          Oxalate + glycolate                                  Oxalate + L-glyceric acid   Oxalate; severe hypercalciuria
+ markers
+ Course           Most aggressive — ESRD in second to                  Less aggressive renal       Recurrent childhood stones
+                  third decade; untreated → ESRD                       course                      that may become clinically
+                  inevitable (88% by age 60 in the Rare                                            silent; only one reported case
+                  Kidney Stone Consortium, RKSC)                                                   of ESRD
+ Specific         Pyridoxine-responsive in Gly170Arg (with             —                           Mechanism of hyperoxaluria
+ therapy          Pro11Leu) mistargeting                                                           not established
+ note
+ Transplant       Combined liver–kidney for most severe                Isolated kidney             Rarely reaches ESRD
+                  cases                                                transplant, needed less
+                                                                       often
+
+ • PH1 mistargeting mutation: commonest AGXT mutation Gly170Arg; with the Pro11Leu minor-allele
+   polymorphism, AGT is sent to mitochondria (inactive) instead of peroxisomes → pyridoxine responds
+   because its product pyridoxal phosphate is the AGT cofactor, raising catalytic activity and restoring
+   peroxisomal targeting.
+ • PH2 biochemistry: ↓ GRHPR → ↑ hydroxypyruvate and glyoxylate → lactate dehydrogenase (LDH)
+   converts them to L-glyceric acid and oxalate.
+ • PH3 biochemistry: HOGA converts hydroxy-2-oxoglutarate (from hydroxyproline) to pyruvate and
+   glyoxylate.
+ • Nephrocalcinosis on imaging → about 70% higher ESRD risk (RKSC).
+ • Why liver–kidney transplant in PH1: the liver is the only organ that detoxifies glyoxylate — a kidney
+   alone would be re-injured by continuing hepatic oxalate overproduction.
+ • Genetic testing (all three types): confirms biochemistry, allows prenatal diagnosis, and identifies affected
+   relatives.
+      ◦ All three types can stay asymptomatic until adulthood → screen family members.
+      ◦ Exclude PH in relatives before living-related kidney donation.
+      ◦ Caveat: not all carriers develop PH.
+
+
+                                                              page 21 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis             PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • SLC26A1 (SAT1 sulphate–oxalate transporter) mutations — another inherited hyperoxaluria; consider
+   when PH1–3 are excluded.
+Concept — All three primary hyperoxalurias block the disposal of glyoxylate in the liver, forcing it to oxalate;
+severity follows the enzyme (PH1 ≫ PH2 > PH3), and because the defect is hepatic, only replacing the liver
+cures PH1.
+Enteric Hyperoxaluria
+ • The commonest cause of acquired hyperoxaluria.
+ • Mechanism (Fig. 95.9) — a sequence: fat malabsorption → luminal fatty acids saponify calcium and
+   magnesium → less calcium available to complex oxalate → more free luminal oxalate → colonic
+   hyperabsorption; malabsorbed fatty acids and bile salts also ↑ colonic permeability to oxalate.
+ • Fecal fat correlates strongly with urinary oxalate in steatorrhoea (Fig. 95.10).
+ • Co-existing risks in chronic diarrhoea: dehydration, hypokalaemia, hypomagnesiuria, hypocitraturia, low
+   urine pH.
+ • Any malabsorption — small-bowel resection, intrinsic small-bowel disease, jejunoileal bypass — can
+   cause it.
+ • Requires an intact colon — the colon is the principal site of oxalate hyperabsorption; in terminal-ileal
+   Crohn disease stone incidence rises with length of bowel resected, provided the colon is intact.
+ • Cystic fibrosis: increased stone risk (overall prevalence about 4.5%); proposed causes — enteric
+   hyperoxaluria from fat malabsorption, loss of O. formigenes, hyperuricosuria, hypocitraturia.
+ • Bariatric surgery:
+      ◦ Jejunoileal bypass was abandoned partly for renal failure and stones from severe hyperoxaluria.
+      ◦ Roux-en-Y gastric bypass (RYGB) — initially considered safer, but oxalate nephropathy with dialysis or
+        transplantation was reported; retrospective, cross-sectional and prospective studies confirm ↑
+        urinary oxalate after RYGB and other malabsorptive procedures.
+      ◦ Hyperoxaluria develops ≥ 6 months after surgery.
+      ◦ Falling urinary calcium and uric acid partially offset the oxalate rise — net effect on calcium oxalate
+        saturation varies.
+      ◦ Nonetheless stone incidence is higher after RYGB than in obese controls (claims data).
+      ◦ Cause: loss of O. formigenes is unlikely (colonisation is already low before surgery and does not differ
+        from obese controls); an exaggerated urinary response to oral oxalate load points to malabsorption /
+        enteric hyperoxaluria.
+ Bariatric procedure                                                       Type               Stone risk
+ Long-limb Roux-en-Y gastric bypass; duodenal switch                       Malabsorptive      Increased (enteric hyperoxaluria)
+ Gastric banding; sleeve gastrectomy                                       Restrictive        Not increased
+
+ Governing             Colon intact (short bowel, small-bowel
+ contrast              disease)                                            Colon absent (ileostomy after colectomy)
+ Oxalate               Hyperoxaluria (colonic                              No hyperoxaluria
+                       hyperabsorption)
+ Typical stone         Calcium oxalate                                     Uric acid and ammonium acid urate (low volume, low
+                                                                           pH, low sodium)
+
+Dietary Hyperoxaluria
+ • Oxalate-rich foods: nuts, chocolate, brewed tea, spinach, potatoes, beets, rhubarb — overindulgence
+   causes hyperoxaluria in otherwise normal people.
+
+
+                                                              page 22 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis        PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • Dietary oxalate contributes 24–42% of urinary oxalate (in this analysis).
+ • Severe calcium restriction ↑ oxalate absorption (less luminal binding) — calcium restriction is counter-
+   productive.
+ • Ascorbic acid supplements ↑ urinary oxalate by in vivo conversion, but clinical stone risk is not
+   unequivocally increased.
+Role of the Microbiome
+ • Humans lack oxalate-degrading enzymes; some gut bacteria degrade oxalate.
+ • O. formigenes uses oxalate as its sole carbon source — a potential modulator of intestinal oxalate.
+ • Stone formers have reduced or absent colonisation, and non-colonised individuals have higher urinary
+   oxalate.
+ • Antibiotic exposure depletes O. formigenes:
+      ◦ Cystic fibrosis (prolonged antibiotics) — absent O. formigenes, raised urinary oxalate.
+      ◦ Helicobacter pylori eradication — lower colonisation than untreated H. pylori controls.
+ • Population case–control study (UK electronic records): exposure to any of five antibiotic classes 3–12
+   months earlier ↑ stone risk — yet O. formigenes is resistant to some of those classes, so the effect may
+   reflect reduced overall microbiome diversity, not O. formigenes alone.
+Idiopathic Hyperoxaluria
+  • Mild hyperoxaluria may matter as much as hypercalciuria in idiopathic calcium oxalate stones.
+ • Arabian Peninsula: calcium stone prevalence far higher than in the West despite near-absent
+   hypercalciuria — hyperoxaluria is the predominant risk factor.
+ • Abnormal oxalate metabolism and transport may contribute.
+Concept — Outside the rare primary forms, hyperoxaluria is a problem of free luminal oxalate reaching the
+colon — raised by fat malabsorption, low calcium intake, high oxalate intake or loss of degrading bacteria —
+so colonic presence and luminal calcium are the levers.
+
+Hyperuricosuria
+ • Definition: urinary uric acid > 600 mg/day.
+ • Isolated in up to 10% of calcium stone formers; combined with other abnormalities in up to 40%.
+
+HOW URIC ACID PROMOTES CALCIUM OXALATE STONES (FIG. 95.11) — THREE MECHANISMS
+
+ Phase            Mechanism                                                   Effect
+ I. Colloid       Colloidal sodium urate/uric acid adsorbs                    Inhibitor removal → calcium oxalate nucleation
+                  macromolecular inhibitors
+ II. Solution     "Salting out" — dissolved urate salt lowers calcium         ↑ Calcium oxalate precipitation
+                  oxalate solubility
+ III.             Monosodium urate or uric acid crystals act as nidi          Heterogeneous nucleation / epitaxial growth of
+ Crystalline                                                                  calcium oxalate
+
+ • Each mechanism has supporting evidence; which dominates is unclear.
+ • Commonest cause: dietary purine excess.
+ • Other causes: gout; myeloproliferative and lymphoproliferative disorders; multiple myeloma; secondary
+   polycythaemia; pernicious anaemia; haemolytic disorders; haemoglobinopathies and thalassaemia;
+   complete or partial hypoxanthine-guanine phosphoribosyltransferase (HGPRT) deficiency;
+   phosphoribosylpyrophosphate synthetase overactivity; hereditary renal hypouricaemia.
+
+
+
+
+                                                              page 23 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis          PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • URAT1 (urate–anion exchanger, proximal tubule, gene SLC22A12): mutations → hyperuricosuric
+   hypouricaemia (renal uric acid leak), exercise-induced acute renal failure and high stone risk.
+ • Evidence against a role: in three large cohorts with 24-hour urines, urinary uric acid was inversely
+   associated with incident stones in males, marginally inversely in younger females and not associated in
+   older females.
+ • Evidence for — landmark trial, Ettinger (1986): randomised, placebo-controlled trial of allopurinol in
+   hyperuricosuric, normocalciuric calcium oxalate stone formers — more than twofold reduction in
+   recurrence. But the benefit cannot be attributed with certainty to lowering urinary uric acid.
+Concept — Uric acid drives calcium oxalate stones through urate's physical chemistry (inhibitor adsorption,
+salting out, epitaxy) rather than through uric acid stones themselves — and although epidemiology is
+conflicting, the allopurinol trial shows that in selected hyperuricosuric formers treatment works.
+Figure legends
+ • Fig. 95.8 — Hepatic oxalate pathway: glyoxylate → glycine by AGT (vitamin B6) — blocked in PH1;
+   glyoxylate → glycolate / hydroxypyruvate → D-glycerate by GRHPR — blocked in PH2; hydroxyproline →
+   4-hydroxy-2-oxoglutarate → glyoxylate + pyruvate by HOGA — defective in PH3; LDH converts
+   glyoxylate to oxalate and hydroxypyruvate to L-glycerate.
+ • Fig. 95.10 — Fecal fat versus urinary oxalate in steatorrhoea: linear relationship (oxalate ≈ 2.1 × fecal fat
+   + 30.7; r² 0.4), on diets of 300–500 mg oxalate and 500–900 mg calcium per day. (From Worcester, 1996.)
+
+Hypocitraturia
+ • An important and correctable abnormality: isolated in up to 10% of calcium stone formers; combined
+   with other abnormalities in 20–60%.
+ • Actions of citrate (four):
+    1. Complexes calcium → ↓ saturation of calcium salts.
+    2. Prevents spontaneous nucleation of calcium oxalate.
+    3. Inhibits agglomeration and sedimentation of calcium oxalate crystals, and growth of calcium oxalate
+       and calcium phosphate crystals.
+    4. Enhances the inhibitory effect of Tamm-Horsfall glycoprotein at normal levels.
+ • Definition: urinary citrate < 320 mg/day.
+ • Acid–base status is the primary determinant of citrate excretion: metabolic acidosis → ↑ tubular citrate
+   reabsorption and ↓ peritubular citrate synthesis → hypocitraturia.
+ • The defect is renal, not intestinal:
+      ◦ Stone formers and controls have similar serum citrate and filtered load, but formers show lower
+        urinary citrate and higher tubular reabsorption.
+      ◦ Oral citrate is rapidly and almost completely absorbed (96–98% within 3 hours) in both hypocitraturic
+        formers and controls — so absent overt bowel disease, gut malabsorption is not the cause.
+ Cause of hypocitraturia             Mechanism
+ Distal RTA                          Systemic acidosis — urine pH high (> 6.8 as quoted here), high serum chloride, low
+                                     serum bicarbonate and potassium; confirmed by failure to acidify after ammonium
+                                     chloride load
+ Chronic diarrhoea                   Intestinal alkali loss → systemic acidosis
+ Excess animal protein               Acid load; high-protein, low-carbohydrate diets ↓ citrate and pH (low citrus, high
+                                     animal protein)
+ Thiazides                           Hypokalaemia → intracellular acidosis
+
+
+
+                                                              page 24 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis      PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+
+ Cause of hypocitraturia             Mechanism
+ Angiotensin-converting              Hypocitraturia independent of systemic acidosis or hypokalaemia — perhaps
+ enzyme (ACE) inhibitors             intracellular acidosis
+ Strenuous exercise                  Lactic acidosis
+ Isolated (idiopathic)               Unrelated to acidosis
+
+ • Citrate rises with alkalosis and with PTH, oestrogen, magnesium, calcitonin and vitamin D.
+Concept — Citrate excretion is a readout of intracellular pH in the proximal tubule: anything that acidifies the
+cell (systemic acidosis, hypokalaemia, acid diet) makes the tubule reclaim citrate — which is why alkali
+(potassium citrate) is the treatment.
+
+Low Urine pH
+ • Below pH 5.5, undissociated uric acid predominates → uric acid and/or calcium stones; calcium oxalate
+   forms by heterogeneous nucleation on uric acid crystals.
+ • Any disorder that lowers urine pH predisposes to stones.
+ • Chronic metabolic acidosis → low urine pH, hypercalciuria (↑ bone resorption and renal calcium leak)
+   and hypocitraturia.
+ • Idiopathic low urine pH (formerly "gouty diathesis") — stone propensity with low urine pH of unknown
+   cause, with or without gouty arthritis.
+
+Renal Tubular Acidosis
+ • RTA = metabolic acidosis from defective tubular hydrogen-ion secretion or bicarbonate reabsorption.
+   Three types: 1, 2 and 4.
+ • Type 1 (distal) matters most to urologists: commonest form and most stone-associated (stones in up to
+   70%); stone symptoms lead to the diagnosis in up to half of cases.
+Normal renal acidification
+ • Bicarbonate is freely filtered; the kidney must reclaim ≈ 4500 mmol/day, mainly proximally, and excrete
+   the daily acid load (from carbohydrate, fat and protein metabolism and stool bicarbonate loss) distally.
+ Governing
+ contrast           Proximal tubule                                                Distal tubule / collecting duct
+ Job                Reclaim filtered bicarbonate (the bulk)                        Net acid excretion (plus 5–10% of
+                                                                                   bicarbonate)
+ Machinery          Carbonic anhydrase generates H⁺ + HCO₃⁻; apical Na⁺/H⁺         α-Intercalated cells: apical H⁺-ATPase
+                    exchanger (driven by basolateral Na⁺,K⁺-ATPase);               and H⁺,K⁺-ATPase; basolateral Cl⁻/
+                    basolateral Na⁺/HCO₃⁻ co-transporter; apical H⁺-ATPase;        HCO₃⁻ exchanger (AE1)
+                    luminal carbonic anhydrase converts H₂CO₃ to H₂O + CO₂
+ Net effect         Bicarbonate absorbed without net H⁺ secretion or pH            H⁺ excreted bound to buffers —
+                    change                                                         titratable acid (mainly phosphate) and
+                                                                                   ammonia (as NH₄⁺); 1000:1 gradient →
+                                                                                   urine pH as low as 4.5
+ Luminal            Present                                                        Absent — prevents rapid carbonic acid
+ carbonic                                                                          dissociation, helping maintain the
+ anhydrase                                                                         gradient
+
+ • Both proximal and distal RTA produce hyperchloraemic metabolic acidosis with inappropriately high
+   urine pH; the distinction is acid excretion (distal, type 1) versus bicarbonate reabsorption (proximal, type
+   2).
+
+
+
+
+                                                              page 25 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis      PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+Type 1 (Distal) Renal Tubular Acidosis
+ • Collecting-duct failure to acidify despite systemic acidosis: hypokalaemic, hyperchloraemic, non-anion-
+   gap metabolic acidosis, nephrolithiasis, nephrocalcinosis, urine pH > 6.0.
+ • Incomplete distal RTA: cannot lower urine pH below 5.5 after an acid load, but no systemic acidosis —
+   serum electrolytes normal.
+ • Stone type: calcium phosphate, from hypercalciuria, hypocitraturia and high urine pH.
+       ◦ Acidosis → bone demineralisation → secondary hyperparathyroidism → hypercalciuria.
+       ◦ Profound hypocitraturia — probably the most important factor — from acidosis, abnormal tubular
+         citrate transport, or citrate movement into mitochondria with intracellular acidosis.
+ • Forms: hereditary, idiopathic or acquired; most sporadic; autosomal dominant and recessive patterns
+   exist.
+       ◦ Inherited forms: growth retardation, nephrocalcinosis, calculi, hypokalaemic metabolic acidosis.
+       ◦ Autosomal recessive form: more severe, earlier onset, with learning disability and sensorineural
+         hearing loss.
+       ◦ Children are one-third of cases — vomiting, diarrhoea, failure to thrive, growth retardation.
+       ◦ Secondary distal RTA: Sjögren syndrome, systemic lupus erythematosus, obstructive uropathy,
+         pyelonephritis, acute tubular necrosis, hyperparathyroidism, idiopathic hypercalciuria.
+ • Molecular basis — α-intercalated cell dysfunction (Fig. 95.12):
+ Gene          Protein                                Inheritance              Features
+ SLC4A1        AE1 Cl⁻/HCO₃⁻ exchanger                Mostly autosomal         Hearing loss not usually a feature
+                                                      dominant; complete or
+                                                      incomplete
+ ATP6V1B1 B1 subunit of H⁺-ATPase                     Autosomal recessive      Heterozygous B1 carriers may have a
+                                                                               hypofunctional pump → incomplete distal
+                                                                               RTA
+ ATP6V0A4 A4 subunit of H⁺-ATPase                     Autosomal recessive      —
+ CA2           Carbonic anhydrase II                  Recessive                Mixed proximal–distal RTA: bicarbonate
+               (proximal tubule, loop, α-                                      wasting, cannot acidify below pH 5.5, ↓
+               intercalated cells)                                             NH₄⁺ excretion
+
+Type 2 (Proximal) Renal Tubular Acidosis
+ • Defect in proximal bicarbonate reabsorption — a self-limiting sequence: proximal HCO₃⁻ loss → distal
+   tubule overwhelmed → bicarbonaturia, high urine pH → plasma HCO₃⁻ falls → filtered HCO₃⁻ falls →
+   distal capacity suffices → steady state.
+ • Usually part of a Fanconi-type generalised proximal defect — loss of glucose, protein (amino acids), uric
+   acid and phosphate.
+ • Clinical: growth retardation and hypokalaemia in children.
+Type 4 Renal Tubular Acidosis
+ • Chronic renal damage — interstitial disease, diabetic nephropathy.
+ • Low urine pH, decreased acid excretion; ↓ GFR → hyperkalaemic, hyperchloraemic metabolic acidosis
+   (urinary HCO₃⁻ loss, ↓ ammonium excretion).
+ • Aldosterone resistance is common → ↓ distal acidification and H⁺/K⁺ exchange → ↓ ammoniagenesis,
+   worse hyperkalaemia.
+ • Can still acidify urine after an acid challenge.
+ • Stones uncommon — reduced calcium and uric acid excretion from impaired renal function.
+
+
+                                                              page 26 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis               PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • But low urine pH (from hyperkalaemia-impaired ammoniagenesis) predisposes to uric acid stones.
+
+RENAL TUBULAR ACIDOSIS TYPES 1, 2 AND 4 — COMPARISON
+
+ Feature            Type 1 (distal)                                        Type 2 (proximal)        Type 4 (hyperkalaemic)
+ Defect             Distal H⁺ secretion (α-intercalated cell)              Proximal HCO₃⁻           Aldosterone deficiency/
+                                                                           reabsorption             resistance, ↓ ammoniagenesis
+ Serum              Low                                                    Low                      High
+ potassium
+ Urine pH           Always high (> 6.0); cannot go < 5.5                   High initially, then <   Low; can acidify
+                                                                           5.5 at steady state
+ Serum HCO₃⁻        Low (may be very low)                                  15–18 mEq/L              Low
+ Urinary            Profoundly low                                         Relatively normal        —
+ citrate
+ Stones             Common (up to 70%) — calcium                           Uncommon                 Uncommon — but uric acid if
+                    phosphate; nephrocalcinosis                                                     any
+ Associations       Sjögren, lupus, obstruction,                           Fanconi syndrome         Diabetic nephropathy,
+                    hypercalciuria; genetic (SLC4A1,                                                interstitial disease
+                    ATP6V1B1, ATP6V0A4)
+
+Concept — Stone risk in RTA follows citrate and urine pH: only distal (type 1) RTA combines fixed alkaline
+urine with profound hypocitraturia and hypercalciuria, the recipe for calcium phosphate stones; proximal RTA
+spares citrate, and type 4 lowers the stone load (except uric acid, via low pH).
+
+Hypomagnesiuria
+ • Rare: isolated in < 1% of stone formers; combined with other abnormalities in 6–11%.
+ • Mechanism: magnesium complexes oxalate and calcium salts, so low magnesium means less inhibition;
+   low urinary magnesium also tracks low urinary citrate (cause or effect unclear).
+ • Causes: poor dietary intake, intestinal malabsorption from chronic diarrhoeal syndrome.
+ • Evidence is contradictory:
+      ◦ Rat studies both implicate and question magnesium.
+      ◦ Hypomagnesiuric patients had higher recurrence in one study; others found no difference in
+        magnesium excretion between formers and controls — possibly because few formers are
+        hypomagnesiuric.
+ • Magnesium raises urinary pH, citrate and magnesium and lowers calcium oxalate saturation in vitro and
+   in vivo, but two randomised trials of magnesium oxide versus placebo or no treatment showed no
+   clinical benefit.
+Concept — Magnesium is a physicochemically plausible but clinically unproven inhibitor: favourable urine
+chemistry has not translated into fewer stones in randomised trials.
+
+Uric Acid Stones
+ • Humans and apes lack hepatic uricase (which converts uric acid to allantoin) — the gene was silenced
+   (pseudogenised) in evolution, leaving higher blood and urine uric acid.
+ • Allantoin is 10–100 times more soluble than uric acid — hence human susceptibility to uric acid stones.
+ • Frequency: 8–10% of US stones, up to 25% in parts of Germany; rising — a US registry saw the
+   proportion double (≈ 7% → 14%) over 30 years; a Norwegian series rose from 2% to 9% over 40 years.
+ • Uric acid is a weak acid, pKa 5.35 at 37 °C — at that pH, half is urate salt, half free acid.
+
+
+
+                                                              page 27 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis         PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • Sodium urate is about 20 times more soluble than free uric acid → the free-acid fraction (set by pH)
+   determines risk.
+ • pH governs solubility (Fig. 95.13):
+      ◦ At pH 5, even modest uric acid exceeds solubility.
+      ◦ At pH 6.5, > 1200 mg/L remains soluble.
+      ◦ Solubility limit of undissociated uric acid ≈ 96–100 mg/L — readily exceeded by normal daily excretion
+        (500–600 mg/day), so urine is often supersaturated below pH 6.
+ • Low pH also drives calcium oxalate and mixed stones — uric acid and sodium urate act as nidi
+   (heterogeneous nucleation, epitaxy).
+ • Uric acid stone formation after precipitation is poorly understood; crystal adhesion and
+   glycosaminoglycans are proposed but unproven — no natural urinary inhibitor of uric acid is known.
+ • Theobromine (dimethylxanthine in cocoa and chocolate) inhibits uric acid nucleation and growth in
+   vitro; cocoa products raised urinary theobromine and reduced uric acid crystallisation in volunteers (in
+   vitro urine assay).
+
+THE THREE DETERMINANTS OF URIC ACID STONE FORMATION (FIG. 95.14)
+
+ Determinant           Causes                                                   Importance
+ Low urine pH          High animal protein diet, chronic diarrhoea,             The single most important factor — most uric
+                       primary gout, obesity ↔ insulin resistance               acid formers have normal uric acid excretion
+                                                                                but persistently low pH
+ Low urine             Diarrhoeal states, volume depletion, hot climate         Concentrates uric acid
+ volume                or occupation
+ Hyperuricosuria       High animal protein diet, primary gout,                  Least often the driver in idiopathic cases
+                       myeloproliferative disorders, uricosuric drugs,
+                       congenital disorders
+
+ • Drosophila model: knockout of an orthologue of human Na⁺/H⁺ exchanger regulatory factor (NHERF1) →
+   more acidic urine and more uric acid crystals in Malpighian tubules — underlining pH.
+ • Aetiological categories:
+      ◦ Congenital — defects in renal urate transport or uric acid metabolism → hyperuricosuria.
+      ◦ Acquired — chronic diarrhoea, volume depletion, myeloproliferative disorders, high animal protein
+        intake, uricosuric drugs — may act on any of the three determinants.
+      ◦ Idiopathic — decreased fractional excretion of urate, no gout.
+ Governing              Idiopathic uric acid
+ contrast               nephrolithiasis                       Hyperuricosuric calcium nephrolithiasis
+ Urinary uric acid      Normal                                High
+ Urine pH               Low (acidic)                          Normal
+ Other urine            Low ammonium, high                    High urinary sodium and calcium → ↑ sodium urate and calcium
+ features               titratable acid                       oxalate saturation
+ Stone                  Uric acid                             Calcium oxalate
+
+Low Urine pH
+ • Pathogenesis uncertain and probably multifactorial; the leading model links it to insulin resistance:
+      ◦ Normouricosuric pure uric acid formers are more often diabetic or glucose-intolerant.
+
+
+
+
+                                                              page 28 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis      PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+      ◦ On a controlled metabolic diet their urine pH is lower than controls or calcium oxalate formers; they
+        excrete less acid as ammonium, more as titratable acid and less citrate — impaired ammonium
+        excretion.
+      ◦ Uric acid stones are far commoner in type 2 diabetes (about a third of stones in diabetics versus
+        roughly a tenth or less in non-diabetics in two series).
+      ◦ Uric acid formers share metabolic syndrome features — hypertriglyceridaemia, hyperglycaemia,
+        obesity, hypertension.
+      ◦ Hyperinsulinaemic–euglycaemic clamp: low urine pH correlates with insulin resistance in normal
+        subjects, and uric acid formers are the most insulin-resistant.
+      ◦ Hyperglycaemia → lower urine pH and higher uric acid saturation.
+      ◦ Body weight is inversely related to urine pH, independent of urinary sulphate (animal-protein
+        marker); BMI ≥ 27 kg/m² predicts urine pH ≤ 5.5.
+ • Mechanism (Fig. 95.15): insulin promotes proximal tubular ammoniagenesis from glutamine and
+   stimulates the Na⁺/H⁺ exchanger NHE3, which carries NH₄⁺ or supplies luminal H⁺ to trap NH₃ → insulin
+   resistance → ↓ ammonium production/excretion → unbuffered H⁺ → low urine pH.
+ • Diet-independent impairment: higher BMI → lower ammonium-to-sulphate ratio (ammoniagenesis
+   corrected for acid intake) and higher uric acid supersaturation.
+ • Increased endogenous acid production:
+      ◦ On a fixed low acid-ash diet, uric acid formers have higher net acid excretion.
+      ◦ Controlled for urinary sulphate, net acid excretion is higher in uric acid formers and in non-forming
+        type 2 diabetics.
+      ◦ Matched for age, sex and BMI on a metabolic diet, uric acid formers show lower pH, higher titratable
+        acid and net acid excretion, and higher uric acid supersaturation despite equal uric acid excretion.
+ • Synthesis: with impaired ammonium excretion plus increased endogenous acid, titratable acids become
+   the main urinary buffer; acid–base balance is kept, but at a lower urine pH than ammonium (higher pKa)
+   would allow.
+ • Why ammoniagenesis fails — renal lipotoxicity:
+      ◦ Metabolic switch: proximal tubule uses free fatty acids instead of glutamine → less ammoniagenesis.
+      ◦ Lipotoxicity: fat deposited in non-adipose tissue injures cells; in the Zucker diabetic fatty (ZDF) rat,
+        renal steatosis reduced NHE3 expression and activity.
+      ◦ Uric acid stone matrix proteomics: proteins mainly of inflammation and complement; pathways
+        chiefly phospholipid and fatty acid metabolism.
+      ◦ Visceral fat on CT is associated with low urine pH (< 6) and independently with uric acid composition.
+ • Diet: in a randomised crossover of vegetable, vegetable-plus-egg and animal protein diets (rising
+   sulphate), animal protein raised urinary calcium, gave the most undissociated uric acid and the least
+   citrate (lower pH); matched for electrolytes and protein, it raised uric acid stone risk but — because of
+   opposing factors — not calcium oxalate or calcium phosphate risk.
+Concept — Uric acid stones are a disease of urine pH, not of uric acid: insulin resistance and renal fat impair
+ammoniagenesis, so the kidney buffers acid with titratable acid at a lower pH — making the uric acid stone a
+renal manifestation of metabolic syndrome.
+
+Hyperuricosuria
+ • Definition: urinary uric acid > 600 mg/day — causes supersaturation with undissociated uric acid.
+ • Gout: stones markedly fewer with urinary uric acid < 600 mg/day than with > 1000 mg/day.
+
+
+
+                                                              page 29 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis        PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • Causes: dietary, acquired and hereditary diseases, urate-transporter defects (as above).
+
+Low Urinary Volume
+ • Any cause of low volume raises uric acid supersaturation — hot-temperature workers show high uric
+   acid supersaturation; warm climates (e.g. Israel) have high uric acid stone rates.
+
+Cystine Stones
+ • Normal handling: amino acids are freely filtered and almost completely reabsorbed proximally.
+ • Transporter: cystine and the other dibasic amino acids cross the apical membrane of the proximal tubule
+   and jejunum via a sodium-independent heteromeric amino acid transporter, exchanging for neutral
+   amino acids.
+ Subunit                Gene                                       Chromosome                                    ICC type
+ rBAT (heavy)           SLC3A1 (≈ 247 mutations)                   2p (short arm of chromosome 2)                Type A
+ b⁰,⁺AT (light)         SLC7A9 (≈ 160 mutations)                   19q (long arm of chromosome 19)               Type B
+ Both                   —                                          2 and 19                                      Type AB
+
+ • Mutation in either subunit → cystinuria.
+ • Inheritance: autosomal recessive (rarely autosomal dominant with incomplete penetrance).
+ • No nutritional consequence of the identical jejunal defect — amino acids are absorbed as oligopeptides
+   and whole proteins.
+ • Fractional excretion of cystine: ≈ 0.4% normally, up to 100% in cystinuria.
+ • Only cystine forms stones — other dibasic amino acids are soluble; cystine = two cysteines joined by a
+   disulphide bond, far less soluble than cysteine; intracellular reduction to cysteine maintains the
+   reabsorption gradient.
+ • Epidemiology: incidence 1 in 1000 to 1 in 17,000 (US and Europe); up to 10% of paediatric stones; more
+   frequent and more severe in males.
+ • Solubility determinants: cystine concentration, pH, ionic strength, urinary macromolecules.
+      ◦ Supersaturation is the main driver — there is no specific urinary inhibitor of cystine crystallisation.
+      ◦ Precipitates at physiological urine conditions.
+      ◦ Highly pH-dependent: ≈ 300 mg/L at pH 5, ≈ 400 mg/L at pH 7, ≈ 1000 mg/L at pH 9.
+      ◦ Ionic strength (0.005 → 0.3) dissolves up to ≈ 70 mg/L more; colloids also increase solubility → cystine
+        is more soluble in urine than in synthetic solution (Fig. 95.16).
+ • Co-existing abnormalities in cystine formers — hypocitraturia (commonest), hyperuricosuria,
+   hypercalciuria — can produce calcium or mixed calcium–cystine stones.
+ • Classification:
+      ◦ Historical — by urinary cystine in obligate heterozygote parents; correlated poorly with genotype.
+      ◦ International Cystinuria Consortium (ICC) — by chromosome: type A (chromosome 2), type B
+        (chromosome 19), type AB (both).
+ • ICC data: homozygotes excrete up to ≈ 2000 μmol cystine/g creatinine; mean age at first stone ≈ 12
+   years; stone episodes ≈ 0.42/year in males versus 0.21/year in females.
+ • Heterozygotes: type B carriers excrete far more cystine (≈ 475 versus ≈ 70 μmol/g creatinine in type A),
+   yet stone formation does not differ and is uncommon in type B carriers.
+
+
+
+
+                                                              page 30 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis      PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • Renal function: stone formers generally have higher CKD risk, and cystine formers have lower creatinine
+   clearance than other formers; in a French cohort about a quarter of adults had eGFR < 60 mL/min/1.73
+   m² and many had hypertension.
+      ◦ Explanation: more open surgery, including nephrectomy; histology shows dilated ducts of Bellini
+        plugged with cystine, glomerulosclerosis and interstitial fibrosis.
+Concept — Cystinuria is a pure supersaturation disease — a single transport defect, no inhibitor, and a
+solubility that only rises meaningfully at alkaline pH — so only dilution and a markedly alkaline pH move it
+out of the precipitating range, and repeated surgery erodes renal function.
+
+Infection Stones
+ • Composition: magnesium ammonium phosphate hexahydrate (struvite, MgNH₄PO₄·6H₂O), often with
+   carbonate apatite (Ca₁₀[PO₄]₆·CO₃).
+ • History (sequence of discovery): a Swedish geologist found magnesium ammonium phosphate in guano
+   and named it struvite after his mentor H.C.G. von Struve → bacteria proposed to split urea (early 20th
+   century), with Proteus vulgaris isolated from a stone → a bacterial enzyme proposed to hydrolyse urea →
+   urease isolated (from Canavalia ensiformis, the jack bean) → now established that struvite forms only
+   with urea-splitting infection.
+
+Pathophysiology
+ • Urease is absent from sterile human urine — infection with a urease-producing organism is a
+   prerequisite.
+ • Chemical cascade (step → step):
+    1. Urea + H₂O → 2NH₃ + CO₂ (bacterial urease).
+    2. Alkaline urine (pH 7.2–8.0) → NH₃ + H₂O → NH₄⁺ + OH⁻ (pKa 9.0). Normally alkalinity would halt
+       ammonium generation, but urease keeps producing ammonia, pushing pH higher.
+    3. CO₂ hydration → H₂CO₃ → H⁺ + HCO₃⁻ (pKa 6.3) → H⁺ + CO₃²⁻ (pKa 10.2).
+    4. Phosphate dissociation: H₂PO₄⁻ → H⁺ + HPO₄²⁻ (pKa 7.2) → H⁺ + PO₄³⁻ (pKa 12.4).
+    5. With physiological magnesium → struvite; with calcium, phosphate and carbonate → carbonate
+       apatite and hydroxyapatite (Fig. 95.17).
+ • Obstruction or stasis may associate with or exacerbate infection stones → growth can be rapid.
+
+Bacteriology
+ • Enterobacteriaceae make up most urease producers, but many gram-positive and gram-negative
+   bacteria, some yeasts and Mycoplasma species make urease (Table 95.3).
+ • Commonest urease producers: Proteus, Klebsiella, Pseudomonas and Staphylococcus; Proteus mirabilis
+   is the organism most associated with infection stones.
+ • Escherichia coli — a common uropathogen, but only rare strains produce urease.
+ • Yet contemporary series culture E. coli (and sterile urine) from struvite patients surprisingly often; E. coli
+   matched Proteus as the commonest isolate in one international series; higher struvite content predicts
+   urease-producing organisms.
+ • Explanation: bladder urine and stone cultures are frequently discordant → voided urine culture is
+   unreliable for identifying the stone organism.
+
+
+
+
+                                                              page 31 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis          PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+TABLE 95.3 ORGANISMS THAT MAY PRODUCE UREASE
+
+ Group             Usually urease-positive (> 90% of isolates)                Occasionally urease-positive (5–30% of isolates)
+ Gram-             Proteus (rettgeri, vulgaris, mirabilis, morganii);         Klebsiella pneumoniae, Klebsiella oxytoca;
+ negative          Providencia stuartii; Haemophilus influenzae;              Serratia marcescens; Haemophilus
+                   Bordetella pertussis; Bacteroides corrodens;               parainfluenzae; Bordetella bronchiseptica;
+                   Yersinia enterocolitica; Brucella species;                 Aeromonas hydrophila; Pseudomonas
+                   Flavobacterium species                                     aeruginosa; Pasteurella species
+ Gram-             Staphylococcus aureus; Micrococcus;                        Staphylococcus epidermidis; Bacillus species;
+ positive          Corynebacterium (ulcerans, renale, ovis,                   Corynebacterium (murium, equi); Peptococcus
+                   hofmannii)                                                 asaccharolyticus; Clostridium tetani;
+                                                                              Mycobacterium rhodochrous group
+ Mycoplasma T-strain Mycoplasma; Ureaplasma urealyticum                       —
+ Yeasts            Cryptococcus; Rhodotorula; Sporobolomyces;                 —
+                   Candida humicola; Trichosporon cutaneum
+
+From Gleeson MJ, Griffith DP, 1990 (Urolithiasis: a medical and surgical reference).
+ • Purpose: which organisms can make urease — i.e. which infections can build a struvite stone.
+ • Pattern: Proteus is reliably urease-positive; Klebsiella and Pseudomonas only occasionally;
+   Staphylococcus aureus usually, S. epidermidis occasionally; Ureaplasma is a reliable, easily missed
+   producer.
+ • Trap: E. coli does not appear — yet it is frequently cultured from struvite patients (discordant cultures, or
+   rare urease-positive strains).
+
+Pathogenesis
+ • Beyond chemistry, urease-producing bacteria damage the urothelial mucosal layer → ↑ bacterial
+   colonisation and crystal adherence.
+ • Ammonium from ureolysis alters the protective glycosaminoglycan layer → ↑ bacterial adherence →
+   biofilm.
+ • Bacteria live within an exopolysaccharide matrix; struvite crystallises inside and around bacterial cells
+   → stone growth, bacteria encased within the stone.
+
+Epidemiology
+ • 5–15% of all stones.
+ • Staghorn calculi are not mostly infection stones: in a modern analysis less than half were infection
+   stones; the majority were metabolic, most often calcium phosphate.
+ • Incidence is falling worldwide (Australia, Japan; in the US in females, little change in males) — attributed
+   to better diagnosis and treatment of urinary tract infection (UTI) in females and more effective stone
+   surgery.
+ • Geography: highest in India and Pakistan (poor sanitation → female UTI); lowest in Canada, China,
+   Argentina, Poland, Iraq and Italy.
+ • Female-to-male ratio ≈ 2:1.
+ • At-risk groups: elderly; premature infants and congenital urinary tract malformation; diabetes; urinary
+   stasis from obstruction, urinary diversion or neurological disorders.
+
+
+
+
+                                                              page 32 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis          PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • Spinal cord injury — risk of infection and metabolic stones (neurogenic dysfunction plus immobilisation
+   hypercalciuria); functionally complete cord transection → highest staghorn risk.
+Concept — Infection stones need one thing no human urine can supply — urease; everything else (alkaline
+pH, ammonium, carbonate, phosphate) follows chemically, and biofilm then locks the bacteria inside the
+stone.
+
+Miscellaneous Stones
+Xanthine and Dihydroxyadenine Stones
+ • Autosomal recessive purine disorders: enzyme deficiency causes accumulation of the precursor
+   immediately proximal to the block.
+ Contrast              Xanthine                                      2,8-Dihydroxyadenine (DHA)
+ Enzyme                Xanthine dehydrogenase (XDH)                  Adenine phosphoribosyltransferase (APRT)
+ deficient
+ Accumulating          Xanthine                                      Adenine → converted by XDH to DHA
+ compound
+ Gene                  —                                             APRT, chromosome 16q24; > 40 mutations (Met136Thr
+                                                                     common in Japanese; an intron-4 splice-site T insertion
+                                                                     common in a French cohort)
+ Radiology             Radiolucent — mistaken for uric acid Radiolucent — mistaken for uric acid
+ Solubility            Highly insoluble                              Extremely insoluble at any pH
+ Iatrogenic cause      High-dose allopurinol (XDH                    —
+                       inhibition) — e.g. Lesch-Nyhan
+                       syndrome (HGPRT deficiency)
+ Treatment clue        —                                             Allopurinol prevents; febuxostat more effective at studied
+                                                                     doses
+
+ • DHA → stones, obstructive nephropathy or crystalline nephritis.
+ • Allopurinol rarely causes xanthine stones — only partial XDH inhibition; serum uric acid rarely falls
+   below 3 mg/dL.
+ • APRT deficiency can present in infancy and may be confused with HGPRT deficiency because DHA
+   resembles uric acid.
+ • Rare Kidney Stone Consortium APRT-deficiency registry: allopurinol 400 mg/day and febuxostat 80 mg/
+   day both lowered DHA excretion; febuxostat more effective.
+
+Ammonium Acid Urate Stones
+ • ≈ 1% of stones; endemic bladder stones in children in developing countries.
+ • Radiolucent.
+ • Associations: chronic diarrhoea, inflammatory bowel disease, ileostomy, laxative abuse, recurrent UTI,
+   recurrent uric acid stones, morbid obesity; a contemporary series added prostate surgery with bladder
+   neck contracture and found no laxative association.
+ • Ileostomy after colectomy: low urine volume, pH and sodium, and no hyperoxaluria (no colon) →
+   ammonium acid urate and uric acid stones, not calcium oxalate; inflammatory bowel disease with
+   ileostomy gave the highest ammonium urate content.
+ • Laxative abuse mechanism (sequence): gastrointestinal fluid loss → dehydration → intracellular acidosis
+   → ↑ urinary ammonia; low urinary sodium leaves urate to complex with ammonium → ammonium acid
+   urate supersaturation.
+
+
+
+                                                              page 33 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis      PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ • Precipitation favoured at pH 6.2–6.3.
+ • Link with uric acid stones: shared low volume and low pH; mixed uric acid–ammonium urate stones are
+   usually uric acid-predominant; fluctuations in acidity, ammonium and sodium shift the balance between
+   uric acid and sodium- or ammonium-bound urate.
+ • Obesity (BMI ≥ 30) was the commonest feature once bowel-disease patients were excluded; BMI
+   correlated with ammonium urate content — consistent with the obesity–low urine pH link.
+
+Matrix Stones
+ • Protein suspensions can promote calcium stones; osteopontin and calprotectin help build the matrix of
+   calcium stones.
+ • Predominantly matrix stones are rare, radiolucent, and may be mistaken for tumour or uric acid stones;
+   literature is mostly case reports.
+ • Matrix is ≈ 2.5% of calcium stone dry weight; pure matrix stones contain > 65% protein.
+ • Composition ≈ two-thirds mucoprotein, one-third mucopolysaccharide; matrix of crystalline stones
+   closely resembles that of matrix stones.
+ • Why they fail to calcify is unclear — low urinary calcium was proposed, but patients had normal urinary
+   calcium.
+ • Dialysis patients: proteinuria may contribute; matrix contains microfibrillar protein and β₂-microglobulin.
+ • Proteus infection: electron microscopy shows fibrous net-like laminations with bacterial, cellular and
+   crystalline material; proteomics found proteins mostly previously unreported, the majority inflammatory
+   or defensive.
+
+Medication-Related Stones
+ • Two routes: direct (the drug or a metabolite precipitates) or indirect (the drug alters urine chemistry to
+   favour metabolic stones).
+ • Stones of the drug itself (with excessive intake): ephedrine, triamterene, guaifenesin, silicate, indinavir,
+   ciprofloxacin.
+ • Calcium-stone promoters: loop diuretics (furosemide, bumetanide) and carbonic anhydrase inhibitors
+   (acetazolamide, topiramate, zonisamide).
+Medications That Directly Promote Stone Formation
+Antiretroviral Agents
+ • Indinavir sulphate — protease inhibitor that raises CD4⁺ counts and lowers HIV RNA in human
+   immunodeficiency virus (HIV) infection and acquired immunodeficiency syndrome.
+      ◦ Stone incidence 4–13%.
+      ◦ Pharmacokinetics: peak plasma level < 1 hour; hepatic metabolism, mainly faecal elimination, but
+        about half excreted unchanged in urine.
+      ◦ pKa 5.5; solubility falls steeply with rising pH: ≈ 0.300 mg/mL at pH 5, 0.035 at pH 6, 0.020 at pH 7 —
+        far more soluble below pH 5.5.
+      ◦ Standard dose → urinary concentration near solubility limit ≈ 3 hours after ingestion at average
+        volume and pH.
+      ◦ Crystalluria in about two-thirds of new users; stable at about a quarter of sediments after 2 weeks.
+      ◦ Now infrequently used.
+
+
+
+
+                                                              page 34 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis            PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+ANTIRETROVIRAL AGENTS AND STONE FORMATION — COMPARISON
+
+                                          Urinary excretion
+ Agent                   Class            unchanged               Stone risk             Note
+ Indinavir               Protease         ≈ 50%                   4–13% (highest)        Least soluble at physiological pH;
+                         inhibitor                                                       acidification increases solubility; now
+                                                                                         rarely used
+ Ritonavir-boosted       Protease         ≈ 7%                    ≈ 7% — highest of      Widely used
+ atazanavir              inhibitor                                the newer agents
+ Lopinavir–              Protease         —                       Reported               —
+ ritonavir               inhibitor
+ Nelfinavir              Protease         < 3%                    Lower                  —
+                         inhibitor
+ Amprenavir              Protease         < 3%                    Lower                  —
+                         inhibitor
+
+ • Rule: stone rate tracks urinary excretion of unchanged drug and its insolubility.
+Triamterene
+ • Potassium-sparing diuretic for hypertension; ≈ 0.4% of stones in a large series, only a third largely
+    triamterene.
+ • Stone formers do not handle the drug differently from controls; about half of all subjects exceed the
+   solubility of the sulphate metabolite.
+ • Tends to incorporate into existing stones or nidi rather than initiate stones → rare in non-recurrent
+   formers; hospitalisation rates for stones were no different from hydrochlorothiazide users.
+Guaifenesin and Ephedrine
+ • Large quantities → stones of their metabolites; typically over-the-counter cold remedies abused for
+   ephedrine's stimulant effect; drug-abuse history common.
+ • Herbal ecstasy and ma huang — ephedrine-containing preparations.
+ • Tachyphylaxis → escalating doses; toxicity includes death, cardiomyopathy, stroke, hypertension,
+   seizures.
+Silicate Stones
+ • Silica is ubiquitous (vegetables, grains, seafood, water) and easily excreted.
+ • Silicate stones are extremely rare — linked to large intakes of silicate antacids (magnesium trisilicate).
+Medications That Indirectly Promote Stone Formation
+
+DRUGS THAT ALTER URINE CHEMISTRY — COMPARISON
+
+ Drug / class                            Urinary effect                                 Stone type
+ Corticosteroids, vitamin D,             Hypercalciuria                                 Calcium
+ phosphate-binding antacids
+ Thiazides                               Intracellular acidosis → hypocitraturia Calcium
+ Loop diuretics (furosemide,             Inhibit TAL sodium and calcium                 Calcium oxalate — stones in up to 64% of
+ bumetanide)                             reabsorption → hypercalciuria                  low-birth-weight infants on furosemide
+ Carbonic anhydrase inhibitors           Metabolic acidosis with alkaline urine         Calcium phosphate
+                                         → hypocitraturia, hypercalciuria
+ Laxatives (abuse)                       Diarrhoea, low volume, low sodium,             Ammonium acid urate
+                                         ammonia excretion, low pH
+
+
+
+
+                                                              page 35 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis       PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+
+ Drug / class                            Urinary effect                            Stone type
+ Cytotoxic agents                        High cell turnover → uric acid            Uric acid
+                                         excretion
+
+CARBONIC ANHYDRASE INHIBITORS — COMPARISON
+
+                                                         Carbonic
+                                                         anhydrase
+ Agent               Indication                          inhibition           Stone evidence
+ Acetazolamide Classic carbonic anhydrase                Strong; blocks     Calcium phosphate stones with chronic use
+               inhibitor                                 sodium bicarbonate
+                                                         reabsorption at
+                                                         multiple nephron
+                                                         sites
+ Topiramate          Epilepsy, migraine                  Several isoenzymes Label 1.2–1.5% is an underestimate: about one
+                     prophylaxis; off-label                                 in ten users reported stones and one in five
+                     obesity, neuropathic pain,                             had asymptomatic stones on CT (mean ≈ 43
+                     alcoholism, type 2 diabetes,                           months); metabolic acidosis, high urine pH,
+                     smoking and cocaine                                    low citrate, ↑ calcium phosphate saturation;
+                     dependence                                             hypocitraturia dose-dependent and inversely
+                                                                            related to duration
+ Zonisamide          Epilepsy (sulphonamide)             Weak                 Increased stone risk
+
+Concept — Drug stones follow two rules: for direct stones, risk equals urinary excretion of an insoluble drug
+(indinavir, atazanavir); for indirect stones, the drug simply recreates a known metabolic phenotype —
+carbonic anhydrase inhibitors mimic distal RTA (alkaline urine, low citrate, calcium phosphate), loop diuretics
+mimic hypercalciuria, laxatives mimic ileostomy.
+
+Anatomic Predisposition to Stones
+ • Anomalies causing obstruction or stasis carry high stone rates. The long-running question: stasis
+   (delayed transit → crystal formation and retention) or the same metabolic abnormalities as other stone
+   formers?
+
+Ureteropelvic Junction Obstruction
+ • Stones in nearly 20% of patients with ureteropelvic junction obstruction (UPJO).
+ • Evidence that metabolic risk persists after the obstruction is corrected (adult series):
+      ◦ Most recurred after UPJO repair, and a large share of recurrences were in the contralateral kidney.
+      ◦ Most patients with non-infectious stones had a metabolic abnormality — a rate comparable to other
+        stone formers.
+      ◦ The spectrum mirrored the general stone population — hypercalciuria commonest, then
+        hypocitraturia, hyperuricosuria, primary hyperparathyroidism, RTA.
+      ◦ Treating the metabolic abnormality substantially cut recurrence compared with conservative
+        management.
+ • Pre-repair metabolic evaluation: UPJO patients with stones had more metabolic abnormalities (higher
+   urinary calcium, hypercalciuria and hyperuricosuria) than UPJO patients without stones.
+ • Children:
+      ◦ Stone-forming children — with or without UPJO — differ in urinary citrate and oxalate from non-
+        stone-forming children with UPJO (prospective comparison), supporting a metabolic contribution.
+      ◦ UPJO confers a markedly increased (about seventyfold) stone risk versus normal children.
+
+
+
+                                                              page 36 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis        PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+      ◦ Most children with non-struvite stones recurred after surgery, and most had a metabolic abnormality;
+        those who did not recur mostly lacked one.
+
+Horseshoe Kidneys
+ • Pooled stone incidence (meta-analysis): ≈ 36% in adults, ≈ 3% in children.
+ • High ureteral insertion → impaired drainage → UPJO tendency — risk traditionally attributed to stasis.
+ • But metabolic evaluation found at least one abnormality in every patient tested; the distribution
+   resembled normal-anatomy formers except hypocitraturia, which was over-represented.
+ • Composition (meta-analysis): calcium-based ≈ 89%, struvite ≈ 4%, uric acid ≈ 4%, other ≈ 3%.
+
+Calyceal Diverticula
+ • Stones in up to 40%.
+ • Conflicting evidence:
+      ◦ One series: metabolic abnormalities in half, and most had stones elsewhere (synchronous or
+        metachronous) — supports metabolic risk.
+      ◦ Another: low metabolic abnormality rates in patients with and without diverticula — but pH and
+        citrate were not measured, so abnormalities were under-counted (low pH and hypocitraturia affect
+        about 10% and 28% of recurrent formers).
+      ◦ 24-hour urine of diverticular stone patients resembled calcium oxalate formers (hypercalciuria, ↑
+        calcium oxalate supersaturation) — yet urine aspirated from the diverticulum had lower calcium
+        oxalate supersaturation than either renal pelvis.
+ • Composition: mainly calcium oxalate monohydrate; struvite–carbonate apatite when infected;
+   concomitant UTI in up to 40% (E. coli, Proteus, Pseudomonas).
+
+Medullary Sponge Kidney
+ • Medullary sponge kidney (MSK) = ectasia of the renal collecting ducts; nephrocalcinosis and calculi are
+   frequent.
+ • Candidate mechanisms: infection and stasis in ectatic ducts, plus tubular defects — hypercalciuria,
+   impaired concentrating ability, defective acidification after ammonium chloride load.
+ • Acidification defects: common on acid loading (mostly distal RTA, occasionally proximal); impaired
+   concentrating ability in most; H⁺-ATPase gene mutations (ATP6V1B1, ATP6V0A4) found in MSK patients
+   — supporting an MSK–distal RTA link.
+ • Yet three studies of MSK patients with stones found no RTA.
+ • Hypercalciuria is the commonest abnormality in some series (mostly absorptive), less frequent in others;
+   sometimes renal leak from damaged tubules.
+ • Hypocitraturia the commonest abnormality in other series.
+ • Urine proteomics (Italian network) proposed biomarkers distinguishing MSK from idiopathic calcium
+   formers — laminin α2, ficolin 1, mannan-binding lectin serine protease 2, complement component 4-
+   binding protein, sphingomyelin, ephrins — role not yet established.
+
+ANATOMIC ANOMALIES AND STONES — COMPARISON
+
+ Anomaly              Stone frequency            Metabolic abnormality        Distinctive finding           Verdict
+ UPJO                 ≈ 20% (children ~70×       Common; same                 Recurrence after repair,      Metabolic >
+                      normal risk)               spectrum as general          often contralateral           anatomic
+                                                 formers
+
+
+
+
+                                                              page 37 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis        PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+
+ Anomaly              Stone frequency            Metabolic abnormality        Distinctive finding           Verdict
+ Horseshoe            ≈ 36% adults, ≈ 3%         Present in all tested        Hypocitraturia over-          Stasis +
+ kidney               children                                                represented; calcium-based    obligatory
+                                                                              stones                        metabolic
+                                                                                                            defect
+ Calyceal             Up to 40%                  Half in one series; under-   Diverticular urine less       Metabolic +
+ diverticulum                                    measured in another          supersaturated than pelvic    stasis
+                                                                              urine; UTI up to 40%
+ Medullary            Frequent (with             Hypercalciuria,              Ductal ectasia; H⁺-ATPase     Metabolic even
+ sponge kidney        nephrocalcinosis)          hypocitraturia; distal RTA   mutations                     without RTA
+                                                 on acid loading
+
+Concept — Across every anomaly the answer is the same: anatomy sets the stage but metabolism writes the
+stone — which is why patients with anatomical stones still need a full metabolic evaluation, and why surgical
+correction alone does not prevent recurrence.
+
+Stones in Pregnancy
+ • Symptomatic stones: 1 in 204 to 1 in 3000 pregnancies; incidence has not risen (1991–2000 versus
+   2001–2011), unlike the general population.
+ • Timing: mostly second and third trimesters, with flank pain or haematuria; odds rise in the second and
+   third trimesters and peak 0–3 months post partum, returning to baseline by 1 year.
+ • Misdiagnosis in up to 28% — appendicitis, diverticulitis, placental abruption.
+ • Physiological hydronephrosis in up to 90%, persisting 4–6 weeks post partum:
+       ◦ Causes: progesterone and — at least contributory, perhaps primary — compression by the gravid
+         uterus.
+       ◦ Right side greater — engorged uterine vein and dextrorotation of the uterus.
+       ◦ Dilatation may promote crystallisation through stasis; ↑ pelvic pressure may mobilise stones and
+         provoke symptoms.
+ Pregnancy —
+ opposing urinary
+ effects                    Mechanism
+ Promoters ↑                Renal blood flow ↑ → GFR ↑ 30–50% → ↑ filtered calcium, sodium, uric acid; placental
+                            1,25(OH)2D3 → ↑ gut calcium absorption, PTH suppressed → absorptive-type hypercalciuria
+                            (reversible post partum); hyperuricosuria
+ Inhibitors ↑               ↑ Citrate, magnesium and glycoproteins
+ Net                        Overall stone risk similar to non-pregnant females
+
+ • Composition: some studies show no difference, but others find calcium phosphate predominant (about
+   three-quarters in one multi-institutional series; significantly more carbapatite than in age-matched non-
+   pregnant females) — perhaps from pregnancy-related urinary pH changes (speculative).
+Concept — Pregnancy raises promoters and inhibitors together, so stone risk is roughly unchanged — but
+when stones do form they skew towards calcium phosphate, and the symptomatic peak comes late in
+pregnancy and just after delivery, when hydronephrosis and stasis are greatest.
+
+ KEY POINTS: PATHOGENESIS
+   • Absorptive hypercalciuria: normal serum calcium, normal or suppressed PTH, normal fasting urinary
+     calcium, elevated urinary calcium.
+
+
+
+                                                              page 38 of 39
+Chapter 95 — Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis      PATHOPHYSIOLOGY OF UPPER URINARY TRACT CALCULI
+   • Renal hypercalciuria: impaired renal calcium reabsorption stimulates PTH and causes fasting
+     hypercalciuria.
+   • Resorptive hypercalciuria: primarily primary hyperparathyroidism; also granulomatous diseases
+     producing 1,25(OH)2D3.
+   • Low urinary pH is the most important determinant of uric acid stones.
+   • Low urine pH in uric acid formers probably reflects impaired ammoniagenesis from insulin resistance
+     plus excess acid production.
+   • In distal RTA, a defective H⁺-ATPase prevents excretion of excess acid into the distal tubule.
+   • Infection stones require alkaline urine achievable only with urease-producing bacteria.
+
+
+
+
+                                                              page 39 of 39
+
