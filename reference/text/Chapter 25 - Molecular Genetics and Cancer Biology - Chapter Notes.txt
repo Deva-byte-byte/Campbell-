@@ -1,0 +1,973 @@
+Chapter 25 — Molecular Genetics and Cancer Biology                                          Basic Molecular Genetics
+
+Chapter 25 — Molecular Genetics and Cancer Biology
+ • Molecular understanding of cancer follows from Watson and Crick's structure of DNA (1953); the first
+   human genome sequence (early 2000s) and expanding sequencing technology accelerated discovery of
+   genetic and epigenetic determinants of cancer.
+ • Carcinogenesis is multistep and often takes many years; a normal cell must clear multiple hurdles.
+ • At least eight attributes of the malignant cell: (1) genetic instability and mutation; (2) autonomous
+   growth; (3) insensitivity to antiproliferative signals; (4) resistance to apoptosis and other induced cell
+   suicide; (5) unlimited division potential; (6) angiogenesis; (7) local invasion — the feature that uniquely
+   distinguishes malignant from benign; (8) immune evasion.
+ • Cancer cells must also tolerate the stresses of their abnormal physiology and increase energy
+   metabolism; tumour-associated inflammation can drive preneoplastic lesions to invasion; many acquire
+   the lethal attribute of metastasis.
+
+BASIC MOLECULAR GENETICS
+
+Transcription
+ • DNA → messenger RNA (mRNA) → protein. RNA polymerase II synthesises pre-mRNA complementary to
+   the template, containing exons (coding) and introns (non-coding).
+ • Three nuclear modifications before translation: 5′ capping, 3′ polyadenylation, splicing (introns removed,
+   exons joined).
+ • Alternative splicing lets one gene encode several proteins. Androgen receptor (AR) splice variants lacking
+   the ligand-binding domain are active without ligand → may drive prostate cancer refractory to androgen
+   ablation.
+
+Protein Synthesis
+ • Translation occurs in the cytoplasm on ribosomes.
+ • Frameshift vs substitution: a single-base insertion or deletion shifts the frame and usually gives a non-
+   functional protein; a single-base substitution may or may not change the amino acid, and may or may not
+   alter function.
+ • Transfer RNA (tRNA): 75–85-base adapter carrying one amino acid and a three-nucleotide anticodon.
+   Ribosomal RNA (rRNA): ~80% of cellular RNA, part of the ribosome.
+ • Stages: initiation (often rate-limiting; 40S subunit binds mRNA; start codon AUG → every protein begins
+   with methionine) → elongation (fastest; several ribosomes may read one mRNA at once) → termination
+   at one of three stop codons.
+
+Chromosome and Gene Structure
+ • Linear chromosomes are packaged by histones into chromatin; local chromatin structure governs
+   expression and differs by cell type.
+ • Euchromatin (actively expressed DNA) vs heterochromatin (inactive, possibly structural).
+
+
+
+
+                                                     page 1 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                                 Somatic and Germline Testing
+
+SOMATIC AND GERMLINE TESTING
+SOMATIC VS GERMLINE TESTING
+            Somatic                                                Germline
+ Detects Mutations acquired during life, confined to               Inherited variants in every cell; transmissible
+         tumour
+ Sample Tumour tissue (biopsy, resection)                          Blood or saliva
+ Uses       Tumour landscape, targetable mutations →               Hereditary syndromes, risk assessment; surveillance,
+            targeted therapy, heterogeneity, resistance            preventive surgery, targeted therapy; family
+            mutations                                              implications
+
+
+INACTIVATION OF TUMOUR SUPPRESSOR GENES AND ACTIVATION OF ONCOGENES
+
+Gene Mutation and Inactivation
+ • Cancer is fundamentally a genetic disease. DNA changes are frequent, but most are inconsequential or
+   are detected and cause cell death.
+CATEGORIES OF GENE ALTERATION
+ Category                      Change                  Consequence
+ Point mutation                Single nucleotide       Silent (no amino-acid change), missense (substitution), nonsense
+                                                       (premature stop codon)
+ Insertion/deletion            Bases added or lost     Frameshift — large regions of protein altered
+ ("indel")
+ Duplication / deletion        Larger DNA segments Loss of protein regions or whole genes
+ Chromosomal                   Inversions,             Large deletions, duplication/amplification, gene fusions
+ rearrangement                 translocations
+
+BOX 25.1 GROSS CHROMOSOMAL ABNORMALITIES FREQUENTLY OBSERVED IN CANCER
+ Class                     Abnormality
+ Numerical                 Abnormal whole-set number (triploidy, tetraploidy); loss or gain of single chromosomes
+ (aneuploidy)              (monosomy, trisomy)
+ Structural —              Inversions; translocations (balanced or unbalanced); chromothripsis
+ rearrangements
+ Structural — fusions      End-to-end → dicentric chromosome; intrachromosomal → ring chromosome
+ Structural — dosage       Deletions (small segment to whole arm); duplications, amplifications; double minutes (often
+                           amplified sequence); isochromosome (one arm lost, replaced by duplicate of the other)
+ Complex                   Combinations of the above
+
+Tumour Suppressor Genes
+ • Negatively regulate growth; roles in cell cycle, DNA repair, signalling. Loss → dysregulated growth and
+   division despite stress and damage → further mutation.
+ • Both alleles usually must be lost, by: (1) homozygous deletion; (2) loss of one allele + mutation of the
+   other; (3) mutation of both; (4) loss of one allele + epigenetic silencing (promoter methylation) of the
+   other. Classic examples: RB1, TP53.
+ • Knudson's two-hit hypothesis (retinoblastoma): familial cases — often bilateral — inherit one non-
+   functional allele, so a single somatic hit suffices.
+
+
+
+
+                                                          page 2 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                               Cell Cycle Deregulation
+ • Exceptions to two hits: dominant negative — the mutant protein disables the wild-type partner where
+   proteins act as multimers (e.g. TP53); haploinsufficiency — one lost allele lowers protein enough to raise
+   carcinogen susceptibility (e.g. CDKN1B / p27Kip1).
+
+Oncogenes
+ • Mutated, activated forms of normal proto-oncogenes that drive proliferation. Activation by: (1) activating
+   mutation; (2) amplification (↑ copy number [CN] → ↑ transcript and protein; arises from replication
+   errors, aneuploidy); (3) chromosomal rearrangement.
+ • Examples: ERBB mutation → constitutively active epidermal growth factor receptor (EGFR). MYC (early-
+   response transcription factor): amplified in prostate cancer, linked to immortalisation of prostate
+   epithelium; amplified/overexpressed in bladder cancer (more than half of papillary and invasive tumours).
+   MET (hepatocyte growth factor receptor): overexpressed in RCC, more in high grade; germline missense
+   activation in hereditary papillary RCC. TMPRSS2–ERG fusion in a large proportion of prostate cancers.
+TUMOUR SUPPRESSOR GENE VS ONCOGENE
+                  Tumour suppressor                                  Oncogene
+ Normal role      Brake on growth; repair                            Accelerator (proto-oncogene)
+ Cancer           Loss of function                                   Gain of function
+ change
+ Alleles          Usually both (exceptions: dominant negative,       One
+ needed           haploinsufficiency)
+ Mechanisms       Deletion, mutation, promoter methylation           Activating mutation, amplification,
+                                                                     rearrangement/fusion
+ GU examples      RB1, TP53, CDKN1B, VHL, PTEN                       MYC, MET, ERBB/EGFR, TMPRSS2–ERG
+
+
+ KEY POINTS: TUMOUR SUPPRESSOR GENES AND ONCOGENES
+   • Somatic and germline testing identify alterations governing cancer risk and progression.
+   • Tumour suppressors restrain growth; lost by four routes; some escape two-hit rule (dominant negative,
+     haploinsufficiency).
+   • Proto-oncogenes activated by mutation, amplification or rearrangement.
+
+
+CELL CYCLE DEREGULATION
+ • Division is tightly balanced against cell loss; human cells integrate external growth-stimulatory and
+   growth-inhibitory signals to choose division or quiescence. In cancer, activated oncogenes and lost
+   suppressors tip the balance permanently towards proliferation.
+ • G0 = reversible quiescence, the default. The cycle is ordered and unidirectional: G1 → S (DNA synthesis)
+   → G2 → M (mitosis), about 24 hours; each step requires completion of the previous.
+ • Checkpoints monitor DNA integrity → pause for repair → apoptosis if irreparable. Oncogenes and
+   suppressors act largely by disabling checkpoints and apoptosis; loss of damage sensing → genetic
+   instability, driving progression, resistance and metastasis.
+
+Cyclin-Dependent Kinases and Cyclins
+ • Cyclin-dependent kinases (CDKs): conserved serine/threonine kinases that phosphorylate phase-specific
+   substrates.
+
+
+
+
+                                                      page 3 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                                   Cell Cycle Deregulation
+ • Activity depends on cyclins (12 in mammals), whose levels rise and fall with the phase and are rate-
+   limiting; after each phase the cyclin is polyubiquitinated and degraded by the proteasome, inactivating
+   its CDK.
+ • Further control: activating/inhibitory phosphorylation of the CDK and CDK inhibitors (CDKIs) — all
+   commonly altered in cancer.
+CYCLIN–CDK PARTNERS THROUGH THE CYCLE (FIG. 25.2)
+ Phase                Complex                          Function
+ G1                   Cyclin D–CDK4/6, cyclin E–       Cyclin D needs sustained mitogen signal (Ras/Raf/MEK);
+                      CDK2                             phosphorylate RB1
+ Early S              Cyclin A–CDK2 (A replaces E)     Activate S-phase genes
+ Late S               Cyclin A–CDK1                    —
+ End of S → G2 →      Cyclin B–CDK1                    Drives mitosis; phosphorylates lamins → nuclear envelope
+ M                                                     breakdown
+
+Cell Cycle Progression
+ • A cell proliferates when growth-stimulatory signals (soluble growth factors) outweigh inhibitory ones
+   (e.g. TGF-β). From G0 it enters G1 to build macromolecules and organelles; through early and mid-G1 it
+   remains sensitive to external signals.
+CELL-CYCLE CONTROL POINTS
+ Control point         Responds to                   Mechanism                                  Outcome
+ G1/S checkpoint       Extracellular signals         No commitment without sustained signal;    Arrest/repair; TP53 →
+                       (mitogens, nutrients,         p21 (CDKN1A) and 14-3-3σ inactivate or     apoptosis if unrepaired
+                       oxygen) and DNA               sequester G1 CDKs
+                       damage
+ S-phase arrest        Genotoxic insult              ATM-dependent: (1) Cdc25A destroyed →      Pause to repair — last
+ (not a formal                                       CDK2 stays inactive; (2) ATM               chance before
+ checkpoint)                                         phosphorylates repair enzymes              replication locks in
+                                                                                                mutations
+ G2/M checkpoint       DNA damage only (e.g.         ATM → CHEK1/CHEK2 phosphorylate            G2/M arrest
+                       radiation)                    Cdc25 → sequestered by 14-3-3σ; TP53
+                                                     and BRCA1 contribute; TP53 induces p21,
+                                                     GADD45, 14-3-3σ
+ Spindle assembly      Any unattached                Blocks the anaphase-promoting complex      Metaphase held until all
+ (mitotic)             chromosome ("not                                                         attached
+ checkpoint            ready" signal)
+
+ • TP53 mediates both G1/S and G2/M arrest — hence its central role in genomic integrity.
+Mitosis
+ • Sequence: chromosomes condense (condensins); sister chromatids held by cohesins → centrosomes
+   move to opposite poles and assemble spindle microtubules, which attach at centromeres via
+   kinetochores → nuclear envelope and lamins dissolve (cyclin B–CDK1) → chromosomes align at midline
+   (metaphase) → motors pull complements to poles (anaphase) → nuclei re-form, chromosomes
+   decondense → cytokinesis.
+ • Mitotic abnormalities in cancer were noted by von Hansemann (late 1800s); Boveri (1914) proposed they
+   cause tumours.
+
+
+
+
+                                                           page 4 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                                    Cell Cycle Deregulation
+Mitotic Arrest: The Spindle Assembly Checkpoint
+ • Failed attachment → non-disjunction: one daughter trisomic, the other monosomic = aneuploidy, a near-
+   universal feature of solid tumours and a common route to gene amplification and deletion; expression
+   tracks CN, so aneuploidy may drive initiation and progression.
+ • Checkpoint-gene mutations (e.g. hBUBR1) are rare; abnormal expression of checkpoint proteins better
+   explains instability — ↓ MAD1/MAD2 in RCC, ↓ MAD2 in testicular cancer.
+
+Cyclin-Dependent Kinase Inhibitors and Checkpoint Inhibition
+CDK INHIBITOR FAMILIES
+              Cip/Kip                                                 INK4 ("inhibitors of CDK4")
+ Members      p21 (CDKN1A), p27 (CDKN1B), p57 (CDKN1C)                p15 (INK4B), p16 (INK4A), p18 (INK4C), p19
+                                                                      (INK4D)
+ Range        Broad — many cyclin–CDK complexes throughout            Restricted to CDK4/6 → block RB1 phosphorylation
+              the cycle                                               → key G1/S regulators
+ Physiology p21 ↑ after DNA damage; p27 high in quiescent             p15 and p16 inactivated by mutation and
+            cells; maintain G0 in terminally differentiated cells     promoter methylation in cancer, including GU
+                                                                      tumours
+
+Retinoblastoma (RB1) Tumour Suppressor
+ • RB1 controls the late-G1 restriction point, beyond which the cell is irreversibly committed to divide;
+   continuous proliferation in cancer is largely from loss of RB1 signalling.
+ • Sequence: hypophosphorylated RB1 binds E2F and recruits histone deacetylases (HDACs) → S-phase
+   genes silent → during G1, cyclin D–CDK4/6 and cyclin E–CDK2 phosphorylate RB1 at eight sites →
+   hyperphosphorylated RB1 releases E2F → E2F (at least seven members) dimerises with DP1–3 →
+   transcribes S-phase genes (DNA polymerase, S-phase cyclins) → after mitosis RB1 is dephosphorylated
+   and represses E2F again.
+ • Inputs converging on RB1 (Fig. 25.3): TGF-β via p15/p27; contact inhibition; DNA damage via ATM/ATR →
+   TP53 → p21; oncogene stress via p19ARF; replicative senescence.
+ • Ways cancers disable RB1: mutation or deletion; promoter hypermethylation; overexpression/
+   amplification of cyclin D or E2F; loss (mutation, deletion, methylation) of CDKIs. The RB1 pathway (cyclins
+   D/E, CDK4, E2F, p16, p27) is probably altered in almost all human cancers.
+
+TP53 Tumour Suppressor
+ • TP53 links checkpoints to genome integrity: DNA damage (via ATM/ATR → CHK1/CHK2) or oncogene
+   activation (via ARF, which blocks MDM2) → phosphorylated, active TP53 → cell-cycle arrest, DNA repair,
+   senescence or apoptosis; MDM2 is its negative regulator.
+ • TP53 is the most commonly mutated gene in cancer and in a pan-cancer screen of metastatic disease;
+   prominent in GU malignancies.
+Concept — The cycle is a one-way ratchet driven by cyclin–CDK pulses and braked by CDKIs; RB1 guards
+entry (G1/S) and TP53 guards integrity (G1/S and G2/M). Cancer needs to break both, which is why these
+two pathways are lost in almost every tumour.
+
+ KEY POINTS: CELL CYCLE DEREGULATION
+   • Phase-specific CDK phosphorylation orchestrates G1 → S → G2 → M.
+   • G1 → S depends on RB1 phosphorylation; RB1 mutations common in urological cancer.
+
+
+
+
+                                                       page 5 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                                    DNA Damage and Repair
+   • Main control points G1/S and G2/M use CDKIs in response to DNA damage, contact, cytokines,
+     hypoxia.
+   • TP53: arrest and repair, or apoptosis if damage irreparable.
+
+
+DNA DAMAGE AND REPAIR
+ • DNA polymerase plus error correction: about 3 incorrect bases per division in a genome of more than 3
+   billion.
+ • Cancer-causing change still arises via mutation, CN alteration and epigenetic change (methylation,
+   chromatin condensation, promoter access), from endogenous (mitochondrial respiratory by-products)
+   and exogenous (chemicals, radiation) agents.
+ • Prevention: free-radical scavengers (α-tocopherol, vitamin C, carotenoids, bilirubin, urate) and
+   detoxifying enzymes (superoxide dismutases, glutathione peroxidases, glutathione transferases).
+
+DNA Repair Mechanisms
+ • About 10 000 oxidative lesions per cell per day, plus spontaneous depurination, depyrimidination and
+   deamination.
+ • DNA damage response (DDR) = replication proofreading + specific repair systems, tightly integrated with
+   the cycle: first step is arrest; ATM and ATR activate TP53, CHK1 and others.
+ • Loeb's mutator hypothesis: the spontaneous mutation rate is too low to explain the number of mutations
+   in most cancers → early loss of replication-fidelity genes produces a hypermutable phenotype, which is
+   harder to treat because therapy rapidly selects resistant clones.
+ • Recessive cancer-predisposition syndromes caused by repair defects — xeroderma pigmentosum, Bloom,
+   Werner, ataxia telangiectasia, hereditary breast and colon cancer — implicate hypermutability in
+   causation.
+ • Three systems repair damage to bases themselves: NER, BER, MMR.
+DNA REPAIR PATHWAYS (FIG. 25.5)
+ Pathway               Lesion                  Causes                     Key proteins          Cancer link
+ Nucleotide            Bulky, helix-           Ultraviolet, chemicals     XPC, XPD, XPE/DDB1,   Xeroderma
+ excision repair       distorting lesions,                                ERCC1/XPF; CSA/CSB    pigmentosum; ERCC2 in
+ (NER)                 cross-links                                        (transcription-       bladder cancer
+                                                                          coupled)
+ Base excision         Single-base             Deamination, radiation,    MUTYH, OGG1            MUTYH → colorectal
+ repair (BER)          damage, single-         reactive oxygen species    glycosylases (A/G, A/C cancer; OGG1 variants →
+                       strand breaks; no       (ROS), alkylating          mismatches);           RCC
+                       major distortion        agents, replication        PARP1/2; XRCC1
+                                               errors
+ Mismatch repair       Mispaired bases;        Polymerase                 MSH2/MSH6, MLH1/      Defect → ~100-fold ↑
+ (MMR)                 insertion/deletion      incorporation errors       PMS2                  mutation rate; MLH1 loss
+                       loops (1 to ≥10                                                          in colon, prostate,
+                       bases) from                                                              bladder cancer
+                       slippage at repeats
+ Homologous            Double-strand           Ionising radiation, free   ATM, MRN complex,     Familial breast/ovarian
+ recombination         break (DSB)             radicals, chemicals,       RPA, RAD51, BRCA1,    cancer; prostate cancer
+ (HR)                                          replication of nicked      BRCA2, BARD1
+                                               DNA
+
+
+
+
+                                                           page 6 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                                    Apoptosis and Cell Death
+
+ Pathway               Lesion                  Causes                   Key proteins           Cancer link
+ Non-homologous DSB                            As HR                    Ku70/Ku80 (XRCC6/      Rearrangements,
+ end joining                                                            XRCC5), DNA-PKcs       translocations
+ (NHEJ)                                                                 (PRKDC), Artemis,
+                                                                        XRCC4–ligase IV
+
+Double-Strand Break Repair
+ • DSBs are potentially the most disruptive lesion; unrepaired → apoptosis — the basis of radiotherapy and
+   many chemotherapeutics, so cells that abrogate this response resist therapy. Misrepair → mutations,
+   deletions and the structural rearrangements nearly ubiquitous in solid tumours.
+ • DSB response sequence: break recognised → ATM autophosphorylates/activates → phosphorylates
+   TP53, CHEK1, CHEK2 (arrest) → phosphorylates histone variant H2AX → γH2AX, which spreads up to 30
+   Mbp either side and recruits DDR factors into repair foci.
+HOMOLOGOUS RECOMBINATION VS NON-HOMOLOGOUS END JOINING
+               HR                                       NHEJ
+ Template      Undamaged sister chromatid               None — ends ligated directly
+ Fidelity      Precise                                  Error-prone ("most extreme"); nucleotides lost; wrong ends
+                                                        joined → translocations
+ Cycle         Only after S phase, in G2, before        Any
+ phase         mitosis
+ Sequence      RAD51 with BRCA1, BRCA2, BARD1           Ku binds ends → activates DNA-PKcs → phosphorylates Ku and
+               copies the sister template               H2AX → Ku helicase unwinds → ligase IV/XRCC4 seals
+
+ • Ploidy changes (tetraploidy, octaploidy) arise from non-disjunction, endoreduplication (doubling without
+   division), cytokinesis failure and cell fusion.
+Concept — Each repair pathway is matched to a lesion (bulky → NER, subtle base → BER, mismatch →
+MMR, DSB → HR or NHEJ), and each inherited defect produces a cancer syndrome. The same logic makes
+repair defects therapeutic targets: HR loss → PARP inhibitor, MMR loss → immunotherapy.
+
+ KEY POINTS: DNA DAMAGE AND REPAIR
+   • DDR = damage recognition and repair; damage rarely causes cancer because repair is redundant.
+   • NER — ultraviolet/chemicals; BER — deamination, oxidation, alkylation; MMR — polymerase mispairs;
+     DSB repair — ionising radiation, free radicals.
+   • Inherited repair defects → marked cancer susceptibility.
+
+
+APOPTOSIS AND CELL DEATH
+APOPTOSIS VS NECROSIS
+                  Apoptosis                                                                Necrosis
+ Nature           Programmed, energy-requiring, orderly                                    Non-programmed, acute
+                                                                                           injury (e.g. trauma)
+ Morphology       Cytoplasm shrinks, membrane blebs, chromatin condenses →                 Cell swells and bursts,
+                  apoptotic bodies engulfed by neighbours/macrophages                      releasing contents
+ Inflammation Little                                                                       Potent
+ Examples         Developmental remodelling; deletion of self-reactive T cells             Physical trauma
+
+ • Irreparable DNA damage → apoptosis → replacement from undamaged cells; hence defective apoptosis
+   promotes cancer.
+
+
+                                                         page 7 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                                     Apoptosis and Cell Death
+ • Apoptosis also underpins immune killing of tumour cells (surveillance and immunotherapy) and the
+   response to chemotherapy and radiotherapy — defects confer resistance.
+
+Regulators of Apoptosis
+ • Balance of positive and negative signals; feed-forward loops make it irreversible once started. Signals
+   converge on caspases (cysteine proteases with aspartate specificity; at least 13).
+ • Initiator caspases 8, 9, 10 → executioner caspases 3, 6, 7; made as inactive procaspases, activated by
+   cleavage in an amplifying cascade.
+ • Executioner targets: anti-apoptotic Bcl-2 and Bcl-XL (cleavage releases pro-apoptotic fragments) →
+   repair/replication proteins (DNA-PKcs, replication factor C) → nuclear structure (lamins, NuMA, SAF-A) →
+   cytoskeleton (keratin, actin) → adhesion (β-catenin, focal adhesion kinase).
+
+The Intrinsic Apoptotic Pathway / The Extrinsic Apoptotic Pathway
+INTRINSIC VS EXTRINSIC APOPTOSIS (FIG. 25.6)
+             Intrinsic (mitochondrial)                             Extrinsic (death receptor)
+ Trigger     Internal stress: unrepaired DNA damage; loss of       Extracellular ligand on a death receptor — TNFR1, Fas
+             survival signals (cell–cell or cell–matrix contact,   (CD95) (TNF superfamily)
+             hormone or growth-factor withdrawal)
+ Sequence Bcl-2 balance shifts pro-apoptotic → outer-              FasL trimer binds three CD95 → death domains recruit
+          membrane permeability ↑ → cytochrome c                   FADD (also TRADD, RIP) → death-effector domain binds
+          released → binds Apaf-1 = apoptosome →                   procaspase-8 (FLICE) → autoactivation → caspase-8
+          caspase-9                                                (also 10)
+ Brakes      Anti-apoptotic Bcl-2 family; IAPs inhibit caspases FLIP binds FADD, blocking procaspase-8
+             or their activation
+ TP53        TP53-dependent (transactivates Bax)                   TP53-independent → attractive target when TP53 is
+                                                                   mutated
+
+BCL-2 FAMILY
+ Pro-apoptotic (≥ a dozen)                                                       Anti-apoptotic (≥ half a dozen)
+ Bax, Bak, Bok, Bik, Bad, Bid, Bim                                               Bcl-2, Bcl-XL, Bcl-W, Mcl-1
+ Bax (best studied): transactivated by TP53; dimerises in the mitochondrial Bcl-2 (best studied): binds Bax, blocking
+ membrane to form a cytochrome c channel                                    permeability
+ Bid: cleaved by caspase-8 → activates Bax, inhibits Bcl-2 — the link from       All share BH1–BH4 domains that allow
+ extrinsic to intrinsic                                                          heterodimerisation
+
+ • Many therapies (chemotherapy, external-beam radiotherapy) need TP53 to induce apoptosis, yet TP53 is
+   mutated in more than half of malignancies.
+Concept — Both routes converge on the caspase cascade; the intrinsic pathway reads internal damage
+through Bcl-2 and mitochondria and needs TP53, the extrinsic pathway reads external death ligands and
+does not — which is why death receptors matter when TP53 is lost.
+
+ KEY POINTS: APOPTOSIS AND CELL DEATH
+   • Apoptosis is regulated, energy-requiring and irreversible.
+   • Intrinsic: Bcl-2 family governs cytochrome c release; extrinsic: death receptors activate caspases.
+   • TP53 is central to apoptosis but mutated in over half of cancers.
+
+
+
+
+                                                         page 8 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                          Apoptosis and Cell Death
+Senescence, Telomeres, and Autophagy: Protection Against Cancer
+ • Senescence and autophagy (linked to apoptosis) handle oxidative damage and stress of ageing and limit
+   proliferation and immortalisation; once cancer exists they also mediate resistance to radiotherapy and
+   cytotoxics.
+Replicative Senescence
+ • First seen in cultured cells after replicative exhaustion (Hayflick); linked to loss of DNA methylation and
+   telomere shortening. DNA damage, oncogenic signalling and oxidative stress cause induced/accelerated
+   senescence.
+ • Senescent cells are viable, metabolically active but growth-arrested (G1 or G2/M) via p16Ink4a,
+
+   p21Waf1/Cip1, p27Kip1; they persist, unlike cells dying by apoptosis, autophagy or mitotic catastrophe.
+ • Senescence-associated secretory phenotype (SASP): cytokines, chemokines, matrix-remodelling enzymes
+   — immunostimulatory but potentially pro-tumour.
+ • Linked to ageing, prostate cancer and benign prostatic hyperplasia (BPH). Morphology: flattened,
+   enlarged, prominent nucleus, granular cytoplasm; stains for senescence-associated β-galactosidase (SA-
+   β-gal).
+ • Often bypassed in cancer. p53-dependent route (ATM, Chk2, ATR → p21, key effector; forced p21 induces
+   senescence even without p53; p63, p73 also involved; ARF stabilises p53 by blocking MDM2) vs p53-
+   independent routes; transformed cells lacking p53 and Rb retain some capacity to senesce.
+ • Therapy-induced senescence (TIS): ADT induces senescence in a subset of prostate cancers, and SASP
+   may explain ADT-associated inflammation; enzalutamide can induce senescence via ↓ replication-
+   licensing factor CDC6, partly through GATA2. Senescent stromal fibroblasts may promote cancer;
+   removing senescent cells may improve chemotherapy → senescence is a double-edged sword.
+Telomeres and Telomerase
+ • Telomeres: repetitive chromosome-end sequences protecting against degradation and recombination;
+   lose ~100 bp per division (lagging-strand RNA priming; polymerases cannot copy the ends) → the
+   "mitotic clock".
+ • Telomere sequence to cancer (Fig. 25.7): proliferation, oxidative stress, DNA damage → moderate
+   shortening → DDR → senescence or apoptosis (barrier 1) → if checkpoint inactive, further erosion →
+   severe shortening → chromosomal instability (CIN) generating oncogenic mutations but also lethal
+   damage (barrier 2) → telomerase activation → stabilised telomeres and immortalisation → cancer;
+   without it, death from CIN.
+ • Most cancers have abnormally short telomeres; telomere-specific fluorescence in situ hybridisation
+   (FISH) shows prostate cancer cells shorter than adjacent normal epithelium. Premalignant bladder and
+   prostate lesions already short → early, causal role.
+ • Short telomeres in primary prostate cancer predict recurrence independent of age, Gleason sum and
+   nodal status; short, variable telomeres in stroma → higher prostate cancer death risk.
+ • Telomerase: specialised reverse transcriptase adding telomeric repeats; restricted in somatic tissue to
+   rapidly proliferating tissues (intestinal epithelium, endometrium, testis, activated lymphocytes). Forced
+   expression → immortalisation. Supplies two functions: quelling CIN and unlimited replication. 85–90% of
+   human tumours express high telomerase.
+ • Alternative lengthening of telomeres (ALT): telomerase-independent recombination, associated with
+   ATRX or DAXX inactivation.
+ • Therapy: imetelstat (telomerase inhibitor) in myelodysplastic syndrome; small molecules, peptides and
+   hTERT-based immunotherapies (UV1, GX301, INO-9012) in early prostate, renal and bladder trials.
+
+
+                                                     page 9 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                                 Apoptosis and Cell Death
+Autophagy
+ • Conserved intracellular self-defence: organelles and cytoplasm sequestered in autophagic vesicles →
+   fused with lysosomes → degraded. Discovered in yeast (Nobel Prize, Ohsumi).
+ • Low basal level; upregulated by starvation, growth-factor withdrawal, aggregated proteins, damaged
+   organelles, intracellular pathogens. Above the "autophagy threshold" → death by necrosis, mitotic
+   catastrophe or apoptosis. Autophagy-dependent cell death is a defined form of regulated death
+   (Nomenclature Committee on Cell Death).
+ • Signalling: ROS, growth factors, metabolic signals → mTOR and AMPK → ULK1/ULK2 → phosphorylates
+   Beclin-1 → autophagy-related (ATG) genes (ATG5, ATG12; about 30 known).
+ • Context-dependent role: BECN1 loss raises cancer in mice and is frequent in human breast and prostate
+   cancer (tumour suppressor); in early (e.g. KRAS-driven) tumours autophagy limits instability,
+   inflammation and damage; but in hypoxic, nutrient-poor tumour cores it supports survival; in BRAF
+   models it suppresses benign tumours yet its inhibition accelerates advanced cancers.
+ • Therapy-induced autophagy is usually cytoprotective. KRAS-inhibited tumours become autophagy-
+   dependent → MEK/ERK + autophagy inhibitors. Chloroquine/hydroxychloroquine (lysosomotropic, raise
+   pH) may synergise with chemotherapy; after enzalutamide, clomipramine or chloroquine increased
+   apoptosis in CRPC cells. No impact yet on urological cancer management.
+SENESCENCE VS AUTOPHAGY AS ANTICANCER DEFENCES
+                           Senescence                                     Autophagy
+ Cell fate                 Viable, permanently arrested                   Survival under stress; death above threshold
+ Marker/driver             SA-β-gal; p16, p21, p27; telomere shortening   Beclin-1, ULK1/2, ATG genes
+ Therapeutic dilemma       Induce (TIS) vs remove (SASP pro-tumour)       Induce vs inhibit (context-dependent)
+
+Concept — Senescence, telomere attrition and autophagy are barriers that stop damaged cells proliferating,
+but each can be co-opted by an established tumour to survive therapy — hence the recurring "induce or
+inhibit?" dilemma.
+
+ KEY POINTS: SENESCENCE, TELOMERES AND AUTOPHAGY
+   • Replicative senescence = growth arrest from methylation loss and/or telomere shortening.
+   • Telomeres = mitotic clock; shortening is a barrier to unrestrained growth.
+   • Autophagy clears aggregates, organelles, pathogens; extreme stress beyond the threshold kills.
+
+
+Cancer Epigenetics
+ • Disrupted epigenetic programming is a hallmark of cancer: DNA methylation, histone modification and
+   non-coding RNAs (ncRNAs) alter chromatin accessibility → silence repair and cell-cycle (suppressor)
+   genes and permit growth-promoting genes.
+ • Reversible → drug target: monotherapy success in haematological tumours; combinations with
+   hormonal, chemo- or immunotherapy promising in solid tumours.
+DNA Methylation
+ • Methyl group on carbon 5 of cytosine → 5-methylcytosine, mainly at CpG dinucleotides; essential for
+   embryonic development. CpG is depleted genome-wide because methylcytosine deaminates to thymine.
+ • CpG islands lie upstream of ~40% of gene promoters. Hypermethylation → silencing (altered chromatin,
+   blocked transcription-factor binding, excluded machinery); hypomethylation → expression.
+
+
+
+
+                                                       page 10 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                              Apoptosis and Cell Death
+METHYLATION CHANGES IN CANCER (FIG. 25.8)
+              Promoter CpG island hypermethylation                   Global / repeat hypomethylation
+ Effect       Silences tumour suppressors                            Genomic instability (chromatin change,
+                                                                     recombination between repeats, reactivated
+                                                                     transposons); oncogene/imprinted gene re-
+                                                                     expression
+ GU           GSTP1 — commonest somatic alteration in prostate       LINE-1 hypomethylation in bladder cancer (↓
+ examples     cancer (>90%); p16/INK4A (27–60% of urothelial         DNMT1, ↑ DNMT3A/3B); IGF2 re-expression in
+              carcinoma); MGMT, MLH1; RASSF1A in up to 97% of        prostate cancer via CTCF binding (loss of
+              bladder tumours                                        imprinting)
+
+ • DNMT1 maintains methylation; DNMT3A/3B methylate de novo.
+ • Mutagenic effect: 5-methylcytosine deaminates spontaneously to thymine → C→T transitions. Tumours
+   show a further 20–50% reduction in methylcytosine at individual CpGs.
+ • Methylation changes are among the earliest and most frequent events, may precede morphological
+   change, and in lethal metastatic prostate cancer are shared across all metastases within a patient →
+   driver events.
+ • Non-CpG methylation (cytosine before A, T or C) is a newer regulatory mark.
+Histone Posttranslational Modifications
+ • Nucleosome: octamer of two each of H2A, H2B, H3, H4 wrapped by ~146 bp of DNA. N-terminal tails are
+   reversibly acetylated, methylated, phosphorylated, ubiquitinated — altering chromatin and recruiting
+   regulators; hundreds of combinations suggest a "histone code", kept in balance by writer/eraser enzymes
+   and "reader" proteins.
+ACTIVATING VS REPRESSIVE HISTONE MARKS
+ Activating                                                                        Repressive
+ H3K4me3, H3K36me2; acetylation of H3K9, H3K14 and H4K5, K8, K12, K16 (opens       H3K9me3, H3K27me3 (EZH2
+ chromatin)                                                                        target)
+
+ • Histone acetyltransferases (HATs): e.g. p300 increases AR expression/activation → AR signalling without
+   androgen; others raise IGFBP-2 and p21 to slow the cycle. Loss of H4K16ac and H3ac is a common cancer
+   hallmark.
+ • EZH2 (histone methyltransferase, H3K27): ↑ in hormone-resistant metastatic prostate cancer; strong
+   staining in primary tumour predicts PSA recurrence; with HDAC1 silences growth inhibitor hDAB2IP.
+ • Global histone acetylation/methylation patterns stratify recurrence risk; H3K4 methylation and H3K18
+   acetylation independently predict recurrence. Hyperacetylation accompanies nuclear-hormone-receptor
+   activation; Jumonji C demethylates H3K9me3 at AR targets.
+ • HDAC inhibitors (suberoylanilide hydroxamic acid [SAHA], phenylbutyrate): pro-apoptotic, growth-
+   inhibitory, radiosensitising, antiangiogenic in vitro; phase I in solid tumours including prostate showed
+   acetylated H3/H4 accumulation.
+ • Approved first-generation agents: DNMT inhibitor for myelodysplastic syndrome, HDACi for cutaneous T-
+   cell lymphoma — non-selective, limited in solid tumours, toxic. Newer: inhibitors of BET, EZH2, DOT1L for
+   tumours with mutations/translocations in these genes; sequential or sub-maximal dosing may help
+   combinations.
+Noncoding RNA
+ • ~98% of the eukaryotic genome is transcribed as ncRNA; <2% encodes protein.
+
+
+
+
+                                                     page 11 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                                   Apoptosis and Cell Death
+NON-CODING RNA CLASSES
+ Class              Size                      Action                                 GU examples
+ Long ncRNA         >200 nt; no open          Signal, decoy, guide, modulate         HOTAIR blocks AR binding to E3
+ (lncRNA)           reading frame; ~19        miRNAs; oncogenic or suppressive; 3D   ligase → castration resistance;
+                    000 annotated             structure binds DNA, mRNA, protein     MALAT1 ↑ in renal and prostate
+                                                                                     cancer
+ MicroRNA           18–25 nt; ~500            Fold into hairpins; bind 3′            Biomarkers in prostate, kidney;
+ (miRNA)            human                     untranslated region → silence many     miR-371a-3p in testis
+                                              mRNAs; "oncomirs" or suppressors
+ Small           Short, from long             Silences one specific mRNA             —
+ interfering RNA double-stranded
+ (siRNA)         RNA
+ Piwi-              24–31 nt, single-         With PIWI proteins: DNA and RNA        Emerging biomarkers
+ interacting        stranded                  methylation, histone modification,
+ RNA (piRNA)                                  mRNA degradation; controls
+                                              transposons
+
+ • lncRNAs dysregulate STAT3, NF-κB, Wnt, PI3K/Akt, PTEN. Methylation, histone marks and miRNAs are
+   detectable in blood and urine → liquid biopsy.
+Concept — Epigenetic change alters how much of a gene is read, not what it says: promoter
+hypermethylation mimics a second hit on a suppressor, global hypomethylation destabilises the genome, and
+all of it is reversible — the reason it is both an early biomarker and a drug target.
+
+ KEY POINTS: EPIGENETICS
+   • 5-methylcytosine deaminates → C→T transitions.
+   • Promoter hypermethylation silences suppressors; hypomethylation → oncogene expression, instability.
+   • Histone modifications change chromatin conformation and expression.
+   • siRNA: one target; miRNA: many. ncRNAs drive oncogenesis and resistance; detectable in liquid biopsy.
+
+
+Angiogenesis, Hypoxia, and HIF-1
+ • Angiogenesis is essential for proliferation and metastasis and a major target in renal and other cancers;
+   it reflects a balance of pro- and anti-angiogenic regulators from stroma, leucocytes and tumour cells.
+Hypoxia-Inducible Factor (HIF) and Von Hippel-Lindau (VHL) Pathway
+HIF REGULATION: NORMOXIA VS HYPOXIA (FIG. 25.10)
+ Normoxia                                                  Hypoxia (or VHL loss)
+ HIF-α (HIF-1α or HIF-2α) prolyl-hydroxylated →            HIF-α–VHL binding falls → HIF-α accumulates, dimerises with
+ bound by VHL (E3 ubiquitin ligase with elongins,          HIF-1β (ARNT) → nucleus → binds hypoxia-response elements
+ CUL2, RBX1) → ubiquitinated → proteasomal                 → VEGF, EphA1, angiopoietin and other genes that raise
+ degradation                                               oxygen delivery
+
+ • HIF-1 is the general oxygen sensor; it also drives vasculogenic mimicry (Claudin-4, vimentin, Twist1):
+   tumour cells, not endothelium, line tortuous, hyperpermeable channels.
+ • VEGF upregulation correlates with microvessel density, advanced stage, progression and poor prognosis
+   in renal tumours.
+Hypoxia and Metabolism
+ • Tumour oxygen tension is low; via HIF-1, cells shift to ↑ glucose transport, glycolysis to pyruvate and
+   lactate, ↓ mitochondrial metabolism and mass.
+
+
+
+                                                         page 12 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                       Next-Generation Sequencing Techniques
+ • CA9, MCT4, NHE1 keep intracellular pH alkaline (proliferation) and extracellular pH acidic (invasion);
+   HIF-1α represses angiogenesis inhibitors such as thrombospondin-2.
+ • Warburg effect (Nobel Prize 1931): aerobic glycolysis — best understood in clear cell RCC, where VHL loss
+   by deletion or methylation → constitutive HIF-1α and HIF-2α. VHL is inactivated in roughly 60% of RCC,
+   by somatic mutation (~50%) or promoter methylation (~10%) (clear cell-specific figures: see below).
+ • Hypoxia induces N- and E-cadherin, vimentin, MMP2, MMP9 → invasion and metastasis.
+ • Immune effect: HIF-1α, VEGF, IL-6, IL-10, PD-L1 and TGF-β enhance MDSC suppression, recruit tumour-
+   associated macrophages and block DC maturation → modulating this environment is central to modern
+   renal cancer therapy.
+Concept — VHL loss is permanent pseudohypoxia: the cell behaves as if starved of oxygen, and
+angiogenesis, Warburg metabolism, invasion and immunosuppression all follow from that single signal —
+which is why clear cell RCC responds to VEGF, HIF-2α and immune blockade.
+
+Cell Plasticity and Pluripotency
+ • Stem cells: self-renewal, generation of progeny, specialised niches, ability to form all cell types of an
+   organ; share with cancer cells expanded replicative potential, telomere elongation, damage resistance,
+   undifferentiated state — debate whether cancers co-opt stem properties or arise from stem cells.
+ • Lineage plasticity: epigenetic and phenotypic change, usually after extreme pharmacological targeting of
+   a driver; cells trans-differentiate to another lineage with new drivers and biomarkers.
+CANCER STEM CELL VS STOCHASTIC (CLONAL EVOLUTION) MODEL (FIG. 25.11)
+ Cancer stem cell                                                       Stochastic / clonal evolution
+ Hierarchy: a small population of resilient, non-proliferative cells    No hierarchy: individual cells with distinct
+ gives rise to proliferative, therapy-sensitive cells — explains        phenotypes, any of which may survive therapy
+ strong response then recurrence                                        and regenerate the tumour
+
+
+NEXT-GENERATION SEQUENCING TECHNIQUES
+ • Next-generation sequencing (NGS): rapid, cheap, high-throughput massively parallel sequencing of
+   millions of fragments; profiles genomes, transcriptomes and epigenomes.
+
+Next-Generation Sequencing Workflow
+ • Sequence (Fig. 25.12): extract and fragment DNA/RNA → ligate adapters with barcodes → amplify into a
+   library → immobilise on a solid surface → add fluorescently labelled nucleotides, record emissions →
+   millions of short reads → align to reference or assemble de novo → bioinformatic analysis (variants,
+   expression, epigenetic marks).
+NGS TECHNIQUES
+ Technique                             Measures           Key feature
+ Whole-exome sequencing (WES) Protein-coding              Cheaper, focused; somatic point mutations, indels, CN; drivers
+ (DNA Sequencing)             exome                       vs passengers; new genes; germline predisposition
+ RNA sequencing (RNA-seq)              Whole              Expression of all genes; differential expression; alternative
+                                       transcriptome      splicing, fusion transcripts; miRNA, lncRNA. WES = mutational
+                                                          landscape; RNA-seq = expression
+ DNA methylation sequencing            Methylated         Bisulfite conversion: unmethylated C → uracil; methylated C
+                                       cytosines          unchanged; compare with untreated DNA
+ Single-cell RNA-seq (scRNA-seq)       Transcriptome      Cells sorted and barcoded before library, so each read traces to
+                                       per cell           one cell; cell types, states, heterogeneity
+
+
+
+
+                                                        page 13 of 19
+                                                                            Advances in the Understanding of Molecular Genetics
+Chapter 25 — Molecular Genetics and Cancer Biology                                                    in Genitourinary Tumours
+
+ Technique                             Measures          Key feature
+ ATAC-seq (assay for transposase-      Open chromatin    Hyperactive transposase inserts adapters into accessible
+ accessible chromatin)                                   regions; enhancers, promoters
+ ChIP-seq (chromatin                   Protein–DNA       Cross-link, antibody pull-down of protein–DNA, sequence the
+ immunoprecipitation)                  binding           DNA; transcription-factor sites, histone marks
+
+
+ KEY POINTS: NEXT-GENERATION TECHNIQUES
+   • NGS profiles genome, transcriptome and epigenome.
+   • WES sequences the exome; RNA-seq analyses the transcriptome.
+
+
+ADVANCES IN THE UNDERSTANDING OF MOLECULAR GENETICS IN GENITOURINARY
+TUMOURS
+
+Prostate Cancer Somatic Alterations
+ • Clinical heterogeneity (indolent to lethal) mirrors molecular heterogeneity; The Cancer Genome Atlas
+   (TCGA) defined key drivers of localised disease.
+KEY SOMATIC ALTERATIONS IN PROSTATE CANCER
+ Gene            Alteration                              Significance
+ TMPRSS2–        Fusion: androgen-responsive             Commonest fusion, ~half of prostate cancers; other ETS
+ ERG             TMPRSS2 promoter/regulatory             partners ETV1, ETV4, ETV5 less often
+                 region drives ERG (ETS factor) body
+ FOXA1           Pioneer factor; mutation, structural    Class 1 (wing-2 forkhead mutations): early, activate AR
+                 variant (SV), amplification             programme; class 2 (C-terminal truncation, ↑ DNA affinity):
+                                                         metastatic; class 3 (rearrangements repositioning FOXMIND
+                                                         enhancer → overexpression): metastatic
+ MYC             8q whole-arm gain, focal                8q24 = germline susceptibility region
+                 amplification, enhancers
+ TP53            Mutation                                Commonest alteration overall ("guardian of the genome")
+ RB1, PTEN       Mutation, SV, CN loss                   Loss of ≥2 of TP53, RB1, PTEN = aggressive variant prostate
+                                                         cancer (AVPC); overlaps neuroendocrine prostate cancer
+                                                         (NEPC)
+ SPOP (±         Mutation                                Commonest mutated suppressor in primary prostate cancer
+ CHD1 loss)
+ BRCA1/2         Often germline first hit + somatic      HR loss → deletions with flanking microhomology; synthetic
+                 second                                  lethality with PARP inhibitors — FDA-approved in metastatic
+                                                         prostate cancer
+ ATM             Loss                                    Included in PARP trials but little benefit — distinct from BRCA
+ CDK12           Somatic loss                            Tandem duplications; aggressive; poor response to hormones,
+                                                         chemotherapy and PARP inhibitors; immunotherapy under
+                                                         study
+ MMR genes       Deficiency → microsatellite instability ↑ mutational burden; FDA-approved indication for
+                                                         immunotherapy
+ AR              Amplification of gene and regulatory Late, under AR-targeted pressure; major driver of ADT
+                 plexus (extrachromosomal circular    resistance
+                 DNA); mutation, SV
+
+ • TP53 is the commonest alteration across prostate cancer; SPOP is the commonest mutated suppressor
+   in primary tumours — the difference reflects disease stage.
+
+
+                                                        page 14 of 19
+                                                                            Advances in the Understanding of Molecular Genetics
+Chapter 25 — Molecular Genetics and Cancer Biology                                                    in Genitourinary Tumours
+ • Lineage plasticity → NEPC (androgen-independent, highly aggressive) is a key resistance route; rarely
+   present at diagnosis, usually emerges on treatment — poor prognostic sign.
+ • A "long tail" of rare alterations (<3% each) plus global expression and epigenomic changes complete the
+   picture.
+
+ KEY POINTS: PROSTATE CANCER
+   • Driver alterations define genomic subtypes.
+   • mCRPC acquires AR amplification under AR-targeted pressure.
+   • NEPC/AVPC: loss of RB1, PTEN, TP53.
+   • BRCA1/2 → PARP inhibitors; MMR deficiency → immunotherapy.
+
+
+Renal Cancer Somatic Alterations
+RCC SUBTYPES: GENOMICS
+ Subtype                  Share   Genomic hallmark                                   Notes
+ Clear cell               75–     Near-universal 3p loss + mutation of remaining     Pseudohypoxia; belzutifan (HIF-2α
+                          80%     allele: VHL, PBRM1, BAP1, SETD2                    inhibitor)
+ Papillary                15–     MET (7q) activation — especially former type 1;    MET-active TKIs effective; WHO has
+                          20%     former type 2: CDKN2A silencing, SETD2, TFE3       dropped the type 1/2 split
+                                  fusions, NRF2 pathway, CpG island methylator       (admixed)
+                                  phenotype with FH loss
+ Chromophobe              Rare    Mitochondrial DNA and mTOR pathway                 Distal nephron origin; slow,
+                                  alterations; TP53, PTEN, TERT-promoter             treatment-resistant; mTOR-directed
+                                  rearrangement                                      therapy rational
+ Translocation            Rare    MiT/TFE fusions; 9p21.3 deletion; few other        Young, female; mimics other
+                                  alterations                                        subtypes; NRF2 antioxidant
+                                                                                     response → resistance; no targeted
+                                                                                     therapy
+ Sarcomatoid /            —       ↑ BAP1, CDKN2A deletion, MYC programmes            Aggressive but immune-inflamed
+ rhabdoid (any                                                                       (PD-L1+) → immunotherapy-
+ subtype)                                                                            responsive
+
+CLEAR CELL RCC DRIVER GENES
+ Gene         Frequency                                        Prognosis / biology
+ VHL          Point mutation 60–70% + epigenetic silencing     Pseudohypoxia; germline VHL syndrome → >70% lifetime
+              5–10% (all RCC: ~60% inactivated)                RCC risk
+ PBRM1 ~40%                                                    Better outcome; ↑ angiogenesis genes, non-infiltrated
+                                                               tumours; mutually exclusive with BAP1
+ BAP1         ~10%                                             Worse outcome
+ SETD2        ~10%                                             Worse outcome
+
+ • PBRM1, BAP1, SETD2 are chromatin modifiers (repair, transcription), early events. Metastases carry more
+   VHL, PBRM1, SETD2, BAP1, KDM5C, TP53, PTEN, TSC1, TET2, ARID1A mutations than primaries.
+ • Transcriptomic subgroups (angiogenesis, T-effector/IFN-γ immune, myeloid inflammation) predicted PFS
+   differentially across atezolizumab ± bevacizumab vs sunitinib (IMmotion150); IMmotion151 multi-omics
+   defined seven molecular subsets (angiogenesis, immune, cell cycle, metabolism, stromal); JAVELIN Renal
+   101 found immunomodulatory and angiogenesis signatures — aim: select patients for VEGF vs checkpoint
+   therapy.
+
+
+
+
+                                                        page 15 of 19
+                                                                               Advances in the Understanding of Molecular Genetics
+Chapter 25 — Molecular Genetics and Cancer Biology                                                       in Genitourinary Tumours
+Bladder Cancer Somatic Alterations
+ • Urothelial carcinoma: commonest urinary-tract malignancy — 90% bladder, 10% upper tract (mainly
+   renal pelvis, ureter).
+ • TCGA 2014 (MIBC): high somatic mutation rate; recurrent pathway hits in receptor tyrosine kinase/
+   MAPK (FGFR, ERBB) and PI3K/AKT/mTOR; four expression clusters — cluster I papillary-like, FGFR3-
+   enriched; I and II ERBB2-enriched; cluster III basal/squamous-like (like basal breast cancer).
+ • TCGA 2017: commonest altered genes TP53 (most frequent), KMT2D, KDM6A, ARID1A, PIK3CA, KMT2C,
+   RB1, EP300, FGFR3, STAG2, ATM; mutational load driven by APOBEC-signature mutagenesis; five subtypes
+   (basal squamous, luminal papillary, luminal-infiltrated, luminal, neuronal).
+ • Consensus classification (six subtypes): basal/squamous (35%, largest), luminal papillary (24%), luminal
+   unstable (15%), stroma-rich (15%), luminal non-specified (8%), neuroendocrine-like (3%) — the basis for
+   future trials.
+TARGETABLE ALTERATIONS IN UROTHELIAL CARCINOMA
+ Target               Frequency                          Significance
+ FGFR (FGFR1–4     15–20% advanced bladder;              Enriched in luminal papillary tumours with low T-cell infiltration
+ receptor          up to 37% upper tract                 and poor immunotherapy response; erdafitinib (pan-FGFR TKI)
+ tyrosine kinases)                                       active in FGFR3/FGFR2 mutation or FGFR3 fusion → test all
+                                                         advanced UC for FGFR
+ HER2 (ERBB2)         9–12% MIBC (mutation or            Overexpression → worse outcome; no approved HER2 agent in
+                      amplification)                     UC (trials ongoing)
+ DDR genes            34% (TCGA); BRCA1/2 ~5%            ERCC2 (NER) mutation 10–18% → cisplatin sensitivity; DDR
+                      upper and lower tract; ~10%        alterations → better outcomes → bladder-sparing trials; PARP
+                      germline DDR variants              inhibitors mixed
+
+Testicular Cancer Somatic Alterations
+ • Commonest solid malignancy of young males; seminoma vs non-seminoma.
+ • Low mutation rate, distinct methylation profiles, frequent uniparental disomy. Commonest changes: gain
+   of 12p; KIT, KRAS, NRAS mutations (especially seminoma). TP53 mutations are rare, unlike other solid
+   tumours.
+ • miR-371a-3p: >90% sensitivity and specificity, outperforms classical serum markers for diagnosis and
+   relapse monitoring; validation ongoing.
+
+ KEY POINTS: RCC, BLADDER, TESTICULAR CANCER
+   • VHL is the commonest clear cell RCC mutation → pseudohypoxia.
+   • PBRM1, BAP1, SETD2 alter prognosis.
+   • Papillary RCC: MET pathway.
+   • Urothelial: FGFR, HER2, DDR targets.
+   • Testis: few mutations; miRNA predicts relapse.
+
+
+Germline Alterations
+HEREDITARY SYNDROMES RELEVANT TO GU CANCER
+ Syndrome                            Gene            Inheritance GU tumours / features
+ Hereditary breast and ovarian       BRCA2 >         —              Prostate (risk clearer for BRCA2; BRCA1 controversial);
+ cancer (HBOC)                       BRCA1                          also pancreas, melanoma
+ Lynch syndrome                      MMR genes       —              Prostate and urothelial cancer, colorectal
+
+
+
+                                                          page 16 of 19
+Chapter 25 — Molecular Genetics and Cancer Biology                                          General Principles of Clinical NGS Assays
+
+ Syndrome                            Gene             Inheritance GU tumours / features
+ Hereditary prostate cancer          HOXB13           —              Prostate; carriers → consider earlier PSA screening
+ Von Hippel-Lindau                   VHL              AD             Clear cell RCC + other tumours; belzutifan approved
+                                     (suppressor)
+ Hereditary papillary renal          MET              AD             Papillary type 1 RCC
+ carcinoma (HPRC)                    (activating)
+ Hereditary leiomyomatosis           FH               AD             Leiomyomas, leiomyosarcomas; papillary type 2 RCC,
+ and RCC (HLRCC)                     (suppressor)                    collecting-duct carcinoma
+ Birt-Hogg-Dubé                      FLCN             AD             Genodermatosis; hybrid oncocytic, chromophobe,
+                                     (folliculin)                    clear cell RCC, oncocytoma
+ Hyperparathyroidism–jaw             HRPT2            AD             Parathyroid adenoma, jaw fibro-osseous tumours;
+ tumour                                                              cysts, hamartomas, mesoblastic nephroma, late Wilms',
+                                                                     papillary RCC
+ Constitutional chromosome 3         Unknown (?       —              Clear cell RCC
+ translocation                       VHL)
+ Familial papillary thyroid          Unknown          —              Papillary RCC, oncocytoma
+ cancer
+
+ • Prostate genome-wide association study (GWAS) loci are numerous but not yet clinically used.
+ • Urothelial heritability is unclear (shared environment confounds); Lynch is the known exception.
+ • Testicular germ cell tumours are highly heritable — via many low-risk loci, not a single syndrome;
+   Klinefelter association is controversial.
+Concept — Across GU tumours, the germline syndrome names the somatic driver (VHL → clear cell, MET →
+papillary, FH → type 2 papillary, BRCA → prostate), and the driver's pathway names the drug (HIF-2α, MET-
+TKI, PARP inhibitor, FGFR inhibitor, immunotherapy for MMR loss).
+
+GENERAL PRINCIPLES OF CLINICAL NGS ASSAYS
+ • Three classes: DNA panels, RNA panels, cell-free DNA (cfDNA) panels.
+
+DNA-Sequencing Panels
+DNA ASSAY BREADTH (FIG. 25.13)
+ Assay                  Coverage                          Use
+ Whole-genome     Entire genome                           Most comprehensive (complex SVs, CN); most expensive —
+ sequencing (WGS)                                         research only
+ WES                    Exons                             Cost ↓ by ~2 orders of magnitude; basis of early cancer studies
+ Targeted panels        Selected genes/exons        Most commercial panels
+                        (amplicon- or capture-based
+                        enrichment)
+ Germline panels        Small gene sets or hotspots       Personal/family history; rarely change immediate treatment
+                        (e.g. BRCA1/2)                    (exceptions: BRCA, radiotherapy contraindications); inform
+                                                          surveillance; genetic counselling recommended
+
+ • Tumour-only sequencing is common: many commercial panels omit matched germline, so somatic and
+   germline variants cannot be separated — often not highlighted in reports.
+Interpretation of Clinical DNA-Sequencing Results
+ • Variant allele frequency (VAF) = proportion of reads carrying the altered allele; shaped by zygosity, CN
+   (amplification), loss of heterozygosity (LOH) and tumour purity.
+
+
+
+                                                           page 17 of 19
+                                                                                     Clinical Application of Molecular Biomarkers in
+Chapter 25 — Molecular Genetics and Cancer Biology                                                            Genitourinary Cancers
+ • Worked example: heterozygous, CN-neutral alteration (50% of tumour DNA) × 60% purity → VAF 0.5 × 0.6
+   = 30%.
+READING A VAF
+ VAF                                       Interpretation
+ High                                      Clonal — arose early, carried by most daughter cells
+ Low                                       Subclonal — later event
+ ~50% (no germline data)                   Caution — expected for a heterozygous germline variant
+ ~100%                                     Probably homozygous germline
+ Single-digit % in cfDNA                   Consider clonal haematopoiesis rather than tumour
+
+ • Variants of unknown significance (VUS) are common: a high-VAF VUS in a gene frequently altered in that
+   cancer is more likely pathogenic (selection pressure). Molecular tumour boards help.
+
+RNA-Sequencing Panels
+ • Whole-transcriptome sequencing (comprehensive, costly — research discovery) → targeted panels
+   (cheaper, deeper, more accurate).
+ • Expression carries information DNA cannot; cell-cycle/proliferation signatures underpin most clinical
+   prognostic biomarkers in localised prostate cancer. Older assays use arrays or quantitative polymerase
+   chain reaction (qPCR) rather than RNA-seq.
+
+Cell-Free and Circulating Tumour DNA
+ • Metastatic biopsies are infrequent → cfDNA "liquid biopsy" (blood; increasingly urine for GU cancer),
+   mostly targeted panels.
+ • Only a small (sometimes tiny) fraction of cfDNA is circulating tumour DNA (ctDNA) → very deep
+   sequencing; more false positives and negatives than tissue, worse without germline.
+ • Clonal haematopoiesis (CHIP): common age-related myeloid mutations; since most non-tumour cfDNA
+   comes from leucocytes, they mimic somatic tumour variants at single-digit VAF.
+ • ctDNA fraction is prognostic across cancers → minimal residual disease (MRD) assays: WES of primary →
+   bespoke hypertargeted panel of clonal alterations → ultra-deep sequencing after definitive treatment
+   → guide adjuvant therapy.
+ • Emerging: cfDNA methylation (confounded by ctDNA fraction) and fragmentomics (fragment size and
+   position; detects cancer even at low ctDNA fraction).
+
+Circulating Tumour Cells
+ • Haematogenous spread requires tumour cells in blood. Detection by enrichment (e.g. anti-EpCAM
+   antibody, size) or capture-free imaging; enumeration is prognostic.
+ • Molecular profiling: AR-V7 (splice variant lacking ligand-binding domain; constitutively active),
+   neuroendocrine markers, PD-L1 on RCC circulating tumour cells (CTCs).
+
+CLINICAL APPLICATION OF MOLECULAR BIOMARKERS IN GENITOURINARY CANCERS
+DIAGNOSTIC VS PROGNOSTIC VS PREDICTIVE BIOMARKERS
+               Diagnostic Biomarkers          Prognostic Biomarkers            Predictive Biomarkers
+ Question      Is cancer present?             How aggressive?                  Will this treatment help?
+ Metrics       Sensitivity, specificity,      Recurrence-/progression-free     Biomarker–treatment interaction
+               PPV, NPV                       and overall survival
+
+
+
+
+                                                            page 18 of 19
+                                                                                Clinical Application of Molecular Biomarkers in
+Chapter 25 — Molecular Genetics and Cancer Biology                                                       Genitourinary Cancers
+
+               Diagnostic Biomarkers         Prognostic Biomarkers         Predictive Biomarkers
+ Prostate      PSA (main; limited            Preoperative PSA, T stage,    BRCA1/2 → PARP inhibitor; PORTOS
+ examples      sensitivity, especially       Gleason → NCCN risk groups;   (postoperative radiotherapy dose
+               specificity); urine           molecular and artificial-     escalation, validated in SAKK 08/09); AI
+               TMPRSS2–ERG, PCA3             intelligence (AI) tests       pathology → short-term ADT; germline
+                                                                           HSD3B1
+
+ • Diagnosis of clinically significant (intermediate/high-risk) disease is what matters; better detection of
+   low-risk cancer worsens overdiagnosis. With multiparametric MRI (mpMRI) and fusion biopsy, the role of
+   urine tests is less clear.
+ • Prognostic: treatment usually intensifies as prognosis worsens, or is de-intensified/omitted (active
+   surveillance) — but this is not universal, hence predictive markers.
+ • A biomarker can be both: NCCN risk groups predict ADT duration with radiotherapy — short-term ADT
+   only for unfavourable intermediate risk, long-term only for high risk.
+ • Relative vs absolute risk reduction: with a fixed relative risk reduction (RRR), absolute benefit scales with
+   baseline risk. 30% metastasis risk × 50% RRR = 15% absolute risk reduction (ARR) — measurable; 3% ×
+   50% = 1.5% — undetectable in most trials.
+ • HSD3B1 (1245A>C) germline variant boosts dihydrotestosterone synthesis → ADT resistance, yet greater
+   sensitivity to abiraterone.
+ • Statistical proof of prediction needs a biomarker–treatment interaction test in a randomised trial
+   including both biomarker groups — large samples, so many phase III trials enrol biomarker-positive
+   patients only.
+Fig. 25.14 Predictive and Prognostic Biomarkers
+ • Interaction plots of 10-year recurrence-free survival against biomarker score: parallel treated/untreated
+   lines = prognostic only (with or without overall benefit); intersecting lines = predictive — benefit in high-
+   score, none in low-score patients.
+Concept — A prognostic marker tells you the baseline risk; a predictive marker tells you the treatment effect.
+Many "predictive" uses of prognostic markers work only through absolute risk — the same relative benefit is
+invisible when baseline risk is low.
+
+ KEY POINTS: BIOMARKERS
+   • Liquid biopsies allow serial, non-invasive monitoring with important limits.
+   • Interpret panel results by pathogenicity evidence, VAF and presence of germline sequencing.
+   • Prognostic → risk; predictive → treatment benefit; some do both.
+
+
+
+
+                                                        page 19 of 19
+

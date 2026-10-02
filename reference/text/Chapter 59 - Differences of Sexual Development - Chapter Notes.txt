@@ -1,0 +1,1148 @@
+Chapter 59 — Differences of Sexual Development                                                               Opening
+
+Chapter 59 — Differences of Sexual Development:
+Etiology, Evaluation, and Medical Management
+ • Differences (disorders) of sex development (DSD): conditions in which chromosomal, gonadal or
+   anatomical sex characteristics are not typically binary male or female. Familiar examples are congenital
+   adrenal hyperplasia (CAH), ovotesticular DSD (OVT DSD) and androgen insensitivity syndrome (AIS).
+ • Care is multispecialty and constantly evolving; controversies common to many DSDs (sex designation,
+   surgical timing, gonadal management) are treated together at the end of the chapter.
+
+TERMINOLOGY
+ • Nomenclature has evolved "hermaphrodite" → "intersex" → "DSD". The landmark 2006 consensus
+   statement (Lee et al.), from patients, clinicians and advocates, replaced "intersex" with "DSD" and retired
+   "sex reversal" and "hermaphrodite" as pejorative (Table 59.1).
+ • Many affected people find "disorders" pathologising and prefer "intersex" (especially as identity),
+   "differences of sex development", or their diagnosis. There is no consensus; surveys show patients and
+   parents most often name themselves by diagnosis.
+ • "Atypical" or "nonbinary" genitalia may be more accurate and less stigmatising than "ambiguous
+   genitalia"; the chapter uses "DSD" (differences) and "atypical genitalia". Genital photography in
+   publications is controversial, so photographs are limited to those of greatest educational value.
+
+TABLE 59.1 REVISED NOMENCLATURE
+ Previous term                                      Proposed term (2006)
+ Intersex                                           DSD
+ Male pseudohermaphrodite                           46,XY DSD
+ Female pseudohermaphrodite                         46,XX DSD
+ True hermaphrodite                                 Ovotesticular DSD
+ Mixed gonadal dysgenesis                           Mixed gonadal dysgenesis (unchanged)
+ XX male or XX sex reversal                         46,XX testicular DSD
+ XY sex reversal                                    46,XY complete gonadal dysgenesis
+From Lee PA, Houk CP, Ahmed SF, Hughes IA; International Consensus Conference on Intersex, Pediatrics 118:e488–
+e500, 2006, Table 1.
+ • Pattern: conditions are now named by karyotype first; only mixed gonadal dysgenesis is unchanged. Trap:
+   "XY sex reversal" is complete gonadal dysgenesis, not androgen insensitivity; "true hermaphrodite" is OVT
+   DSD.
+
+What Belongs Under the DSD Umbrella
+ • A broad umbrella groups clinically similar diagnoses for research, connects people with similar
+   manifestations for support, and reflects shared need for multidisciplinary expertise. Membership of
+   proximal hypospadias, CAH and sex chromosome conditions is disputed.
+ • Proximal hypospadias (penoscrotal, scrotal, perineal): some call all cases "46,XY DSD of unclear etiology";
+   others reserve "DSD" for a named diagnosis, avoiding social and legal controversy. Because a named
+   diagnosis has many benefits (Table 59.2), offer endocrine and genetic testing for proximal hypospadias,
+   even with descended testes.
+ • CAH is called the commonest 46,XX DSD, yet many affected people do not identify as DSD or intersex:
+   they regard it as an endocrine condition, and most 46,XY individuals with CAH have typical genitalia.
+
+
+                                                    page 1 of 23
+Chapter 59 — Differences of Sexual Development                                                            Typical Sex Development
+   They most often describe themselves by "just the diagnosis", which can deter attendance at "DSD" clinics
+   or studies.
+ • Turner (TS) and Klinefelter (KS) syndromes are within the 2006 scope, but TS without Y and KS carry no
+   increased gonadal malignancy risk and rarely have atypical genitalia, so they are often managed
+   elsewhere; urologists still need their gonadal and systemic features.
+
+TABLE 59.2 POTENTIAL IMPLICATIONS OF A DSD DIAGNOSIS
+ Topic                                Implication
+ Sex designation / future gender Informs infant designation from adult gender identity data for that diagnosis, where
+ identity                        available
+ Surgical counselling                 Possibly higher hypospadias complication rates
+ Fertility potential                  Predicts fertility by diagnosis; eligibility for experimental gonadal tissue
+                                      cryopreservation
+ Hormonal function                    Proactive monitoring for peer-concordant puberty, growth, bone health
+ Gonadal tumour risk                  Anticipatory guidance, screening or gonadectomy where risk is known
+ Multisystem comorbidities            Targeted comorbidity screening
+ Genetic transmission                 Counselling on future pregnancies and offspring
+ Psychosocial health                  Peer support; behavioural health support; benefit of an explanation for the genital
+                                      difference
+From Johnson EK, Whitehead J, Cheng EY: Differences of sex development: current issues and controversies. Urol Clin
+North Am 50(3):433–446, 2023, Table 3.
+ • Purpose: the case for pursuing a named diagnosis — every domain becomes predictable once named.
+   Trap: assuming proximal hypospadias with descended testes needs no work-up.
+Concept — Consensus nomenclature is karyotype-based, but the people it describes often prefer diagnosis-
+specific terms. The boundary of "DSD" is drawn by shared features — atypical genitalia and gonadal
+tumour risk — not by karyotype alone, which is why CAH, TS and KS sit uneasily inside it and proximal
+hypospadias arguably belongs.
+
+TYPICAL SEX DEVELOPMENT
+ • Three sequential steps: chromosomal sex → gonadal sex → phenotypic sex. Chromosomal sex is fixed at
+   fertilisation by the karyotype. Gonadal sex is the histology and function of the gonad, which starts
+   bipotential; gene activation and suppression produce testis or ovary.
+ • Primordial germ cells (PGCs) migrate from the dorsal yolk-sac wall through the mesentery to the
+   medioventral urogenital ridge, starting in week 5 (Fig. 59.1), then become spermatogonia or oogonia as
+   the testicular and ovarian cords differentiate.
+ • SRY (sex-determining region Y), among the earliest testis-determining genes, is a transcription factor that
+   supports cells of the male urogenital ridge and activates a cascade including SOX9 upregulation.
+ • These genes also act elsewhere — MYRF (heart, eye), SOX9 (bone, cartilage), WT1 (kidney), SF1 and DAX1
+   (adrenal) — which explains syndromic DSDs (Table 59.3).
+ • Leydig cells (interstitium) make testosterone; Sertoli cells (within tubules) support spermatogenesis.
+   Testicular PGCs are held out of meiosis until puberty. Testis development precedes ovarian by about 2
+   weeks.
+ • Ovary (less understood) needs Rspo1/Wnt4/β-catenin and Foxl2/Runx1: cords about 8 weeks → germ
+   cell nests about 10 weeks → primordial follicles with granulosa cells at 16–17 weeks → meiosis → primary
+   follicles about 20 weeks. Ovarian PGCs do enter meiosis; about 1 million at birth.
+
+
+
+                                                           page 2 of 23
+Chapter 59 — Differences of Sexual Development                                                          Typical Sex Development
+ • Phenotypic sex (internal and external genitalia, secondary sex characteristics) is also bipotential: every
+   fetus has wolffian and müllerian ducts, a urogenital sinus, genital tubercle and urogenital swellings (Fig.
+   59.2); hormones determine the outcome.
+
+TABLE 59.3 SELECTED GENETIC CAUSES OF 46,XY DIFFERENCES OF SEX DEVELOPMENT (DSDS)
+                                                        External
+ Gene          Inheritance Gonad                 Uterus genitalia            Associated features
+ DISORDERS OF TESTIS DEVELOPMENT
+ WT1           AD             Dysgenetic         +/–      Female or          Wilms tumour, renal anomalies, gonadal
+                              testis                      atypical           tumours (WAGR, Denys–Drash, Frasier)
+ CBX2          AD             Ovary              +        Female             —
+ SF1           AR / AD        Dysgenetic         +/–      Female or          Primary adrenal failure; ovarian insufficiency
+               (SL)           testis / Leydig             atypical           in 46,XX relatives
+                              dysfunction
+ SRY           Y              Dysgenetic         +/–      Female or          —
+                              testis or                   atypical
+                              ovotestis
+ SOX9          AD             Dysgenetic         +/–      Female or          Campomelic dysplasia
+                              testis or                   atypical
+                              ovotestis
+ MAP3K1        AD (SL)        Dysgenetic         +/–      Female or          —
+                              testis                      atypical
+ GATA4         AD             Dysgenetic         –        Female, atypical   Congenital heart disease
+                              testis                      or male
+ ZFPM2         AD             Dysgenetic         not      Female, atypical   —
+                              testis             stated   or male
+ ARX           X              Dysgenetic         –        Male or atypical   Developmental delay; X-linked lissencephaly
+                              testis
+ SAMD9         AD             Dysgenetic         +        Female, atypical   Myelodysplasia, infection, growth restriction,
+                              testis / Leydig             or male            adrenal hypoplasia, enteropathy
+                              dysfunction
+ DHH           AR             Dysgenetic         +        Female             Minifascicular neuropathy
+                              testis / Leydig
+                              dysfunction
+ MAMLD1        X              Dysgenetic         –        Hypospadias        —
+                              testis / Leydig
+                              dysfunction
+ DAX1          dup Xp21       Dysgenetic         +/–      Female or          —
+                              testis                      atypical
+ WNT4/         dup 1p35       Dysgenetic         +        Atypical           —
+ RSPO1                        testis
+ DISORDERS OF ANDROGEN SYNTHESIS (ALL AR; NORMAL TESTIS; NO UTERUS)
+ LHR           AR             Testis             –        Female, atypical   Leydig cell hypoplasia
+ (LHCGR)                                                  or micropenis
+ DHCR7         AR             Testis             –        Variable           Smith–Lemli–Opitz: coarse facies, 2nd–3rd
+                                                                             toe syndactyly, failure to thrive,
+                                                                             developmental delay, cardiac and visceral
+                                                                             anomalies
+
+
+
+
+                                                          page 3 of 23
+Chapter 59 — Differences of Sexual Development                                                          Typical Sex Development
+
+                                                        External
+ Gene          Inheritance Gonad                 Uterus genitalia           Associated features
+ StAR          AR             Testis             –       Female or          Congenital lipoid adrenal hyperplasia
+                                                         atypical           (primary adrenal failure)
+ CYP11A1       AR             Testis             –       Atypical           Primary adrenal failure
+ HSD3B2        AR             Testis             –       Atypical           CAH, adrenal failure ± salt loss; partial
+                                                                            androgenisation from ↑DHEA
+ CYP17         AR             Testis             –       Female or          CAH; hypertension from ↑corticosterone and
+                                                         atypical           11-deoxycorticosterone (not in isolated
+                                                                            17,20-lyase deficiency)
+ CYB5A         AR             Testis             –       Atypical           Apparent isolated 17,20-lyase deficiency;
+                                                                            methaemoglobinaemia
+ POR           AR             Testis             –       Atypical or male   Mixed 21-hydroxylase and 17α-hydroxylase/
+                                                                            17,20-lyase features; ± Antley–Bixler
+                                                                            craniosynostosis
+ HSD17B3       AR             Testis             –       Female or          Partial androgenisation at puberty;
+                                                         atypical           ↑androstenedione:testosterone
+ SRD5A2        AR             Testis             –       Atypical or        Partial androgenisation at puberty;
+                                                         micropenis         ↑testosterone:DHT
+ AKR1C2        AR             Testis             –       Female or          Decreased fetal DHT production
+ (AKR1C4)                                                atypical
+ DISORDER OF ANDROGEN ACTION
+ Androgen      X              Testis             –       Female, atypical, Spectrum: CAIS (female) → PAIS (atypical) →
+ receptor                                                micropenis or     normal male with infertility
+                                                         normal male
+AD, autosomal dominant; AR, autosomal recessive; SL, sex-limited; DHEA, dehydroepiandrosterone; DHT,
+dihydrotestosterone; WAGR, Wilms tumour, aniridia, genitourinary anomalies, intellectual disability; + present, – absent.
+Modified from Finlayson C, Jameson J, Achermann JC: Sex development. In Harrison's Principles of Internal Medicine,
+21st ed, 2022, Table 390-4.
+ • Pattern: testis-development genes → dysgenetic gonad, uterus often present (Sertoli, hence
+   antimüllerian hormone, also fail) and syndromic features. Synthesis and action genes → normal testis, no
+   uterus; adrenal failure where the enzyme is shared with cortisol synthesis.
+ • Trap: a uterus in 46,XY points to dysgenesis, not to a synthesis or action defect. The androgen receptor is
+   X-linked; synthesis defects are autosomal recessive.
+
+Male-Typical Development
+ • Sertoli cells secrete antimüllerian hormone (AMH) at 7–8 weeks → müllerian regression complete by
+   about 10 weeks.
+ • Leydig cells make testosterone from about 9 weeks: first autonomously, then under placental human
+   chorionic gonadotropin (hCG), later under fetal pituitary luteinising hormone (LH). Weeks 9–13: wolffian
+   ducts → epididymis and vas deferens, opening into the urogenital sinus at the müllerian tubercle.
+ • 5α-reductase converts testosterone to dihydrotestosterone (DHT), which binds the androgen receptor
+   with greater affinity and stability; in tissues with 5α-reductase (prostate, urogenital sinus, external
+   genitalia) DHT is the active androgen. External genitalia need systemic testosterone plus local DHT.
+ • Sequence (Fig. 59.3): tubercle elongates into the penis → urethral folds fuse posterior to anterior →
+   prostate forms around the proximal urethra → urogenital swellings migrate posteriorly and fuse as
+   scrotum → complete by 12–13 weeks. Penile growth and testicular descent follow in the third trimester
+   under androgen and insulin-like peptide 3 (INSL3).
+
+
+                                                         page 4 of 23
+Chapter 59 — Differences of Sexual Development                                                   Typical Sex Development
+
+Female-Typical Development
+ • Wolffian ducts regress, induced by COUP-TF2 through inhibition of fibroblast growth factors. The ovary
+   makes no significant AMH, so müllerian ducts form tubes, uterus and upper vagina.
+ • Vaginal origin is debated, but broadly proximal two-thirds müllerian, distal one-third urogenital sinus.
+ • Without testosterone the external genitalia stay at the 6-week appearance: tubercle → clitoris; lateral
+   swellings → labia majora; urethral folds → labia minora, enclosing introitus and meatus (Fig. 59.5).
+
+MALE-TYPICAL VERSUS FEMALE-TYPICAL DIFFERENTIATION
+ Structure                    Male-typical (testis)                         Female-typical (no testis)
+ Signal                       AMH + testosterone → DHT                      Absence of both
+ Wolffian ducts               Epididymis, vas, ejaculatory ducts, seminal   Regress
+                              vesicles
+ Müllerian ducts              Regress                                       Tubes, uterus, upper two-thirds of
+                                                                            vagina
+ Urogenital sinus             Prostate, prostatic urethra, utricle          Distal one-third of vagina
+ Tubercle / folds /           Penis / penile urethra / scrotum              Clitoris / labia minora / labia majora
+ swellings
+
+From developmental steps to classification.
+ • Disruption of any step causes a DSD, and the 2006 classification mirrors the steps: abnormal karyotype →
+   sex chromosome DSD; normal karyotype with abnormal gonadal development, or with abnormal
+   hormone production or action → 46,XX or 46,XY DSD.
+
+Figures
+ • Fig. 59.1 PGC migration (De Felici, 2013): PGCs form about week 3 on the yolk-sac wall, pass through
+   hindgut endoderm and dorsal mesentery, reach the gonadal ridges by week 5, and become oogonia or
+   gonocytes over weeks 6–10.
+ • Figs 59.2, 59.3, 59.5 (Martinez-Mora, 1994): undifferentiated genitalia (tubercle, urethral folds, genital
+   ring, urogenital and anal membranes); male (glans, raphe, scrotum); female (clitoris, urethra, vagina,
+   hymen, posterior commissure).
+ • Fig. 59.4 Timetable (White and Speiser, 2000; weeks approximate from the figure): Sertoli 6–7, Leydig 7–8,
+   oogonia 9–10, oocytes 12, follicles 17, testicular descent from about 22. Wolffian derivatives from 8;
+   female wolffian regression 10–14. Male müllerian regression 7–12; female müllerian fusion 9. Phallic
+   ventral flexion 9; urethral closure and labioscrotal fusion 10–14; penile growth from 16; labia 10–18.
+   Prostate 10, utricle 19; vagina reaches perineum 17.
+
+ KEY POINTS: TYPICAL SEX DEVELOPMENT
+   • Sex development occurs in three steps: chromosomal, gonadal and phenotypic sex.
+   • Chromosomal sex (46,XX, 46,XY or other) is established at fertilisation.
+   • Gonads are bipotential until about 6 weeks; internal and external genitalia until about 8 weeks.
+   • Where 5α-reductase is present at differentiation (prostate, urogenital sinus, external genitalia), DHT is
+     the active androgen.
+
+Concept — The testis imposes the male pathway through two separate hormones: AMH removes the
+müllerian ducts, testosterone (via DHT) builds wolffian and external structures. Without both, the female
+phenotype results — so any DSD phenotype can be reasoned from which hormone was missing, where and
+when.
+
+
+
+                                                          page 5 of 23
+Chapter 59 — Differences of Sexual Development                                                          Gender Development
+
+GENDER DEVELOPMENT
+ • Gender identity: identification of self — male, female or outside the binary. Gender role (expression):
+   behaviour typical of male or female social roles. Sexual orientation: choice of sexual partner.
+ • Identity is shaped by biological, cognitive, social and cultural factors. Infants discriminate genders and
+   form stereotypes in the first year; gender-typical behaviour appears by 2 years; by 3 years most children
+   label themselves consistently.
+ • In DSD these inputs may differ: identity different from designated sex is more common, and some
+   develop gender dysphoria (distress from that incongruence). Avoiding dysphoria is a quality outcome,
+   which drives careful designation and has shifted designation trends; anyone may nonetheless affirm a
+   different identity.
+Concept — Designation at birth predicts an identity only the individual can later confirm; gender dysphoria
+is the outcome by which the prediction is judged.
+
+DIFFERENCES OF SEX DEVELOPMENT: SPECIFIC CONDITIONS
+ • Classified first by karyotype, then by mechanism — gonadal development versus hormone production or
+   action (Table 59.4).
+
+TABLE 59.4 CLASSIFICATION OF DIFFERENCES OF SEX DEVELOPMENT (DSDS)
+ Category                       Conditions
+ SEX CHROMOSOME DSD
+ Karyotype                      47,XXY (Klinefelter and variants); 45,X (Turner and variants); 45,X/46,XY (mixed gonadal
+                                dysgenesis); 46,XX/46,XY (chimerism/mosaicism)
+ 46,XX DSD
+ Gonadal (ovary)                Gonadal dysgenesis; ovotesticular DSD; testicular DSD (e.g. SRY+, dup SOX9, RSPO1,
+ development                    NR5A1)
+ Androgen excess — fetal        3β-hydroxysteroid dehydrogenase II (HSD3B2); 21-hydroxylase (CYP21A2); P450
+                                oxidoreductase (POR); 11β-hydroxylase (CYP11B1); glucocorticoid receptor mutations
+ — fetoplacental                Aromatase deficiency (CYP19); oxidoreductase deficiency (POR)
+ — maternal                     Virilising tumours (e.g. luteomas); androgenic drugs
+ Other                          Syndromic (e.g. cloacal anomalies); müllerian agenesis/hypoplasia (e.g. Mayer–
+                                Rokitansky–Küster–Hauser, MRKH); uterine anomalies (e.g. maturity-onset diabetes of
+                                the young type 5); vaginal atresia (e.g. McKusick–Kaufman); labial adhesions
+ 46,XY DSD
+ Gonadal (testis)               Complete or partial gonadal dysgenesis (e.g. SRY, SOX9, SF1, WT1, DHH, GATA4/ZFPM2,
+ development                    MAP3K1); impaired fetal Leydig function (e.g. SF1/NR5A1, CXorf6/MAMLD1, HHAT,
+                                SAMD9); ovotesticular DSD; testis regression
+ Androgen biosynthesis          LH receptor (LHCGR); Smith–Lemli–Opitz; StAR; CYP11A1; HSD3B2; 17α-hydroxylase/
+                                17,20-lyase (CYP17A1); POR; cytochrome b5 (CYB5A); 17β-hydroxysteroid dehydrogenase
+                                III (HSD17B3); 5α-reductase II (SRD5A2); aldo-keto reductase 1C2 (AKR1C2)
+ Androgen action                Androgen insensitivity syndrome; drugs and environmental modulators
+ Other                          Syndromic male genital anomalies; persistent müllerian duct syndrome; vanishing testis;
+                                isolated hypospadias; congenital hypogonadotropic hypogonadism; cryptorchidism;
+                                environmental influences
+
+
+
+
+                                                        page 6 of 23
+Chapter 59 — Differences of Sexual Development                            Differences of Sex Development: Specific Conditions
+Modified from Finlayson C, Jameson J, Achermann JC: Sex development. In Harrison's Principles of Internal Medicine,
+21st ed, 2022, Table 390-1.
+ • Pattern: 3β-HSD, POR and OVT DSD appear under both karyotypes — the enzyme defects virilise 46,XX
+   and undervirilise 46,XY. Trap: 21-hydroxylase deficiency appears only under 46,XX; in 46,XY it causes no
+   genital difference.
+
+Sex Chromosome DSD
+Klinefelter syndrome.
+ • 47,XXY — the commonest sex chromosome aneuploidy, 1 in 600 live-born males; historically diagnosed
+   in adolescence (incomplete puberty) or adulthood (infertility). Phenotype varies.
+ • Adolescent/adult features (Fig. 59.6) are summarised in the comparison table; neurodevelopmental
+   differences may occur.
+ • Diagnosis is moving earlier: noninvasive prenatal testing (NIPT) and genetic testing for developmental
+   delay. Most infants have no signs, but micropenis, cryptorchidism, bifid scrotum and hypospadias occur.
+ • Testicular insufficiency is the hallmark. Mini-puberty testosterone is low-normal to normal; measuring
+   gonadotropins and testosterone then is recommended. Infant testosterone has not improved
+   development (it may increase linear and penile growth), so it is not currently recommended.
+ • Puberty starts on time; insufficiency follows in adolescence or young adulthood as seminiferous tubules
+   hyalinise, giving firm testes under 3.5 cm, high gonadotropins and low or low-normal testosterone. Most
+   benefit from testosterone replacement. Gynaecomastia reflects a raised oestradiol:testosterone ratio.
+ • Fertility: most are azoospermic, but testicular sperm extraction with intracytoplasmic sperm injection
+   (ICSI) achieves live births (meta-analysis). Warn of the high infertility rate; whether retrieval is better in
+   adolescence is unclear, so discuss once spermarche is reached and the individual is ready.
+ • Also: neurodevelopmental (cognitive, language, learning, attention, executive) difficulties needing
+   therapy; low bone mineral density and raised fat mass; extragonadal germ cell neoplasia and male breast
+   cancer (cumulative breast cancer risk by 75 years only about 1%); more autoimmune disease.
+
+Turner Syndrome
+ • Commonest female sex chromosome aneuploidy, 25–50 per 100,000 females: one X with complete or
+   partial loss of the second (some or all lines 45,X). Classic: female genitalia, short stature, absent
+   secondary sexual characteristics, cardiac and renal anomalies (Fig. 59.7).
+ • Diagnosis needs 45,X plus at least one typical manifestation (short stature, hypergonadotropic
+   hypogonadism, infertility, middle ear infection, malformations, other stigmata). International guidelines
+   2017. Increasingly prenatal (NIPT) rather than at short-stature or delayed-puberty evaluation.
+ • Karyotypes: 45,X 40–50%; 45,X/46,XX 15–25%; 45,X/46,iso(X) 10%; 45,X/46,XY or other Y material 10–
+   12%. Mosaicism → milder phenotype.
+ • Systemic features (highly variable): endocrine (glucose intolerance, type 1 and 2 diabetes,
+   hypothyroidism); gastrointestinal (raised liver enzymes, coeliac, inflammatory bowel disease); coarctation
+   and bicuspid aortic valve; eye; ear (infection, hearing loss); webbed neck, neonatal peripheral oedema,
+   short fourth metacarpal, hypoplastic nails, pigmented naevi; neurocognitive.
+ • Renal anomalies in one-third to over half (commonest in 45,X): horseshoe kidney, duplication or
+   agenesis, malrotation; multiple renal arteries in most on cardiovascular imaging.
+ • Screen cardiac and renal at diagnosis, then lifelong (cardiovascular, autoimmune, eye, ear). Growth
+   hormone improves adult height. 45,X/46,XY with atypical or male genitalia needs the same screening
+   but is not formally TS.
+
+
+
+
+                                                     page 7 of 23
+Chapter 59 — Differences of Sexual Development                              Differences of Sex Development: Specific Conditions
+ • Ovarian insufficiency in about 95% → oestrogen and progesterone. A minority have spontaneous
+   thelarche, fewer menarche — most likely with mosaicism, least with 45,X; TS+Y also more likely than
+   45,X, with rare spontaneous live births. AMH tracks karyotype, spontaneous puberty, gonadotropins and
+   follicles.
+ • TS+Y: Y material in an abnormal gonad → germ cell neoplasia; gonadoblastoma is benign but may
+   progress to germ cell cancer (GCC; dysgerminoma). Neoplasia risk about 12–20%; GCC about 3%, in or
+   after the second decade.
+ • The 2017 guideline advises gonadectomy at diagnosis, but on low-level evidence, now challenged by
+   weighing GCC against gonadal function and autonomy. The decision needs nuanced discussion but is
+   rarely urgent. Gonadotropins and AMH gauge function; if gonads stay, imaging is insufficient to detect
+   GCC.
+ • Fertility: spontaneous conception is rare, so most need assisted reproduction or fostering/adoption.
+   Oocyte donation carries higher pregnancy morbidity and mortality in TS. Oocyte cryopreservation suits
+   adequate adolescent ovarian function; ovarian tissue cryopreservation is investigational, notably at
+   gonadectomy for TS+Y.
+
+KLINEFELTER VERSUS TURNER SYNDROME
+ Feature                Klinefelter                                             Turner
+ Stature                Tall                                                    Short (growth hormone helps)
+ Phenotype              Small firm testes, gynaecomastia, sparse body and       Female genitalia, absent puberty,
+                        facial hair                                             stigmata
+ Hormones               ↑gonadotropins, ↓testosterone, ↑oestradiol              Hypergonadotropic hypogonadism
+ Replacement            Testosterone                                            Oestrogen + progesterone
+ Fertility              Sperm extraction + ICSI                                 Oocyte donation; oocyte
+                                                                                cryopreservation
+ Tumour                 Extragonadal germ cell; male breast                     None without Y; TS+Y 12–20%
+
+Mixed Gonadal Dysgenesis
+ • Mixed gonadal dysgenesis (MGD): dysgenetic testis (variable position) + contralateral streak + persistent
+   müllerian structures, with variable androgen effect. Classic asymmetry: hypospadias, one palpable
+   descended testis, one impalpable testis with a flat labioscrotal fold (Fig. 59.8).
+ • Second commonest cause of neonatal atypical genitalia after CAH. Usually 45,X/46,XY, a mosaic seen in
+   1 in 5000 births, not all of whom have MGD.
+ • 45,X/46,XY is a spectrum: female genitalia with variable ovaries (TS+Y), atypical genitalia (MGD), or male-
+   typical genitalia with normal testes (about 85%). All carry Turner syndromic risk (cardiac, growth).
+ • Presentation: variable clitorophallus, urogenital sinus or proximal hypospadias with labioscrotal fusion,
+   undescended testis. Hemiuterus, vagina and tube lie on the streak side; wolffian structures on the testis
+   side — the local action of AMH and testosterone.
+ • Designation is hard: marked androgen exposure predicts male identity more often; dysphoria is
+   commoner when raised female (a systematic review found it in a substantial minority raised female, none
+   raised male). Multidisciplinary assessment and transparent discussion precede designation; irreversible
+   infant surgery is discouraged unless medically necessary.
+ • Germ cell neoplasia 15–35%, in streaks and dysgenetic testes alike → remove streak gonads (biopsy first
+   if tissue type unknown).
+
+
+
+
+                                                       page 8 of 23
+Chapter 59 — Differences of Sexual Development                                 Differences of Sex Development: Specific Conditions
+ • Remaining gonad: raised male — descended testis observed, intra-abdominal testis brought down if
+   possible; raised female — remove, or consider relocation to inguinal canal or labioscrotal fold, preserving
+   function should identity differ while allowing surveillance.
+ • At puberty the testis may make testosterone in any position (wanted or not); many fail, needing
+   exogenous testosterone. Infertility is typical; sperm extraction has succeeded.
+
+Ovotesticular DSD
+ • Ovarian and testicular tissue in one individual — separate ovary and testis, or an ovotestis. Mostly 46,XX;
+   also mosaic or 46,XY; about 1 per 100,000.
+ • Atypical, often asymmetric genitalia; virtually all have a urogenital sinus, most a uterus.
+ • An ovary sits in the normal position; a testis or ovotestis may lie anywhere on the path of descent. In a
+   large South African cohort the ovotestis was commonest (about two-thirds of gonads), ovaries more
+   often left, testes right.
+ • Duct rule: a fallopian tube accompanies an ovary; a vas deferens always accompanies a testis. An
+   ovotestis has a tube in two-thirds and a vas (± tube) in one-third.
+ • Ovarian portion usually normal; testicular portion typically dysgenetic. Biopsy is often needed — polar
+   biopsies if components look distinct. Neoplasia risk slightly raised (about 3%), in either component.
+ • Designation follows full assessment; historically based on predominant anatomy. Identity varies but often
+   matches designation.
+ • Management is individualised; irreversible procedures deferred until the patient can participate.
+   Removing discordant tissue is difficult even in polar ovotestes (Fig. 59.10); nonbinary rearing eases
+   deferral to adolescence.
+ • Puberty follows the functioning tissue; the dysgenetic testicular part means oestrogen effect often
+   predominates. Infertility is common, but births via ovum or sperm are reported.
+
+HISTOLOGICAL PATTERNS OF THE OVOTESTIS
+ Pattern                        Arrangement
+ Admixed                        Central stromal core with mixed ovarian and testicular tissue
+ Compartmentalised              Ovarian upper pole; testicular lower pole within an ovarian mantle
+ Bipolar                        Strict polar separation — suits polar biopsy
+
+MIXED GONADAL DYSGENESIS VERSUS OVOTESTICULAR DSD
+ Feature                MGD                                  OVT DSD
+ Karyotype              45,X/46,XY                           46,XX (also mosaic, 46,XY)
+ Gonads                 Dysgenetic testis + streak           Ovary + testis, or ovotestis
+ Neoplasia              15–35%                               About 3%
+ Gonadal step           Remove streaks                       Polar biopsy; discordant tissue hard to separate
+ Systemic               Screen for Turner features           —
+
+Figures
+ • Fig. 59.6 Klinefelter: reduced beard and chest hair, narrow shoulders, gynaecomastia, wide hips, female
+   pubic hair pattern, long limbs, hypogonadism. Fig. 59.7 Turner: low hairline, low-set ears, small jaw,
+   webbed neck, shield chest with wide-spaced nipples, cardiac defects, cubitus valgus, horseshoe kidney,
+   short digits; short stature, failed puberty, infertility.
+ • Fig. 59.8 MGD: clitorophallus with chordee, right dysgenetic testis in a formed hemiscrotum, perineal
+   hypospadias. Fig. 59.9 MGD: asymmetric anatomy; hemiuterus and opacified tube in a left inguinal hernia,
+
+
+
+                                                         page 9 of 23
+Chapter 59 — Differences of Sexual Development                           Differences of Sex Development: Specific Conditions
+   confirmed at exploration. Fig. 59.10 Right polar ovotestis at 4 and 13 months: dysgenetic testis at one
+   pole, well-developed ovary at the other.
+
+ KEY POINTS: SEX CHROMOSOME DSD
+   • Klinefelter: 47,XXY, small firm testes with insufficiency, gynaecomastia, tall stature,
+     neurodevelopmental differences.
+   • Turner: female genitalia, short stature, ovarian insufficiency, renal and cardiac anomalies.
+   • Turner with Y: gonadal tumour risk; counsel on options including gonadectomy.
+   • MGD: 45,X/46,XY with asymmetric atypical genitalia; second commonest cause of newborn atypical
+     genitalia.
+   • All 45,X/46,XY individuals need Turner screening.
+   • In MGD and OVT DSD, designation and surgical counselling are highly individualised.
+
+Concept — Y material inside a dysgenetic gonad creates tumour risk; local rather than systemic hormone
+action creates asymmetry. TS without Y and KS fail symmetrically, are syndromic and carry no gonadal
+tumour excess; MGD and OVT DSD are asymmetric, each duct system following its own gonad.
+
+46,XX DSD
+ • Arises from abnormal gonadal development or androgen excess.
+
+Abnormal Gonadal Development
+ • 46,XX testicular DSD (formerly sex reversal): testes and male genitalia in 46,XX, usually from SRY
+   translocated from Y to X; about 1 per 20,000. Normal fetal testosterone and AMH → no müllerian
+   structures.
+ • Azoospermia from loss of the azoospermia factor (AZF) region of Y. Formerly found at infertility work-up;
+   now by prenatal genotype–phenotype discordance (cell-free fetal DNA [cffDNA] 46,XX, ultrasound male).
+   Progressive testicular regression and hypogonadism are common; identity typically male.
+
+Abnormal Gonadal Development: Ovotesticular DSD
+ • OVT DSD is most often 46,XX, so it is also a 46,XX gonadal DSD (see Sex Chromosome DSD).
+
+Excess Androgen Exposure: CAH
+ • CAH is the commonest cause of 46,XX DSD: reduced activity of one of five cortisol-pathway enzymes —
+   side-chain cleavage, 3β-HSD, 17α-hydroxylase, 21-hydroxylase, 11β-hydroxylase (Fig. 59.11).
+ • 21-hydroxylase deficiency (21-OHD): 95% of CAH, autosomal recessive, about 1 in 15,000. Cortisol
+   deficiency → excess adrenocorticotropic hormone (ACTH) → excess adrenal androgen; aldosterone
+   deficiency → salt wasting.
+ • Salt-wasting severity follows residual enzyme activity and is predictable by genotype. Infants have
+   variable virilisation with bilateral nonpalpable gonads, and risk adrenal crisis (hyponatraemia,
+   hyperkalaemia, hypotension, shock) in the first weeks. Raised 17-hydroxyprogesterone (17-OHP) is
+   diagnostic.
+ • 46,XX phenotype: clitoromegaly to fused labioscrotal folds, graded by Prader (Fig. 59.12) — sometimes an
+   apparently male infant (or distal hypospadias) with impalpable gonads. Ovaries are normal, so müllerian
+   structures are present, often with a common urogenital sinus (vagina and urethra joining proximal to the
+   perineum). Assignment is typically female; some with male designation and marked virilisation identify as
+   male.
+
+
+
+
+                                                    page 10 of 23
+Chapter 59 — Differences of Sexual Development                                  Differences of Sex Development: Specific Conditions
+ • 46,XY CAH needs treatment but has no genital difference, so newborn screening is most crucial for 46,XY,
+   who give no genital warning before crisis.
+ • Biochemistry: raised 17-OHP, androstenedione, testosterone and renin; low cortisol. Measure 17-OHP
+   after 36 hours (normal neonatal surge). A cosyntropin stimulation test confirms cortisol adequacy more
+   quickly.
+ • Salt wasting brings hyponatraemia, hyperkalaemia and metabolic acidosis, but not usually before day 5–7
+   — early normal electrolytes do not exclude CAH. Prompt glucocorticoid, mineralocorticoid and salt
+   replacement is lifesaving.
+ • Long-term: balance replacement and androgen suppression against supraphysiological steroid harm
+   (growth attenuation, precocious puberty, obesity, hypertension, osteoporosis, cardiovascular disease).
+   Hard because cortisol's circadian and stress responses are difficult to mimic and androgen also arises via
+   the "backdoor" pathway; new drugs are in trials. Classic CAH needs lifelong replacement.
+ • Fertility is preserved but reduced. 46,XX: fewer pregnancies, mainly because fewer seek motherhood,
+   though ovulation may be affected. 46,XY: testicular adrenal rest tumours (TARTs) — benign, commoner
+   with poor suppression, regress with more glucocorticoid; they obstruct tubules (azoospermia, peritubular
+   fibrosis, Sertoli and germ cell loss), so sperm banking is advocated; excision rarely indicated. Poor
+   suppression can also cause hypogonadotropic hypogonadism.
+ • Surgery: feminising surgery (clitoroplasty, urogenital sinus repair/vaginoplasty) was historically done in
+   infancy; now re-evaluated because it is rarely urgent unless there is urinary retention (technique Chapter
+   60).
+ • 21-OHD is a continuum from salt-wasting classic to nonclassic CAH (NC CAH) (table below).
+ • 11β-hydroxylase deficiency (about 5%) and 3β-HSD deficiency (under 1%, least common) are both
+   autosomal recessive and treated like 21-OHD; their distinguishing features are in the table. 3β-HSD also
+   undervirilises 46,XY, because DHEA is weak.
+ • Prenatal dexamethasone largely prevents virilisation but not the need for postnatal replacement, and
+   risks cognitive, cardiovascular and metabolic harm. Genital development is first-trimester, so it must start
+   (by 6–7 weeks) before fetal status is known: number needed to treat at least 4 even after NIPT excludes
+   males — three unaffected fetuses exposed for each affected girl helped. The Endocrine Society deems it
+   experimental, only under an Institutional Review Board (IRB)-approved protocol.
+
+THE 21-HYDROXYLASE DEFICIENCY CONTINUUM
+ Form                         Features
+ Classic salt-wasting         Cortisol and aldosterone deficient; crisis in first weeks; lifelong replacement
+ Simple virilising            No infant shock; cortisol deficiency with androgen excess
+ Nonclassic                   Enzyme activity 20–50%; about 1 in 200 in White populations (true prevalence unknown;
+                              diagnosis rising with prenatal testing); premature adrenarche, acne, hirsutism, advanced
+                              bone age, oligomenorrhoea; diagnosed any age; may need no treatment
+
+FORMS OF CAH COMPARED
+ Enzyme              Share    Mineralocorticoid            BP / K⁺            46,XX       46,XY                  Signature
+ 21-hydroxylase      95%      ↓ salt wasting               Hypotension,       Virilised   Typical                ↑17-OHP
+                                                           hyperkalaemia
+ 11β-                About    Excess                       Hypertension,      Virilised   Not listed as DSD      —
+ hydroxylase         5%                                    hypokalaemia
+ 3β-HSD              Under    ↓ salt wasting               Hypotension,       Atypical    Undervirilised         ↑DHEA /
+                     1%                                    hyperkalaemia      (DHEA)                             DHEA sulfate
+
+
+
+
+                                                         page 11 of 23
+Chapter 59 — Differences of Sexual Development                            Differences of Sex Development: Specific Conditions
+
+ Enzyme              Share    Mineralocorticoid          BP / K⁺         46,XX      46,XY                  Signature
+ 17α-                —        Excess (corticosterone,    Hypertension,   —          Female or              ↓androgens
+ hydroxylase /                11-deoxycorticosterone)    hypokalaemia               atypical; delayed
+ 17,20-lyase                                                                        puberty
+ • Pattern: blocks before mineralocorticoid synthesis (21-OH, 3β-HSD) waste salt; blocks that let 11-
+   deoxycorticosterone accumulate (11β-OH, 17α-OH) cause hypertension and hypokalaemia; blocks
+   upstream of androgens (3β-HSD, 17α-OH) undervirilise 46,XY. Trap: 17α-hydroxylase deficiency causes
+   hypokalaemia, not hyperkalaemia.
+
+Excess Androgen Exposure: Maternal Androgens
+ • Rare transplacental androgen. Fetoplacental aromatase (CYP19) deficiency blocks conversion of fetal
+   androgens to oestrogen, virilising mother and infant; the maternal effect resolves after delivery but
+   recurs in later pregnancies. Also maternal adrenal tumours, luteomas, and synthetic progestogens or
+   androgens.
+ • Exposure ends at birth, so no postnatal medical treatment; genital surgery decisions are multidisciplinary.
+
+Figures
+ • Fig. 59.11 Steroid pathway. Cholesterol → (StAR, side-chain cleavage) → pregnenolone; 3β-HSD converts
+   each Δ5 steroid to Δ4. Mineralocorticoid: progesterone → 21-OH → deoxycorticosterone → 11β-OH →
+   corticosterone → 18-OH → 18-oxidase → aldosterone. Glucocorticoid: 17α-OH → 17-OH progesterone →
+   21-OH → 11-deoxycortisol → 11β-OH → cortisol. Sex steroid: 17,20-lyase → DHEA/androstenedione →
+   17β-HSD → testosterone → 5α-reductase → DHT; aromatase → oestrone/oestradiol.
+ • Fig. 59.12 Prader (1958): grades I–V of increasing masculinisation between normal female and male, in
+   46,XX CAH and applied to DSD generally.
+
+ KEY POINTS: 46,XX DSD
+   • CAH is most commonly due to 21-hydroxylase deficiency, causing atypical genitalia and salt wasting at
+     around 1 week of life.
+   • Raised 17-OH progesterone is diagnostic of 21-hydroxylase deficiency.
+
+Concept — With an ovary there is no AMH, so müllerian structures are always present and virilisation must
+come from outside the gonad. The androgen source decides whether treatment is lifelong (CAH) or
+unnecessary (maternal); the level of the block decides whether salt wasting threatens life. 46,XX testicular
+DSD proves the rule: a testis, hence AMH, hence no müllerian structures.
+
+46,XY DSD
+ • Arises from abnormal gonadal development (complete or partial gonadal dysgenesis) or abnormal
+   androgen production or action.
+Complete and partial gonadal dysgenesis.
+ • Complete gonadal dysgenesis (CGD, Swyer syndrome): about 1 per 80,000; presents as prenatal/infant
+   discordance or absent puberty. Streaks have no hormonal or fertility function, so prophylactic
+   gonadectomy is usual and hormone replacement lifelong; the uterus grows with oestrogen and
+   pregnancy is reported with ovum donation.
+ • Partial gonadal dysgenesis (PGD): testis-promoting gene disruption (e.g. WT1, SF1, SRY, SOX9, MAP3K1,
+   DHX37), often with extragenital features (WT1 → Denys–Drash and Frasier). Very rare; no incidence data.
+   Identity highly variable, so designation needs discussion and surgery is individualised (as in MGD, OVT
+   DSD). Pubertal testosterone is partial: males may still need testosterone, females need oestrogen.
+
+
+
+                                                        page 12 of 23
+Chapter 59 — Differences of Sexual Development                                 Differences of Sex Development: Specific Conditions
+COMPLETE VERSUS PARTIAL GONADAL DYSGENESIS (46,XY)
+ Feature                Complete (Swyer)                               Partial
+ Gonad                  Streak — no hormone, no gametes                Dysgenetic testis, variable testosterone
+ Genitalia              Female; müllerian structures present           Atypical external; variable internal
+ Identity               Typically female                               Highly variable
+ Neoplasia              30–45%                                         Up to 60% if intra-abdominal
+ Gonad plan             Prophylactic gonadectomy                       Individualised
+
+Denys–Drash and Frasier syndromes.
+ • Both are WT1 disorders combining gonadal dysgenesis and nephropathy. Suspect Frasier in a female with
+   steroid-resistant nephrotic syndrome, primary amenorrhoea and pubertal delay; 46,XX Frasier presents
+   with renal failure alone.
+
+DENYS–DRASH VERSUS FRASIER SYNDROME
+ Feature                Denys–Drash                                                 Frasier
+ Nephropathy            Congenital nephrotic syndrome (mesangial sclerosis);        Focal segmental glomerulosclerosis;
+                        early end-stage renal disease                               later, gradual
+ Wilms tumour           90%, often bilateral → high mortality → prophylactic        No known predisposition
+                        bilateral nephrectomy
+ 46,XY genitalia        Atypical                                                    Usually female (rarely male)
+ Gonadal tumour         About 40%                                                   Gonadoblastoma, 60%
+
+Absent (vanishing) testes syndrome.
+ • Bilateral anorchia from testicular regression (unilateral is frequent, bilateral very rare). Timing sets the
+   phenotype: loss after the first trimester → male genitalia, impalpable testes, no müllerian structures; loss
+   during it → embryonic testicular regression with atypical genitalia.
+ • Causes: often unknown — teratogen, bilateral torsion, genetic (DHX37; heterozygous NR5A1 in a series
+   with micropenis).
+ • Mini-puberty (about 1–6 months): undetectable testosterone and AMH, raised follicle-stimulating
+   hormone (FSH) and LH. Testosterone replacement from adolescence; identity male; prostheses in later
+   adolescence or adulthood.
+
+Abnormal Hormone Production
+ • Synthesis defects may give atypical genitalia but müllerian structures regress (AMH normal). Most are
+   steroidogenic enzyme defects (Fig. 59.11) — 5α-reductase deficiency or rare salt-wasting CAH. Identity is
+   variable; designation may need to be chosen at birth.
+5α-reductase deficiency.
+ • Type 2 isoenzyme (SRD5A2) defect → reduced testosterone-to-DHT conversion. At birth: female or
+   atypical genitalia, urogenital sinus with labioscrotal fusion, short blind vaginal pouch into which the vasa
+   terminate; testes and epididymides in labioscrotal folds, canals or abdomen.
+ • Virilisation at puberty (voice, muscle, phallic growth, erections); sperm production and fertility reported.
+   Mechanism: high testosterone binding the receptor despite low affinity, or the pubertal rise in the type 1
+   isoform.
+ • Testosterone:DHT above 20:1 — in mini-puberty, after hCG, or at puberty; confirm by SRD5A2
+   sequencing.
+ • Landmark: the Dominican Republic "guevedoces" ("penis at 12") cohort (Imperato-McGinley, 1979).
+   Many designated female later affirm male identity; delay irreversible surgery.
+
+
+                                                      page 13 of 23
+Chapter 59 — Differences of Sexual Development                            Differences of Sex Development: Specific Conditions
+Other synthesis defects.
+ • 17β-HSD3 deficiency (about 1 per 150,000): one step above 5α-reductase (androstenedione →
+   testosterone); atypical at birth, virilises at puberty, with poor spermatogenesis and infertility.
+ • LH receptor (LHCGR) variants: Leydig cell hypoplasia, androgen deficiency.
+ • 3β-HSD deficiency: very rare CAH (under 1 per 1,000,000); DHEA accumulates, testosterone and DHT fall
+   → atypical genitalia/hypospadias in 46,XY, plus salt wasting and adrenal crisis; atypical genitalia also in
+   46,XX.
+ • 17α-hydroxylase deficiency (usually with 17,20-lyase): low androgens with hypertension and
+   hypokalaemia from excess corticosterone and 11-deoxycorticosterone; some female-typical, found at
+   delayed puberty.
+
+DEFECTS OF ANDROGEN SYNTHESIS IN 46,XY
+ Defect            Signature                         Genitalia at birth       Puberty             Adrenal
+ LH receptor       No hCG response                   Female, atypical,        —                   Normal
+                                                     micropenis
+ 17α-              ↓androgens; ↑11-                  Female or atypical       Delayed             Hypertension,
+ hydroxylase       deoxycorticosterone                                                            hypokalaemia
+ 3β-HSD            ↑DHEA                             Atypical /               —                   Salt wasting
+                                                     hypospadias
+ 17β-HSD3          ↑androstenedione:testosterone     Atypical                 Virilises           Normal
+ 5α-reductase      Testosterone:DHT above 20:1       Female or atypical       Marked              Normal
+ 2                                                                            virilisation
+ • Pattern: AMH is normal in all, so no uterus; adrenal disease only where the enzyme is shared with cortisol
+   synthesis; the two most downstream defects are those that virilise at puberty.
+Abnormal hormone action.
+ • Androgen receptor variants (X-linked) cause complete or partial androgen insensitivity (CAIS, PAIS).
+ • CAIS: female genitalia, inguinal or abdominal testes, short vagina, no müllerian structures; X-linked
+   recessive, 1 in 20,000–90,000 46,XY births. Historically found at primary amenorrhoea work-up or when
+   testes appeared at herniorrhaphy. Testosterone is made but not sensed; aromatisation produces breasts
+   at puberty.
+ • About 50% of CAIS have an inguinal hernia; 1–2% of girls with inguinal hernia are 46,XY CAIS → at
+   female herniorrhaphy, vaginoscopy for a cervix or endoscopy through the sac for an intra-abdominal
+   testis. Prenatal diagnosis by NIPT–ultrasound discordance is increasing.
+ • Histology: absent or incomplete spermatogenesis, normal or hyperplastic Leydig cells — like immature
+   cryptorchid testes.
+ • Early prophylactic gonadectomy was once standard, but prepubertal tumour risk is about 2%, so gonads
+   stay until after breast development and the patient can decide; some report better quality of life on
+   endogenous hormones. No gametes; a gonadal management protocol has been proposed. Dilation
+   usually suffices; vaginoplasty rarely needed.
+ • PAIS: residual receptor function; more than 800 variants; about 1 per 100,000. At puberty some androgen
+   effect and often some breast growth. Identity variable, most often male. Raised male: high-dose
+   testosterone may improve genital development. Female identity: gonadotropin-releasing hormone
+   (GnRH) agonists or gonadectomy, then oestrogen. Neoplasia about 30% for undescended gonads (Table
+   59.7: 50% non-scrotal). Fertility reduced but possible; care individualised as in MGD and OVT DSD.
+
+
+
+
+                                                   page 14 of 23
+Chapter 59 — Differences of Sexual Development                               Differences of Sex Development: Specific Conditions
+COMPLETE VERSUS PARTIAL ANDROGEN INSENSITIVITY
+ Feature                CAIS                                                      PAIS
+ Genitalia              Female; short vagina                                      Spectrum of atypical
+ Identity               Female                                                    Variable, mostly male
+ Tumour risk            About 2% prepubertal                                      About 30% undescended
+ Gonad plan             Keep until after breast development                       Careful discussion
+ Fertility              None via sperm                                            Reduced, possible
+
+Persistent müllerian duct syndrome.
+ • PMDS (hernia uteri inguinale): 46,XY, male genitalia, testes with vasa and epididymides, plus müllerian
+   structures — undescended testes, bilateral tubes, uterus and upper vagina draining into the prostatic
+   utricle; usually found at herniorrhaphy or orchidopexy.
+ • Autosomal recessive: AMH (19p13) or AMH type II receptor (12q13), one of which is mutated in the large
+   majority. Three presentations (Clarnette; Fig. 59.13) in the table; PMDS underlies 30–50% of transverse
+   testicular ectopia.
+ • Sequelae: hernia, infertility (abnormal testes, abnormal vasa/epididymides, surgical injury), testicular
+   tumours (seminoma, reflecting intra-abdominal cryptorchidism) and müllerian malignancy. Clues:
+   consanguinity, familial infertility or undescended testes.
+ • Orchidopexy is recommended. Because the vasa hug the uterus and proximal vagina, remnants were
+   historically preserved (divided longitudinally if needed to reach the scrotum). Remnant malignancy 3–8%
+   → discuss removal versus ultrasound or MRI surveillance; if removing, laparoscopic or robotic access
+   spares the vasa.
+
+CLARNETTE CLASSIFICATION OF PMDS
+ Category        Testis position                                                                                  Share
+ 1               Bilateral intra-abdominal, in ovarian position                                                   60–70%
+ 2 (classic)     One testis in hernia sac or scrotum + contralateral inguinal hernia                              20–30%
+ 3               Both in one sac (transverse testicular ectopia) with tubes and uterus                            10%
+
+
+ KEY POINTS: 46,XY DSD
+     • Complete gonadal dysgenesis carries a 30–45% gonadal tumour risk.
+     • Denys–Drash: atypical genitalia, congenital nephrotic syndrome, Wilms tumour.
+     • 5α-reductase deficiency: female or atypical genitalia at birth, virilisation at puberty.
+     • Strongly consider leaving the gonads in complete androgen insensitivity in situ until after puberty.
+     • PAIS shares the clinical challenges of MGD and OVT DSD.
+
+Concept — In 46,XY DSD the uterus separates the mechanisms: dysgenetic testes fail at AMH and
+testosterone (uterus present); synthesis and action defects keep AMH (no uterus); PMDS is the mirror image
+— AMH failure alone with normal virilisation. Tumour risk tracks dysgenesis and intra-abdominal position,
+which is why streaks come out and CAIS gonads can wait.
+
+Other Anatomic Conditions
+ • Also managed by DSD teams: aphallia, vaginal duplication and other vaginal anomalies, cloacal
+   exstrophy (Chapter 43), micropenis and Mayer–Rokitansky–Küster–Hauser (MRKH) syndrome.
+
+
+
+
+                                                       page 15 of 23
+Chapter 59 — Differences of Sexual Development                                        Multidisciplinary (Interdisciplinary) Care Model
+MRKH syndrome.
+ • Congenital absence of uterus and vagina, mostly sporadic, 1 in 4000–5000 female births, 46,XX; female
+   external genitalia and secondary sex characteristics with a shallow vaginal pouch (Fig. 59.14: T2 MRI, no
+   uterus or vagina between bladder and rectum).
+ • Presents mainly with primary amenorrhoea, also infertility or dyspareunia. Upper tract anomalies in
+   about one-third (agenesis, pelvic kidney, horseshoe); cardiac anomalies in a minority.
+ • Many loci, often none found: 1q21.1 (RBM8A), 1p31–1p35 (WNT4), 7p15.3 (HOXA), 16p11 (TBX6), 17q12
+   (LHX1, HNF1B), 22q11.21, Xp22. Comorbidity predicts the gene: RBM8A → TAR syndrome
+   (thrombocytopenia, absent radius); only WNT4 → raised androgens.
+
+TYPICAL VERSUS ATYPICAL MRKH
+ Feature                Typical                                                         Atypical (up to 10%)
+ Anatomy                Symmetrical uterine remnants; normal tubes, ovaries             Asymmetrical remnants and/or
+                        and ovarian function                                            tubal aplasia
+ Endometrium            —                                                               Haematometra → cyclical pain
+ Upper tract            Absent in the reported series                                   Much more common
+ anomalies
+
+VAGINAL CREATION IN MRKH
+ Option                     Notes
+ Dilation                   First-line (American College of Obstetricians and Gynecologists); outcomes comparable to
+                            vaginoplasty
+ Vecchietti                 If dilation impossible: progressive traction on the vault by a device at the vaginal dimple; short
+                            minimally invasive procedure
+ Skin flap                  Former first-line surgery; no lubrication, introital scarring
+ Bowel (colon, small        Lubricated, available; out of favour — overstretching, excess mucus, better alternatives
+ bowel)
+ Buccal mucosa              Partial or complete; primary perineal approach; major improvement
+ Tissue-engineered          Off-the-shelf grafts (e.g. small intestinal submucosa) avoid harvest; emerging
+ • Uterine remnants: if symptomatic, remove or suppress menses hormonally; never connect to a
+   neovagina — there is no cervix.
+ • Uterine transplantation: landmark first trial (Brännström) — nine recipients, two early graft removals,
+   multiple live births; still investigational, with trials in several countries.
+Micropenis.
+ • Stretched penile length more than 2.5 SD below the mean — under 2 cm at 0–5 months. A true
+   micropenis (not buried) needs endocrine evaluation for DSD or central hypopituitarism (cortisol, growth
+   hormone deficiency). Money-era female assignment is no longer recommended.
+Concept — In MRKH the ovaries are normal, so management targets function, never the gonad — a vagina
+by dilation first, fertility by transplantation. Micropenis is a marker of endocrine disease, not a reason to
+reassign sex.
+
+MULTIDISCIPLINARY (INTERDISCIPLINARY) CARE MODEL
+ • The model changed because long-term outcomes under historical care were suboptimal. That care
+   followed John Money (1975) — early designation and strongly advised early surgery (table). Intersex
+   activists and clinicians challenged it, and it is now judged ill-advised and against psychosocial interests.
+
+
+
+                                                          page 16 of 23
+Chapter 59 — Differences of Sexual Development                                                 Infant Presentation and Evaluation
+ • Lifelong psychosocial care is needed: anxiety, depression, suicidal ideation and related conditions are
+   more common. Care is shifting towards bodily autonomy and shared decision-making.
+ • The 2006 consensus made multidisciplinary care the standard; the 2016 update stressed teamwork and
+   peer support groups. Teams should work interdisciplinarily — as one, not a sum of parts.
+ • No "one size fits all" algorithm: care is individualised to patient, family, culture and social setting.
+ • Team: endocrinologist; urologist, paediatric surgeon, gynaecologist; geneticist and genetic counsellor;
+   psychologist, psychiatrist, social worker; ethicist; nursing and support staff; ideally individuals with DSD/
+   intersex traits as educators and peer links.
+ • Evidence is often lacking, so the team is transparent about what is known and unknown; without
+   consensus it educates and supports the family's decision rather than dictating it.
+ • A urologist without a team should recognise this and transfer the patient to an appropriate centre as
+   soon as possible, even a newborn.
+ • Despite cost pressures (lobby institutions and legislators), clinicians should see the patient together in
+   one clinic — separate days are not recommended — so information is exchanged in real time and a
+   shared plan agreed. The same team sees inpatients; urgent (within 24 hours) review usually arises in the
+   neonatal intensive care unit (NICU) for atypical genitalia.
+ • Transition is harder than in most urology (complexity, rarity, many specialists); adults may be seen in
+   paediatric units or by paediatric specialists in adult settings. Patients must not be "abandoned": needs
+   persist or grow, especially fertility and sexual health, which are hard to raise. Needs include coordination,
+   autonomy, open discussion and psychosocial care; long-term outcomes remain to be defined, so
+   continuity must span life.
+
+HISTORICAL VERSUS CURRENT MODEL
+ Element                   Historical (Money)                        Current
+ Team                      Endocrinologist + one surgeon             Interdisciplinary, same-day clinic, peer support
+ Decision-maker            Surgeon (designation and surgery)         Family and patient, after education
+ Disclosure                Not encouraged (secrecy)                  Transparent
+ Surgery                   Early; presented as optimal               Individualised; irreversible steps deferred
+ Psychosocial care         Often absent                              Integral, lifelong
+
+
+ KEY POINT: MULTIDISCIPLINARY (INTERDISCIPLINARY) CARE MODEL
+   • An interdisciplinary model in which clinicians see patients together on the same day is recommended.
+
+Concept — Money's premise was that gender follows early designation and surgery. Its failure moved
+decisions from surgeon to family and ultimately patient, and the team's role from direction to education;
+co-location, transparency and lifelong continuity follow.
+
+INFANT PRESENTATION AND EVALUATION
+ • Classically atypical genitalia at birth; increasingly prenatal through cffDNA — atypical genitalia on
+   ultrasound, sex chromosome aneuploidy or mosaicism, or genotype–phenotype discordance (e.g. Y
+   material with female genitalia at the 20-week scan).
+ • Prompt multidisciplinary medical and psychosocial evaluation, ideally in the first 24–48 hours; atypical
+   genitalia may mean an emergency (salt-wasting CAH).
+
+
+
+
+                                                         page 17 of 23
+Chapter 59 — Differences of Sexual Development                                                 Infant Presentation and Evaluation
+ • Communication: congratulate; use "your baby", they/them or the baby's name — never "it"; train
+   perinatal staff, since inconsistency breeds distrust; the NICU itself can frighten families. Apart from CAH
+   most DSDs are not life-threatening, so reassure that designation and treatment are not emergent.
+ • Evaluation covers prenatal history, comorbidities, anatomy, chromosomes and hormones, guiding testing,
+   parental education and (often) designation. Family history: infertility, recurrent pregnancy loss,
+   amenorrhoea, hirsutism, relatives with DSD (e.g. CAIS, hypospadias) or atypical genitalia; infant death
+   suggests CAH. Ask about maternal steroids or contraceptives.
+ • Examination in gender-neutral terms (Fig. 59.15), measuring stretched clitorophallic length, glans width,
+   urethral plate length and anogenital distance, and locating the meatus versus a single perineal opening.
+ • Gonads are the most informative sign: bilateral impalpable gonads with atypical genitalia → CAH; any
+   palpable gonad means testicular tissue, excluding all but the rarest CAH, because ovaries do not
+   descend. Rarely an ovotestis reaches the canal, suspected from asymmetric pole texture and ultrasound.
+ • Bilateral impalpable testes, or unilateral impalpable testis with hypospadias = DSD until proven
+   otherwise. Landmark Kaefer (1999), cryptorchidism + hypospadias without atypical genitalia: DSD 30%
+   overall; about 15% if the testis was palpable, 50% if impalpable; proximal meatus 65% versus 5–8%
+   midshaft/distal. Later work supports testing proximal hypospadias and links penoscrotal transposition
+   and bifid scrotum to a DSD diagnosis.
+ • Anogenital distance reflects fetal androgen (correlating with testis size, sperm count, penile length and
+   testosterone in rats and humans) but lacks normative values. The External Masculinisation Score (phallus
+   size, labioscrotal fusion, gonad and meatal position) has unproven predictive value.
+ • Ultrasound (pelvic/scrotal): the neonatal period is ideal for the uterus (maternal hormones enlarge it), so
+   routine rectal examination is unnecessary. It finds abdominal gonads and suggests type, but normal
+   versus dysgenetic testis is hard to tell and streaks are often invisible. Asymmetry suggests MGD if 45,X/
+   46,XY, OVT DSD if 46,XX.
+ • Karyotype at once: at least 45 cells, laboratory warned of DSD; preliminary in 2–3 days. Fluorescence in
+   situ hybridisation (FISH) identifies X and Y within hours, usually to confirm a second X.
+ • Endocrine timing matters. If CAH is possible, 17-OHP at about 36 hours, before discharge. At about 1
+   week: LH, FSH, testosterone, oestrogen, androstenedione, DHT and AMH (Table 59.5).
+
+TABLE 59.5 ENDOCRINE TESTING FOR DSD EVALUATION
+ Test                                   Interpretation
+ 17-hydroxyprogesterone                 Raised in CAH
+ Antimüllerian hormone                  Normal → functioning Sertoli (testis) or granulosa (ovary) cells; also ovarian
+                                        reserve
+ LH, FSH                                Raised → poor gonadal function
+ Testosterone / oestrogen               Whether functioning tissue is testicular or ovarian
+ Androstenedione                        Raised in 21-OHD and 17β-HSD3 deficiency
+ DHEA sulfate                           Raised in 21-OHD and 3β-HSD deficiency
+ Testosterone:DHT                       Above about 20:1 → 5α-reductase deficiency
+ hCG stimulation                        No testosterone rise → no testis, no Leydig cells, or LH receptor defect
+ • Pattern: tests localise the gonad (AMH, sex steroids, gonadotropins, hCG), the adrenal enzyme (17-OHP,
+   androstenedione, DHEA sulfate) or peripheral conversion (testosterone:DHT). Trap: androstenedione and
+   DHEA sulfate are each shared by two defects; hCG non-response has three causes.
+ • Gonad size and position and presence of a uterus narrow the differential (Figs 59.16 and 59.17, below).
+   Precise diagnosis is nearly always reached in 46,XX DSD but in under 50% of 46,XY DSD.
+
+
+
+                                                         page 18 of 23
+Chapter 59 — Differences of Sexual Development                                                Infant Presentation and Evaluation
+ • If unclear: MRI, diagnostic laparoscopy ± gonadal biopsy, genitography, endoscopy with examination
+   under anaesthesia (Fig. 59.18). No gonadectomy or removal of reproductive organs during the
+   diagnostic phase. Genetic tests (Table 59.6), now cheaper and faster, are tailored to suspicion and
+   comorbidities.
+
+FIG. 59.16 ALGORITHM: FEMALE-TYPICAL GENITALIA WITH Y MATERIAL ON PRENATAL TESTING
+ Karyotype          Examination and ultrasound                                   Likely diagnosis
+ 46,XY              Testes (abdominal or palpable); no uterus                    CAIS
+ 46,XY              Streak/impalpable gonads; uterus                             Complete gonadal dysgenesis
+ 45,X/46,XY         Streak/impalpable gonads; uterus                             Turner + Y
+
+FIG. 59.17 ALGORITHM: ATYPICAL GENITALIA
+ Karyotype        Examination, ultrasound, endocrine                              Likely diagnosis
+ 46,XX            Ovaries/impalpable; uterus; ↑17-OHP, ↑testosterone              CAH
+ 46,XX            Gonads not two ovaries; uterus ±                                OVT DSD; rare causes
+ 46,XY            Variable gonads; uterus ±                                       Partial gonadal dysgenesis; OVT DSD
+ 46,XY            Variable gonads; no uterus                                      Androgen synthesis or action defect
+ 45,X/46,XY       Variable gonads; uterus ±                                       MGD; OVT DSD
+ Palpable gonads: 0 → CAH; 1 → PGD, PAIS, MGD, OVT DSD; 2 → 46,XY DSD (PAIS, 5α-reductase deficiency, Leydig cell
+ hypoplasia, PGD, rare CAH)
+
+TABLE 59.6 ADJUNCTIVE GENETIC TESTING OPTIONS
+ Test                                   Indication
+ FISH for SRY                           Genitalia–karyotype discrepancy (e.g. 46,XX with masculinised genitalia)
+ Single gene                            Confirm a strongly suspected diagnosis
+ DSD gene panel ("DSD slice")           Known DSD-associated variants
+ Microarray                             Rapid scan (including new candidate genes) when diagnosis unclear and/or
+                                        multiple anomalies
+ Whole exome                            As microarray; may diagnose when others fail
+ Whole genome                           Could replace exome, panels and microarray; new, not universally available
+Modified from Granberg CF, editor; Yerkes E, Johnson EK: Disorders of sexual differentiation. AUA Core Curriculum,
+2023.
+
+Figures
+ • Fig. 59.15 Seven reflections of androgen exposure to record: clitorophallic length; glans width; number
+   and position of perineal orifices; labioscrotal fusion; labioscrotal pigmentation and rugation; anogenital
+   distance; location of palpable gonads — using gender-neutral terms until shared decisions on sex of
+   rearing are possible.
+ • Fig. 59.18 Laparoscopy in a 1-year-old with MGD: left streak gonad; right dysgenetic testis and uterus.
+
+ KEY POINTS: INFANT PRESENTATION AND EVALUATION
+   • Prenatal suspicion of DSD is increasing, largely through cell-free fetal DNA.
+   • Initial evaluation: multidisciplinary team, sensitive gender-neutral terminology, congratulations.
+   • Bilateral impalpable gonads may indicate CAH; asymmetry suggests OVT DSD or MGD.
+
+
+
+
+                                                        page 19 of 23
+Chapter 59 — Differences of Sexual Development                               Older Child/Adolescent Presentation and Evaluation
+   • No gonadectomy or removal of reproductive organs in the diagnostic phase.
+
+Concept — Neonatal work-up is a triad — karyotype, gonads (number and position), uterus — with 17-OHP
+the one test that cannot wait; everything irreversible is deliberately deferred while the triad is assembled.
+
+OLDER CHILD/ADOLESCENT PRESENTATION AND EVALUATION
+ • Classic presentation at expected puberty: primary amenorrhoea, absent puberty, or virilisation; also via
+   genetic testing for short stature or developmental concerns. Late presenters have typical external
+   genitalia: CGD, KS, CAIS, MRKH, TS+Y — and 5α-reductase deficiency, female at birth, virilising at puberty.
+ • Basal hormones without hCG are more revealing than in infancy: high gonadotropins with low sex
+   steroid → primary gonadal failure; high LH and testosterone with female genitalia → CAIS.
+ • Examine with patience — adults recall childhood genital examinations negatively, some with post-
+   traumatic stress symptoms. Limit clinicians present; examine after the first visit; examine only when
+   management may change; use examination under anaesthesia selectively.
+Concept — The adolescent axis is awake, so basal levels answer what infancy needed hCG or mini-puberty to
+show; late presenters are exactly those whose genitalia look typical.
+
+PEER SUPPORT
+ • Peer support offers emotional and informational support through shared experience. Evidence is limited
+   and referral and engagement are low; success depends on meeting real needs and training facilitators.
+   Some prefer broad groups, others diagnosis-specific ones.
+ • Members value "not feeling like the only one", navigating systems, finding specialists and learning; it is
+   empowering but emotionally taxing. Advocacy (public perception, medical care, legislation) suits some
+   and deters others.
+
+CURRENT "HOT TOPICS" AND CONTROVERSIES
+
+Sex Designation and Future Gender Identity
+ • No one's future gender identity can be predicted with certainty. Identity differing from assigned sex is
+   more common than once recognised, even after diligent diagnosis; a small minority transition, though
+   rates differ by diagnosis.
+ • Biology: lower prenatal androgen exposure → female identity, higher → male; no fetal androgen (CAIS,
+   CGD) → female identity. Postnatal androgens may add, via the brain and via appearance, self-image and
+   societal response. Females with CAH show more male-typical roles; 5α-reductase deficiency more often
+   male.
+ • Yet sex of rearing predicts satisfaction with gender identity better than androgen exposure. Designation
+   weighs probable adult identity, sexual function, hormone and fertility potential, fetal androgen exposure
+   and psychosocial factors.
+
+GENDER DYSPHORIA BY DIAGNOSIS AND REARING (SYSTEMATIC REVIEW BOTTOM LINE)
+ Diagnosis                                  Rearing   Dysphoria
+ 46,XX CAH                                  Female    Lowest
+ PAIS                                       Either    Occurs with both; more when raised male
+ MGD                                        Female    Substantial minority
+ 5α-reductase deficiency                    Female    Highest, approaching half
+
+
+
+                                                      page 20 of 23
+Chapter 59 — Differences of Sexual Development                                             Current "Hot Topics" and Controversies
+CURRENT DESIGNATION TRENDS
+ Female                                                         Male (46,XY, more androgen exposure)
+ 46,XX CAH; CAIS; CGD; 46,XY LH receptor deficiency             PGD; PAIS; 5α-reductase deficiency; 17β-HSD3 deficiency
+ • Outcome data are unreliable: evolving concepts of sex and gender change reporting; greater acceptance
+   of intersex, transgender and nonbinary identities means older studies may understate dysphoria; and the
+   recent trend towards male assignment has not yet reached adulthood. Updated studies are needed.
+ • The "social emergency" framing is outdated. The team should meet the family in the first 1–2 days to
+   start work-up and set expectations on timing of designation. A psychosocial member is critical, explaining
+   the biological complexity and frequency of variation.
+ • There is no test for gender identity except waiting for the individual's own sense of it. The team supports
+   the family's choice (male, female or other, and timing) and lets the family lead on terms and pronouns.
+Concept — Designation is a probabilistic prediction from androgen exposure, but rearing and culture weigh
+as heavily; the aim is an informed choice made without false urgency, keeping options open until the child
+can speak for themselves.
+
+Role and Timing of External Genital Surgery
+ • The most argued controversy. Elective surgery before the age of consent may irreversibly create anatomy
+   incongruent with later identity and bypasses autonomy; against this stand possible functional advantages
+   and the psychosocial burden of unoperated atypical genitalia in a binary society. "Feminising" and
+   "masculinising" are contested terms, used for want of alternatives.
+ • Feminising genitoplasty = clitoroplasty, vaginoplasty and labioplasty, staged or combined (Chapter 60).
+   Techniques and outcomes have improved; scrutiny is of timing and who decides.
+ • Claimed benefits of early surgery (better tolerance, no memory, easier technique, fewer complications)
+   are unproven by large studies, and Money's rationale is incorrect. For those whose identity later differs,
+   early clitoral reduction can be catastrophic; others regret complications or exclusion from the decision.
+ • Surveys nonetheless show parents and patients mostly prefer early surgery, including most 46,XX adults
+   after feminising genitoplasty (systematic review) — limited by no control group and inclusion of
+   unoperated patients.
+ • Recommendation: transparent multidisciplinary discussion of early versus later or no surgery; shared
+   decision-making (rarely formalised); ideally no irreversible genital surgery until the individual can
+   participate. Parental consent must address the limits of predicting identity, embodiment goals and
+   fertility wishes.
+ • CAH: most data come from CAH, and some groups (CARES Foundation) argue CAH is not DSD and early-
+   surgery concerns do not apply. But dysphoria is increased in CAH, some thrive raised male, and not all
+   women want or would risk genital surgery — so infant feminising surgery is questioned even after full
+   counselling. Whether CAH should be treated separately is unresolved.
+ • Masculinising surgery is mostly proximal hypospadias repair, often with penoscrotal transposition. It
+   retains a high complication rate even in high-volume single- and multistage series, with concern for
+   erectile dysfunction after multiple operations. Whether a defined DSD raises complications is disputed:
+   one series found higher rates; a prospective multi-institutional 46,XY DSD study found them similar.
+
+FEMINISING VERSUS MASCULINISING SURGERY
+ Feature                Feminising                             Masculinising
+ Reversibility          Irreversible (clitoral reduction)      Mostly not irreversible
+ Case for infancy       Unproven; surveys favour early         Healing, fewer complications, less memory; wish to void
+                                                               standing at school age
+
+
+                                                            page 21 of 23
+Chapter 59 — Differences of Sexual Development                                             Current "Hot Topics" and Controversies
+
+ Feature                 Feminising                           Masculinising
+ Functional need in      Rare (urinary retention)             None — elective
+ infancy
+ Current stance          Defer until the individual can       Infant repair often chosen when raised male, after full
+                         participate                          counselling
+
+Concept — The timing debate turns on reversibility: clitoral surgery cannot be undone, so the decision
+moves towards the patient's own consent; masculinising repair is largely revisable, so infant surgery remains
+common when a family raises the child male.
+
+Gonadal Management: A Paradigm Shift
+ • From automatic gonadectomy (dysgenetic or discordant gonads removed early as nonfunctional and
+   tumour-prone) to individualised assessment of tumour risk, function and autonomous choice. Risks by
+   diagnosis and age are now lower than once stated and stratified (Table 59.7); tumour biology makes
+   biopsy increasingly decisive.
+ • Fertility is being reconsidered: future gametes may allow biological fertility even if discordant with
+   identity; germ cells were found in DSD gonads removed as "nonfunctional"; in vitro follicle growth and
+   sperm maturation from immature tissue are investigational. Some centres offer experimental gonadal
+   tissue cryopreservation at prophylactic gonadectomy.
+ • Genetic diagnosis will personalise fertility and tumour estimates. Alternatives to removal include initial
+   biopsy or moving an at-risk intra-abdominal gonad to the inguinal canal or labioscrotal fold.
+
+TABLE 59.7 GERM CELL TUMOUR RISK AND RECOMMENDATIONS FOR MANAGEMENT IN DSD
+ Risk             DSD                                                      Risk      Management
+ High             Gonadal dysgenesisa (+Y)b, intra-abdominal               15–35%    Gonadectomyc
+                  Frasier syndrome                                         60%       Gonadectomyc
+
+                  Denys–Drash (+Y)b                                        40%       Gonadectomyc
+                  PAIS, non-scrotal gonad                                  50%       Gonadectomyc
+ Intermediate     Turner (+Y)b                                             12%       Gonadectomyc
+                  17β-HSD3 deficiency                                      28%       Monitor or gonadectomy (uncertain)
+                  PAIS, scrotal gonad                                      Unknown   Biopsyd and irradiation
+
+                  Gonadal dysgenesis (+Y)b, scrotal gonad                  Unknown   Biopsyd and irradiation
+ Low              CAIS                                                     2%        Biopsyd; next step undetermined
+                  OVT DSD                                                  3%        Remove testicular tissue (uncertain)
+ None (?)         5α-reductase deficiency; Leydig cell hypoplasia          Unknown   Unresolved
+a Includes not otherwise specified, 46,XY, 45,X/46,XY, mixed, partial, complete. b GBY (gonadoblastoma locus on Y)
+
+region positive, including TSPY. c At diagnosis. d At puberty, examining at least 30 seminiferous tubules, preferably with
+OCT3/4 immunohistochemistry. Modified from Looijenga LH et al.: Tumor risk in disorders of sex development. Best
+Pract Res Clin Endocrinol Metab 21:480–495, 2007, Table 3.
+
+TUMOUR RISK: BODY TEXT VERSUS TABLE 59.7
+ Condition                                          Text                                          Table 59.7
+ Complete gonadal dysgenesis                        30–45%                                        15–35%
+ Partial gonadal dysgenesis                         Up to 60% intra-abdominal                     15–35%
+ Turner + Y                                         12–20% (GCC about 3%)                         12%
+
+
+
+                                                           page 22 of 23
+Chapter 59 — Differences of Sexual Development                                             Summary and Conclusions
+
+ Condition                                       Text                                  Table 59.7
+ PAIS                                            About 30% undescended                 50% non-scrotal
+ • Why they differ: the text uses later diagnosis-specific series; the table is a 2007 pooled compilation
+   grouping all gonadal dysgenesis. (MGD 15–35%, Frasier, Denys–Drash, CAIS and OVT figures agree.)
+ • Pattern: risk rises with Y material (GBY/TSPY), dysgenesis and intra-abdominal position, falls with a
+   scrotal gonad; high → gonadectomy at diagnosis, intermediate → pubertal biopsy, low → preserve. Trap:
+   CAIS is low risk despite abdominal testes; Frasier carries the table's highest figure despite no Wilms risk.
+Concept — Gonadal tumour risk is set by Y material, dysgenesis and intra-abdominal position, so
+management has moved from "remove every discordant gonad" to "quantify risk, preserve function and
+fertility where risk allows, and wait for the patient".
+
+SUMMARY AND CONCLUSIONS
+ • Traditional DSD care proved suboptimal and recommendations are evolving. The urologist's role belongs
+   only within a multidisciplinary model. Care is individualised; the role and timing of surgery are being
+   redefined; counselling must be transparent about the known and unknown. Long-term outcomes with
+   and without surgery, and genetic insight, will improve care.
+
+
+
+
+                                                        page 23 of 23
+
