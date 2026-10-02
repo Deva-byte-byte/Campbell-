@@ -1,0 +1,1171 @@
+Chapter 69 — Male Infertility
+
+
+
+Chapter 69 — Male Infertility
+Campbell-Walsh-Wein Urology · Craig Stuart Niederberger, Samuel John Ohlander, Mahmoud Mima
+
+EPIDEMIOLOGY
+ • Infertility affects approximately 15% of couples, leaving nearly 1 in 6 childless (World Health Organization
+   [WHO]).
+ • Despite historical bias in the sex split, males and females contribute an equal number of faulty gametes
+   — so evaluating the male matters.
+ • Male care is largely delivered outside reimbursement systems, so metrics are unreliable. The Society for
+   Assisted Reproductive Technology (SART), the professional group of the American Society for
+   Reproductive Medicine (ASRM), compels in vitro fertilisation (IVF) clinics to report outcomes — but this
+   sees the male contribution through the lens of female assisted reproduction, skewing estimates.
+ • National Survey of Family Growth (NSFG): a substantial minority of males in infertile couples are never
+   evaluated, supporting underreporting of male factor; of sexually active males who ever seek care for
+   difficulty conceiving, only a minority report a clinician-diagnosed male reproductive problem.
+ • Urologic Diseases in America (UDA) Project: ambulatory surgery for conditions associated with male
+   infertility is used most at 25–34 years, falling with each older band; younger males account for more than
+   half of cases, yet nearly 1 in 11 cases occurs in the fifth decade or later. Use is lower in the West than in
+   the Northeast and Midwest of the United States.
+ • Economics: direct expenditure on primary male infertility is a gross underestimate because much care
+   escapes traditional databases; counting the female partner's assisted reproduction, the true cost is orders
+   of magnitude larger; males pursuing fertility care spend a substantial fraction of annual income on it.
+ • The primary assay, the semen analysis, is a poor predictor — every parameter has a low area under the
+   receiver operating characteristic (ROC) curve — so men with some sperm are wrongly judged fertile and
+   omitted from tallies.
+Concept — the male contribution is systematically undercounted, because every data source is filtered
+through systems built for the female partner and through an assay that cannot separate the fertile from the
+infertile.
+
+HISTORY
+ • Male gamete production needs orchestration of endocrine, immune and neural systems, intact anatomy,
+   sequenced gene expression and chromosomal events, and normal embryological and postnatal
+   development — so myriad disparate conditions cause dysfunction.
+ • Approach the history methodically; a pre-visit form completed at home or in the waiting area improves
+   efficiency.
+TABLE 69.1 DISTRIBUTION OF FINAL DIAGNOSES FROM A MALE INFERTILITY CLINIC
+ Frequency tier                  Diagnoses (in descending order)
+ Dominant (together over half)   Idiopathic; varicocele
+ Common                          Obstruction; normal (female factor)
+ Uncommon (each a few per        Cryptorchidism; immunological; ejaculatory failure; endocrinological; drug or
+ cent or less)                   radiation; genetic; testicular failure
+ Rare (each under 1%)            Sexual dysfunction; pyospermia; cancer; systemic disease; infection; torsion;
+                                 ultrastructural
+
+
+
+
+                                                     page 1 of 23
+Chapter 69 — Male Infertility                                                                                             HISTORY
+
+
+From Sigman, Lipshultz and Howards, Office evaluation of the subfertile male, in Infertility in the Male, 4th ed, 2009.
+ • What the table is for: the breadth of final diagnoses in male infertility.
+ • Pattern: idiopathic is the largest single category; varicocele is the commonest identifiable cause, then
+   obstruction.
+ • Trap: the percentages vary widely with how each condition is assessed — the authors call the table an
+   indictment of how poorly male reproductive data are collected; do not treat the figures as population
+   truths.
+ • Two patients are required for a positive outcome, so the diagnostic approach must be probabilistic.
+ • With optimally timed intercourse, most conceptions occur within the first three to six cycles and nearly
+   all couples who will conceive have done so by twelve; a minority not conceiving by six cycles still do so.
+ • Couples seeking help one or two months after stopping contraception should be counselled to keep
+   trying; it is reasonable to begin evaluation after 6 months, accepting that some will conceive shortly
+   afterwards. Describe each month as rolling a die or flipping a coin.
+ • Ask about intercourse frequency. Semen parameters peak after 1–2 days of abstinence and then decline;
+   prolonged abstinence to "accumulate" sperm worsens quality.
+ • For conception: daily intercourse around ovulation (for semen analysis, see Evaluation of Semen).
+ • Female partner's age is critical to reproductive potential and planning, especially with assisted
+   reproduction; fecundity declines precipitously after 35, and faster in some regions — assess her age in
+   the context of her locale.
+ • Male age affects bulk parameters and sperm DNA packaging only to a limited degree, and males father
+   children well into later life. However, the ASRM and American Urological Association (AUA) joint guideline
+   (2021) directs clinicians to advise couples with advanced paternal age (≥40 years) of increased risk of
+   adverse offspring outcomes — bipolar disorder, schizophrenia, autism, attention-deficit disorder and
+   poorer cognitive performance.
+ • Ask whether the man and partner have conceived before, together or with others, and the offspring's
+   ages: proven post-pubertal fertility eliminates many congenital concerns.
+ • Diabetes mellitus (DM), multiple sclerosis (MS) and spinal cord injury (SCI) disrupt coordinated
+   ejaculation.
+ • Cancer impairs spermatogenesis even before chemotherapy, especially testis cancer; azoospermia may
+   reveal testis cancer — consider it in any man with no sperm.
+ • Transurethral resection of the prostate (TURP) and minimally invasive prostatic therapies cause
+   ejaculatory dysfunction; retroperitoneal lymph node dissection causes retrograde ejaculation of varying
+   degree depending on template and context.
+ • Herniorrhaphy can obstruct the vas; mesh incites a dense foreign-body inflammatory reaction that may
+   entrap the vas even when not adjacent to it. Infertility from vasal occlusion alone needs both vasa
+   occluded (rare) — more often one occluded vas plus contralateral spermatogenic dysfunction.
+ • Without a form, use the mnemonic TICS: Toxins, Infectious/inflammatory disease, Childhood history,
+   Sexual history.
+
+Spermatotoxicity
+Many medications, prescribed and over the counter, impair spermatogenesis, mature sperm function or
+delivery.
+Endocrine Modulators
+ • Drugs shift the oestrogen-to-androgen ratio by: oestrogen-like structure; ↑ oestrogen synthesis; ↑
+   aromatase; displacement of steroids from sex hormone–binding globulin (SHBG); ↓ testosterone (T)
+
+
+                                                          page 2 of 23
+Chapter 69 — Male Infertility                                                                                     HISTORY
+
+
+    synthesis; competitive and non-competitive steroid-receptor binding; ↓ adrenal steroid synthesis;
+    hyperprolactinaemia.
+ENDOCRINE-MODULATING AGENTS WARRANTING INQUIRY
+ Class                                              Examples                               Note
+ Antiandrogens                                      Bicalutamide, flutamide, nilutamide    Receptor blockade
+ Antihypertensive                                   Spironolactone                         Antiandrogenic
+ Antiretroviral protease inhibitors                 Indinavir
+ Nucleoside reverse transcriptase inhibitors        Stavudine
+ Corticosteroids                                    —                                      Especially in adolescence
+ Oestrogens                                         Exogenous oestrogen
+ 5α-reductase inhibitors (5ARIs)                    Finasteride, dutasteride               Limited suppression, if any
+ Exogenous testosterone / androgenic steroids       —                                      Suppress spermatogenesis
+
+ • 5ARIs: anecdotal reports and a prospective database review show dramatic improvement after stopping
+   (even the low alopecia dose), but semen inter-assay variability means this may be chance.
+ • Exogenous T: aromatised to estradiol (E2) → inhibits pituitary luteinising hormone (LH) → ↓
+   intratesticular T → ↓ spermatogenesis. Other androgenic agents act similarly.
+ • T and androgens have been studied as male contraceptives since the 1970s; with ≤2 years' exposure
+   suppression is reversible, sperm returning about 4 months or more after stopping; recovery after longer
+   use is unknown.
+Recreational Drugs
+COMPARISON — RECREATIONAL EXPOSURES AND MALE REPRODUCTION
+ Agent            Effect                                                                      Strength of evidence
+ Cannabis         Dose- and duration-dependent ↓ plasma T; non-linear ↓ concentration and Conflicting, most studies
+                  total count with a threshold above once weekly; chronic THC edibles in  adverse
+                  monkeys → dose-response testicular atrophy, ↑ gonadotropins, ↓ sex
+                  steroids
+ Alcohol          Chronic intake ↓ androgens and sperm parameters; heavy intake ↑             More robust
+                  aromatisation of T to E2; even moderate intake may ↓ intracytoplasmic
+                  sperm injection (ICSI) outcomes
+ Cigarettes       Dose-dependent deterioration of semen; ↑ seminal oxidative stress; ↓        Earlier conflicting; recent
+                  DNA quality; abnormal protamine 1:2 ratio (atypical protamine 2 → DNA       data argue impairment
+                  packaging defect); additive toxicity with varicocele
+ Maternal         Aryl hydrocarbon receptor ligand → fetal testis apoptosis (blocked by       Laboratory and
+ smoking          antagonist); sons have smaller testes, lower counts, altered hormones;      epidemiological
+                  altered secondary sex ratio (possibly via maternal T)                       concordance
+ Electronic       Lower carcinogen/toxicant levels than smoking; no conclusive data on        No long-term data
+ cigarettes       androgens or semen
+
+Concept — most spermatotoxic drugs converge on one pathway — raising oestrogen or supplying androgen
+suppresses pituitary LH and hence intratesticular testosterone — which is why exogenous testosterone, the
+most "androgenic" of therapies, is itself a contraceptive.
+
+Infections and Inflammation
+ • Infection of testis, epididymis, prostate and urethra impairs fertility by anatomical and functional means.
+
+
+
+
+                                                        page 3 of 23
+Chapter 69 — Male Infertility                                                                                          HISTORY
+
+
+COMPARISON — ORGANISMS BY REPRODUCTIVE SITE
+ Site                 Typical organisms
+ Prostate             Escherichia coli, Pseudomonas aeruginosa, Klebsiella, Proteus, Enterococcus
+ Epididymis           Neisseria gonorrhoeae, Chlamydia trachomatis, E. coli
+ Urethra              N. gonorrhoeae, C. trachomatis, Mycoplasma, Trichomonas vaginalis
+ Testis               Mumps (Rubulavirus), coxsackievirus B, N. gonorrhoeae, C. trachomatis, E. coli, P. aeruginosa,
+ (infrequent)         Klebsiella, Staphylococcus, Streptococcus
+ Any organ            Mycobacterium tuberculosis — scars vas and epididymis; infrequent in industrialised nations
+
+ • Mumps orchitis is so painful and bizarre that even a young boy is unlikely to forget it — the history is
+   reliable.
+ • Consequences pair: anatomical (e.g. urethritis → stricture) versus functional (direct sperm damage, or
+   immune induction in any reproductive organ).
+ • Direct effect: C. trachomatis serovar E elementary bodies degrade sperm DNA in a time-dependent
+   manner. E. coli harms sperm in vitro, but most bacteria, including E. coli, have little in vivo effect on
+   motility; sexually transmitted organisms may be more virulent — differential effects remain unclear.
+ • Viruses may integrate into the genome and pass vertically through the germline. Hepatitis C and human
+   immunodeficiency virus nucleic material appears in seminal plasma but is not correlated with impaired
+   sperm function; human papillomavirus is associated with impaired bulk parameters, and in vitro
+   heparinase III lowered viral load without harming sperm function.
+ • Indirect mediators: leucocytosis, reactive oxygen species (ROS), interleukin-1 (IL-1), IL-6, IL-8, interferon-γ,
+   macrophage migration inhibitory factor, tumour necrosis factor-α, epididymal macrophages, dendritic
+   cells — the immune system may lose self-recognition of sperm or overwhelm sperm defences.
+ • Non-infectious or post-infectious prostatitis may impair sperm via pyospermia and ROS, antisperm
+   antibodies, or altered prostatic ions (zinc, magnesium, calcium, selenium); prostatitis can generate ROS
+   without leucocytosis. How much inflammation adds beyond infection is unknown.
+Concept — infection damages fertility along two routes, anatomical scarring and functional sperm injury,
+and in the functional route the host's inflammatory and oxidative response matters as much as the organism
+itself.
+
+Childhood Diseases
+ • Early maladies either misroute or obstruct the gamete's path from testis to female tract, or disturb
+   production or damage mature sperm.
+Pediatric Surgery
+ • Childhood hydrocele and hernia repair: low but discrete incidence of vasal obstruction; testis atrophy
+   after paediatric inguinal herniorrhaphy is rare.
+ • Adolescent hernia repair often uses mesh — consider mesh-related vasal occlusion in an infertile man
+   with this history.
+ • Posterior urethral valve ablation: scarring and dysfunction in earlier series; rarely seen now.
+ • Older bladder neck reconstructions caused retrograde ejaculation; rarely performed today.
+Testis Torsion
+ • In males ≤25 years, torsion is more than three times commoner than testis cancer.
+ • Contralateral biopsy is abnormal in most — implying either unnoticed prior torsion or an underlying
+   pathology expressed both as abnormal scrotal anatomy and as spermatogenic dysfunction.
+ • About half develop adverse spermatogenic effects; a minority end with low sperm concentration.
+
+
+                                                         page 4 of 23
+Chapter 69 — Male Infertility                                                                                        HISTORY
+
+
+ • Torsion disrupts Sertoli cell tight junctions (the blood–testis barrier), so some develop antisperm
+   antibodies.
+Cryptorchidism
+Descent sequence: gonadal precursor cells arise on the posterior abdominal wall in gestational week 5 →
+differentiation of testicular cell types and compartments, development of the testicular envelope and its
+connection to distal ducts → migration towards the nascent inguinal canal → scrotum; completed only in the
+third trimester.
+ • Regulators (animal models): insulin-like 3 (INSL3), its receptor relaxin/insulin-like family peptide
+   receptor 2 (RXFP2), antimüllerian hormone (AMH), HOXA10 and other HOX genes.
+ • Some defects only arrest mechanical descent; others also impair spermatogenesis — so infertility
+   exceeds the thermal toxicity suffered by an undescended testis.
+ • Androgens induce regression of the cranial suspensory ligament in the fourth gestational month,
+   permitting descent.
+ • Undescended testes affect up to 4% of term newborns, falling to below 1.5% by 1 year. Twin and sibling
+   concordance suggests maternal inheritance plus intrauterine environment. Unilateral is about twice as
+   common as bilateral.
+COMPARISON — UNILATERAL VERSUS BILATERAL CRYPTORCHIDISM (AFTER ORCHIDOPEXY)
+                                Unilateral                                                      Bilateral
+ Paternity                      Near that of controls, regardless of age at surgery or testis   Markedly reduced
+                                size
+ Inhibin B (Sertoli marker)     About two-thirds of controls                                    About one-third of
+                                                                                                controls
+ Sperm density                  Lower than normal                                               Lowest
+ Ultrastructural sperm          More than controls                                              Most
+ defects
+
+ • Laterality is the key prognostic distinction. T differences are smaller than inhibin B differences → the
+   lesion lies in the seminiferous epithelium more than in Leydig steroidogenesis.
+ • Timing: post-pubertal orchidopexy barely changes bulk semen parameters. AUA guideline (2014): repair
+   within the first 18 months.
+ • About a quarter of cryptorchid boys are born with reduced germ cells; after 15–18 months some biopsies
+   lack germ cells, rising to a large fraction by 8–11 years.
+ • Serum T falls with later age at orchidopexy → earlier surgery spares Leydig function.
+ • The old view that germ cells stay quiescent until puberty (so any prepubertal age is equivalent) is wrong:
+   the endocrine axis matures and the fetal-to-adult spermatogonial transition occurs very early.
+ • Surgical sperm retrieval in azoospermic men with prior orchidopexy: studies conflict, but one series found
+   far better retrieval with orchidopexy before about 10 years, and ROC analysis ranks age at orchidopexy
+   second only to T in predicting retrieval.
+ • Recommendation: before 18 months; if missed, before 10 years. Men beyond that threshold may still
+   have sperm retrieved for ICSI.
+
+
+
+
+                                                        page 5 of 23
+Chapter 69 — Male Infertility                                                                                     HISTORY
+
+
+ • Ascending testes (descended, later ascend — occasionally to intra-abdominal): fertility prognosis
+   unknown. Retractile testes: sperm present but density lower than expected, approaching that of
+   cryptorchidism.
+Concept — cryptorchidism is fundamentally a germ-cell and Sertoli-cell lesion that begins in fetal life and
+worsens with time, so the number of affected testes predicts fertility and the age at repair determines how
+much germinal and Leydig reserve is salvaged.
+
+Genetics
+ • Ask whether blood relatives had difficulty conceiving, and about family syndromes linked to reproductive
+   dysfunction such as cystic fibrosis (CF).
+
+Sexual History
+ • Lifestyle may reduce intercourse frequency below that needed; optimum is daily around ovulation.
+ • Mittelschmerz allows some women to predict ovulation, but many misread bodily sensations —
+   symptoms are unreliable.
+Timing method: basal body temperature or home hormonal kits detect ovulation only after it occurs →
+record the day of ovulation for 2–3 cycles → begin daily intercourse several days before the earliest
+recorded day. Impractical with advanced maternal age (delays therapy) → more aggressive strategies with
+the female fertility specialist.
+COMPARISON — LUBRICANTS AND SPERM
+ Impair sperm                                    Sperm-safe
+ K-Y Jelly, Keri Lotion, Astroglide, FemGlide,   Pre-Seed (isotonic): no significant loss of motility or chromatin
+ Replens; saliva (toxic). FemGlide, Replens,     integrity (acridine orange sperm chromatin structure assay); also safe
+ Astroglide ↓ motility; FemGlide and K-Y Jelly   during semen collection — no effect on bulk parameters, membrane
+ ↓ chromatin quality                             integrity, ROS, antioxidant capacity or DNA integrity
+
+ • Ask about erectile function: without intercourse, semen is not deposited near the cervical os (Chapters
+   71–72).
+ • Infertility carries a heavy psychological burden. Intercourse frequency is altered in up to half of males in
+   treatment and tracks libido and satisfaction — a revealing question is whether coital frequency has
+   changed during evaluation.
+ • Coping differs by sex: males distance themselves and problem-solve; females seek social support —
+   each may misread the other's normal strategy as a problem.
+ • That males conflate fertility with masculinity is a common misconception; it happens only infrequently.
+ • Stress may impair semen quality — a vicious circle; once in therapy (including IVF), a male-factor
+   diagnosis does not disturb well-being or well-adjusted relationships.
+ • Consider referral to a psychologist; framed as problem-solving, many men engage readily.
+
+ KEY POINTS: MALE REPRODUCTIVE HISTORY
+   • The most important determinant of a couple's reproductive potential is maternal age.
+   • Many conditions affect male reproductive function; organise the history into toxicants, infectious
+     processes, childhood conditions and sexual history.
+
+Concept — because reproduction needs two patients and is probabilistic, the history modifies a probability of
+conception rather than establishing a diagnosis — timing, frequency and female age set the baseline, and the
+TICS exposures adjust it.
+
+
+
+                                                       page 6 of 23
+Chapter 69 — Male Infertility                                                            PHYSICAL EXAMINATION
+
+
+PHYSICAL EXAMINATION
+General Physical Examination
+ • Male and female faces differ; female facial features suggest sex chromosomal and androgenisation
+   disorders.
+ • Reduced facial, truncal, axillary and pubic hair suggests inadequate androgenisation; pubertal androgen
+   failure → high-pitched voice; excess endogenous or therapeutic E2 → gynaecomastia.
+ • Eunuchoid habitus (epiphyses fail to close from low pubertal T): arm span >5 cm longer than height;
+   lower segment (pubis–heel) >5 cm longer than upper segment (crown–pubis).
+ • Klinefelter syndrome is classically described with gynaecomastia, eunuchoid appearance and tall stature
+   — but many 47,XXY males lack this habitus.
+Obesity
+ • ↑ E2 from peripheral aromatisation of T in abundant adipose tissue. A TTTA aromatase polymorphism
+   links rising E2 to rising body mass, and carriers show the greatest fall in E2 with weight loss.
+ • ↓ T, with four proposed causes: E2 negative feedback → ↓ LH; ↑ leptin; insulin resistance; sleep
+   apnoea. LH data are inconsistent → the T deficit may be gonadotropin-independent.
+ • ↓ SHBG (attributed to hyperinsulinaemia) → bioavailable T exceeds what total T predicts; an obese man
+   may be more androgenised than his total T suggests.
+ • Serum inhibin B falls with body mass index (BMI) in adult but not prepubertal males → obesity reduces
+   Sertoli cell number during puberty.
+ • Endocrine-independent effects: ↓ paternity with ↑ BMI independent of hormones; only extreme obesity
+   may act endocrinologically; some studies link BMI to motility but not concentration (implicating
+   epididymal function); obesity may degrade sperm DNA integrity and mitochondrial activity.
+Concept — obesity impairs fertility on two tracks at once, an aromatase-driven endocrine track and a
+hormone-independent track acting on the epididymis and sperm DNA, so correcting hormones alone need
+not restore function.
+
+Male Reproductive Physical Examination
+ • Most of the system is external and palpable. Examine standing, before a low table or chair — some men
+   faint during scrotal palpation; asking about his work distracts him.
+ • The partner may add history, but the examination is a tactful moment to ask her to leave so the man can
+   speak privately.
+Examining the Scrotum
+ • Hypoplastic hemiscrotum → contents absent since birth.
+ • Asymmetric enlargement → reactive hydrocele or tumour.
+ • Visible varicocele.
+ • Scrotum lying against the thighs in a large or obese man → insufficient scrotal–body temperature
+   gradient.
+Examining the Testis and Epididymis
+ • The epididymis is normally hard to feel; an easily palpable epididymis is engorged → obstruction.
+ • Upper pole discernible but lower pole not → incomplete wolffian duct development.
+ • Testis size correlates with sperm production.
+
+
+
+
+                                                   page 7 of 23
+Chapter 69 — Male Infertility                                                                         PHYSICAL EXAMINATION
+
+
+COMPARISON — METHODS OF MEASURING TESTIS SIZE
+ Method                            Technique                                       Abnormal
+ Seager caliper orchidometer       Long axis gently grasped between the jaws       Long axis ≤4.6 cm → spermatogenic
+ (Fig. 69.1)                                                                       impairment
+ Prader orchidometer (Fig.         Palpation compared against a string of          Volume ≤20 mL is low
+ 69.2)                             ellipsoids of marked volume
+ Scrotal ultrasonography           Direct measurement                              More accurate; clinical value of the
+                                                                                   increment unclear
+
+Examining the Spermatic Cord
+ • Two findings of reproductive significance: is the vas present, and is there a varicocele.
+ • The vas is firm and cord-like; vessels are compressible. Veins can mimic the vas, so absence is a difficult
+   sign.
+ • Meacham's maxim (Randall Meacham): search for the vas as in the first step of vasectomy, delivering it to
+   the skin surface; if the presumed vas slips from the fingers three times, it is absent.
+ • Unilateral absence → possible complete ipsilateral wolffian failure, including renal agenesis → consider
+   renal ultrasound.
+ • Bilateral absence → high likelihood of a CF gene mutation → sequence the cystic fibrosis
+   transmembrane conductance regulator (CFTR); renal agenesis occurs in about one in ten with congenital
+   bilateral absence of the vas deferens (CBAVD) → renal ultrasound too.
+ • Inspect the upper scrotum for a visible venous plexus, then gently palpate for a varicocele.
+ • History: sporadic pre-1955 reports; W. Selby Tulloch (1955) first systematically reported high ligation in
+   infertile men with improved counts; Dubin and Amelar studied larger series and educated urologists on
+   its pathology and treatment.
+ • Varicocele is the commonest nonductal, surgically correctable lesion affecting male fertility: about 1 in 5–
+   6 of the general population versus 1 in 3 to 1 in 2 of infertile men. That not all men with a varicocele are
+   infertile is one of the field's most perplexing problems.
+ • Many 3–4-grade systems exist; a sensible one separates subclinical (treatment does not help) and seen
+   from only felt.
+COMPARISON — MODERN EVIDENCE-BASED VARICOCELE GRADING
+ Grade            Definition                                                                                     Treat?
+ Subclinical      Not palpable or visible; detected only radiographically (e.g. Doppler ultrasound)              No
+ Grade I          Palpable only standing with Valsalva                                                           Clinical
+ Grade II         Palpable but not visible                                                                       Clinical
+ Grade III        Visible through the scrotal rugae                                                              Clinical
+
+Examining the Phallus
+ • Semen must be deposited near the cervical os; note phimosis, meatal displacement (hypospadias,
+   epispadias) and significant curvature.
+Examining the Prostate and Seminal Vesicles
+ • Digital rectal examination (DRE) adds little; it may be omitted if the patient is apprehensive.
+ • If done: an aplastic or hypoplastic prostate suggests congenital malformation or significant
+   hypoandrogenism.
+ • Seminal vesicles are normally impalpable; palpable vesicles are abnormal → engorgement and possible
+   ejaculatory duct obstruction (EDO).
+
+
+                                                         page 8 of 23
+Chapter 69 — Male Infertility                                                                   PHYSICAL EXAMINATION
+
+
+
+ KEY POINTS: MALE REPRODUCTIVE PHYSICAL EXAMINATION
+   • Obesity impairs male reproductive potential by endocrine-dependent and endocrine-independent
+     mechanisms.
+   • Testis size directly reflects spermatogenic mass.
+   • Unilateral vasal absence suggests a wolffian duct anomaly; bilateral absence is associated with CF gene
+     mutations. In both, renal agenesis may result.
+
+Concept — the examination reads three things directly: androgenisation (habitus, hair, breasts),
+spermatogenic mass (testis size) and ductal integrity (epididymis, vas, seminal vesicles) — each points to a
+different compartment of the reproductive tract.
+
+LABORATORY EVALUATION OF MALE INFERTILITY
+ • Three assessments: endocrine evaluation, semen analysis (the only direct appraisal of the gametes) and
+   genomic assessment (a growing field).
+
+Endocrine Evaluation
+ • Spermatogenesis depends on intratesticular T, so hypoandrogenism is associated with infertility.
+   Adequate androgenisation threshold: 280 or 300 ng/dL total T.
+ • Low T is common in men with spermatogenic azoospermia, in oligospermia, and even in a substantial
+   share of clinic men with density above 20 million/mL (the 4th-edition WHO threshold).
+ • Most men with density ≤22 million/mL do not conceive within a year, so many below it have pathology —
+   in about one-third, endocrinopathy. Therefore assess androgenisation in every man presenting with
+   infertility, including those above 20 million/mL.
+ • No upper limit exists above which endocrine dysfunction is excluded; the WHO 50th percentile (66
+   million/mL, 2021 analysis) is a reasonable guide above which a full endocrine evaluation is unnecessary.
+COMPARISON — CIRCULATING FORMS OF TESTOSTERONE (HEALTHY MAN)
+ Form                              Binding            Share of total T                   Bioavailable?
+ SHBG-bound                        Tight              30–44%                             No
+ Albumin-bound                     Loose              54–68%                             Yes
+ Free                              Unbound            0.5–3.0%                           Yes
+
+ • Bioavailable T = free + albumin-bound. With T 300 ng/dL and a lower bioavailable fraction of 54.5%, the
+   lower limit of bioavailable T is about 164 ng/dL.
+ • SHBG varies with disease and age (Box 69.1) → total T cannot gauge bioavailable T. Free T assays are
+   difficult → calculate bioavailable T from total T, SHBG and albumin (Vermeulen formula); the
+   International Society for the Study of the Aging Male provides an online calculator.
+BOX 69.1 CONDITIONS ASSOCIATED WITH ALTERED SEX HORMONE–BINDING GLOBULIN (SHBG)
+CONCENTRATIONS
+ Decreased SHBG                                                    Increased SHBG
+ Obesity                                                           Ageing
+ Nephrotic syndrome                                                Hepatic cirrhosis and hepatitis
+ Hypothyroidism                                                    Hyperthyroidism
+ Glucocorticoids, progestins, androgenic steroids                  Anticonvulsant therapy
+ Acromegaly                                                        Oestrogen therapy
+ Diabetes mellitus                                                 Human immunodeficiency virus disease
+
+
+
+
+                                                    page 9 of 23
+Chapter 69 — Male Infertility                                                          LABORATORY EVALUATION OF MALE INFERTILITY
+
+
+Modified from Bhasin et al., Endocrine Society clinical practice guideline, 2010.
+ • Pattern: the "↓" column is dominated by insulin-resistant and androgen/glucocorticoid-exposed states;
+   the "↑" column by ageing, liver disease and oestrogenic states.
+ • Trap: in obesity total T under-reads androgen status; in ageing, cirrhosis or HIV total T over-reads it.
+COMPARISON — CIRCADIAN RHYTHMS
+ Measure           Young healthy men                                                  Older men
+ Total T           Peak early morning, trough late afternoon                          Level and rhythm attenuated
+ SHBG              Opposite: peak late afternoon, trough early morning (all           Same opposing rhythm
+                   ages)
+ Bioavailable      Marked rhythm, early-morning peak                                  Rhythm and level substantially
+ T                                                                                    diminished
+
+ • Sample in the morning in all men to standardise; timing matters most in younger men.
+ • LH localises hypoandrogenism: ↑ LH → testicular (Leydig) failure; ↓ LH → pituitary. LH may be drawn
+   after a low T or simultaneously.
+ • T and LH are pulsatile: investigate borderline values with 3 morning samples at 20-minute intervals,
+   assayed separately and averaged (historically pooled).
+ • Sertoli cells secrete inhibin B (inhibits) and activin (stimulates) follicle-stimulating hormone (FSH). Germ-
+   cell loss → ↓ inhibin → ↑ FSH; FSH is thus an indirect index of germ-cell mass.
+COMPARISON — AZOOSPERMIA: OBSTRUCTION VERSUS SPERMATOGENIC DYSFUNCTION (FSH AND
+CALIPER CRITERIA)
+                                   Obstructive azoospermia                        Spermatogenic dysfunction
+ FSH                               ≤7.6 IU/L                                      >7.6 IU/L
+ Testis long axis (caliper)        >4.6 cm                                        ≤4.6 cm
+ Accuracy                          Combined FSH and caliper long axis accurately predict the cause of azoospermia
+
+ • When sperm are present, the odds of abnormal concentration rise sharply at FSH 4.5 IU/L — a second,
+   lower threshold.
+COMPARISON — SERTOLI-CELL MARKERS OF SPERMATOGENESIS
+ Marker      Nature                                 Status
+ FSH         Pituitary; indirect                    Standard, clinically useful
+ Inhibin     Sertoli product; direct                Often slightly more accurate, especially at low ranges; increment small
+ B                                                  → choose FSH or inhibin B by cost and availability
+ AMH         Sertoli product; transforming          Encouraging pilot data, small sets → experimental
+             growth factor-β family
+
+ • Aromatase (testis, adipose tissue, liver, brain) converts T to oestrogens. Elevated E2 is proposed to impair
+   fertility; a T (ng/dL) to E2 (pg/mL) ratio <10:1 suggests dysfunction.
+ • E2 cuts both ways: low E2 may also impair fertility; E2 is inhibitory in somatic cells but stimulatory in
+   germ cells (dose-dependent, non-additive proliferation), and absent aromatase causes dysfunctional
+   spermatogenesis.
+ • Prolactin inhibits gonadotropins and T; raised by pituitary hyperplasia, adenoma or tumour. Assay it when
+   visual field change, headache or erectile dysfunction accompany infertility, especially with low T.
+   Clinically significant prolactinoma is very rare in infertile men → not a routine initial test. Prolactin is
+   labile — repeat if raised.
+
+
+
+
+                                                             page 10 of 23
+Chapter 69 — Male Infertility                                                    LABORATORY EVALUATION OF MALE INFERTILITY
+
+
+ • Thyroid-stimulating hormone, adrenocorticotropic hormone or growth hormone: only if a space-
+   occupying pituitary lesion is suspected; thyroid, cortisol or growth hormone assays if signs appear
+   (exophthalmos, striae, moon facies, facial bony change) — not in initial screening.
+ • Congenital adrenal hyperplasia (CAH): testicular adrenal rest tumours and later infertility; monitor
+   therapy with 17-hydroxyprogesterone, Δ4-androstenedione, renin and T.
+Initial endocrine screen (morning): total T + SHBG + albumin (calculate bioavailable T) → LH and FSH
+(pituitary) → E2 (aromatisation).
+Concept — one morning sample reads the whole axis: bioavailable T says whether there is a deficit, LH says
+where it arises, FSH (or inhibin B) says how much germ-cell mass remains, and E2 says whether
+aromatisation is distorting the loop.
+
+Evaluation of Semen
+ • Reproduction is probabilistic: the more viable sperm, the greater the chance of fertilisation. The only
+   definitive result is azoospermia — only then is a man absolutely sterile.
+ • MacLeod (1951): first rigorous statistical comparison of semen from fertile and infertile men (cumulative
+   probability histograms, quartiles for concentration, motility, shape). The distributions largely overlap. Low
+   values suggest infertility, but values above a threshold do not confirm fertility.
+ • The field wrongly assumes a man above threshold (e.g. >15 million/mL) is fertile; the converse does not
+   hold.
+ • Remedy for overlapping distributions: two thresholds — below the lower, subfertility is probable; above
+   the upper, fertility is probable; between, no prediction. Guzick (2001) used classification and regression
+   tree (CART) analysis on fertile men versus men whose wives underwent intrauterine insemination (IUI)
+   with female factor largely excluded.
+Bulk Semen Parameters and the World Health Organization Criteria
+ • WHO laboratory manual editions 1–4: thresholds by expert panel and survey (e.g. 20 million/mL) —
+   fertile men fall below and infertile men above.
+ • 5th and 6th editions: percentile tables of men whose partners conceived within 1 year of stopping
+   contraception (Table 69.2). Limitations: derived from a fertile, not infertile, population, and descriptive
+   statistics cannot predict outcome.
+ • The 6th edition also lists 5th percentiles with 95% confidence intervals (CIs), which has spurred their
+   misuse as new thresholds. Best use: show the patient his values against a fertile reference. Pragmatically,
+   communicate the 5th percentile as likely infertility and the 50th as typical of conception within a year.
+TABLE 69.2 BULK SEMEN ANALYSIS PARAMETER PERCENTILES
+ Parameter                                                             2.5th       5th (95% CI)                50th
+ Semen volume (mL)                                                     1.0         1.4 (1.3–1.5)               3.0
+ Sperm concentration (million/mL)                                      11          16 (15–18)                  66
+ Total number (million/ejaculate)                                      29          39 (35–40)                  210
+ Total motility (%)                                                    35          42 (40–43)                  64
+ Progressive motility (%)                                              24          30 (29–31)                  55
+ Normal forms (%)                                                      3           4 (3.9–4.0)                 14
+ Vitality (%)                                                          45          54 (50–56)                  78
+Modified from Campbell et al., Distribution of semen examination results 2020, Andrology 2021 (WHO 6th edition data).
+ • What the table is for: locating a patient against men who conceived within a year — a reference, not a
+   diagnostic cut-off.
+
+
+
+                                                       page 11 of 23
+Chapter 69 — Male Infertility                                                           LABORATORY EVALUATION OF MALE INFERTILITY
+
+
+ • Trap: treating the 5th percentile as a pass/fail line; a value above it does not confirm fertility.
+COMPARISON — SEMEN REFERENCE SYSTEMS
+                                Legacy WHO        WHO 6th: 5th / 50th         Guzick CART: subfertile below /      Guzick ROC
+ Parameter                      (1st–4th)         percentile                  fertile above                        AUC
+ Concentration                  20                16 / 66                     13.5 / 48.0                          0.60
+ (million/mL)
+ Motility (%)                   —                 30 / 55 (progressive)       32 / 63                              0.59
+ Strict morphology (%)          —                 4 / 14                      9 / 12                               0.66
+ Volume (mL)                    —                 1.4 / 3.0 (practical        —                                    —
+                                                  threshold 1.0)
+ Total count (million)          —                 39 / 210                    —                                    —
+
+ • Pattern: every parameter has an AUC near 0.6 — poor discrimination; morphology is marginally the best
+   of three weak discriminators.
+ • Semen is highly variable: obtain at least 2 analyses, 2–3 weeks apart, with constant abstinence, since
+   parameters decline as abstinence lengthens.
+COMPARISON — ABSTINENCE INSTRUCTIONS
+ Historical (WHO)                                            Current evidence
+ 2–7 days after the last ejaculation                         1–2 days — parameters peak, then decline
+
+ • Collect into a non-toxic wide-mouthed glass or plastic cup; if religion or culture forbids masturbation, use
+   a special non-toxic condom.
+Macroscopic sequence: semen forms a coagulum → liquefy 30 minutes → viscosity by pipette aspiration
+(drop thread ≤2 cm) → colour inspection → microscopy in a defined-volume chamber (haemocytometer or
+Makler chamber).
+SEMEN COLOUR
+ Colour                                      Meaning
+ White or light grey                         Normal
+ Yellow or green                             Infection, jaundice, vitamins or medication
+ Brown                                       Often spinal cord injury
+ Red                                         Blood
+
+ • Semen pH is no longer recommended: altered by environment, and its original use to detect obstruction
+   is undermined by the vast size difference between a hydrogen ion and a sperm head.
+Semen Volume
+ • Often unreported by low-volume laboratories, yet clinically important.
+CAUSES OF SEMINAL HYPOVOLAEMIA (AND ASPERMIA)
+ Category                 Causes
+ Anatomical               EDO; prostatic and seminal vesicle hypoplasia (severe androgen deficiency, CBAVD)
+ Functional               Retrograde ejaculation
+ Neurological             SCI, DM, MS
+ Pharmacological          α-adrenergic blockers (e.g. tamsulosin)
+
+ • Practical threshold to start evaluating hypovolaemia: 1.0 mL (the 2.5th percentile).
+
+
+
+
+                                                             page 12 of 23
+Chapter 69 — Male Infertility                                                    LABORATORY EVALUATION OF MALE INFERTILITY
+
+
+ • Aspermia (dry ejaculate, anejaculation): no fluid at orgasm; same causes.
+Aspermia or hypovolaemia work-up: void → ejaculate for semen analysis → void again into a separate
+container → centrifuge urine and count sperm in the pellet (postejaculatory urinalysis) → plus transrectal
+ultrasonography (TRUS) or equivalent for EDO.
+ • Few urinary sperm with a large antegrade count are of little consequence; retrograde ejaculation is
+   clinically significant when urinary sperm near or exceed antegrade sperm.
+ • Hypervolaemia (>5 mL) is rare; thought to dilute sperm → process into a smaller volume and perform IUI.
+Sperm Density
+ • Reported in million/mL. Oligospermia (oligozoospermia) = low density; cryptozoospermia = too few to
+   measure reliably.
+ • The legacy 20 million/mL threshold was often taken to define oligospermia.
+ • Oligospermia is now defined in clinical context: a man with one sample of 10 million/mL who
+   impregnates his wife easily may not be oligospermic, whereas one with small testes, raised FSH and
+   repeated 20–25 million/mL reasonably is.
+ • Total sperm count = volume × density (millions).
+Sperm Motility
+ • Assess within 30 minutes of liquefaction; low motility = asthenospermia (asthenozoospermia).
+ • WHO 6th categories: progressive ("moving actively, either linearly or in a large circle, regardless of
+   speed"), non-progressive (all other movement without progression), immotile.
+Sperm Morphology
+ • Human sperm are highly pleomorphic — bizarre forms outnumber well-formed ones in any man. Excess
+   abnormal forms = teratospermia (teratozoospermia).
+ • Earlier WHO criteria were generous yet still classed most sperm abnormal. Kruger (strict, Tygerberg)
+   morphology: several features assessed, and any one out of range makes the sperm abnormal →
+   thresholds around 5% characterise a normal ejaculate. The WHO 6th edition adopted strict morphology.
+ • Predictive value is questionable: possibly linked to embryo formation, but most studies show strict
+   morphology is unrelated to sperm nuclear integrity and does not predict natural conception, IUI or IVF
+   outcome.
+ • Technicians scrutinising more closely report ever-lower normal percentages → many men now labelled
+   with isolated teratozoospermia likely have adequate fertility.
+ • Specific monomorphic defects clearly matter: globozoospermia (acrosome fails to form → small round
+   heads); pinhead sperm (basal plate fails to attach to the nucleus opposite the acrosome during
+   spermiation → heads absorbed, tails only).
+Sperm Vitality
+ • Vitality = proportion of metabolically active living sperm; many dead sperm = necrospermia
+   (necrozoospermia).
+ • Essential with near-total or total asthenospermia, to distinguish cell death from a defect of motility
+   machinery.
+COMPARISON — VITALITY TESTS
+                   Eosin Y ± nigrosin                                  Hypo-osmotic swelling (HOS) test
+ Principle         Live sperm exclude eosin; dead sperm absorb it;     Live sperm with intact membranes show tail
+                   nigrosin darkens the background for contrast        swelling within 5 minutes in hypo-osmotic
+                                                                       medium
+
+
+
+                                                       page 13 of 23
+Chapter 69 — Male Infertility                                                   LABORATORY EVALUATION OF MALE INFERTILITY
+
+
+                   Eosin Y ± nigrosin                                 Hypo-osmotic swelling (HOS) test
+ Sperm             Destroyed — diagnostic only                        Preserved — usable for IVF/ICSI
+ afterwards
+
+Concept — the semen analysis is a probability estimate, not a verdict: fertile and infertile distributions
+overlap, so a low value suggests infertility, a normal value never proves fertility, and only azoospermia is
+definitive.
+
+Genomic Assessment
+ • Irony: genes passed from father to son may cause a condition that, untreated, would stop them being
+   passed on; genetics plays a significant role in male reproductive dysfunction.
+Karyotype
+ • Methods: classical dye banding; fluorescence in situ hybridisation (FISH) with sequence-specific probes;
+   spectral karyotyping (SKY) colouring every chromosome.
+ • ASRM/AUA guideline (2021): genetic testing including karyotype in all men with azoospermia from
+   spermatogenic dysfunction and in severe oligospermia (<5 million/mL).
+ • Anomaly rates vary by region and cost may be significant → the physician may judge its indication in his or
+   her population.
+Y Chromosome Microdeletion Testing
+ • The Y is among the smallest chromosomes (about 60 megabase pairs), determines male sex, and is the
+   only chromosome passed directly father to son; it has a male-specific region and two pseudoautosomal
+   regions (PAR1, PAR2).
+ • Tiepolo and Zuffardi (1976) located a region on the long arm (Yq) critical for spermatogenesis — the
+   azoospermia factor (AZF).
+ • About 95% of the Y does not recombine; about a third of that is amplicons (palindromic repeats) — a
+   substitute repair mechanism that also creates fragility → microdeletions.
+COMPARISON — AZOOSPERMIA FACTOR REGIONS
+ Region                Position                                 Genes              Surgical sperm retrieval
+ AZFa                  Distant and isolated                     USP9Y, DDX3Y       Complete deletion → essentially nil
+ AZFb                  Overlaps AZFc                            EIF1AY, RPS4Y2,    Complete deletion → essentially nil
+                                                                KDM5D
+ AZFc                  Overlaps AZFb; proximal part sometimes   DAZ genes          Impairment, not failure; sperm
+                       called AZFd (utility unclear)                               often in ejaculate or testis
+ gr/gr (AZFc           Within AZFc                              —                  Clinical relevance unclear
+ subregion)
+
+ • Reasonable to test azoospermic men before surgical sperm extraction to counsel on retrieval odds —
+   equally reasonable to omit, given the rarity of AZFa and AZFb deletions.
+Cystic Fibrosis Transmembrane Conductance Regulator Mutation Assessment
+ • CFTR encodes a chloride (and possibly bicarbonate) channel that may regulate other ions.
+ • More than 1600 mutations, classed mild or severe by whether full CF results. Commonest severe: ΔF508
+   — a 3-base-pair deletion removing phenylalanine at position 508. Many patients harbour more than one
+   mutation.
+ • A severe mutation on each allele → a child with CF → screening of both prospective parents is
+   imperative when CFTR alteration is suspected.
+
+
+
+
+                                                      page 14 of 23
+Chapter 69 — Male Infertility                                                          LABORATORY EVALUATION OF MALE INFERTILITY
+
+
+ • Screening panels cover 25–40 common mutations → a negative panel still carries residual risk; full-gene
+   testing exists but costs more.
+ • Prevalence varies by ethnicity and geography → interpret with location and ethnicity; reports are usually
+   ethnicity-stratified.
+
+ KEY POINTS: LABORATORY EVALUATION OF MALE INFERTILITY
+   • Endocrine assessment includes total T, the portion not bound to SHBG, E2, and LH and FSH.
+   • The semen analysis is a probabilistic assessment; aside from azoospermia, no threshold absolutely
+     separates fertility from infertility.
+   • Semen volume <1.0 mL: differential includes EDO, retrograde ejaculation, and vasal and accessory
+     gland maldevelopment (CBAVD).
+   • Vitality staining distinguishes complete asthenospermia from necrospermia; common staining
+     methods distinguish pyospermia from immature germ cells.
+   • Globozoospermia (round heads) indicates deficient acrosome formation; treatment is IVF with ICSI.
+   • Blood–testis barrier disruption causes antisperm antibodies, whose significance depends on the
+     degree of binding to sperm heads.
+   • CFTR screening of men with CBAVD and their partners identifies severe mutations such as ΔF508 that
+     may cause overt CF in offspring.
+
+Concept — genetic tests are chosen by phenotype — karyotype and Y microdeletions for failed or severely
+impaired production, CFTR for absent or obstructed ducts — and their yield is counselling on retrieval odds
+and offspring risk rather than treatment.
+
+IMAGING IN THE EVALUATION OF MALE INFERTILITY
+ • Imaging is infrequently needed and should be ordered cautiously: incidental benign findings such as
+   testicular microlithiasis cause distress and unnecessary testing. The description here is not an indication
+   for routine screening.
+
+Transrectal Imaging
+ • Consider EDO when azoospermia accompanies low semen volume.
+ • TRUS is the earliest and still most prevalent test. EDO signs: seminal vesicle anteroposterior diameter
+   >1.5 cm, with or without a midline prostatic cyst (Fig. 69.5 — intraprostatic cyst, transverse and
+   longitudinal views).
+ • TRUS has low specificity: EDO may exist without vesicle dilatation, and fertile men may have dilated
+   vesicles depending on abstinence.
+COMPARISON — INVESTIGATIONS FOR EJACULATORY DUCT OBSTRUCTION
+ Test                           Method                                                              Standing
+ TRUS                           Vesicle diameter, midline cyst                                      Convenient, common; low
+                                                                                                    specificity
+ Vesiculography                 Contrast injected directly into the seminal vesicles                More accurate in a small
+                                                                                                    series; invasive, costly
+ Seminal vesicle                Aspirate examined for sperm; ≥3 sperm per high-power field Useful for partial EDO
+ aspiration                     (400×) is positive
+ Chromotubation                 Diluted indigo carmine or methylene blue into the vesicles;         More accurate in a small
+                                cystoscopic check for dye at the verumontanum ductal                series; invasive, costly
+                                orifices
+
+
+                                                          page 15 of 23
+Chapter 69 — Male Infertility                                        IMAGING IN THE EVALUATION OF MALE INFERTILITY
+
+
+ Test                           Method                                               Standing
+ MRI; hydraulic pressure        —                                                    Additional options
+ measurement
+
+ • Any incremental accuracy of the invasive tests over TRUS, even if confirmed in larger studies, may not
+   justify the added risk and cost.
+
+ KEY POINT: IMAGING
+   • Imaging can reveal sequelae of genetic conditions (vasal absence, renal aplasia) and distinguish causes
+     of hypovolaemia such as EDO, but is infrequently necessary to diagnose varicocele or spermatogenic
+     dysfunction.
+
+Concept — imaging answers one narrow question — is the duct system obstructed or absent — and is not a
+screening tool, because its incidental findings do more harm than its yield.
+
+ASSISTED REPRODUCTION
+Methods for Sperm Selection
+ • ICSI needs only as many sperm as oocytes, and bypasses the natural barriers that normally select the
+   fittest sperm.
+ • Established: density gradient centrifugation and swim-up — yield fast-swimming sperm with better
+   morphology.
+ • Newer in vitro selection improves sperm quality but has no conclusive evidence of better reproductive
+   outcomes; chemoattractants, microfluidics and optical systems are under investigation.
+
+DIAGNOSES AND THERAPIES
+ • Pathophysiology remains incompletely understood and assessment is probabilistic, yet enough is known
+   to make reasoned judgements about whether a male cause exists, its basis and plausible therapy.
+
+Genetic Syndromes
+ • The human genome was completed in 2004; broad carrier panels exist and whole-genome sequencing is
+   used in research, but their use as general screening tools is limited by poor understanding of how
+   spermatogenic genes act in concert.
+Chromosomal Numerical Disorders
+ • Klinefelter syndrome (47,XXY) is the commonest identified genetic cause of male infertility; 1 in 500–
+   1000 live births.
+ • Adults: azoospermia in the great majority, small testes, raised gonadotropins; learning disability in most
+   children; low T in most men.
+ • Tall stature in only about 30% → Klinefelter cannot be excluded by examination.
+ • ↑ mediastinal germ cell tumours → broader testicular effects.
+ • Karyotype: non-mosaic 47,XXY in 80–90%; remainder mosaic 46,XY/47,XXY or extra/structurally
+   abnormal X.
+ • About 8% have ejaculated sperm; about 50% have testicular sperm retrievable for IVF/ICSI; earlier
+   diagnosis carries a better prognosis.
+ • Management trap: boys found after puberty with low T are often given exogenous T alone, suppressing
+   residual spermatogenesis. Because spermatogenesis declines progressively, some advocate surgical
+   sperm extraction in early to mid puberty, before T and aromatase inhibitor therapy.
+
+
+                                                 page 16 of 23
+Chapter 69 — Male Infertility                                                               DIAGNOSES AND THERAPIES
+
+
+Structural Chromosomal Anomalies
+ • Y microdeletions: see the AZF comparison — AZFa and AZFb leave no retrievable sperm; AZFc is of
+   unclear significance.
+ • Deletion carriers with oligozoospermia risk a progressive fall in concentration → consider sperm
+   cryopreservation.
+ • Ring Y chromosome, r(Y): terminal breaks in both arms with fusion; phenotype varies with material lost.
+   Autosomal karyotypic anomalies may also cause infertility.
+
+Testicular Causes
+ • Two compartments: seminiferous tubules (gametes) and interstitium (Leydig cells); both are needed, and
+   sperm must then exit. Hence three testicular causes: spermatogenic dysfunction, steroidogenic
+   dysfunction, microductal obstruction.
+Spermatogenic Dysfunction
+COMPARISON — HISTOLOGICAL PATTERNS OF SPERMATOGENIC DYSFUNCTION
+ Pattern                            Meaning
+ Hypospermatogenesis                All stages present, production reduced
+ Maturation arrest                  Sequence halts at a premeiotic, meiotic or postmeiotic step
+ Sertoli cell–only syndrome         Complete loss of spermatogonia
+
+ • Histopathology is the present means of assessment; genomic, proteomic and metabolomic markers are
+   anticipated.
+ • In azoospermia, the FSH and caliper criteria (Laboratory Evaluation) identify spermatogenic dysfunction.
+Antisperm antibodies
+ • Sertoli tight junctions form the blood–testis barrier, protecting haploid germ cells; disruption exposes
+   spermatids and spermatozoa to antibody formation → agglutination, impaired motility, reduced
+   fertilising potential.
+ • Causes: obstruction (e.g. after vasectomy); inflammation (orchitis, prostatitis, sexually transmitted
+   infection); heat (varicocele, cryptorchidism, hot tubs); trauma and torsion; genetic (thymic
+   maldevelopment, HLA-B28 haplotype).
+ • Treatment: condoms and sperm washing lack good evidence — washing removes unbound antibody, but
+   the relevant antibody is bound. Corticosteroids: two controlled trials conflict. IVF and ICSI have become
+   the common treatment.
+Steroidogenic Dysfunction
+ • Hypergonadotropic (primary) hypogonadism = impaired T synthesis from Leydig cell dysfunction: ↑ LH,
+   ↓ T.
+ • Leydig failure may coexist with pituitary insufficiency → low T with variable, non-elevated LH; ageing
+   combines falling androgen with a blunted pituitary response.
+ • Intratesticular steroidogenesis is an absolute requirement, especially for postmeiotic maturation.
+ • Klinefelter men often have low T, but Leydig failure may not be the only mechanism. Genetic causes: LH
+   receptor mutations (humans), FSH receptor deficiency (mice); others — orchitis, cytotoxic
+   chemotherapy, environmental toxicants.
+ • No accepted therapy. Exogenous T is not indicated — it cannot achieve intratesticular levels and
+   suppresses LH.
+ • Azoospermia + low T + markedly raised LH, desiring paternity → surgical sperm extraction.
+
+
+
+                                                  page 17 of 23
+Chapter 69 — Male Infertility                                                                  DIAGNOSES AND THERAPIES
+
+
+Microductal Obstruction
+ • Congenital or acquired obstruction of the epididymis or scrotal vas; bilateral → azoospermia.
+ • Unilateral obstruction: parameters may or may not fall, depending on the other testis; if the obstructed
+   side has good spermatogenesis and the contralateral testis is impaired, parameters fall and microductal
+   reconstruction may be indicated.
+ • Herniorrhaphy, especially with mesh, can obstruct the inguinal vas; bilateral occlusion → azoospermia.
+   Reconstruction: Chapter 70.
+Fig. 69.11 Algorithm for evaluation of azoospermia
+Azoospermia → bilateral absence of vasa? Yes → CFTR panel for patient and female partner.
+No → semen volume <1 mL? Yes → sperm absent on postejaculatory urinalysis? No (sperm present) →
+retrograde ejaculation; Yes → TRUS for EDO.
+Volume normal → long axis >4.6 cm and FSH ≤7.6 IU/L → obstruction likely; long axis ≤4.6 cm and FSH >7.6
+IU/L → spermatogenic dysfunction likely.
+Concept — the testis fails in one of three places — germ cells, Leydig cells or the outflow ducts — and FSH,
+LH and testis size together localise the failure, which then dictates whether reconstruction, retrieval or neither
+is the answer.
+
+Pituitary Dysfunction
+ • LH drives Leydig steroidogenesis; FSH drives spermatogenesis via Sertoli cells. Suppression of either,
+   intrinsic or external, impairs spermatogenesis.
+Hypogonadotropic Hypogonadism
+ • = decreased pituitary gonadotropin secretion. Kallmann syndrome: anosmia with hypogonadotropic
+   hypogonadism (Kallmann and Schoenfeld, 1944); about 1 in 10,000 males; inheritance most often
+   autosomal recessive, also autosomal dominant and X-linked recessive.
+ • Genes: KAL1 (anosmin-1, neurotropic factor in embryogenesis), GNRHR (gonadotropin-releasing hormone
+   [GnRH] receptor), PIT1, PROP1, GPR54 (kisspeptin receptor), homeobox HESX1, LHX3, LHX4; about 10%
+   carry GNRHR or KAL1 mutations.
+COMPARISON — HYPOGONADOTROPIC STATES
+ Condition                      Hormones                       Phenotype                Treatment
+ Kallmann / complete            ↓ LH, ↓ FSH                    Hypoandrogenism,         hCG ± rFSH or hMG
+ HH                                                            azoospermia, ± anosmia
+ Isolated LH deficiency         ↓ LH, normal FSH               Hypoandrogenised but     Replace LH activity (hCG)
+ ("fertile eunuch")                                            produces sperm
+ Isolated FSH                   ↓ FSH, normal LH               Androgenised but low     Replace FSH
+ deficiency                                                    sperm
+ Isolated hypothalamic ↓ GnRH                                  Hypogonadotropic         Pulsatile subcutaneous GnRH
+ GnRH deficiency                                                                        pump every 2 hours, ≥6
+                                                                                        months
+ Partial HH (common)            LH above Kallmann range but    Hypoandrogenism          SERMs or aromatase
+                                inappropriately low for the                             inhibitors
+                                low T
+
+
+
+
+                                                          page 18 of 23
+Chapter 69 — Male Infertility                                                                         DIAGNOSES AND THERAPIES
+
+
+COMPARISON — DRUGS FOR HYPOGONADOTROPIC HYPOGONADISM
+ Agent                     Class / role          Regimen                      Notes
+ Human chorionic    LH replacement               1500–5000 IU IM or SC      May initiate spermatogenesis alone
+ gonadotropin (hCG)                              2–3 times weekly; max
+                                                 10,000 IU/week; titrate to
+                                                 serum T
+ Human                     FSH (with LH-like)    75 IU 2–3 times weekly,      Can be withdrawn months after
+ menopausal                activity              usually SC                   spermatogenesis returns
+ gonadotropin
+ (hMG)
+ Recombinant FSH           FSH replacement       —                            As hMG
+ (rFSH)
+ GnRH                      Hypothalamic          SC portable pump every 2 Courses ≥6 months
+                           replacement           hours
+ Clomiphene citrate        Selective oestrogen   25 mg daily or 50 mg         FDA-approved for women only; off-label in
+                           receptor modulator    alternate days; titrate to   men >40 years; ↑ T without PSA or
+                           (SERM)                T, max 100 mg daily          haematocrit change; target normal T or
+                                                                              600–800 ng/dL
+ Tamoxifen                 SERM                  —                            Pituitary stimulation
+ Anastrozole               Aromatase inhibitor   1 mg daily                   Dosing not standardised
+ Letrozole                 Aromatase inhibitor   —                            As anastrozole
+
+ • Men diagnosed late, after years of exogenous androgen, may need 1–2 years of gonadotropins before
+   ejaculated sperm appear.
+Prader-Willi syndrome
+ • Infantile failure to thrive with poor suck, then loss of satiety in early childhood → marked obesity if
+   uncontrolled; about 1 in 15,000–30,000.
+ • Features: hypogonadism, small testes, dysmorphic facies, growth hormone deficiency (short stature,
+   small hands and feet), pain insensitivity, obsessive-compulsive traits; hypogonadism and growth hormone
+   deficiency presumed hypothalamic.
+ • Cause: loss of paternally expressed genes at 15q11–q13 through failed imprinting (normally maternal
+   copies silenced, paternal active; in Prader-Willi the paternal copies are also inactive).
+Pituitary Tumors and Diseases
+ • Sellar lesions — secretory and non-secretory tumours, craniopharyngioma — compress the anterior
+   pituitary → variable LH/FSH suppression.
+ • Prolactinoma is the commonest relevant pituitary tumour, often with erectile dysfunction, but rare in
+   infertile men → routine prolactin in asymptomatic men is questionable.
+ • Prolactin 20–50 µg/L: no further evaluation; significant elevation → cranial MRI.
+ • Non-surgical prolactinoma: dopamine agonists bromocriptine or cabergoline — cabergoline has fewer
+   side effects.
+Other Pituitary Lesions
+ • Infiltration: infective granulomas, sarcoidosis, histiocytosis; iron deposition (haemochromatosis,
+   repeated transfusion).
+ • Systemic: morbid obesity, chronic malnutrition, type 2 DM. Treat the underlying condition.
+
+
+
+
+                                                        page 19 of 23
+Chapter 69 — Male Infertility                                                                     DIAGNOSES AND THERAPIES
+
+
+Extrapituitary Endocrine Modulators
+ • Exogenous androgens (especially T) suppress gonadotropins; cannabis, antipsychotics, opioids and
+   environmental toxicants inhibit the pituitary via oestrogenic and dopaminergic pathways → remove the
+   agent.
+ • CAH, especially milder forms presenting in adolescence or adulthood → hypogonadotropic hypogonadism
+   plus frequent testicular adrenal rest tumours. Corticosteroids may restore fertility, but the long course
+   needed for spermatogenesis brings weight gain and skin changes.
+Concept — gonadotropin deficiency is the most reliably treatable cause of male infertility because the testis
+itself is normal: replace the missing upstream signal — hCG for LH, FSH for FSH, pulsatile GnRH for
+hypothalamic failure, or unblock feedback with a SERM or aromatase inhibitor — and spermatogenesis
+follows.
+
+Extratesticular Endocrine Dysfunction
+ • E2 inhibits gonadotropin release; drugs raising E2 cause hypogonadotropic hypogonadism → substitute
+   another agent where possible.
+ • Obesity: aromatase-rich adipose raises E2; other suspected links — the "neohormones" leptin and
+   kisspeptin, diabetes, sleep apnoea — with or without hypogonadotropism.
+ • A large family cohort showed a dose-response relationship between BMI and male infertility, confirmed
+   elsewhere.
+ • Obesity also lowers LH pulse amplitude and blunts testicular response to LH.
+ • Weight loss: rodent diet-and-exercise data positive; human data sparse and inconclusive — still prudent
+   to recommend given certain general health benefit. Male obesity worsens clinical pregnancy, miscarriage
+   and live birth rates in assisted reproduction.
+ • Aromatase inhibitors (anastrozole, letrozole, testolactone) raise T and lower E2; limited data suggest
+   semen improves. Proposed indication: T (ng/dL) : E2 (pg/mL) <10:1 = aromatase overactivity.
+ • Caution with long-term aromatase inhibitors: male bone density may be E2-dependent, and long-term
+   data are lacking.
+COMPARISON — ANDROGEN RECEPTOR DEFECTS VERSUS 5Α-REDUCTASE TYPE 2 DEFICIENCY
+                 Androgen receptor (AR) mutation                     5α-reductase type 2 deficiency
+ Locus           Xq11–12                                             2p23
+ Mechanism Receptor insensitivity; longer CAG repeat in              No conversion of T to dihydrotestosterone, which
+           exon 1 associated with infertility                        builds external male genitalia
+ Spectrum        Complete testicular feminisation → isolated         Female → male phenotype
+                 male infertility
+ Hormones        ↑ T, ↑ E2, ↑ LH (variable), normal FSH              —
+ Clue            Markedly high T with impaired fertility →           Phenotypic females may harbour testes with intact
+                 suspect AR resistance                               spermatogenesis
+ Treatment       High-dose T (limited data); ICSI with ejaculated    No medical treatment; ICSI pregnancies reported
+                 or testicular sperm
+
+Concept — here the defect lies outside the gonad — excess oestrogen silencing the pituitary, or a target
+tissue deaf to androgen — so the laboratory signature (a low T:E2 ratio, or high T with high LH) points
+straight at the lesion.
+
+Developmental Disorders
+ • Maldevelopment of the testes, external genitalia and microductal system may present as adult infertility
+   (disorders of sex development, hypospadias, epispadias: Chapters 43, 55, 56, 59, 60).
+
+
+                                                         page 20 of 23
+Chapter 69 — Male Infertility                                                                 DIAGNOSES AND THERAPIES
+
+
+Cryptorchidism
+ • The most significant prognostic feature is laterality — unilateral or bilateral.
+Microductal Aplasia
+ • The vas may fail on one or both sides; the pathophysiology differs.
+COMPARISON — CONGENITAL UNILATERAL VERSUS BILATERAL ABSENCE OF THE VAS DEFERENS
+                       Unilateral (CUAVD)                                 Bilateral (CBAVD)
+ Basis                 Ipsilateral wolffian (mesonephric) duct failure;   CFTR mutation spectrum (mild alleles),
+                       epididymis and ejaculatory duct may also be        or unidentified mesonephric genes
+                       malformed
+ Key association       Ipsilateral renal agenesis (renal and wolffian     CF / CF carrier state; renal agenesis in a
+                       development coupled)                               minority
+ Work-up               Renal ultrasound                                   CFTR testing of man and partner; renal
+                                                                          ultrasound
+ Spermatogenesis Depends on the other side                                Typically normal
+ Fertility route       Contralateral system                               Surgical sperm retrieval with ICSI
+
+Congenital Bilateral Absence of the Vas Deferens
+ • Oates and colleagues (early 1990s): men with CBAVD have a high frequency of CF-associated mutations,
+   and nearly all men with CF lack both vasa → CBAVD is often a genital form of CF.
+ • Two genetic causes: CFTR mutations and alterations in other mesonephric duct genes.
+ • Severe mutations on both alleles → CF; a mild mutation on one or both → CBAVD.
+ • CF carrier frequency about 1 in 20 in northern Europeans → test the female partner as well.
+ • Mild chronic sinus or respiratory symptoms may be overlooked — the urologist may be the first to
+   uncover indolent CF.
+ • ICSI with surgically extracted sperm is typically effective; one study reported more miscarriage and
+   stillbirth with sperm from CFTR-mutation CBAVD men.
+ • Genetic counselling (urologist or clinical geneticist) using both partners' CFTR results explains offspring CF
+   risk and carrier implications.
+Varicocele
+ • Imaging is not recommended for screening; diagnosis is clinical.
+ • Most men with varicocele have sperm, and female-partner confounders make pregnancy effects
+   intractable to study — yet substantial evidence links varicocele to spermatogenic dysfunction.
+ • Anatomy: the left internal spermatic vein enters the left renal vein 8–10 cm higher than the right enters
+   the vena cava → taller hydrostatic column → left valve incompetence → varicoceles commoner on the
+   left.
+ • With sensitive techniques (contact thermography, Doppler, venography) most are bilateral; clinical
+   significance of these is uncertain.
+ • Isolated right varicocele is rare → consider renal pathology such as tumour, especially if of abrupt onset.
+ • Origin: venous valvular incompetence; familial clustering in first-degree relatives suggests genetic
+   predisposition.
+ • Evidence of harm: poorer bulk parameters; smaller testes with progressive atrophy.
+
+
+
+
+                                                          page 21 of 23
+Chapter 69 — Male Infertility                                                                         DIAGNOSES AND THERAPIES
+
+
+MECHANISMS OF VARICOCELE INJURY
+ Mechanism                      Detail
+ Heat (primary)                 Loss of countercurrent heat exchange in the pampiniform plexus → ↑ intratesticular
+                                temperature
+ Oxidative stress               ↑ seminal oxidative stress → DNA fragmentation
+ Hypoperfusion and              Hypoxia and toxin accumulation
+ stasis
+ Apoptosis                      Apoptosis-associated microRNA raised in seminal fluid
+ Other                          Aneuploidy predisposition; intracellular metabolic and ionic change
+
+ • Repair improves semen parameters, pregnancy and live birth rates, and sperm DNA fragmentation in
+   most infertile men with clinical varicocele; in couples using assisted reproduction it may permit less
+   invasive treatment.
+ • Do not repair a non-palpable varicocele detected only on ultrasound — no benefit for semen or
+   pregnancy. Varicocelectomy: Chapter 70.
+Concept — varicocele is common in fertile men yet over-represented in infertile men, so it is a risk factor
+rather than a sentence: repair is reserved for palpable varicoceles with abnormal semen, where heat and
+oxidative injury are demonstrable and correction helps.
+
+Ejaculatory Dysfunction
+ • Anatomical, functional or neuropathic → absent emission, resistance or misdirection. Three clinical
+   categories: EDO, retrograde ejaculation, anejaculation (treatment of the latter two: Chapters 70 and 74).
+Ejaculatory Ductal Obstruction
+ • Anatomy: ejaculatory ducts are intraprostatic extensions of the seminal vesicles without their
+   musculature — simple conduits. The vasal ampulla joins medially at an acute angle; the duct ends angled
+   at the verumontanum, whose two longitudinal muscle layers extend into the urethra.
+ • EDO causes <5% of azoospermia. Idiopathic EDO carries CFTR mutations in about half → offer genetic
+   evaluation.
+ • Causes: infection, inflammation, prior surgery, compression by congenital cysts, anywhere along the
+   intraprostatic course.
+ • Evaluate when semen volume <1.0 mL (investigations: Imaging). Partial EDO: severe oligospermia or
+   azoospermia, ↓ motility, ↓ volume.
+Treatment: clinically significant EDO amenable to surgery → transurethral resection of the ejaculatory ducts
+(TURED) → depth guided by synchronous TRUS to avoid rectal injury → outcomes: relief of painful
+ejaculation and haematospermia, ↑ volume, improved semen quality (Chapter 70).
+
+Structural Sperm Abnormalities
+ • Most sperm in fertile men are eccentrically shaped, so ordinary variation is hard to quantify clinically;
+   certain rare discrete defects have overt consequences.
+COMPARISON — DISCRETE STRUCTURAL SPERM DEFECTS
+ Defect                    Morphology            Genetics                         Aneuploidy Treatment
+ Globozoospermia           No acrosomal cap      SPATA16 (3q26.32), PICK1         Debated      IVF with ICSI (no acrosome
+                           → round heads         (22q12.3–q13.2), DPY19L2                      reaction possible); assisted
+                                                 (12q14.2); SPATA16 and PICK1                  oocyte activation proposed
+                                                 localise to proacrosomal
+                                                 granules
+
+
+
+
+                                                            page 22 of 23
+Chapter 69 — Male Infertility                                                                  DIAGNOSES AND THERAPIES
+
+
+ Defect                    Morphology            Genetics                      Aneuploidy Treatment
+ Macrocephaly              Large heads,          Homozygous 1-bp deletion in   Very high   ICSI not recommended
+                           multiple tails,       AURKC (meiotic segregation,
+                           abnormal              cytokinesis)
+                           acrosomes
+ Pinhead sperm             Tails only; heads     Basal plate fails to attach   —           —
+                           absorbed              opposite the acrosome
+ Primary ciliary           Immotile (to          Autosomal recessive            —          ICSI; ejaculated, epididymal
+ dyskinesia (PCD)          completely static),   (occasionally X-linked); DNAH5            or testicular sperm —
+                           defective             and DNAI1 account for a large             immotile testicular sperm
+                           morphology            share                                     fertilise better
+
+Primary Ciliary Dyskinesia
+ • Disrupted microtubular architecture of cilia; the sperm tail shares it → immotile sperm, congenital heart
+   disease, chronic respiratory and ear–nose–throat infection, laterality defects.
+ • About 1 in 15,000–30,000 live births.
+
+ KEY POINTS: DIAGNOSES AND THERAPIES
+   • Klinefelter syndrome (47,XXY) is the commonest identified genetic cause of male infertility; body
+     morphology cannot reliably exclude it.
+   • A man with CBAVD needs CFTR assessment of himself and his female partner to define offspring CF
+     risk.
+   • Severe hypogonadotropic hypogonadism may be associated with anosmia and is treated with
+     gonadotropin replacement; milder forms are commoner and may respond to antioestrogens or
+     aromatase inhibitors.
+
+Concept — in monomorphic sperm defects the ultrastructure dictates the therapy: ICSI bypasses an absent
+acrosome or a paralysed axoneme, but cannot correct the aneuploidy that accompanies macrocephalic
+multiflagellate sperm.
+
+
+
+
+                                                            page 23 of 23
+
