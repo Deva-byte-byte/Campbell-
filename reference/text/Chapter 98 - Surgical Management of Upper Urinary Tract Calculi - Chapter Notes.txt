@@ -1,0 +1,1006 @@
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                                          Choosing Your Approach
+
+
+ Chapter 98 — Surgical Management of Upper Urinary
+ Tract Calculi
+ Robert M. Sweet, Dima Raskolnikov and Mathew D. Sorensen
+
+
+ CHOOSING YOUR APPROACH
+ American Urological Association Guidelines
+   • The 2016 joint American Urological Association (AUA) and Endourological Society Guideline is the
+     reference framework for upper tract stones, built around Index Patients.
+   • Decision making rests on shared decision making plus a synthesis of the best available evidence, with
+     the caveat that endourology innovates faster than guidelines revise.
+   • Management is driven by three domains — stone-related, renal anatomic and clinical (patient)
+     factors.
+
+ BOX 98.1 FACTORS AFFECTING MANAGEMENT OF RENAL STONES
+ Domain                          Factors
+ Stone-related                   Size; number; location; composition
+ Renal (anatomic)                Obstruction or stasis; hydronephrosis; ureteropelvic junction obstruction; calyceal
+                                 diverticulum; horseshoe kidney; renal ectopia or fusion; lower pole
+ Clinical (patient)              Infection; obesity; body habitus deformity; coagulopathy; juvenile; elderly;
+                                 hypertension; renal failure or transplant; solitary kidney; urinary diversion; pregnancy;
+                                 patient symptoms
+
+   • What the box is for: it separates what the stone is from where it sits and who is carrying it. Only the
+     first domain is modifiable by choosing a different modality; the other two constrain which modality is
+     available at all.
+   • The trap it sets: obesity, coagulopathy and pregnancy are listed as patient factors, not
+     contraindications — each excludes a different modality, not surgery itself.
+
+ Asymptomatic Renal Stones
+   • Truly asymptomatic means no symptoms and no sequelae, including no recurrent urinary tract
+     infection (UTI). Prevalence in screened populations is approximately one in ten.
+   • The natural history is not benign — roughly half sustain a stone-related event within five years.
+   • Predictors of an event across cohorts: number of stones, previous stone history, stone size, renal
+     pelvis location, male sex and younger age.
+   • Lower pole stones are the commonest site observed; over medium-term follow-up about a third
+     enlarge, a fifth pass spontaneously and a tenth come to intervention.
+   • Stone size is not a reliable predictor of symptom development, but it does predict intervention — risk
+     rises above 5 mm and again above 10 mm. Size forecasts treatment, not symptoms.
+   • Residual fragments >4 mm after ureteroscopy (URS) should be treated — higher rates of growth,
+     complications and reintervention.
+   • Sorensen et al. (2022), landmark randomised trial: removing small asymptomatic contralateral stones
+     at the time of surgery for the symptomatic side cut relapse to 16% versus 63% over a mean 4.2 years.
+
+
+
+
+                                                             page 1 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                                          Choosing Your Approach
+
+   • Large asymptomatic stones may cause focal calyceal obstruction without symptoms — counsel
+     regarding gradual focal renal deterioration and infection risk.
+   • Non-obstructing asymptomatic stones with recurrent UTI are a special case: the association is clear
+     and removal is recommended irrespective of composition. Send the stone for culture — it confirms
+     the nidus and directs tailored antibiotic therapy.
+   • Where treatment is declined, the alternative is observation with a shift to medical prevention plus
+     serial imaging.
+
+   KEY POINTS: ASYMPTOMATIC RENAL STONES
+     • Approximately half of patients will have a stone-related event over five years.
+     • Number of stones, previous stone history, size and location all matter in counselling.
+     • Counsel about treating contralateral stones, even if asymptomatic.
+     • Residual stones >4 mm should be treated after ureteroscopic treatment.
+     • With recurrent UTIs, treating the stone may eradicate the infections.
+
+ Preoperative Evaluation
+   • Intravenous pyelography is largely obsolete, displaced by renal ultrasound, plain radiography of the
+     kidneys, ureters and bladder (KUB), and increasingly computed tomography (CT), which is sensitive and
+     specific even at low dose.
+   • AUA position: clinicians should obtain non-contrast CT before percutaneous nephrolithotomy (PCNL),
+     and may obtain it when choosing between shock wave lithotripsy (SWL) and URS.
+   • Two SWL-specific CT variables: stone-free rate (SFR) is highest when stone density is <900 Hounsfield
+     units (HU) and skin-to-stone distance is <10 cm — neither obtainable without cross-sectional imaging.
+   • Functional imaging where loss of ipsilateral function is suspected; contrast-enhanced CT for complex
+     anatomy.
+   • All patients require preoperative urinary testing for infection; add full blood count and serum
+     electrolytes for relevant comorbidity or high bleeding risk. No randomised data on timing — urinalysis
+     and culture within the month before surgery is the convention.
+
+ Renal Stones: Ureteroscopy versus Shock Wave Lithotripsy versus Percutaneous
+ Nephrolithotomy
+   • Governing principle: more invasive procedures clear more stone, and that benefit must be set against
+     operative risk, patient goals and risk tolerance.
+   • Staged URS is the alternative to PCNL for large burdens — it avoids PCNL bleeding risk at the cost of
+     longer cumulative operating time. PCNL bleeding risk has itself fallen with tract miniaturisation, from a
+     historically quoted 7% to transfusion rates nearer 1%.
+
+ MODALITY SELECTION BY STONE BURDEN AND LOCATION (AUA GUIDELINE)
+ Scenario                                Offer                                   Do not offer first-line / caveat
+ <2 cm, non–lower pole,                  SWL or URS                              Counsel: SWL fewer complications, URS
+ symptomatic                                                                     higher SFR
+ Total burden >2 cm                      PCNL first-line; staged URS an option   SWL not first-line
+ Lower pole >1 cm                        PCNL (highest SFR) or URS               SWL not first-line — fragments clear
+                                                                                 poorly; PCNL has higher morbidity
+ Lower pole <1 cm                        SWL or URS                              —
+
+
+
+                                                             page 2 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                                             Choosing Your Approach
+
+ Scenario                                Offer                                      Do not offer first-line / caveat
+ Staghorn                                PCNL                                       —
+ Cannot stop antiplatelet /              URS                                        Avoid SWL and PCNL
+ anticoagulant
+
+   • Landmark — Lower Pole I (Albala et al., 2001): for lower pole stones >1 cm, SFR was 91% with PCNL
+     versus 21% with SWL. This single contrast generates the whole lower pole rule.
+   • The pattern across the rows: the table is really one axis (burden) crossed by one exception (lower
+     pole). Everything above 2 cm and everything in the lower pole above 1 cm moves away from SWL.
+
+ European Association of Urology Guidelines
+   • The European Association of Urology (EAU) framework largely parallels the AUA, and comparison
+     across the AUA, EAU, National Institute for Health and Care Excellence and Urological Association of
+     Asia guidelines found high consensus on the surgical treatment of renal stones.
+
+ FIG. 98.1 TREATMENT ALGORITHM FOR RENAL STONES (EAU) — MODIFIED FROM TÜRK ET AL.,
+ EUR UROL, 2017
+ Stone size                              Order of preference
+ >20 mm                                  1. PCNL 2. URS or SWL
+ 10–20 mm                                SWL or endourology (equipoise)
+ <10 mm                                  1. SWL or URS 2. PCNL
+
+   • Applies to all but lower pole stones of 10–20 mm. Endourology here means PCNL and URS; URS
+     includes retrograde ureterorenoscopy.
+   • The contrast with the AUA table: the EAU frames the middle band as explicit equipoise rather than a
+     preference, which is the point of divergence to remember.
+
+ Stone Morphometry
+   • Classification of stone complexity, chiefly to predict PCNL outcomes.
+
+ COMPARISON OF STONE MORPHOMETRY SCORES
+ Score                  Inputs                                Derivation                   Predicts
+ Guy's (2011)           Location, number, anatomy             Single centre; internally    SFR on KUB; not complications
+                                                              validated
+ STONE                  Size, location plus tract length,     Single surgeon; all had      SFR, blood loss, operative time,
+                        obstruction, stone density            preoperative CT              length of stay
+ CROES nomogram Size, location, number, prior                 Very large multinational     SFR (KUB only); argued most
+                treatment, staghorn, annual                   multicentre                  generalisable
+                centre volume
+ S-ReSC                 Distribution of stones across         CT before and after PCNL     SFR; not complications
+                        calices
+
+   • What the table is for: each score adds the variable the previous one lacked — anatomy, then CT-
+     derived depth and density, then centre-level and treatment history, then calyceal distribution.
+   • The pattern: three of the four predict stone clearance and none predicts complications. Meta-analysis
+     shows marked heterogeneity in development, validation and implementation, and no optimised,
+     generalisable score yet exists.
+
+
+
+
+                                                             page 3 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                             Shock Wave Lithotripsy for Renal Stones
+
+   • The trap: CROES is the only one with multicentre derivation, but its SFR was assessed on plain
+     radiography alone.
+   • The Triple D score sits outside this group — it predicts SWL efficacy, not PCNL.
+
+ SHOCK WAVE LITHOTRIPSY FOR RENAL STONES
+ History
+   • The tissue effect of shock waves was found by accident at Dornier, during work on raindrop and
+     micrometeorite damage to aircraft, when an engineer touched the shock wave apparatus.
+   • First human SWL: 7 February 1980, Dornier HM1. First HM3 installations: Stuttgart 1983 and
+     Indianapolis 1984. The HM3 was large, fixed and expensive but outstandingly effective with an
+     excellent safety profile — later generations traded efficacy for lower cost, smaller footprint and
+     versatility.
+
+ Mechanisms of Stone Fracturing
+   • A shock wave is a short-duration acoustic pressure wave: peak positive 30–100 MPa followed by a
+     negative tensile tail of about −10 MPa.
+   • Waves are generated at F1 (in the therapy head), focused, and transmitted to the stone at F2.
+     Machines differ chiefly in peak positive pressure and the size and shape of the focal zone at F2.
+   • A focal zone larger than the stone improves breakage — greater stress within the stone and less
+     penalty from respiratory movement of the target.
+ Energy Source
+ COMPARISON OF SHOCK WAVE ENERGY SOURCES
+ Source                   How it works                        Strength                      Weakness
+ Electrohydraulic       Underwater spark generates a Very effective at breaking             Electrode life <40 000 shocks;
+ ("spark gap"; original spherical expanding wave at stones                                  great shock-to-shock
+ HM3)                   F1                                                                  variability, focus drifting up to
+                                                                                            1 cm as electrodes wear
+ Piezoelectric            Up to several thousand              Very long service life; stable Low delivered energy and
+                          elements on a spherical             focus; anaesthesia-free        very small focal volume at F2
+                          reflector, summed at F2             because skin energy density is
+                                                              low
+ Electromagnetic (all Magnetic field focused                  Consistent quality up to 1 000 —
+ modern machines) through an acoustic lens or                 000 shocks; broad skin
+                      reflector                               distribution allows treatment
+                                                              without anaesthesia; high
+                                                              energy density at F2
+
+   • What the table is testing: each source trades focal accuracy and longevity against delivered energy.
+     The electromagnetic source is dominant because it is the only one that wins on both, which is why it is
+     also the answer to "what do modern lithotripters use".
+   • The trap: piezoelectric's long life and stable focus are often misread as superiority — its delivered
+     energy and focal volume are the smallest of the three.
+ Stone Comminution
+  • Applied shock waves generate stresses in the stone; beyond a critical value cracks form, then grow and
+    coalesce under repetitive stress. Five mechanisms are proposed.
+
+
+
+                                                             page 4 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                             Shock Wave Lithotripsy for Renal Stones
+
+   • 1. Tear and shear forces — elastic waves generated inside the stone reflect, superimpose and focus;
+     cracks form where shear and tension are highest. Once a fragment is smaller than the pulse duration,
+     internal wave propagation, and hence this mechanism, falls away.
+   • 2. Spallation — the pulse inverts on reflecting at the soft tissue or fluid interface distal to the hard
+     stone; incident and reflected waves overlap to create maximal tension that breaks the distal end of
+     the stone.
+   • 3. Quasistatic squeezing — when the wave is wider than the stone it travels faster in stone than in
+     surrounding fluid, leaving the stone in a circumferential hoop of squeezing pressure.
+   • 4. Cavitation — the negative phase generates bubbles at the stone; their collapse erodes the stone
+     surface, and this matters more as fragmentation proceeds. The paired caveat: bubbles decay slowly, so
+     excess cavitation shields the stone from subsequent shocks.
+   • 5. Dynamic squeezing — with a focal area wider than the stone, mechanisms 1 to 3 combine: intense
+     shear waves at the stone edges are reinforced by surrounding waves and focus at the distal end,
+     coinciding with the spallation waves. This is the most powerful force in initial comminution.
+
+ Factors to Improve Success and Safety
+ Patient Factors
+  • Efficacy is governed by stone density and composition, skin-to-stone distance, stone volume, location
+    within the collecting system, and the Triple D score.
+   • Two groups to divert to a more efficient modality: infection stones, and stones in multiple locations
+     likely to need several sessions.
+   • Absolute contraindications in the body text add severe untreated hypertension and aortic aneurysm
+     >4 cm to the boxed list, and specify current antiplatelet, antithrombotic or anticoagulant use
+     alongside uncorrected coagulopathy.
+
+ BOX 98.2 CONTRAINDICATIONS TO SHOCK WAVE LITHOTRIPSY
+ Category                                          Contraindication
+ Patient state                                     Pregnancy; uncorrected coagulopathy or bleeding diathesis; untreated
+                                                   urinary tract infection
+ Adjacent vascular anatomy                         Arterial aneurysm near the stone (renal or abdominal aortic)
+ Downstream anatomy                                Obstruction of the urinary tract distal to the stone
+ Targeting                                         Inability to target the stone (skeletal malformation)
+
+   • What the box is for: three of the four categories are about what the shock wave will hit on the way in,
+     or what the fragments will meet on the way out — only the first is about the patient's physiology.
+ Treatment Factors
+  • Coupling quality is the key technical determinant. Apply ultrasound gel directly from the jug onto the
+    therapy head as a large mound — never spread or layered.
+   • Air pockets in the coupling medium are the classic avoidable error, degrading fragmentation by up to
+     two-fifths. Contemporary machines such as the Dornier Delta III mount a camera in the therapy head
+     to inspect coupling.
+   • Manufacturers: Dornier, Siemens, Storz, Wolf and EDAP-TMS; head-to-head comparisons are few, and
+     most modern multifunctional lithotripters use an electromagnetic source.
+
+
+
+
+                                                             page 5 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                              Shock Wave Lithotripsy for Renal Stones
+
+   • Shock rate: more than a dozen randomised trials give more than twofold better outcomes at 60–70 or
+     80–90 shocks per minute than at 100–120. Fast rates accumulate a cavitation bubble cloud, causing
+     more tissue injury and more shielding of the stone.
+   • Ramping: stepwise voltage escalation improves fracturing and reduces renal injury. Slow ramping over
+     at least four minutes, with or without a brief pause, produces detectable renal vasoconstriction early
+     in the session. Low-energy pretreatment markedly reduces lesion size in animals and substantially
+     lowers the risk of renal haematoma in humans.
+   • Cavitation is essential to comminution but is likely the greatest contributor to adverse tissue effects —
+     rupture of a small vessel allows blood to collect in tissue, which in turn increases further cavitation and
+     injury.
+
+ Preparation for Shock Wave Lithotripsy
+   • Sequence: history and examination → review medications and conditions for contraindications and
+     bleeding risk → imaging to confirm the stone is visible on the targeting modality, KUB or ultrasound
+     → urinalysis with reflex culture → treat bacteriuria or UTI before the procedure.
+   • AUA and EAU agree: antibiotic prophylaxis is unnecessary with a negative urinalysis and no risk
+     factors.
+
+ Complications
+   • SWL is non-invasive but has been associated with injury to kidney, liver, skeletal muscle, colon, spleen
+     and pancreas — exceptionally rare and usually not clinically significant.
+   • Cardiac arrhythmia is common during treatment and usually resolves with a treatment pause;
+     occasionally the machine must be gated to the refractory phase of the cardiac cycle.
+   • Renal haematoma occurs in a minority, mostly asymptomatic or mild; rarely significant enough to need
+     selective embolisation. Risk factors: increasing age, hypertension (especially poorly controlled),
+     obesity, diabetes mellitus, coronary artery disease, thrombocytopenia, narrow-focus machines with
+     high peak positive pressures, higher energy settings, and greater total shock number.
+   • Steinstrasse affects a small minority overall but rises several-fold with a stone burden above 2.0 cm².
+   • Do not stent at the time of SWL — no improvement in passage rates, only added stent morbidity.
+   • Medical expulsive therapy with alpha-blockers improves fragment clearance, reduces pain and
+     shortens time to clearance. Mechanical percussion, diuresis and inversion therapy also improve
+     clearance, in weekly ten-minute sessions over several weeks.
+   • Refuted associations — worth knowing as negatives: diabetes mellitus, renovascular hypertension,
+     long-term renal function decline and reduced fertility.
+
+ Future Directions: Burst Wave Lithotripsy and Ultrasonic Propulsion
+   • Two investigational technologies on one ultrasound platform: burst wave lithotripsy (BWL) breaks
+     stones; ultrasonic propulsion repositions fragments. Both are usable awake, in clinic or the
+     emergency department, with real-time ultrasound targeting of breakage, repositioning and cavitation;
+     the probe is handheld or support-assisted.
+
+ COMPARISON OF SWL, BURST WAVE LITHOTRIPSY AND ULTRASONIC PROPULSION
+ Feature                      SWL                                 BWL                          Ultrasonic propulsion
+ Purpose                      Break stone                         Break stone                  Reposition stone or
+                                                                                               fragments
+ Pulse                        Single broadband shock              5–100 cycles, narrowband     1500 cycles, long duration
+                                                                  burst
+
+
+
+                                                             page 6 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                                      Ureteroscopy for Renal Stones
+
+ Feature                      SWL                                 BWL                          Ultrasonic propulsion
+ Peak pressure                30–100 MPa positive, −10            4–8 MPa                      2.4 MPa maximum positive
+                              MPa tail
+ Anaesthesia                  Usually required (source-           Not needed in most cases     Not needed
+                              dependent)
+ Cavitation                   Substantial; limits repetition Less than SWL; allows faster Little
+                              rate                           repetition
+ Limiting effect              Tissue injury                       Tissue injury (reduced)      Transducer heating and skin
+                                                                                               warming
+ Fragment result              Variable                            Predictable, uniformly sized Not applicable
+
+   • What the table is for: total energy is similar between SWL and BWL — BWL simply spreads it as lower
+     pressure over longer duration, and every downstream difference (no anaesthesia, less cavitation,
+     uniform fragments) follows from that one substitution.
+   • Mechanism resembles SWL, but multiple reflections of many cycles superimpose internal waves and
+     amplify peak negative pressure more than fivefold, so intrastone tensile stress matches SWL despite
+     lower pressure through tissue.
+   • Coupling remains essential, with gel; the safeguard is elegant — if coupling is lost, the image is lost,
+     which itself signals the user. The beam must be wider than the stone, as with SWL. Excessive
+     cavitation appears as a dynamic white cloud on the ultrasound image.
+   • Propulsion repositions by momentum transfer when the focused wave reflects off the stone; force is
+     directed away from the transducer, so the probe must be manipulated to steer fragments. Uses:
+     accessing stones intraoperatively, and facilitating passage of ureteral stones and residual renal
+     fragments.
+
+   KEY POINTS: SWL, BWL AND ULTRASONIC PROPULSION
+     • Modern lithotripters use an electromagnetic shock wave source.
+     • Several mechanisms contribute to stone fracturing with SWL.
+     • Stone density and composition, skin-to-stone distance, stone volume, location and the Triple D
+       score influence SWL efficacy.
+     • Absolute contraindications include pregnancy, uncorrected coagulopathy or antiplatelet/
+       antithrombotic/anticoagulant use, severe untreated hypertension, aortic aneurysm >4 cm, and
+       untreated UTI.
+     • Gel application, minimising air bubbles, and 60–70 or 80–90 shocks per minute increase
+       effectiveness.
+     • Renal haematoma, steinstrasse and cardiac rhythm abnormalities are the known complications.
+
+
+ URETEROSCOPY FOR RENAL STONES
+ History
+   • 1806 — Bozzini's Lichtleiter ("light conductor"), the first clinically used endoscope: a 35 cm tube of
+     sheet metal, paper and leather housing a candle-holder and mirror system. Results were mixed,
+     Bozzini died of typhoid in 1809, and the device was never clinically popularised — it survives in the
+     William P. Didusch Museum of the AUA.
+
+
+
+
+                                                             page 7 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                        Ureteroscopy for Renal Stones
+
+   • 1826 — Ségalas' "speculum urethrocystique", the first endoscope used for urological purposes;
+     likewise never popular.
+   • 1962 — Marshall visualised a ureteral stone with a fibreoptic endoscope, the advance that enabled
+     miniaturisation and flexible urological endoscopes.
+   • Charge-coupled device (CCD) technology, first described in the 1970s, was refined and made cost-
+     effective from 2005; the first commercially available endoscope with a distal digital sensor appeared
+     in 2010. The latest iteration is the single-use digital ureteroscope.
+   • The universal limitation of flexible ureteroscopes is diameter — often exceeding the narrowest
+     ureteral segments, especially the orifice — because the design must accommodate both a working
+     channel large enough for irrigation and instruments and the CCD or fibreoptic bundle.
+
+ Preoperative Considerations
+   • General anaesthesia is typical, by endotracheal intubation or laryngeal mask airway. The trade-off as a
+     pair: laryngeal mask is often preferable overall, but intubation allows precise control of the
+     respiratory cycle, reducing renal excursion and improving lasering efficiency. URS under local
+     anaesthesia alone is feasible.
+   • Both AUA and EAU strongly recommend urinary testing for infection before elective URS.
+   • Single-dose perioperative antibiotics are required, by institutional antibiogram. Asymptomatic
+     bacteriuria or very high infection risk may warrant additional pretreatment; optimal duration is not
+     agreed.
+   • Antiplatelet and anticoagulant agents. The AUA minimum position: for patients who must remain on
+     these agents, recommend URS rather than SWL or PCNL. Over-the-counter use without clear
+     indication should be held; recent cardiac or vascular surgery makes interruption unacceptable.
+   • The evidence, in order: higher bleeding rates on anticoagulation without change in SFR or
+     complications in early work; meta-analysis does show increased bleeding-related complications;
+     quality-collaborative data show URS on anticoagulation is safe whereas antiplatelet use increases
+     postoperative hospitalisation.
+
+ Principles of Retrograde Renal Access
+ Wires
+  • Wire design balances rigidity, hydrophilicity and cost; choice is largely surgeon preference.
+   • Both AUA and EAU recommend a safety wire for most endoscopic procedures, though the EAU
+     concedes the recommendation is controversial.
+   • The counter-evidence, as a pair: insertion and retraction forces are higher when passing a
+     ureteroscope alongside a safety wire, and a multicentre study found no outcome difference with or
+     without one.
+   • Wires can harm: with severely impacted stones the wire may not pass, and forceful advancement
+     causes submucosal passage.
+ Ureteral Access Sheaths
+  • Takayasu, 1974 — the first ureteral access sheath (UAS), a "guide tube for pyeloureteroscopy" devised
+    to negotiate the intramural ureter, where scopes habitually met obstruction.
+   • Intrarenal pressure: any sheath lowers intrarenal pressure versus unsheathed URS, in cadaveric and in
+     vivo animal models, and larger sheaths lower it more — at presumed cost of greater injury risk.
+   • The examinable disconnect: UAS demonstrably reduces intrarenal pressure, yet meta-analyses have
+     not shown a clear reduction in postoperative infection.
+
+
+
+                                                             page 8 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                          Ureteroscopy for Renal Stones
+
+   • Dusting versus basketing is surgeon preference; the sheath's practical advantage is simplified repeated
+     passes of the scope, favouring basketing and extraction of larger stone volumes. Evidence is split —
+     one single series showed improved SFR with a sheath, the large CROES prospective study found no
+     difference, and a multicentre dusting-versus-basketing comparison found equivalent SFR with
+     basketing procedures substantially longer.
+   • Injury: in a consecutive series, UAS placement caused ureteral injury in nearly half of patients, severe
+     (involving smooth muscle layers) in about one in eight. Pre-stented patients were at lower risk,
+     presumably from prior passive dilatation. Against this, videorecorded series with 12/14 Fr sheaths and
+     long follow-up found almost no de novo strictures.
+   • Why the true stricture rate is unknown: around two-fifths of patients have no imaging at all in the
+     year after URS, and many of the remainder have KUB only, which cannot assess hydronephrosis.
+ Baskets
+  • Variety in size, material and shape, with limited comparative data. Trade-off as a pair: smaller baskets
+    are more fragile but permit greater irrigation through the working channel. Some designs extract
+    faster, particularly for novices. Selection remains surgeon preference.
+ Irrigation Devices and Pressure Management
+   • CCD miniaturisation has shrunk working channels to typically 3.6–4.6 Fr, so pressurised irrigation is
+     usually needed to overcome resistance and maintain vision.
+   • Hand-action pump use was associated with higher postoperative fever and emergency department
+     presentation compared with gravity bags.
+   • Ranked by force generated: gravity least, then pressurised systems and foot or hand pumps, with
+     considerable variability.
+   • Pressure sensors embedded in a wire or in the ureteroscope allow real-time intrarenal pressure
+     monitoring — promising, but clinical trials are needed before the data can be acted on.
+ Anti-Retropulsion
+  • Dretler, 2001 — the "Stone Cone": nitinol and stainless steel wires as an expandable tapered cone
+    placed cephalad to the stone during laser lithotripsy; it effectively prevented proximal migration, with
+    very few reinterventions for retropulsed fragments over subsequent use.
+   • Similar results with the NTrap device (also improved SFR) and the BackStop thermosensitive polymer;
+     modified patient positioning also reduces retropulsion.
+   • Use varies widely by country, probably on cost grounds — in a large global study, only about one in
+     seven cases used such a device.
+ Stenting
+  • AUA: consider omitting a stent after uncomplicated URS when all four conditions hold — normal
+    anatomy, normal renal function, no concern for ureteral injury, and no planned second-stage
+    procedure.
+   • Rationale: multiple meta-analyses show no clear benefit of routine post-URS stenting, against well-
+     documented stent-related urinary symptoms and significant quality-of-life reduction.
+   • Practice lags the evidence — many community and academic urologists still stent routine cases.
+
+ Success Rate
+   • "Success" is not a settled definition — completely stone-free versus free of clinically significant
+     fragments, at what interval, and on how sensitive an imaging modality.
+
+
+
+
+                                                             page 9 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                                     Ureteroscopy for Renal Stones
+
+   • Lingeman, 1986 — "clinically significant fragments" defined as >5 mm. The problem: smaller
+     fragments frequently become symptomatic, requiring further procedures in up to a fifth of patients
+     within roughly 18 months.
+   • Proposed remedy: report both zero-fragment rate and adjunct residual fragment rates (>2 mm, >4
+     mm).
+   • SFR is dominated by imaging modality — CT-assessed SFR spans a very wide range, with the highest
+     "success" in studies permitting larger residual fragments. Non–lower pole location, smaller stone size,
+     and postoperative ultrasound or radiography rather than CT all inflate reported SFR.
+
+ Complications
+ COMPLICATIONS OF URETEROSCOPY: RATE, RISK FACTORS AND MANAGEMENT
+ Complication              Rate               Risk factors                                  Management point
+ Sepsis                    ~5% pooled         Preoperative stent; positive urine culture;   Treat positive cultures
+                                              ischaemic heart disease; older age; longer    preoperatively; optimal
+                                              surgery; diabetes mellitus                    duration unagreed
+ Bleeding /                <1%, even for      Moderate–severe hydronephrosis; thin          Rare but potentially
+ haematoma                 stones >2 cm       renal cortex; prolonged operative time;       devastating; multidisciplinary
+ (subcapsular,                                hypertension; preoperative UTI                anticoagulation planning
+ retroperitoneal)
+ Ureteral stricture        ~3%                Access sheath injury; impacted stone          Ultrasound is the appealing
+                                                                                            surveillance modality; most
+                                                                                            patients get no imaging
+ Perforation               A few per cent Falling with miniaturisation and experience Stop the ureteroscopy and
+                                                                                      stent (expert opinion)
+ Avulsion                  <1%                Falling with miniaturisation and experience Proximal ureter; immediate
+                                                                                          percutaneous nephrostomy,
+                                                                                          delayed reconstruction
+
+   • The pattern: the two commonest complications are infective and mechanical, and both are pre-
+     empted before the scope is passed — by treating the urine and by not forcing past an impacted stone.
+     The rare catastrophes are the ones with a fixed protocol response.
+   • The trap: quoting a low stricture rate from series in which most patients were never imaged, or imaged
+     by radiography alone.
+
+   KEY POINTS: URETEROSCOPY
+     • For patients who must stay on anticoagulant or antiplatelet therapy, ureteroscopy is the modality
+       of choice.
+     • Ureteral access sheath use decreases intrarenal pressure and facilitates basketing, but may
+       increase the risk of ureteral injury.
+     • A postoperative stent may be omitted when there is normal anatomy, normal renal function, no
+       concern for ureteral injury, and no planned second-stage surgery.
+     • The size of clinically relevant residual fragments, and the optimal timing and modality of
+       postoperative imaging, are all matters of ongoing debate.
+     • The commonest complications are stent-related symptoms, sepsis, bleeding and ureteral injury.
+
+
+
+
+                                                             page 10 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                       Percutaneous Nephrolithotomy for Renal Stones
+
+ PERCUTANEOUS NEPHROLITHOTOMY FOR RENAL STONES
+ History
+   • 1976 — Fernström and Johansson: first percutaneous stone removal under fluoroscopic guidance.
+     Through the late 1970s and early 1980s, Arthur Smith and Ralph Clayman with Kurt Amplatz and Paul
+     Lange (University of Minnesota) drove the early evolution.
+   • 1983 — Lawson: first retrograde-assisted access. 1984 — Wickham: first tubeless PCNL. 1987 —
+     Valdivia-Uría: first supine PCNL. 1992 — pneumatic lithotripsy introduced (Swiss LithoClast).
+   • Position today: PCNL gives higher SFRs and needs fewer procedures than SWL or URS for 1–2 cm
+     renal stones, and is the treatment of choice for staghorn calculi and most stones >2 cm, with shorter
+     operative times above 2 cm.
+
+ BOX 98.3 APPLICATIONS IN WHICH PCNL CAN BE CONSIDERED FIRST-LINE THERAPY
+ Basis                                   Application
+ Stone burden                            All renal stones >2 cm; staghorn stones; matrix stones
+ Lower pole obstruction                  Lower pole stones >1 cm; calyceal diverticula of the lower pole; infundibular
+                                         stenosis of the lower pole
+ Retrograde route unavailable or         Urinary diversions; inaccessible lower urinary tract; history of ureteral stricture,
+ hazardous                               injury or reconstruction
+ Coexisting pathology                    Ureteropelvic junction obstruction; infected stones in non-ambulatory patients
+
+   • What the box is for: grouped this way it reduces to one principle — PCNL is first-line whenever the
+     stone is too large, or the retrograde route too poor, for the fragments to leave by themselves.
+
+ Preoperative Considerations
+   • History focused on fitness for surgery, coagulopathy, willingness to be transfused, and reversible
+     cardiopulmonary comorbidity. Identifying uncorrected coagulopathy and untreated UTI is critical.
+   • Short-term preoperative drainage — nephrostomy or stent — where there have been repeated
+     admissions for complicated UTI, sepsis or pain.
+   • Stop anticoagulants in consultation with the prescriber; PCNL has been shown safe on low-dose
+     aspirin; coordinate bridging for high thrombotic risk.
+   • Examination targets positioning: general fitness, frailty, respiratory status, body habitus, spinal
+     curvature, and knee and hip flexibility.
+   • Baseline laboratory work: renal function, full blood count and urine culture; group and screen
+     optional. Stress testing or pulmonary function testing for marginal functional status.
+   • Non-contrast CT of abdomen and pelvis is the gold standard preoperative study. Read axial, coronal
+     and sagittal series plus three-dimensional (3D) reconstructions for stone location and branching, renal
+     anatomy, infundibular lengths and angles, skin-to-stone distance, stone density in HU, and the
+     relationships of skin, ribs and stone to diaphragm, spleen, liver and colon.
+   • A pre-existing urogram helps select access points, but a retrograde or antegrade pyelogram during the
+     procedure serves the same purpose and spares intravenous contrast.
+   • 3D reformatting, immersive virtual reality and 3D printing show early promise for planning
+     challenging anatomy; against this, retrospective data found no added benefit of 3D reformatting over
+     orthogonal measurements for predicting SFR.
+
+
+
+
+                                                            page 11 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                    Percutaneous Nephrolithotomy for Renal Stones
+
+   • Atrophic kidney: a diuretic renogram helps judge whether treating the unit is worthwhile —
+     observation for an asymptomatic stone, or nephrectomy for a symptomatic or infected stone, may
+     be better. The relative function cut-off is debated in the 10–20% range.
+
+ Perioperative Considerations
+   • General anaesthesia is preferred; epidural or local techniques are described. Adding local or regional
+     anaesthesia reduces analgesic requirement and 24-hour pain scores.
+   • Single-dose antibiotic prophylaxis is recommended, culture-specific and/or tailored to the local
+     genitourinary antibiogram. Evidence is emerging for an extended course to reduce infective
+     complications.
+   • Tranexamic acid (TXA) — Cochrane review of ten randomised trials in adults: no increase in
+     thromboembolic events; probable reduction in transfusion, major and minor complications and
+     length of stay, with improved stone-free rates, at the cost of drug adverse effects.
+   • Documented TXA adverse reactions: seizures, headache, backache, abdominal pain, diarrhoea,
+     fatigue, pulmonary embolism, deep vein thrombosis, anaphylaxis, impaired colour vision and other
+     visual disturbance. Given low baseline transfusion rates in modern series, the decision is individualised.
+
+ Positioning and Approaches
+ COMPARISON OF PRONE AND SUPINE POSITIONING FOR PCNL
+ Feature                   Prone (Goodwin, 1955)                            Supine (Valdivia-Uría, 1987)
+ Calyceal access           Easiest access to posterior calices; upper       Easier access to anterior calices
+                           pole closest to skin
+ Working area              Large                                            Less working area around the flank
+ Respiratory / airway      Increased pulmonary capacity                     Airway access retained
+ Fragment drainage         Against gravity                                  Gravity-assisted during lithotripsy
+ Combined retrograde Needs split-leg adapter                                Single position, no adapter
+ route
+ Named modifications Split-leg prone; hip flexion to open the               Galdakao-modified supine (Scoffone); Bart
+                     retroperitoneum                                        modified supine (Bach)
+ Ideal for                 Standard anatomy; upper pole access              Ileal conduit or continent catheterisable
+                                                                            channel needing simultaneous retrograde
+                                                                            access
+
+   • Prone set-up as a sequence: bolster shins and ankles so the toes float → pad the knees → keep arms
+     no higher than 90° to the torso to prevent brachial plexus injury → axillary and pectoral rolls.
+   • Bolsters horizontally across the nipple line and the anterior superior iliac spine, or two vertically —
+     the examinable point being that horizontal bolsters bring the kidney down more than vertical ones.
+   • Complications specific to prone positioning: neuropraxia and ocular injury — from insufficient facial
+     and pressure-point padding, prolonged operative time and rigid bolsters.
+   • Supine set-up: ipsilateral side to the lateral edge of the table, flank elevated on a bolster under the
+     lumbar fossa, ipsilateral arm across the chest and padded.
+   • The verdict: comparative studies conclude the choice is mainly surgeon preference — but competence
+     in several positions allows tailoring to the individual patient.
+
+
+
+
+                                                            page 12 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                    Percutaneous Nephrolithotomy for Renal Stones
+
+ Access Techniques
+ Choice of Access
+  • Access is arguably the most important step of PCNL. PCNL's share of stone cases has stayed stable at
+    about 4.5%, while urologist-obtained de novo access has risen to roughly a third — and urologist-
+    obtained access is associated with shorter stay and lower readmission, transfusion and secondary
+    procedure rates than radiologist-obtained access.
+   • Access is tailored to gross anatomy, collecting system configuration and stone location, guided by CT
+     plus a pyelogram taken after positioning.
+   • Use ultrasound once positioned but before prepping and draping, even when fluoroscopy is the
+     primary modality — it delineates renal anatomy through respiration, the stones, adjacent organs,
+     diaphragm level and overlying ribs.
+   • Posterior calices with a short, wide infundibulum are ideal. Upper pole posterior access gives the
+     most access to the rest of the collecting system in most kidneys, but chest complications rise
+     significantly above the 12th rib.
+   • Lower pole access is safe from thoracic injury but slightly increases colonic injury risk, especially on
+     the left. Two further caveats as a pair: a too-anterior lower pole is hard to reach, and a steep lower
+     pole-to-renal pelvis angle makes the ureteropelvic junction (UPJ) hard to reach with rigid
+     instruments and antegrade treatment of upper ureteral stones difficult even with flexible instruments.
+   • Renal distraction by traction on a through-and-through wire in the lower pole, thoracoscopic or
+     laparoscopic direct visualisation, and preoperative CT-guided access are options where safety
+     windows are tight.
+ Fluoroscopy-Guided Access
+  • ALARA (as low as reasonably achievable) governs. Dose-limiting measures: visual and tactile rather
+    than fluoroscopic cues; fixed low mAs and kVp; a laser-guided C-arm; single pulse-per-second
+    fluoroscopy; a urologist-controlled footpedal or designated technician; a saved pyelogram as a
+    roadmap; last-image hold; spot films for alignment, reserving live fluoroscopy for needle
+    advancement.
+   • Orientate first: spine across the top of the image with the collecting system aligned to it, to avoid
+     confusion over needle movement.
+
+ COMPARISON OF FLUOROSCOPIC ACCESS TECHNIQUES
+ Step                      Eye of the needle (Miller, 2007)                 Triangulation
+ Starting view             Rainbowed 15–30° towards the surgeon             Anteroposterior (AP), needle preset at the
+                                                                            desired angle
+ First alignment           Needle tip laid on skin over target, then        Rainbow 15–30° towards the operator, adjust
+                           rotated into the fluoroscopy axis — the          needle
+                           "bulls-eye" (X–Y plane)
+ Second alignment          Rainbow away, just past neutral AP, to read      Rotate back to AP, adjust in the
+                           the Z-axis (depth)                               cephalocaudal plane
+ Advancement               Secure the plane first, then advance into the    Short advancements swinging between
+                           calyx                                            views: mediolateral when rainbowed,
+                                                                            cephalocaudal when AP
+
+
+
+
+                                                            page 13 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                    Percutaneous Nephrolithotomy for Renal Stones
+
+ Step                      Eye of the needle (Miller, 2007)                 Triangulation
+ Final confirmation        Depth on the rainbowed view                      In AP; rainbowing discriminates superficial
+                                                                            from deep
+
+   • The discriminating sign, as a pair: on rainbowing towards the surgeon, laterally protruding posterior
+     calices shorten (move towards the spine), while medially splayed calices, typically upper pole,
+     lengthen.
+   • Air after contrast identifies non-dependent calices — anterior calices if supine. Two cautions: air
+     blocks ultrasound imaging, and contrast must not be injected through the access needle unless
+     placement is certain, since extravasation obscures the image. A darker portion of the collecting
+     system suggests a calyx pointing directly towards or away from the fluoroscopic head.
+   • Urine return on removing the trocar confirms puncture. If none, return to the original 15–30° plane
+     and recheck that the bulls-eye was maintained. Avoid copious antegrade contrast to confirm
+     placement — leakage makes repeat attempts harder.
+   • Around ribs: tilt the C-arm cephalocaudally — head caudal to angle cephalad, and the converse —
+     and protect the intercostal bundles by two sequential bulls-eye manoeuvres: the first to pass the
+     needle tip safely under and past the bundle, the second angled to the target.
+ Ultrasound-Guided Access
+  • Principal advantages: no ionising radiation, plus identification of bowel, spleen, liver and pleura.
+   • Curved array 2–5 MHz transducer, depth and gain optimised per patient. Stones are identified by
+     posterior shadowing and twinkle artefact; posterior calices are easily seen.
+   • If images are to be saved and interpreted, use radiology-standard alignment; otherwise orientating
+     screen left–right to probe left–right movement may be easier. Free-hand and needle-guide techniques
+     are both described.
+ Combined Retrograde- and Antegrade-Guided Access
+  • Lineage: Lawson (1983) retrograde needle placement through a ureteroscope → Hunter (1985) series
+    → first simultaneous retrograde and antegrade renal stone treatment (1988).
+   • Technique elements: place a UAS at the start and pass a ureteroscope through it into the collecting
+     system, improving drainage and flushing fragments down the ureter; the ureteroscope lets the
+     surgeon watch and correct the percutaneous needle in the desired calyx; a basket can grasp the
+     percutaneous guidewire for through-and-through access; threading a 0.035 inch wire retrograde
+     through the ureteroscope and out through the 18-gauge needle saves re-advancing the scope; tract
+     dilatation can be watched in real time.
+   • Double bulls-eye technique, as a sequence: first bulls-eye lines the needle up from skin to stone →
+     with the needle on the stone in the target calyx, place the retrograde scope at the ostium → second
+     bulls-eye lined up from the stone or calyx to the ostium, using the scope tip as the target → through-
+     and-through access obtained → dilate to the stone.
+   • Further uses: the scope itself becomes the fluoroscopic or ultrasound target when the collecting
+     system is poorly opacified or extravasated; it reaches areas percutaneous instruments cannot,
+     fragmenting or relocating stones and fulgurating small tumours; and retrograde basketing and laser
+     lithotripsy at the end of the case clears calices inaccessible from the original tract.
+   • Outcomes: ureteroscopic-assisted access may lower transfusion rates, permits wire placement
+     beyond obstruction under direct vision, and reduces fluoroscopy time and the need for multiple
+     tracts. Meta-analysis advantages: a single position for the whole case, fewer tracts, less bleeding,
+     fewer ancillary procedures and higher stone clearance.
+
+
+
+                                                            page 14 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi             Percutaneous Nephrolithotomy for Renal Stones
+
+   • Disadvantages, as the counterweight: need for experienced assistance (sometimes a second
+     surgeon), need for a split-leg table if prone, and the learning curve of prone cystoscopy and
+     ureteroscopy.
+
+ Conversion of Access and Tract Dilatation
+   • Warn the anaesthetist before dilating — the step is stimulating and complications begin to manifest
+     there.
+   • A through-and-through wire obviates a safety wire; otherwise place an antegrade safety wire, ideally
+     beyond the level of obstruction.
+   • Alken metal serial dilators — dilate even dense scar effectively and are reusable. Amplatz serial
+     dilators — progressively larger firm polyurethane dilators over an 8 Fr polytetrafluoroethylene
+     catheter that rides a 0.035 inch wire.
+   • Balloon dilators — the advantage is one-pass dilatation. Sequence: pass the balloon over the dilating
+     wire → position the tip fluoroscopically, under ultrasound, or under direct vision (endoscopic
+     combined intrarenal surgery, ECIRS) → insufflate with contrast using a LeVeen pressure syringe to
+     20–30 atm → confirm full insufflation with no waist → advance the preloaded access sheath over the
+     balloon with controlled continuous back-and-forth screwing pressure, not overshooting the balloon
+     → fluid return confirms position.
+   • Multiple tracts may be needed for suboptimal angles, especially spindly and bifid collecting systems
+     — but independently carry more bleeding and transfusion, and versus matched single-tract cases
+     reduce renal function, especially in chronic kidney disease. The combined retrograde and antegrade
+     approach reduces the need for them.
+
+ Miniaturising the Percutaneous Nephrolithotomy Tract
+ PCNL TRACT SIZE NOMENCLATURE
+ Designation                             Tract size
+ Standard                                24–34 Fr
+ Mini                                    15–22 Fr
+ Ultra-mini                              11–14 Fr
+ Microperc                               <10 Fr
+
+   • Tract sizes in the literature span 8–30 Fr; the nomenclature above is contested but standard. Jackman,
+     1998 — the first "mini-perc", a 13 Fr tract, for stones under 2 cm.
+   • Early signal: equivalent SFR below 2 cm; higher SFR for stones >2 cm with standard tract sizes.
+   • Mini versus standard, meta-analysis: mini is non-inferior for SFR, with smaller haemoglobin drop,
+     fewer transfusions and shorter hospital stay, at the cost of longer operative time and poorer
+     visualisation; adverse event profiles do not differ.
+   • Stones >2 cm, meta-analysis of randomised trials: SFR and postoperative fever equivalent; mini has
+     longer operative time but shorter stay, and less bleeding and transfusion than 30 Fr tracts — but
+     every advantage of mini disappears when the comparator is a 24 Fr tract, leaving only longer
+     operative time. Focused 24 Fr versus mini studies are awaited.
+
+ Instrumentation for Percutaneous Nephrolithotomy
+   • Rigid nephroscopes span 8–28 Fr; because rigid instruments must pass through the scope, the optical
+     lens is offset. Two standard designs: Wickham and Amplatz, made in versions by Storz, Wolf and
+
+
+
+
+                                                            page 15 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                       Percutaneous Nephrolithotomy for Renal Stones
+
+     Olympus. In both, the main channel carries the optical fibres and serves as the working channel, with
+     irrigation flowing around the instrument.
+
+ NEPHROSCOPE SYSTEMS: SHEATH SIZE, WORKING CHANNEL AND LENGTH
+ System                        Outer sheath             Working channel                 Working length / note
+ Olympus standard              22 Fr (25 Fr with        Main channel, offset lens       230 mm — precludes a 24 Fr access
+                               continuous-flow                                          sheath; inflow adaptor instead
+                               sheath)
+ Olympus mini                  15 Fr                    6 Fr                            220 mm; single or continuous flow,
+                                                                                        offset
+ Storz MIP S                   7.5 Fr; 11/12 dilator 2–3 Fr — laser fibres and          15 cm and 18 cm; 6° direction of
+                               and sheath            devices <2 Fr only                 view
+ Storz MIP M                   12 Fr; 16.5/17.5 or      6.7 Fr — instruments to 4.5     15 cm standard, 7.5 cm paediatric,
+                               21/22 Fr                 Fr                              18 cm long; 12°
+ Storz MIP L                   19.5 Fr; 23/24 or        12.4 Fr — instruments to        15 cm and 18 cm; 12°
+                               25/26 Fr                 11.4 Fr
+ Wolf standard                 20.8 Fr and 24 Fr        Instruments to 10.5 Fr          224 mm; also a 27 Fr extra-long at
+                                                                                        250 mm
+ Wolf mini                     15/18 Fr sheath, 12      6 Fr                            225 mm; laterally offset lens
+                               Fr telescope
+ Wolf ultra-mini (UMP)         11 and 13 Fr water-      Inline 3 Fr telescope           260 mm
+                               jet sheaths
+
+   • What the table is for: working channel, not sheath size, decides what can be passed. Each step down
+     in tract size costs an instrument class, ending with the MIP S, which takes a laser fibre and nothing
+     else.
+   • The trap: the Storz direction-of-view figures are degrees, not inches.
+   • Irrigant temperature. Two studies point the same way: room-temperature fluid causes significant falls
+     in body temperature, late emergence, delayed recovery and postoperative shivering; body-
+     temperature fluid shortens awakening time but was associated with a larger haemoglobin drop.
+     Warm the bags beforehand or use an in-line warmer.
+
+ Lithotripsy and Extraction
+   • Energy options: laser, ultrasonic, pneumatic, and dual-modality lithotripters such as the Trilogy and
+     the ShockPulse SE.
+   • Extraction tools: reusable straight graspers and three-prong grasping forceps; disposable nitinol
+     graspers (Perc NCircle, Perc NGauge, Perc NCompass) — valued because they are flexible and occupy
+     less space in the working sheath.
+   • Two removal strategies as a pair: passive irrigation to wash fragments out, and active suction, as in
+     super-mini PCNL.
+
+   KEY POINTS: PCNL PLANNING AND ACCESS
+     • Careful examination of axial, coronal and sagittal planes and 3D reconstructions on preoperative
+       CT guides surgical planning.
+     • Prone, split-leg prone and modifications of lithotomy are all similarly effective, common positions.
+     • Urologists are increasingly obtaining their own access through a combination of fluoroscopy and
+       ultrasound.
+
+
+                                                            page 16 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi             Percutaneous Nephrolithotomy for Renal Stones
+
+     • Ultrasound reduces radiation exposure and demonstrates pleura, liver, spleen and bowel.
+     • A combined retrograde and antegrade approach has advantages that may lead to better operative
+       outcomes.
+     • Miniaturisation may decrease bleeding complications at the expense of efficiency and
+       visualisation.
+
+ The Role of Flexible Nephroscopy
+   • Once the bulk of stone is cleared through the access point, antegrade and/or retrograde flexible
+     nephroscopy and ureteroscopy is recommended — it improves SFR by clearing isolated inaccessible
+     calices and ureteral fragments, and inspects for collecting system injury. A randomised trial showed
+     markedly higher stone-free rates, fewer access sites and less bleeding.
+   • Technical points: use occasional fluoroscopy to orientate and target elusive densities; use the
+     roadmap nephrostogram taken at the start of the case; when using a flexible cystoscope as a
+     nephroscope, beware the UPJ — the ureter usually will not accommodate that diameter; use a
+     flexible ureteroscope to clear the ureter at the end.
+   • In combined cases, one surgeon lasers and irrigates from below while the other suctions through the
+     percutaneous tract. Large stones basketed from difficult calices can be brought into view for the
+     percutaneous operator and grasped with a larger percutaneous grasper, or the retrograde
+     ureteroscope driven out through the percutaneous sheath with the stone.
+
+ Exit Strategies and Drainage
+   • Goals: good drainage with low intrarenal pressure, and haemostasis.
+   • Sequence at the end of the case: confirm the entire collecting system and the ureter are clear by rigid
+     and flexible endoscopy → back the access sheath out under direct vision, leaving the safety wire as
+     the last hardware removed — at minimum to the lower ureter, ideally into the bladder and out
+     through the urethra → if the safety wire has fallen out during the case, re-establish it endoscopically
+     before sheath removal → observe the access site and apply direct pressure until bleeding stops.
+   • In thin patients, the rib serves as a backstop against which to compress the superficial tract. Most
+     bleeding is controlled conservatively. Fibrin glue injection into the tract has not reduced bleeding in
+     several randomised trials.
+   • Escalation for profuse, uncontrollable tract bleeding: re-insert and insufflate the dilatation balloon,
+     or place a Kaye tamponade catheter over the safety wire under fluoroscopy → alert the anaesthetist
+     → arrange selective angioembolisation.
+   • Drainage options: percutaneous nephrostomy catheters, a double-J ureteral stent, or totally
+     tubeless. A Foley catheter is typically left overnight either way. Small-calibre nephrostomy tubes
+     (≤10 Fr) cause less pain with no increase in blood loss.
+
+ Complications of Percutaneous Nephrolithotomy
+   • Historically PCNL carried significantly more complications than retrograde intrarenal surgery (RIRS).
+   • Cochrane review of 42 trials (Söderberg et al., 2023) — the position-changing evidence: PCNL
+     showed no effect on major complications compared with RIRS for renal stones, while reducing the
+     need for secondary procedures. This is credited to the evolution of PCNL tools and technique.
+   • Distinctive complications of renal access — uncommon or rare, but the list to know: acute
+     haemorrhage; delayed haemorrhage; infundibular stenosis; collecting system injury; small and large
+     bowel injury; splenic and hepatic injury; hydrothorax and pneumothorax; postoperative systemic
+     inflammatory response syndrome (SIRS) and sepsis; metabolic and physiological complications related
+
+
+
+                                                            page 17 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                                  Special Anatomic Considerations
+
+     to irrigation; venous gas embolism; deep vein thrombosis; neuromusculoskeletal complications; loss of
+     renal function; and death.
+
+ SPECIAL ANATOMIC CONSIDERATIONS
+ MODALITY ADAPTATIONS BY ANATOMIC VARIANT
+ Anatomy                SWL                                URS                            PCNL
+ Horseshoe kidney Longer skin-to-stone distance; Collecting system angle makes            Access more medial and
+                  account for the <10 cm         lateral calices difficult                caudal → upper pole posterior
+                  threshold                                                               calyx usually subcostal; more
+                                                                                          colonic injury; more access
+                                                                                          failures
+ Calyceal               Ineffective unless a patent    Effective for interpolar and       Best for lower pole not
+ diverticulum /         ostium is visible in an        upper pole; identifies and         reachable retrograde; mini-
+ infundibular           interpolar or upper pole calyx dilates or incises the ostium      PCNL favourable
+ stenosis
+ Pelvic kidney          Option for stones <2 cm            Option for stones <2 cm        Bony pelvis hampers access;
+                                                                                          ultrasound guidance, escalating
+                                                                                          to CT or laparoscopic guidance
+ Urinary diversion Option, dictated by stone               Orifice access possible but    Supine when no transurethral
+                   factors                                 unpredictable; loopogram or    access; antegrade wire access
+                                                           indigo carmine to locate       is the reliable route
+ Renal transplant       Find a window avoiding the         Angled catheters or wires, or  Ultrasound to avoid bowel;
+                        bony pelvis; prone helps           Albarrán bridge with 70° lens; balloon to 30 atm, or metal/
+                                                           shorter access sheaths         Amplatz dilators, for the
+                                                                                          perigraft scar rind
+ Spinal deformity / Bony structures in the blast Good alternative; positioning            Equal clearance, but more
+ contractures       path; poor fragment passage; and access individualised                secondary procedures and
+                    modest SFR, repeated                                                  more infectious complications
+                    sessions
+
+   • What the table is for: the variant never changes which modalities exist, only which is reachable. The
+     anatomy alters the approach, not the choice of operation.
+   • The pattern across the rows: in five of the six, ultrasound or a retrograde scope is the thing that
+     makes access safe — the adaptations are overwhelmingly about seeing what is in the way.
+
+ Horseshoe Kidney
+   • Stones occur in roughly one in five horseshoe kidneys. URS, SWL and PCNL are all feasible with safety
+     and efficacy broadly comparable to normal kidneys.
+   • Concomitant ureteropelvic junction obstruction is common, and the course of the proximal ureter
+     predisposes to obstruction by crossing vessels.
+   • CROES PCNL study group (Osther et al., 2011): median operative time was longer and percutaneous
+     access failed more often — 5% versus 1.7% in orthotopic kidneys.
+   • Flexible antegrade nephroscopy reaches the otherwise inaccessible lower medial calices.
+
+ Calyceal Diverticulum and Infundibular Stenosis
+   • Stones form within calyceal diverticula or behind a stenotic infundibulum; diagnosis is by intravenous
+     urography or CT urography.
+
+
+
+
+                                                            page 18 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                 Laparoscopic and Robotic Stone Extraction
+
+   • Treatment trigger, as the pair: asymptomatic patients need no treatment; treat those presenting
+     with flank pain, recurrent UTI or haematuria.
+   • Direct percutaneous puncture onto the stone is ideal but difficult — the cavity is small and the
+     parenchyma overlying a focally obstructing stone is often thin.
+   • Retrograde-first strategy, as a sequence: ureteroscopy identifies whether an ostium to the obstructed
+     calyx exists → pass a wire → if angles are favourable, laser-incise the ostium or dilate it with a small-
+     calibre ureteral balloon → then treat the stone retrograde, or obtain percutaneous access targeting
+     the tip of the scope or contrast passed through the dilated ostium.
+   • Fulguration of the diverticular urothelium after stone clearance is controversial — where performed,
+     by resectoscope with a roller ball electrode, or by laser.
+   • Mini-PCNL versus RIRS in a large global match-paired study: after propensity matching, both were
+     effective with similar stone-free and reintervention rates — RIRS gave the shorter hospital stay.
+
+ Urinary Diversions
+   • Modality is dictated by stone volume, location, number and type; the type of diversion dictates the
+     approach and the positioning.
+   • In patients whose native bladder forms part of the diversion, establish whether the bladder neck has
+     been closed — a surgical planning point, not a detail.
+   • From established wire access, the surgeon may proceed antegrade, retrograde or combined,
+     depending on the location and volume of stone.
+
+ Renal Transplants
+   • General consensus is to remove upper tract stones in transplant kidneys, for two reasons kept as a
+     pair: risk of renal failure with obstruction, and non-traditional presentation because the graft is
+     denervated.
+   • Presenting signs may be only: vague graft site discomfort, fever, oliguria, haematuria and anasarca —
+     classic pain is absent.
+
+ Patients with Spinal Deformity or Limb Contractures
+   • Assess flexibility preoperatively — it determines the whole approach.
+   • Fragment passage after SWL is hampered by lack of ambulation and aberrant renal and ureteral
+     anatomy; older literature shows only modest stone-free results with frequent need for multiple
+     sessions.
+   • The operator requirement: be comfortable with supine, flank and prone positioning, and be
+     hypervigilant about padding pressure points wherever they fall — standard positioning protocols do
+     not apply to this population.
+
+ LAPAROSCOPIC AND ROBOTIC STONE EXTRACTION
+   • Safety and feasibility are established, but it is not first-line — the other three modalities are less
+     invasive and highly effective.
+   • Indication, per AUA: consider only when SWL, URS and PCNL have failed or are expected to fail.
+   • The special situation is concomitant ureteropelvic junction obstruction, where a laparoscopic
+     approach addresses both in one operation. The prevailing practice, however, is to treat the stones
+     first and reassess the junction afterwards before committing to reconstruction.
+   • Monarch (Ethicon) — a flexible robotic platform designed to facilitate access using an electromagnetic
+     targeting system, driven by a game controller. First United States procedure by Landman at the
+
+
+                                                            page 19 of 20
+Chapter 98 — Surgical Management of Upper Urinary Tract Calculi                Laparoscopic and Robotic Stone Extraction
+
+     University of California, Irvine, in 2023, with a clinical study underway in collaboration with Desai at
+     the University of Southern California.
+   • With continuing robot and single-port development, the role of laparoscopy and robotics in stone
+     disease may evolve.
+
+ Training Considerations
+   • Training has concentrated on the technically demanding skill sets: upper tract ureteroscopic access
+     and manoeuvres; three-dimensional visualisation aids using virtual and augmented reality and 3D
+     printing; and models and curricula teaching fluoroscopic and ultrasound-guided percutaneous
+     access, dilatation and stone treatment.
+   • Several physical and virtual reality training platforms carry validity evidence for training, catalogued
+     in a systematic review.
+
+   KEY POINTS: PCNL OUTCOMES, SPECIAL ANATOMY AND TRAINING
+     • Flexible nephroscopy and ureteroscopy ensure a stone-free state at the end of PCNL.
+     • Serious complications of PCNL are rare but may carry significant morbidity and even mortality.
+     • Ureteroscopy and/or PCNL are good approaches to stones in calyceal diverticula and behind
+       infundibular stenosis.
+     • Ureteral stents and small percutaneous nephrostomy tubes are both acceptable forms of drainage
+       after PCNL.
+     • Positioning, access, modality, approach and exit strategies should all be individualised to
+       maximise good outcomes.
+     • Many simulation-based curricula have validity evidence for training the knowledge and skills to
+       treat upper tract calculi.
+
+
+
+
+                                                            page 20 of 20
+

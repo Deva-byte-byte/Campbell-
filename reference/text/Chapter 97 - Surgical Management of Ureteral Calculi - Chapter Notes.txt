@@ -1,0 +1,827 @@
+Chapter 97 — Surgical Management of Ureteral Calculi
+ • Lifetime risk of a ureteral stone is 12% in males and 6% in females, so every urologist manages the
+   problem.
+ • Obstruction distends the renal capsule, which causes the pain; the dangerous consequences are renal
+   damage and infection or sepsis.
+ • Depending on size, location and circumstances, spontaneous passage may be attempted first.
+ • Diagnosis can be difficult because the pain mimics conditions from appendicitis to ruptured aortic
+   aneurysm; imaging is the most definitive step.
+ • Absence of hydronephrosis alone does not exclude a ureteral stone. Ultrasound is now argued by its
+   proponents to be almost as sensitive as CT.
+IMAGING FOR SUSPECTED URETERAL STONE — COMPARISON
+Modality                Strength                                           Limitation
+Noncontrast computed    Gold standard; highest sensitivity; has replaced   Ionising radiation
+tomography (NCCT)       plain radiography and intravenous pyelography;
+                        low-dose protocols are as effective as full dose
+Ultrasonography (US)    No ionising radiation                              Misses stones between the
+                                                                           ureteropelvic junction (UPJ) and
+                                                                           ureterovesical junction (UVJ), i.e. the
+                                                                           mid-ureter
+US + kidney-ureter-     Higher combined sensitivity; performs better       Radiolucent stones invisible on KUB
+bladder radiograph      once a prior NCCT has localised the stone
+(KUB)
+
+
+MEDICAL EXPULSIVE THERAPY
+ • Medical expulsive therapy (MET) with α-blockers, which relax ureteral smooth muscle, has been the
+   mainstay of adjunctive treatment.
+ • MET remains controversial: the large prospective SUSPEND trial (Pickard et al., 2015) showed no
+   difference in the need for intervention at 4 weeks and equivalent passage rates versus control.
+   Publications nonetheless continue on α-blockers, calcium channel blockers and phosphodiesterase-5
+   inhibitors.
+ • Spontaneous passage becomes less likely with time, so intervention should generally be considered
+   after 4–6 weeks.
+ • Interventions from least to most invasive: shock wave lithotripsy (SWL) → ureteroscopy (URS) →
+   percutaneous nephrolithotomy (PCNL) with antegrade URS.
+URGENCY OF INTERVENTION — COMPARISON
+Tier                      Trigger
+Elective                  Failed trial of spontaneous passage
+Urgent                    Unrelenting pain; renal dysfunction secondary to obstruction
+Extremely urgent          Obstructive pyelonephritis or sepsis
+
+Preparation of the Patient Before Surgery
+ • History and examination identify absolute contraindications to PCNL or SWL, such as uncorrected
+   coagulopathy, and any active, untreated urinary tract infection (UTI).
+
+
+
+
+                                                   page 1 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                                 MEDICAL EXPULSIVE THERAPY
+
+ • An obstructed, infected kidney is drained only — percutaneous nephrostomy or ureteral stent — without
+   manipulating the stone.
+ • Laboratory tests: full blood count, electrolytes, renal function, and a urine culture so that perioperative
+   antibiotics can be tailored to the organism.
+ • Every patient needs preoperative imaging. Before SWL a KUB confirms the stone is radio-opaque (unless
+   US-guided SWL is available); a preoperative KUB also allows follow-up by KUB and US instead of repeat
+   NCCT, reducing radiation.
+ANTITHROMBOTIC MANAGEMENT BY MODALITY — COMPARISON
+                   Antiplatelet or
+ Modality          anticoagulant                   Bridging
+ PCNL              Stop if medically feasible      Short-acting heparin if thrombotic risk is high
+ SWL               Stop if medically feasible      Not recommended (too few data); if bridging is needed, choose another
+                                                   modality
+ URS with          Need not be stopped             Not required; expect more gross haematuria and worse stent
+ laser                                             symptoms
+
+Concept — Antithrombotic policy follows the energy: SWL and PCNL injure parenchyma where bleeding
+cannot be seen or controlled, whereas laser URS works under direct vision within the lumen, so only URS
+tolerates continued anticoagulation.
+
+TREATMENT DECISION
+FACTORS IN CHOOSING TREATMENT FOR URETERAL CALCULI
+ Domain       Factors
+ Surgeon      Experience, training, skills, resources
+ Patient      Symptoms, expectations, comorbidities, anatomy; body habitus and skin-to-stone distance (SSD)
+ Stone        Location, size, density, radio-opacity, composition, presence and duration of obstruction, infection
+ Technical    Equipment, cost, anaesthetic support, health-system resources
+
+ • Surgeons need several techniques at their disposal to achieve the best outcome.
+ • SWL copes poorly with larger stones because the patient must pass many fragments or undergo repeated
+   sessions; the historical 2 cm upper limit has given way to evidence of poorer stone-free rates (SFRs)
+   above 10–15 mm.
+ • A plain-language shared decision aid for URS versus SWL both informs the patient about the procedures
+   and informs the urologist of that patient's goals.
+ • Impaction is gauged on CT or US by the thickness of the ureteral wall around the stone. Severely
+   impacted stones resist SWL and are better treated endoscopically, retrograde or antegrade.
+ • Both SWL and URS can treat a stone anywhere in the ureter. In the upper ureter (≤2 cm) a randomised
+   trial found similar SFR at 3 months, more retreatment with SWL and similar complications; in the distal
+   ureter, SFRs are similar, SWL more often needs a second session, and complications are lower with SWL.
+ • Large, hard proximal stones favour PCNL with antegrade URS; in a comorbid patient unfit for PCNL,
+   repeated retrograde URS may be safer.
+SIZE CEILINGS BY MODALITY — COMPARISON
+ Modality                             Size guidance
+ SWL                                  Historical limit 2 cm; results decline above 10–15 mm
+ URS                                  No definitive limit
+
+
+
+
+                                                            page 2 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                                    TREATMENT DECISION
+
+ Modality                             Size guidance
+ PCNL (± antegrade URS)               Consider above 15–20 mm, especially large, hard proximal stones
+
+Concept — Size sets the ceiling for each modality, and impaction and SSD erode SWL further; within the
+ceilings the trade is constant — SWL gives fewer complications but more sessions; URS gives one session at
+slightly higher morbidity.
+
+URETEROSCOPE CHOICE
+ • Three types exist — rigid, semirigid and flexible — differing in size, optics and working channels.
+   Availability often dictates the choice, but anatomy, stone location and expertise matter. Scopes were
+   designed as reusable; single-use flexible scopes are recent.
+
+Semirigid Ureteroscopes
+ • Rigid scopes use the Hopkins rod-lens system: contoured glass rods with intervening air spaces acting as
+   lenses. The outer diameter increases toward the base, so the scope itself dilates the orifice and ureter.
+ • Force applied off the scope's axis distorts the rod-lens image, first seen as a semicircular blacked-out
+   area.
+ • The semirigid scope (1989) replaced the rod lenses with a flexible fused-quartz fibre bundle inside a
+   rigid casing, allowing flexion of up to 2 inches off axis; it rapidly superseded rigid scopes.
+ • Semirigid scopes are robust and cheap, but are damaged by torque — typically at the pelvic brim, where
+   the shaft can bend or break — and by laser fired too close to the tip.
+
+Flexible Ureteroscopes
+ • Flexible scopes suit upper ureteral and renal stones: if a proximal stone migrates into the kidney, the
+   scope can follow and treat it.
+ • Deflection up to 270° reaches even the lower pole, and the standard 3.6-French (Fr) working channel
+   admits small baskets or laser fibres while preserving irrigation.
+ • Fibreoptic and digital, reusable and single-use versions exist, and no single type is best for all cases.
+Fibreoptic Flexible Ureteroscopes
+ • The fibre bundles that carry light and image are delicate; deflection, torque and bending break fibres
+   early in a scope's life, producing black spots and falling brightness until repair is needed.
+ • Channel leaks show as lens fogging or water staining and demand repair, because catastrophic failure
+   usually follows during reprocessing.
+ • Bundle density varies by manufacturer; a honeycomb pattern limits image fidelity, worse with coarser
+   bundles.
+Digital Flexible Ureteroscopes
+ • Introduced in the mid-2000s with charge-coupled device (CCD) or complementary metal-oxide
+   semiconductor (CMOS) sensors that convert photons to electrons at the tip ("chip-on-the-tip"). Because
+   the signal travels digitally, the image does not degrade over time.
+ • CMOS runs cooler, uses less energy, processes faster and is cheaper than CCD, so CCD has been phased
+   out.
+ • No camera head and fewer cords improve ergonomics.
+ • In comparison studies digital scopes gave better clarity, magnification and manoeuvrability without
+   moiré, reached the whole collecting system more often, and shortened operative time with similar SFRs.
+   The better view prompted speculation about seeing the earliest stages of calcium oxalate stone
+   formation.
+
+
+                                                         page 3 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                                        URETEROSCOPE CHOICE
+
+ • Fibreoptic scopes survive because the chip makes the digital tip larger — about 8.5 Fr, flatter and less
+   tapered — so entering the orifice and a narrow ureter is harder. Future miniaturisation may close this gap;
+   meanwhile all major manufacturers still make both fibreoptic and digital scopes.
+Durability and Failure Rates of Flexible Ureteroscopes
+ • Fibreoptic scopes have always needed frequent repair, and modern designs have not improved on earlier
+   generations.
+ • Scope-sparing technique extends the repair interval: relocating lower-pole stones to an accessible calyx,
+   using small-core (200 μm) fibres, working through a ureteral access sheath (UAS) and avoiding deflection
+   inside it.
+ • Digital scopes were hoped to be more durable, and early single-centre series suggested so, but later
+   comparison showed failure rates similar to fibreoptic scopes.
+ • Keep a fibreoptic scope available: when a digital scope cannot pass a narrow UPJ or infundibulum, the
+   smaller fibreoptic scope has reached the target, sparing a second procedure.
+ • Overall, one repair falls due roughly every 15 procedures, at high cost per repair — a burden on health
+   systems.
+ • Most centres therefore run a hybrid fleet: reusable scopes routinely, single-use scopes for difficult cases
+   likely to damage an instrument.
+Single-Use Digital Flexible Ureteroscopes
+ • Single-use digital flexible ureteroscopes (SDFUs) answer the repair problem: a new scope with
+   maximum deflection every case, no reprocessing cost or staff, and a fixed, budgetable cost instead of
+   unpredictable repairs.
+ • Bench, cadaveric and clinical performance matches reusable scopes, so cost-effectiveness becomes the
+   deciding question. The true cost of a reusable scope includes purchase, repair, cleaning, sterilisation,
+   quality checks and lost opportunity when it fails; micro-costing has found similar cost per case.
+ • Economics shift with infrastructure — a new centre without towers or processors faces higher capital
+   cost — so each centre must do its own analysis.
+ • Later SDFUs are all CMOS-based with subtle differences and few direct comparisons; manufacturers are
+   prioritising single-use development.
+LITHOVUE (BOSTON SCIENTIFIC, 2016) — FIRST WIDELY ADOPTED SDFU
+ Feature                          Specification
+ Sensor; field of view            CMOS; 2–50 mm
+ Diameter                         7.7 Fr tip, 9.5 Fr shaft
+ Light source                     Integrated light-emitting diode (LED); no external light source
+ Working channel;                 Single 3.6 Fr channel at 3 o'clock; ≥270° in both directions
+ deflection
+ Connection; sterility            Single cable to a dedicated processor; supplied sterile, not designed or approved for
+                                  reprocessing
+
+URETEROSCOPE TYPES — COMPARISON
+                  Semirigid             Fibreoptic flexible           Digital flexible (reusable)   Single-use digital
+ Image over       Stable unless         Degrades as fibres break No degradation                     New each case
+ time             shaft bent
+ Calibre          Tapered; dilates      Smallest, tapered tip         Larger, flatter tip           7.7 Fr tip
+                  orifice
+ Platform         Standard              Agnostic                      Proprietary processor only    Dedicated processor
+
+
+                                                              page 4 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                                      URETEROSCOPE CHOICE
+
+                  Semirigid            Fibreoptic flexible           Digital flexible (reusable)   Single-use digital
+ Cost logic       Robust, cheap        Repair about every 15 cases; reusable cheaper above         Cheaper below about 99
+                                       about 99 cases per year                                     cases per year
+
+The table tests calibre against image and volume against cost. The trap is assuming the digital scope is more
+durable or universally better: it is neither, and its proprietary processor matters when equipping a theatre.
+
+Intrarenal Pressure Monitoring
+ • Raised intrarenal pressure (IRP) drives fluid absorption, pain, fever, systemic inflammatory response
+   syndrome (SIRS) and sepsis.
+ • Measuring IRP has needed a separate sensor in the collecting system; the LithoVue Elite SDFU integrates
+   a pressure sensor for continuous real-time monitoring, which should allow safe thresholds and
+   guidelines to be defined. Temperature and fragment-size sensing are expected next.
+Concept — Every ureteroscope choice trades calibre against image and durability against cost: the fibre
+bundle gives the smallest tip but degrades, the chip gives the best image but a larger tip and no durability
+gain, and single use removes repair cost at a price that only low-volume centres recoup.
+
+CONSENT AND ACCESS: URETEROSCOPY
+ • Consent covers: failure to access the ureter or kidney; incomplete fragmentation or clearance; further
+   procedures; perforation, avulsion and sepsis; and long term, stricture, further surgery, loss of renal
+   function or nephrectomy.
+ • The first step is to identify the ureteral orifice and place a safety wire, which may also serve as the
+   working wire.
+ • Segura's dictum: the only difference between an endourological procedure and a motorcycle accident is
+   the presence of a safety wire. Its routine value is debated, but in the rare case that needs it, it is decisive.
+
+Getting to the Stone
+ • The "difficult ureter" is narrow or tortuous and will not admit instruments easily. The choice is between
+   endourological manoeuvres now and a stent for passive dilation with a staged return — the latter costs
+   extra procedures, anaesthetics and convalescence but is among the safest options.
+ • Second-look URS after pre-stenting is best done after 14 days and within 5 weeks; earlier or later
+   procedures had lower SFRs.
+
+Ureteral Access Sheaths
+ • UASs suit proximal ureteral and renal stones best. For renal stones they may improve SFR and lower
+   infection risk, irrigation pressure, scope wear and operative time.
+ • For ureteral stones the sheath helps when there is a large burden requiring repeated scope passes,
+   when dusting relies on irrigation outflow for vision, and when high laser energy creates heat that must
+   be carried away.
+ • Placement uses two wires: the safety wire holds access while the sheath passes over a second, stiff
+   working wire under fluoroscopy. Sheaths have a hydrophilic coating and a tapered obturator; the
+   obturator may be passed alone first to dilate.
+ • A safety wire outside the sheath can cause resistance: either use the safety wire as the working wire, or
+   use sheaths designed to keep the wire outside the lumen, where it still serves as a safety wire.
+ • About half of endourologists use a UAS for ureteral stones, most commonly 12/14 Fr.
+ • Sheath pressure can cause ureteral ischaemia and stricture; in animals 14/16 Fr sheaths reduced
+   ureteral blood flow faster, more deeply and for longer than smaller ones. Clinically, stricture after sheath
+
+
+                                                             page 5 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                         CONSENT AND ACCESS: URETEROSCOPY
+
+   use is rare; earlier high stricture rates reflected larger scopes and repeated passage with fragments, the
+   very trauma a sheath prevents.
+ • Sheaths are hard to stabilise low in the ureter, so most reserve them for stones above the iliac vessels,
+   with the tip just below the stone; excess external length is unstable and shortens the scope's working
+   length.
+
+Guidewire Types
+ • Wires range from 0.018 to 0.038 inch in diameter and 145 to 260 cm in length, in varied materials,
+   stiffness and coatings.
+ • Tactile feedback and judicious fluoroscopy guide passage, following ALARA (as low as reasonably
+   achievable) but never at the expense of safety or the surgical goal.
+ • If the wire's path is uncertain, pass an open-ended or dual-lumen catheter and perform a retrograde
+   pyelogram (RPG); whether an RPG should be routine before every URS is debated.
+ • Nitinol (nickel–titanium) is pseudoelastic with shape memory and resists kinking;
+   polytetrafluoroethylene (PTFE) wires with a nitinol core are very kink-resistant. The aim is a wire stiff
+   enough to carry instruments yet flexible enough to pass an obstruction.
+GUIDEWIRE CLASSES — COMPARISON
+                Hydrophilic                            PTFE-coated                       Hybrid
+ Surface;       Lubricious when wet; nitinol           Hydrophobic; stainless steel or   Floppy hydrophilic nitinol tip, stiff
+ core                                                  nitinol                           PTFE stainless-steel shaft
+ Best for       Bypassing obstructing or               Safety or working wire; resists   Difficult anatomy plus instrument
+                impacted stones with low               displacement; eases passage of    passage; some have scope-
+                perforation risk                       instruments                       protecting segments
+ Weakness       Slippery — easily displaced            Damages the flexible-scope        —
+                from the ureter                        channel on backloading
+
+Other enhancements include markings, removable cores to vary tip flexibility, and steerability. The trap is
+the pairing: the hydrophilic wire is the best for getting past a stone but the worst at staying in place.
+
+Safety Wires
+ • A safety wire delineates anatomy, prevents loss of access and allows a stent after perforation.
+ • "Wireless" URS, using the flexible scope itself as the safety wire, has produced low complication rates
+   without perforation or avulsion in uncomplicated cases.
+ • Because complexity cannot be predicted in advance, most experts still advocate a safety wire, tailored
+   to the case and the surgeon.
+
+Obstructed Ureters
+ • About one ureter in ten cannot be accessed safely despite miniaturisation. Single-stage techniques spare
+   anaesthetics, but safety governs: a double-J stent and a staged procedure are preferred to risking injury.
+Wire will not bypass the stone. Open-ended catheter over the wire to 1–2 mm short of the obstruction →
+RPG to outline the obstruction and any contrast passing it → using contrast hydrodissection, pass a
+hydrophilic floppy-tip wire at once, the catheter's stiffness directing the force → if successful, advance the
+catheter past the obstruction → exchange for a stiff wire, which also straightens a tortuous ureter.
+ • If the catheter abuts the stone, the wire cannot find the natural channel and may exit at 90° —
+   perforation. A torque vice and angled wires or catheters help in a tortuous ureter.
+ • Alternative: leave the wire at the obstruction as a safety wire, displace the stone or perform direct
+   lithotripsy, then place the safety wire under direct vision once the proximal ureter is seen.
+
+
+
+                                                              page 6 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                     CONSENT AND ACCESS: URETEROSCOPY
+
+Ureteral Dilating Balloons
+ • Balloons (4–10 cm) pass over a wire under fluoroscopy. There is no set inflation time; the working rule is
+   pulsed fluoroscopy until the waist resolves → hold 1–2 minutes → deflate and remove, the wire
+   remaining for the stent.
+ • Miniaturisation has made active orifice dilation uncommon; even an early 7.5 Fr flexible scope needed
+   none in about half of cases.
+ • When the wire is in but the scope will not enter the orifice, persistence risks a mucosal flap, false lumen
+   and perforation.
+Scope will not enter the orifice.
+ • Railroading: a second wire is placed through the scope into the ureter, and the scope dilates its way in
+   between the two wires; best with a rigid or semirigid scope.
+ • Dual-lumen catheter: dilates the ureter and places a second wire or performs an RPG through its second
+   channel; the scope then passes between the wires.
+ • Rotate the flexible scope, because its working channel is offset from the centre of the tip; rotation
+   minimises the leading profile.
+ • Use the UAS obturator as the dilator (Table 97.1), saving a disposable dilator and avoiding a dual-lumen
+   catheter.
+TABLE 97.1 INSERTING A SECOND GUIDEWIRE USING A URETERAL ACCESS SHEATH (UAS)
+Obturator alone over the guidewire to test and dilate → obturator + sheath into the distal ureter → remove
+the obturator → second guidewire through the sheath (position confirmed when external lengths match,
+and by fluoroscopy) → remove the sheath, leaving two wires → reload obturator and sheath over one wire
+(a stiffer wire helps), then remove that wire and the obturator → the external wire is the safety wire.
+The sequence creates a safety wire outside the sheath using only the sheath's own obturator. The trap is the
+end state: the wire inside the sheath is removed, and only the external wire remains.
+TABLE 97.2 METHODS TO DILATE A URETER
+ Method                         Best for               Note
+ Indwelling stent               Whole ureter           Gentlest; staged return. For avascular strictures, balloon may be
+ (passive)                      narrow                 preferable
+ Serial dilators                Long narrow            Progressively larger sizes
+                                segments
+ Coaxial dilators, 8–10 Fr      General dilation       Also allow RPG and safety wire
+ Balloon                        Focal (short)          Wire stays in place
+                                stenosis
+ UAS obturator, then            Planned sheath use     Dilates and gauges tightness
+ sheath
+ Semirigid ureteroscope         Distal ureter          Dilates while inspecting
+
+The method is matched to the length of narrowing: diffuse → stent or serial dilators; focal → balloon. The
+trap is that the gentlest method commits the patient to a second procedure.
+Pre-stenting. A pre-placed stent dilates the ureter passively, makes most of these manoeuvres unnecessary,
+and reduces ureteral injury during sheath insertion.
+PRE-STENTING BEFORE URS — EVIDENCE SERIES
+ Study type                      Finding
+ Retrospective matched           Higher SFR for ureteral stones, confined to stones ≥5 mm
+ pair
+
+
+                                                         page 7 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                      CONSENT AND ACCESS: URETEROSCOPY
+
+ Study type                      Finding
+ Meta-analysis                   Better SFR for renal stones and flexible URS; no effect for ureteral stones or semirigid
+                                 URS
+ Large global URS database       No SFR advantage for ureteral stones
+
+Verdict: pre-stenting is not necessary for URS of ureteral stones; the positive retrospective result is
+outweighed by the meta-analysis and the database.
+
+α-Blockers Before Ureteroscopy
+ • The rationale is the abundance of α1 receptors in the distal ureter, which govern peristalsis and tone.
+ • A meta-analysis of randomised trials found less need for intraoperative dilation, better access to the
+   stone, higher stone-free status at 4 weeks and shorter operative time. α-Blockers may also ease
+   postoperative and stent pain and lower the force needed to insert a 12/14 Fr sheath.
+ • Without adequately powered trials, use is judicious — distal stones, or when large scopes or a sheath
+   are expected. Most trials gave 1 week preoperatively.
+Concept — Every access manoeuvre is a way of widening the ureter without tearing it: the hierarchy runs
+from time (stent, α-blocker) through graded mechanical dilation to direct force, and safety always permits
+retreating to a stent and a staged procedure.
+
+LITHOTRIPSY TECHNIQUES
+Basketing Techniques
+ • A small stone may simply be grasped and removed; retrieval devices vary in shape, size, material and
+   engagement ability.
+Engaging from behind. Pass the basket beyond the stone → open → draw back toward the scope under
+vision → agitate gently → close slowly. For a stone that drifts forward, open the basket just larger than the
+stone and push it slightly forward as it closes.
+ • Keep the stone 5–10 mm from the scope tip during withdrawal so the ureter is always seen and not
+   caught; blind basketing is unsafe.
+ • Align the stone's long axis with the ureter by partly opening and agitating the basket, using the ureteral
+   walls or irrigation.
+Entrapped stone. Open the basket and push the stone into a wider segment → if immovable, disassemble
+the basket, leaving its shaft as a wire → reinsert the scope alongside → laser the stone (or a nitinol basket)
+→ if the basket cannot be disassembled, cut it distal to the handle.
+ • Dual-channel scopes allow a small fibre through the irrigation channel without disassembly; very small
+   baskets (1.5 Fr Sacred Heart halo) allow laser and basket together in a single channel.
+ • Assess before engaging; when in doubt, fragment before extracting, to prevent perforation and avulsion.
+
+Electrohydraulic Lithotripsy
+ • Electrohydraulic lithotripsy (EHL), described in the 1950s, discharges a spark through fluid, creating an
+   expanding vapour bubble and a pressure wave that radiates in all directions — hence its danger.
+ • The 3–5 Fr probe limits irrigation, must sit on or very near the stone and away from the scope tip; hard
+   stones (cystine, calcium oxalate monohydrate) resist it, and ureteral trauma risk is high, so an RPG after
+   treatment checks for extravasation.
+ • Holmium laser proved more effective for larger stones and faster, so EHL has largely been abandoned.
+
+
+
+
+                                                         page 8 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                                       LITHOTRIPSY TECHNIQUES
+
+Pneumatic Lithotripsy
+ • Compressed air drives a metal probe against the stone like a jackhammer. The probes are semirigid, so
+   they work only through rigid or semirigid scopes — never flexible ones; the usual base rate is 12 Hz, and
+   flexing the probe off axis wastes energy.
+ • Success is greatest below the pelvic brim and least above it, and falls with larger stones and existing
+   hydroureteronephrosis.
+ • The energy is not directly traumatic, but pressing the probe on a partly fragmented stone can perforate
+   the ureter. The chief limitations are accessibility and proximal stone migration.
+Antiretropulsion devices. Placed between stone and kidney to stop fragments migrating, they may double as
+a safety wire but add cost and time. Migration matters most with rigid or semirigid URS, where it may end
+the procedure or force conversion to antegrade percutaneous access or SWL. They improve SFR, but demand
+has fallen with flexible URS.
+FIG. 97.3 ANTIRETROPULSION DEVICES
+ Device                                            Mechanism
+ Stone Cone (Boston Scientific)                    Conical wire forming a cone behind the stone
+ Accordion (Accordion Medical)                     Film passed flat; pulling its wire folds it into a barrier
+ NTrap (Cook Medical)                              Nitinol catch behind the stone
+
+Holmium:YAG Laser Settings
+ • Early low-power, short-pulse (SP) holmium:yttrium-aluminium-garnet (Ho:YAG) lasers fragmented
+   stones, the short pulse breaking pieces off, which were split further until they could pass or be basketed.
+ • Higher-power Ho:YAG introduced dusting — low pulse energy at high frequency. Fragments can then be
+   "popcorned": they whirl in a cyclone-like motion and are ground to dust as they meet the laser (Fig. 97.4).
+ • Lower pulse energy produces smaller pieces and less retropulsion, so the stone is easier to target
+   continuously; long-pulse (LP) and pulse-modulated Ho:YAG reduce retropulsion further. The fibre tip
+   serves as a size reference for fragments.
+ • High dusting settings (0.3 J × 80 Hz or 0.2 J × 120 Hz, both 24 W) heat the irrigant; for large stones
+   needing prolonged lasing, a sheath for outflow and room-temperature or colder irrigant are needed, and
+   in the ureter power should be capped at 10 W.
+
+Thulium Fibre Laser Settings
+ • The thulium fibre laser (TFL) can fire above 2000 Hz, but a randomised trial showed lower settings may
+   be optimal: TFL was faster than Ho:YAG, equal for ureteral SFR and better for renal zero-fragment rate,
+   challenging the idea that low energy with high frequency is always best.
+ • Why lower settings work: power (W) is heat, so low settings widen the safety margin; lower frequency
+   means more energy strikes the stone rather than water and less misfires into tissue. Start low; increase
+   only as needed.
+ • TFL's lower peak power and long pulse (about 50–200 μs) ablate stone into fine particles rather than
+   breaking off fragments, so technique differs from SP Ho:YAG.
+ • In an impacted ureteral stone, target the centre first: as space opens the sides fall into the lumen and can
+   be lased away from the wall; the scope tip dislodges fragments stuck to urothelium. Increase energy in
+   small steps, keeping total power ≤10 W; fragments are usually small enough that no basket is needed.
+ • If visibility is poor, lower the frequency and keep power constant by raising energy.
+ • In the kidney, ureteral settings are safe, or dusting settings can be used; paint the stone surface and do
+   not drill — with TFL drilling melts the stone and causes flashing, although it can fragment with SP Ho:YAG.
+
+
+                                                            page 9 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                                    LITHOTRIPSY TECHNIQUES
+
+   Above 40 Hz many pulses miss the stone and strike urothelium. SP duration is used throughout, since
+   TFL retropulsion is already minimal and longer pulses add nothing.
+LASER SETTINGS — HO:YAG VERSUS TFL
+                            Ho:YAG                                               TFL
+ Stone effect               SP breaks off larger fragments; drilling can         Fine particles; drilling counterproductive
+                            fragment
+ Retropulsion               SP high; LP and pulse-modulated lower                Minimal, even at SP
+ Fragmentation              0.6–1.0 J × 6–10 Hz (3.6–10 W)                       Start 0.6 J × 6 Hz SP (3.6 W); rarely >1.0 J
+ settings
+ Dusting settings           0.2–0.3 J × 40–80 Hz (8–24 W)                        0.2 J × 40 Hz (8 W); >40 Hz often
+                                                                                 unproductive
+ Heat                       Identical rule for both: heat tracks power, not laser type
+
+Laser Settings for Ureteroscopy
+ • Settings depend on location and desired outcome — fragment and basket, or dust and let pass — and
+   both yield high-quality results.
+ • A second randomised trial compared a 60 W TFL with a 120 W pulse-modulated Ho:YAG at higher
+   starting settings (fragmentation 0.8 J × 8 Hz, 6.4 W; dusting 0.3 J × 80 Hz, 24 W) and found SFR, operative
+   time, complications and zero-fragment rate similar, though follow-up used KUB and US rather than the
+   more sensitive NCCT.
+ • Criticism: the manufacturer's Ho:YAG dusting setting may not suit TFL, since at high frequency fewer
+   pulses hit the stone and more energy is absorbed by fluid.
+RANDOMISED TFL VERSUS HO:YAG TRIALS — COMPARISON
+ Trial                           Settings              Verdict
+ First randomised trial          Low settings          TFL faster; equal ureteral SFR; better renal zero-fragment rate
+ Second randomised trial         Higher settings       Equivalent; less sensitive imaging
+
+The divergence is explained by the settings: high-frequency dusting may handicap TFL, so the setting chosen,
+not only the laser, decides the comparison.
+
+Temperature Safety When Using Lasers
+ • Heat is a by-product of every laser; attention to settings and thermal relaxation time prevents delayed
+   thermal injury and stricture.
+ • The ureter and a calyx hold small fluid volumes that heat quickly; above 43 °C, tissue is damaged.
+   Without irrigation, every setting tested on the bench exceeded 43 °C.
+ • Laser type does not determine heat — power, technique and adjuncts do. Fluid temperature tracks
+   power for both TFL and Ho:YAG, so the rule is the lowest effective power, with a guide of ≤10 W in the
+   ureter and ≤25 W in the kidney.
+ • An access sheath lowers both IRP and temperature by providing outflow, with both lasers; in an animal
+   model, a 14 Fr sheath kept temperature below 44 °C where no sheath did not.
+ • Low-retropulsion lasers keep the stone still, allowing continuous lasing and so more heat; how the laser
+   is used matters more than where.
+
+
+
+
+                                                           page 10 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                                LITHOTRIPSY TECHNIQUES
+
+ • Irrigant should be room temperature or colder and run continuously. The old habit of stopping irrigation
+   to limit retropulsion overheats the ureter and risks thermal injury and stricture.
+Concept — Power is heat and heat is stricture: every laser recommendation — low settings, 10 W in the
+ureter, 25 W in the kidney, a sheath for outflow, cool continuous irrigation — follows from keeping energy
+delivered to a small fluid volume below 43 °C.
+
+DRAINAGE AND ANTIBIOTICS AFTER URETEROSCOPY
+ • Two decisions close every case — stent or not, and postoperative antibiotics or not — and the evidence
+   below applies to uncomplicated URS without infection, impaction or perforation.
+
+Antibiotics
+ • Postoperative antibiotics are indicated only if the patient had urosepsis during that stone episode. A
+   single perioperative intravenous dose gives the same infection rate as a postoperative course, so the
+   default is one dose and nothing afterwards unless something arises during the case.
+ • Higher infection risk: higher Charlson comorbidity index, older age, female sex, prolonged pre-stent
+   dwell time, neurogenic bladder and high body mass index (BMI).
+TIMING OF DEFINITIVE URS AFTER PRE-STENTING — TWO WINDOWS
+ Endpoint                                              Window
+ Stone-free rate                                       After 14 days, within 5 weeks
+ Postoperative sepsis                                  2–4 weeks
+
+Different endpoints give overlapping windows; 2–4 weeks satisfies both.
+
+Ureteral Stents
+ • Stents drain and dilate the ureter for passage of fragments and dust, but are a major source of
+   morbidity — symptoms in about four in five patients.
+ • A randomised trial (Denstedt et al., 2001) showed URS can be performed safely without a stent, and a
+   Cochrane review found pain, return to hospital and secondary interventions similar with or without one.
+ • Optimal stent duration is unknown; removal at 3 rather than 7 days caused more unplanned returns and
+   flank pain, with no difference in hydronephrosis.
+ • Removal by string equals cystoscopy for infection and outcome, is preferred by patients and is cost-
+   effective.
+ • Degradable stents would need no removal and may be better tolerated if biocompatible and not
+   inhibiting peristalsis, which is thought to contribute to stent symptoms.
+ • Access-sheath use does not affect postoperative hydronephrosis at 8 weeks.
+ • Practice lags evidence: more than half of urologists stent routinely, and about three-quarters in the
+   United States.
+POSTOPERATIVE STENT — REQUIRED VERSUS DEBATABLE
+ Required                                                 Decide at the end of the case
+ Intraoperative perforation; stricture requiring          After sheath use — once routinely stented, now challenged:
+ dilation; tight ureter; signs of infection; planned      inspect the ureter after sheath removal. Pre-stented + sheath +
+ second-stage URS                                         normal ureter → no stent.
+
+Concept — After uncomplicated URS the evidence runs one way — one dose of antibiotic and no stent — and
+a stent is reserved for a named indication, because otherwise it adds morbidity without adding safety.
+
+
+
+
+                                                         page 11 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                          SHOCK WAVE LITHOTRIPSY FOR URETERAL CALCULI
+
+SHOCK WAVE LITHOTRIPSY FOR URETERAL CALCULI
+ • SWL remains a worldwide mainstay and the only truly effective noninvasive treatment, though burst
+   wave lithotripsy (BWL) may change that.
+ • Modern machines treat most ureteral stones but may need more than one session; SWL can be done
+   under intravenous sedation or local anaesthesia, and patients value avoiding a stent and general
+   anaesthesia (GA).
+ • Quality-of-life (QoL) comparisons may favour SWL, but most used generic instruments that miss the
+   disease-specific impact.
+
+Indications for Shock Wave Lithotripsy for Ureteral Calculi
+ • SWL is an option for a stone anywhere in the ureter; because outcome depends on stone and patient
+   factors, informed consent and shared decision-making, including patient preference, are central.
+ • In acute colic with an obstructing stone, SWL within 48 hours outperforms delayed SWL; emergency
+   SWL gives similar SFR in the upper, mid and distal ureter, low complication rates, and rarely needs urgent
+   drainage.
+ • Distal ureteral stones are treated safely and effectively, despite some centres' reluctance, with a second
+   session adding clearance.
+GUIDELINE POSITIONS ON SWL FOR URETERAL STONES — COMPARISON
+                                                        SWL in all ureteral
+ Body                                                   locations                   Single-treatment SFR
+ European Association of Urology (EAU), 2023            Option in all locations —   Higher with URS, particularly for
+ American Urological Association (AUA) /                all agree                   larger stones
+ Endourological Society, 2016
+ Canadian Urological Association (CUA), 2015
+
+Contraindications to Shock Wave Lithotripsy for Ureteral Calculi
+CONTRAINDICATIONS TO SWL — ABSOLUTE VERSUS RELATIVE
+ Absolute                                                                      Relative
+ Pregnancy; uncontrolled bleeding disorder; anticoagulation that cannot        Skeletal abnormality or severe obesity
+ be paused for treatment and 48 hours after; untreated anatomical              preventing targeting or placement in the
+ obstruction distal to the stone; uncontrolled or untreated UTI; untreated     focal zone; adjacent arterial aneurysm
+ or severe hypertension
+
+Patient Selection
+ • Stone size is the most important predictor of SWL outcome, and the largest linear dimension predicts as
+   well as area or volume. SFR is slightly lower than URS overall, and the gap widens in favour of URS at ≥10
+   mm.
+ • Location matters little once size is accounted for.
+ • Pure cystine and dense, smooth, homogeneous stones (brushite, some calcium oxalate monohydrate)
+   fragment poorly, although composition is often unknown before treatment.
+ • Chronic impaction worsens outcome and may be the strongest predictor of all. CT suggests it by soft-
+   tissue density of the ureteral wall around the stone (the "ring" sign) with severe hydronephrosis, or by a
+   stone unchanged in position on earlier imaging.
+ • Hounsfield units (HU) above 1000 and SSD above 10 cm predict failure for renal stones; for ureteral
+   stones the evidence is mixed, and they may add nothing once size and impaction are considered.
+
+
+
+                                                       page 12 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                   SHOCK WAVE LITHOTRIPSY FOR URETERAL CALCULI
+
+System Factors
+ • Where SWL is unavailable, distant or offered only on certain days, local URS may be preferable.
+
+Patient Preference
+ • An informed patient may choose SWL despite a predicted inferior result — a stone over 10 mm, high HU
+   or some impaction — accepting a possible second session or salvage URS.
+ • When rapid clearance in one treatment is critical (imminent travel, return to work or caregiving), URS
+   may be preferred.
+
+Patient Preparation
+ • Routine pre-stenting before SWL is not needed: it improves neither SFR nor retreatment, though SWL
+   can proceed with a stent already in place. A stent may reduce steinstrasse after large stones but does not
+   change its presentation or management, and stents worsen lower urinary tract symptoms (LUTS).
+ • Correct a bleeding diathesis first or choose URS. If thrombotic risk allows, hold acetylsalicylic acid (ASA),
+   non-steroidal anti-inflammatory drugs (NSAIDs) and anticoagulants to achieve normal coagulation on
+   the day and for 48 hours after, especially for upper ureteral stones where kidney, spleen or liver lie in
+   the blast path. Continuing low-dose aspirin (81 mg) or NSAIDs has been reported for mid and distal
+   stones.
+ • Hypertension increases bleeding and perinephric haematoma when the kidney is in the blast path;
+   untreated or severe hypertension is an absolute contraindication, and even controlled hypertension
+   raises risk.
+ • Pacemakers and defibrillators may need deactivation or reprogramming, particularly for upper ureteral
+   stones near the cardiac conducting system.
+ • Urinalysis and culture before SWL; treat any bacteriuria first. Routine prophylaxis is unnecessary, but
+   antibiotics are given with indwelling stents, nephrostomies or catheters, struvite stones, recent or
+   recurrent UTI, and colonised or reconstructed tracts (ileal conduit, augmentation, neobladder).
+
+Technique of Shock Wave Lithotripsy to Maximise Outcomes
+ • Good analgesia or anaesthesia keeps the patient still, and GA or intravenous sedation outperforms
+   minimal anaesthesia, because stone movement of 10–15 mm significantly impairs fragmentation. Target
+   during expiration, two-thirds of the respiratory cycle, and use pressure belts.
+ • Position by bone: upper ureter supine; mid-ureteral stones over the sacrum or pelvis prone, so bone does
+   not absorb the energy; stones below the sacroiliac joint supine.
+ • Coupling is critical, especially with "dry" shock heads, because air dissipates shock waves: the gel, water
+   or oil interface must be free of bubbles, as even tiny air pockets sharply reduce energy transfer.
+ • Shock rate is one of the most important parameters: 60–90 shocks/min (1–1.5 Hz) outperforms 120 (2
+   Hz) in randomised trials and meta-analyses, and the slower rate also protects the kidney and its
+   vasculature.
+ • Treat until complete fragmentation or the manufacturer's maximum shock count, with continuous or
+   frequent imaging. US and fluoroscopic targeting are equally effective; longer fluoroscopy time predicts
+   better outcome, reflecting better targeting.
+ • Ramp energy gradually to the maximum: this improves fragmentation and reduces renal injury by
+   inducing protective vasoconstriction and lowering injury markers (microalbumin, β2-microglobulin).
+ • Experienced urologists and technologists, and ongoing quality assurance, give better results.
+
+
+
+
+                                                       page 13 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                           SHOCK WAVE LITHOTRIPSY FOR URETERAL CALCULI
+
+ • After a failed session, choose between repeat SWL and salvage URS by the degree of fragmentation and
+   patient priorities; benefit beyond two sessions for the same stone is small, and the interval can be as
+   short as 1–2 days for mid and distal stones.
+
+Adjuncts to Improve Shock Wave Lithotripsy Outcomes
+ADJUNCTS AFTER SWL — COMPARISON
+ Adjunct                        Effect                                                            Qualification
+ α-Blockers                     Higher SFR, faster clearance by relaxing ureteral smooth          Particularly larger
+                                muscle                                                            stones
+ Paracetamol + NSAIDs           Opioid-sparing analgesia                                          —
+ Potassium citrate or           Higher SFR for calcium oxalate, uric acid and mixed stones        Mainly renal data
+ alkali
+ Forced diuresis                No benefit                                                        —
+
+Comparative Data of Shock Wave Lithotripsy Versus Ureteroscopy
+SWL VERSUS URS FOR URETERAL CALCULI — COMPARISON
+ Domain                   SWL                                              URS
+ SFR                      Lower after one treatment; gap widens ≥10 mm Higher at 2 weeks; equal at 3 months
+                          or impacted
+ Further treatment        More retreatment; fewer auxiliary procedures     Less retreatment; more stents → more pain
+                          and stents                                       and analgesia
+ Complications            Lower, including UTI                             Ureteral perforation
+ Anaesthesia;             Sedation or local; shorter stay and recovery     Usually GA; longer
+ recovery
+ Cost                     Lower, even with two sessions                    Higher
+
+ • Salvage URS after failed SWL for a ureteral stone is no harder and no less successful — unlike salvage
+   after failed SWL for renal stones.
+ • QoL evidence is mixed: URS fares better when stentless or emergency, SWL when URS is followed by a
+   stent; studies are small, unblinded and use generic instruments.
+ • SWL remains safe and effective for virtually all ureteral stones, allowing most patients to be treated
+   without GA or stent and with less morbidity, at the cost of slightly lower single-treatment SFR for stones
+   ≥1 cm or impacted.
+Concept — SWL and URS converge on the same end point by different routes: URS buys speed and single-
+treatment certainty with invasiveness and a stent; SWL buys low morbidity at the cost of retreatment, and
+size, impaction and the patient's priorities decide which price to pay.
+
+SPECIAL SITUATIONS
+Pregnancy
+ • Conservative management is first-line if safe — no infection, oliguria, anuria, solitary kidney or fetal
+   distress — and SWL is contraindicated.
+ • If conservative treatment fails, URS is safe, with high success and near-universal normal continuation of
+   pregnancy; sedation, GA, spinal or epidural anaesthesia add no risk, and limited fluoroscopy with fetal
+   shielding is safe.
+ • Stents are safe but encrust faster in pregnancy, so they are changed every 4 weeks, which shapes the
+   timing of definitive treatment. Retrograde stent is attempted before nephrostomy.
+
+
+
+                                                        page 14 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                           SPECIAL SITUATIONS
+
+Urinary Diversion and Transplanted Kidneys
+ • After diversion, reimplantation or transplantation, retrograde access is the hardest part; flexible
+   cystoscopy through an ileal conduit or Indiana, Kock or Studer pouch is often very difficult or impossible.
+ • SWL can be tried, allowing for altered positioning — more often prone — where the ureter crosses bone.
+ • The most definitive route is antegrade and percutaneous; guidelines support percutaneous treatment of
+   large proximal ureteral stones even without diversion. Antegrade flexible URS through a percutaneous
+   sheath benefits from a dilated proximal ureter and lets dust wash down into the bladder or diversion.
+ • In transplanted kidneys both antegrade and retrograde approaches are safe and successful.
+Congenital Renal Anomalies
+ • In ectopia, crossed-fused ectopia and complete or partial duplication, retrograde URS is usually feasible
+   with good results; the challenge is an ectopically placed orifice, as in some duplex systems.
+ • Escalation: SWL → PCNL if SWL fails or retrograde access is impossible → laparoscopic ureterolithotomy
+   or pyelolithotomy as salvage.
+Concept — When the retrograde route is compromised — by pregnancy's limits on radiation and SWL, or by
+reconstructed anatomy — the choice shifts to whatever route is safest: stent and URS in pregnancy,
+antegrade access after diversion, laparoscopy as the final salvage.
+
+COMPLICATIONS
+ • Complications are becoming rarer with smaller scopes, better vision and efficient lasers; most are minor
+   (perforation) and easily managed (stent), and the major one, avulsion, is very rare and preventable.
+
+Perforation
+ • Incidence 0–4%, and falling. Causes: the scope; forcing an oversized sheath; unseen distal slippage of
+   the dilating wire during sheath placement (hence fluoroscopy); laser on the wall; lithotrite or
+   electrocautery, which cause full-thickness injury; stone manipulation; wires without a floppy tip; baskets
+   gripping the wall; and poor visibility from bleeding or debris.
+ • If a procedure is difficult and not progressing: stop, stent, stage.
+Management. Stop → stent across the injury (no further lithotripsy, since fragments in the wall provoke a
+granulomatous reaction and stricture) → saline irrigant to prevent electrolyte disturbance from
+extravasation → drain a urinoma and give antibiotics → stent for about 4 weeks → mandatory imaging
+after removal.
+
+Submucosal Stone
+ • Submucosal and "lost" stones are more common with chronic obstruction; a submucosal stone is
+   lasered free and a stent placed, because of the risk of later stricture.
+ • A stone fully extruded through a perforation is left where it lies — retrieval worsens injury and
+   extravasation. Stop, stent, image afterwards, and tell the patient, since it may later be mistaken for a
+   new ureteral stone.
+
+Avulsion
+ • The most disastrous complication, occurring in about 0.06–0.5% of cases, it results from forceful
+   manipulation of a large or impacted stone. The proximal third is most at risk, having the least muscular
+   support, and the injury is recognised when ureter emerges with the stone and basket.
+ • Prevention: never basket blind; keep space between stone and scope; fragment stones too large to
+   remove intact; release or reposition an oversized engaged stone, or disassemble the basket and
+   fragment in situ; a safety wire allows a stent and abandonment at any time.
+
+
+                                                       page 15 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                                      COMPLICATIONS
+
+ • Management: nephrostomy and delayed repair, not immediate primary repair; drain any urinoma;
+   reconstruction depends on level and remaining viable ureter. Nephrectomy is not recommended,
+   because stone disease recurs and stone formers are prone to hypertension and diabetes.
+
+Stricture
+ • Incidence 3–6%, falling with better technology and technique. Risk factors: impacted or long-standing
+   stones, perforation, previous ureteral surgery and pelvic radiation (poor blood supply and healing),
+   though some strictures follow uncomplicated URS.
+ • Avoid aggressive passage through a narrow segment, and image every patient after URS, since some
+   strictures cause silent obstruction.
+ • Management depends chiefly on length and location, plus time since injury, mechanism and patient
+   factors.
+
+Post-Ureteroscopy Sepsis
+ • Sepsis follows about 5% of URS in meta-analysis and is serious, bringing longer stay, intensive care unit
+   (ICU) admission, readmission, cost and mortality.
+ • Risk factors: positive preoperative culture, preoperative stent, older age, diabetes, ischaemic heart
+   disease (IHD) and longer surgery.
+ • Prevention: culture and treat before surgery; keep IRP as low as possible in at-risk patients. Treatment:
+   broad-spectrum antibiotics and support until urine, blood or stone cultures identify the organism.
+Concept — Nearly every serious URS complication traces to force applied without vision — blind basketing,
+forced sheaths, persistence in a tight ureter — so the cure is uniform: see, fragment, and when in doubt stop,
+stent and stage.
+
+FUTURE OF URETEROSCOPY IN URETERAL STONES
+ • Smaller scopes, digital chips and temperature and pressure sensors are already here, and further
+   miniaturisation will ease access.
+ • Surgeon ergonomics and repetitive strain injury are driving robotic URS, which adds degrees of freedom
+   as it did in laparoscopy.
+ • Artificial intelligence (AI) may adjust laser settings from fragmentation feedback, control irrigation,
+   temperature and IRP, compensate for respiration, and navigate by electromagnetic tracking integrating
+   fluoroscopy, preoperative CT and sensor data.
+ • BWL (Break Wave, SonoMotion) uses a handheld ultrasound device delivering low-amplitude ultrasonic
+   bursts that make the stone resonate, vibrate and shatter. Preliminary data show it fragments all stone
+   types in the ureter; it is expected to be an adjunct to SWL and URS, suited to certain locations and SSDs.
+ROBOTIC URETEROSCOPY PLATFORMS — COMPARISON
+ Type                                                   Benefit
+ Robot holding a standard commercial ureteroscope Ergonomics; surgeon away from fluoroscopy, so less radiation
+ Robot with a dedicated integrated ureteroscope         Tighter integration, including electromagnetic location sensing
+
+SWL VERSUS BWL — COMPARISON
+                      SWL                                    BWL
+ Energy               High-amplitude shock waves             Low-amplitude ultrasonic bursts; resonance
+ Anaesthesia          Sedation or local                      Little or none
+ Setting              Lithotripsy suite                      Clinic or emergency department
+
+
+
+
+                                                       page 16 of 17
+Chapter 97 — Surgical Management of Ureteral Calculi                                              CONCLUSION
+
+CONCLUSION
+ • No single formula fits every ureteral stone: SWL, URS and PCNL are all options, chosen individually
+   through informed decision-making, and new noninvasive treatments are close.
+
+
+
+
+                                                       page 17 of 17
+
