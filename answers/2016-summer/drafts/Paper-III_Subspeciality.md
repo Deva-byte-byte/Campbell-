@@ -105,7 +105,7 @@
 
 ### Preoperative evaluation
 - **USG (ultrasonography)**: large pelvis, small calyces, ureter not seen.
-- **MAG3 (mercaptoacetyltriglycine) diuretic renogram**: split function and an obstructive curve that does not wash out after furosemide.
+- **MAG3 (mercaptoacetyltriglycine) diuretic renogram**: split function and an obstructive curve that does not wash out after furosemide. Usual teaching: washout half-time under 10 minutes normal, 10–20 minutes equivocal, over 20 minutes obstructed (Ch 93 quotes over 40 minutes). Split function under 40% supports repair.
 - **CT (computed tomography) angiography**: anatomy, **crossing vessels**, stones.
 - **Retrograde pyelogram** at surgery: confirms the level, excludes ureteric stricture.
 - **Whitaker test** if equivocal: perfusion 10 mL/min; pelvic pressure over 15–20 cm H2O means obstruction.
@@ -203,7 +203,7 @@ Persistent obstruction      -> CT angiography (missed vessel?)
 ### Evaluation
 - **Two semen analyses** (2–7 days abstinence); history and examination (testis size, varicocele, vasa).
 - Morning **testosterone, LH (luteinising hormone), FSH (follicle-stimulating hormone)**; oestradiol and prolactin if testosterone is low.
-- Under 5 million/mL: **karyotype and Y-microdeletion** (AUA/ASRM (American Urological Association/American Society for Reproductive Medicine) 2021).
+- Under 5 million/mL (especially with raised FSH or small testes): **karyotype and Y-microdeletion** (AUA/ASRM (American Urological Association/American Society for Reproductive Medicine) 2020 guideline).
 - Selected: vitality test (eosin or hypo-osmotic swelling), antisperm antibodies, semen culture, scrotal Doppler, TRUS (transrectal ultrasonography) if volume low, DNA fragmentation.
 
 ### Management

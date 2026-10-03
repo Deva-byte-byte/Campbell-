@@ -36,7 +36,7 @@
 
 | Type | Timing | Features |
 |---|---|---|
-| Immediate | Within the first hour or so | Urticaria, angio-oedema, bronchospasm, hypotension; anaphylaxis if severe |
+| Immediate | Within about 1 hour (most within minutes) | Urticaria, angio-oedema, bronchospasm, hypotension; anaphylaxis if severe |
 | Non-immediate | Hours to days | Maculopapular rash; T-cell mediated, milder |
 
 - Risk factors: previous reaction (strongest), asthma, atopy, severe cardiac disease, drug allergy, female sex. **Shellfish ("iodine") allergy is not a cross-reaction.**
@@ -53,7 +53,7 @@
 - **Metformin:** lactic acidosis only if AKI develops. ACR: eGFR ≥30 and no AKI, continue. eGFR <30 or AKI, withhold 48 hours and restart when function is stable.
 - **Thyroid:** iodine load can trigger hyperthyroidism (Jod-Basedow) in Graves' disease or nodular goitre. It blocks radio-iodine scans or therapy for several weeks.
 - **Extravasation:** usually minor, but large power-injected volumes can rarely cause compartment syndrome or skin necrosis. Elevate the limb, apply compresses and observe. Get a surgical review if swelling increases, blisters form, or perfusion or sensation changes.
-- **Also know:** iodide "mumps"; myasthenia flare; pregnancy (crosses placenta, not teratogenic); breastfeeding can continue; phaeochromocytoma safe with IV non-ionic agents; dialysis patients need no urgent dialysis.
+- **Also know:** iodide "mumps"; myasthenia flare; pregnancy (crosses placenta, not teratogenic); breastfeeding can continue; phaeochromocytoma safe with IV (intravenous) non-ionic agents; dialysis patients need no urgent dialysis.
 
 ### Prevention and management
 **Premedication for high-risk patients (ACR 2023)**
@@ -68,16 +68,16 @@
 Stop injection → airway, oxygen, call for help
   Urticaria → observe ± H1-antihistamine (may progress)
   Bronchospasm → salbutamol 2 puffs (90 µg each), up to 3 times
-  Anaphylaxis → IM adrenaline 0.3–0.5 mg (1 mg/mL) every 5–15 min,
+  Anaphylaxis → intramuscular (IM) adrenaline 0.3–0.5 mg (1 mg/mL) every 5–15 min,
                 max 1 mg; IV fluids
   Vasovagal → legs up, IV fluids, IV atropine
 Observe ≥30 min; later allergy testing; record the reaction
 ```
 
 **Preventing CA-AKI**
-- Lowest dose of a low- or iso-osmolar agent; weight-based dosing; low kVp (80) needs less contrast. Avoid repeat doses within 48 hours; stop NSAIDs (non-steroidal anti-inflammatory drugs).
+- Lowest dose of a low- or iso-osmolar agent; weight-based dosing; a low tube voltage (80 kVp, kilovolt peak) needs less contrast. Avoid repeat doses within 48 hours; stop NSAIDs (non-steroidal anti-inflammatory drugs).
 - **IV isotonic saline** for eGFR <30 not on dialysis: the only proven measure.
-- **PRESERVE (2018):** bicarbonate and N-acetylcysteine gave no benefit. **AMACING (2017):** no prophylaxis was non-inferior to hydration at eGFR 30–59. Removing contrast by dialysis does not reduce risk.
+- **PRESERVE (2018):** bicarbonate and N-acetylcysteine (NAC) gave no benefit. **AMACING (2017):** no prophylaxis was non-inferior to hydration at eGFR 30–59. Removing contrast by dialysis does not reduce risk.
 
 **Diagram to draw:** tri-iodinated benzene ring, monomer versus dimer, on an osmolality scale.
 
@@ -104,14 +104,14 @@ Observe ≥30 min; later allergy testing; record the reaction
 - **Principle:** a strong host is infected only by virulent strains; a compromised host (obstruction, catheter) by almost any organism.
 - **Host defences:** voiding washout, lactobacilli, urine osmolality and pH, uromodulin (Tamm–Horsfall protein), urothelial exfoliation.
 - **Risk factors:** **obstruction** (stasis impairs defences and turns UTI life-threatening), VUR (vesicoureteral reflux; with infection it scars the growing kidney), stones, catheters, diabetes, pregnancy, spermicides.
-- **Diagnosis:** dipstick (nitrite, leucocyte esterase) rules out better than it rules in. Culture is the gold standard: ≥10⁵ CFU/mL (Kass); ≥10² in a symptomatic woman or a catheter specimen. Image (ultrasound, CT (computed tomography)) in complicated infection or fever beyond 72 hours.
+- **Diagnosis:** dipstick (nitrite, leucocyte esterase) rules out better than it rules in. Culture is the gold standard: ≥10⁵ CFU (colony-forming units)/mL (Kass); ≥10² in a symptomatic woman or a catheter specimen. Image (ultrasound, CT (computed tomography)) in complicated infection or fever beyond 72 hours.
 
 ### Characteristics of common organisms
 | Organism | Key features |
 |---|---|
 | ***E. coli*** | ~85% of community and ~50% of hospital UTI; ST131 clone is ESBL (extended-spectrum β-lactamase) and quinolone resistant |
 | ***Proteus*** | Urease splits urea into ammonia: alkaline urine (pH >7), **struvite stones**, persistence in stones |
-| ***Klebsiella*** | Capsule; urease; ESBL and KPC (carbapenemase) producers |
+| ***Klebsiella*** | Capsule; urease; ESBL and KPC (*K. pneumoniae* carbapenemase) producers |
 | ***Pseudomonas*** | Nosocomial, catheter biofilm; needs ceftazidime, piperacillin, aminoglycoside, fluoroquinolone or meropenem |
 | ***Enterococcus*** | **Always resistant to cephalosporins**; amoxicillin, nitrofurantoin; VRE (vancomycin-resistant) |
 | ***S. saprophyticus*** | ~10% of cystitis in young sexually active women |
@@ -127,21 +127,22 @@ Observe ≥30 min; later allergy testing; record the reaction
 | Term | Definition |
 |---|---|
 | **Sepsis** | Life-threatening organ dysfunction from a dysregulated host response to infection: **SOFA (Sequential Organ Failure Assessment) rise ≥2** |
-| **qSOFA (quick SOFA)** | Respiratory rate ≥22, altered mentation, systolic BP ≤100 mmHg; ≥2 = high risk (prompt only) |
+| **qSOFA (quick SOFA)** | Respiratory rate ≥22, altered mentation, systolic blood pressure ≤100 mmHg; ≥2 = high risk (prompt only) |
 | **Septic shock** | Vasopressor needed for MAP (mean arterial pressure) ≥65 mmHg **and** lactate >2 mmol/L despite fluids; mortality >40% |
 - SIRS (systemic inflammatory response syndrome) criteria were dropped as non-specific.
-- **Pathophysiology:** endotoxin binds TLR4 (Toll-like receptor 4). Cytokines (TNF-α, IL-1, IL-6) and nitric oxide cause vasodilatation, capillary leak, myocardial depression and DIC (disseminated intravascular coagulation), then organ failure.
+- **Pathophysiology:** endotoxin binds TLR4 (Toll-like receptor 4). Cytokines (TNF-α (tumour necrosis factor-α), interleukins IL-1 and IL-6) and nitric oxide cause vasodilatation, capillary leak, myocardial depression and DIC (disseminated intravascular coagulation), then organ failure.
 - **Urological triggers:** infected obstructed kidney, PCNL (percutaneous nephrolithotomy), high-pressure ureteroscopy, prostate biopsy, TURP (transurethral resection of the prostate), infected stones, emphysematous pyelonephritis, abscess.
 
-**Management (Surviving Sepsis Campaign 2021, hour-1 bundle)**
+**Management (Surviving Sepsis Campaign: hour-1 bundle 2018, guidelines 2021)**
 ```
 Lactate → blood cultures ×2 + urine culture
-→ IV broad-spectrum antibiotics within 1 hour
+→ IV (intravenous) broad-spectrum antibiotics within 1 hour
+  (shock or probable sepsis; within 3 h if sepsis only possible)
 → 30 mL/kg crystalloid if hypotensive or lactate ≥4 mmol/L
 → noradrenaline first line for MAP ≥65; add vasopressin
 → SOURCE CONTROL: stent or nephrostomy (equally effective),
   drain abscess, change catheter; stone surgery later
-→ refractory shock: hydrocortisone 200 mg/day; ICU
+→ refractory shock: hydrocortisone 200 mg/day; ICU (intensive care unit)
 → de-escalate by culture at 48–72 h
 ```
 - **Empirical antibiotics:** by local resistance: third-generation cephalosporin or piperacillin–tazobactam ± aminoglycoside; carbapenem if ESBL risk.
@@ -189,7 +190,7 @@ Lactate → blood cultures ×2 + urine culture
 - Others: suprapubic catheter, Brindley stimulator with deafferentation, diversion. Urethral stents are abandoned; oral drugs disappoint.
 - **Also know:** α-blockers for bladder-neck dyssynergia; lifelong upper-tract surveillance.
 
-**Diagram to draw:** urodynamic trace with rising Pdet, EMG bursts and interrupted flow.
+**Diagram to draw:** urodynamic trace with rising detrusor pressure (Pdet), EMG bursts and interrupted flow.
 
 > **Key points to remember:**
 > - Lesion between pons and sacral cord; never brain lesions.
@@ -214,7 +215,7 @@ Lactate → blood cultures ×2 + urine culture
 ### Young types and their origin
 | Type | Anatomy | Embryology |
 |---|---|---|
-| **I (~95%)** | Leaflets from the verumontanum fuse anteriorly just above the external sphincter | Wolffian duct ends insert too anteriorly, forming an obstructing urethral crest |
+| **I (~95%)** | Leaflets from the verumontanum fuse anteriorly just proximal to the external sphincter | Abnormal insertion of the Wolffian duct ends into the anterolateral cloacal wall: hypertrophied inferior urethral crest |
 | **II** | Folds from verumontanum to bladder neck | Not real (Stephens 1955): secondary bladder-neck hypertrophy |
 | **III (5–10%)** | Annular diaphragm with a central hole | **Persistent urogenital membrane** |
 
@@ -246,7 +247,7 @@ Lactate → blood cultures ×2 + urine culture
 ### Classification by mechanism
 | Mechanism | Drugs | How |
 |---|---|---|
-| **Haemodynamic** | **NSAIDs** (non-steroidal anti-inflammatory drugs) | Block prostaglandin afferent dilatation |
+| **Haemodynamic (prerenal)** | **NSAIDs** (non-steroidal anti-inflammatory drugs) | Block prostaglandin afferent dilatation |
 | | **ACE (angiotensin-converting enzyme) inhibitors, ARBs (angiotensin receptor blockers)** | Remove efferent constriction that holds GFR (glomerular filtration rate) |
 | | Ciclosporin, tacrolimus, contrast; diuretics | Afferent vasoconstriction; volume loss |
 | **ATN (acute tubular necrosis)** | **Aminoglycosides**, amphotericin B, vancomycin, cisplatin, ifosfamide, contrast | Direct tubular toxicity |
@@ -313,7 +314,7 @@ Lactate → blood cultures ×2 + urine culture
 - **Also know:** duplex kidney with ureterocele (intravesical cyst); cloacal exstrophy (adds omphalocele, spinal defects); hydrocolpos; ambiguous genitalia; renal ectopia.
 
 ### Implications
-- Severe LUTO: fetal MRI (magnetic resonance imaging), urine biochemistry, shunt at 18–24 weeks. **PLUTO** (shunt trial): better survival, not renal function. Plan delivery with a multidisciplinary team.
+- Severe LUTO: fetal MRI (magnetic resonance imaging), urine biochemistry, vesicoamniotic shunt or fetal cystoscopy at 18–24 weeks. **PLUTO** (shunt trial): better survival, not renal function. Plan delivery with a multidisciplinary team.
 
 **Diagram to draw:** fetal keyhole sign.
 
@@ -384,10 +385,10 @@ Lactate → blood cultures ×2 + urine culture
 | **Imperative** | Bilateral RCC (renal cell carcinoma); solitary functioning kidney |
 | **Relative** | Contralateral kidney threatened (stones, stenosis, diabetes, hypertension); hereditary RCC |
 | **Elective** | cT1a (≤4 cm) with a normal other kidney; now larger selected tumours |
-- **Contraindications:** <20% of nephron mass left; pedicle encasement; venous thrombus.
+- **Relative contraindications:** <20% of nephron mass left; pedicle encasement; venous thrombus.
 
 ### Principles of NSS
-1. 3D CT (computed tomography) maps tumour, vessels and collecting system.
+1. Three-dimensional CT (computed tomography) maps tumour, vessels and collecting system.
 2. **Early hilar control.** Keep warm ischaemia under about 25–30 minutes; if longer, use **ice-slush hypothermia** and mannitol.
 3. Excise with a **negative margin** (width immaterial); intraoperative ultrasound for endophytic tumours.
 4. **Watertight collecting-system closure**, vessel ligation, capsular renorrhaphy.
