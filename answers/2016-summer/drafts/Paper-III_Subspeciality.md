@@ -84,7 +84,7 @@
 > **Key points to remember:**
 > - EAU low risk needs all: unifocal, under 2 cm, low grade, no invasion; any single adverse feature makes it high risk.
 > - Ureteroscopy is closed but cannot stage; percutaneous stages but can seed the tract.
-> - Single postoperative intravesical MMC halves bladder recurrence (ODMIT-C).
+> - Single postoperative intravesical MMC: bladder recurrence 28% to 16% (ODMIT-C).
 
 ---
 
@@ -237,7 +237,7 @@ Persistent obstruction      -> CT angiography (missed vessel?)
 | **MESA (microsurgical epididymal sperm aspiration)** | Single tubule opened at 16–25×; micropipette by capillary action | OA (best) | Microsurgical skill |
 | **TESA (testicular sperm aspiration)** | 23 G needle, suction, many passes | OA | Immotile sperm, small yield; poor in NOA |
 | **TESE (testicular sperm extraction)** | Open biopsy, one or several sites | OA, NOA | Blind sampling |
-| **Micro-TESE** | Testis bivalved; larger opaque tubules picked at 20× | **NOA (best)** | Long operation |
+| **Micro-TESE** | Testis bivalved; larger opaque tubules picked under the microscope | **NOA (best)** | Long operation |
 
 - **MESA points**: move proximally until motile sperm appear (most motile in efferent ductules); 4–12 pipettes, frozen in aliquots.
 - **Micro-TESE logic (Schlegel 1999)**: spermatogenesis in NOA is **focal**; tubules with sperm are larger and plumper than thin white Sertoli-cell-only tubules. Incision through an avascular plane, then the other testis if negative. It removes the least tissue for the most sperm.
@@ -373,7 +373,7 @@ NSS feasible     not feasible
 
 ### Introduction
 - Commonest cause: **myelomeningocele** (open NTD (neural tube defect)); also occult dysraphism, sacral agenesis, anorectal malformation.
-- **Bony or motor level does not predict bladder function**, so testing is essential; renal failure is a leading late cause of death.
+- **Bony or motor level does not predict bladder function**, so every newborn needs testing.
 
 ### Prenatal assessment
 - **Maternal serum AFP (alpha-fetoprotein)** raised in open defects; amniotic AFP and acetylcholinesterase confirm.
@@ -387,7 +387,7 @@ NSS feasible     not feasible
 | Examination | Spine, legs, anal tone, perineal sensation, bladder |
 | **Renal and bladder ultrasound** | Before discharge, then 6-monthly for 2 years; hydronephrosis, wall thickness |
 | Residual urine | Start CIC if not emptying |
-| Creatinine | First week to 3 months (cystatin C better later) |
+| Creatinine | Within 3 months (cystatin C later) |
 | **VCUG (voiding cystourethrogram) or video-UDS** | Reflux; dilating VUR (vesicoureteric reflux) in about 7% |
 | **UDS (urodynamics)** with EMG (electromyography) | Within 3 months, once stable after closure |
 | DMSA (dimercaptosuccinic acid) | Baseline scarring (EAU (European Association of Urology)) |
@@ -420,7 +420,7 @@ NSS feasible     not feasible
 - A donor whose kidney carries **more DGF (delayed graft function) and shorter graft survival** than a standard donor; used because of organ shortage.
 
 ### Categories
-**1. ECD (expanded criteria donor), UNOS (United Network for Organ Sharing) 2002**: age **60 or over**, or **50–59 with 2 or more** of: hypertension, **creatinine over 1.5 mg/dL**, death from **CVA (cerebrovascular accident)**. About 70% higher risk of graft loss.
+**1. ECD (expanded criteria donor), UNOS (United Network for Organ Sharing) 2002**: age **60 or over**, or **50–59 with 2 or more** of: hypertension, **creatinine over 1.5 mg/dL**, death from **CVA (cerebrovascular accident)**. Graft-loss risk about 70% higher.
 
 **2. KDPI (Kidney Donor Profile Index) over 85%**: replaced ECD in the US (2014). **Longevity matching**: lowest-KDPI kidneys go to recipients with the best EPTS (Estimated Post-Transplant Survival).
 

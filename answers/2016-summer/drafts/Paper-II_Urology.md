@@ -16,7 +16,7 @@
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- Commonest urinary tract cancer; over 90% **UC (urothelial carcinoma)**. Men 3 times commoner; women present later. About 70% are **NMIBC (non-muscle-invasive bladder cancer)**; frequent recurrence makes it the costliest cancer per patient.
+- Commonest urinary tract cancer; over 90% **UC (urothelial carcinoma)**. Men 3 times commoner; women present later. About 70% are **NMIBC (non-muscle-invasive bladder cancer)**; it recurs often.
 
 ### Aetiology (risk factors)
 | Factor | Key facts |
@@ -97,7 +97,7 @@
 ### Definition
 - A fixed narrowing of the **anterior** urethra (inside the corpus spongiosum) that will not accept instruments without tearing mucosa. It is an epithelial scar with **spongiofibrosis**.
 - Posterior narrowing is named differently: after pelvic fracture, **PFUI (pelvic fracture urethral injury)** or distraction defect; after prostate surgery, **stenosis or contracture**.
-- Lumen area falls with the square of diameter, so halving calibre (30 to 15 Fr) loses about three-quarters of the lumen. Symptoms therefore appear late.
+- Area falls with the square of diameter: halving calibre (30 to 15 Fr) loses three-quarters of the lumen, so symptoms appear late.
 
 ### Anatomy relevant to surgery
 - **Bulbar urethra lies eccentric (dorsal)** in the spongiosum; the penile urethra is central.
@@ -234,9 +234,9 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
 - Male:female 3:1; independent of the cause of renal failure.
 
 ### Aetiology
-- **Uraemia, not dialysis**, is the cause; dialysis only prolongs life so cysts can form.
+- **Uraemia, not dialysis**, is the cause; dialysis only gives cysts time to form.
 - Tubular obstruction (fibrosis, oxalate crystals); uraemic toxins; growth factors (EGF (epidermal growth factor)); compensatory hyperplasia.
-- Cysts may regress after a successful transplant (data conflict), but malignant risk persists.
+- Cysts may regress after transplant (data conflict); cancer risk persists.
 
 ### Clinical features
 - Mostly asymptomatic.
@@ -245,7 +245,7 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
 - **Neoplasia**: adenomas in 20–25%. **RCC (renal cell carcinoma)** risk about 3 times that without ARCD. **Acquired cystic disease-associated RCC** is a distinct subtype (oxalate crystals, good prognosis); papillary RCC is also common.
 
 ### Evaluation
-- **Ultrasound**: small echogenic kidneys with many small cysts.
+- **Ultrasound**: small echogenic kidneys, many small cysts.
 - **CT (computed tomography) with and without contrast**: best for tumours. MRI (magnetic resonance imaging) for small lesions; gadolinium risks NSF (nephrogenic systemic fibrosis).
 
 | Feature | ARCD | ADPKD (autosomal dominant polycystic kidney disease) |
@@ -256,9 +256,9 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
 
 ### Management
 - **Bleeding**: conservative; persistent → **embolisation or nephrectomy**; peritoneal dialysis avoids heparin.
-- Painful cyst: aspiration. Infected cyst: percutaneous drainage, then nephrectomy if it fails.
+- Painful cyst: aspiration; infected cyst: drainage, nephrectomy if it fails.
 - **Tumour >3 cm: nephrectomy**. <3 cm: nephrectomy in fit patients, or yearly CT and excise if growing.
-- **Screening** (debated): after 3 years of dialysis in younger fit patients and before transplant.
+- **Screening** (debated): younger fit patients after 3 years of dialysis, and before transplant.
 - After transplant, native-kidney RCC is more aggressive; >70% of transplant RCCs arise there.
 
 **Diagram to draw:** small kidney with multiple cysts and a small solid tumour.
@@ -274,7 +274,7 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
 **Type:** SAQ (10 marks)
 
 ### Definition
-- Herniation of bladder mucosa through the **muscularis propria**, forming a sac joined to the bladder by a neck. The wall has no functioning muscle, so it **cannot empty** (stasis).
+- Herniation of bladder mucosa through the **muscularis propria**, forming a sac with a neck. With no functioning muscle it **cannot empty** (stasis).
 - Male:female about 9:1.
 
 ### Classification
@@ -308,7 +308,7 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
 ### Diverticulectomy technique
 - Open, laparoscopic or robotic; endoscopic prostate surgery first, same session.
 - Steps: ureteric catheter if near the ureter → cystotomy → evert or dissect the sac from its pseudocapsule → close in two layers → catheter about 1 week, cystogram before removal.
-- Complications: ureteric injury, leak, recurrence.
+- Complications: ureteric injury, leak.
 
 **Diagram to draw:** paraureteral (Hutch) diverticulum with narrow neck and ureter.
 
@@ -329,11 +329,10 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
 - 150 kDa: heavy chain (100 kDa) plus zinc-dependent light chain (50 kDa).
 
 ### Mechanism
-1. Heavy chain binds the cholinergic nerve terminal.
-2. Toxin is internalised.
-3. Light chain enters the cytosol.
-4. It **cleaves SNAP-25 (synaptosomal-associated protein 25)**, a SNARE (soluble N-ethylmaleimide-sensitive factor attachment protein receptor) protein, so vesicles cannot fuse. Acetylcholine release stops (chemical denervation).
-- **Afferent action**: less ATP (adenosine triphosphate), substance P and CGRP (calcitonin gene-related peptide) release; fewer TRPV1 and P2X3 receptors. It therefore reduces urgency too.
+1. Heavy chain binds the cholinergic nerve terminal; the toxin is internalised.
+2. Light chain enters the cytosol.
+3. It **cleaves SNAP-25 (synaptosomal-associated protein 25)**, a SNARE (vesicle-docking) protein, so vesicles cannot fuse and acetylcholine release stops.
+- **Afferent action**: less ATP (adenosine triphosphate) and substance P release; fewer TRPV1 and P2X3 receptors, so urgency falls too.
 - Effect wears off as nerve terminals sprout (about 6–9 months).
 
 ### Urological uses
@@ -341,13 +340,13 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
 |---|---|
 | **Idiopathic OAB (overactive bladder)**, third line | **100 U**; incontinence down about 59%, about 25% dry. ABC trial: equal to anticholinergic, more complete dryness. ROSETTA: 200 U equal to SNM (sacral neuromodulation), more UTI (urinary tract infection) |
 | **NDO (neurogenic detrusor overactivity)**: SCI (spinal cord injury), MS (multiple sclerosis) | **200 U** (DIGNITY trials): lower detrusor pressure, larger capacity |
-| Children with NDO | About 10 U/kg (maximum 360 U); continence 65–87% |
+| Children with NDO | About 10 U/kg (maximum 360 U) |
 | **DSD (detrusor–sphincter dyssynergia)** | Intrasphincteric injection in men unable to do CISC (clean intermittent self-catheterisation) |
 | Others | Bladder pain syndrome; prostate injection for benign enlargement failed versus sham |
 
 ### Technique
 - Flexible or rigid cystoscopy under local anaesthesia; diluted toxin injected into the detrusor at **about 20 sites (100 U) or 30 sites (200 U)**, sparing the trigone (reflux concern).
-- Sterile urine; antibiotic prophylaxis; check PVR (post-void residual) at about 2 weeks.
+- Sterile urine, antibiotic cover; check PVR (post-void residual) at 2 weeks.
 
 ### Side effects
 - **Retention needing CISC**: 0–12% in OAB trials, but about 20% of women and up to 35% of men in practice; higher in NDO. Each 10 mL rise in baseline PVR raises risk 27%. Patients must accept CISC beforehand.
@@ -370,8 +369,8 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
 *Assumed meaning: trial without catheter (TWOC) after acute urinary retention.*
 
 ### Definition
-- **TWOC (trial without catheter)**: removing the catheter after bladder decompression to see whether the patient voids adequately.
-- **AUR (acute urinary retention)**: sudden, painful inability to void; far commoner in older men with LUTS (lower urinary tract symptoms).
+- **TWOC (trial without catheter)**: catheter removal after decompression to test whether the patient voids adequately.
+- **AUR (acute urinary retention)**: sudden, painful inability to void; commonest in older men with LUTS (lower urinary tract symptoms).
 
 ### Types of AUR
 | Spontaneous | Precipitated |
@@ -380,30 +379,30 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
 | TWOC fails more often; about 75% later need surgery | Better TWOC outcome; about a quarter need surgery |
 
 ### Initial management
-- Urethral (or suprapubic) catheter; record drained volume; check creatinine; treat the trigger.
+- Catheterise; record drained volume; check creatinine; treat the trigger.
 - Start an **α1-blocker** (alfuzosin or tamsulosin).
 
 ### Rationale for α-blockers
 - Sympathetic bladder-neck tone (dynamic component) adds to retention; α1-blockers relax it.
 - **ALFAUR (Alfuzosin in Acute Urinary Retention)**: alfuzosin 10 mg for 3 days → TWOC success **62% vs 48%**.
-- Meta-analysis: success relative risk about 1.5, and fewer recurrences.
+- Meta-analysis: success relative risk about 1.5; fewer recurrences.
 
 ### Procedure
-- Remove the catheter after **2–3 days of α-blocker** (median catheter time about 5 days; no evidence favours short or long catheterisation), usually in the morning.
+- Remove the catheter after **2–3 days of α-blocker**, usually in the morning (no evidence favours short or long catheterisation).
 - Encourage fluids; record voided volumes and **PVR (post-void residual)** by bladder scan.
 - **Success**: comfortable voiding, low residual (unit threshold). **Failure**: recatheterise or start CISC (clean intermittent self-catheterisation).
 
 ### Predictors of failure
 - Advanced age; **drained volume >1 L**; spontaneous AUR; severe LUTS.
-- Ultrasound: **high-grade IPP (intravesical prostatic protrusion) ≥10 mm** and thick bladder wall.
+- Ultrasound: **IPP (intravesical prostatic protrusion) ≥10 mm**; thick bladder wall.
 
 ### Results
-- Success about **60%**. A second or third TWOC still succeeds in over a quarter, so up to three attempts are reasonable.
+- Success about **60%**; a second or third TWOC still succeeds in over a quarter.
 - Recurrence after success is common, mostly within **6 months**; then offer surgery.
 
 ### After TWOC
 - **Success**: continue α-blocker; add a **5-ARI (5α-reductase inhibitor)** for large glands, because 5-ARIs, not α-blockers, prevent further AUR.
-- **Failure**: TURP (transurethral resection of prostate), HoLEP (holmium laser enucleation) or other surgery; CISC or long-term catheter if unfit.
+- **Failure**: TURP (transurethral resection of prostate) or other surgery; CISC or long-term catheter if unfit.
 - **Also know:** immediate surgery has higher morbidity; TWOC also follows prostate surgery.
 
 **Diagram to draw:** algorithm: AUR → catheter + α-blocker → TWOC at 2–3 days → success / failure.
@@ -431,8 +430,7 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
 
 ### Clinical features
 - Often asymptomatic, found on examination.
-- **Spotting on underwear**, bleeding, pain, dysuria; voiding symptoms only if large.
-- May thrombose into a dark, tender mass.
+- **Spotting on underwear**, bleeding, pain, dysuria; may thrombose into a dark, tender mass.
 - Examination: small, red, soft mass at the **6 o'clock** meatal margin; the rest of the meatus looks normal.
 
 ### Differential diagnosis
@@ -456,7 +454,7 @@ First agree the aim: **palliation or cure**. The old "reconstructive ladder" (re
   2. Excise at the base.
   3. Reapproximate mucosa with absorbable sutures if the defect is large.
   4. Foley catheter for a few days.
-- Alternatives: cautery, laser. Complications: bleeding, recurrence, meatal stenosis.
+- Complications: bleeding, recurrence, meatal stenosis.
 
 **Diagram to draw:** meatus with a 6 o'clock caruncle compared with circumferential prolapse.
 

@@ -44,6 +44,7 @@
 
 **B. CA-AKI (contrast-associated acute kidney injury)**
 - **CA-AKI** = AKI within 48 hours of contrast, whatever the cause. **CI-AKI (contrast-induced AKI)** = the subset caused by contrast.
+- KDIGO (Kidney Disease: Improving Global Outcomes) AKI: creatinine rise ≥0.3 mg/dL in 48 hours, ≥1.5 × baseline in 7 days, or urine <0.5 mL/kg/h for ≥6 hours.
 - **Mechanism:** afferent vasoconstriction causes medullary hypoxia (ischaemic ATN (acute tubular necrosis)), plus direct tubular toxicity.
 - **Risk factors:** CKD (chronic kidney disease), diabetes, age, anaemia, contrast volume, intra-arterial route.
 - ACR (American College of Radiology)/NKF (National Kidney Foundation) 2020: risk was overstated; it is rare but real, mainly at eGFR (estimated glomerular filtration rate) <30 mL/min/1.73 m².
@@ -51,7 +52,7 @@
 **C. Others**
 - **Metformin:** lactic acidosis only if AKI develops. ACR: eGFR ≥30 and no AKI, continue. eGFR <30 or AKI, withhold 48 hours and restart when function is stable.
 - **Thyroid:** iodine load can trigger hyperthyroidism (Jod-Basedow) in Graves' disease or nodular goitre. It blocks radio-iodine scans or therapy for several weeks.
-- **Extravasation:** usually minor; rarely compartment syndrome. Elevate and observe; surgical review if swelling, blistering or altered perfusion.
+- **Extravasation:** usually minor, but large power-injected volumes can rarely cause compartment syndrome or skin necrosis. Elevate the limb, apply compresses and observe. Get a surgical review if swelling increases, blisters form, or perfusion or sensation changes.
 - **Also know:** iodide "mumps"; myasthenia flare; pregnancy (crosses placenta, not teratogenic); breastfeeding can continue; phaeochromocytoma safe with IV non-ionic agents; dialysis patients need no urgent dialysis.
 
 ### Prevention and management
@@ -60,7 +61,7 @@
 |---|---|
 | 1 | Prednisone 50 mg orally 13, 7 and 1 hour before + diphenhydramine 50 mg 1 hour before |
 | 2 | Methylprednisolone 32 mg orally 12 and 2 hours before + diphenhydramine 50 mg 1 hour before |
-- First consider ultrasound, MRI (magnetic resonance imaging) or non-contrast CT. Retrograde pyelography is safe even after anaphylaxis (little absorption).
+- First consider ultrasound, MRI (magnetic resonance imaging) or non-contrast CT. Breakthrough reactions still occur, so keep resuscitation drugs ready. Retrograde pyelography is safe even after anaphylaxis, because little contrast is absorbed.
 
 **Treating reactions**
 ```
@@ -76,7 +77,7 @@ Observe ≥30 min; later allergy testing; record the reaction
 **Preventing CA-AKI**
 - Lowest dose of a low- or iso-osmolar agent; weight-based dosing; low kVp (80) needs less contrast. Avoid repeat doses within 48 hours; stop NSAIDs (non-steroidal anti-inflammatory drugs).
 - **IV isotonic saline** for eGFR <30 not on dialysis: the only proven measure.
-- **PRESERVE (2018):** bicarbonate and N-acetylcysteine gave no benefit. **AMACING (2017):** no prophylaxis was non-inferior to hydration at eGFR 30–59.
+- **PRESERVE (2018):** bicarbonate and N-acetylcysteine gave no benefit. **AMACING (2017):** no prophylaxis was non-inferior to hydration at eGFR 30–59. Removing contrast by dialysis does not reduce risk.
 
 **Diagram to draw:** tri-iodinated benzene ring, monomer versus dimer, on an osmolality scale.
 
@@ -95,12 +96,14 @@ Observe ≥30 min; later allergy testing; record the reaction
 - **UTI (urinary tract infection):** urothelial inflammation from bacterial invasion, usually with bacteriuria and pyuria. **Sterile pyuria** needs evaluation (tuberculosis, stone, tumour).
 - **Uncomplicated:** healthy non-pregnant woman, normal tract. **Complicated:** men, pregnancy, obstruction, stones, catheter, neurogenic bladder, diabetes, immunosuppression.
 - **Recurrent:** ≥2 in 6 months or ≥3 in 12 months. Unresolved = never cleared; reinfection = new organism; **bacterial persistence** = same organism from a focus (stone, prostate).
+- **Prophylaxis** assumes a sterile tract; **suppression** controls a focus that cannot be eradicated.
 
 ### Pathogenesis
 - **Routes:** ascending from bowel flora (commonest); haematogenous (*S. aureus*, *Candida*); lymphatic (rare).
-- **Virulence (uropathogenic *E. coli*):** **type 1 pili** (mannose-sensitive) bind bladder uroplakins and cause cystitis. **P pili** bind renal glycolipids and are found in about 90% of pyelonephritis strains. Intracellular bacterial reservoirs cause recurrence.
+- **Virulence (uropathogenic *E. coli*):** **type 1 pili** (mannose-sensitive) bind bladder uroplakins and cause cystitis. **P pili** (mannose-resistant) bind renal glycolipids and are found in about 90% of pyelonephritis strains. Haemolysin damages tissue. Bacteria invade umbrella cells and form intracellular communities; quiescent reservoirs cause recurrence.
+- **Principle:** a strong host is infected only by virulent strains; a compromised host (obstruction, catheter) by almost any organism.
 - **Host defences:** voiding washout, lactobacilli, urine osmolality and pH, uromodulin (Tamm–Horsfall protein), urothelial exfoliation.
-- **Risk factors:** **obstruction** (turns UTI life-threatening), VUR (vesicoureteral reflux), stones, catheters, diabetes, pregnancy.
+- **Risk factors:** **obstruction** (stasis impairs defences and turns UTI life-threatening), VUR (vesicoureteral reflux; with infection it scars the growing kidney), stones, catheters, diabetes, pregnancy, spermicides.
 - **Diagnosis:** dipstick (nitrite, leucocyte esterase) rules out better than it rules in. Culture is the gold standard: ≥10⁵ CFU/mL (Kass); ≥10² in a symptomatic woman or a catheter specimen. Image (ultrasound, CT (computed tomography)) in complicated infection or fever beyond 72 hours.
 
 ### Characteristics of common organisms
@@ -114,6 +117,8 @@ Observe ≥30 min; later allergy testing; record the reaction
 | ***S. saprophyticus*** | ~10% of cystitis in young sexually active women |
 | ***S. aureus*** | Haematogenous renal abscess; in urine, look for bacteraemia |
 | **Anaerobes, *Candida*** | Abscesses, fistulae; *Candida* with catheters and diabetes |
+
+- **Also know:** emerging *Aerococcus urinae*; *Ureaplasma* and *Mycoplasma* with negative routine cultures; *Chlamydia* and tuberculosis do not grow on routine culture (sterile pyuria).
 
 - **Antibiotic principles (see 2015 I-3f):** urine levels matter in cystitis, tissue levels in pyelonephritis and bacteraemia. Use a narrow spectrum and short course; adjust for renal function; **drain obstruction**.
 
@@ -167,11 +172,12 @@ Lactate → blood cultures ×2 + urine culture
 | 1 | Activity rises with detrusor pressure, then relaxes suddenly at peak | Incomplete |
 | 2 | Sporadic contractions throughout voiding | Complete |
 | 3 | Crescendo–decrescendo contraction; obstruction throughout | Complete |
+- Alternative: intermittent versus continuous (continuous means a complete lesion). Type has no relation to lesion level.
 
 ### Diagnosis
 - **Pressure–flow study with EMG:** EMG rises during the detrusor contraction, with high pressure and interrupted flow. Needle EMG is more reliable than surface.
 - **VUDS (videourodynamics):** narrowed membranous urethra with dilated posterior urethra; shows VUR (vesicoureteral reflux).
-- **Exclude:** guarding reflex (normal); **pseudodyssynergia** (straining or suppressing a contraction); dysfunctional voiding (learned, no lesion).
+- **Exclude:** guarding reflex (normal); **pseudodyssynergia** (straining or suppressing a contraction); dysfunctional voiding (learned, no neurological lesion; Hinman syndrome in children).
 
 ### Significance
 - Worse when complete, continuous and **in men**: about half of untreated men get VUR, hydronephrosis, stones or urosepsis.
@@ -181,6 +187,7 @@ Lactate → blood cultures ×2 + urine culture
 - **First line:** CIC (clean intermittent catheterisation) plus antimuscarinic or β3-agonist; then intradetrusor botulinum toxin.
 - **CIC impossible (men):** sphincterotomy or sphincteric botulinum toxin, with condom drainage. The goal is DLPP <40; repeat procedures are common.
 - Others: suprapubic catheter, Brindley stimulator with deafferentation, diversion. Urethral stents are abandoned; oral drugs disappoint.
+- **Also know:** α-blockers for bladder-neck dyssynergia; lifelong upper-tract surveillance.
 
 **Diagram to draw:** urodynamic trace with rising Pdet, EMG bursts and interrupted flow.
 
@@ -196,7 +203,7 @@ Lactate → blood cultures ×2 + urine culture
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- PUV (posterior urethral valves): commonest cause of bladder outlet obstruction in boys (1.4–2.2 per 10,000 births). Named and classified by Hugh Hampton Young (1919).
+- PUV (posterior urethral valves): commonest cause of bladder outlet obstruction in boys (1.4–2.2 per 10,000 births). Morgagni described them (1769); Hugh Hampton Young named and classified them (1919).
 
 ### Normal development
 - Weeks 5–6: the **urorectal septum** divides the cloaca into the anorectal canal and the **urogenital sinus**.
@@ -241,11 +248,12 @@ Lactate → blood cultures ×2 + urine culture
 |---|---|---|
 | **Haemodynamic** | **NSAIDs** (non-steroidal anti-inflammatory drugs) | Block prostaglandin afferent dilatation |
 | | **ACE (angiotensin-converting enzyme) inhibitors, ARBs (angiotensin receptor blockers)** | Remove efferent constriction that holds GFR (glomerular filtration rate) |
-| | Ciclosporin, tacrolimus; diuretics | Vasoconstriction; volume loss |
+| | Ciclosporin, tacrolimus, contrast; diuretics | Afferent vasoconstriction; volume loss |
 | **ATN (acute tubular necrosis)** | **Aminoglycosides**, amphotericin B, vancomycin, cisplatin, ifosfamide, contrast | Direct tubular toxicity |
 | **AIN (acute interstitial nephritis)** | **β-lactams**, sulfonamides, quinolones, rifampicin, NSAIDs, **PPIs (proton pump inhibitors)**, allopurinol, **checkpoint inhibitors** | Cell-mediated hypersensitivity |
 | **Crystals** | Aciclovir, methotrexate, indinavir, sulfadiazine; tumour lysis | Intratubular obstruction |
 | **Microangiopathy** | Gemcitabine, VEGF (vascular endothelial growth factor) inhibitors | Endothelial injury |
+| **Rhabdomyolysis** | Statins (with fibrates) | Myoglobin toxicity, precipitation |
 
 - **"Triple whammy":** NSAID + ACE inhibitor/ARB + diuretic in a dehydrated patient.
 - **False creatinine rise:** trimethoprim and cimetidine block creatinine secretion.
@@ -255,7 +263,8 @@ Lactate → blood cultures ×2 + urine culture
 |---|---|
 | Prerenal | FeNa (fractional excretion of sodium) <1%, bland |
 | ATN | FeNa >1%, muddy-brown casts |
-| AIN | Sterile pyuria, white cell casts, ± rash, eosinophilia |
+| AIN | Sterile pyuria, white cell casts, ± rash, fever, eosinophilia |
+- AIN appears days to weeks after the drug starts; it is the commonest biopsy lesion with checkpoint inhibitors. Urine eosinophils are unreliable.
 
 ### Prevention and management
 - Identify risk (CKD (chronic kidney disease), age, diabetes). Dose by eGFR (estimated GFR); monitor drug levels; once-daily aminoglycoside.
@@ -324,6 +333,7 @@ Lactate → blood cultures ×2 + urine culture
 
 ### Design
 - **Fr (French) = 3 × diameter in mm.** Adults usually 14–16 Fr; clot retention 20–24 Fr three-way. Newborn 6 Fr.
+- Normal calibre: meatus 24 Fr (narrowest), bladder neck 28 Fr, prostatic urethra 32 Fr, female urethra 22 Fr.
 - **Balloon:** usually 10 mL; larger (30 mL) for traction. Use **sterile water**; volume is printed on the port.
 - **Lumens:** two-way (drainage + balloon) is routine; three-way adds irrigation for haematuria. Each lumen reduces drainage size.
 - **Tips:** straight; **coudé** (curved, for prostatic enlargement); **Councill** (open, over a wire).
