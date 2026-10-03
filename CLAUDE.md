@@ -63,6 +63,7 @@ Each question is answered in this structure:
 
 ## Existing work in this repository
 - **Current:** `answers/2015-summer/` and `pdf/2015-summer/`: MCh Urology Summer 2015 Papers I–IV, chapter-sourced half-length versions (drafts in `answers/2015-summer/drafts/`). Use this folder layout (`answers/<set>/`, `pdf/<set>/`) for every new set.
+- `answers/2016-summer/` and `pdf/2016-summer/`: MCh Urology Summer 2016 Papers I–IV (question paper PDF saved in `answers/2016-summer/`).
 - Older versions: `answers/Paper-*.md` / `pdf/Paper-*.pdf` (pre-chapter half-length) and `answers/concise/`.
 - `answers/full/` and `pdf/full/`: the earlier full-length versions (reference only).
 - Missing chapters in `reference/`: 89 only. Chapter 119 is only 2 pages. Chapter 56 (hypospadias) has a full version and a "short version"; Chapter 110 (OAB) has two versions.

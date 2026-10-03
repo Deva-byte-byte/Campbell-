@@ -405,3 +405,67 @@ Lactate → blood cultures ×2 + urine culture
 > - PN indications: imperative, relative, elective (cT1a ≤4 cm).
 > - Warm ischaemia under about 25–30 minutes; ice slush if longer.
 > - Negative margin is enough; keep ≥20–30% of one kidney.
+
+
+---
+
+## Rapid Revision Sheet – Paper I
+
+*All the key points from this paper in one place. Read this in the last 30 minutes before the exam.*
+
+
+#### I-1. Discuss Iodinated contrast radiological agents and their complications. (LAQ)
+
+- Ratio 1.5 (ionic), 3 (non-ionic monomer), 6 (iodixanol, 290 mOsm/kg).
+- Anaphylaxis: IM adrenaline 0.3–0.5 mg, max 1 mg; shellfish allergy is not a risk.
+- Premedication: prednisone 50 mg at 13-7-1 h or methylprednisolone 32 mg at 12-2 h, plus diphenhydramine.
+- CA-AKI: saline if eGFR <30; bicarbonate and NAC useless; hold metformin only if eGFR <30 or AKI.
+
+#### I-2. Discuss general principles of genitourinary infections, characteristics of common organisms and management of bacteremia and septic shock. (LAQ)
+
+- *E. coli* ~85% community UTI; P pili cause pyelonephritis; *Proteus* causes struvite; *Enterococcus* resists cephalosporins.
+- Sepsis = SOFA ≥2; shock = vasopressor for MAP ≥65 plus lactate >2.
+- Hour-1: lactate, cultures, antibiotics, 30 mL/kg, noradrenaline.
+- Infected obstructed kidney: drain urgently; no definitive stone surgery in sepsis.
+
+#### I-3a. External Sphincter Dyssynergia (SAQ)
+
+- Lesion between pons and sacral cord; never brain lesions.
+- Blaivas 1 incomplete; 2 and 3 complete.
+- Worst in men; DLPP ≥40 cmH₂O hostile.
+- CIC plus detrusor relaxation first; sphincterotomy if CIC impossible.
+
+#### I-3b. Embryology of Posterior Urethral Valves. (SAQ)
+
+- Type I (95%): abnormal Wolffian duct insertion; type III: persistent urogenital membrane; type II not real.
+- Urorectal septum divides the cloaca at weeks 5–6.
+- COPUM: one membrane torn into leaflets by catheterisation.
+- Dysplasia is fixed in utero; ablation cannot reverse it.
+
+#### I-3c. Drugs associated with Acute Renal Failure. (SAQ)
+
+- NSAIDs block afferent dilatation; ACE inhibitors/ARBs block efferent constriction.
+- ATN: aminoglycosides, amphotericin, cisplatin, contrast.
+- AIN: β-lactams, PPIs, NSAIDs, checkpoint inhibitors; stop and give steroids.
+- Crystals: aciclovir, methotrexate, indinavir.
+
+#### I-3d. Anomalies detected on Prenatal scan between 16th and 20th weeks of gestation (SAQ)
+
+- Anomaly scan 18–20 weeks; after 16 weeks amniotic fluid = fetal urine.
+- UTD A2–3 = APRPD ≥7 mm or any abnormal feature.
+- Keyhole + oligohydramnios = PUV; absent bladder = exstrophy or agenesis.
+- ARPKD large bright kidneys; MCDK non-communicating cysts.
+
+#### I-3e. Foley's catheter. (SAQ)
+
+- Foley balloon catheter: designed for post-prostatectomy haemostasis.
+- Fr = 3 × diameter (mm); inflate with sterile water.
+- Suspected urethral injury → RUG first; AUS → deactivate, 12–14 Fr.
+- CAUTI 5–10% per day; remove early; change the catheter when treating.
+
+#### I-3f. Andrew Novick. (SAQ)
+
+- Novick (Cleveland Clinic): nephron-sparing, renovascular and bench surgery.
+- PN indications: imperative, relative, elective (cT1a ≤4 cm).
+- Warm ischaemia under about 25–30 minutes; ice slush if longer.
+- Negative margin is enough; keep ≥20–30% of one kidney.
