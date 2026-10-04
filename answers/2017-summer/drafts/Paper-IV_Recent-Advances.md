@@ -98,7 +98,7 @@
 ### Lasers used
 | Laser | Wavelength (nm) | Chromophore | Penetration | Main uses |
 |---|---|---|---|---|
-| Ho:YAG | 2100 | Water | 0.3–0.4 mm | Stones, HoLEP, incisions, tumours |
+| Ho:YAG | 2120 (Ch 19 quotes 2100) | Water | 0.3–0.4 mm | Stones, HoLEP, incisions, tumours |
 | TFL | 1940 | Water (peak) | <0.1 mm | Dusting, enucleation |
 | Tm:YAG | ~2010 | Water | 0.2 mm | Vaporesection, enucleation |
 | KTP/LBO | 532 | Haemoglobin | 0.8 mm | PVP |
@@ -148,7 +148,7 @@
 ### Recent advances
 - Pulse modulation (Moses) and high-frequency holmium. TFL and thin fibres. Suction sheaths. AI (artificial intelligence) settings.
 
-**Diagram to draw:** water and haemoglobin absorption curves marking 532, 1064, 1940 and 2100 nm.
+**Diagram to draw:** water and haemoglobin absorption curves marking 532, 1064, 1940 and 2120 nm.
 
 > **Key points to remember:**
 > - Chromophore sets penetration: TFL shallowest, Ho 0.4 mm, Nd:YAG deepest.
