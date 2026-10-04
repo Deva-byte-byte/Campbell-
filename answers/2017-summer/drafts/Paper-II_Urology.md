@@ -190,8 +190,8 @@ Stable → stage with CT
 **Type:** SAQ (10 marks)
 
 ### Ideal irrigant
-- Transparent, **non-conducting** (for monopolar), isotonic, non-haemolytic, non-toxic when absorbed, cheap, sterile.
-- **Why non-conducting?** In monopolar TURP (transurethral resection of the prostate), current flows loop → patient → pad. An ionic fluid (saline) would disperse the current, so ion-free fluids are needed. **Bipolar** TURP completes the circuit in the instrument, so it uses **normal saline**.
+- Transparent, **non-conducting** (monopolar), isotonic, non-toxic, non-haemolytic, cheap.
+- **Why non-conducting?** In monopolar TURP (transurethral resection of the prostate), current flows loop → patient → pad; ionic saline would disperse it. **Bipolar** TURP completes the circuit in the instrument, so it uses **normal saline**.
 
 ### Fluids
 | Fluid | Osmolality (approx.) | Points |
@@ -202,7 +202,7 @@ Stable → stage with CT
 | Mannitol 5% | ~275 | Near iso-osmolar; not metabolised; osmotic diuresis; volume overload in renal failure |
 | Sorbitol 2.7% + mannitol 0.54% | ~180 | Continental Europe |
 | **Normal saline 0.9%** | ~308 | Bipolar TURP, lasers (HoLEP, PVP); no TUR syndrome |
-- Plasma osmolality is about 285–295 mOsm/kg, so most monopolar fluids are **hypo-osmolar**.
+- Plasma is about 290 mOsm/kg, so monopolar fluids are **hypo-osmolar**.
 
 ### TUR (transurethral resection) syndrome
 - **Mechanism**: prostatic venous pressure is ~10 mmHg; irrigant at higher pressure enters open sinuses → volume overload, **dilutional hyponatraemia** and hypo-osmolality → cerebral oedema; plus glycine toxicity.
@@ -230,50 +230,50 @@ Stable → stage with CT
 *Assumed meaning: evaluation of a living kidney donor.*
 
 ### Principles
-- Donor safety comes first. **KDIGO (Kidney Disease: Improving Global Outcomes) 2017** uses a **risk-based** approach: estimate the donor's lifetime risk of ESKD (end-stage kidney disease) and compare with the centre's acceptable threshold.
-- Team: nephrologist, surgeon, coordinator, **independent donor advocate**, psychologist or social worker.
+- Donor safety first. **KDIGO (Kidney Disease: Improving Global Outcomes) 2017** is **risk-based**: the donor's lifetime ESKD (end-stage kidney disease) risk is compared with the centre's threshold. Team includes an **independent donor advocate**.
 - India: **THOA (Transplantation of Human Organs Act) 1994, amended 2011**: near relatives, or authorisation committee approval for others; swap donation allowed.
 
 ### Sequence of evaluation
 **1. Compatibility**
-- ABO group (incompatible pairs → paired exchange or ABO-incompatible protocol), HLA (human leukocyte antigen) typing, **crossmatch** (CDC (complement-dependent cytotoxicity) and flow), DSA (donor-specific antibody).
+- ABO group, HLA (human leukocyte antigen) typing, **crossmatch** (CDC (complement-dependent cytotoxicity) and flow), DSA (donor-specific antibody); incompatible pairs → paired exchange.
 
 **2. Kidney function and urine**
+
 | Test | Accept | Individualise | Decline |
 |---|---|---|---|
 | GFR (glomerular filtration rate), mL/min/1.73 m² | ≥90 | 60–89 | <60 |
 | Albuminuria (ACR (albumin–creatinine ratio), mg/g) | <30 | 30–100 | >100 |
-- GFR by at least two methods, including a measured GFR (e.g. DTPA (diethylenetriamine pentaacetic acid) or creatinine clearance).
-- Urinalysis, urine culture; persistent microscopic haematuria → cystoscopy, imaging, sometimes kidney biopsy (IgA nephropathy, thin basement membrane).
+- GFR by two methods, one measured (DTPA (diethylenetriamine pentaacetic acid) or creatinine clearance).
+- Urinalysis, culture; persistent microscopic haematuria → cystoscopy, imaging, ± kidney biopsy.
 
 **3. Medical and metabolic**
-- Blood pressure (ambulatory if borderline), fasting glucose, **HbA1c (glycated haemoglobin)**, OGTT (oral glucose tolerance test) if at risk; lipids, liver tests, uric acid, coagulation, BMI (body mass index).
+- Blood pressure (ambulatory if borderline), fasting glucose, **HbA1c (glycated haemoglobin)**, OGTT (oral glucose tolerance test) if at risk; lipids, liver tests, BMI (body mass index).
 - **Type 1 diabetes excludes**; prediabetes, controlled hypertension and obesity: individual risk.
-- **Stones**: history, CT; metabolic work-up; bilateral or recurrent stones usually exclude.
+- **Stones**: metabolic work-up; bilateral or recurrent usually exclude.
 
 **4. Infection screen**
-- HIV (human immunodeficiency virus), HBsAg (hepatitis B surface antigen), anti-HBc, HCV (hepatitis C virus), CMV (cytomegalovirus), EBV (Epstein–Barr virus), syphilis; **tuberculosis** screen (relevant in India).
+- HIV (human immunodeficiency virus), HBsAg (hepatitis B surface antigen), anti-HBc, HCV (hepatitis C virus), CMV (cytomegalovirus), syphilis; **tuberculosis** screen.
 
-**5. Cardiopulmonary**: ECG (electrocardiogram), chest X-ray, echo; stress test if older or risk factors.
+**5. Cardiopulmonary**: ECG (electrocardiogram), chest X-ray, echo; stress test if indicated.
 
 **6. Cancer screening** by age: Pap smear, mammogram, PSA (prostate-specific antigen), stool test or colonoscopy.
 
 **7. Anatomy**
-- **CT angiography** (or MR angiography): number of arteries and veins, early branching, stones, cysts, masses.
-- **Split function (DTPA/DMSA)** if size asymmetry: leave the **better kidney with the donor**. Left kidney preferred (longer vein).
+- **CT (computed tomography) angiography**: number of vessels, early branching, stones, masses.
+- **Split function** (DTPA or DMSA (dimercaptosuccinic acid)) if asymmetric: the **better kidney stays with the donor**; left preferred (longer vein).
 
-**8. Psychosocial**: voluntary consent, no coercion or payment, informed of risks.
+**8. Psychosocial**: voluntary, no coercion or payment.
 
 ### Counselling figures (Muzaale 2014)
-- Lifetime ESKD 90 per 10,000 donors vs 14 in matched healthy non-donors; mortality 3 per 10,000; function settles at 60–80% of baseline.
+- Lifetime ESKD 90 per 10,000 donors vs 14 in matched non-donors; mortality 3 per 10,000.
 
-**Also know:** APOL1 (apolipoprotein L1) genotyping in donors of African ancestry; older living donors acceptable if well (marginal donor).
+**Also know:** APOL1 (apolipoprotein L1) testing in African ancestry; healthy older (marginal) donors acceptable.
 
-**Diagram to draw:** flowchart of donor work-up from compatibility to anatomy.
+**Diagram to draw:** donor work-up flowchart.
 
 > **Key points to remember:**
-> - KDIGO 2017: risk-based; GFR <60 declines; ACR >100 declines.
-> - Crossmatch and ABO first; CT angiography for anatomy.
+> - KDIGO 2017: risk-based; decline GFR <60 or ACR >100.
+> - ABO and crossmatch first; CT angiography for anatomy.
 > - Leave the better kidney with the donor.
 > - THOA: near relatives or authorisation committee.
 
@@ -283,12 +283,12 @@ Stable → stage with CT
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- **University of Wisconsin solution** (Belzer and Southard, late 1980s; ViaSpan). The **gold standard** cold-storage solution for kidney, liver and pancreas.
+- **University of Wisconsin solution** (Belzer, late 1980s): the **gold standard** cold-storage solution for kidney, liver and pancreas.
 
 ### Principles of cold preservation
 - Cooling to **4 °C** cuts metabolism to roughly a tenth, but does not stop it.
 - Ischaemia → ATP (adenosine triphosphate) loss → **Na⁺/K⁺-ATPase pump failure** → cell swelling; anaerobic glycolysis → acidosis; on reperfusion, **oxygen free radicals** (xanthine oxidase) → ischaemia–reperfusion injury, seen clinically as DGF (delayed graft function).
-- So a preservation solution must: prevent swelling (impermeants), prevent interstitial oedema (colloid), buffer acid, scavenge free radicals and provide ATP precursors.
+- A solution must therefore prevent swelling and oedema, buffer acid, scavenge radicals and supply ATP precursors.
 
 ### Composition (per litre)
 | Component | Amount | Purpose |
@@ -305,7 +305,7 @@ Stable → stage with CT
 - **Intracellular-type**: K⁺ about 125 mmol/L, Na⁺ about 30 mmol/L; osmolality ~320 mOsm/kg; pH 7.4.
 
 ### Drawbacks
-- **High viscosity** (starch): slow flush, may need pressure. **High K⁺**: flush the graft before reperfusion (hyperkalaemia, vasospasm). Short shelf-life; may form crystals (use a filter).
+- **Viscous** (starch): slow flush. **High K⁺**: flush before reperfusion (hyperkalaemia, vasospasm). May crystallise (filter).
 
 ### Comparison
 | Feature | UW | HTK (Custodiol) | Euro-Collins |
@@ -315,14 +315,14 @@ Stable → stage with CT
 | Buffer | Phosphate | **Histidine** (strong) | Phosphate |
 | Colloid | HES (hydroxyethyl starch) | None (low viscosity) | None |
 | Others | Antioxidants, adenosine | Tryptophan, ketoglutarate | — |
-- Kidney outcomes with UW and HTK are broadly similar; Euro-Collins is largely abandoned. **Also know:** Celsior, IGL-1, Marshall's citrate.
+- Kidney outcomes with UW and HTK (histidine–tryptophan–ketoglutarate) are similar; Euro-Collins largely abandoned. **Also know:** Celsior, IGL-1, Marshall's citrate.
 
 ### Practical use
-- Very short cold ischaemia (living donor, simultaneous operations): cold lactated Ringer's is enough. Longer (deceased donor, sequential or exchange): UW or HTK.
-- Keep cold ischaemia as short as possible (ideally under 24 h); risk of DGF and thrombosis rises with time.
-- **Machine perfusion**: hypothermic pulsatile perfusion (with a gluconate-based UW variant, Belzer MPS (machine perfusion solution)) reduces DGF versus static storage (**Moers 2009**), without long-term survival difference. Normothermic perfusion: experimental.
+- Living donor, very short cold ischaemia: cold lactated Ringer's suffices; deceased donor or exchange: UW or HTK.
+- Keep cold ischaemia short (ideally <24 h): DGF and thrombosis rise with time.
+- **Hypothermic machine perfusion** (Belzer MPS (machine perfusion solution), gluconate-based) reduces DGF vs static storage (**Moers 2009**) without long-term survival gain; normothermic perfusion experimental.
 
-**Diagram to draw:** ischaemia cascade (ATP loss → pump failure → swelling → free radicals on reperfusion) with UW component acting at each step.
+**Diagram to draw:** ischaemia cascade with the UW component acting at each step.
 
 > **Key points to remember:**
 > - Lactobionate and raffinose (impermeants), HES (colloid).
@@ -336,40 +336,39 @@ Stable → stage with CT
 **Type:** SAQ (10 marks)
 
 ### Definition and principles
-- UDS (urodynamic studies) are functional tests of the bladder and urethra in storage and voiding.
-- ICS (International Continence Society) principles: **decide the question first**, design the study to answer it, **reproduce the symptom**. A normal study does not exclude a problem; an abnormality without symptoms may not matter.
-- Before invasive UDS: symptom score, 3-day **frequency–volume chart**, free uroflow and PVR (post-void residual). Treat UTI (urinary tract infection) first; antibiotics for risk groups (NLUTD (neurogenic lower urinary tract dysfunction), catheters, age >70, immunosuppression).
+- UDS (urodynamic studies) test bladder and urethral function in storage and voiding.
+- ICS (International Continence Society): **decide the question first**, **reproduce the symptom**; a normal study does not exclude disease.
+- Before invasive UDS: symptom score, 3-day **frequency–volume chart**, free uroflow and PVR (post-void residual); treat UTI (urinary tract infection) first.
 
 ### Components
 | Test | Method | Main values |
 |---|---|---|
-| **Uroflowmetry** | Void into flowmeter; voided volume ≥150 mL | Qmax: men <10 mL/s suggests obstruction or weak detrusor; bell-shaped normal curve; plateau = fixed obstruction |
-| **PVR** | Bladder scan or catheter | Repeat if raised |
+| **Uroflowmetry** | Voided volume ≥150 mL | Bell curve normal; Qmax <10 mL/s (men) suggests obstruction or weak detrusor; plateau = stricture |
+| **PVR** | Bladder scan or catheter | Emptying |
 | **Filling cystometry** | Bladder and rectal lines, fill with saline 30–100 mL/min (adults); **Pdet = Pves − Pabd**; zero at atmosphere, transducer at symphysis | Sensation, capacity, **DO (detrusor overactivity)**, **compliance** = ΔV/ΔPdet (<20 mL/cmH₂O impaired) |
 | **Leak point pressures** | ALPP (abdominal LPP): cough or Valsalva at 150 mL | Low ALPP = weak sphincter (ISD (intrinsic sphincter deficiency)) |
 | | DLPP (detrusor LPP) | **>40 cmH₂O** risks upper tracts (McGuire) |
 | **Pressure–flow study** | Void with lines in | High pressure–low flow = obstruction; low–low = underactivity |
 | **EMG (electromyography)** | Perineal surface electrodes | DESD (detrusor–external sphincter dyssynergia) |
-| **UPP (urethral pressure profile)** | Sensor withdrawn | MUCP (maximum urethral closure pressure); limited value |
+| **UPP (urethral pressure profile)** | Catheter withdrawn | Limited value |
 | **Videourodynamics** | Above with contrast and fluoroscopy | VUR (vesicoureteric reflux), bladder neck, site of obstruction |
 
 ### Indices (men)
 - **BOOI (bladder outlet obstruction index)** = PdetQmax − 2Qmax: **>40 obstructed**, 20–40 equivocal, <20 unobstructed.
 - **BCI (bladder contractility index)** = PdetQmax + 5Qmax: **>150 strong**, 100–150 normal, **<100 weak**.
-- Women: no validated nomogram; Nitti videourodynamic criteria, Blaivas–Groutz.
+- Women: no validated nomogram (Nitti video criteria).
 
 ### Indications
-- Before invasive treatment when diagnosis is uncertain: male LUTS (lower urinary tract symptoms) before surgery (young men, equivocal flow, failed TURP), complex or mixed incontinence, failed incontinence surgery.
-- **Neurogenic bladder** (spinal injury, MS (multiple sclerosis), spina bifida): baseline and surveillance.
+- Male LUTS (lower urinary tract symptoms) before surgery when unclear (young men, equivocal flow, failed TURP (transurethral resection of the prostate)); complex, mixed or recurrent incontinence.
+- **Neurogenic bladder** (spinal injury, MS (multiple sclerosis), spina bifida), radiation cystitis, before augmentation.
 - Children: neurogenic bladder, PUV (posterior urethral valves); fill at **5–10% of expected capacity per minute**; expected capacity = (age + 2) × 30 mL.
-- Retention, radiation cystitis, before augmentation or diversion.
 
 ### Urodynamic risk factors
 - Impaired compliance, DESD, DISD (detrusor–internal sphincter dyssynergia), high-pressure DO throughout filling.
 
-**Also know:** ambulatory (natural-fill) urodynamics; bethanechol supersensitivity test (limited); artefacts (line flush, cough checks).
+**Also know:** ambulatory UDS; bethanechol test; antibiotic prophylaxis for risk groups.
 
-**Diagram to draw:** normal UDS trace with Pves, Pabd, Pdet, flow and EMG channels.
+**Diagram to draw:** normal trace: Pves, Pabd, Pdet, flow, EMG.
 
 > **Key points to remember:**
 > - Pdet = Pves − Pabd.
@@ -385,19 +384,19 @@ Stable → stage with CT
 *Assumed meaning: azoospermia.*
 
 ### Definition
-- **No sperm in the ejaculate** after **centrifugation** of the sample, on **at least two** semen analyses. About 1% of men and 10–15% of infertile men.
+- **No sperm in the ejaculate** after **centrifugation** of the sample, on **at least two** semen analyses; 10–15% of infertile men.
 
 ### Classification
 | Type | Cause | Clues |
 |---|---|---|
 | **Pre-testicular** (hypogonadotropic) | Kallmann syndrome, pituitary tumour, hyperprolactinaemia, **exogenous testosterone or anabolic steroids** | Low FSH (follicle-stimulating hormone), LH (luteinising hormone), testosterone |
-| **Testicular (NOA (non-obstructive azoospermia), spermatogenic failure)** | Klinefelter, Y microdeletion, cryptorchidism, mumps orchitis, chemotherapy, radiation, varicocele, idiopathic | Small soft testes, **FSH >7.6 IU/L**, long axis ≤4.6 cm |
-| **Post-testicular (OA (obstructive azoospermia))** | CBAVD (congenital bilateral absence of the vas deferens), epididymal obstruction (infection), vasectomy, hernia repair, EDO (ejaculatory duct obstruction) | Normal testes, **FSH ≤7.6**, dilated epididymis |
+| **Testicular (NOA (non-obstructive azoospermia), spermatogenic failure)** | Klinefelter, Y microdeletion, cryptorchidism, mumps, chemotherapy or radiation, idiopathic | Small soft testes, **FSH >7.6 IU/L**, long axis ≤4.6 cm |
+| **Post-testicular (OA (obstructive azoospermia))** | CBAVD (congenital bilateral absence of the vas deferens), epididymal obstruction, vasectomy, hernia repair, EDO (ejaculatory duct obstruction) | Normal testes, **FSH ≤7.6**, dilated epididymis |
 | Ejaculatory | Retrograde ejaculation, anejaculation | Low volume; sperm in post-ejaculate urine |
 
 ### Evaluation
-- History (puberty, mumps, surgery, drugs, testosterone), examination (testis size, **vasa present?**, epididymis, varicocele).
-- **Hormones**: FSH, LH, testosterone, prolactin. FSH reflects germ-cell mass (via inhibin B).
+- History (mumps, surgery, drugs, testosterone); examination (testis size, **vasa**, epididymis, varicocele).
+- **Hormones**: FSH (reflects germ-cell mass), LH, testosterone, prolactin.
 ```
 Azoospermia → vasa absent? → CBAVD → CFTR testing (both partners), renal US
             → volume <1 mL? → sperm in post-ejaculate urine → retrograde
@@ -405,16 +404,16 @@ Azoospermia → vasa absent? → CBAVD → CFTR testing (both partners), renal U
             → normal volume: FSH ≤7.6 + testis >4.6 cm → obstructive
                              FSH >7.6 + small testes → spermatogenic failure
 ```
-- **Genetics** (AUA/ASRM (American Society for Reproductive Medicine) guideline): **karyotype** and **Y microdeletion** in NOA (and sperm <5 million/mL). Klinefelter (47,XXY) commonest. **AZF (azoospermia factor) a or b deletion → no sperm; do not retrieve**; AZFc → sperm often found. **CFTR (cystic fibrosis transmembrane conductance regulator)** in CBAVD.
+- **Genetics** (AUA/ASRM (American Society for Reproductive Medicine) guideline): **karyotype** and **Y microdeletion** in NOA; Klinefelter (47,XXY) commonest. **AZF (azoospermia factor) a or b deletion: no sperm, do not operate**; AZFc: sperm often found. **CFTR (cystic fibrosis transmembrane conductance regulator)** in CBAVD.
 - **TRUS (transrectal ultrasound)**: seminal vesicle >1.5 cm, midline cyst → EDO.
-- **Testis biopsy**: usually combined with sperm extraction and cryopreservation.
+- **Testis biopsy**: combined with sperm extraction and freezing.
 
 ### Management
 - **Hypogonadotropic**: stop testosterone; **hCG (human chorionic gonadotropin) ± FSH**; dopamine agonist for prolactinoma.
-- **Obstructive**: **vasovasostomy** or **vasoepididymostomy** (microsurgical, intussusception technique); **TURED (transurethral resection of ejaculatory ducts)** for EDO; or sperm retrieval (MESA (microsurgical epididymal sperm aspiration), PESA, TESA) + ICSI (intracytoplasmic sperm injection).
-- **Non-obstructive**: **micro-TESE (microdissection testicular sperm extraction)** + ICSI; sperm in about half. Repair clinical varicocele first; optimise hormones (clomiphene, anastrozole, hCG off-label).
+- **Obstructive**: **vasovasostomy** or **vasoepididymostomy** (microsurgical); **TURED (transurethral resection of ejaculatory ducts)** for EDO; or sperm retrieval (MESA (microsurgical epididymal sperm aspiration), PESA, TESA) + ICSI (intracytoplasmic sperm injection).
+- **Non-obstructive**: **micro-TESE (microdissection testicular sperm extraction)** + ICSI; sperm in about half. Repair clinical varicocele; hormonal optimisation (off-label).
 - Retrograde ejaculation: sympathomimetics, or sperm from alkalinised urine.
-- No sperm: donor sperm or adoption. Genetic counselling.
+- No sperm: donor sperm or adoption; genetic counselling.
 
 **Diagram to draw:** hypothalamic–pituitary–testis axis with the three levels of failure.
 
@@ -430,47 +429,48 @@ Azoospermia → vasa absent? → CBAVD → CFTR testing (both partners), renal U
 **Type:** SAQ (10 marks)
 
 ### Radiobiology
-- Prostate cancer has a **low α/β ratio (~1.5 Gy)**, lower than the rectum. Larger fractions therefore kill tumour more than they harm late-responding normal tissue. This is the basis of **hypofractionation**.
+- Prostate cancer has a **low α/β ratio (~1.5 Gy)**, lower than the rectum, so larger fractions favour tumour kill over late toxicity: the basis of **hypofractionation**.
 
 ### EBRT (external beam radiotherapy)
-- **IMRT (intensity-modulated radiotherapy)/VMAT (volumetric modulated arc therapy)** with **IGRT (image-guided radiotherapy)** (fiducials, cone-beam CT) is standard; allows dose escalation (≥76–78 Gy) with less toxicity. MRI and PSMA (prostate-specific membrane antigen) PET aid planning.
+- **IMRT (intensity-modulated radiotherapy)**/VMAT (volumetric modulated arc therapy) with **IGRT (image-guided radiotherapy)** (fiducials, cone-beam CT (computed tomography)) is standard, allowing dose escalation with less toxicity.
+
 | Schedule | Dose per fraction | Example | Trial |
 |---|---|---|---|
 | Conventional | 1.8–2 Gy | 78 Gy in 39 | — |
 | **Moderate hypofractionation** (standard) | 2.25–4 Gy | **60 Gy in 20** | **CHHiP**: non-inferior to 74 Gy in 37 |
-| **SBRT (stereotactic body RT)** | ≥5 Gy | 36.25 Gy in 5 | **PACE-B**, HYPO-RT-PC: similar toxicity, non-inferior control |
-- **Also know:** focal boost to MRI lesion (FLAME); MRI-guided SBRT (MIRAGE); protons (no proven advantage); **rectal spacer** (hydrogel) cuts late rectal toxicity.
+| **SBRT (stereotactic body RT)** | ≥5 Gy | 36.25 Gy in 5 | **PACE-B**, HYPO-RT-PC |
+- **Also know:** focal MRI boost (FLAME); protons; **hydrogel rectal spacer** reduces rectal toxicity.
 
 ### Brachytherapy
-- **LDR (low dose rate)**: permanent seeds (¹²⁵I 140–160 Gy; ¹⁰³Pd) via TRUS-guided perineal template. Monotherapy for low and favourable intermediate risk.
+- **LDR (low dose rate)**: permanent ¹²⁵I (140–160 Gy) or ¹⁰³Pd seeds via TRUS (transrectal ultrasound)-guided perineal template; monotherapy for low and favourable intermediate risk.
 - **HDR (high dose rate)**: temporary ¹⁹²Ir afterloading (e.g. 27 Gy in 2).
-- **Boost** with EBRT 45 Gy for unfavourable intermediate/high risk: **ASCENDE-RT** halved biochemical failure with LDR boost, more urinary toxicity.
-- **Contraindications**: IPSS (International Prostate Symptom Score) >20, Qmax <10 mL/s, recent or large TURP defect, large gland or pubic arch interference, prior pelvic RT, inflammatory bowel disease.
+- **Boost** (EBRT 45 Gy + implant) for unfavourable intermediate or high risk: **ASCENDE-RT**: LDR boost halved biochemical failure, with more urinary toxicity.
+- **Contraindications**: IPSS (International Prostate Symptom Score) >20, Qmax <10 mL/s, recent TURP (transurethral resection of the prostate), pubic arch interference, prior pelvic RT (radiotherapy), inflammatory bowel disease.
 
 ### ADT (androgen deprivation therapy) with RT, by risk
 | Risk | ADT |
 |---|---|
 | Low, favourable intermediate | None |
 | Unfavourable intermediate | **4–6 months** |
-| High / locally advanced | **18–36 months** (EORTC 22863, Bolla); add pelvic nodes; abiraterone if very high risk (STAMPEDE) |
-- Adding RT to ADT in locally advanced disease improves survival (**SPCG-7, NCIC PR.3/MRC PR07**).
+| High / locally advanced | **24–36 months** (EORTC 22863); abiraterone if very high risk (STAMPEDE) |
+- RT added to ADT improves survival in locally advanced disease (**SPCG-7, NCIC PR.3/MRC PR07**).
 
 ### Post-prostatectomy RT
-- **Adjuvant RT** (pT3, positive margin) improves biochemical control (EORTC 22911, ARO 96-02) and survival (SWOG 8794).
-- **RADICALS-RT, RAVES, GETUG-AFU 17** (ARTISTIC meta-analysis): **early salvage at PSA 0.1–0.2 ng/mL** equals adjuvant RT and spares over half from RT. So observe and treat early.
-- Salvage dose 64–66 Gy; add ADT (**RTOG 9601**: bicalutamide 2 years improved survival; GETUG-AFU 16); pelvic nodes (SPPORT).
+- **Adjuvant RT** (pT3, positive margin) improves control (EORTC 22911, ARO 96-02) and survival (SWOG 8794).
+- **RADICALS-RT, RAVES, GETUG-AFU 17** (ARTISTIC meta-analysis): **early salvage at PSA (prostate-specific antigen) 0.1–0.2 ng/mL** equals adjuvant RT and spares most men RT.
+- Salvage 64–66 Gy + ADT (**RTOG 9601**: 2 years bicalutamide improved survival) ± pelvic nodes (SPPORT).
 
-### Results and comparison
-- **ProtecT** (2016; 15-year update 2023): RT (with short ADT) vs surgery vs active monitoring: same low prostate-cancer mortality; RT gave more bowel symptoms, surgery more incontinence and ED (erectile dysfunction).
+### Outcomes
+- **ProtecT** (2016; 15-year 2023): equally low prostate-cancer mortality with RT, surgery or active monitoring; RT more bowel effects, surgery more incontinence and ED (erectile dysfunction).
 - Failure after RT: **Phoenix definition** = nadir + 2 ng/mL.
 
 ### Toxicity
-- Acute: frequency, dysuria, diarrhoea. Late: **proctitis** and bleeding (6–18 months; sucralfate, argon plasma coagulation, hyperbaric oxygen), cystitis, urethral stricture, ED (vascular), second cancers (bladder, rectum).
+- Acute: frequency, dysuria, diarrhoea. Late: **proctitis** with bleeding (6–18 months; sucralfate, argon plasma coagulation), cystitis, stricture, ED, second cancers.
 
 **Diagram to draw:** TRUS-guided perineal template brachytherapy.
 
 > **Key points to remember:**
 > - α/β ~1.5 Gy: basis of hypofractionation (CHHiP 60 Gy in 20).
-> - ADT: 4–6 months intermediate, 18–36 months high risk.
+> - ADT: 4–6 months unfavourable intermediate, 24–36 months high risk.
 > - Early salvage (PSA 0.1–0.2) = adjuvant (RADICALS, RAVES, GETUG-AFU 17).
 > - Phoenix: nadir + 2 ng/mL.

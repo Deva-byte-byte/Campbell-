@@ -20,6 +20,7 @@ for line in src.split('\n'):
         elif ind>=4: line=' '*(4*((ind+2)//4))+line.lstrip()
     pm=LIST.match(prev)
     if prev.strip() and m and not pm and not prev.startswith(' '): out.append('')
+    if m and pm and len(m.group(1))==len(pm.group(1)) and (m.group(2)[0].isdigit())!=(pm.group(2)[0].isdigit()): out.append('')
     if st.startswith('|') and prev.strip() and not prev.strip().startswith('|'): out.append('')
     if st.startswith('**') and prev.strip() and not prev.strip().startswith(('|','#')) and not LIST.match(prev): out.append('')
     out.append(line); prev=line
