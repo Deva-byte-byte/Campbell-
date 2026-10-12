@@ -105,9 +105,9 @@
 | Ultrasound | First line in pregnancy and children |
 | KUB (plain X-ray) | Follow-up of radio-opaque stones only |
 | CT urography | Anatomy before PCNL (percutaneous nephrolithotomy) |
-| MAG3 or DMSA scan | Split function of a poor kidney |
+| MAG3 (mercaptoacetyltriglycine) renogram or DMSA (dimercaptosuccinic acid) scan | Split function |
 
-- **Stone analysis:** infrared spectroscopy or X-ray diffraction. Uric acid suggests a metabolic cause, cystine a genetic one, struvite infection.
+- **Stone analysis:** infrared spectroscopy or X-ray diffraction.
 - **Metabolic evaluation:** screening (history, serum, urine, stone analysis) for every first-time former. **High-risk formers** (recurrent, children, GI disease, obesity, diabetes, hyperparathyroidism, RTA, gout, family history, solitary kidney, large bilateral stones) need one or two **24-h urines** on a usual diet: volume, pH, calcium, oxalate, uric acid, citrate, sodium, potassium, creatinine (cystine if suspected). Bilateral staghorns are high risk by definition.
 
 ### Staghorn calculus
@@ -136,7 +136,7 @@
 | Option | Role |
 |---|---|
 | **PCNL** | **First line.** Multiple tracts if needed; upper-pole access reaches pelvis, lower pole and ureteropelvic junction. Flexible nephroscopy raises clearance; second-look for residue |
-| **ECIRS** (endoscopic combined intrarenal surgery) | Supine PCNL plus retrograde flexible ureteroscopy: fewer tracts, less bleeding, higher clearance |
+| **ECIRS** (endoscopic combined intrarenal surgery) | PCNL (usually supine) plus retrograde flexible ureteroscopy: fewer tracts, less bleeding, higher clearance |
 | Staged RIRS (retrograde intrarenal surgery) | Selected partial staghorns; patients who cannot stop anticoagulants |
 | SWL (shock wave lithotripsy) | Not as monotherapy; adjunct for residual fragments |
 | **Anatrophic nephrolithotomy** (Boyce–Smith) | Incision along Brödel's avascular line, artery clamped, cold ischaemia, infundibula reconstructed. Now rare; when endoscopy cannot clear the stone in a reasonable number of sessions |
@@ -177,16 +177,15 @@ Sepsis or obstruction on either side?
 **Type:** SAQ (10 marks)
 
 ### Principle
-- LASER (light amplification by stimulated emission of radiation) light is monochromatic and coherent, so it passes down thin fibres.
-- The tissue effect depends on wavelength and **chromophore** (water or haemoglobin), which set **penetration depth**.
+- LASER (light amplification by stimulated emission of radiation): the tissue effect depends on wavelength and **chromophore** (water or haemoglobin), which set **penetration depth**.
 - About 60 °C coagulates tissue (delayed sloughing); ≥100 °C vaporises it (immediate removal).
 
 ### Lasers used in BPH (benign prostatic hyperplasia)
 | Laser | Wavelength | Chromophore | Penetration | Procedure |
 |---|---|---|---|---|
-| Ho:YAG (holmium) | ~2120 nm | Water | 0.4 mm | **HoLEP** (enucleation) |
-| Thulium (Tm:YAG, TFL [thulium fibre laser]) | 2013 / 1940 nm | Water (TFL at peak) | 0.2 mm | ThuLEP, vaporesection, vaporisation |
-| KTP/LBO ("GreenLight") | 532 nm | Haemoglobin | 0.8 mm | **PVP** (photoselective vaporisation), 120–180 W |
+| Ho:YAG (holmium:yttrium-aluminium-garnet) | ~2120 nm | Water | 0.4 mm | **HoLEP** (holmium laser enucleation of the prostate) |
+| Thulium (Tm:YAG, TFL [thulium fibre laser]) | 2013 / 1940 nm | Water (TFL at peak) | 0.2 mm | ThuLEP (thulium laser enucleation), vaporesection, vaporisation |
+| KTP (potassium titanyl phosphate) / LBO (lithium triborate) | 532 nm | Haemoglobin | 0.8 mm | **PVP** (photoselective vaporisation), 120–180 W |
 | Diode | 940–1470 nm | Water and haemoglobin | 0.5–5 mm | Vaporisation, enucleation |
 | Nd:YAG | 1064 nm | Weak | About 1 cm | Coagulation; abandoned (sloughing) |
 
@@ -197,18 +196,16 @@ Sepsis or obstruction on either side?
 | Histology | Yes | No |
 | Gland size | **Any (size-independent)** | Up to 80 cc |
 | Retreatment | Rare | Higher, especially >80 cc |
-| Learning curve | Steep | Shorter |
 
 ### Evidence
 - **HoLEP** (about 2 J × 40–50 Hz): the only endoscopic procedure **superior to TURP** (transurethral resection of prostate) for IPSS (International Prostate Symptom Score) and Qmax. Less bleeding, shorter catheter time and stay.
 - **GOLIATH RCT** (randomised controlled trial; 180 W PVP vs TURP, about 270 men, ≤100 cc): PVP non-inferior for IPSS, Qmax and complications at 2 years; shorter catheter time and stay.
 - **ThuLEP:** outcomes equal to HoLEP. TFL energy is absorbed about four times more by water than holmium.
 - **AUA (American Urological Association):** HoLEP or ThuLEP for any size; PVP for <80 cc; HoLEP, ThuLEP or PVP for men at **higher bleeding risk**.
-- Saline irrigation, so no TUR syndrome.
 
 ### Complications
 - Storage symptoms and dysuria; transient stress incontinence; retrograde ejaculation (about three-quarters after HoLEP); bladder neck contracture (0–3%); stricture; capsular perforation; morcellator bladder injury.
-- **Safety:** wavelength-specific eyewear for all, door signage, laser safety officer.
+- **Safety:** wavelength-specific eyewear for all; laser safety officer.
 
 **Diagram to draw:** HoLEP planes: enucleated adenoma pushed into the bladder, then morcellated.
 
@@ -225,33 +222,30 @@ Sepsis or obstruction on either side?
 ### Definitions
 - **AUA (American Urological Association):** an unpleasant sensation (pain, pressure, discomfort) perceived to be related to the bladder, with LUTS (lower urinary tract symptoms) for **more than 6 weeks**, without infection or another identifiable cause.
 - **ESSIC (European Society for the Study of Interstitial Cystitis, 2008):** chronic (>6 months) bladder-related pain with at least one other urinary symptom (persistent urge or frequency), after confusable diseases are excluded.
-- NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases, 1987) criteria were for research and missed about 60% of patients.
+- NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases, 1987) research criteria missed about 60% of patients.
 
 ### Phenotypes
-- **Hunner lesion (HL) disease, "IC":** about 20%, mainly over 50. True inflammation (lymphoplasmacytic infiltrate, mast cells). Never shown to arise from non-HL disease.
+- **Hunner lesion (HL) disease, "IC":** about 20%, mainly over 50; true inflammation (lymphoplasmacytic infiltrate, mast cells).
 - **Non-Hunner BPS (bladder pain syndrome):** bladder normal or shows glomerulations.
-- **ESSIC type:** cystoscopy 1 normal, 2 glomerulations, 3 Hunner lesion; biopsy A normal, B inconclusive, C positive.
-- 75–80% have pain beyond the pelvis, often with IBS (irritable bowel syndrome) or fibromyalgia.
+- **ESSIC type:** cystoscopy 1 normal, 2 glomerulations, 3 Hunner lesion; biopsy A normal, B inconclusive, C positive (e.g. 3C).
 
 ### Pathogenesis (theories)
-- Leaky GAG (glycosaminoglycan) layer; mast-cell activation; neurogenic inflammation and central sensitisation; pelvic organ cross-sensitisation; stress-axis dysfunction; small-fibre neuropathy. No infection proven.
+- Leaky GAG (glycosaminoglycan) layer; mast-cell activation; neurogenic inflammation and central sensitisation; stress-axis dysfunction; small-fibre neuropathy. No infection proven. 75–80% have pain beyond the pelvis (IBS [irritable bowel syndrome], fibromyalgia).
 
 ### Evaluation (diagnosis of exclusion)
-- History (**ask about ketamine**), pelvic-floor palpation, PVR (post-void residual), urinalysis, culture; cytology if risk factors.
-- Voiding chart; symptom scores (O'Leary–Sant ICSI/ICPI); body map.
+- History (**ask about ketamine**), pelvic-floor palpation, PVR (post-void residual), urinalysis, culture, voiding chart, symptom scores; cytology if risk factors.
 - **Office cystoscopy if over 50 or HL suspected;** biopsy to exclude CIS (carcinoma in situ).
 - **Local anaesthetic challenge** localises pain to the bladder. Potassium sensitivity test is not recommended.
-- **Also know:** urodynamics optional (low capacity, hypersensitivity); hydrodistension glomerulations are non-specific.
+- **Also know:** urodynamics optional; hydrodistension glomerulations are non-specific.
 
 ### Treatment (AUA 2022: phenotype-based, no fixed tiers)
 | Group | Options |
 |---|---|
-| Behavioural | Education, avoid dietary triggers, stress management; **pelvic-floor myofascial therapy** if tender |
+| Behavioural | Education, dietary triggers, stress; **pelvic-floor myofascial therapy** if tender |
 | Oral | **Amitriptyline** 10 mg rising to about 50 mg; hydroxyzine; cimetidine; **PPS** (pentosan polysulfate) 100 mg three times daily (**pigmentary maculopathy**: eye checks) |
 | Intravesical | **DMSO** (dimethyl sulfoxide) 50%, 50 mL, 15–20 min dwell; heparin; alkalinised lidocaine |
-| Procedures | **HL: fulguration and/or triamcinolone injection** (75–90% improve; repeat when needed); short low-pressure hydrodistension; onabotulinumtoxinA; sacral neuromodulation |
-| Refractory HL | Ciclosporin A |
-| Last resort (<10%) | Diversion with or without cystectomy; augmentation |
+| Procedures | **HL: fulguration and/or triamcinolone injection** (75–90% improve); short low-pressure hydrodistension; onabotulinumtoxinA; sacral neuromodulation |
+| Last resort | Ciclosporin A for refractory HL; diversion ± cystectomy (<10%) |
 
 - **Do not offer:** long-term antibiotics, intravesical BCG (bacille Calmette–Guérin), long-term systemic steroids.
 
@@ -269,7 +263,6 @@ Sepsis or obstruction on either side?
 
 ### Pharmacology
 - The **most α1A-selective** blocker (well over 100-fold vs α1B; about 50-fold vs α1D), used for LUTS (lower urinary tract symptoms) due to BPH (benign prostatic hyperplasia).
-- α1A receptors are in the prostate, bladder neck, vas and seminal vesicles; α1B in vessels; α1D in bladder and spinal cord.
 - Sparing α1B gives **minimal hypotension**. Blocking α1A in the vas and seminal vesicles causes **failure of emission**.
 - Onset: flow improves within 2–6 hours, symptoms within 3–4 days. Metabolised by CYP3A4.
 
@@ -282,14 +275,13 @@ Sepsis or obstruction on either side?
 | Caution | Other α-blockers, PDE5 (phosphodiesterase 5) inhibitors, planned cataract surgery |
 
 ### Efficacy
-- Registration trials: better than placebo for IPSS (International Prostate Symptom Score) and flow; also effective in severe LUTS.
-- **Non-inferior to tamsulosin 0.4 mg**, not better (European trial, 2011).
+- Better than placebo for IPSS (International Prostate Symptom Score) and flow, including severe LUTS. **Non-inferior to tamsulosin 0.4 mg**, not better (European trial, 2011).
 - **Greatest fall in BOOI (bladder outlet obstruction index)** of all α1-blockers.
 - Does not shrink the prostate; add a 5-ARI (5α-reductase inhibitor) for large glands.
 
 ### Adverse effects
 - **Anejaculation:** over a quarter of men in trials (about 14% vs 2% with tamsulosin head-to-head), yet few stop. Men with anejaculation had better responses.
-- No excess hypotension in the elderly or with antihypertensives; no QT prolongation. Falls and fractures rise in men ≥66 on any α-blocker.
+- No excess hypotension in the elderly or with antihypertensives; no QT prolongation.
 - **IFIS (intraoperative floppy iris syndrome):** not specifically studied but reported; warn before cataract surgery.
 
 ### Other uses
@@ -316,19 +308,19 @@ Sepsis or obstruction on either side?
 **Type:** SAQ (10 marks)
 
 ### Genetics
-- ADPKD (autosomal dominant polycystic kidney disease) is the commonest inherited cystic kidney disease (about 1 in 400–1000); 7–15% of patients on haemodialysis. About 10% have no family history.
+- ADPKD (autosomal dominant polycystic kidney disease): commonest inherited cystic kidney disease (about 1 in 400–1000); 7–15% of patients on haemodialysis.
 
 | Gene | Chromosome | Share | ESRD (end-stage renal disease) |
 |---|---|---|---|
 | **PKD1** (polycystin-1) | 16 | ~85% | 50s |
 | **PKD2** (polycystin-2) | 4 | ~15% | 70s |
 
-- Polycystins in the primary cilium restrain proliferation. PKD1 lies next to TSC2 (tuberous sclerosis).
+- Polycystins (primary cilium) restrain proliferation.
 
 ### Clinical features (30–50 years)
 - **Pain** (commonest): mass, cyst haemorrhage, infection, stones. **Haematuria** about 50%; **stones** 20–30%.
 - **Hypertension:** about 50% at 20–35 years with normal function; stretched vessels release renin.
-- **Renal failure:** proportional to kidney volume; worse with PKD1, male sex, early hypertension.
+- **Renal failure:** tracks kidney volume; worse with PKD1, male sex.
 - **Extrarenal:** liver cysts (commonest; up to 90% by 50); **intracranial aneurysm 10–30%**; seminal vesicle (40%), pancreatic, arachnoid cysts; mitral valve prolapse; diverticulosis.
 - RCC (renal cell carcinoma) is not commoner, but is more often bilateral and sarcomatoid.
 
@@ -338,15 +330,15 @@ Sepsis or obstruction on either side?
 | 15–29 | ≥2 cysts, one or both kidneys | ≥3 cysts in total (15–39) |
 | 30–59 | ≥2 cysts in each kidney | ≥2 in each kidney (40–59) |
 | ≥60 | ≥4 cysts in each kidney | ≥4 in each kidney |
-- A young PKD2 carrier can have a normal scan. CT or MRI shows extrarenal cysts and TKV (total kidney volume), which predicts progression. Genetic testing if equivocal or for a living donor.
+
+- CT or MRI shows TKV (total kidney volume), which predicts progression. Genetic testing if equivocal or for a living donor.
 
 ### Management
 - **BP <130/80 mmHg** with ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker); HALT-PKD: tighter control slowed TKV growth.
-- **Tolvaptan** (V2-receptor antagonist; lowers cyclic AMP): **TEMPO 3:4 (2012)** slowed TKV growth and function loss; **REPRISE (2017)** slowed eGFR (estimated glomerular filtration rate) decline in later disease. Causes polyuria and liver toxicity.
-- **Pain:** exclude infection, stone, tumour; avoid NSAIDs (non-steroidal anti-inflammatory drugs); cyst aspiration, then laparoscopic unroofing (pain only).
+- **Tolvaptan** (V2-receptor antagonist; lowers cyclic adenosine monophosphate): **TEMPO 3:4 (2012)** slowed TKV growth and function loss; **REPRISE (2017)** slowed eGFR (estimated glomerular filtration rate) decline in later disease. Causes polyuria and liver toxicity.
+- **Pain:** exclude infection, stone, tumour; avoid NSAIDs (non-steroidal anti-inflammatory drugs); aspiration, then laparoscopic unroofing.
 - **Infected cyst:** lipid-soluble antibiotics (trimethoprim–sulfamethoxazole, fluoroquinolones); drain if no response.
-- **Haemorrhage:** usually settles with rest and fluids.
-- **Aneurysm screening** (MR angiography) if family history of aneurysm or bleed.
+- **Haemorrhage:** usually settles with rest. **Aneurysm screening** (MR angiography) if family history.
 - **ESRD:** dialysis or transplant (no recurrence). **Native nephrectomy** before or at transplant for recurrent infection, bleeding, pain, suspected tumour or no room for the graft.
 
 **Diagram to draw:** large cystic kidneys, liver cysts and berry aneurysm.
@@ -362,7 +354,7 @@ Sepsis or obstruction on either side?
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- RIRS (retrograde intrarenal surgery) is flexible ureterorenoscopy (fURS) used to treat disease inside the kidney through the natural route. Active deflection, a working channel and the holmium laser made it practical.
+- RIRS (retrograde intrarenal surgery) is flexible ureterorenoscopy (fURS) inside the kidney through the natural route; active deflection and the holmium laser made it practical.
 
 ### Instrument
 | Feature | Details |
@@ -374,7 +366,7 @@ Sepsis or obstruction on either side?
 
 ### Indications
 - **Stones:** renal stones <2 cm; lower pole <1 cm (or >1 cm as an alternative to PCNL [percutaneous nephrolithotomy]); patients who cannot stop anticoagulants; failed SWL (shock wave lithotripsy); obesity; staged treatment of larger stones.
-- **Others:** diagnosis and laser ablation of low-grade UTUC (upper tract urothelial carcinoma); filling defects, positive cytology; endopyelotomy; calyceal diverticulum; essential haematuria; foreign bodies.
+- **Others:** diagnosis and ablation of low-grade UTUC (upper tract urothelial carcinoma); filling defects; endopyelotomy; calyceal diverticulum; essential haematuria.
 
 ### Technique
 1. Sterile urine; single-dose antibiotic.
@@ -403,7 +395,7 @@ Sepsis or obstruction on either side?
 **Type:** SAQ (10 marks)
 
 ### Principle
-- A radiotracer, given in a tiny dose, follows a physiological process. A **gamma camera** (sodium iodide crystal, photomultiplier tubes, collimator) images the emitted photons. SPECT (single-photon emission computed tomography) gives 3D images; PET (positron emission tomography) is used for cancer.
+- A radiotracer follows a physiological process; a **gamma camera** (sodium iodide crystal, photomultipliers, collimator) images the photons. SPECT (single-photon emission computed tomography) gives 3D images.
 - **⁹⁹ᵐTc (technetium-99m):** 6-hour half-life, single 140 keV photon, so it is the workhorse.
 
 ### Renal tracers
@@ -424,16 +416,16 @@ Sepsis or obstruction on either side?
 | <10 min | Not obstructed |
 | 10–20 min | Indeterminate |
 | >20 min | Obstructed |
+
 - **Curve types (O'Reilly):** I normal; II obstructed (rising); IIIa dilated, not obstructed (falls after furosemide); IIIb equivocal.
-- **Pitfalls:** poor function, dehydration, full bladder, a very capacious pelvis.
+- **Pitfalls:** poor function, dehydration, full bladder, capacious pelvis.
 
 ### Other uses
 - **Captopril renography (DTPA):** captopril removes angiotensin II support of GFR in the stenotic kidney. Improvement of ≥10% off ACE (angiotensin-converting enzyme) inhibitors means renovascular hypertension is likely.
 - **Transplant:** acute rejection (perfusion falls, worsens) versus delayed graft function (perfusion kept, improves); urine leak.
 - **DMSA:** acute pyelonephritis defects resolve; scars persist at about 6 months.
 - **Nuclear cystography** for follow-up of reflux (more sensitive, lower radiation than VCUG [voiding cystourethrogram]).
-- **Also know:** bone scan (MDP, methylene diphosphonate); labelled leucocyte scans for infection; PSMA (prostate-specific membrane antigen) PET in prostate cancer.
-- **Radiation:** low dose (ALARA, as low as reasonably achievable).
+- **Also know:** bone scan (MDP, methylene diphosphonate); labelled leucocyte scans; PSMA (prostate-specific membrane antigen) PET (positron emission tomography). Radiation dose is low.
 
 **Diagram to draw:** renogram curves: normal, obstructed (rising) and dilated non-obstructed (falls after furosemide).
 
