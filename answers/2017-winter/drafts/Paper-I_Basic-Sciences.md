@@ -23,6 +23,7 @@
 - **Distribution:** upper pole usually 3 calyces, interpolar 3–4, lower pole 2–3.
 - **Drainage pattern:** upper pole by a single midline infundibulum; lower pole by a single midline infundibulum or paired calyces; hilar region by **anterior and posterior rows** of paired calyces.
 - **Orientation:** the kidney lies on psoas, rotated 30–50° behind the coronal plane, so posterior calyces point posterolaterally (towards the prone surgeon). On a pyelogram anterior and posterior calyces overlap.
+- **Brödel vs Hodson pattern (Kaye and Reinke):** in a Brödel-type kidney the posterior calyces lie lateral and the anterior calyces medial; in a Hodson-type kidney the reverse. Brödel type is commoner on the right, Hodson type on the left, so confirm calyx orientation with contrast/air or ultrasound before puncture.
 
 ### Renal pelvis
 - Pyramidal, apex to the ureter; capacity 3–10 mL. **Intrarenal** (in the sinus), **extrarenal** (larger, longer infundibula, mimics dilatation) or mixed.
@@ -130,21 +131,21 @@
 ### Evaluation
 ```
 Azoospermia (2 centrifuged samples)
- ├─ Vasa absent → CBAVD → CFTR testing (both partners), renal US
- ├─ Volume <1 mL → post-ejaculate urine: sperm = retrograde; none → TRUS for EDO
+ ├─ Vasa absent → CBAVD → CFTR (cystic fibrosis gene) testing, both partners; renal scan
+ ├─ Volume <1 mL → post-ejaculate urine: sperm = retrograde; none → TRUS (transrectal ultrasound) for EDO
  └─ Normal volume: FSH ≤7.6 IU/L + testis long axis >4.6 cm → obstructive
                    FSH >7.6 + testis ≤4.6 cm → spermatogenic failure
 ```
 - History (testosterone use, surgery, chemotherapy), examination (testes, vasa, epididymis, varicocele), hormones (FSH, LH, testosterone, prolactin).
 - **Genetics (AUA/ASRM (American Urological Association/American Society for Reproductive Medicine)):** karyotype and **Y microdeletion** for NOA. AZF (azoospermia factor) **a or b complete deletion: no sperm, do not operate**; AZFc: sperm often found.
-- TRUS (transrectal ultrasound): seminal vesicle >1.5 cm wide or midline cyst suggests EDO.
+- TRUS: seminal vesicle >1.5 cm wide or midline cyst suggests EDO.
 
 ### Management
 **1. Pre-testicular (hypogonadotropic)**
 - Stop exogenous testosterone. **hCG (human chorionic gonadotropin) 1500–5000 IU 2–3 times weekly ± FSH**; pulsatile GnRH in hypothalamic failure; dopamine agonist for prolactinoma.
 
 **2. Obstructive**
-- Microsurgical **vasovasostomy** or **vasoepididymostomy** (clear watery vasal fluid → vasovasostomy; no sperm → vasoepididymostomy).
+- Microsurgical **vasovasostomy** or **vasoepididymostomy** (clear watery fluid or sperm parts in vasal fluid → vasovasostomy; thick toothpaste-like fluid without sperm → vasoepididymostomy).
 - **TURED (transurethral resection of the ejaculatory ducts)** for EDO.
 - CBAVD or unreconstructable: **MESA (microsurgical epididymal sperm aspiration)** or PESA (percutaneous epididymal sperm aspiration) + **ICSI (intracytoplasmic sperm injection)**; freeze sperm at reconstruction.
 
@@ -176,11 +177,11 @@ Azoospermia (2 centrifuged samples)
 - **PD (Peyronie's disease)** (AUA (American Urological Association) 2015): acquired fibrosis of the tunica albuginea, with pain, deformity, ED (erectile dysfunction) and/or distress. Prevalence 3–20%; up to half worsen untreated.
 
 ### Phases
-- **Acute (active):** pain, changing curvature (usually 12–18 months). **Stable (chronic):** pain gone, deformity unchanged for ≥3–6 months.
+- **Acute (active, first 12–18 months):** pain, worsening deformity; aim to stop progression. **Stable:** pain gone, deformity unchanged for ≥3–6 months; aim to straighten.
 
 ### Evaluation
 - History: pain, deformity, Dupuytren disease, ability to penetrate. **Key question:** "If your penis were straight, would your current rigidity allow intercourse?" (predicts postoperative function).
-- Plaque, SPL (stretched penile length); **in-office intracavernosal injection ± duplex Doppler ultrasound** before any invasive treatment (curvature by goniometer, calcification, vascular status).
+- Plaque, SPL (stretched penile length); **office intracavernosal injection ± duplex Doppler ultrasound** before any invasive treatment (curvature by goniometer, calcification, vascular status).
 - **Kelami grading:** ≤30° mild, 31–60° moderate, >60° severe; note hourglass or hinge. PDQ (Peyronie's Disease Questionnaire).
 
 ### Non-surgical treatment
@@ -197,17 +198,17 @@ Azoospermia (2 centrifuged samples)
 - **Indications:** stable disease (≥12 months, stable ≥6 months), deformity preventing intercourse, failed conservative therapy.
 
 ```
-Erection adequate (± PDE5I)?
+Erection adequate (± PDE5I (phosphodiesterase-5 inhibitor))?
  ├─ No  → penile prosthesis (inflatable) + manual modelling;
  │        residual >30° → tunical incision; graft if defect >2 cm
- └─ Yes → curve <60–70°, no hourglass/hinge → plication (Nesbit, 16-dot, TAP)
+ └─ Yes → curve <60–70°, no hourglass/hinge → plication (Nesbit, 16-dot, tunica albuginea plication)
           curve >60–70°, hourglass, hinge, short penis → plaque incision/partial
-          excision + graft (pericardium, SIS)
+          excision + graft (pericardium, small intestinal submucosa)
 ```
 - **Plication** shortens the convex side: simple, low ED risk, but loses length.
 - **Grafting** restores length and girth but carries higher ED risk (5–54%).
 
-**Diagram to draw:** algorithm above with Nesbit wedge opposite the plaque.
+**Diagram to draw:** Nesbit wedge excised opposite the plaque.
 
 > **Key points to remember:**
 > - Ask the "straight penis" question; duplex before surgery.
@@ -234,7 +235,7 @@ Erection adequate (± PDE5I)?
 | Presumed source | Empirical therapy |
 |---|---|
 | Haematogenous (Gram-positive) | Penicillinase-resistant penicillin; vancomycin if allergic or MRSA (methicillin-resistant *S. aureus*) |
-| Ascending (Gram-negative) | IV third-generation cephalosporin, antipseudomonal penicillin or aminoglycoside |
+| Ascending (Gram-negative) | IV (intravenous) third-generation cephalosporin, antipseudomonal penicillin or aminoglycoside |
 - Switch to oral once afebrile; continue until clinical and imaging resolution.
 
 **2. Size-based drainage**
@@ -278,7 +279,7 @@ Erection adequate (± PDE5I)?
 - **Risk factors:** duration (most important), female sex, older age, diabetes, breaks in the closed system, no systemic antibiotics.
 
 ### Pathogenesis
-- Entry at insertion, then **extraluminal** (periurethral, along the outer surface; commoner in women) or **intraluminal** (from the drainage bag; cross-infection).
+- Entry at insertion, then **extraluminal** (along the outer surface; commoner in women) or **intraluminal** (from the drainage bag).
 - **Biofilm:** bacteria in a matrix on the catheter surface, formed within minutes; it shields them from antibiotics. Urease-producers (*Proteus*) cause encrustation.
 - Organisms: *E. coli*, *Pseudomonas*, *Proteus*, *Enterococcus*; long-term catheters polymicrobial.
 
@@ -289,7 +290,7 @@ Erection adequate (± PDE5I)?
 ### Prevention (bundle)
 - **Avoid unnecessary catheters;** review daily, remove early. Aseptic insertion.
 - **Closed, dependent drainage**; bag below bladder; no routine irrigation.
-- Meatal cleaning with water only; no routine antibiotics (they only delay bacteriuria by 3–4 days and select resistance).
+- Meatal cleaning with water; no prophylactic antibiotics (delay bacteriuria only 3–4 days, select resistance).
 - Alternatives: **clean intermittent catheterisation**, condom or suprapubic catheter.
 - Silver-alloy catheters reduce bacteriuria in short-term use; no proven fall in symptomatic CAUTI.
 - Do not treat asymptomatic bacteriuria (except pregnancy, before urological surgery).
@@ -323,7 +324,7 @@ Erection adequate (± PDE5I)?
 ### Risk factors
 - **Patient:** CKD (chronic kidney disease, strongest), diabetes, age, dehydration, heart failure, anaemia, NSAIDs (non-steroidal anti-inflammatory drugs).
 - **Procedure:** high volume, repeated doses within 48–72 hours, intra-arterial route, high-osmolar agents.
-- **eGFR (estimated glomerular filtration rate) thresholds:** real risk mainly at **eGFR <30 mL/min/1.73 m²** (IV contrast); ESUR (European Society of Urogenital Radiology) uses **<45** for intra-arterial first-pass exposure.
+- **eGFR (estimated glomerular filtration rate) thresholds:** real risk mainly at **eGFR <30 mL/min/1.73 m²** (IV (intravenous) contrast); ESUR (European Society of Urogenital Radiology) uses **<45** for intra-arterial first-pass exposure.
 - Older uncontrolled studies overstated the risk; ACR: rare but real.
 
 ### Prevention
@@ -361,7 +362,7 @@ Erection adequate (± PDE5I)?
 | Transition | 5–10% (BPH (benign prostatic hyperplasia)) | Heterogeneous, anterior | ~20–25% |
 | Anterior fibromuscular stroma | Non-glandular | Hypoechoic | – |
 
-- Zones themselves are not visible; TRUS separates the echogenic posterior PZ (peripheral zone) from the heterogeneous TZ (transition zone). **Corpora amylacea** mark the surgical capsule.
+- Zones are not seen as such; TRUS separates echogenic posterior PZ (peripheral zone) from heterogeneous TZ (transition zone). **Corpora amylacea** mark the surgical capsule.
 - Seminal vesicles 4.5–5.5 × 2 cm; absent seminal vesicle → ipsilateral renal agenesis in 79%.
 
 ### Measurements
@@ -371,7 +372,7 @@ Erection adequate (± PDE5I)?
 ### Findings
 - **Cancer:** classically a hypoechoic PZ lesion, but **39% are isoechoic**; false positives: BPH nodules, prostatitis, infarct.
 - **Cysts:** Müllerian (midline), ejaculatory duct cyst (just off midline), seminal vesicle cyst (lateral, renal agenesis).
-- Abscess, calculi, extraprostatic extension (loss of bright fat plane).
+- Abscess, calculi, extraprostatic extension.
 - After ADT (androgen deprivation therapy) or radiotherapy the gland shrinks and becomes hypoechoic.
 
 ### Indications
@@ -381,12 +382,12 @@ Erection adequate (± PDE5I)?
 - Drainage of prostatic abscess or cysts.
 
 ### Biopsy notes
-- Periprostatic lidocaine block. Complications: haematuria, haematospermia, rectal bleeding, **sepsis** (fluoroquinolone-resistant *E. coli*). Transperineal route lowers infection.
+- Periprostatic block. Complications: bleeding, **sepsis** (fluoroquinolone-resistant *E. coli*); transperineal route lowers infection.
 
 ### Advances
 - Colour/power Doppler, contrast-enhanced TRUS, **elastography**, multiparametric ultrasound.
 - **Micro-ultrasound (29 MHz;** 70 µm resolution) with PRI-MUS scoring, comparable to MRI.
-- MRI-first pathway: PROMIS (2017) mpMRI sensitivity 93% vs 48% for TRUS biopsy.
+- MRI-first pathway: PROMIS (2017) mpMRI (multiparametric MRI) sensitivity 93% vs 48% for TRUS biopsy.
 
 **Diagram to draw:** transverse and sagittal TRUS views labelling PZ, TZ, seminal vesicles and urethra.
 
@@ -403,21 +404,21 @@ Erection adequate (± PDE5I)?
 ### Definition
 - **Proto-oncogene:** a normal gene that promotes cell growth and division (an "accelerator").
 - **Oncogene:** its mutated or overactive form that drives uncontrolled proliferation. Change is **gain of function** and **dominant**: one altered allele is enough.
-- First found as viral oncogenes (v-src in Rous sarcoma virus); the first human oncogene, **HRAS**, was isolated from the **T24 bladder cancer** cell line.
+- The first human oncogene, **HRAS**, was isolated from the **T24 bladder cancer** cell line.
 
 ### Mechanisms of activation
 | Mechanism | Effect | Example |
 |---|---|---|
-| **Point (activating) mutation** | Constitutively active protein | RAS (bladder), FGFR3 (low-grade papillary bladder), MET germline (hereditary papillary RCC (renal cell carcinoma)) |
-| **Gene amplification** | Increased copy number → overexpression | MYC (prostate, bladder), HER2 (ERBB2), AR (androgen receptor) in castration-resistant prostate cancer |
+| **Point (activating) mutation** | Constitutively active protein | RAS (bladder), FGFR3 (fibroblast growth factor receptor 3; low-grade papillary bladder), MET germline (hereditary papillary RCC (renal cell carcinoma)) |
+| **Gene amplification** | Increased copy number → overexpression | MYC (prostate, bladder), HER2 (human epidermal growth factor receptor 2), AR (androgen receptor) in castration-resistant prostate cancer |
 | **Chromosomal translocation/fusion** | Gene placed under a strong promoter, or fusion protein | **TMPRSS2–ERG** (androgen-driven ERG in about half of prostate cancers); BCR–ABL; TFE3 fusions (translocation RCC) |
 
 ### Functional classes
 | Class | Example |
 |---|---|
 | Growth factors | PDGF (platelet-derived growth factor), sis |
-| **Receptor tyrosine kinases** | EGFR/HER2, FGFR3, MET, KIT (seminoma) |
-| **Signal transducers** | **RAS** (GTP-binding; locked "on"), BRAF, PI3K |
+| **Receptor tyrosine kinases** | EGFR (epidermal growth factor receptor), HER2, FGFR3, MET, KIT (seminoma) |
+| **Signal transducers** | **RAS** (binds GTP (guanosine triphosphate); mutation locks it "on"), BRAF, PI3K |
 | **Transcription factors** | **MYC**, ERG, ETS family |
 | Cell cycle / apoptosis regulators | Cyclin D1, BCL-2 |
 
@@ -432,11 +433,11 @@ Erection adequate (± PDE5I)?
 ### Urological significance
 - **Bladder:** FGFR3 mutations in up to 80% of low-grade Ta tumours (10–20% of MIBC (muscle-invasive bladder cancer)); RAS mutually exclusive with FGFR3; HER2 in 9–12% of MIBC.
 - **Kidney:** MET activation in papillary RCC.
-- **Prostate:** TMPRSS2–ERG fusion, MYC (8q gain), AR amplification in CRPC (castration-resistant prostate cancer).
+- **Prostate:** TMPRSS2–ERG fusion, MYC (8q gain), AR amplification after hormone therapy.
 - **Testis:** KIT and KRAS mutations (seminoma).
 
 ### Targeted therapy (oncogene addiction)
-- Erdafitinib (pan-FGFR inhibitor) for FGFR-altered advanced urothelial cancer; MET-active TKIs (tyrosine kinase inhibitors) in papillary RCC; AR-targeted drugs in prostate cancer; HER2-directed antibody–drug conjugates under study.
+- Erdafitinib (pan-FGFR inhibitor) for FGFR-altered advanced urothelial cancer; MET-active TKIs (tyrosine kinase inhibitors) in papillary RCC; AR-targeted drugs in prostate cancer; HER2-directed drugs (trastuzumab deruxtecan received a tumour-agnostic FDA approval in 2024 for HER2-positive solid tumours; disitamab vedotin is under study in urothelial cancer).
 
 **Diagram to draw:** growth factor → receptor → RAS → RAF → MEK → ERK → MYC pathway.
 

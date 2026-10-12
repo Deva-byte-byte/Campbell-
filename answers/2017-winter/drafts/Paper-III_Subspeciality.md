@@ -176,8 +176,8 @@ Deglove + excise dysplastic dartos + artificial erection
 **Type:** SAQ (10 marks)
 
 ### Definition and mechanism
-- **SNM (sacral neuromodulation)**, Tanagho and Schmidt (about 1985): continuous low-amplitude stimulation of the **S3 root** through a tined quadripolar lead and an IPG (implantable pulse generator).
-- It acts on **afferents**, not motor nerves. Afferent input reaches the forebrain and pons. In OAB (overactive bladder) it damps PMC (pontine micturition centre) firing; in retention it restores filling awareness, so the PMC switches on and the sphincter relaxes. Hence it treats **both**.
+- **SNM (sacral neuromodulation)** (Tanagho and Schmidt): continuous low-amplitude **S3** stimulation through a tined lead and IPG (implantable pulse generator).
+- It acts on **afferents** to the forebrain, not motor nerves. In OAB (overactive bladder) it damps PMC (pontine micturition centre) firing; in retention it restores filling awareness, so the PMC switches on and the sphincter relaxes. Hence it treats **both**.
 
 ### Indications (third line, AUA and EAU (European Association of Urology))
 | FDA (Food and Drug Administration) approved | Not approved |
@@ -185,7 +185,7 @@ Deglove + excise dysplastic dartos + artificial erection
 | Refractory UUI (urgency urinary incontinence) 1997 | Bladder pain syndrome |
 | Urgency–frequency, **non-obstructive retention** 1999 | Neurogenic bladder (small studies positive) |
 | Faecal incontinence | Pelvic pain |
-- **Fowler's syndrome** (young women in retention) predicts good response (about 70%).
+- **Fowler's syndrome** (young women in retention) responds well.
 
 ### Technique
 | Test | PNE (percutaneous nerve evaluation) | Staged implant |
@@ -200,7 +200,7 @@ Deglove + excise dysplastic dartos + artificial erection
 | S2 | — | Calf and foot rotation |
 | **S3** | **Bellows**, perineal sensation | **Great-toe flexion** |
 | S4 | Bellows only | None |
-- **Implant if ≥50% improvement** in a diary parameter (retention: ≥50% fewer catheterisations). IPG in the upper buttock; 210 μs, 10–16 Hz, sensory threshold.
+- **Implant if ≥50% improvement** in a diary parameter (retention: ≥50% fewer catheterisations); IPG in the buttock; 10–16 Hz at sensory threshold.
 
 ### Outcomes
 - **InSite**: success 61% vs 42% with standard medical therapy at 6 months; about 70–80% success at 5 years.
@@ -208,10 +208,10 @@ Deglove + excise dysplastic dartos + artificial erection
 
 ### Complications and contraindications
 - Pain at IPG site, lead migration, loss of efficacy, infection; **revision over 30% at 5 years**; costly; battery replacement.
-- Contraindications: failed test, inability to use the programmer, sacral anomaly, pregnancy (avoid stimulation).
+- Contraindications: failed test, inability to use the programmer, sacral anomaly.
 
 ### Recent advances
-- Rechargeable IPGs (≥15 years), long-life non-rechargeable devices, **full-body MRI (magnetic resonance imaging)-conditional** systems (1.5 and 3 T); bilateral stimulation no better; PTNS (percutaneous tibial nerve stimulation) and implantable tibial devices as alternatives.
+- Rechargeable IPGs (≥15 years); **full-body MRI (magnetic resonance imaging)-conditional** systems; bilateral stimulation no better; PTNS (percutaneous tibial nerve stimulation) as alternative.
 
 **Diagram to draw:** lead in S3 foramen with IPG in the buttock.
 
@@ -226,34 +226,33 @@ Deglove + excise dysplastic dartos + artificial erection
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Neurotoxin of *Clostridium botulinum*; serotypes A–G. Urology uses **onabotulinumtoxinA (BoNT-A)**; type B is short-acting. Units are product-specific, not interchangeable.
-- 150 kDa: heavy chain (100 kDa) plus zinc-dependent light chain (50 kDa), linked by a disulfide bond.
+- *Clostridium botulinum* neurotoxin, serotypes A–G. Urology uses **onabotulinumtoxinA (BoNT-A)**; type B is short-acting.
+- 150 kDa: heavy chain (100 kDa) plus zinc-dependent light chain (50 kDa).
 
 ### Mechanism
-1. Heavy chain binds the cholinergic nerve terminal; toxin is internalised.
-2. Light chain enters the cytosol and **cleaves SNAP-25 (synaptosomal-associated protein 25)**, a SNARE protein, so vesicles cannot fuse and **acetylcholine release stops**.
+1. Heavy chain binds the cholinergic terminal; toxin is internalised.
+2. Light chain **cleaves SNAP-25 (synaptosomal-associated protein 25)**, a SNARE protein, so vesicles cannot fuse and **acetylcholine release stops**.
 - **Afferent action**: less ATP (adenosine triphosphate), substance P and CGRP (calcitonin gene-related peptide) release; fewer TRPV1 and P2X3 receptors, so urgency falls.
-- Effect wanes as terminals sprout (about 6–9 months).
+- Effect wanes as terminals sprout (6–9 months).
 
 ### Technique
-- Cystoscopy (flexible under local, or rigid); diluted toxin into detrusor at **20 sites (100 U) or 30 sites (200 U)**, usually trigone-sparing. Sterile urine, antibiotic cover; PVR (post-void residual) at 2 weeks.
+- Cystoscopic injection into detrusor at **20 sites (100 U) or 30 sites (200 U)**, usually sparing trigone; sterile urine, antibiotic cover; PVR (post-void residual) at 2 weeks.
 
 ### Urological uses
 | Indication | Dose and evidence |
 |---|---|
 | **Idiopathic OAB (overactive bladder)**, third line | **100 U** (EMBARK): incontinence −59%, about 25% dry. **ABC**: equal to antimuscarinic, more complete dryness. **ROSETTA**: 200 U ≥ SNM (sacral neuromodulation), more UTI (urinary tract infection) |
 | **NDO (neurogenic detrusor overactivity)**: SCI (spinal cord injury), MS (multiple sclerosis) | **200 U** (DIGNITY): lower detrusor pressure, larger capacity |
-| **Paediatric NDO** (spina bifida) | About **10 U/kg (maximum 360 U)**, about 30 sites; continence 65–87%; most avoid augmentation |
+| **Paediatric NDO** (spina bifida) | About **10 U/kg (maximum 360 U)**; continence 65–87%, most avoid augmentation |
 | **DSD (detrusor–sphincter dyssynergia)**, underactive detrusor | Intrasphincteric 50–100 U; men unable to do CISC (clean intermittent self-catheterisation) |
 | **IC/BPS (interstitial cystitis/bladder pain syndrome)** | 100 U, often trigonal; AUA option, off-label |
 | **BPH (benign prostatic hyperplasia)** | Intraprostatic: early small trial positive, but larger placebo-controlled RCTs (randomised controlled trials) showed **no benefit over placebo**; not recommended |
-- **Also know:** dysfunctional voiding in children (sphincter); pelvic floor spasm; trial use in ED (erectile dysfunction).
+- **Also know:** paediatric dysfunctional voiding (sphincter); pelvic floor spasm; ED (erectile dysfunction) trials.
 
 ### Complications
 - **Retention needing CISC**: 0–12% in OAB trials; real-world about 20% women, up to 35% men; higher in NDO. Each 10 mL rise in baseline PVR raises risk about 27%. **Patient must accept CISC beforehand.**
 - **UTI** about 20%; haematuria; rarely generalised weakness.
-- Contraindications: active UTI, myasthenia gravis, Lambert–Eaton syndrome, pregnancy.
-- Repeat injections remain effective; no tachyphylaxis in most.
+- Contraindications: active UTI, myasthenia gravis, pregnancy. Repeat injections stay effective.
 
 **Diagram to draw:** cholinergic synapse showing SNAP-25 cleavage.
 
@@ -284,8 +283,7 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 - Metabolised by **CYP3A4/3A5**; effluxed by **P-gp (P-glycoprotein)**. CYP3A5 expressers need higher doses.
 
 ### Formulations
-- Immediate-release (twice daily); prolonged-release (Advagraf, once daily); LCP-tacrolimus (Envarsus, once daily, higher bioavailability, lower dose); intravenous; topical ointment.
-- Once-daily forms improve adherence.
+- Immediate-release (twice daily); prolonged-release (Advagraf, once daily); LCP-tacrolimus (Envarsus, once daily, higher bioavailability); intravenous; topical. Once-daily forms aid adherence.
 
 ### Dosing and monitoring
 - Started about 0.1–0.2 mg/kg/day in two doses, then adjusted to trough. Targets vary by centre and risk; **ELITE-Symphony low-dose arm: 3–7 ng/mL**.
@@ -326,18 +324,17 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 **Type:** SAQ (10 marks)
 
 ### Definition
-- The **right ureter** passes **behind the IVC (inferior vena cava)**, winds medially around it, crosses in front from medial to lateral, then runs normally to the bladder.
-- Campbell prefers "**preureteral vena cava**": the anomaly is venous; the ureter is merely trapped. Also called circumcaval ureter.
+- The **right ureter** passes **behind the IVC (inferior vena cava)**, then crosses in front of it from medial to lateral to resume a normal course.
+- Better termed "**preureteral vena cava**": the anomaly is venous; the ureter is trapped.
 
 ### Embryology
-- The infrarenal IVC develops from paired fetal veins forming a collar around each ascending kidney: **posterior cardinal and supracardinal (dorsal)** and **subcardinal (ventral)**.
-- Normally the right **supracardinal** vein, dorsal to the ureter, forms the infrarenal IVC, so the ureter lies in front of it.
-- If a **ventral vein persists** as the IVC (lumbar subcardinal in Campbell; "persistent posterior cardinal vein" in many texts), the ureter is trapped behind the cava.
-- Variants: double right IVC (ureter between limbs); bilateral cases in situs inversus.
+- Fetal veins form a collar around each ascending kidney: **posterior cardinal and supracardinal (dorsal)**, **subcardinal (ventral)**.
+- Normally the right **supracardinal** vein, dorsal to the ureter, forms the infrarenal IVC, so the ureter lies in front.
+- If a **ventral vein persists** as the IVC (lumbar subcardinal in Campbell; "persistent posterior cardinal vein" in many texts), the ureter is trapped behind it.
+- Variant: double right IVC (ureter between limbs).
 
-### Incidence
-- About **1 in 1500** autopsies (0.07%); **3:1 male**; presents in the **third–fourth decade** despite being congenital.
-- Associations: horseshoe kidney, left renal anomalies.
+### Incidence and presentation
+- About **1 in 1500** autopsies; **male 3:1**; presents in the **third–fourth decade** with right flank pain, UTI (urinary tract infection), stones or incidental hydronephrosis. Associations: horseshoe kidney, left renal anomalies.
 
 ### Classification (Bateson & Atkinson)
 | | **Type I (low loop), commoner** | **Type II (high loop)** |
@@ -346,22 +343,16 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 | Shape | **"Fishhook" / reverse-J**, S-curve | Smooth horizontal **sickle** curve |
 | Obstruction | Moderate–severe, at iliopsoas edge | Mild or none (pelvis also crosses) |
 
-### Clinical features
-- Right flank pain, UTI (urinary tract infection), stones, haematuria, or incidental hydronephrosis.
-
 ### Investigations
-- **CT urography (computed tomography urography): investigation of choice**, shows ureter and cava together.
-- IVU (intravenous urography): fishhook, no ureter seen beyond the J hook. Retrograde pyelography: **S-curve** with retrocaval segment at L3–L4. MRI as alternative.
-- **Diuretic renogram (MAG3)**: grades obstruction and split function.
-- Pitfall: misdiagnosed as **PUJ (pelviureteric junction) obstruction**; a pyeloplasty then fails.
+- **CT urography (computed tomography urography): investigation of choice**, showing ureter and cava together; MRI (magnetic resonance imaging) alternative.
+- IVU (intravenous urography): fishhook, ureter lost beyond the J hook. Retrograde: **S-curve** at L3–L4. **Diuretic renogram**: obstruction, split function.
+- Pitfall: mistaken for **PUJ (pelviureteric junction) obstruction**; pyeloplasty fails.
 
 ### Management
-- **Asymptomatic, non-obstructed (often type II): observe.**
-- **Obstructed:** **dismembered ureteroureterostomy** (or ureteropyelostomy): divide the ureter, bring it anterior to the IVC, re-anastomose spatulated and tension-free over a **DJ stent**.
-- Excise or bypass the **aperistaltic retrocaval segment**; preserve ureteric blood supply.
-- Approaches: open, **laparoscopic or robotic** (transperitoneal or retroperitoneal, adults and children): less pain, shorter stay, same success. Division of the IVC is historical.
-- Poor function: nephrectomy.
-- **Also know:** retroiliac ureter (L5–S1, either side, vasal anomalies); mimics: spermatic or lumbar vein, anomalous psoas tendon.
+- **Non-obstructed (often type II): observe.**
+- **Obstructed:** **dismembered ureteroureterostomy** (or ureteropyelostomy): divide the ureter, transpose it anterior to the IVC, spatulated tension-free anastomosis over a **double-J stent**. Excise or bypass the **aperistaltic retrocaval segment**; preserve blood supply.
+- **Laparoscopic or robotic** (transperitoneal or retroperitoneal) now preferred: equal success, faster recovery. Nephrectomy if non-functioning.
+- **Also know:** retroiliac ureter (L5–S1, vasal anomalies); mimics: spermatic or lumbar vein, psoas tendon.
 
 **Diagram to draw:** right ureter hooking behind the IVC with fishhook pelvis.
 
@@ -376,7 +367,7 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 **Type:** SAQ (10 marks)
 
 ### Definition and principle
-- Transurethral incision through stricture scar into healthy tissue, under vision, so the lumen heals enlarged (Sachse cold-knife urethrotome).
+- Incision of stricture scar into healthy tissue under vision (Sachse cold-knife urethrotome), so the lumen heals enlarged.
 - Healing is by **secondary intention**: a **race between epithelialisation and wound contraction**. If contraction wins, the stricture recurs. Deep spongiofibrosis cannot be cured endoscopically.
 
 ### Indications (favourable)
@@ -388,17 +379,16 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 | **First procedure** | Repeat; luminal narrowing >74% |
 
 ### Technique
-1. Urethrogram (RUG (retrograde urethrogram) + VCUG (voiding cystourethrogram)) to define length and site.
-2. Saline irrigation; **guidewire** passed through the stricture.
+1. RUG (retrograde urethrogram) and VCUG (voiding cystourethrogram) define length and site.
+2. Saline irrigation; **guidewire** through the stricture.
 3. **Cold-knife incision traditionally at 12 o'clock** through scar to healthy spongiosum. Campbell notes the spongiosum is thinnest from 10 to 2 o'clock; deep cuts enter the corpora (ED (erectile dysfunction), fistula).
 4. Catheter **3–7 days**; longer catheterisation adds no benefit.
 - **Laser** (holmium, Nd:YAG, others): **no advantage over cold knife**.
 
 ### Outcomes
-- Short bulbar first-time strictures do best.
-- **Heyns/Steenkamp (Cape Town RCTs, late 1990s):** dilation = urethrotomy; a second urethrotomy helps few, a third helps none.
+- **Steenkamp 1997, Heyns 1998 (RCTs):** dilation = urethrotomy; a second urethrotomy helps few, a third none.
 - **Santucci & Eisenberg (2010):** about **8% stricture-free** long term after a first DVIU; repeat procedures almost always fail.
-- Repeated DVIU lengthens scar and lowers later urethroplasty success; urethroplasty is more **cost-effective** after one failure.
+- Repeat DVIU lengthens scar and lowers later urethroplasty success; urethroplasty is more **cost-effective** after one failure.
 
 ### Guideline position
 - **AUA (American Urological Association) 2016:** DVIU or dilation may be offered for **short (<2 cm) bulbar** strictures; offer **urethroplasty, not repeated endoscopy**, after failure; no permanent stents.
@@ -406,7 +396,7 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 
 ### Adjuncts after DVIU
 - **CISC (clean intermittent self-catheterisation)/self-dilation**, tapering over 3–6 months: delays recurrence, which returns when stopped.
-- Mitomycin C or steroid injection (limited data); UroLume stents withdrawn.
+- Mitomycin C, steroid injection (limited data); UroLume withdrawn.
 
 ### Complications
 - **Recurrence** (commonest); bleeding (often with erections); **irrigant extravasation**; UTI/sepsis; ED; spongio-cavernous fistula; incontinence if sphincter incised.
