@@ -420,7 +420,7 @@ Boy with empty scrotum
 **Type:** SAQ (10 marks)
 
 ### Background
-- Dilated pampiniform veins: about 15% of men, 35% with primary and up to 80% with secondary infertility; mostly left-sided (longer vein into the renal vein, valve failure).
+- Dilated pampiniform veins: about 15% of men, 35% with primary and up to 80% with secondary infertility; mostly left-sided (taller venous column to the left renal vein, valve failure).
 - Harm: **heat**, oxidative stress, **sperm DNA fragmentation**; progressive atrophy, lower testosterone.
 - **Grades:** subclinical (Doppler only), I (palpable with Valsalva), II (palpable), III (visible).
 
