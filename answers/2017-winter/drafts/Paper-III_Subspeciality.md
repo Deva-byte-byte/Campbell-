@@ -79,7 +79,7 @@ Deglove + excise dysplastic dartos + artificial erection
 - Complications **23–68%**; 25–75% need further surgery after planned staging.
 - **Fistula** commonest (repair ≥6 months later; exclude distal obstruction), glans dehiscence, meatal stenosis (<8 Fr before puberty), stricture, diverticulum (no spongiosum), **recurrent curvature >30°**, BXO (balanitis xerotica obliterans).
 - A long, rigid neourethra raises resistance (Poiseuille), causing fistula and diverticulum.
-- Follow through puberty; patient-reported outcomes (PPS (Penile Perception Score), HOPE score).
+- Follow through puberty; patient-reported outcomes (PPS (Penile Perception Score), HOPE (Hypospadias Objective Penile Evaluation) score).
 
 **Diagram to draw:** double-zipper urethral formation; curvature algorithm.
 
@@ -179,7 +179,7 @@ Deglove + excise dysplastic dartos + artificial erection
 - **SNM (sacral neuromodulation)** (Tanagho and Schmidt): continuous low-amplitude **S3** stimulation through a tined lead and IPG (implantable pulse generator).
 - It acts on **afferents** to the forebrain, not motor nerves. In OAB (overactive bladder) it damps PMC (pontine micturition centre) firing; in retention it restores filling awareness, so the PMC switches on and the sphincter relaxes. Hence it treats **both**.
 
-### Indications (third line, AUA and EAU (European Association of Urology))
+### Indications (third line, AUA (American Urological Association) and EAU (European Association of Urology))
 | FDA (Food and Drug Administration) approved | Not approved |
 |---|---|
 | Refractory UUI (urgency urinary incontinence) 1997 | Bladder pain syndrome |
@@ -231,8 +231,8 @@ Deglove + excise dysplastic dartos + artificial erection
 
 ### Mechanism
 1. Heavy chain binds the cholinergic terminal; toxin is internalised.
-2. Light chain **cleaves SNAP-25 (synaptosomal-associated protein 25)**, a SNARE protein, so vesicles cannot fuse and **acetylcholine release stops**.
-- **Afferent action**: less ATP (adenosine triphosphate), substance P and CGRP (calcitonin gene-related peptide) release; fewer TRPV1 and P2X3 receptors, so urgency falls.
+2. Light chain **cleaves SNAP-25 (synaptosomal-associated protein 25)**, a SNARE (vesicle-docking) protein, so vesicles cannot fuse and **acetylcholine release stops**.
+- **Afferent action**: less ATP (adenosine triphosphate), substance P and CGRP (calcitonin gene-related peptide) release; fewer TRPV1 (capsaicin) and P2X3 (purinergic) receptors, so urgency falls.
 - Effect wanes as terminals sprout (6–9 months).
 
 ### Technique
@@ -243,9 +243,9 @@ Deglove + excise dysplastic dartos + artificial erection
 |---|---|
 | **Idiopathic OAB (overactive bladder)**, third line | **100 U** (EMBARK): incontinence −59%, about 25% dry. **ABC**: equal to antimuscarinic, more complete dryness. **ROSETTA**: 200 U ≥ SNM (sacral neuromodulation), more UTI (urinary tract infection) |
 | **NDO (neurogenic detrusor overactivity)**: SCI (spinal cord injury), MS (multiple sclerosis) | **200 U** (DIGNITY): lower detrusor pressure, larger capacity |
-| **Paediatric NDO** (spina bifida) | About **10 U/kg (maximum 360 U)**; continence 65–87%, most avoid augmentation |
+| **Paediatric NDO** (spina bifida) | About **10 U/kg (maximum 360 U)** in Campbell series; FDA label (2021, age ≥5) is 6 U/kg, maximum 200 U; continence 65–87%, most avoid augmentation |
 | **DSD (detrusor–sphincter dyssynergia)**, underactive detrusor | Intrasphincteric 50–100 U; men unable to do CISC (clean intermittent self-catheterisation) |
-| **IC/BPS (interstitial cystitis/bladder pain syndrome)** | 100 U, often trigonal; AUA option, off-label |
+| **IC/BPS (interstitial cystitis/bladder pain syndrome)** | 100 U, often trigonal; AUA (American Urological Association) option, off-label |
 | **BPH (benign prostatic hyperplasia)** | Intraprostatic: early small trial positive, but larger placebo-controlled RCTs (randomised controlled trials) showed **no benefit over placebo**; not recommended |
 - **Also know:** paediatric dysfunctional voiding (sphincter); pelvic floor spasm; ED (erectile dysfunction) trials.
 
@@ -258,7 +258,7 @@ Deglove + excise dysplastic dartos + artificial erection
 
 > **Key points to remember:**
 > - Cleaves SNAP-25; efferent and afferent action.
-> - 100 U idiopathic OAB; 200 U NDO; 10 U/kg (max 360 U) children.
+> - 100 U idiopathic OAB; 200 U NDO; children 10 U/kg (max 360 U) in series, FDA label 6 U/kg (max 200 U).
 > - Main risks: retention needing CISC, UTI.
 
 ---
@@ -294,7 +294,7 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 | Kidney | **Nephrotoxicity**: acute afferent vasoconstriction (reversible); chronic arteriolar hyalinosis, striped fibrosis; TMA (thrombotic microangiopathy) |
 | Metabolic | **NODAT/PTDM (new-onset/post-transplant diabetes)**, more than ciclosporin; **hyperkalaemia**, **hypomagnesaemia**, hyperuricaemia |
 | Neurological | **Tremor**, headache, paraesthesia, seizures, PRES (posterior reversible encephalopathy syndrome) |
-| Others | Hypertension, GI (gastrointestinal) upset, alopecia, infection (CMV, BK virus), malignancy (skin, PTLD (post-transplant lymphoproliferative disorder)) |
+| Others | Hypertension, GI (gastrointestinal) upset, alopecia, infection (CMV (cytomegalovirus), BK polyomavirus), malignancy (skin, PTLD (post-transplant lymphoproliferative disorder)) |
 
 ### Drug interactions
 - **Raise levels (CYP3A4 inhibitors):** azoles, clarithromycin/erythromycin, diltiazem, verapamil, protease inhibitors, grapefruit; diarrhoea.
@@ -328,9 +328,9 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 - Better termed "**preureteral vena cava**": the anomaly is venous; the ureter is trapped.
 
 ### Embryology
-- Fetal veins form a collar around each ascending kidney: **posterior cardinal and supracardinal (dorsal)**, **subcardinal (ventral)**.
-- Normally the right **supracardinal** vein, dorsal to the ureter, forms the infrarenal IVC, so the ureter lies in front.
-- If a **ventral vein persists** as the IVC (lumbar subcardinal in Campbell; "persistent posterior cardinal vein" in many texts), the ureter is trapped behind it.
+- Paired fetal veins (posterior cardinal, supracardinal, subcardinal) form a venous collar around each ureter and ascending kidney.
+- Normally the right **supracardinal** vein, **dorsal** to the ureter, forms the infrarenal IVC, so the ureter lies in front.
+- If a vein **ventral** to the ureter persists as the IVC (lumbar subcardinal in Campbell; "persistent posterior cardinal vein" in many texts), the ureter is trapped behind it.
 - Variant: double right IVC (ureter between limbs).
 
 ### Incidence and presentation
@@ -383,10 +383,10 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 2. Saline irrigation; **guidewire** through the stricture.
 3. **Cold-knife incision traditionally at 12 o'clock** through scar to healthy spongiosum. Campbell notes the spongiosum is thinnest from 10 to 2 o'clock; deep cuts enter the corpora (ED (erectile dysfunction), fistula).
 4. Catheter **3–7 days**; longer catheterisation adds no benefit.
-- **Laser** (holmium, Nd:YAG, others): **no advantage over cold knife**.
+- **Laser** (holmium, Nd:YAG (neodymium:yttrium–aluminium–garnet), others): **no advantage over cold knife**.
 
 ### Outcomes
-- **Steenkamp 1997, Heyns 1998 (RCTs):** dilation = urethrotomy; a second urethrotomy helps few, a third none.
+- **Steenkamp 1997, Heyns 1998 (randomised trials):** dilation = urethrotomy; a second urethrotomy helps few, a third none.
 - **Santucci & Eisenberg (2010):** about **8% stricture-free** long term after a first DVIU; repeat procedures almost always fail.
 - Repeat DVIU lengthens scar and lowers later urethroplasty success; urethroplasty is more **cost-effective** after one failure.
 
@@ -399,7 +399,7 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 - Mitomycin C, steroid injection (limited data); UroLume withdrawn.
 
 ### Complications
-- **Recurrence** (commonest); bleeding (often with erections); **irrigant extravasation**; UTI/sepsis; ED; spongio-cavernous fistula; incontinence if sphincter incised.
+- **Recurrence** (commonest); bleeding (often with erections); **irrigant extravasation**; UTI (urinary tract infection), sepsis; ED; spongio-cavernous fistula; incontinence if sphincter incised.
 
 ### Recent advance
 - **Optilume** paclitaxel-coated balloon (FDA (Food and Drug Administration) 2023): **ROBUST III** stricture-free 74.6% vs 26.8% at 1 year after failed endoscopy.
@@ -417,7 +417,7 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 **Type:** SAQ (10 marks)
 
 ### Definition
-- Neurological and cardiovascular disturbance from **absorption of hypo-osmolar, non-conducting irrigant** during monopolar TURP (transurethral resection of the prostate). About 1–2% in large series; falling.
+- **TUR (transurethral resection) syndrome:** neurological and cardiovascular disturbance from **absorption of hypo-osmolar, non-conducting irrigant** during monopolar TURP (transurethral resection of the prostate). About 1–2% in large series; falling.
 
 ### Pathophysiology
 - Prostatic venous pressure is about **10 mmHg**; irrigant at higher pressure enters open sinuses, or the periprostatic space after perforation.
@@ -448,7 +448,7 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 4. Severe neurological signs or Na <120: **3% saline 100 mL bolus** (raises Na 2–3 mEq/L), repeated at 10 minutes up to 300 mL. **Target rise 4–6 mEq/L.**
 5. Correction limit: up to **12 mEq/L in 24 h** for acute hyponatraemia (8–10 mEq/L if symptoms begin >48 h after surgery), avoiding **osmotic demyelination (central pontine myelinolysis)**.
 6. Seizures: benzodiazepines; ICU (intensive care unit) care.
-- **Also know:** occurs in TURBT, PCNL (percutaneous nephrolithotomy) and hysteroscopy; sorbitol → hyperglycaemia; mannitol → osmotic diuresis.
+- **Also know:** occurs in TURBT (transurethral resection of bladder tumour), PCNL (percutaneous nephrolithotomy) and hysteroscopy; sorbitol → hyperglycaemia; mannitol → osmotic diuresis.
 
 **Diagram to draw:** flowchart: absorption → overload + hyponatraemia → cerebral oedema.
 
