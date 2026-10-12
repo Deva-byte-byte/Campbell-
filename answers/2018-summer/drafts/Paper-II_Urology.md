@@ -55,7 +55,7 @@
 | Disease activity | Repeat urine AFB culture; bladder biopsy | Do not reconstruct with active TB |
 | Capacity and compliance | Cystogram, cystoscopy under anaesthesia, urodynamics | Size and type of reconstruction |
 | Upper tracts | Ultrasound, CT urography, MCU (micturating cystourethrogram) | VUJ stricture or reflux needs reimplantation |
-| Renal function | Creatinine, eGFR (estimated glomerular filtration rate), split function | Bowel reservoir needs creatinine <2 mg/dL, GFR >35–40 mL/min |
+| Renal function | Creatinine, GFR (glomerular filtration rate), split function | Bowel reservoir needs creatinine <2 mg/dL, GFR >35–40 mL/min |
 | Urethra, bladder neck, sphincter | Urethrogram, endoscopy | Orthotopic reservoir needs a patent, continent outlet |
 | Patient | Dexterity, motivation, fertility wishes | May need CIC (clean intermittent catheterisation) |
 
@@ -75,7 +75,7 @@
 - **Mucus** and catheter blockage; **stones**; bacteriuria and UTI (urinary tract infection); **hyperchloraemic metabolic acidosis**; vitamin B12 deficiency if ileum is lost; **perforation** (needs regular emptying); incomplete emptying needing CIC; nocturnal incontinence; late tumour in the reservoir.
 
 ### Follow-up
-- Urine AFB culture, creatinine, bicarbonate, B12 and ultrasound. UG TB relapses in 6–22% (mean about 5 years), so follow up for up to 10 years.
+- Urine AFB culture, creatinine, bicarbonate, B12 and ultrasound. GU TB relapses in 6–22% (mean about 5 years), so follow up for up to 10 years.
 
 **Diagram to draw:** supratrigonal excision of a thimble bladder with an ileocaecal substitute and ureteric reimplantation.
 
@@ -92,7 +92,7 @@
 
 ### Lymphatic drainage of the testis
 - **Why retroperitoneal:** the testis develops beside the kidney (L1–L2) and its lymph returns to where it began.
-- **Route:** lymph vessels from the testis and the caput and corpus of the epididymis run up the spermatic cord with the testicular vessels, through the internal ring, then along the gonadal vessels on psoas to the lumbar nodes near the renal hilum.
+- **Route:** lymphatics of the testis and the caput and corpus of the epididymis run up the cord with the testicular vessels, through the internal ring and along the gonadal vessels to the lumbar nodes near the renal hilum.
 - From there lymph passes to the **cisterna chyli** (in front of L1–L2), the **thoracic duct** and the left innominate vein. This explains **left supraclavicular** node metastases.
 
 **Retroperitoneal nodal regions**
@@ -133,10 +133,10 @@
 | Relapse | 14–20% | About 5% | 3–5% |
 | Relapse site | Retroperitoneum (84–100%) | Retroperitoneum | Pelvis, chest, left supraclavicular |
 | Drawbacks | Late relapse, many scans, compliance | Underdosing; late effects unknown | Second cancers, GI (gastrointestinal) toxicity, oligospermia |
-| Status | **Preferred** | Alternative; for high risk | Rarely used now |
+| Status | **Preferred** | If unwilling or unsuitable for surveillance; risk factors | If unwilling or unsuitable for surveillance |
 
 - **Carboplatin (Calvert):** 7 × (GFR [glomerular filtration rate] + 25) mg, using isotope GFR.
-- **Trials:** **MRC TE18** (Medical Research Council): 20 Gy equals 30 Gy, with less toxicity. **MRC TE19/EORTC 30982:** one cycle of carboplatin equals radiotherapy (5-year relapse-free 94.7% vs 96%). MRC TE10: para-aortic field equals dog-leg, with 2% pelvic relapse.
+- **Trials:** **MRC TE18** (Medical Research Council): 20 Gy equals 30 Gy, with less toxicity. **MRC TE19/EORTC (European Organisation for Research and Treatment of Cancer) 30982:** one cycle of carboplatin equals radiotherapy (5-year relapse-free 94.7% vs 96%). MRC TE10: para-aortic field equals dog-leg, with 2% pelvic relapse.
 - **Risk-adapted (EAU [European Association of Urology]):** surveillance for low risk; with risk factors discuss surveillance or carboplatin (treating all would overtreat two-thirds).
 
 ```
@@ -145,19 +145,19 @@ Inguinal orchidectomy + markers + CT
      Stage I seminoma
             │
  Surveillance (preferred)  ── unwilling / unreliable ──► Carboplatin AUC7 ×1(–2)
-            │                                              (or RT 20 Gy)
+            │                                       (or radiotherapy 20 Gy)
        Relapse (mostly retroperitoneal)
-   ├─ small nodes ► RT 30 Gy dog-leg or chemotherapy
+   ├─ small nodes ► dog-leg radiotherapy with boost, or chemotherapy
    └─ bulky/distant ► BEP ×3 or EP ×4
 ```
+- BEP: bleomycin, etoposide, cisplatin; EP: etoposide, cisplatin.
 
 ### Relapse and IGCCCG
-- Surveillance relapses are mostly retroperitoneal and almost always cured; median 14 months, but 10–20% occur after 4 years.
+- Relapses are almost always cured; median 14 months, but 10–20% occur after 4 years.
 - **IGCCCG** (International Germ Cell Cancer Collaborative Group): seminoma is good risk unless there are non-pulmonary visceral metastases (intermediate). **There is no poor-risk seminoma**, and markers do not change the risk group.
 
 ### Follow-up (surveillance)
 - Examination and markers every 2–4 months (years 1–3), 6-monthly (years 4–7), then yearly; CT every 4–6 months (years 1–3), then 6-monthly to year 7, then yearly. CT finds >85% of relapses.
-- Also check testosterone, fertility, cardiovascular risk and the contralateral testis.
 
 ### Recent advances
 - **miR-371a-3p** serum microRNA detects relapse better than standard markers.
@@ -179,7 +179,7 @@ Inguinal orchidectomy + markers + CT
 ### Definition
 - **Oligozoospermia:** sperm concentration below the lower reference limit. **WHO (World Health Organization) 2021 (6th edition): 16 million/mL** (total count 39 million per ejaculate). Earlier thresholds were 20 million (1999) and 15 million (2010).
 - These are 5th centile values of fertile men, not fertility cut-offs. A single value must be read with testis size and FSH (follicle-stimulating hormone).
-- **Severity:** mild to moderate 5–15 million/mL; **severe <5 million/mL**; cryptozoospermia (sperm only in a centrifuged pellet).
+- **Severity:** mild to moderate 5–16 million/mL; **severe <5 million/mL**; cryptozoospermia (sperm only in a centrifuged pellet).
 
 | Other WHO 2021 lower limits | Value |
 |---|---|
@@ -284,7 +284,7 @@ Inguinal orchidectomy + markers + CT
 - **PSA (prostate-specific antigen) halves** by 6–12 months: **double the PSA** to interpret it. A rise from the nadir on treatment needs evaluation.
 
 ### Indications
-- Moderate-to-severe LUTS (lower urinary tract symptoms) with an enlarged prostate: **>40 mL (EAU [European Association of Urology])**, or >30 mL (AUA [American Urological Association]), or PSA >1.5 ng/mL.
+- Moderate-to-severe LUTS (lower urinary tract symptoms) with an enlarged prostate: **>40 mL (EAU [European Association of Urology])** or PSA about >1.5 ng/mL; AUA (American Urological Association): >30 mL.
 - **Combination with tamsulosin** for men at risk of progression (fixed-dose capsule available).
 - Off-label: BPH haematuria (lowers prostatic microvessel density); before TURP (transurethral resection of the prostate) to reduce bleeding (inconsistent evidence).
 
@@ -338,7 +338,7 @@ Inguinal orchidectomy + markers + CT
 - Activation at 4–6 weeks.
 
 ### Complications
-- **Infection (1–3%)**: biofilm on the device. Prevent with IV vancomycin or cephalosporin plus gentamicin (up to 24 h), chlorhexidine–alcohol preparation, **antibiotic-coated devices** (halve infection) and **no-touch technique**. Treat by removing **all** parts; **Mulcahy salvage** (antiseptic washout and immediate new device) succeeds in 84%.
+- **Infection (1–3%)**: biofilm on the device. Prevent with intravenous vancomycin or cephalosporin plus gentamicin (up to 24 h), chlorhexidine–alcohol preparation, **antibiotic-coated devices** (halve infection) and **no-touch technique**. Treat by removing **all** parts; **Mulcahy salvage** (antiseptic washout and immediate new device) succeeds in 84%.
 - **Mechanical failure** (commonest): about 15% at 5 years, 30% at 10.
 - Intraoperative: crural perforation, crossover, urethral injury.
 - Others: erosion, extrusion, reservoir erosion into bladder or bowel, autoinflation, penile shortening, **glans necrosis**.
@@ -414,7 +414,7 @@ Inguinal orchidectomy + markers + CT
 |---|---|
 | **Qmax** (maximum flow rate) | Most useful value; normal men >15 mL/s, women >20 mL/s |
 | Qave (average flow rate) | Volume ÷ flow time; less useful |
-| Voided volume | Must be ≥150 mL |
+| Voided volume (VV) | Must be ≥150 mL |
 | Flow time / voiding time | Voiding time includes interruptions |
 | Time to Qmax | Normally in the first third of the void |
 | Voiding efficiency | VV ÷ (VV + PVR) × 100 |

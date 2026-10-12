@@ -55,7 +55,7 @@
 | **Ultrasound** (first) | Dilated upper pole and ureter behind the bladder; parenchyma. Bladder view separates it from ureterocele |
 | **VCUG** (voiding cystourethrogram) | Lower-pole or contralateral VUR ("drooping lily"), reflux into the ectopic ureter |
 | **DMSA** (dimercaptosuccinic acid) | Gold standard for moiety function ("some" versus "none"); MAG3 (mercaptoacetyltriglycine) if drainage needed |
-| **MR urography** | Non-dilated upper pole, small dysplastic kidney, complex anatomy |
+| **MR (magnetic resonance) urography** | Non-dilated upper pole, small dysplastic kidney, complex anatomy |
 | **Examination / cystovaginoscopy** | Perineal orifice between urethra and vagina, cannulated for contrast |
 
 - **Also know:** clear urine leaking despite methylene blue in the bladder suggests an ectopic ureter; CT for a small unseen kidney.
@@ -64,17 +64,17 @@
 **Goals:** preserve renal function; remove infection, obstruction and reflux; achieve continence; with least morbidity. Start antibiotic prophylaxis in the neonate with significant dilation.
 
 ```
-            Ectopic ureter
-   Sepsis / massive dilation in neonate ── end cutaneous ureterostomy
-                                          (or nephrostomy), reassess DMSA later
-        DUPLEX                                SINGLE SYSTEM
-   Upper pole worth keeping?            Function worth keeping?
-    No → upper-pole heminephro-          Yes → ureteral reimplant (± taper)
-         ureterectomy                     No  → nephroureterectomy (lap)
-    Yes / preference → ureteroureter-   Bilateral → bladder neck reconstruction
-         ostomy or pyeloureterostomy                 ± augmentation
-    Lower-pole VUR → common sheath reimplant
-         (or lower-pole reimplant + distal UU)
+Neonate with sepsis or massive dilation
+   → end cutaneous ureterostomy (or nephrostomy); DMSA later
+DUPLEX system
+   Upper pole non-functioning → upper-pole heminephroureterectomy
+   Upper pole worth keeping   → ureteroureterostomy (UU) / pyeloureterostomy
+   + lower-pole VUR           → common sheath reimplant
+                                (or lower-pole reimplant + distal UU)
+SINGLE system
+   Functioning     → ureteral reimplant (± tapering)
+   Non-functioning → nephroureterectomy (laparoscopic)
+   Bilateral       → bladder neck reconstruction ± augmentation
 ```
 
 - **Upper-pole heminephroureterectomy** (open, laparoscopic or robotic): upper-pole ureter as a handle, passed behind the hilum; ligate polar vessels; excise the pole; close over fat. Dissect on the ureter wall to protect the **lower-pole blood supply**. The stump is rarely a problem.
@@ -121,7 +121,7 @@
 | Method | Principle | Note |
 |---|---|---|
 | **Serological** (microlymphocytotoxicity) | Lymphocytes + typed antisera + complement; dead cells take up dye | Low resolution; largely replaced |
-| **Molecular** (DNA-based) | PCR-SSP (sequence-specific primers), PCR-SSO (sequence-specific oligonucleotide probes), sequence-based typing, **NGS** (next-generation sequencing) | High (allele-level) resolution; now standard |
+| **Molecular** (DNA-based) | PCR (polymerase chain reaction) with SSP (sequence-specific primers), PCR-SSO (sequence-specific oligonucleotide probes), sequence-based typing, **NGS** (next-generation sequencing) | High (allele-level) resolution; now standard |
 
 - **Matching:** usually reported as mismatches at **A, B and DR** (0–6). **DR matters most**, then B, then A; DQ increasingly typed. Fewer mismatches mean better graft survival and less sensitisation for a future transplant (Collaborative Transplant Study, Opelz). The effect is larger in deceased-donor grafts.
 
@@ -291,7 +291,7 @@ Boy with empty scrotum
 ### Management (no cure)
 - **Neonatal:** ventilation, fluid and electrolyte care, antihypertensives (ACE (angiotensin-converting enzyme) inhibitors).
 - **CKD care:** nutrition, growth hormone, anaemia and bone treatment; dialysis and **kidney transplantation**.
-- **Nephrectomy** (breathing, feeding, BP, room for peritoneal dialysis): cautiously; **very early bilateral nephrectomy** (first 3 months) had the worst neurological outcomes (ARegPKD registry).
+- **Nephrectomy** (breathing, feeding, blood pressure, room for peritoneal dialysis): cautiously; **very early bilateral nephrectomy** (first 3 months) had the worst neurological outcomes (ARegPKD registry).
 - **Liver:** variceal sclerotherapy, portosystemic shunt; **combined liver–kidney transplant** for severe liver disease.
 - **Genetic counselling** and prenatal diagnosis.
 
@@ -431,10 +431,10 @@ Boy with empty scrotum
 | **Subclinical varicocele?** | No benefit for semen or pregnancy | **Do not treat** |
 | **Normal semen?** | No proven benefit | Not for fertility |
 | **Adolescent varicocele** | Testis volume is a surrogate; link to adult fertility unproven | Observe; repair for **testis asymmetry above 20%**, pain, or abnormal semen (Tanner 5 or 18 years) |
-| **NOA (non-obstructive azoospermia)** | Small series: sperm returns to ejaculate in some | No definitive evidence; may be considered before micro-TESE |
+| **NOA (non-obstructive azoospermia)** | Small series: sperm returns to ejaculate in some | No definitive evidence; may be considered before micro-TESE (microsurgical testicular sperm extraction) |
 | **Before IVF/ICSI** (in vitro fertilisation / intracytoplasmic sperm injection) | Repair may improve live-birth rate or allow less invasive ART (assisted reproduction) | Discuss, especially with oligozoospermia |
 | **High DNA fragmentation** | Repair lowers fragmentation | Reasonable indication |
-| **Hypogonadism** | Repair raises testosterone in low-T men | Emerging indication |
+| **Hypogonadism** | Repair raises testosterone in hypogonadal men | Emerging indication |
 | **Pain** | Dull ache on standing; relief in most after microsurgery | Repair after other causes excluded |
 
 ### Choice of technique
