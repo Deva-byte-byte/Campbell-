@@ -316,48 +316,45 @@ Sepsis or obstruction on either side?
 **Type:** SAQ (10 marks)
 
 ### Genetics
-- ADPKD (autosomal dominant polycystic kidney disease) is the commonest inherited renal cystic disease (about 1 in 400–1000). It causes 7–15% of patients on haemodialysis. About 10% have no family history.
+- ADPKD (autosomal dominant polycystic kidney disease) is the commonest inherited cystic kidney disease (about 1 in 400–1000); 7–15% of patients on haemodialysis. About 10% have no family history.
 
-| Gene | Chromosome | Protein | Share | ESRD (end-stage renal disease) |
-|---|---|---|---|---|
-| **PKD1** | 16 | Polycystin-1 | ~85% | 50s |
-| **PKD2** | 4 | Polycystin-2 | ~15% | 70s |
+| Gene | Chromosome | Share | ESRD (end-stage renal disease) |
+|---|---|---|---|
+| **PKD1** (polycystin-1) | 16 | ~85% | 50s |
+| **PKD2** (polycystin-2) | 4 | ~15% | 70s |
 
-- Polycystins in the primary cilium restrain cell proliferation. PKD1 lies next to TSC2 (tuberous sclerosis).
+- Polycystins in the primary cilium restrain proliferation. PKD1 lies next to TSC2 (tuberous sclerosis).
 
-### Clinical features (usually 30–50 years)
-- **Pain** (commonest): mass effect, cyst haemorrhage, infection, stones.
-- **Haematuria** in about 50%. **Stones** in 20–30% (uric acid and calcium oxalate).
-- **Hypertension:** about 50% at 20–35 years with normal function; nearly all in ESRD. Stretched vessels cause ischaemia and renin release.
-- **Infection:** infected cysts, mainly in women.
-- **Renal failure:** function falls with kidney volume. Risk factors: PKD1, male sex, early haematuria or hypertension.
-- **Extrarenal:** liver cysts (commonest; up to 90% by 50); **intracranial aneurysms 10–30%**; seminal vesicle cysts (40%); pancreatic and arachnoid cysts; mitral valve prolapse; diverticulosis.
-- RCC (renal cell carcinoma) is not more common, but when it occurs it is more often bilateral and sarcomatoid.
+### Clinical features (30–50 years)
+- **Pain** (commonest): mass, cyst haemorrhage, infection, stones. **Haematuria** about 50%; **stones** 20–30%.
+- **Hypertension:** about 50% at 20–35 years with normal function; stretched vessels release renin.
+- **Renal failure:** proportional to kidney volume; worse with PKD1, male sex, early hypertension.
+- **Extrarenal:** liver cysts (commonest; up to 90% by 50); **intracranial aneurysm 10–30%**; seminal vesicle (40%), pancreatic, arachnoid cysts; mitral valve prolapse; diverticulosis.
+- RCC (renal cell carcinoma) is not commoner, but is more often bilateral and sarcomatoid.
 
-### Diagnosis
-| Age | Ravine criteria (PKD1 family) | Pei unified criteria (2009) |
+### Diagnosis (ultrasound in at-risk relatives)
+| Age | Ravine (PKD1 families) | Pei unified (2009) |
 |---|---|---|
 | 15–29 | ≥2 cysts, one or both kidneys | ≥3 cysts in total (15–39) |
-| 30–59 | ≥2 cysts in each kidney | ≥2 cysts in each kidney (40–59) |
-| ≥60 | ≥4 cysts in each kidney | ≥4 cysts in each kidney |
-- A young person with PKD2 can have a negative scan. Fewer than 2 cysts at ≥40 years excludes ADPKD (Pei).
-- CT or MRI for extrarenal cysts and TKV (total kidney volume), which predicts progression. Genetic testing if imaging is equivocal or for a living donor.
+| 30–59 | ≥2 cysts in each kidney | ≥2 in each kidney (40–59) |
+| ≥60 | ≥4 cysts in each kidney | ≥4 in each kidney |
+- A young PKD2 carrier can have a normal scan. CT or MRI shows extrarenal cysts and TKV (total kidney volume), which predicts progression. Genetic testing if equivocal or for a living donor.
 
 ### Management
-- **Blood pressure <130/80 mmHg** with ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker). HALT-PKD: tighter control slowed TKV growth; dual blockade added nothing.
-- **Tolvaptan** (V2-receptor antagonist; lowers cyclic AMP): **TEMPO 3:4 (2012)** slowed TKV growth and function loss; **REPRISE (2017)** slowed eGFR decline in later-stage disease. Side effects: thirst, polyuria, liver toxicity (monitor liver tests).
-- **Pain:** exclude infection, stone, tumour; avoid NSAIDs (non-steroidal anti-inflammatory drugs). Cyst aspiration, then laparoscopic unroofing (relieves pain, does not change function).
-- **Infection:** lipid-soluble antibiotics (trimethoprim–sulfamethoxazole, fluoroquinolones); drain if no response.
-- **Haemorrhage:** usually settles with rest and hydration; embolisation or nephrectomy rarely.
+- **BP <130/80 mmHg** with ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker); HALT-PKD: tighter control slowed TKV growth.
+- **Tolvaptan** (V2-receptor antagonist; lowers cyclic AMP): **TEMPO 3:4 (2012)** slowed TKV growth and function loss; **REPRISE (2017)** slowed eGFR (estimated glomerular filtration rate) decline in later disease. Causes polyuria and liver toxicity.
+- **Pain:** exclude infection, stone, tumour; avoid NSAIDs (non-steroidal anti-inflammatory drugs); cyst aspiration, then laparoscopic unroofing (pain only).
+- **Infected cyst:** lipid-soluble antibiotics (trimethoprim–sulfamethoxazole, fluoroquinolones); drain if no response.
+- **Haemorrhage:** usually settles with rest and fluids.
 - **Aneurysm screening** (MR angiography) if family history of aneurysm or bleed.
-- **ESRD:** dialysis or transplant (no recurrence in the graft). **Native nephrectomy** before or at transplant for recurrent infection, bleeding, pain, suspected tumour, or no room for the graft.
+- **ESRD:** dialysis or transplant (no recurrence). **Native nephrectomy** before or at transplant for recurrent infection, bleeding, pain, suspected tumour or no room for the graft.
 
-**Diagram to draw:** enlarged kidneys with multiple cysts, liver cysts and berry aneurysm.
+**Diagram to draw:** large cystic kidneys, liver cysts and berry aneurysm.
 
 > **Key points to remember:**
-> - PKD1 (chromosome 16, 85%, earlier ESRD); PKD2 (chromosome 4).
-> - Ravine: <30 years ≥2 cysts; 30–59 ≥2 each kidney; ≥60 ≥4 each kidney.
-> - Tolvaptan (TEMPO 3:4, REPRISE); ACE inhibitor or ARB, BP <130/80.
+> - PKD1: chromosome 16, 85%, earlier ESRD.
+> - Ravine: <30 years ≥2 cysts; 30–59 ≥2 each kidney; ≥60 ≥4 each.
+> - Tolvaptan (TEMPO 3:4, REPRISE); ACE inhibitor or ARB.
 
 ---
 
