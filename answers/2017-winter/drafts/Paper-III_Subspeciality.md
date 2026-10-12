@@ -417,29 +417,29 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 **Type:** SAQ (10 marks)
 
 ### Definition
-- Neurological and cardiovascular disturbance from **absorption of hypotonic, non-conducting irrigant** during monopolar TURP (transurethral resection of the prostate) or other endoscopic surgery. Incidence about 2% historically (Veterans Affairs/AUA cooperative data); now lower.
+- Neurological and cardiovascular disturbance from **absorption of hypo-osmolar, non-conducting irrigant** during monopolar TURP (transurethral resection of the prostate). About 1–2% in large series; falling.
 
 ### Pathophysiology
-- Prostatic venous pressure is about **10 mmHg**; irrigant at higher pressure enters open sinuses or periprostatic space after perforation.
-- Monopolar needs ion-free fluid: **glycine 1.5% (~200 mOsm/kg)**, sorbitol, water. Plasma is about 290 mOsm/kg.
+- Prostatic venous pressure is about **10 mmHg**; irrigant at higher pressure enters open sinuses, or the periprostatic space after perforation.
+- Monopolar needs ion-free fluid: **glycine 1.5% (~200 mOsm/kg)**, sorbitol, water (plasma ~290).
 - **Fluid overload** → hypertension, pulmonary oedema.
 - **Dilutional hyponatraemia and hypo-osmolality** → water moves into brain → **cerebral oedema**.
 - **Glycine toxicity**: ammonia → encephalopathy; inhibitory retinal neurotransmitter → **transient blindness**.
 - Even routine resection absorbs 800–1000 mL.
 
 ### Risk factors
-- Gland **>45 mL**, resection **>90 minutes** (VA (Veterans Affairs) cooperative study), high bag height or pressure, capsular perforation, open sinuses, hypotension, sterile water.
+- Gland **>45 mL**, resection **>90 minutes** (cooperative study), high irrigation pressure, capsular perforation, sterile water.
 
 ### Clinical features
-- Awake patient (spinal): restlessness, confusion, **nausea, vomiting**, headache, **visual disturbance**.
+- Awake patient: restlessness, confusion, **nausea, vomiting**, **visual disturbance**.
 - Cardiovascular: **hypertension and bradycardia**, later hypotension, tachypnoea, ECG (electrocardiogram) changes.
 - Severe: seizures, coma, death. **Na <120 mEq/L** is dangerous.
 
 ### Prevention
 - **Bipolar TURP or laser with saline** (eliminates it; NNT (number needed to treat) about 50).
 - Bag **~60 cm** above patient (each extra 10 cm more than doubles absorption); continuous-flow resectoscope; low-pressure irrigation.
-- Limit resection time (staged for large glands); avoid early sinus opening; check sodium in long cases.
-- Spinal anaesthesia for early detection; **1% ethanol tagging** measures absorption by breath test.
+- Limit resection time (stage large glands); check sodium in long cases.
+- Spinal anaesthesia for early detection; **1% ethanol tagging** (breath test) monitors absorption.
 
 ### Treatment
 1. Stop surgery, achieve haemostasis, insert catheter.
@@ -447,7 +447,7 @@ Tacrolimus + FKBP12 (FK506-binding protein 12)
 3. Fluid overload: **furosemide**; restrict fluids.
 4. Severe neurological signs or Na <120: **3% saline 100 mL bolus** (raises Na 2–3 mEq/L), repeated at 10 minutes up to 300 mL. **Target rise 4–6 mEq/L.**
 5. Correction limit: up to **12 mEq/L in 24 h** for acute hyponatraemia (8–10 mEq/L if symptoms begin >48 h after surgery), avoiding **osmotic demyelination (central pontine myelinolysis)**.
-6. Seizures: benzodiazepines; ventilate if comatose; ICU (intensive care unit) care.
+6. Seizures: benzodiazepines; ICU (intensive care unit) care.
 - **Also know:** occurs in TURBT, PCNL (percutaneous nephrolithotomy) and hysteroscopy; sorbitol → hyperglycaemia; mannitol → osmotic diuresis.
 
 **Diagram to draw:** flowchart: absorption → overload + hyponatraemia → cerebral oedema.
