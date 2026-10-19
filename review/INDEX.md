@@ -64,6 +64,10 @@
 | 77 | Surgery of Testicular Tumors | 24 | 32 | 20 |
 | 78 | Laparoscopic and Robotic-Assisted Retroperitoneal Lymphadenectomy for Testicular Tumors | 8 | 4 | 4 |
 | 79 | Tumors of the Penis | 29 | 54 | 29 |
+| 80 | Tumors of the Urethra | 17 | 12 | 10 |
+| 81 | Inguinal Node Dissection | 12 | 8 | 7 |
+| 82 | Surgery for Benign Disorders of the Penis and Urethra | 31 | 25 | 20 |
+| 83 | Surgery of the Scrotum and Seminal Vesicles | 31 | 17 | 17 |
 | 105 | Surgical and Radiographic Anatomy of the Adrenals | 8 | 8 | 6 |
 | 106 | Pathophysiology, Evaluation, and Medical Management of Adrenal Disorders | 42 | 29 | 25 |
 | 107 | Surgery of the Adrenal Glands | 12 | 10 | 8 |
@@ -123,6 +127,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 117. **In MCQ scope (15+):** 103 chapters, 1970 book Qs, 1985 review points, about 1384 MCQs for full coverage.
+**Chapters held:** 121. **In MCQ scope (15+):** 107 chapters, 2061 book Qs, 2047 review points, about 1438 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 80–104 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 84–104 (and anything after 162).
