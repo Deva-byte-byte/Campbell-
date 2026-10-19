@@ -5,7 +5,7 @@ Each set mixes chapters from different areas. Every book answer and Chapter Revi
 | Set | Chapters | Items | Status |
 |---|---|---|---|
 | 1 | 15 Basic Energy Modalities in Urologic Surgery; 62 Molecular Genetics and Cancer Biology; 156 Laparoscopic and Robotic-Assisted Radical Prostatectomy and Pelvic Lymphadenectomy | 148 | done ([quiz](https://claude.ai/artifact/REwG9mJUsCMpvdgM547sBJ)) |
-| 2 | 16 Evaluation and Management of Hematuria; 39 Renal Dysgenesis and Cystic Disease of the Kidney; 60 Tuberculosis and Parasitic Infections of the Genitourinary Tract; 115 Urinary Incontinence and Pelvic Prolapse: Epidemiology and Pathophysiology | 148 | todo |
+| 2 | 16 Evaluation and Management of Hematuria; 39 Renal Dysgenesis and Cystic Disease of the Kidney; 60 Tuberculosis and Parasitic Infections of the Genitourinary Tract; 115 Urinary Incontinence and Pelvic Prolapse: Epidemiology and Pathophysiology | 148 | done ([quiz](https://claude.ai/artifact/8ZpArQr5JbHfA28xu74con)) |
 | 3 | 17 Complications of Urologic Surgery; 23 Urologic Evaluation of the Child; 101 Open Surgery of the Kidney; 129 Urinary Tract Fistulae | 140 | todo |
 | 4 | 18 Urologic Considerations in Pregnancy; 37 Lower Urinary Tract Reconstruction in Children; 65 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome; 127 Additional Therapies for Storage and Emptying Failure | 143 | todo |
 | 5 | 19 Intraoperative Consultation; 21 Urologic Aspects of Pediatric Nephrology; 142 Minimally Invasive Urinary Diversion; 148 Epidemiology, Etiology, and Prevention of Prostate Cancer | 142 | todo |

@@ -1,0 +1,1050 @@
+[
+{
+"f": "mcq",
+"t": "Defining microhaematuria",
+"q": "Which statement about defining microhaematuria (MH) is TRUE?",
+"o": [
+"≥3 RBCs/HPF on one microscopy is enough",
+"Two positive urinalyses are always needed",
+"The threshold is 25 or more RBCs/HPF",
+"A positive dipstick on its own confirms MH"
+],
+"a": 0,
+"e": [
+"AUA: MH = ≥3 RBCs/HPF (high-power field) on one properly collected specimen; malignancy is found in 2.3–5.5% at this level. Dipstick detects haem peroxidase activity and is insufficient: false results with dehydration, myoglobinuria, high-dose vitamin C and poor technique. A positive dipstick needs microscopy. A higher threshold (>25/HPF carries more cancer) or needing two positive tests would miss cancers. The AUA/SUFU 2020 update keeps ≥3 RBCs/HPF on one specimen."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-a01",
+"c016-r01"
+]
+},
+{
+"f": "mcq",
+"t": "TB complex",
+"q": "Which organism is NOT part of the Mycobacterium tuberculosis complex (MTBC)?",
+"o": [
+"Mycobacterium microti",
+"Mycobacterium avium complex",
+"Mycobacterium bovis BCG strain",
+"Mycobacterium africanum"
+],
+"a": 1,
+"e": [
+"M. bovis, M. africanum and M. microti belong to the MTBC and cause TB disease; BCG is derived from M. bovis and can itself cause disease (e.g., after intravesical BCG). M. avium-intracellulare is a nontuberculous mycobacterium."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a01"
+]
+},
+{
+"f": "mcq",
+"t": "Tuberous sclerosis",
+"q": "Which statement about tuberous sclerosis (TSC) is FALSE?",
+"o": [
+"AML with cardiac rhabdomyoma is diagnostic",
+"Angiomyolipoma occurs in under 10%",
+"TSC1 lies on 9 and TSC2 on chromosome 16",
+"RCC develops in about 2% of patients"
+],
+"a": 1,
+"e": [
+"Angiomyolipoma (AML) occurs in 40–80% of TSC. Diagnosis: two major features (renal AML, facial angiofibromas/forehead plaque, ungual fibroma, ≥3 hypomelanotic macules, shagreen patch, retinal hamartomas, cortical tuber, subependymal nodule or giant cell astrocytoma, cardiac rhabdomyoma, lymphangioleiomyomatosis) or one major plus two minor (multiple renal cysts, nonrenal hamartoma, rectal polyps, retinal achromic patch, white matter migration tracts, bone cysts, gingival fibromas, confetti skin lesions, enamel pits). Update: the 2012 international criteria also accept a pathogenic TSC1/TSC2 variant alone, and AML plus LAM without other features is not enough. Everolimus (EXIST-2) shrinks TSC-related AML."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a01",
+"c039-a15"
+]
+},
+{
+"f": "mcq",
+"t": "Risk factors in MH",
+"q": "Which is NOT a recognised risk factor for malignancy in a patient with microhaematuria?",
+"o": [
+"Over 25 RBCs per high-power field",
+"Male sex and increasing age",
+"Use of an anticoagulant drug",
+"A long tobacco smoking history"
+],
+"a": 2,
+"e": [
+"Age, male sex, smoking and higher-grade MH (>25 RBCs/HPF) raise cancer risk; there is little data separating 2, 3, 4 or 5 RBCs/HPF. Anticoagulant or antiplatelet users have the same cancer risk and get the same evaluation. MH prevalence is about 6.5% of adults; malignancy is found in about 3.5% of those evaluated, lower when risk factors are absent."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-a02",
+"c016-r02",
+"c016-r03"
+]
+},
+{
+"f": "mcq",
+"t": "Ask-Upmark and hypoplasia",
+"q": "Which statement is TRUE?",
+"o": [
+"Ask-Upmark kidney causes severe hypertension",
+"Hypoplasia shows dysplastic primitive tissue",
+"Ask-Upmark kidney is mostly seen in old men",
+"Oligomeganephronia has more, small nephrons"
+],
+"a": 0,
+"e": [
+"Ask-Upmark kidney (segmental hypoplasia) is linked to reflux; hypertension and its sequelae (headache, encephalopathy, retinopathy) are the hallmark; mainly young women and girls; segmental vascular anomalies are suspected but renal artery intimal disease is not shown. Hypoplasia: fewer calyces and nephrons without dysplasia. Oligomeganephronia: fewer nephrons with hypertrophy of the rest; many develop renal failure."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a02",
+"c039-r05",
+"c039-r03",
+"c039-r04"
+]
+},
+{
+"f": "mcq",
+"t": "Types of incontinence",
+"q": "Which statement about types of urinary incontinence (UI) is TRUE?",
+"o": [
+"UUI requires urodynamic DO for diagnosis",
+"Mixed UI becomes rarer with older age",
+"Continuous leakage is common in the young",
+"SUI is the commonest type in young women"
+],
+"a": 3,
+"e": [
+"Stress UI (SUI) is the commonest form in young women; urgency and mixed UI become more prevalent with age. Urgency UI (UUI) is leakage with urgency; detrusor overactivity (DO) may be present but is not needed for diagnosis. Mixed UI = symptoms of both SUI and UUI. Continuous leakage is uncommon and usually means a fistula from iatrogenic injury."
+],
+"s": "Ch 115 Incontinence and prolapse: epidemiology",
+"c": [
+"c115-a01",
+"c115-a02",
+"c115-r11"
+]
+},
+{
+"f": "mcq",
+"t": "Drug-resistant TB",
+"q": "Which statement about drug-resistant TB is TRUE?",
+"o": [
+"XDR TB is usually sensitive to quinolones",
+"Rifampicin resistance flags MDR TB",
+"MDR means resistance to isoniazid alone",
+"MDR is about 12% of all US TB cases"
+],
+"a": 1,
+"e": [
+"In 2012 only 1.2% of US TB was multidrug-resistant (MDR). Rifampicin resistance (rpoB, detected by Xpert MTB/RIF) is a surrogate for MDR. Correction: MDR = resistance to at least isoniazid AND rifampicin; the book's definition (INH, rifampicin, a quinolone and an injectable) describes old-style XDR. WHO 2021: pre-XDR = MDR/RR plus a fluoroquinolone; XDR = pre-XDR plus bedaquiline or linezolid. The book keys pyrazinamide as most likely active in XDR TB."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a02",
+"c060-r14",
+"c060-a08"
+]
+},
+{
+"f": "mcq",
+"t": "Acquired cystic disease",
+"q": "Which statement about acquired renal cystic disease (ARCD) is TRUE?",
+"o": [
+"Risk rises with duration of renal failure",
+"It is confined to haemodialysis patients",
+"Peritoneal dialysis prevents cyst formation",
+"Bleeding into cysts is distinctly rare"
+],
+"a": 0,
+"e": [
+"ARCD is a feature of end-stage kidney disease, not of dialysis: almost as common on peritoneal dialysis and seen in medically managed chronic renal failure. Its main risk factor is the duration of renal failure. Commonest presentation is loin pain, haematuria or both; bleeding occurs in up to 50%. It carries an increased risk of renal cell carcinoma."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a03",
+"c039-a23"
+]
+},
+{
+"f": "mcq",
+"t": "Initial MH workup",
+"q": "Following the book (AUA 2012), which is NOT part of the initial evaluation of a 50-year-old with asymptomatic MH?",
+"o": [
+"CT urography of the upper urinary tracts",
+"Blood pressure and a serum creatinine",
+"Urine cytology and urinary biomarkers",
+"White-light cystoscopy of bladder"
+],
+"a": 2,
+"e": [
+"All adults: history, examination, BP and creatinine (flags nephrological work-up and contrast eligibility), and upper tract imaging, preferably CT urogram. Cystoscopy at ≥35 years or with risk factors. Cytology and biomarkers are not part of the initial MH work-up. Update: AUA/SUFU 2020 risk-stratifies. Low risk: repeat urinalysis within 6 months or cystoscopy plus renal ultrasound (shared decision). Intermediate: cystoscopy plus renal ultrasound. High: cystoscopy plus CT urogram."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-a03",
+"c016-r04",
+"c016-r06",
+"c016-r07"
+]
+},
+{
+"f": "mcq",
+"t": "GU TB pathogenesis",
+"q": "Which statement about genitourinary (GU) TB is FALSE?",
+"o": [
+"Under 20% have constitutional symptoms",
+"Ascending spread is the main route",
+"Untreated disease may cause infertility",
+"It may be part of disseminated disease"
+],
+"a": 1,
+"e": [
+"Haematogenous seeding is by far the commonest route (others are known), confined to the GU tract or part of disseminated TB. It is indolent with nonspecific symptoms; fewer than 20% have constitutional symptoms. Untreated, it causes irreparable damage and fibrosis, with renal failure and infertility."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a03",
+"c060-r02",
+"c060-r01",
+"c060-r03"
+]
+},
+{
+"f": "mcq",
+"t": "ARPKD",
+"q": "Which statement about autosomal recessive polycystic kidney disease (ARPKD) is FALSE?",
+"o": [
+"Kidneys are large and diffusely echogenic",
+"Its gene (PKHD1) lies on chromosome 6",
+"The liver is spared in about half",
+"Its microcysts are dilated collecting ducts"
+],
+"a": 2,
+"e": [
+"All ARPKD patients have congenital hepatic fibrosis, with varying biliary ectasia and periportal fibrosis. The most severe form presents in the newborn. Fetal and neonatal US: bilateral, very large, diffusely echogenic kidneys (brighter than liver), homogeneous, pyramids blending in. Echogenicity comes from countless interfaces of microcysts formed by tightly packed dilated collecting ducts."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a04",
+"c039-a26",
+"c039-a29",
+"c039-r14"
+]
+},
+{
+"f": "mcq",
+"t": "Haemorrhagic cystitis",
+"q": "Which statement about chemotherapy-induced haemorrhagic cystitis is FALSE?",
+"o": [
+"Acrolein is the toxic urinary metabolite",
+"Mesna binds acrolein and inactivates it",
+"Cyclophosphamide and ifosfamide cause it",
+"Alum is safest in renal insufficiency"
+],
+"a": 3,
+"e": [
+"Oxazaphosphorines (cyclophosphamide, ifosfamide) are converted in the liver to acrolein, excreted in urine, causing mucosal sloughing, oedema and fibrosis. Mesna binds acrolein and is used for prophylaxis. Alum is a first-line intravesical agent after supportive measures fail, with low cell penetration, but absorption can cause aluminium toxicity with altered mental status, especially in renal insufficiency."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-a06",
+"c016-r09",
+"c016-a07",
+"c016-r10"
+]
+},
+{
+"f": "mcq",
+"t": "Continence risk factors",
+"q": "Which statement about risk factors for urinary incontinence is FALSE?",
+"o": [
+"Young first pregnancy raises later SUI risk",
+"Oral estrogen is linked to more incontinence",
+"Caffeine use is a firm risk factor for UI",
+"White women have more UI than Asian women"
+],
+"a": 2,
+"e": [
+"Caffeine is linked to urgency, but most studies show no association with UI. Younger age at first pregnancy predicts SUI later. Age correlates strongly with all UI types; white women are at greater risk than African American and Asian women. Oral estrogen (e.g., HERS and WHI hormone trials) increases incontinence; topical estrogen is not linked to SUI."
+],
+"s": "Ch 115 Incontinence and prolapse: epidemiology",
+"c": [
+"c115-a03",
+"c115-a04",
+"c115-r12",
+"c115-r08"
+]
+},
+{
+"f": "mcq",
+"t": "Cutaneous TB",
+"q": "Which cutaneous manifestation can appear early in the course of TB disease?",
+"o": [
+"Scrofuloderma over nodes",
+"Papulonecrotic tuberculid",
+"Lupus vulgaris in plaques",
+"Orificial cutaneous TB"
+],
+"a": 1,
+"e": [
+"Tuberculids are hypersensitivity reactions to MTBC antigens disseminated to the skin from foci elsewhere, so they are culture negative and usually PCR negative. Papulonecrotic tuberculid is the one that can present early."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a04"
+]
+},
+{
+"f": "mcq",
+"t": "Cyst formation",
+"q": "Cyst enlargement in polycystic kidney disease is driven mainly by:",
+"o": [
+"Passive tubular dilation from high glomerular flow",
+"Net fluid secretion by proliferating tubule cells",
+"Basement membrane breakdown by complement attack",
+"Raised intratubular pressure from distal blockage"
+],
+"a": 1,
+"e": [
+"Three processes: epithelial proliferation in a tubule segment, fluid accumulation, and disturbed extracellular matrix. Beyond the loop of Henle, tubule cells can secrete fluid when stimulated by cAMP, competing with sodium reabsorption; net secretion fills the cyst. Recent advance: tolvaptan (vasopressin V2 antagonist, lowers cAMP) slowed kidney growth (TEMPO 3:4, 2012) and eGFR decline (REPRISE, 2017) in ADPKD."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a05"
+]
+},
+{
+"f": "mcq",
+"t": "Under-35 patient",
+"q": "According to the book, cystoscopy may be omitted in a patient with asymptomatic MH who is:",
+"o": [
+"Over 35 years but has never smoked",
+"On warfarin with an INR above range",
+"Under 35 and free of risk factors",
+"A woman with a normal CT urogram"
+],
+"a": 2,
+"e": [
+"Cystoscopy is recommended at ≥35 years; under 35 it is an option to omit it if there are no risk factors, as cancer risk is very low. After a negative full evaluation the patient can be released if repeat urinalysis shows resolution; re-evaluate persistent/recurrent MH or an incomplete work-up. Update: AUA/SUFU 2020 uses risk groups instead (low risk: women <50, men <40, never or <10 pack-year smokers, 3–10 RBCs/HPF, no other risk factors)."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-a04",
+"c016-r05",
+"c016-r08"
+]
+},
+{
+"f": "mcq",
+"t": "TB skin test",
+"q": "Under CDC cut-offs, whose tuberculin skin test (TST) is NOT positive?",
+"o": [
+"A recent immigrant from India, 12 mm",
+"A recent household contact, 7 mm",
+"A healthy US-born teacher, 11 mm",
+"An HIV-positive adult with 6 mm"
+],
+"a": 2,
+"e": [
+"CDC: ≥5 mm is positive in HIV, recent contacts, fibrotic chest x-ray changes and immunosuppression; ≥10 mm in recent immigrants from high-burden countries, drug injectors, residents/staff of high-risk settings, mycobacteriology lab staff and children under 4; ≥15 mm in people with no risk factors (also low-risk people tested at job entry). BCG-vaccinated people usually come from high-incidence countries, so 10 mm applies; IGRA is preferred after BCG. Local jurisdictions may set different cut-offs."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a05"
+]
+},
+{
+"f": "mcq",
+"t": "ADPKD",
+"q": "Which statement about autosomal dominant polycystic kidney disease (ADPKD) is FALSE?",
+"o": [
+"Berry aneurysm and mitral prolapse occur",
+"PKD1 is on 16 and PKD2 on chromosome 4",
+"Liver cysts are common; fibrosis is rare",
+"Cerebellar haemangioblastomas occur"
+],
+"a": 3,
+"e": [
+"Haemangioblastomas belong to von Hippel-Lindau disease. ADPKD: PKD1 on the short arm of chromosome 16 (16p13.3, ~85%), PKD2 on chromosome 4; PKD3 not mapped. Extrarenal: cysts of liver, pancreas, spleen, lungs; berry aneurysms; colonic diverticula; aortic aneurysm; mitral valve prolapse. Usually clinically manifest in the 4th–5th decades, but cysts are frequently seen on US by age 20; glomerular cysts are sometimes seen in newborns. RCC risk is not higher than in the general population."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a06",
+"c039-a07",
+"c039-a27",
+"c039-r06"
+]
+},
+{
+"f": "mcq",
+"t": "Praziquantel and diagnosis",
+"q": "Which statement about urogenital schistosomiasis is FALSE?",
+"o": [
+"Urine egg microscopy is the gold standard",
+"Praziquantel is the WHO-approved drug",
+"Serology is the first-line diagnosis",
+"Bladder biopsy is kept for difficult cases"
+],
+"a": 2,
+"e": [
+"Praziquantel is the only WHO-approved drug for schistosomiasis (usually 40 mg/kg single oral dose; it does not kill immature schistosomules). First-line gold standard: microscopic urine egg counts (slow and impractical in the field; collect around midday, when egg output peaks). PCR and serology are sensitive but not first line. Cystoscopy with bladder biopsy and rectal biopsy are invasive, for difficult cases or suspected cancer."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a11",
+"c060-a16"
+]
+},
+{
+"f": "mcq",
+"t": "Prevalence",
+"q": "Which statement about prevalence is FALSE?",
+"o": [
+"About 40% of women leak weekly",
+"Prolapse can mask stress incontinence",
+"About 12% of men report terminal dribble",
+"UI prevalence in women is 25% to 40%"
+],
+"a": 0,
+"e": [
+"UI affects 25–40% of women; about 10% leak weekly. Faecal incontinence occurs in 17% of women with pelvic organ prolapse (POP). 12% of men report terminal dribbling. Overactive bladder rises with age. POP can kink the urethra and hide (occult) SUI, so reduce the prolapse when testing."
+],
+"s": "Ch 115 Incontinence and prolapse: epidemiology",
+"c": [
+"c115-r02",
+"c115-r06",
+"c115-r07",
+"c115-r01"
+]
+},
+{
+"f": "mcq",
+"t": "Formalin and HBOT",
+"q": "Which statement about refractory haemorrhagic cystitis is TRUE?",
+"o": [
+"Cystogram first to exclude reflux",
+"Silver nitrate needs no cystogram",
+"HBOT responds in under 30% of cases",
+"Formalin is a weak, rarely useful drug"
+],
+"a": 0,
+"e": [
+"Formalin is highly effective; before formalin or silver nitrate, a cystogram excludes vesicoureteral reflux (risk of upper tract injury). Hyperbaric oxygen therapy (HBOT) gives response rates of 80–100%. Angioembolisation and/or urinary diversion are salvage options for refractory haematuria, depending on clinical status."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-r11",
+"c016-r12",
+"c016-r16"
+]
+},
+{
+"f": "mcq",
+"t": "Multicystic dysplastic kidney",
+"q": "Which statement about multicystic dysplastic kidney (MCDK) is TRUE?",
+"o": [
+"Contralateral VUR is found in 18% to 43%",
+"It raises the long-term risk of hypertension",
+"It is more common on the right side",
+"Its cysts connect around a central cyst"
+],
+"a": 0,
+"e": [
+"MCDK is more often left-sided at any age; unilateral MCDK is commoner in males (2.4:1). It has no identifiable normal parenchyma and large series show no increased risk of hypertension or malignancy. Contralateral VUR (18–43%) is more frequent than contralateral UPJ obstruction. US: haphazard cysts of various sizes, no large central/medial cyst, no communications (small cysts between large ones), which distinguishes it from severe hydronephrosis."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a08",
+"c039-a14",
+"c039-r12",
+"c039-a22",
+"c039-a24"
+]
+},
+{
+"f": "mcq",
+"t": "Diagnosing GU TB",
+"q": "Which statement about diagnosing GU TB is FALSE?",
+"o": [
+"First-void urine is the best culture sample",
+"MRI is the routine first imaging test",
+"Positive urine AFB culture is gold standard",
+"All patients need a chest radiograph"
+],
+"a": 1,
+"e": [
+"Gold standard: positive acid-fast bacilli (AFB) culture from urine or tissue; first-void (early morning) urine is best. Alternatives: nucleic acid amplification for M. tuberculosis, or granulomas on histology. Imaging findings vary and the test depends on site; MRI has uses but is not superior enough to CT or IVU for frequent use. Every patient needs a chest x-ray to exclude infectious pulmonary TB."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a06",
+"c060-r07",
+"c060-r08",
+"c060-a10",
+"c060-r09"
+]
+},
+{
+"f": "mcq",
+"t": "BPH bleeding",
+"q": "Haematuria due to benign prostatic hyperplasia (BPH) is attributed mainly to:",
+"o": [
+"Urethral varices from venous stasis",
+"Raised PSA damaging the capillaries",
+"Bladder neck ulcers from calculi",
+"High VEGF and microvessel density"
+],
+"a": 3,
+"e": [
+"BPH is the commonest cause of gross haematuria (GH) in men over 60. Hyperplastic tissue has higher microvessel density linked to vascular endothelial growth factor (VEGF). Because proliferation drives vascularity, androgen suppression has been tried: estrogens and antiandrogens reduced bleeding in small reports (less angiogenesis, more apoptosis)."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-a08",
+"c016-r13"
+]
+},
+{
+"f": "mcq",
+"t": "Female continence anatomy",
+"q": "Which statement about female continence anatomy is FALSE?",
+"o": [
+"Urethral mucosa and wall help keep continence",
+"The anterior vaginal wall backs the urethra",
+"The mid-urethra is the key continence segment",
+"The bladder neck is the main continence zone"
+],
+"a": 3,
+"e": [
+"The female bladder neck is weaker than the male and often incompetent. Most of the urethra is an active sphincter zone, but the mid-urethra matters most. Intrinsic properties of the mucosa and wall help. The anterior vaginal wall supports the urethra posteriorly so it is compressed on straining (hammock); the urethropelvic ligaments attach it laterally to the arcus tendineus."
+],
+"s": "Ch 115 Incontinence and prolapse: epidemiology",
+"c": [
+"c115-r03",
+"c115-r04",
+"c115-r09",
+"c115-r10"
+]
+},
+{
+"f": "mcq",
+"t": "Schistosome life cycle",
+"q": "Which statement about the Schistosoma haematobium life cycle is FALSE?",
+"o": [
+"Its snail host is Biomphalaria",
+"Its egg carries a terminal spine",
+"Adult worms live for about 3 to 5 years",
+"Cercariae penetrate intact human skin"
+],
+"a": 0,
+"e": [
+"The snail host of S. haematobium is Bulinus. Biomphalaria hosts S. mansoni; Oncomelania S. japonicum; Helix and Achatina are terrestrial. Cercariae burrow through skin and become schistosomules. Adults live 3–5 years on average (some decades) in the perivesical venous plexus. The egg has a terminal spine."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a12",
+"c060-a19",
+"c060-a17",
+"c060-r15"
+]
+},
+{
+"f": "mcq",
+"t": "ADPKD pain",
+"q": "Which statement about pain in adult ADPKD is FALSE?",
+"o": [
+"Pain is the commonest presenting symptom",
+"Cyst aspiration can diagnose and relieve pain",
+"Unroofing can be done laparoscopically",
+"Cyst unroofing preserves renal function"
+],
+"a": 3,
+"e": [
+"Flank/abdominal pain is the commonest adult presentation: mass effect, bleeding into a cyst (the book's keyed cause), infected cysts/UTI and stones. When conservative pain measures fail, surgery should be considered, not avoided: US- or CT-guided aspiration (diagnostic and therapeutic), or unroofing of large or multiple cysts, laparoscopic or open (flank or dorsal lumbotomy). Surgery improves symptoms only; it neither accelerates nor preserves the decline of renal function."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a09",
+"c039-a21"
+]
+},
+{
+"f": "mcq",
+"t": "Infected cysts",
+"q": "Infected renal cysts in ADPKD respond best to antibiotics that are:",
+"o": [
+"Lipid soluble, such as fluoroquinolones",
+"Chiefly renally filtered, like penicillin",
+"Water soluble, such as aminoglycosides",
+"Highly protein bound, like ceftriaxone"
+],
+"a": 0,
+"e": [
+"Only lipid-soluble drugs penetrate cysts: trimethoprim-sulfamethoxazole and chloramphenicol (better results), and fluoroquinolones. If pyelonephritis fails to respond to a non-lipid-soluble drug, suspect infection in a noncommunicating cyst."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a20"
+]
+},
+{
+"f": "mcq",
+"t": "Finasteride",
+"q": "Which statement about managing prostatic gross haematuria is FALSE?",
+"o": [
+"Finasteride helps about 90% of patients",
+"PAE can be used after TURP fails",
+"Finasteride benefit takes about a year",
+"ADT can control bleeding from cancer"
+],
+"a": 2,
+"e": [
+"5α-reductase inhibitors reduce VEGF, microvessel density and blood flow; finasteride improves or resolves BPH bleeding in about 90%, with benefit within weeks; first line after evaluation in stable patients. Androgen deprivation (ADT) helps locally advanced prostate cancer with GH; channel TURP is used for cancer. Standard TURP (or alternatives) for persistent BPH bleeding, especially with other surgical indications. Prostatic artery embolisation (PAE) after TURP failure or in comorbid patients."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-a09",
+"c016-r14",
+"c016-r15"
+]
+},
+{
+"f": "mcq",
+"t": "Clinical GU TB",
+"q": "Which statement about the clinical features of GU TB is FALSE?",
+"o": [
+"Refractory chronic prostatitis may be TB",
+"Ureteral strictures may look beaded",
+"The kidney is involved in about 20%",
+"Sterile pyuria is a typical urine finding"
+],
+"a": 2,
+"e": [
+"About 80% of GU TB involves the kidney; typical findings are sterile pyuria or haematuria. Ureteral strictures may occur anywhere and give a pipestem or beaded corkscrew appearance. Bladder contracture is a late complication, commoner in developing countries. Chronic prostatitis persisting despite several antibiotic courses is another common presentation."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-r04",
+"c060-r05",
+"c060-r06"
+]
+},
+{
+"f": "mcq",
+"t": "VHL disease",
+"q": "Which statement about von Hippel-Lindau (VHL) disease is FALSE?",
+"o": [
+"Renal cysts are seen in about 76%",
+"RCC is its commonest early lesion",
+"The VHL gene lies on chromosome 3",
+"Pheochromocytoma may be a feature"
+],
+"a": 1,
+"e": [
+"Renal cysts (76%), not RCC, are the commonest and often earliest manifestation. VHL is autosomal dominant (chromosome 3p): cerebellar and retinal haemangioblastomas; pancreatic, renal and epididymal cysts; epididymal cystadenoma; pheochromocytoma; clear cell RCC (book 35–38%; modern series report higher lifetime risk). TSC also has epithelial hyperplasia and adenomas with RCC (~2%). In sporadic clear cell RCC, the book says 50% of cell lines carry VHL mutations."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a10",
+"c039-a16",
+"c039-r11",
+"c039-a13"
+]
+},
+{
+"f": "mcq",
+"t": "Juvenile nephronophthisis",
+"q": "Which statement comparing juvenile nephronophthisis (NPH) and medullary cystic kidney disease (MCKD) is FALSE?",
+"o": [
+"Both cause polyuria in over 80%",
+"NPH may come with retinitis pigmentosa",
+"Their histology shows the same triad",
+"Both are usually autosomal dominant"
+],
+"a": 3,
+"e": [
+"NPH is usually autosomal recessive (chromosome 2, NPHP1); MCKD usually autosomal dominant (now called ADTKD: UMOD/MUC1). Both cause polyuria and polydipsia in >80%, but less than in diabetes insipidus. Triad: thickened, disintegrating tubular basement membrane; tubular atrophy with cysts; interstitial infiltration with fibrosis. 20% of NPH families have extrarenal features (e.g., retinitis pigmentosa). Case: biopsy with interstitial nephritis-fibrosis, atrophic tubules and glomerular microcysts in a child = NPH; follow closely for hypertension and declining renal function."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a12",
+"c039-r15",
+"c039-a32"
+]
+},
+{
+"f": "mcq",
+"t": "Timing of TB surgery",
+"q": "Which intervention in GU TB should NOT wait 4–6 weeks after starting therapy?",
+"o": [
+"Nephrectomy of a non-functioning kidney",
+"Augmentation cystoplasty for small bladder",
+"Nephrostomy for obstructive renal failure",
+"Ureteric reimplant for a distal stricture"
+],
+"a": 2,
+"e": [
+"Surgery relieves obstruction, drains infected material, removes nonworking infected kidneys resisting cure, treats resistant hypertension from an excluded kidney, or reconstructs the tract. Elective surgery waits 4–6 weeks so inflammation subsides, bacillary load falls and lesions stabilise; only drainage of obstruction in acute renal failure is emergent. Relapse occurs in up to 22%, so follow-up is needed."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a09",
+"c060-r11",
+"c060-r12",
+"c060-r13"
+]
+},
+{
+"f": "mcq",
+"t": "VLPP and innervation",
+"q": "Which statement is TRUE?",
+"o": [
+"VLPP below 60 cmH2O suggests ISD",
+"Onuf nucleus lies in thoracic cord",
+"Pudendal firing increases on voiding",
+"The hypogastric nerve drives voiding"
+],
+"a": 0,
+"e": [
+"A Valsalva leak point pressure (VLPP) <60 cmH2O indicates, but does not confirm, intrinsic sphincter deficiency (ISD). During bladder contraction, parasympathetic outflow via the pelvic nerve is active; sympathetic (hypogastric) and pudendal outflow to the external sphincter are suppressed. Pudendal motor neurons come from Onuf nucleus in the sacral cord. A-delta afferents are active during storage, in the spinal reflex that closes the bladder neck."
+],
+"s": "Ch 115 Incontinence and prolapse: epidemiology",
+"c": [
+"c115-r05",
+"c115-a09"
+]
+},
+{
+"f": "mcq",
+"t": "Penile fracture",
+"q": "A man has penile fracture with blood at the meatus. Before repair, obtain:",
+"o": [
+"A contrast CT of pelvis",
+"A cavernosogram study",
+"A retrograde urethrography",
+"A penile duplex Doppler scan"
+],
+"a": 2,
+"e": [
+"Urethral bleeding is suspected with blood at the meatus and/or initial haematuria; possible traumatic urethral injury calls for retrograde urethrography. Conservative care of a fracture risks untreated urethral and corporal injury, with stricture and erectile dysfunction."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-a10",
+"c016-r17",
+"c016-r18"
+]
+},
+{
+"f": "mcq",
+"t": "Simple cysts",
+"q": "Which is NOT an ultrasound criterion of a simple renal cyst?",
+"o": [
+"A spherical or slightly ovoid shape",
+"Strong posterior acoustic enhancement",
+"There are no internal echoes seen",
+"A wall up to 3 mm thick is accepted"
+],
+"a": 3,
+"e": [
+"US criteria: no internal echoes; sharply defined thin smooth wall; good sound transmission with posterior enhancement; spherical/ovoid shape. CT: sharp thin smooth wall, spherical/ovoid, homogeneous content. Cysts increase with age: about 20% by 40 and about 33% after 60 on CT. Fetal renal cysts mostly resolve before birth (25 of 28; one persisting cyst was an early MCDK). Renal sinus cysts are mostly lymphatic in origin."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a30",
+"c039-a19",
+"c039-a18",
+"c039-a17"
+]
+},
+{
+"f": "mcq",
+"t": "Schistosome pathology",
+"q": "Which statement about schistosomiasis is TRUE?",
+"o": [
+"Katayama fever is the late chronic stage",
+"About 1 billion have active S. haematobium",
+"Tissue damage is mainly a reaction to eggs",
+"Adult worms cause most of the tissue injury"
+],
+"a": 2,
+"e": [
+"About 1 billion people live at risk; about 112 million are actively infected with S. haematobium. Pathology is driven by the host immune response to eggs; worms, schistosomules and cercariae are much less immunogenic. Katayama fever is the acute syndrome, named after a valley in Japan once endemic for S. japonicum."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a13",
+"c060-a14",
+"c060-a15"
+]
+},
+{
+"f": "mcq",
+"t": "POP-Q points",
+"q": "Which statement about POP-Q (pelvic organ prolapse quantification) is FALSE?",
+"o": [
+"C marks the cervix or vaginal cuff",
+"Ba may exceed +3 in advanced prolapse",
+"Aa lies 3 cm inside the hymen at rest",
+"Ap can reach +4 in severe prolapse"
+],
+"a": 3,
+"e": [
+"Points are measured in cm from the hymen. Aa and Ap are fixed 3 cm from the hymen on the anterior and posterior walls, so they range only from −3 to +3. Ba and Bp are the leading edges of the anterior and posterior walls and can exceed +3. C is the cervix or cuff after hysterectomy. Of prolapse symptoms, only a vaginal bulge is consistently associated with POP; pressure and pain have other causes."
+],
+"s": "Ch 115 Incontinence and prolapse: epidemiology",
+"c": [
+"c115-a06",
+"c115-r13",
+"c115-a05"
+]
+},
+{
+"f": "mcq",
+"t": "Post-biopsy bleeding",
+"q": "Which statement about haematuria evaluation is FALSE?",
+"o": [
+"Angiography suits bleeding after a biopsy",
+"Proteinuria favours a medical renal cause",
+"Red cell casts point to glomerular disease",
+"Dysmorphic RBCs suggest a urologic source"
+],
+"a": 3,
+"e": [
+"RBC casts, dysmorphic RBCs and proteinuria suggest glomerular or tubulointerstitial disease. GH after a recent renal procedure (biopsy, PCNL, partial nephrectomy) suggests an arteriovenous malformation or fistula: urgent renal angiography diagnoses and treats it (coiling or embolisation). Irrigation does not address the cause, non-contrast CT misses the vascular anatomy, and exploration risks renal loss (reserved for angiographic failure)."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-a11",
+"c016-r20",
+"c016-r19"
+]
+},
+{
+"f": "mcq",
+"t": "Multilocular cysts",
+"q": "Which statement about multilocular cystic renal lesions is TRUE?",
+"o": [
+"Adult multilocular lesions can be observed",
+"Cystic nephroma implies a benign neoplasm",
+"They present mostly between 4 and 30 years",
+"Cystic Wilms is the benign end of spectrum"
+],
+"a": 1,
+"e": [
+"Some prefer cystic nephroma for the benign multilocular cyst (benign but neoplastic). Spectrum: benign multilocular cyst, then multilocular cyst with Wilms nodules, then cystic Wilms tumour (malignant). Adults may have multilocular cystic RCC, so these lesions should be removed. Presentation is bimodal: before 4 years (2× male) or after 30 (8× female); only 5% between 4 and 30."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a25",
+"c039-r07",
+"c039-r08",
+"c039-a11"
+]
+},
+{
+"f": "mcq",
+"t": "Filarial epidemiology",
+"q": "Which statement about filarial infections is FALSE?",
+"o": [
+"W. bancrofti causes 90% of human LF",
+"Brief visitors often get chronic LF",
+"99% of onchocerciasis is sub-Saharan",
+"Most infected people stay asymptomatic"
+],
+"a": 1,
+"e": [
+"Lymphatic filariasis (LF) transmission is inefficient and needs many infective bites, so chronic LF is seen in long-term residents of endemic areas, rarely in visitors. Wuchereria bancrofti accounts for 90% of LF; most infected people remain asymptomatic. Onchocerciasis: 99% in sub-Saharan Africa, also Latin America and the Middle East."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a21",
+"c060-r18",
+"c060-a23",
+"c060-a22"
+]
+},
+{
+"f": "mcq",
+"t": "Bosniak",
+"q": "A 4 cm non-enhancing hyperdense cyst, mostly intrarenal (<25% of wall visible), is Bosniak:",
+"o": [
+"Category IIF",
+"Category IV",
+"Category III",
+"Category II"
+],
+"a": 0,
+"e": [
+"Book: I simple, imperceptible wall, ~0% malignant, no work-up. II few hairline septa or fine calcification, non-enhancing hyperdense lesion <3 cm, ~0%. IIF more septa, minimally thickened wall or septa with perceived (not measurable) enhancement, nodular/thick calcification, or hyperdense cyst >3 cm mostly intrarenal; needs follow-up imaging. III thick or irregular enhancing walls or septa (about half malignant); IV enhancing soft-tissue components (mostly malignant). Update: Bosniak v2019 adds MRI, defines thickness (thin ≤2 mm, minimally thickened 3 mm, thick ≥4 mm) and drops calcification as a criterion."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a28"
+]
+},
+{
+"f": "mcq",
+"t": "Ethambutol",
+"q": "Which first-line antituberculous drug is rarely hepatotoxic?",
+"o": [
+"Rifampicin",
+"Pyrazinamide",
+"Isoniazid",
+"Ethambutol"
+],
+"a": 3,
+"e": [
+"Ethambutol's main toxicity is ocular: reduced acuity and red-green colour blindness. Streptomycin is not hepatotoxic but is not first line in the US. Therapy starts with isoniazid, rifampicin, pyrazinamide and ethambutol: combination first-line drugs give the best cure in the shortest time (standard 2HRZE/4HR, 6 months). Give pyridoxine with isoniazid."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a07",
+"c060-r10"
+]
+},
+{
+"f": "mcq",
+"t": "POP-Q stage",
+"q": "On POP-Q, the leading edge of a woman's prolapse is Bp +1, with all other points less advanced. Her stage is:",
+"o": [
+"Stage 1",
+"Stage 3",
+"Stage 2",
+"Stage 4"
+],
+"a": 2,
+"e": [
+"Stage is set by the leading edge (the highest value of Aa, Ba, Ap, Bp, C). Stage 1: leading edge >1 cm above the hymen. Stage 2: within 1 cm above or below. Stage 3: >1 cm beyond the hymen but not complete eversion. Stage 4: complete eversion. Book case: Ap and Bp beyond the hymen with C at the hymen means posterior plus apical prolapse, so counsel for both a posterior repair (colporrhaphy) and an apical repair (e.g., sacrospinous fixation)."
+],
+"s": "Ch 115 Incontinence and prolapse: epidemiology",
+"c": [
+"c115-a07",
+"c115-r14",
+"c115-a08"
+]
+},
+{
+"f": "mcq",
+"t": "Vas and dysplasia",
+"q": "Which statement is FALSE?",
+"o": [
+"Unilateral absent vas may mean absent kidney",
+"Potter facies includes a recessive chin",
+"Sponge kidney causes hypocalciuria",
+"Dysplasia contains primitive mesenchyme"
+],
+"a": 2,
+"e": [
+"Medullary sponge kidney: dilated collecting ducts, hypercalciuria (one-third), hypocitraturia and stones. Potter facies: hypertelorism, prominent inner canthal folds, recessive chin. Dysplasia: embryonic immature mesenchyme and primitive renal elements, often with ureteric bud abnormality and/or obstruction. Congenital bilateral absence of the vas goes with cystic fibrosis; unilateral absence may mean ipsilateral renal agenesis."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-r09",
+"c039-r13",
+"c039-r01",
+"c039-r02",
+"c039-r10"
+]
+},
+{
+"f": "mcq",
+"t": "Gross haematuria on warfarin",
+"q": "A 62-year-old on warfarin (INR in range) has painless gross haematuria. The correct approach is:",
+"o": [
+"Cytology, cystoscopy and CT urogram",
+"Renal ultrasound only; cause is known",
+"Stop warfarin and repeat urinalysis",
+"Cystoscopy only if bleeding recurs"
+],
+"a": 0,
+"e": [
+"GH without trauma or a culture-proven UTI needs cytology, cystoscopy and upper tract imaging, preferably CT urogram. Anticoagulated patients get the full evaluation: the prevalence of haematuria and of GU cancer is no different from those not on anticoagulants."
+],
+"s": "Ch 16 Hematuria",
+"c": [
+"c016-a05"
+]
+},
+{
+"f": "mcq",
+"t": "Schistosomal bladder",
+"q": "Which statement about urinary schistosomiasis is FALSE?",
+"o": [
+"The bladder outline may be calcified",
+"Sandy patches mark submucosal egg deposits",
+"Its bladder cancer is mostly urothelial",
+"Ureteric strictures are usually distal"
+],
+"a": 2,
+"e": [
+"Schistosomiasis causes inflammatory polyps, sandy patches (submucosal eggs), calcification of the whole bladder outline, distal ureteral strictures with hydronephrosis, golf-hole ureteric orifices, ulcers that may bleed, and goblet-cell metaplasia. Its bladder cancer is mostly squamous cell carcinoma, usually well differentiated or verrucous, with a fairly good prognosis (book); with egg control, urothelial cancer has become relatively commoner in Egypt. Ureteric lesions are reconstructed with less morbid options than autotransplantation (kept for multiple/large renal tumours)."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-r16",
+"c060-r17",
+"c060-a18"
+]
+},
+{
+"f": "mcq",
+"t": "Filarial treatment",
+"q": "Which statement about filariasis is FALSE?",
+"o": [
+"Scrotal and penile lymphoedema may occur",
+"DEC is safe in onchocerciasis and loiasis",
+"Obstruction follows repeated reinfection",
+"W. bancrofti causes chyluria and hydrocele"
+],
+"a": 1,
+"e": [
+"Diethylcarbamazine (DEC) can cause blindness in onchocerciasis (inflammation around parasites in the anterior chamber) and encephalopathy in heavy Loa loa microfilaraemia. Obstructive lymphatic disease follows multiple reinfections. W. bancrofti causes chyluria, filarial hydrocele and occasionally extensive scrotal/penile lymphoedema. Wolbachia endosymbionts of W. bancrofti, Brugia and O. volvulus aid embryogenesis; killing them with doxycycline reduces microfilaria release and larval moulting."
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-a24",
+"c060-r19",
+"c060-r20",
+"c060-a20"
+]
+},
+{
+"f": "mcq",
+"t": "VHL management",
+"q": "A 32-year-old with VHL disease has a 3.5 cm upper pole tumour in each kidney. Best option:",
+"o": [
+"Bilateral radical nephrectomy, dialysis",
+"Bilateral partial nephrectomy",
+"Observe until each tumour reaches 7 cm",
+"Systemic sunitinib as the first treatment"
+],
+"a": 1,
+"e": [
+"VHL tumours are multiple, bilateral and recurrent: close surveillance and few procedures. The goal is cancer control (not cure) and preservation of parenchyma; microscopic disease is probably left behind. Nephron-sparing surgery is standard for low-grade RCC; high-grade disease may need bilateral nephrectomy. Common practice (NCI): intervene when the largest solid tumour reaches 3 cm. Recent: belzutifan (HIF-2α inhibitor, FDA 2021) shrinks VHL-associated RCC."
+],
+"s": "Ch 39 Renal dysgenesis and cystic disease",
+"c": [
+"c039-a31"
+]
+},
+{
+"f": "mcq",
+"t": "Hydatid",
+"q": "Which statement about renal hydatid (Echinococcus) cysts is TRUE?",
+"o": [
+"Rupture produces no systemic reaction",
+"Percutaneous puncture is entirely safe",
+"They are caused by Taenia solium larvae",
+"Spillage may cause anaphylaxis"
+],
+"a": 3,
+"e": [
+"Echinococcosis (usually E. granulosus) can form renal cysts; rupture or spillage during removal can cause anaphylaxis, so avoid spillage and protect the field. (The next book outline items are chapter 61, immunology, and chapter 62, molecular genetics.)"
+],
+"s": "Ch 60 TB and parasitic infections",
+"c": [
+"c060-r21",
+"c060-r22",
+"c060-r23"
+]
+}
+]
