@@ -16,7 +16,7 @@ def starts(lines):
         num = int(''.join(g for g in m.groups() if g))
         nxt = [x.strip() for x in lines[i+1:i+12] if x.strip()]
         if nxt and nxt[0][0].isupper() and not re.match(r'^[a-e]\.', nxt[0]) and len(nxt[0]) >= 6 \
-           and any(x.lower().startswith('keyword') for x in nxt):
+           and any(x.lower().replace(' ','').startswith('keyword') for x in nxt):
             out.append((i, num))
     return out
 

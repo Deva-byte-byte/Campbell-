@@ -76,6 +76,13 @@
 | 130 | Bladder and Female Urethral Diverticula | 25 | 16 | 14 |
 | 131 | Surgical Procedures for Sphincteric Incontinence in the Male | 15 | 23 | 13 |
 | 132 | Bladder Surgery for Benign Disease | 10 | 26 | 13 |
+| 133 | Genital and Lower Urinary Tract Trauma | 15 | 13 | 10 |
+| 134 | Special Urologic Considerations in Transgender Individuals | 11 | 7 | 6 |
+| 135 | Tumors of the Bladder | 43 | 30 | 26 |
+| 136 | Management Strategies for Non–Muscle-Invasive Bladder Cancer | 23 | 31 | 19 |
+| 137 | Management of Muscle-Invasive and Metastatic Bladder Cancer | 10 | 23 | 12 |
+| 138 | Surgical Management of Bladder Cancer | 12 | 18 | 10 |
+| 139 | Use of Intestinal Segments in Urinary Diversion | 28 | 12 | 14 |
 | 140 | Cutaneous Continent Urinary Diversion | 47 | 16 | 22 |
 | 141 | Orthotopic Urinary Diversion | 23 | 34 | 20 |
 | 143 | Development, Molecular Biology, and Physiology of the Prostate | 15 | 21 | 13 |
@@ -99,6 +106,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 93. **In MCQ scope (15+):** 79 chapters, 1531 book Qs, 1611 review points, about 1100 MCQs for full coverage.
+**Chapters held:** 100. **In MCQ scope (15+):** 86 chapters, 1673 book Qs, 1745 review points, about 1196 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 80–104, 110–116, 121–129, 133–139, 142 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 80–104, 110–116, 121–129, 142 (and anything after 162).
