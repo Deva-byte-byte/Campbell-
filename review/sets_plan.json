@@ -1,0 +1,438 @@
+[
+ {
+  "set": 1,
+  "chapters": [
+   15,
+   62,
+   156
+  ],
+  "items": 148,
+  "status": "done",
+  "url": "https://claude.ai/artifact/REwG9mJUsCMpvdgM547sBJ"
+ },
+ {
+  "set": 2,
+  "chapters": [
+   16,
+   39,
+   60,
+   115
+  ],
+  "items": 148,
+  "status": "todo"
+ },
+ {
+  "set": 3,
+  "chapters": [
+   17,
+   23,
+   101,
+   129
+  ],
+  "items": 140,
+  "status": "todo"
+ },
+ {
+  "set": 4,
+  "chapters": [
+   18,
+   37,
+   65,
+   127
+  ],
+  "items": 143,
+  "status": "todo"
+ },
+ {
+  "set": 5,
+  "chapters": [
+   19,
+   21,
+   142,
+   148
+  ],
+  "items": 142,
+  "status": "todo"
+ },
+ {
+  "set": 6,
+  "chapters": [
+   20,
+   88,
+   111,
+   155
+  ],
+  "items": 148,
+  "status": "todo"
+ },
+ {
+  "set": 7,
+  "chapters": [
+   22,
+   69,
+   75,
+   147
+  ],
+  "items": 141,
+  "status": "todo"
+ },
+ {
+  "set": 8,
+  "chapters": [
+   24,
+   77,
+   130,
+   138
+  ],
+  "items": 150,
+  "status": "todo"
+ },
+ {
+  "set": 9,
+  "chapters": [
+   25,
+   96,
+   114,
+   159
+  ],
+  "items": 147,
+  "status": "todo"
+ },
+ {
+  "set": 10,
+  "chapters": [
+   26,
+   107,
+   139,
+   145
+  ],
+  "items": 148,
+  "status": "todo"
+ },
+ {
+  "set": 11,
+  "chapters": [
+   27,
+   93,
+   120,
+   134
+  ],
+  "items": 144,
+  "status": "todo"
+ },
+ {
+  "set": 12,
+  "chapters": [
+   28,
+   105,
+   112,
+   141
+  ],
+  "items": 143,
+  "status": "todo"
+ },
+ {
+  "set": 13,
+  "chapters": [
+   29,
+   72,
+   95
+  ],
+  "items": 132,
+  "status": "todo"
+ },
+ {
+  "set": 14,
+  "chapters": [
+   30,
+   56,
+   100,
+   124
+  ],
+  "items": 143,
+  "status": "todo"
+ },
+ {
+  "set": 15,
+  "chapters": [
+   31,
+   84,
+   161
+  ],
+  "items": 133,
+  "status": "todo"
+ },
+ {
+  "set": 16,
+  "chapters": [
+   32,
+   59,
+   103,
+   150
+  ],
+  "items": 143,
+  "status": "todo"
+ },
+ {
+  "set": 17,
+  "chapters": [
+   33,
+   67,
+   99,
+   122
+  ],
+  "items": 144,
+  "status": "todo"
+ },
+ {
+  "set": 18,
+  "chapters": [
+   34,
+   80,
+   89,
+   119
+  ],
+  "items": 144,
+  "status": "todo"
+ },
+ {
+  "set": 19,
+  "chapters": [
+   35,
+   66,
+   90,
+   151
+  ],
+  "items": 153,
+  "status": "todo"
+ },
+ {
+  "set": 20,
+  "chapters": [
+   36,
+   64,
+   82
+  ],
+  "items": 128,
+  "status": "todo"
+ },
+ {
+  "set": 21,
+  "chapters": [
+   38,
+   125,
+   133,
+   154
+  ],
+  "items": 144,
+  "status": "todo"
+ },
+ {
+  "set": 22,
+  "chapters": [
+   40,
+   106,
+   143
+  ],
+  "items": 133,
+  "status": "todo"
+ },
+ {
+  "set": 23,
+  "chapters": [
+   41,
+   81,
+   87,
+   123
+  ],
+  "items": 146,
+  "status": "todo"
+ },
+ {
+  "set": 24,
+  "chapters": [
+   42,
+   85,
+   128,
+   152
+  ],
+  "items": 150,
+  "status": "todo"
+ },
+ {
+  "set": 25,
+  "chapters": [
+   43,
+   78,
+   131,
+   140
+  ],
+  "items": 141,
+  "status": "todo"
+ },
+ {
+  "set": 26,
+  "chapters": [
+   44,
+   109,
+   157
+  ],
+  "items": 133,
+  "status": "todo"
+ },
+ {
+  "set": 27,
+  "chapters": [
+   45,
+   98,
+   137,
+   160
+  ],
+  "items": 140,
+  "status": "todo"
+ },
+ {
+  "set": 28,
+  "chapters": [
+   46,
+   71,
+   92,
+   126
+  ],
+  "items": 144,
+  "status": "todo"
+ },
+ {
+  "set": 29,
+  "chapters": [
+   47,
+   91,
+   108,
+   144
+  ],
+  "items": 154,
+  "status": "todo"
+ },
+ {
+  "set": 30,
+  "chapters": [
+   48,
+   63,
+   83,
+   117
+  ],
+  "items": 143,
+  "status": "todo"
+ },
+ {
+  "set": 31,
+  "chapters": [
+   49,
+   57,
+   73
+  ],
+  "items": 131,
+  "status": "todo"
+ },
+ {
+  "set": 32,
+  "chapters": [
+   50,
+   76,
+   132,
+   149
+  ],
+  "items": 149,
+  "status": "todo"
+ },
+ {
+  "set": 33,
+  "chapters": [
+   51,
+   104,
+   135
+  ],
+  "items": 134,
+  "status": "todo"
+ },
+ {
+  "set": 34,
+  "chapters": [
+   52,
+   74,
+   94,
+   121
+  ],
+  "items": 140,
+  "status": "todo"
+ },
+ {
+  "set": 35,
+  "chapters": [
+   53,
+   86,
+   116
+  ],
+  "items": 129,
+  "status": "todo"
+ },
+ {
+  "set": 36,
+  "chapters": [
+   54,
+   70,
+   113,
+   136
+  ],
+  "items": 140,
+  "status": "todo"
+ },
+ {
+  "set": 37,
+  "chapters": [
+   55,
+   153
+  ],
+  "items": 138,
+  "status": "todo"
+ },
+ {
+  "set": 38,
+  "chapters": [
+   58,
+   118,
+   158
+  ],
+  "items": 133,
+  "status": "todo"
+ },
+ {
+  "set": 39,
+  "chapters": [
+   61,
+   102,
+   110
+  ],
+  "items": 140,
+  "status": "todo"
+ },
+ {
+  "set": 40,
+  "chapters": [
+   68,
+   79,
+   146
+  ],
+  "items": 142,
+  "status": "todo"
+ },
+ {
+  "set": 41,
+  "chapters": [
+   97,
+   162
+  ],
+  "items": 136,
+  "status": "todo"
+ }
+]
