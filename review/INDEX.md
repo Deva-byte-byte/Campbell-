@@ -40,6 +40,9 @@
 | 41 | Ectopic Ureter, Ureterocele, and Ureteral Anomalies | 23 | 19 | 15 |
 | 42 | Surgery of the Ureter in Children: Ureteropelvic Junction, Megaureter, and Vesicoureteral Reflux | 18 | 5 | 8 |
 | 43 | Management of Pediatric Kidney Stone Disease | 10 | 18 | 10 |
+| 44 | Management of Abnormalities of the External Genitalia in Boys | 28 | 41 | 24 |
+| 45 | Hypospadias | 31 | 14 | 16 |
+| 46 | Etiology, Diagnosis, and Management of Undescended Testis | 27 | 16 | 15 |
 | 55 | Infections of the Urinary Tract | 59 | 54 | 40 |
 | 56 | Inflammatory and Pain Conditions of the Male Genitourinary Tract: Prostatitis, Orchitis, Epididymitis | 25 | 35 | 21 |
 | 57 | Interstitial Cystitis/Bladder Pain Syndrome and Related Disorders | 32 | 34 | 23 |
@@ -88,6 +91,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 82. **In MCQ scope (15+):** 68 chapters, 1334 book Qs, 1394 review points, about 955 MCQs for full coverage.
+**Chapters held:** 85. **In MCQ scope (15+):** 71 chapters, 1420 book Qs, 1465 review points, about 1010 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 44–54, 63–74, 80–104, 110–116, 121–129, 133–139, 142 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 47–54, 63–74, 80–104, 110–116, 121–129, 133–139, 142 (and anything after 162).
