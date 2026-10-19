@@ -2,13 +2,12 @@
  {
   "set": 1,
   "chapters": [
-   15,
    62,
    156
   ],
-  "items": 148,
+  "items": 125,
   "status": "done",
-  "url": "https://claude.ai/artifact/REwG9mJUsCMpvdgM547sBJ"
+  "url": "https://claude.ai/artifact/KyuZzvVGKnbJcP7EwXskqd"
  },
  {
   "set": 2,
@@ -25,34 +24,31 @@
  {
   "set": 3,
   "chapters": [
-   17,
    23,
    101,
    129
   ],
-  "items": 140,
+  "items": 127,
   "status": "todo"
  },
  {
   "set": 4,
   "chapters": [
-   18,
    37,
    65,
    127
   ],
-  "items": 143,
+  "items": 127,
   "status": "todo"
  },
  {
   "set": 5,
   "chapters": [
-   19,
    21,
    142,
    148
   ],
-  "items": 142,
+  "items": 127,
   "status": "todo"
  },
  {

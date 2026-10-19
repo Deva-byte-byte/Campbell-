@@ -1,14 +1,16 @@
-# 41 mixed MCQ sets: coverage plan (chapters 15–162)
+# 41 mixed MCQ sets: coverage plan (chapters 20–162; set 2 also covers 16)
 
 Each set mixes chapters from different areas. Every book answer and Chapter Review point (items in `ledger.json`) is assigned to one set and must be covered by a question or explanation there. `tools/coverage.py` checks this.
+General urology chapters 17–19 were removed at the user's request (already solved). Chapter 15 was removed from Set 1 (rebuilt). Set 2 was made before the change and still includes chapter 16.
+
 
 | Set | Chapters | Items | Status |
 |---|---|---|---|
-| 1 | 15 Basic Energy Modalities in Urologic Surgery; 62 Molecular Genetics and Cancer Biology; 156 Laparoscopic and Robotic-Assisted Radical Prostatectomy and Pelvic Lymphadenectomy | 148 | done ([quiz](https://claude.ai/artifact/REwG9mJUsCMpvdgM547sBJ)) |
+| 1 | 62 Molecular Genetics and Cancer Biology; 156 Laparoscopic and Robotic-Assisted Radical Prostatectomy and Pelvic Lymphadenectomy | 125 | done ([quiz](https://claude.ai/artifact/KyuZzvVGKnbJcP7EwXskqd)) |
 | 2 | 16 Evaluation and Management of Hematuria; 39 Renal Dysgenesis and Cystic Disease of the Kidney; 60 Tuberculosis and Parasitic Infections of the Genitourinary Tract; 115 Urinary Incontinence and Pelvic Prolapse: Epidemiology and Pathophysiology | 148 | done ([quiz](https://claude.ai/artifact/8ZpArQr5JbHfA28xu74con)) |
-| 3 | 17 Complications of Urologic Surgery; 23 Urologic Evaluation of the Child; 101 Open Surgery of the Kidney; 129 Urinary Tract Fistulae | 140 | todo |
-| 4 | 18 Urologic Considerations in Pregnancy; 37 Lower Urinary Tract Reconstruction in Children; 65 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome; 127 Additional Therapies for Storage and Emptying Failure | 143 | todo |
-| 5 | 19 Intraoperative Consultation; 21 Urologic Aspects of Pediatric Nephrology; 142 Minimally Invasive Urinary Diversion; 148 Epidemiology, Etiology, and Prevention of Prostate Cancer | 142 | todo |
+| 3 | 23 Urologic Evaluation of the Child; 101 Open Surgery of the Kidney; 129 Urinary Tract Fistulae | 127 | todo |
+| 4 | 37 Lower Urinary Tract Reconstruction in Children; 65 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome; 127 Additional Therapies for Storage and Emptying Failure | 127 | todo |
+| 5 | 21 Urologic Aspects of Pediatric Nephrology; 142 Minimally Invasive Urinary Diversion; 148 Epidemiology, Etiology, and Prevention of Prostate Cancer | 127 | todo |
 | 6 | 20 Embryology of the Human Genitourinary Tract; 88 Urological Complications of Renal Transplantation; 111 Pathophysiology and Classification of Lower Urinary Tract Dysfunction: Overview; 155 Open Radical Prostatectomy | 148 | todo |
 | 7 | 22 Perinatal Urology; 69 Evaluation and Management of Erectile Dysfunction; 75 Surgical, Radiographic, and Endoscopic Anatomy of the Retroperitoneum; 147 Simple Prostatectomy | 141 | todo |
 | 8 | 24 Pediatric Urogenital Imaging; 77 Surgery of Testicular Tumors; 130 Bladder and Female Urethral Diverticula; 138 Surgical Management of Bladder Cancer | 150 | todo |
