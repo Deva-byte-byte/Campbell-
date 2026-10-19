@@ -37,6 +37,9 @@
 | 35 | Functional Disorders of the Lower Urinary Tract in Children | 8 | 14 | 8 |
 | 36 | Management of Defecation Disorders | 20 | 12 | 11 |
 | 37 | Lower Urinary Tract Reconstruction in Children | 40 | 21 | 21 |
+| 38 | Anomalies of the Upper Urinary Tract | 19 | 18 | 13 |
+| 39 | Renal Dysgenesis and Cystic Disease of the Kidney | 32 | 15 | 16 |
+| 40 | Pathophysiology of Urinary Tract Obstruction | 9 | 17 | 9 |
 | 41 | Ectopic Ureter, Ureterocele, and Ureteral Anomalies | 23 | 19 | 15 |
 | 42 | Surgery of the Ureter in Children: Ureteropelvic Junction, Megaureter, and Vesicoureteral Reflux | 18 | 5 | 8 |
 | 43 | Management of Pediatric Kidney Stone Disease | 10 | 18 | 10 |
@@ -160,6 +163,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 154. **In MCQ scope (15+):** 140 chapters, 2765 book Qs, 2675 review points, about 1904 MCQs for full coverage.
+**Chapters held:** 157. **In MCQ scope (15+):** 143 chapters, 2825 book Qs, 2725 review points, about 1942 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40 (and anything after 162).
+**Missing (15 onward):** 25, 31–34 (and anything after 162).
