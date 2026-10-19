@@ -36,7 +36,7 @@
 | 30 | Bladder Anomalies in Children | 14 | 14 | 10 |
 | 35 | Functional Disorders of the Lower Urinary Tract in Children | 8 | 14 | 8 |
 | 36 | Management of Defecation Disorders | 20 | 12 | 11 |
-| 37 | Lower Urinary Tract Reconstruction in Children | 40 | 0 | 14 |
+| 37 | Lower Urinary Tract Reconstruction in Children | 40 | 21 | 21 |
 | 55 | Infections of the Urinary Tract | 59 | 54 | 40 |
 | 56 | Inflammatory and Pain Conditions of the Male Genitourinary Tract: Prostatitis, Orchitis, Epididymitis | 25 | 35 | 21 |
 | 57 | Interstitial Cystitis/Bladder Pain Syndrome and Related Disorders | 32 | 34 | 23 |
@@ -85,6 +85,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 79. **In MCQ scope (15+):** 65 chapters, 1283 book Qs, 1331 review points, about 915 MCQs for full coverage.
+**Chapters held:** 79. **In MCQ scope (15+):** 65 chapters, 1283 book Qs, 1352 review points, about 922 MCQs for full coverage.
 
 **Missing (15 onward):** 25, 31–34, 38–54, 63–74, 80–104, 110–116, 121–129, 133–139, 142 (and anything after 162).
