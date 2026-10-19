@@ -11,6 +11,36 @@
   "title": "Principles of Urologic Surgery: Intraoperative Technical Decisions",
   "w": 1749
  },
+ "100": {
+  "q": 9,
+  "r": 7,
+  "title": "Retroperitoneal Tumors",
+  "w": 1358
+ },
+ "101": {
+  "q": 24,
+  "r": 17,
+  "title": "Open Surgery of the Kidney",
+  "w": 2979
+ },
+ "102": {
+  "q": 20,
+  "r": 4,
+  "title": "Laparoscopic and Robotic Surgery of the Kidney",
+  "w": 2893
+ },
+ "103": {
+  "q": 9,
+  "r": 7,
+  "title": "Nonsurgical Focal Therapy for Renal Tumors",
+  "w": 1619
+ },
+ "104": {
+  "q": 15,
+  "r": 11,
+  "title": "Treatment of Advanced Renal Cell Carcinoma",
+  "w": 2400
+ },
  "105": {
   "q": 8,
   "r": 8,
@@ -808,5 +838,17 @@
   "r": 38,
   "title": "Malignant Renal Tumors",
   "w": 9182
+ },
+ "98": {
+  "q": 14,
+  "r": 35,
+  "title": "Urothelial Tumors of the Upper Urinary Tract and Ureter",
+  "w": 1956
+ },
+ "99": {
+  "q": 6,
+  "r": 12,
+  "title": "Surgical Management of Upper Urinary Tract Urothelial Tumors",
+  "w": 939
  }
 }

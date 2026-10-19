@@ -82,6 +82,13 @@
 | 95 | Lower Urinary Tract Calculi | 22 | 15 | 13 |
 | 96 | Benign Renal Tumors | 13 | 28 | 14 |
 | 97 | Malignant Renal Tumors | 72 | 38 | 38 |
+| 98 | Urothelial Tumors of the Upper Urinary Tract and Ureter | 14 | 35 | 17 |
+| 99 | Surgical Management of Upper Urinary Tract Urothelial Tumors | 6 | 12 | 6 |
+| 100 | Retroperitoneal Tumors | 9 | 7 | 6 |
+| 101 | Open Surgery of the Kidney | 24 | 17 | 14 |
+| 102 | Laparoscopic and Robotic Surgery of the Kidney | 20 | 4 | 8 |
+| 103 | Nonsurgical Focal Therapy for Renal Tumors | 9 | 7 | 6 |
+| 104 | Treatment of Advanced Renal Cell Carcinoma | 15 | 11 | 9 |
 | 105 | Surgical and Radiographic Anatomy of the Adrenals | 8 | 8 | 6 |
 | 106 | Pathophysiology, Evaluation, and Medical Management of Adrenal Disorders | 42 | 29 | 25 |
 | 107 | Surgery of the Adrenal Glands | 12 | 10 | 8 |
@@ -141,6 +148,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 135. **In MCQ scope (15+):** 121 chapters, 2412 book Qs, 2377 review points, about 1676 MCQs for full coverage.
+**Chapters held:** 142. **In MCQ scope (15+):** 128 chapters, 2509 book Qs, 2470 review points, about 1743 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 98–104 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 63–74 (and anything after 162).
