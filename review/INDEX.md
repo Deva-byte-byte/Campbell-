@@ -73,6 +73,11 @@
 | 86 | Renal Physiology and Pathophysiology Including Renovascular Hypertension | 18 | 34 | 18 |
 | 87 | Renal Insufficiency and Ischemic Nephropathy | 26 | 28 | 19 |
 | 88 | Urological Complications of Renal Transplantation | 11 | 11 | 8 |
+| 89 | Management of Upper Urinary Tract Obstruction | 23 | 23 | 16 |
+| 90 | Upper Urinary Tract Trauma | 10 | 27 | 13 |
+| 91 | Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis | 30 | 37 | 23 |
+| 92 | Evaluation and Medical Management of Urinary Lithiasis | 31 | 19 | 18 |
+| 93 | Strategies for Nonmedical Management of Upper Urinary Tract Calculi | 20 | 26 | 16 |
 | 105 | Surgical and Radiographic Anatomy of the Adrenals | 8 | 8 | 6 |
 | 106 | Pathophysiology, Evaluation, and Medical Management of Adrenal Disorders | 42 | 29 | 25 |
 | 107 | Surgery of the Adrenal Glands | 12 | 10 | 8 |
@@ -132,6 +137,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 126. **In MCQ scope (15+):** 112 chapters, 2158 book Qs, 2146 review points, about 1506 MCQs for full coverage.
+**Chapters held:** 131. **In MCQ scope (15+):** 117 chapters, 2272 book Qs, 2278 review points, about 1592 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 89–104 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 94–104 (and anything after 162).

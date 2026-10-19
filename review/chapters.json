@@ -749,10 +749,40 @@
   "title": "Urological Complications of Renal Transplantation",
   "w": 1389
  },
+ "89": {
+  "q": 23,
+  "r": 23,
+  "title": "Management of Upper Urinary Tract Obstruction",
+  "w": 2535
+ },
  "9": {
   "q": 14,
   "r": 15,
   "title": "Principles of Urologic Surgery: Incisions and Access",
   "w": 2062
+ },
+ "90": {
+  "q": 10,
+  "r": 27,
+  "title": "Upper Urinary Tract Trauma",
+  "w": 1572
+ },
+ "91": {
+  "q": 30,
+  "r": 37,
+  "title": "Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis",
+  "w": 3289
+ },
+ "92": {
+  "q": 31,
+  "r": 19,
+  "title": "Evaluation and Medical Management of Urinary Lithiasis",
+  "w": 4620
+ },
+ "93": {
+  "q": 20,
+  "r": 26,
+  "title": "Strategies for Nonmedical Management of Upper Urinary Tract Calculi",
+  "w": 2108
  }
 }
