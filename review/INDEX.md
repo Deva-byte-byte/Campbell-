@@ -78,6 +78,11 @@
 | 122 | Electrical Stimulation and Neuromodulation in Storage and Emptying Failure | 24 | 7 | 11 |
 | 123 | Retropubic Suspension Surgery for Incontinence in Women | 16 | 14 | 10 |
 | 124 | Vaginal and Abdominal Reconstructive Surgery for Pelvic Organ Prolapse | 22 | 17 | 14 |
+| 125 | Slings: Autologous, Biologic, Synthetic, and Midurethral | 45 | 17 | 22 |
+| 126 | Complications Related to the Use of Mesh and Their Repair | 11 | 7 | 6 |
+| 127 | Additional Therapies for Storage and Emptying Failure | 11 | 17 | 10 |
+| 128 | Aging and Geriatric Urology | 15 | 39 | 19 |
+| 129 | Urinary Tract Fistulae | 37 | 18 | 19 |
 | 130 | Bladder and Female Urethral Diverticula | 25 | 16 | 14 |
 | 131 | Surgical Procedures for Sphincteric Incontinence in the Male | 15 | 23 | 13 |
 | 132 | Bladder Surgery for Benign Disease | 10 | 26 | 13 |
@@ -112,6 +117,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 106. **In MCQ scope (15+):** 92 chapters, 1756 book Qs, 1805 review points, about 1246 MCQs for full coverage.
+**Chapters held:** 111. **In MCQ scope (15+):** 97 chapters, 1875 book Qs, 1903 review points, about 1322 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 80–104, 111–116, 125–129 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 80–104, 111–116 (and anything after 162).
