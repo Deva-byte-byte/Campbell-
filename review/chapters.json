@@ -36,16 +36,22 @@
   "w": 1939
  },
  "109": {
-  "q": 63,
-  "r": 54,
+  "q": 18,
+  "r": 18,
   "title": "Surgical, Radiographic, and Endoscopic Anatomy of the Male Pelvis",
-  "w": 5502
+  "w": 2351
  },
  "11": {
   "q": 11,
   "r": 12,
   "title": "Lower Urinary Tract Catheterization",
   "w": 748
+ },
+ "110": {
+  "q": 45,
+  "r": 36,
+  "title": "Physiology and Pharmacology of the Bladder and Urethra",
+  "w": 3151
  },
  "117": {
   "q": 9,
@@ -160,6 +166,12 @@
   "r": 34,
   "title": "Orthotopic Urinary Diversion",
   "w": 3782
+ },
+ "142": {
+  "q": 12,
+  "r": 18,
+  "title": "Minimally Invasive Urinary Diversion",
+  "w": 2508
  },
  "143": {
   "q": 15,

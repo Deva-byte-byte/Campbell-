@@ -68,7 +68,8 @@
 | 106 | Pathophysiology, Evaluation, and Medical Management of Adrenal Disorders | 42 | 29 | 25 |
 | 107 | Surgery of the Adrenal Glands | 12 | 10 | 8 |
 | 108 | Surgical, Radiographic, and Endoscopic Anatomy of the Female Pelvis | 20 | 7 | 9 |
-| 109 | Surgical, Radiographic, and Endoscopic Anatomy of the Male Pelvis | 63 | 54 | 41 |
+| 109 | Surgical, Radiographic, and Endoscopic Anatomy of the Male Pelvis | 18 | 18 | 13 |
+| 110 | Physiology and Pharmacology of the Bladder and Urethra | 45 | 36 | 28 |
 | 117 | Overactive Bladder | 9 | 8 | 6 |
 | 118 | The Underactive Detrusor | 21 | 15 | 13 |
 | 119 | Nocturia | 11 | 7 | 6 |
@@ -85,6 +86,7 @@
 | 139 | Use of Intestinal Segments in Urinary Diversion | 28 | 12 | 14 |
 | 140 | Cutaneous Continent Urinary Diversion | 47 | 16 | 22 |
 | 141 | Orthotopic Urinary Diversion | 23 | 34 | 20 |
+| 142 | Minimally Invasive Urinary Diversion | 12 | 18 | 10 |
 | 143 | Development, Molecular Biology, and Physiology of the Prostate | 15 | 21 | 13 |
 | 144 | Benign Prostatic Hyperplasia | 14 | 23 | 13 |
 | 145 | Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia | 40 | 18 | 20 |
@@ -106,6 +108,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 100. **In MCQ scope (15+):** 86 chapters, 1673 book Qs, 1745 review points, about 1196 MCQs for full coverage.
+**Chapters held:** 102. **In MCQ scope (15+):** 88 chapters, 1685 book Qs, 1763 review points, about 1207 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 80–104, 110–116, 121–129, 142 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 80–104, 111–116, 121–129 (and anything after 162).
