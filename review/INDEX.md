@@ -49,6 +49,8 @@
 | 50 | Adolescent and Transitional Urology | 6 | 10 | 6 |
 | 51 | Urologic Considerations in Pediatric Renal Transplantation | 9 | 26 | 12 |
 | 52 | Pediatric Genitourinary Trauma | 15 | 28 | 15 |
+| 53 | Pediatric Urologic Oncology: Renal and Adrenal | 26 | 8 | 12 |
+| 54 | Pediatric Urologic Oncology: Bladder and Testis | 13 | 18 | 11 |
 | 55 | Infections of the Urinary Tract | 59 | 54 | 40 |
 | 56 | Inflammatory and Pain Conditions of the Male Genitourinary Tract: Prostatitis, Orchitis, Epididymitis | 25 | 35 | 21 |
 | 57 | Interstitial Cystitis/Bladder Pain Syndrome and Related Disorders | 32 | 34 | 23 |
@@ -97,6 +99,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 91. **In MCQ scope (15+):** 77 chapters, 1492 book Qs, 1585 review points, about 1077 MCQs for full coverage.
+**Chapters held:** 93. **In MCQ scope (15+):** 79 chapters, 1531 book Qs, 1611 review points, about 1100 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 53–54, 63–74, 80–104, 110–116, 121–129, 133–139, 142 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 80–104, 110–116, 121–129, 133–139, 142 (and anything after 162).
