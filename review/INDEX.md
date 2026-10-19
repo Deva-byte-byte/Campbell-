@@ -64,6 +64,13 @@
 | 65 | Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome | 14 | 24 | 13 |
 | 66 | Male Infertility | 38 | 28 | 23 |
 | 67 | Surgical Management of Male Infertility | 36 | 13 | 17 |
+| 68 | Physiology of Penile Erection and Pathophysiology of Erectile Dysfunction | 17 | 18 | 12 |
+| 69 | Evaluation and Management of Erectile Dysfunction | 16 | 15 | 11 |
+| 70 | Priapism | 25 | 17 | 15 |
+| 71 | Disorders of Male Orgasm and Ejaculation | 15 | 18 | 12 |
+| 72 | Surgery for Erectile Dysfunction | 9 | 17 | 9 |
+| 73 | Diagnosis and Management of Peyronie’s Disease | 22 | 15 | 13 |
+| 74 | Sexual Function and Dysfunction in the Female | 25 | 8 | 12 |
 | 75 | Surgical, Radiographic, and Endoscopic Anatomy of the Retroperitoneum | 19 | 22 | 14 |
 | 76 | Neoplasms of the Testis | 35 | 35 | 24 |
 | 77 | Surgery of Testicular Tumors | 24 | 32 | 20 |
@@ -153,6 +160,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 147. **In MCQ scope (15+):** 133 chapters, 2636 book Qs, 2567 review points, about 1821 MCQs for full coverage.
+**Chapters held:** 154. **In MCQ scope (15+):** 140 chapters, 2765 book Qs, 2675 review points, about 1904 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 68–74 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40 (and anything after 162).
