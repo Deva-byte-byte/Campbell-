@@ -1,1066 +1,1456 @@
 [
 {
 "f": "mcq",
-"t": "Prostatectomy anastomosis",
-"q": "Which statement about the vesicourethral anastomosis in RALP is TRUE?",
+"t": "Kidney development",
+"q": "Which statement about kidney development is FALSE?",
 "o": [
-"A watertight seal is never achievable",
-"It must be done with interrupted sutures",
-"A running suture needs just one knot",
-"Bladder neck stricture rates have risen"
+"Nephrons come from mesenchyme, ducts from bud",
+"All three kidneys come from intermediate mesoderm",
+"Nephrogenesis goes on for two years after birth",
+"The oldest nephrons lie deep, near the medulla"
 ],
 "a": 2,
 "e": [
-"Interrupted or running closure both work; running continuous suture is most efficient. Bladder neck reconstruction may be needed for size mismatch (prior TURP, median lobe, large gland). Bladder neck stricture is much reduced with the robotic anastomosis (<5%). A non-watertight anastomosis can leak and needs longer catheterisation."
+"Kidneys appear in order: pronephros, mesonephros, metanephros; the first two regress; all come from intermediate mesoderm. The metanephros forms in the sacral region when the ureteric bud sprouts from the distal nephric duct and meets metanephric mesenchyme (book: about 4 weeks). Glomerulus, proximal tubule, loop of Henle and distal tubule come from metanephric mesenchyme; collecting ducts, calyces, pelvis and ureter from the bud. Older, more mature nephrons are inner (juxtamedullary). Nephrogenesis is completed before birth; maturation continues postnatally."
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 20 Embryology",
 "c": [
-"c156-a01",
-"c156-r12",
-"c156-r13"
+"c020-a01",
+"c020-r17",
+"c020-a02",
+"c020-a03",
+"c020-r18",
+"c020-r01",
+"c020-r02"
 ]
 },
 {
 "f": "mcq",
-"t": "DNA structure",
-"q": "Which statement about DNA is FALSE?",
+"t": "Fetal obstruction",
+"q": "Which statement contrasting congenital with acquired obstruction is FALSE?",
 "o": [
-"A purine always pairs with a pyrimidine",
-"G–C pairs have three hydrogen bonds",
-"The sugar–phosphate chain is the backbone",
-"Its sugar is ribose, the same as in RNA"
+"Only congenital obstruction alters glomeruli",
+"Acquired obstruction shows lymphocyte infiltrate",
+"The developing kidney may never fully recover",
+"Congenital obstruction shows heavy inflammation"
 ],
 "a": 3,
 "e": [
-"DNA uses 2-deoxyribose; RNA uses ribose (and uracil). A–T has two hydrogen bonds, G–C three, so A–T is weaker. The two complementary strands form a helix held by hydrogen bonds."
+"Congenital obstruction lacks a significant inflammatory infiltrate unless infected; postnatal acquired obstruction commonly shows interstitial lymphocytes. Only congenital obstruction alters glomerular development; acquired obstruction can only damage an established pattern. Key features of congenital obstruction: altered growth regulation, differentiation and functional integration (with interstitial fibrosis, tubular hypotrophy, more epithelial–mesenchymal transformation). Effects in the developing kidney may be irreversible."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 40 Obstruction pathophysiology",
 "c": [
-"c062-a01",
-"c062-a02"
+"c040-a01",
+"c040-a07",
+"c040-a09",
+"c040-r15",
+"c040-r17",
+"c040-r11"
 ]
 },
 {
 "f": "mcq",
-"t": "Approach and margins",
-"q": "Which statement about LRP/RALP is TRUE?",
+"t": "Steroids in skin disease",
+"q": "Which statement about corticosteroids in genital dermatology is FALSE?",
 "o": [
-"Transperitoneal access gives fewer margins",
-"Margins fall as surgeon experience grows",
-"Margins are unrelated to centre volume",
-"Extraperitoneal access gives fewer margins"
+"Oral steroid effects last 8 to 48 hours",
+"Split daily doses limit adrenal suppression",
+"Peak blood levels occur 30–90 min after a dose",
+"Topical steroids can be absorbed systemically"
 ],
 "a": 1,
 "e": [
-"No definitive margin advantage for transperitoneal versus extraperitoneal approach; choice is by surgeon preference. Margin-negative outcomes are better in high-volume centres. Oncological outcomes are equivalent between robotic and open surgery."
+"For short courses (≤3 weeks, e.g., allergic contact dermatitis) give a single morning dose to minimise hypothalamic-pituitary-adrenal suppression. Oral steroids are absorbed in the jejunum, peak at 30–90 min, have plasma half-lives of 1–5 h but act for 8–48 h. Topical steroids can be absorbed with systemic effects. Periodic acid–Schiff (PAS) staining of skin scrapings identifies fungi such as Candida and dermatophytes."
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 59 Genital skin diseases",
 "c": [
-"c156-a02",
-"c156-a04",
-"c156-r04"
+"c059-a01",
+"c059-a02",
+"c059-a03",
+"c059-r01"
 ]
 },
 {
 "f": "mcq",
-"t": "RB1 and E2F",
-"q": "Phosphorylation of RB1 by cyclin–cdk complexes leads to:",
+"t": "UPJ diagnosis",
+"q": "Which statement about diagnosing ureteropelvic junction (UPJ) obstruction is FALSE?",
 "o": [
-"Arrest of the cell at the G2/M boundary",
-"Direct caspase 9 activation and apoptosis",
-"Release of E2F to switch on S-phase genes",
-"Tighter E2F binding that blocks replication"
+"Most new cases follow antenatal scans",
+"Diuretic renography quantifies drainage",
+"MCDK cysts connect with one another",
+"Whitaker perfusion runs at 10 mL per min"
 ],
 "a": 2,
 "e": [
-"Phosphorylation changes protein shape and is a key regulatory switch. Cyclin–cdk complexes phosphorylate RB1 (and p107, p130); phosphorylated RB1 can no longer bind E2F. Free E2F pairs with DP1/DP2 and activates DNA replication genes (e.g., DNA polymerase), so the G1→S transition depends on RB1 phosphorylation. RB1 mutations are common in urologic cancers."
+"Maternal ultrasonography detects most asymptomatic newborn hydronephrosis. Diuretic renography assesses drainage and function; US, CT and retrograde pyelography are only anatomical. Whitaker test (via nephrostomy, 10 mL/min): <15 cmH2O non-obstructed, >22 cmH2O obstructed, between = indeterminate; ideal when a nephrostomy is already in place. On US, hydronephrotic 'cysts' connect; MCDK cysts are separate."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 89 Upper tract obstruction",
 "c": [
-"c062-a18",
-"c062-r07"
+"c089-a01",
+"c089-a02",
+"c089-a03",
+"c089-r05",
+"c089-r04"
 ]
 },
 {
 "f": "mcq",
-"t": "Gene expression",
-"q": "Which statement is TRUE?",
+"t": "SNM indications",
+"q": "Which statement about sacral neuromodulation (SNM) is FALSE?",
 "o": [
-"Protein synthesis is confined to nucleus",
-"Transcription makes mRNA in the nucleus",
-"Translation turns DNA into linear RNA",
-"Transcription factors bind mRNA sequences"
+"Mild MS with no MRI needs may suit it",
+"It is approved for neurogenic bladder",
+"Atonic diabetic bladders respond poorly",
+"Use in children is limited by growth data"
 ],
 "a": 1,
 "e": [
-"mRNA bridges the nucleus (DNA) and the cytoplasm (protein synthesis by translation). Transcription is regulated by DNA response elements in promoters or enhancers that bind nuclear proteins; shared consensus sequences coordinate genes. Alternative splicing includes or excludes exons, making several isoforms from one gene in a tightly regulated way. Book: the nuclear matrix is the site of mRNA transcription."
+"SNM is an established third-line option for idiopathic bladder dysfunction: FDA-approved for idiopathic OAB and nonobstructive retention (also faecal incontinence), not for bladder pain/interstitial cystitis or neurogenic bladder (IC benefit reported; may expand). The end organ must work: an areflexic diabetic bladder with retention responds poorly. Best MS candidate: mild symptoms, good mobility, no future MRI need. Children: off-label; limited by lack of data on spinal growth and lead position; noninvasive therapies need repeated sessions."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 122 Neuromodulation",
 "c": [
-"c062-a03",
-"c062-a04",
-"c062-a05",
-"c062-a06"
+"c122-a01",
+"c122-a02",
+"c122-a07",
+"c122-a09",
+"c122-r07"
 ]
 },
 {
 "f": "mcq",
-"t": "Bleeding in RALP",
-"q": "Why is blood loss usually low in laparoscopic/robotic prostatectomy?",
+"t": "Arterial anatomy",
+"q": "Which statement about arterial anatomy at radical prostatectomy is FALSE?",
 "o": [
-"The dorsal vein complex is never divided",
-"Thermal energy seals every vessel used",
-"Gas pressure tamponades venous bleeding",
-"Arteries are clipped before any dissection"
+"Capsular vessels mark the cavernous nerves",
+"Aberrant pudendals may arise from obturator",
+"Accessory pudendal arteries are best divided",
+"The inferior vesical artery feeds the prostate"
 ],
 "a": 2,
 "e": [
-"Most blood loss at radical prostatectomy is venous; pneumoperitoneum pressure reduces it. Blood loss is usually a few hundred mL and transfusion should be under 2%."
+"The prostate is supplied by the inferior vesical artery. Capsular arteries and veins run posterolaterally in the lateral pelvic fascia, wrapped in nerves: the macroscopic landmark for the cavernous nerves. The corpora are mainly supplied by the internal pudendal artery, but aberrant/accessory pudendals can arise from obturator, inferior vesical or superior vesical arteries; they run on the anterolateral prostate and should be preserved, especially in older men with borderline penile flow."
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 155 Open radical prostatectomy",
 "c": [
-"c156-a03",
-"c156-a08"
+"c155-a01",
+"c155-a02",
+"c155-a03",
+"c155-r18",
+"c155-r22"
 ]
 },
 {
 "f": "mcq",
-"t": "Translation and proteins",
+"t": "Renal developmental genes",
+"q": "Which statement about renal developmental genes is TRUE?",
+"o": [
+"GDNF arrests ureteric bud growth in vitro",
+"WT1 mutant mice form normal ureteric buds",
+"p53 knockout mice lack both their kidneys",
+"Pax-2 knockouts form no nephric ducts"
+],
+"a": 3,
+"e": [
+"Pax-2 knockout: no nephric ducts, müllerian ducts, ureteric buds or metanephric mesenchyme; death within a day from renal failure. WT1 mutants form no ureteric buds. GDNF (RET ligand, secreted by metanephric mesenchyme) promotes bud growth; GDNF knockouts have impaired bud formation. p53 knockouts have no major renal anomaly. The renin-angiotensin system is needed for normal renal growth. Human WT1 defects cause hypospadias, cryptorchidism and disorders of sex development."
+],
+"s": "Ch 20 Embryology",
+"c": [
+"c020-a05",
+"c020-a06",
+"c020-r12",
+"c020-r14"
+]
+},
+{
+"f": "mcq",
+"t": "Lap pyeloplasty in children",
+"q": "Which statement about laparoscopic pyeloplasty in children is FALSE?",
+"o": [
+"Robotic assistance eases the anastomosis",
+"Transperitoneal visibility is usually poor",
+"Posterior access is hard in horseshoe kidney",
+"Benefit over open in infants is unproven"
+],
+"a": 1,
+"e": [
+"The peritoneum reflects light, so transperitoneal visibility is better than retroperitoneal. In newborns open access needs only a small incision; laparoscopy is feasible but advantages in infants are unproven. Posterior access to the UPJ is very difficult in horseshoe kidneys. Dismembered pyeloplasty is favoured: broadly applicable, excises the abnormal segment, allows reduction. Laparoscopic repair matches open results with good cosmesis; robotics eases suturing."
+],
+"s": "Ch 42 Paediatric ureter surgery",
+"c": [
+"c042-a01",
+"c042-a03",
+"c042-a05",
+"c042-r04",
+"c042-r03"
+]
+},
+{
+"f": "mcq",
+"t": "Atopic and contact dermatitis",
+"q": "Which statement about genital dermatitis is FALSE?",
+"o": [
+"Nickel is the commonest patch-test allergen",
+"Patch tests confirm allergic contact type",
+"Allergic type is the commonest contact form",
+"Emollients are the mainstay for atopic eczema"
+],
+"a": 2,
+"e": [
+"Irritant contact dermatitis (direct cytotoxic effect of soaps, metal salts, acids/alkalis, solvents) causes about 80% of contact dermatitis. Patch testing confirms allergic contact dermatitis and the allergen; nickel sulfate (jewellery, belt buckles) was the commonest in the NACDG 2003 report. Atopic dermatitis: intense pruritus, asthma/rhinitis tendency; remove triggers, gentle non-alkali soaps and frequent emollients."
+],
+"s": "Ch 59 Genital skin diseases",
+"c": [
+"c059-a04",
+"c059-a05",
+"c059-a06",
+"c059-a07"
+]
+},
+{
+"f": "mcq",
+"t": "Dysplasia from obstruction",
+"q": "Which statement about obstruction-related renal dysplasia is TRUE?",
+"o": [
+"Heterotopic bone is a hallmark feature of it",
+"Partial late obstruction is its main cause",
+"Small obstructed kidneys reflect true atrophy",
+"Fibromuscular collars are typical"
+],
+"a": 3,
+"e": [
+"Fibromuscular collars (primitive ducts from abnormal peritubular mesenchyme) are a hallmark; heterotopic cartilage (not bone) may occur; glomerular cysts are not typical. Complete obstruction early in gestation is a critical determinant. Small congenitally obstructed kidneys are hypoplastic (growth failure), not atrophic; growth impairment means fewer nephrons and delayed maturation. Excess renin can occur in obstruction without dysplasia."
+],
+"s": "Ch 40 Obstruction pathophysiology",
+"c": [
+"c040-a02",
+"c040-r02",
+"c040-r04",
+"c040-r03",
+"c040-r12"
+]
+},
+{
+"f": "mcq",
+"t": "Endopyelotomy",
+"q": "Which statement about endopyelotomy is FALSE?",
+"o": [
+"Bleeding may need early angiography after it",
+"Crossing vessels hardly affect success",
+"Strictures over 2 cm usually do poorly",
+"Most failures appear in the first year"
+],
+"a": 1,
+"e": [
+"A crossing vessel has the most detrimental effect on success, as does high-grade hydronephrosis; excluding these improves results (CT angiography assesses vessels). For a young patient with a crossing vessel, laparoscopic pyeloplasty is the straightforward choice. Success in selected patients is 60–80%; most failures occur within a year. Long (>2 cm) strictures do poorly; access across the UPJ must be secured first. Balloon dilation: only 42% long-term success (McClinton). Low threshold for angioembolisation if bleeding."
+],
+"s": "Ch 89 Upper tract obstruction",
+"c": [
+"c089-a04",
+"c089-a05",
+"c089-r02",
+"c089-r09",
+"c089-r10",
+"c089-r11",
+"c089-r12"
+]
+},
+{
+"f": "mcq",
+"t": "Pelvic nerves",
+"q": "Which statement about nerve anatomy at radical prostatectomy is FALSE?",
+"o": [
+"Slow-twitch fibres give passive continence",
+"Bundles lie between prostatic and levator fascia",
+"The pudendal nerve supplies the sphincter",
+"The pelvic plexus arises from T11 to L2"
+],
+"a": 3,
+"e": [
+"The pelvic plexus carries parasympathetic preganglionic fibres from S2–S4. The neurovascular bundles run in the lateral pelvic fascia between the prostatic and levator fasciae. The pudendal nerve is the main supply of the striated sphincter and levator ani; the striated sphincter's fatigue-resistant slow-twitch fibres provide passive urinary control."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-a04",
+"c155-a05",
+"c155-a07",
+"c155-a06"
+]
+},
+{
+"f": "mcq",
+"t": "Reflexes and rhizotomy",
 "q": "Which statement is FALSE?",
 "o": [
-"Three-base codons encode 20 amino acids",
-"Ubiquitin tags proteins for proteasomal loss",
-"Frameshift mutations are the most damaging",
-"Proteasome blockade speeds cancer growth"
-],
-"a": 3,
-"e": [
-"Inhibiting ubiquitination or the proteasome is a promising cancer therapy. The code is redundant (several codons per amino acid), so sequences can differ yet encode the same protein (polymorphism), though some change amino acids. Frameshifts change every codon downstream. Protein degradation is active; the proteasome is cylindrical. DNA mutations can alter protein function or expression and promote cancer."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-a07",
-"c062-a08",
-"c062-r01"
-]
-},
-{
-"f": "mcq",
-"t": "Extraperitoneal RALP",
-"q": "The main advantage of the extraperitoneal approach is:",
-"o": [
-"It shortens the learning curve a lot",
-"It avoids handling of the bowel",
-"It removes more pelvic lymph nodes",
-"It gives a larger operative workspace"
-],
-"a": 1,
-"e": [
-"Avoiding the peritoneal cavity suits patients with extensive prior abdominal surgery. Node yields at PLND are similar with open or laparoscopic techniques."
-],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
-"c": [
-"c156-a05",
-"c156-a06"
-]
-},
-{
-"f": "mcq",
-"t": "Cyclins",
-"q": "Which statement about cyclins and cyclin-dependent kinases (cdks) is TRUE?",
-"o": [
-"Cdks are active without a cyclin partner",
-"The cell cycle can run in reverse order",
-"Cyclins are degraded phase-specifically",
-"Cyclin levels stay constant all through"
+"Neuromodulation alters neurotransmission",
+"Rhizotomy can make a bladder areflexic",
+"Neurostimulation gives a delayed response",
+"The guarding reflex promotes urine storage"
 ],
 "a": 2,
 "e": [
-"The cycle is an ordered, unidirectional series of events (G1, S, G2, M) to copy the genome and split it between two daughter cells. Phase-specific phosphorylation by cdks drives progression; cdk activity needs specific cyclins, which accumulate and are rapidly degraded by phase, making key events properly sequenced and irreversible."
+"Neurostimulation aims at an immediate response in neurogenic dysfunction; neuromodulation alters neurotransmission (neurogenic and non-neurogenic) with a delayed effect. Guarding reflex and bladder afferent loop reflex (sacral interneurons to pudendal efferents) promote storage under sympathetic tone and are switched off (suprapontine input) during voiding. Bilateral anterior and posterior sacral rhizotomy or conusectomy converts hyperreflexia to areflexia but harms rectum, sphincters, sexual function and legs; selective motor section was meant to spare these."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 122 Neuromodulation",
 "c": [
-"c062-r06",
-"c062-r08",
-"c062-r09"
+"c122-a03",
+"c122-a04",
+"c122-a15"
 ]
 },
 {
 "f": "mcq",
-"t": "Oncogenes and suppressors",
+"t": "EM and SJS",
+"q": "Which statement about erythema multiforme (EM) is FALSE?",
+"o": [
+"HSV precedes target lesions by about 2 weeks",
+"EM minor resolves in weeks without treatment",
+"Late acyclovir speeds healing of EM",
+"NSAIDs are among common triggers of SJS"
+],
+"a": 2,
+"e": [
+"EM minor: abrupt symmetrical fixed red papules evolving to target lesions; most follow HSV-1/2 by 10–14 days. Suppressive acyclovir may prevent episodes, but giving it after targets appear does not help; it resolves without sequelae over weeks, often recurring. Book: Stevens-Johnson syndrome (SJS) is the major form, lasts 4–6 weeks, mortality up to 30%; drugs are the commonest triggers (NSAIDs, sulfonamides, tetracycline, penicillin, doxycycline, anticonvulsants). Update: SJS/TEN are now separated from EM; mortality ~30% applies to toxic epidermal necrolysis (SJS is lower, under ~10%)."
+],
+"s": "Ch 59 Genital skin diseases",
+"c": [
+"c059-a08",
+"c059-a09",
+"c059-r02",
+"c059-r03"
+]
+},
+{
+"f": "mcq",
+"t": "Horseshoe and Weigert-Meyer",
 "q": "Which statement is TRUE?",
 "o": [
-"Silencing a proto-oncogene makes an oncogene",
-"Oncogenes are normal cancer-fighting genes",
-"All oncogenes come from retroviral infection",
-"Amplification can activate a proto-oncogene"
+"The upper pole orifice tends to reflux",
+"Horseshoe kidneys mostly fuse at upper poles",
+"The lower pole ureter ends in a ureterocele",
+"Horseshoe ascent is halted by the IMA"
 ],
 "a": 3,
 "e": [
-"Routes: activating mutation, amplification, chromosomal rearrangement. Tumour suppressors restrain growth; oncogenes promote it. Tumour suppressor loss: homozygous deletion; loss of one allele plus mutation; mutation of both; loss plus epigenetic silencing. Some escape the two-hit rule (dominant negative, haploinsufficiency). Deletion is the abnormality most linked to suppressor inactivation; other changes give no net loss or a gain."
+"The fused lower poles cross ventral to the aorta and are trapped under the inferior mesenteric artery (IMA). Weigert-Meyer rule: the lateral, cephalad orifice drains the lower pole and may reflux; the medial, caudal orifice drains the upper pole and may have a ureterocele."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 20 Embryology",
 "c": [
-"c062-a09",
-"c062-a14",
-"c062-r02",
-"c062-r03",
-"c062-r04",
-"c062-r05"
+"c020-a04",
+"c020-r03"
 ]
 },
 {
 "f": "mcq",
-"t": "Rectal injury",
-"q": "Rectal injury during RALP is best avoided by:",
+"t": "Lap safety in children",
+"q": "Which laparoscopic safety statement is FALSE?",
 "o": [
-"Using more thermal energy posteriorly",
-"Antegrade release of the rectum early",
-"Leaving Denonvilliers fascia untouched",
-"Dividing the urethra before the rectum"
+"Monopolar cautery is safest near bowel",
+"Lower the pressure before removing trocars",
+"Port leaks with high CO2 flow cool the child",
+"Open or optical camera access is safer"
+],
+"a": 0,
+"e": [
+"Monopolar cautery raises the risk of unrecognised bowel injury. Lowering pressure before removing trocars reveals bleeding and stops omentum/bowel entering port sites. Large CO2 volumes from port leaks lower body temperature. Blind entry risks organ damage; bladeless optical trocars or open camera access help."
+],
+"s": "Ch 42 Paediatric ureter surgery",
+"c": [
+"c042-a02",
+"c042-a04",
+"c042-a06",
+"c042-a07"
+]
+},
+{
+"f": "mcq",
+"t": "Molecular response to obstruction",
+"q": "Which statement about the molecular response to renal obstruction is FALSE?",
+"o": [
+"Fetal angiotensin acts mainly via AT1",
+"MMP–TIMP balance sets ECM breakdown",
+"EGF reduces apoptosis in obstruction",
+"Renal renin rises in obstructed kidneys"
+],
+"a": 0,
+"e": [
+"Fetal angiotensin acts mainly through AT2 until late gestation, when AT1 grows in importance; it regulates growth, mediates fibrosis and modulates inflammation, and is altered by obstruction. Renal renin rises. EGF reduces apoptosis and growth impairment. ECM depends on synthesis and breakdown (MMPs vs TIMPs, regulated by TGF-β and angiotensin); fibrosis is universal. Epithelial–mesenchymal transformation is bidirectional and explains α-smooth muscle actin in obstruction (not part of normal glomerular development)."
+],
+"s": "Ch 40 Obstruction pathophysiology",
+"c": [
+"c040-a04",
+"c040-a05",
+"c040-a06",
+"c040-a08",
+"c040-r13",
+"c040-r14",
+"c040-r05"
+]
+},
+{
+"f": "mcq",
+"t": "Fascia and dorsal vein",
+"q": "Which statement about periprostatic anatomy is FALSE?",
+"o": [
+"Prostatic fascia fuses with levator fascia",
+"Denonvilliers is thickest at the apex",
+"The dorsal vein has three main branches",
+"Three fascial layers cover the prostate"
 ],
 "a": 1,
 "e": [
-"Sharp, complete incision of the posterior layer of Denonvilliers fascia after seminal vesicle dissection mobilises the rectum before urethral division and apical dissection; this plane also defines the medial pedicles and neurovascular bundles. Rectal injury is rare, higher in salvage surgery, and should be repaired when recognised."
+"Denonvilliers fascia is densest at the base and over the seminal vesicles, thinning caudally to end at the striated sphincter. Dorsal vein: a superficial midline branch and two lateral branches. Three layers: Denonvilliers, prostatic and levator fasciae; laterally the prostatic fascia fuses with the levator fascia."
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 155 Open radical prostatectomy",
 "c": [
-"c156-a07",
-"c156-r08"
+"c155-r01",
+"c155-r02",
+"c155-r03",
+"c155-r04"
 ]
 },
 {
 "f": "mcq",
-"t": "Robot advantages",
-"q": "Which is the main benefit most surgeons attribute to the robot?",
-"o": [
-"Better cancer control than open RP",
-"Shorter operating time than open",
-"Lower equipment and running costs",
-"Easier suturing of the anastomosis"
-],
-"a": 3,
-"e": [
-"Robotics helps surgeons without advanced laparoscopic skills. Cost (Link, 2004) is driven by operating time, hospital stay and disposables. A skilled bedside assistant who can troubleshoot the robot greatly helps. Discharge in about 24 hours and return to activity within 3 weeks."
-],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
-"c": [
-"c156-a09",
-"c156-a12",
-"c156-r02",
-"c156-r05"
-]
-},
-{
-"f": "mcq",
-"t": "Methylation",
-"q": "Which statement about DNA methylation is TRUE?",
-"o": [
-"It marks proteins for ubiquitin",
-"Promoter methylation raises output",
-"It occurs on CpG cytosines",
-"It alters the DNA base sequence"
-],
-"a": 2,
-"e": [
-"Promoter CpG island methylation silences genes (tumour suppressors in cancer); loss of normal methylation can switch on oncogenes. 5-methylcytosine can deaminate to thymine (C→T transitions). Methylation acts through later mutation or epigenetically."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-a10",
-"c062-r14",
-"c062-r15",
-"c062-r16"
-]
-},
-{
-"f": "mcq",
-"t": "Double-strand breaks",
-"q": "DNA damage from ionising radiation is mainly repaired by:",
-"o": [
-"Nucleotide excision repair of bulky lesions",
-"Base excision repair of deaminated bases",
-"Double-strand break repair (HR or NHEJ)",
-"Mismatch repair of polymerase mispairs"
-],
-"a": 2,
-"e": [
-"Double-strand break repair (homologous recombination using the sister chromatid as template, or non-homologous end joining) defends against ionising radiation, free radicals and chemicals. NER handles UV and bulky chemical adducts; BER handles deamination, radiation, oxidative stress, alkylating agents and replication errors (main repair for reactive oxygen species); MMR fixes polymerase mispairs."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-r22",
-"c062-a21",
-"c062-r20"
-]
-},
-{
-"f": "mcq",
-"t": "Neurovascular bundle",
-"q": "The neurovascular bundle runs between which fascial layers?",
-"o": [
-"Denonvilliers and endopelvic fascia",
-"Prostatic capsule and Buck fascia",
-"Levator fascia and Waldeyer fascia",
-"Prostatic and levator fasciae"
-],
-"a": 3,
-"e": [
-"Interfascial NVB dissection suits presumed organ-confined cancer when potency matters. Minimise thermal energy near the pedicles and NVBs (it harms cavernous nerves in animal and human studies)."
-],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
-"c": [
-"c156-a10",
-"c156-r09",
-"c156-r10"
-]
-},
-{
-"f": "mcq",
-"t": "Hereditary syndromes",
+"t": "Psoriasis, Reiter, lichen planus",
 "q": "Which statement is FALSE?",
 "o": [
-"VHL predisposes to papillary type RCC",
-"VHL causes ccRCC and phaeochromocytoma",
-"Birt–Hogg–Dubé carries GU tumour risk",
-"ELAC2, MSR1, RNASEL are unproven causes"
-],
-"a": 0,
-"e": [
-"VHL: clear cell RCC, retinal angiomas, phaeochromocytoma, CNS haemangioblastoma, epididymal cystadenoma, pancreatic islet tumours; not papillary RCC, adrenocortical or epididymal carcinoma. Beckwith–Wiedemann also carries GU risk. ELAC2, MSR1 and RNASEL are linked by linkage and case-control studies but not proven causal. Germline cancer genes may act in sporadic disease too (VHL in ccRCC)."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-a11",
-"c062-a12",
-"c062-a13",
-"c062-r28"
-]
-},
-{
-"f": "mcq",
-"t": "Retrograde vs antegrade",
-"q": "Compared with antegrade NVB dissection, the retrograde technique involves:",
-"o": [
-"Early DVC and late pedicle division",
-"Less bleeding than the antegrade method",
-"Early pedicle and late DVC division",
-"No division of the dorsal venous complex"
-],
-"a": 0,
-"e": [
-"Retrograde: the dorsal venous complex is divided early and pedicles late, risking more bleeding. Antegrade: pedicles (arterial supply) first, DVC near the end, reducing blood loss."
-],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
-"c": [
-"c156-a11"
-]
-},
-{
-"f": "mcq",
-"t": "Cell cycle",
-"q": "Which statement is TRUE?",
-"o": [
-"G2/M mainly senses nutrient supply",
-"Checkpoints are at G1/S and G2/M",
-"Cyclin–cdk dephosphorylates RB1",
-"INK4 mainly inhibits cyclin B–cdc2"
+"Low-potency topical steroids suit genital psoriasis",
+"PUVA is first choice for genital psoriasis",
+"Systemic steroids speed lichen planus clearance",
+"Reiter syndrome is linked to HLA-B27"
 ],
 "a": 1,
 "e": [
-"Cyclin–cdk complexes phosphorylate RB1 (and p107, p130), freeing E2F, which pairs with DP1/DP2 to drive replication genes. INK4 inhibits cyclin D–cdk4/6. Hypoxia, nutrients and cytokines act at G1/S; DNA damage causes arrest at both. The cycle (G1, S, G2, M) is ordered and unidirectional; phase-specific cdk phosphorylation drives it; cyclins accumulate and are degraded phase-specifically. CDK inhibitors pause the cycle (DNA damage, contact, cytokines, hypoxia). RB1 mutations are common in urological cancers. Checkpoint defects cause proliferation and instability."
+"Psoriasis affects up to 2%; genital disease is treated with short courses of low-potency topical steroids (book example: 3% liquor carbonis detergens in 1% hydrocortisone). High-dose PUVA raises genital SCC risk, so shield genitals; PUVA is contraindicated for genital lesions. Reiter syndrome (now reactive arthritis): urethritis, arthritis, conjunctivitis, oral ulcers, skin lesions after urethritis or GI infection; commoner with HIV; HLA-B27. Lichen planus: asymptomatic genital lesions need no treatment; topical steroids first; systemic steroids cut clearance from 29 to 18 weeks."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 59 Genital skin diseases",
 "c": [
-"c062-a15",
-"c062-a17",
-"c062-a18",
-"c062-a19",
-"c062-r06",
-"c062-r07",
-"c062-r08",
-"c062-r09",
-"c062-r10",
-"c062-r13"
+"c059-a10",
+"c059-a11",
+"c059-a12",
+"c059-r04"
 ]
 },
 {
 "f": "mcq",
-"t": "Methylcytosine",
-"q": "Spontaneous deamination of 5-methylcytosine produces:",
+"t": "UPJ repair indications",
+"q": "Which statement about UPJ obstruction is FALSE?",
 "o": [
-"Guanine, a C→G transition",
-"Thymine, a C→T transition",
-"Adenine, a C→A transversion",
-"Uracil, a C→U transversion"
-],
-"a": 1,
-"e": [
-"Methylation occurs specifically at CpG dinucleotides. 5-methylcytosine deaminates to thymine, giving C→T transition mutations, so CpG sites are mutation hot spots. Methylation can thus affect genes by later mutation or by epigenetic silencing (promoter CpG islands)."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-r14"
-]
-},
-{
-"f": "mcq",
-"t": "Physiology of pneumoperitoneum",
-"q": "Steep Trendelenburg with prolonged pneumoperitoneum can cause all EXCEPT:",
-"o": [
-"Neurapraxia from compression",
-"Hypercarbia and oliguria",
-"Corneal oedema and high IOP",
-"Alkalosis from CO2 uptake"
+"Kidneys under 15% function rarely recover",
+"Intrinsic UPJO has longitudinal muscle bundles",
+"UPJ obstruction may coexist with reflux",
+"Most neonatal unilateral HN needs repair"
 ],
 "a": 3,
 "e": [
-"CO2 causes hypercarbia and acidosis. Also raised intraocular pressure, corneal oedema and neurapraxia; pad all pressure areas."
+"Carefully followed neonatal unilateral hydronephrosis needs pyeloplasty in only about 7%. Intrinsic obstruction: an aperistaltic segment where spiral muscle is replaced by longitudinal bundles and fibrous tissue. UPJO may coexist with VUR. Repair indications: symptoms, impaired function, stones, infection, hypertension. In adults, kidneys with <15% function are generally not salvageable."
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 89 Upper tract obstruction",
 "c": [
-"c156-a13",
-"c156-r03"
+"c089-r07",
+"c089-r01",
+"c089-r03",
+"c089-r06",
+"c089-r08"
 ]
 },
 {
 "f": "mcq",
-"t": "TP53",
-"q": "Which statement about TP53 is TRUE?",
+"t": "S3 response",
+"q": "Which statement about SNM lead placement is TRUE?",
 "o": [
-"It triggers arrest, repair or death",
-"It is rarely mutated in human cancer",
-"It directly drives tumour angiogenesis",
-"Its apoptosis acts mainly via CD95"
+"S3 gives bellows and great toe flexion",
+"Urodynamics reliably predict a response",
+"S4 causes rotation of the whole leg",
+"S3 lies about 13 cm above the coccyx"
 ],
 "a": 0,
 "e": [
-"TP53 binds TP53-responsive promoters: arrest via CDKN1A (p21), then repair genes; if repair fails, apoptosis via APAF-1/caspase 9. It does not directly control angiogenesis, replication or signalling. It is the most commonly mutated gene in cancer and key in GU tumours."
+"S3: levator 'bellows' contraction plus ipsilateral great toe flexion (plantar), with a pulling sensation in rectum, scrotum or vagina. (The book's keyed option says 'dorsiflexion'; the standard description is plantar flexion of the great toe.) S2: leg/hip rotation and anal clamp; S4: bellows only. S3 is located by the cross-hair technique and simple measurements; 11 cm (from the anal verge) or 13 cm from the coccyx are too far and land near S2/S1. No urodynamic or other preclinical factor predicts response: a percutaneous or staged lead trial is the best predictor."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 122 Neuromodulation",
 "c": [
-"c062-a16",
-"c062-a25",
-"c062-r11",
-"c062-r12",
-"c062-r42"
+"c122-a05",
+"c122-a08",
+"c122-a16"
 ]
 },
 {
 "f": "mcq",
-"t": "Apical margins",
-"q": "An iatrogenic positive apical margin at RALP often results from:",
+"t": "Bladder development",
+"q": "Which statement about bladder development is FALSE?",
 "o": [
-"Too wide a bladder neck dissection",
-"A posterior apical lip below urethra",
-"Early division of the prostatic pedicles",
-"Excessive lateral fascia preservation"
+"The urachus becomes the median umbilical ligament",
+"Smooth muscle first appears at the bladder neck",
+"Detrusor appears between weeks 7 and 12",
+"Lineage studies trace trigone mainly to bladder"
 ],
 "a": 1,
 "e": [
-"Inspect the posterior (and anterior) apical contour before dividing the posterior urethra. Define the bladder neck–prostate junction by manoeuvres and visual cues; after opening the anterior bladder neck, check for a median lobe before dividing the posterior bladder neck."
+"Between weeks 7 and 12, connective tissue condenses and smooth muscle appears first at the dome, then toward the neck. By week 12 the urachus becomes a fibrous cord, the median umbilical ligament. Cell lineage studies show the trigone forms mostly from bladder (urogenital sinus) smooth muscle with only a minor ureteral contribution, unlike the classic theory."
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 20 Embryology",
 "c": [
-"c156-a14",
-"c156-r06",
-"c156-r07",
-"c156-r11"
+"c020-a07",
+"c020-a08",
+"c020-a09"
 ]
 },
 {
 "f": "mcq",
-"t": "DNA repair",
-"q": "Which pairing is correct?",
+"t": "Lichen sclerosus",
+"q": "Which statement about lichen sclerosus (LS) is FALSE?",
 "o": [
-"Homologous recombination: mispairs",
-"Mismatch repair: double-strand breaks",
-"Base excision repair: UV light damage",
-"Nucleotide excision repair: UV damage"
+"Biopsy helps exclude malignant change",
+"BXO is its late, scarring stage",
+"It is linked to non-HPV penile cancer",
+"It is a variant of lichen planus"
 ],
 "a": 3,
 "e": [
-"NER: UV and chemical damage (excises distortions). BER: deamination, radiation, oxidative stress, alkylating agents, replication errors. MMR: polymerase mispairs. Double-strand breaks (ionising radiation, free radicals, chemicals): HR (sister chromatid template) or NHEJ. Multiple repair systems explain why damage rarely causes cancer; repair defects let mutations accumulate."
+"LS shares little with lichen planus or nitidus beyond itch and genital predilection. It is a scarring disorder with pallor, loss of architecture and hyperkeratosis; the late stage, balanitis xerotica obliterans, can involve the urethra and cause stricture. It is associated with penile SCC (especially non-HPV variants) and may be premalignant; biopsy confirms and excludes cancer. Standard first-line therapy is an ultrapotent topical steroid (e.g., clobetasol)."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 59 Genital skin diseases",
 "c": [
-"c062-a20",
-"c062-a21",
-"c062-r17",
-"c062-r18",
-"c062-r19",
-"c062-r20",
-"c062-r21",
-"c062-r22"
+"c059-a13",
+"c059-a14"
 ]
 },
 {
 "f": "mcq",
-"t": "Promoter hypomethylation",
-"q": "Loss of methylation at a normally methylated promoter typically leads to:",
+"t": "Dorsal vein control",
+"q": "Which statement about dorsal vein complex (DVC) handling is FALSE?",
 "o": [
-"A C→T mutation at that same promoter site",
-"Inappropriate gene expression, e.g., oncogenes",
-"Deletion of the whole promoter DNA sequence",
-"Silencing of the nearby tumour suppressor genes"
+"Its proximal edges are oversewn in a V shape",
+"Partial division best stops DVC bleeding",
+"The fascia is opened only superficially",
+"Pubic fixation of the sphincter is kept"
 ],
 "a": 1,
 "e": [
-"Promoter CpG island hypermethylation suppresses expression (e.g., of tumour suppressors); loss of normal promoter methylation can switch on genes inappropriately, such as oncogenes. Neither changes the DNA sequence itself."
+"For troublesome DVC bleeding, divide the complex completely over the urethra and oversew the end; partial division plus traction opens veins and worsens bleeding. Incise the endopelvic fascia superficially, just enough to expose the junction of the anterior apex and the DVC; keep the pubourethral component to preserve anterior sphincter fixation. Divide the complex with minimal blood loss and without injuring the striated sphincter (incontinence). Oversew the proximal edges in a V, not pulled together in the midline, which would advance the NVBs anteriorly."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 155 Open radical prostatectomy",
 "c": [
-"c062-r16",
-"c062-r15"
+"c155-a10",
+"c155-a11",
+"c155-a13",
+"c155-a21",
+"c155-r24"
 ]
 },
 {
 "f": "mcq",
-"t": "Contraindications",
-"q": "Which is an absolute contraindication to minimally invasive prostatectomy?",
+"t": "Function decline after relief",
+"q": "Years after pyeloplasty, a child's differential function falls from 40% to 32% with good drainage. Most likely cause:",
 "o": [
-"A large median lobe present",
-"Uncorrectable bleeding disorder",
-"Prior transurethral resection",
-"Previous pelvic radiotherapy"
+"Ongoing occult pyelonephritis",
+"Faster growth of the other kidney",
+"Recurrent UPJ obstruction",
+"Renal artery stenosis after repair"
 ],
 "a": 1,
 "e": [
-"Also inability to tolerate general anaesthesia (severe cardiopulmonary disease). Large glands, median lobe, morbid obesity, prior pelvic surgery, radiation or TURP are not absolute contraindications but should be avoided early in experience; salvage cases are best done by experienced high-volume surgeons."
+"The affected kidney cannot raise its absolute function as fast as the healthy kidney, so relative uptake falls: a relative, not absolute, loss. Still, 20–40% of post-obstructed kidneys deteriorate: reduced nephron number causes hyperfiltration, glomerulosclerosis and decline, and without functional reserve creatinine rises as the child grows."
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 40 Obstruction pathophysiology",
 "c": [
-"c156-a15",
-"c156-a16",
-"c156-r01"
+"c040-a03",
+"c040-r16",
+"c040-r06",
+"c040-r01"
 ]
 },
 {
 "f": "mcq",
-"t": "BRCA",
-"q": "BRCA1 and BRCA2 function mainly in:",
+"t": "Incision direction",
+"q": "Which endoureterotomy incision direction is correct?",
 "o": [
-"Base excision of oxidised bases",
-"Nucleotide excision of UV lesions",
-"Mismatch repair of mispairs",
-"Homologous recombination repair"
+"Primary UPJ: anterior wall",
+"Distal ureter: posterior",
+"Mid ureter: medial side",
+"Proximal ureter: lateral"
 ],
 "a": 3,
 "e": [
-"BRCA1 and BRCA2 work with RAD51 and BARD1, recruited by PCNA to damaged DNA; inherited repair-defect syndromes markedly raise cancer risk."
+"Proximal ureteral strictures are incised laterally (or posterolaterally), like the UPJ; posterior incision is used for UPJO after failed open pyeloplasty. Mid and distal strictures are incised anteriorly (anteromedially, away from iliac vessels). Left ureteroenteric strictures do poorly endoscopically (more mobilisation, poorer blood supply); open repair succeeds in about 80%."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 89 Upper tract obstruction",
 "c": [
-"c062-a22",
-"c062-r23"
+"c089-a06",
+"c089-r15",
+"c089-a07"
 ]
 },
 {
 "f": "mcq",
-"t": "RALP outcomes",
-"q": "Which statement about RALP outcomes is FALSE (per current evidence)?",
+"t": "Genital ducts",
+"q": "Which statement about genital duct development is FALSE?",
 "o": [
-"Potency is clearly better than open RP",
-"Transfusion should be needed in under 2%",
-"At least 20% are not pad-free afterwards",
-"Machine failure affects under 0.5% of cases"
+"Leydig cells secrete MIS",
+"Testosterone drives wolffian ducts",
+"Gartner cysts are wolffian remnants",
+"Appendix testis is a müllerian remnant"
 ],
 "a": 0,
 "e": [
-"The book states potency recovery is statistically better after robotic surgery, but the only RCT (Yaxley/Coughlin, Lancet 2016) found no significant difference in erectile or urinary function versus open surgery. About 5% have severe incontinence regardless of technique. Discharge at 24 hours, normal activity within 3 weeks."
+"Sertoli cells, differentiating in response to SRY, secrete MIS, which makes the paramesonephric (müllerian) ducts regress between weeks 8 and 10; these ducts form lateral to the mesonephric ducts. Leydig cell testosterone makes the wolffian ducts form the vas deferens and seminal vesicles. Müllerian remnants in males: prostatic utricle, appendix testis. Without MIS and androgens, müllerian ducts form tubes, uterus and upper two-thirds of the vagina; wolffian remnants are the epoophoron, paroophoron and Gartner duct cysts. The hymen forms at the junction of the vaginal plate and urogenital sinus."
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 20 Embryology",
 "c": [
-"c156-r14"
+"c020-a11",
+"c020-r04",
+"c020-r05",
+"c020-r21",
+"c020-a14",
+"c020-r09",
+"c020-r20"
 ]
 },
 {
 "f": "mcq",
-"t": "Apoptosis",
+"t": "Behçet disease",
+"q": "Which statement about Behçet disease (BD) is FALSE?",
+"o": [
+"Its genital ulcers are painless",
+"Oral plus genital aphthae suggest BD",
+"Uveitis is part of its classic triad",
+"Neurologic disease takes priority over ulcers"
+],
+"a": 0,
+"e": [
+"Classic triad: oral and genital mucocutaneous lesions and uveitis; ulcers are painful. Relapsing, remitting, with genetic predisposition and autoimmune pathogenesis; may include epididymitis, thrombophlebitis, aneurysms, GI, neurologic and arthritic disease. Exclude aphthae, syphilis, herpes and chancroid first. Book case: seizures plus a painful genital ulcer: neurology review of his antiseizure treatment comes first."
+],
+"s": "Ch 59 Genital skin diseases",
+"c": [
+"c059-a15",
+"c059-a23",
+"c059-r05"
+]
+},
+{
+"f": "mcq",
+"t": "Fetal urine",
+"q": "In fetal obstructive uropathy, which finding suggests irreversible renal damage?",
+"o": [
+"No calyceal dilatation",
+"Very hypotonic fetal urine",
+"Low urine calcium level",
+"Urine sodium close to serum"
+],
+"a": 3,
+"e": [
+"Fetal urine sodium, chloride, osmolality and calcium correlate with fetal renal function; values approaching serum suggest irreversible damage (commonly quoted favourable values: Na <100 mmol/L, Cl <90 mmol/L, osmolality <200 mOsm/L). Distinct calyces help judge obstruction: no caliectasis suggests mild or minimal functional obstruction."
+],
+"s": "Ch 40 Obstruction pathophysiology",
+"c": [
+"c040-r07",
+"c040-r08"
+]
+},
+{
+"f": "mcq",
+"t": "Failed SNM",
+"q": "A woman with OAB failed drugs and then sacral neuromodulation. The most logical next step is:",
+"o": [
+"Add a contralateral sacral lead",
+"Intradetrusor botulinum toxin A",
+"Switch to bilateral S3 leads now",
+"Augmentation cystoplasty at once"
+],
+"a": 1,
+"e": [
+"She should already have failed anticholinergic or β3-agonist therapy. Botulinum toxin A is as good as SNM (ROSETTA trial, 2016: slightly greater reduction in urgency incontinence at 6 months, with more UTIs and self-catheterisation). Bilateral stimulation is logical (animal data) but the only clinical study (Scheepens 2002) showed no difference for urgency incontinence; retention patients voided better volumes with bilateral leads. No prospective trial supports a contralateral lead."
+],
+"s": "Ch 122 Neuromodulation",
+"c": [
+"c122-a10",
+"c122-a18"
+]
+},
+{
+"f": "mcq",
+"t": "Apex margins",
+"q": "In open retropubic radical prostatectomy, the commonest site of a positive margin is:",
+"o": [
+"The bladder neck",
+"The posterior surface",
+"The posterolateral side",
+"The prostatic apex"
+],
+"a": 3,
+"e": [
+"The anterior apical surface is hard to identify during division of the striated sphincter–dorsal vein complex; seeing the exact anterior plane avoids entering the prostate and minimises sphincter excision. Order: apex, then posterior, then posterolateral."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-a12",
+"c155-r19"
+]
+},
+{
+"f": "mcq",
+"t": "Reimplant principles",
+"q": "Which statement about surgery for vesicoureteral reflux is FALSE?",
+"o": [
+"A negative on-table cystogram proves cure",
+"Needle entry point matters in injection",
+"Tunnel length should be 5× ureter width",
+"Endoscopic injection has its own learning curve"
+],
+"a": 0,
+"e": [
+"Under anaesthesia the child cannot void, so a negative intraoperative cystogram does not show success. Extravesical, intravesical and endoscopic (bulking agent) options all exist. Every technique creates a valve that compresses the ureter with filling and contraction: a submucosal tunnel with muscular backing, length about five times the ureteral diameter. Accurate needle entry and placement determine injection success; its learning curve differs from open surgery. Laparoscopic/robotic advantages: small incisions, less pain, short stay, quick recovery."
+],
+"s": "Ch 42 Paediatric ureter surgery",
+"c": [
+"c042-a08",
+"c042-a09",
+"c042-a10",
+"c042-a14",
+"c042-a15"
+]
+},
+{
+"f": "mcq",
+"t": "Bullous and other dermatoses",
 "q": "Which statement is FALSE?",
 "o": [
-"Procaspases are activated by phosphorylation",
-"Death-receptor apoptosis bypasses TP53",
-"Pro-apoptotic Bcl-2 proteins open mitochondria",
-"Bcl-2 itself inhibits the mitochondrial pathway"
+"Dapsone treats dermatitis herpetiformis",
+"Asboe-Hansen sign occurs in pemphigus",
+"Untreated pemphigus usually resolves alone",
+"Extensive seborrhoeic dermatitis needs HIV test"
+],
+"a": 2,
+"e": [
+"Severe untreated pemphigus vulgaris can be fatal (loss of epidermal barrier); treat with systemic steroids plus steroid-sparing azathioprine or cyclophosphamide. Asboe-Hansen sign: fluid spreads under adjacent skin from pressure on a blister. Seborrhoeic dermatitis: demarcated pink-yellow scaly plaques; extensive disease suggests HIV. Dermatitis herpetiformis: coeliac/gluten, granular IgA at the basement membrane; dapsone and gluten-free diet. Linear IgA bullous dermatosis: circumferential and linear blisters; dapsone or sulfapyridine; 30–60% long-term remission."
+],
+"s": "Ch 59 Genital skin diseases",
+"c": [
+"c059-a16",
+"c059-a17",
+"c059-a18",
+"c059-a19",
+"c059-a21",
+"c059-r14"
+]
+},
+{
+"f": "mcq",
+"t": "Pyeloplasty principles",
+"q": "Which statement about pyeloplasty is FALSE?",
+"o": [
+"The anastomosis must be watertight, tension-free",
+"Most laparoscopic failures appear by 2 years",
+"Retroperitoneal access gives more working room",
+"A funnel-shaped dependent UPJ is the aim"
+],
+"a": 2,
+"e": [
+"Transperitoneal laparoscopic pyeloplasty gives more working space and familiar anatomy, so it is the most used. Any repair needs a widely patent, watertight, tension-free anastomosis with a funnel-shaped, dependent UPJ. 70% of laparoscopic pyeloplasty failures occur within 2 years."
+],
+"s": "Ch 89 Upper tract obstruction",
+"c": [
+"c089-a10",
+"c089-a11",
+"c089-r23",
+"c089-r13"
+]
+},
+{
+"f": "mcq",
+"t": "Prostate development",
+"q": "Which statement about prostate development is FALSE?",
+"o": [
+"It buds from the urogenital sinus at 10–12 weeks",
+"Its growth needs DHT made by 5α-reductase",
+"It requires müllerian-inhibiting substance",
+"Bulbourethral glands share its origin"
+],
+"a": 2,
+"e": [
+"Prostatic buds arise from the pelvic urethra (urogenital sinus) at 10–12 weeks, induced by mesenchyme under androgens; DHT from 5α-reductase is essential (deficiency severely impairs growth); MIS has no direct role. Prostate and bulbourethral glands come from the urogenital sinus; vas and appendix epididymis from the mesonephric duct; testis from the gonadal ridge. Androgen receptor defects cause abnormal masculinisation of external genitalia."
+],
+"s": "Ch 20 Embryology",
+"c": [
+"c020-a12",
+"c020-a13",
+"c020-r06",
+"c020-r07",
+"c020-r08",
+"c020-r13",
+"c020-r15"
+]
+},
+{
+"f": "mcq",
+"t": "Neutrophilic and other lesions",
+"q": "Which statement is FALSE?",
+"o": [
+"PG is associated with inflammatory bowel disease",
+"Factitial dermatitis is self-inflicted",
+"Pyoderma gangrenosum has a diagnostic biopsy",
+"Hailey-Hailey disease worsens with heat"
+],
+"a": 2,
+"e": [
+"Pyoderma gangrenosum (PG): painful ulcers with purulent base and tissue loss; linked to IBD, arthritis, collagen vascular and myeloproliferative disease; women in 2nd–5th decades; likely autoimmune. As in Behçet, no lab test or histology is pathognomonic. Hailey-Hailey: autosomal dominant intertriginous blistering (groin, perianal) with itch, pain and odour, worse in summer; inframammary disease common, vulvar unusual; excision and grafting, dermabrasion or laser for resistant disease. Factitial dermatitis: unconscious self-inflicted lesions, linked to borderline personality disorder."
+],
+"s": "Ch 59 Genital skin diseases",
+"c": [
+"c059-a20",
+"c059-a24",
+"c059-a22",
+"c059-a25",
+"c059-r15"
+]
+},
+{
+"f": "mcq",
+"t": "Neurovascular bundle release",
+"q": "Which statement about neurovascular bundle release is FALSE?",
+"o": [
+"High anterior release lowers margin risk",
+"Release starts on the posterior surface",
+"The prostate is rolled, not pulled up",
+"The posterior sphincter is muscle and fibrous tissue"
 ],
 "a": 0,
 "e": [
-"Procaspases are activated by proteolytic cleavage; initiator caspases trigger executioner caspases. Intrinsic pathway: Bcl-2 family controls cytochrome c release; extrinsic: death receptors. TP53 is mutated in over half of cancers, so TP53-independent ligand-dependent apoptosis is an attractive target. Apoptosis is rapid, orderly, suppresses tumours (signals arise from DNA damage), and is disrupted in cancer. Bcl-2 is overexpressed in some GU cancers; ceramide and clusterin are possible targets. Therapeutic response depends on intact apoptosis."
+"High anterior release reduces traction on, and avoids cutting, anterior nerve branches to the cavernous bodies and sphincter, speeding recovery; but less apical soft tissue may raise the margin risk. Roll the prostate side to side with a sponge stick, with no upward traction. After developing the midline rectoprostatic plane, release the bundle from apex to base with a right angle starting on the posterior (rectal) surface, leaving Denonvilliers and prostatic fascia on the prostate. Dividing the posterior urethral band exposes the posterior sphincter complex (skeletal muscle and fibrous tissue)."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 155 Open radical prostatectomy",
 "c": [
-"c062-a23",
-"c062-a24",
-"c062-a26",
-"c062-r37",
-"c062-r38",
-"c062-r39",
-"c062-r40",
-"c062-r41",
-"c062-r43",
-"c062-r45"
+"c155-a14",
+"c155-a15",
+"c155-a16",
+"c155-a17"
 ]
 },
 {
 "f": "mcq",
-"t": "Intrinsic apoptosis",
-"q": "In the intrinsic (mitochondrial) apoptotic pathway, Bcl-2 family proteins control:",
+"t": "SNM complications",
+"q": "Which statement about SNM problems is FALSE?",
 "o": [
-"Telomerase activity at chromosome ends",
-"Death receptor binding at the cell surface",
-"Ubiquitin tagging for the proteasome",
-"Cytochrome c release from mitochondria"
+"Switching off the IPG separates pocket pain",
+"Lead heating is the main concern in MRI",
+"Lost effect may reflect lead migration",
+"Infected IPGs are saved by antibiotics"
 ],
 "a": 3,
 "e": [
-"Intrinsic pathway: Bcl-2 family members modulate mitochondrial membrane permeability and cytochrome c release, which activates initiator caspases (APAF-1/caspase 9). Pro-apoptotic members act mainly by increasing mitochondrial permeability; Bcl-2 itself inhibits this pathway and is overexpressed in some GU cancers. Extrinsic pathway: extracellular death receptors activate caspases."
+"An infected implanted pulse generator (IPG) harbours biofilm, and infection can track along the lead to the sacrum: remove the whole device. MRI: main concern is lead heating damaging vessels or nerve roots; MRI and pregnancy are relative contraindications (book). Update: newer sacral systems are MRI-conditional for full-body scans. IPG pain: switch off; persistent pain means pocket causes (infection, waistline site, tight/loose pocket, seroma, erosion); pain that stops means output causes (unipolar sensitivity, current leak with abnormal impedance). Recurrent symptoms: check stimulation perception (wrong site, none or intermittent from migration, loose connection, high impedance)."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 122 Neuromodulation",
 "c": [
-"c062-r41",
-"c062-r43",
-"c062-a26"
+"c122-a06",
+"c122-a11",
+"c122-a20",
+"c122-a21",
+"c122-a17"
 ]
 },
 {
 "f": "mcq",
-"t": "PLND and lymphocele",
+"t": "External genitalia",
+"q": "Which statement about external genital development is FALSE?",
+"o": [
+"Urethral folds form the labia majora",
+"Both sexes look alike until 8 weeks",
+"The genital tubercle forms from cloacal folds",
+"Without DHT the folds do not fuse"
+],
+"a": 0,
+"e": [
+"Cloacal folds (5th week) meet anterior to the cloacal membrane as the genital tubercle; after cloacal division they become urogenital folds anteriorly and anal folds posteriorly; labioscrotal folds appear lateral to them. Without DHT the perineum does not lengthen and the folds do not fuse: labioscrotal folds become labia majora, urethral folds labia minora, the phallus the clitoris, and the urogenital sinus the vestibule."
+],
+"s": "Ch 20 Embryology",
+"c": [
+"c020-a15"
+]
+},
+{
+"f": "mcq",
+"t": "Post-reimplant problems",
 "q": "Which statement is FALSE?",
 "o": [
-"PLND is advised if nodal risk exceeds 5%",
-"Transperitoneal access stops lymphoceles",
-"Clipping lymphatics reduces lymphoceles",
-"Symptomatic lymphoceles may need drainage"
+"Early post-reimplant obstruction needs redo",
+"Primary megaureter has an adynamic distal segment",
+"Secondary reflux follows high bladder pressure",
+"Recurrent VUR may reflect neuropathic bladder"
+],
+"a": 0,
+"e": [
+"Early obstruction after reimplant is common (oedema, subtrigonal bleeding, spasms, mucus, clots), usually mild and self-limiting; symptomatic cases present at 1–2 weeks with pain and vomiting. Observe; place a nephrostomy or stent for unabating symptoms. Distal ureteral devascularisation can cause fibrosis and recurrent obstruction. Besides technical error, recurrence often reflects unrecognised neuropathic bladder or severe voiding dysfunction. Obstructive megaureter: adynamic juxtavesical segment. Secondary reflux: neurogenic/non-neurogenic voiding dysfunction or outlet obstruction (e.g., valves)."
+],
+"s": "Ch 42 Paediatric ureter surgery",
+"c": [
+"c042-a11",
+"c042-a12",
+"c042-a13",
+"c042-a16",
+"c042-a17",
+"c042-a18"
+]
+},
+{
+"f": "mcq",
+"t": "Flaps and repairs",
+"q": "Which pairing of UPJ technique and indication is FALSE?",
+"o": [
+"Foley Y-V plasty: crossing lower pole vessel",
+"Ureterocalicostomy: failed repair, small pelvis",
+"Spiral flap: long narrow ureteric segment",
+"Dismembered pyeloplasty: crossing vessel"
+],
+"a": 0,
+"e": [
+"Foley Y-V plasty suits a high ureteral insertion; it is contraindicated when lower pole vessels need transposition and of little use when the pelvis needs reduction. Flaps bridge longer narrow segments (spiral flap for the longest) and are unsuitable with crossing vessels. Only dismembered pyeloplasty transposes the UPJ relative to crossing vessels. Ureterocalicostomy (to the lower calyx) is salvage after failed pyeloplasty with a small pelvis."
+],
+"s": "Ch 89 Upper tract obstruction",
+"c": [
+"c089-a13",
+"c089-a14",
+"c089-a15",
+"c089-a16"
+]
+},
+{
+"f": "mcq",
+"t": "Infections of genital skin",
+"q": "Which statement is FALSE?",
+"o": [
+"Trichomycosis is caused by Corynebacterium",
+"Hot-tub folliculitis is usually pseudomonal",
+"Fournier gangrene is mostly S. pyogenes",
+"Erysipelas has a raised, sharp border"
+],
+"a": 2,
+"e": [
+"Fournier gangrene is polymicrobial (gram-positive, gram-negative, anaerobes). Erysipelas (usually Streptococcus pyogenes) involves dermis and lymphatics with a raised distinct border, unlike cellulitis. Folliculitis: perifollicular pustules in hairy areas, worsened by shaving; hot tubs/pools: Pseudomonas aeruginosa. Trichomycosis (axillary/pubic hair, hyperhidrosis): shaving, antibacterial soap, clindamycin gel, bacitracin, oral erythromycin. Hidradenitis suppurativa: follicular disorder of apocrine skin; follicular rupture (keratin, bacteria) drives inflammation, abscesses and sinuses; infection is not the initiator. Ecthyma gangrenosum: pseudomonal septicaemia with gangrenous ulcers."
+],
+"s": "Ch 59 Genital skin diseases",
+"c": [
+"c059-a26",
+"c059-a27",
+"c059-a28",
+"c059-a29",
+"c059-r06",
+"c059-r07"
+]
+},
+{
+"f": "mcq",
+"t": "Bundle decision",
+"q": "Which statement about preserving the neurovascular bundle (NVB) is FALSE?",
+"o": [
+"A posterior arterial branch is ligated first",
+"Thermal energy near the bundles is avoided",
+"The decision is fixed before surgery",
+"A bundle fixed to the prostate is excised"
+],
+"a": 2,
+"e": [
+"The final decision is made at surgery, even after the prostate is out: inadequate tissue on the posterolateral specimen prompts secondary wide excision. Other indications: palpable induration in the lateral pelvic fascia, or a bundle fixed to the prostate. Book: never use thermal energy on or near the NVBs. Ligate the prominent posterior arterial branch running from the bundle over the seminal vesicles to the base; the bundles then fall back."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-a18",
+"c155-r06",
+"c155-r07",
+"c155-r23",
+"c155-r08",
+"c155-a19"
+]
+},
+{
+"f": "mcq",
+"t": "Diuretic renography",
+"q": "Which statement about diuretic renography is TRUE?",
+"o": [
+"A T½ of 15 min excludes obstruction",
+"DTPA is the preferred infant agent",
+"T½ over 20 min suggests obstruction",
+"MAG3 is cleared mainly by filtration"
+],
+"a": 2,
+"e": [
+"99mTc-MAG3 is the usual agent: taken up and excreted rapidly by tubules, little filtration. Book: T½ >20 min presumed obstructed, <10 min normal, 10–20 min indeterminate. Other factors (hydration, bladder filling, diuretic timing, function, infant age) affect T½, which is less reliable in infants."
+],
+"s": "Ch 40 Obstruction pathophysiology",
+"c": [
+"c040-r09",
+"c040-r10"
+]
+},
+{
+"f": "mcq",
+"t": "Brindley stimulator",
+"q": "Which statement about sacral anterior root stimulation (Brindley) is FALSE?",
+"o": [
+"It suits a long-term areflexic bladder",
+"Posterior rhizotomy is usually added",
+"It needs a bladder able to contract",
+"It relies on post-stimulus voiding"
+],
+"a": 0,
+"e": [
+"Main use: inefficient or absent reflex micturition after spinal cord injury. Prerequisites: intact pathways from sacral pelvic-nerve nuclei to the bladder, and a bladder that can contract. Electrodes go intra- or extradurally on S2–S4 roots, activated independently. Usually complete posterior rhizotomy abolishes reflex incontinence, improves compliance and avoids co-contraction. Poststimulus voiding (Jonas and Tanagho): the striated sphincter relaxes faster than the detrusor between pulse trains. Current spread can cause pain, defecation, leg contraction, erection and ejaculation; pressure rise is not coordinated with bladder neck opening. Very effective but invasive and irreversible; future versions should avoid dorsal rhizotomy."
+],
+"s": "Ch 122 Neuromodulation",
+"c": [
+"c122-a12",
+"c122-a13",
+"c122-a14",
+"c122-r03",
+"c122-r04"
+]
+},
+{
+"f": "mcq",
+"t": "Gonads and SRY",
+"q": "Which statement about gonadal development is FALSE?",
+"o": [
+"SRY lies on the short arm of chromosome Y",
+"Germ cells reach T10 level in the 5th week",
+"SRY moved onto an X gives an XX male",
+"SRY makes the wolffian ducts regress"
+],
+"a": 3,
+"e": [
+"SRY makes primitive sex cord cells become Sertoli cells, triggering testicular development; it does not regress the wolffian ducts (they regress without testosterone). In week 5 primordial germ cells migrate from the yolk sac along the dorsal mesentery to near T10, prompting genital ridge formation. SRY is on Yp; only about 25% of human sex reversals are due to SRY mutations (book). SRY translocated to an X gives an XX individual male characteristics."
+],
+"s": "Ch 20 Embryology",
+"c": [
+"c020-a10",
+"c020-r19",
+"c020-a17",
+"c020-r11",
+"c020-r20"
+]
+},
+{
+"f": "mcq",
+"t": "Paediatric UPJO",
+"q": "Which statement about paediatric UPJ obstruction is FALSE?",
+"o": [
+"Dysplasia is its commonest association",
+"Crossing lower pole vessels may obstruct",
+"Failed pyeloplasty may be redone open",
+"Intrinsic muscle defects are one cause"
+],
+"a": 0,
+"e": [
+"Commonest associated anomaly: contralateral UPJO, then dysplasia and MCDK. Causes: intrinsic (interrupted circular muscle, altered collagen) or extrinsic (aberrant, accessory or early-branching lower pole vessel anterior to the UPJ). Complications: prolonged drainage, no functional or washout improvement, sometimes worse hydronephrosis/function; manage endoscopically or preferably by redo dismembered pyeloplasty."
+],
+"s": "Ch 42 Paediatric ureter surgery",
+"c": [
+"c042-r02",
+"c042-r01",
+"c042-r05"
+]
+},
+{
+"f": "mcq",
+"t": "Fungi and scabies",
+"q": "Which statement is FALSE?",
+"o": [
+"Lindane carries CNS toxicity in children",
+"Tinea cruris typically affects scrotum",
+"Permethrin 5% is first choice for scabies",
+"Scrotal involvement suggests candidiasis"
 ],
 "a": 1,
 "e": [
-"Lymph can loculate within the peritoneal cavity. PLND for intermediate/high risk or >5% nomogram risk; extended PLND yields more nodes but its benefit is debated against time and complications. Drain (percutaneously or laparoscopically) lymphoceles compressing veins or bladder."
+"Tinea cruris (jock itch) affects the inner thighs and groin, usually sparing scrotum and penis; scrotal disease suggests Candida. Dermatophytes: Trichophyton, Microsporum, Epidermophyton; post-inflammatory hyperpigmentation may persist without active infection. Scabies (as for pediculosis pubis): 5% permethrin whole body overnight, repeated after 1 week. Lindane is disfavoured: CNS toxicity in children and rising resistance. (Oral ivermectin is a common alternative.)"
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 59 Genital skin diseases",
 "c": [
-"c156-r15",
-"c156-r16",
-"c156-r17",
-"c156-r18",
-"c156-r19"
+"c059-a30",
+"c059-a31",
+"c059-r08",
+"c059-r16"
 ]
 },
 {
 "f": "mcq",
-"t": "Telomeres",
+"t": "Ileal ureter and psoas hitch",
 "q": "Which statement is FALSE?",
 "o": [
-"Most cancers express telomerase",
-"Telomerase maintains chromosome length",
-"Short telomeres trigger senescence",
-"Telomere loss causes hypomethylation"
+"Small intrarenal pelvis bars ileal ureter",
+"Psoas hitch may divide contralateral SVA",
+"The genitofemoral nerve lies on the psoas",
+"Boari flap needs normal bladder function"
+],
+"a": 0,
+"e": [
+"With a small intrarenal pelvis, ileocalycostomy can still be done. In a psoas hitch, dividing the contralateral superior vesical artery helps reach the ureter tension-free; avoid the genitofemoral nerve on the psoas. Normal bladder function without significant outlet obstruction is needed for ileal ureter, psoas hitch, Boari flap and reimplantation (not for endoscopic incision). If drain output rises after Foley removal, replace the catheter for some days (reflux up the stent, extravasation)."
+],
+"s": "Ch 89 Upper tract obstruction",
+"c": [
+"c089-a17",
+"c089-a19",
+"c089-a21",
+"c089-a22",
+"c089-a18"
+]
+},
+{
+"f": "mcq",
+"t": "Anastomosis",
+"q": "Which statement about the vesicourethral anastomosis in open RP is FALSE?",
+"o": [
+"Tension is solved by firmer traction",
+"Mucosa-to-mucosa apposition is the aim",
+"A Babcock clamp has cut neck contractures",
+"Free bladder from peritoneum if tense"
+],
+"a": 0,
+"e": [
+"Tie the anterior suture first; there should be no tension; if there is, release the bladder from the peritoneum. A Babcock clamp approximating bladder neck and urethra while sutures are tied virtually eliminated contractures (book series). Advance bladder mucosa so the anastomosis is mucosa to mucosa, watertight and tension-free."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-a20",
+"c155-a24",
+"c155-r20"
+]
+},
+{
+"f": "mcq",
+"t": "Tibial and intravesical stimulation",
+"q": "Which statement is FALSE?",
+"o": [
+"Tibial implants need no large battery",
+"PTNS is the best-studied peripheral method",
+"PTNS has a sham-controlled efficacy trial",
+"IVES works by direct efferent stimulation"
 ],
 "a": 3,
 "e": [
-"No strong link to methylation. Telomeres are repetitive non-coding caps lost with division and oxidative damage. The length checkpoint (TP53, RB1) triggers senescence or apoptosis; its loss causes instability and cancer initiation. Most cancers and premalignant lesions have short telomeres; telomerase immortalises cells and is a therapeutic target."
+"Intravesical electrical stimulation (IVES) acts by field stimulation of Aδ afferents from low-threshold bladder mechanoreceptors (Jiang 1998). Percutaneous tibial nerve stimulation (PTNS): sham-controlled trial (Peters 2010, SUmiT); evoked potentials suggest long-term central change (Finazzi Agrò 2009); relates to acupuncture point SP6; causes ipsilateral toe flexion; FDA approved; urodynamic predictors scarce. No direct comparisons of PTNS vs implanted tibial devices or vs SNM; tibial implants are small and battery-free. Electrical stimulation in LUT dysfunction is in its infancy; almost any LUT nerve could be used; new methods and sites keep emerging, with friendlier techniques coming."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 122 Neuromodulation",
 "c": [
-"c062-a27",
-"c062-a28",
-"c062-r31",
-"c062-r32",
-"c062-r33",
-"c062-r34",
-"c062-r35",
-"c062-r36"
+"c122-a22",
+"c122-a23",
+"c122-a24",
+"c122-r05",
+"c122-r01",
+"c122-r02",
+"c122-a19",
+"c122-r06"
 ]
 },
 {
 "f": "mcq",
-"t": "Rearrangements",
-"q": "Which rearrangement is NOT typical of a GU cancer?",
+"t": "Testicular descent",
+"q": "Which statement about testicular descent is TRUE?",
 "o": [
-"BCR–ABL fusion",
-"MiT/TFE translocation",
-"TMPRSS2–ERG fusion",
-"Loss of chromosome 9"
-],
-"a": 0,
-"e": [
-"BCR–ABL is CML. TMPRSS2–ERG (~50% of prostate cancers, intrachromosomal deletion); isochromosome 8q with 8p loss in prostate; MiT/TFE translocation RCC; chromosome 9 loss in urothelial cancer (part of the FISH bladder test). Testis tumours carry isochromosome 12p, the GU cancer most tied to a karyotypic change. Chromosomal chaos and intratumoural variation are hallmarks of solid tumours and correlate with aggressiveness."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-a29",
-"c062-a30",
-"c062-r24",
-"c062-r25",
-"c062-r26"
-]
-},
-{
-"f": "mcq",
-"t": "Genomics",
-"q": "Which statement is TRUE?",
-"o": [
-"SNP arrays are unused in risk studies",
-"RNA-seq cannot find gene fusions",
-"GWAS most implicate the 8q24 region",
-"Copy number change alone proves a driver"
-],
-"a": 2,
-"e": [
-"8q24 is implicated across racial groups. RNA-seq unbiasedly finds microRNAs, non-coding RNAs, fusions and overexpression. Copy-number change plus a hit on the other allele supports a disease-relevant gene. High-density SNP arrays power GWAS."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-a31",
-"c062-a32",
-"c062-r27",
-"c062-r29"
-]
-},
-{
-"f": "mcq",
-"t": "Death receptors",
-"q": "Why are death-receptor (ligand-dependent) apoptosis pathways attractive drug targets?",
-"o": [
-"They activate TP53 much more strongly",
-"They raise Bcl-2 levels in tumour cells",
-"They can kill cells without needing TP53",
-"They block telomerase activity directly"
-],
-"a": 2,
-"e": [
-"Most chemotherapy and external beam radiotherapy kill through TP53, which is mutated in more than half of cancers. Ligand-dependent apoptosis is TP53-independent. TP53-induced apoptosis runs through APAF-1/caspase 9."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-a24",
-"c062-a25"
-]
-},
-{
-"f": "mcq",
-"t": "Microbiome",
-"q": "Which statement is TRUE?",
-"o": [
-"Urine is proven sterile in health",
-"Culture cannot classify bacteria",
-"Sequencing finds unculturable flora",
-"Gut flora never affect any therapy"
-],
-"a": 2,
-"e": [
-"Urine has its own microbiota previously missed by culture. Direct (urinary) and indirect (gut) microbiome links to GU cancer development and to treatment response or toxicity are under study."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-a33",
-"c062-r54",
-"c062-r55",
-"c062-r56"
-]
-},
-{
-"f": "mcq",
-"t": "Immunotherapy",
-"q": "Which statement is TRUE?",
-"o": [
-"PD-1 blockade suppresses T-cell activity",
-"PD-1 has no role in limiting autoimmunity",
-"Nivolumab beat everolimus in ccRCC",
-"PBRM1 loss predicts no PD-1 response"
-],
-"a": 2,
-"e": [
-"CheckMate 025 (Motzer 2015): better survival, fewer severe adverse events. The PD-1 pathway limits immune activity (reducing autoimmunity); blocking PD-1/PD-L1 enhances T-cell antitumour activity; effective first-line in cisplatin-ineligible bladder cancer. PBRM1 loss-of-function was associated with benefit in ccRCC."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-a34",
-"c062-r49",
-"c062-r50",
-"c062-r51",
-"c062-r52",
-"c062-r53"
-]
-},
-{
-"f": "mcq",
-"t": "Subtypes and stem cells",
-"q": "Which statement is TRUE?",
-"o": [
-"Progressing low-grade cancers are luminal",
-"Stem cells cannot differentiate any further",
-"De novo high-grade bladder cancers are luminal",
-"Cancer stem cells form most of the tumour"
-],
-"a": 0,
-"e": [
-"De novo high-grade tumours are basal-like. Stem cells differentiate along multiple lineages and are immortal; a small cancer stem-cell population may maintain the tumour, so targeting it might eradicate cancer. Most testicular germ cell tumours keep wild-type TP53, intact DNA damage responses and apoptosis, explaining high cure with DNA-damaging drugs."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-r30",
-"c062-r44",
-"c062-r46",
-"c062-r47",
-"c062-r48"
-]
-},
-{
-"f": "mcq",
-"t": "Testis cancer biology",
-"q": "Why are most testicular germ cell tumours cured by DNA-damaging chemotherapy?",
-"o": [
-"Bcl-2 overexpression in tumour cells",
-"Loss of telomerase in tumour cells",
-"High mismatch-repair deficiency rate",
-"Retained wild-type TP53"
+"It enters the scrotum by month five",
+"Abdominal pressure plays no part in transit",
+"Spina bifida does not raise cryptorchidism",
+"Testis is at the internal ring by month 3"
 ],
 "a": 3,
 "e": [
-"They keep an intact DNA damage response and apoptotic pathways; their karyotypic hallmark is isochromosome 12p."
+"The testis reaches the internal ring by the third month and traverses the canal to the scrotum between the 7th and 9th months. Abdominal pressure appears important for inguinal transit, which is why boys with spina bifida have a 23% incidence of cryptorchidism."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 20 Embryology",
 "c": [
-"c062-r44",
-"c062-a30"
+"c020-a16",
+"c020-r16",
+"c020-r10"
 ]
 },
 {
 "f": "mcq",
-"t": "Telomere checkpoint",
-"q": "The telomere length checkpoint that triggers senescence or apoptosis depends on:",
+"t": "Premalignant lesions",
+"q": "Which statement about premalignant penile lesions is FALSE?",
 "o": [
-"TP53 and RB1",
-"BRCA1 and BRCA2",
-"VHL and PBRM1",
-"MLH1 and MSH2"
-],
-"a": 0,
-"e": [
-"Normal cells monitor telomere length; critically short telomeres trigger senescence or apoptosis via TP53 and RB1. Loss of this checkpoint lets telomeres shorten critically, causing chromosomal instability and cancer initiation; most cancers then re-activate telomerase to become immortal."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-r33",
-"c062-r34"
-]
-},
-{
-"f": "mcq",
-"t": "INK4 action",
-"q": "p16 (INK4 family) loss in a tumour mainly releases which complex?",
-"o": [
-"Cyclin D–cdk4/6",
-"Cyclin A with cdk2",
-"Cyclin B with cdc2",
-"Cyclin E with cdk2"
-],
-"a": 0,
-"e": [
-"INK4 proteins block cyclin D–cdk4/6 assembly and activation; without them RB1 is phosphorylated and E2F released."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-a17",
-"c062-a18"
-]
-},
-{
-"f": "mcq",
-"t": "G2/M checkpoint",
-"q": "The G2/M checkpoint mainly responds to:",
-"o": [
-"DNA damage",
-"Nutrient lack",
-"Hypoxia",
-"Cytokines"
-],
-"a": 0,
-"e": [
-"Hypoxia, poor nutrients and cytokines act before replication (G1/S); DNA damage can arrest at G1/S and G2/M."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-a19"
-]
-},
-{
-"f": "mcq",
-"t": "Lynch-type repair",
-"q": "Mismatch repair mainly corrects:",
-"o": [
-"Oxidised bases",
-"Pyrimidine dimers",
-"Polymerase mispairs",
-"Double-strand breaks"
-],
-"a": 2,
-"e": [
-"Pyrimidine dimers (UV) are handled by NER; oxidised bases by BER; double-strand breaks by HR or NHEJ."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-r21",
-"c062-a20"
-]
-},
-{
-"f": "mcq",
-"t": "Bladder neck in RALP",
-"q": "After opening the anterior bladder neck, the next priority before posterior division is to:",
-"o": [
-"Ligate the pedicles",
-"Release the rectum",
-"Check for median lobe",
-"Divide the dorsal vein"
-],
-"a": 2,
-"e": [
-"A median lobe changes the posterior plane; a size mismatch may need bladder neck reconstruction."
-],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
-"c": [
-"c156-r07",
-"c156-r12"
-]
-},
-{
-"f": "mcq",
-"t": "PD-1 in bladder cancer",
-"q": "In advanced urothelial cancer, the book reports first-line efficacy of PD-1/PD-L1 blockade in:",
-"o": [
-"Low-grade Ta tumours",
-"All patients pre-cystectomy",
-"Cisplatin-ineligible patients",
-"Cisplatin-fit patients only"
-],
-"a": 2,
-"e": [
-"PD-1 limits immune activity (less autoimmunity); blocking PD-1/PD-L1 boosts T-cell antitumour activity. Update: since 2018 first-line single-agent checkpoint inhibitors are restricted to cisplatin-ineligible patients with high PD-L1 or those unfit for any platinum; since EV-302 (2023), enfortumab vedotin plus pembrolizumab is the preferred first-line therapy, and avelumab maintenance (JAVELIN Bladder 100) follows response to platinum."
-],
-"s": "Ch 62 Molecular genetics",
-"c": [
-"c062-r51",
-"c062-r49",
-"c062-r50"
-]
-},
-{
-"f": "mcq",
-"t": "Patient selection",
-"q": "In a surgeon's early RALP experience, which patient is best avoided?",
-"o": [
-"A 120 g gland after prior TURP",
-"Low-volume Gleason 3+4 cancer",
-"A 30 g gland, organ-confined",
-"A 40 g gland, BMI 26, no surgery"
-],
-"a": 0,
-"e": [
-"Large glands, median lobe, morbid obesity, prior pelvic surgery, radiation or TURP raise difficulty but are not absolute contraindications."
-],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
-"c": [
-"c156-r01"
-]
-},
-{
-"f": "mcq",
-"t": "Trendelenburg risks",
-"q": "Which complication is specifically linked to prolonged steep Trendelenburg?",
-"o": [
-"Bladder neck contracture",
-"Retroperitoneal haematoma",
-"Penile shortening late",
-"Raised eye pressure"
-],
-"a": 3,
-"e": [
-"Also corneal oedema, hypercarbia with acidosis and neurapraxia."
-],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
-"c": [
-"c156-r03"
-]
-},
-{
-"f": "mcq",
-"t": "Cost drivers",
-"q": "In Link's 2004 analysis, the main driver of laparoscopic prostatectomy cost was:",
-"o": [
-"Operating time",
-"Hospital stay",
-"Surgeon fees",
-"Disposables"
-],
-"a": 0,
-"e": [
-"Order of importance: operative time, length of stay, then consumables."
-],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
-"c": [
-"c156-a12"
-]
-},
-{
-"f": "mcq",
-"t": "Cancer stem cells",
-"q": "The cancer stem cell hypothesis implies that cure may need:",
-"o": [
-"Restoring global methylation",
-"Eradicating the small stem pool",
-"Blocking telomere shortening",
-"Killing all differentiated cells"
+"Verrucous carcinoma links to HPV 6 and 11",
+"Bowen disease is driven by HPV 6 and 11",
+"PEKMB may coexist with verrucous cancer",
+"Bowenoid papulosis is linked to HPV 16"
 ],
 "a": 1,
 "e": [
-"A small stem-cell population maintains the tumour; targeting it might eradicate the cancer."
+"Bowen disease on mucosal male genitalia is erythroplasia of Queyrat; HPV 8, 16, 39 and 51 co-infection has been found there. Verrucous carcinoma is linked to HPV 6/11, not 16/18. Bowenoid papulosis: multiple small red papules, HPV 16. Pseudoepitheliomatous keratotic micaceous balanitis (PEKMB): thick hyperkeratotic glans plaque in older men; premalignant status debated; concurrent verrucous carcinoma reported. Book: penile CIS rarely progresses. Caution: erythroplasia of Queyrat is usually quoted as progressing to invasive SCC in up to about 10–30%."
 ],
-"s": "Ch 62 Molecular genetics",
+"s": "Ch 59 Genital skin diseases",
 "c": [
-"c062-r47",
-"c062-r48"
+"c059-a32",
+"c059-r09",
+"c059-r11",
+"c059-a35"
 ]
 },
 {
 "f": "mcq",
-"t": "Bladder neck dissection",
-"q": "During RALP bladder neck dissection, the presence of a median lobe should be defined:",
+"t": "Complex ureteric reconstruction",
+"q": "Which statement is FALSE?",
 "o": [
-"After anterior and before posterior neck division",
-"Only after the urethra has been fully divided",
-"Before any incision of the anterior bladder neck",
-"After the seminal vesicles have been dissected"
+"Autotransplant can bridge long upper loss",
+"Refluxing and non-refluxing reimplants match",
+"Ileal ureter is avoided if creatinine >2",
+"TUU suits a patient with recurrent stones"
 ],
-"a": 0,
+"a": 3,
 "e": [
-"The bladder neck–prostate junction is found with physical manoeuvres and visual cues. After dividing the anterior bladder neck, check for a median lobe before dividing the posterior bladder neck. Large median lobe or prior TURP may need bladder neck reconstruction for size mismatch."
+"Transureteroureterostomy (TUU) is relatively contraindicated by stones, retroperitoneal fibrosis, urothelial cancer, chronic pyelonephritis and pelvic radiation. Book case (5 cm upper defect, small bladder, stones, creatinine >2 mg/dL): ureteroureterostomy, Boari flap, TUU and ileal ureter all unsuitable, so autotransplantation. In adults, refluxing and non-refluxing reimplants preserve function equally. About 25% renal function is needed to keep a UPJ or ureteral repair open."
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 89 Upper tract obstruction",
 "c": [
-"c156-r06",
-"c156-r07"
+"c089-a20",
+"c089-a12",
+"c089-r17",
+"c089-r22"
 ]
 },
 {
 "f": "mcq",
-"t": "RALP complications",
-"q": "Which statement about complications of RALP is TRUE?",
+"t": "Bleeding and rectal injury",
+"q": "Which statement about complications of open RP is FALSE?",
 "o": [
-"Rectal injury is commoner in salvage surgery",
-"Bladder neck stricture is seen in over 15%",
-"Recognised rectal injury is best left alone",
-"Urine leak rarely needs longer catheterisation"
+"Omentum is interposed after rectal repair",
+"Pelvic haematoma can cause neck contracture",
+"Re-exploration lowers incontinence risk",
+"Hypotension needing blood is just observed"
+],
+"a": 3,
+"e": [
+"Patients needing acute transfusion for hypotension after RP should be re-explored to evacuate the pelvic haematoma, lowering the risk of bladder neck contracture and incontinence. After repairing a rectal injury, interpose omentum between the rectal closure and the anastomosis to prevent a rectourethral fistula."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-a22",
+"c155-a23",
+"c155-r25"
+]
+},
+{
+"f": "mcq",
+"t": "Cutaneous malignancy",
+"q": "Which statement is FALSE?",
+"o": [
+"Classic KS favours the lower limbs",
+"Sézary syndrome is leukaemic CTCL",
+"Radiotherapy may transform verrucous cancer",
+"EPD has another cancer in over 60%"
+],
+"a": 3,
+"e": [
+"Extramammary Paget disease (EPD): intraepithelial adenocarcinoma of apocrine sites; another underlying cancer in 10–30% (urethral, bladder, rectal, apocrine). Verrucous carcinoma: slow, exophytic, low-grade, rarely metastasises; uncircumcised glans/prepuce; local excision; primary radiotherapy relatively contraindicated (anaplastic transformation). Kaposi sarcoma: classic type on lower limbs, genitalia seldom; in AIDS a solitary genital lesion may be first; transplant-associated KS may resolve with altered immunosuppression; neoplastic vs hyperplastic debated. Cutaneous T-cell lymphoma: pruritus mimicking benign dermatoses, then plaques, ulcers, tumours; blood involvement = Sézary syndrome."
+],
+"s": "Ch 59 Genital skin diseases",
+"c": [
+"c059-a33",
+"c059-a34",
+"c059-a36",
+"c059-a37",
+"c059-r12",
+"c059-r17"
+]
+},
+{
+"f": "mcq",
+"t": "Incontinence and sparing",
+"q": "Which statement about continence and tissue sparing in open RP is TRUE?",
+"o": [
+"Bladder neck sparing reduces stricture rate",
+"Seminal vesicle sparing improves continence",
+"Seminal vesicle sparing has caused abscesses",
+"Leakage is mostly sphincter deficiency"
+],
+"a": 3,
+"e": [
+"Post-RP incontinence is usually intrinsic sphincter deficiency. Book: seminal vesicle sparing did not improve continence, potency or margins, with no reported pelvic abscess; bladder neck sparing did not improve continence, potency, margins or strictures. Complete seminal vesicle excision is recommended for cancer control. Note: some meta-analyses report better early continence with bladder neck preservation."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-a25",
+"c155-a26",
+"c155-a27",
+"c155-r15"
+]
+},
+{
+"f": "mcq",
+"t": "Retrocaval and conduits",
+"q": "Which statement is FALSE?",
+"o": [
+"Conduit hydronephrosis means obstruction",
+"Ureteric strictures need cancer excluded",
+"Repair places the ureter ventral to the IVC",
+"Retrocaval ureter is a venous anomaly here"
 ],
 "a": 0,
 "e": [
-"Rectal injury is rare but higher after radiation (salvage) and should be repaired when recognised; full mobilisation of the rectoprostatic plane prevents it and defines the medial pedicles and NVBs. Bladder neck stricture should be under 5%. A non-watertight anastomosis can leak and needs a longer catheter period. Pad all compression points in Trendelenburg."
+"Most patients with long-term conduits have some non-obstructive hydronephrosis. Retrocaval ureter results from persistence of the posterior cardinal veins; repair transects the ureter and relocates it ventral to the IVC. Always rule out malignancy in a ureteral stricture."
 ],
-"s": "Ch 156 Laparoscopic/robotic prostatectomy",
+"s": "Ch 89 Upper tract obstruction",
 "c": [
-"c156-r14",
-"c156-r08"
+"c089-r18",
+"c089-a09",
+"c089-r14",
+"c089-r16"
+]
+},
+{
+"f": "mcq",
+"t": "Benign genital lesions",
+"q": "Which statement about benign genital lesions is FALSE?",
+"o": [
+"Zoon balanitis is common after circumcision",
+"Pearly penile papules are angiofibromas",
+"Eruptive seborrhoeic keratoses signal cancer",
+"Fordyce angiokeratomas may bleed"
+],
+"a": 0,
+"e": [
+"Zoon (plasma cell) balanitis affects uncircumcised men from the 3rd decade; biopsy shows reactive epithelium with dermal plasma cells; exclude SCC and EPD; circumcision prevents and cures most cases (steroids or laser if refused). Pearly penile papules are angiofibromas like facial lesions of tuberous sclerosis. Angiokeratomas of Fordyce: 1–2 mm red-purple ectasias that may bleed. Skin tags (acrochordons) must be told from Birt-Hogg-Dubé fibrofolliculomas. Seborrhoeic keratoses spare mucosa, palms and soles; abrupt eruption (Leser-Trélat) marks internal malignancy. Epidermoid cysts are common in the scrotum."
+],
+"s": "Ch 59 Genital skin diseases",
+"c": [
+"c059-a38",
+"c059-a39",
+"c059-a40",
+"c059-a41",
+"c059-a42",
+"c059-r10",
+"c059-r13"
+]
+},
+{
+"f": "mcq",
+"t": "Potency after RP",
+"q": "Which statement about potency after open RP is FALSE?",
+"o": [
+"Potency rose from 42% to 73% by 1 year",
+"Sural grafts are laid in reversed position",
+"An RCT showed sural grafts aid potency",
+"Age and baseline potency affect recovery"
+],
+"a": 2,
+"e": [
+"A randomised study of sural nerve grafting when a bundle was sacrificed showed no difference; with bilateral grafts, 26% had full erections. Grafts are placed reversed (proximal to distal). Recovery depends on age, preoperative potency and bundle preservation; in one study 42% potent at 3 months, 73% at 1 year. Book: if PDE5 inhibitors are used, on-demand dosing is preferred to daily (trials such as REINVENT found no advantage for nightly dosing)."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-a28",
+"c155-a29",
+"c155-r10",
+"c155-r11",
+"c155-r12",
+"c155-r21"
+]
+},
+{
+"f": "mcq",
+"t": "Retroperitoneal fibrosis",
+"q": "Which statement about retroperitoneal fibrosis (RPF) is FALSE?",
+"o": [
+"Biopsy rarely helps exclude malignancy",
+"Steroids are the usual first treatment",
+"Many cases are immune-mediated aortitis",
+"Raised ESR predicts a steroid response"
+],
+"a": 0,
+"e": [
+"Malignant RPF is often indistinguishable from idiopathic RPF; only biopsy showing tumour islands identifies it. Most cases are immune-mediated aortitis (many now recognised as IgG4-related disease). CT: soft tissue around the aorta and IVC effacing the planes between them (perianeurysmal fibrosis if aneurysm). Steroids first, more likely to help with active inflammation (high ESR, leukocytosis, lymphocytes on biopsy); also azathioprine, cyclophosphamide, ciclosporin, colchicine, tamoxifen (rituximab is used in IgG4 disease)."
+],
+"s": "Ch 89 Upper tract obstruction",
+"c": [
+"c089-a08",
+"c089-a23",
+"c089-r19",
+"c089-r20",
+"c089-r21"
+]
+},
+{
+"f": "mcq",
+"t": "Late complications",
+"q": "Which statement about complications of open RP is FALSE?",
+"o": [
+"Bladder neck contracture is under 10%",
+"Inguinal hernia follows in under 2%",
+"Hernias after RP are usually indirect",
+"Rectal injury rates have fallen sharply"
+],
+"a": 1,
+"e": [
+"15–20% develop an inguinal hernia, usually indirect. Bladder neck contractures occur in <10%. Of complication rates, only rectal injury has changed dramatically."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-r05",
+"c155-r09",
+"c155-a30"
+]
+},
+{
+"f": "mcq",
+"t": "Timing and salvage",
+"q": "Which statement is FALSE?",
+"o": [
+"Wait 3 months after TURP for surgery",
+"Salvage RP needs truly localised disease",
+"Salvage RP keeps potency in most men",
+"Wait 6–8 weeks after biopsy for surgery"
+],
+"a": 2,
+"e": [
+"Defer RP 6–8 weeks after biopsy and 3 months after TURP. Salvage RP only for unequivocally localised cancer; complications: incontinence 50%, anastomotic stricture 24%, near-universal erectile dysfunction, about 45% recurrence at 5 years."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-r16",
+"c155-r13",
+"c155-r14"
+]
+},
+{
+"f": "mcq",
+"t": "Lymphadenectomy and endopelvic fascia",
+"q": "Which step in open RP and pelvic lymphadenectomy is correct?",
+"o": [
+"Keep the hypogastric veins unexposed",
+"Clip pudendal perforators at the fascia",
+"Ligate the obturator vein routinely",
+"Clear lymphatics over the external iliac"
+],
+"a": 1,
+"e": [
+"Obturator artery and vein are skeletonised but left unless bleeding; dissection goes down to the pelvic floor, exposing the hypogastric veins. Preserve the lymphatics on the external iliac artery (they drain the leg). On extending the endopelvic incision toward the puboprostatic ligaments, clip small pudendal branches perforating the pelvic muscle to avoid coagulation injury to the pudendal artery and nerve beneath."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-a08",
+"c155-a09",
+"c155-r17"
+]
+},
+{
+"f": "mcq",
+"t": "Perineal prostatectomy",
+"q": "Which statement about radical perineal prostatectomy is FALSE?",
+"o": [
+"Rectal injury occurs in about 1% to 5%",
+"Leg neurapraxia is usually transient only",
+"Rectal manipulation is avoided after it",
+"Lowsley traction helps rectourethralis cut"
+],
+"a": 3,
+"e": [
+"Upward traction on the Lowsley tractor while dividing the rectourethralis tents the rectum and causes injury; an assistant should press gently downward, and traction waits until after division. Rectal injury: 1–5% in most series (one 11%); repaired at once the operation proceeds; unrecognised it can form a fistula. Lower limb sensory neurapraxia ~2% (one series 25%), more than retropubic, almost always transient; motor deficit rare. Rapid diet, early walking, most home by day 2; no rectal manipulation. A red rubber catheter guides the anterior sutures; the Foley goes in only after they are tied; interrupted sutures; tennis-racquet neck reconstruction if needed."
+],
+"s": "Ch 155 Open radical prostatectomy",
+"c": [
+"c155-a31",
+"c155-a32",
+"c155-a33",
+"c155-r26",
+"c155-a34"
 ]
 }
 ]

@@ -24,7 +24,7 @@ if len(sys.argv) > 3:
     plan = json.load(open(os.path.join(ROOT, 'sets_plan.json')))[n-1]; M = json.load(open(os.path.join(ROOT, 'chapters.json')))
     chs = ', '.join(str(c) for c in plan['chapters'])
     html = tpl.replace('__TITLE__', f'Mixed MCQ Set {n}').replace('__STORE__', f'mch-mixed-set-{n}') \
-              .replace('__H1__', f'Mixed set {n} of 41: {len(out)} MCQs').replace('__EYEBROW__', f'MCh Urology · Campbell-Walsh-Wein Review · chapters {chs}') \
-              .replace('__SUB__', 'Part of a 41-set series covering every book question and Chapter Review point of chapters 15–162. Topics are mixed. All four options are similar in length. Read every explanation: it carries the remaining facts.') \
+              .replace('__H1__', f'Mixed set {n} of 20: {len(out)} MCQs').replace('__EYEBROW__', f'MCh Urology · Campbell-Walsh-Wein Review · chapters {chs}') \
+              .replace('__SUB__', 'Part of a 20-set series covering every book question and Chapter Review point of chapters 20–162. Topics are mixed. All four options are similar in length. Read every explanation: it carries the remaining facts.') \
               .replace('__Q__', json.dumps([{k: v for k, v in x.items() if k != 'c'} for x in out], ensure_ascii=False))
     open(sys.argv[3], 'w').write(html); print('wrote', sys.argv[3])
