@@ -68,6 +68,11 @@
 | 81 | Inguinal Node Dissection | 12 | 8 | 7 |
 | 82 | Surgery for Benign Disorders of the Penis and Urethra | 31 | 25 | 20 |
 | 83 | Surgery of the Scrotum and Seminal Vesicles | 31 | 17 | 17 |
+| 84 | Surgical, Radiologic, and Endoscopic Anatomy of the Kidney and Ureter | 14 | 11 | 9 |
+| 85 | Physiology and Pharmacology of the Renal Pelvis and Ureter | 28 | 15 | 15 |
+| 86 | Renal Physiology and Pathophysiology Including Renovascular Hypertension | 18 | 34 | 18 |
+| 87 | Renal Insufficiency and Ischemic Nephropathy | 26 | 28 | 19 |
+| 88 | Urological Complications of Renal Transplantation | 11 | 11 | 8 |
 | 105 | Surgical and Radiographic Anatomy of the Adrenals | 8 | 8 | 6 |
 | 106 | Pathophysiology, Evaluation, and Medical Management of Adrenal Disorders | 42 | 29 | 25 |
 | 107 | Surgery of the Adrenal Glands | 12 | 10 | 8 |
@@ -127,6 +132,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 121. **In MCQ scope (15+):** 107 chapters, 2061 book Qs, 2047 review points, about 1438 MCQs for full coverage.
+**Chapters held:** 126. **In MCQ scope (15+):** 112 chapters, 2158 book Qs, 2146 review points, about 1506 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 84–104 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 89–104 (and anything after 162).

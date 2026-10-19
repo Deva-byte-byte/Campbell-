@@ -719,6 +719,36 @@
   "title": "Surgery of the Scrotum and Seminal Vesicles",
   "w": 3020
  },
+ "84": {
+  "q": 14,
+  "r": 11,
+  "title": "Surgical, Radiologic, and Endoscopic Anatomy of the Kidney and Ureter",
+  "w": 1719
+ },
+ "85": {
+  "q": 28,
+  "r": 15,
+  "title": "Physiology and Pharmacology of the Renal Pelvis and Ureter",
+  "w": 2679
+ },
+ "86": {
+  "q": 18,
+  "r": 34,
+  "title": "Renal Physiology and Pathophysiology Including Renovascular Hypertension",
+  "w": 2420
+ },
+ "87": {
+  "q": 26,
+  "r": 28,
+  "title": "Renal Insufficiency and Ischemic Nephropathy",
+  "w": 3013
+ },
+ "88": {
+  "q": 11,
+  "r": 11,
+  "title": "Urological Complications of Renal Transplantation",
+  "w": 1389
+ },
  "9": {
   "q": 14,
   "r": 15,
