@@ -78,6 +78,10 @@
 | 91 | Urinary Lithiasis: Etiology, Epidemiology, and Pathogenesis | 30 | 37 | 23 |
 | 92 | Evaluation and Medical Management of Urinary Lithiasis | 31 | 19 | 18 |
 | 93 | Strategies for Nonmedical Management of Upper Urinary Tract Calculi | 20 | 26 | 16 |
+| 94 | Surgical Management for Upper Urinary Tract Calculi | 33 | 18 | 18 |
+| 95 | Lower Urinary Tract Calculi | 22 | 15 | 13 |
+| 96 | Benign Renal Tumors | 13 | 28 | 14 |
+| 97 | Malignant Renal Tumors | 72 | 38 | 38 |
 | 105 | Surgical and Radiographic Anatomy of the Adrenals | 8 | 8 | 6 |
 | 106 | Pathophysiology, Evaluation, and Medical Management of Adrenal Disorders | 42 | 29 | 25 |
 | 107 | Surgery of the Adrenal Glands | 12 | 10 | 8 |
@@ -137,6 +141,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 131. **In MCQ scope (15+):** 117 chapters, 2272 book Qs, 2278 review points, about 1592 MCQs for full coverage.
+**Chapters held:** 135. **In MCQ scope (15+):** 121 chapters, 2412 book Qs, 2377 review points, about 1676 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 94–104 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 98–104 (and anything after 162).
