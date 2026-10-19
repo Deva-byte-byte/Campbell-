@@ -27,7 +27,7 @@ def stats(t):
         if not title and not s: continue
         if len(title) < 4 and s and not s.lower().startswith('keyword') and sec is None and not re.search(r'[A-Z]\.,? [A-Z]|, and ', s):
             title.append(s); continue
-        if re.match(r'^Answers', s): sec = 'A'
+        if re.match(r'^Answers', s, re.I): sec = 'A'
         elif re.match(r'^Questions', s): sec = 'Q'
         elif re.match(r'^Chapter [Rr]eview', s): sec = 'R'
         elif sec == 'A' and re.match(r'^\d{1,2}\.? ?[a-f]\.', s): a += 1

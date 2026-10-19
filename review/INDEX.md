@@ -35,6 +35,10 @@
 | 28 | Clinical and Urodynamic Evaluation of Lower Urinary Tract Dysfunction in Children | 15 | 15 | 10 |
 | 29 | Management Strategies for Vesicoureteral Reflux | 45 | 24 | 24 |
 | 30 | Bladder Anomalies in Children | 14 | 14 | 10 |
+| 31 | Exstrophy-Epispadias Complex | 48 | 24 | 25 |
+| 32 | Prune-Belly Syndrome | 12 | 16 | 10 |
+| 33 | Posterior Urethral Valves | 16 | 30 | 16 |
+| 34 | Neuromuscular Dysfunction of the Lower Urinary Tract in Children | 24 | 27 | 18 |
 | 35 | Functional Disorders of the Lower Urinary Tract in Children | 8 | 14 | 8 |
 | 36 | Management of Defecation Disorders | 20 | 12 | 11 |
 | 37 | Lower Urinary Tract Reconstruction in Children | 40 | 21 | 21 |
@@ -164,6 +168,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 158. **In MCQ scope (15+):** 144 chapters, 2854 book Qs, 2751 review points, about 1962 MCQs for full coverage.
+**Chapters held:** 162. **In MCQ scope (15+):** 148 chapters, 2954 book Qs, 2848 review points, about 2031 MCQs for full coverage.
 
-**Missing (15 onward):** 31–34 (and anything after 162).
+**Missing (15 onward):**  (and anything after 162).
