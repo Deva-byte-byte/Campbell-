@@ -56,6 +56,9 @@
 | 118 | The Underactive Detrusor | 21 | 15 | 13 |
 | 119 | Nocturia | 11 | 7 | 6 |
 | 120 | Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure | 37 | 15 | 18 |
+| 130 | Bladder and Female Urethral Diverticula | 25 | 16 | 14 |
+| 131 | Surgical Procedures for Sphincteric Incontinence in the Male | 15 | 23 | 13 |
+| 132 | Bladder Surgery for Benign Disease | 10 | 26 | 13 |
 | 143 | Development, Molecular Biology, and Physiology of the Prostate | 15 | 21 | 13 |
 | 144 | Benign Prostatic Hyperplasia | 14 | 23 | 13 |
 | 145 | Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia | 40 | 18 | 20 |
@@ -77,6 +80,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 71. **In MCQ scope (15+):** 57 chapters, 1095 book Qs, 1190 review points, about 800 MCQs for full coverage.
+**Chapters held:** 74. **In MCQ scope (15+):** 60 chapters, 1145 book Qs, 1255 review points, about 840 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–54, 63–74, 80–104, 110–116, 121–142 (and anything after 162).
+**Missing (15 onward):** 25, 31–54, 63–74, 80–104, 110–116, 121–129, 133–142 (and anything after 162).
