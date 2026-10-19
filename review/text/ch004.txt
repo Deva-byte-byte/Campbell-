@@ -1,0 +1,358 @@
+4
+
+Urinary Tract Imaging
+
+Basic Principles of Urologic
+Ultrasonography
+Bruce R. Gilbert, and Pat F. Fulgham
+
+
+
+Keywords
+sonoelastography; urinary tract imaging; urologic ultrasound
+
+Questions
+     1. The maximum excursion of a wave above and below the baseline is
+        known as its:
+            a. wavelength.
+            b. frequency.
+            c. period.
+            d. cycle.
+            e. amplitude.
+     2. The artifact that occurs when an ultrasound wave strikes an
+        interface at a critical angle and is refracted with limited reflection
+        is:
+            a. reverberation artifact.
+            b. increased through-transmission artifact.
+            c. edging artifact.
+            d. comet-tail artifact.
+       e. aliasing artifact.
+3. Which ultrasound mode allows for detection and characterization of
+    the velocity and direction of motion?
+       a. Harmonic scanning
+       b. Color Doppler
+       c. Power Doppler
+       d. Spatial compounding
+       e. Gray-scale ultrasonography
+4. If the kidney is less echogenic than the liver, the kidney is described
+    as:
+       a. hyperechoic.
+       b. hypoechoic.
+       c. isoechoic.
+       d. anechoic.
+       e. echogenic.
+5. The sonographic hallmark of testicular torsion is:
+       a. the “blue dot” sign.
+       b. epididymal edema.
+       c. paratesticular fluid.
+       d. increased epididymal blood flow.
+       e. absence of intratesticular blood flow.
+6. Ultrasound waves are examples of:
+       a. radio waves.
+       b. mechanical waves.
+       c. electromagnetic waves.
+       d. ionizing radiation.
+       e. light waves.
+7. The most important determinant of axial resolution is:
+       a. impedance.
+       b. speed of propagation.
+       c. acoustic power.
+       d. frequency.
+       e. number of foci.
+8. Increasing frequency results in a loss of:
+       a. absorption.
+       b. axial resolution.
+      c. lateral resolution.
+      d. depth of penetration.
+      e. mechanical index.
+ 9. When sound waves encounter the interface between two tissues
+    with large differences in impedance, the waves are:
+      a. increased in frequency.
+      b. decreased in frequency.
+      c. reflected.
+      d. refracted.
+      e. reverberated.
+10. When a tissue appears darker than the surrounding tissue on
+    ultrasound it is said to be relatively:
+       a. hypoechoic.
+       b. hyperechoic.
+       c. hypodense.
+       d. isoechoic
+       e. anechoic.
+11. The focal zone represents the area of best:
+       a. lateral resolution.
+       b. axial resolution.
+       c. echogenicity.
+       d. blood flow.
+       e. tissue penetration.
+12. Increasing the gain has the effect of:
+       a. increasing amplitude of the sound waves.
+       b. increasing acoustic power.
+       c. increasing thermal index.
+       d. increasing mechanical index.
+       e. increasing transducer sensitivity.
+13. One way to improve the visualization of deep structures is to:
+       a. increase the frequency.
+       b. decrease the frequency.
+       c. increase the wave velocity.
+       d. decrease the gain.
+       e. employ Doppler flow.
+14. The best frequency for performing external renal ultrasound in
+    most adults is:
+       a. 3.5 to 5 MHz.
+       b. 6 to 7 MHz.
+       c. 7.5 to 8.4 MHz.
+       d. 8.5 to 9.9 MHz.
+       e. None of the above.
+15. A simple cyst of the kidney would not display which of the
+    following characteristics?
+       a. Bright back wall
+       b. Increased through transmission
+       c. Anechoic interior
+       d. Edging artifact
+       e. Hyperechoic internal nodule
+16. Which of the following is correct?
+       a. Measuring bladder volume requires three-dimensional
+          scanning.
+       b. A nearly empty bladder is desirable for bladder scanning.
+       c. A curved array transducer is preferred for bladder ultrasound
+          in most patients.
+       d. Ureteroceles are usually poorly visualized because the
+          membrane is thin.
+       e. Bladder ultrasound is a sensitive screening exam for suspected
+          bladder tumors.
+17. Which of the following are evaluable by transabdominal bladder
+    ultrasound?
+       a. Urine volume
+       b. Bladder wall characteristics
+       c. Stones or diverticulum
+       d. Dilated ureters
+       e. All of the above
+18. Scrotal ultrasound for the evaluation of possible testicular torsion
+    may include all of the following but must include:
+       a. B-mode ultrasound.
+       b. multiple scrotal views.
+       c. Doppler flow studies.
+       d. simultaneous bilateral views.
+       e. harmonic scanning.
+19. The most important limitation of ultrasound in attempting to
+    characterize complex renal cysts as benign or malignant is:
+       a. refraction.
+       b. inability to evaluate enhancement.
+       c. lack of axial resolution.
+       d. increased through-transmission with artifact.
+       e. reverberation artifact.
+20. A complete transrectal ultrasound of the prostate should include an
+    evaluation of:
+       a. rectal wall.
+       b. seminal vesicles and ejaculatory ducts.
+       c. bladder.
+       d. prostate.
+       e. all of the above.
+21. Which of the following would not typically be visible in a sagittal
+    midline prostate ultrasound?
+       a. Middle lobe of the prostate
+       b. Central zone
+       c. Ejaculatory duct
+       d. Tip of right seminal vesicle
+       e. Apex of the prostate
+22. Characteristics of prostate cancer as demonstrated on transrectal
+    ultrasound of the prostate may include:
+       a. hypoechogenicity.
+       b. hyperechogenicity.
+       c. prostate asymmetry.
+       d. increased vascularity.
+       e. all of the above.
+23. The single most important determinant of patient safety in
+    ultrasound utilization is:
+       a. multifrequency probes.
+       b. good documentation.
+       c. an informed operator.
+       d. periodic equipment inspection.
+        e. Doppler capability.
+  24. The disinfection level protocol required for transrectal ultrasound
+      probes following needle biopsy is:
+        a. low.
+        b. moderate.
+        c. high.
+        d. critical.
+        e. none of the above.
+  25. For patient safety it is preferable to maximize and limit:
+        a. acoustic power, exam duration.
+        b. acoustic power, gain.
+        c. gain, acoustic power.
+        d. gain, use of cine function.
+        e. images, description.
+
+Answers
+  1. e. Amplitude. In ultrasound physics it is crucial to understand the
+     concept of amplitude. The amplitude of an ultrasound wave
+     represents its relative energy state, and it is the amplitude of the
+     returning sound wave that determines the pixel brightness to be
+     displayed on a monitor during real-time gray-scale imaging.
+  2. c. Edging artifact. Echo reflection is the primary mechanism
+     whereby sound waves are returned to a transducer. It is important to
+     understand how the angle of insonation affects the reflection and
+     refraction of sound waves. There is a critical angle at which waves
+     will travel along an interface rather than being returned to the
+     probe. When this angle is encountered, it provides a dark or
+     hypoechoic “shadow” called an “edging artifact.” A reverberation
+     artifact is one caused by multiple transits of a sound wave between
+     the transducer and the reflecting object. Increased through-
+     transmission artifact is caused by decreased attenuation of sound
+     waves as they travel through a fluid-filled structure. Comet-tail
+     artifact is seen as the result of the interaction between sound waves
+   and fluid and gas filled structures such as the bowel. Aliasing
+   artifact is seen with Doppler ultrasonography.
+3. b. Color Doppler. Doppler ultrasonography is important for
+   evaluating motion and flow. The critical difference between color
+   Doppler and power Doppler is that color Doppler is able to evaluate
+   both flow velocity and direction. Power Doppler evaluates
+   integrated amplitude of the returning sound waves. Although gray-
+   scale ultrasonography does permit the evaluation of motion, it does
+   not permit the characterization of velocity or direction. Harmonic
+   scanning and spatial compounding are modes that allow the
+   selective evaluation or combination of reflected frequencies in
+   ways that improve image quality.
+4. b. Hypoechoic. In describing ultrasound images, it is important to
+   use correct terminology. Descriptive terms involving echogenicity
+   are relative terms. A hyperechoic or hypoechoic structure is being
+   described in relation to the echogenicity of a reference standard. In
+   most cases the reference standard is the liver. In the adult the
+   normal kidney is hypoechoic relative to the normal liver in
+   approximately 75% of patients.
+5. e. Absence of intratesticular blood flow. The absence of
+   intratesticular blood flow is the classic sonographic finding in
+   testicular torsion. However, there are many documented cases of
+   some preserved intratesticular blood flow even in cases with
+   significant torsion. Therefore testicular torsion remains a clinical
+   diagnosis. Epididymal edema, paratesticular fluid, and increased
+   epididymal blood flow may be seen with testicular torsion but may
+   also be seen with other clinical conditions. The blue dot sign is a
+   classic physical finding in torsion of the appendix testis.
+6. b. Mechanical waves: Mechanical waves are represented
+   graphically as a sine wave alternating between a positive and
+   negative direction from the baseline. Sound waves as they
+   propagate through human tissue produce areas of returning
+   compression and rarefaction.
+7. d. Frequency: Axial resolution is directly dependent on the
+   frequency of sound waves. The higher the sound wave’s frequency
+   is, the better the axial resolution.
+ 8. d. Depth of penetration: The optimal ultrasound image requires
+    tradeoffs between resolution and depth of penetration. High-
+    frequency transducers of 6 to 10 MHz may be used to image
+    structures near the surface of the body (e.g., testis, pediatric kidney)
+    with excellent resolution. However, deeper structures (e.g., right
+    kidney, bladder) require lower frequencies of 3.5 to 5 MHz to
+    penetrate. Such images will have poorer axial resolution.
+ 9. c. Reflected: The shape and size of the object and the angle at
+    which the advancing wave strikes the object are critical
+    determinants of the amount of energy reflected. The amount of
+    energy reflected from an interface is also influenced by the
+    impedance of the two tissues at the interface. Impedance is a
+    property that is influenced by tissue stiffness and density. It is the
+    difference in impedance that allows an appreciation of interfaces
+    between different types of tissue.
+10. a. Hypoechoic: The liver is usually used as a benchmark for
+     echogenicity. A hypoechoic area is described as “darker” on B-
+     mode ultrasound.
+11. a. Lateral resolution: Lateral resolution refers to the ability to
+     identify separately objects that are equidistant from the transducer.
+     Lateral resolution is a function of the focused width of the
+     ultrasound beam and is a characteristic of the transducer. The
+     location of the narrowest beam width can be adjusted by the user.
+     The more focused the beam is, the better the lateral resolution at
+     that location. Thus image quality can be enhanced by locating the
+     narrowest beam width (focus or focal zone) at the depth of the
+     object or tissue of interest
+12. e. Increasing transducer sensitivity: The gain control on the
+     console of the ultrasound machine permits the user to increase or
+     decrease the sensitivity of the transducer to reflected sound waves.
+13. b. Decrease the frequency: The optimal ultrasound image requires
+     trade-offs between resolution and depth of penetration. High-
+     frequency transducers of 6 to 10 MHz may be used to image
+     structures near the surface of the body (e.g., testis, pediatric
+     kidney), with excellent resolution. However, deeper structures
+    (e.g., right kidney, bladder) require lower frequencies of 3.5 to 5
+    MHz to penetrate. Such images will have poorer axial resolution.
+14. a. 3.5 to 5 MHz: Deeper structures (e.g., right kidney, bladder)
+    require lower frequencies of 3.5 to 5 MHz to penetrate.
+15. e. Hyperechoic internal nodule: A simple cyst is an example of a
+    structure that is well circumscribed, with an anechoic interior and
+    through transmission.
+16. c. A curved array transducer is preferred for bladder
+    ultrasound in most patients: A curved array transducer is of
+    lower frequency (3.5–6 MHz) and provides greater depth of
+    penetration but with less axial resolution. It is most often the
+    transducer of choice for imaging the kidney and urinary bladder.
+17. e. All of the above: Urine volume, bladder wall characteristics, the
+    presence of calculi or diverticulum, and the presence of dilated
+    ureters just outside the bladder are all evaluable by transabdominal
+    bladder ultrasound.
+18. c. Doppler flow studies: Caution should be used when interpreting
+    Doppler flow studies in the evaluation of suspected testicular
+    torsion. The hallmark of testicular torsion is the absence of
+    intratesticular blood flow. Paratesticular flow in epididymal
+    collaterals may appear within hours of torsion. Comparison with
+    the contralateral testis should be performed to ensure that the
+    technical attributes of the study are adequate to demonstrate
+    intratesticular blood flow.
+19. b. Inability to evaluate enhancement: Unlike computed
+    tomography (CT), currently ultrasound cannot evaluate
+    enhancement. Once it is approved by the US Food and Drug
+    Administration (FDA) for this purpose, contrast-enhanced
+    ultrasound will allow the detection of enhancement of renal masses
+    by ultrasound.
+20. e. All of the above: When evaluating the prostate, surrounding
+    structures need to be assessed. Rectal lesions (including cancer),
+    dilated seminal vesicles, and/or ejaculatory ducts as well as bladder
+    pathology should all be evaluated for a complete examination.
+21. d. Tip of right seminal vesicle: In a midline sagittal view the tips
+    of the seminal vesicles are not normally visualized on ultrasound.
+      An axial projection needs to be obtained to be able to measure the
+      length of each seminal vesicle.
+  22. e. All of the above: Although excellent resolution and tissue
+      characteristics is possible with transrectal ultrasound a diagnosis of
+      prostate cancer is not often able to be made with ultrasound alone.
+  23. c. An informed operator: The ALARA (as low as reasonably
+      achievable) principle is intended to limit the total energy imparted
+      to the patient during an examination. This can be accomplished by
+      (1) keeping power outputs low, (2) using appropriate scanning
+      modes, (3) limiting examination times, (4) adjusting focus and
+      frequency, and (5) using the cine function during documentation.
+      All of these are dependent upon an informed sonographer.
+  24. d. Critical: Any time body fluids or tissues come in contact with
+      an ultrasound transducer, critical or high-level disinfection
+      protocols must be strictly adhered to.
+  25. c. Gain, acoustic power: Unlike gain, which refers to
+      amplification of the acoustic signal returning to the transducer,
+      acoustic power is the amount of acoustic energy applied to the
+      tissue. The biologic effects of ultrasound in terms of power are in
+      the milliwatt range. High levels generate heat and cavitation, which
+      might result in tissue damage.
+
+Chapter Review
+
+  1. One cycle per second is known as 1 hertz (Hz). High-frequency
+      ultrasonic transducers of 6 to 10 MHz are used to image structures
+      near the surface. Deeper structures require lower frequencies of 3.5
+      to 5 MHz. Axial resolution improves with increasing frequency, and
+      depth of penetration decreases with increasing frequency.
+  2. Resistive index is the peak velocity minus the end-diastolic velocity
+      over the peek systolic velocity. This is measured using the color
+      flow Doppler with spectral display and is used to characterize renal
+      artery stenosis, ureteral obstruction, and penile arterial insufficiency.
+  3. By convention, the liver is used as a benchmark for echogenicity. By
+      convention, the cephalad aspect of the structure is to the left of the
+    image.
+4. Ultrasonography may produce injury due to mechanical effects
+    caused by cavitation or by heat generation.
+5. With the exception of some indinavir stones, all renal and ureteral
+    calculi may be detected by helical CT.
+6. The advantage of magnetic resonance imaging (MRI) is high-contrast
+    resolution of soft tissue on T1-weighted images. Fluid has a low
+    signal and appears dark on T1-weighted images; on T2-weighted
+    images, fluid has a high signal and appears bright. Gadolinium
+    increases the brightness of T1-weighted images. Hemorrhage within
+    a cyst results in a high signal on T1-weighted images.
+

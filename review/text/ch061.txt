@@ -1,0 +1,306 @@
+61
+
+Basic Principles of Immunology
+and Immunotherapy in Urologic
+Oncology
+Charles G. Drake
+
+
+
+Keywords
+BCG; CD4; CD8; CTLA-4; immunotherapy; lymphocyte; neutrophil;
+NK cell; PD-1; PD-L1; T cell; Treg
+
+Questions
+     1. The immune system has two basic arms, designated “innate” and
+         adaptive. Regarding these divisions, which of the following is true?
+            a. The adaptive immune system is the more primitive of the two.
+            b. The innate immune system includes long-lived “memory”
+               cells that make secondary responses to pathogens more rapid
+               and stronger.
+            c. The adaptive immune system is the only part of the immune
+               system involved in the immune response to cancer.
+            d. The innate immune response is driven by recognition of
+               repeated patterns in pathogens called pathogen associated
+               molecular patterns (PAMPs).
+     2. Immunotherapy for non–muscle-invasive bladder cancer is based on
+         intravesical administration of bacillus Calmette-Guérin (BCG).
+   Initial contact between BCG and the immune system involves
+   which cell type?
+      a. Neutrophils, also known as polymorphonuclear cells (PMNs)
+      b. CD4+ (helper) T cells
+      c. Macrophages (“Big eaters”)
+      d. CD8+ (killer) T cells
+      e. CD8+ regulatory T cells (Tregs)
+3. Macrophages and neutrophils have the following feature(s) in
+   common:
+      a. they can both ingest pathogens.
+      b. they can both present peptide antigens from pathogens on
+         major histocompatibility complex (MHC) class II molecules.
+      c. they can both kill pathogens via oxidative processes.
+      d. they can both migrate along chemokine gradients to sites of
+         infection.
+      e. c and d.
+4. Cytokines are chemical messengers that direct immune cell
+   migration and differentiation. Which of the following is true
+   regarding cytokines?
+      a. Interleukin 8 (IL-8) is a Th1 cytokine that helps naive CD4+ T
+         cells differentiate into cells that secrete IL-4.
+      b. Interferon α is an adaptive cytokine that has no role in the
+         response to BCG.
+      c. Interferon γ is an innate cytokine mostly secreted by luminal
+         epithelial cells in the bladder.
+      d. Th1 cytokines include IL-4, IL-5, and IL-10.
+      e. The primary Th1 cytokine is IL-12.
+5. The most important adaptive immune cells are B and T cells. Which
+   of the following is true?
+      a. B cells are called B cells because they come from the bone
+         marrow.
+      b. CD4 (helper) T cells are mostly of a single phenotype.
+      c. CD8 T cells are specialized for cytotoxicity; they evolved to
+         destroy virally infected cells.
+      d. Regulatory T cells (Tregs) are a subset of CD8 T cells.
+     e. In non–muscle-invasive bladder cancer, a Th2 response
+        involving IL-4, IL-5, and IL-10 is associated with a better
+        outcome.
+6. The major function of B cells is to:
+     a. kill bacterially infected cells.
+     b. generate antibodies which help macrophages to phagocytose
+        and destroy pathogens.
+     c. differentiate into memory cells that provide a secondary
+        immune response about equal in magnitude to a primary
+        response.
+     d. ingest pathogens.
+     e. augment the function of BCG by generating anti-BCG
+        antibodies that lead to BCG persistence in the bladder.
+7. CD4 T cell subsets include:
+     a. Tregs that augment an antitumor immune response.
+     b. Th1 T cells that secrete IL-1.
+     c. Th2 T cells that secrete IL-4, IL-5, IL-10, and IL-13.
+     d. Th9 T cells that are involved in CD8 T-cell killing.
+     e. Th8 T cells that have a cytotoxic function.
+8. The immune editing hypothesis explains how tumors evolve in an
+   immunologically competent host. The three E’s in the immune
+   editing hypothesis (in order) include:
+     a. elimination, equilibrium, and escape.
+     b. escape, equilibrium, and elimination.
+     c. elucidation, escape, and election.
+     d. evolution, equilibrium, and elimination.
+9. There is a clear epidemiologic link between chronic inflammation
+   and certain genitourinary (GU) cancers. Which of the following
+   best describes this relationship?
+     a. Correlative data are strongest in kidney cancer, where chronic
+        inflammation leads to clear cell cancer or renal cell carcinoma.
+     b. Data for this link are absent in prostate cancer.
+     c. In bladder cancer, chronic infection with Schistosoma
+        haematobium (schistosomiasis) rarely leads to cancer with a
+        squamous cell phenotype.
+       d. In prostate cancer, inflammation has been associated with the
+          consumption of charred meat and its associated toxins.
+10. The presence of CD8 T cells is associated with:
+       a. a better prognosis in all GU tumor types, since CD8 T cells are
+          cancer-fighting cytotoxic cells.
+       b. a better prognosis in bladder cancer and prostate cancer.
+       c. A worse prognosis in kidney cancer.
+       d. A better prognosis in prostate cancer. This is well
+          documented, since prostate tumors are frequently highly
+          infiltrated with CD8 T cells.
+11. Immune checkpoint molecules are:
+       a. a series of intracellular proteins that regulate progression of T
+          cells through the cell cycle.
+       b. a series of extracellular proteins that promote T-cell activation
+          and effector function.
+       c. a series of proteins on innate immune cells that inhibit their
+          function.
+       d. a series of cell-surface proteins that attenuate CD8 T-cell
+          effector function when bound to their specific cognate ligands.
+12. In non–muscle-invasive bladder cancer (NMIBC), the
+    immunotherapeutic effects of BGC are mediated by all of the
+    following EXCEPT which?
+       a. The innate immune system, mostly through the activation of
+          neutrophils and macrophages
+       b. The release of chemokines from luminal epithelial cells in the
+          bladder
+       c. CD4 T cells of the Th2 phenotype
+       d. CD8 T cells of the Tc1 phenotype that participate in the direct
+          killing of tumor cells
+13. Cancer vaccines are intended to raise an adaptive immune response
+    to a target antigen expressed preferentially on tumor cells. Which
+    of the following is a US Food and Drug Administration (FDA)–
+    approved vaccine for a GU cancer type?
+       a. ProstVac VF, which is used in prostate cancer
+       b. IMA901, a multi-peptide vaccine for kidney cancer
+       c. Gardasil, a vaccine against human papillomavirus
+       d. Sipuleucel-T, a prostatic acid phosphatase (PAP)–directed
+          vaccine for prostate cancer
+14. The interaction between the immune checkpoint molecule PD-1 (on
+    CD8 T cells) and its ligand PD-L1 (on tumor cells) does which of
+    the following?
+       a. Helps CD8 T cells to activate dendritic cells
+       b. Drives CD8 T cells to secrete interferon γ, promoting
+          antitumor responses
+       c. Mediates an “exhausted” nonfunctional phenotype in the CD8
+          T cells that express PD-1
+       d. Signals through PD-L1 back into the tumor cell to promote
+          tumor cell destruction
+15. In bladder cancer, blockage of the interaction between PD-1 and
+    PD-L1 using monoclonal antibodies:
+       a. provides a survival benefit but only when used with
+          chemotherapy.
+       b. improves both progression-free and overall survival as
+          compared with second-line chemotherapy.
+       c. improves survival but leads to tumor response (shrinkage) in
+          less than 10% of treated patients.
+       d. signals through PD-L1 back into the tumor cell to promote
+          tumor cell destruction.
+       e. frequently leads to complete responses.
+16. PD-1 is not the only immune checkpoint molecule expressed on T
+    cells in tumors; other checkpoint molecules include CTLA-4,
+    LAG-4, and others. Simultaneously blocking two immune
+    checkpoints (PD-1 and CTLA-4) in first-line kidney cancer:
+       a. is less toxic than blocking a single immune checkpoint
+          molecule.
+       b. is more effective than first-line therapy with a vascular
+          endothelial growth factor (VEGF) TKI (a tyrosine kinase
+          inhibitor).
+       c. never leads to complete responses.
+       d. most likely functions by blocking both molecules on the same
+          cell type.
+       e. rarely leads to autoimmunity in endocrine organs.
+Answers
+  1. d. The innate immune response is driven by recognition of
+     repeated patterns in pathogens called pathogen associated
+     molecular patterns (PAMPs). The innate system is more
+     primitive and does not contain cell types that can give rise to
+     memory cells. In most immune responses, the innate and adaptive
+     systems work together.
+  2. c. Macrophages (“Big eaters”). Although BCG does bind
+     directly to bladder epithelium, the first immune cell involved in
+     BCG responses is the macrophage (“big eater”).
+  3. e. c and d. Macrophages and PMNs are both innate immune
+     cells involved in the early phases of an immune response.
+     Although both have potent cytotoxic activity, only macrophages
+     can ingest pathogens and present antigens in the context of MHC
+     molecules.
+  4. e. The primary Th1 cytokine is IL-12. Th1 responses are
+     characterized by IL-12, interferon γ (not α) and tumor necrosis
+     factor (TNF) α. Th1 responses are involved in viral clearance and
+     in antitumor immune responses. Th2 responses (IL4, 5, 10, and 13)
+     are associated with chronic inflammation and infection and
+     generally prevent an antitumor immune response. In bladder cancer,
+     Th2 cytokines in the urine after BCG treatment portend a generally
+     worse outcome.
+  5. c. CD8 T cells are specialized for cytotoxicity; they evolved to
+     destroy virally infected cells. CD4 T cells are complex and
+     include a number of phenotypes (Th1, Th2, Tregs, and others).
+     CD8 T cells are cytotoxic and are capable of killing nearly any
+     target cell (including cells resistant to chemotherapy). Although B
+     cells DO come from the bone marrow, that is not how they got their
+     name. They were discovered in chickens in an organ called the
+     bursa of Fabricius. The B comes from the word bursa.
+  6. b. Generate antibodies which help macrophages to phagocytose
+     and destroy pathogens. B cells secrete antibodies, which help to
+     clear pathogens. They also differentiate into memory B cells,
+    which drive a stronger and faster secondary response on reexposure
+    to a pathogen. The generation of antibodies to BCG is probably a
+    negative event; it would be expected to lead to a faster clearance
+    and a less robust antitumor effect.
+ 7. c. Th2 T cells that secrete IL-4, IL-5, IL-10, and IL-13. As
+    earlier, Th2 cells secrete IL4, 5, 10, and 13, all of which
+    generally inhibit a successful antitumor response.
+ 8. a. Elimination, equilibrium and escape. See text for explanation.
+ 9. d. In prostate cancer, inflammation has been associated with the
+    consumption of charred meat and its associated toxins. In GU
+    cancers, the strongest linkage between chronic inflammation
+    and tumorigenesis is in bladder cancer, where chronic infection
+    with schistosomiasis leads to squamous cell cancers. There are
+    also strong data in prostate cancer, although the precise etiology of
+    prostatic inflammation has yet to be fully defined.
+10. c. A worse prognosis in kidney cancer. Although cytotoxic CD8
+     T cells are generally associated with a better prognosis, in
+     kidney cancer the opposite relationship has been described.
+     This is a puzzling finding, which is not well understood. In bladder
+     cancer, a robust CD8 infiltrate is generally associated with an
+     improved outcome.
+11. d. A series of cell-surface proteins that attenuate CD8 T-cell
+     effector function when bound to their specific cognate ligands.
+     Immune checkpoint molecules are cell-surface proteins that
+     attenuate CD8 T cell function.
+12. c. CD4 T cells of the Th2 phenotype. As earlier, Th2 CD4 T
+     cells are associated with a worse outcome in bladder cancer.
+13. d. Sipuleucel-T, a prostatic acid phosphatase (PAP)–directed
+     vaccine for prostate cancer. Although many cancer vaccines
+     have been tested in GU cancers, only Sipuleucel-T is approved.
+     This vaccine targets the antigen PAP in men with asymptomatic or
+     minimally symptomatic metastatic castration-resistant prostate
+     cancer.
+14. c. Mediates an “exhausted” nonfunctional phenotype in the
+     CD8 T cells that express PD-1. Expression of PD-1 on tumor-
+     infiltrating CD8 T cells is associated with a nonfunctional,
+      exhausted phenotype. Blockage of the PD-1/PD-L1 interaction
+      with monoclonal antibodies restores CD8 T-cell function, leading
+      to tumor destruction (and shrinkage) in a minority of treated
+      patients.
+  15. b. Improves both progression-free and overall survival as
+      compared with second-line chemotherapy. Blockage of either
+      PD-1 or PD-L1 is effective in bladder cancer in the second-line
+      setting (as compared with chemotherapy). The overall response
+      rate to these agents is in the range of 20% to 25%.
+  16. b. Is more effective than first-line therapy with a vascular
+      endothelial growth factor (VEGF) TKI (a tyrosine kinase
+      inhibitor). Combined immune checkpoint blockade with anti-
+      PD-1 (nivolumab) and anti-CTLA-4 (ipilimumab) is an
+      approved first-line therapy for clear-cell RCC. It is more
+      effective than treatment with the TKI sunitinib, as evidence by
+      improved overall survival and progression-free survival. However,
+      it is also considerably more toxic, with endocrine-related adverse
+      events being reasonably common.
+
+Chapter Review
+
+  1. An immune response begins with an innate response, which is rapid
+      but relatively nonspecific. It then progresses to include the adaptive
+      immune system, which is characterized by both specificity and
+      memory.
+  2. For an antitumor immune response, a Th1 response dominated by
+      interferon γ, IL-2, and TNF α is desired.
+  3. CD4+ regulatory T cells (Tregs) inhibit an adaptive immune
+      response.
+  4. The immune editing hypothesis explains how early tumors can be
+      recognized and eliminated by the immune system, whereas
+      clinically evident tumors must escape immune recognition to
+      evolve.
+  5. Bladder cancer is promoted by chronic inflammation initiated by
+      infection or other stimuli.
+ 6. In kidney cancer, there is good evidence for an ongoing adaptive,
+     CD8 T-cell–mediated response, but paradoxically, an increased CD8
+     density is associated with a worse prognosis.
+ 7. Prostate cancer may also be driven by chronic inflammation.
+ 8. Expression of immune checkpoint molecules on tumor-infiltrating
+     lymphocytes (TILs) attenuates the adaptive immune response to GU
+     tumors.
+ 9. BCG therapy for bladder cancer stimulates both the innate and
+     adaptive immune systems and is a prototype for successful cancer
+     immunotherapy.
+10. Cancer vaccines have been evaluated in both kidney and prostate
+    cancer. A single vaccine (Sipuleucel-T) is FDA-approved for
+    metastatic prostate cancer.
+11. Several other vaccine approaches in phase III trials in kidney and
+    prostate cancer have failed.
+12. BCG therapy for bladder cancer stimulates both the innate and
+    adaptive immune systems and is a prototype for successful cancer
+    immunotherapy.
+13. Cancer vaccines have been evaluated in both kidney and prostate
+    cancer.
+14. A single vaccine (Sipuleucel-T) is FDA-approved for metastatic
+    prostate cancer.
+15. Cancer vaccines are generally well tolerated but result in few
+    objective clinical responses.
+16. Blocking the PD-1/PD-L1 interaction is effective in second-line
+    bladder cancer and has activity in first-line patients who are
+    cisplatin-ineligible.
+17. PD-L1 expression may distinguish bladder cancer patients more
+    likely to respond to anti-PD-1/anti-PD-L1 therapy.
+18. Anti-PD-1 is effective in second-line kidney cancer.
+19. Anti-PD-1/PD-L1 has not shown robust monotherapy activity in
+    metastatic prostate cancer.

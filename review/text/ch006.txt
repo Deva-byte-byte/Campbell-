@@ -1,0 +1,170 @@
+6
+
+Assessment of Urologic and
+Surgical Outcomes
+David F. Penson, and Mark D. Tyson
+
+
+
+Keywords
+clinical epidemiology; health-related quality of life; outcomes
+research; patient-reported outcomes; study design
+
+Questions
+    1. When assessing disease-specific mortality, researchers need to be
+       aware that this outcome is subject to:
+         a. detection bias.
+         b. attribution bias.
+         c. problems with loss to follow-up.
+         d. all of the above.
+         e. b and c.
+    2. Which of the following is NOT one of the four requirements for a
+       valid surrogate endpoint as described by Prentice?
+         a. Treatment is associated with the true endpoint.
+         b. The surrogate endpoint is associated with the true endpoint.
+         c. The full effect of treatment on the true endpoint is explained
+            by the surrogate endpoint.
+         d. The surrogate endpoint can reliably be measured using highly
+            objective methods.
+         e. Treatment is also associated with the surrogate endpoint.
+3. With regard to patient-centered outcomes:
+       a. clinicians can reliably assess these outcomes from the doctor–
+          patient interaction.
+       b. there are very few validated and reliable questionnaires
+          available for use in urology.
+       c. health-related quality of life is an important outcome to
+          measure, but only function need be assessed to get a full
+          portrait of this outcome.
+       d. patient-centered questionnaires are developed using the
+          principles of psychometric test theory.
+       e. none of the above.
+4. Which of the following methods has not been suggested as a
+    technique to assess patient experience of pain?
+       a. Collect verbal or written descriptions of the pain
+       b. Query patient’s caregiver regarding patient’s pain level.
+       c. Have subject rate pain via its effect on observable behavior.
+       d. Use analogue techniques in which the patient compares his/her
+          pain with an experimentally induced stimulus of a known
+          intensity in a laboratory setting.
+       e. All of the above can be used to assess pain levels.
+5. When a scale has a coefficient α of 0.90, one can be assured that the
+    scale has high degree of:
+       a. alternate form reliability.
+       b. test-retest reliability.
+       c. internal consistency reliability.
+       d. intraobserver reliability.
+       e. interobserver reliability.
+6. If a urologist were designing an instrument to measure cancer-
+    specific quality of life following prostatectomy, how would she
+    design an experiment to assess test-retest reliability?
+       a. She could administer the questionnaire before and after the
+          operation.
+       b. She could administer the questionnaire to her patients and a
+          group of age-matched healthy controls.
+       c. She could use a differently worded questionnaire to obtain the
+          same information.
+       d. She could administer the questionnaire to the same patient
+          twice in the same week and compare the results.
+       e. She could administer the questionnaire to the same patient
+          twice at an interval of one year and compare the results.
+ 7. Of the following types of validity, which one often takes many years
+    of instrument use by numerous investigators to adequately assess?
+       a. Face validity
+       b. Content validity
+       c. Concurrent validity
+       d. Predictive validity
+       e. Construct validity
+ 8. The use of uroflow results in validating a new survey instrument
+    that measures disease-specific HRQOL in benign prostatic
+    hyperplasia (BPH) patients is an example of:
+       a. concurrent validity.
+       b. content validity.
+       c. construct validity.
+       d. predictive validity.
+       e. face validity.
+ 9. A patient undergoes a radical cystectomy. On post-operative day #2,
+    he aspirates and requires emergent intubation and transfer to the
+    ICU. He is started on intravenous antibiotics and is extubated on
+    post-operative day #4. The remainder of his hospital course in
+    unremarkable and he is discharged on post-operative day #8. The
+    complication he experienced is a Clavien-Dindo grade:
+       a. II.
+       b. IIIa.
+       c. IIIb.
+       d. IVa.
+       e. IVb.
+10. A patient with kidney cancer has a single target lesion, a 5-cm bony
+    metastases. She is treated with a tyrosine kinase inhibitor (TKI).
+    The lesion is reduced in size and is now 4 cm on imaging.
+    According to the RECIST criteria, this is considered a:
+       a. complete response.
+       b. partial response.
+       c. stable disease.
+       d. non-CR/non-PD.
+       e. progressive disease.
+
+Answers
+  1. e. b and c. When assessing disease-specific mortality, researchers
+     need to be aware that this outcome is subject to attribution bias and
+     problems with loss to follow-up.
+  2. d. The surrogate endpoint can reliably be measured using
+     highly objective methods. It is not a requirement for a valid
+     surrogate endpoint that it can reliably be measured using highly
+     objective methods.
+  3. d. Patient-centered questionnaires are developed using the
+     principles of psychometric test theory. For patient-centered
+     outcomes, patient-centered questionnaires are developed using the
+     principles of psychometric test theory.
+  4. e. All of the above can be used to assess pain levels. Collecting
+     verbal or written descriptions of the pain; querying the patient’s
+     caregiver regarding the patient’s pain level; having the subject rate
+     pain via its effect on observable behavior; and using analogue
+     techniques in which the patient compares his/her pain with an
+     experimentally induced stimulus of a known intensity in a
+     laboratory setting are all methods to assess patient pain.
+  5. c. Internal consistency reliability. When a scale has a coefficient
+     alpha of 0.90, the scale has a high degree of internal consistency
+     reliability.
+  6. d. She could administer the questionnaire to the same patient
+     twice in the same week and compare the results. A urologist
+     wishing to measure cancer-specific quality of life following
+     prostatectomy could design an experiment to assess test-retest
+     reliability by administering the questionnaire to the same patient
+     twice in the same week and comparing the results.
+  7. e. Construct validity. Construct validity often takes many years of
+     instrument use by numerous investigators to adequately assess.
+   8. a. Concurrent validity. The use of uroflow results in validating a
+      new survey instrument that measures disease-specific HRQOL in
+      BPH patients is an example of concurrent validity.
+   9. d. IVa. The patient’s complication is Clavien-Dindo grade IVa.
+  10. c. Stable disease. This is considered stable disease per RECIST
+       criteria.
+
+Chapter Review
+
+  1. The effectiveness of health services delivery and treatment can be
+      measured across three distinct dimensions: structure, process, and
+      outcomes. Structure and process measures are easier to assess but
+      outcomes tend to be most meaningful to clinicians and patients.
+  2. Mortality is the “hardest” endpoint one can assess in urology. That
+      being said, it can be subject to bias. Specifically, studies using
+      overall mortality can still be subject to lead- and length-time bias,
+      and studies using disease-specific mortality may be subject to
+      attribution bias.
+  3. While there are many proxy endpoints in urology, few meet all four
+      requirements for being a valid surrogate endpoint. Despite this,
+      urologists routinely use proxy endpoints in research and clinical
+      practice.
+  4. There are a number of published and widely accepted criteria for
+      defining disease progression and surgical complications in urology.
+      While these urologists should use these reporting systems whenever
+      possible, they should also remember that the use of these systems
+      does not completely eliminate the potential for bias in research due
+      to study design and other factors.
+  5. Frailty, functional status, and comorbidity are important potential
+      confounders that should be considered in urologic research. There
+      are numerous standardized tools available to capture these variables.
+  6. There are numerous patient-reported outcome tools available to
+      assess symptoms and quality of life in patients with urologic
+      diseases. Physicians and researchers should always use validated
+      and reliable patient-centered tools when possible.

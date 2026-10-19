@@ -1,0 +1,223 @@
+5
+
+Urinary Tract Imaging
+
+Basic Principles of Nuclear Medicine
+Michael A. Gorin, and Steven P. Rowe
+
+
+
+Keywords
+dynamic renal imaging; functional imaging; molecular imaging;
+nuclear medicine; PET; positron emission tomography; single-photon
+emission computed tomography; single-photon imaging; SPECT
+
+Questions
+    1. 99mTc-diethylenetriaminepentaacetic acid (99mTc-DTPA) undergoes
+        renal clearance by which mechanism?
+           a. Glomerular filtration
+           b. Active tubular secretion
+           c. Anion exchange
+           d. Both A and B
+           e. All of the above
+    2. 99mTc-mercaptoacetyltriglycine (99mTc-MAG3) undergoes renal
+        clearance by which mechanism?
+           a. Glomerular filtration
+           b. Active tubular secretion
+           c. Anion exchange
+           d. Both A and B
+       e. All of the above
+3. 99mTc–dimercaptosuccinic acid (99mTc-DMSA) undergoes renal
+    clearance and is endocytosed by cells of which part of the nephron?
+       a. Glomerulus
+       b. Proximal tubule
+       c. Distal tubule
+       d. Ascending loop of Henle
+       e. Collecting duct
+4. When performing 99mTc-MAG3 renography, the relative function of
+    each kidney is determined by measuring the area under the time
+    activity curve between what two time points post injection?
+       a. 1 to 3 minutes
+       b. 3 to 5 minutes
+       c. 5 to 10 minutes
+       d. 10 to 15 minutes
+       e. 15 to 20 minutes
+5. Which radiotracer is ideally suited for imaging renal scaring?
+       a. 99mTc-DTPA
+       b. 99mTc-MAG3
+       c. 99mTc-DMSA
+       d. 67Ga-citrate
+       e. 99mTc–sulfur colloid
+6. 2-Deoxy-2-[18F]fluoro-D-glucose (18F-FDG) is phosphorylated by
+    which glycolytic enzyme, trapping it inside metabolically active
+    cells?
+       a. Hexokinase
+       b. Glucokinase
+       c. Phosphofructokinase
+       d. Pyruvate kinase
+       e. Phosphoglucose isomerase
+7. Which urologic malignancy is poorly imaged with 18F-FDG
+    positron emission tomography (PET)?
+       a. Bladder cancer
+       b. Penile cancer
+       c. Prostate cancer
+      d. Renal cell carcinoma
+      e. Seminomatous germ cell tumor
+ 8. What is the half-life of the radionuclide 18F?
+      a. 20.3 minutes
+      b. 109.8 minutes
+      c. 68.0 minutes
+      d. 4.17 days
+      e. 78.4 hours
+ 9. Which of the following PET radiotracers for prostate cancer
+    imaging is an amino acid analog?
+      a. 18F-DCFPyL
+      b. 68Ga-PSMA-11
+      c. 11C-choline
+      d. 68Ga-RM2
+      e. 18F-FACBC
+10. Which protein is highly expressed by clear cell renal cell carcinoma
+    (RCC) but not other renal tumor types and serves as a target for
+    molecular imaging of this malignancy?
+       a. GLUT1
+       b. PSMA
+       c. GRPR
+       d. CAIX
+       e. ASCT2
+11. Which radiotracer has the highest specificity for imaging prostate
+    cancer?
+       a. 18F-DCFPyL
+       b. 67Ga-citrate
+       c. 11C-choline
+       d. 18F-FDG
+       e. 18F-FACBC
+12. 18F-FDG PET is recommended for which application in men with
+    testicular cancer?
+       a. Initial cancer staging of patients with elevated
+          postorchiectomy tumor markers
+     b. Initial cancer staging of patients with negative
+        postorchiectomy tumor markers
+     c. Postchemotherapy imaging of a residual retroperitoneal mass
+        in men with a seminomatous germ cell tumor
+     d. Postchemotherapy imaging of a residual retroperitoneal mass
+        in men with a nonseminomatous germ cell tumors
+     e. Post-treatment surveillance in patients with negative markers
+
+Answers
+    1. a. Goluerular filtration. 99mTc-DPTA is a single-photon
+       radiotracer that is excreted in the urine and can be used to
+       determine renal split function and to assess for functional
+       obstruction. 99mTc-DTPA is extracted by the kidneys through
+       glomerular filtration. The drug then quickly moves through the
+       renal tubules and is excreted in the urine without being
+       reabsorbed.
+    2. b. Active tubular secretion. 99mTc-MAG3 is a single-photon
+       radiotracer that is excreted in the urine and can be used to
+       determine renal split function and to assess for functional
+       obstruction. 99mTc-MAG3 is protein bound in circulation and
+       undergoes clearance exclusively through tubular secretion.
+       99mTc-MAG3 imaging is therefore not impacted by impaired
+
+       glomerular filtration.
+    3. b. Proximal tubule. 99m Tc-DMSA is cleared from the
+       plasma primarily by glomerular filtration. Once within the
+       lumina of the renal tubules, 99mTc-DMSA undergoes receptor-
+       mediated endocytosis by the proximal tubular cells. The
+       receptors responsible for the endocytosis of 99mTc-DMSA are
+       megalin and cubilin.
+    4. a. 1 to 3 minutes. Dynamic renal imaging is performed in two
+       phases. In the first phase, known as the perfusion phase, renal
+       plasma flow to each individual renal unit is measured and
+       compared with flow within the aorta. Activity should be
+    detected in the regions of interest overlying the kidneys within
+    several seconds of detection in the aorta. The relative function
+    of each kidney is determined by measuring the area under the
+    time activity curves between 1 and 3 minutes post injection of
+    the radiotracer.
+ 5. c. 99mTc-DMSA. Because this radiotracer undergoes
+    endocytosis by the proximal tubular cells, it is ideally suited for
+    imaging cortical processes such as acute pyelonephritis and
+    renal scaring.
+ 6. a. Hexokinase. 18F-FDG is a glucose analog that is taken up by
+    metabolically active cells via GLUT transporters. Once within
+    the cell, 18F-FDG is phosphorylated by the glycolytic enzyme
+    hexokinase, preventing diffusion back across the cell
+    membrane. The trapped 18F-FDG molecules, which are missing
+    a 2-hydroxyl group, cannot undergo further glycolytic
+    metabolism and remain intact allowing for their detection with
+    PET imaging.
+ 7. c. Prostate cancer. 18F- FDG is taken up by malignant cells,
+    which commonly shunt energy production toward anaerobic
+    metabolism, a phenomenon referred to as the Warburg effect. A
+    number of genitourinary malignancies, including urothelial
+    carcinoma, renal cell carcinoma, squamous cell carcinoma of
+    the penis, and testicular germ cell tumors, can be successfully
+    imaged with 18F-FDG PET. Prostate cancer is unique in that it
+    does not show increased levels of glycolysis and therefore is
+    poorly visualized with 18F-FDG PET.
+ 8. b. 109.8 minutes. The half-lives of other commonly used
+    radionuclides for PET imaging can be found in Table 5.2.
+ 9. a. 18F-FACBC. This radiotracer functions as a substrate for
+    the amino acid transporters LAT1 and ASCT2, which are
+    overexpressed by multiple malignancies including prostate
+    cancer.
+10. d. CAIX. This cell surface protein is near universally
+     expressed by clear cell RCC but not other renal tumor
+     histologies. CAIX is upregulated following loss of the von
+           Hippel-Lindau (VHL) gene, which is a defining event in the
+           pathogenesis of clear cell RCC.
+       11. a. 18F-DCFPyL. PET radiotracers targeting prostate-specific
+           membrane antigen (PSMA) have the highest specificity for
+           prostate cancer imaging. Of the radiotracers listed, 18F-
+           DCFPyL is the only PSMA-targeted radiotracer. A summary of
+           other radiotracer used for prostate cancer imaging can be found
+           in Table 5.3.
+       12. c. Postchemotherapy imaging of a residual retroperitoneal
+           mass in men with a seminomatous germ cell tumor.
+           Guidelines from the European Association of Urology endorse
+           the use of 18F-FDG PET for men with a residual mass
+           following treatment of a seminoma with chemotherapy. Using
+           18F-FDG PET in this manner helps to differentiate fibrosis
+
+           from residual active tumor. For patients with nonseminomatous
+           germ cell tumors, 18F-FDG PET imaging is not indicated
+           because there appears to be no clinical benefit for PET in the
+           detection of viable tumor over the combination of computed
+           tomography (CT) and serum markers.
+
+Chapter Review
+
+  1. The most commonly used radiopharmaceutical agents for nuclear
+      imaging of the kidneys are technetium 99mTc-
+      diethylenetriaminepentaacetic acid (99mTc-DTPA), 99mTc-
+      mercaptoacetyltriglycine (MAG3), and 99mTc–dimercaptosuccinic
+      acid (DMSA).
+  2. 99mTc-DTPA and 99mTc-MAG3 are used to measure renal blood flow,
+      determine differential renal function, and to evaluate for the
+      presence and degree of renal obstruction.
+  3. 99mTc-DTPA is cleared by glomerular filtration, whereas 99mTc-
+      MAG3 is cleared by tubular secretion.
+  4. 99mTc-MAG3 is the preferred at most centers over 99mTc-DTPA
+      because it has a higher extraction efficiency and is less impacted by
+      changes in renal function
+ 5. 99mTc-DMSA is retained by cells of the proximal renal tubules and is
+     used to evaluate for infection and the presence renal scarring.
+ 6. 99mTc-DTPA and 99mTc-MAG3 can also be used to evaluate
+     renovascular hypertension, transplant graft function, and
+     vesicoureteral reflux.
+ 7. Molecular imaging of cancer is most commonly performed using the
+     positron emission tomography (PET) radiotracer 2-deoxy-2-
+     (18F)fluoro-D-glucose (18F-FDG)
+ 8. A number of genitourinary malignancies can be successfully imaged
+     with 18F-FDG PET, albeit with varying degrees of clinical utility
+     beyond conventional anatomical imaging techniques.
+ 9. Because 18F-FDG is excreted in the urine, imaging with this
+     radiotracer is typically performed to detect distant sites of disease.
+10. 18F-FDG has little role in imaging prostate cancer and a number of
+    other radiotracers have been developed for this purpose.
+11. Radiotracers targeting PSMA are the most promising class of agents
+    for prostate cancer imaging and in many parts of the world have
+    become the new standard of care for imaging this malignancy.
+12. One of the most well-established indications for 18F-FDG PET
+    imaging is in the detection of residual seminomatous germ cell
+    tumors following chemotherapy.
