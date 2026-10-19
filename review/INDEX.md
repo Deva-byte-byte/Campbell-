@@ -70,6 +70,12 @@
 | 108 | Surgical, Radiographic, and Endoscopic Anatomy of the Female Pelvis | 20 | 7 | 9 |
 | 109 | Surgical, Radiographic, and Endoscopic Anatomy of the Male Pelvis | 18 | 18 | 13 |
 | 110 | Physiology and Pharmacology of the Bladder and Urethra | 45 | 36 | 28 |
+| 111 | Pathophysiology and Classification of Lower Urinary Tract Dysfunction: Overview | 16 | 12 | 10 |
+| 112 | Evaluation and Management of Women With Urinary Incontinence and Pelvic Prolapse | 15 | 25 | 14 |
+| 113 | Evaluation and Management of Men With Urinary Incontinence | 7 | 6 | 5 |
+| 114 | Urodynamic and Video-Urodynamic Evaluation of the Lower Urinary Tract | 13 | 17 | 10 |
+| 115 | Urinary Incontinence and Pelvic Prolapse: Epidemiology and Pathophysiology | 9 | 14 | 8 |
+| 116 | Neuromuscular Dysfunction of the Lower Urinary Tract | 35 | 8 | 15 |
 | 117 | Overactive Bladder | 9 | 8 | 6 |
 | 118 | The Underactive Detrusor | 21 | 15 | 13 |
 | 119 | Nocturia | 11 | 7 | 6 |
@@ -117,6 +123,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 111. **In MCQ scope (15+):** 97 chapters, 1875 book Qs, 1903 review points, about 1322 MCQs for full coverage.
+**Chapters held:** 117. **In MCQ scope (15+):** 103 chapters, 1970 book Qs, 1985 review points, about 1384 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 80–104, 111–116 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 63–74, 80–104 (and anything after 162).
