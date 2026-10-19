@@ -59,6 +59,11 @@
 | 60 | Tuberculosis and Parasitic Infections of the Genitourinary Tract | 24 | 23 | 16 |
 | 61 | Basic Principles of Immunology and Immunotherapy in Urologic Oncology | 16 | 19 | 12 |
 | 62 | Molecular Genetics and Cancer Biology | 34 | 56 | 31 |
+| 63 | Surgical, Radiographic, and Endoscopic Anatomy of the Male Reproductive System | 16 | 15 | 11 |
+| 64 | Male Reproductive Physiology | 23 | 17 | 14 |
+| 65 | Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome | 14 | 24 | 13 |
+| 66 | Male Infertility | 38 | 28 | 23 |
+| 67 | Surgical Management of Male Infertility | 36 | 13 | 17 |
 | 75 | Surgical, Radiographic, and Endoscopic Anatomy of the Retroperitoneum | 19 | 22 | 14 |
 | 76 | Neoplasms of the Testis | 35 | 35 | 24 |
 | 77 | Surgery of Testicular Tumors | 24 | 32 | 20 |
@@ -148,6 +153,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 142. **In MCQ scope (15+):** 128 chapters, 2509 book Qs, 2470 review points, about 1743 MCQs for full coverage.
+**Chapters held:** 147. **In MCQ scope (15+):** 133 chapters, 2636 book Qs, 2567 review points, about 1821 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 63–74 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 68–74 (and anything after 162).
