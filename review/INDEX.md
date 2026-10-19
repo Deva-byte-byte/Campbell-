@@ -29,6 +29,7 @@
 | 22 | Perinatal Urology | 10 | 45 | 19 |
 | 23 | Urologic Evaluation of the Child | 15 | 16 | 11 |
 | 24 | Pediatric Urogenital Imaging | 5 | 18 | 8 |
+| 25 | Infection and Inflammation of the Pediatric Genitourinary Tract | 29 | 26 | 19 |
 | 26 | Core Principles of Perioperative Management in Children | 15 | 13 | 10 |
 | 27 | Principles of Laparoscopic and Robotic Surgery in Children | 12 | 16 | 10 |
 | 28 | Clinical and Urodynamic Evaluation of Lower Urinary Tract Dysfunction in Children | 15 | 15 | 10 |
@@ -163,6 +164,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 157. **In MCQ scope (15+):** 143 chapters, 2825 book Qs, 2725 review points, about 1942 MCQs for full coverage.
+**Chapters held:** 158. **In MCQ scope (15+):** 144 chapters, 2854 book Qs, 2751 review points, about 1962 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34 (and anything after 162).
+**Missing (15 onward):** 31–34 (and anything after 162).
