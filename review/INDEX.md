@@ -43,6 +43,12 @@
 | 44 | Management of Abnormalities of the External Genitalia in Boys | 28 | 41 | 24 |
 | 45 | Hypospadias | 31 | 14 | 16 |
 | 46 | Etiology, Diagnosis, and Management of Undescended Testis | 27 | 16 | 15 |
+| 47 | Management of Abnormalities of the Genitalia in Girls | 11 | 12 | 8 |
+| 48 | Disorders of Sexual Development | 23 | 24 | 16 |
+| 49 | Surgical Management of Differences of Sexual Differentiation and Cloacal and Anorectal Malformations | 8 | 20 | 10 |
+| 50 | Adolescent and Transitional Urology | 6 | 10 | 6 |
+| 51 | Urologic Considerations in Pediatric Renal Transplantation | 9 | 26 | 12 |
+| 52 | Pediatric Genitourinary Trauma | 15 | 28 | 15 |
 | 55 | Infections of the Urinary Tract | 59 | 54 | 40 |
 | 56 | Inflammatory and Pain Conditions of the Male Genitourinary Tract: Prostatitis, Orchitis, Epididymitis | 25 | 35 | 21 |
 | 57 | Interstitial Cystitis/Bladder Pain Syndrome and Related Disorders | 32 | 34 | 23 |
@@ -91,6 +97,6 @@
 | 161 | Hormonal Therapy for Prostate Cancer | 15 | 21 | 13 |
 | 162 | Treatment of Castration-Resistant Prostate Cancer | 10 | 16 | 9 |
 
-**Chapters held:** 85. **In MCQ scope (15+):** 71 chapters, 1420 book Qs, 1465 review points, about 1010 MCQs for full coverage.
+**Chapters held:** 91. **In MCQ scope (15+):** 77 chapters, 1492 book Qs, 1585 review points, about 1077 MCQs for full coverage.
 
-**Missing (15 onward):** 25, 31–34, 38–40, 47–54, 63–74, 80–104, 110–116, 121–129, 133–139, 142 (and anything after 162).
+**Missing (15 onward):** 25, 31–34, 38–40, 53–54, 63–74, 80–104, 110–116, 121–129, 133–139, 142 (and anything after 162).
