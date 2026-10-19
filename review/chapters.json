@@ -1,0 +1,428 @@
+{
+ "1": {
+  "q": 30,
+  "r": 30,
+  "title": "Evaluation of the Urologic Patient: History and Physical Examination",
+  "w": 2641
+ },
+ "10": {
+  "q": 6,
+  "r": 22,
+  "title": "Principles of Urologic Surgery: Intraoperative Technical Decisions",
+  "w": 1749
+ },
+ "105": {
+  "q": 8,
+  "r": 8,
+  "title": "Surgical and Radiographic Anatomy of the Adrenals",
+  "w": 1086
+ },
+ "106": {
+  "q": 42,
+  "r": 29,
+  "title": "Pathophysiology, Evaluation, and Medical Management of Adrenal Disorders",
+  "w": 4590
+ },
+ "107": {
+  "q": 12,
+  "r": 10,
+  "title": "Surgery of the Adrenal Glands",
+  "w": 2535
+ },
+ "108": {
+  "q": 20,
+  "r": 7,
+  "title": "Surgical, Radiographic, and Endoscopic Anatomy of the Female Pelvis",
+  "w": 1939
+ },
+ "109": {
+  "q": 63,
+  "r": 54,
+  "title": "Surgical, Radiographic, and Endoscopic Anatomy of the Male Pelvis",
+  "w": 5502
+ },
+ "11": {
+  "q": 11,
+  "r": 12,
+  "title": "Lower Urinary Tract Catheterization",
+  "w": 748
+ },
+ "117": {
+  "q": 9,
+  "r": 8,
+  "title": "Overactive Bladder",
+  "w": 861
+ },
+ "118": {
+  "q": 21,
+  "r": 15,
+  "title": "The Underactive Detrusor",
+  "w": 2275
+ },
+ "119": {
+  "q": 11,
+  "r": 7,
+  "title": "Nocturia",
+  "w": 1223
+ },
+ "12": {
+  "q": 35,
+  "r": 12,
+  "title": "Fundamentals of Upper Urinary Tract Drainage",
+  "w": 5132
+ },
+ "120": {
+  "q": 37,
+  "r": 15,
+  "title": "Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure",
+  "w": 6122
+ },
+ "13": {
+  "q": 8,
+  "r": 15,
+  "title": "Principles of Urologic Endoscopy",
+  "w": 1402
+ },
+ "14": {
+  "q": 37,
+  "r": 15,
+  "title": "Fundamentals of Laparoscopic and Robotic Urologic Surgery",
+  "w": 5421
+ },
+ "143": {
+  "q": 15,
+  "r": 21,
+  "title": "Development, Molecular Biology, and Physiology of the Prostate",
+  "w": 1686
+ },
+ "144": {
+  "q": 14,
+  "r": 23,
+  "title": "Benign Prostatic Hyperplasia",
+  "w": 3140
+ },
+ "145": {
+  "q": 40,
+  "r": 18,
+  "title": "Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia",
+  "w": 3495
+ },
+ "146": {
+  "q": 12,
+  "r": 12,
+  "title": "Minimally Invasive and Endoscopic Management of Benign Prostatic Hyperplasia",
+  "w": 2414
+ },
+ "147": {
+  "q": 7,
+  "r": 7,
+  "title": "Simple Prostatectomy",
+  "w": 1030
+ },
+ "148": {
+  "q": 12,
+  "r": 30,
+  "title": "Epidemiology, Etiology, and Prevention of Prostate Cancer",
+  "w": 2410
+ },
+ "149": {
+  "q": 14,
+  "r": 13,
+  "title": "Prostate Cancer Biomarkers",
+  "w": 1954
+ },
+ "15": {
+  "q": 10,
+  "r": 13,
+  "title": "Basic Energy Modalities in Urologic Surgery",
+  "w": 1624
+ },
+ "150": {
+  "q": 18,
+  "r": 22,
+  "title": "Prostate Biopsy",
+  "w": 2890
+ },
+ "151": {
+  "q": 8,
+  "r": 20,
+  "title": "Pathology of Prostatic Neoplasia",
+  "w": 1357
+ },
+ "152": {
+  "q": 16,
+  "r": 14,
+  "title": "Diagnosis and Staging of Prostate Cancer",
+  "w": 2256
+ },
+ "153": {
+  "q": 15,
+  "r": 10,
+  "title": "Active Management Strategies for Localized Prostate Cancer",
+  "w": 3870
+ },
+ "154": {
+  "q": 7,
+  "r": 10,
+  "title": "Active Surveillance of Prostate Cancer",
+  "w": 939
+ },
+ "155": {
+  "q": 34,
+  "r": 26,
+  "title": "Open Radical Prostatectomy",
+  "w": 4258
+ },
+ "156": {
+  "q": 16,
+  "r": 19,
+  "title": "Laparoscopic and Robotic-Assisted Radical Prostatectomy and Pelvic Lymphadenectomy",
+  "w": 2224
+ },
+ "157": {
+  "q": 9,
+  "r": 19,
+  "title": "Radiation Therapy for Prostate Cancer",
+  "w": 1848
+ },
+ "158": {
+  "q": 10,
+  "r": 18,
+  "title": "Focal Therapy for Prostate Cancer",
+  "w": 2185
+ },
+ "159": {
+  "q": 13,
+  "r": 8,
+  "title": "Treatment of Locally Advanced Prostate Cancer",
+  "w": 1486
+ },
+ "16": {
+  "q": 11,
+  "r": 20,
+  "title": "Evaluation and Management of Hematuria",
+  "w": 2212
+ },
+ "160": {
+  "q": 7,
+  "r": 6,
+  "title": "Management Strategies for Biochemical Recurrence of Prostate Cancer",
+  "w": 1237
+ },
+ "161": {
+  "q": 15,
+  "r": 21,
+  "title": "Hormonal Therapy for Prostate Cancer",
+  "w": 3362
+ },
+ "162": {
+  "q": 10,
+  "r": 16,
+  "title": "Treatment of Castration-Resistant Prostate Cancer",
+  "w": 2298
+ },
+ "17": {
+  "q": 7,
+  "r": 6,
+  "title": "Complications of Urologic Surgery",
+  "w": 768
+ },
+ "18": {
+  "q": 8,
+  "r": 8,
+  "title": "Urologic Considerations in Pregnancy",
+  "w": 1826
+ },
+ "19": {
+  "q": 5,
+  "r": 10,
+  "title": "Intraoperative Consultation",
+  "w": 1518
+ },
+ "2": {
+  "q": 16,
+  "r": 15,
+  "title": "Evaluation of the Urologic Patient: Testing and Imaging",
+  "w": 1338
+ },
+ "20": {
+  "q": 17,
+  "r": 21,
+  "title": "Embryology of the Human Genitourinary Tract",
+  "w": 2559
+ },
+ "21": {
+  "q": 17,
+  "r": 38,
+  "title": "Urologic Aspects of Pediatric Nephrology",
+  "w": 2932
+ },
+ "22": {
+  "q": 10,
+  "r": 45,
+  "title": "Perinatal Urology",
+  "w": 2924
+ },
+ "23": {
+  "q": 15,
+  "r": 16,
+  "title": "Urologic Evaluation of the Child",
+  "w": 1925
+ },
+ "24": {
+  "q": 5,
+  "r": 18,
+  "title": "Pediatric Urogenital Imaging",
+  "w": 1068
+ },
+ "26": {
+  "q": 15,
+  "r": 13,
+  "title": "Core Principles of Perioperative Management in Children",
+  "w": 2313
+ },
+ "27": {
+  "q": 12,
+  "r": 16,
+  "title": "Principles of Laparoscopic and Robotic Surgery in Children",
+  "w": 2174
+ },
+ "28": {
+  "q": 15,
+  "r": 15,
+  "title": "Clinical and Urodynamic Evaluation of Lower Urinary Tract Dysfunction in Children",
+  "w": 1913
+ },
+ "29": {
+  "q": 45,
+  "r": 24,
+  "title": "Management Strategies for Vesicoureteral Reflux",
+  "w": 6037
+ },
+ "3": {
+  "q": 19,
+  "r": 27,
+  "title": "Urinary Tract Imaging: Basic Principles of CT, MRI, and Plain Film Imaging",
+  "w": 2975
+ },
+ "30": {
+  "q": 14,
+  "r": 14,
+  "title": "Bladder Anomalies in Children",
+  "w": 1950
+ },
+ "4": {
+  "q": 25,
+  "r": 6,
+  "title": "Urinary Tract Imaging: Basic Principles of Urologic Ultrasonography",
+  "w": 2396
+ },
+ "5": {
+  "q": 12,
+  "r": 12,
+  "title": "Urinary Tract Imaging: Basic Principles of Nuclear Medicine",
+  "w": 1373
+ },
+ "55": {
+  "q": 59,
+  "r": 54,
+  "title": "Infections of the Urinary Tract",
+  "w": 6133
+ },
+ "56": {
+  "q": 25,
+  "r": 35,
+  "title": "Inflammatory and Pain Conditions of the Male Genitourinary Tract: Prostatitis, Orchitis, Epididymitis",
+  "w": 2973
+ },
+ "57": {
+  "q": 32,
+  "r": 34,
+  "title": "Interstitial Cystitis/Bladder Pain Syndrome and Related Disorders",
+  "w": 4977
+ },
+ "58": {
+  "q": 27,
+  "r": 42,
+  "title": "Sexually Transmitted Diseases",
+  "w": 3590
+ },
+ "59": {
+  "q": 42,
+  "r": 17,
+  "title": "Cutaneous Diseases of the External Genitalia",
+  "w": 5124
+ },
+ "6": {
+  "q": 10,
+  "r": 6,
+  "title": "Assessment of Urologic and Surgical Outcomes",
+  "w": 1195
+ },
+ "60": {
+  "q": 24,
+  "r": 23,
+  "title": "Tuberculosis and Parasitic Infections of the Genitourinary Tract",
+  "w": 2907
+ },
+ "61": {
+  "q": 16,
+  "r": 19,
+  "title": "Basic Principles of Immunology and Immunotherapy in Urologic Oncology",
+  "w": 2294
+ },
+ "62": {
+  "q": 34,
+  "r": 56,
+  "title": "Molecular Genetics and Cancer Biology",
+  "w": 5031
+ },
+ "7": {
+  "q": 11,
+  "r": 15,
+  "title": "Ethics and Informed Consent",
+  "w": 1427
+ },
+ "75": {
+  "q": 19,
+  "r": 22,
+  "title": "Surgical, Radiographic, and Endoscopic Anatomy of the Retroperitoneum",
+  "w": 2645
+ },
+ "76": {
+  "q": 35,
+  "r": 35,
+  "title": "Neoplasms of the Testis",
+  "w": 6323
+ },
+ "77": {
+  "q": 24,
+  "r": 32,
+  "title": "Surgery of Testicular Tumors",
+  "w": 4454
+ },
+ "78": {
+  "q": 8,
+  "r": 4,
+  "title": "Laparoscopic and Robotic-Assisted Retroperitoneal Lymphadenectomy for Testicular Tumors",
+  "w": 946
+ },
+ "79": {
+  "q": 29,
+  "r": 54,
+  "title": "Tumors of the Penis",
+  "w": 4169
+ },
+ "8": {
+  "q": 6,
+  "r": 25,
+  "title": "Principles of Urologic Surgery: Perioperative Care",
+  "w": 1842
+ },
+ "9": {
+  "q": 14,
+  "r": 15,
+  "title": "Principles of Urologic Surgery: Incisions and Access",
+  "w": 2062
+ }
+}
