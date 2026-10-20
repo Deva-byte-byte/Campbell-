@@ -1,0 +1,1484 @@
+[
+{
+"f": "mcq",
+"t": "Neonatal kidney",
+"q": "Which statement about the developing kidney is FALSE?",
+"o": [
+"Neonatal sodium balance is a key task",
+"Nephrogenesis ends by 34–36 weeks",
+"GFR reaches adult levels at birth",
+"The newborn excretes potassium poorly"
+],
+"a": 2,
+"e": [
+"The metanephros forms the mature nephrons; the pronephros involutes fully and the mesonephric duct forms parts of the urinary tract. Nephrogenesis is complete by 34–36 weeks post-conception, in or ex utero. Prenatal and neonatal GFR is much lower than adult; adult GFR is reached by about 2 years, and renal growth continues past puberty. Tubular maturation (including sodium regulation) continues for weeks to months; sodium balance is a key neonatal function; limited potassium excretion gives higher serum potassium. CAKUT is the commonest cause of ESRD in children."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a01",
+"c021-a02",
+"c021-r02",
+"c021-r03",
+"c021-r04",
+"c021-r01"
+]
+},
+{
+"f": "mcq",
+"t": "IC/BPS definition",
+"q": "Which statement about defining interstitial cystitis/bladder pain syndrome (IC/BPS) is FALSE?",
+"o": [
+"Bladder-related pain is the core symptom",
+"NIDDK criteria were made for research",
+"Symptoms must last over six weeks",
+"Glomerulations are needed for diagnosis"
+],
+"a": 3,
+"e": [
+"IC/BPS: an unpleasant sensation (pain, pressure, discomfort) perceived to relate to the bladder, with LUTS for more than 6 weeks, without infection or other cause; a diagnosis of exclusion with no specific test. Pain usually rises with filling and drives frequency; urgency (often misread by patients) and hydrodistention findings are not needed. NIDDK criteria ensure homogeneous research cohorts: 90% of experts agreed those patients had IC, but 60% of clinically diagnosed patients failed the criteria (high specificity, low sensitivity). Glomerulations lack sensitivity and specificity; they occur after radiation, with cancer, toxins, chemotherapy, dialysis or a defunctioned bladder, and mean nothing in an asymptomatic patient."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a01",
+"c057-a02",
+"c057-a07",
+"c057-a12",
+"c057-r01",
+"c057-a19"
+]
+},
+{
+"f": "mcq",
+"t": "Complement in GN",
+"q": "A boy has haematuria and hypertension 2 weeks after pharyngitis. The expected complement pattern is:",
+"o": [
+"Low C3 with low C4",
+"Low C3 with normal C4",
+"Normal C3 with low C4",
+"Normal C3 and C4"
+],
+"a": 1,
+"e": [
+"Post-infectious GN (and C3 glomerulopathy): low C3, normal C4. Lupus nephritis and MPGN: both low. ANCA-associated GN: normal complement. Confirm post-streptococcal disease with raised ASO titre."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a07",
+"c021-a06"
+]
+},
+{
+"f": "mcq",
+"t": "ED risk",
+"q": "Which statement about ED epidemiology is FALSE?",
+"o": [
+"ED raises 5-year cardiac events by 45%",
+"ED and CVD share a two-way risk link",
+"Passive smoking has no link with ED",
+"ED prevalence is about 20% of adult men"
+],
+"a": 2,
+"e": [
+"ED affects about 20% of adult men and rises with age. Predictors: older age, lower education, diabetes, cardiovascular disease (hypertension, stroke), active and passive smoke exposure, overweight. The ED–cardiovascular risk relationship is bidirectional; men with ED are 45% more likely to have a cardiac event within 5 years. Every ED patient carries some cardiovascular risk: basic medical assessment, health monitoring and lifestyle change (activity, weight) for all."
+],
+"s": "Ch 69 Erectile dysfunction",
+"c": [
+"c069-a01",
+"c069-r14",
+"c069-r01",
+"c069-a03",
+"c069-r02",
+"c069-a04"
+]
+},
+{
+"f": "mcq",
+"t": "PNL sepsis and staghorns",
+"q": "Which statement about staghorn and complex renal stones is FALSE?",
+"o": [
+"Struvite stones must be fully cleared",
+"Bladder urine best predicts PNL sepsis",
+"Untreated staghorns had 28% 10-year mortality",
+"Bacteria may hide deep inside stones"
+],
+"a": 1,
+"e": [
+"The best predictor of post-PNL urosepsis is stone or renal pelvic urine culture. Untreated staghorns: 10-year mortality 28% vs 7.2% with surgery; recurrent UTI, urosepsis and progressive loss of renal function. Struvite must be removed completely because bacteria in the stone keep urea-splitting bacteriuria going. Combined therapy for staghorns is primarily percutaneous, with SWL only as an adjunct to limit tracts. Cystinuric patients more often have reduced renal function."
+],
+"s": "Ch 93 Surgical stone management",
+"c": [
+"c093-a01",
+"c093-r16",
+"c093-a02",
+"c093-a03",
+"c093-r14",
+"c093-r10",
+"c093-r03",
+"c093-a06",
+"c093-r04"
+]
+},
+{
+"f": "mcq",
+"t": "Isolated MH",
+"q": "A healthy 8-year-old has microscopic haematuria on a school screen. The first step is:",
+"o": [
+"CT urogram with urine cytology",
+"Renal biopsy to find the cause",
+"Repeat the urinalysis in 2 weeks",
+"Renal ultrasound and cystoscopy"
+],
+"a": 2,
+"e": [
+"Fewer than 25% persist on repeat testing. Persistent MH: screen renal function, ultrasound, urinary calcium and infection."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a03",
+"c021-r05"
+]
+},
+{
+"f": "mcq",
+"t": "Adrenal relations",
+"q": "Which statement about adrenal anatomy is FALSE?",
+"o": [
+"Both adrenals lie close to the diaphragmatic crus",
+"The adrenals lie within Gerota fascia",
+"Each gland gets inferior phrenic, aortic and renal branches",
+"The right adrenal lies lower than the left"
+],
+"a": 3,
+"e": [
+"The right kidney lies lower than the left, but the right adrenal lies higher than the left. Both are near the diaphragmatic crus; the left touches the medial upper pole of the left kidney, with splenic vessels and pancreas anterior, aorta medial and psoas posterior. Arteries: superior (inferior phrenic), middle (aorta), inferior (renal), each splitting into 10–50 small arteries. The right adrenal vein is short and enters the IVC posterolaterally. The adrenals lie inside Gerota fascia."
+],
+"s": "Ch 105 Adrenal anatomy",
+"c": [
+"c105-a01",
+"c105-a02",
+"c105-r04",
+"c105-a03",
+"c105-r02",
+"c105-r01"
+]
+},
+{
+"f": "mcq",
+"t": "Bladder compliance",
+"q": "Which statement about bladder filling is FALSE?",
+"o": [
+"More collagen in the wall lowers compliance",
+"Fibrotic low compliance responds to drugs",
+"Viscoelasticity causes stress relaxation",
+"Normal filling barely raises bladder pressure"
+],
+"a": 1,
+"e": [
+"Normal physiological filling causes an almost imperceptible pressure rise: high compliance (ΔV/ΔP) from elastic and viscoelastic properties. Elasticity: stretch without tension; viscoelasticity: tension rises then decays (stress relaxation) when filling slows. Stroma (collagen, elastin) and a relaxed detrusor set passive properties; more collagen (injury, inflammation, obstruction, decentralisation) lowers compliance, and this is unresponsive to drugs, distention or nerve section: augmentation cystoplasty is usually needed."
+],
+"s": "Ch 111 LUT dysfunction overview",
+"c": [
+"c111-a01",
+"c111-a02",
+"c111-r04",
+"c111-r08",
+"c111-r09"
+]
+},
+{
+"f": "mcq",
+"t": "Graft loss",
+"q": "The commonest cause of renal graft loss in children is:",
+"o": [
+"Acute cellular rejection",
+"Anastomotic failure",
+"Chronic allograft nephropathy",
+"Recurrent obstructive uropathy"
+],
+"a": 2,
+"e": [
+"Acute cellular rejection is common (first year <10% living donor, ~15% deceased donor) but usually responds to treatment; anastomotic failure is very rare; recurrent obstruction is usually manageable; antibody-mediated rejection is increasingly recognised."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a17",
+"c021-r37",
+"c021-r38"
+]
+},
+{
+"f": "mcq",
+"t": "Accessory glands",
+"q": "Which statement about prostate and accessory gland development is FALSE?",
+"o": [
+"Wolffian ducts grow under testosterone",
+"Females form a prostate if androgens are high",
+"Prostate development is driven by DHT",
+"The prostate arises from the wolffian duct"
+],
+"a": 3,
+"e": [
+"Sex accessory tissues: prostate, seminal vesicles, ampullae, bulbourethral glands (not the tunica albuginea). Wolffian ducts form seminal vesicles, epididymis, vas, ampulla and ejaculatory duct under fetal testosterone, not DHT. The prostate arises from the urogenital sinus in the third month, driven mainly by DHT; with high enough androgens at the right time, even female embryos form a prostate; a functional androgen receptor in the mesenchyme is required. Estrogens are not needed: ER-α and ER-β knockout mice have normal prostates."
+],
+"s": "Ch 143 Prostate physiology",
+"c": [
+"c143-a01",
+"c143-a02",
+"c143-r20",
+"c143-a03",
+"c143-a04",
+"c143-a05",
+"c143-a14"
+]
+},
+{
+"f": "mcq",
+"t": "Haematuria in children",
+"q": "Which statement about haematuria in children is FALSE?",
+"o": [
+"Heme-positive dipstick, no RBCs: think myoglobin",
+"Isolated MH needs CT and cystoscopy",
+"About 1% of schoolchildren have MH",
+"Most MH resolves within a year"
+],
+"a": 1,
+"e": [
+"Isolated microscopic haematuria (MH) occurs in about 1% of school-age children; on repeat testing under 25% persist; most resolve within a year. First step: repeat urinalysis in about 2 weeks; if persistent, screen renal function, structure (ultrasound), urinary calcium and infection. Gross haematuria with a heme-positive dipstick but no RBCs suggests haemoglobinuria or myoglobinuria."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a03",
+"c021-r05",
+"c021-r06",
+"c021-r07"
+]
+},
+{
+"f": "mcq",
+"t": "Rare stones",
+"q": "2,8-dihydroxyadenine stones in a child point to:",
+"o": [
+"Distal RTA",
+"AGT deficiency",
+"Cystinuria",
+"APRT deficiency"
+],
+"a": 3,
+"e": [
+"Adenine phosphoribosyltransferase (APRT) deficiency is autosomal recessive. Alanine:glyoxylate aminotransferase (AGT) deficiency causes primary hyperoxaluria; secondary hyperoxaluria follows high oxalate or vitamin C intake or short gut. Cystinuria impairs reabsorption of cystine, ornithine, arginine and lysine."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a12",
+"c021-r25"
+]
+},
+{
+"f": "mcq",
+"t": "Hunner lesion",
+"q": "Which statement about the Hunner lesion (HL) is FALSE?",
+"o": [
+"Trigonal lesions should raise CIS concern",
+"HL responds to fulguration or steroid",
+"It is seen in over half of patients",
+"Patients with HL tend to be older ones"
+],
+"a": 2,
+"e": [
+"HL (formerly Hunner ulcer) is pathognomonic of 'classic' IC, found in a minority (<30%); usually easy to see at office cystoscopy (distension beyond capacity or narrow-band imaging may help). Mounting evidence: BPS without HL is a distinct syndrome. HL patients are older, have fewer comorbidities and respond to bladder-centred therapy: fulguration and/or steroid injection. Clinical presentation otherwise does not reliably differ. HLs are supratrigonal; a trigonal lesion suggests CIS. Histology: dense, often panmural lymphoplasmacytic infiltrate; biopsy excludes CIS. Haematuria or pyuria do not predict HL; do office cystoscopy if HL suspected or empiric therapy fails."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a11",
+"c057-a03",
+"c057-a31",
+"c057-r09",
+"c057-r10",
+"c057-a25",
+"c057-r23"
+]
+},
+{
+"f": "mcq",
+"t": "SWL resistance",
+"q": "Which stone type is most resistant to shock wave lithotripsy (SWL)?",
+"o": [
+"Struvite",
+"Calcium oxalate dihydrate",
+"Cystine",
+"Uric acid"
+],
+"a": 2,
+"e": [
+"Cystine and brushite are most resistant, then calcium oxalate monohydrate; then hydroxyapatite, struvite, calcium oxalate dihydrate and uric acid. SWL success falls linearly with Hounsfield density. Poor clearance after SWL: large stones, lower pole or obstructed segments, very hard stones and obesity. SWL causes acute (mainly vascular) renal injury in most patients."
+],
+"s": "Ch 93 Surgical stone management",
+"c": [
+"c093-a07",
+"c093-r18",
+"c093-r05",
+"c093-r01",
+"c093-r24"
+]
+},
+{
+"f": "mcq",
+"t": "ED history",
+"q": "Which feature points to an organic cause of ED?",
+"o": [
+"Sudden onset after a quarrel",
+"Situational loss of erection",
+"Normal morning erections",
+"Gradual decline in erections"
+],
+"a": 3,
+"e": [
+"Organic ED: gradual onset, incremental progression, global dysfunction and poor or absent morning erections. Shared decision making: the patient or couple chooses after discussing all options. Questionnaires document presence, subjective severity and treatment response, not cause or objective severity. IIEF domains: erectile function, orgasmic function, desire, intercourse satisfaction, overall satisfaction. Nocturnal tumescence does not necessarily mean erections adequate for intercourse."
+],
+"s": "Ch 69 Erectile dysfunction",
+"c": [
+"c069-a05",
+"c069-a02",
+"c069-a06",
+"c069-r03",
+"c069-r04"
+]
+},
+{
+"f": "mcq",
+"t": "Prostate structure",
+"q": "Which statement about the prostate and seminal vesicles is FALSE?",
+"o": [
+"Basal cells belong to the prostatic stroma",
+"The seminal vesicles rarely get diseased",
+"Stroma includes smooth muscle and fibroblasts",
+"α1A receptors mediate prostate contraction"
+],
+"a": 0,
+"e": [
+"Two compartments: epithelium (basal, intermediate and neuroendocrine cells) and stroma (connective tissue, smooth muscle, fibroblasts). The prostate has a rich autonomic nerve plexus; of α1 subtypes (α1A, α1B, α1D), α1A is linked to contraction. The seminal vesicles are extremely resistant to disease."
+],
+"s": "Ch 143 Prostate physiology",
+"c": [
+"c143-r02",
+"c143-r03",
+"c143-r04",
+"c143-r05",
+"c143-a06",
+"c143-r01"
+]
+},
+{
+"f": "mcq",
+"t": "Mast cells",
+"q": "Which cell is thought to play a central (though not primary) role in many IC/BPS patients?",
+"o": [
+"Mast cell",
+"Plasma cell",
+"Eosinophil",
+"Neutrophil"
+],
+"a": 0,
+"e": [
+"Mast cells lie near vessels, lymphatics, nerves and detrusor; IC/BPS has neural, immune and endocrine components. Proposed local mechanisms: leaky epithelium, mast cell activation, neurogenic inflammation; widespread comorbid pain suggests global mechanisms in most."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a09",
+"c057-r19"
+]
+},
+{
+"f": "mcq",
+"t": "Proteinuria",
+"q": "Which statement about proteinuria in children is FALSE?",
+"o": [
+"Normal UPC is under 0.2 mg/mg after infancy",
+"A UPC of 0.5 mg/mg is nephrotic range",
+"Fever and exercise increase urine protein",
+"Most isolated proteinuria is transient"
+],
+"a": 1,
+"e": [
+"Urine normally contains protein, especially with fever and exercise; transient proteinuria accounts for >75% of isolated proteinuria. Normal UPC: <0.2 mg/mg in older children (higher in newborns); book: >1.0 is abnormal; >2.0 is nephrotic range. 24-hour protein: <200 mg in adolescents/adults, <4 mg/m²/h in young children. With systemic or glomerular features test C3, C4 and ANA."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a04",
+"c021-r08",
+"c021-r09",
+"c021-r10"
+]
+},
+{
+"f": "mcq",
+"t": "Renal stone choice",
+"q": "Following the book, which pairing of renal stone and first-line treatment is FALSE?",
+"o": [
+"Calyceal diverticular stone: PNL",
+"2.5 cm renal pelvic stone: SWL",
+"1–2 cm non-lower-pole: SWL or PNL",
+"Under 1 cm stone: SWL or ureteroscopy"
+],
+"a": 1,
+"e": [
+"Stone burden is the single most important factor. Book: <1 cm SWL or ureteroscopy; 1–2 cm (not lower pole) SWL or PNL; >2 cm PNL. Lower pole 10–25 mm (Lower Pole Study Group): stone-free 40% ureteroscopy vs 76% PNL; lower pole clearance is poorer for unclear reasons. Calyceal diverticular stones: PNL with fulguration gives the best stone- and symptom-free rate. Most untreated calyceal stones grow and cause pain or infection. Update: EAU accepts flexible ureteroscopy (RIRS) for 1–2 cm stones and PNL for >2 cm."
+],
+"s": "Ch 93 Surgical stone management",
+"c": [
+"c093-a04",
+"c093-r17",
+"c093-a05",
+"c093-r06",
+"c093-r11",
+"c093-a08",
+"c093-r19",
+"c093-r02"
+]
+},
+{
+"f": "mcq",
+"t": "Botulinum caution",
+"q": "A woman with IC/BPS has high-tone pelvic floor dysfunction and obstructive voiding symptoms. Which therapy needs particular caution?",
+"o": [
+"An elimination diet trial",
+"Pelvic floor physiotherapy",
+"Low-dose amitriptyline at night",
+"Intradetrusor botox"
+],
+"a": 3,
+"e": [
+"Botulinum toxin A (off-label) and SNM are book fourth-line options; retention is rare but caution is needed with obstructive voiding. Examination may show pelvic floor hypertonicity and tender points."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a15",
+"c057-r32"
+]
+},
+{
+"f": "mcq",
+"t": "Guarding reflex",
+"q": "Which statement about urine storage is FALSE?",
+"o": [
+"Sympathetic reflexes inhibit urine storage",
+"The brainstem organises micturition",
+"Striated sphincter activity rises with filling",
+"Abdominal pressure is sent to the urethra"
+],
+"a": 0,
+"e": [
+"Spinal sympathetic reflexes facilitate filling/storage: sympathetic modulation of cholinergic ganglionic transmission inhibits the bladder, α-adrenergic stimulation tightens the smooth sphincter, β stimulation relaxes the bladder body. Guarding reflex: rising pudendal efferent activity and striated sphincter EMG during filling. Pelvic nerve outflow is sacral, but the micturition reflex is organised in the pontine-mesencephalic brainstem. Abdominal pressure is transmitted to the proximal urethra (and mid-urethra in women). Micturition has two phases: filling/storage and emptying/voiding."
+],
+"s": "Ch 111 LUT dysfunction overview",
+"c": [
+"c111-a03",
+"c111-a04",
+"c111-r01",
+"c111-a05",
+"c111-r07",
+"c111-r02"
+]
+},
+{
+"f": "mcq",
+"t": "Natural history of IC/BPS",
+"q": "Which statement about the course of IC/BPS is FALSE?",
+"o": [
+"Prodromal symptoms may predate it by decades",
+"Childhood onset is common in IC/BPS",
+"Female relatives have 17 times the risk",
+"Flares commonly follow diet or intercourse"
+],
+"a": 1,
+"e": [
+"Childhood presentation is extremely rare; average onset is 40 years. Presentation is subacute, often first treated as OAB or cystitis; prodromal LUTS or pelvic pain often date back decades. The disease is chronic, waxing and waning; remissions are common; flares (usually days) follow diet and physical activity such as sex or exercise. Adult female first-degree relatives have 17-fold prevalence. About 3 million women and 2 million men in the USA have symptoms (clinic ratio 5:1); prevalence has risen with looser definitions."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-r14",
+"c057-a05",
+"c057-r13",
+"c057-r11",
+"c057-r15",
+"c057-r03",
+"c057-r02"
+]
+},
+{
+"f": "mcq",
+"t": "Augmentation candidates",
+"q": "Which finding makes an IC/BPS patient a poor candidate for supratrigonal cystectomy and augmentation?",
+"o": [
+"Hunner lesions on cystoscopy",
+"Perivesical fat stranding on CT",
+"Small anaesthetic bladder capacity",
+"Pre-existing urethral pain"
+],
+"a": 3,
+"e": [
+"About 30% need self-catheterisation after augmentation, so urethral pain predicts a poor result. Fat stranding reflects panmural inflammation and does not matter. HL with a small, poorly compliant bladder predicts the best outcome; bowel segments may still become painful or contract."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a29",
+"c057-r33",
+"c057-r34"
+]
+},
+{
+"f": "mcq",
+"t": "Nephrotic syndrome",
+"q": "Which statement about childhood nephrotic syndrome is FALSE?",
+"o": [
+"FSGS underlies most steroid resistance",
+"Most children are steroid resistant",
+"Congenital forms present before 3 months",
+"Minimal change disease is the commonest cause"
+],
+"a": 1,
+"e": [
+"Minimal change disease is commonest; corticosteroids induce remission in the vast majority. FSGS is seen in most steroid-resistant children and becomes commoner in late childhood and adolescence; membranous and mesangial proliferative disease are less frequent. Congenital nephrotic syndrome presents before 3 months."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a05",
+"c021-r11",
+"c021-r12",
+"c021-r13"
+]
+},
+{
+"f": "mcq",
+"t": "Penile Doppler",
+"q": "Which statement about specialised ED testing is FALSE?",
+"o": [
+"Angiography is needed before revascularisation",
+"Peak systolic velocity 30 cm/s is normal",
+"Duplex is done with pharmacostimulation",
+"Specialised tests suit complex cases"
+],
+"a": 1,
+"e": [
+"Specialised testing improves accuracy but is not required before treatment; best used by specialists in complex presentations. Duplex ultrasound with intracavernosal injection (plus stimulation) gives a functional erection and assesses the whole penis from crura to tip. Peak systolic velocity <25 cm/s suggests arterial insufficiency; >35 cm/s is normal (25–35 is borderline). Angiography of iliac, internal pudendal and penile arteries is needed before penile revascularisation."
+],
+"s": "Ch 69 Erectile dysfunction",
+"c": [
+"c069-r05",
+"c069-a08",
+"c069-a07",
+"c069-a09"
+]
+},
+{
+"f": "mcq",
+"t": "Opioids",
+"q": "Which statement about opioids in IC/BPS is TRUE?",
+"o": [
+"They should never be used in IC/BPS",
+"They have a fixed analgesic ceiling",
+"They relieve constipation in IC/BPS",
+"Long-term use often causes dependence"
+],
+"a": 3,
+"e": [
+"Opioids have no therapeutic ceiling (dose limited by side effects), cause constipation and sedation, and can help a subset with severe disease under 'universal precautions'."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a24"
+]
+},
+{
+"f": "mcq",
+"t": "Adrenal anomalies and zones",
+"q": "Which statement about the adrenal gland is FALSE?",
+"o": [
+"LH drives zona reticularis androgens",
+"With renal agenesis the adrenal is present",
+"The cortex is about 90% of gland mass",
+"Zona fasciculata is 80% of the cortex"
+],
+"a": 0,
+"e": [
+"With renal ectopia or agenesis the adrenal is usually in its normal position. Cortex ≈90% of mass: glomerulosa (outer, ~15%, aldosterone), fasciculata (middle, ~80%, glucocorticoids), reticularis (inner, 5–7%, sex steroids). Reticularis androgens are regulated by ACTH, not LH. Adrenal rests lie near the coeliac axis and along the path of gonadal descent; in congenital adrenal hyperplasia cord rests may become large."
+],
+"s": "Ch 105 Adrenal anatomy",
+"c": [
+"c105-a07",
+"c105-r07",
+"c105-a04",
+"c105-a05",
+"c105-r05",
+"c105-a06",
+"c105-r06",
+"c105-r03"
+]
+},
+{
+"f": "mcq",
+"t": "Ureteral stone passage",
+"q": "Which statement about ureteral stones is FALSE?",
+"o": [
+"Stone composition best predicts passage",
+"Most stones under 5 mm pass on their own",
+"Distal stones pass more often than proximal",
+"Tamsulosin is the preferred MET drug"
+],
+"a": 0,
+"e": [
+"Passage depends on size, location and side (smaller, distal and right-sided stones pass more), and on duration of symptoms and degree of hydronephrosis, not composition. Most stones <5 mm pass: expectant management. Alpha blockers increase passage; tamsulosin is preferred for efficacy and side effects. Update: SUSPEND (2015) showed no overall benefit, but later meta-analyses support MET for distal stones >5 mm; AUA recommends offering it for distal stones ≤10 mm. Distal ureteral stones: ureteroscopy stone-free 91% (AUA/EAU), better than SWL. For proximal stones with SWL, in situ treatment equals push-back."
+],
+"s": "Ch 93 Surgical stone management",
+"c": [
+"c093-a14",
+"c093-a16",
+"c093-r21",
+"c093-r07",
+"c093-a19",
+"c093-r13",
+"c093-a20",
+"c093-r08"
+]
+},
+{
+"f": "mcq",
+"t": "IC/BPS comorbidity",
+"q": "Which statement about conditions linked with IC/BPS is FALSE?",
+"o": [
+"High-tone pelvic floor occurs in 70–94%",
+"Most patients have pain beyond the pelvis",
+"Abuse history is a reported risk factor",
+"Diabetes is overrepresented in IC/BPS"
+],
+"a": 3,
+"e": [
+"Fibromyalgia, irritable bowel, chronic fatigue and atopic allergy are overrepresented (studied by the MAPP network). MAPP found two phenotypes: pelvic pain only and 'pelvic pain and beyond' (>75%), suggesting central pain. High-tone pelvic floor dysfunction: 70–94%. Overlapping disorders (pelvic floor, OAB, vulvodynia, IBS) need a multidisciplinary approach; missing them is a common cause of poor outcome. Abuse is a risk factor (Michigan: 37% of patients vs 22% of controls; abused patients have more pain, fewer voiding symptoms); be sensitive but do not assume. Sexual dysfunction strongly affects female quality of life. Cross-sensitisation between bowel and bladder may sustain pain."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a13",
+"c057-r07",
+"c057-r06",
+"c057-r08",
+"c057-r05",
+"c057-r22",
+"c057-a30",
+"c057-r04",
+"c057-r20"
+]
+},
+{
+"f": "mcq",
+"t": "Androgen synthesis",
+"q": "Which statement about androgens is FALSE?",
+"o": [
+"Leydig cells make the testosterone",
+"DHT can revert to testosterone",
+"Most bound testosterone is on SHBG",
+"Under 1% of testosterone comes from DHEA"
+],
+"a": 1,
+"e": [
+"Testosterone is synthesised from pregnenolone in Leydig cells by reversible steps; its reduction to DHT (5α-reductase) or aromatisation to estrogen is irreversible. Testosterone is a prohormone converted within the prostate to DHT. Less than 1% of plasma testosterone derives from DHEA; adrenal androgens have a minor role in prostate growth. Most protein-bound testosterone is on SHBG. Type 2 5α-reductase dominates in the prostate and is mutated in 5α-reductase deficiency."
+],
+"s": "Ch 143 Prostate physiology",
+"c": [
+"c143-a07",
+"c143-r21",
+"c143-a08",
+"c143-a09",
+"c143-a10",
+"c143-r07"
+]
+},
+{
+"f": "mcq",
+"t": "Symptom indices",
+"q": "The O'Leary-Sant symptom and problem indices are mainly used to:",
+"o": [
+"Predict response to pentosan",
+"Diagnose IC/BPS on their own",
+"Separate HL from non-HL disease",
+"Monitor severity and response"
+],
+"a": 3,
+"e": [
+"Like the AUA symptom score for BPH, they grade severity and track progression, regression and treatment response; they are not diagnostic."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a04"
+]
+},
+{
+"f": "mcq",
+"t": "Glomerulonephritis",
+"q": "Which statement about childhood glomerulonephritis is FALSE?",
+"o": [
+"ANCA vasculitis gives low C3 and C4",
+"CT has no role in initial GN work-up",
+"Post-infectious GN shows low C3, normal C4",
+"HSP causes purpura with nephritis"
+],
+"a": 0,
+"e": [
+"Hypertension with gross haematuria after pharyngitis suggests post-streptococcal GN: urine sediment (cellular casts), renal function, electrolytes, ASO and C3; CT has no role. Complement: low C3 and C4 in lupus and MPGN; low C3, normal C4 in post-infectious GN and C3GN; normal in ANCA-associated GN (rare, older children, fever). Henoch-Schönlein purpura: purpura on legs/buttocks, abdominal pain, arthritis, nephritis. HUS follows bloody diarrhoea and is a common cause of severe AKI in previously well young children. IgA nephropathy is the commonest primary GN worldwide."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a06",
+"c021-a07",
+"c021-a08",
+"c021-r14",
+"c021-r15"
+]
+},
+{
+"f": "mcq",
+"t": "Neurogenic patterns",
+"q": "Which statement about neurogenic voiding dysfunction is FALSE?",
+"o": [
+"Smooth dyssynergia goes with autonomic dysreflexia",
+"Detrusor overactivity follows suprasacral lesions",
+"Stroke typically causes sphincter dyssynergia",
+"ICS 2002 replaced the term hyperreflexia"
+],
+"a": 2,
+"e": [
+"Involuntary contractions occur mostly with suprasacral disease/injury, but also with ageing, inflammation, outlet obstruction, SUI or idiopathically. Stroke: urgency, frequency, urgency incontinence; detrusor overactivity with normal sensation and synergic sphincters (failure to store because of the bladder); ICS storage: overactive neurogenic detrusor, normal sensation, low capacity, normal compliance and closure; voiding normal. ICS 2002 replaced hyperreflexia/instability with neurogenic/idiopathic detrusor overactivity. Striated sphincter dyssynergia is commonest after complete suprasacral cord injury after spinal shock; smooth sphincter dyssynergia classically in autonomic hyperreflexia with DO and striated dyssynergia."
+],
+"s": "Ch 111 LUT dysfunction overview",
+"c": [
+"c111-a06",
+"c111-r10",
+"c111-a07",
+"c111-a08",
+"c111-a09",
+"c111-a10"
+]
+},
+{
+"f": "mcq",
+"t": "Hydrodistension value",
+"q": "The main value of cystoscopy with hydrodistension under anaesthesia in IC/BPS is to:",
+"o": [
+"Confirm glomerulations",
+"Exclude detrusor overactivity",
+"Identify a Hunner lesion",
+"Measure bladder compliance"
+],
+"a": 2,
+"e": [
+"It is not part of the standard diagnostic work-up; its main value is diagnosing HL, which responds well to resection or fulguration. 30–50% get short-term relief; ~30% flare briefly; anaesthetic capacity <200 mL is a poor prognostic sign."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a21",
+"c057-r24"
+]
+},
+{
+"f": "mcq",
+"t": "IC/BPS tests",
+"q": "Which statement about investigations in IC/BPS is FALSE?",
+"o": [
+"Cystometry shows small capacity, hypersensitivity",
+"Bladder compliance is usually normal",
+"The KCl test reliably confirms IC/BPS",
+"Histology mainly excludes other disease"
+],
+"a": 2,
+"e": [
+"Up to 25% of NIDDK-positive patients have a negative potassium chloride (KCl) test; it is positive in radiation cystitis, UTI, nonbacterial prostatitis and pelvic pain, uncomfortable and does not guide therapy. Cystometry: normal except reduced capacity and hypersensitivity; pain on filling reproducing symptoms is suggestive; compliance normal. Detrusor overactivity in ~15% is insignificant and does not exclude IC. No histology is pathognomonic; inflammation in 24–76%; biopsy excludes other disease. Symptom indices (O'Leary-Sant) monitor severity, not diagnose. Urine antiproliferative factor (APF) inhibits urothelial proliferation and is the best marker studied."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a10",
+"c057-a18",
+"c057-r21",
+"c057-a27",
+"c057-a16",
+"c057-r17",
+"c057-a04",
+"c057-r18"
+]
+},
+{
+"f": "mcq",
+"t": "PNL and residual stones",
+"q": "Which statement about percutaneous nephrolithotomy (PNL) is FALSE?",
+"o": [
+"Non-contrast CT detects residual stones well",
+"Use physiological saline for irrigation",
+"Residual fragments are clinically harmless",
+"Untreated UTI absolutely contraindicates PNL"
+],
+"a": 2,
+"e": [
+"43% of patients with residual fragments later had a symptomatic episode or needed intervention. Non-contrast CT had 100% sensitivity versus flexible nephroscopy (the traditional gold standard). Absolute contraindications: uncorrected coagulopathy and active untreated UTI. Physiological irrigant prevents dilutional hyponatraemia if extravasation occurs. Matrix stones (gelatinous): PNL best; SWL ineffective; ureteroscopy hampered by volume."
+],
+"s": "Ch 93 Surgical stone management",
+"c": [
+"c093-a12",
+"c093-a13",
+"c093-r25",
+"c093-r26",
+"c093-a17",
+"c093-r12"
+]
+},
+{
+"f": "mcq",
+"t": "Injection contraindication",
+"q": "Which is a contraindication to intracavernosal injection therapy?",
+"o": [
+"Use of MAO inhibitors",
+"Prior radical prostatectomy",
+"Diabetes mellitus",
+"Age over 70 years"
+],
+"a": 0,
+"e": [
+"Contraindications: psychological instability, priapism history or risk, severe coagulopathy, unstable cardiovascular disease, reduced dexterity and MAO inhibitor use."
+],
+"s": "Ch 69 Erectile dysfunction",
+"c": [
+"c069-a13",
+"c069-r15"
+]
+},
+{
+"f": "mcq",
+"t": "Testosterone measurement",
+"q": "Which statement about testosterone testing in ED is FALSE?",
+"o": [
+"Raised SHBG lowers bioavailable T",
+"Draw blood for it between 7 and 11 AM",
+"Therapy aims at symptom improvement",
+"Bioavailable T is free plus SHBG T"
+],
+"a": 3,
+"e": [
+"Testosterone circulates free, albumin-bound and SHBG-bound; bioavailable = free + albumin-bound. Factors raising SHBG lower bioavailable testosterone. Production is circadian with a morning peak: sample between 7 and 11 AM. The aim of testosterone therapy is symptomatic improvement, usually titrated to normal levels. Endocrine causes of ED: hypogonadism, hyperthyroidism, diabetes."
+],
+"s": "Ch 69 Erectile dysfunction",
+"c": [
+"c069-r06",
+"c069-a10",
+"c069-r07",
+"c069-a11",
+"c069-r09"
+]
+},
+{
+"f": "mcq",
+"t": "Androgen receptor",
+"q": "Which statement about the androgen receptor (AR) is FALSE?",
+"o": [
+"Longer CAG repeats make the AR more active",
+"Ligand binding releases AR from chaperones",
+"AR nuclear entry is ATP-dependent",
+"AR dimers bind response elements head to head"
+],
+"a": 0,
+"e": [
+"After binding ligand, AR leaves its chaperonins, dimerises and enters the nucleus via a nuclear localisation motif (Ran-dependent, ATP-dependent active transport); it shuttles back to the cytoplasm; the nuclear matrix is the main nuclear binding target for androgen and estrogen receptors. Shorter poly-CAG repeats mean a more active AR; longer means less. Crystallography shows dimers bind head to head whether the response element is a direct or inverted repeat."
+],
+"s": "Ch 143 Prostate physiology",
+"c": [
+"c143-a12",
+"c143-a13",
+"c143-r10",
+"c143-a15",
+"c143-r09"
+]
+},
+{
+"f": "mcq",
+"t": "PNL sepsis predictor",
+"q": "The best predictor of urosepsis after PNL is:",
+"o": [
+"Stone or renal pelvic urine culture",
+"Preoperative serum CRP level",
+"Stone size on non-contrast CT",
+"Preoperative bladder urine culture"
+],
+"a": 0,
+"e": [
+"Bacteria reside deep in stones; bladder urine may be sterile while pelvic urine or stone is infected."
+],
+"s": "Ch 93 Surgical stone management",
+"c": [
+"c093-a01",
+"c093-r16"
+]
+},
+{
+"f": "mcq",
+"t": "RTA",
+"q": "An infant fails to thrive with a normal anion gap acidosis, very low bicarbonate and nephrocalcinosis. Diagnosis:",
+"o": [
+"Distal RTA",
+"Bartter syndrome",
+"Proximal RTA",
+"Dent disease"
+],
+"a": 0,
+"e": [
+"Hyperchloraemic (normal anion gap) metabolic acidosis is the hallmark of RTA. Distal RTA: very low bicarbonate, hypokalaemia, hypercalciuria, nephrocalcinosis. Proximal RTA/Fanconi: bicarbonate usually 12–14 mEq/L with hypophosphataemia, low-grade proteinuria and glycosuria. Hyperkalaemic RTA is type 4. Bartter syndrome is defined by hypokalaemic metabolic alkalosis; Dent disease does not cause RTA."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a09",
+"c021-r16",
+"c021-r17",
+"c021-r18",
+"c021-r19"
+]
+},
+{
+"f": "mcq",
+"t": "Ketamine and mimics",
+"q": "Which statement about the differential diagnosis of IC/BPS is FALSE?",
+"o": [
+"Bladder CIS can be misdiagnosed as IC",
+"Some CPPS category III men meet IC criteria",
+"Bacterial prostatitis is a form of IC/BPS",
+"Ketamine cystitis can mimic IC/BPS"
+],
+"a": 2,
+"e": [
+"Ketamine cystitis mimics IC/BPS and can involve the upper tracts: ask about recreational drugs, especially in the young. NIH type I (acute) and II (chronic bacterial) prostatitis have known causes and no relationship to IC/BPS; some men with category III CPPS meet IC criteria. Men with irritative symptoms and pelvic pain: evaluate for IC/BPS vs CIS, outlet obstruction and bacterial prostatitis; many have had needless bladder neck surgery. Bladder cancer can be misdiagnosed as IC; most reports show no link to later cancer (Mayo cases were misdiagnosis; a Taiwanese study found RR 2.95). Other pelvic pain syndromes: vulvodynia, orchialgia, perineal, penile and rectal pain."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a17",
+"c057-a14",
+"c057-r16",
+"c057-r12",
+"c057-a28",
+"c057-a06"
+]
+},
+{
+"f": "mcq",
+"t": "Classification systems",
+"q": "Which statement about classification of voiding dysfunction is FALSE?",
+"o": [
+"Spasticity below the lesion implies a UMN lesion",
+"A reflex bladder follows complete cord injury",
+"Bors-Comarr unbalanced UMN means PVR over 10%",
+"Lapides split atonic bladders into two types"
+],
+"a": 2,
+"e": [
+"Lapides modified McLellan by splitting 'atonic' into sensory and motor neurogenic bladder; uninhibited neurogenic bladder was ascribed to corticoregulatory tract injury. Reflex neurogenic bladder: after spinal shock, complete interruption between sacral cord and brainstem (trauma, transverse myelitis): no sensation, no voluntary voiding, low-volume DO incontinence, striated dyssynergia (= complete UMN in Bors-Comarr). Bors-Comarr (neurological patients only): lesion level, completeness, balance; unbalanced = residual >20% of capacity for UMN, >10% for LMN. Skeletal spasticity below the lesion implies UMN (DO); flaccidity implies LMN (areflexia)."
+],
+"s": "Ch 111 LUT dysfunction overview",
+"c": [
+"c111-a11",
+"c111-a12",
+"c111-a13",
+"c111-a14"
+]
+},
+{
+"f": "mcq",
+"t": "Intracavernosal therapy",
+"q": "Which statement about ED pharmacotherapy is FALSE?",
+"o": [
+"Nitric oxide release induces erection",
+"Prior priapism contraindicates injections",
+"Alprostadil gives more priapism",
+"Nitrates absolutely bar PDE5 inhibitor use"
+],
+"a": 2,
+"e": [
+"Erection needs nitric oxide from nerves and endothelium; cGMP and cAMP relax corporal smooth muscle. Any nitrate absolutely contraindicates PDE5 inhibitors. Injectables: prostaglandin E1, papaverine, phentolamine. Alprostadil: less prolonged erection, systemic effects and fibrosis; but more painful erection, higher cost, short half-life once reconstituted. Injection contraindications: psychological instability, priapism risk, severe coagulopathy, unstable cardiovascular disease, poor dexterity, MAO inhibitors. Penile rehabilitation with PDE5 inhibitors after RP has not proved efficacious."
+],
+"s": "Ch 69 Erectile dysfunction",
+"c": [
+"c069-a14",
+"c069-r11",
+"c069-r10",
+"c069-a12",
+"c069-r13",
+"c069-a13",
+"c069-r15",
+"c069-r12"
+]
+},
+{
+"f": "mcq",
+"t": "Lower Pole Study Group",
+"q": "For 10–25 mm lower pole stones, stone-free rates at 3 months for PNL versus ureteroscopy (Lower Pole Study Group) were:",
+"o": [
+"76% versus 40%",
+"91% versus 60%",
+"60% versus 91%",
+"40% versus 76%"
+],
+"a": 0,
+"e": [
+"PNL was significantly better than ureteroscopy for lower pole stones of this size."
+],
+"s": "Ch 93 Surgical stone management",
+"c": [
+"c093-a05"
+]
+},
+{
+"f": "mcq",
+"t": "Seminal fluid",
+"q": "Which statement about seminal fluid is FALSE?",
+"o": [
+"PSA liquefies the semenogelin coagulum",
+"Fructose comes from the seminal vesicles",
+"Seminal vesicles give most semen volume",
+"Vesicles supply citrate and zinc"
+],
+"a": 3,
+"e": [
+"Seminal vesicles: prostaglandins, fructose (absent with congenital absence of the vesicles), semenogelin, and most of the volume. Prostate: citrate, zinc, spermine, choline. PSA is a serine protease that degrades semenogelin (which coagulates semen). Complexed PSA is irreversibly bound to α1-antichymotrypsin and α2-macroglobulin; rises in hK2, pro-PSA and bound PSA are associated with cancer. Prostatic fluid is more acidic than serum."
+],
+"s": "Ch 143 Prostate physiology",
+"c": [
+"c143-a11",
+"c143-r11",
+"c143-r12",
+"c143-r13",
+"c143-r14",
+"c143-r15",
+"c143-r16",
+"c143-r18"
+]
+},
+{
+"f": "mcq",
+"t": "Cysts and stones in children",
+"q": "Which statement is FALSE?",
+"o": [
+"ARPKD is due to polycystin-1 mutations",
+"MCDK has urologic anomalies in up to 25%",
+"Ultrasound is first imaging for renal colic",
+"Calcium stones are commonest in children"
+],
+"a": 0,
+"e": [
+"ARPKD: PKHD1 gene, with hepatic fibrosis; ADPKD: PKD1 (polycystin-1) or PKD2; childhood ultrasound in ADPKD ranges from normal to severe cysts. MCDK: associated anomalies in up to 25% (hypoplasia/dysplasia, VUR, UPJ obstruction). Paediatric urolithiasis is underdiagnosed (often asymptomatic); calcium stones most prevalent; ultrasound is the first study for colic (CT adds radiation); give analgesia before drainage."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a10",
+"c021-r21",
+"c021-r22",
+"c021-r20",
+"c021-a11",
+"c021-r23",
+"c021-r24"
+]
+},
+{
+"f": "mcq",
+"t": "Obstruction timing",
+"q": "With complete ureteral obstruction, irreversible loss of renal function begins after about:",
+"o": [
+"12 weeks",
+"2 weeks",
+"3 months",
+"48 hours"
+],
+"a": 1,
+"e": [
+"Irreversible loss starts after about 2 weeks and total unit loss can occur by 6 weeks; do not leave a significant obstruction beyond 2–4 weeks."
+],
+"s": "Ch 93 Surgical stone management",
+"c": [
+"c093-a15",
+"c093-r09"
+]
+},
+{
+"f": "mcq",
+"t": "Special stone situations",
+"q": "Which statement about stone treatment in special situations is FALSE?",
+"o": [
+"Routine stenting before SWL aids breakup",
+"Ureteroscopy suits patients on anticoagulants",
+"Flexible ureteroscopy suits morbid obesity",
+"SWL suits small diverticular stones that drain"
+],
+"a": 0,
+"e": [
+"AUA panel: routine stenting before SWL does not improve fragmentation; stents are for pain, obstruction, poorly visualised stones and are mandatory with an obstructed solitary kidney. If anticoagulation cannot stop, ureteroscopy with holmium laser is preferred (successful even with incompletely corrected coagulopathy). Morbid obesity: retrograde intrarenal surgery when stone burden is modest. SWL for small (<1.5 cm) stones with good drainage; otherwise PNL first."
+],
+"s": "Ch 93 Surgical stone management",
+"c": [
+"c093-a18",
+"c093-a11",
+"c093-r20",
+"c093-a10",
+"c093-a09"
+]
+},
+{
+"f": "mcq",
+"t": "IC/BPS first-line care",
+"q": "Which statement about initial IC/BPS treatment is FALSE?",
+"o": [
+"Long-term antibiotics are a core therapy",
+"Elimination diets can identify triggers",
+"Patient education is the most important step",
+"CBT can reduce catastrophic thinking"
+],
+"a": 0,
+"e": [
+"Antibiotics have no role and infection is not causative (one empiric doxycycline trial is reasonable if never tried). Initial care: education (chronic, waxing-waning, remissions; uninformed patients are easy prey), diet changes, non-prescription analgesics, pelvic floor relaxation. Elimination diets identify food/drink sensitivities. Catastrophising increases pain and responds to cognitive behavioural therapy. Start conservatively and escalate for poor control, or start aggressively when symptoms are severe."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a08",
+"c057-a26",
+"c057-r26",
+"c057-r28",
+"c057-r27",
+"c057-r25"
+]
+},
+{
+"f": "mcq",
+"t": "Adrenal vein",
+"q": "The right adrenal vein:",
+"o": [
+"Is long and enters the IVC anteriorly",
+"Joins the right inferior phrenic vein first",
+"Drains into the right renal vein usually",
+"Is short, entering the IVC posterolaterally"
+],
+"a": 3,
+"e": [
+"The short right adrenal vein is a classic source of bleeding at right adrenalectomy. (The left adrenal vein drains into the left renal vein.) Each gland receives superior (inferior phrenic), middle (aortic) and inferior (renal) arteries."
+],
+"s": "Ch 105 Adrenal anatomy",
+"c": [
+"c105-r02",
+"c105-a03"
+]
+},
+{
+"f": "mcq",
+"t": "OAB and ISD",
+"q": "Which statement is FALSE?",
+"o": [
+"Urgency is the key symptom of OAB",
+"Effort leakage in women implies some ISD",
+"Post-prostatectomy leakage is mainly ISD",
+"OAB requires urgency incontinence"
+],
+"a": 3,
+"e": [
+"ICS: OAB is urgency, with or without urgency incontinence, usually with frequency and nocturia; about one-third have incontinence. Detrusor overactivity is a urodynamic finding that may or may not accompany urgency. Female outlet-related incontinence combines loss of support (hypermobility) and ISD; effort incontinence always involves some ISD. Male outlet incontinence (usually after prostatectomy) is essentially ISD. Two sphincters: smooth (bladder neck/proximal urethra, involuntary) and striated (intramural rhabdosphincter plus external levator part, voluntary). Hammock hypothesis: the ventral urethra is compressed against a fixed fascial dorsal support. Inflammation increases afferent input and pain hypersensitivity."
+],
+"s": "Ch 111 LUT dysfunction overview",
+"c": [
+"c111-a15",
+"c111-r11",
+"c111-a16",
+"c111-r12",
+"c111-r03",
+"c111-r06",
+"c111-r05"
+]
+},
+{
+"f": "mcq",
+"t": "Paediatric hypertension",
+"q": "Which statement about hypertension in children is FALSE?",
+"o": [
+"White coat hypertension affects up to 25%",
+"One raised office reading confirms it",
+"Lifestyle change is first for primary HT",
+"Obesity drives the rise in prevalence"
+],
+"a": 1,
+"e": [
+"Elevated office BP should be repeated (e.g., 1–2 weeks) to confirm; ambulatory monitoring is recommended where available. If confirmed: metabolic panel, lipids, echocardiography and renal ultrasound; angiography and renal vein renins for severe or resistant cases. Up to a quarter have white coat hypertension. Rising prevalence tracks obesity. Primary hypertension without end-organ damage: lifestyle changes first (AAP 2017 guideline)."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a13",
+"c021-r26",
+"c021-r27",
+"c021-r28"
+]
+},
+{
+"f": "mcq",
+"t": "Bors-Comarr balance",
+"q": "In the Bors-Comarr system, an LMN lesion is 'unbalanced' when residual urine exceeds:",
+"o": [
+"30% of bladder capacity",
+"50% of bladder capacity",
+"20% of bladder capacity",
+"10% of bladder capacity"
+],
+"a": 3,
+"e": [
+"Unbalanced: residual >20% of capacity with a UMN lesion, >10% with an LMN lesion; this was meant to imply sphincter dyssynergia."
+],
+"s": "Ch 111 LUT dysfunction overview",
+"c": [
+"c111-a13"
+]
+},
+{
+"f": "mcq",
+"t": "Pentosan and intravesical therapy",
+"q": "Which statement about IC/BPS drug therapy is FALSE?",
+"o": [
+"Pentosan targets the urothelial GAG layer",
+"Pentosan and DMSO are the FDA-approved drugs",
+"Pentosan has been linked to maculopathy",
+"Amitriptyline works as an antidepressant"
+],
+"a": 3,
+"e": [
+"Pentosan polysulfate (oral heparin analogue) aims to repair the glycosaminoglycan (GAG) layer; chronic use is linked to pigmentary maculopathy (AUA 2022 advises eye examinations). Pentosan (oral) and DMSO (intravesical) are the only FDA-approved drugs. Amitriptyline (not approved) helps via antihistamine, sedative and neuropathic pain effects at doses below antidepressant doses; anticholinergic effects may worsen constipation or voiding. Intravesical agents have limited success in centralised pain; dosing and maintenance are poorly studied. Book: none of the agents listed in its question had positive double-blind placebo-controlled trials. In a bladder-centric patient, untreated vestibulodynia or pelvic floor pain hides the benefit of intravesical therapy."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-a20",
+"c057-r30",
+"c057-a22",
+"c057-r29",
+"c057-r31",
+"c057-a23",
+"c057-a32"
+]
+},
+{
+"f": "mcq",
+"t": "Revascularisation and VED",
+"q": "Which statement is FALSE?",
+"o": [
+"Vacuum devices engorge the glans too",
+"Internal pudendal stenosis is the usual target",
+"Ideal revascularisation candidate had perineal trauma",
+"Revascularisation suits older diabetic men"
+],
+"a": 3,
+"e": [
+"Penile revascularisation is reserved for: perineal/pelvic trauma, age <55, nondiabetic, nonsmoker, no venous leak and a documented internal pudendal artery stenosis on angiography. Vacuum erection devices engorge the whole penis including the glans, helping glanular insufficiency; also suggested to preserve elasticity after priapism, prosthesis removal or Peyronie surgery."
+],
+"s": "Ch 69 Erectile dysfunction",
+"c": [
+"c069-r08",
+"c069-a16",
+"c069-a15"
+]
+},
+{
+"f": "mcq",
+"t": "Adrenal imaging",
+"q": "Which statement about adrenal imaging is FALSE?",
+"o": [
+"Ultrasound separates solid from cystic masses",
+"CT is the most used adrenal imaging test",
+"Under 10 HU on plain CT suggests benign tissue",
+"CT and MRI give functional information"
+],
+"a": 3,
+"e": [
+"CT is the most widely used modality; ultrasound distinguishes solid from cystic masses; MRI (T1/T2, chemical shift) helps characterise masses. CT and MRI give morphology only, no functional data. Book: normal adrenal tissue is ≤10 HU on non-contrast CT. Note: in practice ≤10 HU is the threshold diagnosing a lipid-rich benign adenoma in an adrenal mass."
+],
+"s": "Ch 105 Adrenal anatomy",
+"c": [
+"c105-a08",
+"c105-r08"
+]
+},
+{
+"f": "mcq",
+"t": "AKI and dialysis",
+"q": "Which statement about paediatric AKI and kidney failure is FALSE?",
+"o": [
+"FeNa over 1% points to prerenal AKI",
+"Peritoneal dialysis is first under 20 kg",
+"CRRT is standard in critically ill children",
+"Hospitalised children with AKI have 15× mortality"
+],
+"a": 0,
+"e": [
+"Prerenal AKI (dehydration from vomiting/diarrhoea): urine sodium <25 mEq/L or FeNa <1%; treat promptly with isotonic fluids. Intrinsic disease (valves, interstitial nephritis, UTI) shows FeNa >1%. AKI in hospitalised children carries nearly 15-fold mortality. CRRT is standard, correcting fluid and electrolytes slowly. Peritoneal dialysis is the commonest initial modality under 9 years and 20 kg."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a14",
+"c021-r29",
+"c021-r30",
+"c021-r31",
+"c021-r35"
+]
+},
+{
+"f": "mcq",
+"t": "5α-reductase",
+"q": "The dominant 5α-reductase isoform in the prostate is:",
+"o": [
+"Type 2",
+"Type 1",
+"Type 4",
+"Type 3"
+],
+"a": 0,
+"e": [
+"Type 2 is mutated in 5α-reductase deficiency, in which prostatic development is severely impaired."
+],
+"s": "Ch 143 Prostate physiology",
+"c": [
+"c143-a10"
+]
+},
+{
+"f": "mcq",
+"t": "Advanced IC/BPS therapy",
+"q": "Which statement about refractory IC/BPS is FALSE?",
+"o": [
+"Hydrodistension gives short relief in 30–50%",
+"Capacity under 200 mL under anaesthesia is poor",
+"Cystectomy guarantees a pain-free result",
+"Opioids can help a subset with severe pain"
+],
+"a": 2,
+"e": [
+"Hydrodistension under anaesthesia: mainly diagnoses HL; short-term relief in 30–50%, brief flare in ~30%; capacity <200 mL is a poor sign; a low anaesthetic capacity marks a bladder-centric phenotype (higher scores, less depression/IBS); glomerulations are unnecessary. Opioids (no ceiling, dependence, constipation, sedation) can help some severe cases under universal precautions. Book: SNM and botulinum toxin are fourth-line; caution with toxin when voiding is obstructive (high-tone pelvic floor). Update: AUA 2022 no longer ranks therapies in lines. Diversion or cystectomy cannot guarantee pain relief; best results with HL and a small, poorly compliant bladder; bowel segments may become painful or contract; urethral pain is a poor sign for augmentation (≈30% need CISC); perivesical fat stranding on CT does not matter."
+],
+"s": "Ch 57 IC/BPS",
+"c": [
+"c057-r33",
+"c057-a21",
+"c057-r24",
+"c057-a24",
+"c057-a15",
+"c057-r32",
+"c057-r34",
+"c057-a29",
+"c057-a09",
+"c057-r19"
+]
+},
+{
+"f": "mcq",
+"t": "Obstruction and pregnancy",
+"q": "Which statement about stones and obstruction is FALSE?",
+"o": [
+"Pregnancy reduces urinary calcium",
+"Obstructing stones shouldn't persist beyond 2–4 weeks",
+"Pregnant women admitted for colic deliver early more often",
+"Indinavir and triamterene can form stones"
+],
+"a": 0,
+"e": [
+"Pregnancy causes absorptive hypercalciuria and mild hyperuricosuria, offset by more citrate, magnesium and urine output; admission for colic raises preterm delivery risk. Complete obstruction: irreversible loss after about 2 weeks, total loss by up to 6 weeks; no clear human threshold, worse with vascular disease, low reserve, malnutrition or diabetes: do not leave a significant obstruction beyond 2–4 weeks. Drug stones: ephedrine, indinavir, triamterene, magnesium trisilicate, ciprofloxacin, sulfa drugs."
+],
+"s": "Ch 93 Surgical stone management",
+"c": [
+"c093-r23",
+"c093-r22",
+"c093-a15",
+"c093-r09",
+"c093-r15"
+]
+},
+{
+"f": "mcq",
+"t": "Acid phosphatase",
+"q": "Besides prostate cancer, serum acid phosphatase may be raised in:",
+"o": [
+"Testicular torsion",
+"Paget disease of bone",
+"Acute bacterial cystitis",
+"Ureteric colic"
+],
+"a": 1,
+"e": [
+"Acid phosphatase is also produced in bone, so it may rise in Paget disease, osteoporosis and bone metastases."
+],
+"s": "Ch 143 Prostate physiology",
+"c": [
+"c143-r19"
+]
+},
+{
+"f": "mcq",
+"t": "Prostatic secretions",
+"q": "Which statement about prostate pharmacology and markers is FALSE?",
+"o": [
+"Testosterone's half-life is 10–20 minutes",
+"Acid phosphatase rises in Paget disease of bone",
+"Most antibiotics reach high prostatic levels",
+"Orchiectomy castrates within 1 to 2 hours"
+],
+"a": 2,
+"e": [
+"Few drugs reach prostatic fluid levels near serum: exceptions are erythromycin, oleandomycin, sulfonamides, tetracycline, clindamycin, trimethoprim and fluoroquinolones. Testosterone half-life 10–20 min, so bilateral orchiectomy gives castration within 1–2 h (book). Measure testosterone in the morning (diurnal variation). Prostatic acid phosphatase may rise in prostate cancer but also comes from bone (Paget disease, osteoporosis, metastases)."
+],
+"s": "Ch 143 Prostate physiology",
+"c": [
+"c143-r17",
+"c143-r08",
+"c143-r06",
+"c143-r19"
+]
+},
+{
+"f": "mcq",
+"t": "CKD and transplant",
+"q": "Which statement about paediatric CKD and transplantation is FALSE?",
+"o": [
+"Living-donor rejection is under 10% in year one",
+"CKD growth failure is true GH deficiency",
+"Recombinant GH is needed in most children",
+"Chronic allograft nephropathy is the main loss"
+],
+"a": 1,
+"e": [
+"CKD growth failure stems from abnormal growth hormone activity, not deficiency, plus malnutrition, anaemia (mainly erythropoietin deficiency), acidosis and failed 1α-hydroxylation of vitamin D; nutrition alone is often insufficient, so recombinant GH is used in most. Causes of CKD differ from adults and by age; decline is nonlinear (faster late). Transplantation improves growth, neurocognition and QoL. First-year acute rejection: <10% living donor, ~15% deceased donor; usually responsive. Chronic allograft nephropathy is the commonest cause of graft loss; antibody-mediated rejection increasingly recognised. Hyperoxaluria may be primary (AGT deficiency) or secondary (diet, vitamin C, short gut); APRT deficiency causes 2,8-dihydroxyadenine stones; cystinuria impairs reabsorption of cystine, ornithine, arginine, lysine."
+],
+"s": "Ch 21 Paediatric nephrology",
+"c": [
+"c021-a15",
+"c021-a16",
+"c021-r32",
+"c021-r33",
+"c021-r34",
+"c021-r36",
+"c021-r37",
+"c021-r38",
+"c021-a17",
+"c021-a12",
+"c021-r25"
+]
+},
+{
+"f": "mcq",
+"t": "PSA forms",
+"q": "Which change is associated with prostate cancer?",
+"o": [
+"A fall in human kallikrein 2 level",
+"A higher free-to-total PSA ratio",
+"Less PSA bound to α1-antichymotrypsin",
+"Rises in hK2, pro-PSA and bound PSA"
+],
+"a": 3,
+"e": [
+"Complexed PSA is irreversibly bound to α1-antichymotrypsin and α2-macroglobulin. Cancer is associated with more hK2, pro-PSA and bound PSA (so a lower free fraction)."
+],
+"s": "Ch 143 Prostate physiology",
+"c": [
+"c143-r16",
+"c143-r15"
+]
+}
+]
