@@ -4,11 +4,11 @@ review/sets/setNN.json + HTML quiz. Runs coverage and option-length audits. Usag
 import json, os, sys, random, re, collections, runpy, subprocess
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'review')
 n = int(sys.argv[1]); seed = int(sys.argv[2]) if len(sys.argv) > 2 else n
-R = runpy.run_path(os.path.join(ROOT, 'sets', f'set{n:02d}.py'))['R']
+G = runpy.run_path(os.path.join(ROOT, 'sets', f'set{n:02d}.py')); R = G['R']; B = G.get('B', {})
 random.seed(seed); out = []
 for t, q, o, a, e, s, c in R:
     idx = list(range(4)); random.shuffle(idx)
-    out.append({"f": "mcq", "t": t, "q": q, "o": [o[j] for j in idx], "a": idx.index(a), "e": [e], "s": s, "c": c})
+    out.append({"f": "mcq", "t": t, "q": q, "o": [o[j] for j in idx], "a": idx.index(a), "e": [e], "s": s, "c": c, **({"b": B[t]} if t in B else {})})
 js = os.path.join(ROOT, 'sets', f'set{n:02d}.json'); json.dump(out, open(js, 'w'), ensure_ascii=False, indent=0)
 rank = collections.Counter(); big = []; bad = []
 for x in out:
@@ -17,7 +17,7 @@ for x in out:
     if k >= oth[-1] + 3: big.append(x['t'])
     if re.search(r'FALSE|NOT|EXCEPT', x['q']) and re.search(r'\b(always|never|only|all|every|no role)\b', x['o'][x['a']], re.I): bad.append(x['t'])
 print(f'{len(out)} questions | key length rank (0=longest): {sorted(rank.items())} | positions: {sorted(collections.Counter(x["a"] for x in out).items())}')
-print('key clearly longest:', big); print('absolute words in keyed negatives:', bad)
+print('missing bullets:', [x['t'] for x in out if 'b' not in x]) if B else None; print('key clearly longest:', big); print('absolute words in keyed negatives:', bad)
 subprocess.run([sys.executable, os.path.join(os.path.dirname(__file__), 'coverage.py'), str(n), js])
 if len(sys.argv) > 3:
     tpl = open(os.path.join(os.path.dirname(__file__), 'quiz_template.html')).read()

@@ -19,6 +19,12 @@
 "c023-a05",
 "c023-r12",
 "c023-r05"
+],
+"b": [
+"Incidental MH in a well child: not urgent; commonest cause hypercalciuria",
+"Hydronephrosis in a solitary kidney or bilateral: neonatal emergency",
+"Acute scrotal pain: torsion until proven otherwise",
+"Sickle cell priapism and neonatal gross haematuria: treat at once"
 ]
 },
 {
@@ -42,6 +48,12 @@
 "c037-a07",
 "c037-r02",
 "c037-r03"
+],
+"b": [
+"Myelomeningocele is the commonest indication",
+"Lapides CIC (1972) made augmentation possible",
+"CIC learned and accepted before surgery",
+"No test predicts voiding after augmentation"
 ]
 },
 {
@@ -63,6 +75,11 @@
 "c043-a01",
 "c043-r03",
 "c043-r04"
+],
+"b": [
+"Ultrasound first for suspected or known stones",
+"CT only if US inconclusive (radiation)",
+"Rising incidence, especially adolescent girls"
 ]
 },
 {
@@ -82,6 +99,11 @@
 "s": "Ch 60 TB and parasites",
 "c": [
 "c060-a01"
+],
+"b": [
+"MTBC: M. tuberculosis, bovis, africanum, microti",
+"BCG comes from M. bovis",
+"M. avium-intracellulare is nontuberculous"
 ]
 },
 {
@@ -104,6 +126,12 @@
 "c095-r01",
 "c095-r03",
 "c095-r04"
+],
+"b": [
+"Endemic: undernourished children",
+"Peak 2–4 years, mostly under 10",
+"Much commoner in boys",
+"Pulling the penis: pathognomonic"
 ]
 },
 {
@@ -126,6 +154,12 @@
 "c108-r01",
 "c108-r04",
 "c108-r02"
+],
+"b": [
+"Female inlet oval and wide; male heart-shaped",
+"Inlet faces anteriorly: pressure goes to bone",
+"Levator resting tone: passive continence",
+"ATFP main fascial attachment; distinct from ATLA"
 ]
 },
 {
@@ -153,6 +187,12 @@
 "c141-r01",
 "c141-r04",
 "c141-r16"
+],
+"b": [
+"Age and obesity are not contraindications",
+"Candidates: 80–90% men, 75% women",
+"Healthy urethra and sphincter essential",
+"eGFR >35–40 mL/min, can acidify urine"
 ]
 },
 {
@@ -174,6 +214,11 @@
 "c160-a01",
 "c160-r01",
 "c160-r05"
+],
+"b": [
+"After RP: PSA ≥0.2 ng/mL, confirmed (AUA/EAU)",
+"After RT: nadir + 2 ng/mL (Phoenix)",
+"Transient rise: monitor; not all progress"
 ]
 },
 {
@@ -194,6 +239,12 @@
 "c": [
 "c023-a03",
 "c023-r06"
+],
+"b": [
+"Little perirenal fat",
+"Weak chest wall protection",
+"Larger, more mobile kidney",
+"Blunt trauma: nonoperative unless avulsion or major leak"
 ]
 },
 {
@@ -218,6 +269,12 @@
 "c037-a06",
 "c037-r01",
 "c037-r12"
+],
+"b": [
+"Chronic pressure >40 cmH2O harms upper tracts",
+"Compliance: unfolding, elasticity, viscoelasticity",
+"Anticholinergic + CIC lowers pressure",
+"Capacity (book) 30 × (age+2) mL; ICCS uses age+1"
 ]
 },
 {
@@ -241,6 +298,12 @@
 "c043-a04",
 "c043-r07",
 "c043-r09"
+],
+"b": [
+"After reconstruction SWL stone-free only 12.5%",
+"Poor if >1000 HU",
+"IP angle >45°, long infundibulum, big burden fail",
+"Renal SWL linked to hypertension"
 ]
 },
 {
@@ -260,6 +323,11 @@
 "s": "Ch 60 TB and parasites",
 "c": [
 "c060-a05"
+],
+"b": [
+"≥5 mm: HIV, contacts, fibrotic CXR, immunosuppressed",
+"≥10 mm: immigrants, IDU, high-risk settings, children <4",
+"≥15 mm: no risk factors"
 ]
 },
 {
@@ -281,6 +349,11 @@
 "c095-a03",
 "c095-a06",
 "c095-a02"
+],
+"b": [
+"Risk: complete lesion, Klebsiella, Caucasian race",
+"Indwelling catheter > CIC for stone risk",
+"Heterogeneous nucleation, not homogeneous"
 ]
 },
 {
@@ -302,6 +375,12 @@
 "c108-a04",
 "c108-a01",
 "c108-a17"
+],
+"b": [
+"Lateral to the anterior uterosacral ligament",
+"Passes under the uterine artery",
+"Tunnels through the cardinal ligament",
+"Behind the ovary, under ovarian vessels"
 ]
 },
 {
@@ -327,6 +406,12 @@
 "c141-a01",
 "c141-r09",
 "c141-r32"
+],
+"b": [
+"Men: prostatic stromal invasion predicts recurrence",
+"Women: bladder neck / anterior vaginal wall involvement",
+"Frozen-section urethral margin decides",
+"Preoperative prostatic urethral biopsy not mandatory"
 ]
 },
 {
@@ -348,6 +433,12 @@
 "c160-a02",
 "c160-r04",
 "c160-a05"
+],
+"b": [
+"mpMRI sensitivity ~86% at PSA 0.4–1.4",
+"CT and bone scan poor below PSA 10",
+"After RT: TRUS no better than DRE",
+"Now: PSMA PET is the recommended test"
 ]
 },
 {
@@ -369,6 +460,12 @@
 "c023-r01",
 "c023-a09",
 "c023-r14"
+],
+"b": [
+"Commonest malignant infant tumour: neuroblastoma",
+"Renal causes ≈ two-thirds of neonatal masses",
+"Mesoblastic nephroma: solid neonatal renal mass",
+"Premature infants have weak abdominal walls"
 ]
 },
 {
@@ -392,6 +489,12 @@
 "c037-r11",
 "c037-a09",
 "c037-a08"
+],
+"b": [
+"Antireflux implant hardest into ileum",
+"Taenial tunnel works in colon only",
+"Secondary VUR usually resolves after augmentation",
+"TUU: mobilise only the crossing ureter"
 ]
 },
 {
@@ -417,6 +520,12 @@
 "c043-r13",
 "c043-r08",
 "c043-r10"
+],
+"b": [
+"Hypertension is not a URS complication",
+"Ureteral injury is the commonest complication",
+"Isotonic, warm irrigant",
+"Done under general anaesthesia"
 ]
 },
 {
@@ -441,6 +550,12 @@
 "c060-r03",
 "c060-r01",
 "c060-r06"
+],
+"b": [
+"Haematogenous spread is commonest",
+"Kidney involved in 80%",
+"<20% have constitutional symptoms",
+"Sterile pyuria or haematuria typical"
 ]
 },
 {
@@ -464,6 +579,12 @@
 "c095-r06",
 "c095-r05",
 "c095-r02"
+],
+"b": [
+"Chemodissolution prevents catheter encrustation",
+"SWL if AUS or penile prosthesis present",
+"Percutaneous route spares the urethra",
+"Usual presentation: haematuria with LUTS"
 ]
 },
 {
@@ -484,6 +605,11 @@
 "c": [
 "c108-a05",
 "c108-a03"
+],
+"b": [
+"Urethral nerves run on lateral vaginal walls",
+"Incise anterior wall away from them",
+"Injury causes type III (ISD) incontinence"
 ]
 },
 {
@@ -511,6 +637,12 @@
 "c141-r17",
 "c141-a10",
 "c141-a20"
+],
+"b": [
+"Antireflux implant not necessary",
+"Detubularise and make a sphere",
+"Mature capacity 300–500 mL at low pressure",
+"Reuse prior bowel anastomosis site"
 ]
 },
 {
@@ -532,6 +664,11 @@
 "c160-a03",
 "c160-r02",
 "c160-r03"
+],
+"b": [
+"Minimum 64 Gy (ASTRO 1999, AUA 2013)",
+"Up to 76 Gy reported",
+"Add ADT for high-risk features (RTOG 9601)"
 ]
 },
 {
@@ -553,6 +690,11 @@
 "c023-a04",
 "c023-a10",
 "c023-r11"
+],
+"b": [
+"Spinal US only before 6 months",
+"After 6 months: MRI",
+"Atypical dimple: >2.5 cm from anus, >0.5 cm deep, off-centre"
 ]
 },
 {
@@ -582,6 +724,12 @@
 "c037-r17",
 "c037-a17",
 "c037-a16"
+],
+"b": [
+"Young-Dees-Leadbetter: poor in neurogenic bladder",
+"AUS: prompt continence with voiding",
+"Fascial sling: better in girls (40–100%)",
+"Bulking agents: poor in children"
 ]
 },
 {
@@ -602,6 +750,11 @@
 "c": [
 "c043-a02",
 "c043-r06"
+],
+"b": [
+"<5 mm: trial of passage with analgesia",
+"Tamsulosin 0.4 mg (off-label, low-grade evidence)",
+"Interval US; URS if not passed by 4–6 weeks"
 ]
 },
 {
@@ -626,6 +779,12 @@
 "c060-r08",
 "c060-r09",
 "c060-r05"
+],
+"b": [
+"Gold standard: AFB culture of urine or tissue",
+"First-void urine is best",
+"MRI not routinely superior to CT/IVU",
+"Chest x-ray for all"
 ]
 },
 {
@@ -648,6 +807,12 @@
 "c095-a07",
 "c095-a09",
 "c095-a10"
+],
+"b": [
+"Haematuria-dysuria: stomach, not ileum",
+"Ileum/colon: hyperchloraemic acidosis, hypercalciuria",
+"Mucus = nidus + biofilm",
+"Use absorbable sutures"
 ]
 },
 {
@@ -669,6 +834,12 @@
 "c108-a06",
 "c108-a16",
 "c108-a13"
+],
+"b": [
+"Levator ani nerve supply: S4 (book)",
+"Levator: pubococcygeus, puborectalis, iliococcygeus",
+"Coccygeus arises from sacrospinous ligament",
+"Pubovisceral part slings the viscera"
 ]
 },
 {
@@ -692,6 +863,12 @@
 "c141-r19",
 "c141-r20",
 "c141-a09"
+],
+"b": [
+"Avoid deep bites anterior to the urethra",
+"Rhabdosphincter: pudendal nerve",
+"Leave female endopelvic fascia intact",
+"Control the dorsal venous complex"
 ]
 },
 {
@@ -712,6 +889,12 @@
 "c": [
 "c160-a04",
 "c160-r06"
+],
+"b": [
+"Node sampling beforehand not required",
+"Life expectancy ≥10 years",
+"Biopsy-proven local recurrence",
+"No metastases; ideally PSA <10"
 ]
 },
 {
@@ -734,6 +917,12 @@
 "c023-a12",
 "c023-a02",
 "c023-r10"
+],
+"b": [
+"Do not separate newborn preputial adhesions",
+"Meatal stenosis after circumcision",
+"Uncircumcised and <6 months: more UTI",
+"Circumcision can rarely cause death"
 ]
 },
 {
@@ -761,6 +950,12 @@
 "c037-r13",
 "c037-a21",
 "c037-r14"
+],
+"b": [
+"Stomach only for short gut or heavy irradiation",
+"Ileum: least urodynamic abnormality",
+"Detubularise and reconfigure",
+"Losing ileocaecal valve → diarrhoea (10%)"
 ]
 },
 {
@@ -784,6 +979,11 @@
 "c043-r05",
 "c043-a07",
 "c043-r01"
+],
+"b": [
+"Primary hyperparathyroidism: high serum calcium",
+"Idiopathic, Dent, Bartter, dRTA: normal calcium",
+"Commonest metabolic findings: hypercalciuria, hypocitraturia"
 ]
 },
 {
@@ -807,6 +1007,12 @@
 "c060-a02",
 "c060-r14",
 "c060-a08"
+],
+"b": [
+"Ethambutol: ocular, rarely hepatotoxic",
+"Start HRZE (2HRZE/4HR)",
+"Rifampicin resistance = MDR surrogate",
+"MDR = INH + rifampicin resistance"
 ]
 },
 {
@@ -834,6 +1040,12 @@
 "c095-r13",
 "c095-r14",
 "c095-r15"
+],
+"b": [
+"Urethral stones: 0.3–1% of all stones",
+"Usual: acute painful retention",
+"Prostatitis symptoms: 3.2× prostatic stone",
+"Preputial stones: phimosis, poor hygiene"
 ]
 },
 {
@@ -854,6 +1066,11 @@
 "c": [
 "c108-a12",
 "c108-r03"
+],
+"b": [
+"Sacral plexus lies just behind the ligament",
+"Pudendal nerve also at risk",
+"Ischial spine is the key landmark"
 ]
 },
 {
@@ -880,6 +1097,12 @@
 "c141-a14",
 "c141-a05",
 "c141-a13"
+],
+"b": [
+"Day continence first (3–6 months), night later",
+"Night incontinence 20–50%",
+"Retention: men 4–10%, women 20–60%",
+"New leak after good function: check residual"
 ]
 },
 {
@@ -900,6 +1123,11 @@
 "c": [
 "c160-a06",
 "c160-a07"
+],
+"b": [
+"Mania is not an ADT effect",
+"Hot flushes, osteoporosis, low libido",
+"Risk-stratify BCR: Gleason, PSA-DT, interval"
 ]
 },
 {
@@ -921,6 +1149,11 @@
 "c023-a13",
 "c023-r15",
 "c023-a08"
+],
+"b": [
+"Palpable gonad rules out female CAH and pure gonadal dysgenesis",
+"Symmetric gonads: global disorder (CAH, AIS)",
+"Evaluate before nursery discharge (salt wasting)"
 ]
 },
 {
@@ -944,6 +1177,12 @@
 "c037-a24",
 "c037-r19",
 "c037-a26"
+],
+"b": [
+"Stomach: hypochloraemic hypokalaemic alkalosis",
+"Ileum/colon: high chloride, low bicarbonate",
+"Acidosis first seen after ureterosigmoidostomy",
+"Gastric mucosa secretes HCl"
 ]
 },
 {
@@ -964,6 +1203,12 @@
 "c": [
 "c043-a08",
 "c043-a06"
+],
+"b": [
+"Thiazides treat hypercalciuria, not cystinuria",
+"Alkalinise to pH >7 (potassium citrate)",
+"Thiols: tiopronin, D-penicillamine",
+"High fluid intake"
 ]
 },
 {
@@ -990,6 +1235,12 @@
 "c060-a13",
 "c060-a15",
 "c060-a11"
+],
+"b": [
+"S. haematobium host: Bulinus",
+"Terminal-spined egg",
+"Worms in perivesical venous plexus",
+"Cercariae penetrate skin"
 ]
 },
 {
@@ -1011,6 +1262,12 @@
 "c108-a14",
 "c108-a07",
 "c108-a09"
+],
+"b": [
+"Upper vagina: uterine artery",
+"Middle: vaginal arteries",
+"Lowest: internal pudendal; drains to inguinal nodes",
+"Labial fat pad: external pudendal vessels"
 ]
 },
 {
@@ -1039,6 +1296,12 @@
 "c141-r30",
 "c141-r28",
 "c141-a07"
+],
+"b": [
+"Undrained leak: percutaneous drain, avoid open repair",
+"Asymptomatic bacteriuria: no treatment",
+"Remove pouch stones early, endoscopically",
+"Local recurrence rarely affects function"
 ]
 },
 {
@@ -1060,6 +1323,12 @@
 "c023-a15",
 "c023-r16",
 "c023-r02"
+],
+"b": [
+"Large scrotal hydrocele may still resorb",
+"Fluctuating size = patent processus",
+"Symptomatic hernia: repair early",
+"UDT: 30% preterm, 3% term"
 ]
 },
 {
@@ -1087,6 +1356,12 @@
 "c037-a35",
 "c037-a34",
 "c037-a33"
+],
+"b": [
+"Appendix tunnel of 2 cm suffices",
+"Stomal stenosis commonest (10–20%)",
+"Monti: tapered small bowel",
+"Nipple valves fail ≥15%"
 ]
 },
 {
@@ -1109,6 +1384,12 @@
 "c043-r17",
 "c043-r16",
 "c043-r18"
+],
+"b": [
+"Levetiracetam: no stone risk",
+"Topiramate, acetazolamide: hypocitraturia, CaP stones",
+"Furosemide: hypercalciuria, nephrocalcinosis",
+"Indinavir crystallises"
 ]
 },
 {
@@ -1135,6 +1416,12 @@
 "c060-r19",
 "c060-a21",
 "c060-a22"
+],
+"b": [
+"DEC can blind in onchocerciasis",
+"Doxycycline kills Wolbachia",
+"W. bancrofti: 90% of LF",
+"Most infected are asymptomatic"
 ]
 },
 {
@@ -1163,6 +1450,12 @@
 "c108-r05",
 "c108-r06",
 "c108-r07"
+],
+"b": [
+"Superior gluteal artery: posterior division",
+"Peritoneum reached via posterior fornix",
+"Perineal tear can injure internal sphincter",
+"Pelvic organs: inferior hypogastric plexus"
 ]
 },
 {
@@ -1190,6 +1483,12 @@
 "c141-a21",
 "c141-r02",
 "c141-r03"
+],
+"b": [
+"No diversion proven superior for QoL",
+"Image for silent stones and strictures",
+"Check B12 every 1–2 years",
+"ERAS: no bowel prep, alvimopan"
 ]
 },
 {
@@ -1213,6 +1512,12 @@
 "c023-r09",
 "c023-r04",
 "c023-a07"
+],
+"b": [
+"Dipstick positive needs microscopy",
+"Commonest cause found: hypercalciuria",
+"Continuous wetting in girls: ectopic ureter",
+"Secondary incontinence: after 6 dry months"
 ]
 },
 {
@@ -1241,6 +1546,12 @@
 "c037-a31",
 "c037-r07",
 "c037-a32"
+],
+"b": [
+"Treat bacteriuria only if symptomatic or urea-splitter",
+"Stones mostly struvite",
+"Tumour as early as 4 years",
+"Perforation ≈5%: immediate surgery"
 ]
 },
 {
@@ -1263,6 +1574,11 @@
 "c060-r11",
 "c060-r12",
 "c060-r13"
+],
+"b": [
+"Obstructive renal failure: drain at once",
+"Elective surgery after 4–6 weeks of drugs",
+"Relapse up to 22%"
 ]
 },
 {
@@ -1285,6 +1601,12 @@
 "c023-r13",
 "c023-r03",
 "c023-a11"
+],
+"b": [
+"Chromosome 11p15.5",
+"Neonatal hypoglycaemia",
+"Macroglossia, hemihypertrophy, organomegaly",
+"Wilms, hepatoblastoma, adrenal carcinoma"
 ]
 },
 {
@@ -1310,6 +1632,12 @@
 "c060-r21",
 "c060-r22",
 "c060-r23"
+],
+"b": [
+"Bladder cancer mostly squamous",
+"Sandy patches: submucosal eggs",
+"Ureteric strictures mostly distal",
+"Urine egg count first line"
 ]
 },
 {
@@ -1333,6 +1661,12 @@
 "c095-a14",
 "c095-a16",
 "c095-a17"
+],
+"b": [
+"Migratory stones: solitary and larger",
+"Male, bimodal ages",
+"Posterior urethra up to 78%",
+"Primary stones: struvite"
 ]
 },
 {
@@ -1353,6 +1687,12 @@
 "c": [
 "c095-a19",
 "c095-a18"
+],
+"b": [
+"Most are radio-opaque",
+"78% acute painful retention",
+"RUG: filling defect",
+"Dorsal penile linear probe screens urethra"
 ]
 },
 {
@@ -1374,6 +1714,12 @@
 "c095-a21",
 "c095-a20",
 "c095-a22"
+],
+"b": [
+"Do not push anterior stones back",
+"Laser 85–90% success",
+"Pushback + SWL ≈60%",
+"Ventral meatotomy reduces trauma"
 ]
 },
 {
@@ -1394,6 +1740,11 @@
 "c": [
 "c095-a11",
 "c095-a12"
+],
+"b": [
+"Long-term antibiotics → enteric hyperoxaluria",
+"Calcineurin inhibitors: transplant stones",
+"Steroids: transplant stones"
 ]
 },
 {
@@ -1413,6 +1764,11 @@
 "s": "Ch 37 Paediatric LUT reconstruction",
 "c": [
 "c037-a40"
+],
+"b": [
+"Most problems: ureters (reflux or obstruction)",
+"Goal: antireflux without obstruction",
+"Understand the original pathology"
 ]
 },
 {
@@ -1432,6 +1788,10 @@
 "s": "Ch 60 TB and parasites",
 "c": [
 "c060-a04"
+],
+"b": [
+"Papulonecrotic tuberculid can appear early",
+"Tuberculids: hypersensitivity, culture negative"
 ]
 },
 {
@@ -1451,6 +1811,11 @@
 "s": "Ch 141 Orthotopic diversion",
 "c": [
 "c141-a21"
+],
+"b": [
+"Smaller incision, less blood loss",
+"No shorter stay (MSKCC RCT)",
+"Oncology similar; RAZOR non-inferior PFS"
 ]
 },
 {
@@ -1470,6 +1835,10 @@
 "s": "Ch 43 Paediatric stones",
 "c": [
 "c043-r18"
+],
+"b": [
+"Up to 50% of reconstructed bladders form stones",
+"Stasis, bacteria, mucus, foreign body"
 ]
 }
 ]

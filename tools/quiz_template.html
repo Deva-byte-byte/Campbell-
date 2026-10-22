@@ -54,7 +54,9 @@ h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(26px, 5vw
 .opt.wrong .k { border-color: var(--bad); color: var(--bad); }
 .opt:disabled { cursor: default; }
 
-.verdict { font-weight: 600; }
+.verdict { font-family: var(--f-display); font-weight: 600; font-size: 20px; }
+.explain .why { font-family: var(--f-display); font-size: 18px; line-height: 1.6; }
+.explain ul.keys { color: var(--muted); font-size: 14px; }
 .verdict.ok { color: var(--ok); } .verdict.bad { color: var(--bad); }
 .explain { border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 10px; }
 .explain p, .explain ul { margin: 0; }
@@ -183,8 +185,8 @@ function render() {
     body = `<div class="opts" role="group" aria-label="Answer options">${it.o.map((txt, j) => {
       let c = "opt"; if (done) { if (j === it.a) c += " right"; else if (j === ans) c += " wrong"; } else if (j === ans) c += " sel";
       return `<button class="${c}" data-j="${j}" ${done ? "disabled" : ""}><span class="k">${KEYS[j]}</span><span>${txt}</span></button>`; }).join("")}</div>`;
-    if (done) exp = `<div class="explain"><div class="verdict ${ans === it.a ? "ok" : "bad"}">${ans === it.a ? "Correct." : "Not quite. The answer is " + KEYS[it.a] + "."}</div>
-      <ul>${it.e.map(x => `<li>${x}</li>`).join("")}</ul><p class="src">Read more: ${it.s}</p></div>`;
+    if (done) exp = `<div class="explain"><div class="verdict ${ans === it.a ? "ok" : "bad"}">${ans === it.a ? "Correct" : "Incorrect"} · answer ${KEYS[it.a]}</div>
+      ${it.e.map(x => `<p class="why">${x}</p>`).join("")}${it.b ? `<ul class="keys">${it.b.map(x => `<li>${x}</li>`).join("")}</ul>` : ""}<p class="src">Source: ${it.s}</p></div>`;
   } else if (it.f === "text") {
     body = done ? `<div class="mine"><div class="eyebrow">Your answer</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
                 : `<label class="eyebrow" for="ans-${k}">Write your answer</label><textarea id="ans-${k}" rows="7" placeholder="Write it as you would in the exam.">${esc(ans)}</textarea>`;
@@ -196,13 +198,13 @@ function render() {
       <span class="match ${hits(k) ? "ok" : "no"}">${hits(k) ? "Your line contains the key term." : "Key term not found in your line. Check the meaning yourself."}</span>${selfmark(k)}</div>`;
   }
   const primary = done ? `<button class="btn primary" id="next" ${finished(k) ? "" : "disabled"}>${last ? "See results" : "Next question"}</button>`
-    : `<button class="btn primary" id="check" ${it.f === "mcq" && ans === null ? "disabled" : ""}>${it.f === "mcq" ? "Check answer" : "Show model answer"}</button>`;
+    : it.f === "mcq" ? `<span class="hint">Tap an option to answer.</span>` : `<button class="btn primary" id="check">Show model answer</button>`;
   stage.innerHTML = `<article class="card">
     <div class="qhead"><span class="qno">Q${String(k + 1).padStart(2, "0")}</span><span class="tag">${it.t}</span></div>
     <p class="stem">${it.q}</p>${it.img ? FIG[it.img] : ""}${body}${exp}
     <div class="actions"><button class="btn ghost" id="prev" ${k === 0 ? "disabled" : ""}>Previous</button>${primary}</div>
     ${done && !finished(k) ? `<span class="hint">Mark yourself to continue.</span>` : ""}</article>`;
-  stage.querySelectorAll(".opt").forEach(b => b.onclick = () => { if (!state.done[k]) { state.ans[k] = +b.dataset.j; save(); render(); } });
+  stage.querySelectorAll(".opt").forEach(b => b.onclick = () => { if (!state.done[k]) { state.ans[k] = +b.dataset.j; state.done[k] = true; save(); render(); } });
   stage.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.grade[k] = +b.dataset.g; save(); render(); });
   const inp = document.getElementById("ans-" + k);
   if (inp) { inp.oninput = () => { state.ans[k] = inp.value; save(); };
@@ -231,7 +233,7 @@ function renderResult() {
 document.addEventListener("keydown", e => {
   if (e.metaKey || e.ctrlKey || e.altKey || state.i >= N || !isMcq(state.i)) return;
   const k = state.i, j = KEYS.indexOf(e.key.toUpperCase());
-  if (j > -1 && !state.done[k]) { state.ans[k] = j; save(); render(); }
+  if (j > -1 && !state.done[k]) { state.ans[k] = j; state.done[k] = true; save(); render(); }
   else if (e.key === "Enter" && document.activeElement?.tagName !== "BUTTON") { state.done[k] ? next() : check(); }
 });
 render();
