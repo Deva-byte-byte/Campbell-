@@ -1,0 +1,430 @@
+<title>MCh Urology MCQ Drill</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one exam card at a time, narrow reading column, progress strip on top */
+:root {
+  --bg: #f3f5f6; --surface: #ffffff; --ink: #18232b; --muted: #5b6a74; --line: #d6dde1;
+  --accent: #1f5f7a; --accent-soft: #e2eef3;
+  --warn: #a8660b; --ok: #1d7a4c; --ok-soft: #e3f3ea; --bad: #b3352b; --bad-soft: #f8e4e1;
+  --f-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; padding: 0 16px; }
+.wrap { max-width: 720px; margin: 0 auto; padding-block: 28px 48px; display: grid; gap: 20px; }
+header { display: grid; gap: 6px; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(26px, 5vw, 34px); line-height: 1.15; margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; font-size: 15px; }
+
+.strip { display: grid; grid-template-columns: repeat(27, 1fr); gap: 3px; }
+.pip { height: 8px; border-radius: 2px; background: var(--line); border: 0; padding: 0; cursor: pointer; }
+.pip.ok { background: var(--ok); } .pip.bad { background: var(--bad); }
+.pip.cur { outline: 2px solid var(--accent); outline-offset: 2px; }
+.meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-family: var(--f-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 24px; display: grid; gap: 18px; }
+.qhead { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.qno { font-family: var(--f-mono); font-size: 13px; color: var(--accent); }
+.tag { font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); padding: 2px 8px; border-radius: 4px; }
+.stem { font-family: var(--f-display); font-size: 21px; line-height: 1.4; font-weight: 500; margin: 0; }
+.opts { display: grid; gap: 10px; }
+.opt { display: grid; grid-template-columns: 28px 1fr; gap: 12px; align-items: start; text-align: left; width: 100%;
+  font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; cursor: pointer; }
+.opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:focus-visible, .btn:focus-visible, .pip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.opt .k { font-family: var(--f-mono); font-size: 13px; width: 28px; height: 28px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--muted); }
+.opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.opt.sel .k { border-color: var(--accent); color: var(--accent); }
+.opt.right { border-color: var(--ok); background: var(--ok-soft); }
+.opt.right .k { border-color: var(--ok); color: var(--ok); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.opt.wrong .k { border-color: var(--bad); color: var(--bad); }
+.opt:disabled { cursor: default; }
+
+.verdict { font-weight: 600; }
+.verdict.ok { color: var(--ok); } .verdict.bad { color: var(--bad); }
+.explain { border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 10px; }
+.explain p, .explain ul { margin: 0; }
+.explain ul { padding-left: 20px; display: grid; gap: 4px; }
+.src { font-size: 13px; color: var(--muted); }
+
+.actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+.btn { font: inherit; font-weight: 600; border-radius: 8px; padding: 10px 18px; cursor: pointer; border: 1px solid var(--accent); }
+.btn.primary { background: var(--accent); color: var(--surface); }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:disabled { opacity: .45; cursor: default; }
+.hint { font-size: 13px; color: var(--muted); }
+
+.result { display: grid; gap: 14px; }
+.score { font-family: var(--f-display); font-size: 44px; font-weight: 600; line-height: 1; font-variant-numeric: tabular-nums; }
+.review { display: grid; gap: 6px; padding: 0; margin: 0; list-style: none; }
+.review li { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 15px; min-width: 0; }
+.review .n { font-family: var(--f-mono); font-size: 13px; color: var(--muted); }
+.review .s { font-family: var(--f-mono); font-size: 13px; font-weight: 500; }
+.review .s.ok { color: var(--ok); } .review .s.bad { color: var(--bad); }
+.review button { font: inherit; color: var(--ink); background: none; border: 0; padding: 0; text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.pip.part { background: var(--warn); } .pip.pend { background: var(--accent); opacity: .5; }
+.fig { margin: 0; display: grid; gap: 6px; overflow-x: auto; }
+.fig svg { width: 100%; min-width: 320px; height: auto; display: block; }
+.fig .grid line { stroke: var(--line); stroke-width: 1; }
+.fig .ax line { stroke: var(--muted); stroke-width: 1.5; }
+.fig .lbl, .fig text { fill: var(--muted); font-family: var(--f-mono); font-size: 12px; }
+.fig .trace { fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; }
+.fig .trace.dash { stroke-dasharray: 7 5; }
+.fig .mark { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 4; }
+.fig figcaption { font-size: 13px; color: var(--muted); }
+textarea { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px; width: 100%; resize: vertical; min-height: 140px; }
+textarea:focus-visible, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mine { display: grid; gap: 6px; } .mine p { margin: 0; white-space: pre-wrap; background: var(--bg); border-radius: 8px; padding: 12px; }
+.selfmark { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font: inherit; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.chip.on { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.review .s.part { color: var(--warn); }
+@media (max-width: 480px) { .card { padding: 18px; } .stem { font-size: 19px; } }
+@media (prefers-reduced-motion: no-preference) { .opt { transition: border-color .12s, background-color .12s; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">MCh Urology · Practice set 1</div>
+    <h1>27 questions, one at a time</h1>
+    <p class="sub">Questions 1–22 are single best answer (21 and 22 are image-based). Questions 23–27 are written: type your answer, compare it with the model answer and mark yourself. Keys for MCQs: A–D to choose, Enter to check or move on.</p>
+  </header>
+  <div>
+    <div class="strip" id="strip" aria-label="Question progress"></div>
+  </div>
+  <div class="meta"><span id="pos"></span><span id="tally"></span></div>
+  <main id="stage"></main>
+</div>
+
+<script>
+const Q = [
+{ t:"Renal physiology", q:"Which nephron segment actively reabsorbs NaCl but is essentially impermeable to water, so that it acts as the 'diluting segment'?",
+  o:["Proximal convoluted tubule","Thin descending limb of the loop of Henle","Thick ascending limb of the loop of Henle","Cortical collecting duct"], a:2,
+  e:["The thick ascending limb reabsorbs NaCl through the Na-K-2Cl cotransporter (NKCC2), which is the target of loop diuretics. It has no water channels, so the fluid leaving it is hypotonic.",
+     "The thin descending limb is highly permeable to water (aquaporin-1). Water permeability of the collecting duct depends on ADH (antidiuretic hormone) and aquaporin-2."],
+  s:"Renal physiology chapter" },
+{ t:"Urodynamics", q:"A 68-year-old man has a pressure-flow study with PdetQmax 70 cmH₂O and Qmax 8 mL/s. Which interpretation is correct?",
+  o:["BOOI 54 (obstructed); BCI 110 (normal contractility)","BOOI 54 (obstructed); BCI 86 (weak contractility)","BOOI 62 (obstructed); BCI 110 (normal contractility)","BOOI 38 (equivocal); BCI 110 (normal contractility)"], a:0,
+  e:["BOOI (bladder outlet obstruction index) = PdetQmax − 2 × Qmax = 70 − 16 = 54. Above 40 is obstructed, 20–40 equivocal, below 20 unobstructed.",
+     "BCI (bladder contractility index) = PdetQmax + 5 × Qmax = 70 + 40 = 110. Above 150 is strong, 100–150 normal, below 100 weak.",
+     "So this man is obstructed with normal contractility, which is the pattern most likely to do well after outlet surgery."],
+  s:"Ch 107 Urodynamics; Ch 150 BPH" },
+{ t:"Upper tract tumours", q:"In Lynch syndrome, carriers of which mismatch-repair gene mutation have the highest risk of upper tract urothelial carcinoma (UTUC)?",
+  o:["MLH1","PMS2","MSH6","MSH2"], a:3,
+  e:["Lynch syndrome raises UTUC risk about 14-fold overall, and about 75-fold in MSH2 carriers (your Chapter 138 notes). UTUC is the third most common Lynch-associated cancer after colorectal and endometrial cancer.",
+     "Screen for Lynch syndrome in UTUC patients who are young or who have a personal or family history of Lynch-type cancers. Immunohistochemistry for MMR proteins or microsatellite instability testing is the first step."],
+  s:"Ch 138 Upper tract urothelial tumours" },
+{ t:"Stone disease", q:"For medical prevention in a 19-year-old with cystinuria, which set of targets is correct?",
+  o:["Urine pH 6.0–6.5 and urine output above 2 L/day","Urine pH 7.0–7.5, urine output above 3 L/day, and cystine concentration below about 250 mg/L","Urine pH above 8.0 and urine output above 2.5 L/day","Urine pH 5.5–6.0 with a high-protein, high-sodium diet"], a:1,
+  e:["Cystine becomes much more soluble above pH 7, and its solubility is about 250 mg/L. High fluid intake keeps the concentration below that. Potassium citrate is used to alkalinise.",
+     "Pushing pH above about 7.5–8 adds little and risks calcium phosphate stones. Low sodium and moderate animal protein intake reduce cystine excretion.",
+     "If these measures fail, add a thiol drug (tiopronin or D-penicillamine). It forms a soluble cysteine–drug disulfide."],
+  s:"Stone metabolic evaluation and medical management chapters" },
+{ t:"Paediatric urology", q:"In boys with posterior urethral valves, which single factor best predicts long-term renal function?",
+  o:["Severity of hydronephrosis on the first postnatal ultrasound","Presence of unilateral high-grade reflux (VURD syndrome)","Nadir serum creatinine in the first year of life","Age at primary valve ablation"], a:2,
+  e:["Nadir serum creatinine in the first year is the most widely used predictor. A nadir below about 1.0 mg/dL predicts a better long-term outcome.",
+     "VURD (valves, unilateral reflux, dysplasia) and other 'pop-off' mechanisms were once thought protective, but the benefit is inconsistent. Valve-bladder dysfunction (poor compliance, polyuria) contributes to late deterioration."],
+  s:"Ch 45 Posterior urethral valves" },
+{ t:"Bladder cancer", q:"In the SWOG 8507 maintenance BCG schedule, what follows the 6-week induction course?",
+  o:["One instillation every month for 1 year","Three weekly instillations at 3, 6, 12, 18, 24, 30 and 36 months","Six weekly instillations every 6 months for 2 years","One instillation every 3 months for 3 years"], a:1,
+  e:["SWOG 8507 (Lamm, 2000) gave three weekly instillations at 3 and 6 months, then every 6 months to 36 months. Maintenance improved recurrence-free survival compared with induction alone.",
+     "EAU: give BCG maintenance for 1 year in intermediate-risk disease and 1–3 years in high-risk disease."],
+  s:"Ch 129 Bladder tumours; EAU NMIBC guideline" },
+{ t:"Andrology", q:"A man with non-obstructive azoospermia is found to have a complete AZFa microdeletion of the Y chromosome. What is the most appropriate counselling?",
+  o:["Microdissection TESE retrieves sperm in about half of such men","Testosterone replacement will restore spermatogenesis","Sperm retrieval is highly unlikely (Sertoli-cell-only pattern), so TESE is not recommended; discuss donor sperm or adoption","Clomiphene for 6 months, then repeat semen analysis"], a:2,
+  e:["Complete AZFa (and complete AZFb) deletions cause Sertoli-cell-only histology or maturation arrest. Sperm retrieval is so unlikely that surgery is not advised.",
+     "With AZFc deletions, sperm are often found in the ejaculate or at TESE. Any sons conceived by ICSI will inherit the deletion.",
+     "Exogenous testosterone suppresses spermatogenesis and must be avoided in men who want fertility."],
+  s:"Male infertility chapter" },
+{ t:"Prostate cancer", q:"What was the main finding of the proPSMA trial (Hofman, Lancet 2020) in high-risk prostate cancer before curative treatment?",
+  o:["PSMA PET-CT was more accurate than CT plus bone scan (about 92% vs 65%), with fewer equivocal results and a lower radiation dose","PSMA PET-CT was as accurate as conventional imaging but changed management more often","PSMA PET-CT staging improved overall survival","Conventional imaging was more sensitive for bone metastases"], a:0,
+  e:["proPSMA randomised 302 men to PSMA PET-CT or CT plus bone scan. Accuracy was about 92% with PSMA PET-CT vs 65% with conventional imaging.",
+     "PSMA PET-CT also changed management more often, gave fewer equivocal results and a lower radiation dose. The trial did not assess survival."],
+  s:"Prostate cancer staging; EAU prostate guideline" },
+{ t:"Renal trauma", q:"Under the AAST kidney injury scale (2018 revision), what grade is a parenchymal laceration that extends into the collecting system with urinary extravasation?",
+  o:["Grade II","Grade III","Grade IV","Grade V"], a:2,
+  e:["Grade IV: laceration into the collecting system with urinary extravasation, renal pelvis laceration or UPJ disruption, segmental vascular injury, or active bleeding contained within Gerota's fascia.",
+     "Grade III: laceration deeper than 1 cm without collecting-system injury. Grade V: shattered kidney, main renal artery or vein laceration or avulsion, or a devascularised kidney with active bleeding.",
+     "Most haemodynamically stable grade IV injuries are managed without surgery. Persistent urinoma is treated with a stent."],
+  s:"Upper urinary tract trauma chapter" },
+{ t:"Neuro-urology", q:"In spinal cord injury, autonomic dysreflexia usually occurs with lesions at or above which level?",
+  o:["T6","T10","T12","L1"], a:0,
+  e:["A stimulus below the lesion, most often a distended bladder or bowel, triggers a sympathetic surge through the splanchnic outflow (T6–L2). Descending inhibition cannot reach it because the cord is cut above T6.",
+     "Signs: severe hypertension, reflex bradycardia, pounding headache, and flushing and sweating above the lesion.",
+     "Treatment: sit the patient up, loosen tight clothing, drain the bladder, and give a fast-acting antihypertensive (nifedipine or a nitrate) if blood pressure stays high. During cystoscopy or urodynamics, monitor blood pressure throughout."],
+  s:"Ch 104 LUT dysfunction; neurogenic bladder chapter" },
+{ t:"Kidney tumours", q:"Which description fits Birt-Hogg-Dubé syndrome?",
+  o:["Fumarate hydratase mutation; cutaneous and uterine leiomyomas; aggressive solitary renal tumour","FLCN (folliculin) mutation; fibrofolliculomas, lung cysts with spontaneous pneumothorax, and multifocal hybrid oncocytic/chromophobe tumours","MET proto-oncogene activation; multiple bilateral type 1 papillary tumours","TSC1/TSC2 mutation; multiple angiomyolipomas and renal cysts"], a:1,
+  e:["Birt-Hogg-Dubé: FLCN gene on 17p. Tumours are mostly hybrid oncocytic, chromophobe or oncocytoma. They grow slowly, so nephron-sparing surgery is planned when they reach about 3 cm.",
+     "The other options describe HLRCC (fumarate hydratase), hereditary papillary RCC (MET), and tuberous sclerosis (TSC1/TSC2).",
+     "VHL: clear-cell RCC, phaeochromocytoma, haemangioblastomas."],
+  s:"Renal tumours chapter (hereditary RCC)" },
+{ t:"Adrenal", q:"A 3 cm homogeneous adrenal incidentaloma measures 8 HU on unenhanced CT. What is the most appropriate next step?",
+  o:["Laparoscopic adrenalectomy","CT-guided biopsy","Treat as a benign lipid-rich adenoma: no further imaging, but complete a hormonal work-up","Repeat CT in 6 months to look for growth"], a:2,
+  e:["An unenhanced attenuation of 10 HU or less in a homogeneous mass under 4 cm is diagnostic of a lipid-rich adenoma. ESE/ENSAT guidance needs no further imaging.",
+     "Every incidentaloma still needs hormonal testing: 1 mg overnight dexamethasone suppression test and plasma or urine metanephrines. Add aldosterone/renin ratio if the patient is hypertensive or hypokalaemic.",
+     "Biopsy is rarely indicated. Exclude phaeochromocytoma before any biopsy."],
+  s:"Adrenal surgery and adrenal disorders chapters" },
+{ t:"Paediatric oncology", q:"A 46,XY infant with ambiguous genitalia develops nephrotic syndrome at 6 months and is later found to have a renal mass. What is the syndrome and gene?",
+  o:["WAGR syndrome; 11p13 deletion including WT1 and PAX6","Beckwith-Wiedemann syndrome; 11p15 imprinting defect","Denys-Drash syndrome; WT1 point mutation","Frasier syndrome; WT1 intron 9 splice mutation"], a:2,
+  e:["Denys-Drash triad: Wilms tumour, a 46,XY disorder of sex development, and early-onset nephropathy from diffuse mesangial sclerosis, progressing to renal failure.",
+     "Frasier syndrome also involves WT1. It causes later-onset FSGS (focal segmental glomerulosclerosis) and gonadoblastoma, and Wilms risk is low.",
+     "WAGR: Wilms, aniridia, genitourinary anomalies, intellectual disability. Beckwith-Wiedemann: macroglossia, hemihypertrophy, omphalocele, organomegaly."],
+  s:"Paediatric urologic oncology chapter" },
+{ t:"Sexual medicine", q:"Which cavernosal blood gas result is typical of ischaemic (low-flow) priapism?",
+  o:["pO₂ above 90 mmHg, pCO₂ below 40 mmHg, pH 7.40","pO₂ about 40 mmHg, pCO₂ about 50 mmHg, pH 7.35","pO₂ below 30 mmHg, pCO₂ above 60 mmHg, pH below 7.25","pO₂ above 90 mmHg, pCO₂ above 60 mmHg, pH 7.30"], a:2,
+  e:["Ischaemic priapism is a compartment syndrome: hypoxia, hypercarbia and acidosis. Arterial values (first option) suggest non-ischaemic, high-flow priapism. The second option is normal mixed venous blood.",
+     "First-line treatment: aspiration with or without irrigation, then intracavernosal phenylephrine (an alpha-1 agonist) in small repeated doses with blood pressure and pulse monitoring. If this fails, perform a shunt.",
+     "Priapism lasting about 36–48 hours causes smooth-muscle necrosis and fibrosis. Consider an early penile prosthesis in refractory, long-standing cases."],
+  s:"Priapism chapter; AUA priapism guideline" },
+{ t:"Urinary diversion", q:"Which metabolic pattern is characteristic of a jejunal conduit?",
+  o:["Hyperchloraemic, hypokalaemic metabolic acidosis","Hyponatraemic, hypochloraemic, hyperkalaemic metabolic acidosis","Hypochloraemic, hypokalaemic metabolic alkalosis","Hypercalcaemia with metabolic alkalosis"], a:1,
+  e:["Jejunum secretes sodium and chloride into the urine and absorbs potassium and hydrogen ions. The result is hyponatraemia, hypochloraemia, hyperkalaemia and acidosis, with dehydration that worsens it. Treat with sodium chloride supplements.",
+     "Ileum and colon cause hyperchloraemic metabolic acidosis because ammonium chloride is absorbed (first option). Stomach causes hypochloraemic, hypokalaemic metabolic alkalosis (third option)."],
+  s:"Use of intestinal segments in urinary diversion chapter" },
+{ t:"Testis cancer", q:"A 32-year-old man has pure seminoma, stage IA, after radical inguinal orchidectomy. He declines surveillance. Which adjuvant treatment is standard?",
+  o:["Carboplatin AUC 7, one cycle","BEP, one cycle","Carboplatin AUC 5, three cycles","Para-aortic radiotherapy, 40 Gy"], a:0,
+  e:["Surveillance is preferred for stage I seminoma. If adjuvant treatment is chosen, give carboplatin AUC 7 for one cycle. The MRC TE19 trial (Oliver, 2005) showed it was non-inferior to radiotherapy, with fewer contralateral tumours.",
+     "If radiotherapy is used, the dose is 20 Gy in 10 fractions, from the MRC TE18 trial. A single cycle of BEP is the adjuvant option for stage I non-seminoma."],
+  s:"Testicular tumours chapter; EAU testis guideline" },
+{ t:"Paediatric urology", q:"On a voiding cystourethrogram, which finding separates grade V from grade IV reflux (International Reflux Study grading)?",
+  o:["Reflux into a dilated ureter","Complete obliteration of the sharp calyceal fornices","Loss of papillary impressions in most calyces, with gross ureteric tortuosity","Reflux seen only during voiding"], a:2,
+  e:["Grade IV: moderate dilatation and/or tortuosity of the ureter and moderate dilatation of the pelvis and calyces. The fornices are obliterated but papillary impressions remain in most calyces.",
+     "Grade V: gross dilatation and tortuosity, with papillary impressions no longer visible in most calyces.",
+     "Grades I–III: I = ureter only; II = up to the pelvis without dilatation; III = mild to moderate dilatation with slight blunting of the fornices."],
+  s:"Vesicoureteral reflux chapter" },
+{ t:"Reconstruction", q:"In open ureteric reimplantation for reflux, what ratio of submucosal tunnel length to ureteric diameter does Paquin's rule recommend?",
+  o:["2:1","3:1","5:1","7:1"], a:2,
+  e:["A tunnel about 5 times the ureteric diameter makes a flap valve. As the bladder fills, the ureter is compressed against a firm detrusor backing, which stops reflux.",
+     "The same principle is used when tunnelling a Mitrofanoff appendicovesicostomy.",
+     "Techniques: Cohen (cross-trigonal), Politano-Leadbetter (new hiatus, intravesical), Glenn-Anderson (advancement), and Lich-Gregoir (extravesical; also the usual technique in renal transplantation)."],
+  s:"Vesicoureteral reflux and ureteric reimplantation chapters" },
+{ t:"Stone disease", q:"Which statement about acetohydroxamic acid (AHA) in struvite stone disease is correct?",
+  o:["It dissolves struvite by acid irrigation through a nephrostomy","It is bactericidal against Proteus and replaces antibiotics","It inhibits bacterial urease; side effects include headache, tremor and deep-vein thrombosis, and it is teratogenic","It works best in patients with advanced renal impairment"], a:2,
+  e:["AHA inhibits urease, so less urea is split into ammonia. Urine pH and supersaturation for struvite fall, slowing stone growth. It is an adjunct after complete stone clearance and antibiotics, not a replacement for them.",
+     "Side effects (headache, tremor, deep-vein thrombosis, haemolytic anaemia) limit its use. Avoid it in pregnancy and renal impairment, which reduce its efficacy and increase toxicity.",
+     "Acid irrigation to dissolve stones is Renacidin (hemiacidrin), not AHA."],
+  s:"Infection stones; stone medical management chapters" },
+{ t:"Penile cancer", q:"A 58-year-old man has pT1b (grade 3) squamous cell carcinoma of the penis and no palpable inguinal nodes. What is the recommended inguinal management?",
+  o:["Clinical surveillance only","Invasive nodal staging: dynamic sentinel node biopsy or modified inguinal lymphadenectomy on both sides","Bilateral radical inguinal and pelvic lymphadenectomy","Prophylactic inguinal radiotherapy"], a:1,
+  e:["In clinically node-negative (cN0) disease, the risk of occult metastasis depends on the primary. For pT1b (grade 3) or higher, EAU advises invasive staging of both groins with dynamic sentinel node biopsy (DSNB) or modified inguinal lymphadenectomy.",
+     "Surveillance is reserved for low-risk tumours: pTis, pTa and pT1a.",
+     "Radical lymphadenectomy is done if staging finds a positive node. Pelvic dissection is added for 2 or more positive inguinal nodes or extranodal extension."],
+  s:"Penile cancer chapters; EAU-ASCO penile cancer guideline" },
+{ t:"Image · Uroflowmetry", img:"flow", q:"A 34-year-old man complains of a slow stream. His uroflow trace is shown (voided volume 390 mL, Qmax 9 mL/s, flow time 47 s). Which interpretation is best?",
+  o:["Normal bell-shaped curve; the low Qmax is due to the volume voided","Plateau (box-shaped) curve: constrictive obstruction, most typical of urethral stricture","Intermittent curve from abdominal straining, typical of an underactive detrusor","Compressive pattern of BPH (benign prostatic hyperplasia): fast rise, early peak and a long tapering tail"], a:1,
+  e:["The flow reaches a low maximum quickly and then stays flat until it stops abruptly. This plateau shape shows a fixed, non-distensible narrowing, so flow cannot rise however hard the detrusor pushes. Urethral stricture is the classic cause.",
+     "BPH causes a compressive pattern. The curve has a low, early peak and then a long tail, and is less flat than a plateau.",
+     "An intermittent (interrupted) curve points to abdominal straining or detrusor underactivity. Read uroflow only when the voided volume is at least 150 mL, and confirm a stricture with retrograde urethrography."],
+  s:"Ch 107 Urodynamics; urethral stricture chapter" },
+{ t:"Image · Renogram", img:"reno", q:"A 6-month-old has antenatal right hydronephrosis, now with an anteroposterior pelvic diameter of 28 mm. A MAG3 diuretic renogram (furosemide at 20 min) is shown, with split function left 62%, right 38%. What is the most appropriate management?",
+  o:["Observe: the right curve shows prompt washout after furosemide","Right pyeloplasty: the right curve is obstructive (O'Reilly type II) and right split function is below 40%","Equivocal drainage (type IIIb): repeat ultrasound in 1 year only","Right nephrectomy"], a:1,
+  e:["The left curve peaks early and drains well. The right curve keeps rising and does not respond to furosemide, which is the obstructive pattern (O'Reilly type II).",
+     "O'Reilly patterns: I normal; II obstructed (rising, no response to diuretic); IIIa dilated but not obstructed (prompt washout after diuretic); IIIb equivocal.",
+     "Drainage alone does not decide surgery in infants. Indications for pyeloplasty are split function below 40%, a fall of more than 10% on serial scans, an increasing APD or grade on ultrasound, and symptoms (pain or febrile UTI). This child meets the function criterion.",
+     "Nephrectomy is for a kidney with very poor function, usually below about 10%."],
+  s:"UPJ obstruction and paediatric hydronephrosis chapters" },
+{ t:"Written · Complications", type:"text", q:"Write out the Clavien-Dindo classification of surgical complications, with a one-line definition of each grade.",
+  m:["Grade I: any deviation from the normal postoperative course that needs no drug treatment beyond the allowed ones, and no surgical, endoscopic or radiological intervention. Allowed: antiemetics, antipyretics, analgesics, diuretics, electrolytes, physiotherapy, and wound infections opened at the bedside.",
+     "Grade II: needs drug treatment beyond those allowed for grade I. Blood transfusion and total parenteral nutrition are grade II.",
+     "Grade III: needs surgical, endoscopic or radiological intervention. IIIa: without general anaesthesia. IIIb: under general anaesthesia.",
+     "Grade IV: life-threatening complication needing intermediate or intensive care, including CNS complications. IVa: single-organ dysfunction (including dialysis). IVb: multi-organ dysfunction.",
+     "Grade V: death of the patient.",
+     "Suffix 'd' (disability): added when the complication persists at discharge."],
+  s:"Complications of urologic surgery chapter (Dindo 2004)" },
+{ t:"Written · Pharmacology", type:"text", q:"Explain how mirabegron works in overactive bladder, and state its main contraindication and the key cautions.",
+  m:["Mirabegron is a beta-3 adrenoceptor agonist. Beta-3 receptors are the main beta receptors in the detrusor.",
+     "Stimulating them raises cyclic AMP (cAMP) and relaxes the detrusor during the storage phase. This increases bladder capacity and reduces urgency, without impairing voiding contraction.",
+     "Contraindication: severe uncontrolled hypertension (systolic 180 mmHg or more, or diastolic 110 mmHg or more). Monitor blood pressure.",
+     "Cautions: it inhibits CYP2D6, so it raises levels of drugs such as metoprolol, desipramine and flecainide. Reduce the dose in severe renal or hepatic impairment.",
+     "Advantage over antimuscarinics: no anticholinergic side effects (dry mouth, constipation, cognitive effects), so it suits older adults. It can be combined with solifenacin, as in the SYNERGY trials. Vibegron is a newer beta-3 agonist."],
+  s:"Ch 110 Overactive bladder" },
+{ t:"Written · Kidney tumours", type:"text", q:"List the components of the RENAL nephrometry score with their scoring, and state how the total score is interpreted.",
+  m:["R (Radius, maximum diameter): 4 cm or less = 1; more than 4 but less than 7 cm = 2; 7 cm or more = 3.",
+     "E (Exophytic/endophytic): 50% or more exophytic = 1; less than 50% exophytic = 2; entirely endophytic = 3.",
+     "N (Nearness to collecting system or sinus): 7 mm or more = 1; more than 4 but less than 7 mm = 2; 4 mm or less = 3.",
+     "A (Anterior/posterior): a descriptor only (a, p or x), not scored. Suffix 'h' if the tumour touches the main renal artery or vein (hilar).",
+     "L (Location relative to the polar lines): entirely above the upper or below the lower polar line = 1; crosses a polar line = 2; more than 50% across a polar line, crosses the axial midline, or entirely between the polar lines = 3.",
+     "Total 4–12: low complexity 4–6, moderate 7–9, high 10–12. Higher scores predict longer warm ischaemia, more complications and a greater chance of radical nephrectomy."],
+  s:"Renal tumours / partial nephrectomy chapters" },
+{ t:"Indian urology · Law", type:"text", q:"Under India's Transplantation of Human Organs Act (THOA), who forms the board that certifies brainstem death, how many tests are needed, and who counts as a 'near relative' for living donation?",
+  m:["THOA was passed in 1994, amended in 2011 (Transplantation of Human Organs and Tissues Act), with Rules in 2014.",
+     "Brainstem death board, 4 members: (1) the registered medical practitioner in charge of the hospital; (2) an independent registered medical practitioner, a specialist nominated from the approved panel; (3) a neurologist or neurosurgeon nominated from the panel; (4) the registered medical practitioner treating the patient. No member of the transplant team may be on the board.",
+     "Two sets of tests, at least 6 hours apart.",
+     "Near relatives (after the 2011 amendment): spouse, son, daughter, father, mother, brother, sister, grandfather, grandmother, grandson and granddaughter.",
+     "A donor who is not a near relative needs approval from the Authorisation Committee to rule out any commercial dealing. Swap (paired-exchange) donation between near-relative pairs is permitted. NOTTO is the national network that coordinates organ allocation."],
+  s:"Your 2015 Summer Paper I answer (I-3d); renal transplantation chapter" },
+{ t:"World urology · Trivia", type:"text", q:"Who performed the first successful human kidney transplant, between whom, where, and in which year? What later recognition did the surgeon receive?",
+  m:["Joseph E. Murray, at the Peter Bent Brigham Hospital, Boston, USA.",
+     "On 23 December 1954, between identical twins Ronald (donor) and Richard Herrick (recipient).",
+     "Using an identical twin avoided rejection, because no immunosuppression existed at the time.",
+     "Murray shared the 1990 Nobel Prize in Physiology or Medicine with E. Donnall Thomas (bone marrow transplantation)."],
+  s:"History of renal transplantation" }
+];
+
+const KEYS = ["A","B","C","D"];
+const STORE = "mch-mcq-set1";
+const N = Q.length;
+const fresh = () => ({ i: 0, picks: Array(N).fill(null), checked: Array(N).fill(false), grade: Array(N).fill(null) });
+let state = fresh();
+try {
+  const s = JSON.parse(localStorage.getItem(STORE));
+  if (s && Array.isArray(s.picks) && s.picks.length <= N) {
+    const pad = (a, v) => a.concat(Array(N - a.length).fill(v));
+    state = { i: Math.min(s.i || 0, N), picks: pad(s.picks, null), checked: pad(s.checked || [], false), grade: pad(s.grade || [], null) };
+    if (state.i >= s.picks.length && s.picks.length < N) state.i = s.picks.length;
+  }
+} catch (e) {}
+const save = () => { try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) {} };
+
+const FIG = {
+flow: `<figure class="fig"><svg viewBox="0 0 520 262" role="img" aria-label="Uroflow trace: flow rises to about 9 mL/s within 3 seconds, stays flat until about 43 seconds, then stops abruptly at 47 seconds.">
+  <g class="grid">${[180,140,100,60,20].map(y=>`<line x1="50" x2="500" y1="${y}" y2="${y}"/>`).join("")}</g>
+  <g class="ax"><line x1="50" y1="220" x2="500" y2="220"/><line x1="50" y1="220" x2="50" y2="20"/></g>
+  <g class="lbl">${[0,10,20,30,40,50,60].map(t=>`<text x="${50+7.5*t}" y="238" text-anchor="middle">${t}</text>`).join("")}
+  ${[0,5,10,15,20,25].map(f=>`<text x="42" y="${224-8*f}" text-anchor="end">${f}</text>`).join("")}
+  <text x="275" y="257" text-anchor="middle">Time (s)</text><text x="14" y="120" text-anchor="middle" transform="rotate(-90 14 120)">Flow (mL/s)</text></g>
+  <polyline class="trace" points="50,220 57.5,196 65,168 72.5,151.2 95,148 125,149.6 162.5,148 200,148.8 237.5,148 275,149.6 312.5,148 350,148.8 372.5,151.2 387.5,172 398.75,200 406.25,220"/>
+</svg></figure>`,
+reno: `<figure class="fig"><svg viewBox="0 0 520 262" role="img" aria-label="Diuretic renogram: left kidney curve peaks at 4 minutes and drains; right kidney curve rises steadily to 40 minutes with no fall after furosemide at 20 minutes.">
+  <g class="grid">${[170,120,70,20].map(y=>`<line x1="50" x2="490" y1="${y}" y2="${y}"/>`).join("")}</g>
+  <g class="ax"><line x1="50" y1="220" x2="490" y2="220"/><line x1="50" y1="220" x2="50" y2="20"/></g>
+  <line class="mark" x1="270" y1="220" x2="270" y2="26"/><text class="lbl" x="276" y="34">Furosemide (F+20)</text>
+  <g class="lbl">${[0,10,20,30,40].map(t=>`<text x="${50+11*t}" y="238" text-anchor="middle">${t}</text>`).join("")}
+  <text x="270" y="257" text-anchor="middle">Time (min)</text><text x="14" y="120" text-anchor="middle" transform="rotate(-90 14 120)">Relative counts</text></g>
+  <polyline class="trace" points="50,220 61,140 72,80 83,60 94,56 116,76 149,104 182,128 226,148 270,160 292,176 325,192 380,202 490,208"/>
+  <polyline class="trace dash" points="50,220 61,190 83,160 116,132 160,110 215,94 270,84 325,78 380,74 435,72 490,70"/>
+  <g class="lbl"><text x="102" y="50">Left</text><text x="440" y="60">Right</text></g>
+</svg><figcaption>Solid line: left kidney. Dashed line: right kidney.</figcaption></figure>`
+};
+
+const stage = document.getElementById("stage");
+const strip = document.getElementById("strip");
+const isText = k => Q[k].type === "text";
+function pts(k) { if (!state.checked[k]) return 0; return isText(k) ? (state.grade[k] ?? 0) : (state.picks[k] === Q[k].a ? 1 : 0); }
+function status(k) { if (!state.checked[k]) return ""; if (isText(k) && state.grade[k] === null) return "pend"; const p = pts(k); return p === 1 ? "ok" : p > 0 ? "part" : "bad"; }
+function nDone() { return state.checked.filter(Boolean).length; }
+function score() { return Q.reduce((n, _, k) => n + pts(k), 0); }
+const fmt = x => Number.isInteger(x) ? String(x) : x.toFixed(1);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+
+function renderStrip() {
+  strip.style.gridTemplateColumns = `repeat(${N}, 1fr)`;
+  strip.innerHTML = "";
+  Q.forEach((_, k) => {
+    const b = document.createElement("button");
+    b.className = "pip " + status(k) + (k === state.i ? " cur" : "");
+    b.setAttribute("aria-label", "Question " + (k + 1));
+    b.onclick = () => { state.i = k; save(); render(); };
+    strip.appendChild(b);
+  });
+  document.getElementById("pos").textContent = state.i < N ? `Question ${state.i + 1} of ${N}` : "Finished";
+  document.getElementById("tally").textContent = `${fmt(score())} marks · ${nDone()} answered`;
+}
+
+function render() {
+  renderStrip();
+  if (state.i >= N) return renderResult();
+  const k = state.i, item = Q[k], done = state.checked[k], pick = state.picks[k], last = k === N - 1;
+  const head = `<div class="qhead"><span class="qno">Q${String(k + 1).padStart(2, "0")}</span><span class="tag">${item.t}</span></div>
+      <p class="stem">${item.q}</p>${item.img ? FIG[item.img] : ""}`;
+  let body, exp = "", primary;
+  if (isText(k)) {
+    body = done ? `<div class="mine"><div class="eyebrow">Your answer</div><p>${esc(pick) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Write your answer</label><textarea id="ans-${k}" rows="7" placeholder="Write it as you would in the exam: points, definitions, numbers.">${esc(pick)}</textarea>`;
+    if (done) {
+      const g = state.grade[k];
+      exp = `<div class="explain"><div class="eyebrow">Model answer: compare point by point</div>
+        <ul>${item.m.map(x => `<li>${x}</li>`).join("")}</ul>
+        <p class="src">Read more: ${item.s}</p>
+        <div class="selfmark" role="group" aria-label="Mark yourself">
+          <span class="hint">Mark yourself:</span>
+          ${[[1,"Got it (1)"],[0.5,"Partly (½)"],[0,"Missed (0)"]].map(([v,l]) => `<button class="chip${g === v ? " on" : ""}" data-g="${v}">${l}</button>`).join("")}
+        </div></div>`;
+    }
+    primary = done ? `<button class="btn primary" id="next" ${state.grade[k] === null ? "disabled" : ""}>${last ? "See results" : "Next question"}</button>`
+                   : `<button class="btn primary" id="check">Show model answer</button>`;
+  } else {
+    body = `<div class="opts" role="group" aria-label="Answer options">${item.o.map((txt, j) => {
+      let cls = "opt";
+      if (done) { if (j === item.a) cls += " right"; else if (j === pick) cls += " wrong"; }
+      else if (j === pick) cls += " sel";
+      return `<button class="${cls}" data-j="${j}" ${done ? "disabled" : ""}><span class="k">${KEYS[j]}</span><span>${txt}</span></button>`;
+    }).join("")}</div>`;
+    if (done) exp = `<div class="explain">
+      <div class="verdict ${pick === item.a ? "ok" : "bad"}">${pick === item.a ? "Correct." : "Not quite. The answer is " + KEYS[item.a] + "."}</div>
+      <ul>${item.e.map(x => `<li>${x}</li>`).join("")}</ul>
+      <p class="src">Read more: ${item.s}</p></div>`;
+    primary = done ? `<button class="btn primary" id="next">${last ? "See results" : "Next question"}</button>`
+                   : `<button class="btn primary" id="check" ${pick === null ? "disabled" : ""}>Check answer</button>`;
+  }
+  stage.innerHTML = `<article class="card">${head}${body}${exp}
+      <div class="actions"><button class="btn ghost" id="prev" ${k === 0 ? "disabled" : ""}>Previous</button>${primary}</div>
+      ${!done && !isText(k) && pick === null ? `<span class="hint">Choose an option to check your answer.</span>` : ""}
+      ${done && isText(k) && state.grade[k] === null ? `<span class="hint">Mark yourself to continue.</span>` : ""}
+    </article>`;
+  stage.querySelectorAll(".opt").forEach(b => b.onclick = () => { if (!state.checked[k]) { state.picks[k] = +b.dataset.j; save(); render(); } });
+  stage.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.grade[k] = +b.dataset.g; save(); render(); });
+  const ta = document.getElementById("ans-" + k); if (ta) ta.oninput = () => { state.picks[k] = ta.value; save(); };
+  const c = document.getElementById("check"); if (c) c.onclick = check;
+  const n = document.getElementById("next"); if (n) n.onclick = next;
+  document.getElementById("prev").onclick = () => { if (state.i > 0) { state.i--; save(); render(); } };
+}
+
+function check() {
+  const k = state.i;
+  if (!isText(k) && state.picks[k] === null) return;
+  state.checked[k] = true; save(); render();
+}
+function next() {
+  const k = state.i;
+  if (isText(k) && state.grade[k] === null) return;
+  const open = state.checked.findIndex((d, j) => !d && j > k);
+  state.i = open === -1 ? (state.checked.every(Boolean) ? N : state.checked.indexOf(false)) : open;
+  save(); render(); window.scrollTo({ top: 0 });
+}
+
+function renderResult() {
+  const r = score();
+  const mark = k => { const st = status(k), it = Q[k];
+    if (st === "ok") return `<span class="s ok">✓</span>`;
+    if (st === "part") return `<span class="s part">½</span>`;
+    if (st === "pend" || st === "") return `<span class="s">–</span>`;
+    return `<span class="s bad">✗${isText(k) ? "" : " " + KEYS[it.a]}</span>`; };
+  stage.innerHTML = `<article class="card result">
+      <div class="eyebrow">Your score</div>
+      <div class="score">${fmt(r)} / ${N}</div>
+      <p class="sub">${Math.round(r / N * 100)}%. Written answers count as you marked them. Tap any topic to review it.</p>
+      <ul class="review">${Q.map((it, k) => `<li><span class="n">${k + 1}</span><button data-k="${k}">${it.t}</button>${mark(k)}</li>`).join("")}</ul>
+      <div class="actions"><button class="btn ghost" id="reset">Start again</button></div>
+    </article>`;
+  stage.querySelectorAll(".review button").forEach(b => b.onclick = () => { state.i = +b.dataset.k; save(); render(); });
+  document.getElementById("reset").onclick = () => { state = fresh(); save(); render(); };
+}
+
+document.addEventListener("keydown", e => {
+  if (e.metaKey || e.ctrlKey || e.altKey || state.i >= N) return;
+  if (document.activeElement?.tagName === "TEXTAREA") return;
+  const k = state.i;
+  if (isText(k)) return;
+  const j = KEYS.indexOf(e.key.toUpperCase());
+  if (j > -1 && !state.checked[k]) { state.picks[k] = j; save(); render(); }
+  else if (e.key === "Enter" && document.activeElement?.tagName !== "BUTTON") { state.checked[k] ? next() : check(); }
+});
+
+render();
+</script>

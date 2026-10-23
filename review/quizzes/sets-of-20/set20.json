@@ -1,0 +1,470 @@
+[
+ {
+  "f": "mcq",
+  "t": "Paediatric renal trauma",
+  "q": "Which statement about renal trauma in children is FALSE?",
+  "o": [
+   "Microscopic haematuria alone mandates imaging",
+   "Superselective embolisation treats delayed bleeding",
+   "Grade 4–5 injuries always scar the kidney",
+   "Most renal injuries are managed nonoperatively"
+  ],
+  "a": 0,
+  "e": [
+   "Microhaematuria alone is not an indication; mechanism of injury is. Most injuries are nonoperative (grade 4–5 too, though intervention is likelier). ~25% of grade 3–5 have persistent/delayed bleeding: superselective angioembolisation (repeat if needed). ~15% with urine leak need stent/drain; most extravasation resolves with observation (intervene for fever, ileus, pain, expanding urinoma, infection). High-risk criteria include >25% devitalised parenchyma (not >10%). Absolute indications to operate: haemodynamic instability from renal bleeding, pulsatile/expanding haematoma at laparotomy without prior imaging, failed embolisation; control vessels before or right after opening Gerota; try to salvage; nephrectomy for exsanguinating artery injury with a normal other kidney. Close collecting system with absorbable sutures. Repeat CT at 48–72 h unnecessary for grade 1–3 and of unclear value for stable grade 4–5. Scarring: negligible grade 1–2, ~50% grade 3, 100% grade 4–5; follow grade 3–5 (US, then CT/MRI/DMSA). Hypertension rare (grade 3–5); CKD/ESRD very rare. Solitary kidney: sports allowed with protection; high risk: dirt bikes, cycling, ATVs."
+  ],
+  "s": "Ch 52 Paediatric GU trauma",
+  "b": [
+   "Microhaematuria alone: no imaging; mechanism decides",
+   "Most injuries nonoperative",
+   "Delayed bleeding: superselective embolisation",
+   "Scarring: grade 3 ~50%, grade 4–5 100%",
+   "Operate: instability, expanding haematoma, failed embolisation",
+   "Solitary kidney: sport with protection"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Paediatric rhabdomyosarcoma",
+  "q": "Which statement about genitourinary rhabdomyosarcoma (RMS) in children is FALSE?",
+  "o": [
+   "Paratesticular RMS over 10 years needs RPLND",
+   "Maturing rhabdomyoblasts after therapy can be observed",
+   "Alveolar histology dominates bladder/prostate",
+   "Li-Fraumeni (TP53) predisposes to RMS"
+  ],
+  "a": 2,
+  "e": [
+   "Embryonal histology is commonest in bladder/prostate; alveolar is uncommon there (trunk/extremities), worse prognosis, more nodal/marrow/distant spread; PAX-FOXO1 fusion-positive tumours do worse and fusion status now assigns therapy. Li-Fraumeni (TP53): sarcomas in children, premenopausal breast cancer in mothers. Bladder/prostate RMS presents with obstruction, retention or haematuria; organ preservation is the goal: endoscopic/open biopsy first (with internal stent to protect kidneys during chemo); unfavourable site with gross residual: mostly intermediate risk; staging uses TNM plus surgical-pathological group. VAC (vincristine, dactinomycin, cyclophosphamide) with multimodal care gives ~90% survival (surgery alone 50% 2-year relapse-free). Residual mass after therapy is not necessarily viable; maturing rhabdomyoblasts need only close follow-up. Vaginal RMS: commonest female genital site, embryonal, excellent survival. Paratesticular RMS (tunics, epididymis, cord): explore inguinally; favourable (80% stage I, >90% embryonal, alveolar does better than expected); ≥10 years: staging ipsilateral RPLND (retroperitoneal failure); inguinal nodes rarely involved."
+  ],
+  "s": "Ch 54 Paediatric bladder/testis oncology",
+  "b": [
+   "Bladder/prostate: embryonal",
+   "Alveolar/PAX-FOXO1: worse",
+   "Li-Fraumeni: TP53",
+   "Biopsy and organ preservation; VAC chemo ~90% survival",
+   "Rhabdomyoblasts after therapy: observe",
+   "Paratesticular ≥10 years: staging RPLND"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "GCT biology and markers",
+  "q": "Which statement about testicular germ cell tumours (GCT) is FALSE?",
+  "o": [
+   "GCNIS precedes all adult GCTs except spermatocytic",
+   "Choriocarcinoma spreads haematogenously",
+   "AFP half-life is 5–7 days, hCG 24–36 h",
+   "Seminoma can produce AFP"
+  ],
+  "a": 3,
+  "e": [
+   "Seminoma and choriocarcinoma do not make AFP (raised AFP means nonseminomatous elements); 15% of seminomas raise hCG (syncytiotrophoblasts): after orchiectomy, follow the hCG decline by its half-life before deciding treatment. Embryonal can make AFP and hCG; teratoma usually none (slight AFP possible); yolk sac AFP only; choriocarcinoma hCG always. Half-lives: AFP 5–7 days, hCG 24–36 h, LDH 24 h. GCNIS (enlarged hyperchromatic nuclei, no spermatogenesis; ~50% risk of GCT) precedes all adult GCTs except spermatocytic tumour (no GCNIS, no cryptorchid link, never bilateral or mixed, no i(12p) or PLAP, one metastasis ever; orchiectomy alone). i(12p): extra 12p copies. Lymphatic spread to retroperitoneum except choriocarcinoma (and paediatric yolk sac) haematogenous: high hCG → brain imaging (haemorrhage risk on chemo). Risk factors: cryptorchidism, family or prior GCT, GCNIS; bilateral ~2%; contralateral microlithiasis after GCT raises GCNIS risk. Extragonadal 1–5%: less chemosensitive, more yolk sac. Fertility reduced in two-thirds; 52% oligospermic, 10% azoospermic at presentation. US: irregular vascular mass with microlithiasis (prior trauma common)."
+  ],
+  "s": "Ch 76 Testis neoplasms",
+  "b": [
+   "Seminoma/choriocarcinoma: no AFP",
+   "Seminoma hCG in 15%",
+   "GCNIS → all adult GCT except spermatocytic",
+   "AFP 5–7 d, hCG 24–36 h, LDH 24 h",
+   "Choriocarcinoma: haematogenous; image brain",
+   "Bilateral 2%; extragonadal 1–5%"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Upper tract urothelial cancer",
+  "q": "Which statement about surgery for upper tract urothelial carcinoma (UTUC) is FALSE?",
+  "o": [
+   "Ureteroscopic biopsy grades better than stages",
+   "Most ureteral tumours are proximal",
+   "Bladder tumours follow in up to 30%",
+   "Excise the whole distal ureter and cuff"
+  ],
+  "a": 1,
+  "e": [
+   "Ureteral tumours: 70% distal, 25% mid, 5% proximal. Leaving the distal ureter risks 30–75% stump recurrence (book also 30–50%) and is unsurveyable: remove intramural ureter and cuff. Prognosis: stage (strongest), grade, LVI, nodes; parenchymal invasion predicts metastasis in renal pelvic tumours; T3 pelvic tumours do better than T3 ureteral; 50% of pelvic tumours are invasive. Ureteroscopy only when diagnosis is uncertain or will change treatment (seeding risk); grade is accurate, stage is not. Bilateral in 2–6%. Inverted papilloma may accompany UTUC. SCC and adenocarcinoma follow obstruction, inflammation, stones. No adrenalectomy at nephroureterectomy. Lymphadenectomy has prognostic and possible therapeutic value in T2–T4. After percutaneous resection keep the nephrostomy for second look. Follow-up: cystoscopy and cytology (bladder tumours up to 30%), periodic upper tract imaging (anastomotic stricture). Updates: a single postoperative intravesical instillation reduces bladder recurrence (ODMIT-C); adjuvant platinum chemotherapy improved disease-free survival (POUT, 2020)."
+  ],
+  "s": "Ch 99 Surgery for UTUC",
+  "b": [
+   "Ureter: 70% distal, 25% mid, 5% proximal",
+   "Remove distal ureter and cuff (stump recurrence 30–75%)",
+   "Stage is strongest predictor",
+   "URS biopsy: grade yes, stage no",
+   "Bladder recurrence up to 30%: cystoscopy",
+   "POUT: adjuvant platinum; single instillation"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Diverticulectomy and reimplantation",
+  "q": "Which statement about bladder diverticulectomy and ureteral reimplantation is FALSE?",
+  "o": [
+   "Needing reimplantation bars diverticulectomy",
+   "Nonrefluxing tunnel is 3–5× ureteral width",
+   "The pseudocapsule gives a cleavage plane",
+   "Avoid skeletonising the ureter"
+  ],
+  "a": 0,
+  "e": [
+   "Needing reimplantation does not contraindicate diverticulectomy: plan carefully (ureteral relation, retrograde stent). Characterise number, size and location; treat the underlying cause (e.g., obstruction) first or simultaneously. The fibrous pseudocapsule is the dissection plane; a Council catheter over a wire selectively fills the diverticulum in MIS cases. Ureteral strictures: antegrade and retrograde studies define length and multiplicity. Reimplant: avoid skeletonising (ischaemia), spatulate, keep tension-free; nonrefluxing tunnel 3–5× diameter."
+  ],
+  "s": "Ch 132 Bladder surgery for benign disease",
+  "b": [
+   "Reimplant need is not a contraindication",
+   "Pseudocapsule = dissection plane",
+   "Treat underlying cause",
+   "Tunnel 3–5× diameter",
+   "Don't skeletonise; spatulate; no tension"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "NMIBC basics",
+  "q": "Which statement about non-muscle-invasive bladder cancer (NMIBC) is FALSE?",
+  "o": [
+   "Low-grade Ta progresses in about 5–10%",
+   "Stage is the strongest progression risk",
+   "Low-grade Ta recurs in 50–70%",
+   "FGFR3 mutations mark low-grade tumours"
+  ],
+  "a": 1,
+  "e": [
+   "Grade is the most important risk factor for progression; low- and high-grade tumours behave as separate diseases (FGFR3 in low grade; RB, TP53 and chromosome 9 changes in high grade). Low-grade Ta: recurrence 50–70%, progression ~5–10% (book range 3–10%). PUNLMP: orderly, minimal atypia. CIS is a precursor and progression risk; untreated CIS progresses in >50%; even BCG complete responders progress in 30–40%. AUA/SUO 2016 intermediate risk: LG Ta recurring within a year, solitary LG Ta >3 cm, multifocal LG Ta, HG Ta <3 cm, LG T1."
+  ],
+  "s": "Ch 136 NMIBC",
+  "b": [
+   "Grade drives progression",
+   "LG Ta: 50–70% recur, 5–10% progress",
+   "FGFR3: low grade; TP53/RB: high grade",
+   "Untreated CIS: >50% progress",
+   "AUA intermediate: solitary LG Ta >3 cm etc."
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Prostate pathology",
+  "q": "Which statement about prostate cancer pathology is FALSE?",
+  "o": [
+   "Intraductal carcinoma is worse than HGPIN",
+   "85% arise in the peripheral zone; 85% multifocal",
+   "Perineural invasion in RP worsens prognosis",
+   "Gleason grading uses architecture only"
+  ],
+  "a": 2,
+  "e": [
+   "Perineural invasion in RP specimens has no prognostic significance (biopsy data conflicting); vascular invasion raises metastatic risk; peripheral cancers exit via perineural spaces. 85% peripheral zone, 85% multifocal; T1c tumours are posterior/posterolateral in 85%; transition zone tumours need larger volumes for comparable EPE. The prostate lacks a true capsule. PIN: low grade (no risk) and high grade; rebiopsy only if multiple cores or other indications. Intraductal carcinoma: worse than HGPIN, associated with high-grade cancer, treated as invasive cancer. Gleason: architecture only; biopsy score = primary + highest pattern; outcome worsens ≤6, 3+4, 4+3, 8, 9–10 (ISUP grade groups 1–5). Basal cells (HMWCK, p63) mark benign glands; atypical glands predict cancer on rebiopsy; adenosis (transition zone) mimics cancer without risk. Benign with basal layer but abnormal DRE: PSA and DRE in 3–6 months. Report Gleason score and cancer volume."
+  ],
+  "s": "Ch 151 Prostate pathology",
+  "b": [
+   "Perineural invasion in RP: no prognostic value",
+   "85% peripheral zone, 85% multifocal",
+   "IDC treated as invasive high grade",
+   "Gleason: architecture only; ISUP grade groups",
+   "Basal cells (p63, HMWCK) = benign",
+   "Adenosis: no cancer risk"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "UPJ, ureter and bladder injury",
+  "q": "Which statement about paediatric ureteral and bladder injury is FALSE?",
+  "o": [
+   "Upper ureteral laceration: ureteroureterostomy",
+   "Bladder neck injuries need early repair",
+   "Extraperitoneal rupture needs open repair",
+   "Intraperitoneal rupture needs surgical repair"
+  ],
+  "a": 2,
+  "e": [
+   "Uncomplicated extraperitoneal rupture (even with gross haematuria) is managed by catheter; repair if orthopaedic hardware placement, bone fragments in bladder, bladder neck involvement, concurrent abdominal surgery or clot retention. Intraperitoneal: repair. Bladder neck injuries are commoner in children: repair early. Pelvic trauma with gross haematuria or inability to void plus fracture: RUG and/or cystogram; microhaematuria with fracture does not need cystogram. Complete urethral disruption: realign endoscopically in theatre (antegrade and retrograde), not in the ER. UPJ disruption: dismembered pyeloplasty if stable, else nephrostomy/drain and delayed repair; pelvic rupture may be managed with endoscopic/percutaneous drainage. Ureteral injuries are rare, mostly penetrating, often missed with other injuries; diagnose with delayed-phase CT or retrograde pyelogram; repair intraoperatively recognised lacerations; <1 week: immediate repair; >1 week: try stent, often nephrostomy and delayed repair; same techniques as adults; upper ureter: ureteroureterostomy."
+  ],
+  "s": "Ch 52 Paediatric GU trauma",
+  "b": [
+   "Extraperitoneal: catheter unless specific indications",
+   "Intraperitoneal: repair",
+   "Bladder neck injury: early repair",
+   "Ureteral injury <1 week: repair; >1 week: stent/nephrostomy",
+   "UPJ disruption: pyeloplasty if stable",
+   "Urethral realignment in theatre, not ER"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Prepubertal testis and bladder tumours",
+  "q": "Which statement about prepubertal testis and bladder tumours is FALSE?",
+  "o": [
+   "Adult AFP norms apply from birth",
+   "Yolk sac tumour is cured by orchiectomy",
+   "Prepubertal teratoma behaves benignly",
+   "Paediatric urothelial tumours are low grade"
+  ],
+  "a": 0,
+  "e": [
+   "AFP synthesis continues after birth; adult levels (<10 ng/mL) are reached at 8–12 months, so a raised AFP in an infant after orchiectomy may be physiological (observe). AFP is the relevant prepubertal marker (yolk sac). Many prepubertal tumours are benign: prepubertal teratoma behaves benignly (testis-sparing: inguinal exploration, cord control, biopsy, partial orchiectomy); US cannot reliably separate benign from malignant. Yolk sac tumour: radical inguinal orchiectomy usually curative; no routine RPLND or chemo. Mixed gonadal dysgenesis raised male: remove streak gonads; bring undescended testes down (orchiectomy if not palpable). Paediatric urothelial carcinoma: unifocal, low grade, rarely recurs; resection then ultrasound surveillance. Ovarian tumours: 1% of childhood cancers (germ cell, sex cord, epithelial)."
+  ],
+  "s": "Ch 54 Paediatric bladder/testis oncology",
+  "b": [
+   "AFP adult level only by 8–12 months",
+   "Prepubertal teratoma benign: partial orchiectomy",
+   "Yolk sac: orchiectomy usually curative",
+   "Paediatric TCC: low grade, US surveillance",
+   "MGD: remove streaks, bring testes down"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Stage I management",
+  "q": "Which statement about clinical stage I testicular cancer is FALSE?",
+  "o": [
+   "Seminoma risks: rete testis and size >4 cm",
+   "About 25% of stage I have hidden metastases",
+   "LVI predicts metastasis in NSGCT",
+   "Pre-orchiectomy AFP predicts hidden spread"
+  ],
+  "a": 3,
+  "e": [
+   "Pre-orchiectomy markers do not predict occult metastases; persistently raised post-orchiectomy markers mean systemic disease (repeat in ~7 days; chemo if rising); do not decide on pre-orchiectomy values. ~25% of stage I have metastases; NSGCT risks: LVI and predominant embryonal carcinoma. Seminoma: rete testis invasion and size >4 cm (LVI not predictive); markers rarely help detect seminoma relapse (unlike NSGCT). Non-compliant patient: one cycle BEP (lowest relapse); chemo and RPLND equal cure; chemo preferred with transmissible disease. Small (<1 cm) indeterminate nodes outside the landing zone: observe. Book: retroperitoneal RT for stage I seminoma (dog-leg RT impairs spermatogenesis; ejaculatory dysfunction is from RPLND); secondary cancer 18% at 25 years. Update: surveillance is preferred for stage I seminoma (carboplatin AUC7 alternative); RT is less used. Testis-sparing surgery only for small (<2 cm) GCT in a solitary testis or bilateral tumours with normal androgen production, or suspected benign lesions. GCNIS: orchiectomy (or low-dose RT; 40% then need testosterone)."
+  ],
+  "s": "Ch 76 Testis neoplasms",
+  "b": [
+   "Pre-orchiectomy markers don't predict occult mets",
+   "~25% occult metastases",
+   "NSGCT: LVI, embryonal; seminoma: rete, >4 cm",
+   "Non-compliant NSGCT: 1 cycle BEP",
+   "Seminoma: surveillance now preferred",
+   "Testis-sparing: <2 cm, solitary/bilateral"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Psoas hitch and Boari flap",
+  "q": "Which statement about psoas hitch and Boari flap is FALSE?",
+  "o": [
+   "Boari base ≥4 cm, length:base ≤3:1",
+   "Psoas sutures go superficial, parallel to fibres",
+   "Reimplant before tying hitch sutures",
+   "Cut the Boari flap shorter than estimated"
+  ],
+  "a": 3,
+  "e": [
+   "Make the flap longer and wider than estimated because the empty bladder shrinks. Psoas minor tendon sutures superficial and parallel to fibres avoid the genitofemoral (superficial) and femoral (deep) nerves; reimplant before tying them. Psoas hitch is the simplest tension-reducing manoeuvre; more length by ligating the contralateral medial umbilical ligament, freeing peritoneum from the dome, or dividing the contralateral pedicle. Boari: anterolateral flap on the ipsilateral pedicle; base ≥4 cm; ratio ≤3:1; ≥3 cm overlap for a nonrefluxing tunnel; advancement flaps can replace Boari flaps."
+  ],
+  "s": "Ch 132 Bladder surgery for benign disease",
+  "b": [
+   "Boari flap: longer and wider than estimated",
+   "Hitch sutures superficial, parallel (genitofemoral, femoral nerves)",
+   "Base ≥4 cm, ratio ≤3:1",
+   "Reimplant before tying hitch",
+   "Extra length: divide contralateral pedicle/umbilical ligament"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "TURBT and staging",
+  "q": "Which statement about TURBT and re-staging is FALSE?",
+  "o": [
+   "Lateral wall resection risks obturator jerk",
+   "T1 without muscle is understaged in ~50%",
+   "Stent ureters resected near an orifice",
+   "Random biopsies are not needed in low risk"
+  ],
+  "a": 2,
+  "e": [
+   "Near an orifice: identify it, avoid coagulation, avoid stents (theoretical upper tract seeding); nephrostomy rarely needed. Lateral wall (4 and 8 o'clock): obturator reflex and perforation; general anaesthesia with paralysis helps. TURBT removes tumour and gives stage/grade. Repeat TUR in 2–6 weeks for high grade, especially without muscle: T1 without muscle understaged ~50%; T1G3 with muscle has residual/invasive disease in 30%; overall understaging 30–50%. Sample suspicious areas; random biopsies only with high-risk features or positive cytology. Upper tract imaging not needed for TaG1 (0.3–2.3% UTUC) unless haematuria. Blue light (5-ALA) and NBI improve detection and may reduce recurrence. Office fulguration/observation suits some low-risk patients. High-grade invasive tumour in a diverticulum with CIS: radical cystectomy (understaging common; not partial cystectomy)."
+  ],
+  "s": "Ch 136 NMIBC",
+  "b": [
+   "No stent near orifice; no coagulation",
+   "Lateral wall: obturator jerk",
+   "Re-TUR 2–6 weeks for high grade/no muscle",
+   "T1 understaging 30–50%",
+   "No upper tract imaging for TaG1 without haematuria"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Staging pathology",
+  "q": "Which statement about prostatectomy pathology is FALSE?",
+  "o": [
+   "pT2x means incision into the prostate",
+   "Half with positive margins progress",
+   "Subdividing pT2 has prognostic value",
+   "SV invasion is usually direct extension"
+  ],
+  "a": 2,
+  "e": [
+   "Subdividing pT2 has no prognostic value. pT2x: organ-confined except where an intraprostatic incision prevents assessment. SV invasion (T3b), almost always direct extension, carries a poor prognosis: only 25% with SVI and few with nodes are PSA-free at 10 years. Only 50% with positive margins progress. Tumour volume correlates with stage and grade but is not independent once grade, stage and margins are known. Adverse biopsy findings predict adverse RP findings; favourable ones do not guarantee favourable RP pathology. Metastases: nodes, bone, lung, bladder, liver, adrenal. Hormonal therapy causes atrophy and squamous metaplasia; treated cancers may look artificially higher grade. Primary urothelial carcinoma of the prostate invades bladder neck: >50% T3–T4, 20% metastatic at presentation."
+  ],
+  "s": "Ch 151 Prostate pathology",
+  "b": [
+   "pT2 subdivision: no prognostic value",
+   "pT2x: intraprostatic incision",
+   "SVI: 25% PSA-free at 10 years",
+   "50% with positive margins progress",
+   "Hormone therapy: artefactual upgrading"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Genital trauma",
+  "q": "Which statement about paediatric genital trauma is FALSE?",
+  "o": [
+   "Genital injury should raise suspicion of abuse",
+   "Homogeneous testis echotexture means rupture",
+   "Straddle injuries cause most vaginal injuries",
+   "Reducing adhesions prevents circumcision injury"
+  ],
+  "a": 1,
+  "e": [
+   "Heterogeneous parenchyma suggests testicular rupture; US findings of rupture mandate exploration. Genital injury raises suspicion of abuse; exclude rectal and anal injury. Straddle injuries cause most vaginal injuries; injuries to bladder, urethra, anus, rectum, hymen or internal vagina suggest penetration and abuse. Most circumcision injuries are avoidable by properly reducing adhesions first."
+  ],
+  "s": "Ch 52 Paediatric GU trauma",
+  "b": [
+   "Heterogeneous echotexture = rupture → explore",
+   "Genital injury: think abuse; check anus/rectum",
+   "Straddle injuries: most vaginal injuries",
+   "Reduce adhesions before circumcision"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Advanced GCT",
+  "q": "Which statement about advanced germ cell tumours is FALSE?",
+  "o": [
+   "Carboplatin is inferior to cisplatin",
+   "Seminoma has a poor-risk IGCCCG group",
+   "Raised markers after orchiectomy mean chemo",
+   "Bulky nodes >3 cm need induction chemotherapy"
+  ],
+  "a": 1,
+  "e": [
+   "IGCCCG has no poor-risk seminoma; nonpulmonary visceral metastases (e.g., brain) make it intermediate. Poor-risk NSGCT: mediastinal primary, nonpulmonary visceral metastases, AFP >10,000 ng/mL or hCG >50,000 mIU/mL (2021 update adds LDH and other refinements). Bulky retroperitoneal disease (>3 cm; e.g., >5 cm stage IIC) or persistent markers: induction chemotherapy. Stage II NSGCT risk of distant spread: raised markers, bulky (>3 cm) or out-of-zone nodes (LVI is not predictive here). Distant lesion without retroperitoneal disease or markers (esp. seminoma): biopsy first; non-responding seminoma may contain NSGCT elements (biopsy). Landing zones: right → interaortocaval; left → para-aortic; crossover right to left. Every randomised trial shows cisplatin superior to carboplatin (carboplatin less toxic, 65–90% response in seminoma). Late toxicity: neuropathy, Raynaud, hearing loss, hypogonadism, infertility, second cancers, cardiovascular disease (even 1–2 cycles raise risk). Rising mass or markers after treatment: salvage chemo (CT biopsy selectively)."
+  ],
+  "s": "Ch 76 Testis neoplasms",
+  "b": [
+   "No poor-risk seminoma",
+   "Bulky >3 cm or persisting markers: chemo",
+   "Right: interaortocaval; left: para-aortic",
+   "Cisplatin > carboplatin",
+   "Late toxicity even after 1–2 cycles"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Augmentation, partial cystectomy, urachus",
+  "q": "Which statement about benign bladder surgery is FALSE?",
+  "o": [
+   "Benign urachal excision needs only a small cuff",
+   "Leiomyoma suits partial cystectomy",
+   "Take ileum about 20 cm from the ileocaecal valve",
+   "Diverticulosis contraindicates enterocystoplasty"
+  ],
+  "a": 3,
+  "e": [
+   "Diverticulosis does not contraindicate enterocystoplasty; diverticulitis, IBD, short gut, advanced renal or liver failure, and inability to self-catheterise do. Ileum is preferred (abundant, mobile, good supply); spare 20 cm terminal ileum (bile salts, B12); detubularise; broad mesentery; bivalve the bladder widely (narrow mouth makes a pseudodiverticulum); subtotal cystectomy only for severe IC; open and laparoscopic principles identical. Counsel strict CIC (perforation risk). Partial cystectomy: confirm adequate capacity and no major voiding symptoms; still need adequate margins (infiltrative benign disease recurs); bedside flexible cystoscopy helps MIS localisation. Leiomyoma: endovesical, intramural or extravesical, may be missed at cystoscopy; partial cystectomy reasonable. Urachal anomalies failing conservative care: excise whole urachus with narrow peritoneal wings and small dome cuff. Bladder stones: approach depends on size, number and cause; percutaneous cystolithotripsy for large stones unless prior surgery risks bowel injury."
+  ],
+  "s": "Ch 132 Bladder surgery for benign disease",
+  "b": [
+   "Diverticulosis OK; diverticulitis/IBD not",
+   "Spare 20 cm terminal ileum",
+   "Wide bivalve: avoid pseudodiverticulum",
+   "Urachus: excise all with small cuff",
+   "Partial cystectomy still needs margins"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Intravesical chemotherapy",
+  "q": "Which statement about intravesical chemotherapy is FALSE?",
+  "o": [
+   "Mitomycin C reduces progression",
+   "Avoid instillation after extensive resection",
+   "Thiotepa causes myelosuppression",
+   "A single post-TUR dose cuts low-risk recurrence"
+  ],
+  "a": 0,
+  "e": [
+   "Intravesical chemotherapy (immediately post-TURBT within 6 h, and adjuvant) reduces recurrence but has no proven effect on progression; mitomycin C causes irritation and is not risk free. Single instillation helps most with a solitary new low-grade tumour; little extra benefit with recurrent/multiple tumours and none in high grade; avoid after extensive resection or perforation. Thiotepa (189 Da) is absorbed: irritative symptoms (12–69%) and myelosuppression. Combination regimens add little (except interferon with BCG); combination chemo may help BCG-refractory disease. Chemo has fewer, milder side effects than BCG; BCG is more effective (especially for CIS). Cytology: high specificity and PPV (90–100%); markers (BTA, NMP22, FISH) add sensitivity, especially low grade, but lower specificity. Lifestyle: fluids, stop smoking, low-fat diet. Surveillance (high risk): cystoscopy (the hallmark) with cytology every 3–4 months for 2 years, 6-monthly for 2 years, then yearly; restart with each recurrence; upper tract imaging yearly for 2 years; individualise by risk of the latest tumour. Update: single-dose gemcitabine is an alternative (SWOG S0337)."
+  ],
+  "s": "Ch 136 NMIBC",
+  "b": [
+   "Chemo reduces recurrence, not progression",
+   "Single dose within 6 h: low-risk solitary",
+   "Thiotepa: myelosuppression",
+   "Not after perforation or extensive resection",
+   "Cytology: high specificity; markers: sensitivity",
+   "High-risk surveillance: cystoscopy/cytology 3–4 monthly × 2 y, then 6-monthly × 2 y, then yearly"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Residual masses",
+  "q": "Which statement about residual masses after chemotherapy for GCT is FALSE?",
+  "o": [
+   "Seminoma residues usually hold viable tumour",
+   "About half of NSGCT residues hold teratoma or cancer",
+   "NSGCT residuals over 1 cm need resection",
+   "Teratoma is chemoresistant"
+  ],
+  "a": 0,
+  "e": [
+   "Only ~10% of seminoma residues contain viable tumour; ~30% of discrete masses >3 cm do; <3 cm rarely; FDG-PET helps (>3 cm PET-negative and <3 cm can be observed); most resolve. NSGCT with normal markers and residual >1 cm: resect; ~half contain teratoma or viable cancer, the rest fibrosis; no predictor (no teratoma in primary, mass size, shrinkage) excludes them (LVI is not one). Teratoma in the primary predicts residual teratoma: RPLND. Teratoma is chemoresistant, infiltrative, mature and immature behave alike; may transform (RMS, adenocarcinoma, neuroendocrine); growing teratoma syndrome vs malignant transformation (enlarging solid mass, new sites: biopsy). Multiple sites in one-third: resect all (discordance 22–46%), RPLND first (necrosis there predicts necrosis elsewhere). Viable GCT after salvage chemo: poor prognosis. Poor-risk status is not an independent predictor of relapse after PC-RPLND. Late relapse: book says worse, recent data show similar cure (50–60%)."
+  ],
+  "s": "Ch 76 Testis neoplasms",
+  "b": [
+   "Seminoma residue: ~10% viable; >3 cm ~30%; PET helps",
+   "NSGCT residue >1 cm: resect",
+   "Half teratoma/viable, half fibrosis",
+   "Teratoma chemoresistant; can transform",
+   "Multiple sites: resect all (22–46% discordant)"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "BCG therapy",
+  "q": "Which statement about intravesical BCG is FALSE?",
+  "o": [
+   "Maintenance is proven to reduce progression",
+   "A second BCG course works in 30–50%",
+   "BCG may be given right after TURBT",
+   "BCG sepsis: isoniazid and rifampicin"
+  ],
+  "a": 2,
+  "e": [
+   "Never give BCG with disrupted urothelium (after TURBT, trauma, haematuria): risk of intravasation and sepsis. BCG is the only agent shown to delay or reduce progression; maintenance is the proven scenario; optimal dose/schedule undetermined (reduced dose may be similar and better tolerated). Use cautiously in low risk. Contraindications: liver disease (can't take isoniazid), prior TB, total incontinence; immunosuppression relative. BCG + interferon: active after BCG failure, but less effective than BCG alone in BCG-naive patients. Grade 3 reaction (persistent high fever): isoniazid and rifampicin 3–6 months with pyridoxine, infectious disease input. Failure of first course: high risk; a second BCG course (30–50% response, better than chemo); after second failure: trials, combination therapy or cystectomy (indicated unless contraindicated). High-risk patients should be considered for cystectomy. MSKCC long-term: 50% progressed, one-third died, one-third had prostatic or upper tract disease, 27% survived with intact bladder. Updates: for BCG-unresponsive CIS, pembrolizumab (KEYNOTE-057) and nadofaragene are approved options."
+  ],
+  "s": "Ch 136 NMIBC",
+  "b": [
+   "Never BCG with disrupted urothelium",
+   "Only BCG reduces progression; maintenance",
+   "Second course: 30–50% response",
+   "BCG sepsis: INH + rifampicin + pyridoxine",
+   "Contraindications: liver disease, TB, total incontinence",
+   "BCG-unresponsive: pembrolizumab, nadofaragene, cystectomy"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Non-germ cell testis tumours",
+  "q": "Which statement about non-germ cell testis and paratesticular tumours is FALSE?",
+  "o": [
+   "Liposarcoma is the commonest adult paratesticular tumour",
+   "Lymphoma is commonest testis tumour over 50",
+   "About 90% of Leydig/Sertoli tumours are benign",
+   "Leydig cell tumours are linked to cryptorchidism"
+  ],
+  "a": 3,
+  "e": [
+   "Leydig cell tumours have no cryptorchid link and are not bilateral. 90% of Leydig and Sertoli tumours are benign. Lymphoma: commonest testis tumour over 50. Epididymal cystadenoma: VHL; adenomatoid tumour: benign. Liposarcoma: commonest adult paratesticular tumour (large infiltrative cord mass is sarcoma until proven otherwise; inguinal orchiectomy plus adjuvant RT to reduce local recurrence); RMS: commonest in children."
+  ],
+  "s": "Ch 76 Testis neoplasms",
+  "b": [
+   "Leydig: no cryptorchid link, not bilateral",
+   "90% Leydig/Sertoli benign",
+   "Over 50: lymphoma",
+   "Adult paratesticular: liposarcoma (orchiectomy + RT)",
+   "Child paratesticular: RMS"
+  ]
+ }
+]

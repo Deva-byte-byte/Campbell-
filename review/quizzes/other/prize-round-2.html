@@ -1,0 +1,277 @@
+<title>Urology Prize Round II</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one exam card at a time, narrow reading column, progress strip on top */
+:root {
+  --bg: #f3f5f6; --surface: #ffffff; --ink: #18232b; --muted: #5b6a74; --line: #d6dde1;
+  --accent: #1f5f7a; --accent-soft: #e2eef3;
+  --warn: #a8660b; --ok: #1d7a4c; --ok-soft: #e3f3ea; --bad: #b3352b; --bad-soft: #f8e4e1;
+  --f-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; padding: 0 16px; }
+.wrap { max-width: 720px; margin: 0 auto; padding-block: 28px 48px; display: grid; gap: 20px; }
+header { display: grid; gap: 6px; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(26px, 5vw, 34px); line-height: 1.15; margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; font-size: 15px; }
+
+.strip { display: grid; grid-template-columns: repeat(20, 1fr); gap: 3px; }
+.pip { height: 8px; border-radius: 2px; background: var(--line); border: 0; padding: 0; cursor: pointer; }
+.pip.ok { background: var(--ok); } .pip.bad { background: var(--bad); }
+.pip.cur { outline: 2px solid var(--accent); outline-offset: 2px; }
+.meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-family: var(--f-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 24px; display: grid; gap: 18px; }
+.qhead { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.qno { font-family: var(--f-mono); font-size: 13px; color: var(--accent); }
+.tag { font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); padding: 2px 8px; border-radius: 4px; }
+.stem { font-family: var(--f-display); font-size: 21px; line-height: 1.4; font-weight: 500; margin: 0; }
+.opts { display: grid; gap: 10px; }
+.opt { display: grid; grid-template-columns: 28px 1fr; gap: 12px; align-items: start; text-align: left; width: 100%;
+  font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; cursor: pointer; }
+.opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:focus-visible, .btn:focus-visible, .pip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.opt .k { font-family: var(--f-mono); font-size: 13px; width: 28px; height: 28px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--muted); }
+.opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.opt.sel .k { border-color: var(--accent); color: var(--accent); }
+.opt.right { border-color: var(--ok); background: var(--ok-soft); }
+.opt.right .k { border-color: var(--ok); color: var(--ok); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.opt.wrong .k { border-color: var(--bad); color: var(--bad); }
+.opt:disabled { cursor: default; }
+
+.verdict { font-weight: 600; }
+.verdict.ok { color: var(--ok); } .verdict.bad { color: var(--bad); }
+.explain { border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 10px; }
+.explain p, .explain ul { margin: 0; }
+.explain ul { padding-left: 20px; display: grid; gap: 4px; }
+.src { font-size: 13px; color: var(--muted); }
+
+.actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+.btn { font: inherit; font-weight: 600; border-radius: 8px; padding: 10px 18px; cursor: pointer; border: 1px solid var(--accent); }
+.btn.primary { background: var(--accent); color: var(--surface); }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:disabled { opacity: .45; cursor: default; }
+.hint { font-size: 13px; color: var(--muted); }
+
+.result { display: grid; gap: 14px; }
+.score { font-family: var(--f-display); font-size: 44px; font-weight: 600; line-height: 1; font-variant-numeric: tabular-nums; }
+.review { display: grid; gap: 6px; padding: 0; margin: 0; list-style: none; }
+.review li { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 15px; min-width: 0; }
+.review .n { font-family: var(--f-mono); font-size: 13px; color: var(--muted); }
+.review .s { font-family: var(--f-mono); font-size: 13px; font-weight: 500; }
+.review .s.ok { color: var(--ok); } .review .s.bad { color: var(--bad); }
+.review button { font: inherit; color: var(--ink); background: none; border: 0; padding: 0; text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.pip.part { background: var(--warn); } .pip.pend { background: var(--accent); opacity: .5; }
+.fig { margin: 0; display: grid; gap: 6px; overflow-x: auto; }
+.fig svg { width: 100%; min-width: 320px; height: auto; display: block; }
+.fig .grid line { stroke: var(--line); stroke-width: 1; }
+.fig .ax line { stroke: var(--muted); stroke-width: 1.5; }
+.fig .lbl, .fig text { fill: var(--muted); font-family: var(--f-mono); font-size: 12px; }
+.fig .trace { fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; }
+.fig .trace.dash { stroke-dasharray: 7 5; }
+.fig .mark { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 4; }
+.fig figcaption { font-size: 13px; color: var(--muted); }
+textarea { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px; width: 100%; resize: vertical; min-height: 140px; }
+textarea:focus-visible, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mine { display: grid; gap: 6px; } .mine p { margin: 0; white-space: pre-wrap; background: var(--bg); border-radius: 8px; padding: 12px; }
+.selfmark { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font: inherit; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.chip.on { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.review .s.part { color: var(--warn); }
+@media (max-width: 480px) { .card { padding: 18px; } .stem { font-size: 19px; } }
+@media (prefers-reduced-motion: no-preference) { .opt { transition: border-color .12s, background-color .12s; } }
+.line { font: inherit; font-size: 17px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; width: 100%; }
+.line:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.model { font-family: var(--f-display); font-size: 19px; line-height: 1.4; margin: 0; }
+.also { font-size: 14px; color: var(--muted); margin: 0; }
+.match { font-size: 13px; font-weight: 600; }
+.match.ok { color: var(--ok); } .match.no { color: var(--muted); }
+.fig .tagl { fill: var(--accent); font-size: 14px; font-weight: 600; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">MCh Urology · Prize round II · Checked against sources, October 2026</div>
+    <h1>Trials, technology, history and India</h1>
+    <p class="sub">20 new questions: practice-changing trials of 2025–26, approvals and policy, robotics and telesurgery, landmarks in urologic history, and Indian contributions. Mostly one-line answers, with a few MCQs.</p>
+  </header>
+  <div><div class="strip" id="strip" aria-label="Question progress"></div></div>
+  <div class="meta"><span id="pos"></span><span id="tally"></span></div>
+  <main id="stage"></main>
+</div>
+<script>
+const Q = [
+// ---- Trials that changed practice, 2025–26
+{ f:"line", t:"Trial · Bladder", q:"What did KEYNOTE-905/EV-303 (ESMO 2025) show, and in which patients?", a:"Perioperative enfortumab vedotin plus pembrolizumab with cystectomy improved event-free and overall survival compared with cystectomy alone in cisplatin-ineligible MIBC (muscle-invasive bladder cancer).", x:"Pathological complete response was 57% vs 8.6%, event-free survival HR (hazard ratio) 0.40 and overall survival HR 0.50. It was the first perioperative regimen to improve survival in cisplatin-ineligible patients, and the FDA then approved EV-pembrolizumab before and after cystectomy.", k:["cisplatin-ineligible","cisplatin ineligible","enfortumab","padcev"] },
+{ f:"mcq", t:"Trial · Prostate", q:"PSMAddition was a landmark because it was the first phase 3 trial of radioligand therapy in which disease state?",
+  o:["Biochemical recurrence after prostatectomy","Metastatic hormone-sensitive prostate cancer (mHSPC), with 177Lu-PSMA-617 added to ADT plus an ARPI","Non-metastatic CRPC (castration-resistant prostate cancer)","Taxane-naive mCRPC after one ARPI"], a:1,
+  e:["1,144 men with PSMA-positive mHSPC were randomised to ADT (androgen deprivation therapy) plus an ARPI (androgen-receptor pathway inhibitor), with or without six cycles of 177Lu-PSMA-617. Radiographic progression-free survival improved, with a trend towards better overall survival.",
+     "Earlier trials used it later in the disease: VISION after an ARPI and a taxane, and PSMAfore in taxane-naive mCRPC after an ARPI."], s:"PSMAddition, SUO 2025 / ESMO 2025" },
+{ f:"line", t:"Trial · Prostate", q:"CAPItello-281: which drug, what biomarker, and what result?", a:"Capivasertib (an AKT inhibitor) added to abiraterone plus ADT in PTEN-deficient mHSPC improved radiographic progression-free survival (about 33 vs 26 months).", x:"PTEN loss switches on the PI3K/AKT pathway, which cross-talks with androgen-receptor signalling. Blocking both pathways together is the rationale. It is the first biomarker-selected trial in mHSPC (selected by PTEN immunohistochemistry).", k:["capivasertib","akt","pten"] },
+{ f:"line", t:"Trial · Prostate", q:"What did the final TALAPRO-2 analysis (Lancet 2025) show?", a:"First-line talazoparib plus enzalutamide improved overall survival in mCRPC, including patients without HRR (homologous recombination repair) gene alterations (median 45.8 vs 37.0 months).", x:"It was the first PARP (poly-ADP ribose polymerase) inhibitor plus ARPI combination to show an overall survival benefit in an unselected population. The benefit was greatest in HRR-deficient tumours, especially those with BRCA alterations.", k:["talazoparib","overall survival","os"] },
+// ---- Approvals and policy
+{ f:"line", t:"Approval · NMIBC", q:"What is Zusduri (UGN-102), and why was its June 2025 FDA approval notable?", a:"Mitomycin in a reverse-thermal hydrogel (RTGel), instilled through a catheter, for recurrent low-grade intermediate-risk NMIBC. It is the first approved non-surgical alternative to TURBT for this group.", x:"The gel is liquid when cold and turns into a gel at body temperature, which keeps the drug in the bladder for hours. In the ENVISION trial, 78% had a complete response at 3 months, and 79% of these still had one 12 months later. Its relative Jelmyto (UGN-101) treats low-grade upper-tract tumours.", k:["mitomycin","hydrogel","gel","rtgel"] },
+{ f:"mcq", t:"Policy · Andrology", q:"In February 2025 the FDA ordered class-wide testosterone label changes. What changed?",
+  o:["A new boxed warning for prostate cancer was added","The boxed warning about cardiovascular outcomes was removed in light of TRAVERSE, and a warning on increased blood pressure was added","Testosterone was approved for age-related hypogonadism","Topical testosterone was withdrawn"], a:1,
+  e:["TRAVERSE showed no increase in major adverse cardiac events compared with placebo. The FDA therefore removed the cardiovascular part of the boxed warning, which had been added in 2015.",
+     "It added warnings on raised blood pressure, based on ambulatory blood pressure studies. The 'limitation of use' for age-related hypogonadism was kept."], s:"FDA Drug Safety communication, 2025" },
+{ f:"line", t:"Policy · Screening", q:"What did the UK National Screening Committee finally recommend on prostate cancer screening in May 2026?", a:"Targeted screening only: PSA every 2 years for men aged 45–61 with a BRCA2 variant and a family history of breast, ovarian, pancreatic or prostate cancer. Population screening was rejected.", x:"The November 2025 draft included both BRCA1 and BRCA2 carriers. The final version narrowed this to BRCA2 with family history. Screening all men, men with a family history only, or Black men was judged to give a worse balance of benefit and harm.", k:["brca2","brca","targeted"] },
+// ---- Technology
+{ f:"mcq", t:"Technology · Telesurgery", q:"On 14 June 2025, Vipul Patel performed a radical prostatectomy from Orlando on a patient in Luanda, Angola. Why was this a 'world first'?",
+  o:["First robotic prostatectomy in Africa","First transcontinental robotic telesurgery done under an FDA-approved IDE (investigational device exemption)","First prostatectomy done with no assistant at the bedside","First telesurgery over 5G"], a:1,
+  e:["It used the Toumai robot (MicroPort MedBot). The one-way network path was about 17,000 km, and the operation took about 90 minutes.",
+     "Compare Marescaux's 'Lindbergh operation' (2001), a transatlantic cholecystectomy from New York to Strasbourg. Latency and network reliability remain the key limits of telesurgery."], s:"MicroPort MedBot release; ABC News, 2025" },
+{ f:"line", t:"Technology · Robotics", q:"Which robotic platform received FDA clearance for urologic procedures (prostatectomy, nephrectomy, cystectomy) on 3 December 2025?", a:"Medtronic's Hugo RAS (robotic-assisted surgery) system.", x:"Clearance was based on the Expand URO IDE study, the largest US study of multi-port robotic urologic surgery. Hugo uses separate open consoles and modular arm carts. Other new systems include Versius, Toumai and India's SSI Mantra.", k:["hugo","medtronic"] },
+{ f:"line", t:"Technology · Stones", q:"What is burst wave lithotripsy, and what makes it different from SWL (shock wave lithotripsy)?", a:"Short bursts of focused ultrasound break stones. It is given with a handheld transducer, can be done in awake patients without anaesthesia, and is often combined with ultrasonic propulsion to move ureteric stones.", x:"SWL uses single high-pressure shock waves. In the awake feasibility study, 18 of 21 (86%) distal ureteric stones passed after propulsion with or without burst wave lithotripsy. It is still investigational.", k:["ultrasound","burst","awake","propulsion"] },
+{ f:"line", t:"News · Public figure", q:"In January 2024, King Charles III was treated at the London Clinic for what condition, and what was found?", a:"An enlarged prostate (benign prostatic hyperplasia); a separate cancer, said not to be prostate cancer, was found during that episode.", x:"Searches for prostate information rose sharply after the announcement. This is an example of the public-awareness effect when a public figure discloses a diagnosis.", k:["enlarged prostate","bph","benign","hyperplasia"] },
+// ---- History and world trivia
+{ f:"line", t:"History", q:"Who built the 'Lichtleiter' (1806), considered the first endoscope?", a:"Philipp Bozzini, in Frankfurt.", x:"It used candlelight and mirrors. The Vienna medical faculty dismissed it as a 'mere toy'.", k:["bozzini"] },
+{ f:"line", t:"History", q:"Who introduced the first practical cystoscope with a lens system and distal light source, and when?", a:"Maximilian Nitze, 1877–79 (with the instrument maker Josef Leiter in Vienna).", x:"It first used a water-cooled platinum wire for light. Edison's incandescent bulb later replaced this. Harold Hopkins's rod-lens system (1960s) transformed image quality.", k:["nitze"] },
+{ f:"mcq", t:"History", q:"Match the urologic 'first' to the surgeon. Which is correct?",
+  o:["First laparoscopic nephrectomy: Binder, Frankfurt, 2000","First laparoscopic nephrectomy: Clayman, St Louis, 1990; first robotic radical prostatectomy: Binder and Kramer, Frankfurt, 2000","First robotic radical prostatectomy: Clayman, 1990","First laparoscopic radical prostatectomy: Menon, 1991"], a:1,
+  e:["Ralph Clayman's team at Washington University, St Louis, performed the first laparoscopic nephrectomy in June 1990. Binder and Kramer performed the first robot-assisted radical prostatectomy in Frankfurt in 2000.",
+     "Schuessler did the first laparoscopic radical prostatectomy (1992, reported 1997). Guillonneau and Vallancien standardised it (Montsouris technique). Menon popularised the robotic approach (VIP)."], s:"History of laparoscopic and robotic urology" },
+{ f:"line", t:"World trivia", q:"What was the 'Lindbergh operation' (2001), and why does it matter to urologists today?", a:"The first transatlantic telesurgery: Jacques Marescaux operated from New York on a patient in Strasbourg (cholecystectomy). It is the forerunner of today's urologic telesurgery.", x:"It used the ZEUS system over dedicated fibre-optic lines, with about 155 ms latency. Modern telesurgery (Toumai, SSI Mantra) has revived the idea for prostatectomy and partial nephrectomy.", k:["marescaux","transatlantic","telesurgery"] },
+// ---- India
+{ f:"line", t:"India · Robotics", q:"Where and when was India's first robotic surgery performed, and what was the operation?", a:"AIIMS, New Delhi, 2006: a robot-assisted radical prostatectomy (urology department).", x:"India now has hundreds of robotic systems and its own platform (SSI Mantra). Urology remains the largest user of robotic surgery in India.", k:["aiims","2006"] },
+{ f:"line", t:"India · Transplant", q:"Which robotic kidney transplant technique was developed at Medanta (Gurugram) in 2013, and by whom?", a:"Robotic kidney transplantation with regional hypothermia (the Vattikuti Urology Institute–Medanta technique): Rajesh Ahlawat with Mani Menon.", x:"It was planned with simulated surgery at Henry Ford, Detroit. Ice slush cools the kidney inside the body while the vessels are joined, which limits rewarming injury. About 50 cases were done in the first year.", k:["ahlawat","hypothermia","medanta","menon"] },
+{ f:"line", t:"India · Diaspora", q:"Which Indian-born urologist developed the Vattikuti Institute Prostatectomy, and where?", a:"Mani Menon, at the Vattikuti Urology Institute, Henry Ford Hospital, Detroit (from 2000–01).", x:"The VIP (Vattikuti Institute Prostatectomy) standardised robot-assisted radical prostatectomy and drove its worldwide uptake. Menon later described the 'Veil of Aphrodite' nerve-sparing technique.", k:["menon"] },
+{ f:"line", t:"India · Diaspora", q:"After whom is the Vattikuti Urology Institute named, and what is his link with robotic surgery in India?", a:"Raj Vattikuti, an Indian-American entrepreneur whose gift funded the institute; his Vattikuti Foundation promotes robotic surgery training in India.", x:"The foundation supported many early Indian robotic programmes and the Medanta robotic kidney transplant collaboration with Henry Ford.", k:["raj vattikuti","vattikuti"] },
+{ f:"line", t:"India · Honours", q:"Which Indian urologist from Nadiad received the Urology Care Foundation (AUA) Humanitarian Recognition Award in 2025?", a:"Dr Mahesh Desai of Muljibhai Patel Urological Hospital (MPUH), Nadiad.", x:"He is known for building high-volume, affordable urology and transplant services in rural Gujarat, and for endourology including micro-PCNL work.", k:["mahesh desai","desai"] }
+];
+
+const KEYS = ["A","B","C","D"];
+const FIG = {
+cmg: `<figure class="fig"><svg viewBox="0 0 520 320" role="img" aria-label="Cystometrogram with three channels. At A, a sharp spike appears in Pves and Pabd but not in Pdet. At B, two waves appear in Pves and Pdet while Pabd stays flat.">
+  <g class="ax"><line x1="60" y1="80" x2="500" y2="80"/><line x1="60" y1="170" x2="500" y2="170"/><line x1="60" y1="260" x2="500" y2="260"/><line x1="60" y1="290" x2="500" y2="290"/></g>
+  <g class="lbl"><text x="54" y="84" text-anchor="end">Pves</text><text x="54" y="174" text-anchor="end">Pabd</text><text x="54" y="264" text-anchor="end">Pdet</text>
+  ${[0,100,200,300,400].map(v=>`<text x="${60+1.1*v}" y="305" text-anchor="middle">${v}</text>`).join("")}
+  <text x="280" y="318" text-anchor="middle">Volume infused (mL)</text>
+  <text x="170" y="26" text-anchor="middle" class="tagl">A</text><text x="381" y="26" text-anchor="middle" class="tagl">B</text></g>
+  <line class="mark" x1="170" y1="32" x2="170" y2="290"/><line class="mark" x1="381" y1="32" x2="381" y2="290"/>
+  <polyline class="trace" points="60,80 165,80 170,40 175,80 335,80 345,58 352,50 360,62 368,80 390,80 400,55 409,46 418,60 428,80 500,80"/>
+  <polyline class="trace" points="60,170 165,170 170,130 175,170 500,170"/>
+  <polyline class="trace" points="60,260 335,260 345,238 352,230 360,242 368,260 390,260 400,235 409,226 418,240 428,260 500,260"/>
+</svg><figcaption>Channels are drawn on separate baselines. The vertical scale is the same for all three.</figcaption></figure>`,
+comp: `<figure class="fig"><svg viewBox="0 0 520 300" role="img" aria-label="Detrusor pressure rising steadily from 5 cmH2O at 0 mL to 45 cmH2O at 300 mL and about 52 at 350 mL.">
+  <g class="grid">${[180,100,20].map(y=>`<line x1="60" x2="500" y1="${y}" y2="${y}"/>`).join("")}</g>
+  <g class="ax"><line x1="60" y1="260" x2="500" y2="260"/><line x1="60" y1="260" x2="60" y2="20"/></g>
+  <g class="lbl">${[0,100,200,300,400].map(v=>`<text x="${60+1.1*v}" y="278" text-anchor="middle">${v}</text>`).join("")}
+  ${[0,20,40,60].map(p=>`<text x="52" y="${264-4*p}" text-anchor="end">${p}</text>`).join("")}
+  <text x="280" y="296" text-anchor="middle">Volume infused (mL)</text><text x="16" y="140" text-anchor="middle" transform="rotate(-90 16 140)">Pdet (cmH₂O)</text></g>
+  <line class="mark" x1="390" y1="260" x2="390" y2="80"/><line class="mark" x1="60" y1="80" x2="390" y2="80"/>
+  <polyline class="trace" points="60,240 170,206 280,160 390,80 445,52"/>
+</svg></figure>`
+};
+
+const STORE = "mch-prize-2";
+const N = Q.length;
+const fresh = () => ({ i: 0, ans: Array(N).fill(null), done: Array(N).fill(false), grade: Array(N).fill(null) });
+let state = fresh();
+try { const s = JSON.parse(localStorage.getItem(STORE)); if (s && s.ans && s.ans.length === N) state = s; } catch (e) {}
+const save = () => { try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) {} };
+
+const stage = document.getElementById("stage"), strip = document.getElementById("strip");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+const fmt = x => Number.isInteger(x) ? String(x) : x.toFixed(1);
+const isMcq = k => Q[k].f === "mcq";
+const pts = k => !state.done[k] ? 0 : isMcq(k) ? (state.ans[k] === Q[k].a ? 1 : 0) : (state.grade[k] ?? 0);
+const finished = k => state.done[k] && (isMcq(k) || state.grade[k] !== null);
+const status = k => !state.done[k] ? "" : !finished(k) ? "pend" : pts(k) === 1 ? "ok" : pts(k) > 0 ? "part" : "bad";
+const score = () => Q.reduce((n, _, k) => n + pts(k), 0);
+const hits = k => { const a = String(state.ans[k] || "").toLowerCase(); return a && Q[k].k.some(w => a.includes(w)); };
+const FMT = { mcq: "Single best answer", text: "Written answer", line: "One-line answer" };
+
+function renderStrip() {
+  strip.innerHTML = "";
+  Q.forEach((_, k) => {
+    const b = document.createElement("button");
+    b.className = "pip " + status(k) + (k === state.i ? " cur" : "");
+    b.setAttribute("aria-label", "Question " + (k + 1));
+    b.onclick = () => { state.i = k; save(); render(); };
+    strip.appendChild(b);
+  });
+  document.getElementById("pos").textContent = state.i < N ? `Question ${state.i + 1} of ${N} · ${FMT[Q[state.i].f]}` : "Finished";
+  document.getElementById("tally").textContent = `${fmt(score())} marks · ${Q.filter((_, k) => finished(k)).length} done`;
+}
+
+const selfmark = k => `<div class="selfmark" role="group" aria-label="Mark yourself"><span class="hint">Mark yourself:</span>
+  ${[[1,"Got it (1)"],[0.5,"Partly (½)"],[0,"Missed (0)"]].map(([v,l]) => `<button class="chip${state.grade[k] === v ? " on" : ""}" data-g="${v}">${l}</button>`).join("")}</div>`;
+
+function render() {
+  renderStrip();
+  if (state.i >= N) return renderResult();
+  const k = state.i, it = Q[k], done = state.done[k], ans = state.ans[k], last = k === N - 1;
+  let body = "", exp = "";
+  if (it.f === "mcq") {
+    body = `<div class="opts" role="group" aria-label="Answer options">${it.o.map((txt, j) => {
+      let c = "opt"; if (done) { if (j === it.a) c += " right"; else if (j === ans) c += " wrong"; } else if (j === ans) c += " sel";
+      return `<button class="${c}" data-j="${j}" ${done ? "disabled" : ""}><span class="k">${KEYS[j]}</span><span>${txt}</span></button>`; }).join("")}</div>`;
+    if (done) exp = `<div class="explain"><div class="verdict ${ans === it.a ? "ok" : "bad"}">${ans === it.a ? "Correct." : "Not quite. The answer is " + KEYS[it.a] + "."}</div>
+      <ul>${it.e.map(x => `<li>${x}</li>`).join("")}</ul><p class="src">Read more: ${it.s}</p></div>`;
+  } else if (it.f === "text") {
+    body = done ? `<div class="mine"><div class="eyebrow">Your answer</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Write your answer</label><textarea id="ans-${k}" rows="7" placeholder="Write it as you would in the exam.">${esc(ans)}</textarea>`;
+    if (done) exp = `<div class="explain"><div class="eyebrow">Model answer: compare point by point</div><ul>${it.m.map(x => `<li>${x}</li>`).join("")}</ul><p class="src">Read more: ${it.s}</p>${selfmark(k)}</div>`;
+  } else {
+    body = done ? `<div class="mine"><div class="eyebrow">Your line</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Your one-line answer</label><input class="line" id="ans-${k}" type="text" autocomplete="off" value="${esc(ans)}" placeholder="Type and press Enter">`;
+    if (done) exp = `<div class="explain"><div class="eyebrow">Model answer</div><p class="model">${it.a}</p><p class="also">${it.x}</p>
+      <span class="match ${hits(k) ? "ok" : "no"}">${hits(k) ? "Your line contains the key term." : "Key term not found in your line. Check the meaning yourself."}</span>${selfmark(k)}</div>`;
+  }
+  const primary = done ? `<button class="btn primary" id="next" ${finished(k) ? "" : "disabled"}>${last ? "See results" : "Next question"}</button>`
+    : `<button class="btn primary" id="check" ${it.f === "mcq" && ans === null ? "disabled" : ""}>${it.f === "mcq" ? "Check answer" : "Show model answer"}</button>`;
+  stage.innerHTML = `<article class="card">
+    <div class="qhead"><span class="qno">Q${String(k + 1).padStart(2, "0")}</span><span class="tag">${it.t}</span></div>
+    <p class="stem">${it.q}</p>${it.img ? FIG[it.img] : ""}${body}${exp}
+    <div class="actions"><button class="btn ghost" id="prev" ${k === 0 ? "disabled" : ""}>Previous</button>${primary}</div>
+    ${done && !finished(k) ? `<span class="hint">Mark yourself to continue.</span>` : ""}</article>`;
+  stage.querySelectorAll(".opt").forEach(b => b.onclick = () => { if (!state.done[k]) { state.ans[k] = +b.dataset.j; save(); render(); } });
+  stage.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.grade[k] = +b.dataset.g; save(); render(); });
+  const inp = document.getElementById("ans-" + k);
+  if (inp) { inp.oninput = () => { state.ans[k] = inp.value; save(); };
+    if (it.f === "line") inp.onkeydown = e => { if (e.key === "Enter") { e.preventDefault(); check(); } }; }
+  const c = document.getElementById("check"); if (c) c.onclick = check;
+  const n = document.getElementById("next"); if (n) n.onclick = next;
+  document.getElementById("prev").onclick = () => { if (state.i > 0) { state.i--; save(); render(); } };
+}
+function check() { const k = state.i; if (isMcq(k) && state.ans[k] === null) return; state.done[k] = true; save(); render(); }
+function next() {
+  const k = state.i; if (!finished(k)) return;
+  const open = Q.findIndex((_, j) => j > k && !finished(j));
+  state.i = open !== -1 ? open : (Q.every((_, j) => finished(j)) ? N : Q.findIndex((_, j) => !finished(j)));
+  save(); render(); window.scrollTo({ top: 0 });
+}
+function renderResult() {
+  const r = score();
+  const mark = k => ({ ok: `<span class="s ok">✓</span>`, part: `<span class="s part">½</span>`, bad: `<span class="s bad">✗${isMcq(k) ? " " + KEYS[Q[k].a] : ""}</span>` }[status(k)] || `<span class="s">–</span>`);
+  stage.innerHTML = `<article class="card result"><div class="eyebrow">Your score</div><div class="score">${fmt(r)} / ${N}</div>
+    <p class="sub">${Math.round(r / N * 100)}%. Written and one-line answers count as you marked them. Tap any topic to review it.</p>
+    <ul class="review">${Q.map((it, k) => `<li><span class="n">${k + 1}</span><button data-k="${k}">${it.t}</button>${mark(k)}</li>`).join("")}</ul>
+    <div class="actions"><button class="btn ghost" id="reset">Start again</button></div></article>`;
+  stage.querySelectorAll(".review button").forEach(b => b.onclick = () => { state.i = +b.dataset.k; save(); render(); });
+  document.getElementById("reset").onclick = () => { state = fresh(); save(); render(); };
+}
+document.addEventListener("keydown", e => {
+  if (e.metaKey || e.ctrlKey || e.altKey || state.i >= N || !isMcq(state.i)) return;
+  const k = state.i, j = KEYS.indexOf(e.key.toUpperCase());
+  if (j > -1 && !state.done[k]) { state.ans[k] = j; save(); render(); }
+  else if (e.key === "Enter" && document.activeElement?.tagName !== "BUTTON") { state.done[k] ? next() : check(); }
+});
+render();
+</script>

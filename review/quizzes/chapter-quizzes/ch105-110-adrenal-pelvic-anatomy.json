@@ -1,0 +1,802 @@
+[
+ {
+  "f": "mcq",
+  "t": "Adrenal anatomy",
+  "q": "The adrenal arteries arise from:",
+  "o": [
+   "Inferior phrenic (superior), aorta (middle) and renal artery (inferior)",
+   "The coeliac trunk only",
+   "The gonadal artery",
+   "The renal artery only"
+  ],
+  "a": 0,
+  "e": [
+   "Each main artery divides into 10–50 small branches. Venous drainage is a single central vein. The right vein is short and enters the IVC (inferior vena cava) posterolaterally, while the left drains into the left renal vein."
+  ],
+  "s": "Ch 105 Adrenal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenal anatomy",
+  "q": "In unilateral renal agenesis or renal ectopia, the ipsilateral adrenal is usually:",
+  "o": [
+   "In its normal position",
+   "Fused to the opposite adrenal",
+   "Absent",
+   "Attached to the ectopic kidney"
+  ],
+  "a": 0,
+  "e": [
+   "Adrenal agenesis is extremely rare. Adrenal rests occur near the coeliac axis and along the path of gonadal descent."
+  ],
+  "s": "Ch 105 Adrenal anatomy; Ch 106"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenal physiology",
+  "q": "From outside to inside, the adrenal cortical zones and their products are:",
+  "o": [
+   "Glomerulosa (aldosterone, about 15%), fasciculata (cortisol, about 80%), reticularis (androgens, 5–7%)",
+   "Medulla, glomerulosa, fasciculata",
+   "Fasciculata (aldosterone), glomerulosa (cortisol), reticularis (androgens)",
+   "Reticularis, fasciculata, glomerulosa"
+  ],
+  "a": 0,
+  "e": [
+   "Remember 'salt, sugar, sex: the deeper you go, the sweeter it gets.' The cortex makes up about 90% of the gland."
+  ],
+  "s": "Ch 105 Adrenal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenal physiology",
+  "q": "Adrenal androgen production by the zona reticularis is regulated by:",
+  "o": [
+   "FSH",
+   "Angiotensin II",
+   "ACTH (adrenocorticotropic hormone)",
+   "LH"
+  ],
+  "a": 2,
+  "e": [
+   "Aldosterone is controlled mainly by angiotensin II and potassium. Androgens are the most abundant adrenal product (more than 20 mg a day), compared with cortisol 10–20 mg and aldosterone 100–150 μg."
+  ],
+  "s": "Ch 105 Adrenal anatomy; Ch 106"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenal imaging",
+  "q": "On non-contrast CT, an adrenal nodule of 10 HU (Hounsfield units) or less is:",
+  "o": [
+   "Diagnostic of phaeochromocytoma",
+   "Almost always a lipid-rich benign adenoma",
+   "Indeterminate",
+   "Usually a metastasis"
+  ],
+  "a": 1,
+  "e": [
+   "CT is the most widely used adrenal imaging. Chemical-shift MRI also identifies lipid-rich adenomas. Neither shows whether a lesion is hormonally active."
+  ],
+  "s": "Ch 105 Adrenal anatomy; Ch 106"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenal physiology",
+  "q": "Which zone does NOT atrophy when the pituitary fails?",
+  "o": [
+   "Glomerulosa",
+   "Reticularis",
+   "Fasciculata",
+   "All atrophy"
+  ],
+  "a": 0,
+  "e": [
+   "The glomerulosa depends on the renin–angiotensin system and potassium, not mainly ACTH. Aldosterone synthase (CYP11B2) is found only in the glomerulosa."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenal physiology",
+  "q": "PNMT (phenylethanolamine N-methyltransferase) matters clinically because it:",
+  "o": [
+   "Makes VMA",
+   "Converts tyrosine to dopamine",
+   "Degrades catecholamines",
+   "Converts noradrenaline to adrenaline, so an adrenaline-dominant tumour suggests adrenal origin"
+  ],
+  "a": 3,
+  "e": [
+   "PNMT is found only in the adrenal medulla, brain and organ of Zuckerkandl. Extra-adrenal paragangliomas usually secrete noradrenaline."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Phaeochromocytoma",
+  "q": "The cornerstone biochemical test for phaeochromocytoma is:",
+  "o": [
+   "Plasma free or urinary fractionated metanephrines",
+   "Chromogranin A alone",
+   "VMA",
+   "Plasma catecholamines"
+  ],
+  "a": 0,
+  "e": [
+   "Tumours convert catecholamines to metanephrines continuously, whereas catecholamine release is episodic. 'Free' means not sulphate-conjugated. 'Fractionated' means metanephrine and normetanephrine are reported separately."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Phaeochromocytoma",
+  "q": "Which germline mutation carries the highest risk of malignant phaeochromocytoma or paraganglioma?",
+  "o": [
+   "RET (MEN2)",
+   "SDHB",
+   "SDHD",
+   "VHL"
+  ],
+  "a": 1,
+  "e": [
+   "About 30–50% of SDHB-related tumours are malignant. Rates are about 3% for MEN2, about 5% for VHL and under 3% for SDHD. NF1 tumours are rare but more than 10% are malignant."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Phaeochromocytoma",
+  "q": "A VHL carrier with phaeochromocytoma but no other VHL features is classed as type:",
+  "o": [
+   "2A",
+   "2B",
+   "1",
+   "2C"
+  ],
+  "a": 3,
+  "e": [
+   "Type 1: low phaeochromocytoma risk. Type 2: phaeochromocytoma. 2A: low risk of RCC (renal cell carcinoma). 2B: high risk of RCC. 2C: phaeochromocytoma only, with no other VHL features. The review describes 2A and 2B slightly differently; this is the standard classification."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Phaeochromocytoma",
+  "q": "In preparing a patient for phaeochromocytoma surgery, β-blockers should be:",
+  "o": [
+   "Never used",
+   "Started first",
+   "Started only after adequate α-blockade, if needed for tachycardia or arrhythmia",
+   "Started together with α-blockers"
+  ],
+  "a": 2,
+  "e": [
+   "β-blockade without α-blockade leaves α1 vasoconstriction unopposed, causing a hypertensive crisis. Give α-blockade for at least 2 weeks and restore blood volume."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management; Ch 107"
+ },
+ {
+  "f": "mcq",
+  "t": "Cushing",
+  "q": "The commonest cause of endogenous Cushing syndrome is:",
+  "o": [
+   "Cushing disease (pituitary ACTH), about 70%",
+   "Adrenocortical carcinoma",
+   "Adrenal adenoma",
+   "Ectopic ACTH"
+  ],
+  "a": 0,
+  "e": [
+   "Up to 50% of Cushing syndrome patients have urinary stones. Hypogonadotropic hypogonadism also occurs, so investigate men with low testosterone and low gonadotrophins."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Cushing",
+  "q": "How is the overnight low-dose dexamethasone test done, according to the chapter?",
+  "o": [
+   "1 mg dexamethasone at 11 pm, then serum cortisol the next morning",
+   "10 mg at 11 pm",
+   "1 mg then 24-hour urine cortisol",
+   "Dexamethasone drip with 6-hourly cortisol"
+  ],
+  "a": 0,
+  "e": [
+   "The book uses a cortisol of 5 μg/dL or more as abnormal. Current ESE/ENSAT guidance uses more than 1.8 μg/dL to screen incidentalomas. Oral contraceptives raise cortisol-binding globulin and give up to 50% false positives."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management (updated)"
+ },
+ {
+  "f": "mcq",
+  "t": "Aldosteronism",
+  "q": "Which statement about primary aldosteronism is correct?",
+  "o": [
+   "Spironolactone is fine during testing",
+   "Most patients are hypokalaemic",
+   "Only 9–37% are hypokalaemic; idiopathic bilateral hyperplasia (about 60%) is commoner than adenoma",
+   "Adenoma is the commonest subtype"
+  ],
+  "a": 2,
+  "e": [
+   "Stop mineralocorticoid antagonists for at least 6 weeks before testing. 50–70% of positive screens are confirmed."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Aldosteronism",
+  "q": "The key test that decides whether primary aldosteronism can be cured by surgery is:",
+  "o": [
+   "Lateralisation on adrenal vein sampling",
+   "Plasma aldosterone level",
+   "CT size",
+   "Response to drugs"
+  ],
+  "a": 0,
+  "e": [
+   "Adrenal vein sampling with cortisol gradients above about 2–3 confirms the catheters are correctly placed. An aldosterone ratio of 2.5:1 left to right means left adrenalectomy."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Aldosteronism",
+  "q": "In familial hyperaldosteronism type I (glucocorticoid-remediable), aldosterone secretion is driven by:",
+  "o": [
+   "Potassium",
+   "ACTH, through a chimeric 11β-hydroxylase/aldosterone synthase gene",
+   "Sodium",
+   "Renin"
+  ],
+  "a": 1,
+  "e": [
+   "Dexamethasone suppresses it. Persistent hypertension after adrenalectomy is predicted by age over 50, more than two drugs, long-standing hypertension, a family history, and renal impairment."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Incidentaloma",
+  "q": "A 55-year-old with resistant hypertension has a 3 cm adrenal mass of 7 HU. The initial workup should include:",
+  "o": [
+   "No tests, since it is benign",
+   "Late-night salivary cortisol (or dexamethasone test), aldosterone/renin ratio and plasma free metanephrines",
+   "Plasma aldosterone and renin only",
+   "Biopsy"
+  ],
+  "a": 1,
+  "e": [
+   "Every adrenal mass needs cortisol and catecholamine screening. Add aldosterone testing if the patient is hypertensive or hypokalaemic. About 5% of incidentalomas are phaeochromocytomas."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Incidentaloma",
+  "q": "Three years after nephrectomy for clear-cell RCC, a 3.5 cm adrenal mass (32 HU, washout 52%) appears. Next step:",
+  "o": [
+   "Biopsy",
+   "Check whether the mass is hormonally active",
+   "TKI",
+   "Observation"
+  ],
+  "a": 1,
+  "e": [
+   "It is probably metastasis, but phaeochromocytoma must be excluded before any intervention."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenal tumours",
+  "q": "A woman with an adrenal mass and severe watery diarrhoea that disappears after adrenalectomy most likely had a ganglioneuroma secreting:",
+  "o": [
+   "Serotonin",
+   "Gastrin",
+   "Metanephrine",
+   "VIP (vasoactive intestinal peptide)"
+  ],
+  "a": 3,
+  "e": [
+   "Ganglioneuromas often contain speckled calcification. Every adrenal lesion except aldosteronoma can occur outside the adrenal."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "ACC",
+  "q": "Which statement about adrenocortical carcinoma is correct?",
+  "o": [
+   "The commonest secreted hormone is cortisol; complete resection gives the best chance of cure",
+   "Children do worse than adults",
+   "Gemcitabine–cisplatin is first-line",
+   "Radiotherapy improves survival"
+  ],
+  "a": 0,
+  "e": [
+   "For metastatic disease: mitotane, with or without EDP (etoposide, doxorubicin, cisplatin). Use the Weiss criteria cautiously in oncocytic and paediatric tumours. Ki-67 is a key marker of malignancy. The ADIUVO trial (2023) found no benefit from adjuvant mitotane in low-to-intermediate risk ACC, so reserve it for high-risk disease."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management (updated)"
+ },
+ {
+  "f": "mcq",
+  "t": "Phaeochromocytoma",
+  "q": "After removing a 4.5 cm phaeochromocytoma in a 43-year-old, follow-up should include:",
+  "o": [
+   "Nothing",
+   "Mitotane",
+   "Imaging only",
+   "Genetic testing, metanephrines at about 2 weeks and 6 months, then lifelong yearly checks"
+  ],
+  "a": 3,
+  "e": [
+   "Up to 25% of apparently sporadic cases carry germline mutations. Up to 16% recur, and recurrence can appear after more than 15 years."
+  ],
+  "s": "Ch 106 Adrenal disorders: evaluation and medical management"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenalectomy",
+  "q": "The risk that an incidentaloma is adrenocortical carcinoma, by size, is about:",
+  "o": [
+   "Under 4 cm: 10%",
+   "Under 4 cm: 2%; 4–6 cm: 6%; over 6 cm: 25%",
+   "Over 6 cm: 5%",
+   "Same at all sizes"
+  ],
+  "a": 1,
+  "e": [
+   "Lesions over 6 cm should be removed. Metastases to the adrenal most often come from lung, breast, kidney and melanoma."
+  ],
+  "s": "Ch 107 Adrenal surgery"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenalectomy",
+  "q": "The absolute contraindication to laparoscopic adrenalectomy is:",
+  "o": [
+   "Phaeochromocytoma",
+   "A mass over 12 cm",
+   "Adhesions",
+   "Invasive ACC with an IVC tumour thrombus"
+  ],
+  "a": 3,
+  "e": [
+   "Large size alone is no longer a contraindication, although conversion becomes more likely."
+  ],
+  "s": "Ch 107 Adrenal surgery"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenalectomy",
+  "q": "An 18 cm right ACC invades the kidney and has retrohepatic IVC thrombus. Best approach:",
+  "o": [
+   "Anterior subcostal",
+   "Thoracoabdominal",
+   "Robotic",
+   "Posterior lumbodorsal"
+  ],
+  "a": 1,
+  "e": [
+   "The liver and IVC limit exposure on the right. Incise the diaphragm circumferentially, not radially, to avoid phrenic nerve injury."
+  ],
+  "s": "Ch 107 Adrenal surgery"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenalectomy",
+  "q": "The posterior (lumbodorsal) open approach is best suited to:",
+  "o": [
+   "Large ACC",
+   "Patients with poor lung function",
+   "IVC involvement",
+   "Bilateral small benign tumours or bilateral hyperplasia"
+  ],
+  "a": 3,
+  "e": [
+   "It gives direct access to both sides through two incisions without dividing muscle, but exposure is limited and the prone position makes ventilation harder."
+  ],
+  "s": "Ch 107 Adrenal surgery"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenalectomy",
+  "q": "Which intraoperative step is correct in phaeochromocytoma surgery?",
+  "o": [
+   "Use long-acting antihypertensives",
+   "Ligate the adrenal vein early, use short-acting IV agents for blood pressure surges, and expect hypotension after removal",
+   "Ligate the adrenal vein late",
+   "Avoid fluids"
+  ],
+  "a": 1,
+  "e": [
+   "Short-acting agents include nitroprusside, phentolamine, nicardipine and GTN. Sudden loss of catecholamines causes hypotension, which needs fluids and vasopressors."
+  ],
+  "s": "Ch 107 Adrenal surgery"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenalectomy",
+  "q": "After bilateral adrenalectomy, steroid replacement should start:",
+  "o": [
+   "As soon as both glands are removed",
+   "In recovery",
+   "At induction",
+   "After the right vein is ligated"
+  ],
+  "a": 0,
+  "e": [
+   "Addisonian crisis after unilateral surgery is most common after removing a cortisol-secreting tumour, because the other adrenal is suppressed."
+  ],
+  "s": "Ch 107 Adrenal surgery"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenalectomy",
+  "q": "Which statement about partial adrenalectomy is FALSE?",
+  "o": [
+   "The main vein can be taken if the remnant is not mobilised",
+   "It may be indicated in MEN2A",
+   "The arterial plexus can be ligated without devascularising the gland",
+   "Repeat partial adrenalectomy suits a small local recurrence"
+  ],
+  "a": 3,
+  "e": [
+   "Any local recurrence after partial adrenalectomy is an absolute contraindication to repeating it. It is mainly used for bilateral or hereditary tumours."
+  ],
+  "s": "Ch 107 Adrenal surgery"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenalectomy",
+  "q": "The main disadvantage of the retroperitoneoscopic approach is:",
+  "o": [
+   "More hemodynamic upset",
+   "Limited working space and fewer anatomical landmarks",
+   "Unsuitable after abdominal surgery",
+   "More bowel injury"
+  ],
+  "a": 1,
+  "e": [
+   "Its advantages are no peritoneal entry, fewer bowel injuries, avoiding adhesions, and (in the prone position) bilateral access without repositioning."
+  ],
+  "s": "Ch 107 Adrenal surgery"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenalectomy",
+  "q": "Which management of an intraoperative complication is WRONG?",
+  "o": [
+   "Repair a small diaphragm injury, with a chest drain",
+   "Revascularise after SMV ligation",
+   "Treat a pancreatic leak with bowel rest and TPN",
+   "Give vaccines immediately after splenectomy"
+  ],
+  "a": 3,
+  "e": [
+   "Give post-splenectomy vaccines once the patient has recovered, usually just before discharge. Before surgery for aldosteronoma, give spironolactone and correct potassium and magnesium."
+  ],
+  "s": "Ch 107 Adrenal surgery"
+ },
+ {
+  "f": "mcq",
+  "t": "Female anatomy",
+  "q": "At the level of the cervix, the uterine artery lies ___ to the ureter:",
+  "o": [
+   "Posterior",
+   "In the same sheath",
+   "Anterior (crossing above it: 'water under the bridge')",
+   "Medial"
+  ],
+  "a": 2,
+  "e": [
+   "The ureter can be injured at the infundibulopelvic ligament, the uterine artery, the cardinal ligament and next to the cervix during hysterectomy."
+  ],
+  "s": "Ch 108 Female pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Female anatomy",
+  "q": "The levator ani consists of:",
+  "o": [
+   "Iliopsoas, puborectalis, obturator internus",
+   "Iliococcygeus, pubococcygeus and puborectalis",
+   "Obturator internus and externus",
+   "Coccygeus and piriformis"
+  ],
+  "a": 1,
+  "e": [
+   "It arises from the tendinous arch (arcus tendineus levator ani). Its resting tone supports the pelvic organs and helps passive continence. The coccygeus completes the pelvic diaphragm."
+  ],
+  "s": "Ch 108 Female pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Female anatomy",
+  "q": "To avoid denervating the urethral sphincter, transvaginal incisions to enter the retropubic space should be:",
+  "o": [
+   "Far lateral in the vaginal wall, parallel to the urethra",
+   "Perpendicular to the urethra",
+   "Over the urethra",
+   "Above the bladder neck"
+  ],
+  "a": 0,
+  "e": [
+   "The somatic and autonomic nerves run on the lateral vaginal walls next to the urethra. Injury causes intrinsic sphincter deficiency (type III SUI)."
+  ],
+  "s": "Ch 108 Female pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Female anatomy",
+  "q": "Compared with the male, the female bladder neck:",
+  "o": [
+   "Has dense adrenergic innervation",
+   "Has little adrenergic innervation and no complete smooth-muscle ring; inner longitudinal fibres run on into the urethra",
+   "Is the main continence mechanism",
+   "Has a strong circular smooth-muscle ring"
+  ],
+  "a": 1,
+  "e": [
+   "The female external sphincter is horseshoe-shaped, covering the front of the urethra. The hammock hypothesis: the urethra is compressed against a firm supporting layer."
+  ],
+  "s": "Ch 108 Female pelvic anatomy; Ch 110"
+ },
+ {
+  "f": "mcq",
+  "t": "Female anatomy",
+  "q": "Squamous metaplasia on the trigone of a premenopausal woman is:",
+  "o": [
+   "A normal, hormone-responsive (vaginal-type) variant",
+   "Premalignant",
+   "A sign of TB",
+   "Always to be resected"
+  ],
+  "a": 0,
+  "e": [
+   "It is non-keratinising metaplasia. Keratinising squamous metaplasia is a separate entity."
+  ],
+  "s": "Ch 108 Female pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Female anatomy",
+  "q": "The arcus tendineus fascia pelvis (ATFP) runs:",
+  "o": [
+   "From ischial spine to sacrum",
+   "Only in males",
+   "From the pubic bone to the ischial spine, as the lateral attachment of the pubocervical fascia",
+   "From sacrum to coccyx"
+  ],
+  "a": 2,
+  "e": [
+   "Do not confuse it with the arcus tendineus levator ani (ATLA). The ischial spine and sacrospinous ligament are landmarks for avoiding the pudendal nerve and sacral plexus during vault suspension."
+  ],
+  "s": "Ch 108 Female pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Female anatomy",
+  "q": "The best imaging to localise a urethral diverticulum is:",
+  "o": [
+   "T2-weighted MRI",
+   "IVU",
+   "Voiding cystourethrogram",
+   "CT"
+  ],
+  "a": 0,
+  "e": [
+   "MRI is the most complete radiation-free imaging of the female pelvis. Translabial ultrasound shows mesh, bulking agents and urethral implants."
+  ],
+  "s": "Ch 108 Female pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Male anatomy",
+  "q": "A ruptured bulbar or penile urethra (with Buck fascia breached) can extravasate into all EXCEPT:",
+  "o": [
+   "Penis deep to dartos",
+   "Scrotum",
+   "Buttock and thigh",
+   "Abdominal wall up to the clavicles"
+  ],
+  "a": 2,
+  "e": [
+   "Colles fascia is fused to the ischiopubic rami and the perineal membrane (butterfly bruising). It continues with Scarpa fascia, which fuses with the fascia lata."
+  ],
+  "s": "Ch 109 Male pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Male anatomy",
+  "q": "During pelvic lymph node dissection, how common are accessory obturator veins and arteries?",
+  "o": [
+   "5% and 50%",
+   "About 50% (veins, into the external iliac vein) and 25% (arteries, from the inferior epigastric)",
+   "25% and 5%",
+   "Never"
+  ],
+  "a": 1,
+  "e": [
+   "Accessory veins tear easily on the underside of the external iliac vein. The obturator nerve supplies the thigh adductors."
+  ],
+  "s": "Ch 109 Male pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Male anatomy",
+  "q": "A self-retaining retractor pressing on the psoas causes femoral nerve palsy, giving:",
+  "o": [
+   "Foot drop",
+   "Inability to extend the knee and numbness of the anterior thigh",
+   "Loss of hip flexion only",
+   "Adductor weakness"
+  ],
+  "a": 1,
+  "e": [
+   "The femoral nerve (L2–L4) runs within the psoas, and the genitofemoral nerve on its surface."
+  ],
+  "s": "Ch 109 Male pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Male anatomy",
+  "q": "To protect the ureter's blood supply, the peritoneum should be incised:",
+  "o": [
+   "Directly over the ureter",
+   "Lateral to the ureter in the abdomen and medial to it in the pelvis",
+   "Medial in the abdomen and lateral in the pelvis",
+   "Always medial"
+  ],
+  "a": 1,
+  "e": [
+   "The abdominal ureter gets its supply from the medial side and the pelvic ureter from the lateral side. The ureter crosses in front of the common iliac artery."
+  ],
+  "s": "Ch 109 Male pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Male anatomy",
+  "q": "Which does NOT help prevent reflux at the ureterovesical junction?",
+  "o": [
+   "Detrusor backing",
+   "Passive compression as the bladder fills",
+   "A sphincter at the ureteric orifice",
+   "Fixation to the trigone"
+  ],
+  "a": 2,
+  "e": [
+   "There is no true sphincter. The anti-reflux mechanism is a flap valve. The interureteric ridge (Mercier bar) is formed by ureteric smooth muscle."
+  ],
+  "s": "Ch 109 Male pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Male anatomy",
+  "q": "Which statement about the male striated urethral sphincter is correct?",
+  "o": [
+   "It is full of muscle spindles",
+   "It is supplied by the dorsal penile nerve",
+   "It is signet-ring shaped (2–2.5 cm), narrowing towards the prostatic apex",
+   "It is a flat sheet between two fascial layers"
+  ],
+  "a": 2,
+  "e": [
+   "Deep resection beyond (distal to) the verumontanum during TURP damages it and causes incontinence."
+  ],
+  "s": "Ch 109 Male pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Male anatomy",
+  "q": "Which statement about male genital lymph drainage is correct?",
+  "o": [
+   "Scrotal lymph crosses the midline",
+   "Bladder drains mainly to the common iliac nodes",
+   "Scrotal lymph drains to the same-side inguinal nodes only; penile lymph crosses freely to either groin",
+   "Scrotum drains to para-aortic nodes"
+  ],
+  "a": 2,
+  "e": [
+   "The testis drains to the retroperitoneum. The bladder drains mainly to the external iliac nodes, and also the obturator, internal and common iliac nodes, so all should be removed at cystectomy."
+  ],
+  "s": "Ch 109 Male pelvic anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Neurophysiology",
+  "q": "Which pairing of nerve supply and action is correct?",
+  "o": [
+   "Sympathetic (T10–L2, hypogastric): relaxes the bladder body and contracts the bladder neck and urethra",
+   "Pelvic (parasympathetic): contracts the urethra",
+   "Parasympathetic: from T11–L2",
+   "Pudendal: contracts the detrusor"
+  ],
+  "a": 0,
+  "e": [
+   "Parasympathetic nerves (S2–S4) contract the detrusor and relax the urethra (through NO). The pudendal nerve (S2–S4) contracts the external sphincter. Preganglionic transmitter at the ganglia is acetylcholine."
+  ],
+  "s": "Ch 110 Bladder and urethral physiology and pharmacology"
+ },
+ {
+  "f": "mcq",
+  "t": "Neurophysiology",
+  "q": "The micturition 'switch' in the brainstem is formed by:",
+  "o": [
+   "Cerebellum",
+   "Periaqueductal grey and the pontine micturition centre (Barrington nucleus, M region)",
+   "Hypothalamus",
+   "Sacral cord only"
+  ],
+  "a": 1,
+  "e": [
+   "It is a long-loop spinal–brainstem–spinal reflex. The prefrontal cortex and limbic areas decide whether it is socially appropriate to void."
+  ],
+  "s": "Ch 110 Bladder and urethral physiology and pharmacology"
+ },
+ {
+  "f": "mcq",
+  "t": "Pharmacology",
+  "q": "Detrusor contraction through M3 receptors works by:",
+  "o": [
+   "Opening K channels",
+   "IP3 production and release of calcium from intracellular stores (plus Rho-kinase)",
+   "Nitric oxide",
+   "cAMP rise"
+  ],
+  "a": 1,
+  "e": [
+   "M2 receptors (the most numerous) inhibit adenylyl cyclase (lowering cAMP), countering β-adrenergic relaxation. β3 (and β2) stimulation raises cAMP and relaxes the detrusor."
+  ],
+  "s": "Ch 110 Bladder and urethral physiology and pharmacology"
+ },
+ {
+  "f": "mcq",
+  "t": "Pharmacology",
+  "q": "How does onabotulinumtoxinA mainly work?",
+  "o": [
+   "Opens BK channels",
+   "Cleaves SNAP-25, blocking vesicle fusion and acetylcholine (and ATP) release from nerve endings",
+   "Blocks M3 receptors",
+   "Blocks calcium channels"
+  ],
+  "a": 1,
+  "e": [
+   "It also reduces sensory signalling from the bladder (lower ATP, substance P and TRPV1 expression)."
+  ],
+  "s": "Ch 110 Bladder and urethral physiology and pharmacology"
+ },
+ {
+  "f": "mcq",
+  "t": "Urothelium",
+  "q": "Urothelial barrier function depends mainly on:",
+  "o": [
+   "Gap junctions",
+   "The GAG layer",
+   "Uroplakins and tight junctions",
+   "TLR4"
+  ],
+  "a": 2,
+  "e": [
+   "There is no firm evidence that the GAG layer is the main barrier. The urothelium also acts as a sensor, releasing ATP, nitric oxide and acetylcholine. Uropathogenic E. coli trigger inflammation through TLR4."
+  ],
+  "s": "Ch 110 Bladder and urethral physiology and pharmacology"
+ },
+ {
+  "f": "mcq",
+  "t": "Neuromodulation",
+  "q": "How sacral neuromodulation works, according to the chapter:",
+  "o": [
+   "Blocks acetylcholine release",
+   "Activates C-fibres",
+   "Inhibits processing of sensory signals in the spinal cord by stimulating somatic afferents",
+   "Excites sympathetic fibres"
+  ],
+  "a": 2,
+  "e": [
+   "It treats refractory OAB and non-obstructive retention. Its effect is on central nervous pathways."
+  ],
+  "s": "Ch 110 Bladder and urethral physiology and pharmacology"
+ }
+]

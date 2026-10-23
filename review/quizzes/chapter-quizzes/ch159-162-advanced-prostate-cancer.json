@@ -1,0 +1,802 @@
+[
+ {
+  "f": "mcq",
+  "t": "Locally advanced",
+  "q": "High-risk prostate cancer is best identified by combining:",
+  "o": [
+   "TRUS findings alone",
+   "PSA, biopsy grade and clinical stage (plus extent of cancer on biopsy)",
+   "PSA kinetics",
+   "PSA alone"
+  ],
+  "a": 1,
+  "e": [
+   "At least 10% of new diagnoses are locally advanced. Risk tools are most accurate in low-risk disease and tend to overestimate recurrence in high-risk disease."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "Locally advanced",
+  "q": "Neoadjuvant ADT before radical prostatectomy:",
+  "o": [
+   "Improves overall survival",
+   "Reduces positive margin rates but does not improve PSA-free survival",
+   "Is standard for cT3",
+   "Reduces local recurrence"
+  ],
+  "a": 1,
+  "e": [
+   "In one study margins fell from about 50% to 15%. Four randomised trials showed no reduction in biochemical failure, so it has no routine role before surgery."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer; Ch 161"
+ },
+ {
+  "f": "mcq",
+  "t": "Locally advanced",
+  "q": "Among men having prostatectomy for clinical T3 disease, how many turn out to have organ-confined disease (overstaging)?",
+  "o": [
+   "15–30% (about 27%)",
+   "40–60%",
+   "Over 70%",
+   "Under 10%"
+  ],
+  "a": 0,
+  "e": [
+   "So selected cT3 men can still be good surgical candidates."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "Locally advanced",
+  "q": "High-dose bicalutamide (150 mg) monotherapy:",
+  "o": [
+   "Reduced progression in locally advanced disease but increased mortality in localised disease (HR about 1.23)",
+   "Improved survival in localised disease",
+   "Increases cardiac events mainly",
+   "Has no effect on sexual function"
+  ],
+  "a": 0,
+  "e": [
+   "Avoid it in low-risk localised disease."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "Locally advanced",
+  "q": "For high-risk or locally advanced disease treated with EBRT, the best-supported ADT schedule is:",
+  "o": [
+   "Neoadjuvant only",
+   "None",
+   "ADT alone",
+   "Neoadjuvant plus concurrent plus adjuvant ADT, with longer courses giving better outcomes"
+  ],
+  "a": 3,
+  "e": [
+   "RTOG and EORTC trials favour long-term ADT, usually 18–36 months. Longer ADT increases sexual dysfunction and possibly rectal toxicity."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "Adjuvant RT",
+  "q": "EORTC 22911 and SWOG 8794 showed that adjuvant radiotherapy for pT3 disease after prostatectomy improved:",
+  "o": [
+   "Nothing",
+   "Only quality of life",
+   "Local control only",
+   "Biochemical and local control, and in SWOG 8794 metastasis-free and overall survival; most benefit with positive margins"
+  ],
+  "a": 3,
+  "e": [
+   "RADICALS-RT, RAVES and GETUG-AFU 17 (2020) later showed early salvage radiotherapy is as good as adjuvant, so observation with early salvage is now preferred for most men."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer (updated)"
+ },
+ {
+  "f": "mcq",
+  "t": "Adjuvant RT",
+  "q": "Typical radiotherapy dose to the prostate bed after prostatectomy:",
+  "o": [
+   "Over 60 Gy (64 Gy or more)",
+   "Under 45 Gy",
+   "Over 80 Gy",
+   "45–50 Gy"
+  ],
+  "a": 0,
+  "e": [
+   "ASTRO and AUA recommend a minimum of 64 Gy for salvage. Higher doses (up to about 76 Gy) have been explored."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer; Ch 160"
+ },
+ {
+  "f": "mcq",
+  "t": "Node-positive",
+  "q": "Lymph node metastases found at radical prostatectomy (completed): the trial showing a survival gain with immediate ADT is:",
+  "o": [
+   "RTOG 9601",
+   "SPCG-7",
+   "EORTC 30846",
+   "Messing ECOG 3886 (all men had the prostatectomy)"
+  ],
+  "a": 3,
+  "e": [
+   "In EORTC 30846, where the prostatectomy was abandoned, immediate ADT gave no survival benefit. Radiotherapy plus ADT may be best for pN1."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer; Ch 161"
+ },
+ {
+  "f": "mcq",
+  "t": "Locally advanced",
+  "q": "Which finding after prostatectomy predicts progression despite adjuvant local therapy?",
+  "o": [
+   "Focal extraprostatic extension",
+   "Seminal vesicle invasion or positive nodes",
+   "Gleason 6",
+   "Perineural invasion"
+  ],
+  "a": 1,
+  "e": [
+   "In the Kattan postoperative nomogram, a high preoperative PSA (for example 17) contributes strongly to recurrence risk."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "Trends",
+  "q": "Over the decade covered by CaPSURE, how has treatment of high-risk (CAPRA 6–10) disease changed?",
+  "o": [
+   "More surveillance",
+   "Less primary ADT and more radical prostatectomy",
+   "More primary ADT",
+   "Less surgery"
+  ],
+  "a": 1,
+  "e": [
+   "The rates of surveillance and watchful waiting stayed stable."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "Imaging",
+  "q": "Four years after prostatectomy for pT3a Gleason 8, PSA has risen slowly to 1.2, and CT shows a mass beside the anastomosis in front of the rectum. Most likely:",
+  "o": [
+   "Node",
+   "Rectal mass",
+   "Retained seminal vesicle",
+   "Local recurrence in the prostatectomy bed"
+  ],
+  "a": 3,
+  "e": [
+   "PSMA PET or MRI would now be the preferred imaging."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "Biochemical recurrence",
+  "q": "The AUA/EAU definition of biochemical recurrence after radical prostatectomy is:",
+  "o": [
+   "Any detectable PSA",
+   "PSA 0.2 ng/mL or more, confirmed by a second value",
+   "Two values of 0.1 or more",
+   "0.4 confirmed"
+  ],
+  "a": 1,
+  "e": [
+   "After radiotherapy, Phoenix failure is the nadir plus 2 ng/mL."
+  ],
+  "s": "Ch 160 Biochemical recurrence"
+ },
+ {
+  "f": "mcq",
+  "t": "Biochemical recurrence",
+  "q": "Per this chapter, the most sensitive imaging for local recurrence at low PSA after prostatectomy is mpMRI. Today the preferred test is:",
+  "o": [
+   "ProstaScint",
+   "Bone scan",
+   "PSMA PET-CT",
+   "CT"
+  ],
+  "a": 2,
+  "e": [
+   "The chapter quotes MRI sensitivity up to 86% at PSA 0.4–1.4. PSMA PET detects recurrence even below 0.5 ng/mL and is now guideline-preferred. CT and bone scan add little below a PSA of 10."
+  ],
+  "s": "Ch 160 Biochemical recurrence (updated)"
+ },
+ {
+  "f": "mcq",
+  "t": "Salvage",
+  "q": "Which is NOT required before salvage prostatectomy after radiotherapy?",
+  "o": [
+   "Separate negative pelvic lymph node sampling",
+   "Biopsy-proven local recurrence",
+   "Life expectancy of at least 10 years",
+   "Negative metastatic workup"
+  ],
+  "a": 0,
+  "e": [
+   "Ideally the PSA is below 10. Frozen-section nodes at surgery are reasonable but not mandatory."
+  ],
+  "s": "Ch 160 Biochemical recurrence"
+ },
+ {
+  "f": "mcq",
+  "t": "Salvage",
+  "q": "The most sensitive imaging for local recurrence after radiotherapy (per chapter) is:",
+  "o": [
+   "Multiparametric MRI (DWI/DCE)",
+   "DRE",
+   "CT",
+   "TRUS"
+  ],
+  "a": 0,
+  "e": [
+   "TRUS is no better than DRE, and CT is of no use at PSA below 20. A biopsy after radiotherapy can be interpreted about 30 months after treatment."
+  ],
+  "s": "Ch 160 Biochemical recurrence"
+ },
+ {
+  "f": "mcq",
+  "t": "Biochemical recurrence",
+  "q": "The best approach to a rising PSA after definitive local therapy is:",
+  "o": [
+   "Stratify by Gleason score, PSA doubling time, time to recurrence and competing mortality, then match the treatment",
+   "Chemotherapy",
+   "Start ADT in all",
+   "Salvage local therapy in all"
+  ],
+  "a": 0,
+  "e": [
+   "Biochemical recurrence after surgery often progresses slowly. The median time to bone metastases is about 10 years."
+  ],
+  "s": "Ch 160 Biochemical recurrence"
+ },
+ {
+  "f": "mcq",
+  "t": "Salvage RT",
+  "q": "Which statement about salvage radiotherapy is correct?",
+  "o": [
+   "Only after PSA exceeds 2",
+   "Offer it to men with non-metastatic rising PSA after prostatectomy, and consider ADT with it, especially for high-risk features",
+   "Dose 45 Gy",
+   "Never combine with ADT"
+  ],
+  "a": 1,
+  "e": [
+   "RTOG 9601 (bicalutamide) and GETUG-AFU 16 support adding ADT to salvage radiotherapy."
+  ],
+  "s": "Ch 160 Biochemical recurrence"
+ },
+ {
+  "f": "mcq",
+  "t": "ADT toxicity",
+  "q": "Which is NOT a recognised side effect of ADT?",
+  "o": [
+   "Bone loss",
+   "Mania",
+   "Hot flushes",
+   "Fatigue"
+  ],
+  "a": 1,
+  "e": [
+   "Others include anaemia, cognitive change, sarcopenia, diabetes and cardiovascular risk."
+  ],
+  "s": "Ch 160 Biochemical recurrence; Ch 161"
+ },
+ {
+  "f": "mcq",
+  "t": "Biochemical recurrence",
+  "q": "A transient rise in PSA after local therapy should prompt:",
+  "o": [
+   "Close monitoring, because not all men progress to biochemical or clinical failure",
+   "Chemotherapy",
+   "Immediate ADT",
+   "Salvage surgery"
+  ],
+  "a": 0,
+  "e": [
+   "After brachytherapy, PSA bounces are common."
+  ],
+  "s": "Ch 160 Biochemical recurrence"
+ },
+ {
+  "f": "mcq",
+  "t": "Hormone therapy",
+  "q": "Oestrogens (such as DES) work in prostate cancer mainly by:",
+  "o": [
+   "Negative feedback suppressing pituitary LH",
+   "Direct cytotoxicity",
+   "Binding the androgen receptor",
+   "Inhibiting cholesterol side-chain cleavage"
+  ],
+  "a": 0,
+  "e": [
+   "Oestradiol suppresses LH and FSH about 1000 times more potently than testosterone. Aminoglutethimide blocks the cholesterol-to-pregnenolone step."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Hormone therapy",
+  "q": "Starting a non-steroidal antiandrogen (bicalutamide or flutamide) as monotherapy causes:",
+  "o": [
+   "LH rises, testosterone falls",
+   "No hormonal change",
+   "LH, testosterone and oestrogen all fall",
+   "LH, testosterone and oestrogen all rise"
+  ],
+  "a": 3,
+  "e": [
+   "Central feedback is blocked. The extra testosterone is converted to oestrogen, causing gynaecomastia and breast pain. Steroidal cyproterone instead lowers LH."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Hormone therapy",
+  "q": "Which side-effect pairing is correct?",
+  "o": [
+   "Nilutamide: delayed dark adaptation (about 25%) and interstitial pneumonitis (about 1%)",
+   "Bicalutamide: night-blindness",
+   "Cyproterone: diarrhoea",
+   "Flutamide: pancreatitis"
+  ],
+  "a": 0,
+  "e": [
+   "Flutamide causes diarrhoea. All non-steroidal antiandrogens can cause liver toxicity, so check liver function. Cyproterone causes fluid retention and thromboembolism."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Hormone therapy",
+  "q": "LHRH agonists lower testosterone by:",
+  "o": [
+   "Blocking 5α-reductase",
+   "Desensitising pituitary LHRH receptors after continuous exposure (after an initial flare)",
+   "Blocking the androgen receptor",
+   "Destroying Leydig cells"
+  ],
+  "a": 1,
+  "e": [
+   "The flare lasts 10–20 days. Give an antiandrogen at the same time and continue it for about 3 weeks. They are modified at amino-acid position 6 for potency, and survival equals orchidectomy."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Hormone therapy",
+  "q": "How quickly does bilateral orchidectomy lower testosterone?",
+  "o": [
+   "Gradually over 3 months",
+   "About 90% within 24 hours",
+   "50% in 1 week",
+   "Only after 1 month"
+  ],
+  "a": 1,
+  "e": [
+   "When tying the cord, use double ligation including one transfixion suture."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "ADT response",
+  "q": "Which predicts a POOR response to ADT?",
+  "o": [
+   "Rapid PSA fall",
+   "Long PSA doubling time before ADT",
+   "PSA still detectable on ADT (about 15-fold higher odds of castration resistance at 24 months)",
+   "Deep PSA fall"
+  ],
+  "a": 2,
+  "e": [
+   "Higher Gleason score also predicts earlier castration resistance."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "ADT toxicity",
+  "q": "Which statement on ADT side effects is correct?",
+  "o": [
+   "Weight gain is muscle",
+   "Hot flushes affect only 25%",
+   "About 1 in 5 men keep some sexual activity, but only about 1 in 20 keep a strong libido",
+   "Osteopenia takes 10 years"
+  ],
+  "a": 2,
+  "e": [
+   "The average man becomes osteopenic within about 4 years. Hot flushes affect 50–80%. Radiotherapy (10 Gy) prevents gynaecomastia only if given before it starts."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "ADT toxicity",
+  "q": "Bothersome hot flushes on ADT can be treated with:",
+  "o": [
+   "Finasteride",
+   "Bicalutamide",
+   "Megestrol, medroxyprogesterone, cyproterone, low-dose oestrogen or gabapentin",
+   "Testosterone"
+  ],
+  "a": 2,
+  "e": [
+   "Treat hot flushes only if they bother the patient."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Combined blockade",
+  "q": "Combined androgen blockade (LHRH agonist plus antiandrogen):",
+  "o": [
+   "Has no survival effect ever",
+   "Is the same as secondary hormone therapy",
+   "Aims to block adrenal androgens; gives a small survival gain with non-steroidal agents, but slightly worse outcomes with cyproterone",
+   "Targets residual testicular androgens"
+  ],
+  "a": 2,
+  "e": [
+   "Adding flutamide to orchidectomy gave no significant benefit in minimal metastatic disease (the NCI trial)."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Timing of ADT",
+  "q": "Early ADT, compared with deferred ADT, before metastases appear:",
+  "o": [
+   "Has equal quality of life",
+   "Does not prevent castration resistance, and in low-risk localised disease increases overall mortality",
+   "Improves survival in all disease states",
+   "Is needed for every rise in PSA"
+  ],
+  "a": 1,
+  "e": [
+   "Many men never need ADT because the disease progresses slowly."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Intermittent ADT",
+  "q": "In the PR.7 trial (intermittent vs continuous ADT for rising PSA after radiotherapy):",
+  "o": [
+   "No QoL benefit",
+   "Intermittent ADT was better for survival",
+   "No attrition",
+   "Off-treatment intervals shortened with each cycle (20 to 13 to 9 months) and quality of life improved; overall survival was non-inferior"
+  ],
+  "a": 3,
+  "e": [
+   "There were more prostate-cancer deaths in the intermittent arm and more deaths from other causes in the continuous arm."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Cost",
+  "q": "Which form of ADT is the cheapest?",
+  "o": [
+   "Scrotal orchidectomy",
+   "LHRH antagonist",
+   "Diethylstilbestrol 1–3 mg/day",
+   "LHRH agonist"
+  ],
+  "a": 2,
+  "e": [
+   "Combined androgen blockade is the most expensive. An LHRH agonist is cheaper than orchidectomy only if the patient lives a few months."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Indications",
+  "q": "ADT is always indicated in a hormonally intact man with:",
+  "o": [
+   "Localised disease declining local treatment",
+   "cT2 before prostatectomy",
+   "Any EBRT",
+   "Symptomatic metastatic disease"
+  ],
+  "a": 3,
+  "e": [
+   "ADT is not indicated for high-grade PIN. For metastatic hormone-sensitive disease, ADT is now intensified with an ARPI and/or docetaxel (LATITUDE, TITAN, ARCHES, ARASENS)."
+  ],
+  "s": "Ch 161 Hormonal therapy (updated)"
+ },
+ {
+  "f": "mcq",
+  "t": "Steroid synthesis",
+  "q": "Which steroid synthesis inhibitor needs both glucocorticoid and mineralocorticoid replacement?",
+  "o": [
+   "Aminoglutethimide",
+   "Enzalutamide",
+   "Abiraterone",
+   "Ketoconazole"
+  ],
+  "a": 0,
+  "e": [
+   "Abiraterone needs prednisone because it causes mineralocorticoid excess (hypertension, hypokalaemia, fluid retention)."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Castration resistance",
+  "q": "Why is ADT continued after a man becomes castration-resistant?",
+  "o": [
+   "Because of the cost",
+   "It is not continued",
+   "To prevent flare",
+   "Because the androgen receptor stays active and responsive even at castrate testosterone levels"
+  ],
+  "a": 3,
+  "e": [
+   "Mechanisms include receptor amplification, mutations, splice variants and androgen production within the tumour. Castration-resistant is not the same as hormone-insensitive."
+  ],
+  "s": "Ch 161 Hormonal therapy; Ch 162"
+ },
+ {
+  "f": "mcq",
+  "t": "Antiandrogen withdrawal",
+  "q": "Stopping a non-steroidal antiandrogen in a man on combined blockade whose PSA is rising can:",
+  "o": [
+   "Cause a flare",
+   "Never help",
+   "Produce a PSA decline (antiandrogen withdrawal response) because antiandrogens can act as agonists",
+   "Cause adrenal crisis"
+  ],
+  "a": 2,
+  "e": [
+   "Mutant androgen receptors can be stimulated by the antiandrogen itself."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Metastatic deaths",
+  "q": "About what proportion of men with metastatic prostate cancer die of other causes?",
+  "o": [
+   "20%",
+   "50%",
+   "80%",
+   "1%"
+  ],
+  "a": 0,
+  "e": [
+   "This is why weighing competing risks matters even in advanced disease."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "Hormone therapy",
+  "q": "Compared with LHRH agonists, LHRH (GnRH) antagonists:",
+  "o": [
+   "Do not lower testosterone",
+   "Lower LH and testosterone at once without a flare; the early antagonist abarelix was limited by severe allergic reactions",
+   "Are taken by mouth only",
+   "Cause a bigger testosterone flare"
+  ],
+  "a": 1,
+  "e": [
+   "Degarelix (injection) and relugolix (oral; HERO trial) are current antagonists. All agonists are given by injection or implant."
+  ],
+  "s": "Ch 161 Hormonal therapy"
+ },
+ {
+  "f": "mcq",
+  "t": "CRPC",
+  "q": "Castrate-level testosterone is defined as below:",
+  "o": [
+   "300 ng/dL",
+   "10 ng/dL",
+   "50 ng/dL",
+   "150 ng/dL"
+  ],
+  "a": 2,
+  "e": [
+   "Most modern assays and LHRH analogues achieve below 20 ng/dL. Castration resistance needs PSA or radiographic progression despite castrate testosterone."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "CRPC",
+  "q": "Docetaxel for mCRPC:",
+  "o": [
+   "Is given weekly without steroids",
+   "Is given every 3 weeks with prednisone, and improved survival and quality of life vs mitoxantrone (TAX 327)",
+   "Benefits only fit young men",
+   "Should be stopped if PSA rises during the first 3 cycles"
+  ],
+  "a": 1,
+  "e": [
+   "Do not stop it for an early PSA rise (flare). Side effects: neutropenia, fatigue, neuropathy, watery eyes and nail changes."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "CRPC",
+  "q": "Cabazitaxel (TROPIC trial):",
+  "o": [
+   "Improved survival vs mitoxantrone after docetaxel; more neutropenic fever and diarrhoea, less neuropathy",
+   "Was compared with placebo",
+   "Is first-line",
+   "Is inactive in docetaxel-resistant tumours"
+  ],
+  "a": 0,
+  "e": [
+   "CARD (2019) later showed cabazitaxel beats a second ARPI after docetaxel plus one ARPI."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "CRPC",
+  "q": "Abiraterone acts by:",
+  "o": [
+   "Androgen receptor antagonism",
+   "5α-reductase inhibition",
+   "LHRH antagonism",
+   "CYP17 (17α-hydroxylase/17,20-lyase) inhibition, blocking adrenal and tumour androgen synthesis; given with prednisone"
+  ],
+  "a": 3,
+  "e": [
+   "Watch for hypertension, hypokalaemia, oedema and liver toxicity. It improved survival before docetaxel (COU-AA-302) and after it (COU-AA-301)."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "CRPC",
+  "q": "Compared with bicalutamide, enzalutamide:",
+  "o": [
+   "Is a steroid",
+   "Has higher androgen receptor affinity and also blocks nuclear translocation and DNA binding",
+   "Requires prednisone",
+   "Has weaker receptor affinity"
+  ],
+  "a": 1,
+  "e": [
+   "Survival benefit in AFFIRM (after docetaxel) and PREVAIL (before docetaxel). Seizure risk is a recognised side effect."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "CRPC",
+  "q": "A man with known bone metastases develops new back pain. Correct management:",
+  "o": [
+   "Rely on a stable bone scan",
+   "Suspect cord or root compression: high-dose dexamethasone, urgent whole-spine MRI, then radiotherapy or surgical decompression",
+   "Opioids and hospice",
+   "Systemic therapy alone"
+  ],
+  "a": 1,
+  "e": [
+   "If he is not already on ADT, orchidectomy (or ketoconazole with steroids) gives rapid castration."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "CRPC",
+  "q": "A man with rapidly progressing visceral disease and low PSA on ADT should have:",
+  "o": [
+   "Observation",
+   "More hormone therapy",
+   "A biopsy to look for neuroendocrine or small-cell transformation; if confirmed, platinum-based chemotherapy",
+   "Radium-223"
+  ],
+  "a": 2,
+  "e": [
+   "These tumours are AR-negative, PSA-negative and stain for neuroendocrine markers, and often spread to viscera and brain."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "Radium-223",
+  "q": "Which statement about radium-223 is FALSE?",
+  "o": [
+   "ALSYMPCA showed a survival benefit",
+   "It is an alpha emitter with a range under 100 μm",
+   "It has low haematological toxicity",
+   "It is approved only after docetaxel"
+  ],
+  "a": 3,
+  "e": [
+   "It is approved for symptomatic bone-predominant mCRPC without visceral metastases, with or without prior docetaxel. Do not combine it with abiraterone (ERA 223 showed more fractures)."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "Immunotherapy",
+  "q": "Sipuleucel-T:",
+  "o": [
+   "Is an autologous cell vaccine (antigen-presenting cells primed with PAP–GM-CSF) for asymptomatic or minimally symptomatic mCRPC; improved overall survival without changing PSA or progression-free survival",
+   "Relieves pain",
+   "Gives rapid PSA responses",
+   "Is for M0 CRPC"
+  ],
+  "a": 0,
+  "e": [
+   "It was approved on overall survival (IMPACT trial). Monitoring PSA does not show whether it is working."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "M0 CRPC",
+  "q": "Which drug is NOT approved for non-metastatic (M0) CRPC?",
+  "o": [
+   "Abiraterone",
+   "Apalutamide (SPARTAN)",
+   "Enzalutamide (PROSPER)",
+   "Darolutamide (ARAMIS)"
+  ],
+  "a": 0,
+  "e": [
+   "The 2020 review names only apalutamide and enzalutamide. Darolutamide was also approved in 2019. All three improved metastasis-free and overall survival."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer (updated)"
+ },
+ {
+  "f": "mcq",
+  "t": "Bone health",
+  "q": "Skeletal-related events in mCRPC are reduced with:",
+  "o": [
+   "Prednisone",
+   "Zoledronic acid or denosumab, with calcium and vitamin D",
+   "Calcium alone",
+   "Strontium-89 alone"
+  ],
+  "a": 1,
+  "e": [
+   "Check dental health first because of the risk of osteonecrosis of the jaw. Prostate bone metastases are usually sclerotic, so hypercalcaemia is rare."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "CRPC",
+  "q": "A PSA doubling time below which value predicts a rapid clinical course in CRPC?",
+  "o": [
+   "5 years",
+   "12 months",
+   "3 months",
+   "24 months"
+  ],
+  "a": 2,
+  "e": [
+   "PSA is a poor marker of drug benefit, so progression-free survival is the better trial end point. Circulating tumour cells are being studied as a marker."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ },
+ {
+  "f": "mcq",
+  "t": "CRPC",
+  "q": "Beta-emitting bone-seeking agents (strontium-89, samarium-153) differ from radium-223 because they:",
+  "o": [
+   "Cause more bone marrow suppression and give pain relief only, without a proven survival gain",
+   "Target PSMA",
+   "Are alpha emitters",
+   "Improve survival"
+  ],
+  "a": 0,
+  "e": [
+   "Alpha particles are about 7000 times heavier than beta particles, and one or two hits can kill a cell."
+  ],
+  "s": "Ch 162 Castration-resistant prostate cancer"
+ }
+]

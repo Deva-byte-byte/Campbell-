@@ -1,0 +1,314 @@
+<title>Mixed Urology Quiz</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one exam card at a time, narrow reading column, progress strip on top */
+:root {
+  --bg: #f3f5f6; --surface: #ffffff; --ink: #18232b; --muted: #5b6a74; --line: #d6dde1;
+  --accent: #1f5f7a; --accent-soft: #e2eef3;
+  --warn: #a8660b; --ok: #1d7a4c; --ok-soft: #e3f3ea; --bad: #b3352b; --bad-soft: #f8e4e1;
+  --f-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; padding: 0 16px; }
+.wrap { max-width: 720px; margin: 0 auto; padding-block: 28px 48px; display: grid; gap: 20px; }
+header { display: grid; gap: 6px; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(26px, 5vw, 34px); line-height: 1.15; margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; font-size: 15px; }
+
+.strip { display: grid; grid-template-columns: repeat(25, 1fr); gap: 3px; }
+.pip { height: 8px; border-radius: 2px; background: var(--line); border: 0; padding: 0; cursor: pointer; }
+.pip.ok { background: var(--ok); } .pip.bad { background: var(--bad); }
+.pip.cur { outline: 2px solid var(--accent); outline-offset: 2px; }
+.meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-family: var(--f-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 24px; display: grid; gap: 18px; }
+.qhead { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.qno { font-family: var(--f-mono); font-size: 13px; color: var(--accent); }
+.tag { font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); padding: 2px 8px; border-radius: 4px; }
+.stem { font-family: var(--f-display); font-size: 21px; line-height: 1.4; font-weight: 500; margin: 0; }
+.opts { display: grid; gap: 10px; }
+.opt { display: grid; grid-template-columns: 28px 1fr; gap: 12px; align-items: start; text-align: left; width: 100%;
+  font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; cursor: pointer; }
+.opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:focus-visible, .btn:focus-visible, .pip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.opt .k { font-family: var(--f-mono); font-size: 13px; width: 28px; height: 28px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--muted); }
+.opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.opt.sel .k { border-color: var(--accent); color: var(--accent); }
+.opt.right { border-color: var(--ok); background: var(--ok-soft); }
+.opt.right .k { border-color: var(--ok); color: var(--ok); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.opt.wrong .k { border-color: var(--bad); color: var(--bad); }
+.opt:disabled { cursor: default; }
+
+.verdict { font-weight: 600; }
+.verdict.ok { color: var(--ok); } .verdict.bad { color: var(--bad); }
+.explain { border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 10px; }
+.explain p, .explain ul { margin: 0; }
+.explain ul { padding-left: 20px; display: grid; gap: 4px; }
+.src { font-size: 13px; color: var(--muted); }
+
+.actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+.btn { font: inherit; font-weight: 600; border-radius: 8px; padding: 10px 18px; cursor: pointer; border: 1px solid var(--accent); }
+.btn.primary { background: var(--accent); color: var(--surface); }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:disabled { opacity: .45; cursor: default; }
+.hint { font-size: 13px; color: var(--muted); }
+
+.result { display: grid; gap: 14px; }
+.score { font-family: var(--f-display); font-size: 44px; font-weight: 600; line-height: 1; font-variant-numeric: tabular-nums; }
+.review { display: grid; gap: 6px; padding: 0; margin: 0; list-style: none; }
+.review li { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 15px; min-width: 0; }
+.review .n { font-family: var(--f-mono); font-size: 13px; color: var(--muted); }
+.review .s { font-family: var(--f-mono); font-size: 13px; font-weight: 500; }
+.review .s.ok { color: var(--ok); } .review .s.bad { color: var(--bad); }
+.review button { font: inherit; color: var(--ink); background: none; border: 0; padding: 0; text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.pip.part { background: var(--warn); } .pip.pend { background: var(--accent); opacity: .5; }
+.fig { margin: 0; display: grid; gap: 6px; overflow-x: auto; }
+.fig svg { width: 100%; min-width: 320px; height: auto; display: block; }
+.fig .grid line { stroke: var(--line); stroke-width: 1; }
+.fig .ax line { stroke: var(--muted); stroke-width: 1.5; }
+.fig .lbl, .fig text { fill: var(--muted); font-family: var(--f-mono); font-size: 12px; }
+.fig .trace { fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; }
+.fig .trace.dash { stroke-dasharray: 7 5; }
+.fig .mark { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 4; }
+.fig figcaption { font-size: 13px; color: var(--muted); }
+textarea { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px; width: 100%; resize: vertical; min-height: 140px; }
+textarea:focus-visible, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mine { display: grid; gap: 6px; } .mine p { margin: 0; white-space: pre-wrap; background: var(--bg); border-radius: 8px; padding: 12px; }
+.selfmark { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font: inherit; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.chip.on { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.review .s.part { color: var(--warn); }
+@media (max-width: 480px) { .card { padding: 18px; } .stem { font-size: 19px; } }
+@media (prefers-reduced-motion: no-preference) { .opt { transition: border-color .12s, background-color .12s; } }
+.line { font: inherit; font-size: 17px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; width: 100%; }
+.line:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.model { font-family: var(--f-display); font-size: 19px; line-height: 1.4; margin: 0; }
+.also { font-size: 14px; color: var(--muted); margin: 0; }
+.match { font-size: 13px; font-weight: 600; }
+.match.ok { color: var(--ok); } .match.no { color: var(--muted); }
+.fig .tagl { fill: var(--accent); font-size: 14px; font-weight: 600; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">MCh Urology · Practice set 3 · Mixed</div>
+    <h1>Mixed quiz: 25 questions</h1>
+    <p class="sub">MCQs, two urodynamic traces, written answers, one-line trial questions, Indian contributions and world trivia, in one sequence. MCQs mark themselves; for written and one-line answers, compare with the model and mark yourself.</p>
+  </header>
+  <div><div class="strip" id="strip" aria-label="Question progress"></div></div>
+  <div class="meta"><span id="pos"></span><span id="tally"></span></div>
+  <main id="stage"></main>
+</div>
+<script>
+const Q = [
+// ---- MCQ
+{ f:"mcq", t:"Bladder cancer", q:"Which case meets the definition of BCG-unresponsive NMIBC (non-muscle-invasive bladder cancer), as used for trials of new agents?",
+  o:["Recurrence of low-grade Ta tumour 18 months after BCG","Persistent or recurrent CIS within 12 months of adequate BCG","Any recurrence after the first 3 induction instillations","High-grade T1 recurrence 3 years after completing maintenance"], a:1,
+  e:["BCG (bacillus Calmette-Guérin)-unresponsive disease means one of three things after adequate BCG: persistent or recurrent CIS (carcinoma in situ) within 12 months; recurrent high-grade Ta/T1 within 6 months; or high-grade T1 at the first 3-month evaluation.",
+     "'Adequate' BCG means at least 5 of 6 induction doses plus at least 2 further doses (maintenance or a second induction)."], s:"Ch 129 Bladder tumours; FDA/IBCG definition" },
+{ f:"mcq", t:"Testis cancer", q:"What are the serum half-lives of AFP (alpha-fetoprotein) and hCG (human chorionic gonadotropin)?",
+  o:["AFP 24–36 hours; hCG 5–7 days","AFP 5–7 days; hCG 24–36 hours","Both about 3 days","AFP 14 days; hCG 7 days"], a:1,
+  e:["AFP: 5–7 days. hCG: 24–36 hours.",
+     "Markers that stay high after orchidectomy, or fall more slowly than these half-lives predict, suggest residual disease. Measure markers before orchidectomy and again before chemotherapy for IGCCCG (International Germ Cell Cancer Collaborative Group) risk grouping."], s:"Testicular tumours chapter" },
+{ f:"mcq", t:"Paediatric urology", q:"In a child with myelodysplasia, which detrusor leak point pressure predicts upper-tract deterioration?",
+  o:["Above 20 cmH₂O","Above 40 cmH₂O","Above 60 cmH₂O","Above 80 cmH₂O"], a:1,
+  e:["McGuire (1981): a detrusor leak point pressure above 40 cmH₂O carried a high risk of hydronephrosis and reflux.",
+     "Management: clean intermittent catheterisation and antimuscarinics from early life to keep storage pressures low. Augmentation is used if these fail."], s:"Neurogenic bladder in children chapter" },
+{ f:"mcq", t:"Infection", q:"In the Huang–Tseng CT classification of emphysematous pyelonephritis, gas extending into the pararenal space is class:",
+  o:["Class 2","Class 3A","Class 3B","Class 4"], a:2,
+  e:["Class 1: gas in the collecting system only (emphysematous pyelitis). Class 2: gas in the renal parenchyma only. Class 3A: extends to the perinephric space. Class 3B: extends to the pararenal space. Class 4: bilateral disease or a solitary kidney.",
+     "Most cases are treated with antibiotics plus percutaneous drainage. Nephrectomy is kept for failure or extensive disease with poor prognostic factors (thrombocytopenia, acute kidney injury, altered sensorium, shock)."], s:"Upper urinary tract infections chapter" },
+{ f:"mcq", t:"Paediatric urology", q:"What is the recommended timing of orchidopexy for a congenital undescended testis (AUA/EAU)?",
+  o:["Before 6 months","Between 6 and 18 months","Between 2 and 4 years","Just before puberty"], a:1,
+  e:["Spontaneous descent is unlikely after about 6 months (corrected age). The AUA advises surgery within the next year, by 18 months, and the EAU advises before 12 months, at the latest by 18 months.",
+     "Early orchidopexy improves germ-cell development and may reduce cancer risk, and it makes the testis easier to examine. Hormonal therapy is not recommended to induce descent."], s:"Cryptorchidism chapter" },
+{ f:"mcq", t:"Neuromodulation", q:"Sacral neuromodulation for refractory OAB (overactive bladder) or non-obstructive retention usually stimulates which root, and what counts as a successful test phase?",
+  o:["S2; any improvement","S3; at least 50% improvement in key voiding-diary symptoms","S4; complete dryness","L5; 30% improvement"], a:1,
+  e:["The lead goes through the S3 foramen. Motor responses: bellows contraction of the perineum and plantar flexion of the great toe.",
+     "Implant the device if the key diary measures improve by 50% or more in the test phase. Percutaneous tibial nerve stimulation (PTNS) is a less invasive option."], s:"Ch 110 Overactive bladder; neuromodulation chapter" },
+{ f:"mcq", t:"Nuclear imaging", q:"Tc-99m DMSA (dimercaptosuccinic acid) gives static cortical images because it binds to:",
+  o:["The glomerular basement membrane, being freely filtered","Proximal convoluted tubular cells","Collecting-duct principal cells","The loop of Henle"], a:1,
+  e:["DMSA is taken up and held by proximal tubular cells, so it shows functioning cortex. It is the gold standard for renal scarring and acute pyelonephritis, and it gives split function.",
+     "DTPA (diethylenetriamine pentaacetic acid) is filtered and measures GFR (glomerular filtration rate). MAG3 (mercaptoacetyltriglycine) is secreted by the tubules and is preferred for diuretic renography, especially in infants and in renal impairment."], s:"Imaging chapter" },
+// ---- Image
+{ f:"mcq", t:"Image · Cystometry", img:"cmg", q:"In this filling cystometrogram, what do the waves marked B represent?",
+  o:["Cough artefacts","Rectal contractions","Phasic detrusor overactivity","Low bladder compliance"], a:2,
+  e:["At B, Pves (vesical pressure) and Pdet (detrusor pressure) rise together while Pabd (abdominal pressure) stays flat. These are involuntary detrusor contractions during filling: phasic detrusor overactivity.",
+     "A is a cough: Pves and Pabd rise equally and Pdet is unchanged, which confirms good transmission.",
+     "A rectal contraction raises Pabd alone, so Pdet dips (a negative deflection). Low compliance shows as a slow, steady rise in Pdet, not waves."], s:"Ch 107 Urodynamics" },
+{ f:"mcq", t:"Image · Compliance", img:"comp", q:"In this filling trace from a man with a spinal cord injury, Pdet rises from 5 to 45 cmH₂O over 300 mL. What is his bladder compliance?",
+  o:["7.5 mL/cmH₂O: low","30 mL/cmH₂O: borderline","60 mL/cmH₂O: normal","75 mL/cmH₂O: normal"], a:0,
+  e:["Compliance = change in volume ÷ change in detrusor pressure = 300 ÷ (45 − 5) = 7.5 mL/cmH₂O.",
+     "Values below about 10–20 mL/cmH₂O are clearly abnormal. Storage pressures above 40 cmH₂O threaten the upper tracts.",
+     "Fill slowly in neurogenic patients, because fast filling can make compliance look falsely low."], s:"Ch 107 Urodynamics" },
+// ---- Written
+{ f:"text", t:"Written · Stones", q:"Describe the Guy's stone score grades for PCNL (percutaneous nephrolithotomy).",
+  m:["Grade I: a solitary stone in the mid or lower pole, or a solitary stone in the pelvis, with simple anatomy.",
+     "Grade II: a solitary stone in the upper pole; or multiple stones with simple anatomy; or a solitary stone with abnormal anatomy.",
+     "Grade III: multiple stones with abnormal anatomy; or a stone in a calyceal diverticulum; or a partial staghorn calculus.",
+     "Grade IV: a complete staghorn calculus; or any stone in a patient with spina bifida or spinal cord injury.",
+     "A higher grade predicts a lower stone-free rate. Other scores: S.T.O.N.E. nephrolithometry and CROES nomogram."], s:"PCNL chapter" },
+{ f:"text", t:"Written · Upper tract", q:"Describe the Whitaker test: method and interpretation.",
+  m:["Method: percutaneous nephrostomy into the renal pelvis plus a urethral catheter. Perfuse the pelvis at 10 mL/min and measure renal pelvic pressure and bladder pressure.",
+     "Interpretation (pelvic minus bladder pressure): below 15 cmH₂O, no obstruction; 15–22 cmH₂O, equivocal; above 22 cmH₂O, obstruction.",
+     "Use: when the diuretic renogram is equivocal, especially in a dilated system with poor function. It is invasive and now rarely used."], s:"Upper urinary tract obstruction chapter" },
+{ f:"text", t:"Written · BPH", q:"List the absolute indications for surgery in BPH (benign prostatic hyperplasia).",
+  m:["Refractory urinary retention: at least one failed trial without catheter.",
+     "Recurrent urinary tract infection caused by BPH.",
+     "Recurrent gross haematuria from the prostate, not controlled by 5-alpha-reductase inhibitors.",
+     "Bladder stones.",
+     "Renal insufficiency (upper-tract dilatation) caused by BPH.",
+     "Also: large bladder diverticula with poor emptying, and failed or unwanted medical therapy (a relative indication)."], s:"Ch 150 BPH; AUA/EAU guidelines" },
+// ---- One-line: trials
+{ f:"line", t:"One line · Trials", q:"What did STAMPEDE arm H show?", a:"Radiotherapy to the prostate improved overall survival in low-volume metastatic hormone-sensitive prostate cancer, but not in high-volume disease.", x:"Parker, Lancet 2018. Low volume was defined by CHAARTED criteria. PEACE-1 supported this result.", k:["low volume","low-volume","radiotherapy","rt"] },
+{ f:"line", t:"One line · Trials", q:"What did PEACE-1 show?", a:"Adding abiraterone to ADT (androgen deprivation therapy) plus docetaxel improved overall survival in de novo metastatic hormone-sensitive prostate cancer.", x:"A 2×2 design that also tested prostate radiotherapy. This and ARASENS established triplet therapy.", k:["abiraterone","triplet"] },
+{ f:"line", t:"One line · Trials", q:"What is the CLEAR trial regimen for first-line advanced RCC (renal cell carcinoma)?", a:"Lenvatinib plus pembrolizumab, better than sunitinib for progression-free and overall survival.", x:"Other first-line IO (immuno-oncology) combinations: nivolumab + ipilimumab (CheckMate 214), pembrolizumab + axitinib (KEYNOTE-426), nivolumab + cabozantinib (CheckMate 9ER).", k:["lenvatinib"] },
+{ f:"line", t:"One line · Trials", q:"What did KEYNOTE-057 test?", a:"Pembrolizumab in BCG-unresponsive CIS NMIBC: complete response about 41%.", x:"It led to FDA approval in 2020 for patients unfit for or declining cystectomy.", k:["pembrolizumab","pembro"] },
+{ f:"line", t:"One line · Trials", q:"What did the TOMUS trial compare and find?", a:"Retropubic (TVT) versus transobturator (TOT) mid-urethral slings: equivalent objective success at 12 months.", x:"TVT had more voiding dysfunction. TOT had more neurological symptoms (groin and thigh pain or numbness).", k:["tot","transobturator","retropubic","tvt"] },
+// ---- India
+{ f:"line", t:"India · Contribution", q:"What is the Gaur balloon?", a:"A balloon (originally a glove finger tied over a catheter) used to create the retroperitoneal working space for retroperitoneoscopy, described by D. D. Gaur of Mumbai in 1992.", x:"It made retroperitoneal laparoscopic surgery (nephrectomy, pyelolithotomy, adrenalectomy) practical. Commercial balloon dissectors are based on it. Your chapter notes mention the 'self-styled (Gaur) dilator'.", k:["retroperitone","balloon"] },
+{ f:"line", t:"India · Contribution", q:"Which ancient Indian surgeon described perineal lithotomy for bladder stones, and in which text?", a:"Sushruta, in the Sushruta Samhita.", x:"He described a lateral perineal approach. This tradition is why Sushruta is called the 'father of surgery'.", k:["sushruta","susruta"] },
+{ f:"line", t:"India · Contribution", q:"Ultra-mini PCNL (UMP, 11–13 Fr sheath) was introduced by which Indian urologist?", a:"Janak Desai (Ahmedabad), 2013.", x:"Do not confuse it with mini-PCNL (Jackman, USA), micro-PCNL (the 4.85 Fr 'all-seeing needle', Bader 2011, with early series from Mahesh Desai's group at Nadiad), or super-mini PCNL (Zeng, China, a suction sheath).", k:["janak","desai"] },
+{ f:"line", t:"India · Disease", q:"Filarial chyluria: what is the cause, and what is the first-line treatment if diet fails?", a:"Wuchereria bancrofti causes a lymphatic–pyelocalyceal fistula; if diet fails, give endoscopic pelvic instillation sclerotherapy (for example povidone-iodine or silver nitrate).", x:"First line is a low-fat diet with medium-chain triglycerides plus DEC (diethylcarbamazine). Surgery (laparoscopic renal hilar lymphatic disconnection) is for refractory cases. The vector in urban India is the Culex mosquito.", k:["sclero","povidone","silver nitrate","instillation"] },
+{ f:"line", t:"India · USI", q:"What is the official journal of the Urological Society of India (USI)?", a:"Indian Journal of Urology (IJU).", x:"USI also runs the annual USICON conference and regional zonal societies.", k:["indian journal of urology","iju"] },
+// ---- World trivia
+{ f:"line", t:"World · History", q:"Who first used extracorporeal shock wave lithotripsy clinically, where, and when?", a:"Christian Chaussy, Munich, 1980, on the Dornier HM1 water-bath lithotripter.", x:"The HM3 followed and became the reference machine.", k:["chaussy"] },
+{ f:"line", t:"World · History", q:"Who performed the first percutaneous nephrolithotomy with deliberate stone removal through a nephrostomy tract?", a:"Fernström and Johansson, Sweden, 1976.", x:"Goodwin described percutaneous nephrostomy in 1955.", k:["fernstr","johansson"] },
+{ f:"line", t:"World · Nobel", q:"Which urologist won a Nobel Prize, and for what?", a:"Charles Huggins, 1966, for hormonal treatment of prostate cancer (castration and oestrogens).", x:"He shared it with Peyton Rous. Joseph Murray (1990, kidney transplantation) was a plastic surgeon, not a urologist.", k:["huggins"] }
+];
+
+const KEYS = ["A","B","C","D"];
+const FIG = {
+cmg: `<figure class="fig"><svg viewBox="0 0 520 320" role="img" aria-label="Cystometrogram with three channels. At A, a sharp spike appears in Pves and Pabd but not in Pdet. At B, two waves appear in Pves and Pdet while Pabd stays flat.">
+  <g class="ax"><line x1="60" y1="80" x2="500" y2="80"/><line x1="60" y1="170" x2="500" y2="170"/><line x1="60" y1="260" x2="500" y2="260"/><line x1="60" y1="290" x2="500" y2="290"/></g>
+  <g class="lbl"><text x="54" y="84" text-anchor="end">Pves</text><text x="54" y="174" text-anchor="end">Pabd</text><text x="54" y="264" text-anchor="end">Pdet</text>
+  ${[0,100,200,300,400].map(v=>`<text x="${60+1.1*v}" y="305" text-anchor="middle">${v}</text>`).join("")}
+  <text x="280" y="318" text-anchor="middle">Volume infused (mL)</text>
+  <text x="170" y="26" text-anchor="middle" class="tagl">A</text><text x="381" y="26" text-anchor="middle" class="tagl">B</text></g>
+  <line class="mark" x1="170" y1="32" x2="170" y2="290"/><line class="mark" x1="381" y1="32" x2="381" y2="290"/>
+  <polyline class="trace" points="60,80 165,80 170,40 175,80 335,80 345,58 352,50 360,62 368,80 390,80 400,55 409,46 418,60 428,80 500,80"/>
+  <polyline class="trace" points="60,170 165,170 170,130 175,170 500,170"/>
+  <polyline class="trace" points="60,260 335,260 345,238 352,230 360,242 368,260 390,260 400,235 409,226 418,240 428,260 500,260"/>
+</svg><figcaption>Channels are drawn on separate baselines. The vertical scale is the same for all three.</figcaption></figure>`,
+comp: `<figure class="fig"><svg viewBox="0 0 520 300" role="img" aria-label="Detrusor pressure rising steadily from 5 cmH2O at 0 mL to 45 cmH2O at 300 mL and about 52 at 350 mL.">
+  <g class="grid">${[180,100,20].map(y=>`<line x1="60" x2="500" y1="${y}" y2="${y}"/>`).join("")}</g>
+  <g class="ax"><line x1="60" y1="260" x2="500" y2="260"/><line x1="60" y1="260" x2="60" y2="20"/></g>
+  <g class="lbl">${[0,100,200,300,400].map(v=>`<text x="${60+1.1*v}" y="278" text-anchor="middle">${v}</text>`).join("")}
+  ${[0,20,40,60].map(p=>`<text x="52" y="${264-4*p}" text-anchor="end">${p}</text>`).join("")}
+  <text x="280" y="296" text-anchor="middle">Volume infused (mL)</text><text x="16" y="140" text-anchor="middle" transform="rotate(-90 16 140)">Pdet (cmH₂O)</text></g>
+  <line class="mark" x1="390" y1="260" x2="390" y2="80"/><line class="mark" x1="60" y1="80" x2="390" y2="80"/>
+  <polyline class="trace" points="60,240 170,206 280,160 390,80 445,52"/>
+</svg></figure>`
+};
+
+const STORE = "mch-mixed-1";
+const N = Q.length;
+const fresh = () => ({ i: 0, ans: Array(N).fill(null), done: Array(N).fill(false), grade: Array(N).fill(null) });
+let state = fresh();
+try { const s = JSON.parse(localStorage.getItem(STORE)); if (s && s.ans && s.ans.length === N) state = s; } catch (e) {}
+const save = () => { try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) {} };
+
+const stage = document.getElementById("stage"), strip = document.getElementById("strip");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+const fmt = x => Number.isInteger(x) ? String(x) : x.toFixed(1);
+const isMcq = k => Q[k].f === "mcq";
+const pts = k => !state.done[k] ? 0 : isMcq(k) ? (state.ans[k] === Q[k].a ? 1 : 0) : (state.grade[k] ?? 0);
+const finished = k => state.done[k] && (isMcq(k) || state.grade[k] !== null);
+const status = k => !state.done[k] ? "" : !finished(k) ? "pend" : pts(k) === 1 ? "ok" : pts(k) > 0 ? "part" : "bad";
+const score = () => Q.reduce((n, _, k) => n + pts(k), 0);
+const hits = k => { const a = String(state.ans[k] || "").toLowerCase(); return a && Q[k].k.some(w => a.includes(w)); };
+const FMT = { mcq: "Single best answer", text: "Written answer", line: "One-line answer" };
+
+function renderStrip() {
+  strip.innerHTML = "";
+  Q.forEach((_, k) => {
+    const b = document.createElement("button");
+    b.className = "pip " + status(k) + (k === state.i ? " cur" : "");
+    b.setAttribute("aria-label", "Question " + (k + 1));
+    b.onclick = () => { state.i = k; save(); render(); };
+    strip.appendChild(b);
+  });
+  document.getElementById("pos").textContent = state.i < N ? `Question ${state.i + 1} of ${N} · ${FMT[Q[state.i].f]}` : "Finished";
+  document.getElementById("tally").textContent = `${fmt(score())} marks · ${Q.filter((_, k) => finished(k)).length} done`;
+}
+
+const selfmark = k => `<div class="selfmark" role="group" aria-label="Mark yourself"><span class="hint">Mark yourself:</span>
+  ${[[1,"Got it (1)"],[0.5,"Partly (½)"],[0,"Missed (0)"]].map(([v,l]) => `<button class="chip${state.grade[k] === v ? " on" : ""}" data-g="${v}">${l}</button>`).join("")}</div>`;
+
+function render() {
+  renderStrip();
+  if (state.i >= N) return renderResult();
+  const k = state.i, it = Q[k], done = state.done[k], ans = state.ans[k], last = k === N - 1;
+  let body = "", exp = "";
+  if (it.f === "mcq") {
+    body = `<div class="opts" role="group" aria-label="Answer options">${it.o.map((txt, j) => {
+      let c = "opt"; if (done) { if (j === it.a) c += " right"; else if (j === ans) c += " wrong"; } else if (j === ans) c += " sel";
+      return `<button class="${c}" data-j="${j}" ${done ? "disabled" : ""}><span class="k">${KEYS[j]}</span><span>${txt}</span></button>`; }).join("")}</div>`;
+    if (done) exp = `<div class="explain"><div class="verdict ${ans === it.a ? "ok" : "bad"}">${ans === it.a ? "Correct." : "Not quite. The answer is " + KEYS[it.a] + "."}</div>
+      <ul>${it.e.map(x => `<li>${x}</li>`).join("")}</ul><p class="src">Read more: ${it.s}</p></div>`;
+  } else if (it.f === "text") {
+    body = done ? `<div class="mine"><div class="eyebrow">Your answer</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Write your answer</label><textarea id="ans-${k}" rows="7" placeholder="Write it as you would in the exam.">${esc(ans)}</textarea>`;
+    if (done) exp = `<div class="explain"><div class="eyebrow">Model answer: compare point by point</div><ul>${it.m.map(x => `<li>${x}</li>`).join("")}</ul><p class="src">Read more: ${it.s}</p>${selfmark(k)}</div>`;
+  } else {
+    body = done ? `<div class="mine"><div class="eyebrow">Your line</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Your one-line answer</label><input class="line" id="ans-${k}" type="text" autocomplete="off" value="${esc(ans)}" placeholder="Type and press Enter">`;
+    if (done) exp = `<div class="explain"><div class="eyebrow">Model answer</div><p class="model">${it.a}</p><p class="also">${it.x}</p>
+      <span class="match ${hits(k) ? "ok" : "no"}">${hits(k) ? "Your line contains the key term." : "Key term not found in your line. Check the meaning yourself."}</span>${selfmark(k)}</div>`;
+  }
+  const primary = done ? `<button class="btn primary" id="next" ${finished(k) ? "" : "disabled"}>${last ? "See results" : "Next question"}</button>`
+    : `<button class="btn primary" id="check" ${it.f === "mcq" && ans === null ? "disabled" : ""}>${it.f === "mcq" ? "Check answer" : "Show model answer"}</button>`;
+  stage.innerHTML = `<article class="card">
+    <div class="qhead"><span class="qno">Q${String(k + 1).padStart(2, "0")}</span><span class="tag">${it.t}</span></div>
+    <p class="stem">${it.q}</p>${it.img ? FIG[it.img] : ""}${body}${exp}
+    <div class="actions"><button class="btn ghost" id="prev" ${k === 0 ? "disabled" : ""}>Previous</button>${primary}</div>
+    ${done && !finished(k) ? `<span class="hint">Mark yourself to continue.</span>` : ""}</article>`;
+  stage.querySelectorAll(".opt").forEach(b => b.onclick = () => { if (!state.done[k]) { state.ans[k] = +b.dataset.j; save(); render(); } });
+  stage.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.grade[k] = +b.dataset.g; save(); render(); });
+  const inp = document.getElementById("ans-" + k);
+  if (inp) { inp.oninput = () => { state.ans[k] = inp.value; save(); };
+    if (it.f === "line") inp.onkeydown = e => { if (e.key === "Enter") { e.preventDefault(); check(); } }; }
+  const c = document.getElementById("check"); if (c) c.onclick = check;
+  const n = document.getElementById("next"); if (n) n.onclick = next;
+  document.getElementById("prev").onclick = () => { if (state.i > 0) { state.i--; save(); render(); } };
+}
+function check() { const k = state.i; if (isMcq(k) && state.ans[k] === null) return; state.done[k] = true; save(); render(); }
+function next() {
+  const k = state.i; if (!finished(k)) return;
+  const open = Q.findIndex((_, j) => j > k && !finished(j));
+  state.i = open !== -1 ? open : (Q.every((_, j) => finished(j)) ? N : Q.findIndex((_, j) => !finished(j)));
+  save(); render(); window.scrollTo({ top: 0 });
+}
+function renderResult() {
+  const r = score();
+  const mark = k => ({ ok: `<span class="s ok">✓</span>`, part: `<span class="s part">½</span>`, bad: `<span class="s bad">✗${isMcq(k) ? " " + KEYS[Q[k].a] : ""}</span>` }[status(k)] || `<span class="s">–</span>`);
+  stage.innerHTML = `<article class="card result"><div class="eyebrow">Your score</div><div class="score">${fmt(r)} / ${N}</div>
+    <p class="sub">${Math.round(r / N * 100)}%. Written and one-line answers count as you marked them. Tap any topic to review it.</p>
+    <ul class="review">${Q.map((it, k) => `<li><span class="n">${k + 1}</span><button data-k="${k}">${it.t}</button>${mark(k)}</li>`).join("")}</ul>
+    <div class="actions"><button class="btn ghost" id="reset">Start again</button></div></article>`;
+  stage.querySelectorAll(".review button").forEach(b => b.onclick = () => { state.i = +b.dataset.k; save(); render(); });
+  document.getElementById("reset").onclick = () => { state = fresh(); save(); render(); };
+}
+document.addEventListener("keydown", e => {
+  if (e.metaKey || e.ctrlKey || e.altKey || state.i >= N || !isMcq(state.i)) return;
+  const k = state.i, j = KEYS.indexOf(e.key.toUpperCase());
+  if (j > -1 && !state.done[k]) { state.ans[k] = j; save(); render(); }
+  else if (e.key === "Enter" && document.activeElement?.tagName !== "BUTTON") { state.done[k] ? next() : check(); }
+});
+render();
+</script>

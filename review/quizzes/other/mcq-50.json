@@ -1,0 +1,802 @@
+[
+ {
+  "f": "mcq",
+  "t": "Transplant · World first",
+  "q": "Where was the world's first human bladder transplant performed (May 2025)?",
+  "o": [
+   "Tygerberg Hospital, Cape Town",
+   "Ronald Reagan UCLA Medical Center (Gill and Nassiri)",
+   "Cleveland Clinic, Ohio",
+   "Mayo Clinic, Rochester"
+  ],
+  "a": 1,
+  "e": [
+   "On 4 May 2025, a USC–UCLA team transplanted a kidney and then a bladder from the same donor into a man who had been on dialysis for 7 years. The kidney made urine at once."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Xenotransplant",
+  "q": "What made the EXPAND study (first transplant 3 November 2025, NYU Langone) a milestone?",
+  "o": [
+   "First pig kidney transplant under a formal FDA trial meant to support licensing",
+   "First pig heart–kidney transplant",
+   "First xenotransplant without immunosuppression",
+   "First pig kidney into a brain-dead donor"
+  ],
+  "a": 0,
+  "e": [
+   "Earlier cases (Slayman, Looney, Andrews) were compassionate use under Expanded Access. The UKidney has 10 gene edits: 6 human genes added and 4 pig genes inactivated."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Xenotransplant",
+  "q": "How long did Towana Looney's gene-edited pig kidney (NYU, November 2024) function?",
+  "o": [
+   "About 4 months (130 days), then removed for rejection",
+   "48 hours",
+   "1 month, removed for viral infection",
+   "Over 2 years and still working"
+  ],
+  "a": 0,
+  "e": [
+   "It lasted 4 months and 9 days, a record at the time. Tim Andrews (MGH, January 2025) was then the first recipient to pass 6 months without dialysis."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "News · Prostate",
+  "q": "Former US President Biden's prostate cancer (May 2025) was reported as:",
+  "o": [
+   "Neuroendocrine, castration-resistant",
+   "Gleason 9 (Grade Group 5) with bone metastases, hormone-sensitive",
+   "Grade Group 1, organ-confined",
+   "Gleason 7 (3+4), node-positive"
+  ],
+  "a": 1,
+  "e": [
+   "This is metastatic hormone-sensitive prostate cancer (mHSPC). Standard treatment is ADT (androgen deprivation therapy) plus an ARPI (androgen-receptor pathway inhibitor), with or without docetaxel (ARASENS, PEACE-1)."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Epidemiology",
+  "q": "The Lancet Commission on prostate cancer (2024) projected annual cases by 2040 of about:",
+  "o": [
+   "2.9 million",
+   "1.4 million",
+   "2.0 million",
+   "5 million"
+  ],
+  "a": 0,
+  "e": [
+   "Cases double from 1.4 million (2020) to 2.9 million by 2040, and deaths rise by about 85%. The largest increases are in low- and middle-income countries."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder · Approval",
+  "q": "Inlexzo (approved 9 September 2025) is:",
+  "o": [
+   "A mitomycin hydrogel",
+   "Subcutaneous pembrolizumab",
+   "Intravesical nadofaragene",
+   "TAR-200: a pretzel-shaped device releasing gemcitabine over 3 weeks, for BCG-unresponsive NMIBC with CIS"
+  ],
+  "a": 3,
+  "e": [
+   "In SunRISe-1, complete response was about 82%, and about half of responders were still in response at 12 months or more."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder · New agents",
+  "q": "Cretostimogene grenadenorepvec (BOND-003) is:",
+  "o": [
+   "An IL-15 superagonist",
+   "A gemcitabine-releasing device",
+   "A conditionally replicating oncolytic adenovirus carrying GM-CSF",
+   "A non-replicating vector carrying the interferon-α2b gene"
+  ],
+  "a": 2,
+  "e": [
+   "BOND-003 in BCG-unresponsive CIS: complete response 75% at any time, about 46% at 1 year. Do not confuse it with nadofaragene (interferon gene, non-replicating) or N-803 (IL-15)."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Robotics",
+  "q": "Agilis Robotics (Hong Kong, December 2024) reported the world's first:",
+  "o": [
+   "Robotic ureteroscopy",
+   "Robotic partial nephrectomy over 5G",
+   "Autonomous robotic prostatectomy",
+   "Robot-assisted en bloc resection of a bladder tumour with a flexible transurethral robot"
+  ],
+  "a": 3,
+  "e": [
+   "En bloc resection keeps the specimen in one piece, improves staging (muscle present) and avoids scattering tumour cells."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Systemic therapy",
+  "q": "Enfortumab vedotin targets ___ and carries ___:",
+  "o": [
+   "HER2 / MMAE",
+   "Nectin-4 / MMAE",
+   "Trop-2 / SN-38",
+   "PD-L1 / DM1"
+  ],
+  "a": 1,
+  "e": [
+   "Typical toxicities are skin rash, neuropathy and hyperglycaemia. Sacituzumab govitecan is Trop-2/SN-38, and disitamab vedotin is anti-HER2."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Systemic therapy",
+  "q": "Erdafitinib improved overall survival in which trial and which population?",
+  "o": [
+   "KEYNOTE-057: BCG-unresponsive CIS",
+   "EV-302: first-line advanced urothelial carcinoma",
+   "CheckMate 274: adjuvant MIUC",
+   "THOR: FGFR3-altered metastatic urothelial carcinoma"
+  ],
+  "a": 3,
+  "e": [
+   "It is a pan-FGFR (fibroblast growth factor receptor) inhibitor. Hyperphosphataemia is an on-target side effect, and central serous retinopathy can occur."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Kidney",
+  "q": "Belzutifan works by inhibiting:",
+  "o": [
+   "MET",
+   "mTOR",
+   "VEGFR",
+   "HIF-2α"
+  ],
+  "a": 3,
+  "e": [
+   "Loss of the VHL protein lets HIF-2α build up. Belzutifan is approved for VHL-associated tumours (LITESPARK-004) and later-line RCC (LITESPARK-005)."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Theranostics",
+  "q": "Compared with 177Lu-PSMA, 225Ac-PSMA:",
+  "o": [
+   "Does not bind PSMA",
+   "Emits alpha particles: high linear energy transfer, very short range, double-strand DNA breaks, more xerostomia",
+   "Is used only for imaging",
+   "Is a beta emitter with a longer range"
+  ],
+  "a": 1,
+  "e": [
+   "Alpha emitters can work when tumours are resistant to Lu-177. Lu-177 is a beta emitter with a range of millimetres (VISION, PSMAfore, PSMAddition)."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Imaging",
+  "q": "Which is NOT a PSMA-targeted PET tracer?",
+  "o": [
+   "18F-fluciclovine",
+   "18F-rhPSMA-7.3 (flotufolastat)",
+   "68Ga-PSMA-11",
+   "18F-DCFPyL (piflufolastat)"
+  ],
+  "a": 0,
+  "e": [
+   "Fluciclovine is a synthetic amino-acid analogue, not a PSMA ligand, and is less sensitive at low PSA."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "AI",
+  "q": "The first FDA-authorised AI pathology product (2021) was:",
+  "o": [
+   "ArteraAI",
+   "Google LYNA",
+   "Paige Prostate",
+   "Ibex Galen"
+  ],
+  "a": 2,
+  "e": [
+   "It flags suspicious areas on digitised prostate biopsy slides and was authorised through the De Novo route."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "USI",
+  "q": "The Urological Society of India began as:",
+  "o": [
+   "The Urology Section of the Association of Surgeons of India, Baroda, December 1961",
+   "The Indian chapter of SIU, 1980",
+   "A wing of the Indian Medical Association, Mumbai, 1950",
+   "An independent society in Delhi, 1971"
+  ],
+  "a": 0,
+  "e": [
+   "It started with 32 members. G. M. Phadke was the first president and B. N. Colabawalla the first secretary. It was renamed USI in 1971."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "USI",
+  "q": "The Indian Journal of Urology (in its current form) began in ___, with founder editor ___:",
+  "o": [
+   "1971; G. M. Phadke",
+   "1984; Mahendra Bhandari",
+   "1990; Mahesh Desai",
+   "1962; B. N. Colabawalla"
+  ],
+  "a": 1,
+  "e": [
+   "Bhandari was editor until 1994. IJU is the official journal of the USI."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "India · Transplant",
+  "q": "India's first successful kidney transplant was performed at:",
+  "o": [
+   "KEM Hospital, Mumbai, 1965",
+   "PGIMER Chandigarh, 1978",
+   "CMC Vellore, 2 February 1971 (Mohan Rao and K. V. Johny)",
+   "AIIMS Delhi, 1973"
+  ],
+  "a": 2,
+  "e": [
+   "It was a living-donor transplant. The graft worked for 10 months and the patient lived about 5 more years."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "India · Institutions",
+  "q": "Muljibhai Patel Urological Hospital, Nadiad, was founded in 1978 as the vision of:",
+  "o": [
+   "Mahendra Bhandari",
+   "Mahesh Desai",
+   "Virendra Desai",
+   "Janak Desai"
+  ],
+  "a": 2,
+  "e": [
+   "It was inaugurated by President Neelam Sanjiva Reddy on 19 March 1978. Mahesh Desai later led it and received the 2025 AUA (Urology Care Foundation) Humanitarian Award."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "India · Robotics",
+  "q": "SSI Mantra is notable as:",
+  "o": [
+   "A Chinese telesurgery platform",
+   "The first single-port robot",
+   "A robotic ureteroscope",
+   "India's own surgical robot, the first in India approved by CDSCO for telesurgery"
+  ],
+  "a": 3,
+  "e": [
+   "SS Innovations (Dr Sudhir Srivastava). RGCI Delhi used it for India's first cancer telesurgery in 2024. The first kidney transplant with it was done in Coimbatore (Dr M. K. Ramalingam)."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "India · Contribution",
+  "q": "D. D. Gaur (Mumbai, 1992) introduced:",
+  "o": [
+   "Microperc",
+   "A balloon to create the retroperitoneal working space for retroperitoneoscopy",
+   "The suction ureteral access sheath",
+   "Ultra-mini PCNL"
+  ],
+  "a": 1,
+  "e": [
+   "A glove finger tied over a catheter and inflated. It made retroperitoneal laparoscopic nephrectomy, pyelolithotomy and adrenalectomy practical."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder · Trial",
+  "q": "KEYNOTE-905/EV-303 showed perioperative EV-pembrolizumab improved survival in:",
+  "o": [
+   "Cisplatin-eligible MIBC",
+   "BCG-unresponsive NMIBC",
+   "Cisplatin-ineligible MIBC",
+   "Upper tract urothelial carcinoma"
+  ],
+  "a": 2,
+  "e": [
+   "Pathological complete response was 57% vs 8.6%, event-free survival HR 0.40, overall survival HR 0.50. It was the first survival benefit in cisplatin-ineligible patients."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Prostate · Trial",
+  "q": "PSMAddition was the first phase 3 trial of radioligand therapy in:",
+  "o": [
+   "Metastatic hormone-sensitive prostate cancer",
+   "Biochemical recurrence",
+   "Post-docetaxel mCRPC",
+   "Non-metastatic CRPC"
+  ],
+  "a": 0,
+  "e": [
+   "177Lu-PSMA-617 added to ADT plus an ARPI improved radiographic progression-free survival in 1,144 men."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Prostate · Trial",
+  "q": "CAPItello-281 selected patients by which biomarker?",
+  "o": [
+   "MSI-high",
+   "PTEN deficiency (immunohistochemistry)",
+   "AR-V7",
+   "BRCA2 mutation"
+  ],
+  "a": 1,
+  "e": [
+   "Capivasertib (an AKT inhibitor) plus abiraterone improved radiographic progression-free survival (about 33 vs 26 months) in PTEN-deficient mHSPC."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Prostate · Trial",
+  "q": "Final TALAPRO-2 results (Lancet 2025) showed talazoparib plus enzalutamide:",
+  "o": [
+   "No overall survival benefit",
+   "Benefit only in BRCA carriers",
+   "Benefit only in mHSPC",
+   "An overall survival benefit in first-line mCRPC, including patients without HRR alterations"
+  ],
+  "a": 3,
+  "e": [
+   "Median overall survival 45.8 vs 37.0 months. It was the first PARP inhibitor plus ARPI combination to improve overall survival in an unselected population."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder · Approval",
+  "q": "Zusduri (UGN-102, June 2025) is:",
+  "o": [
+   "Gemcitabine device",
+   "BCG substitute",
+   "Mitomycin in a reverse-thermal hydrogel, a non-surgical alternative to TURBT for recurrent low-grade intermediate-risk NMIBC",
+   "Intravesical pembrolizumab"
+  ],
+  "a": 2,
+  "e": [
+   "In ENVISION, 78% had a complete response at 3 months. Its relative Jelmyto (UGN-101) treats low-grade upper-tract tumours."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Andrology · Policy",
+  "q": "The FDA's 2025 testosterone label change:",
+  "o": [
+   "Withdrew gels",
+   "Removed the cardiovascular boxed warning in light of TRAVERSE and added a blood-pressure warning",
+   "Approved use in age-related hypogonadism",
+   "Added a prostate cancer boxed warning"
+  ],
+  "a": 1,
+  "e": [
+   "TRAVERSE (2023) showed testosterone was non-inferior to placebo for major adverse cardiac events. The limitation of use for age-related hypogonadism was kept."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Screening · Policy",
+  "q": "The UK National Screening Committee's final recommendation (May 2026) was:",
+  "o": [
+   "Population PSA screening from 50",
+   "Screening Black men from 45",
+   "No screening at all",
+   "Two-yearly PSA for men aged 45–61 with a BRCA2 variant and a relevant family history"
+  ],
+  "a": 3,
+  "e": [
+   "The November 2025 draft also included BRCA1. The final version narrowed it to BRCA2 with family history."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Telesurgery",
+  "q": "Vipul Patel's prostatectomy from Orlando on a patient in Luanda (June 2025) was the world's first:",
+  "o": [
+   "Robotic prostatectomy in Africa",
+   "Transcontinental robotic telesurgery done under an FDA-approved IDE",
+   "Telesurgery over 5G",
+   "Autonomous prostatectomy"
+  ],
+  "a": 1,
+  "e": [
+   "It used the Toumai robot, with a one-way network path of about 17,000 km. The 'Lindbergh operation' (Marescaux, 2001) was the transatlantic forerunner."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Robotics",
+  "q": "Which robot gained FDA clearance for urologic surgery on 3 December 2025?",
+  "o": [
+   "Toumai",
+   "Hugo RAS (Medtronic)",
+   "SSI Mantra",
+   "Versius"
+  ],
+  "a": 1,
+  "e": [
+   "Clearance was based on the Expand URO IDE study and covers prostatectomy, nephrectomy and cystectomy."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Stones · Technology",
+  "q": "Burst wave lithotripsy differs from SWL in that it:",
+  "o": [
+   "Uses short bursts of focused ultrasound from a handheld probe, possible in awake patients, often with ultrasonic propulsion",
+   "Uses a holmium laser",
+   "Requires general anaesthesia",
+   "Works only for bladder stones"
+  ],
+  "a": 0,
+  "e": [
+   "In an awake feasibility study, 86% of distal ureteric stones passed. It is still investigational."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "History",
+  "q": "Philipp Bozzini's 'Lichtleiter' (1806) was:",
+  "o": [
+   "The first lithotrite",
+   "The first endoscope, using candlelight and mirrors",
+   "The first flexible cystoscope",
+   "The first rigid nephroscope"
+  ],
+  "a": 1,
+  "e": [
+   "The Vienna medical faculty dismissed it. Nitze's cystoscope (1877–79), with Leiter, introduced lenses and a light source at the tip."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "History",
+  "q": "Who introduced the first practical cystoscope with a lens system and distal light (1877–79)?",
+  "o": [
+   "Harold Hopkins",
+   "Hugh Hampton Young",
+   "Maximilian Nitze",
+   "Antonin Desormeaux"
+  ],
+  "a": 2,
+  "e": [
+   "Nitze first used a water-cooled platinum wire for light. Hopkins's rod-lens system (1960s) later transformed image quality."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "History",
+  "q": "Which pairing is correct?",
+  "o": [
+   "First laparoscopic radical prostatectomy: Menon, 1991",
+   "First laparoscopic nephrectomy: Clayman, St Louis, 1990; first robotic radical prostatectomy: Binder and Kramer, Frankfurt, 2000",
+   "First laparoscopic nephrectomy: Binder, 2000",
+   "First robotic prostatectomy: Clayman, 1990"
+  ],
+  "a": 1,
+  "e": [
+   "Schuessler did the first laparoscopic radical prostatectomy (1992). Menon popularised robotic prostatectomy (VIP, Vattikuti Institute Prostatectomy)."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "India · Robotics",
+  "q": "India's first robotic surgery (2006) was:",
+  "o": [
+   "Robot-assisted radical prostatectomy at AIIMS, New Delhi",
+   "Robotic hysterectomy in Mumbai",
+   "Robotic pyeloplasty at PGIMER",
+   "Robotic kidney transplant at Medanta"
+  ],
+  "a": 0,
+  "e": [
+   "In September 2025, AIIMS also became the first government hospital in India to start robotic kidney transplantation."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "India · Transplant",
+  "q": "The robotic kidney transplant technique developed at Medanta (2013) is notable for:",
+  "o": [
+   "Regional hypothermia: ice slush cools the kidney inside the body during the vascular anastomosis (Ahlawat with Menon)",
+   "A transvaginal kidney insertion",
+   "Using a single port",
+   "Use of SSI Mantra"
+  ],
+  "a": 0,
+  "e": [
+   "It was planned with Henry Ford, Detroit. About 50 cases were done in the first year."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder · Trial",
+  "q": "In POTOMAC, durvalumab plus BCG beat BCG alone only when combined with:",
+  "o": [
+   "BCG induction and maintenance",
+   "Radiotherapy",
+   "BCG induction only",
+   "Mitomycin"
+  ],
+  "a": 0,
+  "e": [
+   "Disease-free survival HR 0.68. The induction-only arm failed (HR 1.14), so maintenance BCG remains essential."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder · Trial",
+  "q": "Sasanlimab (CREST trial) is:",
+  "o": [
+   "An intravenous anti-CTLA-4",
+   "An oral FGFR inhibitor",
+   "A subcutaneous anti-PD-1 added to BCG in BCG-naive high-risk NMIBC",
+   "An oncolytic virus"
+  ],
+  "a": 2,
+  "e": [
+   "Event-free survival HR 0.68, a 32% reduction in high-grade recurrence or progression."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Screening",
+  "q": "ERSPC at 23 years (NEJM 2025) reported a prostate-cancer mortality reduction of ___ with number needed to invite ___:",
+  "o": [
+   "30%; 101",
+   "13%; 456",
+   "No reduction",
+   "21%; 1,055"
+  ],
+  "a": 1,
+  "e": [
+   "One death was prevented for every 12 men diagnosed. At 16 years the number needed to invite was 628, so the balance improves with time."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Kidney · Trial",
+  "q": "LITESPARK-022 showed improved disease-free survival with:",
+  "o": [
+   "Adjuvant sunitinib",
+   "Belzutifan added to adjuvant pembrolizumab",
+   "Adjuvant everolimus",
+   "Nivolumab plus ipilimumab"
+  ],
+  "a": 1,
+  "e": [
+   "HR 0.72; 24-month disease-free survival 80.7% vs 73.7%. It built on KEYNOTE-564. Overall survival data are awaited."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder · Trial",
+  "q": "RC48-C016 established first-line ___ in HER2-expressing advanced urothelial cancer:",
+  "o": [
+   "Trastuzumab deruxtecan",
+   "Erdafitinib",
+   "Sacituzumab govitecan",
+   "Disitamab vedotin plus toripalimab"
+  ],
+  "a": 3,
+  "e": [
+   "Overall survival 31.5 vs 16.9 months against platinum chemotherapy. HER2 is now a predictive biomarker in urothelial cancer."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Regulation",
+  "q": "Sacituzumab govitecan lost its US urothelial indication (October 2024) because:",
+  "o": [
+   "Manufacturing failure",
+   "Cardiac deaths",
+   "TROPiCS-04, its confirmatory trial, missed the overall survival end point",
+   "A biosimilar replaced it"
+  ],
+  "a": 2,
+  "e": [
+   "It shows that accelerated approvals depend on confirmatory trials."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Prostate · Approval",
+  "q": "On 28 March 2025 the FDA extended Pluvicto to:",
+  "o": [
+   "Neoadjuvant use",
+   "Biochemical recurrence",
+   "mHSPC",
+   "PSMA-positive mCRPC after one ARPI, before chemotherapy"
+  ],
+  "a": 3,
+  "e": [
+   "Based on PSMAfore, where it reduced the risk of radiographic progression or death by 59% compared with switching ARPI."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Andrology",
+  "q": "YCT-529, a hormone-free male contraceptive pill, acts by:",
+  "o": [
+   "Inhibiting sperm motility channels (CatSper)",
+   "Blocking FSH receptors",
+   "Blocking 5-alpha-reductase",
+   "Antagonising the retinoic acid receptor-alpha in the testis"
+  ],
+  "a": 3,
+  "e": [
+   "Phase 1a (2025) found no change in hormones, libido or mood. Trials of its effect on sperm counts are ongoing."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Science",
+  "q": "The 2025 Nobel Prize in Physiology or Medicine was for:",
+  "o": [
+   "mRNA vaccines",
+   "Checkpoint inhibitors",
+   "CRISPR",
+   "Peripheral immune tolerance: regulatory T cells and FOXP3"
+  ],
+  "a": 3,
+  "e": [
+   "Sakaguchi, Brunkow and Ramsdell. Regulatory T-cell therapy is a route to transplant tolerance."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Robotics",
+  "q": "The new feature of da Vinci 5 (FDA, March 2024) is:",
+  "o": [
+   "Single port",
+   "Fully autonomous suturing",
+   "Open console",
+   "Force (haptic) feedback"
+  ],
+  "a": 3,
+  "e": [
+   "Preclinical work showed up to 43% less force on tissue."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "World first",
+  "q": "The world's first successful penile transplant was performed in:",
+  "o": [
+   "Guangzhou, 2006",
+   "Tygerberg Hospital, Cape Town, December 2014",
+   "Boston, 2016",
+   "Johns Hopkins, 2018"
+  ],
+  "a": 1,
+  "e": [
+   "André van der Merwe's team did it after a circumcision complication. Johns Hopkins did the first total penis and scrotum transplant (2018), without the testes."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Trivia",
+  "q": "Movember began in:",
+  "o": [
+   "London, 2006",
+   "Melbourne, Australia, 2003",
+   "New York, 1999",
+   "Toronto, 2010"
+  ],
+  "a": 1,
+  "e": [
+   "It raises awareness of prostate cancer, testicular cancer and men's mental health."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Prostate · Trial",
+  "q": "ProtecT at 15 years (2023) showed prostate-cancer mortality:",
+  "o": [
+   "Higher with monitoring",
+   "Lowest after surgery",
+   "Low (about 3%) and not significantly different between monitoring, surgery and radiotherapy",
+   "Lowest after radiotherapy"
+  ],
+  "a": 2,
+  "e": [
+   "Active monitoring had more metastases and progression but no survival cost at 15 years."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Infection · Trial",
+  "q": "ALTAR (2022) showed which agent non-inferior to daily low-dose antibiotics for recurrent UTI in women?",
+  "o": [
+   "Cranberry",
+   "D-mannose",
+   "Methenamine hippurate",
+   "Vaginal oestrogen"
+  ],
+  "a": 2,
+  "e": [
+   "Methenamine is hydrolysed to formaldehyde in acidic urine, so it does not select for resistant organisms."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ },
+ {
+  "f": "mcq",
+  "t": "Prostate · Radiotherapy",
+  "q": "PACE-B (NEJM 2024) showed that for low/intermediate-risk localised prostate cancer, 5-fraction SBRT was:",
+  "o": [
+   "Inferior to conventional radiotherapy",
+   "Superior for overall survival",
+   "Non-inferior to conventional or moderately hypofractionated radiotherapy for 5-year freedom from biochemical/clinical failure",
+   "Only feasible with brachytherapy"
+  ],
+  "a": 2,
+  "e": [
+   "It supports 5-fraction stereotactic body radiotherapy (SBRT) as a standard option. Moderate hypofractionation (20 fractions) was already standard after CHHiP."
+  ],
+  "s": "Prize rounds I–III and trial sets (sources listed there)"
+ }
+]

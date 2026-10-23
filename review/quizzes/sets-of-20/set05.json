@@ -1,0 +1,1408 @@
+[
+ {
+  "f": "mcq",
+  "t": "Paediatric renal US",
+  "q": "Which statement about paediatric renal imaging is FALSE?",
+  "o": [
+   "Infant pyramids can mimic hydronephrosis",
+   "Fetal urine enters amniotic fluid after 10 weeks",
+   "Hydronephrosis equals obstruction",
+   "US is insensitive for detecting VUR"
+  ],
+  "a": 2,
+  "e": [
+   "Hydronephrosis is not always obstruction. Amniotic fluid contains no fetal urine before 10 weeks. Ultrasound is not sensitive for VUR. Hypoechoic infant pyramids with a sharp corticomedullary junction can be mistaken for hydronephrosis. US is the first test for suspected obstruction and for follow-up; VCUG or diuresis renography follow as indicated."
+  ],
+  "s": "Ch 24 Paediatric imaging",
+  "b": [
+   "Hydronephrosis ≠ obstruction",
+   "No fetal urine in amniotic fluid before 10 weeks",
+   "US insensitive for VUR",
+   "Infant hypoechoic pyramids mimic hydronephrosis"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Anaesthesia and the developing brain",
+  "q": "The FDA warning on anaesthesia and brain development applies to repeated or lengthy exposure in:",
+  "o": [
+   "Under 6 years and first trimester",
+   "Adolescents and second trimester",
+   "Neonates only, any brief anaesthetic",
+   "Under 3 years and third trimester"
+  ],
+  "a": 3,
+  "e": [
+   "Families should be told what is known and which studies are under way. Update: the GAS trial (2019) and PANDA showed no neurodevelopmental harm from a single short anaesthetic in infancy. Anaesthesia risks include nausea, vomiting, bronchospasm, laryngospasm, stridor, emergence delirium and maladaptive behaviour."
+  ],
+  "s": "Ch 26 Perioperative care in children",
+  "b": [
+   "FDA: repeated/long anaesthesia <3 years or 3rd trimester",
+   "GAS trial: single short GA in infancy safe",
+   "Inform families of known data"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Renal agenesis and the vas",
+  "q": "During orchidopexy, a boy has an absent vas deferens and a 3-mm golden-yellow nodule on the cord. What should be checked next?",
+  "o": [
+   "A testicular tumour",
+   "Ipsilateral renal agenesis",
+   "Cystic fibrosis in the parents",
+   "Congenital adrenal hyperplasia"
+  ],
+  "a": 1,
+  "e": [
+   "The nodule is ectopic adrenal cortex (no medulla); the adrenal forms just medial to the gonadal ridge, so rests occur along the cord. The vas and ureteric bud both come from the wolffian duct: 79% of men with an absent vas lack the ipsilateral kidney."
+  ],
+  "s": "Ch 38 Upper tract anomalies",
+  "b": [
+   "Yellow cord nodule = adrenal rest (cortex only)",
+   "Absent vas → check ipsilateral kidney",
+   "79% with absent vas lack that kidney"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Penile CIS",
+  "q": "Which statement about penile carcinoma in situ (Tis) is FALSE?",
+  "o": [
+   "Topical imiquimod or 5-FU can treat it",
+   "Bowenoid papulosis is a form of penile Tis",
+   "Erythroplasia of Queyrat involves the shaft skin",
+   "Bowen disease involves shaft, genital or perineal skin"
+  ],
+  "a": 2,
+  "e": [
+   "Location defines the names: erythroplasia of Queyrat on the glans or prepuce, Bowen disease on the shaft, genitalia or perineum. Tis has three clinical forms: Bowenoid papulosis, Bowen disease, erythroplasia of Queyrat. Small noninvasive lesions: local excision, circumcision (preputial), fulguration (recurs), 5% 5-FU or imiquimod, Nd:YAG laser."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "Queyrat: glans or prepuce",
+   "Bowen: shaft, genitalia, perineum",
+   "Tis forms: Bowenoid papulosis, Bowen, Queyrat",
+   "Topical 5-FU or imiquimod, excision, laser"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Who needs a 24-h urine",
+  "q": "Which condition does NOT warrant 24-hour urine metabolic testing after a first stone?",
+  "o": [
+   "Obesity",
+   "Parkinson disease",
+   "Primary hyperparathyroidism",
+   "Gastric bypass surgery"
+  ],
+  "a": 1,
+  "e": [
+   "No direct link exists between neurological disorders and stones. Risk factors warranting testing include hyperparathyroidism, obesity, bowel disease or bypass, gout, diabetes and recurrent stones. First-time formers have a 50% recurrence risk; men have higher incidence and recurrence. Obesity increases stone risk."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Neurological disease: no stone link",
+   "Test if hyperparathyroid, obese, bowel disease, bypass",
+   "First stone: 50% recur; men recur more"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Congenital bladder diverticula",
+  "q": "Which statement about congenital bladder diverticula is FALSE?",
+  "o": [
+   "They are usually solitary and large",
+   "They lie lateral to the ureteric orifice",
+   "They usually reflect obstruction",
+   "They arise in smooth-walled bladders"
+  ],
+  "a": 2,
+  "e": [
+   "Congenital diverticula are solitary, often large, in smooth-walled bladders without outlet obstruction, usually lateral and posterior to the ureteric orifice and often with VUR. Dome diverticula may relate to prune belly, valves or urachal anomalies. A Hutch diverticulum encompasses the orifice in a neurogenic bladder with reflux. Congenital diverticula are not associated with malignancy."
+  ],
+  "s": "Ch 130 Bladder and urethral diverticula",
+  "b": [
+   "No outlet obstruction",
+   "Smooth-walled bladder",
+   "Solitary and large",
+   "Lateral/posterior to orifice, often with VUR; Hutch if neurogenic"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Risk assessment",
+  "q": "Which combination best predicts pathologic stage in prostate cancer?",
+  "o": [
+   "PSA velocity on its own",
+   "Prostate volume and PSA density",
+   "The free-to-total PSA ratio",
+   "PSA, grade and clinical stage"
+  ],
+  "a": 3,
+  "e": [
+   "Each predicts stage, but combined (with extent of cancer on biopsy) accuracy improves. PSA >8 ng/mL contributes significantly to biochemical recurrence risk. At least 10% of new cases are locally advanced. Nomograms tend to overestimate recurrence risk in high-risk men."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer",
+  "b": [
+   "Combine PSA, grade, clinical stage (+ biopsy extent)",
+   "PSA >8 ng/mL raises BCR risk",
+   "≥10% present locally advanced",
+   "Nomograms overestimate risk in high-risk men"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Diuresis renography",
+  "q": "Which is NOT one of the four key elements of a successful diuresis renogram?",
+  "o": [
+   "Timing of the diuretic",
+   "Sedation of the child",
+   "Correct region of interest",
+   "Adequate hydration"
+  ],
+  "a": 1,
+  "e": [
+   "Key elements: hydration, region of interest, bladder drainage as appropriate, diuretic timing. Review all parameters, because technique variations skew results."
+  ],
+  "s": "Ch 24 Paediatric imaging",
+  "b": [
+   "Hydration",
+   "Region of interest",
+   "Bladder drainage",
+   "Diuretic timing"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Fasting before anaesthesia",
+  "q": "According to the book, which fasting time before anaesthesia in children is correct?",
+  "o": [
+   "Clear fluids: 6 hours",
+   "Formula milk: 2 hours",
+   "Breast milk: 4 hours",
+   "Full fatty meal: 4 hours"
+  ],
+  "a": 2,
+  "e": [
+   "Book (ASA-based): clear fluids 2 h, breast milk 4 h, formula, nonhuman milk or light meal 6 h, full meal 8 h. Enteral feeds count as a fatty meal (stop 8 h). NPO violation increases aspiration and pneumonitis. Update: several European societies now allow clear fluids up to 1 h before induction in children."
+  ],
+  "s": "Ch 26 Perioperative care in children",
+  "b": [
+   "Clear fluids 2 h",
+   "Breast milk 4 h",
+   "Formula, nonhuman milk, light meal 6 h",
+   "Full or fatty meal (and enteral feeds) 8 h"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "OHVIRA",
+  "q": "A girl with right renal agenesis has cyclic abdominal pain and a pelvic mass after menarche. The likely associated anomaly is:",
+  "o": [
+   "An imperforate hymen on its own",
+   "A large anterior Gartner duct cyst",
+   "Müllerian agenesis (MRKH type)",
+   "Didelphys, obstructed hemivagina"
+  ],
+  "a": 3,
+  "e": [
+   "OHVIRA (obstructed hemivagina, ipsilateral renal agenesis; Herlyn-Werner-Wunderlich): an insult early in week 4 affecting wolffian duct and ureteric bud gives a didelphic uterus with obstructed horn and vagina. Before week 4: renal agenesis with a unicornuate uterus. Female reproductive anomalies are common with unilateral agenesis; commonest müllerian anomaly is a true unicornuate uterus or a bicornuate uterus with rudimentary horn."
+  ],
+  "s": "Ch 38 Upper tract anomalies",
+  "b": [
+   "Obstructed hemivagina + ipsilateral renal agenesis",
+   "Insult early week 4: didelphys",
+   "Before week 4: unicornuate uterus"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "HPV and penile cancer",
+  "q": "Which statement about the aetiology of penile cancer is FALSE?",
+  "o": [
+   "Gonorrhoea is not a proven risk factor",
+   "Adult circumcision protects strongly",
+   "HPV is a recognised aetiological agent",
+   "Lichen sclerosus is a risk factor"
+  ],
+  "a": 1,
+  "e": [
+   "Circumcision after 21 offers little protection; neonatal circumcision protects. Risk factors: no neonatal circumcision, phimosis, HPV, tobacco, lichen sclerosus, perhaps trauma; no link with gonorrhoea, syphilis, herpes, occupation, marijuana or alcohol. HPV in men is linked to partners' cervical dysplasia and cancer. Largely preventable (neonatal circumcision, HPV vaccination, behaviour). Rare in developed countries; US data show disparity for Puerto Rican Hispanic men. Lichen sclerosus (BXO) has no known viral cause."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "Adult circumcision gives little protection",
+   "HPV is causal (also partners' cervical cancer)",
+   "Risks: phimosis, LS, tobacco, no neonatal circumcision",
+   "No link with gonorrhoea, syphilis, alcohol"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "24-h urine content",
+  "q": "Which is NOT routinely measured in a stone-risk 24-hour urine collection?",
+  "o": [
+   "Uric acid",
+   "Citrate",
+   "Sodium",
+   "Glucose"
+  ],
+  "a": 3,
+  "e": [
+   "AUA (Pearle 2014): one or two 24-h collections on a random diet for volume, pH, calcium, oxalate, uric acid, citrate, sodium, potassium and creatinine. Sulfate reflects protein intake. Completeness: creatinine about 1 mg/kg/h (20–25 mg/kg/day in men)."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Volume, pH, Ca, oxalate, urate, citrate, Na, K, creatinine",
+   "Glucose not measured",
+   "Sulfate reflects protein intake"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Acquired diverticula",
+  "q": "Which statement about acquired bladder diverticula is FALSE?",
+  "o": [
+   "Their wall lacks a proper muscularis propria",
+   "They often lie near the ureteric orifice",
+   "They are commoner in women than men",
+   "About 70% have outlet obstruction"
+  ],
+  "a": 2,
+  "e": [
+   "Acquired diverticula are commoner in men; ~70% have outlet obstruction (in men prostatic; in women iatrogenic, dysfunctional, neurogenic or masses) or neurogenic dysfunction. They lie near the orifice (relative weakness) and may adhere to the ureter, affecting surgery. The hallmark is an incomplete, disorganised muscularis propria; no trabeculation in the wall."
+  ],
+  "s": "Ch 130 Bladder and urethral diverticula",
+  "b": [
+   "Commoner in men",
+   "~70% outlet obstruction",
+   "Near ureteric orifice; adherent to ureter",
+   "Wall lacks muscularis propria"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Neoadjuvant ADT before RP",
+  "q": "Neoadjuvant ADT before radical prostatectomy has been shown to:",
+  "o": [
+   "Improve long-term PSA-free survival",
+   "Improve overall survival in trials",
+   "Lower margins, no survival gain",
+   "Reduce margins in cT3c tumours"
+  ],
+  "a": 2,
+  "e": [
+   "Margins fall in cT1–T2 but not cT3c, and long-term PSA-free survival does not improve, so it has no role. Clinical overstaging occurs in about 27% of cT3 men (range 7–26%). PSA recurrence after RP depends on Gleason score, ECE, SVI, nodes and margins."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer",
+  "b": [
+   "Fewer positive margins in cT1–T2",
+   "No PSA-free survival gain",
+   "No margin benefit in cT3c",
+   "cT3 overstaged in ~27%"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Renal masses on US",
+  "q": "Which statement about sonographic renal patterns in children is FALSE?",
+  "o": [
+   "MCDK has random cysts of varying size",
+   "A renal mass on US should be followed by CT",
+   "ADPKD replaces parenchyma with cysts",
+   "ARPKD gives small shrunken kidneys"
+  ],
+  "a": 3,
+  "e": [
+   "ARPKD: bilateral enlarged echogenic kidneys. MCDK: randomly distributed cysts of varying size with scant hyperechoic parenchyma. ADPKD: bilateral, parenchyma replaced by cysts. Age and US features suggest a mass's nature, but contrast CT should follow."
+  ],
+  "s": "Ch 24 Paediatric imaging",
+  "b": [
+   "ARPKD: large echogenic kidneys",
+   "MCDK: random cysts, little hyperechoic parenchyma",
+   "ADPKD: parenchyma replaced by cysts",
+   "Renal mass: follow with contrast CT"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Premature infants",
+  "q": "Which statement about perioperative care of premature infants is FALSE?",
+  "o": [
+   "Target oxygen saturation is close to 100%",
+   "They are at high risk of apnoea",
+   "Skin evaporation causes large fluid losses",
+   "They concentrate urine poorly"
+  ],
+  "a": 0,
+  "e": [
+   "Supplemental oxygen risks retinopathy and blindness, so aim for saturation in the low 90s. Premature infants: high risk of apnoea (can be fatal), more perioperative complications, large evaporative losses, poor concentrating ability. Surfactant deficiency (<36 weeks) means high oxygen consumption, low FRC and tracheomalacia."
+  ],
+  "s": "Ch 26 Perioperative care in children",
+  "b": [
+   "Target SpO2 low 90s (retinopathy)",
+   "High apnoea risk",
+   "Big evaporative fluid loss",
+   "Poor urine concentration; surfactant deficiency"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Horseshoe kidney",
+  "q": "Which statement about horseshoe kidney is FALSE?",
+  "o": [
+   "It raises renal cell carcinoma risk",
+   "It is associated with Turner syndrome",
+   "It is the commonest fusion anomaly",
+   "Its isthmus usually lies at L3–L4"
+  ],
+  "a": 0,
+  "e": [
+   "Horseshoe kidney is the commonest fusion anomaly; the isthmus lies at L3–L4, is bulky parenchyma with its own blood supply; supply is variable. UPJ obstruction in one-third. Wilms tumour and renal pelvic tumours are commoner, but not RCC. Turner syndrome (45,X): horseshoe kidney and coarctation, so karyotype (also lymphoedema, shield chest, low hairline, webbed neck)."
+  ],
+  "s": "Ch 38 Upper tract anomalies",
+  "b": [
+   "No increased RCC risk; Wilms and pelvic tumours up",
+   "Commonest fusion anomaly",
+   "Isthmus at L3–L4, own blood supply",
+   "UPJO in one-third; Turner → karyotype"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Presentation of penile cancer",
+  "q": "Which statement about presentation of penile cancer is FALSE?",
+  "o": [
+   "Hypercalcaemia may be PTH-like and paraneoplastic",
+   "Pain brings most patients within a month",
+   "It occurs most often on the glans (48%)",
+   "15–50% delay care for over a year"
+  ],
+  "a": 1,
+  "e": [
+   "Patients with penile cancer delay more than most: 15–50% wait over a year; delay in biopsy is also common. Sites: glans 48%, prepuce 21%; it starts on the glans or prepuce and enlarges. Hypercalcaemia may come from PTH-like substances activating osteoclasts. Distant metastases occur late."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "15–50% delay over a year",
+   "Glans 48%, prepuce 21%",
+   "PTH-like hypercalcaemia",
+   "Distant metastases are late"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Collection error",
+  "q": "A man's 24-h urine shows creatinine of 50 mg/kg and high calcium, oxalate, sodium and urate. The most likely explanation is:",
+  "o": [
+   "An enteric hyperoxaluria",
+   "Overcollection past 24 h",
+   "Primary hyperparathyroidism",
+   "Severe dietary indiscretion"
+  ],
+  "a": 1,
+  "e": [
+   "Normal male creatinine is 20–25 mg/kg/day; a value near 50 suggests a 48-h collection, making all values unreliable."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Male creatinine 20–25 mg/kg/day",
+   "~50 mg/kg means overcollection",
+   "All values then unreliable"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Diverticular tumours",
+  "q": "Which statement about tumours in bladder diverticula is FALSE?",
+  "o": [
+   "The whole lining must be inspected",
+   "Urothelial carcinoma is commonest",
+   "A small papillary lesion should be biopsied",
+   "Deep biopsy is safe for staging"
+  ],
+  "a": 3,
+  "e": [
+   "With no muscle wall, deep biopsy risks perforation (and dissemination), yet without it staging is hard. Urothelial cancer is commonest. Biopsy any papillary lesion carefully (a 3-mm lesion can be biopsied without a resectoscope). Inspect the entire interior; image upper tracts; retrograde pyelograms only if indicated. A well-draining asymptomatic diverticulum still needs annual cystoscopy and cytology (natural history unknown, stasis may promote cancer)."
+  ],
+  "s": "Ch 130 Bladder and urethral diverticula",
+  "b": [
+   "Deep biopsy risks perforation",
+   "Urothelial carcinoma commonest",
+   "Biopsy papillary lesions",
+   "Annual cystoscopy and cytology; inspect whole lining"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Bicalutamide 150 mg",
+  "q": "Which statement about high-dose bicalutamide (150 mg) is FALSE?",
+  "o": [
+   "It improves survival in localised disease",
+   "It cut progression by about 43%",
+   "It reduces progression in locally advanced disease",
+   "It may help survival in advanced disease"
+  ],
+  "a": 0,
+  "e": [
+   "In localised disease it increased the risk of death (HR 1.23). Early ADT may benefit aggressive subsets at the cost of side effects."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer",
+  "b": [
+   "Harmful in localised disease (HR 1.23)",
+   "43% less progression in locally advanced disease",
+   "Early ADT may help aggressive subsets"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "UTI imaging",
+  "q": "Which statement about imaging after febrile UTI in children is FALSE?",
+  "o": [
+   "Bottom-up uses US then VCUG",
+   "A normal US excludes significant VUR",
+   "Bottom-up may overtreat low-grade VUR",
+   "Top-down uses DMSA first"
+  ],
+  "a": 1,
+  "e": [
+   "US is used first despite low yield; a normal sonogram does not risk-stratify or predict VUR. Bottom-up: US then VCUG finds all VUR (may overtreat low grades). Top-down: DMSA for pyelonephritis/scarring; VCUG only if DMSA abnormal. (AAP 2011: US after first febrile UTI; VCUG if US abnormal or recurrent UTI.)"
+  ],
+  "s": "Ch 24 Paediatric imaging",
+  "b": [
+   "Normal US does not exclude VUR",
+   "Bottom-up: US then VCUG (may overtreat)",
+   "Top-down: DMSA first, VCUG if abnormal",
+   "AAP 2011: US after first febrile UTI"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Diet and drugs before surgery",
+  "q": "Which statement about preoperative medical preparation in children is FALSE (per the book)?",
+  "o": [
+   "Give antiseizure and asthma drugs on the morning",
+   "Ketogenic-diet children need carbohydrate-free fluids",
+   "Stop metformin 24 hours before surgery",
+   "Fasting diabetics risk preoperative hypoglycaemia"
+  ],
+  "a": 3,
+  "e": [
+   "Book: fasting with stopped diabetic medicines causes volume depletion and hyperglycaemia (the 'hypoglycaemia' version is the false statement). Ketogenic diet: carbohydrate-free fluids. Metformin stopped 24 h before (lactic acidosis risk with dehydration or hypoxaemia). Give antiseizure, reflux and asthma medicines on the morning. Labs: opening the urinary tract is clean-contaminated; routine tests are not cost-effective; pregnancy test for females of childbearing age; routine chest x-ray is not recommended."
+  ],
+  "s": "Ch 26 Perioperative care in children",
+  "b": [
+   "Fasting diabetics: volume depletion, hyperglycaemia",
+   "Ketogenic diet: carbohydrate-free fluids",
+   "Stop metformin 24 h",
+   "Give antiseizure, reflux, asthma drugs"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Renal ectopia",
+  "q": "Which statement about renal ectopia is FALSE?",
+  "o": [
+   "Solitary ectopia has the most associated anomalies",
+   "Most ectopic kidneys cause symptoms",
+   "Ectopic kidneys show no sex predilection",
+   "56% of ectopic kidneys are hydronephrotic"
+  ],
+  "a": 1,
+  "e": [
+   "Most are asymptomatic, except those with an ectopic ureter. The pelvis lies anterior (incomplete rotation); 56% hydronephrotic: half obstruction (70% UPJ, 30% UVJ), 25% reflux ≥grade 3, 25% malrotation. Solitary ectopia has the most anomalies (cryptorchidism; vaginal atresia, uterine anomalies). Genital anomalies are associated. In crossed fusion the upper pole of the ectopic kidney joins the lower pole of the normal one; ureters are orthotopic. Normal rotation is 90° medially between weeks 6 and 9. Sex: bilateral agenesis ~75% male; unilateral 1.8:1; crossed fused 3:2; simple ectopia equal."
+  ],
+  "s": "Ch 38 Upper tract anomalies",
+  "b": [
+   "Usually asymptomatic",
+   "56% hydronephrotic (UPJ 70%, UVJ 30% of obstructed)",
+   "Solitary ectopia: most anomalies",
+   "No sex difference"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Penile cancer pathology",
+  "q": "Which statement about penile cancer histology and staging is FALSE?",
+  "o": [
+   "SCC subtypes split by HPV relationship",
+   "Cavernosal invasion is T2 in TNM 8",
+   "Most tumours are keratinising SCC",
+   "Stage, grade and LVI predict metastasis"
+  ],
+  "a": 1,
+  "e": [
+   "TNM 8: T2 invades corpus spongiosum; T3 invades corpus cavernosum (worse prognosis). Most are squamous cell carcinoma with keratin pearls; subtypes are divided into HPV-related and non-HPV groups. Stage, grade, vascular and perineural invasion predict metastasis. Biopsy (frozen section can precede definitive surgery) is essential. TNM 8 includes clinical and pathological descriptors."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "TNM 8: cavernosum = T3, spongiosum = T2",
+   "Mostly keratinising SCC",
+   "HPV-related vs non-HPV subtypes",
+   "Stage, grade, LVI, PNI predict nodes"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Enteric hyperoxaluria",
+  "q": "Which statement about enteric hyperoxaluria is FALSE?",
+  "o": [
+   "Diarrhoea causes profound hypocitraturia",
+   "It mainly causes calcium oxalate stones",
+   "Fat malabsorption frees oxalate for absorption",
+   "Oxalate is absorbed mainly in the small bowel"
+  ],
+  "a": 3,
+  "e": [
+   "Oxalate is absorbed mainly in the colon; bile salts and fatty acids increase colonic permeability, and fat binds calcium as soaps, leaving free oxalate. Calcium oxalate stones form from hyperoxaluria, hypocitraturia (bicarbonate loss, hypokalaemia; acid-base status is the main regulator of citrate), hypomagnesuria and low volume. Treat with fluids, potassium citrate and calcium supplements (calcium citrate ideal) to bind oxalate. Roux-en-Y bypass causes hyperoxaluria, low volume and hypocitraturia; band or sleeve mainly low volume."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Oxalate absorbed mainly in colon",
+   "Calcium oxalate stones",
+   "Fat binds calcium → free oxalate",
+   "Treat: fluids, K citrate, calcium supplements"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Diverticulum management",
+  "q": "An anticoagulated man with recurrent UTI, a large diverticulum and low detrusor pressure is best managed by:",
+  "o": [
+   "Intermittent self-catheterisation",
+   "Open diverticulectomy straight away",
+   "Observation without treatment",
+   "TURP to relieve the outlet"
+  ],
+  "a": 0,
+  "e": [
+   "Major surgery is high risk; TURP is risky on anticoagulants and will not empty a diverticulum with low detrusor pressure; recurrent UTI makes observation poor. Diverticula are usually incidental; no specific symptoms; may cause UTI and pyuria. Complications: UTI, stones, carcinoma, upper tract deterioration. Saccules and cellules accompany obstruction; reflux uncommon except Hutch; large diverticula may deviate the pelvic ureter medially."
+  ],
+  "s": "Ch 130 Bladder and urethral diverticula",
+  "b": [
+   "High-risk, low detrusor pressure: CIC",
+   "TURP won't empty a low-pressure diverticulum",
+   "Recurrent UTI: do not just observe"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "RT with ADT",
+  "q": "For locally advanced prostate cancer treated with radiotherapy, trials (RTOG, EORTC) support:",
+  "o": [
+   "Neoadjuvant + adjuvant ADT with EBRT",
+   "EBRT alone, without any ADT",
+   "Adjuvant ADT for 4 weeks only",
+   "Neoadjuvant ADT without adjuvant ADT"
+  ],
+  "a": 0,
+  "e": [
+   "Longer ADT with EBRT improves outcomes in high-grade disease. Doses ≥78 Gy improve primary RT outcomes; adjuvant RT doses >60 Gy (threshold ~61.2–64 Gy). Long ADT (>6–9 months) with RT may increase rectal morbidity and sexual dysfunction. CaPSURE shows more RP and less primary ADT and RT for high-risk disease."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer",
+  "b": [
+   "Neoadjuvant + adjuvant ADT with EBRT",
+   "Primary RT ≥78 Gy; adjuvant RT >60 Gy",
+   "Long ADT: more rectal and sexual toxicity",
+   "CaPSURE: more RP, less primary ADT"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Trauma and scrotal imaging",
+  "q": "Which statement about trauma and scrotal imaging in children is FALSE?",
+  "o": [
+   "Delayed CT views complete trauma imaging",
+   "US helps follow perinephric collections",
+   "Scintigraphy adds little for torsion",
+   "US is reliable for impalpable testes"
+  ],
+  "a": 3,
+  "e": [
+   "US is unreliable for the undescended testis (except perhaps inguinal testis in an overweight boy). US compares favourably with CT in acute trauma and follows haematomas or urinomas; CT uses ionising radiation and contrast; delayed parenchymal/collecting views or lateral cystourethral views complete it. Scrotal US with history and exam separates inflammation, tumour, trauma and torsion; scintigraphy adds little. Torsion of the appendix testis is NOT an enlarged avascular lower-pole nodule with hyperaemia (book)."
+  ],
+  "s": "Ch 24 Paediatric imaging",
+  "b": [
+   "US unreliable for undescended testis",
+   "US follows renal haematoma/urinoma",
+   "Delayed CT views complete trauma study",
+   "Scrotal US > scintigraphy for torsion"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Spina bifida and latex",
+  "q": "Which statement about children with spina bifida and other conditions is FALSE?",
+  "o": [
+   "Spina bifida raises latex allergy risk",
+   "Autonomic dysreflexia causes hypotension",
+   "Latex anaphylaxis causes bronchospasm",
+   "CAH may cause cortisol-related hypoglycaemia"
+  ],
+  "a": 1,
+  "e": [
+   "Autonomic dysreflexia (lesions T5–T8 or above) causes uncontrolled hypertension, bradycardia, stroke, even death; know its signs. Spina bifida has many comorbidities and latex allergy risk; latex anaphylaxis: bronchoconstriction, vasodilation, hypotension, capillary leak, coronary spasm. CAH: epinephrine and cortisol deficiency, hypoglycaemia. CKD 2: no drug adjustment but watch NSAIDs. Sickle cell: avoid dehydration during fasting. Bleomycin plus high inspired oxygen: fatal pulmonary toxicity."
+  ],
+  "s": "Ch 26 Perioperative care in children",
+  "b": [
+   "Dysreflexia: hypertension, bradycardia (T5–T8 or above)",
+   "Latex allergy risk",
+   "Latex anaphylaxis: bronchospasm, hypotension",
+   "CAH: cortisol deficiency, hypoglycaemia"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Unilateral renal agenesis",
+  "q": "Which statement about unilateral renal agenesis is FALSE?",
+  "o": [
+   "Contralateral VUR occurs in about 25%",
+   "Its incidence is around 1 in 1100",
+   "The ipsilateral ureter is absent in 60%",
+   "The ipsilateral adrenal is absent"
+  ],
+  "a": 3,
+  "e": [
+   "Adrenal agenesis occurs in <10%; the adrenal is usually normally placed (maybe flattened). Incidence 1:1100. Ipsilateral ureter absent in 60%; contralateral ureter anomalies common; 25% of contralateral ureters reflux. Gonads normal; epididymal head forms (mesonephric tubules). Splenic flexure gas in the left renal fossa suggests left agenesis or ectopia. Diagnose with US, DMSA or MRA. Solitary kidney: annual BP and urine protein checks (CKD risk); VCUG not mandatory."
+  ],
+  "s": "Ch 38 Upper tract anomalies",
+  "b": [
+   "Adrenal usually present (agenesis <10%)",
+   "Incidence 1:1100",
+   "Ipsilateral ureter absent 60%",
+   "Contralateral VUR 25%; annual BP and proteinuria"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Primary tumour imaging",
+  "q": "Which statement about staging the penile primary is FALSE?",
+  "o": [
+   "US and MRI cannot detect cavernosal invasion",
+   "MRI best shows soft-tissue detail",
+   "Physical exam best stages small distal lesions",
+   "Artificial erection MRI helps when exam is unclear"
+  ],
+  "a": 0,
+  "e": [
+   "US had 100% sensitivity for cavernosal invasion in one study; US and contrast MRI both help before organ-sparing surgery. Examination is most reliable for small distal lesions; examine both primary and groins."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "US can detect cavernosal invasion",
+   "Exam best for small distal lesions",
+   "MRI best soft-tissue detail",
+   "Artificial erection MRI if exam unclear"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Uric acid stones",
+  "q": "Which statement about uric acid stones is FALSE?",
+  "o": [
+   "Solubility at pH 7 is 10× that at pH 5",
+   "Low urine pH is the key determinant",
+   "Allopurinol is first line for most",
+   "Target urine pH is about 6.0 to 6.5"
+  ],
+  "a": 2,
+  "e": [
+   "Low pH (below the pKa 5.5, often ~5) drives crystallisation more than volume or hyperuricosuria. Potassium citrate to pH 6.0–6.5 is key; allopurinol mainly if urinary uric acid >1500 mg/day. Solubility >10× higher at pH 7 than 5, so measured uric acid rises after alkalinisation. Over-alkalinisation (>7) causes calcium phosphate stones (keep 6.5–7.0 in gouty diathesis). Lesch-Nyhan causes uric acid stones; hyperuricosuria also promotes calcium oxalate stones (heterogeneous nucleation). Diabetes gives acidic urine (uric acid, calcium oxalate stones)."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Alkalinise first; allopurinol if >1500 mg/day",
+   "Low pH is key (pKa 5.5)",
+   "Target pH 6.0–6.5 (book also 6.5–7.0)",
+   "pH >7 risks calcium phosphate stones"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Urethral diverticulum origin",
+  "q": "Female urethral diverticula most often arise from:",
+  "o": [
+   "Birth trauma to the urethra",
+   "Previous urethral catheterisation",
+   "Infection of periurethral glands",
+   "Congenital müllerian remnants"
+  ],
+  "a": 2,
+  "e": [
+   "Recurrent infection of periurethral glands, obstruction, suburethral abscess and rupture into the urethra. They lie within the urethropelvic ligament between endopelvic and periurethral fascia. Ostia: middle/distal third at 4 and 8 o'clock (ventrolateral), best seen at cystoscopy, too small for US. They can be partial, anterior or circumferential."
+  ],
+  "s": "Ch 130 Bladder and urethral diverticula",
+  "b": [
+   "Periurethral gland infection",
+   "Between endopelvic and periurethral fascia",
+   "Ostium mid/distal urethra, 4 and 8 o'clock",
+   "May be partial, anterior or circumferential"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Adjuvant radiotherapy",
+  "q": "Which statement about adjuvant RT after radical prostatectomy is FALSE?",
+  "o": [
+   "EORTC 22911 improved biochemical control",
+   "Positive margins benefit most (EORTC)",
+   "SWOG 8794 showed no survival benefit",
+   "SV invasion predicts progression despite RT"
+  ],
+  "a": 2,
+  "e": [
+   "SWOG 8794 and EORTC 22911 showed better biochemical, metastasis-free and overall survival (SWOG) and local control for pT3; margin-positive men benefit most. Book: the role remains controversial and benefiting subsets are ill defined. SV or node involvement predicts progression despite local therapy. N+ after RP: ECOG 3886 (immediate ADT improved survival); ADT plus RT may be better; no proven role for adjuvant chemotherapy. Update: RADICALS-RT, RAVES and GETUG-AFU 17 favour early salvage over routine adjuvant RT."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer",
+  "b": [
+   "SWOG 8794: survival benefit",
+   "EORTC 22911: better biochemical control",
+   "Positive margins benefit most",
+   "SVI or N+ progress despite local therapy"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Malignant hyperthermia",
+  "q": "Per the book, which step is part of the response to suspected malignant hyperthermia?",
+  "o": [
+   "Give more volatile agent to deepen anaesthesia",
+   "Give succinylcholine to relax rigid muscles",
+   "Stop trigger, call help, art line, Foley",
+   "Cool slowly and wait for laboratory results"
+  ],
+  "a": 2,
+  "e": [
+   "Book answer: stop the trigger, call for help, change the machine, place arterial line and catheter. Corrections to the book's distractors: MH is rare; triggered by volatile agents and succinylcholine; early signs hypercarbia, tachycardia, masseter spasm, hyperthermia; late signs metabolic acidosis, hyperkalaemia, rigidity, rhabdomyolysis. Dantrolene is the specific treatment."
+  ],
+  "s": "Ch 26 Perioperative care in children",
+  "b": [
+   "Stop trigger, call help, change machine",
+   "Arterial line and catheter",
+   "Triggers: volatiles, succinylcholine",
+   "Give dantrolene"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Renal vascular anomalies",
+  "q": "Which statement about renal vascular anomalies is FALSE?",
+  "o": [
+   "Most renal AV fistulas are congenital",
+   "AV fistulas cause hypertension in 50%",
+   "Renal arteries are end arteries",
+   "The apical segmental artery varies most"
+  ],
+  "a": 0,
+  "e": [
+   "Fewer than 25% of renal AVFs are congenital (cirsoid, multiple communications, present in 3rd–4th decade, women 3:1, upper pole 45%); they cause renin-mediated hypertension in 50%. Renal arteries are end arteries without collaterals. The apical segmental artery varies most in origin (anterior division 43%). Megacalycosis: nonobstructive dilated, sometimes more numerous calyces; male 6:1. Infundibulopelvic stenosis is usually bilateral with VUR."
+  ],
+  "s": "Ch 38 Upper tract anomalies",
+  "b": [
+   "<25% of renal AVFs congenital (cirsoid)",
+   "Renal arteries are end arteries",
+   "AVF: renin-mediated hypertension in 50%",
+   "Apical segmental artery varies most"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Inguinal node prognosis",
+  "q": "Which statement about inguinal metastases in penile cancer is FALSE?",
+  "o": [
+   "A node over 4 cm suggests extranodal spread",
+   "Nodal extent is the main survival factor",
+   "Pelvic nodes are not first-echelon nodes",
+   "Nodes drain first to deep inguinal nodes"
+  ],
+  "a": 3,
+  "e": [
+   "Preputial and shaft lymphatics drain to superficial inguinal nodes (outside the fascia lata) by embolisation. Presence and extent of inguinal metastasis is the most important prognostic factor. Good surgical outcome (>70% 5-year): ≤2 nodes, unilateral, no ENE, no pelvic nodes; nodes >4 cm often have ENE. Examination is the gold standard in nonobese men; CT/MRI for obese or previously operated groins; CT in node-positive men to find poor-prognosis features; PET/CT for pelvic/distant disease. Persistent palpable nodes: US- or CT-guided biopsy. Record clinical and pathological node factors."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "First drainage: superficial inguinal nodes",
+   "Nodal extent = main survival factor",
+   "Node >4 cm suggests ENE",
+   "Good prognosis: ≤2 nodes, unilateral, no ENE, no pelvic"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Infection stones",
+  "q": "Which statement about struvite stones is FALSE?",
+  "o": [
+   "E. coli is a typical urease producer",
+   "Proteus splits urea into ammonia",
+   "They may harbour large amounts of endotoxin",
+   "Recurrent UTI is a key risk factor"
+  ],
+  "a": 0,
+  "e": [
+   "E. coli usually lacks urease. Urea-splitters (Proteus) make ammonia; with matrix, carbonate apatite and bacteria, magnesium ammonium phosphate forms rapidly into staghorns; trapped bacteria perpetuate infection; stones may carry endotoxin. Recurrent UTI and anatomic abnormalities are risks; metabolic disorders coexist, especially in mixed stones, so do a metabolic evaluation. Acetohydroxamic acid 250 mg tds inhibits urease and can dissolve small stones; up to 30% get minor side effects, 15% DVT on long-term use."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "E. coli usually lacks urease",
+   "Proteus: urea → ammonia",
+   "Stones may carry endotoxin",
+   "Recurrent UTI; check metabolic causes too"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Urethral diverticulum symptoms",
+  "q": "Which is NOT a recognised feature of female urethral diverticulum?",
+  "o": [
+   "Vaginal pruritus",
+   "Dyspareunia",
+   "Dysuria",
+   "Post-void dribbling"
+  ],
+  "a": 0,
+  "e": [
+   "The '3 Ds' (dysuria, post-void dribbling, dyspareunia) are rarely all present; some are asymptomatic. Size does not predict symptoms, cancer or infection, but large saddlebag diverticula recur more. A Skene gland abscess distorts the meatus; Skene glands do not communicate with the urethra. Gartner duct cysts lie on the anterolateral vaginal wall from cervix to introitus. Urethral mucosal prolapse occurs in prepubertal girls and postmenopausal women."
+  ],
+  "s": "Ch 130 Bladder and urethral diverticula",
+  "b": [
+   "Pruritus is not a feature",
+   "3 Ds: dysuria, dribbling, dyspareunia",
+   "Skene abscess distorts the meatus",
+   "Large saddlebag diverticula recur more"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Bed recurrence",
+  "q": "After RP, a man with rising PSA has a soft-tissue mass anterior to the rectum at the vesicourethral anastomosis on CT. Most likely:",
+  "o": [
+   "Prostatectomy-bed recurrence",
+   "A retained seminal vesicle",
+   "A pelvic lymph node deposit",
+   "A postoperative lymphocele"
+  ],
+  "a": 0,
+  "e": [
+   "Its position anterior to the rectum at the anastomosis argues against a node or seminal vesicle remnant."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer",
+  "b": [
+   "Mass at anastomosis, anterior to rectum",
+   "Rising PSA after RP",
+   "Likely local bed recurrence"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Pain in children",
+  "q": "Which statement about pain in children is FALSE?",
+  "o": [
+   "Multimodal analgesia is recommended",
+   "Child life specialists reduce anxiety",
+   "Self-reported pain scales work under age 2",
+   "Preoperative anxiety predicts postoperative pain"
+  ],
+  "a": 2,
+  "e": [
+   "Self-assessment pain scales are not usable under 2 years. Discussing expectations and using child life specialists lowers anxiety; preoperative anxiety predicts postoperative pain and emergence delirium. Discuss pain with anaesthesia; use multimodal analgesia; dispose of unused narcotics properly. Most cardiac events are preventable; complications occur mostly early postoperatively."
+  ],
+  "s": "Ch 26 Perioperative care in children",
+  "b": [
+   "Self-report scales unusable <2 years",
+   "Anxiety predicts postoperative pain and delirium",
+   "Child life specialists reduce anxiety",
+   "Multimodal analgesia; dispose of opioids"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Bilateral renal agenesis",
+  "q": "Which statement about bilateral renal agenesis is FALSE?",
+  "o": [
+   "Parents and siblings should have renal US",
+   "Potter facies and lung hypoplasia occur",
+   "The adrenal glands are usually absent",
+   "About 40% are stillborn"
+  ],
+  "a": 2,
+  "e": [
+   "Adrenals are usually normally placed; ureters almost always absent; bladder absent or hypoplastic; 40% stillborn; oligohydramnios, Potter facies, pulmonary hypoplasia. Screen parents and siblings with US. Maternal diabetes triples risk of agenesis and dysplasia. Survivors with agenesis may have reduced renal reserve and ESRD risk."
+  ],
+  "s": "Ch 38 Upper tract anomalies",
+  "b": [
+   "Adrenals normally present",
+   "40% stillborn",
+   "Potter facies, pulmonary hypoplasia",
+   "Screen parents and siblings; maternal diabetes ×3"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Node staging in cN0",
+  "q": "Which statement about staging the groin in clinically node-negative penile cancer is FALSE?",
+  "o": [
+   "Superficial ILND reliably finds micrometastases",
+   "Laparoscopic or robotic ILND gives similar yields",
+   "Anatomic sentinel node biopsy is recommended",
+   "Dynamic sentinel node biopsy suits expert centres"
+  ],
+  "a": 2,
+  "e": [
+   "Fixed-site (anatomic) sentinel biopsy is unreliable and no longer recommended. Options for cN0 with adverse primary features: dynamic sentinel node biopsy (low morbidity, validated at high-volume centres), superficial ILND (reliable but morbid), modified complete dissection, laparoscopic/robotic ILND (comparable yields; more data needed for cN+). Low-risk (Tis, verrucous): little metastatic risk. Bilateral staging is supported (bilateral drainage; contralateral metastases in >50% in some series). Morbidity is falling."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "Anatomic sentinel biopsy unreliable",
+   "Dynamic SNB at expert centres",
+   "Superficial ILND reliable but morbid",
+   "Lap/robotic ILND: comparable yield"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Cystinuria management",
+  "q": "Which statement about cystinuria is FALSE?",
+  "o": [
+   "Cystine is 200× more soluble than cysteine",
+   "Target urine cystine below 200–250 mg/L",
+   "Tiopronin is as effective as penicillamine",
+   "It is autosomal recessive (COLA transport)"
+  ],
+  "a": 0,
+  "e": [
+   "Thiols cleave cystine into cysteine, which is about 200 times more soluble. Autosomal recessive defect of cystine, ornithine, lysine, arginine transport; homozygotes supersaturate; onset in the 1st–2nd decade; family history uncommon. Aim for concentration below 200–250 mg/L, so combine drugs with high urine output. α-MPG (tiopronin) equals D-penicillamine with less toxicity; no need to switch a stable patient. Children with stones need full work-up (cystinuria, RTA, primary hyperoxaluria); consider furosemide in neonates. Indinavir stones may be invisible on CT."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Cysteine is 200× more soluble than cystine",
+   "Autosomal recessive COLA defect",
+   "Target <200–250 mg/L",
+   "Tiopronin as effective, less toxic"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Diverticulectomy",
+  "q": "Which statement about urethral diverticulectomy is FALSE?",
+  "o": [
+   "Close the urethra watertight",
+   "Remove the ostium completely",
+   "Use an autologous sling for coexisting SUI",
+   "Excise the periurethral fascia widely"
+  ],
+  "a": 3,
+  "e": [
+   "Preserve the distinct periurethral fascial layer for reconstruction and to prevent fistula. Remove the sac and ostium (catheter seen through the defect) and close primarily with absorbable suture; flaps are not required. Synthetic slings risk erosion, so use autologous fascia. Complications: fistula, de novo SUI (~10%), injury to urethra, bladder, ureters with large diverticula. VCUG without post-void films may miss it; MRI (or US, CT, double-balloon) can show saddlebag diverticula. Adenocarcinoma is the commonest malignancy in urethral diverticula."
+  ],
+  "s": "Ch 130 Bladder and urethral diverticula",
+  "b": [
+   "Preserve periurethral fascia",
+   "Excise the ostium",
+   "Watertight absorbable closure",
+   "Autologous sling if SUI; de novo SUI ~10%"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Fever after surgery",
+  "q": "Which statement about perioperative infection in children is FALSE?",
+  "o": [
+   "Bacterial UTI is the commonest fever cause",
+   "Transfusion can cause fever for a week",
+   "Give antibiotics as soon as sepsis is suspected",
+   "Recurrent preoperative UTI raises infection risk"
+  ],
+  "a": 0,
+  "e": [
+   "The commonest infectious cause of perioperative fever is a viral upper respiratory infection; respiratory infection causes airway hyperreactivity for 2–8 weeks. Transfusion can cause fever up to a week. Obtain and treat urine cultures preoperatively when indicated; recurrent UTI raises risk. Antibiotics are the mainstay of sepsis and of surgical site infection prevention (timed for tissue levels at incision). Trauma: assume a full stomach (rapid sequence induction); nerve blocks help septic children. Anaphylaxis: NMBAs and β-lactams; stop drug, 100% oxygen, Trendelenburg, fluids, epinephrine. ERAS is not yet established in children."
+  ],
+  "s": "Ch 26 Perioperative care in children",
+  "b": [
+   "Commonest: viral URTI",
+   "Transfusion fever up to 1 week",
+   "Recurrent UTI raises infection risk",
+   "Early antibiotics in sepsis"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Renal artery aneurysm",
+  "q": "Which is NOT an indication to repair a renal artery aneurysm (per the book)?",
+  "o": [
+   "Growth on serial imaging studies",
+   "Stable 1.5 cm aneurysm, man",
+   "Aneurysm larger than 2.5 cm",
+   "A woman of childbearing age"
+  ],
+  "a": 1,
+  "e": [
+   "Book indications: uncontrolled hypertension, incomplete ring calcification, size >2.5 cm, woman of childbearing age or pregnant, growth, associated AVF, rupture, distal emboli. Update: SVS 2020 suggests repair for >3 cm in good-risk patients, and any size in women who may become pregnant."
+  ],
+  "s": "Ch 38 Upper tract anomalies",
+  "b": [
+   "Repair >2.5 cm (book; SVS: >3 cm)",
+   "Any woman of childbearing age",
+   "Growth, incomplete calcification, AVF",
+   "Uncontrolled hypertension, rupture, emboli"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Organ preservation",
+  "q": "Which statement about penile-preserving treatment is FALSE?",
+  "o": [
+   "Local recurrence is lower than amputation",
+   "Tis–T1 low-grade lesions suit preservation",
+   "Mohs surgery and laser are options",
+   "RT suits T1–T2 tumours under 4 cm"
+  ],
+  "a": 0,
+  "e": [
+   "Local recurrence is higher with organ preservation, but detected and treated recurrence does not reduce early survival. Ideal: Tis, Ta, T1, grade 1–2; aim to keep glans sensation or penile length. Options: limited excision, Mohs, laser; amputation for large or deeply invasive lesions. RT (EBRT or brachytherapy) for T1–T2 <4 cm; also for those refusing surgery or for palliation; nodal staging criteria are the same. 20% of recurrences occur after 5 years; salvage penectomy can cure."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "Higher local recurrence than amputation",
+   "Best for Tis–T1, grade 1–2",
+   "Excision, Mohs, laser",
+   "RT for T1–T2 <4 cm"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Renal hypercalciuria",
+  "q": "Which statement about renal hypercalciuria is FALSE?",
+  "o": [
+   "Serum calcium is high",
+   "Secondary hyperparathyroidism follows",
+   "Its primary defect is tubular calcium leak",
+   "Calcium restriction does not help it"
+  ],
+  "a": 0,
+  "e": [
+   "Renal leak lowers serum calcium, raising PTH and 1,25-vitamin D, which increase bone resorption and gut absorption; serum calcium is normal (unlike primary hyperparathyroidism); radial bone density low or low-normal. Calcium restriction has no effect. Hypercalciuria without hypercalcaemia: absorptive, renal leak, or normocalcaemic hyperparathyroidism. Moderate calcium with low sodium and less animal protein cuts calcium stone episodes ~50% (protein raises calcium, oxalate, uric acid)."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Normal serum calcium",
+   "Primary renal tubular calcium leak",
+   "Secondary hyperparathyroidism, low bone density",
+   "Calcium restriction ineffective"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Thiazides",
+  "q": "Which statement about thiazides in hypercalciuria is FALSE?",
+  "o": [
+   "Potassium citrate is the preferred supplement",
+   "They cause hypokalaemia and hypocitraturia",
+   "They can unmask primary hyperparathyroidism",
+   "High dietary sodium boosts their effect"
+  ],
+  "a": 3,
+  "e": [
+   "Sodium increases urinary calcium and blocks the hypocalciuric action of thiazides, so restrict sodium. Thiazides increase distal tubular calcium reabsorption and, via volume depletion, proximal reabsorption. Side effects: hypokalaemia (cramps, weakness), hypocitraturia (from intracellular acidosis), low magnesium, glucose intolerance, hyperuricaemia, sexual dysfunction; check electrolytes 1–2 weeks after starting; add potassium citrate. They may unmask hyperparathyroidism. Update: NOCHOL trial (2023): hydrochlorothiazide did not reduce stone recurrence."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Sodium blocks thiazide effect",
+   "May unmask hyperparathyroidism",
+   "Hypokalaemia, hypocitraturia",
+   "Add potassium citrate; NOCHOL 2023 no benefit"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Chemotherapy in penile cancer",
+  "q": "Which statement about systemic therapy for penile cancer is FALSE?",
+  "o": [
+   "Cisplatin-based neoadjuvant therapy suits N+ disease",
+   "Unresectable nodes may become operable",
+   "Surgery after progression on chemo is futile",
+   "Bleomycin regimens are preferred first line"
+  ],
+  "a": 3,
+  "e": [
+   "Bleomycin gave no better responses than cisplatin and caused fatal lung toxicity: discouraged. Neoadjuvant cisplatin-based chemotherapy (e.g., TIP) for node-positive disease can enable curative resection; consolidation surgery for responders; not for progressors (rapid death). Adjuvant chemotherapy for >2 nodes, ENE or pelvic nodes (VBM 82% vs 37% 5-year survival in one centre). PLND for >1 positive inguinal node or ENE. InPACT is testing multimodal therapy; palliative RT helps. No level 1 evidence defines the best strategy."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "Bleomycin discouraged (lung toxicity)",
+   "Neoadjuvant cisplatin-based for N+",
+   "Can make nodes operable",
+   "No surgery after chemo progression"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "dRTA",
+  "q": "Which statement about distal renal tubular acidosis (dRTA) is FALSE?",
+  "o": [
+   "It causes hypercalciuria and hypocitraturia",
+   "Sodium alkali is preferred long term",
+   "Chronic acidosis lowers bone density",
+   "Urine pH cannot fall below 5.3"
+  ],
+  "a": 1,
+  "e": [
+   "Sodium alkali can promote calcium stones (especially pH >7); potassium citrate is preferred. dRTA: inability to lower urine pH below 5.3; incomplete form stays in acid-base balance. Acidosis mobilises bone calcium and impairs tubular reabsorption, causing hypercalciuria and low bone density; hypocitraturia. As stone phosphate content rises (CaOx → apatite), RTA rises from 5% to 39% and hyperparathyroidism from 2% to 10%."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Potassium citrate preferred to sodium alkali",
+   "Urine pH cannot fall below 5.3",
+   "Hypercalciuria, hypocitraturia",
+   "Low bone density"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Other penile tumours",
+  "q": "Which statement about non-SCC penile tumours is FALSE?",
+  "o": [
+   "Priapism is the commonest sign of metastasis",
+   "Penile lymphoma requires a systemic search",
+   "Epidemic Kaposi sarcoma is linked to HHV-8",
+   "Buschke-Löwenstein often metastasises"
+  ],
+  "a": 3,
+  "e": [
+   "Buschke-Löwenstein (giant condyloma) destroys tissue by compression but does not metastasise; excise completely; malignant change has been shown. Imiquimod is the standard topical treatment for condyloma. Kaposi sarcoma: HHV-8. Penile metastases: priapism, swelling, nodules; usually from an obvious primary; poor prognosis. Penile lymphoma: look for systemic disease. Melanoma and basal cell carcinoma are rare (sun-protected skin); BCC is curable; melanoma curable early (immunotherapy for advanced). Sarcomas recur locally, rarely metastasise. Extramammary Paget: intraepidermal spread, wide local excision."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "Buschke-Löwenstein: no metastases",
+   "Kaposi: HHV-8",
+   "Penile metastasis: priapism",
+   "Lymphoma: search for systemic disease"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "CKD anaemia",
+  "q": "In children with chronic kidney disease, anaemia is mainly due to:",
+  "o": [
+   "Iron loss from occult bleeding",
+   "Haemolysis caused by dialysis",
+   "Vitamin B12 malabsorption",
+   "Low erythropoietin and uraemia"
+  ],
+  "a": 3,
+  "e": [
+   "Renal erythropoietin falls and urea suppresses red cell production. Book distractors corrected: CKD under 6 years is mostly congenital (CAKUT), not acquired IgA nephropathy; uraemic platelet dysfunction increases bleeding (not thrombosis); cardiac function is often abnormal; electrolyte disturbance (e.g., hyperkalaemia) risks arrhythmia."
+  ],
+  "s": "Ch 26 Perioperative care in children",
+  "b": [
+   "Low erythropoietin",
+   "Urea suppresses red cells",
+   "CKD <6 years: mostly congenital"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Low-risk histology",
+  "q": "Which penile primary carries little or no risk of nodal metastasis?",
+  "o": [
+   "Sarcomatoid carcinoma",
+   "T1b grade 3 SCC",
+   "Basaloid squamous carcinoma",
+   "Verrucous carcinoma"
+  ],
+  "a": 3,
+  "e": [
+   "Carcinoma in situ and verrucous carcinoma carry little or no metastatic risk, so groin staging is not needed for them."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "Verrucous carcinoma: little nodal risk",
+   "Tis: little nodal risk"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Pelvic node dissection",
+  "q": "In penile cancer, pelvic lymph node dissection is recommended when:",
+  "o": [
+   "The primary is T2 with a negative groin",
+   "Any single node micrometastasis",
+   "The patient is obese with impalpable nodes",
+   ">1 positive inguinal node or ENE"
+  ],
+  "a": 3,
+  "e": [
+   "PLND for >1 positive inguinal node or extranodal extension; pelvic nodes are second-echelon."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   ">1 positive inguinal node",
+   "Extranodal extension"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Adjuvant chemotherapy",
+  "q": "After ilioinguinal lymphadenectomy, adjuvant chemotherapy is NOT routinely needed for:",
+  "o": [
+   "Two unilateral focal node deposits",
+   "Pelvic nodal metastasis",
+   "Extranodal extension of cancer",
+   "More than two positive inguinal nodes"
+  ],
+  "a": 0,
+  "e": [
+   "Consider adjuvant chemotherapy for >2 nodes, ENE or pelvic nodes; VBM gave 82% vs 37% 5-year survival in one centre (bleomycin is now discouraged)."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   ">2 positive nodes",
+   "Extranodal extension",
+   "Pelvic nodes"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Primary radiotherapy",
+  "q": "Primary radiotherapy for penile cancer suits:",
+  "o": [
+   "Young man, 3 cm superficial glans lesion",
+   "An elderly man with a 6 cm invasive tumour",
+   "A man with deep cavernosal invasion",
+   "A patient with urethral involvement"
+  ],
+  "a": 0,
+  "e": [
+   "RT suits small (2–4 cm) superficial exophytic glans/coronal lesions in young men, those refusing surgery, and palliation of metastases."
+  ],
+  "s": "Ch 79 Penile tumours",
+  "b": [
+   "Small (2–4 cm) superficial glans lesion",
+   "Patient refusing surgery",
+   "Palliation of metastases"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Allopurinol",
+  "q": "In uric acid stone disease, allopurinol is mainly indicated when urinary uric acid exceeds:",
+  "o": [
+   "300 mg/day",
+   "600 mg/day",
+   "1500 mg/day",
+   "1000 mg/day"
+  ],
+  "a": 2,
+  "e": [
+   "Alkalinisation is the key; allopurinol (xanthine oxidase inhibitor) mainly for marked hyperuricosuria; fluids lower concentration; thiazides and calcium restriction have no role."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Use if urinary uric acid >1500 mg/day",
+   "Alkalinisation is the mainstay"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Bariatric surgery",
+  "q": "After Roux-en-Y gastric bypass, the key metabolic stone risk is:",
+  "o": [
+   "Hyperoxaluria",
+   "Cystinuria",
+   "Hypercalciuria",
+   "Hyperuricosuria"
+  ],
+  "a": 0,
+  "e": [
+   "Bypass: hyperoxaluria, low volume, hypocitraturia. Band or sleeve: mainly low volume."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Roux-en-Y: hyperoxaluria",
+   "Also low volume, hypocitraturia",
+   "Band/sleeve: low volume only"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Acetohydroxamic acid",
+  "q": "Long-term acetohydroxamic acid therapy can cause:",
+  "o": [
+   "Irreversible optic neuritis",
+   "DVT in about 15% of users",
+   "Hyperkalaemic metabolic acidosis",
+   "Severe hypercalcaemia"
+  ],
+  "a": 1,
+  "e": [
+   "AHA 250 mg tds inhibits urease, preventing new struvite stones and growth; minor side effects in up to 30% (headache, nausea, anaemia, rash, alopecia)."
+  ],
+  "s": "Ch 92 Stone evaluation and medical management",
+  "b": [
+   "Urease inhibitor, 250 mg tds",
+   "DVT in 15% long term",
+   "Minor side effects in 30%"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Diverticular cancer",
+  "q": "The commonest malignancy in a female urethral diverticulum is:",
+  "o": [
+   "Urothelial carcinoma",
+   "Melanoma",
+   "Adenocarcinoma",
+   "Squamous carcinoma"
+  ],
+  "a": 2,
+  "e": [
+   "Adenocarcinoma predominates in urethral diverticula, unlike bladder diverticula, where urothelial carcinoma is commonest."
+  ],
+  "s": "Ch 130 Bladder and urethral diverticula",
+  "b": [
+   "Urethral diverticulum: adenocarcinoma",
+   "Bladder diverticulum: urothelial"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Megacalycosis",
+  "q": "Megacalycosis is best described as:",
+  "o": [
+   "Calyceal diverticula with stones",
+   "Nonobstructive calyceal dilatation",
+   "Calyceal dilatation from UPJ obstruction",
+   "A dilated thick-walled renal pelvis"
+  ],
+  "a": 1,
+  "e": [
+   "Calyces dilated, malformed, sometimes increased in number; pelvis and UPJ normal; male 6:1; bilateral almost only in males, segmental unilateral only in females."
+  ],
+  "s": "Ch 38 Upper tract anomalies",
+  "b": [
+   "Nonobstructive, malformed papillae",
+   "Normal pelvis and UPJ",
+   "Male 6:1"
+  ]
+ },
+ {
+  "f": "mcq",
+  "t": "Node-positive after RP",
+  "q": "For pN+ disease after radical prostatectomy, the book suggests the best outcomes come from:",
+  "o": [
+   "Adjuvant immunotherapy",
+   "Adjuvant docetaxel chemotherapy",
+   "Observation until PSA rises",
+   "Radiotherapy plus ADT"
+  ],
+  "a": 3,
+  "e": [
+   "ECOG 3886 (Messing): immediate ADT improved survival over delayed; newer data suggest ADT plus RT is better still; no proven role for adjuvant chemotherapy or immunotherapy."
+  ],
+  "s": "Ch 159 Locally advanced prostate cancer",
+  "b": [
+   "ECOG 3886: immediate ADT",
+   "ADT + RT may be better",
+   "No role for adjuvant chemo"
+  ]
+ }
+]

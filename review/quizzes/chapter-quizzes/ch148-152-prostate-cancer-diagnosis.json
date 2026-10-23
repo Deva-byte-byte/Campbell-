@@ -1,0 +1,802 @@
+[
+ {
+  "f": "mcq",
+  "t": "Epidemiology",
+  "q": "Since 2008, US prostate cancer incidence has been:",
+  "o": [
+   "Falling",
+   "Fluctuating with no trend",
+   "Rising",
+   "Stable"
+  ],
+  "a": 0,
+  "e": [
+   "SEER data show a peak in 1992, about 5 years after PSA testing began, then a fall to 1995 and year-to-year fluctuation until 2008. Incidence has fallen steadily since then."
+  ],
+  "s": "Ch 148 Epidemiology, etiology and prevention"
+ },
+ {
+  "f": "mcq",
+  "t": "Epidemiology",
+  "q": "Globally, age-standardised prostate cancer incidence is highest in:",
+  "o": [
+   "Low-income countries",
+   "Regions with the highest mortality",
+   "High-income regions where PSA testing is common",
+   "East Asia"
+  ],
+  "a": 2,
+  "e": [
+   "Incidence follows screening intensity. Incidence and mortality are highest in African American and Jamaican men."
+  ],
+  "s": "Ch 148 Epidemiology, etiology and prevention"
+ },
+ {
+  "f": "mcq",
+  "t": "Screening trials",
+  "q": "The main criticism of the PLCO screening trial is:",
+  "o": [
+   "Heavy PSA testing in the control arm (contamination about 52%) plus pre-screening",
+   "Use of DRE only",
+   "Too few participants",
+   "No mortality data"
+  ],
+  "a": 0,
+  "e": [
+   "When analysed by actual screening received, PLCO's results resembled ERSPC's, showing a mortality benefit."
+  ],
+  "s": "Ch 148 Epidemiology, etiology and prevention"
+ },
+ {
+  "f": "mcq",
+  "t": "Risk factors",
+  "q": "A man whose father had prostate cancer has a relative risk of about:",
+  "o": [
+   "10",
+   "1.0",
+   "1.5",
+   "2–3"
+  ],
+  "a": 3,
+  "e": [
+   "Risk rises with the number of affected relatives, how closely related they are, and how young they were at diagnosis. HOXB13 and BRCA2 carry substantially higher risk."
+  ],
+  "s": "Ch 148 Epidemiology, etiology and prevention"
+ },
+ {
+  "f": "mcq",
+  "t": "Risk factors",
+  "q": "Which effect of obesity is described in prostate cancer?",
+  "o": [
+   "Higher circulating androgens",
+   "Lower free IGF-1",
+   "Better cancer-specific survival",
+   "Lower serum PSA (and larger glands), with more high-grade disease and worse outcomes after surgery"
+  ],
+  "a": 3,
+  "e": [
+   "Lower PSA and larger prostates may delay biopsy and increase sampling error."
+  ],
+  "s": "Ch 148 Epidemiology, etiology and prevention"
+ },
+ {
+  "f": "mcq",
+  "t": "Molecular",
+  "q": "TMPRSS2-ERG fusion:",
+  "o": [
+   "Places an ETS oncogene under androgen control; found in about 50% of localised cancers and highly specific for cancer",
+   "Occurs only in neuroendocrine tumours",
+   "Is a germline mutation",
+   "Is rare (under 5%)"
+  ],
+  "a": 0,
+  "e": [
+   "TMPRSS2 is an androgen-regulated, prostate-specific serine protease gene. When present, the fusion is close to 100% specific for prostate cancer."
+  ],
+  "s": "Ch 148 Epidemiology, etiology and prevention"
+ },
+ {
+  "f": "mcq",
+  "t": "Molecular",
+  "q": "SPOP-mutant tumours that overexpress SPINK1 are:",
+  "o": [
+   "About 25% of all cancers",
+   "Low grade",
+   "More common in African American men and associated with higher Gleason scores",
+   "Usually ETS-fusion positive"
+  ],
+  "a": 2,
+  "e": [
+   "SPOP mutations account for about 10% of primary cancers. Fusions and SPOP mutations are usually mutually exclusive."
+  ],
+  "s": "Ch 148 Epidemiology, etiology and prevention"
+ },
+ {
+  "f": "mcq",
+  "t": "Androgens",
+  "q": "Which statement on androgens and prostate cancer is correct?",
+  "o": [
+   "Hypogonadal men never get prostate cancer",
+   "Higher serum testosterone clearly raises risk",
+   "Androgen exposure before or at puberty is needed for prostate cancer to develop",
+   "Type 1 5α-reductase is the main prostatic isoform"
+  ],
+  "a": 2,
+  "e": [
+   "DHT made by type 2 5α-reductase is the main prostatic androgen. Intraprostatic androgen levels are locally regulated, and no dose–response with serum levels has been shown."
+  ],
+  "s": "Ch 148 Epidemiology, etiology and prevention"
+ },
+ {
+  "f": "mcq",
+  "t": "Prevention",
+  "q": "SELECT showed that:",
+  "o": [
+   "Selenium lowered diabetes",
+   "Both reduced cardiovascular disease",
+   "Selenium plus vitamin E lowered prostate cancer",
+   "Vitamin E alone increased prostate cancer risk on longer follow-up (HR about 1.17)"
+  ],
+  "a": 3,
+  "e": [
+   "Neither supplement prevented prostate cancer."
+  ],
+  "s": "Ch 148 Epidemiology, etiology and prevention"
+ },
+ {
+  "f": "mcq",
+  "t": "Prevention",
+  "q": "In PCPT (finasteride) and REDUCE (dutasteride), 5-ARIs:",
+  "o": [
+   "Worsened BPH symptoms",
+   "Increased prostate-cancer mortality",
+   "Were poorly tolerated",
+   "Reduced the risk of being diagnosed with prostate cancer by about 25%, with no effect on overall or cancer-specific mortality"
+  ],
+  "a": 3,
+  "e": [
+   "More high-grade cancers were diagnosed on 5-ARIs, but this did not increase deaths."
+  ],
+  "s": "Ch 148 Epidemiology, etiology and prevention"
+ },
+ {
+  "f": "mcq",
+  "t": "Biomarkers",
+  "q": "PSA is specific for:",
+  "o": [
+   "Prostate cancer",
+   "Prostatic inflammation",
+   "BPH",
+   "The prostate as an organ, not any one disease"
+  ],
+  "a": 3,
+  "e": [
+   "Its half-life is 2–3 days. PSA can be made outside the prostate, for example in breast, adrenal and renal tumours."
+  ],
+  "s": "Ch 149 Prostate cancer biomarkers"
+ },
+ {
+  "f": "mcq",
+  "t": "Biomarkers",
+  "q": "Compared with normal tissue, prostate cancer cells make:",
+  "o": [
+   "More PSA per gram",
+   "Less PSA per gram; serum PSA rises because the tissue architecture breaks down",
+   "No PSA",
+   "The same PSA"
+  ],
+  "a": 1,
+  "e": [
+   "Cancer tissue has up to 1.5-fold lower PSA mRNA."
+  ],
+  "s": "Ch 149 Prostate cancer biomarkers"
+ },
+ {
+  "f": "mcq",
+  "t": "Biomarkers",
+  "q": "Men with prostate cancer have a ___ percentage of free PSA than men without cancer:",
+  "o": [
+   "identical",
+   "unmeasurable",
+   "lower",
+   "higher"
+  ],
+  "a": 2,
+  "e": [
+   "PSA from cancer cells escapes proteolytic processing, so more circulates bound to ACT (α1-antichymotrypsin). Percent free PSA is FDA-approved for men with a normal DRE and PSA 4–10 ng/mL."
+  ],
+  "s": "Ch 149 Prostate cancer biomarkers"
+ },
+ {
+  "f": "mcq",
+  "t": "Biomarkers",
+  "q": "After starting finasteride, total PSA ___ and percent free PSA ___:",
+  "o": [
+   "rises; rises",
+   "falls; does not change much",
+   "falls; falls",
+   "does not change; rises"
+  ],
+  "a": 1,
+  "e": [
+   "Total and free PSA fall together, so the ratio stays about the same."
+  ],
+  "s": "Ch 149 Prostate cancer biomarkers"
+ },
+ {
+  "f": "mcq",
+  "t": "Biomarkers",
+  "q": "PCA3 is:",
+  "o": [
+   "A kallikrein",
+   "A tissue methylation marker",
+   "A serum glycoprotein",
+   "A prostate-specific non-coding RNA measured in urine"
+  ],
+  "a": 3,
+  "e": [
+   "It lies on chromosome 9q21–22 and has no open reading frame. It can be combined with urinary TMPRSS2:ERG."
+  ],
+  "s": "Ch 149 Prostate cancer biomarkers"
+ },
+ {
+  "f": "mcq",
+  "t": "Biomarkers",
+  "q": "Compared with PSA, hK2 (human kallikrein 2) in cancer tissue is:",
+  "o": [
+   "Higher in poorly differentiated cancer",
+   "Lower in poorly differentiated cancer",
+   "Only in BPH",
+   "Absent"
+  ],
+  "a": 0,
+  "e": [
+   "Benign epithelium expresses PSA strongly and hK2 weakly. hK2 is part of the 4Kscore."
+  ],
+  "s": "Ch 149 Prostate cancer biomarkers"
+ },
+ {
+  "f": "mcq",
+  "t": "Biomarkers",
+  "q": "proPSA ([−2]proPSA, used in the Prostate Health Index) is:",
+  "o": [
+   "An inactive precursor that still carries part of its leader peptide, circulating as free PSA",
+   "PSA bound to α2-macroglobulin",
+   "A urine RNA",
+   "Complexed PSA"
+  ],
+  "a": 0,
+  "e": [
+   "hK2 removes the 7-amino-acid pro-leader to activate PSA. Truncated forms ([−2], [−4], [−5]) make up much of the free PSA in cancer."
+  ],
+  "s": "Ch 149 Prostate cancer biomarkers"
+ },
+ {
+  "f": "mcq",
+  "t": "Biomarkers",
+  "q": "Which marker, when present, is close to 100% specific for prostate cancer but only about 50% sensitive?",
+  "o": [
+   "Free PSA",
+   "TMPRSS2:ERG",
+   "PCA3",
+   "4Kscore"
+  ],
+  "a": 1,
+  "e": [
+   "It is an early event in carcinogenesis."
+  ],
+  "s": "Ch 149 Prostate cancer biomarkers"
+ },
+ {
+  "f": "mcq",
+  "t": "Biomarkers",
+  "q": "Which genes are classically hypermethylated (silenced) in prostate cancer?",
+  "o": [
+   "PCA3 and ERG",
+   "GSTP1, APC, RARβ2 and RASSF1A",
+   "AR and SRD5A2",
+   "BRCA1 and ATM"
+  ],
+  "a": 1,
+  "e": [
+   "GSTP1 hypermethylation is the best known, and is used in tissue-based tests for repeat biopsy."
+  ],
+  "s": "Ch 149 Prostate cancer biomarkers"
+ },
+ {
+  "f": "mcq",
+  "t": "Genomic tests",
+  "q": "Match the tissue genomic test to its basis. Which is correct?",
+  "o": [
+   "Oncotype: germline BRCA",
+   "Decipher: cell-cycle genes only",
+   "Prolaris: 31 cell-cycle progression genes; Oncotype DX Prostate: 12 genes in 4 pathways; Decipher: 22-marker genomic classifier",
+   "Prolaris: 22-marker classifier"
+  ],
+  "a": 2,
+  "e": [
+   "All work on small amounts of formalin-fixed, paraffin-embedded tissue and add prognostic information beyond Gleason score. Inherited genes that predispose to aggressive disease include BRCA1/2 and ATM."
+  ],
+  "s": "Ch 149 Prostate cancer biomarkers"
+ },
+ {
+  "f": "mcq",
+  "t": "TRUS anatomy",
+  "q": "Corpora amylacea (prostatic calcifications) are most commonly seen:",
+  "o": [
+   "Only with prostatitis",
+   "In the peripheral zone vessels",
+   "Along the surgical capsule between the transition and peripheral zones",
+   "In the seminal vesicles"
+  ],
+  "a": 2,
+  "e": [
+   "Small diffuse calcifications are an incidental finding of ageing. Larger symptomatic calculi may reflect infection."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "TRUS anatomy",
+  "q": "The normal adult seminal vesicle on TRUS is:",
+  "o": [
+   "About 4.5–5.5 cm long, 2 cm wide, saccular and symmetric",
+   "Solid",
+   "Under 2 cm and asymmetric",
+   "Rarely seen"
+  ],
+  "a": 0,
+  "e": [
+   "Cystic seminal vesicle masses are usually benign. A solid mass may be malignant or, in endemic regions, due to schistosomiasis."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "TRUS",
+  "q": "Which statement about hypoechoic prostate lesions is correct?",
+  "o": [
+   "Isoechoic areas never contain cancer",
+   "They should be biopsied, but can also be granulomatous prostatitis, infarct, lymphoma or BPH nodules; 39% of cancers are isoechoic",
+   "They predict high Gleason score",
+   "All are cancer"
+  ],
+  "a": 1,
+  "e": [
+   "About 1% of cancers are hyperechoic. Hypoechogenicity does not correlate with grade."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "TRUS",
+  "q": "Increasing the frequency of the ultrasound probe:",
+  "o": [
+   "Reduces resolution",
+   "Increases depth of penetration",
+   "Has no effect",
+   "Increases resolution but reduces penetration depth"
+  ],
+  "a": 3,
+  "e": [
+   "Remove any air between the probe and the tissue. The needle path is best seen in the sagittal plane."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Biopsy technique",
+  "q": "Periprostatic block for TRUS biopsy is typically given:",
+  "o": [
+   "Directly into the prostate",
+   "Not needed",
+   "With lidocaine through a long 22-gauge needle via the probe's biopsy channel, near the neurovascular bundles at the base and seminal vesicle junction",
+   "As intrarectal gel alone"
+  ],
+  "a": 2,
+  "e": [
+   "About 5 mL each side. Intrarectal gel alone is less effective."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Biopsy technique",
+  "q": "The minimum number of systematic cores recommended at initial biopsy is:",
+  "o": [
+   "12",
+   "18–20",
+   "6 (sextant)",
+   "24 (saturation)"
+  ],
+  "a": 0,
+  "e": [
+   "Going to 18–20 cores at first biopsy adds little. The chapter predates MRI-first pathways (PRECISION). Now, targeted cores are added to systematic ones."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Infection",
+  "q": "Which is NOT a risk factor for infection after prostate biopsy?",
+  "o": [
+   "Recent foreign travel",
+   "Recent antibiotic use",
+   "Diabetes",
+   "White race"
+  ],
+  "a": 3,
+  "e": [
+   "Non-white race, comorbidities, diabetes, a large prostate, foreign travel and recent antibiotics raise the risk (fluoroquinolone resistance)."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Infection",
+  "q": "Which statement about prophylaxis for TRUS biopsy is correct?",
+  "o": [
+   "Epididymitis is the most common infection",
+   "An enema makes it unnecessary",
+   "It eliminates infection",
+   "It reduces, but does not abolish, febrile UTI needing admission"
+  ],
+  "a": 3,
+  "e": [
+   "The book recommends a fluoroquinolone. Current EAU guidance prefers the transperineal route and discourages fluoroquinolones because of resistance and EMA safety restrictions."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging (updated)"
+ },
+ {
+  "f": "mcq",
+  "t": "Complications",
+  "q": "Haematospermia after prostate biopsy:",
+  "o": [
+   "Clears within a day",
+   "Needs admission",
+   "Is prevented by antibiotics",
+   "Can last 4–6 weeks and is harmless"
+  ],
+  "a": 3,
+  "e": [
+   "Counsel patients beforehand. Other complications: febrile UTI, sepsis, rectal bleeding and retention."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Repeat biopsy",
+  "q": "After an initial negative biopsy, repeat biopsies:",
+  "o": [
+   "Find progressively fewer cancers (about 22% first biopsy, then 10%, 5%, 4%), which tend to be lower grade and stage",
+   "Have a stable yield",
+   "Should be transurethral",
+   "Always need saturation"
+  ],
+  "a": 0,
+  "e": [
+   "If cancer is suspected after several negative biopsies, the anterior zone and apex are the likeliest sites, best reached by template or fusion biopsy."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Biopsy",
+  "q": "Four of 12 cores show only seminal vesicle in a 52-year-old Black man whose father died of prostate cancer (PSA 3). Next step:",
+  "o": [
+   "CT pelvis",
+   "Ask for PSA staining",
+   "Reassure",
+   "Repeat a properly directed systematic biopsy"
+  ],
+  "a": 3,
+  "e": [
+   "One seminal vesicle core is not unusual, but four means the biopsy was poorly directed in a high-risk man."
+  ],
+  "s": "Ch 150 Prostate biopsy and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Pathology",
+  "q": "High-grade PIN (prostatic intraepithelial neoplasia):",
+  "o": [
+   "If it is in only one core, it does not need repeat biopsy; it does not raise PSA",
+   "Always needs treatment",
+   "Is the same as intraductal carcinoma",
+   "Has destructive architecture"
+  ],
+  "a": 0,
+  "e": [
+   "Intraductal carcinoma is worse, goes with high-grade invasive cancer, and is treated as such. Low-grade PIN carries no extra risk."
+  ],
+  "s": "Ch 151 Pathology of prostatic neoplasia"
+ },
+ {
+  "f": "mcq",
+  "t": "Pathology",
+  "q": "Gleason grading is based on:",
+  "o": [
+   "Both cytology and architecture",
+   "Mitotic count",
+   "Glandular architecture alone",
+   "Nuclear cytology"
+  ],
+  "a": 2,
+  "e": [
+   "On needle biopsy, add the most common pattern and the highest pattern. At prostatectomy, add the most common and second most common, and report any tertiary pattern."
+  ],
+  "s": "Ch 151 Pathology of prostatic neoplasia"
+ },
+ {
+  "f": "mcq",
+  "t": "Grade groups",
+  "q": "Gleason 4+4=8 is grade group:",
+  "o": [
+   "2",
+   "4",
+   "5",
+   "3"
+  ],
+  "a": 1,
+  "e": [
+   "GG1 ≤6; GG2 3+4; GG3 4+3; GG4 8; GG5 9–10. This grouping best separates prognosis."
+  ],
+  "s": "Ch 151 Pathology of prostatic neoplasia"
+ },
+ {
+  "f": "mcq",
+  "t": "Pathology",
+  "q": "Which finding at radical prostatectomy has NO independent prognostic value?",
+  "o": [
+   "Tertiary grade",
+   "Perineural invasion",
+   "Vascular invasion",
+   "Extent of positive margin"
+  ],
+  "a": 1,
+  "e": [
+   "Perineural invasion is how cancer leaves the gland, but in the prostatectomy specimen it does not worsen prognosis. Vascular invasion does."
+  ],
+  "s": "Ch 151 Pathology of prostatic neoplasia"
+ },
+ {
+  "f": "mcq",
+  "t": "Pathology",
+  "q": "Which statement about tumour location is correct?",
+  "o": [
+   "Tumour volume is an independent predictor after grade, stage and margins",
+   "Most are in the transition zone",
+   "Transition-zone tumours spread out of the gland at smaller volumes",
+   "About 85% are in the peripheral zone and about 85% are multifocal; even T1c tumours are mostly posterior/posterolateral"
+  ],
+  "a": 3,
+  "e": [
+   "Transition-zone tumours need larger volumes before they extend out of the gland."
+  ],
+  "s": "Ch 151 Pathology of prostatic neoplasia"
+ },
+ {
+  "f": "mcq",
+  "t": "Pathology",
+  "q": "What distinguishes benign from malignant prostate glands on immunostaining?",
+  "o": [
+   "Ki-67",
+   "Basal cells, shown by high-molecular-weight cytokeratin and p63, are present in benign glands and absent in cancer",
+   "PSA staining",
+   "AMACR is absent in cancer"
+  ],
+  "a": 1,
+  "e": [
+   "A biopsy with a basal layer is benign. With an abnormal DRE, follow PSA and DRE closely."
+  ],
+  "s": "Ch 151 Pathology of prostatic neoplasia"
+ },
+ {
+  "f": "mcq",
+  "t": "Pathology",
+  "q": "pT2x on a radical prostatectomy report means:",
+  "o": [
+   "Microscopic bladder-neck invasion",
+   "Unilateral disease",
+   "Stage cannot be assessed anywhere",
+   "The tumour is organ-confined except at a positive margin from an intraprostatic incision, where extension cannot be judged"
+  ],
+  "a": 3,
+  "e": [
+   "Subdividing pT2 adds nothing to prognosis. Seminal vesicle invasion (pT3b) is almost always by direct spread."
+  ],
+  "s": "Ch 151 Pathology of prostatic neoplasia"
+ },
+ {
+  "f": "mcq",
+  "t": "Pathology",
+  "q": "Adenosis (atypical adenomatous hyperplasia):",
+  "o": [
+   "Is a precursor of cancer",
+   "Is found in the transition zone, can mimic cancer, and carries no added cancer risk",
+   "Is high-grade PIN",
+   "Requires repeat biopsy"
+  ],
+  "a": 1,
+  "e": [
+   "Note the difference from ASAP (atypical small acinar proliferation), which carries a high chance of cancer on rebiopsy."
+  ],
+  "s": "Ch 151 Pathology of prostatic neoplasia"
+ },
+ {
+  "f": "mcq",
+  "t": "Pathology",
+  "q": "Prostate cancer most commonly spreads, in order, to:",
+  "o": [
+   "Bone, lung, liver",
+   "Brain",
+   "Liver first",
+   "Lymph nodes, bone, lung, bladder, liver, adrenal"
+  ],
+  "a": 3,
+  "e": [
+   "Only about 25% of men with seminal vesicle invasion, and few with nodal disease, are free of biochemical recurrence 10 years after prostatectomy."
+  ],
+  "s": "Ch 151 Pathology of prostatic neoplasia"
+ },
+ {
+  "f": "mcq",
+  "t": "PSA",
+  "q": "Most immunodetectable serum PSA (65–90%) is bound to:",
+  "o": [
+   "α1-antichymotrypsin",
+   "hK2",
+   "α2-macroglobulin",
+   "Albumin"
+  ],
+  "a": 0,
+  "e": [
+   "Complexes with α1-protease inhibitor (API) also exist. α2-macroglobulin-bound PSA is not detected by standard assays."
+  ],
+  "s": "Ch 152 Diagnosis and staging"
+ },
+ {
+  "f": "mcq",
+  "t": "PSA",
+  "q": "A man has a raised PSA with no symptoms. The AUA-supported next step is:",
+  "o": [
+   "Empirical fluoroquinolones",
+   "Immediate biopsy",
+   "Repeat the PSA after a period of observation",
+   "Cystoscopy and repeat"
+  ],
+  "a": 2,
+  "e": [
+   "Empirical antibiotics are not recommended. Ejaculation can raise PSA for up to 24 hours. DRE does not change it meaningfully."
+  ],
+  "s": "Ch 152 Diagnosis and staging"
+ },
+ {
+  "f": "mcq",
+  "t": "PSA",
+  "q": "A 60-year-old on finasteride for 7 years has a PSA of 4 ng/mL. His approximate untreated equivalent is:",
+  "o": [
+   "8",
+   "4",
+   "16",
+   "10"
+  ],
+  "a": 3,
+  "e": [
+   "Correction factors: double after 12 months, ×2.3 at 2 years, ×2.5 at 7 years. A rising PSA on a 5-ARI should raise suspicion of cancer."
+  ],
+  "s": "Ch 152 Diagnosis and staging"
+ },
+ {
+  "f": "mcq",
+  "t": "PSA",
+  "q": "Which lowers serum PSA?",
+  "o": [
+   "Statins, hypogonadism, 5-ARIs and BPH surgery",
+   "Ejaculation",
+   "Prostatitis",
+   "Prostate biopsy"
+  ],
+  "a": 0,
+  "e": [
+   "BPH, prostatitis, manipulation and cancer raise it. African American men have higher PSA values."
+  ],
+  "s": "Ch 152 Diagnosis and staging"
+ },
+ {
+  "f": "mcq",
+  "t": "PSA kinetics",
+  "q": "In men with PSA 4–10, a PSA velocity above ___ ng/mL/year raises concern for cancer:",
+  "o": [
+   "0.35",
+   "2.0",
+   "5.0",
+   "0.75"
+  ],
+  "a": 3,
+  "e": [
+   "A free PSA above 25% is reassuring. A baseline PSA below 1 ng/mL at age 40–45 may justify less frequent testing."
+  ],
+  "s": "Ch 152 Diagnosis and staging"
+ },
+ {
+  "f": "mcq",
+  "t": "Staging",
+  "q": "Which single test has the highest positive predictive value for prostate cancer?",
+  "o": [
+   "hK2",
+   "PSA",
+   "DRE",
+   "TRUS"
+  ],
+  "a": 1,
+  "e": [
+   "Pelvic lymphadenectomy remains the gold standard for nodal staging, because imaging misses micrometastases."
+  ],
+  "s": "Ch 152 Diagnosis and staging"
+ },
+ {
+  "f": "mcq",
+  "t": "Staging",
+  "q": "With PSA 4–10 ng/mL, roughly what proportion of cancers are organ-confined?",
+  "o": [
+   "About two-thirds",
+   "One-quarter",
+   "Under 10%",
+   "All"
+  ],
+  "a": 0,
+  "e": [
+   "About 80% are organ-confined when PSA is under 4. More than half have disease beyond the prostate when PSA is over 10. About 20% have positive nodes when PSA is over 20, and about 75% when it is over 50."
+  ],
+  "s": "Ch 152 Diagnosis and staging"
+ },
+ {
+  "f": "mcq",
+  "t": "Staging",
+  "q": "The Partin tables predict pathological stage from:",
+  "o": [
+   "PSA, number of cores, MRI",
+   "Genomic score",
+   "Age and PSA density",
+   "Clinical stage, serum PSA and Gleason score"
+  ],
+  "a": 3,
+  "e": [
+   "The chapter's bone scan rule (only if PSA >20, T3/T4 or bone symptoms) predates PSMA PET, which has largely replaced conventional imaging for high-risk staging."
+  ],
+  "s": "Ch 152 Diagnosis and staging (updated)"
+ },
+ {
+  "f": "mcq",
+  "t": "Staging",
+  "q": "Which finding at radical prostatectomy most strongly predicts hidden distant disease?",
+  "o": [
+   "Positive margin alone",
+   "Seminal vesicle invasion or lymph node metastases",
+   "Perineural invasion",
+   "pT2c"
+  ],
+  "a": 1,
+  "e": [
+   "Only about 50% of men with positive margins progress."
+  ],
+  "s": "Ch 152 Diagnosis and staging"
+ },
+ {
+  "f": "mcq",
+  "t": "MRI",
+  "q": "A man with a previous negative 12-core biopsy has a stable PSA, but MRI shows a left peripheral-zone lesion that is dark on T2, restricts diffusion and shows early contrast enhancement and washout. Next step:",
+  "o": [
+   "Repeat MRI in 1 year",
+   "MRI-targeted (directed) biopsy",
+   "Saturation biopsy",
+   "Yearly PSA"
+  ],
+  "a": 1,
+  "e": [
+   "Agreement across T2, DWI and DCE sequences strongly suggests cancer. Fusion biopsy needs software registration of MRI to real-time TRUS."
+  ],
+  "s": "Ch 152 Diagnosis and staging"
+ }
+]

@@ -1,0 +1,238 @@
+<title>Localised Prostate Cancer MCQs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one exam card at a time, narrow reading column, progress strip on top */
+:root {
+  --bg: #f3f5f6; --surface: #ffffff; --ink: #18232b; --muted: #5b6a74; --line: #d6dde1;
+  --accent: #1f5f7a; --accent-soft: #e2eef3;
+  --warn: #a8660b; --ok: #1d7a4c; --ok-soft: #e3f3ea; --bad: #b3352b; --bad-soft: #f8e4e1;
+  --f-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; padding: 0 16px; }
+.wrap { max-width: 720px; margin: 0 auto; padding-block: 28px 48px; display: grid; gap: 20px; }
+header { display: grid; gap: 6px; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(26px, 5vw, 34px); line-height: 1.15; margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; font-size: 15px; }
+
+.strip { display: grid; grid-template-columns: repeat(25, 1fr); gap: 3px; row-gap: 6px; }
+.pip { height: 8px; border-radius: 2px; background: var(--line); border: 0; padding: 0; cursor: pointer; }
+.pip.ok { background: var(--ok); } .pip.bad { background: var(--bad); }
+.pip.cur { outline: 2px solid var(--accent); outline-offset: 2px; }
+.meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-family: var(--f-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 24px; display: grid; gap: 18px; }
+.qhead { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.qno { font-family: var(--f-mono); font-size: 13px; color: var(--accent); }
+.tag { font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); padding: 2px 8px; border-radius: 4px; }
+.stem { font-family: var(--f-display); font-size: 21px; line-height: 1.4; font-weight: 500; margin: 0; }
+.opts { display: grid; gap: 10px; }
+.opt { display: grid; grid-template-columns: 28px 1fr; gap: 12px; align-items: start; text-align: left; width: 100%;
+  font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; cursor: pointer; }
+.opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:focus-visible, .btn:focus-visible, .pip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.opt .k { font-family: var(--f-mono); font-size: 13px; width: 28px; height: 28px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--muted); }
+.opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.opt.sel .k { border-color: var(--accent); color: var(--accent); }
+.opt.right { border-color: var(--ok); background: var(--ok-soft); }
+.opt.right .k { border-color: var(--ok); color: var(--ok); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.opt.wrong .k { border-color: var(--bad); color: var(--bad); }
+.opt:disabled { cursor: default; }
+
+.verdict { font-weight: 600; }
+.verdict.ok { color: var(--ok); } .verdict.bad { color: var(--bad); }
+.explain { border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 10px; }
+.explain p, .explain ul { margin: 0; }
+.explain ul { padding-left: 20px; display: grid; gap: 4px; }
+.src { font-size: 13px; color: var(--muted); }
+
+.actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+.btn { font: inherit; font-weight: 600; border-radius: 8px; padding: 10px 18px; cursor: pointer; border: 1px solid var(--accent); }
+.btn.primary { background: var(--accent); color: var(--surface); }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:disabled { opacity: .45; cursor: default; }
+.hint { font-size: 13px; color: var(--muted); }
+
+.result { display: grid; gap: 14px; }
+.score { font-family: var(--f-display); font-size: 44px; font-weight: 600; line-height: 1; font-variant-numeric: tabular-nums; }
+.review { display: grid; gap: 6px; padding: 0; margin: 0; list-style: none; }
+.review li { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 15px; min-width: 0; }
+.review .n { font-family: var(--f-mono); font-size: 13px; color: var(--muted); }
+.review .s { font-family: var(--f-mono); font-size: 13px; font-weight: 500; }
+.review .s.ok { color: var(--ok); } .review .s.bad { color: var(--bad); }
+.review button { font: inherit; color: var(--ink); background: none; border: 0; padding: 0; text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.pip.part { background: var(--warn); } .pip.pend { background: var(--accent); opacity: .5; }
+.fig { margin: 0; display: grid; gap: 6px; overflow-x: auto; }
+.fig svg { width: 100%; min-width: 320px; height: auto; display: block; }
+.fig .grid line { stroke: var(--line); stroke-width: 1; }
+.fig .ax line { stroke: var(--muted); stroke-width: 1.5; }
+.fig .lbl, .fig text { fill: var(--muted); font-family: var(--f-mono); font-size: 12px; }
+.fig .trace { fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; }
+.fig .trace.dash { stroke-dasharray: 7 5; }
+.fig .mark { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 4; }
+.fig figcaption { font-size: 13px; color: var(--muted); }
+textarea { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px; width: 100%; resize: vertical; min-height: 140px; }
+textarea:focus-visible, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mine { display: grid; gap: 6px; } .mine p { margin: 0; white-space: pre-wrap; background: var(--bg); border-radius: 8px; padding: 12px; }
+.selfmark { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font: inherit; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.chip.on { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.review .s.part { color: var(--warn); }
+@media (max-width: 480px) { .card { padding: 18px; } .stem { font-size: 19px; } }
+@media (prefers-reduced-motion: no-preference) { .opt { transition: border-color .12s, background-color .12s; } }
+.line { font: inherit; font-size: 17px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; width: 100%; }
+.line:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.model { font-family: var(--f-display); font-size: 19px; line-height: 1.4; margin: 0; }
+.also { font-size: 14px; color: var(--muted); margin: 0; }
+.match { font-size: 13px; font-weight: 600; }
+.match.ok { color: var(--ok); } .match.no { color: var(--muted); }
+.fig .tagl { fill: var(--accent); font-size: 14px; font-weight: 600; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">MCh Urology · Campbell-Walsh-Wein Review, chapters 153–158</div>
+    <h1>Localised prostate cancer: 50 MCQs</h1>
+    <p class="sub">New questions from your uploaded review chapters: treatment selection and trials, active surveillance, open and robotic prostatectomy, radiotherapy, and focal therapy. Where the 2020 text is out of date, the explanation gives the current position.</p>
+  </header>
+  <div><div class="strip" id="strip" aria-label="Question progress"></div></div>
+  <div class="meta"><span id="pos"></span><span id="tally"></span></div>
+  <main id="stage"></main>
+</div>
+<script>
+const Q = [{"f": "mcq", "t": "Decision-making", "q": "The benefit of treating localised prostate cancer in a given man should mainly be judged by:", "o": ["PSA at diagnosis", "Surgeon expertise", "Risk of prostate-cancer death compared with competing causes of death over time", "Life expectancy over 10 years alone"], "a": 2, "e": ["Ten years of life expectancy is only a rough guide. A man with aggressive disease may benefit even with a shorter life expectancy."], "s": "Ch 153 Management strategies for localised prostate cancer"}, {"f": "mcq", "t": "Decision-making", "q": "The tool built to predict 10-year mortality from other causes in men with prostate cancer, using their comorbidities, is:", "o": ["PCPT calculator", "Kattan nomogram", "CAPRA score", "Prostate cancer-specific Charlson Comorbidity Index"], "a": 3, "e": ["10-year mortality from other causes rose from 10% at score 0 to 99% at score 10. In practice, doctors judge life expectancy by age more than by comorbidity."], "s": "Ch 153 Management strategies for localised prostate cancer"}, {"f": "mcq", "t": "Trials", "q": "SPCG-4 (prostatectomy vs watchful waiting) showed a survival benefit for surgery, but its main limitation is:", "o": ["Mostly low-risk disease", "High death rates from other causes", "Enrolment mainly before the PSA era (about 90% palpable tumours)", "Excessive complications"], "a": 2, "e": ["Its results do not translate directly to screen-detected cancers."], "s": "Ch 153 Management strategies for localised prostate cancer"}, {"f": "mcq", "t": "Trials", "q": "The main limitation of PIVOT is:", "o": ["Pre-PSA era", "High death rates from other causes (about 40% dead by 10 years, only about 5% from prostate cancer)", "Only low-risk men", "Robotic surgery only"], "a": 1, "e": ["At 19.5 years, surgery gave no significant all-cause benefit overall, but did benefit intermediate-risk men (absolute risk reduction 14.5%)."], "s": "Ch 153 Management strategies for localised prostate cancer"}, {"f": "mcq", "t": "Trials", "q": "ProtecT showed no difference in prostate-cancer mortality at 10 years mainly because:", "o": ["Only old men were included", "Surgery was poor", "Most men had low-risk (GG1, low PSA) disease, so few events occurred (about 1% mortality)", "Radiotherapy had no ADT"], "a": 2, "e": ["Metastases were more frequent with active monitoring. The 15-year update (2023) confirmed similar low mortality, about 3%."], "s": "Ch 153 Management strategies for localised prostate cancer; ProtecT 15-y (2023)"}, {"f": "mcq", "t": "Grading", "q": "The 2005 ISUP modification of Gleason grading:", "o": ["Made intraductal carcinoma pattern 3", "Limited pattern 5", "Reclassified all cribriform glands as pattern 4 and dropped patterns 1–2, shifting scores upwards", "Created grade groups"], "a": 2, "e": ["This makes it harder to compare older cohorts with modern ones. Grade groups came later (2014 ISUP)."], "s": "Ch 153 Management strategies for localised prostate cancer"}, {"f": "mcq", "t": "Imaging", "q": "On prostate MRI, seminal vesicle invasion is characterised by a high:", "o": ["Sensitivity", "False-positive rate", "Positive predictive value", "Negative predictive value"], "a": 2, "e": ["When MRI calls seminal vesicle invasion it is usually right, but it misses focal extraprostatic extension (low sensitivity and NPV). The ADC value is the MRI parameter that best predicts outcome."], "s": "Ch 153 Management strategies for localised prostate cancer"}, {"f": "mcq", "t": "Active surveillance", "q": "The main concern in a man with Grade Group 1 cancer is:", "o": ["Higher-grade cancer already present but missed at biopsy (about 25%)", "Grade progression over time", "Local obstruction", "Metastasis from GG1"], "a": 0, "e": ["True biological upgrading occurs in only 1–2% a year. GG1 cancer does not metastasise. Microfocal cancer is present in 50–60% of middle-aged men."], "s": "Ch 154 Active surveillance"}, {"f": "mcq", "t": "Active surveillance", "q": "Which factor increases the risk of coexistent higher-grade cancer in a man on surveillance?", "o": ["PSA density above 0.15", "All of these", "More positive cores or greater core involvement", "African American ancestry"], "a": 1, "e": ["Plan a confirmatory biopsy within 1 year, targeting under-sampled areas."], "s": "Ch 154 Active surveillance"}, {"f": "mcq", "t": "Active surveillance", "q": "About what proportion of men on active surveillance are treated by 10 years?", "o": ["30–40%", "70%", "90%", "5%"], "a": 0, "e": ["20–30% are treated by 5 years. Delaying treatment does not reduce its effectiveness."], "s": "Ch 154 Active surveillance"}, {"f": "mcq", "t": "Active surveillance", "q": "Which is the most reliable trigger for intervention during surveillance?", "o": ["A larger lesion on MRI", "More GG1 volume", "PSA doubling time under 3 years", "Grade group progression on biopsy"], "a": 3, "e": ["PSA kinetics and volume increases have not reliably predicted adverse outcomes."], "s": "Ch 154 Active surveillance"}, {"f": "mcq", "t": "Active surveillance", "q": "A man on surveillance should switch to watchful waiting when:", "o": ["He refuses biopsy", "His estimated life expectancy falls below about 5–7 years", "He has two negative biopsies", "He has been stable for 10 years"], "a": 1, "e": ["A man who refuses biopsy can still be followed actively, for example with MRI."], "s": "Ch 154 Active surveillance"}, {"f": "mcq", "t": "Active surveillance", "q": "According to the chapter, which feature should automatically exclude a man from surveillance?", "o": ["None of these alone", "PSA over 10", "Extensive GG1", "High PSA density"], "a": 0, "e": ["A small amount of pattern 4 may be over-grading. Guidelines now also allow carefully selected favourable intermediate-risk men onto surveillance."], "s": "Ch 154 Active surveillance"}, {"f": "mcq", "t": "Active surveillance", "q": "The standard follow-up schedule for active surveillance in the chapter is:", "o": ["PSA every 3 years", "Annual bone scan", "MRI only", "Confirmatory biopsy within 1 year, PSA every 6 months, and repeat biopsy every 3–5 years"], "a": 3, "e": ["MRI with targeted biopsy may replace serial systematic biopsy in very low-risk men. Higher-risk men still need systematic biopsies."], "s": "Ch 154 Active surveillance"}, {"f": "mcq", "t": "Active surveillance", "q": "Which statement on the biology of Gleason pattern 3 is correct?", "o": ["It has a high mutation burden", "It is rare in Asian men", "It commonly metastasises", "Most oncogenic pathways are intact (normal) in pattern 3 but altered in patterns 4–5"], "a": 3, "e": ["Microfocal pattern 3 occurs with age in all races."], "s": "Ch 154 Active surveillance"}, {"f": "mcq", "t": "Anatomy", "q": "The prostate's main arterial supply is the:", "o": ["External iliac artery", "Obturator artery", "Inferior vesical artery", "Superior vesical artery"], "a": 2, "e": ["Accessory (aberrant) pudendal arteries from the obturator or vesical arteries can supply the penis and should be preserved."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Anatomy", "q": "The neurovascular bundles lie:", "o": ["Inside the prostatic capsule", "Inside Denonvilliers fascia", "Within the endopelvic fascia", "Between the prostatic fascia and the levator fascia (lateral pelvic fascia)"], "a": 3, "e": ["The capsular arteries and veins are the visible landmark for the cavernous nerves. The pelvic plexus is parasympathetic, from S2–S4."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Anatomy", "q": "Passive urinary control after radical prostatectomy depends mainly on:", "o": ["The striated urethral sphincter (slow-twitch, fatigue-resistant fibres)", "Bladder neck", "Bulbar urethra", "Levator ani"], "a": 0, "e": ["The striated sphincter and levator ani are supplied by the pudendal nerve. Post-prostatectomy incontinence is usually intrinsic sphincter deficiency."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Technique", "q": "The puboprostatic ligaments should be divided:", "o": ["Down to the pelvic floor", "Not at all", "Only superficially, enough to expose the junction of the prostatic apex and dorsal vein complex, keeping the pubourethral part", "Widely for a right-angle clamp"], "a": 2, "e": ["The pubourethral component anchors the striated sphincter to the pubis."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Technique", "q": "Brisk bleeding from a partly divided dorsal vein complex is best managed by:", "o": ["Dividing the complex completely over the urethra and oversewing the end", "Abandoning surgery", "Hypogastric artery ligation", "Foley balloon traction"], "a": 0, "e": ["Pulling on a partly divided complex keeps the veins open and worsens bleeding."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Margins", "q": "The most common site of a positive surgical margin at open prostatectomy is:", "o": ["The apex, during division of the dorsal vein complex and sphincter", "Seminal vesicle", "Posterolateral", "Bladder neck"], "a": 0, "e": ["Next most common are posterior, then posterolateral. Sew the cut dorsal vein edges in a V so the neurovascular bundles are not pulled forward."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Technique", "q": "The final decision on whether to preserve a neurovascular bundle can be made:", "o": ["Never during surgery", "From the biopsy alone", "From the Partin tables", "After the prostate is removed, if there is too little tissue covering the posterolateral surface"], "a": 3, "e": ["Other signs that a bundle must be excised: induration of the lateral pelvic fascia, or a bundle fixed to the prostate. Avoid thermal energy near the bundles."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Complications", "q": "After radical prostatectomy, a patient needs acute transfusions for hypotension. Best approach:", "o": ["Re-explore and evacuate the pelvic haematoma", "Foley traction", "FFP only", "Observe in ICU"], "a": 0, "e": ["Leaving the haematoma raises the risk of bladder neck contracture and incontinence."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Complications", "q": "A rectal injury recognised during radical prostatectomy is best managed by:", "o": ["Hartmann procedure", "Routine colostomy", "Ignoring it", "Two-layer repair with omentum placed between the repair and the anastomosis"], "a": 3, "e": ["The omentum reduces the risk of a rectourethral fistula. Avoid rectal suppositories or manipulation after surgery."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Outcomes", "q": "Which statement about sparing the bladder neck or seminal vesicles is correct, according to the chapter?", "o": ["Both increase pelvic abscess", "Bladder-neck sparing improves long-term continence", "Neither has been shown to improve continence, potency, margins or stricture rates", "Seminal vesicle sparing improves potency"], "a": 2, "e": ["Complete seminal vesicle excision is recommended for cancer control. About 15–20% of men develop a (usually indirect) inguinal hernia afterwards."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Salvage", "q": "Salvage radical prostatectomy after radiotherapy, according to the chapter:", "o": ["Has low morbidity", "Preserves potency in most", "Is first-line for any PSA rise", "Is for clearly localised disease; about 50% incontinence, 24% stricture, near-universal ED; rectal injury is the complication that has improved most with experience"], "a": 3, "e": ["About 45% have recurrence at 5 years."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Potency", "q": "Sural nerve interposition grafting when a neurovascular bundle must be sacrificed:", "o": ["Is only for unilateral cases", "Is placed in a circle", "Restores potency in most men", "Is placed in reversed orientation; in a randomised trial it gave no potency benefit over no graft"], "a": 3, "e": ["Recovery of erections depends on age, potency before surgery and nerve sparing (for example, 42% at 3 months and 73% at 1 year in one series). Defer surgery 6–8 weeks after biopsy and 3 months after TURP."], "s": "Ch 155 Open radical prostatectomy"}, {"f": "mcq", "t": "Robotic RP", "q": "Blood loss is low in laparoscopic and robotic prostatectomy mainly because:", "o": ["The dissection plane differs", "The dorsal vein is not divided", "Trendelenburg lowers venous pressure", "Pneumoperitoneum compresses venous bleeding"], "a": 3, "e": ["Transfusion should be below 2%. Taking the pedicles early and the dorsal vein late (antegrade approach) also reduces bleeding."], "s": "Ch 156 Laparoscopic/robotic prostatectomy and PLND"}, {"f": "mcq", "t": "Robotic RP", "q": "Compared with the transperitoneal approach, extraperitoneal robotic prostatectomy:", "o": ["Is faster", "Gives more working space", "Avoids handling the bowel, which helps after extensive abdominal surgery", "Gives fewer positive margins"], "a": 2, "e": ["Margin rates do not differ by approach. Margins fall as the surgeon gains experience."], "s": "Ch 156 Laparoscopic/robotic prostatectomy and PLND"}, {"f": "mcq", "t": "Robotic RP", "q": "Prolonged CO₂ pneumoperitoneum in steep Trendelenburg mainly risks:", "o": ["Hypercarbia, acidosis and oliguria, plus corneal oedema, raised intraocular pressure and nerve compression injury", "Hypoxia only", "Hypertension", "Bradycardia and hypotension"], "a": 0, "e": ["Pad all pressure points carefully."], "s": "Ch 156 Laparoscopic/robotic prostatectomy and PLND"}, {"f": "mcq", "t": "Robotic RP", "q": "An iatrogenic positive apical margin in robotic prostatectomy often arises from:", "o": ["Bladder neck dissection", "Seminal vesicle traction", "A posterior (or anterior) lip of apex protruding beneath the urethra", "Lymph node dissection"], "a": 2, "e": ["Check the shape of the apex before dividing the posterior urethra."], "s": "Ch 156 Laparoscopic/robotic prostatectomy and PLND"}, {"f": "mcq", "t": "Robotic RP", "q": "Rectal injury during robotic prostatectomy is best avoided by:", "o": ["Sharp, complete incision of the posterior layer of Denonvilliers fascia and antegrade release of the rectum from the prostate", "Careful trocar placement", "Colostomy", "Blunt division of Denonvilliers fascia"], "a": 0, "e": ["Rectal injury is more common in salvage surgery, which belongs in experienced, high-volume centres."], "s": "Ch 156 Laparoscopic/robotic prostatectomy and PLND"}, {"f": "mcq", "t": "Robotic RP", "q": "The only absolute contraindication to minimally invasive prostatectomy listed in the chapter is:", "o": ["Prior pelvic surgery", "Neoadjuvant ADT", "Obesity", "An uncorrectable bleeding disorder (or being unfit for general anaesthesia)"], "a": 3, "e": ["Large glands, a median lobe, obesity and prior TURP or radiotherapy are best avoided early in a surgeon's experience, but are not absolute contraindications."], "s": "Ch 156 Laparoscopic/robotic prostatectomy and PLND"}, {"f": "mcq", "t": "Outcomes", "q": "Which statement on robotic prostatectomy outcomes, according to the chapter, is correct?", "o": ["Cancer control is worse than open surgery", "Machine failure about 5%", "Bladder neck stricture over 20%", "Cancer outcomes equal open surgery, but at least 20% of men are not pad-free and about 5% have severe incontinence"], "a": 3, "e": ["Bladder neck stricture should be under 5% and machine failure under 0.5%. Discharge within 24 hours and return to activity by 3 weeks are typical."], "s": "Ch 156 Laparoscopic/robotic prostatectomy and PLND"}, {"f": "mcq", "t": "PLND", "q": "Which statement on pelvic lymph node dissection is correct?", "o": ["A transperitoneal approach prevents lymphoceles", "Minimally invasive dissection yields fewer nodes than open", "Recommended for intermediate/high risk or nomogram nodal risk above 5%; clipping lymphatics reduces lymphoceles", "It is only for GG1"], "a": 2, "e": ["The therapeutic value of an extended dissection is still debated."], "s": "Ch 156 Laparoscopic/robotic prostatectomy and PLND"}, {"f": "mcq", "t": "Radiotherapy", "q": "Which is unfavourable intermediate-risk disease?", "o": ["4+3, PSA 12.8, cT2a", "4+3, PSA 9.5, cT3a", "4+4, PSA 9.5, cT1c", "3+4, PSA 9.5, cT2a"], "a": 0, "e": ["Unfavourable intermediate risk includes primary pattern 4 (GG3) or more than one intermediate-risk factor. 4+4 is high risk, and so is cT3a."], "s": "Ch 157 Radiation therapy"}, {"f": "mcq", "t": "Radiotherapy", "q": "Phoenix (RTOG-ASTRO) biochemical failure after radiotherapy is defined as:", "o": ["PSA nadir plus 2 ng/mL", "Three consecutive PSA rises", "PSA over 4", "PSA over 0.2"], "a": 0, "e": ["The older ASTRO definition was three consecutive rises. A nadir below 0.5 ng/mL predicts success, and the nadir is the strongest predictor of outcome."], "s": "Ch 157 Radiation therapy"}, {"f": "mcq", "t": "Radiotherapy", "q": "A sexually active 53-year-old's PSA falls to 1.2 at 12 months after I-125 brachytherapy, then rises to 3.2 at 18 months. Best step:", "o": ["Salvage prostatectomy", "Start ADT", "Likely benign PSA bounce: review dosimetry, check PSA every 3 months, biopsy if not falling by 30 months", "Biopsy now"], "a": 2, "e": ["Bounces occur in up to 65% of men under 55 and can mimic distant failure. A biopsy after radiotherapy can be interpreted reliably about 30 months after treatment."], "s": "Ch 157 Radiation therapy"}, {"f": "mcq", "t": "Radiotherapy", "q": "In NCIC/MRC and SPCG-7, adding radiotherapy to ADT for high-risk or locally advanced disease improved:", "o": ["PSA response only", "Overall survival by about 8–10% absolute", "Nothing", "Metastasis-free survival only"], "a": 1, "e": ["For example, 10-year mortality was 39.4% with ADT alone vs 29.6% with ADT plus radiotherapy in SPCG-7."], "s": "Ch 157 Radiation therapy"}, {"f": "mcq", "t": "Radiotherapy", "q": "Radium-223 (ALSYMPCA) was approved in 2013 for:", "o": ["Non-metastatic CRPC; PSA control", "Hormone-sensitive disease", "Visceral metastases", "Metastatic CRPC with bone metastases; overall survival"], "a": 3, "e": ["It is an alpha emitter that spares the marrow compared with the beta emitter strontium-89."], "s": "Ch 157 Radiation therapy"}, {"f": "mcq", "t": "Radiotherapy", "q": "Which isotope half-life pairing is correct?", "o": ["I-125: 17 days; Pd-103: 60 days", "I-125: 74 days", "Both 60 days", "I-125: about 60 days; Pd-103: about 17 days"], "a": 3, "e": ["Typical prescribed doses: I-125 140–160 Gy, Pd-103 110–125 Gy, IMRT 75–79 Gy. Brachytherapy has a steep dose fall-off within millimetres."], "s": "Ch 157 Radiation therapy"}, {"f": "mcq", "t": "Radiotherapy", "q": "Proton beam therapy's physical advantage, and its clinical status per the chapter:", "o": ["Better potency", "No physical advantage", "Bragg peak with sharp dose fall-off beyond range; no proven clinical advantage over IMRT", "Compton scatter; superior outcomes"], "a": 2, "e": ["Hypofractionated regimens have since become standard (CHHiP, PACE-B)."], "s": "Ch 157 Radiation therapy"}, {"f": "mcq", "t": "Radiotherapy", "q": "Late toxicity after conformal EBRT, according to the chapter:", "o": ["No rectal effects", "Universal incontinence", "About 50% of potent men are impotent at 5 years; about 10% have some rectal bleeding", "ED in about 5% at 5 years"], "a": 2, "e": ["Earlier TURP increases early urinary toxicity. Waiting 6–8 weeks after TURP reduces stricture and incontinence."], "s": "Ch 157 Radiation therapy"}, {"f": "mcq", "t": "Focal therapy", "q": "Which statement about mpMRI before focal therapy is FALSE?", "o": ["It identifies the index lesion", "It accurately sizes tumours for ablation margins", "It preferentially detects high-grade lesions", "It improves detection of anterior tumours"], "a": 1, "e": ["MRI underestimates tumour volume by 5–30%. Its 10–15% miss rate means systematic biopsy is still needed."], "s": "Ch 158 Focal therapy"}, {"f": "mcq", "t": "Focal therapy", "q": "For complete cell kill, focal cryotherapy should reach:", "o": ["−40 °C with a double freeze–thaw cycle", "−10 °C, rapid thaw", "−20 °C, one cycle", "0 °C, one cycle"], "a": 0, "e": ["Slow thawing kills more cells. On ultrasound, the ice ball appears as a hyperechoic rim with acoustic shadowing."], "s": "Ch 158 Focal therapy"}, {"f": "mcq", "t": "Focal therapy", "q": "How does HIFU destroy prostate tissue?", "o": ["Photodynamic reaction", "Coagulative necrosis from focused heating to at least 55 °C", "Electroporation", "Cavitation alone"], "a": 1, "e": ["The transrectal probe reaches posterior lesions best. Anterior lesions are harder because energy is lost passing through tissue and swelling develops. Whole-gland HIFU needs retreatment in 29–38% of men."], "s": "Ch 158 Focal therapy"}, {"f": "mcq", "t": "Focal therapy", "q": "Which ablation method is NON-thermal?", "o": ["TULSA (MRI-guided transurethral ultrasound)", "Focal laser ablation", "Cryotherapy", "Vascular-targeted photodynamic therapy (and irreversible electroporation)"], "a": 3, "e": ["VTP uses near-infrared light to activate a photosensitiser in the blood, producing reactive oxygen species. IRE opens pores in cell membranes and spares connective tissue."], "s": "Ch 158 Focal therapy"}, {"f": "mcq", "t": "Focal therapy", "q": "Level 1 evidence for focal therapy (Azzouzi, padeliporfin VTP vs active surveillance in low-risk disease) showed:", "o": ["Less progression (28% vs 58%) and more negative biopsies at 2 years", "Better overall survival", "Equivalence to prostatectomy", "Better sexual function than surgery"], "a": 0, "e": ["No randomised trial has compared focal therapy with radical treatment."], "s": "Ch 158 Focal therapy"}, {"f": "mcq", "t": "Focal therapy", "q": "The recommended way to assess success after focal therapy is:", "o": ["PSA alone", "MRI with targeted biopsy of the treated area, plus systematic biopsy of the untreated gland", "MRI alone", "DRE"], "a": 1, "e": ["PSA is less useful because untreated tissue keeps producing it. ICUD 2015: targeted biopsy at 3–6 months, then MRI and systematic biopsy at 1–2 and 5 years."], "s": "Ch 158 Focal therapy"}, {"f": "mcq", "t": "Focal therapy", "q": "The 'index lesion' concept supporting focal therapy is based on all EXCEPT:", "o": ["Metastases are usually polyclonal from many foci", "Satellite tumours are usually small (under 0.5 mL) and low grade", "The index lesion usually determines grade and stage", "It contributes most of the tumour volume"], "a": 0, "e": ["Genetic studies suggest metastatic or lethal disease usually arises from one clone (monoclonal)."], "s": "Ch 158 Focal therapy"}];
+const KEYS = ["A","B","C","D"];
+const FIG = {
+cmg: `<figure class="fig"><svg viewBox="0 0 520 320" role="img" aria-label="Cystometrogram with three channels. At A, a sharp spike appears in Pves and Pabd but not in Pdet. At B, two waves appear in Pves and Pdet while Pabd stays flat.">
+  <g class="ax"><line x1="60" y1="80" x2="500" y2="80"/><line x1="60" y1="170" x2="500" y2="170"/><line x1="60" y1="260" x2="500" y2="260"/><line x1="60" y1="290" x2="500" y2="290"/></g>
+  <g class="lbl"><text x="54" y="84" text-anchor="end">Pves</text><text x="54" y="174" text-anchor="end">Pabd</text><text x="54" y="264" text-anchor="end">Pdet</text>
+  ${[0,100,200,300,400].map(v=>`<text x="${60+1.1*v}" y="305" text-anchor="middle">${v}</text>`).join("")}
+  <text x="280" y="318" text-anchor="middle">Volume infused (mL)</text>
+  <text x="170" y="26" text-anchor="middle" class="tagl">A</text><text x="381" y="26" text-anchor="middle" class="tagl">B</text></g>
+  <line class="mark" x1="170" y1="32" x2="170" y2="290"/><line class="mark" x1="381" y1="32" x2="381" y2="290"/>
+  <polyline class="trace" points="60,80 165,80 170,40 175,80 335,80 345,58 352,50 360,62 368,80 390,80 400,55 409,46 418,60 428,80 500,80"/>
+  <polyline class="trace" points="60,170 165,170 170,130 175,170 500,170"/>
+  <polyline class="trace" points="60,260 335,260 345,238 352,230 360,242 368,260 390,260 400,235 409,226 418,240 428,260 500,260"/>
+</svg><figcaption>Channels are drawn on separate baselines. The vertical scale is the same for all three.</figcaption></figure>`,
+comp: `<figure class="fig"><svg viewBox="0 0 520 300" role="img" aria-label="Detrusor pressure rising steadily from 5 cmH2O at 0 mL to 45 cmH2O at 300 mL and about 52 at 350 mL.">
+  <g class="grid">${[180,100,20].map(y=>`<line x1="60" x2="500" y1="${y}" y2="${y}"/>`).join("")}</g>
+  <g class="ax"><line x1="60" y1="260" x2="500" y2="260"/><line x1="60" y1="260" x2="60" y2="20"/></g>
+  <g class="lbl">${[0,100,200,300,400].map(v=>`<text x="${60+1.1*v}" y="278" text-anchor="middle">${v}</text>`).join("")}
+  ${[0,20,40,60].map(p=>`<text x="52" y="${264-4*p}" text-anchor="end">${p}</text>`).join("")}
+  <text x="280" y="296" text-anchor="middle">Volume infused (mL)</text><text x="16" y="140" text-anchor="middle" transform="rotate(-90 16 140)">Pdet (cmH₂O)</text></g>
+  <line class="mark" x1="390" y1="260" x2="390" y2="80"/><line class="mark" x1="60" y1="80" x2="390" y2="80"/>
+  <polyline class="trace" points="60,240 170,206 280,160 390,80 445,52"/>
+</svg></figure>`
+};
+
+const STORE = "mch-cwr-lpc-1";
+const N = Q.length;
+const fresh = () => ({ i: 0, ans: Array(N).fill(null), done: Array(N).fill(false), grade: Array(N).fill(null) });
+let state = fresh();
+try { const s = JSON.parse(localStorage.getItem(STORE)); if (s && s.ans && s.ans.length === N) state = s; } catch (e) {}
+const save = () => { try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) {} };
+
+const stage = document.getElementById("stage"), strip = document.getElementById("strip");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+const fmt = x => Number.isInteger(x) ? String(x) : x.toFixed(1);
+const isMcq = k => Q[k].f === "mcq";
+const pts = k => !state.done[k] ? 0 : isMcq(k) ? (state.ans[k] === Q[k].a ? 1 : 0) : (state.grade[k] ?? 0);
+const finished = k => state.done[k] && (isMcq(k) || state.grade[k] !== null);
+const status = k => !state.done[k] ? "" : !finished(k) ? "pend" : pts(k) === 1 ? "ok" : pts(k) > 0 ? "part" : "bad";
+const score = () => Q.reduce((n, _, k) => n + pts(k), 0);
+const hits = k => { const a = String(state.ans[k] || "").toLowerCase(); return a && Q[k].k.some(w => a.includes(w)); };
+const FMT = { mcq: "Single best answer", text: "Written answer", line: "One-line answer" };
+
+function renderStrip() {
+  strip.innerHTML = "";
+  Q.forEach((_, k) => {
+    const b = document.createElement("button");
+    b.className = "pip " + status(k) + (k === state.i ? " cur" : "");
+    b.setAttribute("aria-label", "Question " + (k + 1));
+    b.onclick = () => { state.i = k; save(); render(); };
+    strip.appendChild(b);
+  });
+  document.getElementById("pos").textContent = state.i < N ? `Question ${state.i + 1} of ${N} · ${FMT[Q[state.i].f]}` : "Finished";
+  document.getElementById("tally").textContent = `${fmt(score())} marks · ${Q.filter((_, k) => finished(k)).length} done`;
+}
+
+const selfmark = k => `<div class="selfmark" role="group" aria-label="Mark yourself"><span class="hint">Mark yourself:</span>
+  ${[[1,"Got it (1)"],[0.5,"Partly (½)"],[0,"Missed (0)"]].map(([v,l]) => `<button class="chip${state.grade[k] === v ? " on" : ""}" data-g="${v}">${l}</button>`).join("")}</div>`;
+
+function render() {
+  renderStrip();
+  if (state.i >= N) return renderResult();
+  const k = state.i, it = Q[k], done = state.done[k], ans = state.ans[k], last = k === N - 1;
+  let body = "", exp = "";
+  if (it.f === "mcq") {
+    body = `<div class="opts" role="group" aria-label="Answer options">${it.o.map((txt, j) => {
+      let c = "opt"; if (done) { if (j === it.a) c += " right"; else if (j === ans) c += " wrong"; } else if (j === ans) c += " sel";
+      return `<button class="${c}" data-j="${j}" ${done ? "disabled" : ""}><span class="k">${KEYS[j]}</span><span>${txt}</span></button>`; }).join("")}</div>`;
+    if (done) exp = `<div class="explain"><div class="verdict ${ans === it.a ? "ok" : "bad"}">${ans === it.a ? "Correct." : "Not quite. The answer is " + KEYS[it.a] + "."}</div>
+      <ul>${it.e.map(x => `<li>${x}</li>`).join("")}</ul><p class="src">Read more: ${it.s}</p></div>`;
+  } else if (it.f === "text") {
+    body = done ? `<div class="mine"><div class="eyebrow">Your answer</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Write your answer</label><textarea id="ans-${k}" rows="7" placeholder="Write it as you would in the exam.">${esc(ans)}</textarea>`;
+    if (done) exp = `<div class="explain"><div class="eyebrow">Model answer: compare point by point</div><ul>${it.m.map(x => `<li>${x}</li>`).join("")}</ul><p class="src">Read more: ${it.s}</p>${selfmark(k)}</div>`;
+  } else {
+    body = done ? `<div class="mine"><div class="eyebrow">Your line</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Your one-line answer</label><input class="line" id="ans-${k}" type="text" autocomplete="off" value="${esc(ans)}" placeholder="Type and press Enter">`;
+    if (done) exp = `<div class="explain"><div class="eyebrow">Model answer</div><p class="model">${it.a}</p><p class="also">${it.x}</p>
+      <span class="match ${hits(k) ? "ok" : "no"}">${hits(k) ? "Your line contains the key term." : "Key term not found in your line. Check the meaning yourself."}</span>${selfmark(k)}</div>`;
+  }
+  const primary = done ? `<button class="btn primary" id="next" ${finished(k) ? "" : "disabled"}>${last ? "See results" : "Next question"}</button>`
+    : `<button class="btn primary" id="check" ${it.f === "mcq" && ans === null ? "disabled" : ""}>${it.f === "mcq" ? "Check answer" : "Show model answer"}</button>`;
+  stage.innerHTML = `<article class="card">
+    <div class="qhead"><span class="qno">Q${String(k + 1).padStart(2, "0")}</span><span class="tag">${it.t}</span></div>
+    <p class="stem">${it.q}</p>${it.img ? FIG[it.img] : ""}${body}${exp}
+    <div class="actions"><button class="btn ghost" id="prev" ${k === 0 ? "disabled" : ""}>Previous</button>${primary}</div>
+    ${done && !finished(k) ? `<span class="hint">Mark yourself to continue.</span>` : ""}</article>`;
+  stage.querySelectorAll(".opt").forEach(b => b.onclick = () => { if (!state.done[k]) { state.ans[k] = +b.dataset.j; save(); render(); } });
+  stage.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.grade[k] = +b.dataset.g; save(); render(); });
+  const inp = document.getElementById("ans-" + k);
+  if (inp) { inp.oninput = () => { state.ans[k] = inp.value; save(); };
+    if (it.f === "line") inp.onkeydown = e => { if (e.key === "Enter") { e.preventDefault(); check(); } }; }
+  const c = document.getElementById("check"); if (c) c.onclick = check;
+  const n = document.getElementById("next"); if (n) n.onclick = next;
+  document.getElementById("prev").onclick = () => { if (state.i > 0) { state.i--; save(); render(); } };
+}
+function check() { const k = state.i; if (isMcq(k) && state.ans[k] === null) return; state.done[k] = true; save(); render(); }
+function next() {
+  const k = state.i; if (!finished(k)) return;
+  const open = Q.findIndex((_, j) => j > k && !finished(j));
+  state.i = open !== -1 ? open : (Q.every((_, j) => finished(j)) ? N : Q.findIndex((_, j) => !finished(j)));
+  save(); render(); window.scrollTo({ top: 0 });
+}
+function renderResult() {
+  const r = score();
+  const mark = k => ({ ok: `<span class="s ok">✓</span>`, part: `<span class="s part">½</span>`, bad: `<span class="s bad">✗${isMcq(k) ? " " + KEYS[Q[k].a] : ""}</span>` }[status(k)] || `<span class="s">–</span>`);
+  stage.innerHTML = `<article class="card result"><div class="eyebrow">Your score</div><div class="score">${fmt(r)} / ${N}</div>
+    <p class="sub">${Math.round(r / N * 100)}%. Written and one-line answers count as you marked them. Tap any topic to review it.</p>
+    <ul class="review">${Q.map((it, k) => `<li><span class="n">${k + 1}</span><button data-k="${k}">${it.t}</button>${mark(k)}</li>`).join("")}</ul>
+    <div class="actions"><button class="btn ghost" id="reset">Start again</button></div></article>`;
+  stage.querySelectorAll(".review button").forEach(b => b.onclick = () => { state.i = +b.dataset.k; save(); render(); });
+  document.getElementById("reset").onclick = () => { state = fresh(); save(); render(); };
+}
+document.addEventListener("keydown", e => {
+  if (e.metaKey || e.ctrlKey || e.altKey || state.i >= N || !isMcq(state.i)) return;
+  const k = state.i, j = KEYS.indexOf(e.key.toUpperCase());
+  if (j > -1 && !state.done[k]) { state.ans[k] = j; save(); render(); }
+  else if (e.key === "Enter" && document.activeElement?.tagName !== "BUTTON") { state.done[k] ? next() : check(); }
+});
+render();
+</script>

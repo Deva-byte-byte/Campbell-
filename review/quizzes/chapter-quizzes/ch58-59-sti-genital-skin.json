@@ -1,0 +1,674 @@
+[
+ {
+  "f": "mcq",
+  "t": "Chlamydia",
+  "q": "Which statement about chlamydia is FALSE?",
+  "o": [
+   "PCR (NAAT) is used to make the diagnosis",
+   "PID follows 9.5–27% of untreated cases",
+   "Gonorrhoea is the top US bacterial STI",
+   "Up to 75% of infected women are silent"
+  ],
+  "a": 2,
+  "e": [
+   "Chlamydia is the commonest bacterial STI (about 1.42 million US cases in 2012, the most ever reported for any condition); gonorrhoea is second. In men the main risk is transmission to women, causing PID, tubal scarring, ectopic pregnancy, pelvic pain and infertility. Women are more often infected and less often symptomatic."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Gonorrhoea",
+  "q": "Which statement about gonorrhoea treatment is TRUE?",
+  "o": [
+   "Ciprofloxacin is still first-line",
+   "Cefixime remains first-line orally",
+   "Penicillin VK is the preferred drug",
+   "Ceftriaxone IM is the first-line"
+  ],
+  "a": 3,
+  "e": [
+   "Quinolones were dropped in 2007 and cefixime in 2012 because of resistance. Book regimen: ceftriaxone 250 mg IM once plus azithromycin 1 g orally (or doxycycline 100 mg twice daily for 7 days). CDC 2020 update: ceftriaxone 500 mg IM once (1 g if ≥150 kg), adding doxycycline only if chlamydia is not excluded."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "HPV types",
+  "q": "Which statement about HPV is FALSE?",
+  "o": [
+   "Types 6 and 11 cause about 90% of warts",
+   "Types 6 and 11 cause most HPV cancers",
+   "HPV 16 is commonest in penile SCC",
+   "HPV 16/18: over 99% of cervical cancers"
+  ],
+  "a": 1,
+  "e": [
+   "Types 6 and 11 are non-oncogenic. HPV 16 or 18 is linked to 84% of anal cancers. Biopsy warts only if atypical, pigmented, indurated, fixed or ulcerated. HPV raises cancer risk especially in HIV."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "HPV vaccine",
+  "q": "Which statement about HPV vaccination is TRUE?",
+  "o": [
+   "It is only for men older than 26 years",
+   "It is given only after proven HPV infection",
+   "In males: prevents warts, anal cancer",
+   "It is licensed only for use in women"
+  ],
+  "a": 2,
+  "e": [
+   "Book: quadrivalent Gardasil (6, 11, 16, 18) licensed for females 9–26 (2006) and males 9–26 (2009); bivalent Cervarix (16, 18) for females 10–25. Best given before sexual debut; MSM are at high risk of anal intraepithelial neoplasia. (Now: 9-valent Gardasil 9, licensed up to age 45, routine at 11–12 with catch-up to 26.)"
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Genital ulcers",
+  "q": "Which pairing of ulcer and features is correct?",
+  "o": [
+   "LGV: large persistent painful ulcer",
+   "Chancroid: painful, soft, exudative",
+   "Syphilis: painful, soft, multiple ulcers",
+   "Herpes: single painless indurated ulcer"
+  ],
+  "a": 1,
+  "e": [
+   "Chancroid (H. ducreyi): painful, non-indurated ulcer with exudate and possibly suppurative nodes. Syphilitic chancre: single, painless, indurated, clean, with non-tender nodes. LGV (C. trachomatis L1–L3): transient painless ulcer, usually gone by presentation; tender, often unilateral, suppurative inguinal or femoral nodes. Granuloma inguinale (Klebsiella granulomatis): Donovan bodies (deep purple intracellular inclusions in macrophages, Wright/Giemsa/Leishman stain) on crush preparation or biopsy."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Reportable STIs",
+  "q": "Which STI is NOT reportable in every US state?",
+  "o": [
+   "Chancroid",
+   "Chlamydia",
+   "Herpes simplex",
+   "Early syphilis"
+  ],
+  "a": 2,
+  "e": [
+   "Reportable everywhere: syphilis, gonorrhoea, chlamydia, chancroid, HIV and AIDS."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Syphilis tests and treatment",
+  "q": "Which statement about syphilis is FALSE?",
+  "o": [
+   "RPR or VDRL titres follow disease activity",
+   "Benzathine penicillin is treatment of choice",
+   "A fourfold titre change is significant",
+   "Treponemal tests track the treatment"
+  ],
+  "a": 3,
+  "e": [
+   "Treponemal tests (TP-PA, FTA-ABS) usually stay positive for life. Non-treponemal tests (RPR, VDRL, TRUST) correlate with activity and usually turn negative. Bicillin C-R (benzathine plus procaine) and oral penicillin are not appropriate. Jarisch–Herxheimer reaction: headache, myalgia, fever, tachycardia and tachypnoea after treponemes are killed. Stages: primary; secondary (mucocutaneous signs, maculopapular rash); latent (early <1 year, late >1 year); tertiary (cardiovascular, skeletal, CNS)."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Herpes",
+  "q": "Which statement about genital herpes is TRUE?",
+  "o": [
+   "HSV never causes urinary retention",
+   "HSV-2 recurs about tenfold more often",
+   "Recurrence is the same for both types",
+   "HSV-1 genital infection recurs more often"
+  ],
+  "a": 1,
+  "e": [
+   "Recurrence: HSV-1 0.02/month vs HSV-2 0.23/month. Book: HSV-2 causes 90% of genital herpes (HSV-1 now causes a growing share in many countries). Diagnosis by viral culture and typing; the virus lies latent in nerve cell bodies and can cause aseptic meningitis and autonomic dysfunction with retention. HSV raises HIV replication."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Vaginitis",
+  "q": "Which pairing is correct?",
+  "o": [
+   "Strawberry cervix: candidiasis",
+   "Clue cells: trichomoniasis",
+   "Clue cells: bacterial vaginosis",
+   "Strawberry cervix: scabies"
+  ],
+  "a": 2,
+  "e": [
+   "Clue cells are vaginal epithelial cells covered with bacteria (BV). A strawberry vulval rash or cervix is seen in trichomoniasis."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "HIV virology",
+  "q": "Which statement about HIV is FALSE?",
+  "o": [
+   "gp160 is cleaved into gp120 and gp41",
+   "Reverse transcriptase makes DNA from RNA",
+   "gp120 binds CD4 on T lymphocytes",
+   "HIV is a double-stranded DNA virus"
+  ],
+  "a": 3,
+  "e": [
+   "HIV is a single-stranded RNA retrovirus. Viral integrase inserts the DNA into host chromatin. It infects T cells and dendritic cells. HIV-2 is rare in the developed world, less transmissible and less virulent."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "HIV diagnosis",
+  "q": "Which statement about HIV testing is TRUE?",
+  "o": [
+   "Culture is the routine screening method",
+   "Viral load best detects acute infection",
+   "Western blot is the first screening test",
+   "Antibody tests are positive from day one"
+  ],
+  "a": 1,
+  "e": [
+   "Book: screen with conventional or rapid EIA (result in 30 minutes), confirm with Western blot, IFA or HIV-1 RNA. In the roughly 3-month window, antibodies may be negative; RNA detects acute infection. (Current CDC algorithm: 4th-generation antigen/antibody immunoassay, then an HIV-1/2 differentiation assay; Western blot is no longer used.) Plasma HIV RNA is the best predictor of progression; after treatment the RNA nadir predicts outcome. Test anyone with or at risk of an STI."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "HIV treatment",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Circumcision has no effect on risk",
+   "ART only when CD4 is below 200",
+   "ART makes patients non-infectious",
+   "ART for all, whatever the CD4 count"
+  ],
+  "a": 3,
+  "e": [
+   "Combination ART delays progression and prolongs survival but does not necessarily make a patient non-infectious. AIDS is marked by a low CD4 count. Circumcised men have lower HIV risk. STIs, especially ulcerative ones (herpes, syphilis, chancroid), raise HIV susceptibility."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Needlestick",
+  "q": "Which is NOT one of the CDC factors raising HIV seroconversion after a needlestick?",
+  "o": [
+   "Device was in an artery or vein",
+   "Visible blood on the device",
+   "Recent infection in the source",
+   "Deep rather than shallow injury"
+  ],
+  "a": 2,
+  "e": [
+   "CDC factors (odds ratios): deep injury 15, visible blood 6.2, device previously in a vessel 4.3, source dying within 2 months (preterminal) 5.6."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "HIV and the urologist",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "APOL1 variants raise HIVAN risk in Black patients",
+   "HIVAN usually presents with proteinuria",
+   "Indinavir stones are soluble at alkaline pH",
+   "PIs and NNRTIs raise PDE5 inhibitor levels"
+  ],
+  "a": 2,
+  "e": [
+   "Indinavir stones are soluble at acidic pH and are radiolucent on X-ray and CT (unless mixed with calcium); other PIs (lopinavir, atazanavir, amprenavir, nelfinavir) cause stones less often. Two APOL1 variants (G1, G2; protective against trypanosomes) raise HIVAN risk 29-fold (50% vs 12%), with earlier, faster FSGS. PIs and NNRTIs inhibit CYP3A, so start PDE5 inhibitors at the lowest dose. Voiding dysfunction is common in advanced HIV; the commonest intrascrotal finding in AIDS is testicular atrophy."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "HIV and cancer",
+  "q": "Which GU cancer is NOT more frequent in HIV?",
+  "o": [
+   "Testis cancer",
+   "Penile squamous cancer",
+   "Kidney cancer",
+   "Prostate cancer"
+  ],
+  "a": 3,
+  "e": [
+   "Prostate cancer relative risk is similar or lower (about 0.70). Increased: Kaposi sarcoma, non-Hodgkin lymphoma, cervical cancer, and testis, renal and penile cancers."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Kaposi sarcoma in HIV",
+  "q": "Which statement about Kaposi sarcoma is FALSE?",
+  "o": [
+   "Corticosteroids treat its lesions well",
+   "HHV-8 is essential for every form of it",
+   "Protease inhibitors have antiangiogenic effect",
+   "Local lesions can be irradiated or injected"
+  ],
+  "a": 0,
+  "e": [
+   "Steroids should not be used. KS lesions are raised, firm, purplish plaques with vessels, extravasated red cells and siderophages. Local options: radiotherapy, laser, cryotherapy, intralesional chemotherapy. In transplant patients, adjusting immunosuppression may resolve it."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Condyloma pathology",
+  "q": "A woman has a vulval condyloma excised (papillomatosis with koilocytes). Next step:",
+  "o": [
+   "Vaginoscopy to look for other lesions",
+   "Perform cystoscopy to stage it",
+   "Apply podophyllin to the excision base",
+   "Give the HPV vaccine as treatment"
+  ],
+  "a": 0,
+  "e": [
+   "A thorough genital examination including vaginoscopy looks for other lesions."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Molluscum",
+  "q": "A man wants treatment of a 2 mm molluscum contagiosum lesion. Appropriate treatment is:",
+  "o": [
+   "Topical 5-fluorouracil cream",
+   "Curettage or cryotherapy",
+   "Wide local surgical excision",
+   "Two weeks of ciprofloxacin"
+  ],
+  "a": 1,
+  "e": [
+   "It is usually self-limited and needs no treatment; biopsy shows an epidermal crater filled with molluscum bodies."
+  ],
+  "s": "Ch 58 Sexually transmitted diseases"
+ },
+ {
+  "f": "mcq",
+  "t": "Diagnostics and steroids",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Topical steroids have no systemic effects",
+   "PAS stain shows Candida and dermatophytes",
+   "Short steroid courses are split twice daily",
+   "Oral steroid action lasts only 1–5 hours"
+  ],
+  "a": 1,
+  "e": [
+   "Oral glucocorticoids peak at 30–90 minutes, have plasma half-lives of 1–5 hours, but act for 8–48 hours. For short courses (≤3 weeks) give a single morning dose to limit HPA suppression. Topical steroids can be absorbed with significant systemic effects. Dermatophytes: Trichophyton, Microsporum, Epidermophyton."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Atopic dermatitis",
+  "q": "A 12-year-old asthmatic boy has itchy scrotal and leg papules. Mainstay treatment:",
+  "o": [
+   "Low-dose systemic corticosteroids",
+   "Long-term suppressive topical steroids",
+   "Frequent warm-water soaks for prevention",
+   "Frequent emollients, gentle cleansing"
+  ],
+  "a": 3,
+  "e": [
+   "Atopic dermatitis: intense pruritus is the hallmark; control scratching, remove triggers (chemicals, detergents, dust mites), use non-alkali soaps and emollients."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Contact dermatitis",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Allergic causes about 80% of contact dermatitis",
+   "Nickel sulfate is the commonest allergen",
+   "Patch testing diagnoses allergic contact dermatitis",
+   "A dye spill burning the same day is irritant"
+  ],
+  "a": 0,
+  "e": [
+   "Irritant contact dermatitis (direct cytotoxicity from soaps, metal salts, acids, alkalis, solvents) causes about 80%. NACDG 2003: nickel (jewellery, belt buckles) was the commonest allergen."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Erythema multiforme",
+  "q": "A man develops target lesions on thighs, scrotum and mouth 2 weeks after a herpes flare. Next:",
+  "o": [
+   "Oral acyclovir now",
+   "Observation alone",
+   "Oral antihistamines",
+   "Systemic steroids"
+  ],
+  "a": 1,
+  "e": [
+   "EM minor follows HSV in most cases, about 10–14 days later. Acyclovir after target lesions appear does not help (continuous suppression may prevent recurrences). It resolves in weeks without sequelae; recurrences are common."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Stevens–Johnson",
+  "q": "A woman on day 2 of a sulfonamide develops painful labial erosions and spreading blisters. The diagnosis and leading drug class are:",
+  "o": [
+   "Pyoderma; linked to bowel disease",
+   "EM minor; viral cause is likely",
+   "Reiter syndrome; HLA-B27 linked",
+   "SJS; NSAIDs are the top cause"
+  ],
+  "a": 3,
+  "e": [
+   "Drugs are the commonest trigger: NSAIDs, then sulfonamides, tetracyclines, penicillin, doxycycline and anticonvulsants. Book: protracted 4–6 weeks, mortality approaching 30% (this figure fits TEN; SJS alone is usually quoted lower, about 5–10%)."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Psoriasis",
+  "q": "For genital psoriasis flares, which statement is TRUE?",
+  "o": [
+   "Systemic steroids are first-line for flares",
+   "Low-potency topical steroids are mainstay",
+   "Topical 5-FU cream is the usual treatment",
+   "PUVA is ideal for genital psoriatic plaques"
+  ],
+  "a": 1,
+  "e": [
+   "Psoriasis affects up to 2%. Book example: 3% liquor carbonis detergens in 1% hydrocortisone. High-dose PUVA raises genital SCC risk; shield the genitals and do not use it for genital lesions."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Reactive arthritis",
+  "q": "A man has urethritis, arthritis, conjunctivitis, oral ulcers and genital plaques. The key risk factor is:",
+  "o": [
+   "An atopic history",
+   "HLA-B27 haplotype",
+   "Genital herpes",
+   "Benzene exposure"
+  ],
+  "a": 1,
+  "e": [
+   "Reiter syndrome follows urethritis (Chlamydia, gonococcus) or GI infection (Yersinia, Salmonella, Shigella, Campylobacter) and is commoner in HIV."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Lichens",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Steroids shorten LP clearance 29 to 18 weeks",
+   "Late genital LS is balanitis xerotica obliterans",
+   "LS is linked to non-HPV penile SCC",
+   "Lichen planus is the premalignant lichen"
+  ],
+  "a": 3,
+  "e": [
+   "Lichen sclerosus (pallor, loss of architecture, hyperkeratosis, scarring) is the premalignant one; BXO can cause urethral stricture; biopsy confirms and excludes cancer. Asymptomatic genital lichen planus needs no treatment; symptomatic LP: topical steroids, systemic steroids for severe disease."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Behçet disease",
+  "q": "Which statement about Behçet disease is FALSE?",
+  "o": [
+   "Its genital ulcers are painless",
+   "Triad: oral and genital ulcers, uveitis",
+   "It may present with neurological signs",
+   "It can cause epididymitis"
+  ],
+  "a": 0,
+  "e": [
+   "The ulcers are painful. Also thrombophlebitis, aneurysms, GI, neurological and arthritic problems; relapsing, likely autoimmune with genetic predisposition. Exclude aphthae, syphilis, herpes and chancroid first. Book vignette: a painful solitary erosion with seizures, so neurological care takes priority."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Seborrhoeic dermatitis",
+  "q": "A healthy 35-year-old suddenly develops extensive sharply demarcated red-brown scaly plaques in nasolabial folds and perianal area. Next:",
+  "o": [
+   "HIV test now",
+   "Skin biopsy",
+   "Wood's lamp",
+   "Systemic steroid"
+  ],
+  "a": 0,
+  "e": [
+   "Extensive or severe seborrhoeic dermatitis should raise concern for HIV."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Pemphigus",
+  "q": "Which statement about pemphigus vulgaris is FALSE?",
+  "o": [
+   "It is autoimmune, with loss of cell adhesion",
+   "Most patients have painful oral erosions",
+   "The Asboe-Hansen sign shows lost cohesion",
+   "Advanced disease resolves without treatment"
+  ],
+  "a": 3,
+  "e": [
+   "Untreated severe disease can be fatal through loss of the skin barrier. Treat with systemic steroids plus steroid-sparing agents (azathioprine, cyclophosphamide). Asboe-Hansen sign: fluid spreads under adjacent normal skin away from pressure on a blister."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Bullous disorders",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Pyoderma gangrenosum is a vesicobullous disorder",
+   "Dermatitis herpetiformis has a coeliac link",
+   "Linear IgA dermatosis responds to metronidazole",
+   "Hailey–Hailey usually involves the vulva"
+  ],
+  "a": 1,
+  "e": [
+   "DH: granular IgA at the basement membrane on immunofluorescence; dapsone and a gluten-free diet. Linear IgA bullous dermatosis: annular and linear vesicles; dapsone or sulfapyridine; 30–60% remit long term. Vesicobullous group also includes pemphigus, Hailey–Hailey and Zoon (per the book)."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Hailey–Hailey",
+  "q": "Which statement about Hailey–Hailey disease is FALSE?",
+  "o": [
+   "Excision, grafting or laser for refractory",
+   "It worsens in summer (heat and sweat)",
+   "Intralesional steroids may help",
+   "Vulval involvement is common in women"
+  ],
+  "a": 3,
+  "e": [
+   "Autosomal dominant blistering of intertriginous areas (groin, perianal, inframammary) with itch, pain and odour; vulval disease is unusual. Dermabrasion is another ablative option."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Pyoderma gangrenosum",
+  "q": "Which statement about pyoderma gangrenosum is FALSE?",
+  "o": [
+   "Vacuolated keratinocytes are diagnostic",
+   "It is probably autoimmune in mechanism",
+   "It is linked to IBD and myeloproliferation",
+   "Corticosteroids have a role in treatment"
+  ],
+  "a": 0,
+  "e": [
+   "No test or histological feature is pathognomonic. Painful ulceration with a purulent base, often with tissue loss; most common in women in their second to fifth decades; associated with IBD, arthritis, collagen vascular disease and myeloproliferative disorders. Factitial dermatitis (self-inflicted) is linked to borderline personality disorder."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Bacterial infections",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Ecthyma gangrenosum is pseudomonal sepsis",
+   "Erysipelas has a raised, distinct border",
+   "Fournier gangrene is mostly S. pyogenes",
+   "Hot-tub folliculitis is from Pseudomonas"
+  ],
+  "a": 2,
+  "e": [
+   "Fournier gangrene is usually polymicrobial (gram-positive, gram-negative and anaerobes) from skin, urethral or perirectal sources; mortality can exceed 15%; alcoholism is a risk factor; debridement may extend to the chest wall. Erysipelas (S. pyogenes) is dermal with lymphatic involvement. Folliculitis is worse with shaving and friction. Hidradenitis suppurativa: follicular disorder of apocrine skin, rupture causes inflammation, abscesses and sinuses; bacteria are not the initiator."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Corynebacteria",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Erythrasma is caused by a dermatophyte",
+   "Shaving worsens trichomycosis axillaris",
+   "Trichomycosis goes with hyperhidrosis",
+   "Trichomycosis is a fungal hair infection"
+  ],
+  "a": 2,
+  "e": [
+   "Trichomycosis (Corynebacterium): shaving gives immediate improvement; antibacterial soaps, clindamycin gel, bacitracin or erythromycin help. Erythrasma is due to Corynebacterium minutissimum (coral-red fluorescence under Wood's lamp)."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Tinea and candida",
+  "q": "A man treated for tinea cruris has marked scrotal involvement. This suggests:",
+  "o": [
+   "Seborrhoeic dermatitis",
+   "Hidradenitis suppurativa",
+   "Cutaneous candidiasis",
+   "Allergic contact rash"
+  ],
+  "a": 2,
+  "e": [
+   "Tinea cruris affects the inner thighs and groin and usually spares the scrotum and penis. Post-inflammatory hyperpigmentation may persist without active infection."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Scabies",
+  "q": "Which scabies treatment is contraindicated in children?",
+  "o": [
+   "Permethrin",
+   "Malathion",
+   "Lindane",
+   "Ivermectin"
+  ],
+  "a": 2,
+  "e": [
+   "Lindane causes CNS toxicity in children and mite resistance is rising. Treatment of choice (as for pubic lice): 5% permethrin over the whole body overnight, repeated after 1 week."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Penile CIS",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Bowen disease: HPV 6 and 11 types",
+   "Glans Bowen disease is Queyrat type",
+   "Bowen disease is SCC in situ",
+   "Imiquimod and Mohs have roles"
+  ],
+  "a": 0,
+  "e": [
+   "Erythroplasia of Queyrat is associated with HPV 8, 16, 39 and 51; bowenoid papulosis (multiple small red papules) with HPV 16. Verrucous carcinoma is linked to HPV 6 and 11 (book). Penile CIS rarely progresses to invasion (book)."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Verrucous carcinoma",
+  "q": "Which statement about verrucous carcinoma is TRUE?",
+  "o": [
+   "It is linked to HPV 16 and 18 mostly",
+   "It has a high tendency to metastasise",
+   "It is an exceedingly rare genital tumour",
+   "Avoid primary RT: anaplastic risk"
+  ],
+  "a": 3,
+  "e": [
+   "A slow-growing, locally aggressive, exophytic low-grade SCC variant with little metastatic potential, commonest on the glans or prepuce of uncircumcised men; treat by local excision. PEKMB (thick hyperkeratotic plaque on the glans of older men) has been found with concurrent verrucous carcinoma."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Kaposi sarcoma",
+  "q": "In immunocompetent people, Kaposi sarcoma most often presents on the:",
+  "o": [
+   "Lower limbs",
+   "Genitalia",
+   "The face",
+   "The palms"
+  ],
+  "a": 0,
+  "e": [
+   "Slowly growing blue-red macules; genitalia seldom involved. In AIDS a solitary genital lesion may be the first sign, and disease ranges from single lesions to visceral spread."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Paget and lymphoma",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "EMPD has an underlying cancer in over 60%",
+   "Blood involvement in CTCL is Sézary syndrome",
+   "EMPD can accompany bladder or urethral cancer",
+   "EMPD is an intraepithelial adenocarcinoma"
+  ],
+  "a": 0,
+  "e": [
+   "Book: underlying malignancy in 10–30%. EMPD arises in apocrine-bearing skin, shows vacuolated Paget cells, spreads intraepidermally, the vulva is the commonest female genital site; men may have urethral, bladder, rectal or apocrine cancers. CTCL presents with pruritus and must be distinguished from psoriasis, eczema, fungi and drug reactions."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Benign lesions",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Pearly penile papules are angiofibromas",
+   "Angiokeratomas of Fordyce never bleed",
+   "Skin tags are the fibrofolliculomas of BHD",
+   "Epidermoid cysts are rare in the scrotum"
+  ],
+  "a": 0,
+  "e": [
+   "Pearly penile papules resemble the facial angiofibromas of tuberous sclerosis. Skin tags (acrochordons, fibroepithelial polyps) differ histologically from BHD fibrofolliculomas. Angiokeratomas of Fordyce (1–2 mm red-purple papules, dermal vessel ectasia) can cause troublesome scrotal bleeding. Epidermoid cysts are common in the scrotum. Leser–Trélat sign: sudden increase in size and number of seborrhoeic keratoses, a marker of internal malignancy (SKs spare mucosa, palms and soles)."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ },
+ {
+  "f": "mcq",
+  "t": "Zoon balanitis",
+  "q": "A 70-year-old uncircumcised man has a red macule on the glans; biopsy shows a plasma cell infiltrate (Zoon balanitis). Best management:",
+  "o": [
+   "Observation",
+   "Topical 5-FU",
+   "Circumcision",
+   "Laser fulguration"
+  ],
+  "a": 2,
+  "e": [
+   "Zoon (plasma cell) balanitis occurs in uncircumcised men from the third decade; exclude SCC and EMPD (often by biopsy). Circumcision protects and cures most; topical steroids or laser if circumcision is declined."
+  ],
+  "s": "Ch 59 Cutaneous diseases of external genitalia"
+ }
+]

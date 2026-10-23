@@ -1,0 +1,1042 @@
+[
+ {
+  "f": "mcq",
+  "t": "FDA anaesthesia warning",
+  "q": "The FDA warning on repeated or lengthy anaesthesia and brain development applies to:",
+  "o": [
+   "Children under 3 and 2nd-trimester pregnancy",
+   "Children under 3 years, but not pregnancy",
+   "Children under 2 and 3rd-trimester pregnancy",
+   "Under 3 years, and 3rd-trimester pregnancy"
+  ],
+  "a": 3,
+  "e": [
+   "Families should be told what is known and what studies are under way so consent is fully informed. Anaesthesia risks include nausea, vomiting, bronchospasm, laryngospasm, stridor, emergence delirium and maladaptive behaviour afterwards."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "Paediatric pain",
+  "q": "Which statement about pain in children is FALSE?",
+  "o": [
+   "Self-report is the gold standard for assessment",
+   "Preoperative anxiety predicts postoperative pain",
+   "Self-report scales cannot be used under 2 years",
+   "Discussing expectations changes procedural pain"
+  ],
+  "a": 2,
+  "e": [
+   "Book answer: the statement that self-assessment scales are 'not present' under 2 years is the false one (observational scales such as PIPP exist for premature infants, neonates and non-verbal or impaired children). Validated self-report tools: Pieces of Hurt (3–6 years), Faces and Oucher (4–12), VAS (8–16). Describe pain by intensity, location, duration, quality and what modifies it. Child life specialists reduce child and parental anxiety. Use multimodal analgesia, and dispose of unused opioids properly."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "Fasting",
+  "q": "Which paediatric fasting (NPO) interval is correct?",
+  "o": [
+   "Full meal: 6 hours",
+   "Formula milk: 4 hours",
+   "Clear fluids: 2 hours",
+   "Breast milk: 6 hours"
+  ],
+  "a": 2,
+  "e": [
+   "Full or fatty meal (including enteral feeds) 8 h; formula, non-human milk or light meal 6 h; breast milk 4 h; clear liquids 2 h. NPO violation raises the risk of aspiration and pneumonitis."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "Special diets",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Give antiseizure, reflux and asthma drugs that morning",
+   "Stop metformin 24 h before because of lactic acidosis",
+   "Fasting diabetics are mainly at risk of hypoglycaemia",
+   "Children on a ketogenic diet get carbohydrate-free fluids"
+  ],
+  "a": 2,
+  "e": [
+   "Per the book, volume depletion during fasting plus stopping diabetic drugs leads to hyperglycaemia, not hypoglycaemia, so this is the false statement. Enteral feeds count as a fatty meal (stop 8 h before)."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "Preoperative tests",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Routine laboratory tests have little value",
+   "Pregnancy testing is advised in girls of childbearing age",
+   "Elective opening of the urinary tract is clean-contaminated",
+   "The AAP advises a routine preoperative chest X-ray"
+  ],
+  "a": 3,
+  "e": [
+   "Routine tests (including chest X-ray) are not recommended. Obtain urine cultures when indicated and treat positive cultures by sensitivity; recurrent preoperative UTI is a high-risk factor for postoperative infection. AUA: if surgery proceeds despite infection, give antibiotics to sterilise the field."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "Premature infants",
+  "q": "Which statement about premature infants is FALSE?",
+  "o": [
+   "Aim for an oxygen saturation of 98–100%",
+   "They have a high risk of apnoea, which can be fatal",
+   "They lose fluid quickly from skin and wounds",
+   "They cannot concentrate their urine well"
+  ],
+  "a": 0,
+  "e": [
+   "Supplemental oxygen raises the risk of retinopathy and blindness, so aim for saturations in the low 90s. Lung problems: low surfactant (especially <36 weeks), high oxygen consumption, low FRC and tracheomalacia. Perioperative complications are much more frequent, mostly in the immediate postoperative period."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "CKD, sickle cell, bleomycin",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "High FiO2 after bleomycin can cause fatal lung toxicity",
+   "Raised urea causes platelet dysfunction and thrombosis",
+   "Dehydration is the key perioperative issue in sickle cell",
+   "CKD anaemia reflects low erythropoietin and high urea"
+  ],
+  "a": 1,
+  "e": [
+   "Uraemia impairs platelets, raising bleeding (not thrombosis) risk. Under-6 CKD is mostly congenital (not acquired IgA nephropathy); cardiac function is often abnormal; electrolyte disturbance (e.g. hyperkalaemia) causes arrhythmias. CKD stage 2 needs no dose changes, but watch NSAIDs."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "Spina bifida and CAH",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Latex anaphylaxis causes bronchospasm and hypotension",
+   "Spina bifida raises the risk of latex allergy",
+   "Spina bifida T5–T8 lesions can cause dysreflexia",
+   "CAH causes adrenaline excess and hyperglycaemia"
+  ],
+  "a": 3,
+  "e": [
+   "CAH can cause adrenaline and cortisol deficiency, leading to hypoglycaemia. Autonomic dysreflexia (classically injury at or above T6; the book cites T5–T8 lesions) gives severe hypertension, bradycardia, stroke and possible death; know its signs. Severe latex reaction: bronchoconstriction, vasodilatation and hypotension, capillary leak, coronary vasoconstriction and myocardial depression. Spina bifida brings multiple comorbidities."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "Infection and fever",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Perioperative fever is rarely due to infection",
+   "Nerve blocks are unsafe in any septic child",
+   "After a URTI, airways stay reactive 2–8 weeks",
+   "Trauma patients have an empty stomach if fasted 6 h"
+  ],
+  "a": 2,
+  "e": [
+   "Commonest perioperative fever cause: infection, usually viral URTI. Transfusion can cause non-specific fever up to a week later. Treat every trauma child as having a full stomach (rapid sequence induction). In sepsis, peripheral nerve blocks avoid systemic opioid effects. Antibiotics are the mainstay of sepsis treatment: give early and culture if possible."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "Anaphylaxis and ERAS",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "ERAS components are well proven in children",
+   "Anaphylaxis: stop drug, oxygen, fluids, adrenaline",
+   "Muscle relaxants and beta-lactams are main triggers",
+   "Give antibiotics early enough for tissue levels"
+  ],
+  "a": 0,
+  "e": [
+   "ERAS (avoid long fasting, early feeding, carbohydrate loading, early mobilisation, education) is yet to be established in children. Anaphylaxis treatment also includes Trendelenburg position. Antibiotic choice depends on site and likely source."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "Malignant hyperthermia",
+  "q": "Which statement about malignant hyperthermia is TRUE?",
+  "o": [
+   "Late: metabolic alkalosis and hypokalaemia",
+   "Early signs: hypocarbia and sinus bradycardia",
+   "Stop trigger, call help, swap machine, A-line",
+   "It is common and triggered by acetylcholine"
+  ],
+  "a": 2,
+  "e": [
+   "MH is rare, potentially fatal and hypermetabolic, triggered by volatile anaesthetics and succinylcholine (the book's option says 'acetylcholine'). Signs: hypercarbia, tachycardia, masseter spasm and hyperthermia; late: severe metabolic acidosis, hyperkalaemia, rigidity and rhabdomyolysis. Also insert a Foley catheter. The specific antidote is dantrolene (not named in the book's answer). Postoperatively, most cardiac events are preventable; high preoperative anxiety raises the risk of emergence delirium (not limited to ages 2–8); respiratory events are more than hypoxia and obstruction."
+  ],
+  "s": "Ch 26 Paediatric perioperative care"
+ },
+ {
+  "f": "mcq",
+  "t": "Cosmesis",
+  "q": "Which statement about cosmesis in paediatric MIS is TRUE?",
+  "o": [
+   "Scars shrink as children grow taller",
+   "Scar site matters more than size",
+   "Parents value cosmesis over outcomes",
+   "Single-port benefit lasts many years"
+  ],
+  "a": 1,
+  "e": [
+   "Validated scar questionnaires exist. Families prefer inconspicuous locations, put clinical outcomes ahead of cosmesis, and choose MIS when outcomes are equal. Single-site cosmesis is no better than standard laparoscopy at 18 months."
+  ],
+  "s": "Ch 27 Paediatric laparoscopy/robotics"
+ },
+ {
+  "f": "mcq",
+  "t": "Length of stay",
+  "q": "Which procedure has NOT shown a length-of-stay benefit with a minimally invasive approach?",
+  "o": [
+   "Appendicovesicostomy",
+   "Ureteric reimplantation",
+   "Augmentation cystoplasty",
+   "Hernia/hydrocele repair"
+  ],
+  "a": 3,
+  "e": [
+   "Pyeloplasty also shows benefit. Laparoscopic hernia repair may cause more pain than an open inguinal incision (pneumoperitoneum stress); MIS benefit is proportional to the burden of the open alternative."
+  ],
+  "s": "Ch 27 Paediatric laparoscopy/robotics"
+ },
+ {
+  "f": "mcq",
+  "t": "Cardiovascular effects",
+  "q": "Which statement about pneumoperitoneum in children is FALSE?",
+  "o": [
+   "Ejection fraction is maintained as workload rises",
+   "Cardiac index falls above about 10 mmHg",
+   "Mortality is unchanged with heart defects",
+   "Insufflation may trigger vagal bradycardia"
+  ],
+  "a": 2,
+  "e": [
+   "Mortality is higher in children with congenital heart defects, so use close monitoring and a cardiac anaesthesia team. Bradycardia responds to atropine or glycopyrrolate and is usually self-limited; sympathetic tachyarrhythmia may also occur."
+  ],
+  "s": "Ch 27 Paediatric laparoscopy/robotics"
+ },
+ {
+  "f": "mcq",
+  "t": "Physiology",
+  "q": "Which change with pneumoperitoneum is described WRONGLY?",
+  "o": [
+   "End-tidal CO2 increases",
+   "Systemic vascular resistance rises",
+   "Dynamic lung compliance increases",
+   "Intracranial pressure increases"
+  ],
+  "a": 2,
+  "e": [
+   "Compliance falls (diaphragm pushed up, smaller tidal volumes), so ventilator settings often need changing. ETCO2 rises from CO2 absorption and reduced minute ventilation. Raised SVR drives a sympathetic response; GFR and urine output fall. ICP rises, usually not clinically relevant. Infants have little working space, a pliable abdominal wall and marked cardiopulmonary changes."
+  ],
+  "s": "Ch 27 Paediatric laparoscopy/robotics"
+ },
+ {
+  "f": "mcq",
+  "t": "Immune response",
+  "q": "Which statement about the immune response is TRUE?",
+  "o": [
+   "Peritoneal signs are sharper after laparoscopy",
+   "CRP and IL-6 are lower after laparoscopy",
+   "Room-air insufflation blunts inflammation more",
+   "Children gain more immune benefit than adults"
+  ],
+  "a": 1,
+  "e": [
+   "CO2 insufflation blunts local and systemic inflammation compared with air or open surgery, reducing pain and fatigue but also masking peritonitis. Keep a high suspicion of visceral injury in an ill child without an acute abdomen."
+  ],
+  "s": "Ch 27 Paediatric laparoscopy/robotics"
+ },
+ {
+  "f": "mcq",
+  "t": "Contraindications",
+  "q": "Which is an absolute contraindication to MIS in children?",
+  "o": [
+   "Intolerance of pneumoperitoneum",
+   "Age below 3 months at surgery",
+   "Previous abdominal operations",
+   "Body weight below 4 kilograms"
+  ],
+  "a": 0,
+  "e": [
+   "The only absolute contraindications: inability to tolerate pneumoperitoneum, and the surgeon being unable to do it minimally invasively. Infants under a week old have had safe procedures. Prior surgery raises conversion risk but such children may benefit more."
+  ],
+  "s": "Ch 27 Paediatric laparoscopy/robotics"
+ },
+ {
+  "f": "mcq",
+  "t": "Umbilical access",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Umbilical ports seldom need any fascial closure",
+   "Bifurcation lies below it in up to 40%",
+   "Trendelenburg does not alter the relationship",
+   "Umbilical fascial defects are rare in children"
+  ],
+  "a": 1,
+  "e": [
+   "Fascial openings are common in children (and up to 25% of adults), so close umbilical ports. Trendelenburg increases the chance that the bifurcation lies below the umbilicus; blind umbilical entry risks the aorta and IVC. The vessel most often hit by an umbilical Veress needle is the left common iliac vein, the most superior vessel there, crossing the iliac artery; recognise it before dilating."
+  ],
+  "s": "Ch 27 Paediatric laparoscopy/robotics"
+ },
+ {
+  "f": "mcq",
+  "t": "Access and hernias",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Port hernias never occur below 5 mm",
+   "Open access has more visceral injuries",
+   "Veress access fails more often than open",
+   "The umbilicus is the highest-risk hernia site"
+  ],
+  "a": 2,
+  "e": [
+   "Major vascular or visceral injury rates are similar with either technique. Omental herniation has been reported through a 3 mm site, so close all ports in children; no location is protective (unlike adults). Hernias may present only with lethargy and a bulge because peritoneal signs are blunted."
+  ],
+  "s": "Ch 27 Paediatric laparoscopy/robotics"
+ },
+ {
+  "f": "mcq",
+  "t": "Gas embolism and training",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Embolus may raise or lower end-tidal CO2",
+   "The best rescue position is prone",
+   "CO2 tubing contains only pure CO2 gas",
+   "Gas embolism is common but rarely serious"
+  ],
+  "a": 0,
+  "e": [
+   "Up to 10% of initial gas may be nitrogen or oxygen from the tubing, so flush the tubing, especially in infants. Embolism is rare but life-threatening; place the child in left lateral decubitus. Training aids: standardised skill assessments, validated low- and high-fidelity simulation, and warm-up; there is no standardised urological curriculum across centres (FLS exists in general surgery)."
+  ],
+  "s": "Ch 27 Paediatric laparoscopy/robotics"
+ },
+ {
+  "f": "mcq",
+  "t": "Uroflow validity",
+  "q": "Per the book, a paediatric uroflow is valid when the voided volume is:",
+  "o": [
+   "Over 50 mL",
+   "Any volume",
+   "Over 150 mL",
+   "Over 100 mL"
+  ],
+  "a": 0,
+  "e": [
+   "Ideally >50 mL and <115% of expected bladder capacity (larger volumes can mislead). Adults use >150 mL. Qmax is the most relevant quantitative measure. Non-invasive urodynamics: uroflowmetry, patch EMG and pelvic ultrasound."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "Flow curves",
+  "q": "The five ICCS (2014) reference uroflow curve shapes are:",
+  "o": [
+   "Bell, tower, peaked, inverted, normal",
+   "Bell, tower, staccato, interrupted, flat",
+   "Bell, plateau, high, normal, staccato",
+   "Bell, peaked, stuttering, normal, plateau"
+  ],
+  "a": 1,
+  "e": [
+   "The ICCS standardisation document (J Urol 2014) defines the terminology for voiding dysfunction and its tests."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "EMG lag time",
+  "q": "Which pairing of EMG lag time and pattern is correct?",
+  "o": [
+   "Over 6 s: overactive bladder and tower curve",
+   "Under 2 s: bladder neck dysfunction, plateau",
+   "Over 6 s: bladder neck dysfunction, plateau",
+   "2–6 s: overactive bladder and tower curve"
+  ],
+  "a": 2,
+  "e": [
+   "Normal lag 2–6 s with a bell curve; <2 s overactive bladder with a tower curve; >6 s primary bladder neck dysfunction with a plateau after an initial rise. EMG also shows whether voiding is synergic or dyssynergic."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder capacity",
+  "q": "Which statement about bladder capacity is TRUE?",
+  "o": [
+   "Functional capacity = smallest diary void",
+   "(Age + 2) × 30 mL is functional capacity",
+   "Capacity cannot be judged from a diary",
+   "Functional capacity = voided + PVR"
+  ],
+  "a": 3,
+  "e": [
+   "Functional capacity reflects what the bladder holds day to day: uroflow voided volume plus PVR, or the largest voided volume on the diary (the book's key says 'a + d' but its text muddles this). (Age + 2) × 30 mL (Koff) estimates expected capacity over 1 year; ICCS uses (age + 1) × 30 mL."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "Ultrasound and UA",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Creatinine is needed in all LUTS children",
+   "Debris means symptomatic UTI is likely",
+   "Malodorous urine reliably predicts infection",
+   "Bladder debris predicts a positive culture"
+  ],
+  "a": 3,
+  "e": [
+   "Interpret debris cautiously in asymptomatic children. Ultrasound also gives prevoid and postvoid volumes, wall thickness and rectal diameter. Every child with LUTS and no prior diagnosis needs a urinalysis (specific gravity, protein, glucose, WBC, RBC, bacteria). Blood tests only if upper tract disease is suspected."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "Occult dysraphism",
+  "q": "Per the book, which sacral finding carries the highest risk of occult spinal dysraphism?",
+  "o": [
+   "Simple dimple",
+   "Hair tuft",
+   "Dermal sinus",
+   "Haemangioma"
+  ],
+  "a": 3,
+  "e": [
+   "Book order, lowest to highest: simple dimple, symmetric bifid gluteal cleft, hypertrichosis, dermal sinus, haemangioma. Examine the back (dimples, cleft deviation, hair, sinuses, vascular lesions) and palpate the sacrum."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "Spinal imaging",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Videourodynamics can diagnose spinal dysraphism",
+   "MRI is the gold standard; US up to 6 months",
+   "CT is the gold standard for occult dysraphism",
+   "Ultrasound is as sensitive as MRI at any age"
+  ],
+  "a": 1,
+  "e": [
+   "For low-likelihood findings (e.g. a deviated gluteal cleft in a 6-month-old) ultrasound is reasonable; inconclusive or positive scans go to MRI."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "After failed conservative care",
+  "q": "A child's LUT dysfunction has failed timed voiding and avoiding irritants. Next:",
+  "o": [
+   "Start an antimuscarinic",
+   "Start an alpha-blocker",
+   "Formal videourodynamics",
+   "Bowel–bladder diary"
+  ],
+  "a": 3,
+  "e": [
+   "Diaries (7-day bowel–bladder or 48-hour frequency–volume) reveal small capacity, infrequent voiding, nocturia and polydipsia before invasive tests. Validated questionnaires: DVSS, DVISS, ISI-P (symptoms), PinQ (quality of life), CBCL and SSIPPE (behaviour)."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "Associations",
+  "q": "LUT dysfunction in children is associated with:",
+  "o": [
+   "All of these",
+   "VUR alone",
+   "Constipation alone",
+   "Recurrent UTI alone"
+  ],
+  "a": 0,
+  "e": [
+   "Constipation, neuropsychiatric problems, UTI and VUR all associate with LUT dysfunction. History should cover symptoms, frequency, bowel function, UTIs, family, prenatal and birth history, milestones and toilet training, neuropsychiatric, medical, surgical and social history, and diet. First decide whether it is a storage or an emptying disorder."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "Cystometry fill rate",
+  "q": "The appropriate cystometry fill rate in a child is:",
+  "o": [
+   "20% of expected capacity/min",
+   "A fixed 5 mL per minute",
+   "A fixed 20 mL per minute",
+   "5–10% of expected capacity/min"
+  ],
+  "a": 3,
+  "e": [
+   "A fixed 20 mL/min would be too fast for a neonate with an 80 mL bladder. Urodynamics is the gold standard for LUT dysfunction."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "Sedated urodynamics",
+  "q": "Which urodynamic finding is reduced when the study is done under sedation?",
+  "o": [
+   "Compliance",
+   "Capacity",
+   "Overactivity",
+   "Leak point"
+  ],
+  "a": 2,
+  "e": [
+   "Only detrusor overactivity is reliably suppressed. Routine antibiotic prophylaxis or pre-study cultures do not prevent post-study UTI (1.4%)."
+  ],
+  "s": "Ch 28 Paediatric LUT evaluation"
+ },
+ {
+  "f": "mcq",
+  "t": "Prevalence",
+  "q": "Which statement about VUR epidemiology is TRUE?",
+  "o": [
+   "Inherited VUR is thought to be recessive",
+   "Black girls have more VUR than white girls",
+   "About 30% of children with UTI have VUR",
+   "About 10% of siblings of refluxers have VUR"
+  ],
+  "a": 2,
+  "e": [
+   "About 17% without infection. About one-third of siblings have VUR; inheritance is thought autosomal dominant. Girls of African descent have about a 10-fold lower frequency; antenatally detected reflux is similar in Black and white infants."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Antenatal reflux",
+  "q": "Which statement about antenatally detected reflux is FALSE?",
+  "o": [
+   "Renal impairment at birth reflects dysplasia",
+   "It is usually lower grade in boys than girls",
+   "It is more often bilateral in boys",
+   "It shows a clear male preponderance"
+  ],
+  "a": 1,
+  "e": [
+   "Antenatally detected reflux in boys is usually high grade and bilateral, often with congenital dysplasia. Reflux found later in life is mostly in girls. Cardinal associated anomalies: multicystic dysplastic kidney and renal agenesis; high-grade reflux associates with renal maldevelopment."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Sibling reflux",
+  "q": "Which statement about sibling reflux is FALSE?",
+  "o": [
+   "Prophylaxis while deciding on screening is reasonable",
+   "Siblings under 5 with normal kidneys may skip VCUG",
+   "Once found, treatment indications differ from usual",
+   "Siblings with cortical defects have most to lose"
+  ],
+  "a": 2,
+  "e": [
+   "Treatment indications for sibling reflux are the same as for any child with reflux. Age, UTI history and renal imaging guide whether to screen."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "UVJ anatomy",
+  "q": "Primary reflux results from a deficiency of the:",
+  "o": [
+   "Longitudinal muscle, intravesical ureter",
+   "Circular muscle, extravesical ureter",
+   "Circular muscle, intravesical ureter",
+   "Longitudinal muscle, extravesical ureter"
+  ],
+  "a": 0,
+  "e": [
+   "Paquin found a 5:1 tunnel length to diameter ratio in normal children; aim for 5:1 at reimplantation. Mackie and Stephens: a laterally (cranially) placed bud explains primary reflux; a caudal (medial) bud tends to be obstructed."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Secondary VUR",
+  "q": "Which statement about secondary reflux is TRUE?",
+  "o": [
+   "Neurogenic reflux needs prompt surgery",
+   "Anatomic obstruction is common in girls",
+   "Sacral hair patches are irrelevant to VUR",
+   "Valves are the commonest obstruction"
+  ],
+  "a": 3,
+  "e": [
+   "48–70% of boys with valves have VUR, and relieving obstruction resolves many. In girls the commonest structural obstruction is a prolapsing ureterocele. Treat neurogenic reflux by its primary cause. Look for occult dysraphism (dimples, hair, cleft)."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder function and VUR",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Subureteric bulking agents damage the UVJ",
+   "Pressures above 40 cmH2O associate with VUR",
+   "Infection can weaken the UVJ and cause reflux",
+   "Poor compliance damages the UVJ over time"
+  ],
+  "a": 0,
+  "e": [
+   "Bulking agents have not been shown to harm the UVJ. Poor compliance, detrusor decompensation and incomplete emptying gradually damage it. Non-neurogenic neurogenic bladder: voluntary sphincter dyssynergia with gradual decompensation and myogenic failure from residual urine. Infection lowers compliance, raises pressure and distorts the UVJ. Upper tract damage can occur below 40 cmH2O too."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Functional reflux",
+  "q": "Which statement about functional causes of reflux is FALSE?",
+  "o": [
+   "Curtsying in girls is a sign of bladder dysfunction",
+   "Treatment aims to damp contractions and lower pressure",
+   "Initial management of functional reflux is medical",
+   "Urethral dilation is part of standard treatment"
+  ],
+  "a": 3,
+  "e": [
+   "Urethral dilation has no role. Other signs: dribbling, urgency, incontinence, boys squeezing the penis. Always ask about voiding patterns. Constipation and encopresis often accompany reflux and UTI."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Grading",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Dwoskin–Perlmutter is the current standard",
+   "The 1981 International system is the standard",
+   "Grading is accurate despite UPJ obstruction",
+   "A MAG3 scan grades reflux with UPJ obstruction"
+  ],
+  "a": 1,
+  "e": [
+   "The International Reflux Study system (1981) merged Heikel–Parkkulainen (Europe) and Dwoskin–Perlmutter (USA). Accurate grading is impossible with ipsilateral obstruction. If both UPJ and UVJ need surgery, repair the UPJ first. Reflux cannot be graded accurately with posterior urethral valves either."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Fever and imaging",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Fever always produces a renal scar",
+   "Fever reliably proves pyelonephritis",
+   "Fever needs over 10^5 CFU per mL",
+   "Fever raises the yield of finding VUR"
+  ],
+  "a": 3,
+  "e": [
+   "Fever is not always reliable for upper tract involvement and can occur with <100,000 colonies. A girl with recurrent proven afebrile UTIs and a scar on DMSA warrants VCUG and ultrasound; a bagged specimen or no pyuria should make you question the UTI diagnosis; over 5 years, UTI alone does not mandate VCUG. Older girls with asymptomatic bacteriuria need no screening; focus on voiding, bowels and fluids."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Cystography pitfalls",
+  "q": "Which statement about cystography is FALSE?",
+  "o": [
+   "Some reflux appears only during infection",
+   "VCUG in active infection underestimates",
+   "Catheter or anaesthesia studies may misgrade reflux",
+   "Overhydration may mask low-grade reflux"
+  ],
+  "a": 1,
+  "e": [
+   "During infection, endotoxins paralyse ureteric smooth muscle and exaggerate dilatation, so reflux is overestimated, not underestimated."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Imaging modalities",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Ultrasound can reliably exclude reflux",
+   "Nuclear cystography gives more anatomic detail",
+   "DTPA is best for pyelonephritis and scars",
+   "Ultrasound first assesses the upper tracts"
+  ],
+  "a": 3,
+  "e": [
+   "Kidney appearance on ultrasound does not correlate with the presence or grade of reflux. Radionuclide cystography is accurate for detection and follow-up, but with less anatomic detail; modern digital VCUG has narrowed the radiation gap. DMSA is best for pyelonephritis and scarring. Routine cystoscopy is not part of modern work-up; uroflowmetry is valuable because reflux is dynamic. Urodynamics help in suspected secondary reflux (sedation alters function)."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Scars",
+  "q": "Which statement about renal scintigraphy is TRUE?",
+  "o": [
+   "Acute photopenia always becomes a scar",
+   "Resolving photopenia was a resolved scar",
+   "Ultrasound is accurate for detecting scars",
+   "Photopenia may be scar or renal dysplasia"
+  ],
+  "a": 3,
+  "e": [
+   "High-grade reflux associates with dysplasia that looks identical to scars; neither DMSA nor ultrasound can separate them. Acute photopenia that persists represents scarring. Greatest risk of post-infection scarring: first year of life."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Consequences",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Renal growth depends only on reflux grade",
+   "It is the top cause of severe youth hypertension",
+   "Sterile reflux in a high-pressure bladder is benign",
+   "Hypertension is unrelated to scar severity"
+  ],
+  "a": 1,
+  "e": [
+   "Renal growth is affected by associated dysmorphism (about 30%, not caused by reflux), infections, contralateral kidney quality and reflux grade. Book: sterile reflux is benign and reflux matters little without infection when bladder function is normal; high-pressure neurogenic bladders are the exception."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "BBD",
+  "q": "Which statement about bladder and bowel dysfunction (BBD) and VUR is TRUE?",
+  "o": [
+   "BBD lowers spontaneous VUR resolution",
+   "BBD lowers breakthrough infection rates",
+   "BBD has no effect on UTI after surgery",
+   "BBD lowers recurrence after endoscopy"
+  ],
+  "a": 0,
+  "e": [
+   "BBD lowers resolution, raises breakthrough infection, raises recurrence after endoscopic correction and raises post-operative UTI. (The book's answer key marks 'BBD reduces Dx/HA and open success' as false; other studies link BBD to lower endoscopic success.) After stopping prophylaxis, higher-grade VUR and BBD predict recurrent UTI (not uncircumcised boys over 1 year)."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Duplex systems",
+  "q": "In complete duplication, the Weigert–Meyer rule places the upper pole ureter:",
+  "o": [
+   "Distal and lateral to the lower pole orifice",
+   "Distal and medial to the lower pole orifice",
+   "Proximal and medial to the lower pole orifice",
+   "Proximal and lateral to the lower pole orifice"
+  ],
+  "a": 1,
+  "e": [
+   "So the lower pole orifice (lateral, short tunnel) refluxes. About 10% of antireflux surgery involves duplication; use a common-sheath reimplant with one mucosal cuff, because the ureters share a blood supply."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Pregnancy and VUR",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Bladder tone falls, favouring bacteriuria",
+   "Upper tract urine volume falls in pregnancy",
+   "Bladder tone rises in pregnancy from oedema",
+   "Reimplanted women have no extra UTI risk"
+  ],
+  "a": 0,
+  "e": [
+   "Oedema and hyperaemia lower bladder tone, upper tract volume rises with physiological dilatation. Past reflux, scarring, UTI tendency, hypertension and renal insufficiency add risk; women reimplanted for reflux remain at risk of UTI in pregnancy and need monitoring."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Resolution and RIVUR",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Newborn high-grade VUR resolves more often",
+   "About 80% of low-grade reflux resolves",
+   "RIVUR: 0.5% drug vs 2% placebo reactions",
+   "About half of grade III reflux resolves"
+  ],
+  "a": 2,
+  "e": [
+   "RIVUR (NEJM 2014) found adverse events in about 2% in both prophylaxis and placebo arms; prophylaxis halved recurrent UTI. Children with grade III–IV reflux, febrile index infection or BBD had more recurrences and seemed to benefit from prophylaxis. Reflux with a paraureteral diverticulum resolves at a rate similar to primary reflux."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "AAP 2011",
+  "q": "For a first febrile UTI at 2–24 months, the 2011 AAP guideline recommends:",
+  "o": [
+   "No imaging at all until a second infection",
+   "VCUG and ultrasound during the febrile illness",
+   "DMSA scan first, then VCUG if it is abnormal",
+   "Renal–bladder ultrasound after a culture"
+  ],
+  "a": 3,
+  "e": [
+   "VCUG only if the ultrasound is abnormal or after a second febrile UTI."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Open repair principles",
+  "q": "What is common to every open antireflux operation?",
+  "o": [
+   "A valve that compresses the ureter",
+   "An orifice aimed at the bladder neck",
+   "A ureter brought outside the bladder",
+   "A tunnel exactly three times the diameter"
+  ],
+  "a": 0,
+  "e": [
+   "A successful reimplant gives a submucosal tunnel of adequate length (5:1) with good muscular backing. Cohen cross-trigonal reimplant suits small and thick-walled bladders. Contralateral reflux appears in 10–15% after unilateral repair, but prophylactic bilateral reimplantation is not indicated."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Early obstruction",
+  "q": "Early obstruction after reimplantation is managed by:",
+  "o": [
+   "Early reoperation and re-revision",
+   "Immediate ureteric stent placement",
+   "Observe; divert if symptoms persist",
+   "Immediate percutaneous nephrostomy"
+  ],
+  "a": 2,
+  "e": [
+   "Causes: oedema, subtrigonal bleeding, bladder spasm, mucus, clots, twist or angulation. Most are mild and resolve; symptomatic cases present 1–2 weeks after surgery with pain, nausea and vomiting."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Persistent reflux",
+  "q": "Persistent reflux after reimplantation is most often due to:",
+  "o": [
+   "Adequate muscular backing within the tunnel",
+   "Too long a submucosal tunnel being made",
+   "Missed neuropathic or dysfunctional bladder",
+   "Using a common-sheath technique for duplex"
+  ],
+  "a": 2,
+  "e": [
+   "Besides technical errors (e.g. inadequate muscular backing), failure to identify secondary causes is common. It is not corrected by minor submucosal advancement or reflexive bulking injection."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Endoscopic treatment",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Needle entry point and placement drive success",
+   "All bulking agents work and inject the same",
+   "Endoscopy has different indications from open",
+   "Endoscopic repair is as durable as open surgery"
+  ],
+  "a": 0,
+  "e": [
+   "Endoscopic repair is less invasive and less durable. Indications are the same for every approach; the learning curve differs from open surgery (not formally compared)."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Endoscopic predictors",
+  "q": "Per the book's answer key, which is NOT associated with higher endoscopic success?",
+  "o": [
+   "Negative intraoperative cystography",
+   "Greater surgeon experience",
+   "Double HIT technique",
+   "Volcano-shaped mound, no hydrodistension"
+  ],
+  "a": 0,
+  "e": [
+   "The book's explanation is inconsistent (it says none were consistently shown); most other sources link the volcano mound and surgeon experience with success."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Laparoscopic reimplant",
+  "q": "Which statement about laparoscopic reimplantation is FALSE?",
+  "o": [
+   "Experience is essential to its success",
+   "Its success rate is higher than open repair",
+   "Cost rises from time and disposables",
+   "It gives smaller incisions and faster recovery"
+  ],
+  "a": 1,
+  "e": [
+   "It needs at least two surgeons, converts an extraperitoneal repair to an intraperitoneal one, and takes longer (shortening with experience); many centres do open reimplants as day cases."
+  ],
+  "s": "Ch 29 VUR management"
+ },
+ {
+  "f": "mcq",
+  "t": "Embryology",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "The whole female urethra is from pelvic UGS",
+   "The urachus becomes the median umbilical ligament",
+   "The urorectal septum divides the cloaca at 4–6 weeks",
+   "Definitive nephrons first make urine at 12 weeks"
+  ],
+  "a": 3,
+  "e": [
+   "Urine production begins before 12 weeks; the first signs of LUT anomalies may appear around 10 weeks. Allantois and ventral cloaca involute as the bladder descends at 4–5 months."
+  ],
+  "s": "Ch 30 Bladder anomalies"
+ },
+ {
+  "f": "mcq",
+  "t": "Fetal bladder",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Transabdominal is better than transvaginal",
+   "It normally empties every 15–20 min",
+   "Normal 1st-trimester size is ≤12 mm",
+   "At 10 weeks 25% of bladders are seen"
+  ],
+  "a": 1,
+  "e": [
+   "Look carefully before calling a bladder non-visualised. Normal first-trimester bladder is ≤6 mm."
+  ],
+  "s": "Ch 30 Bladder anomalies"
+ },
+ {
+  "f": "mcq",
+  "t": "Agenesis and exstrophy",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Agenesis occurs in about 1 in 600,000",
+   "Bladder agenesis is commoner in males",
+   "Exstrophy usually has oligohydramnios",
+   "Most exstrophy is diagnosed prenatally"
+  ],
+  "a": 0,
+  "e": [
+   "Agenesis is commoner in females and compatible with life only if the ureters drain ectopically. Exstrophy usually has normal amniotic fluid and is mostly diagnosed after birth; non-dilated anomalies like exstrophy are among the most severe malformations."
+  ],
+  "s": "Ch 30 Bladder anomalies"
+ },
+ {
+  "f": "mcq",
+  "t": "Megacystis definition",
+  "q": "Which statement about fetal megacystis is TRUE?",
+  "o": [
+   "It is always from high-grade reflux",
+   "Later: fails to empty within 45 min",
+   "It always has a dilated posterior urethra",
+   "It always means lower tract obstruction"
+  ],
+  "a": 1,
+  "e": [
+   "In the first trimester it is defined by size (normal ≤6 mm). Persistent megacystis with oligohydramnios suggests LUTO; megacystis resolving before delivery may have no postnatal effects."
+  ],
+  "s": "Ch 30 Bladder anomalies"
+ },
+ {
+  "f": "mcq",
+  "t": "Megacystis prognosis",
+  "q": "Which is NOT associated with a better outcome in megacystis?",
+  "o": [
+   "Resolution by 23 weeks",
+   "Aneuploidy on gene testing",
+   "Initial bladder 12 mm or less",
+   "Normal amniotic fluid volume"
+  ],
+  "a": 1,
+  "e": [
+   "Isolated findings also predict better outcome. Most cases have no genetic diagnosis; when found, trisomy 13 and 18 are commonest, at rates above those expected from maternal age and nuchal translucency."
+  ],
+  "s": "Ch 30 Bladder anomalies"
+ },
+ {
+  "f": "mcq",
+  "t": "MMIH",
+  "q": "Which statement about megacystis–microcolon–intestinal hypoperistalsis is TRUE?",
+  "o": [
+   "It is usually found by bowel features",
+   "No child survives the neonatal period",
+   "Thought due to actin muscle defects",
+   "It is the commonest cause of megacystis"
+  ],
+  "a": 2,
+  "e": [
+   "It is rare, usually detected by the bladder finding (may show only prenatal megacystis), and enteric complications cause most morbidity; survival beyond the neonatal period is now documented."
+  ],
+  "s": "Ch 30 Bladder anomalies"
+ },
+ {
+  "f": "mcq",
+  "t": "Duplication and diverticula",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Duplication usually has genital anomalies",
+   "Ultrasound equals cystography for diverticula",
+   "Congenital diverticula occur in about 20%",
+   "Most congenital diverticula need excision"
+  ],
+  "a": 0,
+  "e": [
+   "Duplication: the urethra may or may not be duplicated, >25% have GI anomalies, and continence is hard to predict. Congenital diverticula: about 1.7%, mostly through a hiatus with mucosa only, usually found after symptoms; cystogram is definitive. Connective tissue disorders: multiple diverticula with muscle and mucosa, treat when symptomatic (stasis, infection, stones), recurrence expected. Large acquired diverticula can obstruct."
+  ],
+  "s": "Ch 30 Bladder anomalies"
+ },
+ {
+  "f": "mcq",
+  "t": "Urachal anomalies",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Urachal SCC is reported in children",
+   "Most patent urachi have outlet obstruction",
+   "Infected cysts need no later excision",
+   "An omphalomesenteric duct can mimic it"
+  ],
+  "a": 3,
+  "e": [
+   "Urachal adenocarcinoma occurs in adults; incidental remnants may be excised after discussion because of adult malignant potential. Usually found postnatally with umbilical drainage. Infected remnants: antibiotics, then excision; open or minimally invasive surgery both work."
+  ],
+  "s": "Ch 30 Bladder anomalies"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder masses",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Haemangioma: Klippel–Trenaunay link",
+   "Polyps are the commonest bladder mass",
+   "Haemangiomas need radical resection",
+   "Haemangiomas are usually multiple"
+  ],
+  "a": 0,
+  "e": [
+   "Haemangiomas are often single, associated with Klippel–Trenaunay or Sturge–Weber, and simple resection can cure. Fibroepithelial polyps are rare and resected endoscopically. Nephrogenic adenoma: a reaction to infection, stones or injury, commoner in adults, 80% recurrence (latency about 4 years), so routine cystoscopy follows."
+  ],
+  "s": "Ch 30 Bladder anomalies"
+ },
+ {
+  "f": "mcq",
+  "t": "Inflammatory cystitis",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Eosinophilic: steroids, antihistamines",
+   "Eosinophilic usually progresses in toddlers",
+   "Cystitis cystica is commoner in boys",
+   "Cystitis cystica is treated with steroids"
+  ],
+  "a": 0,
+  "e": [
+   "Eosinophilic cystitis is commoner in boys, often self-limited in young children, has no typical appearance and needs biopsy. Cystitis cystica is commoner in girls, can mimic tumour, and is treated with long-term antibiotic prophylaxis. Cyclophosphamide cystitis: give mesna simultaneously; oral pentosan polysulfate shows promise."
+  ],
+  "s": "Ch 30 Bladder anomalies"
+ }
+]

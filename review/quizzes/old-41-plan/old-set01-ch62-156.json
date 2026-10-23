@@ -1,0 +1,802 @@
+[
+ {
+  "f": "mcq",
+  "t": "Prostatectomy anastomosis",
+  "q": "Which statement about the vesicourethral anastomosis in RALP is TRUE?",
+  "o": [
+   "A watertight seal is never achievable",
+   "It must be done with interrupted sutures",
+   "A running suture needs just one knot",
+   "Bladder neck stricture rates have risen"
+  ],
+  "a": 2,
+  "e": [
+   "Interrupted or running closure both work; running continuous suture is most efficient. Bladder neck reconstruction may be needed for size mismatch (prior TURP, median lobe, large gland). Bladder neck stricture is much reduced with the robotic anastomosis (<5%). A non-watertight anastomosis can leak and needs longer catheterisation."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "DNA structure",
+  "q": "Which statement about DNA is FALSE?",
+  "o": [
+   "A purine always pairs with a pyrimidine",
+   "G–C pairs have three hydrogen bonds",
+   "The sugar–phosphate chain is the backbone",
+   "Its sugar is ribose, the same as in RNA"
+  ],
+  "a": 3,
+  "e": [
+   "DNA uses 2-deoxyribose; RNA uses ribose (and uracil). A–T has two hydrogen bonds, G–C three, so A–T is weaker. The two complementary strands form a helix held by hydrogen bonds."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Approach and margins",
+  "q": "Which statement about LRP/RALP is TRUE?",
+  "o": [
+   "Transperitoneal access gives fewer margins",
+   "Margins fall as surgeon experience grows",
+   "Margins are unrelated to centre volume",
+   "Extraperitoneal access gives fewer margins"
+  ],
+  "a": 1,
+  "e": [
+   "No definitive margin advantage for transperitoneal versus extraperitoneal approach; choice is by surgeon preference. Margin-negative outcomes are better in high-volume centres. Oncological outcomes are equivalent between robotic and open surgery."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "RB1 and E2F",
+  "q": "Phosphorylation of RB1 by cyclin–cdk complexes leads to:",
+  "o": [
+   "Arrest of the cell at the G2/M boundary",
+   "Direct caspase 9 activation and apoptosis",
+   "Release of E2F to switch on S-phase genes",
+   "Tighter E2F binding that blocks replication"
+  ],
+  "a": 2,
+  "e": [
+   "Phosphorylation changes protein shape and is a key regulatory switch. Cyclin–cdk complexes phosphorylate RB1 (and p107, p130); phosphorylated RB1 can no longer bind E2F. Free E2F pairs with DP1/DP2 and activates DNA replication genes (e.g., DNA polymerase), so the G1→S transition depends on RB1 phosphorylation. RB1 mutations are common in urologic cancers."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Gene expression",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Protein synthesis is confined to nucleus",
+   "Transcription makes mRNA in the nucleus",
+   "Translation turns DNA into linear RNA",
+   "Transcription factors bind mRNA sequences"
+  ],
+  "a": 1,
+  "e": [
+   "mRNA bridges the nucleus (DNA) and the cytoplasm (protein synthesis by translation). Transcription is regulated by DNA response elements in promoters or enhancers that bind nuclear proteins; shared consensus sequences coordinate genes. Alternative splicing includes or excludes exons, making several isoforms from one gene in a tightly regulated way. Book: the nuclear matrix is the site of mRNA transcription."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Bleeding in RALP",
+  "q": "Why is blood loss usually low in laparoscopic/robotic prostatectomy?",
+  "o": [
+   "The dorsal vein complex is never divided",
+   "Thermal energy seals every vessel used",
+   "Gas pressure tamponades venous bleeding",
+   "Arteries are clipped before any dissection"
+  ],
+  "a": 2,
+  "e": [
+   "Most blood loss at radical prostatectomy is venous; pneumoperitoneum pressure reduces it. Blood loss is usually a few hundred mL and transfusion should be under 2%."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Translation and proteins",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Three-base codons encode 20 amino acids",
+   "Ubiquitin tags proteins for proteasomal loss",
+   "Frameshift mutations are the most damaging",
+   "Proteasome blockade speeds cancer growth"
+  ],
+  "a": 3,
+  "e": [
+   "Inhibiting ubiquitination or the proteasome is a promising cancer therapy. The code is redundant (several codons per amino acid), so sequences can differ yet encode the same protein (polymorphism), though some change amino acids. Frameshifts change every codon downstream. Protein degradation is active; the proteasome is cylindrical. DNA mutations can alter protein function or expression and promote cancer."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Extraperitoneal RALP",
+  "q": "The main advantage of the extraperitoneal approach is:",
+  "o": [
+   "It shortens the learning curve a lot",
+   "It avoids handling of the bowel",
+   "It removes more pelvic lymph nodes",
+   "It gives a larger operative workspace"
+  ],
+  "a": 1,
+  "e": [
+   "Avoiding the peritoneal cavity suits patients with extensive prior abdominal surgery. Node yields at PLND are similar with open or laparoscopic techniques."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Cyclins",
+  "q": "Which statement about cyclins and cyclin-dependent kinases (cdks) is TRUE?",
+  "o": [
+   "Cdks are active without a cyclin partner",
+   "The cell cycle can run in reverse order",
+   "Cyclins are degraded phase-specifically",
+   "Cyclin levels stay constant all through"
+  ],
+  "a": 2,
+  "e": [
+   "The cycle is an ordered, unidirectional series of events (G1, S, G2, M) to copy the genome and split it between two daughter cells. Phase-specific phosphorylation by cdks drives progression; cdk activity needs specific cyclins, which accumulate and are rapidly degraded by phase, making key events properly sequenced and irreversible."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Oncogenes and suppressors",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Silencing a proto-oncogene makes an oncogene",
+   "Oncogenes are normal cancer-fighting genes",
+   "All oncogenes come from retroviral infection",
+   "Amplification can activate a proto-oncogene"
+  ],
+  "a": 3,
+  "e": [
+   "Routes: activating mutation, amplification, chromosomal rearrangement. Tumour suppressors restrain growth; oncogenes promote it. Tumour suppressor loss: homozygous deletion; loss of one allele plus mutation; mutation of both; loss plus epigenetic silencing. Some escape the two-hit rule (dominant negative, haploinsufficiency). Deletion is the abnormality most linked to suppressor inactivation; other changes give no net loss or a gain."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Rectal injury",
+  "q": "Rectal injury during RALP is best avoided by:",
+  "o": [
+   "Using more thermal energy posteriorly",
+   "Antegrade release of the rectum early",
+   "Leaving Denonvilliers fascia untouched",
+   "Dividing the urethra before the rectum"
+  ],
+  "a": 1,
+  "e": [
+   "Sharp, complete incision of the posterior layer of Denonvilliers fascia after seminal vesicle dissection mobilises the rectum before urethral division and apical dissection; this plane also defines the medial pedicles and neurovascular bundles. Rectal injury is rare, higher in salvage surgery, and should be repaired when recognised."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Robot advantages",
+  "q": "Which is the main benefit most surgeons attribute to the robot?",
+  "o": [
+   "Better cancer control than open RP",
+   "Shorter operating time than open",
+   "Lower equipment and running costs",
+   "Easier suturing of the anastomosis"
+  ],
+  "a": 3,
+  "e": [
+   "Robotics helps surgeons without advanced laparoscopic skills. Cost (Link, 2004) is driven by operating time, hospital stay and disposables. A skilled bedside assistant who can troubleshoot the robot greatly helps. Discharge in about 24 hours and return to activity within 3 weeks."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Methylation",
+  "q": "Which statement about DNA methylation is TRUE?",
+  "o": [
+   "It marks proteins for ubiquitin",
+   "Promoter methylation raises output",
+   "It occurs on CpG cytosines",
+   "It alters the DNA base sequence"
+  ],
+  "a": 2,
+  "e": [
+   "Promoter CpG island methylation silences genes (tumour suppressors in cancer); loss of normal methylation can switch on oncogenes. 5-methylcytosine can deaminate to thymine (C→T transitions). Methylation acts through later mutation or epigenetically."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Double-strand breaks",
+  "q": "DNA damage from ionising radiation is mainly repaired by:",
+  "o": [
+   "Nucleotide excision repair of bulky lesions",
+   "Base excision repair of deaminated bases",
+   "Double-strand break repair (HR or NHEJ)",
+   "Mismatch repair of polymerase mispairs"
+  ],
+  "a": 2,
+  "e": [
+   "Double-strand break repair (homologous recombination using the sister chromatid as template, or non-homologous end joining) defends against ionising radiation, free radicals and chemicals. NER handles UV and bulky chemical adducts; BER handles deamination, radiation, oxidative stress, alkylating agents and replication errors (main repair for reactive oxygen species); MMR fixes polymerase mispairs."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Neurovascular bundle",
+  "q": "The neurovascular bundle runs between which fascial layers?",
+  "o": [
+   "Denonvilliers and endopelvic fascia",
+   "Prostatic capsule and Buck fascia",
+   "Levator fascia and Waldeyer fascia",
+   "Prostatic and levator fasciae"
+  ],
+  "a": 3,
+  "e": [
+   "Interfascial NVB dissection suits presumed organ-confined cancer when potency matters. Minimise thermal energy near the pedicles and NVBs (it harms cavernous nerves in animal and human studies)."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Hereditary syndromes",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "VHL predisposes to papillary type RCC",
+   "VHL causes ccRCC and phaeochromocytoma",
+   "Birt–Hogg–Dubé carries GU tumour risk",
+   "ELAC2, MSR1, RNASEL are unproven causes"
+  ],
+  "a": 0,
+  "e": [
+   "VHL: clear cell RCC, retinal angiomas, phaeochromocytoma, CNS haemangioblastoma, epididymal cystadenoma, pancreatic islet tumours; not papillary RCC, adrenocortical or epididymal carcinoma. Beckwith–Wiedemann also carries GU risk. ELAC2, MSR1 and RNASEL are linked by linkage and case-control studies but not proven causal. Germline cancer genes may act in sporadic disease too (VHL in ccRCC)."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Retrograde vs antegrade",
+  "q": "Compared with antegrade NVB dissection, the retrograde technique involves:",
+  "o": [
+   "Early DVC and late pedicle division",
+   "Less bleeding than the antegrade method",
+   "Early pedicle and late DVC division",
+   "No division of the dorsal venous complex"
+  ],
+  "a": 0,
+  "e": [
+   "Retrograde: the dorsal venous complex is divided early and pedicles late, risking more bleeding. Antegrade: pedicles (arterial supply) first, DVC near the end, reducing blood loss."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Cell cycle",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "G2/M mainly senses nutrient supply",
+   "Checkpoints are at G1/S and G2/M",
+   "Cyclin–cdk dephosphorylates RB1",
+   "INK4 mainly inhibits cyclin B–cdc2"
+  ],
+  "a": 1,
+  "e": [
+   "Cyclin–cdk complexes phosphorylate RB1 (and p107, p130), freeing E2F, which pairs with DP1/DP2 to drive replication genes. INK4 inhibits cyclin D–cdk4/6. Hypoxia, nutrients and cytokines act at G1/S; DNA damage causes arrest at both. The cycle (G1, S, G2, M) is ordered and unidirectional; phase-specific cdk phosphorylation drives it; cyclins accumulate and are degraded phase-specifically. CDK inhibitors pause the cycle (DNA damage, contact, cytokines, hypoxia). RB1 mutations are common in urological cancers. Checkpoint defects cause proliferation and instability."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Methylcytosine",
+  "q": "Spontaneous deamination of 5-methylcytosine produces:",
+  "o": [
+   "Guanine, a C→G transition",
+   "Thymine, a C→T transition",
+   "Adenine, a C→A transversion",
+   "Uracil, a C→U transversion"
+  ],
+  "a": 1,
+  "e": [
+   "Methylation occurs specifically at CpG dinucleotides. 5-methylcytosine deaminates to thymine, giving C→T transition mutations, so CpG sites are mutation hot spots. Methylation can thus affect genes by later mutation or by epigenetic silencing (promoter CpG islands)."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Physiology of pneumoperitoneum",
+  "q": "Steep Trendelenburg with prolonged pneumoperitoneum can cause all EXCEPT:",
+  "o": [
+   "Neurapraxia from compression",
+   "Hypercarbia and oliguria",
+   "Corneal oedema and high IOP",
+   "Alkalosis from CO2 uptake"
+  ],
+  "a": 3,
+  "e": [
+   "CO2 causes hypercarbia and acidosis. Also raised intraocular pressure, corneal oedema and neurapraxia; pad all pressure areas."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "TP53",
+  "q": "Which statement about TP53 is TRUE?",
+  "o": [
+   "It triggers arrest, repair or death",
+   "It is rarely mutated in human cancer",
+   "It directly drives tumour angiogenesis",
+   "Its apoptosis acts mainly via CD95"
+  ],
+  "a": 0,
+  "e": [
+   "TP53 binds TP53-responsive promoters: arrest via CDKN1A (p21), then repair genes; if repair fails, apoptosis via APAF-1/caspase 9. It does not directly control angiogenesis, replication or signalling. It is the most commonly mutated gene in cancer and key in GU tumours."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Apical margins",
+  "q": "An iatrogenic positive apical margin at RALP often results from:",
+  "o": [
+   "Too wide a bladder neck dissection",
+   "A posterior apical lip below urethra",
+   "Early division of the prostatic pedicles",
+   "Excessive lateral fascia preservation"
+  ],
+  "a": 1,
+  "e": [
+   "Inspect the posterior (and anterior) apical contour before dividing the posterior urethra. Define the bladder neck–prostate junction by manoeuvres and visual cues; after opening the anterior bladder neck, check for a median lobe before dividing the posterior bladder neck."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "DNA repair",
+  "q": "Which pairing is correct?",
+  "o": [
+   "Homologous recombination: mispairs",
+   "Mismatch repair: double-strand breaks",
+   "Base excision repair: UV light damage",
+   "Nucleotide excision repair: UV damage"
+  ],
+  "a": 3,
+  "e": [
+   "NER: UV and chemical damage (excises distortions). BER: deamination, radiation, oxidative stress, alkylating agents, replication errors. MMR: polymerase mispairs. Double-strand breaks (ionising radiation, free radicals, chemicals): HR (sister chromatid template) or NHEJ. Multiple repair systems explain why damage rarely causes cancer; repair defects let mutations accumulate."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Promoter hypomethylation",
+  "q": "Loss of methylation at a normally methylated promoter typically leads to:",
+  "o": [
+   "A C→T mutation at that same promoter site",
+   "Inappropriate gene expression, e.g., oncogenes",
+   "Deletion of the whole promoter DNA sequence",
+   "Silencing of the nearby tumour suppressor genes"
+  ],
+  "a": 1,
+  "e": [
+   "Promoter CpG island hypermethylation suppresses expression (e.g., of tumour suppressors); loss of normal promoter methylation can switch on genes inappropriately, such as oncogenes. Neither changes the DNA sequence itself."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Contraindications",
+  "q": "Which is an absolute contraindication to minimally invasive prostatectomy?",
+  "o": [
+   "A large median lobe present",
+   "Uncorrectable bleeding disorder",
+   "Prior transurethral resection",
+   "Previous pelvic radiotherapy"
+  ],
+  "a": 1,
+  "e": [
+   "Also inability to tolerate general anaesthesia (severe cardiopulmonary disease). Large glands, median lobe, morbid obesity, prior pelvic surgery, radiation or TURP are not absolute contraindications but should be avoided early in experience; salvage cases are best done by experienced high-volume surgeons."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "BRCA",
+  "q": "BRCA1 and BRCA2 function mainly in:",
+  "o": [
+   "Base excision of oxidised bases",
+   "Nucleotide excision of UV lesions",
+   "Mismatch repair of mispairs",
+   "Homologous recombination repair"
+  ],
+  "a": 3,
+  "e": [
+   "BRCA1 and BRCA2 work with RAD51 and BARD1, recruited by PCNA to damaged DNA; inherited repair-defect syndromes markedly raise cancer risk."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "RALP outcomes",
+  "q": "Which statement about RALP outcomes is FALSE (per current evidence)?",
+  "o": [
+   "Potency is clearly better than open RP",
+   "Transfusion should be needed in under 2%",
+   "At least 20% are not pad-free afterwards",
+   "Machine failure affects under 0.5% of cases"
+  ],
+  "a": 0,
+  "e": [
+   "The book states potency recovery is statistically better after robotic surgery, but the only RCT (Yaxley/Coughlin, Lancet 2016) found no significant difference in erectile or urinary function versus open surgery. About 5% have severe incontinence regardless of technique. Discharge at 24 hours, normal activity within 3 weeks."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Apoptosis",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Procaspases are activated by phosphorylation",
+   "Death-receptor apoptosis bypasses TP53",
+   "Pro-apoptotic Bcl-2 proteins open mitochondria",
+   "Bcl-2 itself inhibits the mitochondrial pathway"
+  ],
+  "a": 0,
+  "e": [
+   "Procaspases are activated by proteolytic cleavage; initiator caspases trigger executioner caspases. Intrinsic pathway: Bcl-2 family controls cytochrome c release; extrinsic: death receptors. TP53 is mutated in over half of cancers, so TP53-independent ligand-dependent apoptosis is an attractive target. Apoptosis is rapid, orderly, suppresses tumours (signals arise from DNA damage), and is disrupted in cancer. Bcl-2 is overexpressed in some GU cancers; ceramide and clusterin are possible targets. Therapeutic response depends on intact apoptosis."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Intrinsic apoptosis",
+  "q": "In the intrinsic (mitochondrial) apoptotic pathway, Bcl-2 family proteins control:",
+  "o": [
+   "Telomerase activity at chromosome ends",
+   "Death receptor binding at the cell surface",
+   "Ubiquitin tagging for the proteasome",
+   "Cytochrome c release from mitochondria"
+  ],
+  "a": 3,
+  "e": [
+   "Intrinsic pathway: Bcl-2 family members modulate mitochondrial membrane permeability and cytochrome c release, which activates initiator caspases (APAF-1/caspase 9). Pro-apoptotic members act mainly by increasing mitochondrial permeability; Bcl-2 itself inhibits this pathway and is overexpressed in some GU cancers. Extrinsic pathway: extracellular death receptors activate caspases."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "PLND and lymphocele",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "PLND is advised if nodal risk exceeds 5%",
+   "Transperitoneal access stops lymphoceles",
+   "Clipping lymphatics reduces lymphoceles",
+   "Symptomatic lymphoceles may need drainage"
+  ],
+  "a": 1,
+  "e": [
+   "Lymph can loculate within the peritoneal cavity. PLND for intermediate/high risk or >5% nomogram risk; extended PLND yields more nodes but its benefit is debated against time and complications. Drain (percutaneously or laparoscopically) lymphoceles compressing veins or bladder."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Telomeres",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Most cancers express telomerase",
+   "Telomerase maintains chromosome length",
+   "Short telomeres trigger senescence",
+   "Telomere loss causes hypomethylation"
+  ],
+  "a": 3,
+  "e": [
+   "No strong link to methylation. Telomeres are repetitive non-coding caps lost with division and oxidative damage. The length checkpoint (TP53, RB1) triggers senescence or apoptosis; its loss causes instability and cancer initiation. Most cancers and premalignant lesions have short telomeres; telomerase immortalises cells and is a therapeutic target."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Rearrangements",
+  "q": "Which rearrangement is NOT typical of a GU cancer?",
+  "o": [
+   "BCR–ABL fusion",
+   "MiT/TFE translocation",
+   "TMPRSS2–ERG fusion",
+   "Loss of chromosome 9"
+  ],
+  "a": 0,
+  "e": [
+   "BCR–ABL is CML. TMPRSS2–ERG (~50% of prostate cancers, intrachromosomal deletion); isochromosome 8q with 8p loss in prostate; MiT/TFE translocation RCC; chromosome 9 loss in urothelial cancer (part of the FISH bladder test). Testis tumours carry isochromosome 12p, the GU cancer most tied to a karyotypic change. Chromosomal chaos and intratumoural variation are hallmarks of solid tumours and correlate with aggressiveness."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Genomics",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "SNP arrays are unused in risk studies",
+   "RNA-seq cannot find gene fusions",
+   "GWAS most implicate the 8q24 region",
+   "Copy number change alone proves a driver"
+  ],
+  "a": 2,
+  "e": [
+   "8q24 is implicated across racial groups. RNA-seq unbiasedly finds microRNAs, non-coding RNAs, fusions and overexpression. Copy-number change plus a hit on the other allele supports a disease-relevant gene. High-density SNP arrays power GWAS."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Death receptors",
+  "q": "Why are death-receptor (ligand-dependent) apoptosis pathways attractive drug targets?",
+  "o": [
+   "They activate TP53 much more strongly",
+   "They raise Bcl-2 levels in tumour cells",
+   "They can kill cells without needing TP53",
+   "They block telomerase activity directly"
+  ],
+  "a": 2,
+  "e": [
+   "Most chemotherapy and external beam radiotherapy kill through TP53, which is mutated in more than half of cancers. Ligand-dependent apoptosis is TP53-independent. TP53-induced apoptosis runs through APAF-1/caspase 9."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Microbiome",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Urine is proven sterile in health",
+   "Culture cannot classify bacteria",
+   "Sequencing finds unculturable flora",
+   "Gut flora never affect any therapy"
+  ],
+  "a": 2,
+  "e": [
+   "Urine has its own microbiota previously missed by culture. Direct (urinary) and indirect (gut) microbiome links to GU cancer development and to treatment response or toxicity are under study."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Immunotherapy",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "PD-1 blockade suppresses T-cell activity",
+   "PD-1 has no role in limiting autoimmunity",
+   "Nivolumab beat everolimus in ccRCC",
+   "PBRM1 loss predicts no PD-1 response"
+  ],
+  "a": 2,
+  "e": [
+   "CheckMate 025 (Motzer 2015): better survival, fewer severe adverse events. The PD-1 pathway limits immune activity (reducing autoimmunity); blocking PD-1/PD-L1 enhances T-cell antitumour activity; effective first-line in cisplatin-ineligible bladder cancer. PBRM1 loss-of-function was associated with benefit in ccRCC."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Subtypes and stem cells",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Progressing low-grade cancers are luminal",
+   "Stem cells cannot differentiate any further",
+   "De novo high-grade bladder cancers are luminal",
+   "Cancer stem cells form most of the tumour"
+  ],
+  "a": 0,
+  "e": [
+   "De novo high-grade tumours are basal-like. Stem cells differentiate along multiple lineages and are immortal; a small cancer stem-cell population may maintain the tumour, so targeting it might eradicate cancer. Most testicular germ cell tumours keep wild-type TP53, intact DNA damage responses and apoptosis, explaining high cure with DNA-damaging drugs."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Testis cancer biology",
+  "q": "Why are most testicular germ cell tumours cured by DNA-damaging chemotherapy?",
+  "o": [
+   "Bcl-2 overexpression in tumour cells",
+   "Loss of telomerase in tumour cells",
+   "High mismatch-repair deficiency rate",
+   "Retained wild-type TP53"
+  ],
+  "a": 3,
+  "e": [
+   "They keep an intact DNA damage response and apoptotic pathways; their karyotypic hallmark is isochromosome 12p."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Telomere checkpoint",
+  "q": "The telomere length checkpoint that triggers senescence or apoptosis depends on:",
+  "o": [
+   "TP53 and RB1",
+   "BRCA1 and BRCA2",
+   "VHL and PBRM1",
+   "MLH1 and MSH2"
+  ],
+  "a": 0,
+  "e": [
+   "Normal cells monitor telomere length; critically short telomeres trigger senescence or apoptosis via TP53 and RB1. Loss of this checkpoint lets telomeres shorten critically, causing chromosomal instability and cancer initiation; most cancers then re-activate telomerase to become immortal."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "INK4 action",
+  "q": "p16 (INK4 family) loss in a tumour mainly releases which complex?",
+  "o": [
+   "Cyclin D–cdk4/6",
+   "Cyclin A with cdk2",
+   "Cyclin B with cdc2",
+   "Cyclin E with cdk2"
+  ],
+  "a": 0,
+  "e": [
+   "INK4 proteins block cyclin D–cdk4/6 assembly and activation; without them RB1 is phosphorylated and E2F released."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "G2/M checkpoint",
+  "q": "The G2/M checkpoint mainly responds to:",
+  "o": [
+   "DNA damage",
+   "Nutrient lack",
+   "Hypoxia",
+   "Cytokines"
+  ],
+  "a": 0,
+  "e": [
+   "Hypoxia, poor nutrients and cytokines act before replication (G1/S); DNA damage can arrest at G1/S and G2/M."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Lynch-type repair",
+  "q": "Mismatch repair mainly corrects:",
+  "o": [
+   "Oxidised bases",
+   "Pyrimidine dimers",
+   "Polymerase mispairs",
+   "Double-strand breaks"
+  ],
+  "a": 2,
+  "e": [
+   "Pyrimidine dimers (UV) are handled by NER; oxidised bases by BER; double-strand breaks by HR or NHEJ."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder neck in RALP",
+  "q": "After opening the anterior bladder neck, the next priority before posterior division is to:",
+  "o": [
+   "Ligate the pedicles",
+   "Release the rectum",
+   "Check for median lobe",
+   "Divide the dorsal vein"
+  ],
+  "a": 2,
+  "e": [
+   "A median lobe changes the posterior plane; a size mismatch may need bladder neck reconstruction."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "PD-1 in bladder cancer",
+  "q": "In advanced urothelial cancer, the book reports first-line efficacy of PD-1/PD-L1 blockade in:",
+  "o": [
+   "Low-grade Ta tumours",
+   "All patients pre-cystectomy",
+   "Cisplatin-ineligible patients",
+   "Cisplatin-fit patients only"
+  ],
+  "a": 2,
+  "e": [
+   "PD-1 limits immune activity (less autoimmunity); blocking PD-1/PD-L1 boosts T-cell antitumour activity. Update: since 2018 first-line single-agent checkpoint inhibitors are restricted to cisplatin-ineligible patients with high PD-L1 or those unfit for any platinum; since EV-302 (2023), enfortumab vedotin plus pembrolizumab is the preferred first-line therapy, and avelumab maintenance (JAVELIN Bladder 100) follows response to platinum."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Patient selection",
+  "q": "In a surgeon's early RALP experience, which patient is best avoided?",
+  "o": [
+   "A 120 g gland after prior TURP",
+   "Low-volume Gleason 3+4 cancer",
+   "A 30 g gland, organ-confined",
+   "A 40 g gland, BMI 26, no surgery"
+  ],
+  "a": 0,
+  "e": [
+   "Large glands, median lobe, morbid obesity, prior pelvic surgery, radiation or TURP raise difficulty but are not absolute contraindications."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Trendelenburg risks",
+  "q": "Which complication is specifically linked to prolonged steep Trendelenburg?",
+  "o": [
+   "Bladder neck contracture",
+   "Retroperitoneal haematoma",
+   "Penile shortening late",
+   "Raised eye pressure"
+  ],
+  "a": 3,
+  "e": [
+   "Also corneal oedema, hypercarbia with acidosis and neurapraxia."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Cost drivers",
+  "q": "In Link's 2004 analysis, the main driver of laparoscopic prostatectomy cost was:",
+  "o": [
+   "Operating time",
+   "Hospital stay",
+   "Surgeon fees",
+   "Disposables"
+  ],
+  "a": 0,
+  "e": [
+   "Order of importance: operative time, length of stay, then consumables."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Cancer stem cells",
+  "q": "The cancer stem cell hypothesis implies that cure may need:",
+  "o": [
+   "Restoring global methylation",
+   "Eradicating the small stem pool",
+   "Blocking telomere shortening",
+   "Killing all differentiated cells"
+  ],
+  "a": 1,
+  "e": [
+   "A small stem-cell population maintains the tumour; targeting it might eradicate the cancer."
+  ],
+  "s": "Ch 62 Molecular genetics"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder neck dissection",
+  "q": "During RALP bladder neck dissection, the presence of a median lobe should be defined:",
+  "o": [
+   "After anterior and before posterior neck division",
+   "Only after the urethra has been fully divided",
+   "Before any incision of the anterior bladder neck",
+   "After the seminal vesicles have been dissected"
+  ],
+  "a": 0,
+  "e": [
+   "The bladder neck–prostate junction is found with physical manoeuvres and visual cues. After dividing the anterior bladder neck, check for a median lobe before dividing the posterior bladder neck. Large median lobe or prior TURP may need bladder neck reconstruction for size mismatch."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ },
+ {
+  "f": "mcq",
+  "t": "RALP complications",
+  "q": "Which statement about complications of RALP is TRUE?",
+  "o": [
+   "Rectal injury is commoner in salvage surgery",
+   "Bladder neck stricture is seen in over 15%",
+   "Recognised rectal injury is best left alone",
+   "Urine leak rarely needs longer catheterisation"
+  ],
+  "a": 0,
+  "e": [
+   "Rectal injury is rare but higher after radiation (salvage) and should be repaired when recognised; full mobilisation of the rectoprostatic plane prevents it and defines the medial pedicles and NVBs. Bladder neck stricture should be under 5%. A non-watertight anastomosis can leak and needs a longer catheter period. Pad all compression points in Trendelenburg."
+  ],
+  "s": "Ch 156 Laparoscopic/robotic prostatectomy"
+ }
+]

@@ -1,0 +1,802 @@
+[
+ {
+  "f": "mcq",
+  "t": "Kidney development",
+  "q": "Which statement about kidney development is FALSE?",
+  "o": [
+   "Pronephros, mesonephros and metanephros all arise from intermediate mesoderm; only the metanephros persists",
+   "The ureteric bud sprouts from the nephric (mesonephric) duct and meets the metanephric mesenchyme at about 4 weeks",
+   "Older nephrons lie at the periphery and newer ones near the juxtamedullary region",
+   "Nephrogenesis is complete by birth (34–36 weeks), although maturation continues afterwards"
+  ],
+  "a": 2,
+  "e": [
+   "The oldest, most mature nephrons are inner, near the juxtamedullary region, and new ones form at the periphery. The metanephric mesenchyme forms the glomerulus, proximal tubule, loop of Henle and distal tubule. The ureteric bud forms the collecting ducts, calyces, pelvis and ureter. Development depends on reciprocal induction between bud and mesenchyme, and the renin–angiotensin system is needed for normal growth. The pronephros disappears completely, while the mesonephric duct contributes to the urinary tract."
+  ],
+  "s": "Ch 20 GU embryology; Ch 21"
+ },
+ {
+  "f": "mcq",
+  "t": "Molecular nephrogenesis",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "WT1 knockout mice form no ureteric bud",
+   "GDNF, from the metanephric mesenchyme, is the ligand for RET on the bud and stimulates bud growth",
+   "Pax-2 knockout mice lack nephric ducts, müllerian ducts, ureteric buds and metanephric mesenchyme, and die within a day of renal failure",
+   "p53 knockout causes severe renal agenesis"
+  ],
+  "a": 3,
+  "e": [
+   "p53 knockout mice have no significant renal anomaly. GDNF knockouts have impaired bud formation. GDNF is a secreted glycoprotein with a cystine-knot motif, expressed before the bud invades. WT1 defects also cause hypospadias, cryptorchidism and DSD (for example Denys–Drash)."
+  ],
+  "s": "Ch 20 GU embryology"
+ },
+ {
+  "f": "mcq",
+  "t": "Anomalies",
+  "q": "Which statement is correct?",
+  "o": [
+   "Horseshoe kidneys rotate normally",
+   "A horseshoe kidney (fused lower poles crossing in front of the aorta) is trapped under the inferior mesenteric artery during ascent; Weigert–Meyer: the upper-pole ureter opens medially and caudally (ureterocele, obstruction), the lower-pole ureter laterally and cranially (reflux)",
+   "The lower-pole orifice is ectopic",
+   "A horseshoe kidney's isthmus is held up by the superior mesenteric artery"
+  ],
+  "a": 1,
+  "e": [
+   "The lower-pole orifice is lateral, with a short tunnel, so it refluxes. The upper-pole orifice is medial and lower, sometimes ectopic, and may have a ureterocele."
+  ],
+  "s": "Ch 20 GU embryology"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder development",
+  "q": "Which statement about bladder development is FALSE?",
+  "o": [
+   "The bladder body and trigone come from the urogenital sinus; lineage studies show the trigone is mostly bladder smooth muscle with a small ureteric contribution",
+   "Smooth muscle differentiates first at the bladder neck and spreads to the dome",
+   "Bladder compliance is low early in gestation and then increases; epithelial–mesenchymal induction is needed",
+   "The urachus becomes a fibrous cord (median umbilical ligament) by about 12 weeks"
+  ],
+  "a": 1,
+  "e": [
+   "Between 7 and 12 weeks, smooth muscle appears first at the dome and then spreads to the neck. The classic idea that the trigone is an extension of the ureter has been revised by lineage studies."
+  ],
+  "s": "Ch 20 GU embryology"
+ },
+ {
+  "f": "mcq",
+  "t": "Gonads and ducts",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Sertoli cells secrete MIS, causing müllerian regression between weeks 8 and 10; remnants are the appendix testis and prostatic utricle",
+   "SRY on Yp makes sex-cord cells become Sertoli cells; only about 25% of human sex reversal is due to SRY mutation; SRY moved onto an X gives an XX male",
+   "MIS is made by Leydig cells, and SRY directly causes the wolffian ducts to regress",
+   "Primordial germ cells migrate from the yolk sac along the dorsal mesentery in week 5 to near T10, triggering the genital ridges"
+  ],
+  "a": 2,
+  "e": [
+   "Leydig cells make testosterone, which stabilises the wolffian ducts (vas, seminal vesicles, epididymis). Without MIS and androgens the wolffian ducts regress and the müllerian ducts form the tubes, uterus and upper two-thirds of the vagina. Müllerian ducts form by invagination of coelomic epithelium lateral to the mesonephric ducts, from T3 down to the urogenital sinus."
+  ],
+  "s": "Ch 20 GU embryology"
+ },
+ {
+  "f": "mcq",
+  "t": "Duct derivatives",
+  "q": "Which pairing of structure and embryological origin is correct?",
+  "o": [
+   "Prostatic utricle: mesonephric duct",
+   "Vas deferens: urogenital sinus",
+   "Prostate and bulbourethral glands: urogenital sinus; vas, appendix epididymis and seminal vesicles: mesonephric duct; testis: gonadal ridge",
+   "Hymen: mesonephric duct"
+  ],
+  "a": 2,
+  "e": [
+   "Female wolffian remnants: epoophoron, paroophoron, and Gartner duct cysts (anterolateral vaginal wall). The hymen comes from the membrane where the vaginal plate meets the urogenital sinus (future vestibule)."
+  ],
+  "s": "Ch 20 GU embryology"
+ },
+ {
+  "f": "mcq",
+  "t": "Prostate development",
+  "q": "Which statement about prostate development is FALSE?",
+  "o": [
+   "It needs conversion of testosterone to DHT by 5α-reductase, and is severely impaired in 5α-reductase deficiency",
+   "It begins at 10–12 weeks as endodermal buds from the pelvic urethra (urogenital sinus)",
+   "It needs MIS",
+   "It depends on mesenchymal–epithelial interactions driven by androgens"
+  ],
+  "a": 2,
+  "e": [
+   "There is no evidence that MIS acts directly on prostate development. Androgen receptor defects cause abnormal masculinisation of the genitalia."
+  ],
+  "s": "Ch 20 GU embryology"
+ },
+ {
+  "f": "mcq",
+  "t": "External genitalia",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "5α-reductase-deficient XY infants have female-looking genitalia",
+   "In females the urethral folds become the labia majora and the labioscrotal folds the labia minora",
+   "The genitalia look the same in both sexes until about 8 weeks; cloacal folds meet to form the genital tubercle in week 5",
+   "In males DHT lengthens the perineum and fuses the urethral and labioscrotal folds; the glanular urethra may form by fusion proximally and ectodermal ingrowth distally"
+  ],
+  "a": 1,
+  "e": [
+   "Urethral folds become the labia minora and labioscrotal folds the labia majora. The phallus becomes the clitoris and the definitive urogenital sinus becomes the vestibule. Division of the cloaca forms the urogenital folds in front and the anal folds behind."
+  ],
+  "s": "Ch 20 GU embryology"
+ },
+ {
+  "f": "mcq",
+  "t": "Testicular descent",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "The testis reaches the scrotum by the 3rd month",
+   "The testis reaches the internal inguinal ring by about the 3rd month",
+   "Intra-abdominal pressure helps it pass through the inguinal canal; boys with spina bifida have a 23% rate of cryptorchidism",
+   "It passes through the canal to the scrotum between the 7th and 9th months"
+  ],
+  "a": 0,
+  "e": [
+   "Undescended testes occur in 30% of preterm and 3% of term boys, and rarely descend after 6 months of age (Ch 23)."
+  ],
+  "s": "Ch 20 GU embryology; Ch 23"
+ },
+ {
+  "f": "mcq",
+  "t": "Neonatal kidney",
+  "q": "Which statement about the neonatal kidney is FALSE?",
+  "o": [
+   "GFR before and just after birth is much lower than in adults, and reaches adult levels by about 2 years",
+   "The newborn excretes potassium poorly and has higher serum potassium",
+   "Renal growth is complete by age 2",
+   "Tubular maturation, including sodium handling, continues for weeks to months after birth"
+  ],
+  "a": 2,
+  "e": [
+   "Renal growth continues until after puberty. Nephrogenesis finishes at 34–36 weeks after conception, whether the baby is in utero or born. Sodium balance is an important neonatal function. CAKUT (congenital anomalies of the kidney and urinary tract) is the commonest cause of end-stage renal disease in children."
+  ],
+  "s": "Ch 21 Paediatric nephrology"
+ },
+ {
+  "f": "mcq",
+  "t": "Haematuria",
+  "q": "A healthy 10-year-old has 5–6 RBC per high-power field on routine urinalysis, with no protein. Which is correct?",
+  "o": [
+   "Repeat urinalysis in 2 weeks; isolated microscopic haematuria affects about 1% of school children, under 25% persists, and most resolve within a year",
+   "Renal biopsy",
+   "Renal ultrasound now",
+   "Cystoscopy"
+  ],
+  "a": 0,
+  "e": [
+   "If it persists, check renal function, structure, urinary calcium and infection. Hypercalciuria is the commonest identified cause (Ch 23), though usually no cause is found. A positive dipstick with no RBCs on microscopy means haemoglobinuria or myoglobinuria."
+  ],
+  "s": "Ch 21 Paediatric nephrology; Ch 23"
+ },
+ {
+  "f": "mcq",
+  "t": "Proteinuria",
+  "q": "Which result is ABNORMAL?",
+  "o": [
+   "Adolescent 24-hour protein 150 mg",
+   "UPC 1.0 mg/mg in a 13-year-old",
+   "First-morning UPC 0.1 mg/mg",
+   "Term newborn UPC 0.6 mg/mg"
+  ],
+  "a": 1,
+  "e": [
+   "Normal UPC: under 0.7 mg/mg in newborns and under 0.2 in older children. 24-hour protein: under 200 mg in adolescents, or under 4 mg/m²/hour in young children. UPC over 2.0 is nephrotic range. Transient proteinuria (fever, exercise) explains over 75% of isolated proteinuria. If there is systemic disease or nephritis, check C3, C4 and ANA."
+  ],
+  "s": "Ch 21 Paediatric nephrology"
+ },
+ {
+  "f": "mcq",
+  "t": "Nephrotic syndrome",
+  "q": "A 6-year-old has oedema, albumin 1.8, cholesterol 350, UPC 10, normal BP and creatinine. Which is correct?",
+  "o": [
+   "Congenital nephrotic syndrome",
+   "FSGS is most likely",
+   "Minimal change disease, the commonest cause; steroids induce remission in most; FSGS underlies most steroid-resistant cases and becomes commoner in adolescence",
+   "Membranous nephropathy is commonest"
+  ],
+  "a": 2,
+  "e": [
+   "Congenital nephrotic syndrome by definition starts before 3 months of age."
+  ],
+  "s": "Ch 21 Paediatric nephrology"
+ },
+ {
+  "f": "mcq",
+  "t": "Nephritis",
+  "q": "An 8-year-old has gross haematuria, hypertension and oedema 2 weeks after a sore throat. Which test is NOT part of the workup?",
+  "o": [
+   "Metabolic panel",
+   "C3 and ASO/anti-DNase B",
+   "Urine microscopy for casts",
+   "CT abdomen and pelvis"
+  ],
+  "a": 3,
+  "e": [
+   "This is post-streptococcal glomerulonephritis. Complement patterns: low C3 and C4 in lupus and MPGN; low C3 with normal C4 in post-infectious and C3 glomerulonephritis; normal complement in ANCA vasculitis. IgA nephropathy is the commonest primary glomerulonephritis worldwide."
+  ],
+  "s": "Ch 21 Paediatric nephrology"
+ },
+ {
+  "f": "mcq",
+  "t": "Vasculitis",
+  "q": "A 6-year-old has a purpuric rash on the legs and buttocks, abdominal and joint pain, and haematuria with RBC casts. Diagnosis:",
+  "o": [
+   "ANCA vasculitis",
+   "Alport syndrome",
+   "HUS",
+   "Henoch–Schönlein purpura (IgA vasculitis)"
+  ],
+  "a": 3,
+  "e": [
+   "HUS follows bloody diarrhoea and is a common cause of severe AKI in previously healthy young children. Alport syndrome has few systemic features. Post-infectious GN follows pharyngitis or impetigo. ANCA disease is rare in children and causes fever."
+  ],
+  "s": "Ch 21 Paediatric nephrology"
+ },
+ {
+  "f": "mcq",
+  "t": "Tubular disorders",
+  "q": "A 3-year-old with failure to thrive has K 2.5, Cl 105, HCO3 9, dilute alkaline urine and nephrocalcinosis. Most likely:",
+  "o": [
+   "Proximal RTA",
+   "Distal (type 1) RTA",
+   "Dent disease",
+   "Bartter syndrome"
+  ],
+  "a": 1,
+  "e": [
+   "The hallmark of RTA is hyperchloraemic, normal anion gap acidosis. Distal RTA: very low bicarbonate, hypokalaemia, hypercalciuria and nephrocalcinosis. Proximal RTA or Fanconi: bicarbonate 12–14, with phosphaturia, glycosuria and proteinuria. Bartter: hypokalaemic metabolic alkalosis. Type 4 RTA: hyperkalaemic."
+  ],
+  "s": "Ch 21 Paediatric nephrology"
+ },
+ {
+  "f": "mcq",
+  "t": "Cystic disease",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "ARPKD (PKHD1) gives large, bright kidneys with hepatic fibrosis",
+   "ADPKD is due to PKD1 (polycystin-1) or PKD2; children's ultrasound can range from normal to a single cyst to bilateral cysts",
+   "Hepatic fibrosis is a typical childhood finding in ADPKD",
+   "Up to 25% of MCDK have other urological anomalies (contralateral VUR, UPJ obstruction, hypoplasia or dysplasia)"
+  ],
+  "a": 2,
+  "e": [
+   "Hepatic fibrosis belongs to ARPKD. MCDK does not increase Wilms risk and can usually be observed (Ch 22). MCDK appears as randomly arranged cysts of different sizes with sparse bright parenchyma, while ADPKD replaces the parenchyma with cysts (Ch 24)."
+  ],
+  "s": "Ch 21 Paediatric nephrology; Ch 22, 24"
+ },
+ {
+  "f": "mcq",
+  "t": "Stones",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Cystinuria reduces reabsorption of cystine, ornithine, arginine and lysine",
+   "Calcium stones are the commonest; stones are underdiagnosed because many children have no symptoms",
+   "In a child with flank pain and haematuria, ultrasound is the first imaging, avoiding CT radiation",
+   "APRT deficiency causes hyperoxaluria"
+  ],
+  "a": 3,
+  "e": [
+   "APRT deficiency (autosomal recessive) causes 2,8-dihydroxyadenine stones. Hyperoxaluria may be primary (AGT deficiency, primary hyperoxaluria type 1) or secondary (diet, excess vitamin C, short gut). Start analgesia before deciding on drainage."
+  ],
+  "s": "Ch 21 Paediatric nephrology"
+ },
+ {
+  "f": "mcq",
+  "t": "Hypertension",
+  "q": "A calm 15-year-old (BMI 29, family history of hypertension) has BP 120/80 with the correct cuff. Next step:",
+  "o": [
+   "Repeat office BP in 1–2 weeks to confirm",
+   "Renin levels",
+   "24-hour ABPM at once",
+   "Renal Doppler"
+  ],
+  "a": 0,
+  "e": [
+   "If confirmed: metabolic panel, lipids, echocardiogram and renal ultrasound. Consider angiography or selective renins only for severe or resistant cases. Up to 25% have white-coat hypertension. Rising prevalence follows obesity. Lifestyle change is first-line for primary hypertension without end-organ damage."
+  ],
+  "s": "Ch 21 Paediatric nephrology"
+ },
+ {
+  "f": "mcq",
+  "t": "AKI",
+  "q": "A vomiting 12-year-old has urea 40, creatinine 1.8, urine Na 20, FENa 0.8% and urine osmolality 600. Which is correct?",
+  "o": [
+   "Prerenal AKI from dehydration: give prompt, generous isotonic fluids",
+   "Obstruction",
+   "Intrinsic AKI",
+   "Interstitial nephritis"
+  ],
+  "a": 0,
+  "e": [
+   "Prerenal: urine Na under 25 and FENa under 1%. Intrinsic causes (valves, interstitial nephritis, UTI) give FENa over 1%. Hospitalised children with AKI have about 15 times the mortality. CRRT (continuous renal replacement therapy) is the standard because it corrects fluid and electrolytes slowly."
+  ],
+  "s": "Ch 21 Paediatric nephrology"
+ },
+ {
+  "f": "mcq",
+  "t": "CKD and transplant",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Anaemia is mostly due to erythropoietin deficiency; acidosis, malnutrition and 1,25-vitamin D deficiency are common; decline speeds up in later stages",
+   "The commonest cause of paediatric graft loss is acute cellular rejection",
+   "Peritoneal dialysis is the usual first dialysis in children under 9 years or under 20 kg",
+   "Growth failure in CKD reflects abnormal growth hormone action, and recombinant GH is indicated in most after optimising nutrition"
+  ],
+  "a": 1,
+  "e": [
+   "Chronic allograft nephropathy is the commonest cause, and antibody-mediated rejection is increasingly recognised. First-year acute rejection is under 10% with living donors and about 15% with deceased donors. Transplantation improves growth, neurocognitive development and quality of life. Causes of CKD differ from adults and vary with age."
+  ],
+  "s": "Ch 21 Paediatric nephrology"
+ },
+ {
+  "f": "mcq",
+  "t": "Prenatal screening",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Urinary tract dilation (UTD) is the second commonest prenatal anomaly, in 1–3% of pregnancies",
+   "Greater dilation means less chance of urological disease",
+   "The screening anatomy scan is at about 20 weeks; low-risk pregnancies average 2 scans and high-risk 4",
+   "Ultrasound predicts severity best for obstruction (UPJ obstruction, valves) and worst for VUR"
+  ],
+  "a": 1,
+  "e": [
+   "The more severe the dilation, the more likely there is real urological disease. APD (anteroposterior diameter) has a linear relationship with obstructive lesions, and a third-trimester APD of 15 mm reasonably predicts the need for UPJ surgery. Antenatal counselling lets families meet the specialist before delivery."
+  ],
+  "s": "Ch 22 Perinatal urology"
+ },
+ {
+  "f": "mcq",
+  "t": "UTD grading",
+  "q": "Which statement about classification is FALSE?",
+  "o": [
+   "The UTD system combines APD and SFU, adds the lower tract, and standardises reporting with risk stratification",
+   "Postnatal P3 requires an APD over 30 mm",
+   "SFU is a 5-point system based on calyceal dilation and parenchymal integrity",
+   "Normal third-trimester APD is under 7 mm; 8 mm at 28 weeks or more is low risk (A1)"
+  ],
+  "a": 1,
+  "e": [
+   "P1 (low risk): APD 10 to under 15 mm or central calyceal dilation. P2 (intermediate): APD 15 mm or more, peripheral calyceal dilation or ureteral dilation. P3 (high risk): any parenchymal thickness or appearance abnormality, or a bladder abnormality, whatever the APD."
+  ],
+  "s": "Ch 22 Perinatal urology"
+ },
+ {
+  "f": "mcq",
+  "t": "Postnatal imaging",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "A circumcised boy with prenatal A2–3 UTD and a normal day-3 scan: repeat ultrasound at 3–6 months; no VCUG, antibiotics or scan",
+   "Most UTD is caused by UPJ obstruction",
+   "Do the first postnatal ultrasound after 48 hours, because fluid shifts early on can hide dilation",
+   "Up to 28% of UTD appears only after a normal first scan"
+  ],
+  "a": 1,
+  "e": [
+   "Most UTD is transient (41–88%). UPJ obstruction is next. VUR accounts for 10–20% and other causes under 10%."
+  ],
+  "s": "Ch 22 Perinatal urology"
+ },
+ {
+  "f": "mcq",
+  "t": "P1 UTD",
+  "q": "A 6-week-old circumcised boy has stable P1 UTD (APD 11 mm, central calyces). Expected course:",
+  "o": [
+   "VCUG and MAG3 first",
+   "Needs pyeloplasty",
+   "Start prophylaxis",
+   "Likely to resolve within about 2.5 years (by 4 years in most), with ultrasound follow-up only"
+  ],
+  "a": 3,
+  "e": [
+   "For P1, prophylaxis and VCUG are not recommended. P2: VCUG and prophylaxis at the clinician's discretion. P3: follow-up ultrasound at 1 month, plus VCUG, prophylaxis and usually a MAG3 scan."
+  ],
+  "s": "Ch 22 Perinatal urology"
+ },
+ {
+  "f": "mcq",
+  "t": "UTD and VUR",
+  "q": "Which statement is correct?",
+  "o": [
+   "Base the VCUG decision on UTI risk; VUR is found in up to 31% (mostly boys, often bilateral high grade); APD correlates poorly with VUR, and a quarter of VUR shows no dilation on ultrasound",
+   "VUR in UTD is commoner in girls",
+   "All P2 patients need VCUG",
+   "UTD correlates linearly with VUR"
+  ],
+  "a": 0,
+  "e": [
+   "Request VCUG for lower urinary tract obstruction concerns regardless of UTI risk."
+  ],
+  "s": "Ch 22 Perinatal urology"
+ },
+ {
+  "f": "mcq",
+  "t": "UTD and UTI",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "The degree of dilation predicts UTI risk",
+   "A meta-analysis of 11 studies did not show prophylaxis prevents UTI in UTD overall; UTI occurs in only 8–19%",
+   "Risk factors: female sex, uncircumcised boys, high-grade dilation, ureteral dilation and VUR",
+   "All infants with UTD should start prophylaxis at birth"
+  ],
+  "a": 3,
+  "e": [
+   "Prophylaxis is recommended for higher-risk P2 and P3 infants."
+  ],
+  "s": "Ch 22 Perinatal urology"
+ },
+ {
+  "f": "mcq",
+  "t": "Renography",
+  "q": "Which statement about MAG3 diuretic renography is correct?",
+  "o": [
+   "Surgical indications include split function under 40%, t½ over 20 minutes and significant retention on delayed upright images; MAG3 is cleared by the proximal tubule, so it does not measure GFR",
+   "Hydration does not matter",
+   "Give furosemide at a fixed time in every child",
+   "It measures GFR"
+  ],
+  "a": 0,
+  "e": [
+   "MR urography is best for finding where an ectopic ureter inserts. Individualise furosemide timing to peak collecting-system activity. The four key elements: hydration, correct region of interest, bladder drainage as needed, and diuretic timing (Ch 24)."
+  ],
+  "s": "Ch 22 Perinatal urology; Ch 24"
+ },
+ {
+  "f": "mcq",
+  "t": "High-risk infant",
+  "q": "A 4-week-old uncircumcised boy on amoxicillin has an APD of 20 mm, peripheral calyces, a 10 mm distal ureter and no reflux. Next step:",
+  "o": [
+   "Switch to TMP-SMX",
+   "Discuss newborn circumcision and continue prophylaxis",
+   "MAG3 first",
+   "Stop prophylaxis"
+  ],
+  "a": 1,
+  "e": [
+   "Being uncircumcised and having ureteral dilation both raise UTI risk. Avoid TMP-SMX before 2–3 months of age. Do not delay circumcision advice to get a renal scan."
+  ],
+  "s": "Ch 22 Perinatal urology"
+ },
+ {
+  "f": "mcq",
+  "t": "Fetal intervention",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Poor prognostic signs: oligohydramnios before 27 weeks, renal cortical cysts, increased echogenicity",
+   "Fetal cystoscopy can diagnose and treat, and may give short-term renal benefit over shunting",
+   "Treating lower urinary tract obstruction before birth improves perinatal survival but not reliably long-term renal function; it helps most with early second-trimester oligohydramnios, allowing lung development",
+   "Fetal myelomeningocele closure improves bladder function and reduces the need for CIC"
+  ],
+  "a": 3,
+  "e": [
+   "MOMS (2011): fetal closure reduced VP shunting and improved motor and cognitive outcomes, but did not change urodynamics, the need for CIC (clean intermittent catheterisation) or reconstruction. Counselling should be at a fetal surgery centre."
+  ],
+  "s": "Ch 22 Perinatal urology"
+ },
+ {
+  "f": "mcq",
+  "t": "Neonatal torsion",
+  "q": "A 2-day-old's scrotum was normal at birth but now has a firm, tender right testis with discoloured skin. Next step:",
+  "o": [
+   "Antibiotics",
+   "Serial examinations",
+   "Doppler first",
+   "Emergency exploration (postnatal torsion: up to 44% salvageable) with fixation"
+  ],
+  "a": 3,
+  "e": [
+   "Prenatal torsion: the testis is hard, non-tender and unchanged since birth, with no flow, and cannot be saved. Most then fix the other side urgently to prevent torsion there. The urgency of neonatal torsion depends on how acute it is."
+  ],
+  "s": "Ch 22 Perinatal urology"
+ },
+ {
+  "f": "mcq",
+  "t": "Neonatal conditions",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "The commonest newborn renal tumour is congenital mesoblastic nephroma; neonatal gross haematuria needs urinalysis and Doppler ultrasound",
+   "A 'male' with bilateral impalpable testes can be investigated electively as an outpatient",
+   "Most megaureters resolve; operate for UTIs, falling function or increasing dilation, with temporary diversion under 1 year",
+   "In duplex systems, reflux into the lower pole can affect decisions about the obstructed upper pole"
+  ],
+  "a": 1,
+  "e": [
+   "Bilateral impalpable testes, or any ambiguous genitalia, needs urgent assessment for salt-wasting CAH before discharge. Urological causes of a distended newborn abdomen: urinary ascites, obstruction, renal masses, and rarely an adrenal mass. Retention occurs with valves in boys and with urogenital sinus or cloacal anomalies in girls."
+  ],
+  "s": "Ch 22 Perinatal urology; Ch 23"
+ },
+ {
+  "f": "mcq",
+  "t": "Urgency",
+  "q": "Which patient does NOT need emergency assessment?",
+  "o": [
+   "12-year-old girl with incidental microscopic haematuria",
+   "Newborn with hydronephrosis in a solitary kidney",
+   "4-year-old with acute scrotal pain",
+   "Boy with sickle cell disease and 5 hours of priapism"
+  ],
+  "a": 0,
+  "e": [
+   "Also urgent: bilateral hydronephrosis with a distended bladder and respiratory distress (suspect valves), and gross haematuria in a newborn (renal vein or artery thrombosis)."
+  ],
+  "s": "Ch 23 Urological evaluation of the child"
+ },
+ {
+  "f": "mcq",
+  "t": "Circumcision",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Complications include infection, meatal stenosis, too much or too little skin removed, cicatrix and even death",
+   "In the newborn the foreskin is normally adherent to the glans",
+   "Newborn preputial adhesions should be separated routinely",
+   "Meatal stenosis usually follows inflammation of the exposed glans after circumcision, or damage to the frenular artery"
+  ],
+  "a": 2,
+  "e": [
+   "Do not separate adhesions unless circumcising. Uncircumcised boys and infants under 6 months are at higher UTI risk."
+  ],
+  "s": "Ch 23 Urological evaluation of the child"
+ },
+ {
+  "f": "mcq",
+  "t": "Trauma",
+  "q": "Why is the child's kidney more vulnerable to trauma?",
+  "o": [
+   "Relatively larger kidneys, little visceral fat, less chest wall protection and greater mobility",
+   "Thicker perirenal fat",
+   "Lower position",
+   "Thicker Gerota fascia"
+  ],
+  "a": 0,
+  "e": [
+   "Blunt renal trauma is managed without surgery unless there is major vascular avulsion or extensive extravasation. Ultrasound compares well with CT for acute assessment and for follow-up of haematoma or urinoma. CT needs delayed images, and cystography needs lateral views (Ch 24)."
+  ],
+  "s": "Ch 23 Urological evaluation of the child; Ch 24"
+ },
+ {
+  "f": "mcq",
+  "t": "Spinal dysraphism",
+  "q": "Which statement about occult spinal dysraphism is FALSE?",
+  "o": [
+   "Two or more midline skin lesions is the strongest marker; sacral hair tufts are associated",
+   "40% of atypical dimples have occult dysraphism",
+   "Screen with spinal ultrasound before 6 months, before the posterior elements ossify; use MRI after that",
+   "A dimple less than 2.5 cm from the anal verge is atypical"
+  ],
+  "a": 3,
+  "e": [
+   "Atypical dimples are off-centre, more than 2.5 cm from the anal verge, or deeper than 0.5 cm. Children with myelomeningocele are at risk of latex allergy."
+  ],
+  "s": "Ch 23 Urological evaluation of the child"
+ },
+ {
+  "f": "mcq",
+  "t": "Abdominal masses",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "The abdominal wall is normally strong, especially with hydronephrosis",
+   "About two-thirds of neonatal abdominal masses are renal",
+   "The commonest malignant abdominal tumour in infants is neuroblastoma, then Wilms",
+   "Solid neonatal masses include neuroblastoma, mesoblastic nephroma, teratoma and renal vein thrombosis"
+  ],
+  "a": 0,
+  "e": [
+   "The abdominal wall is weak in premature infants and sometimes with hydronephrosis. Abdominal distension at birth suggests gut obstruction or perforation. Cloacal exstrophy: omphalocele above the caecal plate, bladder halves on each side, and prolapsed ileum in the middle."
+  ],
+  "s": "Ch 23 Urological evaluation of the child"
+ },
+ {
+  "f": "mcq",
+  "t": "Beckwith–Wiedemann",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "It maps to 11p15.5",
+   "Neonatal hypoglycaemia is common",
+   "Features: macroglossia, organomegaly (including nephromegaly), macrosomia and hemihypertrophy",
+   "Its tumour risk is mainly testicular germ cell tumours"
+  ],
+  "a": 3,
+  "e": [
+   "The tumour risks are Wilms, adrenocortical carcinoma, hepatoblastoma and rhabdomyosarcoma."
+  ],
+  "s": "Ch 23 Urological evaluation of the child"
+ },
+ {
+  "f": "mcq",
+  "t": "DSD examination",
+  "q": "In ambiguous genitalia, a palpable gonad rules out which condition?",
+  "o": [
+   "Ovotesticular DSD",
+   "Mixed gonadal dysgenesis",
+   "Partial androgen insensitivity",
+   "Pure gonadal dysgenesis (bilateral streak gonads, which cannot be felt)"
+  ],
+  "a": 3,
+  "e": [
+   "A palpable gonad also excludes 46,XX CAH, since ovaries are not palpable. Symmetrical findings (both palpable or both impalpable) suggest a global cause such as CAH or androgen insensitivity. Impalpable gonads make CAH likely. Test for CAH before discharge from the nursery."
+  ],
+  "s": "Ch 23 Urological evaluation of the child"
+ },
+ {
+  "f": "mcq",
+  "t": "History and continence",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Secondary incontinence means wetting after a dry period of more than 6 months",
+   "Children who hold stool nearly always hold urine, but few hold urine without stool",
+   "In sexual abuse an abnormal examination is the rule",
+   "Continuous dribbling in a girl suggests an ectopic ureter"
+  ],
+  "a": 2,
+  "e": [
+   "Only about 11% of girls seen in an abuse clinic had suggestive findings, so a normal examination does not exclude abuse. Bruised vaginal mucosa or penile discharge can occur."
+  ],
+  "s": "Ch 23 Urological evaluation of the child"
+ },
+ {
+  "f": "mcq",
+  "t": "Scrotum",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Prepubertal testicular tumours in order: teratoma, rhabdomyosarcoma, epidermoid cyst, yolk sac tumour, germ cell tumour",
+   "Every large newborn hydrocele needs early surgery",
+   "Repair a newborn hydrocele if its size changes or a hernia causes symptoms",
+   "A hydrocele that changes size means a patent processus vaginalis and a risk of hernia"
+  ],
+  "a": 1,
+  "e": [
+   "Large hydroceles can resolve. Distinguish them from an abdominoscrotal hydrocele. Most prepubertal testicular masses are benign (Ch 24)."
+  ],
+  "s": "Ch 23 Urological evaluation of the child; Ch 24"
+ },
+ {
+  "f": "mcq",
+  "t": "VCUG",
+  "q": "VCUG is essential to diagnose:",
+  "o": [
+   "UPJ obstruction",
+   "Renal mass",
+   "Primary obstructive megaureter",
+   "Posterior urethral valves"
+  ],
+  "a": 3,
+  "e": [
+   "VCUG shows the dilated posterior urethra, prominent bladder neck, diverticula, reflux and the valve leaflets. UPJ obstruction and megaureter are assessed with ultrasound plus MAG3 or MR urography. Stones: ultrasound, then CT if needed. Renal mass: ultrasound, then MRI (or contrast CT, Ch 24)."
+  ],
+  "s": "Ch 23 Urological evaluation of the child"
+ },
+ {
+  "f": "mcq",
+  "t": "Fetal imaging",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Amniotic fluid contains fetal urine before 10 weeks",
+   "Amniotic fluid contains fetal urine by 10–12 weeks",
+   "Urine fills the fetal bladder by 20 weeks, and the fetal bladder never empties completely",
+   "Prominent corticomedullary differentiation (dark pyramids) in a normal infant kidney can be mistaken for hydronephrosis"
+  ],
+  "a": 0,
+  "e": [
+   "Ultrasound can confuse the dark medullary pyramids of a normal infant kidney with hydronephrosis."
+  ],
+  "s": "Ch 24 Paediatric GU imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Hydronephrosis imaging",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Hydronephrosis always means obstruction",
+   "A dilated collecting system can be told from cysts because its fluid spaces connect",
+   "Hydronephrosis can be obstructive or non-obstructive; diagnosing obstruction needs review of every renogram parameter",
+   "Ultrasound is the first test for suspected obstruction and for follow-up; VCUG or diuretic renography is added as needed"
+  ],
+  "a": 0,
+  "e": [
+   "ARPKD: enlarged, homogeneously bright kidneys. A suspected renal mass needs contrast CT after ultrasound."
+  ],
+  "s": "Ch 24 Paediatric GU imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "UTI imaging",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "DMSA is highly accurate for acute pyelonephritis and scarring",
+   "Ultrasound is insensitive for acute pyelonephritis; use it in acute infection when treatment fails",
+   "A normal renal ultrasound reliably excludes VUR and risk-stratifies febrile UTI",
+   "Contrast-enhanced voiding ultrasound may replace VCUG"
+  ],
+  "a": 2,
+  "e": [
+   "Ultrasound is the usual first screen despite its low yield. 'Bottom-up': ultrasound then VCUG, which finds all VUR but may overtreat low grades. 'Top-down': DMSA first, with VCUG only if DMSA is abnormal."
+  ],
+  "s": "Ch 24 Paediatric GU imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Acute scrotum imaging",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "A twisted appendix testis appears as an avascular nodule at the lower pole within the testis",
+   "Do not delay exploration for imaging if the history and examination suggest torsion",
+   "How salvageable a testis is cannot be reliably predicted from ultrasound",
+   "Epididymo-orchitis and spontaneous detorsion both show increased blood flow"
+  ],
+  "a": 0,
+  "e": [
+   "A twisted appendix testis is an extratesticular nodule near the upper pole, with surrounding hyperaemia. Ultrasound with the history and examination usually separates inflammation, tumour, trauma and torsion. Nuclear scans add little."
+  ],
+  "s": "Ch 24 Paediatric GU imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Undescended testis",
+  "q": "Which statement is correct?",
+  "o": [
+   "CT is first-line",
+   "Scintigraphy is first-line",
+   "Ultrasound reliably finds impalpable testes",
+   "Ultrasound for undescended testis is unreliable and should not be used, except perhaps to find an inguinal testis in an overweight boy"
+  ],
+  "a": 3,
+  "e": [
+   "Examination (and laparoscopy for an impalpable testis) is the standard approach."
+  ],
+  "s": "Ch 24 Paediatric GU imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Diuresis renogram",
+  "q": "The four key elements of a reliable diuresis renogram are:",
+  "o": [
+   "Sedation, region of interest, catheterisation, timing",
+   "Fasting, region of interest, catheter, timing",
+   "Hydration, a tight cortical region of interest, catheterisation afterwards, fixed timing",
+   "Hydration, an appropriate region of interest, bladder drainage as needed, and correct diuretic timing"
+  ],
+  "a": 3,
+  "e": [
+   "Technical variations change results considerably."
+  ],
+  "s": "Ch 24 Paediatric GU imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Cystic kidneys on ultrasound",
+  "q": "Which ultrasound description is correct?",
+  "o": [
+   "ARPKD: a single large cyst",
+   "MCDK: enlarged, homogeneously bright kidneys",
+   "MCDK: cysts of varying size, randomly arranged and not connected, with sparse bright parenchyma; ARPKD: enlarged, bright kidneys on both sides; ADPKD: parenchyma replaced by cysts on both sides",
+   "ADPKD: unilateral, with connected cysts"
+  ],
+  "a": 2,
+  "e": [
+   "Connected fluid spaces suggest hydronephrosis rather than cysts."
+  ],
+  "s": "Ch 24 Paediatric GU imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Microhaematuria cause",
+  "q": "The commonest identified cause of asymptomatic microscopic haematuria in children is:",
+  "o": [
+   "Uncomplicated UTI",
+   "Post-streptococcal GN",
+   "Fibroepithelial polyp",
+   "Hypercalciuria"
+  ],
+  "a": 3,
+  "e": [
+   "Most cases are transient with no cause found. A positive dipstick needs microscopy, and no RBCs on microscopy means haemoglobinuria or myoglobinuria. Gross haematuria in a newborn is an emergency (renal vein or artery thrombosis)."
+  ],
+  "s": "Ch 23 Urological evaluation of the child"
+ }
+]

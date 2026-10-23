@@ -1,0 +1,770 @@
+[
+ {
+  "f": "mcq",
+  "t": "Renal colic",
+  "q": "Pain from a ureteric stone is mainly caused by:",
+  "o": [
+   "Excess ureteric peristalsis against the impacted stone",
+   "Urine leak from a ruptured calyceal fornix into fat",
+   "Irritation of the ureteric mucosa by the stone itself",
+   "Acute distension of the renal capsule from obstruction"
+  ],
+  "a": 3,
+  "e": [
+   "Renal pain comes from acute distension of the renal capsule (obstruction or inflammation). It runs from the flank to the lower quadrant and may be referred to the testis, labium or medial thigh. It is colicky and may cause nausea through reflex stimulation of the coeliac ganglion."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Pain patterns",
+  "q": "Which statement about urological pain is FALSE?",
+  "o": [
+   "Chronic scrotal pain is most often from hydrocele or varicocele",
+   "Slowly developing retention of over a litre is usually painful",
+   "Pain in the flaccid penis usually comes from bladder or urethra",
+   "Pain arising from the prostate is typically poorly localised"
+  ],
+  "a": 1,
+  "e": [
+   "Slowly progressive obstruction with a distended bladder is often painless, even with residuals over a litre. Pain in the flaccid penis is referred from bladder or urethral inflammation and felt most at the meatus. Chronic scrotal pain is usually non-inflammatory (hydrocele, varicocele): a dull, heavy, non-radiating ache. Pain referred to the testis may arise in the retroperitoneum, ureter or kidney. Obstruction with fever and chills is a urological emergency."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Haematuria history",
+  "q": "Which statement about haematuria is FALSE?",
+  "o": [
+   "Therapeutic anticoagulation by itself explains the haematuria",
+   "Terminal haematuria usually points to bladder neck or prostate",
+   "Bladder cancer is the commonest cause of gross haematuria over 50",
+   "Painful haematuria usually means clots obstructing the ureter"
+  ],
+  "a": 0,
+  "e": [
+   "Anticoagulation at therapeutic levels does not predispose to haematuria, so investigate it. In adults, treat haematuria as a sign of malignancy until proven otherwise. Microscopic haematuria with irritative symptoms suggests carcinoma in situ until proven otherwise."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Continuous leakage",
+  "q": "A 45-year-old woman leaks urine constantly, day and night and in every position, three weeks after an abdominal hysterectomy. The likeliest cause is:",
+  "o": [
+   "Overflow incontinence",
+   "Detrusor overactivity",
+   "Vesicovaginal fistula",
+   "Stress incontinence"
+  ],
+  "a": 2,
+  "e": [
+   "Continuous incontinence is most often due to a fistula bypassing the sphincter, an ectopic ureter, or a totally incompetent sphincter. Post-void dribbling is urine pooling in the bulbar urethra; perineal pressure after voiding helps."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Anejaculation",
+  "q": "Which is NOT a recognised cause of anejaculation?",
+  "o": [
+   "Sympathetic denervation",
+   "Androgen deficiency",
+   "Prior bladder neck surgery",
+   "Cerebrovascular accident"
+  ],
+  "a": 3,
+  "e": [
+   "Causes listed: androgen deficiency, sympathetic denervation (e.g. RPLND, diabetes), drugs (e.g. alpha-blockers) and bladder neck or prostatic surgery."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Erectile dysfunction history",
+  "q": "Which feature in the history suggests psychogenic rather than organic erectile dysfunction?",
+  "o": [
+   "Sudden onset after a stressful life event",
+   "Loss of nocturnal and early-morning erections",
+   "Poor erections in every circumstance",
+   "Coexisting peripheral vascular disease"
+  ],
+  "a": 0,
+  "e": [
+   "Psychogenic ED often starts quickly after a precipitating event such as relationship stress or a new partner. Organic ED is gradual, affects all circumstances, loses nocturnal erections and accompanies vascular disease or diabetes. Priapism is commonest with sickle cell disease, and also occurs with advanced malignancy, coagulation disorders and lung disease, or with no obvious cause."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Haematospermia",
+  "q": "Which is NOT routinely needed for a man with haematospermia?",
+  "o": [
+   "Genital examination",
+   "Routine cystoscopy",
+   "Serum PSA level",
+   "Digital rectal exam"
+  ],
+  "a": 1,
+  "e": [
+   "Haematospermia almost always resolves and rarely signals serious disease. Do a genital and rectal examination (tuberculosis), PSA and DRE (prostate cancer), urinalysis and urine cytology. Persistent or recurrent haematospermia, or an older man, generally needs further imaging (TRUS or MRI) and often cystoscopy."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Pneumaturia",
+  "q": "Which is NOT a cause of pneumaturia?",
+  "o": [
+   "Sigmoid cancer",
+   "Diverticulitis",
+   "Crohn disease",
+   "Ectopic ureter"
+  ],
+  "a": 3,
+  "e": [
+   "Without recent instrumentation or catheterisation, pneumaturia almost always means an enterovesical fistula: diverticulitis, sigmoid carcinoma or regional enteritis (Crohn disease)."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Neurological history",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Parkinson disease often causes irritative symptoms",
+   "Healthy adults often rise four times a night to void",
+   "About 5% with MS present first with urinary symptoms",
+   "The bulbocavernosus reflex tests the S2–S4 arc"
+  ],
+  "a": 1,
+  "e": [
+   "Adults normally rise no more than twice a night. Nocturnal urine output rises in older people and in heart failure because oedema is mobilised when lying down. Irritative symptoms can result from stroke, diabetes and Parkinson disease. Enuresis is normal up to age 3, persists in about 15% at 5 years and about 1% at 15."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Bimanual examination",
+  "q": "What does bimanual pelvic examination provide that CT and MRI cannot?",
+  "o": [
+   "Mobility or fixation of the pelvic organs",
+   "Presence of calculi within the bladder",
+   "Presence of a mass within the bladder",
+   "Invasion of tumour into the perivesical fat"
+  ],
+  "a": 0,
+  "e": [
+   "Bimanual examination shows induration and, uniquely, whether the bladder is mobile or fixed; CT and MRI are static images."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Examination facts",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "An IPSS of 8–19 denotes severe lower urinary tract symptoms",
+   "A male urologist examining a woman needs a female chaperone",
+   "The normal adult testis is about 6 cm long and 4 cm wide",
+   "Retract the foreskin to inspect the glans if uncircumcised"
+  ],
+  "a": 0,
+  "e": [
+   "IPSS: 0–7 mild, 8–19 moderate, 20–35 severe. Dysuria is not a typical BPH symptom; it usually means inflammation. The chief complaint should lead the history. Family history should cover renal and prostate cancer, renal cysts and stones. Always get previous operation notes before surgery."
+  ],
+  "s": "Ch 1 History and physical examination"
+ },
+ {
+  "f": "mcq",
+  "t": "Urine appearance",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Dehydration lowers the urine specific gravity",
+   "Cloudy urine is most often due to phosphaturia",
+   "Urine osmolality ranges from 50 to 1200 mOsm/L",
+   "Diabetes insipidus lowers urine specific gravity"
+  ],
+  "a": 0,
+  "e": [
+   "Dehydration raises specific gravity. It falls with high fluid intake, diuretics, reduced concentrating ability and diabetes insipidus. Osmolality measures dissolved solutes."
+  ],
+  "s": "Ch 1 History and physical examination; Ch 2"
+ },
+ {
+  "f": "mcq",
+  "t": "Ascorbic acid",
+  "q": "According to the book, high urinary ascorbic acid causes false-negative dipstick readings for:",
+  "o": [
+   "Specific gravity only",
+   "Protein and the pH",
+   "Ketones and protein",
+   "Glucose and bilirubin"
+  ],
+  "a": 3,
+  "e": [
+   "Ascorbic acid (vitamin C) gives false-negative glucose and bilirubin results (it can also interfere with other oxidation-based pads)."
+  ],
+  "s": "Ch 1 History and physical examination; Ch 2"
+ },
+ {
+  "f": "mcq",
+  "t": "Dipstick blood",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "A positive dipstick alone confirms microhaematuria",
+   "Dysmorphic RBCs with protein suggest a renal origin",
+   "Microscopy separates haematuria from haemoglobinuria",
+   "IgA nephropathy is the commonest glomerular cause"
+  ],
+  "a": 0,
+  "e": [
+   "A positive dipstick may mean haematuria, haemoglobinuria or myoglobinuria; confirm with microscopy of centrifuged urine (more than 3 RBC/HPF is abnormal). In one study, 26% of adults with at least one positive dipstick had significant urological disease. IgA nephropathy (Berger disease) causes about 30% of glomerular haematuria."
+  ],
+  "s": "Ch 1 History and physical examination; Ch 2"
+ },
+ {
+  "f": "mcq",
+  "t": "Transient proteinuria",
+  "q": "Which does NOT cause transient proteinuria?",
+  "o": [
+   "An acute febrile illness",
+   "Strenuous exercise",
+   "A recent ureteroscopy",
+   "Acute emotional stress"
+  ],
+  "a": 2,
+  "e": [
+   "Transient proteinuria is common, especially in children, and resolves within days; in older people heart failure can cause it. Glomerular proteinuria (raised capillary permeability, mainly albumin) is the commonest type, seen in primary glomerular disease such as IgA nephropathy or systemic disease such as diabetes."
+  ],
+  "s": "Ch 1 History and physical examination; Ch 2"
+ },
+ {
+  "f": "mcq",
+  "t": "Urinalysis numbers",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Nitrite dipstick specificity for bacteriuria exceeds 90%",
+   "Glucosuria appears above a serum glucose of about 180 mg/dL",
+   "Five bacteria/HPF in spun urine ≈ 100,000 CFU/mL",
+   "Squamous cells typically appear in tight clumps"
+  ],
+  "a": 3,
+  "e": [
+   "Squamous cells are large, with a small central nucleus about the size of a red cell and irregular, finely granular cytoplasm; clumping is not a feature. UTI is best diagnosed by microscopy showing pyuria and bacteria, confirmed by culture."
+  ],
+  "s": "Ch 1 History and physical examination; Ch 2"
+ },
+ {
+  "f": "mcq",
+  "t": "Microhaematuria workup",
+  "q": "A 62-year-old man (40 pack-years) has 30 RBC/HPF on a properly collected sample, with no benign cause. The appropriate initial evaluation is:",
+  "o": [
+   "Cystoscopy and CT urography",
+   "Renal ultrasound and urine cytology",
+   "CT urography with urinary NMP22 only",
+   "Cystoscopy, cytology and CT urography"
+  ],
+  "a": 0,
+  "e": [
+   "Asymptomatic microhaematuria is 3 or more RBC/HPF on a properly collected specimen without an obvious benign cause; a dipstick alone is not enough. Routine cytology is not part of the initial work-up; it is very specific for high-grade urothelial carcinoma and is used in surveillance or when suspicion is high. The book says renal ultrasound is not adequate on its own. AUA/SUFU 2020 stratifies risk: high risk (as here) gets cystoscopy and CT urography, intermediate risk cystoscopy and renal ultrasound, low risk repeat urinalysis or shared decision-making."
+  ],
+  "s": "Ch 2 Testing and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Uroflowmetry",
+  "q": "Which statement about uroflowmetry is FALSE?",
+  "o": [
+   "It cannot show where an obstruction is located",
+   "A voided volume of 80 mL gives an adequate study",
+   "It can be done sitting or standing as preferred",
+   "A Qmax above 20 mL/s argues against obstruction"
+  ],
+  "a": 1,
+  "e": [
+   "The book requires at least 100 mL voided for a valid study (many units aim for 150 mL). Parameters: Qmax, mean flow rate and voided volume. Order flow rate and post-void residual when outlet obstruction is suspected; urodynamics assess storage and voiding disorders."
+  ],
+  "s": "Ch 2 Testing and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Cystoscopy prophylaxis",
+  "q": "A healthy man is having simple diagnostic flexible cystoscopy. Antibiotic prophylaxis should be:",
+  "o": [
+   "Three days of oral antibiotic after",
+   "A single oral dose after the scope",
+   "Not given, as no risk factors exist",
+   "One IM ceftriaxone dose afterwards"
+  ],
+  "a": 2,
+  "e": [
+   "AUA guidance: no routine prophylaxis for office cystoscopy, urodynamics or cystography without risk factors (consider it for those with risk factors such as recent joint replacement in the book's text)."
+  ],
+  "s": "Ch 2 Testing and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Specimens and tests",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Use a catheter sample if recurrent UTI or likely contamination",
+   "Renal ultrasound alone is an adequate haematuria work-up",
+   "LE or nitrite alone (not both) needs microscopy and culture",
+   "Urine cytology is highly specific for high-grade carcinoma"
+  ],
+  "a": 1,
+  "e": [
+   "Ultrasound screens for hydronephrosis and medical renal disease but is not a stand-alone haematuria study. Stratify haematuria as glomerular or non-glomerular, medical or surgical. Order creatinine and eGFR if obstruction or renal disease is suspected. PSA is organ-specific and rises with BPH, prostatitis and gland volume as well as cancer."
+  ],
+  "s": "Ch 2 Testing and imaging"
+ },
+ {
+  "f": "mcq",
+  "t": "Stone imaging",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Non-contrast CT is the gold standard for urinary stones",
+   "Indinavir stones are easily seen on non-contrast CT",
+   "A KUB suits follow-up of known radio-opaque stones",
+   "Stones give a signal void on MR urography sequences"
+  ],
+  "a": 1,
+  "e": [
+   "Except for some indinavir stones, all renal and ureteric calculi show on helical CT. On MRI, calculi have no signal and appear as voids."
+  ],
+  "s": "Ch 2 Testing and imaging; Ch 3"
+ },
+ {
+  "f": "mcq",
+  "t": "Radiation units",
+  "q": "The quantity, in sieverts, that expresses cancer risk to patients from an imaging study is the:",
+  "o": [
+   "Entrance skin dose",
+   "Effective dose",
+   "Air kerma value",
+   "Absorbed dose"
+  ],
+  "a": 1,
+  "e": [
+   "Absorbed dose is measured in gray (1 rad = 1 cGy). Equivalent dose (Sv) weights absorbed dose for radiation type; effective dose (Sv) also weights for organ sensitivity, so it estimates whole-body cancer risk. Gonads and eyes are especially sensitive. Cancer is the main risk of diagnostic radiation."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Radiation levels",
+  "q": "A triple-phase CT of the abdomen and pelvis (without and with contrast) delivers roughly:",
+  "o": [
+   "Under 0.1 mSv (minimal)",
+   "1–10 mSv (moderate)",
+   "10 mSv or more (high)",
+   "0.1–1 mSv (low)"
+  ],
+  "a": 2,
+  "e": [
+   "The book quotes 25–40 mSv for a three-phase CT. US background exposure is about 6.2 mSv a year (NCRP 2012). Occupational limit: 50 mSv a year (NCRP; ICRP recommends 20 mSv a year averaged over 5 years). Fluoroscopy: short bursts, image intensifier as close to the patient as possible, maximum practical distance."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Inverse square law",
+  "q": "A staff member receives 9 mSv standing 1 foot from the source. At 3 feet, the exposure is about:",
+  "o": [
+   "3 mSv",
+   "0.09 mSv",
+   "27 mSv",
+   "1 mSv"
+  ],
+  "a": 3,
+  "e": [
+   "Exposure falls with the square of the distance: tripling distance gives one-ninth the dose."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Autonomic dysreflexia",
+  "q": "Bladder filling during cystography may precipitate autonomic dysreflexia in spinal cord injury at or above:",
+  "o": [
+   "L4",
+   "T10",
+   "T12",
+   "T6"
+  ],
+  "a": 3,
+  "e": [
+   "Autonomic dysreflexia is a sudden, dangerous surge in blood pressure; untreated it may cause seizures, stroke or death and is a medical emergency."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Metformin",
+  "q": "Which diabetic patient on metformin is at real risk of lactic acidosis after IV iodinated contrast?",
+  "o": [
+   "Normal eGFR; IV saline given on metformin",
+   "Normal eGFR; metformin not stopped",
+   "Stopped metformin 48 hours earlier",
+   "eGFR 20; took metformin on the scan day"
+  ],
+  "a": 3,
+  "e": [
+   "Metformin can accumulate after contrast in severe renal impairment, causing lactic acidosis (vomiting, diarrhoea, somnolence), fatal in about half. With normal renal function and no comorbidity, there is no need to stop metformin or recheck creatinine. ACR: withhold for 48 h in patients with eGFR <30 or AKI."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Contrast reactions",
+  "q": "Which statement about contrast reactions is FALSE?",
+  "o": [
+   "Hyperosmolar media react more than iso-osmolar ones",
+   "Severe anaphylactoid reactions are IgE-mediated",
+   "Severe reactions are not dose-dependent",
+   "Asthma and beta-blockers raise the risk"
+  ],
+  "a": 1,
+  "e": [
+   "Idiosyncratic anaphylactoid reactions are not IgE-mediated, are unpredictable and potentially fatal; about 85% occur during or just after injection. Risk factors: prior reaction, asthma, diabetes, renal or cardiac impairment, beta-blockers. Nausea, flushing, itch, urticaria and headache are common. High-risk patients get steroids 12–24 h before plus antihistamines. Iodinated media: ionic or non-ionic, monomer or dimer. Dilute contrast by half for retrograde pyelography to see filling defects; retrograde and loopogram studies carry a low reaction risk."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Anaphylaxis treatment",
+  "q": "After ABC, the treatment of choice for a severe contrast reaction without IV access is:",
+  "o": [
+   "SC 0.5 mg of 1:10,000 adrenaline into the upper arm",
+   "IV diphenhydramine 50 mg, then methylprednisolone",
+   "IM 0.01 mg/kg of 1:10,000 adrenaline into lateral thigh",
+   "IM 0.01 mg/kg of 1:1000 adrenaline into lateral thigh"
+  ],
+  "a": 3,
+  "e": [
+   "Adrenaline is the drug of choice. IM: 0.01 mg/kg of 1:1000 (1 mg/mL), maximum 0.3 mg if >30 kg (0.15 mg if <30 kg). IV: 0.01 mg/kg of 1:10,000 slowly, repeat every 5–15 minutes as needed."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Contrast nephropathy",
+  "q": "Which is NOT a listed risk factor for contrast-induced nephropathy?",
+  "o": [
+   "Ejection fraction of 45%",
+   "Advanced age with CHF",
+   "eGFR below 60 mL/min",
+   "Diabetes with dehydration"
+  ],
+  "a": 0,
+  "e": [
+   "The book's cardiac risk threshold is ejection fraction <40%. Other risks: CKD (eGFR <60), diabetes, dehydration, diuretics, age, heart failure, hypertension, low haematocrit and liver disease. Highest risk: diabetes plus pre-existing renal impairment."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Gadolinium and NSF",
+  "q": "Which statement about nephrogenic systemic fibrosis (NSF) is FALSE?",
+  "o": [
+   "It is an inherited disorder unmasked by gadolinium",
+   "It causes fibrosis of skin, subcutis and muscle",
+   "eGFR over 60 carries no clear excess risk of it",
+   "It occurs mainly with dialysis or an eGFR under 30"
+  ],
+  "a": 0,
+  "e": [
+   "NSF is acquired, not genetic, and occurs in acute or chronic renal failure with GFR <30. Book: use gadolinium if eGFR >30; GFR 30–60 is extremely low risk at ≤0.1 mmol/kg. (Newer macrocyclic 'group II' agents carry very low risk, and ACR now allows them when needed even at low eGFR.)"
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Diuretic renogram",
+  "q": "During diuretic renography, which statement is TRUE?",
+  "o": [
+   "A T½ over 14 minutes defines high-grade block",
+   "Gut or gallbladder MAG3 activity is never seen",
+   "A T½ under 10 minutes indicates no obstruction",
+   "DMSA is the agent of choice to test obstruction"
+  ],
+  "a": 2,
+  "e": [
+   "T½ <10 min: unobstructed; 10–20 min: equivocal; >20 min: obstructed. Pain after the diuretic can help decide on surgery in equivocal cases. DTPA is filtered (good for GFR). DMSA localises in the cortex (scars, ectopic tissue). MAG3 is cleared mainly by tubular secretion; hepatobiliary activity can appear, especially with poor renal function. A positive bone scan is not specific and cannot quantify disease; a superscan shows diffuse uptake without discrete lesions."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "PET",
+  "q": "Which statement about PET is TRUE?",
+  "o": [
+   "PET within 2 weeks of chemotherapy has a high PPV",
+   "FDG-PET beats MRI for the primary urothelial tumour",
+   "FDG-PET beats CT for residual masses after GCT chemo",
+   "FDG-PET reliably detects residual teratoma deposits"
+  ],
+  "a": 2,
+  "e": [
+   "FDG exploits increased glycolysis and reduced dephosphorylation in tumours, and is most useful for residual seminoma after chemotherapy. Teratoma is not FDG-avid. Scanning soon after chemotherapy gives false positives. Glucose, choline and amino acids have been used as PET tracers (PSMA tracers are now standard for prostate cancer)."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "MRI signal",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Calculi appear bright on T1-weighted images",
+   "Fluid is dark on T1 and bright on T2 images",
+   "Gadolinium brightens T1-weighted images",
+   "Haemorrhage in a cyst gives high T1 signal"
+  ],
+  "a": 0,
+  "e": [
+   "Calculi give no MRI signal (voids). MRI has high soft-tissue contrast and suits patients with iodine allergy. MRI and CT both show renal vein and IVC thrombus well; gadolinium uptake in thrombus means tumour, not bland clot. Hounsfield scale: air −1000, water 0, dense bone +1000."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenal MRI",
+  "q": "Chemical shift MRI identifies an adrenal adenoma because:",
+  "o": [
+   "Adenomas have little intracellular lipid to lose",
+   "Adenomas brighten on opposed-phase T1 imaging",
+   "Fat and water in a voxel cancel on opposed-phase",
+   "Gadolinium washout is read on delayed T2 images"
+  ],
+  "a": 2,
+  "e": [
+   "CSI uses T1-weighted in- and opposed-phase images without contrast; lipid-rich adenomas drop signal on opposed phase. The 'lightbulb' bright T2 sign is not specific: metastases and adrenocortical carcinoma are also bright, and 35% of phaeochromocytomas are low on T2."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Renal mass MRI",
+  "q": "Which pairing is correct?",
+  "o": [
+   "Clear cell RCC: signal drop on opposed phase",
+   "Urothelial cancer: central stellate T2 scar",
+   "Papillary RCC: central scar like oncocytoma",
+   "Chromophobe RCC: signal drop on opposed phase"
+  ],
+  "a": 0,
+  "e": [
+   "Intracytoplasmic lipid is found in 59% of clear cell RCCs, causing opposed-phase signal loss. Chromophobe RCC, like oncocytoma, may show a central scar on T2."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Multiparametric MRI",
+  "q": "In multiparametric prostate MRI, which is correctly classified?",
+  "o": [
+   "Anatomic: dynamic contrast-enhanced series",
+   "Anatomic: diffusion-weighted imaging series",
+   "Functional: T2-weighted triplanar images",
+   "Functional: ADC maps from diffusion imaging"
+  ],
+  "a": 3,
+  "e": [
+   "Anatomic: T1 and triplanar T2. Functional: DWI/ADC, dynamic contrast enhancement (uptake and washout) and spectroscopy (cancer: lower citrate, higher choline and creatine). The book quotes NPV and PPV above 90%. Reporting now uses PI-RADS."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "CT and contrast basics",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Air is −1000 HU, water 0 HU and dense bone +1000 HU",
+   "Retrograde pyelography carries a high reaction risk",
+   "Retrograde contrast is diluted to show filling defects",
+   "Iodinated media are ionic or non-ionic, monomer or dimer"
+  ],
+  "a": 1,
+  "e": [
+   "Retrograde studies and loopograms carry a low risk of contrast reaction. Diluting contrast by half with saline helps show filling defects."
+  ],
+  "s": "Ch 3 CT, MRI and plain film"
+ },
+ {
+  "f": "mcq",
+  "t": "Ultrasound physics",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Impedance depends on tissue stiffness and density",
+   "Large impedance mismatch at interfaces reflects sound",
+   "Echo amplitude sets the pixel brightness on B-mode",
+   "Ultrasound is a non-ionising electromagnetic wave"
+  ],
+  "a": 3,
+  "e": [
+   "Ultrasound is a mechanical wave producing compression and rarefaction. Amplitude (maximum excursion above and below baseline) reflects energy; returning amplitude sets brightness. One cycle per second is 1 Hz. Reflection depends on shape, size, angle of incidence and impedance difference."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ },
+ {
+  "f": "mcq",
+  "t": "Artefacts",
+  "q": "Which artefact–mechanism pair is correct?",
+  "o": [
+   "Comet tail: Doppler sampling rate set too low",
+   "Edging: refraction at a critical angle at an edge",
+   "Reverberation: less attenuation through fluid",
+   "Aliasing: repeated echoes between probe and object"
+  ],
+  "a": 1,
+  "e": [
+   "Edging: at a critical angle sound travels along the interface, leaving a dark shadow. Reverberation: multiple transits between probe and reflector. Increased through-transmission: less attenuation through fluid. Comet tail: interaction with fluid- and gas-filled structures such as bowel. Aliasing: a Doppler artefact."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ },
+ {
+  "f": "mcq",
+  "t": "Doppler",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Grey-scale imaging measures velocity of targets",
+   "Power Doppler shows direction but not amplitude",
+   "Harmonic imaging shows flow direction in vessels",
+   "Colour Doppler shows flow velocity and direction"
+  ],
+  "a": 3,
+  "e": [
+   "Power Doppler shows integrated amplitude of returning echoes. Grey-scale shows motion but not velocity or direction. Harmonic scanning and spatial compounding improve image quality. Resistive index = (peak systolic − end-diastolic velocity) / peak systolic velocity; used for renal artery stenosis, ureteric obstruction and penile arterial insufficiency."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ },
+ {
+  "f": "mcq",
+  "t": "Frequency and resolution",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Raising the gain raises acoustic power output",
+   "Raising frequency improves axial resolution",
+   "Raising frequency reduces depth penetration",
+   "The focal zone gives best lateral resolution"
+  ],
+  "a": 0,
+  "e": [
+   "Gain raises receiver sensitivity to returning echoes; acoustic power is the energy put into tissue. Lateral resolution depends on beam width, narrowest at the user-adjustable focal zone. Frequency is the main determinant of axial resolution."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ },
+ {
+  "f": "mcq",
+  "t": "Deep kidney",
+  "q": "In an obese adult, the right kidney is poorly seen with a 7.5 MHz linear probe. The best change is to:",
+  "o": [
+   "Use a 10 MHz high-frequency probe",
+   "Turn down the gain to cut noise",
+   "Add colour Doppler to improve the image",
+   "Use a 3.5–5 MHz curved array probe"
+  ],
+  "a": 3,
+  "e": [
+   "Deep structures (kidney, bladder) need 3.5–5 MHz, at the cost of axial resolution; 6–10 MHz suits superficial organs (testis, child's kidney). The curved array (3.5–6 MHz) is the usual probe for kidney and bladder."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ },
+ {
+  "f": "mcq",
+  "t": "Echogenicity",
+  "q": "Compared with normal liver, the normal adult renal cortex is usually:",
+  "o": [
+   "Hyperechoic",
+   "Anechoic",
+   "Isoechoic",
+   "Hypoechoic"
+  ],
+  "a": 3,
+  "e": [
+   "Echogenicity terms are relative, with the liver as the usual reference; the kidney is hypoechoic to liver in about 75% of adults. Darker = hypoechoic. By convention, the cephalad end of a structure is on the left of the image."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ },
+ {
+  "f": "mcq",
+  "t": "Complex cyst",
+  "q": "A 3 cm renal cyst on ultrasound has a thick septum. Without contrast, ultrasound is limited mainly because it:",
+  "o": [
+   "Suffers from refraction at the cyst wall",
+   "Cannot show whether the septum enhances",
+   "Shows reverberation inside the cyst",
+   "Lacks axial resolution at this depth"
+  ],
+  "a": 1,
+  "e": [
+   "Enhancement decides malignancy risk, and standard ultrasound cannot assess it (contrast-enhanced ultrasound now can). A simple cyst is well circumscribed and anechoic with a bright back wall, increased through-transmission and edging artefact; it has no internal nodule."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ },
+ {
+  "f": "mcq",
+  "t": "Torsion ultrasound",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Absent intratesticular flow is the sonographic hallmark",
+   "Doppler with the other testis for comparison is essential",
+   "Some intratesticular flow excludes significant torsion",
+   "The blue dot sign is a clinical sign of appendix torsion"
+  ],
+  "a": 2,
+  "e": [
+   "Flow may persist in some significant torsions, so torsion stays a clinical diagnosis. Peritesticular collateral flow can appear within hours. Epididymal oedema, fluid and increased epididymal flow are non-specific."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ },
+ {
+  "f": "mcq",
+  "t": "Bladder ultrasound",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Ureteroceles are usually well seen in a full bladder",
+   "A curved array probe is preferred for most bladders",
+   "An almost empty bladder gives the best bladder images",
+   "Wall, stones, diverticula and distal ureters are seen"
+  ],
+  "a": 2,
+  "e": [
+   "Image the bladder full. Bladder volume can be measured without 3D scanning. Ultrasound is not a sensitive screening test for bladder tumours."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ },
+ {
+  "f": "mcq",
+  "t": "TRUS views",
+  "q": "On a midline sagittal TRUS view, which is NOT normally seen?",
+  "o": [
+   "Tips of the seminal vesicles",
+   "Course of the ejaculatory duct",
+   "Median lobe of the prostate",
+   "Apex of the prostate gland"
+  ],
+  "a": 0,
+  "e": [
+   "Measure seminal vesicle length on axial views. A complete TRUS assesses rectal wall, seminal vesicles, ejaculatory ducts, bladder and prostate. Cancer may be hypoechoic, hyperechoic, asymmetric or hypervascular, so ultrasound alone rarely diagnoses it."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ },
+ {
+  "f": "mcq",
+  "t": "Ultrasound safety",
+  "q": "Under the ALARA principle the sonographer should preferably:",
+  "o": [
+   "Minimise gain and avoid the cine function",
+   "Maximise acoustic power and minimise gain",
+   "Maximise gain and minimise acoustic power",
+   "Maximise power and shorten the exam time"
+  ],
+  "a": 2,
+  "e": [
+   "Bioeffects come from heat and cavitation. ALARA: low power output, appropriate modes, short exams, correct focus and frequency, and cine-loop documentation. The single most important safety factor is an informed operator. After biopsy, the book requires a 'critical' disinfection protocol for TRUS probes (standard Spaulding practice: high-level disinfection of the probe, sterile needle guide)."
+  ],
+  "s": "Ch 4 Ultrasonography"
+ }
+]

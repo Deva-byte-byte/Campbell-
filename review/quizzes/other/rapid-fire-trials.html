@@ -1,0 +1,238 @@
+<title>Trials Rapid Fire</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one exam card at a time, narrow reading column, progress strip on top */
+:root {
+  --bg: #f3f5f6; --surface: #ffffff; --ink: #18232b; --muted: #5b6a74; --line: #d6dde1;
+  --accent: #1f5f7a; --accent-soft: #e2eef3;
+  --warn: #a8660b; --ok: #1d7a4c; --ok-soft: #e3f3ea; --bad: #b3352b; --bad-soft: #f8e4e1;
+  --f-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; padding: 0 16px; }
+.wrap { max-width: 720px; margin: 0 auto; padding-block: 28px 48px; display: grid; gap: 20px; }
+header { display: grid; gap: 6px; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(26px, 5vw, 34px); line-height: 1.15; margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; font-size: 15px; }
+
+.strip { display: grid; grid-template-columns: repeat(22, 1fr); gap: 3px; }
+.pip { height: 8px; border-radius: 2px; background: var(--line); border: 0; padding: 0; cursor: pointer; }
+.pip.ok { background: var(--ok); } .pip.bad { background: var(--bad); }
+.pip.cur { outline: 2px solid var(--accent); outline-offset: 2px; }
+.meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-family: var(--f-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 24px; display: grid; gap: 18px; }
+.qhead { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.qno { font-family: var(--f-mono); font-size: 13px; color: var(--accent); }
+.tag { font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); padding: 2px 8px; border-radius: 4px; }
+.stem { font-family: var(--f-display); font-size: 21px; line-height: 1.4; font-weight: 500; margin: 0; }
+.opts { display: grid; gap: 10px; }
+.opt { display: grid; grid-template-columns: 28px 1fr; gap: 12px; align-items: start; text-align: left; width: 100%;
+  font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; cursor: pointer; }
+.opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:focus-visible, .btn:focus-visible, .pip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.opt .k { font-family: var(--f-mono); font-size: 13px; width: 28px; height: 28px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--muted); }
+.opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.opt.sel .k { border-color: var(--accent); color: var(--accent); }
+.opt.right { border-color: var(--ok); background: var(--ok-soft); }
+.opt.right .k { border-color: var(--ok); color: var(--ok); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.opt.wrong .k { border-color: var(--bad); color: var(--bad); }
+.opt:disabled { cursor: default; }
+
+.verdict { font-weight: 600; }
+.verdict.ok { color: var(--ok); } .verdict.bad { color: var(--bad); }
+.explain { border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 10px; }
+.explain p, .explain ul { margin: 0; }
+.explain ul { padding-left: 20px; display: grid; gap: 4px; }
+.src { font-size: 13px; color: var(--muted); }
+
+.actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+.btn { font: inherit; font-weight: 600; border-radius: 8px; padding: 10px 18px; cursor: pointer; border: 1px solid var(--accent); }
+.btn.primary { background: var(--accent); color: var(--surface); }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:disabled { opacity: .45; cursor: default; }
+.hint { font-size: 13px; color: var(--muted); }
+
+.result { display: grid; gap: 14px; }
+.score { font-family: var(--f-display); font-size: 44px; font-weight: 600; line-height: 1; font-variant-numeric: tabular-nums; }
+.review { display: grid; gap: 6px; padding: 0; margin: 0; list-style: none; }
+.review li { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 15px; min-width: 0; }
+.review .n { font-family: var(--f-mono); font-size: 13px; color: var(--muted); }
+.review .s { font-family: var(--f-mono); font-size: 13px; font-weight: 500; }
+.review .s.ok { color: var(--ok); } .review .s.bad { color: var(--bad); }
+.review button { font: inherit; color: var(--ink); background: none; border: 0; padding: 0; text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.pip.part { background: var(--warn); } .pip.pend { background: var(--accent); opacity: .5; }
+.fig { margin: 0; display: grid; gap: 6px; overflow-x: auto; }
+.fig svg { width: 100%; min-width: 320px; height: auto; display: block; }
+.fig .grid line { stroke: var(--line); stroke-width: 1; }
+.fig .ax line { stroke: var(--muted); stroke-width: 1.5; }
+.fig .lbl, .fig text { fill: var(--muted); font-family: var(--f-mono); font-size: 12px; }
+.fig .trace { fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; }
+.fig .trace.dash { stroke-dasharray: 7 5; }
+.fig .mark { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 4; }
+.fig figcaption { font-size: 13px; color: var(--muted); }
+textarea { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px; width: 100%; resize: vertical; min-height: 140px; }
+textarea:focus-visible, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mine { display: grid; gap: 6px; } .mine p { margin: 0; white-space: pre-wrap; background: var(--bg); border-radius: 8px; padding: 12px; }
+.selfmark { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font: inherit; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.chip.on { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.review .s.part { color: var(--warn); }
+@media (max-width: 480px) { .card { padding: 18px; } .stem { font-size: 19px; } }
+@media (prefers-reduced-motion: no-preference) { .opt { transition: border-color .12s, background-color .12s; } }
+.line { font: inherit; font-size: 17px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; width: 100%; }
+.line:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.model { font-family: var(--f-display); font-size: 19px; line-height: 1.4; margin: 0; }
+.also { font-size: 14px; color: var(--muted); margin: 0; }
+.match { font-size: 13px; font-weight: 600; }
+.match.ok { color: var(--ok); } .match.no { color: var(--muted); }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">MCh Urology · Practice set 2 · Trials and recent advances</div>
+    <h1>22 one-line answers</h1>
+    <p class="sub">Type a one-line answer and press Enter. Compare it with the model line, then mark yourself.</p>
+  </header>
+  <div><div class="strip" id="strip" aria-label="Question progress"></div></div>
+  <div class="meta"><span id="pos"></span><span id="tally"></span></div>
+  <main id="stage"></main>
+</div>
+<script>
+const Q = [
+{ t:"Kidney cancer · Adjuvant", q:"Which adjuvant drug, in which trial, improved disease-free and overall survival after nephrectomy for high-risk clear-cell RCC (renal cell carcinoma)?",
+  a:"Pembrolizumab for 1 year: KEYNOTE-564.", x:"First adjuvant therapy to show an overall survival benefit in RCC (OS reported 2024). Earlier adjuvant TKI (tyrosine kinase inhibitor) trials did not show this.", k:["pembro","keynote"] },
+{ t:"Kidney cancer · Metastatic", q:"What did the CARMENA trial (Méjean, 2018) show?",
+  a:"Sunitinib alone was non-inferior to cytoreductive nephrectomy plus sunitinib in intermediate/poor-risk metastatic RCC.", x:"It does not mean nephrectomy is harmful in fit, low-burden, favourable-risk patients. Deferred nephrectomy remains an option for responders (SURTIME).", k:["sunitinib alone","non-inferior","noninferior","not needed","no benefit","without nephrectomy"] },
+{ t:"Bladder cancer · Adjuvant", q:"Which trial and drug established adjuvant immunotherapy after radical surgery for high-risk muscle-invasive urothelial carcinoma?",
+  a:"CheckMate 274: nivolumab for 1 year improved disease-free survival.", x:"It covered both bladder and upper-tract primaries. The benefit was clearest in tumours with PD-L1 (programmed death-ligand 1) of 1% or more.", k:["nivolumab","checkmate"] },
+{ t:"Bladder cancer · Perioperative", q:"Which trial added perioperative durvalumab to neoadjuvant gemcitabine–cisplatin before cystectomy and improved event-free and overall survival?",
+  a:"NIAGARA (2024).", x:"Durvalumab was given with gemcitabine–cisplatin before cystectomy and continued after it, in cisplatin-eligible MIBC (muscle-invasive bladder cancer).", k:["niagara"] },
+{ t:"Bladder cancer · Advanced", q:"Which first-line regimen for advanced urothelial carcinoma replaced platinum chemotherapy after EV-302?",
+  a:"Enfortumab vedotin plus pembrolizumab.", x:"EV-302 roughly doubled median overall survival compared with platinum chemotherapy (about 31 vs 16 months). Enfortumab vedotin is an antibody–drug conjugate directed at Nectin-4.", k:["enfortumab","padcev","ev+p","ev + p","ev-p"] },
+{ t:"NMIBC · Gene therapy", q:"What is nadofaragene firadenovec, and in whom is it used?",
+  a:"An intravesical, non-replicating adenoviral vector that delivers the interferon alfa-2b gene, used in BCG-unresponsive NMIBC with CIS (carcinoma in situ).", x:"It is instilled every 3 months. The NMIBC (non-muscle-invasive bladder cancer) indication is high-risk, BCG (bacillus Calmette-Guérin)-unresponsive disease, for patients unfit for or declining cystectomy.", k:["interferon","adenovir","gene"] },
+{ t:"NMIBC · Immunotherapy", q:"N-803 (nogapendekin alfa inbakicept) is given with what, and how does it work?",
+  a:"Intravesically with BCG; it is an IL-15 (interleukin-15) superagonist that activates NK (natural killer) cells and CD8+ T cells.", x:"QUILT-3.032 studied BCG-unresponsive CIS. Your chapter notes give a complete response rate of 45% at 12 months.", k:["il-15","il15","interleukin-15","interleukin 15"] },
+{ t:"NMIBC · Drug delivery", q:"What is TAR-200?",
+  a:"An intravesical device placed by cystoscopy that releases gemcitabine continuously over about 3 weeks, for BCG-unresponsive high-risk NMIBC.", x:"The SunRISe-1 trial reported high complete response rates in CIS. Continuous low-dose release gives uniform drug contact with little systemic toxicity.", k:["gemcitabine"] },
+{ t:"Upper tract · Adjuvant", q:"Which trial supports adjuvant platinum chemotherapy after nephroureterectomy for locally advanced UTUC (upper tract urothelial carcinoma)?",
+  a:"POUT (Birtle, Lancet 2020): improved disease-free survival.", x:"It included pT2–T4 or N+ disease. Gemcitabine–carboplatin was used when cisplatin was not possible because of reduced kidney function after nephroureterectomy.", k:["pout"] },
+{ t:"Prostate cancer · Diagnosis", q:"What did the PRECISION trial (Kasivisvanathan, NEJM 2018) show?",
+  a:"MRI with targeted biopsy found more clinically significant and fewer insignificant cancers than standard TRUS (transrectal ultrasound) biopsy.", x:"About 28% of men in the MRI arm avoided biopsy because their MRI was negative. The MRI-first pathway is now standard (EAU).", k:["mri"] },
+{ t:"Prostate cancer · Localised", q:"What were the key 15-year results of ProtecT (2023)?",
+  a:"Prostate-cancer mortality was low (about 3%) and did not differ significantly between active monitoring, prostatectomy and radiotherapy.", x:"Active monitoring had more metastases and progression, but no survival cost at 15 years. This supports surveillance for low-risk disease.", k:["no difference","not differ","similar","same","no significant"] },
+{ t:"Prostate cancer · Radiotherapy", q:"What did PACE-B (NEJM 2024) show?",
+  a:"Five-fraction SBRT (stereotactic body radiotherapy) was non-inferior to conventional or moderately hypofractionated radiotherapy for low/intermediate-risk localised prostate cancer.", x:"The primary end point was 5-year freedom from biochemical or clinical failure. It supports 5-fraction treatment.", k:["sbrt","stereotactic","five","5 fraction","5-fraction"] },
+{ t:"Prostate cancer · Recurrence", q:"In EMBARK (prostate cancer, 2023), which treatment improved metastasis-free survival in high-risk biochemical recurrence?",
+  a:"Enzalutamide plus leuprolide (and enzalutamide alone) compared with leuprolide alone.", x:"High risk meant a PSA doubling time of 9 months or less after radical treatment. Do not confuse it with the onabotulinumtoxinA OAB study of the same name.", k:["enzalutamide"] },
+{ t:"Prostate cancer · mHSPC", q:"What did ARASENS show in metastatic hormone-sensitive prostate cancer?",
+  a:"Adding darolutamide to ADT (androgen deprivation therapy) plus docetaxel improved overall survival (triplet therapy).", x:"PEACE-1 supports the same triplet idea, adding abiraterone to ADT plus docetaxel in de novo mHSPC.", k:["darolutamide"] },
+{ t:"Prostate cancer · Theranostics", q:"Which trial established lutetium-177 PSMA-617 in mCRPC (metastatic castration-resistant prostate cancer), and in which patients?",
+  a:"VISION: improved overall survival in PSMA-positive mCRPC already treated with an androgen-receptor pathway inhibitor and a taxane.", x:"Patients are selected by PSMA PET (positron emission tomography). It is a beta emitter that delivers radiation directly to PSMA-expressing cells.", k:["vision"] },
+{ t:"Stones · Lasers", q:"What is the wavelength of the thulium fibre laser, and why does it dust stones well?",
+  a:"1940 nm; it is closer to the water-absorption peak than holmium (2120 nm), so it ablates finely at low pulse energy and high frequency.", x:"About 4 times higher water absorption gives a lower ablation threshold, finer dust and less retropulsion.", k:["1940"] },
+{ t:"Stones · Medical expulsive therapy", q:"What did the SUSPEND trial (Pickard, Lancet 2015) conclude?",
+  a:"Tamsulosin or nifedipine did not increase spontaneous ureteric stone passage at 4 weeks compared with placebo.", x:"Later meta-analyses suggest benefit for distal stones larger than 5 mm. EAU still allows alpha-blockers for these.", k:["no benefit","not effective","no difference","did not","no improvement","ineffective"] },
+{ t:"BPH · Minimally invasive", q:"Which trial compared Aquablation with TURP (transurethral resection of the prostate), and what was the main advantage?",
+  a:"WATER: symptom improvement non-inferior to TURP, with less ejaculatory dysfunction.", x:"Aquablation is robot-guided, heat-free waterjet ablation planned on transrectal ultrasound. WATER studied prostates of 30–80 mL, and WATER II larger glands.", k:["water","ejacul"] },
+{ t:"BPH · Minimally invasive", q:"How does Rezūm water vapour therapy work?",
+  a:"Steam injected into the adenoma condenses and releases stored heat (convective thermal energy), causing cell death and later shrinkage.", x:"It is an office procedure that preserves erectile and ejaculatory function. The full effect appears over about 3 months.", k:["steam","vapour","vapor","convect","thermal"] },
+{ t:"Andrology · Safety", q:"What did the TRAVERSE trial (NEJM 2023) show about testosterone therapy?",
+  a:"In hypogonadal men with or at high risk of cardiovascular disease, testosterone was non-inferior to placebo for major adverse cardiac events.", x:"Atrial fibrillation, acute kidney injury and pulmonary embolism were more frequent with testosterone.", k:["non-inferior","noninferior","no increase","not increase","safe","mace"] },
+{ t:"Infection · Prevention", q:"Which non-antibiotic was non-inferior to daily low-dose antibiotic prophylaxis for recurrent UTI in women (ALTAR trial, 2022)?",
+  a:"Methenamine hippurate.", x:"It is hydrolysed to formaldehyde in acidic urine, so it does not select for resistant organisms.", k:["methenamine"] },
+{ t:"Transplant · Milestone", q:"When and where was the first genetically edited pig kidney transplanted into a living human?",
+  a:"March 2024, Massachusetts General Hospital, Boston.", x:"The recipient was Richard Slayman. The kidney came from a gene-edited pig (eGenesis) with pig retroviruses inactivated and human genes added.", k:["2024","massachusetts","mgh"] }
+];
+
+const STORE = "mch-rapid-trials-1";
+const N = Q.length;
+const fresh = () => ({ i: 0, ans: Array(N).fill(""), shown: Array(N).fill(false), grade: Array(N).fill(null) });
+let state = fresh();
+try { const s = JSON.parse(localStorage.getItem(STORE)); if (s && s.ans && s.ans.length === N) state = s; } catch (e) {}
+const save = () => { try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) {} };
+
+const stage = document.getElementById("stage"), strip = document.getElementById("strip");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+const fmt = x => Number.isInteger(x) ? String(x) : x.toFixed(1);
+const score = () => state.grade.reduce((n, g) => n + (g ?? 0), 0);
+const status = k => state.grade[k] === null ? (state.shown[k] ? "pend" : "") : state.grade[k] === 1 ? "ok" : state.grade[k] > 0 ? "part" : "bad";
+const hits = k => { const a = state.ans[k].toLowerCase(); return a && Q[k].k.some(w => a.includes(w)); };
+
+function renderStrip() {
+  strip.innerHTML = "";
+  Q.forEach((_, k) => {
+    const b = document.createElement("button");
+    b.className = "pip " + status(k) + (k === state.i ? " cur" : "");
+    b.setAttribute("aria-label", "Question " + (k + 1));
+    b.onclick = () => { state.i = k; save(); render(); };
+    strip.appendChild(b);
+  });
+  document.getElementById("pos").textContent = state.i < N ? `Question ${state.i + 1} of ${N}` : "Finished";
+  document.getElementById("tally").textContent = `${fmt(score())} marks · ${state.grade.filter(g => g !== null).length} marked`;
+}
+
+function render() {
+  renderStrip();
+  if (state.i >= N) return renderResult();
+  const k = state.i, it = Q[k], shown = state.shown[k], g = state.grade[k], last = k === N - 1;
+  stage.innerHTML = `<article class="card">
+    <div class="qhead"><span class="qno">Q${String(k + 1).padStart(2, "0")}</span><span class="tag">${it.t}</span></div>
+    <p class="stem">${it.q}</p>
+    ${shown ? `<div class="mine"><div class="eyebrow">Your line</div><p>${esc(state.ans[k]) || "<em>No answer written.</em>"}</p></div>`
+            : `<label class="eyebrow" for="ans-${k}">Your one-line answer</label><input class="line" id="ans-${k}" type="text" autocomplete="off" value="${esc(state.ans[k])}" placeholder="Type and press Enter">`}
+    ${shown ? `<div class="explain">
+        <div class="eyebrow">Model answer</div>
+        <p class="model">${it.a}</p>
+        <p class="also">${it.x}</p>
+        <span class="match ${hits(k) ? "ok" : "no"}">${hits(k) ? "Your line contains the key term." : "Key term not found in your line. Check the meaning yourself."}</span>
+        <div class="selfmark" role="group" aria-label="Mark yourself"><span class="hint">Mark yourself:</span>
+          ${[[1,"Got it (1)"],[0.5,"Partly (½)"],[0,"Missed (0)"]].map(([v,l]) => `<button class="chip${g === v ? " on" : ""}" data-g="${v}">${l}</button>`).join("")}
+        </div></div>` : ""}
+    <div class="actions"><button class="btn ghost" id="prev" ${k === 0 ? "disabled" : ""}>Previous</button>
+      ${shown ? `<button class="btn primary" id="next" ${g === null ? "disabled" : ""}>${last ? "See results" : "Next question"}</button>`
+              : `<button class="btn primary" id="show">Show answer</button>`}</div>
+  </article>`;
+  const inp = document.getElementById("ans-" + k);
+  if (inp) { inp.oninput = () => { state.ans[k] = inp.value; save(); }; inp.onkeydown = e => { if (e.key === "Enter") { e.preventDefault(); reveal(); } }; inp.focus({ preventScroll: true }); }
+  stage.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.grade[k] = +b.dataset.g; save(); render(); });
+  const s = document.getElementById("show"); if (s) s.onclick = reveal;
+  const n = document.getElementById("next"); if (n) n.onclick = next;
+  document.getElementById("prev").onclick = () => { if (state.i > 0) { state.i--; save(); render(); } };
+}
+function reveal() { state.shown[state.i] = true; save(); render(); }
+function next() {
+  const k = state.i; if (state.grade[k] === null) return;
+  const open = state.grade.findIndex((g, j) => g === null && j > k);
+  state.i = open === -1 ? (state.grade.every(g => g !== null) ? N : state.grade.indexOf(null)) : open;
+  save(); render(); window.scrollTo({ top: 0 });
+}
+function renderResult() {
+  const r = score();
+  const mark = k => ({ ok: `<span class="s ok">✓</span>`, part: `<span class="s part">½</span>`, bad: `<span class="s bad">✗</span>` }[status(k)] || `<span class="s">–</span>`);
+  stage.innerHTML = `<article class="card result">
+    <div class="eyebrow">Your score</div><div class="score">${fmt(r)} / ${N}</div>
+    <p class="sub">${Math.round(r / N * 100)}%. Tap any topic to see its model answer again.</p>
+    <ul class="review">${Q.map((it, k) => `<li><span class="n">${k + 1}</span><button data-k="${k}">${it.t}</button>${mark(k)}</li>`).join("")}</ul>
+    <div class="actions"><button class="btn ghost" id="reset">Start again</button></div></article>`;
+  stage.querySelectorAll(".review button").forEach(b => b.onclick = () => { state.i = +b.dataset.k; save(); render(); });
+  document.getElementById("reset").onclick = () => { state = fresh(); save(); render(); };
+}
+render();
+</script>

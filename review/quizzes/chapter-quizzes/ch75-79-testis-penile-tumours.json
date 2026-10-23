@@ -1,0 +1,1138 @@
+[
+ {
+  "f": "mcq",
+  "t": "Retroperitoneal contents",
+  "q": "Which statement about the retroperitoneum is FALSE?",
+  "o": [
+   "The 2nd and 3rd parts of the duodenum are retroperitoneal",
+   "The diaphragm is its cranial limit; the pelvis its caudal limit",
+   "The transverse colon is retroperitoneal, like the ascending",
+   "The lumbodorsal fascia has three layers over the back muscles"
+  ],
+  "a": 2,
+  "e": [
+   "The transverse colon is intraperitoneal. Retroperitoneal contents: kidneys, ureters, adrenals, pancreas, 2nd and 3rd parts of the duodenum, ascending and descending colon, aorta and IVC with their branches, lymphatics, sympathetic trunk and lumbosacral plexus. The space is bounded in front by the posterior peritoneum and behind by the posterior abdominal wall. The lumbodorsal fascia merges anterolaterally with transversus abdominis. Psoas major (anterior rami L1–L3) flexes the thigh at the hip, as does iliacus. The white line of Toldt marks the lateral edge of fusion of the colonic mesentery with the posterior peritoneum."
+  ],
+  "s": "Ch 75 Retroperitoneal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Perirenal space",
+  "q": "A 32-year-old urologist has grade 2 renal trauma after a motorcycle crash. If the perirenal haematoma keeps expanding, it will most likely track:",
+  "o": [
+   "Laterally, through the lateroconal fascia",
+   "Cranially, towards the bare area of the liver",
+   "Caudally, towards the extraperitoneal pelvis",
+   "Medially, across the midline to the other side"
+  ],
+  "a": 2,
+  "e": [
+   "The perirenal space (inside Gerota fascia) is cone-shaped and open caudally into the extraperitoneal pelvis, so perinephric collections expand downward. The anterior and posterior laminae of Gerota fascia merge laterally as the lateroconal fascia, which separates the anterior and posterior pararenal spaces and is visible on CT. The posterior pararenal space lies between the posterior lamina in front and the transversalis fascia behind and laterally. The transversalis fascia lies directly deep to transversus abdominis. Embryology: the outer stratum becomes the transversalis fascia, the intermediate stratum is associated with the urinary organs (kidneys arise from mesoderm), and the inner stratum with the GI organs."
+  ],
+  "s": "Ch 75 Retroperitoneal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Ribs and intercostal bundle",
+  "q": "Which statement is TRUE for planning a flank incision?",
+  "o": [
+   "The umbilicus is a steadier landmark than bony points in flank position",
+   "The intercostal bundle runs between external and internal muscles",
+   "The 10th, 11th and 12th ribs are floating ribs without sternal link",
+   "The intercostal bundle runs between internal and innermost muscles"
+  ],
+  "a": 3,
+  "e": [
+   "The intercostal vessels and nerve run between the internal intercostal and innermost intercostal muscles, in the costal groove on the lower (caudal) margin of the rib above. Only the 11th and 12th ribs are floating ribs. Bony landmarks are best for planning incisions because they do not move; the umbilicus shifts with position (for example a pannus in the flank position). A fracture of the lower ribs should raise suspicion of injury to retroperitoneal organs."
+  ],
+  "s": "Ch 75 Retroperitoneal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Adrenal and renal hilum vessels",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "The middle adrenal artery usually arises directly from the aorta",
+   "The superior adrenal artery arises from the inferior phrenic artery",
+   "At the renal hilum (about L1), the renal vein lies in front of the artery",
+   "The inferior adrenal artery usually arises from the superior mesenteric artery"
+  ],
+  "a": 3,
+  "e": [
+   "The inferior adrenal artery arises from the renal artery. So the adrenal has three arterial sources: inferior phrenic, aorta and renal artery. The renal hila lie at about L1 with the veins anterior to the arteries. The paired gonadal arteries usually arise anterolaterally from the aorta below the renal arteries."
+  ],
+  "s": "Ch 75 Retroperitoneal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "IMA ligation",
+  "q": "During left para-aortic dissection the inferior mesenteric artery (IMA) must be divided. The colon usually survives because of collateral flow through the:",
+  "o": [
+   "Lumbar arteries, which run on to perfuse the sigmoid mesocolon directly",
+   "Ileocolic artery and its branches reaching the sigmoid mesocolon",
+   "Marginal artery of Drummond plus middle and inferior rectal arteries",
+   "Coeliac trunk through the superior pancreaticoduodenal arcade"
+  ],
+  "a": 2,
+  "e": [
+   "IMA branches: left colic, sigmoid and superior rectal (haemorrhoidal) arteries. The marginal artery of Drummond (from the SMA) and the middle and inferior rectal arteries supply collaterals, so the IMA can be sacrificed. The SMA (inferior pancreaticoduodenal, small bowel, ileocolic, right colic and middle colic arteries) cannot: ligation causes catastrophic bowel ischaemia, although the pancreas survives through coeliac collaterals. Splenic vein tributaries: inferior mesenteric, short gastric, left gastroepiploic and pancreatic veins; the right gastroepiploic vein drains to the SMV. The mesentery is continuous and has GI, immune, endocrine and vascular functions. Small mesenteric defects carry a higher risk of internal hernia than large ones, so close them."
+  ],
+  "s": "Ch 75 Retroperitoneal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Right-sided plane",
+  "q": "After mobilising the right colon for transperitoneal surgery, the plane developed to find the ureter before the hilum is:",
+  "o": [
+   "Medial to the gonadal vein, leaving the vein laterally",
+   "Behind the IVC, lifting the cava forward off the psoas",
+   "Medial to the IVC, entering the interaortocaval space",
+   "Lateral to the gonadal vein, leaving the vein medially"
+  ],
+  "a": 3,
+  "e": [
+   "Developing the plane medial to the gonadal vein risks IVC injury, and lifting the kidney may avulse the gonadal vein. The ureter is found at the lower pole of the kidney, passing behind the gonadal vein, and crosses in front of the common iliac artery into the pelvis. Ureteric blood supply comes from the medial side proximally (renal artery, aorta) and from the lateral side distally (internal iliac, superior and inferior vesical arteries)."
+  ],
+  "s": "Ch 75 Retroperitoneal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Gonadal veins",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "A new right varicocele should prompt retroperitoneal imaging",
+   "The left ovarian vein drains into the IVC, as on the right",
+   "The right gonadal vein drains obliquely into the IVC",
+   "The left gonadal vein enters the left renal vein at a right angle"
+  ],
+  "a": 1,
+  "e": [
+   "Ovarian and testicular veins drain alike: right into the IVC, left into the left renal vein. The longer left vein with its perpendicular entry explains why varicoceles are commoner on the left. A sudden right-sided varicocele suggests a renal or retroperitoneal mass obstructing outflow."
+  ],
+  "s": "Ch 75 Retroperitoneal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Testis lymphatics",
+  "q": "Lymph from a right testicular tumour drains:",
+  "o": [
+   "Mainly left para-aortic, with some flow to the interaortocaval nodes",
+   "Only to the right paracaval nodes; flow to the left side does not occur",
+   "First to superficial inguinal, then deep inguinal and external iliac",
+   "Mainly interaortocaval, some right paracaval, a little left para-aortic"
+  ],
+  "a": 3,
+  "e": [
+   "The testes are embryologically retroperitoneal, so their blood supply and primary lymph drainage are retroperitoneal. Right testis: interaortocaval first, then paracaval/precaval, with a small but real flow to the left para-aortic nodes. Left testis: para-aortic and preaortic, with some interaortocaval. Retroperitoneal lymph flows from right to left, so contralateral spread is commoner with right-sided tumours."
+  ],
+  "s": "Ch 75 Retroperitoneal anatomy; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Autonomic nerves",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "The superior hypogastric plexus extends from the aorta to L5",
+   "Parasympathetic ganglia lie mainly in chains beside the sympathetic trunk",
+   "Parasympathetic outflow is cranial nerves III, VII, IX, X and S2–S4",
+   "Sympathetic preganglionic fibres leave the cord from T1 to L2"
+  ],
+  "a": 1,
+  "e": [
+   "Parasympathetic postganglionic neurons usually lie in or near the walls of the organs they supply. Sympathetic preganglionic fibres (T1–L2) synapse in the sympathetic trunk or in the autonomic plexuses. The superior hypogastric plexus starts at the lower end of the aorta and runs over the front of L5, continuous with the inferior hypogastric plexus. Damage during retroperitoneal dissection causes loss of seminal emission or failure of bladder-neck closure, giving retrograde ejaculation. The somatic lumbosacral plexus supplies the pelvis and legs."
+  ],
+  "s": "Ch 75 Retroperitoneal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "Genitofemoral and obturator nerves",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "The genitofemoral nerve arises from L1–L2 and runs on psoas",
+   "It can be injured when a psoas hitch is sutured to the muscle",
+   "Obturator nerve injury mainly weakens abduction of the hip",
+   "Its genital branch supplies the cremaster and anterior scrotum"
+  ],
+  "a": 2,
+  "e": [
+   "The obturator nerve supplies the medial thigh: gracilis, adductor longus, brevis and magnus, and obturator externus, so injury weakens adduction (and rotation). The femoral branch of the genitofemoral nerve supplies skin of the upper anterior thigh; the genital branch gives the motor limb of the cremasteric reflex and sensation to the anterior scrotum (mons and labium majus in women)."
+  ],
+  "s": "Ch 75 Retroperitoneal anatomy"
+ },
+ {
+  "f": "mcq",
+  "t": "GCNIS",
+  "q": "Which adult testicular tumour does NOT arise from germ cell neoplasia in situ (GCNIS)?",
+  "o": [
+   "Choriocarcinoma",
+   "Embryonal carcinoma",
+   "Classic seminoma",
+   "Spermatocytic tumour"
+  ],
+  "a": 3,
+  "e": [
+   "GCNIS is the common precursor of all adult GCTs except spermatocytic tumour; paediatric GCTs also do not usually arise from GCNIS. Adult GCTs carry extra copies of 12p (isochromosome 12p). Risk factors: cryptorchidism, family history, previous testicular cancer and GCNIS. GCTs are bilateral in about 2%. Testicular microlithiasis in the contralateral testis of a man with a previous GCT is linked to GCNIS; in the general population its meaning is unclear."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Spermatocytic tumour",
+  "q": "A 58-year-old man has orchiectomy for a spermatocytic tumour (small basophilic cells with multinucleated giant cells). CT and markers are normal. Advise:",
+  "o": [
+   "Para-aortic radiotherapy, then follow-up",
+   "One cycle of carboplatin at AUC 7",
+   "Biopsy of the contralateral testis",
+   "Follow-up alone, no adjuvant therapy"
+  ],
+  "a": 3,
+  "e": [
+   "Spermatocytic tumour does not arise from GCNIS, is not linked to cryptorchidism, does not express i(12p) or PLAP, and does not occur as part of a mixed GCT. Metastasis is exceptional (the book cites a single documented case), so orchiectomy almost always cures it. (The book also says bilaterality has not been reported; not tested here.)"
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Marker profile",
+  "q": "A 24-year-old has a solid right testicular mass. hCG 96 mIU/mL (ULN 5) and AFP 58 ng/mL (ULN 11). The most likely pure histology is:",
+  "o": [
+   "Choriocarcinoma",
+   "Embryonal carcinoma",
+   "Yolk sac tumour",
+   "Classic seminoma"
+  ],
+  "a": 1,
+  "e": [
+   "Pure embryonal carcinoma can make both AFP and hCG. Seminoma raises hCG in about 15% (syncytiotrophoblasts) but never AFP; a raised AFP means non-seminomatous elements. Choriocarcinoma always makes hCG but not AFP. Most yolk sac tumours make AFP but not hCG. Pure teratoma usually has normal markers, though AFP may be slightly raised. Half-lives: AFP 5–7 days, hCG 24–36 hours, LDH about 24 hours."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Very high hCG",
+  "q": "A 42-year-old has NSGCT with 10% choriocarcinoma. hCG rose from 15,000 to 50,800 mIU/mL after orchiectomy, with lung and retroperitoneal metastases. Before chemotherapy, the next step is:",
+  "o": [
+   "Whole-body bone scintigraphy",
+   "Primary RPLND of the masses",
+   "Repeat hCG in a week",
+   "CT or MRI of the brain"
+  ],
+  "a": 3,
+  "e": [
+   "Choriocarcinoma spreads by blood, widely; suspect brain metastases with any very high hCG and image the brain. These vascular tumours can bleed during chemotherapy, which is catastrophic in the brain. Brain metastases (non-pulmonary visceral) mean poor risk. Any patient with hCG above 5000 mIU/mL at the start of chemotherapy should get four cycles of BEP, not three. Other GCTs spread mainly by lymphatics to the retroperitoneum first; paediatric yolk sac tumours may also spread by blood."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Testis-sparing surgery",
+  "q": "Which is an accepted indication for testis-sparing surgery?",
+  "o": [
+   "1.3 cm solid mass and a normal other testis",
+   "Likely epidermoid cyst, normal other testis",
+   "2.4 cm solid mass in a solitary normal testis",
+   "1.2 cm mass in a solitary testis, hypogonadal"
+  ],
+  "a": 1,
+  "e": [
+   "For a suspected GCT, consider partial orchiectomy only when the tumour is small (<2 cm), testicular androgen production is normal, and the testis is solitary or the tumours are bilateral and synchronous. With a normal contralateral testis, do radical orchiectomy. Suspected benign lesions (epidermoid cyst, adenomatoid tumour of the tunica) are prime candidates. In a hypogonadal or infertile man, saving poorly functioning tissue is outweighed by the risk of incomplete resection or recurrence. A small echogenic 'burned-out' lesion in disseminated NSGCT needs orchiectomy, not sparing."
+  ],
+  "s": "Ch 76 Neoplasms of the testis; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "IGCCCG",
+  "q": "Which patient is NOT in the IGCCCG poor-risk group?",
+  "o": [
+   "NSGCT, post-orchiectomy AFP 15,000 ng/mL",
+   "Testis seminoma with brain metastases",
+   "Primary mediastinal nonseminomatous GCT",
+   "NSGCT, post-orchiectomy hCG 93,000 mIU/mL"
+  ],
+  "a": 1,
+  "e": [
+   "There is no poor-risk group for seminoma; seminoma with non-pulmonary visceral metastases (liver, bone, brain) is intermediate risk. NSGCT is poor risk with a mediastinal primary, non-pulmonary visceral metastases, AFP >10,000 ng/mL, hCG >50,000 mIU/mL, or LDH >10 × ULN. Classification uses post-orchiectomy markers. A 2021 IGCCCG update refined these models but kept the three groups."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Markers before staging",
+  "q": "A 37-year-old has a left mixed GCT, a 6 cm para-aortic mass, and pre-orchiectomy AFP 1100 ng/mL and hCG 80 mIU/mL. The next best step is:",
+  "o": [
+   "CT-guided biopsy of the para-aortic mass first",
+   "Start BEP × 3 using the pre-orchiectomy marker values",
+   "Primary nerve-sparing RPLND of the para-aortic mass",
+   "Repeat the markers after orchiectomy to assign the risk group"
+  ],
+  "a": 3,
+  "e": [
+   "Do not decide on pre-orchiectomy markers. Recheck after orchiectomy (about a week) to see whether they are falling, stable or rising; IGCCCG risk group, and hence three versus four cycles, depends on post-orchiectomy levels. Rising or persistent markers after orchiectomy mean systemic chemotherapy, not RPLND."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Isolated hilar nodes",
+  "q": "A 34-year-old man of African descent has a 1.2 cm pT1 seminoma, normal markers and a normal abdomen, but bulky bilateral hilar nodes. Next:",
+  "o": [
+   "Four cycles of EP chemotherapy",
+   "Mediastinoscopy and biopsy",
+   "Four cycles of BEP chemotherapy",
+   "Repeat chest CT in three months"
+  ],
+  "a": 1,
+  "e": [
+   "Distant metastases without retroperitoneal disease or raised markers are uncommon, especially in seminoma. Obtain tissue before treatment; sarcoidosis (or a sarcoid-like reaction) is a common mimic."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Seminoma not responding",
+  "q": "Six months after dog-leg RT for stage IIA seminoma, a 2 cm para-aortic node has grown to 2.8 cm. Markers are normal. Next:",
+  "o": [
+   "Salvage TIP chemotherapy for 4 cycles",
+   "Observe until it regresses or spreads",
+   "Biopsy to look for non-seminoma elements",
+   "RPLND without first getting a tissue diagnosis"
+  ],
+  "a": 2,
+  "e": [
+   "Seminoma can transform into NSGCT elements; suspect this when metastatic seminoma fails to respond. Get histology (CT-guided, or open/laparoscopic biopsy if CT-guided fails). Do not perform RPLND without histological proof of NSGCT. Teratoma at metastatic sites is much less of a concern in seminoma than in NSGCT."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "GCNIS treatment",
+  "q": "A 41-year-old azoospermic man has GCNIS in an atrophic right testis. The left testis is normal with spermatogenesis on biopsy; hormones are normal. Best treatment:",
+  "o": [
+   "Two cycles of carboplatin for the GCNIS",
+   "Observation with six-monthly ultrasound",
+   "Inguinal orchiectomy of the atrophic right testis",
+   "Low-dose radiotherapy to the right testis"
+  ],
+  "a": 2,
+  "e": [
+   "Orchiectomy and low-dose radiotherapy give the best local control of GCNIS. With a normal contralateral testis (especially if paternity is wanted) choose orchiectomy, because scattered radiation harms spermatogenesis in the other testis. After radiotherapy for GCNIS, about 40% need testosterone replacement. Untreated GCNIS carries about a 50% risk of invasive GCT; chemotherapy does not reliably eradicate it."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Occult metastasis predictors",
+  "q": "In clinical stage I NSGCT, which is NOT linked to occult metastases?",
+  "o": [
+   "Raised pre-orchiectomy AFP",
+   "Lymphovascular invasion present",
+   "Predominant embryonal carcinoma",
+   "Higher pT stage (cord, scrotum)"
+  ],
+  "a": 0,
+  "e": [
+   "About 25% (20–30%) of clinical stage I NSGCT have occult metastases and about 25% relapse on surveillance, mostly within 2 years and rarely after 5. Predictors: lymphovascular invasion, high percentage of embryonal carcinoma, higher T stage (cord, capsule or scrotal involvement). Pre-orchiectomy markers do not predict; markers still raised after orchiectomy mean systemic disease. In seminoma the predictors are size >4 cm and rete testis invasion, and lymphovascular invasion is not predictive. Absence of teratoma in the primary does not exclude it in the retroperitoneum."
+  ],
+  "s": "Ch 76 Neoplasms of the testis; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Unreliable patient",
+  "q": "A 27-year-old prisoner with hepatitis C has low-risk stage I NSGCT (no LVI, normal markers). He is unlikely to attend follow-up. Best option:",
+  "o": [
+   "Primary nerve-sparing RPLND",
+   "Surveillance with CT scans",
+   "One cycle of adjuvant BEP",
+   "Adjuvant dog-leg radiotherapy"
+  ],
+  "a": 2,
+  "e": [
+   "Adjuvant chemotherapy gives the lowest relapse risk, so it suits patients who will not comply with surveillance, even at low risk. RPLND and chemotherapy give similar long-term cure, but chemotherapy avoids surgical exposure to a blood-borne virus. Radiotherapy and carboplatin are treatments for stage I seminoma, not NSGCT."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Indeterminate node",
+  "q": "A low-risk stage I NSGCT has normal markers and a 7 mm paracaval nodule below the right hilum. Next:",
+  "o": [
+   "CT-guided biopsy of the node",
+   "Two cycles of BEP chemotherapy",
+   "Primary RPLND as stage IIA",
+   "Observation with repeat CT"
+  ],
+  "a": 3,
+  "e": [
+   "Retroperitoneal nodes under 1 cm can be false positives, especially outside the primary landing zone, so observe closely. A CT-guided biopsy of a 7 mm node next to the renal vessels is technically difficult."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Stage II NSGCT",
+  "q": "In clinical stage IIA–B NSGCT, which is NOT a reason to choose induction chemotherapy over RPLND?",
+  "o": [
+   "Lymphovascular invasion in the primary tumour",
+   "Nodes outside the primary landing zone",
+   "Raised post-orchiectomy serum hCG level",
+   "Retroperitoneal node mass over 3 cm"
+  ],
+  "a": 0,
+  "e": [
+   "Raised post-orchiectomy markers, bulky (>3 cm) nodes and nodes outside the landing zone predict systemic relapse after RPLND, so these patients get induction chemotherapy. Lymphovascular invasion predicts occult metastases in stage I but not distant spread in stage II. Scrotal invasion by the primary raises the risk of inguinal (non-regional) node metastases. Best RPLND candidates: stage IIA, and IIB with low-volume (<3 cm) ipsilateral disease."
+  ],
+  "s": "Ch 76 Neoplasms of the testis; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Residual mass histology",
+  "q": "After first-line chemotherapy for NSGCT, which statement is FALSE?",
+  "o": [
+   "No teratoma in the primary favours necrosis in the mass",
+   "Lymphovascular invasion predicts residual mass histology",
+   "No model reliably excludes teratoma in masses over 1 cm",
+   "Greater percentage shrinkage favours necrosis or fibrosis"
+  ],
+  "a": 1,
+  "e": [
+   "Lymphovascular invasion has no bearing on residual-mass histology. Absence of teratoma in the primary, smaller pre- and post-chemotherapy size and greater shrinkage favour necrosis, but none is accurate enough, so with normal markers resect any residual mass >1 cm. After first-line chemotherapy: about 40% necrosis/fibrosis, 45% teratoma, 15% viable GCT. After salvage chemotherapy: about 50% viable GCT, 40% teratoma, 10% fibrosis. Teratoma behaves unpredictably and must be completely removed."
+  ],
+  "s": "Ch 76 Neoplasms of the testis; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Multiple residual sites",
+  "q": "After BEP × 3 for good-risk NSGCT (markers normal), residual masses are 1.7 cm interaortocaval, 0.8 cm para-aortic, and 0.6 and 0.8 cm in both lungs. Next:",
+  "o": [
+   "Bilateral PC-RPLND first",
+   "Bilateral thoracotomy first",
+   "Second-line VIP chemotherapy",
+   "Resect only the 1.7 cm mass"
+  ],
+  "a": 0,
+  "e": [
+   "About one-third have residual masses at several sites; histology differs between sites in 22–46%, so all measurable residual disease is usually resected. Do the RPLND first, because necrosis in the retroperitoneum strongly predicts necrosis elsewhere (89% for the chest; about 94% concordance for liver). Small masses at other sites may then be observed. Viable malignancy at resection usually earns two more cycles; a full second-line course is for marker or radiological progression."
+  ],
+  "s": "Ch 76 Neoplasms of the testis; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Late relapse",
+  "q": "Which statement about late relapse of GCT is FALSE?",
+  "o": [
+   "Teratoma is commonest; yolk sac is the commonest viable type",
+   "It is defined as relapse more than 2 years after cure",
+   "Resectable disease is treated with chemotherapy first, then RPLND",
+   "The retroperitoneum is the commonest site of late relapse"
+  ],
+  "a": 2,
+  "e": [
+   "Late relapse after chemotherapy is often yolk sac tumour and relatively chemoresistant whatever the histology, so resectable disease is primarily removed surgically. Teratoma is the commonest histology overall (slow doubling, chemoresistance). It occurs in 2–4%, its incidence is rising, and somatic-type malignancy is commoner. Chemo-naive patients do better. Older data gave late relapse a worse prognosis; newer data show cure rates (50–60% disease-free) similar to early relapse. Long follow-up is needed."
+  ],
+  "s": "Ch 76 Neoplasms of the testis; Ch 77; Ch 78"
+ },
+ {
+  "f": "mcq",
+  "t": "Growing mass, normal markers",
+  "q": "After BEP × 3 for stage IIC NSGCT (teratoma in the primary) AFP normalised, but the solid para-aortic mass grew from 5.3 to 8.9 cm with new iliac nodes and back pain. Next:",
+  "o": [
+   "Second-line TIP",
+   "CT-guided biopsy",
+   "Immediate RPLND",
+   "High-dose chemo"
+  ],
+  "a": 1,
+  "e": [
+   "Growth with normal markers suggests growing teratoma syndrome or teratoma with malignant transformation. A solid enlarging mass with new sites suggests a malignant process; a cystic enlarging mass suggests growing teratoma. Biopsy, because transformation (rhabdomyosarcoma, adenocarcinoma, neuroendocrine tumours) changes the choice of chemotherapy."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Carboplatin rationale",
+  "q": "The case for single-dose carboplatin in stage I seminoma rests on all EXCEPT:",
+  "o": [
+   "Efficacy equal to cisplatin in advanced GCT",
+   "No teratoma to worry about in pure seminoma",
+   "Less ototoxicity and nephrotoxicity",
+   "Clearly less neurotoxicity than with cisplatin"
+  ],
+  "a": 0,
+  "e": [
+   "Every randomised trial in advanced GCT comparing cisplatin- and carboplatin-based regimens favoured cisplatin. Carboplatin is used for its lower toxicity and 65–90% responses in advanced seminoma. In stage I seminoma, one dose of carboplatin (AUC 7) was non-inferior to radiotherapy for relapse (MRC TE19/EORTC trial)."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Dog-leg radiotherapy",
+  "q": "Which is NOT a recognised late effect of infradiaphragmatic dog-leg radiotherapy?",
+  "o": [
+   "Impaired spermatogenesis",
+   "Second malignant neoplasm",
+   "Ejaculatory dysfunction",
+   "Peptic ulcer disease"
+  ],
+  "a": 2,
+  "e": [
+   "Radiotherapy causes infertility by damaging the germinal epithelium, not by ejaculatory failure; ejaculatory dysfunction is a complication of RPLND. Other late effects: peptic ulcer, coronary artery disease and second cancers (book: 18% at 25 years)."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Seminoma surveillance",
+  "q": "The rationale for surveillance in stage I seminoma includes all EXCEPT:",
+  "o": [
+   "It avoids radiotherapy and carboplatin toxicity",
+   "Orchiectomy alone cures 80–85% of patients",
+   "Relapses are cured by deferred treatment",
+   "Markers detect most seminoma relapses early"
+  ],
+  "a": 3,
+  "e": [
+   "Only about 15% of seminomas raise hCG, so markers are rarely raised at diagnosis or relapse; relapse is found on imaging. In stage I NSGCT, by contrast, markers are often the first and only sign of relapse. There are no validated pathological factors that reliably pick a high-risk subset. (The book's answer key lists '15–20% cured by orchiectomy' as a true statement; the cure rate is 80–85% and the relapse rate 15–20%.) Note: the book's pathology question recommends retroperitoneal radiotherapy for stage I seminoma; current EAU/NCCN guidance prefers surveillance."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Seminoma residual mass",
+  "q": "After BEP × 3 for good-risk stage III seminoma, a discrete 2.4 cm para-aortic mass remains (3.8 cm before), lung nodules have gone and markers are normal. Next:",
+  "o": [
+   "Radiotherapy to the residual mass",
+   "FDG-PET to guide resection",
+   "Observation with serial CT",
+   "Resection of the residual mass"
+  ],
+  "a": 2,
+  "e": [
+   "About 90% of residual seminoma masses are fibrosis/necrosis, teratoma is rare, and most resolve; surgery is difficult because of dense desmoplasia. About 30% of masses >3 cm contain viable seminoma. FDG-PET helps only for masses >3 cm (done several weeks after chemotherapy); PET-negative masses >3 cm and all masses <3 cm can be observed. Viable seminoma on PET: further chemotherapy or surgery."
+  ],
+  "s": "Ch 76 Neoplasms of the testis; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Treatment toxicity",
+  "q": "Which statement about late toxicity is FALSE?",
+  "o": [
+   "Frequent CT imaging may add to the second-cancer risk",
+   "One or two cycles of platinum carry negligible late risk",
+   "Mediastinal radiotherapy carries the highest cardiac risk",
+   "Cisplatin raises risks about as much as smoking does"
+  ],
+  "a": 1,
+  "e": [
+   "Late toxicity is dose-dependent but there is no safe lower limit; even 1–2 cycles may raise late risk. Late effects of chemotherapy: peripheral neuropathy, Raynaud phenomenon, hearing loss, hypogonadism, infertility, second cancers and cardiovascular disease. Risk factors for chylous ascites after RPLND: suprahilar dissection, vascular reconstruction and hepatic resection."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Fertility",
+  "q": "Which statement about fertility in GCT is TRUE?",
+  "o": [
+   "Erection is needed for seminal emission",
+   "Emission depends only on S2–S4 parasympathetics",
+   "Semen always worsens after orchiectomy",
+   "20–60% have abnormal semen at diagnosis"
+  ],
+  "a": 3,
+  "e": [
+   "Sub- or infertility is common at diagnosis (two-thirds have reduced fertility; book figures: 52% oligospermic and 10% azoospermic; about 60% have subnormal semen). Parameters sometimes improve after orchiectomy. Antegrade ejaculation needs seminal emission (contraction of vas, seminal vesicles, prostate) and bladder-neck closure, both driven by sympathetic postganglionic fibres from L1–L4. Erection is parasympathetic and needed for penetration, not ejaculation. Offer sperm banking to everyone before RPLND or chemotherapy. Spermatogenesis may take up to about 3 years to recover after chemotherapy; about 65% of men on surveillance father children."
+  ],
+  "s": "Ch 76 Neoplasms of the testis; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Other testicular tumours",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "About 90% of Leydig and Sertoli cell tumours are benign",
+   "Rhabdomyosarcoma leads adult paratesticular tumours",
+   "Epididymal cystadenoma is associated with VHL syndrome",
+   "Lymphoma is the commonest testis tumour in older men"
+  ],
+  "a": 1,
+  "e": [
+   "Liposarcoma is the commonest adult paratesticular tumour; rhabdomyosarcoma is commonest in children. Lymphoma is the commonest testicular tumour over 50. Adenomatoid tumour of the epididymis is benign. Leydig cell tumours may cause gynaecomastia; the book states that, unlike GCTs, they are not linked to cryptorchidism and that bilateral tumours have not been reported (other sources describe rare bilateral cases)."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Cord sarcoma",
+  "q": "A 54-year-old has a 6 × 9 cm infiltrative mass of the right cord (−20 HU on CT) displacing the testis, with no metastases. Best management:",
+  "o": [
+   "Inguinal orchiectomy, then ifosfamide chemotherapy",
+   "Trans-scrotal excision of the mass and the testis",
+   "Inguinal orchiectomy, then adjuvant radiotherapy",
+   "Inguinal orchiectomy, then RPLND for staging"
+  ],
+  "a": 2,
+  "e": [
+   "An infiltrative cord mass in an adult is a sarcoma until proven otherwise; fat density and age make liposarcoma likeliest. Paratesticular liposarcoma rarely metastasises but often recurs locally, so adjuvant radiotherapy may reduce local recurrence."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "GCNIS on biopsy",
+  "q": "A contralateral biopsy at orchiectomy for embryonal carcinoma shows enlarged hyperchromatic cells along the tubules without spermatogenesis (GCNIS). Advise him that:",
+  "o": [
+   "He must give up any plan to father children",
+   "Immediate orchiectomy is mandatory for this finding",
+   "The risk of GCT is under 5%; routine care is enough",
+   "About half will develop a GCT in that testis"
+  ],
+  "a": 3,
+  "e": [
+   "GCNIS carries about a 50% risk of invasive GCT (book figure). Options are surveillance, low-dose radiotherapy or orchiectomy, chosen with fertility and androgen function in mind."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Seminoma with high hCG",
+  "q": "A 32-year-old has seminoma with syncytiotrophoblastic giant cells; AFP is normal and pre-orchiectomy hCG was 5000. The next step is:",
+  "o": [
+   "RPLND, as hCG implies non-seminoma",
+   "Treat it as choriocarcinoma (BEP × 4)",
+   "Follow the hCG decline by its half-life",
+   "Para-aortic radiotherapy at once"
+  ],
+  "a": 2,
+  "e": [
+   "About 15% of seminomas have syncytiotrophoblasts and raised hCG. After orchiectomy, hCG should fall with its 24–36 hour half-life; check this before deciding treatment. Raised AFP, by contrast, means NSGCT. Seminoma histology: sheets of uniform cells divided by fibrous septa containing lymphocytes."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Stage IS",
+  "q": "A 20-year-old has embryonal carcinoma; CT chest and abdomen is normal, but AFP and hCG are unchanged three weeks after orchiectomy. Advise:",
+  "o": [
+   "Induction chemotherapy",
+   "Primary nerve-sparing RPLND",
+   "Infradiaphragmatic RT",
+   "Repeat markers in a month"
+  ],
+  "a": 0,
+  "e": [
+   "Persistently raised markers after orchiectomy (clinical stage IS) mean systemic disease: give induction chemotherapy, not RPLND or delay. Related image questions: (1) a mature teratoma primary with a residual 1.8 cm retroperitoneal mass after chemotherapy needs RPLND, because teratoma is chemoresistant; (2) an irregular vascular testicular mass with microlithiasis after minor groin trauma is a tumour (trauma often just draws attention); (3) a >5 cm para-aortic node (stage IIC) needs chemotherapy."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Tumour biology",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "GCTs carry extra copies of chromosome 12p",
+   "Mature and immature teratoma behave alike",
+   "Extragonadal GCTs are the more chemosensitive",
+   "Teratoma can transform into adenocarcinoma"
+  ],
+  "a": 2,
+  "e": [
+   "Extragonadal GCTs (1–5% of GCTs) are generally less sensitive to chemotherapy and more often contain yolk sac tumour. There is no clinical distinction between mature and immature teratoma; teratoma resists chemotherapy and can be infiltrative and hard to resect. Somatic transformation can produce rhabdomyosarcoma, adenocarcinoma or neuroendocrine tumours."
+  ],
+  "s": "Ch 76 Neoplasms of the testis"
+ },
+ {
+  "f": "mcq",
+  "t": "Viable GCT outcomes",
+  "q": "When viable GCT is found at PC-RPLND, which is NOT linked to a worse outcome?",
+  "o": [
+   "Intermediate/poor IGCCCG risk",
+   "Incomplete surgical resection of mass",
+   "Immature teratoma in specimen",
+   "Prior salvage chemotherapy"
+  ],
+  "a": 2,
+  "e": [
+   "Fizazi's multicentre model uses completeness of resection, proportion of viable GCT (<10% favourable) and IGCCCG risk group. Prior salvage chemotherapy consistently predicts poorer survival. Immature teratoma does not worsen outcome. Independent predictors of relapse after PC-RPLND: viable malignancy, incomplete resection, rising markers before surgery (desperation RPLND) and prior RPLND (reoperation); IGCCCG group is not independent of histology and completeness. With viable GCT after salvage chemotherapy, teratoma alone, or somatic-type malignancy, adjuvant chemotherapy has not been shown to help."
+  ],
+  "s": "Ch 76 Neoplasms of the testis; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Orchiectomy and staging",
+  "q": "Which statement about radical orchiectomy and staging is FALSE?",
+  "o": [
+   "Vas and vessels are tied separately with silk for later finding",
+   "The ilioinguinal nerve lies on the cord and should be spared",
+   "The cord is freed to 1–2 cm above the internal inguinal ring",
+   "Whole-body PET is a routine part of initial clinical staging"
+  ],
+  "a": 3,
+  "e": [
+   "Staging: orchiectomy (T), chest X-ray or CT, CT or MRI of abdomen and pelvis (N, M) and post-orchiectomy AFP, hCG and LDH (S). PET has no role in initial staging of seminoma or NSGCT; it is used for residual seminoma masses >3 cm. The ilioinguinal nerve appears on opening the external oblique, running on the anterior cord; injury causes numbness of the medial thigh and scrotum. Non-absorbable ties on the cord stump let it be found and removed at RPLND."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours"
+ },
+ {
+  "f": "mcq",
+  "t": "Scrotal violation",
+  "q": "A 23-year-old had trans-scrotal orchiectomy for a presumed hydrocele. Histology: embryonal carcinoma with vascular invasion. Markers and CT are normal. Most appropriate:",
+  "o": [
+   "RPLND with hemiscrotectomy and inguinal dissection",
+   "RPLND plus excision of scrotal scar and cord stump",
+   "Surveillance, since markers and imaging are normal",
+   "RPLND, then radiotherapy to the scrotum and groin"
+  ],
+  "a": 1,
+  "e": [
+   "Observation is not optimal with vascular invasion and scrotal contamination. After trans-scrotal orchiectomy: for low-stage NSGCT excise the scar with the cord remnant; for low-stage seminoma the book advises extending RT fields to the groin and scrotum; after a full course of platinum chemotherapy only the cord stump needs removal at RPLND. (Current guidelines regard scrotal violation as a minor risk, and many centres would also offer one cycle of BEP for LVI-positive stage I NSGCT.)"
+  ],
+  "s": "Ch 78 Laparoscopic/robotic RPLND; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Bleomycin and anaesthesia",
+  "q": "Perioperative ARDS after bleomycin can be reduced by all EXCEPT:",
+  "o": [
+   "Restricting perioperative fluids",
+   "Avoiding the Trendelenburg position",
+   "Giving 3 bleomycin cycles, not 4",
+   "Keeping the inspired oxygen (FiO2) low"
+  ],
+  "a": 1,
+  "e": [
+   "Bleomycin causes restrictive pulmonary fibrosis with collagen deposition and leaves patients very sensitive to fluid overload. Postoperative ARDS is rare, mostly after four cycles and with a heavy lung tumour burden. The two perioperative risk factors are high FiO2 and large volumes of fluid and blood products; tell the anaesthetist."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours"
+ },
+ {
+  "f": "mcq",
+  "t": "Aortic split first",
+  "q": "Splitting over the aorta before the IVC during RPLND:",
+  "o": [
+   "Protects the sympathetic fibres that cross over the aorta",
+   "Removes any need to find the inferior mesenteric artery",
+   "Reveals right accessory lower-pole renal arteries early on",
+   "Lowers the risk of injury to the left ureter"
+  ],
+  "a": 2,
+  "e": [
+   "Splitting the aorta first shows right accessory lower-pole renal arteries missed on imaging, which could otherwise be cut during the IVC split. The cost is risk to postganglionic sympathetic fibres; stop the aortic split at the IMA and find the efferents before continuing caudally. The IVC split is unlikely to damage nerves. The fibres that matter for ejaculation come from the L1–L4 ganglia (about four roots per side). In nerve-sparing RPLND take care around the lumbar veins, which lie next to the sympathetic chain."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours; Ch 78"
+ },
+ {
+  "f": "mcq",
+  "t": "Constant anatomy",
+  "q": "Which structure has the most predictable anatomy in the RPLND field?",
+  "o": [
+   "Lumbar arteries off the aorta",
+   "Number of nodes in each packet",
+   "Paths of sympathetic nerve roots",
+   "Lumbar veins draining to the IVC"
+  ],
+  "a": 0,
+  "e": [
+   "There are three paired lumbar arteries between the renal hilum and the aortic bifurcation in nearly all patients; the one common variant is a short common trunk, which can bleed badly if missed. Lumbar veins vary widely. Sympathetic roots are fairly constant in number but variable in course and fusion. Node counts vary widely. The ureters mark the lateral border of the para-aortic and paracaval packets."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours"
+ },
+ {
+  "f": "mcq",
+  "t": "Chylous ascites",
+  "q": "Two weeks after laparoscopic RPLND a man has distension and vomiting; paracentesis confirms chylous ascites. First step:",
+  "o": [
+   "Start total parenteral nutrition immediately",
+   "Re-explore at once to ligate the leaking duct",
+   "Insert a peritoneovenous shunt straight away",
+   "Drain, hydrate and start a low-fat MCT diet"
+  ],
+  "a": 3,
+  "e": [
+   "Chylous ascites follows <2% of primary RPLNDs and is usually transient. Drain, then reduce chyle with a medium-chain triglyceride diet, TPN if that fails, and possibly subcutaneous octreotide; peritoneovenous shunt or reoperation is a last resort. Limiting fat before surgery does not help. Prevention: clip or tie lymphatics at the upper limits of the interaortocaval and para-aortic packets and in retrocrural dissection, because the cisterna chyli lies posteromedial to the aorta just above the right renal artery."
+  ],
+  "s": "Ch 78 Laparoscopic/robotic RPLND; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Auxiliary procedures",
+  "q": "Which statement about PC-RPLND is FALSE?",
+  "o": [
+   "Accessory polar arteries raise the nephrectomy risk",
+   "Larger residual masses need more extra procedures",
+   "Nephrectomy is the commonest added (auxiliary) procedure",
+   "Left-sided primaries need nephrectomy more often"
+  ],
+  "a": 0,
+  "e": [
+   "Auxiliary procedures occur in 23–45%: nephrectomy commonest (5–31%), then vascular procedures. Nephrectomy is commoner with salvage, desperation and reoperative RPLND, late relapse, large masses and left-sided primaries. With complete IVC occlusion, routine caval reconstruction is not needed. An aorta stripped of adventitia should be grafted because it may rupture later. SMA, coeliac or porta hepatis involvement usually makes the tumour unresectable. Spinal ischaemia is very rare and is a risk when more than three consecutive lumbar artery pairs are taken (bulky para-aortic, retrocrural and mediastinal disease)."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours"
+ },
+ {
+  "f": "mcq",
+  "t": "Modified template",
+  "q": "Which is NOT a selection criterion for a unilateral modified-template PC-RPLND?",
+  "o": [
+   "Normal serum tumour markers at surgery",
+   "Mass confined to the primary landing zone",
+   "IGCCCG good risk; intermediate excluded",
+   "Residual mass of 5 cm or less in size"
+  ],
+  "a": 2,
+  "e": [
+   "Suggested criteria: well-defined mass ≤5 cm confined to the primary landing zone before and after chemotherapy, normal markers, and IGCCCG good or intermediate risk. With these, in-field relapse is 0–1%, cancer-specific survival 98–100%, and antegrade ejaculation is kept in over 85%. Otherwise, a full bilateral dissection is standard after chemotherapy and for pathological stage II NSGCT; residual mass resection should come with a complete RPLND."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours"
+ },
+ {
+  "f": "mcq",
+  "t": "Adjuvant chemo after RPLND",
+  "q": "For pathological stage IIA–B NSGCT at primary RPLND, which statement about adjuvant chemotherapy is FALSE?",
+  "o": [
+   "It improves cancer-specific survival",
+   "Given to all, it overtreats 50–70%",
+   "It nearly eliminates relapse after surgery",
+   "It is usually two cycles of BEP or EP"
+  ],
+  "a": 0,
+  "e": [
+   "Survival approaches 100% whether chemotherapy is given as adjuvant or kept for relapse. On observation 30–50% relapse and then need full induction (BEP × 3 or EP × 4). Many reliable pN1 patients are observed; pN2 is debated, and some centres give two adjuvant cycles. Positive-node ratio, histology and extranodal extension have not proven reliable enough; teratoma-only nodes have very low relapse, so observe. RPLND alone cures about 70% of pN1 disease."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours; Ch 78"
+ },
+ {
+  "f": "mcq",
+  "t": "Desperation RPLND",
+  "q": "Residual retroperitoneal disease after induction chemotherapy, markers not normal. Desperation RPLND is NOT appropriate when:",
+  "o": [
+   "Markers rise steadily during induction chemo",
+   "AFP is plateauing after induction chemo",
+   "AFP rises slowly after normalising",
+   "Curative chemotherapy is exhausted"
+  ],
+  "a": 0,
+  "e": [
+   "Indiana selection: declining or plateauing AFP after induction, slowly rising AFP after a complete serological response, and curative chemotherapy options exhausted; cancer-specific survival was 53.9% at 6 years. Markers rising during chemotherapy mean unresectable viable tumour: give standard or high-dose salvage chemotherapy."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours"
+ },
+ {
+  "f": "mcq",
+  "t": "Reoperative RPLND",
+  "q": "Retroperitoneal relapse after RPLND usually reflects technical failure. Which finding does NOT support that idea?",
+  "o": [
+   "Relapse behind the aorta or vena cava",
+   "Relapse in the primary landing zone",
+   "Pelvic node relapses on the same side",
+   "Unresected gonadal vein at redo surgery"
+  ],
+  "a": 2,
+  "e": [
+   "Standard templates do not remove pelvic nodes, so pelvic relapse does not imply a poor first operation. Pelvic GCT metastasis is uncommon apart from prior groin surgery, repeat RPLND, late relapse and prior chemotherapy (Indiana: 134 of 2722 RPLNDs). Signs of inadequate surgery: landing-zone relapse, incomplete lumbar vessel ligation, unresected ipsilateral gonadal vein and retroaortic/retrocaval relapse."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours"
+ },
+ {
+  "f": "mcq",
+  "t": "Teratoma at PC-RPLND",
+  "q": "When only teratoma is found at PC-RPLND, which feature is linked to higher relapse?",
+  "o": [
+   "Right-sided primary",
+   "Extranodal extension",
+   "Somatic-type malignancy",
+   "Immature teratoma elements"
+  ],
+  "a": 2,
+  "e": [
+   "Somatic-type malignancy and a mediastinal primary predict relapse. Immature teratoma does no worse than mature. Side, number of nodes removed and extranodal extension show no relationship to relapse."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours"
+ },
+ {
+  "f": "mcq",
+  "t": "Viable GCT resected",
+  "q": "After primary BEP, a man has bilateral PC-RPLND; a focus of viable yolk sac tumour is completely resected and markers are normal. Next:",
+  "o": [
+   "Two further cycles of platinum-based chemotherapy",
+   "Four further cycles of platinum chemotherapy",
+   "Observation, as the resection was complete",
+   "Radiotherapy to the resected template bed"
+  ],
+  "a": 0,
+  "e": [
+   "Completely resected viable GCT after first-line chemotherapy is usually treated with two more cycles. Einhorn: only 2 of 22 long-term survivors without further chemotherapy; Fox: 70% disease-free with two cycles versus none of 7 without. Prognosis depends on markers at RPLND, prior treatment and pathology."
+  ],
+  "s": "Ch 78 Laparoscopic/robotic RPLND"
+ },
+ {
+  "f": "mcq",
+  "t": "Node found at laparoscopy",
+  "q": "During laparoscopic RPLND for clinical stage I NSGCT, a 2 cm node is found. Next:",
+  "o": [
+   "Do a full bilateral template dissection",
+   "Finish a unilateral template, then BEP",
+   "Remove only the enlarged node and then stop",
+   "Abort and give induction chemotherapy"
+  ],
+  "a": 0,
+  "e": [
+   "Whenever a suspicious node is found, do a full bilateral dissection; chemotherapy will not make up for an inadequate dissection. The standard template's upper limit does not include nodes above the renal hilum, and retrocrural nodes are not cleared in a primary RPLND. Suprahilar metastases are rare in low-stage NSGCT; 3–23% with positive nodes have extra-template disease, and the commonest suprahilar residual site is retrocrural. Book view: RPLND is the treatment of choice for stage I NSGCT with teratoma in the primary."
+  ],
+  "s": "Ch 78 Laparoscopic/robotic RPLND; Ch 77"
+ },
+ {
+  "f": "mcq",
+  "t": "Laparoscopic vs open",
+  "q": "Which is NOT an advantage of laparoscopic over open RPLND?",
+  "o": [
+   "Better disease-free survival",
+   "Better cosmesis and less pain",
+   "Shorter hospital convalescence",
+   "Earlier chemotherapy if needed"
+  ],
+  "a": 0,
+  "e": [
+   "No study shows a difference in disease-free survival. The commonest reason for open conversion is bleeding, and vascular injury is the commonest intraoperative complication (under 5% in experienced hands)."
+  ],
+  "s": "Ch 78 Laparoscopic/robotic RPLND"
+ },
+ {
+  "f": "mcq",
+  "t": "Spinal ischaemia",
+  "q": "Who is at greatest risk of spinal cord ischaemia during PC-RPLND?",
+  "o": [
+   "Infrarenal para-aortic mass invading an L2 foramen",
+   "Occluded IVC from interaortocaval and paracaval mass",
+   "Bulky disease extending retrocrurally into the mediastinum",
+   "Left para-aortic mass needing infrarenal aortic graft"
+  ],
+  "a": 2,
+  "e": [
+   "The risk arises when more than three consecutive pairs of lumbar arteries must be divided, which is most likely with high-volume para-aortic disease extending through the retrocrural space into the mediastinum."
+  ],
+  "s": "Ch 77 Surgery of testicular tumours"
+ },
+ {
+  "f": "mcq",
+  "t": "Viral associations",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Bowenoid papulosis is associated with HPV",
+   "Erythroplasia of Queyrat is HPV-related",
+   "Kaposi sarcoma is linked to herpesvirus 8",
+   "Lichen sclerosus is caused by HPV 16"
+  ],
+  "a": 3,
+  "e": [
+   "Lichen sclerosus (balanitis xerotica obliterans) is a white patch on the prepuce or glans, often involving the meatus and fossa navicularis; its cause is unknown and no virus is proven, though it is a risk factor for penile SCC. Epidemic (AIDS-related) Kaposi sarcoma is linked to HHV-8 (the book's answer key mistakenly prints 'HPV 8'). HPV in men is linked to penile cancer and to cervical dysplasia and cancer in female partners."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Penile carcinoma in situ",
+  "q": "Bowen disease and erythroplasia of Queyrat differ mainly in:",
+  "o": [
+   "Loss of rete pegs on histology",
+   "Site: glans/prepuce vs. shaft",
+   "The causative HPV genotype involved",
+   "Pattern of keratin staining"
+  ],
+  "a": 1,
+  "e": [
+   "Penile Tis presents as Bowenoid papulosis, Bowen disease (shaft, rest of genitalia, perineum) or erythroplasia of Queyrat (glans or prepuce). Small non-invasive lesions: local excision, circumcision for preputial lesions, 5% 5-FU cream, imiquimod or Nd:YAG laser; fulguration often recurs."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Risk and prevention",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Gonorrhoea and syphilis are not proven causes",
+   "Adult circumcision gives strong protection",
+   "Phimosis, tobacco and HPV raise the risk",
+   "Neonatal circumcision lowers the risk of it"
+  ],
+  "a": 1,
+  "e": [
+   "Circumcision after puberty gives little or no protection, probably because the critical exposure has already happened. Risk factors: lack of neonatal circumcision, phimosis, HPV, smoking and chewing tobacco, lichen sclerosus and possibly trauma; other STIs, occupation, marijuana and alcohol are not proven. Prevention: neonatal circumcision, HPV vaccination, hygiene, avoiding tobacco. Rare in developed countries; US data show worse incidence and outcome in Puerto Rican Hispanic men."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Presentation",
+  "q": "Which statement about penile cancer is FALSE?",
+  "o": [
+   "Phimosis may hide the lesion until it is advanced",
+   "Most present within a month of noticing the lesion",
+   "Most are keratinising squamous cell carcinomas",
+   "It arises most often on the glans, then the prepuce"
+  ],
+  "a": 1,
+  "e": [
+   "Delay is typical; 15–50% wait more than a year. Sites: glans 48%, prepuce 21%. Penetrating Buck fascia and the tunica albuginea lets tumour reach the vascular corpora. SCC with keratinisation and epithelial pearls is the main type; subtypes are now split into HPV-related and non-HPV-related groups. Before treatment, an adequate biopsy (frozen section is sometimes acceptable) and full clinical assessment are needed; stage, grade, and vascular and perineural invasion predict metastasis."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Lymphatic spread",
+  "q": "Which statement about the natural history is TRUE?",
+  "o": [
+   "Lung, liver and bone are the usual first sites",
+   "Cavernosal tumour spreads first to pelvic nodes",
+   "Drainage is one-sided, with no crossover at base",
+   "First spread is to nodes above the fascia lata"
+  ],
+  "a": 3,
+  "e": [
+   "Preputial and shaft-skin lymphatics drain to the superficial inguinal nodes (outside the fascia lata). Cross-communications at the base of the penis allow spread to both groins. Metastasis is by tumour emboli through lymphatics to the groin; distant spread is late."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Hypercalcaemia",
+  "q": "A man with bulky inguinal metastases from penile SCC has a high serum calcium. The usual mechanism is:",
+  "o": [
+   "Excess osteoblastic new bone formation",
+   "PTH-like substances that activate osteoclasts",
+   "Uraemia from bilateral ureteric obstruction",
+   "Widespread osteolytic metastases in bone"
+  ],
+  "a": 1,
+  "e": [
+   "Tumour and its metastases can release parathyroid hormone-related substances that activate osteoclastic bone resorption, often with bulky soft-tissue disease rather than bone metastases. Aggressive diuretics are not the first-line treatment."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Imaging",
+  "q": "Which statement about imaging in penile cancer is FALSE?",
+  "o": [
+   "MRI with artificial erection helps when unclear",
+   "CT helps the obese or previously operated groin",
+   "Ultrasound and MRI both miss cavernosal spread",
+   "Groin palpation is the standard if not obese"
+  ],
+  "a": 2,
+  "e": [
+   "Ultrasound detected cavernosal invasion with high sensitivity in one study, and contrast MRI adds information, especially before organ-sparing surgery. MRI gives the best soft-tissue detail; examination is most reliable for small distal lesions. CT is not used for T staging. In proven inguinal metastasis, CT abdomen and pelvis and PET/CT help find pelvic or distant disease. Persistent palpable nodes need ultrasound- or CT-guided biopsy."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "TNM 8th edition",
+  "q": "Under AJCC 8th edition penile cancer staging, which is TRUE?",
+  "o": [
+   "T stage depends mainly on primary tumour size",
+   "N stage depends on the size of the largest node",
+   "T2 invades spongiosum; T3 invades cavernosum",
+   "Bilateral inguinal and pelvic nodes are both pN3"
+  ],
+  "a": 2,
+  "e": [
+   "T1a: lamina propria, no LVI or PNI, not high grade; T1b: with LVI/PNI or high grade. T2 spongiosum, T3 cavernosum (worse than spongiosum alone), T4 adjacent structures. pN1: ≤2 unilateral inguinal nodes, no ENE; pN2: ≥3 unilateral or bilateral inguinal; pN3: ENE or pelvic nodes. The presence and extent of inguinal metastasis is the strongest prognostic factor."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Inguinal staging, cN0",
+  "q": "For cN0 groins with an adverse primary (T1b+, LVI, high grade), which is standard staging?",
+  "o": [
+   "Observation, whatever the primary's features",
+   "Anatomical sentinel node biopsy on its own",
+   "Standard ilioinguinal dissection in every case",
+   "Superficial ILND or dynamic sentinel biopsy"
+  ],
+  "a": 3,
+  "e": [
+   "Superficial ILND and dynamic sentinel node biopsy (in experienced centres) are standard; anatomically directed sentinel biopsy is unreliable and abandoned. Low-morbidity options also include modified complete dissection and laparoscopic/robotic ILND (similar node yields; more data needed for cN+). Tis, Ta and verrucous carcinoma carry little nodal risk. Morbidity is falling; nodal staging criteria are the same after primary radiotherapy or surgery."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Adjuvant chemotherapy",
+  "q": "After ilioinguinal dissection, which finding does NOT call for adjuvant chemotherapy?",
+  "o": [
+   "Two positive nodes, one side, no ENE",
+   "Three or more positive inguinal nodes",
+   "A single positive pelvic lymph node",
+   "Extranodal extension in one groin node"
+  ],
+  "a": 0,
+  "e": [
+   "Surgery alone gives >70% 5-year survival with ≤2 nodes, one side, no extranodal extension and no pelvic nodes. A node >4 cm often has ENE. Consider adjuvant chemotherapy for >2 nodes, ENE or pelvic nodes; one series: 82% vs 37% 5-year survival. Book: pelvic dissection when more than one inguinal node is positive or ENE is present."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Proven unilateral nodes",
+  "q": "A man has two or more proven unilateral inguinal metastases. Which statement is FALSE?",
+  "o": [
+   "Do ipsilateral superficial and deep dissection",
+   "Ipsilateral pelvic dissection adds prognosis",
+   "No contralateral staging procedure is needed",
+   "Over half had contralateral spread in series"
+  ],
+  "a": 2,
+  "e": [
+   "Drainage is bilateral in most cases, and contralateral metastases were found in more than half of such patients in some series even with a clinically negative groin, so stage the other side."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Bulky nodes",
+  "q": "For bulky inguinal metastases from penile SCC, which statement is FALSE?",
+  "o": [
+   "Responders should have surgical consolidation",
+   "Cisplatin-based neoadjuvant chemo is advised",
+   "Surgery helps those who progress on chemo",
+   "Chemoradiation may cytoreduce before surgery"
+  ],
+  "a": 2,
+  "e": [
+   "In those who progress on chemotherapy, surgery is usually followed by rapid locoregional or distant relapse and is not recommended. Cross-sectional imaging defines extent. Bleomycin-containing regimens caused unacceptable pulmonary toxicity and deaths and are discouraged. InPACT (EA8134) is testing combinations of chemotherapy, radiation and surgery. Palliative RT helps metastatic disease."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Organ preservation",
+  "q": "Which statement is TRUE?",
+  "o": [
+   "Organ sparing suits Tis lesions only, never T1 disease",
+   "Nodal staging rules are looser after primary RT",
+   "RT suits T1–T2 tumours under 4 cm to keep the penis",
+   "Local relapse after organ sparing harms early survival"
+  ],
+  "a": 2,
+  "e": [
+   "Radiotherapy (EBRT or brachytherapy) suits small (2–4 cm) superficial lesions in young men, patients refusing surgery, and those with metastases needing local control. Best organ-sparing candidates: Tis, Ta, T1, grade 1–2. Goals: keep glans sensation, or length if the glans cannot be kept. Options: limited excision, Mohs surgery, laser. Local relapse is commoner but, when treated, early survival is not affected; 20% of relapses occur after 5 years, so follow up long. Amputation remains standard for large or deep tumours."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ },
+ {
+  "f": "mcq",
+  "t": "Other penile tumours",
+  "q": "Which statement is FALSE?",
+  "o": [
+   "Priapism is the commonest sign of metastasis",
+   "Buschke–Löwenstein tumour often metastasises",
+   "Penile melanoma is rare as skin is sun-shielded",
+   "Penile lymphoma usually means systemic disease"
+  ],
+  "a": 1,
+  "e": [
+   "Buschke–Löwenstein (giant condyloma) invades and destroys by compression but does not metastasise; it needs complete excision because SCC can coexist or develop. Ordinary condylomas stay superficial; imiquimod is the standard topical treatment. Basal cell carcinoma is highly curable. Sarcomas recur locally but rarely spread. Melanoma is aggressive but curable early; immunotherapy may help advanced disease. Extramammary Paget disease spreads within the epidermis; wide excision to clear margins. Penile metastases usually come from an obvious primary, with poor prognosis."
+  ],
+  "s": "Ch 79 Tumours of the penis"
+ }
+]

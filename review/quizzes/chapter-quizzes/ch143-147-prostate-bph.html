@@ -1,0 +1,238 @@
+<title>Prostate and BPH MCQs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one exam card at a time, narrow reading column, progress strip on top */
+:root {
+  --bg: #f3f5f6; --surface: #ffffff; --ink: #18232b; --muted: #5b6a74; --line: #d6dde1;
+  --accent: #1f5f7a; --accent-soft: #e2eef3;
+  --warn: #a8660b; --ok: #1d7a4c; --ok-soft: #e3f3ea; --bad: #b3352b; --bad-soft: #f8e4e1;
+  --f-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; padding: 0 16px; }
+.wrap { max-width: 720px; margin: 0 auto; padding-block: 28px 48px; display: grid; gap: 20px; }
+header { display: grid; gap: 6px; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(26px, 5vw, 34px); line-height: 1.15; margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; font-size: 15px; }
+
+.strip { display: grid; grid-template-columns: repeat(25, 1fr); gap: 3px; row-gap: 6px; }
+.pip { height: 8px; border-radius: 2px; background: var(--line); border: 0; padding: 0; cursor: pointer; }
+.pip.ok { background: var(--ok); } .pip.bad { background: var(--bad); }
+.pip.cur { outline: 2px solid var(--accent); outline-offset: 2px; }
+.meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-family: var(--f-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 24px; display: grid; gap: 18px; }
+.qhead { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.qno { font-family: var(--f-mono); font-size: 13px; color: var(--accent); }
+.tag { font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); padding: 2px 8px; border-radius: 4px; }
+.stem { font-family: var(--f-display); font-size: 21px; line-height: 1.4; font-weight: 500; margin: 0; }
+.opts { display: grid; gap: 10px; }
+.opt { display: grid; grid-template-columns: 28px 1fr; gap: 12px; align-items: start; text-align: left; width: 100%;
+  font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; cursor: pointer; }
+.opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:focus-visible, .btn:focus-visible, .pip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.opt .k { font-family: var(--f-mono); font-size: 13px; width: 28px; height: 28px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--muted); }
+.opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.opt.sel .k { border-color: var(--accent); color: var(--accent); }
+.opt.right { border-color: var(--ok); background: var(--ok-soft); }
+.opt.right .k { border-color: var(--ok); color: var(--ok); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.opt.wrong .k { border-color: var(--bad); color: var(--bad); }
+.opt:disabled { cursor: default; }
+
+.verdict { font-weight: 600; }
+.verdict.ok { color: var(--ok); } .verdict.bad { color: var(--bad); }
+.explain { border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 10px; }
+.explain p, .explain ul { margin: 0; }
+.explain ul { padding-left: 20px; display: grid; gap: 4px; }
+.src { font-size: 13px; color: var(--muted); }
+
+.actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+.btn { font: inherit; font-weight: 600; border-radius: 8px; padding: 10px 18px; cursor: pointer; border: 1px solid var(--accent); }
+.btn.primary { background: var(--accent); color: var(--surface); }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:disabled { opacity: .45; cursor: default; }
+.hint { font-size: 13px; color: var(--muted); }
+
+.result { display: grid; gap: 14px; }
+.score { font-family: var(--f-display); font-size: 44px; font-weight: 600; line-height: 1; font-variant-numeric: tabular-nums; }
+.review { display: grid; gap: 6px; padding: 0; margin: 0; list-style: none; }
+.review li { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 15px; min-width: 0; }
+.review .n { font-family: var(--f-mono); font-size: 13px; color: var(--muted); }
+.review .s { font-family: var(--f-mono); font-size: 13px; font-weight: 500; }
+.review .s.ok { color: var(--ok); } .review .s.bad { color: var(--bad); }
+.review button { font: inherit; color: var(--ink); background: none; border: 0; padding: 0; text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.pip.part { background: var(--warn); } .pip.pend { background: var(--accent); opacity: .5; }
+.fig { margin: 0; display: grid; gap: 6px; overflow-x: auto; }
+.fig svg { width: 100%; min-width: 320px; height: auto; display: block; }
+.fig .grid line { stroke: var(--line); stroke-width: 1; }
+.fig .ax line { stroke: var(--muted); stroke-width: 1.5; }
+.fig .lbl, .fig text { fill: var(--muted); font-family: var(--f-mono); font-size: 12px; }
+.fig .trace { fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; }
+.fig .trace.dash { stroke-dasharray: 7 5; }
+.fig .mark { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 4; }
+.fig figcaption { font-size: 13px; color: var(--muted); }
+textarea { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px; width: 100%; resize: vertical; min-height: 140px; }
+textarea:focus-visible, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mine { display: grid; gap: 6px; } .mine p { margin: 0; white-space: pre-wrap; background: var(--bg); border-radius: 8px; padding: 12px; }
+.selfmark { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font: inherit; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.chip.on { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.review .s.part { color: var(--warn); }
+@media (max-width: 480px) { .card { padding: 18px; } .stem { font-size: 19px; } }
+@media (prefers-reduced-motion: no-preference) { .opt { transition: border-color .12s, background-color .12s; } }
+.line { font: inherit; font-size: 17px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; width: 100%; }
+.line:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.model { font-family: var(--f-display); font-size: 19px; line-height: 1.4; margin: 0; }
+.also { font-size: 14px; color: var(--muted); margin: 0; }
+.match { font-size: 13px; font-weight: 600; }
+.match.ok { color: var(--ok); } .match.no { color: var(--muted); }
+.fig .tagl { fill: var(--accent); font-size: 14px; font-weight: 600; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">MCh Urology · Campbell-Walsh-Wein Review, chapters 143–147</div>
+    <h1>Prostate and BPH: 50 MCQs</h1>
+    <p class="sub">New questions written from your uploaded review chapters: prostate development and physiology, BPH natural history, evaluation and medical therapy, endoscopic and minimally invasive surgery, and simple prostatectomy. Each explanation names its chapter.</p>
+  </header>
+  <div><div class="strip" id="strip" aria-label="Question progress"></div></div>
+  <div class="meta"><span id="pos"></span><span id="tally"></span></div>
+  <main id="stage"></main>
+</div>
+<script>
+const Q = [{"f": "mcq", "t": "Development", "q": "A male fetus with complete 5α-reductase type 2 deficiency will most likely show which pattern?", "o": ["Absent epididymis and vas", "Normal wolffian derivatives (epididymis, vas, seminal vesicles) but an underdeveloped prostate", "Absent seminal vesicles but normal prostate", "Normal prostate and external genitalia"], "a": 1, "e": ["Wolffian structures are driven by fetal testosterone itself, whereas the prostate (from the urogenital sinus) depends mainly on DHT (dihydrotestosterone). Type 2 is the dominant prostatic isoform."], "s": "Ch 143 Prostate development and physiology"}, {"f": "mcq", "t": "Development", "q": "For androgen-driven prostate development to occur, a functional androgen receptor is essential in the:", "o": ["Urogenital sinus mesenchyme", "Epithelium only", "Wolffian duct", "Seminal vesicle"], "a": 0, "e": ["Mesenchyme–epithelium signalling drives prostate development. With enough androgen at the right time, even a female urogenital sinus will form prostate."], "s": "Ch 143 Prostate development and physiology"}, {"f": "mcq", "t": "Physiology", "q": "Which statement about androgen metabolism is correct?", "o": ["DHT can be converted back to testosterone", "Most plasma testosterone comes from adrenal DHEA", "Conversion of testosterone to DHT (5α-reductase) or to oestrogen (aromatase) is irreversible", "Testosterone is made in Sertoli cells"], "a": 2, "e": ["Testosterone is made in Leydig cells from pregnenolone. Less than 1% of plasma testosterone derives from DHEA (dehydroepiandrosterone), and adrenal androgens have only a minor effect on prostate growth."], "s": "Ch 143 Prostate development and physiology"}, {"f": "mcq", "t": "Physiology", "q": "After bilateral orchidectomy, a man becomes functionally castrate within about:", "o": ["1 week", "1 month", "1–2 hours", "24 hours"], "a": 2, "e": ["Testosterone's plasma half-life is only 10–20 minutes. This is why orchidectomy is the fastest route to castration, for example in spinal cord compression."], "s": "Ch 143 Prostate development and physiology"}, {"f": "mcq", "t": "Physiology", "q": "How does CAG repeat length in the androgen receptor gene affect receptor activity?", "o": ["Shorter repeats increase activity", "Only affects ligand binding", "Longer repeats increase activity", "No effect"], "a": 0, "e": ["The shorter the poly-CAG tract, the more active the receptor is in switching on target genes."], "s": "Ch 143 Prostate development and physiology"}, {"f": "mcq", "t": "Physiology", "q": "Which pairing of seminal component and source is correct?", "o": ["Semenogelin: bulbourethral gland", "Citrate and zinc: seminal vesicle", "Fructose, prostaglandins and semenogelin: seminal vesicle; citrate, zinc, spermine: prostate", "Fructose: prostate"], "a": 2, "e": ["The seminal vesicles contribute most of the ejaculate volume. Absent fructose in the ejaculate suggests absent seminal vesicles or ejaculatory duct obstruction."], "s": "Ch 143 Prostate development and physiology"}, {"f": "mcq", "t": "Physiology", "q": "Prostate-specific antigen causes liquefaction of semen because it is a:", "o": ["Serine protease (kallikrein) that degrades semenogelin", "Metalloproteinase cleaving collagen", "Phosphatase", "Lipase"], "a": 0, "e": ["Semenogelin forms the coagulum. Complexed PSA is irreversibly bound to α1-antichymotrypsin and α2-macroglobulin."], "s": "Ch 143 Prostate development and physiology"}, {"f": "mcq", "t": "Pharmacology", "q": "Which antibiotic group reaches good concentrations in prostatic secretions?", "o": ["Aminoglycosides", "First-generation cephalosporins", "Fluoroquinolones and trimethoprim", "Penicillins"], "a": 2, "e": ["Prostatic fluid is more acidic than serum. The drugs that penetrate well include fluoroquinolones, trimethoprim, sulfonamides, tetracyclines, macrolides (erythromycin) and clindamycin."], "s": "Ch 143 Prostate development and physiology"}, {"f": "mcq", "t": "Physiology", "q": "Which α1-adrenoceptor subtype mediates prostatic smooth muscle contraction?", "o": ["α1B", "α1D", "α2", "α1A"], "a": 3, "e": ["α1A predominates in prostatic stroma. α1B is vascular (hence postural hypotension), and α1D is found in bladder and spinal cord."], "s": "Ch 143 Prostate development and physiology"}, {"f": "mcq", "t": "BPH biology", "q": "The histological hallmark of BPH is:", "o": ["Atrophy of the central zone", "Hypertrophy of epithelial cells", "Fibrosis of the peripheral zone", "An increase in the number of epithelial and stromal cells (hyperplasia)"], "a": 3, "e": ["Early periurethral nodules are stromal, whereas transition-zone proliferation is glandular. Stroma makes up about 40% of the gland, with prominent smooth muscle."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "BPH biology", "q": "Which statement about androgens in BPH is correct?", "o": ["Androgen receptor levels fall with age", "Type 1 5α-reductase predominates in BPH tissue", "Androgens are permissive, not the sole cause, and DHT is about 10 times more potent than testosterone", "Androgen withdrawal causes prostatic necrosis"], "a": 2, "e": ["Androgen receptor and DHT levels stay high in the ageing prostate. Androgen withdrawal causes apoptosis."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "Genetics", "q": "Familial BPH is best described as:", "o": ["Not heritable", "Autosomal recessive, with smaller glands", "X-linked", "Autosomal dominant, with larger glands, especially in men needing surgery before 60"], "a": 3, "e": ["About 50% of BPH in men having surgery before 60 is estimated to be inheritable."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "Epidemiology", "q": "Histological (autopsy) BPH:", "o": ["Is found in 100% of men at 40", "Is common in men in their twenties", "Is uncommon before 30, then rises almost linearly to about 90% of men in their 80s", "Varies widely between ethnic groups"], "a": 2, "e": ["Autopsy studies agree strongly across continents."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "Symptom score", "q": "Using the AUA Symptom Index/IPSS, a score of 18 is:", "o": ["Not interpretable without flow rate", "Severe", "Moderate", "Mild"], "a": 2, "e": ["Mild 0–7, moderate 8–19, severe 20–35. A change of about 3 points is noticeable to the patient. The IPSS is self-administered and does not ask about incontinence."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "Prostate volume", "q": "Which statement on prostate volume measurement is correct?", "o": ["MRI usually gives a larger volume than TRUS (transrectal ultrasound)", "DRE is reproducible between examiners", "TRUS is poorly reproducible", "Transition-zone volume does not change with age"], "a": 0, "e": ["TRUS is reliable and reproducible, whereas DRE (digital rectal examination) is poorly reproducible. Volume correlates usefully with serum PSA but not with the degree of obstruction."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "Risk factors", "q": "Which factor is associated with a LOWER risk of BPH surgery or prevalence?", "o": ["Vasectomy", "Obesity", "Physical inactivity", "Heavy alcohol intake and liver cirrhosis"], "a": 3, "e": ["Alcohol lowers testosterone, and most autopsy studies show less BPH in cirrhosis (possibly a bias against surgery). Vasectomy has no relation to BPH."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "Medications", "q": "In the Olmsted County study, which daily medicine was associated with both a higher symptom score and a lower flow rate?", "o": ["Bronchodilators", "Calcium channel blockers", "Antihistamines", "Antidepressants"], "a": 3, "e": ["Antidepressants, antihistamines and bronchodilators raised scores by 2–3 points, but only antidepressants lowered flow. α-Sympathomimetic cold remedies also worsen LUTS (lower urinary tract symptoms)."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "Natural history", "q": "In population-based studies, the strongest predictor of acute urinary retention is:", "o": ["Age", "Flow rate", "Prostate volume", "Serum PSA"], "a": 0, "e": ["In placebo arms of drug trials (already-diagnosed BPH), PSA and prostate volume are the strongest predictors instead. The difference reflects who was enrolled."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "Natural history", "q": "After spontaneous acute urinary retention, roughly what proportion go on to surgery?", "o": ["Almost none", "About one-quarter", "About three-quarters", "About 10%"], "a": 2, "e": ["After spontaneous retention, 15% have another episode and three-quarters have surgery. After precipitated retention, 9% recur and 26% have surgery."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "Natural history", "q": "Why is acute urinary retention a better end point than surgery in BPH studies?", "o": ["It is a hard, objective event, whereas surgery rates depend on doctor and patient choices and vary by region", "It is easier to prevent", "It always follows surgery", "It is rarer"], "a": 0, "e": ["Most men with BPH never need surgery. Longitudinal population-based cohorts carry the least bias for studying natural history."], "s": "Ch 144 BPH: etiology and natural history"}, {"f": "mcq", "t": "Evaluation", "q": "A man with LUTS has a mildly raised creatinine. The most appropriate next test is:", "o": ["Cystoscopy", "Urodynamics", "IV urogram", "Renal ultrasound"], "a": 3, "e": ["Image the upper tracts when creatinine is raised. A smoker with mainly storage symptoms should also have urine cytology to exclude urothelial cancer."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "Evaluation", "q": "A frequency–volume chart for LUTS should ideally cover:", "o": ["24 hours", "7 days", "At least 72 hours", "A single void"], "a": 2, "e": ["Three days balances accuracy against how well patients keep it up. It is especially useful for nocturia and polyuria."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "Evaluation", "q": "PSA testing in a man with LUTS is most appropriate when:", "o": ["He has a life expectancy over 10 years and a cancer diagnosis would change management", "Every case, regardless", "He is 80 with severe symptoms", "He has just had haematuria"], "a": 0, "e": ["For example, a 55-year-old with a normal DRE who has never had a PSA test."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "Evaluation", "q": "The gold standard for diagnosing bladder outlet obstruction is:", "o": ["Cystoscopy", "Uroflowmetry", "Pressure–flow urodynamics", "TRUS"], "a": 2, "e": ["Detrusor overactivity is found in up to 83% of men with severe obstruction, and does not always resolve after treatment."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "Management", "q": "A 50-year-old with IPSS 7 and no risk factors for progression should be offered:", "o": ["TURP (transurethral resection of the prostate)", "α-blocker", "Watchful waiting: education, lifestyle and fluid advice, medicine review, and yearly follow-up", "5-ARI (5-alpha-reductase inhibitor)"], "a": 2, "e": ["Lifestyle advice includes sensible fluid intake and cutting down caffeine, tea and alcohol."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "α-blockers", "q": "Which α-blocker needs dose titration when first prescribed?", "o": ["Alfuzosin", "Terazosin", "Tamsulosin", "Silodosin"], "a": 1, "e": ["Non-uroselective agents (terazosin, immediate-release doxazosin) carry a high risk of first-dose hypotension. Still warn every patient on any α-blocker."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "α-blockers", "q": "The dizziness and asthenia seen with α1-blockers are thought to be mainly due to:", "o": ["Hypokalaemia", "Reduced cardiac output", "Carotid baroreceptors", "Effects on the central nervous system"], "a": 3, "e": ["Postural hypotension is a separate, vascular α1B effect (relative risk about 2.7 for doxazosin vs placebo)."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "α-blockers", "q": "Naftopidil is distinctive because it is selective for which receptor?", "o": ["α1D", "α1B", "β3", "α1A"], "a": 0, "e": ["Silodosin is the most α1A-selective. It gave the largest BOOI (bladder outlet obstruction index) reduction (about −30) and has the most ejaculatory dysfunction."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "α-blockers", "q": "Symptom relief with tamsulosin is expected after about:", "o": ["1 week", "1 month", "1 day", "6 months"], "a": 0, "e": ["Flow improves within hours. Tamsulosin 0.4 mg and silodosin 8 mg give similar symptom relief."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "α-blockers", "q": "A man taking tamsulosin is listed for cataract surgery. Best advice:", "o": ["Switch to terazosin", "Stop tamsulosin 1 month before", "Tell the ophthalmologist he takes an α-blocker", "Halve the dose"], "a": 2, "e": ["Intraoperative floppy iris syndrome cannot be reliably prevented by stopping the drug. The surgeon needs to know so they can adapt their technique."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "5-ARIs", "q": "Over 6–24 months, 5-ARIs shrink the prostate by about:", "o": ["5%", "50%", "80%", "15–30%"], "a": 3, "e": ["PSA falls by about 50% (so double the measured value). They reduce the risk of retention and surgery, mainly in larger glands."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "5-ARIs", "q": "Which statement about finasteride is correct?", "o": ["It raises PSA", "It shrinks the prostate within 1 month", "It inhibits type 2 5α-reductase and lowers serum DHT by about 70%; volume and flow changes take months", "It is a type 1 inhibitor that does not lower serum DHT"], "a": 2, "e": ["Correction: the review's answer key calls finasteride a type 1 inhibitor that does not lower DHT. That is wrong. Finasteride inhibits type 2 and lowers serum DHT by about 70%. Dutasteride inhibits types 1 and 2 and lowers it by more than 90%."], "s": "Ch 145 BPH evaluation and medical therapy (book answer corrected)"}, {"f": "mcq", "t": "5-ARIs", "q": "Which adverse effect should patients starting a 5-ARI be warned about, according to the chapter?", "o": ["Depressive symptoms (plus sexual side effects)", "Higher overall prostate cancer incidence", "Diabetes", "Cardiovascular events"], "a": 0, "e": ["Large trials found more depressive symptoms. Sexual side effects (libido, erection, ejaculation) and gynaecomastia are the classic ones."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "Combination", "q": "In MTOPS, which arm best reduced clinical progression?", "o": ["Finasteride alone", "Placebo", "Doxazosin alone", "Doxazosin plus finasteride"], "a": 3, "e": ["Doxazosin alone reduced progression compared with placebo but did not reduce invasive therapy. Combination therapy beat both monotherapies."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "Combination", "q": "In CombAT, dutasteride monotherapy was better than tamsulosin at:", "o": ["Reducing blood pressure", "Early symptom relief", "Improving ejaculation", "Reducing the need for surgery"], "a": 3, "e": ["Combination therapy suits large prostates with bothersome voiding symptoms."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "Storage symptoms", "q": "An antimuscarinic for a man with BPH and storage symptoms should be avoided when:", "o": ["Post-void residual is over 200 mL", "There is detrusor overactivity", "Prostate is over 50 mL", "IPSS is severe"], "a": 0, "e": ["Trials enrolled only men with a residual below 200 mL. Mirabegron is better tolerated in older men with mainly storage symptoms."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "PDE5 inhibitors", "q": "Daily PDE5 inhibitor monotherapy for LUTS:", "o": ["Prevents retention", "Improves Qmax but not symptoms", "Lowers IPSS by about 2–4 points more than placebo, without a significant flow improvement", "Inhibits 5α-reductase"], "a": 2, "e": ["It relaxes smooth muscle in the prostate and bladder neck through nitric oxide and cGMP."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "Phytotherapy", "q": "Meta-analysis of Serenoa repens (saw palmetto) vs placebo showed:", "o": ["Symptom benefit only", "Better flow only", "No difference in symptoms or flow", "Benefit at triple dose"], "a": 2, "e": ["Its mechanism is unknown, and extracts differ between products. Some data support the hexane extract."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "Retention", "q": "After a first episode of acute urinary retention, a trial without catheter succeeds in about:", "o": ["35%", "60%", "90%", "10%"], "a": 1, "e": ["Start an α-blocker before the trial without catheter to improve the chance of success. Recurrent retention is an indication for surgery."], "s": "Ch 145 BPH evaluation and medical therapy"}, {"f": "mcq", "t": "TURP", "q": "During monopolar TURP under spinal anaesthesia the patient becomes confused, hypertensive and bradycardic, with sodium 110 mmol/L. Best management:", "o": ["Change glycine to sorbitol", "Switch to bipolar and finish", "Convert to open prostatectomy", "Lower the irrigation, control bleeding, stop the operation, give furosemide and calculated hypertonic saline"], "a": 3, "e": ["This is TUR syndrome: dilutional hyponatraemia from absorbing non-sodium irrigant. Correct the sodium carefully, because correcting too fast risks central pontine myelinolysis."], "s": "Ch 146 Endoscopic and minimally invasive BPH therapy"}, {"f": "mcq", "t": "TURP", "q": "The recommended irrigation height to limit fluid absorption during TURP is about:", "o": ["150 cm", "60 cm", "100 cm", "30 cm"], "a": 1, "e": ["Raising it 10 cm above this more than doubles fluid absorption. Symptoms usually start once sodium falls below 120 mmol/L."], "s": "Ch 146 Endoscopic and minimally invasive BPH therapy"}, {"f": "mcq", "t": "TURP", "q": "Dark blood fills the irrigant during TURP but no bleeding point can be seen. Most likely source, and the usual remedy if diathermy fails:", "o": ["Arterial; open conversion", "Venous sinus bleeding; catheter with an over-inflated balloon on traction", "Coagulopathy; FFP", "Bladder perforation; laparotomy"], "a": 1, "e": ["Venous bleeding is darker and often stops when the bladder is full."], "s": "Ch 146 Endoscopic and minimally invasive BPH therapy"}, {"f": "mcq", "t": "TURP", "q": "Resection in TURP conventionally begins with:", "o": ["The apex", "The floor at the verumontanum", "The anterior gland", "The median lobe, if present"], "a": 3, "e": ["The verumontanum marks the distal limit, protecting the external sphincter."], "s": "Ch 146 Endoscopic and minimally invasive BPH therapy"}, {"f": "mcq", "t": "Bipolar TURP", "q": "Compared with monopolar TURP, bipolar TURP:", "o": ["Has fewer strictures", "Has more TUR syndrome", "Has lower retreatment", "Practically eliminates TUR syndrome and reduces transfusion (relative risk about 0.53), with similar late complications"], "a": 3, "e": ["It uses saline. Bladder neck contracture and retreatment rates are not clearly different."], "s": "Ch 146 Endoscopic and minimally invasive BPH therapy"}, {"f": "mcq", "t": "TUIP", "q": "Transurethral incision of the prostate is best suited to:", "o": ["Median lobes", "Glands over 80 mL", "Prostate cancer", "Small glands (under about 30 mL); retrograde ejaculation in up to 37%, possibly less if unilateral"], "a": 3, "e": ["No tissue is removed and there is no TUR syndrome."], "s": "Ch 146 Endoscopic and minimally invasive BPH therapy"}, {"f": "mcq", "t": "Lasers", "q": "Which laser-safety rule is correct?", "o": ["KTP energy is absorbed by irrigant", "Only the surgeon needs eye protection", "Eye protection is unnecessary with a video camera", "Cover all windows and openings, post signs at every door, and protect the eyes of everyone including the patient"], "a": 3, "e": ["Holmium energy is absorbed by water, but KTP/LBO (green-light) energy is not. Both damage the eye in air."], "s": "Ch 146 Endoscopic and minimally invasive BPH therapy"}, {"f": "mcq", "t": "Prostatic urethral lift", "q": "Prostatic urethral lift implants are placed:", "o": ["In the peripheral zone", "Posterolaterally", "Anteriorly", "Anterolaterally, avoiding the neurovascular bundles and anterior veins"], "a": 3, "e": ["The book's criteria are a prostate under 80 g with no obstructing median lobe. It preserves erection and ejaculation, but long-term durability is less certain."], "s": "Ch 146 Endoscopic and minimally invasive BPH therapy"}, {"f": "mcq", "t": "Anticoagulation", "q": "Men on anticoagulation having photoselective vaporisation (PVP) mainly have:", "o": ["TUR syndrome", "More transfusions", "Longer hospital stay, more irrigation and longer catheterisation", "More erectile dysfunction"], "a": 2, "e": ["Transfusion rates were not higher. PVP uses saline, so there is no TUR syndrome."], "s": "Ch 146 Endoscopic and minimally invasive BPH therapy"}, {"f": "mcq", "t": "Simple prostatectomy", "q": "The suprapubic (transvesical) route is preferred over the retropubic route when there is:", "o": ["A large intravesical median lobe, a symptomatic diverticulum or large bladder stones", "Significant prostate cancer", "A small fibrous gland", "Previous pelvic surgery"], "a": 0, "e": ["For a large adenoma with a symptomatic diverticulum, do the prostatectomy and diverticulectomy together. Otherwise the diverticulum keeps emptying poorly and stays infected."], "s": "Ch 147 Simple prostatectomy"}, {"f": "mcq", "t": "Simple prostatectomy", "q": "Which of these is the only ABSOLUTE indication for prostatectomy, according to the chapter?", "o": ["Kidney damage caused by prostatic obstruction", "Bladder stones", "Recurrent UTI", "Retention"], "a": 0, "e": ["The rest are relative indications. Contraindications include a small fibrous gland, significant cancer, and previous prostatectomy or pelvic surgery. The chapter advises against open simple prostatectomy below about 75 g (guidelines usually use more than 80 mL). HoLEP is now a size-independent alternative."], "s": "Ch 147 Simple prostatectomy"}];
+const KEYS = ["A","B","C","D"];
+const FIG = {
+cmg: `<figure class="fig"><svg viewBox="0 0 520 320" role="img" aria-label="Cystometrogram with three channels. At A, a sharp spike appears in Pves and Pabd but not in Pdet. At B, two waves appear in Pves and Pdet while Pabd stays flat.">
+  <g class="ax"><line x1="60" y1="80" x2="500" y2="80"/><line x1="60" y1="170" x2="500" y2="170"/><line x1="60" y1="260" x2="500" y2="260"/><line x1="60" y1="290" x2="500" y2="290"/></g>
+  <g class="lbl"><text x="54" y="84" text-anchor="end">Pves</text><text x="54" y="174" text-anchor="end">Pabd</text><text x="54" y="264" text-anchor="end">Pdet</text>
+  ${[0,100,200,300,400].map(v=>`<text x="${60+1.1*v}" y="305" text-anchor="middle">${v}</text>`).join("")}
+  <text x="280" y="318" text-anchor="middle">Volume infused (mL)</text>
+  <text x="170" y="26" text-anchor="middle" class="tagl">A</text><text x="381" y="26" text-anchor="middle" class="tagl">B</text></g>
+  <line class="mark" x1="170" y1="32" x2="170" y2="290"/><line class="mark" x1="381" y1="32" x2="381" y2="290"/>
+  <polyline class="trace" points="60,80 165,80 170,40 175,80 335,80 345,58 352,50 360,62 368,80 390,80 400,55 409,46 418,60 428,80 500,80"/>
+  <polyline class="trace" points="60,170 165,170 170,130 175,170 500,170"/>
+  <polyline class="trace" points="60,260 335,260 345,238 352,230 360,242 368,260 390,260 400,235 409,226 418,240 428,260 500,260"/>
+</svg><figcaption>Channels are drawn on separate baselines. The vertical scale is the same for all three.</figcaption></figure>`,
+comp: `<figure class="fig"><svg viewBox="0 0 520 300" role="img" aria-label="Detrusor pressure rising steadily from 5 cmH2O at 0 mL to 45 cmH2O at 300 mL and about 52 at 350 mL.">
+  <g class="grid">${[180,100,20].map(y=>`<line x1="60" x2="500" y1="${y}" y2="${y}"/>`).join("")}</g>
+  <g class="ax"><line x1="60" y1="260" x2="500" y2="260"/><line x1="60" y1="260" x2="60" y2="20"/></g>
+  <g class="lbl">${[0,100,200,300,400].map(v=>`<text x="${60+1.1*v}" y="278" text-anchor="middle">${v}</text>`).join("")}
+  ${[0,20,40,60].map(p=>`<text x="52" y="${264-4*p}" text-anchor="end">${p}</text>`).join("")}
+  <text x="280" y="296" text-anchor="middle">Volume infused (mL)</text><text x="16" y="140" text-anchor="middle" transform="rotate(-90 16 140)">Pdet (cmH₂O)</text></g>
+  <line class="mark" x1="390" y1="260" x2="390" y2="80"/><line class="mark" x1="60" y1="80" x2="390" y2="80"/>
+  <polyline class="trace" points="60,240 170,206 280,160 390,80 445,52"/>
+</svg></figure>`
+};
+
+const STORE = "mch-cwr-bph-1";
+const N = Q.length;
+const fresh = () => ({ i: 0, ans: Array(N).fill(null), done: Array(N).fill(false), grade: Array(N).fill(null) });
+let state = fresh();
+try { const s = JSON.parse(localStorage.getItem(STORE)); if (s && s.ans && s.ans.length === N) state = s; } catch (e) {}
+const save = () => { try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) {} };
+
+const stage = document.getElementById("stage"), strip = document.getElementById("strip");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+const fmt = x => Number.isInteger(x) ? String(x) : x.toFixed(1);
+const isMcq = k => Q[k].f === "mcq";
+const pts = k => !state.done[k] ? 0 : isMcq(k) ? (state.ans[k] === Q[k].a ? 1 : 0) : (state.grade[k] ?? 0);
+const finished = k => state.done[k] && (isMcq(k) || state.grade[k] !== null);
+const status = k => !state.done[k] ? "" : !finished(k) ? "pend" : pts(k) === 1 ? "ok" : pts(k) > 0 ? "part" : "bad";
+const score = () => Q.reduce((n, _, k) => n + pts(k), 0);
+const hits = k => { const a = String(state.ans[k] || "").toLowerCase(); return a && Q[k].k.some(w => a.includes(w)); };
+const FMT = { mcq: "Single best answer", text: "Written answer", line: "One-line answer" };
+
+function renderStrip() {
+  strip.innerHTML = "";
+  Q.forEach((_, k) => {
+    const b = document.createElement("button");
+    b.className = "pip " + status(k) + (k === state.i ? " cur" : "");
+    b.setAttribute("aria-label", "Question " + (k + 1));
+    b.onclick = () => { state.i = k; save(); render(); };
+    strip.appendChild(b);
+  });
+  document.getElementById("pos").textContent = state.i < N ? `Question ${state.i + 1} of ${N} · ${FMT[Q[state.i].f]}` : "Finished";
+  document.getElementById("tally").textContent = `${fmt(score())} marks · ${Q.filter((_, k) => finished(k)).length} done`;
+}
+
+const selfmark = k => `<div class="selfmark" role="group" aria-label="Mark yourself"><span class="hint">Mark yourself:</span>
+  ${[[1,"Got it (1)"],[0.5,"Partly (½)"],[0,"Missed (0)"]].map(([v,l]) => `<button class="chip${state.grade[k] === v ? " on" : ""}" data-g="${v}">${l}</button>`).join("")}</div>`;
+
+function render() {
+  renderStrip();
+  if (state.i >= N) return renderResult();
+  const k = state.i, it = Q[k], done = state.done[k], ans = state.ans[k], last = k === N - 1;
+  let body = "", exp = "";
+  if (it.f === "mcq") {
+    body = `<div class="opts" role="group" aria-label="Answer options">${it.o.map((txt, j) => {
+      let c = "opt"; if (done) { if (j === it.a) c += " right"; else if (j === ans) c += " wrong"; } else if (j === ans) c += " sel";
+      return `<button class="${c}" data-j="${j}" ${done ? "disabled" : ""}><span class="k">${KEYS[j]}</span><span>${txt}</span></button>`; }).join("")}</div>`;
+    if (done) exp = `<div class="explain"><div class="verdict ${ans === it.a ? "ok" : "bad"}">${ans === it.a ? "Correct." : "Not quite. The answer is " + KEYS[it.a] + "."}</div>
+      <ul>${it.e.map(x => `<li>${x}</li>`).join("")}</ul><p class="src">Read more: ${it.s}</p></div>`;
+  } else if (it.f === "text") {
+    body = done ? `<div class="mine"><div class="eyebrow">Your answer</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Write your answer</label><textarea id="ans-${k}" rows="7" placeholder="Write it as you would in the exam.">${esc(ans)}</textarea>`;
+    if (done) exp = `<div class="explain"><div class="eyebrow">Model answer: compare point by point</div><ul>${it.m.map(x => `<li>${x}</li>`).join("")}</ul><p class="src">Read more: ${it.s}</p>${selfmark(k)}</div>`;
+  } else {
+    body = done ? `<div class="mine"><div class="eyebrow">Your line</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Your one-line answer</label><input class="line" id="ans-${k}" type="text" autocomplete="off" value="${esc(ans)}" placeholder="Type and press Enter">`;
+    if (done) exp = `<div class="explain"><div class="eyebrow">Model answer</div><p class="model">${it.a}</p><p class="also">${it.x}</p>
+      <span class="match ${hits(k) ? "ok" : "no"}">${hits(k) ? "Your line contains the key term." : "Key term not found in your line. Check the meaning yourself."}</span>${selfmark(k)}</div>`;
+  }
+  const primary = done ? `<button class="btn primary" id="next" ${finished(k) ? "" : "disabled"}>${last ? "See results" : "Next question"}</button>`
+    : `<button class="btn primary" id="check" ${it.f === "mcq" && ans === null ? "disabled" : ""}>${it.f === "mcq" ? "Check answer" : "Show model answer"}</button>`;
+  stage.innerHTML = `<article class="card">
+    <div class="qhead"><span class="qno">Q${String(k + 1).padStart(2, "0")}</span><span class="tag">${it.t}</span></div>
+    <p class="stem">${it.q}</p>${it.img ? FIG[it.img] : ""}${body}${exp}
+    <div class="actions"><button class="btn ghost" id="prev" ${k === 0 ? "disabled" : ""}>Previous</button>${primary}</div>
+    ${done && !finished(k) ? `<span class="hint">Mark yourself to continue.</span>` : ""}</article>`;
+  stage.querySelectorAll(".opt").forEach(b => b.onclick = () => { if (!state.done[k]) { state.ans[k] = +b.dataset.j; save(); render(); } });
+  stage.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.grade[k] = +b.dataset.g; save(); render(); });
+  const inp = document.getElementById("ans-" + k);
+  if (inp) { inp.oninput = () => { state.ans[k] = inp.value; save(); };
+    if (it.f === "line") inp.onkeydown = e => { if (e.key === "Enter") { e.preventDefault(); check(); } }; }
+  const c = document.getElementById("check"); if (c) c.onclick = check;
+  const n = document.getElementById("next"); if (n) n.onclick = next;
+  document.getElementById("prev").onclick = () => { if (state.i > 0) { state.i--; save(); render(); } };
+}
+function check() { const k = state.i; if (isMcq(k) && state.ans[k] === null) return; state.done[k] = true; save(); render(); }
+function next() {
+  const k = state.i; if (!finished(k)) return;
+  const open = Q.findIndex((_, j) => j > k && !finished(j));
+  state.i = open !== -1 ? open : (Q.every((_, j) => finished(j)) ? N : Q.findIndex((_, j) => !finished(j)));
+  save(); render(); window.scrollTo({ top: 0 });
+}
+function renderResult() {
+  const r = score();
+  const mark = k => ({ ok: `<span class="s ok">✓</span>`, part: `<span class="s part">½</span>`, bad: `<span class="s bad">✗${isMcq(k) ? " " + KEYS[Q[k].a] : ""}</span>` }[status(k)] || `<span class="s">–</span>`);
+  stage.innerHTML = `<article class="card result"><div class="eyebrow">Your score</div><div class="score">${fmt(r)} / ${N}</div>
+    <p class="sub">${Math.round(r / N * 100)}%. Written and one-line answers count as you marked them. Tap any topic to review it.</p>
+    <ul class="review">${Q.map((it, k) => `<li><span class="n">${k + 1}</span><button data-k="${k}">${it.t}</button>${mark(k)}</li>`).join("")}</ul>
+    <div class="actions"><button class="btn ghost" id="reset">Start again</button></div></article>`;
+  stage.querySelectorAll(".review button").forEach(b => b.onclick = () => { state.i = +b.dataset.k; save(); render(); });
+  document.getElementById("reset").onclick = () => { state = fresh(); save(); render(); };
+}
+document.addEventListener("keydown", e => {
+  if (e.metaKey || e.ctrlKey || e.altKey || state.i >= N || !isMcq(state.i)) return;
+  const k = state.i, j = KEYS.indexOf(e.key.toUpperCase());
+  if (j > -1 && !state.done[k]) { state.ans[k] = j; save(); render(); }
+  else if (e.key === "Enter" && document.activeElement?.tagName !== "BUTTON") { state.done[k] ? next() : check(); }
+});
+render();
+</script>
