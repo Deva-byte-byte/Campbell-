@@ -11,7 +11,7 @@
 ],
 "a": 2,
 "e": [
-"After the neonatal period fever is the main symptom; vomiting is nonspecific for UTI at 0–24 months. Boys outnumber girls under 1 year; after that girls do, lifelong. Risk in girls: white race, age <12 months, temperature ≥39°C, fever ≥2 days, no other source (≥2 factors: ≥1%, ≥3: ≥2%; African American race lowers risk). Under 6 years, recurrence is 12% per year after a UTI. Clinical symptoms correlate poorly with localisation."
+"After the neonatal period fever is the main symptom; vomiting is nonspecific for UTI at 0–24 months. Boys outnumber girls under 1 year; after that girls do, lifelong. Risk in girls: white race, age <12 months, temperature ≥39°C, fever ≥2 days, no other source (≥2 factors: ≥1%, ≥3: ≥2%; African American race lowers risk). Under 6 years, recurrence is 12% per year after a UTI. Clinical symptoms correlate poorly with localisation. Also: Uropathogen colonisation of the prepuce peaks in the first 6 months and falls by 5 years."
 ],
 "s": "Ch 25 Paediatric UTI",
 "c": [
@@ -21,13 +21,15 @@
 "c025-r23",
 "c025-a11",
 "c025-a02",
-"c025-r02"
+"c025-r02",
+"c025-a19"
 ],
 "b": [
 "Vomiting is nonspecific (0–24 months)",
 "Fever is main sign after neonatal period",
 "Boys > girls in first year",
-"Girls > boys after 1 year, lifelong"
+"Girls > boys after 1 year, lifelong",
+"Circumcision and UTI: 10-fold"
 ]
 },
 {
@@ -65,38 +67,15 @@
 },
 {
 "f": "mcq",
-"t": "Circumcision and UTI",
-"q": "Circumcision reduces UTI in the first 6 months of life by about:",
-"o": [
-"2-fold",
-"10-fold",
-"No reduction",
-"50-fold"
-],
-"a": 1,
-"e": [
-"Uropathogen colonisation of the prepuce peaks in the first 6 months and falls by 5 years."
-],
-"s": "Ch 25 Paediatric UTI",
-"c": [
-"c025-a19"
-],
-"b": [
-"~10-fold reduction in first 6 months",
-"Preputial uropathogens peak early"
-]
-},
-{
-"f": "mcq",
 "t": "Contaminated scrotum",
 "q": "A man with clinical stage I NSGCT and lymphovascular invasion had a scrotal orchiectomy. The best management is:",
 "o": [
-"Inguinal re-exploration alone",
-"Two cycles of carboplatin alone",
+"Surveillance with CT every 3 months",
 "RPLND plus scar and cord excision",
-"Surveillance with CT every 3 months"
+"Inguinal re-exploration alone",
+"Two cycles of carboplatin alone"
 ],
-"a": 2,
+"a": 1,
 "e": [
 "Scrotal violation plus vascular invasion makes surveillance suboptimal; RPLND with wide scar and cord excision. RPLND is the treatment of choice for stage I NSGCT with teratoma. Offer sperm banking before any RPLND. Small-volume pN1 is cured by RPLND alone in ~70%."
 ],
@@ -119,12 +98,12 @@
 "t": "Stone epidemiology",
 "q": "Which statement about stone epidemiology is FALSE?",
 "o": [
+"Prevalence correlates with body mass index",
 "Peak incidence is in the 4th to 6th decades",
 "Stones are commonest in African Americans",
-"Stones are 2–3 times commoner in men",
-"Prevalence correlates with body mass index"
+"Stones are 2–3 times commoner in men"
 ],
-"a": 1,
+"a": 2,
 "e": [
 "Whites have the highest prevalence; lowest in African American men and (one series) Asian women. Calcium oxalate stones are most prevalent in the US southeast. Men 2–3×; uncommon before 20; peak 4th–6th decades. Metabolic syndrome raises risk; high BMI raises oxalate, uric acid, sodium and phosphorus excretion and uric acid supersaturation. Incidence is rising worldwide."
 ],
@@ -149,11 +128,11 @@
 "q": "Which statement about renal cryoablation is FALSE?",
 "o": [
 "The ice ball extends 5–10 mm past the tumour",
-"−40°C lies about 3 mm inside the ice edge",
 "A single freeze–thaw cycle is preferred",
-"The target temperature is −40°C"
+"The target temperature is −40°C",
+"−40°C lies about 3 mm inside the ice edge"
 ],
-"a": 2,
+"a": 1,
 "e": [
 "A double freeze-thaw cycle (holding −40°C) gives better ablation than a single cycle. Normal parenchyma dies at −19.4°C, but tumour needs −40°C, reached 3.1 mm inside the ice ball edge, so extend the ice 5–10 mm beyond the tumour. Haemorrhage is the commonest complication of cryoablation."
 ],
@@ -176,12 +155,12 @@
 "t": "Suprasacral cord injury",
 "q": "A man with complete T10 spinal cord injury, after spinal shock, most likely shows:",
 "o": [
-"DO with both sphincters in synergy",
-"Normal storage with poor emptying",
 "Areflexia with an open bladder neck",
-"DO with striated dyssynergia"
+"Normal storage with poor emptying",
+"DO with striated dyssynergia",
+"DO with both sphincters in synergy"
 ],
-"a": 3,
+"a": 2,
 "e": [
 "Complete lesions between T6 and S2 (above sacral cord, below sympathetic outflow): involuntary contractions without sensation, smooth sphincter synergy, striated sphincter dyssynergia. Lesions at or above T6 (cord T7–T8) may add smooth sphincter dyssynergia and autonomic hyperreflexia. Suprapontine lesions: DO with synergic sphincters and preserved sensation. Neurological examination is no substitute for urodynamics."
 ],
@@ -205,12 +184,12 @@
 "t": "MIBC staging",
 "q": "Which statement about staging muscle-invasive bladder cancer (MIBC) is FALSE?",
 "o": [
+"About 25% of cT2 tumours have nodes at cystectomy",
 "Repeat TUR is advised for T1 high grade",
-"Single-node laterality predicts survival",
 "Bimanual EUA is part of local staging",
-"About 25% of cT2 tumours have nodes at cystectomy"
+"Single-node laterality predicts survival"
 ],
-"a": 1,
+"a": 3,
 "e": [
 "Laterality of a single positive node has no prognostic value (number of nodes may). About 25% of cT2 have node metastases; 70–80% of node-positive patients recur. Staging: adequate TURBT, EUA, cross-sectional imaging, labs. Re-resect T1G3 (understaging common). Fat may occur within the bladder wall (not perivesical). Node risk rises with depth and LVI; skip nodal metastases are rare (unlike prostate cancer)."
 ],
@@ -237,12 +216,12 @@
 "t": "PSA specificity",
 "q": "Which statement about PSA is FALSE?",
 "o": [
-"PSA is a kallikrein-family protease",
-"Its serum half-life is 2 to 3 days",
+"Ejaculation can falsely raise it",
 "PSA is specific to prostate cancer",
-"Ejaculation can falsely raise it"
+"Its serum half-life is 2 to 3 days",
+"PSA is a kallikrein-family protease"
 ],
-"a": 2,
+"a": 1,
 "e": [
 "PSA is organ-specific, not disease-specific: inflammation and BPH raise it too. It is a kallikrein (as is hK2, which is more intensely expressed in cancer, especially poorly differentiated). Half-life 2–3 days. Gram for gram, cancer cells make less PSA (up to 1.5-fold lower mRNA); serum rises from architectural disruption. Expression is androgen-driven. Ectopic PSA occurs in breast, adrenal and renal cancers. Up to 30% with raised PSA have cancer on biopsy; 75–80% do not."
 ],
@@ -270,13 +249,13 @@
 "q": "Which statement about urine dipstick tests in children is FALSE?",
 "o": [
 "Leukocyte esterase is sensitive, less specific",
-"Frequent voiding causes false-negative nitrite",
 "First morning urine best detects nitrite",
-"Nitrite is highly sensitive but not specific"
+"Nitrite is highly sensitive but not specific",
+"Frequent voiding causes false-negative nitrite"
 ],
-"a": 3,
+"a": 2,
 "e": [
-"Nitrite is highly specific but insensitive: gram-negative enteric bacteria need hours to reduce nitrate, so infants' frequent voiding and dilute urine give false negatives; urinary retention would not. Leukocyte esterase: high sensitivity, low specificity. >5–10 WBC/HPF suggests UTI; culture confirms. CRP and procalcitonin rise in pyelonephritis."
+"Nitrite is highly specific but insensitive: gram-negative enteric bacteria need hours to reduce nitrate, so infants' frequent voiding and dilute urine give false negatives; urinary retention would not. Leukocyte esterase: high sensitivity, low specificity. >5–10 WBC/HPF suggests UTI; culture confirms. CRP and procalcitonin rise in pyelonephritis. Also: Suprapubic aspiration is the most reliable: any growth. Catheter specimen ≥50,000 CFU/mL; clean catch ≥100,000 CFU/mL."
 ],
 "s": "Ch 25 Paediatric UTI",
 "c": [
@@ -284,13 +263,17 @@
 "c025-a03",
 "c025-r21",
 "c025-r17",
-"c025-r07"
+"c025-r07",
+"c025-a29",
+"c025-r06",
+"c025-r26"
 ],
 "b": [
 "Nitrite: specific, not sensitive",
 "Leukocyte esterase: sensitive, not specific",
 "First morning urine best for nitrite",
-"Frequent voiding → false-negative nitrite"
+"Frequent voiding → false-negative nitrite",
+"Urine culture thresholds: Any growth on suprapubic aspirate"
 ]
 },
 {
@@ -298,12 +281,12 @@
 "t": "Peyronie evaluation",
 "q": "Which statement about evaluating Peyronie disease is FALSE?",
 "o": [
-"Psychological distress affects 77–94%",
-"Calliper plaque size is accurate and useful",
 "Calcification can occur early in the disease",
-"Duplex after injection best measures curvature"
+"Psychological distress affects 77–94%",
+"Duplex after injection best measures curvature",
+"Calliper plaque size is accurate and useful"
 ],
-"a": 1,
+"a": 3,
 "e": [
 "Plaque size is inaccurate by any method (not a discrete lesion). Calcification may occur early; it does not mean mature disease, and it reduces success of verapamil or interferon injections. Duplex after vasoactive injection: calcification, vascular parameters, erectile response vs home erection and objective deformity (not sensation). Distress in 77–94%; shortening and inability to have intercourse drive it; partners are affected too. After prostatectomy 11–16% develop PD/fibrosis."
 ],
@@ -330,13 +313,13 @@
 "q": "Which statement about laparoscopic RPLND is FALSE?",
 "o": [
 "Lumbar veins lie close to sympathetic nerves",
+"It improves disease-free survival over open",
 "Bleeding is the commonest cause of conversion",
-"Chylous ascites occurs in under 2%",
-"It improves disease-free survival over open"
+"Chylous ascites occurs in under 2%"
 ],
-"a": 3,
+"a": 1,
 "e": [
-"No study shows a disease-free survival difference between open and laparoscopic RPLND. Vascular injury is the commonest intraoperative complication and bleeding the commonest reason to convert (<5% in experienced hands). Chylous ascites (<2%): low-fat diet, hydration, drainage; reoperation last. Nerve-sparing: take care around lumbar veins next to the sympathetic chain. If a suspicious node is found, do a full bilateral dissection (chemo won't compensate). Templates do not extend above the renal hilum (no retrocrural nodes)."
+"No study shows a disease-free survival difference between open and laparoscopic RPLND. Vascular injury is the commonest intraoperative complication and bleeding the commonest reason to convert (<5% in experienced hands). Chylous ascites (<2%): low-fat diet, hydration, drainage; reoperation last. Nerve-sparing: take care around lumbar veins next to the sympathetic chain. If a suspicious node is found, do a full bilateral dissection (chemo won't compensate). Templates do not extend above the renal hilum (no retrocrural nodes). Also: Two more cycles improve survival when viable tumour is completely resected; prognosis depends on markers at RPLND, prior treatment and pathology. Also: Teratoma's slow growth and chemoresistance explain late relapse. Viable GCT completely resected at post-chemotherapy RPLND: two more cycles of platinum-based chemotherapy improve survival (Einhorn: only 2/22 survived without it)."
 ],
 "s": "Ch 78 Laparoscopic RPLND",
 "c": [
@@ -345,13 +328,17 @@
 "c078-a06",
 "c078-r04",
 "c078-a04",
-"c078-a07"
+"c078-a07",
+"c078-a03",
+"c078-a02"
 ],
 "b": [
 "No DFS difference open vs laparoscopic",
 "Bleeding: commonest conversion cause",
 "Chylous ascites <2%: low-fat diet first",
-"Lumbar veins next to sympathetic chain"
+"Lumbar veins next to sympathetic chain",
+"Viable GCT after chemo: Two cycles of platinum chemotherapy",
+"Late relapse GCT: Teratoma"
 ]
 },
 {
@@ -360,13 +347,13 @@
 "q": "Which statement about crystallisation is FALSE?",
 "o": [
 "Matrix makes up about 2.5% of a typical stone",
+"Metastable urine is supersaturated without precipitating",
 "Most stone salts are supersaturated in urine",
-"Homogeneous nucleation needs an impurity surface",
-"Metastable urine is supersaturated without precipitating"
+"Homogeneous nucleation needs an impurity surface"
 ],
-"a": 2,
+"a": 3,
 "e": [
-"Homogeneous nucleation is nucleus formation in pure solution; heterogeneous nucleation uses impurities as a surface. Concentration product = product of concentrations; solubility product = where precipitation can occur; above it, a solution is supersaturated; if it does not precipitate it is metastable; precipitation occurs at the formation product. Most salts are supersaturated; inhibitors keep them in solution. Matrix (mucoproteins, carbohydrates, inhibitors) is ~2.5% (range 2.5–65% by type). Saturation index (EQUIL 2; JESS more accurate) indicates stone-forming propensity."
+"Homogeneous nucleation is nucleus formation in pure solution; heterogeneous nucleation uses impurities as a surface. Concentration product = product of concentrations; solubility product = where precipitation can occur; above it, a solution is supersaturated; if it does not precipitate it is metastable; precipitation occurs at the formation product. Most salts are supersaturated; inhibitors keep them in solution. Matrix (mucoproteins, carbohydrates, inhibitors) is ~2.5% (range 2.5–65% by type). Saturation index (EQUIL 2; JESS more accurate) indicates stone-forming propensity. Also: Book: calcium oxalate 60%; mixed calcium oxalate/hydroxyapatite 20%; uric acid 10%; struvite 10%; brushite 2%; cystine 1%. Randall plaques (calcium apatite) start in the basement membrane of the thin loops of Henle and anchor calcium oxalate stones in idiopathic formers."
 ],
 "s": "Ch 91 Stone aetiology",
 "c": [
@@ -380,13 +367,17 @@
 "c091-r09",
 "c091-a06",
 "c091-r10",
-"c091-a07"
+"c091-a07",
+"c091-r14",
+"c091-a15",
+"c091-a16"
 ],
 "b": [
 "Homogeneous nucleation: pure solution",
 "Metastable: supersaturated, no precipitation",
 "Most salts supersaturated; inhibitors hold them",
-"Matrix ≈2.5% (2.5–65%)"
+"Matrix ≈2.5% (2.5–65%)",
+"Stone composition: Calcium oxalate (about 60%)"
 ]
 },
 {
@@ -394,14 +385,14 @@
 "t": "RFA",
 "q": "Which statement about radiofrequency ablation (RFA) is FALSE?",
 "o": [
-"Real-time monitoring is its main drawback",
 "Collecting system injury is a serious risk",
+"Saline-cooled probes reduce charring",
 "It bleeds more often than cryoablation",
-"Saline-cooled probes reduce charring"
+"Real-time monitoring is its main drawback"
 ],
 "a": 2,
 "e": [
-"Bleeding is more frequent with cryoablation. RFA heats by ionic agitation; charring raises impedance and blocks conduction, so probes are cooled or conductive saline used (a larger 'virtual electrode'). Its main drawback is difficulty monitoring in real time. Ureteral/collecting system injury is a serious RFA complication. RFA can be laparoscopic, percutaneous or open; CSS equals cryoablation. HIFU often causes skin burns."
+"Bleeding is more frequent with cryoablation. RFA heats by ionic agitation; charring raises impedance and blocks conduction, so probes are cooled or conductive saline used (a larger 'virtual electrode'). Its main drawback is difficulty monitoring in real time. Ureteral/collecting system injury is a serious RFA complication. RFA can be laparoscopic, percutaneous or open; CSS equals cryoablation. HIFU often causes skin burns. Also: IRE delivers electrical pulses via bipolar or monopolar electrodes that permeabilise membranes and kill cells while preserving scaffolding, large vessels and urothelium."
 ],
 "s": "Ch 103 Renal tumour ablation",
 "c": [
@@ -409,13 +400,15 @@
 "c103-a07",
 "c103-r02",
 "c103-r05",
-"c103-r06"
+"c103-r06",
+"c103-a08"
 ],
 "b": [
 "Bleeds less than cryoablation",
 "Main drawback: no real-time monitoring",
 "Cooled probes reduce charring",
-"Collecting system injury is serious"
+"Collecting system injury is serious",
+"IRE for central tumours: It spares vessels and urothelium"
 ]
 },
 {
@@ -425,12 +418,12 @@
 "o": [
 "It causes pounding headache and hypertension",
 "First treatment is emptying the bladder",
-"Sweating and flushing occur above the lesion",
-"Tachycardia is the usual heart rate change"
+"Tachycardia is the usual heart rate change",
+"Sweating and flushing occur above the lesion"
 ],
-"a": 3,
+"a": 2,
 "e": [
-"Exaggerated sympathetic response to stimuli below the lesion (at or above T6): pounding headache, hypertension, flushing and sweating above the lesion; bradycardia usual, arrhythmias possible. Remove the stimulus (empty the bladder), then 2% nitroglycerin paste above the lesion if needed."
+"Exaggerated sympathetic response to stimuli below the lesion (at or above T6): pounding headache, hypertension, flushing and sweating above the lesion; bradycardia usual, arrhythmias possible. Remove the stimulus (empty the bladder), then 2% nitroglycerin paste above the lesion if needed. Also: Remove the stimulus first; nitroglycerin vasodilates rapidly."
 ],
 "s": "Ch 116 Neuromuscular dysfunction",
 "c": [
@@ -441,7 +434,8 @@
 "Bradycardia, not tachycardia",
 "Headache, hypertension",
 "Flushing and sweating above lesion",
-"Empty bladder first, then nitroglycerin"
+"Empty bladder first, then nitroglycerin",
+"Dysreflexia drug: Topical nitroglycerin paste"
 ]
 },
 {
@@ -449,12 +443,12 @@
 "t": "Orthotopic diversion and MIBC",
 "q": "Which statement about orthotopic neobladder in MIBC is FALSE?",
 "o": [
-"Older age is a contraindication",
 "A positive urethral margin bars a neobladder",
+"Bladder neck biopsy is a surrogate in women",
 "Anterior vaginal wall tumour bars it in women",
-"Bladder neck biopsy is a surrogate in women"
+"Older age is a contraindication"
 ],
-"a": 0,
+"a": 3,
 "e": [
 "The only contraindication in men is a positive apical urethral margin that cannot be cleared. In women, anterior vaginal wall, bladder neck or urethral involvement precludes it; the distal two-thirds of the urethra can provide continence; bladder neck biopsy substitutes for urethral biopsy. Age is not a contraindication with good pelvic support. Prostatic urethral CIS is commonest from mid-prostate to verumontanum at 5 and 7 o'clock (biopsy there); prostatic stromal invasion carries high recurrence risk. Ureteral margin status predicts upper tract recurrence."
 ],
@@ -480,13 +474,13 @@
 "q": "Which statement about PSA isoforms is FALSE?",
 "o": [
 "Cancer raises the free PSA fraction",
-"Finasteride does not change %fPSA much",
 "Most complexed PSA is bound to ACT",
-"%fPSA is approved for PSA 4–10 ng/mL"
+"%fPSA is approved for PSA 4–10 ng/mL",
+"Finasteride does not change %fPSA much"
 ],
 "a": 0,
 "e": [
-"PSA from cancer escapes proteolytic processing, so more is complexed to α1-antichymotrypsin (ACT) and free PSA % is lower. ~70% of serum PSA is bound (α2-macroglobulin, API, ACT); ACT-PSA dominates and is higher in cancer. %fPSA is FDA-approved with benign DRE and PSA 4–10 ng/mL. Finasteride lowers total and free PSA by ~50% after 6 months (double the value: 4 → 8 ng/mL), leaving %fPSA unchanged. ProPSA ([−7]pPSA has a 7-amino-acid leader; hK2 cleaves it to active PSA) helps detection."
+"PSA from cancer escapes proteolytic processing, so more is complexed to α1-antichymotrypsin (ACT) and free PSA % is lower. ~70% of serum PSA is bound (α2-macroglobulin, API, ACT); ACT-PSA dominates and is higher in cancer. %fPSA is FDA-approved with benign DRE and PSA 4–10 ng/mL. Finasteride lowers total and free PSA by ~50% after 6 months (double the value: 4 → 8 ng/mL), leaving %fPSA unchanged. ProPSA ([−7]pPSA has a 7-amino-acid leader; hK2 cleaves it to active PSA) helps detection. Also: 5α-reductase inhibitors lower PSA by ~50% after 6 months; double the value. Saw palmetto does not affect PSA."
 ],
 "s": "Ch 149 Prostate cancer biomarkers",
 "c": [
@@ -504,7 +498,8 @@
 "Cancer: lower free PSA fraction",
 "Complexed PSA mostly ACT-bound",
 "%fPSA approved for PSA 4–10",
-"Finasteride halves PSA; %fPSA unchanged"
+"Finasteride halves PSA; %fPSA unchanged",
+"Finasteride and PSA: 8 ng/mL"
 ]
 },
 {
@@ -512,12 +507,12 @@
 "t": "DMSA and imaging",
 "q": "Which statement about imaging in paediatric UTI is FALSE?",
 "o": [
-"CT is most accurate for renal abscess",
 "DMSA binds the glomerular basement membrane",
+"CT is most accurate for renal abscess",
 "Ultrasound is needed if fever lasts >48 h on therapy",
 "DMSA is positive in only 50–66% of clinical APN"
 ],
-"a": 1,
+"a": 0,
 "e": [
 "DMSA binds proximal tubular cells and is excreted slowly, giving stable cortical images. 90% defervesce within 48 h; persisting fever needs renal/bladder US. Acute DMSA changes are the gold standard for pyelonephritis, positive in only 50–66% of clinically diagnosed cases. Renal abscess: urine culture negative in up to 20%; US detects ≥1 cm; CT is most sensitive and specific. Dysplasia with VUR can mimic scarring on DMSA. Scars are polar (compound papillae)."
 ],
@@ -545,8 +540,8 @@
 "o": [
 "Intralesional steroids",
 "Reassurance and review",
-"Tunical plication surgery",
-"Intralesional collagenase"
+"Intralesional collagenase",
+"Tunical plication surgery"
 ],
 "a": 1,
 "e": [
@@ -567,40 +562,15 @@
 },
 {
 "f": "mcq",
-"t": "Late relapse GCT",
-"q": "Late relapse of a germ cell tumour (over 2 years after therapy) most often shows:",
-"o": [
-"Choriocarcinoma",
-"Seminoma",
-"Embryonal carcinoma",
-"Teratoma"
-],
-"a": 3,
-"e": [
-"Teratoma's slow growth and chemoresistance explain late relapse. Viable GCT completely resected at post-chemotherapy RPLND: two more cycles of platinum-based chemotherapy improve survival (Einhorn: only 2/22 survived without it)."
-],
-"s": "Ch 78 Laparoscopic RPLND",
-"c": [
-"c078-a02",
-"c078-a03"
-],
-"b": [
-"Late relapse = >2 years",
-"Teratoma commonest",
-"Slow growth and chemoresistance"
-]
-},
-{
-"f": "mcq",
 "t": "Inhibitors and promoters",
 "q": "Which statement about stone inhibitors and promoters is FALSE?",
 "o": [
+"Nephrocalcin inhibits nucleation and growth",
 "Uric acid is a natural stone inhibitor",
 "Magnesium complexes oxalate",
-"Citrate complexes urinary calcium",
-"Nephrocalcin inhibits nucleation and growth"
+"Citrate complexes urinary calcium"
 ],
-"a": 0,
+"a": 1,
 "e": [
 "Uric acid promotes calcium oxalate stones (removes inhibitors, salting out, epitaxy/heterogeneous nucleation by sodium urate). Citrate complexes calcium (main action), inhibits nucleation, agglomeration and growth, enhances Tamm-Horsfall protein, and blocks urate-induced nucleation. Magnesium complexes oxalate; low magnesium accompanies low citrate. Nephrocalcin inhibits nucleation, growth, aggregation; Tamm-Horsfall inhibits aggregation; osteopontin inhibits growth, nucleation and aggregation. Nanobacteria have been implicated as niduses."
 ],
@@ -619,31 +589,6 @@
 "Citrate complexes calcium",
 "Magnesium complexes oxalate",
 "Nephrocalcin, THP, osteopontin inhibit"
-]
-},
-{
-"f": "mcq",
-"t": "Finasteride and PSA",
-"q": "A man on finasteride for 1 year has PSA 4 ng/mL. His 'adjusted' PSA is about:",
-"o": [
-"4 ng/mL",
-"8 ng/mL",
-"12 ng/mL",
-"2 ng/mL"
-],
-"a": 1,
-"e": [
-"5α-reductase inhibitors lower PSA by ~50% after 6 months; double the value. Saw palmetto does not affect PSA."
-],
-"s": "Ch 149 Prostate cancer biomarkers",
-"c": [
-"c149-a07",
-"c149-r05"
-],
-"b": [
-"5ARI halves PSA by 6 months",
-"Double the value",
-"Saw palmetto: no effect"
 ]
 },
 {
@@ -682,12 +627,12 @@
 "t": "Stroke and Parkinson",
 "q": "Which statement about LUT dysfunction in brain disease is FALSE?",
 "o": [
-"Parkinson disease mainly shows DO",
 "MSA rarely shows sphincter insufficiency",
-"Prostatism after stroke needs urodynamics first",
-"Detrusor overactivity is commonest after stroke"
+"Parkinson disease mainly shows DO",
+"Detrusor overactivity is commonest after stroke",
+"Prostatism after stroke needs urodynamics first"
 ],
-"a": 1,
+"a": 0,
 "e": [
 "Multiple system atrophy commonly has sphincteric insufficiency (outlet surgery rarely indicated; poor compliance possible); Parkinson disease rarely does. Stroke: long-term DO with intact sensation. Parkinson: DO from loss of basal ganglia inhibition (substantia nigra). Before prostatectomy after stroke, full urodynamics excludes DO with impaired contractility. Cerebral palsy: most have normal storage/emptying; if abnormal, DO with coordinated sphincters (suprapontine); acute change in adult CP is usually unrelated. MS: DO with smooth synergia, intact sensation; may have striated dyssynergia or poor contractility. Progressive diseases damage upper tracts less than SCI."
 ],
@@ -714,14 +659,14 @@
 "t": "Chemotherapy in MIBC",
 "q": "Which statement about chemotherapy for MIBC is FALSE?",
 "o": [
-"Poor PS and visceral metastases predict poor outcome",
-"Carboplatin can replace cisplatin neoadjuvantly",
 "GC matches MVAC efficacy with less toxicity",
-"Creatinine clearance <60 mL/min bars cisplatin"
+"Carboplatin can replace cisplatin neoadjuvantly",
+"Creatinine clearance <60 mL/min bars cisplatin",
+"Poor PS and visceral metastases predict poor outcome"
 ],
 "a": 1,
 "e": [
-"Carboplatin is not first-line; cisplatin-ineligible patients should go straight to cystectomy. Gemcitabine-cisplatin vs MVAC (von der Maase): equal response (49% vs 46%) and survival (13.8 vs 14.8 months) with less toxicity. MSKCC: KPS <80% and visceral metastases predict poor outcome (median 33, 13.4, 9.3 months with 0, 1, 2 factors). Cisplatin-unfit: poor PS, CrCl <60, hearing loss, neuropathy, heart failure. Adjuvant cisplatin-based chemotherapy may be considered (meta-analysis 9% OS benefit; trials weak). Updates: CheckMate 274 (adjuvant nivolumab); NIAGARA (2024, perioperative durvalumab with GC); EV-302 for metastatic disease."
+"Carboplatin is not first-line; cisplatin-ineligible patients should go straight to cystectomy. Gemcitabine-cisplatin vs MVAC (von der Maase): equal response (49% vs 46%) and survival (13.8 vs 14.8 months) with less toxicity. MSKCC: KPS <80% and visceral metastases predict poor outcome (median 33, 13.4, 9.3 months with 0, 1, 2 factors). Cisplatin-unfit: poor PS, CrCl <60, hearing loss, neuropathy, heart failure. Adjuvant cisplatin-based chemotherapy may be considered (meta-analysis 9% OS benefit; trials weak). Updates: CheckMate 274 (adjuvant nivolumab); NIAGARA (2024, perioperative durvalumab with GC); EV-302 for metastatic disease. Also: Ineligibility: poor performance status, CrCl <60 mL/min, hearing loss, peripheral neuropathy, heart failure. Age alone is not a criterion."
 ],
 "s": "Ch 137 Muscle-invasive bladder cancer",
 "c": [
@@ -738,7 +683,8 @@
 "Carboplatin not a cisplatin substitute neoadjuvantly",
 "GC = MVAC efficacy, less toxic",
 "Poor PS and visceral mets: poor outcome",
-"CrCl <60 bars cisplatin"
+"CrCl <60 bars cisplatin",
+"Cisplatin eligibility: Age over 70 years"
 ]
 },
 {
@@ -753,7 +699,7 @@
 ],
 "a": 3,
 "e": [
-"TMPRSS2:ERG is an early event, nearly 100% specific, but present in only ~50% of PSA-screened cancers. PCA3 is noncoding (alternatively spliced, many stop codons, no open reading frame), measured in urine and combinable with the fusion. Hypermethylated genes: GSTP1, APC, RARβ2, RASSF1A. Tissue signatures (Prolaris 31 CCP + 15 housekeeping genes; Oncotype DX 12 + 5; Decipher 22 markers) add prognostic information on small FFPE samples. CTCs and ctDNA are promising in advanced disease."
+"TMPRSS2:ERG is an early event, nearly 100% specific, but present in only ~50% of PSA-screened cancers. PCA3 is noncoding (alternatively spliced, many stop codons, no open reading frame), measured in urine and combinable with the fusion. Hypermethylated genes: GSTP1, APC, RARβ2, RASSF1A. Tissue signatures (Prolaris 31 CCP + 15 housekeeping genes; Oncotype DX 12 + 5; Decipher 22 markers) add prognostic information on small FFPE samples. CTCs and ctDNA are promising in advanced disease. Also: BRCA1, BRCA2 (strongest) and ATM are DNA damage repair genes. Many susceptibility loci on several chromosomes raise risk. PSMA (also expressed in brain and intestine) is a major imaging target."
 ],
 "s": "Ch 149 Prostate cancer biomarkers",
 "c": [
@@ -763,13 +709,17 @@
 "c149-a13",
 "c149-a14",
 "c149-r11",
-"c149-r10"
+"c149-r10",
+"c149-r13",
+"c149-r12",
+"c149-r01"
 ],
 "b": [
 "TMPRSS2:ERG in ~50% of cancers",
 "PCA3: noncoding RNA, 9q21–22",
 "Fusion ~100% specific",
-"PCA3 + fusion combinable in urine"
+"PCA3 + fusion combinable in urine",
+"Hereditary risk: BRCA1, BRCA2 and ATM"
 ]
 },
 {
@@ -777,12 +727,12 @@
 "t": "Organisms and antibiotics",
 "q": "Which statement about UTI organisms and antibiotics in children is FALSE?",
 "o": [
+"Neonates need Enterococcus cover",
 "Nitrofurantoin suits a febrile UTI",
-"E. coli causes over 80% of UTIs",
 "TMP-SMX is avoided under 6 weeks",
-"Neonates need Enterococcus cover"
+"E. coli causes over 80% of UTIs"
 ],
-"a": 0,
+"a": 1,
 "e": [
 "Nitrofurantoin has poor tissue penetration (not for febrile UTI) and is avoided in G6PD deficiency. E. coli >80%. Neonates: cover Enterococcus (ampicillin, first-generation cephalosporins). TMP-SMX displaces bilirubin (kernicterus) in prematures and <6 weeks. Febrile UTI in newborns: admit for IV antibiotics; febrile UTI 7–14 days, afebrile cystitis 2–4 days. Adenovirus causes viral haemorrhagic cystitis. Urethritis: gonorrhoea, Chlamydia, Ureaplasma; teenage STIs can cause PID, infertility and pelvic pain."
 ],
@@ -812,12 +762,12 @@
 "t": "Plication vs grafting",
 "q": "Which statement about Peyronie surgery is FALSE?",
 "o": [
+"Poor erections with PD favour a prosthesis",
 "Grafting suits poor rigidity, big curve",
 "Plication carries the least risk of new ED",
-"Poor erections with PD favour a prosthesis",
 "Ventral curves grafted risk more complete ED"
 ],
-"a": 0,
+"a": 1,
 "e": [
 "Poor rigidity absolutely contraindicates grafting; such men (or those failing high-dose duplex response) should have an IPP with straightening (manual modelling risks distal urethral/meatal injury). Plication is preferred for less severe curves: least cavernosal injury and ED, though more length loss. Grafting: strong erections with >70° curve, hinge, hourglass or short penis; main risk is postoperative ED (worse with ventral curves). Operate ≥1 year from onset with 6 months stable. Preoperative erectile function predicts outcome. No procedure increases length; grafting loses less than plication."
 ],
@@ -847,9 +797,9 @@
 "t": "Calcium handling",
 "q": "Which statement about calcium metabolism and stones is FALSE?",
 "o": [
-"PTH raises renal calcium reabsorption",
-"Hypercalciuria exceeds 4 mg/kg/day",
 "Sarcoid granulomas make 1,25-vitamin D",
+"Hypercalciuria exceeds 4 mg/kg/day",
+"PTH raises renal calcium reabsorption",
 "Calcitonin best boosts gut calcium"
 ],
 "a": 3,
@@ -878,39 +828,15 @@
 },
 {
 "f": "mcq",
-"t": "IRE for central tumours",
-"q": "Irreversible electroporation is attractive for central renal tumours mainly because it:",
-"o": [
-"It achieves temperatures below −40°C",
-"It spares vessels and urothelium",
-"Needs no image guidance at all",
-"Has the longest oncological data"
-],
-"a": 1,
-"e": [
-"IRE delivers electrical pulses via bipolar or monopolar electrodes that permeabilise membranes and kill cells while preserving scaffolding, large vessels and urothelium."
-],
-"s": "Ch 103 Renal tumour ablation",
-"c": [
-"c103-a08"
-],
-"b": [
-"Nonthermal",
-"Spares vessels and urothelium",
-"Electrical pulses permeabilise membranes"
-]
-},
-{
-"f": "mcq",
 "t": "Spinal shock and cord",
 "q": "Which statement about spinal cord injury is FALSE?",
 "o": [
-"DSD implies a lesion between pons and sacral cord",
+"The bladder neck is open in spinal shock",
 "The cord ends at about vertebral level L2",
-"Sacral cord lies at about T12–L1 vertebrae",
-"The bladder neck is open in spinal shock"
+"DSD implies a lesion between pons and sacral cord",
+"Sacral cord lies at about T12–L1 vertebrae"
 ],
-"a": 3,
+"a": 0,
 "e": [
 "In spinal shock the bladder is areflexic, smooth-walled; the bladder neck is usually closed (unless prior surgery or thoracolumbar sympathetic injury); some sphincter EMG persists. Sacral cord begins at vertebral T12–L1; the cord ends near L2. Detrusor-sphincter dyssynergia requires a lesion between the pontine-mesencephalic centre and sacral cord, so it does not occur after stroke. DSD therapy eliminates sphincter activity or bypasses it (not sacral neuromodulation). Risk factors: overdistension, high storage pressure, high detrusor LPP, VUR, stones, infection; aim for low-pressure storage with CIC; avoid long-term prophylaxis in CIC."
 ],
@@ -941,8 +867,8 @@
 "q": "The ideal candidate for trimodal bladder-preserving therapy has:",
 "o": [
 "A small, solitary, fully resected T2",
-"A bulky T3b tumour with poor renal function",
 "Multifocal CIS with hydronephrosis",
+"A bulky T3b tumour with poor renal function",
 "Micropapillary histology"
 ],
 "a": 0,
@@ -972,41 +898,15 @@
 },
 {
 "f": "mcq",
-"t": "Hereditary risk",
-"q": "Which inherited genes with moderate penetrance raise the risk of aggressive prostate cancer?",
-"o": [
-"VHL, MET and FH",
-"HOXB13, MSMB and KLK3",
-"BRCA1, BRCA2 and ATM",
-"TP53, PTEN and RB1"
-],
-"a": 2,
-"e": [
-"BRCA1, BRCA2 (strongest) and ATM are DNA damage repair genes. Many susceptibility loci on several chromosomes raise risk. PSMA (also expressed in brain and intestine) is a major imaging target."
-],
-"s": "Ch 149 Prostate cancer biomarkers",
-"c": [
-"c149-r13",
-"c149-r12",
-"c149-r01"
-],
-"b": [
-"BRCA1, BRCA2, ATM",
-"DNA repair genes",
-"PSMA: imaging target"
-]
-},
-{
-"f": "mcq",
 "t": "Recurrence after UTI",
 "q": "Which statement about recurrent UTI in children is FALSE?",
 "o": [
+"Bowel dysfunction raises UTI and VUR risk",
 "Boys over 1 year recur more than younger boys",
 "ASB in a normal preschool girl needs no treatment",
-"Reinfection implies a persisting nidus",
-"Bowel dysfunction raises UTI and VUR risk"
+"Reinfection implies a persisting nidus"
 ],
-"a": 2,
+"a": 3,
 "e": [
 "An uneradicated nidus causes bacterial persistence, not reinfection. Recurrence: boys <1 year 18%, >1 year 32%; girls 26% and 40% (Winberg). Bladder-bowel dysfunction promotes UTI and VUR; treating constipation and voiding dysfunction reduces UTI and helps VUR resolve. Asymptomatic bacteriuria (0.8% of preschool girls) without VUR or anomalies needs no treatment. Women: early first UTI, maternal UTI and blood group antigens raise recurrence. Only 37% with DMSA-proven pyelonephritis have VUR (not 66%)."
 ],
@@ -1029,38 +929,15 @@
 },
 {
 "f": "mcq",
-"t": "Viable GCT after chemo",
-"q": "Post-chemotherapy RPLND completely resects viable germ cell tumour. Next step:",
-"o": [
-"Observation only",
-"Radiotherapy to the bed",
-"Two cycles of platinum chemotherapy",
-"High-dose chemotherapy with stem cells"
-],
-"a": 2,
-"e": [
-"Two more cycles improve survival when viable tumour is completely resected; prognosis depends on markers at RPLND, prior treatment and pathology."
-],
-"s": "Ch 78 Laparoscopic RPLND",
-"c": [
-"c078-a03"
-],
-"b": [
-"Completely resected viable GCT: 2 cycles platinum",
-"Survival benefit (Einhorn)"
-]
-},
-{
-"f": "mcq",
 "t": "Collagenase",
 "q": "Which statement about collagenase Clostridium histolyticum (CCH) for PD is FALSE?",
 "o": [
 "IMPRESS gave 17° vs 9° improvement",
-"Penile fracture occurs in under 1%",
 "De novo ED is a common side effect",
-"It was tested in stable 30–90° curves"
+"It was tested in stable 30–90° curves",
+"Penile fracture occurs in under 1%"
 ],
-"a": 2,
+"a": 1,
 "e": [
 "IMPRESS phase 3: 17° vs 9° improvement in stable dorsal curves 30–90°, excluding hinge, calcification, hourglass, severe ED and ventral plaques; QoL improved. No de novo ED; bruising and pain are common and benign; fracture <1%. Main barriers: cost (book: $3300 per injection, 4 cycles of 2) and visits. Postoperative rehab (massage, stretch, nightly PDE5i, traction ≥3 h/day, dose-related) aims to preserve length, not contract the scar; traction does not harm sensation. Ideal graft does not contract. Note: CCH was withdrawn from the EU market in 2020 for commercial reasons."
 ],
@@ -1086,12 +963,12 @@
 "t": "Oxalate",
 "q": "Which statement about oxalate absorption is FALSE?",
 "o": [
-"Low calcium intake cuts oxalate uptake",
-"Hyperoxaluria means over 40 mg/day",
+"Fat malabsorption increases oxalate uptake",
 "Oxalobacter formigenes degrades gut oxalate",
-"Fat malabsorption increases oxalate uptake"
+"Hyperoxaluria means over 40 mg/day",
+"Low calcium intake cuts oxalate uptake"
 ],
-"a": 0,
+"a": 3,
 "e": [
 "Low calcium intake increases oxalate absorption (less calcium-oxalate complex). O. formigenes uses oxalate as an energy source (not found in urine); H. pylori has no effect. Hyperoxaluria >40 mg/day; rich foods: nuts, chocolate, tea, spinach, broccoli, strawberries, rhubarb. Malabsorption (with intact colon): fatty acids bind calcium, bile salts raise colonic permeability. Roux-en-Y bypass: oxalate can exceed 100 mg/day. Calcium oxalate saturation depends equally on calcium and oxalate concentrations."
 ],
@@ -1119,12 +996,12 @@
 "t": "Cauda equina and pelvic surgery",
 "q": "Which statement is FALSE?",
 "o": [
+"Cauda equina syndrome causes limb spasticity",
 "After pelvic surgery the smooth sphincter is often open",
 "Disc prolapse gives areflexia with normal compliance",
-"After pelvic surgery, start with CIC, not prostatectomy",
-"Cauda equina syndrome causes limb spasticity"
+"After pelvic surgery, start with CIC, not prostatectomy"
 ],
-"a": 3,
+"a": 0,
 "e": [
 "Cauda equina is lower motor neuron: perineal sensory loss, loss of voluntary sphincter control, sexual dysfunction, not spasticity. Disc protrusion: 27% areflexic with difficulty voiding; compliance usually normal. After radical pelvic surgery: impaired contractility, fixed striated tone ('obstruction'), open smooth sphincter, often low compliance, so stress incontinence with areflexia; most is transient; use CIC; prostatectomy may worsen incontinence. Diabetic bladder: impaired sensation, large capacity, poor contractility and flow, later residual. Bladder neck obstruction is localised by video-urodynamics."
 ],
@@ -1149,12 +1026,12 @@
 "t": "Uric acid and diabetes",
 "q": "Low urine pH in uric acid stone formers with diabetes is mainly due to:",
 "o": [
-"Impaired renal ammoniagenesis",
+"High urinary sodium excretion",
 "Excess dietary citrate intake",
-"Increased bicarbonate reabsorption failure",
-"High urinary sodium excretion"
+"Impaired renal ammoniagenesis",
+"Increased bicarbonate reabsorption failure"
 ],
-"a": 0,
+"a": 2,
 "e": [
 "Renal insulin resistance reduces ammonia production from glutamine and Na+/H+ exchanger activity, lowering urinary ammonium and pH; low pH is the key determinant of uric acid stones. Hyperuricosuria >600 mg/day. Uric acid stone formers have prolonged acid urine. Citric acid intake barely raises urinary citrate (absorbed citrate becomes bicarbonate neutralised by its proton); acid–base status determines citrate excretion (acidosis lowers it); hypocitraturia <320 mg/day."
 ],
@@ -1177,38 +1054,15 @@
 },
 {
 "f": "mcq",
-"t": "Dysreflexia drug",
-"q": "After emptying the bladder, persistent autonomic dysreflexia is treated first with:",
-"o": [
-"Topical nitroglycerin paste",
-"Oral propranolol tablets",
-"Intravesical lidocaine only",
-"Intravenous atropine bolus"
-],
-"a": 0,
-"e": [
-"Remove the stimulus first; nitroglycerin vasodilates rapidly."
-],
-"s": "Ch 116 Neuromuscular dysfunction",
-"c": [
-"c116-a15"
-],
-"b": [
-"Empty bladder first",
-"Then 2% nitroglycerin paste above lesion"
-]
-},
-{
-"f": "mcq",
 "t": "Fowler syndrome",
 "q": "Which statement about Fowler syndrome is FALSE?",
 "o": [
-"Bladder capacity is usually under 1 L",
-"Needle EMG shows a typical abnormality",
 "It affects young women with retention",
-"Sacral neuromodulation works well"
+"Sacral neuromodulation works well",
+"Bladder capacity is usually under 1 L",
+"Needle EMG shows a typical abnormality"
 ],
-"a": 0,
+"a": 2,
 "e": [
 "Fowler syndrome: women usually under 30 with painless retention (capacity >1 L, no urgency), normal brain and spine MRI, characteristic urethral sphincter EMG activity. Hormones, drugs and botulinum toxin fail; neuromodulation works even after long retention. Mirabegron (β3) treats NDO without anticholinergic effects (may raise BP and heart rate slightly). Radiation: reduced capacity, low compliance, DO."
 ],
@@ -1232,10 +1086,10 @@
 "t": "Virulence",
 "q": "Which statement about bacterial virulence in UTI is FALSE?",
 "o": [
-"Flagella are not a virulence trait as such",
+"Pili mediate bacterial adhesion",
 "Commensal bacteria can cause some UTIs",
 "Biofilm bacteria grow faster than usual",
-"Pili mediate bacterial adhesion"
+"Flagella are not a virulence trait as such"
 ],
 "a": 2,
 "e": [
@@ -1259,36 +1113,13 @@
 },
 {
 "f": "mcq",
-"t": "Cisplatin eligibility",
-"q": "Which does NOT by itself make a patient cisplatin-ineligible?",
-"o": [
-"Heart failure",
-"Hearing loss",
-"Age over 70 years",
-"Creatinine clearance below 60 mL/min"
-],
-"a": 2,
-"e": [
-"Ineligibility: poor performance status, CrCl <60 mL/min, hearing loss, peripheral neuropathy, heart failure. Age alone is not a criterion."
-],
-"s": "Ch 137 Muscle-invasive bladder cancer",
-"c": [
-"c137-r22"
-],
-"b": [
-"Age alone not a contraindication",
-"CrCl <60, poor PS, hearing loss, neuropathy, heart failure"
-]
-},
-{
-"f": "mcq",
 "t": "RTA and stones",
 "q": "Which statement about RTA and stones is FALSE?",
 "o": [
-"Type 4 RTA occurs in diabetic renal damage",
+"Distal RTA gives calcium phosphate stones",
 "Acetazolamide causes calcium phosphate stones",
 "Type 2 RTA is a distal H+-ATPase defect",
-"Distal RTA gives calcium phosphate stones"
+"Type 4 RTA occurs in diabetic renal damage"
 ],
 "a": 2,
 "e": [
@@ -1318,8 +1149,8 @@
 "o": [
 "CIC needs sterile catheters and prophylaxis",
 "Catheter UTI is a leading nosocomial infection",
-"Catheters left over 4 days infect the urine",
-"40–80% on CIC have chronic bacteriuria"
+"40–80% on CIC have chronic bacteriuria",
+"Catheters left over 4 days infect the urine"
 ],
 "a": 0,
 "e": [
@@ -1379,8 +1210,8 @@
 "o": [
 "Lesion level predicts urodynamics well",
 "About 90% of myelomeningocele have LUT dysfunction",
-"Reflux can mask high bladder pressures",
-"Detethering often improves urodynamics"
+"Detethering often improves urodynamics",
+"Reflux can mask high bladder pressures"
 ],
 "a": 0,
 "e": [
@@ -1404,40 +1235,13 @@
 },
 {
 "f": "mcq",
-"t": "Stone composition",
-"q": "According to the book, the commonest stone composition is:",
-"o": [
-"Calcium phosphate (about 50%)",
-"Calcium oxalate (about 60%)",
-"Struvite (about 40%)",
-"Uric acid (about 30%)"
-],
-"a": 1,
-"e": [
-"Book: calcium oxalate 60%; mixed calcium oxalate/hydroxyapatite 20%; uric acid 10%; struvite 10%; brushite 2%; cystine 1%. Randall plaques (calcium apatite) start in the basement membrane of the thin loops of Henle and anchor calcium oxalate stones in idiopathic formers."
-],
-"s": "Ch 91 Stone aetiology",
-"c": [
-"c091-r14",
-"c091-a15",
-"c091-a16"
-],
-"b": [
-"CaOx 60%",
-"Mixed CaOx/apatite 20%",
-"Uric acid 10%, struvite 10%",
-"Brushite 2%, cystine 1%"
-]
-},
-{
-"f": "mcq",
 "t": "Reflux nephropathy",
 "q": "Which statement about long-term follow-up after renal scarring is TRUE?",
 "o": [
 "Bilateral scars need BP and protein checks",
-"Scarring mainly affects the mid-kidney",
 "Proteinuria is unrelated to progression",
-"Reflux nephropathy never causes hypertension"
+"Reflux nephropathy never causes hypertension",
+"Scarring mainly affects the mid-kidney"
 ],
 "a": 0,
 "e": [
@@ -1453,32 +1257,6 @@
 "Bilateral scars: lifelong BP, function, protein",
 "10–20% hypertension",
 "Proteinuria may hasten CKD"
-]
-},
-{
-"f": "mcq",
-"t": "Urine culture thresholds",
-"q": "Which urine culture result defines UTI?",
-"o": [
-"Any growth on suprapubic aspirate",
-"50,000 CFU/mL on a clean catch",
-"20,000 CFU/mL on a catheter specimen",
-"10,000 CFU/mL on a bag specimen"
-],
-"a": 0,
-"e": [
-"Suprapubic aspiration is the most reliable: any growth. Catheter specimen ≥50,000 CFU/mL; clean catch ≥100,000 CFU/mL."
-],
-"s": "Ch 25 Paediatric UTI",
-"c": [
-"c025-a29",
-"c025-r06",
-"c025-r26"
-],
-"b": [
-"Suprapubic: any growth",
-"Catheter: ≥50,000 CFU/mL",
-"Clean catch: ≥100,000 CFU/mL"
 ]
 }
 ]

@@ -1,6 +1,6 @@
 # 20 mixed MCQ sets: coverage plan (chapters 20–162)
 
-Sets 1–5 have 65 questions; sets 6–20 have 50 questions (user request), still covering every item.
+Sets 1–5 have 65 questions; sets 6–20 have 40 questions (user request), still covering every item.
 
 Every book answer and Chapter Review point of chapters 20–162 (5,704 items in `ledger.json`) is assigned to one set and covered by a question or its explanation; `tools/coverage.py` checks this. General urology chapters 1–19 are excluded (already solved). The earlier 41-set plan is archived in `old41/`.
 
