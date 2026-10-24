@@ -169,7 +169,7 @@
 - Upper and mid ureter: ureteroureterostomy (up to 32% of a large series; success up to 90%); gap bridged depends on mobilisation and elasticity. Distal: reimplant (psoas hitch or Boari flap for long gaps; ureteroureterostomy in selected cases). <!-- c090-a02 c090-r16 c090-r17 -->
 - High-velocity gunshot contusion: excise and do ureteroureterostomy (blast injury causes necrosis or stricture). Low-velocity contusion: stent. <!-- c090-a06 -->
 - Transureteroureterostomy is contraindicated with a history of stones (a distal stone would endanger both kidneys). <!-- c090-a05 -->
-- (Book outline lists chapters 91–95 next.) <!-- c090-r23 c090-r24 c090-r25 c090-r26 c090-r27 -->
+<!-- outline-only items, no content: c090-r23 c090-r24 c090-r25 c090-r26 c090-r27 -->
 
 ## Ch 119 Nocturia
 
