@@ -1,0 +1,33 @@
+<title>__TITLE__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&display=swap">
+<style>
+:root { --bg:#f6f5f1; --surface:#fff; --ink:#1c2226; --muted:#5d686f; --line:#dcdcd4; --accent:#1f5f7a; --upd:#8a4b08; --upd-soft:#fbf0dc;
+  --f-display:"Newsreader",Georgia,serif; --f-body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg:#121618; --surface:#1a2024; --ink:#e3e8ea; --muted:#9aa6ad; --line:#2d363c; --accent:#7cc0dc; --upd:#f0b866; --upd-soft:#3a2c14; color-scheme:dark } }
+:root[data-theme="dark"] { --bg:#121618; --surface:#1a2024; --ink:#e3e8ea; --muted:#9aa6ad; --line:#2d363c; --accent:#7cc0dc; --upd:#f0b866; --upd-soft:#3a2c14; color-scheme:dark }
+* { box-sizing:border-box }
+body { background:var(--bg); color:var(--ink); font-family:var(--f-body); font-size:17px; line-height:1.6; margin:0; padding:0 16px }
+.wrap { max-width:720px; margin:0 auto; padding:28px 0 64px }
+header h1 { font-family:var(--f-display); font-size:clamp(28px,6vw,36px); line-height:1.15; margin:0 0 8px }
+.sub { color:var(--muted); margin:0 0 20px; font-size:15px }
+.toc { background:var(--surface); border:1px solid var(--line); border-radius:10px; padding:16px 16px 16px 36px; margin:0 0 28px; font-size:15px }
+.toc > li { margin:6px 0; font-weight:600 } .toc ul { font-weight:400; padding-left:18px; margin:4px 0 }
+a { color:var(--accent); text-decoration-thickness:1px; text-underline-offset:3px }
+.seth { font-family:var(--f-display); font-size:32px; margin:40px 0 0; padding-top:12px; border-top:3px solid var(--ink) }
+h2 { font-family:var(--f-display); font-size:24px; line-height:1.25; margin:32px 0 6px; color:var(--accent) }
+h3 { font-size:15px; text-transform:uppercase; letter-spacing:.05em; margin:22px 0 4px; color:var(--muted) }
+ul, ol { padding-left:22px } li { margin:5px 0 } p { margin:8px 0 }
+table { border-collapse:collapse; width:100%; font-size:15px; margin:10px 0; display:block; overflow-x:auto }
+th, td { border:1px solid var(--line); padding:6px 8px; text-align:left; vertical-align:top } th { background:var(--surface) }
+strong.upd { color:var(--upd); background:var(--upd-soft); padding:0 4px; border-radius:3px }
+.top { position:fixed; right:16px; bottom:16px; background:var(--surface); border:1px solid var(--line); border-radius:999px; padding:8px 14px; font-size:14px; text-decoration:none }
+@media print { .top { display:none } body { font-size:12pt } }
+</style>
+<div class="wrap">
+<header><h1>__H1__</h1><p class="sub">__SUB__</p></header>
+<nav aria-label="Contents">__TOC__</nav>
+<main>__BODY__</main>
+</div>
+<a class="top" href="#">Contents ↑</a>
