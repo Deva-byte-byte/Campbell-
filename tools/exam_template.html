@@ -1,0 +1,174 @@
+<title>__TITLE__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one exam card at a time, narrow reading column, progress strip on top */
+:root {
+  --bg: #f3f5f6; --surface: #ffffff; --ink: #18232b; --muted: #5b6a74; --line: #d6dde1;
+  --accent: #1f5f7a; --accent-soft: #e2eef3;
+  --warn: #a8660b; --ok: #1d7a4c; --ok-soft: #e3f3ea; --bad: #b3352b; --bad-soft: #f8e4e1;
+  --f-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; padding: 0 16px; }
+.wrap { max-width: 720px; margin: 0 auto; padding-block: 28px 48px; display: grid; gap: 20px; }
+header { display: grid; gap: 6px; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(26px, 5vw, 34px); line-height: 1.15; margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; font-size: 15px; }
+
+.strip { display: grid; grid-template-columns: repeat(25, 1fr); gap: 3px; row-gap: 6px; }
+.pip { height: 8px; border-radius: 2px; background: var(--line); border: 0; padding: 0; cursor: pointer; }
+.pip.ok { background: var(--ok); } .pip.bad { background: var(--bad); }
+.pip.cur { outline: 2px solid var(--accent); outline-offset: 2px; }
+.meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-family: var(--f-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 24px; display: grid; gap: 18px; }
+.qhead { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.qno { font-family: var(--f-mono); font-size: 13px; color: var(--accent); }
+.tag { font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); padding: 2px 8px; border-radius: 4px; }
+.stem { font-family: var(--f-display); font-size: 21px; line-height: 1.4; font-weight: 500; margin: 0; }
+.opts { display: grid; gap: 10px; }
+.opt { display: grid; grid-template-columns: 28px 1fr; gap: 12px; align-items: start; text-align: left; width: 100%;
+  font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; cursor: pointer; }
+.opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:focus-visible, .btn:focus-visible, .pip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.opt .k { font-family: var(--f-mono); font-size: 13px; width: 28px; height: 28px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--muted); }
+.opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.opt.sel .k { border-color: var(--accent); color: var(--accent); }
+.opt.right { border-color: var(--ok); background: var(--ok-soft); }
+.opt.right .k { border-color: var(--ok); color: var(--ok); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.opt.wrong .k { border-color: var(--bad); color: var(--bad); }
+.opt:disabled { cursor: default; }
+
+.verdict { font-family: var(--f-display); font-weight: 600; font-size: 20px; }
+.explain .why { font-family: var(--f-display); font-size: 18px; line-height: 1.6; }
+.explain ul.keys { color: var(--muted); font-size: 14px; }
+.verdict.ok { color: var(--ok); } .verdict.bad { color: var(--bad); }
+.explain { border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 10px; }
+.explain p, .explain ul { margin: 0; }
+.explain ul { padding-left: 20px; display: grid; gap: 4px; }
+.src { font-size: 13px; color: var(--muted); }
+
+.actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+.btn { font: inherit; font-weight: 600; border-radius: 8px; padding: 10px 18px; cursor: pointer; border: 1px solid var(--accent); }
+.btn.primary { background: var(--accent); color: var(--surface); }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:disabled { opacity: .45; cursor: default; }
+.hint { font-size: 13px; color: var(--muted); }
+
+
+.paper { display: grid; gap: 16px; }
+.sethead { display: grid; gap: 4px; padding-top: 12px; }
+.sethead h2 { font-family: var(--f-display); font-weight: 600; font-size: 24px; margin: 0; }
+.sethead p { margin: 0; color: var(--muted); font-size: 14px; }
+.bar { position: sticky; bottom: 0; background: var(--surface); border-top: 1px solid var(--line); margin: 0 -16px; padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; z-index: 2; }
+.bar .count { font-family: var(--f-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.score { font-family: var(--f-display); font-size: 44px; font-weight: 600; line-height: 1; font-variant-numeric: tabular-nums; }
+.persets { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+.persets div { border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; display: grid; gap: 2px; }
+.persets b { font-family: var(--f-mono); font-size: 18px; font-variant-numeric: tabular-nums; }
+.persets span { font-size: 13px; color: var(--muted); }
+.yours { font-size: 14px; color: var(--muted); }
+.unans { color: var(--warn); font-weight: 600; }
+.jump { display: grid; grid-template-columns: repeat(auto-fill, minmax(34px, 1fr)); gap: 6px; }
+.jump a { font-family: var(--f-mono); font-size: 12px; text-align: center; padding: 4px 0; border-radius: 4px; text-decoration: none; border: 1px solid var(--line); color: var(--ink); }
+.jump a.ok { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); }
+.jump a.bad { background: var(--bad-soft); border-color: var(--bad); color: var(--bad); }
+@media (max-width: 480px) { .card { padding: 18px; } .stem { font-size: 19px; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">__EYEBROW__</div>
+    <h1>__H1__</h1>
+    <p class="sub">__SUB__</p>
+  </header>
+  <main id="stage"></main>
+</div>
+<script>
+const SETS = __SETS__;
+const KEYS = ["A","B","C","D"];
+const STORE = "__STORE__";
+const Q = SETS.flatMap(s => s.q.map(x => ({ ...x, set: s.n })));
+const N = Q.length;
+const fresh = () => ({ ans: Array(N).fill(null), sub: false });
+let state = fresh();
+try { const s = JSON.parse(localStorage.getItem(STORE)); if (s && s.ans && s.ans.length === N) state = s; } catch (e) {}
+const save = () => { try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) {} };
+const stage = document.getElementById("stage");
+const answered = () => state.ans.filter(a => a !== null).length;
+const right = k => state.ans[k] === Q[k].a;
+
+function paper() {
+  let k = 0, html = `<div class="paper">`;
+  SETS.forEach(s => {
+    html += `<div class="sethead"><h2>Set ${s.n}</h2><p>${s.ch}</p></div>`;
+    s.q.forEach(() => {
+      const it = Q[k], a = state.ans[k];
+      html += `<article class="card" id="q${k}"><div class="qhead"><span class="qno">Q${k + 1}</span><span class="tag">${it.t}</span></div>
+        <p class="stem">${it.q}</p><div class="opts" role="radiogroup" aria-label="Options for question ${k + 1}">${it.o.map((o, j) =>
+        `<button class="opt${a === j ? " sel" : ""}" role="radio" aria-checked="${a === j}" data-k="${k}" data-j="${j}"><span class="k">${KEYS[j]}</span><span>${o}</span></button>`).join("")}</div></article>`;
+      k++;
+    });
+  });
+  html += `</div><div class="bar"><span class="count" id="count"></span><button class="btn primary" id="submit">Submit and see answers</button></div>`;
+  stage.innerHTML = html;
+  const upd = () => document.getElementById("count").textContent = `${answered()} of ${N} answered`;
+  upd();
+  stage.querySelectorAll(".opt").forEach(b => b.onclick = () => {
+    const k = +b.dataset.k, j = +b.dataset.j; state.ans[k] = j; save();
+    b.parentElement.querySelectorAll(".opt").forEach((x, i) => { x.classList.toggle("sel", i === j); x.setAttribute("aria-checked", i === j); });
+    upd();
+  });
+  document.getElementById("submit").onclick = () => {
+    const left = N - answered();
+    if (left && !confirm(`${left} question${left > 1 ? "s are" : " is"} unanswered. Submit anyway?`)) return;
+    state.sub = true; save(); render(); window.scrollTo({ top: 0 });
+  };
+}
+
+function results() {
+  const total = Q.filter((_, k) => right(k)).length;
+  let k = 0;
+  const per = SETS.map(s => { const st = k, en = k + s.q.length; k = en;
+    const c = Q.slice(st, en).filter((_, i) => right(st + i)).length; return `<div><b>${c} / ${s.q.length}</b><span>Set ${s.n}</span></div>`; }).join("");
+  let html = `<article class="card"><div class="eyebrow">Your score</div><div class="score">${total} / ${N}</div>
+    <p class="sub">${Math.round(total / N * 100)}%. ${N - answered()} unanswered. Every answer and explanation follows below.</p>
+    <div class="persets">${per}</div>
+    <div class="jump">${Q.map((_, i) => `<a href="#a${i}" class="${right(i) ? "ok" : state.ans[i] === null ? "" : "bad"}">${i + 1}</a>`).join("")}</div>
+    <div class="actions"><button class="btn ghost" id="redo">Clear and retake</button></div></article>`;
+  k = 0;
+  SETS.forEach(s => {
+    html += `<div class="sethead"><h2>Answers · Set ${s.n}</h2><p>${s.ch}</p></div>`;
+    s.q.forEach(() => {
+      const it = Q[k], a = state.ans[k], ok = a === it.a;
+      html += `<article class="card" id="a${k}"><div class="qhead"><span class="qno">Q${k + 1}</span><span class="tag">${it.t}</span></div>
+        <p class="stem">${it.q}</p><div class="opts">${it.o.map((o, j) => {
+          let c = "opt"; if (j === it.a) c += " right"; else if (j === a) c += " wrong";
+          return `<div class="${c}"><span class="k">${KEYS[j]}</span><span>${o}</span></div>`; }).join("")}</div>
+        <div class="explain"><div class="verdict ${ok ? "ok" : "bad"}">${a === null ? "Not answered" : ok ? "Correct" : "Incorrect"} · answer ${KEYS[it.a]}</div>
+        ${a !== null && !ok ? `<span class="yours">You chose ${KEYS[a]}.</span>` : ""}
+        ${it.e.map(x => `<p class="why">${x}</p>`).join("")}${it.b ? `<ul class="keys">${it.b.map(x => `<li>${x}</li>`).join("")}</ul>` : ""}<p class="src">Source: ${it.s}</p></div></article>`;
+      k++;
+    });
+  });
+  stage.innerHTML = `<div class="paper">${html}</div>`;
+  document.getElementById("redo").onclick = () => { if (confirm("Clear all answers and retake?")) { state = fresh(); save(); render(); window.scrollTo({ top: 0 }); } };
+}
+const render = () => state.sub ? results() : paper();
+render();
+</script>
