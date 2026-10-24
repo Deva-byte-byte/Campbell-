@@ -1,0 +1,762 @@
+[
+{
+"f": "mcq",
+"t": "Hypospadias: embryology, aetiology and evaluation",
+"q": "Which statement about hypospadias aetiology and evaluation is FALSE?",
+"o": [
+"Severity is best graded after degloving the penile shaft",
+"Karyotype is advised in isolated proximal hypospadias",
+"Hypospadias with aniridia warrants renal ultrasound",
+"DHT at 8–12 weeks drives normal penile development"
+],
+"a": 1,
+"e": [
+"Karyotype is strongly advised only when hypospadias coexists with cryptorchidism (possible DSD, commonest with proximal meatus and non-palpable gonad); it can merely be offered for isolated proximal cases, and renal imaging is not needed as renal anomalies are rare in non-syndromic hypospadias. Hypospadias is an ectopic meatus below the glans centre; most boys have no other anomalies; bifid scrotum is typical of the proximal 10%; ventral curvature with a normal meatus is chordee without hypospadias. Grading uses meatal position and curvature after degloving. The urethral groove between the urethral folds becomes the urethra, and preputial folds fuse as the urethra closes, giving the dorsal hood. Risk rises with assisted reproduction and monozygotic twins; placental and androgen disruption (environmental chemicals) are implicated, short anogenital distance marks this, and hypospadias is part of testicular dysgenesis syndrome. A brother's risk is up to 15%, yet another son is still most likely unaffected. Examination: ventral deficient prepuce, glans tilt, deviated raphe, curvature, scrotal encroachment, cleft or penoscrotal transposition. Aniridia with genital anomaly suggests WAGR, hence renal ultrasound for Wilms tumour. Counsel on early anaesthesia risk against benefits of infant surgery; surgery is not delayed for tests in isolated cases."
+],
+"s": "Ch 45 Hypospadias",
+"c": [
+"c045-a01",
+"c045-a02",
+"c045-a03",
+"c045-a04",
+"c045-a05",
+"c045-a07",
+"c045-a26",
+"c045-a31",
+"c045-r01",
+"c045-r02",
+"c045-r03",
+"c045-r04",
+"c045-r06",
+"c045-r10"
+],
+"b": [
+"Karyotype if hypospadias plus undescended testis",
+"Grade after degloving",
+"IVF and twins raise risk",
+"Aniridia: WAGR, renal US"
+]
+},
+{
+"f": "mcq",
+"t": "Feminising genitoplasty and urogenital sinus",
+"q": "Which statement about feminising genital surgery is FALSE?",
+"o": [
+"Cut-back vaginoplasty is suited to simple labial fusion",
+"A deep gonadal biopsy is advised for possible ovotestis",
+"Neonatal vaginoplasty clearly lowers vaginal stenosis",
+"Confluence level is the key surgical factor in CAH"
+],
+"a": 2,
+"e": [
+"Single-stage neonatal surgery uses unscarred tissue and phallic skin, and maternal oestrogen thickens and vascularises the vagina, but it does not clearly reduce stenosis; neonatal vaginoplasty usually needs a secondary procedure after puberty. Timing remains controversial (many now defer irreversible surgery until the child can take part in the decision). Urogenital sinus anomalies are commonest in CAH (congenital adrenal hyperplasia; book: non-classic forms up to 1 in 500); the vagina usually joins the mid to distal urethra. Hydrometrocolpos (urine filling a poorly draining vagina) is often the first sign. A cervical impression at the vaginal dome on genitography indicates normal female internal organs. Clitoral enlargement can persist in premature infants without DSD. The ovarian part of an ovotestis may cover the testicular part, hence deep biopsy. Reconstruction covers clitoroplasty (preserve glans, tunics and neurovascular bundles, which are not mobilised), labiaplasty and vaginoplasty: posterior perineal flap for low confluence (the flap must reach normal-calibre vagina above the narrowing), pull-through for high confluence, replacement for absent vagina. Adult women with CAH are less satisfied with their genitalia than controls."
+],
+"s": "Ch 49 Surgery for DSD and cloacal anomalies",
+"c": [
+"c049-a02",
+"c049-a05",
+"c049-a06",
+"c049-r01",
+"c049-r02",
+"c049-r03",
+"c049-r04",
+"c049-r05",
+"c049-r06",
+"c049-r08",
+"c049-r09",
+"c049-r10",
+"c049-r11",
+"c049-r12",
+"c049-r13",
+"c049-r14"
+],
+"b": [
+"Confluence level decides surgery",
+"Low: perineal flap; high: pull-through",
+"Neonatal vaginoplasty: redo after puberty",
+"Preserve neurovascular bundles"
+]
+},
+{
+"f": "mcq",
+"t": "Renal physiology: GFR, tubule and hormones",
+"q": "Which statement about renal physiology is FALSE?",
+"o": [
+"Endothelin is the most potent vasoconstrictor known",
+"Parathyroid hormone increases renal phosphate excretion",
+"Plasma creatinine reliably detects early falls in GFR",
+"The proximal tubule reabsorbs about 65% of sodium"
+],
+"a": 2,
+"e": [
+"Creatinine rises only after substantial GFR loss. GFR reflects total renal function, approximated by creatinine clearance, and is best estimated by formulas using age, weight and creatinine (CKD-EPI is now standard); serum osmolality does not significantly affect GFR. Each nephron segment has a homeostatic role: the proximal tubule reabsorbs most sodium, bicarbonate and ions; the thin ascending limb reabsorbs sodium, chloride and urea passively, not actively; the loop architecture builds the hypertonic interstitium needed for maximal concentration. Low oxygen tension increases erythropoiesis (erythropoietin). Renal blood flow is set by several mediators: renin-angiotensin, endothelin, and the vasodilators nitric oxide and carbon monoxide. Bone: PTH increases calcium reabsorption; cholecalciferol (minimally active) is hydroxylated at 25 in the liver and 1 in the kidney to calcitriol, 100 times more potent, which maintains calcium and phosphate."
+],
+"s": "Ch 86 Renal physiology and renovascular hypertension",
+"c": [
+"c086-a01",
+"c086-a08",
+"c086-a09",
+"c086-a10",
+"c086-a11",
+"c086-a12",
+"c086-a13",
+"c086-r01",
+"c086-r02",
+"c086-r03",
+"c086-r04",
+"c086-r05",
+"c086-r06",
+"c086-r20",
+"c086-r21",
+"c086-r22",
+"c086-r23",
+"c086-r24",
+"c086-r25"
+],
+"b": [
+"Creatinine late marker",
+"PCT: 65% sodium",
+"Thin ascending limb passive",
+"Calcitriol 100× more potent"
+]
+},
+{
+"f": "mcq",
+"t": "Adrenal anatomy and physiology",
+"q": "Which statement about adrenal anatomy and physiology is FALSE?",
+"o": [
+"With renal agenesis the adrenal is in its normal place",
+"ACTH is the main regulator of aldosterone secretion",
+"The adrenals make more androgen than cortisol by weight",
+"PNMT makes adrenaline almost an adrenal-only product"
+],
+"a": 1,
+"e": [
+"Aldosterone (made only in the zona glomerulosa) is regulated mainly by angiotensin II and potassium; ACTH is a weak stimulus, so the glomerulosa does not atrophy in pituitary failure. Renin release rises with low renal perfusion pressure, renal sympathetic activity and low sodium. Mineralocorticoid excess first retains sodium, then the kidney escapes. Daily output: androgens over 20 mg, cortisol 10–20 mg, aldosterone 100–150 mcg; adrenal androgens are ACTH controlled. Zones: glomerulosa (mineralocorticoid), fasciculata (glucocorticoid), reticularis (sex steroids, develops last, by age 3). At birth the cortex has fetal and adult components and the fetal zone atrophies after birth. Cortisol peaks early morning, nadir 11 pm. Right gland triangular, left crescentic. PNMT (phenylethanolamine N-methyltransferase) converts noradrenaline to adrenaline (also in brain and organ of Zuckerkandl), so an adrenaline-dominant tumour suggests adrenal origin. Testicular adrenal rests in CAH can mimic tumour (avoid orchidectomy)."
+],
+"s": "Ch 106 Adrenal disorders",
+"c": [
+"c106-a01",
+"c106-a02",
+"c106-a03",
+"c106-a04",
+"c106-a05",
+"c106-a06",
+"c106-a07",
+"c106-r01",
+"c106-r02",
+"c106-r03",
+"c106-r04",
+"c106-r06",
+"c106-r07",
+"c106-r21",
+"c106-r22"
+],
+"b": [
+"Aldosterone: angiotensin II and K+",
+"Androgens >20 mg/day",
+"PNMT: adrenaline",
+"Cortisol nadir 11 pm"
+]
+},
+{
+"f": "mcq",
+"t": "Urodynamics: indications, filling and leak points",
+"q": "Which statement about filling-phase urodynamics is FALSE?",
+"o": [
+"Sustained Pdet above 40 cm H2O harms the upper tracts",
+"UDS helps before SUI surgery with urgency or poor emptying",
+"Detrusor overactivity on UDS is linked to renal damage",
+"Reflux can make bladder compliance look falsely good"
+],
+"a": 2,
+"e": [
+"Impaired compliance, not DO (detrusor overactivity), threatens the kidneys; DO (involuntary contractions on cystometry) occurs in asymptomatic people, whereas OAB is a symptom diagnosis. Reflux acts as a pop-off and makes compliance look better than it is; fast filling and involuntary contractions make it look worse; fluid or air-charged catheters do not distort it. Compliance (Δvolume/Δpressure, mean 40–120 mL/cm H2O) is hard to interpret, so filling pressures predict outcome better; Pdet stays near zero during filling and is obtained by subtraction. Indications lack level 1 evidence: the clinician needs a clear question and a plan to use the answer; AUA/SUFU guidance assists test selection. UDS is unnatural and may not reflect daily activity. SUI (failure to store from an underactive outlet) with normal emptying does not need UDS before surgery. Leak points: abdominal (vesical pressure at leakage with straining) and detrusor (in poor compliance or lower motor neuron disease); ALPP and MUCP (normal 40–60 cm H2O) should not alone grade incontinence. Occult SUI appears only when prolapse is reduced."
+],
+"s": "Ch 114 Urodynamics and video-urodynamics",
+"c": [
+"c114-a01",
+"c114-a02",
+"c114-a03",
+"c114-a04",
+"c114-a05",
+"c114-a09",
+"c114-a10",
+"c114-a11",
+"c114-a13",
+"c114-r01",
+"c114-r05",
+"c114-r06",
+"c114-r07",
+"c114-r08",
+"c114-r09",
+"c114-r14"
+],
+"b": [
+"Poor compliance harms kidneys",
+"Reflux pop-off",
+"Pdet >40 cm H2O dangerous",
+"MUCP 40–60 cm H2O"
+]
+},
+{
+"f": "mcq",
+"t": "Urology of transgender individuals",
+"q": "Which statement about urology in transgender individuals is FALSE?",
+"o": [
+"Strictures cluster at the fixed–phallic urethral junction",
+"Incontinence is the commonest problem in transmen",
+"Penile prosthesis waits about a year after phalloplasty",
+"In transwomen the prostate is examined via the neovagina"
+],
+"a": 1,
+"e": [
+"Incontinence is the commonest urological complication in transwomen; in transmen urethral fistula is commonest after phallic reconstruction, and fistulas and strictures mostly occur at the anastomosis of fixed and phallic urethra. Overall complication rate of transmen surgery is about 40%; rectal injury in vaginectomy is about 0.9% (discuss whether to do vaginectomy). Transurethral catheterisation is hard because of the sharp curve between native urethra and pars fixa. Preoperative work-up: urological history, uroflowmetry and urinary tract ultrasound. Labia majora (scrotal homologue) give the best scrotoplasty. The prosthesis waits for sensation from nerve anastomosis and has more complications than in natal males; metoidioplasty is an alternative for those avoiding phalloplasty risks. Transwomen keep their prostate, so stay alert to prostate disease. The term is gender dysphoria; it can be diagnosed in childhood, is not hormonal, and psychotherapy is no longer required before treatment. The book wrongly says DSM-5 lists 'gender identity disorder': DSM-5 replaced it with gender dysphoria (ICD-11: gender incongruence). Urologists have a key role in care and follow-up."
+],
+"s": "Ch 134 Transgender urology",
+"c": [
+"c134-a01",
+"c134-a02",
+"c134-a03",
+"c134-a04",
+"c134-a05",
+"c134-a06",
+"c134-a07",
+"c134-a08",
+"c134-a09",
+"c134-a10",
+"c134-a11",
+"c134-r01",
+"c134-r02",
+"c134-r03",
+"c134-r04",
+"c134-r05",
+"c134-r06",
+"c134-r07"
+],
+"b": [
+"Transwomen: incontinence",
+"Transmen: fistula; stricture at anastomosis",
+"Complications ~40%",
+"Prosthesis after ~1 year"
+]
+},
+{
+"f": "mcq",
+"t": "Androgen deprivation: mechanisms and agents",
+"q": "Which statement about hormonal agents for prostate cancer is FALSE?",
+"o": [
+"Steroid synthesis inhibitors need glucocorticoid cover",
+"Nonsteroidal antiandrogens lower LH and testosterone",
+"Estradiol suppresses LH 1000 times more than testosterone",
+"Nilutamide can delay visual adaptation to darkness"
+],
+"a": 1,
+"e": [
+"Nonsteroidal antiandrogens block central androgen receptors, so LH, testosterone and oestrogen rise (gynaecomastia, mastodynia); steroidal cyproterone also suppresses LH (progestational) and causes fluid retention and thromboembolism. All antiandrogens bind competitively; all can act as agonists, so withdrawal can lower PSA. Monotherapy preserves sexual function long term in only about 20%, similar to castration. Toxicity: diarrhoea (flutamide), liver toxicity (monitor LFTs); nilutamide causes delayed dark adaptation in about a quarter and interstitial pneumonitis in about 1%. ADT lowers androgen or blocks binding but does not alter the receptor itself, which may reactivate in castration resistance. LHRH agonists desensitise pituitary receptors; the flare lasts up to 20 days, so start an antiandrogen with them for 3 weeks. Agonists are given IM or subcutaneously and match orchidectomy for survival; severe allergy was with the antagonist abarelix (oral antagonist relugolix is now available). Orchidectomy cuts testosterone by 90% in 24 hours; double-ligate the cord with one transfixion suture. Aminoglutethimide also needs mineralocorticoid; abiraterone raises mineralocorticoids (hypokalaemia, hypertension)."
+],
+"s": "Ch 161 Hormonal therapy for prostate cancer",
+"c": [
+"c161-a01",
+"c161-a02",
+"c161-a03",
+"c161-a04",
+"c161-a05",
+"c161-a06",
+"c161-r01",
+"c161-r02",
+"c161-r03",
+"c161-r04",
+"c161-r09",
+"c161-r11",
+"c161-r14",
+"c161-r15",
+"c161-r16",
+"c161-r17"
+],
+"b": [
+"NSAAs raise LH and testosterone",
+"Nilutamide: dark adaptation, pneumonitis",
+"Flare up to 20 days: antiandrogen 3 weeks",
+"Orchidectomy: −90% in 24 h"
+]
+},
+{
+"f": "mcq",
+"t": "Hypospadias: curvature and primary repair",
+"q": "Which statement about curvature and primary hypospadias repair is FALSE?",
+"o": [
+"A glans width under 14 mm raises complication risk",
+"Dorsal penile nerves lie at the 11 and 1 o'clock positions",
+"An enlarged utricle commonly hinders catheter passage",
+"Curvature over 30° after degloving suits dorsal plication"
+],
+"a": 3,
+"e": [
+"A single midline dorsal plication suits curvature under 30° after degloving (no apparent shortening); over 30° after degloving and dartos dissection needs urethral plate transection and/or ventral corporal lengthening (dermal graft, corporotomies, tunica vaginalis flap), with a two-stage repair for severe curvature such as 50°; plication there risks recurrence. Measure curvature objectively by artificial erection. Chordee without hypospadias is usually ventral skin and dartos tethering, corrected by degloving and ventral dartos dissection. Nerves at 11 and 1 o'clock make midline plication safe; a perineal block suits older ambulant boys who dislike caudal-block leg paralysis. Severe curvature with penoscrotal webbing suggests a hypoplastic urethra needing two stages; even distal repairs have about 10% complications. MIP (megameatus intact prepuce) is a variant repaired by tubularising local flaps, not a circumcision injury. After prepuce reconstruction, avoid retraction for 6 weeks; complications otherwise equal circumcision; dressings do not matter. Subepithelial sutures and extra vascularised layers help; suture type does not. Preoperative androgens transiently enlarge penis and glans (benefit on complications controversial); side effects (erections, pubic hair, aggression) are transient and adult penile size is not reduced. Other complication risks: proximal meatus, reoperation and no barrier flap."
+],
+"s": "Ch 45 Hypospadias",
+"c": [
+"c045-a06",
+"c045-a08",
+"c045-a10",
+"c045-a11",
+"c045-a12",
+"c045-a13",
+"c045-a14",
+"c045-a15",
+"c045-a22",
+"c045-a29",
+"c045-r05",
+"c045-r08",
+"c045-r11"
+],
+"b": [
+"<30°: dorsal plication",
+"≥30°: plate transection or ventral lengthening",
+"Nerves at 11 and 1 o'clock",
+"Glans <14 mm: more complications"
+]
+},
+{
+"f": "mcq",
+"t": "Cloacal anomalies and vaginal replacement",
+"q": "Which statement about cloaca and vaginal replacement is FALSE?",
+"o": [
+"Faecal continence after cloacal repair follows neurology",
+"Two vaginas with two uteri are common in a cloaca",
+"A cloaca often presents as a cystic mass behind the bladder",
+"A McIndoe neovagina stenoses less than a bowel vagina"
+],
+"a": 3,
+"e": [
+"The McIndoe (skin graft) vagina has the higher stenosis rate and needs dilatation; colon is preferred to ileum for its lower stenosis; an inadequate rectovesical space can compromise the segment's blood supply. In a persistent cloaca the pelvic cystic mass is a distended vagina; in Hendren's 154 cases 66 had one vagina, 68 two and 20 none, and the uterus usually mirrors the vagina. Steps: decompress the bowel (colostomy) and the urinary tract (intermittent vaginal catheterisation can work; vaginostomy is not a routine step), correct urinary anomalies that threaten nephrons, then a single-stage repair of rectum, vagina and urethra once stable. Renal and spinal cord anomalies are frequent, and many have neuropathic urinary and faecal incontinence. Transverse septum: locate any cervix first. Vaginal atresia, unlike agenesis and testicular feminisation, spares Müllerian structures (uterus, cervix and upper vagina are normal)."
+],
+"s": "Ch 49 Surgery for DSD and cloacal anomalies",
+"c": [
+"c049-a01",
+"c049-a03",
+"c049-a04",
+"c049-a07",
+"c049-a08",
+"c049-r07",
+"c049-r15",
+"c049-r16",
+"c049-r17",
+"c049-r18",
+"c049-r19",
+"c049-r20"
+],
+"b": [
+"McIndoe: most stenosis",
+"Colon better than ileum",
+"Decompress bowel and urinary tract first",
+"Spinal and renal anomalies common"
+]
+},
+{
+"f": "mcq",
+"t": "Sodium, potassium, water and acid-base",
+"q": "Which statement about electrolyte and acid-base disorders is FALSE?",
+"o": [
+"Type IV renal tubular acidosis features hypokalaemia",
+"Mild chronic hyperkalaemia without ECG change can wait",
+"Type 1 (distal) RTA is the type linked to renal stones",
+"Hyponatraemia normally lowers ADH secretion and thirst"
+],
+"a": 0,
+"e": [
+"Type IV RTA (aldosterone deficiency or resistance) causes hyperkalaemia because distal potassium secretion falls. Most bicarbonate is reabsorbed in the proximal, not distal, tubule. Acid leaves via lungs and kidney; pH must stay in a narrow range. In acid-base disorders decide whether the kidney (HCO3−) or lungs (pCO2) is primary, then check compensation. Assess sodium disorders against fluid status, using history, volume status and urinary sodium; correct severe deficits or excess slowly (rapid correction of hyponatraemia risks demyelination). Desmopressin treats hypernatraemia of diabetes insipidus, not hyponatraemia. Water movement sets solute concentration; ADH regulates it by inserting aquaporin channels. Potassium is mainly intracellular; serum level reflects total stores and the intra/extracellular balance. ACE inhibitors cause hyperkalaemia, not hypokalaemia. Symptomatic hyperkalaemia needs urgent treatment to protect the heart."
+],
+"s": "Ch 86 Renal physiology and renovascular hypertension",
+"c": [
+"c086-a02",
+"c086-a03",
+"c086-a04",
+"c086-a05",
+"c086-a06",
+"c086-a07",
+"c086-r07",
+"c086-r08",
+"c086-r09",
+"c086-r10",
+"c086-r11",
+"c086-r12",
+"c086-r13",
+"c086-r14",
+"c086-r15",
+"c086-r16",
+"c086-r17",
+"c086-r18",
+"c086-r19"
+],
+"b": [
+"Type IV RTA: hyperkalaemia",
+"Type 1 RTA: stones",
+"Correct sodium slowly",
+"Potassium mainly intracellular"
+]
+},
+{
+"f": "mcq",
+"t": "Cushing syndrome",
+"q": "Which statement about Cushing syndrome is FALSE?",
+"o": [
+"Up to 50% of patients with Cushing syndrome form stones",
+"Nelson syndrome follows up to 30% of adrenalectomies",
+"Ectopic ACTH causes most endogenous Cushing syndrome",
+"Oral contraceptives can falsify dexamethasone tests"
+],
+"a": 2,
+"e": [
+"Cushing disease (pituitary ACTH) causes about 70% of endogenous Cushing syndrome; ectopic ACTH is almost always from malignant tissue. Stone formers with cushingoid features and men with low testosterone and low gonadotropins deserve screening. Overnight 1-mg dexamethasone test: dexamethasone at 11 pm, serum cortisol next morning; the book calls 5 mcg/dL or more abnormal, whereas current guidelines treat over 1.8 mcg/dL as failed suppression. Oral contraceptives raise cortisol-binding globulin and total cortisol, giving up to 50% false positives. Transsphenoidal surgery cures 60%–80%, with about 25% relapse; bilateral adrenalectomy is an MDT decision for refractory cases, risking Nelson syndrome (enlarging pituitary adenoma, raised pressure, chiasm compression)."
+],
+"s": "Ch 106 Adrenal disorders",
+"c": [
+"c106-a10",
+"c106-a11",
+"c106-a12",
+"c106-a13",
+"c106-a34",
+"c106-r05",
+"c106-r23",
+"c106-r24",
+"c106-r25"
+],
+"b": [
+"Cushing disease ~70%",
+"Stones in up to 50%",
+"1-mg overnight test; OCP false positives",
+"Nelson up to 30%"
+]
+},
+{
+"f": "mcq",
+"t": "Urodynamics: voiding, EMG and video studies",
+"q": "Which statement about voiding-phase urodynamics is FALSE?",
+"o": [
+"A BOOI above 40 indicates outlet obstruction in men",
+"Patch EMG electrodes measure the sphincter directly",
+"Internal sphincter dyssynergia needs video-urodynamics",
+"The external sphincter relaxes before the detrusor contracts"
+],
+"a": 1,
+"e": [
+"Patch electrodes record perineal muscle, assumed to reflect the sphincter; needle electrodes are needed to measure the sphincter itself. Obstruction is high-pressure, low-flow voiding (with or without residual). BOOI (bladder outlet obstruction index) = PdetQmax − 2Qmax: under 20 unobstructed. In women Qmax under 12 mL/s with Pdet over 25 cm H2O predicts obstruction. Rectal or vaginal catheters measure abdominal pressure and reveal straining. Normal flow is bell-shaped. The sphincter contracts progressively with filling and during involuntary contractions (guarding reflex). DESD (detrusor external sphincter dyssynergia) comes from a lesion above the sacral micturition centre; a learned form in neurologically normal people is dysfunctional voiding. Internal sphincter dyssynergia needs a lesion above sympathetic outflow (T10–L1). VUDS is the procedure of choice for bladder neck dysfunction and suits neurogenic, retention, post-pelvic surgery or radiation, diversion and transplant cases; it is not needed to diagnose DO or obstruction in all men."
+],
+"s": "Ch 114 Urodynamics and video-urodynamics",
+"c": [
+"c114-a06",
+"c114-a07",
+"c114-a08",
+"c114-a12",
+"c114-r02",
+"c114-r03",
+"c114-r04",
+"c114-r10",
+"c114-r11",
+"c114-r12",
+"c114-r13",
+"c114-r15",
+"c114-r16",
+"c114-r17"
+],
+"b": [
+"Needle EMG for sphincter",
+"BOOI >40 obstructed, <20 not",
+"Women: Qmax <12, Pdet >25",
+"VUDS for bladder neck"
+]
+},
+{
+"f": "mcq",
+"t": "ADT side effects, cost and intermittent therapy",
+"q": "Which statement about ADT toxicity and intermittent therapy is FALSE?",
+"o": [
+"Off-treatment intervals lengthen with each new cycle",
+"Diethylstilbestrol 1–3 mg daily is the cheapest form of ADT",
+"Breast radiotherapy prevents but does not treat gynaecomastia",
+"After about 4 years of ADT the average man is osteopenic"
+],
+"a": 0,
+"e": [
+"Off-cycles shorten: median 20.1, 13.2, 9.1, then 4–5 months; attrition rises to 68% by the third interval. Intermittent therapy is not superior and may be worse: more prostate cancer deaths (120 vs 94) but fewer other deaths (148 vs 162) and better hot flash and other QoL scores (NCIC PR.7, non-inferior after radiotherapy; SWOG 9346 in metastatic disease did not prove non-inferiority). Failing to reach undetectable PSA raises 24-month castration-resistance odds 15-fold; PSA fall and doubling time, testosterone and Gleason also predict response. ADT effects: bone loss, sexual dysfunction (up to 20% keep some activity, about 5% high libido), hot flashes in 50%–80% (treat if bothersome: megestrol, cyproterone, DES, estradiol, medroxyprogesterone, gabapentin), cognitive decline, lost muscle and more fat, anaemia, gynaecomastia, diabetes and cardiovascular mortality. Prophylactic breast radiotherapy is 10 Gy; established gynaecomastia may need mastectomy. LHRH agonists are cheaper than orchidectomy only if survival is a few months; combined blockade is the most expensive."
+],
+"s": "Ch 161 Hormonal therapy for prostate cancer",
+"c": [
+"c161-a07",
+"c161-a08",
+"c161-a13",
+"c161-a14",
+"c161-r05",
+"c161-r06",
+"c161-r07",
+"c161-r12",
+"c161-r18"
+],
+"b": [
+"Intermittent: off-cycles shorten",
+"Osteopenia by 4 years",
+"Hot flashes 50–80%",
+"DES cheapest"
+]
+},
+{
+"f": "mcq",
+"t": "Hypospadias: complications and reoperation",
+"q": "Which statement about complications of hypospadias repair is FALSE?",
+"o": [
+"Meatal stenosis after TIP: plate sutured too far distally",
+"BXO stenosis needs excision and staged buccal grafting",
+"Most fistulas close with prolonged catheter drainage",
+"Buccal lip graft suits the glans better than cheek"
+],
+"a": 2,
+"e": [
+"Fistulas, the commonest complication, rarely close with a catheter. With supple tissue and good glans, close primarily and cover with a dartos barrier flap; a coronal or distal fistula with thin glans needs redo urethroplasty and glansplasty. 80% of complications appear within a year, but strictures and curvature can present late, so follow proximal cases to puberty; adults report more ejaculatory problems and less satisfaction with function and appearance. A small-looking meatus after Thiersch-Duplay is calibrated (8–10 Fr) and treated only if symptomatic; BXO (balanitis xerotica obliterans) shows white meatal change and makes meatotomy or flaps fail; even after excision up to 40% fail. Glanular stricture: dorsal inlay graft (DVIU succeeds in under 10% after TIP); scarred, webbed reoperative cases need two-stage buccal grafting, with lip in the glans and cheek on the shaft. Diverticulum after Byars or onlay flaps: excise, using de-epithelialised redundant wall as a layer (ED is not expected). Recurrent UTI after repair: VCUG, then cystoscopy if abnormal. A tunica vaginalis flap not dissected to the external ring can tether erections: transect it through a small scrotal incision. Scrotal or shaft haematoma after buccal graft: bed rest and observe. A glanular meatus with no curvature or stenosis needs no surgery."
+],
+"s": "Ch 45 Hypospadias",
+"c": [
+"c045-a09",
+"c045-a16",
+"c045-a17",
+"c045-a18",
+"c045-a19",
+"c045-a20",
+"c045-a21",
+"c045-a23",
+"c045-a24",
+"c045-a25",
+"c045-a27",
+"c045-a28",
+"c045-a30",
+"c045-r07",
+"c045-r09",
+"c045-r12",
+"c045-r13",
+"c045-r14"
+],
+"b": [
+"Fistula commonest; catheter won't close it",
+"80% of complications within 1 year",
+"BXO: excise, staged buccal (40% fail)",
+"Lip graft for glans"
+]
+},
+{
+"f": "mcq",
+"t": "Renovascular hypertension and ischaemic nephropathy",
+"q": "Which statement about renal artery stenosis is FALSE?",
+"o": [
+"Two-kidney, one-clip hypertension is renin dependent",
+"Collateral back-filling predicts surgical success",
+"Medial fibroplasia is the commonest subtype of FMD",
+"Stenting beats medical therapy in atheromatous RAS"
+],
+"a": 3,
+"e": [
+"CORAL (and ASTRAL) found angioplasty with stenting no better than medical therapy (ACE inhibitor, statin and diuretic, adding a calcium channel blocker if needed). Renal artery stenosis is the commonest cause of renovascular hypertension; atherosclerosis causes two thirds, and four FMD (fibromuscular dysplasia) types cause most of the rest, medial fibroplasia being least likely to progress. Suspect it with severe or abrupt hypertension without risk factors. In the two-kidney, one-clip Goldblatt model the other kidney excretes salt and water, so hypertension is angiotensin dependent; one-kidney models are volume dependent. Screen with MR angiography, CT angiography or duplex ultrasound (avoid gadolinium in significant renal failure: nephrogenic systemic fibrosis); with stable function, further imaging is not needed. Medical management is the mainstay; stenting's long-term benefit is doubted; surgery remains for selected patients (most have vascular disease elsewhere; aortic and renal repair need not be simultaneous; ostial lesions can be stented). Ischaemic nephropathy is driven by proinflammatory cytokines and angiotensin II, not just low flow or failed autoregulation; it can reverse, and collaterals are common."
+],
+"s": "Ch 86 Renal physiology and renovascular hypertension",
+"c": [
+"c086-a14",
+"c086-a15",
+"c086-a16",
+"c086-a17",
+"c086-a18",
+"c086-r26",
+"c086-r27",
+"c086-r28",
+"c086-r29",
+"c086-r30",
+"c086-r31",
+"c086-r32",
+"c086-r33",
+"c086-r34"
+],
+"b": [
+"CORAL: stent = medical",
+"Atherosclerosis 2/3; FMD medial commonest",
+"2K1C: angiotensin dependent",
+"Non-invasive imaging first"
+]
+},
+{
+"f": "mcq",
+"t": "Primary aldosteronism",
+"q": "Which statement about primary aldosteronism is FALSE?",
+"o": [
+"Most patients with this disorder are hypokalaemic",
+"Lateralised secretion best predicts surgical success",
+"Idiopathic adrenal hyperplasia causes about 60% of cases",
+"In FH type I, aldosterone output is driven by ACTH"
+],
+"a": 0,
+"e": [
+"Only 9%–37% are hypokalaemic at diagnosis. FH (familial hyperaldosteronism) type I is a chimeric 11β-hydroxylase promoter and aldosterone synthase gene. 50%–70% of positive screens are confirmed. Stop mineralocorticoid receptor blockers (spironolactone, eplerenone) for at least 6 weeks before testing. Sodium loading suppresses aldosterone and renin unless secretion is autonomous. Adrenal vein sampling: cortisol gradients confirm placement; the book's 2.5:1 aldosterone ratio lateralises to the left (guidelines commonly use 4:1 with cosyntropin). Persistent hypertension after adrenalectomy is predicted by age over 50, more than two drugs, a first-degree relative with hypertension, long duration and renal insufficiency."
+],
+"s": "Ch 106 Adrenal disorders",
+"c": [
+"c106-a14",
+"c106-a15",
+"c106-a16",
+"c106-a17",
+"c106-a18",
+"c106-a19",
+"c106-a38",
+"c106-r08",
+"c106-r09",
+"c106-r26"
+],
+"b": [
+"Hypokalaemia only 9–37%",
+"Idiopathic hyperplasia ~60%",
+"Stop MR blockers ≥6 weeks",
+"AVS lateralisation decides surgery"
+]
+},
+{
+"f": "mcq",
+"t": "ADT: timing and indications",
+"q": "Which statement about when to use ADT is FALSE?",
+"o": [
+"ADT should continue in castration-resistant disease",
+"Immediate ADT for nodes found at RP improved survival",
+"About 20% of men with metastases die of other causes",
+"Neoadjuvant ADT before prostatectomy cuts PSA relapse"
+],
+"a": 3,
+"e": [
+"Neoadjuvant ADT cuts positive margins (from about 50% to 15%) but not biochemical relapse in four randomised trials. Immediate ADT improved overall survival for node-positive disease when prostatectomy was completed (Messing, ECOG); the EORTC trial without prostatectomy showed no survival gain. Early ADT does not prevent castration resistance, gives no survival gain in most studies and increases deaths in localised low-risk cancer; after PSA failure post-prostatectomy, median time to bone metastases is 10 years, so many men never need ADT. ADT is indicated for symptomatic metastatic disease. Book: ADT with radiotherapy benefits only locally advanced or high-grade disease; short-course ADT also benefits intermediate-risk disease (RTOG 9408). Combined blockade targets adrenal androgens; with cyproterone, outcomes were slightly worse; adding flutamide to orchidectomy gave no benefit in minimal metastatic disease. The androgen receptor stays responsive in castration resistance. Update: in metastatic hormone-sensitive disease, ADT plus docetaxel or an androgen receptor pathway inhibitor (abiraterone, enzalutamide, apalutamide, darolutamide) now improves survival over ADT alone."
+],
+"s": "Ch 161 Hormonal therapy for prostate cancer",
+"c": [
+"c161-a09",
+"c161-a10",
+"c161-a11",
+"c161-a12",
+"c161-a15",
+"c161-r08",
+"c161-r10",
+"c161-r13",
+"c161-r19",
+"c161-r20",
+"c161-r21"
+],
+"b": [
+"Neoadjuvant ADT: fewer margins, same PSA relapse",
+"Messing: immediate ADT for N+ at RP",
+"Continue ADT in CRPC",
+"mHSPC: ADT plus ARPI or docetaxel"
+]
+},
+{
+"f": "mcq",
+"t": "Phaeochromocytoma",
+"q": "Which statement about phaeochromocytoma is FALSE?",
+"o": [
+"Free metanephrines are those without a sulfate group",
+"Up to 25% of 'sporadic' tumours carry germline mutations",
+"β-Blockers are started before α-blockade is established",
+"SDHB mutations carry the highest malignancy risk"
+],
+"a": 2,
+"e": [
+"β-Blockade without α-blockade leaves adrenaline's α1 action unopposed (β2 dilation lost); give it only after α-blockade, for reflex tachycardia and arrhythmias. Restoring intravascular volume is the key preoperative step. Metanephrines (normetanephrine and metanephrine, made by COMT methylation) are formed continuously within the tumour, so plasma free or urinary fractionated metanephrines are more sensitive than paroxysmal catecholamines; 'fractionated' means the two are reported separately; chromogranin A has been used to confirm. About 5% of incidentalomas are phaeochromocytomas; incidental lesions are 10%–25% of phaeochromocytomas (book). Malignancy: SDHB 30%–50%; MEN2 (RET) about half get phaeo, 3% malignant; VHL 10%–20%, 5% malignant; NF1 1%, over 10% malignant; SDHD under 3%. VHL type 1 no phaeo; 2A with RCC; 2B without RCC; 2C phaeo only. The book suggests genetic testing under 50 (current guidelines offer it to all). Recheck metanephrines at 2 weeks and 6 months, then yearly for life: recurrence up to 16% (half malignant), even after 15 years. Book says PET is the preferred imaging; guidelines use CT (or MRI) first and functional PET for metastatic or multifocal disease."
+],
+"s": "Ch 106 Adrenal disorders",
+"c": [
+"c106-a08",
+"c106-a09",
+"c106-a20",
+"c106-a21",
+"c106-a22",
+"c106-a23",
+"c106-a24",
+"c106-a39",
+"c106-r11",
+"c106-r12",
+"c106-r18",
+"c106-r19",
+"c106-r27"
+],
+"b": [
+"α before β",
+"Metanephrines first test",
+"SDHB most malignant",
+"Lifelong yearly testing"
+]
+},
+{
+"f": "mcq",
+"t": "Adrenocortical carcinoma",
+"q": "Which statement about adrenocortical carcinoma is FALSE?",
+"o": [
+"Mitotane is the first-line drug for metastatic disease",
+"Children fare worse than adults with this cancer",
+"Most functioning adrenocortical cancers make cortisol",
+"The Weiss criteria need caution in oncocytic tumours"
+],
+"a": 1,
+"e": [
+"Five-year survival is 54% in children vs 20%–47% in adults. Up to 74% of functioning tumours secrete cortisol. Three or more Weiss criteria indicate malignancy (use with caution in children and oncocytic tumours); Ki-67 is perhaps the best marker. A tumour with nuclear atypia, mitoses and high Ki-67 is carcinoma: follow with short-interval imaging. Complete resection offers the best chance of cure; adjuvant radiotherapy reduces local recurrence without survival gain; functional status has not consistently affected survival. Book: adjuvant mitotane improves recurrence-free and overall survival; the ADIUVO trial (2023) found no benefit in low- to intermediate-risk disease, so it is now reserved for high risk. Book: adding streptozotocin or EDP (etoposide, doxorubicin, cisplatin) to mitotane improves PFS; FIRM-ACT showed EDP plus mitotane beat streptozotocin plus mitotane for PFS, without significant overall survival gain."
+],
+"s": "Ch 106 Adrenal disorders",
+"c": [
+"c106-a29",
+"c106-a30",
+"c106-a31",
+"c106-a32",
+"c106-a33",
+"c106-a41",
+"c106-r10",
+"c106-r15"
+],
+"b": [
+"Children 54% vs adults 20–47%",
+"Cortisol in up to 74%",
+"Weiss ≥3; Ki-67",
+"ADIUVO: no adjuvant mitotane benefit in low-intermediate risk"
+]
+},
+{
+"f": "mcq",
+"t": "Adrenal masses, cysts and insufficiency",
+"q": "Which statement about adrenal masses and adrenal failure is FALSE?",
+"o": [
+"Aldosteronomas commonly arise outside the adrenal gland",
+"Adrenal ganglioneuroma can secrete VIP and cause diarrhoea",
+"Below 10 HU unenhanced suggests an adrenal adenoma",
+"Autoimmune adrenalitis is the main US cause of failure"
+],
+"a": 0,
+"e": [
+"Myelolipoma, ganglioneuroma, phaeochromocytoma and oncocytoma can be extra-adrenal; aldosteronoma cannot. Every adrenal mass needs cortisol and catecholamine testing, plus aldosterone and renin if hypertensive (late-night salivary cortisol, aldosterone, renin and plasma free metanephrines), including a likely RCC metastasis (32 HU, 52% washout), since adrenal metastases are common. Myelolipoma (fat with marrow elements) needs no treatment. Adrenalectomy at radical nephrectomy is needed only for large upper-pole (T2) tumours, an abnormal gland on imaging or thrombus to the adrenal level. Adrenal cysts: pseudocyst, endothelial, epithelial, parasitic; 7% harbour malignancy. Most ganglioneuromas are silent. CAH patients often develop benign adenomas. Adrenal failure is from autoimmune disease in the USA and tuberculosis in developing countries; crisis mimics an acute abdomen and children may have hypoglycaemic seizures (not priapism)."
+],
+"s": "Ch 106 Adrenal disorders",
+"c": [
+"c106-a25",
+"c106-a26",
+"c106-a27",
+"c106-a28",
+"c106-a35",
+"c106-a36",
+"c106-a37",
+"c106-a40",
+"c106-a42",
+"c106-r13",
+"c106-r14",
+"c106-r16",
+"c106-r17",
+"c106-r20",
+"c106-r28",
+"c106-r29"
+],
+"b": [
+"Aldosteronoma never extra-adrenal",
+"<10 HU: adenoma",
+"Test every mass for function",
+"Cysts: 7% malignant"
+]
+}
+]

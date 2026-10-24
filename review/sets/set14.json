@@ -49,7 +49,7 @@
 ],
 "a": 2,
 "e": [
-"Neutrophils (PMNs) are cytotoxic innate cells but only macrophages ingest pathogens and present antigen on MHC. Innate immunity is rapid, recognises PAMPs (pathogen-associated molecular patterns) and has no memory; adaptive immunity adds specificity and memory; they work together. An antitumour response needs Th1 (driven by IL-12; IFN-γ, IL-2, TNF-α), which also clears viruses. Th2 cytokines in urine after BCG, and Th2 CD4 cells in tumours, predict worse bladder cancer outcome. CD8 T cells kill almost any target, including chemoresistant cells. B cells (named after the bursa of Fabricius) make antibodies and memory cells; anti-BCG antibodies probably speed BCG clearance and weaken its effect. Immunoediting: elimination, equilibrium, escape; clinical tumours have escaped."
+"Neutrophils (PMNs) are phagocytic, cytotoxic innate cells but are not professional antigen-presenting cells; macrophages, dendritic cells (the most potent) and B cells present antigen on MHC class II. Innate immunity is rapid, recognises PAMPs (pathogen-associated molecular patterns) and has no memory; adaptive immunity adds specificity and memory; they work together. An antitumour response needs Th1 (driven by IL-12; IFN-γ, IL-2, TNF-α), which also clears viruses. Th2 cytokines in urine after BCG, and Th2 CD4 cells in tumours, predict worse bladder cancer outcome. CD8 T cells kill almost any target, including chemoresistant cells. B cells (named after the bursa of Fabricius) make antibodies and memory cells; anti-BCG antibodies probably speed BCG clearance and weaken its effect. Immunoediting: elimination, equilibrium, escape; clinical tumours have escaped."
 ],
 "s": "Ch 61 Immunology and immunotherapy",
 "c": [
@@ -68,7 +68,7 @@
 "c061-r04"
 ],
 "b": [
-"Only macrophages present antigen",
+"APCs: dendritic cells, macrophages, B cells",
 "Th1: IL-12, IFN-γ",
 "Th2: IL-4, 5, 10, 13",
 "Elimination, equilibrium, escape"
