@@ -1,0 +1,773 @@
+[
+{
+"f": "mcq",
+"t": "Girls: embryology and interlabial masses",
+"q": "Which statement about the female genitalia in girls is FALSE?",
+"o": [
+"Urethral prolapse peaks in prepubertal white girls",
+"An interlabial mass next to the urethra needs renal US",
+"Most labial adhesions in girls need no active treatment",
+"Skene glands come from remnants of the prostatic ducts"
+],
+"a": 0,
+"e": [
+"Urethral prolapse (doughnut-shaped mass with the urethral orifice in its centre) occurs most often in prepubertal black girls and postmenopausal white women. A mass lateral to the orifice is something else: paraurethral (Skene duct) cyst, prolapsed ureterocele, urethral polyp or ectopic ureter; so an interlabial mass associated with the urethra should always have renal and pelvic ultrasonography. Embryology: Skene glands are prostatic duct remnants (male homologue: prostate); Gartner duct cysts are Wolffian (mesonephric) remnants; Bartholin glands are homologues of the male bulbourethral (Cowper) glands; the proximal vagina forms from the fused paired Müllerian ducts and the distal vagina from the sinovaginal bulbs, which later canalise. Clitoral hypertrophy in a newborn suggests CAH (congenital adrenal hyperplasia) first; other causes are neurofibromatosis and a maternal androgen-producing tumour. A small clitoris may be seen in AIS (androgen insensitivity syndrome). Labial adhesions (thought to reflect low oestrogen, not sexual abuse) need treatment only if there is urine pooling in the vagina with post-void dribbling, UTI, perineal irritation or findings of abuse (topical oestrogen first). An imperforate hymen bulges at the perineum at birth (hydro/mucocolpos) or presents at puberty with cyclic abdominal pain and primary amenorrhoea (haematocolpos). Primary vaginal tumours (rhabdomyosarcoma, sarcoma botryoides) present at a mean age under 2 years. Anogenital condylomata (HPV) in infants raise strong suspicion of abuse, but perinatal transmission also occurs; many resolve spontaneously, HPV immunisation should cut incidence and CO2 laser ablation works."
+],
+"s": "Ch 47 Genital anomalies in girls",
+"c": [
+"c047-r01",
+"c047-r02",
+"c047-r03",
+"c047-r04",
+"c047-r05",
+"c047-r10",
+"c047-r11",
+"c047-r12",
+"c047-a08",
+"c047-a09",
+"c047-a10",
+"c047-a11"
+],
+"b": [
+"Urethral prolapse: black prepubertal girls, white postmenopausal women",
+"Skene = prostate; Gartner = Wolffian; Bartholin = Cowper",
+"Newborn clitoromegaly: think CAH",
+"Vaginal tumours: mean age <2 years",
+"Infant condyloma: perinatal spread possible"
+]
+},
+{
+"f": "mcq",
+"t": "Neuroblastoma",
+"q": "Which statement about neuroblastoma is FALSE?",
+"o": [
+"Most stage IV-S infants can simply be observed",
+"Stroma-rich (Shimada) histology is a favourable feature",
+"Thoracic primaries fare worse than adrenal primaries",
+"Deletion of 1p (1p36) is found in 25% to 35% of tumours"
+],
+"a": 2,
+"e": [
+"Neuroblastoma is the commonest extracranial solid tumour of childhood. Site matters: non-adrenal primaries survive better, and thoracic tumours present younger, with localised disease, and do better even after correcting for age and stage. Age: children 18 months or younger survive better, because their tumours have more favourable biology (INRG, International Neuroblastoma Risk Group, uses 18 months as the cut-off). Adverse biology: 1p deletion in 25%–35% (consensus region 1p36.1–2); MYCN amplification in about 20% of primary tumours, predicting progression independent of age and stage; treatment protocols are now risk-assigned using such markers. Shimada is an age-linked histological system: stroma-rich tumours are favourable; stroma-poor tumours with unfavourable features have under 10% survival. Neuroblastoma in situ (Beckwith and Perrin) is found in about 1 in 224 infant autopsies under 3 months, far above clinical incidence, so it usually regresses spontaneously. Mass urinary screening of infants detected more low-stage, favourable tumours but did not reduce advanced disease in older children (screening finds tumours with a favourable prognosis). Stage IV-S (infants with a small primary and spread to liver, skin or marrow) usually has wholly favourable markers and is observed; the few with adverse markers progress. Complete surgical resection cures low-stage disease."
+],
+"s": "Ch 53 Paediatric renal and adrenal tumours",
+"c": [
+"c053-a01",
+"c053-a02",
+"c053-a03",
+"c053-a04",
+"c053-a05",
+"c053-a06",
+"c053-r01",
+"c053-r02",
+"c053-r03",
+"c053-r04"
+],
+"b": [
+"1p del 25–35%; MYCN ~20%",
+"≤18 months better",
+"Thoracic better than adrenal",
+"Stage IV-S: observe",
+"Screening found only favourable tumours"
+]
+},
+{
+"f": "mcq",
+"t": "UTI definitions and natural history",
+"q": "Which statement about UTI definitions and natural history is FALSE?",
+"o": [
+"Bacteriuria without pyuria usually means colonisation",
+"Most recurrences are reinfections, not persistence",
+"Recurrent simple cystitis does not cause renal scarring",
+"Prophylaxis lowers the long-run risk of new bacteriuria"
+],
+"a": 3,
+"e": [
+"Whether a woman gets no treatment, short-term, long-term or prophylactic antibiotics, the risk of recurrent bacteriuria is the same; antimicrobials only alter the time until recurrence. Bacteriuria and pyuria are not synonymous with UTI: bacteriuria without pyuria indicates colonisation. Acute pyelonephritis is chills, fever and flank pain with bacteriuria and pyuria. UTIs are classified by presumed site of origin, and as uncomplicated (healthy host, normal tract) or complicated (factors that increase bacteriuria and reduce treatment efficacy). Nosocomial (health care–associated) UTIs occur in hospitalised or institutionalised patients and involve Pseudomonas and other resistant organisms. Recurrence is either bacterial persistence (same strain, short interval; source must be found and eradicated) or, more commonly, reinfection (new organism, longer interval, ascending from faecal flora). Recurrent uncomplicated UTIs have not been linked to scarring, hypertension or progressive renal failure, so long-term effects are minimal. UTIs are the commonest bacterial infection with large health costs; incidence of bacteriuria rises with institutionalisation or hospitalisation, pregnancy and comorbidities that alter lower tract function or immunity. Most UTIs are bacterial, from bowel flora."
+],
+"s": "Ch 55 Urinary tract infections",
+"c": [
+"c055-a01",
+"c055-a02",
+"c055-a03",
+"c055-a04",
+"c055-a05",
+"c055-a06",
+"c055-r01",
+"c055-r02",
+"c055-r03",
+"c055-r04",
+"c055-r05",
+"c055-r06",
+"c055-r07"
+],
+"b": [
+"Prophylaxis delays, doesn't prevent, recurrence",
+"Bacteriuria without pyuria = colonisation",
+"Reinfection > persistence",
+"No renal damage from recurrent simple UTI"
+]
+},
+{
+"f": "mcq",
+"t": "UTUC epidemiology and risk factors",
+"q": "Which statement about upper tract urothelial carcinoma (UTUC) epidemiology is FALSE?",
+"o": [
+"Arsenic in artesian well water increases UTUC risk",
+"Balkan nephropathy is a dominantly inherited disorder",
+"Hereditary UTUC is linked to Lynch syndrome (HNPCC)",
+"Stopping smoking over 10 years cuts UTUC risk by 60–70%"
+],
+"a": 1,
+"e": [
+"Balkan nephropathy is familial but not inherited: it results from dietary exposure to aristolochic acid (the book spells it 'aristocholic'), as does Chinese herb nephropathy in Taiwan; the highest UTUC incidence is in the Balkans and Taiwan. In the Balkans UTUC is 40% of renal neoplasms, peaking at 70–90 years. UTUC is only about 5% of urothelial cancers and is twice as common in men; but in blackfoot disease areas of southwest Taiwan (chronic arsenic from artesian wells) it is twice as common in women and starts younger. Tobacco raises the relative risk from 2.5 to 7, and stopping for more than 10 years cuts it by 60%–70% (McLaughlin 1992). 'Amino tumours' follow occupational aromatic amine exposure. Analgesic abuse is reported in 22% of pelvic and 11% of ureteral tumours. Hereditary UTUC is linked to Lynch syndrome (HNPCC, mismatch repair genes); EAU advises screening younger patients or those with a suggestive family history. Upper tract recurrence after bladder cancer is 2%–6%, often late (median over 3 years; classic series 2%–4% at 17–170 months)."
+],
+"s": "Ch 98 Upper tract urothelial carcinoma",
+"c": [
+"c098-a01",
+"c098-a02",
+"c098-a03",
+"c098-a11",
+"c098-r01",
+"c098-r02",
+"c098-r05",
+"c098-r06",
+"c098-r07",
+"c098-r08",
+"c098-r09",
+"c098-r10",
+"c098-r11",
+"c098-r26"
+],
+"b": [
+"Aristolochic acid: Balkans, Taiwan",
+"Smoking RR 2.5–7",
+"Arsenic: blackfoot disease",
+"Lynch syndrome"
+]
+},
+{
+"f": "mcq",
+"t": "Female pelvic floor: history and examination",
+"q": "Which statement about history and examination in female pelvic floor disorders is FALSE?",
+"o": [
+"The bulbocavernosus reflex is absent in most normal women",
+"POP-Q has a five-level staging system (stages 0 to IV)",
+"Past systemic hormone use can raise the risk of SUI",
+"FDA halted sale of transvaginal mesh for prolapse in 2019"
+],
+"a": 0,
+"e": [
+"The BCR (bulbocavernosus reflex, S2–S4; squeeze the clitoris or glans and watch anal sphincter or EMG activity) is present in all normal men and about 70% of normal women, so absence is normal in 30% of women. PFDs (pelvic floor disorders) are common worldwide. Risk factors for incontinence: obesity, age, female sex, smoking and other pelvic floor disorders. Current or past exogenous hormones (pills, systemic HRT) can cause or worsen SUI (stress urinary incontinence), so systemic hormones are not SUI treatment (local vaginal oestrogen may still help). History: character, severity, duration and quantity of leakage and other pelvic floor symptoms, impact on QoL (quality of life), prolapse questions in women and prostate questions in men, past medical, surgical, obstetric and gynaecological history, radiation, trauma and drugs; severity guides treatment, and many surgical and non-surgical options exist. Examination is imperative (CMS coding requires set elements); assess POP (pelvic organ prolapse) supine and standing, with neurological and rectal examination when appropriate. Systems: Baden-Walker and POP-Q. POP-Q has 9 measures: 6 vaginal points (Aa, Ba anterior; C cervix or cuff; D posterior fornix; Ap, Bp posterior) measured to the hymen during Valsalva, plus total vaginal length (with the prolapse reduced), genital hiatus and perineal body; Aa, Ba, Ap and Bp all at −3 means no prolapse. AUA: objective SUI (on examination or urodynamics) is needed before surgery. A fistula: oral phenazopyridine stains a vaginal tampon in both vesicovaginal and ureterovaginal fistula (the level of staining hints at which). OAB patients who have not tried behavioural therapy (bladder training, fluid and diet changes, pelvic floor exercises) should start there. In 2019 the FDA ordered transvaginal prolapse mesh off the market; slings and abdominal mesh were excluded."
+],
+"s": "Ch 112 Evaluation of female incontinence and prolapse",
+"c": [
+"c112-a01",
+"c112-a02",
+"c112-a03",
+"c112-a04",
+"c112-a05",
+"c112-a07",
+"c112-a08",
+"c112-a09",
+"c112-a10",
+"c112-r01",
+"c112-r02",
+"c112-r04",
+"c112-r05",
+"c112-r06",
+"c112-r07",
+"c112-r08",
+"c112-r09",
+"c112-r10",
+"c112-r11",
+"c112-r12",
+"c112-r13",
+"c112-r14",
+"c112-r15"
+],
+"b": [
+"BCR absent in 30% of normal women",
+"Systemic hormones worsen SUI",
+"POP-Q: 9 measures, 6 points, stages 0–IV",
+"Objective SUI before surgery",
+"FDA 2019: transvaginal prolapse mesh halted"
+]
+},
+{
+"f": "mcq",
+"t": "Localised prostate cancer: risk, longevity and trials",
+"q": "Which statement about choosing treatment for localised prostate cancer is FALSE?",
+"o": [
+"Life expectancy is best judged by comorbidity indices",
+"PIVOT's main flaw was its pre-PSA era enrolment",
+"Cribriform glands are now graded as Gleason pattern 4",
+"ProtecT mostly enrolled men with low-risk disease"
+],
+"a": 1,
+"e": [
+"The pre-PSA era enrolment limitation belongs to SPCG-4 (watchful waiting vs radical prostatectomy): the first randomised trial with overall and cancer-specific survival endpoints and long follow-up; it showed higher local progression, metastasis and prostate cancer death with watchful waiting (about 12% absolute reduction in prostate cancer death with surgery at 23 years). PIVOT's limitation was the high rate of competing deaths: at 19.5 years prostatectomy gave a non-significant 5.5% absolute reduction in all-cause mortality (61.3% vs 66.8%) and 4.0% in prostate cancer mortality. ProtecT (1643 men aged 50–69 from 82,429 PSA tests: active monitoring, surgery, or radiotherapy with 3–6 months ADT) mostly included low-risk disease; at 15 years (2023) prostate cancer mortality was about 3% in every arm, but metastasis was roughly doubled with active monitoring. Decisions should weigh the risk of prostate cancer death against competing risks over the patient's life expectancy, using validated comorbidity indices and life tables rather than age alone (Daskivich: VA men with CCI 3 or more were treated more often than men over 75). The CCI (Charlson Comorbidity Index) predicts 1-year inpatient mortality; Daskivich created a prostate cancer–specific CCI (PCCI) in 2011. Men with aggressive cancer may benefit from curative treatment regardless of age. Shared decision-making is strongly advocated. ISUP 2005 stopped patterns 1 and 2 and graded all cribriform glands as pattern 4, causing grade migration. UCSF-CAPRA (age, PSA, stage, Gleason, % positive cores) predicts recurrence-free survival (5-year 85% for low to 8% for high risk). Outcomes depend on tumour biology as well as treatment, and endpoints differ between therapies. Deferred treatment was traditionally for life expectancy under 10 years with low-grade cancer; criteria for active surveillance in younger men need more research."
+],
+"s": "Ch 153 Localised prostate cancer management",
+"c": [
+"c153-a01",
+"c153-a02",
+"c153-a03",
+"c153-a04",
+"c153-a06",
+"c153-a07",
+"c153-a08",
+"c153-a09",
+"c153-a10",
+"c153-a11",
+"c153-r01",
+"c153-r02",
+"c153-r03"
+],
+"b": [
+"SPCG-4: pre-PSA era",
+"PIVOT: competing deaths",
+"ProtecT: low risk; ~3% death at 15 years",
+"Cribriform = pattern 4"
+]
+},
+{
+"f": "mcq",
+"t": "MRKH syndrome and obstructive vaginal anomalies",
+"q": "Which statement about vaginal agenesis (MRKH syndrome) is FALSE?",
+"o": [
+"Skeletal anomalies are present in about 10% to 20%",
+"It is the second commonest cause of primary amenorrhoea",
+"Serum FSH and LH are high, as the ovaries usually fail",
+"The key embryological insult falls at 4 to 6 weeks"
+],
+"a": 2,
+"e": [
+"MRKH (Mayer-Rokitansky-Küster-Hauser) syndrome, about 1 in 5000 live female births, is congenital absence of the proximal vagina (uterus usually absent or rudimentary) in a phenotypically, chromosomally (46,XX) and hormonally normal female: FSH and LH are normal because the ovaries are almost always present and functional (occasionally cystic). It results from failure of the sinovaginal bulbs to form the vaginal plate; teratogen data place the key event at the 4th–6th week, when the terminal bowel, kidney, bladder, Müllerian ducts and lumbosacral spine develop together. It presents with primary amenorrhoea (not infertility) and is second only to gonadal dysgenesis as its cause. It is heterogeneous: upper urinary tract anomalies occur mainly in the atypical form; skeletal anomalies in 10%–20%; Wolffian structures do not persist. Neovagina: graded dilation is first-line; a skin graft vagina (McIndoe) is prone to stenosis and needs repeated dilatation. Vaginal atresia differs from agenesis and from testicular feminisation because the Müllerian structures are normal: uterus, cervix and upper vagina are present. For a transverse vaginal septum the key planning step is to find whether a cervix exists and exactly where it lies relative to the septum. Most lateral fusion anomalies have no functional significance; duplication with unilateral obstruction (obstructed hemivagina, usually with ipsilateral renal agenesis) presents with cyclic or chronic pain with normal cyclic menstruation, not primary amenorrhoea."
+],
+"s": "Ch 47 Genital anomalies in girls",
+"c": [
+"c047-a01",
+"c047-a02",
+"c047-a03",
+"c047-a04",
+"c047-a05",
+"c047-a06",
+"c047-a07",
+"c047-r06",
+"c047-r07",
+"c047-r08",
+"c047-r09"
+],
+"b": [
+"46,XX, normal FSH/LH, functioning ovaries",
+"2nd cause of primary amenorrhoea",
+"Skeletal 10–20%; renal mainly atypical form",
+"Atresia: uterus and cervix normal",
+"Septum: locate the cervix first"
+]
+},
+{
+"f": "mcq",
+"t": "Wilms tumour: syndromes, genetics and histology",
+"q": "Which statement about Wilms tumour biology is FALSE?",
+"o": [
+"About half of WAGR children develop Wilms tumour",
+"Loss of heterozygosity of 16q worsens relapse-free survival",
+"Denys-Drash syndrome is due to a deletion of 11p15 (WT2)",
+"In BWS, nephromegaly marks the highest Wilms risk"
+],
+"a": 2,
+"e": [
+"Denys-Drash syndrome (DDS: 46,XY DSD, diffuse mesangial sclerosis, Wilms tumour) is due to a specific WT1 point mutation at 11p13; most progress to end-stage renal disease, so bilateral nephrectomy is considered when Wilms tumour develops. WAGR (Wilms, aniridia, genitourinary anomalies, retardation) is a germline 11p13 deletion including WT1; about 50% develop Wilms tumour, and renal failure develops later, often in the second decade after treatment. BWS (Beckwith-Wiedemann syndrome, 11p15, the WT2 region) is overgrowth (macroglossia, nephromegaly, hepatomegaly, hemihypertrophy); mostly sporadic, up to 15% autosomal dominant; Wilms risk with BWS and hemihypertrophy is 4%–10%, highest with nephromegaly (renal length at or above the 95th centile). Serial renal ultrasound every 3–4 months is advised in aniridia, hemihypertrophy and BWS; screen-detected tumours are lower stage. LOH (loss of heterozygosity) for 16q occurs in about 17%–20% and gives poorer 2-year relapse-free and overall survival (current COG protocols intensify therapy for combined 1p/16q LOH). Histology is the key prognostic factor: anaplasia (about 5% in both NWTSG and SIOP series) signals chemoresistance, and diffuse anaplasia is worst; unfavourable features (anaplasia, plus clear cell sarcoma and rhabdoid tumour, which are separate entities) were about 10% of patients but nearly half of deaths. Nephrogenic rests: multiple rests in one kidney imply rests in the other; infants under 12 months with perilobar rests have a markedly raised risk of contralateral tumour and need surveillance. Tuberous sclerosis genes: TSC1 on chromosome 9 and TSC2 on 16 (tumour suppressors; LOH explains progressive angiomyolipoma growth)."
+],
+"s": "Ch 53 Paediatric renal and adrenal tumours",
+"c": [
+"c053-a07",
+"c053-a08",
+"c053-a09",
+"c053-a10",
+"c053-a11",
+"c053-a12",
+"c053-a13",
+"c053-a14",
+"c053-a15",
+"c053-a16",
+"c053-r05",
+"c053-a26"
+],
+"b": [
+"DDS: WT1 point mutation, ESRD",
+"WAGR: 11p13 deletion, ~50% Wilms",
+"BWS 11p15: nephromegaly worst; US every 3–4 months",
+"16q LOH: worse survival",
+"Diffuse anaplasia: chemoresistant"
+]
+},
+{
+"f": "mcq",
+"t": "UTI pathogenesis and host factors",
+"q": "Which statement about UTI pathogenesis is FALSE?",
+"o": [
+"Frequent voiding enhances the ascending route of infection",
+"FimH on type 1 pili binds receptors on bladder urothelium",
+"S. saprophyticus mainly infects young sexually active women",
+"Polycystic native kidneys are not a transplant UTI risk"
+],
+"a": 0,
+"e": [
+"Bladder emptying (voiding) is a key host defence, so frequent voiding protects; the ascending route is enhanced by faecal soilage of the perineum, spermicides and intermittent or indwelling catheters. Staphylococcus saprophyticus causes symptomatic UTI in young sexually active females, rarely in males or the elderly. Virulence factors (adhesins) decide which bacteria invade and how far: FimH at the tip of type 1 pili binds luminal bladder receptors and is critical for E. coli colonisation. Phase variation (switching pili on and off) affects virulence: type 1 pili help adherence but enhance phagocytosis by neutrophils. P-piliated E. coli bind P blood group antigens, so a P-phenotype patient without reflux may get recurrent pyelonephritis. Host: increased adherence of bacteria to vaginal epithelial cells was the first biological difference shown in UTI-prone women; increased epithelial receptivity is a genotypic trait. Obstruction is the key factor raising host susceptibility; an obstructing sloughed papilla with infection is a urological emergency. Spinal cord injury patients have the most severe bacteriuria morbidity. Urine is not sterile: the female urinary microbiome has been shown by sequencing (16S rRNA gene sequencing, a DNA method; the book says RNA sequencing) and grown by EQUC (expanded quantitative urine culture). Renal transplant: higher vesicoureteral reflux; risk factors are cadaveric graft, diabetes, prolonged pretransplant haemodialysis, two episodes of asymptomatic bacteriuria and female sex."
+],
+"s": "Ch 55 Urinary tract infections",
+"c": [
+"c055-a07",
+"c055-a08",
+"c055-a09",
+"c055-a10",
+"c055-a11",
+"c055-a12",
+"c055-a13",
+"c055-a26",
+"c055-a47",
+"c055-r08",
+"c055-r09",
+"c055-r10",
+"c055-r15",
+"c055-r16"
+],
+"b": [
+"Voiding protects",
+"FimH (type 1 pili) binds urothelium",
+"P pili: pyelonephritis",
+"Vaginal cell adherence: first host difference",
+"Microbiome: 16S DNA sequencing (book says RNA)"
+]
+},
+{
+"f": "mcq",
+"t": "UTUC pathology and diagnosis",
+"q": "Which statement about UTUC pathology and diagnosis is FALSE?",
+"o": [
+"Micropapillary variant independently predicts progression",
+"Ureteroscopy raises urography's accuracy to 85% to 90%",
+"Squamous cancer is five times commoner in the pelvis",
+"Cup biopsies sample lamina propria more often than loop"
+],
+"a": 3,
+"e": [
+"Loop biopsies contain lamina propria in up to 100% of specimens versus 62% for cup biopsies. Ureteroscopic biopsy correlates with final pathology in 92% for high-grade tumours but detects only 67% of invasive tumours (it under-stages). Ureteroscopy raises the diagnostic accuracy of excretory or retrograde urography from 75% to 85%–90%. CT urography has the highest diagnostic accuracy; urothelial tumours measure 10–70 HU (mean 46). Flexible ureteroscopy with biopsy is key; cystoscopy should always be done; selective ureteric urine or washings via a ureteric catheter give the most accurate cytology. Pathology: urothelial carcinoma is over 90% of upper tract tumours; pure non-urothelial cancers are rare; variants occur in about 25% of urothelial cancers; the micropapillary variant independently predicts progression-free survival (HR 3.85) and worse cancer-specific survival. Squamous carcinoma is 5 times more common in the renal pelvis than the ureter and is linked to analgesic abuse and chronic inflammation. Papillomas, inverted papillomas and von Brunn nests are usually benign, though up to 18% of ureteral inverted papillomas harbour malignancy. Progression goes from hyperplasia to dysplasia to CIS; CIS is morphologically variable and hard to diagnose. Because the upper tract wall is thin, invasion of muscle, renal parenchyma or adventitia occurs more readily than in the bladder. Symptoms: localised disease gives haematuria, dysuria and flank pain; advanced disease a flank or abdominal mass, weight loss, anorexia and bone pain."
+],
+"s": "Ch 98 Upper tract urothelial carcinoma",
+"c": [
+"c098-a04",
+"c098-a05",
+"c098-a06",
+"c098-a07",
+"c098-a08",
+"c098-a09",
+"c098-a10",
+"c098-r12",
+"c098-r13",
+"c098-r14",
+"c098-r15",
+"c098-r16",
+"c098-r17",
+"c098-r18",
+"c098-r19",
+"c098-r20",
+"c098-r21",
+"c098-r22",
+"c098-r23"
+],
+"b": [
+"Loop biopsy 100% vs cup 62% lamina propria",
+"URS biopsy: 92% grade, 67% invasion",
+"CTU best; 10–70 HU",
+"Squamous: pelvis 5×"
+]
+},
+{
+"f": "mcq",
+"t": "Urodynamics, diaries and pad tests",
+"q": "Which statement about tests for female incontinence is FALSE?",
+"o": [
+"ICI calls 24-hour pad weight above 1.3 g positive",
+"Pves minus Pabd gives the detrusor pressure (Pdet)",
+"Eyeball UDS can roughly estimate bladder compliance",
+"Sphincter EMG stays active during normal voiding"
+],
+"a": 3,
+"e": [
+"Sphincter EMG should be silent during voiding so urine passes without outlet resistance; it should recruit with the BCR and with rises in abdominal pressure such as coughing. Multichannel UDS (urodynamics) is the most accurate tool for lower urinary tract function, measuring Pves and Pabd directly and calculating Pdet = Pves − Pabd. Routine UDS for simple SUI is debated, but it should be strongly considered with failed previous treatment, mixed incontinence, obstructive symptoms, high PVR (post-void residual), neurological disease or conditions such as diabetes, and may be considered before invasive, morbid or irreversible treatment. If a woman with SUI symptoms and high-grade prolapse shows no leak on UDS, reduce the prolapse and repeat stress testing (without prolapse: repeat with the catheter removed). AUA/SUFU minimum work-up before SUI surgery: history, physical and pelvic examination with objective SUI, urinalysis and PVR. Eyeball UDS (60-mL syringe barrel, gravity filling) estimates sensation, capacity, stability, compliance, outlet competence and PVR when formal UDS is unavailable. Subjective history alone is often inaccurate, so use voiding diaries (diagnostic and therapeutic), validated symptom and QoL questionnaires and pad tests (up to 8 g in 24 hours may be normal; ICI: over 1.3 g is a positive 24-hour test). Supplementary tests: urinalysis, PVR, endoscopy and imaging. Fluoroscopy (video UDS) shows bladder base and neck position, reflux and real-time leakage, and is used when the diagnosis needs anatomy and function together."
+],
+"s": "Ch 112 Evaluation of female incontinence and prolapse",
+"c": [
+"c112-a06",
+"c112-a11",
+"c112-a12",
+"c112-a13",
+"c112-a14",
+"c112-a15",
+"c112-r03",
+"c112-r16",
+"c112-r17",
+"c112-r18",
+"c112-r19",
+"c112-r20",
+"c112-r21",
+"c112-r22",
+"c112-r23",
+"c112-r24",
+"c112-r25"
+],
+"b": [
+"EMG silent during voiding",
+"Pdet = Pves − Pabd",
+"Pad test: ICI >1.3 g/24 h",
+"Prolapse: reduce and retest"
+]
+},
+{
+"f": "mcq",
+"t": "Localised prostate cancer: imaging and treatment",
+"q": "Which statement about imaging and treatment of localised prostate cancer is FALSE?",
+"o": [
+"MRI predicts seminal vesicle invasion with a high PPV",
+"Previous TURP raises early urinary toxicity after EBRT",
+"Whole-gland HIFU gives durable control at 15 to 20 years",
+"Tumour ADC on diffusion MRI correlates with outcome"
+],
+"a": 2,
+"e": [
+"Whole-gland HIFU (high-intensity focused ultrasound) lacks long-term data and needs substantial re-treatment within 5 years; its attraction is better preservation of erections than surgery, radiotherapy or whole-gland cryoablation (which almost always causes ED). MRI is the only test accurate enough for EPE (extraprostatic extension) and SVI (seminal vesicle invasion); for SVI it has a high PPV (positive predictive value) but limited sensitivity. ADC (apparent diffusion coefficient) correlates with outcome and helps risk stratification and active surveillance. Staging for intermediate risk (T2b, Grade Group 2, PSA 8): bone scan and cross-sectional imaging only if a nomogram predicts over 10% nodal risk (book); PSMA PET is now more accurate than CT plus bone scan (proPSMA trial, 2020). Previous TURP raises early urinary toxicity after EBRT; waiting 6–8 weeks after TURP lowers incontinence and bladder neck contracture risk. Radical prostatectomy remains the gold standard for a healthy man with at least 10 years' life expectancy; long-term cancer control is best documented for open surgery. A rising PSA is the earliest sign of recurrence, but not all with biochemical recurrence develop metastases. Late complications: ED, incontinence, hernia and urethral stricture; potency return depends on age, preoperative function, nerve sparing and surgical era; continence return on age. EBRT techniques (3D-CRT, IMRT, IGRT, SBRT, protons) spare bladder and rectum; high PSA, high Gleason or bulky tumours benefit from added ADT. Brachytherapy suits localised, not high-volume high-risk disease, with more urinary symptoms. Adjuvant RT benefits extensive positive margins or extracapsular extension without SVI or node involvement; salvage RT works best with late, slowly rising PSA, low grade and no SVI or nodes."
+],
+"s": "Ch 153 Localised prostate cancer management",
+"c": [
+"c153-a05",
+"c153-a12",
+"c153-a13",
+"c153-a14",
+"c153-a15",
+"c153-r04",
+"c153-r05",
+"c153-r06",
+"c153-r07",
+"c153-r08",
+"c153-r09",
+"c153-r10"
+],
+"b": [
+"HIFU: re-treatment within 5 years",
+"MRI SVI: high PPV",
+"Wait 6–8 weeks after TURP before RT",
+"PSMA PET beats CT/bone scan"
+]
+},
+{
+"f": "mcq",
+"t": "Wilms tumour staging, treatment and other renal tumours",
+"q": "Which statement about the management of childhood renal tumours is FALSE?",
+"o": [
+"Hilar lymph node involvement makes the tumour stage III",
+"IVC thrombus above the hepatic veins: biopsy, then chemo",
+"Capsular penetration is a strong risk for local relapse",
+"Bilateral tumours get chemotherapy before any surgery"
+],
+"a": 2,
+"e": [
+"Local relapse risk factors are tumour spillage, unfavourable histology, incomplete removal and absence of any lymph node sampling; capsular penetration is not one. Two-year survival after abdominal recurrence is only 43%, so careful complete resection matters; spillage is now classed as stage III. Histology and stage determine outcome; NWTSG staging is surgical-pathological, and positive hilar or regional nodes make stage III. NWTSG treatment: stage III favourable histology and stage II–III focal anaplasia get vincristine, dactinomycin and doxorubicin with 10.8 Gy abdominal radiotherapy; stage IV favourable histology adds 12 Gy to both lungs (current COG protocols omit lung radiotherapy when nodules disappear after 6 weeks of chemotherapy). Stage I diffuse anaplasia (chemoresistant but good if confined and fully resected) still needs vincristine, dactinomycin, doxorubicin and tumour-bed radiotherapy. NWTSG gives preoperative chemotherapy only for bilateral tumours, inoperable tumours at exploration and IVC extension above the hepatic veins (biopsy first); all others have primary nephrectomy (SIOP gives preoperative chemotherapy to all). Bilateral Wilms: chemotherapy without initial surgery, reimage at 6 weeks, then renal-sparing surgery to reduce renal failure. Doxorubicin (anthracycline) can cause heart failure many years later. Rhabdoid tumour of the kidney has the worst prognosis: median age under 16 months, chemoresistant, and uniquely metastasises to the brain. Congenital mesoblastic nephroma is the commonest renal tumour in infants and is cured by radical nephrectomy alone, so a newborn with a completely excised confined mass is observed (very-low-risk Wilms in infants is also eligible for observation)."
+],
+"s": "Ch 53 Paediatric renal and adrenal tumours",
+"c": [
+"c053-a17",
+"c053-a18",
+"c053-a19",
+"c053-a20",
+"c053-a21",
+"c053-a22",
+"c053-a23",
+"c053-a24",
+"c053-a25",
+"c053-r06",
+"c053-r07",
+"c053-r08"
+],
+"b": [
+"Capsule penetration not a relapse risk",
+"Hilar nodes or spill = stage III",
+"Stage IV FH: 12 Gy lungs",
+"Bilateral: chemo first, reimage at 6 weeks",
+"Rhabdoid: brain mets; CMN: nephrectomy alone"
+]
+},
+{
+"f": "mcq",
+"t": "UTI diagnosis and evaluation",
+"q": "Which statement about evaluating a suspected or recurrent UTI is FALSE?",
+"o": [
+"Many squamous cells mean the specimen is contaminated",
+"Enterococcus is reliably nitrite positive on dipstick",
+"CT beats US for abscess and radiolucent calculi",
+"Recurrent simple UTI in women needs no routine imaging"
+],
+"a": 1,
+"e": [
+"Most Gram-negative bacteria reduce nitrate to nitrite; Enterococcus, most Gram-positive organisms and Pseudomonas aeruginosa do not, so a negative nitrite does not exclude them. Formal urinalysis is preferred over dipstick, and culture provides sensitivities. Urine must be collected to minimise contamination; numerous squamous cells (preputial, vaginal or urethral contaminants) invalidate a midstream specimen. A catheterised sample should be considered with vaginal atrophy, poor manual dexterity, inability to bear weight or a vaginal pessary (a past history of HPV is irrelevant). Clinical presentation is essential: urine results cannot be read without signs and symptoms. History in recurrent UTI: prior symptoms, urinalysis and culture results, past pathogens and antibiotics, triggers, spermicide use, childhood voiding dysfunction, urological surgery (family history of postmenopausal UTI is least relevant). Imaging and cystoscopy are not recommended for recurrent uncomplicated UTIs in women (ACR, CUA and EAU); evaluate only those with complicating risk factors. CT and MRI are more sensitive than excretory urography or ultrasound for acute focal bacterial nephritis, renal and perirenal abscesses and radiolucent calculi. In acute pyelonephritis biopsy is unnecessary: histology shows neutrophils in the interstitium and tubules (forming WBC casts), and an enlarged kidney may persist for weeks despite correct treatment."
+],
+"s": "Ch 55 Urinary tract infections",
+"c": [
+"c055-a15",
+"c055-a16",
+"c055-a17",
+"c055-a50",
+"c055-a51",
+"c055-a52",
+"c055-a53",
+"c055-r11",
+"c055-r12",
+"c055-r13",
+"c055-r14",
+"c055-r24",
+"c055-r25",
+"c055-r26"
+],
+"b": [
+"Nitrite negative: Enterococcus, Pseudomonas",
+"Squamous cells = contamination",
+"No imaging for simple recurrent UTI",
+"CT best for abscess"
+]
+},
+{
+"f": "mcq",
+"t": "UTUC distribution, spread and prognosis",
+"q": "Which statement about UTUC distribution and prognosis is FALSE?",
+"o": [
+"CIS raises the rate of bilateral disease to about 25%",
+"Ureteral tumours do better than renal pelvic tumours",
+"Bladder recurrence after nephroureterectomy is common",
+"About 70% of ureteral tumours lie in the distal ureter"
+],
+"a": 1,
+"e": [
+"Ureteral and multifocal tumours carry a worse prognosis than renal pelvic tumours. Ureteral tumours lie in the distal ureter in 70%, mid ureter 25% and upper ureter 5%. Multifocal UTUC is found in 10%–20%, concurrent bladder cancer in 17%, and bilateral disease in 3%–5%, rising to about 25% with CIS, which also raises the risk of panurothelial disease. Bladder recurrence after radical nephroureterectomy occurs in 15%–75% within 5 years (EAU quotes 22%–47%; a single postoperative intravesical chemotherapy instillation reduces it). Recurrence risk relates to tumour location and stage. Spread is by direct extension, lymphatics and blood. Staging is TNM, grading the 2004/2016 WHO system. Tumour stage is the single most important prognostic factor; muscle-invasive tumours, positive regional nodes (independent) and lymphovascular invasion predict recurrence and death. Older age and smoking at diagnosis independently worsen survival after nephroureterectomy, yet age alone should not prevent a curative approach. Current practice also knows: kidney-sparing endoscopic treatment for low-risk tumours, and adjuvant platinum chemotherapy after nephroureterectomy for pT2–T4 or node-positive disease (POUT trial: better disease-free survival)."
+],
+"s": "Ch 98 Upper tract urothelial carcinoma",
+"c": [
+"c098-a12",
+"c098-a13",
+"c098-a14",
+"c098-r03",
+"c098-r04",
+"c098-r24",
+"c098-r25",
+"c098-r27",
+"c098-r28",
+"c098-r29",
+"c098-r30",
+"c098-r31",
+"c098-r32",
+"c098-r33",
+"c098-r34",
+"c098-r35"
+],
+"b": [
+"Distal 70%, mid 25%, upper 5%",
+"Bilateral 3–5%; ~25% with CIS",
+"Ureteral worse than pelvic",
+"Stage most important; POUT: adjuvant chemo"
+]
+},
+{
+"f": "mcq",
+"t": "Treating cystitis and preventing recurrence",
+"q": "Which statement about treating and preventing cystitis is FALSE?",
+"o": [
+"TMP-SMX double strength for 3 days is a preferred regimen",
+"Initial bacterial resistance is the usual cause of failure",
+"Nitrofurantoin 100 mg twice daily for 5 days is first line",
+"Vaginal oestrogen works within days of starting it"
+],
+"a": 3,
+"e": [
+"Vaginal oestrogen prevents recurrent UTI in postmenopausal women by restoring local pH and lactobacillus-dominant vaginal flora, an effect that is not immediate; trials were not powered for cancer or cardiovascular outcomes, but observational studies show no increased fracture or breast cancer risk. Prevention should focus on non-antibiotic measures. Cure depends on the antimicrobial level in the urine and how long it stays above the organism's MIC (minimum inhibitory concentration). IDSA (Infectious Diseases Society of America) 2010: nitrofurantoin 100 mg twice daily for 5 days or TMP-SMX (trimethoprim-sulfamethoxazole) DS twice daily for 3 days (3 days is the optimal Bactrim duration); fosfomycin 3 g single dose is also first-line; confirm sensitivity by culture if symptoms persist. Failure is most often due to bacteria resistant from the start. Nitrofurantoin does not alter bowel flora; it reaches brief high urine concentrations and repeatedly clears bacteria from urine. Choose agents by efficacy, safety, cost and compliance; choice and duration both matter for limiting resistance and adverse events, and resistance is rising from overuse."
+],
+"s": "Ch 55 Urinary tract infections",
+"c": [
+"c055-a18",
+"c055-a19",
+"c055-a21",
+"c055-a24",
+"c055-a25",
+"c055-a46",
+"c055-r21",
+"c055-r22",
+"c055-r23",
+"c055-r27"
+],
+"b": [
+"Nitrofurantoin 5 days; TMP-SMX 3 days; fosfomycin single dose",
+"Failure: initial resistance",
+"Vaginal oestrogen: slow, pH and flora",
+"Non-antibiotic prevention first"
+]
+},
+{
+"f": "mcq",
+"t": "Upper tract infections and granulomatous disease",
+"q": "Which statement about upper urinary tract infections is FALSE?",
+"o": [
+"E. coli, not Proteus, is the organism most linked to XGP",
+"Chronic pyelonephritis is silent until renal failure",
+"Fever may last days on correct therapy for pyelonephritis",
+"Most emphysematous pyelonephritis settles on medical care"
+],
+"a": 0,
+"e": [
+"XGP (xanthogranulomatous pyelonephritis): Proteus mirabilis is the commonest organism (E. coli is also common); it is a chronic infection of a poorly functioning kidney obstructed by stones, with foamy lipid-laden macrophages, and can mimic tumour; nephrectomy is usual (partial only for a small focal lesion). Acute pyelonephritis presents from mild cystitis-like symptoms to sepsis; the urine sterilises within hours, but fever, chills and flank pain may continue several days, so observe. Emphysematous pyelonephritis (gas in parenchyma or collecting system on imaging, graded by Huang–Tseng CT classes) affects mainly diabetic women, without obstruction; non-diabetics usually have obstruction. About 90% are managed medically: antibiotics, bladder (Foley) drainage, glucose control; percutaneous drainage or surgery for the rest. Renal abscess: IV antibiotics plus percutaneous drainage; small abscesses may settle on antibiotics alone; small perinephric abscesses can be drained percutaneously (surgery or nephrectomy if the kidney is non-functioning). Pyonephrosis (infected hydronephrotic kidney) needs IV antibiotics and prompt drainage. Chronic pyelonephritis causes no symptoms until renal insufficiency. Malakoplakia: abnormal macrophage function; von Hansemann histiocytes contain Michaelis-Gutmann bodies (basophilic lysosomal inclusions); treat with months of an antibiotic with high intracellular levels (sulfonamide, TMP-SMX or fluoroquinolone). Renal hydatid: excise intact without rupture; if spillage or marsupialisation, aspirate and instil a scolicidal agent. CT: a pelvic kidney with a wedge-shaped hypoenhancing area is pyelonephritis (infarcts are sharper); a small, stone-bearing atrophic kidney with perinephric fascial thickening suggests perinephric abscess."
+],
+"s": "Ch 55 Urinary tract infections",
+"c": [
+"c055-a28",
+"c055-a29",
+"c055-a30",
+"c055-a31",
+"c055-a32",
+"c055-a33",
+"c055-a34",
+"c055-a54",
+"c055-a55",
+"c055-a56",
+"c055-a57",
+"c055-a58",
+"c055-a59",
+"c055-r28",
+"c055-r29",
+"c055-r30",
+"c055-r31",
+"c055-r32",
+"c055-r33"
+],
+"b": [
+"XGP: Proteus, stones, mimics tumour",
+"Emphysematous: diabetic women; 90% medical",
+"Malakoplakia: Michaelis-Gutmann bodies",
+"Hydatid: excise intact"
+]
+},
+{
+"f": "mcq",
+"t": "Urosepsis and genital necrotising infection",
+"q": "Which statement about sepsis and Fournier gangrene is FALSE?",
+"o": [
+"Metabolic acidosis is the first change in early sepsis",
+"Periurethral abscess often follows urethral stricture",
+"Fournier gangrene is a perineal necrotising fasciitis",
+"Fournier care is debridement plus broad antibiotics"
+],
+"a": 0,
+"e": [
+"Bacteraemic patients hyperventilate even before fever and rigors, so the earliest metabolic change is respiratory alkalosis; lactic acidosis comes later. The book defines sepsis by extremes of temperature, heart rate, respiratory rate and WBC count (the old SIRS criteria); Sepsis-3 (2016) now defines it as life-threatening organ dysfunction from a dysregulated host response (SOFA rise of 2 or more). Management: resuscitation, supportive care, monitoring, broad-spectrum antibiotics and drainage or removal of the source. Book correction: the book says the Surviving Sepsis Campaign and early goal-directed therapy improve outcomes; the ProCESS, ARISE and ProMISe trials (2014–2015) showed protocolised EGDT is no better than usual care; Surviving Sepsis 2021 stresses antibiotics within 1 hour, 30 mL/kg crystalloid for hypotension and noradrenaline for MAP 65 mmHg or more. Fournier gangrene arises from perineal skin, scrotum, urethra or rectum; predisposing factors are diabetes, local trauma, paraphimosis, periurethral extravasation (strictures, instrumentation), perirectal or perianal infection and surgery (circumcision, herniorrhaphy); the book lists obesity as not a factor, although other series count it. Treatment: emergency surgical debridement and broad-spectrum antimicrobials. Periurethral abscess follows stricture or catheterisation; treat with debridement, suprapubic diversion and antibiotics."
+],
+"s": "Ch 55 Urinary tract infections",
+"c": [
+"c055-a35",
+"c055-a45",
+"c055-r34",
+"c055-r35",
+"c055-r36",
+"c055-r37",
+"c055-r38",
+"c055-r39"
+],
+"b": [
+"Earliest: respiratory alkalosis",
+"EGDT no better (ProCESS, ARISE, ProMISe)",
+"Sepsis-3: organ dysfunction, SOFA ≥2",
+"Fournier: debride urgently"
+]
+},
+{
+"f": "mcq",
+"t": "Bacteriuria in pregnancy and the elderly",
+"q": "Which statement about asymptomatic bacteriuria is FALSE?",
+"o": [
+"Untreated bacteriuria in pregnancy risks pyelonephritis",
+"Nursing-home residents gain nothing from treating it",
+"Pregnancy itself raises the prevalence of bacteriuria",
+"Treating it drives multidrug-resistant symptomatic UTI"
+],
+"a": 2,
+"e": [
+"The prevalence of bacteriuria does not change with pregnancy, but unlike in non-pregnant women it rarely resolves spontaneously and more often progresses to acute pyelonephritis: 1%–4% of all pregnant women, and 20%–40% of those with untreated bacteriuria, with risks of maternal sepsis and adverse fetal outcomes. So all pregnant women are screened by culture in the first trimester and all with bacteriuria are treated. Safe drugs: aminopenicillins and cephalosporins; nitrofurantoin if penicillin-allergic. Pyelonephritis in pregnancy: a cephalosporin (cephalexin in the book; parenteral ceftriaxone is common in practice); nitrofurantoin gives no tissue levels, amoxicillin has poor Gram-negative cover, fluoroquinolones harm fetal cartilage and trimethoprim (folate antagonist) can cause megaloblastic anaemia. Screening and treatment are justified only in pregnancy and before urological procedures; otherwise strongly discouraged. ASB prevalence varies with age, sex and comorbidity; untreated ASB is not linked to hypertension or renal insufficiency; treatment breeds multidrug resistance. Most bacteriuric elderly are asymptomatic; trials in nursing-home residents showed no fewer symptomatic episodes and no survival gain, only more adverse drug effects and reinfection with resistant organisms, so screening and treatment are unnecessary. Infection in the elderly may present subtly, needing a high index of suspicion."
+],
+"s": "Ch 55 Urinary tract infections",
+"c": [
+"c055-a22",
+"c055-a23",
+"c055-a27",
+"c055-a36",
+"c055-a37",
+"c055-a38",
+"c055-a39",
+"c055-a40",
+"c055-r17",
+"c055-r18",
+"c055-r19",
+"c055-r20",
+"c055-r40",
+"c055-r41",
+"c055-r42",
+"c055-r43",
+"c055-r44",
+"c055-r45"
+],
+"b": [
+"Prevalence unchanged in pregnancy",
+"Pyelonephritis 20–40% if untreated",
+"Screen 1st trimester, treat all",
+"Elderly: don't screen or treat"
+]
+},
+{
+"f": "mcq",
+"t": "Catheters, spinal cord injury and prophylaxis",
+"q": "Which statement about catheter-related UTI and antibiotic prophylaxis is FALSE?",
+"o": [
+"Orthopaedic pins and plates rarely justify urological prophylaxis",
+"Catheter bacteriuria is the commonest hospital infection",
+"CIC carries the lowest long-term risk after spinal injury",
+"GU procedures need endocarditis cover for prosthetic valves"
+],
+"a": 3,
+"e": [
+"AHA (American Heart Association) guidance: antibiotic prophylaxis solely to prevent infective endocarditis is not recommended for genitourinary procedures, even with prosthetic or calcified valves. Catheter-associated bacteriuria is the commonest hospital-acquired infection; careful aseptic insertion and a closed, dependent drainage system are essential; bacteriuria is inevitable with time, and only symptomatic CAUTI (catheter-associated UTI) is treated. Spinal cord injury: most bacteriuric patients are asymptomatic and only symptomatic ones are treated; UTI presents as fever, flank, back or abdominal discomfort, leakage between catheterisations, increased spasticity, malaise, lethargy or cloudy malodorous urine; culture before empirical therapy because flora is diverse and resistant. CIC (clean intermittent catheterisation) keeps bladder pressure low, reduces stones and gives the lowest long-term risk. Prophylaxis means an antimicrobial given before and for a limited time after a procedure, within 60–120 minutes before the start and covering its duration (AUA: within 60 minutes, 120 for fluoroquinolones and vancomycin). Need depends on the type of procedure and host defences (advanced age, prior infection at the site, chronic care residence, coexisting infection). Special groups: TRUS biopsy, endocarditis risk, bacteriuria and orthopaedic hardware; for joint replacements, pins, plates or screws prophylaxis is generally not indicated (2003 AUA/AAOS advisory)."
+],
+"s": "Ch 55 Urinary tract infections",
+"c": [
+"c055-a14",
+"c055-a20",
+"c055-a41",
+"c055-a42",
+"c055-a43",
+"c055-a44",
+"c055-a48",
+"c055-a49",
+"c055-r46",
+"c055-r47",
+"c055-r48",
+"c055-r49",
+"c055-r50",
+"c055-r51",
+"c055-r52",
+"c055-r53",
+"c055-r54"
+],
+"b": [
+"No endocarditis prophylaxis for GU procedures",
+"Closed dependent drainage",
+"CIC best in spinal cord injury",
+"Prophylaxis within 60–120 min"
+]
+}
+]
