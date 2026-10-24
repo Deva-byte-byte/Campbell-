@@ -1,0 +1,761 @@
+[
+{
+"f": "mcq",
+"t": "Prepuce, circumcision and BXO",
+"q": "Which statement about the prepuce and circumcision in boys is FALSE?",
+"o": [
+"About 90% of boys have a retractable prepuce by age 3",
+"Topical steroids relax a phimotic ring in 70% to 80%",
+"Topical steroids reliably separate penile adhesions",
+"Bleeding is the commonest complication of circumcision"
+],
+"a": 2,
+"e": [
+"Topical corticosteroids fail to resolve penile adhesions. External genitalia virilise at 9–13 weeks under DHT (dihydrotestosterone): tubercle to glans, folds to shaft, swellings to scrotum. Primary phimosis resolves spontaneously in most; under 1% of 17-year-olds remain phimotic. Indications to aid retraction: persistent primary or secondary phimosis, balanitis, posthitis, BXO and UTI. BXO (balanitis xerotica obliterans, genital lichen sclerosus) is a chronic infiltrative scarring condition; steroids help only mild cases, so circumcision is preferred. Circumcision complications are 0.2%–5%; bleeding (about 0.1%) is commoner in older boys. Defer neonatal circumcision with hypospadias, curvature, dorsal hood, buried or webbed penis. Neonatal circumcision needs routine local or topical anaesthesia; revisions need general anaesthesia. Benefits: less penile cancer, STIs including HIV, UTI, balanitis and phimosis; the AAP (American Academy of Pediatrics) supports access and third-party payment. Meatal stenosis is essentially confined to the circumcised penis."
+],
+"s": "Ch 44 External genitalia in boys",
+"c": [
+"c044-a01",
+"c044-a02",
+"c044-a03",
+"c044-a04",
+"c044-a05",
+"c044-r01",
+"c044-r02",
+"c044-r03",
+"c044-r04",
+"c044-r05",
+"c044-r06",
+"c044-r07",
+"c044-r08",
+"c044-r09",
+"c044-r10",
+"c044-r11",
+"c044-r12"
+],
+"b": [
+"Phimosis <1% at 17",
+"Steroids 70–80% phimosis; fail for adhesions",
+"Bleeding commonest; 0.2–5% complications",
+"Defer with hypospadias, curvature, buried penis"
+]
+},
+{
+"f": "mcq",
+"t": "Priapism: types, causes and mechanisms",
+"q": "Which statement about the types and causes of priapism is FALSE?",
+"o": [
+"Daily PDE5 inhibitor dosing is a recognised priapism risk",
+"Ischaemic and stuttering priapism stem from NO imbalance",
+"Sickle cell disease is the commonest cause in children",
+"Straddle injury is the commonest cause of high-flow priapism"
+],
+"a": 0,
+"e": [
+"PDE5 inhibitors rarely cause priapism, and usually only with other risks: sickle cell disease (SCD), spinal cord injury, recreational use, combination with intracavernous injection, penile trauma, psychotropic drugs or narcotics; avanafil carries the same label wording as the others. Types: ischaemic (veno-occlusive, low-flow; little or no arterial inflow), non-ischaemic (arterial, high-flow; tumescent, not rigid, usually traumatic: straddle, coital, kicks, pelvic fracture, birth or needle trauma, not haemodialysis) and stuttering (recurrent painful erections, usually SCD). Most ischaemic priapism is idiopathic; associations are psychotropics, alcohol or drug abuse, haematological dyscrasias, metastases, perineal trauma and intracavernous vasoactive injection (the usual cause in men 40 and over). SCD mechanisms: HbS polymerisation when deoxygenated, NO (nitric oxide) scavenging by free haemoglobin, arginine catabolism and adhesion of sickle cells to endothelium and leukocytes. Haemolysis with low NO drives priapism, pulmonary hypertension (5-fold risk), leg ulcers and stroke; viscosity drives pain crises, osteonecrosis and acute chest syndrome. PDE5 is downregulated in the penis. Hypoxia makes corporal smooth muscle unresponsive to α-agonists."
+],
+"s": "Ch 70 Priapism",
+"c": [
+"c070-a02",
+"c070-a03",
+"c070-a04",
+"c070-a05",
+"c070-a06",
+"c070-a07",
+"c070-a08",
+"c070-a21",
+"c070-a24",
+"c070-r01",
+"c070-r03",
+"c070-r04",
+"c070-r05",
+"c070-r06",
+"c070-r08",
+"c070-r17",
+"c044-r18",
+"c044-r19"
+],
+"b": [
+"Ischaemic, non-ischaemic, stuttering",
+"SCD: haemolysis, low NO",
+"Straddle injury: high flow",
+"PDE5i alone rarely causes priapism"
+]
+},
+{
+"f": "mcq",
+"t": "Acute kidney injury: categories and indices",
+"q": "Which statement about classifying acute renal failure is FALSE?",
+"o": [
+"Urinary sodium in ATN is usually above 40 mEq/L",
+"Cimetidine and trimethoprim raise serum creatinine",
+"A low FENa excludes acute glomerulonephritis",
+"Anuria suggests obstruction or vascular occlusion"
+],
+"a": 2,
+"e": [
+"A low FENa (fractional excretion of sodium) occurs in both prerenal azotaemia and acute glomerulonephritis; urinalysis separates them (bland vs protein, RBCs and RBC casts). ARF is prerenal, intrarenal (glomerular, tubular such as ATN, acute tubular necrosis, or interstitial) or postrenal. Prerenal: low renal blood flow or high nitrogen load, low volume, high osmolality, very low urine sodium, and BUN:creatinine above 10:1 (book; usually quoted as above 20:1). Intrarenal: variable output, urine sodium above 20 mEq/L. Postrenal needs obstruction of the whole nephron mass; anuria suggests complete obstruction, cortical necrosis or bilateral vascular occlusion. Creatinine is non-linear: 0.9 to 1.2 mg/dL can mean GFR falling from 120 to 60 mL/min. Tubular secretion makes it overestimate low GFR; cimetidine and trimethoprim block secretion. Cockcroft-Gault, MDRD and CKD-EPI are unreliable with changing function, extremes of age or size, obesity, low muscle mass or advanced illness; cystatin C may predict better. Bilateral dense nephrograms 24 hours after contrast with no excretion mean ATN."
+],
+"s": "Ch 87 Renal insufficiency",
+"c": [
+"c087-a01",
+"c087-a07",
+"c087-a26",
+"c087-r01",
+"c087-r02",
+"c087-r03",
+"c087-r04",
+"c087-r15",
+"c087-r16",
+"c087-r18",
+"c087-r26"
+],
+"b": [
+"Low FENa: prerenal or AGN",
+"ATN urine Na >40",
+"Creatinine 0.9→1.2 ≈ GFR 120→60",
+"Cimetidine, trimethoprim block secretion"
+]
+},
+{
+"f": "mcq",
+"t": "Overactive bladder",
+"q": "Which statement about overactive bladder (OAB) and detrusor overactivity is FALSE?",
+"o": [
+"OAB prevalence in adults is about 10% to 20%",
+"Patients can voluntarily suppress DO contractions",
+"DO can be diagnosed with a contraction of any size",
+"OAB is a symptom diagnosis; DO is a urodynamic one"
+],
+"a": 1,
+"e": [
+"Patients cannot voluntarily inhibit overactive contractions. ICS (International Continence Society) 2002 terms are OAB and idiopathic or neurogenic DO (replacing detrusor hyperreflexia); 'detrusor instability' is not recommended. OAB is urgency, with or without urgency incontinence, usually with frequency and nocturia, without infection or other pathology; the book says urgency plus one other symptom is essential, but in the ICS definition urgency is the core symptom. Urgency is sudden and may, but need not, lead to incontinence. Mixed incontinence = stress plus urgency incontinence. DO is phasic involuntary contraction during filling (not voiding), not always with urgency; the other urodynamic OAB finding is increased filling sensation. Prevalence 16% (North America, Europe), about 12% in EPIC, with at least one LUTS in over 50%. Voided volumes are erratic; a voiding diary is essential; modular ICIQ questionnaires are validated. Causes: neurogenic (less suprapontine inhibition, primitive spinal reflexes, C-fibre plasticity, peripheral afferent sensitisation) or myogenic (spontaneous excitation); contributors are age, neurological disease, female sex, outlet obstruction and metabolic syndrome. Treatment: lifestyle, then drugs (antimuscarinics or β3 agonists; AUA 2024 advises discussing dementia risk with antimuscarinics), then botulinum toxin, nerve stimulation or bladder surgery."
+],
+"s": "Ch 117 Overactive bladder",
+"c": [
+"c117-a01",
+"c117-a02",
+"c117-a03",
+"c117-a04",
+"c117-a05",
+"c117-a06",
+"c117-a07",
+"c117-a08",
+"c117-a09",
+"c117-r01",
+"c117-r02",
+"c117-r03",
+"c117-r04",
+"c117-r05",
+"c117-r06",
+"c117-r07",
+"c117-r08"
+],
+"b": [
+"OAB symptom; DO urodynamic",
+"DO: any-size contraction",
+"Cannot suppress DO voluntarily",
+"Prevalence 12–16%"
+]
+},
+{
+"f": "mcq",
+"t": "Pelvic support and anterior repair",
+"q": "Which statement about pelvic support and anterior prolapse repair is FALSE?",
+"o": [
+"Routine cystoscopy is not needed after anterior repair",
+"Screen advanced anterior prolapse for occult SUI",
+"Uterosacral and cardinal ligaments are level I support",
+"Anterior colporrhaphy does not suspend the vaginal apex"
+],
+"a": 0,
+"e": [
+"Cystoscopy with indigo carmine or methylene blue is recommended routinely after anterior colporrhaphy; if a jet is absent, consider catheterisation before removing plication sutures. Anatomy: iliococcygeus and coccygeus form the levator plate supporting the upper vagina and cervix; the urethra is fused to the anterior vaginal wall; endopelvic connective tissue supports the vagina. Level II: pubocervical fascia to the ATFP (arcus tendineus fasciae pelvis); level III: levator ani and perineal body. Prolapse is mainly a quality-of-life issue, so repair only symptomatic prolapse (e.g. Ba 0 with a bulge); constipation rarely improves. Anterior defects are central (midline fascial attenuation), lateral (detachment from ATFP) or both, and usually coexist with lateral or apical defects. Anterior repair alone recurs in up to 40%, mainly from untreated defects elsewhere; stage 3 anterior prolapse with apical descent needs vault suspension plus anterior repair (no sling without demonstrated SUI). Neither anterior colporrhaphy nor paravaginal repair treats SUI. Draining the bladder before perforating the endopelvic fascia reduces bladder injury."
+],
+"s": "Ch 124 Prolapse surgery",
+"c": [
+"c124-a01",
+"c124-a02",
+"c124-a07",
+"c124-a08",
+"c124-a09",
+"c124-r01",
+"c124-r02",
+"c124-r03",
+"c124-r04",
+"c124-r05",
+"c124-r06",
+"c124-r07",
+"c124-r15",
+"c124-r16"
+],
+"b": [
+"Levels I, II, III",
+"Routine cystoscopy after anterior repair",
+"Anterior repair: no apex, no SUI cure",
+"Repair only symptomatic prolapse"
+]
+},
+{
+"f": "mcq",
+"t": "TURBT and preparation for cystectomy",
+"q": "Which statement about TURBT and cystectomy preparation is FALSE?",
+"o": [
+"Resection should routinely include detrusor muscle",
+"Mark the stoma site with the patient awake",
+"Paralysis under GA limits the obturator jerk",
+"BCG may be instilled straight after a TURBT"
+],
+"a": 3,
+"e": [
+"BCG must not be instilled immediately after resection (sepsis risk); a single immediate instillation of epirubicin or mitomycin C modestly reduces recurrence but not progression. Image the upper tract before endoscopic treatment; PET/CT poorly images the urothelial lumen (excreted tracer, low resolution). The book advises a 2-cm visibly negative surface margin. Give antibiotic prophylaxis 30–60 minutes before TURBT. Lateral wall tumours can trigger the obturator reflex and perforation: minimal distension, bipolar current, general anaesthesia with paralysis. Routine stenting after cutting-current resection of an orifice is unnecessary. Before cystectomy, an enterostomal therapist marks the stoma; mechanical and antibiotic bowel preparation is controversial (data come from general surgery, where bowel is not opened as in diversion); give IV antibiotics 30–60 minutes before incision; in women prep the vagina into the field."
+],
+"s": "Ch 138 Surgery for bladder cancer",
+"c": [
+"c138-a02",
+"c138-r01",
+"c138-r02",
+"c138-r03",
+"c138-r04",
+"c138-r05",
+"c138-r12",
+"c138-r13",
+"c138-r14",
+"c138-r15",
+"c138-r16"
+],
+"b": [
+"No immediate BCG",
+"Include muscle",
+"Single MMC/epirubicin: fewer recurrences",
+"Obturator jerk: paralysis, bipolar"
+]
+},
+{
+"f": "mcq",
+"t": "Prostate radiotherapy: risk, PSA and failure",
+"q": "Which statement about PSA and risk after prostate radiotherapy is FALSE?",
+"o": [
+"Phoenix failure is a rise of 2 ng/mL above the nadir",
+"Rising PSA at 18 months after seeds means failure",
+"High-risk disease on RT alone: 5-year PSA control ~33%",
+"A nadir under 0.5 ng/mL predicts treatment success"
+],
+"a": 1,
+"e": [
+"A rise at the classic time after brachytherapy monotherapy is usually a benign bounce (65% of men under 55, especially sexually active): review dosimetry, check PSA 3-monthly, biopsy if no fall by 30 months, stage if PSA nears 10. After IMRT a rapid early rise with short doubling time signals systemic failure: stage before considering local salvage. Post-radiation biopsy is hard to read and interpretable about 30 months after treatment. ASTRO (1997) failure was three consecutive rises 3–4 months apart; it has been replaced by Phoenix (nadir + 2). The nadir is the strongest outcome predictor. Risk groups (D'Amico): low T1c–T2a, PSA under 10–11, Gleason 6 or less; intermediate T2b, PSA 10–20 or Gleason 7; high T2c, PSA over 20 or Gleason 8 or more; percentage of positive cores and PSA velocity (over 2 ng/mL/yr predicts failure) also stratify. Unfavourable intermediate risk (Zumsteg) includes primary pattern 4 (4+3), e.g. 4+3, PSA 12.8, cT2a. An irregular prostatic urethra filling the rectum after seeds is a urethrorectal fistula."
+],
+"s": "Ch 157 Radiotherapy for prostate cancer",
+"c": [
+"c157-a01",
+"c157-a02",
+"c157-a03",
+"c157-a04",
+"c157-a09",
+"c157-r02",
+"c157-r03",
+"c157-r04",
+"c157-r05",
+"c157-r14",
+"c157-r15",
+"c157-r16",
+"c157-r19"
+],
+"b": [
+"Phoenix: nadir + 2",
+"Bounce after seeds",
+"Nadir <0.5 good",
+"Biopsy at 30 months"
+]
+},
+{
+"f": "mcq",
+"t": "Micropenis, buried penis and other penile anomalies",
+"q": "Which statement about penile anomalies is FALSE?",
+"o": [
+"Hypogonadotropic hypogonadism is its commonest cause",
+"A small penis is one cause of the buried penis",
+"Micropenis is a stretched length under 1.9 cm at term",
+"Penile agenesis is not linked with UPJ obstruction"
+],
+"a": 1,
+"e": [
+"Buried penis has normal stretched length (not micropenis); its causes are poor penopubic skin fixation, obesity and a trapped penis from cicatrix after surgery (treat with office dilation using a fine haemostat or topical betamethasone and retraction). Stretched length is measured from the pubis to the glans tip with the fat pad fully depressed; micropenis is a normally formed penis at least 2.5 SD below the mean, often with small undescended testes and a small fused scrotum. Causes: hypogonadotropic hypogonadism (Kallmann, Prader-Willi, Laurence-Moon-Biedl, CHARGE) and hypergonadotropic hypogonadism. Work-up: karyotype, LH and FSH, testosterone before and after hCG, anterior pituitary function and brain MRI. Most adults keep male identity and satisfactory sexual function. Aphallia (1 in 10–30 million, usually 46,XY, scrotum and testes present, anus displaced forwards) is linked to cryptorchidism, VUR, horseshoe kidney and renal agenesis. Congenital penile naevi are superficial, benign and excised. Penoscrotal transposition goes with perineal, scrotal or penoscrotal (not distal) hypospadias and chordee, caudal regression, sex chromosome anomalies and Aarskog syndrome; up to 75% of complete cases with a normal scrotum have urinary tract anomalies."
+],
+"s": "Ch 44 External genitalia in boys",
+"c": [
+"c044-a06",
+"c044-a07",
+"c044-a08",
+"c044-a09",
+"c044-a10",
+"c044-a11",
+"c044-a12",
+"c044-a15",
+"c044-r13",
+"c044-r14",
+"c044-r15",
+"c044-r16",
+"c044-r17"
+],
+"b": [
+"Micropenis: SPL <1.9 cm (−2.5 SD)",
+"Commonest cause: hypogonadotropic hypogonadism",
+"Buried penis: normal length",
+"Aphallia: not UPJO"
+]
+},
+{
+"f": "mcq",
+"t": "Ischaemic priapism: diagnosis and treatment",
+"q": "Which statement about ischaemic priapism is FALSE?",
+"o": [
+"A distal shunt is the first surgical choice",
+"No erections return after more than 36 hours",
+"Bright red corporal blood is typical of ischaemia",
+"Aspiration alone resolves about a third of cases"
+],
+"a": 2,
+"e": [
+"Ischaemic blood is dark (hypoxic, hypercarbic, acidotic); bright red blood suggests high flow. Normal mixed venous gas (pO2 40, pCO2 50, pH 7.35) after treatment means the turgid penis is oedema: observe. Doppler shows absent cavernous flow. Pain starts at 6–8 hours; after 48 hours there is sinusoidal thrombus and smooth-muscle necrosis, and late intervention relieves pain but rarely saves potency. Spontaneous erections returned in 100% if reversed under 12 hours, 78% at 12–24, 44% at 24–36 and none beyond 36. First step: aspiration (curative in about 36%), repeated until bright red blood returns; irrigation adds no proven benefit; then intracavernous phenylephrine (α1-selective, few cardiac effects), 200 µg/mL in 0.5–1 mL aliquots to 1 mg (book). Oral agents have no role in acute priapism. Shunts relieve venous outflow obstruction: distal cavernoglanular first (percutaneous, possible in the emergency room), proximal if it fails. Persistent rigidity after a shunt at 72 hours favours early prosthesis (keeps length, easier surgery). In SCD, give hydration, oxygen and transfusion alongside, but never instead of, aspiration and phenylephrine (exchange transfusion can cause neurological events; hydroxyurea raises HbF). The book's paediatric chapter puts conservative SCD care first; current AUA/SMSNA guidance says not to delay intracavernous treatment."
+],
+"s": "Ch 70 Priapism",
+"c": [
+"c070-a01",
+"c070-a09",
+"c070-a10",
+"c070-a11",
+"c070-a12",
+"c070-a13",
+"c070-a15",
+"c070-a17",
+"c070-a18",
+"c070-a22",
+"c070-a23",
+"c070-a25",
+"c070-r02",
+"c070-r09",
+"c070-r10",
+"c070-r13",
+"c070-r15",
+"c070-r16",
+"c044-a13",
+"c044-r20"
+],
+"b": [
+"Dark blood; no cavernous flow",
+"Aspiration (36%), then phenylephrine",
+"Distal shunt first",
+"No erections after 36 h; early prosthesis"
+]
+},
+{
+"f": "mcq",
+"t": "ATN: pathophysiology and nephrotoxins",
+"q": "Which statement about ischaemic and toxic tubular injury is FALSE?",
+"o": [
+"Gadolinium's main risk is nephrogenic systemic fibrosis",
+"Dopamine infusion is a proven treatment for ARF",
+"The S3 proximal tubule is the most injured segment",
+"ATP depletion is the sentinel event of ischaemia"
+],
+"a": 1,
+"e": [
+"Dopamine is unproven in ARF. In ATN, renal blood flow falls by 50% or more, worst in the outer medulla, where the S3 segment and the Na+/K+-ATPase-rich medullary thick ascending limb suffer most; tubular permeability rises. Loop diuretics cut that limb's metabolic demand. The book says mannitol before an ischaemic insult helps; an RCT in partial nephrectomy showed no benefit. ATN mortality is about 50%, and 5% of survivors need chronic dialysis. Myoglobin or haemoglobin (rhabdomyolysis, linked in urology to prolonged exaggerated lithotomy and lateral decubitus positions) is toxic to the proximal tubule: forced alkaline diuresis. Contrast nephropathy: pre-hydration with saline before non-ionic contrast (adding a loop diuretic or mannitol did not help; bicarbonate and acetylcysteine were no better in PRESERVE). Gadolinium is not nephrotoxic; NSF (the book misnames it sclerosis) occurs in advanced CKD. The book calls gadolinium absolutely contraindicated below GFR 30; current ACR guidance allows group II agents when needed because NSF risk is extremely low. Urinary leak after surgery is confirmed by drain fluid creatinine, IV dyes or imaging; a renal scan shows perfusion and extravasation."
+],
+"s": "Ch 87 Renal insufficiency",
+"c": [
+"c087-a03",
+"c087-a04",
+"c087-a05",
+"c087-a06",
+"c087-a09",
+"c087-a10",
+"c087-a11",
+"c087-a13",
+"c087-a24",
+"c087-r05",
+"c087-r06",
+"c087-r10",
+"c087-r11",
+"c087-r20",
+"c087-r21",
+"c087-r25",
+"c087-r27",
+"c138-a03"
+],
+"b": [
+"ATP depletion; S3 and mTAL",
+"Dopamine unproven",
+"Myoglobin: alkaline diuresis",
+"Contrast: saline hydration"
+]
+},
+{
+"f": "mcq",
+"t": "Apical, posterior and uterine-sparing repairs",
+"q": "Which statement about apical and posterior prolapse surgery is FALSE?",
+"o": [
+"Mesh-augmented posterior repair outperforms colporrhaphy",
+"Levator plication is abandoned for causing dyspareunia",
+"Colpocleisis has the lowest prolapse recurrence",
+"The apex is repaired first, before the other compartments"
+],
+"a": 0,
+"e": [
+"Traditional posterior colporrhaphy is preferred: mesh or biological grafts give no better success and more complications. Levator plication caused de novo dyspareunia. Operative order: apical, anterior, sling, then posterior, so a rectal injury happens after the sling incision is closed. Symptoms that improve are bulge, pressure, splinting and dyspareunia. Sacrospinous fixation corrects apical prolapse but displaces the apex posteriorly; abdominal sacrocolpopexy maximises functional length without distorting the vaginal axis; supracervical hysterectomy with sacrocervicopexy reduces mesh extrusion. Colpocleisis precludes intercourse; LeFort partial colpocleisis can be done under local anaesthesia; mesh raises reoperation rates over native tissue. Uterine preservation: sacrohysteropexy with mesh if future fertility is wanted (book) and for connective tissue disorders or exstrophy; Manchester operation for cervical elongation with a well-supported corpus; sacrospinous hysteropexy when abdominal access is hard; uterosacral hysteropexy avoids mesh."
+],
+"s": "Ch 124 Prolapse surgery",
+"c": [
+"c124-a03",
+"c124-a04",
+"c124-a05",
+"c124-a06",
+"c124-a10",
+"c124-a11",
+"c124-a12",
+"c124-a13",
+"c124-a14",
+"c124-a15",
+"c124-a18",
+"c124-a22",
+"c124-r12",
+"c124-r13",
+"c124-r14"
+],
+"b": [
+"Posterior colporrhaphy over mesh",
+"Order: apex, anterior, sling, posterior",
+"Manchester: cervical elongation",
+"Colpocleisis: lowest recurrence"
+]
+},
+{
+"f": "mcq",
+"t": "Radical cystectomy: technique and outcomes",
+"q": "Which statement about radical cystectomy is FALSE?",
+"o": [
+"Capsule-sparing and nerve-sparing give equal potency",
+"RAZOR showed non-inferior 2-year PFS for robotic surgery",
+"Neoadjuvant MVAC raised median survival to 77 months",
+"Extended VTE prophylaxis cut events from 4.6% to 0.8%"
+],
+"a": 0,
+"e": [
+"Capsule- or prostate-sparing gives better sexual function than conventional nerve sparing (which is worse than after prostatectomy), but occult urothelial or prostate cancer must be excluded first; age predicts return of erections; nerve sparing does not raise local recurrence. SWOG 8710 (Grossman): cystectomy with neoadjuvant MVAC, 77 vs 46 months; now NIAGARA (2024) adds perioperative durvalumab to gemcitabine-cisplatin with better event-free and overall survival. Herr: more than 10 nodes removed improved survival; standard template: genitofemoral nerve, internal iliac artery, Cooper ligament, ureter crossing the common iliac. Trials (LEA, SWOG S1011) found no survival gain from extended dissection. Urethral recurrence is about 8% at 5 years; a positive urethral frozen section contraindicates orthotopic diversion (frozen section has good NPV). Female cystectomy (book) removes the whole urethra including meatus, but the urethra is spared for orthotopic neobladder in selected women; keep the introitus and avoid routine colpocleisis. Partial cystectomy: solitary tumour (e.g. small dome T2), no CIS, 2-cm margin, away from orifices and bladder neck. Complications: 64% within 3 months (13% high grade, mostly gastrointestinal); 90-day mortality about 3%. Robotic surgery (RAZOR, Bochner) reduces blood loss; both used open diversion. VTE prophylaxis before incision and for 4 weeks. Nasogastric suction is not needed; early feeding, neostigmine and alvimopan speed bowel recovery. Sealing devices near the rectum cause thermal injury."
+],
+"s": "Ch 138 Surgery for bladder cancer",
+"c": [
+"c138-a01",
+"c138-a04",
+"c138-a05",
+"c138-a06",
+"c138-a07",
+"c138-a08",
+"c138-a09",
+"c138-a10",
+"c138-a11",
+"c138-a12",
+"c138-r06",
+"c138-r07",
+"c138-r08",
+"c138-r09",
+"c138-r10",
+"c138-r11",
+"c138-r17",
+"c138-r18"
+],
+"b": [
+"SWOG 8710: 46→77 months",
+"RAZOR: robotic non-inferior",
+"VTE prophylaxis 4 weeks",
+"90-day mortality ~3%"
+]
+},
+{
+"f": "mcq",
+"t": "Prostate radiotherapy: techniques, trials and toxicity",
+"q": "Which statement about radiotherapy techniques and trials is FALSE?",
+"o": [
+"Radium-223 prolonged survival in bone-metastatic CRPC",
+"IMRT spares the rectum and bladder better than 3D-CRT",
+"Adding RT to ADT improved survival in NCIC/MRC",
+"Proton beams clearly beat IMRT for prostate cancer"
+],
+"a": 3,
+"e": [
+"No advantage of protons over photon IMRT has been shown, despite the Bragg peak (sharp dose fall-off beyond the particle's range). NCIC/MRC: 7-year survival 66% with ADT vs 74% with ADT plus RT; SPCG-7: 10-year mortality 39.4% vs 29.6%. Modern RT uses CT planning, IMRT, image guidance and dose escalation (four RCTs improved cancer control). Fox Chase hypofractionation (70.2 Gy/26 vs 76 Gy/38) did not improve biochemical failure and had more late urinary toxicity in men with poor baseline function; later trials (CHHiP: 60 Gy in 20; PACE-B: SBRT in 5) showed non-inferiority. Radium-223 (ALSYMPCA) is an α-emitter, sparing marrow more than strontium-89. Brachytherapy's dose falls off within millimetres; iodine-125 half-life about 60 days (140–160 Gy), palladium-103 17 days (110–125 Gy); IMRT 75–79 Gy. CRT conforms dose to the prostate; IMRT varies beam intensity. After conformal EBRT about 50% of potent men are impotent at 5 years and 10% have rectal bleeding; also incontinence, haemorrhagic cystitis and stricture. Impending cord compression: immediate androgen ablation (orchiectomy fastest; avoid LHRH agonist flare), steroids and radiotherapy, sometimes decompression surgery."
+],
+"s": "Ch 157 Radiotherapy for prostate cancer",
+"c": [
+"c157-a05",
+"c157-a06",
+"c157-a07",
+"c157-a08",
+"c157-r01",
+"c157-r06",
+"c157-r07",
+"c157-r08",
+"c157-r09",
+"c157-r10",
+"c157-r11",
+"c157-r12",
+"c157-r13",
+"c157-r17",
+"c157-r18"
+],
+"b": [
+"Protons no proven gain",
+"ADT + RT improves survival",
+"Ra-223: OS gain, α-emitter",
+"I-125 60 days; Pd-103 17 days"
+]
+},
+{
+"f": "mcq",
+"t": "Paediatric inguinal hernia and hydrocele",
+"q": "Which statement about inguinal hernia and hydrocele in children is FALSE?",
+"o": [
+"Left-sided hernias outnumber right by about 3 to 1",
+"Inguinal hernias occur in 1% to 5% of children",
+"Most childhood hydroceles can be watched for a time",
+"Parents' home photographs of a bulge are reliable"
+],
+"a": 0,
+"e": [
+"Right-sided hernias predominate (3:1), attributed to later descent of the right testis. Hernias are commoner in boys and premature infants; bilaterality is more likely with female sex, prematurity, age under 1 year and cryptorchidism. An intermittent bulge separates a reducible hernia or communicating hydrocele from a scrotal or cord hydrocele. Hernias need prompt repair; inguinal, scrotal or laparoscopic routes are used, with the inguinal route most successful. Recurrence (0.5%–1%) follows a missed or poorly ligated sac, a torn sac leaving peritoneum on the cord, floor damage, a weak internal ring or a missed direct hernia. Transperitoneal laparoscopy inspects the contralateral ring quickly and accurately. Abdominoscrotal hydrocele has a closed processus and may cause an elongated dysmorphic testis, high intratunical pressure and hydronephrosis (not epididymal anomalies). Torsion risk relates to abnormal tunica vaginalis, not a patent processus."
+],
+"s": "Ch 44 External genitalia in boys",
+"c": [
+"c044-a16",
+"c044-a17",
+"c044-r30",
+"c044-r31",
+"c044-r32",
+"c044-r33",
+"c044-r34",
+"c044-r35"
+],
+"b": [
+"Right 3:1",
+"Repair hernia promptly; observe hydrocele",
+"Recurrence 0.5–1%",
+"Abdominoscrotal: processus closed"
+]
+},
+{
+"f": "mcq",
+"t": "High-flow and stuttering priapism",
+"q": "Which statement about non-ischaemic and stuttering priapism is FALSE?",
+"o": [
+"Bedtime pseudoephedrine can help stuttering priapism",
+"A single embolisation has a 30% to 40% recurrence rate",
+"Arteriography is how high-flow priapism is diagnosed",
+"About two thirds of high-flow priapism resolves itself"
+],
+"a": 2,
+"e": [
+"Colour Doppler (penile and perineal) diagnoses high-flow priapism and often shows the fistula; arteriography is used for embolisation, MRI for corporal thrombus after delay or refractory priapism. Doppler also checks a persistent erection after ischaemic treatment (high-flow conversion can occur). High-flow priapism is not an emergency: observe (spontaneous resolution in up to 62%); aspiration is diagnostic only (bright red, arterial gas) and α-agonists are not used. Selective embolisation is offered to patients who prefer intervention after discussing spontaneous resolution and ED risk; surgical ligation (Doppler-guided, after a pseudocapsule forms over weeks to months) if embolisation fails. Stuttering priapism aims to prevent episodes and preserve function: nightly oral sympathomimetic, low-dose daily PDE5 inhibitor or morning self-injected phenylephrine. GnRH agonists or antiandrogens are inappropriate in a boy (they remain an option in adults)."
+],
+"s": "Ch 70 Priapism",
+"c": [
+"c070-a14",
+"c070-a16",
+"c070-a19",
+"c070-a20",
+"c070-r07",
+"c070-r11",
+"c070-r12",
+"c070-r14",
+"c044-a14",
+"c044-r21",
+"c044-r22"
+],
+"b": [
+"Doppler diagnoses",
+"~2/3 resolve; not an emergency",
+"Embolisation recurrence 30–40%",
+"Stuttering: pseudoephedrine, PDE5i, phenylephrine"
+]
+},
+{
+"f": "mcq",
+"t": "AKI management, dialysis and ESRD",
+"q": "Which statement about managing renal failure and dialysis is FALSE?",
+"o": [
+"Haemodialysis catheter infection is the commonest admission",
+"IV insulin and glucose stabilise the myocardium first",
+"Pre-emptive transplantation gives the best outcomes",
+"Peritoneal dialysis is gentler on the circulation"
+],
+"a": 1,
+"e": [
+"IV calcium stabilises the myocardium immediately (short-lived) when hyperkalaemia shows ECG changes (peaked T waves, long PR, wide QRS); insulin with glucose or bicarbonate shifts potassium transiently; Kayexalate (linked to colonic necrosis) or dialysis removes it. Prerenal failure: first restore circulating volume with isotonic fluid. Dialysis indications: volume overload, severe hyperkalaemia, severe acidosis, pericarditis, selected poisonings and uraemic symptoms. Transplantation is the best ESRD treatment. Hospitalisation is predicted by low albumin and poor nutrition, inactivity, diabetic ESRD, vascular disease, heart failure, age and white race. Sepsis mortality is one to several hundred times higher on dialysis; remaining lifetime on dialysis is 15%–25% of the general population."
+],
+"s": "Ch 87 Renal insufficiency",
+"c": [
+"c087-a08",
+"c087-a12",
+"c087-a22",
+"c087-a23",
+"c087-a25",
+"c087-r07",
+"c087-r08",
+"c087-r09",
+"c087-r17",
+"c087-r24"
+],
+"b": [
+"Hyperkalaemia: calcium first",
+"Dialysis: AEIOU indications",
+"Transplant best",
+"Catheter infection: commonest admission"
+]
+},
+{
+"f": "mcq",
+"t": "Complications of prolapse surgery",
+"q": "Which statement about complications of prolapse surgery is FALSE?",
+"o": [
+"Posterior colporrhaphy has the most dyspareunia",
+"Sacrospinous pain is neuropathic and seen in 15%",
+"Mesh is avoided if bladder or rectum is injured",
+"Synthetic mesh erodes in about 1% of repairs"
+],
+"a": 3,
+"e": [
+"Synthetic mesh grafts erode in about 10% (book). Posterior colporrhaphy has the highest dyspareunia rate (about 18%, range 0%–46%); sexual function improves after repair, more often without a posterior repair. Sacrospinous pain is gluteal or posterior leg; sacrospinous fixation also raises later anterior prolapse. Book places the suture 1 cm lateral and slightly superior to the ischial spine; standard teaching is 1.5–2 cm medial to the spine, because pudendal vessels and nerve lie directly behind the spine and inferior gluteal vessels lie above. Ureteric injury: uterosacral suspension 0%–11%, vaginal hysterectomy 0.2 per 1000. Sacral osteomyelitis after sacrocolpopexy presents with back pain, fever, lethargy and discharge. Lithotomy nerve injury: hip hyperflexion with external rotation and straight knees gives sciatic injury (foot drop, weak knee flexion, calf and lateral foot numbness); flexion, abduction and external rotation give femoral injury (weak quadriceps); risk factors are BMI under 20, diabetes and time. Failed incontinence and prolapse surgery needs reoperation in 29%."
+],
+"s": "Ch 124 Prolapse surgery",
+"c": [
+"c124-a16",
+"c124-a17",
+"c124-a19",
+"c124-a20",
+"c124-a21",
+"c124-r08",
+"c124-r09",
+"c124-r10",
+"c124-r11",
+"c124-r17"
+],
+"b": [
+"Mesh erosion ~10%",
+"Posterior repair: most dyspareunia",
+"SSLF pain 15%",
+"Lithotomy: sciatic vs femoral injury"
+]
+},
+{
+"f": "mcq",
+"t": "Adolescent varicocele",
+"q": "Which statement about adolescent varicocele is FALSE?",
+"o": [
+"Transvenous embolisation is least likely to cause hydrocele",
+"Most adolescent varicoceles cause no symptoms",
+"Continuous reflux on Doppler is an indication to repair",
+"A testis volume difference over 15–20% is abnormal"
+],
+"a": 2,
+"e": [
+"Continuous reflux on colour Doppler is not a specific indication for surgery. Indications: ipsilateral hypotrophy of at least 15%–20% documented on serial yearly examinations (puberty growth is asynchronous), significant pain despite support, bilateral small testes and oligospermia; semen analysis is the best fertility marker, and volume differential correlates poorly with motile count. Prevalence is about 15% in adolescents and adults; tall thin boys are affected more (genetic predisposition); most are found on examination, rarely because of pain. Ultrasound measures volume most accurately. Hypotrophy often resolves after repair but can also resolve spontaneously; grade and catch-up growth do not reliably predict semen quality. Success is similar with retroperitoneal (open or laparoscopic) and subinguinal approaches; hydrocele (from lymphatic ligation) is commonest after retroperitoneal mass ligation, lowest with lymphatic-sparing techniques, and most need surgery."
+],
+"s": "Ch 44 External genitalia in boys",
+"c": [
+"c044-a25",
+"c044-a26",
+"c044-a27",
+"c044-a28",
+"c044-r23",
+"c044-r24",
+"c044-r25",
+"c044-r26",
+"c044-r27",
+"c044-r28",
+"c044-r29"
+],
+"b": [
+"Prevalence ~15%",
+"Hypotrophy ≥15–20% on serial exams",
+"Reflux alone not an indication",
+"Hydrocele: least with embolisation"
+]
+},
+{
+"f": "mcq",
+"t": "Chronic kidney disease",
+"q": "Which statement about chronic kidney disease (CKD) is FALSE?",
+"o": [
+"Angiotensin II constricts afferent more than efferent",
+"Diabetes and hypertension cause most cases of CKD",
+"Albuminuria predicts the rate of decline in renal function",
+"ACE inhibitors slow progression of renal disease"
+],
+"a": 0,
+"e": [
+"Angiotensin II constricts the efferent arteriole more; ACE inhibitors and ARBs dilate it, and NSAIDs block prostaglandin-mediated afferent dilatation, so combinations can drop GFR. Book defines CKD as GFR below 60 mL/min; KDIGO uses GFR below 60 or markers of damage such as albuminuria for over 3 months. After nephrectomy with MDRD GFR 52, the book advises nephrology referral for stage 3 CKD. Prognosis depends on cause, GFR and albuminuria: a single nephrectomy (GFR 62, albuminuria 30 mg/g or less) carries a better outlook than ongoing injury. Reduced nephron mass triggers sympathetic activation, hyperfiltration with high glomerular pressure, hypertrophy and fibrosis (not intrarenal vascular occlusion); once GFR is below 50% of normal, loss progresses even if the cause is gone. ANP may oppose fibrosis. A family history of ESRD predicts risk; after diabetes and hypertension come glomerular diseases (FSGS, membranous) then systemic ones (lupus, granulomatosis with polyangiitis). Renal biopsy gives the diagnosis. ACE inhibitors may reduce residual function with bilateral renal artery stenosis or ADPKD cysts over 10 cm."
+],
+"s": "Ch 87 Renal insufficiency",
+"c": [
+"c087-a02",
+"c087-a14",
+"c087-a15",
+"c087-a16",
+"c087-a17",
+"c087-a18",
+"c087-a19",
+"c087-a20",
+"c087-a21",
+"c087-r12",
+"c087-r13",
+"c087-r14",
+"c087-r19",
+"c087-r22",
+"c087-r23",
+"c087-r28"
+],
+"b": [
+"AngII constricts efferent",
+"DM and HTN commonest",
+"<50% GFR: progression continues",
+"ACEi caution: bilateral RAS, big ADPKD cysts"
+]
+},
+{
+"f": "mcq",
+"t": "The acute scrotum in boys",
+"q": "Which statement about the acute scrotum is FALSE?",
+"o": [
+"Torsion of an appendage can be managed without surgery",
+"A cord twist on Doppler is the most specific sign",
+"Irreversible testicular injury may start after 4 hours",
+"Cord torsion twists outward, so detorsion is medial"
+],
+"a": 3,
+"e": [
+"Cord torsion is usually medial (inward), so manual detorsion is outward ('open book'), but a third twist the other way and detorsion may be incomplete, so prompt exploration is still needed. Irreversible damage may begin 4 hours after occlusion; salvage falls with duration and degree of twist, so do not delay surgery for imaging. A reliable history and examination usually make the diagnosis; ultrasound confirms (absent flow, 'snail sign' cord twist, parenchymal heterogeneity). Delay often comes from embarrassment, denial or lack of awareness. Suspected intermittent torsion: elective exploration with bilateral fixation (expect bell-clapper). Appendage torsion is the commonest prepubertal cause (blue dot sign); give analgesia and supportive care. Infant epididymitis usually has sterile urine and a normal tract. Perinatal torsion found in the nursery is rarely salvageable; an acute postnatal change needs emergency exploration with contralateral fixation."
+],
+"s": "Ch 44 External genitalia in boys",
+"c": [
+"c044-a18",
+"c044-a19",
+"c044-a20",
+"c044-a21",
+"c044-a22",
+"c044-a23",
+"c044-a24",
+"c044-r36",
+"c044-r37",
+"c044-r38",
+"c044-r39",
+"c044-r40",
+"c044-r41"
+],
+"b": [
+"Damage from 4 hours",
+"Cord twist: most specific",
+"Detorsion 'open book'; still explore",
+"Appendage torsion: blue dot, conservative"
+]
+}
+]
