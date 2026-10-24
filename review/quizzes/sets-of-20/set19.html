@@ -1,0 +1,240 @@
+<title>Mixed MCQ Set 19</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one exam card at a time, narrow reading column, progress strip on top */
+:root {
+  --bg: #f3f5f6; --surface: #ffffff; --ink: #18232b; --muted: #5b6a74; --line: #d6dde1;
+  --accent: #1f5f7a; --accent-soft: #e2eef3;
+  --warn: #a8660b; --ok: #1d7a4c; --ok-soft: #e3f3ea; --bad: #b3352b; --bad-soft: #f8e4e1;
+  --f-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11171b; --surface: #182128; --ink: #e4ebef; --muted: #98a8b2; --line: #2b3842;
+  --accent: #7cc0dc; --accent-soft: #1d3340;
+  --warn: #e8b05a; --ok: #6fd3a0; --ok-soft: #173327; --bad: #f08a80; --bad-soft: #3a1f1c; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; padding: 0 16px; }
+.wrap { max-width: 720px; margin: 0 auto; padding-block: 28px 48px; display: grid; gap: 20px; }
+header { display: grid; gap: 6px; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(26px, 5vw, 34px); line-height: 1.15; margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; font-size: 15px; }
+
+.strip { display: grid; grid-template-columns: repeat(25, 1fr); gap: 3px; row-gap: 6px; }
+.pip { height: 8px; border-radius: 2px; background: var(--line); border: 0; padding: 0; cursor: pointer; }
+.pip.ok { background: var(--ok); } .pip.bad { background: var(--bad); }
+.pip.cur { outline: 2px solid var(--accent); outline-offset: 2px; }
+.meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-family: var(--f-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 24px; display: grid; gap: 18px; }
+.qhead { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.qno { font-family: var(--f-mono); font-size: 13px; color: var(--accent); }
+.tag { font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); padding: 2px 8px; border-radius: 4px; }
+.stem { font-family: var(--f-display); font-size: 21px; line-height: 1.4; font-weight: 500; margin: 0; }
+.opts { display: grid; gap: 10px; }
+.opt { display: grid; grid-template-columns: 28px 1fr; gap: 12px; align-items: start; text-align: left; width: 100%;
+  font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; cursor: pointer; }
+.opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:focus-visible, .btn:focus-visible, .pip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.opt .k { font-family: var(--f-mono); font-size: 13px; width: 28px; height: 28px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--muted); }
+.opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.opt.sel .k { border-color: var(--accent); color: var(--accent); }
+.opt.right { border-color: var(--ok); background: var(--ok-soft); }
+.opt.right .k { border-color: var(--ok); color: var(--ok); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.opt.wrong .k { border-color: var(--bad); color: var(--bad); }
+.opt:disabled { cursor: default; }
+
+.verdict { font-family: var(--f-display); font-weight: 600; font-size: 20px; }
+.explain .why { font-family: var(--f-display); font-size: 18px; line-height: 1.6; }
+.explain ul.keys { color: var(--muted); font-size: 14px; }
+.verdict.ok { color: var(--ok); } .verdict.bad { color: var(--bad); }
+.explain { border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 10px; }
+.explain p, .explain ul { margin: 0; }
+.explain ul { padding-left: 20px; display: grid; gap: 4px; }
+.src { font-size: 13px; color: var(--muted); }
+
+.actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+.btn { font: inherit; font-weight: 600; border-radius: 8px; padding: 10px 18px; cursor: pointer; border: 1px solid var(--accent); }
+.btn.primary { background: var(--accent); color: var(--surface); }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:disabled { opacity: .45; cursor: default; }
+.hint { font-size: 13px; color: var(--muted); }
+
+.result { display: grid; gap: 14px; }
+.score { font-family: var(--f-display); font-size: 44px; font-weight: 600; line-height: 1; font-variant-numeric: tabular-nums; }
+.review { display: grid; gap: 6px; padding: 0; margin: 0; list-style: none; }
+.review li { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 15px; min-width: 0; }
+.review .n { font-family: var(--f-mono); font-size: 13px; color: var(--muted); }
+.review .s { font-family: var(--f-mono); font-size: 13px; font-weight: 500; }
+.review .s.ok { color: var(--ok); } .review .s.bad { color: var(--bad); }
+.review button { font: inherit; color: var(--ink); background: none; border: 0; padding: 0; text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.pip.part { background: var(--warn); } .pip.pend { background: var(--accent); opacity: .5; }
+.fig { margin: 0; display: grid; gap: 6px; overflow-x: auto; }
+.fig svg { width: 100%; min-width: 320px; height: auto; display: block; }
+.fig .grid line { stroke: var(--line); stroke-width: 1; }
+.fig .ax line { stroke: var(--muted); stroke-width: 1.5; }
+.fig .lbl, .fig text { fill: var(--muted); font-family: var(--f-mono); font-size: 12px; }
+.fig .trace { fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; }
+.fig .trace.dash { stroke-dasharray: 7 5; }
+.fig .mark { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 4; }
+.fig figcaption { font-size: 13px; color: var(--muted); }
+textarea { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px; width: 100%; resize: vertical; min-height: 140px; }
+textarea:focus-visible, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mine { display: grid; gap: 6px; } .mine p { margin: 0; white-space: pre-wrap; background: var(--bg); border-radius: 8px; padding: 12px; }
+.selfmark { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font: inherit; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.chip.on { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.review .s.part { color: var(--warn); }
+@media (max-width: 480px) { .card { padding: 18px; } .stem { font-size: 19px; } }
+@media (prefers-reduced-motion: no-preference) { .opt { transition: border-color .12s, background-color .12s; } }
+.line { font: inherit; font-size: 17px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; width: 100%; }
+.line:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.model { font-family: var(--f-display); font-size: 19px; line-height: 1.4; margin: 0; }
+.also { font-size: 14px; color: var(--muted); margin: 0; }
+.match { font-size: 13px; font-weight: 600; }
+.match.ok { color: var(--ok); } .match.no { color: var(--muted); }
+.fig .tagl { fill: var(--accent); font-size: 14px; font-weight: 600; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">MCh Urology · Campbell-Walsh-Wein Review · chapters 48, 56, 68, 81, 84, 109, 145</div>
+    <h1>Mixed set 19 of 20: 20 MCQs</h1>
+    <p class="sub">Part of a 20-set series covering every book question and Chapter Review point of chapters 20–162. Topics are mixed. All four options are similar in length. Read every explanation: it carries the remaining facts.</p>
+  </header>
+  <div><div class="strip" id="strip" aria-label="Question progress"></div></div>
+  <div class="meta"><span id="pos"></span><span id="tally"></span></div>
+  <main id="stage"></main>
+</div>
+<script>
+const Q = [{"f": "mcq", "t": "Sex determination", "q": "Which statement about sex determination and differentiation is FALSE?", "o": ["SRY is the same as the H-Y antigen", "AMH is the first fetal testis hormone", "DHT virilises the urogenital sinus", "SRY lies on the short arm of Y"], "a": 0, "e": ["SRY (Yp, next to the pseudoautosomal boundary) is not H-Y antigen; its HMG domain bends DNA and it regulates SOX9, initiating testis formation. SF1 (NR5A1) is a nuclear receptor transcription factor regulating AMH and steroidogenic enzymes; mutations cause undervirilisation, adrenal insufficiency and gonadal dysgenesis. AMH (MIS) from Sertoli cells at 7–8 weeks is the first testicular hormone, acting locally/paracrine to regress Müllerian ducts; serum AMH marks testicular tissue in newborns. Testosterone enters cells by diffusion and acts locally on the Wolffian ducts (MIS and testosterone act unilaterally); in urogenital sinus, prostate and external genitalia 5α-reductase makes DHT. Normal ovarian development needs two X chromosomes; estrogens are not needed for female differentiation. Gender identity = self-identification as male or female; gender role = behaviour; conflicts underlie gender dysphoria. (Book outline lists chapters 49–52 next.)"], "s": "Ch 48 Disorders of sex development", "b": ["SRY on Yp, HMG box, regulates SOX9; not H-Y antigen", "AMH: first testis hormone (7–8 weeks)", "Testosterone acts locally on Wolffian ducts", "DHT: sinus, prostate, external genitalia", "Two X needed for ovary; estrogen not needed"]}, {"f": "mcq", "t": "Acute and chronic bacterial prostatitis", "q": "Which statement about bacterial prostatitis is FALSE?", "o": ["Chronic bacterial: recurrent same-organism UTI", "Abscess under 1–2 cm may need only antibiotics", "Post-biopsy sepsis: give a fluoroquinolone", "E. coli is the commonest organism"], "a": 2, "e": ["AUA: fever after biopsy should not get fluoroquinolones or TMP-SMX; resuscitate and give carbapenem, amikacin or 2nd/3rd-generation cephalosporin. Category I: acute dysuria, frequency, fever; E. coli commonest (Pseudomonas commoner after manipulation); organisms differ by cause (spontaneous, post-TURP, post-biopsy). Long drainage: suprapubic tube. No response: image for abscess (<1–2 cm antibiotics; larger: aspiration or transurethral unroofing). Chronic bacterial: recurrent UTI with the same organism, well between episodes; exclude retention; under 45 no imaging, check flow and residual for stricture (four-glass test no longer routine); prostate-penetrating antibiotics; refractory: daily suppression or TURP. Category IV: asymptomatic inflammation found on BPH, cancer or infertility work-up; no treatment (don't treat raised PSA with antibiotics; follow PSA and DRE). IgG4 disease: IgG4 plasma cells and fibrosis, steroid-responsive (also Ormond disease)."], "s": "Ch 56 Prostatitis, orchitis, epididymitis", "b": ["Post-biopsy sepsis: no FQ/TMP-SMX; carbapenem/amikacin", "E. coli commonest; Pseudomonas after manipulation", "Abscess <1–2 cm: antibiotics; larger: drain/unroof", "Chronic bacterial: same organism recurs", "Category IV: no treatment"]}, {"f": "mcq", "t": "Penile anatomy and haemodynamics", "q": "Which statement about erectile anatomy is FALSE?", "o": ["Ventral tunica lacks the outer longitudinal layer", "Tunica has types I and III collagen", "About 15% rely on one pudendal source only", "Ischiocavernosus relaxes in the rigid phase"], "a": 3, "e": ["Rigid phase needs ischiocavernosus contraction to push blood in, on top of arterial dilation, sinusoidal relaxation, raised pressure and venous occlusion. The outer longitudinal tunica layer is absent at 5–7 o'clock, so prostheses erode ventrally toward the urethra. Tunica: types I and III collagen (no II), outer longitudinal, inner circular, middle oblique layer; erection needs no venous valves. ~70% have both internal and accessory pudendal supply; ~15% depend on one source (vulnerable at pelvic surgery); vascular anatomy varies. Erection needs arterial inflow plus venous coaptation and intact corporal structure and neural pathways (brain, cord, periphery)."], "s": "Ch 68 Erection physiology and ED", "b": ["Rigid phase: ischiocavernosus contracts", "Ventral tunica thin (5–7 o'clock): prosthesis erosion", "Tunica: collagen I and III", "~15% single pudendal source"]}, {"f": "mcq", "t": "Inguinal staging", "q": "Which statement about inguinal staging in penile cancer is FALSE?", "o": ["Expert DSNB false-negative rate is under 5%", "Clear groins often hide pelvic nodes", "Immediate ILND beats delayed salvage", "17–25% of cN0 men harbour micrometastases"], "a": 1, "e": ["Spread is stepwise (superficial then deep inguinal, then pelvic, then distant); pelvic metastases do not occur with negative inguinal nodes. Nodal metastasis is the main prognostic factor. 17–25% of clinically node-negative men have micrometastases; immediate ILND improves survival over salvage for clinically detectable disease. DSNB: >80% sensitivity, <5% false-negative in expert centres, long learning curve; positive → ILND. Superficial or modified ILND for impalpable nodes (less morbid); if superficial nodes are negative the deep package rarely is, though modified templates may miss lateral superficial nodes and frozen section misses >25%. No imaging is formally recommended for the cN0 groin; CT chest/abdomen/pelvis with nodal involvement or suspected pelvic nodes."], "s": "Ch 81 Inguinal node dissection", "b": ["No pelvic nodes if groins negative", "cN0: 17–25% micrometastases", "Expert DSNB: FN <5%, sensitivity >80%", "Immediate ILND beats salvage"]}, {"f": "mcq", "t": "Renal anatomy", "q": "Which statement about renal anatomy is FALSE?", "o": ["Renal veins are segmental end vessels", "Columns of Bertin hold interlobar arteries", "Hilum anterior to posterior: vein, artery, pelvis", "Gerota fascia is open inferiorly"], "a": 0, "e": ["Five segmental arteries are end arteries (segmental infarction if occluded; segments resectable); veins have extensive collaterals (infundibular collars, subcapsular plexus), so segmental vein occlusion causes no harm. The posterior segmental artery passes behind the pelvis; if anterior to the ureter it can cause UPJO. Brödel line: variable avascular plane between anterior and posterior segments. Hilum: vein, artery, pelvis (anterior to posterior). Columns of Bertin: cortex between pyramids with interlobar arteries; cortex ~1 cm. Kidneys move ~3 cm with inspiration or standing; medial aspect rotated 30° anteriorly; 12th rib over right, 11th–12th over left. Gerota is closed superiorly and laterally (continuous with diaphragmatic fascia), open inferiorly. Transperitoneal access: mobilise colon along the line of Toldt. US: kidneys isoechoic to liver overall; cortex and pyramids hypoechoic; sinus hyperechoic (fat). CTA is the gold standard for renal vessels. Lumbar veins enter renal veins (commoner on left)."], "s": "Ch 84 Kidney and ureter anatomy", "b": ["Arteries end-arteries; veins collateralise", "Hilum: vein, artery, pelvis", "Columns of Bertin: interlobar arteries", "Gerota open inferiorly", "Brödel line avascular; CTA gold standard"]}, {"f": "mcq", "t": "Pelvic wall and vessels", "q": "Which statement about male pelvic anatomy is FALSE?", "o": ["Femoral nerve injury impairs knee extension", "Perineal extravasation tracks down the thigh", "Accessory obturator veins occur in about 50%", "Direct hernias lie medial to inferior epigastrics"], "a": 1, "e": ["Scarpa fascia joins Colles fascia (continuous with dartos) and fuses to thigh fascia: extravasation is confined (butterfly perineal haematoma), never down the legs or into buttocks, but can track up to the clavicles. Accessory obturator veins (50%) drain to the underside of the external iliac vein; accessory obturator artery (25%) from the inferior epigastric runs medial to the femoral vein. Femoral nerve (L2–L4): anterior thigh sensation, knee extension; it runs in psoas, genitofemoral on psoas (retractor palsy; sutures perpendicular may entrap); obturator nerve: adductors. Sacrospinous ligament separates greater and lesser sciatic foramina. Superficial inferior epigastric vessels bleed at inguinal incisions and ports. Conjoint tendon (internal oblique + transversalis) reinforces the posterior inguinal wall; direct hernia medial, indirect lateral to inferior epigastric vessels. Superior vesical artery arises from the patent obliterated umbilical artery. Ureter crosses anterior to the common iliac artery; pelvic ureter supply enters laterally (incise peritoneum medially). Sympathetic input to the pelvic plexus via the superior hypogastric plexus and sacral sympathetic trunks; parasympathetic from sacral intermediolateral column. Infant bladder is intra-abdominal. Pudendal nerve first branch: dorsal nerve of penis (ventral in Alcock canal)."], "s": "Ch 109 Male pelvic anatomy", "b": ["Colles/Scarpa confine extravasation (not legs)", "Accessory obturator vein 50%, artery 25%", "Femoral nerve: knee extension", "Direct hernia medial to inferior epigastrics", "Ureter crosses anterior to common iliac"]}, {"f": "mcq", "t": "LUTS evaluation", "q": "Which statement about evaluating LUTS is FALSE?", "o": ["DRE estimates volume and screens for cancer", "Frequency-volume charts should cover 72 hours", "Invasive urodynamics are routine at first visit", "Raised creatinine warrants renal ultrasound"], "a": 2, "e": ["LUTS are multifactorial (enlargement, obstruction, neurological disease, bladder dysfunction); symptom severity is the first step. DRE at first visit. 3-day frequency-volume chart. Upper tract imaging if creatinine is raised; cytology for storage symptoms in smokers. PSA if a cancer diagnosis would change management (life expectancy >10 years). US and flow for moderate-severe symptoms. Invasive urodynamics diagnose obstruction and are considered when detrusor over- or underactivity is suspected. Detrusor overactivity in up to 83% with severe obstruction (may persist after treatment). Loop diuretics worsen symptoms."], "s": "Ch 145 BPH evaluation and medical therapy", "b": ["Urodynamics not routine; for suspected detrusor problems", "3-day chart", "DRE every patient", "High creatinine: renal US", "Smoker with storage LUTS: cytology"]}, {"f": "mcq", "t": "Chromosomal and gonadal DSD", "q": "Which statement about chromosomal and gonadal DSD is FALSE?", "o": ["Y material in Turner raises gonadoblastoma risk", "Mixed gonadal dysgenesis is second to CAH", "Frasier syndrome predisposes to Wilms tumour", "Klinefelter raises breast cancer risk about 8×"], "a": 2, "e": ["WT1 mutations cause Denys-Drash (Wilms tumour, early-onset proteinuric nephropathy with hypertension and renal failure, DSD; nephropathy is the common denominator) and Frasier (gonadoblastoma, nephropathy, gonadal dysgenesis; no Wilms predisposition). Klinefelter (commonest 47,XXY): tall, eunuchoid, gynecomastia, small testes, azoospermia, poor muscle; breast cancer ~8×. Turner (45,X): short, webbed neck, cubitus valgus, infantilism, horseshoe kidney; Y material raises gonadoblastoma risk (~30%) in hypoplastic abdominal streak gonads. 46,XX complete gonadal dysgenesis: no Turner stigmata; 46,XY gonadal dysgenesis: up to 35% tumours by 30. Testicular regression/anorchia: 46,XY, castrate testosterone, high LH/FSH (detectable in mini-puberty 2–6 months), undetectable AMH. Mixed gonadal dysgenesis: second commonest DSD; unilateral testis, contralateral streak, Müllerian remnants, variable masculinisation. Ovotesticular DSD: ovarian follicles plus seminiferous tubules (one ovary and one testis or, commonly, ovotestes; unilateral or bilateral; testis part dysgenetic); fertility potential (as female) guides gender assignment."], "s": "Ch 48 Disorders of sex development", "b": ["Frasier: gonadoblastoma, no Wilms", "Denys-Drash: Wilms, nephropathy, DSD", "Klinefelter 47,XXY: breast cancer ~8×", "Turner + Y: gonadoblastoma ~30%", "MGD: second commonest DSD", "Ovotesticular: fertility potential guides gender"]}, {"f": "mcq", "t": "CP/CPPS", "q": "Which statement about chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS) is FALSE?", "o": ["Inflammation degree tracks symptom severity", "IBS is the commonest overlapping condition", "Catastrophising predicts pain and depression", "Antibiotic plus α-blocker gives best response"], "a": 0, "e": ["Inflammation in EPS, VB3 or semen does not correlate with symptoms (CPCRN: asymptomatic men had as much); bacteria are as common as in controls. No inflammation = IIIB. Central sensitisation (afferent and efferent), raised pain sensitivity, low ACTH with blunted stress response. Helplessness and catastrophising predict pain, urinary symptoms and depression. Commonest overlapping condition: IBS (also fibromyalgia, chronic fatigue). Flares predicted only by recent sex and UTI-like symptoms. More ejaculatory pain and premature ejaculation. GUPI adds bladder pain (~40% in MAPP). Diagnosis of exclusion; issues beyond the pelvis. Cystoscopy optional (low flow/high residual for stricture; bladder pain for Hunner lesion). Pseudodyssynergy: sphincter activity during voiding without straining (pelvic floor dysfunction). Treatment: multimodal by UPOINT (N = neurologic/systemic: neuropathic drugs); meta-analysis best for antibiotic + α-blocker; no repeated antibiotics without positive culture; pelvic floor tenderness: pelvic floor PT/myofascial release; bladder pain: bladder therapies; SNM if urgency and frequency."], "s": "Ch 56 Prostatitis, orchitis, epididymitis", "b": ["Inflammation does not match symptoms", "Catastrophising predicts pain", "IBS commonest overlap", "Flare: recent sex, UTI-like symptoms", "Best combo: antibiotic + α-blocker", "UPOINT multimodal therapy"]}, {"f": "mcq", "t": "Erection signalling", "q": "Which statement about erection signalling is FALSE?", "o": ["Hyperpolarisation favours erection", "nNOS in nerve terminals starts erection", "cGMP then activates protein kinase G", "Rho kinase promotes muscle relaxation"], "a": 3, "e": ["Rho kinase phosphorylates (inhibits) myosin light-chain phosphatase, sustaining contraction and opposing erection. Nerve terminal nNOS initiates erection; endothelial eNOS maintains it (the book's keyed option has these reversed). NO stimulates guanylate cyclase → cGMP → PKG, which opens K+ and closes Ca2+ channels; low cytosolic calcium and hyperpolarisation relax muscle (the key event); PDE degrades cGMP to restore tone. NOS converts arginine and O2 to citrulline and NO; three isoforms (nNOS, eNOS physiological; iNOS with stress). Carbon monoxide (haem oxygenase) aids erection. VIP has little effect; dopamine, oxytocin, serotonin act centrally; norepinephrine also involved. Low adenosine deaminase/sickle models show priapism (adenosine excess). Sonic hedgehog falls after cavernous nerve injury; reduces apoptosis in animals but unproven in men. Nerve injury worsens inflammation (M1 macrophages). Brain imaging: reduced temporal/parietal activity (introspection) disinhibits; default mode and salience networks and sympathetic tone affect psychogenic ED."], "s": "Ch 68 Erection physiology and ED", "b": ["Rho kinase opposes erection", "nNOS starts, eNOS maintains (book key reversed)", "NO → cGMP → PKG → low Ca2+", "PDE ends erection", "SHH unproven in men"]}, {"f": "mcq", "t": "ILND technique and outcome", "q": "Which statement about inguinal lymphadenectomy is FALSE?", "o": ["Endoscopic ILND mainly reduces wound problems", "Camper fascia carries skin flap blood supply", "1–3 positive nodes: 5-year survival 75–80%", "Sartorius transposition prevents complications"], "a": 3, "e": ["Sartorius transposition aims to protect femoral vessels but has predicted complications in some series. Skin flaps survive on vessels in Camper fascia (lymphatics run beneath it, so it can stay with the skin). Endoscopic (video) ILND: oncologically equivalent node yield, less morbidity, mainly fewer wound complications; both legs at one sitting; lymphatic and bleeding complications depend on energy and care. Robotics not superior to laparoscopy; Xi allows repositioning without re-docking. Radical ILND for palpable disease (curative for inguinal-only; palliation of pain, infection, bleeding). Adjuvant chemotherapy helps node-positive men. 5-year survival: 1–3 positive nodes 75–80%; pelvic, bilateral or ENE <10%."], "s": "Ch 81 Inguinal node dissection", "b": ["Sartorius flap: no proven benefit", "Preserve Camper fascia with skin", "Endoscopic: fewer wound complications", "1–3 nodes: 75–80% 5-year; pelvic/ENE <10%"]}, {"f": "mcq", "t": "Ureteral anatomy", "q": "Which statement about ureteral anatomy is FALSE?", "o": ["Stripping adventitia risks stricture", "Mid-ureter is supplied from behind", "Distal ureter supply enters medially", "Lateral orifices tend to reflux more"], "a": 2, "e": ["Ureteral blood supply: medial proximally (renal artery, aorta), posterior in the mid-ureter (common iliac), lateral distally (superior vesical): incise pelvic peritoneum medial to the ureter. Removing periureteral adventitia or lateral retraction causes ischaemia and stricture. Trigone base is the interureteric ridge (Mercier bar). Orifice position A (medial trigone) to C (lateral wall): the more abnormal the configuration, the more lateral. Medial deviation of both pelvic ureters: RPF, pelvic lipomatosis, after abdominoperineal resection; one ureter: nodes, diverticulum, hypogastric aneurysm (may be normal in women)."], "s": "Ch 84 Kidney and ureter anatomy", "b": ["Supply: medial proximal, posterior mid, lateral distal", "Keep adventitia: avoid stricture", "Mercier bar = interureteric ridge", "Lateral orifices reflux"]}, {"f": "mcq", "t": "Bladder, prostate and urethra", "q": "Which statement about bladder and prostate anatomy is FALSE?", "o": ["Ligate bladder vessels near the bladder", "Female bladder neck has little sympathetic input", "Antireflux closure is sphincteric", "Striated sphincter lies just distal to verumontanum"], "a": 2, "e": ["The intravesical ureter is a passive flap valve (pliant submucosal ureter backed by detrusor), not a sphincter. Trigone: ureteric muscle forms a sheet; interureteric crest (Mercier bar) and Bell muscle; three layers (superficial ureteric longitudinal, deep from Waldeyer sheath to bladder neck, detrusor). Bladder supply: vesical branches or any internal iliac branch; ligate near the bladder to spare pelvic plexus nerves; lateral pedicle lateral and posterior pedicle posteromedial to the ureter. Bladder lymph: mainly external iliac, also obturator, internal and common iliac: include all in cystectomy. Male bladder neck richly sympathetic; female sparse. Prostate arteries enter at 4 and 8 o'clock; lymph to obturator/internal iliac, also presacral/external iliac; Denonvilliers fascia separates prostate from rectum; cavernous nerves pass seminal vesicle tips, within lateral endopelvic fascia, most vulnerable at the apex. Membranous urethra 2–2.5 cm (1.2–5); striated sphincter is signet-ring shaped (not a flat sheet), just distal to the verumontanum: deep resection there causes incontinence. Penile lymphatics cross to both groins; scrotal ones don't cross the raphe; penis, scrotum and perineum drain to inguinal nodes. Fournier: spermatic fasciae are embryologically distinct and often spared (book). Pelvic MRI with contrast (T1 enhancement, T2 anatomy) best shows tumour invasion."], "s": "Ch 109 Male pelvic anatomy", "b": ["Ureteral valve is passive flap", "Ligate bladder vessels near bladder", "Striated sphincter: signet ring, distal to veru", "Prostate arteries at 4 and 8 o'clock", "Penile lymph crosses midline; scrotal does not"]}, {"f": "mcq", "t": "Conservative care and AUR", "q": "Which statement about watchful waiting and acute retention is FALSE?", "o": ["Mild LUTS without risk: watchful waiting", "Recurrent AUR responds well to medication", "TWOC succeeds in about 60% after first AUR", "α-Blockers improve TWOC success"], "a": 1, "e": ["Recurrent AUR is an indication for surgery. Watchful waiting (mild symptoms, low progression risk): education, reassurance, lifestyle (fluid timing; limit tea, caffeine, alcohol; review medicines), yearly follow-up. AUR is a common complication; catheterise then TWOC (~60% succeed), with α-blockers to improve success; 5-ARIs reduce AUR risk."], "s": "Ch 145 BPH evaluation and medical therapy", "b": ["Recurrent AUR: surgery", "Mild LUTS: watchful waiting", "TWOC ~60%; α-blocker helps", "5-ARIs reduce AUR"]}, {"f": "mcq", "t": "CAH, androgen insensitivity, PMDS", "q": "Which statement is FALSE?", "o": ["5α-reductase deficiency virilises at puberty", "A palpable gonad suggests CAH", "Complete AIS identifies as female", "21-Hydroxylase causes 95% of CAH"], "a": 1, "e": ["A palpable gonad (testis, rarely ovotestis) effectively rules out virilised female CAH. CAH: 21-hydroxylase (CYP21A2 conversion to pseudogene in 65–90% classic) causes 95%; 75% salt-wasting, 25% simple virilising; diagnose by 17-OH-progesterone at 3–4 days; prenatal dexamethasone (before 9 weeks) is effective though started before diagnosis; bilateral adrenalectomy for severe uncontrollable cases. Testosterone biosynthesis defects (first three enzymes in adrenal and testis) can impair glucocorticoid/mineralocorticoid synthesis. Complete AIS: 46,XY, testes, female genitalia, no Müllerian structures, raised female; female identity (rare male cases); tumours after puberty in 1–2%. Partial AIS: reduced receptor number or binding (AR at Xq12). 5α-reductase type 2 deficiency: high T/DHT ratio; partial masculinisation at puberty but no prostate growth. PMDS (AMH or receptor defect): 46,XY, normal male genitalia, uterus and tubes; transverse testicular ectopia in 30–50%. MRKH: absent uterus/vagina, primary amenorrhoea; atypical form (10%) has more urinary tract anomalies. Hypospadias with cryptorchidism: DSD 30% overall, 15% if palpable, 50% if impalpable; karyotype for bilateral impalpable testes or unilateral impalpable with hypospadias."], "s": "Ch 48 Disorders of sex development", "b": ["Palpable gonad rules out female CAH", "21-OH: 95% of CAH; 17-OHP at 3–4 days", "CAIS: female identity; tumours 1–2% after puberty", "5ARD: puberty virilisation, no prostate growth", "PMDS: transverse ectopia 30–50%", "Hypospadias + impalpable testis: DSD 50%"]}, {"f": "mcq", "t": "Epididymitis and orchialgia", "q": "Which statement about scrotal inflammation and pain is FALSE?", "o": ["Autoimmune orchitis features antisperm antibodies", "Cord denervation targets the trifecta nerve complex", "Mumps is the commonest viral orchitis", "Enteric organisms cause most epididymitis under 35"], "a": 3, "e": ["Under 35, STIs (especially Chlamydia, even if sexual history is denied) cause most epididymitis; enteric organisms over 35. Mumps is the commonest viral orchitis. Autoimmune orchitis: antisperm antibodies; secondary forms with vasculitis (Behçet, PAN, HSP). Scrotal pain: duplex Doppler for torsion, mass or anomaly. Pelvic floor PT for orchialgia with abnormal tone (central pain features); exhaust conservative care before surgery. Microsurgical cord denervation: cremasteric fibres, perivasal sheath, posterior lipomatous tissue (trifecta; most Wallerian degeneration). Post-vasectomy pain epididymectomy: include the distal vasectomy site. Orchiectomy for chronic pain: inguinal approach does better."], "s": "Ch 56 Prostatitis, orchitis, epididymitis", "b": ["<35: STI (Chlamydia); >35: enteric", "Mumps: commonest viral orchitis", "Autoimmune orchitis: antisperm antibodies", "Denervation: cremaster, perivasal, posterior fat", "Orchiectomy for pain: inguinal"]}, {"f": "mcq", "t": "Causes of ED", "q": "Which statement about the causes of ED is FALSE?", "o": ["ACE inhibitors commonly cause ED", "ED can be a sentinel of vascular disease", "ESRD raises prolactin, contributing to ED", "Thiazides and β-blockers are linked to ED"], "a": 0, "e": ["ACE inhibitors have no known adverse effect and may help; thiazides and β-blockers are linked to ED; commonest drug classes: antiandrogens, antidepressants, antihypertensives. ESRD: uraemia, vascular change, raised (not low) prolactin; ED may persist after transplant. Ageing affects central, sensory, hormonal, neural, vascular and penile mechanisms. Diabetes and metabolic syndrome give severe ED. ED is a sentinel for chronic disease. Primary lifelong ED: psychogenic, congenital arterial insufficiency, penile anomalies, vascular defects. Testosterone therapy only with low levels (<~300 ng/dL) AND compatible symptoms."], "s": "Ch 68 Erection physiology and ED", "b": ["ACE inhibitors don't cause ED", "Thiazides, β-blockers, antiandrogens, antidepressants do", "ESRD: high prolactin", "ED is a vascular sentinel", "Testosterone only if low (<300) AND symptomatic"]}, {"f": "mcq", "t": "α-Blockers", "q": "Which statement about α-blockers for LUTS is FALSE?", "o": ["β1 receptors are key α-blocker targets", "Silodosin lowers BOOI most", "Tamsulosin is uroselective (α1A/α1D)", "Naftopidil targets α1D receptors"], "a": 0, "e": ["β1 receptors are scarce in the LUT and not targeted. Uroselective agents (tamsulosin, silodosin, alfuzosin) bind α1A/α1D and are best tolerated; naftopidil is α1D-selective. First line for moderate-severe LUTS. Terazosin cut IPSS 22% (first phase II trial); terazosin/doxazosin need titration (first-dose hypotension); dizziness from α1B vascular and central effects; doxazosin postural hypotension RR 2.7. Tamsulosin relieves symptoms within a week (flow within hours); tamsulosin 0.4 mg equals silodosin 8 mg; silodosin gives the largest BOOI fall (−30.4). Warn about first-dose hypotension with any agent. IFIS cannot be prevented: tell the ophthalmologist. MTOPS: doxazosin reduced progression versus placebo but less than finasteride or combination."], "s": "Ch 145 BPH evaluation and medical therapy", "b": ["β1 not a target", "Uroselective: tamsulosin, silodosin, alfuzosin", "Silodosin: biggest BOOI fall", "Naftopidil: α1D", "IFIS: tell ophthalmologist"]}, {"f": "mcq", "t": "Hypospadias with undescended testis", "q": "A newborn has proximal hypospadias and an impalpable left testis. The risk of a DSD is about:", "o": ["5%", "15%", "50%", "30%"], "a": 2, "e": ["With hypospadias and cryptorchidism, DSD risk is 30% overall, 15% if the testis is palpable, and 50% if impalpable: karyotype and full DSD evaluation."], "s": "Ch 48 Disorders of sex development", "b": ["DSD 30% overall", "15% if palpable", "50% if impalpable"]}, {"f": "mcq", "t": "5-ARIs, combinations and others", "q": "Which statement about other BPH drugs is FALSE?", "o": ["Antimuscarinic trials excluded PVR >200 mL", "5-ARIs shrink the prostate 15–30%", "CombAT: dutasteride cut surgery vs tamsulosin", "PDE5 inhibitors improve flow rates"], "a": 3, "e": ["PDE5 inhibitors relax prostate and bladder neck smooth muscle (NO) and lower IPSS by 2–4 points versus placebo, but do not improve flow; alone or with α-blockers. 5-ARIs shrink the prostate 15–30% over 6–24 months, reduce progression, AUR and surgery; warn of depressive symptoms; PSA changes within a month (volume and flow need longer). Book Q27 claims finasteride is a 'type 1' 5-ARI that doesn't lower serum DHT: incorrect; finasteride inhibits type 2 and lowers serum DHT by about 70% (dutasteride both types, ~90%). MTOPS: doxazosin + finasteride most reduced progression. CombAT: dutasteride lowered surgery risk more than tamsulosin. Large gland with bothersome voiding symptoms: α-blocker + 5-ARI. Storage symptoms: add antimuscarinic (trials excluded PVR >200 mL) or mirabegron (better tolerated in the elderly). Phytotherapy: mechanisms uncertain; Serenoa meta-analysis showed no benefit (heterogeneous extracts); hexane extract and Serenoa + lycopene + selenium encouraging."], "s": "Ch 145 BPH evaluation and medical therapy", "b": ["PDE5i: IPSS −2 to −4, no flow gain", "5-ARI: volume −15–30%", "Finasteride lowers serum DHT (~70%); book wrong", "CombAT/MTOPS: combination best", "Antimuscarinics if PVR <200 mL"]}];
+const KEYS = ["A","B","C","D"];
+const FIG = {
+cmg: `<figure class="fig"><svg viewBox="0 0 520 320" role="img" aria-label="Cystometrogram with three channels. At A, a sharp spike appears in Pves and Pabd but not in Pdet. At B, two waves appear in Pves and Pdet while Pabd stays flat.">
+  <g class="ax"><line x1="60" y1="80" x2="500" y2="80"/><line x1="60" y1="170" x2="500" y2="170"/><line x1="60" y1="260" x2="500" y2="260"/><line x1="60" y1="290" x2="500" y2="290"/></g>
+  <g class="lbl"><text x="54" y="84" text-anchor="end">Pves</text><text x="54" y="174" text-anchor="end">Pabd</text><text x="54" y="264" text-anchor="end">Pdet</text>
+  ${[0,100,200,300,400].map(v=>`<text x="${60+1.1*v}" y="305" text-anchor="middle">${v}</text>`).join("")}
+  <text x="280" y="318" text-anchor="middle">Volume infused (mL)</text>
+  <text x="170" y="26" text-anchor="middle" class="tagl">A</text><text x="381" y="26" text-anchor="middle" class="tagl">B</text></g>
+  <line class="mark" x1="170" y1="32" x2="170" y2="290"/><line class="mark" x1="381" y1="32" x2="381" y2="290"/>
+  <polyline class="trace" points="60,80 165,80 170,40 175,80 335,80 345,58 352,50 360,62 368,80 390,80 400,55 409,46 418,60 428,80 500,80"/>
+  <polyline class="trace" points="60,170 165,170 170,130 175,170 500,170"/>
+  <polyline class="trace" points="60,260 335,260 345,238 352,230 360,242 368,260 390,260 400,235 409,226 418,240 428,260 500,260"/>
+</svg><figcaption>Channels are drawn on separate baselines. The vertical scale is the same for all three.</figcaption></figure>`,
+comp: `<figure class="fig"><svg viewBox="0 0 520 300" role="img" aria-label="Detrusor pressure rising steadily from 5 cmH2O at 0 mL to 45 cmH2O at 300 mL and about 52 at 350 mL.">
+  <g class="grid">${[180,100,20].map(y=>`<line x1="60" x2="500" y1="${y}" y2="${y}"/>`).join("")}</g>
+  <g class="ax"><line x1="60" y1="260" x2="500" y2="260"/><line x1="60" y1="260" x2="60" y2="20"/></g>
+  <g class="lbl">${[0,100,200,300,400].map(v=>`<text x="${60+1.1*v}" y="278" text-anchor="middle">${v}</text>`).join("")}
+  ${[0,20,40,60].map(p=>`<text x="52" y="${264-4*p}" text-anchor="end">${p}</text>`).join("")}
+  <text x="280" y="296" text-anchor="middle">Volume infused (mL)</text><text x="16" y="140" text-anchor="middle" transform="rotate(-90 16 140)">Pdet (cmH₂O)</text></g>
+  <line class="mark" x1="390" y1="260" x2="390" y2="80"/><line class="mark" x1="60" y1="80" x2="390" y2="80"/>
+  <polyline class="trace" points="60,240 170,206 280,160 390,80 445,52"/>
+</svg></figure>`
+};
+
+const STORE = "mch-mixed-set-19";
+const N = Q.length;
+const fresh = () => ({ i: 0, ans: Array(N).fill(null), done: Array(N).fill(false), grade: Array(N).fill(null) });
+let state = fresh();
+try { const s = JSON.parse(localStorage.getItem(STORE)); if (s && s.ans && s.ans.length === N) state = s; } catch (e) {}
+const save = () => { try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) {} };
+
+const stage = document.getElementById("stage"), strip = document.getElementById("strip");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+const fmt = x => Number.isInteger(x) ? String(x) : x.toFixed(1);
+const isMcq = k => Q[k].f === "mcq";
+const pts = k => !state.done[k] ? 0 : isMcq(k) ? (state.ans[k] === Q[k].a ? 1 : 0) : (state.grade[k] ?? 0);
+const finished = k => state.done[k] && (isMcq(k) || state.grade[k] !== null);
+const status = k => !state.done[k] ? "" : !finished(k) ? "pend" : pts(k) === 1 ? "ok" : pts(k) > 0 ? "part" : "bad";
+const score = () => Q.reduce((n, _, k) => n + pts(k), 0);
+const hits = k => { const a = String(state.ans[k] || "").toLowerCase(); return a && Q[k].k.some(w => a.includes(w)); };
+const FMT = { mcq: "Single best answer", text: "Written answer", line: "One-line answer" };
+
+function renderStrip() {
+  strip.innerHTML = "";
+  Q.forEach((_, k) => {
+    const b = document.createElement("button");
+    b.className = "pip " + status(k) + (k === state.i ? " cur" : "");
+    b.setAttribute("aria-label", "Question " + (k + 1));
+    b.onclick = () => { state.i = k; save(); render(); };
+    strip.appendChild(b);
+  });
+  document.getElementById("pos").textContent = state.i < N ? `Question ${state.i + 1} of ${N} · ${FMT[Q[state.i].f]}` : "Finished";
+  document.getElementById("tally").textContent = `${fmt(score())} marks · ${Q.filter((_, k) => finished(k)).length} done`;
+}
+
+const selfmark = k => `<div class="selfmark" role="group" aria-label="Mark yourself"><span class="hint">Mark yourself:</span>
+  ${[[1,"Got it (1)"],[0.5,"Partly (½)"],[0,"Missed (0)"]].map(([v,l]) => `<button class="chip${state.grade[k] === v ? " on" : ""}" data-g="${v}">${l}</button>`).join("")}</div>`;
+
+function render() {
+  renderStrip();
+  if (state.i >= N) return renderResult();
+  const k = state.i, it = Q[k], done = state.done[k], ans = state.ans[k], last = k === N - 1;
+  let body = "", exp = "";
+  if (it.f === "mcq") {
+    body = `<div class="opts" role="group" aria-label="Answer options">${it.o.map((txt, j) => {
+      let c = "opt"; if (done) { if (j === it.a) c += " right"; else if (j === ans) c += " wrong"; } else if (j === ans) c += " sel";
+      return `<button class="${c}" data-j="${j}" ${done ? "disabled" : ""}><span class="k">${KEYS[j]}</span><span>${txt}</span></button>`; }).join("")}</div>`;
+    if (done) exp = `<div class="explain"><div class="verdict ${ans === it.a ? "ok" : "bad"}">${ans === it.a ? "Correct" : "Incorrect"} · answer ${KEYS[it.a]}</div>
+      ${it.e.map(x => `<p class="why">${x}</p>`).join("")}${it.b ? `<ul class="keys">${it.b.map(x => `<li>${x}</li>`).join("")}</ul>` : ""}<p class="src">Source: ${it.s}</p></div>`;
+  } else if (it.f === "text") {
+    body = done ? `<div class="mine"><div class="eyebrow">Your answer</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Write your answer</label><textarea id="ans-${k}" rows="7" placeholder="Write it as you would in the exam.">${esc(ans)}</textarea>`;
+    if (done) exp = `<div class="explain"><div class="eyebrow">Model answer: compare point by point</div><ul>${it.m.map(x => `<li>${x}</li>`).join("")}</ul><p class="src">Read more: ${it.s}</p>${selfmark(k)}</div>`;
+  } else {
+    body = done ? `<div class="mine"><div class="eyebrow">Your line</div><p>${esc(ans) || "<em>No answer written.</em>"}</p></div>`
+                : `<label class="eyebrow" for="ans-${k}">Your one-line answer</label><input class="line" id="ans-${k}" type="text" autocomplete="off" value="${esc(ans)}" placeholder="Type and press Enter">`;
+    if (done) exp = `<div class="explain"><div class="eyebrow">Model answer</div><p class="model">${it.a}</p><p class="also">${it.x}</p>
+      <span class="match ${hits(k) ? "ok" : "no"}">${hits(k) ? "Your line contains the key term." : "Key term not found in your line. Check the meaning yourself."}</span>${selfmark(k)}</div>`;
+  }
+  const primary = done ? `<button class="btn primary" id="next" ${finished(k) ? "" : "disabled"}>${last ? "See results" : "Next question"}</button>`
+    : it.f === "mcq" ? `<span class="hint">Tap an option to answer.</span>` : `<button class="btn primary" id="check">Show model answer</button>`;
+  stage.innerHTML = `<article class="card">
+    <div class="qhead"><span class="qno">Q${String(k + 1).padStart(2, "0")}</span><span class="tag">${it.t}</span></div>
+    <p class="stem">${it.q}</p>${it.img ? FIG[it.img] : ""}${body}${exp}
+    <div class="actions"><button class="btn ghost" id="prev" ${k === 0 ? "disabled" : ""}>Previous</button>${primary}</div>
+    ${done && !finished(k) ? `<span class="hint">Mark yourself to continue.</span>` : ""}</article>`;
+  stage.querySelectorAll(".opt").forEach(b => b.onclick = () => { if (!state.done[k]) { state.ans[k] = +b.dataset.j; state.done[k] = true; save(); render(); } });
+  stage.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.grade[k] = +b.dataset.g; save(); render(); });
+  const inp = document.getElementById("ans-" + k);
+  if (inp) { inp.oninput = () => { state.ans[k] = inp.value; save(); };
+    if (it.f === "line") inp.onkeydown = e => { if (e.key === "Enter") { e.preventDefault(); check(); } }; }
+  const c = document.getElementById("check"); if (c) c.onclick = check;
+  const n = document.getElementById("next"); if (n) n.onclick = next;
+  document.getElementById("prev").onclick = () => { if (state.i > 0) { state.i--; save(); render(); } };
+}
+function check() { const k = state.i; if (isMcq(k) && state.ans[k] === null) return; state.done[k] = true; save(); render(); }
+function next() {
+  const k = state.i; if (!finished(k)) return;
+  const open = Q.findIndex((_, j) => j > k && !finished(j));
+  state.i = open !== -1 ? open : (Q.every((_, j) => finished(j)) ? N : Q.findIndex((_, j) => !finished(j)));
+  save(); render(); window.scrollTo({ top: 0 });
+}
+function renderResult() {
+  const r = score();
+  const mark = k => ({ ok: `<span class="s ok">✓</span>`, part: `<span class="s part">½</span>`, bad: `<span class="s bad">✗${isMcq(k) ? " " + KEYS[Q[k].a] : ""}</span>` }[status(k)] || `<span class="s">–</span>`);
+  stage.innerHTML = `<article class="card result"><div class="eyebrow">Your score</div><div class="score">${fmt(r)} / ${N}</div>
+    <p class="sub">${Math.round(r / N * 100)}%. Written and one-line answers count as you marked them. Tap any topic to review it.</p>
+    <ul class="review">${Q.map((it, k) => `<li><span class="n">${k + 1}</span><button data-k="${k}">${it.t}</button>${mark(k)}</li>`).join("")}</ul>
+    <div class="actions"><button class="btn ghost" id="reset">Start again</button></div></article>`;
+  stage.querySelectorAll(".review button").forEach(b => b.onclick = () => { state.i = +b.dataset.k; save(); render(); });
+  document.getElementById("reset").onclick = () => { state = fresh(); save(); render(); };
+}
+document.addEventListener("keydown", e => {
+  if (e.metaKey || e.ctrlKey || e.altKey || state.i >= N || !isMcq(state.i)) return;
+  const k = state.i, j = KEYS.indexOf(e.key.toUpperCase());
+  if (j > -1 && !state.done[k]) { state.ans[k] = j; state.done[k] = true; save(); render(); }
+  else if (e.key === "Enter" && document.activeElement?.tagName !== "BUTTON") { state.done[k] ? next() : check(); }
+});
+render();
+</script>
