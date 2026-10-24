@@ -45,7 +45,7 @@
 "Regulatory CD4 T cells inhibit adaptive responses",
 "Th2 cytokines (IL-4, 5, 10, 13) blunt antitumour immunity",
 "Neutrophils present antigen on MHC like macrophages",
-"The macrophage is the first immune cell in BCG response"
+"Book: macrophages lead the immune response to BCG"
 ],
 "a": 2,
 "e": [
@@ -318,7 +318,7 @@
 "Dense CD8 infiltrates predict better outcome in RCC",
 "Sipuleucel-T targets prostatic acid phosphatase",
 "PD-1 on tumour CD8 T cells marks an exhausted state",
-"Ipilimumab plus nivolumab beats sunitinib first line"
+"Ipi-nivo beats sunitinib in intermediate/poor-risk RCC"
 ],
 "a": 0,
 "e": [
@@ -476,7 +476,7 @@
 ],
 "a": 2,
 "e": [
-"Sham arms (microwave thermotherapy, urethral lift trials) often show significant symptom and flow gains and are well tolerated. PUL (prostatic urethral lift) implants are anterolateral, avoiding posterolateral neurovascular bundles and anterior veins, and compress the transition zone; use when volume is under 80 g with no middle lobe. PUL and water vapour therapy spare erection and ejaculation, but durability is uncertain. Laser safety: eye protection for everyone including the patient, signs on doors, cover windows. PVP (photoselective vaporisation) is safe on anticoagulants (more irrigation and catheter time, not more transfusion). HoLEP has a steep learning curve, and morcellator injuries can be catastrophic. Thulium is newest, with limited data. Medical therapy and new technology have changed case mix; lasers are growing fastest."
+"Sham arms (microwave thermotherapy, urethral lift trials) often show significant symptom and flow gains and are well tolerated. PUL (prostatic urethral lift) implants are anterolateral, avoiding posterolateral neurovascular bundles and anterior veins, and compress the transition zone; use when volume is under 80 g with no middle lobe (newer labelling extends to 100 mL and median lobes). PUL and water vapour therapy spare erection and ejaculation, but durability is uncertain. Laser safety: eye protection for everyone including the patient, signs on doors, cover windows. PVP (photoselective vaporisation) is safe on anticoagulants (more irrigation and catheter time, not more transfusion). HoLEP has a steep learning curve, and morcellator injuries can be catastrophic. Thulium is newest, with limited data. Medical therapy and new technology have changed case mix; lasers are growing fastest."
 ],
 "s": "Ch 146 Endoscopic and minimally invasive BPH therapy",
 "c": [
@@ -698,12 +698,12 @@
 "o": [
 "Spinal injury unmasks a C-fibre bladder reflex",
 "IC urine contains antiproliferative factor and ATP",
-"Bladder capacity is what typically declines with age",
+"Bladder sensation typically increases with age",
 "Water avoidance stress models human BPS/IC best"
 ],
 "a": 2,
 "e": [
-"With ageing, bladder sensation, contractility and urethral pressure decline. After spinal cord injury a C-fibre spinal reflex, NGF, detrusor GPCR activity and sphincter contractions drive neurogenic overactivity. Obstruction changes collagen subtypes, causes afferent and efferent neuronal hypertrophy and a C-fibre reflex, with denervation supersensitivity and CNS changes. Transgenic overactivity models: reduced BK channels and reduced β1-integrin. Isolated nocturia: nocturnal polyuria, sleep apnoea, peripheral oedema. SUI causes: poor urethral support, loss of urothelial seal, low sacral serotonin. Sex steroids influence bladder receptors and growth."
+"With ageing, bladder sensation, contractility and urethral pressure decline (capacity change is variable). After spinal cord injury a C-fibre spinal reflex, NGF, detrusor GPCR activity and sphincter contractions drive neurogenic overactivity. Obstruction changes collagen subtypes, causes afferent and efferent neuronal hypertrophy and a C-fibre reflex, with denervation supersensitivity and CNS changes. Transgenic overactivity models: reduced BK channels and reduced β1-integrin. Isolated nocturia: nocturnal polyuria, sleep apnoea, peripheral oedema. SUI causes: poor urethral support, loss of urothelial seal, low sacral serotonin. Sex steroids influence bladder receptors and growth."
 ],
 "s": "Ch 110 Bladder and urethral physiology",
 "c": [
