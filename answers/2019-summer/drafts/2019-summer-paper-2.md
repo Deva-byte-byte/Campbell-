@@ -134,7 +134,7 @@ HG T1 on TURBT → re-TURBT at 2–6 weeks
 - **Relative:** gross obesity or skeletal deformity preventing targeting; pacemaker (reprogramme).
 
 ### Predictors of success
-- **Stone:** size (most important); density <900 HU (Hounsfield units) best, >1000 HU predicts failure; composition; impaction ("rim" of oedematous ureteric wall on CT).
+- **Stone:** size (most important); density <900 HU (Hounsfield units) best, >1000 HU predicts failure; composition; impaction (a "ring" of thick ureteric wall around the stone on CT).
 - **Patient:** SSD (skin-to-stone distance) >10 cm predicts failure.
 - **Lower pole anatomy (EAU):** steep infundibulopelvic angle, long infundibulum (>10 mm) and narrow infundibulum (<5 mm) hinder fragment clearance.
 - **Triple D score:** stone density, stone volume and skin-to-stone distance.
@@ -204,7 +204,7 @@ HG T1 on TURBT → re-TURBT at 2–6 weeks
 | Meatitis, early narrowing (child) | Topical 0.05% clobetasol; gentle dilation; nappy hygiene |
 | Symptomatic stenosis (child) | **Ventral meatotomy** (topical EMLA in clinic or general anaesthesia). Parents spread the edges with a dilator or ointment tip 3 times a day for 7–10 days |
 | Simple adult stenosis | Ventral meatotomy with 3 sutures (apex and each side) uniting mucosa to glans skin; meatal dilator afterwards |
-| Scarred or recurrent | Dorsal meatotomy (Y-V plasty); meatoplasty (Malone or Blandy-type) |
+| Scarred or recurrent | Dorsal meatotomy (Y-V plasty after excising the scar ridge); effective but poorer cosmesis |
 | Fossa navicularis involved | Urethroplasty: penile skin island flap (Jordan, De Sy), not in LS |
 | **LS** | Topical steroid; extended meatotomy; **buccal mucosa graft** (never genital skin); staged repair for long strictures; perineal urethrostomy for pananterior disease |
 | Unfit or elderly | Self-dilation with clobetasol as lubricant |
@@ -236,7 +236,7 @@ HG T1 on TURBT → re-TURBT at 2–6 weeks
 ### Instrument
 | Feature | Details |
 |---|---|
-| Tip | About 7.5–8.5 Fr |
+| Tip | About 4.5–7.5 Fr (shaft larger) |
 | Working channel | 3.6 Fr (laser fibre, basket) |
 | Deflection | ≥270° both ways |
 | Types | **Fibreoptic** (image degrades with fibre breakage); **digital** (chip on tip, better image); **single-use** (no repair or sterilisation cost) |
@@ -389,7 +389,7 @@ HG T1 on TURBT → re-TURBT at 2–6 weeks
    - About 80% respond: pain and symptoms settle in days, ESR falls, the mass shrinks.
    - Relapse on tapering is 25–50%. Active inflammation predicts response; burnt-out fibrosis responds poorly.
 4. **Tamoxifen:** thought to inhibit fibroblasts. **Vaglio RCT (randomised controlled trial; Lancet 2011):** relapse 17% with prednisone vs 50% with tamoxifen, so steroids remain first line.
-5. **Steroid-sparing or second line:** mycophenolate mofetil (with steroids), azathioprine, methotrexate, cyclophosphamide, ciclosporin; medroxyprogesterone.
+5. **Steroid-sparing or second line:** mycophenolate mofetil (with steroids), azathioprine, cyclophosphamide, ciclosporin, colchicine; medroxyprogesterone.
 6. **Rituximab:** for refractory or IgG4-related disease.
 
 ### Monitoring
