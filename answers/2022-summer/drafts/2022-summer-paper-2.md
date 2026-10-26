@@ -46,7 +46,7 @@
 | **Hyperprolactinaemia** | Prolactin inhibits GnRH | Repeat level; pituitary MRI (magnetic resonance imaging) if high; **cabergoline** (fewer side effects than bromocriptine) |
 | Partial hypogonadism, obesity | Aromatisation of T to E2 suppresses LH | Weight loss; **clomiphene 25 mg daily** (off-label), **anastrozole 1 mg daily** or letrozole if T:E2 <10 |
 | **CAH** | Adrenal androgens suppress gonadotropins; testicular adrenal rest tumours | Glucocorticoids |
-| Primary testicular failure (Klinefelter 47,XXY) | Germ cells absent or few | No drug restores sperm; exogenous T worsens it; **micro-TESE** |
+| Primary testicular failure (Klinefelter 47,XXY) | Germ cells absent or few | No drug restores sperm; exogenous T worsens it; **micro-TESE** (microdissection testicular sperm extraction) |
 
 ### 4. Surgical role
 | Problem | Operation |
@@ -54,7 +54,7 @@
 | Clinical varicocele + abnormal semen | **Microsurgical subinguinal varicocelectomy** or embolisation: improves semen, DNA fragmentation and pregnancy. Not for US-only varicocele |
 | Vasal or epididymal obstruction | **Vasovasostomy / vasoepididymostomy** (microsurgical intussusception) |
 | EDO | **TURED** (transurethral resection of ejaculatory ducts) |
-| Non-obstructive azoospermia | **Micro-TESE** (microdissection testicular sperm extraction), best technique; no operation for **AZFa/AZFb** deletions (no sperm found) |
+| Non-obstructive azoospermia | **Micro-TESE**, best technique; no operation for **AZFa/AZFb** deletions (no sperm found) |
 | Unreconstructable obstruction | PESA/MESA (percutaneous/microsurgical epididymal sperm aspiration), TESA (testicular sperm aspiration) |
 | Retrograde ejaculation; anejaculation | Sympathomimetics, urine sperm retrieval; **penile vibratory stimulation**, electroejaculation |
 
@@ -94,7 +94,7 @@
 | Patient | Older, smokers, diabetic, vascular disease | Young women |
 | Site | **Ostium and proximal third** (aortic plaque) | **Mid and distal artery, branches**; "string of beads" (medial fibroplasia, commonest type) |
 | Course | Progresses to occlusion; renal function lost | Rarely occludes |
-| Treatment | Medical first | **Balloon angioplasty without stent**; good BP response |
+| Treatment | Medical first | **Balloon angioplasty without stent**; good BP (blood pressure) response |
 
 **Also know:** Takayasu arteritis, neurofibromatosis, midaortic syndrome (children), renal artery aneurysm, dissection, embolism, Page kidney, transplant RAS.
 
@@ -117,12 +117,12 @@
 - Chronic hypoperfusion → hypoxia, inflammation, microvascular rarefaction → **tubulointerstitial fibrosis** and atrophy. Atheroemboli and hypertensive damage add injury. Early disease is reversible ("hibernating" kidney); fibrosis is not.
 
 ### Clinical clues
-- Onset <30 years (FMD) or severe hypertension >55 years; **resistant** (≥3 drugs) or accelerated hypertension; sudden worsening of controlled BP.
+- Onset <30 years (FMD) or severe hypertension after 55 years; **resistant** (≥3 drugs) or accelerated hypertension; sudden worsening of controlled BP.
 - **Creatinine rise >30% after ACE inhibitor/ARB**; **flash pulmonary oedema**; kidney size difference >1.5 cm; abdominal bruit; hypokalaemia.
 
 ### Investigations
 - **Duplex Doppler US:** high peak systolic velocity, renal/aortic ratio >3.5; **RI (resistive index) >0.8** predicts poor response (parenchymal disease).
-- **CT angiography**; **MR angiography** (gadolinium; caution if eGFR <30 mL/min).
+- **CT angiography**; **MR angiography** (gadolinium; caution if eGFR [estimated GFR] <30 mL/min).
 - **Captopril renography (DTPA, diethylenetriaminepentaacetic acid):** delayed uptake after captopril indicates renin-dependence.
 - **Catheter angiography** (gold standard) with **translesional pressure gradient**; done when intervention is planned. Renal vein renin ratio >1.5 lateralises.
 
@@ -180,8 +180,8 @@
 ### Agents
 | Agent | Vector, mechanism | Key data |
 |---|---|---|
-| **Nadofaragene firadenovec** | **Replication-incompetent adenovirus type 5** carrying the **interferon-α2b gene**, with **Syn3** surfactant. Urothelium keeps secreting interferon → apoptosis (TRAIL pathway) and immunity, overcoming the short dwell of interferon protein | 75 mL every **3 months**, 1-hour dwell. CIS: **complete response 53% at 3 months, 24% at 12 months**; papillary high-grade RFS (recurrence-free survival) 44% at 12 months; serious events 2%. **FDA (Food and Drug Administration) approved December 2022**, first bladder gene therapy |
-| **Cretostimogene grenadenorepvec (CG0070)** | **Replication-competent oncolytic adenovirus**: E2F promoter limits replication to RB (retinoblastoma) pathway-defective tumour cells; **GM-CSF (granulocyte-macrophage colony-stimulating factor)** transgene adds immunity | Two 6-week inductions + maintenance; with pembrolizumab about two-thirds CR at 12 months; phase III ongoing |
+| **Nadofaragene firadenovec** | **Replication-incompetent adenovirus type 5** carrying the **interferon-α2b gene**, with **Syn3** surfactant. Urothelium keeps secreting interferon → apoptosis (TRAIL, TNF-related apoptosis-inducing ligand) and immunity, overcoming the short dwell of interferon protein | 75 mL every **3 months**, 1-hour dwell. CIS: **complete response 53% at 3 months, 24% at 12 months**; papillary high-grade RFS (recurrence-free survival) 44% at 12 months; serious events 2%. **FDA (Food and Drug Administration) approved December 2022**, first bladder gene therapy |
+| **Cretostimogene grenadenorepvec (CG0070)** | **Replication-competent oncolytic adenovirus**: E2F promoter limits replication to RB (retinoblastoma) pathway-defective tumour cells; **GM-CSF (granulocyte-macrophage colony-stimulating factor)** transgene adds immunity | Two 6-week inductions + maintenance; single-arm phase III BOND-003 in BCG-unresponsive CIS: high CR (complete response) rate; combination with pembrolizumab under study |
 | **Inodiftagene vixteplasmid (BC-819)** | Plasmid: **diphtheria toxin A** gene under tumour-active **H19** promoter | Investigational |
 
 ### Administration and toxicity
@@ -210,7 +210,7 @@
 - Commonest gender-affirming genital operation for transgender women: a functional, aesthetic, sensate vulva and vagina.
 
 ### Preparation
-- **WPATH (World Professional Association for Transgender Health) SOC8:** one assessment, **6 months of hormones** before gonadectomy.
+- **WPATH (World Professional Association for Transgender Health) SOC8 (Standards of Care, version 8):** one assessment, **6 months of hormones** before gonadectomy.
 - **Permanent hair removal** of the scrotal graft area (prevents intravaginal hair).
 - BMI (body mass index) usually ≤35 kg/m²; stop smoking; sperm banking; continue oestrogen.
 
@@ -266,7 +266,7 @@ Lithotomy; tranexamic acid 1 g; catheter
 **Type:** SAQ (10 marks)
 
 ### Definition
-- Commonest **intrinsic** cause of AKI (acute kidney injury): tubular injury from **ischaemia or toxins**. A misnomer: cell death is mainly **apoptosis**.
+- ATN is the commonest **intrinsic** cause of AKI (acute kidney injury): tubular injury from **ischaemia or toxins**. A misnomer: cell death is mainly **apoptosis**.
 
 ### Causes
 | Ischaemic | Toxic |
