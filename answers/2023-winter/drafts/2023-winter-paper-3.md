@@ -56,7 +56,7 @@
 | Retrograde pyelography | When renal function is poor |
 | MRI (magnetic resonance imaging) | Low T1; **high T2 signal means active disease**; enhancement falls with treatment |
 | **PET-CT (positron emission tomography)** | **Most sensitive test of activity**; guides biopsy and follow-up |
-| Diuretic renography | Split function before deciding repair or nephrectomy |
+| Renography | Split function (repair or nephrectomy) |
 
 - **Biopsy** (CT-guided or at ureterolysis) if malignancy is suspected; may be omitted with no malignancy history, no lymphadenopathy and typical imaging.
 
@@ -93,7 +93,7 @@ RPF with hydronephrosis
   1. Pre-place stents to identify the ureters.
   2. Mobilise the colon; take deep biopsies for frozen section.
   3. Start at the distal, non-dilated ureter.
-  4. "Split and roll": pass a right-angle clamp between ureter and plaque and incise the fibrosis over it.
+  4. "Split and roll": right-angle clamp between ureter and plaque; incise the fibrosis over it.
   5. Close any ureterotomy with absorbable suture.
   6. **Separate the ureter from the fibrotic bed so it cannot be re-encased.**
 
@@ -455,14 +455,14 @@ Ureteric injury suspected
 - **Hierarchy of proof:** positive culture or DNA → caseating granulomas on histology → clinical picture with response to treatment.
 
 ### Specimen
-- **Early-morning first-void urine, 3–5 samples on consecutive days**, sent at once (acidic urine kills bacilli). Stop antibiotics, especially fluoroquinolones, beforehand.
+- **Early-morning first-void urine, 3–5 samples on consecutive days**, sent at once (acidic urine kills bacilli). Avoid prior fluoroquinolones.
 - Also tissue, pus, FNAC (fine-needle aspiration cytology) or semen.
 
 ### Tests
 
 | Test | Method | Comment |
 |---|---|---|
-| **Urine routine** | Microscopy | **Sterile pyuria** ± haematuria in >90%; acidic urine |
+| **Urine routine** | Microscopy | **Sterile pyuria** ± haematuria in >90% |
 | **ZN (Ziehl–Neelsen) smear** | Carbol fuchsin, acid-alcohol, methylene blue: red bacilli. Auramine fluorescence is more sensitive | Sensitivity <50%; saprophytic mycobacteria give false positives |
 | **Culture: gold standard** | Decontaminate and concentrate. **LJ (Löwenstein–Jensen)** solid: 4–6 weeks. **MGIT (mycobacteria growth indicator tube)** liquid: about 10 days | 80–90% sensitivity with ideal technique; gives DST (drug-susceptibility testing); monitors treatment |
 | **NAAT (nucleic acid amplification test): GeneXpert MTB/RIF** | Automated cartridge PCR (polymerase chain reaction); about 2 hours | Detects MTB and **rifampicin resistance** (MDR [multidrug-resistant] TB surrogate). **Xpert Ultra** is more sensitive. Cannot monitor treatment |

@@ -127,7 +127,7 @@
 ### Applications
 - **Incontinent diversion:** ileal conduit (10–15 cm ileum, 10–15 cm from ileocaecal valve); colon conduit after pelvic radiation.
 - **Continent cutaneous pouch** (Indiana, Mainz, Kock) with appendix or tapered ileum channel.
-- **Orthotopic neobladder** (Studer, Hautmann): about 40–60 cm detubularised ileum to urethra.
+- **Orthotopic neobladder** (Studer, Hautmann): about 50–70 cm detubularised ileum joined to the urethra.
 - **Ureterosigmoidostomy:** now rare (acidosis, cancer).
 - **Augmentation cystoplasty** ("clam" ileocystoplasty, ~25 cm ileum) for refractory neurogenic or small contracted bladder; needs CIC (clean intermittent catheterisation).
 - **Ileal ureter:** isoperistaltic ileum for long defects. Contraindicated if creatinine >2 mg/dL, bladder outlet obstruction, inflammatory bowel disease or radiation enteritis.
@@ -183,7 +183,7 @@
 ### Methods
 **1. Serum creatinine and eGFR (estimated GFR)**
 - Creatinine comes from muscle; freely filtered but also secreted, so it **overestimates GFR** as function falls.
-- Levels vary with **muscle mass, diet and age**; trimethoprim and cimetidine block secretion and raise creatinine without injury.
+- Varies with **muscle mass, diet and age**; trimethoprim blocks secretion.
 - **CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration) 2021 equation:** age and sex, **no race term**; currently recommended. MDRD (Modification of Diet in Renal Disease) and Cockcroft–Gault are older.
 
 **2. Cystatin C**
@@ -204,7 +204,7 @@
 ### Clinical use
 - **CKD (chronic kidney disease) staging (KDIGO, Kidney Disease: Improving Global Outcomes):** G1 ≥90, G2 60–89, G3a 45–59, G3b 30–44, G4 15–29, G5 <15 mL/min/1.73 m², always with albuminuria (ACR, albumin-to-creatinine ratio).
 - **Living donor (KDIGO 2017):** ≥90 accept, 60–89 individualise, <60 decline; confirm with mGFR.
-- **Urology:** contrast and drug dosing, cisplatin eligibility (creatinine clearance >50–60), continent diversion (>35 mL/min), partial versus radical nephrectomy.
+- **Urology:** drug and contrast dosing, cisplatin eligibility, continent diversion (>35 mL/min), partial versus radical nephrectomy.
 - **Acute change:** eGFR is invalid when function is unstable; AKI (acute kidney injury) uses creatinine change and urine output. NGAL (neutrophil gelatinase-associated lipocalin) is emerging.
 
 **Diagram to draw:** plasma tracer clearance curve after a single injection.
@@ -267,7 +267,7 @@
 
 ### Causes
 - **Lost immune surveillance** from immunosuppression (dose and duration matter; depleting antibodies add risk).
-- **Oncogenic viruses:** EBV (Epstein–Barr virus) → PTLD (post-transplant lymphoproliferative disorder); HHV-8 (human herpesvirus-8) → Kaposi sarcoma; HPV (human papillomavirus) → skin and anogenital cancer; hepatitis B/C → liver cancer; BK virus is linked to urothelial cancer.
+- **Oncogenic viruses:** EBV (Epstein–Barr virus) → PTLD (post-transplant lymphoproliferative disorder); HHV-8 (human herpesvirus-8) → Kaposi sarcoma; HPV (human papillomavirus) → skin and anogenital cancer; hepatitis B/C → liver cancer.
 - **Direct drug effects:** azathioprine sensitises skin to UV (ultraviolet) light; calcineurin inhibitors promote tumour growth. mTOR (mammalian target of rapamycin) inhibitors are **antitumour**.
 - **Pre-existing risk:** ESRD (end-stage renal disease), acquired cystic disease, analgesic nephropathy; rarely donor-transmitted.
 
@@ -288,7 +288,7 @@
 
 ### Prevention and screening
 - Pre-transplant cancer screening and waiting periods (none after curative treatment of small RCC <3 cm, Gleason 6 prostate cancer, superficial bladder cancer).
-- Sun protection and yearly skin examination; age-appropriate screening; EBV monitoring in high-risk recipients.
+- Sun protection, yearly skin examination, age-appropriate screening.
 - KDIGO (Kidney Disease: Improving Global Outcomes) does **not** endorse routine native-kidney screening; screen only high-risk recipients.
 
 **Diagram to draw:** pie chart of post-transplant cancers (skin largest).
@@ -327,13 +327,11 @@
 - **Sarcomatoid features:** respond well to checkpoint inhibitors.
 - **Gene expression signatures:** IMmotion150 showed high T-effector signature tumours do better with atezolizumab–bevacizumab; high angiogenic signature tumours do well with sunitinib. Investigational.
 - **Genomic:** BAP1 loss and CDKN2A loss indicate poor prognosis; PBRM1 data conflicting. MET alterations in papillary RCC (cabozantinib); FH (fumarate hydratase) deficiency. TMB (tumour mutational burden) is low and not predictive.
-- **Grade:** WHO/ISUP (International Society of Urological Pathology) grade 4, necrosis.
 
 ### Circulating and other biomarkers
 - **KIM-1 (kidney injury molecule-1):** high serum levels predict recurrence and benefit from adjuvant immunotherapy (investigational).
 - **ctDNA (circulating tumour DNA):** RCC sheds little DNA; methylation assays are promising.
-- **Microbiome:** antibiotics during checkpoint therapy reduced survival.
-- **Also know:** sunitinib-induced hypertension linked to better outcome.
+- **Also know:** antibiotics during checkpoint therapy reduced survival (microbiome); sunitinib-induced hypertension is linked to better outcome.
 
 **Diagram to draw:** IMDC risk groups with survival curves.
 
@@ -396,28 +394,28 @@
 
 ### Pacemaker and electrical activity
 - Peristalsis is **myogenic**: the excised or denervated ureter keeps contracting. Nerves carry pain and only modulate.
-- **Primary pacemaker: atypical smooth muscle cells** at the pelvicalyceal border (minor calyces, proximal pelvis). They fire spontaneously through HCN (hyperpolarisation-activated cyclic nucleotide-gated) channels.
-- **ICC-like (interstitial cells of Cajal-like) cells** (c-Kit positive) lie in the pelvis and UPJ; they couple pacemaker signals to typical smooth muscle and act as back-up pacemakers.
+- **Primary pacemaker: atypical smooth muscle cells** at the pelvicalyceal border; they fire spontaneously (HCN, hyperpolarisation-activated cyclic nucleotide-gated, channels).
+- **ICC-like (interstitial cells of Cajal-like) cells** (c-Kit positive) in the pelvis and UPJ relay the signal to typical smooth muscle and act as back-up pacemakers.
 - Signal spreads through **gap junctions**. Calcium entry gives a plateau action potential; calcium–calmodulin activates myosin light-chain kinase, causing contraction.
 
 ### Bolus formation and transport
-1. Urine fills calyces and pelvis at low pressure (about 0–10 cm H₂O); the UPJ is closed.
-2. Pelvic contraction raises pressure and pushes urine through the open UPJ into the upper ureter.
-3. The UPJ closes behind, forming a **bolus**.
-4. The ureteric walls **coapt** behind the bolus; the wave (2–6 per minute, 20–80 cm H₂O) carries it to the bladder.
+1. Urine fills the pelvis at low pressure; the UPJ is closed.
+2. Pelvic contraction pushes urine through the opening UPJ into the upper ureter.
+3. The UPJ closes behind it, forming a **bolus**.
+4. Ureteric walls **coapt** behind the bolus; the wave (2–6 per minute, 20–80 cm H₂O) carries it to the bladder.
 - At **low flow**, the UPJ acts as a filter: several pelvic contractions occur for each ureteric contraction.
-- As **flow rises**, ureteric frequency rises to 1:1 with the pelvis, then bolus volume rises.
+- As **flow rises**, ureteric frequency reaches 1:1, then bolus volume rises.
 - At **very high flow**, boluses merge into a continuous column and the ureter dilates **without obstruction**.
 
 ### Effect of obstruction
-- **Acute:** stronger, more frequent contractions; pressure rises.
+- **Acute:** stronger, more frequent contractions.
 - **Chronic:** dilatation, walls fail to coapt, peristalsis becomes ineffective; raised pelvic pressure lowers GFR (glomerular filtration rate).
-- **Intrinsic UPJO (UPJ obstruction):** abnormal circular muscle, excess collagen, fewer ICC-like cells and nerves. An **aperistaltic segment** cannot transmit the wave (functional obstruction).
-- **Also know:** endotoxin and progesterone reduce peristalsis; α-blockers relax the ureter. Diuretic renogram and Whitaker test (pressure difference >12 cm H₂O suggests obstruction) assess transport.
+- **Intrinsic UPJO (UPJ obstruction):** abnormal muscle, excess collagen, fewer ICC-like cells, so an **aperistaltic segment** cannot transmit the wave.
+- **Also know:** endotoxin and progesterone reduce peristalsis. Diuretic renogram and Whitaker test (pressure difference >12 cm H₂O suggests obstruction) assess transport.
 
 **Diagram to draw:** pelvis, UPJ and ureter showing bolus formation and coaptation.
 
 > **Key points to remember:**
 > - Myogenic peristalsis from atypical smooth muscle pacemakers; ICC-like cells back up.
-> - Low flow: several pelvic beats per ureteric beat; high flow: column, dilatation without obstruction.
+> - Low flow: several pelvic beats per ureteric beat; very high flow: dilatation without obstruction.
 > - Intrinsic UPJO: aperistaltic segment with fewer ICC-like cells.
