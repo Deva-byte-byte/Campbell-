@@ -90,11 +90,11 @@
 4. **Absorption:** the common nephric duct is taken into the UGS (current view: removed by **apoptosis**), so ureter and duct open separately.
 5. **Rotation (Mackie and Stephens):** the ureteric orifice moves **cranially and laterally** to the bladder base; the duct stays caudal as the ejaculatory duct (Gartner duct in females).
 6. **Trigone:** classically ureteral; lineage tracing shows mostly bladder muscle. **Chwalla membrane** over the orifice ruptures; persistence explains ureterocele.
-7. **Maturation:** ureteric muscle joins the detrusor as **Waldeyer's sheath**; the tunnel lengthens with growth, so VUR resolves with age.
+7. **Maturation:** ureteric muscle joins the detrusor as **Waldeyer's sheath**; the tunnel lengthens with growth, so VUR (vesicoureteral reflux) resolves with age.
 
 | Bud origin | Orifice | Result |
 |---|---|---|
-| Normal | Trigone corner | Tunnel length to diameter about **5:1** (Paquin); refluxing UVJs about 1.4:1 |
+| Normal | Trigone corner | Tunnel length to diameter about **5:1** (Paquin); refluxing junctions about 1.4:1 |
 | Too low (early contact) | High, **lateral** | Short tunnel → **primary VUR**; abnormal bud–blastema contact → dysplasia |
 | Too high (late contact) | Caudal, **medial** | **Ectopic ureter** (bladder neck, urethra, Wolffian structures), often obstructed |
 | Two buds | Duplex | **Weigert–Meyer rule:** upper pole caudal-medial (ectopia, ureterocele); lower pole lateral (reflux) |
@@ -102,9 +102,9 @@
 - **Antireflux mechanism:** passive flap valve, ureteric peristalsis, low bladder pressure.
 - **Concept:** bud position fixes both orifice and kidney, so high-grade VUR and dysplasia coexist.
 
-### Part B: Management of primary VUR (vesicoureteral reflux)
+### Part B: Management of primary VUR
 - **Primary:** congenitally short tunnel with a normal bladder. **Secondary:** high bladder pressure (PUV (posterior urethral valves), neurogenic bladder, BBD (bladder and bowel dysfunction)).
-- In about 30% of children with UTI and about 30% of siblings.
+- In about 30% of children with UTI (urinary tract infection) and about 30% of siblings.
 - **Infection, not reflux, injures the kidney.** The aim is to prevent febrile UTI and scarring while VUR resolves.
 
 **International grading (VCUG, voiding cystourethrogram)**
@@ -126,16 +126,16 @@
 
 **Medical management**
 - **Treat BBD first:** timed voiding, constipation treatment, anticholinergics.
-- **CAP (continuous antibiotic prophylaxis):** one low dose at night. Trimethoprim or amoxicillin under 2 months; TMP-SMX or nitrofurantoin over 2 months.
+- **CAP (continuous antibiotic prophylaxis):** one low dose at night. Trimethoprim or amoxicillin under 2 months; TMP-SMX (trimethoprim-sulfamethoxazole) or nitrofurantoin over 2 months.
 - Boys with phimosis: circumcision or topical steroid (about 4 circumcisions prevent one UTI).
-- **RIVUR (2014):** recurrent UTI fell from 23.6% to 12.9% on TMP-SMX; **scarring unchanged**.
+- **RIVUR (Randomized Intervention for Children with Vesicoureteral Reflux, 2014):** recurrent UTI fell from 23.6% to 12.9% on TMP-SMX; **scarring unchanged**.
 - **Swedish Reflux Trial** (grade III–IV): febrile UTI in girls 19% on CAP, 23% after endoscopy, 57% on surveillance; no difference in boys.
 - IRSC (International Reflux Study in Children), Birmingham: surgery equalled medical care for scarring.
 - Low-risk children: observation without CAP.
 
 **Indications for correction:** breakthrough febrile UTI on CAP; new scars or falling function; persistent high grade; non-adherence; parental choice.
 
-**Endoscopic injection:** Dx/HA (dextranomer/hyaluronic acid) by STING or HIT; about 90% for low grade after one injection (see 2020-Summer Paper 4, Q3c).
+**Endoscopic injection:** Dx/HA (dextranomer/hyaluronic acid) by STING (subureteric Teflon injection) or HIT (hydrodistension implantation technique); about 90% for low grade after one injection (see 2020-Summer Paper 4, Q3c).
 
 **Ureteric reimplantation:** open success **95.9%** (Elder 1997).
 | Technique | Tunnel | Note |
@@ -213,7 +213,7 @@ Breakthrough UTI or new scar -> injection or reimplant
 > - Commonest primary GN; haematuria with upper respiratory infection.
 > - Normal complement; biopsy shows mesangial IgA.
 > - Oxford MEST-C; 20–30% ESKD.
-> - RAS blockade is the mainstay.
+> - ACE inhibitor or ARB is the mainstay.
 
 ---
 
@@ -426,7 +426,7 @@ Breakthrough UTI or new scar -> injection or reimplant
 | **L**ocation to polar lines | Entirely above or below | Crosses a polar line | >50% across, crosses midline, or entirely between |
 - Suffix "h": touches main renal vessels. **Total 4–12:** low 4–6, moderate 7–9, high 10–12.
 
-### PADUA score (Ficarra, 2009)
+### PADUA (Preoperative Aspects and Dimensions Used for an Anatomical classification) score (Ficarra, 2009)
 - Polar location, exophytic rate, renal rim (lateral or medial), renal sinus, collecting system and size, plus anterior/posterior face. **Total 6–14:** 6–7 low, 8–9 intermediate, ≥10 high risk.
 
 ### C-index (centrality index)
