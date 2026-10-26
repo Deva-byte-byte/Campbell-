@@ -331,7 +331,7 @@ Wire cannot be passed / dense stricture / urethral disruption
 | Peripheral | **DWI** | DWI 3 + DCE positive → 4 |
 | Transition | **T2W** | T2W 3 + DWI 5 → 4; T2W 2 + DWI ≥4 → 3 |
 - **DCE only upgrades PZ 3 to 4**; it never changes 4–5 or TZ scores.
-- Cancer in about one-third of PI-RADS 3, half of 4, 90% of 5.
+- Cancer in about one-third of PI-RADS 3, over half of 4, 90% of 5.
 - **PRECISE** score (1–5) tracks change during active surveillance.
 
 ### Clinical use and evidence
