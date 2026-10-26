@@ -341,7 +341,7 @@ Lower midline incision → anterior cystotomy
 - **Epithelioid AML**: little fat; aggressive (venous extension, metastasis) → treat as RCC (renal cell carcinoma).
 
 ### Clinical features
-- Mostly incidental. Larger tumours bleed: **Wunderlich syndrome** (spontaneous retroperitoneal haemorrhage); Lenk triad of flank pain, mass, shock. Haematuria, hypertension, CKD (chronic kidney disease) in TSC.
+- Mostly incidental. Large tumours bleed: **Wunderlich syndrome** (spontaneous retroperitoneal haemorrhage; Lenk triad: flank pain, mass, shock). CKD (chronic kidney disease) in TSC.
 
 ### Diagnosis
 - **CT (computed tomography): macroscopic fat (about −15 to −20 HU) on non-contrast images is diagnostic.**
@@ -357,13 +357,13 @@ Lower midline incision → anterior cystotomy
 | Asymptomatic sporadic with **>6 cm, aneurysm >5 mm, growth >0.25 cm/year, childbearing age or pregnancy**, poor access to care | Active treatment |
 | None of these | **Surveillance**: US or CT at 6 and 12 months, then yearly |
 | TSC, asymptomatic, **>3 cm** | **Everolimus**; MRI every 1–3 years |
-- The old **4 cm** cut-off overtreats; most guidelines now favour surveillance (EAU 2023).
+- The old **4 cm** cut-off overtreats; EAU (European Association of Urology) 2023 favours surveillance for most.
 
 ### Treatments
 - **SAE:** first line; **post-embolisation syndrome** (fever, pain, leucocytosis) common; abscess, infarction.
 - **Partial nephrectomy:** preferred surgery, essential in TSC (multifocal, recurrent).
-- **Thermal ablation:** RFA (radiofrequency ablation), cryoablation; limited data.
-- **Everolimus (EXIST-2):** ≥50% volume reduction in **42% vs 0%** with placebo; side effects stomatitis, acne, hyperlipidaemia.
+- **Thermal ablation** (radiofrequency, cryo): limited data.
+- **Everolimus (EXIST-2):** ≥50% shrinkage in **42% vs 0%** (placebo); stomatitis, acne, hyperlipidaemia.
 
 **Diagram to draw:** management algorithm by bleeding, symptoms, size and TSC.
 
@@ -371,5 +371,54 @@ Lower midline incision → anterior cystotomy
 > - Macroscopic fat on non-contrast CT is diagnostic.
 > - Treat if >6 cm, aneurysm >5 mm, growth, pregnancy or symptoms.
 > - SAE first for bleeding; partial nephrectomy preferred; everolimus for TSC >3 cm.
+
+---
+
+## Q3e. Role of auto transplant of kidney in Urology.
+**Type:** SAQ (10 marks)
+(also answered in 2020-Summer Paper 3, Q3c)
+
+### Definition
+- Removing a kidney and re-implanting it, usually in the **ipsilateral iliac fossa** on the iliac vessels, with **bench (ex vivo) surgery** if needed. First done in **1963** for proximal ureteric injury.
+- **Principle:** bringing the kidney to the bladder replaces the ureter without bowel; the bench gives a cold, bloodless field.
+
+### Role (indications)
+| Group | Examples |
+|---|---|
+| **Ureteric loss (commonest)** | Long iatrogenic or traumatic loss; failed repairs (**delayed, never acute**) |
+| **RPF (retroperitoneal fibrosis)** | When ureterolysis is impossible and function is satisfactory |
+| **Tumour** | Total ureterectomy for UTUC (upper tract urothelial carcinoma), solitary kidney; bench partial nephrectomy; left RCC (renal cell carcinoma) needing suprarenal caval resection (new drainage for the right kidney) |
+| **Vascular** | Complex branch renal artery aneurysm, stenosis or AVM (arteriovenous malformation) unsuitable for endovascular repair; nutcracker syndrome |
+| **Pain** | Selected loin pain–haematuria syndrome |
+- **Chosen over ileal ureter** when the other kidney is absent or poor, or bowel is unsuitable (creatinine >2 mg/dL, inflammatory bowel disease, radiation enteritis).
+- **Contraindications:** poor function, severe iliac atherosclerosis, unfit.
+
+### Procedure
+```
+CT (computed tomography) angiography, renogram
+→ harvest as for live donation (open, laparoscopic, robotic):
+  maximal vessel length, preserve ureteric blood supply
+→ cold perfusion ± bench repair
+→ Gibson incision, extraperitoneal iliac fossa
+→ vein to external iliac vein; artery to external iliac
+  (end-to-side) or internal iliac (end-to-end)
+→ pyelovesicostomy (± Boari flap) or ureteroneocystostomy
+→ stent, catheter, drain
+```
+- Laparoscopic harvest: faster recovery; **robotic autotransplantation** emerging.
+
+### Complications and outcome
+- Thrombosis, bleeding, urine leak, stricture, lymphocele, infection.
+- **Renal unit loss 5–10%**; major (Clavien–Dindo ≥III) complications about 15–20%.
+- **Long-term success about 90%.** Doppler ultrasound early; renogram later.
+
+**Also know:** alternatives: Boari flap, TUU (transureteroureterostomy), ileal ureter, buccal ureteroplasty, renal descensus.
+
+**Diagram to draw:** kidney in the iliac fossa with vascular anastomoses and pyelovesicostomy.
+
+> **Key points to remember:**
+> - For long ureteric loss when the other kidney is poor or bowel unsuitable.
+> - Delayed setting only; bench surgery for complex vascular or tumour cases.
+> - Unit loss 5–10%; success about 90%.
 
 ---

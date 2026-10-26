@@ -188,7 +188,7 @@
 **Type:** SAQ (10 marks)
 
 ### Definition
-- A premalignant (precursor) lesion is altered tissue with a raised risk of invasive cancer, often **intraepithelial neoplasia with an intact basement membrane**. Treating it prevents cancer.
+- Altered tissue with a raised risk of invasive cancer, often **intraepithelial neoplasia with an intact basement membrane**. Treating it prevents cancer.
 
 ### Penis
 | Lesion | Key points |
@@ -260,7 +260,7 @@
 - **Admit**; IV (intravenous) β-lactam (± gentamicin) until afebrile, then oral to complete ≥14 days. No improvement by **72 h → ultrasound** (stone, obstruction, abscess).
 
 ### Prophylaxis
-- After one pyelonephritis or two cystitis episodes: nightly nitrofurantoin or cephalexin until delivery; close culture surveillance is an alternative (Cochrane 2015).
+- After one pyelonephritis or two cystitis episodes: nightly nitrofurantoin or cephalexin until delivery, or close culture surveillance (Cochrane 2015).
 - **Also know:** urinary diversion or augmentation, SCI (spinal cord injury): most treat ASB in pregnancy.
 
 **Diagram to draw:** right hydroureter compressed at the pelvic brim.
@@ -302,7 +302,7 @@
 - Extrinsic compression (malignancy, radiation), debris, encrustation. Obstructive symptoms → image; change stent, **PCN** (percutaneous nephrostomy) or **metallic stent**.
 
 ### Prevention
-- Indication-based stenting; correct length; **stent register** and removal date; long-term stents changed every 3–6 months (local practice); **pregnancy: change about every 4 weeks**.
+- Stent only when indicated; correct length; **stent register**; long-term stents changed every 3–6 months (local practice); **pregnancy: about every 4 weeks**.
 
 **Diagram to draw:** DJ stent in situ with bladder coil on the trigone and arrows showing reflux.
 
@@ -318,7 +318,7 @@
 (also answered in 2017-Summer Paper 1, Q3f)
 
 ### Definition
-- Normal excretion is **80–150 mg/day** (albumin <30 mg/day). The glomerulus holds back albumin; the proximal tubule reabsorbs filtered small proteins.
+- Normal **80–150 mg/day** (albumin <30 mg/day). The glomerulus holds back albumin; the proximal tubule reabsorbs small proteins.
 - **Nephrotic range:** >3.5 g/day with hypoalbuminaemia, oedema and hyperlipidaemia.
 
 ### Types
@@ -387,7 +387,7 @@ Positive dipstick → repeat; exclude UTI, fever, exercise
 - Regions of interest over cortex and pelvis; then upright images.
 
 ### Outputs
-- **DRF (differential renal function):** area under each curve at 1–3 min; normal 45–55%.
+- **DRF (differential renal function)** from counts at 1–3 min; normal 45–55%.
 - **Drainage half-time (T½)** from maximal filling:
 
 | T½ after furosemide | Interpretation |
@@ -396,7 +396,7 @@ Positive dipstick → repeat; exclude UTI, fever, exercise
 | 10–20 min | Equivocal |
 | >20 min | Obstructed |
 
-- **Curve patterns (O'Reilly):** I normal; II obstructed (rising, no response); IIIa dilated non-obstructed (prompt fall after furosemide); IIIb equivocal.
+- **O'Reilly curves:** I normal; II obstructed (keeps rising); IIIa dilated, non-obstructed (falls after furosemide); IIIb equivocal.
 - **Also know:** P40 (activity remaining at 40 min); output efficiency; NORA (normalised residual activity).
 
 ### Indications for pyeloplasty from renography
@@ -410,10 +410,10 @@ Positive dipstick → repeat; exclude UTI, fever, exercise
 - After pyeloplasty: renogram 1 month after stent removal; spontaneous drainage means success.
 - Equivocal → **Whitaker test** (>15–20 cm H₂O obstructed) or magnetic resonance urography.
 
-**Diagram to draw:** renogram curves: normal, obstructed (rising) and dilated non-obstructed (falls after furosemide).
+**Diagram to draw:** normal, obstructed and dilated non-obstructed renogram curves.
 
 > **Key points to remember:**
-> - MAG3 is the tracer of choice; catheter and hydration.
+> - MAG3 is the tracer of choice; hydrate and catheterise.
 > - DRF normal 45–55%; T½ <10 normal, >20 min obstructed.
 > - Operate for DRF <40%, fall >10%, or poor drainage with symptoms.
 

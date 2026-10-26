@@ -27,9 +27,9 @@
 | Factor | Favourable | Unfavourable |
 |---|---|---|
 | Size (most important) | <10 mm | Renal >20 mm (PCNL [percutaneous nephrolithotomy] first); ureteric ≥10 mm favours URS (ureteroscopy) |
-| Density on NCCT (non-contrast CT) | <900 HU (Hounsfield units) | >1000 HU |
+| Density on NCCT (non-contrast computed tomography) | <900 HU (Hounsfield units) | >1000 HU |
 | Composition | Calcium oxalate dihydrate, uric acid | Cystine, brushite, calcium oxalate monohydrate (dense, homogeneous) |
-| Impaction (ureter) | Recent, mobile | Chronic impaction (CT "rim" of thick ureteral wall, unchanged position): may be the strongest predictor |
+| Impaction (ureter) | Recent, mobile | Chronic impaction (soft-tissue ring of thick ureteral wall on CT, unchanged position): may be the strongest predictor |
 | Burden and site | Single, renal pelvis or upper calyx | Multiple sites; lower pole >1 cm |
 
 - Infection stones and stones in several sites: prefer a more efficient modality.
@@ -41,7 +41,7 @@
 **3. Patient factors**
 - **SSD (skin-to-stone distance) >10 cm** (obesity) predicts failure. Skeletal deformity can prevent targeting.
 - Respiratory movement of 10–15 mm moves the stone out of F2.
-- **Triple D score:** stone **D**ensity, volume (**D**imension) and skin-to-stone **D**istance together predict success.
+- **Triple D score:** stone density, stone volume and skin-to-stone distance together predict success.
 
 **4. Machine and technique factors**
 - **Energy source:** electrohydraulic (HM3) breaks best; piezoelectric has low energy and a tiny focal zone; modern machines are electromagnetic. A focal zone wider than the stone breaks better.
@@ -102,7 +102,7 @@
 
 **2. Donor evaluation**
 - Cause of death, medical and social (high-risk behaviour) history; kidney: terminal creatinine, urine output, hypertension, diabetes, ultrasound.
-- Laboratory: ABO and HLA (human leucocyte antigen) typing; serology and NAT (nucleic acid testing) for HIV, hepatitis B and C, CMV (cytomegalovirus), EBV (Epstein–Barr virus), syphilis, toxoplasma.
+- Laboratory: ABO and HLA (human leucocyte antigen) typing; serology and NAT (nucleic acid testing) for HIV (human immunodeficiency virus), hepatitis B and C, CMV (cytomegalovirus), EBV (Epstein–Barr virus), syphilis, toxoplasma.
 
 **3. Absolute contraindications**
 - Active or metastatic cancer, haematological malignancy, history of melanoma, untreatable viral infection.
@@ -117,7 +117,7 @@
 | Paediatric <15 kg | En bloc transplant |
 
 - **Remuzzi biopsy score** for marginal kidneys: 0–3 single, 4–6 dual, ≥7 discard.
-- **Donor management (rule of 100s):** systolic pressure >100 mmHg, urine >100 mL/h, PaO₂ >100 mmHg, haemoglobin >100 g/L. Vasopressin treats diabetes insipidus.
+- **Donor management (rule of 100s):** systolic pressure >100 mmHg, urine >100 mL/h, PaO₂ (arterial oxygen tension) >100 mmHg, haemoglobin >100 g/L. Vasopressin treats diabetes insipidus.
 
 ### Kidney retrieval surgery (multi-organ, DBD)
 1. **Checks:** death certificate, consent, blood group; coordinate thoracic, liver, pancreas and kidney teams.
@@ -175,7 +175,7 @@
 
 | Situation | Choice |
 |---|---|
-| Mild–moderate, no radiotherapy | **Male sling**: AdVance (repositions the bulbar urethra; needs a coapting sphincter) or adjustable slings (ATOMS) |
+| Mild–moderate, no radiotherapy | **Male sling**: AdVance (repositions the bulbar urethra; needs a coapting sphincter) or adjustable systems (ATOMS [adjustable transobturator male system]) |
 | Severe or any radiotherapy | **AUS (artificial urinary sphincter), AMS 800**: gold standard; cuff 61–70 cm H₂O |
 | ProACT balloons | Avoid after radiotherapy |
 
@@ -309,7 +309,7 @@
 
 ### Indications and guideline position
 - AUA (American Urological Association) and EAU (European Association of Urology): offer MET for **ureteric stones <10 mm**, especially distal, when immediate intervention is not needed (EAU: distal >5 mm).
-- **After SWL** (faster fragment clearance). Children: off-label but effective.
+- **After SWL (shock wave lithotripsy)** for faster fragment clearance. Children: off-label but effective.
 
 ### Contraindications (need urgent drainage instead)
 - Infection with obstruction or sepsis, solitary or bilateral obstruction, renal deterioration, refractory pain or vomiting.
@@ -356,7 +356,7 @@
 | Voiding dysfunction, blood loss, vascular injury | More | Less |
 | Mesh exposure | About 2% | About 2% |
 
-- Urethral injury during either: **do not place mesh** (AUA [American Urological Association]/SUFU).
+- Urethral injury during either: **do not place mesh** (AUA [American Urological Association] guideline).
 
 ### Choosing
 - **TVT preferred:** **ISD (intrinsic sphincter deficiency)** (ALPP [abdominal leak point pressure] <60 cm H₂O or MUCP [maximum urethral closure pressure] <20 cm H₂O), fixed urethra, recurrent SUI. Failure is 12 times likelier after TOT with low leak point pressure (O'Connor, 2006).
@@ -378,30 +378,30 @@
 
 ### Principles
 - **Knudson two-hit hypothesis:** every cell carries one inherited mutant tumour-suppressor allele, so one more hit causes cancer: **early, bilateral, multifocal** tumours.
-- **4–6% of RCC (renal cell carcinoma)** is familial; all familial RCC syndromes are **autosomal dominant**; only HPRC is an activated oncogene.
+- **4–6% of RCC (renal cell carcinoma)** is familial; all familial RCC syndromes are **autosomal dominant**; only hereditary papillary RCC (HPRC) involves an activated oncogene.
 
 ### Hereditary kidney cancer syndromes
 
 | Syndrome | Gene (chromosome) | Kidney tumour | Other features |
 |---|---|---|---|
 | **VHL** (von Hippel–Lindau) | VHL (3p25) | Clear cell, bilateral, multifocal (~50%) | Retinal angioma, CNS (central nervous system) haemangioblastoma, phaeochromocytoma, pancreatic cysts |
-| **HPRC** (hereditary papillary RCC) | MET (7q31) oncogene | Multiple bilateral papillary (type 1-like) | None |
+| **HPRC** | MET (7q31) oncogene | Multiple bilateral papillary (type 1-like) | None |
 | **HLRCC** (hereditary leiomyomatosis and RCC) | FH (fumarate hydratase, 1q42–43) | **Aggressive**, often solitary papillary | Skin and uterine leiomyomas |
 | **BHD** (Birt–Hogg–Dubé) | FLCN (folliculin, 17p11.2) | Chromophobe, hybrid oncocytic, oncocytoma | Fibrofolliculomas, lung cysts, pneumothorax |
 | **TSC** (tuberous sclerosis complex) | TSC1 (9q34), TSC2 (16p13) | Multiple AMLs (angiomyolipomas); RCC 1–3% | Angiofibromas, cortical tubers |
 
 - **VHL type 1** (deletions, truncations): no phaeochromocytoma; **type 2** (missense): phaeochromocytoma.
-- **Also know:** SDH-deficient RCC (paraganglioma); BAP1 (uveal melanoma, mesothelioma); Cowden (PTEN; breast, thyroid).
+- **Also know:** SDH (succinate dehydrogenase)-deficient RCC (paraganglioma); BAP1 (uveal melanoma, mesothelioma); Cowden (PTEN; breast, thyroid).
 
 ### Management principles for kidney
 - **3 cm rule:** watch tumours <3 cm; nephron-sparing surgery at ≥3 cm (VHL, HPRC, BHD) to save function for repeat operations. **Exception: HLRCC**: excise promptly, wide margins.
-- TSC AML: everolimus; embolisation or partial nephrectomy if ≥5 cm. **Belzutifan** (HIF-2α [hypoxia-inducible factor 2α] inhibitor, FDA-approved 2021) for VHL.
+- TSC AML: everolimus; embolisation or partial nephrectomy if ≥5 cm. **Belzutifan** (HIF-2α [hypoxia-inducible factor 2α] inhibitor, FDA [Food and Drug Administration]-approved 2021) for VHL.
 
 ### Other urological cancers
 - **Prostate:** **BRCA2**, BRCA1, ATM, CHEK2, PALB2, HOXB13, mismatch repair genes; father plus brother: 9-fold risk. Earlier screening, cautious active surveillance, **PARP (poly ADP-ribose polymerase) inhibitors**.
 - **UTUC (upper tract urothelial carcinoma): Lynch syndrome** (MLH1, MSH2, MSH6, PMS2): 14-fold risk, about 75-fold with MSH2. Suspect if age <60 or Lynch cancer history; MMR (mismatch repair) immunohistochemistry, then germline testing.
 - **Testis:** affected brother RR (relative risk) 8–12, father 2–4.
-- **Also know:** Wilms tumour (WT1: WAGR, Denys–Drash; Beckwith–Wiedemann).
+- **Also know:** Wilms tumour (WT1 gene: WAGR [Wilms, aniridia, genitourinary anomalies, retardation] and Denys–Drash; Beckwith–Wiedemann).
 - **Approach:** genetic counselling, germline testing, screening relatives.
 
 **Diagram to draw:** VHL loss → HIF accumulation → VEGF (vascular endothelial growth factor) → angiogenesis.
