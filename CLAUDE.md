@@ -68,5 +68,6 @@ Each question is answered in this structure:
 - `answers/2017-summer/` and `pdf/2017-summer/`: MCh Urology Summer 2017 Papers I–IV (Paper III is a question-bank practice paper).
 - `answers/2017-winter/` and `pdf/2017-winter/`: MCh Urology Winter 2017 Papers I–IV (SNM and Botox answered in Paper III, cross-referenced in Paper IV).
 - `answers/2018-summer/` and `pdf/2018-summer/`: MCh Urology Summer 2018 Papers I–IV.
+- `answers/2019-summer/` and `pdf/2019-summer/`: 2019-Summer Papers 1–4 (question paper PDF saved in `answers/2019-summer/`).
 - `archive/2015-summer-older/`: earlier 2015 versions (old half-length, old full-length, concise drafts), reference only.
 - Missing chapters in `reference/`: 89 only. Chapter 119 is only 2 pages. Chapter 56 (hypospadias) has a full version and a "short version"; Chapter 110 (OAB) has two versions.
