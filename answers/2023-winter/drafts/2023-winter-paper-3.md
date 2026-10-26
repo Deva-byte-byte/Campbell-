@@ -17,7 +17,7 @@
 (medical management also answered in 2019-Summer Paper 2, Q3e)
 
 ### Introduction
-- RPF (retroperitoneal fibrosis) is a rare inflammatory fibrotic process that encases retroperitoneal structures, chiefly the ureters, aorta and IVC (inferior vena cava).
+- RPF (retroperitoneal fibrosis) is a rare inflammatory fibrosis encasing the aorta, IVC (inferior vena cava) and ureters.
 - Incidence about 1 per 200,000–500,000 a year; age 40–60; male:female 2–3:1.
 
 ### Etiology
@@ -32,7 +32,7 @@
 - Many idiopathic cases are now classed as **IgG4 (immunoglobulin G4)-related disease**.
 
 ### Pathology
-- **Gross:** smooth, flat, tan, dense plaque centred on the **distal aorta at L4–L5**; spreads laterally to wrap the ureters; may invade ureter or psoas.
+- **Gross:** flat, tan, dense plaque centred on the **distal aorta at L4–L5**, wrapping the ureters; may invade ureter or psoas.
 - **Histology changes with stage:**
   - Early (active): collagen with capillary proliferation and lymphocytes, plasma cells and fibroblasts.
   - Late (burnt-out): acellular, avascular sheets of collagen.
@@ -41,12 +41,12 @@
 
 ### Clinical features
 - **Dull lower back or flank pain** (commonest); weight loss, anorexia, nausea, malaise, fever, hypertension.
-- About half present with significant obstruction and **uraemia** or oliguria/anuria; symptoms last 4–6 months before diagnosis.
+- About half present with **uraemia** or oliguria/anuria; symptoms last 4–6 months before diagnosis.
 - **Extension:** IVC (leg oedema, DVT [deep venous thrombosis]); renal vein (gross haematuria); spermatic cord and scrotum. Examination is usually unrevealing.
 
 ### Diagnostic evaluation
 **Laboratory**
-- Raised ESR (erythrocyte sedimentation rate) and CRP (C-reactive protein) in half to two-thirds; leucocytosis; anaemia; raised creatinine with electrolyte disturbance; ANA; serum IgG4.
+- Raised ESR (erythrocyte sedimentation rate) and CRP (C-reactive protein) in half to two-thirds; leucocytosis; anaemia; raised creatinine; ANA; serum IgG4.
 
 **Imaging**
 
@@ -83,7 +83,7 @@ RPF with hydronephrosis
 | Tamoxifen; medroxyprogesterone | Thought to inhibit fibroblasts |
 | **Rituximab** | Refractory or IgG4-related disease |
 
-- Steroids act on the cellular, inflamed phase. Pain settles within days, ESR falls, and the mass shrinks.
+- Steroids work on the cellular, active phase: pain settles in days and the mass shrinks.
 - **Vaglio RCT (randomised controlled trial; Lancet 2011):** relapse 17% with prednisone vs 50% with tamoxifen.
 - Drainage plus medical therapy clears obstruction in about two-thirds; only about **15% need ureterolysis**.
 
@@ -94,16 +94,16 @@ RPF with hydronephrosis
   2. Mobilise the colon; take deep biopsies for frozen section.
   3. Start at the distal, non-dilated ureter.
   4. "Split and roll": pass a right-angle clamp between ureter and plaque and incise the fibrosis over it.
-  5. Close any inadvertent ureterotomy with absorbable suture.
+  5. Close any ureterotomy with absorbable suture.
   6. **Separate the ureter from the fibrotic bed so it cannot be re-encased.**
 
 | Protection method | How |
 |---|---|
 | Intraperitonealisation | Ureter lateralised; peritoneum closed behind it |
 | Lateral retroperitoneal placement | Ureter displaced laterally (equivalent results) |
-| **Omental wrap** | Omentum split on the gastroepiploic arteries and wrapped round each ureter; adds blood supply; best for extensive disease |
+| **Omental wrap** | Omentum split on the gastroepiploic arteries, wrapped round each ureter; adds blood supply; best for extensive disease |
 
-- Give postoperative steroids to reduce recurrence.
+- Postoperative steroids may reduce recurrence.
 - **Outcomes:** open about 94% stent-free at 1 year; laparoscopic about 90%; robotic with omental wrap about 86%.
 
 **4. Other options:** long-term metallic stents (unfit); autotransplantation if ureterolysis is impossible; nephrectomy for an unrecoverable kidney.
@@ -114,8 +114,8 @@ RPF with hydronephrosis
 **Diagram to draw:** periaortic plaque at L4–L5 drawing both ureters medially, with an omental wrap.
 
 > **Key points to remember:**
-> - Idiopathic 70% (chronic periaortitis); methysergide and lymphoma are classic secondary causes.
-> - Medial deviation of ureters; PET-CT is the most sensitive test of activity; biopsy deep.
+> - Idiopathic 70% (periaortitis); methysergide and lymphoma classic secondary causes.
+> - Medially deviated ureters; PET-CT best shows activity; biopsy deep.
 > - Drain first, then prednisone (about 80% respond; Vaglio 2011 beat tamoxifen).
 > - About 15% need bilateral ureterolysis with intraperitonealisation or omental wrap.
 
@@ -146,7 +146,7 @@ RPF with hydronephrosis
 | Vascular (aortic) surgery | Devascularisation; up to 85% missed initially |
 | Colorectal, spinal, retroperitoneal surgery | Ligation, transection, cautery |
 
-- **Mechanisms:** ligation, transection, avulsion, crush, devascularisation, thermal energy, cryoablation.
+- **Mechanisms:** ligation, transection, avulsion, devascularisation, thermal injury.
 
 ### Classification: AAST (American Association for the Surgery of Trauma) ureter scale
 
@@ -252,10 +252,10 @@ Ureteric injury suspected
 - Diagnosis is by **history**: latency, control, bother; lifelong or acquired.
 - **IELT (intravaginal ejaculatory latency time):** self-estimate in clinic; stopwatch in trials. Population median 5.4 minutes.
 - **PEDT (Premature Ejaculation Diagnostic Tool):** 5 items; score ≥11 suggests PE, 9–10 probable PE. Also PEP (Premature Ejaculation Profile) and IPE (Index of Premature Ejaculation).
-- IIEF-5 (International Index of Erectile Function) for coexisting ED; examination; TSH (thyroid-stimulating hormone) only if suggested.
+- IIEF-5 (International Index of Erectile Function) for ED; examination; TSH (thyroid-stimulating hormone) only if suggested.
 
 ### Management
-- **Psychosexual education** for all; behavioural techniques (stop–start, squeeze), especially for acquired PE.
+- **Psychosexual education** for all; behavioural therapy (stop–start, squeeze).
 - Treat the cause in acquired PE (ED, prostatitis, thyroid).
 
 | Drug | Dose and timing |
@@ -337,7 +337,7 @@ Ureteric injury suspected
 - Distal and midshaft hypospadias, and redo cases with a healthy plate, when curvature is mild (<30°) and corrected by degloving or plication.
 - Adequate plate and glans. **Glans width <14 mm** raises complications; give preoperative testosterone.
 - **POST (plate objective scoring tool):** a low ratio of neomeatus length to glans fusion length means a poor plate, which favours an inlay graft.
-- Contraindication: severe curvature needing plate division; proximal TIP is abandoned (recurrent curvature).
+- Not for severe curvature needing plate division; proximal TIP is abandoned.
 
 ### Operative steps
 1. Glans stay suture; tourniquet.
@@ -456,7 +456,7 @@ Ureteric injury suspected
 
 ### Specimen
 - **Early-morning first-void urine, 3–5 samples on consecutive days**, sent at once (acidic urine kills bacilli). Stop antibiotics, especially fluoroquinolones, beforehand.
-- Also tissue, pus, FNAC (fine-needle aspiration cytology), semen or prostatic secretions.
+- Also tissue, pus, FNAC (fine-needle aspiration cytology) or semen.
 
 ### Tests
 
@@ -467,9 +467,9 @@ Ureteric injury suspected
 | **Culture: gold standard** | Decontaminate and concentrate. **LJ (Löwenstein–Jensen)** solid: 4–6 weeks. **MGIT (mycobacteria growth indicator tube)** liquid: about 10 days | 80–90% sensitivity with ideal technique; gives DST (drug-susceptibility testing); monitors treatment |
 | **NAAT (nucleic acid amplification test): GeneXpert MTB/RIF** | Automated cartridge PCR (polymerase chain reaction); about 2 hours | Detects MTB and **rifampicin resistance** (MDR [multidrug-resistant] TB surrogate). **Xpert Ultra** is more sensitive. Cannot monitor treatment |
 | TrueNat | Indian chip-based NAAT | NTEP (National TB Elimination Programme) |
-| **LPA (line probe assay)** | DNA strip hybridisation | Rifampicin and isoniazid (first-line) or fluoroquinolone (second-line) resistance |
+| **LPA (line probe assay)** | DNA strip hybridisation | Rifampicin, isoniazid or second-line drug resistance |
 | **LF-LAM (lateral-flow lipoarabinomannan)** | Urine antigen strip, <30 min | HIV (human immunodeficiency virus) with CD4 <200 or advanced disease (WHO 2019) |
-| **Histopathology** | Biopsy (bladder, epididymis) | Caseating granulomas, Langhans cells; NAAT on tissue raises yield |
+| **Histopathology** | Biopsy (bladder, epididymis) | Caseating granulomas; NAAT on tissue raises yield |
 | **TST (tuberculin skin test)** | 5 TU (tuberculin units) PPD intradermal; read induration at 48–72 h | Shows infection, not disease; BCG false positive |
 | **IGRA (interferon-γ release assay)** | ESAT-6/CFP-10 blood test (QuantiFERON, T-SPOT) | Not affected by BCG; cannot separate latent and active |
 
