@@ -38,7 +38,7 @@
 
 ### The triangulation problem
 - In standard laparoscopy ports are spread so instruments meet the target at an angle (the "diamond"). In LESS all shafts are **parallel and in-line** with the camera.
-- Results: **instrument clashing** (inside and outside), **"crossing swords"**, loss of depth perception, smudged in-line view, poor retraction and hard suturing.
+- Results: **instrument clashing**, **"crossing swords"**, poor depth perception, poor retraction and hard suturing.
 - Solutions:
   - **Articulating instruments** (tip bends inside the abdomen) and **pre-bent or curved instruments**: they cross at the fascia, so the right hand works on the left side (**chiral manipulation**).
   - **Flexible-tip or 5-mm low-profile scopes**, offset optics, extra-long instruments and instruments of **different lengths** to avoid handle clash.
@@ -57,7 +57,7 @@
 - **Kidney:** simple and **donor nephrectomy**, radical nephrectomy, partial nephrectomy, **pyeloplasty**, nephroureterectomy, cyst decortication, cryoablation.
 - **Adrenalectomy**; varicocelectomy; orchidopexy and pyeloplasty in children.
 - **Pelvis:** SP radical prostatectomy (transperitoneal, extraperitoneal); **SP transvesical simple prostatectomy** and bladder diverticulectomy.
-- **Best case:** thin patient, benign or small lesion, no prior surgery, an experienced laparoscopic surgeon.
+- **Best case:** thin patient, small or benign lesion, experienced surgeon.
 - **Relative contraindications:** obesity, large or hilar tumours, complex vascular anatomy, dense adhesions, unfit for pneumoperitoneum.
 
 ### Outcomes versus conventional laparoscopy (Chapter 142)
@@ -65,7 +65,7 @@
 - **Donor nephrectomy meta-analysis:** same stay, recovery, transfusion and conversion; **lower pain scores**.
 - **Renal mass:** same perioperative outcome and survival.
 - **SP robotic partial nephrectomy vs multiport:** shorter stay, less opioid; same margins and complications; **longer warm ischaemia** in one review.
-- Multi-institutional experience: an **extra port is often needed**; conversion is mostly to standard laparoscopy, rarely open.
+- An **extra port is often needed**; conversion is mostly to laparoscopy, rarely open.
 - **Net effect:** gains are confined to **pain, cosmesis and stay**; oncological and functional outcomes are unchanged, but the operation is technically harder and longer.
 
 ### Complications
@@ -102,7 +102,7 @@
 ### Laser physics
 - **LASER:** light amplification by stimulated emission of radiation. Ho:YAG = holmium atoms in a YAG (yttrium–aluminium–garnet) crystal.
 - **Wavelength about 2120 nm**; chromophore **water**; **pulsed**; optical penetration **0.4 mm**. It cuts by vaporisation with a thin coagulation zone; heat spreads 2–3 mm and seals small and medium vessels.
-- Transmitted through flexible quartz fibres; works in **normal saline**, so no TUR (transurethral resection) syndrome.
+- Flexible quartz fibres; **normal saline**, so no TUR (transurethral resection) syndrome.
 | Laser | Wavelength | Chromophore | Penetration |
 |---|---|---|---|
 | **Holmium:YAG** | 2120 nm | Water | 0.4 mm |
@@ -112,7 +112,7 @@
 
 ### MOSES (pulse modulation)
 - **Moses effect:** the first part of each pulse boils a **vapour channel** in the water. Vapour absorbs the light far less, so the rest of the pulse passes through to the tissue ("parting the water").
-- **Moses technology** splits each pulse to exploit this. More energy reaches tissue, giving cleaner cutting and better haemostasis; it **may shorten operating time**.
+- **Moses technology** splits each pulse to exploit this: more energy reaches tissue, and it **may shorten operating time**.
 
 ### Indications
 - **Size-independent** (<30, 30–80, >80 mL), with or without a median lobe (AUA [American Urological Association] Statement 38). Only enucleation spans every size band.
@@ -138,7 +138,7 @@
 - **Meta-analyses:** better **IPSS (International Prostate Symptom Score) and Qmax (maximum flow rate)**, durable to **3–8 years**. **HoLEP is the only endoscopic procedure with efficacy superior to TURP.**
 - **Versus open prostatectomy** (Naspro 2006; Kuntz 2008, 5 years): equal function, less blood loss, shorter catheter time and stay.
 - **Retreatment rare**: whole transition zone removed.
-- **Anticoagulated men:** feasible; slightly longer stay and irrigation; warfarin worse than DOACs (direct oral anticoagulants).
+- **Anticoagulated men:** feasible; slightly longer stay; warfarin worse than DOACs (direct oral anticoagulants).
 - **Guidelines:** EAU (European Association of Urology) and AUA list HoLEP as a first-line alternative to TURP and to open surgery for large glands.
 
 ### Complications
@@ -170,7 +170,7 @@
 
 ### Anatomy
 - **NVB (neurovascular bundle) of Walsh** (Walsh and Donker, 1982): capsular vessels plus **cavernous nerves** (parasympathetic, from the pelvic plexus). It lies posterolateral, in the lateral pelvic fascia between **prostatic and levator fascia**.
-- Nerves are invisible; the **vessels mark them**. Distribution is variable: a posterolateral main bundle, a posterior "hammock", some anterolateral fibres.
+- Nerves are invisible; the **vessels mark them**. Distribution varies (posterolateral bundle, posterior "hammock", anterolateral fibres).
 - **Injury mechanisms:** incision, entrapment (clip or suture), **thermal**, **traction**.
 
 ### Dissection planes
@@ -185,14 +185,14 @@
 ### Techniques
 - **Walsh anatomic (open):** release apex to base from the rectal surface; small clips; **no thermal energy**.
 - **High anterior release** (open) and **Veil of Aphrodite** (robotic): lateral prostatic fascia lifted high anteriorly as a "veil". Select by **Tsuzuki criteria**: ≥2 of PSA >10 ng/mL, Gleason >6, abnormal DRE (digital rectal examination), perineural invasion, high core involvement → >10% risk, so avoid.
-- **Antegrade release:** incise levator fascia mid-prostate, sweep NVB posterolaterally, clip the pedicle using the "groove".
-- **Athermal, traction-free:** Hem-o-lok clips or bulldog then suture, cold scissors.
+- **Antegrade release (robotic):** incise levator fascia, sweep NVB posterolaterally, clip pedicle at the "groove".
+- **Athermal, traction-free:** clips or bulldogs, cold scissors.
 - **Graded (risk-stratified) nerve sparing:** full, partial or none per side, from MRI (magnetic resonance imaging) and nomograms.
-- **NeuroSAFE:** intraoperative frozen section of the whole posterolateral margin; if positive, NVB resected on that side. Increases nerve sparing without more positive margins; NeuroSAFE PROOF RCT (randomised controlled trial) reported better erectile function.
+- **NeuroSAFE:** frozen section of the whole posterolateral margin; if positive, that NVB is resected. More nerve sparing without more positive margins; NeuroSAFE PROOF RCT (randomised controlled trial) reported better erectile function.
 - **Retzius-sparing (Bocciardi 2010)** and **Hood (Tewari 2021):** aimed at continence; potency equal at 12 months.
 
 ### Adjuncts
-- **Penile rehabilitation:** PDE5i (phosphodiesterase type 5 inhibitor), then injections; early PDE5i does not improve later response.
+- **Penile rehabilitation:** PDE5i (phosphodiesterase type 5 inhibitor), then injections.
 - **Also know:** sural nerve grafts and nerve stimulation tests (abandoned); amniotic membrane wraps, fluorescence nerve imaging (experimental).
 
 **Diagram to draw:** axial prostate showing three fascial planes and NVBs at 5 and 7 o'clock.
@@ -212,7 +212,6 @@
 
 ### Rationale
 - A free graft (e.g. **BMG [buccal mucosal graft]**) has no blood supply. It survives by **imbibition** (about 48 h, nutrients from the bed), then **inosculation** (new microcirculation). So **"a graft lives on its bed"**.
-- Grafts succeed in the bulbar urethra (thick spongiosum) and on the corpora (dorsal).
 - **Poor beds:** radiation, multiple failed repairs, fistula, pelvic-fracture scar, infection. Here a **muscle flap brings blood supply**, fills dead space and separates suture lines.
 
 ### Muscle flaps used
@@ -228,14 +227,14 @@
 3. Gracilis harvested through a medial thigh incision; pedicle preserved; tunnelled to perineum.
 4. Muscle interposed between rectum and urethra, or used as the graft bed.
 5. **BMG quilted onto the muscle** as onlay; urethra closed over a catheter.
-6. Catheter and suprapubic drainage about 3 weeks; urethrogram before removal.
+6. Catheter drainage; urethrogram before removal.
 
 ### Results (Chapter 86)
 - Gracilis with or without BMG for rectourethral fistula: **non-irradiated, all closed**, no later strictures. **Irradiated:** most closed in one stage, but more strictures and permanent bowel diversion.
 - Muscle interposition is integral; BMG is invaluable for urethral closure.
 
 ### Complications
-- Thigh wound problems and numbness; graft contraction, restricture, fistula recurrence.
+- Thigh wound problems; graft contraction, restricture, fistula recurrence.
 
 ### "Muscle-sparing" bulbar urethroplasty (Barbagli)
 - The **bulbospongiosus muscle, central perineal tendon and perineal nerves** are left intact; dorsal BMG onlay through a lateral approach.
@@ -298,8 +297,7 @@
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Most living kidney donors are **women**, and in India most are wives and mothers. Precautions cover **pregnancy, hormones, gynaecological health, accurate GFR (glomerular filtration rate) and free consent**.
-- Guidance: **KDIGO (Kidney Disease: Improving Global Outcomes) 2017** living donor guideline.
+- Most living donors, especially in India, are **women** (wives, mothers). Guidance: **KDIGO (Kidney Disease: Improving Global Outcomes) 2017** living donor guideline.
 
 ### Before donation
 1. **Free, uncoerced consent:** interview the donor alone; independent donor advocate; family pressure and gender inequity screened. In India the THOA (Transplantation of Human Organs Act) authorisation committee verifies this.
@@ -309,7 +307,7 @@
 5. **Oestrogen therapy:** combined OCPs (oral contraceptive pills) and HRT (hormone replacement therapy) raise **VTE (venous thromboembolism)** risk; stop them some weeks before surgery and give barrier or progestogen-only contraception; VTE prophylaxis.
 6. **Gynaecological and cancer screening:** cervical cytology, breast examination or mammography (age-appropriate); pelvic ultrasound if indicated.
 7. **Urine tests:** repeat urinalysis **outside menstruation** to avoid false haematuria; exclude recurrent UTI (urinary tract infection).
-8. **GFR:** lower muscle mass makes creatinine-based eGFR (estimated GFR) less reliable; **measured GFR** preferred. Note small kidney to large recipient (nephron mismatch).
+8. **GFR (glomerular filtration rate):** low muscle mass makes creatinine-based estimates unreliable; **measured GFR** preferred. Note nephron mismatch with a large recipient.
 9. Correct **iron-deficiency anaemia**.
 
 ### Operative
@@ -318,7 +316,7 @@
 ### After donation
 - **Defer pregnancy** until recovery and stable function; many programmes advise at least 6–12 months.
 - In pregnancy: inform obstetrician; **high-risk antenatal care**; monitor BP (blood pressure), proteinuria and creatinine; low-dose aspirin may be considered.
-- **Lifelong annual BP, creatinine and proteinuria** checks; avoid NSAIDs (non-steroidal anti-inflammatory drugs).
+- **Lifelong annual BP, creatinine and proteinuria**; avoid NSAIDs (non-steroidal anti-inflammatory drugs).
 
 **Diagram to draw:** flowchart: consent → pregnancy test → hormone review → GFR → surgery → pregnancy follow-up.
 
@@ -337,7 +335,7 @@
 
 ### Legal framework
 - **THOA (Transplantation of Human Organs Act) 1994**; amended 2011 (THOTA, including tissues); **Rules 2014**.
-- Purpose of the committee: **prevent commercial organ trade** while allowing genuine living donation.
+- Purpose: **prevent organ trade** while allowing genuine donation.
 
 ### Donor categories
 | Donor | Approval |
@@ -348,16 +346,16 @@
 | **Foreign donor or recipient** | Authorisation Committee; embassy certifies relationship |
 
 ### Constitution
-- **Hospital-based committee** where a centre performs more than **25 transplants a year**; otherwise a **district or state committee**.
+- **Hospital-based** if a centre does more than **25 transplants a year**; otherwise **district or state committee**.
 - **Members:** medical director or superintendent (chair); two senior doctors of the hospital **not in the transplant team**; two persons of high integrity and social standing (preferably one woman), nominated by the State; state committees add health-department nominees.
 
 ### Functions and procedure
-1. Receive the **joint application** of donor and recipient with consent forms, medical fitness certificates and identity, address and relationship documents.
+1. Receive the **joint donor–recipient application** with consent forms, fitness certificates and identity and relationship documents.
 2. **Personal interview** of donor, recipient and families; proceedings **video-recorded**.
 3. Verify **relationship** (documents; **HLA [human leukocyte antigen] or DNA testing** if doubtful).
-4. Exclude **commercial dealing**: compare financial status, reasons for donation, long association, involvement of middlemen.
+4. Exclude **commercial dealing**: financial status, reasons, long association, middlemen.
 5. Confirm donor understands risks and consents freely, without coercion.
-6. Check **domicile** (other-state donors) and consent of donor's spouse or family.
+6. Check **domicile** (other-state donors).
 7. Decide promptly; decision recorded and displayed; reasons given if refused. **Appeal** to the State Government within **30 days**.
 
 ### Restrictions
@@ -365,7 +363,7 @@
 - **Foreign recipient with unrelated Indian donor** not approved.
 - **Penalty** for commercial dealing: imprisonment up to 10 years and fine up to ₹1 crore; doctors' registration removed.
 
-**Diagram to draw:** flowchart: donor–recipient pair → near relative (competent authority) or non-relative, swap or foreigner (committee) → interview, verify, record → approve or reject → appeal.
+**Diagram to draw:** flowchart: application → near relative (competent authority) or other (committee) → interview, verify → decision → appeal.
 
 > **Key points to remember:**
 > - THOA 1994; amended 2011; Rules 2014.
@@ -380,7 +378,7 @@
 
 ### Principle
 - Diet lowers urinary **supersaturation** by **dilution**, by reducing promoters (calcium, oxalate, uric acid, sodium) and by raising inhibitors (citrate).
-- General advice suits all first-time formers; recurrent formers get diet tailored to **24-hour urine** results.
+- General advice for all; recurrent formers tailored to **24-hour urine**.
 
 ### General measures
 | Measure | Target | Mechanism and evidence |
@@ -405,7 +403,7 @@
 | **Struvite** | Infection control; diet has little role |
 
 ### Adherence
-- Poor: only about half reach 2.5 L at 6 months. Apps and smart bottles help.
+- Poor: only half reach 2.5 L at 6 months; apps and smart bottles help.
 
 **Diagram to draw:** "stone-prevention plate": water, fruit and vegetables, normal dairy, little meat and salt.
 

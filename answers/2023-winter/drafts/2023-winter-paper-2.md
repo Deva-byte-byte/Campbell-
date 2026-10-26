@@ -411,7 +411,7 @@
 - **Acute:** stronger, more frequent contractions.
 - **Chronic:** dilatation, walls fail to coapt, peristalsis becomes ineffective; raised pelvic pressure lowers GFR (glomerular filtration rate).
 - **Intrinsic UPJO (UPJ obstruction):** abnormal muscle, excess collagen, fewer ICC-like cells, so an **aperistaltic segment** cannot transmit the wave.
-- **Also know:** endotoxin and progesterone reduce peristalsis. Diuretic renogram and Whitaker test (pressure difference >12 cm H₂O suggests obstruction) assess transport.
+- **Also know:** endotoxin and progesterone reduce peristalsis. Diuretic renogram and Whitaker test (chapter: pressure difference >12 cm H₂O suggests obstruction; classic teaching: <15 unobstructed, >22 obstructed) assess transport.
 
 **Diagram to draw:** pelvis, UPJ and ureter showing bolus formation and coaptation.
 
