@@ -18,7 +18,7 @@
 
 ### A. Embryology of the bladder
 **1. Division of the cloaca (weeks 4–6)**
-- The **urorectal septum** (Tourneux and Rathke folds) divides the endodermal cloaca into a dorsal **anorectal canal** and a ventral **UGS (urogenital sinus)**. The cloacal membrane then perforates to form the urogenital and anal openings.
+- The **urorectal septum** (Tourneux and Rathke folds) divides the endodermal cloaca into a dorsal **anorectal canal** and a ventral **UGS (urogenital sinus)**. The cloacal membrane perforates to form the urogenital and anal openings.
 - The **Wolffian (mesonephric) duct entry** is the landmark:
   - **Cranial vesicourethral canal** (continuous with the allantois) → bladder and pelvic urethra.
   - **Caudal (definitive) UGS** → phallic urethra in males; distal vagina and vestibule in females. The whole female urethra comes from the pelvic part.
@@ -74,7 +74,7 @@
 | Situation | Management |
 |---|---|
 | Small, asymptomatic, no VUR | Observe |
-| VUR, ureter beside the sac | As primary VUR: prophylaxis, observation; resolves like primary VUR of the same grade. Dx/HA (dextranomer/hyaluronic acid) injection still possible |
+| VUR, ureter beside the sac | As primary VUR (resolves like VUR of the same grade); many excise if it persists. Dx/HA (dextranomer/hyaluronic acid) injection possible |
 | Ureter enters the sac | VUR will not resolve → surgery |
 | Breakthrough febrile UTI, new scars, large sac with residual, stones, obstruction, retention | **Diverticulectomy + ipsilateral reimplantation** |
 
@@ -92,7 +92,7 @@ from its pseudocapsule (0.5 cm mucosal cuff round the neck)
 - Ureteric injury, leak, persistent VUR, obstruction, recurrence (syndromic patients).
 - US at 6–12 weeks; VCUG for febrile UTI; urodynamics if voiding is abnormal.
 
-**Also know:** posterolateral multiple diverticula (Ehlers–Danlos, Williams, Menkes); megacystis–microcolon (MMIHS).
+**Also know:** posterolateral multiple diverticula (Ehlers–Danlos, Williams, Menkes); hypoplasia; megacystis.
 
 **Diagram to draw:** cloacal division by the urorectal septum; Hutch sac beside the ureteric orifice.
 
@@ -317,7 +317,6 @@ Lower midline incision → anterior cystotomy
 | **Incontinence** (both sphincters damaged) | Urodynamics; **AUS (artificial urinary sphincter)**; bladder neck reconstruction (Young–Dees–Leadbetter) or fascial sling; last resort **bladder neck closure + Mitrofanoff** ± augmentation |
 | Fistula | Layered repair with tissue interposition |
 - Bladder neck appearance on imaging **does not predict** continence; restore continuity first, then treat incontinence.
-
 - Continence is poor whenever the bladder neck is involved (paediatric series: incontinence up to 20% overall).
 
 **Diagram to draw:** pelvic fracture with bladder neck tear and repair over a catheter.
@@ -353,8 +352,8 @@ Lower midline incision → anterior cystotomy
 | Situation | Management |
 |---|---|
 | Acute haemorrhage | Resuscitate → **SAE (selective arterial embolisation)** → nephrectomy if SAE fails or unavailable |
-| Symptomatic (pain, haematuria) | SAE, NSS (nephron-sparing surgery), ablation in selected cases |
-| Asymptomatic sporadic with **>6 cm, aneurysm >5 mm, growth >0.25 cm/year, childbearing age or pregnancy**, poor access to care | Active treatment |
+| Symptomatic (pain, haematuria) or poor access to care | SAE, NSS (nephron-sparing surgery), ablation in selected cases |
+| Asymptomatic sporadic with **>6 cm, aneurysm >5 mm, growth >0.25 cm/year, childbearing age or pregnancy** | Active treatment |
 | None of these | **Surveillance**: US or CT at 6 and 12 months, then yearly |
 | TSC, asymptomatic, **>3 cm** | **Everolimus**; MRI every 1–3 years |
 - The old **4 cm** cut-off overtreats; EAU (European Association of Urology) 2023 favours surveillance for most.
@@ -427,37 +426,34 @@ CT (computed tomography) angiography, renogram
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Haematuria is evaluated with **cystoscopy and upper tract imaging**; bladder cancer is the main cancer found. Urine tests were developed as cheaper, non-invasive **adjuncts**.
-- **Glomerular clues** on urine microscopy (dysmorphic RBCs (red blood cells), RBC casts, proteinuria) → nephrology referral, plus full urological evaluation.
+- Haematuria is evaluated by **cystoscopy and upper tract imaging**; urine tests are non-invasive **adjuncts** for bladder cancer.
+- Dysmorphic RBCs (red blood cells), casts or proteinuria suggest a glomerular source → nephrology, plus urological evaluation.
 
 ### Urine cytology
-- Exfoliated cells (Papanicolaou). **Sensitivity 31–62%, specificity 94–100%**: good for **high-grade tumours and CIS (carcinoma in situ)**, poor for low grade.
-- **Paris System:** negative for HGUC (high-grade urothelial carcinoma), atypical, suspicious, HGUC; based on N:C (nuclear-to-cytoplasmic) ratio ≥0.7 and nuclear features.
-- Positive cytology with normal cystoscopy → random bladder and prostatic urethral biopsies, upper tract washings ± ureteroscopy.
+- **Sensitivity 31–62%, specificity 94–100%**: good for **high-grade tumours and CIS (carcinoma in situ)**, poor for low grade.
+- **Paris System:** negative for HGUC (high-grade urothelial carcinoma), atypical, suspicious, HGUC (by nuclear-to-cytoplasmic ratio and nuclear features).
+- Positive cytology, normal cystoscopy → random and prostatic urethral biopsies, upper tract washings.
 
 ### Urinary biomarkers (sensitivity/specificity, Chou 2015 meta-analysis)
 | Marker | Principle | Sens / spec | Note |
 |---|---|---|---|
-| **NMP22 (nuclear matrix protein 22)** | Nuclear protein, about 20× higher in cancer; lab or point-of-care (BladderChek) | 0.69/0.77; 0.58/0.88 | False positives: inflammation, stones, instrumentation |
-| **BTA (bladder tumour antigen)** stat / TRAK | Complement factor H–related protein; dipstick or ELISA (enzyme-linked immunosorbent assay) | 0.64/0.77 | **False positive with blood** (factor H in serum): weak in haematuria |
-| **UroVysion FISH (fluorescence in situ hybridisation)** | Gain of chromosomes 3, 7, 17; loss of 9p21 | 0.63/0.87 | Reflex test for atypical cytology |
+| **NMP22 (nuclear matrix protein 22)** | Nuclear protein; lab or point-of-care | 0.69/0.77 | False positives: inflammation, stones |
+| **BTA (bladder tumour antigen)** stat / TRAK | Complement factor H–related protein; dipstick or ELISA (enzyme-linked immunosorbent assay) | 0.64/0.77 | **False positive with blood** (factor H in serum) |
+| **UroVysion FISH (fluorescence in situ hybridisation)** | Gain of chromosomes 3, 7, 17; loss of 9p21 | 0.63/0.87 | After atypical cytology |
 | **ImmunoCyt** | Antibodies to CEA (carcinoembryonic antigen) + two mucins | 0.78/0.78 | Highest sensitivity; operator dependent |
 | **Cxbladder** | RT-PCR (reverse transcription polymerase chain reaction), 5 mRNAs | about 0.82/0.85 | Needs validation |
 - **Also know:** Xpert Bladder (mRNA); AssureMDx (FGFR3, TERT, HRAS mutations + methylation).
-- **Pattern:** more sensitive but less specific than cytology; better for symptomatic patients than surveillance; miss small low-grade tumours.
+- **Pattern:** more sensitive, less specific than cytology; miss small low-grade tumours.
 
 ### Role in haematuria (guidelines)
-- **AUA/SUFU (American Urological Association/Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction) 2020:** **no cytology or markers in the initial evaluation of microhaematuria**; cytology may be used after a negative work-up if CIS is suspected (irritative symptoms).
+- **AUA/SUFU (American Urological Association/Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction) 2020:** **no cytology or markers in the initial evaluation of microhaematuria**; cytology only after a negative work-up if CIS is suspected.
 - **Gross haematuria:** cytology with cystoscopy and CT (computed tomography) urography. A negative marker still leaves **≥10% cancer probability**, so cystoscopy is still needed.
-- **No marker replaces cystoscopy** (AUA, EAU (European Association of Urology)). Possible future role: lowering cystoscopy in low-risk patients (a negative test makes risk negligible).
+- **No marker replaces cystoscopy** (AUA, EAU (European Association of Urology)); a negative test may one day help triage low-risk patients.
+- **Recent advances:** urinary tumour DNA; methylation assays (Bladder EpiCheck).
 
-### Recent advances
-- utDNA (urinary tumour DNA); methylation assays (Bladder EpiCheck).
-
-**Diagram to draw:** haematuria pathway with cytology/markers as adjuncts.
+**Diagram to draw:** haematuria pathway with markers as adjuncts.
 
 > **Key points to remember:**
 > - Cytology: specific for high grade/CIS, insensitive for low grade.
-> - BTA gives false positives with blood.
-> - AUA/SUFU 2020: no markers in initial microhaematuria work-up.
-> - No marker replaces cystoscopy.
+> - BTA is falsely positive with blood.
+> - No markers in initial microhaematuria work-up; none replaces cystoscopy.
