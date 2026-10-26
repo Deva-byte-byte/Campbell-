@@ -73,5 +73,6 @@ Each question is answered in this structure:
 - `answers/2021-summer/` and `pdf/2021-summer/`: 2021-Summer Papers 1–4 (Paper 1 is a question-bank practice paper; question paper PDF saved in `answers/2021-summer/`).
 - `answers/2022-summer/` and `pdf/2022-summer/`: 2022-Summer Papers 1–4 (mini-PCNL answered in Paper 1 Q1, cross-referenced in Paper 3 Q3c; question paper PDF saved in `answers/2022-summer/`).
 - `answers/2023-winter/` and `pdf/2023-winter/`: 2023-Winter Papers 1–4 (question paper PDF saved in `answers/2023-winter/`).
+- `answers/2024-winter/` and `pdf/2024-winter/`: 2024-Winter Papers 1–4 (immunotherapy for mRCC in Paper 2 Q3e, cross-referenced from Paper 3 Q3b; question paper PDF saved in `answers/2024-winter/`).
 - `archive/2015-summer-older/`: earlier 2015 versions (old half-length, old full-length, concise drafts), reference only.
 - Missing chapters in `reference/`: 89 only. Chapter 119 is only 2 pages. Chapter 56 (hypospadias) has a full version and a "short version"; Chapter 110 (OAB) has two versions.

@@ -383,7 +383,7 @@ Wire cannot be passed / dense stricture / urethral disruption
 > **Key points to remember:**
 > - Haematuria and NMIBC surveillance are the two commonest indications.
 > - Flexible scope, lidocaine dwell ≥5 minutes, no routine prophylaxis.
-> - Therapeutic: stent removal, Botox, fulguration of small recurrences.
+> - Therapeutic: stent removal, botulinum toxin, fulguration of small recurrences.
 
 ---
 
