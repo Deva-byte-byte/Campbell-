@@ -373,7 +373,7 @@ Breakthrough UTI or new scar -> injection or reimplant
 | Feature | ALPP (abdominal LPP), incl. VLPP (Valsalva LPP) and CLPP (cough LPP) | DLPP (detrusor LPP) |
 |---|---|---|
 | Definition | Total Pves (vesical pressure) at leak during raised abdominal pressure, **no detrusor contraction** | Lowest Pdet (detrusor pressure) at leak, **without contraction or straining** |
-| Measures | Sphincter's resistance to abdominal pressure | Poorly compliant bladder's pressure against outlet resistance |
+| Measures | Sphincter strength | Bladder pressure against outlet resistance |
 | Bad result | **Low** (weak sphincter) | **High** (danger to upper tracts) |
 | Used in | SUI (stress urinary incontinence) | Neurogenic or low-compliance bladder |
 
@@ -388,15 +388,15 @@ Breakthrough UTI or new scar -> injection or reimplant
 | 60–90 | Equivocal |
 | **≥90** | **Urethral hypermobility**, little ISD |
 
-- Low VLPP or ISD: favours a sling (or bulking) over colposuspension; in men, guides sling versus AUS (artificial urinary sphincter).
+- Low VLPP (ISD) traditionally favours a sling or bulking agent over colposuspension.
 - **Limitations:** VLPP < CLPP; falls with larger catheters and volumes; invalid with DO (detrusor overactivity); poor predictor of surgical outcome.
-- **Guidelines:** EAU: do not use LPP to grade severity. AUA/SUFU (Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction) 2023: urodynamics may be omitted in the index SUI patient.
+- **Guidelines:** EAU (European Association of Urology): do not use LPP to grade severity. AUA (American Urological Association) 2023 SUI guideline: urodynamics optional in the index patient.
 
 ### DLPP: clinical implications
 - **McGuire (1981):** DLPP **>40 cmH₂O** in myelodysplastic children → hydronephrosis or VUR (vesicoureteral reflux) in **85%**.
 - A strong outlet keeps the patient dry but transmits pressure to the kidneys; a weak outlet "pops off" safely.
 - **Hostile bladder** (≥40 cmH₂O) → CIC (clean intermittent catheterisation) plus antimuscarinic; botulinum toxin, augmentation or vesicostomy if needed.
-- **Caveat:** 40 is not validated as "safe"; 20 cmH₂O is more sensitive in children. Aim as low as possible.
+- **Caveat:** 40 is not a validated "safe" value; 20 cmH₂O is more sensitive in children.
 
 **Also know:** DO leak point pressure (ICS (International Continence Society) 2017); MUCP (maximum urethral closure pressure) ≤20 cmH₂O suggests ISD.
 
@@ -414,7 +414,7 @@ Breakthrough UTI or new scar -> injection or reimplant
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **Nephrometry scores** quantify the anatomical complexity of a renal mass on CT (computed tomography) or MRI, to standardise reporting of RCC (renal cell carcinoma) and plan treatment.
+- **Nephrometry scores** grade the anatomical complexity of a renal mass on CT (computed tomography) or MRI (magnetic resonance imaging), to standardise RCC (renal cell carcinoma) reporting and plan treatment.
 
 ### R.E.N.A.L. score (Kutikov and Uzzo, 2009)
 | Component | 1 point | 2 points | 3 points |
@@ -424,31 +424,30 @@ Breakthrough UTI or new scar -> injection or reimplant
 | **N**earness to collecting system or sinus | ≥7 mm | >4 to <7 mm | ≤4 mm |
 | **A**nterior/posterior | Suffix a, p or x (no points) | | |
 | **L**ocation to polar lines | Entirely above or below | Crosses a polar line | >50% across, crosses midline, or entirely between |
-- Suffix "h" if touching the main renal artery or vein. **Total 4–12:** low 4–6, moderate 7–9, high 10–12.
+- Suffix "h": touches main renal vessels. **Total 4–12:** low 4–6, moderate 7–9, high 10–12.
 
 ### PADUA score (Ficarra, 2009)
 - Polar location, exophytic rate, renal rim (lateral or medial), renal sinus, collecting system and size, plus anterior/posterior face. **Total 6–14:** 6–7 low, 8–9 intermediate, ≥10 high risk.
 
 ### C-index (centrality index)
-- Distance from tumour centre to kidney centre ÷ tumour radius. **Lower value = more central, more complex**; 0 means the tumour is centred on the kidney centre.
+- Distance from tumour centre to kidney centre ÷ tumour radius. **Lower value = more central, more complex.**
 
 ### Role in management
 | Decision | Use |
 |---|---|
-| **Partial vs radical nephrectomy** | High complexity favours RN (radical nephrectomy) when PN (partial nephrectomy) would be hazardous |
+| **Partial vs radical nephrectomy** | Feasibility and risk of PN (partial nephrectomy) vs RN (radical nephrectomy) |
 | **Approach** | Open vs minimally invasive; hilar clamping |
 | **Predict outcomes** | Warm ischaemia, blood loss, complications, conversion, collecting-system entry; urine leak (R and N components) |
 | **Function** | Parenchymal loss, eGFR (estimated glomerular filtration rate) decline |
 | **Ablation** | Cryoablation complications rise with complexity |
 | **Pathology** | Higher scores: malignancy, higher grade |
-| **Research** | Common language between series |
 
-- **AUA (American Urological Association) 2021:** prefer RN for a complex tumour only when PN would be challenging even in experts, with normal baseline function and a normal opposite kidney.
+- **AUA (American Urological Association) 2021:** with high oncological potential, prefer RN only if PN would be challenging even for experts, there is no CKD (chronic kidney disease) or proteinuria, and new baseline eGFR will likely exceed 45.
 
 ### Limitations
-- Interobserver variation; ignores patient factors, fat and surgeon experience.
+- Interobserver variation; ignores patient factors and surgeon experience.
 
-**Also know:** ABC (arterial based complexity), DAP (diameter–axial–polar), contact surface area; **MAP (Mayo Adhesive Probability) score** for adherent perinephric fat; SPARE (simplified PADUA).
+**Also know:** ABC (arterial based complexity), DAP (diameter–axial–polar) scores; **MAP (Mayo Adhesive Probability) score** for adherent perinephric fat.
 
 **Diagram to draw:** kidney with polar lines and the five R.E.N.A.L. components.
 

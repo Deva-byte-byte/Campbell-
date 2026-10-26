@@ -72,7 +72,7 @@ RUF → sepsis control, catheter ± colostomy, biopsy
   persistent, grade 0 → perineal (gracilis) or York-Mason
   irradiated or large → abdominal/robotic (omentum) or perineal (gracilis)
   unreconstructable → urinary + faecal diversion
-Congenital → newborn colostomy → PSARP
+Congenital → newborn colostomy → posterior sagittal anorectoplasty
 ```
 - **PSARP (posterior sagittal anorectoplasty)** separates the rectum from the urethra and places it in the sphincter complex.
 
@@ -97,7 +97,7 @@ Congenital → newborn colostomy → PSARP
 - **Bud position (Mackie–Stephens):** a bud arising too low reaches the UGS early → high, lateral orifice → short tunnel → **VUR (vesicoureteral reflux)**, often with a dysplastic kidney. A bud arising too high → caudal, medial, ectopic orifice.
 - **Weigert–Meyer** (duplex): lower-pole orifice lateral, refluxes; upper-pole caudal-medial, ectopic.
 
-### Clinical anatomy of the VUJ
+### Clinical anatomy of the VUJ (vesico-ureteric junction)
 - **Course:** juxtavesical ureter in **Waldeyer's sheath** → oblique intramural segment through the detrusor hiatus → submucosal tunnel → orifice (caudal and medial to the entry).
 - **Intramural length 1.2–2.5 cm in adults** (0.5–0.8 cm in neonates). **Narrowest part** of the ureter (about 3–4 mm): commonest stone impaction site.
 - **Trigone:** superficial trigone (ureteric longitudinal muscle, to the verumontanum); deep trigone (Waldeyer's sheath plus detrusor, to the bladder neck). Base is the interureteric ridge.
@@ -175,10 +175,10 @@ Congenital → newborn colostomy → PSARP
 ### Management
 ```
 Lower ureteric stone <1 cm
- ├─ sepsis / solitary kidney / AKI → urgent stent or PCN
+ ├─ sepsis / solitary kidney / renal failure → urgent stent or nephrostomy
  ├─ pain controlled, no infection → observation (50–80% pass)
  └─ failed observation → ureteroscopy + laser
-                         or stent/PCN until delivery
+                         or stent/nephrostomy until delivery
 ```
 - **Conservative:** hydration, paracetamol, opioids. **Avoid NSAIDs (non-steroidal anti-inflammatory drugs)** (ductus arteriosus closure in third trimester). **MET (medical expulsive therapy)** with tamsulosin is off-label.
 - **URS (ureteroscopy) with holmium laser:** first-line intervention for a non-complex stone in any trimester; ideal for a distal stone. Neuraxial anaesthesia, lateral tilt, minimal fluoroscopy (US guidance, shield under the patient), fetal monitoring. Third-trimester URS may raise preterm labour risk.
@@ -261,7 +261,7 @@ Lower ureteric stone <1 cm
 
 ### Procedure
 ```
-CT angiography, renogram, ureteric study
+CT (computed tomography) angiography, renogram, ureteric study
 → harvest as for live donor nephrectomy (open/laparoscopic/robotic),
   maximal vessel length, preserve ureteric blood supply
 → cold perfusion on bench ± ex vivo repair
@@ -343,10 +343,12 @@ Flank position; pre-placed double-J stent
 - **Goal:** cure while preserving nephrons. ESRD (end-stage renal disease) mainly follows bilateral nephrectomy.
 
 ### Evaluation
-- US → contrast CT (computed tomography) or MRI abdomen; chest CT; coagulation; syndrome review.
+- US (ultrasound) → contrast CT (computed tomography) or MRI (magnetic resonance imaging) abdomen; chest CT; coagulation; syndrome review.
 - **No upfront biopsy and no upfront nephrectomy.**
 
 ### Management (COG AREN0534)
+- VCR = vincristine, AMD = actinomycin D, DOX = doxorubicin, NSS = nephron-sparing surgery, RT = radiotherapy.
+
 ```
 VCR + AMD + DOX × 6 weeks (no biopsy)
 → imaging at week 6
@@ -355,7 +357,6 @@ VCR + AMD + DOX × 6 weeks (no biopsy)
         poor response → bilateral OPEN biopsy
 → further therapy by each kidney's stage and histology ± flank RT
 ```
-- VCR = vincristine, AMD = actinomycin D, DOX = doxorubicin, NSS = nephron-sparing surgery, RT = radiotherapy.
 - **Why 12 weeks:** in NWTS-4 (National Wilms Tumor Study-4) prolonged chemotherapy delayed surgery and some tumours became anaplastic.
 - **Why open, bilateral biopsy:** anaplasia differs between kidneys in about 4 of 5; non-shrinking tumour is often differentiated and cured by excision.
 - **SIOP (International Society of Paediatric Oncology):** same principle with VCR + AMD if non-metastatic.
