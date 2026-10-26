@@ -422,3 +422,42 @@ CT (computed tomography) angiography, renogram
 > - Unit loss 5–10%; success about 90%.
 
 ---
+
+## Q3f. Urinary biomarkers in diagnostic evaluation of hematuria.
+**Type:** SAQ (10 marks)
+
+### Introduction
+- Haematuria is evaluated with **cystoscopy and upper tract imaging**; bladder cancer is the main cancer found. Urine tests were developed as cheaper, non-invasive **adjuncts**.
+- **Glomerular clues** on urine microscopy (dysmorphic RBCs (red blood cells), RBC casts, proteinuria) → nephrology referral, plus full urological evaluation.
+
+### Urine cytology
+- Exfoliated cells (Papanicolaou). **Sensitivity 31–62%, specificity 94–100%**: good for **high-grade tumours and CIS (carcinoma in situ)**, poor for low grade.
+- **Paris System:** negative for HGUC (high-grade urothelial carcinoma), atypical, suspicious, HGUC; based on N:C (nuclear-to-cytoplasmic) ratio ≥0.7 and nuclear features.
+- Positive cytology with normal cystoscopy → random bladder and prostatic urethral biopsies, upper tract washings ± ureteroscopy.
+
+### Urinary biomarkers (sensitivity/specificity, Chou 2015 meta-analysis)
+| Marker | Principle | Sens / spec | Note |
+|---|---|---|---|
+| **NMP22 (nuclear matrix protein 22)** | Nuclear protein, about 20× higher in cancer; lab or point-of-care (BladderChek) | 0.69/0.77; 0.58/0.88 | False positives: inflammation, stones, instrumentation |
+| **BTA (bladder tumour antigen)** stat / TRAK | Complement factor H–related protein; dipstick or ELISA (enzyme-linked immunosorbent assay) | 0.64/0.77 | **False positive with blood** (factor H in serum): weak in haematuria |
+| **UroVysion FISH (fluorescence in situ hybridisation)** | Gain of chromosomes 3, 7, 17; loss of 9p21 | 0.63/0.87 | Reflex test for atypical cytology |
+| **ImmunoCyt** | Antibodies to CEA (carcinoembryonic antigen) + two mucins | 0.78/0.78 | Highest sensitivity; operator dependent |
+| **Cxbladder** | RT-PCR (reverse transcription polymerase chain reaction), 5 mRNAs | about 0.82/0.85 | Needs validation |
+- **Also know:** Xpert Bladder (mRNA); AssureMDx (FGFR3, TERT, HRAS mutations + methylation).
+- **Pattern:** more sensitive but less specific than cytology; better for symptomatic patients than surveillance; miss small low-grade tumours.
+
+### Role in haematuria (guidelines)
+- **AUA/SUFU (American Urological Association/Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction) 2020:** **no cytology or markers in the initial evaluation of microhaematuria**; cytology may be used after a negative work-up if CIS is suspected (irritative symptoms).
+- **Gross haematuria:** cytology with cystoscopy and CT (computed tomography) urography. A negative marker still leaves **≥10% cancer probability**, so cystoscopy is still needed.
+- **No marker replaces cystoscopy** (AUA, EAU (European Association of Urology)). Possible future role: lowering cystoscopy in low-risk patients (a negative test makes risk negligible).
+
+### Recent advances
+- utDNA (urinary tumour DNA); methylation assays (Bladder EpiCheck).
+
+**Diagram to draw:** haematuria pathway with cytology/markers as adjuncts.
+
+> **Key points to remember:**
+> - Cytology: specific for high grade/CIS, insensitive for low grade.
+> - BTA gives false positives with blood.
+> - AUA/SUFU 2020: no markers in initial microhaematuria work-up.
+> - No marker replaces cystoscopy.
