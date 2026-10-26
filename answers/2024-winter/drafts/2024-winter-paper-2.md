@@ -85,8 +85,8 @@ Failure or complication   -> surgery
 | Prostate volume | Options |
 |---|---|
 | <30 mL | TUIP, TURP (transurethral resection of the prostate) |
-| 30–80 mL | **TURP (reference standard)**, bipolar TURP, laser vaporisation (PVP), enucleation, PUL, Rezum (water vapour), Aquablation |
-| >80 mL | **HoLEP (holmium laser enucleation)** or ThuLEP, open or robotic simple prostatectomy |
+| 30–80 mL | **TURP (reference standard)**, bipolar TURP, PVP (photoselective vaporisation of the prostate), enucleation, PUL, Rezum (water vapour), Aquablation |
+| >80 mL | **HoLEP (holmium laser enucleation)** or thulium enucleation, open or robotic simple prostatectomy |
 
 - Ejaculation preserved: PUL, Rezum. Anticoagulated: PVP, HoLEP. PAE (prostatic artery embolisation) in selected men.
 - **TURP complications:** bleeding, **TUR syndrome** (hyponatraemia with glycine; avoided by bipolar saline), retrograde ejaculation, stricture, incontinence.
@@ -137,7 +137,7 @@ Failure or complication   -> surgery
   - Cells die (mostly apoptosis) and slough → **muddy-brown casts** block tubules; filtrate leaks back; endothelial injury and inflammation worsen hypoxia.
   - Phases: initiation → maintenance (oliguria) → recovery (polyuria).
 - **Toxic ATN:** vasoconstriction plus direct tubular injury. **Contrast:** risk with age, diabetes, CKD (chronic kidney disease). **Rhabdomyolysis** (long lateral positioning): myoglobin causes toxicity, cast obstruction and hypoperfusion.
-- **Postrenal:** raised tubular pressure, then afferent vasoconstriction; recovery depends on duration (complete obstruction: near-full recovery by 1–2 weeks, little by 6 weeks in animals).
+- **Postrenal:** raised tubular pressure, then afferent vasoconstriction; recovery depends on duration (dog studies of complete obstruction: full at 1 week, 70% at 2 weeks, none at 6 weeks).
 
 ### Evaluation
 - History (fluid loss, hypotension, drugs, contrast), volume status, bladder scan.
@@ -158,7 +158,7 @@ Failure or complication   -> surgery
 **General**
 - Treat the cause; **avoid hypotension** (MAP, mean arterial pressure, >65 mmHg or near baseline) and nephrotoxins; stop NSAIDs and ACE inhibitors or ARBs (angiotensin receptor blockers); adjust drug doses.
 - Isotonic crystalloid for hypovolaemia; aggressive fluids in rhabdomyolysis; IV fluid before contrast.
-- **Postrenal:** urethral or suprapubic catheter; **DJ stent or PCN (percutaneous nephrostomy)**; infected obstructed kidney is an emergency.
+- **Postrenal:** urethral or suprapubic catheter; **double-J stent or PCN (percutaneous nephrostomy)**; infected obstructed kidney is an emergency.
 - AIN: stop drug ± steroids; glomerulonephritis: nephrology and biopsy.
 
 **Complications**
@@ -265,7 +265,7 @@ Failure or complication   -> surgery
 ### Key trials
 | Trial | Setting | Result |
 |---|---|---|
-| **TIVO-1** (phase III) | 0–1 prior therapy, versus sorafenib | PFS (progression-free survival) 11.9 vs 9.1 months; response 33% vs 23%; OS (overall survival) 28.8 vs 29.3 months |
+| **TIVO-1** (phase III) | 0–1 prior therapy, versus sorafenib | PFS (progression-free survival) 11.9 vs 9.1 months; response 33% vs 23%; OS (overall survival) not better (28.8 vs 29.3 months) |
 | **TIVO-3** (phase III) | After 2–3 prior systemic therapies including a VEGFR TKI, versus sorafenib | PFS 5.6 vs 3.9 months (HR, hazard ratio, 0.73); response 18% vs 8%; OS not different (HR 0.97); benefit also after prior checkpoint inhibitor |
 | **TiNivo-2** (phase III) | After checkpoint inhibitor; tivozanib ± nivolumab | **Negative:** adding nivolumab did not improve PFS (no immunotherapy re-challenge) |
 
@@ -359,7 +359,7 @@ Brain injury -> oedema -> raised ICP (intracranial pressure)
 |---|---|
 | Heart and vessels | Storm causes myocardial injury and arrhythmia, then **hypotension** |
 | Lungs | Neurogenic pulmonary oedema |
-| Pituitary | **Diabetes insipidus** (no ADH, antidiuretic hormone): polyuria, hypernatraemia; low thyroid hormone and cortisol |
+| Pituitary | **Diabetes insipidus (DI)** (no ADH, antidiuretic hormone): polyuria, hypernatraemia; low thyroid hormone and cortisol |
 | Hypothalamus | **Hypothermia** (poikilothermia) |
 | Blood | DIC (disseminated intravascular coagulation) from brain thromboplastin |
 | Whole body | Cytokine injury to organs; hyperglycaemia |
@@ -403,7 +403,7 @@ Brain injury -> oedema -> raised ICP (intracranial pressure)
 - VEGF (vascular endothelial growth factor) is immunosuppressive, so TKIs (tyrosine kinase inhibitors) synergise.
 
 ### Cytokine era
-- Interferon-α: response 10–15%. **High-dose IL-2 (interleukin-2):** durable complete response 7–9%, but capillary leak needs ICU care.
+- Interferon-α: response 10–15%. **High-dose IL-2 (interleukin-2):** durable complete response 7–9%, but capillary leak needs intensive care.
 
 ### Checkpoint inhibitors: trials (all clear cell)
 | Trial | Regimen | Result |

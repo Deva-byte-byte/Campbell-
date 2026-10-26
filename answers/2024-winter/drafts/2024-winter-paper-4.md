@@ -248,7 +248,7 @@ Intradermal antigen + adjuvant
    - **Phalloplasty:** **RFFF (radial forearm free flap)** or ALT (anterolateral thigh) flap with **tube-in-tube urethra**; microvascular anastomosis; **clitoral nerve coapted** to a flap nerve.
 6. **Urethral anastomosis** of phallic to fixed part; neomeatus at the tip.
 7. **Scrotoplasty:** labia majora flaps rotated 180° in front (Ghent type). Monsplasty and perineal closure.
-8. **Drainage:** **SPC (suprapubic catheter)** + urethral catheter; urethral catheter out at 14–21 days.
+8. **SPC (suprapubic catheter)** + urethral catheter; urethral catheter out at 14–21 days.
 
 ### Stage 3: prostheses
 9. **Testicular prostheses** (17 mL) at 6 months or more.
@@ -449,8 +449,7 @@ Intradermal antigen + adjuvant
 ### Approvals (FDA [Food and Drug Administration])
 - **Olaparib monotherapy:** HRR-mutated mCRPC after ARPI (2020).
 - **Rucaparib:** BRCA-mutated mCRPC.
-- **Olaparib + abiraterone; niraparib + abiraterone:** BRCA-mutated mCRPC (2023).
-- **Talazoparib + enzalutamide:** HRR-mutated mCRPC (2023).
+- **Olaparib or niraparib + abiraterone:** BRCA-mutated; **talazoparib + enzalutamide:** HRR-mutated (both 2023).
 
 ### Toxicity
 - **Anaemia** (commonest grade 3–4; monitor counts), fatigue, nausea; rare **MDS/AML (myelodysplastic syndrome/acute myeloid leukaemia)**, pulmonary embolism.
@@ -464,4 +463,3 @@ Intradermal antigen + adjuvant
 > - Synthetic lethality; BRCA2 gains most, ATM least.
 > - PROfound: olaparib, PFS 7.4 vs 3.6 months.
 > - Combinations: PROpel, MAGNITUDE, TALAPRO-2.
-> - Test germline and somatic HRR in all mCRPC.
