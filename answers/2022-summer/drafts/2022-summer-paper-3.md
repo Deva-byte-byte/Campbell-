@@ -292,7 +292,7 @@ Resuscitate, transfuse; correct coagulopathy; treat infection
 > **Key points to remember:**
 > - Acrolein (prevent with mesna); radiation endarteritis; BK virus.
 > - Alum first; formalin only after cystogram.
-> - HBOT for radiation cystitis (RICH-ART); embolise if unstable.
+> - Hyperbaric oxygen for radiation cystitis (RICH-ART); embolise if unstable.
 
 ---
 
