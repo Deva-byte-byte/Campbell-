@@ -335,7 +335,7 @@ Lower midline incision → anterior cystotomy
 *Assumed meaning: AML = renal angiomyolipoma (not acute myeloid leukaemia).*
 
 ### Introduction
-- Benign **PEComa (perivascular epithelioid cell tumour)** of dysmorphic **vessels, smooth muscle and fat**. Prevalence about 0.13%; female predominance; fourth–fifth decades.
+- Benign **PEComa (perivascular epithelioid cell tumour)** of dysmorphic **vessels, smooth muscle and fat**. Female predominance; fourth–fifth decades.
 - **Sporadic** (solitary, small) or with **TSC (tuberous sclerosis complex**; AML in 55–90%: younger, bilateral, multifocal, larger) or LAM (lymphangioleiomyomatosis).
 - **Mechanism:** loss of **TSC2** (tuberin, 16p13) or TSC1 (hamartin, 9q34) → unchecked **mTOR (mammalian target of rapamycin)** → growth and angiogenesis.
 - **Epithelioid AML**: little fat; aggressive (venous extension, metastasis) → treat as RCC (renal cell carcinoma).
@@ -344,8 +344,8 @@ Lower midline incision → anterior cystotomy
 - Mostly incidental. Larger tumours bleed: **Wunderlich syndrome** (spontaneous retroperitoneal haemorrhage); Lenk triad of flank pain, mass, shock. Haematuria, hypertension, CKD (chronic kidney disease) in TSC.
 
 ### Diagnosis
-- **CT (computed tomography): macroscopic fat (−15 to −20 HU or lower) on non-contrast images is diagnostic.**
-- US (ultrasound): hyperechoic (some RCCs too). MRI (magnetic resonance imaging): signal loss on fat suppression; India-ink artefact.
+- **CT (computed tomography): macroscopic fat (about −15 to −20 HU) on non-contrast images is diagnostic.**
+- US (ultrasound) hyperechoic (so are some RCCs); MRI (magnetic resonance imaging): fat-suppression signal loss, India-ink artefact.
 - Fat-poor lesion → MRI ± biopsy (HMB-45 (human melanoma black-45), Melan-A, smooth muscle actin positive).
 - **Aneurysm ≥5 mm** on CT angiography predicts bleeding.
 
@@ -360,7 +360,7 @@ Lower midline incision → anterior cystotomy
 - The old **4 cm** cut-off overtreats; most guidelines now favour surveillance (EAU 2023).
 
 ### Treatments
-- **SAE:** first line; **post-embolisation syndrome** (fever, pain, leucocytosis) common; abscess, infarction; retreatment sometimes needed.
+- **SAE:** first line; **post-embolisation syndrome** (fever, pain, leucocytosis) common; abscess, infarction.
 - **Partial nephrectomy:** preferred surgery, essential in TSC (multifocal, recurrent).
 - **Thermal ablation:** RFA (radiofrequency ablation), cryoablation; limited data.
 - **Everolimus (EXIST-2):** ≥50% volume reduction in **42% vs 0%** with placebo; side effects stomatitis, acne, hyperlipidaemia.

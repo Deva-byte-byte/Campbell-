@@ -377,7 +377,7 @@
 **Type:** SAQ (10 marks)
 
 ### Principles
-- **Knudson two-hit hypothesis:** carriers inherit one mutant tumour-suppressor allele in every cell, so one more hit causes cancer: **early onset, bilateral, multifocal** tumours.
+- **Knudson two-hit hypothesis:** every cell carries one inherited mutant tumour-suppressor allele, so one more hit causes cancer: **early, bilateral, multifocal** tumours.
 - **4–6% of RCC (renal cell carcinoma)** is familial; all familial RCC syndromes are **autosomal dominant**; only HPRC is an activated oncogene.
 
 ### Hereditary kidney cancer syndromes
@@ -390,7 +390,7 @@
 | **BHD** (Birt–Hogg–Dubé) | FLCN (folliculin, 17p11.2) | Chromophobe, hybrid oncocytic, oncocytoma | Fibrofolliculomas, lung cysts, pneumothorax |
 | **TSC** (tuberous sclerosis complex) | TSC1 (9q34), TSC2 (16p13) | Multiple AMLs (angiomyolipomas); RCC 1–3% | Angiofibromas, cortical tubers |
 
-- **VHL types:** type 1 (deletions, truncations) without phaeochromocytoma; type 2 (missense) with it.
+- **VHL type 1** (deletions, truncations): no phaeochromocytoma; **type 2** (missense): phaeochromocytoma.
 - **Also know:** SDH-deficient RCC (paraganglioma); BAP1 (uveal melanoma, mesothelioma); Cowden (PTEN; breast, thyroid).
 
 ### Management principles for kidney
@@ -398,13 +398,13 @@
 - TSC AML: everolimus; embolisation or partial nephrectomy if ≥5 cm. **Belzutifan** (HIF-2α [hypoxia-inducible factor 2α] inhibitor, FDA-approved 2021) for VHL.
 
 ### Other urological cancers
-- **Prostate:** **BRCA2**, BRCA1, ATM, CHEK2, PALB2, HOXB13, mismatch repair genes; father and brother affected: 9-fold risk. Uses: earlier screening, caution in active surveillance, **PARP (poly ADP-ribose polymerase) inhibitors**.
-- **UTUC (upper tract urothelial carcinoma): Lynch syndrome** (MLH1, MSH2, MSH6, PMS2): 14-fold risk, about 75-fold with MSH2. Suspect if age <60 or personal or family Lynch cancer; MMR (mismatch repair) immunohistochemistry, then germline sequencing.
+- **Prostate:** **BRCA2**, BRCA1, ATM, CHEK2, PALB2, HOXB13, mismatch repair genes; father plus brother: 9-fold risk. Earlier screening, cautious active surveillance, **PARP (poly ADP-ribose polymerase) inhibitors**.
+- **UTUC (upper tract urothelial carcinoma): Lynch syndrome** (MLH1, MSH2, MSH6, PMS2): 14-fold risk, about 75-fold with MSH2. Suspect if age <60 or Lynch cancer history; MMR (mismatch repair) immunohistochemistry, then germline testing.
 - **Testis:** affected brother RR (relative risk) 8–12, father 2–4.
 - **Also know:** Wilms tumour (WT1: WAGR, Denys–Drash; Beckwith–Wiedemann).
 - **Approach:** genetic counselling, germline testing, screening relatives.
 
-**Diagram to draw:** VHL–HIF pathway: VHL loss → HIF accumulation → VEGF (vascular endothelial growth factor).
+**Diagram to draw:** VHL loss → HIF accumulation → VEGF (vascular endothelial growth factor) → angiogenesis.
 
 > **Key points to remember:**
 > - All familial RCC is autosomal dominant; 3 cm rule except HLRCC.

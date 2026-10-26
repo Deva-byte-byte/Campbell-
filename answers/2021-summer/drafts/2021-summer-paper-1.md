@@ -198,7 +198,7 @@
 | Bowen disease | Scaly shaft plaque; about 5% progress |
 | Bowenoid papulosis | Shaft papules in young men; does not progress |
 | **Lichen sclerosus** (BXO, balanitis xerotica obliterans) | SCC (squamous cell carcinoma) in **2.3–9%**, HPV-independent type |
-| Giant condyloma (Buschke–Löwenstein) | HPV 6/11; local invasion; coexisting SCC |
+| Giant condyloma (Buschke–Löwenstein) | Locally invasive; may harbour SCC |
 | **Also know** | Cutaneous horn, micaceous balanitis, phimosis, genital lichen planus |
 - **Mechanism (HPV):** E6 inactivates p53, E7 inactivates retinoblastoma protein; p16 is the marker.
 - **Treatment:** biopsy first; circumcision for preputial lesions; topical **5-fluorouracil or 5% imiquimod**; laser; **glans resurfacing**. Lichen sclerosus: clobetasol 0.05%, lifelong follow-up.
@@ -213,8 +213,8 @@
 - **HGPIN** (high-grade prostatic intraepithelial neoplasia): precursor; isolated HGPIN no longer needs repeat biopsy. IDC-P (intraductal carcinoma of the prostate) usually means invasive cancer nearby.
 
 ### Testis
-- **GCNIS** (germ cell neoplasia in situ): precursor of all postpubertal GCTs (germ cell tumours) except spermatocytic tumour; **50% invasive within 5 years**. Contralateral GCNIS 5–9%. Treat by orchidectomy or **radiotherapy ≥20 Gy**.
-- Cryptorchidism; **gonadoblastoma** in dysgenetic gonads with Y material.
+- **GCNIS** (germ cell neoplasia in situ): precursor of all postpubertal GCTs (germ cell tumours) except spermatocytic tumour; **50% invasive within 5 years**. Treat by orchidectomy or **radiotherapy ≥20 Gy**.
+- **Gonadoblastoma** in dysgenetic gonads with Y material; cryptorchidism.
 
 ### Kidney and others
 - **Also know:** papillary adenoma; acquired cystic kidney disease on dialysis; urethral diverticulum; bowel in augmentation.
@@ -240,7 +240,7 @@
 
 ### Why it matters (pathophysiology)
 - **Progesterone** relaxes ureteric smooth muscle; the **uterus compresses the ureters at the pelvic brim** (right more). Dilatation from about 15 weeks; normal by 6 weeks postpartum.
-- Result: **stasis and hydroureteronephrosis**, so bacteriuria persists and ascends.
+- Result: **stasis and hydroureteronephrosis**; bacteriuria persists and ascends.
 - GFR (glomerular filtration rate) rises 30–50%: creatinine and drug levels fall.
 - **Untreated ASB → pyelonephritis in 15–45%** (historical), 60–75% in the third trimester. Treatment cuts this to **1–4%**.
 - Pyelonephritis causes **preterm birth, low birth weight** and maternal sepsis. **Cochrane 2019:** treating ASB reduces all three.
@@ -257,7 +257,7 @@
 - ASB and cystitis: culture-directed, **4–7 days** (cures more than a single dose); **repeat culture** after treatment.
 
 ### Pyelonephritis
-- **Admit**; IV (intravenous) β-lactam (± gentamicin) until afebrile, then oral to complete ≥14 days. No improvement by **72 h → renal ultrasound** (stone, obstruction, abscess).
+- **Admit**; IV (intravenous) β-lactam (± gentamicin) until afebrile, then oral to complete ≥14 days. No improvement by **72 h → ultrasound** (stone, obstruction, abscess).
 
 ### Prophylaxis
 - After one pyelonephritis or two cystitis episodes: nightly nitrofurantoin or cephalexin until delivery; close culture surveillance is an alternative (Cochrane 2015).
@@ -299,7 +299,7 @@
 - **Management:** non-contrast CT (computed tomography); never pull by force; clear **bladder coil** (cystolithotripsy), then **ureter** (ureteroscopy), then **renal coil** (flexible ureteroscopy or PCNL [percutaneous nephrolithotomy]).
 
 ### Stent failure
-- Extrinsic compression (malignancy, radiation), debris, encrustation. Obstructive symptoms with a stent → image; change stent, or **PCN** (percutaneous nephrostomy) or **metallic stent**.
+- Extrinsic compression (malignancy, radiation), debris, encrustation. Obstructive symptoms → image; change stent, **PCN** (percutaneous nephrostomy) or **metallic stent**.
 
 ### Prevention
 - Indication-based stenting; correct length; **stent register** and removal date; long-term stents changed every 3–6 months (local practice); **pregnancy: change about every 4 weeks**.
@@ -319,7 +319,7 @@
 
 ### Definition
 - Normal excretion is **80–150 mg/day** (albumin <30 mg/day). The glomerulus holds back albumin; the proximal tubule reabsorbs filtered small proteins.
-- **Nephrotic range:** >3.5 g/day with hypoalbuminaemia, oedema and hyperlipidaemia. Pregnancy: abnormal only above 300 mg/24 h.
+- **Nephrotic range:** >3.5 g/day with hypoalbuminaemia, oedema and hyperlipidaemia.
 
 ### Types
 | Type | Mechanism | Amount | Example |
@@ -331,7 +331,7 @@
 | By timing | Features |
 |---|---|
 | **Transient** | Fever, exercise, heart failure; commonest in children |
-| **Orthostatic** | Young men, upright only, <1 g; benign. Normal first-morning sample, raised after hours upright |
+| **Orthostatic** | Young men, upright only, <1 g; benign (normal first-morning sample) |
 | **Persistent** | Mostly glomerular; needs full work-up |
 
 ### Detection and quantification
@@ -349,7 +349,7 @@ Positive dipstick → repeat; exclude UTI, fever, exercise
 - UTI: urinary tract infection; eGFR: estimated glomerular filtration rate; RBC: red blood cell; ANA: antinuclear antibody.
 
 ### Urological relevance
-- **Haematuria work-up:** urological bleeding rarely raises protein much; proteinuria with casts or dysmorphic cells suggests medical renal disease.
+- **Haematuria work-up:** proteinuria with casts or dysmorphic cells suggests medical renal disease; urological bleeding adds little protein.
 - **Reflux nephropathy:** proteinuria marks progression to renal failure.
 - **After nephrectomy:** hyperfiltration causes proteinuria and FSGS (focal segmental glomerulosclerosis); favour nephron sparing.
 - **Living donors:** significant proteinuria excludes donation. **Also know:** mTOR (mammalian target of rapamycin) inhibitors cause it.
@@ -376,15 +376,15 @@ Positive dipstick → repeat; exclude UTI, fever, exercise
 | Tracer | Handling | Use |
 |---|---|---|
 | ⁹⁹ᵐTc-**MAG3** (technetium-99m mercaptoacetyltriglycine) | Tubular secretion | **Agent of choice**: split function and drainage; good images even with poor function |
-| ⁹⁹ᵐTc-**DTPA** (diethylenetriaminepentaacetic acid) | Glomerular filtration only | GFR (glomerular filtration rate); poor images in renal impairment |
+| ⁹⁹ᵐTc-**DTPA** (diethylenetriaminepentaacetic acid) | Glomerular filtration | GFR (glomerular filtration rate); poor in renal impairment |
 | ⁹⁹ᵐTc-**DMSA** (dimercaptosuccinic acid) | Cortical retention | Static split function; no drainage data |
 
 ### "Well-tempered" diuretic renogram (standard protocol)
-- **Hydration:** oral or IV (intravenous) fluids; dehydration gives false obstruction.
-- **Bladder catheter:** removes the effect of a full bladder and reflux.
+- **Hydration** (oral or IV [intravenous]): dehydration mimics obstruction.
+- **Bladder catheter:** removes full-bladder and reflux effects.
 - **Furosemide:** 0.5 mg/kg (maximum 40 mg) in adults; 1 mg/kg in children.
 - **Timing:** **F+20** (20 min after tracer, when the pelvis is full), **F0** (with tracer) or **F−15** (15 min before, so the system is already in diuresis).
-- **Regions of interest** around cortex (function) and pelvis (drainage); then upright (gravity) images.
+- Regions of interest over cortex and pelvis; then upright images.
 
 ### Outputs
 - **DRF (differential renal function):** area under each curve at 1–3 min; normal 45–55%.
@@ -407,7 +407,7 @@ Positive dipstick → repeat; exclude UTI, fever, exercise
 - One Campbell chapter calls T½ >40 min obstructed; children have no agreed cut-off, so serial trends and curve shape matter.
 
 ### Follow-up and alternatives
-- After pyeloplasty: renogram about 1 month after stent removal; spontaneous drainage confirms success.
+- After pyeloplasty: renogram 1 month after stent removal; spontaneous drainage means success.
 - Equivocal → **Whitaker test** (>15–20 cm H₂O obstructed) or magnetic resonance urography.
 
 **Diagram to draw:** renogram curves: normal, obstructed (rising) and dilated non-obstructed (falls after furosemide).
