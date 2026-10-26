@@ -107,7 +107,7 @@
 |---|---|---|---|
 | **Holmium:YAG** | 2120 nm | Water | 0.4 mm |
 | Thulium fibre | 1940 nm | Water | 0.2 mm |
-| KTP (green light) | 532 nm | Haemoglobin | 0.8 mm |
+| KTP (potassium-titanyl-phosphate, green light) | 532 nm | Haemoglobin | 0.8 mm |
 | Nd:YAG | 1064 nm | – | About 1 cm (sloughing) |
 
 ### MOSES (pulse modulation)
@@ -184,7 +184,7 @@
 
 ### Techniques
 - **Walsh anatomic (open):** release apex to base from the rectal surface; small clips; **no thermal energy**.
-- **High anterior release** (open) and **Veil of Aphrodite** (robotic): lateral prostatic fascia lifted high anteriorly as a "veil". Select by **Tsuzuki criteria**: ≥2 of PSA >10 ng/mL, Gleason >6, abnormal DRE (digital rectal examination), perineural invasion, high core involvement → >10% risk, so avoid.
+- **High anterior release** (open) and **Veil of Aphrodite** (robotic): lateral prostatic fascia lifted high anteriorly as a "veil". Select by **Tsuzuki criteria**: ≥2 of PSA (prostate-specific antigen) >10 ng/mL, Gleason >6, abnormal DRE (digital rectal examination), perineural invasion, high core involvement → >10% risk, so avoid.
 - **Antegrade release (robotic):** incise levator fascia, sweep NVB posterolaterally, clip pedicle at the "groove".
 - **Athermal, traction-free:** clips or bulldogs, cold scissors.
 - **Graded (risk-stratified) nerve sparing:** full, partial or none per side, from MRI (magnetic resonance imaging) and nomograms.
@@ -331,10 +331,10 @@
 ## Q3e. Hospital authorization committee for live related kidney donation.
 **Type:** SAQ (10 marks)
 
-*Indian law. Not covered in the chapter notes; based on THOA and THOTA Rules 2014.*
+*Indian law; not covered in the chapter notes.*
 
 ### Legal framework
-- **THOA (Transplantation of Human Organs Act) 1994**; amended 2011 (THOTA, including tissues); **Rules 2014**.
+- **THOA (Transplantation of Human Organs Act) 1994**; amended 2011 as THOTA (Transplantation of Human Organs and Tissues Act); **Rules 2014**.
 - Purpose: **prevent organ trade** while allowing genuine donation.
 
 ### Donor categories
