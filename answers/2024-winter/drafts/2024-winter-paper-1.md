@@ -71,7 +71,7 @@
 8. **Extract:** clip ureter, bag the specimen, remove via an extended port; close.
 - **Problems:** peritoneal tear (space collapses), emphysema, pneumothorax, vascular injury, flank hernia (intramuscular balloon), rhabdomyolysis (about 1%). **Bail-out:** open the peritoneum and convert.
 
-**Diagram to draw:** transverse section of the kidney showing the three spaces and Gerota's laminae, with the balloon between psoas and Gerota's fascia.
+**Diagram to draw:** transverse section showing the three spaces, Gerota's laminae and the balloon anterior to psoas.
 
 > **Key points to remember:**
 > - Three spaces: anterior pararenal, perirenal, posterior pararenal; perirenal cone open below.
@@ -139,7 +139,7 @@ Laparoscopy
 - **Fertility:** worse when bilateral (oligospermia 42%, azoospermia 31% in one large review).
 - **Cancer:** about **3-fold** risk; teach self-examination after puberty.
 
-**Diagram to draw:** sagittal fetus showing CSL, gubernaculum, processus vaginalis and the two phases with arrows.
+**Diagram to draw:** sagittal fetus showing CSL, gubernaculum, processus vaginalis and both phases.
 
 > **Key points to remember:**
 > - Transabdominal: CSL regression plus INSL3-driven gubernacular swelling.
@@ -161,8 +161,8 @@ Laparoscopy
 |---|---|
 | Measurable lesion | Longest diameter **≥10 mm on CT (computed tomography)**, ≥20 mm on chest X-ray, ≥10 mm with callipers |
 | Measurable node | **≥15 mm short axis**; 10–15 mm pathological but non-measurable; <10 mm normal |
-| Non-measurable | Small lesions, blastic bone metastases, effusions, ascites, leptomeningeal disease |
-| Target lesions | Up to **5 in total (maximum 2 per organ)**; largest, reproducible; **sum of diameters** recorded |
+| Non-measurable | Small lesions, blastic bone metastases, effusions, ascites |
+| Target lesions | Up to **5 (maximum 2 per organ)**; largest, reproducible; **sum of diameters** recorded |
 | Non-target | All other lesions, recorded as present or absent |
 
 
@@ -178,7 +178,7 @@ Laparoscopy
 - **End points:** ORR (objective response rate = CR + PR), PFS (progression-free survival), duration of response.
 
 ### Limitations
-- Size only, ignoring necrosis (TKIs (tyrosine kinase inhibitors) shrink tumours little); bone poorly assessed; observer variability.
+- Size only, ignoring necrosis (TKIs (tyrosine kinase inhibitors)); bone poorly assessed; observer variability.
 
 ### Modifications
 | Criteria | Use |
@@ -188,12 +188,12 @@ Laparoscopy
 | **PCWG3 (Prostate Cancer Working Group 3)** | Bone: 12-week scan is the new baseline (flare), then **≥2 new lesions** = progression; PSA (prostate-specific antigen) progression ≥25% and ≥2 ng/mL above nadir; soft tissue by RECIST |
 | PERCIST | PET (positron emission tomography) metabolic response |
 
-**Diagram to draw:** number line of change in sum of diameters: −30% (PR) ... 0 ... +20% (PD).
+**Diagram to draw:** number line of change in sum: −30% (PR), +20% (PD).
 
 > **Key points to remember:**
 > - RECIST 1.1: ≥10 mm lesion, node ≥15 mm short axis; 5 targets, 2 per organ.
 > - PR ≥30% fall from baseline; PD ≥20% and ≥5 mm rise from nadir, or new lesion.
-> - iRECIST for immunotherapy pseudoprogression; PCWG3 for prostate.
+> - iRECIST for immunotherapy; PCWG3 for prostate.
 
 ---
 
@@ -255,7 +255,7 @@ Wire cannot be passed / dense stricture / urethral disruption
 
 ## Q3c. Chronic Prostatitis : diagnosis, classification and management.
 **Type:** SAQ (10 marks)
-(also answered in 2018-Summer Paper 4, Q3d, for CP/CPPS)
+(also answered in 2018-Summer Paper 4, Q3d)
 
 ### Classification: NIH (National Institutes of Health), 1999
 | Category | Description |
@@ -263,7 +263,7 @@ Wire cannot be passed / dense stricture / urethral disruption
 | I | Acute bacterial prostatitis |
 | II | **Chronic bacterial prostatitis (CBP)**: recurrent UTI (urinary tract infection), **same organism**; well between episodes |
 | IIIA | **CP/CPPS (chronic prostatitis/chronic pelvic pain syndrome)**, inflammatory: leucocytes in EPS (expressed prostatic secretion), VB3 (post-massage urine) or semen |
-| IIIB | CP/CPPS, non-inflammatory (IIIA/IIIB split has no treatment value) |
+| IIIB | CP/CPPS, non-inflammatory (split has no treatment value) |
 | IV | Asymptomatic inflammatory (incidental) |
 
 - **CP/CPPS:** pelvic pain **≥3 of the last 6 months**, no uropathogens; 90–95% of cases. Infection, neurogenic inflammation, **pelvic floor dysfunction**, stress and **central sensitisation** interact.
@@ -274,8 +274,8 @@ Wire cannot be passed / dense stricture / urethral disruption
 - **DRE (digital rectal examination):** prostate tender in under half; palpate pelvic floor for **trigger points**.
 - **Localisation tests:**
   - **Meares–Stamey 4-glass:** VB1 (urethra), VB2 (bladder), EPS, VB3 (prostate).
-  - **2-glass test** (pre- and post-massage urine): predicts the 4-glass result in >95%.
-- Urinalysis, culture, PVR (post-void residual), flow; cytology if irritative symptoms; cystoscopy if low flow or bladder pain. PSA (prostate-specific antigen) not indicated.
+  - **2-glass** (pre- and post-massage urine): matches 4-glass in >95%.
+- Urinalysis, culture, PVR (post-void residual), flow; cytology if irritative symptoms; cystoscopy if low flow or bladder pain.
 - **UPOINT phenotyping:** Urinary, Psychosocial, Organ-specific, Infection, Neurological/systemic, Tenderness of muscles.
 
 ### Management
@@ -287,18 +287,18 @@ Wire cannot be passed / dense stricture / urethral disruption
 | Urinary | α-blocker if recent onset and α-blocker naive |
 | Psychosocial | CBT (cognitive behavioural therapy), stress reduction |
 | Organ | 5-ARI (5α-reductase inhibitor) if BPH (benign prostatic hyperplasia); quercetin |
-| Infection | Quinolone ≥6 weeks only if treatment-naive and <1 year; no repeated courses |
+| Infection | Quinolone ≥6 weeks only if treatment-naive, <1 year; no repeat courses |
 | Neurological | Pregabalin, amitriptyline, duloxetine |
 | Tenderness | **Pelvic floor physiotherapy, myofascial release**, biofeedback |
 
-- **Others:** acupuncture (responders 61.5% vs 38.3% sham), aerobic exercise, PTNS (percutaneous tibial nerve stimulation). **Not recommended:** TURP or prostatectomy for pain.
+- **Others:** acupuncture (61.5% vs 38.3% response with sham), aerobic exercise, PTNS (percutaneous tibial nerve stimulation). **Avoid** TURP or prostatectomy for pain.
 
-**Diagram to draw:** UPOINT snowflake with one therapy per domain.
+**Diagram to draw:** UPOINT snowflake.
 
 > **Key points to remember:**
 > - NIH I–IV; III = pain ≥3 of 6 months, no infection.
 > - CBP: same organism, fluoroquinolone 4–6 weeks.
-> - CP/CPPS: NIH-CPSI to score, UPOINT to treat, multimodal.
+> - CP/CPPS: NIH-CPSI to score, UPOINT to treat.
 
 ---
 
@@ -314,7 +314,7 @@ Wire cannot be passed / dense stricture / urethral disruption
 | **T2W (T2-weighted)**, triplanar | Anatomy; normal PZ (peripheral zone) bright | Low-signal lesion; "erased charcoal" in TZ (transition zone); shows EPE (extraprostatic extension) and SVI (seminal vesicle invasion) |
 | **DWI (diffusion-weighted imaging)** with **ADC (apparent diffusion coefficient)** map; high b-value (≥1400) | Cellular tumour restricts water movement | Bright on high-b DWI, **dark on ADC**; ADC falls as Gleason rises |
 | **DCE (dynamic contrast-enhanced)** T1 with gadolinium | Angiogenesis: early enhancement and washout | Early focal enhancement (type 3 curve) |
-- **Biparametric MRI (T2W + DWI):** no contrast, cheaper, similar detection by meta-analysis; poorer staging.
+- **Biparametric MRI (T2W + DWI):** no contrast, cheaper, similar detection; poorer staging.
 - **PI-QUAL (Prostate Imaging Quality):** quality score (1–5) before reporting.
 
 ### Interpretation: PI-RADS v2.1
@@ -331,16 +331,16 @@ Wire cannot be passed / dense stricture / urethral disruption
 | Peripheral | **DWI** | DWI 3 + DCE positive → 4 |
 | Transition | **T2W** | T2W 3 + DWI 5 → 4; T2W 2 + DWI ≥4 → 3 |
 - **DCE only upgrades PZ 3 to 4**; it never changes 4–5 or TZ scores.
-- Cancer in about one-third of PI-RADS 3, over half of 4 and about 90% of 5.
+- Cancer in about one-third of PI-RADS 3, half of 4, 90% of 5.
 - **PRECISE** score (1–5) tracks change during active surveillance.
 
 ### Clinical use and evidence
 - **PROMIS (2017):** sensitivity 93% vs 48% for TRUS (transrectal ultrasound) biopsy; 27% could avoid biopsy.
 - **PRECISION (2018):** MRI pathway with targeted biopsy of PI-RADS ≥3 detected more significant cancer (38% vs 26%), 28% avoided biopsy.
 - EAU (European Association of Urology) and AUA (American Urological Association): MRI **before biopsy**; also staging, active surveillance, focal therapy planning.
-- Limitations: low specificity (Cochrane 0.37); reader-dependent; misses some significant cancers.
+- Limitations: low specificity (Cochrane 0.37); reader-dependent.
 
-**Diagram to draw:** prostate zones (PZ, TZ) with a PZ lesion dark on ADC and T2.
+**Diagram to draw:** prostate zones with a PZ lesion dark on ADC.
 
 > **Key points to remember:**
 > - T2W anatomy, DWI/ADC cellularity, DCE vascularity.
@@ -378,7 +378,7 @@ Wire cannot be passed / dense stricture / urethral disruption
 - **No surveillance cystoscopy** in chronic indwelling catheters (AUA/SUFU 2021).
 - Theatre if TURBT (transurethral resection of bladder tumour) needed, poor tolerance, children, or complex diversions.
 
-**Diagram to draw:** flowchart of haematuria risk group leading to cystoscopy plus imaging.
+**Diagram to draw:** haematuria risk-group flowchart.
 
 > **Key points to remember:**
 > - Haematuria and NMIBC surveillance are the two commonest indications.
@@ -416,7 +416,7 @@ Wire cannot be passed / dense stricture / urethral disruption
 
 - **Evidence:** stone-free rates and complications similar; supine often shortens operating time; choice is mainly surgeon preference.
 
-**Diagram to draw:** cross-section showing tract direction prone (vertical, posterior calyx) versus supine (horizontal, posterior axillary line).
+**Diagram to draw:** cross-section showing prone (vertical) and supine (horizontal) tracts.
 
 > **Key points to remember:**
 > - Prone: posterior and upper pole access, big working space.

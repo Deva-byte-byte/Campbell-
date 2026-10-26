@@ -438,7 +438,7 @@ Intradermal antigen + adjuvant
 ### Key trials
 | Trial | Setting | Result |
 |---|---|---|
-| **PROfound** | Olaparib vs enzalutamide/abiraterone after ARPI | BRCA/ATM cohort: imaging PFS (progression-free survival) **7.4 vs 3.6 months (HR [hazard ratio] 0.34)**; OS (overall survival) 18.5 vs 15.1 months |
+| **PROfound** | Olaparib vs enzalutamide/abiraterone after ARPI | BRCA/ATM cohort: imaging PFS (progression-free survival) **7.4 vs 3.6 months (HR [hazard ratio] 0.34)**; OS (overall survival) 19.1 vs 14.7 months in the final analysis (chapter quotes the interim 18.5 vs 15.1) |
 | **TRITON3** | Rucaparib vs physician's choice | BRCA: PFS 11.2 vs 6.4 months (HR 0.50); no ATM benefit |
 | **PROpel** | Olaparib + abiraterone, first-line mCRPC | OS 42.1 vs 34.7 months (P = 0.054, not significant); greatest in BRCA |
 | **MAGNITUDE** | Niraparib + abiraterone, HRR-altered | BRCA rPFS (radiographic PFS) 19.5 vs 10.9 months (HR 0.55); no benefit without HRR alteration |
