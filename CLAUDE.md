@@ -16,7 +16,7 @@ This repository is the user's MCh Urology exam-preparation workspace. The user i
 Each question is answered in this structure:
 
 ```
-## <Paper/Set>-<Q no>. <Question text exactly as given>
+## Q<no>. <Question text exactly as given>   (e.g. Q1, Q2, Q3a–Q3f; the paper label is in the title)
 **Type:** LAQ (25 marks)   or   **Type:** SAQ (10 marks)
 
 ### <Major exam subheadings: Definition/Introduction, Classification, Pathophysiology,
