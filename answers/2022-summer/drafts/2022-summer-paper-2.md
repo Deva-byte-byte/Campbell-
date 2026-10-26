@@ -16,7 +16,7 @@
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- **Infertility:** no conception after 12 months of regular unprotected intercourse. It affects about **15% of couples** (WHO, World Health Organization). The male contributes about half the problem, yet many male partners are never examined.
+- **Infertility:** no conception after 12 months of regular unprotected intercourse; about **15% of couples** (WHO, World Health Organization). The male contributes about half, yet many men are never examined.
 - The urologist (andrologist) has five roles: **diagnose** the male factor, **treat endocrine causes**, **correct surgical causes**, **retrieve sperm for ART (assisted reproductive technology)**, and protect **general health and future fertility**.
 - Commonest diagnoses: idiopathic, **varicocele** (commonest correctable), obstruction.
 
@@ -61,7 +61,7 @@
 ### 5. Partner of the ART team, counselling and men's health
 - Choose the least invasive route: natural conception, IUI (intrauterine insemination), IVF/ICSI (in vitro fertilisation/intracytoplasmic sperm injection). **Cryopreserve sperm** at retrieval.
 - **Fertility preservation:** sperm banking before chemotherapy, radiotherapy, RPLND or gender-affirming treatment; **onco-TESE** if azoospermic.
-- **Genetic counselling:** AZFc deletion passes to sons; CFTR risk to offspring; advanced paternal age ≥40 years raises offspring risk.
+- **Genetic counselling:** AZFc deletion passes to sons; CFTR risk to offspring; paternal age ≥40 years raises offspring risk.
 - **Infertility is a marker of general health:** higher risk of **testis cancer** (scan every azoospermic man), later comorbidity and mortality.
 
 **Recent advances:** sperm DNA fragmentation testing; microfluidic sperm selection; genomic panels; prepubertal testicular tissue cryopreservation (experimental).
@@ -178,11 +178,11 @@
 - **Indication:** high-risk **BCG (bacille Calmette–Guérin)-unresponsive NMIBC (non-muscle-invasive bladder cancer)** in patients unfit for or declining radical cystectomy. BCG-unresponsive: persistent or recurrent CIS (carcinoma in situ) or high-grade Ta/T1 after adequate BCG, or relapse within 6 months (Ta/T1) or 12 months (CIS) of the last dose.
 
 ### Agents
-| Agent | Vector and mechanism | Key data |
+| Agent | Vector, mechanism | Key data |
 |---|---|---|
 | **Nadofaragene firadenovec** | **Replication-incompetent adenovirus type 5** carrying the **interferon-α2b gene**, with **Syn3** surfactant. Urothelium keeps secreting interferon → apoptosis (TRAIL pathway) and immunity, overcoming the short dwell of interferon protein | 75 mL every **3 months**, 1-hour dwell. CIS: **complete response 53% at 3 months, 24% at 12 months**; papillary high-grade RFS (recurrence-free survival) 44% at 12 months; serious events 2%. **FDA (Food and Drug Administration) approved December 2022**, first bladder gene therapy |
 | **Cretostimogene grenadenorepvec (CG0070)** | **Replication-competent oncolytic adenovirus**: E2F promoter limits replication to RB (retinoblastoma) pathway-defective tumour cells; **GM-CSF (granulocyte-macrophage colony-stimulating factor)** transgene adds immunity | Two 6-week inductions + maintenance; with pembrolizumab about two-thirds CR at 12 months; phase III ongoing |
-| **Inodiftagene vixteplasmid (BC-819)** | Non-viral plasmid: **diphtheria toxin A** gene under the **H19** promoter (active in tumour) | Investigational |
+| **Inodiftagene vixteplasmid (BC-819)** | Plasmid: **diphtheria toxin A** gene under tumour-active **H19** promoter | Investigational |
 
 ### Administration and toxicity
 - Catheter instillation, patient turned during dwell; biosafety precautions.
@@ -194,7 +194,7 @@
 
 **Also know:** non-viral IL-12 (interleukin-12) plasmid (EG-70); early adenoviral attempts failed through poor transduction.
 
-**Diagram to draw:** adenovirus entering a urothelial cell → interferon gene expression → tumour apoptosis.
+**Diagram to draw:** adenovirus transducing a urothelial cell → interferon secretion → tumour apoptosis.
 
 > **Key points to remember:**
 > - Nadofaragene: non-replicating adenovirus + interferon-α2b + Syn3, every 3 months.
@@ -253,7 +253,7 @@ Lithotomy; tranexamic acid 1 g; catheter
 - **Vaginal stenosis** (poor dilation); prolapse 4–10%.
 - Most achieve orgasm (median about 6 months).
 
-**Diagram to draw:** sagittal view of inverted penile skin in the canal between bladder/prostate and rectum.
+**Diagram to draw:** sagittal view of the lined canal between prostate and rectum.
 
 > **Key points to remember:**
 > - Glans → clitoris; penile skin → canal; scrotal skin → graft.
@@ -279,7 +279,7 @@ Lithotomy; tranexamic acid 1 g; catheter
 - Dead cells slough → **casts obstruct tubules**; filtrate leaks back; endothelial injury and inflammation worsen hypoxia; autoregulation is lost.
 
 ### Clinical course
-- Initiation → **maintenance** (oliguria, rising creatinine for days) → **recovery** (polyuria as tubules regenerate before concentrating ability returns).
+- Initiation → **maintenance** (oliguria, rising creatinine) → **recovery** (polyuria: tubules regenerate before concentrating ability returns).
 - AKI per KDIGO (Kidney Disease: Improving Global Outcomes): creatinine rise ≥0.3 mg/dL or ×1.5, or urine <0.5 mL/kg/h for 6 hours.
 
 ### Diagnosis: ATN versus prerenal
@@ -301,7 +301,7 @@ Lithotomy; tranexamic acid 1 g; catheter
 - Dialysis for refractory **AEIOU**: acidosis, electrolytes (hyperkalaemia), ingestions, overload, uraemia.
 - Recovery takes days to weeks; mortality about half if RRT (renal replacement therapy) is needed.
 
-**Diagram to draw:** tubular cell losing polarity → sloughing → cast obstruction and back-leak.
+**Diagram to draw:** tubular cell losing polarity → sloughing → casts and back-leak.
 
 > **Key points to remember:**
 > - FeNa >1%, specific gravity <1.010, muddy-brown casts.
