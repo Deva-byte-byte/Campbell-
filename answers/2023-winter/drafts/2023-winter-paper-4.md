@@ -103,6 +103,7 @@
 - **LASER:** light amplification by stimulated emission of radiation. Ho:YAG = holmium atoms in a YAG (yttrium–aluminium–garnet) crystal.
 - **Wavelength about 2120 nm**; chromophore **water**; **pulsed**; optical penetration **0.4 mm**. It cuts by vaporisation with a thin coagulation zone; heat spreads 2–3 mm and seals small and medium vessels.
 - Flexible quartz fibres; **normal saline**, so no TUR (transurethral resection) syndrome.
+
 | Laser | Wavelength | Chromophore | Penetration |
 |---|---|---|---|
 | **Holmium:YAG** | 2120 nm | Water | 0.4 mm |
@@ -188,7 +189,7 @@
 - **Antegrade release (robotic):** incise levator fascia, sweep NVB posterolaterally, clip pedicle at the "groove".
 - **Athermal, traction-free:** clips or bulldogs, cold scissors.
 - **Graded (risk-stratified) nerve sparing:** full, partial or none per side, from MRI (magnetic resonance imaging) and nomograms.
-- **NeuroSAFE:** frozen section of the whole posterolateral margin; if positive, that NVB is resected. More nerve sparing without more positive margins; NeuroSAFE PROOF RCT (randomised controlled trial) reported better erectile function.
+- **NeuroSAFE:** frozen section of the whole posterolateral margin; if positive, that NVB is resected. More nerve sparing without more positive margins; the NeuroSAFE PROOF RCT (randomised controlled trial) tested its effect on erectile function.
 - **Retzius-sparing (Bocciardi 2010)** and **Hood (Tewari 2021):** aimed at continence; potency equal at 12 months.
 
 ### Adjuncts
