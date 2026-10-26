@@ -51,7 +51,7 @@
 ### 4. Surgical role
 | Problem | Operation |
 |---|---|
-| Clinical varicocele + abnormal semen | **Microsurgical subinguinal varicocelectomy** or embolisation: improves semen, DNA fragmentation and pregnancy. Not for subclinical (US-only) varicocele |
+| Clinical varicocele + abnormal semen | **Microsurgical subinguinal varicocelectomy** or embolisation: improves semen, DNA fragmentation and pregnancy. Not for US-only varicocele |
 | Vasal or epididymal obstruction | **Vasovasostomy / vasoepididymostomy** (microsurgical intussusception) |
 | EDO | **TURED** (transurethral resection of ejaculatory ducts) |
 | Non-obstructive azoospermia | **Micro-TESE** (microdissection testicular sperm extraction), best technique; no operation for **AZFa/AZFb** deletions (no sperm found) |
@@ -60,7 +60,7 @@
 
 ### 5. Partner of the ART team, counselling and men's health
 - Choose the least invasive route: natural conception, IUI (intrauterine insemination), IVF/ICSI (in vitro fertilisation/intracytoplasmic sperm injection). **Cryopreserve sperm** at retrieval.
-- **Fertility preservation:** sperm banking before chemotherapy, radiotherapy, RPLND or gender-affirming treatment; **onco-TESE** if azoospermic.
+- **Fertility preservation:** sperm banking before chemotherapy, radiotherapy or RPLND; **onco-TESE** if azoospermic.
 - **Genetic counselling:** AZFc deletion passes to sons; CFTR risk to offspring; paternal age ≥40 years raises offspring risk.
 - **Infertility is a marker of general health:** higher risk of **testis cancer** (scan every azoospermic man), later comorbidity and mortality.
 
@@ -296,7 +296,7 @@ Lithotomy; tranexamic acid 1 g; catheter
 
 ### Management
 - Remove the cause; **avoid hypotension and nephrotoxins**; stop NSAIDs (non-steroidal anti-inflammatory drugs) and RAAS (renin–angiotensin–aldosterone system) blockers; adjust drug doses.
-- Isotonic fluids; aggressive fluids for rhabdomyolysis; pre-hydration before contrast.
+- Isotonic fluids; aggressive fluids in rhabdomyolysis; pre-contrast hydration.
 - **Diuretics only for volume overload**; they do not treat ATN.
 - Dialysis for refractory **AEIOU**: acidosis, electrolytes (hyperkalaemia), ingestions, overload, uraemia.
 - Recovery takes days to weeks; mortality about half if RRT (renal replacement therapy) is needed.
