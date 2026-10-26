@@ -40,7 +40,7 @@
 | **SARS (sacral anterior root stimulator)** | Anterior roots + dorsal rhizotomy | Complete SCI (spinal cord injury) |
 
 ### A. Sacral neuromodulation
-- **Third line** for OAB (AUA and EAU (European Association of Urology) agree). **FDA approved:** UUI (urgency urinary incontinence) 1997; urgency-frequency and NOUR 1999. **Not approved:** bladder pain, pelvic pain, neurogenic bladder.
+- **Third line** for OAB (AUA (American Urological Association) and EAU (European Association of Urology) agree). **FDA approved:** UUI (urgency urinary incontinence) 1997; urgency-frequency and NOUR 1999. **Not approved:** bladder pain, pelvic pain, neurogenic bladder.
 - **Test phase** (bladder diary): **PNE (percutaneous nerve evaluation)**: office, temporary lead, 5–7 days; or **staged implant**: permanent tined lead under fluoroscopy, test up to 4 weeks, then generator in the buttock (preferred for NOUR).
 - **Landmark:** S3 about 9 cm above the coccyx tip, 1–2 cm lateral. **S3 response: perineal "bellows" + great-toe flexion** (S2: calf/foot rotation; S4: bellows only).
 - **Implant if ≥50% improvement** in a diary parameter (retention: ≥50% fewer catheterisations).
@@ -83,7 +83,7 @@
 ## Q2. Discuss bladder preservation surgery for TCC of urinary bladder.
 **Type:** LAQ (25 marks)
 
-*Read as: bladder-preserving treatment of muscle-invasive TCC (transitional cell carcinoma, urothelial carcinoma), including radical TURBT, partial cystectomy and trimodality therapy.*
+*Read as: bladder-preserving treatment of muscle-invasive TCC (transitional cell carcinoma, urothelial carcinoma), including radical TURBT (transurethral resection of bladder tumour), partial cystectomy and trimodality therapy.*
 
 ### Introduction
 - Standard for MIBC (muscle-invasive bladder cancer): cisplatin NAC (neoadjuvant chemotherapy) + RC (radical cystectomy) with PLND (pelvic lymph node dissection).
@@ -95,7 +95,7 @@
 |---|---|
 | Radical TURBT alone | Not a primary treatment |
 | Partial cystectomy + PLND | Highly selected solitary tumours; urachal cancer |
-| Radiotherapy alone | Inferior; quasi-palliative |
+| RT (radiotherapy) alone | Inferior; quasi-palliative |
 | Chemotherapy alone | Not recommended |
 | **TMT (trimodality therapy)** | **Best-studied, guideline-accepted** |
 
@@ -117,11 +117,11 @@
 **Outcomes:** 5-year OS (overall survival) 67–70%, intact bladder 65–74%; salvage RC up to a quarter; late recurrence → lifelong follow-up.
 
 ### C. Trimodality therapy
-**Components:** (1) **maximal, visibly complete TURBT**; (2) **radiotherapy** to bladder ± pelvic nodes; (3) concurrent **radiosensitising chemotherapy**.
+**Components:** (1) **maximal, visibly complete TURBT**; (2) **RT** to bladder ± pelvic nodes; (3) concurrent **radiosensitising chemotherapy**.
 
 **Selection criteria:**
 - cT2 (selected cT3–4a), small solitary tumour.
-- **No hydronephrosis, no extensive CIS**, visibly complete TUR.
+- **No hydronephrosis, no extensive CIS**, visibly complete TURBT.
 - Good bladder function; motivated, compliant patient.
 - Only 6–19% of MIBC meet strict criteria.
 
@@ -169,7 +169,7 @@ Continuous (current):      TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr
 ### Recent advances
 - **Immunotherapy + chemoradiation:** PD-1/PD-L1 (programmed death-1 / ligand-1) inhibitors with TMT under trial (e.g. SWOG/NRG S1806 with atezolizumab; KEYNOTE-992 with pembrolizumab); results awaited.
 - Hypofractionation 55 Gy/20 non-inferior (BC2001–BCON meta-analysis: same toxicity).
-- Bladder sparing after complete response to NAC (± checkpoint inhibitor) with biomarker selection (DNA repair gene mutations, ctDNA); RETAIN: about half recurred.
+- Bladder sparing after complete response to NAC (± checkpoint inhibitor) with biomarker selection (DNA repair gene mutations, circulating tumour DNA); RETAIN: about half recurred.
 - **Also know:** robotic partial cystectomy; molecular subtypes.
 
 **Diagram to draw:** TMT flowchart from TURBT to chemoradiation, response check, surveillance or salvage cystectomy.
@@ -186,7 +186,7 @@ Continuous (current):      TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr
 **Type:** SAQ (10 marks)
 
 ### Principle
-- **PSMA (prostate-specific membrane antigen):** type II transmembrane glycoprotein, over-expressed by prostate cancer; expression rises with grade and stage.
+- **PSMA (prostate-specific membrane antigen):** transmembrane glycoprotein over-expressed by prostate cancer, rising with grade.
 - **PET/CT (positron emission tomography/computed tomography):** positron-labelled ligand binds PSMA; uptake as SUV (standardised uptake value).
 - **Tracers:** ⁶⁸Ga-PSMA-11 (half-life 68 min); ¹⁸F-DCFPyL, ¹⁸F-rhPSMA-7.3, ¹⁸F-PSMA-1007 (110 min, better images; PSMA-1007 little urinary excretion).
 - **Specificity >90%**; beats choline and fluciclovine.
@@ -204,7 +204,7 @@ Continuous (current):      TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr
 
 **3. Intraprostatic detection:** **PRIMARY** trial: adding PSMA PET to MRI (magnetic resonance imaging) improved negative predictive value; 5-point PRIMARY score.
 
-**4. Theranostics:** confirms target before **¹⁷⁷Lu-PSMA-617**. **VISION (2021):** mCRPC (metastatic castration-resistant prostate cancer) after ARPI (androgen receptor pathway inhibitor) and taxane – OS improved (15.3 vs 11.3 months).
+**4. Theranostics:** selects patients for **¹⁷⁷Lu-PSMA-617**. **VISION (2021):** mCRPC (metastatic castration-resistant prostate cancer) after ARPI (androgen receptor pathway inhibitor) and taxane: OS 15.3 vs 11.3 months.
 
 ### Reporting
 - **PROMISE miTNM** (molecular imaging TNM): miT, miN, miM staging plus expression score (vs blood pool, liver, parotid). PSMA-RADS also used.
@@ -243,6 +243,7 @@ Continuous (current):      TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr
 | Triptorelin | IM (intramuscular) depot |
 | Histrelin | Implant, 1 year |
 | Buserelin | Nasal or SC |
+
 - Substitution at **position 6** of the decapeptide raises potency and half-life.
 
 ### Mechanism
@@ -263,7 +264,7 @@ Agonist → initial LH surge (flare, testosterone up)
 - Metastatic hormone-sensitive prostate cancer (with ARPI (androgen receptor pathway inhibitor) or docetaxel).
 - With radiotherapy for intermediate/high-risk and locally advanced disease.
 - BCR (biochemical recurrence) with short doubling time; continued in CRPC (castration-resistant prostate cancer).
-- **Also know:** central precocious puberty, endometriosis; cryptorchidism (low success); intermittent ADT acceptable (PR.7).
+- **Also know:** central precocious puberty, endometriosis; cryptorchidism (low success); intermittent ADT (androgen deprivation therapy) acceptable (PR.7).
 
 ### Side effects
 - Hot flushes (50–80%), loss of libido, ED (erectile dysfunction).
@@ -291,9 +292,8 @@ Agonist → initial LH surge (flare, testosterone up)
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Flexible URS (ureteroscopy) became useful only after a working channel and active deflection were added (1980s).
-- **Fibreoptic scopes:** coherent glass-fibre bundle carries the image; fragile, fibres break → black spots; honeycomb (moiré) pattern.
-- **Digital scopes** (first: Olympus 2006): a sensor at the tip (**"chip-on-tip"**) converts light to an electrical signal. Image quality does not degrade.
+- **Fibreoptic flexible URS (ureteroscopy):** coherent glass-fibre bundle carries the image; fibres break → black spots; honeycomb (moiré) pattern.
+- **Digital scopes** (first 2006): a sensor at the tip (**"chip-on-tip"**) converts light to an electrical signal, so the image does not degrade.
 
 ### Sensor technology
 | | CCD (charge-coupled device) | CMOS (complementary metal-oxide semiconductor) |
@@ -301,6 +301,7 @@ Agonist → initial LH surge (flare, testosterone up)
 | Heat and power | More | Less (runs cooler) |
 | Cost, speed | Higher, slower | Cheaper, faster |
 | Status | Phased out | Current standard |
+
 - **LED (light-emitting diode)** at the tip; no camera head or light cable → better ergonomics.
 
 ### Fibreoptic vs digital
@@ -311,22 +312,23 @@ Agonist → initial LH surge (flare, testosterone up)
 | Durability | Repair about every 15 cases | **Not better** in later comparisons |
 | Operative time | Longer | Shorter; similar SFR (stone-free rate) |
 | Processor | Platform-agnostic | Proprietary |
+
 - Larger tip → more access-sheath use. Keep a fibreoptic scope for narrow UPJ (pelviureteric junction) or infundibulum.
 
 ### Deflection and channel
 - Active deflection **≥270° both directions**; enhanced primary deflection eases lower-pole access.
-- Working channel **3.6 Fr**; deflection lost with laser fibre in channel. Dual-channel scopes exist.
+- Working channel **3.6 Fr**; dual-channel scopes exist.
 
 ### Single-use vs reusable
 - **LithoVue (2016):** first single-use digital scope; CMOS, 7.7 Fr tip, 9.5 Fr shaft, 270°.
 - Single-use advantages: maximal deflection each case, sterile, no reprocessing or repair; cost **lower below about 99 cases/year**.
-- Reusable: cheaper in high-volume centres; reprocessing (peracetic acid, glutaraldehyde, ethylene oxide).
+- Reusable: cheaper in high-volume centres; needs reprocessing (peracetic acid, glutaraldehyde, ethylene oxide).
 - Most centres use a **hybrid fleet**; environmental impact similar.
 
 ### Recent advances
 - **Intrarenal pressure sensor** in the scope (LithoVue Elite): high pressure causes fever, SIRS (systemic inflammatory response syndrome), sepsis. Temperature sensing next.
 - **AI (artificial intelligence):** stone recognition, laser setting adjustment, navigation.
-- **Robotic fURS:** ergonomics, less radiation to surgeon.
+- **Robotic flexible URS:** ergonomics, less radiation to surgeon.
 - **Also know:** suction sheaths, further miniaturisation.
 
 **Diagram to draw:** scope tip cross-section showing CMOS chip, LED and 3.6 Fr channel.
@@ -342,14 +344,14 @@ Agonist → initial LH surge (flare, testosterone up)
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **VEIL (video-endoscopic inguinal lymphadenectomy):** minimally invasive ILND (inguinal lymph node dissection) through ports in the thigh, away from the groin, in the subcutaneous plane beneath Scarpa's fascia. Laparoscopic (Tobias-Machado) or robotic (**RVEIL**).
-- **Aim:** same oncological template as open surgery, but avoids the groin incision that causes flap necrosis and wound breakdown.
+- **VEIL (video-endoscopic inguinal lymphadenectomy):** ILND (inguinal lymph node dissection) through thigh ports, beneath Scarpa's fascia; laparoscopic (Tobias-Machado) or robotic (**RVEIL**).
+- **Aim:** open-surgery template without the groin incision that causes flap necrosis.
 
 ### Indications
-- Penile SCC (squamous cell carcinoma) with **impalpable nodes**, intermediate/high risk (pT1b or above, G3, LVI (lymphovascular invasion)).
-- **Mobile, non-bulky palpable nodes** (cN1).
-- **Not suitable:** bulky, fixed (cN3) or skin-involving nodes → neoadjuvant chemotherapy, then open surgery.
-- Also vulval cancer and melanoma.
+- Penile SCC (squamous cell carcinoma), **impalpable nodes**, intermediate/high risk (pT1b+, G3, LVI (lymphovascular invasion)).
+- **Mobile, non-bulky palpable nodes.**
+- **Not for** bulky, fixed (cN3) or skin-involving nodes → chemotherapy, then open surgery.
+- Also vulval cancer, melanoma.
 
 ### Boundaries (femoral triangle)
 - Superior: **inguinal ligament**; lateral: **sartorius**; medial: **adductor longus**; floor: fascia lata; apex: muscles crossing.
@@ -379,12 +381,13 @@ Position: supine frog-leg / low lithotomy
 | Operative time | Shorter | About 2 h (slightly longer per side) |
 | Nodal yield, recurrence | Reference | **Similar** |
 | Evidence | Retrospective | Retrospective, selection-biased |
+
 - Commonest complication: **lymphocele**, then lymphoedema and cellulitis.
 
 ### Robotic VEIL
-- 3D vision, wristed instruments, ergonomics; ICG (indocyanine green) for lymphatics. Phase I study: robotic dissection adequate on open re-exploration. No VEIL vs RVEIL comparison.
+- 3D vision, wristed instruments, ICG (indocyanine green) for lymphatics; adequate dissection on open re-exploration (phase I). No VEIL vs RVEIL comparison.
 
-- **Also know:** DSNB (dynamic sentinel node biopsy) first for impalpable nodes (EAU-ASCO); modified (Catalona) template; complete nodal management within 3 months.
+- **Also know:** DSNB (dynamic sentinel node biopsy) first for impalpable nodes (EAU-ASCO, European Association of Urology–American Society of Clinical Oncology); modified (Catalona) template; complete nodal management within 3 months.
 
 **Diagram to draw:** femoral triangle with port sites below the apex.
 
@@ -399,8 +402,8 @@ Position: supine frog-leg / low lithotomy
 **Type:** SAQ (10 marks)
 
 ### 1. Clinical and pathological factors
-- **PSA (prostate-specific antigen):** organ-confined disease about 80% at PSA <4 but <50% at >10 ng/mL. PSA density and velocity add information.
-- **Clinical stage (DRE (digital rectal examination), TNM):** T3b (seminal vesicle) carries high progression risk.
+- **PSA (prostate-specific antigen):** organ-confined about 80% at <4 but <50% at >10 ng/mL; density and velocity add information.
+- **Clinical stage (DRE (digital rectal examination), TNM).**
 - **Grade group (ISUP (International Society of Urological Pathology)) – strongest single factor:**
 
 | Grade group | Gleason | 5-year BCR (biochemical recurrence)-free |
@@ -410,6 +413,7 @@ Position: supine frog-leg / low lithotomy
 | 3 | 4+3 | 63% |
 | 4 | 8 | 48% |
 | 5 | 9–10 | 26% |
+
 - Biopsy: % positive cores, **cribriform and intraductal** patterns, perineural invasion.
 - Prostatectomy: margin (extent, grade), EPE (extraprostatic extension), seminal vesicle and node status.
 
@@ -419,6 +423,7 @@ Position: supine frog-leg / low lithotomy
 | PSA (ng/mL) | ≤10 | 10–20 | >20 |
 | Gleason | ≤6 | 7 | 8–10 |
 | Stage | T1–T2a | T2b | T2c |
+
 - **NCCN (National Comprehensive Cancer Network):** very low, low, favourable/unfavourable intermediate, high, very high.
 - **CAPRA (Cancer of the Prostate Risk Assessment)** score 0–10 (age, PSA, Gleason, stage, % cores); **CAPRA-S** after surgery.
 
@@ -437,12 +442,13 @@ Position: supine frog-leg / low lithotomy
 | **Decipher** | 22-RNA classifier | Metastasis risk; post-op radiotherapy |
 | **Oncotype DX GPS** | 17 genes | Adverse pathology; active surveillance |
 | **Prolaris** | Cell-cycle progression genes | Progression, cancer death |
-- Germline BRCA2 (BReast CAncer gene 2) mutation: aggressive disease.
+
+- Germline BRCA2 (BReast CAncer gene 2): aggressive disease.
 
 ### 6. After treatment
-- **PSA doubling time:** <3 months highest risk; Pound: time to BCR <2 years, PSADT <10 months, Gleason 8–10 predict metastasis.
-- **EAU BCR risk groups:** low risk = PSADT >1 year and grade group <4.
-- PSA nadir after ADT (androgen deprivation therapy); **Phoenix** (nadir + 2) after radiotherapy.
+- **PSA doubling time (PSADT):** <3 months highest risk; Pound: time to BCR <2 years, PSADT <10 months, Gleason 8–10 predict metastasis.
+- **EAU (European Association of Urology) BCR risk groups:** low risk = PSADT >1 year and grade group <4.
+- PSA nadir on ADT (androgen deprivation therapy); **Phoenix** failure (nadir + 2) after radiotherapy.
 
 **Diagram to draw:** flowchart from risk group to nomogram, biomarker and treatment decision.
 
@@ -460,10 +466,10 @@ Position: supine frog-leg / low lithotomy
 
 ### Definition
 - Symptoms plus **consistently low serum testosterone** in an ageing man.
-- "Menopause" is a misnomer: the fall is gradual and partial. Preferred terms: PADAM (partial androgen deficiency of the ageing male), LOH (late-onset hypogonadism); AOH (adult-onset hypogonadism) links it to comorbidity rather than age.
+- "Menopause" is a misnomer: the fall is gradual and partial. Preferred terms: PADAM (partial androgen deficiency of the ageing male), LOH (late-onset hypogonadism).
 
 ### Pathophysiology
-- Testosterone falls slowly from middle age; low in about a fifth of men in primary care.
+- Testosterone falls slowly from middle age.
 - **Testis:** fewer Leydig cells. **Centre:** blunted feedback, irregular GnRH (gonadotrophin-releasing hormone) pulses.
 - **SHBG (sex hormone-binding globulin) rises** with age, so free testosterone falls more.
 - Worse with obesity, diabetes and **opioids**.
@@ -475,17 +481,17 @@ Position: supine frog-leg / low lithotomy
 
 ### Diagnosis
 - **Morning (7–11 am) total testosterone, twice.** AUA (American Urological Association): **<300 ng/dL**. EAU (European Association of Urology): about **12 nmol/L**; calculated free testosterone if borderline.
-- **LH (luteinising hormone):** high in primary, low or normal in secondary hypogonadism. Check **prolactin** if LH is low; pituitary MRI if testosterone <150 ng/dL.
+- **LH (luteinising hormone):** high in primary, low or normal in secondary hypogonadism. Check **prolactin** if LH is low; pituitary MRI (magnetic resonance imaging) if testosterone <150 ng/dL.
 - Baseline: PSA (prostate-specific antigen), DRE (digital rectal examination), haematocrit.
 
 ### Treatment
-- Lifestyle first: weight loss, exercise.
+- Lifestyle first (weight loss, exercise).
 - **TRT (testosterone replacement therapy)** for symptoms + confirmed low level: gels, injections (enanthate every 2–3 weeks; undecanoate every 10–14 weeks), oral undecanoate. Stop if no benefit at 3–6 months.
 - **Contraindications:**
   - Prostate or breast cancer.
   - **Wish for fertility** (TRT stops sperm production; use hCG (human chorionic gonadotrophin) or clomiphene).
   - Haematocrit >50%.
-  - Untreated severe sleep apnoea; recent MI (myocardial infarction) or stroke.
+  - Untreated severe sleep apnoea; recent MI (myocardial infarction).
 
 ### Monitoring
 - At 3–6 months, then yearly: testosterone, **haematocrit** (stop if >54%), PSA.
