@@ -203,7 +203,7 @@ Breakthrough UTI or new scar -> injection or reimplant
 ### Management
 - No cure. **Supportive:** ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker), BP (blood pressure) control, low salt, stop smoking.
 - **Newer drugs:** SGLT2 (sodium–glucose cotransporter 2) inhibitors; sparsentan (dual endothelin–angiotensin receptor blocker); targeted-release budesonide acting on gut mucosal lymphoid tissue.
-- Persistent proteinuria >1 g/day despite supportive care: consider a 6-month steroid course (KDIGO (Kidney Disease: Improving Global Outcomes) 2021); weigh infection risk.
+- Persistent proteinuria above about 0.75–1 g/day despite supportive care: consider a 6-month steroid course (KDIGO (Kidney Disease: Improving Global Outcomes) 2021); weigh infection risk.
 - Crescentic RPGN: steroids plus cyclophosphamide.
 - **Transplant:** recurs histologically often, clinically rarely.
 
