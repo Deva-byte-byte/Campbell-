@@ -109,9 +109,9 @@
 ```
 Intradermal antigen + adjuvant
   → immature DC takes up antigen; adjuvant matures it
-  → DC migrates to lymph node (CCR7)
+  → DC migrates to lymph node
   → peptide on MHC I/II = signal 1; B7 costimulation = signal 2
-  → CD4 Th1 help (IL-2, IFN-γ) + CD8 cytotoxic T cells
+  → CD4 Th1 help (IL-2, interferon-γ) + CD8 cytotoxic T cells
   → T cells traffic to tumour → apoptosis of antigen-bearing cells
   → memory T cells
 ```
@@ -147,7 +147,7 @@ Intradermal antigen + adjuvant
 
 **Bladder cancer**
 - **BCG:** intravesical live attenuated mycobacteria; standard for high-risk NMIBC (non-muscle-invasive bladder cancer).
-- **Gene and viral therapy:** **nadofaragene firadenovec** (adenovirus carrying IFN-α2b gene; FDA [Food and Drug Administration] approved December 2022 for BCG-unresponsive CIS); **cretostimogene** (oncolytic adenovirus with GM-CSF gene).
+- **Gene and viral therapy:** **nadofaragene firadenovec** (adenovirus carrying IFN-α2b gene; FDA [Food and Drug Administration] approved December 2022 for BCG-unresponsive CIS [carcinoma in situ]); **cretostimogene** (oncolytic adenovirus with GM-CSF gene).
 - **N-803:** IL-15 superagonist given with BCG.
 - Peptide and neoantigen vaccines: experimental only.
 
@@ -204,12 +204,12 @@ Intradermal antigen + adjuvant
 | **Raman spectroscopy** | Scattered light spectrum | Research |
 
 ### In vivo prediction
-- **DECT (dual-energy CT):** two energies (e.g. 80 and 140 kVp) separate **uric acid from non–uric acid stones** with near-perfect accuracy.
+- **DECT (dual-energy computed tomography):** two energies (e.g. 80 and 140 kVp) separate **uric acid from non–uric acid stones** with near-perfect accuracy.
 - **Hounsfield units:** >1000 HU predicts SWL (shock wave lithotripsy) failure.
 - Endoscopic recognition (lost when stones are dusted).
 
 ### Significance in management
-- **Uric acid:** oral dissolution (potassium citrate, urine pH 6.0–6.5).
+- **Uric acid:** oral dissolution by urinary alkalinisation (potassium citrate).
 - **Struvite:** complete clearance, culture, antibiotics.
 - **Cystine:** hydration, alkalinisation, tiopronin.
 - **COM, brushite, cystine:** hard, SWL-resistant; prefer endoscopy.
@@ -290,7 +290,7 @@ Intradermal antigen + adjuvant
 - Compact and quiet.
 
 ### 4. Thulium:YAG (2013 nm)
-- Continuous wave: ThuVARP (vaporesection), ThuVEP, **ThuLEP**; carbonisation a drawback.
+- Continuous wave: ThuVARP (vaporesection), ThuVEP (vapoenucleation), **ThuLEP (laser enucleation)**; carbonisation a drawback.
 - **Pulsed Tm:YAG:** newer pulsed solid-state version for lithotripsy and enucleation.
 
 ### Comparison
@@ -353,7 +353,7 @@ Intradermal antigen + adjuvant
 |---|---|---|
 | Design | PUL vs sham, 2:1, 19 centres | PUL vs TURP (transurethral resection of prostate), 10 European centres |
 | Result | IPSS (International Prostate Symptom Score) about halved, twice the sham effect; Qmax (maximum flow) +4 mL/s; no new sexual dysfunction | Composite end point met 52.3% vs 20.0%; antegrade ejaculation 100% vs 60.6% |
-| Durability | 13.6% surgical retreatment at 5 years | TURP better IPSS, Qmax, PVR |
+| Durability | 13.6% surgical retreatment at 5 years | TURP better IPSS, Qmax, PVR (post-void residual) |
 
 ### Complications
 - Transient dysuria, haematuria, urgency (<2 weeks); encrustation; rare pelvic haematoma; device malfunction.

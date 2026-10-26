@@ -51,7 +51,7 @@
 ### Evaluation (EAU, European Association of Urology, men ≥40)
 - **Basic:** history (comorbidity, drugs, sexual function), IPSS, DRE (digital rectal examination) and neurological check, **urinalysis (mandatory)**, PVR (post-void residual), PSA (prostate-specific antigen) if life expectancy >10 years.
 - **Frequency–volume chart, 3 days:** for storage symptoms or nocturia.
-- **Before treatment:** uroflowmetry (Qmax <10 mL/s suggests BOO); ultrasound for volume and median lobe.
+- **Before treatment:** uroflowmetry (Qmax, maximum flow rate, <10 mL/s suggests BOO); ultrasound for volume and median lobe.
 - **Selected:** creatinine and renal ultrasound if large PVR; cystoscopy for haematuria, stricture or before PUL (prostatic urethral lift).
 - **Pressure–flow study** (separates BOO from DUA) before surgery if voided volume <150 mL, PVR >300 mL, age <50 or >80, or failed surgery.
 
@@ -62,8 +62,9 @@ Absolute surgical indication? Yes -> surgery
 Otherwise:
   Nocturnal polyuria      -> lifestyle +/- desmopressin
   Storage predominant     -> antimuscarinic or beta3-agonist
-  Prostate >40 mL         -> 5ARI +/- alpha1-blocker
-  Others                  -> alpha1-blocker or PDE5I
+  Prostate >40 mL         -> 5ARI (5-alpha-reductase inhibitor)
+                             +/- alpha1-blocker
+  Others                  -> alpha1-blocker or PDE5 inhibitor
   Residual storage        -> add antimuscarinic or beta3-agonist
 Failure or complication   -> surgery
 ```
@@ -72,7 +73,7 @@ Failure or complication   -> surgery
 | Drug | Example | Mechanism and notes |
 |---|---|---|
 | α1-blocker | Tamsulosin 0.4 mg, silodosin 8 mg, alfuzosin 10 mg | Relax prostatic smooth muscle; acts in days; dizziness, ejaculatory dysfunction, IFIS (intraoperative floppy iris syndrome) |
-| 5ARI (5α-reductase inhibitor) | Finasteride 5 mg, dutasteride 0.5 mg | Lower DHT; volume falls about 20% over 6–12 months; **PSA halves**; reduces AUR and surgery |
+| 5ARI | Finasteride 5 mg, dutasteride 0.5 mg | Lower DHT; volume falls about 20% over 6–12 months; **PSA halves**; reduces AUR and surgery |
 | Antimuscarinic | Solifenacin, tolterodine | Block detrusor M3 receptors; for storage symptoms if PVR <200 mL |
 | β3-agonist | Mirabegron 50 mg, vibegron | Relax detrusor during storage |
 | PDE5I (phosphodiesterase-5 inhibitor) | Tadalafil 5 mg daily | Smooth-muscle relaxation; useful with ED (erectile dysfunction) |
@@ -141,7 +142,7 @@ Failure or complication   -> surgery
 
 ### Evaluation
 - History (fluid loss, hypotension, drugs, contrast), volume status, bladder scan.
-- **Ultrasound in every AKI** to exclude obstruction.
+- **Ultrasound early** in unexplained AKI to exclude obstruction.
 
 | Index | Prerenal | ATN |
 |---|---|---|
@@ -157,7 +158,7 @@ Failure or complication   -> surgery
 ### Management
 **General**
 - Treat the cause; **avoid hypotension** (MAP, mean arterial pressure, >65 mmHg or near baseline) and nephrotoxins; stop NSAIDs and ACE inhibitors or ARBs (angiotensin receptor blockers); adjust drug doses.
-- Isotonic crystalloid for hypovolaemia; aggressive fluids in rhabdomyolysis; IV fluid before contrast.
+- Isotonic crystalloid for hypovolaemia; aggressive fluids in rhabdomyolysis; intravenous fluid before contrast.
 - **Postrenal:** urethral or suprapubic catheter; **double-J stent or PCN (percutaneous nephrostomy)**; infected obstructed kidney is an emergency.
 - AIN: stop drug ± steroids; glomerulonephritis: nephrology and biopsy.
 
@@ -184,13 +185,13 @@ Failure or complication   -> surgery
 
 ### Outcome
 - Full or partial recovery, or dialysis dependence; persistence ≥90 days = CKD.
-- **Also know:** biomarkers NGAL (neutrophil gelatinase-associated lipocalin), KIM-1 (kidney injury molecule-1); AKD (acute kidney disease, 7–90 days); gadolinium (groups I and III) avoided in AKI.
+- **Also know:** biomarkers NGAL (neutrophil gelatinase-associated lipocalin), KIM-1 (kidney injury molecule-1); AKD (acute kidney disease, under 3 months); gadolinium (groups I and III) avoided in AKI.
 
 **Diagram to draw:** tubular cell losing polarity → sloughing → casts and back-leak.
 
 > **Key points to remember:**
 > - KDIGO: creatinine ≥0.3 mg/dL or ×1.5; urine <0.5 mL/kg/h for 6 h.
-> - FeNa <1% prerenal, >1% ATN; ultrasound in every AKI.
+> - FeNa <1% prerenal, >1% ATN; ultrasound to exclude obstruction.
 > - Diuretics only for overload; dialysis for refractory AEIOU.
 > - Post-obstructive diuresis: oral fluids; replace 75% with 0.45% saline if needed.
 
@@ -232,7 +233,7 @@ Failure or complication   -> surgery
 | ALPP | DLPP (detrusor leak point pressure) |
 |---|---|
 | Sphincter against abdominal pressure | Bladder pressure against outlet resistance |
-| **Low = bad** | **High = bad**: >40 cmH₂O → upper-tract damage in 85% (McGuire 1981) |
+| **Low = bad** | **High = bad**: >40 cmH₂O → hydronephrosis or reflux in 85% (McGuire 1981) |
 | SUI | Neurogenic, low-compliance bladder |
 
 - **Also know:** newer term "urodynamic stress test" (ICS, International Continence Society); EAU (European Association of Urology): do not use leak point pressure to grade severity.
