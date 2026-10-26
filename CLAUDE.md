@@ -37,15 +37,16 @@ Each question is answered in this structure:
 - **Never reduce a core item to bare names.** Classification/grading tables, tests with their method, lists whose details carry marks (e.g. brainstem reflexes with method and cranial nerves), operative or algorithm steps and key mechanisms must stay written out, even if the topic is thin in the reference chapters. Shorten secondary material instead.
 - **Exam-oriented content only**: what a candidate would write and an examiner would mark: definitions, classifications/grading, key cut-offs and doses, indications/contraindications, management steps, main complications, 1–3 landmark trials, current guideline position, 2–3 recent advances.
 - **Acronyms**: spell out every acronym in full at its first use in EACH answer, e.g. "GFR (glomerular filtration rate)". Common units (mL, mg, mmHg, Fr, °C) need no expansion.
-- Separate questions with `---`. Start each paper file with `# <Paper title>` and a numbered contents list.
+- Separate questions with `---`. Start each paper file with `# <Year-Season> Paper <n> – <subject>` and a numbered contents list.
 - If a question looks like a typo (e.g. "HSG in neonates"), state the assumed meaning in one italic line at the top of that answer.
 - A question repeated across papers: answer it once and cross-reference it in the other paper.
 
 ## Output: one A4 black-and-white PDF per paper
-1. Write the draft paper as Markdown in `answers/<set-name>/drafts/<Paper-name>.md` (one file per paper).
+0. **Naming (user requirement):** label every paper as `<year>-<season> Paper <n>` with Arabic numerals, e.g. "2018-Summer Paper 1". Files: `answers/<set>/drafts/<set>-paper-<n>.md`, `answers/<set>/<set>-paper-<n>.md`, `pdf/<set>/<set>-paper-<n>.pdf` (e.g. `pdf/2018-summer/2018-summer-paper-1.pdf`). The first line of each draft is `# 2018-Summer Paper 1 – Basic Sciences in Urology` (subject after the dash); the revision sheet heading is built from it. Cross-references read "See 2018-Summer Paper 3, Q3a".
+1. Write the draft paper as Markdown in `answers/<set>/drafts/<set>-paper-<n>.md` (one file per paper).
 2. Build the final file (answers + key points after each answer + Rapid Revision Sheet at the end):
-   `python3 tools/build_paper.py answers/<set>/drafts/<Paper>.md answers/<set>/<Paper>.md`
-3. Make the PDF: `tools/md2pdf.sh answers/<set>/<Paper>.md pdf/<set>/<Paper>.pdf`
+   `python3 tools/build_paper.py answers/<set>/drafts/<set>-paper-<n>.md answers/<set>/<set>-paper-<n>.md`
+3. Make the PDF: `tools/md2pdf.sh answers/<set>/<set>-paper-<n>.md pdf/<set>/<set>-paper-<n>.pdf`
    (A4, black and white, page numbers, each question on a new page; tools auto-install the `markdown` Python package and find Chromium).
 4. Render 1–2 pages to PNG (`pdftoppm -r 45 -png -f N -l N file.pdf out`) and look at them to check that lists, tables and key points boxes render properly.
 5. Send the PDFs to the user (SendUserFile, display "attach"), commit and push.
@@ -67,6 +68,5 @@ Each question is answered in this structure:
 - `answers/2017-summer/` and `pdf/2017-summer/`: MCh Urology Summer 2017 Papers I–IV (Paper III is a question-bank practice paper).
 - `answers/2017-winter/` and `pdf/2017-winter/`: MCh Urology Winter 2017 Papers I–IV (SNM and Botox answered in Paper III, cross-referenced in Paper IV).
 - `answers/2018-summer/` and `pdf/2018-summer/`: MCh Urology Summer 2018 Papers I–IV.
-- Older versions: `answers/Paper-*.md` / `pdf/Paper-*.pdf` (pre-chapter half-length) and `answers/concise/`.
-- `answers/full/` and `pdf/full/`: the earlier full-length versions (reference only).
+- `archive/2015-summer-older/`: earlier 2015 versions (old half-length, old full-length, concise drafts), reference only.
 - Missing chapters in `reference/`: 89 only. Chapter 119 is only 2 pages. Chapter 56 (hypospadias) has a full version and a "short version"; Chapter 110 (OAB) has two versions.

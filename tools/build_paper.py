@@ -2,9 +2,9 @@
 # Keeps each answer (with its key points box) and appends a Rapid Revision Sheet built from all key points boxes.
 import sys,re
 src=open(sys.argv[1]).read()
-m=re.search(r'Paper[- ](IV|III|II|I)\b',src); P=m.group(1) if m else ''
+m=re.match(r'#\s+(.+?)\s+–',src); P=m.group(1) if m else ''
 secs=re.split(r'\n(?=## )',src)
-body=[];rev=[f"\n\n---\n\n## Rapid Revision Sheet – Paper {P}\n","*All the key points from this paper in one place. Read this in the last 30 minutes before the exam.*\n"]
+body=[];rev=[f"\n\n---\n\n## Rapid Revision Sheet – {P}\n","*All the key points from this paper in one place. Read this in the last 30 minutes before the exam.*\n"]
 for sec in secs:
     lines=sec.split('\n')
     quotes=[re.sub(r'^> ?','',l) for l in lines if l.startswith('>')]
