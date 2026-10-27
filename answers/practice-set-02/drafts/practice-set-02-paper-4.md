@@ -16,7 +16,7 @@
 
 ## Q1. Discuss in detail anatomy of prostate with special reference to newer concepts in surgical management of CA prostate
 **Type:** LAQ (25 marks)
-(also answered in Practice Set 1 Paper 1, Q2, with emphasis on anatomy; robotic prostatectomy also in 2023-Winter Paper 1, Q3b)
+(anatomy also answered in Practice Set 1 Paper 1, Q2; robotic prostatectomy in 2023-Winter Paper 1, Q3b)
 
 ### Introduction
 - A 20-g fibromuscular gland around the proximal urethra, from bladder neck (**base**) to urogenital diaphragm (**apex**).
@@ -37,13 +37,13 @@
 | **Intrafascial** | Between capsule and prostatic fascia | Most nerves; more positive margins |
 | **Interfascial** | Between prostatic and levator fascia | **Standard** for organ-confined disease |
 | **Extrafascial** | Outside levator and Denonvilliers fascia | Widest margin; ED (erectile dysfunction) likely |
-- **Denonvilliers fascia** is left on the rectum when ECE risk is low and excised with the specimen when posterolateral ECE is suspected.
+- **Denonvilliers fascia** stays on the rectum when ECE risk is low; it is excised when posterolateral ECE is suspected.
 
 ### Neurovascular bundle (NVB)
 - Walsh and Donker (1982). The pelvic plexus (S2–S4 parasympathetic plus hypogastric sympathetic) gives the **cavernous nerves**, running posterolaterally **3–5 mm from the capsule**, marked by capsular vessels.
-- At the apex they lie at **5 and 7 o'clock**, then swing to 3 and 9 o'clock at the mid-urethra. The apex is where nerves are most often injured.
+- At the apex they lie at **5 and 7 o'clock**, swinging to 3 and 9 o'clock at the mid-urethra; most nerve injuries occur here.
 - Nerve distribution is diffuse: a main posterolateral bundle, a posterior "hammock" and anterolateral fibres (basis of high anterior release).
-- Injury comes from incision, clip or suture entrapment, **heat** and **traction**, so dissection is athermal and traction-free.
+- Injury: incision, entrapment, **heat**, **traction**; so dissect athermally without traction.
 
 ### Vessels and lymphatics
 - Inferior vesical artery (urethral and capsular branches). Preserve **accessory pudendal arteries**; they may be the main penile supply.
@@ -58,7 +58,7 @@
 ### Newer concepts in surgical management
 1. **RARP (robot-assisted RP):** 3D, 10× view and wristed instruments removed the suturing barrier. **Yaxley 2016** RCT (randomised controlled trial): equal function and early oncology versus open; less blood loss (300 versus 1400 mL), shorter stay. Surgeon matters more than platform.
 2. **Risk-graded nerve sparing:** each side is graded from full (intrafascial) through partial to none (for example the Tewari four-grade scale). The choice uses grade, positive cores and mpMRI (multiparametric magnetic resonance imaging) capsular contact.
-3. **NeuroSAFE:** intraoperative frozen section of each posterolateral surface; a positive margin means resecting that NVB. More nerve sparing without more positive margins (NeuroSAFE PROOF trial, UK).
+3. **NeuroSAFE:** intraoperative frozen section of each posterolateral surface; a positive section means resecting that NVB. This permits more nerve sparing safely (NeuroSAFE PROOF trial, UK).
 4. **Anterior-support preservation:**
    - **Retzius-sparing** (Bocciardi, 2010): fully posterior via the pouch of Douglas. Earlier continence at 3 months, equal at 12; more positive margins, so avoid for anterior tumours.
    - **Hood technique** (2021): anterior approach keeping detrusor apron, puboprostatic ligaments and DVC; early data.
@@ -82,7 +82,7 @@
 > - PZ gives 70% of cancers; no true capsule.
 > - Interfascial plane is the standard nerve-sparing plane; apex is the commonest margin and nerve-injury site.
 > - Retzius-sparing: earlier continence, more positive margins.
-> - Extended PLND captures about 63% of drainage; Yaxley 2016: surgeon over platform.
+> - Extended PLND captures about 63% of drainage.
 
 ---
 
@@ -200,7 +200,7 @@
 | Magnified view of hilum | Shorter vessels, especially right vein |
 | Equal graft function and survival | Pneumoperitoneum lowers renal blood flow; cost |
 
-- **Risks:** complications about 16% (mostly gastrointestinal); Clavien ≥IV 2.5%; mortality **3 per 10,000**; conversion 0.26–3.34%. Lifetime ESRD (end-stage renal disease) 90 per 10,000 versus 14 in matched non-donors.
+- **Risks:** complications about 16% (mostly gastrointestinal); mortality **3 per 10,000**; conversion 0.26–3.34%. Lifetime ESRD (end-stage renal disease) 90 per 10,000 versus 14 in matched non-donors.
 
 **Diagram to draw:** left hilum with gonadal, adrenal and lumbar veins and the stapled artery and vein.
 
@@ -218,7 +218,7 @@
 
 ### Physics
 - A 1064 nm Nd:YAG (neodymium:yttrium-aluminium-garnet) beam is passed through a **KTP (potassium titanyl phosphate) or LBO (lithium triborate) crystal**. This doubles its frequency and halves the wavelength to **532 nm** (green).
-- Green light is absorbed by **haemoglobin**, not water. Red, vascular prostate absorbs it avidly.
+- Green light is absorbed by **haemoglobin**, not water, so vascular prostate absorbs it avidly.
 - Optical penetration **0.8 mm**, tissue effect 1–3 mm, thin (0.2 mm) coagulation rim. The result is bloodless **photoselective vaporisation**.
 
 ### Platforms
@@ -230,7 +230,7 @@
 
 ### Technique
 - 23–24 Fr cystoscope; side-firing fibre emitting at **70°**; saline irrigation.
-- Identify ureteric orifices; open the bladder neck first; sweep 15–30° in 1–2 seconds at ≤2 mm working distance.
+- Open the bladder neck first, away from the orifices; sweep 15–30° in 1–2 seconds at ≤2 mm.
 - Large bubbles mean efficient vaporisation. Pulsatile bleeding: coagulation mode (about 30 W).
 - More than 5 kJ/cc predicts complete vaporisation.
 
@@ -243,7 +243,7 @@
 
 ### Complications
 - Dysuria (highest of transurethral techniques); UTI (urinary tract infection) and epididymitis from coagulum; capsular perforation 0.2–1%.
-- No TUR syndrome; transfusion very rare; **no tissue for histology**.
+- No TUR (transurethral resection) syndrome; transfusion very rare; **no tissue for histology**.
 
 ### Recent advances
 - GreenLight enucleation; office and same-day catheter-free pathways.
@@ -338,12 +338,12 @@
 | Fragmenting | 0.6–1.0 J × 6–10 Hz | Pieces for basketing; more retropulsion |
 | Dusting | 0.2–0.3 J × 40–80 Hz | Fine dust; "popcorning" in a calyx |
 | HoLEP enucleation | 2.0 J × 40–50 Hz | Cutting along the capsule |
-- Retropulsion rises with pulse energy and falls with longer pulses or pulse modulation (Moses).
-- Heat depends on power: keep ≤10 W in the ureter; use good flow and an access sheath.
+- Retropulsion rises with pulse energy, falls with longer pulses or pulse modulation.
+- Heat tracks power: ≤10 W in the ureter; good outflow.
 
 ### Uses
 - **Stones:** URS (ureteroscopy), RIRS (retrograde intrarenal surgery), PCNL (percutaneous nephrolithotomy), bladder stones.
-- **BPH (benign prostatic hyperplasia):** HoLEP (holmium laser enucleation of the prostate), size-independent; the only endoscopic procedure superior to TURP (transurethral resection of the prostate); safe on anticoagulants. Also HoLAP and HoLRP (ablation, resection).
+- **BPH (benign prostatic hyperplasia):** HoLEP (holmium laser enucleation of the prostate): size-independent, the only endoscopic procedure superior to TURP (transurethral resection of the prostate), safe on anticoagulants.
 - **Incisions:** strictures, bladder neck contracture, endopyelotomy, ureterocele.
 - **Tumours:** UTUC (upper tract urothelial carcinoma) ablation; en bloc bladder tumour resection.
 
@@ -371,7 +371,7 @@
 - Devices seal by **denaturing protein**. Plan from imaging; keep a haemorrhage tray ready.
 
 ### Effect of pneumoperitoneum
-- Usual pressure 12–15 mmHg. CO₂ **tamponades venous bleeding**, so veins may be missed.
+- At 12–15 mmHg CO₂ **tamponades venous bleeding**, hiding it.
 - Raise to 20–25 mmHg briefly for venous bleeding. Before exit, **inspect at low pressure (5–10 mmHg)** to unmask hidden bleeders and port-site bleeding.
 
 ### Energy devices
@@ -397,7 +397,7 @@
 - Intracorporeal or barbed sutures. Adjuncts: fibrin sealant, gelatin–thrombin matrix, oxidised cellulose.
 
 ### Managing a venous injury
-- Raise pressure → suction to identify → sponge or pledget tamponade → sealant → extra port for suturing or Satinsky → hand-assist (pinch side walls) → convert. Keep the patient well filled (gas embolism risk).
+- Raise pressure → suction → pledget tamponade → sealant → extra port for suturing or Satinsky → hand-assist → convert. Keep the patient well filled (gas embolism).
 - Arterial: minor, tamponade; renal artery, staple; aortic, convert.
 
 **Diagram to draw:** Hem-o-lok placement with two patient-side clips and a 2-mm cuff.
