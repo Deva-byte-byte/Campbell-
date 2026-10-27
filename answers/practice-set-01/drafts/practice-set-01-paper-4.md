@@ -7,7 +7,7 @@
 4. Q3b. Bipolar energy (SAQ)
 5. Q3c. Thalium laser in urology (SAQ)
 6. Q3d. Morcellation (SAQ)
-7. Q3e. KTP*** laser in urology (SAQ)
+7. Q3e. KTP\*\*\* laser in urology (SAQ)
 8. Q3f. Stem cell therapy (SAQ)
 
 *Practice paper compiled from the question bank.*
@@ -352,7 +352,7 @@
 
 ---
 
-## Q3e. KTP*** laser in urology
+## Q3e. KTP\*\*\* laser in urology
 **Type:** SAQ (10 marks)
 (lasers in BPH also in 2017-Winter Paper 2, Q3a)
 
