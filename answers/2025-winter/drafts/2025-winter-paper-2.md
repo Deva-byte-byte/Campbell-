@@ -438,7 +438,7 @@
 
 ### Operative principles
 - Excise scar; wide mobilisation; tension-free, multilayer, **non-overlapping** closure.
-- **Interposition flap is standard in recurrent fistula** (no benefit in simple VVF):
+- **Interposition flap is widely used in recurrent fistula** (accepted though not proven superior; an RCT showed no benefit in simple VVF):
 
 | Flap | Route | Use |
 |---|---|---|
