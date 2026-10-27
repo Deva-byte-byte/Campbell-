@@ -183,31 +183,29 @@ Left-sided channels regress -> right-sided persist
 (pneumoperitoneum physiology also answered in 2019-Summer Paper 1, Q2)
 
 ### Principles
-- Good positioning uses **gravity** to move bowel away, opens the working space, gives access for ports or the robot and keeps ventilation safe.
-- Injury comes from **stretch, prolonged compression or ischaemia**, so position and duration act together. Nerve injury occurs in about 2.8% of laparoscopic cases. It is a shared team responsibility (ASA [American Society of Anesthesiologists] advisory, 2000).
-- Before final positioning: check that the patient tolerates the position and secure IV (intravenous) access, oximetry and BP (blood pressure) cuff, because tucked arms become inaccessible.
+- Positioning uses **gravity** to move bowel away and gives port or robot access while keeping ventilation safe.
+- Injury comes from **stretch, compression or ischaemia**, so position and duration act together; nerve injury occurs in about 2.8%. Shared team responsibility (ASA [American Society of Anesthesiologists] advisory, 2000).
+- Secure IV (intravenous) access, oximetry and BP (blood pressure) cuff before final positioning: tucked arms become inaccessible.
 
 ### Positions
 
-| Position | Used for | Set-up | Specific hazards |
+| Position | Used for | Set-up | Hazards |
 |---|---|---|---|
-| **Supine, steep Trendelenburg** (low lithotomy or split legs) | RARP (robot-assisted radical prostatectomy), cystectomy, pelvic lymphadenectomy | Arms tucked and padded; chest strap over egg-crate; **no shoulder braces**; tilt about 25–30° | Brachial plexus; femoral nerve (excess hip flexion); facial, laryngeal and orbital oedema; corneal abrasion; raised intraocular pressure; tube slips into right main bronchus |
-| **Modified flank** (30–45°) | Transperitoneal nephrectomy, partial nephrectomy, pyeloplasty | Back on gel rolls; lower arm on padded armrest, upper arm across chest; pillows under knees; wide tape; tilt to test | Pressure points, slippage |
-| **Full lateral (90°)**, table flexed | Retroperitoneoscopy, adrenalectomy | **Axillary roll** 3–4 fingerbreadths below the axilla; lower leg flexed 45°, upper leg straight on pillows; pad knee and ankle | **Rhabdomyolysis**; sciatic stretch; brachial plexus |
-| **Prone** | Posterior retroperitoneoscopic adrenalectomy | Pad torso, elbows, hips, legs; secure tube | Airway, pressure on face and eyes |
+| **Steep Trendelenburg**, low lithotomy or split legs | RARP (robot-assisted radical prostatectomy), cystectomy | Arms tucked and padded; chest strap over egg-crate; **no shoulder braces**; tilt about 22–30° | Brachial plexus; femoral nerve (excess hip flexion); facial and laryngeal oedema; corneal abrasion; tube into right bronchus |
+| **Modified flank** (30–45°) | Transperitoneal nephrectomy, pyeloplasty | Back on gel rolls; upper arm across chest; wide tape; tilt to test | Pressure points, slippage |
+| **Full lateral (90°)**, table flexed | Retroperitoneoscopy, adrenalectomy | **Axillary roll** 3–4 fingerbreadths below axilla; lower leg flexed 45°, upper straight on pillows | **Rhabdomyolysis**; sciatic stretch |
+| **Prone** | Posterior adrenalectomy | Pad torso, elbows, hips | Airway, face and eyes |
 
 ### Rhabdomyolysis
-- About 0.4% overall, 1% retroperitoneal. Risk: men, BMI (body mass index) ≥25, **kidney rest**, full flexion, long cases. Presents with downside hip pain, brown urine and CK (creatine kinase) >5,000 units. Prevent by limiting the kidney rest (Campbell advises 20–30 minutes in one place, under 1 hour in another), avoiding hypotension and keeping cases under 5 hours; treat with hydration.
+- About 0.4% (1% retroperitoneal). Risk: men, BMI (body mass index) ≥25, **kidney rest**, full flexion, long cases. Downside hip pain, brown urine, CK (creatine kinase) >5,000 units. Prevent: limit kidney rest (Campbell gives 20–30 minutes in one place, under 1 hour in another), avoid hypotension, keep cases under 5 hours.
 
-### Physiology of position
-- **Head-down** raises venous return and cardiac output but splints the diaphragm; restrict fluids in long cases. **Head-up** lowers cardiac output.
+### Prevention and physiology
+- Abduction ≤90°; pad ulnar groove and fibular head; recheck after every table move.
+- **Head-down** raises cardiac output but splints the diaphragm; restrict fluids.
+- Nerve injury on day 1: neurology review, conduction studies, physiotherapy.
+- **Also know:** forearm compartment syndrome from infiltrated IV lines; Xi side-docking avoids stirrups.
 
-### Prevention and management of nerve injury
-- Abduction ≤90°; avoid ulnar groove and fibular head pressure; recheck padding after every table move; avoid extreme hip abduction.
-- Injury appears on day 1: early neurology review, nerve conduction studies, physiotherapy.
-- **Also know:** forearm compartment syndrome from infiltrated tucked-arm IV lines; pneumatic compression stockings; Xi side-docking avoids stirrups.
-
-**Diagram to draw:** full flank position with axillary roll, table break and leg positions.
+**Diagram to draw:** full flank position with axillary roll and table break.
 
 > **Key points to remember:**
 > - Nerve injury about 2.8%; brachial plexus is commonest at risk.
@@ -222,7 +220,7 @@ Left-sided channels regress -> right-sided persist
 (also answered in 2021-Summer Paper 2, Q3f)
 
 ### Principles
-- **Knudson two-hit hypothesis:** every cell carries one inherited mutant tumour-suppressor allele, so one more hit causes cancer. Hence tumours are **early, bilateral and multifocal**.
+- **Knudson two-hit hypothesis:** every cell carries one inherited mutant tumour-suppressor allele, so one more hit causes cancer: tumours are **early, bilateral, multifocal**.
 - **4–6% of RCC (renal cell carcinoma)** is familial. All familial RCC syndromes are **autosomal dominant**; only HPRC (hereditary papillary renal carcinoma) involves an activated oncogene.
 
 ### Hereditary kidney cancer syndromes
@@ -238,18 +236,18 @@ Left-sided channels regress -> right-sided persist
 - **Also know:** SDH (succinate dehydrogenase)-deficient RCC; BAP1 (uveal melanoma, mesothelioma); PTEN (Cowden).
 
 ### Kidney management
-- **3 cm rule:** watch tumours <3 cm; nephron-sparing surgery at ≥3 cm (VHL, HPRC, BHD), saving function for repeat operations. **Exception: HLRCC**, excise promptly with wide margins.
-- TSC AML: everolimus at 3–5 cm; embolisation or excision ≥5 cm. **Belzutifan** (HIF-2α [hypoxia-inducible factor 2α] inhibitor, FDA [Food and Drug Administration] 2021) for VHL tumours.
+- **3 cm rule:** watch tumours <3 cm; nephron-sparing surgery at ≥3 cm (VHL, HPRC, BHD) to save function for repeat surgery. **Exception: HLRCC**: excise promptly, wide margins.
+- TSC AML: everolimus at 3–5 cm; embolise or excise ≥5 cm. **Belzutifan** (HIF-2α [hypoxia-inducible factor 2α] inhibitor) approved 2021 for VHL.
 
 ### Other urological cancers
-- **Prostate:** BRCA2, BRCA1, ATM, CHEK2, PALB2, HOXB13, mismatch repair genes. Father and brother affected: 9-fold risk. Earlier screening, caution with active surveillance, **PARP (poly ADP-ribose polymerase) inhibitors**.
-- **UTUC (upper tract urothelial carcinoma): Lynch syndrome** (MLH1, MSH2, MSH6, PMS2): about 14-fold risk, 75-fold with MSH2. Screen with MMR (mismatch repair) immunohistochemistry, then germline testing.
+- **Prostate:** BRCA2, BRCA1, ATM, CHEK2, PALB2, HOXB13. Father and brother affected: 9-fold risk. Earlier screening, cautious active surveillance, **PARP (poly ADP-ribose polymerase) inhibitors**.
+- **UTUC (upper tract urothelial carcinoma): Lynch syndrome** (MLH1, MSH2, MSH6, PMS2): about 14-fold risk, 75-fold with MSH2. MMR (mismatch repair) immunohistochemistry, then germline testing.
 - **Testis:** affected brother RR (relative risk) 8–12, father 2–4.
-- **Phaeochromocytoma:** about one-third hereditary: MEN-2 (RET), VHL, NF1, SDHB (highest malignancy).
-- **Also know:** Wilms tumour (WT1: WAGR and Denys–Drash; Beckwith–Wiedemann).
+- **Phaeochromocytoma:** about one-third hereditary: MEN-2 (multiple endocrine neoplasia type 2; RET), VHL, NF1 (neurofibromatosis type 1), SDHB (highest malignancy).
+- **Also know:** Wilms tumour (WT1: WAGR [Wilms, aniridia, genitourinary anomalies, retardation] and Denys–Drash; Beckwith–Wiedemann).
 
 ### Approach
-- Suspect with young age, bilateral or multifocal tumours, family history. Genetic counselling, germline testing, cascade screening of relatives, lifelong surveillance.
+- Young age, multifocality or family history: genetic counselling, germline testing, screen relatives.
 
 **Diagram to draw:** VHL loss → HIF accumulation → VEGF (vascular endothelial growth factor) → angiogenesis.
 
@@ -265,10 +263,10 @@ Left-sided channels regress -> right-sided persist
 
 ### Definition
 - **LGV (lymphogranuloma venereum)** is an invasive, lymphotropic STD (sexually transmitted disease) caused by ***Chlamydia trachomatis* serovars L1, L2 and L3**.
-- *C. trachomatis* has 15 serovars: trachoma (A–C), anogenital infection (D–K) and LGV (L1–L3). Unlike D–K, the L serovars invade lymphatics, so they cause lymphadenitis and scarring.
+- Of 15 serovars, A–C cause trachoma and D–K anogenital infection. The L serovars invade lymphatics, causing lymphadenitis and scarring.
 
 ### Epidemiology
-- Endemic in tropical regions, including India. In Western countries it now presents as **proctitis in MSM (men who have sex with men)** and is increasing. It is not more frequent or more virulent in HIV (human immunodeficiency virus) infection.
+- Endemic in the tropics, including India; increasing as **proctitis in MSM (men who have sex with men)**. Not more frequent or virulent in HIV (human immunodeficiency virus).
 
 ### Clinical stages
 
@@ -278,21 +276,20 @@ Left-sided channels regress -> right-sided persist
 | **Secondary (inguinal syndrome)** | 2–6 weeks later | Fever, malaise; **painful, matted, unilateral inguinal or femoral buboes** that may form fistulae. **Groove sign**: nodes above and below the inguinal ligament |
 | **Tertiary** | Untreated | Fibrosis and lymphatic block: **genital elephantiasis** (esthiomene in women), perirectal abscess, fistulae, **rectal stricture** |
 
-- Inguinal disease is commoner in men because the cervix and vagina drain to pelvic and retroperitoneal nodes, not inguinal ones.
+- Inguinal disease is commoner in men: the cervix and vagina drain to pelvic nodes.
 
 ### Differential diagnosis of genital ulcer
-- Painless ulcer with painless nodes = syphilis; painful vesicles = herpes; painful ulcer with suppurative nodes = chancroid; painless beefy ulcer, no nodes = donovanosis; **transient painless lesion, then painful matted nodes = LGV**.
+- Syphilis (painless ulcer and nodes); herpes (painful vesicles); chancroid (painful ulcer, suppurative nodes); donovanosis (beefy ulcer, no nodes); **LGV: transient painless lesion, then painful matted nodes**.
 
 ### Investigations
 - **NAAT (nucleic acid amplification test)** of ulcer, rectal or node aspirate; LGV-specific genotyping confirms where available. Rectal chlamydia NAAT in all proctocolitis.
-- Serology is not used routinely. Screen for HIV, syphilis and gonorrhoea; offer PrEP (pre-exposure prophylaxis).
+- Serology not routine. Screen for HIV, syphilis, gonorrhoea; offer PrEP (pre-exposure prophylaxis).
 
 ### Treatment
 - **Doxycycline 100 mg twice daily for 21 days** (first line).
 - Alternatives: erythromycin 500 mg four times daily for 21 days, or azithromycin 1 g weekly for 3 weeks (pregnancy; consider test of cure by NAAT).
 - Fluctuant buboes: aspirate through healthy skin to prevent sinus formation.
-- Partners from the previous 60 days: test and treat presumptively.
-- **Surgery for late disease:** dilatation or resection of rectal stricture, fistula repair, reduction of genital elephantiasis.
+- **Late disease:** stricture dilatation or resection, fistula repair, reduction of elephantiasis.
 
 **Diagram to draw:** groin with buboes above and below the inguinal ligament (groove sign).
 
@@ -309,28 +306,26 @@ Left-sided channels regress -> right-sided persist
 (renal scans in depth: see Practice Set 2 Paper 1, Q3e; diuretic renography: see Practice Set 2 Paper 1, Q3f)
 
 ### Principles
-- Nuclear medicine images **function rather than structure**: a radiotracer in subpharmacological dose follows a physiological or molecular process, and the patient is the radiation source.
-- **Single-photon imaging:** gamma camera (sodium iodide crystal, photomultiplier tubes, collimator); planar or **SPECT (single-photon emission computed tomography)** with CT for localisation. Resolution about 20 mm planar, 10 mm SPECT.
-- **PET (positron emission tomography):** a positron annihilates with an electron, giving two 511 keV photons 180° apart, detected in coincidence. Best resolution (about 5 mm), less noise, quantitative SUV (standardised uptake value).
-- **⁹⁹ᵐTc (technetium-99m):** 6-hour half-life, single 140 keV photon, so it is the workhorse. ¹⁸F (fluorine-18): 110 minutes, shortest positron range, sharpest PET image.
+- Nuclear medicine shows **function, not structure**: a tracer in tiny dose follows a physiological or molecular process.
+- **Gamma camera** (sodium iodide crystal, photomultipliers, collimator): planar (about 20 mm resolution) or **SPECT (single-photon emission computed tomography)** with CT (about 10 mm).
+- **PET (positron emission tomography):** positron annihilation gives two 511 keV photons 180° apart, detected in coincidence: sharper (about 5 mm), less noise, quantitative SUV (standardised uptake value).
+- **⁹⁹ᵐTc (technetium-99m):** 6-hour half-life, 140 keV photon: the workhorse. ¹⁸F: 110 minutes, sharpest PET image.
 
-### Applications across urology
+### Applications
 
 | Area | Tracer | Use |
 |---|---|---|
-| **Kidney function** | ⁹⁹ᵐTc-DTPA (diethylenetriaminepentaacetic acid), ⁹⁹ᵐTc-MAG3 (mercaptoacetyltriglycine), ⁹⁹ᵐTc-DMSA (dimercaptosuccinic acid) | GFR (glomerular filtration rate), split function, obstruction, scars, transplant, renovascular hypertension |
-| **Bone** | ⁹⁹ᵐTc-MDP (methylene diphosphonate) | Staging high-risk prostate cancer; low specificity |
-| **Prostate cancer** | **PSMA (prostate-specific membrane antigen) PET**; ¹¹C-choline; ¹⁸F-fluciclovine | PSMA preferred (NCCN [National Comprehensive Cancer Network]) for staging and biochemical recurrence; specificity >90% |
-| **Theranostics** | ¹⁷⁷Lu-PSMA-617 (beta); radium-223 (alpha) | mCRPC (metastatic castration-resistant prostate cancer): VISION trial (2021) |
-| **FDG (¹⁸F-fluorodeoxyglucose) PET** | Glucose analogue trapped after phosphorylation | Residual **seminoma >3 cm**; penile cancer with palpable nodes; distant urothelial disease. Poor in prostate and clear cell RCC (renal cell carcinoma); urinary excretion obscures the tract |
-| **Renal mass** | ⁹⁹ᵐTc-sestamibi SPECT; ⁸⁹Zr-girentuximab PET | Oncocytoma "hot" on sestamibi; clear cell RCC "hot" on girentuximab (CAIX [carbonic anhydrase IX] target) |
-| **Adrenal** | ¹²³I-MIBG (metaiodobenzylguanidine); ⁶⁸Ga-DOTATATE; FDG | Extra-adrenal, metastatic phaeochromocytoma; MIBG best in MEN-2 (multiple endocrine neoplasia type 2), FDG best in SDHB and VHL |
-| **Sentinel node** | ⁹⁹ᵐTc-nanocolloid with blue dye | **Dynamic sentinel node biopsy** in penile cancer with impalpable nodes |
-| **Scrotum** | ⁹⁹ᵐTc-pertechnetate | Torsion cold, epididymitis hot; equivocal cases only, never delay surgery |
-| **Reflux** | Direct radionuclide cystography | VUR (vesicoureteral reflux) follow-up: more sensitive, lower dose than VCUG (voiding cystourethrogram), poor anatomy |
-| **Infection** | ¹¹¹In-oxine or ⁹⁹ᵐTc-HMPAO (hexamethylpropyleneamine oxime) leucocytes; ⁶⁷Ga | Occult abscess; not in transplant |
-
-- **Also know:** key PSMA trials: Calais (2019) detection 56% vs 26% with fluciclovine; CONDOR 61.5% at PSA (prostate-specific antigen) 0.8 ng/mL. MAG3 in pregnancy gives fetal dose <5 mGy.
+| **Kidney** | ⁹⁹ᵐTc-DTPA (diethylenetriaminepentaacetic acid), -MAG3 (mercaptoacetyltriglycine), -DMSA (dimercaptosuccinic acid) | GFR (glomerular filtration rate), split function, obstruction, scars, transplant |
+| **Bone** | ⁹⁹ᵐTc-MDP (methylene diphosphonate) | High-risk prostate cancer staging; low specificity |
+| **Prostate** | **PSMA (prostate-specific membrane antigen) PET**; choline; fluciclovine | PSMA preferred (NCCN [National Comprehensive Cancer Network]) for staging and recurrence; specificity >90% |
+| **Therapy** | ¹⁷⁷Lu-PSMA-617; radium-223 | mCRPC (metastatic castration-resistant prostate cancer); VISION trial (2021) |
+| **FDG (fluorodeoxyglucose) PET** | Glucose analogue trapped in cells | **Residual seminoma >3 cm**; penile cancer with palpable nodes; distant urothelial disease. Poor in prostate and clear cell RCC (renal cell carcinoma) |
+| **Renal mass** | Sestamibi SPECT; girentuximab PET | Oncocytoma "hot" on sestamibi; clear cell RCC "hot" on girentuximab |
+| **Adrenal** | ¹²³I-MIBG (metaiodobenzylguanidine), ⁶⁸Ga-DOTATATE, FDG | Metastatic or extra-adrenal phaeochromocytoma; MIBG best in MEN-2 (multiple endocrine neoplasia type 2) |
+| **Sentinel node** | ⁹⁹ᵐTc-nanocolloid plus blue dye | Penile cancer, impalpable nodes |
+| **Scrotum** | ⁹⁹ᵐTc-pertechnetate | Torsion cold, epididymitis hot |
+| **Reflux** | Direct radionuclide cystography | VUR (vesicoureteral reflux) follow-up: more sensitive, lower dose than VCUG (voiding cystourethrogram) |
+| **Infection** | ¹¹¹In-labelled leucocytes; ⁶⁷Ga | Occult abscess; not in transplant |
 
 **Diagram to draw:** gamma camera chain: patient, collimator, crystal, photomultiplier, image.
 
@@ -347,45 +342,40 @@ Left-sided channels regress -> right-sided persist
 (also answered in 2017-Winter Paper 2, Q3f and 2021-Summer Paper 1, Q3e; diuretic protocol: see Practice Set 2 Paper 1, Q3f)
 
 ### Principle
-- Each tracer images the part of the nephron that handles it. Kidneys receive 20% of cardiac output (renal plasma flow about 600 mL/min); plasma clearance is about 20% filtration and 80% tubular secretion.
+- Each tracer images the part of the nephron that handles it. Plasma clearance is about 20% filtration and 80% tubular secretion.
 
 ### Tracers
 
 | Feature | ⁹⁹ᵐTc-DTPA (diethylenetriaminepentaacetic acid) | ⁹⁹ᵐTc-MAG3 (mercaptoacetyltriglycine) | ⁹⁹ᵐTc-DMSA (dimercaptosuccinic acid) |
 |---|---|---|---|
-| Handling | Glomerular filtration only | Protein-bound; tubular secretion, high extraction | Filtered, then retained by proximal tubules (megalin, cubilin) |
-| Study | Dynamic | Dynamic | **Static cortical** at 2 hours |
-| Main use | **GFR (glomerular filtration rate)**; captopril renography | **Split function and obstruction (first choice)**; transplant | **Pyelonephritis and scars**; split function |
-| Poor function | High background, poor images | Good images | Delay imaging |
-| Dose | 5–10 mCi (185–370 MBq) | 5–10 mCi (185–370 MBq) | 5 mCi adult; 50 µCi/kg child |
+| Handling | Glomerular filtration only; poor images in renal failure | Protein-bound; tubular secretion; good images in renal failure | Filtered, then retained by proximal tubules |
+| Study | Dynamic | Dynamic | **Static cortical**, 2 hours |
+| Main use | **GFR (glomerular filtration rate)**; captopril study | **Split function, obstruction (first choice)**; transplant | **Pyelonephritis and scars** |
+| Dose | 5–10 mCi | 5–10 mCi | 5 mCi adult; 50 µCi/kg child |
 
 ### Dynamic renography: method
-- Prepare: hydrate; catheter for outlet obstruction or neurogenic bladder; cap nephrostomy. IV (intravenous) bolus under the gamma camera.
-- **Perfusion phase:** frames every 1–2 seconds for 1 minute; the kidney should light up within seconds of the aorta.
-- **Function phase:** regions of interest over each kidney with background subtraction. **Split function = area under each curve at 1–3 minutes**; normal up to 45:55.
-- **Drainage phase:** MAG3 peaks at 3–5 minutes and reaches the bladder by 10–15 minutes; a rising curve needs furosemide (see Q3f).
-- **GFR:** DTPA camera uptake (Gates method) or plasma-sample clearance.
+- Hydrate; catheter for outlet obstruction; cap nephrostomy; IV (intravenous) bolus.
+- **Perfusion phase:** frames every 1–2 seconds; kidney appears within seconds of the aorta.
+- **Function phase:** regions of interest with background subtraction. **Split function = area under each curve at 1–3 minutes**; normal up to 45:55.
+- **Drainage phase:** MAG3 peaks at 3–5 minutes, bladder by 10–15 minutes; a rising curve needs furosemide (see Q3f).
+- **GFR:** DTPA camera method (Gates) or plasma-sample clearance.
 
 ### DMSA cortical scan
-- Pinhole or SPECT (single-photon emission computed tomography) images at 2 hours.
 
 | | Acute pyelonephritis | Scar |
 |---|---|---|
 | Defect | Ill-defined | Sharp, cortical thinning |
 | Kidney | Normal size | Often small |
-| Repeat at 6 months | Resolves | Persists |
-
-- Also: duplex polar function, MCDK (multicystic dysplastic kidney) non-function, ectopic kidney.
+| At 6 months | Resolves | Persists |
 
 ### Special studies
-- **Captopril renography (DTPA):** the stenotic kidney keeps GFR through angiotensin II efferent constriction; captopril removes it, so uptake falls. Abnormal scan, repeated off ACE (angiotensin-converting enzyme) inhibitors, improving by **≥10%** means renovascular hypertension is likely. Now replaced mostly by CT (computed tomography) or MR angiography.
-- **Transplant (MAG3):** acute rejection shows falling perfusion that worsens; delayed graft function keeps perfusion and improves. Urine leak shows extrarenal tracer, useful when contrast is avoided. Biopsy remains definitive.
-- **Indirect cystography:** voiding after MAG3 shows reflux without a catheter, but less sensitive.
+- **Captopril renography (DTPA):** the stenotic kidney keeps GFR by angiotensin II efferent constriction; captopril removes it, so uptake falls. Repeat off ACE (angiotensin-converting enzyme) inhibitors: improvement **≥10%** means renovascular hypertension likely. Largely replaced by CT (computed tomography) angiography.
+- **Transplant (MAG3):** acute rejection: perfusion falls and worsens; delayed graft function: perfusion kept, improves. Shows urine leak.
 
 ### Advantages and limits
-- Quantitative function, low radiation, safe in contrast allergy and pregnancy (MAG3 fetal dose <5 mGy). Poor anatomy; operator-dependent regions of interest.
+- Quantitative, low radiation, safe in contrast allergy and pregnancy (MAG3 fetal dose <5 mGy); poor anatomy.
 
-**Diagram to draw:** renogram: perfusion spike, peak at 3–5 minutes, washout; with 1–3 minute split-function window.
+**Diagram to draw:** renogram: perfusion spike, peak at 3–5 minutes, washout, 1–3 minute split window.
 
 > **Key points to remember:**
 > - DTPA = GFR; MAG3 = obstruction and transplant; DMSA = scars.
@@ -402,24 +392,24 @@ Left-sided channels regress -> right-sided persist
 *"Diureteric" is read as diuretic renography.*
 
 ### Principle
-- **Dilatation is not obstruction.** A capacious, non-obstructed pelvis retains tracer passively; furosemide raises urine flow and washes it out. A truly obstructed system cannot empty even under diuresis.
-- **MAG3 (technetium-99m mercaptoacetyltriglycine)** is the tracer of choice: tubular secretion gives good curves even with poor function. DTPA (diethylenetriaminepentaacetic acid) is an alternative.
+- **Dilatation is not obstruction.** A capacious pelvis retains tracer passively and furosemide washes it out; an obstructed system cannot empty even under diuresis.
+- **MAG3 (technetium-99m mercaptoacetyltriglycine)** is the tracer of choice (good curves even with poor function); DTPA (diethylenetriaminepentaacetic acid) is an alternative.
 
-### The "well-tempered" renogram (standard protocol)
+### "Well-tempered" protocol
 
 | Element | How | Why |
 |---|---|---|
-| **Hydration** | Oral fluids; IV (intravenous) fluid in children (about 15 mL/kg) | Dehydration gives false obstruction |
-| **Bladder catheter** | Urethral catheter | Removes back-pressure of a full bladder, confusion from VUR (vesicoureteral reflux) and gonadal dose |
-| **Diuretic dose** | Furosemide 0.5 mg/kg IV, maximum 40 mg in adults; 1 mg/kg in children; more in renal impairment | Maximal diuresis |
-| **Timing** | **F+20** (classic, when the pelvis is full); **F+15** (Campbell authors); **F0** (with tracer); **F−15** (system already in diuresis) | An early diuretic into an unfilled system gives false results; always state the timing |
-| **Regions of interest** | Cortex for split function; dilated pelvis for drainage; careful background | Wrong ROI gives spurious values and can show the level (UPJ [ureteropelvic junction] vs UVJ [ureterovesical junction]) |
-| **Gravity** | Upright or post-void image at the end | Separates the kidney that drains by posture |
-- Delay the first study until about 4–6 weeks of age, when function has matured.
+| **Hydration** | Oral; IV (intravenous) fluid in children (about 15 mL/kg) | Dehydration mimics obstruction |
+| **Bladder catheter** | Urethral catheter | Removes full-bladder back-pressure and VUR (vesicoureteral reflux) effects |
+| **Furosemide** | 0.5 mg/kg, adult maximum 40 mg; 1 mg/kg in children | Maximal diuresis |
+| **Timing** | **F+20** (classic, pelvis full); F+15 (Campbell authors); **F0** (with tracer); **F−15** (already in diuresis) | Early diuretic into an unfilled system misleads; always state timing |
+| **Regions of interest** | Cortex for split; dilated pelvis for drainage | Wrong placement gives spurious values |
+
+- First study after about 4–6 weeks of age (immature function).
 
 ### Outputs
 - **DRF (differential renal function)** from 1–3 minute counts: normal 45–55%.
-- **T½ (half-clearance time)**, measured from maximal filling or furosemide, not from tracer injection:
+- **T½ (half-clearance time)**, from maximal filling, not from injection:
 
 | T½ after furosemide | Interpretation |
 |---|---|
@@ -427,18 +417,17 @@ Left-sided channels regress -> right-sided persist
 | 10–20 minutes | Indeterminate |
 | >20 minutes | Obstructed |
 
-- **O'Reilly curves:** I normal; II obstructed (keeps rising); IIIa dilated, not obstructed (falls after furosemide); IIIb equivocal.
-- A **biphasic curve** (prompt drainage that stops) and poor upright drainage predict progression.
+- **O'Reilly curves:** I normal; II obstructed (rising); IIIa dilated, not obstructed (falls after furosemide); IIIb equivocal. A **biphasic curve** and poor upright (post-void) drainage predict progression.
 
 ### Indications
-- Antenatal hydronephrosis and PUJ (pelviureteric junction) obstruction; megaureter; before and after pyeloplasty; retrocaval ureter; transplant ureter; duplex systems.
-- Surgery is considered for **DRF <40%**, falling DRF on serial scans, T½ >20 minutes or retention on upright images, with symptoms or infection.
+- PUJ (pelviureteric junction) obstruction, antenatal hydronephrosis, megaureter, after pyeloplasty, transplant ureter.
+- Consider surgery for **DRF <40%**, falling DRF, T½ >20 minutes or upright retention, with symptoms.
 
 ### Pitfalls
-- Dehydration, full bladder, poor function (kidney cannot respond to diuretic), very capacious pelvis (reservoir effect), wrong ROI, mistimed diuretic, neonatal immaturity.
-- No agreed paediatric T½ cut-off; neonatal false-positive "obstruction" reaches 44%. **Serial trends and curve shape** decide. Equivocal cases: Whitaker test or MRU (magnetic resonance urography).
+- Dehydration, full bladder, poor function, very capacious pelvis, wrong ROI (region of interest), mistimed diuretic.
+- No agreed paediatric T½ cut-off; neonatal false-positive rates reach 44%, so **serial trends and curve shape** decide. Equivocal: Whitaker test or MRU (magnetic resonance urography).
 
-**Diagram to draw:** O'Reilly curves I, II, IIIa and IIIb with the furosemide arrow.
+**Diagram to draw:** O'Reilly curves I, II, IIIa and IIIb with furosemide arrow.
 
 > **Key points to remember:**
 > - Well-tempered: hydrate, catheter, standard diuretic dose and timing.
