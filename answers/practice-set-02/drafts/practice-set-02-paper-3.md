@@ -379,8 +379,7 @@ Breakthrough UTI / new scar / persistent IV-V -> Dx/HA or Cohen
 > **Key points to remember (SAQ angle):**
 > - Treat BBD (bladder and bowel dysfunction) and give CAP (continuous antibiotic prophylaxis) first; correct for breakthrough febrile UTI (urinary tract infection), new scars or persistent grade IV–V.
 > - Endoscopic Dx/HA (dextranomer/hyaluronic acid) by HIT (hydrodistension implantation): least invasive; lower success at higher grades.
-> - Bilateral VUR (vesicoureteral reflux): Cohen cross-trigonal reimplant (over 98%), as both sides are done through one cystotomy.
-> - Bilateral extravesical (Lich–Gregoir) repair: retention up to 10%, so use nerve-sparing dissection.
+> - Bilateral VUR (vesicoureteral reflux): Cohen cross-trigonal reimplant (over 98%) does both sides through one cystotomy; bilateral extravesical (Lich–Gregoir) repair risks retention up to 10%.
 
 ---
 
