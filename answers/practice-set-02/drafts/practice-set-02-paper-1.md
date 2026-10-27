@@ -21,80 +21,75 @@
 *"Procedentia" is read as procidentia (complete uterine prolapse); "fertility sparing" means uterus-preserving treatment for a woman who wants future pregnancy.*
 
 ### A. Anatomy of the female pelvic floor
-Support comes from three layers working together: the **levator ani** (muscle), the **endopelvic fascia and its ligaments**, and the **perineal membrane and perineal body**, all anchored to the bony pelvis.
+Support comes from the **levator ani**, the **endopelvic fascia and ligaments**, and the **perineal membrane and perineal body**, anchored to the bony pelvis.
 
 **1. Pelvic diaphragm**
 
 | Muscle | Attachment | Function |
 |---|---|---|
-| Puborectalis | Back of pubis, loops behind the anorectal junction | Anorectal sling and angle |
-| Pubococcygeus (pubovaginal) | Pubis and arcus tendineus to the viscera and anococcygeal raphe | Slings the urethra and vagina |
-| Iliococcygeus | Arcus tendineus levator ani and ischial spine to the coccyx | Flat, horizontal **levator plate** |
-| Coccygeus (not levator) | Ischial spine to lower sacrum and coccyx | Lies on the sacrospinous ligament |
+| Puborectalis | Back of pubis, loops behind anorectal junction | Anorectal angle |
+| Pubococcygeus | Pubis and arcus tendineus to viscera and anococcygeal raphe | Slings urethra and vagina |
+| Iliococcygeus | Arcus tendineus and ischial spine to coccyx | Horizontal **levator plate** |
+| Coccygeus (not levator) | Ischial spine to sacrum and coccyx | Lies on sacrospinous ligament |
 
-- Nerve to levator ani **(S3–S5)** runs on its pelvic surface; the **pudendal nerve (S2–S4)** supplies the sphincters and perineal muscles.
-- Tonic levator contraction keeps the **urogenital hiatus** closed. The uterus and upper vagina rest on the horizontal levator plate.
+- Nerve to levator ani **(S3–S5)**; **pudendal nerve (S2–S4)** to sphincters and perineal muscles.
+- Tonic contraction closes the **urogenital hiatus**; the uterus and upper vagina rest on the levator plate.
 
 **2. Perineal membrane and perineal body**
-- The membrane spans the pubic arch and is pierced by the urethra and vagina. The deep pouch holds the striated urogenital sphincter (sphincter urethrae, compressor urethrae, urethrovaginal sphincter).
-- The perineal body (bulbospongiosus, external anal sphincter, transverse perinei) anchors the distal vagina.
+- The membrane spans the pubic arch, pierced by urethra and vagina; above it lies the striated urogenital sphincter. The perineal body anchors the distal vagina.
 
-**3. Endopelvic fascia, ligaments and surgical anchors**
-- **Cardinal ligament** (side wall to cervix; carries the uterine artery) and **uterosacral ligament** (sacrum to cervix and upper vagina). The ureter lies 4 cm from the uterosacral ligament near the sacrum but only 0.9 cm near the cervix.
-- Pubocervical fascia attaches to the **ATFP (arcus tendineus fasciae pelvis)**, pubis to just above the ischial spine; rectovaginal fascia behind.
-- **Sacrospinous ligament (SSL)**, 7–8 cm, ischial spine to sacrum: anchor for vaginal hysteropexy. The pudendal nerve and vessels pass behind the ischial spine, and the sacral plexus lies just posterior.
-- **Sacral promontory**: anchor for sacrohysteropexy. The left common iliac vein and right ureter each lie about 2.7 cm from it; middle sacral vessels in front.
+**3. Ligaments and surgical anchors**
+- **Cardinal ligament** (side wall to cervix; carries the uterine artery) and **uterosacral ligament** (sacrum to cervix). The ureter is 4 cm from the uterosacral ligament near the sacrum but 0.9 cm near the cervix.
+- Pubocervical fascia attaches to the **ATFP (arcus tendineus fasciae pelvis)**, pubis to ischial spine.
+- **Sacrospinous ligament (SSL)**, 7–8 cm, ischial spine to sacrum: the pudendal nerve and vessels pass behind the spine, the sacral plexus just posterior.
+- **Sacral promontory**: left common iliac vein and right ureter each about 2.7 cm away.
 
-**4. DeLancey levels of support (1992)**
+**4. DeLancey levels (1992)**
 
 | Level | Structures | Loss produces |
 |---|---|---|
-| I suspension | Cardinal–uterosacral complex to sacrum and side wall | **Uterine or vault prolapse**, enterocele |
-| II attachment | Paravaginal attachment to ATFP and levator fascia | Anterior (cystocele) or posterior wall prolapse |
-| III fusion | Perineal membrane, perineal body, levator | Urethral hypermobility, distal rectocele |
+| I suspension | Cardinal–uterosacral complex | **Uterine or vault prolapse**, enterocele |
+| II attachment | Paravaginal attachment to ATFP | Anterior or posterior wall prolapse |
+| III fusion | Perineal membrane, perineal body | Urethral hypermobility, distal rectocele |
 
 **5. Why prolapse occurs**
-- The muscle fails first (birth trauma, levator avulsion, denervation). The hiatus widens, the ligaments then carry the whole load, and they stretch. Collagen changes and Ehlers–Danlos or Marfan syndrome add risk. Risk factors: vaginal birth, forceps, age, obesity, constipation.
+- Muscle fails first (birth trauma, levator avulsion, denervation). The hiatus widens, the ligaments carry the whole load and stretch. Collagen disorders (Ehlers–Danlos, Marfan) add risk; also vaginal birth, forceps, age, obesity, constipation.
 
 **Diagram to draw:** sagittal female pelvis with levator plate and DeLancey levels I–III.
 
 ### B. Procidentia: definition and assessment
-- **Procidentia** is total eversion: the uterus lies wholly outside the hymen, **POP-Q (pelvic organ prolapse quantification) stage 4**.
-- Assess all compartments (apical loss nearly always drags the anterior wall), occult SUI (stress urinary incontinence) with the prolapse reduced, PVR (post-void residual), ultrasound for hydronephrosis, cervical length, ulceration and cervical cytology. Abnormal bleeding needs gynaecological evaluation first.
-- In a young woman, look for a cause: connective tissue disorder or neurological disease (e.g. spina bifida).
+- **Procidentia**: the uterus lies wholly outside the hymen, **POP-Q (pelvic organ prolapse quantification) stage 4**.
+- Assess all compartments, occult SUI (stress urinary incontinence) with prolapse reduced, PVR (post-void residual), hydronephrosis, cervical length and ulceration. Abnormal bleeding needs gynaecological evaluation first.
 
 ### C. Fertility-sparing options
-**Principle:** restore **level I** support while keeping the uterus and cervix intact. Defer definitive surgery until the family is complete when possible, because pregnancy and vaginal delivery can cause recurrence.
+**Principle:** restore **level I** support while keeping uterus and cervix. Defer definitive surgery until the family is complete where possible, because pregnancy and delivery cause recurrence.
 
-**1. Conservative (first line while childbearing)**
-- PFMT (pelvic floor muscle training); weight loss, treat constipation, avoid heavy lifting.
-- **Vaginal pessary**: ring with support for milder prolapse; space-filling (Gellhorn, cube) for procidentia. Removed for conception; review about 6-monthly for discharge and erosion. A pessary trial also confirms that symptoms are due to prolapse.
+**1. Conservative (first line)**
+- PFMT (pelvic floor muscle training), weight loss, treat constipation.
+- **Pessary**: space-filling (Gellhorn, cube) for procidentia; removed for conception; review about 6-monthly for discharge and erosion.
 
 **2. Uterus-preserving surgery**
 
 | Operation | Technique | Fertility points |
 |---|---|---|
-| **Sacrospinous hysteropexy** (vaginal) | Cervix and uterosacral insertion sutured to the SSL **1.5–3 cm medial to the ischial spine**, into the ligament, not behind it | Non-inferior to vaginal hysterectomy with uterosacral suspension (SAVE U trial); risk of buttock pain, pudendal or gluteal vessel injury |
-| **Uterosacral hysteropexy** (vaginal or laparoscopic) | Shorten and reattach the uterosacral ligaments to the cervix at the intermediate portion, sutures lateral to medial | Native tissue, no mesh; cystoscopy for ureteric kinking |
-| **Sacrohysteropexy** (open, laparoscopic, robotic) | Mesh from the posterior cervix (or bifurcated through broad-ligament windows) to the anterior longitudinal ligament over the promontory | Most durable apical support; pregnancy reported afterwards, usually with caesarean delivery |
-| **Manchester (Fothergill)** | Cervical amputation, cardinal ligaments sutured in front of the cervical stump, anterior colporrhaphy | Suits an elongated cervix, but amputation risks **cervical stenosis, incompetence, miscarriage and preterm labour**: avoid if pregnancy is wanted |
+| **Sacrospinous hysteropexy** (vaginal) | Cervix sutured to the SSL **1.5–3 cm medial to the ischial spine**, into the ligament | Non-inferior to vaginal hysterectomy with uterosacral suspension (SAVE U trial); buttock pain, pudendal injury |
+| **Uterosacral hysteropexy** (vaginal or laparoscopic) | Shorten and reattach uterosacral ligaments to cervix, sutures lateral to medial | No mesh; cystoscopy for ureteric kinking |
+| **Sacrohysteropexy** (open, laparoscopic, robotic) | Mesh from posterior cervix to anterior longitudinal ligament over the promontory | Most durable apical support; later pregnancy usually by caesarean |
+| **Manchester (Fothergill)** | Cervical amputation, cardinal ligaments sutured in front of the stump, anterior colporrhaphy | Suits elongated cervix, but risks **cervical stenosis, incompetence, miscarriage, preterm labour**: avoid if pregnancy wanted |
 
-- **Also know:** Indian abdominal slings for young nulliparous prolapse (Shirodkar, Purandare, Khanna, Virkud), now largely replaced by laparoscopic hysteropexy. **Le Fort partial colpocleisis** keeps the uterus but not fertility or intercourse (elderly only).
+- **Also know:** Indian abdominal slings for nulliparous prolapse (Shirodkar, Purandare, Khanna, Virkud). **Le Fort colpocleisis** keeps the uterus but not fertility (elderly only).
 
 **3. Choosing**
 ```
-Young woman, procidentia, wants pregnancy
-  -> PFMT + pessary until family complete
-  -> pessary fails or refused -> sacrospinous hysteropexy
-     or laparoscopic sacrohysteropexy (avoid Manchester)
-  -> later pregnancy: caesarean usually advised
-  -> recurrence after childbearing -> hysterectomy + vault
-     suspension or sacrocolpopexy
+Procidentia, wants pregnancy -> PFMT + pessary
+  -> fails -> sacrospinous hysteropexy or
+     laparoscopic sacrohysteropexy (avoid Manchester)
+  -> recurrence after childbearing -> hysterectomy
+     + vault suspension or sacrocolpopexy
 ```
 
 ### D. Complications and follow-up
-- Recurrence (mostly posterior compartment), de novo SUI, mesh exposure (3.4–5.4% after sacrocolpopexy), ureteric kinking, buttock pain.
-- The retained uterus needs cervical screening and evaluation of any abnormal bleeding.
+- Recurrence (mostly posterior), de novo SUI, mesh exposure (3.4–5.4% after sacrocolpopexy), ureteric kinking. The retained uterus needs cervical screening.
 
 > **Key points to remember:**
 > - Levator ani = puborectalis, pubococcygeus, iliococcygeus; S3–S5.
@@ -109,71 +104,71 @@ Young woman, procidentia, wants pregnancy
 (retrocaval ureter also answered in 2017-Winter Paper 3, Q3d)
 
 ### Introduction
-- The **IVC (inferior vena cava)** forms between the 6th and 8th weeks from three pairs of fetal veins by anastomosis, regression and persistence. The final IVC is **right-sided**, so every long left vein must cross the aorta to reach it.
-- Most anomalies are silent and found on CT (computed tomography). They matter because they **bleed at surgery, mimic lymph nodes, trap the ureter and alter IVC filter placement**.
+- The **IVC (inferior vena cava)** forms between the 6th and 8th weeks from three pairs of fetal veins by anastomosis, regression and persistence. The final IVC is **right-sided**, so long left veins must cross the aorta to reach it.
+- Most anomalies are silent CT (computed tomography) findings. They **bleed at surgery, mimic lymph nodes, trap the ureter and alter IVC filter placement**.
 
 ### Embryology
 **Three paired venous systems**
 
 | Vein | Position | Adult derivatives |
 |---|---|---|
-| **Posterior cardinal** (first) | Dorsolateral | Common iliac veins (iliac confluence); mostly regresses |
-| **Subcardinal** | Ventromedial | Right: **suprarenal IVC**; intersubcardinal anastomosis: **left renal vein** (pre-aortic); left: adrenal and gonadal veins |
-| **Supracardinal** (last) | Dorsomedial | Right: **infrarenal IVC**; thoracic parts: **azygos and hemiazygos** veins |
+| **Posterior cardinal** (first) | Dorsolateral | Iliac confluence; mostly regresses |
+| **Subcardinal** | Ventromedial | Right: **suprarenal IVC**; intersubcardinal anastomosis: **left renal vein**; left: adrenal and gonadal veins |
+| **Supracardinal** (last) | Dorsomedial | Right: **infrarenal IVC**; thoracic parts: **azygos and hemiazygos** |
 
 **Segments of the definitive IVC (top to bottom)**
-1. **Hepatic** segment: right vitelline vein.
-2. **Suprarenal** segment: right subcardinal vein, joined to the hepatic segment by the subcardinal–hepatic anastomosis.
-3. **Renal** segment: subcardinal–supracardinal anastomosis.
-4. **Infrarenal** segment: right supracardinal vein.
+1. **Hepatic**: right vitelline vein.
+2. **Suprarenal**: right subcardinal vein (via the subcardinal–hepatic anastomosis).
+3. **Renal**: subcardinal–supracardinal anastomosis.
+4. **Infrarenal**: right supracardinal vein.
 5. **Iliac confluence**: posterior cardinal veins.
 
 **Renal collar**
-- At renal level, a venous ring encircles the aorta. The **ventral limb** (pre-aortic, from the intersubcardinal anastomosis) normally persists as the left renal vein; the **dorsal limb** (retro-aortic, supracardinal) regresses.
-- Early on, the veins form a collar on each side through which the ascending kidney passes. The right supracardinal vein lies **dorsal** to the ureter, so the normal ureter lies in front of the IVC.
+- A venous ring encircles the aorta at renal level. The **ventral (pre-aortic) limb** persists as the left renal vein; the **dorsal (retro-aortic) limb** regresses.
+- The right supracardinal vein lies **dorsal** to the ureter, so the normal ureter lies in front of the IVC.
 
 ```
-Left-sided channels regress -> right-sided channels persist
-     -> single right IVC + pre-aortic left renal vein
+Left-sided channels regress -> right-sided persist
+  -> single right IVC + pre-aortic left renal vein
 ```
 
-**Diagram to draw:** three stages: paired cardinal veins, subcardinal–supracardinal anastomoses with renal collar, definitive IVC.
+**Diagram to draw:** three stages: paired cardinal veins, anastomoses with renal collar, definitive IVC.
 
 ### Anomalies
 
 | Anomaly | Embryological error | Key features |
 |---|---|---|
-| **Retrocaval (circumcaval) ureter**, better "preureteral vena cava" | Infrarenal IVC forms from a vein **ventral** to the ureter instead of the supracardinal | Right side only; about 1 in 1500 autopsies; male 3:1; presents in the 3rd–4th decade. **Type I** (low loop, fishhook, obstructs); **type II** (high loop, sickle, mild) |
-| **Circumaortic left renal vein** | Dorsal limb of the renal collar persists with the ventral limb | Commonest venous anomaly (2–16%); the posterior limb runs lower into the lumbar IVC |
-| **Retroaortic left renal vein** | Ventral limb regresses, dorsal limb persists | Less common; single vein behind the aorta; may be compressed ("posterior nutcracker") |
-| **Left IVC** (transposition) | Left supracardinal persists, right regresses | Crosses to the right at renal level, in front of the aorta |
-| **Duplicated IVC** | Both supracardinal veins persist | Left IVC drains into the left renal vein; double right cava can trap the ureter between its limbs |
-| **Azygos continuation** (interrupted IVC) | Subcardinal–hepatic anastomosis fails; no suprarenal segment | Blood returns via a large azygos; hepatic veins drain directly to the right atrium; polysplenia, heterotaxy, heart disease |
-| **Absent infrarenal IVC** | Supracardinal and posterior cardinal failure | Deep vein thrombosis in young patients; large collaterals |
+| **Retrocaval ureter** ("preureteral vena cava") | Infrarenal IVC forms from a vein **ventral** to the ureter | Right only; 1 in 1500 autopsies; male 3:1; presents 3rd–4th decade. **Type I** low loop, fishhook, obstructs; **type II** high loop, sickle, mild |
+| **Circumaortic left renal vein** | Dorsal limb persists with ventral | Commonest (2–16%); posterior limb runs lower into lumbar IVC |
+| **Retroaortic left renal vein** | Ventral limb regresses, dorsal persists | Less common; may be compressed ("posterior nutcracker") |
+| **Left IVC** | Left supracardinal persists, right regresses | Crosses to the right at renal level, in front of the aorta |
+| **Duplicated IVC** | Both supracardinals persist | Left IVC joins left renal vein; double right cava can trap the ureter |
+| **Azygos continuation** | Subcardinal–hepatic anastomosis fails | Large azygos; hepatic veins drain directly to right atrium; polysplenia, heterotaxy |
+| **Absent infrarenal IVC** | Supracardinal and posterior cardinal failure | Deep vein thrombosis in the young |
 
-- Campbell gives two explanations for the retrocaval ureter: a persistent **lumbar subcardinal vein** (Chapter 52) or a persistent **posterior cardinal vein** (Chapter 93, and most embryology texts). Both describe a ventral vein forming the IVC.
+- For retrocaval ureter Campbell names a persistent **lumbar subcardinal** (Chapter 52) or **posterior cardinal** vein (Chapter 93, most texts); both mean a ventral vein forms the IVC.
 
 ### Clinical implications
 **1. Diagnosis**
-- Contrast CT in the venous phase or MRI (magnetic resonance imaging) shows the anomaly. A left or duplicated IVC can be mistaken for **para-aortic lymphadenopathy**, and a large azygos for a mediastinal mass, leading to needless biopsy.
-- Retrocaval ureter: S-shaped or fishhook ureter on retrograde pyelography at L3–L4; CT urography confirms. Diuretic renography grades obstruction.
+- Venous-phase CT or MRI (magnetic resonance imaging). A left or duplicated IVC mimics **para-aortic lymphadenopathy**; a large azygos mimics a mediastinal mass, risking needless biopsy.
+- Retrocaval ureter: S-shaped or fishhook ureter at L3–L4 on retrograde pyelography; CT urography confirms; diuretic renography grades obstruction.
 
 **2. RPLND (retroperitoneal lymph node dissection)**
-- Preoperative CT must look for circumaortic or retroaortic left renal vein and retrocaval ureter. A left or duplicated IVC lies within the left template; a retroaortic limb can be torn when lumbar vessels are divided or the aorta is rolled.
+- Preoperative CT must look for circumaortic or retroaortic veins and retrocaval ureter. A left or duplicated IVC lies in the left template; a retroaortic limb tears when lumbar vessels are divided.
 
-**3. Radical nephrectomy and caval thrombus**
-- On the left, the hidden posterior limb of a circumaortic vein bleeds when the artery is approached from behind; ligate both limbs. A tumour thrombus in a duplicated IVC needs rerouting of the left IVC.
+**3. Radical nephrectomy**
+- The hidden posterior limb of a circumaortic vein bleeds when the artery is approached from behind: ligate both limbs. Caval thrombus in a duplicated IVC needs rerouting of the left IVC.
 
 **4. Living donor nephrectomy**
-- The left kidney is preferred for its long vein. A circumaortic or retroaortic vein shortens it and adds bleeding risk; CT angiography is mandatory, and the team may choose the right kidney.
+- The left kidney is preferred for its long vein. A circumaortic or retroaortic vein shortens it and adds bleeding risk; CT angiography is mandatory, and the right kidney may be chosen.
 
 **5. Retrocaval ureter repair**
-- Observe non-obstructed type II. For obstruction, **divide the ureter, transpose it in front of the IVC and re-anastomose** (ureteroureterostomy or ureteropyelostomy) over a stent, excising the aperistaltic retrocaval segment. Laparoscopic or robotic repair is standard. A pyeloplasty that misses the anomaly fails.
+- Observe non-obstructed type II. For obstruction, **divide the ureter, transpose it in front of the IVC and re-anastomose** over a stent, excising the aperistaltic segment; laparoscopic or robotic. A pyeloplasty that misses it fails.
 
 **6. Interventional and vascular**
-- **IVC filter:** with duplication, emboli bypass a filter in one cava, so bilateral or suprarenal filters are needed. A left IVC changes the access route.
-- Aortic aneurysm surgery: retroaortic vein injury. A retroaortic vein can cause haematuria, left varicocele or pelvic congestion.
-- **Also know:** varied left adrenal and gonadal vein entry (adrenal vein sampling); right gonadal vein enters the right renal vein in up to 10%.
+- **IVC filter:** with duplication, emboli bypass a single filter, so filter both cavae or place it suprarenally.
+- Aortic surgery risks retroaortic vein injury. A retroaortic vein can cause haematuria or left varicocele.
+- **Also know:** variable left adrenal vein entry (adrenal vein sampling); right gonadal vein into right renal vein in up to 10%.
 
 > **Key points to remember:**
 > - Infrarenal IVC = right supracardinal; suprarenal = right subcardinal; hepatic = vitelline.

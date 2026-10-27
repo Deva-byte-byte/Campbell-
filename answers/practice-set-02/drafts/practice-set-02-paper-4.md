@@ -58,7 +58,7 @@
 ### Newer concepts in surgical management
 1. **RARP (robot-assisted RP):** 3D, 10× view and wristed instruments removed the suturing barrier. **Yaxley 2016** RCT (randomised controlled trial): equal function and early oncology versus open; less blood loss (300 versus 1400 mL), shorter stay. Surgeon matters more than platform.
 2. **Risk-graded nerve sparing:** each side is graded from full (intrafascial) through partial to none (for example the Tewari four-grade scale). The choice uses grade, positive cores and mpMRI (multiparametric magnetic resonance imaging) capsular contact.
-3. **NeuroSAFE:** intraoperative frozen section of each posterolateral surface; a positive section means resecting that NVB. This permits more nerve sparing safely (NeuroSAFE PROOF trial, UK).
+3. **NeuroSAFE:** intraoperative frozen section of each posterolateral surface; a positive section means resecting that NVB. It aims to allow more nerve sparing without more positive margins; the UK NeuroSAFE PROOF RCT (randomised controlled trial) tested its effect on erectile function.
 4. **Anterior-support preservation:**
    - **Retzius-sparing** (Bocciardi, 2010): fully posterior via the pouch of Douglas. Earlier continence at 3 months, equal at 12; more positive margins, so avoid for anterior tumours.
    - **Hood technique** (2021): anterior approach keeping detrusor apron, puboprostatic ligaments and DVC; early data.
