@@ -7,8 +7,8 @@
 4. Q3b. Robotic vs std lap surgeries (SAQ, 10)
 5. Q3c. Metallic stents in urology (SAQ, 10)
 6. Q3d. Gracilis myocutaneous flap in Uro. (SAQ, 10)
-7. Q3e. Newer generation laser technologies. (SAQ, 10)
-8. Q3f. New LASER for stone Treatment (SAQ, 10): cross-reference to Q3e
+7. Q3e. Zero-ischaemia partial nephrectomy (laparoscopic and robotic) (SAQ, 10)
+8. Q3f. Steroid-free immunosuppression in renal transplantation (SAQ, 10)
 
 *Practice paper compiled from the question bank.*
 
@@ -349,61 +349,90 @@
 
 ---
 
-## Q3e. Newer generation laser technologies.
+## Q3e. Zero-ischaemia partial nephrectomy (laparoscopic and robotic)
 **Type:** SAQ (10 marks)
-(also answered in 2024-Winter Paper 4, Q3c; stone lasers in 2025-Winter Paper 4, Q3b)
+(clamping strategies and laparoscopic partial nephrectomy haemostasis also in 2019-Summer Paper 3, Q1)
 
-### Background
-- **Ho:YAG (holmium:yttrium-aluminium-garnet), 2120 nm** (often quoted as 2100 nm) is the standard for stones and enucleation: water-absorbed, pulsed, **photothermal**; penetration 0.31 mm.
-- Aims: less retropulsion, finer dust, faster work.
+### Definition and rationale
+- **Zero-ischaemia PN (partial nephrectomy):** excision and renorrhaphy **without clamping the main renal artery**, so the kidney stays perfused (Gill and colleagues, 2011).
+- **Why:** warm ischaemia injures nephrons (historical limit 30 minutes; trifecta ≤25). Most relevant in a **solitary kidney or CKD (chronic kidney disease)**.
 
-### 1. High-power holmium (100–120 W)
-- **Dusting** (low energy, high frequency) and **popcorning**; long-pulse modes reduce retropulsion.
+### Techniques
+| Technique | Method |
+|---|---|
+| **Off-clamp** | Hilum looped for rescue but not clamped; cold-scissor excision with strong suction |
+| **Anatomical (super-selective)** | Microdissect the higher-order arterial branches entering the tumour; occlude only these with small bulldogs |
+| **Selective segmental clamping** | Only the tumour's segment is ischaemic ("minimal ischaemia") |
+| **Parenchymal compression** | Parenchymal clamp across a polar tumour |
+| **Enucleation** | Pseudocapsule plane bleeds less, so suits off-clamp work |
 
-### 2. Pulse modulation (Moses technology)
-- **Moses effect:** the first part of a pulse boils a **vapour channel**; vapour absorbs less light, so the rest reaches the target.
-- Moses technology splits each pulse in two: the first opens the channel, the second strikes. Less retropulsion; may shorten **HoLEP (holmium laser enucleation of the prostate)**.
+### Aids
+- **3D (three-dimensional) CT (computed tomography) reconstruction** maps segmental arteries; intraoperative Doppler ultrasound.
+- **NIRF (near-infrared fluorescence) with ICG (indocyanine green)** on robotic consoles: after selective clamping, perfused kidney glows and the ischaemic tumour zone stays dark.
+- **Robot:** wristed instruments and fast suturing ease off-clamp work.
+- **Haemostasis:** clip or suture bed vessels as met; sliding-clip or barbed renorrhaphy; clamp if bleeding hides the margin.
 
-### 3. TFL (thulium fibre laser), 1940 nm
-- Diode-pumped silica fibre at the **water absorption peak**: about **4× holmium absorption**; penetration **0.08 mm**.
-- **Low peak power, long pulses, very high frequency (above 2000 Hz)**: fine dust, **minimal retropulsion**.
-- **Thin fibres** (about 150 µm): better irrigation and deflection.
-- **RCTs (randomised controlled trials):** TFL beat **low-power (30 W) holmium**; it **equalled 120 W pulse-modulated holmium**.
-- **Prostate:** ThuFLEP (thulium fibre laser enucleation).
+### Selection
+- **Ideal:** small (cT1a), exophytic, peripheral tumour; experienced surgeon.
+- **Caution:** endophytic, hilar or central tumours.
 
-### 4. Thulium:YAG, 2013 nm
-- Originally continuous wave (0.2 mm penetration, carbonisation): ThuVARP (vaporesection), ThuVEP (vapoenucleation), **ThuLEP** (enucleation, size-independent like HoLEP). Newer **pulsed Tm:YAG** also does lithotripsy.
+### Evidence
+- Off- versus on-clamp: **better early eGFR (estimated glomerular filtration rate), more blood loss**; **no difference beyond the early period**.
+- **Robotic RCTs (randomised controlled trials, e.g. CLOCK):** no difference in eGFR or split function up to 2 years.
+- RCT of super-selective clamping with NIRF: no 6-month gain; stopped for futility.
+- **Concept:** parenchymal volume preserved, not ischaemia time within accepted limits, governs function.
 
-### Comparison
-| | Ho:YAG | TFL |
-|---|---|---|
-| Wavelength | 2120 nm | 1940 nm |
-| Penetration | 0.31 mm | 0.08 mm |
-| Peak power | High | Low |
-| Retropulsion | More | Minimal |
+- **Also know:** early unclamping; hypothermia for long ischaemia; mannitol no benefit.
 
-### Settings and safety
-- **Retropulsion rises with pulse energy**, not frequency; fibre close and perpendicular.
-- **Heat follows power, not laser type:** ≤10 W in the ureter, ≤25 W in the kidney; injury above 43 °C; use an access sheath.
-
-- **Also know:** 180 W GreenLight (532 nm) vaporisation; diode lasers; suction sheaths.
-
-**Diagram to draw:** water absorption curve marking 1940 and 2120 nm.
+**Diagram to draw:** hilum with a micro-bulldog on a tertiary branch; tumour zone dark on NIRF.
 
 > **Key points to remember:**
-> - TFL 1940 nm: water peak, low peak power, minimal retropulsion.
-> - Moses: vapour channel; two-part pulse.
-> - TFL beats low-power, equals high-power pulse-modulated holmium.
-> - Heat depends on power: ≤10 W ureter, ≤25 W kidney.
+> - Zero ischaemia: no main-artery clamp (Gill, 2011); off-clamp or super-selective.
+> - NIRF with ICG confirms the right branch.
+> - RCTs: no long-term eGFR gain; more blood loss.
+> - Parenchyma preserved matters more than clamp time.
 
 ---
 
-## Q3f. New LASER for stone Treatment
+## Q3f. Steroid-free immunosuppression in renal transplantation
 **Type:** SAQ (10 marks)
+(immunosuppression also in Practice Set 3 Paper 4, Q1 and 2020-Summer Paper 4, Q1)
 
-**See Practice Set 3 Paper 4, Q3e (full answer).**
+### Why avoid steroids
+- Steroids block cytokine transcription (IL-1, IL-2 [interleukins]) and redistribute lymphocytes, but long-term use harms:
+  - **Metabolic:** PTDM (post-transplant diabetes mellitus), hypertension, dyslipidaemia, weight gain, hence **cardiovascular death** (leading cause of death with a functioning graft).
+  - **Bone:** osteoporosis, avascular necrosis; **growth failure** in children.
+  - Cataract, infection, poor healing.
 
-> **Key points to remember (stone angle):**
-> - TFL (1940 nm): fine dust, minimal retropulsion, thin fibres; settings ≤40 Hz often enough.
-> - Pulse-modulated (Moses) high-power holmium: vapour channel, less retropulsion.
-> - Safety: ≤10 W in the ureter, ≤25 W in the kidney; access sheath; damage above 43 °C.
+### Strategies
+| Strategy | Timing |
+|---|---|
+| **Steroid avoidance** | No steroids, or perioperative doses only |
+| **Early (rapid) withdrawal** | Stopped within the first week; most studied |
+| **Late withdrawal** | Months later; more rejection, less favoured |
+
+### Regimen
+- **Induction is essential:** depleting rATG (rabbit antithymocyte globulin) or alemtuzumab; basiliximab (IL-2 receptor blocker) in low risk.
+- **Maintenance:** tacrolimus at target levels plus MMF (mycophenolate mofetil).
+
+### Selection
+- **Suitable:** low immunological risk: first transplant, non-sensitised, no DSA (donor-specific antibody), prompt graft function, good adherence.
+- **Unsuitable:** highly sensitised, DSA, retransplant after immunological loss, DGF (delayed graft function), early rejection, **recurring steroid-responsive disease** (IgA nephropathy, lupus), steroids needed for other illness.
+
+### Evidence
+- **Woodle et al. (2008):** withdrawal after day 7 versus low-dose maintenance: similar 5-year outcomes; **more mild, steroid-sensitive rejection**.
+- **HARMONY (Lancet 2016):** steroids stopped on day 8: similar rejection and graft survival, **less PTDM**.
+- **Cochrane review (2016):** more acute rejection, but no difference in patient or graft survival up to 5 years.
+- **KDIGO (Kidney Disease: Improving Global Outcomes, 2009):** low-risk recipients with induction may stop steroids within the first week; if continued beyond it, continue rather than withdraw.
+- **Practice:** over two-thirds still take maintenance steroids (Chapter 91); steroid-free maintenance increasing in low-risk children.
+
+### Risks and safeguards
+- Early rejection; possibly more chronic injury and recurrence. Safeguards: tacrolimus levels, adherence, DSA monitoring, biopsy for rising creatinine.
+
+**Diagram to draw:** timeline: induction, steroids stopped by day 7, tacrolimus–MMF maintenance.
+
+> **Key points to remember:**
+> - Avoidance, early (first week) or late withdrawal.
+> - Needs induction plus tacrolimus–MMF; low-risk recipients only.
+> - More mild rejection, same survival; less PTDM (HARMONY).
+> - KDIGO 2009: stop within week 1, or continue.

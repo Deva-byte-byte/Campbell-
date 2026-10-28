@@ -46,6 +46,7 @@
 - Spontaneous postnatal descent occurs mainly in the first 3–6 months.
 
 ### Abnormalities of descent
+
 | Type | Description |
 |---|---|
 | **Undescended (cryptorchid)** | Arrested on the normal path: abdominal, "peeping" at the ring, canalicular, prescrotal. 1–4% of term boys, up to 45% preterm; 75–80% palpable; 60–70% unilateral |
@@ -85,6 +86,7 @@
 (also answered in Practice Set 10 Paper 2, Q1)
 
 ### Staging: TNM (AJCC (American Joint Committee on Cancer) 8th edition, 2017)
+
 | Stage | Definition |
 |---|---|
 | T1 | Not palpable: T1a incidental in ≤5% of resected tissue; T1b >5%; T1c found on needle biopsy |
@@ -165,6 +167,7 @@ Non-organ-confined, M0
 - Laminated calcified bodies **inside seminiferous tubules**, formed on degenerated tubular cells that Sertoli cells fail to clear. Affected tubules are often obliterated.
 
 ### Prevalence
+
 | Population | Prevalence |
 |---|---|
 | General population | 5–10% (population-based 4.2%, rising with age) |
@@ -206,21 +209,21 @@ Non-organ-confined, M0
 *Taken as lymphocele and chylous ascites after RPLND, nephrectomy, pelvic node dissection and transplantation.*
 
 ### Types and settings
+
 | Type | Definition | Setting and frequency |
 |---|---|---|
-| **Lymphocele** | Lymph collection **without epithelial lining** | **PLND (pelvic lymph node dissection):** radiological up to 60%, significant 2–5% (commonest complication). **Transplant:** symptomatic 0.03–26%, peak 6 weeks. **RPLND (retroperitoneal lymph node dissection):** ≤1.7% |
-| **Chylous ascites** | Lipid-rich lymph in the peritoneum from the cisterna chyli or major trunks | RPLND: 0.2–2.1% primary, **2–12% post-chemotherapy**; left nephrectomy with hilar node dissection |
+| **Lymphocele** | Lymph collection **without epithelial lining** | **PLND (pelvic lymph node dissection):** radiological up to 60%, significant 2–5%. **Transplant:** symptomatic 0.03–26%, peak 6 weeks. **RPLND (retroperitoneal lymph node dissection):** ≤1.7% |
+| **Chylous ascites** | Lipid-rich lymph in the peritoneum from the cisterna chyli or major trunks | RPLND: 0.2–2.1% primary, **2–12% post-chemotherapy**; left nephrectomy with hilar dissection |
 
-- **Risk factors:** suprahilar dissection near the cisterna chyli (L1–L2), extended templates, post-chemotherapy surgery; at transplant: mTOR (mammalian target of rapamycin) inhibitors, LMWH (low-molecular-weight heparin), obesity, re-transplant, rejection.
+- **Risk factors:** suprahilar dissection near the cisterna chyli (L1–L2), extended templates, post-chemotherapy surgery; at transplant: mTOR (mammalian target of rapamycin) inhibitors, obesity, re-transplant.
 
 ### Clinical features
-- **Lymphocele:** usually silent. Large ones compress the iliac vein (leg oedema, DVT (deep vein thrombosis)), bladder (frequency, pelvic pressure), ureter (hydronephrosis, graft dysfunction). Infection causes fever and sepsis.
-- **Chylous ascites:** rising girth, early satiety, weight gain, dyspnoea; milky drain fluid, more after fatty meals.
+- **Lymphocele:** usually silent. Large ones compress the iliac vein (leg oedema, DVT (deep vein thrombosis)), bladder (frequency, pelvic pressure), ureter (hydronephrosis, graft dysfunction); may become infected.
+- **Chylous ascites:** rising girth, early satiety, dyspnoea; milky drain fluid.
 
 ### Diagnosis
-- **Ultrasound or CT (computed tomography):** thin-walled collection; air or rim enhancement suggests infection.
-- **Aspirate:** lymph creatinine equals serum (urinoma: much higher). Chyle: milky, **triglyceride 2–8 × serum**, protein >3 g/dL.
-- Lymphangiography or lymphoscintigraphy localises the leak.
+- **Ultrasound or CT (computed tomography):** thin-walled collection; air or rim enhancement means infection.
+- **Aspirate:** lymph creatinine equals serum (urinoma: much higher). Chyle: **triglyceride 2–8 × serum**, protein >3 g/dL.
 
 ### Management
 **Lymphocele** (treat by symptoms, not size alone)
@@ -230,18 +233,17 @@ Symptomatic → percutaneous drain (± sclerotherapy)
 Recurrent / thick-walled → laparoscopic peritoneal fenestration (best)
 Infected → drainage + antibiotics; exclude urine leak
 ```
-- Aspiration alone nearly always recurs; sclerosants (povidone-iodine, doxycycline) may hinder later fenestration. Open drainage when laparoscopy is unsafe.
+- Aspiration alone recurs; sclerosants (povidone-iodine, doxycycline) may hinder later fenestration.
 
 **Chylous ascites** (stepwise)
 1. Paracentesis; drain if it reaccumulates.
 2. **Very low-fat, high-protein diet with MCT (medium-chain triglycerides)**, which are absorbed directly into portal blood, bypassing lacteals; plus **octreotide**.
 3. Nil by mouth with **TPN (total parenteral nutrition)**.
-4. Refractory: lymphangiography with embolisation, peritoneovenous shunt (about 90% success in a small series), or surgical ligation.
+4. Refractory: lymphangiography with embolisation, peritoneovenous shunt or surgical ligation.
 - Continue a low-fat diet for **≥4 weeks** after resolution.
 
 ### Prevention
-- **Clip or ligate lymphatics**, especially cephalad at the renal hilum during RPLND; omit suprahilar dissection when not needed.
-- Peritoneal interposition flap after robotic PLND; ligate perivascular lymphatics at transplant and on the back table.
+- **Clip or ligate lymphatics** (cephalad at the renal hilum in RPLND; perivascular at transplant); avoid unneeded suprahilar dissection; peritoneal flap after robotic PLND.
 
 **Diagram to draw:** pelvic lymphocele compressing the iliac vein and bladder.
 
@@ -256,11 +258,11 @@ Infected → drainage + antibiotics; exclude urine leak
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **Hyperfiltration:** a rise in **SNGFR (single-nephron glomerular filtration rate)** in surviving nephrons when nephron mass falls. Whole-kidney GFR (glomerular filtration rate) may stay normal while nephrons are being lost.
-- **Brenner hyperfiltration hypothesis (1982):** this adaptation itself damages glomeruli over time.
+- **Hyperfiltration:** a rise in **SNGFR (single-nephron glomerular filtration rate)** in surviving nephrons when nephron mass falls; whole-kidney GFR (glomerular filtration rate) may look normal.
+- **Brenner hypothesis (1982):** the adaptation itself damages glomeruli.
 
 ### Physiology
-- Net filtration pressure ≈ 10 mmHg (glomerular hydrostatic 60 − Bowman's 18 − oncotic 32).
+- Net filtration pressure ≈ 10 mmHg (hydrostatic 60 − Bowman's 18 − oncotic 32).
 - Afferent dilatation raises flow and filtration; **efferent constriction (angiotensin II) raises filtration pressure**.
 
 ### Mechanism
@@ -274,28 +276,27 @@ Nephron loss → afferent dilatation + efferent constriction
 
 ### In AKI (acute kidney injury)
 - Incomplete repair after AKI leaves fewer nephrons, which hyperfilter. Creatinine may return to baseline while **renal reserve is lost**.
-- This drives the **AKI-to-CKD (chronic kidney disease) transition**; AKI persisting ≥90 days is reclassified as CKD.
+- This drives the **AKI-to-CKD (chronic kidney disease) transition**; AKI persisting ≥90 days becomes CKD.
 - Each perioperative AKI episode is a **modifiable risk factor** for CKD progression.
-- Early in ATN (acute tubular necrosis), tubuloglomerular feedback lowers GFR; this is protective, reducing tubular workload.
 
 ### In CKD
-- Common final pathway of progression whatever the cause. Marked by **albuminuria (KDIGO (Kidney Disease: Improving Global Outcomes) A categories)**, hypertension and falling eGFR.
+- Final common pathway of progression; marked by **albuminuria (KDIGO (Kidney Disease: Improving Global Outcomes) A stages)**, hypertension, falling eGFR.
 
 ### Urological settings
+
 | Setting | Point |
 |---|---|
 | Nephrectomy or donation | Compensatory hypertrophy 20–30%; donor function 60–80% of pre-donation |
 | Partial nephrectomy, solitary kidney | >50% parenchymal loss → proteinuria, FSGS; ESRD (end-stage renal disease) risk if total nephron mass falls >80% |
 | Congenital solitary kidney, MCDK (multicystic dysplastic kidney) | Monitor BP, proteinuria, yearly ultrasound |
-| Reflux nephropathy, infundibulopelvic stenosis | Glomerulosclerosis in non-scarred tissue |
-- **Also know:** diabetes, obesity, pregnancy, high-protein meals, low birth weight (low nephron endowment).
+
+- **Also know:** reflux nephropathy, infundibulopelvic stenosis, diabetes, obesity, pregnancy, low birth weight (low nephron endowment).
 
 ### Prevention and treatment
-- Nephron-sparing surgery; avoid nephrotoxins, NSAIDs (non-steroidal anti-inflammatory drugs) and contrast overload.
+- Nephron-sparing surgery; avoid nephrotoxins and NSAIDs (non-steroidal anti-inflammatory drugs).
 - **BP (blood pressure) <130/80 mmHg**; **ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker)** in proteinuric disease: efferent dilatation lowers glomerular pressure.
 - **SGLT2 (sodium–glucose cotransporter-2) inhibitors:** restore tubuloglomerular feedback, causing afferent constriction. **DAPA-CKD** and **EMPA-KIDNEY** slowed progression with or without diabetes.
-- Finerenone in type 2 diabetic CKD; dietary protein restriction.
-- An early small eGFR dip on ACE inhibitors or SGLT2 inhibitors reflects lower glomerular pressure.
+- Finerenone (type 2 diabetic CKD); dietary protein restriction.
 
 **Diagram to draw:** glomerulus with dilated afferent and constricted efferent arterioles.
 
@@ -310,34 +311,32 @@ Nephron loss → afferent dilatation + efferent constriction
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Congenital pelvicalyceal variants occur in about 4% of people. Average 7–9 calyces per kidney.
+- Congenital pelvicalyceal variants occur in about 4% of people.
 - **Key question:** is there obstruction? Dilatation without obstruction needs no treatment; stasis causes stones and infection.
 
 ### Anomalies
+
 | Anomaly | Features | Management |
 |---|---|---|
 | **Calyceal diverticulum** | Transitional-lined intrarenal cavity joined to a calyx (Type I, commoner, small) or pelvis (Type II, larger, symptomatic) by a narrow neck; 4.5 per 1000; congenital (persistent 3rd–4th generation ureteric branches) or acquired. **Stones in almost 40%**; milk of calcium | Asymptomatic: observe. Pain, infection, stones: ureteroscopic neck incision, **percutaneous ablation with fulguration**, laparoscopic marsupialisation; SWL (shock wave lithotripsy) ineffective |
 | **Hydrocalycosis** | Dilated major calyx connected to the pelvis; infundibular obstruction by vessel, stenosis, scarring or achalasia | Symptomatic only: infundibulotomy or dilatation |
 | **Megacalycosis** | **Non-obstructive**; malformed papillae; **12–20 calyces**; pelvis normal; male 6:1; normal diuretic renogram | **None**; may coexist with segmental megaureter |
-| **Infundibular / infundibulopelvic stenosis** | Narrow infundibula ± small pelvis; usually bilateral, often with VUR (vesicoureteric reflux) and dysplasia; over a third reach renal failure (hyperfiltration) | Monitor creatinine and eGFR; ACE (angiotensin-converting enzyme) inhibitors; surgery only if obstruction harms function: endoscopic, calicocalicostomy, ureterocalicostomy |
-| **Extrarenal pelvis** | Large pelvis outside the sinus; mimics dilatation; calyces normal | None |
+| **Infundibular / infundibulopelvic stenosis** | Narrow infundibula ± small pelvis; usually bilateral, with VUR (vesicoureteric reflux), dysplasia; over a third reach renal failure (hyperfiltration) | Monitor creatinine and eGFR; ACE (angiotensin-converting enzyme) inhibitors; surgery only if obstruction harms function: endoscopic, calicocalicostomy, ureterocalicostomy |
+| **Extrarenal pelvis** | Large pelvis outside the sinus; mimics dilatation | None |
 | **Bifid pelvis** | About 10%; normal variant | None |
 | **Unipapillary kidney** | Single papilla and calyx; rare; usually hypoplastic kidney | None |
 
-- **Also know:** acquired infundibular stenosis (tuberculosis, after PCNL (percutaneous nephrolithotomy)); upper infundibular compression by a crossing artery (Fraley syndrome).
+- **Also know:** acquired infundibular stenosis (tuberculosis, post-PCNL (percutaneous nephrolithotomy)); Fraley syndrome (crossing artery on upper infundibulum).
 
 ### Evaluation
 - **Ultrasound:** cyst-like space; milk of calcium layers and shifts with position.
 - **CT (computed tomography) urography or MRU (magnetic resonance urography):** **delayed contrast pooling** in a diverticulum.
 - **Diuretic renogram (MAG3):** separates obstruction (hydrocalycosis) from non-obstruction (megacalycosis, extrarenal pelvis).
-- **Retrograde pyelography:** maps the neck before intervention.
+- **Retrograde pyelography:** maps the neck.
 
-### Differential diagnosis of calyceal dilatation
-- Obstructive hydronephrosis, papillary necrosis, chronic pyelonephritis (clubbing), tuberculosis, renal cyst.
-
-### Stone surgery points
-- Retrograde first: find the ostium, dilate or laser-incise, treat stone.
-- Lower pole diverticulum: percutaneous route favoured.
+### Differential diagnosis
+- Obstructive hydronephrosis, papillary necrosis, pyelonephritic clubbing, tuberculosis, renal cyst.
+- **Stones:** retrograde first (find, dilate or laser-incise the ostium); percutaneous for lower-pole diverticula.
 
 **Diagram to draw:** kidney showing diverticulum with narrow neck, hydrocalyx and megacalyces.
 
@@ -356,6 +355,7 @@ Nephron loss → afferent dilatation + efferent constriction
 - **TURP (transurethral resection of the prostate):** an electrified loop removes transition-zone adenoma from bladder neck to verumontanum, down to the surgical capsule.
 
 ### Resectoscope
+
 | Part | Description |
 |---|---|
 | **Outer sheath** | 24–28 Fr; **insulated beak** prevents arcing to the urethra |
@@ -369,8 +369,9 @@ Nephron loss → afferent dilatation + efferent constriction
 - Roller ball or barrel (coagulation), vaporisation button, **Collins knife** (TUIP (transurethral incision of the prostate)).
 
 ### Energy
-- **Generator:** radiofrequency about 500 kHz, too fast to stimulate nerves.
+- **Generator:** about 500 kHz, too fast to stimulate nerves.
 - **Cut:** continuous waveform. **Coagulation:** interrupted, higher voltage. **Blend:** better haemostasis, cuts less well.
+
 | Monopolar | Bipolar |
 |---|---|
 | Loop → patient → **dispersive pad** | Active and return poles on the loop |
@@ -379,13 +380,12 @@ Nephron loss → afferent dilatation + efferent constriction
 
 ### Imaging and irrigation
 - **Light source:** xenon or LED (light-emitting diode) with fibreoptic cable; camera and monitor.
-- **Irrigant** at body temperature; bag about **60 cm** above patient (an extra 10 cm more than doubles absorption).
+- **Irrigant** at body temperature; bag about **60 cm** high (each extra 10 cm more than doubles absorption).
 
 ### Accessories
 - **Ellik evacuator or Toomey syringe** for chips.
 - Van Buren sounds or Otis urethrotome: dilate meatus 2 Fr above sheath size (prevents stricture).
 - **Three-way Foley catheter** (22–24 Fr) with catheter guide; continuous irrigation set.
-- Lithotomy stirrups with padding (common peroneal nerve). O'Conor rectal shield: historical.
 
 ### Troubleshooting a loop that will not cut
 ```
@@ -395,8 +395,7 @@ patient grounding (pad contact)
 ```
 
 ### Recent advances
-- Bipolar plasma resection (TURis (transurethral resection in saline) used the sheath as return electrode, causing strictures).
-- Chip-on-tip digital optics, laser enucleation scopes, single-use resectoscopes.
+- Bipolar plasma resection; chip-on-tip digital optics; laser enucleation scopes; single-use resectoscopes.
 
 **Diagram to draw:** assembled resectoscope labelling sheaths, working element, loop and flow channels.
 
@@ -412,40 +411,36 @@ patient grounding (pad contact)
 (TRUS also answered in 2017-Winter Paper 1, Q3e)
 
 ### Why measure
-- Chooses treatment: 5ARI (5α-reductase inhibitor) if >30 mL (AUA (American Urological Association)) or >40 mL (EAU (European Association of Urology)); TURP (transurethral resection of the prostate), enucleation or simple prostatectomy by size.
-- **PSAD (PSA density)** = PSA (prostate-specific antigen) ÷ volume; >0.15 suggests cancer.
-- Predicts progression and AUR (acute urinary retention); brachytherapy planning.
+- Chooses treatment: 5ARI (5α-reductase inhibitor) if >30 mL (AUA (American Urological Association)) or >40 mL (EAU (European Association of Urology)); type of BPH (benign prostatic hyperplasia) surgery.
+- **PSAD (PSA density)** = PSA (prostate-specific antigen) ÷ volume; >0.15 suggests cancer. Also AUR (acute urinary retention) risk, brachytherapy planning.
 - Normal adult gland 20–25 g; about 48 g at 60–70 years. **1 cm³ ≈ 1 g**.
 
 ### Methods
+
 | Method | Technique | Accuracy and use |
 |---|---|---|
-| **DRE (digital rectal examination)** | Estimate size, consistency | **Underestimates** above 30 mL (lateral lobes impalpable). Flat or normal gland predicts <30 mL; good PPV (positive predictive value) at 30 mL, near-perfect at 50 mL |
+| **DRE (digital rectal examination)** | Estimate size, consistency | **Underestimates** above 30 mL (lateral lobes impalpable); flat gland predicts <30 mL |
 | **PSA as surrogate** | Age-specific cut-offs for **>40 mL:** >1.6 ng/mL (50s), >2.0 (60s), >2.3 (70s) | AUC (area under curve) 0.76–0.78; within ±20% of TRUS in most |
-| **TAUS (transabdominal ultrasound)** | Full bladder; transverse width and height, sagittal length | Less precise than TRUS; also gives PVR (post-void residual), bladder wall and **IPP (intravesical prostatic protrusion)** |
+| **TAUS (transabdominal ultrasound)** | Full bladder; transverse width and height, sagittal length | Less precise than TRUS; also PVR (post-void residual) and **IPP (intravesical prostatic protrusion)** |
 | **TRUS (transrectal ultrasound)** | Ellipsoid formula; planimetry | **Method of choice** |
-| **MRI (magnetic resonance imaging)** | T2-weighted ellipsoid or segmentation (manual or AI (artificial intelligence)-assisted) | Most accurate and reproducible; part of mpMRI |
-| **CT (computed tomography)** | Axial images | Overestimates (apex and capsule poorly defined) |
-| **Cystoscopy** | Prostatic urethral length, lobe configuration, median lobe | Rough estimate; guides procedure choice |
-| Specimen weight | After surgery | Retrospective only |
+| **MRI (magnetic resonance imaging)** | T2-weighted ellipsoid or segmentation (manual or automated) | Most accurate and reproducible |
+| **CT (computed tomography)** | Axial images | Overestimates; poor capsule definition |
+| **Cystoscopy** | Urethral length, lobes, median lobe | Rough; guides procedure choice |
 
 ### TRUS formulas
+
 | Shape assumed | Formula |
 |---|---|
 | **Ellipsoid (standard)** | **π/6 (0.52) × transverse × AP (anteroposterior) × length** |
 | Sphere | π/6 × transverse³ |
 | Prolate spheroid | π/6 × transverse² × AP |
 | **Planimetry** | Sum of serial transverse areas |
-- Transverse and AP at widest axial section; length sagittally just off midline (bladder neck hides the base).
-- All formulas correlate >0.90 with prostatectomy specimen weight.
+
+- Transverse and AP at the widest axial section; length sagittally. All formulas correlate >0.90 with specimen weight.
 - **Planimetry:** probe on a stepper, images every 3–5 mm, areas summed; most precise; used for brachytherapy.
 
 ### IPP grading (suprapubic, sagittal, bladder 100–200 mL)
 - Grade I <5 mm, II 5–10 mm, III >10 mm; ≥10 mm predicts BOO (bladder outlet obstruction) and failed trial without catheter.
-
-### Pitfalls
-- Size correlates poorly with symptoms and obstruction.
-- 5ARIs shrink the gland by about a quarter; repeat measurement after treatment.
 
 **Diagram to draw:** TRUS transverse and sagittal views with three measured diameters.
 
