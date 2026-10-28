@@ -24,16 +24,14 @@
 - TCC (transitional cell carcinoma) is now called urothelial carcinoma. T1 invades the lamina propria. CIS is flat and high grade by definition.
 - **T1 with CIS is high-risk NMIBC (non-muscle-invasive bladder cancer)** (AUA [American Urological Association] and EAU [European Association of Urology]). CIS is the second strongest progression factor after grade. Untreated CIS progresses to muscle invasion in 40–83%.
 - **EAU 2021 very high risk:** T1 high grade (HG) with CIS plus at least one of age >70, multiple papillary tumours, or diameter ≥3 cm. In this woman, age does not count, so number and size decide. LVI (lymphovascular invasion) and variant histology also make it very high risk.
-- **Why a young woman is special:** long life expectancy (lifetime progression risk), fertility, pregnancy, sexual function and body image.
+- **Young woman:** long life expectancy, fertility, pregnancy and sexual function shape every choice.
 
 ### Evaluation
-- History: smoking, aromatic amine exposure, cyclophosphamide, pelvic radiation.
-- Cystoscopy, urine cytology (usually positive in CIS), CT (computed tomography) urography (upper-tract tumour <5%; CIS raises the risk), bimanual and vaginal examination under anaesthesia.
-- **Pregnancy test** before CT and BCG (bacille Calmette-Guérin). Genitourinary pathologist review for depth, LVI and variants.
+- Smoking and occupational history; cytology (usually positive in CIS); CT (computed tomography) urography (upper-tract tumour <5%, more with CIS); examination under anaesthesia including vagina.
+- **Pregnancy test** before CT and BCG (bacille Calmette-Guérin); expert pathology review.
 
 ### Step 1: Complete TURBT (transurethral resection of bladder tumour)
-- Resect all tumour **with detrusor muscle**; en bloc resection where possible.
-- **Blue-light cystoscopy** finds about one-third more CIS. Biopsy red velvety areas; take a **bladder-neck biopsy** (relevant to a later neobladder).
+- Resect all tumour **with detrusor muscle**. **Blue-light cystoscopy** finds about one-third more CIS. Biopsy red velvety areas and the **bladder neck** (relevant to a later neobladder).
 
 ### Step 2: Re-TURBT within 6 weeks (all T1)
 - **Why:** residual tumour in ≥40%; upstaging to muscle invasion in 25–30% (up to half if no muscle). **Residual T1 means progression up to 80%.**
@@ -48,31 +46,28 @@ T1 + CIS → re-TURBT within 6 weeks
 ### Step 3a: BCG (bladder preservation; standard for most)
 - **Mechanism:** BCG binds **fibronectin** and triggers a **Th1 (T-helper 1)** response (IFN-γ [interferon-gamma], IL-2 and IL-12 [interleukins], TRAIL release). It is the **only intravesical agent that reduces progression**.
 - **Schedule:** start 2–4 weeks after TURBT, never immediately (intravasation and sepsis). Induction weekly ×6. **SWOG (Southwest Oncology Group) maintenance:** 3 weekly doses at 3 and 6 months, then 6-monthly to **3 years** (median recurrence-free survival 76.8 vs 35.7 months).
-- **CIS response:** initial tumour-free rate up to 84%; about half durable. Persistent CIS at 3 months: a second course gives a further 30–50% complete response.
-- **In a young woman:** BCG is a live vaccine; avoid pregnancy and breastfeeding during treatment.
-- **Contraindications:** gross haematuria, traumatic catheterisation, symptomatic UTI (urinary tract infection). **Toxicity:** cystitis; BCG sepsis needs antituberculous drugs and steroids.
+- **CIS:** tumour-free up to 84%, about half durable; persistent CIS at 3 months: second course gives a further 30–50% complete response.
+- BCG is live: avoid pregnancy and breastfeeding during treatment.
+- **Contraindications:** gross haematuria, traumatic catheterisation, symptomatic UTI (urinary tract infection). BCG sepsis: antituberculous drugs and steroids.
 
 ### Step 3b: Early (immediate) radical cystectomy
-- **Rationale:** clinical T1 is understaged in one-third to one-half. Immediate cystectomy gives about **92% 10-year disease-free survival** (64% if understaged). Patients who progress on surveillance do worse than those presenting with muscle invasion.
+- **Rationale:** clinical T1 is understaged in one-third to one-half. Immediate cystectomy gives about **92% 10-year disease-free survival**. Patients who progress on surveillance do worse than those presenting with muscle invasion.
 - **Offer for:** very high risk, residual HG T1, LVI, variants, diffuse CIS, BCG-unresponsive disease, or patient preference (AUA: T1 with CIS in fit patients).
-- Decide by shared decision-making: a 25-year-old faces decades of both progression risk and diversion morbidity.
 
 ### Step 3c: Cystectomy tailored to a young woman
-- **Standard female operation** is anterior exenteration (bladder, urethra, anterior vagina, uterus, cervix, ovaries).
-- **Organ-sparing** (≤cT2, bladder neck uninvolved): keep the **uterus and ovaries** (fertility, hormones, avoids surgical menopause; ovaries also make testosterone). Keep the **vagina and neurovascular tissue** (vaginal dissection no more dorsal than 2 and 10 o'clock) for sexual function and continence. Long-term oncological safety of sexual-sparing surgery in NMIBC is unknown.
+- Standard female operation is anterior exenteration (bladder, urethra, anterior vagina, uterus, cervix, ovaries).
+- **Organ-sparing** (≤cT2, bladder neck uninvolved): keep the **uterus and ovaries** (fertility, hormones, avoids surgical menopause; ovaries also make testosterone). Keep the **vagina and neurovascular tissue** (vaginal dissection no more dorsal than 2 and 10 o'clock) for sexual function and continence. Oncological safety of sparing is not fully known.
 - **Orthotopic neobladder** suits her: needs a negative bladder-neck biopsy and **urethral frozen section** (negative bladder neck means negative urethra; CIS does not predict urethral involvement). Day continence 80–90%; **retention 20–30% in women**, so she must accept CIC (clean intermittent self-catheterisation). See Practice Set 4 Paper 2, Q3e.
-- **Fertility:** if the uterus or ovaries must be removed, refer for oocyte or embryo cryopreservation first. Pregnancy after a neobladder is possible; caesarean uses a high midline incision to avoid the pouch.
-- **Counsel** on sexual function; most women receive too little.
+- **Fertility:** if uterus or ovaries must go, offer oocyte or embryo cryopreservation first. Pregnancy after a neobladder is possible; caesarean uses a high midline incision to avoid the pouch.
 
 ### Step 4: BCG failure
-- **BCG-unresponsive:** persistent or recurrent CIS or HG Ta/T1 after adequate BCG, HG T1 at 3 months, or HG relapse within 6 months (Ta/T1) or 12 months (CIS) of the last dose. **Timely radical cystectomy.**
-- If cystectomy is declined: **pembrolizumab** (KEYNOTE-057: CIS complete response 41% at 3 months), **nadofaragene firadenovec** (53%), gemcitabine–docetaxel, trials.
+- **BCG-unresponsive** (persistent or recurrent HG disease after adequate BCG, HG T1 at 3 months, or HG relapse within 6 months [Ta/T1] or 12 months [CIS]): **timely radical cystectomy**.
+- If declined: **pembrolizumab** (KEYNOTE-057: CIS complete response 41%), **nadofaragene firadenovec** (53%), gemcitabine–docetaxel.
 
 ### Follow-up
-- Bladder preserved: cystoscopy and cytology 3-monthly for 2 years, 6-monthly to 5 years, then yearly; upper-tract imaging every 1–2 years.
-- After neobladder: urethral cytology, vitamin B12, metabolic panel, upper tracts.
+- Bladder preserved: cystoscopy and cytology 3-monthly for 2 years, then 6-monthly, then yearly; regular upper-tract imaging. After neobladder: B12, metabolic panel, upper tracts.
 
-**Also know:** EORTC (European Organisation for Research and Treatment of Cancer) and CUETO (Club Urológico Español de Tratamiento Oncológico) risk tables; BCG-intolerant patients; TAR-200 and checkpoint inhibitors with BCG (trials).
+**Also know:** EORTC (European Organisation for Research and Treatment of Cancer) and CUETO risk tables; TAR-200; checkpoint inhibitors with BCG (trials).
 
 **Diagram to draw:** bladder wall layers showing CIS, Ta, T1 and T2.
 

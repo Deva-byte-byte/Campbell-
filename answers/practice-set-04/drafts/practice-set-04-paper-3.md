@@ -34,6 +34,7 @@
 
 ### Applied anatomy and mechanisms
 - **Danger sites:** pelvic brim at the infundibulopelvic ligament; **under the uterine artery** ("water under the bridge"); beside the uterosacral ligament; vaginal cuff near the UVJ (ureterovesical junction).
+- Up to a third are recognised during open surgery, fewer during laparoscopy; the uterosacral region is hardest to see.
 - **Mechanisms:** ligation, crush, transection, thermal injury, **devascularisation**. In about 10% of women the uterine artery supplies much of the distal ureter, so some ischaemic injuries are unavoidable.
 
 ### Classification: AAST (American Association for the Surgery of Trauma)
@@ -123,7 +124,7 @@ Sepsis / uncontrolled collections -> drain; repair regardless of timing
 - Stretched phallic length, glans width, meatus, number of perineal openings, labioscrotal fusion and rugosity, pigmentation, anogenital distance. **Prader grade I–V** for virilisation.
 - Dehydration, hypotension, hyperpigmentation (CAH); dysmorphism.
 - **Gonads are the key sign.** Ovaries never descend, so **a palpable gonad means testicular tissue**. Bilateral impalpable gonads with atypical genitalia = CAH until proven otherwise. Asymmetry suggests MGD or ovotesticular DSD.
-- Impalpable testis with hypospadias, or proximal hypospadias, also needs DSD work-up.
+- Impalpable testis with hypospadias, or proximal hypospadias, also needs DSD work-up (Kaefer: DSD in about 30%, 50% if the testis is impalpable).
 
 ### Investigations
 - **Karyotype** at once (preliminary 2–3 days); **FISH (fluorescence in situ hybridisation) for X/Y/SRY** within hours.
@@ -167,7 +168,7 @@ Palpable gonads: 0 -> CAH likely; 1 -> MGD, PAIS, ovotesticular;
 
 **4. Surgery: timing and consent**
 - Irreversible surgery is ideally deferred until the child can participate; parents decide with the team after balanced counselling.
-- **Feminising:** clitoroplasty (ventral, nerve-sparing, glans preserved; Prader III–V); vaginoplasty by confluence (flap for low, partial/total urogenital mobilisation, pull-through for high); labioplasty. Stress steroids in CAH.
+- **Feminising:** clitoroplasty (ventral, nerve-sparing, glans preserved; Prader III–V); vaginoplasty by confluence (flap for low, partial/total urogenital mobilisation, pull-through for high); labioplasty. The vagina's position relative to the bladder neck, not common-channel length, decides the vaginoplasty. Stress steroids in CAH.
 - **Masculinising:** proximal hypospadias repair, orchidopexy, often in infancy (complication rates high).
 
 **5. Gonads**
@@ -215,7 +216,7 @@ Palpable gonads: 0 -> CAH likely; 1 -> MGD, PAIS, ovotesticular;
 | **DSD (detrusor–sphincter dyssynergia)** | Intrasphincteric injection |
 | **IC/BPS (interstitial cystitis/bladder pain syndrome)** | 100 U (often trigonal); AUA (American Urological Association) option, off-label |
 | **BPH (benign prostatic hyperplasia)** | Intraprostatic: large RCTs (randomised controlled trials) no better than placebo; not recommended |
-- **Also know:** pelvic floor spasm; chronic pelvic pain.
+- **Also know:** pelvic floor spasm; chronic pelvic pain. Units of different toxin products are not interchangeable.
 
 ### Complications and contraindications
 - **Retention needing CISC (clean intermittent self-catheterisation)**, commoner in NDO; each 10 mL of baseline PVR raises the risk about 27%. **The patient must accept CISC beforehand.**
@@ -271,6 +272,9 @@ Dorsal block -> aspiration ± saline irrigation
 
 ### Non-ischaemic
 - Observe with compression and ice (about 60% resolve); then **selective arterial embolisation** (resolution ≥75%); surgical ligation last.
+
+### Complications
+- ED, corporal fibrosis, penile shortening; shunt-related urethral injury, fistula, infection and skin necrosis.
 
 **Diagram to draw:** distal and proximal shunt sites on a penile outline.
 
@@ -331,10 +335,10 @@ Dorsal block -> aspiration ± saline irrigation
 ### Introduction
 - The IBT (immunobead test) detects **antisperm antibodies (ASA)** bound to sperm (direct) or free in body fluids (indirect).
 - **Pathogenesis:** Sertoli tight junctions form the blood–testis barrier. If it is breached, sperm antigens meet the immune system. ASA cause **agglutination, poor motility, poor cervical-mucus penetration and impaired fertilisation**.
-- **Causes:** vasectomy and other obstruction (most common); orchitis, prostatitis, STI (sexually transmitted infection); varicocele, cryptorchidism, heat; trauma, torsion; genetic (HLA-B28).
+- **Causes:** vasectomy and other obstruction; orchitis, prostatitis, STI (sexually transmitted infection); varicocele, cryptorchidism, heat; trauma, torsion; genetic (HLA-B28).
 
 ### Indications
-- Sperm agglutination or isolated asthenozoospermia on semen analysis; unexplained infertility; after vasectomy reversal; poor postcoital test.
+- Sperm agglutination or isolated asthenozoospermia; unexplained infertility; after vasectomy reversal.
 
 ### Principle and method
 - Polyacrylamide beads coated with rabbit anti-human **IgG, IgA or IgM**.
@@ -348,11 +352,11 @@ Dorsal block -> aspiration ± saline irrigation
 - Report: **% of motile sperm with beads**, immunoglobulin class, and **site** (head, midpiece, tail). Tail-tip binding is ignored.
 - **WHO 2010 (5th edition) threshold: ≥50% of motile sperm bound is clinically significant.**
 - **Head binding** and **IgA** matter most (IgA is produced locally and blocks mucus penetration; IgM is too large to enter semen).
-- Both direct tests need motile sperm. **Also know:** ELISA (enzyme-linked immunosorbent assay) and flow cytometry exist, but serum tests correlate poorly with sperm-bound antibody.
+- Both direct tests need motile sperm. **Also know:** ELISA (enzyme-linked immunosorbent assay) and flow cytometry; serum tests correlate poorly with sperm-bound antibody.
 
 ### Management
 - Condoms and sperm washing lack good evidence (washing removes unbound, not bound, antibody).
-- Corticosteroids: two controlled trials conflict; side effects (avascular necrosis of hip).
+- Corticosteroids: two controlled trials conflict; risk of avascular necrosis.
 - IUI for mild binding; **IVF with ICSI (intracytoplasmic sperm injection)** is the usual treatment, bypassing antibody effects.
 
 **Diagram to draw:** motile sperm with beads attached at head and tail.
@@ -370,17 +374,17 @@ Dorsal block -> aspiration ± saline irrigation
 *Read as: duloxetine, mainly its role in stress urinary incontinence.*
 
 ### Introduction
-- **Duloxetine** is an SNRI (serotonin–noradrenaline reuptake inhibitor), also used for depression and neuropathic pain.
+- **Duloxetine** is an SNRI (serotonin–noradrenaline reuptake inhibitor), also an antidepressant.
 - Licensed in Europe (not USA) for **moderate to severe SUI (stress urinary incontinence) in women**; off-label in men.
 
 ### Mechanism
 - During storage, bladder afferents drive glutamate excitation of pudendal motor neurons in **Onuf's nucleus (S2–S4)**, which keep the striated urethral sphincter closed.
 - Serotonin (5-HT2) and noradrenaline (α1) amplify this glutamate drive. Duloxetine blocks their reuptake, so **sphincter tone and the sneeze-induced continence reflex increase**.
 - In voiding, glutamate drive switches off, so retention does not occur.
-- Central effects also suppress bladder activity (possible benefit in urgency).
+- Central effects also reduce bladder activity.
 
 ### Dose
-- **40 mg twice daily**; starting at 20 mg twice daily for 2 weeks reduces nausea. Reassess at 2–4 weeks; taper on stopping.
+- **40 mg twice daily**; starting at 20 mg twice daily for 2 weeks reduces nausea. Taper on stopping.
 
 ### Evidence
 - Phase III RCTs (randomised controlled trials) in women: about 50% median fall in incontinence episodes versus about 30–40% with placebo; better quality of life; **cure rare**.
@@ -390,10 +394,10 @@ Dorsal block -> aspiration ± saline irrigation
 ### Guideline position
 - **EAU (European Association of Urology):** may be offered to women for **temporary** improvement, not cure; warn about side effects. Men: offer for SUI (weak), and **inform of off-label use and adverse effects** (strong).
 - **NICE (National Institute for Health and Care Excellence):** not first line; not routinely second line; only if surgery is unwanted or unsuitable.
-- Adding PFMT (pelvic floor muscle training): conflicting recommendations in Campbell.
+- Adding PFMT (pelvic floor muscle training): evidence conflicting.
 
 ### Adverse effects
-- **Nausea** (commonest, early), dry mouth, dizziness, insomnia, constipation, fatigue, sweating; **high discontinuation**.
+- **Nausea** (commonest, early), dry mouth, dizziness, insomnia, constipation; **high discontinuation**.
 - Raised blood pressure, hyponatraemia (elderly), suicidal ideation, discontinuation syndrome.
 
 ### Contraindications and interactions
@@ -416,21 +420,21 @@ Dorsal block -> aspiration ± saline irrigation
 - Often a **genital form of CF (cystic fibrosis)**: nearly all men with CF lack both vasa.
 
 ### Genetics
-- **CFTR (cystic fibrosis transmembrane conductance regulator)** gene, chromosome 7: chloride (and bicarbonate) channel; more than 1600 mutations.
+- **CFTR (cystic fibrosis transmembrane conductance regulator)**: chloride channel gene; more than 1600 mutations.
 - Severe mutation on both alleles: CF. **Mild mutation on one or both alleles: CBAVD.** Commonest severe mutation **ΔF508**; the **5T variant** (intron 8) is a common mild allele.
-- A minority have no CFTR mutation but other mesonephric duct gene defects; these have more **renal agenesis**.
+- A minority have other mesonephric duct gene defects instead, with more **renal agenesis**.
 
 ### Clinical features
-- Infertility; **vasa not palpable** (Meacham's sign: a presumed vas that slips away three times is absent).
-- Epididymal heads present and distended; body and tail often absent.
+- **Vasa not palpable** (Meacham: a presumed vas slipping away three times is absent).
+- Caput epididymis present and distended; body and tail often absent.
 - Normal testis size, FSH (follicle-stimulating hormone) and testosterone.
 - Seminal vesicles absent or hypoplastic: **semen volume <1.0 mL, acidic, fructose-negative**, azoospermic.
-- Ask about sinus or chest symptoms; the urologist may uncover mild CF.
+- Sinus or chest symptoms may reveal mild CF.
 
 ### Evaluation
 - Semen analysis; FSH; **TRUS (transrectal ultrasound)** for seminal vesicles.
 - **Renal ultrasound** (renal agenesis in about 1 in 10).
-- **CFTR testing of the man and his female partner** (carrier rate about 1 in 20 in northern Europeans). Standard panels cover 25–40 mutations, so a negative panel leaves residual risk; full gene sequencing is better.
+- **CFTR testing of the man and his female partner** (carrier rate about 1 in 20 in northern Europeans). Panels cover 25–40 mutations, so a negative panel leaves residual risk.
 - Testis biopsy unnecessary when FSH and testis size are normal.
 
 ### Management
@@ -442,7 +446,7 @@ Dorsal block -> aspiration ± saline irrigation
 | **MESA (microsurgical epididymal sperm aspiration)** | Best: many motile sperm; cryopreserve several vials |
 | PESA (percutaneous epididymal aspiration) | Local anaesthetic; fewer sperm |
 | TESA/TESE (testicular aspiration/extraction) | If epididymal retrieval fails |
-- Results with ICSI are good; one study reported more miscarriage and stillbirth with sperm from CFTR-mutation CBAVD men.
+- ICSI results are good; one study reported more miscarriage and stillbirth.
 - **Also know:** CUAVD (unilateral absence) is a Wolffian duct defect with ipsilateral renal agenesis; check the other side.
 
 **Diagram to draw:** absent vas and seminal vesicle with intact testis and caput epididymis.

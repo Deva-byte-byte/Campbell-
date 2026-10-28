@@ -49,11 +49,11 @@
 - **Preload depends on volume status.** In normovolaemia or hypovolaemia, pressure up to 20 mmHg compresses the IVC (inferior vena cava) and venous return falls. In hypervolaemia the cava resists and venous return may rise. At ≥40 mmHg venous return falls sharply in everyone.
 - **Arrhythmias**: hypercapnia causes tachycardia and ventricular ectopics; peritoneal stretch causes **vagal bradycardia** or asystole. A new arrhythmia may warn of pneumothorax, hypoxia or gas embolism.
 - **CVP (central venous pressure) reads falsely high** because intrathoracic pressure rises; do not guide fluids by it.
-- Leg venous return falls: theoretical DVT (deep vein thrombosis) risk, not higher than open surgery in practice.
+- Leg venous return falls: theoretical DVT (deep vein thrombosis) risk.
 
 ### Respiratory changes
 - **Diaphragm splinted**: FRC (functional residual capacity) and compliance fall, peak airway pressure rises; atelectasis and V/Q (ventilation–perfusion) mismatch. Dead space is unchanged. PEEP (positive end-expiratory pressure) helps in lung disease.
-- **Head-down** adds a further fall in vital capacity, endotracheal tube slip into the right main bronchus, facial oedema and pulmonary oedema if left heart pressures are high.
+- **Head-down** adds a further fall in vital capacity, endobronchial tube slip and facial oedema.
 - **Barotrauma** (pressure >15 mmHg for long): pneumothorax, pneumomediastinum.
 
 ### Acid–base changes (CO₂ absorption)
@@ -179,7 +179,7 @@
 | IV | Post-marketing surveillance | General population |
 
 ### Design
-- **Parallel**, **crossover** (own control; stable chronic disease), **factorial** (two questions at once), **cluster**, **adaptive** or multi-arm multistage platform.
+- **Parallel**, **crossover** (own control; stable chronic disease), **factorial** (two questions at once), **cluster** or **adaptive**.
 - Hypothesis: **superiority**, **non-inferiority** (pre-set margin) or equivalence.
 - Surgical innovation follows the **IDEAL** framework (Idea, Development, Exploration, Assessment, Long-term study).
 
@@ -198,13 +198,13 @@
 ### Sample size and analysis
 - Set α (type I error, usually 0.05), power (80–90%) and expected effect.
 - **ITT (intention-to-treat)** preserves randomisation; per-protocol supports non-inferiority claims.
-- Kaplan–Meier and hazard ratios for time-to-event data.
+- Kaplan–Meier curves for time-to-event data.
 
 ### Ethics and reporting
 - Declaration of Helsinki, ICH-GCP (International Council for Harmonisation–Good Clinical Practice), informed consent, ethics committee, DSMB (data safety monitoring board).
 - **Registration** before enrolment (CTRI [Clinical Trials Registry–India]).
 - **CONSORT** (Consolidated Standards of Reporting Trials): checklist plus **participant flow diagram** (25 items in the 2010 version; updated 2025).
-- **Also know:** ProtecT (localised prostate cancer RCT); lead-time bias; Will Rogers phenomenon.
+- **Also know:** lead-time bias; Will Rogers phenomenon.
 
 **Diagram to draw:** CONSORT flow diagram: enrolment → randomisation → allocation → follow-up → analysis.
 
@@ -276,16 +276,16 @@
 - A good tool is **reliable** (Cronbach α >0.7), **valid** in that population and **responsive** to change.
 
 ### Domains to assess
-- Urinary: continence (day and night), catheterisation, stoma and appliance problems.
+- Urinary: continence, catheterisation, stoma problems.
 - **Body image**, sexual function, bowel function, social and emotional function, global HRQoL.
 
 ### Evidence: ileal conduit versus neobladder
 - **No diversion proven superior.** Studies are mostly cross-sectional and retrospective, without baseline data or randomisation.
 - Verdict depends on instrument: generic tools mostly show **no difference** (largest group of studies); EORTC tools tend to **favour neobladder**; the urinary-focused BCI **penalises neobladder** for leakage.
 - **Consistent signal:** body image favours neobladder; urinary function favours conduit.
-- Large prospective MSKCC (Memorial Sloan Kettering Cancer Center) cohort: physical function dipped and recovered by 6 months; global HRQoL exceeded baseline in all diversions by 6 months.
+- Large prospective cohort: global HRQoL exceeded baseline in all diversions by 6 months.
 - Neobladder: daytime continence improves over 6–12 months; **night-time incontinence** (up to 50%) is the main bother.
-- **Also know:** fully informed patients have less decision regret; most patients adapt to their diversion; PROMIS (Patient-Reported Outcomes Measurement Information System) computer-adaptive testing.
+- **Also know:** informed patients have less decision regret; most adapt to their diversion; PROMIS (Patient-Reported Outcomes Measurement Information System).
 
 ### Practical approach
 - Baseline and serial validated questionnaires (3, 6, 12 months), a disease-specific plus a generic tool, and realistic counselling.
@@ -328,7 +328,7 @@
 - **GRADE** (Grading of Recommendations Assessment, Development and Evaluation): certainty high to very low; RCTs start high, observational studies low; **downgrade** for bias, inconsistency, indirectness, imprecision, publication bias; **upgrade** for large effect or dose–response. Recommendations **strong or weak** (used by EAU). AUA (American Urological Association): evidence strength A/B/C; strong, moderate or conditional recommendations.
 
 ### Pitfalls in appraisal
-- **Bias**: selection, confounding (comorbidity, frailty), **lead-time**, **length-time**, stage migration (Will Rogers), attribution.
+- **Bias**: selection, confounding, **lead-time**, **length-time**, stage migration (Will Rogers).
 - **Surrogate endpoints** must meet the **Prentice criteria**.
 - **Also know:** CONSORT, PRISMA, STROBE reporting checklists; validated PROs (patient-reported outcomes).
 
@@ -349,14 +349,14 @@
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **Nanobacteria**, now called **CNPs (calcifying nanoparticles)**, are tiny (about 80–500 nm) spherical particles with a **calcium apatite (carbonate apatite) shell**, first isolated from bovine and human serum and cell-culture media by **Kajander and Çiftçioglu (1998)**, who named them *Nanobacterium sanguineum*.
-- **Their living nature is disputed.** Proposed as the smallest self-replicating bacteria, but later work showed that the "replication" is mineral nucleation and growth, and that they are **mineralo-protein complexes** (apatite with serum proteins such as fetuin-A). Reported bacterial DNA sequences proved to be contaminants. Most authorities now regard them as **non-living**.
+- **Nanobacteria**, now called **CNPs (calcifying nanoparticles)**, are spherical particles far smaller than bacteria with a **calcium apatite shell**, described in bovine and human serum by **Kajander and Çiftçioglu (1998)** as *Nanobacterium sanguineum*.
+- **Their living nature is disputed.** Proposed as the smallest self-replicating bacteria, but later work showed "replication" is mineral nucleation, and that they are **mineralo-protein complexes** (apatite with serum proteins such as fetuin-A). Their bacterial DNA proved to be contamination. Most now regard them as **non-living**.
 
 ### Claimed properties
 | Property | Claim |
 |---|---|
-| Size | Smaller than any known bacterium; pass 0.1–0.2 µm filters |
-| "Growth" | Very slow, in serum-containing medium; multiply under culture |
+| Size | Pass through bacteria-retaining filters |
+| "Growth" | Very slow, in serum-containing medium |
 | Shell | Apatite; resistant to heat and gamma irradiation |
 | Detection | Electron microscopy, von Kossa and Hoechst staining, specific antibodies, culture |
 | Susceptibility | Tetracycline and EDTA (ethylenediaminetetraacetic acid) inhibit them |
@@ -365,13 +365,13 @@
 - **Nidus theory:** CNPs in blood or urine are filtered or excreted, deposit apatite in renal tubular cells and interstitium, and act as a **nucleating nidus** for crystal growth.
 - **Link to Randall plaque:** idiopathic calcium oxalate stones grow on **Randall plaque**, an interstitial **apatite** deposit that starts in the basement membrane of the thin loop of Henle and erodes through the papilla. CNPs are **associated with**, but **not proven to cause**, Randall plaque (Campbell, Chapter 95).
 - Early studies found apatite nanoparticles in a large majority of stones; rat studies reported renal calcification after injection.
-- Also implicated in atherosclerotic calcification (similar to the vascular hypothesis of plaque), polycystic kidney cyst calcification and chronic prostatitis.
+- Also implicated in atherosclerotic calcification, polycystic kidney cysts and chronic prostatitis.
 
 ### Therapeutic implications (unproven)
 - Tetracycline-based regimens with EDTA were tried in stones and chronic prostatitis/chronic pelvic pain syndrome; no RCT (randomised controlled trial) evidence supports routine use.
 
 ### Current position
-- Not part of stone guidelines; stone pathogenesis is explained by supersaturation, inhibitors, Randall plaque and ductal plugs. CNPs are of research interest only.
+- Not in stone guidelines; pathogenesis is explained by supersaturation, inhibitors, Randall plaque and ductal plugs.
 
 **Diagram to draw:** renal papilla with interstitial apatite (Randall plaque) eroding through urothelium, CNPs as nidus, and calcium oxalate stone attached.
 
@@ -388,31 +388,30 @@
 *Interpreted as second cancers caused by urological or oncological treatment (radiotherapy, chemotherapy, urinary diversion, immunosuppression).*
 
 ### Definition
-- A **second (treatment-related) malignancy** is a new cancer, histologically distinct from the first, caused by its treatment. Usually occurs after a latency of years, often **in the radiation field**.
+- A **second (treatment-related) malignancy** is a new, histologically distinct cancer caused by treatment of a first disease. It appears after a latency of years, often **in the radiation field**.
 
 ### Causes and risks
 | Cause | Second cancer | Key facts |
 |---|---|---|
 | **Pelvic radiotherapy** | **Bladder cancer**, rectal cancer, sarcoma | Bladder RR (relative risk) 2–4 after cervical EBRT (external beam radiotherapy), 1.5–2 after prostate EBRT, smaller after brachytherapy, little with IMRT (intensity-modulated radiotherapy). Latency 15–30 years; often high grade |
-| **Cyclophosphamide** | **Bladder cancer**, UTUC (upper tract urothelial carcinoma) | Only chemotherapy proven to cause bladder cancer; metabolites phosphoramide mustard (mutagen) and acrolein (cystitis). About 4.5-fold, dose-dependent (>20 g cumulative) |
+| **Cyclophosphamide** | **Bladder cancer**, UTUC (upper tract urothelial carcinoma) | Only chemotherapy proven to cause bladder cancer; metabolites phosphoramide mustard and acrolein. About 4.5-fold, dose-dependent (>20 g cumulative) |
 | **Urinary diversion / augmentation** | Adenocarcinoma at the uro-intestinal junction | Ureterosigmoidostomy 6–29% after 10–20 years (registry 2.6%); cystoplasty 1.6%; ileal conduit 0.02%. Risk tracks colonic mucosa exposed to urine and faeces |
 | **Transplant immunosuppression** | Skin cancer, PTLD (post-transplant lymphoproliferative disorder), RCC (renal cell carcinoma), bladder cancer | RCC mostly in native kidneys; bladder cancer about 3-fold and aggressive |
 | **Testicular GCT (germ cell tumour) treatment** | Solid tumours, leukaemia | 60–100% excess after cisplatin or radiotherapy, 200% after both; etoposide-related leukaemia |
-| **Paediatric tumours** | In-field solid tumours, leukaemia | Wilms tumour 1% at 10 years; pelvic rhabdomyosarcoma survivors about six times population risk |
+| **Paediatric tumours** | In-field solid tumours, leukaemia | Wilms tumour 1% at 10 years |
 
 ### Mechanisms
 - Radiation: DNA double-strand breaks and genomic instability in normal tissue.
 - Alkylating agents and topoisomerase inhibitors: mutagenic DNA damage.
 - Immunosuppression: loss of immune surveillance and oncogenic viruses (EBV [Epstein–Barr virus], HPV [human papillomavirus]).
-- Diversion: chronic inflammation and urine–faeces contact at the anastomosis.
+- Diversion: urine–faeces contact at the anastomosis.
 
 ### Prevention and surveillance
 - IMRT, smaller fields, fewer modalities; **mesna** with cyclophosphamide (reduces cystitis).
 - **Haematuria after pelvic RT or cyclophosphamide: always cystoscopy.**
 - Endoscopy from 5 years after ureterosigmoidostomy; augmentation surveillance from about 10 years; excise a defunctioned ureterosigmoid anastomosis.
-- Transplant: skin checks; investigate haematuria.
-- Testis: RPLND (retroperitoneal lymph node dissection) or surveillance where equivalent; low-dose CT (computed tomography).
-- **Also know:** pioglitazone, aristolochic acid (herbal) and phenacetin as drug-related urothelial carcinogens.
+- Testis: fewer modalities; low-dose CT (computed tomography) in surveillance.
+- **Also know:** pioglitazone, aristolochic acid and phenacetin as drug-related urothelial carcinogens.
 
 **Diagram to draw:** ureterosigmoid anastomosis showing adenocarcinoma at the junction.
 
