@@ -48,6 +48,7 @@
 
 ### Technical principles
 - **Preparation:** ERAS (enhanced recovery after surgery); routine mechanical bowel preparation not needed; mark the stoma through the rectus.
+- **Bowel anastomosis:** good blood supply, no tension, no spillage; close the mesenteric window.
 - **Mesentery:** transilluminate, keep a major arcade; avoid watershed areas (Griffiths point, Sudeck point).
 - **Detubularisation:** opening the bowel on its antimesenteric border and refolding it into a sphere **abolishes coordinated contractions** and gives more volume for the same surface area, so pressure stays low (Laplace's law).
 - **Ureterointestinal anastomosis:** spatulated, tension-free, mucosa to mucosa, stented. **Wallace** (ureters joined, refluxing) has the lowest stricture rate (~3%); **Bricker** end-to-side 4–22%; antireflux tunnels (Leadbetter–Clarke) stricture more (8–14%). Reflux with normal ureters has not been shown to harm the adult kidney.
@@ -108,25 +109,23 @@
 - **Why add ADT:** it shrinks the target and is synergistic with radiation.
 - **EORTC 22863:** 3 years of goserelin with RT: 5-year OS 78–79% vs 62%.
 - **RTOG 92-02:** 28 vs 4 months ADT better on all endpoints except overall OS; OS gain in Gleason 8–10.
-- **TROG 96.01:** 6 months better than 3 months.
 - **Duration:** NCCN 18–36 months with EBRT (12–36 with brachytherapy boost); 18 vs 36 months gave similar OS.
 - **RT is needed with ADT:** SPCG-7 (cancer death RR (relative risk) 0.44) and MRC PR07 (OS HR (hazard ratio) 0.77).
-- Pelvic nodal RT: RTOG 94-13 inconclusive; POP-RT (Tata Memorial) favoured whole-pelvis RT in high-risk N0.
+- Pelvic nodal RT: RTOG 94-13 inconclusive; POP-RT favoured it in high-risk N0.
 
 ### B. Systemic intensification
 - **STAMPEDE (M0):** for N1, or two of T3–4, Gleason ≥8, PSA ≥40, **abiraterone + prednisolone for 2 years** with ADT + RT: metastasis-free survival HR 0.53, OS HR 0.60. NCCN lists it for very high risk.
-- Docetaxel: RTOG 0521 OS HR 0.69, GETUG 12 better relapse-free survival; not routine.
+- Docetaxel (RTOG 0521 OS HR 0.69): not routine.
 
 ### C. Radical prostatectomy (RP) + extended PLND (pelvic lymph node dissection)
 - For fit men with a resectable tumour, as part of multimodal therapy. cT3 is overstaged in 7–27%. RP alone gives disease-free survival in at least half at 8–10 years, and 10-year disease-specific survival ~80–90%.
 - **Advantages:** accurate pathological staging; removes the source of local morbidity.
 - **Neoadjuvant ADT before RP:** clinical downstaging and fewer positive margins, but **no survival gain**.
 - **Post-RP RT:** EORTC 22911, SWOG 8794 (metastasis-free survival and OS improved) and ARO 96-02 favour adjuvant RT over observation. **RADICALS-RT, RAVES, GETUG-AFU 17:** **early salvage RT** is preferred for most men. Adjuvant RT is still considered for very high risk (pT3b, Gleason 8–10, positive margin). Dose 64–66 Gy; adding short-term ADT to salvage RT improved progression-free survival (GETUG-AFU 16).
-- Positive margin carries the highest relative risk of progression.
 
 ### D. ADT alone
 - Only for men unfit for or refusing local treatment. Consider immediate ADT for PSA doubling time <12 months, PSA >50 ng/mL or symptoms; otherwise deferred ADT is acceptable.
-- Bicalutamide 150 mg: preserves sexual interest; harmful in localised disease. **Also know:** intermittent ADT, investigational here.
+- **Also know:** bicalutamide 150 mg (spares sexual interest; harmful in localised disease); intermittent ADT.
 
 ### Node-positive disease
 | Setting | Management |
@@ -144,7 +143,7 @@ cT3–4 / cN1, M0 (PSMA PET or CT + bone scan)
 
 ### Complications and local sequelae
 - ADT: hot flushes, osteoporosis, metabolic syndrome, cardiovascular risk, loss of libido; give bone protection.
-- RT: proctitis, cystitis, urethral stricture. RP: incontinence, erectile dysfunction.
+- RT: proctitis, cystitis. RP: incontinence, erectile dysfunction.
 - A prostate left in place can cause outflow obstruction, haematuria and ureteric obstruction.
 - **Also know:** cryotherapy and HIFU (high-intensity focused ultrasound) are not standard.
 
@@ -311,7 +310,7 @@ Deglove to penoscrotal junction + excise dysplastic dartos → erection test
 ### Operations by compartment
 | Compartment | Operations | Key points |
 |---|---|---|
-| **Anterior** (cystocele) | **Anterior colporrhaphy** (midline plication of pubocervical fascia); **paravaginal repair** (fascia reattached to the ATFP (arcus tendineus fasciae pelvis)) | Central vs lateral defect; does not support the apex; mesh augmentation largely withdrawn |
+| **Anterior** (cystocele) | **Anterior colporrhaphy** (midline plication of pubocervical fascia); **paravaginal repair** (fascia reattached to the ATFP (arcus tendineus fasciae pelvis)) | Central vs lateral defect; does not support the apex |
 | **Apical** (uterus, vault) | **Uterosacral suspension** (ureter injury 1–11%); **sacrospinous fixation** (suture 1.5–3 cm medial to the ischial spine; gluteal pain 15%); iliococcygeus suspension; McCall culdoplasty; vaginal hysterectomy; hysteropexy; Manchester | OPTIMAL trial: uterosacral = sacrospinous at 2 years |
 | **Apical, abdominal** | **Sacrocolpopexy** (open, laparoscopic, robotic): macroporous polypropylene mesh from vaginal apex to sacral promontory | Most durable (>90%); mesh exposure ~10% long term (CARE) |
 | **Posterior** (rectocele) | **Midline fascial plication** without levatorplasty; site-specific repair; perineorrhaphy | Levator plication causes dyspareunia; constipation may persist |
@@ -361,7 +360,7 @@ Deglove to penoscrotal junction + excise dysplastic dartos → erection test
 | Proximal TIP (tubularised incised plate) | Plate kept | Stricture, recurrent curvature: abandoned for severe cases |
 
 - **Why stage?** A urethroplasty over a fresh corporal graft fails more often.
-- Principles: magnification, tension-free closure, **vascularised barrier layer** (dartos, tunica vaginalis), stent. **Scrotoplasty** for transposition.
+- Principles: magnification, tension-free closure, **vascularised barrier layer** (dartos, tunica vaginalis); **scrotoplasty** for transposition.
 
 ### Complications
 - **23–68%**; 25–75% need further surgery. **Fistula** commonest (3–45%), glans dehiscence, meatal stenosis, stricture, **diverticulum** (long rigid neourethra raises resistance: Poiseuille's law), recurrent curvature, hair-bearing urethra.

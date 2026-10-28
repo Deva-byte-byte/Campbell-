@@ -65,7 +65,7 @@
 
 ### Associated anomalies and sequelae
 - **Testicular:** **TTE (transverse testicular ectopia)**, polyorchidism, splenogonadal fusion; epididymal non-fusion.
-- **PMDS (persistent Müllerian duct syndrome):** AMH or AMHR2 mutation; bilateral cryptorchidism or TTE.
+- **PMDS (persistent Müllerian duct syndrome):** mutation of AMH or its receptor (AMHR2); bilateral cryptorchidism or TTE.
 - **Genital and DSD (differences of sex development):** hypospadias (12–24%); bilateral non-palpable testes need karyotype and 17-OHP (17-hydroxyprogesterone) to exclude **CAH (congenital adrenal hyperplasia)**.
 - **Syndromes:** prune belly (all), Klinefelter, androgen insensitivity, hypogonadotrophic hypogonadism, cerebral palsy, gastroschisis, omphalocele, myelomeningocele, PUV (posterior urethral valves).
 - **Sequelae:** subfertility (worse if bilateral), **TGCT (testicular germ cell tumour) 2–5-fold**, torsion, hernia.
@@ -152,7 +152,7 @@ Non-organ-confined, M0
 > - T3b = seminal vesicle; M1a = non-regional nodes.
 > - EBRT + 2–3 years ADT is standard; EORTC 22863 and SPCG-7.
 > - STAMPEDE: abiraterone for 2 years in very high-risk or N1 disease.
-> - After RP: early salvage RT beats routine adjuvant RT.
+> - After RP: early salvage RT preferred to routine adjuvant RT.
 
 ---
 
@@ -275,7 +275,7 @@ Nephron loss → afferent dilatation + efferent constriction
 ```
 
 ### In AKI (acute kidney injury)
-- Incomplete repair after AKI leaves fewer nephrons, which hyperfilter. Creatinine may return to baseline while **renal reserve is lost**.
+- Incomplete repair leaves fewer nephrons, which hyperfilter; creatinine may normalise while **renal reserve is lost**.
 - This drives the **AKI-to-CKD (chronic kidney disease) transition**; AKI persisting ≥90 days becomes CKD.
 - Each perioperative AKI episode is a **modifiable risk factor** for CKD progression.
 
@@ -287,13 +287,13 @@ Nephron loss → afferent dilatation + efferent constriction
 | Setting | Point |
 |---|---|
 | Nephrectomy or donation | Compensatory hypertrophy 20–30%; donor function 60–80% of pre-donation |
-| Partial nephrectomy, solitary kidney | >50% parenchymal loss → proteinuria, FSGS; injury mainly when total nephron mass falls >80%; ESRD (end-stage renal disease) unless 20–30% of one kidney remains |
+| Partial nephrectomy, solitary kidney | >50% parenchymal loss → proteinuria, FSGS; marked when total nephron mass falls >80%; ESRD (end-stage renal disease) if <20–30% of one kidney remains |
 | Congenital solitary kidney, MCDK (multicystic dysplastic kidney) | Monitor BP (blood pressure), proteinuria, yearly ultrasound |
 
 - **Also know:** reflux nephropathy, infundibulopelvic stenosis, diabetes, obesity, pregnancy, low birth weight (low nephron endowment).
 
 ### Prevention and treatment
-- Nephron-sparing surgery; avoid nephrotoxins and NSAIDs (non-steroidal anti-inflammatory drugs).
+- Nephron sparing; avoid NSAIDs (non-steroidal anti-inflammatory drugs) and nephrotoxins.
 - **BP <130/80 mmHg**; **ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker)** in proteinuric disease: efferent dilatation lowers glomerular pressure.
 - **SGLT2 (sodium–glucose cotransporter-2) inhibitors:** restore tubuloglomerular feedback, causing afferent constriction. **DAPA-CKD** and **EMPA-KIDNEY** slowed progression with or without diabetes.
 - Finerenone (type 2 diabetic CKD); dietary protein restriction.

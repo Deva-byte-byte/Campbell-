@@ -20,12 +20,11 @@
 
 ### Introduction
 - MIBC (muscle-invasive bladder cancer; TCC, transitional cell carcinoma, now called urothelial carcinoma) is cT2–T4a disease.
-- Nearly half of patients treated by RC (radical cystectomy) alone develop metastases from occult micrometastases. Cure therefore needs good local treatment plus systemic therapy, planned by an MDT (multidisciplinary team).
+- Nearly half of patients treated by RC (radical cystectomy) alone develop metastases from occult micrometastases, so cure needs local plus systemic therapy, planned by an MDT (multidisciplinary team).
 
 ### Staging
-- Complete re-TURBT (transurethral resection of bladder tumour) including detrusor muscle; bimanual examination under anaesthesia.
-- MRI (magnetic resonance imaging) with VI-RADS (Vesical Imaging-Reporting and Data System) for local stage; CT (computed tomography) urogram for upper tracts and nodes; chest CT; bone scan if symptoms.
-- Assess fitness, renal function and cisplatin eligibility.
+- Complete TURBT (transurethral resection of bladder tumour) with detrusor muscle; MRI (magnetic resonance imaging) with VI-RADS (Vesical Imaging-Reporting and Data System); CT (computed tomography) urogram and chest CT; bone scan if symptoms.
+- Assess fitness and cisplatin eligibility.
 
 ### Management algorithm
 ```
@@ -42,8 +41,7 @@ M1  → systemic therapy
 **1. Radical cystectomy (standard of care)**
 - Men: cystoprostatectomy. Women: anterior exenteration; organ-sparing in selected cases.
 - **Standard bilateral PLND (pelvic lymph node dissection):** obturator, external and internal iliac nodes. **SWOG S1011:** extended PLND gave no survival benefit.
-- Do not delay beyond **12 weeks** from diagnosis (more extravesical disease, worse survival). Open or robotic.
-- Diversion: ileal conduit, orthotopic neobladder (tumour-free urethra) or continent cutaneous pouch.
+- Do not delay beyond **12 weeks** from diagnosis (worse survival). Diversion: ileal conduit, orthotopic neobladder or continent pouch.
 
 **2. Bladder preservation: TMT**
 - Visibly complete TURBT + radiotherapy (64 Gy, or 55 Gy in 20 fractions) + radiosensitiser. **BC2001:** 5-FU (fluorouracil) + mitomycin C improved 2-year locoregional disease-free survival (67% vs 48%).
@@ -72,7 +70,7 @@ M1  → systemic therapy
 
 - **Regimens:** ddMVAC 3–6 cycles or GC 4 cycles (EAU, AUA, NCCN: European Association of Urology, American Urological Association, National Comprehensive Cancer Network).
 - **No benefit:** single-agent cisplatin, carboplatin regimens, neoadjuvant radiotherapy. Cisplatin-ineligible patients go straight to RC.
-- The chapter calls neoadjuvant immunotherapy unproven; NIAGARA has since made perioperative durvalumab + GC a guideline option.
+- The chapter calls neoadjuvant immunotherapy unproven; NIAGARA has since made perioperative durvalumab + GC an option.
 
 ### Adjuvant therapy
 | | Neoadjuvant | Adjuvant |
@@ -82,7 +80,7 @@ M1  → systemic therapy
 | Evidence | Level 1 | Weaker: small, early-closed trials |
 
 **Adjuvant chemotherapy**
-- Trials (German MVAC/MVEC, Italian GC, EORTC 30994) were small or closed early. **ABC 2022 update:** cisplatin-based adjuvant chemotherapy improves 5-year OS by about 6%. Benefit greatest in node-positive and extravesical disease.
+- Trials were small or closed early. **ABC 2022 update:** cisplatin-based adjuvant chemotherapy improves 5-year OS by about 6%. Benefit greatest in node-positive and extravesical disease.
 - Use: cisplatin-naive patients with **pT3–4 or N+**: ddMVAC or GC.
 
 **Adjuvant immunotherapy**
