@@ -97,12 +97,12 @@
 | M | **M1a** non-regional nodes; **M1b** bone; **M1c** other sites |
 
 - **Traps:** seminal vesicle invasion is T3b, not T4; non-regional nodes are M1a.
-- **ISUP (International Society of Urological Pathology) grade groups:** GG1 ≤6; GG2 3+4; GG3 4+3; GG4 8; GG5 9–10.
+- **ISUP (International Society of Urological Pathology) grade groups (GG):** GG1 ≤6; GG2 3+4; GG3 4+3; GG4 8; GG5 9–10.
 - **Risk groups (EAU (European Association of Urology)):** high risk = PSA (prostate-specific antigen) >20 ng/mL, GG4–5 or cT2c; **locally advanced = cT3–4 or cN1**. AJCC prognostic groups combine T, N, M, PSA and grade.
 
 ### Staging work-up
 - DRE (digital rectal examination) sets clinical T stage but under- and over-stages. PSA predicts extent: organ-confined about 80% if PSA <4, under 50% if >10; nodes in about 75% if >50 ng/mL.
-- **mpMRI (multiparametric MRI):** extraprostatic extension and seminal vesicle invasion; best specificity in higher-risk men.
+- **mpMRI (multiparametric magnetic resonance imaging):** extraprostatic extension and seminal vesicle invasion; best specificity in higher-risk men.
 - **High risk:** bone scan plus CT (computed tomography) or MRI; **PSMA (prostate-specific membrane antigen) PET (positron emission tomography)**. **proPSMA:** accuracy 92% vs 65% for conventional imaging.
 - Nomograms (Partin, Kattan, CAPRA (Cancer of the Prostate Risk Assessment)) and genomic classifiers (Decipher) refine risk.
 
@@ -110,14 +110,14 @@
 - Non-organ-confined disease (T3–4 and/or N1, M0) has a high chance of micrometastases. **Single-modality treatment usually fails**, so treatment is **multimodal**: local therapy plus systemic ADT (androgen deprivation therapy).
 
 ### A. Locally advanced (cT3–4 N0 M0)
-**1. EBRT (external beam radiotherapy) plus long-term ADT: standard**
-- Dose-escalated IMRT (intensity-modulated RT) with image guidance, ≥74–78 Gy, with **ADT for 18–36 months** (NCCN; EAU 2–3 years). Neoadjuvant ADT shrinks the target and is synergistic with radiation.
+**1. EBRT (external beam radiotherapy, RT) plus long-term ADT: standard**
+- Dose-escalated IMRT (intensity-modulated radiotherapy) with image guidance, about 76–78 Gy, with **ADT for 18–36 months** (NCCN (National Comprehensive Cancer Network); EAU 2–3 years). Neoadjuvant ADT shrinks the target and is synergistic with radiation.
 - **EORTC 22863:** 3 years of ADT with RT raised 5-year overall survival (78% vs 62%). **RTOG 92-02:** 28 vs 4 months; survival gain in Gleason 8–10.
-- **SPCG-7 and MRC PR07/NCIC PR.3:** adding RT to ADT reduced cancer death (RR 0.44; HR 0.46). ADT alone is inferior.
+- **SPCG-7 and MRC PR07/NCIC PR.3:** adding RT to ADT reduced cancer death (RR (relative risk) 0.44; HR (hazard ratio) 0.46). ADT alone is inferior.
 - **Brachytherapy boost** improves biochemical control (ASCENDE-RT).
 - **Very high risk:** add **abiraterone for 2 years** (STAMPEDE M0: metastasis-free survival HR 0.53). Eligible: N1, or two of cT3–4, Gleason ≥8, PSA ≥40 ng/mL.
 
-**2. Radical prostatectomy with extended PLND (pelvic lymph node dissection): selected men**
+**2. RP (radical prostatectomy) with ePLND (extended pelvic lymph node dissection): selected men**
 - Fit, life expectancy >10 years, resectable (mainly cT3a). Clinical overstaging occurs in 7–27%; 10-year disease-specific survival about 80–90%.
 - Neoadjuvant ADT downstages clinically but gives **no survival gain**.
 - **After surgery:** pT3 or positive margin: **observation with early salvage RT** (RADICALS-RT, RAVES, GETUG-AFU 17); adjuvant RT only for very high-risk pathology (GG4–5, pT3b, margins).
@@ -128,7 +128,7 @@
 - Cryotherapy or HIFU (high-intensity focused ultrasound): investigational in high risk.
 
 ### B. Node-positive (N1 M0)
-- **cN1:** RT to prostate and pelvic nodes with long-term ADT plus 2 years of abiraterone; prostatectomy with extended PLND in selected men.
+- **cN1:** RT to prostate and pelvic nodes with long-term ADT plus 2 years of abiraterone; RP with ePLND in selected men.
 - **pN1 after prostatectomy:** **ECOG 7887**: immediate ADT improved overall survival; ADT plus pelvic RT beats ADT alone. Observation is an option for ≤2 nodes with undetectable PSA.
 
 ### C. Metastatic (M1), in brief
@@ -143,7 +143,7 @@ Non-organ-confined, M0
 ```
 
 ### Local complications and follow-up
-- Bladder outlet obstruction (channel TURP), ureteric obstruction (stent or nephrostomy), haematuria (palliative RT).
+- Bladder outlet obstruction (channel TURP (transurethral resection of the prostate)), ureteric obstruction (stent or nephrostomy), haematuria (palliative RT).
 - PSA every 3–6 months; bone health, metabolic and cardiovascular monitoring on ADT.
 
 **Diagram to draw:** sagittal pelvis showing T3a, T3b and T4 spread.
@@ -181,7 +181,7 @@ Non-organ-confined, M0
 ### Cancer significance
 - Tumours were found in 4.64% with TM vs 0.33% without, but cryptorchidism was not accounted for.
 - **TM is not clearly an independent risk factor** for TGCT. An EAU (European Association of Urology) paediatric panel review of several hundred children found only one cancer through puberty.
-- **Exception:** contralateral TM in a man with previous GCT signals a higher GCNIS risk.
+- **Exception:** contralateral TM in a man with previous GCT (germ cell tumour) signals a higher GCNIS risk.
 
 ### Management
 - **Isolated TM, no risk factors:** reassure; **no further evaluation, no routine ultrasound follow-up**.
@@ -206,13 +206,13 @@ Non-organ-confined, M0
 ## Q3b. Postoperative lymphatic leak
 **Type:** SAQ (10 marks)
 
-*Taken as lymphocele and chylous ascites after RPLND, nephrectomy, pelvic node dissection and transplantation.*
+*Taken as lymphocele and chylous ascites after RPLND (retroperitoneal lymph node dissection), nephrectomy, pelvic node dissection and transplantation.*
 
 ### Types and settings
 
 | Type | Definition | Setting and frequency |
 |---|---|---|
-| **Lymphocele** | Lymph collection **without epithelial lining** | **PLND (pelvic lymph node dissection):** radiological up to 60%, significant 2–5%. **Transplant:** symptomatic 0.03–26%, peak 6 weeks. **RPLND (retroperitoneal lymph node dissection):** ≤1.7% |
+| **Lymphocele** | Lymph collection **without epithelial lining** | **PLND (pelvic lymph node dissection):** radiological up to 60%, significant 2–5%. **Transplant:** symptomatic 0.03–26%, peak 6 weeks. **RPLND:** ≤1.7% |
 | **Chylous ascites** | Lipid-rich lymph in the peritoneum from the cisterna chyli or major trunks | RPLND: 0.2–2.1% primary, **2–12% post-chemotherapy**; left nephrectomy with hilar dissection |
 
 - **Risk factors:** suprahilar dissection near the cisterna chyli (L1–L2), extended templates, post-chemotherapy surgery; at transplant: mTOR (mammalian target of rapamycin) inhibitors, obesity, re-transplant.
@@ -280,21 +280,21 @@ Nephron loss → afferent dilatation + efferent constriction
 - Each perioperative AKI episode is a **modifiable risk factor** for CKD progression.
 
 ### In CKD
-- Final common pathway of progression; marked by **albuminuria (KDIGO (Kidney Disease: Improving Global Outcomes) A stages)**, hypertension, falling eGFR.
+- Final common pathway of progression; marked by **albuminuria (KDIGO (Kidney Disease: Improving Global Outcomes) A stages)**, hypertension, falling eGFR (estimated GFR).
 
 ### Urological settings
 
 | Setting | Point |
 |---|---|
 | Nephrectomy or donation | Compensatory hypertrophy 20–30%; donor function 60–80% of pre-donation |
-| Partial nephrectomy, solitary kidney | >50% parenchymal loss → proteinuria, FSGS; ESRD (end-stage renal disease) risk if total nephron mass falls >80% |
-| Congenital solitary kidney, MCDK (multicystic dysplastic kidney) | Monitor BP, proteinuria, yearly ultrasound |
+| Partial nephrectomy, solitary kidney | >50% parenchymal loss → proteinuria, FSGS; injury mainly when total nephron mass falls >80%; ESRD (end-stage renal disease) unless 20–30% of one kidney remains |
+| Congenital solitary kidney, MCDK (multicystic dysplastic kidney) | Monitor BP (blood pressure), proteinuria, yearly ultrasound |
 
 - **Also know:** reflux nephropathy, infundibulopelvic stenosis, diabetes, obesity, pregnancy, low birth weight (low nephron endowment).
 
 ### Prevention and treatment
 - Nephron-sparing surgery; avoid nephrotoxins and NSAIDs (non-steroidal anti-inflammatory drugs).
-- **BP (blood pressure) <130/80 mmHg**; **ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker)** in proteinuric disease: efferent dilatation lowers glomerular pressure.
+- **BP <130/80 mmHg**; **ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker)** in proteinuric disease: efferent dilatation lowers glomerular pressure.
 - **SGLT2 (sodium–glucose cotransporter-2) inhibitors:** restore tubuloglomerular feedback, causing afferent constriction. **DAPA-CKD** and **EMPA-KIDNEY** slowed progression with or without diabetes.
 - Finerenone (type 2 diabetic CKD); dietary protein restriction.
 
@@ -321,7 +321,7 @@ Nephron loss → afferent dilatation + efferent constriction
 | **Calyceal diverticulum** | Transitional-lined intrarenal cavity joined to a calyx (Type I, commoner, small) or pelvis (Type II, larger, symptomatic) by a narrow neck; 4.5 per 1000; congenital (persistent 3rd–4th generation ureteric branches) or acquired. **Stones in almost 40%**; milk of calcium | Asymptomatic: observe. Pain, infection, stones: ureteroscopic neck incision, **percutaneous ablation with fulguration**, laparoscopic marsupialisation; SWL (shock wave lithotripsy) ineffective |
 | **Hydrocalycosis** | Dilated major calyx connected to the pelvis; infundibular obstruction by vessel, stenosis, scarring or achalasia | Symptomatic only: infundibulotomy or dilatation |
 | **Megacalycosis** | **Non-obstructive**; malformed papillae; **12–20 calyces**; pelvis normal; male 6:1; normal diuretic renogram | **None**; may coexist with segmental megaureter |
-| **Infundibular / infundibulopelvic stenosis** | Narrow infundibula ± small pelvis; usually bilateral, with VUR (vesicoureteric reflux), dysplasia; over a third reach renal failure (hyperfiltration) | Monitor creatinine and eGFR; ACE (angiotensin-converting enzyme) inhibitors; surgery only if obstruction harms function: endoscopic, calicocalicostomy, ureterocalicostomy |
+| **Infundibular / infundibulopelvic stenosis** | Narrow infundibula ± small pelvis; usually bilateral, with VUR (vesicoureteric reflux), dysplasia; over a third reach renal failure (hyperfiltration) | Monitor creatinine and eGFR (estimated glomerular filtration rate); ACE (angiotensin-converting enzyme) inhibitors; surgery only if obstruction harms function: endoscopic, calicocalicostomy, ureterocalicostomy |
 | **Extrarenal pelvis** | Large pelvis outside the sinus; mimics dilatation | None |
 | **Bifid pelvis** | About 10%; normal variant | None |
 | **Unipapillary kidney** | Single papilla and calyx; rare; usually hypoplastic kidney | None |
@@ -331,7 +331,7 @@ Nephron loss → afferent dilatation + efferent constriction
 ### Evaluation
 - **Ultrasound:** cyst-like space; milk of calcium layers and shifts with position.
 - **CT (computed tomography) urography or MRU (magnetic resonance urography):** **delayed contrast pooling** in a diverticulum.
-- **Diuretic renogram (MAG3):** separates obstruction (hydrocalycosis) from non-obstruction (megacalycosis, extrarenal pelvis).
+- **Diuretic renogram (MAG3 (mercaptoacetyltriglycine)):** separates obstruction (hydrocalycosis) from non-obstruction (megacalycosis, extrarenal pelvis).
 - **Retrograde pyelography:** maps the neck.
 
 ### Differential diagnosis

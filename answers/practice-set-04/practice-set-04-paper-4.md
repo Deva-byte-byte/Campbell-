@@ -3,12 +3,12 @@
 **Contents**
 1. Q1. Discuss in brief, present concepts in various GU cancers (LAQ, 25)
 2. Q2. Robots in urology (LAQ, 25)
-3. Q3a. Female kidney donors: enumerate special precautions (SAQ, 10)
-4. Q3b. Define Marginal donor. Mention components of Remuzzi scoring system for preemptive renal biopsy of marginal donor kidneys. (SAQ, 10)
-5. Q3c. Studer Neobladder. (SAQ, 10)
-6. Q3d. Neobladder. (SAQ, 10): cross-reference to Practice Set 4 Paper 2, Q3e
-7. Q3e. Secondary tumors after urinary diversion. (SAQ, 10)
-8. Q3f. Urethral stents. (SAQ, 10)
+3. Q3a. Newer PCNL techniques and nomenclature of miniaturised PCNL (SAQ, 10)
+4. Q3b. VI-RADS (SAQ, 10)
+5. Q3c. PI-RADS and MRI–ultrasound fusion biopsy (SAQ, 10)
+6. Q3d. Artificial intelligence in urology (SAQ, 10)
+7. Q3e. Indications of genomic testing in carcinoma prostate (SAQ, 10)
+8. Q3f. Gene therapy in urology (SAQ, 10)
 
 *Practice paper compiled from the question bank.*
 
@@ -162,236 +162,274 @@
 
 ---
 
-## Q3a. Female kidney donors: enumerate special precautions
+## Q3a. Newer PCNL techniques and nomenclature of miniaturised PCNL
 **Type:** SAQ (10 marks)
-(also answered in 2023-Winter Paper 4, Q3d)
+(mini-PCNL also answered in 2022-Summer Paper 1, Q1; prone versus supine in 2024-Winter Paper 1, Q3f)
 
-### Introduction
-- Most living donors, especially in India, are **women** (wives, mothers). Guidance: **KDIGO (Kidney Disease: Improving Global Outcomes) 2017** living donor guideline.
+### Why miniaturise
+- In PCNL (percutaneous nephrolithotomy), bleeding rises with tract size. Smaller tracts mean less bleeding and pain, at the cost of longer operating time and poorer vision.
 
-### Before donation
-1. **Free, uncoerced consent:** interview the donor alone; independent donor advocate; family pressure and gender inequity screened. In India the THOA (Transplantation of Human Organs Act) authorisation committee verifies this.
-2. **Pregnancy:** pregnancy test before contrast CT (computed tomography) and surgery; **reliable contraception** during work-up. Pregnant women do not donate.
-3. **Obstetric history:** previous **pre-eclampsia, gestational hypertension or gestational diabetes** signals higher future hypertension, diabetes and kidney risk; evaluate and counsel.
-4. **Future pregnancy counselling (KDIGO):** donation **increases gestational hypertension and pre-eclampsia** (Garg et al., NEJM 2015: about 11% vs 5% in non-donors). Maternal and fetal outcomes are otherwise similar (Chapter 91).
-5. **Oestrogen therapy:** combined OCPs (oral contraceptive pills) and HRT (hormone replacement therapy) raise **VTE (venous thromboembolism)** risk; stop them some weeks before surgery and give barrier or progestogen-only contraception; VTE prophylaxis.
-6. **Gynaecological and cancer screening:** cervical cytology, breast examination or mammography (age-appropriate); pelvic ultrasound if indicated.
-7. **Urine tests:** repeat urinalysis **outside menstruation** to avoid false haematuria; exclude recurrent UTI (urinary tract infection).
-8. **GFR (glomerular filtration rate):** low muscle mass makes creatinine-based estimates unreliable; **measured GFR** preferred. Note nephron mismatch with a large recipient.
-9. Correct **iron-deficiency anaemia**.
+### Nomenclature (by tract or outer sheath size)
+| Name | Tract | Features |
+|---|---|---|
+| Standard | 24–34 Fr | Ultrasonic or pneumatic lithotripsy; graspers |
+| **Mini** | 15–22 Fr | First "mini-perc": Jackman 1998, 13 Fr; irrigation washes fragments out ("vacuum-cleaner" effect) |
+| **Super-mini** | About 10–14 Fr | Sheath with **active suction** of fragments |
+| **Ultra-mini** | 11–14 Fr | 3 Fr inline telescope in 11–13 Fr sheath |
+| **Micro-perc** | <10 Fr | "All-seeing needle" with optics; laser only, fragments pass spontaneously |
 
-### Operative
-- Laparoscopic donor nephrectomy; **Pfannenstiel** extraction for cosmesis; transvaginal extraction possible.
+- **Problem:** names overlap and cut-offs are contested (paediatric chapter: mini <20–24 Fr), so many authors report the **actual sheath size in Fr**.
+- **Working channel, not sheath size, decides what passes:** the smallest systems take only a laser fibre.
 
-### After donation
-- **Defer pregnancy** until recovery and stable function (often 6–12 months).
-- In pregnancy: inform obstetrician; **high-risk antenatal care**; monitor BP (blood pressure), proteinuria and creatinine; low-dose aspirin may be considered.
-- **Lifelong annual BP, creatinine and proteinuria**; avoid NSAIDs (non-steroidal anti-inflammatory drugs).
+### Newer techniques
+1. **Supine PCNL and ECIRS (endoscopic combined intrarenal surgery):** Galdakao-modified supine; simultaneous retrograde flexible ureteroscopy watches puncture and dilatation; fewer tracts.
+2. **Ultrasound-guided access:** less radiation; shows pleura and viscera.
+3. **Single-step or balloon dilatation.**
+4. **Suction sheaths:** lower pressure, faster clearance.
+5. **Lasers:** high-power and pulse-modulated holmium, TFL (thulium fibre laser) for dusting through small tracts.
+6. **Flexible nephroscopy** after bulk removal: higher stone-free rate.
+7. **Tubeless or small (≤10 Fr) nephrostomy:** less pain.
 
-**Diagram to draw:** flowchart: consent → pregnancy test → hormone review → GFR → surgery → pregnancy follow-up.
+### Evidence
+- Mini versus standard (meta-analysis): **non-inferior stone-free rate**, fewer transfusions, shorter stay; longer operation. Against a **24 Fr** tract these advantages disappear.
+- Poor outflow through small sheaths raises **intrarenal pressure: fever, sepsis**.
+
+- **Also know:** robotic or artificial intelligence-assisted puncture under study.
+
+**Diagram to draw:** scale bar of tract sizes from micro to standard.
 
 > **Key points to remember:**
-> - Ensure free consent (Indian gender gap).
-> - Pregnancy test; contraception; stop oestrogens.
-> - Donors: gestational hypertension or pre-eclampsia about 11% vs 5%.
-> - Defer pregnancy; high-risk antenatal follow-up.
+> - Standard 24–34, mini 15–22, ultra-mini 11–14, micro <10 Fr.
+> - Jackman 1998: first mini-perc (13 Fr).
+> - Working channel decides instruments; suction lowers pressure.
+> - Mini: fewer transfusions, longer time; equal to 24 Fr.
 
 ---
 
-## Q3b. Define Marginal donor. Mention components of Remuzzi scoring system for preemptive renal biopsy of marginal donor kidneys.
+## Q3b. VI-RADS
 **Type:** SAQ (10 marks)
-(also answered in 2024-Winter Paper 4, Q3e; 2016-Summer Paper 3, Q3f)
-
-*"Preemptive" is read as pre-implantation (procurement) biopsy.*
 
 ### Definition
-- A **marginal (extended) donor** is one whose kidney carries a **higher risk of DGF (delayed graft function) and shorter graft survival** than a standard donor. Such kidneys are used because of organ shortage.
-- Still better survival than dialysis.
-
-### Categories
-- **ECD (expanded criteria donor), UNOS (United Network for Organ Sharing):**
-  - Age **60 or over**, or
-  - Age **50–59 with 2 or more of:** hypertension, **creatinine >1.5 mg/dL**, death from **CVA (cerebrovascular accident)**.
-  - Graft-loss risk about 1.7 times that of a standard donor.
-- **KDPI (Kidney Donor Profile Index) >85%** replaced ECD in the US (2014); 10 donor factors (age, height, weight, ethnicity, hypertension, diabetes, cause of death, creatinine, HCV [hepatitis C virus], DCD).
-- **Others:** DCD (donation after circulatory death); donor AKI (acute kidney injury); HCV-positive donors; older or hypertensive living donors.
-
-### Remuzzi score (Karpinski/Remuzzi)
-- Pre-implantation biopsy (ideally at least 25 glomeruli), read on rapid sections.
-- **Four components, each 0–3: total 0–12.**
-
-| Component | 0 | 1 | 2 | 3 |
-|---|---|---|---|---|
-| **Glomerular global sclerosis** | None | <20% | 20–50% | >50% |
-| **Tubular atrophy** | None | <20% | 20–50% | >50% |
-| **Interstitial fibrosis** | None | <20% | 20–50% | >50% |
-| **Arterial and arteriolar narrowing** | None | Wall thickness < lumen diameter | Wall = or slightly > lumen | Wall far > lumen, severe narrowing or occlusion |
-
-### Allocation by score
-| Total | Grade | Use |
-|---|---|---|
-| **0–3** | Mild | **Single** kidney transplant |
-| **4–6** | Moderate | **Dual** kidney transplant |
-| **7–12** | Severe | **Discard** |
-
-- Remuzzi (NEJM 2006): biopsy-guided older-donor kidneys, single or dual, had graft survival similar to young-donor kidneys.
-- **Limitations:** sampling error; wedge biopsy overestimates sclerosis; interobserver variation.
-
-### Optimising marginal kidneys
-- Short cold ischaemia; **HMP (hypothermic machine perfusion)** reduces DGF; old-for-old matching; informed consent.
-
-**Diagram to draw:** Remuzzi grid with four compartments scored 0–3.
-
-> **Key points to remember:**
-> - ECD: ≥60, or 50–59 with 2 of hypertension, creatinine >1.5, CVA death.
-> - Remuzzi: glomeruli, tubules, interstitium, vessels; 0–3 each.
-> - 0–3 single, 4–6 dual, ≥7 discard.
-
----
-
-## Q3c. Studer Neobladder.
-**Type:** SAQ (10 marks)
-(also answered in 2015-Summer Paper 4, Q3e; selection and general points: see Practice Set 4 Paper 2, Q3e)
-
-### Principles
-- **Studer (1989)**: detubularised ileal **orthotopic** reservoir with a long **isoperistaltic afferent limb**, joined to the urethra.
-- **Detubularisation** stops coordinated contractions, so pressure stays low; a **sphere** (Laplace) gives most volume.
-- The afferent limb damps reflux during Valsalva voiding and accepts **short ureters**. No staples in the reservoir. Continence depends on the **rhabdosphincter**.
-
-### Operative technique
-1. **Isolate 54–56 cm of terminal ileum**, ending **15–20 cm proximal to the ICV (ileocaecal valve)**; restore bowel continuity.
-2. **Reservoir: distal 40–44 cm** (two 20–22-cm limbs) opened on the antimesenteric border; sew the medial edges into a **U** (back wall).
-3. **Afferent limb:** proximal tubular segment, **about 15 cm** (original 20 cm; 10–12 cm in later figures); close its end.
-4. **Fold the U in the opposite direction** and close the anterior wall into a sphere.
-5. **Ureters:** spatulated **end-to-side, refluxing** anastomoses to the afferent limb, interrupted 4-0, **stented**.
-6. **Urethral anastomosis** at the most dependent point with pre-placed sutures; catheter and suprapubic tube.
-- **Intracorporeal robotic Studer** follows the same steps.
-
-### Postoperative care and voiding training
-- Mucus irrigation; oral bicarbonate; cystogram before catheter removal.
-- Void **sitting**, relax the pelvic floor, strain gently; **timed voiding** every 2 hours, extended to 3–4 hours as capacity grows (under 200 mL to 500–600 mL in a year). **Night alarm.**
-
-### Outcomes
-- Day continence 90–98%; night continence lower (up to half leak).
-- Reflux on cystogram, yet kidneys preserved in about 95%; ureteroileal stricture **<3%**. **USC (University of Southern California) randomised trial:** antireflux T pouch gave no renal benefit and more reoperations.
-- Late: pyelonephritis (commonest), acidosis, B12 deficiency, stones, retention.
-- **Versus Hautmann W** (about 70 cm): smaller early capacity, less late retention.
-
-**Diagram to draw:** marked ileal segment (afferent limb plus 40–44-cm U), then the folded sphere.
-
-> **Key points to remember:**
-> - 54–56 cm ileum, 15–20 cm from ICV: 40–44-cm U plus afferent limb.
-> - Refluxing end-to-side ureters; stricture <3%; kidneys preserved ~95%.
-> - Sitting Valsalva voiding, timed voiding, night alarm.
-
----
-
-## Q3d. Neobladder.
-**Type:** SAQ (10 marks)
-
-**See Practice Set 4 Paper 2, Q3e (full answer).** Studer technique: see Q3c above.
-
-> **Key points to remember (SAQ angle):**
-> - Detubularised ileal sphere: low pressure, large capacity; continence depends on the rhabdosphincter.
-> - Needs a tumour-free urethral margin, eGFR (estimated glomerular filtration rate) >35–40 mL/min and ability to self-catheterise.
-> - Day continence about 90%; night incontinence up to half; refluxing ureteric anastomosis is acceptable (USC (University of Southern California) trial).
-
----
-
-## Q3e. Secondary tumors after urinary diversion.
-**Type:** SAQ (10 marks)
-(also answered in 2021-Summer Paper 4, Q3e)
-
-### Definition
-- New cancers arising in or next to bowel used for urinary diversion or bladder augmentation, usually after a **long latency** (10–20 years or more). Distinct from recurrent urothelial cancer.
-
-### Risk by diversion (German registry, Kälble 2011)
-| Diversion | Risk | Surveillance |
-|---|---|---|
-| **Ureterosigmoidostomy** | 2.6% (6–29% in long-term series) | Regular colonoscopy **from 5 years** |
-| Augmentation cystoplasty | 1.6% | Endoscopy, often from 10 years |
-| Colonic neobladder | 1.3% | — |
-| Ileocaecal pouch | 0.14% | If symptomatic |
-| Ileal neobladder | 0.05% | No routine |
-| Ileal conduit | 0.02% | No routine |
-
-- **Pattern:** risk is highest where urothelium meets colon and is bathed in faeces; purely ileal diversions are lowest.
-
-### Pathogenesis
-- **Urothelium–colonic junction** exposed to urine and faeces; tumours arise at the ureterocolic anastomosis.
-- **N-nitrosamines** from bacterial action on urinary nitrates (probably enhancers, not sole cause); chronic inflammation; growth factors (EGF, epidermal growth factor); ornithine decarboxylase; abnormal mucin.
-- Removing the urothelium prevents tumours experimentally.
-- **Defunctioned anastomoses still form cancer:** when converting a ureterosigmoidostomy, excise the old anastomosis.
-
-### Pathology
-- Mostly **adenocarcinoma**; also adenomatous polyps, urothelial carcinoma, sarcoma.
-- **Augmentation:** adenocarcinoma and aggressive urothelial carcinoma, often advanced at diagnosis; earliest at 4 years. **Gastrocystoplasty** carries relatively high risk. Exstrophy and immunosuppression add risk.
-- **Nephrogenic adenoma:** benign; commonest tumour after cystoplasty.
-
-### Presentation
-- Haematuria, rectal bleeding, change in bowel habit, ureteric obstruction (hydronephrosis), recurrent infection, mass.
-
-### Management
-- Biopsy and staging.
-- **Ureterosigmoidostomy:** resection of the segment with the anastomosis; conversion to conduit or continent diversion.
-- **Augmentation:** partial or total cystectomy with new diversion.
-- **Prevention:** prefer ileal segments; counsel patients; lifelong follow-up.
-
-**Also know:** after cystectomy, recurrent urothelial cancer may arise in the upper tracts or a retained urethra (urethral recurrence about 7–9%); needs separate surveillance.
-
-**Diagram to draw:** ureterosigmoid anastomosis with tumour at the urothelial–colonic junction.
-
-> **Key points to remember:**
-> - Ureterosigmoidostomy: highest risk; colonoscopy from year 5.
-> - Mostly adenocarcinoma at the anastomosis.
-> - Excise defunctioned anastomoses.
-
----
-
-## Q3f. Urethral stents.
-**Type:** SAQ (10 marks)
-(also answered in 2015-Summer Paper 4, Q3d)
-
-### Definition
-- An endoscopically placed tube that keeps the **prostatic or bulbar urethra** open, mainly in men unfit for surgery.
-
-### Classification
-| Type | Examples | Features |
-|---|---|---|
-| **Temporary** | **Memokath** (nitinol), **Allium** | Designed to avoid epithelial incorporation; removable; left 6–12 months |
-| **Permanent, epithelialising** | **UroLume** | Urothelium grows over it; **withdrawn** |
-| Biodegradable | Experimental | Dissolve |
-
-### Indications
-1. BPH (benign prostatic hyperplasia) retention in men unfit for TURP (transurethral resection of prostate).
-2. Recurrent short bulbar stricture in men unfit for urethroplasty.
-3. **DSD (detrusor–sphincter dyssynergia)**: once an alternative to sphincterotomy; now **abandoned** for complications.
+- **VI-RADS (Vesical Imaging–Reporting and Data System):** a 5-point score for the likelihood of **muscle (detrusor) invasion** by bladder cancer on mpMRI (multiparametric magnetic resonance imaging). Panebianco et al., Eur Urol 2018.
+- Standardises bladder MRI reporting, as PI-RADS (Prostate Imaging Reporting and Data System) does for the prostate.
 
 ### Technique
-- Local or regional anaesthesia with endoscopic or fluoroscopic guidance. Memokath expands when warmed and softens when cooled for removal. A bulbar stent must **not cross the external sphincter**, or incontinence follows.
+- Multiplanar **T2W (T2-weighted)**, **DWI (diffusion-weighted imaging)** with ADC (apparent diffusion coefficient) map, and **DCE (dynamic contrast-enhanced)** T1.
+- Done **before TURBT (transurethral resection of bladder tumour)**: resection oedema mimics invasion. Distend the bladder adequately.
 
-### Complications
-- **Migration** (temporary stents), **encrustation**, **hyperplastic ingrowth** with restenosis (UroLume), incontinence, pain and painful erections.
+### Principle
+- On T2W the detrusor is a **low-signal (dark) line**; urine, mucosa and submucosa are bright. The question is whether tumour **interrupts that dark line**.
 
-### Results
-- Prostatic stents free most unfit men from catheters short term, but many are later removed. Removable bulbar stents succeed only in small series. UroLume worked early but failed long term from ingrowth, and many men still carry one.
-- No stent removes **spongiofibrosis**, so none cures a stricture.
+### Scoring
+| Score | Invasion | T2W | DCE | DWI |
+|---|---|---|---|---|
+| 1 | Highly unlikely | <1 cm, ± stalk; dark line intact | No early muscle enhancement | Muscle continuous |
+| 2 | Unlikely | >1 cm with stalk and thick inner layer, or sessile; line intact | Inner layer enhances only | As 1 |
+| 3 | Equivocal | No category 2 features; line intact | No muscle interruption | As 1 |
+| 4 | Likely | **Line interrupted** | Enhancement extends into muscle | High signal into muscle |
+| 5 | Highly likely | **Into perivesical fat** | Through wall into fat | High signal through wall and fat |
 
-### Guidelines
-- **AUA (American Urological Association)**: **no stent if urethroplasty is considered**; stents make reconstruction harder.
+- **Cut-off ≥3 = suspicious for MIBC (muscle-invasive bladder cancer)**; the "equivocal" category already counts as positive.
+- Sensitivity and specificity roughly 80–90%; DWI is the main functional sequence.
 
-### Recent advances
-- **Optilume** paclitaxel balloon (FDA (Food and Drug Administration) approval 2023 for anterior stricture): **ROBUST III**, after failed endoscopy, about 75% vs 27% stricture-free. Optilume BPH (EVEREST-1).
-- **iTind**: nitinol device left 5–7 days; AUA 2023 option for 25–75 mL glands without median lobe.
+### Clinical uses
+- Local staging before TURBT; earlier referral for neoadjuvant chemotherapy and cystectomy.
+- Patients who cannot have iodinated contrast (renal impairment, allergy).
+- **MRI-first pathway** (UK BladderPath trial) shortened time to correct treatment for MIBC.
+- Response after neoadjuvant chemotherapy or bladder preservation: under study.
 
-**Also know:** a soft silicone "urethral stent" (splint) after hypospadias repair or urethroplasty is a different device; in complicated hypospadias repairs it reduces meatal stenosis and fistula.
+### Limitations
+- Needs an experienced radiologist; post-TURBT or BCG (bacille Calmette–Guérin) inflammation; small, bladder-neck or diverticular tumours; poor for CIS (carcinoma in situ) and nodes; does not replace histology.
 
-**Diagram to draw:** sagittal urethra with prostatic stent and bulbar stent distal to sphincter.
+**Diagram to draw:** bladder wall with tumour breaching the dark detrusor line (VI-RADS 4).
 
 > **Key points to remember:**
-> - Temporary (Memokath, Allium) vs permanent (UroLume, withdrawn).
-> - Migration, encrustation, ingrowth; never cross the sphincter.
-> - AUA: no stent if urethroplasty planned; Optilume and iTind are newer.
+> - Five points; tests the dark muscle line on T2W.
+> - ≥3 suspicious for MIBC; 4 line broken, 5 fat.
+> - Scan before TURBT.
+> - Panebianco 2018; accuracy about 80–90%.
+
+---
+
+## Q3c. PI-RADS and MRI–ultrasound fusion biopsy
+**Type:** SAQ (10 marks)
+(mpMRI and PI-RADS also answered in 2024-Winter Paper 1, Q3d; biopsy in Practice Set 4 Paper 2, Q3d)
+
+### PI-RADS
+- **PI-RADS (Prostate Imaging Reporting and Data System)** v2.1 (2019) scores the likelihood of **clinically significant cancer** (Gleason ≥7, volume >0.5 cm³ or EPE [extraprostatic extension]) on mpMRI (multiparametric magnetic resonance imaging): T2W (T2-weighted: anatomy), DWI (diffusion-weighted imaging) with ADC (apparent diffusion coefficient: cellularity), DCE (dynamic contrast-enhanced: vascularity).
+
+| Score | Significant cancer |
+|---|---|
+| 1 | Highly unlikely |
+| 2 | Unlikely |
+| 3 | Equivocal |
+| 4 | Likely; <1.5 cm |
+| 5 | Highly likely; ≥1.5 cm or definite EPE |
+
+| Zone | Dominant sequence | Tie-breaker at score 3 |
+|---|---|---|
+| Peripheral | **DWI** | DCE positive → 4 |
+| Transition | **T2W** | DWI 5 → 4 (v2.1: T2W 2 with DWI ≥4 → 3) |
+
+- Cancer in about one-third of PI-RADS 3, over half of 4, 90% of 5.
+- **Also know:** PI-QUAL (image quality); PRECISE (active surveillance).
+
+### Fusion biopsy: principle
+- Lesion contoured on MRI → software **co-registers it with live TRUS (transrectal ultrasound)** in three dimensions; **elastic deformation** corrects probe distortion → needle aimed at the displayed target.
+- Freehand electromagnetic or mechanical-arm tracking; transrectal or **transperineal** (fewer infections).
+
+| | Cognitive | Software fusion | In-bore MRI |
+|---|---|---|---|
+| Method | Aims from memory of MRI | Software overlay | Needle under MRI |
+| Drawback | Operator-dependent; small lesion in large gland | Cost; registration error | Time, cost |
+
+- Meta-analysis (2022): no significant difference among the three; one RCT (randomised controlled trial) favoured fusion over cognitive.
+
+### Indications
+- PI-RADS ≥3 lesion with raised PSA (prostate-specific antigen), first or repeat biopsy; active surveillance; focal therapy.
+- **AUA/SUO (American Urological Association/Society of Urologic Oncology) 2023:** 2–3 cores per target ± systematic cores.
+
+### Evidence
+- **PROMIS (2017):** MRI sensitivity 93% versus 48% for TRUS biopsy; 27% avoid biopsy.
+- **PRECISION (2018):** MRI pathway found more significant cancer (38% versus 26%); 28% avoided biopsy.
+- Targeting reduces overdiagnosis; MRI-invisible cancers keep systematic cores relevant.
+
+**Diagram to draw:** MRI target on live TRUS with needle path.
+
+> **Key points to remember:**
+> - Peripheral zone by DWI, transition zone by T2W; DCE only lifts peripheral 3 to 4.
+> - Fusion: co-registration with elastic deformation.
+> - Cognitive, fusion, in-bore: similar yield.
+> - PROMIS and PRECISION: MRI before biopsy.
+
+---
+
+## Q3d. Artificial intelligence in urology
+**Type:** SAQ (10 marks)
+
+### Definitions
+- **AI (artificial intelligence):** computer systems doing tasks that need human intelligence: recognising patterns, predicting, deciding.
+- **ML (machine learning):** algorithms learn from data rather than fixed rules. **Supervised** (labelled data, e.g. tumour or not), **unsupervised** (finds clusters), reinforcement.
+- **Deep learning:** multilayer **ANNs (artificial neural networks)**; **CNNs (convolutional neural networks)** are the commonest for images.
+- **NLP (natural language processing)** and **LLMs (large language models)** handle text; **radiomics** extracts quantitative image features.
+
+### Development steps
+```
+Data collection and labelling → training → internal validation
+ → external validation → regulatory approval → use and monitoring
+```
+
+### Applications
+| Area | Examples |
+|---|---|
+| Imaging | CNNs detect stones on CT (computed tomography) with very high sensitivity; ANNs detect renal tumours; prostate MRI (magnetic resonance imaging) lesion detection; deep-learning reconstruction allows ultra-low-dose CT (about 1 mSv) |
+| Pathology | Automated cancer detection and Gleason grading on digital slides; Paige Prostate was the first FDA (Food and Drug Administration)-authorised AI pathology tool (2021) |
+| Endoscopy | Real-time bladder-tumour detection at cystoscopy; future ureteroscopes setting laser energy, irrigation, pressure and temperature |
+| Stones | Predict composition and stone-free outcome |
+| Prognosis | Radiomics, pathomics and genomics combined for RCC (renal cell carcinoma) prognosis; AI on biopsy slides predicting benefit of ADT (androgen deprivation therapy) with radiotherapy |
+| Robotic surgery | Video and kinematic data for skill assessment, outcome prediction, real-time guidance; future semi-autonomy |
+| Paediatrics | Deep learning on ultrasound predicts CKD (chronic kidney disease) progression in valves; VUR (vesicoureteral reflux) infection-risk models |
+| Others | Urodynamics interpretation; LLM chatbots for patient information |
+
+### Advantages
+- Fast big-data processing; consistency; decision support.
+
+### Limitations and ethics
+- Needs large, high-quality labelled data; **bias** and poor generalisability (overfitting); "black box" decisions; few prospective or external validations.
+- Privacy and data sharing; medico-legal liability; LLM "hallucinations"; regulation.
+- AI assists, not replaces, the urologist or radiologist.
+
+**Diagram to draw:** neural network: input layer (image pixels), hidden layers, output (stone or no stone).
+
+> **Key points to remember:**
+> - Deep learning is part of ML, which is part of AI; CNNs for images.
+> - CNNs: very high sensitivity for CT stones.
+> - Paige Prostate: first FDA-authorised AI pathology tool (2021).
+> - Limits: data, bias, black box, validation, liability.
+
+---
+
+## Q3e. Indications of genomic testing in carcinoma prostate
+**Type:** SAQ (10 marks)
+(PARP [poly-ADP-ribose polymerase] inhibitors also answered in 2024-Winter Paper 4, Q3f)
+
+### Types of test
+| Type | Sample | What it finds | Use |
+|---|---|---|---|
+| **Germline** | Blood or saliva | Inherited variants: BRCA2, BRCA1, ATM, CHEK2, PALB2, HOXB13, MMR (mismatch repair: MLH1, MSH2, MSH6, PMS2) | Therapy, family testing, screening |
+| **Somatic** | Tumour tissue (usually primary) or ctDNA (circulating tumour DNA) | HRR (homologous recombination repair) genes, CDK12, MSI-H (microsatellite instability-high)/dMMR (MMR deficiency) | Targeted therapy |
+| **Gene-expression classifiers** | Biopsy or prostatectomy tissue | Decipher (22 RNA markers); Oncotype DX GPS (Genomic Prostate Score, 17 genes); Prolaris (cell-cycle genes) | Prognosis |
+
+### Indications: germline testing
+- **All metastatic** disease (AUA [American Urological Association], NCCN [National Comprehensive Cancer Network]): over 10% carry actionable DNA-repair mutations.
+- **High- or very-high-risk** localised disease.
+- **Intermediate risk with intraductal or cribriform histology** (consider).
+- **Family history:** early-onset or metastatic prostate cancer (relative <60 years); BRCA-related (breast, ovarian, pancreatic) or Lynch-related (colorectal, endometrial, upper tract) cancers; known familial mutation.
+- **Ashkenazi Jewish ancestry.**
+- **Why:** PARP inhibitor eligibility; caution with active surveillance in BRCA2; carrier screening; cascade testing of relatives with counselling.
+
+### Indications: somatic testing
+- **Metastatic disease, especially mCRPC (metastatic castration-resistant prostate cancer):** HRR alterations in up to 20–25%.
+  - **HRR (BRCA2 most)** → PARP inhibitors (olaparib, rucaparib, niraparib, talazoparib).
+  - **MSI-H/dMMR** (2–5%) → pembrolizumab (tumour-agnostic FDA [Food and Drug Administration] approval, 2017); then germline Lynch testing.
+- Tissue preferred; ctDNA alternative, but **CHIP (clonal haematopoiesis of indeterminate potential)** gives false calls.
+
+### Indications: tissue classifiers
+- **Low and favourable-intermediate risk:** active surveillance versus treatment; surveillance intensity. Never the sole basis.
+- **Intermediate and high risk:** metastasis risk guides treatment intensity.
+- **After prostatectomy:** high Decipher score may favour adjuvant or early salvage radiotherapy (retrospective evidence).
+- **Limits:** tumour heterogeneity, retrospective data, cost.
+
+- **Also know:** ConfirmMDx methylation before repeat biopsy; polygenic risk scores.
+
+**Diagram to draw:** flowchart: metastatic → germline + somatic; localised high-risk or family history → germline; localised low or intermediate → tissue classifier.
+
+> **Key points to remember:**
+> - Germline: all metastatic, high-risk, family history, Ashkenazi.
+> - Somatic: HRR → PARP inhibitors; MSI-H → pembrolizumab.
+> - BRCA2: aggressive; avoid casual active surveillance.
+> - Decipher, Oncotype GPS, Prolaris: prognosis only.
+
+---
+
+## Q3f. Gene therapy in urology
+**Type:** SAQ (10 marks)
+(intravesical gene therapy also answered in 2022-Summer Paper 2, Q3a)
+
+### Definition
+- Delivery of nucleic acid (DNA or RNA) into cells to treat disease: add, replace or silence a gene.
+
+### Vectors
+| Vector | Features |
+|---|---|
+| **Adenovirus** | Efficient, non-integrating, transient expression; replication-incompetent or oncolytic |
+| Retrovirus, lentivirus | Integrate: long expression, risk of insertional mutagenesis |
+| AAV (adeno-associated virus) | Low immunogenicity, long expression |
+| Non-viral | Naked plasmid, liposomes, nanoparticles: safer, less efficient |
+| Gene silencing | siRNA (small interfering RNA), antisense; CRISPR (clustered regularly interspaced short palindromic repeats) editing experimental |
+
+### Strategies in urological cancer
+1. **Immunogene (cytokine) therapy:** **nadofaragene firadenovec**: replication-incompetent adenovirus type 5 carrying the **interferon-α2b gene** with **Syn3** surfactant, which crosses the bladder's protective barrier. The urothelium keeps secreting interferon, overcoming the 1–2-hour dwell of protein interferon. 75 mL every 3 months; CIS (carcinoma in situ) complete response **53% at 3 months, 24% at 12 months**. **FDA (Food and Drug Administration) approved December 2022** for BCG (bacille Calmette–Guérin)-unresponsive NMIBC (non-muscle-invasive bladder cancer).
+2. **Oncolytic virus:** **cretostimogene (CG0070)**: replication-competent adenovirus; E2F promoter limits replication to RB (retinoblastoma) pathway-defective tumour cells; **GM-CSF (granulocyte-macrophage colony-stimulating factor)** transgene adds immunity.
+3. **Suicide gene:** HSV-tk (herpes simplex virus thymidine kinase) turns ganciclovir or valacyclovir into a toxin; prostate cancer with radiotherapy (trials).
+4. **Toxin gene under a tumour promoter:** BC-819 (diphtheria toxin A, H19 promoter).
+5. **Gene-modified cells:** CAR-T (chimeric antigen receptor T cells) against PSMA (prostate-specific membrane antigen): early trials, toxic. Viral-vector vaccine PROSTVAC failed.
+
+### Benign conditions
+- **OAB (overactive bladder) and ED (erectile dysfunction):** URO-902 (hMaxi-K) plasmid for the BK potassium channel relaxes smooth muscle; phase 1 only.
+- **Primary hyperoxaluria type 1:** lumasiran (RNA interference against glycolate oxidase) lowers oxalate.
+- Underactive detrusor: experimental.
+
+### Challenges
+- Delivery barriers, vector immunity, short expression, cost, biosafety.
+
+**Diagram to draw:** adenovirus → urothelial cell → interferon secretion → tumour apoptosis.
+
+> **Key points to remember:**
+> - Nadofaragene: non-replicating adenovirus + interferon-α2b + Syn3; FDA 2022.
+> - CIS CR 53% at 3 months, 24% at 12 months.
+> - Cretostimogene: oncolytic adenovirus + GM-CSF.
+> - Lumasiran: RNA interference for primary hyperoxaluria type 1.
 
 
 ---
@@ -415,39 +453,44 @@
 - RAPN trifecta: negative margin, no major complication, warm ischaemia ≤25 min.
 - Trendelenburg causes oedema and raised IOP; avoid shoulder braces.
 
-#### Q3a. Female kidney donors: enumerate special precautions (SAQ)
+#### Q3a. Newer PCNL techniques and nomenclature of miniaturised PCNL (SAQ)
 
-- Ensure free consent (Indian gender gap).
-- Pregnancy test; contraception; stop oestrogens.
-- Donors: gestational hypertension or pre-eclampsia about 11% vs 5%.
-- Defer pregnancy; high-risk antenatal follow-up.
+- Standard 24–34, mini 15–22, ultra-mini 11–14, micro <10 Fr.
+- Jackman 1998: first mini-perc (13 Fr).
+- Working channel decides instruments; suction lowers pressure.
+- Mini: fewer transfusions, longer time; equal to 24 Fr.
 
-#### Q3b. Define Marginal donor. Mention components of Remuzzi scoring system for preemptive renal biopsy of marginal donor kidneys. (SAQ)
+#### Q3b. VI-RADS (SAQ)
 
-- ECD: ≥60, or 50–59 with 2 of hypertension, creatinine >1.5, CVA death.
-- Remuzzi: glomeruli, tubules, interstitium, vessels; 0–3 each.
-- 0–3 single, 4–6 dual, ≥7 discard.
+- Five points; tests the dark muscle line on T2W.
+- ≥3 suspicious for MIBC; 4 line broken, 5 fat.
+- Scan before TURBT.
+- Panebianco 2018; accuracy about 80–90%.
 
-#### Q3c. Studer Neobladder. (SAQ)
+#### Q3c. PI-RADS and MRI–ultrasound fusion biopsy (SAQ)
 
-- 54–56 cm ileum, 15–20 cm from ICV: 40–44-cm U plus afferent limb.
-- Refluxing end-to-side ureters; stricture <3%; kidneys preserved ~95%.
-- Sitting Valsalva voiding, timed voiding, night alarm.
+- Peripheral zone by DWI, transition zone by T2W; DCE only lifts peripheral 3 to 4.
+- Fusion: co-registration with elastic deformation.
+- Cognitive, fusion, in-bore: similar yield.
+- PROMIS and PRECISION: MRI before biopsy.
 
-#### Q3d. Neobladder. (SAQ)
+#### Q3d. Artificial intelligence in urology (SAQ)
 
-- Detubularised ileal sphere: low pressure, large capacity; continence depends on the rhabdosphincter.
-- Needs a tumour-free urethral margin, eGFR (estimated glomerular filtration rate) >35–40 mL/min and ability to self-catheterise.
-- Day continence about 90%; night incontinence up to half; refluxing ureteric anastomosis is acceptable (USC (University of Southern California) trial).
+- Deep learning is part of ML, which is part of AI; CNNs for images.
+- CNNs: very high sensitivity for CT stones.
+- Paige Prostate: first FDA-authorised AI pathology tool (2021).
+- Limits: data, bias, black box, validation, liability.
 
-#### Q3e. Secondary tumors after urinary diversion. (SAQ)
+#### Q3e. Indications of genomic testing in carcinoma prostate (SAQ)
 
-- Ureterosigmoidostomy: highest risk; colonoscopy from year 5.
-- Mostly adenocarcinoma at the anastomosis.
-- Excise defunctioned anastomoses.
+- Germline: all metastatic, high-risk, family history, Ashkenazi.
+- Somatic: HRR → PARP inhibitors; MSI-H → pembrolizumab.
+- BRCA2: aggressive; avoid casual active surveillance.
+- Decipher, Oncotype GPS, Prolaris: prognosis only.
 
-#### Q3f. Urethral stents. (SAQ)
+#### Q3f. Gene therapy in urology (SAQ)
 
-- Temporary (Memokath, Allium) vs permanent (UroLume, withdrawn).
-- Migration, encrustation, ingrowth; never cross the sphincter.
-- AUA: no stent if urethroplasty planned; Optilume and iTind are newer.
+- Nadofaragene: non-replicating adenovirus + interferon-α2b + Syn3; FDA 2022.
+- CIS CR 53% at 3 months, 24% at 12 months.
+- Cretostimogene: oncolytic adenovirus + GM-CSF.
+- Lumasiran: RNA interference for primary hyperoxaluria type 1.

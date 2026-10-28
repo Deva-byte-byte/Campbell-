@@ -53,8 +53,10 @@
 - **Ureterointestinal anastomosis:** spatulated, tension-free, mucosa to mucosa, stented. **Wallace** (ureters joined, refluxing) has the lowest stricture rate (~3%); **Bricker** end-to-side 4–22%; antireflux tunnels (Leadbetter–Clarke) stricture more (8–14%). Reflux with normal ureters has not been shown to harm the adult kidney.
 - **Stoma:** protruding "rosebud" for appliances; flush for catheterised pouches; loop-end (Turnbull) in obese patients.
 
-### Renal function needed for continent diversion
-- Creatinine <2 mg/dL; GFR (glomerular filtration rate) >35 mL/min; urine pH ≤5.8 after ammonium chloride load; osmolality ≥600 mOsm/kg after water deprivation; minimal proteinuria.
+### Selecting conduit versus continent diversion
+- **Renal function for continent diversion:** creatinine <2 mg/dL; GFR (glomerular filtration rate) >35 mL/min; urine pH ≤5.8 after ammonium chloride load; osmolality ≥600 mOsm/kg after water deprivation; minimal proteinuria.
+- **Contraindications to continent diversion:** poor renal or hepatic function, inability or unwillingness to self-catheterise, inflammatory bowel disease or short gut. A neobladder also needs a tumour-free urethra and a competent sphincter.
+- A conduit is simplest and fastest; continent options improve body image but carry more reoperations and metabolic problems.
 
 ### Complications
 **Metabolic** (worse with longer segment, longer contact time, poorer renal function)
@@ -92,14 +94,14 @@
 ### Definition and introduction
 - **cT3–4, N0 or N1, M0:** extracapsular extension (T3a), seminal vesicle invasion (T3b), fixed or invading adjacent organs (T4), ± pelvic nodes.
 - At least 10% of new cases. Any single treatment carries a high recurrence risk, so **multimodal therapy** is the rule. In the PSA (prostate-specific antigen) era, high risk is defined more by grade and PSA than by palpation.
-- Untreated, it does badly: in the Swedish cohort 15-year disease-specific survival was 57% for T3–T4 vs 81% for T1–T2.
+- Untreated, 15-year disease-specific survival is 57% for T3–T4 vs 81% for T1–T2 (Swedish cohort).
 
 ### Evaluation
 - **DRE (digital rectal examination)**, PSA, biopsy ISUP (International Society of Urological Pathology) grade group.
 - **mpMRI (multiparametric MRI):** separates T2 from T3 (PI-RADS v2 reporting).
 - **Bone scan + CT/MRI**, or **PSMA (prostate-specific membrane antigen) PET-CT**. proPSMA trial: accuracy 92% vs 65% for conventional imaging.
-- Risk tools: NCCN (National Comprehensive Cancer Network) very high risk = cT3b–T4, primary Gleason pattern 5, or >4 cores grade group 4–5; CAPRA (Cancer of the Prostate Risk Assessment); Decipher genomic classifier.
-- Assess life expectancy and comorbidity. A fit man in his 70s with high-grade disease will live long enough to die of it.
+- NCCN (National Comprehensive Cancer Network) very high risk: cT3b–T4, primary Gleason pattern 5, or >4 cores grade group 4–5. **Also know:** CAPRA (Cancer of the Prostate Risk Assessment) score; Decipher.
+- Assess life expectancy: a fit man in his 70s with high-grade disease will live long enough to die of it.
 
 ### A. Radiotherapy (RT) + long-term ADT (androgen deprivation therapy): standard
 - Dose-escalated IMRT (intensity-modulated RT, ≥78–81 Gy), or EBRT (external-beam RT) with brachytherapy boost (**ASCENDE-RT:** LDR (low-dose-rate) boost halved biochemical failure; overall survival (OS) equal).
@@ -117,9 +119,9 @@
 
 ### C. Radical prostatectomy (RP) + extended PLND (pelvic lymph node dissection)
 - For fit men with a resectable tumour, as part of multimodal therapy. cT3 is overstaged in 7–27%. RP alone gives disease-free survival in at least half at 8–10 years, and 10-year disease-specific survival ~80–90%.
-- **Advantages:** accurate pathological staging, removes the source of local morbidity, makes PSA follow-up clear.
+- **Advantages:** accurate pathological staging; removes the source of local morbidity.
 - **Neoadjuvant ADT before RP:** clinical downstaging and fewer positive margins, but **no survival gain**.
-- **Post-RP RT:** EORTC 22911, SWOG 8794 (metastasis-free survival and OS improved) and ARO 96-02 favour adjuvant RT over observation. **RADICALS-RT, RAVES, GETUG-AFU 17:** **early salvage RT** is preferred for most men. Adjuvant RT is still considered for very high risk (pT3b, Gleason 8–10, positive margin). Dose 64–66 Gy; GETUG-AFU 16: add 6 months ADT to salvage RT.
+- **Post-RP RT:** EORTC 22911, SWOG 8794 (metastasis-free survival and OS improved) and ARO 96-02 favour adjuvant RT over observation. **RADICALS-RT, RAVES, GETUG-AFU 17:** **early salvage RT** is preferred for most men. Adjuvant RT is still considered for very high risk (pT3b, Gleason 8–10, positive margin). Dose 64–66 Gy; adding short-term ADT to salvage RT improved progression-free survival (GETUG-AFU 16).
 - Positive margin carries the highest relative risk of progression.
 
 ### D. ADT alone
@@ -143,14 +145,12 @@ cT3–4 / cN1, M0 (PSMA PET or CT + bone scan)
 ### Complications and local sequelae
 - ADT: hot flushes, osteoporosis, metabolic syndrome, cardiovascular risk, loss of libido; give bone protection.
 - RT: proctitis, cystitis, urethral stricture. RP: incontinence, erectile dysfunction.
-- A prostate left in place can cause outflow obstruction, haematuria and ureteric obstruction (TURP (transurethral resection of the prostate), stents or nephrostomy).
+- A prostate left in place can cause outflow obstruction, haematuria and ureteric obstruction.
 - **Also know:** cryotherapy and HIFU (high-intensity focused ultrasound) are not standard.
 
-### Follow-up
-- PSA every 3–6 months; testosterone, bone health, metabolic profile; PSMA PET for rising PSA.
-
-### Recent advances
-- PSMA PET staging; trials adding apalutamide or enzalutamide (ATLAS, ENZARAD); SPCG-15 (RP vs RT + ADT); genomic classifiers guiding therapy.
+### Follow-up and recent advances
+- PSA every 3–6 months; bone and metabolic health.
+- PSMA PET staging; trials adding apalutamide or enzalutamide (ATLAS, ENZARAD); SPCG-15 (RP vs RT + ADT).
 
 **Diagram to draw:** T-stage diagram (T3a extracapsular, T3b seminal vesicle, T4 adjacent organs).
 
@@ -236,7 +236,7 @@ Deglove to penoscrotal junction + excise dysplastic dartos → erection test
 | Risk | Shortening; dorsal nerve injury off midline | Longer, staged; theoretical erectile dysfunction |
 
 - **Plate division** (transection) releases a short plate; not dividing it is an independent risk factor for recurrence. Repair is then staged.
-- **Also know:** "fairy cuts" (superficial incisions); ventral corporal rotation; septotomy; lateral or dorsal curves need multipoint plication; correct **torsion** by dartos flap rotation.
+- **Also know:** "fairy cuts" (superficial tunical incisions); lateral or dorsal curves need multipoint plication; correct **torsion** by dartos flap rotation.
 - **Rule:** correct fully the first time and repeat the erection test before urethroplasty. Curvature may recur at puberty.
 
 **Diagram to draw:** penile cross-section with dorsal nerves at 11 and 1 o'clock and midline plication at 12.
@@ -265,14 +265,14 @@ Deglove to penoscrotal junction + excise dysplastic dartos → erection test
 
 ### Evaluation
 - **VCUG (voiding cystourethrogram):** dilated anterior urethra proximal to the valve, diverticulum, trabeculated bladder, bladder diverticula, often VUR (vesicoureteric reflux).
-- Ultrasound of kidneys and bladder; creatinine; urethroscopy confirms; urodynamics later.
+- Ultrasound, creatinine; urethroscopy confirms.
 - **Differential:** Cowper syringocele, megalourethra, acquired diverticulum, stricture.
 
 ### Management
 - **Premature or small infant:** vesicostomy until the urethra takes a cystoscope.
 - **Most cases:** **endoscopic valve ablation** (Bugbee electrode or laser), usually definitive.
 - **Large diverticulum:** open excision and urethroplasty over a catheter.
-- Treat VUR, infection and bladder dysfunction; follow renal function.
+- Then manage VUR, infection and bladder dysfunction.
 
 ### AUV versus PUV
 | Feature | AUV | PUV |
@@ -302,7 +302,7 @@ Deglove to penoscrotal junction + excise dysplastic dartos → erection test
 *Read as: surgical repair of vaginal wall and vault prolapse (pelvic organ prolapse).*
 
 ### Principles
-- POP (pelvic organ prolapse) is a quality-of-life condition: operate for bother, not anatomy. The first operation gives the best chance; recurrence rises with each attempt.
+- POP (pelvic organ prolapse) is a quality-of-life condition: operate for bother, not anatomy. The first operation gives the best chance.
 - Identify each compartment by POP-Q (Pelvic Organ Prolapse Quantification). **The apex is the cornerstone**: failing to support it greatly raises recurrence.
 - **Three categories:** **restorative** (native tissue), **compensatory** (graft or mesh, for weak tissue or failed repair), **obliterative**.
 - Vaginal route: fewer complications, quicker recovery. Abdominal route: more durable.
@@ -315,13 +315,13 @@ Deglove to penoscrotal junction + excise dysplastic dartos → erection test
 | **Apical** (uterus, vault) | **Uterosacral suspension** (ureter injury 1–11%); **sacrospinous fixation** (suture 1.5–3 cm medial to the ischial spine; gluteal pain 15%); iliococcygeus suspension; McCall culdoplasty; vaginal hysterectomy; hysteropexy; Manchester | OPTIMAL trial: uterosacral = sacrospinous at 2 years |
 | **Apical, abdominal** | **Sacrocolpopexy** (open, laparoscopic, robotic): macroporous polypropylene mesh from vaginal apex to sacral promontory | Most durable (>90%); mesh exposure ~10% long term (CARE) |
 | **Posterior** (rectocele) | **Midline fascial plication** without levatorplasty; site-specific repair; perineorrhaphy | Levator plication causes dyspareunia; constipation may persist |
-| **Obliterative** | **Le Fort** (partial, uterus in situ, lateral channels) or total colpocleisis | Elderly, not sexually active; success >90%; regret ≤13% |
+| **Obliterative** | **Le Fort** (partial, uterus in situ, lateral channels) or total colpocleisis | Elderly, not sexually active; success >90%; coital regret ≤13% |
 
-- Cochrane 2016: vaginal apical repair has more recurrence, reoperation and dyspareunia than sacrocolpopexy, but suits many older women.
+- Cochrane 2016: vaginal apical repair has more recurrence and dyspareunia than sacrocolpopexy, but suits many older women.
 - Transvaginal synthetic mesh for POP was withdrawn in the USA (FDA (Food and Drug Administration), 2019).
 
 ### Complications
-- Bleeding, bladder, ureter or rectal injury; retention; de novo SUI; dyspareunia; recurrence (anterior commonest after sacrospinous fixation); mesh exposure; presacral haemorrhage.
+- Bladder, ureter or rectal injury; retention; de novo SUI; dyspareunia; recurrence (anterior after sacrospinous fixation); mesh exposure.
 
 **Diagram to draw:** DeLancey levels of support with sacrospinous and sacrocolpopexy fixation points.
 
@@ -338,7 +338,7 @@ Deglove to penoscrotal junction + excise dysplastic dartos → erection test
 
 ### Definition
 - A severe **proximal hypospadias**: meatus at the penoscrotal junction, scrotum or perineum, with severe ventral curvature, a short penis, bifid scrotum and often **penoscrotal transposition**.
-- Results from failure of androgen-dependent urethral fold fusion (8–16 weeks).
+- Cause: failed androgen-dependent urethral fold fusion (8–16 weeks).
 
 ### Evaluation
 - Examine stretched penile length, glans width, transposition and **both testes**.
@@ -365,7 +365,6 @@ Deglove to penoscrotal junction + excise dysplastic dartos → erection test
 
 ### Complications
 - **23–68%**; 25–75% need further surgery. **Fistula** commonest (3–45%), glans dehiscence, meatal stenosis, stricture, **diverticulum** (long rigid neourethra raises resistance: Poiseuille's law), recurrent curvature, hair-bearing urethra.
-- Follow through puberty with patient-reported outcomes.
 
 **Diagram to draw:** two-stage graft repair: stage 1 graft bed, stage 2 tubularisation.
 
@@ -407,7 +406,7 @@ Deglove to penoscrotal junction + excise dysplastic dartos → erection test
 
 ### Bilateral-specific points
 - **Never ligate both testicular arteries**: in adults this has caused azoospermia and atrophy. So artery-sparing microsurgery is safest bilaterally.
-- Left-only or isolated right varicocele, or one that does not decompress lying down: image for a renal or retroperitoneal mass.
+- An isolated right varicocele, or one that does not decompress lying down: image for a renal or retroperitoneal mass.
 - Repair any coexisting hydrocele.
 
 ### Complications

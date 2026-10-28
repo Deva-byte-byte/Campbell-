@@ -176,7 +176,7 @@ LUTS throughout: α-blocker; no 5ARI until cancer excluded
 | BOOI (bladder outlet obstruction index) | PdetQmax − 2Qmax | >40 obstructed; 20–40 equivocal; <20 unobstructed |
 | BCI (bladder contractility index) | PdetQmax + 5Qmax | >150 strong; 100–150 normal; <100 weak |
 
-- High pressure + low flow = BOO; low pressure + low flow = DUA.
+- High pressure, low flow = BOO; low pressure, low flow = DUA.
 - **Videourodynamics** adds anatomy (diverticula, reflux).
 
 ### Indications before BPH (benign prostatic hyperplasia) surgery (EAU (European Association of Urology))
@@ -193,7 +193,7 @@ LUTS throughout: α-blocker; no 5ARI until cancer excluded
 - **Low compliance:** the only "absolute" urodynamic indication to relieve BOO (protects upper tracts).
 
 ### Evidence and limitations
-- Not routine (EAU, AUA). **UPSTREAM RCT (randomised controlled trial):** adding UDS to routine care did not change IPSS (International Prostate Symptom Score) or surgery rates at 18 months.
+- Not routine. **UPSTREAM RCT (randomised controlled trial):** routine UDS did not change IPSS (International Prostate Symptom Score) or surgery rates.
 - Invasive: UTI (urinary tract infection), discomfort, cost. Before **radical prostatectomy**, not routine.
 
 **Diagram to draw:** ICS nomogram with obstructed, equivocal and unobstructed zones.
@@ -354,7 +354,7 @@ Agonist → LH surge (flare) → receptor down-regulation
 
 ### Watchful waiting
 - Switch AS to WW when life expectancy falls below about 5–10 years.
-- **Also know:** genomic tests refine selection; 5ARI (5α-reductase inhibitor) has no proven role; Black men remain candidates with closer monitoring.
+- **Also know:** genomic tests refine selection; 5ARI (5α-reductase inhibitor) has no proven role.
 
 **Diagram to draw:** AS flowchart: diagnosis → MRI + confirmatory biopsy → surveillance → trigger → treatment.
 
@@ -372,7 +372,7 @@ Agonist → LH surge (flare) → receptor down-regulation
 
 ### Definition and rationale
 - Clinical staging (DRE (digital rectal examination), PSA (prostate-specific antigen), grade, imaging) misses occult spread and cannot fully predict behaviour.
-- **Molecular staging** uses DNA, RNA or protein markers in tissue, blood or nodes to detect hidden disease and predict outcome beyond clinical stage.
+- **Molecular staging** uses DNA, RNA or protein markers in tissue, blood or nodes to find hidden disease and predict outcome.
 
 ### 1. Detection of occult spread
 - **RT-PCR (reverse transcription polymerase chain reaction)** for PSA or PSMA (prostate-specific membrane antigen) mRNA in blood, marrow or "negative" nodes: detects micrometastases, but inconsistent, so not used clinically.
