@@ -34,16 +34,16 @@
 ### Diagnosis
 - Triad: **blood at the meatus, inability to void, palpable bladder**. A "high-riding" prostate is unreliable.
 - **Blood at the meatus mandates RUG (retrograde urethrogram)** before catheterisation (oblique, 20 mL contrast). Extravasation with bladder filling means partial injury; without filling, complete.
-- Females: vaginal examination and urethroscopy. Cystogram or CT for bladder injury.
+- Females: vaginal examination and urethroscopy. Cystogram or CT (computed tomography) for bladder injury.
 
 ### Early management
 1. ATLS (Advanced Trauma Life Support) resuscitation; associated injuries take priority.
 2. **SPC (suprapubic cystostomy): the standard of care.** Percutaneous (peel-away sheath, 16 Fr Foley; avoid small "punch" tubes) or open through a lower midline incision, which allows bladder inspection.
    - SPC is safe with pelvic plating (AUA [American Urological Association] Urotrauma guideline); tunnel it high, away from hardware.
 3. **Primary realignment (PR):** a brief attempt in a stable patient, within days, by antegrade plus retrograde flexible cystoscopy over a guidewire. Catheter out at 4–6 weeks; keep the SPC until voiding is good.
-4. Partial tear: one gentle catheter attempt is acceptable.
+4. Partial tear: one gentle catheter attempt allowed.
 5. **Immediate open exploration** only for bladder neck or rectal injury, or laparotomy for other reasons.
-- **Also know:** female urethral injury is usually repaired early, with closure of any vaginal laceration.
+- **Also know:** female urethral injuries are usually repaired early.
 
 ### SPC versus primary realignment
 | | SPC + delayed urethroplasty | Primary realignment |
@@ -75,15 +75,15 @@
 | 3 | Inferior wedge pubectomy (Kerrison rongeur) |
 | 4 | Supracrural rerouting of the urethra around one corpus |
 
-- **Abdominoperineal or transpubic approach:** urethrorectal fistula, failed previous repair, bladder neck injury, children.
-- **Postoperative:** contrast voiding study at 21–28 days; flexible cystoscopy at about 6 months.
+- **Abdominoperineal or transpubic approach:** urethrorectal fistula, failed repair, bladder neck injury, children.
+- **Postoperative:** voiding study at 21–28 days; cystoscopy at about 6 months.
 
 ### Outcomes and complications
 - Success above 95%. Restenosis 5–15%; often DVIU-treatable because the scar is already excised.
 - **ED** up to 82%, mostly from the injury (cavernous nerves, pudendal arteries). **Incontinence <4%** (bladder neck). Follow ≥1 year.
 - **Also know:** chordee, penile shortening, ejaculatory dysfunction, lithotomy neuropathy, penile Doppler before repair in impotent men.
 
-**Diagram to draw:** sagittal pelvis showing the gap at the bulbomembranous junction, with the four steps of the progressive perineal approach.
+**Diagram to draw:** sagittal pelvis showing the bulbomembranous gap and the four progressive perineal steps.
 
 > **Key points to remember:**
 > - Blood at meatus → RUG; SPC is the standard initial step.
@@ -112,7 +112,7 @@
 | **Lynch syndrome** | Mismatch repair genes (MSH2 highest risk); screen if young or family history |
 | Occupational | Aniline dyes, benzidine, β-naphthylamine |
 | Phenacetin | Papillary necrosis (history in 11% of ureteric tumours) |
-- **Also know:** arsenic, cyclophosphamide, chronic stones and infection (squamous carcinoma).
+- **Also know:** arsenic, cyclophosphamide, chronic stones (squamous carcinoma).
 - **Intraluminal seeding** explains distal predominance and bladder recurrence (22–47%); **field change** explains multifocality.
 
 ### Pathology and spread
@@ -128,10 +128,10 @@
 - **Hydronephrosis predicts invasive ureteric tumour in up to 80%.**
 - **Cystoscopy** always (concurrent bladder cancer 17%). **Selective ureteric cytology**, taken before contrast.
 - **Retrograde pyelography:** **goblet (champagne-glass) sign**, the ureter dilated just below the tumour; **Bergman's sign**, the catheter coiling below it.
-- **Ureteroscopy with biopsy:** grade correct in ~90% but **stage cannot be assessed**. Diagnostic URS before RNU raises bladder recurrence.
+- **URS (ureteroscopy) with biopsy:** grade correct in ~90% but **stage cannot be assessed**. URS before nephroureterectomy raises bladder recurrence.
 - **Also know:** MRU (magnetic resonance urography) if contrast is contraindicated; renogram.
 
-### Staging (TNM 8th edition)
+### Staging (TNM [tumour, node, metastasis] 8th edition)
 | T | Ureter |
 |---|---|
 | Ta / Tis | Papillary non-invasive / carcinoma in situ |
@@ -159,7 +159,7 @@
 | **Distal ureter** | Distal ureterectomy with bladder cuff and reimplantation; psoas hitch (~5 cm extra) or Boari flap (10–15 cm) |
 | Mid or proximal | Excision with 1–2 cm margins (frozen section) and ureteroureterostomy (rare) |
 | Whole ureter | Ileal ureter or autotransplantation |
-- Refluxing reimplant eases surveillance; non-refluxing limits upward seeding (debated).
+- Refluxing reimplant eases surveillance; non-refluxing limits seeding (debated).
 - Adjuvant upper-tract BCG (bacillus Calmette–Guérin) or MMC (mitomycin C).
 
 **B. RNU (radical nephroureterectomy) with bladder cuff:** standard for high risk.
@@ -175,7 +175,7 @@
 - 5-year disease-specific survival: localised ~89%, regional ~63%, distant ~17%. Stage is the strongest factor.
 - Cystoscopy from 3 months and yearly CTU after RNU; closer URS and CTU after kidney-sparing treatment.
 
-**Diagram to draw:** distal ureterectomy with bladder cuff and psoas-hitch reimplantation, beside the goblet sign.
+**Diagram to draw:** distal ureterectomy with psoas-hitch reimplantation, beside the goblet sign.
 
 > **Key points to remember:**
 > - Ureteric tumours: 70% distal; hydronephrosis predicts invasion (up to 80%).
@@ -242,32 +242,32 @@
 | Vanished / agenesis | Lost in utero (torsion) / never formed |
 
 ### Epidemiology and aetiology
-- 1–4% of term boys, far more in preterm; most descend by 6 months. 75–80% palpable; 60–70% unilateral.
+- 1–4% of term boys, more in preterm; most descend by 6 months. 75–80% palpable; 60–70% unilateral.
 - Descent needs **INSL3 (insulin-like peptide 3)** and **androgen** acting on the gubernaculum. Risk factors: prematurity, low birth weight, syndromes (prune belly, cerebral palsy).
 
 ### Evaluation
 - Warm room, supine and cross-legged; sweep from the anterior superior iliac spine to the scrotum to find the lowest position. Sustained traction fatigues the cremaster and separates retractile from undescended.
-- **No ultrasound or MRI** (ultrasound sensitivity 45% for non-palpable testes).
-- **Bilateral non-palpable, or with hypospadias:** karyotype, 17-OHP (17-hydroxyprogesterone), AMH (anti-Müllerian hormone) to exclude **CAH (congenital adrenal hyperplasia)** and DSD (differences of sex development).
+- **No ultrasound or MRI (magnetic resonance imaging)**: ultrasound sensitivity 45% for non-palpable testes.
+- **Bilateral non-palpable or with hypospadias:** karyotype, 17-OHP (17-hydroxyprogesterone), AMH (anti-Müllerian hormone) to exclude **CAH (congenital adrenal hyperplasia)** and other DSD (differences of sex development).
 
 ### Management
-- Observe to 6 months (corrected age); **orchidopexy from 6 months, preferably by 12, by 18 months at the latest**. No hormonal therapy (LHRH works in about 20%; hCG may harm germ cells).
+- Observe to 6 months (corrected age); **orchidopexy from 6 months, preferably by 12, by 18 months at the latest**. No hormones (LHRH [luteinising hormone-releasing hormone] works in about 20%).
 ```
 Palpable (undescended or ectopic) → inguinal or scrotal (Bianchi) orchidopexy
-Non-palpable → EUA → diagnostic laparoscopy
+Non-palpable → examination under anaesthesia → laparoscopy
    testis seen        → laparoscopic orchidopexy / Fowler–Stephens
    vessels enter ring → inguinal exploration, excise nubbin
-   blind-ending vessels → stop (vanished testis)
+   blind-ending vessels → stop (vanished)
 Retractile → yearly review
 ```
-- Postpubertal intra-abdominal testis with a normal contralateral testis: orchidectomy.
+- Postpubertal intra-abdominal testis, normal contralateral: orchidectomy.
 
 ### Sequelae
 - **Infertility:** paternity about four-fifths after unilateral, one-third after bilateral.
-- **Cancer:** 2–5-fold TGCT (testicular germ cell tumour) risk; higher with surgery after puberty. Teach self-examination.
+- **Cancer:** 2–5-fold TGCT (testicular germ cell tumour) risk, higher with late surgery; teach self-examination.
 - **Also know:** hernia, torsion, trauma.
 
-**Diagram to draw:** normal line of descent with ectopic sites marked.
+**Diagram to draw:** line of descent with ectopic sites.
 
 > **Key points to remember:**
 > - Ectopic = off the path; commonest site superficial inguinal pouch.
@@ -308,7 +308,7 @@ Retractile → yearly review
 ### Outcomes
 - Pfistermuller meta-analysis (2015): complications 10.6%, fistula 5.7%, meatal stenosis 3.6%; **proximal and redo cases did significantly worse**. A dartos barrier layer improves results.
 
-**Diagram to draw:** cross-sections of plate incision, inlay graft in the incision, and tubularisation.
+**Diagram to draw:** cross-sections: plate incision, inlay graft, tubularisation.
 
 > **Key points to remember:**
 > - Extended to midshaft, selected proximal, redo, MIP and adults.
@@ -325,7 +325,7 @@ Retractile → yearly review
 *"Distal hypos." is taken as distal hypospadias.*
 
 ### Introduction
-- **TIP (tubularised incised plate) urethroplasty**, Snodgrass 1994, based on Rich's hinging incision (1989). Used for over 90% of distal repairs.
+- **TIP (tubularised incised plate) urethroplasty**: Snodgrass 1994, after Rich's hinging incision (1989). Used for over 90% of distal repairs.
 - Distal hypospadias forms 70–85% of cases.
 
 ### Principle
@@ -335,7 +335,7 @@ Retractile → yearly review
 ### Indications and assessment
 - Distal hypospadias with curvature <30° after degloving, and an adequate plate and glans.
 - **Glans width <14 mm** raises complications: give preoperative testosterone.
-- **POST:** low ratio means a poor plate; consider an inlay graft.
+- **POST (plate objective scoring tool):** a low ratio favours an inlay graft.
 - Timing: 6–12 months of age.
 
 ### Operative steps
@@ -346,11 +346,11 @@ Retractile → yearly review
 5. Tubularise over a **6–8 Fr stent** with subepithelial 6-0/7-0 absorbable sutures, distal to proximal; the first stitch about 3 mm from the plate end leaves an oval meatus.
 6. **Dartos flap** (dorsal preputial) over the neourethra as a barrier.
 7. Two-layer glansplasty; mucosal collar; skin closure (Byars flaps) or preputioplasty.
-8. Stent 5–7 days; compressive dressing; oxybutynin for spasm.
+8. Stent 5–7 days; compressive dressing; oxybutynin.
 
 ### Complications and outcomes
 - Pfistermuller meta-analysis (2015, 4,675 boys): complications 10.6%, reoperation 4.5%; **fistula 5.7%**, meatal stenosis 3.6%, stricture 1.3%.
-- **Meatal stenosis is commoner than after Mathieu**; overall complications similar. Glans dehiscence also occurs.
+- **Meatal stenosis is commoner than after Mathieu**; glans dehiscence also occurs.
 - Distal repair success 83–95%.
 
 ### Modifications
@@ -375,9 +375,9 @@ Retractile → yearly review
 - A sex chromosome DSD (difference of sex development), usually **45,X/46,XY mosaicism** (about 1 in 5,000 births). **Second commonest cause of neonatal atypical genitalia after CAH (congenital adrenal hyperplasia).**
 
 ### Pathogenesis
-- The Y-bearing cell line forms a testis; the 45,X line leaves a streak.
-- AMH (anti-Müllerian hormone) and testosterone act **locally**, so anatomy is asymmetric: **testis side**, Wolffian duct and Müllerian regression; **streak side**, tube and hemiuterus.
-- 45,X/46,XY spectrum: female genitalia (Turner + Y), atypical genitalia (MGD), or male genitalia with normal testes (about 85%).
+- The Y-bearing line forms a testis; the 45,X line leaves a streak.
+- AMH (anti-Müllerian hormone) and testosterone act **locally**, so anatomy is asymmetric: Wolffian duct on the **testis side**; tube and hemiuterus on the **streak side**.
+- 45,X/46,XY spectrum: female (Turner + Y), atypical (MGD) or male with normal testes (about 85%).
 
 ### Clinical features
 - **Asymmetric genitalia:** phallus with chordee, perineal hypospadias, urogenital sinus; one testis in a hemiscrotum, the other side impalpable. Hernia may contain a uterus or tube.
@@ -386,7 +386,7 @@ Retractile → yearly review
 ### Evaluation (MDT, multidisciplinary team)
 - **Karyotype** (many cells, for mosaicism); **17-OHP (17-hydroxyprogesterone)** to exclude CAH; LH (luteinising hormone), FSH (follicle-stimulating hormone), testosterone, AMH.
 - **Pelvic ultrasound** (uterus, asymmetric gonads); genitography, endoscopy; **laparoscopy with gonadal biopsy**. No gonadectomy during diagnosis.
-- Echocardiography, renal ultrasound.
+- Echocardiography, renal ultrasound (Turner screening).
 
 | | MGD | Ovotesticular DSD |
 |---|---|---|
@@ -396,13 +396,13 @@ Retractile → yearly review
 
 ### Management
 - **Sex of rearing:** individualised; more androgen exposure predicts male identity; dysphoria is commoner when raised female. Avoid irreversible infant surgery.
-- **Gonads:** germ cell neoplasia 15–35% (gonadoblastoma, then dysgerminoma or seminoma) in streak and testis alike. **Remove streak gonads** (biopsy first if tissue uncertain).
-  - Raised male: keep a scrotal testis under surveillance; bring down an intra-abdominal testis if possible.
-  - Raised female: remove the testis, or relocate it for surveillance.
-- **Surgery:** male, hypospadias repair (often staged), orchidopexy; female, feminising surgery deferred.
+- **Gonads:** germ cell neoplasia 15–35% (gonadoblastoma, then dysgerminoma or seminoma) in streak and testis alike. **Remove streaks** (biopsy first if tissue uncertain).
+  - Raised male: keep a scrotal testis under surveillance; bring down an intra-abdominal one if possible.
+  - Raised female: remove or relocate the testis.
+- **Surgery:** male: staged hypospadias repair, orchidopexy; female: feminising surgery deferred.
 - **Hormones:** pubertal sex steroids; growth hormone. Infertility usual.
 
-**Diagram to draw:** asymmetric internal anatomy (testis with vas on one side; streak with tube and hemiuterus on the other).
+**Diagram to draw:** asymmetric anatomy: testis with vas; streak with tube and hemiuterus.
 
 > **Key points to remember:**
 > - 45,X/46,XY; testis + streak + Müllerian remnants; asymmetric.
@@ -420,7 +420,7 @@ Retractile → yearly review
 - Devices seal by **denaturing protein**. Plan from imaging; keep a **haemorrhage tray** (laparoscopic Satinsky, 10-mm suction, vascular suture with Lapra-Ty, haemostatic agent).
 
 ### Effect of pneumoperitoneum
-- CO₂ at 12–15 mmHg **tamponades venous bleeding**. Before exit, **lower pressure to about 5 mmHg** and inspect the operative site and each port to unmask hidden bleeders.
+- CO₂ at 12–15 mmHg **tamponades venous bleeding**. Before exit, **lower pressure to about 5 mmHg** and inspect the operative site and each port.
 
 ### Energy devices
 | Device | Lateral thermal spread | Note |
@@ -428,7 +428,7 @@ Retractile → yearly review
 | Monopolar | 5–7 mm | Capacitive coupling, insulation failure, direct coupling |
 | Bipolar | 1–6 mm | Current only between the jaws |
 | Vessel sealer (LigaSure) | 1–3 mm | Seals vessels **≤7 mm**; one application only |
-| Ultrasonic (Harmonic) | ≈1 mm | No current; blade >200 °C, cools slowly (bowel burns) |
+| Ultrasonic (Harmonic) | ≈1 mm | No current; blade >200 °C, cools slowly |
 | Argon beam | Superficial | Raw surfaces; gas embolism risk |
 
 ### Clips
@@ -437,15 +437,15 @@ Retractile → yearly review
 - **Lapra-Ty** absorbable clips act as knots (renorrhaphy).
 
 ### Staplers
-- Endo GIA via a 12-mm port; **grey (2.0 mm) or white (2.5 mm)** loads for renal vessels; blue or green for thicker tissue.
+- Endo GIA via a 12-mm port; **grey (2.0 mm) or white (2.5 mm)** loads for renal vessels; blue or green for thick tissue.
 - **Never fire across clips.**
 
 ### Sutures and haemostatic agents
-- Intracorporeal or barbed sutures. Fibrin sealant, gelatin–thrombin matrix, oxidised cellulose.
+- Intracorporeal or barbed sutures; fibrin sealant, gelatin–thrombin matrix, oxidised cellulose.
 
 ### Managing bleeding
 - **Venous injury:** raise pressure to 25 mmHg → suction to identify → pledget tamponade → sealant → extra 5-mm port for suturing or Satinsky → hand-assist → convert. Keep the patient well filled (gas embolism).
-- **Arterial injury:** minor, tamponade; renal artery, staple; aorta, convert.
+- **Arterial:** minor, tamponade; renal artery, staple; aorta, convert.
 - **Port-site bleeding:** cantilever the trocar to find it; diathermy or transfascial suture. Blunt trocars reduce it.
 
 **Diagram to draw:** Hem-o-lok placement with two patient-side clips and a 2-mm cuff.

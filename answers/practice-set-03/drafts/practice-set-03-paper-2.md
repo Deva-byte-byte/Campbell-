@@ -44,7 +44,7 @@
 
 - **Apnoea test (last):** pre-oxygenate with 100% oxygen; disconnect the ventilator with oxygen insufflation; **no breathing effort at PaCO₂ (arterial carbon dioxide tension) ≥60 mmHg**. Abort for hypotension, desaturation or arrhythmia.
 - **Two sets of tests at least 6 hours apart**; **Form 10**. Ancillary tests (angiography, perfusion scan) only if examination is impossible.
-- **Consent** of near relative (Form 8); in medico-legal cases inform police.
+- **Consent** of near relative; in medico-legal cases inform police.
 
 ### 3. Maintenance (donor management)
 - **Why:** herniation causes a **catecholamine storm**, then loss of sympathetic tone (hypotension), **diabetes insipidus (DI)**, hypothermia, DIC (disseminated intravascular coagulation), low thyroid hormone and cortisol, and pulmonary oedema.
