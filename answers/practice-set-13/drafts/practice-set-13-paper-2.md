@@ -190,21 +190,19 @@
 
 - 150 mg monotherapy roughly equals castration in locally advanced disease, with better sexual interest; not FDA (US Food and Drug Administration) approved alone, but used in some countries.
 - **Antiandrogen withdrawal:** stopping bicalutamide gives a PSA (prostate-specific antigen) fall >50% in **15–30%** for 3.5–5 months. Mutant AR turns the drug into an agonist.
-- **Also know:** stuttering priapism (sickle cell disease, spinal injury); feminising hormone therapy; studied in BPH (benign prostatic hyperplasia).
+- **Also know:** stuttering priapism; feminising hormone therapy; studied in BPH (benign prostatic hyperplasia).
 
 ### Adverse effects
 - **Gynaecomastia and breast pain** (two-thirds at 150 mg): prevent with breast radiotherapy (10–15 Gy single fraction) or tamoxifen 10 mg daily.
 - **Hepatotoxicity** (monitor liver tests); rare **interstitial pneumonitis**; erectile dysfunction; fewer hot flushes than castration.
-
-### Comparison
-- Enzalutamide beat bicalutamide in CRPC (TERRAIN, STRIVE) and in **ENZAMET** (hormone-sensitive metastatic disease).
+- **Comparison:** enzalutamide beat bicalutamide in CRPC (TERRAIN, STRIVE) and in **ENZAMET**.
 
 **Diagram to draw:** hypothalamus–pituitary–testis axis with bicalutamide blocking the AR.
 
 > **Key points to remember:**
 > - Half-life about 6 days; 50 mg with LHRH agonist, 150 mg monotherapy.
 > - Monotherapy raises testosterone; gynaecomastia two-thirds.
-> - EPC: harm in localised disease; RTOG 9601: survival gain with salvage RT.
+> - EPC: harm in localised disease; RTOG 9601: survival gain with salvage radiotherapy.
 > - Withdrawal response 15–30%.
 
 ---
@@ -343,7 +341,7 @@
 
 - **No body advises unselected population screening.**
 - **High risk:** Black men, father or brother diagnosed <65, BRCA2 and other DNA-repair mutations: start earlier.
-- Stop when life expectancy is under 10 years.
+- Stop when life expectancy is under 10–15 years.
 
 ### Reducing harm
 - **Active surveillance** for Grade Group 1; MRI and biomarkers before biopsy; intervals by baseline PSA.
@@ -363,10 +361,10 @@
 
 ### 1. Ultrasound
 - **TRUS (transrectal ultrasound):** guides biopsy, measures volume (PSA [prostate-specific antigen] density). Cancer is a hypoechoic PZ (peripheral zone) lesion, but **39% are isoechoic**.
-- **Also know:** Doppler, contrast TRUS and elastography (adjuncts only); **micro-ultrasound** (29 MHz, PRI-MUS score, close to MRI accuracy).
+- **Also know:** Doppler, contrast and elastography (adjuncts); **micro-ultrasound** (29 MHz; PRI-MUS [Prostate Risk Identification using Micro-Ultrasound] score; close to MRI accuracy).
 
 ### 2. MRI: detection and local staging
-- **mpMRI (multiparametric magnetic resonance imaging)**, 3 T without endorectal coil:
+- **mpMRI (multiparametric magnetic resonance imaging):**
 
 | Sequence | Shows | Cancer |
 |---|---|---|
@@ -376,7 +374,7 @@
 
 - **PI-RADS v2.1 (Prostate Imaging Reporting and Data System)** 1–5: DWI dominant in PZ, T2 in TZ (transition zone); DCE only upgrades PZ 3 to 4.
 - **PROMIS** (sensitivity 93% vs 48% for TRUS biopsy) and **PRECISION** (more significant, less insignificant cancer): **MRI before biopsy**. Cochrane: sensitivity 0.91, specificity 0.37.
-- **Also know:** biparametric MRI; **PI-QUAL** (image quality); **PRECISE** (change on surveillance); fusion biopsy.
+- **Also know:** biparametric MRI; **PI-QUAL** (Prostate Imaging Quality); **PRECISE** (scores change on surveillance); fusion biopsy.
 
 ### 3. Staging by risk group
 - **Low or intermediate risk:** no routine CT (computed tomography) or bone scan.
@@ -384,7 +382,7 @@
 - **proPSMA:** accuracy 92% vs 65% for conventional imaging. Nodal sensitivity only 30–40%, specificity >90%: a negative scan does not exclude micrometastases.
 
 ### 4. Biochemical recurrence
-- **PSMA PET** detects disease at low PSA. **Calais trial:** 56% vs 26% for fluciclovine. **CONDOR:** management changed in 63.9%.
+- **PSMA PET** works at low PSA. **Calais:** 56% vs 26% for fluciclovine. **CONDOR:** management changed in 63.9%.
 - Choline and fluciclovine PET are older; FDG (fluorodeoxyglucose) PET is poor except in neuroendocrine change.
 
 ### 5. Advanced disease

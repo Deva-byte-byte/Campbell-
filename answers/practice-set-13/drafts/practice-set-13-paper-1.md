@@ -169,10 +169,10 @@
 1. The heavy chain binds the cholinergic nerve terminal; the toxin is internalised.
 2. The light chain (a zinc protease) **cleaves SNAP-25** (synaptosomal-associated protein 25), so vesicles cannot fuse and **acetylcholine release stops**: chemical denervation.
 - **Afferent action:** less ATP (adenosine triphosphate) and substance P; fewer purinergic (P2X3) and capsaicin (TRPV1) receptors, so urgency and pain fall.
-- Lasts about 6–9 months, until terminals sprout; repeat injections stay effective.
+- Lasts 6–9 months, until terminals sprout; repeat injections stay effective.
 
 ### Technique
-- Cystoscopic intradetrusor injection, trigone usually spared: 100 U in 10 mL at 20 sites; 200 U in 30 mL at 30 sites. Check PVR (post-void residual) at about 2 weeks.
+- Cystoscopic intradetrusor injection, trigone usually spared: 100 U in 10 mL at 20 sites; 200 U in 30 mL at 30 sites. Check PVR (post-void residual) at 2 weeks.
 
 ### Indications and doses
 
@@ -210,7 +210,7 @@
 - **Evidence:** haemosiderin in the excised "nubbin".
 
 ### Incidence
-- **15–40% of nonpalpable testes** at surgery (abdominal or "peeping" testis 25–50%; extra-abdominal 10–30%).
+- **15–40% of nonpalpable testes** at surgery.
 
 ### Clinical features
 - **Contralateral compensatory hypertrophy:** volume >2 mL (sensitivity 72%, specificity 100%) or length about 19–20 mm suggests a solitary testis.
@@ -219,7 +219,7 @@
 - **Anorchia:** micropenis in nearly half.
 
 ### Evaluation
-- **Imaging** (ultrasound, MRI [magnetic resonance imaging]) is not recommended: unreliable, and it does not change the operation.
+- **Imaging** (ultrasound, MRI [magnetic resonance imaging]) is not recommended: it does not change the operation.
 - **Bilateral nonpalpable:** exclude DSD (difference of sex development) and CAH (congenital adrenal hyperplasia) first.
   - Anorchia: high FSH (follicle-stimulating hormone) and LH (luteinising hormone); low AMH (anti-Müllerian hormone) and inhibin B; no rise after hCG (human chorionic gonadotrophin). Most reliable during mini-puberty.
 
@@ -236,10 +236,9 @@
 - **Scrotal-first exploration** is reasonable with a palpable nubbin and contralateral hypertrophy (length ≥1.8 cm); laparoscopy is then needed in about a quarter.
 - **Contralateral fixation:** debated; not required by the AUA (American Urological Association) algorithm.
 - **Prosthesis:** offer at least 6 months after scrotal surgery or after puberty, inguinal approach.
-- **Anorchia:** testosterone from puberty.
-- **Also know:** agenesis shows ipsilateral Müllerian persistence.
+- **Anorchia:** testosterone from puberty. **Also know:** agenesis shows ipsilateral Müllerian persistence.
 
-**Diagram to draw:** laparoscopic view of blind-ending spermatic vessels above a closed internal ring.
+**Diagram to draw:** laparoscopic view of blind-ending vessels at a closed ring.
 
 > **Key points to remember:**
 > - Prenatal torsion after masculinisation; 15–40% of nonpalpable testes.
@@ -253,7 +252,7 @@
 **Type:** SAQ (10 marks)
 
 ### Definition of failure
-- Persistent or recurrent pain, UTI (urinary tract infection) or stones; **obstructive diuretic renogram** (T½ >20 minutes); increasing hydronephrosis; or fall in split function.
+- Persistent pain, UTI (urinary tract infection) or stones; **obstructive diuretic renogram** (T½ >20 minutes); increasing hydronephrosis; falling split function.
 - Dilatation settles slowly, so judge by renography and trend.
 - About 1 in 9 children need a secondary procedure. Most failures occur within 1–2 years, but up to 30% occur later.
 
@@ -268,8 +267,8 @@
 
 ### Evaluation of late failure
 - **MAG3 (mercaptoacetyltriglycine) diuretic renogram:** obstruction and split function.
-- **CT (computed tomography) angiography:** crossing vessel, stricture length.
-- Antegrade or retrograde pyelography; **Whitaker test** if equivocal. Nephrostomy first if infected, then reassess function.
+- **CT (computed tomography) angiography:** crossing vessel.
+- Antegrade or retrograde pyelography (stricture length); **Whitaker test** if equivocal. Nephrostomy first if infected.
 
 ### Treatment options
 
@@ -289,9 +288,9 @@
 - **Also know:** near-infrared fluorescence shows perfusion; downward nephropexy.
 
 ### Follow-up
-- Stent out at 4–6 weeks; renogram at about 1 month, then 6 and 12 months; follow adults for 2–3 years.
+- Stent out at 4–6 weeks; renograms for 2–3 years (late failures).
 
-**Diagram to draw:** ureterocalicostomy: lower-pole calyx joined to spatulated ureter.
+**Diagram to draw:** ureterocalicostomy (lower calyx to spatulated ureter).
 
 > **Key points to remember:**
 > - Causes: ischaemia, tension, missed crossing vessel, leak.
@@ -330,9 +329,9 @@
 - Original procedure (age, device); examine skin quantity, meatus, curvature; exclude hypospadias, buried or webbed penis and BXO (balanitis xerotica obliterans).
 
 ### Circumcision revision
-- **Indications:** redundant or asymmetrical skin, recurrent phimosis, adhesions, cosmetic concern.
+- **Indications:** redundant or asymmetrical skin, phimosis, adhesions, cosmesis.
 - **Needs general anaesthesia** in children, unlike neonatal circumcision.
-- **Technique (sleeve):** mark inner and outer incisions (first 5–10 mm from the corona), excise the excess collar, bipolar haemostasis, interrupted absorbable sutures (continuous sutures risk strangulation).
+- **Technique (sleeve):** mark inner and outer incisions (inner 5–10 mm from the corona), excise the excess collar, haemostasis, interrupted absorbable sutures.
 - Lyse adhesions and skin bridges; correct torsion or chordee; meatotomy if needed; histology if BXO suspected.
 
 ### Prevention
@@ -341,7 +340,7 @@
 ### Also know: foreskin restoration
 - Traction tissue expansion or skin grafting, for men wanting a foreskin; results variable.
 
-**Diagram to draw:** sleeve revision with two circumferential incisions.
+**Diagram to draw:** sleeve revision showing two circumferential incisions.
 
 > **Key points to remember:**
 > - Complications 0.2–5%; bleeding commonest.
@@ -367,13 +366,13 @@
 - "Three Ds" (dysuria, dyspareunia, post-void dribbling) in only about 5%.
 - Commonest: frequency, urgency, pain, **recurrent UTI (urinary tract infection)**.
 - Tender anterior vaginal wall mass; about one-third incontinent.
-- **Complications:** stones (4–10%); carcinoma (**adenocarcinoma** commonest); 10% show metaplasia, dysplasia or cancer.
+- **Complications:** stones (4–10%); 10% show metaplasia, dysplasia or carcinoma (**adenocarcinoma** commonest).
 
 ### Evaluation
 - Urinalysis, culture; **cystourethroscopy** (ostium seen in under half).
 - **Imaging sensitivity:** **MRI (magnetic resonance imaging) 97%**, double-balloon urethrography 95%, ultrasound 82%, VCUG (voiding cystourethrogram) 74%.
-- MRI: low T1, high T2; shows saddlebag or circumferential extension.
-- **Videourodynamics** separates true SUI (stress urinary incontinence) from dribbling from the sac.
+- MRI shows saddlebag or circumferential extension.
+- **Videourodynamics:** true SUI (stress urinary incontinence) versus dribbling from the sac.
 - **Differential diagnosis:** Skene cyst (distal, distorts meatus, no communication), Gartner cyst, leiomyoma, caruncle, bulking agent.
 
 ### Classification
@@ -381,7 +380,7 @@
 - **Also know:** Leng–McGuire (absent fascia = pseudodiverticulum).
 
 ### Management
-- **Asymptomatic or unfit:** suppressive antibiotics and post-void stripping; counsel about cancer risk.
+- **Asymptomatic or unfit:** suppressive antibiotics, post-void stripping; counsel about cancer.
 - **Symptomatic: transvaginal diverticulectomy.**
 - **Principles:**
   1. Sterile urine; topical oestrogen if atrophic.
@@ -398,7 +397,7 @@
 ### Complications
 - Recurrence 10–22%; de novo SUI 7–16%; urethrovaginal fistula 1–8%; stricture; recurrent UTI.
 
-**Diagram to draw:** sagittal section showing mid-urethral sac with posterolateral ostium.
+**Diagram to draw:** sagittal section of a mid-urethral sac and its ostium.
 
 > **Key points to remember:**
 > - Periurethral gland infection (Routh); posterolateral ostium.
@@ -411,49 +410,48 @@
 ## Q3f. Endoscopic procedure of SUI
 **Type:** SAQ (10 marks)
 
-*Read as endoscopic (transurethral or periurethral) injection of urethral bulking agents for stress urinary incontinence.*
+*Read as endoscopic injection of urethral bulking agents.*
 
 ### Introduction
 - **SUI (stress urinary incontinence)** results from urethral hypermobility and **ISD (intrinsic sphincter deficiency)**.
 - **Bulking agents**, injected submucosally under cystoscopic vision, are the least invasive surgical option.
 
 ### Mechanism
-- Bulk at the proximal urethra improves **mucosal coaptation** and urethral resistance.
-- It does not correct hypermobility, but most SUI includes some ISD, so it can still help.
+- Bulk at the proximal urethra improves **mucosal coaptation** and resistance.
+- It does not correct hypermobility, but most SUI includes some ISD.
 
 ### Indications
 - ISD with a **fixed, immobile urethra** (low VLPP [Valsalva leak point pressure] <60 cmH₂O, historically).
 - Women wanting a **low-risk** office procedure; elderly or unfit; future pregnancy.
 - Persistent leakage after a sling; neurogenic SUI (safer for bladder compliance than a sling).
-- **Contraindications:** active UTI (urinary tract infection), untreated detrusor overactivity, small-capacity bladder.
+- **Avoid in:** active UTI (urinary tract infection), untreated detrusor overactivity.
 
 ### Agents
 
 | Agent | Note |
 |---|---|
-| Polyacrylamide hydrogel (Bulkamid) | Non-particulate; widely used |
+| Polyacrylamide hydrogel (Bulkamid) | Non-particulate |
 | Polydimethylsiloxane (Macroplastique) | Silicone particles |
 | Calcium hydroxylapatite; carbon-coated zirconium beads | Particulate |
 | Bovine collagen (skin test); PTFE (polytetrafluoroethylene); autologous fat | Withdrawn or abandoned: allergy, migration, granuloma, embolism |
 
-
 ### Technique
 1. Sterile urine; local anaesthesia; cystoscope (0–30° lens) in the urethra.
-2. **Transurethral:** needle into the submucosa about 1–1.5 cm distal to the bladder neck. **Periurethral:** needle alongside the urethra through the vestibule, guided cystoscopically.
+2. **Transurethral:** needle into the submucosa about 1–1.5 cm distal to the bladder neck; or **periurethral:** needle alongside the urethra, watched cystoscopically.
 3. Inject at 2–4 sites until the mucosal cushions **coapt in the midline**.
-4. Avoid an indwelling catheter (it moulds the bulk); for retention use short-term CISC (clean intermittent self-catheterisation).
+4. Avoid an indwelling catheter (it moulds the bulk); use CISC (clean intermittent self-catheterisation) for retention.
 
 ### Outcomes
 - Early improvement is common, but cure is lower than with slings and **declines with time**; repeat injections are often needed.
 - **Cochrane review (Kirchin 2017):** limited evidence of benefit.
-- **AUA/SUFU (American Urological Association/Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction):** an option; counsel about lower durability and retreatment.
+- **AUA/SUFU (American Urological Association/Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction):** an option, with counselling on durability.
 - **Men:** EAU (European Association of Urology): **do not offer** for post-prostatectomy incontinence.
 
 ### Complications
 - Transient retention, UTI, dysuria, haematuria, urgency.
-- Sterile abscess, migration, erosion; the mass may mimic a urethral diverticulum on MRI (magnetic resonance imaging).
+- Sterile abscess, migration, erosion; may mimic a urethral diverticulum on imaging.
 
-**Diagram to draw:** cystoscopic view before and after injection, showing coapted mucosal cushions.
+**Diagram to draw:** cystoscopic view of coapted mucosal cushions after injection.
 
 > **Key points to remember:**
 > - Bulking improves coaptation; does not correct hypermobility.

@@ -69,7 +69,7 @@
 |---|---|---|
 | Birth (48–72 h) | Bladder, posterior urethra and abdominal wall closure | Converts to complete epispadias; outlet resistance stimulates bladder growth |
 | 6–12 months | Epispadias repair (modified Cantwell-Ransley), after testosterone | Raises capacity; straightens penis |
-| 4–7 years | BNR (bladder neck reconstruction): modified **Young-Dees-Leadbetter** + bilateral **Cohen** reimplant | Continence; needs capacity **≥100 mL** and a motivated child |
+| 4–7 years | BNR (bladder neck reconstruction): modified **Young-Dees-Leadbetter (YDL)** + bilateral **Cohen** reimplant | Continence; needs capacity **≥100 mL** and a motivated child |
 
 - **Closure keys:** radical division of the **urogenital diaphragm fibres** so the vesicourethral unit sits deep (commonest error if missed); ureteric stents; suprapubic tube 4 weeks; pubic nylon mattress suture.
 - **Alternatives:** CPRE (complete primary repair of exstrophy, Mitchell), Kelly radical soft-tissue mobilisation, Erlangen single stage, Mainz ureterosigmoidostomy. Most still need an outlet procedure.
@@ -123,10 +123,10 @@
 | Laser | nm | Penetration | Present status |
 |---|---|---|---|
 | **Ho:YAG** (holmium:yttrium-aluminium-garnet) | 2120 | 0.31 mm | Gold standard lithotripsy; **HoLEP** (holmium laser enucleation of prostate) size-independent; strictures, UTUC (upper tract urothelial carcinoma) ablation |
-| **TFL** (thulium fibre laser) | 1940 | 0.08 mm | Stones: beats low-power holmium, equals high-power; less retropulsion; ThuLEP |
-| **KTP/LBO** (GreenLight) | 532 | 0.8 mm | Photovaporisation; can continue anticoagulation |
-| Tm:YAG | 2000 | 0.2 mm | Vaporesection, enucleation |
-| Nd:YAG | 1064 | 10 mm | Deep coagulation (penile CIS [carcinoma in situ], warts); largely obsolete for BPH |
+| **TFL** (thulium fibre laser) | 1940 | 0.08 mm | Stones: beats low-power holmium, equals high-power; less retropulsion; ThuLEP (thulium laser enucleation of prostate) |
+| **KTP/LBO** (potassium-titanyl-phosphate/lithium triborate; GreenLight) | 532 | 0.8 mm | Photovaporisation; can continue anticoagulation |
+| Tm:YAG (thulium:YAG) | 2000 | 0.2 mm | Vaporesection, enucleation |
+| Nd:YAG (neodymium:YAG) | 1064 | 10 mm | Deep coagulation (penile CIS [carcinoma in situ], warts); largely obsolete for BPH |
 
 - **Mechanism:** pulse duration decides: long pulses photothermal; short pulses photomechanical.
 
@@ -157,7 +157,7 @@
 - **Also know:** TUMT (transurethral microwave thermotherapy) and TUNA (transurethral needle ablation) largely abandoned.
 
 ### 7. Ionising radiation
-- EBRT (external beam radiotherapy) and **brachytherapy** (LDR [low dose rate] or HDR [high dose rate]): standard for localised prostate cancer; trimodality bladder preservation; penile cancer (brachytherapy for small T1–T2 glans tumours). **Radioligand therapy** (¹⁷⁷Lu-PSMA, VISION trial) and **radium-223** (ALSYMPCA) for mCRPC (metastatic castration-resistant prostate cancer).
+- EBRT (external beam radiotherapy) and **brachytherapy** (LDR [low dose rate] or HDR [high dose rate]): standard for localised prostate cancer; trimodality bladder preservation; penile cancer (brachytherapy for small T1–T2 glans tumours). **Radioligand therapy** (¹⁷⁷Lu-PSMA [prostate-specific membrane antigen], VISION trial) and **radium-223** (ALSYMPCA) for mCRPC (metastatic castration-resistant prostate cancer).
 
 **Diagram to draw:** laser penetration depths compared, with cryoprobe ice ball.
 
@@ -334,7 +334,7 @@
 | Eponym | Technique | Use |
 |---|---|---|
 | **Johanson** | Two-stage: stricture laid open, edges sutured to skin (urethrostomy); tubularised later | LS (lichen sclerosus), failed hypospadias, infection |
-| **Blandy** | Inverted-U scrotal or perineal skin flap into a ventral urethrotomy | Bulbar strictures; classic PU |
+| **Blandy** | Inverted-U scrotal or perineal skin flap into a ventral urethrotomy | Bulbar strictures; classic perineal urethrostomy (PU) |
 | **Turner-Warwick** | Two-stage scrotal inlay; transpubic approach, omental wrap | Complex, posterior |
 | **Webster** | Progressive perineal approach: mobilisation, crural separation, inferior pubectomy, rerouting | PFUI (pelvic fracture urethral injury) |
 | **Barbagli** | **Dorsal onlay** BMG (buccal mucosal graft) spread-fixed to corpora | Bulbar |
@@ -381,7 +381,7 @@
 | >2 nodes | 0–50% |
 | **ENE** or **pelvic nodes** | Poor (pelvic about 14%) |
 
-- TNM 8th edition: pN1 (1–2 unilateral nodes) about 90% 3-year DSS (disease-specific survival); pN3 (ENE or pelvic) about one-third.
+- TNM (tumour-node-metastasis) 8th edition: pN1 (1–2 unilateral nodes) about 90% 3-year DSS (disease-specific survival); pN3 (ENE or pelvic) about one-third.
 
 ### 2. Primary tumour factors (predict occult nodes in cN0)
 - **Depth:** corporal invasion → about 60% node positive.

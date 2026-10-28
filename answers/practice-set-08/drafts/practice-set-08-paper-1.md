@@ -150,7 +150,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 
 ### Investigations based on pathophysiology
 - **Duplex Doppler:** high peak systolic velocity, renal/aortic ratio >3.5. **RI (resistive index) >0.8** means parenchymal disease and poor response.
-- **CT (computed tomography) or MR angiography** for anatomy; **catheter angiography** with translesional gradient is the gold standard.
+- **CT (computed tomography) or MR (magnetic resonance) angiography** for anatomy; **catheter angiography** with translesional gradient is the gold standard.
 - **Captopril renography:** removing angiotensin II drops GFR in the stenosed kidney (delayed uptake), proving renin-dependence.
 - **Renal vein renin ratio >1.5** lateralises.
 
@@ -164,7 +164,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 > **Key points to remember:**
 > - Goldblatt 1934: 2K1C = renin-dependent; 1K1C = volume-dependent.
 > - Chronic phase: contralateral nephrosclerosis makes RVH stenosis-independent.
-> - Angiotensin II keeps GFR by efferent constriction; ACE inhibitor causes AKI in bilateral RAS.
+> - Angiotensin II keeps GFR by efferent constriction; ACE inhibitor causes acute kidney injury in bilateral RAS.
 > - ASTRAL and CORAL: no routine stenting; FMD = angioplasty alone.
 
 ---
@@ -189,7 +189,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 - Infection: fever, rigors, sepsis.
 
 ### Diagnosis
-- **Ultrasound:** anechoic, often septated, thin-walled collection. **CT** maps it before intervention.
+- **Ultrasound:** anechoic, often septated, thin-walled collection. **CT (computed tomography)** maps it before intervention.
 - **Aspirate:** lymph has creatinine equal to serum (urinoma: much higher), lymphocytes; culture excludes abscess.
 
 ### Management
@@ -275,7 +275,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 ### Generations
 | Generation | Examples | Spectrum | Urological use |
 |---|---|---|---|
-| **First** | Cefazolin (IV), cephalexin, cefadroxil (oral) | Gram-positive (not MRSA [methicillin-resistant *Staphylococcus aureus*]); *E. coli*, *Klebsiella*, *P. mirabilis* | **Surgical prophylaxis (cefazolin)**; cystitis in pregnancy; paediatric prophylaxis |
+| **First** | Cefazolin (intravenous), cephalexin, cefadroxil (oral) | Gram-positive (not MRSA [methicillin-resistant *Staphylococcus aureus*]); *E. coli*, *Klebsiella*, *P. mirabilis* | **Surgical prophylaxis (cefazolin)**; cystitis in pregnancy; paediatric prophylaxis |
 | **Second** | Cefuroxime, cefaclor; cefoxitin, cefotetan | Wider Gram-negative; cefoxitin and cefotetan add **anaerobes** | Prophylaxis for vaginal and bowel surgery; SWL (shock-wave lithotripsy) |
 | **Third** | Ceftriaxone, cefotaxime, cefixime, cefpodoxime; **ceftazidime** | Most Enterobacterales; **only ceftazidime covers *Pseudomonas*** | Pyelonephritis, urosepsis; **gonorrhoea (ceftriaxone 500 mg IM [intramuscular])**; prostate biopsy prophylaxis |
 | **Fourth** | Cefepime | Gram-negatives incl. *Pseudomonas*, stable to AmpC; Gram-positive | Complicated, nosocomial UTI (urinary tract infection) |
@@ -291,7 +291,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 - Hypersensitivity, less than penicillins. Cross-reactivity with third-generation agents is <1%; avoid after immediate (IgE [immunoglobulin E]-mediated) penicillin reaction.
 - ***C. difficile* colitis**; "collateral damage" (selection of ESBL organisms).
 - Positive Coombs test; bleeding with cefotetan and cefamandole.
-- Ceftriaxone: biliary sludge; avoid in jaundiced neonates and with IV calcium.
+- Ceftriaxone: biliary sludge; avoid in jaundiced neonates and with intravenous calcium.
 
 ### Paediatric use
 - Febrile UTI in neonates: **ampicillin + third-generation cephalosporin** (covers enterococcus). Oral cefixime 8 mg/kg/day. A first-generation agent is a good narrow-spectrum choice for many outpatient UTIs.
@@ -311,7 +311,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 *Assumed meaning: ultrasonography (USG) of the neonatal urinary tract, including antenatal hydronephrosis follow-up.*
 
 ### Why ultrasound first
-- No radiation or sedation, portable, repeatable. It shows **anatomy, not function**.
+- No radiation or sedation; repeatable. Shows **anatomy, not function**.
 - **Technique:** higher-frequency probes than in adults; kidneys supine and prone; length against age nomograms; bladder full and after voiding; Doppler.
 
 ### Normal neonatal kidney (pitfalls)
@@ -341,10 +341,10 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 | Spine | Occult dysraphism before arch ossification (up to 6 months) |
 | DSD (differences of sex development) | Müllerian structures, gonads |
 
-**Also know:** hydrometrocolpos, scrotal masses, UTI (urinary tract infection) screening, contrast-enhanced voiding urosonography.
+**Also know:** hydrometrocolpos, scrotal masses, contrast-enhanced voiding urosonography.
 
 ### Limitations
-- Normal US (ultrasound) does not exclude VUR (vesicoureteral reflux). Function needs MAG3 (mercaptoacetyltriglycine) renography, delayed for renal maturation, or DMSA (dimercaptosuccinic acid).
+- Normal US (ultrasound) does not exclude VUR (vesicoureteral reflux). Function needs MAG3 (mercaptoacetyltriglycine) renography (after renal maturation) or DMSA (dimercaptosuccinic acid).
 
 **Diagram to draw:** SFU grades 1–4 as kidney outlines.
 
@@ -422,11 +422,11 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 - TSC AML: everolimus if >3 cm. **Belzutifan** (HIF-2α [hypoxia-inducible factor 2α] inhibitor) is approved for VHL tumours.
 
 ### Other urological cancers
-- **Prostate:** BRCA2, BRCA1, ATM, CHEK2, PALB2, HOXB13. Father and brother affected: 9-fold risk. Earlier screening, cautious active surveillance, **PARP (poly ADP-ribose polymerase) inhibitors**.
-- **UTUC (upper tract urothelial carcinoma): Lynch syndrome** (MLH1, MSH2, MSH6, PMS2): about 14-fold risk, about 75-fold with MSH2. MMR (mismatch repair) immunohistochemistry, then germline testing.
+- **Prostate:** BRCA2, BRCA1, ATM, CHEK2, PALB2, HOXB13; father and brother affected: 9-fold risk. Earlier screening; **PARP (poly ADP-ribose polymerase) inhibitors**.
+- **UTUC (upper tract urothelial carcinoma): Lynch syndrome** (MLH1, MSH2, MSH6, PMS2): about 14-fold risk, 75-fold with MSH2. Screen with MMR (mismatch repair) immunohistochemistry.
 - **Testis:** affected brother RR (relative risk) 8–12, father 2–4.
 - **Phaeochromocytoma:** about one-third hereditary (MEN-2 [multiple endocrine neoplasia type 2], VHL, NF1 [neurofibromatosis type 1], SDHB).
-- **Also know:** Wilms tumour (WT1 in WAGR and Denys–Drash; Beckwith–Wiedemann).
+- **Also know:** Wilms tumour (WT1 in WAGR [Wilms, aniridia, genitourinary anomalies, retardation] and Denys–Drash; Beckwith–Wiedemann).
 
 ### Approach
 - Young age, multifocality or family history: genetic counselling, germline testing, screen relatives.

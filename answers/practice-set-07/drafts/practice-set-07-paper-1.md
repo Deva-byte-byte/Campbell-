@@ -174,7 +174,7 @@
 - The papilla is vulnerable: it depends on the **vasa recta**, has **low oxygen tension** and a **hypertonic** environment. Almost every cause reduces medullary blood flow or oxygenation.
 - **Sickle cell:** hypoxia and hypertonicity make cells sickle and block the vasa recta, causing microinfarcts.
 - **Analgesics:** NSAIDs (non-steroidal anti-inflammatory drugs) block vasodilator prostaglandins; metabolites concentrate in the medulla.
-- **Diabetes:** microangiopathy plus infection; **obstruction with infection** raises pelvic pressure.
+- **Diabetes:** microangiopathy plus infection.
 
 ### Causes ("POSTCARDS")
 | Letter | Cause |
@@ -205,7 +205,7 @@
 - **Culture-guided antibiotics.**
 - **Obstruction by a sloughed papilla:** urgent drainage (stent or nephrostomy), then ureteroscopic extraction.
 - Remove calcified retained papillae that cause persistent infection.
-- **Follow-up:** renal function; analgesic (phenacetin) abusers have higher urothelial cancer risk, so investigate haematuria.
+- **Follow-up:** renal function; analgesic abusers risk urothelial cancer.
 
 **Diagram to draw:** calyx showing ring sign and lobster-claw appearance.
 
@@ -291,7 +291,6 @@
 
 ### Legacy
 - Basis of all ADT (androgen deprivation therapy): orchidectomy, oestrogens, LHRH (luteinising hormone-releasing hormone) agonists and antagonists, and later abiraterone (blocking adrenal androgens).
-- Bilateral orchidectomy remains low-cost ADT in India.
 
 **Diagram to draw:** dorsal inlay: urethra opened ventrally, dorsal plate incised, graft on corpora (cross-section).
 
@@ -313,7 +312,7 @@
 
 ### Steps
 1. **Three-generation pedigree**.
-2. **Risk assessment:** inheritance pattern and recurrence risk (autosomal dominant 50%; autosomal recessive 25%; X-linked: half of sons of carrier mothers).
+2. **Risk assessment:** inheritance and recurrence risk (autosomal dominant 50%; autosomal recessive 25%).
 3. **Pre-test counselling:** which test; possible results (pathogenic, **VUS [variant of uncertain significance]**, negative); insurance and psychological harms; consent.
 4. **Post-test counselling:** interpret (do not act on a VUS); **cascade testing of relatives**; surveillance; targeted therapy.
 5. **Reproductive options:** prenatal diagnosis, PGT (preimplantation genetic testing), donor gametes; psychosocial support.
@@ -324,14 +323,13 @@
 | **Prostate cancer** | BRCA2 (> BRCA1), ATM, CHEK2, PALB2, mismatch repair (Lynch), HOXB13 | NCCN (National Comprehensive Cancer Network): test metastatic, high-risk, strong family history; BRCA2: aggressive disease, PARP (poly-ADP-ribose polymerase) inhibitors, earlier screening |
 | **Hereditary RCC (renal cell carcinoma)** | VHL, MET, FH, FLCN, TSC1/2, SDH, BAP1 | Counsel RCC at ≤46 years, bilateral or multifocal, family history |
 | **UTUC (upper tract urothelial carcinoma)** | Lynch (MSH2 highest) | Screen if <60 years or Lynch-spectrum cancer history |
-| **Phaeochromocytoma** | RET, VHL, NF1, SDHB/D | About one-third hereditary |
 | **ADPKD (autosomal dominant polycystic kidney disease)** | PKD1 (chromosome 16), PKD2 (chromosome 4) | Testing selects living related donors |
 | **Cystinuria** | SLC3A1, SLC7A9 (recessive) | Screen siblings |
 | **Male infertility** | Karyotype, AZF (azoospermia factor) deletion, CFTR (cystic fibrosis transmembrane conductance regulator) | AZF deletions pass to sons by ICSI (intracytoplasmic sperm injection); absent vasa: test partner for CFTR |
 | **DSD (differences of sex development)** | e.g. CAH (congenital adrenal hyperplasia, recessive), AIS (androgen insensitivity, X-linked) | Recurrence and gonadal tumour risk |
 
 ### Ethics and law
-- Confidentiality; right not to know; test children only when it changes childhood care.
+- Confidentiality; right not to know.
 - **India:** PCPNDT Act (Pre-Conception and Pre-Natal Diagnostic Techniques Act, 1994) bans disclosure of fetal sex.
 
 **Diagram to draw:** three-generation pedigree with standard symbols.
@@ -371,7 +369,7 @@
 ### Complications
 - **Post-embolisation syndrome:** fever, flank pain, nausea, leucocytosis; up to 72 hours; self-limiting.
 - **Non-target embolisation:** bowel, bladder, rectum, gluteal muscle, penile skin.
-- Renal infarction or abscess; contrast nephropathy; access-site haematoma or pseudoaneurysm; coil migration; ED (erectile dysfunction) after priapism embolisation.
+- Renal infarction or abscess; contrast nephropathy; access-site haematoma; coil migration; ED (erectile dysfunction) after priapism embolisation.
 
 ### Requirements
 - Experienced team, resuscitation in the suite; unstable non-responders need surgery.
@@ -416,7 +414,6 @@
 
 ### Current position
 - At **3 T the ERC is largely historical**; PI-RADS (Prostate Imaging Reporting and Data System) v2.1 does not require it. **Consider it at 1.5 T** or with older scanners, or when body-coil quality is poor.
-- Image quality is scored by **PI-QUAL (Prostate Imaging Quality)**.
 
 **Diagram to draw:** sagittal pelvis with inflated endorectal coil against the posterior prostate.
 
