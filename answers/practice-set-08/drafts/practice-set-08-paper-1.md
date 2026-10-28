@@ -178,7 +178,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 ### Settings and incidence
 - **PLND** (radical prostatectomy, cystectomy): radiological in up to 60%, clinically significant 2–5%. An extended template roughly doubles the rate.
 - **Renal transplantation:** from lymphatics around the recipient iliac vessels or donor hilum. Radiological 0.6–33.9%; most appear within 6 months, peaking at 6 weeks.
-- RPLND (retroperitoneal lymph node dissection; symptomatic ≤1.7%), inguinal node dissection, nephrectomy.
+- Also after RPLND (retroperitoneal lymph node dissection), inguinal dissection, nephrectomy.
 - **Risk factors:** extensive dissection, obesity, heparin prophylaxis, mTOR (mammalian target of rapamycin) inhibitors, acute rejection, retransplantation.
 
 ### Clinical features
@@ -311,12 +311,11 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 *Assumed meaning: ultrasonography (USG) of the neonatal urinary tract, including antenatal hydronephrosis follow-up.*
 
 ### Why ultrasound first
-- No radiation or sedation, portable, repeatable (ALARA, "as low as reasonably achievable"). It shows **anatomy, not function**.
-- **Technique:** higher-frequency probes than in adults; kidneys supine and prone; length compared with age nomograms; bladder full and after voiding; colour Doppler.
+- No radiation or sedation, portable, repeatable. It shows **anatomy, not function**.
+- **Technique:** higher-frequency probes than in adults; kidneys supine and prone; length against age nomograms; bladder full and after voiding; Doppler.
 
 ### Normal neonatal kidney (pitfalls)
-- Cortex **iso- or hyperechoic** to liver and spleen (relatively greater glomerular volume).
-- **Prominent hypoechoic pyramids** with sharp corticomedullary differentiation **mimic dilated calyces or cysts**.
+- Cortex **iso- or hyperechoic** to liver; **prominent hypoechoic pyramids mimic dilated calyces or cysts**.
 - **Dilation is under-read in the first 48 hours** (physiological dehydration).
 
 ### Antenatal hydronephrosis follow-up
@@ -330,7 +329,6 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 | **P3** (SFU 4) | Abnormal parenchyma or bladder | Repeat US at 1 month; VCUG and prophylaxis |
 
 - **SFU grades:** 0 none; 1 pelvis only; 2 major calyces; 3 major and minor calyces; 4 grade 3 plus parenchymal thinning.
-- Medullary pyramidal thickness ≤3 mm predicts need for pyeloplasty.
 
 ### Other neonatal indications
 | Condition | Ultrasound finding |
@@ -343,10 +341,10 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 | Spine | Occult dysraphism before arch ossification (up to 6 months) |
 | DSD (differences of sex development) | Müllerian structures, gonads |
 
-**Also know:** hydrometrocolpos, scrotal masses, UTI screening, CeVUS (contrast-enhanced voiding urosonography) for reflux.
+**Also know:** hydrometrocolpos, scrotal masses, UTI (urinary tract infection) screening, contrast-enhanced voiding urosonography.
 
 ### Limitations
-- Normal US does not exclude VUR (vesicoureteral reflux). Function needs MAG3 (mercaptoacetyltriglycine) renography, delayed for renal maturation, or DMSA (dimercaptosuccinic acid).
+- Normal US (ultrasound) does not exclude VUR (vesicoureteral reflux). Function needs MAG3 (mercaptoacetyltriglycine) renography, delayed for renal maturation, or DMSA (dimercaptosuccinic acid).
 
 **Diagram to draw:** SFU grades 1–4 as kidney outlines.
 
@@ -363,9 +361,8 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 *Assumed meaning: interventional radiology (image-guided percutaneous and endovascular) treatment in urology.*
 
 ### Principles
-- Image guidance with ultrasound, fluoroscopy or CT (computed tomography), usually under local anaesthesia.
-- **Seldinger technique:** needle, then guidewire, then devices over the wire, dilating the tract gradually.
-- **Before the procedure:** correct coagulopathy and manage antiplatelet and anticoagulant drugs; urine culture; antibiotic prophylaxis; check renal function before contrast.
+- Guidance by ultrasound, fluoroscopy or CT (computed tomography), usually under local anaesthesia. **Seldinger technique:** needle, guidewire, then devices over the wire.
+- **Beforehand:** correct coagulopathy, manage anticoagulants, urine culture, antibiotic prophylaxis.
 
 ### Non-vascular procedures
 | Procedure | Indications and points |
@@ -375,7 +372,6 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 | Antegrade pyelography, Whitaker test | Define strictures; pressure–flow test for obstruction |
 | **Percutaneous drainage** | Renal or perinephric abscess >3 cm, urinoma, lymphocele |
 | Image-guided biopsy | Renal mass biopsy |
-| Cyst aspiration–sclerotherapy | Symptomatic simple renal cyst |
 
 ### Vascular (endovascular) procedures
 | Procedure | Indications |
@@ -391,7 +387,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 - **Cryoablation or RFA (radiofrequency ablation)**, percutaneous, for cT1a renal masses <3 cm; biopsy first. Higher local recurrence than partial nephrectomy, salvaged by repeat ablation.
 
 ### Complications
-- Contrast nephropathy, access-site haematoma or pseudoaneurysm, **non-target embolisation**, **post-embolisation syndrome** (fever, pain, leucocytosis, nausea; self-limiting), radiation exposure.
+- Contrast nephropathy, access-site haematoma, **non-target embolisation**, **post-embolisation syndrome** (fever, pain, leucocytosis; self-limiting).
 
 **Diagram to draw:** prone PCN through a posterior calyx along the Brödel line.
 
@@ -419,7 +415,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 | **BHD** (Birt–Hogg–Dubé) | FLCN (17p11.2) | Chromophobe, hybrid oncocytic | Fibrofolliculomas, lung cysts, pneumothorax |
 | **TSC** (tuberous sclerosis complex) | TSC1 (9q34), TSC2 (16p13.3) | Multiple AMLs (angiomyolipomas); RCC 2–3% | Angiofibromas, cortical tubers |
 
-- **Also know:** SDH (succinate dehydrogenase)-deficient RCC; BAP1 (uveal melanoma, mesothelioma); PTEN (Cowden).
+- **Also know:** SDH (succinate dehydrogenase)-deficient RCC; BAP1; PTEN (Cowden).
 
 ### Kidney management
 - **3 cm rule:** watch tumours <3 cm; nephron-sparing surgery at ≥3 cm (VHL, HPRC, BHD) to save function for repeat surgery. **Exception: HLRCC**: excise promptly with wide margins.
@@ -429,11 +425,11 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 - **Prostate:** BRCA2, BRCA1, ATM, CHEK2, PALB2, HOXB13. Father and brother affected: 9-fold risk. Earlier screening, cautious active surveillance, **PARP (poly ADP-ribose polymerase) inhibitors**.
 - **UTUC (upper tract urothelial carcinoma): Lynch syndrome** (MLH1, MSH2, MSH6, PMS2): about 14-fold risk, about 75-fold with MSH2. MMR (mismatch repair) immunohistochemistry, then germline testing.
 - **Testis:** affected brother RR (relative risk) 8–12, father 2–4.
-- **Phaeochromocytoma:** about one-third hereditary: MEN-2 (multiple endocrine neoplasia type 2; RET), VHL, NF1 (neurofibromatosis type 1), SDHB.
+- **Phaeochromocytoma:** about one-third hereditary (MEN-2 [multiple endocrine neoplasia type 2], VHL, NF1 [neurofibromatosis type 1], SDHB).
 - **Also know:** Wilms tumour (WT1: WAGR [Wilms, aniridia, genitourinary anomalies, retardation] and Denys–Drash; Beckwith–Wiedemann).
 
 ### Approach
-- Suspect with young age, bilateral or multifocal tumours, or family history. Offer genetic counselling, germline testing and screening of relatives.
+- Young age, multifocality or family history: genetic counselling, germline testing, screen relatives.
 
 **Diagram to draw:** VHL loss → HIF accumulation → VEGF (vascular endothelial growth factor) → angiogenesis.
 

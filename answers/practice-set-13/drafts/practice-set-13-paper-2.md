@@ -86,7 +86,7 @@
 - **Follow-up:** risk-based imaging; eGFR and urine protein.
 
 ### Recent advances
-- 3D (three-dimensional) models; ICG (indocyanine green) fluorescence for selective clamping; single-port RAPN; neoadjuvant TKI (tyrosine kinase inhibitor) downsizing for imperative cases.
+- 3D (three-dimensional) models; ICG (indocyanine green) for selective clamping; neoadjuvant TKI (tyrosine kinase inhibitor) downsizing in imperative cases.
 
 **Diagram to draw:** clamped renal artery, tumour excised with a rim, two-layer renorrhaphy.
 
@@ -175,8 +175,8 @@
 
 ### Introduction and mechanism
 - Non-steroidal **AR (androgen receptor) antagonist**, called first- or second-generation. It competes with testosterone and DHT (dihydrotestosterone) at the ligand-binding domain.
-- Given alone, it blocks central feedback, so **LH (luteinising hormone) and testosterone rise** (about 1.5 times). Excess testosterone is aromatised to oestradiol, causing gynaecomastia; libido is partly preserved.
-- **Half-life about 6 days**: once daily; unaffected by age, renal or moderate hepatic impairment. Most potent and best tolerated of its class.
+- Given alone, it blocks central feedback, so **LH (luteinising hormone) and testosterone rise** (about 1.5 times); aromatisation to oestradiol causes gynaecomastia; libido is partly preserved.
+- **Half-life about 6 days** (once daily); unaffected by age or renal impairment. Most potent and best tolerated of its class.
 
 ### Uses
 
@@ -186,18 +186,18 @@
 | **Flare prevention** | 50 mg, started with or before the agonist, for about 2–4 weeks | Main use today |
 | Monotherapy, locally advanced | 150 mg daily | **EPC (Early Prostate Cancer) programme:** better progression-free survival; **harm in localised low-risk disease** (death HR [hazard ratio] 1.23) |
 | With salvage radiotherapy | 150 mg for 2 years | **RTOG 9601:** 12-year overall survival 76.3% vs 71.3% |
-| CRPC (castration-resistant prostate cancer) | 50 mg | Second-line hormonal step; replaced by ARPIs (androgen receptor pathway inhibitors) |
+| CRPC (castration-resistant prostate cancer) | 50 mg | Second-line step; largely replaced by newer agents |
 
-- 150 mg monotherapy is about equal to castration in locally advanced disease, with better sexual interest and physical capacity. It is not FDA (US Food and Drug Administration) approved as monotherapy, but is used in some countries.
+- 150 mg monotherapy roughly equals castration in locally advanced disease, with better sexual interest; not FDA (US Food and Drug Administration) approved alone, but used in some countries.
 - **Antiandrogen withdrawal:** stopping bicalutamide gives a PSA (prostate-specific antigen) fall >50% in **15–30%** for 3.5–5 months. Mutant AR turns the drug into an agonist.
 - **Also know:** stuttering priapism (sickle cell disease, spinal injury); feminising hormone therapy; studied in BPH (benign prostatic hyperplasia).
 
 ### Adverse effects
 - **Gynaecomastia and breast pain** (at 150 mg in about two-thirds). Prevent with prophylactic breast radiotherapy (10–15 Gy single fraction) or tamoxifen 10 mg daily.
-- **Hepatotoxicity:** monitor liver tests. **Interstitial pneumonitis** (rare). Erectile dysfunction; fewer hot flushes than castration.
+- **Hepatotoxicity** (monitor liver tests); rare **interstitial pneumonitis**; erectile dysfunction; fewer hot flushes than castration.
 
 ### Comparison
-- Enzalutamide beat bicalutamide in CRPC (TERRAIN, STRIVE) and beat standard non-steroidal antiandrogens in **ENZAMET** (metastatic hormone-sensitive disease).
+- Enzalutamide beat bicalutamide in CRPC (TERRAIN, STRIVE) and in **ENZAMET** (hormone-sensitive metastatic disease).
 
 **Diagram to draw:** hypothalamus–pituitary–testis axis with bicalutamide blocking the AR.
 
@@ -313,11 +313,11 @@
 
 ### Concept
 - Screening tests healthy, asymptomatic men to cut deaths through earlier cure. The price is **overdiagnosis** (cancers that would never cause harm) and **overtreatment**.
-- Since PSA (prostate-specific antigen) testing, US prostate cancer mortality has fallen by over 40% and advanced disease at diagnosis by about 75%.
+- Since PSA (prostate-specific antigen) testing, US mortality has fallen over 40%.
 
 ### Tools
 - **PSA:** biopsy threshold 4 ng/mL (many use 2.5–3; ERSPC used 3). Repeat a raised PSA before biopsy.
-- **DRE (digital rectal examination):** little screening value alone; abnormal DRE still raises risk.
+- **DRE (digital rectal examination):** little value alone; abnormal DRE raises risk.
 - **Refinements:** PSA density ≥0.15; free PSA ≤25%; PHI (Prostate Health Index), 4Kscore, Stockholm3; urine tests (PCA3 [prostate cancer antigen 3], ExoDx, SelectMDx).
 - **MRI (magnetic resonance imaging) before biopsy:** fewer biopsies and less low-grade overdiagnosis.
 
@@ -326,11 +326,11 @@
 | Trial | Result |
 |---|---|
 | **ERSPC (European Randomised Study of Screening for Prostate Cancer)** | About **20% fall in prostate cancer death** at 16 years; 570 invited and 18 extra diagnoses per death prevented |
-| **PLCO (Prostate, Lung, Colorectal and Ovarian)** | No difference: control arm heavily PSA-tested (contamination) |
+| **PLCO (Prostate, Lung, Colorectal and Ovarian)** | No difference: control arm heavily PSA-tested |
 | Göteborg-1 | Larger mortality reduction with biennial screening |
 | **Göteborg-2 (2022)** | MRI-targeted biopsy only: halved overdiagnosis |
 
-- Correcting ERSPC for non-attendance and contamination raises the benefit to about 27–31%.
+- Corrected for non-attendance and contamination, benefit is 27–31%.
 
 ### Guidelines
 
@@ -347,7 +347,7 @@
 - Stop when life expectancy is under 10–15 years.
 
 ### Reducing harm
-- **Active surveillance** for Grade Group 1 cancers; MRI and biomarkers before biopsy; risk-adapted intervals by baseline PSA.
+- **Active surveillance** for Grade Group 1; MRI and biomarkers before biopsy; intervals by baseline PSA.
 
 **Diagram to draw:** pathway: PSA → repeat → risk calculator or MRI → targeted biopsy → active surveillance or treatment.
 
@@ -363,7 +363,7 @@
 (mpMRI detail in 2024-Winter Paper 1, Q3d; PSMA PET in 2019-Summer Paper 4, Q3a)
 
 ### 1. Ultrasound
-- **TRUS (transrectal ultrasound):** guides biopsy and measures volume (PSA [prostate-specific antigen] density). Cancer is a hypoechoic PZ (peripheral zone) lesion, but **39% are isoechoic**, so grey scale cannot exclude cancer.
+- **TRUS (transrectal ultrasound):** guides biopsy, measures volume (PSA [prostate-specific antigen] density). Cancer is a hypoechoic PZ (peripheral zone) lesion, but **39% are isoechoic**.
 - **Also know:** Doppler, contrast TRUS and elastography (adjuncts only); **micro-ultrasound** (29 MHz, PRI-MUS score, close to MRI accuracy).
 
 ### 2. MRI: detection and local staging
@@ -377,7 +377,7 @@
 
 - **PI-RADS v2.1 (Prostate Imaging Reporting and Data System)** 1–5: DWI dominant in PZ, T2 in TZ (transition zone); DCE only upgrades PZ 3 to 4.
 - **PROMIS** (sensitivity 93% vs 48% for TRUS biopsy) and **PRECISION** (more significant, less insignificant cancer): **MRI before biopsy**. Cochrane: sensitivity 0.91, specificity 0.37.
-- Biparametric MRI (no contrast); **PI-QUAL** scores image quality; **PRECISE** scores change on active surveillance; MRI–TRUS fusion biopsy.
+- **Also know:** biparametric MRI; **PI-QUAL** (image quality); **PRECISE** (change on surveillance); fusion biopsy.
 
 ### 3. Staging by risk group
 - **Low or intermediate risk:** no routine CT (computed tomography) or bone scan.
@@ -386,7 +386,7 @@
 
 ### 4. Biochemical recurrence
 - **PSMA PET** detects disease at low PSA. **Calais trial:** 56% vs 26% for fluciclovine. **CONDOR:** management changed in 63.9%.
-- Choline and fluciclovine PET are older options; FDG (fluorodeoxyglucose) PET is poor, except in neuroendocrine change.
+- Choline and fluciclovine PET are older; FDG (fluorodeoxyglucose) PET is poor except in neuroendocrine change.
 
 ### 5. Advanced disease
 - PSMA PET selects men for **¹⁷⁷Lu-PSMA-617** (VISION trial).
@@ -407,7 +407,6 @@
 
 ### Definition
 - A device placed in the **prostatic urethra**, between bladder neck and verumontanum, to relieve BOO (bladder outlet obstruction) without resection. Mainly for men **unfit for surgery**.
-- The Urospiral (Fabian, 1980) was the first.
 
 ### Classification
 
@@ -417,10 +416,10 @@
 | **Temporary, second generation** | **Memokath** (thermo-expandable nitinol); Allium (covered nitinol) | Expands with warm water, softens with cold water for removal |
 | Temporary polyurethane | Intraurethral catheter, Spanner | Bulbar anchor; sphincter left free |
 | Biodegradable | Polylactic acid stents | Dissolve; trial use |
-| **Permanent, epithelialising** | **UroLume** (woven mesh), Memotherm | Urothelium covers the mesh; now withdrawn |
+| **Permanent, epithelialising** | **UroLume** (woven mesh) | Urothelium covers the mesh; withdrawn |
 
 ### Indications
-- Retention or severe BOO from BPH (benign prostatic hyperplasia) in men unfit for surgery or anaesthesia: avoids a long-term catheter.
+- Retention or severe BOO from BPH (benign prostatic hyperplasia) in men unfit for surgery: avoids a long-term catheter.
 - Short-term drainage after thermal treatments; trial to test whether relief of obstruction will help.
 - **Also know:** DSD (detrusor–sphincter dyssynergia), now abandoned; bulbar stricture.
 
@@ -432,12 +431,12 @@
 
 ### Complications
 - **Migration** (commonest with temporary stents); **encrustation**; UTI; irritative symptoms, perineal pain, haematuria.
-- **Hyperplastic ingrowth** and restenosis with permanent stents; incontinence if the sphincter is crossed. Removal of epithelialised stents is difficult.
+- **Hyperplastic ingrowth** and restenosis with permanent stents (difficult removal); incontinence if the sphincter is crossed.
 
 ### Current status
 - Most unfit men void after placement, but many stents are later removed.
 - **EAU (European Association of Urology):** alternative to catheterisation in men unfit for surgery (weak). Not in the **AUA (American Urological Association) 2023** BPH list.
-- **Recent:** **iTind**: temporary nitinol device left 5–7 days; it remodels the urethra by ischaemic pressure necrosis. AUA 2023 option for 25–75 mL without median lobe. **Optilume BPH** (paclitaxel balloon, EVEREST-1). UroLift is a permanent implant, not a stent.
+- **Recent:** **iTind**: temporary nitinol device left 5–7 days; it remodels the urethra by ischaemic pressure necrosis. AUA 2023 option for 25–75 mL without median lobe. **Optilume BPH** (paclitaxel balloon).
 
 **Diagram to draw:** sagittal prostate with a Memokath from bladder neck to verumontanum, above the external sphincter.
 

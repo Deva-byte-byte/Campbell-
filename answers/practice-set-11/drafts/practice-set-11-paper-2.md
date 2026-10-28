@@ -264,12 +264,12 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 
 ### THOA 1994: aims
 - Regulates removal, storage and transplantation of organs for therapeutic purposes and **prevents commercial dealing**.
-- **Recognised brain-stem death as legal death**, allowing deceased donation. Health is a state subject, so states adopt the Act.
+- **Recognised brain-stem death as legal death**, allowing deceased donation. States adopt the Act (health is a state subject).
 
 ### Main provisions (1994)
 - **Living donors:** **near relatives** (spouse, parents, children, siblings) after verification. Others, donating "by reason of affection or attachment", need **Authorisation Committee** approval.
-- **Appropriate Authority:** registers and inspects hospitals; only registered centres may retrieve or transplant.
-- **Brain-stem death certification by a Board of four:** doctor in charge of the hospital; an independent specialist from an approved panel; a neurologist or neurosurgeon; the treating doctor. **None from the transplant team.** Two sets of tests, at least 6 hours apart.
+- **Appropriate Authority** registers and inspects hospitals; only registered centres may transplant.
+- **Brain-stem death certification by a Board of four:** doctor in charge of the hospital; independent specialist from an approved panel; neurologist or neurosurgeon; treating doctor. **None from the transplant team.** Two sets of tests ≥6 hours apart.
 - **Payment for organs is an offence**, with imprisonment and fine.
 
 ### 2011 amendment (THOTA, Transplantation of Human Organs and Tissues Act)
@@ -279,7 +279,7 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 | **Tissues** included | Regulates tissue banks |
 | **Grandparents and grandchildren** become near relatives | Wider related donor pool |
 | **Swap (paired) donation** between near-relative pairs | Overcomes ABO or crossmatch incompatibility |
-| Board: if no neurologist or neurosurgeon, a nominated surgeon, physician, anaesthetist or intensivist | Practical in smaller hospitals |
+| Board: if no neurologist, a nominated surgeon, physician, anaesthetist or intensivist | Smaller hospitals can certify |
 | **Mandatory transplant coordinator** | Organises donation |
 | **Required request:** ICU (intensive care unit) staff ask families of brain-dead patients about donation | More deceased donors |
 | National network and registry (NOTTO [National Organ and Tissue Transplant Organisation]) | Fair allocation |
@@ -288,15 +288,15 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 
 ### Rules 2014 (THOT Rules)
 - Standard forms for consent and certification (**Form 10** for brain-stem death); brainstem reflexes and apnoea test set out.
-- Authorisation Committee procedures (hospital-based at high-volume centres); donor and recipient interviewed to exclude coercion or payment.
+- Authorisation Committee procedures; donor and recipient interviewed to exclude coercion or payment.
 - **Also know:** NOTTO with regional (ROTTO) and state (SOTTO) networks; 2023 guidelines removed the domicile rule and upper age limit for deceased-donor listing.
 
-**Diagram to draw:** flowchart: brain-dead patient, Board of four (two tests 6 hours apart), family consent, NOTTO/SOTTO allocation.
+**Diagram to draw:** flowchart: brain-dead patient, Board of four, family consent, NOTTO allocation.
 
 > **Key points to remember:**
 > - THOA 1994: brain-stem death legal; anti-commercial; Authorisation Committee for unrelated donors.
-> - 2011: tissues, swap donation, grandparents, transplant coordinator, required request, higher penalties.
-> - Rules 2014: Form 10; Board of four, tests ≥6 hours apart.
+> - 2011: tissues, swap, grandparents, coordinator, required request, higher penalties.
+> - Rules 2014: Form 10; Board of four; tests ≥6 hours apart.
 
 ---
 

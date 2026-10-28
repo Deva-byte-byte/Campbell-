@@ -21,13 +21,13 @@
 *Assumed meaning: ectopia vesicae = classic bladder exstrophy (CBE).*
 
 ### A. Development of the ureter
-- **Weeks 4–6:** the **ureteric bud** arises from the distal **Wolffian (mesonephric) duct**. GDNF (glial cell line-derived neurotrophic factor) from the metanephric mesenchyme induces a single bud; SLIT2/ROBO2 signalling restricts it to one site (extra buds → duplication).
+- **Weeks 4–6:** the **ureteric bud** arises from the distal **Wolffian (mesonephric) duct**. GDNF (glial cell line-derived neurotrophic factor) from the metanephric mesenchyme induces a single bud (extra buds → duplication).
 - **Reciprocal induction:** the bud invades the metanephric blastema. Bud stalk → ureter; its branches → pelvis, calyces and collecting ducts; blastema → nephrons.
-- **Wall:** urothelial lining, lamina propria, outer smooth muscle and serosa, the same plan as the bladder. Ureters are alike in both sexes.
+- **Wall:** urothelium, lamina propria, smooth muscle and serosa, the same plan as the bladder.
 - **Chwalla membrane** at the future orifice normally ruptures; failure is the classic explanation of ureterocele.
 
 ### B. Development of the bladder
-- **Cloacal division (weeks 5–6):** the **urorectal septum** (Tourneux and Rathke folds) divides the cloaca into dorsal **anorectal canal** and ventral **UGS (urogenital sinus)**.
+- **Cloacal division (weeks 5–6):** the **urorectal septum** divides the cloaca into dorsal **anorectal canal** and ventral **UGS (urogenital sinus)**.
 - **Wolffian duct entry** is the landmark: cranial **vesicourethral canal** → bladder and pelvic urethra; caudal **definitive UGS** → phallic urethra (male), vestibule (female).
 - **Layers:** urothelium from UGS endoderm; detrusor and adventitia from splanchnic mesenchyme by epithelial–mesenchymal signalling.
 - **Urachus:** the bladder descends (months 4–5); the allantois obliterates to the urachus (median umbilical ligament).
@@ -47,21 +47,21 @@
 
 ### D. Ectopia vesicae: basis and anatomy
 - **Cause:** the cloacal membrane is not reinforced by mesoderm and ruptures (**Marshall–Muecke** overdevelopment theory). Timing decides cloacal exstrophy, CBE or epispadias.
-- **Incidence:** about 1 in 46,000; male:female 2.3:1; offspring of affected parent 1 in 70.
-- **Defects:** exposed bladder plate; pubic diastasis with externally rotated pelvis; epispadias with short, dorsally curved penis (or bifid clitoris); low umbilicus; anterior anus; inguinal hernias. **VUR in 100%** after closure (ureters enter without obliquity). Bladder is immature, not neuropathic.
+- **Incidence:** about 1 in 46,000; male:female 2.3:1.
+- **Defects:** exposed bladder plate; pubic diastasis; epispadias with short penis (or bifid clitoris); low umbilicus; anterior anus; hernias. **VUR in 100%** after closure. Bladder is immature, not neuropathic.
 
 ### E. Management
 **1. Prenatal:** ultrasound shows no bladder filling, low umbilicus, wide pubic rami, small genitalia, lower abdominal mass. Counsel; deliver at an exstrophy centre.
 
 **2. At birth**
 - Tie cord with silk (no clamp); cover plate with plastic wrap; saline irrigation at nappy change.
-- Cardiopulmonary check and renal ultrasound. Multidisciplinary team, including psychologist.
+- Renal ultrasound; multidisciplinary team.
 - **Assess:** template size and polyps (**3 × 3 cm** suits newborn closure), diastasis and pelvic malleability under anaesthesia, urethral plate and penile length, associated anomalies.
 - Small template: delay closure, not a bad early closure.
 
 **3. Pelvic osteotomy and immobilisation**
 - **Indications:** diastasis **>4 cm**, stiff pelvis, closure **after 72 hours**, failed closure, cloacal exstrophy.
-- **Combined bilateral anterior innominate + vertical iliac osteotomy** with external fixator and traction 4–6 weeks. Without osteotomy: modified Bryant traction 4 weeks. Spica casting fails more often.
+- **Combined bilateral anterior innominate + vertical iliac osteotomy** with external fixator and traction. Without osteotomy: modified Bryant traction 4 weeks. Spica casting fails more often.
 
 **4. MSRE (modern staged repair of exstrophy)**
 
@@ -71,7 +71,7 @@
 | 6–12 months | Epispadias repair (modified Cantwell-Ransley), after testosterone | Raises capacity; straightens penis |
 | 4–7 years | BNR (bladder neck reconstruction): modified **Young-Dees-Leadbetter** + bilateral **Cohen** reimplant | Continence; needs capacity **≥100 mL** and a motivated child |
 
-- **Closure keys:** radical division of the **urogenital diaphragm fibres** so the vesicourethral unit sits deep (commonest error if missed); tapered outlet; ureteric stents; suprapubic tube 4 weeks; no urethral stent; pubic nylon mattress.
+- **Closure keys:** radical division of the **urogenital diaphragm fibres** so the vesicourethral unit sits deep (commonest error if missed); ureteric stents; suprapubic tube 4 weeks; pubic nylon mattress suture.
 - **Alternatives:** CPRE (complete primary repair of exstrophy, Mitchell), Kelly radical soft-tissue mobilisation, Erlangen single stage, Mainz ureterosigmoidostomy. Most still need an outlet procedure.
 
 **5. Follow-up**
@@ -83,7 +83,7 @@
 
 ### F. Outcomes and long-term
 - Day continence after MSRE about **70–75%**. **Best predictors: template size at birth and a successful first closure.**
-- **Also know:** adenocarcinoma risk (lifelong cystoscopy; colonoscopy after ureterosigmoidostomy); uterine prolapse; caesarean delivery; male fertility reduced (ART [assisted reproductive technology]); psychosocial support.
+- **Also know:** adenocarcinoma risk (cystoscopy; colonoscopy after ureterosigmoidostomy); uterine prolapse; reduced male fertility; psychosocial support.
 
 **Diagram to draw:** Wolffian duct with ureteric bud and its absorption into the UGS; MSRE timeline.
 
@@ -149,7 +149,7 @@
 
 ### 5. Light and chemical energy
 - **PDT:** photosensitiser + light → singlet oxygen. **VTP (vascular-targeted photodynamic therapy, padeliporfin)** for low-risk prostate cancer: RCT (Azzouzi 2017) halved progression versus AS (active surveillance; 28% vs 58%); not widely adopted. **Photodynamic diagnosis** (blue light) aids TURBT.
-- **Chemohyperthermia:** MMC with bladder wall heated to **42 °C** for NMIBC; option for BCG (bacillus Calmette-Guérin) failure, not standard.
+- **Chemohyperthermia:** MMC with bladder wall heated to **42 °C** for NMIBC; used after BCG (bacillus Calmette-Guérin) failure or shortage; not standard.
 
 ### 6. Prostate (BPH) newer energies
 - **Rezum:** steam (103 °C) releases latent heat by convection; no char, zone-confined; preserves ejaculation.
@@ -196,7 +196,7 @@
 - **FSH (follicle-stimulating hormone) high**, **inhibin B low** (Sertoli marker); LH (luteinising hormone) normal or high; testosterone normal or low.
 - **FSH >7.6 IU/L and testis long axis ≤4.6 cm** suggest NOA.
 - **Karyotype and Y microdeletion** before surgery.
-- **Histology** confirms (diagnostic biopsy not done alone; combine with retrieval).
+- **Histology** confirms, usually at sperm retrieval.
 
 | Pattern | Meaning | Micro-TESE retrieval |
 |---|---|---|
@@ -274,7 +274,7 @@
 
 ### Definition
 - **Dhat syndrome:** a **culture-bound syndrome** of South Asia. The man believes he is losing **semen ("dhat")** in urine or nocturnal emissions, and attributes weakness, fatigue and sexual problems to it.
-- Term used by **Wig** (India). Listed in ICD-10 (International Classification of Diseases, 10th revision) under other neurotic disorders and in the DSM-5 (Diagnostic and Statistical Manual, 5th edition) glossary of cultural concepts of distress.
+- Term coined by **Wig** (India); listed in ICD-10 (International Classification of Diseases, 10th revision) and in the DSM-5 (Diagnostic and Statistical Manual, 5th edition) glossary of cultural concepts of distress.
 - Related syndromes: **Shen-kui** (China), **Koro** (genital retraction).
 
 ### Cultural basis
@@ -284,14 +284,14 @@
 - Young men, often unmarried or newly married, rural, lower education; common in urology and sexual medicine clinics.
 
 ### Clinical features
-- **Somatic:** fatigue, weakness, aches, poor appetite, palpitations.
+- **Somatic:** fatigue, weakness, aches, poor appetite.
 - **Psychological:** anxiety, low mood, guilt (about masturbation), poor concentration, sleep loss.
 - **Sexual:** fear of ED (erectile dysfunction) or PE (premature ejaculation), worry about penis size and fertility.
 - Whitish urine is often blamed: actually phosphaturia, oxaluria or normal secretions.
 - **Comorbidity:** **depression** and **anxiety** in many; somatisation.
 
 ### Evaluation
-- Sensitive, non-judgmental history; sexual history; belief system.
+- Non-judgmental sexual history and belief system.
 - Examination of genitalia; urine microscopy (phosphates, oxalates, sperm, pus cells).
 - Exclude organic disease: **UTI (urinary tract infection), prostatitis, STI (sexually transmitted infection), diabetes**, true spermatorrhoea.
 - Screen for depression and anxiety.
@@ -312,7 +312,7 @@
 - Refer to psychiatry when depression is significant.
 
 ### Prognosis
-- Good with counselling plus treatment of comorbidity; follow-up drop-out is common.
+- Good with counselling; drop-out is common.
 
 **Diagram to draw:** flowchart: complaint of semen loss → exclude organic cause → counsel → treat depression or anxiety.
 
