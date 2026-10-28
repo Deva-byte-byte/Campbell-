@@ -125,6 +125,7 @@
 - **MRI-first pathway:** mpMRI (multiparametric magnetic resonance imaging), scored by **PI-RADS (Prostate Imaging–Reporting and Data System)** 1–5, before biopsy.
   - **PROMIS (2017):** mpMRI sensitivity 93% vs 48% for TRUS (transrectal ultrasound) biopsy; NPV (negative predictive value) 89%; 27% could avoid biopsy.
   - **PRECISION (2018):** MRI with targeted biopsy of PI-RADS ≥3 found more significant cancer (38% vs 26%); 28% avoided biopsy.
+  - So PI-RADS ≥3 lesions are biopsied, while PI-RADS 1–2 with low PSA density may safely avoid biopsy.
 - **Transperineal biopsy** under local anaesthesia: near-zero sepsis; MRI–ultrasound fusion targeting. **Micro-ultrasound** (PRI-MUS scoring) matches mpMRI in registry data.
 - **PSMA (prostate-specific membrane antigen) PET (positron emission tomography):** **proPSMA:** accuracy 92% vs 65% for CT (computed tomography) plus bone scan (sensitivity 85%, specificity 98%). Used for high-risk staging, biochemical recurrence and selecting radioligand therapy.
 
@@ -133,7 +134,7 @@
 - **Robotic RP (radical prostatectomy):** **Retzius-sparing** (Bocciardi) gives earlier continence (1 week to 3 months; equal by 12 months); single-port robot; frozen-section-guided nerve sparing (NeuroSAFE).
 - **Radiotherapy:**
   - Moderate hypofractionation **60 Gy in 20** (CHHiP) is standard.
-  - **SBRT (stereotactic body radiotherapy) 36.25 Gy in 5:** PACE-B, similar late toxicity; HYPO-RT-PC (42.7 Gy in 7) non-inferior.
+  - **SBRT (stereotactic body radiotherapy) 36.25 Gy in 5:** PACE-B showed similar late toxicity at 2 years (chapter); its 5-year report (2024) showed non-inferior biochemical or clinical control. HYPO-RT-PC (42.7 Gy in 7) was also non-inferior.
   - **FLAME:** MRI-lesion boost improved biochemical PFS (progression-free survival) (HR [hazard ratio] 0.45). **Hydrogel rectal spacer** reduces rectal toxicity.
   - High-risk M0: **abiraterone added to ADT (androgen deprivation therapy) and RT (STAMPEDE):** MFS (metastasis-free survival) HR 0.53.
 - **Focal therapy:** based on the **index lesion hypothesis** (the largest or highest-grade focus drives progression). Energies: HIFU (high-intensity focused ultrasound), cryotherapy, IRE (irreversible electroporation), focal laser, VTP (vascular-targeted photodynamic therapy, padeliporfin). **HEAT registry (1379 men):** failure-free survival 68% (intermediate risk); continence 90–95%. Still within trials or registries.
@@ -150,6 +151,7 @@
 | HRR (homologous recombination repair)-mutated mCRPC | **PARP (poly-ADP-ribose polymerase) inhibitors** | **PROfound:** olaparib imaging PFS 7.4 vs 3.6 months; PROpel, MAGNITUDE, TALAPRO-2 |
 | PSMA-positive mCRPC | **¹⁷⁷Lu-PSMA-617** | **VISION:** OS (overall survival) 15.3 vs 11.3 months (HR 0.62); TheraP: PSA response 65% vs 37% vs cabazitaxel |
 
+- **ADT alone is no longer standard** for mHSPC; every fit man gets intensification.
 - **Germline and somatic testing** for all metastatic disease; **pembrolizumab** for MSI-high (microsatellite instability-high) tumours.
 - **Relugolix:** oral GnRH (gonadotropin-releasing hormone) antagonist; HERO showed better sustained castration than leuprolide.
 - **Also know:** radium-223 (ALSYMPCA, OS HR 0.70); PSMAfore (lutetium before chemotherapy); AI in MRI reading and pathology.
@@ -214,7 +216,7 @@
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Silodosin is a **uroselective α1-adrenergic blocker**, the **most α1A-selective** agent: several hundredfold over α1B and about 50-fold over α1D.
+- **Uroselective α1-blocker**, the **most α1A-selective** agent: several hundredfold over α1B, about 50-fold over α1D.
 
 ### Mechanism of action
 - **α1A receptors** make up about 70% of prostatic α1 receptors and dominate in the bladder neck and prostatic urethra. Noradrenaline acting on them causes the **dynamic component** of BOO (bladder outlet obstruction).
@@ -224,7 +226,7 @@
 - **Dose: 8 mg once daily with a meal**; no titration.
 - **Renal:** 4 mg if CrCl (creatinine clearance) 30–50 mL/min; contraindicated below 30. Contraindicated in severe hepatic impairment.
 - Metabolised by CYP3A4: avoid potent CYP3A4 inhibitors (ketoconazole) and other α-blockers.
-- Rapid onset: flow within 2–6 h, symptoms within 3–4 days.
+- Onset: flow within 2–6 h, symptoms within 3–4 days.
 
 ### Indications
 | Indication | Evidence |
@@ -233,11 +235,11 @@
 | **MET (medical expulsive therapy)** | Distal ureteric stones 5–10 mm; meta-analyses show higher, faster expulsion than tamsulosin |
 | CP/CPPS (chronic prostatitis/chronic pelvic pain syndrome) | α-blocker-naive men with voiding symptoms |
 
-- Greatest fall in BOOI (BOO index) of all α1-blockers (subgroup data). **Also know:** modest benefit in nocturia; used for stent-related symptoms.
+- Greatest fall in BOOI (BOO index) of all α1-blockers (subgroup data). **Also know:** nocturia (modest).
 
 ### Adverse effects
-- **Ejaculatory dysfunction (signature):** anejaculation in over a quarter of men in registration trials; about 14% vs 2% with tamsulosin head-to-head. Mechanism: **emission failure** (α1A blockade of vas and seminal vesicles) and bladder-neck relaxation. It is reversible, few men stop the drug, and men with it had better symptom responses. Counsel young men.
-- **Cardiovascular:** dizziness; orthostatic hypotension rare; no QT change; safe with antihypertensives and over 65.
+- **Ejaculatory dysfunction (signature):** anejaculation in over a quarter of men in registration trials (about 14% vs 2% with tamsulosin head-to-head). Mechanism: **emission failure** (vas and seminal vesicle α1A blockade) and bladder-neck relaxation. Reversible; few stop the drug. Counsel young men.
+- **Cardiovascular:** dizziness; orthostatic hypotension rare; no QT change; safe with antihypertensives.
 - **IFIS (intraoperative floppy iris syndrome):** class effect; tell the ophthalmologist before cataract surgery (stopping the drug does not remove risk).
 - Falls in older men; worsens stress incontinence in women.
 
@@ -261,7 +263,7 @@
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- **WLC (white-light cystoscopy)** is the gold standard but subjective; many suspicious-area biopsies are negative and small lesions are missed.
+- **WLC (white-light cystoscopy)** is the gold standard but subjective: many biopsies are negative and small lesions are missed.
 - **OCT (optical coherence tomography)** is an **"optical biopsy"** technique listed among enhanced cystoscopic methods for NMIBC (non-muscle-invasive bladder cancer).
 
 ### Principle
@@ -288,7 +290,7 @@
 
 ### Evidence and limitations
 - Small studies show **high sensitivity but lower specificity**: inflammation, scar and post-BCG (bacille Calmette–Guérin) change mimic tumour. Adding OCT to blue light improves specificity.
-- Limitations: tiny field of view; depth too shallow to stage muscle invasion; no cellular detail, so it cannot grade; contact probe; cost; learning curve.
+- Limitations: tiny field of view; too shallow to stage muscle invasion; no cellular detail, so cannot grade; cost; learning curve.
 - Not recommended routinely by guidelines; investigational.
 
 ### Other enhanced techniques
@@ -313,12 +315,12 @@
 *Read as second-look (repeat or restaging) TURBT.*
 
 ### Definition
-- A **planned second TURBT (transurethral resection of bladder tumour)** of the primary site, including detrusor muscle, after the first resection. It completes resection and corrects staging.
+- A **planned second TURBT (transurethral resection of bladder tumour)** of the primary site, including detrusor muscle. It completes resection and corrects staging.
 
 ### Rationale
 - **TURBT is a staging operation first.** Completeness and muscle in the specimen are the quality markers.
 - Residual tumour is common:
-  - At the resection site in **≥40%** when re-resected within weeks; tumour at first cystoscopy in up to 45%.
+  - At the resection site in **≥40%** when re-resected within weeks.
   - **HG (high-grade) Ta:** residual up to 50%, upstaging up to 15%.
   - **HG T1:** upstaging to muscle invasion in **25–30%**, up to about half if **no muscle** in the first specimen.
   - Understaging is about twice as likely without muscle.
@@ -334,8 +336,7 @@
 - **2–6 weeks** after the first TURBT (EAU [European Association of Urology]); **within 6 weeks** (AUA). This allows healing yet avoids delaying intravesical BCG (bacille Calmette–Guérin).
 
 ### Technique
-- Resect the **scar of the primary site deep into detrusor**, plus any residual or new tumour; send specimens separately.
-- Blue-light or NBI (narrow-band imaging) cystoscopy helps find residual tumour.
+- Resect the **primary-site scar deep into detrusor**, plus any residual tumour; send specimens separately. Blue-light or NBI (narrow-band imaging) helps.
 
 ### Evidence
 - Changes treatment in about **one-third**.
@@ -351,7 +352,7 @@ Muscle invasion (≥T2)     → neoadjuvant chemotherapy + cystectomy
 ```
 
 ### Recent advances
-- **En bloc resection** gives more detrusor and less residual tumour, possibly reducing the need for re-TUR.
+- **En bloc resection:** more detrusor, less residual tumour.
 - Expert pathology review changes management in about one-third.
 - **Also know:** maximal TURBT before trimodality therapy.
 
@@ -404,7 +405,7 @@ Muscle invasion (≥T2)     → neoadjuvant chemotherapy + cystectomy
 - Failure or recurrence (repeat 1–2 injections, then reimplant); new contralateral VUR; **early or late obstruction**; calcified mound mimics a stone. **Also know:** Macroplastique.
 
 ### Follow-up
-- Antibiotics 3 months; ultrasound at 2–6 weeks; ultrasound ± VCUG (voiding cystourethrogram) at 3 months.
+- Ultrasound at 2–6 weeks; ultrasound ± VCUG (voiding cystourethrogram) at 3 months.
 
 **Diagram to draw:** needle sites: STING below orifice, HIT and double HIT inside the tunnel, with volcano mound.
 

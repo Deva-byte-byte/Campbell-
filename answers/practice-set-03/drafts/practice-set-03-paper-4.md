@@ -88,8 +88,6 @@
 
 ---
 
----
-
 ## Q2. Describe principles of continent urinary diversions. Current status of orthotopic neobladder.
 **Type:** LAQ (25 marks)
 (neobladder also answered in 2020-Summer Paper 4, Q3a)
