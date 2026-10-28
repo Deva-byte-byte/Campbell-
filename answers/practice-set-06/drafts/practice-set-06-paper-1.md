@@ -21,7 +21,7 @@
 
 ### A. Anatomy
 **Gross**
-- Paired retroperitoneal glands on the upper renal poles at the level of the 11th–12th ribs, inside Gerota (perirenal) fascia, separated from the kidney by a thin connective tissue layer. Yellow-orange, 4–6 cm long, 2–3 cm wide, about 5 g each.
+- Paired retroperitoneal glands on the upper renal poles (11th–12th ribs), inside Gerota fascia, separated from the kidney by thin connective tissue. Yellow-orange, 4–6 × 2–3 cm, about 5 g each.
 
 | Feature | Right | Left |
 |---|---|---|
@@ -37,7 +37,7 @@
 
 **Embryology:** cortex from coelomic mesoderm (adrenogonadal ridge, weeks 3–4); medulla from neural crest. Hence adrenals stay orthotopic in renal agenesis, and adrenal rests occur along the path of gonadal descent.
 
-**Histology ("GFR, salt–sugar–sex")**
+**Histology (zones from outside in: glomerulosa, fasciculata, reticularis = "salt, sugar, sex")**
 | Zone | Share | Product | Main control |
 |---|---|---|---|
 | Glomerulosa | ~15% of cortex | Aldosterone | Angiotensin II, potassium |
@@ -143,7 +143,7 @@ Tyrosine -tyrosine hydroxylase (rate-limiting)-> L-DOPA -decarboxylase-> Dopamin
 - **Also know (aetiology):** multifactorial; recurrence in offspring of an affected parent 1 in 70; 22q11.2 duplication (commonest variant), ISL1 susceptibility gene, p63 under-expression; IVF (in vitro fertilisation) and high-dose early progesterone raise risk; maternal smoking linked to cloacal exstrophy.
 
 ### C. Skeletal abnormalities
-**1. Classic bladder exstrophy (3D CT studies)**
+**1. Classic bladder exstrophy (3D [three-dimensional] CT [computed tomography] studies)**
 - **Rotational:** posterior pelvis externally rotated (mean 12° each side); anterior segment externally rotated (mean 18° each side); sacroiliac joint rotated; acetabular and femoral retroversion.
 - **Dimensional:** **pubic diastasis** (mean 4.8 cm); **anterior pubic segment shortened by 30%**; intertriradiate distance increased by about 31%; posterior segment length normal; larger sacrum.
 - Bone histology is normal, so growth potential is normal.
@@ -332,10 +332,10 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 **Type:** SAQ (10 marks)
 (evidence-based medicine also answered in 2020-Summer Paper 4, Q3f)
 
-*Assumed meaning: criteria for evaluating the quality of medical research papers (critical appraisal).*
+*Assumed meaning: "quaLliy" = quality, i.e. critical appraisal.*
 
 ### Definition
-- **Critical appraisal:** systematic assessment of a paper's **validity, results and applicability** before using it. It is the "Appraise" step of EBM (evidence-based medicine).
+- **Critical appraisal:** systematic assessment of a paper's **validity, results and applicability**; the "Appraise" step of EBM (evidence-based medicine).
 
 ### Three core questions
 **1. Is it valid? (internal validity)**
@@ -348,15 +348,13 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 | Selection | Groups differ at entry |
 | Confounding | Third factor (comorbidity) linked to exposure and outcome |
 | Performance, detection, attrition | Unequal care, outcome assessment or dropouts |
-| Lead-time, length-time | Screening seems to prolong survival |
-| Stage migration (Will Rogers) | Better tests up-stage patients |
+| Lead-time, length-time; stage migration (Will Rogers) | Screening or better tests make survival look longer |
 | Publication | Negative studies unpublished |
 
 **2. What are the results?**
-- Effect: RR (relative risk), **ARR (absolute risk reduction), NNT (number needed to treat) = 1/ARR**, HR (hazard ratio).
+- Effect: RR (relative risk), **ARR (absolute risk reduction), NNT (number needed to treat) = 1/ARR**.
 - Precision: **95% CI (confidence interval)**; p value; **sample size and power** (usually 80%; α 0.05).
-- Surrogate end points valid only if they meet the **Prentice criteria**.
-- Validated outcome tools; complications graded (Clavien–Dindo).
+- Surrogate end points must meet the **Prentice criteria**; validated outcome tools; Clavien–Dindo grading.
 
 **3. Does it apply? (external validity)**
 - Similar patients and setting; benefit outweighs harm.
@@ -370,14 +368,14 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 | 4 | Expert opinion |
 - **GRADE** (Grading of Recommendations Assessment, Development and Evaluation): certainty high to very low; strong or weak.
 
-### Reporting checklists and appraisal tools
+### Reporting checklists
 | Design | Checklist |
 |---|---|
-| RCT | **CONSORT** |
-| Systematic review / meta-analysis | **PRISMA**; AMSTAR 2 for quality |
-| Observational | **STROBE**; Newcastle–Ottawa scale |
-| Diagnostic accuracy | **STARD**; QUADAS-2 |
-| Surgical innovation | **IDEAL** framework |
+| RCT | **CONSORT** (Consolidated Standards of Reporting Trials) |
+| Systematic review / meta-analysis | **PRISMA** (Preferred Reporting Items for Systematic reviews and Meta-Analyses) |
+| Observational | **STROBE** (Strengthening the Reporting of Observational studies in Epidemiology) |
+| Diagnostic accuracy | **STARD** (Standards for Reporting Diagnostic accuracy studies) |
+| Surgical innovation | **IDEAL** framework (Idea, Development, Exploration, Assessment, Long-term study) |
 - **Also know:** Cochrane RoB 2 (risk-of-bias) tool; trial registration; conflicts of interest.
 
 **Diagram to draw:** evidence pyramid.

@@ -63,7 +63,7 @@
 
 ### Management
 **Aims:** continence with safe upper tracts, and a straight penis of adequate length that works for intercourse.
-- **Preoperative testosterone** (2 mg/kg intramuscular, 5 and 2 weeks before) enlarges the penis.
+- **Preoperative testosterone** (2 mg/kg intramuscular, 5 and 2 weeks before).
 
 **Stage 1: urethroplasty and penile reconstruction (6–12 months)**
 1. Release dorsal chordee: divide suspensory ligaments; free corpora from the inferior pubic rami.
@@ -112,12 +112,13 @@
 | Detumescence | Initial, slow, fast phases | Falls to baseline |
 
 ### Molecular mechanism
-- **Relaxation (erection):** NO (nitric oxide) from **nNOS (neuronal nitric oxide synthase)** in cavernous nerves initiates erection; endothelial eNOS sustains it.
+- **Relaxation (erection):** NO (nitric oxide) from **nNOS (neuronal nitric oxide synthase)** in cavernous nerves initiates erection; endothelial NOS (eNOS) sustains it.
   - NO → soluble guanylyl cyclase → **cGMP (cyclic guanosine monophosphate)** → protein kinase G → K⁺ channels open, Ca²⁺ channels close, Ca²⁺ sequestered → **low cytosolic Ca²⁺** → relaxation.
   - Second route: PGE1 (prostaglandin E1), VIP (vasoactive intestinal peptide) → **cAMP (cyclic adenosine monophosphate)** → protein kinase A.
   - **PDE5 (phosphodiesterase type 5)** degrades cGMP and ends relaxation; PDE5 inhibitors block it.
 - **Contraction (flaccidity):** **noradrenaline (α1)**, endothelin-1, angiotensin II → raised Ca²⁺ → calmodulin → myosin light-chain kinase → contraction. **Rho-kinase** inhibits myosin phosphatase and maintains tone.
-- Gap junctions (connexin-43) synchronise the smooth muscle.
+- **Detumescence:** NO release stops, PDE5 degrades cGMP and sympathetic discharge contracts the smooth muscle, so emissary veins reopen.
+- Gap junctions (connexin-43) synchronise the smooth muscle. **Also know:** carbon monoxide and hydrogen sulfide also raise cGMP; acetylcholine acts indirectly through endothelial NO (atropine does not block erection).
 
 ### Neural control
 | Pathway | Origin | Role |
@@ -149,7 +150,7 @@
 - **Morning total testosterone**; if low, repeat with free testosterone, LH (luteinising hormone), prolactin. TSH (thyroid-stimulating hormone) if indicated.
 
 **4. Cardiovascular risk stratification (Princeton Consensus)**
-- **High risk** (unstable angina, recent infarction, uncontrolled hypertension, some arrhythmias): defer sexual activity and treatment; cardiology referral. **Intermediate:** stress testing. **Low:** start treatment.
+- **High risk** (unstable angina, recent infarction, uncontrolled hypertension, some arrhythmias): defer sexual activity and treatment; cardiology referral. **Indeterminate:** cardiac assessment (e.g. stress test), then restratify. **Low:** start treatment.
 
 **5. Specialised tests (selected cases)**
 - **CIS (combined intracavernous injection and stimulation):** alprostadil 10–20 µg; a rigid erection excludes major vascular disease.
@@ -318,11 +319,11 @@ Diabetic with ED → history + IIEF-5 + examination
 **Type:** SAQ (10 marks)
 
 ### Definition
-- **Flow cytometry** measures physical and fluorescent properties of **single cells in suspension** as they flow one at a time through a laser beam. Thousands of cells are analysed per second.
+- **Flow cytometry** measures physical and fluorescent properties of **single cells in suspension** flowing one at a time through a laser beam, thousands per second.
 
 ### Principle
-1. **Sample:** fresh cells, body fluid (urine, bladder washings) or nuclei extracted from paraffin blocks.
-2. **Staining:** fluorochrome-labelled monoclonal antibodies (surface markers, e.g. CD [cluster of differentiation] antigens) or **DNA-binding dyes** (propidium iodide, DAPI [4′,6-diamidino-2-phenylindole]).
+1. **Sample:** fresh cells, urine, bladder washings, or nuclei from paraffin blocks.
+2. **Staining:** fluorochrome-labelled antibodies to CD (cluster of differentiation) antigens, or **DNA-binding dyes** (propidium iodide, DAPI [4′,6-diamidino-2-phenylindole]).
 3. **Hydrodynamic focusing** lines the cells up in single file.
 4. **Laser interrogation:**
    - **Forward scatter** = cell size.
@@ -339,18 +340,18 @@ Diabetic with ED → history + IIEF-5 + examination
 ### Applications in urology
 | Area | Use |
 |---|---|
-| **Bladder cancer** | DNA ploidy of bladder washings: aneuploidy with high grade, CIS (carcinoma in situ) and recurrence; largely replaced by **UroVysion FISH (fluorescence in situ hybridisation)**, which also detects aneuploidy |
+| **Bladder cancer** | Ploidy of bladder washings: aneuploidy with high grade, CIS (carcinoma in situ), recurrence; replaced by **UroVysion FISH (fluorescence in situ hybridisation)** |
 | **Upper-tract urothelial cancer** | Aneuploidy → poor long-term survival |
 | **Prostate cancer** | Aneuploid tumours progress more after treatment than diploid |
 | **Neuroblastoma** | **Hyperdiploid favourable**; diploid or tetraploid adverse; part of COG (Children's Oncology Group) risk |
 | **Urinalysis** | Automated urine analysers count RBC (red blood cells), WBC (white blood cells) and bacteria |
-| **Transplantation** | **Flow cytometric crossmatch**: more sensitive than CDC (complement-dependent cytotoxicity) crossmatch for donor-specific antibody; Luminex single-antigen bead assays (virtual crossmatch); CD3 count to guide antithymocyte globulin |
-| **Male infertility** | Sperm DNA fragmentation (SCSA [sperm chromatin structure assay]); haploid cells in testicular aspirates; leucocytospermia |
+| **Transplantation** | **Flow cytometric crossmatch**: more sensitive than CDC (complement-dependent cytotoxicity) crossmatch for donor-specific antibody; Luminex single-antigen beads; CD3 count to guide antithymocyte globulin |
+| **Male infertility** | Sperm DNA fragmentation (SCSA [sperm chromatin structure assay]); haploid cells in testicular aspirates |
 | **Lymphoma** | Immunophenotyping of testicular or renal lymphoma |
 
 ### Advantages and limitations
 - **Advantages:** rapid, objective, quantitative, many parameters per cell.
-- **Limitations:** needs a single-cell suspension, so architecture is lost; near-diploid aneuploidy missed; normal cell contamination dilutes tumour peaks; ploidy adds little independent value in most urological tumours today.
+- **Limitations:** architecture lost; near-diploid aneuploidy missed; normal cells dilute tumour peaks; ploidy now adds little independent value.
 
 **Diagram to draw:** DNA histogram with diploid G0/G1 peak, S-phase and aneuploid peak.
 
@@ -418,7 +419,7 @@ Diabetic with ED → history + IIEF-5 + examination
 | **Renal loss, high BP (blood pressure)** | **Primary hyperaldosteronism (Conn)**, renin-secreting juxtaglomerular tumour, Cushing, Liddle, **abiraterone** (mineralocorticoid excess) |
 | **Renal loss, normal BP** | Loop and thiazide diuretics, **postobstructive diuresis**, osmotic diuresis, **RTA (renal tubular acidosis) types 1 and 2**, Bartter, Gitelman, hypomagnesaemia, amphotericin, cisplatin |
 
-- **Vomiting:** potassium is lost mainly in urine (alkalosis → distal sodium delivery → kaliuresis), not in gastric juice.
+- **Vomiting:** potassium is lost mainly in urine (alkalosis → kaliuresis), not in gastric juice.
 
 ### Clinical features
 - Muscle weakness, cramps, ileus, **flaccid paralysis**, rhabdomyolysis.
@@ -444,5 +445,5 @@ Diabetic with ED → history + IIEF-5 + examination
 > **Key points to remember:**
 > - Shift or loss; urine potassium separates renal from extrarenal.
 > - ECG: flat T, U wave.
-> - Diversion acidosis: give potassium before bicarbonate.
+> - Diversion acidosis: give potassium with or before bicarbonate.
 > - Correct magnesium first.

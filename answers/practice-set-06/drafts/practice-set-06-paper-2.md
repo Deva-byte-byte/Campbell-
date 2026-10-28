@@ -106,8 +106,8 @@ Localised → rising PSA → mCSPC (castration-sensitive)
 *Assumed meaning: lower urinary tract trauma (bladder and urethra) in pelvic fracture.*
 
 ### Introduction
-- Pelvic fracture is present in **83–95% of bladder injuries**, yet only **5–10% of pelvic fractures** injure the bladder. Urethral injury occurs in about **10% of male** and up to 6% of female pelvic fractures.
-- 80–94% have other major injuries; mortality comes from these, not from the urinary injury. Long-term disability comes from wrong management.
+- Pelvic fracture accompanies **83–95% of bladder injuries**, yet only **5–10% of pelvic fractures** injure the bladder. Urethral injury occurs in about **10% of male** and up to 6% of female pelvic fractures.
+- 80–94% have other major injuries, which cause the deaths; long-term disability comes from wrong management.
 
 ### Mechanism
 - **EPR (extraperitoneal rupture):** pelvic disruption tears the bladder at its fascial attachments, or bone spicules lacerate it.
@@ -136,7 +136,7 @@ Localised → rising PSA → mCSPC (castration-sensitive)
 - Chapter's practical grading: **partial injury, minor distraction, major distraction** (a cystoscope cannot pass into the bladder). Stricture risk rises with each.
 
 ### Clinical features
-- Bladder: **gross haematuria (nearly all)**, suprapubic pain, inability to void, free fluid, abdominal distension.
+- Bladder: **gross haematuria (nearly all)**, suprapubic pain, inability to void, free fluid.
 - Urethra: **triad: blood at the meatus, inability to void, palpable bladder**. A "high-riding" prostate and butterfly perineal haematoma are unreliable. **Vaginal examination** in every female.
 
 ### Investigations
@@ -153,7 +153,7 @@ Localised → rising PSA → mCSPC (castration-sensitive)
 **Bladder**
 - **Uncomplicated EPR:** 22 Fr urethral catheter 2–3 weeks; cystogram before removal; repair if leak persists beyond 4 weeks.
 - **Immediate repair:** IPR; penetrating injury; bladder neck injury; bone fragments in the bladder; rectal or vaginal injury; poor drainage or clots; laparotomy for other reasons.
-- IPR repair: open or laparoscopic two-layer closure; inspect ureteric orifices; cystogram at 7–10 days. EPR repaired at laparotomy through an anterior cystotomy, without disturbing the pelvic haematoma.
+- IPR: open or laparoscopic two-layer closure; inspect ureteric orifices; cystogram at 7–10 days. At laparotomy, repair EPR from inside the bladder, leaving the pelvic haematoma undisturbed.
 - Suprapubic tube adds nothing over urethral catheter (AUA). Antibiotics only around IPR repair.
 - Rectal or vaginal injury: separate the walls, no overlapping suture lines, interpose tissue.
 
@@ -167,7 +167,7 @@ Blood at meatus → RUG
              (flexible cystoscopy, antegrade + retrograde)
   Bladder neck/rectal injury → immediate repair
 ```
-- Avoid small "punch" tubes. SPC is safe with pelvic plating (AUA); place it high in the midline.
+- Avoid small "punch" tubes. SPC is safe with pelvic plating (AUA); place it high.
 - Realignment: catheter out at 4–6 weeks, keep SPC. It does **not** lower urethroplasty rates; most still form a 1–2 cm stenosis.
 
 **Urethra: delayed (2–3 months)**
@@ -178,9 +178,9 @@ Blood at meatus → RUG
 
 ### Complications
 - ED (erectile dysfunction) up to 82%, mainly from the injury (nerve, arterial, venous).
-- Restenosis 5–15% (DVIU often works); incontinence <4%.
-- Missed IPR: urinary ascites, acidosis and azotaemia from peritoneal reabsorption.
-- Fistula, abscess, neurogenic voiding dysfunction. Follow up ≥1 year (AUA).
+- Restenosis 5–15% (DVIU usually works); incontinence <4%.
+- Missed IPR: ascites, acidosis, azotaemia (peritoneal reabsorption).
+- Fistula, abscess, neurogenic voiding dysfunction; follow up ≥1 year.
 
 **Diagram to draw:** pelvis with EPR (flame-shaped) vs IPR, and bulbomembranous distraction defect.
 
@@ -221,7 +221,7 @@ Blood at meatus → RUG
 
 ### Limitations
 - Needs early referral and a ready donor.
-- Residual native function may be "lost" early; adherence untested.
+- Transplant may come earlier than needed, using up dialysis-free native function; adherence untested.
 - In advanced CKD, bowel augmentation may speed decline.
 
 **Also know:** ABO-incompatible or paired exchange programmes widen pre-emptive options.
@@ -248,7 +248,7 @@ Blood at meatus → RUG
 | **Intraoperative** | Parenchymal or venous tract bleeding; infundibular artery injury; through-and-through puncture; posterior segmental artery injury (upper-pole access); torn infundibulum or pelvis |
 | **Early postoperative** | Tract bleeding after sheath removal; clot retention |
 | **Delayed (about 1 week)** | **Pseudoaneurysm**, **AV (arteriovenous) fistula** |
-- **Risk factors:** infundibular or upper-pole puncture, multiple or large tracts, staghorn stone, long operation, anticoagulants or antiplatelets, coagulopathy, hypertension, diabetes, CKD (chronic kidney disease).
+- **Risk factors:** infundibular or upper-pole puncture, multiple or large tracts, staghorn stone, long operation, antithrombotic drugs, coagulopathy, diabetes.
 - **Prevention:** puncture through the **calyceal fornix** along a posterior calyx (Sampaio: no arterial injury); correct clotting; mini-tracts; tranexamic acid reduces transfusion (Cochrane).
 
 ### Mechanism of delayed bleeding
@@ -296,8 +296,8 @@ Resuscitate: IV access, crossmatch, transfuse; Hb, clotting
 | **Imperative** | Solitary kidney; bilateral tumours; RN would cause dialysis |
 | **Relative** | Contralateral kidney threatened (stones, renal artery stenosis, diabetes, hypertension); hereditary RCC (renal cell carcinoma) |
 | **Elective** | **cT1a with normal contralateral kidney: standard of care**; cT1b–T2 when feasible |
-| **Benign** | Symptomatic AML (angiomyolipoma); focal atrophy in duplex kidney; infected calyceal diverticulum; trauma |
-- **Relative contraindications:** <20% nephron mass left; pedicle encasement; venous tumour thrombus; cT4; nodes.
+| **Benign** | Symptomatic AML (angiomyolipoma); focal atrophy in duplex kidney; infected calyceal diverticulum |
+- **Relative contraindications:** <20% nephron mass left; pedicle encasement; venous thrombus; cT4; nodes.
 - Planning: **R.E.N.A.L. nephrometry score** (Radius, Exophytic, Nearness to collecting system, Anterior/posterior, Location) predicts complexity; 3D models help.
 
 ### Approaches
@@ -307,7 +307,7 @@ Resuscitate: IV access, crossmatch, transfuse; Hb, clotting
 | **Open transperitoneal** (subcostal, chevron, midline) | Bilateral or large tumours, vascular reconstruction |
 | **Laparoscopic transperitoneal** | Large space, easier suturing; anterior tumours |
 | **Laparoscopic retroperitoneal** | No bowel mobilisation, direct hilum; posterior tumours |
-| **Robot-assisted (RAPN)** | Easier suturing, shorter warm ischaemia; now most common |
+| **Robot-assisted (RAPN)** | Easier suturing, shorter warm ischaemia, fewer conversions |
 
 ### Key technical steps
 1. Early hilar control; **intraoperative ultrasound** for borders and depth.
@@ -341,7 +341,7 @@ Resuscitate: IV access, crossmatch, transfuse; Hb, clotting
 ### Indications (AAES [American Association of Endocrine Surgeons] 2022)
 - **Functional, any size:** aldosteronoma (Conn; after AVS [adrenal venous sampling]), cortisol-secreting adenoma, phaeochromocytoma, sex-hormone tumour, failed pituitary surgery for Cushing disease.
 - **Malignant potential:** ≥4 cm; growth; >10 HU (Hounsfield units) unenhanced; washout <50%; suspected ACC (adrenocortical carcinoma); solitary metastasis.
-- Symptomatic myelolipoma >7 cm, cysts.
+- Myelolipoma >7 cm or symptomatic; cysts.
 - **Contraindications (correct first):** uncontrolled hypertension, coagulopathy, peritonitis (transperitoneal); pregnancy relative.
 
 ### Preoperative preparation
@@ -353,14 +353,14 @@ Resuscitate: IV access, crossmatch, transfuse; Hb, clotting
 | Approach | Use |
 |---|---|
 | **Laparoscopic transperitoneal** (gold standard since 1992) | Familiar view, larger tumours |
-| **Retroperitoneoscopic** (lateral or prone) | Prior abdominal surgery, small tumours, bilateral |
+| **Retroperitoneoscopic** (lateral or prone) | Prior abdominal surgery, small tumours |
 | Robotic | Either route |
 | **Open** (subcostal, chevron, thoracoabdominal, flank) | **ACC**, large or invasive tumours |
 
 ### Steps (laparoscopic transperitoneal)
 - **Right:** elevate liver → Kocher manoeuvre → follow IVC → **control adrenal vein early** (warn anaesthetist) → free gland to psoas → bag intact.
 - **Left:** reflect colon and spleen → follow left renal vein to adrenal vein → clip → free from pancreas and splenic vessels.
-- Keep the kidney attachment last as a handle. ACC: open en bloc, avoid rupture.
+- Kidney attachment last (handle). ACC: open en bloc, no rupture.
 - **Partial adrenalectomy:** bilateral or hereditary phaeochromocytoma, solitary gland.
 
 ### Complications
@@ -412,10 +412,10 @@ Resuscitate: IV access, crossmatch, transfuse; Hb, clotting
 | Treatment | Nephrectomy | Antibiotics; nephrectomy if unilateral, symptomatic |
 
 ### Management
-- **Long-term antibiotics active inside macrophages:** fluoroquinolones (preferred), trimethoprim–sulfamethoxazole, rifampicin, doxycycline.
+- **Long-term antibiotics active inside macrophages:** fluoroquinolones (concentrate in macrophages), trimethoprim–sulfamethoxazole, rifampicin, doxycycline.
 - **Bethanechol + ascorbic acid** raise intracellular cGMP and correct the degradative defect.
 - Reduce immunosuppression where possible.
-- Surgery: TUR (transurethral resection) of bladder lesions; **nephrectomy** for symptomatic unilateral renal disease.
+- Surgery if progression despite medical therapy: TUR (transurethral resection) of bladder lesions; **nephrectomy** for symptomatic unilateral renal disease.
 
 ### Prognosis
 - Bilateral or transplant-kidney disease: death often within 6 months; overall mortality can exceed 50%. Unilateral: long survival after nephrectomy.
@@ -434,35 +434,34 @@ Resuscitate: IV access, crossmatch, transfuse; Hb, clotting
 (also answered in 2015-Summer Paper 2, Q1)
 
 ### Rationale
-- BPH (benign prostatic hyperplasia) obstruction has a **dynamic** part (α1A-mediated smooth-muscle tone) and a **static** part (DHT [dihydrotestosterone]-driven gland bulk). Drugs target each; the bladder is treated separately.
+- BPH (benign prostatic hyperplasia) obstruction has a **dynamic** part (α1A-mediated smooth-muscle tone) and a **static** part (DHT [dihydrotestosterone]-driven gland bulk). Drugs target each.
 
 ### Before treatment
-- IPSS (International Prostate Symptom Score), DRE (digital rectal examination), urinalysis, PSA (prostate-specific antigen), PVR (post-void residual), frequency–volume chart. PVR >300 mL: manage as chronic retention.
+- IPSS (International Prostate Symptom Score), DRE (digital rectal examination), urinalysis, PSA (prostate-specific antigen), PVR (post-void residual); PVR >300 mL = chronic retention.
 - **Watchful waiting** with lifestyle advice for mild or non-bothersome LUTS (lower urinary tract symptoms).
 
 ### Drugs
 | Class | Doses | Key facts |
 |---|---|---|
-| **α1-blockers** (first line) | Tamsulosin 0.4 mg; alfuzosin 10 mg; silodosin 8 mg; doxazosin 4–8 mg (titrate) | Act in days; no effect on size, AUR (acute urinary retention) or surgery. Dizziness, hypotension, ejaculatory dysfunction (silodosin most), **IFIS (intraoperative floppy iris syndrome)** |
-| **5-ARIs (5α-reductase inhibitors)** | Finasteride 5 mg; dutasteride 0.5 mg | Prostate >30–40 mL. Shrink gland ~20%, halve PSA, benefit after 6 months. PLESS: AUR or surgery ↓51%. Low libido, ED (erectile dysfunction). Treat refractory BPH haematuria |
+| **α1-blockers** (first line) | Tamsulosin 0.4 mg; alfuzosin 10 mg; silodosin 8 mg; doxazosin 4–8 mg (titrate) | Act in days; do not prevent AUR (acute urinary retention) or surgery. Hypotension, ejaculatory dysfunction (silodosin most), **IFIS (intraoperative floppy iris syndrome)** |
+| **5-ARIs (5α-reductase inhibitors)** | Finasteride 5 mg; dutasteride 0.5 mg | Prostate >30–40 mL. Shrink gland ~20%, halve PSA, act after 6 months. PLESS: AUR or surgery ↓51%. Low libido, ED (erectile dysfunction). Also BPH haematuria |
 | **Tadalafil 5 mg daily** | PDE5 (phosphodiesterase-5) inhibitor | LUTS ± ED; not with nitrates |
 | **Antimuscarinic or β3-agonist** (mirabegron, vibegron) | Add-on | Persisting storage symptoms; PVR <150 mL |
-| **Desmopressin** | — | Nocturnal polyuria; check sodium |
-| Phytotherapy (saw palmetto) | — | Not recommended; no proven effect |
+| **Desmopressin** | — | Nocturnal polyuria; monitor sodium |
 
 ### Combination therapy
 - **MTOPS (Medical Therapy of Prostatic Symptoms):** progression ↓39% doxazosin, 34% finasteride, **66% combination**. Only finasteride-containing arms reduced AUR and surgery.
 - **CombAT (Combination of Avodart and Tamsulosin):** combination reduced AUR or surgery by ~66% vs tamsulosin.
-- Use α-blocker + 5-ARI when **PV (prostate volume) >30–40 mL and PSA >1.5 ng/mL**. α-blocker may be stopped after 6 months (SMART).
-- α-blocker + antimuscarinic or β3-agonist for storage symptoms. Tadalafil + finasteride fixed dose (FDA [Food and Drug Administration] 2021).
+- Combine when **PV (prostate volume) >30–40 mL and PSA >1.5 ng/mL**; α-blocker may stop after 6 months (SMART).
+- Tadalafil + finasteride fixed dose approved (FDA [Food and Drug Administration] 2021).
 
 ### Important cautions
-- **IFIS:** flaccid billowing iris, prolapse, miosis. Stopping the drug does not prevent it; tell the ophthalmologist.
-- 5-ARIs: double PSA when interpreting; fewer cancers but more high-grade (PCPT [Prostate Cancer Prevention Trial], REDUCE): not for prevention.
-- **AUR:** catheterise, α-blocker, then TWOC (trial without catheter).
+- **IFIS:** billowing iris, prolapse, miosis; stopping the drug does not prevent it.
+- 5-ARIs: double the PSA; not for cancer prevention (more high-grade tumours in PCPT [Prostate Cancer Prevention Trial] and REDUCE).
+- **AUR:** catheter, α-blocker, then TWOC (trial without catheter).
+- **Follow-up:** 4–12 weeks (6 months for 5-ARIs), then yearly; surgery if refractory.
 
-### Follow-up
-- Reassess at 4–12 weeks, at 6 months for 5-ARIs, then yearly. Surgery if refractory or complications.
+**Also know:** phytotherapy (saw palmetto) not recommended.
 
 **Diagram to draw:** algorithm: LUTS → size, PSA, storage symptoms → drug choice.
 

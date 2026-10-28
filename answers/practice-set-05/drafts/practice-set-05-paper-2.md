@@ -119,7 +119,7 @@ Stone episode → screening evaluation
 | Exposure and control | Proximal and distal control (vessel loops, Rummel tourniquets, bulldog or Satinsky clamps) |
 | Anticoagulation | Systemic heparin before clamping; heparinised saline flush; prevents thrombosis in the static column |
 | Atraumatic handling | Hold the adventitia, never the intima; clamp clear of atheroma, because clamp injury causes intimal dissection and stenosis |
-| Healthy ends | Trim damaged or diseased ends; resect venous valve cusps at the suture line (they obstruct outflow) |
+| Healthy ends | Trim diseased ends; resect venous valve cusps at the suture line |
 | No tension, twist or kink | Adequate length; trial the final position before suturing |
 | **Intima-to-intima eversion** | Smooth endothelium faces the lumen; adventitia and rough surfaces stay outside, as they are thrombogenic |
 | Wide opening | Spatulate or bevel small vessels, or use end-to-side with an elliptical arteriotomy (aortic punch), to avoid stenosis |
@@ -128,8 +128,8 @@ Stone episode → screening evaluation
 | Continuous or interrupted | Continuous is quick and haemostatic; **interrupted** for small vessels and children, allowing growth |
 | Technique | **Carrel triangulation** (three stay sutures keep the back wall clear); **parachute** (sew loosely, then draw up; one knot) or tack both apices and run to the midpoint |
 | Flush and release | Before the last knot, briefly release clamps to flush air, clot and debris; leave slack ("growth factor") to avoid purse-stringing; release venous/distal clamp first, then arterial |
-| Confirm | Haemostasis, pulse, thrill, Doppler; in transplant the Hume test (vein compression makes the kidney swell) |
-- **Failure:** early from technical error (thrombosis, leak, stenosis); late from **intimal hyperplasia**; also pseudoaneurysm and infection.
+| Confirm | Haemostasis, pulse, thrill, Doppler |
+- **Failure:** early from technical error (thrombosis, leak, stenosis); late from **intimal hyperplasia**.
 - **Also know:** vascular staplers; grafts (autologous vein for small or contaminated fields; PTFE [polytetrafluoroethylene] for large vessels).
 
 ### Options for vascular access surgery for HD
@@ -143,14 +143,13 @@ Stone episode → screening evaluation
 | a. Snuffbox or **radiocephalic (Brescia–Cimino)** | Radial artery to cephalic vein at wrist | | Most distal; preserves proximal sites; higher failure to mature |
 | b. Brachiocephalic | Brachial artery to cephalic vein at elbow | | Higher flow; more steal |
 | c. Brachiobasilic transposition | Deep basilic vein mobilised and moved superficially | Longer, often two stages | When the cephalic vein is unusable |
-| d. Lower limb | Femoral vein transposition | | Upper limbs exhausted |
-| **4. AVG** (arteriovenous graft) | PTFE forearm loop, upper-arm straight or loop, thigh loop | 2–3 weeks (early-cannulation grafts: days) | Poor veins; more stenosis (venous anastomosis), thrombosis, infection |
-| **5. Complex access** | HeRO (Haemodialysis Reliable Outflow) graft bypasses central venous occlusion into the right atrium | | Central vein occlusion |
+| **4. AVG** (arteriovenous graft) | PTFE forearm loop, upper-arm or thigh | 2–3 weeks | Poor veins; more stenosis (venous anastomosis), thrombosis, infection |
+| **5. HeRO (Haemodialysis Reliable Outflow) graft** | Graft outflow bypasses occluded central veins into the right atrium | | Central vein occlusion |
 | **6. Endovascular AVF** | Percutaneous radiofrequency or thermal anastomosis between adjacent forearm vessels | | No incision; selected anatomy |
-- **Also know:** peritoneal dialysis needs no vascular access.
+- **Also know:** lower-limb femoral vein transposition when arms are exhausted; peritoneal dialysis needs no vascular access.
 
 ### Planning
-- **Hierarchy:** AVF, then AVG, then CVC; **distal before proximal; non-dominant arm first**. KDOQI (Kidney Disease Outcomes Quality Initiative) 2019 asks for an individual "ESKD (end-stage kidney disease) Life-Plan".
+- **Hierarchy:** AVF, then AVG, then CVC; **distal before proximal; non-dominant arm first**; individualised (KDOQI [Kidney Disease Outcomes Quality Initiative] 2019 "Life-Plan").
 - **Timing:** refer at eGFR (estimated glomerular filtration rate) <30; create the AVF about **6 months** before dialysis.
 - **Vein preservation:** no venepuncture or PICC (peripherally inserted central catheter) in that arm; avoid subclavian lines.
 - **Assessment:** pulses, **Allen test** (ulnar collateral flow), **Doppler vein mapping** (vessels about ≥2 mm).
@@ -159,8 +158,7 @@ Stone episode → screening evaluation
 ### Complications of access
 | Complication | Treatment |
 |---|---|
-| Failure to mature (juxta-anastomotic stenosis) | Angioplasty; ligate side branches |
-| Stenosis (neointimal hyperplasia) | PTA (percutaneous transluminal angioplasty), stent graft |
+| Failure to mature; stenosis (neointimal hyperplasia) | PTA (percutaneous transluminal angioplasty), ligate side branches, stent graft |
 | **Thrombosis** (usually on a stenosis) | Thrombectomy, then treat the stenosis |
 | **Steal syndrome** (hand ischaemia) | Banding, DRIL (distal revascularisation–interval ligation) |
 | Aneurysm; infection (CVC > AVG > AVF) | Repair; antibiotics, excise graft, remove catheter |
@@ -181,7 +179,7 @@ Stone episode → screening evaluation
 (also answered in 2019-Summer Paper 4, Q2)
 
 ### Introduction
-- Standard for MIBC (muscle-invasive bladder cancer) is cisplatin NAC (neoadjuvant chemotherapy) plus RC (radical cystectomy). Bladder preservation suits **unfit** patients and **fit, motivated patients with limited disease**.
+- Standard for MIBC (muscle-invasive bladder cancer; TCC = transitional cell carcinoma) is cisplatin NAC (neoadjuvant chemotherapy) plus RC (radical cystectomy). Bladder preservation suits **unfit** patients and **fit, motivated patients with limited disease**.
 - Single modalities fail because they leave the urothelium or occult nodes untreated.
 
 ### Options
@@ -201,9 +199,8 @@ Stone episode → screening evaluation
 TURBT → chemoradiation → cystoscopy + biopsy at 3–4 months
   Complete response → surveillance
   Persistent or recurrent invasive → salvage cystectomy
-  NMIBC recurrence → TURBT + BCG
 ```
-- **Salvage cystectomy** in **10–30%**: the designed safety net.
+- **Salvage cystectomy** in **10–30%**: the designed safety net. Non-muscle-invasive (NMIBC) recurrence: TURBT and intravesical BCG (bacillus Calmette–Guérin).
 
 ### Outcomes
 - 5-year CSS (cancer-specific survival) 50–84%. Propensity-matched RC vs TMT: equal 5-year metastasis-free survival (about 75%) and CSS (81% vs 84%). No completed randomised trial (SPARE closed).
@@ -218,7 +215,7 @@ TURBT → chemoradiation → cystoscopy + biopsy at 3–4 months
 
 > **Key points to remember:**
 > - TMT = complete TURBT + RT + radiosensitiser; T2, no hydronephrosis, no CIS.
-> - BC2001: MMC/5-FU + RT, DFS 67% vs 48%.
+> - BC2001: mitomycin C/5-FU + RT, DFS 67% vs 48%.
 > - Salvage cystectomy 10–30%; partial cystectomy for solitary <3 cm dome tumour.
 
 ---
@@ -330,7 +327,7 @@ TURBT → chemoradiation → cystoscopy + biopsy at 3–4 months
 | Whole-gland ablation | Localised cancer; retreatment 29–38% |
 | **Salvage after EBRT** (external beam radiotherapy) | Biopsy-proven local recurrence, **≥2 years after EBRT** |
 | BPH (benign prostatic hyperplasia) | Approved |
-| Kidney | Investigational (incomplete ablation; respiratory motion) |
+| Kidney | Investigational (incomplete ablation) |
 
 ### Limitations
 - **Anterior lesions** (energy lost, oedema displaces target), large gland, gland height and **calcification** (some advise TURP [transurethral resection of the prostate] first).
@@ -344,7 +341,7 @@ TURBT → chemoradiation → cystoscopy + biopsy at 3–4 months
 - Retention (about 8%), UTI (urinary tract infection) 6–18%, stricture (4%), ED (erectile dysfunction); rectourethral fistula rare (about 2% after salvage); osteitis pubis.
 
 ### Follow-up
-- PSA (prostate-specific antigen) falls only 50–80%; **mpMRI (multiparametric MRI) + targeted biopsy at 3–6 months**, then MRI and biopsy at 1–2 and 5 years. EAU (European Association of Urology): focal therapy within trials or registries.
+- PSA (prostate-specific antigen) falls only 50–80%; **mpMRI (multiparametric MRI) + targeted biopsy at 3–6 months**, then at 1–2 and 5 years. EAU (European Association of Urology): focal therapy within trials or registries.
 
 **Also know:** **histotripsy** (>10,000 W/cm², mechanical liquefaction, visible bubble cloud).
 

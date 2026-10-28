@@ -18,17 +18,16 @@
 **Type:** LAQ (25 marks)
 (also answered in 2021-Summer Paper 2, Q2 and 2022-Summer Paper 4, Q3b)
 
-*Assumed meaning: the whole pathway of deceased-donor kidney donation in India: donor identification and brain-stem death certification, donor maintenance, organ allocation and retrieval.*
+*Assumed meaning: the Indian deceased-donor pathway: identification and brain-stem death certification, donor maintenance, allocation and retrieval.*
 
 ### Introduction
 - A 25-year-old brain-dead patient is an ideal **standard-criteria DBD (donation after brain death)** donor: circulation continues until cold perfusion, so warm ischaemia is minimal.
 - **THOA (Transplantation of Human Organs Act) 1994**, amended 2011, **Rules 2014**, makes brain-stem death legal death.
 
 ### 1. Identification
-- **Potential donor:** ventilated patient with catastrophic brain injury (road traffic head injury, intracranial bleed, hypoxia) losing brainstem reflexes.
-- ICU (intensive care unit) informs the **transplant coordinator** early. **Mandatory request:** the hospital must offer the family donation.
-- **Evaluation:** history (hypertension, diabetes, cancer, high-risk behaviour), creatinine, urine output, ultrasound; ABO and HLA (human leucocyte antigen) typing; serology and NAT (nucleic acid testing) for HIV (human immunodeficiency virus), hepatitis B and C, CMV (cytomegalovirus), syphilis.
-- **Absolute contraindications:** active or metastatic cancer, haematological malignancy, past melanoma, untreatable viral infection. Treated bacterial meningitis is acceptable.
+- **Potential donor:** ventilated patient with catastrophic brain injury (head injury, intracranial bleed, hypoxia). ICU (intensive care unit) informs the **transplant coordinator**; **mandatory request** to the family.
+- **Evaluation:** history, creatinine, urine output, ultrasound; ABO and HLA (human leucocyte antigen) typing; serology and NAT (nucleic acid testing) for HIV (human immunodeficiency virus), hepatitis B and C, CMV (cytomegalovirus), syphilis.
+- **Contraindications:** active or metastatic cancer, haematological malignancy, past melanoma, untreatable viral infection.
 
 ### 2. Certification of brain-stem death (THOA)
 - **Board of four:** doctor in charge of the hospital; independent specialist from an approved panel; neurologist or neurosurgeon (else a nominated surgeon, physician, anaesthetist or intensivist); treating doctor. **None from the transplant team.**
@@ -50,38 +49,33 @@
 ### 3. Maintenance (donor management)
 - **Why:** herniation causes a **catecholamine storm**, then loss of sympathetic tone (hypotension), **diabetes insipidus (DI)**, hypothermia, DIC (disseminated intravascular coagulation), low thyroid hormone and cortisol, and pulmonary oedema.
 - **"Rule of 100s":** systolic pressure >100 mmHg, urine >100 mL/h, PaO₂ (arterial oxygen tension) >100 mmHg, haemoglobin >100 g/L.
-- **Measures:**
-  - Fluids guided by CVP (central venous pressure); avoid starch colloids (nephrotoxic).
-  - **Vasopressin** first (pressor and treats DI), then noradrenaline; desmopressin for persistent DI.
-  - Methylprednisolone 15 mg/kg, thyroid hormone, insulin.
-  - Lung-protective ventilation; warming; correct sodium, potassium and clotting.
+- **Measures:** fluids guided by CVP (central venous pressure), no starch colloids (nephrotoxic); **vasopressin** first (pressor and treats DI), then noradrenaline; methylprednisolone 15 mg/kg, thyroid hormone, insulin; lung-protective ventilation; warming; correct sodium, potassium and clotting.
 
 ### 4. Distribution (allocation)
 - **NOTTO (National Organ and Tissue Transplant Organisation)**, New Delhi, with **ROTTOs** (regional) and **SOTTOs** (state organisations), keeps registries and waiting lists.
-- **Sequence:** retrieving hospital and state list → region → national, if no suitable recipient.
+- **Sequence:** hospital and state list → region → national.
 - **Kidney criteria:** ABO compatibility, waiting time on dialysis, HLA match, priority for children and previous living donors, **negative crossmatch** (donor spleen or nodes). Many states let the retrieving hospital keep one kidney.
 - 2023 policy removed the domicile requirement and upper age limit for registration.
 
 ### 5. Retrieval (multi-organ, DBD)
-1. **Check** death certificate, consent, blood group; coordinate teams.
-2. **Incision:** xiphoid-to-pubis midline with sternotomy.
-3. **Exposure:** mobilise right colon and small-bowel mesentery (Cattell–Braasch manoeuvre); expose aorta and IVC (inferior vena cava). **Look for aberrant renal arteries**; keep accessory arteries from the iliacs.
-4. **Cold perfusion:** heparin; cannulate the distal aorta; clamp the supracoeliac aorta; **vent** the IVC; flush cold UW (University of Wisconsin) or HTK (histidine–tryptophan–ketoglutarate) solution; crushed ice; open Gerota's fascia laterally.
-5. **Heart, lungs, liver and pancreas out first.**
-6. **Kidneys en bloc:** lift with perinephric fat off the posterior wall; keep periureteric tissue; divide ureters low, then aorta and IVC (upper limit set by the liver team); divide prevertebral tissue.
-7. **Extras:** iliac vessels for reconstruction; spleen and nodes for crossmatch.
+1. Check certificate, consent, blood group. **Incision:** xiphoid-to-pubis midline with sternotomy.
+2. **Exposure:** mobilise right colon and small-bowel mesentery (Cattell–Braasch manoeuvre); expose aorta and IVC (inferior vena cava). **Look for aberrant renal arteries**; keep accessory arteries from the iliacs.
+3. **Cold perfusion:** heparin; cannulate the distal aorta; clamp the supracoeliac aorta; **vent** the IVC; flush cold UW (University of Wisconsin) or HTK (histidine–tryptophan–ketoglutarate) solution; crushed ice; open Gerota's fascia laterally.
+4. **Heart, lungs, liver and pancreas out first.**
+5. **Kidneys en bloc:** lift with perinephric fat off the posterior wall; keep periureteric tissue; divide ureters low, then aorta and IVC (upper limit set by the liver team); divide prevertebral tissue.
+6. **Extras:** iliac vessels; spleen and nodes for crossmatch.
 
 ### 6. Back-bench preparation and preservation
-- Split the aorta between renal ostia (**Carrel patch**); keep IVC with the right kidney to lengthen its vein; ligate lymphatics; spare the lower pole–ureter triangle; triple-bag on ice.
+- Divide the aorta between renal ostia (**Carrel patches**); keep IVC with the right kidney to lengthen its vein; ligate lymphatics; triple-bag on ice.
 - Cooling to 4 °C slows metabolism. **Hypothermic machine perfusion** reduces DGF (delayed graft function), not long-term graft loss. Cold ischaemia >24 hours raises thrombosis risk.
 
 **Diagram to draw:** aorta and IVC with distal aortic cannula, supracoeliac clamp, IVC vent and en bloc kidneys.
 
 > **Key points to remember:**
-> - THOA Board of four, none from the transplant team; two tests ≥6 h apart; Form 10.
-> - Apnoea test: no breathing at PaCO₂ ≥60 mmHg.
-> - Rule of 100s; vasopressin treats both hypotension and DI.
-> - NOTTO–ROTTO–SOTTO allocation; distal aortic cannula, supracoeliac clamp, IVC vent, kidneys removed last.
+> - Board of four, none from the transplant team; two tests ≥6 h apart; Form 10.
+> - Apnoea: no breathing at PaCO₂ ≥60 mmHg.
+> - Rule of 100s; vasopressin for hypotension and DI.
+> - Distal aortic cannula, supracoeliac clamp, IVC vent; kidneys out last.
 
 ---
 
@@ -90,17 +84,16 @@
 (mHSPC with retention and bone pain also answered in Practice Set 1 Paper 2, Q1)
 
 ### Introduction
-- Bone is the commonest metastatic site in prostate cancer. Visceral metastasis occurs in <20%.
+- Bone is the commonest metastatic site; visceral metastasis occurs in <20%.
 - Aims: control the cancer, relieve pain, **prevent SREs (skeletal-related events)** and treat emergencies (cord compression, fracture).
 
 ### Pathophysiology
-- Tumour cells lodge in marrow of the axial skeleton and adhere through integrins and collagen receptors.
+- Tumour cells lodge in axial marrow, adhering through integrins and collagen receptors.
 - Metastases are mainly **osteoblastic (sclerotic)**, but resorption also rises. Tumour cytokines induce **RANKL (receptor activator of nuclear factor-κB ligand)**, which activates osteoclasts; released growth factors feed the tumour (**vicious cycle**). ADT (androgen deprivation therapy) adds osteoporosis through loss of oestrogen.
 - **SREs:** pathological fracture, spinal cord compression, need for radiotherapy or surgery to bone. Marrow replacement causes anaemia. Hypercalcaemia is rare and suggests neuroendocrine disease.
 
 ### Evaluation
-- **Clinical:** pain site, neurological signs, performance status.
-- **Bloods:** PSA (prostate-specific antigen), ALP (alkaline phosphatase), calcium, creatinine, haemoglobin, testosterone.
+- **Clinical:** pain, neurological signs, performance status. **Bloods:** PSA (prostate-specific antigen), ALP (alkaline phosphatase), calcium, creatinine, haemoglobin, testosterone.
 - **Imaging:** bone scan and CT (computed tomography) define volume. PSMA (prostate-specific membrane antigen) PET is more sensitive, but trials used conventional imaging. **Plain X-ray or CT of painful weight-bearing sites** (lytic lesion, impending fracture). **Whole-spine MRI (magnetic resonance imaging)** for back pain with neurological signs.
 - **Volume (CHAARTED):** high volume = ≥4 bone metastases with ≥1 outside the axial skeleton, or visceral metastasis.
 
@@ -131,7 +124,7 @@
 ### 3. Pain
 - **Analgesic ladder** (WHO [World Health Organization]); neuropathic pain needs gabapentinoids or tricyclics; steroids for diffuse pain.
 - **Focal pain: EBRT (external beam radiotherapy) single 8 Gy fraction.** Pain relief equals 30 Gy in 10 fractions (RTOG 9714); retreatment is commoner.
-- **Diffuse pain:** wide-field or hemibody RT, radiopharmaceuticals (older beta emitters strontium-89 and samarium-153 relieve pain only; radium-223 adds survival).
+- **Diffuse pain:** wide-field RT; radiopharmaceuticals (strontium-89, samarium-153 relieve pain only; radium-223 adds survival).
 - **SBRT (stereotactic body RT)** for oligometastases (STOMP, ORIOLE) and spinal re-irradiation.
 
 ### 4. Emergencies
@@ -150,7 +143,7 @@ Back pain ± weakness, sensory level, sphincter change
 
 ### Follow-up
 - PSA, ALP, calcium, renal function every 3–6 months; new scan if symptoms or PSA rise. PCWG3 (Prostate Cancer Working Group 3): bone scan progression needs ≥2 new lesions, confirmed later (early "flare" misleads).
-- **Also know:** obstructive uropathy needs stent or nephrostomy; anaemia from marrow failure; early palliative and hospice care.
+- **Also know:** stent or nephrostomy for obstruction; marrow-failure anaemia; hospice care.
 
 **Diagram to draw:** vicious cycle: tumour → RANKL → osteoclast → growth factors → tumour, with the sites blocked by denosumab and zoledronate.
 
@@ -167,7 +160,7 @@ Back pain ± weakness, sensory level, sphincter change
 (BCG therapy also answered in 2025-Winter Paper 1, Q3f)
 
 ### Introduction
-- BCG (bacille Calmette–Guérin) is standard for high-risk NMIBC (non-muscle-invasive bladder cancer), but up to half recur. "Failure" was poorly defined; consensus categories now guide treatment.
+- BCG (bacille Calmette–Guérin) is standard for high-risk NMIBC (non-muscle-invasive bladder cancer). "Failure" was poorly defined; consensus categories now guide treatment.
 
 ### Definitions
 
@@ -175,19 +168,18 @@ Back pain ± weakness, sensory level, sphincter change
 |---|---|---|
 | **Adequate BCG** | ≥5 of 6 induction + ≥2 of 3 maintenance, or ≥2 doses of a second induction; for T1, ≥5 of 6 induction alone | Threshold for "unresponsive" |
 | **BCG-unresponsive** | Persistent or recurrent CIS (carcinoma in situ) or HG (high-grade) Ta/T1 despite adequate BCG; or HG relapse within **6 months (Ta/T1) or 12 months (CIS)** of last dose; **HG T1 at first 3-month check** | More BCG futile; cystectomy |
-| BCG-refractory (older) | Persistence after two inductions or induction + maintenance | Cystectomy |
 | **BCG-resistant** | CIS or HG Ta at 3 months after induction | Reinduction: 30–50% respond |
-| Delayed relapse | HG relapse beyond these windows | BCG rechallenge may work |
+| Delayed relapse | HG relapse beyond these windows | Rechallenge may work |
 | **BCG-intolerant** | Disease persists because toxicity stopped BCG | Salvage chemotherapy |
 
-- **Why BCG fails:** inadequate dosing, immune exhaustion, PD-L1 (programmed death-ligand 1) upregulation on tumour cells.
+- **Why BCG fails:** inadequate dosing; PD-L1 (programmed death-ligand 1) upregulation on tumour cells.
 
 ### Evaluation
-- Cystoscopy, cytology, **re-TURBT (transurethral resection of bladder tumour)** and bladder biopsies to exclude muscle invasion.
-- **Extravesical disease:** prostatic urethral biopsy (recurrence 24–30%) and CT urography of the upper tracts (0.8–25%).
+- Cystoscopy, cytology, **re-TURBT (transurethral resection of bladder tumour)** and biopsies to exclude invasion.
+- **Extravesical disease:** prostatic urethral biopsy (24–30%) and CT urography (upper tract 0.8–25%).
 
 ### Management
-1. **Timely radical cystectomy** (EAU [European Association of Urology] and AUA [American Urological Association]): HG T1 failing BCG progresses in up to 82%; CIS failure in about 50%.
+1. **Timely radical cystectomy** (EAU [European Association of Urology], AUA [American Urological Association]): HG T1 at 3 months progresses in 82%; CIS failure in about 50%.
 2. **Bladder sparing** (unfit or refusing):
 
 | Option | Key result (CIS complete response, CR) |
@@ -197,14 +189,14 @@ Back pain ± weakness, sensory level, sphincter change
 | **Gemcitabine–docetaxel** sequential | 60% at 1 year; 84% avoid cystectomy (retrospective) |
 | **N-803 + BCG** (IL-15 [interleukin-15] superagonist) | 45% at 12 months |
 
-- **Also know:** gemcitabine alone, gemcitabine–mitomycin, valrubicin (CR about one-fifth), chemohyperthermia, EMDA (electromotive drug administration), radiotherapy or chemoradiation; TAR-200 gemcitabine device; cretostimogene (oncolytic virus).
+- **Also know:** BCG-refractory (older term); gemcitabine, gemcitabine–mitomycin, valrubicin, chemohyperthermia, EMDA (electromotive drug administration), chemoradiation; TAR-200; cretostimogene.
 
-**Diagram to draw:** flowchart: HG recurrence after BCG → adequate? → unresponsive → cystectomy or bladder-sparing options.
+**Diagram to draw:** flowchart: HG recurrence after BCG → adequate? → unresponsive → cystectomy or bladder sparing.
 
 > **Key points to remember:**
 > - Adequate BCG = 5/6 induction + 2/3 maintenance.
 > - Unresponsive: HG within 6 months (Ta/T1) or 12 months (CIS); HG T1 at 3 months.
-> - Timely cystectomy is standard; early CR rates of salvage agents halve by 12 months.
+> - Timely cystectomy is standard; salvage CR rates halve by 12 months.
 
 ---
 
@@ -213,7 +205,7 @@ Back pain ± weakness, sensory level, sphincter change
 (also answered in 2024-Winter Paper 1, Q3f)
 
 ### Introduction
-- PCNL (percutaneous nephrolithotomy) position decides calyceal access, working space, airway safety and whether retrograde access is possible at the same time.
+- PCNL (percutaneous nephrolithotomy) position decides calyceal access, working space, airway safety and simultaneous retrograde access.
 
 ### Positions
 
@@ -233,8 +225,8 @@ Back pain ± weakness, sensory level, sphincter change
 ### Choosing a position
 - **Prone:** standard anatomy, upper pole or multiple posterior tracts.
 - **Supine variants:** obesity, cardiopulmonary disease, ECIRS, ileal conduit or continent channel, combined ureteric stone.
-- **Spinal deformity or contractures:** individualise; pad every pressure point.
-- **Evidence:** stone-free and complication rates similar; supine often shortens operating time; choice is mainly surgeon preference.
+- **Spinal deformity:** individualise; pad every pressure point.
+- **Evidence:** similar stone-free and complication rates; choice is mainly surgeon preference.
 
 **Diagram to draw:** axial CT sketch showing prone (vertical) and supine (horizontal) tracts.
 
@@ -255,12 +247,12 @@ Back pain ± weakness, sensory level, sphincter change
 - **Segmental artery or vein injury** (pseudoaneurysm, AVF [arteriovenous fistula]).
 - **Active bleeding beyond Gerota's fascia.**
 - **Segmental or complete infarction** from thrombosis without active bleeding.
-- Change from 1989: main-vessel injury moved to grade V; segmental vascular injury and UPJ disruption added to grade IV. Advance one grade for multiple injuries up to grade III only.
+- Change from 1989: main-vessel injury moved to grade V; segmental vascular and UPJ injuries added to grade IV.
 
 ### Diagnosis
-- Mechanism (deceleration, penetrating). Haematuria may be **absent** in grade IV, pedicle and UPJ injuries.
+- Haematuria may be **absent** in grade IV, pedicle and UPJ injuries; mechanism matters.
 - **Contrast CT (computed tomography) with delayed phase** (5–10 minutes): arterial phase for bleeding, delayed phase for urine leak.
-- **High-risk signs:** perirenal haematoma rim >3.5–4 cm, **vascular contrast blush**, medial laceration (≥2 predict intervention). Medial extravasation with no distal ureteric contrast suggests UPJ avulsion.
+- **High-risk signs:** haematoma rim >3.5–4 cm, **vascular contrast blush**, medial laceration (≥2 predict intervention). Medial extravasation without distal ureteric contrast = UPJ avulsion.
 
 ### Management
 ```
@@ -271,18 +263,18 @@ Stable → non-operative: bed rest, serial haemoglobin every 4-6 h
         stent ± nephrostomy if urinoma enlarges, fever, obstruction,
         or UPJ / pelvis injury
 ```
-- **Non-operative success** about 85% for grade IV–V; most failures need only AE, stent or nephrostomy.
+- **Non-operative success** about 85% for grade IV–V even in penetrating series; most failures need only AE, stent or nephrostomy.
 - **Failure:** instability, fall in haemoglobin despite 2–3 units of blood.
-- **Repeat CT at about 48 hours** for deep lacerations or fever, pain or falling haematocrit (routine reimaging is debated).
-- **Exploration:** pulsatile expanding haematoma, instability, UPJ avulsion (repair). Control vessels before opening Gerota's fascia; renorrhaphy or partial nephrectomy; omental cover; drain. Devitalised parenchyma >25% lowers the threshold.
+- **Repeat CT at ~48 hours** for deep lacerations or fever, pain, falling haematocrit (routine reimaging debated).
+- **Exploration:** pulsatile expanding haematoma, instability, UPJ avulsion. Control vessels before opening Gerota's fascia; renorrhaphy or partial nephrectomy; omental cover; drain. Devitalised parenchyma >25% lowers the threshold.
 
 ### Complications
-- Delayed bleeding (usually within 3 weeks, mostly embolised); urinoma and abscess; **hypertension** (Page kidney, segmental ischaemia, AVF); loss of function.
+- Delayed bleeding (within 3 weeks; embolise); urinoma, abscess; **hypertension** (Page kidney, segmental ischaemia, AVF); function loss.
 
 ### Follow-up
 - Blood pressure, urinalysis, creatinine. EAU (European Association of Urology): DMSA (dimercaptosuccinic acid) scan for salvaged grade III–V kidneys.
 
-**Diagram to draw:** kidney showing laceration into calyx, urinoma and segmental artery pseudoaneurysm.
+**Diagram to draw:** kidney with laceration into a calyx, urinoma and segmental pseudoaneurysm.
 
 > **Key points to remember:**
 > - Grade IV = collecting system, UPJ, segmental vessel, bleeding beyond Gerota's, infarction.
@@ -330,9 +322,9 @@ Adrenal mass ≥1 cm
 - **Surgery:** cortisol excess, phaeochromocytoma (after alpha-blockade), aldosteronoma (after AVS, adrenal vein sampling), malignant features, >4 cm in fit patients, significant growth. Laparoscopic for benign; open for suspected ACC.
 - **MACS:** screen for hypertension, diabetes, osteoporosis; surgery individualised.
 - **Follow-up (ESE–ENSAT 2023, European Society of Endocrinology–European Network for the Study of Adrenal Tumors):** homogeneous ≤10 HU, non-functioning → no further imaging. Indeterminate non-resected → re-image at 6–12 months; growth >20% and ≥5 mm is concerning.
-- **Bilateral masses:** metastases, lymphoma, tuberculosis, haemorrhage, CAH (congenital adrenal hyperplasia; 17-hydroxyprogesterone); exclude adrenal insufficiency.
+- **Bilateral:** metastases, lymphoma, tuberculosis, haemorrhage, CAH (congenital adrenal hyperplasia; 17-hydroxyprogesterone); exclude adrenal insufficiency.
 
-**Diagram to draw:** the algorithm above.
+**Diagram to draw:** the algorithm.
 
 > **Key points to remember:**
 > - ≤10 HU = lipid-rich adenoma; APW >60%, RPW >40%.
@@ -347,7 +339,7 @@ Adrenal mass ≥1 cm
 
 ### Definition
 - **CKD (chronic kidney disease), KDIGO (Kidney Disease: Improving Global Outcomes):** abnormal kidney structure or function for **≥3 months**. Staged by GFR (glomerular filtration rate) G1–G5 (G3a 45–59, G3b 30–44, G4 15–29, G5 <15 mL/min/1.73 m²) and albuminuria A1–A3.
-- Each abnormality reflects loss of a normal kidney function: excretion, acid–base balance, hormone production (erythropoietin, calcitriol).
+- Each abnormality is a lost kidney function: excretion, acid–base balance, hormone production.
 
 ### Abnormalities
 
@@ -358,19 +350,19 @@ Adrenal mass ≥1 cm
 | **Metabolic acidosis** | Less ammonium excretion; retained sulphate and phosphate (anion gap rises late); bicarbonate loss | Sodium bicarbonate or citrate to keep bicarbonate **≥22 mEq/L**; slows progression, protects bone and muscle |
 | **CKD-MBD** (mineral and bone disorder) | Phosphate retention → FGF-23 (fibroblast growth factor 23) rises → less **calcitriol** → hypocalcaemia → **secondary hyperparathyroidism** | Phosphate restriction, binders with meals, active vitamin D; calcimimetic; parathyroidectomy if tertiary |
 | **Anaemia** | Erythropoietin falls, mainly below GFR 30 | Iron first, then erythropoietin; Hb (haemoglobin) target 10–11.5 g/dL (harm above 13) |
-| **Hyperuricaemia** | Reduced excretion | Treat gout; asymptomatic urate lowering not shown to help (CKD-FIX) |
-| **Lipids** | High triglycerides, low HDL (high-density lipoprotein) | Statin ± ezetimibe if ≥50 years and not on dialysis (SHARP) |
-| **Glucose** | Insulin resistance, but slower insulin clearance → hypoglycaemia risk | Reduce insulin and sulphonylurea doses |
+| **Hyperuricaemia** | Reduced excretion | Treat gout; asymptomatic lowering unproven (CKD-FIX) |
+| **Lipids** | High triglycerides, low HDL (high-density lipoprotein) | Statin ± ezetimibe if ≥50 years, not on dialysis (SHARP) |
+| **Glucose** | Insulin resistance, but slower insulin clearance → hypoglycaemia | Lower insulin doses |
 
 ### Bone disease (renal osteodystrophy)
 - **High turnover:** osteitis fibrosa (PTH [parathyroid hormone] excess).
 - **Low turnover:** adynamic bone (oversuppressed PTH), osteomalacia.
-- **Tertiary hyperparathyroidism:** autonomous gland, hypercalcaemia; also important after transplantation.
-- **Vascular calcification** and calciphylaxis add cardiovascular death.
+- **Tertiary hyperparathyroidism:** autonomous gland, hypercalcaemia; persists after transplant.
+- **Vascular calcification** adds cardiovascular death.
 
 ### Other endocrine and uraemic effects
-- **Also know:** hypogonadism, hyperprolactinaemia, erectile dysfunction and infertility (better after transplant); low T3; growth failure in children; protein-energy wasting; β2-microglobulin amyloid on long dialysis; uraemic platelet dysfunction (desmopressin); hypermagnesaemia.
-- **Urological relevance:** dose drugs by GFR; avoid gadolinium if eGFR <30; hyperkalaemia and bleeding risk at surgery; each AKI (acute kidney injury) speeds progression.
+- **Also know:** hypogonadism, hyperprolactinaemia, erectile dysfunction (better after transplant); growth failure in children; protein-energy wasting; dialysis amyloid; uraemic platelet dysfunction (desmopressin).
+- **Urological relevance:** dose drugs by GFR; avoid gadolinium if eGFR (estimated GFR) <30; each AKI (acute kidney injury) speeds progression.
 
 **Diagram to draw:** CKD-MBD cascade: phosphate ↑ → FGF-23 ↑ → calcitriol ↓ → calcium ↓ → PTH ↑ → bone disease.
 
@@ -400,7 +392,6 @@ Adrenal mass ≥1 cm
 - **Radical prostatectomy:** primary (commonest) + secondary pattern.
 - **Biopsy (2005):** commonest + **highest** pattern, however small. Single pattern is doubled (3+3).
 - A tertiary pattern 5 under 5% at prostatectomy is reported as a comment; it adds risk but does not change the grade group.
-- Lowest score in practice is 6, so patients misread "6 out of 10" as moderate cancer.
 - Report **% pattern 4** in score 7; report cribriform and intraductal carcinoma (both adverse).
 
 ### ISUP Grade Groups (2014; WHO [World Health Organization] 2016)
@@ -413,14 +404,14 @@ Adrenal mass ≥1 cm
 | 4 | 8 (4+4, 3+5, 5+3) | 48% |
 | 5 | 9–10 | 26% |
 
-- Grade groups separate 3+4 from 4+3 and 8 from 9–10, and start at "1", which patients understand as low risk.
+- Grade groups separate 3+4 from 4+3 and 8 from 9–10. Starting at "1" avoids patients misreading the lowest score, 6, as moderate cancer.
 
 ### Significance
 - **Most powerful biopsy predictor** of pathological stage, EPE (extraprostatic extension), nodal spread (0% in GG1, 4.3% in GG3), recurrence and death.
-- **Risk groups** (D'Amico, NCCN [National Comprehensive Cancer Network], EAU) are built on grade with PSA (prostate-specific antigen) and stage.
+- **Risk groups** (D'Amico, NCCN [National Comprehensive Cancer Network]) combine grade, PSA (prostate-specific antigen) and stage.
 - **Treatment choice:** GG1 → active surveillance; selected GG2 with little pattern 4 → surveillance; GG ≥4 → high risk, longer ADT (androgen deprivation therapy) with radiotherapy; also selects for brachytherapy and focal therapy.
 - **Limitations:** biopsy undergrades about one-third of GG1 (sampling error); inter-observer variation; after ADT or radiotherapy, grading is unreliable.
-- **Also know:** pure GG1 does not metastasise to nodes, so "is it cancer?" is debated; genomic classifiers add prognostic data.
+- **Also know:** pure GG1 does not metastasise, so "is it cancer?" is debated.
 
 **Diagram to draw:** Gleason's pattern diagram 3 → 4 → 5.
 

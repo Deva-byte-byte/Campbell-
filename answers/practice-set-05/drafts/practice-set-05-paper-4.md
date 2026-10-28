@@ -219,8 +219,8 @@
 - **Uroselective α1-blocker**, the **most α1A-selective** agent: several hundredfold over α1B, about 50-fold over α1D.
 
 ### Mechanism of action
-- **α1A receptors** make up about 70% of prostatic α1 receptors and dominate in the bladder neck and prostatic urethra. Noradrenaline acting on them causes the **dynamic component** of BOO (bladder outlet obstruction).
-- Blocking α1A relaxes this smooth muscle, so flow and symptoms improve. Little α1B (vascular) blockade means few blood-pressure effects.
+- **α1A receptors** (about 70% of prostatic α1 receptors) dominate in the prostate, bladder neck and prostatic urethra. Noradrenaline on them causes the **dynamic component** of BOO (bladder outlet obstruction).
+- Blockade relaxes this smooth muscle. Little α1B (vascular) blockade means few blood-pressure effects.
 
 ### Pharmacology
 - **Dose: 8 mg once daily with a meal**; no titration.
@@ -241,7 +241,7 @@
 - **Ejaculatory dysfunction (signature):** anejaculation in over a quarter of men in registration trials (about 14% vs 2% with tamsulosin head-to-head). Mechanism: **emission failure** (vas and seminal vesicle α1A blockade) and bladder-neck relaxation. Reversible; few stop the drug. Counsel young men.
 - **Cardiovascular:** dizziness; orthostatic hypotension rare; no QT change; safe with antihypertensives.
 - **IFIS (intraoperative floppy iris syndrome):** class effect; tell the ophthalmologist before cataract surgery (stopping the drug does not remove risk).
-- Falls in older men; worsens stress incontinence in women.
+- Falls in older men.
 
 ### Comparison
 | | Tamsulosin | Silodosin |
@@ -271,8 +271,8 @@
 - It gives real-time cross-sectional images with about 10–20 µm resolution, but only **1–2 mm depth**. First described in 1991 (ophthalmology).
 
 ### Technique
-- A fibre-optic probe passes through the working channel of a rigid or flexible cystoscope.
-- WLC or blue-light cystoscopy first finds the lesion; the probe is placed **in contact** with it and the image is read at once.
+- A fibre-optic probe passes through the cystoscope's working channel.
+- WLC or blue light finds the lesion; the probe is placed **in contact** with it and read at once.
 
 ### Image interpretation
 | Tissue | OCT appearance |
@@ -283,7 +283,7 @@
 | Invasive (T1) | **Loss of the urothelium–lamina propria boundary** |
 
 ### Clinical uses
-- Separate benign from malignant flat lesions; fewer unnecessary biopsies.
+- Separate benign from malignant flat lesions; fewer biopsies.
 - Estimate Ta versus T1 during TURBT (transurethral resection of bladder tumour).
 - Check resection margins and completeness.
 - **UTUC (upper tract urothelial carcinoma):** through the ureteroscope, OCT correlates well with final grade and stage.
@@ -385,7 +385,7 @@ Muscle invasion (≥T2)     → neoadjuvant chemotherapy + cystectomy
 1. Antibiotic at induction; offset-lens cystoscope; rigid 3.7–5 Fr needle; bladder partly filled.
 2. **STING**: needle enters **2–3 mm below the orifice at 6 o'clock**, advanced **4–5 mm** submucosally.
 3. Inject slowly; a mound should appear within **0.1–0.2 mL**, else reposition.
-4. Aim for a **"volcano" mound** with a slit-like orifice. Do not cauterise bleeding. Day case.
+4. Aim for a **"volcano" mound** with a slit-like orifice. Day case.
 
 | Technique | Needle entry | Result |
 |---|---|---|
@@ -394,7 +394,7 @@ Muscle invasion (≥T2)     → neoadjuvant chemotherapy + cystectomy
 | **Double HIT** | Two intraureteric sites | About 90% resolution |
 
 ### Indications
-- Persistent primary VUR (grades II–IV) with breakthrough febrile UTI (urinary tract infection), new scars, poor adherence or parental preference; residual VUR after reimplantation.
+- Persistent primary VUR (grades II–IV) with breakthrough febrile UTI (urinary tract infection), new scars or parental preference; residual VUR after reimplantation.
 - **Relative contraindications**: grade V, **UVJ (ureterovesical junction) obstruction**, untreated BBD (bladder and bowel dysfunction).
 
 ### Results
