@@ -3,12 +3,12 @@
 **Contents**
 1. Q1. Present concept in management of hypospadias (LAQ, 25)
 2. Q2. Discuss recent advances in tissue engineering with respect to urology (LAQ, 25)
-3. Q3a. Newer methods of stone analysis and their significance in management of calculus disease. (SAQ, 10)
-4. Q3b. Urolift. (SAQ, 10)
-5. Q3c. Combination Intravesical therapy (SAQ, 10)
-6. Q3d. Etiology and management of hypospadias fistula. (SAQ, 10)
-7. Q3e. Tubeless PCNL (SAQ, 10)
-8. Q3f. Miniperc (SAQ, 10)
+3. Q3a. 3D printing in urology (SAQ, 10)
+4. Q3b. ECIRS (endoscopic combined intrarenal surgery) (SAQ, 10)
+5. Q3c. Molecular targeted therapy in urological cancers (SAQ, 10)
+6. Q3d. Artificial urinary bladder (SAQ, 10)
+7. Q3e. Artificial kidney (SAQ, 10)
+8. Q3f. Robotic kidney transplantation (SAQ, 10)
 
 *Practice paper compiled from the question bank.*
 
@@ -75,7 +75,7 @@ Deglove + excise dysplastic dartos + artificial erection
 ### Concept 7: standardised complications and outcomes
 - Definitions: glans dehiscence (fusion <2 mm); meatal stenosis (symptoms plus <8 Fr before puberty, <12 Fr after); recurrent curvature >30°.
 - TIP meta-analysis (Pfistermuller 2015): complications 10.6%, fistula 5.7%. Proximal complications 23–68%; STAG about 23% (lowest); Byars 43–81%.
-- A long, rigid, spongiosum-free neourethra raises resistance (Poiseuille's law), causing fistula and diverticulum. Fistula: see Practice Set 6 Paper 4, Q3d.
+- A long, rigid, spongiosum-free neourethra raises resistance (Poiseuille's law), causing fistula and diverticulum. Fistula: see 2015-Summer Paper 4, Q3a.
 - **Also know:** BXO (balanitis xerotica obliterans), excise and stage with buccal graft; redo repairs use buccal (lip inside glans) mucosa, Cecil scrotal parasitisation, tissue expansion.
 
 ### Concept 8: follow-up and patient-reported outcomes
@@ -177,292 +177,277 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 
 ---
 
-## Q3a. Newer methods of stone analysis and their significance in management of calculus disease.
+## Q3a. 3D printing in urology
 **Type:** SAQ (10 marks)
-(also answered in 2024-Winter Paper 4, Q3a)
 
-### Why analyse stones
-- AUA (American Urological Association) and EAU (European Association of Urology): analyse a stone at least once in every former; **repeat if stones recur on treatment** (evolving metabolic condition).
-- Composition points to cause: **uric acid** suggests metabolic disease, **cystine** a genetic one, **struvite** infection. Cystine, struvite, 2,8-DHA (2,8-dihydroxyadenine) and xanthine are diagnostic in themselves.
+### Definition
+- **3D (three-dimensional) printing** is additive manufacturing: a solid object is built layer by layer from a digital model.
+- In urology it turns a patient's CT (computed tomography) or MRI (magnetic resonance imaging) into a physical replica of kidney, tumour, vessels or prostate.
 
-### Why wet chemical analysis is obsolete
-- Detects ions, not **crystal phases**: cannot separate COM (calcium oxalate monohydrate) from COD (dihydrate), or apatite from brushite; misses rare stones.
+### Workflow
+```
+Thin-slice CT/MRI (DICOM files) → segmentation of kidney, tumour, vessels, calyces
+   → STL (standard tessellation language) mesh → printer → post-processing
+```
+- Takes hours to days; segmentation needs expertise.
 
-### Newer methods
-| Method | Principle | Comment |
+### Printing technologies
+| Method | Principle | Use |
 |---|---|---|
-| **FTIR (Fourier-transform infrared) spectroscopy** | Each compound absorbs a characteristic infrared spectrum | Commonest reference method; tiny sample; detects proteins, drugs |
-| **XRD (X-ray diffraction)** | Crystal lattice diffracts X-rays in a unique pattern | Gold standard for crystals; misses amorphous material |
-| Polarising microscopy | Crystal birefringence | Cheap; needs experience |
-| **Morpho-constitutional analysis (Daudon)** | Stereomicroscopy of surface and section, plus FTIR | Subtypes point to cause, e.g. Ic suggests primary hyperoxaluria |
-| SEM (scanning electron microscopy) ± EDX (energy-dispersive X-ray) | Surface and elements | Research |
-| Micro-CT (micro-computed tomography), Raman spectroscopy | 3-D structure; scattered light | Research |
+| FDM (fused deposition modelling) | Melted plastic filament extruded | Cheap, rigid models |
+| SLA (stereolithography) | Laser cures liquid resin | Fine detail, transparent models |
+| Material jetting (PolyJet) | Jetted photopolymers, multi-colour | Tumour, vessels and calyces in different colours |
+| SLS (selective laser sintering) | Laser fuses powder | Durable parts, devices |
+| **Bioprinting** | Living cells in hydrogel "bio-ink" | Tissue engineering (see Practice Set 6 Paper 4, Q2) |
 
-### In vivo prediction
-- **DECT (dual-energy computed tomography):** two energies (e.g. 80 and 140 kVp) separate **uric acid from non–uric acid** stones with near-perfect accuracy.
-- **Hounsfield units:** SWL (shock wave lithotripsy) works best below about 900–1000 HU; cystine and brushite are dense.
-- Dusting loses the specimen: collect fragments.
+### Applications
+1. **Partial nephrectomy planning:** complex hilar or endophytic tumours. The model shows the tumour against vessels and collecting system, so the surgeon plans the approach and rehearses steps. Promising.
+2. **PCNL (percutaneous nephrolithotomy) planning:** staghorn stones, anomalous kidneys; choice of calyx. Early promise; 3D reformatting did not predict stone-free rate better.
+3. **Prostate:** models with MRI lesions for margin and nerve-sparing planning and focal therapy.
+4. **Patient education and consent:** patients understand their anatomy and the operation better.
+5. **Training and simulation:** silicone or hydrogel phantoms for PCNL puncture, partial nephrectomy, pyeloplasty, anastomosis.
+6. **Patient-specific devices:** prototype stents, catheters and surgical guides.
 
-### Significance in management
-- **Uric acid:** oral dissolution by alkalinisation (potassium citrate).
-- **Struvite:** complete clearance, culture-directed antibiotics.
-- **Cystine:** hydration, alkalinisation, tiopronin; avoid SWL.
-- **COM, brushite:** hard, SWL-resistant. Brushite can convert from calcium oxalate after SWL or infection.
-- **2,8-DHA:** APRT (adenine phosphoribosyltransferase) deficiency; allopurinol or febuxostat. **Drug stones** (indinavir, triamterene): stop the drug.
+### Limitations
+- Cost, printing time and segmentation errors.
+- Materials do not reproduce tissue feel or bleeding.
+- Evidence mostly small series; no proven outcome benefit.
 
-**Diagram to draw:** FTIR spectrum outline; COM (dumbbell) and COD (envelope) crystals.
+### Future
+- Virtual and augmented reality models on the robotic console, point-of-care printing, drug-eluting printed stents.
+
+**Diagram to draw:** CT → segmentation → STL → printer → colour kidney model with tumour, artery and calyces.
 
 > **Key points to remember:**
-> - FTIR and XRD are reference methods; wet chemistry is obsolete.
-> - DECT separates uric acid stones in vivo.
-> - Composition guides dissolution, SWL choice and prevention.
+> - Additive manufacturing from CT/MRI via segmentation and an STL file.
+> - Main uses: partial nephrectomy and PCNL planning, consent, simulation.
+> - Limits: cost, time, unrealistic tissue, weak outcome evidence.
 
 ---
 
-## Q3b. Urolift.
+## Q3b. ECIRS (endoscopic combined intrarenal surgery)
 **Type:** SAQ (10 marks)
-(also answered in 2024-Winter Paper 4, Q3d)
 
-*Read as PUL (prostatic urethral lift, UroLift) for BPH (benign prostatic hyperplasia).*
+### Definition
+- **ECIRS:** PCNL (percutaneous nephrolithotomy) and retrograde flexible ureteroscopy performed **at the same time, in one position**, by two surgeons.
+- Term and technique popularised by **Scoffone (2008)** in the **GMSV (Galdakao-modified supine Valdivia) position**. Combined access dates back to the 1980s (Lawson's retrograde needle placement, 1983).
 
-### Introduction
-- A **non-ablative MIST (minimally invasive surgical therapy)**: permanent implants retract the lateral lobes and open the prostatic urethra.
-- **FDA (Food and Drug Administration) approval 2013**, extended to ≤100 mL in 2020.
-- **Main advantage:** preserves erectile and **ejaculatory** function.
+### Rationale
+- Each route covers the other's blind spots: the retrograde scope guides and watches the puncture, and reaches calyces the rigid nephroscope cannot.
+- Result: one tract, better clearance.
 
-### Implant and mechanism
-- Spring-loaded implant with T-shaped ends: **nitinol capsular tab**, **stainless steel urethral end** (resists encrustation), polyethylene terephthalate suture under tension.
-- Delivered through a **19-gauge needle** from a cystoscopic device.
-- The gland is more compliant than the capsule, so tension compresses the lobe outward; later local atrophy and fibrosis. Implants are MRI (magnetic resonance imaging)-conditional (≤3 T).
+### Positioning
+| Position | Features |
+|---|---|
+| **GMSV** (preferred) | Supine; flank on a bolster at the table edge; ipsilateral leg extended, contralateral leg in lithotomy |
+| Bart's modified supine | Variant of supine |
+| Prone split-leg | Easier posterior calyces; needs a split-leg table |
 
-### Indications
-- **AUA (American Urological Association): 30–80 mL, no obstructing median lobe** (confirm by cystoscopy or ultrasound). EAU (European Association of Urology): <70 mL, no middle lobe.
-- Men wanting ejaculation preserved. **Avoid:** median lobe (MedLift data non-randomised), large gland, infection.
+- **Supine advantages:** airway access, gravity drainage of fragments, no turning, simultaneous retrograde access.
 
 ### Technique
-1. Local anaesthesia; rigid cystoscope.
-2. Compress lateral lobe, fire needle, deploy implant; repeat on the other side.
-3. **Usually 4–6 implants**, anterolateral, bladder neck to apex.
-4. Keep implants **>1.5 cm distal to the bladder neck** (encrustation).
-5. Most go home without a catheter.
+1. Cystoscopy; UAS (ureteral access sheath) placed; flexible ureteroscope maps the stones and chooses the target calyx.
+2. Ultrasound or fluoroscopic puncture **watched endoscopically** (double bull's-eye technique).
+3. Wire grasped and brought out: through-and-through access.
+4. Tract dilated under vision (balloon) and sheath placed.
+5. Antegrade lithotripsy and suction; the retrograde scope **relocates stones** from inaccessible calyces into the nephroscope's view, or lasers them.
+6. Final check with both scopes; stent or tubeless exit.
+- Mini-ECIRS uses a mini-PCNL tract.
 
-### Evidence
-| | **L.I.F.T. (2013)** | **BPH6 (2015)** |
-|---|---|---|
-| Design | PUL vs sham, 2:1, 19 centres | PUL vs TURP (transurethral resection of prostate), 10 European centres |
-| Result | IPSS (International Prostate Symptom Score) about halved, twice the sham effect; Qmax (maximum flow) +4 mL/s | Composite end point 52.3% vs 20.0%; antegrade ejaculation 100% vs 60.6% |
-| Retreatment | 13.6% at 5 years | 13.6% vs 5.7% at 2 years |
+### Indications
+- Staghorn and complex multi-calyceal stones, combined renal and ureteric stones, anomalous kidneys, failed previous treatment, urinary diversion, obese or cardiopulmonary patients (supine).
 
-- TURP wins on IPSS, Qmax and PVR (post-void residual).
-
-### Complications
-- Dysuria, haematuria, urgency (<2 weeks); encrustation; rare pelvic haematoma; device misfire.
-- Lower major adverse events but **higher retreatment than TURP**.
-
-**Diagram to draw:** axial prostate with implants pulling lateral lobes to the capsule.
-
-> **Key points to remember:**
-> - 30–80 mL, no median lobe; local anaesthesia.
-> - Ejaculation preserved; retreatment 13.6% at 5 years.
-> - TURP better on IPSS, flow and durability.
-
----
-
-## Q3c. Combination Intravesical therapy
-**Type:** SAQ (10 marks)
-(also answered in 2025-Winter Paper 4, Q3c)
-
-### Rationale
-- Chemotherapy reduces **recurrence** only; BCG (bacille Calmette-Guérin) reduces **progression** but fails in about a third.
-- Combinations add **different mechanisms**; useful in **BCG shortage** and **BCG-unresponsive** NMIBC (non-muscle-invasive bladder cancer).
-
-### 1. Sequential chemotherapy (doublets)
-| Regimen | Method | Results |
-|---|---|---|
-| **Gem/Doce** (gemcitabine–docetaxel) | Gemcitabine 1 g in 50 mL (60–90 min) → drain → docetaxel 37.5 mg (60–120 min); weekly ×6, then monthly for 2 years | High-grade recurrence-free survival about 65% at 1 year, 52% at 2 years; CIS (carcinoma in situ) complete response 60% at 1 year; **84% avoid cystectomy** |
-| Gem/MMC (mitomycin C) | Gemcitabine 1 g → MMC 40 mg | Durable recurrence-free about 38% |
-
-- **Why it works:** gemcitabine (antimetabolite) and docetaxel (microtubule stabiliser) act on different cell-cycle phases.
-- Oral bicarbonate and antiemetics aid tolerance. No level 1 evidence; phase III BRIDGE compares it with BCG.
-
-### 2. Chemotherapy with BCG
-- Sequential MMC–BCG: **no benefit** over BCG alone.
-- **Exception: BCG alternating with EMDA (electromotive drug administration)-MMC** in T1: lower recurrence and progression (a later trial non-significant).
-- Chemohyperthermia (RITE, radiofrequency-induced thermochemotherapeutic effect) potentiates BCG.
-
-### 3. BCG with immunomodulators
-- **BCG + interferon-α2b:** no gain over BCG, but allows BCG dose reduction to one-third.
-- **N-803 (nogapendekin alfa)**, an IL-15 (interleukin-15) superagonist activating CD8 T and NK (natural killer) cells. With BCG in BCG-unresponsive CIS: complete response 71%, 45% at 12 months; FDA (Food and Drug Administration)-approved in 2024 (chapter: "under review").
-
-### 4. BCG with checkpoint inhibitors (BCG-naive high risk)
-- **CREST** (sasanlimab + BCG) and **POTOMAC** (durvalumab + BCG): improved event-free or disease-free survival.
-- **ALBAN** (atezolizumab + BCG): negative. KEYNOTE-676 (pembrolizumab) ongoing.
-
-### 5. Novel combinations
-- **Cretostimogene** (oncolytic adenovirus) + pembrolizumab: about two-thirds complete response at 12 months.
-- **TAR-200** (gemcitabine-releasing device) ± cetrelimab: very high early complete response in BCG-unresponsive CIS (SunRISe-1).
-
-### Toxicity
-- Additive cystitis; immune-related events.
-
-**Diagram to draw:** Gem/Doce sequence timeline (instil, dwell, drain, instil).
-
-> **Key points to remember:**
-> - Gem/Doce: gemcitabine 1 g then docetaxel 37.5 mg; 84% cystectomy-free.
-> - Only EMDA-MMC improves BCG sequentially.
-> - N-803 + BCG: CIS complete response 71%.
-> - BCG + checkpoint: CREST, POTOMAC positive; ALBAN negative.
-
----
-
-## Q3d. Etiology and management of hypospadias fistula.
-**Type:** SAQ (10 marks)
-(also answered in 2015-Summer Paper 4, Q3a)
-
-### Definition and incidence
-- A UCF (urethrocutaneous fistula) is a urethral leak anywhere below the meatus: the **commonest complication** of hypospadias repair, just under 10% at short-term follow-up.
-- After TIP (tubularised incised plate): 5.7% (**Pfistermuller 2015**); proximal repair 3–45%. Usually at the original meatus or coronal margin.
-
-### Aetiology
-- **Distal obstruction** (meatal stenosis, stricture): raises voiding pressure and turbulence; the **key correctable cause**.
-- **Ischaemia**, oedema, infection, haematoma, tension.
-- **Technical:** overlapping suture lines, poorly inverted epithelium, slowly absorbed sutures, **no barrier layer**.
-- **Patient:** proximal meatus, glans <14 mm, redo surgery. A long, rigid neourethra raises resistance (Poiseuille's law).
-
-### Prevention
-- **Vascularised barrier** (dartos; **tunica vaginalis** in proximal or redo), offset suture lines, stent in complex repairs.
-
-### Evaluation
-- Multiple streams, usually within 2 years.
-- Under anaesthesia: **bougie calibration** for distal narrowing, **urethroscopy** if irregular, and a **stress test** (compress proximally and distally, inject saline or methylene blue) for hidden tracts.
-
-### Management
-- Rarely closes spontaneously. **Wait 6–12 months**; **correct distal obstruction at the same sitting**.
-
-| Fistula | Repair |
-|---|---|
-| Small, shaft | Excise the epithelialised tract, inverting subepithelial closure with fine absorbable suture, multiple offset layers, **dartos barrier** |
-| Large or thin tissue | Trap-door or island skin flap plus second layer |
-| Coronal margin | Implies distal narrowing or poor tissue: **redo urethroplasty and glansplasty** |
-| With diverticulum | Excise, or reuse the redundant wall as a flap |
-
-- Recurrence about **20%**; reduce with interposed vascularised layers (dartos, tunica vaginalis, Cecil modification when tissue is scarce).
-- Catheter: none for simple repairs, 7–14 days for complex.
-- **Also know:** preputial fistula does not involve the urethra; follow through puberty.
-
-```
-UCF → wait 6–12 months → calibrate, urethroscopy, stress test
- ├─ distal obstruction → correct at same sitting
- ├─ small → excise + layered closure + barrier flap
- └─ large/coronal → flap repair or redo urethroplasty
-```
-
-**Diagram to draw:** neourethra, dartos barrier and skin with offset suture lines.
-
-> **Key points to remember:**
-> - Commonest complication, just under 10%; TIP 5.7%.
-> - Exclude distal obstruction; wait 6–12 months.
-> - Layered closure with barrier flap; recurrence about 20%.
-
----
-
-## Q3e. Tubeless PCNL
-**Type:** SAQ (10 marks)
-(also answered in 2016-Summer Paper 4, Q3e and 2025-Winter Paper 2, Q3e)
-
-### Definition
-- PCNL (percutaneous nephrolithotomy) that ends **without a nephrostomy tube**.
-- **Tubeless**: drainage by a ureteral stent (double-J, or externalised stent or string). **Totally tubeless**: no stent and no tube.
-- **Wickham (1984)** did the first tubeless PCNL; **Bellman (1997)** popularised it.
-
-### Rationale
-- A large nephrostomy tube causes pain, more analgesia, longer stay and higher cost. Most tracts stop bleeding without tamponade.
-
-### Selection
-| Suitable | Keep a nephrostomy |
-|---|---|
-| Complete clearance, single tract | Pyonephrosis or infected stone |
-| Minimal bleeding | Significant bleeding |
-| Intact collecting system | Significant collecting-system injury |
-| Supracostal access, bilateral cases (shown safe) | Residual stone needing a second look |
-
-### Technique (exit strategy)
-1. Confirm clearance by rigid and **flexible nephroscopy** and fluoroscopy.
-2. Antegrade double-J stent, or externalised stent or string.
-3. Withdraw the sheath under vision; the **safety wire is removed last**.
-4. Watch the tract and apply pressure (rib as backstop in thin patients). Fibrin glue did not reduce bleeding in randomised trials.
-5. Urethral catheter overnight.
-
-### Evidence
-- Meta-analyses of randomised trials: shorter stay and operative time.
-- Less pain than large tubes (**>16 Fr**), but **no benefit over small 8–9 Fr tubes**.
-- No difference in fever, infection, transfusion or stone-free rate.
-- Stent discomfort: worse WiSQoL (Wisconsin Stone Quality of Life) scores than nephrostomy in two trials. Externalised stents come out before discharge without cystoscopy.
-- Children: insufficient evidence.
-
-### Disadvantages and complications
-- Loss of tract for a second look.
-- Stent symptoms and a further procedure for removal.
-- Urine leak or urinoma.
-- Bleeding without tamponade: re-insert a balloon or Kaye catheter, then **angioembolisation**.
-
-### Current position
-- Choose tubeless, small tube (≤10 Fr) or stent case by case; both stents and small tubes are acceptable (AUA, American Urological Association). Pairs well with mini-PCNL.
-
-**Diagram to draw:** kidney with sealed tract and double-J stent.
-
-> **Key points to remember:**
-> - Tubeless = stent only; totally tubeless = neither.
-> - Benefit is mainly over large (>16 Fr) tubes.
-> - Keep a tube for bleeding, perforation, infection or second look.
-
----
-
-## Q3f. Miniperc
-**Type:** SAQ (10 marks)
-(also answered in 2017-Winter Paper 4, Q3d and 2022-Summer Paper 1, Q1)
-
-### Definition
-- PCNL (percutaneous nephrolithotomy) through a **smaller tract**, to reduce bleeding and renal trauma. First "mini-perc": **Jackman (1998)**, 13 Fr, in children.
-
-| Designation | Tract size |
-|---|---|
-| Standard | 24–34 Fr |
-| **Mini** | 15–22 Fr |
-| Ultra-mini | 11–14 Fr |
-| Micro-perc | <10 Fr (single-step "all-seeing needle") |
-
-- The nomenclature is contested. The **working channel**, not sheath size, decides which instruments pass.
-
-### Instruments and technique
-- Mini nephroscopes (e.g. 12 Fr telescope, 15–18 Fr sheath, 6 Fr channel); holmium or thulium laser, or small pneumatic probes.
-- **Fragment removal:** irrigation outflow around the scope washes fragments out (**"vacuum-cleaner" effect**), or **active suction sheaths** (super-mini PCNL).
-- Prone or supine; ECIRS (endoscopic combined intrarenal surgery) possible.
-- Exit: often **tubeless** or a small nephrostomy (≤10 Fr: less pain).
-
-### Advantages over standard PCNL
-- Less haemoglobin drop, **fewer transfusions**, shorter stay; less parenchymal damage.
-- Children: a 24–30 Fr tract in a child equals about a 72 Fr tract in an adult, so miniaturisation matters most here.
+### Advantages (meta-analysis)
+- Single position, **fewer tracts, less bleeding**, fewer ancillary procedures, **higher stone-free rate**; less fluoroscopy; the UAS keeps intrarenal pressure low.
 
 ### Disadvantages
-- **Longer operative time**, poorer vision, slower fragment clearance.
-- **Intrarenal pressure:** high-pressure irrigation through a tight sheath causes pyelovenous backflow, **fever and sepsis**. Keep outflow free; use suction sheaths.
+- Two surgeons and two sets of equipment; cost; longer set-up; ureteric injury from the sheath; less working space in supine.
 
-### Evidence
-- Mini versus standard (meta-analysis): **non-inferior stone-free rate**, less bleeding, shorter stay, longer surgery; same adverse events.
-- Stones >2 cm: equal stone-free rate and fever; mini bleeds less than **30 Fr** tracts, but **every advantage disappears against 24 Fr**.
-- Mini-PCNL versus RIRS (retrograde intrarenal surgery), large matched study: similar stone-free and retreatment rates; RIRS shorter stay.
-
-### Indications and contraindications
-- Renal stones **1–2 cm**, **lower-pole stones** >1 cm, failed SWL (shock wave lithotripsy) or RIRS, **paediatric stones**, calyceal diverticular stones; selected larger stones or extra staghorn tracts.
-- **Contraindications:** as for PCNL: untreated infection, uncorrected coagulopathy, pregnancy.
-
-**Diagram to draw:** tract sizes compared (standard, mini, ultra-mini, micro).
+**Diagram to draw:** GMSV position with nephroscope from the flank and flexible ureteroscope from below in the same calyx.
 
 > **Key points to remember:**
-> - Mini 15–22 Fr; ultra-mini 11–14 Fr; micro <10 Fr; Jackman 1998.
-> - Fewer transfusions and shorter stay, but longer operation.
-> - Watch intrarenal pressure; advantage lost against 24 Fr tracts.
+> - Simultaneous PCNL plus flexible ureteroscopy in one position (Scoffone, GMSV).
+> - Retrograde scope guides the puncture and relocates stones.
+> - Fewer tracts, less bleeding, higher stone-free rate.
+
+---
+
+## Q3c. Molecular targeted therapy in urological cancers
+**Type:** SAQ (10 marks)
+
+### Concept
+- **Targeted therapy** blocks a molecule the cancer depends on (receptor, kinase, transcription factor, DNA-repair enzyme, surface antigen), not all dividing cells.
+- Classes: small-molecule TKIs (tyrosine kinase inhibitors, "-nib"), monoclonal antibodies ("-mab"), mTOR (mammalian target of rapamycin) inhibitors, HIF-2α (hypoxia-inducible factor-2α) inhibitor, PARP (poly-ADP-ribose polymerase) inhibitors, ADCs (antibody–drug conjugates), radioligands.
+
+### RCC (renal cell carcinoma)
+- **Basis:** VHL (von Hippel–Lindau) loss → HIF accumulates even in normoxia → constant VEGF (vascular endothelial growth factor), PDGF (platelet-derived growth factor) and other targets.
+
+| Target | Drugs | Key evidence |
+|---|---|---|
+| VEGF receptors | Sunitinib, pazopanib, axitinib, cabozantinib (also MET, AXL), lenvatinib | COMPARZ: pazopanib noninferior to sunitinib; METEOR: cabozantinib beat everolimus |
+| VEGF ligand | Bevacizumab | Modest PFS (progression-free survival) gain |
+| mTOR | Temsirolimus (IV, poor risk), everolimus (oral) | Temsirolimus improved OS (overall survival) over interferon |
+| HIF-2α | **Belzutifan** | VHL disease tumours; LITESPARK-005 beat everolimus after immunotherapy and TKI |
+
+- First line now: TKI **plus** checkpoint inhibitor. Everolimus also treats tuberous sclerosis angiomyolipoma.
+
+### Urothelial carcinoma
+- **FGFR3 (fibroblast growth factor receptor 3)** alterations, typical of luminal tumours: **erdafitinib** (oral) after prior therapy.
+- **ADCs:** **enfortumab vedotin** (Nectin-4) improved OS after platinum and immunotherapy; sacituzumab govitecan (Trop-2); HER2 (human epidermal growth factor receptor 2)-directed ADCs emerging.
+- **EV-302 (2024):** enfortumab vedotin plus pembrolizumab, first line, roughly doubled OS versus platinum chemotherapy and is now standard (chapter notes predate it).
+
+### Prostate cancer (mCRPC, metastatic castration-resistant)
+- **PARP inhibitors** exploit **synthetic lethality** in HRR (homologous recombination repair)-deficient tumours, especially BRCA2. **PROfound:** olaparib beat a second hormonal agent (imaging PFS 7.4 vs 3.6 months in BRCA/ATM).
+- **PSMA (prostate-specific membrane antigen) radioligand:** **177Lu-PSMA-617; VISION**: OS 15.3 vs 11.3 months.
+
+### Toxicity
+- VEGF TKIs: hypertension, hand–foot syndrome, hypothyroidism. mTOR: mucositis, hyperglycaemia. Erdafitinib: hyperphosphataemia. Enfortumab: neuropathy, rash. PARP inhibitors: anaemia.
+
+### Limitations
+- Resistance develops; cures rare; biomarker testing needed.
+
+**Diagram to draw:** VHL–HIF–VEGF pathway with drug sites (TKI at receptor, bevacizumab at VEGF, mTOR and HIF-2α inhibitors).
+
+> **Key points to remember:**
+> - RCC: VEGF TKIs, mTOR inhibitors, belzutifan (HIF-2α).
+> - Bladder: erdafitinib (FGFR3), enfortumab vedotin (Nectin-4).
+> - Prostate: PARP inhibitors (BRCA2), 177Lu-PSMA (VISION).
+
+---
+
+## Q3d. Artificial urinary bladder
+**Type:** SAQ (10 marks)
+
+*Read as a man-made bladder substitute (prosthetic, engineered or transplanted). Bowel neobladder: see Practice Set 4 Paper 2, Q3e.*
+
+### Need
+- Bowel substitutes absorb urine and secrete mucus, causing acidosis, mucus, stones, infection, perforation and cancer. The aim is a substitute that **is bladder-like, not bowel**.
+
+### Requirements of an ideal substitute
+- Low-pressure storage of adequate volume; continence.
+- Complete, voluntary emptying; no reflux or upper-tract damage.
+- Biocompatible: no encrustation, infection, rejection or cancer risk; durable.
+
+### Approaches
+| Approach | Principle | Status |
+|---|---|---|
+| **Alloplastic (prosthetic) bladder** | Synthetic reservoir (silicone, polymers) joined to ureters and urethra | Failed: encrustation, infection, leak at the tissue–prosthesis junction, migration, fibrosis |
+| **Tissue-engineered bladder** | Autologous urothelial and muscle cells seeded on a biodegradable scaffold, omental wrap | Atala (2006): 7 patients improved; phase II trial showed no significant gain in capacity or compliance; experimental |
+| **Engineered conduit** | Seeded scaffold as urinary conduit | Neo-Urinary Conduit trial: half developed stenosis or stricture; stiff, no blood supply |
+| **Bladder transplantation** | Robotic retrieval and transplant of a vascularised composite bladder allograft | Feasible in models and brain-dead donors; first human case reported in 2025; needs immunosuppression |
+
+### Why progress is slow
+- **Vascularity:** thick constructs die centrally.
+- **Innervation and contraction:** an engineered bladder stores urine but cannot yet empty voluntarily.
+- **Urine–material interface:** foreign material encrusts and becomes infected.
+- Fibrosis and contracture.
+
+### Alternatives in clinical use
+- Augmentation (bowel, ureterocystoplasty, autoaugmentation); continent or orthotopic diversion; ileal conduit.
+- **Also know:** neuroprosthetic emptying (sacral anterior root stimulator), artificial urinary sphincter, intraurethral valve-pump devices for underactive bladders.
+
+### Future
+- Bioprinted vascularised constructs, stem cells (urine-derived, iPSCs, induced pluripotent stem cells), smart scaffolds.
+
+**Diagram to draw:** biopsy → cell culture → seeding on bladder-shaped scaffold → omental wrap → anastomosis to bladder base.
+
+> **Key points to remember:**
+> - Prosthetic bladders failed (encrustation, infection, leak).
+> - Atala 2006 promising; later trial no gain; still experimental.
+> - Barriers: vascularity, innervation, urine–material interface.
+
+---
+
+## Q3e. Artificial kidney
+**Type:** SAQ (10 marks)
+
+*Read as devices that replace kidney function: the dialyser (classic "artificial kidney") and newer wearable, implantable and bioartificial kidneys.*
+
+### Definition
+- An **artificial kidney** removes solutes and water from blood across a semipermeable membrane. The haemodialysis dialyser is the standard example.
+- Pioneered by **Kolff (1943)**; long-term use followed the Scribner shunt (1960) and Brescia–Cimino AV (arteriovenous) fistula (1966).
+
+### Principles
+| Process | Mechanism | Removes |
+|---|---|---|
+| **Diffusion** | Concentration gradient across membrane | Small solutes (urea, potassium) |
+| **Convection** (haemofiltration) | Solute dragged with water | Middle molecules |
+| **Ultrafiltration** | Hydrostatic pressure gradient | Water |
+| Adsorption | Binding to membrane or sorbent | Some proteins, toxins |
+
+- **Hollow-fibre dialyser**; blood and dialysate flow **countercurrent** to keep the gradient.
+- **Schedule:** blood flow 250–350 mL/min, 3–5 hours, 3–5 times a week; adequacy by Kt/V (urea clearance × time ÷ volume), at least 1.2 per session.
+- **Peritoneal dialysis** uses the peritoneum as membrane (glucose or icodextrin draws water).
+
+### Limitations of current dialysis
+- Intermittent: fluid and solute swings cause cramps.
+- No endocrine (erythropoietin, vitamin D activation) or tubular metabolic function.
+- Access thrombosis, infection, steal; cardiovascular disease, vascular calcification.
+- **Transplantation remains the best renal replacement therapy.**
+
+### Newer artificial kidneys
+| Device | Principle | Status |
+|---|---|---|
+| **WAK (wearable artificial kidney)** | Belt-worn; sorbent regenerates a small volume of dialysate | Early human trials |
+| Wearable or portable peritoneal dialysis | Continuous sorbent-regenerated peritoneal fluid | Development |
+| **Implantable bioartificial kidney** | Silicon nanopore haemofilter plus bioreactor of renal tubule cells; driven by blood pressure, no pump | Preclinical |
+| **RAD (renal assist device)** | Human proximal tubule cells in a hollow-fibre cartridge with continuous dialysis | Phase II in acute kidney injury; not adopted |
+| Decellularised or organoid kidneys; pig kidney xenotransplant | Regenerative and xenograft routes | Experimental (see Practice Set 6 Paper 4, Q2) |
+
+### Urologist's role
+- AV fistula and graft work-up, laparoscopic PD (peritoneal dialysis) catheter placement with omental fixation, transplant.
+
+**Diagram to draw:** hollow-fibre dialyser with countercurrent blood and dialysate flow.
+
+> **Key points to remember:**
+> - Diffusion, convection, ultrafiltration across a semipermeable membrane.
+> - Dialysis lacks endocrine and tubular function; transplant is best.
+> - Wearable, implantable bioartificial and RAD devices are investigational.
+
+---
+
+## Q3f. Robotic kidney transplantation
+**Type:** SAQ (10 marks)
+
+### Introduction
+- **RAKT (robot-assisted kidney transplantation)**: the graft is implanted intracorporeally on the iliac vessels using the robot.
+- Milestones: Hoznek (2002, robot-assisted anastomosis); Giulianotti (2010, obese recipient); **Menon and Ahlawat (Vattikuti–Medanta, 2014)** standardised the transperitoneal technique with **regional hypothermia**, assessed by the IDEAL (idea, development, exploration, assessment, long-term study) framework.
+
+### Indications and selection
+- Living-donor grafts mainly; increasingly deceased donors.
+- **Obese recipients** gain most, as open transplant carries more wound complications.
+- **Contraindications (relative):** heavy iliac calcification on non-contrast CT (computed tomography), multiple graft vessels early in experience, previous transplant on that side, dense adhesions.
+
+### Technique (Vattikuti–Medanta)
+1. Lithotomy, steep Trendelenburg; transperitoneal ports.
+2. Periumbilical **GelPOINT** incision for graft and ice insertion.
+3. Peritoneal flap; expose the **external iliac vessels**.
+4. Graft wrapped in gauze with ice slush; **ice slush in the iliac fossa** for regional hypothermia.
+5. **Vein first:** renal vein end-to-side to external iliac vein, to shorten arterial ischaemia.
+6. Renal artery end-to-side to external iliac artery; unclamp and reperfuse.
+7. Extravesical **Lich–Gregoir** ureteroneocystostomy over a double-J stent.
+8. Graft retroperitonealised with the peritoneal flap to prevent torsion.
+
+### Advantages
+- Small incision: **fewer wound infections, less lymphocele**, less pain, faster recovery, better cosmesis.
+- Magnified 3D (three-dimensional) view and precise suturing in deep pelvis or obese patients.
+
+### Disadvantages
+- **Longer rewarming (anastomosis) time**; cost; learning curve; pneumoperitoneum and Trendelenburg effects.
+- No tactile feedback for calcified vessels.
+
+### Outcomes
+- Multicentre and ERUS (European Association of Urology Robotic Urology Section) series: graft function and survival comparable with open transplant, with lower surgical-site complications.
+
+### Complications
+- Graft thrombosis, haemorrhage, urine leak, ureteric stricture, lymphocele (less), port-site hernia; DGF (delayed graft function).
+
+**Diagram to draw:** pelvis with graft on external iliac vessels and ureter to bladder dome; ice slush via GelPOINT.
+
+> **Key points to remember:**
+> - Vattikuti–Medanta technique with regional hypothermia (2014).
+> - Vein first, then artery, then Lich–Gregoir.
+> - Best for obese recipients; graft function equals open.
 
 
 ---
@@ -486,39 +471,38 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 - Raya-Rivera 2011: seeded urethras in 5 boys.
 - New: iPSCs, urine-derived cells, bioprinting, organoids.
 
-#### Q3a. Newer methods of stone analysis and their significance in management of calculus disease. (SAQ)
+#### Q3a. 3D printing in urology (SAQ)
 
-- FTIR and XRD are reference methods; wet chemistry is obsolete.
-- DECT separates uric acid stones in vivo.
-- Composition guides dissolution, SWL choice and prevention.
+- Additive manufacturing from CT/MRI via segmentation and an STL file.
+- Main uses: partial nephrectomy and PCNL planning, consent, simulation.
+- Limits: cost, time, unrealistic tissue, weak outcome evidence.
 
-#### Q3b. Urolift. (SAQ)
+#### Q3b. ECIRS (endoscopic combined intrarenal surgery) (SAQ)
 
-- 30–80 mL, no median lobe; local anaesthesia.
-- Ejaculation preserved; retreatment 13.6% at 5 years.
-- TURP better on IPSS, flow and durability.
+- Simultaneous PCNL plus flexible ureteroscopy in one position (Scoffone, GMSV).
+- Retrograde scope guides the puncture and relocates stones.
+- Fewer tracts, less bleeding, higher stone-free rate.
 
-#### Q3c. Combination Intravesical therapy (SAQ)
+#### Q3c. Molecular targeted therapy in urological cancers (SAQ)
 
-- Gem/Doce: gemcitabine 1 g then docetaxel 37.5 mg; 84% cystectomy-free.
-- Only EMDA-MMC improves BCG sequentially.
-- N-803 + BCG: CIS complete response 71%.
-- BCG + checkpoint: CREST, POTOMAC positive; ALBAN negative.
+- RCC: VEGF TKIs, mTOR inhibitors, belzutifan (HIF-2α).
+- Bladder: erdafitinib (FGFR3), enfortumab vedotin (Nectin-4).
+- Prostate: PARP inhibitors (BRCA2), 177Lu-PSMA (VISION).
 
-#### Q3d. Etiology and management of hypospadias fistula. (SAQ)
+#### Q3d. Artificial urinary bladder (SAQ)
 
-- Commonest complication, just under 10%; TIP 5.7%.
-- Exclude distal obstruction; wait 6–12 months.
-- Layered closure with barrier flap; recurrence about 20%.
+- Prosthetic bladders failed (encrustation, infection, leak).
+- Atala 2006 promising; later trial no gain; still experimental.
+- Barriers: vascularity, innervation, urine–material interface.
 
-#### Q3e. Tubeless PCNL (SAQ)
+#### Q3e. Artificial kidney (SAQ)
 
-- Tubeless = stent only; totally tubeless = neither.
-- Benefit is mainly over large (>16 Fr) tubes.
-- Keep a tube for bleeding, perforation, infection or second look.
+- Diffusion, convection, ultrafiltration across a semipermeable membrane.
+- Dialysis lacks endocrine and tubular function; transplant is best.
+- Wearable, implantable bioartificial and RAD devices are investigational.
 
-#### Q3f. Miniperc (SAQ)
+#### Q3f. Robotic kidney transplantation (SAQ)
 
-- Mini 15–22 Fr; ultra-mini 11–14 Fr; micro <10 Fr; Jackman 1998.
-- Fewer transfusions and shorter stay, but longer operation.
-- Watch intrarenal pressure; advantage lost against 24 Fr tracts.
+- Vattikuti–Medanta technique with regional hypothermia (2014).
+- Vein first, then artery, then Lich–Gregoir.
+- Best for obese recipients; graft function equals open.

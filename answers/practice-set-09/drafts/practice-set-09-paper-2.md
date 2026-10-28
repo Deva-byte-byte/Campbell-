@@ -19,97 +19,88 @@
 (also answered in 2017-Summer Paper 2, Q2; grade IV in Practice Set 3 Paper 2, Q3c)
 
 ### Introduction
-- The kidney is the **commonest urological organ injured** (up to 5% of all trauma). **Blunt injury causes 80–90%** (motor vehicle collisions, falls); firearms cause most penetrating injuries.
-- **Rapid deceleration** stretches the kidney at its fixed points (hilum and UPJ, ureteropelvic junction). This causes intimal tear with arterial thrombosis, vein disruption, pedicle avulsion or UPJ disruption.
-- Most injuries are grade I–III and heal without surgery. The modern aim is **renal salvage**.
+- The kidney is the **commonest urological organ injured** (up to 5% of all trauma). **Blunt injury causes 80–90%**; firearms cause most penetrating injuries.
+- **Rapid deceleration** stretches the kidney at its fixed points (hilum and UPJ, ureteropelvic junction): arterial intimal tear and thrombosis, vein disruption, pedicle or UPJ avulsion.
+- Most injuries are grade I–III. The modern aim is **renal salvage**.
 
 ### Diagnosis
 **History and examination**
-- **Mechanism is the most important history**: vehicle speed, fall height; for stab wounds the site and blade length.
-- Signs: flank bruise or tenderness, **fractures of ribs 9–12**, flank or low chest wound. Resuscitate by trauma (ATLS, Advanced Trauma Life Support) protocols.
+- **Mechanism is the most important history** (speed, fall height, weapon). Signs: flank bruise or tenderness, **fractured ribs 9–12**, flank or low chest wound.
 
 **Haematuria**
-- Test the **first urine sample** (later samples are diluted). Significant: gross haematuria, or microhaematuria (>5 RBC [red blood cells] per high-power field) with **shock (SBP [systolic blood pressure] <90 mmHg)**.
-- Degree does **not** match severity. It may be **absent in pedicle injury** (about a third of blunt renovascular injuries) and in about half of UPJ injuries.
+- Test the **first urine sample**. Significant: gross haematuria, or microhaematuria (>5 RBC [red blood cells] per high-power field) with **shock (SBP [systolic blood pressure] <90 mmHg)**.
+- Degree does **not** match severity. It may be **absent in pedicle injury** and in about half of UPJ injuries.
 
 **Indications for imaging (AUA [American Urological Association] and EAU [European Association of Urology])**
-1. Blunt trauma with gross haematuria.
-2. Blunt trauma with microhaematuria and SBP <90 mmHg at any time.
-3. Rapid deceleration (high-speed collision, fall from height), even without haematuria.
-4. Penetrating trauma with likely renal injury, any haematuria.
-5. Children: image liberally, because they stay normotensive until about half the blood volume is lost.
+1. Blunt trauma with gross haematuria, or microhaematuria with SBP <90 mmHg at any time.
+2. Rapid deceleration, even without haematuria.
+3. Penetrating trauma with likely renal injury, any haematuria.
+4. Children: image liberally, because they stay normotensive until about half the blood volume is lost.
 - Microhaematuria without shock or deceleration: observe without imaging.
 
 **Imaging**
-- **Contrast-enhanced CT (computed tomography) is the gold standard.** The arterial or nephrographic phase (~80 s) shows active bleeding; the **delayed excretory phase (5–10 min)** shows urinary extravasation.
+- **Contrast-enhanced CT (computed tomography) is the gold standard.** The arterial or nephrographic phase (~80 s) shows bleeding; the **delayed excretory phase (5–10 min)** shows urinary extravasation.
 
 | CT finding | Suggests |
 |---|---|
 | Medial haematoma | Pedicle (vascular) injury |
 | Medial extravasation, no contrast in distal ureter | Renal pelvis or UPJ avulsion |
 | Absent enhancement (cortical rim sign) | Main renal artery occlusion |
-| Active contrast blush | Arterial bleeding: angioembolisation |
-| Haematoma rim >4 cm | Higher chance of bleeding intervention |
+| Active contrast blush; haematoma rim >4 cm | Bleeding likely to need intervention |
 
-- **One-shot IVP (intravenous pyelography)** on the table for the unstable patient: 2 mL/kg contrast, single film at 10 min. It mainly confirms a **functioning contralateral kidney**.
-- FAST (focused assessment with sonography for trauma) has poor specificity. CT shows renal vein injury poorly.
+- **One-shot IVP (intravenous pyelography)** on the table if unstable: 2 mL/kg, one film at 10 min; confirms a **functioning contralateral kidney**.
+- **Also know:** FAST (focused assessment with sonography for trauma) is non-specific; CT shows renal vein injury poorly.
 
 ### Classification: AAST (American Association for the Surgery of Trauma) 2018
 | Grade | Injury |
 |---|---|
 | I | Subcapsular haematoma and/or contusion, no laceration |
 | II | Perirenal haematoma within Gerota's fascia; laceration ≤1 cm, no extravasation |
-| III | Laceration >1 cm, no collecting-system injury; any vascular injury or active bleeding **contained within Gerota's fascia** |
-| IV | Laceration into collecting system with extravasation; renal pelvis laceration or complete UPJ disruption; **segmental artery or vein injury**; active bleeding beyond Gerota's fascia; segmental or complete infarction |
+| III | Laceration >1 cm, no collecting-system injury; vascular injury or active bleeding **contained within Gerota's fascia** |
+| IV | Laceration into collecting system with extravasation; renal pelvis laceration or UPJ disruption; **segmental artery or vein injury**; active bleeding beyond Gerota's fascia; segmental or complete infarction |
 | V | **Main renal artery or vein laceration or hilar avulsion**; devascularised kidney with active bleeding; shattered kidney |
-- Advance one grade for multiple injuries, up to grade III. Main vessel injury moved from grade IV (1989) to grade V (2018).
+- Advance one grade for multiple injuries, up to grade III.
 
 ### Treatment
 ```
 Unstable despite resuscitation → laparotomy (± damage control)
                                   or angioembolisation if team ready
-Stable → stage with CT
-   Grade I-III → non-operative
-   Grade IV-V  → non-operative in selected; AE for active blush
-   Extravasation → observe; stent ± nephrostomy if urinoma enlarges,
-                   fever, obstruction, or pelvis/UPJ injury
+Stable → CT staging → non-operative for grade I-V (selected IV-V)
+   Active blush → angioembolisation
+   Extravasation → observe; stent ± nephrostomy if urinoma
+                   enlarges, fever, or pelvis/UPJ injury
 ```
 **Non-operative management**
-- Bed rest until gross haematuria clears, vital signs, **haemoglobin every 4–6 h**. Succeeds in **>90% of blunt injuries**, and in selected stab and gunshot wounds.
+- Bed rest until gross haematuria clears; **haemoglobin every 4–6 h**. Succeeds in **>90% of blunt injuries** and selected penetrating injuries.
 - Failure: instability, or falling haemoglobin despite 2–3 units of blood.
-- **Reimage at ~48 h** for grade IV–V with deep lacerations, or with fever, pain or falling haematocrit. No routine reimaging for grade I–III.
+- **Reimage at ~48 h** for grade IV–V with deep lacerations, or with fever, pain or falling haematocrit.
 - Urinary extravasation heals spontaneously in **76–90%**.
 
 **Angioembolisation (AE)**
-- Superselective coils for active bleeding, pseudoaneurysm, AVF (arteriovenous fistula) or delayed bleeding. Repeat AE often succeeds. Failure predictors: instability, grade V.
+- Superselective coils for active bleeding, pseudoaneurysm, AVF (arteriovenous fistula) or delayed bleeding; repeat AE often succeeds.
 
 **Indications for exploration**
 | Absolute | Relative |
 |---|---|
-| Instability with no or transient response | Extravasation with devitalised parenchyma (>25%) |
+| Instability with no or transient response | Extravasation with >25% devitalised parenchyma |
 | Expanding or pulsatile retroperitoneal haematoma | Arterial thrombosis |
-| Suspected pedicle avulsion | Associated colon or pancreatic injury |
-| UPJ avulsion | Incomplete staging |
+| Suspected pedicle avulsion; UPJ avulsion | Associated colon or pancreatic injury |
 
-**Operative technique**
-1. Midline transabdominal approach; treat life-threatening injuries first.
-2. **Control the renal vessels before opening Gerota's fascia**: incise the retroperitoneum over the aorta above the inferior mesenteric artery, find the left renal vein crossing the aorta, and loop the vein and arteries.
-3. Reflect the colon, open Gerota's fascia, occlude vessels if bleeding.
-4. **Renorrhaphy**: debride, suture-ligate vessels, close the collecting system watertight, close the defect over a bolster, cover with omentum, drain. Polar injury: partial nephrectomy.
-5. **Nephrectomy** if unreconstructable or the patient is unstable.
-- **Damage control** (for hypothermia, acidosis and coagulopathy): pack, resuscitate in ICU (intensive care unit), return at 24–48 h.
+**Operative steps**
+1. Midline transabdominal approach; life-threatening injuries first.
+2. **Control renal vessels before opening Gerota's fascia**: incise the retroperitoneum over the aorta, find the left renal vein crossing it, loop the vein and arteries.
+3. **Renorrhaphy**: debride, suture-ligate vessels, close the collecting system watertight, close the defect over a bolster, omental cover, drain. Polar injury: partial nephrectomy.
+4. **Nephrectomy** if unreconstructable or unstable. **Damage control**: pack, resuscitate in ICU (intensive care unit), return at 24–48 h.
 
 **Renovascular injury**
-- Unilateral main artery thrombosis with a normal other kidney: observe. **Solitary kidney or bilateral injury: revascularise** (warm ischaemia ideally <120 min); endovascular stent for an intimal flap.
-- The left renal vein can be ligated near the IVC (inferior vena cava) because of collaterals; the right cannot.
+- Unilateral artery thrombosis with a normal other kidney: observe. **Solitary or bilateral: revascularise** (warm ischaemia ideally <120 min) or stent an intimal flap.
+- Left renal vein can be ligated (collaterals); the right cannot.
 
-### Complications
-- **Delayed bleeding** (usually within 21 days): AE. Urinoma and perinephric abscess: stent, nephrostomy, percutaneous drain.
-- **Hypertension**: Goldblatt (arterial stenosis), **Page kidney** (compression by haematoma; ACE [angiotensin-converting enzyme] inhibitor, rarely decortication), post-traumatic AVF.
-- **Also know:** AKI (acute kidney injury); hydronephrosis; chronic pain; renocutaneous fistula.
-
-### Follow-up
-- Blood pressure, urinalysis and creatinine. EAU: DMSA (dimercaptosuccinic acid) scan for salvaged grade III–V kidneys.
+### Complications and follow-up
+- **Delayed bleeding** (usually within 21 days): AE. Urinoma or abscess: stent, nephrostomy, drain.
+- **Hypertension**: Goldblatt (arterial stenosis), **Page kidney** (haematoma compression), AVF.
+- **Also know:** AKI (acute kidney injury); hydronephrosis; renocutaneous fistula.
+- Follow-up: blood pressure, urinalysis, creatinine; EAU: DMSA (dimercaptosuccinic acid) scan for salvaged grade III–V kidneys.
 
 **Diagram to draw:** left renal vein crossing the aorta, with vessel loops on the vein and artery.
 

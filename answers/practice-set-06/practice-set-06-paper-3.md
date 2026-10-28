@@ -248,13 +248,43 @@ Proliferation -> moderate shortening -> senescence/apoptosis (barrier 1)
 
 ## Q3c. Newer methods of stone analysis
 **Type:** SAQ (10 marks)
+(also answered in 2024-Winter Paper 4, Q3a)
 
-**See Practice Set 6 Paper 4, Q3a (full answer).**
+### Why analyse stones
+- AUA (American Urological Association) and EAU (European Association of Urology): analyse a stone at least once in every former; **repeat if stones recur on treatment** (evolving metabolic condition).
+- Composition points to cause: **uric acid** suggests metabolic disease, **cystine** a genetic one, **struvite** infection. Cystine, struvite, 2,8-DHA (2,8-dihydroxyadenine) and xanthine are diagnostic in themselves.
 
-> **Key points to remember (SAQ angle):**
-> - FTIR (Fourier transform infrared spectroscopy) and XRD (X-ray diffraction) are the reference methods; wet chemical analysis is obsolete.
-> - DECT (dual-energy computed tomography) estimates composition in vivo, mainly uric acid versus calcium stones.
-> - Stone analysis guides prevention: uric acid points to a metabolic cause, cystine to a genetic one, struvite to infection.
+### Why wet chemical analysis is obsolete
+- Detects ions, not **crystal phases**: cannot separate COM (calcium oxalate monohydrate) from COD (dihydrate), or apatite from brushite; misses rare stones.
+
+### Newer methods
+| Method | Principle | Comment |
+|---|---|---|
+| **FTIR (Fourier-transform infrared) spectroscopy** | Each compound absorbs a characteristic infrared spectrum | Commonest reference method; tiny sample; detects proteins, drugs |
+| **XRD (X-ray diffraction)** | Crystal lattice diffracts X-rays in a unique pattern | Gold standard for crystals; misses amorphous material |
+| Polarising microscopy | Crystal birefringence | Cheap; needs experience |
+| **Morpho-constitutional analysis (Daudon)** | Stereomicroscopy of surface and section, plus FTIR | Subtypes point to cause, e.g. Ic suggests primary hyperoxaluria |
+| SEM (scanning electron microscopy) ± EDX (energy-dispersive X-ray) | Surface and elements | Research |
+| Micro-CT (micro-computed tomography), Raman spectroscopy | 3-D structure; scattered light | Research |
+
+### In vivo prediction
+- **DECT (dual-energy computed tomography):** two energies (e.g. 80 and 140 kVp) separate **uric acid from non–uric acid** stones with near-perfect accuracy.
+- **Hounsfield units:** SWL (shock wave lithotripsy) works best below about 900–1000 HU; cystine and brushite are dense.
+- Dusting loses the specimen: collect fragments.
+
+### Significance in management
+- **Uric acid:** oral dissolution by alkalinisation (potassium citrate).
+- **Struvite:** complete clearance, culture-directed antibiotics.
+- **Cystine:** hydration, alkalinisation, tiopronin; avoid SWL.
+- **COM, brushite:** hard, SWL-resistant. Brushite can convert from calcium oxalate after SWL or infection.
+- **2,8-DHA:** APRT (adenine phosphoribosyltransferase) deficiency; allopurinol or febuxostat. **Drug stones** (indinavir, triamterene): stop the drug.
+
+**Diagram to draw:** FTIR spectrum outline; COM (dumbbell) and COD (envelope) crystals.
+
+> **Key points to remember:**
+> - FTIR and XRD are reference methods; wet chemistry is obsolete.
+> - DECT separates uric acid stones in vivo.
+> - Composition guides dissolution, SWL choice and prevention.
 
 ---
 
@@ -424,9 +454,9 @@ Still negative -> empirical trial if clinically compatible
 
 #### Q3c. Newer methods of stone analysis (SAQ)
 
-- FTIR (Fourier transform infrared spectroscopy) and XRD (X-ray diffraction) are the reference methods; wet chemical analysis is obsolete.
-- DECT (dual-energy computed tomography) estimates composition in vivo, mainly uric acid versus calcium stones.
-- Stone analysis guides prevention: uric acid points to a metabolic cause, cystine to a genetic one, struvite to infection.
+- FTIR and XRD are reference methods; wet chemistry is obsolete.
+- DECT separates uric acid stones in vivo.
+- Composition guides dissolution, SWL choice and prevention.
 
 #### Q3d. Describe newer diagnostic modalities for Gu Kochs. Briefly outline role of all present diagnostic tests and give diagnostic algorithm. (SAQ)
 

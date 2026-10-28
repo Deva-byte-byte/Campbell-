@@ -75,7 +75,7 @@ Deglove + excise dysplastic dartos + artificial erection
 ### Concept 7: standardised complications and outcomes
 - Definitions: glans dehiscence (fusion <2 mm); meatal stenosis (symptoms plus <8 Fr before puberty, <12 Fr after); recurrent curvature >30°.
 - TIP meta-analysis (Pfistermuller 2015): complications 10.6%, fistula 5.7%. Proximal complications 23–68%; STAG about 23% (lowest); Byars 43–81%.
-- A long, rigid, spongiosum-free neourethra raises resistance (Poiseuille's law), causing fistula and diverticulum. Fistula: see Practice Set 6 Paper 4, Q3d.
+- A long, rigid, spongiosum-free neourethra raises resistance (Poiseuille's law), causing fistula and diverticulum. Fistula: see 2015-Summer Paper 4, Q3a.
 - **Also know:** BXO (balanitis xerotica obliterans), excise and stage with buccal graft; redo repairs use buccal (lip inside glans) mucosa, Cecil scrotal parasitisation, tissue expansion.
 
 ### Concept 8: follow-up and patient-reported outcomes

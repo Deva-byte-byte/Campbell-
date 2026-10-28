@@ -22,7 +22,7 @@
 
 ### Introduction
 - **Resistant hypertension:** BP (blood pressure) above goal despite 3 drugs of different classes, including a diuretic, at optimal doses; or needing 4 or more drugs.
-- Onset or poor control below 40 years is a classic trigger to search for a **secondary cause**. Many are curable (adenoma, phaeochromocytoma, renal artery stenosis, obstruction).
+- Poor control below 40 years is a classic trigger to search for a **secondary cause**; many are curable.
 
 ### Causes
 | Group | Causes | Clues |
@@ -37,7 +37,7 @@
 
 ### Evaluation
 **Step 1: Exclude pseudo-resistance**
-- Correct cuff technique; home or ambulatory BP monitoring to exclude white-coat effect; check adherence, doses and interfering drugs; salt and alcohol intake.
+- Correct cuff technique; home or ambulatory monitoring to exclude white-coat effect; check adherence, doses, interfering drugs, salt and alcohol.
 
 **Step 2: History and examination**
 - Paroxysms, weakness or polyuria (hypokalaemia), stones, UTI (urinary tract infection) or childhood reflux, snoring, family history.
@@ -50,7 +50,7 @@
 **Step 4: Targeted screening (method and interpretation)**
 | Cause | Screen | Confirm or localise |
 |---|---|---|
-| PA | Morning **ARR (aldosterone-to-renin ratio)**: >20–30 with aldosterone >15 ng/dL; stop spironolactone first; correct potassium | **IV saline 2 L over 4 h** (aldosterone stays >5 ng/dL) or oral salt loading → adrenal CT → **AVS (adrenal vein sampling)**; skip AVS if age <40 with a clear unilateral adenoma >1 cm |
+| PA | Morning **ARR (aldosterone-to-renin ratio)** >20–30 with aldosterone ≥15–20 ng/dL; stop spironolactone first; correct potassium | **Intravenous saline 2 L over 4 h** (aldosterone stays >5 ng/dL) or oral salt loading → adrenal CT (computed tomography) → **AVS (adrenal vein sampling)**; skip AVS if age <40 with a clear unilateral adenoma >1 cm |
 | Phaeochromocytoma | **Plasma free or 24-h urinary fractionated metanephrines** | CT or MRI (magnetic resonance imaging); ⁶⁸Ga-DOTATATE PET (positron emission tomography) or MIBG (metaiodobenzylguanidine); genetic testing |
 | Cushing | **1-mg overnight dexamethasone suppression** (cortisol ≤1.8 µg/dL excludes); late-night salivary cortisol; 24-h urinary free cortisol | ACTH (adrenocorticotropic hormone): low = adrenal, high = pituitary or ectopic |
 | Renovascular | **Duplex Doppler**: peak systolic velocity >180–200 cm/s, renal/aortic ratio >3.5 | CT or MR angiography; catheter angiography with pressure gradient if intervention planned |
@@ -58,7 +58,7 @@
 
 ```
 Uncontrolled BP, age 38 → exclude pseudo-resistance
- → baseline tests + US KUB
+ → baseline tests + ultrasound KUB
  → ARR, metanephrines, dexamethasone test, renal Doppler
     ├─ positive → confirm → localise → treat cause
     └─ all negative → essential: optimise drugs
@@ -85,11 +85,10 @@ Uncontrolled BP, age 38 → exclude pseudo-resistance
 | Obstruction | **Relieve it** (catheter, nephrostomy, pyeloplasty, prostate surgery); watch post-obstructive diuresis |
 | CKD | ACE inhibitor or ARB for proteinuria; scheduled diuretics |
 
-**3. Follow-up:** home BP, creatinine and potassium; duplex for restenosis after angioplasty.
+**3. Follow-up:** home BP, creatinine, potassium; duplex after angioplasty.
 
 ### Recent advances
-- **Catheter renal denervation** (radiofrequency or ultrasound) approved in 2023 for selected resistant hypertension.
-- SPARTACUS trial questioned routine AVS (no difference in drug needs at 1 year).
+- **Catheter renal denervation** (radiofrequency or ultrasound), approved in the USA in 2023 for selected resistant hypertension; SPARTACUS trial questioned routine AVS.
 
 **Diagram to draw:** stepwise algorithm from pseudo-resistance to cause-specific treatment.
 
@@ -186,11 +185,11 @@ Uncontrolled BP, age 38 → exclude pseudo-resistance
 (also answered in 2019-Summer Paper 2, Q1)
 
 ### Introduction
-- T1G3: high-grade urothelial carcinoma invading the lamina propria, not muscle. Every high-grade T1 is **high risk** of NMIBC (non-muscle-invasive bladder cancer): recurrence >80%, progression 30–50%.
+- T1G3: high-grade (HG) urothelial carcinoma invading the lamina propria, not muscle. It is **high-risk** NMIBC (non-muscle-invasive bladder cancer): recurrence >80%, progression 30–50%.
 - **Adverse factors:** concurrent CIS (carcinoma in situ), LVI (lymphovascular invasion), variant histology, size >3 cm, multifocality, prostatic urethral involvement, residual T1 at re-resection.
 
 ### Step 1: Complete TURBT (transurethral resection of bladder tumour)
-- Resect all tumour **with detrusor muscle**; en bloc resection where possible; blue-light or NBI (narrow-band imaging) for CIS; prostatic urethral biopsy if indicated. CT urography for the upper tracts.
+- Resect all tumour **with detrusor muscle**; en bloc where possible; blue-light or NBI (narrow-band imaging) for CIS; CT (computed tomography) urography.
 
 ### Step 2: Re-TURBT at 2–6 weeks (all T1)
 - Residual tumour in ≥40%; upstaging to muscle invasion in 25–30%. Improves recurrence- and progression-free survival.
@@ -199,16 +198,16 @@ Uncontrolled BP, age 38 → exclude pseudo-resistance
 HG T1 → re-TURBT
    ├─ ≥T2                → neoadjuvant chemotherapy + cystectomy
    ├─ very high risk     → offer early radical cystectomy
-   └─ T0, Ta, CIS, T1    → BCG induction + 3-year maintenance
+   └─ T0, Ta, CIS, T1    → BCG (bacille Calmette-Guérin)
 ```
 
-### Step 3: BCG (bacille Calmette-Guérin) – standard
-- Triggers a **Th1 (T-helper 1)** immune response; the **only intravesical agent that reduces progression**.
+### Step 3: BCG – standard
+- **Th1 (T-helper 1)** immune response; the **only intravesical agent that reduces progression**.
 - Induction weekly ×6, 2–4 weeks after TURBT. **Maintenance (SWOG [Southwest Oncology Group], Lamm 2000)**: 3 weekly doses at 3 and 6 months, then 6-monthly to **3 years**.
-- Avoid with gross haematuria, traumatic catheterisation or UTI (urinary tract infection). BCG sepsis: antituberculous drugs plus steroids.
+- Avoid with gross haematuria, traumatic catheterisation or UTI (urinary tract infection).
 
 ### Step 4: Early radical cystectomy
-- Clinical T1 is understaged in one-third to one-half; those who progress do worse than primary muscle-invasive disease.
+- Clinical T1 is understaged in one-third to one-half; progressors do worse than primary muscle-invasive disease.
 - Offer for **very high risk** (EAU [European Association of Urology]): T1 HG with CIS plus risk factors (age >70, multiple tumours, ≥3 cm), LVI, variant histology, prostatic urethral CIS, persistent T1 at re-TURBT.
 
 ### Step 5: BCG-unresponsive disease
@@ -216,7 +215,7 @@ HG T1 → re-TURBT
 - **Radical cystectomy**; if unfit: pembrolizumab (KEYNOTE-057), nadofaragene firadenovec, gemcitabine–docetaxel, trials.
 
 ### Follow-up
-- Cystoscopy and cytology 3-monthly for 2 years, 6-monthly to 5 years, then yearly; upper tracts yearly.
+- Cystoscopy and cytology 3-monthly for 2 years, then 6-monthly, then yearly; upper tracts yearly.
 
 **Diagram to draw:** bladder wall layers with Ta, T1 and T2.
 
@@ -233,8 +232,8 @@ HG T1 → re-TURBT
 *Assumed context: preservation of the kidney for transplantation.*
 
 ### Principles
-- **Hypothermia (4 °C)** slows metabolism to roughly a tenth. It does not stop it, so injury still accumulates with time.
-- Ischaemia causes ATP (adenosine triphosphate) depletion, Na⁺/K⁺-ATPase failure, **cell swelling**, anaerobic glycolysis with **acidosis**, and calcium influx. At reperfusion, hypoxanthine is converted by xanthine oxidase to **free radicals** (ischaemia–reperfusion injury). Clinically this appears as **DGF (delayed graft function)**.
+- **Hypothermia (4 °C)** slows metabolism to roughly a tenth but does not stop it, so injury accumulates with time.
+- Ischaemia causes ATP (adenosine triphosphate) depletion, Na⁺/K⁺ pump failure, **cell swelling**, **acidosis** and calcium influx. At reperfusion, hypoxanthine is converted by xanthine oxidase to **free radicals** (ischaemia–reperfusion injury). Clinically this appears as **DGF (delayed graft function)**.
 - A solution therefore needs:
   - **Impermeants** (lactobionate, raffinose, mannitol, glucose) to prevent cell swelling.
   - **Buffers** (phosphate, histidine) against acidosis.
@@ -245,17 +244,17 @@ HG T1 → re-TURBT
 ### Solutions
 | Solution | Type and key components | Points |
 |---|---|---|
-| **UW (University of Wisconsin, Belzer)** | Intracellular; lactobionate, raffinose, hydroxyethyl starch, glutathione, adenosine, allopurinol | Gold standard for static storage; viscous; high K⁺ needs flushing before reperfusion |
-| **HTK (histidine–tryptophan–ketoglutarate, Custodiol)** | Low K⁺; histidine buffer, tryptophan (membrane stabiliser), ketoglutarate (substrate), mannitol | Low viscosity, fast cooling; needs a large volume; similar outcomes to UW |
-| Euro-Collins | Intracellular; glucose impermeant, phosphate | First-generation; inferior for long storage; largely abandoned |
-| Celsior | Extracellular; lactobionate, mannitol, glutathione, histidine | Designed for heart; used for abdominal organs |
+| **UW (University of Wisconsin, Belzer)** | Intracellular; lactobionate, raffinose, hydroxyethyl starch, glutathione, adenosine, allopurinol | Standard for static storage; viscous; flush out high K⁺ before reperfusion |
+| **HTK (histidine–tryptophan–ketoglutarate, Custodiol)** | Low K⁺; histidine buffer, tryptophan (membrane stabiliser), ketoglutarate (substrate), mannitol | Low viscosity, fast cooling; large volume; outcomes similar to UW |
+| Euro-Collins | Intracellular; glucose impermeant, phosphate | First generation; largely abandoned |
+| Celsior | Extracellular; lactobionate, mannitol, glutathione, histidine | Designed for heart; also abdominal organs |
 | IGL-1 (Institut Georges Lopez) | UW-like, but polyethylene glycol and reversed Na⁺/K⁺ | Extracellular; less viscous |
-- **Also know:** Marshall hypertonic citrate (UK); cold lactated Ringer for living donation when cold ischaemia is very short.
+- **Also know:** Marshall hypertonic citrate; cold lactated Ringer in living donation (very short cold ischaemia).
 
 ### Methods
-- **Static cold storage:** in situ aortic flush with cold solution, IVC (inferior vena cava) venting, ice slush; kidney stored at 4 °C. Aim cold ischaemia <24 hours (thrombosis and DGF rise beyond).
+- **Static cold storage:** in situ aortic flush, IVC (inferior vena cava) venting, ice slush; storage at 4 °C. Aim cold ischaemia <24 hours (thrombosis and DGF rise beyond).
 - **Hypothermic machine perfusion:** pulsatile cold perfusion; flow and resistance help assess viability. Reduces DGF; **Moers (2009)**: DGF 20.8% vs 26.5%, 1-year graft survival 94% vs 90%. The chapter notes no difference in long-term survival. Used especially for DCD (donation after circulatory death) kidneys.
-- **Normothermic perfusion:** warm oxygenated perfusate allows assessment and repair; limited clinical experience.
+- **Normothermic perfusion:** allows assessment and repair; limited experience.
 
 **Diagram to draw:** ischaemia–reperfusion cascade with the solution component that blocks each step.
 
@@ -302,7 +301,7 @@ HG T1 → re-TURBT
 - Steroid cover if bilateral adrenalectomy.
 
 ### Postoperative
-- HDU (high dependency unit): BP, heart rate, glucose; metanephrines after surgery, then yearly for life (recurrence up to 16%).
+- HDU (high dependency unit): blood pressure, heart rate, glucose; metanephrines after surgery, then yearly for life (recurrence up to 16%).
 
 **Diagram to draw:** intraoperative BP curve: surges during handling, fall after vein ligation, with drugs marked.
 
@@ -381,7 +380,7 @@ HG T1 → re-TURBT
 - Asymptomatic (silent obstruction), colic, nausea; fever and sepsis if infected; anuria and AKI (acute kidney injury) in a solitary kidney. Most lie in the distal ureter.
 
 ### Evaluation
-- KUB X-ray, ultrasound for hydronephrosis, or non-contrast CT; creatinine, urine culture, blood counts.
+- KUB (kidney, ureter, bladder) X-ray, ultrasound, or non-contrast CT (computed tomography); creatinine, urine culture, blood counts.
 
 ### Management
 ```
@@ -426,7 +425,7 @@ Steinstrasse
 - Mostly incidental. Large tumours bleed: **Wunderlich syndrome** (spontaneous retroperitoneal haemorrhage; Lenk triad: flank pain, mass, shock). CKD (chronic kidney disease) in TSC.
 
 ### Diagnosis
-- **CT (computed tomography): macroscopic fat (below about −15 to −20 HU) on non-contrast images is diagnostic.**
+- **CT (computed tomography): macroscopic fat (below about −15 to −20 HU [Hounsfield units]) on non-contrast images is diagnostic.**
 - US (ultrasound) hyperechoic (so are some RCCs); MRI (magnetic resonance imaging): signal loss on fat suppression, India-ink artefact.
 - Fat-poor lesion → MRI ± biopsy (HMB-45 [human melanoma black-45], Melan-A, smooth muscle actin positive).
 - **Aneurysm ≥5 mm** on CT angiography predicts bleeding.
