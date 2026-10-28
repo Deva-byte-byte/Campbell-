@@ -186,15 +186,15 @@ Metastatic RCC -> biopsy + IMDC risk
 (related: cryotherapy for carcinoma prostate, 2015-Summer Paper 4, Q3f)
 
 ### Principle
-- Cryosurgery destroys tissue by extreme cold. **Argon** expanding in the probe tip cools by the **Joule–Thomson effect** (probe about −160 °C); **helium** expanding warms (active thaw).
-- Used for small renal masses and prostate cancer (whole-gland, salvage, focal).
+- Tissue destruction by extreme cold. **Argon** expanding in the probe tip cools by the **Joule–Thomson effect**; **helium** expanding warms (active thaw).
+- Used for small renal masses and prostate cancer.
 
 ### Mechanisms of cell death
 Tissue dies during **both freezing and thawing**, by four mechanisms:
 
 | Mechanism | What happens |
 |---|---|
-| **1. Direct cell injury** | *Freeze:* extracellular water freezes first, making it hyperosmolar; water leaves cells, causing dehydration and membrane damage. Rapid cooling forms **intracellular ice**, which ruptures organelles and membranes. *Thaw:* ice melts, water rushes back into cells and they swell and burst; small ice crystals recrystallise into larger, more damaging ones |
+| **1. Direct cell injury** | *Freeze:* extracellular water freezes first and becomes hyperosmolar; cells dehydrate and membranes distort. Rapid cooling forms **intracellular ice**, which ruptures organelles. *Thaw:* water rushes back, cells swell and burst; ice recrystallises into larger crystals |
 | **2. Vascular injury** | Endothelial damage, platelet activation and **thrombosis** cause ischaemic necrosis; the main delayed killing effect |
 | **3. Apoptosis** | Sublethal cold at the periphery triggers programmed cell death |
 | **4. Immunomodulation** | Necrotic cells release antigens and DAMPs (damage-associated molecular patterns); dendritic cells activate T cells against tumour |
@@ -212,8 +212,8 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 - So the ice ball must extend **5–10 mm beyond the tumour**.
 
 ### Clinical relevance
-- Real-time imaging (ultrasound, CT) shows the ice ball; thermocouples and a **urethral warmer** protect sphincter and urethra in prostate cryotherapy.
-- **Also know:** passive versus active thaw (both used); possible abscopal immune effect; insulated probe shafts reduce skin injury.
+- Real-time imaging shows the ice ball; thermocouples and a **urethral warmer** protect sphincter and urethra in prostate cryotherapy.
+- **Also know:** passive versus active thaw (both used); insulated probe shafts reduce skin injury.
 
 **Diagram to draw:** ice ball with probe, −40 °C isotherm inside the 0 °C edge and tumour margin.
 
@@ -230,7 +230,7 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 ### Pharmacology
 - MMC (mitomycin C) is an antitumour antibiotic from *Streptomyces caespitosus*.
 - **Mechanism:** after reductive activation in the cell it acts as an **alkylating agent**, cross-linking DNA and stopping DNA synthesis; cell-cycle non-specific.
-- High molecular weight (334 Da), so **little systemic absorption** from the bladder.
+- Molecular weight 334 Da: **little systemic absorption** from the bladder.
 
 ### Uses in NMIBC (non-muscle-invasive bladder cancer)
 1. **Single immediate post-TURBT (transurethral resection of bladder tumour) instillation:** 40 mg. Given **within 6 hours** it reduces recurrence; at 24 hours it does not, because it works by preventing implantation of floating cells. Best for a solitary low-grade papillary tumour. Avoid if perforation or extensive resection is suspected.
@@ -246,7 +246,7 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 
 ### Side effects
 - Chemical cystitis (30–40%); **skin rash and palmar or genital dermatitis** (signature toxicity; wash hands and genitals after voiding); contracted bladder (about 5%); encrustation cystitis; myelosuppression rare.
-- Extravasation through a perforation can cause pelvic necrosis. Defer in pregnancy.
+- Extravasation through a perforation can cause pelvic necrosis.
 
 **Diagram to draw:** timeline: TURBT, single MMC within 6 hours, then weekly induction ×6.
 
@@ -263,11 +263,11 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 *Assumed meaning: the Transplantation of Human Organs Act (THOA) 1994 of India, its 2011 amendment and the 2014 Rules.*
 
 ### THOA 1994: aims
-- THOA (Transplantation of Human Organs Act) regulates removal, storage and transplantation of human organs for therapeutic purposes and **prevents commercial dealing in organs**.
+- Regulates removal, storage and transplantation of organs for therapeutic purposes and **prevents commercial dealing**.
 - **Recognised brain-stem death as legal death**, allowing deceased donation. Health is a state subject, so states adopt the Act.
 
 ### Main provisions (1994)
-- **Living donors:** **near relatives** (spouse, parents, children, siblings) can donate after verification. Others donating "by reason of affection or attachment" need approval of the **Authorisation Committee**.
+- **Living donors:** **near relatives** (spouse, parents, children, siblings) after verification. Others, donating "by reason of affection or attachment", need **Authorisation Committee** approval.
 - **Appropriate Authority:** registers and inspects hospitals; only registered centres may retrieve or transplant.
 - **Brain-stem death certification by a Board of four:** doctor in charge of the hospital; an independent specialist from an approved panel; a neurologist or neurosurgeon; the treating doctor. **None from the transplant team.** Two sets of tests, at least 6 hours apart.
 - **Payment for organs is an offence**, with imprisonment and fine.
@@ -277,24 +277,19 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 | Change | Purpose |
 |---|---|
 | **Tissues** included | Regulates tissue banks |
-| **Grandparents and grandchildren** added as near relatives | Wider related donor pool |
-| **Swap (paired) donation** legalised between near-relative pairs | Overcomes ABO or crossmatch incompatibility |
-| Brain-death Board: if no neurologist or neurosurgeon, a nominated surgeon, physician, anaesthetist or intensivist | Practical in smaller hospitals |
-| **Mandatory transplant coordinator** in registered hospitals | Organises donation |
-| **Required request:** ICU (intensive care unit) staff must ask families of brain-dead patients about donation | More deceased donors |
-| National network and registry (now NOTTO [National Organ and Tissue Transplant Organisation]) | Fair allocation and data |
-| **Higher penalties** (imprisonment up to 10 years; fines up to ₹1 crore for organ trade) | Deterrence |
-| Extra protection for minors, mentally challenged and foreign donors | Prevents exploitation |
+| **Grandparents and grandchildren** become near relatives | Wider related donor pool |
+| **Swap (paired) donation** between near-relative pairs | Overcomes ABO or crossmatch incompatibility |
+| Board: if no neurologist or neurosurgeon, a nominated surgeon, physician, anaesthetist or intensivist | Practical in smaller hospitals |
+| **Mandatory transplant coordinator** | Organises donation |
+| **Required request:** ICU (intensive care unit) staff ask families of brain-dead patients about donation | More deceased donors |
+| National network and registry (NOTTO [National Organ and Tissue Transplant Organisation]) | Fair allocation |
+| **Higher penalties** for organ trade (up to 10 years' imprisonment; fine up to ₹1 crore) | Deterrence |
+| Safeguards for minors, mentally ill and foreign donors | Prevents exploitation |
 
 ### Rules 2014 (THOT Rules)
-- Standard forms for consent and certification (**Form 10** for brain-stem death).
-- Authorisation Committee procedures, including hospital-based committees at high-volume centres; interview of donor and recipient; checks against coercion.
-- Brain-stem death tests set out: six brainstem reflexes and apnoea test.
-- Corneal retrieval by trained technicians.
-
-### Later developments
-- NOTTO with ROTTOs (regional) and SOTTOs (state organisations).
-- 2023 national guidelines removed the domicile requirement and upper age limit for deceased-donor waiting lists.
+- Standard forms for consent and certification (**Form 10** for brain-stem death); brainstem reflexes and apnoea test set out.
+- Authorisation Committee procedures (hospital-based at high-volume centres); donor and recipient interviewed to exclude coercion or payment.
+- **Also know:** NOTTO with regional (ROTTO) and state (SOTTO) networks; 2023 guidelines removed the domicile rule and upper age limit for deceased-donor listing.
 
 **Diagram to draw:** flowchart: brain-dead patient, Board of four (two tests 6 hours apart), family consent, NOTTO/SOTTO allocation.
 
@@ -383,13 +378,13 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 
 ### Indications (AUA [American Urological Association] and EAU [European Association of Urology])
 - Ureteric stone **<10 mm**, especially distal, when immediate intervention is not needed.
-- **After SWL (shock wave lithotripsy)** to clear fragments; also after ureteroscopy for stent symptoms. Children: off-label but effective.
+- **After SWL (shock wave lithotripsy)** to clear fragments. Children: off-label but effective.
 
 ### Contraindications (drain urgently instead)
 - Obstruction with infection or sepsis, solitary or bilateral obstruction, renal impairment, refractory pain or vomiting.
 
 ### Protocol
-- NSAID analgesia; counsel about off-label use, dizziness, hypotension and retrograde ejaculation.
+- NSAID analgesia; counsel on off-label use, dizziness and retrograde ejaculation.
 - KUB (kidney–ureter–bladder radiograph) or ultrasound follow-up; **intervene after 4–6 weeks** if not passed.
 
 **Diagram to draw:** ureter with α1 receptors concentrated distally and a stone above the vesicoureteric junction.
@@ -405,8 +400,6 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 **Type:** SAQ (10 marks)
 (also answered in 2021-Summer Paper 2, Q3a)
 
-*Assumed meaning: incontinence after radical prostatectomy (post-prostatectomy incontinence).*
-
 ### Definition and incidence
 - PPI (post-prostatectomy incontinence) is mainly **SUI (stress urinary incontinence)** after RP (radical prostatectomy), the commonest cause of male SUI.
 - Rates vary with definition and reporting; continence improves for up to 2 years.
@@ -417,7 +410,7 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 - Nerve sparing and posterior reconstruction give **earlier, not better final** continence.
 
 ### Evaluation
-- History (severity, radiotherapy, cancer control), bladder diary.
+- History (severity, radiotherapy), bladder diary.
 - **24-hour pad weight:** mild <150 g, moderate <400 g, severe more (thresholds vary).
 - **Standing cough test** grades 0–4: leak reported but not seen; delayed drops; early drops; delayed stream; early persistent stream.
 - Urinalysis, creatinine, PSA (prostate-specific antigen). **Cystoscopy** excludes VUAS and shows sphincter coaptation; urodynamics if mixed symptoms.

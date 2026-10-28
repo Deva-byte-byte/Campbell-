@@ -20,7 +20,7 @@
 ### Introduction
 - Screening tests healthy, symptom-free men; its aim is lower prostate cancer mortality through earlier treatment.
 - PSA (prostate-specific antigen) is a kallikrein (hK3) made by prostatic epithelium. It reaches blood when glandular architecture is disrupted. It is **organ-specific, not cancer-specific**.
-- Since PSA testing began (early 1990s), mortality has fallen by >40% and advanced disease at diagnosis by about 75% (SEER data). The benefit is real but comes at the price of overdiagnosis.
+- Since PSA testing began, mortality has fallen by >40% (SEER data), but at the price of overdiagnosis.
 
 ### Evidence from screening trials
 | Trial | Design | Result |
@@ -29,7 +29,7 @@
 | **PLCO** (Prostate, Lung, Colorectal and Ovarian), USA | Annual PSA vs usual care | **No difference** at 17 years: control arm heavily PSA-tested (contamination), lower power |
 | **Göteborg-1** (Sweden) | Biennial PSA, men 50–64 | 44% fall in cancer death at 14 years |
 | **CAP** (Cluster randomised trial of PSA testing for prostate cancer), UK | Single PSA invitation | No mortality difference at 10 years; only a small fall at 15 years |
-- Correcting ERSPC for non-attendance and contamination raises the benefit to 27–31%. The benefit appears only after about 10 years and plateaus.
+- Corrected for non-attendance and contamination, ERSPC benefit is 27–31%; it appears only after about 10 years.
 
 ### Problems in PSA screening
 
@@ -47,13 +47,13 @@
 
 **4. Overdiagnosis** (the central problem)
 - Detection of cancers that would never have caused symptoms or death. Autopsy prevalence is high: 29% at 60–69 years and 59% after 79.
-- Mostly Grade Group 1 cancers. In ERSPC, 18 extra diagnoses were needed to prevent one death.
+- Mostly Grade Group 1 cancers.
 
 **5. Overtreatment**
-- Overdiagnosed men treated radically suffer ED (erectile dysfunction), incontinence and bowel toxicity for no gain. Most concerning above 65 years (mean age at diagnosis about 66).
+- Overdiagnosed men treated radically suffer ED (erectile dysfunction), incontinence and bowel toxicity for no gain, especially above 65 years.
 
 **6. Harms of biopsy**
-- Pain, haematuria, haematospermia, retention and infection, including sepsis after transrectal biopsy; anxiety from negative or repeat biopsies.
+- Pain, haematuria, haematospermia, retention and sepsis (transrectal route); anxiety from repeat biopsies.
 
 **7. Modest and delayed benefit**
 - Screening prevents only 20–30% of cancer deaths; no overall survival benefit has been shown. Men with life expectancy <10 years cannot benefit.
@@ -65,7 +65,7 @@
 
 **9. Unsettled policy**
 - Start age, stop age, interval and threshold are all debated; further large randomised trials are unlikely.
-- Opportunistic (unorganised) screening is common, inequitable and over-screens the elderly.
+- Opportunistic screening is common and inequitable.
 
 ### Guideline positions
 | Body | Recommendation |
@@ -93,7 +93,7 @@ Informed man, life expectancy >10–15 y
 - **PRECISION (2018):** MRI-targeted pathway found more significant cancer (38% vs 26%) and less insignificant cancer; 28% avoided biopsy.
 - **Göteborg-2 (2022):** MRI with targeted biopsy in screening roughly halved overdiagnosis.
 - **Active surveillance** of low-risk disease uncouples overdiagnosis from overtreatment.
-- **Also know:** germline testing (BRCA2, ATM, HOXB13) for targeted screening; polygenic risk scores; STHLM3-MRI; transperineal biopsy lowers sepsis.
+- **Also know:** germline testing (BRCA2, ATM, HOXB13); polygenic risk scores; transperineal biopsy lowers sepsis.
 
 **Diagram to draw:** iceberg of latent vs clinically significant cancer, plus the MRI-first flowchart.
 
@@ -112,7 +112,7 @@ Informed man, life expectancy >10–15 y
 *Assumed meaning: GI = gastrointestinal (bowel) reconstruction, i.e. antegrade continence enema channels.*
 
 ### Introduction
-- A continent diversion stores urine in a bowel reservoir and empties it at will: by voiding through the urethra (**orthotopic neobladder**) or by CIC (clean intermittent catheterisation) of a stoma (**continent cutaneous**).
+- A continent diversion empties at will: by voiding through the urethra (**orthotopic neobladder**) or by CIC (clean intermittent catheterisation) of a stoma (**continent cutaneous**).
 - **Continence is a pressure balance:** reservoir pressure must stay below outlet resistance. Failure of either side causes leakage.
 
 ### Principles of continence
@@ -121,7 +121,7 @@ Informed man, life expectancy >10–15 y
 - **Detubularisation** (opening bowel on its antimesenteric border) and cross-folding break up coordinated peristaltic contractions.
 - **Spherical shape:** greatest volume for a given surface area. By **Laplace's law** (P = 2T/R), a larger radius gives lower pressure for the same wall tension.
 - **Capacity ≥500 mL** when mature. Bowel stretches with time (ileum more than colon); 44 cm ileum holds <200 mL at first and 500–600 mL within a year.
-- Ileum is the most compliant; colon has pressure waves, so more night leakage.
+- Ileum is most compliant; colon has pressure waves.
 
 **B. Reliable outlet**
 - **Orthotopic:** intact **rhabdosphincter** (pudendal nerve), healthy urethra, careful apical dissection, nerve sparing. Voiding is by Valsalva and pelvic floor relaxation. Night leakage (20–50%) reflects loss of the guarding reflex.
@@ -132,10 +132,10 @@ Informed man, life expectancy >10–15 y
 | **Nipple valve** (intussuscepted) | Kock, Mainz I | Reservoir pressure compresses the intussuscepted segment | Same pressure effaces it; failure ≥15%, reoperation about one-third |
 | **Flap valve** | **Mitrofanoff**, Yang–Monti, Kropp | Narrow tube in a submucosal tunnel is coapted as pressure rises | No pop-off; stomal stenosis |
 | **Imbricated ileocaecal valve + tapered ileum** | Indiana pouch | Continence zone lies at the plicated valve | Bowel frequency, B12 loss |
-- Native bladder outlet procedures: bladder neck reconstruction (Kropp, Pippi Salle), slings, AUS (artificial urinary sphincter), bulking agents, bladder neck closure.
+- **Also know** (native outlet): Kropp, Pippi Salle, slings, AUS (artificial urinary sphincter), bulking, bladder neck closure.
 
 **C. Protect the upper tracts**
-- Unobstructed ureterointestinal anastomosis; adequate renal function (eGFR [estimated glomerular filtration rate] about ≥35–40 mL/min) for the reabsorbed acid load; ability and commitment to self-catheterise.
+- Unobstructed ureterointestinal anastomosis; eGFR (estimated glomerular filtration rate) about ≥35–40 mL/min for the acid load; ability to self-catheterise.
 
 ### The Mitrofanoff principle
 - **Mitrofanoff (1980):** any supple, narrow tube implanted in a **submucosal tunnel** of a low-pressure reservoir, with its other end at skin, gives a **continent catheterisable channel**.
@@ -154,24 +154,24 @@ Informed man, life expectancy >10–15 y
 **Technique (appendicovesicostomy)**
 1. Mobilise caecum; detach appendix with a caecal cuff, preserving mesoappendix.
 2. Spatulate tip; tunnel submucosally (posterolateral or anterior bladder wall), intra- or extravesically.
-3. Bring the base to the umbilicus or right iliac fossa through skin flaps, without tension or twist; keep the channel short and straight; fix the bladder to the abdominal wall.
+3. Bring the base to the umbilicus or right iliac fossa with skin flaps, without tension or twist; keep it short and straight; fix the bladder to the abdominal wall.
 4. Catheterise after each step. Channel catheter 2–4 weeks; then CIC every 4 hours by day.
 
 ### Applications in urinary reconstruction
 - **Neurogenic bladder** (spina bifida, spinal injury), often with augmentation, when urethral CIC is difficult (wheelchair-bound, sensate urethra).
-- After **bladder neck reconstruction or closure**; exstrophy; valve bladder; prune-belly.
+- After bladder neck reconstruction or closure; exstrophy; valve bladder.
 - **Continent cutaneous diversion** after cystectomy: Penn and right colon pouch (appendix in taenia; up to 100% continence); Yang–Monti if no appendix.
 - Unusable urethra: complex stricture, urethrectomy.
 
 ### Applications in GI reconstruction: MACE
 - **MACE (Malone antegrade continence enema; Malone, 1990):** appendix brought to skin as an appendicocaecostomy with an antireflux tunnel (flap valve) so stool does not leak.
-- Daily antegrade washouts empty the colon, giving **faecal continence** in neurogenic bowel (spina bifida), anorectal malformations, cloaca and refractory constipation.
+- Antegrade washouts empty the colon, giving **faecal continence** in neurogenic bowel (spina bifida), anorectal malformations, cloaca and refractory constipation.
 - Options: Monti-MACE; **split appendix** for both MACE and urinary channel; caecostomy button.
 
 ### Results and complications
 - **Continence >95%** for flap valves; nipple valves about 85%.
 - **Stomal stenosis is the commonest problem**; also false passage, channel polyps or granulation, pouch stones, revision (suprafascial or subfascial).
-- Missed CIC: no pop-off, so **reservoir rupture** or upper tract damage. Patients wear an alert bracelet.
+- Missed CIC: no pop-off, so **reservoir rupture** or upper tract damage.
 
 **Diagram to draw:** flap valve (tunnelled appendix collapsing as pressure rises) beside a nipple valve.
 
@@ -192,14 +192,12 @@ Informed man, life expectancy >10–15 y
 ### Principles
 - **Donor safety first**; the medical work-up equals that of a related donor.
 - The extra step is **legal and ethical**: proof of genuine, unpaid motive.
-- Multidisciplinary team with an **independent donor advocate**.
 
 ### Legal assessment (THOA: Transplantation of Human Organs Act 1994, amended 2011; Rules 2014)
 - Donor "other than near relative" donates for **affection or attachment**: **Authorisation Committee approval is mandatory**.
 - Committee: hospital-based if >25 transplants a year, otherwise district or state; members are not from the transplant team.
-- Process: joint application; **video-recorded interview** of donor, recipient and families; verify identity, documents, financial status and long association; exclude middlemen and payment; confirm free, informed consent.
-- Foreign recipient with unrelated Indian donor is not approved; appeal within 30 days.
-- **Swap (paired) donation** is an alternative for incompatible related pairs.
+- Process: joint application; **video-recorded interview** of donor and recipient; verify identity, documents, financial status and long association; exclude middlemen and payment; confirm free, informed consent.
+- Foreign recipient with unrelated Indian donor not approved; appeal within 30 days.
 
 ### Medical assessment
 1. **Immunological:** ABO group, HLA (human leukocyte antigen) typing, crossmatch, DSA (donor-specific antibody). More HLA mismatch is expected, yet living unrelated grafts outperform deceased-donor grafts.
@@ -209,7 +207,7 @@ Informed man, life expectancy >10–15 y
 5. **Cardiopulmonary** and age-appropriate **cancer screening**.
 6. **Urological:** stones (bilateral exclude), haematuria, malignancy, recurrent UTI (urinary tract infection).
 7. **Anatomy:** CT (computed tomography) angiography for vessels; split function if asymmetric; the better kidney stays with the donor.
-8. **Psychosocial:** coercion, understanding of risk.
+8. **Psychosocial** evaluation; independent donor advocate.
 
 ### Counselling
 - Function settles at 60–80% of baseline; mortality 3 per 10,000; lifetime ESRD (end-stage renal disease) 90 vs 14 per 10,000 (Muzaale 2014).
@@ -291,7 +289,7 @@ Informed man, life expectancy >10–15 y
 | **Phaeochromocytoma** | 10–25% |
 | Pancreatic cysts / neuroendocrine tumours | 45–75% / 11–17% |
 | Epididymal cystadenoma | 25–60% of men |
-- Also endolymphatic sac tumour, broad ligament cystadenoma.
+- Also endolymphatic sac tumour.
 - **RCC is now the commonest cause of death.**
 
 ### Genotype–phenotype
@@ -303,7 +301,7 @@ Informed man, life expectancy >10–15 y
 | 2C | Phaeochromocytoma only | Absent |
 
 ### Diagnosis
-- Family history plus one lesion; without family history, ≥2 haemangioblastomas or 1 plus a visceral lesion. **Germline genetic testing** of relatives.
+- Family history plus one lesion; otherwise ≥2 haemangioblastomas, or 1 plus a visceral lesion. Genetic testing of relatives.
 
 ### Surveillance (VHL Alliance 2020)
 - Eye examination from infancy; metanephrines yearly from 5; brain and spine MRI every 2 years from 11; **abdominal MRI every 2 years from 15**.

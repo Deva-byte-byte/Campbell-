@@ -262,11 +262,11 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 | **Denys-Drash** (46,XY DSD (disorder of sex development), mesangial sclerosis; WT1 point mutation) | 50% |
 | **BWS (Beckwith-Wiedemann syndrome)**, hemihypertrophy (11p15) | 5–10% |
 
-- **Screening:** ultrasound every 3–4 months until 7 years when risk >1%.
+- **Screening:** ultrasound 3–4-monthly to age 7 if risk >1%.
 - **Nephrogenic rests** (precursors): over 90% of bilateral cases.
 
 ### Pathology
-- **Triphasic:** blastema, epithelium (tubules), stroma; pseudocapsule.
+- **Triphasic:** blastema, epithelium, stroma.
 - **Anaplasia** (nuclei ≥3× larger, hyperchromasia, abnormal mitoses): unfavourable, chemoresistant; diffuse worse than focal.
 
 ### Clinical features
@@ -299,7 +299,7 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 - **Bilateral (stage V):** three-drug chemotherapy, then **NSS (nephron-sparing surgery) by week 12**.
 
 ### Prognosis
-- Favourable histology: survival >90%. Late effects: cardiotoxicity, second cancers, infertility.
+- Favourable histology: survival >90%; late effects (cardiotoxicity, second cancers).
 
 **Diagram to draw:** COG staging showing capsule, renal sinus and nodes.
 
@@ -499,10 +499,10 @@ Chronic irritation (infection, stones, catheter, outlet obstruction)
 - Plasma oxalate when GFR is low; screen siblings and related living donors.
 
 ### Management
-- **Hyperhydration** (about 3 L/m²/day), **potassium citrate**, normal (not low) calcium intake.
+- **Hyperhydration** (about 3 L/m²/day), **potassium citrate**, normal calcium intake.
 - **Pyridoxine** trial in all PH1: responsive mainly with the Gly170Arg mutation; it restores AGT activity and peroxisomal targeting.
 - **Lumasiran** (RNA interference against glycolate oxidase, which cuts glyoxylate supply): **ILLUMINATE-A**: 84% vs 0% reached urinary oxalate ≤1.5 × upper limit of normal. **Also know:** nedosiran.
-- Stones: endourology (ureteroscopy or PCNL (percutaneous nephrolithotomy)); avoid repeated SWL (shock wave lithotripsy) on a nephrocalcinotic kidney.
+- Stones: ureteroscopy or PCNL (percutaneous nephrolithotomy); limit SWL (shock wave lithotripsy).
 - **ESKD:** intensive dialysis, then **combined liver–kidney transplant for PH1** (only the liver replaces the enzyme; a lone kidney would be re-damaged). Kidney alone usually suffices for PH2.
 
 **Diagram to draw:** hepatic glyoxylate pathway showing the AGT block (PH1) and the lumasiran target (glycolate oxidase).

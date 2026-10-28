@@ -34,8 +34,8 @@
 1. Blunt trauma with gross haematuria, or microhaematuria with SBP <90 mmHg at any time.
 2. Rapid deceleration, even without haematuria.
 3. Penetrating trauma with likely renal injury, any haematuria.
-4. Children: image liberally, because they stay normotensive until about half the blood volume is lost.
-- Microhaematuria without shock or deceleration: observe without imaging.
+4. Children: image liberally (hypotension appears late).
+- Microhaematuria alone without shock: observe.
 
 **Imaging**
 - **Contrast-enhanced CT (computed tomography) is the gold standard.** The arterial or nephrographic phase (~80 s) shows bleeding; the **delayed excretory phase (5–10 min)** shows urinary extravasation.
@@ -97,7 +97,7 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 ### Complications and follow-up
 - **Delayed bleeding** (usually within 21 days): AE. Urinoma or abscess: stent, nephrostomy, drain.
 - **Hypertension**: Goldblatt (arterial stenosis), **Page kidney** (haematoma compression), AVF.
-- **Also know:** AKI (acute kidney injury); hydronephrosis; renocutaneous fistula.
+- **Also know:** AKI (acute kidney injury); hydronephrosis.
 - Follow-up: blood pressure, urinalysis, creatinine; EAU: DMSA (dimercaptosuccinic acid) scan for salvaged grade III–V kidneys.
 
 **Diagram to draw:** left renal vein crossing the aorta, with vessel loops on the vein and artery.
@@ -259,10 +259,10 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 | **TUR syndrome** (hypo-osmolar fluid absorbed, dilutional hyponatraemia) | **Bipolar TURP with saline**; else irrigant ≤60 cm high, resection <90 min, avoid capsular perforation, check sodium in long resections |
 | **Bleeding** | Systematic resection to capsule; control arterial bleeders as you go; bipolar "cut and seal"; catheter traction for venous ooze |
 | **Ureteric orifice injury** | Identify orifices first; take a large median lobe down first |
-| **Perforation** | Respect the capsule (fat = perforation); keep some fluid in the bladder when resecting anteriorly |
+| **Perforation** | Respect the capsule; visible fat means perforation |
 | **Incontinence** | **Stop at the verumontanum**; resect apex last in a bloodless field |
 | **Stricture** | Calibrate or dilate meatus, lubricate generously, correct sheath size |
-| **Bladder neck contracture** | Avoid over-resection and excess fulguration of a small bladder neck; consider TUIP (transurethral incision of the prostate) for small glands |
+| **Bladder neck contracture** | Avoid over-resection and excess fulguration; TUIP (transurethral incision of the prostate) for small glands |
 
 ### Postoperative measures
 - Large-bore three-way catheter; careful **continuous bladder irrigation** (blocked outflow distends the bladder and worsens bleeding).
@@ -440,7 +440,7 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 | **Transplant coordinator** | Mandatory in every registered transplant hospital |
 | **Mandatory ("required") request** | ICU doctor must ask relatives of a potential brain-dead donor about donation and inform the retrieval centre |
 | **Brain-death board** | If a neurologist or neurosurgeon is unavailable, a surgeon, physician, anaesthetist or intensivist nominated by the hospital can serve |
-| **Eye donation** | A trained technician may remove the cornea |
+| **Eye donation** | Trained technicians may remove corneas |
 | **Registry and network** | National human organ and tissue removal and storage network and **national registry** of donors and recipients (now run by NOTTO, the National Organ and Tissue Transplant Organisation) |
 | **Penalties** | Raised (see below) |
 
@@ -450,7 +450,7 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 - Registered medical practitioner: name removed from the register for **3 years** for a first offence and **permanently** for a later offence.
 
 ### Safeguards retained
-- Unrelated donors ("affection or attachment") and foreigners need **Authorisation Committee** approval.
+- Unrelated donors and foreigners need **Authorisation Committee** approval.
 - Minors and mentally ill persons cannot be living donors except in exceptional, approved cases.
 
 **Diagram to draw:** flowchart: potential donor in ICU → required request → transplant coordinator → brain-stem death board → retrieval → national registry and allocation.

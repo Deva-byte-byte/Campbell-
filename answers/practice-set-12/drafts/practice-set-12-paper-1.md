@@ -301,7 +301,8 @@ Drain (stents or nephrostomy) → stop drug, exclude cancer
 
 ### Complications and outcomes
 - **Stenosis of the urethrostomy** (main failure): revision or dilation.
-- Spraying, dribbling, perineal wetness, wound infection, body-image concerns; a few men later choose redo reconstruction.
+- Spraying, dribbling, perineal wetness, wound infection, body-image concerns.
+- Compared with staged reconstruction it is a shorter, single operation with less morbidity.
 - High mid-term success and satisfaction in selected patients.
 
 **Diagram to draw:** sagittal perineum with the inverted-U flap sutured into the opened bulbar urethra.
@@ -323,13 +324,13 @@ Drain (stents or nephrostomy) → stop drug, exclude cancer
 - Cause: loss of **DeLancey support** (level I uterosacral–cardinal apex; II paravaginal to the ATFP [arcus tendineus fasciae pelvis]; III perineal body) and levator ani injury. Risks: vaginal delivery, parity, age, obesity.
 
 ### Clinical presentation
-- **Vaginal bulge** (most specific), pressure, heaviness; worse late in the day.
+- **Vaginal bulge** (most specific), pressure, heaviness, worse by evening.
 - **Splinting/digitation** to void or defecate (high-grade POP).
 - Urinary: voiding difficulty (urethral kinking), OAB (overactive bladder); SUI (stress urinary incontinence) in ~40%, may be **occult**.
 - Bowel (rectocele): obstructed defecation, stool trapping. Sexual dysfunction, discharge, ulceration; procidentia may cause hydronephrosis.
 
 ### Diagnostic evaluation
-- Examine supine and **standing on strain**; split speculum for each compartment.
+- Examine supine and standing on strain; split speculum per compartment.
 - **POP-Q (Pelvic Organ Prolapse Quantification, 1996):** points Aa, Ba, C, D, Ap, Bp measured from the hymen (above negative), plus gh, pb, tvl.
 
 | Stage | Leading edge |
@@ -340,7 +341,7 @@ Drain (stents or nephrostomy) → stop drug, exclude cancer
 | III | > +1 cm but < (tvl − 2) cm |
 | IV | Complete eversion |
 
-- Urinalysis, PVR (post-void residual), diary; **cough test or urodynamics with prolapse reduced** for occult SUI; renal ultrasound (procidentia); dynamic MRI or translabial ultrasound for complex or recurrent cases; pessary trial confirms symptoms are from POP.
+- Urinalysis, PVR (post-void residual), diary; **cough test or urodynamics with prolapse reduced** for occult SUI; renal ultrasound (procidentia); dynamic MRI or translabial ultrasound if complex or recurrent; pessary trial confirms POP causes the symptoms.
 
 ### Surgical options
 | Type | Operations |
