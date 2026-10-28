@@ -18,7 +18,7 @@
 (also answered in 2018-Summer Paper 1, Q1 and 2024-Winter Paper 3, Q2)
 
 ### General plan of the lymphatic system
-- Nodes have many afferent lymphatics and a single efferent one. Lymph flows **cephalad and right to left** and returns to the left innominate (brachiocephalic) vein.
+- Lymph flows **cephalad and right to left** and returns to the left innominate (brachiocephalic) vein.
 - Pelvic nodes (external iliac, internal iliac, obturator, presacral) drain to common iliac nodes, then to **lumbar nodes** and the lumbar trunks. Pelvic lymph crosses freely between the two sides.
 - **Lumbar groups:** left lumbar (preaortic, left para-aortic, retroaortic), interaortocaval, and right lumbar (precaval, paracaval, retrocaval). They drain organs supplied by lateral aortic branches: kidneys, adrenals, ureters and gonads.
 - Preaortic nodes (coeliac, superior and inferior mesenteric) form the **intestinal trunk**, which carries **chyle** from the intestinal lacteals.
@@ -27,14 +27,13 @@
 ### Lymphatic drainage of the urinary tract
 | Organ | Intrinsic lymphatics | Regional nodes |
 |---|---|---|
-| **Kidney** | Superficial capsular and deep hilar networks. Vessels follow interlobular, arcuate and interlobar arteries to the hilum, joined by capsular, perinephric, pelvic and upper ureteric lymphatics, to nodes at the renal vein | **Left:** left lateral para-aortic (sometimes retrocrural, or thoracic duct above the diaphragm). **Right:** interaortocaval and right paracaval (may cross to left para-aortic) |
+| **Kidney** | Superficial capsular and deep hilar networks along the interlobular, arcuate and interlobar arteries, to nodes at the renal vein | **Left:** left lateral para-aortic (sometimes retrocrural, or thoracic duct above the diaphragm). **Right:** interaortocaval and right paracaval (may cross to left para-aortic) |
 | **Ureter** | Plexuses in the muscle and adventitia | Abdominal: left para-aortic (left); paracaval and interaortocaval (right). Middle: common iliac. Pelvic: common, external and internal iliac |
 | **Bladder** | Begins in the lamina propria; a few perivesical nodes | Mainly **external iliac**; also internal iliac and obturator; cross-drainage to both sides |
 | **Prostate** | Periprostatic plexus | Obturator and internal iliac; presacral; external iliac |
 | **Urethra** | Submucosal plexus | Male prostatic and membranous: internal iliac, obturator; penile: inguinal, then external iliac. Female: proximal to pelvic, distal to inguinal nodes |
 
-- **Applied:** kidney and upper ureteric cancers spread to lumbar nodes; bladder and prostate cancers to pelvic nodes. The node of Cloquet (femoral canal) is the distal limit of PLND (pelvic lymph node dissection).
-- Renal drainage is asymmetric: right renal lymph can cross to the left, but left renal lymph stays left.
+- **Applied:** upper tract cancers spread to lumbar nodes; bladder and prostate cancers to pelvic nodes. Renal drainage is asymmetric: right renal lymph can cross left; left stays left.
 - Valves in the renal hilar lymphatics normally stop backflow from the cisterna chyli. **Failure of these valves is the basis of chyluria.**
 
 ### Chyluria: definition
@@ -49,7 +48,7 @@
 |  | Retroperitoneal tumour or fibrosis, tuberculosis, pregnancy |
 
 ### Pathogenesis
-- **Life cycle:** the mosquito deposits infective larvae, which mature in central lymphatics. Adult worms live for years in retroperitoneal and genital lymphatics. Females release microfilariae with **nocturnal periodicity**. The worms carry *Wolbachia* endosymbionts (the target of doxycycline).
+- **Life cycle:** mosquito-borne larvae mature into adult worms that live for years in retroperitoneal and genital lymphatics. Females release microfilariae with **nocturnal periodicity**.
 - **Obstructive (reflux) theory:**
 ```
 Adult worms + host immune reaction -> lymphangitis and fibrosis
@@ -59,19 +58,18 @@ Adult worms + host immune reaction -> lymphangitis and fibrosis
  -> raised pressure ruptures thin-walled lymphatics into a calyceal fornix
  -> pyelolymphatic fistula -> chyluria
 ```
-- The kidney is the usual site because refluxing chyle reaches hilar lymphatics lying against thin calyceal fornices. Rarely the fistula is in the ureter or bladder.
+- The fistula is usually renal (hilar lymphatics lie against thin fornices); rarely ureteric or vesical.
 - Chyluria appears **earlier than genital elephantiasis**, is usually **intermittent** and may remit spontaneously. It worsens after fatty meals, when lacteal flow is highest.
 - **Non-parasitic causes** work the same way: lymphatic obstruction (tumour, fibrosis), direct disruption (surgery, trauma) or congenital lymphangiectasia.
 - **Effects:** loss of fat, protein and lymphocytes causes weight loss, hypoproteinaemia and lowered immunity. Fibrin in chyle forms clots.
 
 ### Clinical features
-- Milky urine after fatty meals; chylous clots (colic, retention); haematochyluria; weight loss, oedema.
-- **Severity:** mild (intermittent, no systemic effect); moderate (persistent, clots); severe (haematochyluria, hypoalbuminaemia, weight loss).
+- Milky urine after fatty meals; chylous clots (colic, retention); haematochyluria; weight loss, oedema. **Severity:** mild (intermittent), moderate (persistent, clots), severe (haematochyluria, hypoalbuminaemia).
 
 ### Evaluation
-- **Ether test:** milky urine shaken with ether clears because the fat dissolves. Urine triglycerides positive; Sudan III stains fat globules. Exclude phosphaturia (clears with acetic acid) and pyuria.
-- Night blood smear (often negative), filarial antigen test, eosinophilia.
-- **Cystoscopy after a fatty meal** shows milky efflux from one ureteric orifice. Retrograde pyelography shows pyelolymphatic backflow. **Lymphoscintigraphy** or MR (magnetic resonance) lymphangiography maps the fistula.
+- **Ether test:** milky urine shaken with ether clears (fat dissolves); urine triglycerides positive. Exclude phosphaturia (clears with acetic acid).
+- Night blood smear (often negative), filarial antigen test.
+- **Cystoscopy after a fatty meal** lateralises the milky efflux; retrograde pyelography or **lymphoscintigraphy** shows the fistula.
 
 ### Management (outline)
 ```

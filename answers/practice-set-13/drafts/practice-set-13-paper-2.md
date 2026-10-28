@@ -21,18 +21,18 @@
 ### Definition and rationale
 - NSS (nephron-sparing surgery) is complete removal of the tumour with **maximal preservation of functioning parenchyma**. PN (partial nephrectomy) is the standard form; thermal ablation is the non-excisional form.
 - **Why it matters:** RN (radical nephrectomy) can cause CKD (chronic kidney disease), linked to cardiovascular events and death. PN keeps about **90%** of global function (RN 65–70%) with equal cancer control for small masses.
-- **CKD from surgery alone** (one-time nephron loss) is stable and carries near-normal survival if the new GFR (glomerular filtration rate) stays >45. **CKD from medical disease** (diabetes, hypertension) keeps progressing. So NSS matters most when medical renal disease coexists.
+- **CKD from surgery alone** is stable, with near-normal survival if the new GFR (glomerular filtration rate) stays >45; **CKD from medical disease** (diabetes, hypertension) progresses. So NSS matters most when medical renal disease coexists.
 
 ### Role by clinical setting
 
 | Setting | Role of NSS |
 |---|---|
 | **cT1a (≤4 cm)** | PN is the **standard of care** when intervention is needed; RN is overtreatment |
-| cT1b–T2 | PN when feasible and function matters; with a normal contralateral kidney, PN vs RN is debatable |
+| cT1b–T2 | PN when feasible and function matters; otherwise debatable |
 | Hereditary RCC (renal cell carcinoma) | Observe until the largest tumour is **3 cm**, then enucleate (except HLRCC [hereditary leiomyomatosis and RCC]: wide excision) |
 | Bilateral tumours, solitary kidney | Imperative PN, staged if bilateral; avoids dialysis |
 | Frail, comorbid, cT1a <3 cm | Thermal ablation or active surveillance |
-| Locally advanced, venous thrombus, cN1, metastatic | Generally no role; RN or cytoreductive surgery |
+| Locally advanced, thrombus, cN1, metastatic | Generally RN or cytoreductive surgery |
 
 ### Indications
 
@@ -47,8 +47,8 @@
 
 ### Preoperative evaluation
 - Multiphase CT (computed tomography) or MRI (magnetic resonance imaging); chest imaging; eGFR (estimated GFR) and urine protein.
-- **R.E.N.A.L. nephrometry** (Radius, Exophytic/endophytic, Nearness to collecting system, Anterior/posterior, Location to polar lines): **4–6 low, 7–9 moderate, 10–12 high** complexity. It predicts complications and ischaemia time. PADUA is an alternative.
-- **Renal mass biopsy** when it changes management: about **20%** of enhancing cT1 masses are benign. Genetic counselling if age ≤46, multifocal or bilateral.
+- **R.E.N.A.L. nephrometry** (Radius, Exophytic/endophytic, Nearness to collecting system, Anterior/posterior, Location to polar lines): **4–6 low, 7–9 moderate, 10–12 high** complexity. PADUA is an alternative.
+- **Biopsy** when it changes management (about **20%** of enhancing cT1 masses are benign). Genetic counselling if age ≤46, multifocal or bilateral.
 
 ### Techniques of PN
 **Approach:** open (flank extraperitoneal), laparoscopic, or **RAPN (robot-assisted PN)**: transperitoneal for anterior and retroperitoneal for posterior tumours.
@@ -67,7 +67,7 @@
 | Advantage | Fewer positive margins | Less bleeding, maximal parenchyma |
 | Use | Default | Hereditary, multifocal, severe CKD |
 
-- **Ischaemia:** keep warm ischaemia **<25–30 minutes**. Function depends mainly on the **quantity of parenchyma preserved**. Off-clamp, selective clamping, hypothermia and mannitol show no long-term eGFR benefit with a normal contralateral kidney.
+- **Ischaemia:** warm ischaemia **<25–30 minutes**. Function depends mainly on the **parenchyma preserved**; off-clamp, selective clamping and mannitol show no long-term eGFR benefit.
 
 ### Thermal ablation
 - **Cryoablation** (double freeze–thaw) or **RFA (radiofrequency ablation)**; percutaneous preferred.
@@ -77,13 +77,13 @@
 ### Outcomes and evidence
 - **Trifecta:** negative margin + no major complication + warm ischaemia ≤25 minutes. RAPN: shorter ischaemia than laparoscopy, less blood loss than open.
 - Elective PN: local recurrence **1–2%**; imperative 3–5%.
-- **EORTC (European Organisation for Research and Treatment of Cancer) 30904 (2011):** RN vs PN for ≤5 cm tumours: PN had better function and similar oncology, but 10-year overall survival was 81% RN vs 76% PN. The trial is flawed; it suggests the functional gain in healthy patients is smaller than believed.
+- **EORTC (European Organisation for Research and Treatment of Cancer) 30904 (2011):** RN vs PN for ≤5 cm tumours: PN had better function and similar oncology; 10-year overall survival 81% RN vs 76% PN. The trial is flawed.
 
 ### Complications
 - **Urine leak** (drain, stent); **haemorrhage, pseudoaneurysm or AV (arteriovenous) fistula** (delayed haematuria: angioembolisation); acute kidney injury; temporary dialysis in a solitary kidney.
 - **Positive margin 0–7%:** surveillance, not reoperation.
 - **Hyperfiltration injury** when >50% of a solitary kidney is removed: proteinuria, FSGS (focal segmental glomerulosclerosis); give an ACE (angiotensin-converting enzyme) inhibitor.
-- **Follow-up:** risk-based imaging; eGFR and urine protein at each visit.
+- **Follow-up:** risk-based imaging; eGFR and urine protein.
 
 ### Recent advances
 - 3D (three-dimensional) models; ICG (indocyanine green) fluorescence for selective clamping; single-port RAPN; neoadjuvant TKI (tyrosine kinase inhibitor) downsizing for imperative cases.

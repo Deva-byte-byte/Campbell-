@@ -162,13 +162,13 @@
 (also answered in 2025-Winter Paper 2, Q3d and 2017-Winter Paper 3, Q3b)
 
 ### Introduction
-- Neurotoxin of *Clostridium botulinum*, serotypes A–G. Urology uses **onabotulinumtoxinA (BoNT-A)**, the only licensed formulation; units are not interchangeable between brands.
+- *Clostridium botulinum* neurotoxin, serotypes A–G. Urology uses **onabotulinumtoxinA (BoNT-A)**, the only licensed formulation.
 
 ### Mechanism of action
 1. The heavy chain binds the cholinergic nerve terminal; the toxin is internalised.
 2. The light chain (a zinc protease) **cleaves SNAP-25** (synaptosomal-associated protein 25), so vesicles cannot fuse and **acetylcholine release stops**: chemical denervation.
 - **Afferent action:** less ATP (adenosine triphosphate) and substance P; fewer purinergic (P2X3) and capsaicin (TRPV1) receptors, so urgency and pain fall.
-- Effect lasts about 6–9 months, until nerve terminals sprout; repeat injections stay effective.
+- Lasts about 6–9 months, until terminals sprout; repeat injections stay effective.
 
 ### Technique
 - Cystoscopic intradetrusor injection, trigone usually spared: 100 U in 10 mL at 20 sites; 200 U in 30 mL at 30 sites. Check PVR (post-void residual) at about 2 weeks.
@@ -188,8 +188,7 @@
 
 ### Complications and contraindications
 - **Retention needing CISC (clean intermittent self-catheterisation)**, more in NDO; each 10 mL of baseline PVR raises the risk about 27%. The patient must accept CISC beforehand.
-- UTI (urinary tract infection), haematuria; rarely generalised weakness.
-- Avoid in active UTI, myasthenia gravis, pregnancy.
+- UTI (urinary tract infection), haematuria; rarely generalised weakness. Avoid in active UTI, myasthenia gravis, pregnancy.
 
 **Diagram to draw:** cholinergic synapse with SNAP-25 cleavage.
 
@@ -207,20 +206,19 @@
 ### Definition
 - A testis that **developed normally and was then lost**, usually from **torsion or a vascular accident in fetal life**, after genital masculinisation but before scrotal fixation.
 - Unilateral loss gives **monorchia**; bilateral loss gives **anorchia** (testicular regression syndrome), which is rare.
-- **Evidence:** haemosiderin and calcification in the excised "nubbin".
+- **Evidence:** haemosiderin in the excised "nubbin".
 
 ### Incidence
-- **15–40% of nonpalpable testes** at surgery. Other findings: abdominal or "peeping" testis (25–50%); extra-abdominal but missed (10–30%).
+- **15–40% of nonpalpable testes** at surgery (abdominal or "peeping" testis 25–50%; extra-abdominal 10–30%).
 
 ### Clinical features
-- Nonpalpable testis; normal male phallus in unilateral cases.
 - **Contralateral compensatory hypertrophy:** volume >2 mL (sensitivity 72%, specificity 100%) or length about 19–20 mm suggests a solitary testis.
-- No palpable intrascrotal "appendage" tissue; sometimes a small scrotal nubbin.
-- These signs help counselling, but **do not replace surgical exploration**.
+- No palpable intrascrotal "appendage" tissue; sometimes a scrotal nubbin.
+- These signs help counselling but **do not replace exploration**.
 - **Anorchia:** micropenis in nearly half.
 
 ### Evaluation
-- **Imaging** (ultrasound, MRI) is not recommended: it cannot reliably detect a vanished testis and does not change the operation.
+- **Imaging** (ultrasound, MRI [magnetic resonance imaging]) is not recommended: unreliable, and it does not change the operation.
 - **Bilateral nonpalpable:** first exclude DSD (difference of sex development) and CAH (congenital adrenal hyperplasia) with karyotype and hormones.
   - Anorchia: high FSH (follicle-stimulating hormone) and LH (luteinising hormone); low AMH (anti-Müllerian hormone) and inhibin B; no rise after hCG (human chorionic gonadotrophin). Most reliable during mini-puberty.
 
@@ -235,8 +233,8 @@
 
 - **Excise the remnant:** viable germ cells or tubules in 5–15%.
 - **Scrotal-first exploration** is reasonable with a palpable nubbin and contralateral hypertrophy (length ≥1.8 cm); laparoscopy is then needed in about a quarter.
-- **Contralateral fixation:** debated; AUA (American Urological Association) algorithm does not require it.
-- **Prosthesis:** offer later (at least 6 months after scrotal surgery, or after puberty), via an inguinal approach.
+- **Contralateral fixation:** debated; not required by the AUA (American Urological Association) algorithm.
+- **Prosthesis:** offer at least 6 months after scrotal surgery or after puberty, inguinal approach.
 - **Anorchia:** testosterone replacement from puberty; infertile.
 - **Also know:** agenesis is distinguished by ipsilateral Müllerian persistence.
 
@@ -256,30 +254,28 @@
 ### Definition of failure
 - Persistent or recurrent pain, UTI (urinary tract infection) or stones; **obstructive diuretic renogram** (T½ >20 minutes); increasing hydronephrosis; or fall in split function.
 - Early postoperative dilatation is common and settles slowly, so judge by renography and trend.
-- **Incidence:** about 5–10% in adults; about 1 in 9 children need a secondary procedure. Most fail within 1–2 years, but up to 30% fail later.
+- About 1 in 9 children need a secondary procedure. Most failures occur within 1–2 years, but up to 30% occur later.
 
 ### Causes
-- **Ischaemia** of the anastomosis (over-stripping) and **tension**.
-- **Missed crossing vessel**; inadequate excision of the abnormal segment; kinking or dependent anastomosis not achieved.
-- **Urine leak** or infection leading to periureteric fibrosis.
-- Unrecognised distal ureteric stricture or high-grade VUR (vesicoureteral reflux).
+- **Ischaemia** (over-stripping) and **tension** at the anastomosis.
+- **Missed crossing vessel**; inadequate excision of the narrow segment; non-dependent anastomosis.
+- **Urine leak** or infection causing periureteric fibrosis.
+- Missed distal stricture or high-grade VUR (vesicoureteral reflux).
 
 ### Early failure (first days or weeks)
-- Pain, fever, increasing dilatation: usually **oedema or clot**.
-- Drain: stent check, temporary nephrostomy or stent; most settle.
+- Pain, fever, increasing dilatation: usually **oedema or clot**; temporary nephrostomy or stent, and most settle.
 
 ### Evaluation of late failure
 - **MAG3 (mercaptoacetyltriglycine) diuretic renogram:** obstruction and split function.
 - **CT (computed tomography) angiography:** crossing vessel, stricture length.
-- Antegrade or retrograde pyelography; **Whitaker test** if equivocal.
-- Drain first with nephrostomy if infected; reassess function.
+- Antegrade or retrograde pyelography; **Whitaker test** if equivocal. Nephrostomy first if infected, then reassess function.
 
 ### Treatment options
 
 | Option | When | Results |
 |---|---|---|
 | **Endopyelotomy** (retrograde or antegrade) | Short stricture, no crossing vessel; first choice after failed open repair | About 70% |
-| **Redo pyeloplasty** (open, laparoscopic, robotic) | Long or dense stricture, crossing vessel | Open about 86–89%; best option in most children |
+| **Redo pyeloplasty** (open, laparoscopic, robotic) | Long or dense stricture, crossing vessel | About 86–89%; best choice in most children |
 | **Ureterocalicostomy** | Scarred, small intrarenal pelvis; dilated lower calyx | About 70% (redo series) |
 | **Buccal mucosa onlay** (robotic, omental wrap) | Long scarred UPJ (ureteropelvic junction) | Failure about 15–25% (CORRUS) |
 | **Ileal ureter or autotransplantation** | Long ureteric loss | Selected cases |
@@ -287,9 +283,8 @@
 
 ### Principles of redo surgery
 - Transperitoneal route in children (retroperitoneum is scarred).
-- Ureteric catheter for identification; wide mobilisation of kidney and ureter; **excise all scar**; spatulate; **tension-free, watertight** mucosa-to-mucosa anastomosis over a stent.
-- Cover the anastomosis with omentum or perirenal fat.
-- **Also know:** near-infrared fluorescence (indocyanine green) shows perfusion; Boari flap; downward nephropexy.
+- Ureteric catheter; wide mobilisation of kidney and ureter; **excise all scar**; spatulate; **tension-free, watertight** anastomosis over a stent; wrap with omentum or perirenal fat.
+- **Also know:** near-infrared fluorescence shows perfusion; downward nephropexy.
 
 ### Follow-up
 - Stent out at 4–6 weeks; renogram at about 1 month, then 6 and 12 months; follow adults for 2–3 years.
@@ -310,13 +305,13 @@
 *"Circumcision undone" is read as an incomplete or complicated circumcision needing revision. Foreskin restoration is mentioned briefly at the end.*
 
 ### Introduction
-- Overall complication rate of circumcision is **0.2–5%**. It is low in infancy and **rises 10- to 20-fold after infancy**.
-- Most late problems are of **skin quantity** (too little or too much removed) or of the **exposed meatus**.
+- Circumcision complications: **0.2–5%**, rising **10- to 20-fold after infancy**.
+- Most late problems concern **skin quantity** (too little or too much removed) or the **exposed meatus**.
 
 ### Inadequate ("undone") circumcision
 - **Too little skin removed** or asymmetrical excision: redundant prepuce covering the glans.
-- Leads to **secondary (cicatricial) phimosis**, smegma retention, balanitis, adhesions and cosmetic and social distress.
-- **Also:** concealed penis when a fat pad or hydrocele pushes skin forward (avoid neonatal circumcision with large hydrocele or hernia).
+- Leads to **secondary (cicatricial) phimosis**, smegma retention, balanitis, adhesions and cosmetic distress.
+- A large hydrocele or hernia pushes skin forward and raises this risk.
 
 ### Other complications
 
@@ -329,26 +324,21 @@
 | **Meatal stenosis** (almost only after circumcision) | Meatotomy or meatoplasty |
 | Urethrocutaneous fistula (subcoronal) | Repair as for hypospadias |
 | Glans amputation; penile necrosis (cautery on metal clamp) | Reattach glans within 8 hours; reconstruction |
-| Infection, inclusion cyst, unrecognised hypospadias | Treat accordingly |
 
 ### Evaluation
-- History of the original procedure (device, age), symptoms, examination of skin quantity, meatus, curvature, glans.
-- Calibrate meatus; exclude hypospadias, buried or webbed penis and BXO (balanitis xerotica obliterans).
+- Original procedure (age, device); examine skin quantity, meatus, curvature; exclude hypospadias, buried or webbed penis and BXO (balanitis xerotica obliterans).
 
 ### Circumcision revision
 - **Indications:** redundant or asymmetrical skin, recurrent phimosis, adhesions, cosmetic concern.
 - **Needs general anaesthesia** in children, unlike neonatal circumcision.
 - **Technique (sleeve):** mark inner and outer incisions (first 5–10 mm from the corona), excise the excess collar, bipolar haemostasis, interrupted absorbable sutures (continuous sutures risk strangulation).
-- Lyse adhesions and skin bridges; correct torsion or chordee; meatotomy if needed.
-- Send tissue for histology if BXO is suspected; BXO with meatal disease needs follow-up.
+- Lyse adhesions and skin bridges; correct torsion or chordee; meatotomy if needed; histology if BXO suspected.
 
 ### Prevention
-- Full separation of prepuce from glans and inspection of the meatus before using a device (Gomco, Mogen, Plastibell).
-- Defer circumcision with hypospadias, curvature, buried or webbed penis.
-- Trained operator; avoid cautery near metal clamps.
+- Separate prepuce fully and inspect the meatus before using a device (Gomco, Mogen, Plastibell); defer with hypospadias, curvature, buried or webbed penis; trained operator.
 
 ### Also know: foreskin restoration
-- Non-surgical tissue expansion (traction devices) or surgical skin grafting, for men who want their foreskin back; outcomes are variable.
+- Traction tissue expansion or skin grafting, for men wanting a foreskin; results variable.
 
 **Diagram to draw:** sleeve revision with two circumferential incisions.
 
@@ -365,7 +355,7 @@
 
 ### Definition
 - **UD (urethral diverticulum):** a urine-filled periurethral sac within the periurethral fascia, connected to the urethra by an **ostium**.
-- Age 30s–60s; prevalence up to 1–6% in some series.
+- Third to seventh decades; prevalence up to 1–6% in some series.
 
 ### Aetiology
 - Mostly **acquired**. **Routh theory** (most accepted): infection of **periurethral glands** leads to duct obstruction, suburethral abscess, rupture into the lumen and an epithelialised sac.
@@ -375,7 +365,7 @@
 ### Clinical features
 - "Three Ds" (dysuria, dyspareunia, post-void dribbling) in only about 5%.
 - Commonest: frequency, urgency, pain, **recurrent UTI (urinary tract infection)**.
-- Tender anterior vaginal wall mass; pus expressed on stripping. About one-third incontinent.
+- Tender anterior vaginal wall mass; about one-third incontinent.
 - **Complications:** stones (4–10%); carcinoma (**adenocarcinoma** commonest); 10% show metaplasia, dysplasia or cancer.
 
 ### Evaluation
@@ -423,8 +413,8 @@
 *Read as endoscopic (transurethral or periurethral) injection of urethral bulking agents for stress urinary incontinence.*
 
 ### Introduction
-- **SUI (stress urinary incontinence):** leakage on effort. Mechanisms: urethral hypermobility and **ISD (intrinsic sphincter deficiency)**.
-- **Bulking agents** are injected submucosally under cystoscopic vision. They are the least invasive surgical option.
+- **SUI (stress urinary incontinence)** results from urethral hypermobility and **ISD (intrinsic sphincter deficiency)**.
+- **Bulking agents**, injected submucosally under cystoscopic vision, are the least invasive surgical option.
 
 ### Mechanism
 - Bulk at the proximal urethra improves **mucosal coaptation** and raises urethral resistance.
@@ -433,7 +423,7 @@
 ### Indications
 - ISD with a **fixed, immobile urethra** (low VLPP [Valsalva leak point pressure] <60 cmH₂O, historically).
 - Women wanting a **low-risk**, office procedure; elderly or unfit; future pregnancy planned.
-- Persistent leakage after a sling; neurogenic SUI where a sling may impair compliance.
+- Persistent leakage after a sling; neurogenic SUI (does not impair compliance).
 - **Contraindications:** active UTI (urinary tract infection), untreated detrusor overactivity, small-capacity bladder.
 
 ### Agents
@@ -443,17 +433,15 @@
 | Polyacrylamide hydrogel (Bulkamid) | Non-particulate; widely used |
 | Polydimethylsiloxane (Macroplastique) | Silicone particles |
 | Calcium hydroxylapatite; carbon-coated zirconium beads | Particulate |
-| Bovine collagen | Needed skin test; withdrawn |
-| PTFE (polytetrafluoroethylene), autologous fat | Abandoned: migration, granuloma, embolism |
+| Bovine collagen (skin test); PTFE (polytetrafluoroethylene); autologous fat | Withdrawn or abandoned: allergy, migration, granuloma, embolism |
 
 - Ideal agent: biocompatible, non-immunogenic, non-migrating, durable.
 
 ### Technique
-1. Local anaesthesia; sterile urine; lithotomy.
-2. Cystoscope (0–30° lens) in the urethra.
-3. **Transurethral:** needle into the submucosa about 1–1.5 cm distal to the bladder neck. **Periurethral:** needle alongside the urethra through the vestibule, guided cystoscopically.
-4. Inject at 2–4 sites until the mucosal cushions **coapt in the midline**.
-5. Avoid an indwelling catheter (it moulds the bulk); if retention, short-term CISC (clean intermittent self-catheterisation) with a small catheter.
+1. Sterile urine; local anaesthesia; cystoscope (0–30° lens) in the urethra.
+2. **Transurethral:** needle into the submucosa about 1–1.5 cm distal to the bladder neck. **Periurethral:** needle alongside the urethra through the vestibule, guided cystoscopically.
+3. Inject at 2–4 sites until the mucosal cushions **coapt in the midline**.
+4. Avoid an indwelling catheter (it moulds the bulk); for retention use short-term CISC (clean intermittent self-catheterisation).
 
 ### Outcomes
 - Improvement is common early, but cure is lower than with slings and **declines with time**; repeat injections are often needed.
@@ -463,7 +451,7 @@
 
 ### Complications
 - Transient retention, UTI, dysuria, haematuria, de novo urgency.
-- Sterile abscess or pseudocyst, migration, erosion. A bulking mass may mimic a urethral diverticulum on MRI (magnetic resonance imaging).
+- Sterile abscess, migration, erosion; the mass may mimic a urethral diverticulum on MRI (magnetic resonance imaging).
 
 **Diagram to draw:** cystoscopic view before and after injection, showing coapted mucosal cushions.
 
