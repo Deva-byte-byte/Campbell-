@@ -29,18 +29,19 @@
 ### Management algorithm
 ```
 cT2–T4a N0 M0
- ├─ Cisplatin-eligible → cisplatin NAC → RC + bilateral PLND
+ ├─ Cisplatin-eligible → cisplatin NAC (neoadjuvant chemotherapy)
+ │      → RC + bilateral PLND (pelvic lymph node dissection)
  ├─ Cisplatin-ineligible → RC + PLND directly
  │      (pT3–4 or N+ after either → adjuvant nivolumab or chemotherapy)
  ├─ Selected, motivated → trimodality therapy (TMT)
- └─ Unfit → chemoradiation / palliative RT
+ └─ Unfit → chemoradiation / palliative radiotherapy
 cN+ → induction chemotherapy → consolidation RC in responders
 M1  → systemic therapy
 ```
 
 **1. Radical cystectomy (standard of care)**
 - Men: cystoprostatectomy. Women: anterior exenteration; organ-sparing in selected cases.
-- **Standard bilateral PLND (pelvic lymph node dissection):** obturator, external and internal iliac nodes. **SWOG S1011:** extended PLND gave no survival benefit.
+- **Standard bilateral PLND:** obturator, external and internal iliac nodes. **SWOG S1011:** extended PLND gave no survival benefit.
 - Do not delay beyond **12 weeks** from diagnosis (worse survival). Diversion: ileal conduit, orthotopic neobladder or continent pouch.
 
 **2. Bladder preservation: TMT**
@@ -87,7 +88,7 @@ M1  → systemic therapy
 - **CheckMate 274:** nivolumab for 1 year after RC (pT3–4a or N+, with or without prior NAC): median disease-free survival **20.8 vs 10.8 months**.
 - **IMvigor010** (atezolizumab): negative overall (included pT2); benefit in ctDNA (circulating tumour DNA)-positive patients.
 - Use nivolumab if cisplatin-ineligible or declining chemotherapy, or with ypT3 or worse after NAC.
-- **Also know:** adjuvant pelvic RT (Cairo trials) improves pelvic control in pT3–4; ctDNA-guided therapy is emerging.
+- **Also know:** adjuvant pelvic radiotherapy (Cairo trials) improves pelvic control in pT3–4; ctDNA-guided therapy is emerging.
 
 **Diagram to draw:** bladder wall T-staging (T2a, T2b, T3, T4) beside the standard PLND template.
 
@@ -107,24 +108,24 @@ M1  → systemic therapy
 ### Definition and staging
 - **Locally advanced CaP (carcinoma prostate):** T3–T4, N0 or N+, M0. Clinically: extracapsular spread (cT3a), seminal vesicle invasion (cT3b), adjacent organs (cT4). Today most "high-risk" disease is defined by grade and PSA (prostate-specific antigen) rather than palpation.
 - At least 10% of new diagnoses; these men contribute a disproportionate share of cancer deaths.
-- **Staging:** mpMRI (multiparametric MRI) for local extent; bone scan + CT, or **PSMA PET (prostate-specific membrane antigen positron emission tomography)**, which is more accurate (proPSMA: 92% vs 65%).
+- **Staging:** mpMRI (multiparametric magnetic resonance imaging) for local extent; bone scan + CT (computed tomography), or **PSMA PET (prostate-specific membrane antigen positron emission tomography)**, which is more accurate (proPSMA: 92% vs 65%).
 - Untreated, Gleason 8–10 disease carries high cancer mortality, so fit men need treatment; no single modality suffices, hence **combined therapy**.
 
 ### Management options
 **1. Radiotherapy + long-term ADT (androgen deprivation therapy): the commonest standard**
-- Dose-escalated EBRT (external-beam radiotherapy, ≥78 Gy) with or without pelvic node RT; **brachytherapy boost** improves biochemical control (ASCENDE-RT).
+- Dose-escalated EBRT (external-beam radiotherapy [RT], ≥78 Gy) with or without pelvic node RT; **brachytherapy boost** improves biochemical control (ASCENDE-RT).
 - ADT works synergistically with RT: neoadjuvant, concurrent and adjuvant, **18–36 months** for high risk.
 
 | Trial | Finding |
 |---|---|
-| **EORTC 22863** | 3 years of goserelin with RT: 5-year OS 79% vs 62% |
+| **EORTC 22863** | 3 years of goserelin with RT: 5-year overall survival 79% vs 62% |
 | **RTOG 85-31 / 92-02** | Long adjuvant ADT better; OS gain in Gleason 8–10 |
 | **TROG 96.01** | 6 months better than 3 months |
 | **SPCG-7; MRC PR07** | ADT + RT beats ADT alone (overall survival gain) |
-| **STAMPEDE** (high-risk M0) | Adding 2 years of abiraterone: metastasis-free survival HR 0.53 |
+| **STAMPEDE** (high-risk M0) | Adding 2 years of abiraterone: metastasis-free survival HR (hazard ratio) 0.53 |
 | **RTOG 0521; GETUG 12** | Docetaxel added modest benefit |
 
-**2. Radical prostatectomy + extended PLND (pelvic lymph node dissection)**
+**2. RP (radical prostatectomy) + extended PLND (pelvic lymph node dissection)**
 - For fit men with **completely resectable** disease (cT3a, selected cT3b, limited nodes). Clinical overstaging occurs in 7–27%, so cT3 alone is no bar.
 - **Why surgery:** exact pathological staging, removal of the primary (an untreated prostate causes retention, haematuria and ureteric obstruction that ADT does not prevent), and RT kept for salvage.
 - Disease-specific survival 85–92% at 5 years and 79–82% at 10 years, but biochemical recurrence is common, so multimodal care is planned.
@@ -138,7 +139,7 @@ M1  → systemic therapy
 
 **4. Others**
 - Watchful waiting with deferred ADT in elderly comorbid men.
-- **Also know:** cryotherapy and HIFU (high-intensity focused ultrasound) remain investigational; TURP or stents for local obstruction; trial enrolment.
+- **Also know:** cryotherapy and HIFU (high-intensity focused ultrasound) remain investigational; TURP (transurethral resection of the prostate) or stents for local obstruction; trial enrolment.
 
 ### Bilateral orchidectomy
 - Removes about 95% of testosterone: **castrate level (<20 ng/dL) within 12 hours**. Cheap, no compliance issues, no flare, so useful in impending cord compression. Simple or subcapsular (all Leydig tissue must be removed).
@@ -166,7 +167,7 @@ M1  → systemic therapy
 
 > **Key points to remember:**
 > - Locally advanced = T3–4, N0/N+, M0; treat with combined therapy.
-> - RT + 18–36 months ADT: EORTC 22863 OS 79% vs 62%; STAMPEDE abiraterone MFS HR 0.53.
+> - RT + 18–36 months ADT: EORTC 22863 overall survival 79% vs 62%; STAMPEDE abiraterone metastasis-free survival HR 0.53.
 > - Neoadjuvant ADT before RP: no survival benefit; early salvage RT favoured.
 > - Orchidectomy: castrate in 12 hours; flushes, osteoporosis (denosumab), metabolic, sexual effects.
 
@@ -225,10 +226,10 @@ M1  → systemic therapy
 ### Posterior urethra (PFUI)
 - **SPC (suprapubic cystostomy) is the standard first step:** percutaneous 16 Fr Foley via peel-away sheath, or open. Safe with pelvic plating.
 - **Primary realignment** (AUA [American Urological Association] Urotrauma option): brief attempt in a stable patient, acutely or within days, by combined antegrade and retrograde flexible cystoscopy (avoid prolonged attempts).
-  - Catheter out at 4–6 weeks; keep the SPC; remove it 7–14 days later if voiding is good.
+  - Catheter out at 4–6 weeks; keep the SPC; remove it 7–14 days later if voiding well.
   - Most still form a **1–2 cm stenosis**; **no difference** in urethroplasty rates vs SPC. Realignment does not add ED (erectile dysfunction) or incontinence.
 - Partial tear: one gentle catheter attempt.
-- **Immediate open repair** only for associated **bladder neck or rectal injury**, or when laparotomy is needed anyway.
+- **Immediate open repair** only for **bladder neck or rectal injury**, or when laparotomy is needed anyway.
 - **Also know:** female urethral injuries are usually repaired early; in boys tears may extend into the bladder neck.
 
 ### Anterior urethra
@@ -375,12 +376,12 @@ M1  → systemic therapy
 | Condition | Retrieval |
 |---|---|
 | Post-orchidopexy | 74% |
-| AZFc deletion | 70% |
+| AZFc (azoospermia factor c) deletion | 70% |
 | Klinefelter | 68% |
 | Post-chemotherapy | 53% |
 | Maturation arrest | 40% |
 | Sertoli cell–only | 30% |
-| AZFa/AZFb (azoospermia factor) deletion | **0%: do not operate** |
+| AZFa/AZFb deletion | **0%: do not operate** |
 
 - NOA pregnancies: more miscarriage (aneuploidy, DNA damage). Frozen sperm equal fresh, except in spinal cord injury.
 
@@ -417,7 +418,7 @@ M1  → systemic therapy
 | **Endopyelotomy** (antegrade or retrograde ureteroscopic, laser) | Short stricture, no significant crossing vessel, moderate hydronephrosis | About 70% after failed pyeloplasty; lateral incision; stent 4–6 weeks |
 | **Redo pyeloplasty** (open, laparoscopic, robotic) | Most failures; failed endopyelotomy | About 83–89%; wide mobilisation of kidney and ureter; transperitoneal (scarred retroperitoneum) |
 | **Ureterocalicostomy** | Scarred or small intrarenal pelvis, dilated lower-pole calyx | About 70% in redo series; **resect** lower-pole parenchyma (not nephrotomy) |
-| **Buccal mucosa onlay graft** | Long scarred UPJ or proximal ureter, dense scar | Robotic with omental wrap; failure 15–25% (CORRUS) |
+| **Buccal mucosa onlay graft** | Long scarred PUJ or proximal ureter, dense scar | Robotic with omental wrap; failure 15–25% (CORRUS) |
 | **Appendiceal onlay flap** | Right-sided proximal stricture | Pedicled on appendiceal artery |
 | Flaps (spiral, vertical), downward nephropexy | Gain length | Combine with redo repair |
 | **Ileal ureter** | Long defect | Contraindicated if creatinine >2 mg/dL, bladder dysfunction, IBD (inflammatory bowel disease), radiation |

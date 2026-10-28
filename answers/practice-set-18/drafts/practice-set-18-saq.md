@@ -27,7 +27,7 @@
 - Asymptomatic candiduria (most) → cystitis → pyelonephritis → **fungus ball (bezoar)** causing obstruction → renal abscess or candidaemia.
 
 ### Diagnosis
-- Microscopy: budding yeasts and pseudohyphae; yeasts mimic red cells and oxalate crystals. Repeat culture, since contamination is common.
+- Microscopy: budding yeasts and pseudohyphae (may mimic red cells). Repeat culture: contamination is common.
 - Children: treat when repeated cultures exceed **10,000–15,000 CFU (colony-forming units)/mL**.
 - Persistent funguria: ultrasound or CT (computed tomography) for bezoar; blood cultures if high risk.
 
@@ -42,9 +42,9 @@
 | Resistant cystitis | Amphotericin B bladder irrigation 50 mg/L |
 | Fungus ball | PCN (percutaneous nephrostomy) drainage + systemic antifungal + local amphotericin irrigation; endoscopic or open removal if persistent |
 
-- Fluconazole is concentrated in urine. **Echinocandins and lipid amphotericin give poor urine levels.**
+- Fluconazole concentrates in urine; **echinocandins and lipid amphotericin do not.**
 - **Before procedures:** IDSA (Infectious Diseases Society of America) 2016 treats all candiduria (fluconazole 400 mg daily for several days before and after). AUA (American Urological Association) Best Practice Statement 2019 gives single-dose antifungal prophylaxis only for urothelium-breaching surgery. The two disagree.
-- **Also know:** urinary alkalinisation for bezoar; fluconazole caution under 6 months (per chapter).
+- **Also know:** alkalinisation for bezoar; fluconazole caution under 6 months.
 
 **Diagram to draw:** budding yeast with pseudohyphae; fungus ball in renal pelvis with nephrostomy.
 
@@ -62,7 +62,7 @@
 
 ### Definition
 - AMR (antimicrobial resistance): a microbe grows despite drug levels achievable in the patient. Reported as S (sensitive), I (intermediate), R (resistant) with the MIC (minimum inhibitory concentration).
-- CDC (Centers for Disease Control and Prevention) lists it among the most serious health threats.
+- One of the most serious global health threats.
 
 ### Types
 | Type | Mechanism | Relevance |
@@ -114,7 +114,7 @@
 (also answered in part in 2015-Summer Paper 3, Q3d)
 
 ### Definition
-- A **structured microbial community in a self-made polymeric matrix**, adherent to a living or inert surface. The matrix contains exopolysaccharide, extracellular DNA and proteins. It drives persistent infection.
+- A **structured microbial community in a self-made polymeric matrix**, adherent to a living or inert surface. The matrix contains exopolysaccharide, extracellular DNA and proteins.
 
 ### Stages of formation
 1. **Conditioning film:** host proteins coat the device within minutes.
@@ -144,10 +144,10 @@
 ### Prevention and management
 - Avoid devices; shortest dwell; aseptic insertion; closed dependent drainage.
 - **Change the catheter** when treating symptomatic CAUTI (catheter-associated UTI (urinary tract infection)); remove infected stent or implant.
-- Materials: silicone and hydrophilic coatings; silver alloy reduces bacteriuria but not clinical UTI.
+- Silver-alloy catheters reduce bacteriuria, not clinical UTI.
 - Implants: antibiotic-coated devices, no-touch technique, **antiseptic washout** at revision (infection about 10% → 3%).
 - Stones: complete clearance. Chemodissolution for catheter encrustation. Macrolides penetrate biofilm (prostatitis).
-- **Also know (research):** quorum-sensing inhibitors, bacteriophages, novel antifouling coatings.
+- **Also know (research):** quorum-sensing inhibitors, bacteriophages, new coatings.
 
 **Diagram to draw:** five-stage biofilm cycle on a catheter surface.
 
@@ -163,14 +163,14 @@
 **Type:** SAQ (10 marks)
 
 ### Definition and uses
-- A substance made by a tumour (or by the host in response), measured in blood, urine or tissue.
-- Uses: screening, diagnosis, staging, prognosis, response, and detecting relapse. An ideal marker is specific, sensitive, proportional to tumour bulk and has a short half-life.
+- A substance made by a tumour, measured in blood, urine or tissue.
+- Uses: screening, diagnosis, staging, prognosis, response, and detecting relapse. Ideal: specific, sensitive, proportional to bulk, short half-life.
 
 ### Prostate
-- **PSA (prostate-specific antigen):** a kallikrein serine protease (hK3) from luminal cells; **organ-specific, not cancer-specific** (BPH (benign prostatic hyperplasia), prostatitis, instrumentation raise it). Best marker for follow-up after treatment.
+- **PSA (prostate-specific antigen):** a kallikrein serine protease (hK3) from luminal cells; **organ-specific, not cancer-specific** (BPH (benign prostatic hyperplasia), prostatitis, instrumentation raise it). Best marker for post-treatment follow-up.
 - **Refinements:** density (PSA ÷ volume; cut-offs 0.08–0.15); %free PSA (lower in cancer; for PSA 4–10 ng/mL); velocity (little value); **PHI (Prostate Health Index) = (p2PSA ÷ free PSA) × √total PSA**; 4Kscore.
 - **Urine:** PCA3 (prostate cancer antigen 3) after DRE (digital rectal examination); score = PCA3 mRNA ÷ KLK3 mRNA × 1000.
-- **Also know:** tissue genomic classifiers; PSMA (prostate-specific membrane antigen) imaging.
+- **Also know:** tissue genomic classifiers.
 
 ### Testis (germ cell tumours)
 | Marker | Half-life | Source | Never raised in |
@@ -179,8 +179,8 @@
 | β-hCG (human chorionic gonadotrophin) | 24–36 hours | Choriocarcinoma, embryonal; seminoma in ~15% | Yolk sac tumour |
 | LDH (lactate dehydrogenase) | 24 hours | Non-specific; reflects bulk | — |
 
-- Measure before and after orchidectomy, during chemotherapy and in follow-up. Post-orchidectomy values give the **S stage** (S1: LDH <1.5 × normal, hCG <5000, AFP <1000) and the **IGCCCG (International Germ Cell Cancer Collaborative Group)** risk group.
-- Raised AFP with "pure seminoma" histology → treat as NSGCT (non-seminomatous GCT). False positives: liver disease, marijuana, LH (luteinising hormone) cross-reaction.
+- Measure before and after orchidectomy, on chemotherapy, in follow-up. Post-orchidectomy values give the **S stage** (S1: LDH <1.5 × normal, hCG <5000 mIU/mL, AFP <1000 ng/mL) and the **IGCCCG (International Germ Cell Cancer Collaborative Group)** risk group.
+- Raised AFP with "pure seminoma" histology → treat as NSGCT (non-seminomatous germ cell tumour). False positives: liver disease, marijuana, LH (luteinising hormone) cross-reaction.
 - **miR-371a-3p:** sensitive new marker; not raised by teratoma.
 
 ### Bladder and upper tract
@@ -188,9 +188,8 @@
 - NMP22 (nuclear matrix protein 22), BTA (bladder tumour antigen), ImmunoCyt, UroVysion FISH (fluorescence in situ hybridisation): selected use only.
 
 ### Others
-- **Kidney:** no validated serum marker.
+- **Kidney and penis:** no validated serum marker.
 - **Adrenal:** metanephrines, cortisol, aldosterone–renin ratio. **Neuroblastoma:** urinary VMA (vanillylmandelic acid)/HVA (homovanillic acid) raised in 90–95%.
-- **Penis:** SCC (squamous cell carcinoma) antigen has no role.
 
 **Diagram to draw:** marker decline curve after orchidectomy using half-lives.
 
@@ -281,7 +280,7 @@
 **Diagram to draw:** three-way Foley cross-section; DJ stent in situ.
 
 > **Key points to remember:**
-> - Fr = 3 × diameter (mm); coudé for BPH, Councill over a wire.
+> - Fr = 3 × diameter (mm); coudé for prostatic enlargement, Councill over a wire.
 > - Hydrophilic wire to pass, PTFE wire to stay (safety).
 > - DJ symptoms: α-blockers and antimuscarinics help.
 > - Long-dwelling stents: monitor for encrustation.
