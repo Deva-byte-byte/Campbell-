@@ -387,7 +387,7 @@
   2. **Inverted-U** anterior vaginal wall flap.
   3. **Preserve periurethral fascia** as a separate layer.
   4. Excise the **entire sac** and close the ostium.
-  5. **Watertight** urethral closure over a 12–14 Fr catheter.
+  5. **Watertight** urethral closure over a catheter (as small as 12 Fr).
   6. **Multilayered, non-overlapping** closure; obliterate dead space.
   7. **Martius flap** if poor tissue.
 - **Bothersome SUI:** concomitant **autologous pubovaginal sling**; **never synthetic mesh**.
