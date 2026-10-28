@@ -280,12 +280,12 @@ Recognise (SSC: do not use qSOFA alone for screening)
 *"Submeatal stricture" is read as a stricture of the meatus and fossa navicularis (glanular urethra).*
 
 ### Causes
-- **LS (lichen sclerosus, formerly BXO [balanitis xerotica obliterans]):** commonest inflammatory cause; begins at the glans and meatus and progresses proximally.
+- **LS (lichen sclerosus, formerly BXO [balanitis xerotica obliterans]):** main inflammatory cause today; begins at the glans and meatus and progresses proximally.
 - **Iatrogenic:** catheter or instrument trauma, TURP (transurethral resection of prostate).
 - **Failed hypospadias repair**; post-circumcision ammoniacal meatitis (children).
 
 ### Evaluation
-- Thin, spraying stream, straining; uroflowmetry; calibration.
+- Spraying stream, straining; uroflowmetry.
 - **RUG (retrograde urethrogram) before any meatal surgery**: a proximal stricture often coexists, especially in LS.
 - Biopsy suspicious lesions: LS turns malignant (squamous cell carcinoma) in up to 8%.
 
@@ -297,14 +297,14 @@ Recognise (SSC: do not use qSOFA alone for screening)
 | **Ventral meatotomy** | Crush and incise ventrally; **three sutures** (apex and each side), mucosa to glans skin; dilate afterwards | Simple stenosis; in LS extend it with an inverted-V relaxing incision |
 | **Dorsal meatotomy** (Y-V plasty) | Excise the scar ridge, advance a flap | Effective; cosmesis poorer |
 | **Fossa navicularis reconstruction (flaps)** | **Jordan flap:** ventral urethrotomy through the stenosis; **transverse ventral penile skin island on dartos** transposed and inverted into the defect. **De Sy:** ventral longitudinal island advanced | Non-LS; excellent function and cosmesis |
-| **Graft** | **BMG (buccal mucosal graft)** dorsal inlay or onlay, one or two stages; glans wings developed | **LS: oral mucosa, never genital skin** |
+| **Graft** | **BMG (buccal mucosal graft)** inlay or onlay, one or two stages; glans wings developed | **LS: oral mucosa, never genital skin** |
 | **Perineal urethrostomy** | Bypass | Pan-anterior LS, failed repairs, elderly |
 
-- Flaps in LS recur often because LS is a disease of genital skin; LS spares the proximal urethra, so perineal urethrostomy works.
+- LS affects genital skin, so skin flaps recur; it spares the proximal urethra, so perineal urethrostomy works.
 - Children: ventral meatotomy plus parental dilation for 7–10 days.
 
 ### Complications
-- Restenosis (commoner in LS), bleeding, spraying, fistula, glans dehiscence, poor cosmesis.
+- Restenosis (commoner in LS), bleeding, spraying, poor cosmesis.
 
 **Diagram to draw:** Jordan flap: transverse ventral skin island on dartos inverted into the ventral meatotomy.
 

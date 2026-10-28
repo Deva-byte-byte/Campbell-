@@ -23,6 +23,7 @@
 - At least 10% of new prostate cancers are locally advanced (T3–4, N0 or N+, M0). Any single treatment carries a high recurrence risk, so **multimodal therapy** is the rule.
 
 ### Staging: TNM (tumour, node, metastasis) 2017 (AJCC 8th edition)
+
 | Stage | Definition |
 |---|---|
 | T1a / T1b | Incidental at TURP (transurethral resection of prostate): ≤5% / >5% of tissue |
@@ -38,6 +39,7 @@
 - **Grade group (ISUP, International Society of Urological Pathology):** GG1 ≤6; GG2 3+4; GG3 4+3; GG4 8; GG5 9–10.
 
 ### Risk groups
+
 | System | High risk | Very high / locally advanced |
 |---|---|---|
 | D'Amico | T2c, PSA >20 or Gleason 8–10 (any one) | – |
@@ -58,7 +60,7 @@
 - **Why add ADT:** it shrinks the target and acts synergistically with radiation.
 - **EORTC 22863:** 3 years of goserelin with RT improved 5-year OS (overall survival), 78% vs 62%.
 - **RTOG 92-02:** 28 vs 4 months ADT better; OS gain in Gleason 8–10. NCCN: ADT 18–36 months.
-- **RT is still needed with ADT:** SPCG-7 (cancer death RR 0.44) and MRC PR07 (OS HR 0.77) showed ADT alone is inferior.
+- **RT is still needed with ADT:** SPCG-7 (cancer death RR (relative risk) 0.44) and MRC PR07 (OS HR (hazard ratio) 0.77) showed ADT alone is inferior.
 - **STAMPEDE (abiraterone, M0):** for N1, or two of T3–4, Gleason ≥8 or PSA ≥40, **abiraterone + prednisolone for 2 years** with ADT + RT gave metastasis-free survival HR 0.53 and OS HR 0.60. NCCN now lists it for very high risk.
 - Pelvic nodal RT: RTOG 94-13 inconclusive; POP-RT (Tata Memorial) improved biochemical failure-free survival in high-risk N0.
 
@@ -70,6 +72,7 @@
 **C. ADT alone:** only for men unfit for or refusing local treatment. Consider immediate ADT if PSA doubling time is short or PSA is very high.
 
 ### Node-positive disease
+
 | Setting | Management |
 |---|---|
 | **cN1 M0** | RT to prostate and pelvis + ADT 2–3 years + abiraterone 2 years (STAMPEDE). RP + extended PLND in selected men |
@@ -78,9 +81,10 @@
 - **Also know:** RTOG 0521 docetaxel + RT (OS HR 0.69, not routine); cryotherapy and HIFU (high-intensity focused ultrasound) not standard.
 
 ### Algorithm
+
 ```
 cT3–4 / cN1, M0 (PSMA PET or CT + bone scan)
-   ├─ Fit, resectable → RP + ePLND → early salvage RT ± ADT
+   ├─ Fit, resectable → RP + PLND → early salvage RT ± ADT
    ├─ Most → RT + ADT 18–36 months (+ abiraterone if N1/very high risk)
    └─ Unfit → ADT alone
 ```
@@ -93,7 +97,7 @@ cT3–4 / cN1, M0 (PSMA PET or CT + bone scan)
 > **Key points to remember:**
 > - Seminal vesicle invasion is T3b; non-regional nodes are M1a.
 > - RT + long-term ADT (18–36 months) is the standard; ADT alone is inferior (SPCG-7).
-> - STAMPEDE: abiraterone 2 years for N1 or very high-risk M0 (MFS HR 0.53).
+> - STAMPEDE: abiraterone 2 years for N1 or very high-risk M0 (metastasis-free survival HR 0.53).
 > - Early salvage RT preferred over adjuvant RT for most men after RP.
 
 ---
@@ -106,6 +110,7 @@ cT3–4 / cN1, M0 (PSMA PET or CT + bone scan)
 
 ### A. Classification
 **1. Histological**
+
 | Type | Share | Note |
 |---|---|---|
 | **Urothelial carcinoma** | ~90% | Variants: micropapillary, plasmacytoid, sarcomatoid, nested; squamous or glandular differentiation |
@@ -118,6 +123,7 @@ cT3–4 / cN1, M0 (PSMA PET or CT + bone scan)
 - Low-grade (FGFR3 pathway) recurs but rarely progresses. High-grade and CIS (carcinoma in situ; TP53/RB pathway) progress.
 
 **3. Stage: TNM 2017**
+
 | T | Definition |
 |---|---|
 | Ta / Tis | Non-invasive papillary / flat CIS |
@@ -125,6 +131,7 @@ cT3–4 / cN1, M0 (PSMA PET or CT + bone scan)
 | T2a / T2b | Inner / outer half of muscle |
 | T3a / T3b | Perivesical fat, microscopic / macroscopic |
 | T4a / T4b | Prostatic stroma, uterus, vagina / pelvic or abdominal wall |
+
 - N1 one true-pelvic node; N2 ≥2 pelvic nodes; N3 common iliac; M1a distant nodes; M1b organs.
 
 **4. Clinical groups**
@@ -146,6 +153,7 @@ cT3–4 / cN1, M0 (PSMA PET or CT + bone scan)
 - About a third later develop MIBC. Not a primary treatment.
 
 **3. Partial cystectomy**
+
 | Ideal candidate | Contraindication |
 |---|---|
 | Solitary tumour **<3 cm** in a mobile part (dome) | **CIS**, multifocal tumour |
@@ -160,6 +168,7 @@ cT3–4 / cN1, M0 (PSMA PET or CT + bone scan)
 **4. TMT (trimodality therapy): the best-studied option**
 - **Components:** maximal visibly complete TURBT + RT (radiotherapy) + concurrent radiosensitising chemotherapy.
 - **Selection:** cT2, solitary, **no hydronephrosis, no extensive CIS**, complete TURBT, good bladder function, compliant patient. Only 6–19% of MIBC qualify.
+
 | Radiosensitiser | Evidence |
 |---|---|
 | **Mitomycin C + 5-FU (fluorouracil)** | **BC2001:** 2-year locoregional DFS (disease-free survival) 67% vs 48% for RT alone |
@@ -171,9 +180,11 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
      ├─ Complete response → surveillance (NMIBC recurrence: TURBT + BCG)
      └─ Persistent / recurrent MIBC → salvage cystectomy (10–30%)
 ```
+
 - **Outcomes:** 5-year CSS (cancer-specific survival) 50–84%. MGH/RTOG: complete response 69%; 80% of 5-year survivors keep the bladder. Propensity-matched RC vs TMT: similar CSS (81% vs 84%).
 
 ### Comparison
+
 | | Radical cystectomy | Bladder preservation |
 |---|---|---|
 | Staging | Pathological | Clinical only |
@@ -202,6 +213,7 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 - Metabolised in the liver to **oxypurinol**, the active metabolite. It has a long half-life and is cleared by the kidney, so the dose is cut in renal impairment.
 
 ### Uses in urology
+
 | Indication | Rationale |
 |---|---|
 | **Recurrent calcium oxalate stones with hyperuricosuria** (>600 mg/day) and normal urinary calcium | Urate "seeds" calcium oxalate (heterogeneous nucleation, salting out, inhibitor adsorption). **Ettinger (1986) RCT (randomised controlled trial): recurrence more than halved**; AUA (American Urological Association) recommends it |
@@ -213,13 +225,12 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 - Adult **300 mg/day** (start 100 mg, titrate); child 4–10 mg/kg/day (maximum 300 mg). Reduce for low creatinine clearance.
 
 ### Adverse effects
-- Rash (commonest), myalgia, gastrointestinal upset; acute gout flare on starting; interstitial nephritis.
+- Rash (commonest), myalgia, gastrointestinal upset; gout flare on starting; interstitial nephritis.
 - **Hypersensitivity in 2–8%**, from skin reactions to **allopurinol hypersensitivity syndrome** (fatal in up to 27%) and Stevens-Johnson syndrome. Risk is higher with high dose, renal failure, diuretics and statins. **HLA-B\*58:01** carriers (some Asian populations) have higher risk.
 - **Xanthine stones** (radiolucent): rare, mainly with high doses in Lesch-Nyhan syndrome.
 
 ### Drug interactions
 - **Azathioprine and 6-mercaptopurine:** xanthine oxidase metabolises them, so toxicity (marrow suppression) rises. Reduce their dose sharply (important after transplant).
-- Ampicillin or amoxicillin: more rash.
 
 ### Alternatives
 - **Febuxostat:** non-purine xanthine oxidase inhibitor, no dose change in mild to moderate renal impairment. Carries a cardiovascular-death warning.
@@ -240,39 +251,43 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 *Read as: Wilms tumour (nephroblastoma).*
 
 ### Introduction
-- Embryonal tumour from metanephric blastema; 95% of kidney cancers under 15 years. Median age 3.5 years; over 80% before 5 years.
+- WT (Wilms tumour): embryonal tumour of metanephric blastema; 95% of kidney cancers under 15 years; median age 3.5 years.
 
 ### Genetics and syndromes
-- Mostly sporadic; 10–15% germline or 11p15 epigenetic change; familial 1–2%. Genes: **WT1 (11p13)**, IGF2 (11p15), WTX, CTNNB1; **TP53 in anaplasia**.
+- Mostly sporadic; familial 1–2%. Genes: **WT1 (11p13)**, IGF2 (11p15), WTX, CTNNB1; **TP53 in anaplasia**.
+
 | Syndrome | WT risk |
 |---|---|
 | **WAGR** (Wilms, aniridia, genitourinary anomalies, intellectual disability; WT1 deletion) | 50% |
 | **Denys-Drash** (46,XY DSD (disorder of sex development), mesangial sclerosis; WT1 point mutation) | 50% |
-| **Beckwith-Wiedemann**, hemihypertrophy (11p15) | 5–10% |
+| **BWS (Beckwith-Wiedemann syndrome)**, hemihypertrophy (11p15) | 5–10% |
+
 - **Screening:** ultrasound every 3–4 months until 7 years when risk >1%.
-- **Nephrogenic rests** (precursors): in over one-third of WT kidneys and over 90% of bilateral cases.
+- **Nephrogenic rests** (precursors): over 90% of bilateral cases.
 
 ### Pathology
 - **Triphasic:** blastema, epithelium (tubules), stroma; pseudocapsule.
-- **Anaplasia** (nuclei ≥3× larger, hyperchromasia, abnormal mitoses): unfavourable histology, chemoresistant; diffuse is worse than focal.
+- **Anaplasia** (nuclei ≥3× larger, hyperchromasia, abnormal mitoses): unfavourable, chemoresistant; diffuse worse than focal.
 
 ### Clinical features
-- Abdominal mass (often found by parents), pain, haematuria ~20%, hypertension ~25% (renin). Look for aniridia, hemihypertrophy, varicocele (IVC (inferior vena cava) thrombus). Acquired von Willebrand disease up to 8%.
+- Abdominal mass, haematuria ~20%, hypertension ~25% (renin). Look for aniridia, hemihypertrophy, varicocele (IVC (inferior vena cava) thrombus); acquired von Willebrand disease.
 
 ### Investigations
-- Ultrasound with Doppler (IVC), then contrast CT or MRI abdomen, **chest CT** (lung is the commonest metastatic site). No biopsy in resectable tumours.
+- Ultrasound with Doppler (IVC), contrast CT or MRI abdomen, **chest CT** (lung is the commonest metastatic site).
 
 ### Staging (COG, Children's Oncology Group; surgical-pathological)
+
 | Stage | Description |
 |---|---|
 | I | Confined, completely resected, capsule intact |
-| II | Beyond kidney (renal sinus vessels, perirenal fat), completely resected |
+| II | Beyond kidney (renal sinus vessels, perirenal fat), fully resected |
 | III | Residual abdominal disease: **nodes, any spill**, positive margin, peritoneal implants |
 | IV | Haematogenous metastases (lung, liver, bone, brain) |
 | V | Bilateral |
 
 ### Treatment
 - **COG:** upfront transperitoneal radical nephrectomy, avoid spill, **sample ≥5 lymph nodes**. **SIOP (International Society of Paediatric Oncology):** preoperative vincristine + dactinomycin, then surgery.
+
 | Group (favourable histology) | Therapy |
 |---|---|
 | Very low risk (<2 years, <550 g, stage I) | Nephrectomy alone |
@@ -280,12 +295,13 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 | Stage III | Add doxorubicin + flank RT (radiotherapy) |
 | Stage IV | Three drugs + lung RT (omitted if lung nodules clear by week 6) |
 | Anaplasia; 1p/16q LOH (loss of heterozygosity) | Intensified regimens |
-- **Bilateral (stage V):** three-drug chemotherapy, then **nephron-sparing surgery by week 12**; biopsy non-responders.
+
+- **Bilateral (stage V):** three-drug chemotherapy, then **NSS (nephron-sparing surgery) by week 12**.
 
 ### Prognosis
-- Favourable-histology survival >90%. Late effects: anthracycline cardiotoxicity, second cancers, infertility.
+- Favourable histology: survival >90%. Late effects: cardiotoxicity, second cancers, infertility.
 
-**Diagram to draw:** triphasic histology, or COG stage diagram showing capsule, renal sinus and nodes.
+**Diagram to draw:** COG staging showing capsule, renal sinus and nodes.
 
 > **Key points to remember:**
 > - WT1 at 11p13 (WAGR, Denys-Drash); BWS at 11p15.
@@ -302,12 +318,14 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 - Haemodialysis needs blood flow of **250–350 mL/min**. Access failure is a major cause of morbidity in ESKD (end-stage kidney disease).
 
 ### Types
+
 | Access | Construction | Ready | Comment |
 |---|---|---|---|
 | **Radiocephalic AVF** (arteriovenous fistula; Brescia–Cimino) | Radial artery to cephalic vein at wrist, end-to-side | 6–8 weeks | **First choice**: best patency, fewest infections |
 | Brachiocephalic AVF | At elbow | 6–8 weeks | Higher flow, more steal |
 | **AVG** (arteriovenous graft) | PTFE (polytetrafluoroethylene) loop or straight | 2–3 weeks | More stenosis, thrombosis, infection |
 | **Tunnelled cuffed CVC** (central venous catheter) | Right internal jugular | At once | Bridge or last resort; infection, central stenosis |
+
 - Non-tunnelled catheters: acute dialysis only.
 
 ### Planning
@@ -318,6 +336,7 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 - **Maturity "rule of 6s"**: flow >600 mL/min, diameter >6 mm, depth <6 mm, at 6 weeks.
 
 ### Complications
+
 | Complication | Treatment |
 |---|---|
 | Failure to mature (juxta-anastomotic stenosis) | Angioplasty, ligate side branches |
@@ -325,6 +344,7 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 | **Thrombosis** (usually on a stenosis) | Thrombectomy, then fix the stenosis |
 | **Steal syndrome** (hand ischaemia) | Banding, DRIL (distal revascularisation–interval ligation) |
 | Aneurysm; infection (CVC > AVG > AVF) | Repair; antibiotics, excise graft |
+
 - **Also know:** brachiobasilic transposition AVF; venous hypertension; high-output cardiac failure.
 
 ### Monitoring
@@ -350,16 +370,18 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 
 ### Principle and technique
 - The prostate lies directly in front of the rectum. Probes: end-fire, side-fire or biplane, **6–10 MHz** (higher frequency gives better resolution but less depth).
-- Left lateral position after DRE (digital rectal examination). Scan transverse and sagittal planes from base to apex, including seminal vesicles and rectal wall.
+- Left lateral position after DRE (digital rectal examination); transverse and sagittal planes, base to apex.
 
 ### Normal sonographic anatomy
+
 | Zone (McNeal) | Glandular share | TRUS appearance | Cancer share |
 |---|---|---|---|
 | Peripheral | ~70% | Homogeneous, echogenic (posterior) | ~70% |
 | Central | ~25% | Echogenic, at base | ~5–10% |
 | Transition | 5–10% (BPH (benign prostatic hyperplasia)) | Heterogeneous, anterior | ~20–25% |
 | Anterior fibromuscular stroma | Non-glandular | Hypoechoic | – |
-- Zones are pathological, not sonographic: TRUS separates echogenic posterior PZ (peripheral zone) from heterogeneous TZ (transition zone). **Corpora amylacea** mark the surgical capsule.
+
+- TRUS separates echogenic posterior PZ (peripheral zone) from heterogeneous TZ (transition zone). **Corpora amylacea** mark the surgical capsule.
 - Seminal vesicles 4.5–5.5 × 2 cm; absent seminal vesicle → ipsilateral renal agenesis in 79%.
 
 ### Measurements
@@ -369,20 +391,19 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 ### Findings
 - **Cancer:** classically a hypoechoic PZ lesion, but **39% are isoechoic**; false positives are BPH nodules, prostatitis and infarcts. Capsular bulge suggests extracapsular extension.
 - **Cysts:** Müllerian (midline), ejaculatory duct cyst (near midline), seminal vesicle cyst (lateral; renal agenesis).
-- Abscess, calculi; treated glands (ADT (androgen deprivation therapy), radiotherapy) become small and hypoechoic.
+- Abscess, calculi.
 
 ### Indications
 - **Guided biopsy:** 12-core systematic ± MRI (magnetic resonance imaging)-targeted fusion.
 - Volume before BPH surgery, brachytherapy, cryotherapy; fiducial markers.
 - **Azoospermia:** ejaculatory duct obstruction (seminal vesicle >1.5 cm wide, dilated ducts, midline cyst).
-- Drainage of prostatic abscess or cysts; haematospermia; recurrence after prostatectomy.
+- Drainage of abscess or cysts; haematospermia.
 
 ### Biopsy notes
-- Periprostatic nerve block. Complications: bleeding, haematospermia, **sepsis** (fluoroquinolone-resistant *E. coli*). The transperineal route lowers infection and is preferred by EAU (European Association of Urology).
+- Periprostatic block. Complications: bleeding, **sepsis** (fluoroquinolone-resistant *E. coli*); the transperineal route lowers infection (EAU (European Association of Urology) preferred).
 
 ### Advances
-- Colour/power Doppler, contrast-enhanced TRUS, **elastography**.
-- **Micro-ultrasound (29 MHz)** with PRI-MUS scoring, detection comparable to mpMRI (multiparametric MRI).
+- Colour Doppler, contrast-enhanced TRUS, **elastography**; **micro-ultrasound (29 MHz)** with PRI-MUS scoring, detection comparable to mpMRI (multiparametric MRI).
 - MRI-first pathway: PROMIS (2017): mpMRI sensitivity 93% vs 48% for TRUS biopsy.
 
 **Diagram to draw:** transverse and sagittal TRUS views labelling PZ, TZ, seminal vesicles and urethra.
@@ -401,15 +422,17 @@ TURBT → chemoRT 64 Gy/32 fr or 55 Gy/20 fr → cystoscopy + biopsy at 3–4 mo
 
 ### Definition
 - **Von Brunn nests** are solid nests of benign urothelial cells lying in the **lamina propria**. They form when the basal layer of the surface urothelium buds downward and the buds pinch off.
-- They are a common, normal or reactive finding, seen in most adult bladders at autopsy, especially at the **trigone and bladder neck**. They also occur in the ureter and renal pelvis.
+- A common normal or reactive finding in most adult bladders, especially at the **trigone and bladder neck**; also in the ureter and renal pelvis.
 
 ### Pathogenesis: the proliferative cystitis spectrum
+
 ```
 Chronic irritation (infection, stones, catheter, outlet obstruction)
    → urothelial buds → von Brunn nests (solid)
    → central degeneration and fluid → cystitis cystica (cysts)
    → glandular (columnar / goblet cell) metaplasia → cystitis glandularis
 ```
+
 | Lesion | Histology | Malignant potential |
 |---|---|---|
 | **Von Brunn nests** | Solid urothelial nests, lamina propria | None |
@@ -418,21 +441,19 @@ Chronic irritation (infection, stones, catheter, outlet obstruction)
 | Cystitis glandularis, **intestinal type** | Goblet cells, mucin | Possible link to **adenocarcinoma** |
 
 ### Clinical features
-- Usually asymptomatic and incidental. When florid: irritative symptoms, haematuria, recurrent infection.
-- Cystoscopy: small yellowish or translucent submucosal nodules or cysts; florid lesions can mimic a tumour.
+- Usually incidental. When florid: irritative symptoms, haematuria, infection; cystoscopy shows submucosal nodules or cysts that can mimic tumour.
 - **Associations:** chronic inflammation, outlet obstruction, **pelvic lipomatosis** (florid cystitis glandularis), bladder exstrophy.
 
 ### Differential diagnosis (pathologist's trap)
-- **Nested variant of urothelial carcinoma:** looks deceptively benign and mimics von Brunn nests, but is aggressive (male:female 6:1). Clues: deep, infiltrative nests reaching the muscularis propria, nuclear atypia, irregular distribution.
+- **Nested variant of urothelial carcinoma:** deceptively bland but aggressive (male:female 6:1). Clues: deep infiltrative nests reaching muscle, nuclear atypia.
 - **Inverted papilloma:** endophytic nests with trabeculae, usually at the trigone.
 - Nephrogenic adenoma; urothelial carcinoma with glandular differentiation.
 
 ### Management
-- No treatment for isolated von Brunn nests.
-- Treat the cause: infection, stone, catheter, outlet obstruction.
+- None for isolated nests; treat the cause (infection, stone, catheter, obstruction).
 - **TURBT (transurethral resection) or biopsy** if a mass is present, to exclude carcinoma.
 - **Cystitis glandularis:** remove the irritant and arrange **endoscopic surveillance**, because rare change to adenocarcinoma is reported (especially the intestinal type and in exstrophy).
-- Upper tract: von Brunn nests are benign, but synchronous or later upper-tract urothelial cancer cannot be excluded, so follow up closely.
+- Upper tract: benign, but coexisting upper-tract urothelial cancer cannot be excluded, so follow up.
 
 **Diagram to draw:** urothelium budding into lamina propria, forming a solid nest, then a cyst, then glandular metaplasia.
 
@@ -447,10 +468,11 @@ Chronic irritation (infection, stones, catheter, outlet obstruction)
 **Type:** SAQ (10 marks)
 
 ### Definition
-- Rare **autosomal recessive** inborn errors of **hepatic glyoxylate metabolism**. Glyoxylate cannot be converted to glycine and is oxidised to oxalate, a metabolic end product cleared only by the kidney.
+- Rare **autosomal recessive** errors of **hepatic glyoxylate metabolism**: glyoxylate is not converted to glycine and is oxidised to oxalate, an end product cleared only by the kidney.
 - Hyperoxaluria = urinary oxalate >40 mg/day; in PH (primary hyperoxaluria) often **>100 mg/day**.
 
 ### Types
+
 | | PH1 (~70%) | PH2 (~10%) | PH3 (~10%) |
 |---|---|---|---|
 | Enzyme (gene) | **AGT** (alanine-glyoxylate aminotransferase; **AGXT**), liver peroxisome, **pyridoxine (B6) cofactor** | GRHPR (glyoxylate reductase/hydroxypyruvate reductase) | HOGA1 (4-hydroxy-2-oxoglutarate aldolase), mitochondria |
@@ -459,28 +481,29 @@ Chronic irritation (infection, stones, catheter, outlet obstruction)
 
 ### Pathophysiology
 - High urinary oxalate → calcium oxalate crystals in tubules → **nephrocalcinosis** and recurrent stones.
-- Renal damage comes from crystal toxicity, obstruction, inflammation and fibrosis.
 - **Vicious circle:** falling GFR (glomerular filtration rate) reduces oxalate clearance → plasma oxalate rises → **systemic oxalosis** (bone, retina, heart, vessels, skin).
 
 ### Clinical features
-- Spectrum from **infantile oxalosis with early renal failure** to occasional stones in adults. Some are diagnosed only when a kidney transplant fails.
-- Clues: stones in childhood, nephrocalcinosis, family history, pure **calcium oxalate monohydrate (whewellite)** stones.
+- Spectrum from **infantile oxalosis with renal failure** to occasional adult stones; some diagnosed only after a transplant fails.
+- Clues: childhood stones, nephrocalcinosis, family history, **calcium oxalate monohydrate** stones.
 
 ### Diagnosis
+
 ```
 24-h urinary oxalate ↑ (child: spot oxalate:creatinine ratio)
    → urinary glycolate / L-glycerate / 4-hydroxy-2-oxoglutarate
    → genetic testing (AGXT, GRHPR, HOGA1)
    all normal → secondary (enteric, dietary) hyperoxaluria
 ```
-- Plasma oxalate when GFR is low; screen siblings; exclude PH in a related living kidney donor.
+
+- Plasma oxalate when GFR is low; screen siblings and related living donors.
 
 ### Management
 - **Hyperhydration** (about 3 L/m²/day), **potassium citrate**, normal (not low) calcium intake.
 - **Pyridoxine** trial in all PH1: responsive mainly with the Gly170Arg mutation; it restores AGT activity and peroxisomal targeting.
 - **Lumasiran** (RNA interference against glycolate oxidase, which cuts glyoxylate supply): **ILLUMINATE-A**: 84% vs 0% reached urinary oxalate ≤1.5 × upper limit of normal. **Also know:** nedosiran.
 - Stones: endourology (ureteroscopy or PCNL (percutaneous nephrolithotomy)); avoid repeated SWL (shock wave lithotripsy) on a nephrocalcinotic kidney.
-- **ESKD:** intensive dialysis before transplant. **Combined liver–kidney transplant for PH1**, because only the liver replaces the enzyme and a kidney alone would be destroyed by continuing oxalate production. Kidney alone usually suffices for PH2.
+- **ESKD:** intensive dialysis, then **combined liver–kidney transplant for PH1** (only the liver replaces the enzyme; a lone kidney would be re-damaged). Kidney alone usually suffices for PH2.
 
 **Diagram to draw:** hepatic glyoxylate pathway showing the AGT block (PH1) and the lumasiran target (glycolate oxidase).
 

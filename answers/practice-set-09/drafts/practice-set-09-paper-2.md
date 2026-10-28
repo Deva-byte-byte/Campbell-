@@ -21,11 +21,10 @@
 ### Introduction
 - The kidney is the **commonest urological organ injured** (up to 5% of all trauma). **Blunt injury causes 80–90%**; firearms cause most penetrating injuries.
 - **Rapid deceleration** stretches the kidney at its fixed points (hilum and UPJ, ureteropelvic junction): arterial intimal tear and thrombosis, vein disruption, pedicle or UPJ avulsion.
-- Most injuries are grade I–III. The modern aim is **renal salvage**.
 
 ### Diagnosis
 **History and examination**
-- **Mechanism is the most important history** (speed, fall height, weapon). Signs: flank bruise or tenderness, **fractured ribs 9–12**, flank or low chest wound.
+- **Mechanism is the key history**. Signs: flank bruise or tenderness, **fractured ribs 9–12**, flank or low chest wound.
 
 **Haematuria**
 - Test the **first urine sample**. Significant: gross haematuria, or microhaematuria (>5 RBC [red blood cells] per high-power field) with **shock (SBP [systolic blood pressure] <90 mmHg)**.
@@ -71,13 +70,13 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
                    enlarges, fever, or pelvis/UPJ injury
 ```
 **Non-operative management**
-- Bed rest until gross haematuria clears; **haemoglobin every 4–6 h**. Succeeds in **>90% of blunt injuries** and selected penetrating injuries.
+- Bed rest, **haemoglobin every 4–6 h**. Succeeds in **>90% of blunt injuries** and selected penetrating ones.
 - Failure: instability, or falling haemoglobin despite 2–3 units of blood.
 - **Reimage at ~48 h** for grade IV–V with deep lacerations, or with fever, pain or falling haematocrit.
 - Urinary extravasation heals spontaneously in **76–90%**.
 
 **Angioembolisation (AE)**
-- Superselective coils for active bleeding, pseudoaneurysm, AVF (arteriovenous fistula) or delayed bleeding; repeat AE often succeeds.
+- Superselective coils for active bleeding, pseudoaneurysm, AVF (arteriovenous fistula) or delayed bleeding.
 
 **Indications for exploration**
 | Absolute | Relative |
@@ -87,10 +86,9 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 | Suspected pedicle avulsion; UPJ avulsion | Associated colon or pancreatic injury |
 
 **Operative steps**
-1. Midline transabdominal approach; life-threatening injuries first.
-2. **Control renal vessels before opening Gerota's fascia**: incise the retroperitoneum over the aorta, find the left renal vein crossing it, loop the vein and arteries.
-3. **Renorrhaphy**: debride, suture-ligate vessels, close the collecting system watertight, close the defect over a bolster, omental cover, drain. Polar injury: partial nephrectomy.
-4. **Nephrectomy** if unreconstructable or unstable. **Damage control**: pack, resuscitate in ICU (intensive care unit), return at 24–48 h.
+1. Midline laparotomy. **Control renal vessels before opening Gerota's fascia**: incise the retroperitoneum over the aorta, find the left renal vein crossing it, loop the vein and arteries.
+2. **Renorrhaphy**: debride, suture-ligate vessels, close the collecting system watertight, close the defect over a bolster, omental cover, drain. Polar injury: partial nephrectomy.
+3. **Nephrectomy** if unreconstructable or unstable. **Damage control**: pack, resuscitate in ICU (intensive care unit), return at 24–48 h.
 
 **Renovascular injury**
 - Unilateral artery thrombosis with a normal other kidney: observe. **Solitary or bilateral: revascularise** (warm ischaemia ideally <120 min) or stent an intimal flap.
@@ -116,8 +114,7 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 **Type:** LAQ (25 marks)
 
 ### Introduction
-- Uric acid stones form **8–10%** of stones in the USA (up to 25% in parts of Germany) and are increasing, in parallel with obesity and diabetes.
-- They are the classic **radiolucent** stone and the only common stone that can be **dissolved medically**.
+- Uric acid stones form **8–10%** of stones in the USA and are increasing with obesity and diabetes. They are **radiolucent** and can be **dissolved medically**.
 
 ### Etiopathogenesis
 **1. Why humans form uric acid stones**
@@ -125,9 +122,8 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 
 **2. Physical chemistry: pH is the key**
 - Uric acid is a weak acid, **pKa about 5.35–5.5**. At pH 5.5 half is free uric acid and half is urate.
-- Free uric acid is poorly soluble (about 96–100 mg/L). Sodium urate is about 20 times more soluble.
-- At pH 5, normal daily excretion (500–600 mg) exceeds solubility. At **pH 6.5, over 90% is ionised** and more than 1200 mg/L stays dissolved.
-- **No natural inhibitor** of uric acid crystallisation is known. So stone formation depends almost entirely on supersaturation.
+- Free uric acid is poorly soluble (about 96–100 mg/L); sodium urate is about 20 times more soluble. At **pH 6.5, over 90% is ionised**.
+- **No natural inhibitor** of uric acid crystallisation is known, so stone formation depends almost entirely on supersaturation.
 
 **3. The three determinants**
 | Determinant | Causes | Importance |
@@ -140,11 +136,10 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 - Insulin normally stimulates **ammonia production** from glutamine in the proximal tubule and the Na⁺/H⁺ exchanger NHE3.
 - Insulin resistance reduces ammonium excretion. Acid is then buffered as titratable acid, so urine pH falls.
 - **Renal lipotoxicity:** fat accumulates in the proximal tubule, which then burns fatty acids instead of glutamine, so ammoniagenesis falls further.
-- Endogenous acid production is also higher. Hence uric acid stones are a **renal manifestation of the metabolic syndrome**; BMI (body mass index) ≥27 kg/m² predicts urine pH ≤5.5. About a third of stones in diabetics are uric acid.
+- Endogenous acid production is also higher. Uric acid stones are thus a **renal manifestation of the metabolic syndrome**; about a third of stones in diabetics are uric acid.
 
 **5. Aetiological categories**
 - **Congenital:** HGPRT (hypoxanthine-guanine phosphoribosyltransferase) deficiency (Lesch–Nyhan), PRPP (phosphoribosylpyrophosphate) synthetase overactivity, hereditary renal hypouricaemia (URAT1, the urate transporter).
-- **Acquired:** chronic diarrhoea, volume loss, myeloproliferative disorders and chemotherapy, high animal protein, uricosuric drugs.
 - **Idiopathic:** low urine pH without gout ("gouty diathesis").
 
 **6. Uric acid and calcium stones**
@@ -152,8 +147,8 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 - **Also know:** ammonium acid urate stones (laxative abuse, diarrhoea, ileostomy); theobromine (cocoa) inhibits uric acid crystallisation in vitro.
 
 ### Diagnosis in brief
-- Radiolucent on plain film; visible on CT at **200–400 HU (Hounsfield units)**; **dual-energy CT** identifies uric acid composition.
-- Urine pH persistently <5.5; rhomboid uric acid crystals. Serum uric acid; 24-hour urine (volume, pH, uric acid). Screen for diabetes and metabolic syndrome.
+- Radiolucent on X-ray; CT **200–400 HU (Hounsfield units)**; **dual-energy CT** identifies uric acid.
+- Urine pH persistently <5.5; serum uric acid; 24-hour urine; screen for diabetes.
 
 ### Rationale of medical management
 **Principle:** uric acid stones are a **"pH disease" more than a uric acid disease**. Raising pH turns insoluble uric acid into soluble urate. Diluting urine lowers supersaturation. Lowering uric acid production helps only when excretion is high.
@@ -167,16 +162,16 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 
 **3. Urinary alkalinisation (mainstay)**
 - **Potassium citrate 30–60 mEq/day** in two or three doses. Citrate is metabolised to bicarbonate, raising urine pH.
-- **Target pH 6.0–6.5** for prevention; **avoid pH >7.0**, which risks calcium phosphate stones.
+- **Target pH 6.0–6.5** for prevention (EAU [European Association of Urology]: 6.2–6.8); **avoid pH >7.0**, which risks calcium phosphate stones.
 - **Why potassium, not sodium:** sodium alkali raises urinary calcium and can cause calcium stones. Sodium bicarbonate or sodium citrate is used if potassium is unsafe (renal impairment, hyperkalaemia).
 - Patients **monitor urine pH with dipsticks**.
 
 **4. Dissolution (oral chemolysis)**
-- Pure uric acid stones dissolve with alkalinisation over weeks to months. **EAU: pH 7.0–7.2** for dissolution, with stent or nephrostomy if obstructed or infected. Monitor by ultrasound or low-dose CT.
+- Pure uric acid stones dissolve over weeks to months. **EAU: pH 7.0–7.2**; stent or nephrostomy if obstructed or infected; monitor by imaging.
 
 **5. Xanthine oxidase inhibitors**
 - **Allopurinol 300 mg/day** lowers uric acid production. It is **not first-line**, because low pH, not hyperuricosuria, is the usual cause.
-- Indications: hyperuricosuria with hyperuricaemia (e.g. gout), recurrence despite adequate alkalinisation (AUA), hyperuricosuric calcium oxalate stones.
+- Indications: hyperuricosuria with hyperuricaemia (e.g. gout), recurrence despite alkalinisation (AUA, American Urological Association), hyperuricosuric calcium oxalate stones.
 - Reduce the dose in renal impairment. Risks: rash; **allopurinol hypersensitivity syndrome** (2–8% have reactions; may be fatal); Stevens–Johnson syndrome.
 - **Febuxostat** is an alternative. **Rasburicase** (recombinant uricase) prevents uric acid nephropathy in tumour lysis.
 
@@ -199,7 +194,7 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 *Assumed meaning: tx = transplant (prospective living kidney donor).*
 
 ### Why it matters
-- The donor loses half the nephron mass; remaining function settles at 60–80% of the pre-donation level. **KDIGO (Kidney Disease: Improving Global Outcomes) 2017** asks for GFR (glomerular filtration rate) by at least two methods, **including a measured one**.
+- The donor loses half the nephron mass; function settles at 60–80% of the pre-donation level. GFR (glomerular filtration rate) is assessed by at least two methods, **including a measured one**.
 
 ### Methods
 **1. Serum creatinine and eGFR (estimated GFR)**
@@ -208,11 +203,11 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 - Less accurate above 60 mL/min, where donors lie: a screening test only.
 
 **2. Cystatin C**
-- 13-kDa protein from all nucleated cells; freely filtered, fully reabsorbed and broken down. Independent of muscle mass; affected by thyroid state, steroids and inflammation.
+- 13-kDa protein from all nucleated cells; freely filtered, then reabsorbed and broken down. Independent of muscle mass; affected by thyroid state, steroids, inflammation.
 - The **combined creatinine–cystatin C equation** is more accurate than either alone.
 
 **3. 24-hour creatinine clearance**
-- (Urine creatinine × volume) ÷ serum creatinine. Collection errors are common.
+- (Urine creatinine × volume) ÷ serum creatinine; collection errors common.
 
 **4. Measured GFR (mGFR): reference**
 | Marker | Method |
@@ -226,12 +221,13 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 **5. Split function**
 - DTPA renogram (or DMSA, dimercaptosuccinic acid) gives each kidney's share. If the difference exceeds 10%, **leave the better kidney with the donor**.
 
-### KDIGO 2017 decision
+### KDIGO (Kidney Disease: Improving Global Outcomes) 2017 decision
 | GFR (mL/min/1.73 m²) | Decision |
 |---|---|
 | **≥90** | Accept |
 | **60–89** | Individualise (age, lifetime risk) |
 | **<60** | Decline |
+- Initial eGFR is confirmed by mGFR, measured creatinine clearance or creatinine–cystatin C eGFR.
 - Indian practice: DTPA GFR with split function, plus CT (computed tomography) angiography.
 
 **Diagram to draw:** plasma tracer clearance curve after a single injection.
@@ -248,14 +244,14 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 (TUR syndrome also answered in 2017-Winter Paper 3, Q3f)
 
 ### Introduction
-- TURP (transurethral resection of the prostate) remains the benchmark. Overall morbidity approaches one-fifth when clot retention, infection, stricture and incontinence are included. Most complications are preventable.
+- TURP (transurethral resection of the prostate) is the benchmark; overall morbidity approaches one-fifth, mostly preventable.
 
 ### Preoperative measures
-- **Selection:** AUA (American Urological Association) 2023: TURP for glands of about 30–80 mL; larger glands suit HoLEP (holmium laser enucleation) or simple prostatectomy.
+- **Selection:** AUA (American Urological Association) 2023: TURP for glands up to 80 mL; larger glands need HoLEP (holmium laser enucleation) or simple prostatectomy.
 - **Sterile urine:** treat UTI (urinary tract infection) first; single-dose prophylaxis covering gram-negatives and enterococci.
 - **Anticoagulants:** stop after advice from the prescriber; if they cannot be stopped, choose HoLEP, ThuLEP or PVP (photoselective vaporisation).
-- **Finasteride** reduces recurrent BPH (benign prostatic hyperplasia) bleeding.
-- Spinal anaesthesia lets early TUR syndrome be seen; padded lithotomy protects the peroneal nerve.
+- **Finasteride** for recurrent BPH (benign prostatic hyperplasia) bleeding.
+- Spinal anaesthesia shows early TUR syndrome; pad the peroneal nerve.
 
 ### Intraoperative measures
 | Complication | Prevention |
@@ -267,13 +263,12 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 | **Incontinence** | **Stop at the verumontanum**; resect apex last in a bloodless field |
 | **Stricture** | Calibrate or dilate meatus, lubricate generously, correct sheath size |
 | **Bladder neck contracture** | Avoid over-resection and excess fulguration of a small bladder neck; consider TUIP (transurethral incision of the prostate) for small glands |
-- Remove all chips (Ellik evacuator).
 
 ### Postoperative measures
 - Large-bore three-way catheter; careful **continuous bladder irrigation** (blocked outflow distends the bladder and worsens bleeding).
-- Remember 800–1000 mL of irrigant is absorbed even in routine cases; check sodium if confused.
+- Even routine cases absorb 800–1000 mL of irrigant; check sodium if confused.
 - TUR syndrome treatment: **3% saline 100 mL** boluses; raise sodium by no more than 12 mEq/L in 24 h (pontine myelinolysis).
-- Stool softeners; avoid straining and cycling for 4–6 weeks; counsel about **retrograde ejaculation** (about two-thirds).
+- Stool softeners; no cycling for 4–6 weeks; counsel about **retrograde ejaculation** (about two-thirds).
 
 **Diagram to draw:** resection field from bladder neck to verumontanum with the external sphincter marked.
 
@@ -305,14 +300,12 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 1. **Diagnosis:** separates benign from malignant flat lesions in real time; fewer unnecessary biopsies.
 2. **Staging aid:** suggests Ta versus T1 during TURBT (transurethral resection of bladder tumour).
 3. **Resection margins:** checks completeness of TURBT.
-4. **Surveillance:** may help follow-up after BCG (bacille Calmette–Guérin) or office-based fulguration.
+4. **Surveillance** of NMIBC (non-muscle-invasive bladder cancer), including after BCG (bacille Calmette–Guérin).
 5. **Upper tract:** through the ureteroscope, OCT correlates well with final grade and stage of UTUC (upper tract urothelial carcinoma).
-- Campbell lists OCT among enhanced cystoscopic techniques for NMIBC (non-muscle-invasive bladder cancer).
 
 ### Evidence and limitations
 - Small studies: **high sensitivity, lower specificity**. Inflammation, scar and post-BCG change mimic tumour; adding OCT to blue light improves specificity.
-- Small field of view; too shallow to stage muscle invasion; cannot grade (no cellular detail); cost; learning curve.
-- **Investigational**: not in routine guideline use.
+- Small field; too shallow for muscle invasion; cannot grade; cost; learning curve. **Investigational.**
 
 ### Related techniques
 - **Blue-light (hexaminolevulinate) cystoscopy:** detects more CIS (carcinoma in situ).
@@ -384,7 +377,7 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 
 ### Definition
 - **MSK (medullary sponge kidney; precalyceal canalicular ectasia):** dilated (ectatic) distal **collecting ducts** with small cysts and diverticula **confined to the medullary pyramids**. Nephrons are initially normal.
-- Usually **non-heritable** (sporadic); classed among non-heritable cystic diseases. Usually bilateral.
+- Usually **non-heritable** (sporadic); usually bilateral.
 
 ### Pathogenesis of stones and nephrocalcinosis
 - **Stasis and infection** in the ectatic ducts favour crystal deposition.
@@ -397,8 +390,8 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 
 ### Clinical features
 - Often silent for life; presents **after 20 years**.
-- **Renal colic 50–60%**, UTI (urinary tract infection) 20–33%, gross haematuria 10–18%. Commoner in women.
-- Found in **2.6–21% of stone formers**.
+- **Renal colic 50–60%**, UTI (urinary tract infection) 20–33%, gross haematuria 10–18%.
+- Found in **2.6–21% of stone formers**, more often women.
 
 ### Diagnosis
 - **Urographic triad:**
@@ -434,9 +427,8 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 *Indian law; not covered in the chapter notes.*
 
 ### Background
-- **THOA (Transplantation of Human Organs Act) 1994** regulated removal, storage and transplantation of organs, prevented commercial dealing and legalised **brain-stem death**.
-- Problems: organ trade continued, deceased donation remained low, and tissues were not covered.
-- **Transplantation of Human Organs (Amendment) Act 2011** addressed these; detailed **Rules followed in 2014**.
+- **THOA (Transplantation of Human Organs Act) 1994** regulated organ transplantation, banned commercial dealing and legalised **brain-stem death**.
+- Organ trade continued and deceased donation stayed low. The **Transplantation of Human Organs (Amendment) Act 2011** responded; **Rules followed in 2014**.
 
 ### Main amendments
 | Area | Change |
@@ -460,9 +452,6 @@ Stable → CT staging → non-operative for grade I-V (selected IV-V)
 ### Safeguards retained
 - Unrelated donors ("affection or attachment") and foreigners need **Authorisation Committee** approval.
 - Minors and mentally ill persons cannot be living donors except in exceptional, approved cases.
-
-### Impact
-- More living donor options (swap, grandparents), wider deceased-donation network and tighter control of organ trade.
 
 **Diagram to draw:** flowchart: potential donor in ICU → required request → transplant coordinator → brain-stem death board → retrieval → national registry and allocation.
 

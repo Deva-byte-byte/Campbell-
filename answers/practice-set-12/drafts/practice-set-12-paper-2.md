@@ -20,9 +20,9 @@
 *Assumed meaning: 6 months after RP (radical prostatectomy) the PSA (prostate-specific antigen) never became undetectable and is now ≥2 ng/mL, i.e. PSA persistence with early rise, suggesting residual or systemic disease.*
 
 ### Introduction
-- After RP the PSA should fall to undetectable (<0.1 ng/mL) within about 6 weeks, because PSA has a half-life of about 3 days.
+- After RP, PSA (half-life about 3 days) should become undetectable (<0.1 ng/mL) within about 6 weeks.
 - **PSA persistence:** failure to become undetectable after RP. **BCR (biochemical recurrence):** a rise after an undetectable nadir.
-- **Gleason 4+3 = grade group 3** (unfavourable intermediate risk). A PSA of ≥2 ng/mL within 6 months is an adverse sign.
+- **Gleason 4+3 = grade group 3** (unfavourable intermediate risk).
 
 ### Definitions of BCR after RP
 | Body | Definition |
@@ -30,7 +30,6 @@
 | AUA (American Urological Association) | PSA ≥0.2 ng/mL |
 | NCCN (National Comprehensive Cancer Network) | Failure to reach undetectable, two consecutive rises, or PSA ≥0.1 ng/mL |
 | **EAU (European Association of Urology) risk groups** | **Low risk:** PSADT (PSA doubling time) >1 year **and** grade group <4. **High risk:** PSADT ≤1 year **or** grade group 4–5 |
-- After radiotherapy the Phoenix definition (nadir + 2 ng/mL) applies instead.
 
 ### Why is the PSA high? (sources)
 1. **Residual local disease:** positive margin (the only modifiable factor), residual benign tissue (low, stable PSA).
@@ -39,7 +38,7 @@
 
 ### Evaluation
 - **Repeat PSA** to confirm; calculate PSADT.
-- **Review pathology:** pT stage, margin (length >1 mm, Gleason 4 at margin), seminal vesicles, nodes. **Also know:** nomograms (MSK [Memorial Sloan Kettering], CAPRA-S [Cancer of the Prostate Risk Assessment–Surgery]); genomic classifiers (Decipher).
+- **Review pathology:** pT stage, margin (length >1 mm, Gleason 4 at margin), seminal vesicles, nodes. **Also know:** CAPRA-S (Cancer of the Prostate Risk Assessment–Surgery) nomogram; Decipher genomic classifier.
 - **PSMA (prostate-specific membrane antigen) PET/CT (positron emission tomography/computed tomography):** best test; detection about half below 0.5 ng/mL and nearly 100% above 2 ng/mL. Choline or fluciclovine if PSMA is unavailable.
 - **mpMRI (multiparametric MRI) pelvis:** best for local recurrence in the prostatic fossa.
 - CT and bone scan are rarely positive below PSA 10 ng/mL.
@@ -54,7 +53,7 @@ Confirm PSA, PSADT, pathology → PSMA PET ± mpMRI
 ```
 **1. Salvage RT (radiotherapy): the only curative option**
 - Dose **≥64–66 Gy** to the bed (SAKK 09/10: 70 Gy gave no gain over 64 Gy); 40–45 Gy to pelvic nodes.
-- Best at the lowest PSA: each 0.1 ng/mL lost costs about 2.6% recurrence-free survival.
+- Best at the lowest PSA: each 0.1 ng/mL costs about 2.6% recurrence-free survival.
 - **RADICALS-RT, RAVES, GETUG-AFU 17 (ARTISTIC meta-analysis):** early salvage at PSA 0.1–0.2 equals adjuvant RT and spares ≥60% from RT. These apply to men who become undetectable, not to this patient.
 
 **2. Add ADT (androgen deprivation therapy) to salvage RT: essential here**
@@ -67,17 +66,16 @@ Confirm PSA, PSADT, pathology → PSMA PET ± mpMRI
 - At PSA ≥2 ng/mL with grade group 3, give whole-pelvis RT with **long-course (about 2 years) ADT**.
 
 **3. Systemic therapy**
-- **PSMA-positive metastases:** ADT + ARPI (androgen receptor pathway inhibitor: abiraterone, enzalutamide, apalutamide) ± docetaxel (LATITUDE, ARCHES, TITAN, PEACE-1, ARASENS).
+- **PSMA-positive metastases:** ADT + ARPI (androgen receptor pathway inhibitor: abiraterone, enzalutamide, apalutamide) ± docetaxel (LATITUDE, ARCHES, PEACE-1, ARASENS).
 - **Oligometastases (≤3):** MDT (metastasis-directed therapy) by SBRT (stereotactic body RT) delays ADT (**STOMP:** ADT-free survival 21 vs 13 months; **ORIOLE:** progression 19% vs 61%).
 - **High-risk BCR not fit for salvage:** **EMBARK** (PSADT ≤9 months, PSA ≥1 ng/mL): enzalutamide + leuprolide, MFS HR (hazard ratio) 0.42.
-- **ADT forms:** orchidectomy, LHRH (luteinising hormone–releasing hormone) agonist or antagonist; castrate testosterone <50 ng/dL. Intermittent ADT acceptable for non-metastatic rising PSA (PR.7).
-- **Also know:** observation only for EAU low-risk BCR or short life expectancy; salvage lymph node dissection is investigational.
+- **Also know:** castrate testosterone <50 ng/dL; intermittent ADT acceptable (PR.7); observation only for EAU low-risk BCR or short life expectancy; salvage lymph node dissection is investigational.
 
 ### Prognosis
 - **Untreated BCR (Pound):** metastasis in about one-third, median 8 years; death a median 5 years later. Predictors: **BCR <2 years, PSADT <10 months, Gleason 8–10.**
 - **This patient is poor-risk:** persistent PSA, high level within 6 months, likely short PSADT. Persistent PSA carries a higher risk of metastasis than late BCR.
 - **Salvage RT:** one-third to one-half BCR-free at 4–5 years; poorer above PSA 0.5–1 ng/mL. Cancer-specific survival gain mainly with PSADT <6 months treated within 2 years.
-- Even with metastasis, modern ADT combinations give median survival of several years. Lifelong PSA follow-up.
+- Lifelong PSA follow-up.
 
 **Diagram to draw:** the treatment flowchart above, with PSA kinetics curve after RP.
 
@@ -170,7 +168,6 @@ Confirm PSA, PSADT, pathology → PSMA PET ± mpMRI
 | **Inside-out on the artery** | Tacks down plaque and intima |
 | Carrel triangulation or parachute; interrupted in children | Clear back wall; allows growth |
 | Flush before last knot; leave "growth factor"; release venous clamp first | Removes air and clot; avoids purse-string |
-- **Types:** end-to-end, end-to-side (commonest), side-to-side, patch (Carrel).
 
 ### Options for HD vascular access
 | Option | Description |
@@ -201,7 +198,7 @@ Confirm PSA, PSADT, pathology → PSMA PET ± mpMRI
 (also answered in 2020-Summer Paper 4, Q2)
 
 ### Aims
-- Relieve pain, dissolve suitable stones and **prevent recurrence** (up to 50% at 5 years). Medical therapy targets the metabolic cause.
+- Relieve pain, dissolve suitable stones and **prevent recurrence** (up to 50% at 5 years).
 
 ### 1. Acute care
 - **NSAIDs (non-steroidal anti-inflammatory drugs)** first line; opioids if refractory. Urgent drainage if infection with obstruction.
@@ -249,7 +246,6 @@ Confirm PSA, PSADT, pathology → PSMA PET ± mpMRI
 - **Mesonephric (Wolffian) duct entry** is the landmark:
   - **Cranial vesicourethral canal** (continuous with the allantois) → **bladder and pelvic urethra**.
   - **Caudal (definitive) UGS** → phallic urethra (male); distal vagina and vestibule (female).
-- The whole female urethra comes from the pelvic part.
 
 ### 2. Layers of the wall
 - **Urothelium:** UGS endoderm.
@@ -275,7 +271,6 @@ Confirm PSA, PSADT, pathology → PSMA PET ± mpMRI
 | Agenesis, duplication | UGS or trigone failure; septation |
 | Congenital (Hutch) diverticulum | Detrusor deficiency at the ureteric hiatus |
 | VUR, ectopic ureter | Abnormal bud position |
-| Cloacal anomaly | Failed cloacal division |
 
 **Diagram to draw:** cloaca divided by the urorectal septum, labelled vesicourethral canal, UGS, allantois.
 
@@ -305,19 +300,19 @@ Confirm PSA, PSADT, pathology → PSMA PET ± mpMRI
 ### Pharmacology and dose
 - **0.4 mg once daily** after the same meal (up to 0.8 mg); no titration.
 - Modified release; hepatic metabolism (CYP3A4, CYP2D6); avoid strong CYP3A4 inhibitors (ketoconazole).
-- Flow rises within 4–8 hours, symptoms by 1 week; near-maximal by 8 weeks. 0.2 mg is not better than placebo.
+- Flow rises within 4–8 hours, symptoms by 1 week; 0.2 mg is not better than placebo.
 
 ### Indications
 1. **BPH/LUTS:** IPSS (International Prostate Symptom Score) falls about 30–40%; Qmax rises; storage and nocturia improve.
 2. **Combination with 5ARI** (5α-reductase inhibitor) for prostate >30–40 mL: **CombAT** (dutasteride + tamsulosin) and MTOPS (combination cut progression by 66%).
 3. **MET (medical expulsive therapy):** distal ureteric stones 5–10 mm; SUSPEND (2015) negative overall but included all sizes.
 4. **AUR (acute urinary retention):** before trial without catheter.
-5. **Also know:** ureteric stent symptoms; female functional outlet obstruction; prevention of postoperative retention (mixed evidence).
+5. **Also know:** ureteric stent symptoms; female functional outlet obstruction.
 
 ### Adverse effects
 - **Ejaculatory dysfunction** (dose-dependent; less than silodosin): retrograde ejaculation from bladder-neck relaxation, or anejaculation (emission failure).
 - **IFIS:** floppy, billowing iris, iris prolapse, progressive miosis during cataract surgery; **highest risk with tamsulosin**. Stopping the drug does not remove the risk, so warn the ophthalmologist.
-- Dizziness, rhinitis, headache; orthostatic hypotension is less than with non-selective agents. Caution with sulfonamide allergy.
+- Dizziness, rhinitis, headache; less orthostatic hypotension than non-selective agents. Caution: sulfonamide allergy.
 
 ### Comparison
 | | Tamsulosin | Silodosin | Alfuzosin |
@@ -402,9 +397,6 @@ Detrusor hypertrophy, collagen, low compliance → poor sensation, rising residu
 - **Non-tunnelled CVC (central venous catheter):** dual-lumen 10–12 Fr, internal jugular or femoral vein by **ultrasound-guided Seldinger**; for AKI (acute kidney injury); avoid subclavian (central stenosis).
 - **Tunnelled cuffed CVC:** right internal jugular, tip at the cavoatrial junction under fluoroscopy; bridge to AVF.
 - **AVF (arteriovenous fistula)** first choice, then **AVG (arteriovenous graft)**; HeRO and endovascular AVF in selected patients (see Practice Set 12 Paper 2, Q3a).
-
-### C. Continuous therapies
-- **CRRT (continuous renal replacement therapy)** for unstable AKI uses a dual-lumen CVC.
 
 **Diagram to draw:** Tenckhoff catheter with two cuffs, tunnel, downward exit and pelvic tip.
 

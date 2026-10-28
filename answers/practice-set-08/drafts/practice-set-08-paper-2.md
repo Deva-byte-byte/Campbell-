@@ -287,7 +287,7 @@ Informed man, life expectancy >10–15 y
 | Craniospinal haemangioblastoma (cerebellum commonest) | 60–80% |
 | Retinal angioma (earliest) | 25–60% |
 | **Clear cell RCC** (mean age 39) | 25–75% |
-| Renal cysts (commonest renal lesion) | 20–60%+ |
+| Renal cysts (commonest renal lesion) | Up to 76% |
 | **Phaeochromocytoma** | 10–25% |
 | Pancreatic cysts / neuroendocrine tumours | 45–75% / 11–17% |
 | Epididymal cystadenoma | 25–60% of men |
@@ -356,7 +356,7 @@ Blood at meatus → RUG
   Partial → one gentle catheter attempt
   Complete → suprapubic catheter (± primary realignment if stable)
   Bladder neck / rectal injury → immediate repair
-Delayed (≥3 months) → up-and-down-o-gram → perineal excision
+Delayed (2–3 months) → up-and-down-o-gram → perineal excision
   and primary anastomosis (corporal split → pubectomy → rerouting)
 ```
 
@@ -441,7 +441,7 @@ Delayed (≥3 months) → up-and-down-o-gram → perineal excision
 
 ### 3. BCG immunotherapy
 - **Mechanism:** BCG binds **fibronectin** → cytokines → **Th1 (T-helper 1)** response kills tumour.
-- Start 2–4 weeks after TURBT; retain 2 hours.
+- Start 2–4 weeks after TURBT; retain 1–2 hours.
 - **SWOG schedule:** 6 weekly induction, then 3 weekly doses at 3, 6 months and every 6 months for 3 years. **NIMBUS:** reduced frequency inferior.
 - Contraindications: gross haematuria, traumatic catheterisation, active UTI (urinary tract infection), previous BCG sepsis.
 - **Toxicity:** cystitis (symptomatic); persistent fever: isoniazid + rifampicin; sepsis (0.5%): stop BCG, triple therapy (not pyrazinamide) ± steroids.
