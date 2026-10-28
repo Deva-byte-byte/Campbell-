@@ -44,7 +44,7 @@
 
 - **Apnoea test (last):** pre-oxygenate with 100% oxygen; disconnect the ventilator with oxygen insufflation; **no breathing effort at PaCO₂ (arterial carbon dioxide tension) ≥60 mmHg**. Abort for hypotension, desaturation or arrhythmia.
 - **Two sets of tests at least 6 hours apart**; **Form 10**. Ancillary tests (angiography, perfusion scan) only if examination is impossible.
-- **Consent** of the near relative (Form 8). Medico-legal case: inform police; retrieval must not hinder post-mortem.
+- **Consent** of near relative (Form 8); in medico-legal cases inform police.
 
 ### 3. Maintenance (donor management)
 - **Why:** herniation causes a **catecholamine storm**, then loss of sympathetic tone (hypotension), **diabetes insipidus (DI)**, hypothermia, DIC (disseminated intravascular coagulation), low thyroid hormone and cortisol, and pulmonary oedema.
@@ -170,7 +170,7 @@ Back pain ± weakness, sensory level, sphincter change
 | **BCG-unresponsive** | Persistent or recurrent CIS (carcinoma in situ) or HG (high-grade) Ta/T1 despite adequate BCG; or HG relapse within **6 months (Ta/T1) or 12 months (CIS)** of last dose; **HG T1 at first 3-month check** | More BCG futile; cystectomy |
 | **BCG-resistant** | CIS or HG Ta at 3 months after induction | Reinduction: 30–50% respond |
 | Delayed relapse | HG relapse beyond these windows | Rechallenge may work |
-| **BCG-intolerant** | Disease persists because toxicity stopped BCG | Salvage chemotherapy |
+| **BCG-intolerant** | Toxicity prevented adequate BCG | Salvage chemotherapy |
 
 - **Why BCG fails:** inadequate dosing; PD-L1 (programmed death-ligand 1) upregulation on tumour cells.
 
@@ -264,7 +264,7 @@ Stable → non-operative: bed rest, serial haemoglobin every 4-6 h
         or UPJ / pelvis injury
 ```
 - **Non-operative success** about 85% for grade IV–V even in penetrating series; most failures need only AE, stent or nephrostomy.
-- **Failure:** instability, fall in haemoglobin despite 2–3 units of blood.
+- **Failure:** instability; falling haemoglobin despite 2–3 units.
 - **Repeat CT at ~48 hours** for deep lacerations or fever, pain, falling haematocrit (routine reimaging debated).
 - **Exploration:** pulsatile expanding haematoma, instability, UPJ avulsion. Control vessels before opening Gerota's fascia; renorrhaphy or partial nephrectomy; omental cover; drain. Devitalised parenchyma >25% lowers the threshold.
 
@@ -272,7 +272,7 @@ Stable → non-operative: bed rest, serial haemoglobin every 4-6 h
 - Delayed bleeding (within 3 weeks; embolise); urinoma, abscess; **hypertension** (Page kidney, segmental ischaemia, AVF); function loss.
 
 ### Follow-up
-- Blood pressure, urinalysis, creatinine. EAU (European Association of Urology): DMSA (dimercaptosuccinic acid) scan for salvaged grade III–V kidneys.
+- Blood pressure, urinalysis, creatinine; DMSA (dimercaptosuccinic acid) scan for salvaged kidneys (EAU, European Association of Urology).
 
 **Diagram to draw:** kidney with laceration into a calyx, urinoma and segmental pseudoaneurysm.
 
@@ -345,7 +345,7 @@ Adrenal mass ≥1 cm
 
 | Abnormality | Mechanism | Management |
 |---|---|---|
-| **Sodium and water** | Fixed urine concentration; sodium retention → volume overload, hypertension | Salt restriction; diuretics (thiazide-like such as chlorthalidone work even in advanced CKD) |
+| **Sodium and water** | Fixed urine concentration; sodium retention → overload, hypertension | Salt restriction; diuretics (chlorthalidone works even in advanced CKD) |
 | **Hyperkalaemia** | Less distal sodium delivery; RAAS (renin–angiotensin–aldosterone system) blockers lower aldosterone | Potassium binders and diuretics, so RAAS blockers can continue |
 | **Metabolic acidosis** | Less ammonium excretion; retained sulphate and phosphate (anion gap rises late); bicarbonate loss | Sodium bicarbonate or citrate to keep bicarbonate **≥22 mEq/L**; slows progression, protects bone and muscle |
 | **CKD-MBD** (mineral and bone disorder) | Phosphate retention → FGF-23 (fibroblast growth factor 23) rises → less **calcitriol** → hypocalcaemia → **secondary hyperparathyroidism** | Phosphate restriction, binders with meals, active vitamin D; calcimimetic; parathyroidectomy if tertiary |

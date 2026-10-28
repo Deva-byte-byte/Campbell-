@@ -204,7 +204,7 @@ Scars -> lifelong BP and proteinuria checks
 
 ### Telomeres
 - **Telomeres** are repetitive sequences (TTAGGG repeats) at chromosome ends. They protect ends from degradation and fusion.
-- DNA polymerase cannot copy the very end of the lagging strand (end-replication problem). So about **100 bp are lost per division**: the "mitotic clock".
+- DNA polymerase cannot copy the very end of the lagging strand (end-replication problem). So about **100 base pairs are lost per division**: the "mitotic clock".
 - Critical shortening triggers **replicative senescence** (Hayflick limit).
 
 ### Telomerase: structure and function
@@ -226,7 +226,7 @@ Proliferation -> moderate shortening -> senescence/apoptosis (barrier 1)
 
 | Organ | Finding |
 |---|---|
-| **Bladder** | TERT promoter mutation is the commonest mutation (over 60% even in PUNLMP, papillary urothelial neoplasm of low malignant potential). Urine markers: telomerase activity by **TRAP (telomeric repeat amplification protocol)**, a PCR (polymerase chain reaction)-based assay; hTERT mRNA; AssureMDx (FGFR3, TERT, HRAS mutations plus methylation). Inflammation gives false positives; not routine |
+| **Bladder** | TERT promoter mutation is the commonest mutation (over 60% even in PUNLMP, papillary urothelial neoplasm of low malignant potential). Urine markers: telomerase activity by **TRAP (telomeric repeat amplification protocol)**, a PCR (polymerase chain reaction)-based assay; hTERT messenger RNA; AssureMDx (FGFR3, TERT, HRAS mutations plus methylation). Inflammation gives false positives; not routine |
 | **Upper tract** | hTR positive in almost all UTUC (upper tract urothelial carcinoma); rises with stage |
 | **Prostate** | Short telomeres in cancer and premalignant lesions; short tumour telomeres predict recurrence; variable stromal telomeres predict cancer death |
 
@@ -265,7 +265,7 @@ Proliferation -> moderate shortening -> senescence/apoptosis (barrier 1)
 *Assumed meaning: "Gu Kochs" = genitourinary tuberculosis.*
 
 ### Principle
-- GUTB (genitourinary tuberculosis) is paucibacillary with intermittent shedding: send **3–5 early-morning urine samples (EMU)** on consecutive days, processed at once.
+- GUTB (genitourinary tuberculosis, TB) is paucibacillary with intermittent shedding: send **3–5 early-morning urine samples (EMU)** on consecutive days, processed at once.
 - **Hierarchy of proof:** culture or DNA → caseating granuloma → response to treatment.
 
 ### Newer modalities
@@ -273,7 +273,7 @@ Proliferation -> moderate shortening -> senescence/apoptosis (barrier 1)
 - **NAAT (nucleic acid amplification test): GeneXpert MTB/RIF** (Xpert Ultra more sensitive): automated cartridge PCR (polymerase chain reaction), about 2 hours; detects **rifampicin resistance** (MDR (multidrug-resistant) TB surrogate). Also TrueNat; **LPA (line probe assay)** for isoniazid resistance.
 - **Urine LF-LAM (lateral-flow lipoarabinomannan):** strip, under 30 minutes; WHO (World Health Organization) 2019: HIV (human immunodeficiency virus) with symptoms, advanced disease or CD4 under 200.
 - **IGRA (interferon-γ release assay):** unaffected by BCG (bacille Calmette–Guérin).
-- **Imaging:** CT (computed tomography) urography; **MR urography with DWI (diffusion-weighted imaging)** grades fibrosis.
+- **Imaging:** CT (computed tomography) urography; **MR (magnetic resonance) urography with DWI (diffusion-weighted imaging)** grades fibrosis.
 
 ### Role of present tests
 
@@ -292,11 +292,11 @@ Proliferation -> moderate shortening -> senescence/apoptosis (barrier 1)
 
 ### Diagnostic algorithm
 ```
-Suspicion (sterile pyuria, LUTS, epididymal nodule)
+Suspicion (sterile pyuria, storage symptoms, epididymal nodule)
 -> 3-5 EMU: ZN + culture (LJ + MGIT) + Xpert
 -> chest X-ray; CT urography
 Positive -> treat; DST guides regimen
-Negative -> cystoscopy/biopsy, FNAC + NAAT on tissue
+Negative -> cystoscopy/biopsy, aspiration + NAAT on tissue
 Still negative -> empirical trial if clinically compatible
 ```
 
@@ -363,10 +363,10 @@ Still negative -> empirical trial if clinically compatible
 
 | Area | Advance and evidence |
 |---|---|
-| **Planning** | R.E.N.A.L. (Radius, Exophytic, Nearness, Anterior/posterior, Location) and PADUA scores; **3D (three-dimensional) models**: randomised trial showed shorter operation and ischaemia, less blood loss |
+| **Planning** | R.E.N.A.L. (Radius, Exophytic, Nearness, Anterior/posterior, Location) and PADUA (Preoperative Aspects and Dimensions Used for an Anatomical) scores; **3D (three-dimensional) models**: randomised trial showed shorter operation and ischaemia, less blood loss |
 | **Platform** | **RAPN (robot-assisted PN):** shorter warm ischaemia than laparoscopic; less blood loss than open. **Single-port robot:** shorter stay, less opioid |
 | **Vascular control** | Off-clamp, selective or super-selective clamping (guided by **NIRF (near-infrared fluorescence)** with indocyanine green), early unclamping. **Randomised trials: no long-term eGFR (estimated glomerular filtration rate) gain** |
-| **Excision** | **Enucleation** along the pseudocapsule: less blood and function loss; for hereditary, multifocal, solitary kidney |
+| **Excision** | **Enucleation** along the pseudocapsule: less blood loss; hereditary, multifocal, solitary kidney |
 | **Reconstruction** | Sliding-clip and **barbed suture** renorrhaphy; single-layer gives better function, fewer pseudoaneurysms; sutureless with sealants in selected |
 | Outcome reporting | **Trifecta:** negative margin + no major complication + warm ischaemia ≤25 minutes |
 
@@ -375,7 +375,7 @@ Still negative -> empirical trial if clinically compatible
 ### Role of neoadjuvant therapy
 - **Aim:** downsize a tumour so that PN becomes possible, mainly an **imperative indication** (solitary kidney, bilateral tumours) where radical nephrectomy means dialysis.
 - **TKIs (tyrosine kinase inhibitors):** pazopanib, sunitinib, axitinib. Tumour volume falls **10–30%**; resection becomes possible in **40–45%**, including PN candidates. Best in clear cell RCC (renal cell carcinoma).
-- **Toxicity:** serious adverse events about 20%, mainly **wound healing** and urine leak. Stop TKIs for several half-lives before and after surgery.
+- **Toxicity:** serious adverse events about 20%, mainly **wound healing**. Stop TKIs several half-lives before and after surgery.
 - **Checkpoint inhibitors:** nivolumab is safe but shrinks little; trials ongoing.
 - **Status:** investigational; **upfront surgery whenever feasible**. Adjuvant pembrolizumab (KEYNOTE-564) suits high-risk resected disease.
 
