@@ -133,7 +133,7 @@ M1  → systemic therapy
 - **pN+:** adjuvant ADT (ECOG 7887: better survival) ± RT.
 
 **3. ADT alone**
-- For men unfit for, or declining, local therapy. Early ADT delays progression; survival gain mainly in aggressive disease.
+- For men unfit for, or declining, local therapy. Early ADT delays progression; survival gain mainly in aggressive disease. In fit men it is inferior to ADT + RT.
 - Options: bilateral orchidectomy, LHRH (luteinising hormone-releasing hormone) agonist or antagonist; bicalutamide 150 mg monotherapy preserves libido.
 
 **4. Others**
@@ -156,7 +156,7 @@ M1  → systemic therapy
 | Sexual dysfunction | Loss of libido, ED (erectile dysfunction), penile shortening; ED aids help selected men |
 | Osteoporosis, fractures | Fracture risk up 20–45%; baseline DEXA (dual-energy X-ray absorptiometry), FRAX; calcium, vitamin D, exercise; **denosumab 60 mg 6-monthly** or zoledronic acid |
 | Metabolic | Weight gain, fat gain, **sarcopenia**, insulin resistance, diabetes (HR about 1.34), metabolic syndrome |
-| Cardiovascular | Coronary events, thromboembolism; fewer than with LHRH agonists |
+| Cardiovascular | Coronary events, sudden cardiac death, thromboembolism |
 | Anaemia | Normocytic; reversible after stopping |
 | Others | Gynaecomastia (≤5%), fatigue, depression, cognitive change |
 
@@ -179,12 +179,11 @@ M1  → systemic therapy
 *Assumed meaning: videourodynamics (VUDS), i.e. urodynamics with simultaneous fluoroscopic imaging of the bladder and urethra.*
 
 ### Definition
-- **VUDS:** multichannel urodynamics (pressure–flow, with or without EMG [electromyography]) recorded together with fluoroscopy, using **contrast as the filling fluid**. It is the most precise test of lower urinary tract function.
+- **VUDS:** multichannel urodynamics (pressure–flow ± EMG [electromyography]) recorded with fluoroscopy, using **contrast as the filling fluid**.
 
 ### Set-up
-- Vesical and rectal catheters (Pdet [detrusor pressure] = Pves − Pabd), flowmeter, EMG; C-arm (most flexible) or tilting table.
-- SUI (stress urinary incontinence) views standing; voiding in the usual position (women sitting, men standing).
-- **Screen only at key moments** (provocation, pressure rise, voiding) to limit radiation.
+- Vesical and rectal catheters (Pdet [detrusor pressure] = Pves − Pabd), flowmeter, EMG; C-arm or tilting table.
+- SUI (stress urinary incontinence) views standing; void in the usual position. **Screen only at key moments** (provocation, pressure rise, voiding).
 
 ### What fluoroscopy adds
 | Situation | VUDS finding |
@@ -193,21 +192,18 @@ M1  → systemic therapy
 | **VUR** (vesicoureteric reflux) | Pressure and volume at onset, grade; reflux "pops off" pressure, so compliance looks falsely safe |
 | **Bladder neck** | Only way to assess it; **PBNO** (primary bladder neck obstruction) |
 | Female obstruction | **Nitti criteria:** radiographic narrowing between bladder neck and meatus with a sustained detrusor contraction |
-| Dysfunctional voiding | "Spinning-top" urethra at the external sphincter; more accurate than surface EMG |
+| Dysfunctional voiding | "Spinning-top" urethra at the external sphincter |
 | SUI | Leakage with ALPP (abdominal leak point pressure); open bladder neck at rest suggests ISD (intrinsic sphincter deficiency) |
 | Male obstruction | Localises prostatic obstruction, bladder neck contracture or stricture |
 
 **PBNO in young men:** type I high pressure, low flow; type II normal pressure, low flow, narrow bladder neck; type III delayed bladder-neck opening.
 
 ### Indications
-- Known or suspected NLUTD; unexplained retention in women; young men with LUTS (lower urinary tract symptoms); complex or recurrent incontinence; prior radical pelvic surgery or radiation; urinary diversion; before or after renal transplant.
-- Children: PUV (posterior urethral valves), spinal dysraphism.
-
-### Risk factors it shows
-- Poor compliance, DLPP (detrusor leak point pressure) >40 cm H₂O, high-pressure detrusor overactivity, DESD.
+- Known or suspected NLUTD; unexplained retention in women; young men with LUTS (lower urinary tract symptoms); complex incontinence; prior radical pelvic surgery or radiation; diversion; renal transplant; children with PUV (posterior urethral valves) or dysraphism.
+- Shows risk factors: poor compliance, DLPP (detrusor leak point pressure) >40 cm H₂O, DESD.
 
 ### Limitations
-- Radiation, cost, space, contrast allergy. EAU: optimum test in NLUTD; AUA/SUFU (Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction): lowest dose that answers the question.
+- Radiation, cost, space, contrast allergy. EAU (European Association of Urology): optimum test in NLUTD; AUA (American Urological Association): lowest dose that answers the question.
 
 **Diagram to draw:** VUDS trace (Pves, Pabd, Pdet, flow, EMG) beside a voiding cystourethrogram image.
 
@@ -223,17 +219,17 @@ M1  → systemic therapy
 (posterior urethral injury also answered in Practice Set 5 Paper 3, Q1)
 
 ### Principles
-- Key acute decision: **immediate repair versus deliberate delay**. Immediate repair suits clean, localised injuries (penile fracture, low-velocity wounds). PFUI (pelvic fracture urethral injury) is drained and reconstructed later.
-- **Blood at the meatus mandates RUG (retrograde urethrogram)** before catheterisation. Classification: partial, minor distraction, major distraction; anterior: contusion, incomplete, complete (Armenakas–McAninch).
+- Key decision: **immediate repair versus deliberate delay**. Clean, localised injuries are repaired at once; PFUI (pelvic fracture urethral injury) is drained and reconstructed later.
+- **Blood at the meatus mandates RUG (retrograde urethrogram)** before catheterisation. Grades: posterior partial, minor or major distraction; anterior contusion, incomplete or complete.
 
 ### Posterior urethra (PFUI)
-- **SPC (suprapubic cystostomy) is the standard first step:** percutaneous 16 Fr Foley via peel-away sheath, or open (allows bladder inspection). Safe even with pelvic plating; tunnel it high.
-- **Primary realignment** (AUA Urotrauma guideline option): brief attempt in a stable patient, acutely or within days, by combined antegrade and retrograde flexible cystoscopy over a guidewire.
+- **SPC (suprapubic cystostomy) is the standard first step:** percutaneous 16 Fr Foley via peel-away sheath, or open. Safe with pelvic plating.
+- **Primary realignment** (AUA [American Urological Association] Urotrauma option): brief attempt in a stable patient, acutely or within days, by combined antegrade and retrograde flexible cystoscopy (avoid prolonged attempts).
   - Catheter out at 4–6 weeks; keep the SPC; remove it 7–14 days later if voiding is good.
-  - Most still form a **1–2 cm stenosis**; prospective data show **no difference** in urethroplasty rates vs SPC. Modern realignment does not add ED (erectile dysfunction) or incontinence. Avoid prolonged attempts (infection).
-- Partial tear: one gentle catheter attempt, position confirmed radiologically.
+  - Most still form a **1–2 cm stenosis**; **no difference** in urethroplasty rates vs SPC. Realignment does not add ED (erectile dysfunction) or incontinence.
+- Partial tear: one gentle catheter attempt.
 - **Immediate open repair** only for associated **bladder neck or rectal injury**, or when laparotomy is needed anyway.
-- **Also know:** female urethral injuries are usually repaired or realigned early; children may have injuries extending into the bladder neck.
+- **Also know:** female urethral injuries are usually repaired early; in boys tears may extend into the bladder neck.
 
 ### Anterior urethra
 | Injury | Early management |
@@ -244,8 +240,7 @@ M1  → systemic therapy
 | High-velocity or close-range shotgun | SPC, staged repair |
 | **Penile fracture with urethral tear** | **Immediate repair:** partial tear oversewn; complete tear debrided and anastomosed; catheter 2–3 weeks |
 
-- Penile fracture: about 20% have urethral injury in Western series (about 3% in Asia); **intraoperative flexible cystoscopy** before catheterisation.
-- Limit spongiosal debridement: its blood supply is robust.
+- Penile fracture: urethral injury in about 20% of Western and 3% of Asian series; **intraoperative flexible cystoscopy** before catheterisation. Limit spongiosal debridement.
 
 **Diagram to draw:** RUG showing partial vs complete posterior urethral disruption.
 
@@ -261,18 +256,18 @@ M1  → systemic therapy
 (TVT versus TOT also answered in 2021-Summer Paper 2, Q3e)
 
 ### Definition and history
-- **TVT (tension-free vaginal tape):** retropubic **MUS (mid-urethral sling)** of polypropylene for SUI (stress urinary incontinence). Ulmsten and Petros, 1995; renamed TVT in 1998.
+- **TVT (tension-free vaginal tape):** retropubic polypropylene **MUS (mid-urethral sling)** for SUI (stress urinary incontinence); Ulmsten, 1995–1998.
 
 ### Mechanism
 - **Integral theory** (Petros and Ulmsten, 1990): continence needs pubourethral ligaments, the suburethral vaginal hammock and pubococcygeus. Hypermobility is a sign of their damage, not the cause.
-- The loose tape secures the **posterior urethral wall** during stress, with compression and dynamic kinking. It is not tight at rest.
+- The loose tape secures the **posterior urethral wall** during stress (compression, dynamic kinking); it is not tight at rest.
 
 ### Material
 - **Type 1 (Amid) macroporous monofilament polypropylene**, pores >75 µm: allows macrophage entry and fibrous ingrowth, so it resists infection.
 
 ### Indications
 - Index SUI with urethral hypermobility; preferred over TOT (transobturator tape) in **ISD (intrinsic sphincter deficiency)** or recurrent SUI.
-- Counsel about mesh risks and alternatives (Burch colposuspension, autologous sling, bulking). Avoid if urethral injury occurs intraoperatively.
+- Counsel about mesh risks and alternatives (colposuspension, autologous sling, bulking).
 
 ### Technique
 1. Local, spinal or general anaesthesia; lithotomy.
@@ -309,19 +304,19 @@ M1  → systemic therapy
 
 ### Definition and classification
 - Testis not in the normal scrotal position: **palpable** (canalicular, high scrotal, **ectopic**, commonest at the superficial inguinal pouch) or **non-palpable** (intra-abdominal, "peeping", vanished/absent).
-- **Retractile:** can be brought down and stays; yearly review (may ascend). **Acquired:** documented scrotal before, ascends later.
+- **Retractile:** brought down and stays; review yearly. **Acquired:** previously scrotal, ascends later.
 
 ### Epidemiology and aetiology
-- 2–4% of term boys at birth, 1–2% at 3 months; far commoner in preterm boys. Most descend by 3–6 months.
+- 2–4% of term boys at birth, 1–2% at 3 months; commoner in preterm infants.
 - Descent needs Leydig hormones: **INSL3** (transabdominal phase) and **androgens** (inguinoscrotal phase), with genitofemoral nerve/CGRP (calcitonin gene-related peptide) guiding the gubernaculum.
 
 ### Evaluation
-- Warm room, supine and frog-leg; "milk" from the anterior superior iliac spine. Note contralateral hypertrophy (suggests vanished testis).
-- **No ultrasound or MRI** (magnetic resonance imaging): they do not change management. Diagnostic laparoscopy is the investigation of choice for non-palpable testes.
+- Warm room, frog-leg position; "milk" from the anterior superior iliac spine. Contralateral hypertrophy suggests vanished testis.
+- **No ultrasound or MRI** (magnetic resonance imaging): they do not change management.
 - **Bilateral non-palpable, or with hypospadias:** urgent karyotype and hormones to exclude **CAH** (congenital adrenal hyperplasia) or other DSD (differences of sex development).
 
 ### Management
-- **Observe to 6 months corrected age; operate after 6 months, preferably by 12, and by 18 months at the latest** (AUA 2014, EAU similar). Early surgery restores testicular growth.
+- **Observe to 6 months corrected age; operate after 6 months, preferably by 12, and by 18 months at the latest** (AUA [American Urological Association] 2014). Early surgery restores testicular growth.
 - **Hormones (hCG [human chorionic gonadotrophin], LHRH [luteinising hormone-releasing hormone]): not recommended**; descent in about 20% only.
 
 | Situation | Operation |
@@ -334,11 +329,11 @@ M1  → systemic therapy
 | Blind-ending vessels | Stop: vanished testis |
 | Postpubertal, normal contralateral testis | Orchidectomy |
 
-- **Complications:** atrophy (about 2%, higher after Fowler–Stephens), re-ascent, vas injury.
+- **Complications:** atrophy (higher after Fowler–Stephens), re-ascent, vas injury.
 
 ### Prognosis
-- **Fertility:** paternity about four-fifths in unilateral and one-third in bilateral cases.
-- **Cancer:** risk 2–5 times; orchidopexy after 10–11 years carries relative risk 5.8 (Walsh). Teach self-examination.
+- **Fertility:** paternity about 80% unilateral, one-third bilateral.
+- **Cancer:** 2–5-fold risk; orchidopexy after 10–11 years carries relative risk 5.8 (Walsh). Teach self-examination.
 
 **Diagram to draw:** laparoscopic view of the internal ring: testis, vessels entering ring, blind-ending vessels.
 
@@ -358,9 +353,8 @@ M1  → systemic therapy
 ### Indications
 - **OA (obstructive azoospermia):** CBAVD (congenital bilateral absence of the vas deferens), unreconstructable obstruction, failed or declined vasectomy reversal, back-up at reconstruction.
 - **NOA (non-obstructive azoospermia):** only testicular retrieval works.
-- Anejaculation (spinal cord injury): penile vibratory stimulation or electroejaculation first.
+- Anejaculation: vibratory stimulation or electroejaculation first.
 - Retrieved sperm need **ICSI (intracytoplasmic sperm injection)**; cryopreserve spares.
-- **Do not operate** with AZFa or AZFb (azoospermia factor) complete deletion.
 
 ### Techniques
 | Technique | Method | Best for | Drawback |
@@ -372,8 +366,8 @@ M1  → systemic therapy
 | **TESE** (testicular sperm extraction) | Open biopsy, one or more sites | OA, NOA | Blind sampling |
 | **Micro-TESE** | Testis bivalved; larger opaque tubules picked under the microscope | **NOA (best)** | Long operation |
 
-- **MESA:** move proximally until motile sperm appear; the most motile sperm are often in the efferent ductules. Yields 4–12 pipettes for multiple frozen vials.
-- **Micro-TESE (Schlegel 1999):** spermatogenesis in NOA is **focal**. Plump tubules hold sperm; thin white ones are Sertoli cell–only. Incise through an avascular plane, map positive sites; if negative, explore the other testis.
+- **MESA:** move proximally until motile sperm appear (most motile in the efferent ductules); 4–12 pipettes, frozen in aliquots.
+- **Micro-TESE (Schlegel 1999):** spermatogenesis in NOA is **focal**. Plump tubules hold sperm; thin white ones are Sertoli cell–only. Map positive sites; if negative, explore the other testis.
 
 ### Results
 - OA: retrieval almost always succeeds. NOA micro-TESE: sperm in **about half**.
@@ -386,7 +380,7 @@ M1  → systemic therapy
 | Post-chemotherapy | 53% |
 | Maturation arrest | 40% |
 | Sertoli cell–only | 30% |
-| AZFa/AZFb deletion | 0% |
+| AZFa/AZFb (azoospermia factor) deletion | **0%: do not operate** |
 
 - NOA pregnancies: more miscarriage (aneuploidy, DNA damage). Frozen sperm equal fresh, except in spinal cord injury.
 

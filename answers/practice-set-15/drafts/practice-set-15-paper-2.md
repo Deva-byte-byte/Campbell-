@@ -43,7 +43,7 @@
 | Intermediate | All others (regressive, mixed, epithelial, stromal, focal anaplasia) |
 | High | **Blastemal-predominant**; diffuse anaplasia |
 
-- Blastema shrinks with chemotherapy, but residual blastema predicts relapse. Stromal and epithelial tumours shrink little but are cured by excision.
+- Residual blastema predicts relapse; stromal and epithelial tumours shrink little but are cured by excision.
 
 **B. Staging: COG (Children's Oncology Group), surgical-pathological, before chemotherapy**
 
@@ -76,7 +76,6 @@
 - Transperitoneal approach; palpate renal vein and IVC before ligation; spare a tumour-free adrenal.
 - **Avoid spill** (it makes the tumour stage III).
 - **Lymph node sampling of at least 5 nodes** (hilar, paracaval, para-aortic, interaortocaval) is essential; formal dissection is not. Omitted sampling is the commonest protocol violation.
-- No contralateral exploration if imaging is normal.
 - IVC thrombus at or above the hepatic veins → preoperative chemotherapy to avoid bypass.
 
 **Postoperative therapy (COG, favourable histology)**
@@ -151,20 +150,20 @@ VCR + AMD + DOX × 6 weeks → reimaging
 
 ### 1. Active surveillance vs watchful waiting
 - **AS:** deferred treatment with **curative intent**. Monitor by PSA every 3–6 months, DRE, **confirmatory biopsy or MRI within 6–12 months**, then periodic MRI and biopsy. Trigger for treatment: grade progression (GG ≥2–3), increasing volume or patient choice.
-- Entry criteria differ: Johns Hopkins (strict, Epstein criteria), PRIAS (Prostate Cancer Research International Active Surveillance), Toronto (inclusive). About half of AS patients are treated by 10–15 years.
+- Entry criteria: Johns Hopkins (strict, Epstein), PRIAS (Prostate Cancer Research International Active Surveillance), Toronto (inclusive). About half are treated by 10–15 years.
 - **Watchful waiting:** no curative intent; ADT for symptomatic progression. For limited life expectancy.
 
 ### 2. Radical prostatectomy
-- Open retropubic or **robot-assisted** (equal oncological and functional outcomes in the randomised trial). Nerve sparing when there is no extracapsular risk on the same side.
+- Open retropubic or **robot-assisted** (similar outcomes in the randomised trial). Nerve sparing when there is no same-side extracapsular risk.
 - **PLND** when nodal risk is significant on nomograms (extended template).
 - **Complications:** incontinence, ED (erectile dysfunction), anastomotic stricture, rectal injury.
-- **Advantages:** accurate pathological staging; relieves obstruction; RT available for salvage.
+- **Advantages:** pathological staging; relieves obstruction; RT kept for salvage.
 
 ### 3. Radiotherapy
 - **EBRT:** IMRT (intensity-modulated RT) with image guidance. Fractionation: conventional 78 Gy in 39; **moderate hypofractionation 60 Gy in 20** (CHHiP: non-inferior); **SBRT (stereotactic body RT) 36.25 Gy in 5** (PACE-B: similar toxicity).
 - **Why add ADT:** synergistic cell kill and target shrinkage. **RTOG 94-08:** 4 months ADT improved OS in intermediate risk; **DFCI 95-096:** 6 months ADT improved 8-year OS (61% → 74%).
 - **Brachytherapy:** LDR (low-dose-rate) seeds for low and favourable intermediate risk. Relative contraindications: gland >60 mL, high IPSS, recent TURP. HDR (high-dose-rate) or LDR **boost** with EBRT for higher risk (ASCENDE-RT: half the biochemical failure).
-- **Toxicity:** bowel (proctitis), irritative urinary symptoms, late ED, second cancers (controversial).
+- **Toxicity:** proctitis, irritative urinary symptoms, late ED, second cancers (controversial).
 
 ### 4. Focal and whole-gland ablation
 - HIFU (high-intensity focused ultrasound), cryotherapy, focal laser, IRE (irreversible electroporation), VTP (vascular-targeted photodynamic therapy).
@@ -178,7 +177,7 @@ VCR + AMD + DOX × 6 weeks → reimaging
 | **PIVOT** | RP vs observation (PSA era) | No mortality difference; benefit only in intermediate risk |
 | **ProtecT** | Monitoring vs RP vs RT + ADT | 15-year cancer mortality 2.7%, 2.2%, 2.9% (no difference); more metastases with monitoring |
 
-- **ProtecT function:** RP worst for continence and sexual function; RT caused transient bowel problems.
+- **ProtecT function:** RP worst for continence and sexual function; RT transient bowel effects.
 
 ### Algorithm
 ```
@@ -191,7 +190,7 @@ Organ-confined CaP → risk group + life expectancy
 ```
 
 ### Follow-up
-- PSA every 6–12 months. **Biochemical recurrence:** after RP, PSA ≥0.2 ng/mL confirmed; after RT, **nadir + 2 ng/mL (Phoenix)**. Salvage RT or PSMA-guided therapy.
+- PSA every 6–12 months. **Biochemical recurrence:** after RP, PSA ≥0.2 ng/mL confirmed; after RT, **nadir + 2 ng/mL (Phoenix)**.
 
 ### Recent advances
 - PSMA PET staging; MRI-led surveillance; SBRT; genomic classifiers.
@@ -210,12 +209,12 @@ Organ-confined CaP → risk group + life expectancy
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- TURP (transurethral resection of the prostate) removes transition-zone tissue from the bladder neck to the verumontanum, down to the surgical capsule. It remains the benchmark BPH (benign prostatic hyperplasia) operation.
-- **AUA (American Urological Association):** no preference between monopolar and bipolar; choose by expertise.
+- TURP (transurethral resection of the prostate) removes transition-zone tissue from bladder neck to verumontanum, down to the surgical capsule; the benchmark BPH (benign prostatic hyperplasia) operation.
+- **AUA (American Urological Association):** no preference; choose by expertise.
 
 ### Principles
 - **Monopolar (m-TURP):** current runs from the loop through the patient to a grounding pad. Saline would disperse the current, so a **non-conducting, hypo-osmolar irrigant** (glycine 1.5%, sorbitol–mannitol, water) is needed.
-- **Bipolar (b-TURP):** active and return poles are on the same instrument, so current stays at the resection site. This allows **normal saline**. The Plasma system vaporises saline into a plasma layer (orange glow) that cuts at lower temperature and seals vessels.
+- **Bipolar (b-TURP):** active and return poles are on the same instrument, so current stays local and **normal saline** can be used. The Plasma system turns saline into a plasma layer (orange glow) that cuts at lower temperature and seals vessels.
 
 ### Comparison
 
@@ -233,9 +232,9 @@ Organ-confined CaP → risk group + life expectancy
 | Stricture, BNC (bladder neck contracture), sexual function, retreatment | Similar | Similar |
 
 ### TUR syndrome (monopolar)
-- Irrigant absorbed through open venous sinuses (prostatic venous pressure about 10 mmHg) causes **dilutional hyponatraemia**: confusion, visual disturbance, nausea, bradycardia, hypertension, seizures; glycine also produces ammonia.
+- Irrigant absorbed through open sinuses (venous pressure about 10 mmHg) → **dilutional hyponatraemia**: confusion, visual disturbance, nausea, bradycardia, hypertension, seizures; glycine also yields ammonia.
 - **Risk factors:** gland >45 mL, resection >90 minutes, high irrigation bag.
-- **Treatment:** stop surgery, check sodium; 3% saline 100 mL boluses for neurological symptoms; raise sodium by no more than 8–10 mEq/L in 24 hours if presentation is late.
+- **Treatment:** stop surgery, check sodium; 3% saline 100 mL boluses for neurological symptoms; avoid over-rapid correction (central pontine myelinolysis).
 
 ### Evidence
 - Meta-analyses: equal efficacy up to 5 years; b-TURP safer (NNT about 50 to prevent one TUR syndrome, about 20 to prevent one clot retention).
@@ -256,19 +255,18 @@ Organ-confined CaP → risk group + life expectancy
 
 ### Definition
 - **OAB (overactive bladder), ICS (International Continence Society):** **urgency**, usually with frequency and nocturia, with or without UUI (urgency urinary incontinence), in the absence of UTI (urinary tract infection) or other obvious pathology.
-- **OAB dry** vs **OAB wet** (with UUI). OAB is a symptom diagnosis; DO (detrusor overactivity) is a urodynamic finding, present in only 44–69% of patients with urgency.
-- Prevalence about 12–29% of adults; rises with age.
+- **OAB dry** vs **wet** (with UUI). OAB is a symptom diagnosis; DO (detrusor overactivity) is urodynamic, found in only 44–69% with urgency.
 
 ### Pathophysiology
 - **Afferent:** silent C fibres become active and hypersensitive.
 - **Urothelial:** urothelium releases ATP (adenosine triphosphate) and acetylcholine onto suburothelial afferents.
 - **Myogenic:** patchy denervation → spontaneous micromotions that spread.
 - **Central:** loss of forebrain inhibition of the pontine micturition centre.
-- **Associations:** ageing, BOO (bladder outlet obstruction), metabolic syndrome, anxiety.
+- **Associations:** ageing, BOO (bladder outlet obstruction), metabolic syndrome.
 
 ### Evaluation
 - **Minimum:** history, examination, **urinalysis**. Bladder diary (3 days), questionnaires, PVR (post-void residual) when indicated.
-- Urodynamics, cystoscopy and imaging only in complicated or refractory cases.
+- Urodynamics and cystoscopy only for complicated or refractory cases.
 
 ### Management (AUA/SUFU [American Urological Association/Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction]; not a compulsory sequence)
 
@@ -280,7 +278,7 @@ Organ-confined CaP → risk group + life expectancy
 | Last resort | Augmentation cystoplasty or urinary diversion |
 
 - **Antimuscarinic use >3 months raises dementia risk** → prefer β3-agonists in the elderly. Men: α-blocker first; add antimuscarinic if PVR is low.
-- **Trials:** ROSETTA (Botox more effective than SNM at 6 months, more UTI); SUmiT (PTNS 55% vs sham 21%).
+- **Trials:** ROSETTA (Botox beat SNM at 6 months, more UTI); SUmiT (PTNS 55% vs sham 21%).
 
 **Diagram to draw:** bladder showing urothelial afferents and C fibres with brainstem and cortical inhibition.
 
@@ -295,38 +293,35 @@ Organ-confined CaP → risk group + life expectancy
 ## Q3c. Fracture penis
 **Type:** SAQ (10 marks)
 
-### Definition
+### Definition and mechanism
 - **Penile fracture** is a tear of the **tunica albuginea** with rupture of the corpus cavernosum, in the **erect** penis.
-
-### Aetiology and mechanism
 - Abnormal bending of the erect penis causes an abrupt rise in intracavernosal pressure beyond tunical strength → **transverse tear**.
-- The tunica is bilaminar (inner circular, outer longitudinal); it thins from about 2 mm flaccid to about 0.25–0.5 mm when erect and is **thinnest ventrolaterally**, so most tears are ventral or lateral, proximal to mid shaft.
-- **Causes:** intercourse (commonest; rear-entry position), masturbation, rolling over. In the Middle East, self-inflicted "taqaandan" (forced bending). Collagenase injection for Peyronie disease.
+- The tunica (inner circular, outer longitudinal layers) is **thinnest ventrolaterally**, so most tears are ventral or lateral, proximal to mid shaft.
+- **Causes:** intercourse (commonest; rear-entry), masturbation, rolling over; self-inflicted "taqaandan" (Middle East); collagenase injection for Peyronie disease.
 - **Bilateral tears in about 10%**; urethral injury about 20% in the West vs about 3% in Asia and the Middle East.
 
 ### Clinical features
 - **Cracking or popping sound → pain → rapid detumescence → swelling and discoloration.**
-- **"Eggplant deformity"** when Buck's fascia is intact. If Buck's fascia is torn, the haematoma spreads to scrotum, perineum and suprapubic area ("butterfly" pattern).
-- Penis deviates **away from the tear**; a palpable tunical defect ("rolling sign").
-- **Urethral injury:** blood at meatus, haematuria, retention; more likely with bilateral tears.
+- **"Eggplant deformity"** when Buck's fascia is intact; if torn, haematoma spreads to scrotum, perineum and suprapubic area.
+- Penis deviates **away from the tear**; tunical defect may be palpable.
+- **Urethral injury:** blood at meatus, haematuria, retention.
 
 ### Investigations
 - **Diagnosis is clinical** (AUA [American Urological Association] Urotrauma Guideline).
-- **Ultrasound** for equivocal cases; localises the tear. **MRI** (magnetic resonance imaging) if ultrasound is equivocal (100% negative predictive value). Cavernosography is discouraged.
-- Urethra: **intraoperative flexible cystoscopy** before catheterisation (preferred by AUA and EAU [European Association of Urology]) or RUG (retrograde urethrogram).
-- **Differential ("false fracture"):** dorsal vein or artery rupture, suspensory ligament injury.
+- **Ultrasound** for equivocal cases (localises the tear); **MRI** (magnetic resonance imaging) if still equivocal (100% negative predictive value). Cavernosography is discouraged.
+- Urethra: **intraoperative flexible cystoscopy** (AUA and EAU [European Association of Urology] preference) or RUG (retrograde urethrogram).
+- **"False fracture":** dorsal vein or artery rupture.
 
 ### Management
-- **Immediate surgical repair** (better than conservative care: less curvature, ED [erectile dysfunction] and nodules).
-1. Incision: ventral penoscrotal or lateral over the defect; **subcoronal degloving** for unclear site (risk of preputial ischaemia).
-2. Evacuate haematoma; find the tear (artificial erection with saline helps).
-3. Close the tunica with **interrupted 2-0/3-0 absorbable sutures**; avoid deep ligation or debridement of erectile tissue.
-4. Urethra: partial tear → close over catheter; complete → spatulate and repair tension-free. Catheter 2–3 weeks.
-- Abstain from intercourse for about 1 month. Delay of up to 7 days does not worsen outcome.
-- After collagenase injection without urethral injury, conservative care is acceptable.
+- **Immediate surgical repair** (less curvature, ED [erectile dysfunction] and nodules than conservative care).
+1. Incision: ventral penoscrotal or lateral over the defect; subcoronal degloving if site unclear (preputial ischaemia risk).
+2. Evacuate haematoma; find the tear (artificial erection helps).
+3. Close the tunica with **interrupted 2-0/3-0 absorbable sutures**; avoid debriding erectile tissue.
+4. Urethra: partial → close over catheter; complete → tension-free repair; catheter 2–3 weeks.
+- Abstinence about 1 month. Delay up to 7 days does not worsen outcome. After collagenase injection without urethral injury, conservative care is acceptable.
 
 ### Complications
-- About 20% overall: plaque or nodule, curvature, ED, painful erection, infection, urethral stricture or fistula.
+- About 20%: nodule, curvature, ED, painful erection, infection, stricture or fistula.
 
 **Diagram to draw:** cross-section of penis showing tunical tear, Buck's fascia and haematoma spread.
 
@@ -342,8 +337,7 @@ Organ-confined CaP → risk group + life expectancy
 (also answered in 2023-Winter Paper 4, Q3c and 2018-Summer Paper 2, Q3d; surgery for ED in 2020-Summer Paper 2, Q2)
 
 ### Introduction
-- Penile prosthesis is the most effective, but last-line, treatment of ED (erectile dysfunction). **Satisfaction 80–90%** (patient and partner).
-- First devices: Scott three-piece inflatable (1972) and Small–Carrion semirigid rod (1978).
+- Most effective, but last-line, treatment of ED (erectile dysfunction); **satisfaction 80–90%**. First devices: Scott inflatable (1972), Small–Carrion rod (1978).
 - **Indications:** failure of, contraindication to or refusal of PDE5Is (phosphodiesterase type 5 inhibitors), injections and vacuum devices; ED with Peyronie disease; after ischaemic priapism (early implant preserves length).
 - **Contraindications:** active infection, uncontrolled diabetes, unrealistic expectations.
 
@@ -365,7 +359,7 @@ Organ-confined CaP → risk group + life expectancy
 ### Surgical principles
 - **Approach:** penoscrotal (commonest) or infrapubic (dorsal nerve at risk).
 - Corporotomy → dilate (instruments dorsolateral) → check for crossover or perforation → measure → cylinders sized to corporal length. Rods are placed slightly shorter.
-- Prophylactic antibiotics; glucose control; no-touch technique.
+- Antibiotics, glucose control, no-touch technique.
 
 ### Complications
 - **Infection 1–3%** (biofilm): remove all components; **Mulcahy salvage** (washout and immediate replacement).
@@ -386,35 +380,33 @@ Organ-confined CaP → risk group + life expectancy
 
 ### Definition
 - **Ovarian vein syndrome** (Clark, 1964) is extrinsic compression of the **right ureter** by a dilated or thrombosed **right ovarian vein**, causing intermittent hydroureteronephrosis. It is a **controversial** entity; many cases are now attributed to other causes.
-- The term is also used loosely for ovarian vein disorders: thrombosis and pelvic congestion.
+- The plural also covers ovarian vein thrombosis and pelvic congestion.
 
 ### Anatomy (basis)
 - Ovarian veins run in the infundibulopelvic ligaments. The **right** enters the IVC (inferior vena cava) obliquely; the **left** enters the left renal vein at a right angle.
-- Gonadal vessels **cross anterior to the ureter** in its abdominal course. Ovarian veins dilate greatly in pregnancy.
+- Gonadal vessels **cross anterior to the ureter**; ovarian veins dilate greatly in pregnancy.
 
 ### Types
 
 | Syndrome | Mechanism | Features |
 |---|---|---|
-| **Ovarian vein (ureteric) syndrome** | Dilated right ovarian vein compresses the ureter at the crossing | Multiparous women; right flank pain, often premenstrual or during pregnancy; recurrent UTI (urinary tract infection) or pyelonephritis |
+| **Ovarian vein (ureteric) syndrome** | Dilated right ovarian vein compresses the ureter at the crossing | Multiparous women; right flank pain (premenstrual or in pregnancy); recurrent UTI (urinary tract infection) |
 | **Ovarian vein thrombosis** | Postpartum hypercoagulability and venous stasis; mostly right-sided | Fever and right lower-quadrant or flank pain after delivery; may obstruct ureter; risk of pulmonary embolism |
 | **Pelvic congestion syndrome** | Incompetent, refluxing ovarian veins with pelvic varices; sometimes secondary to nutcracker (left renal vein compression) | Chronic pelvic pain worse on standing, dyspareunia, post-coital ache |
 
 ### Controversy
-- Right-sided dilatation in pregnancy is mostly **physiological hydronephrosis** (progesterone plus uterine compression at the pelvic brim; dilatation stops at the brim). Venous compression is rarely proven.
-- Diagnosis is therefore one of **exclusion**.
+- Right-sided dilatation in pregnancy is mostly **physiological hydronephrosis** (progesterone plus uterine compression; stops at the pelvic brim). Venous compression is rarely proven, so diagnosis is by **exclusion**.
 
 ### Investigations
-- Ultrasound; **CT urography** or IVU (intravenous urography): right hydroureter down to a smooth oblique extrinsic indentation, normal ureter below.
+- Ultrasound; **CT urography** or IVU (intravenous urography): right hydroureter to a smooth oblique extrinsic indentation, normal ureter below.
 - **Diuretic renogram** to prove obstruction; retrograde pyelography.
-- CT or MR (magnetic resonance) venography, Doppler, or **gonadal venography** (gold standard for reflux).
-- **Exclude:** stone, retrocaval ureter, iliac vessel crossing, retroperitoneal fibrosis, endometriosis, tumour.
+- CT or MR (magnetic resonance) venography, Doppler; **gonadal venography** (gold standard for reflux).
+- **Exclude:** stone, retrocaval ureter, iliac vessel crossing, retroperitoneal fibrosis, endometriosis.
 
 ### Management
-- **Asymptomatic or physiological:** observation.
-- **Ureteric obstruction:** stent or nephrostomy if infected or in pregnancy; definitive **ureterolysis with ligation and division of the ovarian vein** (open or laparoscopic).
+- **Asymptomatic:** observe. **Obstruction:** stent or nephrostomy if infected or pregnant; definitive **ureterolysis with ligation and division of the ovarian vein** (open or laparoscopic).
 - **Thrombosis:** anticoagulation and antibiotics.
-- **Pelvic congestion:** progestogens or GnRH (gonadotropin-releasing hormone) analogues; **transcatheter coil or sclerotherapy embolisation**; surgical ligation.
+- **Pelvic congestion:** progestogens or GnRH (gonadotropin-releasing hormone) analogues; **coil or sclerotherapy embolisation**; ligation.
 
 **Diagram to draw:** right ovarian vein crossing anterior to the right ureter, with proximal hydroureteronephrosis.
 

@@ -32,6 +32,7 @@
 - Markers before every cycle; **rising markers mean viable cancer, not GTS**.
 - CT (computed tomography): enlarging, well-defined, **cystic** mass, sometimes with fat or calcification.
 - **FDG-PET (fluorodeoxyglucose positron emission tomography) has no role**: teratoma is not FDG-avid.
+- **Differential:** progressing viable GCT (germ cell tumour; markers rise); malignant transformation (somatic sarcoma or carcinoma); necrosis or fibrosis (mass shrinks).
 
 ### Management
 - **Stop chemotherapy**; do not escalate to salvage chemotherapy (ineffective).
@@ -60,7 +61,7 @@
 | Score | Variables and scoring | Predicts |
 |---|---|---|
 | **Guy's Stone Score** (Thomas, 2011) | **Grade I:** single stone in mid or lower pole, or pelvis, simple anatomy. **II:** single upper-pole stone, or multiple stones with simple anatomy, or single stone with abnormal anatomy. **III:** multiple stones with abnormal anatomy, calyceal diverticulum stone, or partial staghorn. **IV:** complete staghorn, or any stone in spina bifida or spinal injury | SFR on KUB (kidney, ureter, bladder radiograph); not complications |
-| **S.T.O.N.E. nephrolithometry** | **S**ize (area), **T**ract length (≤100 or >100 mm), **O**bstruction (hydronephrosis), **N**umber of involved calyces, **E**ssence (density, ≤950 or >950 HU [Hounsfield units]); total 5–13 | SFR, blood loss, operative time, stay; needs CT |
+| **S.T.O.N.E. nephrolithometry** | **S**ize (area), **T**ract length (≤100 or >100 mm), **O**bstruction (hydronephrosis), **N**umber of involved calyces, **E**ssence (density, ≤950 or >950 HU [Hounsfield units]); total 5–13 | SFR, blood loss, operative time, stay; needs CT (computed tomography) |
 | **CROES nomogram** (Clinical Research Office of the Endourological Society) | Stone burden, location, staghorn, number, prior treatment, **annual centre volume** | SFR; only multicentre derivation, but SFR on KUB |
 | **S-ReSC** (Seoul National University Renal Stone Complexity) | Number of **9 sites** involved on CT: pelvis, upper and lower major calyces, anterior and posterior minor calyces of the three groups; score 1–9 | SFR; not complications |
 | **RUSS** (Resorlu–Unsal Stone Score) | 1 point each: stone >20 mm; lower-pole stone with infundibulopelvic angle <45°; stones in more than one calyx; abnormal anatomy; score 0–4 | SFR after **RIRS** (retrograde intrarenal surgery) |
@@ -102,8 +103,9 @@
 - Stasis: **stones in up to 40%**, milk of calcium, infection, pain, haematuria.
 
 ### Evaluation
-- Ultrasound mimics a simple cyst. **CT urography with delayed images shows contrast pooling**; milk of calcium layers and shifts with position.
+- Ultrasound mimics a simple cyst. **CT (computed tomography) urography with delayed images shows contrast pooling**; milk of calcium layers and shifts with position.
 - Retrograde pyelography maps the neck before intervention.
+- **Differential:** hydrocalycosis (dilated major calyx from infundibular obstruction), megacalycosis, simple cyst.
 
 ### Management
 - **Asymptomatic:** observe with ultrasound.
@@ -112,12 +114,12 @@
 | Approach | Technique | Best for |
 |---|---|---|
 | **Ureteroscopy** | Find the ostium, laser-incise or balloon-dilate the neck, remove stones | Upper or mid-pole, small stones |
-| **PCNL** (percutaneous) | Direct puncture onto stone, clear stones, fulgurate lining, dilate or create neck | Posterior, lower-pole, larger stones; long-term results good |
+| **PCNL** (percutaneous nephrolithotomy) | Direct puncture onto stone, clear stones, fulgurate lining, dilate or create neck | Posterior, lower-pole, larger stones; long-term results good |
 | **Laparoscopic or robotic** | Unroof, remove stones, close neck, obliterate cavity, pack with fat | Anterior, thin-parenchyma, failed endoscopy |
 | Partial nephrectomy | Excision | Rare; destroyed segment |
 
 - Endoscopy keeps the cavity draining by widening the neck; laparoscopy abolishes it by closing the neck.
-- **Also know:** SWL gives symptom relief but low stone clearance; fulguration of lining is debated.
+- **Also know:** SWL (shock wave lithotripsy) gives symptom relief but low stone clearance; fulguration of lining is debated.
 
 **Diagram to draw:** kidney with upper-pole diverticulum, narrow neck to calyx, stone inside.
 
@@ -136,7 +138,7 @@
 - TRAS (transplant renal artery stenosis): narrowing of the graft artery or its inflow; **commonest vascular complication (1–23%)**, usually 3 months to 2 years after transplant.
 
 ### Types and causes
-- **Anastomotic:** suture technique, end-to-end anastomosis, no aortic (Carrel) patch.
+- **Anastomotic:** suture technique, end-to-end anastomosis to the internal iliac artery, no aortic (Carrel) patch.
 - **Post-anastomotic (distal):** clamp or perfusion-cannula intimal injury, kinking, rejection.
 - **Pre-anastomotic ("pseudo-TRAS"):** recipient iliac atherosclerosis.
 - **Also know:** CMV (cytomegalovirus) infection, delayed graft function, deceased donor.
@@ -149,12 +151,14 @@
 ### Evaluation
 - **Doppler ultrasound first:** high peak velocity at stenosis (about >200–250 cm/s), and distal **parvus-tardus** waveform with low resistive index.
 - MRA (magnetic resonance angiography) or CO₂ angiography to spare contrast.
-- **Contrast angiography is the gold standard** and allows treatment at once.
+- **Contrast angiography is the gold standard** and allows treatment at once. Iodinated contrast risks nephrotoxicity; gadolinium is avoided at low GFR (glomerular filtration rate).
+- **Differential of graft dysfunction with hypertension:** rejection, calcineurin-inhibitor toxicity, ureteric obstruction.
 
 ### Management
 - **Medical:** for mild stenosis with stable function: blood pressure control (calcium-channel blockers), statin, antiplatelet; avoid or monitor ACE inhibitors.
 - **Percutaneous angioplasty with or without stent: treatment of choice** for significant stenosis (usually >50–60%). High technical success; reverses hypertension and graft dysfunction. Stents reduce restenosis.
 - **Surgical revision** (resection and re-anastomosis, interposition graft, bypass) if angioplasty fails or anatomy unsuitable; risks graft loss.
+- Follow-up Doppler after angioplasty detects restenosis; untreated TRAS ends in graft loss.
 
 ### Prevention
 - Anastomose away from atheroma; avoid clamp injury and kinking; use a Carrel patch where possible.
@@ -173,7 +177,7 @@
 
 ### Definition
 - Rare benign **overgrowth of non-encapsulated mature fat** in the perivesical and perirectal spaces, compressing the bladder, ureters, rectum and pelvic veins.
-- Mostly men aged 20–60; associated with obesity and hypertension. Cause unknown.
+- Mostly men aged 20–60; associated with obesity and hypertension. Cause unknown; obesity alone does not explain it (weight loss rarely shrinks the fat). Chronic inflammation and venous obstruction are proposed.
 
 ### Clinical features
 - LUTS (lower urinary tract symptoms), haematuria, recurrent UTI (urinary tract infection), suprapubic or perineal pain, constipation.
@@ -184,7 +188,9 @@
 ### Evaluation
 - **IVU (intravenous urography) or cystogram:** elevated, elongated **"pear-" or "teardrop-shaped" bladder**; medially displaced pelvic ureters; high prostate.
 - **Barium enema:** elongated, narrowed rectosigmoid.
-- **CT or MRI (magnetic resonance imaging): diagnostic**; homogeneous fat density surrounding pelvic organs, separates it from tumour.
+- **Ultrasound:** echogenic pelvic fat; hydronephrosis.
+- Medial deviation of **both** pelvic ureters also occurs in retroperitoneal fibrosis and after abdominoperineal surgery.
+- **CT (computed tomography) or MRI (magnetic resonance imaging): diagnostic**; homogeneous fat density surrounding pelvic organs, separates it from tumour.
 - **Cystoscopy:** elevated trigone, long prostatic urethra (rigid scope may be difficult); biopsy for cystitis glandularis.
 - **Differential of pear-shaped bladder:** pelvic haematoma, lymphadenopathy, liposarcoma, iliopsoas hypertrophy, venous collaterals, pelvic fibrosis.
 
@@ -219,7 +225,8 @@
 ### Pathogenesis
 - **N-nitroso compounds** from bacteria in stagnant, infected urine (probably enhancers).
 - Chronic inflammation at the anastomosis releases growth factors that drive proliferation; perianastomotic urothelium is genetically unstable.
-- The underlying disease may itself carry risk (spina bifida, exstrophy); some series find no excess over unaugmented neurogenic bladder.
+- The underlying disease may itself carry risk: bladder cancer in spina bifida is about 2–4%, mostly stage III or IV, and non-gastric augmentation did not appear to increase that risk.
+- Ureterosigmoidostomy is the extreme model: urothelium beside colonic mucosa bathed in faeces; mean latency about 26 years.
 
 ### Risk factors
 - **Gastrocystoplasty** (highest among augments), **exstrophy**, immunosuppression after transplant, smoking, chronic infection, long latency.
@@ -229,7 +236,8 @@
 
 ### Surveillance
 - Chapters differ: Campbell bladder-surgery chapter advises **endoscopy yearly from 10 years**; paediatric chapter: no consensus, not shown cost-effective (Mayo group: unnecessary). Higher-risk groups benefit most.
-- Investigate any haematuria promptly: cystoscopy with biopsy, cytology, CT urography.
+- Investigate any haematuria promptly: cystoscopy with biopsy, cytology, CT (computed tomography) urography.
+- **Prevention:** regular clean intermittent catheterisation, daily bladder irrigation (less stasis, mucus and stones), treat urea-splitting infection, stop smoking, lifelong transitional follow-up.
 
 ### Management
 - **Radical cystectomy with excision of the augment** and urinary diversion (conduit or continent pouch), with lymphadenectomy.
