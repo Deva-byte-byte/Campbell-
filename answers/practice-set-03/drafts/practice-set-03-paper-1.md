@@ -188,7 +188,7 @@
 - **Allocation concealment** (central or web-based) stops selection bias.
 
 ### Blinding
-- Single (patient), double (patient and assessor) or triple (plus analyst). Surgery: sham procedures or blinded outcome assessors.
+- Single (patient), double (plus assessor) or triple (plus analyst). Surgery: sham procedures or blinded assessors.
 
 ### Endpoints
 - One **primary endpoint** sets sample size; secondary endpoints are exploratory.
@@ -393,7 +393,7 @@
 ### Causes and risks
 | Cause | Second cancer | Key facts |
 |---|---|---|
-| **Pelvic radiotherapy** | **Bladder cancer**, rectal cancer, sarcoma | Bladder RR (relative risk) 2–4 after cervical EBRT (external beam radiotherapy), 1.5–2 after prostate EBRT, smaller after brachytherapy, little with IMRT (intensity-modulated radiotherapy). Latency 15–30 years; often high grade |
+| **Pelvic radiotherapy** | **Bladder cancer**, rectal cancer, sarcoma | Bladder RR (relative risk) 2–4 after cervical EBRT (external beam radiotherapy), 1.5–2 after prostate EBRT, smaller after brachytherapy, little with IMRT (intensity-modulated radiotherapy). Latency 15–30 years |
 | **Cyclophosphamide** | **Bladder cancer**, UTUC (upper tract urothelial carcinoma) | Only chemotherapy proven to cause bladder cancer; metabolites phosphoramide mustard and acrolein. About 4.5-fold, dose-dependent (>20 g cumulative) |
 | **Urinary diversion / augmentation** | Adenocarcinoma at the uro-intestinal junction | Ureterosigmoidostomy 6–29% after 10–20 years (registry 2.6%); cystoplasty 1.6%; ileal conduit 0.02%. Risk tracks colonic mucosa exposed to urine and faeces |
 | **Transplant immunosuppression** | Skin cancer, PTLD (post-transplant lymphoproliferative disorder), RCC (renal cell carcinoma), bladder cancer | RCC mostly in native kidneys; bladder cancer about 3-fold and aggressive |
@@ -401,13 +401,12 @@
 | **Paediatric tumours** | In-field solid tumours, leukaemia | Wilms tumour 1% at 10 years |
 
 ### Mechanisms
-- Radiation: DNA double-strand breaks and genomic instability in normal tissue.
-- Alkylating agents and topoisomerase inhibitors: mutagenic DNA damage.
+- Radiation and alkylating or topoisomerase-inhibitor chemotherapy: mutagenic DNA damage in normal tissue.
 - Immunosuppression: loss of immune surveillance and oncogenic viruses (EBV [Epstein–Barr virus], HPV [human papillomavirus]).
 - Diversion: urine–faeces contact at the anastomosis.
 
 ### Prevention and surveillance
-- IMRT, smaller fields, fewer modalities; **mesna** with cyclophosphamide (reduces cystitis).
+- IMRT, smaller fields; **mesna** with cyclophosphamide (reduces cystitis).
 - **Haematuria after pelvic RT or cyclophosphamide: always cystoscopy.**
 - Endoscopy from 5 years after ureterosigmoidostomy; augmentation surveillance from about 10 years; excise a defunctioned ureterosigmoid anastomosis.
 - Testis: fewer modalities; low-dose CT (computed tomography) in surveillance.

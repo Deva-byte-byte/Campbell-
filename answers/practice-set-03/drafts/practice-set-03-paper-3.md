@@ -127,7 +127,7 @@
 
 **Vaginal techniques**
 - **Flap-splitting (Raz):** ureteric stents if within 1 cm; Foley through tract for traction; inverted J/U incision; raise flaps; layer 1 3-0/4-0 including tract edge; layer 2 perpendicular; fill test 200–300 mL; Martius or peritoneal flap; advance opposite flap ≥2 cm beyond.
-- **Latzko (high partial colpocleisis):** denude vagina 1–2 cm around tract and close vaginal walls over it; bladder not opened. ≥90% in post-hysterectomy and radiation VVF near ureters; vaginal shortening.
+- **Latzko (high partial colpocleisis):** denude vagina 1–2 cm around tract and close vaginal walls over it; bladder not opened. ≥90% in non-irradiated VVF; favoured for radiation VVF and tracts near the ureters; vaginal shortening.
 - **Also know:** vaginal cuff excision technique.
 
 **Abdominal techniques**
@@ -302,7 +302,7 @@
 ### Reconstructive ladder (distal ureter)
 | Option | Gap bridged |
 |---|---|
-| Ureteroneocystostomy | Distal 3–5 cm |
+| Ureteroneocystostomy | Distal 4–5 cm |
 | + Psoas hitch | Adds up to 5 cm (total 6–10 cm) |
 | **Boari flap (+ hitch)** | **10–15 cm**; spiral flap may reach pelvis (right) |
 | Downward nephropexy | Adds up to 5–8 cm |
@@ -397,10 +397,10 @@
 | Orgasm | Cerebral perception | Cortical |
 
 ### Causes
-- **Anatomical:** **TURP (transurethral resection of prostate)** 42–100%, TUIP (incision) 5–45%, HoLEP and photovaporisation, bladder neck surgery, Y-V plasty. Ejaculation-sparing techniques, PUL (prostatic urethral lift) and Aquablation preserve ejaculation.
+- **Anatomical:** **TURP (transurethral resection of prostate)** 42–100%, TUIP (incision) 5–45%; most other resections and enucleations; previous bladder neck reconstruction. Ejaculation-sparing techniques, PUL (prostatic urethral lift) and Aquablation preserve ejaculation.
 - **Neurogenic:** **diabetic autonomic neuropathy** (commonest medical), RPLND (retroperitoneal lymph node dissection; less with nerve sparing), colorectal surgery, sympathectomy, aortic surgery, spinal cord injury, multiple sclerosis.
 - **Drugs:** α-blockers (silodosin, tamsulosin), antipsychotics, antidepressants, thiazides.
-- **Congenital:** posterior urethral valves, bladder exstrophy, ectopic ureter.
+- **Congenital:** Müllerian duct cyst, Wolffian duct anomaly, prune belly syndrome.
 
 ### Evaluation
 - Low-volume or absent ejaculate with orgasm; infertility.
