@@ -199,13 +199,13 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 | **3. Apoptosis** | Sublethal cold at the periphery triggers programmed cell death |
 | **4. Immunomodulation** | Necrotic cells release antigens and DAMPs (damage-associated molecular patterns); dendritic cells activate T cells against tumour |
 
-- **End result:** coagulative necrosis, then fibrosis and scar.
+- **End result:** coagulative necrosis, then fibrous scar.
 
 ### Factors deciding lethality
 - **Temperature:** normal renal tissue dies at about −19.4 °C; tumour may need −40 to −50 °C. **Target ≤−40 °C.**
 - **Fast freeze, slow thaw** maximise injury.
 - **Double freeze–thaw cycle** enlarges the necrotic zone (standard of care); each freeze about 8–10 minutes.
-- **Heat sink:** large vessels nearby warm tissue, so more probes or longer freezing are needed.
+- **Heat sink:** nearby large vessels warm tissue; more probes or longer freezing needed.
 
 ### Zones of the ice ball
 - Centre: complete necrosis. Edge: 0 °C; below −20 °C only about 3 mm inside the edge. The lethal −40 °C isotherm lies well inside the visible ice ball.
@@ -245,7 +245,7 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 - **Antifibrotic:** injected after incision of recurrent bladder neck contracture or urethral stricture.
 
 ### Side effects
-- Chemical cystitis (30–40%); **skin rash and palmar or genital dermatitis** (signature toxicity; wash hands and genitals after voiding); contracted bladder (about 5%); encrustation cystitis; myelosuppression rare.
+- Chemical cystitis (30–40%); **skin rash, palmar or genital dermatitis** (signature toxicity; wash after voiding); contracted bladder (about 5%); encrustation cystitis; myelosuppression rare.
 - Extravasation through a perforation can cause pelvic necrosis.
 
 **Diagram to draw:** timeline: TURBT, single MMC within 6 hours, then weekly induction ×6.
@@ -260,17 +260,17 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 ## Q3c. HOTA and its modification
 **Type:** SAQ (10 marks)
 
-*Assumed meaning: the Transplantation of Human Organs Act (THOA) 1994 of India, its 2011 amendment and the 2014 Rules.*
+*Assumed meaning: India's Transplantation of Human Organs Act (THOA) 1994, its 2011 amendment and 2014 Rules.*
 
 ### THOA 1994: aims
-- Regulates removal, storage and transplantation of organs for therapeutic purposes and **prevents commercial dealing**.
-- **Recognised brain-stem death as legal death**, allowing deceased donation. States adopt the Act (health is a state subject).
+- Regulates removal, storage and transplantation of organs and **prevents commercial dealing**.
+- **Recognised brain-stem death as legal death**, allowing deceased donation.
 
 ### Main provisions (1994)
 - **Living donors:** **near relatives** (spouse, parents, children, siblings) after verification. Others, donating "by reason of affection or attachment", need **Authorisation Committee** approval.
 - **Appropriate Authority** registers and inspects hospitals; only registered centres may transplant.
 - **Brain-stem death certification by a Board of four:** doctor in charge of the hospital; independent specialist from an approved panel; neurologist or neurosurgeon; treating doctor. **None from the transplant team.** Two sets of tests ≥6 hours apart.
-- **Payment for organs is an offence**, with imprisonment and fine.
+- **Organ sale is a punishable offence.**
 
 ### 2011 amendment (THOTA, Transplantation of Human Organs and Tissues Act)
 
@@ -280,16 +280,15 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 | **Grandparents and grandchildren** become near relatives | Wider related donor pool |
 | **Swap (paired) donation** between near-relative pairs | Overcomes ABO or crossmatch incompatibility |
 | Board: if no neurologist, a nominated surgeon, physician, anaesthetist or intensivist | Smaller hospitals can certify |
-| **Mandatory transplant coordinator** | Organises donation |
-| **Required request:** ICU (intensive care unit) staff ask families of brain-dead patients about donation | More deceased donors |
+| **Transplant coordinator** mandatory | Organises donation |
+| **Required request:** ICU (intensive care unit) staff must ask families of brain-dead patients | More deceased donors |
 | National network and registry (NOTTO [National Organ and Tissue Transplant Organisation]) | Fair allocation |
 | **Higher penalties** for organ trade (up to 10 years' imprisonment; fine up to ₹1 crore) | Deterrence |
-| Safeguards for minors, mentally ill and foreign donors | Prevents exploitation |
 
 ### Rules 2014 (THOT Rules)
 - Standard forms for consent and certification (**Form 10** for brain-stem death); brainstem reflexes and apnoea test set out.
-- Authorisation Committee procedures; donor and recipient interviewed to exclude coercion or payment.
-- **Also know:** NOTTO with regional (ROTTO) and state (SOTTO) networks; 2023 guidelines removed the domicile rule and upper age limit for deceased-donor listing.
+- Authorisation Committee interviews donor and recipient to exclude coercion or payment.
+- **Also know:** regional and state networks (ROTTO, SOTTO); 2023 guidelines removed the domicile rule and age limit for deceased-donor listing.
 
 **Diagram to draw:** flowchart: brain-dead patient, Board of four, family consent, NOTTO allocation.
 
@@ -374,7 +373,7 @@ Tissue dies during **both freezing and thawing**, by four mechanisms:
 | **STONE (Meltzer, 2018):** stones up to 9 mm | Tamsulosin no better than placebo |
 | Meta-analyses; large distal-stone RCT (randomised controlled trial) | Benefit for **distal stones >5 mm** |
 
-- Stratified, the trials agree: benefit lies in **distal stones of 5–10 mm**. Smaller stones pass anyway; larger ones rarely pass.
+- Stratified, the trials agree: benefit lies in **distal stones of 5–10 mm**; smaller ones pass anyway, larger rarely.
 
 ### Indications (AUA [American Urological Association] and EAU [European Association of Urology])
 - Ureteric stone **<10 mm**, especially distal, when immediate intervention is not needed.

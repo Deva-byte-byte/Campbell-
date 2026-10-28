@@ -182,9 +182,9 @@
 
 | Use | Dose | Evidence |
 |---|---|---|
-| **CAB (combined androgen blockade)** with LHRH (LH-releasing hormone) agonist, metastatic disease | 50 mg daily | Only small survival gain (2–3%, PCTCG [Prostate Cancer Trialists' Collaborative Group] meta-analysis) |
-| **Flare prevention** | 50 mg, started with or before the agonist, for about 2–4 weeks | Main use today |
-| Monotherapy, locally advanced | 150 mg daily | **EPC (Early Prostate Cancer) programme:** better progression-free survival; **harm in localised low-risk disease** (death HR [hazard ratio] 1.23) |
+| **CAB (combined androgen blockade)** with LHRH (LH-releasing hormone) agonist, metastatic | 50 mg daily | Small survival gain (2–3%, PCTCG [Prostate Cancer Trialists' Collaborative Group]) |
+| **Flare prevention** | 50 mg, with or before the agonist, 2–4 weeks | Main use today |
+| Monotherapy, locally advanced | 150 mg daily | **EPC (Early Prostate Cancer) programme:** better progression-free survival; **harm in localised disease** (death HR [hazard ratio] 1.23) |
 | With salvage radiotherapy | 150 mg for 2 years | **RTOG 9601:** 12-year overall survival 76.3% vs 71.3% |
 | CRPC (castration-resistant prostate cancer) | 50 mg | Second-line step; largely replaced by newer agents |
 
@@ -193,7 +193,7 @@
 - **Also know:** stuttering priapism (sickle cell disease, spinal injury); feminising hormone therapy; studied in BPH (benign prostatic hyperplasia).
 
 ### Adverse effects
-- **Gynaecomastia and breast pain** (at 150 mg in about two-thirds). Prevent with prophylactic breast radiotherapy (10–15 Gy single fraction) or tamoxifen 10 mg daily.
+- **Gynaecomastia and breast pain** (two-thirds at 150 mg): prevent with breast radiotherapy (10–15 Gy single fraction) or tamoxifen 10 mg daily.
 - **Hepatotoxicity** (monitor liver tests); rare **interstitial pneumonitis**; erectile dysfunction; fewer hot flushes than castration.
 
 ### Comparison
@@ -339,12 +339,11 @@
 | USPSTF (US Preventive Services Task Force) 2018 | **Grade C**: shared decision at 55–69; not ≥70 (was Grade D in 2012) |
 | AUA (American Urological Association) | Shared decision 55–69; 2-yearly interval |
 | NCCN (National Comprehensive Cancer Network) | Baseline PSA and discussion at 45 |
-| American Cancer Society | From 50 if life expectancy ≥10 years; earlier if high risk |
 | EAU (European Association of Urology) | Risk-adapted: informed men from 50, from 45 with family history or African descent, from 40 with BRCA2 |
 
 - **No body advises unselected population screening.**
 - **High risk:** Black men, father or brother diagnosed <65, BRCA2 and other DNA-repair mutations: start earlier.
-- Stop when life expectancy is under 10–15 years.
+- Stop when life expectancy is under 10 years.
 
 ### Reducing harm
 - **Active surveillance** for Grade Group 1; MRI and biomarkers before biopsy; intervals by baseline PSA.
@@ -389,8 +388,7 @@
 - Choline and fluciclovine PET are older; FDG (fluorodeoxyglucose) PET is poor except in neuroendocrine change.
 
 ### 5. Advanced disease
-- PSMA PET selects men for **¹⁷⁷Lu-PSMA-617** (VISION trial).
-- **Also know:** whole-body MRI; no proof yet that PSMA-guided treatment improves survival.
+- PSMA PET selects men for **¹⁷⁷Lu-PSMA-617** (VISION); whole-body MRI. No proof yet that PSMA-guided treatment improves survival.
 
 **Diagram to draw:** prostate zones with a PZ lesion dark on ADC; PSMA PET nodal uptake.
 
@@ -420,7 +418,7 @@
 
 ### Indications
 - Retention or severe BOO from BPH (benign prostatic hyperplasia) in men unfit for surgery: avoids a long-term catheter.
-- Short-term drainage after thermal treatments; trial to test whether relief of obstruction will help.
+- Drainage after thermal treatments; trial of de-obstruction.
 - **Also know:** DSD (detrusor–sphincter dyssynergia), now abandoned; bulbar stricture.
 
 ### Contraindications

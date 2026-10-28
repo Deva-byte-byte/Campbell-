@@ -31,7 +31,7 @@
 - **Wolffian duct entry** is the landmark: cranial **vesicourethral canal** → bladder and pelvic urethra; caudal **definitive UGS** → phallic urethra (male), vestibule (female).
 - **Layers:** urothelium from UGS endoderm; detrusor and adventitia from splanchnic mesenchyme by epithelial–mesenchymal signalling.
 - **Urachus:** the bladder descends (months 4–5); the allantois obliterates to the urachus (median umbilical ligament).
-- **Function:** urine from week 10; after week 16 amniotic fluid is mainly fetal urine.
+- Urine from week 10; after week 16 amniotic fluid is mainly fetal urine.
 
 ### C. Trigone and ureterovesical junction
 - **Weeks 5–6:** the **common excretory duct** (Wolffian duct distal to the bud) is absorbed into the UGS; **apoptosis** separates ureter from Wolffian duct. The arms rotate (**Mackie–Stephens**): ureteric orifice moves cranially and laterally; Wolffian duct ends caudally as the ejaculatory duct.
@@ -75,7 +75,7 @@
 - **Alternatives:** CPRE (complete primary repair of exstrophy, Mitchell), Kelly radical soft-tissue mobilisation, Erlangen single stage, Mainz ureterosigmoidostomy. Most still need an outlet procedure.
 
 **5. Follow-up**
-- Antibiotic prophylaxis; ultrasound; yearly cystogram and cystoscopy under anaesthesia. Capacity <30 mL by 1–2 years predicts trouble.
+- Prophylaxis; ultrasound; yearly cystogram and cystoscopy under anaesthesia.
 
 **6. Failures and salvage**
 - Dehiscence or prolapse: wait 4–6 months, reclose with osteotomy.
@@ -287,7 +287,7 @@
 - **Somatic:** fatigue, weakness, aches, poor appetite.
 - **Psychological:** anxiety, low mood, guilt (about masturbation), poor concentration, sleep loss.
 - **Sexual:** fear of ED (erectile dysfunction) or PE (premature ejaculation), worry about penis size and fertility.
-- Whitish urine is often blamed: actually phosphaturia, oxaluria or normal secretions.
+- Whitish urine is usually phosphaturia, oxaluria or normal secretions.
 - **Comorbidity:** **depression** and **anxiety** in many; somatisation.
 
 ### Evaluation
@@ -299,7 +299,7 @@
 ### Management
 **1. Counselling (main)**
 - **Sex education:** semen is continuously produced; nocturnal emission and masturbation are normal and harmless.
-- Explain the white urine. Reassure, without dismissing.
+- Reassure without dismissing.
 
 **2. Psychological therapy:** CBT (cognitive behavioural therapy) for misbeliefs and anxiety.
 
@@ -328,35 +328,33 @@
 (perineal urethrostomy also answered in 2021-Summer Paper 2, Q3c)
 
 ### Introduction
-- Anterior urethral strictures are repaired by **EPA (excision and primary anastomosis)**, **graft or flap onlay**, or **staged repair**. EPA is the gold standard for short bulbar strictures.
+- Options: **EPA (excision and primary anastomosis)**, the gold standard for short bulbar strictures; **graft or flap onlay**; **staged repair**.
 
 ### Eponymous techniques
 | Eponym | Technique | Use |
 |---|---|---|
 | **Johanson** | Two-stage: stricture laid open, edges sutured to skin (urethrostomy); tubularised later | LS (lichen sclerosus), failed hypospadias, infection |
 | **Blandy** | Inverted-U scrotal or perineal skin flap into a ventral urethrotomy | Bulbar strictures; classic PU |
-| **Turner-Warwick** | Two-stage scrotal inlay; transpubic approach with omental wrap | Complex and posterior strictures |
+| **Turner-Warwick** | Two-stage scrotal inlay; transpubic approach, omental wrap | Complex, posterior |
 | **Webster** | Progressive perineal approach: mobilisation, crural separation, inferior pubectomy, rerouting | PFUI (pelvic fracture urethral injury) |
-| **Monseur** | Dorsal urethrotomy sutured open to corpora | Bulbar (historical) |
 | **Barbagli** | **Dorsal onlay** BMG (buccal mucosal graft) spread-fixed to corpora | Bulbar |
 | **Asopa** | **Dorsal inlay** graft through a ventral urethrotomy, no mobilisation | Penile and bulbar |
-| **Kulkarni** | One-sided dorsolateral onlay; panurethral repair through perineum with penile invagination | Long or panurethral strictures (LS) |
+| **Kulkarni** | One-sided dorsolateral onlay; panurethral repair via perineum with penile invagination | Panurethral (LS) |
 | **Orandi** | Ventral longitudinal penile skin island flap on dartos | Pendulous |
 | **Quartey** | Showed skin island is a passenger on a fascial (dartos) flap | Basis of all genital skin flaps |
 | **McAninch** | Circular fasciocutaneous penile skin flap | Long anterior strictures (up to 15 cm) |
 | **Jordan** | Vessel-sparing EPA; ventral transverse island for fossa | Proximal bulbar; fossa navicularis |
-| **Andrich–Mundy** | Non-transecting anastomotic repair | Short proximal bulbar |
-| **Bracka** | Two-stage BMG | Failed hypospadias, LS |
 
-- **Principles:** grafts need a vascular bed (dorsal corpora, bulbar spongiosum); onlay beats tube; graft equals flap in results; BMG is the preferred graft.
+- **Also know:** Monseur dorsal urethrotomy; Andrich–Mundy non-transecting anastomosis; Bracka two-stage BMG.
+- **Principles:** grafts need a vascular bed; onlay beats tube; graft equals flap.
 
 ### Perineal urethrostomy (PU)
-- **Definition:** bulbar urethra opened onto perineal skin; voiding sitting. It **bypasses** a diseased anterior urethra.
-- **Indications:** LS panurethral disease, multiple failed urethroplasties, elderly or high-risk patients, first stage of staged repair, after penectomy.
+- **Definition:** bulbar urethra opened onto perineal skin; the patient voids sitting. It **bypasses** a diseased anterior urethra.
+- **Indications:** LS panurethral disease, failed urethroplasties, elderly or high-risk patients, after penectomy.
 - **Techniques:**
   - **Classic (Blandy):** inverted-U perineal flap into the opened bulbar urethra.
-  - **BMG PU:** urethra transected; dorsal urethrotomy to healthy mucosa; ventral urethra brought to skin; calibrated to **30 Fr**; BMG on corpora completes the dorsal wall and prevents circumferential scarring.
-- **Complications:** stenosis (main), spraying, perineal wetness. Prior radiation and LS raise restricture.
+  - **BMG PU:** dorsal urethrotomy to healthy mucosa; ventral urethra to skin; calibrated to **30 Fr**; BMG on corpora completes the dorsal wall, preventing circumferential scarring.
+- **Complications:** stenosis (main), spraying, perineal wetness.
 
 **Diagram to draw:** bulbar cross-section showing dorsal onlay (Barbagli), dorsal inlay (Asopa) and ventral onlay.
 
@@ -373,7 +371,7 @@
 *Assumed meaning: prognostic factors, risk-group systems and nomograms in penile SCC (squamous cell carcinoma). No single universally used "prognostic index score" exists.*
 
 ### Introduction
-- Prognosis rests on **pathological stage and histology of the primary**, and above all on **inguinal node status**.
+- Prognosis rests on primary histology and stage and, above all, **inguinal node status**.
 
 ### 1. Nodal status (most important factor)
 | Nodal finding | 5-year survival |
@@ -390,15 +388,14 @@
 - **Grade:** any grade III component = grade III.
 - **LVI (lymphovascular invasion)** and **PNI (perineural invasion)**: strongest predictors; define pT1b.
 - **Subtype:** verrucous and PeIN (penile intraepithelial neoplasia) do not metastasise; basaloid and sarcomatoid aggressive.
-- **Size >5 cm**, shaft involvement: worse.
 
 ### 3. Risk-group systems
 | System | Low | Intermediate | High |
 |---|---|---|---|
-| **Solsona / earlier EAU (European Association of Urology)** | Tis, Ta, T1 G1 | T1 G2 | T2 or more, or G3 |
+| **Earlier EAU (European Association of Urology), after Solsona** | Tis, Ta, T1 G1 | T1 G2 | T2 or more, or G3 |
 | **Current EAU–ASCO (American Society of Clinical Oncology) / TNM** | PeIN, Ta, **T1a** (nodes 0–18%) | — | **T1b or more** (one-third to over half) |
 
-- Use: low risk → surveillance of groins; high risk → **DSNB (dynamic sentinel node biopsy)** or ILND (inguinal lymph node dissection).
+- Low risk → groin surveillance; high risk → **DSNB (dynamic sentinel node biopsy)** or ILND (inguinal lymph node dissection).
 
 ### 4. Nomograms and indices
 - **Ficarra nomogram:** predicts nodal involvement (thickness, growth pattern, grade, LVI, corporal invasion, clinical node status).
@@ -408,10 +405,10 @@
 
 ### 5. Molecular markers
 - **HPV (human papillomavirus)/p16 positive:** better DSS (not node status).
-- Adverse: p53, PD-L1 (programmed death-ligand 1), Ki-67, high **NLR** (neutrophil-to-lymphocyte ratio), raised CRP (C-reactive protein), SCC antigen.
+- Adverse: p53, PD-L1 (programmed death-ligand 1), Ki-67, high **NLR** (neutrophil-to-lymphocyte ratio), raised CRP (C-reactive protein).
 
 ### 6. Other
-- Inguinal recurrence after observation: only about one-third survive 5 years; hypercalcaemia signals bulk.
+- Inguinal recurrence after observation: only about one-third survive 5 years. Size >5 cm worse.
 
 **Diagram to draw:** flowchart: primary pathology → low or high risk → surveillance or DSNB/ILND.
 
@@ -428,10 +425,10 @@
 ### Principles of antireflux surgery
 - Normal flap valve: intramural ureter compressed against detrusor during filling.
 - **Paquin's rule:** tunnel length to ureteric diameter about **5:1** in non-refluxing junctions versus 1.4:1 in refluxing ones.
-- Exclude secondary VUR (vesicoureteral reflux); handle ureter gently; tension-free, straight, unkinked course.
+- Exclude secondary VUR (vesicoureteral reflux); tension-free, straight course.
 
 ### Indications for surgery
-- Breakthrough febrile UTI (urinary tract infection) on prophylaxis, new scars, persistent high-grade VUR, non-adherence or parental preference.
+- Breakthrough febrile UTI (urinary tract infection) on prophylaxis, new scars, persistent high-grade VUR.
 
 ### 1. Paquin technique
 - **Combined extravesical–intravesical** reimplant described by Paquin (1959), with the 5:1 rule.
@@ -442,7 +439,7 @@
   4. Ureter drawn through, spatulated, sutured to mucosa and anchored to detrusor.
   5. Old hiatus closed.
 - **Advantages:** long tunnel under direct vision; good for **dilated ureters and megaureter** (can combine with tapering).
-- **Disadvantages:** two approaches; risk of kinking or obstruction at the new hiatus.
+- **Disadvantages:** kinking or obstruction at the new hiatus.
 
 ### 2. Gil-Vernet trigonoplasty
 - **Intravesical, no tunnelling and no ureteric mobilisation.**
@@ -453,9 +450,8 @@
   4. Mucosa closed.
 - **Effect:** lengthens and medialises the intravesical ureters; corrects both sides at once.
 - **Indications:** low to moderate grade (I–III), usually bilateral VUR, with non-dilated ureters.
-- **Advantages:** quick, simple, little dissection, low obstruction risk; later retrograde access easy.
+- **Advantages:** quick, simple, low obstruction risk; easy later retrograde access.
 - **Disadvantages:** unsuitable for high grade, dilated ureters, paraureteral diverticulum.
-- **Also know:** endoscopic and vesicoscopic adaptations exist.
 
 ### Comparison
 | Feature | Paquin | Gil-Vernet |
@@ -465,7 +461,7 @@
 | Tunnel | New long submucosal | None (advancement) |
 | Best for | High grade, dilated | Low grade, bilateral |
 
-- **Also know:** Politano–Leadbetter (suprahiatal), Cohen (cross-trigonal, commonest, >98% success), Glenn–Anderson, Lich–Gregoir (extravesical). Open success benchmark 95.9% (AUA meta-analysis).
+- **Also know:** Politano–Leadbetter, Cohen (commonest, >98% success), Glenn–Anderson, Lich–Gregoir. Open success benchmark 95.9% (AUA [American Urological Association] meta-analysis).
 
 **Diagram to draw:** trigone showing Gil-Vernet transverse incision and medial advancement stitch.
 

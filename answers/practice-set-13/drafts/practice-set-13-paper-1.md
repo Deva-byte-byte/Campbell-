@@ -123,13 +123,14 @@
   - **Five segmental end arteries:** posterior (first branch) plus apical, upper, middle, lower. Each can be clamped or resected separately.
   - **Brödel line:** avascular plane behind the lateral border.
   - Accessory arteries in 25–28%. **Veins anastomose freely**, so a segmental vein can be ligated.
+- **Also know:** lymph drains to para-aortic (left) and paracaval or interaortocaval nodes (right).
 
 **Diagram to draw:** transverse section with segmental arteries and Brödel line.
 
 ### Small renal mass (SRM)
 - Enhancing mass **≤4 cm (cT1a)**, mostly incidental. 20–30% are benign (about 40% at ≤2 cm). Under 2% metastasise.
 - **Biology:** about 20% benign, 60% indolent, 20% potentially aggressive.
-- **Work-up:** multiphase CT or MRI; chest imaging; eGFR (estimated GFR) and proteinuria (CKD [chronic kidney disease] stage); **RMB (renal mass biopsy)** when it would change management (non-diagnostic about 14%). R.E.N.A.L. nephrometry for complexity.
+- **Work-up:** multiphase CT or MRI; chest imaging; eGFR (estimated GFR) and proteinuria (CKD [chronic kidney disease] stage); **RMB (renal mass biopsy)** when it would change management (non-diagnostic about 14%). R.E.N.A.L. nephrometry (Radius, Exophytic, Nearness to collecting system, Anterior/posterior, Location): 4–6 low, 7–9 moderate, 10–12 high complexity.
 
 ### Why spare nephrons
 - RN (radical nephrectomy) causes CKD, linked to cardiovascular events and death. PN (partial nephrectomy) keeps about 90% of global function versus 65–70% after RN, with equal cancer control in cT1a.
@@ -177,14 +178,14 @@
 
 | Indication | Dose and evidence |
 |---|---|
-| **Idiopathic OAB (overactive bladder)**, third line | **100 U** (EMBARK); ROSETTA: comparable to SNM (sacral neuromodulation) |
+| **Idiopathic OAB (overactive bladder)**, third line | **100 U** (EMBARK) |
 | **NDO (neurogenic detrusor overactivity):** SCI (spinal cord injury), MS (multiple sclerosis) | **200 U** (DIGNITY); works with or without antimuscarinics |
 | **Paediatric NDO** | About **10 U/kg (maximum 360 U)**, about 30 sites (Campbell series); FDA (Food and Drug Administration) label 6 U/kg, maximum 200 U |
 | **DSD (detrusor–sphincter dyssynergia)** | Intrasphincteric injection, mainly men |
 | **IC/BPS (interstitial cystitis/bladder pain syndrome)** | Intradetrusor, often trigonal; AUA option, off-label |
 | **BPH (benign prostatic hyperplasia)** | 100–300 U intraprostatic: large RCTs (randomised controlled trials) equal to saline; not used |
 
-- **Also know:** pelvic floor spasm; chronic orchialgia (cord injection: RCT negative); toxin B too short-acting.
+- **Also know:** pelvic floor spasm; chronic orchialgia (RCT negative).
 
 ### Complications and contraindications
 - **Retention needing CISC (clean intermittent self-catheterisation)**, more in NDO; each 10 mL of baseline PVR raises the risk about 27%. The patient must accept CISC beforehand.
@@ -219,7 +220,7 @@
 
 ### Evaluation
 - **Imaging** (ultrasound, MRI [magnetic resonance imaging]) is not recommended: unreliable, and it does not change the operation.
-- **Bilateral nonpalpable:** first exclude DSD (difference of sex development) and CAH (congenital adrenal hyperplasia) with karyotype and hormones.
+- **Bilateral nonpalpable:** exclude DSD (difference of sex development) and CAH (congenital adrenal hyperplasia) first.
   - Anorchia: high FSH (follicle-stimulating hormone) and LH (luteinising hormone); low AMH (anti-Müllerian hormone) and inhibin B; no rise after hCG (human chorionic gonadotrophin). Most reliable during mini-puberty.
 
 ### Management: diagnostic laparoscopy (after examination under anaesthesia)
@@ -229,14 +230,14 @@
 | **Blind-ending vessels and vas** above a closed ring | Diagnosis confirmed; stop |
 | Vessels and vas entering the internal ring | Inguinal or scrotal exploration; excise the nubbin |
 | Testis seen | Orchidopexy (single stage or Fowler–Stephens) |
-| Neither vas nor vessels | Search to the kidney (true agenesis is extremely rare) |
+| Neither vas nor vessels | Search up to the kidney (agenesis very rare) |
 
 - **Excise the remnant:** viable germ cells or tubules in 5–15%.
 - **Scrotal-first exploration** is reasonable with a palpable nubbin and contralateral hypertrophy (length ≥1.8 cm); laparoscopy is then needed in about a quarter.
 - **Contralateral fixation:** debated; not required by the AUA (American Urological Association) algorithm.
 - **Prosthesis:** offer at least 6 months after scrotal surgery or after puberty, inguinal approach.
-- **Anorchia:** testosterone replacement from puberty; infertile.
-- **Also know:** agenesis is distinguished by ipsilateral Müllerian persistence.
+- **Anorchia:** testosterone from puberty.
+- **Also know:** agenesis shows ipsilateral Müllerian persistence.
 
 **Diagram to draw:** laparoscopic view of blind-ending spermatic vessels above a closed internal ring.
 
@@ -253,7 +254,7 @@
 
 ### Definition of failure
 - Persistent or recurrent pain, UTI (urinary tract infection) or stones; **obstructive diuretic renogram** (T½ >20 minutes); increasing hydronephrosis; or fall in split function.
-- Early postoperative dilatation is common and settles slowly, so judge by renography and trend.
+- Dilatation settles slowly, so judge by renography and trend.
 - About 1 in 9 children need a secondary procedure. Most failures occur within 1–2 years, but up to 30% occur later.
 
 ### Causes
@@ -278,8 +279,9 @@
 | **Redo pyeloplasty** (open, laparoscopic, robotic) | Long or dense stricture, crossing vessel | About 86–89%; best choice in most children |
 | **Ureterocalicostomy** | Scarred, small intrarenal pelvis; dilated lower calyx | About 70% (redo series) |
 | **Buccal mucosa onlay** (robotic, omental wrap) | Long scarred UPJ (ureteropelvic junction) | Failure about 15–25% (CORRUS) |
-| **Ileal ureter or autotransplantation** | Long ureteric loss | Selected cases |
-| **Nephrectomy** | Split function <15% with normal contralateral kidney; multiple failed repairs | Definitive |
+| **Nephrectomy** | Split function <15%, normal other kidney; multiple failures | Definitive |
+
+- **Also know:** ileal ureter or autotransplantation for long ureteric loss.
 
 ### Principles of redo surgery
 - Transperitoneal route in children (retroperitoneum is scarred).
@@ -322,8 +324,7 @@
 | **Excess skin removal**, degloving | Heals by secondary intention with ointment; severe: grafts |
 | **Trapped penis** (cicatrix over glans) | Betamethasone 0.05% and retraction; else relaxing incision, flaps, Z-plasty |
 | **Meatal stenosis** (almost only after circumcision) | Meatotomy or meatoplasty |
-| Urethrocutaneous fistula (subcoronal) | Repair as for hypospadias |
-| Glans amputation; penile necrosis (cautery on metal clamp) | Reattach glans within 8 hours; reconstruction |
+| Subcoronal fistula; glans amputation; necrosis (cautery on clamp) | Hypospadias-type repair; reattach glans within 8 hours |
 
 ### Evaluation
 - Original procedure (age, device); examine skin quantity, meatus, curvature; exclude hypospadias, buried or webbed penis and BXO (balanitis xerotica obliterans).
@@ -360,7 +361,7 @@
 ### Aetiology
 - Mostly **acquired**. **Routh theory** (most accepted): infection of **periurethral glands** leads to duct obstruction, suburethral abscess, rupture into the lumen and an epithelialised sac.
 - Hence the ostium is **posterolateral at mid or distal urethra** in ≥90%.
-- **Also know:** childbirth trauma (20–30% are nulliparous); congenital in children.
+- **Also know:** childbirth trauma theory (but 20–30% are nulliparous).
 
 ### Clinical features
 - "Three Ds" (dysuria, dyspareunia, post-void dribbling) in only about 5%.
@@ -373,7 +374,7 @@
 - **Imaging sensitivity:** **MRI (magnetic resonance imaging) 97%**, double-balloon urethrography 95%, ultrasound 82%, VCUG (voiding cystourethrogram) 74%.
 - MRI: low T1, high T2; shows saddlebag or circumferential extension.
 - **Videourodynamics** separates true SUI (stress urinary incontinence) from dribbling from the sac.
-- **Differential diagnosis:** Skene cyst (distal, distorts meatus, no communication), Gartner cyst, leiomyoma, prolapse, caruncle, bulking agent.
+- **Differential diagnosis:** Skene cyst (distal, distorts meatus, no communication), Gartner cyst, leiomyoma, caruncle, bulking agent.
 
 ### Classification
 - **L/N/S/C3 (Leach):** location, number, size, configuration, communication, continence.
@@ -417,13 +418,13 @@
 - **Bulking agents**, injected submucosally under cystoscopic vision, are the least invasive surgical option.
 
 ### Mechanism
-- Bulk at the proximal urethra improves **mucosal coaptation** and raises urethral resistance.
-- They do not correct hypermobility. However, most SUI has some ISD, so they also work in mobile urethras.
+- Bulk at the proximal urethra improves **mucosal coaptation** and urethral resistance.
+- It does not correct hypermobility, but most SUI includes some ISD, so it can still help.
 
 ### Indications
 - ISD with a **fixed, immobile urethra** (low VLPP [Valsalva leak point pressure] <60 cmH₂O, historically).
-- Women wanting a **low-risk**, office procedure; elderly or unfit; future pregnancy planned.
-- Persistent leakage after a sling; neurogenic SUI (does not impair compliance).
+- Women wanting a **low-risk** office procedure; elderly or unfit; future pregnancy.
+- Persistent leakage after a sling; neurogenic SUI (safer for bladder compliance than a sling).
 - **Contraindications:** active UTI (urinary tract infection), untreated detrusor overactivity, small-capacity bladder.
 
 ### Agents
@@ -435,7 +436,6 @@
 | Calcium hydroxylapatite; carbon-coated zirconium beads | Particulate |
 | Bovine collagen (skin test); PTFE (polytetrafluoroethylene); autologous fat | Withdrawn or abandoned: allergy, migration, granuloma, embolism |
 
-- Ideal agent: biocompatible, non-immunogenic, non-migrating, durable.
 
 ### Technique
 1. Sterile urine; local anaesthesia; cystoscope (0–30° lens) in the urethra.
@@ -444,13 +444,13 @@
 4. Avoid an indwelling catheter (it moulds the bulk); for retention use short-term CISC (clean intermittent self-catheterisation).
 
 ### Outcomes
-- Improvement is common early, but cure is lower than with slings and **declines with time**; repeat injections are often needed.
+- Early improvement is common, but cure is lower than with slings and **declines with time**; repeat injections are often needed.
 - **Cochrane review (Kirchin 2017):** limited evidence of benefit.
 - **AUA/SUFU (American Urological Association/Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction):** an option; counsel about lower durability and retreatment.
 - **Men:** EAU (European Association of Urology): **do not offer** for post-prostatectomy incontinence.
 
 ### Complications
-- Transient retention, UTI, dysuria, haematuria, de novo urgency.
+- Transient retention, UTI, dysuria, haematuria, urgency.
 - Sterile abscess, migration, erosion; the mass may mimic a urethral diverticulum on MRI (magnetic resonance imaging).
 
 **Diagram to draw:** cystoscopic view before and after injection, showing coapted mucosal cushions.

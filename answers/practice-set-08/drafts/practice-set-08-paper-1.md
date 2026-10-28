@@ -182,7 +182,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 - **Risk factors:** extensive dissection, obesity, heparin prophylaxis, mTOR (mammalian target of rapamycin) inhibitors, acute rejection, retransplantation.
 
 ### Clinical features
-- Most are silent. Large ones compress neighbouring structures:
+- Most are silent. Large ones compress:
   - iliac vein: leg oedema, **DVT (deep vein thrombosis)**;
   - bladder: frequency, urgency, pelvic pressure;
   - ureter or graft: hydronephrosis, rising creatinine.
@@ -190,7 +190,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 
 ### Diagnosis
 - **Ultrasound:** anechoic, often septated, thin-walled collection. **CT** maps it before intervention.
-- **Aspirate:** lymph has creatinine equal to serum (urinoma: much higher), lymphocytes; culture excludes abscess. Duplex scan for associated DVT.
+- **Aspirate:** lymph has creatinine equal to serum (urinoma: much higher), lymphocytes; culture excludes abscess.
 
 ### Management
 | Situation | Treatment |
@@ -202,7 +202,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 | Laparoscopy unsafe | Open drainage |
 
 - **Success:** laparoscopic fenestration best, open next, drain or sclerotherapy intermediate, **aspiration alone worst** (reaccumulates, risks infection).
-- Fenestration lets the peritoneum absorb lymph (internal drainage), the definitive cure. Sclerotherapy may hinder later marsupialisation.
+- Fenestration lets the peritoneum absorb lymph (internal drainage): the definitive cure.
 - **Lymphangiography with embolisation:** high success; long-term data awaited.
 
 ### Prevention
@@ -251,7 +251,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 
 ### Resistance and sequencing
 - P-glycoprotein efflux pump mediates resistance. **Cabazitaxel** has poor P-glycoprotein affinity, so it works after docetaxel (**TROPIC**; **CARD** beat a second ARPI [androgen receptor pathway inhibitor]).
-- **Also know:** failed combinations (bevacizumab, atrasentan); neoadjuvant use before prostatectomy not established.
+- **Also know:** failed combinations (bevacizumab, atrasentan).
 
 **Diagram to draw:** microtubule stabilised by docetaxel causing G2/M arrest and blocking AR entry into the nucleus.
 
@@ -319,7 +319,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 - **Dilation is under-read in the first 48 hours** (physiological dehydration).
 
 ### Antenatal hydronephrosis follow-up
-- **First scan after 48 hours.** Scan earlier if bilateral severe dilation, solitary kidney or suspected PUV (posterior urethral valves).
+- **First scan after 48 hours**; earlier if solitary kidney or suspected PUV (posterior urethral valves).
 - Normal postnatal **APD (anteroposterior pelvic diameter) <10 mm**, no calyceal or ureteric dilation.
 
 | UTD (urinary tract dilation) risk | Findings | Action |
@@ -333,10 +333,10 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 ### Other neonatal indications
 | Condition | Ultrasound finding |
 |---|---|
-| PUV | Thick bladder, **keyhole sign**, bilateral hydroureteronephrosis, echogenic dysplastic kidneys |
+| PUV | Thick bladder, **keyhole sign**, bilateral hydroureteronephrosis |
 | MCDK (multicystic dysplastic kidney) | Non-communicating cysts of varying size, scant parenchyma |
 | ARPKD (autosomal recessive polycystic kidney disease) | Large, bilaterally echogenic kidneys |
-| Masses | Mesoblastic nephroma; adrenal haemorrhage; renal vein thrombosis (enlarged kidney, AKI [acute kidney injury], hypertension) |
+| Masses | Mesoblastic nephroma; adrenal haemorrhage; renal vein thrombosis (large kidney, hypertension) |
 | Duplex anomalies | Ureterocele, ectopic ureter, megaureter |
 | Spine | Occult dysraphism before arch ossification (up to 6 months) |
 | DSD (differences of sex development) | Müllerian structures, gonads |
@@ -418,7 +418,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 - **Also know:** SDH (succinate dehydrogenase)-deficient RCC; BAP1; PTEN (Cowden).
 
 ### Kidney management
-- **3 cm rule:** watch tumours <3 cm; nephron-sparing surgery at ≥3 cm (VHL, HPRC, BHD) to save function for repeat surgery. **Exception: HLRCC**: excise promptly with wide margins.
+- **3 cm rule:** watch tumours <3 cm; nephron-sparing surgery at ≥3 cm (VHL, HPRC, BHD), saving function for repeat surgery. **Exception: HLRCC**: excise promptly, wide margins.
 - TSC AML: everolimus if >3 cm. **Belzutifan** (HIF-2α [hypoxia-inducible factor 2α] inhibitor) is approved for VHL tumours.
 
 ### Other urological cancers
@@ -426,7 +426,7 @@ Severe or failed   -> renal hilar lymphatic disconnection (open, laparoscopic, r
 - **UTUC (upper tract urothelial carcinoma): Lynch syndrome** (MLH1, MSH2, MSH6, PMS2): about 14-fold risk, about 75-fold with MSH2. MMR (mismatch repair) immunohistochemistry, then germline testing.
 - **Testis:** affected brother RR (relative risk) 8–12, father 2–4.
 - **Phaeochromocytoma:** about one-third hereditary (MEN-2 [multiple endocrine neoplasia type 2], VHL, NF1 [neurofibromatosis type 1], SDHB).
-- **Also know:** Wilms tumour (WT1: WAGR [Wilms, aniridia, genitourinary anomalies, retardation] and Denys–Drash; Beckwith–Wiedemann).
+- **Also know:** Wilms tumour (WT1 in WAGR and Denys–Drash; Beckwith–Wiedemann).
 
 ### Approach
 - Young age, multifocality or family history: genetic counselling, germline testing, screen relatives.

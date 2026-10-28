@@ -19,15 +19,15 @@
 
 ### Definition
 - **PBS (prune belly syndrome)**, also called Eagle–Barrett or triad syndrome: **deficient abdominal wall muscles**, **bilateral intra-abdominal testes** and a **dilated, poorly contracting urinary tract**.
-- 1 in 29,000–44,000 live births; **95% male**; commoner in twins. Females have no gonadal anomaly.
+- 1 in 29,000–44,000 live births; **95% male**.
 - **Survival depends on renal dysplasia and lung hypoplasia, not on the abdominal wall.**
 
 ### Antenatal diagnosis
 - **Ultrasound** may suggest PBS from 11–14 weeks, but the classic signs are not consistent even at 30 weeks.
-- **Findings:** huge bladder filling the abdomen; bilateral hydroureteronephrosis; urachal diverticulum; elongated dilated posterior urethra; echogenic kidneys with cortical cysts (dysplasia); irregular abdominal circumference; early fetal ascites; oligohydramnios when severe.
-- **Differential diagnosis:** PUV (posterior urethral valves), urethral atresia, megacystis–megaureter. All cause the picture of LUTO (lower urinary tract obstruction).
+- **Findings:** huge bladder filling the abdomen; bilateral hydroureteronephrosis; urachal diverticulum; dilated posterior urethra; echogenic kidneys with cortical cysts (dysplasia); irregular abdominal circumference; fetal ascites; oligohydramnios when severe.
+- **Differential diagnosis:** PUV (posterior urethral valves), urethral atresia, megacystis–megaureter.
 - Fetal dilatation does **not** predict postnatal renal function.
-- **Prenatal management:** intervention has no proven renal benefit. Vesicoamniotic shunting is justified only for **urethral atresia with progressive oligohydramnios**, or to decompress the abdomen and avoid dystocia. Termination is hard to justify except with early, severe oligohydramnios. Counsel the parents and plan delivery in a centre with a neonatal ICU (intensive care unit).
+- **Prenatal management:** intervention has no proven renal benefit. Vesicoamniotic shunting is justified only for **urethral atresia with progressive oligohydramnios**, or to decompress the abdomen and avoid dystocia. Termination is hard to justify except with early, severe oligohydramnios. Plan delivery in a centre with neonatal intensive care.
 
 ### Pathophysiology
 | Theory (none proven) | Mechanism |
@@ -35,14 +35,14 @@
 | Early urethral obstruction | Back-pressure dilates the tract and stretches the wall; but most have no obstruction after birth |
 | Lateral plate mesoderm defect | This mesoderm forms ureters, bladder, prostate, urethra and gubernaculum, so one defect explains the triad |
 | Intrinsic urinary tract defect | Primary ureteric dilatation and fetal ascites |
-| Yolk sac defect | Primary yolk sac defect |
+| Yolk sac defect | Primary defect of the yolk sac |
 - **Genetics:** mostly sporadic, normal karyotype; smooth-muscle genes **MYOCD (myocardin)** and **FLNA (filamin A)** in multiplex families.
 - **Kidneys:** dysplasia in about 50% (Potter type II from mesenchymal defect; type IV cystic from obstruction).
 - **Ureters:** long and tortuous, worse distally. Collagen replaces smooth muscle, so walls do not coapt and peristalsis fails: **a failed pump, not a blocked pipe**. The result is stasis and infection. **VUR (vesicoureteric reflux) in about 75%.** The proximal ureter has better muscle.
-- **Bladder:** large, smooth, collagen-rich; urachal pseudodiverticulum (urachus patent in 25–30%); splayed trigone. Normal compliance but poor sensation and contractility, so voiding is "unbalanced", with residual urine.
+- **Bladder:** large, smooth, collagen-rich; urachal pseudodiverticulum; splayed trigone. Normal compliance but poor contractility, so voiding is "unbalanced", with residual urine.
 - **Prostate and urethra:** prostatic hypoplasia dilates the posterior urethra; distal obstruction in about 20%; **megalourethra** (scaphoid: spongiosum deficient; fusiform: all erectile bodies, more severe).
-- **Testes:** intra-abdominal over the iliac vessels; azoospermia and retrograde ejaculation; paternity only by sperm retrieval and ICSI (intracytoplasmic sperm injection).
-- **Extra-genitourinary (about 75%):** pulmonary hypoplasia from oligohydramnios, pneumothorax; cardiac about 10%; gastrointestinal at least 30% (malrotation); orthopaedic up to 65% (talipes, hip dysplasia, scoliosis).
+- **Testes:** intra-abdominal; azoospermia; paternity only by sperm retrieval and ICSI (intracytoplasmic sperm injection).
+- **Extra-genitourinary (about 75%):** pulmonary hypoplasia; cardiac about 10%; gastrointestinal at least 30% (malrotation); orthopaedic up to 65% (talipes, hip dysplasia).
 
 ### Classification (Woodard)
 | Category | Features | Management |
@@ -57,16 +57,16 @@
 1. Heart and lungs first: **chest radiograph** for pneumothorax and hypoplasia.
 2. Creatinine, BUN (blood urea nitrogen), electrolytes; follow the **trend**, because the first value reflects the mother.
 3. Renal and bladder ultrasound once stable.
-4. Antibiotic prophylaxis; **circumcision**; strict asepsis for any instrumentation.
+4. Antibiotic prophylaxis; **circumcision**; strict asepsis.
 5. **VCUG (voiding cystourethrogram)** only with renal insufficiency or suspected outlet obstruction.
 6. **DMSA (dimercaptosuccinic acid) at 4–6 weeks** for split function; MAG3 (mercaptoacetyltriglycine) for drainage.
 7. Outlet obstruction: catheter or suprapubic tube.
 
 **Urinary tract:**
-- **Conservative** for most (category III): surveillance and treatment of infection; dilatation may improve with growth.
+- **Conservative** for category III: surveillance, treat infection.
 - **Surgery for:** recurrent upper tract infection, progressive dilatation or renal decline, high-grade VUR, true obstruction.
 - **Temporary diversion:** wide **cutaneous vesicostomy (Blocksom)**. Avoid high ureterostomy, which wastes the good proximal ureter.
-- **Reconstruction after 3–6 months** (lung maturity): excise distal ureter, taper and reimplant the healthier proximal ureter; reduction cystoplasty with urachal diverticulum excision (capacity recurs). **CIC (clean intermittent catheterisation)** or Mitrofanoff for poor emptying. Internal urethrotomy is abandoned.
+- **Reconstruction after 3–6 months** (lung maturity): excise distal ureter, taper and reimplant the healthier proximal ureter; reduction cystoplasty (capacity recurs). **CIC (clean intermittent catheterisation)** or Mitrofanoff for poor emptying.
 
 **Orchidopexy:** **bilateral transabdominal at about 6 months**, often with other surgery; later, **staged Fowler–Stephens** (better than single-stage) or laparoscopic.
 
@@ -76,11 +76,10 @@
 | Randolph | Transverse; excises worst lower wall |
 | Ehrlich | Vertical; umbilicus kept; vest-over-pants overlap |
 | Monfort | Vertical; umbilicus kept; central fascial plate with lateral flaps overlapped; transperitoneal access for combined surgery |
-- **Also know:** Furness (extraperitoneal plication); Dénes; elastic corset.
+- **Also know:** Furness (extraperitoneal plication); Dénes; corset.
 
 ### Prognosis and follow-up
-- About 20% die perinatally; **up to 30% develop chronic renal failure**. **Nadir creatinine <0.7 mg/dL at 1 year** predicts stable function. Transplant results match age-matched controls.
-- Lifelong timed or double voiding, urine cultures and imaging.
+- About 20% die perinatally; **up to 30% develop chronic renal failure**. **Nadir creatinine <0.7 mg/dL at 1 year** predicts stable function. Lifelong timed voiding, cultures and imaging; transplant when needed.
 
 **Diagram to draw:** fetal ultrasound sketch: huge bladder, dilated posterior urethra, bilateral hydroureteronephrosis.
 
@@ -149,7 +148,7 @@
 ### Outcomes and complications
 - Primary RPLND: cancer-specific survival about 98.8–100%.
 - **Antegrade ejaculation >90%** with templates plus nerve sparing (modified template alone: early 75–87%, refined 97%).
-- **Also know:** chylous ascites; lymphocele; small bowel obstruction; nephrectomy needed at PC-RPLND (left-sided mass >10 cm); GETUG T93BP showed incomplete RPLND predicts relapse.
+- **Also know:** ileus (commonest); chylous ascites; bleomycin lung toxicity (low FiO₂); nephrectomy needed at PC-RPLND (left-sided mass >10 cm); GETUG T93BP showed incomplete RPLND predicts relapse.
 
 ### Recent advances
 - **Robotic RPLND** for low-volume disease (same template, same rules).
@@ -189,7 +188,7 @@
 | R | Renal transplant rejection; renal vein thrombosis |
 | D | **Diabetes mellitus** |
 | S | Systemic vasculitis |
-- **Also know:** dehydration, hypoxia and jaundice of infants; hypotensive shock; renal candidiasis.
+- **Also know:** infant dehydration and hypoxia; shock; renal candidiasis.
 
 ### Clinical features
 - **Acute:** fever, flank pain, haematuria, **ureteric colic from a sloughed papilla**, sepsis; bilateral cases may cause AKI (acute kidney injury).
@@ -198,7 +197,7 @@
 ### Investigations
 - Urine microscopy and culture; **strain urine** and send tissue for histology; creatinine, glucose, haemoglobin electrophoresis.
 - **CT urography or IVU (intravenous urography):** early contrast tracking into the papilla ("**ball-on-tee**", "**lobster claw**"); "**ring sign**" (contrast around a detached papilla); clubbed calyces; filling defects; triangular ring-shaped calcification.
-- Ultrasound: hydronephrosis, echogenic papillae. Retrograde pyelography when renal function is poor.
+- Retrograde pyelography when renal function is poor.
 - **Differential diagnosis:** tuberculosis, medullary sponge kidney, calyceal diverticulum, upper tract urothelial carcinoma.
 
 ### Management
@@ -224,8 +223,7 @@
 
 ### Principle
 - **⁹⁹ᵐTc-MAG3:** protein-bound tracer cleared mainly by **proximal tubular secretion**. Extraction is nearly **60%** per pass, versus about 20% for DTPA (diethylenetriaminepentaacetic acid).
-- So it gives **good images even with poor GFR (glomerular filtration rate)**, lower background and radiation, and lower cost. **Agent of choice for split function and obstruction.** Its clearance estimates effective renal plasma flow.
-- ⁹⁹ᵐTc: 6-hour half-life, 140 keV photon.
+- So it gives **good images even with poor GFR (glomerular filtration rate)**, lower background and lower cost. **Agent of choice for split function and obstruction.**
 
 | | DTPA | MAG3 | DMSA (dimercaptosuccinic acid) |
 |---|---|---|---|
@@ -234,7 +232,7 @@
 | Key use | GFR; renovascular | Split function, drainage | Scars, pyelonephritis |
 
 ### Technique ("well-tempered" diuretic renogram)
-- **Hydration**; **bladder catheter** in children and neurogenic bladder; nephrostomy capped.
+- **Hydration**; **bladder catheter** in children and neurogenic bladder.
 - Dose 185–370 MBq (5–10 mCi) intravenously in adults.
 - **Furosemide:** 0.5 mg/kg (maximum 40 mg) in adults; 1 mg/kg in children, given when the system is full. Timing varies (F+15, F0, F−15), so the report must state it.
 - Upright or post-void images test gravity drainage.
@@ -254,10 +252,10 @@
 ### Uses
 - PUJ (pelviureteric junction) obstruction and megaureter: **surgery if DRF <40% with poor drainage or falling DRF**; follow-up after pyeloplasty.
 - Transplant: acute rejection (perfusion falls) versus delayed graft function (perfusion kept); urine leak.
-- **Also know:** indirect cystography for VUR (vesicoureteric reflux); captopril renography (DTPA preferred); split function before nephrectomy.
+- **Also know:** indirect cystography for VUR (vesicoureteric reflux); split function before nephrectomy.
 
 ### Pitfalls
-- Dehydration, full bladder, wrong ROI (region of interest), mistimed diuretic, massive dilatation, poor function and neonatal immaturity (wait 4–6 weeks) all mimic obstruction. No single paediatric T½ cut-off: **trend on serial scans** matters.
+- Dehydration, full bladder, wrong ROI (region of interest), mistimed diuretic, massive dilatation and neonatal immaturity mimic obstruction. **Trend on serial scans** matters.
 
 **Diagram to draw:** renogram curves types I, II, IIIa and IIIb.
 
@@ -277,8 +275,8 @@
 **1. Asopa dorsal inlay urethroplasty (2001)**
 - Single-stage graft urethroplasty for anterior urethral stricture by a **ventral sagittal urethrotomy** approach.
 - **Steps:** expose the urethra ventrally without circumferential mobilisation; open the urethra ventrally through the stricture; incise the **dorsal urethral plate** in the midline down to the corpora; **inlay** a free graft (buccal mucosa or penile/preputial skin) and quilt it to the tunica albuginea; close the urethra over a catheter.
-- **Rationale:** the graft lies on the well-vascularised corporal bed; avoiding mobilisation preserves spongiosal blood supply; technically simple; suits bulbar and penile strictures.
-- Ranks with **Barbagli dorsal onlay** and **Kulkarni one-sided** repair among dorsal graft techniques. The same "incise and graft" principle was later used in hypospadias (grafted TIP [tubularised incised plate] repair).
+- **Rationale:** the graft lies on the well-vascularised corporal bed; no mobilisation preserves spongiosal blood supply; suits bulbar and penile strictures.
+- Ranks with **Barbagli dorsal onlay** and **Kulkarni one-sided** repair among dorsal graft techniques.
 
 **2. Asopa hypospadias repair (1970s)**
 - One-stage repair using a **vascularised inner preputial island flap** still attached to the outer preputial skin, transferred ventrally to form the neourethra; a forerunner of the Duckett transverse preputial island flap.
@@ -289,7 +287,7 @@
 - Used **serum acid phosphatase** as the first tumour marker to monitor response.
 - **Nobel Prize in Physiology or Medicine, 1966** (shared with Peyton Rous) for hormonal treatment of prostate cancer.
 - **1945:** bilateral adrenalectomy for relapse after castration, suspecting adrenal androgens; responses brief, morbidity high.
-- **Also know:** canine prostate physiology; adrenalectomy for breast cancer; urothelium induces bone formation (1931).
+- **Also know:** canine prostate physiology; adrenalectomy for breast cancer.
 
 ### Legacy
 - Basis of all ADT (androgen deprivation therapy): orchidectomy, oestrogens, LHRH (luteinising hormone-releasing hormone) agonists and antagonists, and later abiraterone (blocking adrenal androgens).
@@ -311,30 +309,29 @@
 
 ### Definition
 - A communication process that helps patients and families understand the **medical, psychological and family implications** of a genetic condition, so they can make informed choices. It is **non-directive, voluntary and confidential**.
-- **Germline testing** (blood or saliva) detects inherited variants with family implications; **somatic testing** (tumour) guides treatment only.
+- **Germline testing** (blood) finds inherited variants with family implications; **somatic testing** (tumour) guides treatment.
 
 ### Steps
-1. **Three-generation pedigree**; ethnicity (Ashkenazi ancestry).
+1. **Three-generation pedigree**.
 2. **Risk assessment:** inheritance pattern and recurrence risk (autosomal dominant 50%; autosomal recessive 25%; X-linked: half of sons of carrier mothers).
-3. **Pre-test counselling:** which test (single gene, panel, karyotype); possible results (pathogenic, **VUS [variant of uncertain significance]**, negative); insurance and psychological harms; informed consent.
-4. **Post-test counselling:** interpret results (do not act on a VUS); **cascade testing of relatives**; surveillance or risk-reducing surgery; targeted therapy.
-5. **Reproductive options:** prenatal diagnosis, PGT (preimplantation genetic testing), donor gametes.
-6. Psychosocial support and follow-up.
+3. **Pre-test counselling:** which test; possible results (pathogenic, **VUS [variant of uncertain significance]**, negative); insurance and psychological harms; consent.
+4. **Post-test counselling:** interpret (do not act on a VUS); **cascade testing of relatives**; surveillance; targeted therapy.
+5. **Reproductive options:** prenatal diagnosis, PGT (preimplantation genetic testing), donor gametes; psychosocial support.
 
 ### Urological applications
 | Condition | Genes | Key point |
 |---|---|---|
-| **Prostate cancer** | BRCA2 (> BRCA1), ATM, CHEK2, PALB2, mismatch repair (Lynch), HOXB13 | NCCN (National Comprehensive Cancer Network): test metastatic, high-risk, strong family history; BRCA2 → aggressive disease, PARP (poly-ADP-ribose polymerase) inhibitors, earlier PSA (prostate-specific antigen) screening |
-| **Hereditary RCC (renal cell carcinoma)** | VHL, MET, FH, FLCN, TSC1/2, SDH, BAP1 | Counsel all with RCC at ≤46 years, bilateral or multifocal tumours, family history; organ surveillance |
+| **Prostate cancer** | BRCA2 (> BRCA1), ATM, CHEK2, PALB2, mismatch repair (Lynch), HOXB13 | NCCN (National Comprehensive Cancer Network): test metastatic, high-risk, strong family history; BRCA2: aggressive disease, PARP (poly-ADP-ribose polymerase) inhibitors, earlier screening |
+| **Hereditary RCC (renal cell carcinoma)** | VHL, MET, FH, FLCN, TSC1/2, SDH, BAP1 | Counsel RCC at ≤46 years, bilateral or multifocal, family history |
 | **UTUC (upper tract urothelial carcinoma)** | Lynch (MSH2 highest) | Screen if <60 years or Lynch-spectrum cancer history |
 | **Phaeochromocytoma** | RET, VHL, NF1, SDHB/D | About one-third hereditary |
-| **ADPKD (autosomal dominant polycystic kidney disease)** | PKD1 (chromosome 16), PKD2 (chromosome 4) | Counsel before imaging; testing selects living related donors |
+| **ADPKD (autosomal dominant polycystic kidney disease)** | PKD1 (chromosome 16), PKD2 (chromosome 4) | Testing selects living related donors |
 | **Cystinuria** | SLC3A1, SLC7A9 (recessive) | Screen siblings |
-| **Male infertility** | Karyotype, AZF (azoospermia factor) deletion, CFTR (cystic fibrosis transmembrane conductance regulator) | AZF deletions pass to sons by ICSI; CBAVD (bilateral absent vas): test the partner for CFTR |
-| **DSD (differences of sex development)** | e.g. CAH (congenital adrenal hyperplasia, recessive), AIS (androgen insensitivity, X-linked) | Recurrence risk, gonadal tumour risk, fertility |
+| **Male infertility** | Karyotype, AZF (azoospermia factor) deletion, CFTR (cystic fibrosis transmembrane conductance regulator) | AZF deletions pass to sons by ICSI (intracytoplasmic sperm injection); absent vasa: test partner for CFTR |
+| **DSD (differences of sex development)** | e.g. CAH (congenital adrenal hyperplasia, recessive), AIS (androgen insensitivity, X-linked) | Recurrence and gonadal tumour risk |
 
 ### Ethics and law
-- Confidentiality; right not to know; testing children only when it changes childhood care.
+- Confidentiality; right not to know; test children only when it changes childhood care.
 - **India:** PCPNDT Act (Pre-Conception and Pre-Natal Diagnostic Techniques Act, 1994) bans disclosure of fetal sex.
 
 **Diagram to draw:** three-generation pedigree with standard symbols.
@@ -369,7 +366,7 @@
 - **Intractable bladder haemorrhage** (radiation cystitis, cancer): bilateral **anterior division of internal iliac**; avoid the posterior division (gluteal pain).
 - **Prostate:** PAE for BPH (benign prostatic hyperplasia) and refractory prostatic haematuria.
 - **High-flow priapism:** superselective cavernosal artery embolisation; resolution ≥75%; recurrence → repeat with a non-resorbable agent.
-- **Also know:** varicocele (venous coils, sclerosant); lymphangiography and embolisation for chylous ascites or lymphocele; ADPKD pain.
+- **Also know:** varicocele (venous coils); lymphatic embolisation for chylous ascites; ADPKD (polycystic kidney) pain.
 
 ### Complications
 - **Post-embolisation syndrome:** fever, flank pain, nausea, leucocytosis; up to 72 hours; self-limiting.
@@ -377,7 +374,7 @@
 - Renal infarction or abscess; contrast nephropathy; access-site haematoma or pseudoaneurysm; coil migration; ED (erectile dysfunction) after priapism embolisation.
 
 ### Requirements
-- Experienced interventional radiologist, ability to resuscitate in the suite, hybrid theatre ideal. Unstable non-responders need surgery.
+- Experienced team, resuscitation in the suite; unstable non-responders need surgery.
 
 **Diagram to draw:** renal angiogram showing segmental pseudoaneurysm before and after coil occlusion.
 
@@ -398,13 +395,12 @@
 
 ### Technique
 - Antispasmodic to reduce rectal motion artefact; balloon filled with air or perfluorocarbon (fluid reduces susceptibility artefact).
-- Usually delayed several weeks after biopsy to avoid haemorrhage artefact.
 - Sequences as for mpMRI (multiparametric MRI): **T2W (T2-weighted)** triplanar for anatomy, **DWI (diffusion-weighted imaging) with ADC (apparent diffusion coefficient)** map, **DCE (dynamic contrast-enhanced)**; ERC was traditionally needed for **MRSI (MR spectroscopic imaging)**.
 
 ### Uses
 - **Local staging:** extraprostatic extension and seminal vesicle invasion (both low T2 signal) before radical prostatectomy.
 - **Local recurrence** after prostatectomy: recurrence isointense on T1, slightly hyperintense on T2; DCE raises accuracy at low PSA (prostate-specific antigen).
-- **Also know:** focal therapy planning (ERC recommended at 1.5 T); MRI-guided procedures; seminal vesicle imaging; female urethral diverticulum.
+- **Also know:** focal therapy planning (ERC recommended at 1.5 T); seminal vesicles; female urethral diverticulum.
 
 ### ERC versus no ERC
 | | With ERC | Without ERC (3 T, pelvic coil) |
@@ -415,7 +411,6 @@
 | Gland | Deformed (fusion and radiotherapy planning harder) | Natural shape |
 
 ### Disadvantages
-- Discomfort, refusal, cost, longer time.
 - Artefacts: **near-field signal flare** next to the coil (needs intensity correction), air susceptibility at the rectal wall, malposition.
 - **Contraindications:** absent rectum (abdominoperineal resection), recent rectal surgery, anorectal fistula or inflammatory bowel disease, severe haemorrhoids or stricture, latex allergy.
 
