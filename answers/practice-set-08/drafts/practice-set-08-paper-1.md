@@ -44,7 +44,7 @@
 | Parasitic (commonest; India, China) | Non-parasitic |
 |---|---|
 | ***Wuchereria bancrofti*** (lymphatic filariasis; *Culex* mosquito) | Congenital lymphangiectasia, renal lymphangioma |
-| Rarely other parasites (*Brugia* spares the genitourinary tract) | Trauma, surgery (partial nephrectomy, RPLND [retroperitoneal lymph node dissection]) |
+| *Brugia* (lymphatic filariasis that spares the genitals; rarely urological) | Trauma, surgery (partial nephrectomy, RPLND [retroperitoneal lymph node dissection]) |
 |  | Retroperitoneal tumour or fibrosis, tuberculosis, pregnancy |
 
 ### Pathogenesis

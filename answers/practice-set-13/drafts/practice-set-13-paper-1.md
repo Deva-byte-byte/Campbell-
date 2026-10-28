@@ -207,7 +207,7 @@
 ### Definition
 - A testis that **developed normally and was then lost**, usually from **torsion or a vascular accident in fetal life**, after genital masculinisation but before scrotal fixation.
 - Unilateral loss gives **monorchia**; bilateral loss gives **anorchia** (testicular regression syndrome), which is rare.
-- **Evidence:** haemosiderin in the excised "nubbin".
+- Excised "nubbins" contain haemosiderin.
 
 ### Incidence
 - **15–40% of nonpalpable testes** at surgery.
@@ -215,7 +215,7 @@
 ### Clinical features
 - **Contralateral compensatory hypertrophy:** volume >2 mL (sensitivity 72%, specificity 100%) or length about 19–20 mm suggests a solitary testis.
 - No palpable intrascrotal "appendage" tissue; sometimes a scrotal nubbin.
-- These signs help counselling but **do not replace exploration**.
+- These aid counselling but **do not replace exploration**.
 - **Anorchia:** micropenis in nearly half.
 
 ### Evaluation
@@ -253,7 +253,7 @@
 
 ### Definition of failure
 - Persistent pain, UTI (urinary tract infection) or stones; **obstructive diuretic renogram** (T½ >20 minutes); increasing hydronephrosis; falling split function.
-- Dilatation settles slowly, so judge by renography and trend.
+- Dilatation settles slowly; judge by renography.
 - About 1 in 9 children need a secondary procedure. Most failures occur within 1–2 years, but up to 30% occur later.
 
 ### Causes
@@ -307,7 +307,7 @@
 
 ### Introduction
 - Circumcision complications: **0.2–5%**, rising **10- to 20-fold after infancy**.
-- Most late problems concern **skin quantity** (too little or too much removed) or the **exposed meatus**.
+- Most late problems concern **skin quantity** (too little or too much) or the **exposed meatus**.
 
 ### Inadequate ("undone") circumcision
 - **Too little skin removed** or asymmetrical excision: redundant prepuce covering the glans.
@@ -355,7 +355,7 @@
 
 ### Definition
 - **UD (urethral diverticulum):** a urine-filled periurethral sac within the periurethral fascia, connected to the urethra by an **ostium**.
-- Third to seventh decades; prevalence up to 1–6% in some series.
+- Third to seventh decades; prevalence up to 1–6%.
 
 ### Aetiology
 - Mostly **acquired**. **Routh theory** (most accepted): infection of **periurethral glands** leads to duct obstruction, suburethral abscess, rupture into the lumen and an epithelialised sac.
@@ -369,7 +369,7 @@
 - **Complications:** stones (4–10%); 10% show metaplasia, dysplasia or carcinoma (**adenocarcinoma** commonest).
 
 ### Evaluation
-- Urinalysis, culture; **cystourethroscopy** (ostium seen in under half).
+- Urine culture; **cystourethroscopy** (ostium seen in under half).
 - **Imaging sensitivity:** **MRI (magnetic resonance imaging) 97%**, double-balloon urethrography 95%, ultrasound 82%, VCUG (voiding cystourethrogram) 74%.
 - MRI shows saddlebag or circumferential extension.
 - **Videourodynamics:** true SUI (stress urinary incontinence) versus dribbling from the sac.
@@ -392,7 +392,7 @@
   7. **Martius flap** if poor tissue.
 - **Bothersome SUI:** concomitant **autologous pubovaginal sling**; **never synthetic mesh**.
 - **Also know:** Spence–Duckett marsupialisation for distal lesions only.
-- **Postoperative:** pericatheter VCUG at 14–21 days.
+- Pericatheter VCUG at 14–21 days.
 
 ### Complications
 - Recurrence 10–22%; de novo SUI 7–16%; urethrovaginal fistula 1–8%; stricture; recurrent UTI.
@@ -422,7 +422,7 @@
 
 ### Indications
 - ISD with a **fixed, immobile urethra** (low VLPP [Valsalva leak point pressure] <60 cmH₂O, historically).
-- Women wanting a **low-risk** office procedure; elderly or unfit; future pregnancy.
+- Women wanting a **low-risk** procedure; elderly or unfit; future pregnancy.
 - Persistent leakage after a sling; neurogenic SUI (safer for bladder compliance than a sling).
 - **Avoid in:** active UTI (urinary tract infection), untreated detrusor overactivity.
 

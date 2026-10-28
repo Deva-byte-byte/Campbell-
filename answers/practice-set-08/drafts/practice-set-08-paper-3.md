@@ -67,7 +67,7 @@
 
 | Age | Stage | Purpose |
 |---|---|---|
-| Birth (48–72 h) | Bladder, posterior urethra and abdominal wall closure | Converts to complete epispadias; outlet resistance stimulates bladder growth |
+| Newborn | Bladder, posterior urethra and abdominal wall closure | Converts to complete epispadias; outlet resistance stimulates bladder growth |
 | 6–12 months | Epispadias repair (modified Cantwell-Ransley), after testosterone | Raises capacity; straightens penis |
 | 4–7 years | BNR (bladder neck reconstruction): modified **Young-Dees-Leadbetter (YDL)** + bilateral **Cohen** reimplant | Continence; needs capacity **≥100 mL** and a motivated child |
 
