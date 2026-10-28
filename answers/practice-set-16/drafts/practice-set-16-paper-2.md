@@ -58,7 +58,7 @@ M1  → systemic therapy
 - Downstages; **pT0 at cystectomy** gives about 90% 5-year recurrence-free survival.
 - Drawback: delays surgery in non-responders.
 
-**Eligibility:** cT2–T4a N0 M0 and cisplatin-fit. **Cisplatin-ineligible** if any one: GFR (glomerular filtration rate) <60 mL/min, ECOG (Eastern Cooperative Oncology Group) performance status ≥2, grade ≥2 hearing loss or neuropathy, NYHA (New York Heart Association) class III–IV failure. About half of patients are ineligible.
+**Eligibility:** cT2–T4a N0 M0 and cisplatin-fit. **Cisplatin-ineligible** if any one: GFR (glomerular filtration rate) <60 mL/min, ECOG (Eastern Cooperative Oncology Group) performance status ≥2, grade ≥2 hearing loss or neuropathy, NYHA (New York Heart Association) class III–IV failure.
 
 | Trial | Regimen | Result |
 |---|---|---|
@@ -126,6 +126,7 @@ M1  → systemic therapy
 
 **2. Radical prostatectomy + extended PLND (pelvic lymph node dissection)**
 - For fit men with **completely resectable** disease (cT3a, selected cT3b, limited nodes). Clinical overstaging occurs in 7–27%, so cT3 alone is no bar.
+- **Why surgery:** exact pathological staging, removal of the primary (an untreated prostate causes retention, haematuria and ureteric obstruction that ADT does not prevent), and RT kept for salvage.
 - Disease-specific survival 85–92% at 5 years and 79–82% at 10 years, but biochemical recurrence is common, so multimodal care is planned.
 - **Neoadjuvant ADT before RP:** clinically downstages, but no survival or PSA benefit.
 - **Adjuvant/salvage RT:** EORTC 22911, SWOG 8794, ARO 96-02 showed benefit; RADICALS-RT and RAVES favour **early salvage RT** (PSA rise) for most men.
@@ -140,7 +141,8 @@ M1  → systemic therapy
 - **Also know:** cryotherapy and HIFU (high-intensity focused ultrasound) remain investigational; TURP or stents for local obstruction; trial enrolment.
 
 ### Bilateral orchidectomy
-- Removes about 95% of testosterone: **castrate level (<20 ng/dL) within 12 hours**. Cheap, no compliance issues, no flare. Simple or subcapsular (all Leydig tissue must be removed).
+- Removes about 95% of testosterone: **castrate level (<20 ng/dL) within 12 hours**. Cheap, no compliance issues, no flare, so useful in impending cord compression. Simple or subcapsular (all Leydig tissue must be removed).
+- Versus LHRH agonists: fewer cardiac events, fractures and peripheral arterial disease reported.
 
 **A. Surgical complications**
 - Scrotal haematoma (commonest), wound infection, chronic scrotal or groin pain.
@@ -150,7 +152,7 @@ M1  → systemic therapy
 **B. Systemic effects of castration**
 | Effect | Details and management |
 |---|---|
-| Hot flushes | Commonest (50–80%); venlafaxine, gabapentin, megestrol or cyproterone if bothersome |
+| Hot flushes | Commonest (50–80%); loss of hypothalamic oestrogen signalling; venlafaxine, gabapentin, megestrol or cyproterone if bothersome |
 | Sexual dysfunction | Loss of libido, ED (erectile dysfunction), penile shortening; ED aids help selected men |
 | Osteoporosis, fractures | Fracture risk up 20–45%; baseline DEXA (dual-energy X-ray absorptiometry), FRAX; calcium, vitamin D, exercise; **denosumab 60 mg 6-monthly** or zoledronic acid |
 | Metabolic | Weight gain, fat gain, **sarcopenia**, insulin resistance, diabetes (HR about 1.34), metabolic syndrome |

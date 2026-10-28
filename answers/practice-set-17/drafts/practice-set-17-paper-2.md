@@ -117,7 +117,7 @@
 - **STAMPEDE (M0):** for N1, or two of T3–4, Gleason ≥8, PSA ≥40, **abiraterone + prednisolone for 2 years** with ADT + RT: metastasis-free survival HR 0.53, OS HR 0.60. NCCN lists it for very high risk.
 - Docetaxel (RTOG 0521 OS HR 0.69): not routine.
 
-### C. Radical prostatectomy (RP) + extended PLND (pelvic lymph node dissection)
+### C. Radical prostatectomy (RP) + ePLND (extended pelvic lymph node dissection)
 - For fit men with a resectable tumour, as part of multimodal therapy. cT3 is overstaged in 7–27%. RP alone gives disease-free survival in at least half at 8–10 years, and 10-year disease-specific survival ~80–90%.
 - **Advantages:** accurate pathological staging; removes the source of local morbidity.
 - **Neoadjuvant ADT before RP:** clinical downstaging and fewer positive margins, but **no survival gain**.
@@ -179,7 +179,7 @@ cT3–4 / cN1, M0 (PSMA PET or CT + bone scan)
 | Solifenacin | M3-selective; long half-life | 5–10 mg daily |
 | Darifenacin | About 30-fold M3-selective | 7.5–15 mg daily |
 | Trospium | Quaternary; little brain entry | 20 mg twice daily |
-| Mirabegron (β3) | Inhibits CYP2D6: metoprolol interaction; small blood-pressure rise | 25–50 mg daily |
+| Mirabegron (β3) | Inhibits CYP2D6 (a liver enzyme): metoprolol interaction; small blood-pressure rise | 25–50 mg daily |
 | Vibegron (β3) | No CYP2D6 interaction | 75 mg daily |
 
 ### Comparison
@@ -251,7 +251,7 @@ Deglove to penoscrotal junction + excise dysplastic dartos → erection test
 **Type:** SAQ (10 marks)
 
 ### Definition and epidemiology
-- A congenital obstructing fold or cusp in the anterior urethra (bulbar, penoscrotal or penile). It is the **commonest congenital obstructive lesion of the anterior urethra** but **25–30 times less common than PUV (posterior urethral valves)**.
+- AUV (anterior urethral valve): a congenital obstructing fold or cusp in the anterior urethra (bulbar, penoscrotal or penile). It is the **commonest congenital obstructive lesion of the anterior urethra** but **25–30 times less common than PUV (posterior urethral valves)**.
 - Often linked to an **anterior urethral diverticulum**: the distal lip of the diverticulum fills and acts as a valve, or a semilunar fold hangs from the roof.
 
 ### Embryology (unclear)
