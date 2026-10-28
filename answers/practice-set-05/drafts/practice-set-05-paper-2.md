@@ -19,18 +19,17 @@
 
 ### Introduction and rationale
 - Stone disease is a chronic metabolic disorder: first-time formers have about a **50% risk of recurrence within 10 years**.
-- Metabolic evaluation finds the treatable abnormality behind the stone. Targeted therapy matched to 24-hour urine results reduces symptomatic stone events.
-- The **ROKS (Recurrence of Kidney Stone) nomogram** estimates an individual's recurrence risk.
+- Evaluation finds the treatable abnormality; therapy matched to 24-hour urine results reduces stone events. The **ROKS (Recurrence of Kidney Stone) nomogram** estimates individual risk.
 
 ### Physicochemical basis (why we measure these)
 - Stones form when urine is **supersaturated**: nucleation, growth, aggregation and retention, often on **Randall plaque**.
 - In the **metastable zone** (between solubility and formation products) crystals grow on existing nuclei but do not form spontaneously.
-- **Promoters** (calcium, oxalate, uric acid, low volume, abnormal pH) raise supersaturation; **inhibitors** (citrate, magnesium, Tamm-Horsfall protein) oppose crystallisation. The 24-hour urine measures both.
+- **Promoters** (calcium, oxalate, uric acid, low volume) raise supersaturation; **inhibitors** (citrate, magnesium) oppose crystallisation. The 24-hour urine measures both.
 
 ### Step 1: Screening evaluation (every first-time former; AUA [American Urological Association] and EAU [European Association of Urology])
 | Component | What is assessed |
 |---|---|
-| History | GI (gastrointestinal) disease or bariatric surgery, gout, sarcoidosis, recurrent UTI (urinary tract infection), family history; diet (fluid, salt, protein, oxalate); lithogenic drugs: calcium, vitamins C and D, acetazolamide, topiramate, steroids, triamterene, indinavir |
+| History | GI (gastrointestinal) disease or bariatric surgery, gout, sarcoidosis, recurrent UTI (urinary tract infection), family history; diet; lithogenic drugs: calcium, vitamins C and D, acetazolamide, topiramate, steroids, triamterene |
 | Blood | Creatinine, sodium, potassium, calcium, uric acid, bicarbonate; **PTH (parathyroid hormone)** if calcium is high or high-normal |
 | Urine | pH, crystals (hexagonal = cystine), culture; cyanide–nitroprusside cystine screen |
 | **Stone analysis** | Infrared spectroscopy or X-ray diffraction: uric acid points to metabolic syndrome, cystine to a genetic cause, struvite to infection |
@@ -42,7 +41,7 @@
 - Recurrent formers, **children**, solitary kidney, bilateral or large burden, GI disease, obesity, metabolic syndrome, diabetes, primary hyperparathyroidism, RTA (renal tubular acidosis), sarcoidosis, gout, family history; uric acid, cystine or infection stones.
 
 ### Step 2: Extended metabolic evaluation
-- **One or two 24-hour urines** on the usual diet, at least 4 weeks after the episode, stone-free and infection-free. Two collections are often advised because results vary. Creatinine checks completeness (men about 20–25, women about 15–20 mg/kg/day).
+- **One or two 24-hour urines** on the usual diet, at least 4 weeks after the episode, stone-free and infection-free. Creatinine checks completeness (men about 20–25, women about 15–20 mg/kg/day).
 
 | Parameter | Desirable per day | Abnormality and meaning |
 |---|---|---|
@@ -54,7 +53,7 @@
 | pH | 5.8–6.2 | <5.5 uric acid; >6.5 calcium phosphate, RTA, infection |
 | Sodium | <100 mmol | High sodium raises calcium excretion |
 | Cystine | Negative screen | Cystinuria; keep <250 mg/L |
-- **Also know:** magnesium (hypomagnesiuria), potassium, phosphate, sulphate (protein marker); RSS (relative supersaturation) is calculated from these.
+- **Also know:** magnesium, potassium, phosphate; RSS (relative supersaturation) is calculated from these.
 
 ### Interpreting hypercalciuria (Pak classification)
 | Type | Defect | Serum calcium | PTH | Fasting urine calcium |
@@ -68,7 +67,7 @@
 - **Distal RTA:** urine pH >6, low citrate, calcium phosphate stones. Incomplete form: **ammonium chloride load** (0.1 g/kg) or furosemide–fludrocortisone test fails to lower urine pH below 5.5.
 - **Cystinuria:** quantitative 24-hour cystine; solubility about 300 mg/L at pH 5 and 400 mg/L at pH 7.
 - **Primary hyperoxaluria:** genetic testing (type 1, AGXT gene, about 70%).
-- **Also know:** medullary sponge kidney and calyceal diverticulum combine stasis with metabolic defects; 2,8-dihydroxyadenine stones (APRT [adenine phosphoribosyltransferase] deficiency).
+- **Also know:** medullary sponge kidney; calyceal diverticulum; 2,8-dihydroxyadenine stones.
 
 ### Linking results to treatment
 | Abnormality | Treatment |
@@ -79,14 +78,14 @@
 | Enteric hyperoxaluria | Low fat and oxalate; calcium with meals |
 | Hyperuricosuria | Allopurinol 300 mg/day |
 | Cystinuria | Urine ≥3 L/day, pH 7.0–7.5, tiopronin |
-- **Borghi 1996:** urine >2 L/day cut 5-year recurrence (12% vs 27%). **Borghi 2002:** normal-calcium, low-salt, low-protein diet beat a low-calcium diet.
+- **Borghi 1996:** urine >2 L/day cut 5-year recurrence (12% vs 27%).
 
 ### Special groups and follow-up
 - **Children:** all evaluated (spot ratios if not toilet-trained). **Pregnancy:** defer 24-hour urine (physiological hypercalciuria).
 - **Follow-up (AUA):** repeat 24-hour urine **within 6 months** of starting therapy, then yearly; blood tests for drug effects (potassium on thiazide or citrate); analyse every new stone.
 
 ### Recent advances
-- **Lumasiran** (RNAi [ribonucleic acid interference]) for primary hyperoxaluria type 1; **NOSTONE (2023):** hydrochlorothiazide did not reduce recurrence; smart water bottles and apps for adherence.
+- **Lumasiran** (RNA interference) for primary hyperoxaluria type 1; **NOSTONE (2023):** hydrochlorothiazide did not reduce recurrence.
 
 ```
 Stone episode → screening evaluation
@@ -111,14 +110,14 @@ Stone episode → screening evaluation
 *Assumed meaning: HD = haemodialysis.*
 
 ### Introduction
-- A vascular anastomosis joins two vessels so that flow is smooth, leak-free and lasting. Urologists use it in renal transplantation, autotransplantation, caval reconstruction and dialysis access.
+- A vascular anastomosis joins two vessels so that flow is smooth, leak-free and lasting (transplantation, autotransplantation, caval repair, dialysis access).
 - **Types:** end-to-end, **end-to-side** (commonest: transplant, fistula), side-to-side, and patch (Carrel aortic patch).
 
 ### Principles of vascular anastomosis
 | Principle | How and why |
 |---|---|
-| Exposure and control | Proximal and distal control with vessel loops, Rummel tourniquets, bulldog or Satinsky clamps, so the field is bloodless |
-| Anticoagulation | Systemic heparin before clamping; heparinised saline flush of lumens; prevents thrombosis in the static column |
+| Exposure and control | Proximal and distal control (vessel loops, Rummel tourniquets, bulldog or Satinsky clamps) |
+| Anticoagulation | Systemic heparin before clamping; heparinised saline flush; prevents thrombosis in the static column |
 | Atraumatic handling | Hold the adventitia, never the intima; clamp clear of atheroma, because clamp injury causes intimal dissection and stenosis |
 | Healthy ends | Trim damaged or diseased ends; resect venous valve cusps at the suture line (they obstruct outflow) |
 | No tension, twist or kink | Adequate length; trial the final position before suturing |
@@ -128,10 +127,10 @@ Stone episode → screening evaluation
 | Needle direction | Equal, small, close bites; pass **inside-out on the artery** so plaque and intima are tacked down, not lifted into a flap |
 | Continuous or interrupted | Continuous is quick and haemostatic; **interrupted** for small vessels and children, allowing growth |
 | Technique | **Carrel triangulation** (three stay sutures keep the back wall clear); **parachute** (sew loosely, then draw up; one knot) or tack both apices and run to the midpoint |
-| Flush and release | Before the last knot, release clamps briefly to flush air, clot and debris; leave a little slack ("growth factor") so the suture does not purse-string; release the venous/distal clamp first, then arterial |
+| Flush and release | Before the last knot, briefly release clamps to flush air, clot and debris; leave slack ("growth factor") to avoid purse-stringing; release venous/distal clamp first, then arterial |
 | Confirm | Haemostasis, pulse, thrill, Doppler; in transplant the Hume test (vein compression makes the kidney swell) |
 - **Failure:** early from technical error (thrombosis, leak, stenosis); late from **intimal hyperplasia**; also pseudoaneurysm and infection.
-- **Also know:** vascular staplers and couplers; graft choice (autologous vein for small or contaminated fields; PTFE [polytetrafluoroethylene] for large vessels).
+- **Also know:** vascular staplers; grafts (autologous vein for small or contaminated fields; PTFE [polytetrafluoroethylene] for large vessels).
 
 ### Options for vascular access surgery for HD
 - Haemodialysis needs a blood flow of about **250–350 mL/min**.
@@ -139,7 +138,7 @@ Stone episode → screening evaluation
 | Option | Construction | Ready | Comment |
 |---|---|---|---|
 | **1. Non-tunnelled CVC** (central venous catheter) | Dual-lumen 10–12 Fr in internal jugular or femoral vein | At once | AKI (acute kidney injury) and emergencies; days only |
-| **2. Tunnelled cuffed CVC** | Right internal jugular; Dacron cuff in tunnel blocks bacterial migration | At once | Bridge or last resort; highest infection and central stenosis |
+| **2. Tunnelled cuffed CVC** | Right internal jugular; cuff blocks bacterial migration | At once | Bridge or last resort; infection, central stenosis |
 | **3. Native AVF** (arteriovenous fistula) | Artery joined to a superficial vein, usually vein end to artery side | 6–8 weeks | **First choice:** best patency, fewest infections |
 | a. Snuffbox or **radiocephalic (Brescia–Cimino)** | Radial artery to cephalic vein at wrist | | Most distal; preserves proximal sites; higher failure to mature |
 | b. Brachiocephalic | Brachial artery to cephalic vein at elbow | | Higher flow; more steal |
@@ -154,7 +153,7 @@ Stone episode → screening evaluation
 - **Hierarchy:** AVF, then AVG, then CVC; **distal before proximal; non-dominant arm first**. KDOQI (Kidney Disease Outcomes Quality Initiative) 2019 asks for an individual "ESKD (end-stage kidney disease) Life-Plan".
 - **Timing:** refer at eGFR (estimated glomerular filtration rate) <30; create the AVF about **6 months** before dialysis.
 - **Vein preservation:** no venepuncture or PICC (peripherally inserted central catheter) in that arm; avoid subclavian lines.
-- **Assessment:** pulses, **Allen test** (ulnar collateral flow), **Doppler vein mapping** (vessels about ≥2 mm); venography if central stenosis is suspected.
+- **Assessment:** pulses, **Allen test** (ulnar collateral flow), **Doppler vein mapping** (vessels about ≥2 mm).
 - **Maturity "rule of 6s":** flow >600 mL/min, diameter >6 mm, depth <6 mm, at 6 weeks.
 
 ### Complications of access
@@ -165,7 +164,7 @@ Stone episode → screening evaluation
 | **Thrombosis** (usually on a stenosis) | Thrombectomy, then treat the stenosis |
 | **Steal syndrome** (hand ischaemia) | Banding, DRIL (distal revascularisation–interval ligation) |
 | Aneurysm; infection (CVC > AVG > AVF) | Repair; antibiotics, excise graft, remove catheter |
-- **Also know:** venous hypertension; high-output cardiac failure; monitoring by thrill, bruit and arm-elevation test.
+- **Also know:** venous hypertension; high-output failure; monitor thrill and bruit.
 
 **Diagram to draw:** radiocephalic end-to-side fistula with Carrel triangulation stay sutures.
 
@@ -275,7 +274,7 @@ TURBT → chemoradiation → cystoscopy + biopsy at 3–4 months
 - "Low-dose" 1 mg is still 3–4 times physiological glucocorticoid.
 
 ### Indications
-- Suspected Cushing syndrome; **every adrenal incidentaloma** (5–8% secrete cortisol); before adrenalectomy; functional work-up of suspected ACC (adrenocortical carcinoma).
+- Suspected Cushing syndrome; **every adrenal incidentaloma** (5–8% secrete cortisol); suspected ACC (adrenocortical carcinoma).
 
 ### Types
 | Test | Method | Abnormal |
@@ -294,8 +293,8 @@ TURBT → chemoradiation → cystoscopy + biopsy at 3–4 months
 - If abnormal: repeat testing and measure **morning ACTH** (low = adrenal; high = pituitary or ectopic, IPSS [inferior petrosal sinus sampling]).
 
 ### Pitfalls
-- **False positive:** oral contraceptives and oestrogens (raise cortisol-binding globulin; up to 50%); CYP3A4 inducers (phenytoin, carbamazepine, rifampicin); missed dose; pseudo-Cushing states (depression, alcohol, obesity, poorly controlled diabetes, stress).
-- **False negative:** CYP3A4 inhibitors (itraconazole, ritonavir, fluoxetine, diltiazem, cimetidine).
+- **False positive:** oral contraceptives (raise cortisol-binding globulin; up to 50%); CYP3A4 inducers (phenytoin, carbamazepine, rifampicin); missed dose; pseudo-Cushing states (depression, alcohol, obesity, stress).
+- **False negative:** CYP3A4 inhibitors (itraconazole, ritonavir, diltiazem).
 - **Choice of test:** pregnancy → UFC (urinary free cortisol); epilepsy → LNSC (late-night salivary cortisol); renal failure → DST (not affected by GFR [glomerular filtration rate]).
 - Exclude exogenous steroids (including creams and sprays) first.
 
@@ -318,11 +317,11 @@ TURBT → chemoradiation → cystoscopy + biopsy at 3–4 months
 - HIFU (high-intensity focused ultrasound) focuses ultrasound from a bowl-shaped transducer or lens onto a point. Energy is absorbed only where the beams converge, so tissue there is heated while the path is spared.
 - **Intensity 1500–10,000 W/cm²** (diagnostic ultrasound causes negligible heating).
 - **Mechanisms:** **thermal coagulative necrosis** (≥55 °C; prostate exceeds 100 °C within seconds) plus **cavitation** (bubbles collapse and damage cells).
-- Each lesion is about the size of a **grain of rice**; the target is "painted" with overlapping lesions. Ablated and viable tissue look alike on ultrasound, so gaps can be missed.
+- Each lesion is a **rice grain**; the target is "painted" with overlapping lesions. Ablated and viable tissue look alike on ultrasound, so gaps occur.
 
 ### Devices and routes
-- **Transrectal** probe that both plans/monitors and treats (posterior zone).
-- **TULSA (MRI [magnetic resonance imaging]-guided transurethral ultrasound ablation)** and MRgFUS (MRI-guided focused ultrasound): **MR thermometry** confirms lethal temperature; TULSA reaches the anterior gland.
+- **Transrectal** probe that both monitors and treats (posterior zone).
+- **TULSA (MRI [magnetic resonance imaging]-guided transurethral ultrasound ablation):** **MR thermometry** confirms lethal temperature; reaches the anterior gland.
 
 ### Indications
 | Setting | Use |
@@ -342,7 +341,7 @@ TURBT → chemoradiation → cystoscopy + biopsy at 3–4 months
 - **Salvage HIFU:** biochemical progression-free survival about 48% at 3 years; continence 64–87.5%.
 
 ### Complications
-- Retention (about 8%), UTI (urinary tract infection) 6–18%, stricture (4%), ED (erectile dysfunction), incontinence; rectourethral fistula rare (about 2% after salvage); osteitis pubis.
+- Retention (about 8%), UTI (urinary tract infection) 6–18%, stricture (4%), ED (erectile dysfunction); rectourethral fistula rare (about 2% after salvage); osteitis pubis.
 
 ### Follow-up
 - PSA (prostate-specific antigen) falls only 50–80%; **mpMRI (multiparametric MRI) + targeted biopsy at 3–6 months**, then MRI and biopsy at 1–2 and 5 years. EAU (European Association of Urology): focal therapy within trials or registries.
@@ -373,7 +372,7 @@ TURBT → chemoradiation → cystoscopy + biopsy at 3–4 months
 
 ### Haemodialysis
 - Blood (250–350 mL/min) passes through a hollow-fibre **synthetic membrane**; dialysate runs **countercurrent** to keep a gradient along the dialyser.
-- Ultrapure dialysate; heparin (citrate if bleeding risk); about 4 hours, 3 times a week.
+- Heparin (citrate if bleeding risk); about 4 hours, 3 times a week.
 - **Access:** AVF (arteriovenous fistula), AVG (arteriovenous graft) or CVC (central venous catheter).
 - **Adequacy:** Kt/V ≥1.2 (target 1.4); URR (urea reduction ratio) ≥65%.
 - **Complications:** hypotension (commonest), cramps, **disequilibrium syndrome**, access infection, thrombosis, steal.
@@ -418,9 +417,8 @@ TURBT → chemoradiation → cystoscopy + biopsy at 3–4 months
 ### Instrument
 | Feature | Details |
 |---|---|
-| Tip | About 7.5–9 Fr |
 | Working channel | **3.6 Fr** (laser fibre, basket) |
-| Deflection | ≥270° both ways; lower pole needs a steep angle |
+| Deflection | ≥270° both ways; lower pole angle averages 140° (maximum 175°) |
 | Types | **Fibreoptic** (image degrades); **digital** (CCD [charge-coupled device] chip on tip, better image); **single-use** |
 
 ### Indications

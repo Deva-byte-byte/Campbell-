@@ -41,7 +41,7 @@
 ### Concept 2: evaluation
 - **DSD (disorder of sex development) work-up** if hypospadias plus undescended testis (especially non-palpable), perineal meatus or ambiguity: karyotype, ultrasound for Müllerian remnants, testosterone, LH (luteinising hormone), FSH (follicle-stimulating hormone), AMH (anti-Müllerian hormone).
 - No routine VCUG (voiding cystourethrogram) or renal ultrasound. Associations: hernia or hydrocele 9–16%, cryptorchidism about 7% (10% in proximal), enlarged utricle.
-- **Aetiology concept:** all causes converge on deficient androgen action: placental insufficiency, assisted reproduction, genes, endocrine disruptors; short anogenital distance marks it.
+- **Aetiology:** causes converge on deficient androgen action (placental insufficiency, assisted reproduction, genes, endocrine disruptors).
 
 ### Concept 3: timing and preparation
 - Repair at **6–18 months** (AAP (American Academy of Pediatrics): 6–12 months), before genital awareness at about 18 months. One short anaesthetic appears low-risk.
@@ -253,7 +253,7 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 | Result | IPSS (International Prostate Symptom Score) about halved, twice the sham effect; Qmax (maximum flow) +4 mL/s | Composite end point 52.3% vs 20.0%; antegrade ejaculation 100% vs 60.6% |
 | Retreatment | 13.6% at 5 years | 13.6% vs 5.7% at 2 years |
 
-- TURP wins on IPSS, Qmax and PVR (post-void residual); "superior" in BPH6 means the composite only.
+- TURP wins on IPSS, Qmax and PVR (post-void residual).
 
 ### Complications
 - Dysuria, haematuria, urgency (<2 weeks); encrustation; rare pelvic haematoma; device misfire.
@@ -288,7 +288,7 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 ### 2. Chemotherapy with BCG
 - Sequential MMC–BCG: **no benefit** over BCG alone.
 - **Exception: BCG alternating with EMDA (electromotive drug administration)-MMC** in T1: lower recurrence and progression (a later trial non-significant).
-- Chemohyperthermia (RITE, radiofrequency-induced thermochemotherapeutic effect, 42 °C) also potentiates BCG.
+- Chemohyperthermia (RITE, radiofrequency-induced thermochemotherapeutic effect) potentiates BCG.
 
 ### 3. BCG with immunomodulators
 - **BCG + interferon-α2b:** no gain over BCG, but allows BCG dose reduction to one-third.
@@ -303,7 +303,7 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 - **TAR-200** (gemcitabine-releasing device) ± cetrelimab: very high early complete response in BCG-unresponsive CIS (SunRISe-1).
 
 ### Toxicity
-- Additive cystitis; immune-related events with checkpoint inhibitors.
+- Additive cystitis; immune-related events.
 
 **Diagram to draw:** Gem/Doce sequence timeline (instil, dwell, drain, instil).
 

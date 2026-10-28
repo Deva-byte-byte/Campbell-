@@ -359,7 +359,7 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 - Validated outcome tools; complications graded (Clavien–Dindo).
 
 **3. Does it apply? (external validity)**
-- Similar patients and setting; benefits outweigh harms and cost.
+- Similar patients and setting; benefit outweighs harm.
 
 ### Levels of evidence (Oxford CEBM [Centre for Evidence-Based Medicine], as used by EAU [European Association of Urology])
 | Level | Design |
@@ -368,7 +368,7 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 | 2a / 2b | Controlled non-randomised / cohort study |
 | 3 | Case-control, case series |
 | 4 | Expert opinion |
-- **GRADE** (Grading of Recommendations Assessment, Development and Evaluation): certainty high to very low; strong or weak recommendations.
+- **GRADE** (Grading of Recommendations Assessment, Development and Evaluation): certainty high to very low; strong or weak.
 
 ### Reporting checklists and appraisal tools
 | Design | Checklist |
@@ -378,7 +378,7 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 | Observational | **STROBE**; Newcastle–Ottawa scale |
 | Diagnostic accuracy | **STARD**; QUADAS-2 |
 | Surgical innovation | **IDEAL** framework |
-- **Also know:** Cochrane RoB 2 (risk-of-bias) tool; CASP checklists; trial registration; conflicts of interest.
+- **Also know:** Cochrane RoB 2 (risk-of-bias) tool; trial registration; conflicts of interest.
 
 **Diagram to draw:** evidence pyramid.
 
@@ -409,7 +409,7 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 
 ### Assessment
 - Repeat the sample to **exclude pseudohyperkalaemia** if the ECG (electrocardiogram) is normal.
-- **ECG:** peaked T (earliest) → prolonged PR, wide QRS → loss of P → sine wave → ventricular fibrillation. Ascending weakness.
+- **ECG:** peaked T (earliest) → prolonged PR, wide QRS → loss of P → sine wave → VF (ventricular fibrillation).
 - Creatinine, blood gas, CK (creatine kinase); stop potassium sources.
 
 ### Emergency treatment (in order)
@@ -417,10 +417,10 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 |---|---|---|
 | **1. Protect the heart** | **Calcium gluconate 10%, 10 mL IV (intravenous)** over 5–10 min; repeat if ECG unchanged | 1–3 min; does not lower potassium |
 | **2. Shift into cells** | **Insulin 10 units regular IV with 50 mL of 50% dextrose** | 15–30 min; lowers about 0.6–1 mmol/L; monitor glucose |
-| | **Salbutamol 20 mg nebulised** | Additive to insulin |
+| | **Salbutamol 20 mg nebulised** | Additive |
 | | Sodium bicarbonate | Only with metabolic acidosis |
 | **3. Remove** | Loop diuretic if passing urine; **binders**: sodium zirconium cyclosilicate (about 1 h), patiromer (about 7 h), sodium polystyrene sulfonate (slow; colonic necrosis) | Hours |
-| | **Haemodialysis** | Refractory, oliguric, ESKD (end-stage kidney disease) |
+| | **Haemodialysis** | Refractory or oliguric |
 
 - **Relieve obstruction** (catheter, nephrostomy); watch for post-obstructive diuresis.
 - Monitor ECG, potassium and glucose; treat the cause.

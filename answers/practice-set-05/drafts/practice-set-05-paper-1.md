@@ -39,14 +39,13 @@
 |---|---|
 | Abnormal meatal position | **Hypospadias** (ventral); **epispadias** (dorsal) |
 | Obstructive | **PUV (posterior urethral valves)**, Young types I–III; **anterior urethral valves** (with diverticulum); urethral atresia or hypoplasia (congenital stricture); congenital meatal stenosis |
-| Dilatation | **Megalourethra**: scaphoid (spongiosum deficient) or fusiform (all erectile tissue deficient, more severe); anterior urethral diverticulum; Cowper duct cyst (syringocele) |
+| Dilatation | **Megalourethra**: scaphoid (spongiosum deficient) or fusiform (all erectile tissue deficient, more severe); anterior urethral diverticulum; Cowper duct cyst (syringocele); enlarged prostatic utricle |
 | Duplication | **Effmann classification**: type I blind incomplete; type II complete (IIA2 "Y-type"); type III with caudal duplication. The ventral channel is the functional one |
 | Accessory openings | Congenital urethrocutaneous fistula; parameatal urethral cyst |
-| Posterior urethra | Enlarged prostatic utricle (utricular cyst) |
 | Female | Epispadias; urethral prolapse; persistent urogenital sinus |
 
 ### Epispadias: definition and classification
-- A **dorsal defect of the urethral wall**, replaced by a broad dorsal mucosal strip (urethral plate). It is part of the **exstrophy–epispadias complex**; most cases occur with exstrophy.
+- A **dorsal urethral wall defect**, replaced by a broad dorsal mucosal strip (urethral plate); part of the **exstrophy–epispadias complex**, mostly seen with exstrophy.
 - Embryology: an overdeveloped cloacal membrane blocks mesenchymal ingrowth; genital tubercles fuse caudal to it.
 
 | | Male | Female |
@@ -60,7 +59,7 @@
 
 ### Evaluation
 - Renal ultrasound; VCUG (voiding cystourethrogram) for reflux; cystoscopy and **bladder capacity** under anaesthesia.
-- **Key decision:** isolated epispadias pathway, or exstrophy pathway (osteotomy and closure) if pubic diastasis >3 cm, poor intrasymphyseal bar, absent sphincter tissue or tiny bladder.
+- **Key decision:** use the exstrophy pathway (osteotomy and closure) if pubic diastasis >3 cm, poor intrasymphyseal bar, absent sphincter tissue or tiny bladder.
 
 ### Management
 **Aims:** continence with safe upper tracts, and a straight penis of adequate length that works for intercourse.
@@ -80,7 +79,7 @@
 
 ### Outcomes and complications
 - Continence after bladder neck reconstruction: **males 47–82%, females 70–87%**; capacity is the main predictor.
-- Early fistula about 1 in 6, mostly at the penile base; stricture rare; neourethra always catheterisable. Erections and paternity usually preserved.
+- Early fistula about 1 in 6 (penile base); stricture rare; neourethra catheterisable; erections and paternity preserved.
 - Better than exstrophy: the bladder was never exposed or scarred. Failures: injectables, augmentation.
 
 **Diagram to draw:** sagittal male urethra with segments; Cantwell–Ransley with plate transposed under the corpora.
