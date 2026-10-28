@@ -3,12 +3,12 @@
 **Contents**
 1. Q1. Describe energy sources for braking stones in uro (LAQ)
 2. Q2. Discuss advances in management of CA prostate (LAQ)
-3. Q3a. Muscle assisted urethroplasty (SAQ)
-4. Q3b. Silodosin. (SAQ)
-5. Q3c. Optical coherence tomography in carcinoma bladder. (SAQ)
-6. Q3d. Re-look TUR bladder tumour. (SAQ)
-7. Q3e. STING technique for VUR. (SAQ)
-8. Q3f. Diet in stone disease. (SAQ)
+3. Q3a. Virtual cystoscopy (SAQ)
+4. Q3b. 3D laparoscopy (SAQ)
+5. Q3c. Telemedicine in urology (SAQ)
+6. Q3d. Simulators in urology (SAQ)
+7. Q3e. Virtual and augmented reality in urology (SAQ)
+8. Q3f. Bladder transplantation (SAQ)
 
 *Practice paper compiled from the question bank.*
 
@@ -166,293 +166,264 @@
 
 ---
 
-## Q3a. Muscle assisted urethroplasty
+## Q3a. Virtual cystoscopy
 **Type:** SAQ (10 marks)
-(also answered in 2023-Winter Paper 4, Q3b)
-
-*Read as muscle-flap-assisted graft urethroplasty: a vascularised muscle flap used as bed or cover for a graft. "Muscle-sparing" bulbar urethroplasty is noted at the end.*
-
-### Rationale
-- A free graft (e.g. **BMG [buccal mucosal graft]**) has no blood supply. It survives by **imbibition** (about 48 h, nutrients from the bed), then **inosculation** (new microcirculation). So **"a graft lives on its bed"**.
-- **Poor beds:** radiation, multiple failed repairs, fistula, pelvic-fracture scar, infection. Here a **muscle flap brings blood supply**, fills dead space and separates suture lines.
-
-### Muscle flaps used
-| Flap | Supply | Use |
-|---|---|---|
-| **Gracilis** (muscle-only, axial, multiple pedicles) | Medial circumflex femoral branch, proximal thigh | Irradiated posterior urethra, rectourethral fistula, complex perineal repair |
-| **Bulbospongiosus** | Perineal branches | Covers a ventral graft; support in bulbar repair |
-| Rectus abdominis (VRAM, vertical rectus abdominis myocutaneous) | Inferior epigastric | Large pelvic or perineal defects |
-
-### Technique (gracilis-assisted BMG)
-1. Lithotomy; perineal exposure; excise scar or fistula.
-2. Close rectal side; urethra opened.
-3. Gracilis harvested through a medial thigh incision; pedicle preserved; tunnelled to perineum.
-4. Muscle interposed between rectum and urethra, or used as the graft bed.
-5. **BMG quilted onto the muscle** as onlay; urethra closed over a catheter.
-6. Catheter drainage; urethrogram before removal.
-
-### Results (Chapter 86)
-- Gracilis with or without BMG for rectourethral fistula: **non-irradiated, all closed**, no later strictures. **Irradiated:** most closed in one stage, but more strictures and permanent bowel diversion.
-- Muscle interposition is integral; BMG is invaluable for urethral closure.
-
-### Complications
-- Thigh wound problems; graft contraction, restricture, fistula recurrence.
-
-### "Muscle-sparing" bulbar urethroplasty (Barbagli)
-- The **bulbospongiosus muscle, central perineal tendon and perineal nerves** are left intact; dorsal BMG onlay through a lateral approach.
-- Aim: less post-void dribbling and ejaculatory dysfunction.
-
-**Diagram to draw:** gracilis flap tunnelled to the perineum, lying between rectum and urethra with BMG on it.
-
-> **Key points to remember:**
-> - Graft survival: imbibition then inosculation.
-> - Muscle flap rescues a poor (irradiated) bed.
-> - Gracilis is axial, robust, easy to tunnel.
-> - Muscle-sparing: preserves bulbospongiosus and nerves.
-
----
-
-## Q3b. Silodosin.
-**Type:** SAQ (10 marks)
-
-### Introduction
-- **Uroselective α1-blocker**, the **most α1A-selective** agent: several hundredfold over α1B, about 50-fold over α1D.
-
-### Mechanism of action
-- **α1A receptors** (about 70% of prostatic α1 receptors) dominate in the prostate, bladder neck and prostatic urethra. Noradrenaline on them causes the **dynamic component** of BOO (bladder outlet obstruction).
-- Blockade relaxes this smooth muscle. Little α1B (vascular) blockade means few blood-pressure effects.
-
-### Pharmacology
-- **Dose: 8 mg once daily with a meal**; no titration.
-- **Renal:** 4 mg if CrCl (creatinine clearance) 30–50 mL/min; contraindicated below 30. Contraindicated in severe hepatic impairment.
-- Metabolised by CYP3A4: avoid potent CYP3A4 inhibitors (ketoconazole) and other α-blockers.
-- Onset: flow within 2–6 h, symptoms within 3–4 days.
-
-### Indications
-| Indication | Evidence |
-|---|---|
-| **LUTS (lower urinary tract symptoms) due to BPE (benign prostatic enlargement)** | Japanese, American and European 12-week RCTs (randomised controlled trials): IPSS (International Prostate Symptom Score) and flow better than placebo; **non-inferior to tamsulosin 0.4 mg**; effective in severe LUTS |
-| **MET (medical expulsive therapy)** | Distal ureteric stones 5–10 mm; meta-analyses show higher, faster expulsion than tamsulosin |
-| CP/CPPS (chronic prostatitis/chronic pelvic pain syndrome) | α-blocker-naive men with voiding symptoms |
-
-- Greatest fall in BOOI (BOO index) of all α1-blockers (subgroup data). **Also know:** nocturia (modest).
-
-### Adverse effects
-- **Ejaculatory dysfunction (signature):** anejaculation in over a quarter of men in registration trials (about 14% vs 2% with tamsulosin head-to-head). Mechanism: **emission failure** (vas and seminal vesicle α1A blockade) and bladder-neck relaxation. Reversible; few stop the drug. Counsel young men.
-- **Cardiovascular:** dizziness; orthostatic hypotension rare; no QT change; safe with antihypertensives.
-- **IFIS (intraoperative floppy iris syndrome):** class effect; tell the ophthalmologist before cataract surgery (stopping the drug does not remove risk).
-- Falls in older men.
-
-### Comparison
-| | Tamsulosin | Silodosin |
-|---|---|---|
-| Selectivity | α1A and α1D | α1A ≫ α1D, α1B |
-| Efficacy in LUTS | Equal | Equal |
-| Ejaculatory disorder | Less | More |
-
-**Diagram to draw:** prostate and bladder neck showing α1A receptor sites blocked by silodosin.
-
-> **Key points to remember:**
-> - Most α1A-selective α-blocker; 8 mg with food.
-> - Equal efficacy to tamsulosin 0.4 mg; more anejaculation.
-> - Halve to 4 mg at CrCl 30–50; avoid below 30.
-
----
-
-## Q3c. Optical coherence tomography in carcinoma bladder.
-**Type:** SAQ (10 marks)
-
-### Introduction
-- **WLC (white-light cystoscopy)** is the gold standard but subjective: many biopsies are negative and small lesions are missed.
-- **OCT (optical coherence tomography)** is an **"optical biopsy"** technique listed among enhanced cystoscopic methods for NMIBC (non-muscle-invasive bladder cancer).
-
-### Principle
-- OCT is the **optical analogue of B-mode ultrasound**. It measures the echo delay of back-scattered **near-infrared light** instead of sound, using **low-coherence interferometry**.
-- It gives real-time cross-sectional images with about 10–20 µm resolution, but only **1–2 mm depth**. First described in 1991 (ophthalmology).
-
-### Technique
-- A fibre-optic probe passes through the cystoscope's working channel.
-- WLC or blue light finds the lesion; the probe is placed **in contact** with it and read at once.
-
-### Image interpretation
-| Tissue | OCT appearance |
-|---|---|
-| Normal | Three layers: thin low-scatter urothelium, bright lamina propria, darker muscularis |
-| Inflammation | Layers preserved but thickened |
-| Papillary tumour (Ta) | Thickened urothelium, papillary pattern; lamina propria boundary intact |
-| Invasive (T1) | **Loss of the urothelium–lamina propria boundary** |
-
-### Clinical uses
-- Separate benign from malignant flat lesions; fewer biopsies.
-- Estimate Ta versus T1 during TURBT (transurethral resection of bladder tumour).
-- Check resection margins and completeness.
-- **UTUC (upper tract urothelial carcinoma):** through the ureteroscope, OCT correlates well with final grade and stage.
-
-### Evidence and limitations
-- Small studies show **high sensitivity but lower specificity**: inflammation, scar and post-BCG (bacille Calmette–Guérin) change mimic tumour. Adding OCT to blue light improves specificity.
-- Limitations: tiny field of view; too shallow to stage muscle invasion; no cellular detail, so cannot grade; cost; learning curve.
-- Not recommended routinely by guidelines; investigational.
-
-### Other enhanced techniques
-| Technique | Principle |
-|---|---|
-| Blue-light (HAL, hexaminolevulinate) | Porphyrins fluoresce red; detects more CIS (carcinoma in situ) |
-| NBI (narrow-band imaging) | 415/540 nm light absorbed by haemoglobin |
-| CLE (confocal laser endomicroscopy) | Cellular-level images after fluorescein |
-
-**Diagram to draw:** OCT image showing three bladder layers, and a tumour with loss of layering.
-
-> **Key points to remember:**
-> - Near-infrared "ultrasound with light"; depth 1–2 mm.
-> - Loss of layering suggests tumour.
-> - High sensitivity, false positives from inflammation; investigational.
-
----
-
-## Q3d. Re-look TUR bladder tumour.
-**Type:** SAQ (10 marks)
-
-*Read as second-look (repeat or restaging) TURBT.*
-
-### Definition
-- A **planned second TURBT (transurethral resection of bladder tumour)** of the primary site, including detrusor muscle. It completes resection and corrects staging.
-
-### Rationale
-- **TURBT is a staging operation first.** Completeness and muscle in the specimen are the quality markers.
-- Residual tumour is common:
-  - At the resection site in **≥40%** when re-resected within weeks.
-  - **HG (high-grade) Ta:** residual up to 50%, upstaging up to 15%.
-  - **HG T1:** upstaging to muscle invasion in **25–30%**, up to about half if **no muscle** in the first specimen.
-  - Understaging is about twice as likely without muscle.
-
-### Indications
-| Recommended | Consider | Not needed |
-|---|---|---|
-| Incomplete initial resection | HG Ta, multifocal or large (AUA [American Urological Association]) | Low-grade Ta |
-| **All T1 tumours** | Outside resection with no slides for review | Primary CIS (carcinoma in situ) |
-| **No detrusor muscle** in specimen (except low-grade Ta and primary CIS) | | Cystectomy already planned |
-
-### Timing
-- **2–6 weeks** after the first TURBT (EAU [European Association of Urology]); **within 6 weeks** (AUA). This allows healing yet avoids delaying intravesical BCG (bacille Calmette–Guérin).
-
-### Technique
-- Resect the **primary-site scar deep into detrusor**, plus any residual tumour; send specimens separately. Blue-light or NBI (narrow-band imaging) helps.
-
-### Evidence
-- Changes treatment in about **one-third**.
-- **Divrik (2010) RCT (randomised controlled trial)** in T1: lower recurrence and progression.
-- Better BCG response when BCG follows re-TUR.
-- **Residual T1 at re-resection** predicts progression in up to **80%**: consider early cystectomy.
-
-### Decision after re-TUR
-```
-No tumour / Ta            → BCG induction + maintenance
-Residual HG T1            → early cystectomy (or BCG with close review)
-Muscle invasion (≥T2)     → neoadjuvant chemotherapy + cystectomy
-```
-
-### Recent advances
-- **En bloc resection:** more detrusor, less residual tumour.
-- Expert pathology review changes management in about one-third.
-- **Also know:** maximal TURBT before trimodality therapy.
-
-**Diagram to draw:** bladder wall showing first resection scar and deep second resection into detrusor.
-
-> **Key points to remember:**
-> - Indications: incomplete resection, all T1, no muscle.
-> - Timing 2–6 weeks.
-> - HG T1 upstaged in 25–30% (about half without muscle).
-> - Residual T1 progresses in up to 80%.
-
----
-
-## Q3e. STING technique for VUR.
-**Type:** SAQ (10 marks)
-(also answered in 2020-Summer Paper 4, Q3c)
 
 ### Definition and principle
-- **STING (subureteric Teflon injection)**: endoscopic injection of a **bulking agent** beneath the ureteric orifice in VUR (vesicoureteral reflux). The mound supports the intramural ureter, restoring the **flap-valve**.
-- Matouschek, 1981; popularised by **O'Donnell and Puri, 1986**.
-
-### Bulking agents
-| Agent | Particle | Problem |
-|---|---|---|
-| Teflon (PTFE (polytetrafluoroethylene) paste) | 90% <40 µm, permanent | **Migration**; never FDA (Food and Drug Administration) approved |
-| **Dx/HA (dextranomer/hyaluronic acid, Deflux)** | **80–250 µm**; gel resorbed | Volume loss about 23%; FDA approved 2001; standard agent |
-| Polyacrylate (Vantris) | 300 µm, permanent | Late ureteric obstruction |
+- **Virtual cystoscopy (VC)** is a computer-generated, three-dimensional (3D) endoluminal view of the bladder. It is reconstructed from thin-section **CT (computed tomography)** or **MRI (magnetic resonance imaging)** data of a distended bladder.
+- Software "flies through" the lumen using **surface or volume rendering**; multiplanar images also show wall thickness and extravesical spread.
 
 ### Technique
-1. Antibiotic at induction; offset-lens cystoscope; rigid 3.7–5 Fr needle; bladder partly filled.
-2. **STING**: needle enters **2–3 mm below the orifice at 6 o'clock**, advanced **4–5 mm** submucosally.
-3. Inject slowly; a mound should appear within **0.1–0.2 mL**, else reposition.
-4. Aim for a **"volcano" mound** with a slit-like orifice. Day case.
-
-| Technique | Needle entry | Result |
+| Step | CT virtual cystoscopy | MR virtual cystoscopy |
 |---|---|---|
-| STING | Below orifice | Baseline |
-| **HIT** (hydrodistension implantation technique) | Inside hydrodistended orifice | Better than STING, all grades |
-| **Double HIT** | Two intraureteric sites | About 90% resolution |
+| Distension | Air or CO2 through a catheter (negative contrast), or excretory-phase contrast (positive contrast, no catheter) | Urine-filled bladder; urine bright on T2 |
+| Acquisition | Thin slices, supine and prone (moves dependent urine off the posterior wall) | 3D T2 or T1 contrast sequences |
+| Drawback | Radiation; catheter for gas | Cost, time, motion artefact |
 
-### Indications
-- Persistent primary VUR (grades II–IV) with breakthrough febrile UTI (urinary tract infection), new scars or parental preference; residual VUR after reimplantation.
-- **Relative contraindications**: grade V, **UVJ (ureterovesical junction) obstruction**, untreated BBD (bladder and bowel dysfunction).
+### Advantages
+- Non-invasive; no anaesthesia.
+- Sees where a scope cannot: through a **tight urethral stricture**, inside **diverticula**, beyond a large median lobe.
+- With **CTU (CT urography)**, upper tracts and staging are imaged in one study (Chapter 5: high accuracy for bladder tumours if well distended).
 
-### Results
-- Low-grade VUR about 90% after one injection. **Elder 2006 meta-analysis**: grade I–II about 79%, III 72%, IV 63%, V 51%.
-- **Swedish Reflux Trial**: 20% recurrence at 2 years.
+### Limitations
+- Detects polypoid tumours ≥5 mm well; misses **small and flat lesions, including CIS (carcinoma in situ)**.
+- No colour or mucosal detail, **no biopsy and no treatment**.
+- False positives: trabeculation, clot, debris, folds of an underdistended bladder, prostatic impression.
 
-### Complications
-- Failure or recurrence (repeat 1–2 injections, then reimplant); new contralateral VUR; **early or late obstruction**; calcified mound mimics a stone. **Also know:** Macroplastique.
+### Indications (selective)
+- Unfit for, or refusing, cystoscopy; urethral stricture; diverticulum; bladder evaluation during CTU for haematuria.
+- **Guideline position:** EAU (European Association of Urology) and AUA (American Urological Association) do not recommend VC in place of cystoscopy. Flexible cystoscopy remains the standard.
 
-### Follow-up
-- Ultrasound at 2–6 weeks; ultrasound ± VCUG (voiding cystourethrogram) at 3 months.
+### Related advances
+- **Also know:** MRI **VI-RADS (Vesical Imaging–Reporting and Data System)** scores muscle invasion (Chapter 6); blue-light and narrow-band cystoscopy improve CIS detection (Chapter 8); virtual ureteroscopy uses the same principle.
 
-**Diagram to draw:** needle sites: STING below orifice, HIT and double HIT inside the tunnel, with volcano mound.
+**Diagram to draw:** thin-slice CT of a gas-distended bladder, then a 3D endoluminal fly-through showing a polypoid tumour.
 
 > **Key points to remember:**
-> - O'Donnell and Puri 1986; needle 2–3 mm below orifice at 6 o'clock.
-> - Dx/HA 80–250 µm; HIT better than STING; double HIT about 90%.
-> - Watch late obstruction; calcified mound mimics stone.
+> - 3D endoluminal reconstruction from thin-section CT or MRI.
+> - Good for polypoid tumours ≥5 mm; misses flat lesions and CIS.
+> - No biopsy; does not replace cystoscopy.
+> - Useful beyond strictures and inside diverticula.
 
 ---
 
-## Q3f. Diet in stone disease.
+## Q3b. 3D laparoscopy
 **Type:** SAQ (10 marks)
-(also answered in 2023-Winter Paper 4, Q3f)
+
+### Introduction
+- Standard laparoscopy gives a **two-dimensional (2D)** image. Depth is judged from monocular cues (shadow, size, motion parallax, touch), which slows suturing.
+- **Three-dimensional (3D) laparoscopy** restores **stereoscopic depth perception**, as in robotic surgery (Chapter 18: two-lens binocular systems give depth perception).
 
 ### Principle
-- Diet lowers urinary **supersaturation** by **dilution**, by reducing promoters (calcium, oxalate, uric acid, sodium) and by raising inhibitors (citrate).
-- General advice for all; recurrent formers tailored to **24-hour urine**.
+- Two lenses or two chip-on-tip sensors, a few millimetres apart, capture two images from slightly different angles, like the two eyes.
+- The monitor shows both images; **polarised glasses** send one to each eye. The brain fuses them, and the **binocular disparity** is perceived as depth.
+- **Also know:** active-shutter glasses; head-mounted displays; glasses-free (autostereoscopic) screens; 3D scopes at 0° and 30°, and with a deflectable tip; 3D 4K systems.
 
-### General measures
-| Measure | Target | Mechanism and evidence |
-|---|---|---|
-| **Fluid** | Urine **≥2.5 L/day** (about 3 L intake), spread through the day | Most important single factor. **Borghi 1996 RCT (randomised controlled trial):** recurrence 12.1% vs 27% at 5 years |
-| **Normal calcium** | 1000–1200 mg/day, with meals | Binds oxalate in the gut. **Restriction increases stones**. **Borghi 2002:** normal-calcium, low-salt, low-protein diet halved stone events vs low-calcium diet |
-| **Low sodium** | Salt about 4–5 g/day | Sodium increases urinary calcium, lowers citrate |
-| **Limit animal protein** | 0.8–1.0 g/kg/day | Acid and purine load: hypercalciuria, hypocitraturia, hyperuricosuria |
-| **Fruit and vegetables** (DASH [Dietary Approaches to Stop Hypertension] diet) | Daily | Alkali and citrate; DASH linked to fewer stones |
-| **Weight** | BMI (body mass index) 18–25 | Obesity: low urine pH, more oxalate and uric acid |
+### Advantages
+- Better depth judgement and hand–eye coordination.
+- **Shorter time for complex tasks**, especially intracorporeal suturing and knotting, with fewer errors.
+- **Shorter learning curve**; novices gain more than experts.
+- Gives robotic-type vision at much lower cost.
 
-- **Citrus:** lemonade (most evidence) and orange juice raise citrate; orange juice adds alkali. **Volume matters more than drink type.**
-- Avoid sugar-sweetened drinks and **high-dose vitamin C** (converted to oxalate).
+### Disadvantages
+- Visual strain, headache, dizziness or nausea in some users; glasses dim the image.
+- Every team member needs glasses and a correct viewing distance and angle.
+- Higher cost than 2D; 30° rotation needs care.
+- No wristed instruments, tremor filtering or motion scaling: these come only with the robot.
 
-### Stone-specific diet
-| Stone or abnormality | Diet |
-|---|---|
-| **Hyperoxaluria** | Avoid large portions of **spinach, beets, chocolate, nuts, tea**; calcium with meals |
-| **Enteric hyperoxaluria** | Strict low oxalate and **low fat**; **calcium up to 1 g/day with meals**; fluid; magnesium |
-| **Uric acid** | Less animal protein (purines give about 30% of urinary uric acid); fruit and vegetables; weight loss |
-| **Cystine** | Fluid **3–5 L/day** including night; sodium **≤2300 mg/day**; less animal protein (not in children) |
-| **Struvite** | Infection control; diet has little role |
+### Urological uses
+- Reconstructive steps: **pyeloplasty**, vesicourethral anastomosis in laparoscopic radical prostatectomy, **partial nephrectomy** renorrhaphy, ureteric reimplantation, donor nephrectomy.
 
-### Adherence
-- Poor: only half reach 2.5 L at 6 months; apps and smart bottles help.
+### Evidence
+- Randomised trials and meta-analyses in laboratory tasks and laparoscopic surgery show shorter operating and suturing times with 3D. Differences in complications and oncological outcomes are not established.
 
-**Diagram to draw:** "stone-prevention plate": water, fruit and vegetables, normal dairy, little meat and salt.
+| Feature | 2D laparoscopy | 3D laparoscopy | Robot |
+|---|---|---|---|
+| Depth perception | No | Yes | Yes (magnified) |
+| Wristed instruments | No | No | Yes |
+| Cost | Low | Moderate | High |
+
+**Diagram to draw:** two lenses at the scope tip, two images, polarised glasses, fused 3D image in the brain.
 
 > **Key points to remember:**
-> - Urine ≥2.5 L/day (Borghi 1996).
-> - Never restrict calcium (Borghi 2002).
-> - Low salt, less animal protein, more fruit and vegetables.
-> - Cystine: ≥3 L urine; enteric: low fat, calcium with meals.
+> - Two lenses, two images, polarised glasses: binocular disparity gives depth.
+> - Main gain: faster, more accurate suturing; shorter learning curve.
+> - Drawbacks: eye strain, headache, cost, glasses for all.
+> - Robotic vision at low cost, but without wristed instruments.
+
+---
+
+## Q3c. Telemedicine in urology
+**Type:** SAQ (10 marks)
+
+### Definition
+- **Telemedicine** is delivery of health care at a distance using information and communication technology (video, phone, messaging, data transfer).
+- **COVID-19 (coronavirus disease 2019)** distancing accelerated its adoption. Chapter 2: urologists' telehealth use rose sharply in 2019–2020.
+
+### Types
+| Type | Method | Urological example |
+|---|---|---|
+| Synchronous | Real-time video or phone consultation | Stone, PSA (prostate-specific antigen) and post-operative follow-up |
+| Asynchronous (store-and-forward) | Reports, images, bladder diaries sent for later review | Scan reports, uroflow traces |
+| Remote monitoring | Apps and home devices | Bladder diary apps, home uroflowmetry |
+| Provider-to-provider | E-consults, telementoring, tele-tumour boards | Haematuria triage (Chapter 8) |
+| Telesurgery | Remote robotic surgery | Experimental; limited by latency |
+
+### Uses in urology
+- **History-driven care:** LUTS (lower urinary tract symptoms) review, results, drug titration.
+- ED (erectile dysfunction) evaluation by selected telemedicine (Chapter 72); men's health in large, sparse regions (Chapter 68).
+- After mid-urethral sling, telemedicine follow-up is safe, and app-based follow-up gave higher satisfaction than office visits (Chapter 116).
+- Internet-based pelvic floor training equalled a postal programme in an RCT (randomised controlled trial) (Chapter 114).
+
+### Benefits (Chapter 2)
+- Access for rural and underserved patients; less travel; shorter waits; relatives join remotely; sustained satisfaction.
+
+### Limitations (Chapter 2)
+- **No examination or in-office tests**: vital signs, cystoscopy, PVR (post-void residual).
+- Needs connectivity and a secure, simple platform; hard for elderly or non-technical patients.
+- No assistant to pre-gather results; more no-shows.
+- **Medico-legal:** US licensure is state-based, and pandemic payment waivers have ended.
+
+### Indian framework
+- **Telemedicine Practice Guidelines (2020)**: only a registered medical practitioner may consult; identity of patient and doctor confirmed; consent and records kept; narcotic and Schedule X drugs may not be prescribed.
+- Government platform **eSanjeevani**; patient data covered by the Digital Personal Data Protection Act 2023.
+
+**Diagram to draw:** patient (home or district hospital) linked by video and data to the urologist, with remote monitoring feeding in.
+
+> **Key points to remember:**
+> - Telemedicine trades examination for access.
+> - Best for follow-up, results and history-driven visits.
+> - Limits: no examination, connectivity, elderly, medico-legal.
+> - India: Telemedicine Practice Guidelines 2020; eSanjeevani.
+
+---
+
+## Q3d. Simulators in urology
+**Type:** SAQ (10 marks)
+
+### Rationale
+- Fewer training cases and complex technology mean skills must be learnt **outside the patient**.
+- Chapter 1: simulation is used to **acquire and maintain skills and to warm up** before operating.
+
+### Types
+| Type | Examples | Strengths and limits |
+|---|---|---|
+| **Bench / box trainer** | Peg transfer, cutting, suturing; chicken oesophagus anastomosis; 3D (three-dimensional)-printed perfused hydrogel kidney | Cheap, proven skill gains; limited realism |
+| **VR (virtual reality)** | LapSim, LapMentor, RobotiX Mentor, SimNow (robotic prostatectomy); endourology trainers for cystoscopy, ureteroscopy, PCNL (percutaneous nephrolithotomy), TURP (transurethral resection of the prostate) | Records metrics (precision, economy of motion), builds curricula, sets expert benchmarks; costly; poor tissue feel |
+| **Live animal** | Pig | Real bleeding; ethics, cost |
+| **Cadaver** | Fresh-frozen | Real human anatomy; scarce |
+| **Team (non-technical)** | High-fidelity theatre crises | Communication and teamwork |
+
+### Validity (needed before a simulator is trusted)
+- **Face:** looks real. **Content:** teaches the right skills. **Construct:** experts score better than novices. **Concurrent:** agrees with an established test. **Predictive:** simulator score forecasts operating performance.
+
+### Evidence (Chapter 18, Chapter 12)
+- VR training **beats no training or box training** for novices and improves live performance and operating time.
+- Robotic simulator scores correlate with live RARP (robot-assisted radical prostatectomy) performance.
+- **FRS (Fundamentals of Robotic Surgery):** a multi-institutional RCT (randomised controlled trial) showed better speed and accuracy.
+- Ureteroscopy team simulation taught non-technical skills better than lectures (randomised trial).
+
+### Structured curricula and assessment
+- **EAU (European Association of Urology) E-BLUS** (European Basic Laparoscopic Urological Skills): online theory, then dry-model tasks, then examination.
+- **Proficiency-based progression:** move on only after reaching expert benchmarks.
+- Scoring: **GEARS (Global Evaluative Assessment of Robotic Skills)** and **OSATS (Objective Structured Assessment of Technical Skills)**.
+
+### Limitations
+- Cost, poor tissue feel, limited proof of better patient outcomes.
+
+**Diagram to draw:** pyramid: box trainer at the base, then VR, then animal or cadaver, then supervised surgery at the top.
+
+> **Key points to remember:**
+> - Bench, VR, animal, cadaver and team simulation.
+> - Validity: face, content, construct, concurrent, predictive.
+> - VR beats box or no training for novices.
+> - E-BLUS and FRS; proficiency-based progression; GEARS.
+
+---
+
+## Q3e. Virtual and augmented reality in urology
+**Type:** SAQ (10 marks)
+
+### Definitions
+- **Virtual reality (VR):** the user is immersed in a fully computer-generated environment, usually through a head-mounted display.
+- **Augmented reality (AR):** digital images are laid over the real view, for example a 3D (three-dimensional) tumour model on the robotic camera image.
+- **Mixed reality:** virtual holograms are anchored in the room and can be handled.
+
+### Workflow
+```
+CT (computed tomography) / MRI (magnetic resonance imaging)
+   -> segmentation of organ, tumour, vessels, collecting system
+   -> 3D virtual model -> viewed in VR, 3D-printed, or overlaid (AR)
+   -> registration to the live surgical view
+```
+
+### Applications
+| Use | Examples |
+|---|---|
+| **Pre-operative planning** | Partial nephrectomy: tumour depth, arterial branches, selective clamping. **PCNL (percutaneous nephrolithotomy)**: calyx and tract choice (Chapter 98: immersive VR and 3D printing show early promise). Prostatectomy: MRI lesion model to plan nerve-sparing |
+| **Intra-operative navigation** | AR overlay in the robot console to locate an endophytic tumour, hilar vessels, or a prostate lesion near the capsule |
+| **Education** | VR anatomy, 360° operation videos; simulation, see Q3d |
+| **Patient counselling** | Patients understand their anatomy and planned operation; better-informed consent |
+| **Paediatrics** | VR distraction reduces anxiety before surgery and procedures such as catheterisation and VCUG (voiding cystourethrogram) (Chapters 35 and 38) |
+
+### Limitations
+- **Registration error:** organs move and deform with breathing, pneumoperitoneum and dissection, so a rigid overlay drifts; manual alignment is still common.
+- Segmentation time and cost.
+- Chapter 161: promising but **resource-intensive and hard to validate**.
+- Chapter 98: 3D reformatting added nothing over orthogonal CT measurements for predicting stone-free rate.
+- Little outcome evidence; cybersickness with headsets.
+
+### Future
+- **AI (artificial intelligence)** for automatic segmentation and real-time tracking.
+- **Digital surgery:** reconstruction of the patient's own anatomy allows rehearsal before the operation (Chapter 147).
+
+**Diagram to draw:** CT kidney, segmented 3D model, and overlay of the model on the robotic view of a renal tumour.
+
+> **Key points to remember:**
+> - VR immerses; AR overlays on reality.
+> - Main uses: planning partial nephrectomy, PCNL and prostatectomy; navigation; teaching; counselling.
+> - Biggest problem: registration on moving, deforming organs.
+> - Evidence for outcomes still limited.
+
+---
+
+## Q3f. Bladder transplantation
+**Type:** SAQ (10 marks)
+
+### Rationale
+- After cystectomy, or when the bladder cannot be reconstructed, the usual substitute is **bowel**. Bowel in the urinary tract causes mucus, metabolic acidosis, stones, infection and malignancy risk.
+- Chapter 135: two frontiers aim to **remove bowel from urinary reconstruction**: tissue engineering and bladder transplantation.
+
+### Tissue engineering (why it has not succeeded)
+- **Atala et al. (2006):** first seeded biodegradable construct for neurogenic augmentation. A later multi-institution trial showed **no significant gain in compliance or capacity** (Chapter 48).
+- Engineered conduit trial: **half developed stenosis or stricture**, because of stiff material, poor cell coverage and **no blood supply** (Chapter 135).
+- Engineered bladder: storage only (Chapter 111). See 2022-Summer Paper 4, Q2.
+
+### Bladder transplantation: development (Chapter 135)
+- A **VCA (vascularised composite allograft)**: the donor bladder is transplanted with its own blood vessels.
+- Stepwise preclinical work at USC (University of Southern California): pigs, perfused cadavers, then brain-dead human donors.
+
+### Technique (robotic)
+1. **Robotic retrieval** of the bladder on its vesical vascular pedicles from the donor.
+2. **Back-table vascular reconstruction**.
+3. **Robotic implantation**: vessels to recipient iliac vessels; ureters joined to the graft.
+4. **ICG (indocyanine green) fluorescence** confirms perfusion. Vascularity and mucosal integrity held for over 12 hours.
+
+### First clinical case
+- Reported in **2025** from Los Angeles: a combined kidney and bladder transplant from a deceased donor, in a dialysis patient who had lost most of his bladder.
+
+### Problems
+- **Lifelong immunosuppression**: infection, malignancy, drug nephrotoxicity. This is the major limitation (Chapter 135), especially after cancer.
+- **Denervated graft**: stores urine; voiding may need straining or CIC (clean intermittent catheterisation).
+- Rejection monitoring, donor supply, unknown long-term function.
+
+### Likely candidates
+- Already immunosuppressed patients (kidney transplant recipients) with an absent or non-functioning bladder.
+
+**Diagram to draw:** donor bladder on its vascular pedicles anastomosed to recipient iliac vessels, ureters entering the graft.
+
+> **Key points to remember:**
+> - Goal: avoid bowel in the urinary tract.
+> - Tissue-engineered bladders failed on blood supply and function.
+> - Robotic VCA; first human case 2025.
+> - Limits: immunosuppression and denervation.
