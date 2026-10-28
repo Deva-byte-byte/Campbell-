@@ -96,13 +96,14 @@
 | Goh (distance from meatus) | Size | Tissue |
 |---|---|---|
 | 1: >3.5 cm; 2: 2.5–3.5; 3: 1.5–2.5; 4: <1.5 cm | A <1.5 cm; B 1.5–3 cm; C >3 cm | i mild fibrosis; ii moderate/severe; iii radiation, ureteric, circumferential, previous repair |
-- **Also know:** Waaldijk (closing mechanism involvement); WHO simple vs complex.
+- **Also know:** Waaldijk (closing mechanism involvement); WHO (World Health Organization) simple vs complex.
 
 ### Evaluation (guides choice)
 - Speculum; fluid creatinine. **Dye tests:** single (blue backfill, tampon); **double** (oral phenazopyridine plus blue): orange = UVF (ureterovaginal fistula), blue = VVF.
 - **Cystoscopy and vaginoscopy:** number, size, ureteric orifices, bladder neck, mesh; **biopsy if previous cancer.**
 - **Upper tract (CTU, computed tomography urography) is mandatory:** coexisting ureteric fistula (up to 12–25%).
 - Urodynamics: capacity, compliance, SUI (stress urinary incontinence) in 10–15%.
+- Prepare: vaginal oestrogen for atrophy; counsel about residual incontinence, dyspareunia and possible reoperation.
 
 ### Principles
 - Optimise nutrition, treat infection, drain continuously, relieve obstruction, exclude malignancy.
@@ -132,7 +133,7 @@
 
 **Abdominal techniques**
 - **O'Conor (1951):** extraperitoneal; bivalve bladder from dome down to fistula; excise tract; separate bladder from vagina 2–3 cm beyond; close vagina; **omental or peritoneal flap**; close bladder; suprapubic catheter.
-- **Transvesical** (limited cystotomy) and **extravesical** (no cystotomy; fewer LUTS).
+- **Transvesical** (limited cystotomy) and **extravesical** (no cystotomy; fewer LUTS [lower urinary tract symptoms]).
 - **Laparoscopic (1994) and robotic (2005):** same closure (85–100%) with less blood loss and shorter stay; vaginal stent, backfill, ICG (indocyanine green) perfusion check.
 
 ### Interposition flaps (for radiation, recurrent, ischaemic or large VVF)
@@ -142,7 +143,7 @@
 | Peritoneal (vaginal) | Pouch of Douglas fold | Apical post-hysterectomy |
 | **Omentum (J-flap)** | Gastroepiploic arteries | Abdominal; radiation, large |
 | Gracilis, Singapore, rectus | Myocutaneous | Refractory, tissue loss |
-- RCT: Martius added nothing in simple VVF, with donor-site pain in nearly a third.
+- RCT (randomised controlled trial): Martius added nothing in simple VVF, with donor-site pain in nearly a third.
 
 ### Postoperative care
 - Catheter ≥10–14 days (urethral and/or suprapubic); antimuscarinic or β3-agonist for spasm; cystogram before removal; stents out at 4–6 weeks.
@@ -151,7 +152,7 @@
 - Multiple failures, severe radiation, massive tissue loss: conduit or continent reservoir. Unfit: ureteric occlusion with nephrostomies. Resource-poor: ureterosigmoidostomy as last resort.
 
 ### Outcomes
-- Residual urgency or incontinence despite closure (Goh 3–4 predicts); retention (vertical bladder closure); dyspareunia. ICS (International Continence Society): pelvic floor physiotherapy.
+- Residual urgency or incontinence despite closure (Goh 3–4 predicts); retention (vertical bladder closure); dyspareunia (narrow vagina, fistula ≥3 cm). ICS (International Continence Society): pelvic floor physiotherapy.
 
 **Diagram to draw:** flap-splitting repair: perpendicular bladder layers, Martius flap, advanced vaginal flap.
 
@@ -193,6 +194,7 @@
 | Age | 0–1 month | 2–12 months | 1–2 years | 2–8 years |
 |---|---|---|---|---|
 | Max IAP (intra-abdominal pressure) | ≤6 mmHg | ≤8 | ≤10 | ≤12 |
+- **Positioning:** modified flank for kidney; supine steep Trendelenburg for pelvis. Infants: minimise inhalational anaesthetic, rectal tube to reduce bowel distension.
 - **Only absolute contraindication:** inability to tolerate pneumoperitoneum.
 
 ### Complications
@@ -227,7 +229,7 @@
 
 ### Uses and doses
 1. **ED (erectile dysfunction):** 10–20 mg on demand, or 2.5–5 mg once daily. Intercourse success about 70%; 40–50% in diabetes and after prostatectomy.
-2. **BPH-LUTS (lower urinary tract symptoms), with or without ED:** **5 mg daily**, the only PDE5I licensed. IPSS (International Prostate Symptom Score) falls about 6 points (placebo 3.6) **without Qmax change**; mechanism is NO–cGMP relaxation, perfusion and reduced afferent activity, not de-obstruction. Equal to tamsulosin for IPSS. EAU 2022 and AUA 2021: option for moderate–severe LUTS.
+2. **BPH (benign prostatic hyperplasia) with LUTS (lower urinary tract symptoms), with or without ED:** **5 mg daily**, the only PDE5 inhibitor licensed. IPSS (International Prostate Symptom Score) falls about 6 points (placebo 3.6) **without Qmax (peak flow rate) change**; mechanism is NO–cGMP relaxation, perfusion and reduced afferent activity, not de-obstruction. Equal to tamsulosin for IPSS. EAU (European Association of Urology) 2022 and AUA (American Urological Association) 2021: option for moderate–severe LUTS.
 3. **Also know:** fixed finasteride–tadalafil (FDA 2021); penile rehabilitation (benefit unproven); prevention of stuttering priapism (PDE5I paradox); pulmonary arterial hypertension.
 
 ### Adverse effects
@@ -238,7 +240,6 @@
 - **Nitrates in any form: absolute.** After tadalafil, no nitrates for **48 h** (24 h for sildenafil).
 - Caution: α-blockers (start lowest dose of the added drug), aortic stenosis, hypotension. CYP3A4 inhibitors (ketoconazole, ritonavir) raise levels.
 - Not studied: MI (myocardial infarction) or stroke within 6 months, unstable angina, BP <90/50 or >170/100 mmHg, retinitis pigmentosa.
-- Hypotension with nitrates: Trendelenburg, fluids, phenylephrine.
 
 **Diagram to draw:** NO–cGMP–PDE5 pathway in cavernosal smooth muscle.
 
@@ -343,7 +344,7 @@
 *Assumed meaning: single-stage (complete primary) repair of exstrophy of the urinary bladder, mainly CPRE (complete primary repair of exstrophy, Mitchell).*
 
 ### Background
-- Classic bladder exstrophy: about 2 per 100,000 births; M:F 2.3:1. Absent infraumbilical mesoderm: open bladder, epispadias, pubic diastasis (mean 4.8 cm).
+- Classic bladder exstrophy: absent infraumbilical mesoderm; open bladder, epispadias, pubic diastasis (mean 4.8 cm).
 - **MSRE (modern staged repair):** closure at birth, epispadias repair 6–12 months, bladder neck reconstruction 4–7 years. Single-stage repairs aim for fewer operations and continence without bladder neck repair.
 
 ### Single-stage options
@@ -351,7 +352,6 @@
 |---|---|
 | **CPRE (Mitchell)** | Newborn closure + penile disassembly + bladder neck tailoring |
 | Erlangen ("total") | All in one at about 8 weeks, no osteotomy |
-| Kelly | Radical soft-tissue mobilisation, no osteotomy (actually staged) |
 | Combined closure + epispadias repair | Delayed or failed closures, boys >6 months |
 
 ### Selection
@@ -413,11 +413,11 @@
 - **Imipramine** 25 mg twice daily; antihistamines (brompheniramine) add to sympathomimetics.
 - **Bladder neck reconstruction:** poor results; collagen injection experimental.
 - **Sperm retrieval:** alkalinise urine (sodium bicarbonate), void or catheterise after orgasm, wash sperm in buffer → IUI (intrauterine insemination), IVF (in vitro fertilisation) or ICSI (intracytoplasmic sperm injection).
-- **Prevention:** nerve-sparing RPLND, ejaculation-preserving BPH procedures.
+- **Prevention:** nerve-sparing RPLND, ejaculation-preserving procedures for BPH (benign prostatic hyperplasia).
 
 **Diagram to draw:** bladder neck open at ejaculation with semen entering the bladder.
 
 > **Key points to remember:**
 > - TURP and diabetic neuropathy are the commonest causes.
 > - Post-ejaculatory urine: sperm and fructose confirm RE.
-> - Pseudoephedrine first; else urinary sperm retrieval for ART.
+> - Pseudoephedrine first; else urinary sperm retrieval for assisted reproduction.

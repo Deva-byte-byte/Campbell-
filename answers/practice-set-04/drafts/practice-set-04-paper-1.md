@@ -19,14 +19,13 @@
 (also answered in 2020-Summer Paper 4, Q2)
 
 ### Introduction
-- Stone disease is a **chronic metabolic disease** punctuated by stone attacks. Recurrence is up to **50% within 5 years**. Removal is surgical; recurrence is metabolic.
-- Composition: calcium oxalate about 60%, mixed with apatite about 20%, uric acid and struvite about 7% each, cystine 1–3%.
+- Stone disease is a **chronic metabolic disease** with recurrence up to **50% within 5 years**. Removal is surgical; recurrence is metabolic.
+- Calcium oxalate (with or without apatite) forms about 80%; uric acid and struvite about 7% each; cystine 1–3%.
 
 ### Risk factors
-- **Epidemiological:** male sex (gap narrowing as female rates rise), hot climate and occupation (low urine volume), diet rich in animal protein and salt, family history.
-- **Systemic:** metabolic syndrome, obesity and diabetes (insulin resistance lowers urine pH), gout, primary hyperparathyroidism, RTA (renal tubular acidosis), bowel disease or bariatric bypass, sarcoidosis.
-- **Anatomical stasis:** PUJ (pelviureteric junction) obstruction, horseshoe kidney, calyceal diverticulum, medullary sponge kidney.
-- **Drugs:** indinavir, triamterene; acetazolamide, topiramate, excess vitamins C and D.
+- **Epidemiological:** male sex, hot climate (low urine volume), animal protein and salt, family history.
+- **Systemic:** metabolic syndrome and diabetes (insulin resistance lowers urine pH), gout, hyperparathyroidism, RTA (renal tubular acidosis), bowel disease or bypass, sarcoidosis.
+- **Stasis:** PUJ (pelviureteric junction) obstruction, horseshoe kidney, medullary sponge kidney. **Drugs:** indinavir, topiramate, vitamin C and D excess.
 
 ### Physicochemistry: state of saturation
 | State | Concentration product (CP) | What happens |
@@ -35,17 +34,15 @@
 | **Metastable** | Between Ksp and Kf (formation product) | No spontaneous nucleation, but growth on existing crystals; inhibitors act here. **Zone of therapy** |
 | Unstable | Above Kf | Spontaneous nucleation, growth, aggregation |
 
-- Every preventive measure tries to push urine down out of the metastable zone.
 
 ### Steps of stone formation
-1. **Supersaturation:** low volume; high calcium, oxalate or uric acid; low citrate; abnormal pH.
-2. **Nucleation:** homogeneous, or **heterogeneous** on cell debris or other crystals (needs less energy).
-3. **Growth and aggregation:** a single crystal cannot block a tubule in the 5–7 minute nephron transit, but aggregates can (**free-particle theory**).
+1. **Supersaturation:** low volume; high calcium, oxalate or uric acid; low citrate.
+2. **Nucleation:** homogeneous, or **heterogeneous** on debris or other crystals (needs less energy).
+3. **Growth and aggregation:** aggregates, not single crystals, can block a tubule within the 5–7 minute transit (**free-particle theory**).
 4. **Retention (fixed-particle theory):** **Randall plaque** (calcium apatite) starts in the basement membrane of the thin loop of Henle, spreads through the interstitium, erodes the papillary urothelium and anchors calcium oxalate growth (idiopathic formers). **Ductal plugs** (crystals in collecting ducts) point to a secondary cause: enteric hyperoxaluria, distal RTA, hyperparathyroidism, cystinuria.
 
-### Inhibitors, promoters and matrix
-- **Inhibitors:** **citrate** (complexes calcium), **magnesium** (complexes oxalate), pyrophosphate, glycosaminoglycans, nephrocalcin, **Tamm–Horsfall protein**, osteopontin. There is **no inhibitor of uric acid**.
-- **Matrix:** about 2.5% of stone weight; role uncertain.
+### Inhibitors and matrix
+- **Inhibitors:** **citrate** (complexes calcium), **magnesium** (complexes oxalate), pyrophosphate, glycosaminoglycans, nephrocalcin, **Tamm–Horsfall protein**, osteopontin. **No inhibitor of uric acid** exists. Matrix is about 2.5% of stone weight.
 
 ### Pathophysiology by urinary abnormality
 | Abnormality (definition) | Mechanism |
@@ -60,15 +57,15 @@
 
 ### Prevention of recurrence
 **1. Screen every first-time former (AUA [American Urological Association], EAU [European Association of Urology])**
-- History (bowel disease, gout, drugs), serum sodium, potassium, creatinine, calcium, uric acid; urine pH and culture; **stone analysis**; imaging for residual burden. This sorts patients into high and low risk.
+- History, serum electrolytes, creatinine, calcium, uric acid; urine pH and culture; **stone analysis**; imaging. This sorts patients into high and low risk.
 
 **2. General measures (all formers)**
 - **Fluid for urine ≥2.5 L/day** (drink about 3 L). Borghi 1996: 5-year recurrence 12.1% vs 27%.
-- **Normal calcium**, low sodium, less animal protein, more fruit and vegetables. Borghi 2002: this diet halved recurrence compared with a low-calcium diet. Low calcium raises oxalate absorption.
-- Limit high-oxalate foods (spinach, nuts, chocolate, tea); avoid vitamin C excess; weight loss.
+- **Normal calcium**, low sodium, less animal protein, more fruit and vegetables (Borghi 2002: halved recurrence versus a low-calcium diet, which raises oxalate absorption).
+- Limit high-oxalate foods (spinach, nuts, chocolate); weight loss.
 
 **3. Metabolic evaluation (high-risk or recurrent formers, children)**
-- One or two **24-hour urines** on a random diet: volume, pH, calcium, oxalate, uric acid, citrate, sodium, potassium, creatinine. Targeted drug therapy based on these results reduces stone events.
+- One or two **24-hour urines**: volume, pH, calcium, oxalate, uric acid, citrate, sodium, potassium, creatinine. Therapy targeted to these results reduces stone events.
 
 **4. Selective drug therapy**
 | Abnormality | Treatment | Rationale |
@@ -80,16 +77,14 @@
 | Enteric hyperoxaluria | **Calcium with meals**, low-oxalate, low-fat diet, magnesium, liquid citrate | Binds oxalate in gut |
 | Primary hyperoxaluria type 1 | Pyridoxine; **lumasiran** (RNA [ribonucleic acid] interference) | ILLUMINATE-A |
 | Cystinuria | Urine ≥3 L/day, pH **7.0–7.5**; **tiopronin** | Cystine <250 mg/L; thiol forms soluble mixed disulfide |
-| Struvite | **Complete stone clearance**, culture-specific antibiotics; AHA (acetohydroxamic acid) 250 mg three times daily if unfit for surgery | Urease inhibitor; thrombosis, haemolysis |
+| Struvite | **Complete clearance**, antibiotics; AHA (acetohydroxamic acid) 250 mg three times daily if unfit for surgery | Urease inhibitor; thrombosis |
 
-- Recurrent calcium stones with a normal work-up: thiazide or potassium citrate (AUA).
 
 **5. Monitoring**
-- 24-hour urine within **6 months** of starting therapy, then yearly; blood tests for side effects; reanalyse any new stone; periodic imaging.
+- 24-hour urine within **6 months** of starting therapy, then yearly; reanalyse any new stone.
 
 ### Recent advances
-- **ROKS (Recurrence of Kidney Stone) nomogram** predicts individual risk; smart water bottles and apps improve fluid adherence; lumasiran for PH1.
-- **Also know:** NOSTONE (2023): hydrochlorothiazide did not reduce recurrence; citrus juices (orange better alkali than lemon) are adjuncts; *Oxalobacter formigenes* loss.
+- **ROKS (Recurrence of Kidney Stone) nomogram** predicts individual risk. **Also know:** NOSTONE (2023): hydrochlorothiazide did not reduce recurrence; citrus juices are adjuncts; *Oxalobacter formigenes* loss.
 
 **Diagram to draw:** saturation zones (Ksp, Kf) and Randall plaque on a renal papilla.
 
@@ -108,7 +103,6 @@
 ### Definition
 - **OAB (overactive bladder), ICS (International Continence Society):** urgency, usually with frequency and nocturia, with or without UUI (urgency urinary incontinence), without UTI (urinary tract infection) or other obvious pathology.
 - OAB is a **symptom** diagnosis. DO (detrusor overactivity) is a **urodynamic** finding; only 44–69% of patients with urgency show DO.
-- Prevalence 12–29% of adults; rises with age; UUI is commoner in women.
 
 ### Pathophysiology
 All mechanisms converge on **more afferent signal reaching awareness**: the bladder turns the signal up, or the CNS (central nervous system) fails to turn it down.
@@ -152,7 +146,7 @@ Augmentation cystoplasty or urinary diversion
 - Works by **uncoupling the void from the urge**.
 
 **3. PFMT (pelvic floor muscle training) and urge suppression**
-- Kegel exercises: quick 1–2 s flicks and 5–10 s holds, about 30 contractions twice a day.
+- Kegel exercises: quick 1–2 s flicks and 5–10 s holds, twice daily.
 - A pelvic floor contraction **reflexly inhibits the detrusor**. Urge suppression: stop, stay still, squeeze quickly several times, relax, let the urge pass, then walk calmly to the toilet.
 - PFMT and BT reduce incontinence episodes by **50–80%**.
 - **Also know:** biofeedback helps patients who cannot find the muscle; electrical stimulation at 5–20 Hz inhibits the detrusor; timed and prompted voiding for cognitively impaired patients.
@@ -188,7 +182,7 @@ Augmentation cystoplasty or urinary diversion
 
 ### Definition
 - XGP (xanthogranulomatous pyelonephritis) is a rare, severe, **chronic** infection causing diffuse destruction of an enlarged, non-functioning kidney, with **lipid-laden foamy macrophages** (xanthoma cells).
-- Under 1% of chronic pyelonephritis, but up to a fifth of nephrectomies for pyelonephritis. Peak age 50–70 years; women; diabetes is a risk factor.
+- Up to a fifth of nephrectomies for pyelonephritis. Peak age 50–70 years; women; diabetes is a risk factor.
 
 ### Pathogenesis
 - **Triad: stone, obstruction, infection.** Stones in up to 80% (half staghorn).
@@ -201,7 +195,7 @@ Augmentation cystoplasty or urinary diversion
 - **Malek staging:** I confined to kidney; II into perinephric fat; III into paranephric tissue or retroperitoneum.
 
 ### Clinical features
-- Flank pain, fever (about two-thirds), flank mass (about 60%), malaise, weight loss; persistent bacteriuria.
+- Flank pain, fever (about two-thirds), flank mass (about 60%), weight loss; persistent bacteriuria.
 - Labs: anaemia, raised inflammatory markers, pyuria; liver dysfunction in up to half. One-third have **sterile urine** (prior antibiotics).
 
 ### Imaging
@@ -210,10 +204,10 @@ Augmentation cystoplasty or urinary diversion
 - **Differentials:** RCC (renal cell carcinoma), pyonephrosis, malakoplakia, lymphoma, tuberculosis.
 
 ### Management
-- Antibiotics to stabilise; drain an abscess if septic.
+- Antibiotics to stabilise; drain if septic.
 - **Nephrectomy** (with perinephric fat) for diffuse disease; partial nephrectomy for focal disease.
 - Surgery is difficult: dense adhesions to psoas, great vessels, bowel and diaphragm. Remove the whole inflammatory mass, because simple drainage leads to **nephrocutaneous fistula**.
-- Laparoscopic nephrectomy is feasible but has high conversion rates.
+- Laparoscopic nephrectomy is feasible; conversion rates are high.
 - Frozen section can mimic clear cell carcinoma, and XGP can **coexist with RCC** or urothelial carcinoma. If cancer is not excluded, do nephrectomy.
 
 **Diagram to draw:** CT sketch of an enlarged kidney with central staghorn and "bear paw" cavities.
@@ -273,11 +267,11 @@ Augmentation cystoplasty or urinary diversion
 - Engineers at **Dornier** (aircraft industry) found by chance that shock waves from raindrop and micrometeorite research affected tissue.
 - Chaussy, with Brendel and Schmiedt in **Munich**, developed the technique in animals and performed the **first human SWL (shock wave lithotripsy) on 7 February 1980 on the Dornier HM1**. They reported it in the *Lancet* in 1980.
 - **HM3** (water bath, electrohydraulic spark, biplanar fluoroscopy): first installations Stuttgart 1983 and Indianapolis 1984. It remains the reference for efficacy.
-- SWL made most open stone surgery obsolete and became the first non-invasive stone treatment.
+- SWL made most open stone surgery obsolete.
 
 ### Principles
 - A shock wave is a short acoustic pulse: **peak positive 30–100 MPa, then a negative tail of about −10 MPa**.
-- Generated at **F1**, focused onto the stone at **F2**; transmitted through water or gel coupling (tissue and water have similar acoustic impedance); stone located by fluoroscopy or ultrasound.
+- Generated at **F1**, focused onto the stone at **F2** through water or gel coupling (water and tissue have similar acoustic impedance); targeting by fluoroscopy or ultrasound.
 
 | Energy source | Feature |
 |---|---|
@@ -295,7 +289,7 @@ Augmentation cystoplasty or urinary diversion
 - Better results at **60–90 shocks/min**, with power **ramping** and air-free coupling.
 - Poor results: stone >1000 HU (Hounsfield units), skin-to-stone distance >10 cm, lower pole >1 cm.
 - **Contraindications:** pregnancy, uncorrected coagulopathy, untreated UTI (urinary tract infection), distal obstruction, aortic aneurysm >4 cm.
-- **Also know:** burst wave lithotripsy and ultrasonic propulsion are the newer ultrasound-based descendants.
+- **Also know:** burst wave lithotripsy and ultrasonic propulsion are newer descendants.
 
 **Diagram to draw:** ellipsoid reflector with spark at F1 and stone at F2.
 
@@ -321,11 +315,9 @@ Augmentation cystoplasty or urinary diversion
 
 ### Limitations
 - **Tubular secretion** of creatinine: small in health but rising as function falls, so CrCl **overestimates GFR** in CKD (chronic kidney disease).
-- Under- or over-collection is common.
-- Creatinine generation depends on **muscle mass**, diet (cooked meat, creatine supplements) and age.
+- Collection errors are common. Creatinine generation depends on **muscle mass**, diet (cooked meat, creatine supplements) and age.
 - Drugs blocking secretion (**trimethoprim, cimetidine**) raise serum creatinine without real injury.
-- Invalid when function is changing (AKI [acute kidney injury]).
-- **Also know:** cimetidine pretreatment blocks secretion to improve accuracy; averaging urea and creatinine clearance helps in advanced CKD.
+- Invalid in AKI (acute kidney injury). **Also know:** cimetidine pretreatment blocks secretion to improve accuracy; averaging urea and creatinine clearance helps in advanced CKD.
 
 ### Estimated clearance: Cockcroft–Gault
 - **CrCl = (140 − age) × weight (kg) / (72 × serum creatinine mg/dL)**, × 0.85 in women.
@@ -340,8 +332,8 @@ Augmentation cystoplasty or urinary diversion
 
 ### Clinical uses
 - Drug dosing (antibiotics, chemotherapy); **cisplatin eligibility** (CrCl <60 mL/min usually unfit).
-- Extremes of body size, amputees, pregnancy and vegetarians, where eGFR is unreliable.
-- Living donor evaluation (confirm with measured GFR); continent diversion planning.
+- Extremes of body size, amputees and pregnancy, where eGFR is unreliable.
+- Living donor evaluation (confirm with measured GFR).
 
 **Diagram to draw:** nephron showing filtration plus a small secreted fraction of creatinine.
 
@@ -357,13 +349,13 @@ Augmentation cystoplasty or urinary diversion
 (also answered in 2021-Summer Paper 1, Q3e)
 
 ### Introduction
-- Dilatation is not obstruction. PUJ (pelviureteric junction) obstruction is impaired drainage that harms the kidney. **Diuretic renography** is the functional gold standard and the best follow-up study.
+- Dilatation is not obstruction. **Diuretic renography** is the functional gold standard for PUJ (pelviureteric junction) obstruction and the best follow-up study.
 
 ### Tracers
 | Tracer | Handling | Use |
 |---|---|---|
 | ⁹⁹ᵐTc-**MAG3** (mercaptoacetyltriglycine) | Tubular secretion; extraction about 60% | **Agent of choice**: split function and drainage, good images even with poor function |
-| ⁹⁹ᵐTc-**DTPA** (diethylenetriaminepentaacetic acid) | Glomerular filtration | GFR (glomerular filtration rate); high background in renal impairment |
+| ⁹⁹ᵐTc-**DTPA** (diethylenetriaminepentaacetic acid) | Glomerular filtration | GFR (glomerular filtration rate); poor in renal impairment |
 | ⁹⁹ᵐTc-**DMSA** (dimercaptosuccinic acid) | Cortical retention | Static split function and scars; no drainage data |
 
 ### "Well-tempered" diuretic renogram
@@ -373,7 +365,6 @@ Augmentation cystoplasty or urinary diversion
 | **Bladder catheter** | Urethral catheter | Removes full-bladder and reflux effects |
 | **Furosemide** | 0.5 mg/kg (adult maximum 40 mg); 1 mg/kg in children | Maximal diuresis |
 | **Timing** | **F+20** (pelvis full; Campbell authors use F+15), **F0** or **F−15** | Diuretic before filling misleads; always state timing |
-| **Regions of interest** | Cortex for split function; pelvis for drainage | Wrong placement gives false values |
 
 ### Outputs
 - **DRF (differential renal function)** from counts at 1–3 min; normal 45–55%.
@@ -386,19 +377,18 @@ Augmentation cystoplasty or urinary diversion
 | >20 min | Obstructed |
 
 - **O'Reilly curves:** I normal; II obstructed (keeps rising); IIIa dilated, non-obstructed (falls after furosemide); IIIb equivocal.
-- **Also know:** P40 (activity left at 40 min) increases sensitivity; biphasic curve and poor upright drainage predict progression; cortical retention after Dietl crisis shows intermittent obstruction.
+- **Also know:** P40 (activity left at 40 min) raises sensitivity; biphasic curve and poor upright drainage predict progression.
 
 ### Indications for pyeloplasty
 - **DRF <40%**, **fall in DRF** on serial comparable scans (≥5% in children; 10% in older series), poor drainage with symptoms, infection or increasing dilatation.
-- Adult DRF <15% suggests a non-salvageable kidney; consider nephrostomy then reassess, or nephrectomy.
+- Adult DRF <15%: likely non-salvageable; nephrostomy and reassess, or nephrectomy.
 
 ### Pitfalls
-- Dehydration, early diuretic, full bladder, very poor function, capacious pelvis.
-- No agreed paediatric T½ cut-off (false positives up to 44%); one Campbell chapter uses **T½ >40 min** as obstructed in adults. Serial trends and curve shape decide.
+- Dehydration, early diuretic, full bladder, very poor function.
+- No agreed paediatric T½ cut-off (false positives up to 44%); one Campbell chapter uses **T½ >40 min** in adults. Serial trends decide.
 
 ### Follow-up and alternatives
-- After pyeloplasty: renogram about 1 month after stent removal; spontaneous drainage means success.
-- Equivocal: **Whitaker test** or MRU (magnetic resonance urography).
+- After pyeloplasty: renogram 1 month after stent removal. Equivocal cases: **Whitaker test** or MRU (magnetic resonance urography).
 
 **Diagram to draw:** O'Reilly curves I, II, IIIa and IIIb.
 

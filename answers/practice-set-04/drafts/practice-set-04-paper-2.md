@@ -21,7 +21,7 @@
 *"C13" is read as CIS (carcinoma in situ): T1 N0 M0 urothelial carcinoma with concurrent CIS in a 25-year-old woman.*
 
 ### Introduction and risk category
-- TCC (transitional cell carcinoma) is now called urothelial carcinoma. T1 invades the lamina propria. CIS is flat and high grade by definition.
+- TCC (transitional cell carcinoma), now urothelial carcinoma; T1 invades lamina propria; CIS is flat and always high grade.
 - **T1 with CIS is high-risk NMIBC (non-muscle-invasive bladder cancer)** (AUA [American Urological Association] and EAU [European Association of Urology]). CIS is the second strongest progression factor after grade. Untreated CIS progresses to muscle invasion in 40–83%.
 - **EAU 2021 very high risk:** T1 high grade (HG) with CIS plus at least one of age >70, multiple papillary tumours, or diameter ≥3 cm. In this woman, age does not count, so number and size decide. LVI (lymphovascular invasion) and variant histology also make it very high risk.
 - **Young woman:** long life expectancy, fertility, pregnancy and sexual function shape every choice.
@@ -34,7 +34,7 @@
 - Resect all tumour **with detrusor muscle**. **Blue-light cystoscopy** finds about one-third more CIS. Biopsy red velvety areas and the **bladder neck** (relevant to a later neobladder).
 
 ### Step 2: Re-TURBT within 6 weeks (all T1)
-- **Why:** residual tumour in ≥40%; upstaging to muscle invasion in 25–30% (up to half if no muscle). **Residual T1 means progression up to 80%.**
+- Residual tumour in ≥40%; upstaging to muscle invasion 25–30% (half if no muscle). **Residual T1: progression up to 80%.**
 
 ```
 T1 + CIS → re-TURBT within 6 weeks
@@ -44,7 +44,7 @@ T1 + CIS → re-TURBT within 6 weeks
 ```
 
 ### Step 3a: BCG (bladder preservation; standard for most)
-- **Mechanism:** BCG binds **fibronectin** and triggers a **Th1 (T-helper 1)** response (IFN-γ [interferon-gamma], IL-2 and IL-12 [interleukins], TRAIL release). It is the **only intravesical agent that reduces progression**.
+- **Mechanism:** BCG binds **fibronectin** and triggers a **Th1 (T-helper 1)** cytokine response (IFN-γ [interferon-gamma], IL-2 [interleukin-2]). It is the **only intravesical agent that reduces progression**.
 - **Schedule:** start 2–4 weeks after TURBT, never immediately (intravasation and sepsis). Induction weekly ×6. **SWOG (Southwest Oncology Group) maintenance:** 3 weekly doses at 3 and 6 months, then 6-monthly to **3 years** (median recurrence-free survival 76.8 vs 35.7 months).
 - **CIS:** tumour-free up to 84%, about half durable; persistent CIS at 3 months: second course gives a further 30–50% complete response.
 - BCG is live: avoid pregnancy and breastfeeding during treatment.
@@ -52,7 +52,7 @@ T1 + CIS → re-TURBT within 6 weeks
 
 ### Step 3b: Early (immediate) radical cystectomy
 - **Rationale:** clinical T1 is understaged in one-third to one-half. Immediate cystectomy gives about **92% 10-year disease-free survival**. Patients who progress on surveillance do worse than those presenting with muscle invasion.
-- **Offer for:** very high risk, residual HG T1, LVI, variants, diffuse CIS, BCG-unresponsive disease, or patient preference (AUA: T1 with CIS in fit patients).
+- **Offer for:** very high risk, residual HG T1, LVI, variants, diffuse CIS, or patient preference (AUA: fit patients with T1 and CIS).
 
 ### Step 3c: Cystectomy tailored to a young woman
 - Standard female operation is anterior exenteration (bladder, urethra, anterior vagina, uterus, cervix, ovaries).
@@ -113,7 +113,7 @@ T1 + CIS → re-TURBT within 6 weeks
 | Test | Method and finding | Comment |
 |---|---|---|
 | **Duplex Doppler US (ultrasound)** | High peak systolic velocity; renal/aortic ratio >3.5; **RI (resistive index) ≥0.8 predicts poor response** | First line, no contrast; operator dependent |
-| **CT angiography** | Stenosis, ostial plaque, beads | Gold standard anatomy; contrast nephropathy |
+| **CT angiography** | Stenosis, ostial plaque, beads | Best non-invasive anatomy; contrast nephropathy |
 | **MR (magnetic resonance) angiography** | Gadolinium-enhanced | Caution if eGFR (estimated glomerular filtration rate) <30 mL/min |
 | **Captopril renography (DTPA, diethylenetriaminepentaacetic acid)** | Day 1 after captopril: slow uptake, low peak; repeat off ACE inhibitor; ≥10% improvement = high probability | Captopril removes efferent constriction; declining use |
 | **Catheter angiography** | Gold standard; **translesional gradient** | Done when intervention is planned |
@@ -177,12 +177,11 @@ Antimuscarinic (oxybutynin), mirabegron, botulinum toxin
 - **Augmentation:** ileum or sigmoid most used; dilated ureter (ureterocystoplasty) preferred when available (no mucus or metabolic effects). **Stomach avoided** (haematuria–dysuria syndrome in anuric patients). Augmentation does not clearly raise transplant complications.
 - **Mitrofanoff** channel if urethral CIC is difficult; site it **medial** to the planned transplant incision.
 - Do reconstruction **before** transplant; allow **6–12 weeks** to heal. Neuropathic bladders may deteriorate under high graft output, so earlier reconstruction is justified.
-- CIC adherence tests adherence to immunosuppression.
 - **Native nephrectomy** only for named reasons: recurrent upper-tract infection, massive reflux, stones, uncontrolled hypertension.
 
 ### At transplant
-- Extravesical non-refluxing ureteroneocystostomy into bladder or augment; know the augment pedicle position. Ureteroureterostomy to a preserved native ureter is an option. Stent difficult reimplants.
-- **Also know:** transplant into an ileal conduit if the bladder is unusable.
+- Extravesical non-refluxing ureteroneocystostomy into bladder or augment (know the augment pedicle). Ureteroureterostomy to a native ureter is an option.
+- Ileal conduit drainage if the bladder is unusable.
 
 ### Post-transplant care
 - Continue CIC; colonisation is expected, so treat only symptomatic UTI (urinary tract infection).
@@ -253,7 +252,7 @@ Symptomatic stone in pregnancy
 | | ¹²³I-MIBG | ¹³¹I-MIBG |
 |---|---|---|
 | Use | **Diagnostic** (preferred) | Older diagnostic; mainly **therapeutic** |
-| Image quality | Better; allows SPECT-CT (single-photon emission CT) | Poorer |
+| Image quality | Better; allows SPECT-CT (single-photon emission computed tomography) | Poorer |
 | Emission | Gamma | Beta (therapy) plus gamma |
 
 ### Technique
@@ -295,7 +294,7 @@ Symptomatic stone in pregnancy
 (TRUS biopsy also answered in 2020-Summer Paper 2, Q3d)
 
 ### Indications
-- Raised PSA (prostate-specific antigen) with risk factors; suspicious DRE (digital rectal examination); MRI PIRADS (Prostate Imaging Reporting and Data System) ≥3; suspected metastasis.
+- Raised PSA (prostate-specific antigen) with risk factors; suspicious DRE (digital rectal examination); MRI (magnetic resonance imaging) PIRADS (Prostate Imaging Reporting and Data System) ≥3; suspected metastasis.
 - **Repeat:** rising PSA; ASAP (atypical small acinar proliferation; 50% cancer risk); positive biomarkers (PHI [Prostate Health Index], 4Kscore, PCA3); active surveillance.
 - **Contraindications:** coagulopathy, acute UTI (urinary tract infection) or prostatitis, severe immunosuppression. No anus: transperineal route.
 
@@ -330,7 +329,7 @@ Symptomatic stone in pregnancy
 | Retention | 0.2–0.4% |
 - **Sepsis** (fluoroquinolone-resistant *E. coli*): carbapenem until cultures return. Rectal bleeding: pressure, balloon tamponade, endoscopy, embolisation.
 
-**Also know:** PSA density; TZ (transition zone) cores if gland >50 mL; ≤2 cores per jar; PSMA (prostate-specific membrane antigen) PET for targeting.
+**Also know:** PSA density; TZ (transition zone) cores if gland >50 mL; PSMA (prostate-specific membrane antigen) PET.
 
 **Diagram to draw:** 12-core template on a transverse prostate outline.
 
@@ -346,7 +345,7 @@ Symptomatic stone in pregnancy
 (also answered in 2020-Summer Paper 4, Q3a)
 
 ### Definition
-- An **orthotopic** reservoir of detubularised bowel (usually ileum) joined to the native urethra after radical cystectomy, giving **volitional voiding** without a stoma. 80–90% of men and about 75% of women are medically eligible.
+- An **orthotopic** detubularised bowel (usually ileal) reservoir joined to the native urethra after radical cystectomy: **volitional voiding**, no stoma. 80–90% of men and about 75% of women are medically eligible.
 
 ### Principles
 1. **Reliable outlet:** intact rhabdosphincter (pudendal nerve), healthy urethra.
@@ -354,7 +353,7 @@ Symptomatic stone in pregnancy
 3. **Adequate volume:** <200 mL initially, **500–600 mL** by 1 year.
 
 ### Selection
-- **Absolute contraindications:** tumour at the **urethral margin** (frozen section), significant urethral stricture, eGFR (estimated glomerular filtration rate) <35–40 mL/min, severe liver disease, inability to self-catheterise.
+- **Absolute contraindications:** tumour at the **urethral margin** (frozen section), urethral stricture, eGFR (estimated glomerular filtration rate) <35–40 mL/min, severe liver disease, inability to self-catheterise.
 - **Relative:** prostatic stromal invasion (men); bladder-neck or anterior vaginal tumour (women); poor sphincter; irradiated pelvis; frailty. Age, obesity and CIS (carcinoma in situ) are not bars.
 
 ### Types
@@ -367,19 +366,19 @@ Symptomatic stone in pregnancy
 | Mainz III; sigmoid | Ileocaecal; colon | Tunnelled |
 
 ### Studer technique (brief)
-- Isolate ileum 15–20 cm proximal to the ileocaecal valve. Open the distal 40–44 cm on the antimesenteric border, sew into a U and fold into a sphere. Spatulated end-to-side ureteric anastomoses to the afferent limb, stented. Join the dependent point to the urethra.
+- Ileum taken 15–20 cm proximal to the ileocaecal valve. Open the distal 40–44 cm antimesenterically, sew into a U, fold into a sphere. Stented end-to-side ureteric anastomoses to the afferent limb; dependent point to urethra.
 
 ### Outcomes
 - **Day continence 80–90%** (3–6 months); **night incontinence 20–50%** (no sphincter reflex, mucosal water secretion).
 - **Retention:** men 4–10%, **women 20–30%**: men leak, women fail to empty.
 
 ### Complications
-- **Early:** urine leak, ileus, infection, mucus retention.
+- **Early:** urine leak, ileus, infection, mucus plugging.
 - **Late:** **hyperchloraemic metabolic acidosis**, **vitamin B12** deficiency, ureteroileal stricture (<3%), stones, pouch rupture, incisional hernia, urethral recurrence.
 
 ### Care and follow-up
-- Mucus irrigation, oral bicarbonate; voiding training (sit, relax pelvic floor, strain), timed voiding, night alarm.
-- Annual metabolic panel, B12, upper-tract imaging; urethral wash cytology if CIS.
+- Mucus irrigation, bicarbonate; voiding training (sit, relax, strain), timed voiding, night alarm.
+- Annual metabolic panel, B12, upper tracts; urethral cytology if CIS.
 
 **Diagram to draw:** Studer U-pouch with afferent limb and urethral anastomosis.
 

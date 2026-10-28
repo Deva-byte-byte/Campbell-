@@ -255,7 +255,7 @@
 > **Key points to remember:**
 > - Basiliximab or rATG induction; tacrolimus + mycophenolate ± steroids maintenance.
 > - CNI nephrotoxic; mTOR inhibitors cause lymphocele.
-> - Rejection: steroids for TCMR; plasmapheresis, IVIG, rituximab for AMR.
+> - Rejection: steroids for T-cell-mediated; plasmapheresis, IVIG, rituximab for antibody-mediated.
 
 ---
 
@@ -407,7 +407,7 @@
 
 ### Prevention and surveillance
 - IMRT, smaller fields; **mesna** with cyclophosphamide (reduces cystitis).
-- **Haematuria after pelvic RT or cyclophosphamide: always cystoscopy.**
+- **Haematuria after pelvic radiotherapy or cyclophosphamide: always cystoscopy.**
 - Endoscopy from 5 years after ureterosigmoidostomy; augmentation surveillance from about 10 years; excise a defunctioned ureterosigmoid anastomosis.
 - Testis: fewer modalities; low-dose CT (computed tomography) in surveillance.
 - **Also know:** pioglitazone, aristolochic acid and phenacetin as drug-related urothelial carcinogens.

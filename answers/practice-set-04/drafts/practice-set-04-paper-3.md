@@ -53,12 +53,12 @@
 
 ### Recognition at surgery (best outcome)
 - Inspect the ureter; IV indigo carmine or methylene blue; cystoscopy for jets; retrograde pyelogram or stent; check the other ureter and bladder.
-- Methylene blue is an MAO (monoamine oxidase) inhibitor: avoid with SSRIs/SNRIs (serotonin toxicity), G6PD (glucose-6-phosphate dehydrogenase) deficiency and pregnancy.
+- Methylene blue is an MAO (monoamine oxidase) inhibitor: avoid with SSRIs/SNRIs (selective serotonin / serotonin–noradrenaline reuptake inhibitors; serotonin toxicity), G6PD (glucose-6-phosphate dehydrogenase) deficiency and pregnancy.
 
 ### Delayed presentation and diagnosis
 - Mean diagnosis about day 10: fever, ileus, flank pain, rising drain output, urinoma, anuria (bilateral), or **ureterovaginal fistula** (UVF) within 4 weeks.
 - **UVF:** normal voiding plus constant leak, because the other kidney fills the bladder.
-- **CT urography with 10-minute delays** (both ureters). **Retrograde pyelogram** is most sensitive and allows stenting. Drain or vaginal fluid creatinine above serum confirms urine.
+- **CT (computed tomography) urography with 10-minute delays** (both ureters). **Retrograde pyelogram** is most sensitive and allows stenting. Drain or vaginal fluid creatinine above serum confirms urine.
 - **Double-dye test:** oral phenazopyridine plus intravesical methylene blue. Orange pad = UVF; blue = VVF (vesicovaginal fistula); both = both.
 
 ### Management
@@ -113,7 +113,7 @@ Sepsis / uncontrolled collections -> drain; repair regardless of timing
 ### Classification (by karyotype)
 | Group | Main causes |
 |---|---|
-| **46,XX DSD** | **CAH** (commonest; 21-hydroxylase 95%, 11β-hydroxylase about 5%, 3β-HSD (hydroxysteroid dehydrogenase) <1%); maternal androgens or aromatase deficiency; ovotesticular; testicular (SRY+) |
+| **46,XX DSD** | **CAH** (commonest; 21-hydroxylase 95%, 11β-hydroxylase about 5%, 3β-HSD (hydroxysteroid dehydrogenase) <1%); maternal androgens or aromatase deficiency; ovotesticular; testicular (SRY (sex-determining region Y) positive) |
 | **46,XY DSD** | Partial/complete gonadal dysgenesis; androgen synthesis defects (17β-HSD3, 5α-reductase); PAIS (partial androgen insensitivity); LH (luteinising hormone) receptor defect |
 | **Sex chromosome DSD** | 45,X/46,XY MGD (mixed gonadal dysgenesis); chimerism |
 
@@ -141,12 +141,12 @@ Sepsis / uncontrolled collections -> drain; repair regardless of timing
 
 - **Pelvic ultrasound:** uterus (well seen neonatally), gonads, kidneys, cerebriform adrenals (CAH).
 - **Genitography / endoscopy:** urogenital sinus, confluence level relative to bladder neck, cervix.
-- If unclear: MRI, **laparoscopy ± deep longitudinal gonadal biopsy**, gene panels, microarray, exome. **No gonadectomy during diagnosis.**
+- If unclear: MRI (magnetic resonance imaging), **laparoscopy ± deep longitudinal gonadal biopsy**, gene panels, microarray, exome. **No gonadectomy during diagnosis.**
 
 ### Diagnostic algorithm
 ```
 Palpable gonads: 0 -> CAH likely; 1 -> MGD, PAIS, ovotesticular;
-                 2 -> 46,XY DSD (PAIS, 5ARD, synthesis defect)
+                 2 -> 46,XY DSD (PAIS, 5α-reductase, synthesis defect)
 46,XX + uterus + high 17-OHP           -> CAH
 46,XY, no uterus                       -> androgen synthesis/action defect
 46,XY or 45,X/46,XY + uterus           -> gonadal dysgenesis / MGD
@@ -155,7 +155,7 @@ Palpable gonads: 0 -> CAH likely; 1 -> MGD, PAIS, ovotesticular;
 
 ### Treatment
 **1. Emergency (CAH)**
-- Salt-wasting crisis: IV saline, dextrose, stress-dose hydrocortisone.
+- Salt-wasting crisis: IV (intravenous) saline, dextrose, stress-dose hydrocortisone.
 - Maintenance (Endocrine Society 2018): hydrocortisone 10–15 mg/m²/day in divided doses, fludrocortisone, salt supplements in infancy; stress dosing during illness and surgery.
 
 **2. Team and family**
@@ -259,10 +259,10 @@ Palpable gonads: 0 -> CAH likely; 1 -> MGD, PAIS, ovotesticular;
 ```
 Dorsal block -> aspiration ± saline irrigation
  + phenylephrine 100-500 µg/mL, 1 mL every 3-5 min, up to 1 h
-   (monitor BP and pulse)
+   (monitor blood pressure and pulse)
  -> fails -> distal shunt (Winter, T-shunt, Al-Ghorab) ± tunnelling
  -> proximal shunt (Quackels) / penoscrotal decompression
->36 h or refractory -> early penile prosthesis
+Beyond 36 h or refractory -> early penile prosthesis
 ```
 - **ED risk by duration (SCD series):** ≤12 h 0%; 12–24 h 22%; 24–36 h 56%; ≥36 h 100%.
 - Early prosthesis: less shortening and fewer revisions than delayed insertion.
@@ -356,7 +356,7 @@ Dorsal block -> aspiration ± saline irrigation
 
 ### Management
 - Condoms and sperm washing lack good evidence (washing removes unbound, not bound, antibody).
-- Corticosteroids: two controlled trials conflict; risk of avascular necrosis.
+- Corticosteroids: two controlled trials conflict.
 - IUI for mild binding; **IVF with ICSI (intracytoplasmic sperm injection)** is the usual treatment, bypassing antibody effects.
 
 **Diagram to draw:** motile sperm with beads attached at head and tail.
@@ -447,7 +447,7 @@ Dorsal block -> aspiration ± saline irrigation
 | PESA (percutaneous epididymal aspiration) | Local anaesthetic; fewer sperm |
 | TESA/TESE (testicular aspiration/extraction) | If epididymal retrieval fails |
 - ICSI results are good; one study reported more miscarriage and stillbirth.
-- **Also know:** CUAVD (unilateral absence) is a Wolffian duct defect with ipsilateral renal agenesis; check the other side.
+- **Also know:** CUAVD (unilateral absence) is a Wolffian duct defect with ipsilateral renal agenesis.
 
 **Diagram to draw:** absent vas and seminal vesicle with intact testis and caput epididymis.
 
