@@ -16,7 +16,7 @@
 **Type:** SAQ (10 marks)
 
 ### Definitions
-- **Cleaning:** removes organic debris; essential first step, since residue shields organisms.
+- **Cleaning:** removes debris that shields organisms; always first.
 - **Disinfection:** kills most microbes but not all spores. HLD (high-level disinfection) kills all except large numbers of spores.
 - **Sterilisation:** kills all life, including spores.
 
@@ -25,7 +25,7 @@
 |---|---|---|---|
 | Critical | Sterile tissue, vessels | Sterilisation | Resectoscope, ureteroscope, nephroscope, laparoscopic and robotic instruments |
 | Semi-critical | Mucosa | HLD at least (sterilise if possible) | Flexible cystoscope, TRUS (transrectal ultrasound) probe |
-| Non-critical | Intact skin | Low-level disinfection | Ultrasound probe on skin, BP (blood pressure) cuff |
+| Non-critical | Intact skin | Low-level disinfection | Abdominal ultrasound probe |
 
 ### Reprocessing steps
 1. Bedside pre-clean; leak test for flexible scopes.
@@ -49,13 +49,13 @@
 - **Biological indicators:** *Geobacillus stearothermophilus* spores (steam, plasma); *Bacillus atrophaeus* (ethylene oxide, dry heat).
 
 ### Urology-specific points
-- Flexible ureteroscopes are fragile: a laser-perforated channel lets fluid in during sterilisation and destroys the scope.
+- A laser-perforated ureteroscope channel lets fluid in during sterilisation, destroying the scope.
 - Poor channel cleaning causes outbreaks (Pseudomonas, mycobacteria).
 - **Prions** resist routine methods: single-use or special protocols.
 - **Single-use scopes** avoid reprocessing (about $107 per case for reusable ureteroscopes).
-- **Also know:** laser fibres re-cleaved and re-sterilised; limited-life robotic instruments.
+- **Also know:** laser fibre re-sterilisation; limited-life robotic instruments.
 
-**Diagram to draw:** reprocessing cycle flowchart (pre-clean → leak test → clean → sterilise → dry → store).
+**Diagram to draw:** reprocessing cycle flowchart.
 
 > **Key points to remember:**
 > - Spaulding: critical sterilise, semi-critical HLD, non-critical low-level.
@@ -87,12 +87,12 @@
 - After valve ablation: oligohydramnios, preterm birth, raised creatinine.
 
 ### Clinical features
-- Usually starts within hours and lasts about 2 days; usually resolves in 24 hours.
+- Starts within hours of relief; most settle within 24–48 hours.
 - Danger signs: postural hypotension, tachycardia, weight loss, hypernatraemia (free-water loss), low potassium, magnesium, phosphate.
 
 ### Management
 ```
-Relieve obstruction (catheter / PCN)
+Relieve obstruction (catheter / nephrostomy)
         |
 Monitor hourly urine output, vitals, weight
         |
@@ -100,7 +100,7 @@ Alert, can drink -> free oral fluids (most resolve)
         |
 Output persists / cannot drink / unstable
   -> admit; electrolytes every 4-6 h
-  -> IV 0.45% saline replacing about 75% of urine output
+  -> intravenous 0.45% saline: about 75% of urine output
   -> replace K, Mg, phosphate; adjust to urine sodium/osmolality
 ```
 - **Do not overcorrect:** replacing every millilitre sustains the diuresis.
@@ -112,7 +112,7 @@ Output persists / cannot drink / unstable
 
 > **Key points to remember:**
 > - Unilateral about 2%, bilateral about 50%.
-> - Mechanisms: transporter (AQP2) loss, volume expansion, urea osmotic diuresis.
+> - Mechanisms: aquaporin-2 loss, volume expansion, urea osmotic diuresis.
 > - Replace about 75% of output with 0.45% saline; do not overcorrect.
 > - Gradual decompression has no role.
 
@@ -123,7 +123,7 @@ Output persists / cannot drink / unstable
 
 ### Introduction
 - Mucormycosis: an **angioinvasive** fungal infection by Mucorales (*Rhizopus* commonest; *Mucor*, *Lichtheimia*).
-- Kidney involvement occurs in **disseminated** disease, or as **isolated renal mucormycosis**, reported particularly from India, sometimes in apparently immunocompetent young adults. Cases rose with COVID-19 (coronavirus disease 2019)-associated mucormycosis in 2021.
+- Kidney involvement occurs in **disseminated** disease, or as **isolated renal mucormycosis**, reported particularly from India, sometimes in apparently immunocompetent young adults. Cases rose during the 2021 COVID-19 (coronavirus disease 2019) wave.
 
 ### Risk factors
 - Uncontrolled diabetes, especially **ketoacidosis**; corticosteroids; neutropenia and haematological cancer; transplantation; iron overload or deferoxamine; intravenous drug use; AIDS (acquired immunodeficiency syndrome).
@@ -131,7 +131,7 @@ Output persists / cannot drink / unstable
 ### Pathogenesis
 - Spores inhaled or ingested → **haematogenous** seeding of the kidney.
 - Hyphae invade arteries and veins → **thrombosis → infarction and haemorrhagic necrosis**.
-- Acidosis and free iron favour fungal growth; this explains the diabetic ketoacidosis link.
+- Acidosis and free iron favour growth (hence the ketoacidosis risk).
 
 ### Clinical features
 - Fever, flank pain, tender flank mass, haematuria, pyuria with sterile bacterial cultures.
@@ -143,14 +143,14 @@ Output persists / cannot drink / unstable
 - **Tissue diagnosis** (biopsy or nephrectomy specimen): **broad, ribbon-like, aseptate or pauciseptate hyphae branching at right angles**, invading vessels.
 - KOH (potassium hydroxide) mount, calcofluor stain, fungal culture (often negative), PCR (polymerase chain reaction).
 - Differential: *Aspergillus* has narrow septate hyphae with acute-angle branching.
-- Look for other sites (sinuses, lungs, brain).
+- Image sinuses, lungs, brain.
 
 ### Management (three pillars)
 1. **Reverse predisposition:** control glucose, correct ketoacidosis, taper steroids and immunosuppression, stop deferoxamine.
 2. **Early surgical debridement:** nephrectomy for a unilateral necrotic kidney; drain collections.
 3. **Antifungal:** **liposomal amphotericin B 5 mg/kg/day** first line (ECMM/MSG ERC (European Confederation of Medical Mycology/Mycoses Study Group Education and Research Consortium) guideline, 2019). Step-down or salvage: **posaconazole or isavuconazole**.
 - **Fluconazole, voriconazole and echinocandins are inactive.**
-- Bilateral disease: antifungal plus dialysis; surgery is limited.
+- Bilateral: antifungal plus dialysis.
 
 ### Prognosis
 - Mortality is high, especially with bilateral or disseminated disease and delayed diagnosis.
@@ -159,7 +159,7 @@ Output persists / cannot drink / unstable
 
 > **Key points to remember:**
 > - Angioinvasion → infarction; diabetic ketoacidosis is the key risk.
-> - CT: non-enhancing enlarged kidney; histology: broad aseptate right-angle hyphae.
+> - CECT: non-enhancing enlarged kidney; histology: broad aseptate right-angle hyphae.
 > - Liposomal amphotericin B 5 mg/kg/day plus nephrectomy and glucose control.
 > - Voriconazole and echinocandins do not work.
 
@@ -169,20 +169,20 @@ Output persists / cannot drink / unstable
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Cystic echinococcosis by *Echinococcus granulosus*, a cestode. Dog is the definitive host; sheep and humans are intermediate hosts.
+- Cystic echinococcosis (CE) by *Echinococcus granulosus*, a cestode. Dog: definitive host; sheep and humans: intermediate.
 - Ingested eggs → liver (commonest), lung, then **kidney (third site, about 2–3%)** via the systemic circulation. Usually single, unilateral, cortical.
 
 ### Pathology
 - Wall: **pericyst** (host fibrous layer), **laminated membrane** (ectocyst), **germinal layer** (endocyst) producing brood capsules, scolices and daughter cysts ("hydatid sand").
-- **Closed cyst** (no communication) versus **open (communicating) cyst** ruptured into the collecting system → **hydatiduria**.
+- **Closed** versus **open** cyst (ruptured into the collecting system → **hydatiduria**).
 
 ### Clinical features
 - Grows 1–2 cm a year; long asymptomatic; flank mass, dull pain.
-- **Hydatiduria** ("grape-skin" membranes in urine; pathognomonic) and colic from membranes in a minority.
+- **Hydatiduria** ("grape-skin" membranes in urine; pathognomonic) with colic, in a minority.
 - Infection; rupture (anaphylaxis). Renal function usually preserved.
 
 ### Investigations
-- Eosinophilia; **serology** (ELISA (enzyme-linked immunosorbent assay), indirect haemagglutination) is adjunctive only (sensitivity 60–90%). Casoni test is obsolete.
+- **Serology** (ELISA (enzyme-linked immunosorbent assay)) is adjunctive only (sensitivity 60–90%); eosinophilia; Casoni test obsolete.
 - **Ultrasound and CT (computed tomography):** thick-walled cyst, wall calcification, daughter cysts, detached membranes ("water-lily sign"). Stage guides treatment.
 
 | WHO (World Health Organization) stage | Appearance | Activity |
@@ -207,7 +207,7 @@ Output persists / cannot drink / unstable
 **Diagram to draw:** layers of a hydatid cyst with daughter cysts and a communication into a calyx.
 
 > **Key points to remember:**
-> - Kidney is the third site (about 2–3%).
+> - Kidney: third site (about 2–3%).
 > - Hydatiduria (grape-skin membranes) is pathognomonic of a communicating cyst.
 > - Albendazole 400 mg twice daily around surgery; no scolicide if communicating.
 
@@ -223,8 +223,8 @@ Output persists / cannot drink / unstable
 | **Beneficence** | Act for the patient's benefit, judged by the patient's values |
 | **Non-maleficence** | Avoid harm (*primum non nocere*); requires training and honest risk data |
 | **Justice** | Fair distribution of resources, benefits and risks |
-- Hippocratic Oath supplied beneficence, non-maleficence and confidentiality; autonomy and justice are modern additions. Autonomy is not absolute: it is bounded by justice.
-- **Jonsen's four-box method** applies them: medical indications; patient preferences; quality of life; contextual features (family, cost, law).
+- Hippocratic Oath gave beneficence, non-maleficence, confidentiality; autonomy and justice are modern additions (autonomy is bounded by justice).
+- **Jonsen's four-box method:** medical indications; patient preferences; quality of life; contextual features (family, cost, law).
 
 ### Informed consent: legal evolution
 - From battery to negligence. **Schloendorff (1914):** right to bodily integrity. **Salgo (1957):** term "informed consent". **Canterbury v Spence (1972):** **reasonable-patient** disclosure standard.
@@ -235,7 +235,7 @@ Output persists / cannot drink / unstable
 2. Risks, benefits and uncertainty compared with alternatives.
 3. **Check understanding** (most often missed).
 4. Voluntary decision by a patient with capacity; documented.
-- Material risks: no agreed cut-off (1% proposed); disclose rarer ones by severity. Use lay language.
+- Material risks: no agreed cut-off (1% proposed); disclose rarer ones by severity; lay language.
 - Urology examples: incontinence and erectile dysfunction after prostatectomy; retrograde ejaculation after TURP (transurethral resection of the prostate); stent symptoms; conversion to open surgery.
 
 ### Exceptions
@@ -244,15 +244,15 @@ Output persists / cannot drink / unstable
 - **Minors (<18 years):** parents consent; child gives assent.
 
 ### Improving consent
-- Decision aids (better knowledge, less conflict); teach-back ("repeat-back"); simple written material.
+- Decision aids, repeat-back, simple written material.
 - **Shared decision making:** two-way exchange of options and patient values; vital when several options are reasonable (e.g. localised prostate cancer).
 
 ### Special areas
 - **End of life:** early goals-of-care talks, advance directives, DNR (do-not-resuscitate) orders.
 - **Research:** written consent, ethics committee approval, extra protection for vulnerable groups.
-- **Also know:** confidentiality; conflicts of interest; organ donation under THOA (Transplantation of Human Organs Act).
+- **Also know:** confidentiality; conflicts of interest; futility policies.
 
-**Diagram to draw:** four-box grid with principle in each box.
+**Diagram to draw:** Jonsen four-box grid.
 
 > **Key points to remember:**
 > - Four principles: autonomy, beneficence, non-maleficence, justice.
@@ -267,21 +267,21 @@ Output persists / cannot drink / unstable
 (see also 2021-Summer Paper 4, Q3a for operating room safety)
 
 ### Physical design
-- **Zones:** protective (reception, changing) → clean (pre-op, recovery) → sterile (theatre, scrub) → disposal; one-way flow of staff and materials.
-- **Ventilation:** positive pressure, about 20 air changes an hour, HEPA (high-efficiency particulate air) filters; laminar flow for implants.
+- **Zones:** protective (reception, changing) → clean (pre-op, recovery) → sterile (theatre, scrub) → disposal; one-way flow.
+- **Ventilation:** positive pressure, about 20 air changes an hour, filtered air; laminar flow for implants.
 - **Environment:** temperature about 20–24 °C, relative humidity about 20–60%. Patient warming: even 1–2 °C hypothermia raises SSI (surgical site infection) and blood loss (**Kurz 1996**: 3-fold wound infection).
-- Adequate power backup, medical gases, scavenging, smoke evacuation, radiolucent table.
+- Power backup, piped gases, anaesthetic scavenging, radiolucent table.
 
 ### Equipment layout by procedure
 | Setting | Arrangement |
 |---|---|
-| **Endourology** (TURP (transurethral resection of the prostate), URS (ureteroscopy), PCNL (percutaneous nephrolithotomy)) | Lithotomy or prone; video tower and monitor directly ahead; C-arm opposite surgeon; irrigation, laser, wires, baskets, dilators, spare scopes ready |
+| **Endourology** (TURP (transurethral resection of the prostate), URS (ureteroscopy), PCNL (percutaneous nephrolithotomy)) | Lithotomy or prone; tower and monitor directly ahead; C-arm opposite surgeon; wires, baskets, dilators, spare scopes ready |
 | **Laparoscopic, upper abdomen** | Surgeon and assistant face the abdomen; monitor opposite; scrub nurse near the foot |
-| **Laparoscopic, pelvic** | Trendelenburg, split legs; tower between the legs or by the feet |
+| **Laparoscopic, pelvic** | 30° Trendelenburg, split legs; surgeon on preferred side, assistant opposite |
 | **Robotic** | Patient cart, surgeon console, vision cart; Si docks between legs, Xi from the side |
 
 - **Checklist before laparoscopic incision:** irrigation–suction, electrosurgical unit, full CO₂ cylinder plus spare, white-balanced camera, insufflator and Veress needle checked, **open tray ready**.
-- Cables fixed at two points; camera cable apart from diathermy; insufflator at eye level.
+- Cables fixed; camera cable apart from diathermy; insufflator at eye level.
 
 ### Positioning safety
 - Pad bony prominences; axillary roll (lateral); avoid prolonged kidney rest and full flexion (rhabdomyolysis); no shoulder braces in steep Trendelenburg (brachial plexus).
@@ -294,7 +294,7 @@ Output persists / cannot drink / unstable
 ### Safety systems
 - **WHO (World Health Organization) Surgical Safety Checklist** (sign in, time out, sign out); counts; fire-risk assessment (oxidiser, fuel, ignition).
 
-**Diagram to draw:** plan of a urology theatre showing table, tower, C-arm, anaesthesia, surgeon and scrub nurse.
+**Diagram to draw:** theatre plan: table, tower, C-arm, anaesthetist, surgeon, scrub nurse.
 
 > **Key points to remember:**
 > - Zones with one-way flow; positive pressure, about 20 air changes an hour.
