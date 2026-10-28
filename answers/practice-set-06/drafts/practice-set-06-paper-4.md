@@ -26,7 +26,7 @@
 - **Goals:** a straight erection, a urethra to the tip (standing voiding, semen delivery) and acceptable appearance, with the fewest operations and a result lasting into adulthood.
 
 ### Concept 1: severity is judged in theatre, not by the meatus
-- An apparently distal meatus may hide absent spongiosum and severe curvature. Classify **after degloving** by meatus, plate and curvature.
+- A "distal" meatus may hide absent spongiosum and severe curvature, so classify **after degloving**.
 
 | GMS (glans–meatus–shaft) score | Glans | Meatus | Shaft curvature |
 |---|---|---|---|
@@ -45,9 +45,8 @@
 
 ### Concept 3: timing and preparation
 - Repair at **6–18 months** (AAP (American Academy of Pediatrics): 6–12 months), before genital awareness at about 18 months. One short anaesthetic appears low-risk.
-- A straight penis with a meatus allowing standing voiding may gain little from surgery: counsel honestly.
+- A straight penis that voids standing may gain little from surgery: counsel honestly.
 - **Preoperative androgen** if glans width <14–15 mm: testosterone 2 mg/kg IM (intramuscular) at 5 and 2 weeks before surgery (about 4 mm glans gain). Evidence mixed; two RCTs (randomised controlled trials) showed fewer complications.
-- Caudal (most popular), penile or pudendal block; tourniquet.
 
 ### Concept 4: curvature decides the operation
 ```
@@ -71,7 +70,7 @@ Deglove + excise dysplastic dartos + artificial erection
 
 ### Concept 6: protect blood supply
 - Magnification, tension-free closure, offset suture lines, **vascularised barrier layer** (dartos, tunica vaginalis), rapidly absorbed fine sutures, no hair-bearing skin, haemostasis.
-- Postoperative: stent 3–21 days by complexity, compressive dressing, oxybutynin, paracetamol with ibuprofen; antibiotic prophylaxis is debated.
+- Postoperative: stent 3–21 days by complexity, compressive dressing, oxybutynin; antibiotic prophylaxis debated.
 
 ### Concept 7: standardised complications and outcomes
 - Definitions: glans dehiscence (fusion <2 mm); meatal stenosis (symptoms plus <8 Fr before puberty, <12 Fr after); recurrent curvature >30°.
@@ -84,7 +83,7 @@ Deglove + excise dysplastic dartos + artificial erection
 - Tools: HOSE (Hypospadias Objective Scoring Evaluation, surgeon), PPS (Penile Perception Score), HOPE (Hypospadias Objective Penile Evaluation, photo panels). Decision aids reduce parental regret.
 
 ### Recent advances
-- Multicentre registries, videography and AI (artificial intelligence) review, genomic risk profiling, a hypospadias-specific quality-of-life measure, engineered tissue.
+- Registries, AI (artificial intelligence) video review, genomic risk profiling, a quality-of-life measure, engineered tissue.
 
 **Diagram to draw:** curvature algorithm and two-stage graft repair.
 
@@ -119,7 +118,7 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 | Adult stem cells: bone marrow or adipose mesenchymal, muscle-derived, **urine-derived** | Easy, non-invasive harvest; act mainly by paracrine growth factors |
 | **iPSCs (induced pluripotent stem cells)** | Adult cells reprogrammed; patient-specific, no ethical issue; tumour risk |
 | Embryonic stem cells | Pluripotent; ethics, teratoma risk |
-- Gene-edited and gene-modified cells are being explored.
+- Gene-edited and gene-modified cells are being explored. Cell sheet engineering builds layers without a scaffold.
 
 **2. Scaffolds**
 - Requirements: biocompatible, degrade as tissue forms, porous for cells and vessels, mechanically suited (compliant bladder, non-collapsing tube).
@@ -145,7 +144,7 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 - Self-organising 3D mini-organs: **kidney organoids** from iPSCs model disease and drug toxicity; **bladder and prostate tumour organoids** allow personalised drug testing.
 
 **7. Whole-organ decellularisation**
-- Kidneys stripped of cells, leaving a matrix with vascular tree, then recellularised; animal stage.
+- Kidneys are stripped of cells by detergent perfusion, leaving the matrix and vascular tree, then recellularised with the patient's cells; still at the animal stage. Renal assist devices are a parallel route.
 
 ### Clinical applications: where we stand
 | Organ | Status |
@@ -185,10 +184,9 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 ### Why analyse stones
 - AUA (American Urological Association) and EAU (European Association of Urology): analyse a stone at least once in every former; **repeat if stones recur on treatment** (evolving metabolic condition).
 - Composition points to cause: **uric acid** suggests metabolic disease, **cystine** a genetic one, **struvite** infection. Cystine, struvite, 2,8-DHA (2,8-dihydroxyadenine) and xanthine are diagnostic in themselves.
-- Frequency: calcium oxalate 60%, mixed apatite 20%, uric acid 7%, struvite 7%, cystine 1–3%.
 
 ### Why wet chemical analysis is obsolete
-- It detects ions, not **crystal phases**, so it cannot separate COM (calcium oxalate monohydrate) from COD (dihydrate), or apatite from brushite. High error rate; misses rare and drug stones.
+- Detects ions, not **crystal phases**: cannot separate COM (calcium oxalate monohydrate) from COD (dihydrate), or apatite from brushite; misses rare stones.
 
 ### Newer methods
 | Method | Principle | Comment |
@@ -201,14 +199,14 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 | Micro-CT (micro-computed tomography), Raman spectroscopy | 3-D structure; scattered light | Research |
 
 ### In vivo prediction
-- **DECT (dual-energy computed tomography):** two energies (e.g. 80 and 140 kVp) separate **uric acid from non–uric acid** stones with near-perfect accuracy at low dose; costs more radiation than low-dose CT.
+- **DECT (dual-energy computed tomography):** two energies (e.g. 80 and 140 kVp) separate **uric acid from non–uric acid** stones with near-perfect accuracy.
 - **Hounsfield units:** SWL (shock wave lithotripsy) works best below about 900–1000 HU; cystine and brushite are dense.
-- Endoscopic appearance; dusting loses the specimen, so collect fragments.
+- Dusting loses the specimen: collect fragments.
 
 ### Significance in management
 - **Uric acid:** oral dissolution by alkalinisation (potassium citrate).
 - **Struvite:** complete clearance, culture-directed antibiotics.
-- **Cystine:** hydration, alkalinisation, tiopronin; endoscopy rather than SWL.
+- **Cystine:** hydration, alkalinisation, tiopronin; avoid SWL.
 - **COM, brushite:** hard, SWL-resistant. Brushite can convert from calcium oxalate after SWL or infection.
 - **2,8-DHA:** APRT (adenine phosphoribosyltransferase) deficiency; allopurinol or febuxostat. **Drug stones** (indinavir, triamterene): stop the drug.
 
@@ -229,8 +227,8 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 
 ### Introduction
 - A **non-ablative MIST (minimally invasive surgical therapy)**: permanent implants retract the lateral lobes and open the prostatic urethra.
-- Developed 2004; **FDA (Food and Drug Administration) approval 2013**, extended to ≤100 mL in 2020.
-- **Main advantage:** preserves erectile and **ejaculatory** function; no tissue specimen.
+- **FDA (Food and Drug Administration) approval 2013**, extended to ≤100 mL in 2020.
+- **Main advantage:** preserves erectile and **ejaculatory** function.
 
 ### Implant and mechanism
 - Spring-loaded implant with T-shaped ends: **nitinol capsular tab**, **stainless steel urethral end** (resists encrustation), polyethylene terephthalate suture under tension.
@@ -239,13 +237,12 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 
 ### Indications
 - **AUA (American Urological Association): 30–80 mL, no obstructing median lobe** (confirm by cystoscopy or ultrasound). EAU (European Association of Urology): <70 mL, no middle lobe.
-- Men wanting to preserve ejaculation or stop daily medication.
-- **Avoid:** obstructing median lobe (MedLift data are non-randomised), large gland, infection.
+- Men wanting ejaculation preserved. **Avoid:** median lobe (MedLift data non-randomised), large gland, infection.
 
 ### Technique
 1. Local anaesthesia; rigid cystoscope.
 2. Compress lateral lobe, fire needle, deploy implant; repeat on the other side.
-3. **Usually 4–6 implants**, anterolateral (between dorsal veins and neurovascular bundles), bladder neck to apex.
+3. **Usually 4–6 implants**, anterolateral, bladder neck to apex.
 4. Keep implants **>1.5 cm distal to the bladder neck** (encrustation).
 5. Most go home without a catheter.
 
@@ -259,9 +256,8 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 - TURP wins on IPSS, Qmax and PVR (post-void residual); "superior" in BPH6 means the composite only.
 
 ### Complications
-- Dysuria, haematuria, urgency, settling within 2 weeks; encrustation; rare pelvic haematoma, transfusion; device misfire.
+- Dysuria, haematuria, urgency (<2 weeks); encrustation; rare pelvic haematoma; device misfire.
 - Lower major adverse events but **higher retreatment than TURP**.
-- **Also know:** other MISTs: Rezūm, iTind.
 
 **Diagram to draw:** axial prostate with implants pulling lateral lobes to the capsule.
 
@@ -278,7 +274,7 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 
 ### Rationale
 - Chemotherapy reduces **recurrence** only; BCG (bacille Calmette-Guérin) reduces **progression** but fails in about a third.
-- Combinations use **different mechanisms** and overcome resistance; important in **BCG shortage** and **BCG-unresponsive** NMIBC (non-muscle-invasive bladder cancer).
+- Combinations add **different mechanisms**; useful in **BCG shortage** and **BCG-unresponsive** NMIBC (non-muscle-invasive bladder cancer).
 
 ### 1. Sequential chemotherapy (doublets)
 | Regimen | Method | Results |
@@ -287,16 +283,16 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 | Gem/MMC (mitomycin C) | Gemcitabine 1 g → MMC 40 mg | Durable recurrence-free about 38% |
 
 - **Why it works:** gemcitabine (antimetabolite) and docetaxel (microtubule stabiliser) act on different cell-cycle phases.
-- Oral sodium bicarbonate and antiemetics aid tolerance. No level 1 evidence; phase III BRIDGE compares it with BCG in BCG-naive disease.
+- Oral bicarbonate and antiemetics aid tolerance. No level 1 evidence; phase III BRIDGE compares it with BCG.
 
 ### 2. Chemotherapy with BCG
 - Sequential MMC–BCG: **no benefit** over BCG alone.
-- **Exception: BCG alternating with EMDA (electromotive drug administration)-MMC** in T1: lower recurrence and progression; a later trial was non-significant with more toxicity.
+- **Exception: BCG alternating with EMDA (electromotive drug administration)-MMC** in T1: lower recurrence and progression (a later trial non-significant).
 - Chemohyperthermia (RITE, radiofrequency-induced thermochemotherapeutic effect, 42 °C) also potentiates BCG.
 
 ### 3. BCG with immunomodulators
 - **BCG + interferon-α2b:** no gain over BCG, but allows BCG dose reduction to one-third.
-- **N-803 (nogapendekin alfa)**, an IL-15 (interleukin-15) superagonist activating CD8 T and NK (natural killer) cells. With BCG in BCG-unresponsive CIS: complete response 71%, 45% at 12 months; 87.5% avoid cystectomy. FDA (Food and Drug Administration)-approved in 2024 (chapter: "under review").
+- **N-803 (nogapendekin alfa)**, an IL-15 (interleukin-15) superagonist activating CD8 T and NK (natural killer) cells. With BCG in BCG-unresponsive CIS: complete response 71%, 45% at 12 months; FDA (Food and Drug Administration)-approved in 2024 (chapter: "under review").
 
 ### 4. BCG with checkpoint inhibitors (BCG-naive high risk)
 - **CREST** (sasanlimab + BCG) and **POTOMAC** (durvalumab + BCG): improved event-free or disease-free survival.
@@ -304,7 +300,7 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 
 ### 5. Novel combinations
 - **Cretostimogene** (oncolytic adenovirus) + pembrolizumab: about two-thirds complete response at 12 months.
-- **TAR-200** (gemcitabine-releasing device), alone or with cetrelimab: very high early complete response in BCG-unresponsive CIS (SunRISe-1); cetrelimab alone weaker.
+- **TAR-200** (gemcitabine-releasing device) ± cetrelimab: very high early complete response in BCG-unresponsive CIS (SunRISe-1).
 
 ### Toxicity
 - Additive cystitis; immune-related events with checkpoint inhibitors.
@@ -325,7 +321,7 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 
 ### Definition and incidence
 - A UCF (urethrocutaneous fistula) is a urethral leak anywhere below the meatus: the **commonest complication** of hypospadias repair, just under 10% at short-term follow-up.
-- After TIP (tubularised incised plate): 5.7% (**Pfistermuller 2015**); after proximal repair 3–45%. Commonest at the original meatus or coronal margin.
+- After TIP (tubularised incised plate): 5.7% (**Pfistermuller 2015**); proximal repair 3–45%. Usually at the original meatus or coronal margin.
 
 ### Aetiology
 - **Distal obstruction** (meatal stenosis, stricture): raises voiding pressure and turbulence; the **key correctable cause**.
@@ -337,11 +333,11 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 - **Vascularised barrier** (dartos; **tunica vaginalis** in proximal or redo), offset suture lines, stent in complex repairs.
 
 ### Evaluation
-- Split or multiple stream, usually within 2 years or at toilet training.
+- Multiple streams, usually within 2 years.
 - Under anaesthesia: **bougie calibration** for distal narrowing, **urethroscopy** if irregular, and a **stress test** (compress proximally and distally, inject saline or methylene blue) for hidden tracts.
 
 ### Management
-- Small early fistulae rarely close. **Wait 6–12 months** for tissues to soften; **correct distal obstruction at the same sitting**.
+- Rarely closes spontaneously. **Wait 6–12 months**; **correct distal obstruction at the same sitting**.
 
 | Fistula | Repair |
 |---|---|
@@ -352,7 +348,7 @@ Biopsy → cells expanded in culture → seeded on scaffold (+ signals)
 
 - Recurrence about **20%**; reduce with interposed vascularised layers (dartos, tunica vaginalis, Cecil modification when tissue is scarce).
 - Catheter: none for simple repairs, 7–14 days for complex.
-- **Also know:** preputial fistula does not involve the urethra; congenital fistula is closed the same way; follow through puberty.
+- **Also know:** preputial fistula does not involve the urethra; follow through puberty.
 
 ```
 UCF → wait 6–12 months → calibrate, urethroscopy, stress test
@@ -394,7 +390,7 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 1. Confirm clearance by rigid and **flexible nephroscopy** and fluoroscopy.
 2. Antegrade double-J stent, or externalised stent or string.
 3. Withdraw the sheath under vision; the **safety wire is removed last**.
-4. Watch the tract and apply pressure (rib as backstop in thin patients). Fibrin glue did not reduce bleeding in randomised trials; some use haemostatic sealants or tract cautery.
+4. Watch the tract and apply pressure (rib as backstop in thin patients). Fibrin glue did not reduce bleeding in randomised trials.
 5. Urethral catheter overnight.
 
 ### Evidence
@@ -427,7 +423,7 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 (also answered in 2017-Winter Paper 4, Q3d and 2022-Summer Paper 1, Q1)
 
 ### Definition
-- PCNL (percutaneous nephrolithotomy) through a **smaller tract** than standard, to reduce bleeding and renal trauma. First "mini-perc" by **Jackman (1998)**: 13 Fr tract, in children, for stones under 2 cm.
+- PCNL (percutaneous nephrolithotomy) through a **smaller tract**, to reduce bleeding and renal trauma. First "mini-perc": **Jackman (1998)**, 13 Fr, in children.
 
 | Designation | Tract size |
 |---|---|
@@ -441,7 +437,7 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 ### Instruments and technique
 - Mini nephroscopes (e.g. 12 Fr telescope, 15–18 Fr sheath, 6 Fr channel); holmium or thulium laser, or small pneumatic probes.
 - **Fragment removal:** irrigation outflow around the scope washes fragments out (**"vacuum-cleaner" effect**), or **active suction sheaths** (super-mini PCNL).
-- Ultrasound or fluoroscopic access; prone or supine; ECIRS (endoscopic combined intrarenal surgery) possible.
+- Prone or supine; ECIRS (endoscopic combined intrarenal surgery) possible.
 - Exit: often **tubeless** or a small nephrostomy (≤10 Fr: less pain).
 
 ### Advantages over standard PCNL
@@ -450,7 +446,7 @@ UCF → wait 6–12 months → calibrate, urethroscopy, stress test
 
 ### Disadvantages
 - **Longer operative time**, poorer vision, slower fragment clearance.
-- **Intrarenal pressure:** high-pressure irrigation through a small sheath, especially when the scope nearly fills it, causes pyelovenous backflow, **fever and sepsis**. Keep outflow free, use low-pressure irrigation or suction sheaths.
+- **Intrarenal pressure:** high-pressure irrigation through a tight sheath causes pyelovenous backflow, **fever and sepsis**. Keep outflow free; use suction sheaths.
 
 ### Evidence
 - Mini versus standard (meta-analysis): **non-inferior stone-free rate**, less bleeding, shorter stay, longer surgery; same adverse events.

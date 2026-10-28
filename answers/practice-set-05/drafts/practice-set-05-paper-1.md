@@ -19,7 +19,7 @@
 (male urethral anatomy also answered in 2019-Summer Paper 1, Q1; isolated epispadias in 2022-Summer Paper 3, Q3f)
 
 ### Anatomy of the male urethra
-- Length about 18–20 cm; normal diameter 8–9 mm. **Posterior urethra** runs from the bladder neck to the **perineal membrane**; **anterior urethra** runs from there to the meatus, inside the corpus spongiosum.
+- About 18–20 cm long, 8–9 mm wide. **Posterior urethra:** bladder neck to **perineal membrane**; **anterior urethra:** perineal membrane to meatus, inside the corpus spongiosum.
 
 | Segment | Features | Lining |
 |---|---|---|
@@ -32,7 +32,7 @@
 - **Sphincters:** (1) **internal (preprostatic) smooth-muscle sphincter**, autonomic, gives continence at rest; (2) **external striated rhabdosphincter**, horseshoe-shaped, supplied by the pudendal nerve (mainly S3, some S2; Onuf nucleus).
 - **Arteries:** internal pudendal → common penile artery → bulbourethral branches; retrograde flow through the glans from the dorsal arteries. This **dual supply** allows bulbar transection in urethroplasty.
 - **Veins** to the pudendal and prostatic plexuses; **lymph** to internal and external iliac nodes.
-- **Female urethra:** about 4 cm; inner longitudinal and outer circular smooth muscle; striated sphincter over the distal two-thirds (compressor urethrae, urethrovaginal sphincter); **Skene glands** (prostate homologue) near the meatus. Mucosal "seal" is oestrogen-dependent.
+- **Female urethra:** about 4 cm; smooth muscle plus striated sphincter over the distal two-thirds; **Skene glands** (prostate homologue) near the meatus; oestrogen-dependent mucosal seal.
 
 ### Classification of congenital urethral anomalies
 | Group | Anomalies |
@@ -47,7 +47,7 @@
 
 ### Epispadias: definition and classification
 - A **dorsal defect of the urethral wall**, replaced by a broad dorsal mucosal strip (urethral plate). It is part of the **exstrophy–epispadias complex**; most cases occur with exstrophy.
-- Embryology: abnormal overdevelopment of the cloacal membrane prevents medial mesenchymal ingrowth; the genital tubercles fuse caudal to it.
+- Embryology: an overdeveloped cloacal membrane blocks mesenchymal ingrowth; genital tubercles fuse caudal to it.
 
 | | Male | Female |
 |---|---|---|
@@ -56,7 +56,7 @@
 | Genitalia | Short, upturned penis with **dorsal chordee** | **Bifid clitoris**, flat glabrous mons |
 | VUR (vesicoureteric reflux) | 30–40% | 30–75% |
 
-- Continence depends on how proximal the meatus is: penopubic nearly always incontinent, glanular never. Pubic diastasis is present but less than in exstrophy.
+- The more proximal the meatus, the worse the continence (glanular never incontinent). Pubic diastasis is less than in exstrophy.
 
 ### Evaluation
 - Renal ultrasound; VCUG (voiding cystourethrogram) for reflux; cystoscopy and **bladder capacity** under anaesthesia.
@@ -69,9 +69,9 @@
 **Stage 1: urethroplasty and penile reconstruction (6–12 months)**
 1. Release dorsal chordee: divide suspensory ligaments; free corpora from the inferior pubic rami.
 2. **Modified Cantwell–Ransley:** an 18-mm plate strip is outlined; reverse MAGPI (meatal advancement and glanuloplasty) brings the meatus to the tip; the plate is tubularised over an 8-Fr stent and moved **ventral to the corpora**, which are rotated medially over it (diamond corporotomies if curvature persists).
-3. Glans wings closed; ventral skin flaps resurface the dorsum; Z-plasty at the base; stent 10–12 days.
+3. Glans wings closed; skin flaps resurface the dorsum; base Z-plasty; stent 10–12 days.
 - **Mitchell–Bägli complete penile disassembly:** reliable chordee correction, but often leaves hypospadias.
-- **Rationale:** outlet resistance makes the bladder grow, ready for stage 2.
+- Urethroplasty adds outlet resistance, so the bladder grows before stage 2.
 
 **Stage 2: bladder neck reconstruction (4–5 years, capacity about 100 mL)**
 - **Young–Dees–Leadbetter** repair with Marshall–Marchetti–Krantz suspension and **ureteric reimplantation**. Osteotomy is rarely needed.
@@ -81,8 +81,7 @@
 ### Outcomes and complications
 - Continence after bladder neck reconstruction: **males 47–82%, females 70–87%**; capacity is the main predictor.
 - Early fistula about 1 in 6, mostly at the penile base; stricture rare; neourethra always catheterisable. Erections and paternity usually preserved.
-- Epispadias does better than exstrophy because the bladder was never exposed or scarred.
-- **Also know:** failures treated by injectables, augmentation or continent diversion; psychological support into adulthood.
+- Better than exstrophy: the bladder was never exposed or scarred. Failures: injectables, augmentation.
 
 **Diagram to draw:** sagittal male urethra with segments; Cantwell–Ransley with plate transposed under the corpora.
 

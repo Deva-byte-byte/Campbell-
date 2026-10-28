@@ -326,9 +326,9 @@ Augmentation cystoplasty or urinary diversion
 ### Comparison with other GFR measures
 | Method | Comment |
 |---|---|
-| eGFR (CKD-EPI [Chronic Kidney Disease Epidemiology Collaboration] 2021) | Age and sex, no race; used for staging |
+| eGFR (estimated GFR; CKD-EPI [Chronic Kidney Disease Epidemiology Collaboration] 2021) | Age and sex, no race; used for staging |
 | Cystatin C | Independent of muscle; combined equation most accurate |
-| Measured GFR (inulin, iohexol, ⁵¹Cr-EDTA, ⁹⁹ᵐTc-DTPA) | Reference standard; DTPA also gives split function |
+| Measured GFR (inulin, iohexol, ⁵¹Cr-EDTA [ethylenediaminetetraacetic acid], ⁹⁹ᵐTc-DTPA [diethylenetriaminepentaacetic acid]) | Reference standard; DTPA also gives split function |
 
 ### Clinical uses
 - Drug dosing; **cisplatin eligibility** (CrCl <60 mL/min usually unfit).

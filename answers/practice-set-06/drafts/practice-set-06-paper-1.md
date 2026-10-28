@@ -291,9 +291,9 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 
 ### Technique
 - **Sterile urine** first. After UTI, wait until urine is sterile and the child is improving (about a week); the old 4–6-week delay is unnecessary.
-- Scout film (spine, stones) → catheter: **5 Fr feeding tube (infants), 6–8 Fr (children), 14–16 Fr (adults)** → confirm tip position.
+- Scout film → catheter: **5 Fr feeding tube (infants), 6–8 Fr (children), 14–16 Fr (adults)** → confirm tip position.
 - **Gravity fill** (≤70 cm H₂O) to expected capacity: <2 years weight (kg) × 7; 2–14 years (age × 30) + 30 mL; >14 years 300–500 mL. (Koff formula: (age + 2) × 30 mL.)
-- Bilateral **oblique views** (UVJ, prostatic urethra) → remove catheter → **void under fluoroscopy** (male urethra lateral) → **post-void film**.
+- **Oblique views** (UVJ, prostatic urethra) → remove catheter → **void under fluoroscopy** → **post-void film**.
 - **Cyclic VCUG** (2–3 fill–void cycles) detects 12–20% more VUR.
 
 ### Findings
@@ -308,7 +308,7 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 | V | Gross dilatation; papillary impressions lost |
 
 - Filling-phase reflux has a poorer resolution prognosis than voiding-only reflux.
-- **PUV:** dilated, elongated posterior urethra, prominent bladder neck, trabeculation, diverticula.
+- **PUV:** dilated, elongated posterior urethra, prominent bladder neck, trabeculation.
 - Ureterocele, diverticula, residual urine; post-void pelvic retention suggests PUJ (pelviureteric junction) obstruction.
 
 ### Limitations and complications
@@ -339,23 +339,23 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 
 ### Three core questions
 **1. Is it valid? (internal validity)**
-- **Clear question in PICO** (Population, Intervention, Comparison, Outcome) form; design suited to the question.
+- **PICO question** (Population, Intervention, Comparison, Outcome); suitable design.
 - **RCTs (randomised controlled trials):** true randomisation, **allocation concealment**, comparable groups at baseline, **blinding**, complete follow-up (>80%), **ITT (intention-to-treat) analysis**.
 - **Bias** checked:
 
 | Bias | Meaning |
 |---|---|
 | Selection | Groups differ at entry |
-| Confounding | Third factor (comorbidity, frailty) linked to both exposure and outcome |
+| Confounding | Third factor (comorbidity) linked to exposure and outcome |
 | Performance, detection, attrition | Unequal care, outcome assessment or dropouts |
 | Lead-time, length-time | Screening seems to prolong survival |
 | Stage migration (Will Rogers) | Better tests up-stage patients |
 | Publication | Negative studies unpublished |
 
 **2. What are the results?**
-- Effect size: RR (relative risk), **ARR (absolute risk reduction), NNT (number needed to treat) = 1/ARR**, HR (hazard ratio).
+- Effect: RR (relative risk), **ARR (absolute risk reduction), NNT (number needed to treat) = 1/ARR**, HR (hazard ratio).
 - Precision: **95% CI (confidence interval)**; p value; **sample size and power** (usually 80%; α 0.05).
-- Hard end points preferred; surrogate end points valid only if they meet the **Prentice criteria**.
+- Surrogate end points valid only if they meet the **Prentice criteria**.
 - Validated outcome tools; complications graded (Clavien–Dindo).
 
 **3. Does it apply? (external validity)**
@@ -394,8 +394,8 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 (also answered in 2025-Winter Paper 1, Q3e)
 
 ### Definition and physiology
-- Serum potassium **>5.5 mmol/L**; mild 5.5–5.9, moderate 6.0–6.4, **severe ≥6.5** (UK Kidney Association). Above 6.0 is generally urgent.
-- About 98% of potassium is intracellular; the ratio sets the resting membrane potential, so high levels cause **arrhythmia and cardiac arrest**.
+- Serum potassium **>5.5 mmol/L**; mild 5.5–5.9, moderate 6.0–6.4, **severe ≥6.5** (UK Kidney Association).
+- 98% of potassium is intracellular; the ratio sets the resting membrane potential, so high levels cause **arrhythmia and cardiac arrest**.
 - Defence: shift into cells (insulin, β₂-agonists via Na⁺/K⁺-ATPase), then renal excretion (distal sodium delivery, urine flow, aldosterone).
 
 ### Causes
@@ -403,7 +403,7 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 |---|---|
 | Pseudohyperkalaemia | Haemolysis, tourniquet, fist clenching, thrombocytosis |
 | Reduced excretion | AKI (acute kidney injury), CKD (chronic kidney disease), **obstructive uropathy** (type 4 RTA [renal tubular acidosis]), adrenal insufficiency; drugs: ACE (angiotensin-converting enzyme) inhibitors, ARBs (angiotensin receptor blockers), spironolactone, NSAIDs (non-steroidal anti-inflammatory drugs), tacrolimus |
-| Shift out of cells | Acidosis, insulin deficiency, β-blockers, suxamethonium |
+| Shift out of cells | Acidosis, insulin deficiency, β-blockers |
 | Cell release | **Rhabdomyolysis** (prolonged lithotomy or flank position), tumour lysis, crush |
 | Urological | **Jejunal conduit** (reabsorbs urinary potassium) |
 
@@ -415,7 +415,7 @@ or PCD failure                 -> nephrectomy (emergency or delayed)
 ### Emergency treatment (in order)
 | Step | Drug and dose | Onset and effect |
 |---|---|---|
-| **1. Protect the heart** | **Calcium gluconate 10%, 10 mL IV (intravenous)** over 5–10 min; repeat if ECG unchanged | 1–3 min; lasts 30–60 min; does not lower potassium |
+| **1. Protect the heart** | **Calcium gluconate 10%, 10 mL IV (intravenous)** over 5–10 min; repeat if ECG unchanged | 1–3 min; does not lower potassium |
 | **2. Shift into cells** | **Insulin 10 units regular IV with 50 mL of 50% dextrose** | 15–30 min; lowers about 0.6–1 mmol/L; monitor glucose |
 | | **Salbutamol 20 mg nebulised** | Additive to insulin |
 | | Sodium bicarbonate | Only with metabolic acidosis |

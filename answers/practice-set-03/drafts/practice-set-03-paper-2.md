@@ -21,18 +21,18 @@
 *Assumed meaning: the whole pathway of deceased-donor kidney donation in India: donor identification and brain-stem death certification, donor maintenance, organ allocation and retrieval.*
 
 ### Introduction
-- A 25-year-old brain-dead patient is an ideal **standard-criteria DBD (donation after brain death)** donor. Circulation continues until cold perfusion, so warm ischaemia is minimal.
-- India: **THOA (Transplantation of Human Organs Act) 1994**, amended 2011 (tissues added), **Rules 2014**. Brain-stem death is legal death.
+- A 25-year-old brain-dead patient is an ideal **standard-criteria DBD (donation after brain death)** donor: circulation continues until cold perfusion, so warm ischaemia is minimal.
+- **THOA (Transplantation of Human Organs Act) 1994**, amended 2011, **Rules 2014**, makes brain-stem death legal death.
 
 ### 1. Identification
-- **Potential donor:** any ventilated patient with catastrophic brain injury (road traffic head injury, intracranial bleed, hypoxic injury) who is losing brainstem reflexes.
-- ICU (intensive care unit) informs the **transplant coordinator** early. **Mandatory (required) request:** the hospital must offer the family the option of donation.
-- **Donor evaluation:** cause of death; history of hypertension, diabetes, cancer, high-risk behaviour; creatinine, urinalysis, urine output, ultrasound. ABO and HLA (human leucocyte antigen) typing. Serology and NAT (nucleic acid testing) for HIV (human immunodeficiency virus), hepatitis B and C, CMV (cytomegalovirus), EBV (Epstein–Barr virus), syphilis and toxoplasma.
-- **Absolute contraindications:** active or metastatic cancer, haematological malignancy, past melanoma, untreatable viral infection. Treated bacterial infection, even meningitis, is acceptable.
+- **Potential donor:** ventilated patient with catastrophic brain injury (road traffic head injury, intracranial bleed, hypoxia) losing brainstem reflexes.
+- ICU (intensive care unit) informs the **transplant coordinator** early. **Mandatory request:** the hospital must offer the family donation.
+- **Evaluation:** history (hypertension, diabetes, cancer, high-risk behaviour), creatinine, urine output, ultrasound; ABO and HLA (human leucocyte antigen) typing; serology and NAT (nucleic acid testing) for HIV (human immunodeficiency virus), hepatitis B and C, CMV (cytomegalovirus), syphilis.
+- **Absolute contraindications:** active or metastatic cancer, haematological malignancy, past melanoma, untreatable viral infection. Treated bacterial meningitis is acceptable.
 
 ### 2. Certification of brain-stem death (THOA)
-- **Board of four:** doctor in charge of the hospital; independent specialist from an approved panel; neurologist or neurosurgeon (if unavailable, a nominated surgeon, physician, anaesthetist or intensivist); treating doctor. **No member from the transplant team.**
-- **Preconditions:** apnoeic coma on a ventilator with a known irreversible cause. Exclude sedatives, relaxants, hypothermia, metabolic or endocrine causes and shock.
+- **Board of four:** doctor in charge of the hospital; independent specialist from an approved panel; neurologist or neurosurgeon (else a nominated surgeon, physician, anaesthetist or intensivist); treating doctor. **None from the transplant team.**
+- **Preconditions:** apnoeic coma with a known irreversible cause; exclude sedatives, relaxants, hypothermia, metabolic causes and shock.
 
 | Brainstem reflex (all absent) | Method | Cranial nerves |
 |---|---|---|
@@ -43,37 +43,37 @@
 | Motor response in cranial nerve area | Supraorbital pressure: no grimace | V, VII |
 | Gag and cough | Touch pharynx; suction catheter in trachea: no response | IX, X |
 
-- **Apnoea test (done last):** pre-oxygenate with 100% oxygen, disconnect the ventilator with oxygen insufflation. **No breathing effort at PaCO₂ (arterial carbon dioxide tension) ≥60 mmHg** confirms apnoea. Abort for hypotension, desaturation or arrhythmia.
-- **Two sets of tests at least 6 hours apart**; certified on **Form 10**. Ancillary tests (angiography, perfusion scan, EEG [electroencephalogram]) only if clinical testing is impossible.
-- **Consent** of the near relative (Form 8). In medico-legal cases the police are informed and retrieval is arranged so that it does not hinder the post-mortem.
+- **Apnoea test (last):** pre-oxygenate with 100% oxygen; disconnect the ventilator with oxygen insufflation; **no breathing effort at PaCO₂ (arterial carbon dioxide tension) ≥60 mmHg**. Abort for hypotension, desaturation or arrhythmia.
+- **Two sets of tests at least 6 hours apart**; **Form 10**. Ancillary tests (angiography, perfusion scan) only if examination is impossible.
+- **Consent** of the near relative (Form 8). Medico-legal case: inform police; retrieval must not hinder post-mortem.
 
 ### 3. Maintenance (donor management)
-- **Why it is needed:** brainstem herniation causes a **catecholamine storm**, then loss of sympathetic tone (hypotension), **diabetes insipidus (DI)**, hypothermia, DIC (disseminated intravascular coagulation), low thyroid hormone and cortisol, and neurogenic pulmonary oedema. Without support, the circulation fails within days.
+- **Why:** herniation causes a **catecholamine storm**, then loss of sympathetic tone (hypotension), **diabetes insipidus (DI)**, hypothermia, DIC (disseminated intravascular coagulation), low thyroid hormone and cortisol, and pulmonary oedema.
 - **"Rule of 100s":** systolic pressure >100 mmHg, urine >100 mL/h, PaO₂ (arterial oxygen tension) >100 mmHg, haemoglobin >100 g/L.
 - **Measures:**
-  - Fluids guided by CVP (central venous pressure) or dynamic indices; avoid starch colloids (nephrotoxic).
+  - Fluids guided by CVP (central venous pressure); avoid starch colloids (nephrotoxic).
   - **Vasopressin** first (pressor and treats DI), then noradrenaline; desmopressin for persistent DI.
-  - Hormones: methylprednisolone 15 mg/kg, thyroid hormone, insulin for hyperglycaemia.
-  - Lung-protective ventilation; warming; correct sodium, potassium and coagulopathy; avoid nephrotoxins.
+  - Methylprednisolone 15 mg/kg, thyroid hormone, insulin.
+  - Lung-protective ventilation; warming; correct sodium, potassium and clotting.
 
 ### 4. Distribution (allocation)
-- **NOTTO (National Organ and Tissue Transplant Organisation)**, New Delhi, with five **ROTTOs** (regional) and **SOTTOs** (state organisations), keeps the registry and waiting lists.
-- **Sequence:** retrieving hospital and state list first → region → national, if no suitable recipient.
-- **Kidney allocation criteria:** ABO compatibility, waiting time on the list or on dialysis, HLA match, priority for children and previous living donors, and a **negative crossmatch** with donor lymphocytes (spleen or nodes). Many state policies let the retrieving hospital keep one kidney.
-- 2023 national policy removed the domicile requirement and the upper age limit for registration.
+- **NOTTO (National Organ and Tissue Transplant Organisation)**, New Delhi, with **ROTTOs** (regional) and **SOTTOs** (state organisations), keeps registries and waiting lists.
+- **Sequence:** retrieving hospital and state list → region → national, if no suitable recipient.
+- **Kidney criteria:** ABO compatibility, waiting time on dialysis, HLA match, priority for children and previous living donors, **negative crossmatch** (donor spleen or nodes). Many states let the retrieving hospital keep one kidney.
+- 2023 policy removed the domicile requirement and upper age limit for registration.
 
 ### 5. Retrieval (multi-organ, DBD)
-1. **Check** death certificate, consent and blood group; coordinate heart, liver and kidney teams.
-2. **Incision:** xiphoid-to-pubis midline with median sternotomy.
-3. **Exposure:** mobilise right colon and small-bowel mesentery off the retroperitoneum (Cattell–Braasch manoeuvre); expose aorta and IVC (inferior vena cava). **Look for aberrant renal arteries**; keep accessory arteries from the iliacs.
-4. **Cold perfusion:** systemic heparin; cannulate the distal aorta; clamp the supracoeliac aorta; **vent** the IVC; flush cold UW (University of Wisconsin) or HTK (histidine–tryptophan–ketoglutarate) solution; crushed ice; open Gerota's fascia laterally.
+1. **Check** death certificate, consent, blood group; coordinate teams.
+2. **Incision:** xiphoid-to-pubis midline with sternotomy.
+3. **Exposure:** mobilise right colon and small-bowel mesentery (Cattell–Braasch manoeuvre); expose aorta and IVC (inferior vena cava). **Look for aberrant renal arteries**; keep accessory arteries from the iliacs.
+4. **Cold perfusion:** heparin; cannulate the distal aorta; clamp the supracoeliac aorta; **vent** the IVC; flush cold UW (University of Wisconsin) or HTK (histidine–tryptophan–ketoglutarate) solution; crushed ice; open Gerota's fascia laterally.
 5. **Heart, lungs, liver and pancreas out first.**
-6. **Kidneys en bloc:** mobilise with perinephric fat off the posterior wall; keep periureteric tissue; divide ureters low; divide aorta and IVC (upper limit set by the liver team, lower at the bifurcation); lift anteriorly and divide prevertebral tissue.
+6. **Kidneys en bloc:** lift with perinephric fat off the posterior wall; keep periureteric tissue; divide ureters low, then aorta and IVC (upper limit set by the liver team); divide prevertebral tissue.
 7. **Extras:** iliac vessels for reconstruction; spleen and nodes for crossmatch.
 
 ### 6. Back-bench preparation and preservation
-- Split the aorta between renal ostia; keep an aortic **Carrel patch**; keep IVC with the right kidney to lengthen its short vein; ligate lymphatics; spare the lower pole–ureter triangle. Document anatomy; triple-bag on ice.
-- Cooling to 4 °C slows metabolism. **Hypothermic machine perfusion** reduces DGF (delayed graft function) but not long-term graft loss. Keep cold ischaemia short (>24 hours raises thrombosis risk).
+- Split the aorta between renal ostia (**Carrel patch**); keep IVC with the right kidney to lengthen its vein; ligate lymphatics; spare the lower pole–ureter triangle; triple-bag on ice.
+- Cooling to 4 °C slows metabolism. **Hypothermic machine perfusion** reduces DGF (delayed graft function), not long-term graft loss. Cold ischaemia >24 hours raises thrombosis risk.
 
 **Diagram to draw:** aorta and IVC with distal aortic cannula, supracoeliac clamp, IVC vent and en bloc kidneys.
 
