@@ -66,7 +66,7 @@
 | Outcome | Facts |
 |---|---|
 | **Renal scarring** | About 15% get a febrile UTI within 2 years; about 15% of those scar. Risk highest under 1 year. Much "scarring" in boys with high grade is **congenital dysplasia**, not preventable by any treatment |
-| **Hypertension** | Reflux nephropathy is probably the commonest cause of childhood hypertension after essential hypertension (renin–angiotensin). **34–38%** of scarred children are hypertensive as adults. Correcting VUR does not lower BP; nephrectomy of a small scarred kidney helps selected cases |
+| **Hypertension** | Reflux nephropathy may be the commonest cause of childhood hypertension after essential hypertension (renin–angiotensin). **34–38%** of scarred children are hypertensive as adults. Correcting VUR does not lower BP; nephrectomy of a small scarred kidney helps selected cases |
 | **CKD (chronic kidney disease) and ESKD (end-stage kidney disease)** | Now rare: RRT (renal replacement therapy) from reflux nephropathy fell from 1.9 to 0.6 per million (USRDS (United States Renal Data System), 1996–2014). Bilateral scars cause hyperfiltration, proteinuria, concentrating defect, tubular acidosis |
 | **Pregnancy** | VUR in late pregnancy: pyelonephritis about one-third versus under 5%. Scars: about **3× hypertension, 8× pre-eclampsia**; bilateral worse. Impaired function: fetal loss. Reimplanted women still get UTIs |
 | Growth; offspring | Catch-up growth after infection control; about 43% of screened offspring have VUR |
@@ -124,7 +124,7 @@ Scars -> lifelong BP and proteinuria checks
 ### Epispadias: definition and classification
 - A **dorsal urethral defect**: the roof is replaced by a broad mucosal strip. Cause: absent mesodermal reinforcement of the cloacal membrane; the genital tubercles fuse caudal to it.
 - **Male (1 in 117,000):** glanular, penile, **penopubic** (about 70%, incontinent). **Female (1 in 484,000), Davis:** vesicular (patulous), subsymphyseal, retrosymphyseal (incontinent).
-- **Features:** short broad penis with **dorsal chordee**; pubic diastasis (less than exstrophy); small bladder from no outlet resistance; **VUR (vesicoureteral reflux) 30–40% (male), 30–75% (female)**. Female: bifid clitoris, flat mons.
+- **Features:** short broad penis with **dorsal chordee**; pubic diastasis (less than exstrophy); small bladder from no outlet resistance; **VUR (vesicoureteral reflux) 30–40% (male), 30–75% (female)**. Female: bifid clitoris, depressed mons.
 
 ### Evaluation
 - Ultrasound; VCUG (voiding cystourethrogram); cystoscopy and capacity under anaesthesia.
@@ -240,7 +240,7 @@ Proliferation -> moderate shortening -> senescence/apoptosis (barrier 1)
 
 > **Key points to remember:**
 > - Telomerase = hTERT (catalytic) + hTR (RNA template).
-> - About 100 bp lost per division; 85–90% of tumours express telomerase.
+> - About 100 base pairs lost per division; 85–90% of tumours express telomerase.
 > - TERT promoter mutation is the commonest mutation in bladder cancer.
 > - TRAP assay detects urinary telomerase; inflammation gives false positives.
 
@@ -377,7 +377,7 @@ Still negative -> empirical trial if clinically compatible
 - **TKIs (tyrosine kinase inhibitors):** pazopanib, sunitinib, axitinib. Tumour volume falls **10–30%**; resection becomes possible in **40–45%**, including PN candidates. Best in clear cell RCC (renal cell carcinoma).
 - **Toxicity:** serious adverse events about 20%, mainly **wound healing**. Stop TKIs several half-lives before and after surgery.
 - **Checkpoint inhibitors:** nivolumab is safe but shrinks little; trials ongoing.
-- **Status:** investigational; **upfront surgery whenever feasible**. Adjuvant pembrolizumab (KEYNOTE-564) suits high-risk resected disease.
+- **Status:** not standard (trials only); **upfront surgery whenever feasible**. Adjuvant pembrolizumab (KEYNOTE-564) suits high-risk resected disease.
 
 **Diagram to draw:** RAPN with selective segmental clamp and renorrhaphy.
 
