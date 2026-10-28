@@ -29,9 +29,10 @@
 
 ### Pathophysiology
 - **Pure supersaturation disease**: no specific inhibitor. Solubility is pH dependent: about 300 mg/L at pH 5, 400 mg/L at pH 7, 1000 mg/L at pH 9.
+- Coexisting hypocitraturia (commonest), hyperuricosuria or hypercalciuria cause mixed calcium–cystine stones.
 
 ### Clinical features
-- First stone at mean about 12 years; recurrent, bilateral, staghorn stones; CKD (chronic kidney disease) from repeated surgery.
+- First stone at mean about 12 years; recurrent, bilateral, staghorn stones; CKD (chronic kidney disease) from repeated surgery (about a quarter of adults have eGFR [estimated glomerular filtration rate] <60).
 
 ### Diagnosis
 - **Hexagonal crystals** in urine (always abnormal); cyanide–nitroprusside screen; 24-hour urinary cystine (normal <60 mg/day/1.73 m²; homozygotes often >400).
@@ -62,7 +63,7 @@
 (irrigation fluids answered in 2017-Summer Paper 2, Q3a; complications in Practice Set 9 Paper 2, Q3b)
 
 ### Introduction
-- TURP (transurethral resection of the prostate): wire loop removes transition-zone adenoma **from bladder neck to verumontanum, down to the surgical capsule**. Gold standard for glands about 30–80 mL (AUA [American Urological Association]).
+- TURP (transurethral resection of the prostate): wire loop removes transition-zone adenoma **from bladder neck to verumontanum, down to the surgical capsule**. Gold standard for glands up to 80 mL (AUA [American Urological Association] 2023); larger glands need enucleation or simple prostatectomy.
 
 ### Preparation
 - Sterile urine; spinal or general anaesthesia; lithotomy with peroneal padding.
@@ -73,7 +74,7 @@
 - **Median lobe first**, then lateral lobes.
 - **Modified Nesbit "encirclement":** start at 11–9 and 1–3 o'clock; expose but do not resect bladder neck fibres.
 - **Floor-first:** channel at 5 or 7 o'clock to the capsule (sets depth early); widen laterally; lateral lobes "fall" into the fossa.
-- **Anterior start (Fig. 151.6):** 12 o'clock, then quadrants towards the apex.
+- **Anterior start:** 12 o'clock bladder neck, then quadrants down to the apex.
 - **Chips:** long "canoe-like" chips with synchronised rocking.
 - **Anterior tissue and apex last** in a bloodless field; leaving a little tissue is better than incontinence.
 - Haemostasis: arterial bleeders must be fulgurated; venous ooze settles with catheter traction.
@@ -85,12 +86,12 @@
 |---|---|---|
 | Current | Loop → patient → pad | Stays at loop |
 | Irrigant | Glycine, sorbitol, water | Saline |
-| TUR syndrome | Yes (resection <90 min) | Eliminated |
+| TUR (transurethral resection) syndrome | Yes; keep resection <90 min | Eliminated |
 | Bleeding | More | Less transfusion, clot retention |
 | Efficacy | Equal | Equal |
 
 - Plasma loop (platinum–iridium) cuts at lower temperature and seals vessels.
-- **Also know:** TUVP (transurethral vaporisation, button electrode; ≤80 mL); TUIP (transurethral incision, <30 mL, no median lobe); bipolar enucleation; resection on anticoagulants unsafe (choose laser).
+- **Also know:** TUVP (transurethral vaporisation, button electrode; ≤80 mL); TUIP (transurethral incision, <30 mL, no median lobe); bipolar enucleation; high bleeding risk: AUA prefers HoLEP (holmium laser enucleation) or PVP (photoselective vaporisation).
 
 ### Outcomes
 - About 80% symptom improvement; low retreatment; retrograde ejaculation about two-thirds.
@@ -114,15 +115,15 @@
 
 | Type | Protein | Cause |
 |---|---|---|
-| **AL** (primary) | Immunoglobulin light chain | Plasma cell dyscrasia, myeloma |
-| **AA** (secondary) | Serum amyloid A | Chronic inflammation: TB (tuberculosis), rheumatoid arthritis, osteomyelitis, pressure sores, hidradenitis |
+| **AL** (amyloid light-chain; primary) | Immunoglobulin light chain | Plasma cell dyscrasia, myeloma |
+| **AA** (amyloid A; secondary) | Serum amyloid A | Chronic inflammation: TB (tuberculosis), rheumatoid arthritis, osteomyelitis, pressure sores, hidradenitis |
 | **ATTR** (hereditary transthyretin) | Transthyretin | Autosomal dominant neuropathy |
 | Dialysis-related | β2-microglobulin | Long-term dialysis |
 | **Localised** | Usually AL | Deposits in one organ only |
 
 ### Urological sites
 - **Kidney (systemic):** nephrotic proteinuria, CKD (chronic kidney disease), enlarged kidneys, renal vein thrombosis, proximal tubular defects.
-- **Bladder (usually localised):** **painless gross haematuria**; yellowish plaques or nodules that **mimic carcinoma**. Secondary bladder amyloid can bleed severely.
+- **Bladder (usually localised):** **painless gross haematuria**; yellowish plaques or nodules that **mimic carcinoma**. Secondary bladder amyloid can bleed severely; Campbell lists amyloidosis among systemic causes of haemorrhagic cystitis.
 - **Ureter and renal pelvis:** stricture or filling defect, often calcified; mimics urothelial cancer; obstruction.
 - **Urethra:** rare; mass, obstructive voiding, haematuria.
 - **Seminal vesicles:** senile deposits in older men; can mimic cancer invasion on MRI (magnetic resonance imaging).
@@ -133,11 +134,11 @@
 - Exclude systemic disease: serum and urine protein electrophoresis, immunofixation, free light chains, echocardiogram, renal function.
 
 ### Management
-- **Localised bladder:** TUR (transurethral resection) or fulguration; intravesical DMSO (dimethyl sulfoxide) reported; follow-up cystoscopy for recurrence.
+- **Localised bladder:** TUR (transurethral resection) or fulguration; intravesical DMSO (dimethyl sulfoxide) reported; recurrence is common, so follow-up cystoscopy is needed.
 - **Ureter:** ureteroscopic resection or segmental excision; stent for obstruction.
 - **Urethra:** observe if mild; dilatation or urethroplasty if obstructive.
 - **Refractory bleeding:** irrigation, embolisation, cystectomy.
-- **Systemic:** AL: chemotherapy (daratumumab with bortezomib regimen, ANDROMEDA trial) or stem cell transplant; AA: treat inflammation (colchicine in familial Mediterranean fever); ATTR: tafamidis, patisiran.
+- **Systemic:** AL: chemotherapy (daratumumab with bortezomib regimen, ANDROMEDA trial) or stem cell transplant; AA: treat inflammation (colchicine in familial Mediterranean fever); ATTR: tafamidis, patisiran. AA amyloid can recur in a renal transplant.
 
 **Diagram to draw:** Congo red stained fibrils with apple-green birefringence.
 
@@ -204,7 +205,7 @@
 **Type:** SAQ (10 marks)
 
 ### Introduction
-- Second-generation oral **PDE5I (phosphodiesterase type 5 inhibitor)**; **FDA (US Food and Drug Administration) approved 2012**. Structure differs most from the other PDE5Is.
+- Second-generation oral **PDE5I (phosphodiesterase type 5 inhibitor)**; **FDA (US Food and Drug Administration) approved 2012**; Europe 2013. Structure differs most from the other PDE5Is.
 
 ### Mechanism
 - Sexual stimulation releases NO (nitric oxide), which raises cGMP (cyclic guanosine monophosphate) and relaxes cavernosal smooth muscle. PDE5 breaks down cGMP; avanafil blocks this.
@@ -224,7 +225,7 @@
 - Taken about 15–30 minutes before sex; start 100 mg; maximum once daily. Metabolised by CYP3A4 (cytochrome P450 3A4).
 
 ### Efficacy
-- Effective in general ED (erectile dysfunction), **diabetes** and **after nerve-sparing radical prostatectomy** (REVIVE trial programme). Efficacy equivalent across PDE5Is; no head-to-head superiority.
+- Effective in general ED (erectile dysfunction), **diabetes** and **after nerve-sparing radical prostatectomy** (REVIVE trial programme): improves IIEF (International Index of Erectile Function) erectile scores and successful-intercourse rates, some within 15 minutes. Efficacy equivalent across PDE5Is; no head-to-head superiority.
 
 ### Adverse effects
 - Headache, flushing, nasal congestion, dyspepsia; back pain rare.
@@ -233,7 +234,7 @@
 - **Nitrates in any form**: absolute; no nitrate within 12 hours of a dose.
 - Avoid strong CYP3A4 inhibitors (ketoconazole, ritonavir); maximum 50 mg with moderate inhibitors.
 - **α-blockers:** start 50 mg once stable (additive hypotension).
-- Caution: aortic stenosis, recent myocardial infarction or stroke, hypotension, retinitis pigmentosa.
+- Caution: aortic stenosis, recent myocardial infarction or stroke, hypotension, retinitis pigmentosa. Not recommended in severe renal impairment, dialysis or severe hepatic impairment.
 - **Also know:** proposed prophylaxis for recurrent ischaemic priapism; can cause priapism rarely.
 
 ### Advantages
@@ -275,10 +276,10 @@
 - **Also know:** staged (two-stage) inguinal orchidopexy; Dessanti PTFE (polytetrafluoroethylene) sleeve traction; gubernaculum-sparing technique; redo approaches (Redman lateral, Cartwright fascial patch).
 
 ### Complications
-- **Atrophy**, retraction, vas injury, haematoma.
+- **Atrophy** (highest after Fowler–Stephens), retraction or reascent, vas or vessel injury, haematoma, infection; torsion very rare after subdartos fixation.
 
 ### Follow-up
-- Size and position at 6 months; self-examination after puberty.
+- Size and position at 6 months; counsel on fertility and cancer risk; self-examination after puberty. Offer prosthesis for an atrophic testis.
 
 **Diagram to draw:** Fowler–Stephens collateral supply: testicular artery clipped, deferential and cremasteric arteries intact.
 
