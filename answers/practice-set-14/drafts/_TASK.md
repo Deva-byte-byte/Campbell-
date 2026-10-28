@@ -21,4 +21,3 @@ Workflow per question: read matching chapters → draft → check every fact aga
 - Many questions are EXACT repeats of earlier actual-paper questions (the PDF notes "Repeat of actual paper question"). Grep answers/*/drafts/ for the same wording; adapt that reviewed answer (re-check numbers against chapters), and add the "(also answered in …)" line.
 - Cross-reference-only answers use this exact form: `**See Practice Set 14 Paper <n>, Q<x> (full answer).**` then a key points box with 3 SAQ-angle points.
 - This set has only Papers 1 and 2 (the question-bank PDF contains only Papers I and II).
-- Within this set: Paper 1 Q3a (VLPP in SUI) is the full VLPP answer. Paper 1 Q3b (leak point pressures – clinical implication) covers DLPP in full and ALPP/VLPP briefly with "see Practice Set 14 Paper 1, Q3a".
