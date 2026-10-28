@@ -431,6 +431,6 @@ M1  → systemic therapy
 **Diagram to draw:** ureterocalicostomy: lower-pole parenchyma excised, spatulated ureter sewn to calyx.
 
 > **Key points to remember:**
-> - Redo pyeloplasty is most successful (about 85–90%).
+> - Redo pyeloplasty is most successful (about 83–89%); endopyelotomy about 70%.
 > - Ureterocalicostomy: resect lower-pole parenchyma; about 70% in redo series.
 > - Function <15% with normal other kidney: nephrectomy.
