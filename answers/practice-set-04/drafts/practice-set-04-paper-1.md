@@ -186,7 +186,7 @@ Augmentation cystoplasty or urinary diversion
 
 ### Pathogenesis
 - **Triad: stone, obstruction, infection.** Stones in up to 80% (half staghorn).
-- Low-virulence organisms (**Proteus** commonest, *E. coli*) in an obstructed, ischaemic kidney with an inadequate acute inflammatory response. Lipid probably comes from lysed red cells.
+- Low-virulence organisms (**Proteus** commonest, *E. coli*) in an obstructed, ischaemic kidney with an inadequate acute inflammatory response.
 
 ### Pathology
 - Diffuse (>80%) or segmental (focal).
@@ -264,7 +264,7 @@ Augmentation cystoplasty or urinary diversion
 *Taken as Christian Chaussy, the Munich urologist who pioneered extracorporeal shock wave lithotripsy; answered as the history and principles of SWL.*
 
 ### Contribution and history
-- Engineers at **Dornier** (aircraft industry) found by chance that shock waves from raindrop and micrometeorite research affected tissue.
+- Engineers at **Dornier** found by chance that shock waves from raindrop and micrometeorite research affected tissue.
 - Chaussy, with Brendel and Schmiedt in **Munich**, developed the technique in animals and performed the **first human SWL (shock wave lithotripsy) on 7 February 1980 on the Dornier HM1**. They reported it in the *Lancet* in 1980.
 - **HM3** (water bath, electrohydraulic spark, biplanar fluoroscopy): first installations Stuttgart 1983 and Indianapolis 1984. It remains the reference for efficacy.
 - SWL made most open stone surgery obsolete.
@@ -309,7 +309,7 @@ Augmentation cystoplasty or urinary diversion
 - Normal about 120 mL/min/1.73 m² in young men, slightly lower in women; falls with age.
 
 ### Measured 24-hour creatinine clearance
-- **CrCl = (U × V) / P**: U = urine creatinine, V = urine flow (mL/min), P = plasma creatinine (same units).
+- **CrCl = (U × V) / P**: U = urine creatinine, V = urine flow (mL/min), P = plasma creatinine.
 - **Method:** discard the first morning void, collect all urine for 24 hours including the next morning's first void; take serum creatinine during the collection.
 - **Completeness check:** creatinine excretion should be **20–25 mg/kg/day in men, 15–20 mg/kg/day in women**.
 
@@ -331,7 +331,7 @@ Augmentation cystoplasty or urinary diversion
 | Measured GFR (inulin, iohexol, ⁵¹Cr-EDTA, ⁹⁹ᵐTc-DTPA) | Reference standard; DTPA also gives split function |
 
 ### Clinical uses
-- Drug dosing (antibiotics, chemotherapy); **cisplatin eligibility** (CrCl <60 mL/min usually unfit).
+- Drug dosing; **cisplatin eligibility** (CrCl <60 mL/min usually unfit).
 - Extremes of body size, amputees and pregnancy, where eGFR is unreliable.
 - Living donor evaluation (confirm with measured GFR).
 
@@ -354,7 +354,7 @@ Augmentation cystoplasty or urinary diversion
 ### Tracers
 | Tracer | Handling | Use |
 |---|---|---|
-| ⁹⁹ᵐTc-**MAG3** (mercaptoacetyltriglycine) | Tubular secretion; extraction about 60% | **Agent of choice**: split function and drainage, good images even with poor function |
+| ⁹⁹ᵐTc-**MAG3** (mercaptoacetyltriglycine) | Tubular secretion | **Agent of choice**: split function and drainage, good images even with poor function |
 | ⁹⁹ᵐTc-**DTPA** (diethylenetriaminepentaacetic acid) | Glomerular filtration | GFR (glomerular filtration rate); poor in renal impairment |
 | ⁹⁹ᵐTc-**DMSA** (dimercaptosuccinic acid) | Cortical retention | Static split function and scars; no drainage data |
 
