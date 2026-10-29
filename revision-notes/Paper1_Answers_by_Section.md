@@ -12235,3 +12235,401 @@ Non-organ-confined, M0
 - 75 mg/m² 3-weekly + prednisone; TAX 327 HR 0.76.
 - CHAARTED: benefit in high-volume mHSPC (HR 0.61).
 - Neutropenia, oedema, neuropathy, nail change; cabazitaxel after failure.
+
+# Appendix · Original papers: headings, notes and contents
+
+*Each source file's own title, note and contents list, exactly as printed, so every word of the originals is kept.*
+
+#### 2015-Summer Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Patho-physiology of urine production and transport (LAQ)
+2. Q2. Female pelvic anatomy in relation to prolapse and SUI (LAQ)
+3. Q3a. Newer generation CT scan
+4. Q3b. History of laparoscopy
+5. Q3c. Renin-angiotensin system
+6. Q3d. Patho-physiology of brain stem death
+7. Q3e. Male reproductive immunology
+8. Q3f. Principles of antimicrobial therapy in UTI
+
+#### 2016-Summer Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Iodinated contrast agents and their complications (LAQ)
+2. Q2. General principles of GU infections, common organisms, bacteraemia and septic shock (LAQ)
+3. Q3a. External sphincter dyssynergia (SAQ)
+4. Q3b. Embryology of posterior urethral valves (SAQ)
+5. Q3c. Drugs associated with acute renal failure (SAQ)
+6. Q3d. Anomalies detected on the prenatal scan at 16–20 weeks (SAQ)
+7. Q3e. Foley's catheter (SAQ)
+8. Q3f. Andrew Novick (SAQ)
+
+#### 2017-Summer Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Anatomy of the kidney; nephron-sparing surgery in the small renal mass (LAQ)
+2. Q2. Pathophysiology of urosepsis and its management (LAQ)
+3. Q3a. Complications of intravenous contrast media (SAQ)
+4. Q3b. Flexible ureterorenoscopy (SAQ)
+5. Q3c. Perinephric abscess (SAQ)
+6. Q3d. Ciprofloxacin (SAQ)
+7. Q3e. Hasson's cannula (SAQ)
+8. Q3f. Proteinuria (SAQ)
+
+#### 2017-Winter Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Anatomy of the pelvicalyceal system and its application in endourological surgery (LAQ)
+2. Q2. Physiology of spermatogenesis and management of azoospermia (LAQ)
+3. Q3a. Management of Peyronie's disease (SAQ)
+4. Q3b. Treatment of renal abscess (SAQ)
+5. Q3c. Catheter-associated urinary tract infection (CAUTI) (SAQ)
+6. Q3d. Contrast-induced nephropathy (CIN) (SAQ)
+7. Q3e. Transrectal ultrasound study of the prostate (SAQ)
+8. Q3f. Oncogenes (SAQ)
+
+#### 2018-Summer Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Lymphatic drainage of the genitourinary system; etiopathogenesis and management of chyluria (LAQ)
+2. Q2. Laparoscopic access and gases; open vs laparoscopic vs robotic radical prostatectomy (LAQ)
+3. Q3a. Non-iodinated contrast materials (SAQ)
+4. Q3b. Acetylcysteine (SAQ)
+5. Q3c. Health-related quality of life instruments in urology (SAQ)
+6. Q3d. Distal renal tubular acidosis (SAQ)
+7. Q3e. PET scans in urology (SAQ)
+8. Q3f. Complicated urinary tract infections (SAQ)
+
+#### 2019-Summer Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Embryology and anatomy of the male urethra; endoscopic management of urethral strictures (LAQ)
+2. Q2. Physiological and haemodynamic changes of pneumoperitoneum; complications of retroperitoneoscopy (LAQ)
+3. Q3a. Methods to estimate GFR in a prospective renal donor (SAQ)
+4. Q3b. VLPP in SUI (SAQ)
+5. Q3c. HoLEP in BPH (SAQ)
+6. Q3d. Non-obstructive azoospermia (SAQ)
+7. Q3e. Acetylcysteine (SAQ)
+8. Q3f. ESBL-producing enterobacterial UTI (SAQ)
+
+#### 2020-Summer Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Clinical implications of AIDS on the genitourinary tract (LAQ)
+2. Q2. Embryological development of the VU junction; management of primary VUR (LAQ)
+3. Q3a. Berger's disease (IgA nephropathy) (SAQ)
+4. Q3b. Instrumentation for developing the extraperitoneal space in laparoscopy (SAQ)
+5. Q3c. Lichen sclerosus (SAQ)
+6. Q3d. Renal allograft rejection (SAQ)
+7. Q3e. Leak point pressures: clinical implications (SAQ)
+8. Q3f. Role of renal nephrometry in the management of RCC (SAQ)
+
+#### 2021-Summer Paper 1 (practice) – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Lymphatic drainage of testis and scrotum; management implications in penile malignancies (LAQ)
+2. Q2. IVU and its applications in urology (LAQ)
+3. Q3a. Premalignant conditions in urology (SAQ)
+4. Q3b. Bacteriuria in pregnancy (SAQ)
+5. Q3c. Complications of DJ stent (SAQ)
+6. Q3d. Proteinuria (SAQ)
+7. Q3e. Radionuclide studies for PUJ obstruction (SAQ)
+8. Q3f. Immunosuppressants (SAQ)
+
+*Practice paper compiled from the question bank; the actual 2021-Summer Paper 1 was not available.*
+
+#### 2022-Summer Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Anatomy of kidney in relation to PCNL; indications, contraindications, procedure and complications of mini-PCNL (LAQ)
+2. Q2. Urological evaluation and management of pediatric kidney transplant patient (LAQ)
+3. Q3a. Intestinal segments in urology (SAQ)
+4. Q3b. Burch colposuspension (SAQ)
+5. Q3c. Drug Fosfomycin (SAQ)
+6. Q3d. Use of contrast agents in urology and their complications (SAQ)
+7. Q3e. 46-XX Male (SAQ)
+8. Q3f. Millin's prostatectomy (SAQ)
+
+#### 2023-Winter Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Principles of tissue engineering and its use in urology (LAQ)
+2. Q2. Enlist various grafts used in urology and role of BMG in urology (LAQ)
+3. Q3a. Management of perforated mid urethral sling (SAQ)
+4. Q3b. Robotic radical prostatectomy (SAQ)
+5. Q3c. Kidney retrieval techniques for organ donation (SAQ)
+6. Q3d. Diagnosis and management of hemorrhagic cystitis (SAQ)
+7. Q3e. Surgical management of primary scrotal cancer (SAQ)
+8. Q3f. Female circumcision (SAQ)
+
+#### 2024-Winter Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Anatomy of the retroperitoneum; principles of retroperitoneal laparoscopy and steps of retroperitoneal laparoscopic nephrectomy (LAQ)
+2. Q2. Embryological descent of the gonads; evaluation and management of bilateral undescended testis at 3 years (LAQ)
+3. Q3a. RECIST criteria (SAQ)
+4. Q3b. Algorithm for difficult catheter placement (SAQ)
+5. Q3c. Chronic prostatitis: diagnosis, classification and management (SAQ)
+6. Q3d. Multiparametric MRI for prostate cancer: components and interpretation (SAQ)
+7. Q3e. Indications for outpatient cystourethroscopy (SAQ)
+8. Q3f. Prone vs supine PCNL (SAQ)
+
+#### 2025-Winter Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Pathogenesis, diagnosis and management of congenital PUJ obstruction (LAQ)
+2. Q2. Nephron-sparing surgery in renal malignancy (LAQ)
+3. Q3a. Extended criteria for selection of a live renal donor (SAQ)
+4. Q3b. Metabolic evaluation in stone disease (SAQ)
+5. Q3c. Haematospermia (SAQ)
+6. Q3d. Vascular complications after renal transplantation in the recipient (SAQ)
+7. Q3e. Management of acute hyperkalaemia (SAQ)
+8. Q3f. BCG therapy in bladder cancer (SAQ)
+
+#### Practice Set 1 Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Anatomy of the kidney; role of nephron-sparing surgery in the small renal mass (LAQ)
+2. Q2. Anatomy of the prostate and its neurovascular bundles, with clinical details (LAQ)
+3. Q3a. MR urography (SAQ)
+4. Q3b. Urine cytology (SAQ)
+5. Q3c. Varicocele: pathophysiology (SAQ)
+6. Q3d. Anatomy of the renal collecting system and its relevance to PCNL (SAQ)
+7. Q3e. Detrusor relaxants in OAB: compare and contrast (SAQ)
+8. Q3f. Bilateral congenital VUR: pathophysiology and natural history (SAQ)
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 2 Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Anatomy of the female pelvic floor; fertility-sparing treatment of procidentia (LAQ)
+2. Q2. Embryology and clinical implications of anomalous IVC development (LAQ)
+3. Q3a. Patient positioning in laparoscopic urology (SAQ)
+4. Q3b. Familial malignancies in urology (SAQ)
+5. Q3c. Lymphogranuloma venereum (SAQ)
+6. Q3d. Isotope studies in urology (SAQ)
+7. Q3e. Renal isotope scans (SAQ)
+8. Q3f. Diuretic renography (SAQ)
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 3 Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Haemodynamic and physiological changes due to pneumoperitoneum during laparoscopy (LAQ)
+2. Q2. Complications of retroperitoneoscopy (LAQ)
+3. Q3a. Clinical trial methodology (SAQ)
+4. Q3b. Classification of immunosuppressants and common protocols (SAQ)
+5. Q3c. Assessment of quality of life after urinary diversion (SAQ)
+6. Q3d. Evidence-based medicine (SAQ)
+7. Q3e. Nanobacteria and their role in urolithiasis (SAQ)
+8. Q3f. Secondary malignancies in urology (SAQ)
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 4 Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Pathophysiology of renal stones and prevention of recurrence (LAQ)
+2. Q2. Pathophysiology of OAB; outline of management; non-pharmacological management (LAQ)
+3. Q3a. Xanthogranulomatous pyelonephritis (SAQ)
+4. Q3b. Doppler in urology (SAQ)
+5. Q3c. Christian Chaussey (SAQ)
+6. Q3d. Creatinine clearance (SAQ)
+7. Q3e. Radionuclear studies in PUJ obstruction (SAQ)
+8. Q3f. Cyclosporins (SAQ)
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 5 Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Anatomy of the urethra; classification of congenital urethral anomalies; management of epispadias (LAQ)
+2. Q2. Physiology of erection; evaluation of a diabetic with ED (LAQ)
+3. Q3a. Tear drop bladder (SAQ)
+4. Q3b. TESA (SAQ)
+5. Q3c. ESBL-producing enterobacterial UTI (SAQ)
+6. Q3d. Flow cytometry (SAQ)
+7. Q3e. Vascular grafts in urology (SAQ)
+8. Q3f. Hypokalemia (SAQ)
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 6 Paper 1 – Basic Sciences in Urology
+
+1. Q1. Describe anatomy of arenal glands AND steps in production of adrenal hormones & perioperative management of a patient of pheochromocytoma
+2. Q2. Describe embryology of bladder. What are the proposed theories for extrophy epispadias complex? Describe skeletal abnormalities.
+3. Q3a. Premalignant lesion of penis
+4. Q3b. EPN. Prognostic factors & conserv. mgt.
+5. Q3c. VCUG
+6. Q3d. Criteria for evaluation of quaLliy of medical research papers
+7. Q3e. Mgt. of acute hyperkalemia.
+8. Q3f. Oncogene
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 7 Paper 1 – Basic Sciences in Urology
+
+1. Q1. Prune Belly Syndrome. Antenatal diagnosis, pathophysiology and postnatal management.
+2. Q2. Lymphatic drainage of testis and principles for designing templates for RPLND.
+3. Q3a. Papillary necrosis.
+4. Q3b. MAG 3
+5. Q3c. Hari Asopa and Charles Huggins
+6. Q3d. Genetic counselling
+7. Q3e. Therapeutic angioembolization.
+8. Q3f. Endorectal coil MRI
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 8 Paper 1 – Basic Sciences in Urology
+
+1. Q1. Describe lymphatic system of urinary tract with reference to etiopathogenesis of chyluria.
+2. Q2. Pathophysiology of Renovascular hypertension
+3. Q3a. Lymphocele
+4. Q3b. Docetaxel
+5. Q3c. Cephalsporins
+6. Q3d. USG in neonates
+7. Q3e. Interventional urological treatment in urology
+8. Q3f. Familial malignancy in urology
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 9 Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Anatomy of the prostate and concepts in surgical management of localised prostate cancer (LAQ, 25)
+2. Q2. Anatomy of the female pelvic floor; fertility-preserving treatment of procidentia (LAQ, 25)
+3. Q3a. Contributions of Harold Hopkins, Charles Huggins, Roy Calne and D. D. Gaur (SAQ, 10)
+4. Q3b. EMG (SAQ, 10)
+5. Q3c. Secondary malignancies in urology (SAQ, 10)
+6. Q3d. Hematospermia (SAQ, 10)
+7. Q3e. Botulinum toxin (SAQ, 10)
+8. Q3f. Retrograde endopyelotomy (SAQ, 10)
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 10 Paper 1 – Basic Sciences in Urology
+
+**Contents**
+1. Q1. Management of chyluria (LAQ)
+2. Q2. Physiological and haemodynamic effects of laparoscopy; laparoscopic donor nephrectomy (LAQ)
+3. Q3a. Nocturnal enuresis (SAQ)
+4. Q3b. BXO (lichen sclerosus) (SAQ)
+5. Q3c. Autotransplantation (SAQ)
+6. Q3d. Congenital penile curvature (SAQ)
+7. Q3e. Maturation arrest (SAQ)
+8. Q3f. Detrusor sphincter dyssynergia (SAQ)
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 11 Paper 1 – Basic Sciences in Urology
+
+1. Q1. Describe pzthophysiology of urosepsis and its management.
+2. Q2. Describe anatomy of pelvic floor in females and its importance in surgeries described for SUI
+3. Q3a. Retrocaval ureter
+4. Q3b. Glandular hypospadias
+5. Q3c. Treatment of submeatal stricture urethra in males
+6. Q3d. TOT in SUI
+7. Q3e. Testicular biopsy
+8. Q3f. Premature Ejaculation
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 12 Paper 1 – Basic Sciences in Urology
+
+1. Q1. Describe neurophysiology of lower urinary tract and various types of voiding dysfunction in children
+2. Q2. Lymphatic drainage of testes and principles of designing templates of RPLND
+3. Q3a. Retroperitoneal fibrosis
+4. Q3b. TIP repair in hypospadias
+5. Q3c. Perineal urethrostomy.
+6. Q3d. Describe clinical presentation of pelic floor prolapse. diagnostic evaluation and brief discussion of various surgical options.
+7. Q3e. Neurotransmitters in erectile function
+8. Q3f. TUR Syndrome
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 13 Paper 1 – Basic Sciences in Urology
+
+1. Q1. Radionuclide scans and its applications in uro
+2. Q2. Describe embryology and anatomy of kidney.. Describe role of nephron sparing surgery in a small renal mass.
+3. Q3a. MOA of botulinum toxin. Indications and dosages in UROLOGY
+4. Q3b. Vanishing testes
+5. Q3c. Management of failed pyeloplasty
+6. Q3d. Circumcision undone
+7. Q3e. Female urethral diverticula
+8. Q3f. Endoscopic procedure of SUI
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 14 Paper 1 – Basic Sciences in Urology
+
+1. Q1. Developmental embryology of the testes, physiological descent and abnormalities of descent (LAQ)
+2. Q2. Staging of CA prostate and management of non-organ-confined CA prostate (LAQ)
+3. Q3a. Testicular microlithiasis (SAQ)
+4. Q3b. Postoperative lymphatic leak (SAQ)
+5. Q3c. Hyperfiltration injury in AKI and CKD (SAQ)
+6. Q3d. Pelvicalyceal anomalies other than PUJ obstruction (SAQ)
+7. Q3e. TURP instruments (SAQ)
+8. Q3f. Methods to estimate prostate size (SAQ)
+
+*Practice paper compiled from the question bank.*
+
+#### Practice Set 18 SAQ Sheet – Short Answer Practice
+
+**Contents**
+1. Q3a. Fungal UTI (SAQ) [Paper I]
+2. Q3b. Antimicrobial resistance (SAQ) [Paper I]
+3. Q3c. Biofilm (SAQ) [Paper I]
+4. Q3d. Tumour markers in urology (SAQ) [Paper I]
+5. Q3e. Haemostatic agents in urology (SAQ) [Paper I]
+6. Q3f. Urethral catheters, guidewires and DJ stents (SAQ) [Paper I]
+
+*Short-answer practice sheet compiled from handwritten study lists.*
+
+#### Practice Set 19 SAQ Sheet – Short Answer Practice
+
+**Contents**
+1. Q3a. Sterilisation of urological instruments (SAQ) [Paper I]
+2. Q3b. Post-obstructive diuresis (SAQ) [Paper I]
+3. Q3c. Renal mucormycosis (SAQ) [Paper I]
+4. Q3d. Hydatid disease of kidney (SAQ) [Paper I]
+5. Q3e. Ethics and informed consent in urology (SAQ) [Paper I]
+6. Q3f. Operating room set-up (SAQ) [Paper I]
+
+*Short-answer practice sheet compiled from handwritten study lists.*
+
+#### Practice Set 20 SAQ Sheet – Short Answer Practice
+
+**Contents**
+1. Q3a. Growing teratoma syndrome (SAQ; Paper II)
+2. Q3b. Stone complexity scores (SAQ; Paper II)
+3. Q3c. Calyceal diverticulum – classification and management (SAQ; Paper II)
+4. Q3d. Transplant renal artery stenosis (SAQ; Paper II)
+5. Q3e. Pelvic lipomatosis (SAQ; Paper II)
+6. Q3f. Cancer in augmented bladder (SAQ; Paper II)
+
+*Short-answer practice sheet compiled from handwritten study lists.*
+
+#### Practice Set 21 SAQ Sheet – Short Answer Practice
+
+**Contents**
+1. Q3a. Cystinuria (SAQ; Paper II)
+2. Q3b. TURP techniques (SAQ; Paper II)
+3. Q3c. Amyloidosis in urology (SAQ; Paper II)
+4. Q3d. Management of CAPD peritonitis (SAQ; Paper II)
+5. Q3e. Avanafil (SAQ; Paper II)
+6. Q3f. Methods of orchidopexy (SAQ; Paper III)
+
+*Short-answer practice sheet compiled from handwritten study lists.*
+
+#### Practice Set 22 SAQ Sheet – Short Answer Practice
+
+1. Q3a. Noonan syndrome
+2. Q3b. Neurogenic bladder in myelodysplasia
+3. Q3c. Eponymous techniques of VVF repair
+4. Q3d. Endometriosis in urology
+5. Q3e. Hypospadias repairs – single-stage versus staged techniques
+6. Q3f. Instestinal segments in urology (repeat of 2022-Summer Paper 1, Q3a)
+
+*Short-answer practice sheet compiled from handwritten study lists.*
